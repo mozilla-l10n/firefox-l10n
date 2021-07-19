@@ -34,7 +34,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = జాలంలో వెతకండి
     .title = జాలంలో వెతకండి
     .aria-label = జాలంలో వెతకండి
-newtab-search-box-text = జాలంలో వెతకండి
 newtab-search-box-input =
     .placeholder = జాలంలో వెతకండి
     .aria-label = జాలంలో వెతకండి
