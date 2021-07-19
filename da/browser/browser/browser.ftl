@@ -165,51 +165,6 @@ page-action-remove-from-urlbar =
 page-action-remove-extension =
     .label = Fjern udvidelse
 
-## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Send faneblad til enhed
-           *[other] Send { $tabCount } faneblade til enhed
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Send faneblad til enhed
-           *[other] Send { $tabCount } faneblade til enhed
-        }
-page-action-copy-url-panel =
-    .label = Kopier link
-page-action-copy-url-urlbar =
-    .tooltiptext = Kopier link
-page-action-email-link-panel =
-    .label = Send link…
-page-action-email-link-urlbar =
-    .tooltiptext = Send link…
-page-action-share-url-panel =
-    .label = Del
-page-action-share-url-urlbar =
-    .tooltiptext = Del
-page-action-share-more-panel =
-    .label = Mere…
-page-action-send-tab-not-ready =
-    .label = Synkroniserer enheder…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Fastgør faneblad
-page-action-pin-tab-urlbar =
-    .tooltiptext = Fastgør faneblad
-page-action-unpin-tab-panel =
-    .label = Frigør faneblad
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Frigør faneblad
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -440,6 +395,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Mikrofon
+popup-select-speaker-icon =
+    .tooltiptext = Højttalere
 popup-all-windows-shared = Alle synlige vinduer på din skærm vil blive delt.
 popup-screen-sharing-not-now =
     .label = Ikke nu
@@ -478,6 +435,8 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Søg eller indtast en adresse
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Browseren fjernstyres
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -510,8 +469,6 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Søg med { $name } eller indtast en adresse
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Browseren fjernstyres
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -688,6 +645,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Reparer tegnkodning
+    .tooltiptext = Fastlæg den korrekte tekstkodning ud fra meddelelsens indhold
 
 ## Customize Toolbar Buttons
 
