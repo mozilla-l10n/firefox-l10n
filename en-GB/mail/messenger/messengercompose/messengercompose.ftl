@@ -8,9 +8,6 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Remove the { $type } field
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Remove the { $type } field
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Remove the { $type } field
 #   $type (String) - the type of the addressing row
@@ -170,3 +167,11 @@ many-public-recipients-ignore =
 compose-missing-identity-warning = A unique identity matching the From address was not found. The message will be sent using the current From field and settings from identity { $identity }.
 encrypted-bcc-warning = When sending an encrypted message, recipients in Bcc are not fully hidden. All recipients may be able to identify them.
 encrypted-bcc-ignore-button = Understood
+
+## Editing
+
+
+# Tools
+
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Remove Text Styling
