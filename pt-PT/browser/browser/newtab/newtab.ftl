@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalizar
     .title = Personalizar novo separador
     .aria-label = Personalizar novo separador
+newtab-personalize-icon-label =
+    .title = Personalizar novo separador
+    .aria-label = Personalizar novo separador
 newtab-personalize-dialog-label =
     .aria-label = Personalizar
 
