@@ -37,7 +37,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Bilatu webean
     .title = Bilatu webean
     .aria-label = Bilatu webean
-newtab-search-box-text = Bilatu webean
 newtab-search-box-input =
     .placeholder = Bilatu webean
     .aria-label = Bilatu webean
