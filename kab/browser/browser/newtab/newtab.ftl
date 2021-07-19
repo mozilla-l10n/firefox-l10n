@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Nadi di Web
     .title = Nadi di Web
     .aria-label = Nadi di Web
-newtab-search-box-text = Nadi di web
 newtab-search-box-input =
     .placeholder = Nadi di web
     .aria-label = Nadi di web
