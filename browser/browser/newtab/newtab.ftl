@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalizojeni
     .title = Personalizoni skedën e re
     .aria-label = Personalizoni skedën e re
+newtab-personalize-icon-label =
+    .title = Personalizoni skedën e re
+    .aria-label = Personalizoni skedën e re
 newtab-personalize-dialog-label =
     .aria-label = Personalizojeni
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Kërkoni në Web
     .title = Kërkoni në Web
     .aria-label = Kërkoni në Web
-newtab-search-box-text = Kërkoni në web
 newtab-search-box-input =
     .placeholder = Kërkoni në web
     .aria-label = Kërkoni në web
