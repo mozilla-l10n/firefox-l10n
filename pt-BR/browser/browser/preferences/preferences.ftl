@@ -1114,6 +1114,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Exceções…
     .accesskey = E
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Exceções…
+    .accesskey = E
+    .searchkeywords = popup
 permissions-addon-install-warning =
     .label = Avisar quando sites tentarem instalar extensões
     .accesskey = A
