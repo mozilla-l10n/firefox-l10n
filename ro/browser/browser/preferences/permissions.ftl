@@ -64,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Blochează
 permissions-capabilities-listitem-allow-session =
     .value = Permite pentru sesiune
+permissions-capabilities-listitem-off =
+    .value = Dezactivat
+permissions-capabilities-listitem-off-temporarily =
+    .value = Dezactivat temporar
 
 ## Invalid Hostname Dialog
 
