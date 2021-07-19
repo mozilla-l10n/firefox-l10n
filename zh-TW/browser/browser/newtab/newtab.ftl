@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = 個人化
     .title = 個人化新分頁
     .aria-label = 個人化新分頁
+newtab-personalize-icon-label =
+    .title = 個人化新分頁
+    .aria-label = 個人化新分頁
 newtab-personalize-dialog-label =
     .aria-label = 個人化
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = 搜尋 Web
     .title = 搜尋 Web
     .aria-label = 搜尋 Web
-newtab-search-box-text = 搜尋 Web
 newtab-search-box-input =
     .placeholder = 搜尋 Web
     .aria-label = 搜尋 Web
