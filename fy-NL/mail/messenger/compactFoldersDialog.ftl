@@ -12,6 +12,9 @@ compact-dialog =
     .buttonaccesskeycancel = F
     .buttonlabelextra1 = Mear ynfo…
     .buttonaccesskeyextra1 = M
+# Variables:
+#  $data (String): The amount of space to be freed, formatted byte, MB, GB, etc., based on the size.
+compact-dialog-message = { -brand-short-name } moat regelmjittich bestânsûnderhâld dwaan om de prestaasjes fan jo e-mailmappen te ferbetterjen. Dit sil { $data } fan skiifromte werstelle sûnder jo berjochten te wizigjen. Om { -brand-short-name } dit yn de takomst automatysk sûnder te freegjen dwaan te litten, selektearje it fakje hjirûnder eardat jo ‘{ compact-dialog.buttonlabelaccept }’ kieze.
 compact-dialog-never-ask-checkbox =
     .label = Mappen yn de takomst automatysk komprimearje
     .accesskey = a
