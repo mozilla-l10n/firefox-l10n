@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Pretraži web
     .title = Pretraži web
     .aria-label = Pretraži web
-newtab-search-box-text = Pretraži web
 newtab-search-box-input =
     .placeholder = Pretraži web
     .aria-label = Pretraži web
