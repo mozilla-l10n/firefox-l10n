@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Søg på internettet
     .title = Søg på internettet
     .aria-label = Søg på internettet
-newtab-search-box-text = Søg på nettet
 newtab-search-box-input =
     .placeholder = Søg på nettet
     .aria-label = Søg på nettet
