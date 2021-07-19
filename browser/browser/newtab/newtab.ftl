@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personnaliser
     .title = Personnaliser la page de nouvel onglet
     .aria-label = Personnaliser la page de nouvel onglet
+newtab-personalize-icon-label =
+    .title = Personnaliser la page de nouvel onglet
+    .aria-label = Personnaliser la page de nouvel onglet
 newtab-personalize-dialog-label =
     .aria-label = Personnaliser
 
