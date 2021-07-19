@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Web’de ara
     .title = Web’de ara
     .aria-label = Web’de ara
-newtab-search-box-text = Web’de ara
 newtab-search-box-input =
     .placeholder = Web’de ara
     .aria-label = Web’de ara
