@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Klask er web
     .title = Klask er web
     .aria-label = Klask er web
-newtab-search-box-text = Klask er web
 newtab-search-box-input =
     .placeholder = Klask er web
     .aria-label = Klask er web
