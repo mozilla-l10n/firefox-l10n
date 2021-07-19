@@ -102,7 +102,6 @@ account-setup-step3-image =
     .title = Wedi canfod ffurfweddiad
 account-setup-step4-image =
     .title = Gwall cysylltiad
-account-setup-privacy-footnote = Bydd eich manylion yn cael eu defnyddio'n unol â'n polisi preifatrwydd <a data-l10n-name="privacy-policy-link">polisi preifatrwydd</a> a'u cadw'n lleol ar eich cyfrifiadur.
 account-setup-step5-image =
     .title = Cyfrif wedi'i greu
 account-setup-privacy-footnote2 = Dim ond ar eich cyfrifiadur y bydd eich manylion yn cael eu storio'n lleol.
@@ -135,7 +134,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Cadw eich ffolderi a'ch e-byst ar eich cyfrifiadur
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-account-setup-result-exchange-description = Gweinydd Microsoft Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Defnyddiwch weinydd Microsoft Exchange neu wasanaethau cwmwl Office365
 account-setup-incoming-title = Derbyn
 account-setup-outgoing-title = Anfon
 account-setup-username-title = Enw Defnyddiwr
