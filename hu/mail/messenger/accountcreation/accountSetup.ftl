@@ -102,7 +102,6 @@ account-setup-step3-image =
     .title = Konfiguráció megtalálva
 account-setup-step4-image =
     .title = Kapcsolódási hiba
-account-setup-privacy-footnote = A hitelesítő adatait az <a data-l10n-name="privacy-policy-link">adatvédelmi irányelveink</a> szerint használjuk fel, és csak helyben tároljuk, az Ön számítógépén.
 account-setup-step5-image =
     .title = Fiók létrehozva
 account-setup-privacy-footnote2 = A hitelesítő adatok csak helyben lesznek tárolva a számítógépen.
@@ -131,7 +130,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Mappák és e-mailek tárolása az Ön számítógépén
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-account-setup-result-exchange-description = Microsoft Exchange Server
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Microsoft Exchange vagy Office 365 felhőszolgáltatások használata
 account-setup-incoming-title = Bejövő
 account-setup-outgoing-title = Kimenő
 account-setup-username-title = Felhasználónév

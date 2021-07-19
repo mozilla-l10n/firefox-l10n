@@ -22,9 +22,6 @@ content-tab-security-broken-icon =
 
 ## Toolbar
 
-addons-and-themes-button =
-    .label = Kiegészítők és témák
-    .tooltip = Saját kiegészítők kezelése
 addons-and-themes-toolbarbutton =
     .label = Kiegészítők és témák
     .tooltiptext = Kiegészítők kezelése
@@ -130,3 +127,9 @@ caret-browsing-prompt-check-text = Ne kérdezze meg újra.
 repair-text-encoding-button =
     .label = Szövegkódolás javítása
     .tooltiptext = Kitalálja a helyes szövegkódolást az üzenet tartalma alapján
+
+## no-reply handling
+
+no-reply-title = A válasz nem támogatott
+no-reply-message = A válaszcím ({ $email }) nem tűnik figyelt címnek. Az erre a címre küldött leveleket valószínűleg senki sem fogja olvasni.
+no-reply-reply-anyway-button = Válasz mindenképp

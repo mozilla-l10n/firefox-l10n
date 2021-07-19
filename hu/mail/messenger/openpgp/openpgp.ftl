@@ -607,6 +607,12 @@ no-temp-dir =
 possibly-pgp-mime = Lehet, hogy PGP/MIME segítségével titkosított vagy aláírt üzenet; az ellenőrzéshez használja a „Visszafejtés/Ellenőrzés” funkciót
 cannot-send-sig-because-no-own-key = Nem lehet digitálisan aláírni ezt az üzenetet, mert még nem állította be a végpontok közti titkosítást a(z) <{ $key }> számára
 cannot-send-enc-because-no-own-key = Nem küldheti el titkosítva ezt az üzenetet, mert még nem állította be a végpontok közti titkosítást a(z) <{ $key }> számára
+compose-menu-attach-key =
+    .label = Saját nyilvános kulcs mellékelése
+    .accesskey = m
+compose-menu-encrypt-subject =
+    .label = Tárgy titkosítása
+    .accesskey = T
 # Strings used in decryption.jsm
 do-import-multiple =
     Importálja a következő kulcsokat?
