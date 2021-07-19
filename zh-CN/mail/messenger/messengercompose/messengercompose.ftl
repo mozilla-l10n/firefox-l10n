@@ -8,9 +8,6 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = 移除 { $type } 栏
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = 移除 { $type } 栏
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = 移除 { $type } 栏
 #   $type (String) - the type of the addressing row
@@ -167,3 +164,11 @@ many-public-recipients-ignore =
 compose-missing-identity-warning = 找不到匹配发件人（From）地址的唯一身份。该邮件将使用当前 From 字段和 { $identity } 身份的设置发送。
 encrypted-bcc-warning = 发送加密邮件时，并未完全隐藏密送的收件者。所有收件者都可能识别出他们。
 encrypted-bcc-ignore-button = 好的
+
+## Editing
+
+
+# Tools
+
+compose-tool-button-remove-text-styling =
+    .tooltiptext = 移除文本样式
