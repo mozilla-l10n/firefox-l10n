@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Keresés a weben
     .title = Keresés a weben
     .aria-label = Keresés a weben
-newtab-search-box-text = Keresés a weben
 newtab-search-box-input =
     .placeholder = Keresés a weben
     .aria-label = Keresés a weben
