@@ -10,6 +10,7 @@ third-party-intro =
     eller { -vendor-short-name }, betragtes som tredjeparts-moduler.
 third-party-header-module-list = Modulliste
 third-party-header-loading-events = Indlæser begivenheder
+third-party-message-empty = Ingen tredjeparts-moduler blev fundet.
 third-party-message-no-duration = Ikke registreret
 third-party-detail-version = Filversion
 third-party-detail-vendor = Information om leverandør
