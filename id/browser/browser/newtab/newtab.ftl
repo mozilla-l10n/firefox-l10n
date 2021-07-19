@@ -39,7 +39,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Cari di Web
     .title = Cari di Web
     .aria-label = Cari di Web
-newtab-search-box-text = Cari di web
 newtab-search-box-input =
     .placeholder = Cari di web
     .aria-label = Cari di web
