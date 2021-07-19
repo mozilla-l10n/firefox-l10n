@@ -217,6 +217,8 @@ cert-not-verified-unknown = Não foi possível verificar este certificado por ra
 send-no-client-certificate = Não enviar nenhum certificado de cliente
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (não armazenado)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (não disponível)
 
 ## Used to show whether an override is temporary or permanent
 
