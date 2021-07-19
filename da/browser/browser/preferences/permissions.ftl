@@ -93,6 +93,7 @@ permissions-exceptions-cookie-desc = Du kan angive, hvilke websteder der altid e
 permissions-exceptions-https-only-window =
     .title = Undtagelser - Tilstanden Kun-HTTPS
     .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Du kan slå tilstanden Kun-HTTPS fra for bestemte websteder. { -brand-short-name } vil ikke forsøge at opgradere til en sikker forbindelse for de valgte websteder. Undtagelser gælder ikke for private vinduer.
 
 ## Exceptions - Pop-ups
 
