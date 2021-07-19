@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Prispôsobiť
     .title = Prispôsobiť stránku novej karty
     .aria-label = Prispôsobiť stránku novej karty
+newtab-personalize-icon-label =
+    .title = Prispôsobiť stránku novej karty
+    .aria-label = Prispôsobiť stránku novej karty
 newtab-personalize-dialog-label =
     .aria-label = Prispôsobiť
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Vyhľadávanie na webe
     .title = Vyhľadávanie na webe
     .aria-label = Vyhľadávanie na webe
-newtab-search-box-text = Vyhľadávanie na webe
 newtab-search-box-input =
     .placeholder = Vyhľadávanie na webe
     .aria-label = Vyhľadávanie na webe
