@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Персаналізаваць
     .title = Персаналізаваць новую картку
     .aria-label = Персаналізаваць новую картку
+newtab-personalize-icon-label =
+    .title = Персаналізаваць новую картку
+    .aria-label = Персаналізаваць новую картку
 newtab-personalize-dialog-label =
     .aria-label = Персаналізаваць
 
