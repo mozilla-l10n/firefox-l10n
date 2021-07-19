@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Tichinäx
     .title = Tichinäx k'ak'a' ruwi'
     .aria-label = Tichinäx k'ak'a' ruwi'
+newtab-personalize-icon-label =
+    .title = Tichinäx k'ak'a' ruwi'
+    .aria-label = Tichinäx k'ak'a' ruwi'
 newtab-personalize-dialog-label =
     .aria-label = Tichinäx
 
@@ -39,7 +42,6 @@ newtab-search-box-search-the-web-input =
     .placeholder = Tikanöx pan Ajk'amaya'l
     .title = Tikanöx pan Ajk'amaya'l
     .aria-label = Tikanöx pan Ajk'amaya'l
-newtab-search-box-text = Tikanöx pan ajk'amaya'l
 newtab-search-box-input =
     .placeholder = Tikanöx pan ajk'amaya'l
     .aria-label = Tikanöx pan ajk'amaya'l
