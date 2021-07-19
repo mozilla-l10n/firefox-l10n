@@ -133,4 +133,5 @@ repair-text-encoding-button =
 ## no-reply handling
 
 no-reply-title = Wotmołwa so njepodpěruje
+no-reply-message = Zda so, zo wotmołwna adresa ({ $email }) dohladowana adresa njeje. Powěsće na tutu adresu so najskerje wot nikoho nječitaja.
 no-reply-reply-anyway-button = Najebać toho wotmołwić
