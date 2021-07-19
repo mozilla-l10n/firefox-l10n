@@ -4,6 +4,7 @@
 
 e2e-intro-description = Pro inviar messages cifrate o signate digitalmente, tu debe configurar un technologia de cryptographia OpenPGP o S/MIME.
 e2e-intro-description-more = Elige tu clave personal pro activar le uso de OpenPGP o tu certificato personal pro activar le uso de S/MIME. Pro un clave personal o un certificato tu debe haber le correspondente clave secrete.
+e2e-advanced-section = Parametros avantiate
 openpgp-key-user-id-label = Count/ID usator
 openpgp-keygen-title-label =
     .title = Generar clave OpenPGP
@@ -281,6 +282,8 @@ openpgp-selection-status =
        *[other] Tu actual configuration usa ID clave <b>{ $key }</b>
     }
 #   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Tu actual configuration usa ID clave <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Tu actual configuration usa le ID clave <b>{ $key }</b>, que es expirate.
 openpgp-add-key-button =
     .label = Adder clave…
@@ -306,6 +309,8 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Expirate le: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Clave expirate
+openpgp-key-expires-within-6-months-icon =
+    .title = Le clave expira in minus de 6 menses
 openpgp-key-has-expired-icon =
     .title = Clave expirate
 openpgp-key-expand-section =
@@ -597,6 +602,9 @@ no-temp-dir =
 possibly-pgp-mime = Forsan message cryptate o signate PGP/MIME; pro verificar usa le function 'Decifrar/Verificar'
 cannot-send-sig-because-no-own-key = Impossibile firmar digitalmente iste message, perque tu non ha ancora configurate le cryptographia end-to-end pro <{ $key }>
 cannot-send-enc-because-no-own-key = Impossibile firmar digitalmente iste message, perque tu non ha ancora configurate le cryptographia end-to-end pro <{ $key }>
+compose-menu-attach-key =
+    .label = Attachar mi clave public
+    .accesskey = A
 # Strings used in decryption.jsm
 do-import-multiple =
     Importar le claves sequente?
