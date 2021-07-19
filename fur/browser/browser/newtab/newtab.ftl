@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalize
     .title = Personalize gnove schede
     .aria-label = Personalize gnove schede
+newtab-personalize-icon-label =
+    .title = Personalize gnove schede
+    .aria-label = Personalize gnove schede
 
 ## Search box component.
 
