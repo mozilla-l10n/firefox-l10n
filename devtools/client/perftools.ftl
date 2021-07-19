@@ -97,6 +97,8 @@ perftools-thread-dns-resolver =
     .title = DNS-opslag foregår på denne tråd
 perftools-thread-js-helper =
     .title = Baggrundsarbejde for JS-motoren, fx off-main-thread-kompileringer
+perftools-thread-task-controller =
+    .title = TaskController thread pool-tråde
 
 ##
 
@@ -108,7 +110,6 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Profiler
 perftools-onboarding-message = <b>Nyhed</b>: { -profiler-brand-name } er nu en del af Udviklerværktøj. <a>Læs mere</a> om dette praktiske nye værktøj.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (I en begrænset periode kan du se det originale Ydelses-panel i <a>{ options-context-advanced-settings }</a>)

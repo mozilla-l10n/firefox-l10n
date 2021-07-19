@@ -61,6 +61,8 @@ options-screenshot-label = Indstillinger for skærmbilleder
 options-screenshot-clipboard-label = Skærmbillede til udklipsholder
 options-screenshot-clipboard-tooltip =
     .title = Gemmer skærmbillede direkte til udklipsholderen
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Gem kun skærmbilleder til udklipsholder
 options-screenshot-clipboard-tooltip2 =
     .title = Gem skærmbilledet direkte til udklipsholderen
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
