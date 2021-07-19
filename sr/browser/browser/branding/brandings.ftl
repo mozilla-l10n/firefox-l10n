@@ -112,3 +112,4 @@
         [ins] Firefox Profiler-ом
         [loc] Firefox Profiler-у
     }
+-translations-brand-name = Firefox Translations
