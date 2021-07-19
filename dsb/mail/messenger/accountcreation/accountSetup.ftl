@@ -102,7 +102,6 @@ account-setup-step3-image =
     .title = Konfiguracija jo se namakała
 account-setup-step4-image =
     .title = Zwiskowa zmólka
-account-setup-privacy-footnote = Waše pśizjawjeńske daty se pó našych <a data-l10n-name="privacy-policy-link">pšawidłach priwatnosći</a> wužywaju a składuju se jano lokalnje na wašom licadle.
 account-setup-step5-image =
     .title = Konto załožone
 account-setup-privacy-footnote2 = Waše pśizjawjeńske daty budu se jano lokalnje na wašom licadle składowaś.
@@ -133,7 +132,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Wobchowajśo swóje zastojniki a mejlki na swójom licadle
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-account-setup-result-exchange-description = Serwer Microsoft Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Serwer Microsoft Exchange abo mrokawine słužby Office 365 wužywaś
 account-setup-incoming-title = Dochadajuce
 account-setup-outgoing-title = Wuchadajuce
 account-setup-username-title = Wužywarske mě

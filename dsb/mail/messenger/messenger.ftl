@@ -24,9 +24,6 @@ content-tab-security-broken-icon =
 
 ## Toolbar
 
-addons-and-themes-button =
-    .label = Dodanki a drastwy
-    .tooltip = Waše dodanki zastojaś
 addons-and-themes-toolbarbutton =
     .label = Dodanki a drastwy
     .tooltiptext = Waše dodanki zastojaś
@@ -132,3 +129,9 @@ caret-browsing-prompt-check-text = Wěcej se njepšašaś.
 repair-text-encoding-button =
     .label = Tekstowe koděrowanje reparěrowaś
     .tooltiptext = Korektne teksotwe koděrowanje z wopśimjeśa powěsći wugódás
+
+## no-reply handling
+
+no-reply-title = Wótegrono se njepódpěra
+no-reply-message = Zda se, až wótegronjeńska adresa ({ $email }) njejo doglědowana adresa. Powěsći na toś tu adresu se nejskerjej wót nikogo njecytaju.
+no-reply-reply-anyway-button = Weto wotegroniś

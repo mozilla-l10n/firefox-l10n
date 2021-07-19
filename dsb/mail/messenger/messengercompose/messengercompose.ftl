@@ -8,9 +8,6 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Pólo typa { $type } wótwónoźeś
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Pólo typa { $type } wótwónoźeś
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Pólo typa { $type } wótwónoźeś
 #   $type (String) - the type of the addressing row
@@ -184,3 +181,11 @@ many-public-recipients-ignore =
 compose-missing-identity-warning = Jadnorazowa identita, kótaraž adresy wótpósłarja wótpowědujo, njejo se namakała. Powěsć se z pomocu pólom Wót a nastajenja z identity { $identity } pósćelo.
 encrypted-bcc-warning = Pśi słanju skoděrowaneje powěsći, dostawarje schowaneje kopije njejsu połnje schowane. Wše dostawarje mógu jich identificěrowaś.
 encrypted-bcc-ignore-button = Som zrozměł
+
+## Editing
+
+
+# Tools
+
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Tekstowy stil wótwónoźeś
