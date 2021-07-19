@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Muokkaa
     .title = Muokkaa uutta välilehteä
     .aria-label = Muokkaa uutta välilehteä
+newtab-personalize-icon-label =
+    .title = Muokkaa uutta välilehteä
+    .aria-label = Muokkaa uutta välilehteä
 newtab-personalize-dialog-label =
     .aria-label = Muokkaa
 
