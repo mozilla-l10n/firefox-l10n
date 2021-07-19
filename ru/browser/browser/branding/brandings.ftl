@@ -32,3 +32,4 @@
 -screenshots-brand-name = Firefox Screenshots
 -mozilla-vpn-brand-name = Mozilla VPN
 -profiler-brand-name = Профайлер Firefox
+-translations-brand-name = Firefox Translations
