@@ -542,6 +542,9 @@ no-temp-dir = 找不到可以写入的临时文件夹，请设置 TEMP 环境变
 possibly-pgp-mime = 可能是 PGP/MIME 加密或签名过的消息，请使用“解密 / 验证”功能来验证
 cannot-send-sig-because-no-own-key = 由于您还没有配置<{ $key }>的端到端加密，无法数字签名此消息
 cannot-send-enc-because-no-own-key = 由于您还没有配置<{ $key }>的端到端加密，无法发送此消息
+compose-menu-attach-key =
+    .label = 附上我的公钥
+    .accesskey = A
 # Strings used in decryption.jsm
 do-import-multiple = 要导入下列密钥吗？{ $key }
 do-import-one = 要导入 { $name }（{ $id }）吗？

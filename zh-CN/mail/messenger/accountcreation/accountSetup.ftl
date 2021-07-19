@@ -102,7 +102,6 @@ account-setup-step3-image =
     .title = 找到配置
 account-setup-step4-image =
     .title = 连接错误
-account-setup-privacy-footnote = 凭据将遵循我们的<a data-l10n-name="privacy-policy-link">隐私政策</a>进行使用，且仅会存储在本地。
 account-setup-step5-image =
     .title = 已创建账户
 account-setup-privacy-footnote2 = 您的登录凭据只会存储在您的计算机本地。
@@ -130,7 +129,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = 将您服务器上的各文件夹与邮件下载到本地
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-account-setup-result-exchange-description = Microsoft Exchange 服务器
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = 使用 Microsoft Exchange 服务器或 Office365 云服务
 account-setup-incoming-title = 收件
 account-setup-outgoing-title = 发件
 account-setup-username-title = 用户名
