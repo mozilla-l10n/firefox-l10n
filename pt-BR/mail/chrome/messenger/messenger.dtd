@@ -170,7 +170,7 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Recentes">
 <!ENTITY recentFolders.accesskey "R">
-<!ENTITY compactVersion.label "Visualização compacta">
+<!ENTITY compactVersion.label "Visão compacta">
 <!ENTITY compactVersion.accesskey "c">
 <!ENTITY folderPaneBar.label "Barra de ferramentas do painel de pastas">
 <!ENTITY folderPaneBar.accesskey "F">
@@ -563,7 +563,7 @@
 <!ENTITY mailViewsToolbarItem.title "Modos de visualização">
 <!ENTITY folderLocationToolbarItem.title "Endereço da pasta">
 <!ENTITY tagButton.label "Etiquetas">
-<!ENTITY compactButton.label "Condensar">
+<!ENTITY compactButton.label "Compactar">
 <!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
@@ -658,7 +658,7 @@
 <!ENTITY folderContextRename.accesskey "m">
 <!ENTITY folderContextRemove.label "Excluir">
 <!ENTITY folderContextRemove.accesskey "x">
-<!ENTITY folderContextCompact.label "Condensar">
+<!ENTITY folderContextCompact.label "Compactar">
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "Esvaziar lixeira">
 <!ENTITY folderContextEmptyTrash.accesskey "x">
