@@ -254,6 +254,7 @@ confirm-browser-language-change-button = Apply and Restert
 translate-web-pages =
     .label = Owerset wab content
     .accesskey = t
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Owersettins by <img data-l10n-name="logo"/>
@@ -1113,6 +1114,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Exceptions…
     .accesskey = E
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Exceptions…
+    .accesskey = E
+    .searchkeywords = lowpups
 permissions-addon-install-warning =
     .label = Warn ye when wabsites ettle tae instaw eik-ons
     .accesskey = W
