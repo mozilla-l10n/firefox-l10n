@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personoli
     .title = Personoli tab newydd
     .aria-label = Personoli tab newydd
+newtab-personalize-icon-label =
+    .title = Personoli tab newydd
+    .aria-label = Personoli tab newydd
 newtab-personalize-dialog-label =
     .aria-label = Personoli
 
