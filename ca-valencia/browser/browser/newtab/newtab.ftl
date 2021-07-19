@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = Personalitza
     .title = Personalitza la pestanya nova
     .aria-label = Personalitza la pestanya nova
+newtab-personalize-icon-label =
+    .title = Personalitza la pestanya nova
+    .aria-label = Personalitza la pestanya nova
 
 ## Search box component.
 
