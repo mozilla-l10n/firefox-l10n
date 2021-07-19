@@ -11,6 +11,9 @@ newtab-settings-button =
 newtab-personalize-button-label = ปรับให้เป็นแบบส่วนตัว
     .title = ปรับแท็บใหม่ให้เป็นส่วนตัว
     .aria-label = ปรับแท็บใหม่ให้เป็นส่วนตัว
+newtab-personalize-icon-label =
+    .title = ปรับแท็บใหม่ให้เป็นส่วนตัว
+    .aria-label = ปรับแท็บใหม่ให้เป็นส่วนตัว
 newtab-personalize-dialog-label =
     .aria-label = ปรับให้เป็นแบบส่วนตัว
 
