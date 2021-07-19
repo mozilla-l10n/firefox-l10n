@@ -254,6 +254,7 @@ confirm-browser-language-change-button = Mohembiapo ha ñepyrũjey
 translate-web-pages =
     .label = Ñanduti retepy ñe’ẽasa
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Ñe’ẽasaha <img data-l10n-name="logo"/>
@@ -1113,6 +1114,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Oĩ’ỹva…
     .accesskey = E
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Oĩ’ỹva…
+    .accesskey = E
+    .searchkeywords = ovetã apysẽ
 permissions-addon-install-warning =
     .label = Ehechakuaa oĩ jave tenda omohendaséva moĩmbaha.
     .accesskey = E

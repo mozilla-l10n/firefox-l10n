@@ -217,6 +217,8 @@ cert-not-verified-unknown = Ndaikatuí ojehechajey ko mboajepyréva ha ndojekua�
 send-no-client-certificate = Ani emondo ñemuhára mboajepyréva
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Oñeñongatu’ỹva)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (Ndojepurukuaáiva)
 
 ## Used to show whether an override is temporary or permanent
 
