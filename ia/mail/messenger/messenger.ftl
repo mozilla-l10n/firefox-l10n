@@ -131,4 +131,5 @@ repair-text-encoding-button =
 ## no-reply handling
 
 no-reply-title = Replica non supportate
+no-reply-message = Le adresse de responsa ({ $email }) non pare ser un adresse monitorate. Le messages a iste adresse probabilemente non sera legite per alcuno.
 no-reply-reply-anyway-button = Responder comocunque

@@ -8,6 +8,8 @@ about-addressbook-title = Libro del adresses
 
 about-addressbook-toolbar-new-address-book =
     .label = Nove libro del adresses
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = Adde le libro del adresses CardDAV
 about-addressbook-toolbar-new-contact =
     .label = Nove contacto
 about-addressbook-toolbar-new-list =
@@ -73,6 +75,15 @@ about-addressbook-confirm-remove-contacts-title =
     { $count ->
         [one] Remover contacto
        *[other] Remover contactos
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+# $name (String) - The name of the contact to be removed, if $count is 1.
+# $list (String) - The name of the list that contacts will be removed from.
+about-addressbook-confirm-remove-contacts =
+    { $count ->
+        [one] Secur que tu vole eliminar { $name } del lista { $list }?
+       *[other] Secur que tu vole eliminar iste { $count } contactos del lista { $list }?
     }
 # Variables:
 # $count (Number) - The number of contacts to be deleted.
