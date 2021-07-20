@@ -254,6 +254,7 @@ confirm-browser-language-change-button = Εφαρμογή και επανεκκ�
 translate-web-pages =
     .label = Μετάφραση περιεχομένου του ιστού
     .accesskey = τ
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Μεταφράσεις από <img data-l10n-name="logo"/>
@@ -1113,6 +1114,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = Ε
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Εξαιρέσεις…
+    .accesskey = Ε
+    .searchkeywords = αναδυόμενα
 permissions-addon-install-warning =
     .label = Προειδοποίηση όταν οι ιστοσελίδες προσπαθούν να εγκαταστήσουν πρόσθετα
     .accesskey = Π
