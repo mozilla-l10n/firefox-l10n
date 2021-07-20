@@ -242,6 +242,7 @@ confirm-browser-language-change-button = Áp dụng và Khởi động lại
 translate-web-pages =
     .label = Dịch nội dung web
     .accesskey = D
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Dịch bởi <img data-l10n-name="logo"/>
@@ -1097,6 +1098,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Ngoại trừ…
     .accesskey = E
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Ngoại trừ…
+    .accesskey = E
+    .searchkeywords = cửa sổ bật lên
 permissions-addon-install-warning =
     .label = Cảnh báo khi trang web cố gắng cài đặt tiện ích
     .accesskey = W
