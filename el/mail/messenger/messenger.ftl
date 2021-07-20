@@ -22,9 +22,6 @@ content-tab-security-broken-icon =
 
 ## Toolbar
 
-addons-and-themes-button =
-    .label = Πρόσθετα και θέματα
-    .tooltip = Διαχειριστείτε τα πρόσθετά σας
 addons-and-themes-toolbarbutton =
     .label = Πρόσθετα και θέματα
     .tooltiptext = Διαχείριση των προσθέτων σας
@@ -130,3 +127,7 @@ caret-browsing-prompt-check-text = Να μην γίνει ξανά ερώτησ�
 repair-text-encoding-button =
     .label = Επιδιόρθωση κωδικοποίησης κειμένου
     .tooltiptext = Υπόθεση σωστής κωδικοποίησης κειμένου από το περιεχόμενο του μηνύματος
+
+## no-reply handling
+
+no-reply-reply-anyway-button = Απάντηση ούτως ή άλλως
