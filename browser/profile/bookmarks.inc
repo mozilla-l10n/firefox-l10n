@@ -59,7 +59,7 @@
 
 # LOCALIZATION NOTE (nightly_tester_tools):
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
-#define nightly_tester_tools Unelte de testare Nightly
+#define nightly_tester_tools Instrumente de testare Nightly
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
