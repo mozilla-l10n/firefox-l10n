@@ -98,7 +98,7 @@ options-disable-javascript-tooltip =
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Activează cutiile de unelte pentru depanare din chrome și suplimente
 options-enable-chrome-tooltip =
-    .title = Pornirea acestei opțiuni îți va permite să folosești diverse instrumente pentru dezvoltatori în contextul browserului (cale: Unelte -> Dezvoltator web -> Caseta de instrumente a browserului) și să depanezi suplimente din Managerul de suplimente
+    .title = Pornirea acestei opțiuni îți va permite să folosești diverse instrumente pentru dezvoltatori în contextul browserului (via Instrumente -> Dezvoltator web -> Caseta de instrumente a browserului) și să depanezi suplimente din Managerul de suplimente
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Activează depanarea la distanță
 options-enable-remote-tooltip2 =
