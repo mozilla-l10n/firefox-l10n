@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Налаштування облікового запису">
@@ -29,7 +27,7 @@
 <!ENTITY signatureFile.label "Долучати підпис з файлу (текст, малюнок чи HTML):">
 <!ENTITY signatureFile.accesskey "ф">
 <!ENTITY edit.label "Змінити…">
-<!ENTITY choose.label "Обрати…">
+<!ENTITY choose.label "Вибрати…">
 <!ENTITY choose.accesskey "б">
 <!ENTITY editVCard.label "Змінити візитну картку…">
 <!ENTITY editVCard.accesskey "к">
