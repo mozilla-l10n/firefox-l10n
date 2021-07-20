@@ -254,6 +254,7 @@ confirm-browser-language-change-button = Appliquer et redémarrer
 translate-web-pages =
     .label = Traduire le contenu web
     .accesskey = w
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Traductions fournies par <img data-l10n-name="logo"/>
