@@ -130,4 +130,5 @@ repair-text-encoding-button =
 
 ## no-reply handling
 
+no-reply-title = Δεν υποστηρίζεται απάντηση
 no-reply-reply-anyway-button = Απάντηση ούτως ή άλλως
