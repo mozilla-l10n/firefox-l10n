@@ -1113,6 +1113,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Poikkeukset…
     .accesskey = P
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Poikkeukset…
+    .accesskey = P
+    .searchkeywords = ponnahdukset
 permissions-addon-install-warning =
     .label = Varoita, kun sivustot yrittävät asentaa lisäosia
     .accesskey = V

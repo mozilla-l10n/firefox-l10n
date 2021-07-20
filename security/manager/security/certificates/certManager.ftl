@@ -217,6 +217,8 @@ cert-not-verified-unknown = Varmennetta ei voitu todentaa tuntemattomasta syyst�
 send-no-client-certificate = Älä lähetä asiakasvarmennetta
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Ei tallennettu)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (Ei saatavilla)
 
 ## Used to show whether an override is temporary or permanent
 
