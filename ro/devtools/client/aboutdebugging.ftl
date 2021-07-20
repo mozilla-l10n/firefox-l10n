@@ -297,9 +297,9 @@ about-debugging-main-process-name = Proces principal
 about-debugging-main-process-description2 = Procesul principal pentru browserul-țintă
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
-about-debugging-multiprocess-toolbox-name = Caseta de instrumente pentru multiprocess
+about-debugging-multiprocess-toolbox-name = Caseta de instrumente pentru multiprocese
 # Description for the Multiprocess Toolbox target.
-about-debugging-multiprocess-toolbox-description = Proces principal și proces de conținut pentru browserul-țintă
+about-debugging-multiprocess-toolbox-description = Proces principal și procese de conținut pentru browserul-țintă
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Închide mesajul

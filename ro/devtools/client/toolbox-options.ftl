@@ -12,7 +12,7 @@
 options-select-default-tools-label = Instrumente pentru dezvoltatori implicite
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
-options-tool-not-supported-label = * Nu este compatibil pentru ținta actuală a cutiei de unelte
+options-tool-not-supported-label = * Nu este compatibil pentru ținta actuală a casetei de instrumente
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Instrumente pentru dezvoltatori instalate prin suplimente
@@ -96,7 +96,7 @@ options-disable-javascript-label = Dezactivează JavaScript *
 options-disable-javascript-tooltip =
     .title = Pornirea acestei opțiuni va dezactiva JavaScript pentru fila actuală. Setarea va fi uitată la închiderea filei sau a casetei de instrumente.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
-options-enable-chrome-label = Activează cutiile de unelte pentru depanare din chrome și suplimente
+options-enable-chrome-label = Activează casetele de instrumente pentru depanare chrome și suplimente
 options-enable-chrome-tooltip =
     .title = Pornirea acestei opțiuni îți va permite să folosești diverse instrumente pentru dezvoltatori în contextul browserului (via Instrumente -> Dezvoltator web -> Caseta de instrumente a browserului) și să depanezi suplimente din Managerul de suplimente
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
@@ -106,7 +106,7 @@ options-enable-remote-tooltip2 =
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Activează scripturile Service Worker prin HTTP (când este deschisă caseta de instrumente)
 options-enable-service-workers-http-tooltip =
-    .title = Pornirea acestei opțiuni va permite trecerea scripturilor service worker prin HTTP pentru toate filele care au caseta de unelte deschisă.
+    .title = Pornirea acestei opțiuni va permite trecerea scripturilor service worker prin HTTP pentru toate filele care au caseta de instrumente deschisă.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Activează hărțile pentru surse
 options-source-maps-tooltip =

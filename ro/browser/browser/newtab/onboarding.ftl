@@ -72,7 +72,7 @@ onboarding-sync-form-sub-header = pentru a continua la { -sync-brand-name }.
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
-onboarding-benefit-products-text = Fii mai productiv(ă) cu o familie de unelte care îți respectă intimitatea pe toate dispozitivele.
+onboarding-benefit-products-text = Fii mai productiv(ă) cu o familie de instrumente care îți respectă intimitatea pe toate dispozitivele.
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
 # Firefox Personal Data Promise is the way we honor your data in everything we

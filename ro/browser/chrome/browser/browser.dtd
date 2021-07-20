@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Deschide meniul">
+
 <!ENTITY navbarOverflow.label                "Mai multe instrumente…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,10 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Setări &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectează alt dispozitiv…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Autentifică-te în &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activează &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servicii &brandProductName;">
@@ -114,8 +119,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY hideBookmarksToolbar.label         "Ascunde bara de marcaje">
 <!ENTITY searchBookmarks.label              "Caută marcaje">
 <!ENTITY bookmarkingTools.label             "Instrumente pentru marcaje">
-<!ENTITY addBookmarksMenu.label             "Adaugă meniul de marcaje în bara de unelte">
-<!ENTITY removeBookmarksMenu.label          "Elimină meniul de marcaje din bara de unelte">
+<!ENTITY addBookmarksMenu.label             "Adaugă meniul de marcaje în bara de instrumente">
+<!ENTITY removeBookmarksMenu.label          "Elimină meniul de marcaje din bara de unstrumente">
 
 <!ENTITY historyButton.label            "Istoric">
 
@@ -144,20 +149,25 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "Ferestre închise recent">
 
 <!ENTITY appMenuHistory.showAll.label "Afișează tot istoricul">
+
 <!ENTITY appMenuHistory.clearRecent.label "Șterge istoricul recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurează sesiunea anterioară">
 <!ENTITY appMenuHistory.viewSidebar.label "Vezi bara laterală cu istoricul">
 <!ENTITY appMenuHistory.hideSidebar.label "Ascunde bara laterală de istoric">
 <!ENTITY appMenuHistory.recentHistory.label "Istoric recent">
+
 <!ENTITY appMenuHelp.label "Ajutor">
 
 <!ENTITY appMenuRemoteTabs.label "File sincronizate">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nicio filă deschisă">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Afișează mai multe">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Afișează mai multe file de pe acest dispozitiv">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -216,9 +226,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Salvează pagina în Pocket">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Vezi lista Pocket">
 
 <!ENTITY emailPageCmd.label           "Trimite linkul prin e-mail…">
