@@ -172,7 +172,7 @@ appmenu-help-not-deceptive =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Personalizează bara de unelte…
+    .label = Personalizează bara de instrumente…
 appmenu-taskmanager =
     .label = Manager de activități
 appmenu-developer-tools-subheader = Instrumente pentru browser
