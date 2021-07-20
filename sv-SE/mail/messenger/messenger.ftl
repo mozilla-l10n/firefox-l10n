@@ -22,9 +22,6 @@ content-tab-security-broken-icon =
 
 ## Toolbar
 
-addons-and-themes-button =
-    .label = Tillägg och teman
-    .tooltip = Hantera dina tillägg
 addons-and-themes-toolbarbutton =
     .label = Tillägg och teman
     .tooltiptext = Hantera dina tillägg
@@ -130,3 +127,8 @@ caret-browsing-prompt-check-text = Fråga inte igen.
 repair-text-encoding-button =
     .label = Reparera textkodning
     .tooltiptext = Gissa korrekt textkodning från meddelandets innehåll
+
+## no-reply handling
+
+no-reply-title = Svar stöds inte
+no-reply-reply-anyway-button = Svara ändå

@@ -8,9 +8,6 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Ta bort fältet { $type }
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Ta bort { $type }-fältet
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Ta bort { $type }-fältet
 #   $type (String) - the type of the addressing row
@@ -172,3 +169,11 @@ many-public-recipients-ignore =
 compose-missing-identity-warning = En unik identitet som matchar Från-adressen hittades inte. Meddelandet skickas med det aktuella Från-fältet och inställningar från identitet { $identity }.
 encrypted-bcc-warning = När du skickar ett krypterat meddelande döljs inte mottagare i dold kopia helt. Alla mottagare kan kanske identifiera dem.
 encrypted-bcc-ignore-button = Förstått
+
+## Editing
+
+
+# Tools
+
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Ta bort textstyling
