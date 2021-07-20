@@ -282,13 +282,13 @@ download-save-to =
 download-choose-folder =
     .label =
         { PLATFORM() ->
-            [macos] Вибрати…
-           *[other] Вибрати…
+            [macos] Огляд…
+           *[other] Огляд…
         }
     .accesskey =
         { PLATFORM() ->
-            [macos] В
-           *[other] В
+            [macos] О
+           *[other] О
         }
 download-always-ask-where =
     .label = Завжди запитувати де зберегти файли
