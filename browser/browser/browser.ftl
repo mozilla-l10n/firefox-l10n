@@ -508,8 +508,8 @@ bookmarks-tools-toolbar-visibility-panel =
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
-            [true] Elimină meniul de marcaje din bara de unelte
-           *[other] Adaugă meniul de marcaje în bara de unelte
+            [true] Elimină meniul de marcaje din bara de instrumente
+           *[other] Adaugă meniul de marcaje în bara de instrumente
         }
 bookmarks-search =
     .label = Caută marcaje
