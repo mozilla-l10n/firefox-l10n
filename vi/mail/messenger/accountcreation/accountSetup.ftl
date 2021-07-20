@@ -102,7 +102,6 @@ account-setup-step3-image =
     .title = Cấu hình được tìm thấy
 account-setup-step4-image =
     .title = Lỗi kết nối
-account-setup-privacy-footnote = Thông tin đăng nhập của bạn sẽ được sử dụng theo <a data-l10n-name="privacy-policy-link">chính sách riêng tư</a> của chúng tôi và sẽ chỉ được lưu trữ cục bộ trên máy tính của bạn.
 account-setup-step5-image =
     .title = Đã tạo tài khoản
 account-setup-privacy-footnote2 = Thông tin đăng nhập của bạn sẽ chỉ được lưu trữ cục bộ trên máy tính của bạn.
@@ -130,7 +129,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Giữ các thư mục và email của bạn trên máy tính của bạn
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-account-setup-result-exchange-description = Máy chủ Microsoft Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Sử dụng máy chủ Microsoft Exchange hoặc các dịch vụ đám mây Office365
 account-setup-incoming-title = Hộp thư đến
 account-setup-outgoing-title = Hộp thư đi
 account-setup-username-title = Tên người dùng
