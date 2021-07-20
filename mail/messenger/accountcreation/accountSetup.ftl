@@ -100,7 +100,6 @@ account-setup-step3-image =
     .title = Konfiguration hittad
 account-setup-step4-image =
     .title = Anslutningsfel
-account-setup-privacy-footnote = Dina uppgifter kommer att användas i enlighet med vår <a data-l10n-name="privacy-policy-link">sekretesspolicy</a> och lagras endast lokalt på din dator.
 account-setup-step5-image =
     .title = Konto skapat
 account-setup-privacy-footnote2 = Dina uppgifter lagras endast lokalt på din dator.
@@ -129,7 +128,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Håll dina mappar och e-postmeddelanden på din dator
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-account-setup-result-exchange-description = Microsoft Exchange Server
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Använd Microsoft Exchange-servern eller Office365 molntjänster
 account-setup-incoming-title = Inkommande
 account-setup-outgoing-title = Utgående
 account-setup-username-title = Användarnamn

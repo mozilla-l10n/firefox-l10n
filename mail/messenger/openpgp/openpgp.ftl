@@ -607,6 +607,12 @@ no-temp-dir =
 possibly-pgp-mime = Eventuellt PGP/MIME-krypterat eller signerat meddelande; använd 'Dekryptera/verifiera'-funktionen för att verifiera
 cannot-send-sig-because-no-own-key = Det här meddelandet kan inte signeras digitalt, eftersom du ännu inte har konfigurerat end-to-end kryptering för <{ $key }>
 cannot-send-enc-because-no-own-key = Det går inte att skicka det här meddelandet krypterat eftersom du inte har konfigurerat end-to-end kryptering för <{ $key }>
+compose-menu-attach-key =
+    .label = Bifoga min publika nyckel
+    .accesskey = B
+compose-menu-encrypt-subject =
+    .label = Ämneskryptering
+    .accesskey = m
 # Strings used in decryption.jsm
 do-import-multiple =
     Importera följande nycklar?
