@@ -13,11 +13,21 @@ about-rights-notification-text = { -brand-short-name } es un software gratuite e
 
 ## Content tabs
 
+content-tab-page-loading-icon =
+    .alt = Le pagina se sta a cargar
+content-tab-security-high-icon =
+    .alt = Le connexion es secur
 content-tab-security-broken-icon =
     .alt = Le connexion non es secur
 
 ## Toolbar
 
+addons-and-themes-toolbarbutton =
+    .label = Additivos e themas
+    .tooltiptext = Gere tu additivos
+quick-filter-toolbarbutton =
+    .label = Filtro rapide
+    .tooltiptext = Filtrar le messages
 redirect-msg-button =
     .label = Re-diriger
     .tooltiptext = Re-dirige le message seligite
@@ -121,3 +131,4 @@ repair-text-encoding-button =
 ## no-reply handling
 
 no-reply-title = Replica non supportate
+no-reply-reply-anyway-button = Responder comocunque
