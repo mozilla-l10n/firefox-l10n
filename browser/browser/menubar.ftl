@@ -248,7 +248,7 @@ menu-bookmarks-mobile =
 ## Tools Menu
 
 menu-tools =
-    .label = Unelte
+    .label = Instrumente
     .accesskey = T
 menu-tools-downloads =
     .label = Descărcări
