@@ -10,6 +10,8 @@ about-addressbook-toolbar-new-address-book =
     .label = Nove libro del adresses
 about-addressbook-toolbar-add-carddav-address-book =
     .label = Adde le libro del adresses CardDAV
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = Adder le libro del adresses LDAP
 about-addressbook-toolbar-new-contact =
     .label = Nove contacto
 about-addressbook-toolbar-new-list =
@@ -63,11 +65,22 @@ about-addressbook-sort-email-descending =
     .label = Ordinar per adresse e-mail (Z > A)
 about-addressbook-confirm-delete-mixed-title = Deler contactos e listas
 # Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Desira tu vermente deler iste { $count } contactos e listas?
+# Variables:
 # $count (Number) - The number of lists to be deleted.
 about-addressbook-confirm-delete-lists-title =
     { $count ->
         [one] Deler lista
        *[other] Deler listas
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Desira tu vermente deler le lista { $name }?
+       *[other] Desira tu vermente deler iste { $count } listas?
     }
 # Variables:
 # $count (Number) - The number of contacts to be removed.
@@ -82,8 +95,8 @@ about-addressbook-confirm-remove-contacts-title =
 # $list (String) - The name of the list that contacts will be removed from.
 about-addressbook-confirm-remove-contacts =
     { $count ->
-        [one] Secur que tu vole eliminar { $name } del lista { $list }?
-       *[other] Secur que tu vole eliminar iste { $count } contactos del lista { $list }?
+        [one] Desira tu vermente deler { $name } del lista { $list }?
+       *[other] Desira tu vermente deler iste { $count } contactos del lista { $list }?
     }
 # Variables:
 # $count (Number) - The number of contacts to be deleted.
