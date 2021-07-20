@@ -8,9 +8,6 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Αφαίρεση πεδίου "{ $type }"
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Αφαίρεση πεδίου "{ $type }"
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Αφαίρεση πεδίου "{ $type }"
 #   $type (String) - the type of the addressing row
@@ -169,3 +166,11 @@ many-public-recipients-ignore =
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Δεν βρέθηκε μοναδική ταυτότητα που να αντιστοιχεί στη διεύθυνση "Από". Το μήνυμα θα αποσταλεί με το τρέχον πεδίο "Από" και τις ρυθμίσεις της ταυτότητας "{ $identity }".
 encrypted-bcc-ignore-button = Κατάλαβα
+
+## Editing
+
+
+# Tools
+
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Κατάργηση μορφοποίησης κειμένου
