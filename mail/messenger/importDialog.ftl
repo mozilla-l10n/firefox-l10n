@@ -7,3 +7,4 @@ thunderbird-import-name = Thunderbird
 # Description of the import module
 thunderbird-import-description = Nhập thư từ thư mục hồ sơ Thunderbird.
 import-select-profile-dir-or-zip = Chọn một thư mục hồ sơ hoặc một thư mục hồ sơ được nén
+import-select-profile-zip = Chọn một thư mục hồ sơ đã nén
