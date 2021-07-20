@@ -610,6 +610,9 @@ cannot-send-enc-because-no-own-key = No se puede enviar este mensaje cifrado, po
 compose-menu-attach-key =
     .label = Adjuntar mi clave pública
     .accesskey = A
+compose-menu-encrypt-subject =
+    .label = Cifrado de asunto
+    .accesskey = b
 # Strings used in decryption.jsm
 do-import-multiple =
     ¿Importar las siguientes claves?
