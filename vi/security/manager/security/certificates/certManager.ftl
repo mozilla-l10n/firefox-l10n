@@ -217,6 +217,8 @@ cert-not-verified-unknown = Không thể xác minh chứng chỉ này vì không
 send-no-client-certificate = Không gửi chứng chỉ máy khách
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Không được lưu trữ)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (Không có sẵn)
 
 ## Used to show whether an override is temporary or permanent
 
