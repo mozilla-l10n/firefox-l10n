@@ -45,6 +45,8 @@
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
+
+<!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
@@ -148,9 +150,9 @@
 <!ENTITY  event.menu.options.privacy.private.accesskey        "Ι">
 <!ENTITY  event.menu.options.show.time.label                  "Διαθεσιμότητα">
 <!ENTITY  event.menu.options.show.time.accesskey              "Δ">
-<!ENTITY  event.menu.options.show.time.busy.label             "Απασχολημένος">
+<!ENTITY  event.menu.options.show.time.busy.label             "Απασχολημένος/-η">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "Α">
-<!ENTITY  event.menu.options.show.time.free.label             "Διαθέσιμος">
+<!ENTITY  event.menu.options.show.time.free.label             "Διαθέσιμος/-η">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "Δ">
 
 <!ENTITY event.invite.attendees.label                     "Πρόσκληση συμμετεχόντων…">
@@ -376,8 +378,8 @@
 <!ENTITY event.freebusy.button.next.slot        "Επόμενο περιθώριο">
 <!ENTITY event.freebusy.button.previous.slot    "Προηγούμενο περιθώριο">
 <!ENTITY event.freebusy.zoom                    "Ζουμ:">
-<!ENTITY event.freebusy.legend.free             "Διαθέσιμος/η" >
-<!ENTITY event.freebusy.legend.busy             "Απασχολημένος/η" >
+<!ENTITY event.freebusy.legend.free             "Διαθέσιμος/-η" >
+<!ENTITY event.freebusy.legend.busy             "Απασχολημένος/-η" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Με επιφύλαξη" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Εκτός γραφείου" >
 <!ENTITY event.freebusy.legend.unknown          "Χωρίς πληροφορία" >
