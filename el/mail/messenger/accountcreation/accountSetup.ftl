@@ -7,9 +7,8 @@ account-setup-tab-title = Ρύθμιση λογαριασμού
 ## Header
 
 account-setup-title = Ρύθμιση της υπάρχουσας διεύθυνσης email σας
-account-setup-description =
-    Για να χρησιμοποιήσετε την υπάρχουσα διεύθυνση ηλεκτρονικού ταχυδρομείου σας, συμπληρώστε τα διαπιστευτήριά σας. <br/>
-    Το { -brand-product-name } θα αναζητήσει αυτόματα τις λειτουργικές και προτεινόμενες ρυθμίσεις του διακομιστή.
+account-setup-description = Για να χρησιμοποιήσετε την υπάρχουσα διεύθυνση email σας, συμπληρώστε τα διαπιστευτήριά σας.
+account-setup-secondary-description = Το { -brand-product-name } θα αναζητήσει αυτόματα για τις λειτουργικές και προτεινόμενες ρυθμίσεις διακομιστή.
 account-setup-success-title = Επιτυχής δημιουργία λογαριασμού
 account-setup-success-description = Μπορείτε πλέον να χρησιμοποιήσετε αυτόν τον λογαριασμό με το { -brand-short-name }.
 
@@ -100,10 +99,10 @@ account-setup-step3-image =
     .title = Βρέθηκε ρύθμιση
 account-setup-step4-image =
     .title = Σφάλμα σύνδεσης
-account-setup-privacy-footnote = Τα διαπιστευτήριά σας θα χρησιμοποιηθούν σύμφωνα με την <a data-l10n-name="privacy-policy-link">πολιτική απορρήτου</a> μας και θα αποθηκευτούν μόνο τοπικά στον υπολογιστή σας.
 account-setup-step5-image =
     .title = Ο λογαριασμός δημιουργήθηκε
-account-setup-selection-help = Δεν είστε σίγουροι τι να επιλέξετε;
+account-setup-privacy-footnote2 = Τα διαπιστευτήριά σας θα αποθηκευτούν μόνο τοπικά, στον υπολογιστή σας.
+account-setup-selection-help = Δεν ξέρετε τι να επιλέξετε;
 account-setup-selection-error = Χρειάζεστε βοήθεια;
 account-setup-success-help = Δεν γνωρίζετε σίγουρα τα επόμενα βήματα;
 account-setup-documentation-help = Τεκμηρίωση ρύθμισης
@@ -128,7 +127,6 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Διατηρήστε τους φακέλους και τα μηνύματα στον υπολογιστή σας
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-account-setup-result-exchange-description = Διακομιστής Microsoft Exchange
 account-setup-incoming-title = Εισερχόμενα
 account-setup-outgoing-title = Εξερχόμενα
 account-setup-username-title = Όνομα χρήστη
