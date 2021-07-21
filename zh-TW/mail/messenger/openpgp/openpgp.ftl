@@ -542,6 +542,12 @@ no-temp-dir = 找不到可以寫入的暫用資料夾，請設定 TEMP 環境變
 possibly-pgp-mime = 可能是 PGP/MIME 加密或簽署過的訊息，請使用「解密 / 驗證」功能來驗證
 cannot-send-sig-because-no-own-key = 由於您還沒有設定 <{ $key }> 的端到端加密，無法數位簽署此訊息
 cannot-send-enc-because-no-own-key = 由於您還沒有設定 <{ $key }> 的端到端加密，無法加密寄出此訊息
+compose-menu-attach-key =
+    .label = 附加我的公鑰
+    .accesskey = A
+compose-menu-encrypt-subject =
+    .label = 主旨加密
+    .accesskey = b
 # Strings used in decryption.jsm
 do-import-multiple = 要匯入下列金鑰嗎？{ $key }
 do-import-one = 要匯入 { $name }（{ $id }）嗎？
