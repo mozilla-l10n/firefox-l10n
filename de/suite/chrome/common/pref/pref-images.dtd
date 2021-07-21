@@ -20,10 +20,3 @@
 <!ENTITY loadNoImagesRadio.accesskey    "K">
 <!ENTITY viewPermissions.label          "Berechtigungen verwalten">
 <!ENTITY viewPermissions.accesskey      "B">
-<!ENTITY animLoopingTitle.label         "Wiederholen von animierten Grafiken">
-<!ENTITY animLoopAsSpecified.label      "So oft, wie in der Grafik angegeben">
-<!ENTITY animLoopAsSpecified.accesskey  "S">
-<!ENTITY animLoopOnce.label             "Ein Mal">
-<!ENTITY animLoopOnce.accesskey         "E">
-<!ENTITY animLoopNever.label            "Nie">
-<!ENTITY animLoopNever.accesskey        "N">

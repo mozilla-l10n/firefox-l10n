@@ -20,10 +20,6 @@
 <!ENTITY allowContextmenuDisable.label   "Kontextmenü einer Seite deaktivieren oder ersetzen">
 <!ENTITY allowHideStatusBar.label        "Statusleiste verstecken">
 
-<!ENTITY enableDrmMedia.label            "Digitales Rechte-Management aktivieren für">
-<!ENTITY enableEmeForSuite.label         "Inhalts-Entschlüsselungs-Module von Drittpartnern">
-<!ENTITY enableEmeForSuite.accesskey     "E">
-
 <!ENTITY enablePlugins.label             "Plugins aktivieren für">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">

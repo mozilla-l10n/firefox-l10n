@@ -15,8 +15,3 @@
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
 <!ENTITY prefPara                            "HTTP-Verbindungen können mit diesen Optionen feineingestelt werden, um Geschwindigkeit oder Kompatibilität zu verbessern. Manche Proxy-Server zum Beispiel benötigen bekannterweise HTTP/1.0 (siehe Release Notes für Details).">
 <!ENTITY prefUseragent.label                 "User-Agent-String">
-<!ENTITY prefFirefoxCompat.label             "Firefox-Kompatibilität ausweisen">
-<!ENTITY prefFirefoxCompat.accesskey         "F">
-<!ENTITY prefLightningShow.label             "Lightning-Installation ausweisen">
-<!ENTITY prefLightningShow.accesskey         "L">
-<!ENTITY prefCompatWarning                   "WARNUNG: Das Deaktivieren dieser Einstellungen kann dazu führen das Websites oder Funktionen nicht mehr richtig funktionieren.">

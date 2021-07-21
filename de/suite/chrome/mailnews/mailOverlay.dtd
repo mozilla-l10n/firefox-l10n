@@ -10,5 +10,3 @@
 <!ENTITY  newContactCmd.label             "Kontakt…">
 <!ENTITY  newContactCmd.accesskey         "K">
  
-<!ENTITY printButton.label "Drucken">
-<!ENTITY printButton.tooltip "Diese Nachricht drucken">

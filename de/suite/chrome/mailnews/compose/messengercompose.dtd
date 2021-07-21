@@ -45,6 +45,7 @@
 <!ENTITY editRewrapCmd.label "Neu umbrechen">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "b">
+
 <!ENTITY accountManagerCmd.label "Mail &amp; Newsgroup-Account-Einstellungen…">
 <!ENTITY accountManagerCmd.accesskey "M">
 

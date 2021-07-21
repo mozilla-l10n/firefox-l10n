@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Prozessverwaltung
+
 # The Actions column
 about-processes-column-action =
     .title = Aktionen
@@ -27,31 +28,6 @@ about-processes-column-cpu-total = CPU
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
-about-processes-browser-process-name = { -brand-short-name } (Prozess { $pid })
-about-processes-web-process-name = Web (Prozess { $pid }, geteilt)
-about-processes-web-isolated-process-name = Web (Prozess { $pid }) für { $origin }
-about-processes-web-large-allocation = Web (Prozess { $pid }, groß) für { $origin }
-about-processes-with-coop-coep-process-name = Web (Prozess { $pid }, quellübergreifend isoliert) für { $origin }
-about-processes-file-process-name = Dateien (Prozess { $pid })
-about-processes-extension-process-name = Erweiterungen (Prozess { $pid })
-about-processes-privilegedabout-process-name = Über (Prozess { $pid })
-about-processes-plugin-process-name = Plugins (Prozess { $pid })
-about-processes-privilegedmozilla-process-name = Web (Prozess { $pid }) für { -vendor-short-name }-Websites
-about-processes-gmp-plugin-process-name = Gecko-Medien-Plugins (Prozess { $pid })
-about-processes-gpu-process-name = GPU (Prozess { $pid })
-about-processes-vr-process-name = VR (Prozess { $pid })
-about-processes-rdd-process-name = Datendekoder (Prozess { $pid })
-about-processes-socket-process-name = Netzwerk (Prozess { $pid })
-about-processes-remote-sandbox-broker-process-name = Externer Sandbox-Broker (Prozess { $pid })
-about-processes-fork-server-process-name = Fork-Server (Prozess { $pid })
-about-processes-preallocated-process-name = Voralloziert (Prozess { $pid })
-about-processes-unknown-process-name = Andere ({ $type }, Prozess { $pid })
-# Process
-# Variables:
-#   $name (String) The name assigned to the process.
-#   $pid (String) The process id of this process, assigned by the OS.
-about-processes-process-name = Prozess { $pid }: { $name }
-
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
@@ -71,6 +47,7 @@ about-processes-socket-process = Netzwerk ({ $pid })
 about-processes-remote-sandbox-broker-process = Externer Sandbox-Broker ({ $pid })
 about-processes-fork-server-process = Fork-Server ({ $pid })
 about-processes-preallocated-process = Voralloziert ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -91,17 +68,6 @@ about-processes-with-coop-coep-process-private = { $origin } – Privat ({ $pid 
 
 ## Details within processes
 
-# Single-line summary of threads
-# Variables:
-#    $number (Number) The number of threads in the process. Typically larger
-#                     than 30. We don't expect to ever have processes with less
-#                     than 5 threads.
-about-processes-thread-summary = Threads ({ $number })
-# Thread details
-# Variables:
-#   $name (String) The name assigned to the thread.
-#   $tid (String) The thread id of this thread, assigned by the OS.
-about-processes-thread-name = Thread { $tid }: { $name }
 # Single-line summary of threads (non-idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -117,6 +83,7 @@ about-processes-active-threads =
         [one] { $active } aktiver Thread von { $number }: { $list }
        *[other] { $active } aktive Threads von { $number }: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -128,21 +95,25 @@ about-processes-inactive-threads =
         [one] { $number } inaktiver Thread
        *[other] { $number } inaktive Threads
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Thread-ID: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Tab: { $name }
 about-processes-preloaded-tab = Vorgeladener neuer Tab
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Subframe: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -159,14 +130,12 @@ about-processes-frame-name-many = Subframes ({ $number }): { $shortUrl }
 ##                   of `duration-unit-*`.
 
 # Common case.
-about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
-# Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Gesamte CPU-Zeit: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (wird gemessen)
-# Special case: process or thread is currently idle.
-about-processes-cpu-user-and-kernel-idle = untätig ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = untätig
     .title = Gesamte CPU-Zeit: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
@@ -183,10 +152,9 @@ about-processes-cpu-idle = untätig
 ##                        of `memory-unit-*`.
 
 # Common case.
-about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
-# Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
     .title = Änderung: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 

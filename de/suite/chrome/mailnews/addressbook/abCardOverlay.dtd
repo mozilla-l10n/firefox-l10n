@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "Anzeigename:">
 <!ENTITY DisplayName.accesskey          "z">
 <!ENTITY preferDisplayName.label        "Anzeigename immer statt Namen aus dem Nachrichtenkopf verwenden">
-<!ENTITY preferDisplayName.accesskey    "u">
 <!ENTITY NickName.label                 "Spitzname:">
 <!ENTITY NickName.accesskey             "S">
 
@@ -45,8 +44,6 @@
 <!ENTITY PlainText.label                "Reiner Text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Unbekannt">
-<!ENTITY ScreenName.label               "AOL-Name:">
-<!ENTITY ScreenName.accesskey           "O">
 
 <!ENTITY WorkPhone.label                "Dienstlich:">
 <!ENTITY WorkPhone.accesskey            "h">

@@ -8,4 +8,3 @@ thunderbird-import-name = Thunderbird
 # Description of the import module
 thunderbird-import-description = Nachrichten aus einem Thunderbird-Profilordner importieren
 
-import-select-profile-dir = Profilordner auswählen

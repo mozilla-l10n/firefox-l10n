@@ -54,8 +54,6 @@
 <!ENTITY printButton.label            "Drucken">
 <!ENTITY printButton.tooltip          "Diese Seite drucken">
 
-<!ENTITY throbber.tooltip             "&vendorShortName;-Homepage aufrufen">
-
 <!ENTITY locationBar.tooltip          "Geben Sie einen Suchbegriff, ein Schlüsselwort oder eine Web-Adresse ein">
 <!ENTITY locationBar.accesskey        "s">
 <!ENTITY locationBar.title            "Adresse">
@@ -80,3 +78,4 @@
 <!ENTITY viewCertificate.accesskey   "Z">
 <!ENTITY viewCertManager.label       "Zertifikatverwaltung öffnen">
 <!ENTITY viewCertManager.accesskey   "M">
+

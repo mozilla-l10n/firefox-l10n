@@ -140,8 +140,6 @@ account-setup-step3-image =
 account-setup-step4-image =
     .title = Verbindungsfehler
 
-account-setup-privacy-footnote = Ihre Zugangsdaten werden entsprechend unserer <a data-l10n-name="privacy-policy-link">Datenschutzerklärung</a> verwendet und nur lokal auf Ihrem Computer gespeichert.
-
 account-setup-selection-help = Nicht sicher, was ausgewählt werden soll?
 
 account-setup-selection-error = Benötigen Sie Hilfe?
@@ -160,8 +158,6 @@ account-setup-results-area-title =
         *[other] Verfügbare Konfigurationen
     }
 
-account-setup-protocol-title = Protokoll auswählen
-
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 
@@ -174,8 +170,6 @@ account-setup-result-pop-description = Ordner und E-Mails auf dem Computer speic
 
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-
-account-setup-result-exchange-description = Microsoft Exchange Server
 
 account-setup-incoming-title = Posteingangs-Server
 
@@ -309,3 +303,8 @@ account-setup-addon-install-title = Installieren
 account-setup-addon-install-intro = Ein Add-on eines Drittanbieters kann den Zugriff auf das E-Mail-Konto des Servers ermöglichen:
 
 account-setup-addon-no-protocol = Dieser Posteingangs-Server unterstützt leider keine offenen Protokolle. { account-setup-addon-install-intro }
+
+## Success view
+
+## Calendar synchronization dialog
+

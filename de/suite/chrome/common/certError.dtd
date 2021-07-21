@@ -9,11 +9,6 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.pagetitle  "Keine vertrauenswürdige Verbindung">
 <!ENTITY certerror.longpagetitle "Dieser Verbindung wird nicht vertraut">
 
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara1 "Sie haben &brandShortName; angewiesen, eine gesicherte
-Verbindung zu <b>#1</b> aufzubauen, es kann aber nicht überprüft werden, ob die Verbindung sicher ist.">
 <!ENTITY certerror.introPara2 "Wenn Sie normalerweise eine gesicherte Verbindung aufbauen,
 weist sich die Website mit einer vertrauenswürdigen Identifikation aus, um zu garantieren,
 dass Sie die richtige Website besuchen. Die Identifikation dieser Website dagegen kann nicht bestätigt werden.">
@@ -35,3 +30,4 @@ dass es einen guten dafür Grund gibt, warum diese Website keine vertrauenswürd
 <!ENTITY certerror.addException.label "Ausnahme hinzufügen…">
 
 <!ENTITY certerror.technical.heading "Technische Details">
+
