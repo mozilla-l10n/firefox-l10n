@@ -7,10 +7,10 @@
 
 appmenuitem-update-banner3 =
     .label-update-downloading = Изтегляне на ново издание на { -brand-shorter-name }
-    .label-update-available = Има ново издание – изтеглете
-    .label-update-manual = Има ново издание – изтеглете
-    .label-update-unsupported = Има ново издание – несъвместима система
-    .label-update-restart = Има ново издание – рестартирайте
+    .label-update-available = Налично е издание – изтеглете
+    .label-update-manual = Налично е издание – изтеглете
+    .label-update-unsupported = Налично е издание – несъвместима система
+    .label-update-restart = Налично е издание – рестартирайте
 appmenuitem-protection-dashboard-title = Табло със защити
 appmenuitem-customize-mode =
     .label = Приспособяване…
