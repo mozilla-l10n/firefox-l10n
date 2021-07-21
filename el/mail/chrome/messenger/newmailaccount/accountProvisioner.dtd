@@ -26,7 +26,7 @@
 <!ENTITY existing.header "Έχετε ήδη μια διεύθυνση που θέλετε να χρησιμοποιήσετε;">
 <!ENTITY tinyheader.title "Έχετε ήδη μια διεύθυνση;">
 <!ENTITY tinyheader.existing "Παράλειψη και χρήση υπάρχοντος email">
-<!ENTITY content.close "Θα ρυθμίσω το λογαριασμό μου αργότερα">
+<!ENTITY content.close "Θα ρυθμίσω τον λογαριασμό μου αργότερα">
 <!ENTITY successful.title "Συγχαρητήρια!">
 <!ENTITY successful.successMessage "Έχετε ρυθμίσει επιτυχώς το λογαριασμό σας.">
 <!ENTITY successful.write "Γράψτε κάποια μηνύματα">
