@@ -6,11 +6,12 @@
 
 <!ENTITY status.label "Sekureco de mesaĝo">
 <!ENTITY signatureCert.label "Montri subskriban atestilon">
-<!ENTITY encryptionCert.label "View Encryption Certificate">
+<!ENTITY encryptionCert.label "Montri ĉifradan atestilon">
 
-<!ENTITY signer.name "Signed by:">
-<!ENTITY recipient.name "Encrypted for:">
-<!ENTITY email.address "Email address:">
-<!ENTITY issuer.name "Certificate issued by:">
+<!ENTITY signer.name "Subskribita de:">
+<!ENTITY recipient.name "Ĉifrita por:">
+<!ENTITY email.address "Retpoŝta adreso:">
+<!ENTITY issuer.name "Atestilo eldonita de:">
 
 <!-- LOCALIZATION NOTE(SMIME.label): This a name for a technical standard. You should not translate it, but if applicable, you may write it using localized characters. -->
+<!ENTITY SMIME.label "S/MIME">
