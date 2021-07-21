@@ -277,7 +277,7 @@
 <!ENTITY event.repeat.custom.label                      "Προσαρμογή…">
 
 <!ENTITY event.recurrence.pattern.label                 "Μοτίβο επανάληψης">
-<!ENTITY event.recurrence.occurs.label                  "Να επαναλαμβάνεται" >
+<!ENTITY event.recurrence.occurs.label                  "Επανάληψη" >
 <!ENTITY event.recurrence.day.label                     "ημερησίως" >
 <!ENTITY event.recurrence.week.label                    "εβδομαδιαίως" >
 <!ENTITY event.recurrence.month.label                   "μηνιαίως" >
@@ -310,8 +310,8 @@
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "ημέρα του μήνα">
 <!ENTITY event.recurrence.repeat.recur.label            "Επανάληψη την/τις">
 
-<!ENTITY event.recurrence.every.label                        "ανά:" >
-<!ENTITY repeat.units.years.both                             "έτος/η" >
+<!ENTITY event.recurrence.every.label                        "Κάθε:" >
+<!ENTITY repeat.units.years.both                             "έτος(η)" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "κάθε" >
 
 <!-- LOCALIZATON NOTE
@@ -367,8 +367,8 @@
 <!ENTITY event.recurrence.range.label                   "Εμβέλεια επανάληψης">
 <!ENTITY event.recurrence.forever.label                 "Χωρίς τέλος" >
 <!ENTITY event.recurrence.repeat.for.label              "Δημιουργία" >
-<!ENTITY event.recurrence.appointments.label            "Συνάντηση(εις)" >
-<!ENTITY event.repeat.until.label                       "Να επαναλαμβάνεται μέχρι και τις" >
+<!ENTITY event.recurrence.appointments.label            "συνάντησης(εων)" >
+<!ENTITY event.repeat.until.label                       "Επανάληψη έως τις" >
 <!ENTITY event.recurrence.preview.label                 "Προεπισκόπηση">
 
 <!-- Attendees dialog -->
