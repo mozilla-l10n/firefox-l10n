@@ -4,6 +4,7 @@
 
 calendar-title = Agenda
 calendar-title-reminder = Rappels
+calendar-title-notification = Notifications
 calendar-title-category = Catégories
 dateformat-label =
     .value = Format de la date :
