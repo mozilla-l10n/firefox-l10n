@@ -35,5 +35,5 @@
 <!ENTITY securityButton.label "Sekureco">
 <!ENTITY securityButton.tooltip "Montri aŭ ŝanĝi sekurecajn agordojn">
 
-<!ENTITY menu_viewSecurityStatus.label "Message Security Info">
-<!ENTITY menu_viewSecurityStatus.accesskey "I">
+<!ENTITY menu_viewSecurityStatus.label "Sekurecaj informoj de mesaĝo">
+<!ENTITY menu_viewSecurityStatus.accesskey "S">
