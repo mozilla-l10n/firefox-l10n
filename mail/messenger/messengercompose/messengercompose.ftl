@@ -8,9 +8,6 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = 移除 { $type } 欄位
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = 移除 { $type } 欄位
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = 移除 { $type } 欄位
 #   $type (String) - the type of the addressing row
@@ -167,3 +164,11 @@ many-public-recipients-ignore =
 compose-missing-identity-warning = 找不到寄件地址對應的唯一識別資料。將使用目前的寄件者欄位資料，以及 { $identity } 身份的設定來寄信。
 encrypted-bcc-warning = 寄出加密郵件時，不會完全隱藏密件副本收件者。所有的收件者都可能識別出他們。
 encrypted-bcc-ignore-button = 知道了！
+
+## Editing
+
+
+# Tools
+
+compose-tool-button-remove-text-styling =
+    .tooltiptext = 刪除文字樣式
