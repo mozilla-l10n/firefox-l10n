@@ -605,6 +605,9 @@ cannot-send-enc-because-no-own-key = Impossibile firmar digitalmente iste messag
 compose-menu-attach-key =
     .label = Attachar mi clave public
     .accesskey = A
+compose-menu-encrypt-subject =
+    .label = Cryptation de subjecto
+    .accesskey = b
 # Strings used in decryption.jsm
 do-import-multiple =
     Importar le claves sequente?

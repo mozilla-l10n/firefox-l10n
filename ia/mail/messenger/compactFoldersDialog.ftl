@@ -5,3 +5,10 @@
 compact-dialog-window =
     .title = Compactar plicas
     .style = width: 50em;
+compact-dialog =
+    .buttonlabelaccept = Compactar ora
+    .buttonaccesskeyaccept = C
+    .buttonlabelcancel = Rememorar me plus tarde
+    .buttonaccesskeycancel = R
+    .buttonlabelextra1 = Pro saper plus…
+    .buttonaccesskeyextra1 = s
