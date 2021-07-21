@@ -102,7 +102,6 @@ account-setup-step3-image =
     .title = 找到設定
 account-setup-step4-image =
     .title = 連線錯誤
-account-setup-privacy-footnote = 將依照我們的<a data-l10n-name="privacy-policy-link">隱私權保護政策</a>使用您的登入資訊，並且只會儲存於您本機電腦上。
 account-setup-step5-image =
     .title = 已建立帳號
 account-setup-privacy-footnote2 = 您的登入資訊只會儲存在您的本機電腦上。
@@ -130,7 +129,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = 將您伺服器上的信件匣與郵件下載到電腦上
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-account-setup-result-exchange-description = Microsoft Exchange Server
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = 使用 Microsoft Exchange 伺服器或 Office365 雲端服務
 account-setup-incoming-title = 收件
 account-setup-outgoing-title = 寄件
 account-setup-username-title = 使用者名稱
