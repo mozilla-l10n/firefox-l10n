@@ -232,8 +232,24 @@ account-setup-calendar-button = Connecter a un agenda remote
 account-setup-linked-services-title = Connecte tu servicios ligate
 account-setup-linked-services-description = { -brand-short-name } ha disvelate altere servicios ligate a tu conto e-mail.
 account-setup-no-linked-description = Installa altere servicios pro obtener le maximo de tu experientia con { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } trovava un libro de adresses ligate a tu conto e-mail.
+       *[other] { -brand-short-name } trovava { $count } libros de adresses ligate a tu conto e-mail.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } trovava un agenda ligate a tu conto e-mail.
+       *[other] { -brand-short-name } trovava { $count } agendas ligate a tu conto e-mail.
+    }
 account-setup-button-finish = Finir
     .accesskey = F
+account-setup-looking-up-address-books = Cercante libros de adresses…
+account-setup-looking-up-calendars = Cercante agendas…
 account-setup-address-books-button = Libros de adresses
 account-setup-calendars-button = Agendas
 account-setup-connect-link = Connecter
