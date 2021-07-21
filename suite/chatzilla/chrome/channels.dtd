@@ -22,9 +22,6 @@
 <!ENTITY maxusers.label     "Max. Benutzer:">
 <!ENTITY maxusers.accesskey "x">
 
-<!ENTITY refresh.label     "Aktualisieren">
-<!ENTITY refresh.accesskey "A">
-
 <!ENTITY network.hint.label "Geben Sie einen Netzwerk- oder Servernamen (ein Port kann inkludiert werden) und einen Channel zum Betreten an.">
 
 <!ENTITY col.network "Netzwerk">

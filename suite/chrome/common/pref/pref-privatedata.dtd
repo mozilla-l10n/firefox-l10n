@@ -18,6 +18,7 @@
 
 <!ENTITY clearDataSettings.label          "Wenn SeaMonkey angewiesen wird, private Daten zu löschen, folgende Daten entfernen:">
 
+
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
   The only difference bettween the two labels is that one calls a dialog, the other doesn't.
   The same accesskey is used for both labels.

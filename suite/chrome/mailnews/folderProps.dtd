@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Ordnertyp:">
 
 <!ENTITY folderQuotaTab.label                    "Kontingent">
-<!ENTITY folderQuotaRoot.label                   "Kontigent-Hauptverzeichnis:">
 <!ENTITY folderQuotaUsage.label                  "Verwendung:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 

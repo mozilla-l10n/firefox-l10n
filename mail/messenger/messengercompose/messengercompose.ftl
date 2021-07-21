@@ -8,10 +8,6 @@
 remove-address-row-type = { $type }-Eingabefeld entfernen
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = { $type }-Eingabefeld entfernen
-
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = { $type }-Eingabefeld entfernen
 
@@ -138,9 +134,6 @@ button-return-receipt =
     .label = Empfangsbestätigung
     .tooltiptext = Eine Empfangsbestätigung für diese Nachricht anfordern
 
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = Die {$count} Empfänger in den Feldern "An" und "Kopie (CC)" können die Adressen aller Beteiligten in diesen Feldern sehen. Das Veröffentlichen der Empfänger kann durch Verwenden des Feldes "Blindkopie (BCC)" verhindert werden.
-
 # Addressing Area
 
 to-compose-address-row-label =
@@ -198,3 +191,8 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Es wurde keine Identität gefunden, welche mit der E-Mail-Adresse im "Von"-Feld übereinstimmt. Die Nachricht wird mit der derzeit im "Von"-Feld eingegebenen Adresse und den Einstellungen von { $identity } gesendet.
+
+## Editing
+
+# Tools
+

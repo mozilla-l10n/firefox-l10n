@@ -5,10 +5,10 @@
 places-open =
     .label = Öffnen
     .accesskey = Ö
-places-open-in-tab =
+places-open-tab =
     .label = In neuem Tab öffnen
     .accesskey = T
-places-open-tab =
+places-open-in-tab =
     .label = In neuem Tab öffnen
     .accesskey = T
 places-open-all-bookmarks =
@@ -20,15 +20,10 @@ places-open-all-in-tabs =
 places-open-window =
     .label = In neuem Fenster öffnen
     .accesskey = F
-places-open-in-window =
-    .label = In neuem Fenster öffnen
-    .accesskey = F
 places-open-private-window =
     .label = In neuem privaten Fenster öffnen
     .accesskey = p
-places-open-in-private-window =
-    .label = In neuem privaten Fenster öffnen
-    .accesskey = p
+
 places-new-bookmark =
     .label = Neues Lesezeichen…
     .accesskey = N
@@ -41,6 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = Neue Trennlinie
     .accesskey = T
+
+places-open-in-window =
+    .label = In neuem Fenster öffnen
+    .accesskey = F
+places-open-in-private-window =
+    .label = In neuem privaten Fenster öffnen
+    .accesskey = p
+
 places-add-bookmark =
     .label = Lesezeichen hinzufügen…
     .accesskey = L
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = Trennlinie hinzufügen
     .accesskey = r
+
 places-view =
     .label = Sortieren
     .accesskey = o
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Nach Datum und Website
     .accesskey = h
+
 places-history-search =
     .placeholder = Chronik durchsuchen
 places-bookmarks-search =
     .placeholder = Lesezeichen durchsuchen
+
 places-delete-domain-data =
     .label = Gesamte Website vergessen
     .accesskey = v
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = Eigenschaften
     .accesskey = g
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Lesezeichen bearbeiten…
@@ -101,15 +108,18 @@ places-remove-folder =
            *[other] Ordner entfernen
         }
     .accesskey = t
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Verwaltete Lesezeichen
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Unterordner
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Weitere Lesezeichen
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -119,6 +129,7 @@ places-remove-bookmark =
            *[other] Lesezeichen entfernen
         }
     .accesskey = n
+
 places-manage-bookmarks =
     .label = Lesezeichen verwalten
     .accesskey = v

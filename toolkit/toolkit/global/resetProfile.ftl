@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } bereinigen
+
 refresh-profile-dialog-title = { -brand-short-name } bereinigen und auf die Standardeinstellungen zurücksetzen?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } bereinigen

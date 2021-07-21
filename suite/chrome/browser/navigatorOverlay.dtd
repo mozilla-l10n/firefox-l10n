@@ -19,9 +19,6 @@
 <!ENTITY uploadFile.label "Datei hochladen…">
 <!ENTITY uploadFile.accesskey "h">
 
-<!ENTITY printSetupCmd.label "Seite einrichten…">
-<!ENTITY printSetupCmd.accesskey "t">
-
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Seite durchsuchen…">
 
@@ -144,3 +141,4 @@
 
 <!ENTITY clearPrivateDataCmd.label "Private Daten löschen…">
 <!ENTITY clearPrivateDataCmd.accesskey "v">
+

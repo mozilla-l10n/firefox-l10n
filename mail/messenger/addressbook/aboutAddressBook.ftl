@@ -8,10 +8,6 @@ about-addressbook-title = Adressbuch
 
 about-addressbook-toolbar-new-address-book =
   .label = Neues Adressbuch
-about-addressbook-toolbar-new-carddav-address-book =
-  .label = Neues CardDAV-Adressbuch
-about-addressbook-toolbar-new-ldap-address-book =
-  .label = Neues LDAP-Adressbuch
 about-addressbook-toolbar-add-carddav-address-book =
   .label = CardDAV-Adressbuch hinzufügen
 about-addressbook-toolbar-add-ldap-address-book =

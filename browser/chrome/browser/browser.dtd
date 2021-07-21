@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Menü öffnen">
+
 <!ENTITY navbarOverflow.label                "Mehr Werkzeuge…">
 
 <!-- Tab context menu -->
@@ -146,14 +147,17 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "Kürzlich geschlossene Fenster">
 
 <!ENTITY appMenuHistory.showAll.label "Gesamte Chronik anzeigen">
+
 <!ENTITY appMenuHistory.clearRecent.label "Neueste Chronik löschen…">
 <!ENTITY appMenuHistory.restoreSession.label "Vorherige Sitzung wiederherstellen">
 <!ENTITY appMenuHistory.viewSidebar.label "Chronik-Sidebar öffnen">
 <!ENTITY appMenuHistory.hideSidebar.label "Chronik-Sidebar schließen">
 <!ENTITY appMenuHistory.recentHistory.label "Neueste Chronik">
+
 <!ENTITY appMenuHelp.label "Hilfe">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronisierte Tabs">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Keine offenen Tabs">

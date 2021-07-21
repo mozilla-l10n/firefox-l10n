@@ -1,3 +1,4 @@
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -517,18 +518,13 @@ openpgp-export-secret-fail = <b>Ausgewählter öffentlicher Schlüssel konnte ni
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Der Schlüssel { $userId } (Schlüssel-ID { $keyId }) wurde widerrufen.
 key-ring-pub-key-expired = Der Schlüssel { $userId } (Schlüssel-ID { $keyId }) ist abgelaufen.
-key-ring-key-disabled = Der Schlüssel { $userId } (Schlüssel-ID { $keyId }) ist deaktiviert und kann daher nicht verwendet werden.
-key-ring-key-invalid = Der Schlüssel { $userId } (Schlüssel-ID { $keyId }) ist nicht gültig. Bitte ziehen Sie seine korrekte Verifizierung in Betracht.
-key-ring-key-not-trusted=Dem Schlüssel { $userId } (Schlüssel-ID { $keyId }) wird nicht ausreichend vertraut. Bitte setzen Sie die Vertrauensstufe für den Schlüssel auf "absolut", um ihn für digitale Unterschriften zu verwenden.
 key-ring-no-secret-key = Sie haben nicht den geheimen Schlüssel für { $userId } (Schlüssel-ID { $keyId }) in Ihrem Schlüsselbund und können den Schlüssel daher nicht für eine digitale Unterschrift einsetzen.
 key-ring-pub-key-not-for-signing = Der Schlüssel { $userId } (Schlüssel-ID { $keyId }) kann nicht für digitale Unterschriften verwendet werden.
 key-ring-pub-key-not-for-encryption = Der Schlüssel { $userId } (Schlüssel-ID { $keyId }) kann nicht für Verschlüsselung verwendet werden.
 key-ring-sign-sub-keys-revoked = Alle Unterschlüssel für digitale Unterschriften in { $userId } (Schlüssel-ID { $keyId }) wurden widerrufen.
 key-ring-sign-sub-keys-expired = Alle Unterschlüssel für digitale Unterschriften in { $userId } (Schlüssel-ID { $keyId }) sind abgelaufen.
-key-ring-sign-sub-keys-unusable = Alle Unterschlüssel für digitale Unterschriften in { $userId } (Schlüssel-ID { $keyId }) wurden widerrufen, sind abgelaufen oder wegen anderer Gründe nicht einsetzbar.
 key-ring-enc-sub-keys-revoked = Alle Unterschlüssel für Verschlüsselung in { $userId } (Schlüssel-ID { $keyId }) wurden widerrufen.
 key-ring-enc-sub-keys-expired = Alle Unterschlüssel für Verschlüsselung in { $userId } (Schlüssel-ID { $keyId }) sind abgelaufen.
-key-ring-enc-sub-keys-unusable = Alle Unterschlüssel für Verschlüsselung in { $userId } (Schlüssel-ID { $keyId }) wurden widerrufen, sind abgelaufen oder wegen anderer Gründe nicht einsetzbar.
 
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
@@ -635,8 +631,11 @@ key-man-button-generate-key-abort = Schlüsselerzeugung a&bbrechen
 key-man-button-generate-key-continue = Schlüsselerzeugung f&ortsetzen
 
 # Strings used in enigmailMessengerOverlay.js
+
+# Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Fehler bei der Entschlüsselung
 fix-broken-exchange-msg-failed = Nachricht konnte nicht repariert werden.
+
 attachment-no-match-from-signature = Konnte keine Verbindung von Datei mit digitaler Unterschrift "{ $attachment }" mit einem Anhang finden
 attachment-no-match-to-signature = Konnte keine Verbindung von Anhang "{ $attachment }" mit Datei mit digitaler Unterschrift finden
 signature-verified-ok = Die digitale Unterschrift für den Anhang { $attachment } wurde erfolgreich bestätigt.
@@ -732,5 +731,6 @@ dlg-button-skip = Ü&berspringen
 
 # Strings used in enigmailCommon.js
 enig-error = OpenPGP - Fehler
+
 enig-alert-title =
     .title = OpenPGP - Alarm
