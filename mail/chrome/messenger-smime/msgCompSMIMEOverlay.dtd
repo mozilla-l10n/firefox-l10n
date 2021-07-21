@@ -30,10 +30,10 @@
 <!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Montri sekurecajn informojn">
-<!ENTITY menu_securityStatus.accesskey "I">
+<!ENTITY menu_securityStatus.accesskey "M">
 
-<!ENTITY securityButton.label "Security">
-<!ENTITY securityButton.tooltip "View or change security settings">
+<!ENTITY securityButton.label "Sekureco">
+<!ENTITY securityButton.tooltip "Montri aŭ ŝanĝi sekurecajn agordojn">
 
 <!ENTITY menu_viewSecurityStatus.label "Message Security Info">
 <!ENTITY menu_viewSecurityStatus.accesskey "I">
