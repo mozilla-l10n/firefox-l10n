@@ -130,4 +130,5 @@ repair-text-encoding-button =
 ## no-reply handling
 
 no-reply-title = 不支持回复
+no-reply-message = 邮件的回复地址（{ $email }）看起来不像是有人会收件的地址。发送到此地址的邮件，不大可能被人阅读。
 no-reply-reply-anyway-button = 仍然回复
