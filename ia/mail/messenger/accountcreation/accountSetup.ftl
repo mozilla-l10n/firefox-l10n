@@ -128,6 +128,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Mantene tu plicas e e-mails sur tu computator
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Excambiar
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Usar le servitor Microsoft Exchange o le servicios in nube de Office365
 account-setup-incoming-title = Entrante
 account-setup-outgoing-title = Exiente
 account-setup-username-title = Nomine de usator
@@ -224,6 +226,8 @@ account-setup-settings-button = Parametros de conto
 account-setup-encryption-button = Cryptation end-to-end
 account-setup-signature-button = Adder un firma
 account-setup-dictionaries-button = Discargar dictionarios
+account-setup-address-book-carddav-button = Connecter a un libro del adresses CardDAV
+account-setup-address-book-ldap-button = Connecter a un libro de adresses LDAP
 account-setup-calendar-button = Connecter a un agenda remote
 account-setup-linked-services-title = Connecte tu servicios ligate
 account-setup-button-finish = Finir
