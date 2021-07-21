@@ -288,11 +288,11 @@
 <!ENTITY event.recurrence.pattern.every.weekday.label   "μόνο τις καθημερινές" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "ανά" >
-<!ENTITY repeat.units.weeks.both                        "εβδομάδα/ες" >
+<!ENTITY repeat.units.weeks.both                        "εβδομάδα(ες)" >
 <!ENTITY event.recurrence.on.label                      "κάθε:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "ανά" >
-<!ENTITY repeat.units.months.both                       "μήνα/ες" >
+<!ENTITY repeat.units.months.both                       "μήνα(ες)" >
 <!ENTITY event.recurrence.monthly.every.label           "κάθε" >
 <!ENTITY event.recurrence.monthly.first.label           "κάθε πρώτη">
 <!ENTITY event.recurrence.monthly.second.label          "κάθε δεύτερη">
@@ -310,7 +310,7 @@
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "ημέρα του μήνα">
 <!ENTITY event.recurrence.repeat.recur.label            "Επανάληψη την/τις">
 
-<!ENTITY event.recurrence.every.label                        "Κάθε:" >
+<!ENTITY event.recurrence.every.label                        "κάθε:" >
 <!ENTITY repeat.units.years.both                             "έτος(η)" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "κάθε" >
 
