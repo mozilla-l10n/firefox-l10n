@@ -11,6 +11,7 @@ account-setup-description = Pro usar tu actual e-mail adresse plena tu credentia
 account-setup-secondary-description = { -brand-product-name } cercara automaticamente un configuration functional et recommendate del servitor.
 account-setup-success-title = Conto create con successo
 account-setup-success-description = Ora tu pote usar iste conto con { -brand-short-name }.
+account-setup-success-secondary-description = Tu pote meliorar le experientia connectente le servicios pertinente e configurante le paramentos avantiate del conto.
 
 ## Form fields
 
@@ -101,8 +102,10 @@ account-setup-step4-image =
     .title = Error de connexion
 account-setup-step5-image =
     .title = Conto create.
+account-setup-privacy-footnote2 = Tu credentiales sera reservate solo localmente su tu computator.
 account-setup-selection-help = Non es tu secur de que seliger?
 account-setup-selection-error = Require tu adjuta?
+account-setup-success-help = Es tu indecise re tu proxime passos?
 account-setup-documentation-help = Installation de documentation
 account-setup-forum-help = Foro de supporto
 account-setup-privacy-help = Politica de confidentialitate
