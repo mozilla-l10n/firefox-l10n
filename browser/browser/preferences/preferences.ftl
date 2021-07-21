@@ -858,6 +858,7 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Vous êtes actuellement en mode FIPS. Ce mode nécessite un mot de passe principal non vide.
 forms-master-pw-fips-desc = Échec de la modification du mot de passe principal
+forms-windows-sso-learn-more-link = En savoir plus
 
 ## OS Authentication dialog
 
