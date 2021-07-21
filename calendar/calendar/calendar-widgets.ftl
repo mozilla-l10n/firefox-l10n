@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Tous les agendas sont actuellement désactivés. Activez un agenda existant ou ajoutez-en un nouveau pour créer et modifier des évènements.
 calendar-deactivated-notification-tasks = Tous les agendas sont actuellement désactivés. Activez un agenda existant ou ajoutez-en un nouveau pour créer et modifier des tâches.
+calendar-notifications-label = Afficher les notifications pour les évènements à venir
+calendar-add-notification-button =
+    .label = Ajouter une notification
