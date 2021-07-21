@@ -914,7 +914,7 @@
 <!ENTITY CopyNewsgroupURL.accesskey "Τ">
 <!ENTITY CreateFilterFrom.label "Δημιουργία φίλτρου από…">
 <!ENTITY CreateFilterFrom.accesskey "φ">
-<!ENTITY reportPhishingURL.label "Αναφορά email απάτης">
+<!ENTITY reportPhishingURL.label "Αναφορά απάτης μέσω email">
 <!ENTITY reportPhishingURL.accesskey "φ">
 
 <!-- Spell checker context menu items -->
