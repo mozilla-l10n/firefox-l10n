@@ -11,6 +11,7 @@ account-setup-description = Για να χρησιμοποιήσετε την υ
 account-setup-secondary-description = Το { -brand-product-name } θα αναζητήσει αυτόματα για τις λειτουργικές και προτεινόμενες ρυθμίσεις διακομιστή.
 account-setup-success-title = Επιτυχής δημιουργία λογαριασμού
 account-setup-success-description = Μπορείτε πλέον να χρησιμοποιήσετε αυτόν τον λογαριασμό με το { -brand-short-name }.
+account-setup-success-secondary-description = Μπορείτε να βελτιώσετε την εμπειρία σας συνδέοντας σχετικές υπηρεσίες και διαμορφώνοντας τις σύνθετες ρυθμίσεις λογαριασμού.
 
 ## Form fields
 
@@ -147,7 +148,7 @@ account-setup-result-username-different = Εισερχόμενα: { $incoming },
 account-setup-credentials-incomplete = Η αυθεντικοποίηση απέτυχε. Είτε τα διαπιστευτήρια που εισαγάγατε είναι λάθος είτε απαιτείται ξεχωριστό όνομα χρήστη για είσοδο. Το όνομα χρήστη συνήθως είναι το όνομα χρήστη για τον τομέα στα Windows, με ή χωρίς το όνομα τομέα (για παράδειγμα janedoe ή AD\\janedoe).
 account-setup-credentials-wrong = Η αυθεντικοποίηση απέτυχε. Παρακαλούμε ελέγξτε το όνομα χρήστη και τον κωδικό πρόσβασης
 account-setup-find-settings-failed = Το { -brand-short-name } απέτυχε να εντοπίσει τις ρυθμίσεις του λογαριασμού ηλεκτρονικής αλληλογραφίας σας
-account-setup-exchange-config-unverifiable = Δεν ήταν δυνατή η επαλήθευση των ρυθμίσεων. Αν το όνομα χρήστη και ο κωδικός πρόσβασης είναι σωστά, ενδέχεται ο διαχειριστής του διακομιστή σας να έχει απενεργοποιήσει την επιλεγμένη ρύθμιση για το λογαριασμό σας. Δοκιμάστε επιλέγοντας άλλο πρωτόκολλο.
+account-setup-exchange-config-unverifiable = Δεν ήταν δυνατή η επαλήθευση των ρυθμίσεων παραμέτρων. Αν το όνομα χρήστη και ο κωδικός πρόσβασής σας είναι σωστά, ο διαχειριστής διακομιστή ίσως έχει απενεργοποιήσει τις επιλεγμένες ρυθμίσεις παραμέτρων για τον λογαριασμό σας. Δοκιμάστε να επιλέξετε άλλο πρωτόκολλο.
 
 ## Manual configuration area
 
@@ -226,6 +227,8 @@ account-setup-dictionaries-button = Λήψη λεξικών
 account-setup-address-book-carddav-button = Σύνδεση σε ευρετήριο CardDAV
 account-setup-address-book-ldap-button = Σύνδεση σε ευρετήριο LDAP
 account-setup-calendar-button = Σύνδεση σε απομακρυσμένο ημερολόγιο
+account-setup-linked-services-title = Σύνδεση σχετικών υπηρεσιών
+account-setup-no-linked-description = Ρυθμίστε άλλες υπηρεσίες για να αξιοποιήσετε στο έπακρο το { -brand-short-name } σας.
 account-setup-button-finish = Τέλος
     .accesskey = Τ
 account-setup-looking-up-address-books = Αναζήτηση ευρετηρίων…
