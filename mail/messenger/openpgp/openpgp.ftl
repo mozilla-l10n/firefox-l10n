@@ -545,6 +545,9 @@ cannot-send-enc-because-no-own-key = 由于您还没有配置<{ $key }>的端到
 compose-menu-attach-key =
     .label = 附上我的公钥
     .accesskey = A
+compose-menu-encrypt-subject =
+    .label = 主题加密
+    .accesskey = b
 # Strings used in decryption.jsm
 do-import-multiple = 要导入下列密钥吗？{ $key }
 do-import-one = 要导入 { $name }（{ $id }）吗？
