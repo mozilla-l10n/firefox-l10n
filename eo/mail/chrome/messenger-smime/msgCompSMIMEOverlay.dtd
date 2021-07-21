@@ -29,7 +29,7 @@
 <!ENTITY menu_techSMIME.label "S/MIME">
 <!ENTITY menu_techSMIME.accesskey "S">
 
-<!ENTITY menu_securityStatus.label "View Security Info">
+<!ENTITY menu_securityStatus.label "Montri sekurecajn informojn">
 <!ENTITY menu_securityStatus.accesskey "I">
 
 <!ENTITY securityButton.label "Security">
