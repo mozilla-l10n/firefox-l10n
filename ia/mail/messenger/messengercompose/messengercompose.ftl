@@ -173,3 +173,5 @@ encrypted-bcc-ignore-button = Io comprende
 
 # Tools
 
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Remover le stilos de texto
