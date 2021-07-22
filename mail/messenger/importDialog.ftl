@@ -7,3 +7,4 @@ thunderbird-import-name = Thunderbird
 # Description of the import module
 thunderbird-import-description = Import wiadomości z katalogu profilu Thunderbirda.
 import-select-profile-dir-or-zip = Wybierz katalog profilu lub skompresowany katalog profilu
+import-select-profile-zip = Wybierz skompresowany katalog profilu
