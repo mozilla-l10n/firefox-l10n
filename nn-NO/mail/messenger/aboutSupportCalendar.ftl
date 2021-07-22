@@ -8,3 +8,4 @@ calendars-table-name = Namn
 calendars-table-type = Type
 calendars-table-disabled = Avslått
 calendars-table-username = Brukarnamn
+calendars-table-readonly = Skriveverna
