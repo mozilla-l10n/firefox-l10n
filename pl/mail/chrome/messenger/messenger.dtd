@@ -501,7 +501,9 @@
 <!ENTITY deleteJunk.label "Usuń niechciane wiadomości z folderu">
 <!ENTITY deleteJunk.accesskey "e">
 <!ENTITY importCmd.label "Importuj…">
-<!ENTITY importCmd.accesskey "I">
+<!ENTITY importCmd.accesskey "m">
+<!ENTITY exportCmd.label "Eksportuj…">
+<!ENTITY exportCmd.accesskey "k">
 <!ENTITY clearRecentHistory.label "Wyczyść historię przeglądania…">
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Konfiguracja kont">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Położenie">
 <!ENTITY idColumn.label "Kolejność otrzymania">
 <!ENTITY attachmentColumn.label "Załączniki">
-
 <!ENTITY deleteColumn.label "Usuń">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Sortowanie według adresu">
 <!ENTITY idColumn2.tooltip "Sortowanie według kolejności otrzymania">
 <!ENTITY attachmentColumn2.tooltip "Sortowanie według załącznika">
-
 <!ENTITY deleteColumn.tooltip "Usuń wiadomość">
 
 <!-- Thread Pane Context Menu -->
