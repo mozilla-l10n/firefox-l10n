@@ -106,3 +106,8 @@ caret-browsing-prompt-check-text = Älä kysy uudestaan.
 repair-text-encoding-button =
     .label = Korjaa merkistökoodaus
     .tooltiptext = Arvaa oikea merkistökoodaus viestin sisällöstä
+
+## no-reply handling
+
+no-reply-title = Vastausta ei tueta
+no-reply-reply-anyway-button = Vastaa silti
