@@ -48,6 +48,22 @@ printui-options = Opcions
 printui-headers-footers-checkbox = Imprimir las entèstas e los pès de pagina
 printui-backgrounds-checkbox = Imprimir los rèireplans
 printui-selection-checkbox = Sonque imprimir la seleccion
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Format
+# Option for printing the original page.
+printui-source-radio = Original
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Seleccion
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Simplificat
+
+##
+
 printui-color-mode-label = Mòde color
 printui-color-mode-color = Color
 printui-color-mode-bw = Blanc e negre
