@@ -273,11 +273,17 @@ account-setup-calendar-name-label = Nazwa
 account-setup-calendar-name-input =
     .placeholder = Mój kalendarz
 account-setup-calendar-color-label = Kolor
-account-setup-calendar-refresh-label = Odświeżanie
-account-setup-calendar-refresh-manual = Ręczne
+account-setup-calendar-refresh-label = Odświeżaj
+account-setup-calendar-refresh-manual = Ręcznie
 account-setup-calendar-refresh-interval =
     { $count ->
         [one] Co minutę
         [few] Co { $count } minuty
        *[many] Co { $count } minut
     }
+account-setup-calendar-read-only = Tylko do odczytu
+    .accesskey = T
+account-setup-calendar-show-reminders = Wyświetlaj przypomnienia
+    .accesskey = W
+account-setup-calendar-offline-support = Dostępność offline
+    .accesskey = D
