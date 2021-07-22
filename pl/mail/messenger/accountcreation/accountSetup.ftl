@@ -7,9 +7,11 @@ account-setup-tab-title = Konfiguracja konta
 ## Header
 
 account-setup-title = Konfiguracja istniejącego adresu e-mail
-account-setup-description =
-    Aby użyć obecnego adresu e-mail, wypełnij swoje dane logowania.<br/>
-    { -brand-product-name } automatycznie wyszuka działającą i zalecaną konfigurację serwera.
+account-setup-description = Aby użyć obecnego adresu e-mail, wypełnij swoje dane logowania.
+account-setup-secondary-description = { -brand-product-name } automatycznie wyszuka działającą i zalecaną konfigurację serwera.
+account-setup-success-title = Pomyślnie utworzono konto
+account-setup-success-description = Można teraz używać tego konta w programie { -brand-short-name }.
+account-setup-success-secondary-description = Można poprawić działanie, łącząc powiązane usługi i konfigurując zaawansowane ustawienia konta.
 
 ## Form fields
 
@@ -98,7 +100,8 @@ account-setup-step3-image =
     .title = Znaleziono konfigurację
 account-setup-step4-image =
     .title = Błąd połączenia
-account-setup-privacy-footnote = Dane logowania będą używane zgodnie z naszymi <a data-l10n-name="privacy-policy-link">zasadami ochrony prywatności</a> i będą przechowywane wyłącznie lokalnie na komputerze użytkownika.
+account-setup-step5-image =
+    .title = Utworzono konto
 account-setup-selection-help = Nie wiesz, co wybrać?
 account-setup-selection-error = Potrzebujesz pomocy?
 account-setup-documentation-help = Dokumentacja konfiguracji
@@ -121,7 +124,6 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Foldery i poczta na komputerze
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-account-setup-result-exchange-description = Serwer Microsoft Exchange
 account-setup-incoming-title = Serwer poczty przychodzącej
 account-setup-outgoing-title = Serwer poczty wychodzącej
 account-setup-username-title = Nazwa użytkownika
@@ -211,3 +213,9 @@ account-setup-confirm-advanced-description = To okno zostanie zamknięte, a kon
 account-setup-addon-install-title = Zainstaluj
 account-setup-addon-install-intro = Dodatek dostarczany przez zewnętrznego producenta może umożliwić dostęp do konta pocztowego na tym serwerze:
 account-setup-addon-no-protocol = Ten serwer poczty nie obsługuje otwartych protokołów. { account-setup-addon-install-intro }
+
+## Success view
+
+
+## Calendar synchronization dialog
+
