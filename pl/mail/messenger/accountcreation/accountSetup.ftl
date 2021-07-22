@@ -102,10 +102,14 @@ account-setup-step4-image =
     .title = Błąd połączenia
 account-setup-step5-image =
     .title = Utworzono konto
+account-setup-privacy-footnote2 = Dane logowania będą przechowywane wyłącznie lokalnie na komputerze.
 account-setup-selection-help = Nie wiesz, co wybrać?
 account-setup-selection-error = Potrzebujesz pomocy?
+account-setup-success-help = Nie masz pewności co do kolejnych kroków?
 account-setup-documentation-help = Dokumentacja konfiguracji
 account-setup-forum-help = Forum pomocy
+account-setup-privacy-help = Zasady ochrony prywatności
+account-setup-getting-started = Pierwsze kroki
 
 ## Results area
 
@@ -124,6 +128,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Foldery i poczta na komputerze
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Użyj serwera Microsoft Exchange lub usług Office 365
 account-setup-incoming-title = Serwer poczty przychodzącej
 account-setup-outgoing-title = Serwer poczty wychodzącej
 account-setup-username-title = Nazwa użytkownika
@@ -216,6 +222,62 @@ account-setup-addon-no-protocol = Ten serwer poczty nie obsługuje otwartych pro
 
 ## Success view
 
+account-setup-settings-button = Ustawienia konta
+account-setup-encryption-button = Szyfrowanie „end-to-end”
+account-setup-signature-button = Dodaj podpis
+account-setup-dictionaries-button = Pobierz słowniki
+account-setup-address-book-carddav-button = Połącz z książką adresową CardDAV
+account-setup-address-book-ldap-button = Połącz z książką adresową LDAP
+account-setup-calendar-button = Połącz ze zdalnym kalendarzem
+account-setup-linked-services-title = Połącz z powiązanymi usługami
+account-setup-linked-services-description = { -brand-short-name } wykrył inne usługi powiązane z kontem pocztowym.
+account-setup-no-linked-description = Skonfiguruj inne usługi, aby w pełni korzystać z możliwości programu { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } odnalazł książkę adresową powiązaną z kontem pocztowym.
+        [few] { -brand-short-name } odnalazł { $count } książki adresowe powiązane z kontem pocztowym.
+       *[many] { -brand-short-name } odnalazł { $count } książek adresowych powiązanych z kontem pocztowym.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } odnalazł kalendarz powiązany z kontem pocztowym.
+        [few] { -brand-short-name } odnalazł { $count } kalendarze powiązane z kontem pocztowym.
+       *[many] { -brand-short-name } odnalazł { $count } kalendarzy powiązanych z kontem pocztowym.
+    }
+account-setup-button-finish = Zakończ
+    .accesskey = k
+account-setup-looking-up-address-books = Wyszukiwanie książek adresowych…
+account-setup-looking-up-calendars = Wyszukiwanie kalendarzy…
+account-setup-address-books-button = Książki adresowe
+account-setup-calendars-button = Kalendarze
+account-setup-connect-link = Połącz
+account-setup-existing-address-book = Połączono
+    .title = Książka adresowa jest już połączona
+account-setup-existing-calendar = Połączono
+    .title = Kalendarz jest już połączony
+account-setup-connect-all-calendars = Połącz wszystkie kalendarze
+account-setup-connect-all-address-books = Połącz wszystkie książki adresowe
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Połącz kalendarz
+calendar-dialog-cancel-button = Anuluj
+    .accesskey = A
+calendar-dialog-confirm-button = Połącz
+    .accesskey = P
+account-setup-calendar-name-label = Nazwa
+account-setup-calendar-name-input =
+    .placeholder = Mój kalendarz
+account-setup-calendar-color-label = Kolor
+account-setup-calendar-refresh-label = Odświeżanie
+account-setup-calendar-refresh-manual = Ręczne
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Co minutę
+        [few] Co { $count } minuty
+       *[many] Co { $count } minut
+    }
