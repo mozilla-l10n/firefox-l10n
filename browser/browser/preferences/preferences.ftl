@@ -257,6 +257,7 @@ confirm-browser-language-change-button = Uruchom ponownie
 translate-web-pages =
     .label = Tłumaczenie stron WWW
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Tłumaczeń dostarcza <img data-l10n-name="logo"/>
@@ -734,7 +735,7 @@ sync-currently-syncing-history = historia
 sync-currently-syncing-tabs = otwarte karty
 sync-currently-syncing-logins-passwords = dane logowania i hasła
 sync-currently-syncing-addresses = adresy
-sync-currently-syncing-creditcards = karty płatnicze
+sync-currently-syncing-creditcards = dane kart płatniczych
 sync-currently-syncing-addons = dodatki
 sync-currently-syncing-prefs =
     { PLATFORM() ->
@@ -861,6 +862,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Program pracuje obecnie w trybie FIPS. Tryb FIPS wymaga niepustego hasła głównego.
 forms-master-pw-fips-desc = Zmiana hasła się nie powiodła.
+forms-windows-sso =
+    .label = Zezwalaj na pojedyncze logowanie Windows do kont Microsoft, służbowych i szkolnych
+forms-windows-sso-learn-more-link = Więcej informacji
+forms-windows-sso-desc = Zarządzaj kontami w ustawieniach urządzenia
 
 ## OS Authentication dialog
 
@@ -1113,6 +1118,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Wyjątki…
     .accesskey = t
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Wyjątki…
+    .accesskey = t
+    .searchkeywords = popups
 permissions-addon-install-warning =
     .label = Ostrzeganie, gdy witryny próbują instalować dodatki
     .accesskey = O
