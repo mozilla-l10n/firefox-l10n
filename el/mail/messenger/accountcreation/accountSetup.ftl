@@ -128,6 +128,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Διατηρήστε τους φακέλους και τα μηνύματα στον υπολογιστή σας
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Χρησιμοποιήστε τον διακομιστή Microsoft Exchange ή τις υπηρεσίες cloud του Office365
 account-setup-incoming-title = Εισερχόμενα
 account-setup-outgoing-title = Εξερχόμενα
 account-setup-username-title = Όνομα χρήστη
