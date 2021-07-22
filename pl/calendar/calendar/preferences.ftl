@@ -4,6 +4,7 @@
 
 calendar-title = Kalendarz
 calendar-title-reminder = Przypomnienia
+calendar-title-notification = Powiadomienia
 calendar-title-category = Kategorie
 dateformat-label =
     .value = Format daty:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Czas przypomnienia przed zadaniem:
     .accesskey = z
+calendar-notifications-customize-label = Powiadomienia dla każdego kalendarza można dostosować w jego właściwościach.
 category-new-label = Nowa kategoria
 category-edit-label = Edytuj kategorię
 category-overwrite-title = Ostrzeżenie: taka nazwa już istnieje
