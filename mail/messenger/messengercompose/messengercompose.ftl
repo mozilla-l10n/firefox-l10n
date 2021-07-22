@@ -165,6 +165,7 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Δεν βρέθηκε μοναδική ταυτότητα που να αντιστοιχεί στη διεύθυνση "Από". Το μήνυμα θα αποσταλεί με το τρέχον πεδίο "Από" και τις ρυθμίσεις της ταυτότητας "{ $identity }".
+encrypted-bcc-warning = Κατά την αποστολή ενός κρυπτογραφημένου μηνύματος, οι παραλήπτες στο πεδίο "Κρυφή Κοιν." δεν αποκρύπτονται πλήρως. Όλοι οι παραλήπτες ενδέχεται να μπορέσουν να τους αναγνωρίσουν.
 encrypted-bcc-ignore-button = Κατάλαβα
 
 ## Editing

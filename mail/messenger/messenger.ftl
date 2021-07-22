@@ -131,4 +131,5 @@ repair-text-encoding-button =
 ## no-reply handling
 
 no-reply-title = Δεν υποστηρίζεται απάντηση
+no-reply-message = Η διεύθυνση απάντησης ({ $email }) δεν φαίνεται να είναι ελεγχόμενη. Τα μηνύματα σε αυτή τη διεύθυνση πιθανότατα δεν θα διαβαστούν από κανέναν.
 no-reply-reply-anyway-button = Απάντηση ούτως ή άλλως
