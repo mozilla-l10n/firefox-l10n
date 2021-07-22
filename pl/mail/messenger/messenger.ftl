@@ -23,9 +23,6 @@ content-tab-security-broken-icon =
 
 ## Toolbar
 
-addons-and-themes-button =
-    .label = Dodatki i motywy
-    .tooltip = Zarządzaj dodatkami
 addons-and-themes-toolbarbutton =
     .label = Dodatki i motywy
     .tooltiptext = Zarządzaj dodatkami
@@ -131,3 +128,9 @@ caret-browsing-prompt-check-text = Nie pytaj ponownie.
 repair-text-encoding-button =
     .label = Napraw kodowanie tekstu
     .tooltiptext = Spróbuj wykryć właściwe kodowanie tekstu na podstawie treści wiadomości
+
+## no-reply handling
+
+no-reply-title = Odpowiedź nie jest obsługiwana
+no-reply-message = Adres odpowiedzi ({ $email }) nie wydaje się być adresem monitorowanym. Wiadomości na ten adres prawdopodobnie nie zostaną przez nikogo przeczytane.
+no-reply-reply-anyway-button = Odpowiedz mimo to
