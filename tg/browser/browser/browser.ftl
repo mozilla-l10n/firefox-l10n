@@ -300,6 +300,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Шумо ба ин сомона тавассути шабакаи муҳофизатнашуда пайваст шудед.
 identity-connection-verified = Шумо ба ин сомона тавассути шабакаи муҳофизатшуда пайваст шудед.
 identity-ev-owner-label = Гувоҳинома дода шуд ба:
+identity-description-custom-root = Mozilla ин барорандаи гувоҳиномаро эътироф намекунад. Эҳтимол аст, ки он аз тарафи низоми амалкунандаи шумо ё аз ҷониби маъмур илова карда шуд. <label data-l10n-name="link">Маълумоти бештар</label>
 identity-remove-cert-exception =
     .label = Тоза кардани истисно
     .accesskey = Т
