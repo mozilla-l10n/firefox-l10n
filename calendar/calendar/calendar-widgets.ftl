@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Wszystkie kalendarze są obecnie wyłączone. Włącz istniejący kalendarz lub dodaj nowy, aby tworzyć i modyfikować wydarzenia.
 calendar-deactivated-notification-tasks = Wszystkie kalendarze są obecnie wyłączone. Włącz istniejący kalendarz lub dodaj nowy, aby tworzyć i modyfikować zadania.
+calendar-notifications-label = Wyświetlaj powiadomienia o nadchodzących wydarzeniach
+calendar-add-notification-button =
+    .label = Dodaj powiadomienie
