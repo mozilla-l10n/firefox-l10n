@@ -979,7 +979,7 @@ addressbar-locbar-topsites-option =
     .label = 熱門網站
     .accesskey = T
 addressbar-locbar-engines-option =
-    .label = 搜索引擎
+    .label = 搜尋引擎
     .accesskey = a
 addressbar-suggestions-settings = 修改搜尋建議偏好設定
 
