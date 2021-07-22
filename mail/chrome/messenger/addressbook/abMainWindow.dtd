@@ -48,6 +48,9 @@
 <!ENTITY editMenu.accesskey                             "t">
 <!ENTITY deleteCmd.label                                "Eliminar">
 <!ENTITY deleteAbCmd.label                              "Eliminar a axenda de enderezos">
+<!ENTITY deleteAbCmd.accesskey                          "D">
+<!ENTITY removeAbCmd.label                              "Retirar a Axenda de Enderezos">
+<!ENTITY removeAbCmd.accesskey                          "d">
 <!ENTITY deleteContactCmd.label                         "Eliminar contacto">
 <!ENTITY deleteContactsCmd.label                        "Eliminar contactos">
 <!ENTITY deleteListCmd.label                            "Eliminar lista">
@@ -140,6 +143,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Eliminar">
 <!ENTITY deleteButton2.accesskey                        "l">
 
+<!ENTITY removeButton.label                             "Retirar">
+<!ENTITY removeButton.accesskey                         "R">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Seleccione as columnas a amosar">
 <!ENTITY newContactButton.tooltip                       "Crear un novo contacto na axenda de enderezos">
@@ -151,6 +157,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Enviar unha mensaxe de correo">
 <!ENTITY newIM.tooltip                                  "Enviar unha mensaxe instantánea ou chat">
 <!ENTITY deleteButton2.tooltip                          "Eliminar o elemento seleccionado">
+
+<!ENTITY removeButton.tooltip                           "Retirar a axenda de enderezos seleccionada">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nome ou correo electrónico">
