@@ -228,7 +228,22 @@ account-setup-address-book-carddav-button = Σύνδεση σε ευρετήρι
 account-setup-address-book-ldap-button = Σύνδεση σε ευρετήριο LDAP
 account-setup-calendar-button = Σύνδεση σε απομακρυσμένο ημερολόγιο
 account-setup-linked-services-title = Σύνδεση σχετικών υπηρεσιών
+account-setup-linked-services-description = Το { -brand-short-name } ανίχνευσε άλλες συνδεδεμένες υπηρεσίες στον λογαριασμό email σας.
 account-setup-no-linked-description = Ρυθμίστε άλλες υπηρεσίες για να αξιοποιήσετε στο έπακρο το { -brand-short-name } σας.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] Το { -brand-short-name } βρήκε ένα συνδεδεμένο ευρετήριο στον λογαριασμό email σας.
+       *[other] Το { -brand-short-name } βρήκε { $count } συνδεδεμένα ευρετήρια στον λογαριασμό email σας.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] Το { -brand-short-name } βρήκε ένα συνδεδεμένο ημερολόγιο στον λογαριασμό email σας.
+       *[other] Το { -brand-short-name } βρήκε { $count } συνδεδεμένα ημερολόγιο στον λογαριασμό email σας.
+    }
 account-setup-button-finish = Τέλος
     .accesskey = Τ
 account-setup-looking-up-address-books = Αναζήτηση ευρετηρίων…
@@ -236,6 +251,10 @@ account-setup-looking-up-calendars = Αναζήτηση ημερολογίων�
 account-setup-address-books-button = Ευρετήρια
 account-setup-calendars-button = Ημερολόγια
 account-setup-connect-link = Σύνδεση
+account-setup-existing-address-book = Συνδεδεμένο
+    .title = Το ευρετήριο έχει ήδη συνδεθεί
+account-setup-existing-calendar = Συνδεδεμένο
+    .title = Το ημερολόγιο έχει ήδη συνδεθεί
 account-setup-connect-all-calendars = Σύνδεση όλων των ημερολογίων
 account-setup-connect-all-address-books = Σύνδεση όλων των ευρετηρίων
 

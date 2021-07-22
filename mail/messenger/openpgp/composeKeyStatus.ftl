@@ -14,4 +14,11 @@ openpgp-compose-key-status-open-details = Διαχείριση κλειδιών 
 openpgp-recip-good = ok
 openpgp-recip-missing = κανένα διαθέσιμο κλειδί
 openpgp-recip-none-accepted = κανένα αποδεκτό κλειδί
+openpgp-compose-general-info-alias = Το { -brand-short-name } απαιτεί συνήθως το δημόσιο κλειδί του παραλήπτη να περιέχει ένα ID χρήστη με αντίστοιχη διεύθυνση email. Αυτό μπορεί να παρακαμφθεί με τους κανόνες ψευδωνύμου παραλήπτη του OpenPGP.
 openpgp-compose-general-info-alias-learn-more = Μάθετε περισσότερα
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] αντιστοιχήθηκε σε ένα πλήκτρο ψευδωνύμου
+       *[other] αντιστοιχήθηκε σε { $count } πλήκτρα ψευδωνύμων
+    }
+openpgp-compose-alias-status-error = μη χρηστικό/διαθέσιμο πλήκτρο ψευδωνύμου
