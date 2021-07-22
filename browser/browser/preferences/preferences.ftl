@@ -863,7 +863,7 @@ forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Program pracuje obecnie w trybie FIPS. Tryb FIPS wymaga niepustego hasła głównego.
 forms-master-pw-fips-desc = Zmiana hasła się nie powiodła.
 forms-windows-sso =
-    .label = Zezwalaj na pojedyncze logowanie Windows do kont Microsoft, służbowych i szkolnych
+    .label = Zezwalaj na pojedyncze logowanie Windows do kont Microsoft, służbowych i szkolnych.
 forms-windows-sso-learn-more-link = Więcej informacji
 forms-windows-sso-desc = Zarządzaj kontami w ustawieniach urządzenia
 
