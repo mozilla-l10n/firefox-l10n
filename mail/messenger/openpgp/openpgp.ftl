@@ -4,6 +4,16 @@
 
 e2e-intro-description = Do wysyłania zaszyfrowanych lub cyfrowo podpisanych wiadomości wymagana jest konfiguracja technologii szyfrowania OpenPGP lub S/MIME.
 e2e-intro-description-more = Wybierz swój klucz osobisty, aby umożliwić korzystanie z OpenPGP, lub certyfikat osobisty, aby umożliwić korzystanie z S/MIME. Dla klucza lub certyfikatu osobistego posiadasz odpowiedni tajny klucz.
+e2e-advanced-section = Ustawienia zaawansowane
+e2e-attach-key =
+    .label = Dołączaj mój klucz publiczny podczas dodawania podpisu cyfrowego OpenPGP
+    .accesskey = D
+e2e-encrypt-subject =
+    .label = Szyfruj temat wiadomości OpenPGP
+    .accesskey = S
+e2e-encrypt-drafts =
+    .label = Przechowuj szkice wiadomości w formacie zaszyfrowanym
+    .accesskey = P
 openpgp-key-user-id-label = Identyfikator konta/użytkownika
 openpgp-keygen-title-label =
     .title = Wygeneruj klucz OpenPGP
@@ -605,6 +615,12 @@ no-temp-dir =
 possibly-pgp-mime = Wiadomość prawdopodobnie zaszyfrowana lub podpisana za pomocą PGP/MIME; użyj funkcji „Odszyfruj/zweryfikuj” do weryfikacji
 cannot-send-sig-because-no-own-key = Nie można podpisać cyfrowo tej wiadomości, ponieważ nie skonfigurowano jeszcze szyfrowania typu „end-to-end” dla <{ $key }>
 cannot-send-enc-because-no-own-key = Nie można wysłać tej wiadomości w postaci zaszyfrowanej, ponieważ nie skonfigurowano jeszcze szyfrowania typu „end-to-end” dla <{ $key }>
+compose-menu-attach-key =
+    .label = Dołącz mój klucz publiczny
+    .accesskey = D
+compose-menu-encrypt-subject =
+    .label = Szyfrowanie tematu
+    .accesskey = S
 # Strings used in decryption.jsm
 do-import-multiple =
     Zaimportować te klucze?
