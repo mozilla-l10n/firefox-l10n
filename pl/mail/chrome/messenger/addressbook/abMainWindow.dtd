@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY deleteCmd.label                                "Usuń">
 <!ENTITY deleteAbCmd.label                              "Usuń książkę adresową">
+<!ENTITY deleteAbCmd.accesskey                          "U">
 <!ENTITY removeAbCmd.label                              "Usuń książkę adresową">
+<!ENTITY removeAbCmd.accesskey                          "U">
 <!ENTITY deleteContactCmd.label                         "Usuń wizytówkę">
 <!ENTITY deleteContactsCmd.label                        "Usuń wizytówki">
 <!ENTITY deleteListCmd.label                            "Usuń listę">
