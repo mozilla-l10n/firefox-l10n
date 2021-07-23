@@ -211,6 +211,7 @@ cfr-doorhanger-milestone-heading =
         [one] { -brand-short-name } <b>{ $blockedCount } </b> এর উপর ট্র্যাকার { $date } তারিখ থেকে ব্লক!
        *[other] { -brand-short-name } <b>{ $blockedCount } </b> এর উপর ট্র্যাকার { $date } তারিখ থেকে ব্লক!
     }
+
 cfr-doorhanger-milestone-ok-button = সব দেখুন
     .accesskey = S
 
@@ -233,4 +234,8 @@ cfr-whatsnew-passwords-icon-alt = অরক্ষিত পাসওয়ার
 ## DOH Message
 
 ## What's new: Cookies message
+
+## Fission Experiment Message
+
+## Full Video Support CFR message
 

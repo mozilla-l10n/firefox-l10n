@@ -336,3 +336,8 @@ touch-warning = অ্যাসিঙ্ক টাচ ইনপুট অসম�
 policies-inactive = নিষ্ক্রিয়
 policies-active = সক্রিয়
 policies-error = ত্রুটি
+
+## Printing section
+
+## Normandy sections
+

@@ -23,6 +23,7 @@ appmenuitem-zoom-enlarge =
     .label = বড় করুন
 appmenuitem-zoom-reduce =
     .label = ছোট করুন
+
 appmenuitem-fullscreen =
     .label = পূর্ণ পর্দাজুড়ে প্রদর্শন
 
@@ -30,6 +31,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = এখনই সিঙ্ক করুন
+
 appmenuitem-save-page =
     .label = পাতা নতুনভাবে সংরক্ষণ…
 
@@ -83,3 +85,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = কাজ ব্যবস্থাপক
+

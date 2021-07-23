@@ -42,6 +42,11 @@ abuse-report-submit-button = জমা দিন
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = <span data-l10n-name="addon-name">{ $addon-name }</span>এর জন্য রিপোর্ট বাতিল করা হয়েছে।
 abuse-report-messagebar-submitting = <span data-l10n-name="addon-name">{ $addon-name }</span>এর জন্য রিপোর্ট পাঠানো হচ্ছে।
 abuse-report-messagebar-submitted = রিপোর্ট জমা দেওয়ার জন্য আপনাকে ধন্যবাদ। আপনি কি <span data-l10n-name="addon-name">{ $addon-name }</span> অপসারণ করতে চান?
