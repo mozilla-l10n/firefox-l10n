@@ -47,6 +47,8 @@ permissions-invalid-uri-label = Wpiszë pòprôwné miono hòsta
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Mòżesz wëbrac, chtërne stronë mògą òtmëkac wëskakùjącé òkna. Wpiszë akùratny adres stronë, chtërny chcesz na to dac zgòdã, i klëkni na Zezwòlë.

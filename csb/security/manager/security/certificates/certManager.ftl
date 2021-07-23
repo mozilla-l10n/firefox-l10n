@@ -195,6 +195,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Jes gwës że chcesz rëmnąc ne wëjimczi serwera?
 delete-ssl-cert-impact = Żlë rëmniesz wëjimczi serwera, doprowadzysz nazôd zwëczajné ùstawë bezpiekù negò serwera, w tim ùżiwk wôżnëch certifikatów.
 
+
 delete-ca-cert-title =
     .title = Rëmôj abò nie dowierzôj certifikatóm CA
 delete-ca-cert-confirm = Próbùjesz rëmnąc certifikatë CA. Dowierzanié wbùdowónëch certifikatów bãdze copniãti co mô nen sóm rezultat. Jes gwës że chcesz rëmnąc czë niedowierzac?
@@ -239,6 +240,8 @@ cert-not-verified-issuer-unknown = Ni mòże zwerifikòwac negò certifikatu kò
 cert-not-verified-ca-invalid = Ni mòże zwerifikòwac negò certifikatu kò CA certifikat je niewôżny.
 cert-not-verified_algorithm-disabled = Werifikacjô certifikatu nie darziła sã - òn béł pòpdpisóny przez niewôżny algòritm, chtëren nie je bezpieczny.
 cert-not-verified-unknown = Je jiwer z werifikacją negò certifikatu.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

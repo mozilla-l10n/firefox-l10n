@@ -24,6 +24,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronizëjë terô
+
 appmenuitem-save-page =
     .label = Zapiszë stronã jakno…
 
@@ -40,19 +41,12 @@ appmenuitem-save-page =
 
 ## Help panel
 
-appmenu-help-troubleshooting-info =
-    .label = Wëdowiédzô ò felach
-    .accesskey = W
 appmenu-help-feedback-page =
     .label = Wëslë òpiniã…
     .accesskey = s
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Zrëszë znowa z wëłączonyma dodôwkama…
-    .accesskey = ë
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
