@@ -14,11 +14,15 @@ about-config-intro-warning-button = Hyväksy riski ja jatka
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Näiden asetusten muuttaminen voi vaikuttaa { -brand-short-name }in suorituskykyyn tai turvallisuuteen.
+
 about-config-page-title = Lisäasetukset
+
 about-config-search-input1 =
     .placeholder = Etsi asetuksen nimellä
 about-config-show-all = Näytä kaikki
+
 about-config-show-only-modified = Näytä vain muokatut asetukset
+
 about-config-pref-add-button =
     .title = Lisää
 about-config-pref-toggle-button =

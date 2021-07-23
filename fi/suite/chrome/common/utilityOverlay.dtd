@@ -144,6 +144,7 @@
 
 <!ENTITY helpForIEUsers.label               "Internet Explorerin käyttäjille">
 <!ENTITY helpForIEUsers.accesskey           "I">
+
 <!ENTITY helpTroubleshootingInfo.label      "Vianetsintätiedot">
 <!ENTITY helpTroubleshootingInfo.accesskey  "V">
 <!ENTITY releaseCmd.label                   "Julkaisutiedot">

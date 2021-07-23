@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Liitytään keskusteluun
+
 chat-left-chat-icon2 =
     .alt = Poistui keskustelusta
+
 chat-participant-owner-role-icon2 =
     .alt = Omistaja
+
 chat-participant-administrator-role-icon2 =
     .alt = Ylläpitäjä
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderaattori
+
 chat-participant-voiced-role-icon2 =
     .alt = Osallistuja voi lähettää viestejä

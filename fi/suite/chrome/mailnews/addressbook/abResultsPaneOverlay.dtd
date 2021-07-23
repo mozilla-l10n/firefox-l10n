@@ -30,8 +30,6 @@
 <!ENTITY HomePhone.accesskey                   "K">
 <!ENTITY WorkPhone.label                       "Työnumero">
 <!ENTITY WorkPhone.accesskey                   "T">
-<!ENTITY ScreenName.label                      "Puhuttelunimi">
-<!ENTITY ScreenName.accesskey                  "t">
 <!ENTITY ChatName.label                        "Chat-nimi">
 <!ENTITY ChatName.accesskey                    "C">
 <!ENTITY sortAscending.label                   "Nouseva järjestys">

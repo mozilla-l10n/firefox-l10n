@@ -32,11 +32,6 @@
 <!ENTITY acceptforNDays.accesskey       "l">
 <!ENTITY days.label                     "päivää">
 
-<!ENTITY warnAboutCookies.label         "Kysy joka evästeestä erikseen">
-<!ENTITY warnAboutCookies.accesskey     "K">
-<!ENTITY forCurrentSession.label        "paitsi istuntoevästeistä">
-<!ENTITY forCurrentSession.accesskey    "p">
-
 <!ENTITY manageCookies.label            "Evästeiden ja sivustojen hallinta">
 <!ENTITY manageCookiesDescription.label "Voit tarkastella asetettuja evästeitä ja asettaa sivustokohtaiset käytännöt evästeiden sallimiselle ja estämiselle. Sivustokohtaiset asetukset korvaavat yllä olevat.">
 

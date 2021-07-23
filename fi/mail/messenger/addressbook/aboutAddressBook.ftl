@@ -8,10 +8,6 @@ about-addressbook-title = Osoitekirja
 
 about-addressbook-toolbar-new-address-book =
     .label = Uusi osoitekirja
-about-addressbook-toolbar-new-carddav-address-book =
-    .label = Uusi CardDAV-osoitekirja
-about-addressbook-toolbar-new-ldap-address-book =
-    .label = Uusi LDAP-osoitekirja
 about-addressbook-toolbar-add-carddav-address-book =
     .label = Lisää CardDAV-osoitekirja
 about-addressbook-toolbar-add-ldap-address-book =
@@ -24,6 +20,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Kaikki osoitekirjat
+
 about-addressbook-books-context-properties =
     .label = Ominaisuudet
 about-addressbook-books-context-synchronize =
@@ -34,6 +31,7 @@ about-addressbook-books-context-delete =
     .label = Poista
 about-addressbook-books-context-remove =
     .label = Poista
+
 about-addressbook-confirm-delete-book-title = Poista osoitekirja
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -51,14 +49,17 @@ about-addressbook-search =
     .placeholder = Hae { $name }
 about-addressbook-search-all =
     .placeholder = Hae kaikista osoitekirjoista
+
 about-addressbook-sort-button =
     .title = Muuta listan järjestystä
+
 about-addressbook-name-format-display =
     .label = Näyttönimi
 about-addressbook-name-format-firstlast =
     .label = Etunimi Sukunimi
 about-addressbook-name-format-lastfirst =
     .label = Sukunimi, Etunimi
+
 about-addressbook-sort-name-ascending =
     .label = Järjestä nimen mukaan (A > Ö)
 about-addressbook-sort-name-descending =
@@ -73,6 +74,7 @@ about-addressbook-sort-email-descending =
 about-addressbook-begin-edit-contact-button = Muokkaa
 about-addressbook-cancel-edit-contact-button = Peruuta
 about-addressbook-save-edit-contact-button = Tallenna
+
 about-addressbook-details-email-addresses-header = Sähköpostiosoitteet
 about-addressbook-details-phone-numbers-header = Puhelinnumerot
 about-addressbook-details-home-address-header = Kotiosoite

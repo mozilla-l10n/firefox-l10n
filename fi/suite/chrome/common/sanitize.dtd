@@ -61,9 +61,9 @@
 <!ENTITY itemSessions.label               "Varmennetut istunnot">
 <!ENTITY itemSessions.accesskey           "r">
 
+<!ENTITY sanitizeButton.label            "Poista valitut tiedot">
 <!ENTITY itemSessionsS.accesskey          "m">
 
-<!ENTITY sanitizeButton.label            "Poista valitut tiedot">
 <!ENTITY itemSitePreferences.label        "Sivustoasetukset">
 <!ENTITY itemSitePreferences.accesskey    "S">
 <!ENTITY itemSitePreferencesS.accesskey   "t">

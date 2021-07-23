@@ -5,65 +5,85 @@
 permissions-window =
     .title = Poikkeukset
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Sivuston osoite
     .accesskey = i
+
 permissions-block =
     .label = Estä
     .accesskey = E
+
 permissions-session =
     .label = Salli istunnon ajaksi
     .accesskey = i
+
 permissions-allow =
     .label = Salli
     .accesskey = a
+
 permissions-button-off =
     .label = Poista käytöstä
     .accesskey = P
+
 permissions-button-off-temporarily =
     .label = Poista käytöstä väliaikaisesti
     .accesskey = v
+
 permissions-site-name =
     .label = Sivusto
+
 permissions-status =
     .label = Tila
+
 permissions-remove =
     .label = Poista sivusto
     .accesskey = P
+
 permissions-remove-all =
     .label = Poista kaikki sivustot
     .accesskey = k
+
 permissions-button-cancel =
     .label = Peruuta
     .accesskey = P
+
 permissions-button-ok =
     .label = Tallenna muutokset
     .accesskey = T
+
 permission-dialog =
     .buttonlabelaccept = Tallenna muutokset
     .buttonaccesskeyaccept = T
+
 permissions-autoplay-menu = Oletus kaikille sivustoille:
+
 permissions-searchbox =
     .placeholder = Etsi sivustoa
+
 permissions-capabilities-autoplay-allow =
     .label = Salli ääni ja video
 permissions-capabilities-autoplay-block =
     .label = Estä ääni
 permissions-capabilities-autoplay-blockall =
     .label = Estä ääni ja video
+
 permissions-capabilities-allow =
     .label = Salli
 permissions-capabilities-block =
     .label = Estä
 permissions-capabilities-prompt =
     .label = Kysy aina
+
 permissions-capabilities-listitem-allow =
     .value = Salli
 permissions-capabilities-listitem-block =
     .value = Estä
 permissions-capabilities-listitem-allow-session =
     .value = Salli istunnon ajaksi
+
 permissions-capabilities-listitem-off =
     .value = Pois
 permissions-capabilities-listitem-off-temporarily =

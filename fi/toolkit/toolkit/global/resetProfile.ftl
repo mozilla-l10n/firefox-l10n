@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Palauta { -brand-short-name } uudenveroiseksi
+
 refresh-profile-dialog-title = Palautetaanko { -brand-short-name } oletusasetuksiin?
 refresh-profile-dialog-button =
     .label = Palauta { -brand-short-name } uudenveroiseksi

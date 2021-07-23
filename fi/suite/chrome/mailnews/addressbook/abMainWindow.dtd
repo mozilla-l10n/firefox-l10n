@@ -98,8 +98,6 @@
 <!ENTITY newIM.tooltip                                  "Lähetä pikaviesti">
 <!ENTITY printButton.tooltip                            "Tulosta valittu merkintä">
 <!ENTITY deleteItemButton.tooltip                       "Poista valittu merkintä">
-<!ENTITY throbber.tooltip                               "Siirry &vendorShortName;n kotisivulle">
-<!ENTITY throbber.tooltip2                              "Siirry &brandShortName;:n kotisivulle">
 <!ENTITY advancedButton.tooltip                         "Osoitehaun lisäasetukset">
 
 <!-- Dir Tree header -->

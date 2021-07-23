@@ -22,18 +22,9 @@
 <!ENTITY alwaysAsk.label                "Kysy aina tiedoston tallennuskansio">
 <!ENTITY alwaysAsk.accesskey            "K">
 
-<!ENTITY downloadHistory.label          "Lataushistoria">
-<!ENTITY removeEntries.label            "Poista lataukset listalta">
-<!ENTITY removeEntries.accesskey        "P">
-<!ENTITY whenCompleted.label            "Kun ne ovat latautuneet">
-<!ENTITY whenQuittingApp.label          "Kun &brandShortName; suljetaan">
-<!ENTITY neverRemove.label              "Ei koskaan">
-
 <!ENTITY finishedBehavior.label         "Kun tiedosto on latautunut">
 <!ENTITY playSound.label                "Anna äänimerkki">
 <!ENTITY playSound.accesskey            "A">
-<!ENTITY showAlert.label                "Näytä ilmoitus">
-<!ENTITY showAlert.accesskey            "N">
 <!ENTITY browse.label                   "Selaa…">
 <!ENTITY browse.accesskey               "S">
 <!ENTITY playButton.label               "Toista">

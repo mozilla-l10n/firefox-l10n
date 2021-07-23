@@ -7,6 +7,7 @@ page-subtitle =
     Tällä sivulla on teknisiä tietoja, jotka voivat olla avuksi kun yritetään ratkaista
     jotain ongelmaa ohjelman kanssa. Jos olet etsimässä vastauksia kysymyksiin
     { -brand-short-name }ista, käy katsomassa löytyykö hakemaasi vastausta <a data-l10n-name="support-link">tukisivustoltamme</a>.
+
 crashes-title = Kaatumisilmoitukset
 crashes-id = Ilmoituksen tunnus
 crashes-send-date = Lähetetty
@@ -130,6 +131,7 @@ sandbox-sys-call-number = Järjestelmäkutsu
 sandbox-sys-call-args = Argumentit
 safe-mode-title = Kokeile vikasietotilaa
 restart-in-safe-mode-label = Käynnistä uudelleen ilman lisäosia…
+
 troubleshoot-mode-title = Selvitä ongelmia
 restart-in-troubleshoot-mode-label = Vianmääritystila…
 clear-startup-cache-title = Kokeile tyhjentää käynnistyksen välimuisti
@@ -217,6 +219,7 @@ support-third-party-modules-down-icon =
     .title = Näytä yksityiskohtaiset tiedot
 support-third-party-modules-up-icon =
     .title = Supista yksityiskohtaiset tiedot
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -224,6 +227,7 @@ report-crash-for-days =
         [one] Kaatumisilmoitukset viimeisen { $days } päivän aikana
        *[other] Kaatumisilmoitukset viimeisen { $days } päivän aikana
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -231,6 +235,7 @@ crashes-time-minutes =
         [one] { $minutes } minuutti sitten
        *[other] { $minutes } minuuttia sitten
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -238,6 +243,7 @@ crashes-time-hours =
         [one] { $hours } tunti sitten
        *[other] { $hours } tuntia sitten
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -245,6 +251,7 @@ crashes-time-days =
         [one] { $days } päivä sitten
        *[other] { $days } päivää sitten
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -252,6 +259,7 @@ pending-reports =
         [one] Kaikki kaatumisilmoitukset (sisältäen { $reports } lähetyslupaa odottavan ilmoituksen annetulla aikarajoituksella)
        *[other] Kaikki kaatumisilmoitukset (sisältäen { $reports } lähetyslupaa odottavaa ilmoitusta annetulla aikarajoituksella)
     }
+
 raw-data-copied = Käsittelemätön data kopioitiin leikepöydälle
 text-copied = Teksti kopioitiin leikepöydälle
 
@@ -264,9 +272,11 @@ blocked-mismatched-version = Estetty koska näytönohjaimen ajureiden versio ero
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Estetty näytönohjaimen ajureiden käytetyssä versiossa. Yritä päivittää näytönohjaimesi ajurit versioon { $driverVersion } tai uudempaan.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-parametrit
+
 compositing = Koostaminen
 hardware-h264 = Laitteistopohjainen H264-koodauksen purku
 main-thread-no-omtc = pääsäie, ei OMTC:tä
@@ -281,6 +291,7 @@ virtual-monitor-disp = Virtuaalinen näyttö
 
 found = Löytyy
 missing = Puuttuu
+
 gpu-process-pid = GPU-prosessin PID
 gpu-process = GPU-prosessi
 gpu-description = Kuvaus
@@ -304,20 +315,25 @@ webgl2-version = WebGL 2 -ajurin versio
 webgl2-driver-extensions = WebGL 2 -ajurin laajennukset
 webgl2-extensions = WebGL 2 -laajennukset
 blocklisted-bug = Estolistalla tunnettujen ongelmien takia
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = vika { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Estolistalla tunnetuista ongelmista johtuen: <a data-l10n-name="bug-link">vika { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Estolistalla; virhekoodi { $failureCode }
+
 d3d11layers-crash-guard = D3D11-koostaminen
 d3d11video-crash-guard = D3D11-videopurkaja
 d3d9video-crash-guard = D3D9-videopurkaja
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX -videopurkaja
+
 reset-on-next-restart = Nollaa seuraavan käynnistyksen yhteydessä
 gpu-process-kill-button = Lopeta GPU-prosessi
 gpu-device-reset = Laitteen nollaus
@@ -327,8 +343,10 @@ content-uses-tiling = Käyttää ruutuihin jakoa (sisältö)
 off-main-thread-paint-enabled = Pääsäikeen ulkopuolinen piirtäminen käytössä
 off-main-thread-paint-worker-count = Pääsäikeen ulkopuolisen piirtämisen työyksiköitä
 target-frame-rate = Tavoitteellinen kuvataajuus
+
 min-lib-versions = Odotettu minimiversio
 loaded-lib-versions = Käytössä oleva versio
+
 has-seccomp-bpf = Seccomp-BPF (Järjestelmäkutsujen suodatus)
 has-seccomp-tsync = Seccomp-säikeiden synkronointi
 has-user-namespaces = Käyttäjän nimiavaruudet
@@ -342,15 +360,18 @@ sandbox-proc-type-content = sisältö
 sandbox-proc-type-file = tiedostojen sisältö
 sandbox-proc-type-media-plugin = medialiitännäinen
 sandbox-proc-type-data-decoder = datan purkaja
+
 startup-cache-title = Käynnistyksen välimuisti
 startup-cache-disk-cache-path = Levyvälimuistin polku
 startup-cache-ignore-disk-cache = Ohita levyvälimuisti
 startup-cache-found-disk-cache-on-init = Levyvälimuisti löytyi alustuksessa
 startup-cache-wrote-to-disk-cache = Kirjoitettiin levyvälimuistiin
+
 launcher-process-status-0 = Käytössä
 launcher-process-status-1 = Ei käytössä johtuen viasta
 launcher-process-status-2 = Poistettu käytöstä pakottaen
 launcher-process-status-unknown = Tuntematon tila
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -363,6 +384,7 @@ multi-process-status-6 = Poistettu käytöstä ei-tuetun tekstisyötteen takia
 multi-process-status-7 = Poistettu käytöstä lisäosien takia
 multi-process-status-8 = Poistettu käytöstä pakottaen
 multi-process-status-unknown = Tuntematon tila
+
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -377,6 +399,7 @@ fission-status-disabled-by-default = Poistettu käytöstä oletuksena
 fission-status-enabled-by-user-pref = Käyttäjän käyttöön ottama
 fission-status-disabled-by-user-pref = Käyttäjän käytöstä poistama
 fission-status-disabled-by-e10s-other = E10s poistettu käytöstä
+
 async-pan-zoom = Asynkroninen siirto/lähennys
 apz-none = ei mitään
 wheel-enabled = rullaliittymä käytössä
@@ -413,6 +436,7 @@ support-remote-experiments-title = Etäkokeilut
 support-remote-experiments-name = Nimi
 support-remote-experiments-branch = Kokeiluhaara
 support-remote-experiments-see-about-studies = Sivulta <a data-l10n-name="support-about-studies-link">about:studies</a> voi lukea lisätietoja, kuten miten poistaa käytöstä yksittäisiä kokeiluja tai estää { -brand-short-name } suorittamasta tällaista kokeilua tulevaisuudessa.
+
 support-remote-features-title = Etäominaisuudet
 support-remote-features-name = Nimi
 support-remote-features-status = Tila

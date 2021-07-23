@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Avaa { -brand-short-name(case: "inessive") }
     .accesskey = v
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

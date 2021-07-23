@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "M">
 
 <!ENTITY historyMenu.label "Sivuhistoria">
+
 <!ENTITY historyUndoMenu.label "Suljetut välilehdet">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Suljetut ikkunat">
@@ -155,6 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Näytä sivuhistoriapaneeli">
 <!ENTITY appMenuHistory.hideSidebar.label "Piilota historiasivupaneeli">
 <!ENTITY appMenuHistory.recentHistory.label "Viimeaikainen historia">
+
 <!ENTITY appMenuHelp.label "Ohje">
 
 <!ENTITY appMenuRemoteTabs.label "Synkronoidut välilehdet">

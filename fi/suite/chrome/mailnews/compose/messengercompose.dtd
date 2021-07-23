@@ -51,6 +51,7 @@
 <!ENTITY editRewrapCmd.label "Rivitä uudelleen">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "R">
+
 <!ENTITY accountManagerCmd.label "Tilien asetukset…">
 <!ENTITY accountManagerCmd.accesskey "u">
 

@@ -25,9 +25,6 @@ left instead of right. -->
 <!ENTITY uploadFile.label "Siirrä tiedosto palvelimelle…">
 <!ENTITY uploadFile.accesskey "l">
 
-<!ENTITY printSetupCmd.label "Sivun asetukset…">
-<!ENTITY printSetupCmd.accesskey "e">
-
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Etsi tältä sivulta…">
 
