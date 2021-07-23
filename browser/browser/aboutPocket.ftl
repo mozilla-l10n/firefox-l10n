@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Aldoni langetojn
+
 pocket-panel-saved-error-generic = Okazis eraro dum la klopodo konservi en { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Etikedoj povas enhavi ĝis 25 signojn
 pocket-panel-saved-error-only-links = Nur ligiloj povas esti konservitaj

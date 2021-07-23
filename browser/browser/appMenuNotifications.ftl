@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ne nun
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Post rapida restarto { -brand-shorter-name } restarigos ĉiujn viajn malfermitajn langetojn kaj fenestrojn, kiuj ne estas en reĝimo de privata retumo.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = En ordo, mi komprenis
+    .buttonaccesskey = o
+appmenu-addon-post-install-message = Administru viajn aldonaĵojn per alklako de <image data-l10n-name='addon-install-icon'></image> en la menuo <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Ĝisdatigo disponebla
     .buttonlabel = Elŝuti
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Nun ne
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Nova { -brand-shorter-name } estas disponebla, sed ĝi ne povas esti instalita ĉar alia kopio de { -brand-shorter-name } nuntempe estas uzata. Fermu ĝin por daŭrigi la ĝisdatigon, aŭ elektu tamen daŭrigi la ĝisdatigon ĉi tiel (la alia kopio povus ne bone funkcii ĝis restarto).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = En ordo, mi komprenis
-    .buttonaccesskey = o
-appmenu-addon-post-install-message = Administru viajn aldonaĵojn per alklako de <image data-l10n-name='addon-install-icon'></image> en la menuo <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = En ordo
     .buttonaccesskey = o
-appmenu-addon-post-install-message2 = Administru viajn etendaĵojn kaj etosojn ekde la menuo de la programo.
 appmenu-addon-post-install-message3 = Administru viajn aldonaĵojn kaj etosojn ekde la menuo de la programo.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permesi al tiu ĉi etendaĵo funkcii en privataj fenestroj
     .accesskey = P
+    
 appmenu-new-tab-controlled =
     .label = Via nova langeto ŝanĝiĝis.
     .buttonlabel = Gardi ŝanĝojn
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = G
     .secondarybuttonlabel = Malaktivigi etendaĵon
     .secondarybuttonaccesskey = M
+
 appmenu-new-tab-controlled-changes =
     .label = Via paĝo de nova langeto ŝanĝiĝis.
     .buttonlabel = Gardi ŝanĝojn

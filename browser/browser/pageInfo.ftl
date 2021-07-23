@@ -129,6 +129,8 @@ security-site-data-only = Jes, { $value } { $unit } da retejaj datumoj
 security-site-data-cookies-only = Jes, kuketojn
 security-site-data-no = Ne
 
+##
+
 image-size-unknown = Nekonata
 page-info-not-specified =
     .value = Ne difinita

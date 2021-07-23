@@ -14,11 +14,15 @@ about-config-intro-warning-button = Akcepti la riskon kaj daŭrigi
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = La ŝanĝo de tiuj ĉi preferoj povas efiki sur la sekureco kaj efikeco de { -brand-short-name }.
+
 about-config-page-title = Spertulaj preferoj
+
 about-config-search-input1 =
     .placeholder = Serĉi nomon de prefero
 about-config-show-all = Montri ĉiujn
+
 about-config-show-only-modified = Montri nur modifitajn preferojn
+
 about-config-pref-add-button =
     .title = Aldoni
 about-config-pref-toggle-button =

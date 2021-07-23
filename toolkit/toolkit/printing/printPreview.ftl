@@ -38,6 +38,7 @@ printpreview-page-setup =
 printpreview-page =
     .value = Paĝo:
     .accesskey = a
+
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -61,6 +62,7 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Lasta paĝo
+
 printpreview-homearrow-button =
     .title = Unua paĝo
 printpreview-previousarrow-button =

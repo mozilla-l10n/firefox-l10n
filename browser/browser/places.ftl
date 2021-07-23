@@ -5,12 +5,12 @@
 places-open =
     .label = Malfermi
     .accesskey = M
-places-open-in-tab =
-    .label = Malfermi en nova langeto
-    .accesskey = M
 places-open-tab =
     .label = Malfermi en nova langeto
     .accesskey = n
+places-open-in-tab =
+    .label = Malfermi en nova langeto
+    .accesskey = M
 places-open-all-bookmarks =
     .label = Malfermi ĉiujn legosignojn
     .accesskey = l
@@ -20,15 +20,10 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Malfermi en nova fenestro
     .accesskey = F
-places-open-in-window =
-    .label = Malfermi en nova fenestro
-    .accesskey = f
 places-open-private-window =
     .label = Malfermi en nova privata fenestro
     .accesskey = P
-places-open-in-private-window =
-    .label = Malfermi en nova privata fenestro
-    .accesskey = p
+
 places-new-bookmark =
     .label = Nova legosigno…
     .accesskey = N
@@ -41,6 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = Nova apartigilo
     .accesskey = N
+
+places-open-in-window =
+    .label = Malfermi en nova fenestro
+    .accesskey = f
+places-open-in-private-window =
+    .label = Malfermi en nova privata fenestro
+    .accesskey = p
+
 places-add-bookmark =
     .label = Aldoni legosignon…
     .accesskey = A
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = Aldoni apartigilon
     .accesskey = a
+
 places-view =
     .label = Vidi
     .accesskey = v
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Laŭ dato kaj retejo
     .accesskey = k
+
 places-history-search =
     .placeholder = Serĉi historion
 places-bookmarks-search =
     .placeholder = Serĉi legosignojn
+
 places-delete-domain-data =
     .label = Forgesi tiun ĉi retejon
     .accesskey = F
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = Atributoj
     .accesskey = o
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Modifi legosignon…
@@ -102,15 +109,18 @@ places-remove-folder =
            *[other] Forigi dosierujojn
         }
     .accesskey = F
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrataj legosignoj
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subdosierujo
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Aliaj legosignoj
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -121,6 +131,7 @@ places-remove-bookmark =
            *[other] Forigi legosignojn
         }
     .accesskey = F
+
 places-manage-bookmarks =
     .label = Administri legosignojn
     .accesskey = l

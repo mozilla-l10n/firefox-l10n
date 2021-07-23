@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Okazis eraro dum la konekto al { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Erarkodo: { $error }
+
 psmerr-ssl-disabled = Ne eblas konektiĝi sekure ĉar la protokolo SSL estis malaktivigita.
 psmerr-ssl2-disabled = Ne eblas konektiĝi sekure ĉar la retejo uzas malnovan, nesekuran version de la protokolo SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Vi ricevis nevalidan atestilon.  Bonvolu kontakti la administranton de la servilo aŭ la sendinton de la retpoŝto kaj doni al ili la jenan informon:
     
     Via atestilo enhavas la saman serian numeron de alia atestilo eldonita de la atestila aŭtoritato.  Bonvolu akiri novan atestilon kiu enhavas unikan serian numeron.
+
 ssl-error-export-only-server = Ne eblas komunikiĝi sekure.  La paro ne kapablas uzi altgradan ĉifradon.
 ssl-error-us-only-server = Ne eblas komunikiĝi sekure.  La paro postulas altgradan ĉifradon kiu ne estas subtenata.
 ssl-error-no-cypher-overlap = Ne eblas komunikiĝi sekure kun la paro: neniu komuna ĉifra algoritmo.

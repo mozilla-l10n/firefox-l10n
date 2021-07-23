@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Informo pri aŭtoritato (AIA)
 certificate-viewer-certificate-policies = Atestilaj politikoj
 certificate-viewer-embedded-scts = Enmetitaj SCT
 certificate-viewer-crl-endpoints = Ekstrempunktoj CRL
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Elŝuti
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Tiu ĉi etendaĵo estis markita kiel gravega. Tio signifas ke klientoj devus rifuzi la atestilon se ili ne komprenas ĝin.
