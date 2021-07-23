@@ -214,3 +214,7 @@ touch-warning = Tupaykunaq yaykuynin sikisqa { $preferenceKey } nisqa mana chask
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

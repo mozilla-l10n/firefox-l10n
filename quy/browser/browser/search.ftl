@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = Hapichiypi pantay
 opensearch-error-duplicate-desc = { -brand-short-name } could not install the search plugin from “{ $location-url }” because an engine with the same name already exists nisqa
+
 opensearch-error-download-title = Taqtapaypi pantay
 opensearch-error-download-desc = { -brand-short-name } nisqan mana taqtayta atinchu  chay pligin machkaq umanchay nisqapi
 
