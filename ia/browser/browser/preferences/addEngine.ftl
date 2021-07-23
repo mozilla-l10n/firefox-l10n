@@ -5,18 +5,18 @@
 add-engine-window =
     .title = Adder motor de recerca
     .style = width: 32em;
+
 add-engine-button = Adder motor personalisate
+
 add-engine-name = Nomine del motor de recerca
+
 add-engine-alias = Alias
+
 add-engine-url = URL del motor, usa %s in loco del termino de recerca
-add-engine-cancel =
-    .label = Cancellar
-    .accesskey = C
-add-engine-ok =
-    .label = Adder motor
-    .accesskey = m
+
 add-engine-dialog =
     .buttonlabelaccept = Adder motor
     .buttonaccesskeyaccept = m
+
 engine-name-exists = Un motor con iste nomine jam existe.
 engine-alias-exists = Un motor con iste alias jam existe.

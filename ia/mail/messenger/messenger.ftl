@@ -9,6 +9,7 @@ unread-messages-os-tooltip =
         [one] 1 message non lecte
        *[other] { $count } messages non lecte
     }
+
 about-rights-notification-text = { -brand-short-name } es un software gratuite e open-source, producite per un communitate de milles de tote le mundo.
 
 ## Content tabs
@@ -25,9 +26,11 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Additivos e themas
     .tooltiptext = Gere tu additivos
+
 quick-filter-toolbarbutton =
     .label = Filtro rapide
     .tooltiptext = Filtrar le messages
+
 redirect-msg-button =
     .label = Re-diriger
     .tooltiptext = Re-dirige le message seligite
@@ -37,8 +40,10 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Barra del pannello de plicas
     .accesskey = p
+
 folder-pane-toolbar-options-button =
     .tooltiptext = Columnas del pannello de plicas
+
 folder-pane-header-label = Plicas
 
 ## Folder Toolbar Header Popup
@@ -46,21 +51,27 @@ folder-pane-header-label = Plicas
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Celar le barra de instrumentos
     .accesskey = C
+
 show-all-folders-label =
     .label = Tote le plicas
     .accesskey = T
+
 show-unread-folders-label =
     .label = Plicas non legite
     .accesskey = n
+
 show-favorite-folders-label =
     .label = Plicas favorite
     .accesskey = f
+
 show-smart-folders-label =
     .label = Plicas unificate
     .accesskey = u
+
 show-recent-folders-label =
     .label = Plicas recente
     .accesskey = r
+
 folder-toolbar-toggle-folder-compact-view =
     .label = Visualisation compacte
     .accesskey = c
@@ -77,14 +88,19 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Preferentias
+
 appmenu-addons-and-themes =
     .label = Additivos e themas
+
 appmenu-help-enter-troubleshoot-mode =
     .label = Modo diagnostic…
+
 appmenu-help-exit-troubleshoot-mode =
     .label = Disactivar le modo diagnostic
+
 appmenu-help-more-troubleshooting-info =
     .label = Altere informationes diagnostic
+
 appmenu-redirect-msg =
     .label = Re-diriger
 
@@ -111,6 +127,7 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Le adresse es in le libro del adresses
+
 message-header-address-not-in-address-book-icon =
     .alt = Le adresse non  es in le libro del adresses
 
@@ -121,9 +138,11 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Remover { $name }?
 addon-removal-confirmation-button = Remover
 addon-removal-confirmation-message = Remove { $name } e su configuration e datos ex { -brand-short-name }?
+
 caret-browsing-prompt-title = Navigation a cursor
 caret-browsing-prompt-text = Premer sur F7 activa o disactiva le navigation a cursor. Iste functionalitate placia un cursor mobile intra alcun contento, permittente que tu selige texto con le claviero. Desira tu activar le navigation a cursor?
 caret-browsing-prompt-check-text = Non plus demandar.
+
 repair-text-encoding-button =
     .label = Corriger le codification del texto:
     .tooltiptext = Divina le correcte codification del texto ab le contento del message

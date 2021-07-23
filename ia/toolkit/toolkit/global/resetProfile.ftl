@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Refrescar { -brand-short-name }
+
 refresh-profile-dialog-title = Restabilir { -brand-short-name } a su parametros predefinite?
 refresh-profile-dialog-button =
     .label = Restabilir { -brand-short-name }

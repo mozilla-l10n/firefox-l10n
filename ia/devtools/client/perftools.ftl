@@ -42,7 +42,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Dimension del buffer:
+
 perftools-custom-threads-label = Adder argumentos personalisate per nomine:
+
 perftools-devtools-interval-label = Intervallo:
 perftools-devtools-threads-label = Argumentos:
 perftools-devtools-settings-label = Parametros
@@ -97,12 +99,14 @@ perftools-thread-dns-resolver =
     .title = Le resolution de DNS eveni sur iste argumento
 perftools-thread-js-helper =
     .title = Labor de fundo de motor JS como compilationes extra argumento principal
+
 perftools-thread-task-controller =
     .title = Argumentos del gruppo de sub-processos de TaskController
 
 ##
 
 perftools-record-all-registered-threads = Ignorar selectiones supra e registrar tote le argumentos registrate
+
 perftools-tools-threads-input-label =
     .title = Iste nomines de argumento es un lista separate per virgulas que es usate pro activar le profilation del argumentos in le profilator. Le nomine debe esser solo un concordantia partial del nomine de argumento a includer. Il es sensibile al spatios blanc.
 
@@ -111,7 +115,9 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nove</b>: { -profiler-brand-name } es ora integrate in Utensiles de disveloppator. <a>Saper plus</a> re iste potente nove instrumento.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Pro un tempore limitate, tu pote acceder al quadro original Prestation via <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Clauder le message introductive

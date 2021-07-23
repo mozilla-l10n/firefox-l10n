@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Initiar in modo secur
+
 troubleshoot-mode-window =
     .title = Aperir { -brand-short-name } in Modo diagnostic?
     .style = max-width: 400px
@@ -15,9 +16,9 @@ start-troubleshoot-mode =
 refresh-profile =
     .label = Refrescar { -brand-short-name }
 safe-mode-description = Le modo secur es un modo special de { -brand-short-name } que pote esser usate pro investigar problemas.
-troubleshoot-mode-description = Usa iste modo special de { -brand-short-name } pro diagnosticar. Tu extensiones e personalisationes sera temporarimente disactivate.
 safe-mode-description-details = Tu additivos e tu configurationes personalisate essera temporarimente disactivate, e certe functiones de { -brand-short-name } pote comportar se differentemente.
 refresh-profile-instead = Tu pote etiam saltar le diagnostico e tentar refrescar { -brand-short-name }.
+troubleshoot-mode-description = Usa iste modo special de { -brand-short-name } pro diagnosticar. Tu extensiones e personalisationes sera temporarimente disactivate.
 skip-troubleshoot-refresh-profile = Tu pote etiam saltar le diagnostico e tentar refrescar { -brand-short-name }, in vice.
 # Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } ha claudite inexpectatemente durante que initiava. Isto pote haber essite causate per additivos e altere problemas. Tu pote tentar resolver le problema investigante lo in modo secur.

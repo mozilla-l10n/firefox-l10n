@@ -8,22 +8,30 @@
 ##
 
 process-type-web = Contento de web
+
 process-type-browser = Principal
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Pagina “about” privilegiate
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Contento privilegiate de Mozilla
+
 process-type-extension = Extension
+
 # process used to open file:// URLs
 process-type-file = File local
+
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Allocation de grande dimensiones
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Contento web isolate
+
 # process preallocated; may change to other types
 process-type-prealloc = Pre-allocate
 
@@ -33,11 +41,14 @@ process-type-prealloc = Pre-allocate
 
 process-type-default = Principal
 process-type-tab = Scheda
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to perform network operations
 process-type-socket = Socket
+
 # process used to decode media
 process-type-rdd = RDD
 

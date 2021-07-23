@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Non ora
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Post un rapide reinitio, { -brand-shorter-name } va restaurar tote tu schedas e fenestras aperte que non es in modo de navigation private.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = OK, io lo comprende
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Gere tu additivos per cliccar sur <image data-l10n-name='addon-install-icon'></image> in le menu <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Actualisation disponibile
     .buttonlabel = Discargar
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Non ora
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Un nove edition de { -brand-shorter-name } es disponibile, ma non pote esser installate perque un altere exemplar de { -brand-shorter-name } es in execution. Claude lo pro continuar le actualisation, o opta pro actualisar totevia (le altere exemplar pote non functionar correctemente usque tu lo reinitia).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = OK, io lo comprende
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Gere tu additivos per cliccar sur <image data-l10n-name='addon-install-icon'></image> in le menu <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Gere tu extensiones et themas via le menu del application.
 appmenu-addon-post-install-message3 = Gere tu additivos e themas con le menu del application.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitter que iste extension se executa in fenestras private
     .accesskey = P
+    
 appmenu-new-tab-controlled =
     .label = Tu nove scheda ha cambiate.
     .buttonlabel = Mantener le cambios
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = M
     .secondarybuttonlabel = Disactivar le extension
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = Tu nove scheda cambiava.
     .buttonlabel = Mantener le cambios

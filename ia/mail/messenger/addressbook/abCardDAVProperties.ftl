@@ -5,9 +5,11 @@
 carddav-url-label =
     .value = URL CardDAV:
     .accesskey = V
+
 carddav-refreshinterval-label =
     .label = Synchronisar:
     .accesskey = S
+
 # Variables:
 #   $minutes (integer) - Number of minutes between address book synchronizations
 carddav-refreshinterval-minutes-value =
@@ -16,6 +18,7 @@ carddav-refreshinterval-minutes-value =
             [one] cata minuta
            *[other] cata { $minutes } minutas
         }
+
 # Variables:
 #   $hours (integer) - Number of hours between address book synchronizations
 carddav-refreshinterval-hours-value =
@@ -24,6 +27,7 @@ carddav-refreshinterval-hours-value =
             [one] cata hora
            *[other] cata { $hours } horas
         }
+
 carddav-readonly-label =
     .label = Solo lectura
     .accesskey = l

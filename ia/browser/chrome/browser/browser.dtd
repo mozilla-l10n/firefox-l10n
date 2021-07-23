@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Chronologia">
+
 <!ENTITY historyUndoMenu.label "Schedas claudite recentemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Fenestras claudite recentemente">
@@ -155,6 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Vider barra lateral de chronologia">
 <!ENTITY appMenuHistory.hideSidebar.label "Celar barra lateral de chronologia">
 <!ENTITY appMenuHistory.recentHistory.label "Chronologia recente">
+
 <!ENTITY appMenuHelp.label "Adjuta">
 
 <!ENTITY appMenuRemoteTabs.label "Schedas synchronisate">

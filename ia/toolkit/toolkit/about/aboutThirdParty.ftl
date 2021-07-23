@@ -4,14 +4,18 @@
 
 third-party-page-title = Informationes re modulos de tertie parte
 third-party-section-title = Lista de modulos de tertie parte in { -brand-short-name }
+
 third-party-intro =
     Iste pagina monstra le modulos de tertie-parte que ha essite injectate in tu
     { -brand-short-name }. Ulle modulo que non es signate per Microsoft o
     { -vendor-short-name } es considerate un modulo de tertie parte.
+
 third-party-header-module-list = Lista de modulos
 third-party-header-loading-events = Cargante eventos
+
 third-party-message-empty = Nulle modulo de tertios ha essite revelate.
 third-party-message-no-duration = Non registrate
+
 third-party-detail-version = Version de file
 third-party-detail-vendor = Info del venditor
 third-party-detail-occurrences = Occurrentias
@@ -20,9 +24,11 @@ third-party-detail-duration = Tempore medie de blocada (ms)
     .title = Per quante tempore iste modulo ha blocate le application.
 third-party-detail-app = Application
 third-party-detail-publisher = Autor
+
 third-party-th-process = Processo
 third-party-th-duration = Duration de cargamento (ms)
 third-party-th-status = Stato
+
 third-party-tag-ime = IME
     .title = Iste typo de modulo es cargate quando tu usa un IME de tertie-parte.
 third-party-tag-shellex = Extension de Shell
@@ -33,9 +39,11 @@ third-party-unsigned-icon =
     .title = Iste modulo non es signate
 third-party-warning-icon =
     .title = { -brand-short-name } collabeva per un codice de iste modulo
+
 third-party-status-loaded = Cargate
 third-party-status-blocked = Blocate
 third-party-status-redirected = Re-dirigite
+
 third-party-button-copy-to-clipboard = Copiar le datos brute al area de transferentia
 third-party-button-reload = Recargar con informationes de systema
     .title = Reacarga con informationes de systema
