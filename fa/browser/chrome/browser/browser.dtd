@@ -51,6 +51,7 @@ this container is a toolbar. This avoids double-speaking. -->
      followed by the user's email. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "اتصال به دستگاه دیگر…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "ورود به &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "فعال‌سازی &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "خدمات &brandProductName;">
@@ -137,6 +138,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "س">
 
 <!ENTITY historyMenu.label "تاریخچه">
+
 <!ENTITY historyUndoMenu.label "زبانه‌های تازه بسته شده">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "پنجره‌های تازه بسته شده">
@@ -147,9 +149,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.restoreSession.label "بازآوری نشست قبلی">
 <!ENTITY appMenuHistory.viewSidebar.label "نمایش ستون تاریخچه">
 <!ENTITY appMenuHistory.recentHistory.label "تاریخچهٔ اخیر">
+
 <!ENTITY appMenuHelp.label "راهنما">
 
 <!ENTITY appMenuRemoteTabs.label "زبانه‌های همگام‌سازی شده">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "بدون زبانهٔ باز">

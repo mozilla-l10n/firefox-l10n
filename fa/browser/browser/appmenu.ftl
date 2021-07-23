@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = بروزرسانی موجود است — هم‌اکنون دریافت کنید
     .label-update-unsupported = بروزرسانی ممکن نبود — سیستم ناسازگار است
     .label-update-restart = بروزرسانی موجود است — راه‌اندازی مجدد
+
 appmenuitem-protection-dashboard-title = تابلوی محافظت‌ها
 appmenuitem-customize-mode =
     .label = سفارشی‌سازی…
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = بستن منو برنامه
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = بزرگ‌نمایی
 appmenuitem-zoom-reduce =
     .label = کوچک‌نمایی
+
 appmenuitem-fullscreen =
     .label = تمام‌صفحه
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = انجام هم‌گام‌سازی
+
 appmenu-remote-tabs-sign-into-sync =
     .label = برای همگام‌سازی وارد شوید…
 appmenu-remote-tabs-turn-on-sync =
     .label = روشن کردن همگام‌سازی…
+
 appmenuitem-fxa-toolbar-sync-now2 = انجام همگام‌سازی
 appmenuitem-fxa-manage-account = مدیریت حساب
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = ورود
 appmenu-fxa-setup-sync =
     .label = روشن کردن همگام‌سازی…
 appmenu-fxa-show-more-tabs = نمایش زبانه‌های بیشتر
+
 appmenuitem-save-page =
     .label = ذخیرهٔ صفحه به نام…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = تازه‌ها
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,35 +103,49 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = نمایش اطلاعات بیشتر
+
 profiler-popup-description-title =
     .value = ضبط، تجزیه و تحلیل، اشتراک گذاری
+
 profiler-popup-description = با انتشار پروفایل‌ها، در مورد مشکلات مربوط به بهینه‌سازی همکاری کنید.
+
 profiler-popup-learn-more = بیشتر بدانید
+
 profiler-popup-settings =
     .value = تنظیمات
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = ویرایش تنظیمات…
+
 profiler-popup-disabled =
     پروفایلر در حال حاضر غیرفعال است، به احتمال زیاد به این خاطر که یک پنجرهٔ مرور ناشناس
     باز است
+
 profiler-popup-recording-screen = ضبط…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = سفارشی
+
 profiler-popup-start-recording-button =
     .label = شروع ضبط
+
 profiler-popup-discard-button =
     .label = دور انداختن
+
 profiler-popup-capture-button =
     .label = گرفتن
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -137,6 +158,7 @@ appmenu-manage-history =
     .label = مدیریت تاریخچه
 appmenu-reopen-all-tabs = بازگردانی همه زبانه‌ها
 appmenu-reopen-all-windows = بازگردانی همهٔ پنجره‌ها
+
 appmenu-restore-session =
     .label = بازآوری نشست قبلی
 appmenu-clear-history =
@@ -192,6 +214,7 @@ appmenu-customizetoolbar =
     .label = سفارشی‌سازی نوار ابزار…
 appmenu-taskmanager =
     .label = مدیر وظایف
+
 appmenu-developer-tools-subheader = ابزارهای مرورگر
 appmenu-developer-tools-extensions =
     .label = افزودنی‌ها برای توسعه‌دهندگان

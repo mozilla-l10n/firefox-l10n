@@ -21,8 +21,10 @@ about-private-browsing-handoff-text = با { $engine } جست‌وجو یا آد
 about-private-browsing-handoff-text-no-engine = متنی برای جست‌وجو یا یک آدرس وارد کنید
 about-private-browsing-not-private = شما در حال حاضر در پنجره‌ی ناشناس قرار ندارید.
 about-private-browsing-info-description = { -brand-short-name } جست‌وجوها و تاریخچه مرور شما را هنگام خروج از برنامه یا بستن تمام پنجره‌ها و زبانه‌های ناشناس پاک می‌کند. اینکار شما را در وب‌سایت‌ها یا فراهم‌کنندهٔ اینترنتتان ناشناس نمی‌کند، اما مخفی کردن فعالیت‌های آنلاین شما را از هرکس دیگری که از این رایانه استفاده می‌کند را ساده‌تر می‌کند.
+
 about-private-browsing-need-more-privacy = به حریم خصوصی بیشتری نیاز دارید؟
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } را امتحان کنید
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

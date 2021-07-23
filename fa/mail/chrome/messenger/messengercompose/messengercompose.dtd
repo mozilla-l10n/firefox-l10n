@@ -214,6 +214,7 @@
 <!ENTITY printButton.tooltip "Print this message">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY subject.accesskey "م">
 <!-- Format Toolbar, imported from editorAppShell.xul -->

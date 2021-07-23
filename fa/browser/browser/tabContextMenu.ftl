@@ -51,9 +51,6 @@ bookmark-tab =
 reopen-in-container =
     .label = باز کردن دوباره در محفظه
     .accesskey = e
-tab-context-open-in-container =
-    .label = بازکردن در محفظهٔ جدید
-    .accesskey = e
 move-to-start =
     .label = انتقال به ابتدا
     .accesskey = S
@@ -66,15 +63,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = بستن چندین زبانه
     .accesskey = M
-tab-context-share-url =
-    .label = همرسانی
-    .accesskey = h
-tab-context-share-more =
-    .label = بیشتر…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -94,6 +82,15 @@ move-tabs =
 move-tab =
     .label = انتقال زبانه
     .accesskey = v
+tab-context-share-url =
+    .label = همرسانی
+    .accesskey = h
+tab-context-share-more =
+    .label = بیشتر…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

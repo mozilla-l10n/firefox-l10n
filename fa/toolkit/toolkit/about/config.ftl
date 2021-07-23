@@ -14,11 +14,15 @@ about-config-intro-warning-button = پذیرش خطر و ادامه
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = تغییر این ترجیحات می‌تواند بر عملکرد یا امنیت { -brand-short-name } تأثیر بگذارد.
+
 about-config-page-title = ترجیحات پیشرفته
+
 about-config-search-input1 =
     .placeholder = جست‌وجوی نام ترجیحات
 about-config-show-all = نمایش همه
+
 about-config-show-only-modified = فقط تنظیمات تغییر داده شده را نمایش بده
+
 about-config-pref-add-button =
     .title = افزودن
 about-config-pref-toggle-button =

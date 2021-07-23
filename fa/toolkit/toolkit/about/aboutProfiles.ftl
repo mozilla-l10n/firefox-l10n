@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 profiles-title = در مورد نمایه‌ها
 profiles-subtitle = این صفحه به شما کمک می‌کند تا نمايه‌های خود را مدیریت کنید. هر نمایه شامل تاریخچه، تنظیمات،‌ نشانک‌ها و افزونه‌های جدا است.
 profiles-create = ایجاد نمایه جدید
@@ -13,11 +14,13 @@ profiles-flush-fail-title = تغییرات ذخیره نشد
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = یک خطای غیرمنتظره مانع از ذخیره تغییرات شما شده است.
 profiles-flush-restart-button = راه‌اندازی مجدد { -brand-short-name }
+
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = نمایه: { $name }
 profiles-is-default = نمایه پیش فرض
 profiles-rootdir = شاخه‌ی ریشه
+
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
@@ -27,22 +30,28 @@ profiles-rootdir = شاخه‌ی ریشه
 profiles-localdir = شاخه محلی
 profiles-current-profile = این نمایه‌ای است که مورد استفاده قرار می‌گیرد و نمی‌تواند پاک شود.
 profiles-in-use-profile = این نمایه در برنامه دیگری در حال استفاده است و قابل حذف نیست.
+
 profiles-rename = تغییر نام
 profiles-remove = حذف
 profiles-set-as-default = تنظیم این نمایه به عنوان نمایه پیش فرض
 profiles-launch-profile = اجرا نمایه در مرورگر جدید
+
 profiles-cannot-set-as-default-title = تنظیم پیش‌فرض امکان پذیر نیست
 profiles-cannot-set-as-default-message = نمایهٔ پیش‌فرض برای { -brand-short-name } قابل تغییر نیست.
+
 profiles-yes = بله
 profiles-no = نه
+
 profiles-rename-profile-title = تغییر نام نمایه
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = تغییر نام نمایه { $name }
+
 profiles-invalid-profile-name-title = نام نمایه نامعتبر است
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = نام نمایه «{ $name }» دارای مجوز نیست.
+
 profiles-delete-profile-title = حذف نمایه
 # Variables:
 #   $dir (String) - Path to be displayed
@@ -52,8 +61,11 @@ profiles-delete-profile-confirm =
     آیا مایل به حذف پرونده‌های نمایه‌ها هستید؟
 profiles-delete-files = حذف پرونده‌ها
 profiles-dont-delete-files = پرونده‌ها را حذف نکن
+
 profiles-delete-profile-failed-title = خطا
 profiles-delete-profile-failed-message = هنگام تلاش برای حذف این نمایه خطایی روی داد.
+
+
 profiles-opendir =
     { PLATFORM() ->
         [macos] نمایش در یابنده
