@@ -104,6 +104,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+##
+
 image-size-unknown = Sa tsebjwego
 page-info-not-specified =
     .value = Ga ya hlathwa

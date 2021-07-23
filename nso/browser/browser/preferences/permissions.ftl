@@ -47,6 +47,8 @@ permissions-invalid-uri-label = Hle tsenya leina la moamogedi leo le šomago
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = O ka laetša gore ke diwepesaete dife tšeo di dumeletšwego go bula mafasetere a runyago. Tlaya ka go nepa aterese yeo o nyakago go e dumelela gomme o kgotle Dumelela.

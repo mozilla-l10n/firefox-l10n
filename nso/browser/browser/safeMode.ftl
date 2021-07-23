@@ -7,4 +7,5 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Thoma ka mokgwa o bolokegilego
+
 safe-mode-description = Mokgwa o bolokegilego ke mokgwa o kgethegilego wa { -brand-short-name } wo o ka dirišetšwago go rarolla mathata.
