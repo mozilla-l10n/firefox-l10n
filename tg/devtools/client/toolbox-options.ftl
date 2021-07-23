@@ -15,6 +15,7 @@ options-select-dev-tools-theme-label = Мавзӯъҳо
 
 # The heading
 options-context-inspector = Тафтишкунанда
+
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Намоиш додани услубҳои браузер
 
@@ -38,3 +39,4 @@ options-default-color-unit-name = Номҳои ранг
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Танзимоти иловагӣ
+

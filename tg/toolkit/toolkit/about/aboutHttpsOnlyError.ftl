@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-button-make-exception = Таваккалро қабул карда, ба сомона идома диҳед
+
 about-httpsonly-link-learn-more = Маълумоти бештар…
 
 ## Suggestion Box that only shows up if a secure connection to www can be established

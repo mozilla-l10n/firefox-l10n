@@ -8,9 +8,11 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Ба қафо
     .accesskey = Б
+
 wizard-win-button-next =
     .label = Ба пеш >
     .accesskey = П
+
 wizard-macos-button-cancel =
     .label = Бекор кардан
 wizard-linux-button-cancel =

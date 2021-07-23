@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Ҷустуҷӯи мавриди навбатии ибораи пешниҳодшуда
 findbar-previous =
     .tooltiptext = Ҷустуҷӯи мавриди қаблии ибораи пешниҳодшуда
+
 findbar-find-button-close =
     .tooltiptext = Пӯшидани навори ҷустуҷӯ
+
 findbar-highlight-all2 =
     .label = Ҳамаашро бо ранг ҷудо кардан
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Бо ранг ҷудо кардани ҳамаи мавридҳои ибораи пешниҳодшуда
+
 findbar-case-sensitive =
     .label = Бо дарназардошти ҳарфҳои хурду калон
     .accesskey = Б
     .tooltiptext = Ҷустуҷӯ бо дарназардошти ҳарфҳои хурду калон
+
 findbar-match-diacritics =
     .label = Бо дарназарбошти аломатҳои диакритикӣ
     .accesskey = Б
     .tooltiptext = Нишон додани фарқият байни ҳарфҳои заданок ва ҳарфҳои асосии он (барои мисол, ҳангоми ҷустуҷӯ кардани калимаи “resume”, калимаи “résumé” ба назар гирифта намешавад)
+
 findbar-entire-word =
     .label = Калимаҳои пурра
     .accesskey = К

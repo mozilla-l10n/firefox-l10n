@@ -103,6 +103,7 @@ print-window =
     .title = Чоп шуда истодааст
 print-complete =
     .value = Чоп ба анҷом расид.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

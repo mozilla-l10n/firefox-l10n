@@ -4,6 +4,7 @@
 
 profile-selection-button-cancel =
     .label = Баромад
+
 profile-selection-delete-button =
     .label = Нест кардани профил…
     .accesskey = Н

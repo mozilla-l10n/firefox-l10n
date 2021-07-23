@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Хатбаракҳо
+
 sidebar-menu-history =
     .label = Таърих
+
 sidebar-menu-synced-tabs =
     .label = Варақаҳои ҳамоҳангшуда
+
 sidebar-menu-close =
     .label = Пӯшидани навори ҷонибӣ

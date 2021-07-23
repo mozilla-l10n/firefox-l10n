@@ -10,9 +10,11 @@ about-config-intro-warning-button = Таваккалро қабул кунед �
 ##
 
 about-config-page-title = Хусусиятҳои иловагӣ
+
 about-config-search-input1 =
     .placeholder = Ҷустуҷӯи номи хусусият
 about-config-show-all = Ҳамаро намоиш додан
+
 about-config-pref-add-button =
     .title = Илова кардан
 about-config-pref-toggle-button =

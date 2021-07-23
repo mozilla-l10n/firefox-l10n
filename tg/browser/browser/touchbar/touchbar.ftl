@@ -19,6 +19,7 @@ open-location = Нишониеро ҷустуҷӯ кунед ё ворид на�
 share = Мубодила кардан
 close-window = Пӯшидани равзана
 open-sidebar = Наворҳои ҷонибӣ
+
 # This string describes shortcuts for search.
 search-popover = Миёнбурҳои низомҳои ҷустуҷӯӣ
 # Describes searches limited to a specific scope

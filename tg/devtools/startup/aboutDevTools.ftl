@@ -4,9 +4,12 @@
 
 enable-learn-more-link = Маълумоти бештар дар бораи абзорҳои барномарезӣ
 enable-close-button = Пӯшидани варақаи ҷорӣ
+
 newsletter-email-placeholder =
     .placeholder = Почтаи электронӣ
+
 footer-learn-more-link = Маълумоти бештар
+
 features-learn-more = Маълумоти бештар
 features-inspector-title = Тафтишкунанда
 newsletter-error-unknown = Хатои ногаҳон ба миён омад.

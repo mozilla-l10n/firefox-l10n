@@ -4,4 +4,5 @@
 
 url-classifier-search-features = Хусусиятҳо
 url-classifier-search-listType = Намуди рӯйхат
+
 url-classifier-download-error = хатои боргирӣ ({ $error })

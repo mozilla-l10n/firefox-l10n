@@ -10,13 +10,16 @@ containers-window-new =
 containers-window-update =
     .title = Хусусиятҳои дарбаргирандаи { $name }
     .style = width: 45em
+
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = Танзимоти дарбаргирандаи { $name }
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -27,23 +30,30 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Ном
     .accesskey = Н
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Номи дарбаргирандаро ворид намоед
+
 containers-icon-label = Нишона
     .accesskey = Н
     .style = { -containers-labels-style }
+
 containers-color-label = Ранг
     .accesskey = Р
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = Тайёр
     .accesskey = Т
+
 containers-dialog =
     .buttonlabelaccept = Тайёр
     .buttonaccesskeyaccept = Т
+
 containers-color-blue =
     .label = Кабуд
 containers-color-turquoise =
@@ -62,6 +72,7 @@ containers-color-purple =
     .label = Лоҷувард
 containers-color-toolbar =
     .label = Монанди лавҳаи абзорҳо
+
 containers-icon-fence =
     .label = Тавора
 containers-icon-fingerprint =

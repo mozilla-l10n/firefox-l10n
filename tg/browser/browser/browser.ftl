@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Тамошокунии махфӣ)
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } (Тамошокунии махфӣ)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } — (Тамошокунии махфӣ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — (Тамошокунии махфӣ)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -109,6 +111,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Камтар чоп кунед, бештар ёбед: Рост аз навори нишонӣ тавассути { $engineName } ҷустуҷӯ кунед.
 urlbar-search-tips-redirect-2 = Барои дидани пешниҳодҳои ҷустуҷӯ аз { $engineName } ва таърихи тамошокунӣ, ҷустуҷӯи худро аз навори нишонӣ оғоз намоед.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Барои зудтар пайдо кардани чизи лозимӣ ин миёнбурро интихоб кунед.
@@ -145,10 +148,12 @@ urlbar-midi-blocked =
     .tooltiptext = Шумо барои ин сомона дастрасии MIDI-ро манъ кардед.
 urlbar-install-blocked =
     .tooltiptext = Шумо барои ин сомона насбкунии ҷузъи иловагиро манъ кардед.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Таҳрир кардани хатбараки ҷорӣ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -158,6 +163,7 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Илова кардан ба навори нишонӣ
+
 page-action-manage-extension =
     .label = Идоракунии васеъшавӣ…
 page-action-remove-from-urlbar =
@@ -179,12 +185,15 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ин дафъа бо зерин ҷустуҷӯ кунед:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Тағйир додани танзимоти ҷустуҷӯ
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Тағйир додани танзимоти ҷустуҷӯ
+
 search-one-offs-context-open-new-tab =
     .label = Ҷустуҷӯ дар варақаи нав
     .accesskey = Ҷ
@@ -194,12 +203,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Танзим кардан ҳамчун низоми ҷустуҷӯии пешфарз барои равзанаи махфӣ
     .accesskey = Т
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -246,10 +257,13 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Нишон додани муҳаррир ҳангоми нигоҳдорӣ
     .accesskey = Н
+
 bookmark-panel-done-button =
     .label = Тайёр
+
 bookmark-panel-save-button =
     .label = Нигоҳ доштан
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -279,6 +293,7 @@ identity-weak-encryption = Ин саҳифа рамзгузории камқув
 identity-insecure-login-forms = Воридшавиҳое, ки шумо дар ин саҳифа ворид мекунед, метавонанд ошкор карда шаванд.
 identity-permissions =
     .value = Иҷозатҳо
+
 identity-https-only-connection-upgraded = (ба HTTPS такмил ёфт)
 identity-https-only-label = Реҷаи ТАНҲО-HTTPS
 identity-https-only-dropdown-on =
@@ -290,9 +305,11 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Агар шумо хоҳед, ки { -brand-short-name } пайвастшавиро ба қадри имкон такмил диҳад, реҷаи танҳо HTTPS-ро барои ин сомона фаъол кунед.
 identity-https-only-info-turn-off2 = Агар саҳифа вайроншуда ба назар расад, шумо метавонед барои аз нав бор кардани ин сомона бо истифодаи HTTP-и беэътимод реҷаи танҳо HTTPS-ро хомӯш кунед.
 identity-https-only-info-no-upgrade = Иваз кардани пайвастшавӣ аз HTTP ғайриимкон аст.
+
 identity-permissions-storage-access-header = Кукиҳои байнисомонавӣ
 identity-permissions-storage-access-hint = Тарафҳои зерин метавонанд кукиҳои байнисомонавӣ ва маълумоти сомонаро ҳангоми тамошокунии сомонаи ҷорӣ истифода баранд.
 identity-permissions-storage-access-learn-more = Маълумоти бештар
+
 identity-permissions-reload-hint = Барои татбиқ кардани тағйирот шумо бояд саҳифаро аз нав бор кунед.
 identity-permissions-empty = Шумо барои ин сомона ягон иҷозати маҳсусро таъин накардед.
 identity-clear-site-data =
@@ -350,11 +367,13 @@ browser-tab-mute =
         [1] БЕСАДО КАРДАНИ ВАРАҚА
        *[other] БЕСАДО КАРДАНИ { $count } ВАРАҚА
     }
+
 browser-tab-unmute =
     { $count ->
         [1] ФАЪОЛ КАРДАНИ САДОИ ВАРАҚА
        *[other] ФАЪОЛ КАРДАНИ САДОИ { $count } ВАРАҚА
     }
+
 browser-tab-unblock =
     { $count ->
         [1] ПАХШ КАРДАНИ ВАРАҚА
@@ -375,6 +394,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Дастрасӣ ба микрофон:
     .accesskey = Д
+
 popup-select-camera-device =
     .value = Камера:
     .accesskey = К
@@ -386,20 +406,26 @@ popup-select-microphone-device =
 popup-select-microphone-icon =
     .tooltiptext = Микрофон
 popup-all-windows-shared = Ҳамаи равзанаҳое, ки дар экрани шумо намоёнанд, мубодила карда мешаванд.
+
 popup-screen-sharing-not-now =
     .label = Ҳоло не
     .accesskey = Ҳ
+
 popup-screen-sharing-never =
     .label = Ҳеҷ гоҳ иҷозат дода нашавад
     .accesskey = Ҳ
+
 popup-silence-notifications-checkbox = Ғайрифаъол кардани огоҳиҳо аз { -brand-short-name } ҳангоми мубодилакунӣ
 popup-silence-notifications-checkbox-warning = Вақте ки шумо мубодила мекунед, { -brand-short-name } огоҳиҳоро нишон намедиҳад.
+
 popup-screen-sharing-block =
     .label = Манъ кардан
     .accesskey = М
+
 popup-screen-sharing-always-block =
     .label = Ҳамеша манъ кардан
     .accesskey = Ҳ
+
 popup-mute-notifications-checkbox = Бесадо кардани огоҳиҳои сомона ҳангоми мубодила
 
 ## WebRTC window or screen share tab switch warning
@@ -415,16 +441,19 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Барои истифода кардани миёнбури F12, аввал DevTools-ро тавассути менюи барномарезии сомона кушоед.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Нишониеро ҷустуҷӯ кунед ё ворид намоед
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Нишониеро ҷустуҷӯ кунед ё ворид намоед
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Браузер дар зери назорати дурдаст қарор дорад
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -433,6 +462,7 @@ urlbar-remote-control-notification-anchor =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Ҷустуҷӯ дар Интернет
     .aria-label = Ҷустуҷӯ тавассути { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -441,29 +471,36 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯи { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯ дар хатбаракҳо
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯ дар таърих
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯ дар варақаҳо
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Нишониеро тавассути { $name } ҷустуҷӯ кунед ё ворид намоед
+
 urlbar-permissions-granted =
     .tooltiptext = Шумо барои ин сомона иҷозатҳои иловагиро таъин кардед.
 urlbar-switch-to-tab =
     .value = Ба варақа гузаштан:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Васеъшавӣ:
+
 urlbar-go-button =
     .tooltiptext = Аз навори ҷойгиршавӣ ба нишонии воридшуда гузаред
 urlbar-page-action-button =
@@ -521,9 +558,12 @@ urlbar-result-action-search-tabs = Ҷустуҷӯ дар варақаҳо
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> дар реҷаи экрани пурра мебошад
 fullscreen-warning-no-domain = Ин ҳуҷҷат дар реҷаи экрани пурра мебошад
+
+
 fullscreen-exit-button = Баромад аз экрани пурра (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Баромад аз экрани пурра (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -583,6 +623,7 @@ bookmarks-tools =
     .label = Воситаҳои хатбаракҳо
 bookmarks-bookmark-edit-panel =
     .label = Таҳрир кардани ин хатбарак
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -596,6 +637,7 @@ bookmarks-toolbar-placeholder =
     .title = Унсурҳои навори хатбаракҳо
 bookmarks-toolbar-placeholder-button =
     .label = Унсурҳои навори хатбаракҳо
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Гузоштани хатбарак барои варақаи ҷорӣ
@@ -626,6 +668,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Ҷузъҳои иловагӣ ва мавзӯъҳо
     .tooltiptext = Ҷузъҳои иловагӣ ва мавзӯъҳои худро идора кунед ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =

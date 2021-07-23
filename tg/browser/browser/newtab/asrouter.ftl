@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Кӯшиш кунед: Васлкунии вар
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чаро ман инро дида истодаам?
+
 cfr-doorhanger-extension-cancel-button = Ҳоло не
     .accesskey = н
+
 cfr-doorhanger-extension-ok-button = Ҳозир илова карда шавад
     .accesskey = Ҳ
 cfr-doorhanger-pintab-ok-button = Васл кардани ин варақа
     .accesskey = В
+
 cfr-doorhanger-extension-manage-settings-button = Идоракунии танзимоти тавсияшуда
     .accesskey = И
+
 cfr-doorhanger-extension-never-show-recommendation = Ин тавсия дигар нишон дода нашавад
     .accesskey = И
+
 cfr-doorhanger-extension-learn-more-link = Маълумоти бештар
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = аз { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Тавсия
 cfr-doorhanger-extension-notification2 = Тавсия
     .tooltiptext = Тавсияи васеъшавӣ
     .a11y-announcement = Тавсияи васеъшавӣ дастрас аст
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Тавсия
@@ -63,8 +71,10 @@ cfr-doorhanger-extension-total-users =
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-step2 = Аз меню <b>Васл кардани варақа</b>-ро интихоб намоед.
+
 cfr-doorhanger-pintab-animation-pause = Таваққуф кардан
 cfr-doorhanger-pintab-animation-resume = Давом додан
+
 
 ## Firefox Accounts Message
 
@@ -83,13 +93,18 @@ cfr-protections-panel-link-text = Маълумоти бештар
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Хусусияти нав:
+
 cfr-whatsnew-button =
     .label = Чӣ нав аст
     .tooltiptext = Чӣ нав аст
+
 cfr-whatsnew-panel-header = Чӣ нав аст
+
 cfr-whatsnew-release-notes-link-text = Қайдҳои бароришро хонед
+
 cfr-whatsnew-tracking-protect-title = Худро аз васоити пайгирӣ муҳофизат намоед
 cfr-whatsnew-tracking-protect-link-text = Намоиш додани гузориши ман
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -100,8 +115,10 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Аз санаи { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Дидани гузориш
+
 cfr-whatsnew-lockwise-backup-title = Эҷод кардани нусхаи эҳтиётии ниҳонвожаҳо
 cfr-whatsnew-lockwise-backup-link-text = Фаъол кардани нусхаҳои эҳтиётӣ
+
 cfr-whatsnew-lockwise-take-title = Ниҳонвожаҳои худро бо худ гиред
 cfr-whatsnew-lockwise-take-link-text = Барномаро гиред
 
@@ -130,6 +147,7 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Хонандаи нақши ангушти манъшуда
        *[other] Хонандаи нақши ангушти манъшуда
     }
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Хонандаи нақши ангушт
 
@@ -186,12 +204,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Нишонаи «Расм-дар-расм
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Пӯшидан
-    .accesskey = П
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Муҳофизатҳо дар як нигоҳ
 cfr-whatsnew-protections-cta-link = Намоиш додани лавҳаи вазъияти муҳофизат
 cfr-whatsnew-protections-icon-alt = Нишони сипар
@@ -199,6 +211,12 @@ cfr-whatsnew-protections-icon-alt = Нишони сипар
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Таҷрибаи хубтари PDF
+
+cfr-doorhanger-milestone-close-button = Пӯшидан
+    .accesskey = П
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -220,20 +238,11 @@ cfr-doorhanger-fission-secondary-button = Маълумоти бештар
 
 ## What's new: Media controls message
 
-cfr-whatsnew-media-keys-header = Унсурҳои идоракунии иловагӣ барои медиа
-cfr-whatsnew-media-keys-button = Бифаҳмед, ки чӣ тавр
-
 ## What's new: Search shortcuts
-
-cfr-whatsnew-search-shortcuts-header = Миёнбурҳо барои ҷустуҷӯ дар навори нишонӣ
 
 ## What's new: Cookies protection
 
-cfr-whatsnew-supercookies-header = Муҳофизат аз суперкукиҳои зараровар
-
 ## What's new: Better bookmarking
-
-cfr-whatsnew-bookmarking-header = Хатбаракгузории такмилёфта
 
 ## What's new: Cross-site cookie tracking
 

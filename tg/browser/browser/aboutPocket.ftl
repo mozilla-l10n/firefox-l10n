@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Илова кардани барчаспҳо
+
 pocket-panel-saved-error-generic = Ҳангоми кӯшиши нигоҳдорӣ ба «{ -pocket-brand-name }» хато ба миён омад.
 pocket-panel-saved-error-tag-length = Дарози барчаспҳо бояд на зиёда аз 25 аломат бошад
 pocket-panel-saved-error-only-links = Танҳо пайвандҳо метавонанд нигоҳ дошта шаванд

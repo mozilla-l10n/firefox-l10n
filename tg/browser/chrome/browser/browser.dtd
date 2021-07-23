@@ -126,6 +126,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Таърих">
+
 <!ENTITY historyUndoMenu.label "Варақаҳои ба наздикӣ пӯшидашуда">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Равзанаҳои ба наздикӣ пӯшидашуда">
@@ -137,6 +138,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Намоиш додани навори ҷонибии таърих">
 <!ENTITY appMenuHistory.hideSidebar.label "Пинҳон кардани навори ҷонибии таърих">
 <!ENTITY appMenuHistory.recentHistory.label "Таърихи охирин">
+
 <!ENTITY appMenuHelp.label "Кумак">
 
 <!ENTITY appMenuRemoteTabs.label "Варақаҳои ҳамоҳангшуда">

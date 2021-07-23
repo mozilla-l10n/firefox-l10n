@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Кушодан бо { -brand-short-name }
     .accesskey = К
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

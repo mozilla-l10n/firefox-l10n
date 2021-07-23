@@ -5,12 +5,18 @@
 add-engine-window =
     .title = Илова кардани низоми ҷустуҷӯӣ
     .style = width: 32em;
+
 add-engine-button = Илова кардани низоми ҷустуҷӯии фармоишӣ
+
 add-engine-name = Номи низоми ҷустуҷӯӣ
+
 add-engine-alias = Номи кӯтоҳ
+
 add-engine-url = Нишонии URL-и низоми ҷустуҷӯӣ, ба ҷойи вожаи ҷустуҷӯӣ аз %s истифода баред
+
 add-engine-dialog =
     .buttonlabelaccept = Илова кардани низоми ҷустуҷӯӣ
     .buttonaccesskeyaccept = И
+
 engine-name-exists = Низоми ҷустуҷӯӣ бо чунин ном аллакай вуҷуд дорад
 engine-alias-exists = Низоми ҷустуҷӯӣ бо чунин номи кӯтоҳ аллакай вуҷуд дорад

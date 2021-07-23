@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Устоди воридот
+
 import-from =
     { PLATFORM() ->
         [windows] Ворид кардани имконот, хатбаракҳо, таърих, ниҳонвожаҳо ва маълумоти дигар аз:
        *[other] Ворид кардани хусусиятҳо, хатбаракҳо, таърих, ниҳонвожаҳо ва маълумоти дигар аз:
     }
+
 import-from-bookmarks = Ворид кардани хатбаракҳо аз:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,23 +51,36 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = S
+
 no-migration-sources = Ягон барномае, ки дорои маълумот бо хатбаракҳо, таърих ва ниҳонвожа мебошад, ёфт нашуд.
+
 import-source-page-title = Ворид кардани танзимот ва маълумот
 import-items-page-title = Маводҳое, ки ворид карда мешаванд
+
 import-items-description = Интихоб кунед, ки кадом мавод бояд ворид карда шавад:
+
 import-permissions-page-title = Лутфан, ба { -brand-short-name } иҷозат диҳед
+
 import-migrating-page-title = Ворид шуда истодааст…
+
 import-migrating-description = Маводҳои зерин ворид шуда истодаанд…
+
 import-select-profile-page-title = Интихоби профил
+
 import-select-profile-description = Профилҳои зерин барои воридкунӣ аз ҷойи зерин дастрасанд:
+
 import-done-page-title = Воридот анҷом ёфт
+
 import-done-description = Маводҳои зерин бо муваффақият ворид карда шуданд:
+
 import-close-source-browser = Пеш аз идомаи амали ҷорӣ, лутфан, мутмаин шавед, ки браузери интихобшуда пӯшида шуд.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Аз { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Бета
@@ -77,6 +92,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = Рӯйхати хониш (аз Safari)
 imported-edge-reading-list = Рӯйхати хониш (аз Edge)
 
@@ -98,6 +114,7 @@ browser-data-cookies-checkbox =
     .label = Кукиҳо
 browser-data-cookies-label =
     .value = Кукиҳо
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -110,10 +127,12 @@ browser-data-history-label =
             [firefox] Таърихи тамошо ва хатбаракҳо
            *[other] Таърихи тамошо
         }
+
 browser-data-formdata-checkbox =
     .label = Таърихи шаклҳои нигоҳдошташуда
 browser-data-formdata-label =
     .value = Таърихи шаклҳои нигоҳдошташуда
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -122,6 +141,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -136,10 +156,12 @@ browser-data-bookmarks-label =
             [edge] Баргузидаҳо
            *[other] Хатбаракҳо
         }
+
 browser-data-otherdata-checkbox =
     .label = Маълумоти дигар
 browser-data-otherdata-label =
     .label = Маълумоти дигар
+
 browser-data-session-checkbox =
     .label = Равзанаҳо ва варақаҳо
 browser-data-session-label =

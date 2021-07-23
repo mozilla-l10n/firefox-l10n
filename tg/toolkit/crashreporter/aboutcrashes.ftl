@@ -6,5 +6,8 @@ crash-reports-title = Гузоришҳо дар бораи садама
 submit-all-button-label = Ҳамаро пешниҳод кунед
 delete-button-label = Ҳамаро тоза кунед
 delete-confirm-title = Шумо мутмаин ҳастед?
+
 submit-crash-button-label = Пешниҳод кардан
+
 view-crash-button-label = Намоиш
+

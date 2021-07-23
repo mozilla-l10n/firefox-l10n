@@ -19,3 +19,4 @@ config-about-warning-button =
 config-new =
     .label = Нав
     .accesskey = Н
+

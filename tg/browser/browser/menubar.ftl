@@ -38,16 +38,20 @@ menu-quit =
             [windows] Б
            *[other] Х
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Хомӯш кардани { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Аз { -brand-shorter-name } баромадан
+
 menu-about =
     .label = Дар бораи { -brand-shorter-name }
     .accesskey = Д
@@ -173,6 +177,7 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Рамзгузории матн
     .accesskey = Р
+
 menu-view-repair-text-encoding =
     .label = Ислоҳкунии рамзгузории матн
     .accesskey = И
@@ -218,6 +223,7 @@ menu-history-undo-menu =
     .label = Варақаҳои ба наздикӣ пӯшидашуда
 menu-history-undo-window-menu =
     .label = Равзанаҳои ба наздикӣ пӯшидашуда
+
 menu-history-reopen-all-tabs = Аз нав кушодани ҳамаи варақаҳо
 menu-history-reopen-all-windows = Аз нав кушодани ҳамаи равзанаҳо
 

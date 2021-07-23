@@ -5,20 +5,28 @@
 certmgr-detail-pretty-print-tab-title =
     .label = Тафсилот
     .accesskey = Т
+
 certmgr-fingerprints = Нақшҳои ангушт
+
 certmgr-cert-detail-sha-256-fingerprint = Нақши ангушти SHA-256
+
 certmgr-cert-detail-sha-1-fingerprint = Нақши ангушти SHA1
+
 certmgr-delete-cert =
     .title = Нест кардани гувоҳинома
     .style = width: 48em; height: 24em;
+
 certmgr-delete =
     .label = Нест кардан…
     .accesskey = Н
+
 certmgr-delete-builtin =
     .label = Нест кардан ё нобоварӣ сохтан…
     .accesskey = Н
+
 exception-mgr-cert-location-url =
     .value = Ҷойгиршавӣ:
+
 exception-mgr-cert-location-download =
     .label = Гирифтани гувоҳинома
     .accesskey = Г
@@ -37,6 +45,8 @@ exception-mgr-cert-location-download =
 delete-user-cert-title =
     .title = Нест кардани гувоҳиномаҳои худ
 delete-user-cert-confirm = Шумо мутмаин ҳастед, ки мехоҳед ин гувоҳиномаҳоро нест намоед?
+
+
 delete-email-cert-title =
     .title = Нест кардани гувоҳиномаҳои почтаи электронӣ
 delete-email-cert-confirm = Шумо мутмаин ҳастед, ки мехоҳед гувоҳиномаҳои почтаи электронии одамони зеринро нест намоед?
@@ -46,8 +56,10 @@ delete-email-cert-confirm = Шумо мутмаин ҳастед, ки мехо�
 # Add usage
 verify-ssl-client =
     .value = Гувоҳиномаи муштарии SSL
+
 verify-ssl-server =
     .value = Гувоҳиномаи сервери SSL
+
 verify-ssl-ca =
     .value = Мақомоти иҷозатномадиҳандаи SSL
 

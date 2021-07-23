@@ -5,12 +5,15 @@
 app-manager-window =
     .title = Тафсилоти барнома
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Тоза кардан
     .accesskey = Т
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Барномаҳои зерин метавонанд барои кор бо пайвандҳои { $type } истифода шаванд.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Барномаҳои зерин метавонанд барои кор бо муҳтавои { $type } истифода шаванд.

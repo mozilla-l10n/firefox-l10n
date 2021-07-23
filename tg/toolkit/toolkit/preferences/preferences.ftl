@@ -4,15 +4,22 @@
 
 failed-pw-change = Ниҳонвожаи хусусӣ тағйир дода намешавад.
 pw-change-ok = Ниҳонвожаи хусусӣ бо муваффақият иваз карда шуд.
+
 pw-erased-ok = Шумо ниҳонвожаи хусусии худро нест кардед. { pw-empty-warning }
 pw-not-wanted = Диққат! Шумо ниҳонвожаи хусусии худро дигар истифода намебаред. { pw-empty-warning }
+
 failed-pp-change = Ниҳонвожаи асосӣ тағйир дода намешавад.
+
 pp-erased-ok = Шумо ниҳонвожаи асосии худро нест кардед. { pp-empty-warning }
+
 pw-remove-button =
     .label = Тоза кардан
+
 set-password =
     .title = Тағйир додани ниҳонвожаи хусусӣ…
+
 remove-password =
     .title = Тоза кардани ниҳонвожаи хусусӣ
+
 remove-password-old-password =
     .value = Ниҳонвожаи ҷорӣ:

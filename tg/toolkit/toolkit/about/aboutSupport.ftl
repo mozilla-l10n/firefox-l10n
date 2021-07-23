@@ -47,6 +47,7 @@ unknown = Номаълум
 ## not found.
 
 launcher-process-status-unknown = Вазъияти номаълум
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

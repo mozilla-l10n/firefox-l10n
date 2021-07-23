@@ -15,12 +15,14 @@ upgrade-dialog-new-secondary-button = Ҳоло не
 # theme selection screen.
 upgrade-dialog-new-primary-win7-button = Хуб, фаҳмидам!
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
 ## Default browser screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = Браузери { -brand-short-name }-ро ҳамчун браузери пешфарз таъин мекунед?
-upgrade-dialog-default-subtitle = Ҳар вақте ки шумо бо Интернет кор мекунед, суръат, амният ва махфиятро ба даст оред.
-upgrade-dialog-default-primary-button = Гузоштан ҳамчун браузери пешфарз
 upgrade-dialog-default-secondary-button = Ҳоло не
 
 ## Theme selection screen

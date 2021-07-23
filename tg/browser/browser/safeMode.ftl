@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Оғози кор дар реҷаи бехатар
+
 troubleshoot-mode-window =
     .title = { -brand-short-name }-ро дар реҷаи ислоҳи нуқсонҳо мекушоед?
     .style = max-width: 400px

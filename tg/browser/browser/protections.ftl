@@ -4,35 +4,50 @@
 
 protection-report-webpage-title = Лавҳаи вазъияти муҳофизат
 protection-report-page-content-title = Лавҳаи вазъияти муҳофизат
+
 protection-report-settings-link = Танзимоти махфият ва амнияти худро идора кунед
+
 etp-card-title-always = Муҳофизати такмилёфта аз пайгирӣ: Ҳамеша фаъол
 etp-card-title-custom-not-blocking = Муҳофизати такмилёфта аз пайгирӣ: Ғайрифаъол
 protection-report-manage-protections = Идоракунии танзимот
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Имрӯз
+
 social-tab-title = Васоити пайгирии шабакаҳои иҷтимоӣ
+
 cookie-tab-title = Кукиҳои васоити пайгирӣ байни сомонаҳо
+
 tracker-tab-title = Муҳтавои пайгирикунанда
+
 fingerprinter-tab-title = Хонандаи нақши ангушт
+
 cryptominer-tab-title = Криптомайнерҳо
+
 protections-close-button2 =
     .aria-label = Пӯшидан
     .title = Пӯшидан
+  
 lockwise-title-logged-in2 = Идоракунии ниҳонвожаҳо
 protection-report-save-passwords-button = Нигоҳ доштани ниҳонвожаҳо
     .title = Нигоҳ доштани ниҳонвожаҳо дар { -lockwise-brand-short-name }
 protection-report-manage-passwords-button = Идоракунии ниҳонвожаҳо
     .title = Идоракунии ниҳонвожаҳо дар { -lockwise-brand-short-name }
+
 lockwise-how-it-works-link = Чӣ тавр кор мекунад
+
 turn-on-sync = Фаъол кардани { -sync-brand-short-name }…
     .title = Ба хусусиятҳои ҳамоҳангсозӣ гузаред
+
 monitor-link = Чӣ тавр кор мекунад
 monitor-sign-up-link = Барои огоҳиҳои вайронкунӣ обуна шавед
     .title = Барои огоҳиҳои вайронкунӣ дар { -monitor-brand-name } обуна шавед
+
 monitor-no-breaches-title = Хабари хуш!
 monitor-view-report-link = Дидани гузориш
     .title = Ислоҳ кардани вайроншавӣ дар { -monitor-brand-short-name }
+
 monitor-partial-breaches-motivation-title-start = Оғози олӣ!
 monitor-partial-breaches-motivation-title-middle = Давом диҳед!
 monitor-partial-breaches-motivation-title-end = Қариб иҷро шуд! Давом диҳед.
