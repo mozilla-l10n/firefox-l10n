@@ -5,3 +5,4 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = தனிப்பயனாக்குக
     .accesskey = C
+

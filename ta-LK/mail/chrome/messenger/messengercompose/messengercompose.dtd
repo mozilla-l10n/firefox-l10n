@@ -189,6 +189,7 @@
 <!ENTITY pasteButton.tooltip "ஒட்டு">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY subject.accesskey "S">
 <!-- Format Toolbar, imported from editorAppShell.xul -->

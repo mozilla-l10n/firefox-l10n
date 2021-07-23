@@ -160,6 +160,7 @@ when there are no windows but Firefox is still running. -->
 
 
 <!ENTITY historyMenu.label "வரலாறு">
+
 <!ENTITY historyUndoMenu.label "சமீபத்தில் மூடப்பட்ட தத்தல்கள்">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "சமீபத்தில் மூடப்பட்ட சாளரங்கள்">
