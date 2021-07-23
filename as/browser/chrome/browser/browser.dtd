@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "মেনু খোলক">
+
 <!ENTITY navbarOverflow.label                "অধিক সঁজুলি…">
 
 <!-- Tab context menu -->
@@ -98,11 +99,13 @@ this container is a toolbar. This avoids double-speaking. -->
 
 
 <!ENTITY historyMenu.label "ইতিহাস">
+
 <!ENTITY historyUndoMenu.label "শেহতীয়াভাৱে বন্ধ কৰা টেবসমূহ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "শেহতীয়াভাৱে বন্ধ কৰা উইণ্ড'সমূহ">
 
 <!ENTITY appMenuHistory.showAll.label "সকলো ইতিহাস দেখুৱাওক">
+
 <!ENTITY appMenuHistory.clearRecent.label "শেহতীয়া ইতিহাস পৰিষ্কাৰ কৰক…">
 <!ENTITY appMenuHistory.restoreSession.label "পুৰ্বৱৰ্তী অধিবেশন পুনৰদ্ধাৰ কৰক">
 <!ENTITY appMenuHistory.viewSidebar.label "ইতিহাস কাষবাৰ দৰ্শন কৰক">
@@ -195,3 +198,4 @@ this container is a toolbar. This avoids double-speaking. -->
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+

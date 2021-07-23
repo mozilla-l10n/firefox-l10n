@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } সতেজ কৰক
+
 refresh-profile-dialog-title = { -brand-short-name }-ক ইয়াৰ ডিফ'ল্ট ছেটিংছলৈ সতেজ কৰিবনে?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } সতেজ কৰক

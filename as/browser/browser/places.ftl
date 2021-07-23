@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = নতুন ব্যক্তিগত উইণ্ড' এটাত খোলক
     .accesskey = P
+
 places-new-bookmark =
     .label = নতুন পত্ৰচিহ্ন…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = নতুন বিভাজক
     .accesskey = S
+
 places-view =
     .label = দৰ্শন কৰক
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = তাৰিখ আৰু ছাইটৰে
     .accesskey = t
+
 places-history-search =
     .placeholder = ইতিহাসৰ সন্ধান কৰক
 places-bookmarks-search =
     .placeholder = বুকমাৰ্কৰ সন্ধান কৰক
+
 places-delete-domain-data =
     .label = এই ছাইটৰ বিষয়ে পাহৰি যাওক
     .accesskey = F
@@ -60,12 +64,15 @@ places-sortby-name =
 places-properties =
     .label = বৈশিষ্ট্যসমূহ
     .accesskey = i
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = পৰিচালিত বুকমাৰ্কসমূহ
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = উপফ'ল্ডাৰ
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = অন্য বুকমাৰ্কসমূহ
+

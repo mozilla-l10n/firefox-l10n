@@ -8,6 +8,7 @@ password-quality-meter = পাছৱাৰ্ড গুণৰ একক
 
 change-password-window =
     .title = প্ৰমূখ পাছৱাৰ্ড সলনি কৰক
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = সুৰক্ষাৰ ডিভাইচ: { $tokenName }

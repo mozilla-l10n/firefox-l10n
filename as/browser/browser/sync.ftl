@@ -6,16 +6,14 @@ fxa-toolbar-sync-syncing =
     .label = ছিংক কৰি থকা হৈছে…
 fxa-toolbar-sync-syncing-tabs =
     .label = টেববোৰ চিংক হৈ আছে…
-fxa-toolbar-sync-syncing2 = ছিংক কৰি থকা হৈছে…
+
 sync-disconnect-dialog-title = { -sync-brand-short-name }-ৰ সংযোগ বিচ্ছিন্ন কৰিবনে?
+
+fxa-toolbar-sync-syncing2 = ছিংক কৰি থকা হৈছে…
+
 sync-disconnect-dialog-body = { -brand-product-name }-এ আপোনাৰ একাউণ্ট ছিংক্ৰনাইজ কৰা বন্ধ কৰিব কিন্তু এই ডিভাইচত থকা আপোনাৰ কোনো ব্ৰাউজিং ডেটা মচি নেপেলায়।
 fxa-disconnect-dialog-title = { -brand-product-name }-ৰ সংযোগ বিচ্ছিন্ন কৰিবনে?
 sync-disconnect-dialog-button = সংযোগ বিচ্ছিন্ন কৰক
-fxa-signout-dialog-heading = { -fxaccount-brand-name }-ৰ পৰা ছাইন আউট কৰিবনে?
+
 fxa-signout-dialog-body = ছিংক্ৰনাইজ কৰা ডেটা আপোনাৰ একাউণ্টত থাকি যাব।
-fxa-signout-checkbox =
-    .label = এই ডিভাইচৰ পৰা ডেটা মচি পেলাওক (লগিন, পাছৱৰ্ড, ইতিহাস, বুকমাৰ্ক ইত্যাদি)।
-fxa-signout-dialog =
-    .title = { -fxaccount-brand-name }-ৰ পৰা ছাইন আউট কৰক
-    .style = min-width: 375px;
-    .buttonlabelaccept = ছাইন আউট কৰক
+
