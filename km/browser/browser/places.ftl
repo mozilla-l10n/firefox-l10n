@@ -64,3 +64,4 @@ places-sortby-name =
 places-properties =
     .label = លក្ខណសម្បត្តិ
     .accesskey = ស
+

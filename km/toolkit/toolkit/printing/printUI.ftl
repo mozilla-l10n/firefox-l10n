@@ -5,6 +5,7 @@
 printui-title = បោះពុម្ព
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = រក្សាទុក​ជា
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -12,31 +13,47 @@ printui-sheets-count =
         [one] { $sheetCount } សន្លឹក
        *[other] { $sheetCount } សន្លឹក
     }
+
 printui-page-range-all = ទាំងអស់
 printui-page-range-custom = តាមតម្រូវការ
 printui-page-range-label = ទំព័រ
 printui-page-range-picker =
     .aria-label = ជ្រើសរើសជួរទំព័រ
+
 # Section title for the number of copies to print
 printui-copies-label = ច្បាប់​ចម្លង
+
 printui-orientation = ទិស
 printui-landscape = ផ្ដេក
 printui-portrait = បញ្ឈរ
+
 # Section title for the printer or destination device to target
 printui-destination-label = ទិសដៅ
 printui-destination-pdf-label = រក្សាទុក​ជា PDF
+
 printui-more-settings = ការកំណត់ច្រើនទៀត
+
 printui-paper-size-label = ទំហំក្រដាស
+
 # Section title (noun) for the print scaling options
 printui-scale = មាត្រដ្ឋាន
 printui-scale-fit-to-page-width = សមនឹងទទឹងទំព័រ
+
 # Section title for miscellaneous print options
 printui-options = ជម្រើស
 printui-headers-footers-checkbox = បោះពុម្ពក្បាលទំព័រ និងជើងទំព័រ
 printui-backgrounds-checkbox = បោះពុម្ពផ្ទៃខាងក្រោយ
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+##
+
 printui-color-mode-label = ម៉ូតពណ៌
 printui-color-mode-color = ពណ៌
 printui-color-mode-bw = សខ្មៅ
+
 printui-margins = រឹម
 printui-margins-default = លំនាំ​ដើម
 printui-margins-min = អប្បបរមា
@@ -45,11 +62,15 @@ printui-margins-custom-top = កំពូល
 printui-margins-custom-bottom = ក្រោម
 printui-margins-custom-left = ឆ្វេង
 printui-margins-custom-right = ស្ដាំ
+
 printui-system-dialog-link = បោះពុម្ពដោយប្រើប្រអប់ប្រព័ន្ធ…
+
 printui-primary-button = បោះពុម្ព
 printui-primary-button-save = រក្សាទុក
 printui-cancel-button = បោះបង់
+
 printui-loading = រៀបចំការមើលជាមុន
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
@@ -75,6 +96,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = មាត្រដ្ឋាន​ត្រូវតែជា​ចំនួន​ចន្លោះពី 10 ទៅ 200 ។
 printui-error-invalid-margin = សូមបញ្ចូលរឹមដែលត្រឹមត្រូវសម្រាប់ទំហំក្រដាសដែលបានជ្រើសរើស។
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = ជួរត្រូវតែជាចំនួន​ចន្លោះពី 1 ទៅ { $numPages } ។

@@ -40,3 +40,4 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword =
     .value = ពាក្យ​គន្លឹះ​៖
     .accesskey = ព
+

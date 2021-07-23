@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = ស្វែងរក
 
 newtab-search-box-search-the-web-text = ស្វែងរក​បណ្ដាញ
+
 newtab-search-box-search-the-web-input =
     .placeholder = ស្វែងរក​បណ្ដាញ
     .title = ស្វែងរក​បណ្ដាញ
@@ -53,6 +54,8 @@ newtab-topsites-add-button = បន្ថែម
 newtab-confirm-delete-history-p1 = តើអ្នកប្រាកដថាអ្នកចង់លុបគ្រប់វត្ថុនៃទំព័រនេះពីប្រវត្តិរបស់អ្នកឬ?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = សកម្មភាពនេះមិនអាចមិនធ្វើឡើង​វិញបានទេ។
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -173,3 +176,6 @@ newtab-pocket-cta-button = ទាញយក { -pocket-brand-name }
 
 newtab-error-fallback-info = អូ មានអ្វីមួយខុសប្រក្រតីក្នុងការផ្ទុក​ខ្លឹមសារ​នេះ។
 newtab-error-fallback-refresh-link = ផ្ទុកទំព័រឡើងវិញ ដើម្បីព្យាយាមម្ដងទៀត។
+
+## Customization Menu
+

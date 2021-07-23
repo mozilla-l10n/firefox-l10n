@@ -126,6 +126,8 @@ security-site-data-only = បាទ/ចាស ទិន្នន័យគេហ�
 security-site-data-cookies-only = បាទ/ចាស ខូឃី
 security-site-data-no = ទេ
 
+##
+
 image-size-unknown = មិន​ស្គាល់
 page-info-not-specified =
     .value = មិន​ត្រូវ​បាន​បញ្ជាក់

@@ -539,6 +539,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = អត្ថបទសង្ខេប
 home-prefs-snippets-description = បច្ចុប្បន្នភាពពី { -vendor-short-name } និង { -brand-product-name }
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -609,6 +610,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = ចំណូលចិត្ត
+
 containers-remove-button =
     .label = លុប​ចេញ
 

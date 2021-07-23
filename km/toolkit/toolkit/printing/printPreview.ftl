@@ -57,3 +57,4 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = ទំព័រ​ចុង​ក្រោយ
+

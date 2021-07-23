@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = ផ្ទុក​ឡើង​វិញ { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ
 refresh-profile-description = ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​កែ​បញ្ហា រួច​ស្ដារ​ដំណើរការ។

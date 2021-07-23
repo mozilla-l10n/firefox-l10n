@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (ការរកមើលជា​ឯកជន)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (ការរកមើលជា​ឯកជន)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ការរកមើលជា​ឯកជន)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ការរកមើលជា​ឯកជន)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -122,10 +124,12 @@ urlbar-canvas-blocked =
     .tooltiptext = អ្នក​បាន​ទប់ស្កាត់​ការដកទិន្នន័យ​កម្មវិធីកែ​រូបភាព​សម្រាប់​គេហទំព័រ​នេះ។
 urlbar-midi-blocked =
     .tooltiptext = អ្នក​បាន​ទប់ស្កាត់ការចូលប្រើ MIDI សម្រាប់​គេហទំព័រ​នេះ។
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = កែសម្រួល​ចំណាំ​នេះ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -135,41 +139,13 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = បញ្ចូល​ទៅក្នុង​របារអាសយដ្ឋាន
+
 page-action-manage-extension =
     .label = គ្រប់គ្រងផ្នែកបន្ថែម…
 page-action-remove-from-urlbar =
     .label = លុបចេញពីរបារអាសយដ្ឋាន
 
 ## Page Action menu
-
-page-action-copy-url-panel =
-    .label = ចម្លង​តំណ
-page-action-copy-url-urlbar =
-    .tooltiptext = ចម្លង​តំណ
-page-action-email-link-panel =
-    .label = តំណ​អ៊ីមែល…
-page-action-email-link-urlbar =
-    .tooltiptext = តំណ​អ៊ីមែល…
-page-action-share-url-panel =
-    .label = ចែករំលែក
-page-action-share-url-urlbar =
-    .tooltiptext = ចែករំលែក
-page-action-share-more-panel =
-    .label = ច្រើន​ទៀត…
-page-action-send-tab-not-ready =
-    .label = កំពុង​ធ្វើ​សមកាលកម្ម​ឧបករណ៍…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = ខ្ទាស់​ផ្ទាំង
-page-action-pin-tab-urlbar =
-    .tooltiptext = ខ្ទាស់​ផ្ទាំង
-page-action-unpin-tab-panel =
-    .label = ដោះ​​ខ្ទាស់​ផ្ទាំង
-page-action-unpin-tab-urlbar =
-    .tooltiptext = ដោះ​​ខ្ទាស់​ផ្ទាំង
 
 ## Auto-hide Context Menu
 
@@ -186,14 +162,17 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = ផ្លាស់ប្ដូរ​ការ​កំណត់​ស្វែងរក
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ផ្លាស់ប្ដូរ​ការ​កំណត់​ស្វែងរក
+
 search-one-offs-context-open-new-tab =
     .label = ស្វែងរក​នៅ​ក្នុង​ផ្ទាំង​ថ្មី
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = កំណត់​ជា​ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម
     .accesskey = D
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -220,8 +199,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = បង្ហាញកម្មវិធីកែសម្រួលនៅពេលកំពុងរក្សាទុក
     .accesskey = ប
+
 bookmark-panel-done-button =
     .label = ធ្វើ​រួច
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -238,6 +219,7 @@ identity-passive-loaded = ផ្នែក​ខ្លះ​នៃ​ទំព័
 identity-active-loaded = អ្នក​បាន​បិទ​ការ​ការពារ​នៅ​លើ​ទំព័រ​នេះ។
 identity-weak-encryption = ទំព័រ​នេះ​ប្រើ​ការ​បម្លែង​កូដ​ខ្សោយ។
 identity-insecure-login-forms = ការ​ចូល​ទាំង​ឡាយ​ដែល​បាន​បញ្ចូល​ក្នុង​ទំព័រ​នេះ​អាច​ត្រូវ​បាន​គេ​សម្របសម្រួល​។ ​
+
 identity-permissions-reload-hint = អ្នក​ប្រហែល​ត្រូវ​ផ្ទុក​ទំព័រ​ឡើងវិញ​ ដើម្បី​ឲ្យ​ការ​ផ្លាស់ប្ដូរអនុវត្ត។
 identity-permissions-empty = អ្នក​មិន​បាន​ផ្ដល់​សិទ្ធិ​អនុញ្ញាត​ពិសេស​ណា​មួយ​​ដល់​តំបន់បណ្ដាញ​នេះ​ទេ។
 identity-clear-site-data =
@@ -292,6 +274,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = មីក្រូហ្វូន​ដែល​ត្រូវ​ចែករំលែក៖
     .accesskey = M
+
 popup-all-windows-shared = បង្អួច​ទាំងអស់​​ដែល​អាច​មើល​ឃើញ​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។
 
 ## WebRTC window or screen share tab switch warning
@@ -304,19 +287,24 @@ popup-all-windows-shared = បង្អួច​ទាំងអស់​​ដ�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
+
 urlbar-placeholder =
     .placeholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = កម្មវិធី​អ៊ីនធឺណិត​គឺ​ស្ថិត​ក្រោម​ការ​ត្រួតពិនិត្យ​ពី​ចម្ងាយ
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = ស្វែងរកជាមួយ { $name } ឬបញ្ចូលអាសយដ្ឋាន
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = កម្មវិធី​អ៊ីនធឺណិត​គឺ​ស្ថិត​ក្រោម​ការ​ត្រួតពិនិត្យ​ពី​ចម្ងាយ
+
 urlbar-switch-to-tab =
     .value = ប្ដូរ​ទៅ​ផ្ទាំង៖
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ផ្នែក​បន្ថែម៖
+
 urlbar-go-button =
     .tooltiptext = ទៅកាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង
 urlbar-page-action-button =
@@ -345,9 +333,12 @@ urlbar-result-action-visit = មើល
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ឥឡូវ​ពេញ​អេក្រង់
 fullscreen-warning-no-domain = ឥឡូវ​ឯកសារ​នេះ​​ពេញ​អេក្រង់
+
+
 fullscreen-exit-button = បិទ​ពេញ​អេក្រង់ (គេច)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = បិទ​ពេញ​អេក្រង់ (គេច)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -359,8 +350,6 @@ pointerlock-warning-no-domain = ឯកសារនេះ​មាន​សិទ
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = បង្ហាញ​ចំណាំ​ទាំងអស់
 bookmarks-toolbar-chevron =
     .tooltiptext = បង្ហាញ​ចំណាំ​​ថែមទៀត
 bookmarks-sidebar-content =
@@ -395,6 +384,7 @@ bookmarks-tools =
     .label = ​ឧបករណ៍​ចំណាំ
 bookmarks-bookmark-edit-panel =
     .label = កែ​សម្រួល​ចំណាំ​នេះ
+
 bookmarks-toolbar-menu =
     .label = របារ​ឧបករណ៍​ចំណាំ
 bookmarks-toolbar-placeholder =
@@ -409,6 +399,8 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 
