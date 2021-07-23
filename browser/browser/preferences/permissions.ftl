@@ -73,6 +73,8 @@ permissions-invalid-uri-label = कृपया वैध होस्टना�
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =

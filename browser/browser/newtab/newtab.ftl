@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = खोजी गर्नुहोस्
 
 newtab-search-box-search-the-web-text = वेबमा खोज्नुहोस्
+
 newtab-search-box-search-the-web-input =
     .placeholder = वेबमा खोज्नुहोस्
     .title = वेबमा खोज्नुहोस्
@@ -54,6 +55,8 @@ newtab-topsites-add-button = थप्नुहोस्
 newtab-confirm-delete-history-p1 = के तपाईं पक्का हुनुहुन्छ कि तपाइँ यस पृष्ठको हरेक उदाहरण तपाइँको इतिहासबाट हटाउन चाहनुहुन्छ ?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = यो कार्य पूर्ववत गर्न सकिँदैन ।
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -162,3 +165,6 @@ newtab-pocket-read-more = लोकप्रिय शीर्षकहरू:
 
 newtab-error-fallback-info = उफ्, सामाग्री लोड गर्न खोजदा केहि गलत भयो ।
 newtab-error-fallback-refresh-link = पुनः प्रयास गर्न पृष्ठ ताजा गर्नुहोस् ।
+
+## Customization Menu
+

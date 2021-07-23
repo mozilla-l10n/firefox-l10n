@@ -58,3 +58,4 @@ clear-site-data-cancel =
 clear-site-data-clear =
     .label = खाली गर्नुहोस्
     .accesskey = l
+
