@@ -39,6 +39,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = S
     .secondarybuttonlabel = Deaktivēt paplašinājumu
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = Piekļūstiet paslēptajām cilnēm
     .buttonlabel = Atstāt cilnes paslēptas

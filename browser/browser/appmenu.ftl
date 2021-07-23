@@ -26,6 +26,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinhronizēt
+
 appmenuitem-save-page =
     .label = Saglabāt lapu kā…
 
@@ -79,3 +80,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Uzdevumu pārvaldnieks
+

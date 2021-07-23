@@ -17,10 +17,13 @@ otr-log =
     .label = Sarunu žurnālos iekļaut OTR šifrētus ziņojumus
 otr-requireEncryption =
     .label = Pieprasīt tiešās saziņas šifrēšanu viens-pret-vienu sarunās
+otr-verifyNudge =
+    .label = Vienmēr atgādināt man, lai pārbaudu nepārbaudītu kontaktu
+
+otr-notYetAvailable = pagaidām nav pieejams
+
 otr-require-encryption-info =
     Kad nepieciešama tiešās saziņas šifrēšana, ziņojumi divpusējās sarunās
     netiks nosūtīti, ja vien tos nevarēs šifrēt. Saņemti nešifrēti ziņojumi
     netiks rādīti kā daļa no parastās sarunas un netiks reģistrēti.
-otr-verifyNudge =
-    .label = Vienmēr atgādināt man, lai pārbaudu nepārbaudītu kontaktu
-otr-notYetAvailable = pagaidām nav pieejams
+

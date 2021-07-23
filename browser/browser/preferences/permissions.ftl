@@ -5,46 +5,61 @@
 permissions-window =
     .title = Izņēmumi
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Mājas lapas adrese
     .accesskey = d
+
 permissions-block =
     .label = Bloķēt
     .accesskey = B
+
 permissions-session =
     .label = Atļaut tikai šīs sesijas laikā
     .accesskey = s
+
 permissions-allow =
     .label = Atļaut
     .accesskey = A
+
 permissions-site-name =
     .label = Mājas lapa
+
 permissions-status =
     .label = Statuss
+
 permissions-remove =
     .label = Aizvākt lapu
     .accesskey = Z
+
 permissions-remove-all =
     .label = Aizvākt visas lapas
     .accesskey = k
+
 permissions-button-cancel =
     .label = Atcelt
     .accesskey = c
+
 permissions-button-ok =
     .label = Saglabāt izmaiņas
     .accesskey = S
+
 permission-dialog =
     .buttonlabelaccept = Saglabāt izmaiņas
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = Meklēt lapas
+
 permissions-capabilities-allow =
     .label = Atļaut
 permissions-capabilities-block =
     .label = Bloķēt
 permissions-capabilities-prompt =
     .label = Vienmēr jautāt
+
 permissions-capabilities-listitem-allow =
     .value = Atļaut
 permissions-capabilities-listitem-block =
@@ -66,6 +81,8 @@ permissions-exceptions-cookie-window =
     .title = Izņēmumi - sīkdatnes un kešatmiņa
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Jūs varat norādīt, kurām lapām ir un kurām nav atļauts izmantot sīkdatnes un kešatmiņu. Ierakstiet precīzu lapas adresi un klikšķiniet uz Bloķēt, Atļaut uz sesiju  vai Atļaut.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

@@ -34,16 +34,20 @@ menu-quit =
             [windows] z
            *[other] e
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Iziet no { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Aizvērt { -brand-shorter-name }
+
 menu-about =
     .label = Par { -brand-shorter-name }
     .accesskey = a
@@ -300,8 +304,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Problēmu novēršanas informācija
     .accesskey = P
-menu-help-taskmanager =
-    .label = Uzdevumu pārvaldnieks
 menu-help-report-site-issue =
     .label = Ziņot par problēmu ar lapu…
 menu-help-feedback-page =

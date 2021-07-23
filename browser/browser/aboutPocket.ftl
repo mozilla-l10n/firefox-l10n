@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Pievienot birkas
+
 pocket-panel-saved-error-generic = Kļūda saglabājot { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Birkas nevar būt garākas par 25 simboliem
 pocket-panel-saved-error-only-links = Saglabāt var tikai saites

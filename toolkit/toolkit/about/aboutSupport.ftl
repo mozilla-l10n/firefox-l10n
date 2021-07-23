@@ -304,3 +304,8 @@ touch-warning = asinhronā pieskāriena ievade deaktivēta neatbalstīta iestat�
 policies-inactive = Neaktīva
 policies-active = Aktīva
 policies-error = Kļūda
+
+## Printing section
+
+## Normandy sections
+

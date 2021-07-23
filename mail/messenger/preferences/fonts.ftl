@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Noklusētais ({ $name })
 fonts-label-default-unnamed =
     .label = Noklusētais
+
 fonts-encoding-dialog-title =
     .title = Fonti un kodējumi
+
 fonts-language-legend =
     .value = Fonti:
     .accesskey = t
+
 fonts-proportional-label =
     .value = Proporcionāli:
     .accesskey = P
@@ -85,35 +89,45 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-label =
     .value = Izmērs:
     .accesskey = i
+
 font-size-monospace-label =
     .value = Izmērs:
     .accesskey = i
+
 font-serif-label =
     .value = Serif:
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans-serif
     .accesskey = n
+
 font-monospace-label =
     .value = Vienplatuma:
     .accesskey = V
+
 font-min-size-label =
     .value = Minimālais fonta izmērs:
     .accesskey = z
+
 min-size-none =
     .label = Nav
 
 ## Fonts in message
 
 font-control-legend = Fontu vadība
+
 use-document-fonts-checkbox =
     .label = Ļaut ziņām izmantot citus fontus
     .accesskey = a
+
 use-fixed-width-plain-checkbox =
     .label = Vienkārša teksta ziņām izmantot vienāda platuma fontu
     .accesskey = V
@@ -121,13 +135,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Teksta kodējums
+
 text-encoding-description = Iestatīt noklusēto teksta kodējumu pasta sūtīšanai un saņemšanai
+
 font-outgoing-email-label =
     .value = Izejošais pasts:
     .accesskey = e
+
 font-incoming-email-label =
     .value = Ienākošais pasts:
     .accesskey = n
+
 default-font-reply-checkbox =
     .label = Ja iespējams, atbildēs izmantot noklusēto teksta kodējumu
     .accesskey = n

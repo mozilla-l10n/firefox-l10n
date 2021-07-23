@@ -54,9 +54,6 @@ move-to-new-window =
     .label = Pāriet uz jaunu logu
     .accesskey = P
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 close-tab =
     .label = Aizvērt cilni
     .accesskey = c
@@ -69,6 +66,10 @@ move-tabs =
 move-tab =
     .label = Pārvietot cilni
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-move-tabs =
     .label =
         { $tabCount ->

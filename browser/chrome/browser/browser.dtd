@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Atvērt izvēlni">
+
 <!ENTITY navbarOverflow.label                "Citi rīki…">
 
 <!-- Tab context menu -->
@@ -109,18 +110,22 @@ can reach it easily. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Vēsture">
+
 <!ENTITY historyUndoMenu.label "Nesen aizvērtās cilnes">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nesen aizvērtie logi">
 
 <!ENTITY appMenuHistory.showAll.label "Parādīt visu vēsturi">
+
 <!ENTITY appMenuHistory.clearRecent.label "Dzēst neseno vēsturi…">
 <!ENTITY appMenuHistory.restoreSession.label "Atjaunot iepriekšējo sesiju">
 <!ENTITY appMenuHistory.viewSidebar.label "Rādīt vēstures sānjoslu">
 <!ENTITY appMenuHistory.recentHistory.label "Nesenā vēsture">
+
 <!ENTITY appMenuHelp.label "Palīdzība">
 
 <!ENTITY appMenuRemoteTabs.label "Sinhronizētās cilnes">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nav atvērto cilņu">

@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Aizvērt
     .accesskey = A
+
 show-passwords =
     .label = Rādīt paroles
     .accesskey = R
@@ -73,10 +74,12 @@ no-master-password-prompt = Vai tiešām vēlaties parādīt jūsu paroles?
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Lai atklātu saglabātās paroles, pierādiet savu identitāti.
+
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = atklāt saglabātās paroles
+
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }
