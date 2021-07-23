@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fonts
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fonts for
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arabic
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Size
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Size
     .accesskey = e
+
 fonts-minsize = Minimum font size
     .accesskey = o
+
 fonts-minsize-none =
     .label = None
+
 fonts-allow-own =
     .label = Allow pages to choose their own fonts, instead of your selections above
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Text Encoding for Legacy Content
 fonts-languages-fallback-desc = This text encoding is used for legacy content that fails to declare its encoding.
+
 fonts-languages-fallback-label = Fallback Text Encoding
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Default for Current Locale
 fonts-languages-fallback-name-arabic =
@@ -138,6 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
 fonts-languages-fallback-name-other =
     .label = Other (incl. Western European)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

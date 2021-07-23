@@ -4,5 +4,6 @@
 
 account-settingsTitle = Authentication Settings
 account-channelTitle = Default Channels
+
 account-settings-title = Authentication Settings
 account-channel-title = Default Channels

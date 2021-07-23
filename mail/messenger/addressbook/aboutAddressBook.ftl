@@ -8,10 +8,6 @@ about-addressbook-title = Address Book
 
 about-addressbook-toolbar-new-address-book =
     .label = New Address Book
-about-addressbook-toolbar-new-carddav-address-book =
-    .label = New CardDAV Address Book
-about-addressbook-toolbar-new-ldap-address-book =
-    .label = New LDAP Address Book
 about-addressbook-toolbar-new-contact =
     .label = New Contact
 about-addressbook-toolbar-new-list =
@@ -20,6 +16,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = All Address Books
+
 about-addressbook-books-context-properties =
     .label = Properties
 about-addressbook-books-context-synchronize =
@@ -37,14 +34,17 @@ about-addressbook-search =
     .placeholder = Search { $name }
 about-addressbook-search-all =
     .placeholder = Search all address books
+
 about-addressbook-sort-button =
     .title = Change the list order
+
 about-addressbook-name-format-display =
     .label = Display Name
 about-addressbook-name-format-firstlast =
     .label = First Last
 about-addressbook-name-format-lastfirst =
     .label = Last, First
+
 about-addressbook-sort-name-ascending =
     .label = Sort by name (A > Z)
 about-addressbook-sort-name-descending =
@@ -59,6 +59,7 @@ about-addressbook-sort-email-descending =
 about-addressbook-begin-edit-contact-button = Edit
 about-addressbook-cancel-edit-contact-button = Cancel
 about-addressbook-save-edit-contact-button = Save
+
 about-addressbook-details-email-addresses-header = Email Addresses
 about-addressbook-details-phone-numbers-header = Phone Numbers
 about-addressbook-details-home-address-header = Home Address
