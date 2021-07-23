@@ -7,6 +7,7 @@
 <!ENTITY popupWindowRejectCmd.accesskey "a">
 <!ENTITY popupWindowAllowCmd.label      "Povolit vyskakovací okna z tohoto serveru">
 <!ENTITY popupWindowAllowCmd.accesskey  "v">
+
 <!ENTITY openLinkCmdInTab.label       "Otevřít odkaz v novém panelu">
 <!ENTITY openLinkCmdInTab.accesskey   "n">
 <!ENTITY openLinkCmd.label            "Otevřít odkaz v novém okně">

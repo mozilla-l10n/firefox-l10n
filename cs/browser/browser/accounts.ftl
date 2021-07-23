@@ -5,12 +5,7 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Dokončit nastavení účtu
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-reconnect-to-fxa = Účet odpojen
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-disconnected = Byli jste odpojeni
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Účet odpojen

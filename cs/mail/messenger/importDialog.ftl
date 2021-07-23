@@ -4,7 +4,8 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
+
 # Description of the import module
 thunderbird-import-description = Importuje poštu z adresáře profilu Thunderbirdu.
-import-select-profile-dir-or-zip = Vyberte adresář s profilem nebo komprimovaný adresář s profilem.
+
 import-select-profile-zip = Vyberte komprimovaný adresář s profilem

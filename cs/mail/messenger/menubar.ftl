@@ -16,6 +16,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Předvolby
     .accesskey = P
+
 menu-addons-and-themes =
     .label = Doplňky a vzhledy
     .accesskey = a
@@ -25,9 +26,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Režim řešení potíží…
     .accesskey = m
+
 menu-help-exit-troubleshoot-mode =
     .label = Ukončit režim řešení potíží
     .accesskey = m
+
 menu-help-more-troubleshooting-info =
     .label = Další technické informace
     .accesskey = t
@@ -58,12 +61,15 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Hustota
     .accesskey = H
+
 mail-uidensity-compact =
     .label = Kompaktní
     .accesskey = K
+
 mail-uidensity-normal =
     .label = Normální
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Pro dotyk
     .accesskey = t

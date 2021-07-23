@@ -9,4 +9,5 @@ open-preferences-sidebar-button =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace
     }
+
 open-addons-sidebar-button = Doplňky a vzhledy

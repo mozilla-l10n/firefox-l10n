@@ -8,10 +8,6 @@ about-addressbook-title = Kontakty
 
 about-addressbook-toolbar-new-address-book =
     .label = Nový adresář
-about-addressbook-toolbar-new-carddav-address-book =
-    .label = Nová složka kontaktů CardDAV
-about-addressbook-toolbar-new-ldap-address-book =
-    .label = Nová složka kontaktů LDAP
 about-addressbook-toolbar-add-carddav-address-book =
     .label = Přidat složku kontaktů CardDAV
 about-addressbook-toolbar-add-ldap-address-book =
@@ -24,6 +20,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Všechny složky kontaktů
+
 about-addressbook-books-context-properties =
     .label = Vlastnosti
 about-addressbook-books-context-synchronize =
@@ -34,6 +31,7 @@ about-addressbook-books-context-delete =
     .label = Smazat
 about-addressbook-books-context-remove =
     .label = Odebrat
+
 about-addressbook-confirm-delete-book-title = Smazat složku kontaktů
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -51,14 +49,17 @@ about-addressbook-search =
     .placeholder = Najít { $name }
 about-addressbook-search-all =
     .placeholder = Prohledat všechny adresáře
+
 about-addressbook-sort-button =
     .title = Změnit pořadí seznamu
+
 about-addressbook-name-format-display =
     .label = Zobrazované jméno
 about-addressbook-name-format-firstlast =
     .label = Jméno Příjmení
 about-addressbook-name-format-lastfirst =
     .label = Příjmení, Jméno
+
 about-addressbook-sort-name-ascending =
     .label = Seřadit podle jména
 about-addressbook-sort-name-descending =
@@ -67,6 +68,7 @@ about-addressbook-sort-email-ascending =
     .label = Seřadit podle e-mailové adresy
 about-addressbook-sort-email-descending =
     .label = Seřadit podle e-mailové adresy (pozpátku)
+
 about-addressbook-confirm-delete-mixed-title = Smazat kontakty a skupiny
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -134,6 +136,7 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Upravit
 about-addressbook-cancel-edit-contact-button = Zrušit
 about-addressbook-save-edit-contact-button = Uložit
+
 about-addressbook-details-email-addresses-header = E-mailové adresy
 about-addressbook-details-phone-numbers-header = Telefonní čísla
 about-addressbook-details-home-address-header = Adresy domů

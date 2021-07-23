@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Importujte své přihlašovací údaje pro { $host } a další servery</div>
     <div data-l10n-name="line2"> z prohlížeče { $browser }</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Zjistit více
 

@@ -17,15 +17,19 @@ otr-log =
     .label = Zahrnout šifrované zprávy OTR do protokolů konverzací
 otr-requireEncryption =
     .label = Pro konverzace dvou osob vyžadovat koncové šifrování
+otr-verifyNudge =
+    .label = Vždy připomenout ověření dříve neověřeného kontaktu
+
+otr-notYetAvailable = zatím není k dispozici
+
 otr-require-encryption =
     .label = Pro konverzace dvou osob vyžadovat koncové šifrování
 otr-require-encryption-info =
     Při vyžadování koncového šifrování nebudou zprávy v konverzacích dvou osob
     odeslány, jestliže je nebude možné zašifrovat. Přijaté nezašifrované zprávy
     nebudou zobrazeny jako součást standardní konverzace a nebudou ani zaneseny do protokolu.
-otr-verifyNudge =
-    .label = Vždy připomenout ověření dříve neověřeného kontaktu
-otr-notYetAvailable = zatím není k dispozici
 otr-verify-nudge =
     .label = Vždy připomenout ověření dříve neověřeného kontaktu
+
 otr-not-yet-available = zatím není k dispozici
+

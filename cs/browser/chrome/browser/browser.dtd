@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Otevře nabídku">
+
 <!ENTITY navbarOverflow.label                "Další nástroje…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Nastavení synchronizace">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Připojit další zařízení…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Přihlásit se k aplikaci &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Zapnout &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Služby aplikace &brandProductName;">
@@ -139,6 +141,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "V">
 
 <!ENTITY historyMenu.label "Historie">
+
 <!ENTITY historyUndoMenu.label "Naposledy zavřené panely">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Naposledy zavřená okna">
@@ -150,9 +153,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Zobrazit v postranní liště">
 <!ENTITY appMenuHistory.hideSidebar.label "Zavřít v postranní liště">
 <!ENTITY appMenuHistory.recentHistory.label "Nedávná historie">
+
 <!ENTITY appMenuHelp.label "Nápověda">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizované panely">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Žádné otevřené panely">

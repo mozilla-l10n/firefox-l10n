@@ -16,6 +16,7 @@ opensearch-error-duplicate-desc =
         [neuter] { -brand-short-name } nemohlo
        *[other] Aplikace { -brand-short-name } nemohla
     } nainstalovat vyhledávač z „{ $location-url }“, protože už existuje jiný se stejným názvem.
+
 opensearch-error-format-title = Neplatný formát
 opensearch-error-format-desc =
     { -brand-short-name.gender ->
@@ -24,6 +25,7 @@ opensearch-error-format-desc =
         [neuter] { -brand-short-name } nemohlo
        *[other] Aplikace { -brand-short-name } nemohla
     } nainstalovat vyhledávač z „{ $location-url }“
+
 opensearch-error-download-title = Chyba stahování
 opensearch-error-download-desc =
     { -brand-short-name.gender ->

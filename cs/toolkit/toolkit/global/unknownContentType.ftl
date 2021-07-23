@@ -11,6 +11,7 @@ unknowncontenttype-handleinternally =
            *[other] v aplikaci { -brand-short-name }
         }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         Nastavení lze změnit v { PLATFORM() ->

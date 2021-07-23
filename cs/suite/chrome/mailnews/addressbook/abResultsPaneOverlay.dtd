@@ -30,8 +30,6 @@
 <!ENTITY HomePhone.accesskey                   "l">
 <!ENTITY WorkPhone.label                       "Telefon do zaměstnání">
 <!ENTITY WorkPhone.accesskey                   "z">
-<!ENTITY ScreenName.label                      "Zobrazované jméno">
-<!ENTITY ScreenName.accesskey                  "r">
 <!ENTITY ChatName.label                        "Jméno v chatu">
 <!ENTITY ChatName.accesskey                    "c">
 <!ENTITY sortAscending.label                   "Vzestupně">

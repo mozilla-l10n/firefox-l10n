@@ -4,8 +4,10 @@
 
 import-ab-csv-window =
     .title = Import kontaktů z textového souboru
+
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Náhled importovaných údajů pro záznam { $recordNumber }
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Importovat
     .buttonaccesskeyaccept = I

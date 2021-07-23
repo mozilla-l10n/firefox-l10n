@@ -144,6 +144,7 @@
 
 <!ENTITY helpForIEUsers.label               "Pro uživatele Internet Exploreru">
 <!ENTITY helpForIEUsers.accesskey           "I">
+
 <!ENTITY helpTroubleshootingInfo.label      "Technické informace">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 <!ENTITY releaseCmd.label                   "Poznámky k vydání">

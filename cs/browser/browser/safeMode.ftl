@@ -13,6 +13,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Spustit v nouzovém režimu
+
 troubleshoot-mode-window =
     .title =
         Chcete { -brand-short-name.gender ->
@@ -39,13 +40,6 @@ safe-mode-description =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }, který se používá při řešení potíží.
-troubleshoot-mode-description =
-    Tento režim { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    } vám pomůže s diagnostikou problémů. Vaše rozšíření a uživatelská nastavení budou dočasně zakázána.
 safe-mode-description-details =
     Vaše doplňky a vlastní nastavení budou dočasně zakázány a některé funkce { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -60,6 +54,13 @@ refresh-profile-instead =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] aplikaci { -brand-short-name }
     } obnovit do výchozího nastavení.
+troubleshoot-mode-description =
+    Tento režim { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } vám pomůže s diagnostikou problémů. Vaše rozšíření a uživatelská nastavení budou dočasně zakázána.
 skip-troubleshoot-refresh-profile =
     Také můžete od hledání příčin problémů upustit a provést obnovu { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }

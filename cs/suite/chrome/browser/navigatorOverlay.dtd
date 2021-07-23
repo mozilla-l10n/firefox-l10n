@@ -25,9 +25,6 @@ left instead of right. -->
 <!ENTITY uploadFile.label "Nahrát soubor…">
 <!ENTITY uploadFile.accesskey "S">
 
-<!ENTITY printSetupCmd.label "Vzhled stránky…">
-<!ENTITY printSetupCmd.accesskey "v">
-
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Najít na této stránce…">
 

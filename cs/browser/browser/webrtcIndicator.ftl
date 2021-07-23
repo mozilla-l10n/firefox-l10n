@@ -17,6 +17,7 @@ webrtc-indicator-title =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }
+
 webrtc-sharing-window = Sdílíte okno jiné aplikace.
 webrtc-sharing-browser-window =
     Sdílíte { -brand-short-name.gender ->
@@ -41,6 +42,7 @@ webrtc-camera-muted =
     .title = Zapnout kameru
 webrtc-minimize =
     .title = Minimalizovat ukazatel
+
 # This string will display as a tooltip on supported systems where we show
 # device sharing state in the OS notification area. We do not use these strings
 # on macOS, as global menu bar items do not have native tooltips.

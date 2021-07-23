@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Vlastnosti formuláře">
+
 <!ENTITY Settings.label "Nastavení">
+
 <!ENTITY FormName.label "Název formuláře:">
 <!ENTITY FormName.accesskey "N">
 <!ENTITY FormAction.label "URL akce:">
@@ -14,5 +16,6 @@
 <!ENTITY FormEncType.accesskey "k">
 <!ENTITY FormTarget.label "Cílový rám:">
 <!ENTITY FormTarget.accesskey "C">
+
 <!ENTITY RemoveForm.label "Odebrat formulář">
 <!ENTITY RemoveForm.accesskey "O">
