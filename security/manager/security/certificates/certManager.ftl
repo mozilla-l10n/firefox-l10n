@@ -143,6 +143,8 @@ cert-not-verified-issuer-unknown = Ntibyashobotse kugenzura iki cyemezo kubera k
 cert-not-verified-ca-invalid = Ntibyashobotse kugenzura iki cyemezo kubera ko icyemezo cya CA gitemewe.
 cert-not-verified-unknown = Ntibyashobotse kugenzura iki cyemezo kubera impamvu zitazwi.
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 
