@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Pasta de tipo:">
 
 <!ENTITY folderQuotaTab.label                    "Cota">
-<!ENTITY folderQuotaRoot.label                   "Raiz de cotas:">
 <!ENTITY folderQuotaUsage.label                  "Uso:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 

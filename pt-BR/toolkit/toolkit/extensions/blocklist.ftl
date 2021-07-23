@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = Reiniciar o { -brand-short-name }
     .accesskey = R
+
 blocklist-label-summary = O { -brand-short-name } constatou que essas extensões são conhecidas por causar problemas de estabilidade ou segurança:
 blocklist-soft-and-hard = As extensões que representam riscos elevados para a segurança ou estabilidade foram bloqueadas. As demais são de menor risco, mas é altamente recomendado reiniciar com elas desativadas.
 blocklist-hard-blocked = Essas extensões representam riscos elevados para a segurança ou estabilidade e foram bloqueadas, mas é necessário reiniciar para desativar completamente.
 blocklist-soft-blocked = Para sua proteção, é altamente recomendado que reinicie com essas extensões desativadas.
 blocklist-more-information =
     .value = Mais informações
+
 blocklist-blocked =
     .label = Bloqueado
 blocklist-checkbox =

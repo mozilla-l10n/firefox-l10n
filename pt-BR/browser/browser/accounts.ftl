@@ -5,12 +5,7 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Concluir configuração da conta
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-reconnect-to-fxa = Conta desconectada
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-disconnected = Você foi desconectado
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Conta desconectada

@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Agora não
     .secondarybuttonaccesskey = n
 appmenu-update-restart-message = Após um reinício rápido, o { -brand-shorter-name } irá restaurar todas as abas e janelas abertas que não sejam de navegação privativa.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = OK, entendi
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Gerencie extensões clicando em <image data-l10n-name='addon-install-icon'></image> no menu <image data-l10n-name='addon-menu-icon'></image>
+
 appmenu-update-available2 =
     .label = Atualização disponível
     .buttonlabel = Baixar
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Mais tarde
     .secondarybuttonaccesskey = M
 appmenu-update-other-instance-message = Uma nova atualização do { -brand-shorter-name } está disponível, mas não pode ser instalada porque outra cópia do { -brand-shorter-name } está em execução. Feche a outra cópia para continuar a atualização, ou escolha atualizar assim mesmo (a outra cópia pode não funcionar corretamente enquanto não for reiniciada).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = OK, entendi
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Gerencie extensões clicando em <image data-l10n-name='addon-install-icon'></image> no menu <image data-l10n-name='addon-menu-icon'></image>
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Gerencie suas extensões e temas através do menu do aplicativo.
 appmenu-addon-post-install-message3 = Gerencie suas extensões e temas através do menu do aplicativo.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir esta extensão em janelas privativas
     .accesskey = P
+    
 appmenu-new-tab-controlled =
     .label = Sua página de nova aba foi alterada.
     .buttonlabel = Manter alterações
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = M
     .secondarybuttonlabel = Desativar extensão
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = A página de nova aba mudou.
     .buttonlabel = Manter alterações

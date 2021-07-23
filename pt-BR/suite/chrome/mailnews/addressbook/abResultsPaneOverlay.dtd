@@ -30,8 +30,6 @@
 <!ENTITY HomePhone.accesskey                   "r">
 <!ENTITY WorkPhone.label                       "Telefone comercial">
 <!ENTITY WorkPhone.accesskey                   "i">
-<!ENTITY ScreenName.label                      "Nome de tela">
-<!ENTITY ScreenName.accesskey                  "t">
 <!ENTITY ChatName.label                        "Nome na conversa">
 <!ENTITY ChatName.accesskey                    "c">
 <!ENTITY sortAscending.label                   "Ordem crescente">
