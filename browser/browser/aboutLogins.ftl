@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Hent den fra  Google Play
 login-app-promo-apple =
     .alt = Hent den i App Store
+
 login-filter =
     .placeholder = Søg efter logins
+
 create-login-button = Opret nyt login
+
 fxaccounts-sign-in-text = Få dine adgangkoder på alle dine enheder
 fxaccounts-sign-in-button = Log ind på { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Log ind for at synkronisere
@@ -70,6 +73,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Leder du efter dine gemte logins? Opsæt { -sync-brand-short-name }.
+
 about-logins-login-intro-heading-logged-out2 = Leder du efter dine gemte logins? Slå synkronisering til eller importer dem.
 about-logins-login-intro-heading-logged-in = Ingen synkroniserede logins fundet.
 login-intro-description = Hvis du har gemt dine logins i { -brand-product-name } på en anden enhed, så skal du gøre sådan for at anvende dem her også:
@@ -80,6 +84,7 @@ login-intro-instructions-fxa = Opret eller log ind på din { -fxaccount-brand-na
 login-intro-instructions-fxa-settings = Gå til Indstillinger > Sync > Slå synkronisering til… Sæt flueben ud for Logins og adgangskoder.
 login-intro-instructions-fxa-help = Besøg siden <a data-l10n-name="help-link">Hjælp til { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Hvis dine logins er gemt i en anden browser, kan du <a data-l10n-name="import-link">importere dem til { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = Hvis dine logins er gemt et andet sted end { -brand-product-name }, så kan du <a data-l10n-name="import-browser-link">importere dem fra en anden browser</a> eller <a data-l10n-name="import-file-link">fra en fil</a>
 
 ## Login
@@ -121,11 +126,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Indtast dine login-informat
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = redigere det gemte login
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Indtast dine login-informationer til Windows for at se din adgangskode. Dette hjælper med at beskytte dine kontis sikkerhed.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = vise den gemte adgangskode
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Indtast dine login-informationer til Windows for at kopiere din adgangskode. Dette hjælper med at beskytte dine kontis sikkerhed.
 # This message can be seen when attempting to copy a password in about:logins
@@ -135,6 +142,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = kopiere den gemte adg
 ## Master Password notification
 
 master-password-notification-message = Indtast din hovedadgangskode for at se gemte logins og adgangskoder
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Indtast dine login-informationer til Windows for at eksportere dine logins. Dette hjælper med at beskytte dine kontis sikkerhed.
 # This message can be seen when attempting to export a password in about:logins
@@ -171,20 +179,24 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Annuller
 confirmation-dialog-dismiss-button =
     .title = Annuller
+
 about-logins-confirm-remove-dialog-title = Fjern dette login?
 confirm-delete-dialog-message = Denne handling kan ikke fortrydes.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Fjern
         [one] Fjern
        *[other] Fjern alle
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ja, fjern dette login
        *[other] Ja, fjern disse logins
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Fjern { $count } login?
@@ -196,6 +208,7 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Dette fjerner login'et, du har gemt til { -brand-short-name } samt alle advarsler om datalæk, der vises her. Du kan ikke fortryde denne handling.
        *[other] Dette fjerner logins, du har gemt til { -brand-short-name } samt alle advarsler om datalæk, der vises her. Du kan ikke fortryde denne handling.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Fjern { $count } login fra alle enheder?
@@ -207,11 +220,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Denne handling fjerner det login, du har gemt til { -brand-short-name } på alle enheder, der er synkroniseret med din { -fxaccount-brand-name }. Advarsler om datalæk, der optræder her, vil også blive fjernet. Du kan ikke fortryde denne handling.
        *[other] Denne handling fjerner de logins, du har gemt til { -brand-short-name } på alle enheder, der er synkroniseret med din { -fxaccount-brand-name }. Advarsler om datalæk, der optræder her, vil også blive fjernet. Du kan ikke fortryde denne handling.
     }
+
 about-logins-confirm-export-dialog-title = Eksporter logins og adgangskoder
 about-logins-confirm-export-dialog-message = Dine adgangskoder bliver gemt som læsbar tekst (fx dåRligAdg@ngsk0de), så alle der kan åbne den eksportede fil kan se dine adgangskoder.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
+
 about-logins-alert-import-title = Import fuldført
 about-logins-alert-import-message = Se detaljeret oversigt over import
+
 confirm-discard-changes-dialog-title = Kasser ikke-gemte ændringer?
 confirm-discard-changes-dialog-message = Alle ikke-gemte ændringer vil gå tabt.
 confirm-discard-changes-dialog-confirm-button = Kasser
@@ -242,8 +258,10 @@ about-logins-vulnerable-alert-learn-more-link = Læs mere
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Der findes allerede et login for { $loginTitle } med samme brugernavn. <a data-l10n-name="duplicate-link">Gå til eksisterende login?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Der opstod en fejl med at gemme adgangskoden.
+
 
 ## Login Export Dialog
 
@@ -290,10 +308,12 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Nye logins tilføjet:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Eksisterende logins opdateret:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Dublet-logins fundet:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importeret)</span>
@@ -303,6 +323,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Fejl:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importeret)</span>
     }
 about-logins-import-dialog-done = Færdig
+
 about-logins-import-dialog-error-title = Fejl ved import
 about-logins-import-dialog-error-conflicting-values-title = Flere modstridende værdier for samme login
 about-logins-import-dialog-error-conflicting-values-description = For eksempel: Flere brugernavne, adgangskoder URL'er osv. for det samme login.
@@ -316,8 +337,10 @@ about-logins-import-dialog-error-no-logins-imported = Ingen logins er blevet imp
 about-logins-import-dialog-error-learn-more = Læs mere
 about-logins-import-dialog-error-try-import-again = Prøv at importere igen…
 about-logins-import-dialog-error-cancel = Annuller
+
 about-logins-import-report-title = Oversigt over import
 about-logins-import-report-description = Logins og adgangskoder importeret til { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

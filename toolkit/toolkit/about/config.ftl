@@ -14,11 +14,15 @@ about-config-intro-warning-button = Accepter risikoen og fortsæt
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Ændring af disse indstillinger kan påvirke ydelse eller sikkerhed for { -brand-short-name }.
+
 about-config-page-title = Avancerede indstillinger
+
 about-config-search-input1 =
     .placeholder = Søg efter indstilling
 about-config-show-all = Vis alle
+
 about-config-show-only-modified = Vis kun ændrede indstillinger
+
 about-config-pref-add-button =
     .title = Tilføj
 about-config-pref-toggle-button =

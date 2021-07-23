@@ -8,22 +8,30 @@
 ##
 
 process-type-web = Web-indhold
+
 process-type-browser = Primær
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Priviligerede About-sider
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Priviligeret Mozilla-indhold
+
 process-type-extension = Udvidelse
+
 # process used to open file:// URLs
 process-type-file = Lokal fil
+
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Stor allokering
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Isoleret web-indhold
+
 # process preallocated; may change to other types
 process-type-prealloc = Forhånds-allokeret
 
@@ -33,11 +41,14 @@ process-type-prealloc = Forhånds-allokeret
 
 process-type-default = Primær
 process-type-tab = Faneblad
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to perform network operations
 process-type-socket = Socket
+
 # process used to decode media
 process-type-rdd = RDD
 
