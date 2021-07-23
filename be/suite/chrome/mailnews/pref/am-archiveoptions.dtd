@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-archiveoptions.xul -->
+
 <!ENTITY dialogTitle.label "Наладжванні архівацыі">
 <!ENTITY archiveGranularityPrefix.label "Пасля архівацыі змяшчаць лісты ў:">
 <!ENTITY archiveFlat.label "асобную папку">

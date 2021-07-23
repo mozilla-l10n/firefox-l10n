@@ -9,6 +9,7 @@
 <!ENTITY inline.accesskey "У">
 <!ENTITY asAttachment.label "Як далучэнне">
 <!ENTITY asAttachment.accesskey "Д">
+
 <!ENTITY replyQuoteInline.label "Зрабіць вытрымку з бачных унутры далучэнняў у адказах">
 <!ENTITY replyQuoteInline.accesskey "в">
 <!ENTITY warnOnSendAccelKey.label "Сцвердзіць дасыланне ліста, калі яно выклікана клавіятурным выклічнікам ">
@@ -19,6 +20,7 @@
 <!ENTITY wrapOutMsg.label "Загінаць радкі простатэкставых лістоў пасля">
 <!ENTITY wrapOutMsg.accesskey "г">
 <!ENTITY char.label "знакаў">
+
 <!ENTITY defaultMessagesHeader.label "Змоўчкі для HTML лістоў">
 <!ENTITY font.label "Шрыфт:">
 <!ENTITY font.accesskey "Ш">
@@ -28,6 +30,7 @@
 <!ENTITY fontColor.accesskey "Т">
 <!ENTITY bgColor.label "Фон:">
 <!ENTITY bgColor.accesskey "Ф">
+
 <!ENTITY selectHeaderType.label "Выберыце тып загалоўка адказу:">
 <!ENTITY selectHeaderType.accesskey "б">
 <!ENTITY noReplyOption.label "Без загалоўка адказу">

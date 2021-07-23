@@ -26,6 +26,7 @@
 <!ENTITY goToFolderButton.accesskey "п">
 <!ENTITY saveAsVFButton.label "Захаваць як папку пошуку">
 <!ENTITY saveAsVFButton.accesskey "а">
+
 <!ENTITY abSearchHeading.label "Шукаць у:">
 <!ENTITY abSearchHeading.accesskey "Ш">
 <!ENTITY propertiesButton.label "Уласцівасці">

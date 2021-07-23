@@ -7,11 +7,13 @@
 <!ENTITY senderField.label "Адпраўнік:">
 <!ENTITY organizationField.label "Установа:">
 <!ENTITY replyToField.label "Зваротны адрас:">
+
 <!ENTITY subjectField.label "Тэма:">
 <!ENTITY ccField.label "Са:">
 <!ENTITY bccField.label "Сса:">
 <!ENTITY newsgroupsField.label "Навінакупы:">
 <!ENTITY followupToField.label "Водгук-Да: ">
+
 <!ENTITY tagsHdr.label "Меткі:">
 <!ENTITY dateField.label "Дата:">
 <!ENTITY userAgentField.label "Дзеяч-Карыстальніка:">
@@ -19,8 +21,10 @@
 <!ENTITY messageIdField.label "Вызначальнік-Ліста:">
 <!ENTITY inReplyToField.label "У-Адказ-На:">
 <!ENTITY originalWebsite.label "Пляцоўка сеціва:">
+
 <!ENTITY editMessage.label "Правіць чарнавік…">
 <!ENTITY editMessage.accesskey "ч">
+
 <!ENTITY attachmentsTree.label "Далучэнні:">
 <!ENTITY attachmentsTree.accesskey "Д">
 <!ENTITY openAttachmentCmd.label "Адчыніць">

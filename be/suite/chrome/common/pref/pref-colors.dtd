@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from content/pref-colors.xul -->
+
 <!ENTITY pref.colors.title "Колеры">
 <!ENTITY color "Тэкст і фон">
 <!ENTITY textColor.label "Тэкст:">
@@ -10,6 +12,7 @@
 <!ENTITY backgroundColor.accesskey "Ф">
 <!ENTITY useSystemColors.label "Карыстацца сістэмнымі колерамі">
 <!ENTITY useSystemColors.accesskey "с">
+
 <!ENTITY underlineLinks.label "Падкрэсліваць спасылкі">
 <!ENTITY underlineLinks.accesskey "к">
 <!ENTITY links "Колеры спасылак">

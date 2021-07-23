@@ -35,7 +35,6 @@
 <!ENTITY deleteOnServer2.accesskey "д">
 <!ENTITY downloadOnBiff.label "Самастойна загружаць новыя лісты">
 <!ENTITY downloadOnBiff.accesskey "С">
-<!ENTITY username.label "Ваша ўваходнае імя">
 <!ENTITY deleteMessagePrefix.label "Калі я выдаляю ліст:">
 <!ENTITY modelMoveToTrash.label "Перамясціць яго ў гэтую папку:">
 <!ENTITY modelMoveToTrash.accesskey "ў">
@@ -60,7 +59,6 @@
 <!ENTITY abbreviateOn.label "Цэлыя назвы (Напрыклад, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Скарочаныя назвы (Напрыклад, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Пашыраны…">
-<!ENTITY serverDefaultCharset.label "Змоўчная кадоўка знакаў:">
 <!ENTITY advancedButton.accesskey "ш">
 <!ENTITY localPath.label "Мясцовая дырэкторыя:">
 <!ENTITY localFolderPicker.label "Вылучыць мясцовую дырэкторыю">
@@ -68,5 +66,6 @@
 <!ENTITY browseFolder.accesskey "г">
 <!ENTITY browseNewsrc.label "Агляд…">
 <!ENTITY browseNewsrc.accesskey "г">
+
 <!ENTITY accountTitle.label "Наладжванні рахунку">
 <!ENTITY accountSettingsDesc.label "Гэта адмысловы рахунак.  Няма адметаў, злучаных з ім.">

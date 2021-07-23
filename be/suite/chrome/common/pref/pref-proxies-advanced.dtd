@@ -17,6 +17,7 @@
 <!ENTITY HTTPPort.accesskey "П">
 <!ENTITY SSLPort.accesskey "о">
 <!ENTITY FTPPort.accesskey "р">
+
 <!ENTITY socks.caption "Агульны пасярэднік">
 <!ENTITY socks.description "Пасярэднік SOCKS – агульны пасярэднік, які часам ужываецца ў карпаратыўным або падобным асяроддзі.">
 <!ENTITY socks.label "Трымальнік SOCKS:">

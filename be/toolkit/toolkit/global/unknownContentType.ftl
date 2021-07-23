@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Адкрываць у { -brand-short-name }
     .accesskey = у
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

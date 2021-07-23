@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Уласцівасці формы">
+
 <!ENTITY Settings.label "Наладжванні">
+
 <!ENTITY FormName.label "Назва формы:">
 <!ENTITY FormName.accesskey "Н">
 <!ENTITY FormAction.label "URL дзеяння:">
@@ -14,5 +16,6 @@
 <!ENTITY FormEncType.accesskey "К">
 <!ENTITY FormTarget.label "Мэтавая рамка:">
 <!ENTITY FormTarget.accesskey "э">
+
 <!ENTITY RemoveForm.label "Выдаліць форму">
 <!ENTITY RemoveForm.accesskey "д">

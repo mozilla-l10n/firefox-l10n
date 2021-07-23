@@ -5,12 +5,15 @@
 <!ENTITY markAsReadCmd.label "Прачытанымі">
 <!ENTITY markAsReadCmd.accesskey "ч">
 <!ENTITY markAsReadCmd.key "m">
+
 <!ENTITY markFlaggedCmd.label "Сцяжок">
 <!ENTITY markFlaggedCmd.accesskey "С">
 <!ENTITY markFlaggedCmd.key "i">
+
 <!ENTITY openMessageWindowCmd.label "Адчыніць ліст">
 <!ENTITY openMessageWindowCmd.accesskey "А">
 <!ENTITY openMessageWindowCmd.key "o">
+
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">

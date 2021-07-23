@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from content/pref-cache.xul -->
+
 <!ENTITY pref.cache.title "Запаснік">
 <!ENTITY pref.cache.caption "Наладзіць запаснік">
 <!ENTITY cachePara "Запаснік трымае копіі старонак сеціва, якія вы часта наведваеце, на вашым дыску. (Вы заўсёды можаце атрымаць апошнюю версію старонкі, калі пстрыкніце Абнавіць).">
@@ -22,6 +24,8 @@
 <!ENTITY checkEveryTime.label "Кожны раз падчас прагляду старонкі">
 <!ENTITY checkNever.label "Ніколі">
 <!ENTITY checkAutomatically.label "Калі старонка састарэла">
+
 <!ENTITY prefetchTitle.label "Папярэдняе выбіранне спасылак">
 <!ENTITY enablePrefetch.label "Выбіраць старонкі сеціва ў час бяздзейнасці, такім чынам, калі спасылкі ў старонках распрацаваны для выбірання, загрузка адбываецца хутчэй.">
 <!ENTITY enablePrefetch.accesskey "б">
+

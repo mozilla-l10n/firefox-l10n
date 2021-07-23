@@ -18,13 +18,16 @@
 <!ENTITY sidebar.loadstopped.label "Загрузка прыпынена">
 <!ENTITY sidebar.loading.stop.label "Спыніць">
 <!ENTITY sidebar.loading.stop.accesskey "С">
+
 <!ENTITY sidebar.no-panels.state "Палічка зараз пустая.">
 <!ENTITY sidebar.no-panels.add 'Вы можаце дадаць устаўкі калі пстрыкніце па кнопцы "Устаўкі".'>
 <!ENTITY sidebar.no-panels.hide 'Калі вы хочаце схаваць Палічку зусім, пстрыкніце па "Прагляд" у меню ўгары і выберыце "Палічка" ў падменю "Паказаць/Схаваць".'>
 <!ENTITY sidebar.sbDirectory.label "Дырэкторыя Палічкі…">
+
 <!ENTITY sidebar.pagenotfound.label "Гэтая ўстаўка зараз недаступна.">
 <!ENTITY sidebar.close.tooltip "Зачыніць Палічку">
 <!ENTITY sidebar.open.tooltip "Адчыніць Палічку">
+
 <!ENTITY sidebar.search.label "Пошук">
 <!ENTITY sidebar.client-bookmarks.label "Закладкі">
 <!ENTITY sidebar.client-history.label "Гісторыя">

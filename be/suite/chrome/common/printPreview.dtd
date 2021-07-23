@@ -32,6 +32,7 @@
 <!ENTITY Custom.label "Выбарачнае…">
 <!ENTITY ShrinkToFit.label "Сціснуць да шырыні">
 <!ENTITY customPrompt.title "Выбарачнае павялічэнне…">
+
 <!ENTITY homearrow.tooltip "Першая старонка">
 <!ENTITY endarrow.tooltip "Апошняя старонка">
 <!ENTITY rightarrow.tooltip "Наступная старонка">

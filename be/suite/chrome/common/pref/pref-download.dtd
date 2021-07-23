@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.download.title "Загрузкі">
+
 <!ENTITY downloadBehavior.label "Калі пачынаецца загрузка">
 <!ENTITY doNothing.label "Нічога не адчыняць">
 <!ENTITY doNothing.accesskey "Н">
@@ -12,6 +13,7 @@
 <!ENTITY openDM.accesskey "г">
 <!ENTITY flashWhenOpen.label "Толькі бліснуць кіраўніком сцягванняў, калі ён ужо адчынены">
 <!ENTITY flashWhenOpen.accesskey "б">
+
 <!ENTITY downloadLocation.label "Калі файл захоўваецца">
 <!ENTITY saveTo.label "Захоўваць файлы ў">
 <!ENTITY saveTo.accesskey "ў">
@@ -19,17 +21,10 @@
 <!ENTITY chooseDownloadFolder.accesskey "В">
 <!ENTITY alwaysAsk.label "Заўсёды пытаць мяне, дзе захоўваць файлы">
 <!ENTITY alwaysAsk.accesskey "З">
-<!ENTITY downloadHistory.label "Гісторыя загрузак">
-<!ENTITY removeEntries.label "Выдаліць загружаныя адзінкі">
-<!ENTITY removeEntries.accesskey "д">
-<!ENTITY whenCompleted.label "Калі яны скончаны">
-<!ENTITY whenQuittingApp.label "Падчас выхаду з &brandShortName;">
-<!ENTITY neverRemove.label "Ніколі">
+
 <!ENTITY finishedBehavior.label "Калі загрузка здзейснена">
 <!ENTITY playSound.label "Граць гук">
 <!ENTITY playSound.accesskey "г">
-<!ENTITY showAlert.label "Паказаць папярэджанне">
-<!ENTITY showAlert.accesskey "к">
 <!ENTITY browse.label "Агляд…">
 <!ENTITY browse.accesskey "г">
 <!ENTITY playButton.label "Граць">

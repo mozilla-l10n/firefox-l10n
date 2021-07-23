@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY selectAddressWindow.title "Выбраць адрасы">
+
 <!ENTITY toButton.label "Да->">
 <!ENTITY toButton.accesskey "Д">
 <!ENTITY ccButton.label "Са->">
@@ -21,5 +22,6 @@
 <!ENTITY for.accesskey " ">
 <!ENTITY for.placeholder "Імя або э-пошта">
 <!ENTITY addressMessageTo.label "Адрасаваць ліст да:">
+
 <!ENTITY addressPickerNewButton.tooltip "Стварыць новую картку адраснай кнігі">
 <!ENTITY addressPickerEditButton.tooltip "Рэдагаваць вылучаную картку">

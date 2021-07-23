@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Каб захаваць дыскавую прастору, не загружаць:">
 <!ENTITY doNotDownloadNntp.label "Каб захаваць дыскавую прастору, не загружаць для карыстання па-за сеткаю:">
 <!ENTITY doNotDownloadImap.label "Каб захаваць дыскавую прастору, сцягванне лістоў з паслугача і ўтрымліванне мясцовых падвояў для пазасеткавага карыстання можа быць абмежавана па ўзросту або памеру.">
-<!ENTITY allFoldersOffline.label "Захоўваць лісты з гэтага рахунку на гэтым кампутары">
-<!ENTITY allFoldersOffline.accesskey "З">
 <!ENTITY offlineNotDownload.label "Лісты, большыя чым">
 <!ENTITY offlineNotDownload.accesskey "б">
 <!ENTITY autosyncNotDownload.label "Не сцягваць лісты, большыя чым">
@@ -27,7 +25,6 @@
 <!ENTITY retentionKeepAll.accesskey "н">
 <!ENTITY retentionKeepRecent.label "Выдаліць усе, акрамя самых апошніх">
 <!ENTITY retentionKeepRecent.accesskey "у">
-<!ENTITY retentionKeepUnreadHidden.label "Заўсёды выдаляць прачытаныя лісты (пераважвае наладжванні ўзросту)">
 <!ENTITY retentionApplyToFlagged.label "Заўсёды захоўваць лісты з сцяжкамі">
 <!ENTITY retentionApplyToFlagged.accesskey "ў">
 <!ENTITY nntpRemoveMsgBody.label "Выдаліць целы лістоў, якім болей, чым ">
@@ -38,6 +35,7 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "П">
 <!ENTITY syncGroupTitle.label "Сінхранізацыя лістоў">
 <!ENTITY diskspaceGroupTitle.label "Дыскавая прастора">
+
 <!ENTITY allAutosync.label "Сінхранізаваць усе лісты незалежна ад узросту">
 <!ENTITY allAutosync.accesskey "с">
 <!ENTITY ageAutosyncBefore.label "Сінхранізаваць найбольш новыя">

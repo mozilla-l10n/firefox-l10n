@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Інфармацыя пра орган (
 certificate-viewer-certificate-policies = Палітыкі сертыфіката
 certificate-viewer-embedded-scts = Убудаваныя SCT
 certificate-viewer-crl-endpoints = Канцавыя пункты CRL
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Сцягнуць
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (сертыфікат)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (ланцужок)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Гэта пашырэнне пазначана як крытычнае, гэта значыць, што кліенты павінны адхіліць сертыфікат, калі не разумеюць яго.

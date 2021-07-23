@@ -4,6 +4,7 @@
 
 <!ENTITY windowTitle.label "Уласцівасці поля формы">
 <!ENTITY windowTitleImage.label "Уласцівасці выявы формы">
+
 <!ENTITY InputType.label "Тып поля:">
 <!ENTITY InputType.accesskey "Т">
 <!ENTITY text.value "Тэкст">
@@ -16,6 +17,7 @@
 <!ENTITY hidden.value "Схаванае">
 <!ENTITY image.value "Выява">
 <!ENTITY button.value "Кнопка">
+
 <!ENTITY InputSettings.label "Наладжванні поля">
 <!ENTITY InputName.label "Назва поля:">
 <!ENTITY InputName.accesskey "Н">
@@ -43,5 +45,6 @@
 <!ENTITY AccessKey.accesskey "К">
 <!ENTITY Accept.label "Прымальныя тыпы:">
 <!ENTITY Accept.accesskey "т">
+
 <!ENTITY ImageProperties.label "Уласцівасці выявы…">
 <!ENTITY ImageProperties.accesskey "в">

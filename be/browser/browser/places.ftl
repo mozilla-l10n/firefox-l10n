@@ -5,12 +5,12 @@
 places-open =
     .label = Адкрыць
     .accesskey = А
-places-open-in-tab =
-    .label = Адкрыць у новай картцы
-    .accesskey = ц
 places-open-tab =
     .label = Адкрыць у новай картцы
     .accesskey = в
+places-open-in-tab =
+    .label = Адкрыць у новай картцы
+    .accesskey = ц
 places-open-all-bookmarks =
     .label = Адкрыць усе закладкі
     .accesskey = з
@@ -20,15 +20,10 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Адкрыць у новым акне
     .accesskey = н
-places-open-in-window =
-    .label = Адкрыць у новым акне
-    .accesskey = н
 places-open-private-window =
     .label = Адкрыць у новым прыватным акне
     .accesskey = п
-places-open-in-private-window =
-    .label = Адкрыць у новым прыватным акне
-    .accesskey = п
+
 places-new-bookmark =
     .label = Новая закладка…
     .accesskey = Н
@@ -41,6 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = Новы межнік
     .accesskey = м
+
+places-open-in-window =
+    .label = Адкрыць у новым акне
+    .accesskey = н
+places-open-in-private-window =
+    .label = Адкрыць у новым прыватным акне
+    .accesskey = п
+
 places-add-bookmark =
     .label = Дадаць закладку…
     .accesskey = з
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = Дадаць межнік
     .accesskey = Д
+
 places-view =
     .label = Прагляд
     .accesskey = г
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Па даце і сайце
     .accesskey = і
+
 places-history-search =
     .placeholder = Шукаць у гісторыі
 places-bookmarks-search =
     .placeholder = Шукаць у закладках
+
 places-delete-domain-data =
     .label = Забыць гэты сайт
     .accesskey = З
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = Уласцівасці
     .accesskey = У
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Рэдагаваць закладку…
@@ -103,15 +110,18 @@ places-remove-folder =
            *[many] Выдаліць папкі
         }
     .accesskey = ь
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Кіраваныя закладкі
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Укладзеная папка
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Іншыя закладкі
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -123,6 +133,7 @@ places-remove-bookmark =
            *[many] Выдаліць закладкі
         }
     .accesskey = В
+
 places-manage-bookmarks =
     .label = Кіраванне закладкамі
     .accesskey = К

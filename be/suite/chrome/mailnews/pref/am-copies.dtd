@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-copies.xul -->
+
 <!ENTITY copyAndFolderTitle.label "Копіі і папкі">
 <!ENTITY sendingPrefix.label "Калі дасылаюцца лісты:">
 <!ENTITY fccMailFolder.label "Самастойна змясціць копію ў:">
@@ -30,7 +32,6 @@
 <!ENTITY archiveInOtherFolder.label "Іншай:">
 <!ENTITY archiveInOtherFolder.accesskey "І">
 <!ENTITY specialFolders.label "Чарнавікі і Ўзоры">
-<!ENTITY keepDrafts.label "Трымаць чарнавікі лістоў у:">
 <!ENTITY draftsFolderOn.label "Папцы &quot;Чарнавікі&quot; ў:">
 <!ENTITY draftsFolderOn.accesskey "Ч">
 <!ENTITY draftInOtherFolder.label "Іншай:">

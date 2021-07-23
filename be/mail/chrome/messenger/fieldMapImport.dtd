@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fieldMapImport.title "Імпарт адраснай кнігі">
+
 <!ENTITY fieldMapImport.size "width: 47em; height: 35em;">
 <!ENTITY fieldMapImport.recordNumber "Імпартаваныя даныя запісу:">
 <!ENTITY fieldMapImport.next.label "Наступнае">

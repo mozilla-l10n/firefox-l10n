@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Начынне WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = захаваць about:webrtc як
@@ -75,10 +76,12 @@ about-webrtc-type-remote = Аддалены
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Намінавана
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Выбрана
+
 about-webrtc-save-page-label = Захаваць старонку
 about-webrtc-debug-mode-msg-label = Рэжым адладкі
 about-webrtc-debug-mode-off-state-label = Увайсці ў рэжым адладкі
@@ -144,26 +147,36 @@ about-webrtc-remote-send-ssrc = Аддалены адпраўны SSRC
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Нададзена
+
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Не нададзена
+
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Карыстальніцкія налады WebRTC
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Разліковая прапускная здольнасць
+
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Ідэнтыфікатар трэка
+
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Прапускная здольнасць адпраўкі (байт/сек)
+
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Прапускная здольнасць прыёму (байт/сек)
+
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Максімальнае запаўненне (байт/сек)
+
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Затрымка між пакетамі, мс
+
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT, мс
+
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -191,6 +204,7 @@ about-webrtc-received-label =
         [few] Атрымана { $packets } пакеты
        *[many] Атрымана { $packets } пакетаў
     }
+
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -200,6 +214,7 @@ about-webrtc-lost-label =
         [few] Страчана { $packets } пакеты
        *[many] Страчана { $packets } пакетаў
     }
+
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -209,11 +224,13 @@ about-webrtc-sent-label =
         [few] Адпраўлена { $packets } пакеты
        *[many] Адпраўлена { $packets } пакетаў
     }
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Джытэр { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -226,10 +243,12 @@ about-webrtc-trickle-caption-msg = Нацечныя кандыдаты (якія
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Усталяваць Лакальны SDP пры адзнацы часу { NUMBER($timestamp, useGrouping: "false") }
+
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Усталяваць Аддалены SDP пры адзнацы часу { NUMBER($timestamp, useGrouping: "false") }
+
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.

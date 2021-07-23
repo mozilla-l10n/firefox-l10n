@@ -9,8 +9,6 @@
 <!ENTITY usingSubscription.accesskey "ц">
 <!ENTITY dualUseFolders.label "Паслугач падтрымлівае папкі, якія змяшчаюць падпапкі і лісты">
 <!ENTITY dualUseFolders.accesskey "п">
-<!ENTITY useIdle.label "Ужываць загад IDLE (бяздзейнасць), калі паслугач падтрымлівае яго">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Найбольшы лік злучэнняў паслугача з запаснікам">
 <!ENTITY maximumConnectionsNumber.accesskey "а">
 <!ENTITY namespaceDesc.label "Гэтыя перавагі вызначаюць назвапрасторы на вашым паслугачы IMAP">
@@ -22,9 +20,6 @@
 <!ENTITY otherUsersNamespace.accesskey "І">
 <!ENTITY overrideNamespaces.label "Дазволіць паслугачу адхіляць гэтыя назвапрасторы">
 <!ENTITY overrideNamespaces.accesskey "Д">
-<!ENTITY pop3Desc.label "Калі пошта загружаецца з гэтага pop-паслугача, карыстацца наступнаю папкаю для новай пошты:">
-<!ENTITY accountDirectory.label "Папка Атрыманыя для рахунку гэтага паслугача">
-<!ENTITY accountDirectory.accesskey "п">
 <!ENTITY deferToServer.label "Папка Атрыманыя іншага рахунку">
 <!ENTITY deferToServer.accesskey "і">
 <!ENTITY deferGetNewMail.label "Уключаць гэты паслугач падчас атрымання новай пошты">

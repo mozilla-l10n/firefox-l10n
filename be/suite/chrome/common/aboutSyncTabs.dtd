@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabs.otherComputers.label "Устаўкі з іншых кампутараў">
+
 <!ENTITY tabs.searchText.label "Набярыце тэкст для шукання ўставак тут…">
+
 <!ENTITY tabs.context.openTab.label "Адчыніць гэтую ўстаўку">
 <!ENTITY tabs.context.openTab.accesskey "А">
 <!ENTITY tabs.context.openMultipleTabs.label "Адчыніць вылучаныя ўстаўкі">

@@ -14,13 +14,14 @@
 <!ENTITY newIM.label "ВМП">
 <!ENTITY printContactViewCmd.label "Друкаваць сувязь…">
 <!ENTITY printContactViewCmd.accesskey "Д">
+<!ENTITY printContactViewCmd.key "P">
 <!ENTITY printPreviewContactViewCmd.label "Перадпрагляд друку сувязі">
 <!ENTITY printPreviewContactViewCmd.accesskey "г">
-<!ENTITY printContactViewCmd.key "P">
 <!ENTITY printAddressBook.label "Надрукаваць адрасную кнігу…">
 <!ENTITY printAddressBook.accesskey "А">
 <!ENTITY printPreviewAddressBook.label "Перадпрагляд адраснай кнігі">
 <!ENTITY printPreviewAddressBook.accesskey "К">
+
 <!ENTITY deleteAbCmd.label "Выдаліць адрасную кнігу">
 <!ENTITY deleteContactCmd.label "Выдаліць сувязь">
 <!ENTITY deleteContactsCmd.label "Выдаліць вылучаныя сувязі">
@@ -32,6 +33,7 @@
 <!ENTITY propertiesCmd.label "Уласцівасці…">
 <!ENTITY propertiesCmd.accesskey "і">
 <!ENTITY propertiesCmd.key "i">
+
 <!ENTITY showAbToolbarCmd.label "Паліца прыладаў адраснай кнігі">
 <!ENTITY showAbToolbarCmd.accesskey "р">
 <!ENTITY layoutMenu.label "Раскладка">
@@ -48,10 +50,12 @@
 <!ENTITY lastFirstCmd.accesskey "П">
 <!ENTITY displayNameCmd.label "Адлюстроўнае імя">
 <!ENTITY displayNameCmd.accesskey "А">
+
 <!ENTITY importCmd.label "Імпарт…">
 <!ENTITY importCmd.accesskey "І">
 <!ENTITY exportCmd.label "Экспарт…">
 <!ENTITY exportCmd.accesskey "Э">
+
 <!ENTITY newContactButton.label "Новая сувязь">
 <!ENTITY newContactButton.accesskey "с">
 <!ENTITY newlistButton.label "Новы спіс">
@@ -66,6 +70,7 @@
 <!ENTITY newimButton.accesskey "м">
 <!ENTITY searchNameAndEmail.placeholder "Пошук імяў і э-адрасоў">
 <!ENTITY searchBox.title "Пошук">
+
 <!ENTITY addressbookToolbar.tooltip "Паліца прыладаў адраснай кнігі">
 <!ENTITY newContactButton.tooltip "Стварыць новую сувязь у адраснай кнізе">
 <!ENTITY newlistButton.tooltip "Стварыць новы спіс">
@@ -73,9 +78,11 @@
 <!ENTITY newmsgButton.tooltip "Даслаць паштовы ліст">
 <!ENTITY newIM.tooltip "Даслаць вокамгненнае паведамленне ці распачаць гутарку">
 <!ENTITY deleteItemButton.tooltip "Выдаліць вылучаную адзінку">
-<!ENTITY throbber.tooltip "Пайсці на хатнюю старонку &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Пашыраны пошук адрасоў">
+
 <!ENTITY dirTreeHeader.label "Адрасныя кнігі">
+
+<!-- Card Summary Pane -->
 <!ENTITY contact.heading "Сувязь">
 <!ENTITY home.heading "Пачатак">
 <!ENTITY other.heading "Іншае">
@@ -85,5 +92,8 @@
 <!ENTITY addresses.heading "Адрасы">
 <!ENTITY mapItButton.label "Атрымаць мапу">
 <!ENTITY mapIt.tooltip "Адлюстроўваць мапу гэтага адраса з Сеціва">
+
 <!ENTITY statusText.label "">
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY hideSwapFnLnUI "false">

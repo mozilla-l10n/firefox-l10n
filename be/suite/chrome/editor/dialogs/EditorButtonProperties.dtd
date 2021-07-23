@@ -3,12 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Уласцівасці кнопкі">
+
 <!ENTITY Settings.label "Наладжванні">
+
 <!ENTITY ButtonType.label "Тып">
 <!ENTITY ButtonType.accesskey "Т">
 <!ENTITY submit.value "Падача">
 <!ENTITY reset.value "Узнавіць">
 <!ENTITY button.value "Кнопка">
+
 <!ENTITY ButtonName.label "Назва:">
 <!ENTITY ButtonName.accesskey "Н">
 <!ENTITY ButtonValue.label "Значэнне:">
@@ -19,5 +22,6 @@
 <!ENTITY ButtonDisabled.accesskey "З">
 <!ENTITY AccessKey.label "Клавіша доступу:">
 <!ENTITY AccessKey.accesskey "К">
+
 <!ENTITY RemoveButton.label "Выдаліць кнопку">
 <!ENTITY RemoveButton.accesskey "д">
