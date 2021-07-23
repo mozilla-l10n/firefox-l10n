@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Стартувај во безбеден режим
+
 refresh-profile =
     .label = Освежи { -brand-short-name }
 safe-mode-description =

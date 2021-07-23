@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Освежи { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Освежи го { -brand-short-name }
 refresh-profile-description = Започнете одново за да ги решите проблемите и да ја вратите брзината.

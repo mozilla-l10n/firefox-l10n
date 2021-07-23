@@ -5,6 +5,7 @@
 screenshots-context-menu = Фати слика
 
 screenshots-my-shots-button = Мои слики
+
 screenshots-instructions = Влечете и кликнете на страницата за да означите регион. Притиснете ESC за да се откажете.
 screenshots-cancel-button = Откажи
 screenshots-save-visible-button = Сними видлив дел

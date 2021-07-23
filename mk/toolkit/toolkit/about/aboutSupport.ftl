@@ -98,3 +98,7 @@ drag-enabled = влечење на лизгач овозможено
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

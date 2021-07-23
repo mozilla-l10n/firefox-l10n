@@ -23,6 +23,7 @@ appmenuitem-zoom-enlarge =
     .label = Зголеми
 appmenuitem-zoom-reduce =
     .label = Намали
+
 appmenuitem-fullscreen =
     .label = На цел екран
 
@@ -30,6 +31,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронизирај сега
+
 appmenuitem-save-page =
     .label = Сними страница како…
 

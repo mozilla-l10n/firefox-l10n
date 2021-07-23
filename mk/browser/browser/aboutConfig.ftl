@@ -14,8 +14,11 @@ about-config-intro-warning-button = Прифати го ризикот и про
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Промената на овие преференции може да влијае на перформансите или безбедноста на { -brand-short-name }.
+
 about-config-page-title = Напредни поставки
+
 about-config-show-all = Прикажи сѐ
+
 about-config-pref-add-button =
     .title = Додај
 about-config-pref-toggle-button =

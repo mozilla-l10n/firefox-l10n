@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Преземи го од Google Play
 login-app-promo-apple =
     .alt = Преземете од App Store
+
 login-filter =
     .placeholder = Пребарај најави
+
 create-login-button = Креирај нова најава
+
 fxaccounts-sign-in-text = Добијте ги вашите лозинки на други уреди
 fxaccounts-sign-in-button = Најавете се на { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Пријавете се за синхронизација
@@ -70,7 +73,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Барате зачувани најавувања? Поставете { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = Барате зачувани најавувања? Поставете { -sync-brand-short-name } или Увезете ги.
+
 about-logins-login-intro-heading-logged-out2 = Барате зачувани најавувања? Вклучете ја синхронизацијата или увезете ги.
 about-logins-login-intro-heading-logged-in = Не се пронајдени синхронизирани најавувања.
 login-intro-description = Ако ги зачувавте најавувањата на { -brand-product-name } на друг уред, еве како да ги добиете тука:
@@ -80,6 +83,7 @@ about-logins-intro-instruction-help = Посетете ја <a data-l10n-name="h
 login-intro-instructions-fxa = Создадете или најавете се на вашето име { -fxaccount-brand-name } на уредот каде што се зачувуваат вашите најавувања.
 login-intro-instructions-fxa-settings = Одете во Поставки> Синхронизација> Вклучете ја синхронизацијата… Изберете го полето за избор Најави и лозинки.
 login-intro-instructions-fxa-help = Посетете ја <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Поддршка </a> за повеќе помош.
+
 about-logins-intro-import2 = Ако вашите најавувања се зачувани надвор од { -brand-product-name }, можете да <a data-l10n-name="import-browser-link">ги увезете од друг прелистувач</a> или <a data-l10n-name="import-file-link">од датотека</a>
 
 ## Login
@@ -117,11 +121,13 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = уредувајте ја зачуваната најава
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = За да ја видите вашата лозинка, внесете ги податоците за најава на Windows. Ова помага да се заштити безбедноста на вашите сметки.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = откријте ја зачуваната лозинка
+
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копирајте ја зачуваната лозинка
@@ -150,8 +156,10 @@ enable-password-sync-preferences-button =
 confirmation-dialog-cancel-button = Откажи
 confirmation-dialog-dismiss-button =
     .title = Откажи
+
 confirm-delete-dialog-message = Ова дејство не може да се врати.
 about-logins-confirm-remove-dialog-confirm-button = Отстрани
+
 confirm-discard-changes-dialog-title = Отфрли незачувани измени?
 confirm-discard-changes-dialog-message = Сите незачувани промени ќе бидат изгубени.
 confirm-discard-changes-dialog-confirm-button = Отфрли

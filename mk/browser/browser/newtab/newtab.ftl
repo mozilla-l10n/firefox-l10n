@@ -15,7 +15,9 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Барај
     .aria-label = Барај
+
 newtab-search-box-search-the-web-text = Пребарајте на Интернет
+
 newtab-search-box-search-the-web-input =
     .placeholder = Пребарајте на Интернет
     .title = Пребарајте на Интернет
@@ -29,10 +31,12 @@ newtab-topsites-edit-topsites-header = Уреди врвно мрежно мес
 newtab-topsites-title-label = Наслов
 newtab-topsites-title-input =
     .placeholder = Внесете наслов
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Внесете или вметнете URL
 newtab-topsites-url-validation = Потребен е валиден URL
+
 newtab-topsites-use-image-link = Користи сопствена слика…
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -58,6 +62,7 @@ newtab-confirm-delete-history-p2 = Ова дејство не може да се
 newtab-menu-section-tooltip =
     .title = Отвори мени
     .aria-label = Отвори мени
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -141,10 +146,12 @@ newtab-section-header-pocket = Препорачано од { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Започнете со прелистување и ние овде ќе ви прикажеме некои од одличните написи, видеа и други страници што неодамна сте ги поселите или обележале.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Имате видено сѐ! Навратете се подоцна за нови содржини од { $provider }. Не можете да чекате? Изберете популарна тема и откријте уште одлични содржини ширум Интернет.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Отвори мени">
+
 <!ENTITY navbarOverflow.label                "Повеќе алатки...">
 
 
@@ -121,18 +122,22 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "П">
 
 <!ENTITY historyMenu.label "Историја">
+
 <!ENTITY historyUndoMenu.label "Скоро-затворени јазичиња">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Скоро-затворени прозорци">
 
 <!ENTITY appMenuHistory.showAll.label "Прикажи ја сета историја">
+
 <!ENTITY appMenuHistory.clearRecent.label "Исчисти ја скорешната историја…">
 <!ENTITY appMenuHistory.restoreSession.label "Врати претходна сесија">
 <!ENTITY appMenuHistory.viewSidebar.label "Прикажи странична лента со историја">
 <!ENTITY appMenuHistory.recentHistory.label "Скорешна историја на прелистување">
+
 <!ENTITY appMenuHelp.label "Помош">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизирани јазичиња">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Нема отворени јазичиња">

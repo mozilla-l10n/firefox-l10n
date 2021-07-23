@@ -28,6 +28,8 @@ appmenu-update-restart-message = По краткотрајното рестар�
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Во ред, разбрав
     .buttonaccesskey = о
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дозволете оваа наставка да работи во приватни прозорчиња
     .accesskey = А
+    

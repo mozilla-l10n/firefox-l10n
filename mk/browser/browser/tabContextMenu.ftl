@@ -24,8 +24,10 @@ move-to-new-window =
     .label = Премести во нов прозорец
     .accesskey = П
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Затвори јазиче
     .accesskey = З
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
