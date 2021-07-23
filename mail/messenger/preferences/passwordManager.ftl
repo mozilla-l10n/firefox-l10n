@@ -55,9 +55,11 @@ import =
 close-button =
     .label = Serrar
     .accesskey = e
+
 password-close-button =
     .label = Serrar
     .accesskey = S
+
 show-passwords =
     .label = Mussar ils pleds-clav
     .accesskey = M
@@ -80,10 +82,12 @@ no-master-password-prompt = Vuls ti propi laschar mussar tes pleds-clav?
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Verifitgescha tia identitad per laschar mussar ils pleds-clav memorisads.
+
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = mussar ils pleds-clav memorisads
+
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }

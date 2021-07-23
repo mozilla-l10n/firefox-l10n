@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Participar al chat
+
 chat-left-chat-icon2 =
     .alt = Ha bandunà il chat
+
 chat-participant-owner-role-icon2 =
     .alt = Possessur
+
 chat-participant-administrator-role-icon2 =
     .alt = Administratur
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderatur
+
 chat-participant-voiced-role-icon2 =
     .alt = Il participant po trametter messadis

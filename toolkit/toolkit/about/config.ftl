@@ -14,11 +14,15 @@ about-config-intro-warning-button = Acceptar la ristga e cuntinuar
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = La modificaziun da questas preferenzas po cumprometter la prestaziun u la segirezza da { -brand-short-name }.
+
 about-config-page-title = Preferenzas avanzadas
+
 about-config-search-input1 =
     .placeholder = Tschertgar in num dad ina preferenza
 about-config-show-all = Mussar tut
+
 about-config-show-only-modified = Mussar mo preferenzas modifitgadas
+
 about-config-pref-add-button =
     .title = Agiuntar
 about-config-pref-toggle-button =

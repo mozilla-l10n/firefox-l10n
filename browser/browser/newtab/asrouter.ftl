@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Emprova quai: Fixar quest tab
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pertge ves jau quai
+
 cfr-doorhanger-extension-cancel-button = Betg ussa
     .accesskey = B
+
 cfr-doorhanger-extension-ok-button = Agiuntar ussa
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Fixar quest tab
     .accesskey = F
+
 cfr-doorhanger-extension-manage-settings-button = Administrar ils parameters da recumandaziun
     .accesskey = A
+
 cfr-doorhanger-extension-never-show-recommendation = Betg ma mussar questa recumandaziun
     .accesskey = B
+
 cfr-doorhanger-extension-learn-more-link = Ulteriuras infurmaziuns
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = da { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recumandaziun
 cfr-doorhanger-extension-notification2 = Recumandaziun
     .tooltiptext = Recumandaziun dad extensiun
     .a11y-announcement = Ina recumandaziun per ina extensiun è disponibla
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recumandaziun
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utilisader
        *[other] { $total } utilisaders
     }
+
 cfr-doorhanger-pintab-description = Acceda a moda simpla a las paginas che ti visitas il pli savens. Las tegna avert en in tab (schizunt suenter avair reavià).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Acceda a moda simpla a las paginas che ti vi
 cfr-doorhanger-pintab-step1 = <b>Clicca cun la tasta dretga da la mieur</b> sin il tab che ti vuls fixar.
 cfr-doorhanger-pintab-step2 = Tscherna <b>Fixar il tab</b> en il menu.
 cfr-doorhanger-pintab-step3 = Sche la pagina è vegnida actualisada vesas ti in punct blau sin il tab fixà.
+
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Cuntinuar
+
 
 ## Firefox Accounts Message
 
@@ -89,16 +100,22 @@ cfr-protections-panel-link-text = Ulteriuras infurmaziuns
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova funcziunalitad:
+
 cfr-whatsnew-button =
     .label = Novaziuns
     .tooltiptext = Novaziuns
+
 cfr-whatsnew-panel-header = Novaziuns
+
 cfr-whatsnew-release-notes-link-text = Leger las notizias davart la versiun
+
 cfr-whatsnew-fx70-title = { -brand-short-name } cumbatta ussa anc pli ferm per tia sfera privata
 cfr-whatsnew-fx70-body = L'ultima actualisaziun augmenta la funcziun da protecziun cunter il fastizar e ta gida da crear a moda simpla pleds-clav segirs per mintga website.
+
 cfr-whatsnew-tracking-protect-title = Ta protegia dals fastizaders
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } blochescha blers fastizaders socials ed interpaginals frequents che registreschan tias activitads online.
 cfr-whatsnew-tracking-protect-link-text = Vesair tes rapport
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -109,9 +126,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Dapi { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Vesair il rapport
+
 cfr-whatsnew-lockwise-backup-title = Segirescha tes pleds-clav
 cfr-whatsnew-lockwise-backup-body = Generescha ussa pleds-clav segirs als quals ti pos acceder cun mintga apparat connectà cun tes conto.
 cfr-whatsnew-lockwise-backup-link-text = Activescha copias da segirezza
+
 cfr-whatsnew-lockwise-take-title = Prenda tes pleds-clav cun tai
 cfr-whatsnew-lockwise-take-body = L'app mobila { -lockwise-brand-short-name } ta permetta dad acceder a moda segira als pleds-clav memorisads, nua ch'i saja.
 cfr-whatsnew-lockwise-take-link-text = Ir per l'app
@@ -148,6 +167,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Bloccà improntaders
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blochescha blers improntaders (fingerprinters) che rimnan adascus infurmaziuns davart tes apparat e tias acziuns per crear in profil da reclama da tai.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Improntaders
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } po bloccar improntaders (fingerprinters) che rimnan adascus infurmaziuns davart tes apparat e tias acziuns per crear in profil da reclama da tai.
@@ -206,6 +226,7 @@ cfr-doorhanger-milestone-heading =
         [one] { -brand-short-name } ha bloccà passa <b>{ $blockedCount }</b> fastizader dapi { $date }!
        *[other] { -brand-short-name } ha bloccà passa <b>{ $blockedCount }</b> fastizaders dapi { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -240,12 +261,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icona da maletg-en-maletg
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Serrar
-    .accesskey = S
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Las mesiras da protecziun en in sguard
 cfr-whatsnew-protections-body = La survista da las protecziuns includa infurmaziuns davart sperditas da datas e l'administraziun da pleds-clav. Ti pos ussa persequitar quants problems en connex cun sperditas da datas che ti has schlià e vesair sche ti has anc pleds-clav memorisads ch'èn pertutgads da sperditas da datas.
 cfr-whatsnew-protections-cta-link = Mussar la survista da las protecziuns
@@ -255,6 +270,12 @@ cfr-whatsnew-protections-icon-alt = Icona dal scut
 
 cfr-whatsnew-better-pdf-header = Meglra experientscha en connex cun PDFs
 cfr-whatsnew-better-pdf-body = PDFs vegnan ussa averts direct en { -brand-short-name } per betg cumplitgar tes process da lavur.
+
+cfr-doorhanger-milestone-close-button = Serrar
+    .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -276,35 +297,15 @@ cfr-doorhanger-fission-secondary-button = Ulteriuras infurmaziuns
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Protecziun automatica cunter tacticas malignas da fastizar
-cfr-whatsnew-clear-cookies-body = Tscherts fastizaders ta renvieschan ad autras websites che deponan cookies a moda secreta. { -brand-short-name } stizza ussa automaticamain quests cookies per ch'els na ta suondian betg.
-cfr-whatsnew-clear-cookies-image-alt = Illustraziun dad in cookie bloccà
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Dapli controllas per multimedia
-cfr-whatsnew-media-keys-body = Fa ir e fa pussar audio u video directamain cun la tastatura u cun ils uregliers. Quai ta pussibilitescha da controllar multimedia era sche ti ta chattas en in auter tab, program u perfin sch'il computer è bloccà. Ti pos era midar il toc cun agid da las tastas «enavant» ed «enavos».
-cfr-whatsnew-media-keys-button = Vegnir a savair co
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Scursanidas da tschertga en la trav d'adressas
-cfr-whatsnew-search-shortcuts-body = Da nov cumpara ina scursanida blaua en las propostas da tschertgar sche ti tippas il num dad ina maschina da tschertgar u in'adressa specifica en la trav d'adressas. Tscherna questa scursanida per tschertgar directamain en la trav d'adressas.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Protecziun cunter supercookies malvulents
-cfr-whatsnew-supercookies-body = Websites pon deponer a la zuppada in «supercookie» en tes navigatur che ta persequitescha en il web – perfin suenter avair stizzà tes cookies. { -brand-short-name } porscha ussa ina ferma protecziun cunter supercookies per ch'els na possian betg servir per ta fastizar dad ina website a la proxima.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Administraziun da segnapaginas optimada
-cfr-whatsnew-bookmarking-body = Igl è pli simpel da tegnair en egl tias websites preferidas. { -brand-short-name } tegna ussa endament tes ordinatur preferì per segnapaginas memorisads, mussa gia en la configuraziun da standard la trav da segnapaginas en novs tabs e ta porscha in access simpel al rest da tes segnapaginas via in ordinatur en la trav d'utensils.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Protecziun cumpletta cunter fastizaders da cookies interpaginals
-cfr-whatsnew-cross-site-tracking-body = Ti pos ussa tscherner ina protecziun avanzada cunter fastizaders da cookies. { -brand-short-name } po isolar tias activitads e datas da la website che ti visitas gist per che las infurmaziuns memorisadas en il navigatur na vegnian betg cundividas tranter differentas websites.
 
 ## Full Video Support CFR message
 

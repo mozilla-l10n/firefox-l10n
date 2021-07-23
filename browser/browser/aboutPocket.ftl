@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Agiuntar tags
+
 pocket-panel-saved-error-generic = Ina errur è succedida durant empruvar da memorisar en { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Tags èn limitads a 25 caracters
 pocket-panel-saved-error-only-links = Mo colliaziuns pon vegnir memorisadas

@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Predefinì ({ $name })
 fonts-label-default-unnamed =
     .label = Predefinì
+
 fonts-encoding-dialog-title =
     .title = Scrittiras & codaziuns
+
 fonts-language-legend =
     .value = Scrittiras per:
     .accesskey = t
+
 fonts-proportional-label =
     .value = Proporziunal:
     .accesskey = P
@@ -85,38 +89,49 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Cun serifas
+
 default-font-sans-serif =
     .label = Senza serifas
+
 font-size-label =
     .value = Grondezza
     .accesskey = e
+
 font-size-proportional-label =
     .value = Grondezza:
     .accesskey = e
+
 font-size-monospace-label =
     .value = Grondezza
     .accesskey = i
+
 font-serif-label =
     .value = Cun serifas:
     .accesskey = s
+
 font-sans-serif-label =
     .value = Senza serifas
     .accesskey = n
+
 font-monospace-label =
     .value = Largezza fixa:
     .accesskey = L
+
 font-min-size-label =
     .value = Grondezza minimala da la scrittira:
     .accesskey = z
+
 min-size-none =
     .label = Nagina
 
 ## Fonts in message
 
 font-control-legend = Controlla da scrittiras
+
 use-document-fonts-checkbox =
     .label = Permetter als messadis dad utilisar autras scrittiras
     .accesskey = a
+
 use-fixed-width-plain-checkbox =
     .label = Utilisar scrittiras a largezza fixa per messadis da text senza formataziun
     .accesskey = x
@@ -124,13 +139,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Codaziun dal text
+
 text-encoding-description = Codaziun da text predefinida per retschaiver e trametter e-mails
+
 font-outgoing-email-label =
     .value = E-mails che sortan:
     .accesskey = m
+
 font-incoming-email-label =
     .value = E-mails che entran:
     .accesskey = I
+
 default-font-reply-checkbox =
     .label = Utilisar per respostas sche pussaivel la codaziun da text predefinida
     .accesskey = h
