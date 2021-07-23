@@ -5,6 +5,7 @@
 screenshots-context-menu = از صفحه عکس بگیرید
 
 screenshots-my-shots-button = عکس‌های من
+
 screenshots-instructions = با کشیدن یا کلیک کردن روی صفحه یک منطقه را انتخاب کنید. برای لغو، ESC را فشار دهید.
 screenshots-cancel-button = لغو
 screenshots-save-visible-button = ذخیره ناحیه قابل مشاهده

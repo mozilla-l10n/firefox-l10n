@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC داخلی
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = ذخیره about:webrtc به عنوان
@@ -56,13 +57,7 @@ about-webrtc-ice-pair-bytes-sent = بایت‌‌های ارسال شده:
 about-webrtc-ice-pair-bytes-received = بایت‌های دریافت شده:
 about-webrtc-ice-component-id = نشانگر مولفه
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -74,13 +69,16 @@ about-webrtc-type-remote = از راه دور
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = منصوب
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = انتخاب شده
+
 about-webrtc-save-page-label = ذخیره صفحه
 about-webrtc-debug-mode-msg-label = حالت اشکال زدایی
 about-webrtc-debug-mode-off-state-label = شروع حالت اشکال زدایی
@@ -106,6 +104,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (بست�
 
 ##
 
+
 about-webrtc-local-candidate = نامزد محلی
 about-webrtc-remote-candidate = کاندیدای از راه دور
 about-webrtc-raw-candidates-heading = تمام کاندیدای خام
@@ -128,7 +127,6 @@ about-webrtc-encoder-label = کد‌بند
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -141,11 +139,14 @@ about-webrtc-aec-logging-off-state-msg = پرونده های ضبط شده را 
 
 ##
 
+##
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -156,4 +157,7 @@ about-webrtc-trickle-caption-msg = کاندیدای انتخاب شده ( بعد
 
 
 ##
+
+##
+
 

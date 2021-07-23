@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = بازآوری { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = بازآوری { -brand-short-name }
 refresh-profile-description = برای حل مشکلات و بازیابی کارایی، فایرفاکس را نوسازی کنید.

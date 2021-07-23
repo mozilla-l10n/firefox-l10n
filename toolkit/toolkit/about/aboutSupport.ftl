@@ -328,3 +328,8 @@ touch-warning = ورودی همگام لمسی به دلیل عدم پشتیبا
 policies-inactive = غیر فعال
 policies-active = فعال
 policies-error = خطا
+
+## Printing section
+
+## Normandy sections
+

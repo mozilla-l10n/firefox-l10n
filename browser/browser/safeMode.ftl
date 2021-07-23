@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = شروع در حالت ایمن
+
 refresh-profile =
     .label = راه‌اندازی مجدد { -brand-short-name }
 safe-mode-description = حالت ایمن یک حالت ویژه برای { -brand-short-name } است که از آن برای رفع مشکلات استفاده میشود.

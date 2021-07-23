@@ -129,6 +129,8 @@ security-site-data-only = بله، { $value }{ $unit } از اطلاعات پا�
 security-site-data-cookies-only = بله، کوکی‌ها
 security-site-data-no = خیر
 
+##
+
 image-size-unknown = نامعلوم
 page-info-not-specified =
     .value = نامشخص

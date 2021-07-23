@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = افزودن برچسب
+
 pocket-panel-saved-error-generic = خطایی در هنگام تلاش برای ذخیره‌سازی در { -pocket-brand-name } رخ داده است.
 pocket-panel-saved-error-tag-length = برچسب‌ها شامل محدودیت ۲۵ حرفی می‌باشند
 pocket-panel-saved-error-only-links = تنها لینک‌ها می توانند ذخیره شوند
