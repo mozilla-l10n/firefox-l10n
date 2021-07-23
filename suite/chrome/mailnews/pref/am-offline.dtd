@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Ta cabidar espacio en disco, no descargar:">
 <!ENTITY doNotDownloadNntp.label "Ta cabidar espacio en disco, no descargar t'o suyo uso sin connexión:">
 <!ENTITY doNotDownloadImap.label "Ta cabidar espacio en disco, la descarga de mensaches d'o servidor y o suyo almacenamiento local ta uso sin connexión puede restrinchir por antiguidat u grandaria.">
-<!ENTITY allFoldersOffline.label "Conservar mensaches d'ista cuenta en este equipo">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Mensaches mayors de">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "No descargar mensaches mayores de">
@@ -27,8 +25,6 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Eliminar totz yxcepto os mas recients">
 <!ENTITY retentionKeepRecent.accesskey "x">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Eliminar siempre mensaches leitos (prevale sobre a configuración d'antiguidat)">
 <!ENTITY retentionApplyToFlagged.label "Conservar siempre mensaches sinyalaus">
 <!ENTITY retentionApplyToFlagged.accesskey "C">
 <!ENTITY nntpRemoveMsgBody.label "Oiminar o cuerpo d'os mensaches de mas de">

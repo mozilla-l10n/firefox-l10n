@@ -28,8 +28,6 @@
 <!ENTITY HomePhone.accesskey                   "i">
 <!ENTITY WorkPhone.label                       "Telefono d'o treballo">
 <!ENTITY WorkPhone.accesskey                   "T">
-<!ENTITY ScreenName.label                      "Nombre en pantalla">
-<!ENTITY ScreenName.accesskey                  "p">
 <!ENTITY sortAscending.label                   "Ascendent">
 <!ENTITY sortAscending.accesskey               "A">
 <!ENTITY sortDescending.label                  "Descendente">

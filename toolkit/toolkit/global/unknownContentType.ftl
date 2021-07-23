@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Ubrir con { -brand-short-name }
     .accesskey = U
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

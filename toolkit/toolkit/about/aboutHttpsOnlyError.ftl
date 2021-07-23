@@ -3,9 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-insecure-title = A connexión segura no ye disponible
+
 about-httpsonly-button-make-exception = Acceptar lo risgo y continar enta lo puesto
-about-httpsonly-title = { -brand-short-name } ha detectau un problema potencial de seguranza
+
 about-httpsonly-explanation-question = Qué puede estar causando esto?
-about-httpsonly-button-accept-and-continue = Acceptar lo risgo y continar
+
 about-httpsonly-button-go-back = Ir enta zaga
 about-httpsonly-link-learn-more = Saber-ne mas…
+
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
+

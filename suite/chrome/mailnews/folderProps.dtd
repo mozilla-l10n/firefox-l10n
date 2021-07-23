@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Propiedatz">
 
 <!ENTITY generalInfo.label                       "Información cheneral">
-<!ENTITY folderCharsetFallback.label             "Fallback Character Encoding:">
-<!ENTITY folderCharsetFallback.accesskey         "E">
-<!ENTITY folderCharsetEnforce.label              "Apply encoding to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
-<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruir o fichero indiz resumen">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar carpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
@@ -30,8 +26,6 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Os mas modernos">
 <!ENTITY retentionKeepRecent.accesskey "O">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Eliminar siempre mensaches leitos (prevale sobre a configuración d'antiguidat)">
 <!ENTITY retentionApplyToFlagged.label "Conservar siempre mensaches sinyalaus">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
@@ -61,7 +55,6 @@
 <!ENTITY folderType.label                        "Tipo de carpeta:">
 
 <!ENTITY folderQuotaTab.label                    "Conduta">
-<!ENTITY folderQuotaRoot.label                   "Conduta radiz:">
 <!ENTITY folderQuotaUsage.label                  "Uso:">
 <!ENTITY folderQuotaStatus.label                 "Estau:">
 

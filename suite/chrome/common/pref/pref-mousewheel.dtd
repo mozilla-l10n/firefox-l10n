@@ -1,15 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
 
 <!ENTITY pref.mouseWheel.title           "Rueda d'o rato">
 <!ENTITY mouseWheelPanel.label           "Indique o comportamiento d'a rueda d'o rato en usar-la con ista tecla: ">
 <!ENTITY usingJustTheWheel.label         "Sin tecla modificadora">
-<!ENTITY usingWheelAndAlt.label          "&altKey.label;">
-<!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
-<!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
 <!ENTITY mouseWheelGroup.label           "Vertical scrolling">
 <!ENTITY mouseWheelHorizGroup.label      "Horizontal scrolling">
 <!ENTITY sameAsVertical.label            "Same as vertical scrolling">

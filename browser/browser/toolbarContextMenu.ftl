@@ -55,3 +55,4 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Personalizar…
     .accesskey = P
+

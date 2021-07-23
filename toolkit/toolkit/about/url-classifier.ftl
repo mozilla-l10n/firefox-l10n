@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Modulos de log de navegación segura
 url-classifier-debug-modules = Modulos de log actuals
 url-classifier-debug-sbjs-modules = Log JS de navegación segura
 url-classifier-debug-file = Fichero de rechistro actual
+
 url-classifier-trigger-update = Actualización de disparador
 url-classifier-not-available = N/D
 url-classifier-disable-sbjs-log = Desactivar lo Log JS de navegación segura

@@ -15,11 +15,10 @@
 
 <!ENTITY viewingMessages.label            "Visualización">
 <!ENTITY notifications.label              "Notificaciones">
-<!ENTITY address.label                    "Adrezas">
 <!ENTITY composingMessages.label          "Redacción">
 <!ENTITY format.label                     "Formato de ninvio">
-<!ENTITY return.label                     "Acuses de recibimiento">
+<!ENTITY address.label                    "Adrezas">
 <!ENTITY junk.label                       "Junk &amp; Suspect Mail">
 <!ENTITY tags.label                       "Etiquetas">
-<!ENTITY characterEncoding.label          "Codificación de caracters">
+<!ENTITY return.label                     "Acuses de recibimiento">
 <!ENTITY networkStorage.label             "Network &amp; Storage">

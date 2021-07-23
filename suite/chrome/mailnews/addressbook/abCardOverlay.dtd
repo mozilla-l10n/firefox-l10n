@@ -5,6 +5,7 @@
 <!ENTITY Contact.tab                     "Contacto">
 <!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Nombre">
+
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -32,7 +33,6 @@
 <!ENTITY DisplayName.label              "Amostrau:">
 <!ENTITY DisplayName.accesskey          "A">
 <!ENTITY preferDisplayName.label        "Always prefer display name over message header">
-<!ENTITY preferDisplayName.accesskey    "A">
 <!ENTITY NickName.label                 "Embotada:">
 <!ENTITY NickName.accesskey             "E">
 
@@ -45,12 +45,6 @@
 <!ENTITY PlainText.label                "Texto sin formato">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Desconoixiu">
-<!ENTITY ScreenName.label               "Nombre en pantalla:">
-<!ENTITY ScreenName.accesskey           "t">
-
-<!ENTITY allowRemoteContent1.label      "Permitir conteniu remoto.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "En os mensaches HTML ye posible incluir conteniu d'orichens remotos. Ubrir tals mensaches ubrirá a la suya vez una connexión a ixe orichen externo. Isto puede permitir o seguimiento d'a lectura d'o mensache. Marcar ista caixeta permitirá iste tipo de conteniu en os mensaches HTML d'iste contacto.">
 
 <!ENTITY WorkPhone.label                "Estorbadurajo:">
 <!ENTITY WorkPhone.accesskey            "j">

@@ -57,9 +57,6 @@ tab-context-close-multiple-tabs =
     .label = Zarrar multiples pestanyas
     .accesskey = m
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -80,6 +77,10 @@ move-tabs =
 move-tab =
     .label = Mover la pestanya
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-close-tabs =
     .label =
         { $tabCount ->

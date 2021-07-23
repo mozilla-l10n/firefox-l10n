@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Mirar
 
 newtab-search-box-search-the-web-text = Mirar en o Web
+
 newtab-search-box-search-the-web-input =
     .placeholder = Mirar en o Web
     .title = Mirar en o Web
@@ -53,6 +54,8 @@ newtab-topsites-add-button = Anyadir
 newtab-confirm-delete-history-p1 = Yes seguro que quiers borrar totas las instancias d'esta pachina en o tuyo historial?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Esta acción no se puede desfer.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -207,3 +210,6 @@ newtab-pocket-cta-text = Alza los tuyos articlos preferius en { -pocket-brand-na
 
 newtab-error-fallback-info = Oi, ha fallau bella cosa en a carga d'este conteniu.
 newtab-error-fallback-refresh-link = Refrescar la pachina pa tornar-lo a intentar.
+
+## Customization Menu
+

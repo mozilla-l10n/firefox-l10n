@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Importa lo tuyo inicio de sesión de { $browser }</div>
     <div data-l10n-name="line2">pa { $host } y atras pachinas</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Saber-ne mas
 

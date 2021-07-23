@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.cookies.title             "Cookies">
+
 <!-- cookies -->
 
 
@@ -31,11 +32,6 @@
 <!ENTITY acceptforNDays.label           "Acceptar cookies entre">
 <!ENTITY acceptforNDays.accesskey       "e">
 <!ENTITY days.label                     "días">
-
-<!ENTITY warnAboutCookies.label         "Preguntar ta cada cookie">
-<!ENTITY warnAboutCookies.accesskey     "a">
-<!ENTITY forCurrentSession.label        "fueras d'as de sesión">
-<!ENTITY forCurrentSession.accesskey    "f">
 
 <!ENTITY manageCookies.label            "Administrar cookies y puestos">
 <!ENTITY manageCookiesDescription.label "Le permite veyer y administrar cookies alzadas y configuracions ta cada puesto web ta acceptar y refusar cookies. As configuracions por puesto web prevalerán sobre as configuracions d'alto.">

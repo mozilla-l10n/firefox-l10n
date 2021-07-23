@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
 
@@ -18,10 +19,6 @@
 <!ENTITY languages.customize.active.accesskey           "I">
 <!ENTITY languages.customize.others.label               "Atros:">
 <!ENTITY languages.customize.others.accesskey           "A">
-<!ENTITY languages.customize.Fallback.grouplabel        "Character Encoding for Legacy Content">
-<!ENTITY languages.customize.Fallback.label             "Fallback Character Encoding:">
-<!ENTITY languages.customize.Fallback.accesskey         "C">
-<!ENTITY languages.customize.Fallback.desc              "Used for legacy content that fails to declare its encoding.">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "eix.: en-bz, ar-jo">
 <!ENTITY languages.customize.moveUp.label               "Alto">

@@ -37,6 +37,11 @@ abuse-report-submit-button = Ninviar
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Se canceló l'informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitting = Ninviando informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Gracias per ninviar l'informe. Quiere eliminar <span data-l10n-name="addon-name">{ $addon-name }</span>?

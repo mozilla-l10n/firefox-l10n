@@ -4,14 +4,15 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Suscripciones a canals">
-<!ENTITY subscriptionDesc.label      "Nota: eliminar u cambiar a carpeta d'una canal no afectará a os articlos descargaus previament.">
 
 <!ENTITY feedTitle.label             "Title:">
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "Feed URL:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
+
+<!ENTITY locationValidate.label      "Validate">
+<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
 
 <!ENTITY feedFolder.label            "Store Articles in:">
 <!ENTITY feedFolder.accesskey        "S">
@@ -25,13 +26,8 @@
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Enter a tag prefix">
 
-<!ENTITY locationValidate.label      "Validate">
-<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
-
 <!ENTITY button.addFeed.label        "Adhibir">
 <!ENTITY button.addFeed.accesskey    "A">
-<!ENTITY button.editFeed.label       "Update">
-<!ENTITY button.editFeed.accesskey   "U">
 <!ENTITY button.removeFeed.label     "Eliminar">
 <!ENTITY button.removeFeed.accesskey "E">
 <!ENTITY button.importOPML.label     "Importar">

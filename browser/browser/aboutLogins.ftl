@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Baixa-te-la de Google Play
 login-app-promo-apple =
     .alt = Baixa-te-la de l'App Store
+
 login-filter =
     .placeholder = Buscar nombres d'usuario
+
 create-login-button = Creyar un nuevo nombre d'usuario
+
 fxaccounts-sign-in-text = Acceder a las claus dende totz los tuyos dispositivos
 fxaccounts-sign-in-button = Inicia la sesión en { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -68,13 +71,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Yes mirando los inicios de sesión que has alzaus? Configura { -sync-brand-short-name }
-about-logins-login-intro-heading-logged-out = Yes mirando los inicios de sesión que has alzau? Configura { -sync-brand-short-name } u importar-los
+
 about-logins-login-intro-heading-logged-in = No s'ha trobau garra inicio de sesión sincronizau.
 login-intro-description = Si has alzau inicios de sesión en { -brand-product-name } en belatro dispositivo, esta ye la manera de tener-los tamién aquí:
 login-intro-instruction-fxa = Crea un { -fxaccount-brand-name } u inicia-ie la sesión dende lo dispositivo an que tiens alzaus los inicios de sesión
 login-intro-instruction-fxa-settings = Asegura-te de que has triau la casilla de selección Inicios de sesión en os achustes de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Pa obtener mas aduya, visita l' <a data-l10n-name="help-link">asistencia de { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Si los inicios de sesión s'han alzau en belatro ordinador, puetz <a data-l10n-name="import-link">importar-los en { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = Si os tuyos inicios de sesión son guardaus defuera de { -brand-product-name }, puetz <a data-l10n-name="import-browser-link"> importar-los dende atro navegador</a> u <a data-l10n-name="import-file-link"> dende un archivo</a>
 
 ## Login
@@ -115,11 +119,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Pa editar tu inicio de sesi
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar l'inicio de sesión alzau
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ta veyer a tuya clau, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = amostrar la clau alzada
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pa veyer a tuya clau, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
 # This message can be seen when attempting to copy a password in about:logins
@@ -129,6 +135,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copia la clau alzada
 ## Master Password notification
 
 master-password-notification-message = Escribe la clau mayestra pa veyer los inicios de sesión y claus alzaus
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pa exportar los tuyos inicios de sesión, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
 # This message can be seen when attempting to export a password in about:logins
@@ -165,12 +172,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
+
 about-logins-confirm-remove-dialog-title = Eliminar este nombre d'usuario?
 confirm-delete-dialog-message = Esta acción no se puet desfer.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
+
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión y claus
 about-logins-confirm-export-dialog-message = Las tuyas claus s'han alzau como testo lechible (exemplo, BadP@ssw0rd) asinas que qualsiquiera que pueda ubrir lo archivo alzau podrá leyer-las.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+
 confirm-discard-changes-dialog-title = Descartar los cambios sin alzar?
 confirm-discard-changes-dialog-message = Totz los cambios sin alzar se pueden perder.
 confirm-discard-changes-dialog-confirm-button = Escartar
@@ -201,8 +211,10 @@ about-logins-vulnerable-alert-learn-more-link = Saber-ne mas
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ya existe una dentrada pa { $loginTitle } con ixe nombre d'usuario. <a data-l10n-name="duplicate-link">Quirs ir ta la dentrada existent?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = S'ha produciu una error quan se miraba d'alzar esta clau.
+
 
 ## Login Export Dialog
 
@@ -232,3 +244,18 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Documento CSV
        *[other] Archivo CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+## Logins import report page
+
