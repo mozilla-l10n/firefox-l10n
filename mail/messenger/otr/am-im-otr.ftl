@@ -17,12 +17,13 @@ otr-log =
     .label = Incluir mensagens OTR encriptadas nos registos de conversação
 otr-requireEncryption =
     .label = Exigir encriptação ponto a ponto para conversas individuais
-otr-require-encryption-info =
-    Ao exigir encriptação ponto a ponto, as mensagens em conversas de um para um
-    não serão enviadas, a menos que possam ser encriptadas. As mensagens não encriptadas recebidas
-    não serão mostradas como parte da conversa normal e também não serão registradas.
 otr-verifyNudge =
     .label = Lembrar-me sempre para confirmar um contacto não-verificado
 
 otr-notYetAvailable = ainda não disponível
+
+otr-require-encryption-info =
+    Ao exigir encriptação ponto a ponto, as mensagens em conversas de um para um
+    não serão enviadas, a menos que possam ser encriptadas. As mensagens não encriptadas recebidas
+    não serão mostradas como parte da conversa normal e também não serão registradas.
 

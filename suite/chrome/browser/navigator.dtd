@@ -58,10 +58,6 @@
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta página">
 
-<!ENTITY throbber.tooltip             "Ir para a página inicial do &vendorShortName;">
-
-<!ENTITY throbber.tooltip2            "Ir para a página inicial do &brandShortName;">
-
 <!ENTITY locationBar.tooltip          "Introduza o termo da pesquisa, palavra chave, ou endereço web">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Localização">

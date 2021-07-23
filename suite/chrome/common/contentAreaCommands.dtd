@@ -7,6 +7,7 @@
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Permitir janelas pop-up deste site">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
+
 <!ENTITY openLinkCmdInTab.label       "Abrir ligação num novo separador">
 <!ENTITY openLinkCmdInTab.accesskey   "s">
 <!ENTITY openLinkCmd.label            "Abrir ligação numa nova janela">

@@ -14,12 +14,6 @@
 <!ENTITY relatedAfterCurrent.label "Abrir separadores relacionados depois do separador atual">
 <!ENTITY relatedAfterCurrent.accesskey "o">
 
-<!ENTITY loadGroup.label "Ao abrir um grupo de marcadores">
-<!ENTITY loadGroupAppend.label "Adicionar separadores">
-<!ENTITY loadGroupAppend.accesskey "A">
-<!ENTITY loadGroupReplace.label "Substituir separadores existentes">
-<!ENTITY loadGroupReplace.accesskey "r">
-
 <!ENTITY openTabs.label "Abrir separadores em vez de janelas">
 
 <!ENTITY middleClick.label "Clique no botão do meio, Ctrl+clique ou Ctrl+Enter nas ligações de uma página de Internet">

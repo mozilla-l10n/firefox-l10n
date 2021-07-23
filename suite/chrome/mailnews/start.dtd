@@ -20,9 +20,6 @@
 "elevada integração com a suite &brandShortName;">
 <!ENTITY dict.title "Dicionários">
 <!ENTITY dict_intro.label "Os dicionários são usados para verificar a escrita nas suas mensagens.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label
-'Muitos idiomas adicionais podem ser instalados a partir da secção de <a id="dictURL" href="">dicionários</a> em <a href="https://addons.mozilla.org/seamonkey/">Extras da Mozilla</a>.'>
 <!ENTITY dict_info.label2
 'Muitos idiomas adicionais podem ser instalados a partir da secção
 <a id="dictURL" href="">dicionários</a> nos

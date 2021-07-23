@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Abrir menu">
+
 <!ENTITY navbarOverflow.label                "Mais ferramentas…">
 
 <!-- Tab context menu -->
@@ -145,19 +146,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Histórico">
+
 <!ENTITY historyUndoMenu.label "Separadores fechados recentemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Janelas fechadas recentemente">
 
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo o histórico">
+
 <!ENTITY appMenuHistory.clearRecent.label "Limpar histórico recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral do histórico">
 <!ENTITY appMenuHistory.hideSidebar.label "Ocultar barra lateral do histórico">
 <!ENTITY appMenuHistory.recentHistory.label "Histórico recente">
+
 <!ENTITY appMenuHelp.label "Ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Separadores sincronizados">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nenhum separador aberto">

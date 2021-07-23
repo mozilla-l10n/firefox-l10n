@@ -57,6 +57,7 @@ state-private = A identidade de { $name } foi verificada. A conversa atual é en
 state-finished = { $name } terminou a conversa encriptada consigo; você deve fazer o mesmo.
 
 state-not_private-label = Não seguro
+
 state-unverified-label = Não confirmado
 state-private-label = Privado
 state-finished-label = Concluído

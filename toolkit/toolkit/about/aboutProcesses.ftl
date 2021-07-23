@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Gestor de processos
+
 # The Actions column
 about-processes-column-action =
     .title = Ações
@@ -27,31 +28,6 @@ about-processes-column-cpu-total = CPU
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
-about-processes-browser-process-name = { -brand-short-name } (processo{ $pid })
-about-processes-web-process-name = Web (processo { $pid }, partilhado)
-about-processes-web-isolated-process-name = Web (processo { $pid }) para { $origin }
-about-processes-web-large-allocation = Web (processo { $pid }, grande) para { $origin }
-about-processes-with-coop-coep-process-name = Web (processo { $pid }, origem cruzada isolada) para { $origin }
-about-processes-file-process-name = Ficheiros (processo { $pid })
-about-processes-extension-process-name = Extensões (processo { $pid })
-about-processes-privilegedabout-process-name = Sobre (processo { $pid })
-about-processes-plugin-process-name = Plug-ins (processo { $pid })
-about-processes-privilegedmozilla-process-name = Web (processo { $pid }) para sites de { -vendor-short-name }
-about-processes-gmp-plugin-process-name = Plug-ins de media Gecko (processo { $pid })
-about-processes-gpu-process-name = GPU (processo { $pid })
-about-processes-vr-process-name = VR (processo { $pid })
-about-processes-rdd-process-name = Descodificador de dados (processo { $pid })
-about-processes-socket-process-name = Rede (processo { $pid })
-about-processes-remote-sandbox-broker-process-name = Agente de isolamento remoto (processo { $pid })
-about-processes-fork-server-process-name = Servidor de fork (processo { $pid })
-about-processes-preallocated-process-name = Pré-alocado (processo { $pid })
-about-processes-unknown-process-name = Outro ({ $type }, processo { $pid })
-# Process
-# Variables:
-#   $name (String) The name assigned to the process.
-#   $pid (String) The process id of this process, assigned by the OS.
-about-processes-process-name = Processo { $pid }: { $name }
-
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
@@ -71,6 +47,7 @@ about-processes-socket-process = Rede ({ $pid })
 about-processes-remote-sandbox-broker-process = Agente de isolamento remoto ({ $pid })
 about-processes-fork-server-process = Fork do servidor ({ $pid })
 about-processes-preallocated-process = Pré-alocado ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -91,17 +68,6 @@ about-processes-with-coop-coep-process-private = { $origin } — Privado ({ $pid
 
 ## Details within processes
 
-# Single-line summary of threads
-# Variables:
-#    $number (Number) The number of threads in the process. Typically larger
-#                     than 30. We don't expect to ever have processes with less
-#                     than 5 threads.
-about-processes-thread-summary = Threads ({ $number })
-# Thread details
-# Variables:
-#   $name (String) The name assigned to the thread.
-#   $tid (String) The thread id of this thread, assigned by the OS.
-about-processes-thread-name = Thread { $tid }: { $name }
 # Single-line summary of threads (non-idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -117,6 +83,7 @@ about-processes-active-threads =
         [one] { $active } thread ativa de { $number }: { $list }
        *[other] { $active } threads ativas de { $number }: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -128,21 +95,25 @@ about-processes-inactive-threads =
         [one] { $number } thread inativa
        *[other] { $number } threads inativas
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Id da thread: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Separador: { $name }
 about-processes-preloaded-tab = Novo separador pré-carregado
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Sub-frame: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -159,14 +130,12 @@ about-processes-frame-name-many = Sub-frames ({ $number }): { $shortUrl }
 ##                   of `duration-unit-*`.
 
 # Common case.
-about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
-# Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Tempo total de CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (a calcular)
-# Special case: process or thread is currently idle.
-about-processes-cpu-user-and-kernel-idle = inativo ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = inativo
     .title = Tempo total de CPU: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
@@ -183,10 +152,9 @@ about-processes-cpu-idle = inativo
 ##                        of `memory-unit-*`.
 
 # Common case.
-about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
-# Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Evolução: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

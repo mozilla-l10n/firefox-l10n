@@ -10,6 +10,7 @@ finger-intro = Identificadores digitais das chaves OTR de conversas anteriores e
 
 finger-screenName =
     .label = Contacto
+
 finger-verified =
     .label = Estado da confirmação
 finger-fingerprint =
