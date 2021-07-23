@@ -5,6 +5,7 @@
 <!ENTITY pref.notifications.title         "Signalai">
 <!ENTITY notifications.caption            "Signalai">
 <!ENTITY newMessagesArrive.label          "Kai atsiunčiami laiškai:">
+
 <!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
      showAlertFor.label is associated with the checkbox to show the alert,
      leading into a numerical field to enter a time in seconds, followed by

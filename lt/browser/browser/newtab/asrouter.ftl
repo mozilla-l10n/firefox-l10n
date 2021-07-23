@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Pabandykite: kortelės įsegimas
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kodėl tai matau
+
 cfr-doorhanger-extension-cancel-button = Ne dabar
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Pridėti dabar
     .accesskey = P
 cfr-doorhanger-pintab-ok-button = Įsegti šią kortelę
     .accesskey = s
+
 cfr-doorhanger-extension-manage-settings-button = Tvarkyti rekomendacijų nuostatas
     .accesskey = T
+
 cfr-doorhanger-extension-never-show-recommendation = Nerodyti man šios rekomendacijos
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Sužinoti daugiau
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = sukūrė { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendacija
 cfr-doorhanger-extension-notification2 = Rekomendacija
     .tooltiptext = Priedo rekomendacija
     .a11y-announcement = Siūloma priedo rekomendacija
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendacija
@@ -61,6 +69,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } naudotojai
        *[other] { $total } naudotojų
     }
+
 cfr-doorhanger-pintab-description = Lengvai pasiekite dažniausiai naudojamas svetaines. Laikykite jas atvertas kortelėse (net kai iš naujo atidarote naršyklę).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -68,8 +77,10 @@ cfr-doorhanger-pintab-description = Lengvai pasiekite dažniausiai naudojamas sv
 cfr-doorhanger-pintab-step1 = <b>Spustelėkite dešiniu pelės mygtuku</b> ant kortelės, kurią norite įsegti.
 cfr-doorhanger-pintab-step2 = Iš meniu pasirinkite <b>įsegti kortelę</b>.
 cfr-doorhanger-pintab-step3 = Jeigu svetainė atsinaujino, ant įsegtos kortelės matysite mėlyną tašką.
+
 cfr-doorhanger-pintab-animation-pause = Pristabdyti
 cfr-doorhanger-pintab-animation-resume = Tęsti
+
 
 ## Firefox Accounts Message
 
@@ -91,20 +102,26 @@ cfr-protections-panel-link-text = Sužinoti daugiau
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Naujovė:
+
 cfr-whatsnew-button =
     .label = Kas naujo
     .tooltiptext = Kas naujo
+
 cfr-whatsnew-panel-header = Kas naujo
+
 cfr-whatsnew-release-notes-link-text = Skaityti laidos apžvalgą
+
 cfr-whatsnew-fx70-title = „{ -brand-short-name }“ už jūsų privatumą dabar kovoja dar labiau
 cfr-whatsnew-fx70-body =
     Paskiausias naujinimas pagerina apsaugą nuo stebėjimo, ir leidžia dar lengviau
     sukurti saugius slaptažodžius visoms svetainėms.
+
 cfr-whatsnew-tracking-protect-title = Apsaugokite save nuo stebėjimo elementų
 cfr-whatsnew-tracking-protect-body =
     „{ -brand-short-name }“ blokuoja daugelį dažniausiai pasitaikančių socialinių ir tarp svetainių veikiančių
     stebėjimo elementų, sekančių jūsų veiklą internete.
 cfr-whatsnew-tracking-protect-link-text = Peržiūrėti jūsų ataskaitą
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -116,9 +133,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Nuo { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Peržiūrėti ataskaitą
+
 cfr-whatsnew-lockwise-backup-title = Pasidarykite savo slaptažodžių kopiją
 cfr-whatsnew-lockwise-backup-body = Dabar susikurkite saugius slaptažodžius, kuriuos galėsite pasiekti visur, kur prisijungiate.
 cfr-whatsnew-lockwise-backup-link-text = Įjungti atsargines kopijas
+
 cfr-whatsnew-lockwise-take-title = Turėkite savo slaptažodžius su savimi
 cfr-whatsnew-lockwise-take-body =
     Mobilioji „{ -lockwise-brand-short-name }“ programa leidžia saugiai
@@ -158,6 +177,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Užblokuota skaitmeninių atspaudų stebėjimo elementų
     }
 cfr-whatsnew-fingerprinter-counter-body = „{ -brand-shorter-name }“ blokuoja daugelį skaitmeninių atspaudų stebėjimo elementų, kurie nepastebimai renka informaciją apie jūsų įrenginį ir veiksmus, siekiant sukurti jūsų reklaminį profilį.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Skaitmeninių atspaudų stebėjimo elementai
 cfr-whatsnew-fingerprinter-counter-body-alt = „{ -brand-shorter-name }“ gali blokuoti skaitmeninių atspaudų stebėjimo elementus, kurie nepastebimai renka informaciją apie jūsų įrenginį ir veiksmus, siekiant sukurti jūsų reklaminį profilį.
@@ -217,6 +237,7 @@ cfr-doorhanger-milestone-heading =
         [few] „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elementų nuo { $date }!
        *[other] „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elementų nuo { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -252,12 +273,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Vaizdo-vaizde piktograma
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Užverti
-    .accesskey = v
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Apsaugos apžvalga
 cfr-whatsnew-protections-body = Apsaugos skydelis pateikia duomenų nutekėjimų ir slaptažodžių tvarkymo ataskaitų santraukas. Čia galite sekti, kiek duomenų nutekėjimų esate patikrinę, ir matyti, ar tarp jūsų įrašytų slaptažodžių yra galimai nutekėjusių.
 cfr-whatsnew-protections-cta-link = Rodyti apsaugos skydelį
@@ -267,6 +282,12 @@ cfr-whatsnew-protections-icon-alt = Skydo piktograma
 
 cfr-whatsnew-better-pdf-header = Geresnis PDF veikimas
 cfr-whatsnew-better-pdf-body = PDF dokumentai dabar atveriami tiesiogiai per „{ -brand-short-name }“, tad jūsų darbas lieka greitai pasiekiamas.
+
+cfr-doorhanger-milestone-close-button = Užverti
+    .accesskey = v
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -288,35 +309,15 @@ cfr-doorhanger-fission-secondary-button = Sužinoti daugiau
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Automatinė apsauga nuo slaptų stebėjimo būdų
-cfr-whatsnew-clear-cookies-body = Kai kurie stebėjimo elementai nukreipia jus į kitas svetaines, kurios slaptai įrašo slapukus. „{ -brand-short-name }“ dabar automatiškai išvalo tokius slapukus, kad nebūtumėte sekami.
-cfr-whatsnew-clear-cookies-image-alt = Užblokuoto slapuko iliustracija
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Daugiau medijos valdymo
-cfr-whatsnew-media-keys-body = Leiskite ir pristabdykite garso bei vaizdo įrašus naudodamiesi savo klaviatūra ar ausinėmis, taip patogiau valdydami mediją iš kitos kortelės, programos, ar net kai kompiuteris užrakintas. Galite net pereiti tarp dainų, naudodamiesi mygtukais pirmyn ir atgal.
-cfr-whatsnew-media-keys-button = Sužinoti kaip
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Paieškos leistukai adreso lauke
-cfr-whatsnew-search-shortcuts-body = Dabar jums renkant ieškyklės ar tam tikros svetainės pavadinimą adreso lauke, žemiau esančiuose paieškos siūlymuose pasirodys mėlynas leistukas. Pasirinkę šį leistuką, paiešką įvykdysite tiesiai iš adreso lauko.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Apsauga nuo kenkėjiškų „super“ slapukų
-cfr-whatsnew-supercookies-body = Svetainės gali slapta prieš jūsų naršyklės pridėti „super“ slapuką, kuris seks jus naršant, net kai išvalote slapukus. „{ -brand-short-name }“ dabar suteikia stiprią apsaugą nuo „super“ slapukų, tad jie nebegali būtų naudojami sekti jūsų naršymo veiksmus tarp svetainių.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Geresnis adresynas
-cfr-whatsnew-bookmarking-body = Dabar dar lengviau sekti savo mėgstamas svetaines. „{ -brand-short-name }“ nuo šiol įsimena jūsų adresyno įrašų vietą, rodo adresyno juostą naujose kortelėse, ir suteikia jums lengvą priėjimą prie likusio adresyno per priemonių juostos aplanką.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Išsami apsauga nuo tarp svetainių veikiančių slapukų sekimo
-cfr-whatsnew-cross-site-tracking-body = Dabar galite naudotis geresne apsauga nuo slapukų sekimo. „{ -brand-short-name }“ gali izoliuoti jūsų veiklą ir duomenis naršomoje svetainėje, tad naršyklėje esanti informacija nepasiekia kitų svetainių.
 
 ## Full Video Support CFR message
 

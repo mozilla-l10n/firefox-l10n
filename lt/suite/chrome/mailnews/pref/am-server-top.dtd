@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Jei patikrinus paštą rasta laiškų, tai juos atsiųsti">
 <!ENTITY downloadOnBiff.accesskey "J">
-<!ENTITY username.label "Abonento vardas:">
 <!ENTITY deleteMessagePrefix.label "Šalintiną laišką:">
 <!ENTITY modelMoveToTrash.label "perkelti į šiukšlinę">
 <!ENTITY modelMoveToTrash.accesskey "š">

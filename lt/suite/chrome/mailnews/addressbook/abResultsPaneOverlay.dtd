@@ -28,8 +28,6 @@
 <!ENTITY HomePhone.accesskey                   "N">
 <!ENTITY WorkPhone.label                       "Darbo telefonas">
 <!ENTITY WorkPhone.accesskey                   "D">
-<!ENTITY ScreenName.label                      "AOL abonento vardas">
-<!ENTITY ScreenName.accesskey                  "A">
 <!ENTITY sortAscending.label                   "Pagal abėcėlę">
 <!ENTITY sortAscending.accesskey               "b">
 <!ENTITY sortDescending.label                  "Atvirkščiai">

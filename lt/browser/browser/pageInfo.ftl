@@ -129,6 +129,8 @@ security-site-data-only = Taip, { $value } { $unit } svetainės duomenų
 security-site-data-cookies-only = Taip, slapukų
 security-site-data-no = Ne
 
+##
+
 image-size-unknown = nežinomas
 page-info-not-specified =
     .value = nenurodytas

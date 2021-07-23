@@ -5,12 +5,12 @@
 places-open =
     .label = Atverti
     .accesskey = A
-places-open-in-tab =
-    .label = Atverti naujoje kortelėje
-    .accesskey = j
 places-open-tab =
     .label = Atverti naujoje kortelėje
     .accesskey = o
+places-open-in-tab =
+    .label = Atverti naujoje kortelėje
+    .accesskey = j
 places-open-all-bookmarks =
     .label = Atverti visas korteles
     .accesskey = v
@@ -20,15 +20,10 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Atverti naujame lange
     .accesskey = l
-places-open-in-window =
-    .label = Atverti naujame lange
-    .accesskey = n
 places-open-private-window =
     .label = Atverti naujame privačiojo naršymo lange
     .accesskey = p
-places-open-in-private-window =
-    .label = Atverti naujoje privačiojoje kortele
-    .accesskey = p
+
 places-new-bookmark =
     .label = Naujas adresas…
     .accesskey = N
@@ -41,6 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = Naujas skirtukas
     .accesskey = s
+
+places-open-in-window =
+    .label = Atverti naujame lange
+    .accesskey = n
+places-open-in-private-window =
+    .label = Atverti naujoje privačiojoje kortele
+    .accesskey = p
+
 places-add-bookmark =
     .label = Įtraukti adresą…
     .accesskey = r
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = Įtraukti skirtuką
     .accesskey = s
+
 places-view =
     .label = Rodyti
     .accesskey = o
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = pagal datą ir svetainę
     .accesskey = t
+
 places-history-search =
     .placeholder = Ieškoti žurnale
 places-bookmarks-search =
     .placeholder = Ieškoti adresyne
+
 places-delete-domain-data =
     .label = Užmiršti viską apie šią svetainę
     .accesskey = U
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = Savybės
     .accesskey = S
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Redaguoti adresyno įrašą…
@@ -103,15 +110,18 @@ places-remove-folder =
            *[other] Pašalinti aplankų
         }
     .accesskey = n
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Tvarkomas adresynas
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Poaplankis
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Kiti adresyno įrašai
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -123,6 +133,7 @@ places-remove-bookmark =
            *[other] Pašalinti įrašų
         }
     .accesskey = l
+
 places-manage-bookmarks =
     .label = Tvarkyti adresyną
     .accesskey = T
