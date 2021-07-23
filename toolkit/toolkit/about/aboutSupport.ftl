@@ -282,3 +282,7 @@ touch-warning = ஆதரவற்ற முன்னுரிமை: { $prefere
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

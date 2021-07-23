@@ -5,6 +5,7 @@
 screenshots-context-menu = ஒரு திரைப்பிடிப்பு செய்
 
 screenshots-my-shots-button = எனது திரைகள்
+
 screenshots-instructions = பக்கத்தில் இழுத்தோ (அ) சொடுக்கியோ ஒரு பகுதியைத் தேர்வுச்செய்க. இரத்து செய்ய ESC விசையை அழுத்தவும்.
 screenshots-cancel-button = இரத்து
 screenshots-save-visible-button = பார்ப்பதைச் சேமி

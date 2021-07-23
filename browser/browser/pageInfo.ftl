@@ -126,6 +126,8 @@ security-site-data-only = ஆம், { $value } { $unit } தளத்தின�
 security-site-data-cookies-only = ஆம், நினைவிகள்
 security-site-data-no = இல்லை
 
+##
+
 image-size-unknown = தெரியாதது
 page-info-not-specified =
     .value = குறிப்பிடவில்லை

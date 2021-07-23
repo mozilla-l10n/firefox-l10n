@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "பட்டியைத் திற">
+
 <!ENTITY navbarOverflow.label                "இதர கருவிகள்...">
 
 <!-- Tab context menu -->
@@ -129,18 +130,22 @@ in "Search through tabs". -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "வரலாறு">
+
 <!ENTITY historyUndoMenu.label "சமீபத்தில் மூடப்பட்ட கீற்றுகள்">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "சமீபத்தில் மூடப்பட்ட சாளரங்கள்">
 
 <!ENTITY appMenuHistory.showAll.label "அனைத்தையும் காண்பி">
+
 <!ENTITY appMenuHistory.clearRecent.label "சமீபத்திய வரலாற்றைத் துடை...">
 <!ENTITY appMenuHistory.restoreSession.label "முந்தைய அமர்வுக்கு மீட்டமை">
 <!ENTITY appMenuHistory.viewSidebar.label "வரலாறுப் பக்கப்பட்டையை பார்க்க">
 <!ENTITY appMenuHistory.recentHistory.label "சமீபத்திய வரலாறு">
+
 <!ENTITY appMenuHelp.label "உதவி">
 
 <!ENTITY appMenuRemoteTabs.label "ஒத்திசைத்த கீற்றுகள்">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "திறந்த கீற்றுகள் இல்லை">

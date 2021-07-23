@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = பாதுகாப்பு முறையில் துவக்கு
+
 refresh-profile =
     .label = { -brand-short-name } ஐ புதுப்பி
 safe-mode-description = பாதுகாப்பு பயன்முறை என்பது { -brand-short-name } இன் சிறப்பு பயன்முறை, சிக்கல்களை தீர்க்க இது பயன்படுகிறது.

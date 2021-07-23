@@ -40,3 +40,4 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword =
     .value = முக்கியச்சொல்:
     .accesskey = K
+

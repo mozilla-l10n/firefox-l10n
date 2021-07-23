@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = தேடு
 
 newtab-search-box-search-the-web-text = இணையத்தில் தேடு
+
 newtab-search-box-search-the-web-input =
     .placeholder = இணையத்தில் தேடு
     .title = இணையத்தில் தேடு
@@ -56,6 +57,8 @@ newtab-topsites-add-button = சேர்
 newtab-confirm-delete-history-p1 = இப்பக்கத்தை உங்களின் வரலாற்றிலிருந்து முழுமையாக நீக்க விரும்புகிறீர்களா?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = இச்செயலை மீட்க முடியாது.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -194,3 +197,6 @@ newtab-pocket-cta-text = { -pocket-brand-name } நீங்கள் விர�
 
 newtab-error-fallback-info = அச்சச்சோ, இந்த உள்ளடக்கத்தை ஏற்றுவதில் ஏதோ தவறு ஏற்பட்டது.
 newtab-error-fallback-refresh-link = மீண்டும் முயற்சிக்க பக்கத்தை புதுப்பி.
+
+## Customization Menu
+

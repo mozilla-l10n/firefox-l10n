@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = உள்சார்ந்த WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc ஆக சேமி
@@ -56,13 +57,7 @@ about-webrtc-ice-pair-bytes-sent = பைட்டுகள் அனுப்�
 about-webrtc-ice-pair-bytes-received = பைட்டுகள் பெறப்பட்டன:
 about-webrtc-ice-component-id = உறுப்பு அடையாளம்
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -74,13 +69,16 @@ about-webrtc-type-remote = தொலைநிலை
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = பரிந்துரைத்தது
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = தேர்ந்தெடுக்கப்பட்டது
+
 about-webrtc-save-page-label = பக்கத்தை சேமி
 about-webrtc-debug-mode-msg-label = வழுநீக்கு முறைமை
 about-webrtc-debug-mode-off-state-label = வழுநீக்கு முறைமையைத் தொடங்கு
@@ -106,6 +104,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (மூ�
 
 ##
 
+
 about-webrtc-local-candidate = உள்ளமை வேட்பாளர்
 about-webrtc-remote-candidate = தொலை வேட்பாளர்
 about-webrtc-priority = முன்னுரிமை
@@ -121,7 +120,6 @@ about-webrtc-encoder-label = குறியாக்கி
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -131,6 +129,8 @@ about-webrtc-save-page-msg = { $path } என்பதில் பக்கம�
 about-webrtc-debug-mode-off-state-msg = { $path } என்பதில் தடபதிவைக் காணலாம்
 about-webrtc-debug-mode-on-state-msg = வழுநீக்கு முறைமையில் உள்ளது, தடபதிவு: { $path }
 about-webrtc-aec-logging-off-state-msg = கைப்பற்றப்பட்ட பதிவு கோப்புகளை: { $path } இதில் முடியும்
+
+##
 
 ##
 
@@ -145,4 +145,7 @@ about-webrtc-jitter-label = Jitter { $jitter }
 
 
 ##
+
+##
+
 

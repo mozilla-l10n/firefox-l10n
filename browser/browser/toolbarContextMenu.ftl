@@ -21,3 +21,4 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = விருப்பமை…
     .accesskey = C
+
