@@ -62,6 +62,8 @@ file-browse-pkcs12-spec = PKCS12 yêtz
 not-present =
     .value = <Not Part Of Certificate>
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 

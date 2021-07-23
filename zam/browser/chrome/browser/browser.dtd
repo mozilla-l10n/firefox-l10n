@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "mb-šàlɁ lá kùe">
+
 <!ENTITY navbarOverflow.label                "Loo ree yibb...">
 
 <!-- Tab context menu -->
@@ -132,6 +133,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 
 <!ENTITY historyMenu.label "Ree koo güil">
+
 <!ENTITY historyUndoMenu.label "Güi ree ngetlu koo tooglu penta">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Loo ngetlu koo toog luu penta">

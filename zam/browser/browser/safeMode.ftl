@@ -4,3 +4,4 @@
 
 start-safe-mode =
     .label = Tòlô besta
+

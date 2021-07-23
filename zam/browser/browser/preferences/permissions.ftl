@@ -45,6 +45,8 @@ permissions-capabilities-listitem-allow-session =
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 

@@ -21,6 +21,7 @@ appmenuitem-zoom-enlarge =
     .label = Let Zoom
 appmenuitem-zoom-reduce =
     .label = Xis Zoom
+
 appmenuitem-fullscreen =
     .label = Loo maach
 
@@ -28,6 +29,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ahora
+
 appmenuitem-save-page =
     .label = Loo xhog kue
 
@@ -47,22 +49,12 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Kue nak { -brand-shorter-name }
     .accesskey = a
-appmenu-help-troubleshooting-info =
-    .label = Guii xha mud thus kue liy
-    .accesskey = G
 appmenu-help-feedback-page =
     .label = Taal diif dizh
     .accesskey = h
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Bí~rè là kíy...
-    .accesskey = B
-appmenu-help-safe-mode-with-addons =
-    .label = Bí~rè là kíy ner tob ko kub
-    .accesskey = B
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

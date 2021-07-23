@@ -4,3 +4,4 @@
 
 refresh-profile-dialog =
     .title = Li kûb { -brand-short-name }
+

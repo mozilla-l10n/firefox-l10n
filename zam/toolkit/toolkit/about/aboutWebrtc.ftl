@@ -41,13 +41,7 @@ about-webrtc-ice-state = ICE State
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE Stats
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -57,10 +51,12 @@ about-webrtc-ice-stats-heading = ICE Stats
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = B-šèn
+
 about-webrtc-save-page-label = Mb-lòɁ sóg loo kúb
 about-webrtc-debug-mode-msg-label = Debug Mode
 about-webrtc-debug-mode-off-state-label = Start Debug Mode
@@ -87,11 +83,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (TòɁw=
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
+
+
+##
 
 
 ##
@@ -102,4 +100,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (TòɁw=
 
 
 ##
+
+##
+
 

@@ -161,3 +161,7 @@ apz-none = Yent tí
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

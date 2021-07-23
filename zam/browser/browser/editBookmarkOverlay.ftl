@@ -26,3 +26,4 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword =
     .value = Taa diif dizh:
     .accesskey = T
+

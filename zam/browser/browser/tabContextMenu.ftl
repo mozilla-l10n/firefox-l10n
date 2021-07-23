@@ -21,8 +21,10 @@ move-to-new-window =
     .label = Taal laa taa diif loo
     .accesskey = a
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = TòɁw
     .accesskey = T
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
