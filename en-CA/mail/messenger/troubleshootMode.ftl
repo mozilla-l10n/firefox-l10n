@@ -5,20 +5,27 @@
 troubleshoot-mode-window =
     .title = { -brand-short-name } Troubleshoot Mode
     .style = width: 37em;
+
 troubleshoot-mode-description = Use { -brand-short-name } troubleshooting mode to diagnose issues. Your add-ons and customizations will be temporarily disabled.
+
 troubleshoot-mode-description2 = You can make some or all of these changes permanent:
+
 troubleshoot-mode-disable-addons =
     .label = Disable all add-ons
     .accesskey = D
+
 troubleshoot-mode-reset-toolbars =
     .label = Reset toolbars and controls
     .accesskey = R
+
 troubleshoot-mode-change-and-restart =
     .label = Make Changes and Restart
     .accesskey = M
+
 troubleshoot-mode-continue =
     .label = Continue in Troubleshoot Mode
     .accesskey = C
+
 troubleshoot-mode-quit =
     .label =
         { PLATFORM() ->
