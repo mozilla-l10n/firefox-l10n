@@ -5,6 +5,7 @@
 printui-title = Imprentación
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Guardar como
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -12,6 +13,7 @@ printui-sheets-count =
         [one] { $sheetCount } fueya
        *[other] { $sheetCount } fueyes
     }
+
 printui-page-range-all = Toes
 printui-page-range-custom = Personalizaes
 printui-page-range-label = Páxines
@@ -20,33 +22,50 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Introduz un rangu de páxines personalizáu
     .placeholder = 2-6, 9 ó 12-16
+
 # Section title for the number of copies to print
 printui-copies-label = Copies
+
 printui-orientation = Orientación
 printui-landscape = Horizontal
 printui-portrait = Vertical
+
 # Section title for the printer or destination device to target
 printui-destination-label = Destín
 printui-destination-pdf-label = Guardar en PDF
+
 printui-more-settings = Más axustes
 printui-less-settings = Menos axustes
+
 printui-paper-size-label = Tamañu del papel
+
 # Section title (noun) for the print scaling options
 printui-scale = Escala
 printui-scale-fit-to-page-width = Axustar al anchor de la páxina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Escalar
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Imprentación a dos cares
 printui-two-sided-printing-off = Non
+
 # Section title for miscellaneous print options
 printui-options = Opciones
 printui-headers-footers-checkbox = Imprentar les testeres y los pies de páxina
 printui-backgrounds-checkbox = Imprentar los fondos
+
 printui-selection-checkbox = Imprentar namás la esbilla
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+##
+
 printui-color-mode-label = Mou de color
 printui-color-mode-color = En color
 printui-color-mode-bw = Blancu y prietu
+
 printui-margins = Márxenes
 printui-margins-default = Lo predeterminao
 printui-margins-min = Lo mínimo
@@ -64,17 +83,23 @@ printui-margins-custom-left-mm = Esquierda (mm)
 printui-margins-custom-right = Derecha
 printui-margins-custom-right-inches = Derecha (pulgaes)
 printui-margins-custom-right-mm = Derecha (mm)
+
 printui-system-dialog-link = Imprentar col diálogu del sistema…
+
 printui-primary-button = Imprentar
 printui-primary-button-save = Guardar
 printui-cancel-button = Encaboxar
 printui-close-button = Zarrar
+
 printui-loading = Tresnando la previsualización
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Previsualización de la imprentación
+
 printui-pages-per-sheet = Páxines per fueya
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Imprentando…
@@ -100,6 +125,7 @@ printui-paper-tabloid = Tabloide
 
 printui-error-invalid-scale = La escala ha ser un númberu ente 10 y 200.
 printui-error-invalid-margin = Introduz un marxe válidu pal tamañu de papel esbilláu, por favor.
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = El rangu ha ser un númberu ente 1 y { $numPages }.

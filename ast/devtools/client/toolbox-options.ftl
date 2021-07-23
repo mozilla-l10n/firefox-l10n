@@ -10,9 +10,11 @@
 
 # The heading
 options-select-default-tools-label = DevTools predeterminaes
+
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Botones disponibles na caxa de ferramientes
+
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Estilos
 
@@ -20,6 +22,7 @@ options-select-dev-tools-theme-label = Estilos
 
 # The heading
 options-context-inspector = Inspeutor
+
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Amosar los estilos del restolador
 
@@ -43,9 +46,13 @@ options-sourceeditor-label = Preferencies del editor
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Axustes avanzaos
+
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Desactivar JavaScript *
+
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Activar la depuración remota
+
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Namás na sesión actual, recarga la páxina
+

@@ -6,15 +6,19 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Lleer más
+
 accessibility-text-label-header = Nomes y etiquetes de testu
+
 accessibility-keyboard-header = Tecláu
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
 accessibility-warning =
     .alt = Alvertencia
+
 accessibility-fail =
     .alt = Fallu
+
 accessibility-best-practices =
     .alt = Les meyores práutiques
 
@@ -29,3 +33,4 @@ accessibility-text-label-issue-image = El conteníu con imáxenes ha tar etiquet
 ## issue.
 
 accessibility-keyboard-issue-action = Los elementos interactivos han ser a activase col tecláu. <a>Lleer más</a>
+

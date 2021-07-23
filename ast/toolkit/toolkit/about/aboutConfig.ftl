@@ -11,6 +11,7 @@ config-about-warning-button =
     .label = ¡Acepto'l riesgu!
 config-about-warning-checkbox =
     .label = Amosar esta alvertencia la próxima vegada
+
 config-focus-search =
     .key = r
 
@@ -38,32 +39,43 @@ config-copy-pref =
     .key = C
     .label = Copiar
     .accesskey = C
+
 config-copy-name =
     .label = Copiar el nome
     .accesskey = n
+
 config-copy-value =
     .label = Copiar el valor
     .accesskey = v
+
 config-modify =
     .label = Modificar
     .accesskey = M
+
 config-toggle =
     .label = Alternar
     .accesskey = t
+
 config-string =
     .label = Cadena
     .accesskey = C
+
 config-integer =
     .label = Enteru
     .accesskey = E
+
 config-boolean =
     .label = Valor llóxicu
     .accesskey = L
+
 config-default = por defeutu
 config-modified = modificóse
 config-locked = bloquióse
+
 config-property-string = cadena
 config-property-int = enteru
 config-property-bool = valor llóxicu
+
 config-nan-title = El valor nun ye válidu
 config-nan-text = El testu qu'introduxesti nun ye un númberu.
+

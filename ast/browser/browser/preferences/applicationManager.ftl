@@ -5,12 +5,15 @@
 app-manager-window =
     .title = Detalles de l'aplicación
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Quitar
     .accesskey = Q
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Les aplicaciones de darréu puen usase pa remanar enllaces { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Les aplicaciones de darréu puen usase pa remanar conteníu { $type }.

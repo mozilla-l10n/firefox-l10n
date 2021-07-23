@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = D'acuerdu, entendílo
     .buttonaccesskey = D
 appmenu-addon-post-install-message = Xestiona los complementos calcando <image data-l10n-name='addon-install-icon'></image> nel <image data-l10n-name='addon-menu-icon'></image> menú.
+
 appmenu-update-unsupported2 =
     .label = Nun ye posible anovar
     .buttonlabel = Lleer más
@@ -49,6 +50,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Agora non
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = Hai un anovamientu disponible pa { -brand-shorter-name } mas nun pue instalase porque hai otra copia de { -brand-shorter-name } n'execución. Zárrala pa siguir col anovamientu o escueyi «Anovar { -brand-shorter-name } de toes toes» (la otra copia pue nun funcionar correutamente hasta que la reanicies).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = D'acuerdu
     .buttonaccesskey = D
@@ -56,6 +58,7 @@ appmenu-addon-post-install-message3 = Xestiona los tos complementos y estilos pe
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir qu'esta estensión s'execute en ventanes privaes
     .accesskey = P
+    
 appmenu-new-tab-controlled =
     .label = La páxina «Llingüeta nueva» camudó.
     .buttonlabel = Caltener los cambeos
@@ -68,6 +71,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = C
     .secondarybuttonlabel = Desactivar la estensión
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = La páxina «Llingüeta nueva» camudó.
     .buttonlabel = Caltener los cambeos

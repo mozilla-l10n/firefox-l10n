@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Escoyeta d'un perfil d'usuariu
+
 profile-selection-button-accept =
     .label = Aniciar { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Colar
+
 profile-selection-new-button =
     .label = Crear un perfil…
     .accesskey = C
+
 profile-selection-rename-button =
     .label = Renomar el perfil…
     .accesskey = R
+
 profile-selection-delete-button =
     .label = Desaniciar el perfil…
     .accesskey = E
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } atroxa información tocante a los tos axustes, preferencies y otros elementos nel perfil d'usuariu.
+
 profile-manager-work-offline =
     .label = Trabayar ensin conexón
     .accesskey = o
+
 profile-manager-use-selected =
     .label = Usar el perfil esbilláu ensin entrugar nel aniciu
     .accesskey = u

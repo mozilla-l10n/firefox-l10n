@@ -5,29 +5,40 @@
 translation-window =
     .title = Esceiciones - Traducción
     .style = width: 36em
+
 translation-close-key =
     .key = w
+
 translation-languages-disabled-desc = La traducción nun va ufrise pa les llingües de darréu
+
 translation-languages-column =
     .label = Llingües
+
 translation-languages-button-remove =
     .label = Quitar la llingua
     .accesskey = Q
+
 translation-languages-button-remove-all =
     .label = Quitar toles llingües
     .accesskey = u
+
 translation-sites-disabled-desc = La traducción nun va ufrise pa los sitios web de darréu
+
 translation-sites-column =
     .label = Sitios web
+
 translation-sites-button-remove =
     .label = Quitar el sitiu
     .accesskey = s
+
 translation-sites-button-remove-all =
     .label = Quitar tolos sitios
     .accesskey = i
+
 translation-button-close =
     .label = Zarrar
     .accesskey = Z
+
 translation-dialog =
     .buttonlabelaccept = Zarrar
     .buttonaccesskeyaccept = Z

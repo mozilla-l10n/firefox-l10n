@@ -5,10 +5,13 @@
 profiledowngrade-window =
     .title = Llancesti una versión vieya de { -brand-product-name }
     .style = width: 490px;
+
 profiledowngrade-window-create =
     .label = Crear un perfil
+
 profiledowngrade-sync = Usar una versión vieya de { -brand-product-name } pue toyer los marcadores y l'historial de restolar que tean guardaos nun perfil esistente de { -brand-product-name }. Pa protexer la información, crea un perfil nuevu pa esta instalación de { -brand-short-name }. Siempres pues aniciar sesión en { -fxaccount-brand-name } pa sincronizar los marcadores y l'historial de restolar ente perfiles.
 profiledowngrade-nosync = Usar una versión vieya de { -brand-product-name } pue toyer los marcadores y l'historial de restolar que tean guardaos nun perfil esistente de { -brand-product-name }. Pa protexer la información, crea un perfil nuevu pa esta instalación de { -brand-short-name }.
+
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

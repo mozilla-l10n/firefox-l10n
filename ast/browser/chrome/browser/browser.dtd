@@ -124,6 +124,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Historial">
+
 <!ENTITY historyUndoMenu.label "Llingüetes zarraes apocayá">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ventanes zarraes apocayá">
@@ -133,6 +134,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.clearRecent.label "Llimpiar l'historial recién…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar la sesión anterior">
 <!ENTITY appMenuHistory.recentHistory.label "Historial recién">
+
 <!ENTITY appMenuHelp.label "Ayuda">
 
 <!ENTITY appMenuRemoteTabs.label "Llingüetes sincronizaes">

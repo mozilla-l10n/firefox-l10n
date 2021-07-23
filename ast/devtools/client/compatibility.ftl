@@ -36,6 +36,7 @@ compatibility-issue-occurrences =
         [one] { $number } coincidencia
        *[other] { $number } coincidencies
     }
+
 compatibility-no-issues-found = Nun s'atoparon problemes de compatibilidá.
 compatibility-close-settings-button =
     .title = Zarrar los axustes

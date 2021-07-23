@@ -54,6 +54,7 @@ close-tab =
     .title = Zarrar la llingüeta
 show-addon =
     .title = Amosar nel xestor de complementos
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

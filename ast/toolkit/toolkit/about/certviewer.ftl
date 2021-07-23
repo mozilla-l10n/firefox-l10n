@@ -49,6 +49,7 @@ certificate-viewer-validity = Validez
 certificate-viewer-public-key-info = Información de la clave pública
 certificate-viewer-fingerprints = Buelgues
 certificate-viewer-certificate-policies = Polítiques del certificáu
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Descarga
@@ -68,6 +69,7 @@ certificate-viewer-download-pem = PEM (certificáu)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadena)
     .download = cadena-{ $fileName }.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Esta estensión marcóse como crítica lo que significa que los veceros han refugar el certificáu si nun lu entienden.

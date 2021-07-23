@@ -12,9 +12,11 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Asocedió un fallu na conexón a { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Códigu del fallu: { $error }
+
 ssl-error-bad-client = El sirvidor atopó datos incorreutos del veceru.
 ssl-error-bad-server = El veceru atopó datos incorreutos del sirvidor.
 ssl-error-generate-random-failure = SSL esperimentó un fallu del so xenerador de númberos al debalu.
