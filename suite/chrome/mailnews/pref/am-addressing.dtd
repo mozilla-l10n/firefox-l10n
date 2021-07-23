@@ -27,9 +27,6 @@
 <!ENTITY useHtml.accesskey                    "я">
 <!ENTITY autoQuote.label                      "При ответе автоматически цитировать текст исходного сообщения">
 <!ENTITY autoQuote.accesskey                  "о">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Затем:">
-<!ENTITY then.accesskey                       "е">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "При цитировании,">
 <!ENTITY quoting.accesskey                    "н">

@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Присоединение к чату
+
 chat-left-chat-icon2 =
     .alt = Покинул(а) чат
+
 chat-participant-owner-role-icon2 =
     .alt = Владелец
+
 chat-participant-administrator-role-icon2 =
     .alt = Администратор
+
 chat-participant-moderator-role-icon2 =
     .alt = Модератор
+
 chat-participant-voiced-role-icon2 =
     .alt = Участник может публиковать сообщения

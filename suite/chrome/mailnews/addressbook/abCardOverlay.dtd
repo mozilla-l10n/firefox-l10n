@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "Отображать как:">
 <!ENTITY DisplayName.accesskey          "т">
 <!ENTITY preferDisplayName.label        "Всегда использовать отображаемое имя вместо имени из заголовка сообщения">
-<!ENTITY preferDisplayName.accesskey    "е">
 <!ENTITY preferDisplayName2.accesskey   "е">
 <!ENTITY NickName.label                 "Псевдоним:">
 <!ENTITY NickName.accesskey             "д">
@@ -46,8 +45,6 @@
 <!ENTITY PlainText.label                "Простой текст">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Неизвестно">
-<!ENTITY ScreenName.label               "Интернет-пейджер:">
-<!ENTITY ScreenName.accesskey           "й">
 
 <!ENTITY chatName.label                 "Имя в чате:">
 

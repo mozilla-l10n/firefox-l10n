@@ -8,10 +8,6 @@ about-addressbook-title = Адресная книга
 
 about-addressbook-toolbar-new-address-book =
     .label = Новая адресная книга
-about-addressbook-toolbar-new-carddav-address-book =
-    .label = Новая адресная книга CardDAV
-about-addressbook-toolbar-new-ldap-address-book =
-    .label = Новая адресная книга LDAP
 about-addressbook-toolbar-add-carddav-address-book =
     .label = Добавить адресную книгу CardDAV
 about-addressbook-toolbar-add-ldap-address-book =
@@ -24,6 +20,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Все адресные книги
+
 about-addressbook-books-context-properties =
     .label = Свойства
 about-addressbook-books-context-synchronize =
@@ -34,6 +31,7 @@ about-addressbook-books-context-delete =
     .label = Удалить
 about-addressbook-books-context-remove =
     .label = Удалить
+
 about-addressbook-confirm-delete-book-title = Удаление адресной книги
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -51,14 +49,17 @@ about-addressbook-search =
     .placeholder = Поиск в { $name }
 about-addressbook-search-all =
     .placeholder = Поиск во всех адресных книгах
+
 about-addressbook-sort-button =
     .title = Изменение порядка в списке
+
 about-addressbook-name-format-display =
     .label = Отображаемое имя
 about-addressbook-name-format-firstlast =
     .label = Первый Последний
 about-addressbook-name-format-lastfirst =
     .label = Последний, Первый
+
 about-addressbook-sort-name-ascending =
     .label = Сортировать по имени (от А до Я)
 about-addressbook-sort-name-descending =
@@ -67,6 +68,7 @@ about-addressbook-sort-email-ascending =
     .label = Сортировать по адресу эл. почты (от A до Z)
 about-addressbook-sort-email-descending =
     .label = Сортировать по адресу эл. почты (от Z до A)
+
 about-addressbook-confirm-delete-mixed-title = Удаление контактов и списков
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -129,6 +131,7 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Изменить
 about-addressbook-cancel-edit-contact-button = Отмена
 about-addressbook-save-edit-contact-button = Сохранить
+
 about-addressbook-details-email-addresses-header = Адреса электронной почты
 about-addressbook-details-phone-numbers-header = Телефонные номера
 about-addressbook-details-home-address-header = Домашний адрес

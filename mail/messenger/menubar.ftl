@@ -16,6 +16,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Настройки
     .accesskey = а
+
 menu-addons-and-themes =
     .label = Дополнения и темы
     .accesskey = п
@@ -25,9 +26,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Безопасный режим…
     .accesskey = п
+
 menu-help-exit-troubleshoot-mode =
     .label = Отключить безопасный режим
     .accesskey = ю
+
 menu-help-more-troubleshooting-info =
     .label = Информация для решения проблем
     .accesskey = ш
@@ -58,12 +61,15 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Значки
     .accesskey = н
+
 mail-uidensity-compact =
     .label = Компактные
     .accesskey = м
+
 mail-uidensity-normal =
     .label = Обычные
     .accesskey = ы
+
 mail-uidensity-touch =
     .label = Сенсорные
     .accesskey = о

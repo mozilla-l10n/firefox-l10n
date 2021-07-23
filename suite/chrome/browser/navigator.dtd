@@ -58,10 +58,6 @@
 <!ENTITY printButton.label            "Печать">
 <!ENTITY printButton.tooltip          "Распечатать эту страницу">
 
-<!ENTITY throbber.tooltip             "Перейти на домашнюю страницу &vendorShortName;">
-
-<!ENTITY throbber.tooltip2            "Перейти на домашнюю страницу &brandShortName;">
-
 <!ENTITY locationBar.tooltip          "Введите выражение для поиска, краткое имя закладки или веб-адрес">
 <!ENTITY locationBar.accesskey        "д">
 <!ENTITY locationBar.title            "Расположение">

@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Тип папки:">
 
 <!ENTITY folderQuotaTab.label                    "Квота">
-<!ENTITY folderQuotaRoot.label                   "Квота:">
 <!ENTITY folderQuotaUsage.label                  "Использовано:">
 <!ENTITY folderQuotaStatus.label                 "Состояние:">
 

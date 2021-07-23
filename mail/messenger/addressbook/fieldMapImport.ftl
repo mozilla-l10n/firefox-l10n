@@ -4,6 +4,7 @@
 
 import-ab-csv-window =
     .title = Импорт адресной книги из текстового файла
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Импорт
     .buttonaccesskeyaccept = м

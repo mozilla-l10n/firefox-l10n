@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Импортируйте ваш логин из { $browser }</div>
     <div data-l10n-name="line2">для { $host } и других сайтов</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Подробнее
 
