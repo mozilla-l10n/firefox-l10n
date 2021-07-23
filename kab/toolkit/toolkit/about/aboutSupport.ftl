@@ -413,6 +413,7 @@ support-printing-prefs-value = Azal
 support-remote-experiments-title = Tirmitin tinmeggagin
 support-remote-experiments-name = Isem
 support-remote-experiments-branch = Anfal armitan
+support-remote-experiments-see-about-studies = Wali <a data-l10n-name="support-about-studies-link">about:studies</a> i wugar n telɣut, akked ɣef wamek </a>ad tsenseḍ ikayaden udmawanen neɣ amek ad tsenseḍ { -brand-short-name } seg uselkem n wanaw-a n tirmit sya ɣer sadt.
 support-remote-features-title = Timahilin tinmeggayin
 support-remote-features-name = Isem
 support-remote-features-status = Addad
