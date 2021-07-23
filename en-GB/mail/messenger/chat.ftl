@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Joining chat
+
 chat-left-chat-icon2 =
     .alt = Left chat
+
 chat-participant-owner-role-icon2 =
     .alt = Owner
+
 chat-participant-administrator-role-icon2 =
     .alt = Administrator
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderator
+
 chat-participant-voiced-role-icon2 =
     .alt = Participant can post messages

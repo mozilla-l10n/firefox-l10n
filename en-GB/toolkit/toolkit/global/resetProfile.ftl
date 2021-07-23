@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Refresh { -brand-short-name }
+
 refresh-profile-dialog-title = Refresh { -brand-short-name } to its default settings?
 refresh-profile-dialog-button =
     .label = Refresh { -brand-short-name }

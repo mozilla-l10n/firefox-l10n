@@ -11,6 +11,7 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } — Sharing Indicator
+
 webrtc-sharing-window = You are sharing another application window.
 webrtc-sharing-browser-window = You are sharing { -brand-short-name }.
 webrtc-sharing-screen = You are sharing your entire screen.
@@ -29,6 +30,7 @@ webrtc-camera-muted =
     .title = Turn camera on
 webrtc-minimize =
     .title = Minimise indicator
+
 # This string will display as a tooltip on supported systems where we show
 # device sharing state in the OS notification area. We do not use these strings
 # on macOS, as global menu bar items do not have native tooltips.
