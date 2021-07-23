@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Rhagosodiad ({ $name })
 fonts-label-default-unnamed =
     .label = Rhagosodiad
+
 fonts-encoding-dialog-title =
     .title = Ffontiau ac Amgodio
+
 fonts-language-legend =
     .value = Ffontiau ar gyfer:
     .accesskey = F
+
 fonts-proportional-label =
     .value = Cyfrannol:
     .accesskey = y
@@ -85,38 +89,49 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-label =
     .value = Maint:
     .accesskey = e
+
 font-size-proportional-label =
     .value = Maint:
     .accesskey = M
+
 font-size-monospace-label =
     .value = Maint:
     .accesskey = i
+
 font-serif-label =
     .value = Serif:
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Monospace:
     .accesskey = M
+
 font-min-size-label =
     .value = Lleiafswm maint ffont:
     .accesskey = L
+
 min-size-none =
     .label = Dim
 
 ## Fonts in message
 
 font-control-legend = Rheoli Ffontiau
+
 use-document-fonts-checkbox =
     .label = Caniatáu i negeseuon ddefnyddio ffontiau eraill
     .accesskey = C
+
 use-fixed-width-plain-checkbox =
     .label = Defnyddio ffont lled sefydlog ar gyfer negeseuon testun plaen
     .accesskey = x
@@ -124,13 +139,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Amgodiad Testun
+
 text-encoding-description = Gosod yr amgodiad testun rhagosodedig ar gyfer anfon a derbyn e-bost
+
 font-outgoing-email-label =
     .value = Anfon E-bost:
     .accesskey = A
+
 font-incoming-email-label =
     .value = Derbyn E-bost:
     .accesskey = D
+
 default-font-reply-checkbox =
     .label = Pan yn bosib, defnyddio'r amgodiad testun rhagosodedig wrth ateb
     .accesskey = a

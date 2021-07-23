@@ -14,11 +14,15 @@ about-config-intro-warning-button = Derbyn y Perygl a Pharhau
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Gall newid dewisiadau ffurfweddiad uwch effeithio ar berfformiad neu ddiogelwch { -brand-short-name }.
+
 about-config-page-title = Dewisiadau Uwch
+
 about-config-search-input1 =
     .placeholder = Enw dewis chwilio
 about-config-show-all = Dangos Popeth
+
 about-config-show-only-modified = Dangos dewisiadau wedi'u haddasu yn unig
+
 about-config-pref-add-button =
     .title = Ychwanegu
 about-config-pref-toggle-button =

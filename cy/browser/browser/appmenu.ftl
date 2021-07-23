@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = Mae diweddariad ar gael — llwytho i lawr nawr
     .label-update-unsupported = Methu diweddaru — mae'r system yn anghydnaws
     .label-update-restart = Mae diweddariad ar gael — ailgychwyn nawr
+
 appmenuitem-protection-dashboard-title = Bwrdd Gwaith Diogelwch
 appmenuitem-customize-mode =
     .label = Cyfaddasu…
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Cau Dewislen y Rhaglen
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = Chwyddo mewn
 appmenuitem-zoom-reduce =
     .label = Chwyddo allan
+
 appmenuitem-fullscreen =
     .label = Sgrin Lawn
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Cydweddu Nawr
+
 appmenu-remote-tabs-sign-into-sync =
     .label = Mewngofnodi i Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Cychwyn Sync…
+
 appmenuitem-fxa-toolbar-sync-now2 = Cydweddu Nawr
 appmenuitem-fxa-manage-account = Rheoli Cyfrif
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = Mewngofnodi
 appmenu-fxa-setup-sync =
     .label = Cychwyn Cydweddu…
 appmenu-fxa-show-more-tabs = Dangos Rhagor o Dabiau
+
 appmenuitem-save-page =
     .label = Cadw Tudalen Fel…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Beth sy'n Newydd
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,35 +103,49 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Dangos rhagor o wybodaeth
+
 profiler-popup-description-title =
     .value = Cofnodi, dadansoddi, rhannu
+
 profiler-popup-description = Cydweithiwch ar faterion perfformiad trwy gyhoeddi proffiliau i'w rhannu â'ch tîm.
+
 profiler-popup-learn-more = Dysgu rhagor
+
 profiler-popup-settings =
     .value = Gosod­iadau
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Golygu Gosodiadau...
+
 profiler-popup-disabled =
     Mae'r proffiliwr wedi'i analluogi ar hyn o bryd, yn fwyaf tebygol oherwydd fod ffenestr Pori Preifat
     ar agor
+
 profiler-popup-recording-screen = Yn cofnodi…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Cyfaddas
+
 profiler-popup-start-recording-button =
     .label = Cychwyn Cofnodi
+
 profiler-popup-discard-button =
     .label = Dileu
+
 profiler-popup-capture-button =
     .label = Cipio
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -137,6 +158,7 @@ appmenu-manage-history =
     .label = Rheoli Hanes
 appmenu-reopen-all-tabs = Ailagor Pob Tab
 appmenu-reopen-all-windows = Ailagor Pob Ffenestr
+
 appmenu-restore-session =
     .label = Adfer y Sesiwn Flaenorol
 appmenu-clear-history =
@@ -192,6 +214,7 @@ appmenu-customizetoolbar =
     .label = Cyfaddasu'r Bar Offer…
 appmenu-taskmanager =
     .label = Rheolwr Tasgau
+
 appmenu-developer-tools-subheader = Offer y Porwr
 appmenu-developer-tools-extensions =
     .label = Estyniadau ar gyfer Datblygwyr

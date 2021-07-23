@@ -5,65 +5,85 @@
 permissions-window =
     .title = Eithriadau
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Cyfeiriad y wefan
     .accesskey = y
+
 permissions-block =
     .label = Rhwystro
     .accesskey = R
+
 permissions-session =
     .label = Caniatáu ar gyfer y Sesiwn
     .accesskey = S
+
 permissions-allow =
     .label = Caniatáu
     .accesskey = a
+
 permissions-button-off =
     .label = Diffodd
     .accesskey = D
+
 permissions-button-off-temporarily =
     .label = Diffodd Dros Dro
     .accesskey = D
+
 permissions-site-name =
     .label = Gwefan
+
 permissions-status =
     .label = Statws
+
 permissions-remove =
     .label = Tynnu Gwefan
     .accesskey = T
+
 permissions-remove-all =
     .label = Tynnu Pob Gwefan
     .accesskey = G
+
 permissions-button-cancel =
     .label = Diddymu
     .accesskey = D
+
 permissions-button-ok =
     .label = Cadw Newidiadau
     .accesskey = N
+
 permission-dialog =
     .buttonlabelaccept = Cadw Newidiadau
     .buttonaccesskeyaccept = N
+
 permissions-autoplay-menu = Y rhagosodedig am bob gwefan:
+
 permissions-searchbox =
     .placeholder = Chwilio'r Wefan
+
 permissions-capabilities-autoplay-allow =
     .label = Caniatáu Sain a Fideo
 permissions-capabilities-autoplay-block =
     .label = Rhwystro Sain
 permissions-capabilities-autoplay-blockall =
     .label = Rhwystro Sain a Fideo
+
 permissions-capabilities-allow =
     .label = Caniatáu
 permissions-capabilities-block =
     .label = Rhwystro
 permissions-capabilities-prompt =
     .label = Gofyn bob Tro
+
 permissions-capabilities-listitem-allow =
     .value = Caniatáu
 permissions-capabilities-listitem-block =
     .value = Rhwystro
 permissions-capabilities-listitem-allow-session =
     .value = Caniatáu ar gyfer y Sesiwn
+
 permissions-capabilities-listitem-off =
     .value = Diffodd
 permissions-capabilities-listitem-off-temporarily =

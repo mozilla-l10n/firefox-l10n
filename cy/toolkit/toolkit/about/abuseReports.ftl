@@ -42,6 +42,11 @@ abuse-report-submit-button = Cyflwyno
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Diddymwyd yr adroddiad ar gyfer <span data-l10n-name="addon-name">{ $addon-name }</span>>.
 abuse-report-messagebar-submitting = Anfon adroddiad ar gyfer <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Diolch i chi am gyflwyno adroddiad. Ydych chi am gael gwared ar <span data-l10n-name="addon-name">{ $addon-name }</span>?

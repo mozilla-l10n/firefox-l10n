@@ -129,6 +129,8 @@ security-site-data-only = Ydy, { $value } { $unit } o ddata gwefan
 security-site-data-cookies-only = Ydy, cwcis
 security-site-data-no = Na
 
+##
+
 image-size-unknown = Anhysbys
 page-info-not-specified =
     .value = Heb ddiffinio

@@ -4,14 +4,18 @@
 
 third-party-page-title = Gwybodaeth am Fodiwlau Trydydd Parti
 third-party-section-title = Rhestr o fodiwlau trydydd parti yn { -brand-short-name }
+
 third-party-intro =
     Mae'r dudalen hon yn dangos y modiwlau trydydd parti a chwistrellwyd i'ch { -brand-short-name }.
     Mae unrhyw fodiwl sydd heb ei lofnodi gan Microsoft neu { -vendor-short-name } 
     yn cael ei ystyried yn fodiwl trydydd parti.
+
 third-party-header-module-list = Rhestr modiwlau
 third-party-header-loading-events = Yn llwytho digwyddiadau
+
 third-party-message-empty = Heb ganfod unrhyw fodiwlau trydydd parti.
 third-party-message-no-duration = Heb ei recordio
+
 third-party-detail-version = Fersiwn ffeil
 third-party-detail-vendor = Manylion y gwerthwr
 third-party-detail-occurrences = Amlder
@@ -20,9 +24,11 @@ third-party-detail-duration = Cyfartaledd amser Rhwystro (ms)
     .title = Am faint o amser rhwystrodd y modiwl y rhaglen.
 third-party-detail-app = Rhaglen
 third-party-detail-publisher = Cyhoeddwr
+
 third-party-th-process = Proses
 third-party-th-duration = Cyfnod Llwytho (ms)
 third-party-th-status = Statws
+
 third-party-tag-ime = IME
     .title = Mae'r math yma o fodiwl wedi ei lwytho pan fyddwch yn defnyddio IME trydydd parti.
 third-party-tag-shellex = Estyniad Cragen
@@ -35,9 +41,11 @@ third-party-unsigned-icon =
     .title = Nid yw'r modiwl hwn wedi'i lofnodi
 third-party-warning-icon =
     .title = Chwalodd { -brand-short-name } yn y cod o'r modiwl hwn
+
 third-party-status-loaded = Wedi llwytho
 third-party-status-blocked = Wedi'i rwystro
 third-party-status-redirected = Wedi'i ailgyfeirio
+
 third-party-button-copy-to-clipboard = Copïo data bras i'r clipfwrdd
 third-party-button-reload = Ail-lwytho gyda manylion y system
     .title = Ail-lwytho gyda manylion y system
