@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Abrir con { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

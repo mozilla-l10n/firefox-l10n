@@ -4,14 +4,18 @@
 
 third-party-page-title = Información del módulo de terceros
 third-party-section-title = Lista de módulos de terceros en { -brand-short-name }
+
 third-party-intro =
     Esta página muestra los módulos de terceros que fueron inyectados a tu
     { -brand-short-name }. Cualquier módulo que no esté firmado por Microsoft o
     { -vendor-short-name } se considera un módulo de terceros.
+
 third-party-header-module-list = Lista de módulos
 third-party-header-loading-events = Cargando eventos
+
 third-party-message-empty = No se detectaron módulos de terceros.
 third-party-message-no-duration = No registrado
+
 third-party-detail-version = Versión del archivo
 third-party-detail-vendor = Info del fabricante
 third-party-detail-occurrences = Ocurrencias
@@ -20,9 +24,11 @@ third-party-detail-duration = Tiempo de bloqueo promedio (ms)
     .title = Cuánto tiempo bloqueo este módulo la aplicación.
 third-party-detail-app = Aplicación
 third-party-detail-publisher = Editor
+
 third-party-th-process = Proceso
 third-party-th-duration = Duración de carga (ms)
 third-party-th-status = Estado
+
 third-party-tag-ime = IME
     .title = Este tipo de módulo es cargado cuando usa un IME de terceros.
 third-party-tag-shellex = Extensión de la consola
@@ -33,9 +39,11 @@ third-party-unsigned-icon =
     .title = Este módulo no está firmado
 third-party-warning-icon =
     .title = { -brand-short-name } falló en el código de este módulo
+
 third-party-status-loaded = Cargado
 third-party-status-blocked = Bloqueado
 third-party-status-redirected = Redirigido
+
 third-party-button-copy-to-clipboard = Copiar datos en bruto al portapapeles
 third-party-button-reload = Recargar con info del sistema
     .title = Recargar con información del sistema

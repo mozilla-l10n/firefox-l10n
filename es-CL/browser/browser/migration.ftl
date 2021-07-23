@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Asistente de importación
+
 import-from =
     { PLATFORM() ->
         [windows] Importar opciones, marcadores, historial, contraseñas y otros datos de:
        *[other] Importar preferencias, marcadores, historial, contraseñas y otros datos de:
     }
+
 import-from-bookmarks = Importar marcadores de:
 import-from-ie =
     .label = Internet Explorer
@@ -49,25 +51,39 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = No se encontraron aplicaciones que contuvieran marcadores, historiales o datos de contraseñas.
+
 import-source-page-title = Importar configuraciones y datos
 import-items-page-title = Elementos a importar
+
 import-items-description = Seleccione los elementos a importar:
+
 import-permissions-page-title = Por favor, dale permisos a { -brand-short-name }
+
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS requiere que permitas explícitamente a { -brand-short-name } acceder a los marcadores de Safari. Haz clic en “Continuar” y selecciona el archivo “Bookmarks.plist” en el panel de abrir archivo que se mostrará.
+
 import-migrating-page-title = Importando…
+
 import-migrating-description = Los siguientes elementos están siendo importados…
+
 import-select-profile-page-title = Seleccionar perfil
+
 import-select-profile-description = Los siguientes perfiles están disponibles para ser importados de:
+
 import-done-page-title = Importación terminada
+
 import-done-description = Los siguientes elementos fueron importados exitosamente:
+
 import-close-source-browser = Por favor, asegúrate de que el navegador seleccionado está cerrado antes de continuar.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = De { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -79,6 +95,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = Lista de lectura (De Safari)
 imported-edge-reading-list = Lista de lectura (De Edge)
 
@@ -100,6 +117,7 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -112,10 +130,12 @@ browser-data-history-label =
             [firefox] Historial de navegación y marcadores
            *[other] Historial de navegación
         }
+
 browser-data-formdata-checkbox =
     .label = Historial de formularios guardados
 browser-data-formdata-label =
     .value = Historial de formularios guardados
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -124,6 +144,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Credenciales y contraseñas guardadas
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -138,10 +159,12 @@ browser-data-bookmarks-label =
             [edge] Favoritos
            *[other] Marcadores
         }
+
 browser-data-otherdata-checkbox =
     .label = Otros datos
 browser-data-otherdata-label =
     .label = Otros datos
+
 browser-data-session-checkbox =
     .label = Ventanas y pestañas
 browser-data-session-label =
