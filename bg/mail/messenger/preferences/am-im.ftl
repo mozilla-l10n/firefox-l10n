@@ -4,5 +4,6 @@
 
 account-settingsTitle = Настройки за удостоверяване
 account-channelTitle = Подразбирани канали
+
 account-settings-title = Настройки за удостоверяване
 account-channel-title = Подразбирани канали

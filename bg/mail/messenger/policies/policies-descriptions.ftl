@@ -11,17 +11,29 @@
 ## in the documentation section in about:policies.
 
 policy-AppAutoUpdate = Включва или изключва автоматичното обновяване на приложението.
+
 policy-BlockAboutConfig = Забранява достъпа до страницата „about:config“.
+
 policy-BlockAboutProfiles = Забранява достъпа до страницата „about:profiles“.
+
 policy-BlockAboutSupport = Забранява достъпа до страницата „about:support“.
+
 policy-DisableAppUpdate = Забранява обновяване на { -brand-short-name }.
+
 policy-DisableDeveloperTools = Забранява достъпа до развойните инструменти.
+
 policy-DisableFormHistory = Не запазва историята на търсене и формуляри.
+
 policy-DisableMasterPasswordCreation = Ако е true, не може да бъде създавана главна парола.
+
 policy-DisablePasswordReveal = В запазените регистрации паролите не могат да бъдат показвани.
+
 policy-DisableTelemetry = Изключва телеметрията.
+
 policy-DNSOverHTTPS = Настройки на DNS през HTTPS.
+
 policy-ExtensionUpdate = Включва или изключва автоматичното обновяване на разширения.
+
 policy-InstallAddonsPermission = Разрешава определени страници да инсталират добавки.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -30,3 +42,4 @@ policy-InstallAddonsPermission = Разрешава определени стр�
 ##
 
 policy-Proxy = Настройки на мрежов посредник.
+

@@ -23,6 +23,7 @@ places-open-window =
 places-open-private-window =
     .label = Отваряне в поверителен прозорец
     .accesskey = п
+
 places-new-bookmark =
     .label = Нова отметка…
     .accesskey = о
@@ -35,12 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = Нов разделител
     .accesskey = р
+
 places-open-in-window =
     .label = Отваряне в прозорец
     .accesskey = О
 places-open-in-private-window =
     .label = Отваряне в поверителен прозорец
     .accesskey = п
+
 places-add-bookmark =
     .label = Нова отметка…
     .accesskey = о
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = Нов разделител
     .accesskey = р
+
 places-view =
     .label = Изглед
     .accesskey = И
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = По дата и сайт
     .accesskey = а
+
 places-history-search =
     .placeholder = Търсене в историята
 places-bookmarks-search =
     .placeholder = Търсене в отметките
+
 places-delete-domain-data =
     .label = Забравяне на страницата
     .accesskey = З
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = Свойства
     .accesskey = С
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Редактиране на отметка…
@@ -101,15 +108,18 @@ places-remove-folder =
            *[other] Премахване на папки
         }
     .accesskey = м
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Служебни отметки
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Подпапка
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Други отметки
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -120,6 +130,7 @@ places-remove-bookmark =
            *[other] Премахване на отметките
         }
     .accesskey = П
+
 places-manage-bookmarks =
     .label = Управление на отметки
     .accesskey = У

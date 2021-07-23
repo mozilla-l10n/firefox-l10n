@@ -14,10 +14,13 @@ about-config-intro-warning-button = Продължаване въпреки ри
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Промяната на тези настройки може да повлияе на бързодействието или сигурността на { -brand-short-name }.
+
 about-config-page-title = Разширени настройки
+
 about-config-search-input1 =
     .placeholder = Търсене в настройките
 about-config-show-all = Показване на всички
+
 about-config-pref-add-button =
     .title = Добавяне
 about-config-pref-toggle-button =

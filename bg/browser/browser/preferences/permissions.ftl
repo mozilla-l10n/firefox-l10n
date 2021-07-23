@@ -5,65 +5,85 @@
 permissions-window =
     .title = Изключения
     .style = width: 52em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Адрес на страница
     .accesskey = д
+
 permissions-block =
     .label = Забраняване
     .accesskey = З
+
 permissions-session =
     .label = Разрешаване за сесията
     .accesskey = с
+
 permissions-allow =
     .label = Разрешаване
     .accesskey = Р
+
 permissions-button-off =
     .label = Изключване
     .accesskey = з
+
 permissions-button-off-temporarily =
     .label = Временно изключване
     .accesskey = з
+
 permissions-site-name =
     .label = Страница
+
 permissions-status =
     .label = Състояние
+
 permissions-remove =
     .label = Премахване на страница
     .accesskey = с
+
 permissions-remove-all =
     .label = Премахване на всички страници
     .accesskey = в
+
 permissions-button-cancel =
     .label = Отказ
     .accesskey = О
+
 permissions-button-ok =
     .label = Запазване
     .accesskey = З
+
 permission-dialog =
     .buttonlabelaccept = Запазване
     .buttonaccesskeyaccept = З
+
 permissions-autoplay-menu = Стандартно за всички страници:
+
 permissions-searchbox =
     .placeholder = Търсене на страница
+
 permissions-capabilities-autoplay-allow =
     .label = Разрешено и видео и звук
 permissions-capabilities-autoplay-block =
     .label = Без звук
 permissions-capabilities-autoplay-blockall =
     .label = Без звук и видео
+
 permissions-capabilities-allow =
     .label = Разрешено
 permissions-capabilities-block =
     .label = Забранено
 permissions-capabilities-prompt =
     .label = Винаги да пита
+
 permissions-capabilities-listitem-allow =
     .value = Разрешено
 permissions-capabilities-listitem-block =
     .value = Забранено
 permissions-capabilities-listitem-allow-session =
     .value = Разрешено за сесия
+
 permissions-capabilities-listitem-off =
     .value = Изключено
 permissions-capabilities-listitem-off-temporarily =

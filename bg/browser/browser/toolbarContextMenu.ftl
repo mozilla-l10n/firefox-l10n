@@ -24,18 +24,21 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Отваряне на затворени раздели
         }
     .accesskey = в
+
 toolbar-context-menu-manage-extension =
     .label = Управление на добавката
     .accesskey = д
 toolbar-context-menu-remove-extension =
     .label = Премахване на разширението
     .accesskey = в
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Докладване на разширението
     .accesskey = к
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -51,6 +54,7 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Приспособяване…
     .accesskey = П
+
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Показване на другите отметки
     .accesskey = д

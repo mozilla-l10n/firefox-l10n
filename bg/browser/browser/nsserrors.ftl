@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Грешка при свързване с { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Код на грешката: { $error }
+
 psmerr-ssl-disabled = Не може да бъде осъществена безопасна връзка, защото SSL протоколът е изключен.
 psmerr-ssl2-disabled = Не може да бъде осъществена безопасна връзка, защото страницата използва стара и несигурна версия на протокола SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Вие получихте невалиден сертификат. Моля, свържете се с администратора на сървъра и дайте следната информация:
     
     Вашият сертификат съдържа същия сериен номер като друг, издаден от сертификатора. Моля, дайте нов сертификат с уникален сериен номер.
+
 ssl-error-export-only-server = Не може да се осъществи сигурна комуникация. Партньорът не поддържа висококачествено шифроване.
 ssl-error-us-only-server = Не може да се осъществи сигурна комуникация. Партньорът изисква неподдържано висококачествено шифроване.
 ssl-error-no-cypher-overlap = Не може да се осъществи сигурна комуникация. Няма общи алгоритми за шифроване.

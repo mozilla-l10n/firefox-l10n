@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Пускане в Надежден режим
+
 start-troubleshoot-mode =
     .label = Отваряне
 refresh-profile =
