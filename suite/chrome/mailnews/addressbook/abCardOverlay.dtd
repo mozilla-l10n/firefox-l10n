@@ -5,6 +5,7 @@
 <!ENTITY Contact.tab "Adres">
 <!ENTITY Contact.accesskey "d">
 <!ENTITY Name.box "Adı">
+
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -43,16 +44,6 @@
 <!ENTITY PlainText.label "Düz metin">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Bilinmiyor">
-<!ENTITY ScreenName.label "Ekran adı:">
-<!ENTITY ScreenName.accesskey "r">
-
-<!ENTITY allowRemoteContent1.label "Uzak içeriği kabul et.">
-<!ENTITY allowRemoteContent1.accesskey "U">
-<!ENTITY allowRemoteContent1.tooltip "Uzak kaynaklardan gelen gömülü içerik HTML ileti içerebilir. 
-Açılacak bir ileti dış kaynağa bir bağlantı açacak. 
-Okunmaya başlanan iletinin izlenmesi için kabul edilmelidir. 
-Bu kişinin dış gömülü içeriğinin HTML iletiyi kabul etmek için 
-bu kutuyu kontrol edin.">
 
 <!ENTITY WorkPhone.label "İş:">
 <!ENTITY WorkPhone.accesskey "ş">

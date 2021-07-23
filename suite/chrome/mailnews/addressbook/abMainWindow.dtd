@@ -22,9 +22,9 @@
 <!ENTITY newIM.label "IM">
 <!ENTITY printContactViewCmd.label "Kişi yazdır…">
 <!ENTITY printContactViewCmd.accesskey "y">
+<!ENTITY printContactViewCmd.key "P">
 <!ENTITY printPreviewContactViewCmd.label "Kişi yazdırma önizleme">
 <!ENTITY printPreviewContactViewCmd.accesskey "K">
-<!ENTITY printContactViewCmd.key "P">
 <!ENTITY printAddressBook.label "Adres defterini yazdır…">
 <!ENTITY printAddressBook.accesskey "A">
 <!ENTITY printPreviewAddressBook.label "Adres defteri yazdırma önizleme">
@@ -47,9 +47,6 @@
 
 <!ENTITY showAbToolbarCmd.label "Araç çubuğunu göster">
 <!ENTITY showAbToolbarCmd.accesskey "r">
-
-<!ENTITY showCardPane.label "Kartvizit özet paneli">
-<!ENTITY showCardPane.accesskey "K">
   
 <!ENTITY menu_ShowNameAs.label "İsmi farklı göster:">
 <!ENTITY menu_ShowNameAs.accesskey "ö">
@@ -90,14 +87,16 @@
 <!ENTITY newmsgButton.tooltip "İletiyi gönder">
 <!ENTITY newIM.tooltip "Hızlı ileti gönder veya chat yap">
 <!ENTITY deleteItemButton.tooltip "Seçilmiş öğeleri sil">
-<!ENTITY throbber.tooltip "&vendorShortName; anasayfasına git">
 <!ENTITY advancedButton.tooltip "Gelişmiş adres arama">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label "Address Books">
 <!-- Status Bar -->  
 
+<!-- Card Summary Pane -->
+
 <!ENTITY statusText.label "">
+
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 

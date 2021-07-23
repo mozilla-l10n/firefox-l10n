@@ -8,15 +8,19 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = { $addon-name } raporu
+
 abuse-report-title-extension = Bu uzantıyı { -vendor-short-name }’ya şikâyet et
 abuse-report-title-theme = Bu temayı { -vendor-short-name }’ya şikâyet et
 abuse-report-subtitle = Sorun nedir?
+
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = geliştiren: <a data-l10n-name="author-name">{ $author-name }</a>
+
 abuse-report-learnmore =
     Hangi sorunu seçeceğinize karar veremediniz mi?
     <a data-l10n-name="learnmore-link">Uzantıları ve temaları şikâyet etme hakkında daha fazla bilgi alın</a>
+
 abuse-report-submit-description = Sorunu açıklayın (isteğe bağlı)
 abuse-report-textarea =
     .placeholder = Elimizde ayrıntılı bilgi olursa sorunu çözmemiz kolaylaşır. Lütfen yaşadığınız sorunu açıklayın. Web’in sağlığını korumaya yardımcı olduğunuz için teşekkür ederiz.
@@ -65,23 +69,31 @@ abuse-report-messagebar-action-cancel = Vazgeç
 
 abuse-report-damage-reason-v2 = Bilgisayarıma zarar verdi veya verilerimi tehlikeye attı
 abuse-report-damage-example = Örnek: Kötü amaçlı yazılım yüklüyor veya veri çalıyor
+
 abuse-report-spam-reason-v2 = Spam içeriyor veya istenmeyen reklamlar ekliyor
 abuse-report-spam-example = Örnek: Web sayfalarına reklam yerleştiriyor
+
 abuse-report-settings-reason-v2 = Bana haber vermeden veya sormadan arama motorumu, giriş sayfamı veya yeni sekmemi değiştirdi
 abuse-report-settings-suggestions = Uzantıyı şikâyet etmeden önce ayarlarınızı değiştirmeyi deneyebilirsiniz:
 abuse-report-settings-suggestions-search = Varsayılan arama ayarlarınızı değiştirin
 abuse-report-settings-suggestions-homepage = Giriş sayfanızı ve yeni sekmenizi değiştirin
+
 abuse-report-deceptive-reason-v2 = Olduğunu iddia ettiği gibi bir şey değil
 abuse-report-deceptive-example = Örnek: Yanıltıcı açıklama veya görüntü
+
 abuse-report-broken-reason-extension-v2 = Çalışmıyor, web sitelerini bozuyor veya { -brand-product-name } tarayıcımı yavaşlatıyor
 abuse-report-broken-reason-theme-v2 = Çalışmıyor veya tarayıcı ekranını bozuyor
 abuse-report-broken-example = Örnek: Özellikler yavaş, kullanması zor veya çalışmıyor; sitelerin bazı kısımları yüklenmiyor veya bozuk görünüyor
 abuse-report-broken-suggestions-extension = Bir hata (bug) bulmuş olabilirsiniz. Buradan rapor göndermenin yanı sıra, işlevsellik sorunlarını çözmenin en iyi yolu uzantının geliştiricisiyle iletişime geçmektir. Geliştirici bilgilerine ulaşmak için <a data-l10n-name="support-link">uzantının sitesini ziyaret edin</a>.
 abuse-report-broken-suggestions-theme = Bir hata (bug) bulmuş olabilirsiniz. Buradan rapor göndermenin yanı sıra, işlevsellik sorunlarını çözmenin en iyi yolu temanın geliştiricisiyle iletişime geçmektir. Geliştirici bilgilerine ulaşmak için <a data-l10n-name="support-link">temanın sitesini ziyaret edin</a>.
+
 abuse-report-policy-reason-v2 = Nefret söylemi, şiddet veya yasa dışı içerik içeriyor
 abuse-report-policy-suggestions =
     Not: Telif hakkı ve ticari marka sorunlarını ayrı bir yerden rapor etmeniz gerekiyor.
     Sorunu rapor etmek için <a data-l10n-name="report-infringement-link">bu yönergeleri kullanın</a>.
+
 abuse-report-unwanted-reason-v2 = Bunu yüklemek istemedim ve nasıl kurtulacağımı bilmiyorum
 abuse-report-unwanted-example = Örnek: Bir yazılım, bu eklentiyi benim iznim olmadan yüklemiş
+
 abuse-report-other-reason = Başka bir şey
+

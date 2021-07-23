@@ -12,6 +12,7 @@
 <!ENTITY setDefaultButton.accesskey "o">
 <!ENTITY removeButton.label "Hesabı Sil">
 <!ENTITY removeButton.accesskey "H">
+
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.

@@ -30,6 +30,7 @@
 <!ENTITY searchHeader.label             "Arama sonuçları">
 <!ENTITY toctab.label                   "İçerik">
 <!ENTITY toctab.accesskey               "e">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.

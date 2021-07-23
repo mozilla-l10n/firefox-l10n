@@ -6,6 +6,7 @@
 
 <!ENTITY windowTitle.label "Hesap Sihirbazı">
 <!ENTITY accountWizard.size "width: 50em; height: 40em;">
+
 <!-- Entities for Account Type page -->
 
 
@@ -17,6 +18,7 @@
 <!ENTITY accountTypeMail.accesskey "p">
 <!ENTITY accountTypeNews.label "Haber grubu hesabı">
 <!ENTITY accountTypeNews.accesskey "e">
+
 <!-- Entities for Identity page -->
 
 
@@ -38,20 +40,9 @@
 <!-- Entities for Server page -->
 
 
-<!ENTITY serverTitle.label "Sunucu Bilgileri">
+<!-- Entities for Incoming Server page -->
+
 <!ENTITY incomingServerTypeDesc.label "Kullandığınız Gelen Posta sunucunun türünü seçin.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Gelen Posta sunucu ismini giriniz (Örnek, &quot;mail.linux-sevenler.org&quot;).">
-<!ENTITY incomingServerLabel.label "Gelen Posta Sunucusu:">
-<!ENTITY incomingServerLabel.accesskey "G">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Haber Sunucu İsmini giriniz (NNTP) ( Örnek, &quot;news.linux-sevenler.org&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Giden Posta Sunucu isminizi giriniz (SMTP) (Örnek, &quot;smtp.linux-sevenler.org&quot;).">
-<!ENTITY smtpServerLabel.label "Giden Posta Sunucusu:">
-<!ENTITY smtpServerLabel.accesskey "P">
-<!ENTITY newsServerLabel.label "Haber grubu sunucusu:">
-<!ENTITY newsServerLabel.accesskey "H">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "M">
@@ -65,32 +56,28 @@
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Haber Sunucu İsmini giriniz (NNTP) ( Örnek, &quot;news.linux-sevenler.org&quot;).">
+<!ENTITY newsServerLabel.label "Haber grubu sunucusu:">
+<!ENTITY newsServerLabel.accesskey "H">
+
+<!-- Entities for Outgoing Server page -->
+
 <!ENTITY haveSmtp1.prefix "Giden E-posta (SMTP) için mevcut sunucu ismi &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, will be used. You can modify outgoing server settings by choosing Mail &amp; Newsgroups Account Settings from the Edit menu.">
 <!-- Entities for Login page -->
 
 
-<!ENTITY loginTitle.label "Kullanıcı İsmi">
-<!ENTITY usernameDesc.label "E-posta sunucunuz tarafından sağlanmış kullanıcı isminizi giriniz">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(Örnek, &quot;eKaplan&quot;).">
-<!ENTITY usernameLabel.label "Kullanıcı ismi:">
-<!ENTITY usernameLabel.accesskey "u">
-<!ENTITY usernameSmtpDesc.label "Giden E-posta için E-posta sağlayıcınızdan aldığınız kullanıcı ismini verin (normal olarak gelen e-posta ile aynı olan isimdir).">
-<!ENTITY usernameSmtpLabel.label "Giden E-posta için kullanıcı ismi:">
-<!ENTITY usernameSmtpLabel.accesskey "a">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Giden E-posta (SMTP) için mevcut kullanıcı ismini verin, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, will be used. You can modify outgoing server settings by choosing Mail &amp; Newsgroups Account Settings from the Edit menu.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Giden E-posta (SMTP) için sunucu ismi,  &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;,  gelen e-posta için sunucu ismi ile aynı. Gelen sunucu için kullanıcı isminiz erişim amaçlı kullanılacak. Giden sunucu ayarlarınızı Posta ve haber grubu Hesap ayarları bölümünden ayarlayabilirsiniz.">
+
 <!-- Entities for Account name page -->
 
 
@@ -99,6 +86,7 @@
 <!ENTITY accnameDesc.label "Hesaba uygun bir ad verin (ör. &quot;İş Hesabı&quot;, &quot;Ev Hesabı&quot; veya &quot;Haber Grupları Hesabı&quot;).">
 <!ENTITY accnameLabel.label "Hesap İsmi:">
 <!ENTITY accnameLabel.accesskey "a">
+
 <!-- Entities for Done (Congratulations) page -->
 
 

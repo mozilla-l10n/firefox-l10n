@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Biçimlendirme olmadan yapıştır">
 <!ENTITY pasteNoFormatting.accesskey "O">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Farklı yapıştır">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Alıntı olarak yapıştır">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -294,8 +292,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Kes">
 <!ENTITY copyToolbarCmd.tooltip "Kopyala">
 <!ENTITY pasteToolbarCmd.tooltip "Yapıștır">
-<!ENTITY printToolbarCmd.label "Yazdır">
-<!ENTITY printToolbarCmd.tooltip "Bu sayfayı yazdır">
 <!ENTITY findToolbarCmd.label "Bul">
 <!ENTITY findToolbarCmd.tooltip "Sayfada metin bul">
 <!ENTITY spellToolbarCmd.label "Yazım">
@@ -313,8 +309,6 @@
 <!ENTITY colorButtons.title "Renkler">
 <!ENTITY TextColorButton.tooltip "Metin rengini seç">
 <!ENTITY BackgroundColorButton.tooltip "Arka plan rengini seç">
-<!ENTITY throbber.tooltip "&vendorShortName; ana sayfasına git">
-<!ENTITY throbber.tooltip2 "&brandShortName; ana sayfasına git">
 <!ENTITY HighlightColorButton.label "Vurgulayıcı">
 <!ENTITY HighlightColorButton.tooltip "Vurgulu metin rengini seç">
 

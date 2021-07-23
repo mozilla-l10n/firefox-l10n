@@ -4,6 +4,8 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
 <!ENTITY MsgSynchronize.label "Postaları indir ve eşzamanla">
 <!ENTITY MsgSelect.label "Kapalı hat için kullanılacaklar">
 <!ENTITY MsgSyncDesc.label "Posta Dizinlerini ve Haber gruplarını çevrim dışı kullanımı için seçtiyseniz, şimdi indirebilir yada eşzamanlayabilirsiniz.Bundan başka,&quot;Seç&quot; düğmesini tıklayarak posta dizinlerini ve haber gruplarını çevrim dışı kullanımı için seçebilirsiniz.">

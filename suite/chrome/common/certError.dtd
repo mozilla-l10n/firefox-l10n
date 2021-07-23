@@ -12,7 +12,6 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "&brandShortName; uygulamasının güvenli olarak <b>#1</b> konumuna bağlanmasını istediniz, ancak bağlantınızın güvenli olup olmadığını doğrulayamıyoruz.">
 <!ENTITY certerror.introPara2 "Normalde, güvenli olarak bağlanmayı denediğinizde, bağlanılmak istenen site gerçekten doğru yere gittiğinizi kanıtlayacak olan güvenilebilir kimlik bilgisi sunar. Ancak bu sitenin kimliği doğrulanamıyor.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Ne yapmalıyım?">
@@ -26,3 +25,4 @@ olmadıkça ayrıcalık tanımayın.">
 <!ENTITY certerror.addException.label "Add Exception…">
 
 <!ENTITY certerror.technical.heading "Teknik ayrıntılar">
+

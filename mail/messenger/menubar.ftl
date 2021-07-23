@@ -16,6 +16,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Tercihler
     .accesskey = T
+
 menu-addons-and-themes =
     .label = Eklentiler ve Temalar
     .accesskey = E
@@ -25,9 +26,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Sorun giderme modu…
     .accesskey = o
+
 menu-help-exit-troubleshoot-mode =
     .label = Sorun giderme modunu kapat
     .accesskey = o
+
 menu-help-more-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = b
@@ -58,12 +61,15 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Yoğunluk
     .accesskey = Y
+
 mail-uidensity-compact =
     .label = Kompakt
     .accesskey = K
+
 mail-uidensity-normal =
     .label = Normal
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Dokunmatik
     .accesskey = D

@@ -26,7 +26,6 @@
 <!ENTITY signingCert.message "Aşağıdaki kişisel onay belgesini kullan:">
 
 <!ENTITY certificates.label "Onay belgeleri">
-<!ENTITY manageCerts.label "Onay belgelerini yönet…">
-<!ENTITY manageCerts.accesskey "O">
 <!ENTITY manageDevices.label "Güvenlik aygıtlarını yönet…">
 <!ENTITY manageDevices.accesskey "y">
+

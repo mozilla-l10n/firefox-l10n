@@ -7,12 +7,11 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = { $type } alanını kaldır
-#   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = { $type } alanını kaldır
+
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = { $type } alanını kaldır
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -21,6 +20,7 @@ address-input-type-aria-label =
         [one] Tek adresli { $type } satırına odaklanmak için sol ok tuşunu kullanın.
        *[other] { $count } adresli { $type } satırlarına odaklanmak için sol ok tuşunu kullanın.
     }
+
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -28,22 +28,29 @@ pill-aria-label =
         [one] { $email }: Düzenlemek için Enter'a, silmek için Delete'e basın.
        *[other] { $email }, 1/{ $count }: Düzenlemek için Enter'a, silmek için Delete'e basın.
     }
+
 #   $email (String) - the email address
 pill-tooltip-invalid-address = { $email } geçerli bir e-posta adresi değil
+
 #   $email (String) - the email address
 pill-tooltip-not-in-address-book = { $email } adres defterinizde yok
+
 pill-action-edit =
     .label = Adresi düzenle
     .accesskey = d
+
 pill-action-move-to =
     .label = Kime alanına taşı
     .accesskey = m
+
 pill-action-move-cc =
     .label = Cc alanına taşı
     .accesskey = C
+
 pill-action-move-bcc =
     .label = Bcc alanına taşı
     .accesskey = B
+
 pill-action-expand-list =
     .label = Listeyi genişlet
     .accesskey = n
@@ -55,26 +62,33 @@ ctrl-cmd-shift-pretty-prefix =
         [macos] ⇧ ⌘{ " " }
        *[other] Ctrl+Shift+
     }
+
 trigger-attachment-picker-key = A
 toggle-attachment-pane-key = M
+
 menuitem-toggle-attachment-pane =
     .label = Ek bölmesi
     .accesskey = m
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+
 toolbar-button-add-attachment =
     .label = Ekle
     .tooltiptext = Dosya ekle ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+
 add-attachment-notification-reminder =
     .label = Dosya ekle…
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+
 menuitem-attach-files =
     .label = Dosya(lar)…
     .accesskey = D
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+
 context-menuitem-attach-files =
     .label = Dosya ekle…
     .accesskey = D
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -84,6 +98,7 @@ attachment-bucket-count =
            *[other] { $count } ek
         }
     .accesskey = e
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
@@ -92,18 +107,23 @@ attachments-placeholder-tooltip =
             [one] { $count } ek
            *[other] { $count } ek
         }
+
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+
 expand-attachment-pane-tooltip =
     .tooltiptext = Ek bölmesini göster ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+
 collapse-attachment-pane-tooltip =
     .tooltiptext = Ek bölmesini gizle ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+
 drop-file-label-attachment =
     { $count ->
         [one] Dosya olarak ekle
        *[other] Dosya olarak ekle
     }
+
 drop-file-label-inline =
     { $count ->
         [one] Satır içi ekle
@@ -120,6 +140,7 @@ move-attachment-right-panel-button =
     .label = Sağa taşı
 move-attachment-last-panel-button =
     .label = Sona taşı
+
 button-return-receipt =
     .label = Alındı onayı
     .tooltiptext = Bu ileti için alındı onayı iste
@@ -128,39 +149,50 @@ button-return-receipt =
 
 to-compose-address-row-label =
     .value = Alıcı
+
 #   $key (String) - the shortcut key for this field
 to-compose-show-address-row-menuitem =
     .label = { to-compose-address-row-label.value } alanı
     .accesskey = K
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 to-compose-show-address-row-label =
     .value = { to-compose-address-row-label.value }
     .tooltiptext = { to-compose-address-row-label.value } alanını göster ({ to-compose-show-address-row-menuitem.acceltext })
+
 cc-compose-address-row-label =
     .value = Cc
+
 #   $key (String) - the shortcut key for this field
 cc-compose-show-address-row-menuitem =
     .label = { cc-compose-address-row-label.value } alanı
     .accesskey = C
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
     .tooltiptext = { cc-compose-address-row-label.value } alanını göster ({ cc-compose-show-address-row-menuitem.acceltext })
+
 bcc-compose-address-row-label =
     .value = Bcc
+
 #   $key (String) - the shortcut key for this field
 bcc-compose-show-address-row-menuitem =
     .label = { bcc-compose-address-row-label.value } alanı
     .accesskey = B
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = { bcc-compose-address-row-label.value } alanını göster ({ bcc-compose-show-address-row-menuitem.acceltext })
+
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Kime ve Cc alanlarındaki { $count } alıcı birbirlerinin adresini görebilecek. Bunun yerine Bcc kullanarak alıcıları göstermekten kaçınabilirsiniz.
+
 many-public-recipients-bcc =
     .label = Bcc kullan
     .accesskey = B
+
 many-public-recipients-ignore =
     .label = Alıcılar herkese açık kalsın
     .accesskey = A
@@ -170,4 +202,10 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Gönderen adresiyle eşleşen benzersiz kimlik bulunamadı. İleti, mevcut "Gönderen" alanı ve { $identity } kimliğine ait ayarlarla gönderilecek.
+
 encrypted-bcc-ignore-button = Anladım
+
+## Editing
+
+# Tools
+

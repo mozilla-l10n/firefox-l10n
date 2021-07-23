@@ -5,14 +5,13 @@
 <!ENTITY pref.download.title "İndirilenler">
 
 <!ENTITY downloadBehavior.label "İndirme başlama zamanı">
-<!ENTITY focusWhenStarting.label "İndirme yöneticisi açıksa yanıp söndür, aksi taktirde:">
-<!ENTITY focusWhenStarting.accesskey "n">
-<!ENTITY openDM.label "İndirme yöneticisini aç">
-<!ENTITY openDM.accesskey "m">
-<!ENTITY openProgressDialog.label "İlerleme penceresini aç">
-<!ENTITY openProgressDialog.accesskey "l">
 <!ENTITY doNothing.label "Bir şey açma">
 <!ENTITY doNothing.accesskey "B">
+
+<!ENTITY openProgressDialog.label "İlerleme penceresini aç">
+<!ENTITY openProgressDialog.accesskey "l">
+<!ENTITY openDM.label "İndirme yöneticisini aç">
+<!ENTITY openDM.accesskey "m">
 
 <!ENTITY downloadLocation.label "Dosyayı keydettiğinde">
 <!ENTITY saveTo.label "Dosya kayıt yeri">
@@ -22,18 +21,9 @@
 <!ENTITY alwaysAsk.label "Dosyaların nereye kaydedileceğini her zaman sor">
 <!ENTITY alwaysAsk.accesskey "D">
 
-<!ENTITY downloadHistory.label "İndirme geçmişi">
-<!ENTITY removeEntries.label "Remove download entries">
-<!ENTITY removeEntries.accesskey "R">
-<!ENTITY whenCompleted.label "Tamamlandığı zaman">
-<!ENTITY whenQuittingApp.label "&brandShortName; uygulamasında çıkıldığı zaman">
-<!ENTITY neverRemove.label "Asla">
-
 <!ENTITY finishedBehavior.label "İndirme bittiğinde">
 <!ENTITY playSound.label "Play a sound">
 <!ENTITY playSound.accesskey "P">
-<!ENTITY showAlert.label "Show an alert">
-<!ENTITY showAlert.accesskey "S">
 <!ENTITY browse.label "Gözat…">
 <!ENTITY browse.accesskey "a">
 <!ENTITY playButton.label "Play">

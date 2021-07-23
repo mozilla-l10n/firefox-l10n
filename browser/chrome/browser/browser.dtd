@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Menüyü aç">
+
 <!ENTITY navbarOverflow.label                "Daha fazla araç…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; ayarları">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Başka bir cihaz bağla…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "&brandProductName;’a giriş yap">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label;’i etkinleştir">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; hizmetleri">
@@ -139,19 +141,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "u">
 
 <!ENTITY historyMenu.label "Geçmiş">
+
 <!ENTITY historyUndoMenu.label "Son kapatılan sekmeler">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Son kapatılan pencereler">
 
 <!ENTITY appMenuHistory.showAll.label "Tüm geçmişi göster">
+
 <!ENTITY appMenuHistory.clearRecent.label "Yakın geçmişi temizle…">
 <!ENTITY appMenuHistory.restoreSession.label "Önceki oturumu geri yükle">
 <!ENTITY appMenuHistory.viewSidebar.label "Geçmiş kenar çubuğunu aç">
 <!ENTITY appMenuHistory.hideSidebar.label "Geçmiş kenar çubuğunu gizle">
 <!ENTITY appMenuHistory.recentHistory.label "Yakın geçmiş">
+
 <!ENTITY appMenuHelp.label "Yardım">
 
 <!ENTITY appMenuRemoteTabs.label "Eşitlenmiş sekmeler">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Açık sekme yok">

@@ -28,8 +28,6 @@
 <!ENTITY HomePhone.accesskey "E">
 <!ENTITY WorkPhone.label "İş telefonu">
 <!ENTITY WorkPhone.accesskey "İ">
-<!ENTITY ScreenName.label "Ekran adı">
-<!ENTITY ScreenName.accesskey "E">
 <!ENTITY sortAscending.label "Artan">
 <!ENTITY sortAscending.accesskey "t">
 <!ENTITY sortDescending.label "Azalan">

@@ -24,15 +24,6 @@
 <!ENTITY wrapOutMsg.accesskey "W">
 <!ENTITY char.label "karakter">
 
-<!ENTITY spellingHeader.label "İmla denetimi">
-<!ENTITY spellCheck.label "Yazım hatalarını göndermeden önce denetle">
-<!ENTITY spellCheck.accesskey "a">
-<!ENTITY spellCheckInline.label "Yazarken yazım denetimini gerçekleştir">
-<!ENTITY spellCheckInline.accesskey "Y">
-<!ENTITY languagePopup.label "Dil:">
-<!ENTITY languagePopup.accessKey "i">
-<!ENTITY moreDictionaries.label "Diğer sözlükleri indir…">
-
 <!ENTITY defaultMessagesHeader.label "Defaults for HTML Messages">
 <!ENTITY font.label "Yazıtipi:">
 <!ENTITY font.accesskey "z">
@@ -42,3 +33,4 @@
 <!ENTITY fontColor.accesskey "t">
 <!ENTITY bgColor.label "Arkaplan:">
 <!ENTITY bgColor.accesskey "p">
+

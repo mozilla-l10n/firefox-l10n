@@ -5,65 +5,85 @@
 permissions-window =
     .title = İstisnalar
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Site adresi
     .accesskey = d
+
 permissions-block =
     .label = Engelle
     .accesskey = E
+
 permissions-session =
     .label = Oturum boyunca izin ver
     .accesskey = r
+
 permissions-allow =
     .label = İzin ver
     .accesskey = z
+
 permissions-button-off =
     .label = Kapat
     .accesskey = K
+
 permissions-button-off-temporarily =
     .label = Geçici olarak kapat
     .accesskey = G
+
 permissions-site-name =
     .label = Web sitesi
+
 permissions-status =
     .label = Durum
+
 permissions-remove =
     .label = Siteyi sil
     .accesskey = S
+
 permissions-remove-all =
     .label = Tüm siteleri sil
     .accesskey = e
+
 permissions-button-cancel =
     .label = Vazgeç
     .accesskey = a
+
 permissions-button-ok =
     .label = Değişiklikleri kaydet
     .accesskey = D
+
 permission-dialog =
     .buttonlabelaccept = Değişiklikleri kaydet
     .buttonaccesskeyaccept = D
+
 permissions-autoplay-menu = Tüm web siteler için varsayılan:
+
 permissions-searchbox =
     .placeholder = Web sitesi ara
+
 permissions-capabilities-autoplay-allow =
     .label = Ses ve videoya izin ver
 permissions-capabilities-autoplay-block =
     .label = Sesi engelle
 permissions-capabilities-autoplay-blockall =
     .label = Ses ve videoyu engelle
+
 permissions-capabilities-allow =
     .label = İzin ver
 permissions-capabilities-block =
     .label = Engelle
 permissions-capabilities-prompt =
     .label = Her zaman sor
+
 permissions-capabilities-listitem-allow =
     .value = İzin ver
 permissions-capabilities-listitem-block =
     .value = Engelle
 permissions-capabilities-listitem-allow-session =
     .value = Oturum boyunca izin ver
+
 permissions-capabilities-listitem-off =
     .value = Kapalı
 permissions-capabilities-listitem-off-temporarily =

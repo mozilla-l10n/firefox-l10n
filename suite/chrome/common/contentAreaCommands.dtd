@@ -7,10 +7,11 @@
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label "Allow popup windows from this website">
 <!ENTITY popupWindowAllowCmd.accesskey "o">
-<!ENTITY openLinkCmd.label "Yeni pencerede aç">
-<!ENTITY openLinkCmd.accesskey "p">
+
 <!ENTITY openLinkCmdInTab.label "Yeni sekmede aç">
 <!ENTITY openLinkCmdInTab.accesskey "Y">
+<!ENTITY openLinkCmd.label "Yeni pencerede aç">
+<!ENTITY openLinkCmd.accesskey "p">
 <!ENTITY openLinkInWindowCmd.label "Open">
 <!ENTITY openLinkInWindowCmd.accesskey "p">
 <!ENTITY openFrameCmd.label "Çerçeveyi yeni pencerede aç">
@@ -55,8 +56,6 @@
 <!ENTITY viewVideoCmd.accesskey "V">
 <!ENTITY viewBGImageCmd.label "Arkaplan resmini göster">
 <!ENTITY viewBGImageCmd.accesskey "r">
-<!ENTITY setWallpaperCmd.label "Set As Wallpaper">
-<!ENTITY setWallpaperCmd.accesskey "S">
 <!ENTITY bookmarkPageCmd.label "Sayfayı yer imlerine ekle">
 <!ENTITY bookmarkPageCmd.accesskey "m">
 <!ENTITY bookmarkLinkCmd.label "Bu bağlantıyı yer imlerine ekle">
@@ -124,3 +123,4 @@
 <!ENTITY spellDictionaries.accesskey "l">
 <!ENTITY spellAddDictionaries.label "Download More Dictionaries…">
 <!ENTITY spellAddDictionaries.accesskey "D">
+

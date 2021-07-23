@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Yer sıkıntısı çekmemek için indirilmeyenler:">
 <!ENTITY doNotDownloadNntp.label "Sabit diske kaydet (Çevrim dışı kullanım için indirme):">
 <!ENTITY doNotDownloadImap.label "Disk alanından tasarruf etmek için sunucudaki iletilerin indirilmesi ve çevrim dışı için yerel kopyalarının bulundurması boyut veya yaş ile sınırlandırılabilir.">
-<!ENTITY allFoldersOffline.label "Hesaba ait iletileri bu bilgisayarda tut">
-<!ENTITY allFoldersOffline.accesskey "H">
 <!ENTITY offlineNotDownload.label "İletiler">
 <!ENTITY offlineNotDownload.accesskey "r">
 <!ENTITY autosyncNotDownload.label "İletiler">
@@ -27,8 +25,6 @@
 <!ENTITY retentionKeepAll.accesskey "H">
 <!ENTITY retentionKeepRecent.label "Son gelenler hariç bütün iletileri sil">
 <!ENTITY retentionKeepRecent.accesskey "S">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri sil (zaman ayarlarını gözardı et)">
 <!ENTITY retentionApplyToFlagged.label "Yıldızlı iletileri hiçbir zaman silme">
 <!ENTITY retentionApplyToFlagged.accesskey "Y">
 <!ENTITY nntpRemoveMsgBody.label "Gövdesi silinecek ileti boyutunun alt sınırı">
