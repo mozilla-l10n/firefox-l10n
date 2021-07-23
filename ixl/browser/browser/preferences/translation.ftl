@@ -5,3 +5,4 @@
 translation-button-close =
     .label = Jupa
     .accesskey = C
+

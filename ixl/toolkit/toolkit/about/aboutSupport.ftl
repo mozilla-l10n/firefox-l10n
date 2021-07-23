@@ -68,3 +68,8 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 ## Strings representing the status of the Enterprise Policies engine.
 
 policies-active = Ile' b'a'n ve'te'
+
+## Printing section
+
+## Normandy sections
+

@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Chuka
 
 newtab-search-box-search-the-web-text = La chuk tu web
+
 newtab-search-box-search-the-web-input =
     .placeholder = La chuk tu web
     .title = La chuk tu web
@@ -53,6 +54,8 @@ newtab-topsites-add-button = Aq'o'ke'
 newtab-confirm-delete-history-p1 = Yol chit see uva' tuk asojsa el jununil unq'a vee' tu u'uje' vaa' tu vee' chukeltu ve't'e?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ye' la uch iq'ab'isal u aq'one' vaa.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -190,3 +193,6 @@ newtab-pocket-cta-text = Kol unq'a vee' chukeltu ve't tu { -pocket-brand-name } 
 
 newtab-error-fallback-info = La kuy kupaav, at uma'l kam ye' kat el vitoj tul uva' ni'k teq'o ku'tzan u aq'one'.
 newtab-error-fallback-refresh-link = B'an tuch u u'uje' as la q'aavisa unpajte.
+
+## Customization Menu
+

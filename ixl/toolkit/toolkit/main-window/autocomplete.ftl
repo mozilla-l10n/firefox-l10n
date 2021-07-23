@@ -5,10 +5,11 @@
 
 ## Import Logins Autocomplete
 
+autocomplete-import-logins-info =
+    .tooltiptext = Ootzi ka'te
+
 ## Variables:
 ##   $host (String) - Host name of the current site.
 
 ##
 
-autocomplete-import-logins-info =
-    .tooltiptext = Ootzi ka'te

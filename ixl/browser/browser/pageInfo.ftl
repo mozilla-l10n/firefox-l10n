@@ -43,6 +43,8 @@ help-button =
 security-site-data-cookies-only = Kanoj, cookies
 security-site-data-no = Ye'le
 
+##
+
 image-size-unknown = Ye' ootzimal
 saved-passwords-yes = Kanoj
 saved-passwords-no = Ye'le

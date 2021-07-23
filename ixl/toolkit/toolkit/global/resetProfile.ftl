@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = B'an tuche'.{ -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = B'an tuche'.{ -brand-short-name }
 refresh-profile-description = Xe'ten unpajte as la b'an tuch u uve yannale'.

@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Eq'oku'tzan tu Google Play
 login-app-promo-apple =
     .alt = Eq'oku'tzan tu App Store
+
 login-filter =
     .placeholder = Ichukpu ixe't aq'on
+
 create-login-button = Cheesa uma't Ak' Ixe'tisal aq'on
+
 fxaccounts-sign-in-text = La lej unq'a texhlal kach'ub' tetze' tu ka'taj unq'a aq'onb'ale' uve' nab'anb'e
 fxaccounts-sign-in-button = Xe'tisa tzitza' { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -69,13 +72,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Nachuk unq'a kach'ub'al texhlale' uve' kolel kan? B'antuche' { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = ¿Chuk unq'a vee' kolel kan uve' xe'tisamal kat unq'a aq'one'? { -sync-brand-short-name } moj eq'otzan
+
 about-logins-login-intro-heading-logged-in = Ye'l tu'aal lejpo aq'al uva' la ilej tib'
 login-intro-description = Kat ikol unq'a xe'tisab' aq'one' tu { -brand-product-name } tu uma't ch'ich kat ab'anb'e, a' unq'a vi'la la b'ane' aq'al uva' at tzitza' la ib'an unpajte:
 login-intro-instruction-fxa = Axh la b'anon moj la uch axe't tzitza' { -fxaccount-brand-name } tu vach'ich'e' uve' kolel kat kan ixe't aq'on s-a'n
 login-intro-instruction-fxa-settings = Il chit ti jikil ti' atxaat kan unq'a texhlale' tu vee' uve' ni b'anax kat tuche' { -sync-brand-short-name }
 about-logins-intro-instruction-help = La saji<a data-l10n-name="help-link">{ -lockwise-brand-short-name } lochb'al tetz </a> aq'al uva' la lej ka't lochb'al
 about-logins-intro-import = Asoj kolel kan ixe't unq'a aaq'one' tu uma't chukb'al tetz, la ib'ane' <a data-l10n-name="import-link"> la eeq'o kutzan tzitza' { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = Asoj kat ikolkan ixe'teb'al unq'a aq'one' ti'e'le { -brand-product-name }, la ib'ane' <a data-l10n-name="import-browser-link"> uva' la eq'oltzan tu' uma't chukb'al tetz</a> moj tu <a data-l10n-name="import-file-link"> tu uma'l kolb'al tetz</a>
 
 ## Login
@@ -117,11 +121,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Asoj la b'antuch ixe'teb'al
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = B'an tuch axe't aq'onvoj uve' kolel kam s-a'n
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Aq'al uva' la eel u kach'ub' tetze', aq'ku' unq'a texhlale' ti ixe't aq'on tu Windows. A' u vaa' la lochoni ti' tilpu isuuchil unq'a tatinb'al aaq'one'.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = K'uch u kach'ub' tetze' uve' kolel kan s-a'n
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Aq'al uva' la eesa ivatz' unq'a kach'ub' tetze', aq'o'k unq'a texhlal ixe't aq'one' tu Windows. A' u vaa' la lochoni ti' tilpu isuuchil unq'a tatinb'al aaq'one'.
 # This message can be seen when attempting to copy a password in about:logins
@@ -131,6 +137,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = Eesa ivatz i kach'ub'
 ## Master Password notification
 
 master-password-notification-message = B'an b'a'nil, aq'ku' u eexhlale' uve' axh kuxh ootzin tetz aq'al uva' la eele' kat xe'tisamal kat aq'on s-a'n as unq'a exhlale' uve' kolel kan s-a'n unpajte
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Aq'al uva' la eeq'otzan unq'a xe'teb'al aq'one', aq'o'k u texhlale' ti' ixe't aq'on tu Windows. A' u vaa' la lochoni ti' tilpu isuuchil unq'a tatinb'al aq'one'.
 # This message can be seen when attempting to export a password in about:logins
@@ -167,21 +174,25 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Ya'sakan
 confirmation-dialog-dismiss-button =
     .title = Ya'sakan
+
 about-logins-confirm-remove-dialog-title = La sojsa kan ixe'tisal kan u aq'one' tzitza'?
 confirm-delete-dialog-message = Ye' la uch asojsat u vaa'.
 about-logins-confirm-remove-dialog-confirm-button = Sojsa
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Sojsa
         [one] Sojsa kaajayil
        *[other] Sojsa kaajayil
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Kanoj, sojsa-el u xe'teb'al aq'one' vaa'
         [one] Kanoj, sojsa-el kaajayil u xe'teb'al aq'one' vaa'
        *[other] Kanoj, sojsa-el kaajayil u xe'teb'al aq'one' vaa'
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Sojsa-el u { $count } tu'aale'
@@ -193,14 +204,17 @@ about-logins-confirm-remove-all-dialog-message =
         [one] A' u vaa' tuk sojsan ixe'teb'al aq'on uve' kat akolkan tuk' u { -brand-short-name } as kam kuxh ka'taj kam uva' la chee tzitza'.  As ye' la uch aq'aav ti' aqul.
        *[other] A' u vaa' tuk sojsan ixe'teb'al aq'on uve' kat akolkan tuk' u { -brand-short-name } as kam kuxh ka'taj kam uva' la chee tzitza'.  As ye' la uch aq'aav ti' aqul.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Sojsa el u { $count } ixe'teb'al aq'on tulaj unq'a b'anb'al aq'one'?
        *[other] Sojsa el u { $count } ixe'teb'al aq'on tulaj unq'a b'anb'al aq'one'?
     }
+
 about-logins-confirm-export-dialog-title = Eq'otzan unq'a xe'teb'al aq'one' as tuk' unq'a kach'ub' tetze'
 about-logins-confirm-export-dialog-message = Unq'a kach'ub' tetze' la ikol unq'a tz'ib'e' uva' tetz kuxhtu' ( echkole' vila', BadP @ssw0rd) echkole' uva' ab'il kuxh la jajon u aq'one' as la eel teq'oltzan.
 about-logins-confirm-export-dialog-confirm-button = Eq'o eltzan
+
 confirm-discard-changes-dialog-title = Y'el unq'a vee' la kole' uve' b'anel ve't s-a'n?
 confirm-discard-changes-dialog-message = Jank'al chit unq'a vee' uve' nakole' la mox tz'ejxi.
 confirm-discard-changes-dialog-confirm-button = Eesa kan
@@ -231,8 +245,10 @@ about-logins-vulnerable-alert-learn-more-link = Ootzi ka'te
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Itok'eb'al { $loginTitle }ak te v'et u b'iie' b'a<a data-l10n-name="duplicate-link">oken tu atimb'ale' vee achit ve'te.
+
 # This is a generic error message.
 about-logins-error-message-default = Kat ilej va'lexh la kam tul uva' ni'k ikolpu u kachub'al tetze'.
+
 
 ## Login Export Dialog
 
@@ -244,6 +260,14 @@ about-logins-error-message-default = Kat ilej va'lexh la kam tul uva' ni'k ikolp
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
 
 ## Logins import report page
 

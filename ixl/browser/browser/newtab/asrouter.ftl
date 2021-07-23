@@ -200,3 +200,7 @@ cfr-doorhanger-cryptominers-description = Tii chil talchu unq'a eetze' sqej. { -
 
 ## What's new: Cookies message
 
+## Fission Experiment Message
+
+## Full Video Support CFR message
+

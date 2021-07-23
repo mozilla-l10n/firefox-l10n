@@ -22,6 +22,8 @@ file-browse-pkcs12-spec = Unq'a kolb'al aq'on PKCS12
 ## Cert Viewer
 
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 

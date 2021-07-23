@@ -11,8 +11,10 @@ about-private-browsing =
     .title = La chuk tu web
 about-private-browsing-not-private = Cheel chitu' u atinb'ale' at axh stuul as jit eetz
 about-private-browsing-info-description = { -brand-short-name } sojsa el unq'a vee' chukel as unq'a chukeltu ve'te' tul uva' la el axh tu aplicación moj la jup kaajayil unq'a vee' jajel a'n as tuk' unq'a vee' uva' eetz kuxhtu'. As u vaa' ye'xh kam uva' ye' koj la tootzi axh tulaj unq'a web ta'n unq'a uxhchil uve' ni aq'on Internet. la b'ane' uva' oora kuxhtu' la iloch axh tul uva' naq'onve' uva' axh kuxhtu' vatz joltu xaaol uva' la b'anb'en va ch'ich'e'.
+
 about-private-browsing-need-more-privacy = Nasa' uva' ye'xhib'il unka'te la ootzin?
 about-private-browsing-turn-on-vpn = Cha'xh ab'ana { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
