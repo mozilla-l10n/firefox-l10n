@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = নিরাপদ মোডে শুরু করুন
+
 refresh-profile =
     .label = { -brand-short-name } পুনঃনির্ধারণ করা হবে
 safe-mode-description = { -brand-short-name } এর নিরাপদ মোড হচ্ছে একটি বিশেষ মোড যা কিনা বিভিন্ন বিষয়ের সমস্যার সমাধানে ব্যবহৃত হয়।
