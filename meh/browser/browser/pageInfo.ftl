@@ -111,6 +111,8 @@ security-site-data-only = Kuvi, { $value } { $unit } datos sitio
 security-site-data-cookies-only = Kuvi, cookies
 security-site-data-no = Nkuvi
 
+##
+
 image-size-unknown = Desconocido
 media-img = Tutu nátava
 media-bg-img = Fondo

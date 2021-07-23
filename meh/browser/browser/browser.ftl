@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Nánuku yu´u)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Nánuku yu´u)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Nánuku yu´u)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Nánuku yu´u)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -109,6 +111,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tee mati´i, nani´i kue´e: Nánuku { $engineName } nee barra direccion.
 urlbar-search-tips-redirect-2 = Kajie´e nánuku nuu ya´a je kuni tu'un kuvi { $engineName } je da nnánukunu.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Kaji acceso directo ya´a sa nani´inu ñama da a jiniñu´unu.
@@ -145,10 +148,12 @@ urlbar-midi-blocked =
     .tooltiptext = Nñasɨnɨ acceso nuu MIDI nuu web ya´a.
 urlbar-install-blocked =
     .tooltiptext = Nñasɨnɨ nchu´un ka̱a̱ chunta´an nuu web ya´a.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Natee a ta´an ini noo´o ya´a ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -158,6 +163,7 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Tee ya´a nuu barra da nuu
+
 page-action-manage-extension =
     .label = Tetiñu da extensión...
 page-action-remove-from-urlbar =
@@ -166,51 +172,6 @@ page-action-remove-extension =
     .label = Xina extensión
 
 ## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Chu'un íchi sukuan nu ka̱a̱
-           *[other] Chu'un íchi { $tabCount } da sukua nu ka̱a̱
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Chu'un íchi su̱ku̱a nu ka̱a̱
-           *[other] Chu'un íchi { $tabCount } da su̱ku̱a nu ka̱a̱
-        }
-page-action-pocket-panel =
-    .label = Chuva´a página nuu { -pocket-brand-name }
-page-action-copy-url-panel =
-    .label = Tɨɨn enlacae
-page-action-copy-url-urlbar =
-    .tooltiptext = Tɨɨn enlacae
-page-action-email-link-panel =
-    .label = Chu´un íchi enlace...
-page-action-email-link-urlbar =
-    .tooltiptext = Chu´un íchi enlace...
-page-action-share-url-panel =
-    .label = Kua´a
-page-action-share-url-urlbar =
-    .tooltiptext = Kua´a
-page-action-share-more-panel =
-    .label = Kue'eka…
-page-action-send-tab-not-ready =
-    .label = Sincronizado da ka̱a̱…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Chiso sukua
-page-action-pin-tab-urlbar =
-    .tooltiptext = Chiso sukua
-page-action-unpin-tab-panel =
-    .label = Xita sukua
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Xita sukua
 
 ## Auto-hide Context Menu
 
@@ -226,12 +187,15 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Nánuku ji:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Sama naja nánuku
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sama naja nánuku
+
 search-one-offs-context-open-new-tab =
     .label = Nánuku nuu iin pestaña jíía
     .accesskey = j
@@ -241,12 +205,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Tee kua ka̱a̱ nánuku xinañu´u nuu da ventanas yu´u
     .accesskey = P
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -274,10 +240,13 @@ bookmark-panel-cancel =
 bookmark-panel-show-editor-checkbox =
     .label = Xituvi natee saa chuva´a
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Xinɨ´ɨ
+
 bookmark-panel-save-button =
     .label = Chuva´a
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -302,6 +271,7 @@ identity-weak-encryption = Nuu ya´a ni´i encriptación ntu nakui.
 identity-insecure-login-forms = Da nuu kajie´e sesión nuu página ya´a sana kuvi sá´á xeen.
 identity-permissions =
     .value = Permisos
+
 identity-https-only-connection-upgraded = (actualizado a HTTPS)
 identity-https-only-label = Ntu xini HTTPS
 identity-https-only-dropdown-on =
@@ -310,8 +280,10 @@ identity-https-only-dropdown-off =
     .label = Xina´va
 identity-https-only-info-turn-off2 = De ntu íyo tiñu, sana kuvinu xitanu HTTPS je nachu'unu tuku je ni'inu iin conexión HTTP ntu vatu.
 identity-https-only-info-no-upgrade = Nkuvi sa actualizar conexión ji HTTP.
+
 identity-permissions-storage-access-header = Cookies ji da sitios
 identity-permissions-storage-access-learn-more = Ka´vi kue´eka
+
 identity-permissions-reload-hint = Sana nejika nakivɨ tuku página saa kuvi sama nke´inu
 identity-permissions-empty = Ntu kuminu ni´i permiso nuu web ya´a
 identity-clear-site-data =
@@ -370,6 +342,7 @@ browser-tab-audio-pip = PICTURE-IN-PICTURE
 browser-import-button2 =
     .label = Kuiso da marcadores...
     .tooltiptext = Kuiso da marcadores vaji nu inka ka̱a̱ nánuku { -brand-short-name }.
+
 bookmarks-toolbar-empty-message = Sa síne ñama, kune'ya da marcadores nu barra da ka̱a̱ marcadores.  <a data-l10n-name="manage-bookmarks"> Tetiñu da marcadores...</a>
 
 ## WebRTC Pop-up notifications
@@ -380,6 +353,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Kua´a Micrófono:
     .accesskey = M
+
 popup-select-camera-icon =
     .tooltiptext = Ka̱a̱ natava
 popup-select-microphone-device =
@@ -388,14 +362,18 @@ popup-select-microphone-device =
 popup-select-microphone-icon =
     .tooltiptext = Micrófono
 popup-all-windows-shared = Kuaiyo da ventanas tuvi nu pantalla noo'o kuvi kua'a.
+
 popup-screen-sharing-not-now =
     .label = Nkuvi ntañu´u
     .accesskey = n
+
 popup-screen-sharing-never =
     .label = Nkua'a ni'i íchi
     .accesskey = N
+
 popup-silence-notifications-checkbox = Xita notificaciones { -brand-short-name } ntaka kua'a
 popup-silence-notifications-checkbox-warning = { -brand-short-name } nkutuvi notificaciones de kua'a.
+
 popup-screen-sharing-block =
     .label = Kasɨ
     .accesskey = B
@@ -413,14 +391,19 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Sa ni'inu F12, xinañu'u síne DevTools nu menú Desarrolador Web
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Nánuku a xíín chu´un iin nuu
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Nánuku a xíín chu´un iin nuu
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = ka̱a̱ nánuku íyo controlado a distancia
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -429,6 +412,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Nánuku nuu Web
     .aria-label = Nánuku nuu Web { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -437,31 +421,36 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Tee a nánukunu
     .aria-label = Nánuku { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Tee a nánukunu
     .aria-label = Nánuku marcadores
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Tee a nánukunu
     .aria-label = Nánuku historia
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Tee a nánukunu
     .aria-label = Nánuku pestañas
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Nánuku ji { $name } a xíín chu'un iin nuu
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = ka̱a̱ nánuku íyo controlado a distancia
+
 urlbar-permissions-granted =
     .tooltiptext = Nña'anu permiso nuu web ya´a
 urlbar-switch-to-tab =
     .value = Sama su̱ku̱a:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension:
+
 urlbar-go-button =
     .tooltiptext = Kaka nu barra nuu.
 urlbar-page-action-button =
@@ -531,9 +520,12 @@ urlbar-result-action-search-tabs = Nánuku sukua
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ntañu'u kuvi pantalla ka'nu
 fullscreen-warning-no-domain = Tutu ya'a ntañu'u íyo nu pantalla ka'nu
+
+
 fullscreen-exit-button = Kene nuu pantalla ka'nu (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Kene nuu pantalla ka'nu (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -550,8 +542,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Xituvi kuaiyo a ta´a ini noo´o
 bookmarks-toolbar-chevron =
     .tooltiptext = Xituvi kuaiyo a ta´a ini noo´o
 bookmarks-sidebar-content =
@@ -586,6 +576,7 @@ bookmarks-tools =
     .label = Da ka̱a̱ ta'a ini noo'o
 bookmarks-bookmark-edit-panel =
     .label = Sama a ta´an ini noo´o ya´a
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -612,6 +603,8 @@ library-recent-activity-title =
 save-to-pocket-button =
     .label = Chuva´a nuu { -pocket-brand-name }
     .tooltiptext = Chuva´a nuu { -pocket-brand-name }
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

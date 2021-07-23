@@ -10,6 +10,12 @@
 
 upgrade-dialog-new-secondary-button = Nkuvi ntañu´u
 
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
 ## Default browser screen
 
 upgrade-dialog-default-secondary-button = Nkuvi ntañu´u

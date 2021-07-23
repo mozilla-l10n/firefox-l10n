@@ -27,13 +27,7 @@ about-webrtc-save-page-dialog-title = Chuva'a about:webrtc kua
 ## is an IETF protocol, and should not normally be translated.
 
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -43,9 +37,11 @@ about-webrtc-save-page-dialog-title = Chuva'a about:webrtc kua
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominado
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
@@ -68,11 +64,13 @@ about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
+
+
+##
 
 
 ##
@@ -83,4 +81,7 @@ about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 
 
 ##
+
+##
+
 

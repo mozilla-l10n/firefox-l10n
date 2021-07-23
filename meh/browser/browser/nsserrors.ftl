@@ -12,9 +12,11 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Nkene iin error ji conexión { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código de error: { $error }
+
 ssl-error-post-warning = Ntu nakuni error SSL.
 ssl-error-unsafe-negotiation = Peer intentó un handshake al viejo estilo (potencialmente vulnerable).
 sec-error-invalid-time = Tu'un fecha/hora ntu tuvi va'a formato.

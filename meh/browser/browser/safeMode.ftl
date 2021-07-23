@@ -4,6 +4,7 @@
 
 start-safe-mode =
     .label = Kajie'e ji Modo seguro
+
 start-troubleshoot-mode =
     .label = Síne
 refresh-profile =

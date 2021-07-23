@@ -139,6 +139,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Sɨ´ɨ">
+
 <!ENTITY historyUndoMenu.label "Pestañas nnakasɨ ntañu´u">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Pestañas nnakasɨ ntañu´u">
@@ -150,6 +151,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Kune'ya barra historial">
 <!ENTITY appMenuHistory.hideSidebar.label "Chiyu'u barra kuá´á historial">
 <!ENTITY appMenuHistory.recentHistory.label "Da nnánuku vitan">
+
 <!ENTITY appMenuHelp.label "Chinei">
 
 <!ENTITY appMenuRemoteTabs.label "Da sukua íyo sincronizadas">
@@ -275,3 +277,4 @@ this container is a toolbar. This avoids double-speaking. -->
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+

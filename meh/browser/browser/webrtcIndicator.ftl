@@ -18,3 +18,4 @@ webrtc-camera-unmuted =
     .title = Sna'va ka̱a̱ natava
 webrtc-camera-muted =
     .title = Tee ka̱a̱ natava
+

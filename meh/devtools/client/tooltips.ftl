@@ -28,3 +28,4 @@ learn-more = <span data-l10n-name="link">Ka´vi kue´eka</span>
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }</strong> ntu íyo tiñu nu da ka̱a̱ nánuku:
+

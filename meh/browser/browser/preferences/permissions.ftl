@@ -5,53 +5,70 @@
 permissions-window =
     .title = Nuu tetiñu tutu nnatava
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Da nuu Web
     .accesskey = D
+
 permissions-block =
     .label = Kasɨ
     .accesskey = K
+
 permissions-session =
     .label = Kuvi nuu sesión ya´a
     .accesskey = s
+
 permissions-allow =
     .label = Kuvi
     .accesskey = K
+
 permissions-site-name =
     .label = Sitio web
+
 permissions-status =
     .label = Estado
+
 permissions-remove =
     .label = Sna nuu Web
     .accesskey = S
+
 permissions-remove-all =
     .label = Sna kuaiyo nuu Web
     .accesskey = S
+
 permissions-button-cancel =
     .label = Nkuvi-ka
     .accesskey = N
+
 permissions-button-ok =
     .label = Chuva´a nsama
     .accesskey = C
+
 permission-dialog =
     .buttonlabelaccept = Chuva´a nsama
     .buttonaccesskeyaccept = C
+
 permissions-autoplay-menu = Kua vají nuu kuaiyo nuu web:
+
 permissions-searchbox =
     .placeholder = Nánuku nuu Web
+
 permissions-capabilities-autoplay-allow =
     .label = Kuvi koo nasun ji tutu kana
 permissions-capabilities-autoplay-block =
     .label = Kasɨ audio
 permissions-capabilities-autoplay-blockall =
     .label = Kasɨ audio ji video
+
 permissions-capabilities-allow =
     .label = Kuvi
 permissions-capabilities-block =
     .label = Kasɨ
 permissions-capabilities-prompt =
     .label = Ntaka ichi katu´un
+
 permissions-capabilities-listitem-allow =
     .value = Kuvi
 permissions-capabilities-listitem-block =
@@ -74,6 +91,8 @@ permissions-exceptions-cookie-window =
     .title = Excepciones: Cookies ji datos sitio
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Kuvi kachinu ne´iin sitio web ni´i ntaka íchi cookies ji datos sitio. Tee dirección vatu sitio kuvinu tetiñunu je kuaxin kasɨ, kuvi nuu ya'a a xíín kuvi.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

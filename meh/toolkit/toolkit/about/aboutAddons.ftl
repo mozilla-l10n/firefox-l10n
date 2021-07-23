@@ -4,8 +4,10 @@
 
 search-header-shortcut =
     .key = f
+
 list-empty-button =
     .label = Ka´vi kue´eka jie´e ka̱a̱ chunta´an
+
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } Kaji
@@ -17,6 +19,7 @@ sidebar-preferences-button-title =
             [windows] { -brand-short-name } Kaji
            *[other] { -brand-short-name } Preferencias
         }
+
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -28,8 +31,10 @@ cmd-preferences =
             [windows] O
            *[other] P
         }
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository-value =
     .value = { detail-repository.label }
 
@@ -77,6 +82,12 @@ preferences-addon-button =
 ## Pending uninstall message bar
 
 addon-detail-updates-radio-off = Xina´va
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+##
+
 release-notes-loading = Kunetu…
 
 ## Page headings

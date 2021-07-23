@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Sá´á ya´a: Tee pestaña
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ¿Navi ne´yani ya´a?
+
 cfr-doorhanger-extension-cancel-button = Nkuvi ntañu´u
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Tee ntañu´u
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Fijar esta pestaña
     .accesskey = F
+
 cfr-doorhanger-extension-manage-settings-button = Tetiñu ke´i
     .accesskey = T
+
 cfr-doorhanger-extension-never-show-recommendation = Nkutuvi recomendación ya´a
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Ka´vi kue´eka
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = por { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
 cfr-doorhanger-extension-notification2 = Recomendación
     .tooltiptext = Recomendación de extensión
     .a11y-announcement = Recomendación de extensión
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomendación
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } ñivɨ
        *[other] { $total } da ñivɨ
     }
+
 cfr-doorhanger-pintab-description = Kivu ñama nuu da sitios jikanuka. Kua´a a da sitios nune nuu iin pestaña (nakuvi de nakajie´enu)
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Kivu ñama nuu da sitios jikanuka. Kua´a a 
 cfr-doorhanger-pintab-step1 = <b>Kuaxin ji bóton kuá´á</b> nuu pestaña kuvinu kino.
 cfr-doorhanger-pintab-step2 = Kaji <b> Kino pestaña</b> nuu menú.
 cfr-doorhanger-pintab-step3 = De íyo iin a jíía, kutuvi iin a kuvi teku lee nuu pestaña nee.
+
 cfr-doorhanger-pintab-animation-pause = Siankuiñu
 cfr-doorhanger-pintab-animation-resume = Kaka
+
 
 ## Firefox Accounts Message
 
@@ -89,18 +100,24 @@ cfr-protections-panel-link-text = Ka´vi kue´eka
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = A jíía característica:
+
 cfr-whatsnew-button =
     .label = Nakuvi a jíía íyo
     .tooltiptext = Nakuvi a jíía íyo
+
 cfr-whatsnew-panel-header = Nakuvi a jíía íyo
+
 cfr-whatsnew-release-notes-link-text = Ka´vi tu´un kene jíía
+
 cfr-whatsnew-fx70-title = { -brand-short-name } vita kanta´an kue´ka jiee privacidad noo´o
 cfr-whatsnew-fx70-body =
     Nu nɨ'ɨ a naxi'ña nasa'a vii función a kumi noo'o nuu ka̱a̱ nita noo'o je sa'a 
     a kuvi sa'anu contraseñas va'a je vatu nu ntaka sitio.
+
 cfr-whatsnew-tracking-protect-title = Kumi noo´o nuu ka̱a̱ nita
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } chiyu'u kue'e da ka̱a̱ sociales nita noo'o ji da nuu nita noo'o je nitada noo'o a sa'anu sa nánukunu.
 cfr-whatsnew-tracking-protect-link-text = Kune´ya reporte noo´o
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -110,9 +127,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Nee { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Kune´ya reporte
+
 cfr-whatsnew-lockwise-backup-title = Chuva´a contraseñas noo´o
 cfr-whatsnew-lockwise-backup-body = Vitan kuvi sa'anu contraseñas vatu nu kuvi kivɨnu ntaka nu kuvi ni'inuma.
 cfr-whatsnew-lockwise-backup-link-text = Tee copias seguridad
+
 cfr-whatsnew-lockwise-take-title = Kuiso da contraseña ji noo´o
 cfr-whatsnew-lockwise-take-body =
     ka̱a̱ móvil { -lockwise-brand-short-name } taji kuvi kivɨnu vatu nu
@@ -149,6 +168,7 @@ cfr-whatsnew-fingerprinter-counter-header =
     { $fingerprinterCount ->
        *[other] Nñasɨ ka̱a̱ huellas digitales
     }
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Huellas dactilares
 
@@ -200,6 +220,7 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] ¡{ -brand-short-name } nnakasɨ kue´e <b>{ $blockedCount }</b> rastreadores vaji { $date }!
     }
+
 cfr-doorhanger-milestone-ok-button = Kune´ya kuaíyo
     .accesskey = K
 
@@ -224,12 +245,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícono de picture-in-picture
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Nakasɨ
-    .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Protecciones a la vista
 cfr-whatsnew-protections-cta-link = Kune'ya panel de protecciones
 cfr-whatsnew-protections-icon-alt = Icono de escudo
@@ -237,6 +252,12 @@ cfr-whatsnew-protections-icon-alt = Icono de escudo
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Nánuku vii jíí PDF
+
+cfr-doorhanger-milestone-close-button = Nakasɨ
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -256,12 +277,7 @@ cfr-doorhanger-fission-secondary-button = Ka´vi kue´eka
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-image-alt = Ilustración de cookie nñasɨ
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Kue'eka da controles multimedia
-cfr-whatsnew-media-keys-button = Sikua´a naja
 
 ## What's new: Search shortcuts
 
@@ -273,4 +289,6 @@ cfr-whatsnew-media-keys-button = Sikua´a naja
 
 
 ## What's new: Cross-site cookie tracking
+
+## Full Video Support CFR message
 

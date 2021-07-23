@@ -38,16 +38,20 @@ menu-quit =
             [windows] S
            *[other] S
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Kene { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Kene { -brand-shorter-name }
+
 menu-about =
     .label = Jie'e { -brand-shorter-name }
     .accesskey = J
@@ -215,6 +219,7 @@ menu-history-undo-menu =
     .label = Pestañas skuata nnakasɨ
 menu-history-undo-window-menu =
     .label = Ventanas skuata nnakasɨ
+
 menu-history-reopen-all-tabs = Nate kuaiyo da sukua
 menu-history-reopen-all-windows = Na síne kuaíyo da ventana
 
@@ -252,12 +257,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Kajie'e sesión { -brand-product-name }…
     .accesskey = j
-menu-tools-fxa-sign-in2 =
-    .label = Kajie´e sesión
-    .accesskey = i
 menu-tools-turn-on-sync =
     .label = Activar { -sync-brand-short-name }...
     .accesskey = n
+menu-tools-fxa-sign-in2 =
+    .label = Kajie´e sesión
+    .accesskey = i
 menu-tools-turn-on-sync2 =
     .label = Tee Sync…
     .accesskey = n
@@ -279,13 +284,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Tu´un jie´e nuu ya´a
     .accesskey = T
-menu-settings =
-    .label = Ke´i
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -296,6 +294,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] f
+        }
+menu-settings =
+    .label = Ke´i
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Depurador de diseño
