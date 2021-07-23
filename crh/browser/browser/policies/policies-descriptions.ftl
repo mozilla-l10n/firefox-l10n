@@ -131,3 +131,4 @@ policy-SupportMenu = Yardım menüsine özel bir destek menü-unsurını ekle.
 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Web sitelerinin ziyaret edilmesini engelle. Biçimle ilgili daha fazla bilgi için belgelendirmeye bakın.
+

@@ -5,6 +5,7 @@
 screenshots-context-menu = Bir Ekran Körüntisini Al
 
 screenshots-my-shots-button = Körüntilerim
+
 screenshots-instructions = Bir mıntaqanı saylamaq içün saifede süyrekleñiz yaki çertiñiz. Vazgeçmek içün ESC basıñız.
 screenshots-cancel-button = Vazgeç
 screenshots-save-visible-button = Körünirni saqla

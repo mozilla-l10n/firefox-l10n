@@ -126,6 +126,8 @@ security-site-data-only = Ebet, sayt verileri içün { $value } { $unit }
 security-site-data-cookies-only = Ebet, çörekler
 security-site-data-no = Hayır
 
+##
+
 image-size-unknown = Namalüm
 page-info-not-specified =
     .value = Belirtilmegen

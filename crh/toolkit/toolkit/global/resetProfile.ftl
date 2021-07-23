@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } Tazertilsin
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name } Tazertilsin
 refresh-profile-description = Meselelerni tüzetmek ve icraatnı keri tiklemek içün taze başlañız.

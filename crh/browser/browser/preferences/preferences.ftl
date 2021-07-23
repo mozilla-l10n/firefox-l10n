@@ -553,6 +553,7 @@ home-prefs-topsites-description = En çoq ziyaret etkeniñiz saytlar
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } tevsiyeli
+
 ##
 
 home-prefs-recommended-by-option-sponsored-stories =
@@ -577,6 +578,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Qırpıntılar
 home-prefs-snippets-description = { -vendor-short-name } ve { -brand-product-name }’tan Yañartmalar
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -648,6 +650,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = Tercihler
+
 containers-remove-button =
     .label = Çetleştir
 

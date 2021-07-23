@@ -5,46 +5,61 @@
 permissions-window =
     .title = İstisnalar
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Ağ-saytı adresi
     .accesskey = d
+
 permissions-block =
     .label = Blokla
     .accesskey = B
+
 permissions-session =
     .label = Oturım içün İzin Ber
     .accesskey = O
+
 permissions-allow =
     .label = İzin Ber
     .accesskey = z
+
 permissions-site-name =
     .label = Ağ-saytı
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Saytnı Çetleştir
     .accesskey = S
+
 permissions-remove-all =
     .label = Saytlarnıñ Episini Çetleştir
     .accesskey = e
+
 permissions-button-cancel =
     .label = Vazgeç
     .accesskey = z
+
 permissions-button-ok =
     .label = Deñişikliklerni Saqla
     .accesskey = S
+
 permission-dialog =
     .buttonlabelaccept = Deñişikliklerni Saqla
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = Ağ-saytı Qıdır
+
 permissions-capabilities-allow =
     .label = İzin Ber
 permissions-capabilities-block =
     .label = Blokla
 permissions-capabilities-prompt =
     .label = Er Zaman Sora
+
 permissions-capabilities-listitem-allow =
     .value = İzin Ber
 permissions-capabilities-listitem-block =
@@ -66,6 +81,8 @@ permissions-exceptions-cookie-window =
     .title = İstisnalar - Çörekler ve Sayt Verileri
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Angi ağ-saytlarınınñ çöreklerni ve sayt verilerini er zaman qullanabilecegini yaki iç qullanalmaycağını belgileybilirsiñiz. İdare etmege istegeniñiz saytnıñ tam adresini yazıp “Blokla”, “Oturım içün İzin Ber” yaki “İzin Ber”ge çertiñiz.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

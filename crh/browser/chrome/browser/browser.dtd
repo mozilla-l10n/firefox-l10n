@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Menüni aç">
+
 <!ENTITY navbarOverflow.label                "Daa çoq alet…">
 
 <!-- Tab context menu -->
@@ -109,18 +110,22 @@ can reach it easily. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "s">
 
 <!ENTITY historyMenu.label "Keçmiş">
+
 <!ENTITY historyUndoMenu.label "Demi Qapatılğan İlmekler">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Demi Qapatılğan Pencereler">
 
 <!ENTITY appMenuHistory.showAll.label "Bütün Keçmişni Köster">
+
 <!ENTITY appMenuHistory.clearRecent.label "Deminki Keçmişni Temizle…">
 <!ENTITY appMenuHistory.restoreSession.label "Evvelki Oturımnı Keri Tikle">
 <!ENTITY appMenuHistory.viewSidebar.label "Keçmiş Yançubuğını Köster">
 <!ENTITY appMenuHistory.recentHistory.label "Yaqın Keçmiş">
+
 <!ENTITY appMenuHelp.label "Yardım">
 
 <!ENTITY appMenuRemoteTabs.label "Aynılaştırılğan İlmekler">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Açıq ilmekler yoq">

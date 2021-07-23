@@ -26,6 +26,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Şimdi Aynılaştır
+
 appmenuitem-save-page =
     .label = Saifeni Şöyle Saqla…
 
@@ -78,3 +79,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Uhde İdareçisi
+

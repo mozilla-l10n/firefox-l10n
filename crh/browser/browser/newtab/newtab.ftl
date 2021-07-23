@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Qıdır
 
 newtab-search-box-search-the-web-text = Ağ'da qıdır
+
 newtab-search-box-search-the-web-input =
     .placeholder = Ağ'da qıdır
     .title = Ağ'da qıdır
@@ -52,6 +53,8 @@ newtab-topsites-add-button = Ekle
 newtab-confirm-delete-history-p1 = Bu saifeniñ her danesini keçmişiñizden silmege istegeniñizden eminsiñizmi?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Bu amel keri yapılalmaz.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -150,4 +153,6 @@ newtab-pocket-read-more = Popülâr Mevzular:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
+
+## Customization Menu
 

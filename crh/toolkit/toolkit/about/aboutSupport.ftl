@@ -314,3 +314,8 @@ touch-warning = desteklenmegen tercih sebebinden eşzamansız tiyüv kirdisi naq
 policies-inactive = Ğayrıfaal
 policies-active = Faal
 policies-error = Hata
+
+## Printing section
+
+## Normandy sections
+

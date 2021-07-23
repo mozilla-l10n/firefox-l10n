@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Emin Tarzda Başlat
+
 refresh-profile =
     .label = { -brand-short-name } Tazertilsin
 safe-mode-description = Emin Tarz, meseleler olğanda arıza qıdırmaq içün qullanılabilgen mahsus bir { -brand-short-name } tarzıdır.

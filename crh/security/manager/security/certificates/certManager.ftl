@@ -213,6 +213,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Bu web saifesiniñ sertifikasını silmek istediğinizden emin misiniz?
 delete-ssl-cert-impact = Eğer bir sunucınıñ sertifikasını silerseniz, bu İnternet Saifesini tekrar ziyaret ettiğinizde bu sertifikayı kabul edip etmediğinizi tekrar sorar.
 
+
 delete-ca-cert-title =
     .title = ŞS Şeadetnamelerini Sil yaki Olarğa İtimat Etme
 delete-ca-cert-confirm = Bu Şeadetnameleme Salâhiyetiniñ şeadetnamelerini silmege rica etken olasıñız. Yapı-içi şeadetnameler içün bütün itimat çetleştirilecek ki, bunıñ da tesiri aynıdır. Silmege yaki itimat etmemege istegeniñizden eminsiñizmi?
@@ -271,6 +272,8 @@ cert-not-verified-issuer-unknown = Yayınlayan belirsiz olduğu için sertifika 
 cert-not-verified-ca-invalid = CA Sertifikası geçersiz olduğu için bu sertifika kontrol edilemedi.
 cert-not-verified_algorithm-disabled = Şeadetname doğrulanamadı, çünki emniyetli olmağanından dolayı ğayrıqabilleştirilgen bir imza algoritması qullanılaraq imzalandı.
 cert-not-verified-unknown = Bu sertifika bilinmeyen sebeplerden dolayı kontrol edilemedi.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

@@ -42,6 +42,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = o
     .secondarybuttonlabel = Eklentini Naqabilleştir
     .secondarybuttonaccesskey = b
+
 appmenu-tab-hide-controlled =
     .label = Gizli İlmekleriñizge İrişiñiz
     .buttonlabel = İlmeklerni Gizli Tut
