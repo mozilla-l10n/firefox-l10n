@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "G">
 
 <!ENTITY historyMenu.label "Eachdraidh">
+
 <!ENTITY historyUndoMenu.label "Tabaichean a dhùin thu o chionn goirid">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Uinneagan a dhùin thu o chionn goirid">

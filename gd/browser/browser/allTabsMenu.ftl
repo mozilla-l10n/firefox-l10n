@@ -11,13 +11,17 @@ all-tabs-menu-undo-close-tabs =
             [few] Neo-dhèan dùnadh nan tabaichean
            *[other] Neo-dhèan dùnadh nan tabaichean
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Lorg sna tabaichean
+
 all-tabs-menu-new-user-context =
     .label = Taba soithich ùr
+
 all-tabs-menu-hidden-tabs =
     .label = Tabaichean falaichte
+
 all-tabs-menu-manage-user-context =
     .label = Stiùirich na soithichean
     .accesskey = O

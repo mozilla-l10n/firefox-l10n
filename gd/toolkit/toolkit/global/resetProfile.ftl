@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Ath-nuadhaich { -brand-short-name }
+
 refresh-profile-dialog-title = A bheil thu airson { -brand-short-name } ath-shuidheachadh air na bun-roghainnean?
 refresh-profile-dialog-button =
     .label = Ath-nuadhaich { -brand-short-name }

@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Draoidh an ion-phortaidh
+
 import-from =
     { PLATFORM() ->
         [windows] Ion-phortaich roghainnean, comharran-lìn, eachdraidh, faclan-faire 's dàta eile o:
        *[other] Ion-phortaich roghainnean, comharran-lìn, eachdraidh, faclan-faire 's dàta eile o:
     }
+
 import-from-bookmarks = Ion-phortaich comharran-lìn o:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,25 +51,39 @@ import-from-firefox =
 import-from-360se =
     .label = Brabhsair a tha gu tur sàbhailte
     .accesskey = 3
+
 no-migration-sources = Cha deach prògram a lorg sa bheil comharran-lìn, eachdraidh no faclan-faire.
+
 import-source-page-title = Ion-phortaich roghainnean is dàta
 import-items-page-title = Rudan ri an ion-phortadh
+
 import-items-description = Tagh na rudan a thèid ion-phortadh:
+
 import-permissions-page-title = Thoir ceadan dha { -brand-short-name }
+
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = Tha macOS ag iarraidh ort gun doir thu cead dha { -brand-short-name } gu sònraichte airson na comharran-lìn aig Safari inntrigeadh. Briog air “Lean air adhart” agus tagh am faidhle “Bookmarks.plist” air a’ phanail fosgladh faidhle a nochdas.
+
 import-migrating-page-title = Ag ion-phortadh…
+
 import-migrating-description = Tha na rudan a leanas 'gan ion-phortadh an-dràsta…
+
 import-select-profile-page-title = Tagh pròifil
+
 import-select-profile-description = 'S urrainn dhut ion-phortadh o na pròifilean a leanas:
+
 import-done-page-title = Ion-phortadh deiseil
+
 import-done-description = Chaidh na rudan a leanas ion-phortadh gu soirbheachail:
+
 import-close-source-browser = Dèan cinnteach gu bheil am brabhsair a thagh thu dùinte mus lean thu air adhart.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = O { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -79,6 +95,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = Brabhsair a tha gu tur sàbhailte
+
 imported-safari-reading-list = Liosta leughaidh (o Safari)
 imported-edge-reading-list = Liosta leughaidh (o Edge)
 
@@ -100,6 +117,7 @@ browser-data-cookies-checkbox =
     .label = Briosgaidean
 browser-data-cookies-label =
     .value = Briosgaidean
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -112,10 +130,12 @@ browser-data-history-label =
             [firefox] Eachdraidh brabhsaidh ’s comharran-lìn
            *[other] An eachdraidh brabhsaidh
         }
+
 browser-data-formdata-checkbox =
     .label = Eachdraidh nam foirmean air an sàbhaladh
 browser-data-formdata-label =
     .value = Eachdraidh nam foirmean air an sàbhaladh
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -124,6 +144,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Clàraidhean a-steach ⁊ faclan-faire a shàbhail thu
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -138,10 +159,12 @@ browser-data-bookmarks-label =
             [edge] Annsachdan
            *[other] Comharran-lìn
         }
+
 browser-data-otherdata-checkbox =
     .label = Dàta eile
 browser-data-otherdata-label =
     .label = Dàta eile
+
 browser-data-session-checkbox =
     .label = Uinneagan is tabaichean
 browser-data-session-label =

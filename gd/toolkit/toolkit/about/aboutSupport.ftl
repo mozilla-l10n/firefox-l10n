@@ -4,6 +4,7 @@
 
 page-title = Taic le duilgheadasan
 page-subtitle = Tha fiosrachadh teicnigeach air an duilleag seo a dh'fhaodadh a bhith feumail dhut ann am fuasgladh dhuilgheadasan. Ma tha ceist neo-theicnigeach agad mu { -brand-short-name }, cuir sùil air an <a data-l10n-name="support-link">làrach-taice</a> againn.
+
 crashes-title = Aithisgean tuislidh
 crashes-id = ID na h-aithisge
 crashes-send-date = Air a chur
@@ -130,6 +131,7 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argamaidean
 safe-mode-title = Feuch am modh tèarainte
 restart-in-safe-mode-label = Ath-thòisich leis na tuilleadan air an cur à comas…
+
 troubleshoot-mode-title = Sgrùd duilgheadasan
 restart-in-troubleshoot-mode-label = Modh fuasglaidh air duilgheadasan…
 clear-startup-cache-title = Feuch am falamhaich thu tasgadan an tòiseachaidh
@@ -211,6 +213,7 @@ support-third-party-modules-down-icon =
     .title = Seall mion-fhiosrachadh
 support-third-party-modules-up-icon =
     .title = Co-theannaich am mion-fhiosrachadh
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -220,6 +223,7 @@ report-crash-for-days =
         [few] Aithisgean tuislidh sna { $days } làithean mu dheireadh
        *[other] Aithisgean tuislidh san { $days } latha mu dheireadh
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -229,6 +233,7 @@ crashes-time-minutes =
         [few] { $minutes } mionaidean air ais
        *[other] { $minutes } mionaid air ais
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -238,6 +243,7 @@ crashes-time-hours =
         [few] { $hours } uairean a thìde air ais
        *[other] { $hours } uair a thìde air ais
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -247,6 +253,7 @@ crashes-time-days =
         [few] { $days } làithean air ais
        *[other] { $days } latha air ais
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -256,6 +263,7 @@ pending-reports =
         [few] Gach aithisg tuislidh (a' gabhail a-steach { $reports } tuislidhean ri dhèiligeadh san rainse ama a tha seo)
        *[other] Gach aithisg tuislidh (a' gabhail a-steach { $reports } tuisleadh ri dhèiligeadh san rainse ama a tha seo)
     }
+
 raw-data-copied = Chaidh lethbhreac an dàta luim a chur air an stòr-bhòrd
 text-copied = Chaidh lethbhreac an teacsa a chur air a' bhòrd-chliopaichean
 
@@ -268,9 +276,11 @@ blocked-mismatched-version = Air a’ bhacadh ’s an draibhear grafaigeachd ead
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Chaidh casg a chuir air seo air draibhear nan grafaigean agad. Feuch is ùraich draibhear nan grafaigean agad gu tionndadh { $driverVersion } no fear nas ùire.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paramadairean ClearType
+
 compositing = Compositing
 hardware-h264 = Dì-chòdachadh bathar-cruaidh H264
 main-thread-no-omtc = main thread, gun OMTC
@@ -285,6 +295,7 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Chaidh a lorg
 missing = A dhìth
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Tuairisgeul
@@ -308,19 +319,24 @@ webgl2-version = Tionndadh an draibheir WebGL 2
 webgl2-driver-extensions = Leudachain an draibheir WebGL 2
 webgl2-extensions = Leudachain WebGL 2
 blocklisted-bug = Blocklisted due to known issues
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Chaidh a chur air liosta-bhacaidh air sàilleibh duilgheadasan aithnichte: <a data-l10n-name="bug-link">buga { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocklisted; failure code { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = Ath-shuidhich aig an ath ath-thòiseachadh
 gpu-process-kill-button = Cuir crìoch air pròiseas an GPU
 gpu-device-reset = Ath-shuidheachadh an uidheim
@@ -330,8 +346,10 @@ content-uses-tiling = Cleachd leacachadh (Susbaint)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
 target-frame-rate = Target Frame Rate
+
 min-lib-versions = An tionndadh as lugha ris a tha dùil
 loaded-lib-versions = An tionndadh a tha 'ga chleachdadh
+
 has-seccomp-bpf = Seccomp-BPF (Criathradh ghairmean an t-siostaim)
 has-seccomp-tsync = Sioncronachadh snàithlein Seccomp
 has-user-namespaces = Ainm-spàsan cleachdaiche
@@ -344,15 +362,18 @@ sandbox-proc-type-content = susbaint
 sandbox-proc-type-file = susbaint faidhle
 sandbox-proc-type-media-plugin = plugan mheadhanan
 sandbox-proc-type-data-decoder = data decoder
+
 startup-cache-title = Tasgadan tòiseachaidh
 startup-cache-disk-cache-path = Slighe tasgadain air an diosg
 startup-cache-ignore-disk-cache = Leig seachad an tasgadan air an diosg
 startup-cache-found-disk-cache-on-init = Chaidh tasgadan a lorg air an diosg rè an tòiseachaidh
 startup-cache-wrote-to-disk-cache = Chaidh sgrìobhadh gu tasgadan an diosg
+
 launcher-process-status-0 = Enabled
 launcher-process-status-1 = Disabled due to failure
 launcher-process-status-2 = Disabled forcibly
 launcher-process-status-unknown = Unknown status
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -365,6 +386,7 @@ multi-process-status-6 = Air a chur à comas an cois ion-chur teacsa ris nach ei
 multi-process-status-7 = Air a chur an comas le tuilleadain
 multi-process-status-8 = Air a chur à comas le làmh làidir
 multi-process-status-unknown = Staid neo-aithnichte
+
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -378,6 +400,7 @@ fission-status-enabled-by-default = An comas o thùs
 fission-status-disabled-by-default = À comas o thùs
 fission-status-enabled-by-user-pref = Chaidh a chur an comas leis a’ chleachdaiche
 fission-status-disabled-by-user-pref = Chaidh a chur à comas leis a’ chleachdaiche
+
 async-pan-zoom = Panachadh/Sùmadh neo-shioncronach
 apz-none = chan eil gin
 wheel-enabled = tha ion-chur cuibhle an comas
@@ -411,6 +434,7 @@ support-printing-prefs-value = Luach
 
 support-remote-experiments-title = Deuchainnean cèine
 support-remote-experiments-name = Ainm
+
 support-remote-features-title = Gleusan cèine
 support-remote-features-name = Ainm
 support-remote-features-status = Staid

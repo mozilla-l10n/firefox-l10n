@@ -26,7 +26,25 @@
 
 ## Manual config area
 
+## Manual configuration area
+
+## Incoming/Outgoing SSL Authentication options
+
+## Incoming/Outgoing SSL options
+
 ssl-noencryption-option = Gun chrioptachadh
 
 ## Warning insecure server
+
+## Warning insecure server dialog
+
+## Warning Exchange confirmation dialog
+
+## Alert dialogs
+
+## Addon installation section
+
+## Success view
+
+## Calendar synchronization dialog
 
