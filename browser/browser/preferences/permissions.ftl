@@ -47,6 +47,8 @@ permissions-invalid-uri-label = Ni khou humbelwa uri ni dzhenise dzina ḽa tshi
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Ni nga bula uri ndi webusaithi dzifhio dzo tendelwaho u vula mafisiṱere a u thuthuba. Thaiphani ḓiresi ya vhukuma ya saithi ine na khou ṱoḓa u i tendela u bva afho ni kiḽike Tendelani.

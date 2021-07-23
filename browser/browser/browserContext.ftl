@@ -9,22 +9,28 @@ main-context-menu-back =
     .tooltiptext = Humelani murahu siaṱari ḽithihi
     .aria-label = Murahu
     .accesskey = M
+
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
+
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
     .tooltiptext = Humelani murahu siaṱari ḽithihi ({ $shortcut })
     .aria-label = Murahu
     .accesskey = M
+
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
     .label = Murahu
     .accesskey = M
+
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
+
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
@@ -34,22 +40,28 @@ main-context-menu-forward =
     .tooltiptext = Iyani phanḓa siaṱari ḽithihi
     .aria-label = Phanḓa
     .accesskey = P
+
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
+
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
     .tooltiptext = Iyani phanḓa siaṱari ḽithihi ({ $shortcut })
     .aria-label = Phanḓa
     .accesskey = P
+
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
     .label = Phanḓa
     .accesskey = P
+
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
+
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
 
@@ -58,10 +70,12 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Dzhenisani hafhu
     .accesskey = D
+
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
     .label = Dzhenisani hafhu
     .accesskey = D
+
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -70,10 +84,12 @@ toolbar-button-reload =
 main-context-menu-stop =
     .aria-label = Imani
     .accesskey = I
+
 # This menuitem is only visible on macOS
 main-context-menu-stop-mac =
     .label = Imani
     .accesskey = I
+
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -82,11 +98,14 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
 ## Save Page
 
 main-context-menu-page-save =
     .label = Vhulungani Siaṱari Sa...
     .accesskey = P
+
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -95,9 +114,11 @@ toolbar-button-page-save =
 main-context-menu-open-link-new-tab =
     .label = Vulani Ṱhumanyo kha Ḽiswa Tab
     .accesskey = T
+
 main-context-menu-open-link-new-window =
     .label = Vulani Ṱhumanyo kha Ḽiswa Fasiṱere
     .accesskey = F
+
 main-context-menu-save-link =
     .label = Vhulungani Ṱhumanyo Sa...
     .accesskey = n
@@ -114,6 +135,7 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Kopani Ḓiresi ya Emeiḽi
     .accesskey = Ḓ
+
 main-context-menu-copy-link =
     .label = Kopani Fhethu ha Ṱhumanyo
     .accesskey = K
@@ -137,18 +159,23 @@ main-context-menu-copy-link =
 main-context-menu-image-view =
     .label = Lavhelesani Tshivhumbeo
     .accesskey = T
+
 main-context-menu-image-copy =
     .label = Kopani Tshivhumbeo
     .accesskey = k
+
 main-context-menu-image-copy-location =
     .label = Kopani Fhethu ha Tshivhumbeo
     .accesskey = k
+
 main-context-menu-image-save-as =
     .label = Vhulungani Tshivhumbeo Sa...
     .accesskey = v
+
 main-context-menu-image-set-as-background =
     .label = Vheani sa Siangene ya Desikethopho...
     .accesskey = V
+
 main-context-menu-view-background-image =
     .label = Lavhelesani Tshivhumbeo tsha Siangane
     .accesskey = l
@@ -163,42 +190,56 @@ main-context-menu-view-background-image =
 main-context-menu-keyword =
     .label = Engedzani Ipfi ḽihulwane u itela u Ṱoḓa...
     .accesskey = I
+
 main-context-menu-frame =
     .label = Hei Fureme
     .accesskey = h
+
 main-context-menu-frame-show-this =
     .label = Sumbedzani Fhedzi Hei Fureme
     .accesskey = s
+
 main-context-menu-frame-open-tab =
     .label = Vulani Fureme kha Ḽiswa Tab
     .accesskey = T
+
 main-context-menu-frame-open-window =
     .label = Vulani Fureme kha Ḽiswa Fasiṱere
     .accesskey = F
+
 main-context-menu-frame-reload =
     .label = Dzhenisani hafhu Fureme
     .accesskey = D
+
 main-context-menu-frame-save-as =
     .label = Vhulungani Fureme Sa...
     .accesskey = F
+
 main-context-menu-frame-view-source =
     .label = Tshiko tsha u Lavhelesa Fureme
     .accesskey = T
+
 main-context-menu-frame-view-info =
     .label = Lavhelesani Fureme Vhuṱanzi
     .accesskey = v
+
 main-context-menu-view-selection-source =
     .label = Tshiko tsha u Lavhelesa u Nanga
     .accesskey = e
+
 main-context-menu-view-page-source =
     .label = Tshiko tsha u Lavhelesa Siaṱari
     .accesskey = T
+
 main-context-menu-view-page-info =
     .label = Lavhelesani Siaṱari Vhuṱanzi
     .accesskey = V
+
 main-context-menu-bidi-switch-text =
     .label = Shandukisani Tsumbavhuyo ha Ḽiṅwalwa
     .accesskey = a
+
 main-context-menu-bidi-switch-page =
     .label = Shandukisani Tsumbavhuyo ha Siaṱari
     .accesskey = a
+
