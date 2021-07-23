@@ -144,6 +144,7 @@
 
 <!ENTITY helpForIEUsers.label               "Voor Internet Explorer-gebruikers">
 <!ENTITY helpForIEUsers.accesskey           "I">
+
 <!ENTITY helpTroubleshootingInfo.label      "Probleemoplossingsinformatie">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
 <!ENTITY releaseCmd.label                   "Uitgaveopmerkingen">

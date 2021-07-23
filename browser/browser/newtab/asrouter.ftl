@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Probeer dit: Tabblad vastmaken
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Waarom zie ik dit?
+
 cfr-doorhanger-extension-cancel-button = Niet nu
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Nu toevoegen
     .accesskey = t
 cfr-doorhanger-pintab-ok-button = Dit tabblad vastmaken
     .accesskey = v
+
 cfr-doorhanger-extension-manage-settings-button = Instellingen voor aanbevelingen beheren
     .accesskey = I
+
 cfr-doorhanger-extension-never-show-recommendation = Deze aanbeveling niet tonen
     .accesskey = D
+
 cfr-doorhanger-extension-learn-more-link = Meer info
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = door { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Aanbeveling
 cfr-doorhanger-extension-notification2 = Aanbeveling
     .tooltiptext = Aanbeveling voor extensie
     .a11y-announcement = Aanbeveling voor extensie beschikbaar
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Aanbeveling
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } gebruiker
        *[other] { $total } gebruikers
     }
+
 cfr-doorhanger-pintab-description = Makkelijke toegang tot uw meestgebruikte websites. Houd websites open in een tabblad (zelfs wanneer u herstart).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Makkelijke toegang tot uw meestgebruikte web
 cfr-doorhanger-pintab-step1 = <b>Klik met de rechtermuisknop</b> op het tabblad dat u wilt vastmaken.
 cfr-doorhanger-pintab-step2 = Selecteer <b>Tabblad vastmaken</b> vanuit het menu.
 cfr-doorhanger-pintab-step3 = Als de website een update bevat, ziet u een blauwe stip op uw vastgemaakte tabblad.
+
 cfr-doorhanger-pintab-animation-pause = Pauzeren
 cfr-doorhanger-pintab-animation-resume = Hervatten
+
 
 ## Firefox Accounts Message
 
@@ -89,20 +100,26 @@ cfr-protections-panel-link-text = Meer info
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nieuwe functie:
+
 cfr-whatsnew-button =
     .label = Wat is er nieuw
     .tooltiptext = Wat is er nieuw
+
 cfr-whatsnew-panel-header = Wat is er nieuw
+
 cfr-whatsnew-release-notes-link-text = Uitgaveopmerkingen lezen
+
 cfr-whatsnew-fx70-title = { -brand-short-name } vecht nu nog harder voor uw privacy
 cfr-whatsnew-fx70-body =
     De nieuwste update verbetert de functie Bescherming tegen volgen en maakt het
     gemakkelijker dan ooit om veilige wachtwoorden voor elke website te maken.
+
 cfr-whatsnew-tracking-protect-title = Bescherm uzelf tegen trackers
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } blokkeert veel gebruikelijke sociale en cross-site-trackers die
     volgen wat u online doet.
 cfr-whatsnew-tracking-protect-link-text = Uw rapport bekijken
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -113,9 +130,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Sinds { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Rapport bekijken
+
 cfr-whatsnew-lockwise-backup-title = Maak een back-up van uw wachtwoorden
 cfr-whatsnew-lockwise-backup-body = Maak nu veilige wachtwoorden die u overal waar u zich aanmeldt kunt benaderen.
 cfr-whatsnew-lockwise-backup-link-text = Back-ups inschakelen
+
 cfr-whatsnew-lockwise-take-title = Neem uw wachtwoorden mee
 cfr-whatsnew-lockwise-take-body =
     Met de mobiele app { -lockwise-brand-short-name } heeft u overal veilig
@@ -154,6 +173,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Fingerprinters geblokkeerd
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokkeert veel fingerprinters, die stiekem informatie over uw apparaat en handelingen verzamelen om een advertentieprofiel van u te maken.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kan fingerprinters, die stiekem informatie over uw apparaat en handelingen verzamelen om een advertentieprofiel van u te maken, blokkeren.
@@ -212,6 +232,7 @@ cfr-doorhanger-milestone-heading =
         [one] { -brand-short-name } heeft <b>{ $blockedCount }</b> tracker geblokkeerd sinds { $date }!
        *[other] { -brand-short-name } heeft meer dan <b>{ $blockedCount }</b> trackers geblokkeerd sinds { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -246,12 +267,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Pictogram Picture-in-Picture
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Sluiten
-    .accesskey = S
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Beschermingen in een oogopslag
 cfr-whatsnew-protections-body = Het Beveiligingsdashboard bevat samenvattingen over datalekken en wachtwoordbeheer. U kunt nu volgen hoeveel datalekken u hebt opgelost en bekijken of uw opgeslagen wachtwoorden mogelijk zijn getroffen door een datalek.
 cfr-whatsnew-protections-cta-link = Beveiligingsdashboard bekijken
@@ -261,6 +276,12 @@ cfr-whatsnew-protections-icon-alt = Schildpictogram
 
 cfr-whatsnew-better-pdf-header = Betere PDF-ervaring
 cfr-whatsnew-better-pdf-body = PDF-documenten worden nu rechtstreeks geopend in { -brand-short-name }, waardoor uw werk binnen handbereik blijft.
+
+cfr-doorhanger-milestone-close-button = Sluiten
+    .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -282,35 +303,15 @@ cfr-doorhanger-fission-secondary-button = Meer info
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Automatische bescherming tegen stiekeme volgtactieken
-cfr-whatsnew-clear-cookies-body = Sommige trackers leiden u door naar andere websites die in het geheim cookies plaatsen. { -brand-short-name } wist die cookies nu automatisch, zodat u niet kunt worden gevolgd.
-cfr-whatsnew-clear-cookies-image-alt = Afbeelding Cookie geblokkeerd
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Meer mediabediening
-cfr-whatsnew-media-keys-body = Speel of pauzeer audio of video rechtstreeks vanaf uw toetsenbord of headset, waardoor het eenvoudig wordt om media vanuit een ander tabblad, programma of zelfs wanneer uw computer is vergrendeld te bedienen. U kunt met de toetsen voor vooruit en achteruit tussen tracks verspringen.
-cfr-whatsnew-media-keys-button = Meer info
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Zoeksnelkoppelingen in de adresbalk
-cfr-whatsnew-search-shortcuts-body = Wanneer u voortaan een zoekmachine of specifieke website in de adresbalk typt, verschijnt een blauwe snelkoppeling in de zoeksuggesties eronder. Selecteer die snelkoppeling om uw zoekopdracht rechtstreeks vanuit de zoekbalk te voltooien.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Bescherming tegen kwaadaardige supercookies
-cfr-whatsnew-supercookies-body = Websites kunnen stiekem een ‘supercookie’ aan uw browser koppelen, dat u op het internet kan volgen, zelfs nadat u uw cookies hebt gewist. { -brand-short-name } biedt nu krachtige bescherming tegen supercookies, zodat ze niet kunnen worden gebruikt om uw online activiteiten op verschillende websites te volgen.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Beter bladwijzers maken
-cfr-whatsnew-bookmarking-body = Het is gemakkelijker om uw favoriete websites bij te houden. { -brand-short-name } onthoudt nu uw voorkeurslocatie voor opgeslagen bladwijzers, toont de bladwijzerwerkbalk standaard op nieuwe tabbladen en geeft u eenvoudige toegang tot de rest van uw bladwijzers via een werkbalkmap.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Uitgebreide bescherming tegen volgen door cross-site-cookies
-cfr-whatsnew-cross-site-tracking-body = U kunt zich nu aanmelden voor betere bescherming tegen volgen door cookies. { -brand-short-name } kan uw activiteiten en gegevens isoleren voor de website die u bezoekt, zodat in de browser opgeslagen informatie niet tussen websites wordt gedeeld.
 
 ## Full Video Support CFR message
 

@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Menu openen">
+
 <!ENTITY navbarOverflow.label                "Meer hulpmiddelen…">
 
 <!-- Tab context menu -->
@@ -145,19 +146,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "a">
 
 <!ENTITY historyMenu.label "Geschiedenis">
+
 <!ENTITY historyUndoMenu.label "Onlangs gesloten tabbladen">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Onlangs gesloten vensters">
 
 <!ENTITY appMenuHistory.showAll.label "Alle geschiedenis tonen">
+
 <!ENTITY appMenuHistory.clearRecent.label "Recente geschiedenis wissen…">
 <!ENTITY appMenuHistory.restoreSession.label "Vorige sessie herstellen">
 <!ENTITY appMenuHistory.viewSidebar.label "Geschiedeniszijbalk weergeven">
 <!ENTITY appMenuHistory.hideSidebar.label "Geschiedeniszijbalk verbergen">
 <!ENTITY appMenuHistory.recentHistory.label "Recente geschiedenis">
+
 <!ENTITY appMenuHelp.label "Help">
 
 <!ENTITY appMenuRemoteTabs.label "Gesynchroniseerde tabbladen">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Geen open tabbladen">

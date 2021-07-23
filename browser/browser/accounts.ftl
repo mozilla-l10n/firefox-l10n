@@ -5,12 +5,7 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Aanmaken account voltooien
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-reconnect-to-fxa = Verbinding account verbroken
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-disconnected = Uw verbinding is verbroken
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Account niet verbonden

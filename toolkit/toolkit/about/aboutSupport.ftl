@@ -7,6 +7,7 @@ page-subtitle =
     Deze pagina bevat technische informatie die handig kan zijn als u een probleem
     probeert op te lossen. Als u antwoorden op veelgestelde vragen over { -brand-short-name }
     zoekt, kijk dan op onze <a data-l10n-name="support-link">ondersteuningswebsite</a>.
+
 crashes-title = Crashrapporten
 crashes-id = Rapport-ID
 crashes-send-date = Verzonden
@@ -134,6 +135,7 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenten
 safe-mode-title = Veilige modus proberen
 restart-in-safe-mode-label = Herstarten met uitgeschakelde add-ons…
+
 troubleshoot-mode-title = Problemen analyseren
 restart-in-troubleshoot-mode-label = Probleemoplossingsmodus…
 clear-startup-cache-title = Opstartbuffer proberen te wissen
@@ -221,6 +223,7 @@ support-third-party-modules-down-icon =
     .title = Detailinformatie tonen
 support-third-party-modules-up-icon =
     .title = Detailinformatie samenvouwen
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -228,6 +231,7 @@ report-crash-for-days =
         [one] Crashrapporten van de afgelopen { $days } dag
        *[other] Crashrapporten van de afgelopen { $days } dagen
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -235,6 +239,7 @@ crashes-time-minutes =
         [one] { $minutes } minuut geleden
        *[other] { $minutes } minuten geleden
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -242,6 +247,7 @@ crashes-time-hours =
         [one] { $hours } uur geleden
        *[other] { $hours } uur geleden
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -249,6 +255,7 @@ crashes-time-days =
         [one] { $days } dag geleden
        *[other] { $days } dagen geleden
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -256,6 +263,7 @@ pending-reports =
         [one] Alle crashrapporten (waaronder { $reports } crash in behandeling in het gegeven tijdsbereik)
        *[other] Alle crashrapporten (waaronder { $reports } crashes in behandeling in het gegeven tijdsbereik)
     }
+
 raw-data-copied = Onbewerkte gegevens naar klembord gekopieerd
 text-copied = Tekst naar klembord gekopieerd
 
@@ -268,9 +276,11 @@ blocked-mismatched-version = Geblokkeerd voor uw grafische stuurprogramma, versi
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Geblokkeerd voor uw grafische stuurprogramma. Probeer uw grafische stuurprogramma bij te werken naar versie { $driverVersion } of nieuwer.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-parameters
+
 compositing = Samenstellen
 hardware-h264 = Hardwarematige H264-decodering
 main-thread-no-omtc = hoofdthread, geen OMTC
@@ -285,6 +295,7 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Gevonden
 missing = Ontbreekt
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Beschrijving
@@ -308,20 +319,25 @@ webgl2-version = Versie van WebGL 2-stuurprogramma
 webgl2-driver-extensions = Extensies van WebGL 2-stuurprogramma
 webgl2-extensions = WebGL 2-extensies
 blocklisted-bug = Geblokkeerd vanwege bekende problemen
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Geblokkeerd vanwege bekende problemen: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Op blokkeerlijst; foutcode { $failureCode }
+
 d3d11layers-crash-guard = D3D11-compositor
 d3d11video-crash-guard = D3D11-videodecoder
 d3d9video-crash-guard = D3D9-videodecoder
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX-videodecoder
+
 reset-on-next-restart = Herinitialiseren bij volgende herstart
 gpu-process-kill-button = GPU-proces beëindigen
 gpu-device-reset = Apparaatherinitialisatie
@@ -331,8 +347,10 @@ content-uses-tiling = Gebruikt Tiling (Inhoud)
 off-main-thread-paint-enabled = Off Main Thread Painting ingeschakeld
 off-main-thread-paint-worker-count = Aantal Off Main Thread Painting-workers
 target-frame-rate = Doelframerate
+
 min-lib-versions = Verwachte minimale versie
 loaded-lib-versions = Gebruikte versie
+
 has-seccomp-bpf = Seccomp-BPF (Systeemaanroepfiltering)
 has-seccomp-tsync = Seccomp-threadsynchronisatie
 has-user-namespaces = Namespaces van gebruiker
@@ -346,15 +364,18 @@ sandbox-proc-type-content = inhoud
 sandbox-proc-type-file = bestandsinhoud
 sandbox-proc-type-media-plugin = mediaplug-in
 sandbox-proc-type-data-decoder = gegevensdecoder
+
 startup-cache-title = Opstartbuffer
 startup-cache-disk-cache-path = Pad naar schijfbuffer
 startup-cache-ignore-disk-cache = Schijfbuffer negeren
 startup-cache-found-disk-cache-on-init = Schijfbuffer bij Init gevonden
 startup-cache-wrote-to-disk-cache = Naar schijfbuffer geschreven
+
 launcher-process-status-0 = Ingeschakeld
 launcher-process-status-1 = Uitgeschakeld vanwege fout
 launcher-process-status-2 = Geforceerd uitgeschakeld
 launcher-process-status-unknown = Onbekende status
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -367,6 +388,7 @@ multi-process-status-6 = Uitgeschakeld door niet-ondersteunde tekstinvoer
 multi-process-status-7 = Uitgeschakeld door add-ons
 multi-process-status-8 = Geforceerd uitgeschakeld
 multi-process-status-unknown = Onbekende status
+
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -381,7 +403,9 @@ fission-status-disabled-by-default = Standaard uitgeschakeld
 fission-status-enabled-by-user-pref = Ingeschakeld door gebruiker
 fission-status-disabled-by-user-pref = Uitgeschakeld door gebruiker
 fission-status-disabled-by-e10s-other = E10s uitgeschakeld
+
 fission-status-enabled-by-rollout = Ingeschakeld door gefaseerde uitrol
+
 async-pan-zoom = Asynchroon pannen/zoomen
 apz-none = geen
 wheel-enabled = wielinvoer ingeschakeld
@@ -418,6 +442,7 @@ support-remote-experiments-title = Externe experimenten
 support-remote-experiments-name = Naam
 support-remote-experiments-branch = Experimenttak
 support-remote-experiments-see-about-studies = Zie <a data-l10n-name="support-about-studies-link">about:studies</a> voor meer informatie, waaronder hoe u individuele experimenten uit kunt schakelen of kunt voorkomen dat { -brand-short-name } dit soort experimenten in de toekomst uitvoert.
+
 support-remote-features-title = Externe functies
 support-remote-features-name = Naam
 support-remote-features-status = Status

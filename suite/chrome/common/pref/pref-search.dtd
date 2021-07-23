@@ -19,5 +19,3 @@
 <!ENTITY openInTab.accesskey              "N">
 <!ENTITY openContextSearchTab.label       "Tabblad in plaats van vensters openen voor een contextmenu webzoekopdracht">
 <!ENTITY openContextSearchTab.accesskey   "T">
-<!ENTITY openSidebarSearchPanel.label     "Het tabblad Zoeken openen in de zijbalk bij het aanroepen van een zoekopdracht">
-<!ENTITY openSidebarSearchPanel.accesskey "o">

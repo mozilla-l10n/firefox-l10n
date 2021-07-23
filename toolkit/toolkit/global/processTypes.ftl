@@ -8,22 +8,30 @@
 ##
 
 process-type-web = Webinhoud
+
 process-type-browser = Hoofd
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Over Met privileges
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Mozilla-inhoud met privileges
+
 process-type-extension = Extensie
+
 # process used to open file:// URLs
 process-type-file = Lokaal bestand
+
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Grote toewijzing
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Geïsoleerde webinhoud
+
 # process preallocated; may change to other types
 process-type-prealloc = Vooraf toegewezen
 
@@ -33,11 +41,14 @@ process-type-prealloc = Vooraf toegewezen
 
 process-type-default = Hoofd
 process-type-tab = Tabblad
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to perform network operations
 process-type-socket = Socket
+
 # process used to decode media
 process-type-rdd = RDD
 

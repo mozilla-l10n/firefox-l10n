@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Niet nu
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Na een snelle herstart zal { -brand-shorter-name } al uw open tabbladen en vensters herstellen die zich niet in privénavigatiemodus bevinden.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Oké, begrepen
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Beheer uw add-ons door op <image data-l10n-name='addon-install-icon'></image> in het menu <image data-l10n-name='addon-menu-icon'></image> te klikken.
+
 appmenu-update-available2 =
     .label = Update beschikbaar
     .buttonlabel = Downloaden
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = j
     .secondarybuttonaccesskey = w
 appmenu-update-other-instance-message = Er is een nieuwe update voor { -brand-shorter-name } beschikbaar, maar deze kan niet worden geïnstalleerd omdat er een ander exemplaar van { -brand-shorter-name } wordt uitgevoerd. Sluit deze om de update door te voeren, of kies ervoor om toch bij te werken (het andere exemplaar werkt mogelijk niet goed totdat u dit opnieuw start).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Oké, begrepen
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Beheer uw add-ons door op <image data-l10n-name='addon-install-icon'></image> in het menu <image data-l10n-name='addon-menu-icon'></image> te klikken.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Oké
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Beheer uw extensies en thema’s via het toepassingsmenu.
 appmenu-addon-post-install-message3 = Beheer uw add-ons en thema’s via het toepassingsmenu.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Deze extensie in privévensters laten uitvoeren
     .accesskey = D
+    
 appmenu-new-tab-controlled =
     .label = Uw nieuwe tabblad is gewijzigd.
     .buttonlabel = Wijzigingen behouden
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = b
     .secondarybuttonlabel = Extensie uitschakelen
     .secondarybuttonaccesskey = u
+
 appmenu-new-tab-controlled-changes =
     .label = Uw nieuwe tabblad is gewijzigd.
     .buttonlabel = Wijzigingen behouden

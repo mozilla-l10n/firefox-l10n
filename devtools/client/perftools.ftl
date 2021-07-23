@@ -42,7 +42,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffergrootte:
+
 perftools-custom-threads-label = Aangepaste threads op naam toevoegen:
+
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Threads:
 perftools-devtools-settings-label = Instellingen
@@ -97,12 +99,14 @@ perftools-thread-dns-resolver =
     .title = Op deze thread vindt DNS-omzetting plaats
 perftools-thread-js-helper =
     .title = Achtergrondwerk van de JS-engine, zoals off-main-threadcompilaties
+
 perftools-thread-task-controller =
     .title = TaskController-threadpoolthreads
 
 ##
 
 perftools-record-all-registered-threads = Bovenstaande selectie omzeilen en alle geregistreerde threads opnemen
+
 perftools-tools-threads-input-label =
     .title = Deze threadnamen zijn een kommagescheiden lijst, die wordt gebruikt om het profileren van de threads in de profiler mogelijk te maken. De naam hoeft maar deels overeen te komen met de threadnaam om opgenomen te worden. Gevoelig voor witruimte.
 
@@ -111,7 +115,9 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nieuw</b>: { -profiler-brand-name } is nu geïntegreerd in de Ontwikkelaarshulpmiddelen. <a>Meer info</a> over dit krachtige nieuwe hulpmiddel.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (U kunt tijdelijk het oorspronkelijke paneel Prestaties benaderen via <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Het welkomstbericht sluiten

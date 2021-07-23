@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Deelnemen aan chat
+
 chat-left-chat-icon2 =
     .alt = Chat verlaten
+
 chat-participant-owner-role-icon2 =
     .alt = Eigenaar
+
 chat-participant-administrator-role-icon2 =
     .alt = Beheerder
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderator
+
 chat-participant-voiced-role-icon2 =
     .alt = Deelnemer kan berichten plaatsen

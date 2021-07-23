@@ -15,11 +15,6 @@
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
 <!ENTITY prefPara                            "HTTP-verbindingen kunnen via deze opties worden fijnafgesteld om prestaties of compatibiliteit te verbeteren. Van sommige proxyservers is bijvoorbeeld bekend dat ze HTTP/1.0 vereisen (bekijk de uitgaveopmerkingen voor details).">
 <!ENTITY prefUseragent.label                 "Useragent-string">
-<!ENTITY prefFirefoxCompat.label             "Bekendmaken als Firefox-compatibel">
-<!ENTITY prefFirefoxCompat.accesskey         "F">
-<!ENTITY prefLightningShow.label             "Lightning-installatie bekendmaken">
-<!ENTITY prefLightningShow.accesskey         "L">
-<!ENTITY prefCompatWarning                   "WAARSCHUWING: het uitschakelen van deze instellingen kan ertoe leiden dat websites of services niet goed werken.">
 <!ENTITY prefFirefoxStrict.label             "Als Firefox identificeren">
 <!ENTITY prefFirefoxStrict.accesskey         "F">
 <!ENTITY prefFirefoxNone.label               "Als SeaMonkey identificeren">

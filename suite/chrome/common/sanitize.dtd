@@ -61,9 +61,9 @@
 <!ENTITY itemSessions.label               "Geauthenticeerde sessies">
 <!ENTITY itemSessions.accesskey           "s">
 
+<!ENTITY sanitizeButton.label            "Privégegevens nu wissen">
 <!ENTITY itemSessionsS.accesskey          "u">
 
-<!ENTITY sanitizeButton.label            "Privégegevens nu wissen">
 <!ENTITY itemSitePreferences.label        "Websitevoorkeuren">
 <!ENTITY itemSitePreferences.accesskey    "v">
 <!ENTITY itemSitePreferencesS.accesskey   "t">

@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Uw aanmelding importeren uit { $browser }</div>
     <div data-l10n-name="line2">voor { $host } en andere websites</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Meer info
 
