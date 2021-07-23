@@ -4,7 +4,8 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
+
 # Description of the import module
 thunderbird-import-description = Імпортувати пошту з каталогу профілю Thunderbird.
-import-select-profile-dir-or-zip = Виберіть каталог профілів або каталог з архівованим профілем
+
 import-select-profile-zip = Виберіть каталог стисненого профілю

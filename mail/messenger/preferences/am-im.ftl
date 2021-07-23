@@ -4,5 +4,6 @@
 
 account-settingsTitle = Налаштування автентифікації
 account-channelTitle = Типові канали
+
 account-settings-title = Налаштування автентифікації
 account-channel-title = Типові канали

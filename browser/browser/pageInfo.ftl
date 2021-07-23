@@ -129,6 +129,8 @@ security-site-data-only = Так, { $value } { $unit } даних сайтів
 security-site-data-cookies-only = Так, куки
 security-site-data-no = Ні
 
+##
+
 image-size-unknown = Невідомо
 page-info-not-specified =
     .value = Не вказано

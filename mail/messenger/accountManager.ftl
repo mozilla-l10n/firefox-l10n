@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = Налаштування { -brand-short-name }
+
 open-addons-sidebar-button = Додатки й теми
