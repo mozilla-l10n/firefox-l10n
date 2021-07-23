@@ -25,6 +25,8 @@ permissions-invalid-uri-label = ஒரு சரியான கணினிய�
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 

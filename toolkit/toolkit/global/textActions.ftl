@@ -33,3 +33,4 @@ text-action-select-all =
 
 text-action-select-all-shortcut =
     .key = A
+
