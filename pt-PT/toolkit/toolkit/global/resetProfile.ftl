@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Restaurar o { -brand-short-name }
+
 refresh-profile-dialog-title = Repor o { -brand-short-name } com as definições pré-definidas?
 refresh-profile-dialog-button =
     .label = Restaurar o { -brand-short-name }

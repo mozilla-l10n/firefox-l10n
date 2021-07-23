@@ -3,3 +3,37 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-setup-tab-title = Configuração da conta
+
+## Header
+
+## Form fields
+
+
+## Action buttons
+
+## Notifications
+
+## Illustrations
+
+## Results area
+
+## Error messages
+
+## Manual configuration area
+
+## Incoming/Outgoing SSL Authentication options
+
+## Incoming/Outgoing SSL options
+
+## Warning insecure server dialog
+
+## Warning Exchange confirmation dialog
+
+## Alert dialogs
+
+## Addon installation section
+
+## Success view
+
+## Calendar synchronization dialog
+

@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Agora não
     .secondarybuttonaccesskey = n
 appmenu-update-restart-message = Após um reinício rápido, o { -brand-shorter-name } irá restaurar todos os seus separadores abertos e janelas que não estão no modo de navegação privada.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Ok, entendi
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Gira os seus extras ao clicar em <image data-l10n-name='addon-install-icon'></image> no menu <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Atualização disponível
     .buttonlabel = Transferir
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Agora não
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = Está disponível uma nova atualização para o { -brand-shorter-name }, mas a mesma não pode ser instalada porque está em execução uma outra cópia do { -brand-shorter-name }. Encerre a mesma para continuar a atualização ou opte por atualizar mesmo assim (a outra cópia pode não funcionar corretamente até que a reinicie).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Ok, entendi
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Gira os seus extras ao clicar em <image data-l10n-name='addon-install-icon'></image> no menu <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Faça a gestão das suas extensões e temas através do menu da aplicação.
 appmenu-addon-post-install-message3 = Faça a gestão das suas extensões e temas através do menu da aplicação.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir que esta extensão seja executada em janelas privadas
     .accesskey = a
+    
 appmenu-new-tab-controlled =
     .label = O seu novo separador foi alterado.
     .buttonlabel = Manter alterações
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = M
     .secondarybuttonlabel = Desativar extensão
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = A página novo separador foi alterada.
     .buttonlabel = Manter alterações

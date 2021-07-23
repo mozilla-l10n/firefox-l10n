@@ -40,7 +40,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Tamanho do buffer:
+
 perftools-custom-threads-label = Adicionar threads personalizadas por nome:
+
 perftools-devtools-interval-label = Intervalo:
 perftools-devtools-threads-label = Threads:
 perftools-devtools-settings-label = Definições
@@ -95,12 +97,14 @@ perftools-thread-dns-resolver =
     .title = A resolução de DNS acontece nesta thread
 perftools-thread-js-helper =
     .title = O trabalho de fundo do motor de JS tais como compilações fora da thread principal
+
 perftools-thread-task-controller =
     .title = Threads do conjunto de threads do TaskController
 
 ##
 
 perftools-record-all-registered-threads = Ignora as seleções acima e grava todas as threads registadas
+
 perftools-tools-threads-input-label =
     .title = Estes nomes de threads são uma lista separada por vírgulas que é utilizada para ativar o profiling das threads no profiler. O nome apenas necessita de ser uma correspondência parcial do nome da thread para ser incluído. É sensível a espaços em branco.
 
@@ -109,7 +113,9 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Novo</b>: O { -profiler-brand-name } está agora integrado nas ferramentas de desenvolvimento. <a>Saber mais</a> sobre esta poderosa nova ferramenta.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Por tempo limitado, pode aceder ao painel Desempenho original via  <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Fechar mensagem de introdução

@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Tipo de pasta:">
 
 <!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota base:">
 <!ENTITY folderQuotaUsage.label                  "Utilizado:">
 <!ENTITY folderQuotaStatus.label                 "Estado:">
 

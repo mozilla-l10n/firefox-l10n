@@ -8,6 +8,7 @@
 newtab-page-title = Novo separador
 newtab-settings-button =
     .title = Personalizar a sua página de novo separador
+
 newtab-personalize-button-label = Personalizar
     .title = Personalizar novo separador
     .aria-label = Personalizar novo separador
@@ -23,7 +24,9 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Pesquisar
     .aria-label = Pesquisar
+
 newtab-search-box-search-the-web-text = Pesquisar na Web
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Pesquisar com { $engine } ou introduzir endereço
@@ -38,10 +41,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Pesquisar ou introduzir endereço
     .title = Pesquisar ou introduzir endereço
     .aria-label = Pesquisar ou introduzir endereço
+
 newtab-search-box-search-the-web-input =
     .placeholder = Pesquisar na Web
     .title = Pesquisar na Web
     .aria-label = Pesquisar na Web
+
 newtab-search-box-input =
     .placeholder = Pesquisar na Internet
     .aria-label = Pesquisar na Internet
@@ -56,10 +61,12 @@ newtab-topsites-edit-shortcut-header = Editar atalho
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Digite um título
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Digite ou cole um URL
 newtab-topsites-url-validation = URL válido requerido
+
 newtab-topsites-image-url-label = URL de imagem personalizada
 newtab-topsites-use-image-link = Utilizar uma imagem personalizada…
 newtab-topsites-image-validation = A imagem falhou o carregamento. Tente um URL diferente.
@@ -88,10 +95,12 @@ newtab-topsite-sponsored = Patrocinado
 newtab-menu-section-tooltip =
     .title = Abrir menu
     .aria-label = Abrir menu
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Remover
     .aria-label = Remover
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -164,10 +173,12 @@ newtab-label-removed-bookmark = Marcador removido
 newtab-label-recommended = Tendência
 newtab-label-saved = Guardado no { -pocket-brand-name }
 newtab-label-download = Transferido
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Patrocinado
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -206,10 +217,12 @@ newtab-section-header-pocket = Recomendado por { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Comece a navegar, e iremos mostrar-lhe alguns dos ótimos artigos, vídeos, e outras páginas que visitou recentemente ou adicionou aos marcadores aqui.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Já apanhou tudo. Verifique mais tarde para mais histórias principais de { $provider }. Não pode esperar? Selecione um tópico popular para encontrar mais boas histórias de toda a web.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -251,6 +264,7 @@ newtab-custom-pocket-sponsored = Histórias patrocinadas
 newtab-custom-recent-title = Atividade recente
 newtab-custom-recent-subtitle = Uma seleção de sites e conteúdos recentes
 newtab-custom-close-button = Fechar
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

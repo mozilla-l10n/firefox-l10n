@@ -16,6 +16,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Preferências
     .accesskey = P
+
 menu-addons-and-themes =
     .label = Extras e temas
     .accesskey = x
@@ -25,9 +26,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Modo de diagnóstico…
     .accesskey = d
+
 menu-help-exit-troubleshoot-mode =
     .label = Desligar o modo de diagnóstico
     .accesskey = g
+
 menu-help-more-troubleshooting-info =
     .label = Mais informação para diagnóstico
     .accesskey = M
@@ -46,3 +49,8 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Anular eliminação
     .tooltiptext = Anular a eliminação das mensagens selecionadas
+
+## View
+
+## View / Layout
+

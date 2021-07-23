@@ -4,6 +4,8 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Localizar e substituir">
 <!ENTITY findField.label "Localizar texto:">
 <!ENTITY findField.accesskey "x">
