@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Vula imenyu">
+
 <!ENTITY navbarOverflow.label                "Izixhobo ezingakumbi…">
 
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
@@ -102,17 +103,21 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY preferencesCmdUnix.label       "Iipriferensi">
 
 <!ENTITY historyMenu.label "Imbali">
+
 <!ENTITY historyUndoMenu.label "Iithebhu ezivaliweyo kutshanje">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Iifestile ezivalwe kutshanje">
 
 <!ENTITY appMenuHistory.showAll.label "Bonisa Yonke iMbali">
+
 <!ENTITY appMenuHistory.clearRecent.label "Susa iMbali Yakutshanje…">
 <!ENTITY appMenuHistory.restoreSession.label "Buyisela Iseshini yangaPhambili">
 <!ENTITY appMenuHistory.viewSidebar.label "Bona ibha esecaleni yeMbali">
+
 <!ENTITY appMenuHelp.label "Uncedo">
 
 <!ENTITY appMenuRemoteTabs.label "Iithebhu Ezingqamanisiweyo">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Azikho iithebhu ezivuliweyo">

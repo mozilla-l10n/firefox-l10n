@@ -141,6 +141,7 @@ delete-user-cert-impact = Ukuba ucima esinye sezatifikethi ezizezakho, akunakukw
 
 delete-ssl-cert-confirm = Uqinisekile ufuna ukucima ezi zikhethekileyo zeseva?
 
+
 delete-ca-cert-impact = Ukuba ucima okanye akuthembanga igunya (CA), le aplikheyishini ayisayi kuthemba naziphi na izatifikethi ezinikezelwe lelo gunya (CA).
 
 
@@ -181,6 +182,8 @@ cert-not-verified-issuer-not-trusted = Asikwazanga kuqinisekiswa esi satifikethi
 cert-not-verified-issuer-unknown = Asikwazanga kuqinisekiswa esi satifikethi kuba umnikeli akaziwa.
 cert-not-verified-ca-invalid = Asikwazanga kuqinisekiswa esi satifikethi kuba isatifikethi se-CA asisebenzi.
 cert-not-verified-unknown = Asikwazanga kuqinisekiswa esi satifikethi ngenxa yesizathu ezingaziwayo.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

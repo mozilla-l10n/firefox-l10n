@@ -59,3 +59,4 @@ places-sortby-name =
 places-properties =
     .label = Iinkcazelo ngeempawu
     .accesskey = w
+

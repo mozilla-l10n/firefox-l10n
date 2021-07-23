@@ -54,6 +54,8 @@ permissions-invalid-uri-label = Nceda ngenisa igama lomamkeli elisebenzayo
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Ungabalula ukuba zeziphi na iiwebhusayithi ezivumeleke ukuvula iiwindow ezizivelelayo. Tayipha idilesi yokwenene yesayithi ofuna ukuyivumela uze ucofe Vumela.

@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Ukubhrawuza kwangasese)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Ukubhrawuza kwangasese)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Ukubhrawuza kwangasese)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Ukubhrawuza kwangasese)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -105,10 +107,12 @@ urlbar-screen-blocked =
     .tooltiptext = Uyibhlokile le webhusayithi ekwabelaneni ngesikrini sakho.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ulubhlokile ugcino oluqhubekayo lwedatha kule webhusayithi.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Hlela le bhukhmakhi ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -118,25 +122,6 @@ urlbar-star-add-bookmark =
 
 
 ## Page Action menu
-
-page-action-email-link-panel =
-    .label = Ikhonkco leimeyile…
-page-action-email-link-urlbar =
-    .tooltiptext = Ikhonkco leimeyile…
-page-action-send-tab-not-ready =
-    .label = Iingqamanisa iziXhobo…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Qhobosha iithebhu
-page-action-pin-tab-urlbar =
-    .tooltiptext = Qhobosha iithebhu
-page-action-unpin-tab-panel =
-    .label = Khulula iithebhu
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Khulula iithebhu
 
 ## Auto-hide Context Menu
 
@@ -153,14 +138,17 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Tshintsha iisethingi zokukhangela
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Tshintsha iisethingi zokukhangela
+
 search-one-offs-context-open-new-tab =
     .label = Khangela KweNtsha Nethebhu
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = Seta Ibe Ziinjini Ezisisiseko Zokukhangela
     .accesskey = Z
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -189,6 +177,7 @@ identity-passive-loaded = Iinxalenye zeli phepha azikhuselekangae (njengemifanek
 identity-active-loaded = Ulucimile ukhuseleko kweli phepha.
 identity-weak-encryption = Eli phepha lisebenzisa ukukhowuda okubuthathaka.
 identity-insecure-login-forms = Iiogini ezifakwe kweli phepha zinokuba sengozini.
+
 identity-permissions-reload-hint = Kusenokufuneka uphinde ulifake eli phepha ukuze utshintsho lubonakale.
 identity-permissions-empty = Akunikanga le sayithi nayiphi na imvume ekhethekileyo.
 identity-remove-cert-exception =
@@ -241,6 +230,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Imayikhrofowuni yokubolekisana:
     .accesskey = I
+
 popup-all-windows-shared = Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.
 
 ## WebRTC window or screen share tab switch warning
@@ -253,15 +243,19 @@ popup-all-windows-shared = Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Khangela okanye ngenisa idilesi
+
 urlbar-placeholder =
     .placeholder = Khangela okanye ngenisa idilesi
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Ibhrawza iphantsi kolawulo lwerimoti
+
 urlbar-switch-to-tab =
     .value = Tshintshela kwithebhu:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Izolulo
+
 urlbar-go-button =
     .tooltiptext = Yiya kwidilesi kwibha yendawo
 urlbar-page-action-button =
@@ -290,9 +284,12 @@ urlbar-result-action-visit = Tyelela
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ngoku siskrini esipheleleyo
 fullscreen-warning-no-domain = Olu xwebhu ngoku lusiskrini esipheleleyo
+
+
 fullscreen-exit-button = Phuma KwiSkrini Esipheleleyo (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Phuma KwiSkrini Esipheleleyo (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -304,8 +301,6 @@ pointerlock-warning-no-domain = Olu xwebhu lulawula ipoyinta yakho. Cofa uEsc uk
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Bonisa zonke iibhukhmakhi
 bookmarks-toolbar-chevron =
     .tooltiptext = Bonisa iibhukhmakhi ezininzi
 bookmarks-sidebar-content =
@@ -318,6 +313,7 @@ bookmarks-search =
     .label = Khangela iiBhukhmakhi
 bookmarks-bookmark-edit-panel =
     .label = Hlela Le Bhukhmakhi
+
 bookmarks-toolbar-menu =
     .label = Ithulbha yebhukhmakhi
 bookmarks-toolbar-placeholder =
@@ -330,6 +326,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 
