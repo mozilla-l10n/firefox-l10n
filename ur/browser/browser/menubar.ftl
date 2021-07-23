@@ -38,16 +38,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } برخاست کریں
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } سے باہر نکلیں
+
 menu-about =
     .label = { -brand-shorter-name } کے بارے میں
     .accesskey = A
@@ -215,6 +219,7 @@ menu-history-undo-menu =
     .label = حالیہ بند کیے گئے ٹیب
 menu-history-undo-window-menu =
     .label = حالیہ بند کیے گئے دریچے
+
 menu-history-reopen-all-tabs = تمام ٹیب کو دوبارہ کھولیں
 menu-history-reopen-all-windows = تمام ونڈوز کو دوبارہ کھولیں
 

@@ -8,6 +8,7 @@
 newtab-page-title = نیا ٹیب
 newtab-settings-button =
     .title = اپنے نئے ٹیب کہ صفحہ کی تخصیص کریں
+
 newtab-personalize-dialog-label =
     .aria-label = ‏‏تخصیص کریں
 
@@ -17,16 +18,20 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = تلاش
     .aria-label = تلاش
+
 newtab-search-box-search-the-web-text = ويب پر تلاش کريں
+
 newtab-search-box-handoff-text-no-engine = پتہ تلاش یا داخل کریں
 newtab-search-box-handoff-input-no-engine =
     .placeholder = تلاش کریں یا پتہ داخل کریں
     .title = تلاش کریں یا پتہ داخل کریں
     .aria-label = تلاش کریں یا پتہ داخل کریں
+
 newtab-search-box-search-the-web-input =
     .placeholder = ويب پر تلاش کريں
     .title = ويب پر تلاش کريں
     .aria-label = ويب پر تلاش کريں
+
 newtab-search-box-input =
     .placeholder = ويب پر تلاش کريں
     .aria-label = ويب پر تلاش کريں
@@ -41,10 +46,12 @@ newtab-topsites-edit-shortcut-header = شارٹ کٹ میں ترمیم کریں
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = ایک عنوان داخل کریں
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = ٹائپ کریں یا ایک URL چسباں کریں
 newtab-topsites-url-validation = جائز URL درکار ہے
+
 newtab-topsites-image-url-label = مخصوص نقش کا URL
 newtab-topsites-use-image-link = ایک مخصوص تصویر استعمال کریں…
 newtab-topsites-image-validation = نقش لوڈ ہونے میں ناکام رہا۔ براہ مہربانی ایک مختلف URL کو آزمائیں۔
@@ -73,10 +80,12 @@ newtab-topsite-sponsored = سپانسر شدہ
 newtab-menu-section-tooltip =
     .title = مینیو کھولیں
     .aria-label = مینیو کھولیں
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = ہٹائیں
     .aria-label = ہٹائیں
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -144,6 +153,7 @@ newtab-label-removed-bookmark = نشانی ہٹا دی گئی
 newtab-label-recommended = رجحان سازی
 newtab-label-saved = { -pocket-brand-name } میں محفوظ شدہ
 newtab-label-download = ڈاؤن لوڈ شدہ
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -183,6 +193,7 @@ newtab-section-header-pocket = { $provider } کی جانب سے تجویز کر�
 
 newtab-empty-section-highlights = برائوزنگگ شروع کریں،اور ہم آپ کو کچھ بہترین عبارات، وڈیوز اور حالیہ دورہ شددہ دیگر صفحات یا نشانیاں دکھائیں گے۔
 
+
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = آپ پکڑے گئے!
@@ -216,6 +227,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-recent-title = حالیہ سرگرمی
 newtab-custom-close-button = بند کریں
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

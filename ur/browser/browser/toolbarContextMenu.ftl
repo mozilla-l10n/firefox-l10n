@@ -31,18 +31,21 @@ toolbar-context-menu-undo-close-tabs =
                 U
         }
     .accesskey = U
+
 toolbar-context-menu-manage-extension =
     .label = توسیع بندرست کریں
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = ایکسٹینشن ہٹائیں
     .accesskey = v
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = ایکسٹینشن کی رپورٹ کریں
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -58,6 +61,7 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = تخصیص کریں…
     .accesskey = C
+
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = ہمیشہ دکھائیں
     .accesskey = A
@@ -67,3 +71,4 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = صرف نئی ٹیب پر دکھائیں
     .accesskey = O
+

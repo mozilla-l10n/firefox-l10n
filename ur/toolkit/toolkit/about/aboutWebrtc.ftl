@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC تفاصیل
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc کو محفوظ کریں بطور
@@ -70,10 +71,12 @@ about-webrtc-type-remote = بعید
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = نامزد
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = منتخب شدہ
+
 about-webrtc-save-page-label = صفحہ محفوظ کریں
 about-webrtc-debug-mode-msg-label = ٹھیک کرنے والا موڈ
 about-webrtc-debug-mode-off-state-label = ٹھیک کرنے کا موڈ شروع کریں
@@ -123,9 +126,11 @@ about-webrtc-consecutive-frames = لگاتار فریمز
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = دے دیا گیا
+
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = نہیں دیا گیا
+
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms

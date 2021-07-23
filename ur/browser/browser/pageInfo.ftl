@@ -129,6 +129,8 @@ security-site-data-only = ہاں ، سائٹ کے ڈیٹا کی { $value }{ $uni
 security-site-data-cookies-only = ہاں، کوکیز
 security-site-data-no = نہیں
 
+##
+
 image-size-unknown = نامعلوم
 page-info-not-specified =
     .value = اختصاص شدہ نہیں

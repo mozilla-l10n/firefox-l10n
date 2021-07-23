@@ -17,8 +17,10 @@ about-private-browsing-handoff-no-engine =
     .title = پتہ تلاش یا داخل کریں
 about-private-browsing-handoff-text-no-engine = تلاش کریں یا پتہ  کا اندراج کریں
 about-private-browsing-not-private = آپ فی الحال نجی دریچے میں نہیں۔
+
 about-private-browsing-need-more-privacy = مزید رازداری کی ضرورت ہے؟
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } آزمائیں
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

@@ -6,5 +6,4 @@
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = میڈیا: اے وی ایف
-experimental-features-http3 =
-    .label = HTTP/3 پروٹوکول
+

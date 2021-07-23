@@ -39,6 +39,7 @@ appmenu-addon-post-install-message =
     <image data-l10n-name = 'addon-install-icon'> </image> پر 
     <image data-l10n-name='addon-menu-icon'></image>
      مینو پر کلک کرکے اپنے add-ons کا نظم کریں۔
+
 appmenu-update-available2 =
     .label = تازہ کاری دستیاب ہے
     .buttonlabel = ڈاؤن لوڈ
@@ -57,12 +58,14 @@ appmenu-update-restart2 =
     .buttonaccesskey = U
     .secondarybuttonlabel = برخاست کریں
     .secondarybuttonaccesskey = m
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ٹھیک ہے
     .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = اس ایکسٹینشن  کو نجی ونڈوز میں چلنے دیں
     .accesskey = ا
+    
 appmenu-new-tab-controlled =
     .label = آپکا نیا ٹیب تبدیل کردیا گیا ہے۔
     .buttonlabel = تبدیلیاں برقرار رکھیں
@@ -75,6 +78,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = ایکسٹینشن غیرفعال بنائیں
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = اپنے پوشیدہ ٹیبز تک رسائی حاصل کریں
     .buttonlabel = ٹیبس کو مخفی رکھیں

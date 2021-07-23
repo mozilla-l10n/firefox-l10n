@@ -10,6 +10,7 @@
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = اس سائٹ کو { $scheme } ربط کھولنے دیں؟
+
 permission-dialog-description-file = اس فائل کو { $scheme } ربط کھولنے دیں؟
 
 ## Please keep the emphasis around the hostname and scheme (ie the
@@ -22,10 +23,13 @@ permission-dialog-description-file = اس فائل کو { $scheme } ربط کھ�
 permission-dialog-btn-open-link =
     .label = ربط کھولیں
     .accessKey = O
+
 permission-dialog-btn-choose-app =
     .label = ایپلیکیشن منتخب کریں
     .accessKey = A
+
 permission-dialog-unset-description = آپ کو ایک ایپلیکیشن منتخب کرنے کی ضرورت ہوگی۔
+
 permission-dialog-set-change-app-link = ایک مختلف  ایپلیکیشن منتخب کریں۔
 
 ## Chooser dialog
@@ -35,13 +39,16 @@ permission-dialog-set-change-app-link = ایک مختلف  ایپلیکیشن م
 chooser-window =
     .title = ایپلی کیشن منتخب کریں
     .style = min-width: 26em; min-height: 26em;
+
 chooser-dialog =
     .buttonlabelaccept = ربط کھولیں
     .buttonaccesskeyaccept = O
+
 choose-other-app-description = دوسری ایپلی کیشن کا انتخاب کریں
 choose-app-btn =
     .label = چنیں...
     .accessKey = چ
 choose-other-app-window-title = ایک اور ایپلی کیشن…
+
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = نجی ونڈوز میں غیر فعال ہے

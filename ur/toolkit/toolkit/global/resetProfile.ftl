@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } تازہ کریں
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name } تازہ کریں
 refresh-profile-description = تازہ شروع کریں تاکہ مسائل پیوست کریں اور سرانجام دہی بحال کریں

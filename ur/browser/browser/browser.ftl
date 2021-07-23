@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (نجی براوزنگ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (نجی براوزنگ)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (نجی براوزنگ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (نجی براوزنگ)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -142,10 +144,12 @@ urlbar-midi-blocked =
     .tooltiptext = آپنے اس ویب سائٹ کے لئے MIDI تک رسائی بلاک کر دی ہیں۔
 urlbar-install-blocked =
     .tooltiptext = آپ نے اس ویب سائٹ کیلئے ایڈ آنا کو انسٹالیشن کو بلاک کیا ہوا ہے۔
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = یہ بک مارک تدوین کریں ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -155,6 +159,7 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = ایڈریس بار میں شامل کرے
+
 page-action-manage-extension =
     .label = ایکسٹینشن… منظم کریں
 page-action-remove-from-urlbar =
@@ -163,44 +168,6 @@ page-action-remove-extension =
     .label = ایکسٹینشن ہٹائیں
 
 ## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [1] آلہ پر  ٹیبز ارسال  کریں
-            [one] آلہ پر { $tabCount }  ٹیبز ارسال  کریں
-           *[other] آلہ پر { $tabCount }  ٹیبز ارسال  کریں
-        }
-page-action-copy-url-panel =
-    .label = ربط نقل کریں
-page-action-copy-url-urlbar =
-    .tooltiptext = ربط نقل کریں
-page-action-email-link-panel =
-    .label = ای میل ربط…
-page-action-email-link-urlbar =
-    .tooltiptext = ای میل ربط…
-page-action-share-url-panel =
-    .label = شیئر کریں
-page-action-share-url-urlbar =
-    .tooltiptext = شیئر کریں
-page-action-share-more-panel =
-    .label = مزید…
-page-action-send-tab-not-ready =
-    .label = آلات کی ہمہ وقت سازی کر رہے ہے…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = ٹیب پن کریں
-page-action-pin-tab-urlbar =
-    .tooltiptext = ٹیب پن کریں
-page-action-unpin-tab-panel =
-    .label = ٹیب انپن کریں
-page-action-unpin-tab-urlbar =
-    .tooltiptext = ٹیب انپن کریں
 
 ## Auto-hide Context Menu
 
@@ -216,12 +183,15 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = اس بار ، کے ساتھ تلاش کریں:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = تلاش سیٹنگز تبدیل کریں
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = تلاش سیٹنگز تبدیل کریں
+
 search-one-offs-context-open-new-tab =
     .label = نئے ٹیب میں تلاش کرے
     .accesskey = T
@@ -231,12 +201,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = نجی ونڈوں کے لیئے طے شدہ تلاش انجن بنائیں
     .accesskey = P
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -275,10 +247,13 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = تدوین کار میں محفوظ کرتے وقت نمائش کریں
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = ہوگیا
+
 bookmark-panel-save-button =
     .label = محفوظ کریں
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -302,13 +277,16 @@ identity-weak-encryption = یہ صفحہ کمزور خفیہ کاری استعم
 identity-insecure-login-forms = اس صفحہ پر داخل کردہ لاگ ان اشتباہ کیا جا سکتا ہے۔
 identity-permissions =
     .value = اجازتیں
+
 identity-https-only-dropdown-on =
     .label = چالو
 identity-https-only-dropdown-off =
     .label = بند
 identity-https-only-dropdown-off-temporarily =
     .label = عارضی طور پر بندکریں
+
 identity-permissions-storage-access-learn-more = مزید سیکھیں
+
 identity-permissions-reload-hint = تبدیلی کو لگانے کے لیئے آپکو صفحہ کو دوبارہ لوڈ کرنے کی شاید ظرورت ہو۔
 identity-permissions-empty = آپ نے اس سائٹ کو کوئی خاص اجازتیں نہیں دیں ہے۔
 identity-clear-site-data =
@@ -374,6 +352,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = شیئر کرنے کےلیے مائیکروفون:
     .accesskey = M
+
 popup-select-camera-device =
     .value = کیمرہ
     .accesskey = C
@@ -387,20 +366,26 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = اسپیکر
 popup-all-windows-shared = آپ کی سکرین پر نظر آنے والے تمام دریچے شیئر کیے جائیں گے۔
+
 popup-screen-sharing-not-now =
     .label = ابھی نہیں
     .accesskey = w
+
 popup-screen-sharing-never =
     .label = کبھی اجازت نہیں دیں
     .accesskey = N
+
 popup-silence-notifications-checkbox = اشتراک کے دوران { -brand-short-name } سے اطلاعات کو غیر فعال کریں
 popup-silence-notifications-checkbox-warning = شیئرنگ کے عمل کے دوران { -brand-short-name } اطلاعات نہیں دکھایے گا.
+
 popup-screen-sharing-block =
     .label = بلاک کریں
     .accesskey = B
+
 popup-screen-sharing-always-block =
     .label = ہمیشہ بلاک کریں
     .accesskey = w
+
 popup-mute-notifications-checkbox = شیئر کرتے وقت ویب سائٹ کی اطلاعات کو خاموش کریں
 
 ## WebRTC window or screen share tab switch warning
@@ -415,10 +400,14 @@ sharing-warning-proceed-to-tab =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = تلاش کریں یا پتہ داخل کریں
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = تلاش کریں یا پتہ داخل کریں
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = براؤزر ریموٹ کنٹرول کے تحت ہے
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -427,19 +416,21 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = ویب پر تلاش کریں
     .aria-label = { $name } کے ساتھ تلاش کریں
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } کے ساتھ تلاش کریں یا پتہ درج کریں
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = براؤزر ریموٹ کنٹرول کے تحت ہے
+
 urlbar-permissions-granted =
     .tooltiptext = آپ نے اس ویب سائٹ کو اضافی اجازتیں دے دی ہیں۔
 urlbar-switch-to-tab =
     .value = ٹیب پر سوئچ کریں:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ایکسٹینشن:
+
 urlbar-go-button =
     .tooltiptext = محل وقوع بار میں دیے گئے پتے پر جائیں
 urlbar-page-action-button =
@@ -489,9 +480,12 @@ urlbar-result-action-search-tabs = تلاش ٹیبس
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> اب پوری اسکرین پر ہے
 fullscreen-warning-no-domain = یہ دستاویز اب پوری اسکرین پر ہے
+
+
 fullscreen-exit-button = پوری سکرین سے باہر نکلیں (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = پوری سکرین سے باہر نکلیں (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -545,6 +539,7 @@ bookmarks-tools =
     .label = بک مارک ٹول
 bookmarks-bookmark-edit-panel =
     .label = اس بک مارک کی تدوین کریں
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -558,6 +553,7 @@ bookmarks-toolbar-placeholder =
     .title = ٹولبار اشیاہ کو بک مارک کگاتا ہے
 bookmarks-toolbar-placeholder-button =
     .label = ٹولبار اشیاہ کو بک مارک کگاتا ہے
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = موجودہ ٹیب کو بک مارک کریں

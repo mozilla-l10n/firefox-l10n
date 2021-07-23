@@ -6,6 +6,7 @@ common-dialog-title-null = یہ صفحہ کہتا ہے
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = نامعلوم
+
 common-dialog-username =
     .value = صارف کا نام
 common-dialog-password =

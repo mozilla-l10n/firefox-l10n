@@ -37,6 +37,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = ایپلیکیشن مینو بند کریں
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -48,6 +49,7 @@ appmenuitem-zoom-enlarge =
     .label = اندر زوم کریں
 appmenuitem-zoom-reduce =
     .label = باہر زوم کریں
+
 appmenuitem-fullscreen =
     .label = پوری اسکرین
 
@@ -55,10 +57,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ابھی Sync کریں
+
 appmenu-remote-tabs-sign-into-sync =
     .label = سنک کرنے کے لئے سائن ان کریں…
 appmenu-remote-tabs-turn-on-sync =
     .label = سینک چالو کریں…
+
 appmenuitem-fxa-toolbar-sync-now2 = ابھی سنک کریں
 appmenuitem-fxa-manage-account = اکاؤنٹ منظم کریں
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
@@ -67,12 +71,14 @@ appmenu-fxa-signed-in-label = سائن ان کریں
 appmenu-fxa-setup-sync =
     .label = سینک چالو کریں…
 appmenu-fxa-show-more-tabs = مزید ٹیبز دکھائیں
+
 appmenuitem-save-page =
     .label = صفحہ محفوظ کریں بطور…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = نیا کیا ہے
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -85,31 +91,43 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = مزید معلومات ظاہر کریں
+
 profiler-popup-description-title =
     .value = ریکارڈ کریں ، تجزیہ کریں ، شیر کریں
+
 profiler-popup-learn-more = مزیدجانیے
+
 profiler-popup-settings =
     .value = سیٹنگز
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = سیٹنگز میں تدوین کریں…
+
 profiler-popup-recording-screen = ریکارڈنگ ہو رہا…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = مخصوص
+
 profiler-popup-start-recording-button =
     .label = ریکارڈنگ شروع کریں
+
 profiler-popup-discard-button =
     .label = رد کريں
+
 profiler-popup-capture-button =
     .label = ریکارڈ کریں
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] 	Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] 	⌃⇧2
@@ -122,6 +140,7 @@ appmenu-manage-history =
     .label = تاریخ کا نظم کریں
 appmenu-reopen-all-tabs = تمام ٹیب کو دوبارہ کھولیں
 appmenu-reopen-all-windows = تمام ونڈوز کو دوبارہ کھولیں
+
 appmenu-restore-session =
     .label = پچھلا سیشن بحال کریں
 appmenu-clear-history =
@@ -168,4 +187,5 @@ appmenu-customizetoolbar =
     .label = ٹول بار کی تخصیص کریں…
 appmenu-taskmanager =
     .label = ٹاسک مینیجر
+
 appmenu-developer-tools-subheader = براؤزر ٹولز

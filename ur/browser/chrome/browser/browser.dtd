@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "مینیو کھولیں">
+
 <!ENTITY navbarOverflow.label                "مزید ٹول…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; سیٹنگز">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "ایک اور آلہ جوڑیں…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "&brandProductName; میں سائن ان کریں">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; چالو  کریں ">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; خدمات">
@@ -139,19 +141,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "سابقات">
+
 <!ENTITY historyUndoMenu.label "حالیہ بند کیے گئے ٹیب">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "حالیہ بند کیے گئے دریچے">
 
 <!ENTITY appMenuHistory.showAll.label "تمام سابقات دکھائیں">
+
 <!ENTITY appMenuHistory.clearRecent.label "حالیہ سابقات خالی کریں…">
 <!ENTITY appMenuHistory.restoreSession.label "پچھلا سیشن بحال کریں">
 <!ENTITY appMenuHistory.viewSidebar.label "بغلی بار میں سابقات دیکھیں">
 <!ENTITY appMenuHistory.hideSidebar.label "بغلی بار میں سابقات چھپائیں">
 <!ENTITY appMenuHistory.recentHistory.label "حالیہ سابقات">
+
 <!ENTITY appMenuHelp.label "مدد">
 
 <!ENTITY appMenuRemoteTabs.label "سینک ہو چکے ٹیبز">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "کوئی کھولی ہوئی ٹیب نہیں">

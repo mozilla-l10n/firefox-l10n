@@ -154,3 +154,4 @@ policy-UserMessaging = صارف کو کچھ پیغامات نہ دکھائیں۔
 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ویب سائٹوں کا دورہ کرنے سے روکیں۔ فارمیٹ پر مزید تفصیلات کے لئے دستاویزات دیکھیں۔
+

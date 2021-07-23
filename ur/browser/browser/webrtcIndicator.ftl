@@ -22,3 +22,4 @@ webrtc-camera-unmuted =
     .title = کیمرا بند کردیں
 webrtc-camera-muted =
     .title = کیمرا چالو کریں
+

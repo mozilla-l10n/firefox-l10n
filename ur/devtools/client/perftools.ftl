@@ -31,6 +31,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = بفر کا ماپ :
+
 perftools-devtools-interval-label = وقفہ
 perftools-devtools-threads-label = تھریڈز
 perftools-devtools-settings-label = سیٹنگز

@@ -11,7 +11,6 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = ایک نئے { -brand-short-name } کو ہیلو کہیں
 upgrade-dialog-new-item-tabs-title = جدید ٹیبز
-upgrade-dialog-new-primary-pin-alt-button = ٹاسک بار میں پن کریں
 upgrade-dialog-new-primary-theme-button = ایک تھیم کا انتخاب کریں
 upgrade-dialog-new-secondary-button = ابھی نہیں
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -28,7 +27,6 @@ upgrade-dialog-pin-secondary-button = ابھی نہیں
 
 ## Default browser screen
 
-upgrade-dialog-default-primary-button = پہلے سے طے شدہ براؤزر کے طور پر سیٹ کریں
 upgrade-dialog-default-primary-button-2 = طےشدہ براؤزر بنائیں
 upgrade-dialog-default-secondary-button = ابھی نہیں
 

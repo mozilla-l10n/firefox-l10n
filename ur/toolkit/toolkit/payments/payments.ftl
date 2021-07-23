@@ -15,6 +15,7 @@
 #   $type (String): Credit card type
 credit-card-label-number-2 = { $number }
     .aria-label = { $type } { credit-card-label-number-2 }
+
 # Label for a credit card with a number and name
 #
 # Variables:
@@ -23,6 +24,7 @@ credit-card-label-number-2 = { $number }
 #   $type (String): Credit card type
 credit-card-label-number-name-2 = { $number }, { $name }
     .aria-label = { $type } { credit-card-label-number-name-2 }
+
 # Label for a credit card with a number, name, and expiration date
 #
 # Variables:

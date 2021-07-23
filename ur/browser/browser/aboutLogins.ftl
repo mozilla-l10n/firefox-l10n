@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Google Play سے حاصل کریں
 login-app-promo-apple =
     .alt = App Store پر سے ڈائونلوڈ کریں
+
 login-filter =
     .placeholder = لاگ ان تلاش کریں
+
 create-login-button = نیا لاگ ان بنائیں
+
 fxaccounts-sign-in-text = اپنے پاسورڈ  دوسرے آلات پر حاصل کریں
 fxaccounts-sign-in-button = { -sync-brand-short-name } میں  سائن ان کریں
 fxaccounts-sign-in-sync-button = سنک کرنے کے لئے سائن ان کریں
@@ -70,6 +73,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = اپنے محفوظ شدہ لاگ ان ڈھونڈ رہے ہیں؟ { -sync-brand-short-name } مرتب کریں۔
+
 about-logins-login-intro-heading-logged-in = کوئی سینکڈ لاگ ان نہیں ملا۔
 login-intro-description = اگر آپ نے اپنے لاگ انز { -brand-product-name } کو کسی دوسرے آلے پر محفوظ کیاہوا ہے تو، انہیں یہاں حاصل کرنے کا طریقہ یوں ہے:
 login-intro-instruction-fxa = وہ آلہ جہاں آپ کے لاگ انز محفوظ ہیں ان پر اپنا { -fxaccount-brand-name } بنائیں یا سائن ان کریں
@@ -113,9 +117,11 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = محفوظ کردہ لاگ ان میں تدوین کریں
+
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = محفوظ شدہ پاس ورڈ کو ظاہر کریں
+
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = محفوظ شدہ پاس ورڈ کو نقل کریں
@@ -123,6 +129,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = محفوظ شدہ پ�
 ## Master Password notification
 
 master-password-notification-message = براہ کرم محفوظ لاگ ان اور پاس ورڈز کو دیکھنے کے لئے اپنا ماسٹر پاس ورڈ درج کریں
+
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = محفوظ شدہ لاگ ان اور پاس ورڈ برآمد کریں
@@ -151,25 +158,31 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = منسوخ کریں
 confirmation-dialog-dismiss-button =
     .title = منسوخ کریں
+
 about-logins-confirm-remove-dialog-title = اس لاگ ان کو ہٹائیں؟
 confirm-delete-dialog-message = یہ عمل کلعدم نہیں ہو سکتا۔
 about-logins-confirm-remove-dialog-confirm-button = ہٹائیں
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] ہٹائیں
         [one] تمام ہٹائیں
        *[other] تمام ہٹائیں
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] ہاں ، یہ لاگ ان ہٹائیں
         [one] ہاں ، یہ لاگ ان ہٹائیں
        *[other] ہاں ، ان لاگ ان کو ہٹائیں
     }
+
 about-logins-confirm-export-dialog-title = لاگ ان اور پاس ورڈ برآمد کریں
 about-logins-confirm-export-dialog-confirm-button = برآمد کریں…
+
 about-logins-alert-import-title = درآمد مکمل ہوئی
 about-logins-alert-import-message = درآمد کا تفصیلی خلاصہ دیکھیں
+
 confirm-discard-changes-dialog-title = غیر محفوظ شدہ تبدیلیاں ہٹاییں؟
 confirm-discard-changes-dialog-message = سبھی غیر محفوظ شدہ تبدیلیاں ختم ہوجائیں گی۔
 confirm-discard-changes-dialog-confirm-button = رد کريں
@@ -196,6 +209,7 @@ about-logins-vulnerable-alert-learn-more-link = مزید سیکھیں
 
 # This is a generic error message.
 about-logins-error-message-default = اس پاس ورڈ کو محفوظ کرنے کی کوشش کرتے وقت ایک نقص پیش آگیا۔
+
 
 ## Login Export Dialog
 
@@ -238,7 +252,9 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = درآمد مکمل ہوئی
+
 about-logins-import-dialog-done = ہوگیا
+
 about-logins-import-dialog-error-title = درآمد میں نقص
 about-logins-import-dialog-error-conflicting-values-title = ایک لاگ ان کیلئے متعدد متضاد اقدار
 about-logins-import-dialog-error-file-format-title = فائل فارمیٹ کا مسئلہ
@@ -247,7 +263,9 @@ about-logins-import-dialog-error-no-logins-imported = کوئی لاگ ان ام�
 about-logins-import-dialog-error-learn-more = مزیدجانیے
 about-logins-import-dialog-error-try-import-again = دوبارہ درآمد کرنے کی کوشش کریں…
 about-logins-import-dialog-error-cancel = منسوخ کریں
+
 about-logins-import-report-title = درآمد کا خلاصہ
+
 #
 # Variables:
 #  $number (number) - The number of the row
