@@ -81,3 +81,7 @@ cfr-doorhanger-socialtracking-close-button = Ŕ´amch
 
 ## What's new: Cookies message
 
+## Fission Experiment Message
+
+## Full Video Support CFR message
+

@@ -8,3 +8,4 @@ translation-close-key =
 translation-button-close =
     .label = Ŕ´amch
     .accesskey = Ŕ
+

@@ -5,10 +5,11 @@
 
 ## Import Logins Autocomplete
 
+autocomplete-import-logins-info =
+    .tooltiptext = Terabum ŕpo
+
 ## Variables:
 ##   $host (String) - Host name of the current site.
 
 ##
 
-autocomplete-import-logins-info =
-    .tooltiptext = Terabum ŕpo

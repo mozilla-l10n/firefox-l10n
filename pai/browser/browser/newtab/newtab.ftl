@@ -23,6 +23,8 @@ newtab-topsites-url-label = URL
 ## Top Sites - Delete history confirmation dialog.
 
 
+## Top Sites - Sponsored label
+
 ## Context Menu - Action Tooltips.
 
 
@@ -72,4 +74,6 @@ newtab-pocket-learn-more = Terabum ŕpo
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
+
+## Customization Menu
 
