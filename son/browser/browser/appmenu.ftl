@@ -26,6 +26,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sync sohõ
+
 appmenuitem-save-page =
     .label = Moɲoo gaabu sanda…
 

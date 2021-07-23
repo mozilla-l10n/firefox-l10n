@@ -236,3 +236,7 @@ touch-warning = manyan howante damahay kay ibaayi kaŋ ši kanbe sabbu ra: { $pr
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

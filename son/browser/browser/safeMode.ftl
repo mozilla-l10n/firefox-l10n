@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Tunandi saajaw alhaali ra
+
 refresh-profile =
     .label = { -brand-short-name } yeeti
 safe-mode-description = Saajaw alhaali ti { -brand-short-name } alhaali cerecerante kaŋ ga hin ka tee karkahattayan misey se.

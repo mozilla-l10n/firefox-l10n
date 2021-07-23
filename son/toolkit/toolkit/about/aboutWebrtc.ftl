@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Kunahere kunahere bayhayey
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc gaabu sanda
@@ -49,13 +50,7 @@ about-webrtc-ice-stats-heading = ICE hinawey
 about-webrtc-ice-restart-count-label = ICE tunandi taagey:
 about-webrtc-ice-rollback-count-label = ICE kuubirey:
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -67,13 +62,16 @@ about-webrtc-type-remote = Moora
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Maa harante
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Suubante
+
 about-webrtc-save-page-label = Moɲoo gaabu
 about-webrtc-debug-mode-msg-label = Hasaraw-kaayan alhaali
 about-webrtc-debug-mode-off-state-label = Hasaraw-kaayan alhaali tunandi
@@ -97,6 +95,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (daabant
 
 ##
 
+
 about-webrtc-local-candidate = Gorodoo kandiida
 about-webrtc-remote-candidate = Kandiida moora
 about-webrtc-priority = Cahãrihaya
@@ -112,7 +111,6 @@ about-webrtc-encoder-label = Harfu-hawkaw
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -122,6 +120,8 @@ about-webrtc-save-page-msg = moo gaabundi ne: { $path }
 about-webrtc-debug-mode-off-state-msg = ceebandu tammaasa ga duwandi ne: { $path }
 about-webrtc-debug-mode-on-state-msg = hasaraw-kaayan ga dira, ceebandu tammaasa doo: { $path }
 about-webrtc-aec-logging-off-state-msg = zaaritiira tuku zaantey ga duwandi ne: { $path }
+
+##
 
 ##
 
@@ -136,4 +136,7 @@ about-webrtc-jitter-label = Jijiri { $jitter }
 
 
 ##
+
+##
+
 

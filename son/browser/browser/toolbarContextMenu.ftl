@@ -8,3 +8,4 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Hanse war boŋ se…
     .accesskey = H
+

@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } yaynandi
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name } yaynandi
 refresh-profile-description = Šintin ka yaynandi ka šendawey hanse nda ka goyteeroo yeeti.

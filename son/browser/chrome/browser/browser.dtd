@@ -8,6 +8,7 @@
 
 
 <!ENTITY appmenu.tooltip                     "Šilbayboŋ feeri">
+
 <!ENTITY navbarOverflow.label                "Goyjinay tontoney…">
 
 <!-- Tab context menu -->
@@ -103,11 +104,13 @@ can reach it easily. -->
 
 
 <!ENTITY historyMenu.label "Taariki">
+
 <!ENTITY historyUndoMenu.label "Kanjey kaŋ kokor ka daaba">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Zanfun kokor daabantey">
 
 <!ENTITY appMenuHistory.showAll.label "Taarikoo kul cebe">
+
 <!ENTITY appMenuHistory.clearRecent.label "Taariki kokorantaa tuusu…">
 <!ENTITY appMenuHistory.restoreSession.label "Goywaati bisantaa yeeti">
 <!ENTITY appMenuHistory.viewSidebar.label "Taariki ceraw zuu cebe">
@@ -115,6 +118,7 @@ can reach it easily. -->
 <!ENTITY appMenuHelp.label "Faaba">
 
 <!ENTITY appMenuRemoteTabs.label "Kanji hangantey">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Kanji kul ši feeri">

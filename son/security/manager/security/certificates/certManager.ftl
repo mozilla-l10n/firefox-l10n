@@ -208,6 +208,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Alhakiika war ga baa ka feršikaa hasarawey wey tuusu?
 delete-ssl-cert-impact = Nda war na feršikaa hasaraa tuusu, war ga doonay saajaw korošiyaney yeeri feršikaa din še nda woo ga tabatiyan-tiira boryo waažibandi.
 
+
 delete-ca-cert-title =
     .title = Tabatiyan-tiira hiney tuusu wal'i fay
 delete-ca-cert-confirm = War ceeci ka tabatiyan-tiira hini tiirawey wey tuusu. Naanay ka hun kunahere tabatiyan-tiirawey kul ga, woo kaŋ ga haya follokaa tee. Alhakiika war ga baa k'a tuusu wala ka fay?
@@ -266,6 +267,8 @@ cert-not-verified-issuer-unknown = Mana hin ka tabatiyan-tiiraa woo koroši zama
 cert-not-verified-ca-invalid = Mana hin ka tabatiyan-tiiraa woo koroši zama nga tabatiyan-tiira hini tabatiyan-tiiraa ši boori.
 cert-not-verified_algorithm-disabled = Mana hin ka tabatiyan-tiiraa woo zama a ma šilbandi nda kabu laasaabu kaŋ kayandi zama kabu laasaaboo manti saajante.
 cert-not-verified-unknown = Mana hin ka tabatiyan-tiiraa woo koroši dalil šibayante se.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 
