@@ -47,6 +47,8 @@ permissions-invalid-uri-label = Me srɛ wo, bɔ ɔhɔhogyefo din a ɛyɛ nokware
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Wobetumi apaw awɛbsaet titiriw a wɔwɔ kwan sɛ wobebue bue-pue-so ntokuro. Bɔ saet koro no a wopɛ sɛ woma no kwan no adrɛs na klike Ma kwan.

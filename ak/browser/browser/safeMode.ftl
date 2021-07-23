@@ -7,4 +7,5 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Hyɛ ase wɔ mood bambɔ mu
+
 safe-mode-description = Mood bambɔ yɛ { -brand-short-name } tebea soronko a wo bɛ tumi de ahwehwɛ nsɛm mu eyi haw.

@@ -206,6 +206,8 @@ cert-not-verified-issuer-unknown = Ttenyiza ku kiriza satifikati eno kubanga omu
 cert-not-verified-ca-invalid = Ttenyiza ku kiriza satifikati eno kubanga satifikati ya CA ttetufuu.
 cert-not-verified-unknown = Ttenyiza ku kiriza satifikati eno kurwe songa ezitategerekanyi.
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Orikupii kukyusa engeri { -brand-short-name } etegeramu omuko nguno.

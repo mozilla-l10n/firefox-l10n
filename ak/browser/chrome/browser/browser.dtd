@@ -8,6 +8,7 @@
 
 
 <!ENTITY appmenu.tooltip                     "Bue mɛnu">
+
 <!ENTITY navbarOverflow.label                "Ntuul bio a wɔka ho…">
 
 <!-- Tab context menu -->
@@ -158,11 +159,13 @@ when there are no windows but Firefox is still running. -->
 
 
 <!ENTITY historyMenu.label "Abakɔsɛm">
+
 <!ENTITY historyUndoMenu.label "Ntab a Wo Ato Mu Ndansa Yi Ara">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ntokura a wo ato mu ndansa yi ara">
 
 <!ENTITY appMenuHistory.showAll.label "Kyerɛ abakɔsɛm nyinara">
+
 <!ENTITY appMenuHistory.clearRecent.label "Pepa ndansa-yi-ara n'abakɔsɛm…">
 <!ENTITY appMenuHistory.restoreSession.label "Fa sɛhyɛn dadaw no san bra.">
 <!ENTITY appMenuHistory.viewSidebar.label "Hwɛ abakɔsɛm saedbaa">

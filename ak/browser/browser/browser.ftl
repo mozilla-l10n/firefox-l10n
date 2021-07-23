@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Brawsen A Ɛyɛ Praevet)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Brawsen A Ɛyɛ Praevet)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Brawsen A Ɛyɛ Praevet)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Brawsen A Ɛyɛ Praevet)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -66,23 +68,6 @@ browser-main-window-title = { -brand-full-name }
 
 
 ## Page Action menu
-
-page-action-email-link-panel =
-    .label = Emel link…
-page-action-email-link-urlbar =
-    .tooltiptext = Emel link…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Tim tab
-page-action-pin-tab-urlbar =
-    .tooltiptext = Tim tab
-page-action-unpin-tab-panel =
-    .label = Yi tab ntim
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Yi tab ntim
 
 ## Auto-hide Context Menu
 
@@ -147,10 +132,13 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Hwehwɛ anaaso kyerɛw adrɛs
+
 urlbar-placeholder =
     .placeholder = Hwehwɛ anaaso kyerɛw adrɛs
+
 urlbar-switch-to-tab =
     .value = Swekye kɔ tab:
+
 urlbar-go-button =
     .tooltiptext = Kɔ adrɛs a ɛwɔ Lokehyɛn Baa no mu
 
@@ -171,8 +159,6 @@ urlbar-go-button =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Kyerɛ mbukmaake nyinara
 bookmarks-toolbar-chevron =
     .tooltiptext = Kyerɛ mbukmaak bebree
 bookmarks-sidebar-content =
@@ -181,6 +167,7 @@ bookmarks-search =
     .label = Hwewhɛ Mbukmaak
 bookmarks-bookmark-edit-panel =
     .label = Sesa Bukmaak Yi
+
 bookmarks-toolbar-menu =
     .label = TuulBaa A Wɔde Sie Mbukmaak
 bookmarks-toolbar-placeholder =
@@ -193,6 +180,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
+
+## Customize Toolbar Buttons
 
 ## More items
 

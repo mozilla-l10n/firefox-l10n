@@ -24,6 +24,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synk seisei ara
+
 appmenuitem-save-page =
     .label = Sie Krataafa Sɛ…
 
@@ -40,19 +41,12 @@ appmenuitem-save-page =
 
 ## Help panel
 
-appmenu-help-troubleshooting-info =
-    .label = Hawyi ho infɔmehyɛn
-    .accesskey = H
 appmenu-help-feedback-page =
     .label = Sabmet wo fiidbak…
     .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Sanhyɛase a woedum nkaho no…
-    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

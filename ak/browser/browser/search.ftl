@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = Instɔl mfomso
 opensearch-error-duplicate-desc = { -brand-short-name } entumi ahwehwɛ-plagin no instɔlehyɛn efi "{ $location-url }" efisɛ ahwehwɛfidie foforo wɔ hɔ a ɛwɔ saa din koro no.
+
 opensearch-error-download-title = Atwe mfomso
 opensearch-error-download-desc = { -brand-short-name } entumi antwe ahwehwɛ plagin no enfi: { $location-url }
 
