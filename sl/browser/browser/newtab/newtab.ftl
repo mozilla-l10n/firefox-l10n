@@ -8,6 +8,7 @@
 newtab-page-title = Nov zavihek
 newtab-settings-button =
     .title = Prilagodite stran novega zavihka
+
 newtab-personalize-button-label = Prilagodi
     .title = Prilagodite nov zavihek
     .aria-label = Prilagodite nov zacihek
@@ -23,7 +24,9 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Iskanje
     .aria-label = Iskanje
+
 newtab-search-box-search-the-web-text = Iskanje po spletu
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Iščite z iskalnikom { $engine } ali vnesite naslov
@@ -38,10 +41,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Iskanje ali naslov strani
     .title = Iskanje ali naslov strani
     .aria-label = Iskanje ali naslov strani
+
 newtab-search-box-search-the-web-input =
     .placeholder = Iskanje po spletu
     .title = Iskanje po spletu
     .aria-label = Iskanje po spletu
+
 newtab-search-box-input =
     .placeholder = Iskanje po spletu
     .aria-label = Iskanje po spletu
@@ -56,10 +61,12 @@ newtab-topsites-edit-shortcut-header = Uredi bližnjico
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Vnesite ime
+
 newtab-topsites-url-label = Spletni naslov
 newtab-topsites-url-input =
     .placeholder = Vnesite ali prilepite spletni naslov
 newtab-topsites-url-validation = Vnesite veljaven spletni naslov
+
 newtab-topsites-image-url-label = Spletni naslov slike po meri
 newtab-topsites-use-image-link = Uporabi sliko po meri …
 newtab-topsites-image-validation = Slike ni bilo mogoče naložiti. Poskusite drug spletni naslov.
@@ -88,10 +95,12 @@ newtab-topsite-sponsored = Sponzorirano
 newtab-menu-section-tooltip =
     .title = Odpri meni
     .aria-label = Odpri meni
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Odstrani
     .aria-label = Odstrani
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -163,10 +172,12 @@ newtab-label-removed-bookmark = Zaznamek odstranjen
 newtab-label-recommended = Najbolj priljubljeno
 newtab-label-saved = Shranjeno v { -pocket-brand-name }
 newtab-label-download = Preneseno
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Oglas
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -205,10 +216,12 @@ newtab-section-header-pocket = Priporoča { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Začnite z brskanjem, mi pa vam bomo tu prikazovali odlične članke, videoposnetke ter druge strani, ki ste jih nedavno obiskali ali shranili med zaznamke.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Zdaj ste seznanjeni z novicami. Vrnite se pozneje in si oglejte nove prispevke iz { $provider }. Komaj čakate? Izberite priljubljeno temo in odkrijte več velikih zgodb na spletu.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -252,6 +265,7 @@ newtab-custom-pocket-sponsored = Zgodbe oglaševalcev
 newtab-custom-recent-title = Nedavna dejavnost
 newtab-custom-recent-subtitle = Izbor nedavnih spletnih mest in vsebin
 newtab-custom-close-button = Zapri
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

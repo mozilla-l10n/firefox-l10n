@@ -44,5 +44,6 @@ compatibility-issue-occurrences =
         [few] { $number } pojavitve
        *[other] { $number } pojavitev
     }
+
 compatibility-close-settings-button =
     .title = Zapri nastavitve

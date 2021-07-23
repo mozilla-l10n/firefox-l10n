@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = Na voljo je posodobitev – prenesi zdaj
     .label-update-unsupported = Posodobitev ni mogoča – nezdružljiv sistem
     .label-update-restart = Na voljo je posodobitev – zaženi znova
+
 appmenuitem-protection-dashboard-title = Nadzorna plošča zaščit
 appmenuitem-customize-mode =
     .label = Prilagodi …
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Zapri meni programa
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = Povečaj
 appmenuitem-zoom-reduce =
     .label = Pomanjšaj
+
 appmenuitem-fullscreen =
     .label = Celoten zaslon
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinhroniziraj
+
 appmenu-remote-tabs-sign-into-sync =
     .label = Prijava v sinhronizacijo …
 appmenu-remote-tabs-turn-on-sync =
     .label = Vklopi sinhronizacijo …
+
 appmenuitem-fxa-toolbar-sync-now2 = Sinhroniziraj zdaj
 appmenuitem-fxa-manage-account = Upravljanje računa
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = Prijava
 appmenu-fxa-setup-sync =
     .label = Vklopi sinhronizacijo …
 appmenu-fxa-show-more-tabs = Prikaži več zavihkov
+
 appmenuitem-save-page =
     .label = Shrani stran kot …
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novosti
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,33 +103,47 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Razkrij več podatkov
+
 profiler-popup-description-title =
     .value = Spremljajte, analizirajte, delite
+
 profiler-popup-description = Sodelujte pri izboljšavah učinkovitosti, tako da objavljate profile, ki jih delite s svojo ekipo.
+
 profiler-popup-learn-more = Več o tem
+
 profiler-popup-settings =
     .value = Nastavitve
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Uredi nastavitve …
+
 profiler-popup-disabled = Spremljanje delovanja je trenutno onemogočeno, najverjetneje zato, ker je odprto okno zasebnega brskanja.
+
 profiler-popup-recording-screen = Spremljanje …
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Po meri
+
 profiler-popup-start-recording-button =
     .label = Začni spremljati
+
 profiler-popup-discard-button =
     .label = Zavrzi
+
 profiler-popup-capture-button =
     .label = Zajemi
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -135,6 +156,7 @@ appmenu-manage-history =
     .label = Upravljanje zgodovine
 appmenu-reopen-all-tabs = Ponovno odpri vse zavihke
 appmenu-reopen-all-windows = Ponovno odpri vsa okna
+
 appmenu-restore-session =
     .label = Obnovi prejšnjo sejo
 appmenu-clear-history =
@@ -190,6 +212,7 @@ appmenu-customizetoolbar =
     .label = Prilagodi orodno vrstico …
 appmenu-taskmanager =
     .label = Upravitelj opravil
+
 appmenu-developer-tools-subheader = Orodja brskalnika
 appmenu-developer-tools-extensions =
     .label = Razširitve za razvijalce

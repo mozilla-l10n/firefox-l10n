@@ -1,9 +1,12 @@
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Za pošiljanje šifriranih ali digitalno podpisanih sporočil morate nastaviti tehnologijo šifriranja, bodisi OpenPGP bodisi S/MIME.
+
 e2e-intro-description-more = Izberite si osebni ključ za omogočitev uporabe OpenPGP ali osebno digitalno potrdilo za omogočitev uporabe S/MIME. Za osebni ključ ali digitalno potrdilo imate ustrezen skrivni ključ.
+
 openpgp-key-user-id-label = Račun/ID uporabnika
 openpgp-keygen-title-label =
     .title = Ustvari ključ OpenPGP
@@ -33,16 +36,21 @@ openpgp-generate-key =
     .tooltiptext = Ustvari nov ključ, skladen z OpenPGP, za šifriranje in/ali podpisovanje
 openpgp-advanced-prefs-button-label =
     .label = Napredno …
+
 openpgp-key-expiry-label =
     .label = Datum preteka
+
 openpgp-key-id-label =
     .label = ID ključa
+
 openpgp-cannot-change-expiry = To je ključ z zapleteno strukturo; spreminjanje njegovega datuma preteka ni podprto.
+
 openpgp-key-man-title =
     .title = Upravitelj ključev OpenPGP
 openpgp-key-man-generate =
     .label = Nov par ključev
     .accesskey = k
+
 openpgp-key-man-file-menu =
     .label = Datoteka
     .accesskey = D
@@ -55,6 +63,7 @@ openpgp-key-man-view-menu =
 openpgp-key-man-generate-menu =
     .label = Ustvarjanje
     .accesskey = v
+
 openpgp-key-man-import-public-from-file =
     .label = Uvozi javne ključe iz datoteke
     .accesskey = U
@@ -75,22 +84,29 @@ openpgp-key-man-send-keys =
 openpgp-key-man-backup-secret-keys =
     .label = Varnostno kopiraj skrivne ključe v datoteko
     .accesskey = V
+
 openpgp-key-man-discover-progress = Iskanje …
+
 openpgp-key-copy-key =
     .label = Kopiraj javni ključ
     .accesskey = K
+
 openpgp-key-export-key =
     .label = Izvozi javni ključ v datoteko
     .accesskey = I
+
 openpgp-key-backup-key =
     .label = Varnostno kopiraj skrivni ključ v datoteko
     .accesskey = V
+
 openpgp-key-send-key =
     .label = Pošlji javni ključ po e-pošti
     .accesskey = P
+
 openpgp-key-man-copy-to-clipbrd =
     .label = Kopiraj javne ključe na odložišče
     .accesskey = K
+
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -100,6 +116,7 @@ openpgp-key-man-copy-key-ids =
            *[other] Kopiraj ID-je ključev na odložišče
         }
     .accesskey = K
+
 openpgp-key-man-copy-fprs =
     .label =
         { $count ->
@@ -109,6 +126,7 @@ openpgp-key-man-copy-fprs =
            *[other] Kopiraj prstne odtise na odložišče
         }
     .accesskey = s
+
 openpgp-key-man-copy-to-clipboard =
     .label =
         { $count ->
@@ -118,13 +136,16 @@ openpgp-key-man-copy-to-clipboard =
            *[other] Kopiraj javne ključe na odložišče
         }
     .accesskey = j
+
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Izvozi ključe v datoteko
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Kopiraj javne ključe na odložišče
+
 openpgp-key-man-ctx-copy =
     .label = Kopiraj
     .accesskey = K
+
 openpgp-key-man-ctx-copy-fprs =
     .label =
         { $count ->
@@ -134,6 +155,7 @@ openpgp-key-man-ctx-copy-fprs =
            *[other] Prstni odtisi
         }
     .accesskey = P
+
 openpgp-key-man-ctx-copy-key-ids =
     .label =
         { $count ->
@@ -143,6 +165,7 @@ openpgp-key-man-ctx-copy-key-ids =
            *[other] ID-ji ključev
         }
     .accesskey = k
+
 openpgp-key-man-ctx-copy-public-keys =
     .label =
         { $count ->
@@ -152,6 +175,7 @@ openpgp-key-man-ctx-copy-public-keys =
            *[other] Javni ključi
         }
     .accesskey = J
+
 openpgp-key-man-close =
     .label = Zapri
 openpgp-key-man-reload =
@@ -199,10 +223,13 @@ openpgp-key-man-nothing-found-tooltip =
     .label = Noben ključ se ne ujema z iskanjem
 openpgp-key-man-please-wait-tooltip =
     .label = Počakajte, da se ključi naložijo …
+
 openpgp-key-man-filter-label =
     .placeholder = Išči ključe
+
 openpgp-key-man-select-all-key =
     .key = v
+
 openpgp-key-details-title =
     .title = Lastnosti ključa
 openpgp-key-details-signatures-tab =
@@ -251,6 +278,7 @@ openpgp-personal-no-label =
     .label = Ne, ne uporabljaj ga kot moj osebni ključ.
 openpgp-personal-yes-label =
     .label = Da, obravnavaj ta ključ kot osebni ključ.
+
 openpgp-copy-cmd-label =
     .label = Kopiraj
 
@@ -266,37 +294,54 @@ openpgp-description =
         [few] Thunderbird je našel { $count } osebne ključe OpenPGP, povezane z <b>{ $identity }</b>
        *[other] Thunderbird je našel { $count } osebnih ključev OpenPGP, povezanih z <b>{ $identity }</b>
     }
+
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Vaša trenutna nastavitev uporablja ključ <b>{ $key }</b>, ki mu je pretekla veljavnost.
+
 openpgp-add-key-button =
     .label = Dodaj ključ …
     .accesskey = D
+
 e2e-learn-more = Več o tem
+
 openpgp-keygen-success = Ključ OpenPGP je uspešno ustvarjen!
+
 openpgp-keygen-import-success = Ključi OpenPGP so uspešno uvoženi!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Brez
+
 openpgp-radio-none-desc = Ne uporabljaj OpenPGP za to identiteto.
+
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Datum preteka: { $date }
+
 openpgp-key-expires-image =
     .tooltiptext = Ključ bo pretekel čez manj kot 6 mesecev
+
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Pretekel: { $date }
+
 openpgp-key-expired-image =
     .tooltiptext = Veljavnost ključa je pretekla
+
 openpgp-key-expand-section =
     .tooltiptext = Več informacij
+
 openpgp-key-revoke-title = Prekliči ključ
+
 openpgp-key-edit-title = Spremeni ključ OpenPGP
+
 openpgp-key-edit-date-title = Podaljšaj veljavnost
+
 openpgp-manager-button =
     .label = Upravitelj ključev OpenPGP
     .accesskey = k
+
 key-external-label = Zunanji ključ GnuPG
+
 # Strings in keyDetailsDlg.xhtml
 key-type-public = javni ključ
 key-type-primary = glavni ključ
@@ -311,13 +356,16 @@ key-expired-date = Ključ je pretekel { $keyExpiry }
 key-expired-simple = Ključ je pretekel
 key-revoked-simple = Ključ je bil preklican
 key-do-you-accept = Ali sprejemate ta ključ za preverjanje digitalnih podpisov in za šifriranje sporočil?
+
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Šifriran del sporočila
 mime-decrypt-encrypted-part-concealed-data = To je šifriran del sporočila. Odpreti ga morate v ločenem oknu, tako da kliknete na priponko.
+
 # Strings in keyserver.jsm
 keyserver-error-aborted = Prekinjeno
 keyserver-error-unknown = Prišlo je do neznane napake
 keyserver-error-import-error = Prenesenega ključa ni bilo mogoče uvoziti.
+
 # Strings in keyUsability.jsm
 expiry-key-expires-soon =
     Vaš ključ { $desc } bo pretekel čez manj kot { $days } dni.
@@ -327,6 +375,7 @@ expiry-keys-expire-soon =
     Priporočamo, da ustvarite nove ključe in nastavite ustrezne račune za njihovo uporabo.
 expiry-open-key-manager = Odpri upravitelja ključev OpenPGP
 expiry-open-key-properties = Odpri lastnosti ključa
+
 # Strings filters.jsm
 filter-folder-required = Izbrati morate ciljno mapo.
 filter-decrypt-move-warn-experimental =
@@ -334,9 +383,11 @@ filter-decrypt-move-warn-experimental =
     Močno priporočamo, da najprej poskusite s filtrom "Ustvari dešifrirano kopijo", natančno preverite izid in uporabite ta filter šele, ko ste zadovoljni z izidom.
 filter-term-pgpencrypted-label = Šifrirano z OpenPGP
 filter-key-required = Izbrati morate ključ prejemnika.
+
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Trajno dešifriraj (OpenPGP)
 filter-decrypt-copy-label = Ustvari dešifrirano kopijo (OpenPGP)
+
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Ključi so uspešno uvoženi!
@@ -345,6 +396,7 @@ import-info-created = Ustvarjen
 import-info-fpr = Prstni odtis
 import-info-details = Ogled podrobnosti in upravljanje sprejemanja ključev
 import-info-no-keys = Ni uvoženih ključev.
+
 # Strings in enigmailKeyManager.js
 import-from-clip = Ali želite z odložišča uvoziti ključ(e)?
 import-from-url = Prenesi javni ključ s tega spletnega naslova:
@@ -376,30 +428,42 @@ dlg-button-delete = &Izbriši
 
 openpgp-export-public-success = <b>Javni ključ uspešno izvožen!</b>
 openpgp-export-public-fail = <b>Izbranega javnega ključa ni mogoče izvoziti!</b>
+
 openpgp-export-secret-success = <b>Skrivni ključ uspešno izvožen!</b>
 openpgp-export-secret-fail = <b>Izbranega skrivnega ključa ni mogoče izvoziti!</b>
+
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Ključ { $userId } (ID ključa { $keyId }) je preklican.
 key-ring-pub-key-expired = Ključu { $userId } (ID ključa { $keyId }) je pretekla veljavnost.
-key-ring-key-disabled = Ključ { $userId } (ID ključa { $keyId }) je onemogočen in ga ni moč uporabljati.
 key-ring-pub-key-not-for-signing = Ključa { $userId } (ID ključa { $keyId }) ni mogoče uporabiti za podpisovanje.
 key-ring-pub-key-not-for-encryption = Ključa { $userId } (ID ključa { $keyId }) ni mogoče uporabiti za šifriranje.
+
 # Strings in gnupg-keylist.jsm
 keyring-photo = Fotografija
 user-att-photo = Atribut uporabnika (slika JPEG)
+
 # Strings in key.jsm
 already-revoked = Ta ključ je že preklican.
+
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = Ključ 0x{ $keyId } je že preklican.
+
 key-man-button-revoke-key = Pre&kliči ključ
+
 openpgp-key-revoke-success = Ključ uspešno preklican.
+
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Uvozi
+
 delete-key-title = Izbriši ključ OpenPGP
+
 delete-external-key-title = Odstrani zunanji ključ GnuPG
+
 key-in-use-title = Ključ OpenPGP je trenutno v uporabi
+
 gnupg-file = Datoteke GnuPG
 import-keys-failed = Uvažanje ključev ni uspelo
+
 gen-going = Ustvarjanje ključev že poteka!
 expiry-too-short = Ključ mora biti veljaven vsaj en dan.
 expiry-too-long = Ne morete ustvariti ključa, ki preteče čez več kot 100 let.
@@ -411,6 +475,7 @@ key-man-button-generate-key-continue = &Nadaljuj ustvarjanje ključev
 # Strings used in enigmailMessengerOverlay.js
 
 failed-decrypt = Napaka – dešifriranje ni uspelo
+
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Pošlji sporočilo
 msg-compose-details-button-label = Podrobnosti …
@@ -425,8 +490,10 @@ msg-compose-cannot-save-draft = Napaka pri shranjevanju osnutka
 save-attachment-header = Shrani dešifrirano priponko
 cannot-send-sig-because-no-own-key = Tega sporočila ni mogoče digitalno podpisati, ker še niste nastavili šifriranja od konca do konca za <{ $key }>
 cannot-send-enc-because-no-own-key = Tega sporočila ni mogoče poslati šifrirano, ker še niste nastavili šifriranja od konca do konca za <{ $key }>
+
 do-import-one = Uvozi { $name } ({ $id })?
 cant-import = Napaka pri uvažanju javnega ključa
+
 no-repeat = To opozorilo ne bo več prikazano.
 dlg-keep-setting = Zapomni si moj odgovor in me ne vprašaj več
 dlg-button-ok = &V redu
@@ -437,10 +504,13 @@ enig-prompt = Poziv OpenPGP
 enig-confirm = Potrditev OpenPGP
 enig-alert = Opozorilo OpenPGP
 enig-info = Informacija OpenPGP
+
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Poskusi znova
 dlg-button-skip = Pre&skoči
+
 # Strings used in enigmailCommon.js
 enig-error = Napaka OpenPGP
+
 enig-alert-title =
     .title = Opozorilo OpenPGP

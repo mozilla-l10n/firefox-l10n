@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Odpri s { -brand-short-name(sklon: "orodnik") }
     .accesskey = r
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

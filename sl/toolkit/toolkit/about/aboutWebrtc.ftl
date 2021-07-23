@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Podatki o WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = shrani about:webrtc kot
@@ -75,10 +76,12 @@ about-webrtc-type-remote = Oddaljeno
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Predlagano
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Izbrano
+
 about-webrtc-save-page-label = Shrani stran
 about-webrtc-debug-mode-msg-label = Razhroščevanje
 about-webrtc-debug-mode-off-state-label = Začni razhroščevanje
@@ -153,6 +156,7 @@ about-webrtc-aec-logging-off-state-msg = dnevniške datoteke zajema lahko najdet
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Tresenje { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

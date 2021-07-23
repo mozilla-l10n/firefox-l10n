@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ne zdaj
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Po hitrem ponovnem zagonu bo { -brand-shorter-name } obnovil vse vaše odprte zavihke in okna, razen tistih v zasebnem brskanju.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Razumem
+    .buttonaccesskey = z
+appmenu-addon-post-install-message = Upravljajte dodatke s klikom na <image data-l10n-name='addon-install-icon'></image> v meniju <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Na voljo je posodobitev
     .buttonlabel = Prenesi
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ne zdaj
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Na voljo je nova posodobitev za { -brand-shorter-name }, vendar je ni mogoče namestiti, ker se izvaja drug izvod { -brand-shorter-name }a. Za nadaljevanje posodobitve ga zaprite, lahko pa jo vseeno namestite, pri čemer drugi izvod morda ne bo deloval pravilno, dokler ga ne zaženete znova.
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Razumem
-    .buttonaccesskey = z
-appmenu-addon-post-install-message = Upravljajte dodatke s klikom na <image data-l10n-name='addon-install-icon'></image> v meniju <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = V redu
     .buttonaccesskey = V
-appmenu-addon-post-install-message2 = Upravljajte razširitve in teme v meniju aplikacije.
 appmenu-addon-post-install-message3 = Upravljajte dodatke in teme v meniju aplikacije.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Dovoli, da se ta razširitev izvaja v zasebnih oknih
     .accesskey = D
+    
 appmenu-new-tab-controlled =
     .label = Stran novega zavihka se je spremenila.
     .buttonlabel = Ohrani spremembe
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = h
     .secondarybuttonlabel = Onemogoči razširitev
     .secondarybuttonaccesskey = n
+
 appmenu-new-tab-controlled-changes =
     .label = Stran novega zavihka se je spremenila.
     .buttonlabel = Obdrži spremembe

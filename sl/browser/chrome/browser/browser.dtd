@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Odpri meni">
+
 <!ENTITY navbarOverflow.label                "Več orodij …">
 
 <!-- Tab context menu -->
@@ -142,19 +143,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Zgodovina">
+
 <!ENTITY historyUndoMenu.label "Nedavno zaprti zavihki">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nedavno zaprta okna">
 
 <!ENTITY appMenuHistory.showAll.label "Prikaži vso zgodovino">
+
 <!ENTITY appMenuHistory.clearRecent.label "Počisti nedavno zgodovino …">
 <!ENTITY appMenuHistory.restoreSession.label "Obnovi prejšnjo sejo">
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži stransko vrstico z zgodovino">
 <!ENTITY appMenuHistory.hideSidebar.label "Skrij stransko vrstico z zgodovino">
 <!ENTITY appMenuHistory.recentHistory.label "Nedavna zgodovina">
+
 <!ENTITY appMenuHelp.label "Pomoč">
 
 <!ENTITY appMenuRemoteTabs.label "Sinhronizirani zavihki">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ni odprtih zavihkov">

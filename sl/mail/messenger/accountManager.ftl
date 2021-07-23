@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = Nastavitve { -brand-short-name(sklon: "rodilnik") }
+
 open-addons-sidebar-button = Dodatki in teme
