@@ -8,6 +8,7 @@
 
 
 <!ENTITY appmenu.tooltip                     "Bula menu">
+
 <!ENTITY navbarOverflow.label                "Didirisiwa tse dintsi...">
 
 <!-- Tab context menu -->
@@ -128,17 +129,20 @@ can reach it easily. -->
 
 
 <!ENTITY historyMenu.label "Tiragalo Tse di Fetileng">
+
 <!ENTITY historyUndoMenu.label "Dithebe tse di tswetsweng Bosheng">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Windows tse di Tswetsweng Bosheng">
 
 <!ENTITY appMenuHistory.showAll.label "Supa Ditiragalo tse di fitileng tsotlhe">
+
 <!ENTITY appMenuHistory.clearRecent.label "Phimola Ditiragalo tsa ga jaana...">
 <!ENTITY appMenuHistory.restoreSession.label "Busetsa botlameladikopanelwa jo bo fetileng">
 <!ENTITY appMenuHistory.viewSidebar.label "Barathoko ya Tebo ya Ditiragalo tse di difetileng">
 
 
 <!ENTITY appMenuRemoteTabs.label "Rulaganya ka tsamaisano Dithebe">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ga gona dithebe tse di butsweng">

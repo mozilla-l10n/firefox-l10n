@@ -131,6 +131,8 @@ cert-not-verified-ca-invalid = Ga e a kgona go tlhomamisa setifikeiti seno gonne
 cert-not-verified_algorithm-disabled = Ga e a kgona go tlhotlhomisa setifikeiti se ka gore se saenilwe go dirisiwa tshaeno ya bothatatharabololo jo bo kganetsweng go dira ka ntata ya gore bothatatharabololo jo ga bo a sireletsega.
 cert-not-verified-unknown = Ga e a kgona go tlhomamisa setifikeiti seno ka ntlha ya mabaka a a sa itsiweng.
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 

@@ -21,8 +21,10 @@ move-to-new-window =
     .label = Sutisetsa ko Window e Ntšha
     .accesskey = W
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Tswala Thebe
     .accesskey = T
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

@@ -45,3 +45,7 @@ touch-warning = nakoitaolo kamo tsenyeletso e koafaditswe ka mabaka a go tlhoka 
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

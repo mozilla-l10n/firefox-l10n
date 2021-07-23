@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Patlo ya Poraefete)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Patlo ya Poraefete)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Patlo ya Poraefete)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Patlo ya Poraefete)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -81,6 +83,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tseleganya letshwaotsebe le ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -90,23 +93,6 @@ urlbar-star-add-bookmark =
 
 
 ## Page Action menu
-
-page-action-email-link-panel =
-    .label = Kgokagano ya Imeile...
-page-action-email-link-urlbar =
-    .tooltiptext = Kgokagano ya Imeile...
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Gokelela Thebe
-page-action-pin-tab-urlbar =
-    .tooltiptext = Gokelela Thebe
-page-action-unpin-tab-panel =
-    .label = Gokolola Thebe
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Gokolola Thebe
 
 ## Auto-hide Context Menu
 
@@ -123,6 +109,7 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Fetola Dithulaganyo tsa Patlo
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -147,6 +134,7 @@ identity-active-blocked = { -brand-short-name } e kgoreleditse dikarolo tsa tseb
 identity-passive-loaded = Dikarolo tsa tsebe e ga di a sireletsega (jaaka ditshwantsho).
 identity-active-loaded = O thibetse go dira ga tshireletso mo tsebeng e.
 identity-weak-encryption = Tsebe eno e dirisa mokgwatshireletso o bokoa.
+
 identity-description-insecure = Kgolagano ya gago mo saete eno ga e poraefete. Tshedimosetso e o e romelang e ka lebiwa ke batho ba bangwe (jaaka dikhunololamoraba, melaetsa, dikaratamolato, le tse dingwe.).
 identity-description-weak-cipher-intro = Kgolagano ya gago mo saete eno e dirisa mokgwatshireletso o bokoa gape ga e poraefete.
 identity-description-weak-cipher-risk = Batho bangwe ba kgona go leba tshedimosetso ya gago kgotsa go fetola tiro - tsamaiso ya webosaete.
@@ -193,6 +181,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Sekapamodumo se se ka abelanwang:
     .accesskey = S
+
 popup-all-windows-shared = Windows tse di bonagalang tsotlhe mo sekerini sa gago di tla abelanwa.
 
 ## WebRTC window or screen share tab switch warning
@@ -205,10 +194,13 @@ popup-all-windows-shared = Windows tse di bonagalang tsotlhe mo sekerini sa gago
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Batla kgotsa tsenya aterese
+
 urlbar-placeholder =
     .placeholder = Batla kgotsa tsenya aterese
+
 urlbar-switch-to-tab =
     .value = Fetolela ko thebeng:
+
 urlbar-go-button =
     .tooltiptext = Ya ko atereseng e mo Bara ya lefelo
 
@@ -233,6 +225,8 @@ urlbar-result-action-search-w-engine = Batla ka: { $engine }
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ga jaana e mo sekerini se se tletseng
 fullscreen-warning-no-domain = Tokumente e, e mo sekerini se se tletseng
+
+
 fullscreen-exit-button = Tswaya mo sekerini se se tletseng (Tswaya)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tswaya mo sekerini se se tletseng (tswaya)
@@ -242,14 +236,13 @@ fullscreen-exit-mac-button = Tswaya mo sekerini se se tletseng (tswaya)
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Supa Matshwaotsebe Otlhe
 bookmarks-toolbar-chevron =
     .tooltiptext = Supa matshwaotsebe a le mantsi
 bookmarks-sidebar-content =
     .aria-label = Matshwaotsebe
 bookmarks-bookmark-edit-panel =
     .label = Tseleganya letshwaotsebe le
+
 bookmarks-toolbar-menu =
     .label = Bara ya Didirisiwa Matshwaotsebe
 bookmarks-toolbar-placeholder =
@@ -262,6 +255,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

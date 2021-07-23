@@ -24,6 +24,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Rulaganya ka tsamaisano gone Jaana
+
 appmenuitem-save-page =
     .label = Boloka Tsebe Jaaka…
 
@@ -43,22 +44,12 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Ka ga { -brand-shorter-name }
     .accesskey = K
-appmenu-help-troubleshooting-info =
-    .label = Tharabololobothata ya Tshedimosetso
-    .accesskey = T
 appmenu-help-feedback-page =
     .label = Romela tshwaelo ka maitemogelo...
     .accesskey = R
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Simolodisa gape ka di oketswa di Thibetswe go dira
-    .accesskey = S
-appmenu-help-safe-mode-with-addons =
-    .label = Simolola sešwa ka dioketswa di kgontshitswe
-    .accesskey = S
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
