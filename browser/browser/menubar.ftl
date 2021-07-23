@@ -34,16 +34,20 @@ menu-quit =
             [windows] Y
            *[other] Y
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Yaltu { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Yaltu { -brand-shorter-name }
+
 menu-about =
     .label = Baɗte { -brand-shorter-name }
     .accesskey = B
@@ -318,8 +322,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Humpito Ñawndugol Caɗeele
     .accesskey = H
-menu-help-taskmanager =
-    .label = Yiilorde golle
 menu-help-report-site-issue =
     .label = Jaŋto Caɗeele Lowre…
 menu-help-feedback-page =

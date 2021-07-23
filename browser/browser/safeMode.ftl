@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Hurmin e Mbayka Kisal
+
 refresh-profile =
     .label = Hesɗitin { -brand-short-name }
 safe-mode-description = Mbayka Kisal ko mbayka keeriika { -brand-short-name } mbaawka huutoreede ngam ñawndude caɗeele.

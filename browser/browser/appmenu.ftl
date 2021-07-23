@@ -23,6 +23,7 @@ appmenuitem-zoom-enlarge =
     .label = Lonngo ara
 appmenuitem-zoom-reduce =
     .label = Lonngo woɗɗa
+
 appmenuitem-fullscreen =
     .label = Njaajeendi Yaynirde
 
@@ -30,6 +31,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sanngoɗin Jooni
+
 appmenuitem-save-page =
     .label = Danndu Hello e Innde…
 
@@ -83,3 +85,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Yiilorde golle
+

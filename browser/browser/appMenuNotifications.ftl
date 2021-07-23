@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Eey, mi faamii
     .buttonaccesskey = E
 appmenu-addon-post-install-message = Yiil ɓeyditte maa e dobaade <image data-l10n-name='addon-install-icon'></image> nder dosol <image data-l10n-name='addon-menu-icon'></image> ngol.
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = Yamir ndee timmitere dogde e kenorɗe cuuriiɗe
     .accesskey = Y
@@ -52,6 +53,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Ñif jokkel
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = Yetto e tabbe maa cuuɗiiɗe
     .buttonlabel = Woppu tabbe ɗee cuuɗoo

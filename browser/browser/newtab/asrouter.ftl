@@ -197,6 +197,7 @@ cfr-doorhanger-milestone-heading =
         [one] { -brand-short-name } daaƴaama e<b>{ $blockedCount }</b>rewindottoɓe gila { $date }!
        *[other] { -brand-short-name } daaƴaama e<b>{ $blockedCount }</b>rewindottoɓe gila { $date }!
     }
+
 cfr-doorhanger-milestone-ok-button = Yiy fof
     .accesskey = Y
 
@@ -225,4 +226,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Maandel natal-nder-natal
 ## DOH Message
 
 ## What's new: Cookies message
+
+## Fission Experiment Message
+
+## Full Video Support CFR message
 

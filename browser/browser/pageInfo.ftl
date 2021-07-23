@@ -129,6 +129,8 @@ security-site-data-only = Eey, { $value }{ $unit } keɓe lowre ndee
 security-site-data-cookies-only = Eey, kuukiije
 security-site-data-no = Alaa
 
+##
+
 image-size-unknown = Anndaaka
 page-info-not-specified =
     .value = Laɓɓinaaka

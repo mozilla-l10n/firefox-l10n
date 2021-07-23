@@ -128,3 +128,4 @@ policy-UserMessaging = Hoto hollu kuutoro oo won e ɓatakuuje.
 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Faddo lowe geese jillaaɗe jooni. Ƴeew duttorɗe ngam ɓeydude humpito wonande formaa oo.
+

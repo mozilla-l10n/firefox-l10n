@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Hesɗitin { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Hesɗitin { -brand-short-name }
 refresh-profile-description = Fuɗɗito keso ngam ñawndude caɗe e artirde jaawgol.

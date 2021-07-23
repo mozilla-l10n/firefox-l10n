@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Peeragol Suturo)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Peeragol Suturo)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Peeragol Suturo)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Peeragol Suturo)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -135,10 +137,12 @@ urlbar-midi-blocked =
     .tooltiptext = A daaƴii keɓgol MIDI wonande ndee lowre geese.
 urlbar-install-blocked =
     .tooltiptext = A daaƴii aafgol ɓeyditte e ndee lowre geese.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Taƴto ngol maantorol ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -148,6 +152,7 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Ɓeydu to Palal Ñiiɓirɗe
+
 page-action-manage-extension =
     .label = Yiil Timmitere…
 page-action-remove-from-urlbar =
@@ -156,49 +161,6 @@ page-action-remove-extension =
     .label = Momtu timmitere
 
 ## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Neldu tabbere to Device
-           *[other] Send{ $tabCount } Tabbe to masiŋel
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Neldu tabbere to Device
-           *[other] Send{ $tabCount } Tabbe to masiŋel
-        }
-page-action-copy-url-panel =
-    .label = Natto Jokkol
-page-action-copy-url-urlbar =
-    .tooltiptext = Natto Jokkol
-page-action-email-link-panel =
-    .label = Jokkol Iimeel…
-page-action-email-link-urlbar =
-    .tooltiptext = Jokkol Iimeel…
-page-action-share-url-panel =
-    .label = Lollin
-page-action-share-url-urlbar =
-    .tooltiptext = Lollin
-page-action-share-more-panel =
-    .label = Goɗɗum…
-page-action-send-tab-not-ready =
-    .label = Jahdingol kaɓirɗi...
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Ñippu Tabbere
-page-action-pin-tab-urlbar =
-    .tooltiptext = Ñippu Tabbere
-page-action-unpin-tab-panel =
-    .label = Yowtu Tabbere
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Yowtu Tabbere
 
 ## Auto-hide Context Menu
 
@@ -214,12 +176,15 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ngol laawol, yiylo e:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Wayly Teelte Njiilaw
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Waylu teelte njiilaw
+
 search-one-offs-context-open-new-tab =
     .label = Yiylo e Tabbere Hesere
     .accesskey = T
@@ -229,6 +194,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Waɗtu Yiylorɗe Woowaanɗe ngam Windows Keeriiɗo
     .accesskey = P
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -259,8 +225,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Hollu taƴtorde kisnugol
     .accesskey = 5
+
 bookmark-panel-done-button =
     .label = Gasii
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -282,6 +250,7 @@ identity-weak-encryption = Ngoo hello huutortoo ko gannugol jaafngol.
 identity-insecure-login-forms = Ceŋorɗe naatnaaɗe e ngoo hello ena mbawi jaayeede.
 identity-permissions =
     .value = Jamirooje
+
 identity-permissions-reload-hint = Ena waawi coaklaa loowtude hello ngoo ngam bayle ɗee njaaɓa.
 identity-permissions-empty = A hokkaani ndee lowre hay yamiroore heeriinde.
 identity-clear-site-data =
@@ -342,6 +311,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikkoroo lollinteeɗo:
     .accesskey = M
+
 popup-all-windows-shared = Kala henorde yiyotonde e yaynirde maaɗa maa lolline.
 
 ## WebRTC window or screen share tab switch warning
@@ -351,25 +321,31 @@ popup-all-windows-shared = Kala henorde yiyotonde e yaynirde maaɗa maa lolline.
 
 enable-devtools-popup-description = Ngam huutoraade sodorde F12, uddit tawo DevTools e dosol topayɓe geese.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Yiylo walla naatnu ñiiɓirde
+
 urlbar-placeholder =
     .placeholder = Yiylo walla naatnu ñiiɓirde
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Wanngorde woni ko e yuurnito woɗɗungo
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Yiiloro { $name } walla naatnu ñiiɓirde
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Wanngorde woni ko e yuurnito woɗɗungo
+
 urlbar-permissions-granted =
     .tooltiptext = A hokkii ndee lowre jamirooje goɗɗe.
 urlbar-switch-to-tab =
     .value = Yah to tabbere:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Timmitere:
+
 urlbar-go-button =
     .tooltiptext = Yah to ñiiɓirde wonde e Palal Nokkuuje
 urlbar-page-action-button =
@@ -400,9 +376,12 @@ urlbar-result-action-visit = Yillo
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> jooni ko e jaajeende yaynirde
 fullscreen-warning-no-domain = Ndee fiilannde jonni ko e njaajeendi yaynirde
+
+
 fullscreen-exit-button = Yaltu njaajeendi yaynirde (Ech)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Yaltu njaajeendi yaynirde (Ech)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -414,8 +393,6 @@ pointerlock-warning-no-domain = Ndee fiilannde nana ɗowa doborde maa. Ñoƴƴu 
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Hollu Maantore Fof
 bookmarks-toolbar-chevron =
     .tooltiptext = Hollu maantore goɗɗe
 bookmarks-sidebar-content =
@@ -450,6 +427,7 @@ bookmarks-tools =
     .label = Kuutorɗe Maantorgol
 bookmarks-bookmark-edit-panel =
     .label = Taƴto Ngol Maantorol
+
 bookmarks-toolbar-menu =
     .label = Palal Maantore
 bookmarks-toolbar-placeholder =
@@ -467,6 +445,8 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Danndu e { -pocket-brand-name }
     .tooltiptext = Danndu e { -pocket-brand-name }
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

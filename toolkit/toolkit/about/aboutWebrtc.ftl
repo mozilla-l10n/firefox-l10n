@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Derndere WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = danndu baɗte:webrtc no
@@ -55,13 +56,7 @@ about-webrtc-ice-rollback-count-label = Dutte caggal ICE:
 about-webrtc-ice-pair-bytes-sent = Jeetatiije neldaama:
 about-webrtc-ice-pair-bytes-received = Jeetatiije keɓaaɗe:
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -73,13 +68,16 @@ about-webrtc-type-remote = Remote
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominated
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Cuɓaaɗo
+
 about-webrtc-save-page-label = Danndu Hello
 about-webrtc-debug-mode-msg-label = Mbayka buggitagol
 about-webrtc-debug-mode-off-state-label = Fuɗɗo Mbayka buggitagol
@@ -105,6 +103,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (uddiiɗ
 
 ##
 
+
 about-webrtc-local-candidate = Kanndidaa Nokkuujo
 about-webrtc-remote-candidate = Kanndidaa Goɗɗuɗo
 about-webrtc-raw-candidates-heading = Kanndidaaji kecci ɗii fof
@@ -127,7 +126,6 @@ about-webrtc-encoder-label = Dokkorde
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -137,6 +135,8 @@ about-webrtc-save-page-msg = helo danndaama to: { $path }
 about-webrtc-debug-mode-off-state-msg = pele logagol ena tawee to: { $path }
 about-webrtc-debug-mode-on-state-msg = mbayka buggitagol saasii, pele logagol to: { $path }
 about-webrtc-aec-logging-off-state-msg = nokitagol piille logagol ena tawee to: { $path }
+
+##
 
 ##
 
@@ -151,4 +151,7 @@ about-webrtc-jitter-label = Jitter { $jitter }
 
 
 ##
+
+##
+
 
