@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Caratars
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Caratars par
     .accesskey = C
+
 fonts-langgroup-arabic =
     .label = Arap
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporzionâl
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif (cun graciis)
 fonts-default-sans-serif =
     .label = Sans Serif (cence graciis)
+
 fonts-proportional-size = Dimension
     .accesskey = D
+
 fonts-serif = Serif (cun graciis)
     .accesskey = S
+
 fonts-sans-serif = Sans-serif (cence graciis)
     .accesskey = n
+
 fonts-monospace = Largjece fisse
     .accesskey = f
+
 fonts-monospace-size = Dimension
     .accesskey = e
+
 fonts-minsize = Dimension minime dal caratar
     .accesskey = o
+
 fonts-minsize-none =
     .label = Nissune
+
 fonts-allow-own =
     .label = Permet aes pagjinis di sielzi i lôr caratars, invezit des tôs selezions chi parsore
     .accesskey = a
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codifiche dal test pai contignûts datâts
 fonts-languages-fallback-desc = Cheste codifiche di test e ven doprade pal contignût datât che nol rive a declarâ la sô codifiche.
+
 fonts-languages-fallback-label = Codifiche di repeç dal test
     .accesskey = t
+
 fonts-languages-fallback-name-auto =
     .label = Predefinît pe localizazion atuâl
 fonts-languages-fallback-name-arabic =
@@ -138,6 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamite
 fonts-languages-fallback-name-other =
     .label = Altri (includût European Ocidentâl)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

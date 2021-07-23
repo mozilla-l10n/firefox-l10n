@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = No cumò
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Dopo che si sarà tornât a inviâ, { -brand-shorter-name } al ripristinarà ducj i barcons e lis schedis viertis che no son in modalitât navigazion privade.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Va ben, capît!
+    .buttonaccesskey = V
+appmenu-addon-post-install-message = Gjestìs lis tôs zontis fasint clic <image data-l10n-name='addon-install-icon'></image> intal menù <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Inzornament disponibil
     .buttonlabel = Discjame
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = No cumò
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Al è disponibil un gnûf inzornament di { -brand-shorter-name }, ma no si pues instalâ par vie che e je in esecuzion une altre copie di { -brand-shorter-name }. Sierile par continuâ l'inzornament, o sielç di inzornâ distès (chê altre copie  e podarès no lavorâ ben fintremai che no tu le tornis a inviâ).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Va ben, capît!
-    .buttonaccesskey = V
-appmenu-addon-post-install-message = Gjestìs lis tôs zontis fasint clic <image data-l10n-name='addon-install-icon'></image> intal menù <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Va ben
     .buttonaccesskey = V
-appmenu-addon-post-install-message2 = Gjestìs lis tôs estensions e i temis midiant il menù aplicazion.
 appmenu-addon-post-install-message3 = Gjestìs lis tôs zontis e i temis midiant il menù aplicazion.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permet a cheste estension di zirâ tai barcons privâts
     .accesskey = P
+    
 appmenu-new-tab-controlled =
     .label = La tô gnove schede e je cambiade.
     .buttonlabel = Ten lis modifichis
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = T
     .secondarybuttonlabel = Disabilite la estension
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = La tô gnove schede e je cambiade.
     .buttonlabel = Ten lis modifichis

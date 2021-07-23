@@ -5,53 +5,70 @@
 permissions-window =
     .title = Ecezions
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Direzion dal sît web
     .accesskey = D
+
 permissions-block =
     .label = Bloche
     .accesskey = B
+
 permissions-session =
     .label = Permet par cheste session
     .accesskey = P
+
 permissions-allow =
     .label = Permet
     .accesskey = P
+
 permissions-site-name =
     .label = Sît web
+
 permissions-status =
     .label = Stât
+
 permissions-remove =
     .label = Gjave sît web
     .accesskey = G
+
 permissions-remove-all =
     .label = Gjave ducj i sîts web
     .accesskey = e
+
 permissions-button-cancel =
     .label = Anule
     .accesskey = A
+
 permissions-button-ok =
     .label = Salve modifichis
     .accesskey = S
+
 permission-dialog =
     .buttonlabelaccept = Salve modifichis
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = Predefinît par ducj i sîts web:
+
 permissions-searchbox =
     .placeholder = Cîr sît web
+
 permissions-capabilities-autoplay-allow =
     .label = Permet audio e video
 permissions-capabilities-autoplay-block =
     .label = Bloche l'audio
 permissions-capabilities-autoplay-blockall =
     .label = Bloche l'audio e il video
+
 permissions-capabilities-allow =
     .label = Permet
 permissions-capabilities-block =
     .label = Bloche
 permissions-capabilities-prompt =
     .label = Domande simpri
+
 permissions-capabilities-listitem-allow =
     .value = Permet
 permissions-capabilities-listitem-block =
@@ -77,6 +94,8 @@ permissions-exceptions-cookie-window =
     .title = Ecezions - Cookies e dâts dal sît
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Tu puedis specificâ cuai sîts web a puedin doprâ simpri, o mai, i cookies e i dâts al sît.  Scrîf la direzion esate dal sît che tu desideris gjestî e dopo fâs clic su Bloche, Permet par cheste session opûr Permet.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

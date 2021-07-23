@@ -66,15 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Siere multiplis schedis
     .accesskey = M
-tab-context-share-url =
-    .label = Condivît
-    .accesskey = C
-tab-context-share-more =
-    .label = Altri…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -95,6 +86,15 @@ move-tabs =
 move-tab =
     .label = Sposte schede
     .accesskey = p
+tab-context-share-url =
+    .label = Condivît
+    .accesskey = C
+tab-context-share-more =
+    .label = Altri…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

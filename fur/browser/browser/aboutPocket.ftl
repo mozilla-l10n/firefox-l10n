@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Zonte etichetis
+
 pocket-panel-saved-error-generic = Al è vignût fûr un erôr intant che si cirive di salvâ su { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Lis etichetis a àn un limit di 25 caratars
 pocket-panel-saved-error-only-links = Si pues salvâ dome i colegaments

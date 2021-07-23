@@ -5,12 +5,18 @@
 add-engine-window =
     .title = Zonte motôr di ricercje
     .style = width: 32em;
+
 add-engine-button = Zonte motôr personalizât
+
 add-engine-name = Cîr motôr di ricercje
+
 add-engine-alias = Alias
+
 add-engine-url = URL dal motôr, dopre %s al puest dal tiermin di cirî
+
 add-engine-dialog =
     .buttonlabelaccept = Zonte Motôr
     .buttonaccesskeyaccept = Z
+
 engine-name-exists = Al esist za un motôr cun chel non
 engine-alias-exists = Al esist za un motôr cun chel alias

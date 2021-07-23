@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Copie
     .accesskey = C
+
 select-all =
     .key = A
 menu-select-all =
     .label = Selezione dut
     .accesskey = d
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = Gjenerâl
     .accesskey = G
@@ -39,6 +43,7 @@ general-meta-name =
     .label = Non
 general-meta-content =
     .label = Contignût
+
 media-tab =
     .label = Media
     .accesskey = M
@@ -66,11 +71,13 @@ media-save-as =
 media-save-image-as =
     .label = Salve come…
     .accesskey = e
+
 perm-tab =
     .label = Permès
     .accesskey = P
 permissions-for =
     .value = Permès par:
+
 security-tab =
     .label = Sigurece
     .accesskey = S
@@ -91,17 +98,22 @@ security-view-identity-validity =
     .value = Al scjât al/ai:
 security-view-privacy =
     .value = Riservatece e cronologjie
+
 security-view-privacy-history-value = Aio visitât chest sît web prime di vuê?
 security-view-privacy-sitedata-value = Staial chest sît web archiviant informazions sul gno computer?
+
 security-view-privacy-clearsitedata =
     .label = Nete i cookies e i dâts dal sît
     .accesskey = c
+
 security-view-privacy-passwords-value = Aio salvât cualchi password par chest sît web?
+
 security-view-privacy-viewpasswords =
     .label = Visualize passwords salvadis
     .accesskey = w
 security-view-technical =
     .value = Detais tecnics
+
 help-button =
     .label = Jutori
 
@@ -113,6 +125,7 @@ help-button =
 
 security-site-data-cookies = Sì, cookies e { $value } { $unit } di dâts dal sîts
 security-site-data-only = Sì, { $value } { $unit } di dâts dal sît
+
 security-site-data-cookies-only = Sì, cookies
 security-site-data-no = No
 
@@ -136,6 +149,7 @@ media-video = Video
 media-audio = Audio
 saved-passwords-yes = Sì
 saved-passwords-no = No
+
 no-page-title =
     .value = Pagjine cence titul:
 general-quirks-mode =
@@ -150,6 +164,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Dopre impostazion predefinide
 security-no-visits = No
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -160,6 +175,7 @@ general-meta-tags =
             [one] Meta-element (1 etichete)
            *[other] Meta-elements ({ $tags } etichetis)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -170,6 +186,7 @@ security-visits-number =
         [one] Sì, une volte
        *[other] Sì, { $visits } voltis
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -180,6 +197,7 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } byte)
            *[other] { $kb } KB ({ $bytes } bytes)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -191,12 +209,14 @@ media-animated-image-type =
             [one] { $type } Imagjin (animade, { $frames } fotogram)
            *[other] { $type } Imagjin (animade, { $frames } fotograms)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Imagjin { $type }
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -206,17 +226,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (ridimensionade a { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -224,6 +247,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Bloche imagjins di { $website }
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

@@ -23,6 +23,7 @@ places-open-window =
 places-open-private-window =
     .label = Vierç intun gnûf barcon privât
     .accesskey = p
+
 places-new-bookmark =
     .label = Gnûf segnelibri…
     .accesskey = b
@@ -35,12 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = Gnûf separadôr
     .accesskey = s
+
 places-open-in-window =
     .label = Vierç intun gnûf barcon
     .accesskey = n
 places-open-in-private-window =
     .label = Vierç intun gnûf barcon privât
     .accesskey = P
+
 places-add-bookmark =
     .label = Zonte segnelibri…
     .accesskey = B
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = Zonte separadôr
     .accesskey = S
+
 places-view =
     .label = Viodude
     .accesskey = o
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Par date e sît
     .accesskey = P
+
 places-history-search =
     .placeholder = Cîr te cronologjie
 places-bookmarks-search =
     .placeholder = Cîr tai segnelibris
+
 places-delete-domain-data =
     .label = Dismentee chest sît
     .accesskey = D
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = Proprietâts
     .accesskey = i
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Modifiche segnelibri…
@@ -91,15 +98,18 @@ places-edit-bookmark =
 places-edit-generic =
     .label = Modifiche…
     .accesskey = i
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Segnelibris gjestîts
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Sot-cartele
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Altris segnelibris
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -110,6 +120,7 @@ places-remove-bookmark =
            *[other] Gjave segnelibris
         }
     .accesskey = e
+
 places-manage-bookmarks =
     .label = Gjestìs segnelibris
     .accesskey = M

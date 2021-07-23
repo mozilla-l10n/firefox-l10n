@@ -5,20 +5,27 @@
 blocklist-window =
     .title = Listis dai blocs
     .style = width: 55em
+
 blocklist-description = Sielç la liste che { -brand-short-name } al dopre par blocâ lis spiis (trackers) in rêt. Listis furnidis di <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
+
 blocklist-treehead-list =
     .label = Liste
+
 blocklist-button-cancel =
     .label = Anule
     .accesskey = A
+
 blocklist-button-ok =
     .label = Salve lis modifichis
     .accesskey = S
+
 blocklist-dialog =
     .buttonlabelaccept = Salve modifichis
     .buttonaccesskeyaccept = S
+
+
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -27,6 +34,7 @@ blocklist-dialog =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName }{ $description }
+
 blocklist-item-moz-std-listName = Liste di bloc di nivel 1 (conseade).
 blocklist-item-moz-std-description = Permet cualchi spie (tracker) par limitâ il numar di sîts web che no funzionin.
 blocklist-item-moz-full-listName = Liste di bloc di nivel 2.

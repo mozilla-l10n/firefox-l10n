@@ -4,99 +4,143 @@
 
 certmgr-title =
     .title = Aministradôr dai certificâts
+
 certmgr-tab-mine =
     .label = I tiei certificâts
+
 certmgr-tab-people =
     .label = Înt
+
 certmgr-tab-servers =
     .label = Servidôrs
+
 certmgr-tab-ca =
     .label = Autoritâts
+
 certmgr-detail-general-tab-title =
     .label = Gjenerâl
     .accesskey = G
+
 certmgr-detail-pretty-print-tab-title =
     .label = Detais
     .accesskey = D
+
 certmgr-pending-label =
     .value = Daûr a verificâ il certificât…
+
 certmgr-subject-label = Dât fûr a
+
 certmgr-issuer-label = Dât fûr di
+
 certmgr-fingerprints = Impronts digjitâi
+
 certmgr-cert-detail =
     .title = Detais dal certificât
     .buttonlabelaccept = Siere
     .buttonaccesskeyaccept = S
+
 certmgr-cert-detail-commonname = Non comun (CN)
+
 certmgr-cert-detail-org = Organizazion (O)
+
 certmgr-cert-detail-orgunit = Unitât de organizazion (OU)
+
 certmgr-cert-detail-serial-number = Numar seriâl
+
 certmgr-cert-detail-sha-1-fingerprint = Impront digjitâl SHA1
+
 certmgr-edit-ca-cert =
     .title = Modifiche impostazions afidabilitât dai certificâts CA
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Modifiche impostazions atendibilitât:
+
 certmgr-edit-cert-trust-email =
     .label = Chest certificât al pues identificâ utents di pueste.
+
 certmgr-delete-cert =
     .title = Elimine certificât
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Non dal certificât
+
 certmgr-cert-server =
     .label = Servidôr
+
 certmgr-override-lifetime =
     .label = Durade de vite
+
 certmgr-token-name =
     .label = Dispositîf di sigurece
+
 certmgr-expires-on = Al scjât ai
+
 certmgr-expires-label =
     .label = Al scjât ai
+
 certmgr-email =
     .label = Direzion email
+
 certmgr-serial =
     .label = Numar seriâl
+
 certmgr-view =
     .label = Visualize…
     .accesskey = V
+
 certmgr-export =
     .label = Espuarte…
     .accesskey = E
+
 certmgr-delete =
     .label = Elimine…
     .accesskey = l
+
 certmgr-backup =
     .label = Fâs une copie di sigurece…
     .accesskey = s
+
 certmgr-backup-all =
     .label = Fâs une copie di sigurece di dut…
     .accesskey = d
+
 certmgr-restore =
     .label = Impuarte…
     .accesskey = m
+
 certmgr-details =
     .value = Cjamps dal certificât
     .accesskey = C
+
 certmgr-fields =
     .value = Valôr dal cjamp
     .accesskey = V
+
 certmgr-add-exception =
     .label = Zonte ecezion…
     .accesskey = Z
+
 exception-mgr =
     .title = Zonte ecezion di sigurece
+
 exception-mgr-supplemental-warning = Bancjis, negozis, e altris sîts publics legjitims no ti domandaràn di fâ cussì.
+
 exception-mgr-cert-location-url =
     .value = Direzion:
+
 exception-mgr-cert-location-download =
     .label = Oten certificât
     .accesskey = G
+
 exception-mgr-cert-status-view-cert =
     .label = Visualize…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = Salve ecezion in mût permanent
     .accesskey = p
+
 pk11-bad-password = La password inseride no je juste.
 pkcs12-decode-err = No si pues decodificâ il file. Al podarès no jessi tal formât PKCS #12, jessi corot o ben che tu vedis inseride une password sbaliade.
 pkcs12-unknown-err-restore = No si pues ripristinâ il file PKCS #12 par motîfs no cognossûts.
@@ -128,10 +172,14 @@ delete-user-cert-title =
     .title = Elimine i tiei certificâts
 delete-user-cert-confirm = Vuelistu eliminâ pardabon chescj certificâts?
 delete-user-cert-impact = Se tu eliminis un dai tiei certificâts, no tu podarâs plui doprâlu par identificâti.
+
+
 delete-ssl-cert-title =
     .title = Elimine lis ecezions di certificât pal servidôr
 delete-ssl-cert-confirm = Vuelistu eliminâ pardabon chestis ecezions di servidôr?
 delete-ssl-cert-impact = Se tu eliminis une ecezion par un servidôr, tu tornarâs a meti in vore i controi di sigurece normâi par chest sît e al coventarà doprâ un certificât valit.
+
+
 delete-email-cert-title =
     .title = Elimine certificâts di pueste eletroniche
 delete-email-cert-confirm = Vuelistu eliminâ pardabon chescj certificâts di pueste eletroniche di chestis personis?
@@ -141,19 +189,26 @@ delete-email-cert-impact = Se tu eliminis il certificât di pueste eletroniche d
 
 not-present =
     .value = <Nol è part dal certificât>
+
 # Cert verification
 cert-verified = Chest certificât al è stât verificât par chescj utents:
+
 # Add usage
 verify-ssl-client =
     .value = Cerificât client SSL
+
 verify-ssl-server =
     .value = Certificât servidôr SSL
+
 verify-ssl-ca =
     .value = Autoritât di certificazion SSL
+
 verify-email-signer =
     .value = Certificât dal firmatari dal messaç
+
 verify-email-recip =
     .value = Certificât dal destinatari dal messaç
+
 # Cert verification
 cert-not-verified-cert-revoked = No si à podût verificâ chest certificât parcè che al è stât revocât.
 cert-not-verified-cert-expired = No si à podût verificâ chest certificât parcè che al è scjadût.

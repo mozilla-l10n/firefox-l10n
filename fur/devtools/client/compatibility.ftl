@@ -42,6 +42,7 @@ compatibility-issue-occurrences =
         [one] { $number } câs
        *[other] { $number } câs
     }
+
 compatibility-no-issues-found = Nissun probleme di compatibilitât cjatât.
 compatibility-close-settings-button =
     .title = Siere lis impostazions

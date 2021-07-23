@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Erôr inte instalazion
 opensearch-error-duplicate-desc = { -brand-short-name } nol à podût instalâ il plugin di ricercje di "{ $location-url }" parcè che un motôr cul stes non al esist za.
+
 opensearch-error-format-title = Formât no valit
 opensearch-error-format-desc = { -brand-short-name } nol è rivât a instalâ il motôr di ricercje di: { $location-url }
+
 opensearch-error-download-title = Erôr intal discjariâ
 opensearch-error-download-desc = { -brand-short-name } nol à podût discjamâ il plugin di ricercje da: { $location-url }
 

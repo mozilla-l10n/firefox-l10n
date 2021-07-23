@@ -36,16 +36,20 @@ menu-quit =
             [windows] J
            *[other] J
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Jes di { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Jes di { -brand-shorter-name }
+
 menu-about =
     .label = Informazions su { -brand-shorter-name }
     .accesskey = I
@@ -213,6 +217,7 @@ menu-history-undo-menu =
     .label = Schedis sieradis di resint
 menu-history-undo-window-menu =
     .label = Barcons sierâts cumò denant
+
 menu-history-reopen-all-tabs = Torne vierç dutis lis schedis
 menu-history-reopen-all-windows = Torne vierç ducj i barcons
 
@@ -252,15 +257,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Jentre su { -brand-product-name }…
     .accesskey = J
+menu-tools-turn-on-sync =
+    .label = Ative { -sync-brand-short-name }…
+    .accesskey = A
 menu-tools-addons-and-themes =
     .label = Zontis e temis
     .accesskey = Z
 menu-tools-fxa-sign-in2 =
     .label = Jentre
     .accesskey = J
-menu-tools-turn-on-sync =
-    .label = Ative { -sync-brand-short-name }…
-    .accesskey = A
 menu-tools-turn-on-sync2 =
     .label = Ative la sincronizazion…
     .accesskey = n
@@ -285,13 +290,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informazions su cheste pagjine
     .accesskey = I
-menu-settings =
-    .label = Impostazions
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] m
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -302,6 +300,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] P
+        }
+menu-settings =
+    .label = Impostazions
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] m
         }
 menu-tools-layout-debugger =
     .label = Strument di debug de disposizion

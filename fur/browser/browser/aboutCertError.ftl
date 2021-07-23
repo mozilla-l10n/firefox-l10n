@@ -5,57 +5,83 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } al dopre un certificât di sigurece no valit.
+
 cert-error-mitm-intro = I sîts web a dimostrin la lôr identitât par mieç di certificâts, che a vegnin mandâts fûr des autoritâts di certificazion.
+
 cert-error-mitm-mozilla = { -brand-short-name } al è supuartât de organizazion cence fins di vuadagn Mozilla, che e aministre un archivi di autoritâts di certificazion (CA) dal dut viert. L'archivi CA al jude a garantî che lis autoritâts di certificazion a ledin daûr des miôrs pratichis  pe sigurece dal utent.
+
 cert-error-mitm-connection = { -brand-short-name } al dopre l'archivi CA di Mozilla par verificâ che une conession e sedi sigure, invezit che i certificâts furnîts dal sisteme operatîf dal utent. Cussì, se un program antivirus o une rêt e sta intercetant une conession cuntun certificât di sigurece mandât fûr di une CA che no je tal archivi CA di Mozilla, la conession e ven considerade no sigure.
+
 cert-error-trust-unknown-issuer-intro = Cualchidun al podarès cirî di impersonâ il sît e no tu varessis di continuâ.
+
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = I sîts web a dimostrin la lôr identitât par mieç di certificâts. { -brand-short-name } no si fide di { $hostname } parcè che il so emitent nol è cognossût, il certificât al è auto-firmât opûr il servidôr nol sta inviant i certificâts intermedis juscj.
+
 cert-error-trust-cert-invalid = Il certificât nol è atendibil parcè che al è stât emetût di une autoritât cun certificât CA no valit.
+
 cert-error-trust-untrusted-issuer = Il certificât nol è atendibil parcè che il certificât  dal emitent nol è atendibil.
+
 cert-error-trust-signature-algorithm-disabled = Il certificât nol è atendibil parcè che al è stât firmât doprant un algoritmi di firme che al jere stât disabilitât, chest par vie che chel algoritmi nol è sigûr.
+
 cert-error-trust-expired-issuer = Il certificât nol è atendibil parcè che il certificât dal emitent al è scjadût.
+
 cert-error-trust-self-signed = Il certificât nol è atendbil parcè che al è auto firmât.
+
 cert-error-trust-symantec = I certificâts mandâts fûr di GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign no son plui considerâts sigûrs parcè timp indaûr che chestis autoritâts di certificazion no son rivadis a lâ daûr des pratichis di sigurece.
+
 cert-error-untrusted-default = Il certificât nol ven di une font afidabile.
+
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-domain-mismatch = I sîts web a dimostrin la lôr identitât par mieç di certificâts. { -brand-short-name } no si fide di chest sît parcè che al dopre un certificât che nol è valit par { $hostname }.
+
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single = I sîts web a dimostrin la lôr identitât par mieç di certificâts. { -brand-short-name } no si fide di chest sît parcè che al dopre un certificât che nol è valit par { $hostname }. Il certificât al è valit dome par <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single-nolink = I sîts web a dimostrin la lôr identitât par mieç di certificâts. { -brand-short-name } no si fide di chest sît parcè che al dopre un certificât che nol è valit par { $hostname }. Il certificât al è valit dome par { $alt-name }.
+
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
 cert-error-domain-mismatch-multiple = I sîts web a dimostrin la lôr identitât par mieç di certificâts. { -brand-short-name } no si fide di chest sît parcè che al dopre un certificât che nol è valit par { $hostname }. Il certificât al è valit dome par chescj nons: { $subject-alt-names }
+
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = I sîts web a dimostrin la lôr identitât par mieç di certificâts, che a son valits par un ciert periodi di timp. Il certificât par { $hostname } al è scjadût ai { $not-after-local-time }.
+
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = I sîts web a dimostrin la lôr identitât par mieç di certificâts., che a son valits par un ciert periodi di timp. Il certificât par { $hostname } nol sarà valit fin ai { $not-before-local-time }.
+
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Codiç di erôr: <a data-l10n-name="error-code-link">{ $error }</a>
+
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = I sîts web a dimostrin la lôr identitât par mieç di certificâts, che a son emetûts di autoritâts di certificazion. La plui part dai navigadôrs no si fide plui dai certificâts mandâts fûr di GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign. { $hostname } al dopre un certificât che al rive di une di chestis autoritâts e duncje la identitât dal sît web no pues vignî comprovade.
+
 cert-error-symantec-distrust-admin = Tu puedis notificâ al aministradôr dal sît web chest probleme.
+
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Sigurece rigorose di traspuart HTTP: { $hasHSTS }
+
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fissaç de clâf publiche HTTP: { $hasHPKP }
+
 cert-error-details-cert-chain-label = Cjadene dai certificâts:
+
 open-in-new-window-for-csp-or-xfo-error = Vierç sît intun gnûf barcon
+
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Par parâ la tô sigurece, { $hostname } nol permetarà a { -brand-short-name } di visualizâ la pagjine se un altri sît le à incorporade. Par viodi cheste pagjine tu âs di vierzile intun gnûf barcon.

@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Cronologjie">
+
 <!ENTITY historyUndoMenu.label "Schedis sieradis di resint">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Barcons sierâts di resint">
@@ -155,6 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Visualize la sbare laterâl de cronologjie">
 <!ENTITY appMenuHistory.hideSidebar.label "Plate la sbare laterâl de cronologjie">
 <!ENTITY appMenuHistory.recentHistory.label "Cronologjie resinte">
+
 <!ENTITY appMenuHelp.label "Jutori">
 
 <!ENTITY appMenuRemoteTabs.label "Schedis sincronizadis">

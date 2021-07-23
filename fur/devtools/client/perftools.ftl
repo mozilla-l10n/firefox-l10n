@@ -42,7 +42,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Dimension mem. tampon:
+
 perftools-custom-threads-label = Zonte dai threads personalizâts par non:
+
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Threads:
 perftools-devtools-settings-label = Impostazions
@@ -101,6 +103,7 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Salte lis selezions chi parsore e regjistre ducj i threads regjistrâts
+
 perftools-tools-threads-input-label =
     .title = Chescj nons di thread a son une liste separade di virgulis che e ven doprade par ativâ la profilazion dai threads intal profiladôr. Par includi il non, chest al à di jessi dome une corispondence parziâl dal non efetîf dal thread. Al è sensibil ai spazis.
 
@@ -109,7 +112,9 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Novitât</b>: { -profiler-brand-name } al è cumò integrât intai struments di disvilup. <a>Scuvierç altris informazions</a> su chest gnûf e potent strument.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Par un timp limitât, tu puedis acedi al panel origjinâl des prestazions vie <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Siere il messaç di introduzion

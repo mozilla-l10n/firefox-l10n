@@ -5,9 +5,12 @@
 clear-site-data-window =
     .title = Cancele i dâts
     .style = width: 35em
+
 clear-site-data-description = Se tu cancelis ducj i cookies e i dâts dal sît memorizâts in { -brand-short-name } tu podaressis cjatâti fûr dai sîts web dulà che tu ti jeris regjistrât. Ancje il contignût web fûr rêt al vignarà eliminât. La pulizie de cache no à nissune conseguence sui tiei acès.
+
 clear-site-data-close-key =
     .key = w
+
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
 # Variables:
@@ -16,6 +19,7 @@ clear-site-data-close-key =
 clear-site-data-cookies-with-data =
     .label = Cookies e dâts dal sît ({ $amount }{ $unit })
     .accesskey = S
+
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -24,7 +28,9 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Cookies e dâts dal sît
     .accesskey = S
+
 clear-site-data-cookies-info = Se tu ju cancelis, al e pussibil che tu ti cjatarâs fûr dai sîts web
+
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:
@@ -33,6 +39,7 @@ clear-site-data-cookies-info = Se tu ju cancelis, al e pussibil che tu ti cjatar
 clear-site-data-cache-with-data =
     .label = Contignût web memorizât ({ $amount }{ $unit })
     .accesskey = W
+
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -41,13 +48,17 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = Contignût web memorizât
     .accesskey = W
+
 clear-site-data-cache-info = I sîts web a varan di tornâ a cjariâ lis imagjinis e i dâts
+
 clear-site-data-cancel =
     .label = Anule
     .accesskey = A
+
 clear-site-data-clear =
     .label = Elimine
     .accesskey = E
+
 clear-site-data-dialog =
     .buttonlabelaccept = Nete
     .buttonaccesskeyaccept = N

@@ -5,12 +5,15 @@
 app-manager-window =
     .title = Detais de aplicazion
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Gjave
     .accesskey = G
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Si pues doprâ chestis aplicazions par gjestî i colegaments { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Si pues doprâ chestis aplicazions par gjestî il contignût { $type }.

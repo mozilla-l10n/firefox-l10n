@@ -19,6 +19,7 @@ open-location = Cîr alc o scrîf une direzion
 share = Condivît
 close-window = Siere barcon
 open-sidebar = Sbaris laterâls
+
 # This string describes shortcuts for search.
 search-popover = Scurtis di ricercje
 # Describes searches limited to a specific scope
