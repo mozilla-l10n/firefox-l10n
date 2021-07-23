@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Restablecer { -brand-short-name }
+
 refresh-profile-dialog-title = ¿Refrescar { -brand-short-name } a sus ajustes predeterminados?
 refresh-profile-dialog-button =
     .label = Restablecer { -brand-short-name }
