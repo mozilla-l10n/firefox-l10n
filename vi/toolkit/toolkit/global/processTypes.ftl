@@ -8,22 +8,30 @@
 ##
 
 process-type-web = Nội dung web
+
 process-type-browser = Chính
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Giới thiệu đặc quyền
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Nội dung Mozilla đặc quyền
+
 process-type-extension = Tiện ích mở rộng
+
 # process used to open file:// URLs
 process-type-file = Tập tin cục bộ
+
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Phân bổ lớn
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Nội dung web bị cô lập
+
 # process preallocated; may change to other types
 process-type-prealloc = Phân bổ trước
 
@@ -33,11 +41,14 @@ process-type-prealloc = Phân bổ trước
 
 process-type-default = Chính
 process-type-tab = Thẻ
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to perform network operations
 process-type-socket = Socket
+
 # process used to decode media
 process-type-rdd = RDD
 

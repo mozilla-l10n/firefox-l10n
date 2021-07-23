@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Thêm các tag
+
 pocket-panel-saved-error-generic = Đã xảy ra lỗi khi đang lưu vào { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Các tag được giới hạn trong 25 ký tự
 pocket-panel-saved-error-only-links = Chỉ các các liên kết mới có thể được lưu lại

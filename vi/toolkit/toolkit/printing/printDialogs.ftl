@@ -103,6 +103,7 @@ print-window =
     .title = Đang In
 print-complete =
     .value = Đã in xong.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Khôi phục { -brand-short-name }
+
 refresh-profile-dialog-title = Làm mới { -brand-short-name } về cài đặt mặc định?
 refresh-profile-dialog-button =
     .label = Khôi phục { -brand-short-name }

@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = Đã có bản cập nhật — tải xuống ngay
     .label-update-unsupported = Không thể cập nhật — hệ thống không tương thích
     .label-update-restart = Đã có bản cập nhật — khởi động lại ngay
+
 appmenuitem-protection-dashboard-title = Bảng điều khiển bảo vệ
 appmenuitem-customize-mode =
     .label = Tùy biến…
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Đóng menu ứng dụng
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = Phóng to
 appmenuitem-zoom-reduce =
     .label = Thu nhỏ
+
 appmenuitem-fullscreen =
     .label = Toàn màn hình
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Đồng bộ ngay
+
 appmenu-remote-tabs-sign-into-sync =
     .label = Đăng nhập để đồng bộ hóa…
 appmenu-remote-tabs-turn-on-sync =
     .label = Bật đồng bộ hóa…
+
 appmenuitem-fxa-toolbar-sync-now2 = Đồng bộ ngay
 appmenuitem-fxa-manage-account = Quản lý tài khoản
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = Đăng nhập
 appmenu-fxa-setup-sync =
     .label = Bật đồng bộ hóa…
 appmenu-fxa-show-more-tabs = Hiển thị thêm các thẻ
+
 appmenuitem-save-page =
     .label = Lưu trang dưới dạng…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Có gì mới
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,35 +103,49 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Hiện thêm thông tin
+
 profiler-popup-description-title =
     .value = Ghi lại, phân tích, chia sẻ
+
 profiler-popup-description = Cộng tác về các vấn đề hiệu suất bằng cách xuất bản hồ sơ để chia sẻ với nhóm của bạn.
+
 profiler-popup-learn-more = Tìm hiểu thêm
+
 profiler-popup-settings =
     .value = Cài đặt
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Chỉnh sửa cài đặt…
+
 profiler-popup-disabled =
     Profiler hiện bị vô hiệu hóa, rất có thể do cửa sổ Duyệt web riêng tư
     đang mở.
+
 profiler-popup-recording-screen = Đang ghi…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Tùy chỉnh
+
 profiler-popup-start-recording-button =
     .label = Bắt đầu ghi
+
 profiler-popup-discard-button =
     .label = Loại bỏ
+
 profiler-popup-capture-button =
     .label = Ghi
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -137,6 +158,7 @@ appmenu-manage-history =
     .label = Quản lý lịch sử
 appmenu-reopen-all-tabs = Mở lại tất cả các thẻ
 appmenu-reopen-all-windows = Mở lại tất cả các cửa sổ
+
 appmenu-restore-session =
     .label = Khôi phục phiên làm việc trước
 appmenu-clear-history =
@@ -192,6 +214,7 @@ appmenu-customizetoolbar =
     .label = Tùy biến thanh công cụ…
 appmenu-taskmanager =
     .label = Quản lý tác vụ
+
 appmenu-developer-tools-subheader = Công cụ của trình duyệt
 appmenu-developer-tools-extensions =
     .label = Tiện ích mở rộng dành cho nhà phát triển

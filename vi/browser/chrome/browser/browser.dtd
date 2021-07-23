@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Mở menu">
+
 <!ENTITY navbarOverflow.label                "Thêm công cụ...">
 
 <!-- Tab context menu -->
@@ -142,19 +143,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Lịch sử">
+
 <!ENTITY historyUndoMenu.label "Thẻ mới đóng gần đây">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Các cửa sổ mới đóng">
 
 <!ENTITY appMenuHistory.showAll.label "Xem toàn bộ lịch sử">
+
 <!ENTITY appMenuHistory.clearRecent.label "Xóa lịch sử gần đây…">
 <!ENTITY appMenuHistory.restoreSession.label "Khôi phục phiên làm việc trước">
 <!ENTITY appMenuHistory.viewSidebar.label "Hiển thị thanh lề lịch sử">
 <!ENTITY appMenuHistory.hideSidebar.label "Ẩn thanh lề lịch sử">
 <!ENTITY appMenuHistory.recentHistory.label "Lịch sử gần đây">
+
 <!ENTITY appMenuHelp.label "Trợ giúp">
 
 <!ENTITY appMenuRemoteTabs.label "Các thẻ đã đồng bộ">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Không có thẻ đang mở">

@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = Tùy chỉnh { -brand-short-name }
+
 open-addons-sidebar-button = Tiện ích mở rộng và chủ đề

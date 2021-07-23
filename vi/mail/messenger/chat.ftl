@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Đang tham gia trò chuyện
+
 chat-left-chat-icon2 =
     .alt = Đã rời khỏi cuộc trò chuyện
+
 chat-participant-owner-role-icon2 =
     .alt = Chủ sở hữu
+
 chat-participant-administrator-role-icon2 =
     .alt = Quản trị viên
+
 chat-participant-moderator-role-icon2 =
     .alt = Người xét duyệt
+
 chat-participant-voiced-role-icon2 =
     .alt = Người tham gia có thể gửi tin nhắn

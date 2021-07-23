@@ -16,6 +16,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Tùy chỉnh
     .accesskey = P
+
 menu-addons-and-themes =
     .label = Tiện ích mở rộng và chủ đề
     .accesskey = A
@@ -25,9 +26,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Chế độ xử lý sự cố…
     .accesskey = T
+
 menu-help-exit-troubleshoot-mode =
     .label = Tắt chế độ xử lý sự cố
     .accesskey = D
+
 menu-help-more-troubleshooting-info =
     .label = Thông tin xử lý sự cố khác
     .accesskey = M
@@ -47,17 +50,22 @@ toolbar-undelete-button =
     .label = Hoàn tác xóa
     .tooltiptext = Phục hồi các thư đã chọn
 
+## View
+
 ## View / Layout
 
 mail-uidensity-label =
     .label = Mật độ
     .accesskey = D
+
 mail-uidensity-compact =
     .label = Thu gọn
     .accesskey = C
+
 mail-uidensity-normal =
     .label = Bình thường
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Chạm
     .accesskey = T
