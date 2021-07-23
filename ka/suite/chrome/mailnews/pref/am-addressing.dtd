@@ -27,9 +27,6 @@
 <!ENTITY useHtml.accesskey                    "შ">
 <!ENTITY autoQuote.label                      "პასუხისას დედნის ავტომატური ციტირება">
 <!ENTITY autoQuote.accesskey                  "დ">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "შემდეგ,">
-<!ENTITY then.accesskey                       "შ">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "ციტირებისას,">
 <!ENTITY quoting.accesskey                    "ც">

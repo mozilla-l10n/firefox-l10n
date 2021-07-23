@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } – შეკეთება
+
 refresh-profile-dialog-title = შეკეთდეს { -brand-short-name } ნაგულისხმევ პარამეტრებზე დაბრუნებით?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } – შეკეთება

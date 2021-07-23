@@ -14,12 +14,6 @@
 <!ENTITY relatedAfterCurrent.label "დაკავშირებული ჩანართების გახსნა მიმდინარე ჩანართის შემდეგ">
 <!ENTITY relatedAfterCurrent.accesskey "დ">
 
-<!ENTITY loadGroup.label "სანიშნეთა ჯგუფის გახსნისას">
-<!ENTITY loadGroupAppend.label "ჩანართების დამატება">
-<!ENTITY loadGroupAppend.accesskey "მ">
-<!ENTITY loadGroupReplace.label "არსებული ჩანართების ჩანაცვლება">
-<!ENTITY loadGroupReplace.accesskey "ჩ">
-
 <!ENTITY openTabs.label "გახსნა ჩანართებზე ნაცვლად სარკმლებისა">
 
 <!ENTITY middleClick.label "შუა წკაპი, Ctrl+წკაპი,ან Ctrl+Enter ვებგვერდზე არსებულ ბმულებზე">

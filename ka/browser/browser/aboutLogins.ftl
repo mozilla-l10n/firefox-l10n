@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = იხილეთ Google Play-ზე
 login-app-promo-apple =
     .alt = ჩამოტვირთეთ App Store-დან
+
 login-filter =
     .placeholder = ანგარიშების ძიება
+
 create-login-button = ანგარიშის ახალი მონაცემები
+
 fxaccounts-sign-in-text = გადმოიტანეთ პაროლები სხვა მოწყობილობებიდან
 fxaccounts-sign-in-button = { -sync-brand-short-name } – შესვლა
 fxaccounts-sign-in-sync-button = სინქრონიზაციაში შესვლა
@@ -70,7 +73,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = ანგარიშის შენახულ მონაცემებს ეძებთ? გამართეთ { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = თქვენი ანგარიშების შენახულ მონაცემებს ეძებთ? გამართეთ { -sync-brand-short-name } ან გადმოიტანეთ.
+
 about-logins-login-intro-heading-logged-out2 = ეძებთ შენახულ ანგარიშებს? ჩართეთ სინქრონიზაცია ან გადმოიტანეთ.
 about-logins-login-intro-heading-logged-in = დასინქრონებული ანგარიშები ვერ მოიძებნა.
 login-intro-description = თუ თქვენს მონაცემებს { -brand-product-name } სხვა მოწყობილობაზე ინახავს, ნახეთ როგორ უნდა გადმოიტანოთ აქ:
@@ -81,6 +84,7 @@ login-intro-instructions-fxa = შედით ან შექმენით {
 login-intro-instructions-fxa-settings = გადადით პარამეტრებში > სინქრონიზაცია > სინქრონიზაციის ჩართვა… აირჩიეთ ანგარიშები და პაროლები.
 login-intro-instructions-fxa-help = იხილეთ <a data-l10n-name="help-link">{ -lockwise-brand-short-name }-მხარდაჭერის</a> გვერდი, დახმარების მისაღებად.
 about-logins-intro-import = თუ თქვენი ანგარიშების მონაცემებ, სხვა ბრაუზერში ინახება, შეგიძლიათ <a data-l10n-name="import-link">გადმოიტანოთ { -lockwise-brand-short-name }-ში</a>
+
 about-logins-intro-import2 = თუ თქვენი ანგარიში მონაცემებს { -brand-product-name } არ ინახავდა, შეგიძლიათ <a data-l10n-name="import-browser-link">გადმოიტანოთ სხვა ბრაუზერიდან</a> ან <a data-l10n-name="import-file-link">პირდაპირ ფაილიდან</a>
 
 ## Login
@@ -122,11 +126,13 @@ about-logins-edit-login-os-auth-dialog-message-win = მონაცემებ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = შენახული მონაცემის ჩასწორებას
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = პაროლის სანახავად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ დაიცვათ თქვენი ანგარიშების უსაფრთხოება.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = შენახულ პაროლთან წვდომას
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = პაროლის ასლის ასაღებად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ დაიცვათ თქვენი ანგარიშების უსაფრთხოება.
 # This message can be seen when attempting to copy a password in about:logins
@@ -136,6 +142,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = შენახულ
 ## Master Password notification
 
 master-password-notification-message = გთხოვთ, შეიყვანოთ თქვენი მთავარი პაროლი, შენახული ანგარიშებისა და პაროლების სანახავად
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = მონაცემების გასატანად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ დაიცვათ თქვენი ანგარიშების უსაფრთხოება.
 # This message can be seen when attempting to export a password in about:logins
@@ -172,20 +179,24 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = გაუქმება
 confirmation-dialog-dismiss-button =
     .title = გაუქმება
+
 about-logins-confirm-remove-dialog-title = მოცილდეს ეს მონაცემები?
 confirm-delete-dialog-message = ეს ქმედება შეუქცევადია.
 about-logins-confirm-remove-dialog-confirm-button = მოცილება
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] მოცილება
        *[other] ყველას მოცილება
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] დიახ, წაიშალოს ეს ანგარიში
         [one] დიახ, წაიშალოს ეს ანგარიში
        *[other] დიახ, წაიშალოს ეს ანგარიშები
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] წაიშალოს { $count } ანგარიში?
@@ -197,6 +208,7 @@ about-logins-confirm-remove-all-dialog-message =
         [one] შედეგად წაიშლება ანგარიშის მონაცემები, რომელსაც ინახავს { -brand-short-name } და მოცილდება მიტაცებებზე შეტყობინებები. ეს ქმედება შეუქცევადია.
        *[other] შედეგად წაიშლება ანგარიშების მონაცემები, რომელთაც ინახავს { -brand-short-name } და მოცილდება მიტაცებებზე შეტყობინებები. ეს ქმედება შეუქცევადია.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] მოცილდეს { $count } ანგარიში ყველა მოწყობილობიდან?
@@ -208,11 +220,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] შედეგად წაიშლება ანგარიშის მონაცემები, რომელსაც ინახავს { -brand-short-name } და ასინქრონებს ყველა მოწყობილობაზე { -fxaccount-brand-name(case: "ins") }. აგრეთვე მოცილდება მიტაცებებზე შეტყობინებებიც. ეს ქმედება შეუქცევადია.
        *[other] შედეგად წაიშლება ანგარიშების მონაცემები, რომელთაც ინახავს { -brand-short-name } და ასინქრონებს ყველა მოწყობილობაზე { -fxaccount-brand-name(case: "ins") }. აგრეთვე მოცილდება მიტაცებებზე შეტყობინებებიც. ეს ქმედება შეუქცევადია.
     }
+
 about-logins-confirm-export-dialog-title = მონაცემებისა და პაროლების გატანა
 about-logins-confirm-export-dialog-message = თქვენი პაროლები შეინახება წასაკითხ ტექსტად (მაგ. BadP@ssw0rd) ასე რომ, ნებისმიერს შეეძლება მათი ნახვა, თუ გატანილ ფაილს გახსნის.
 about-logins-confirm-export-dialog-confirm-button = გატანა…
+
 about-logins-alert-import-title = გადმოტანა დასრულდა
 about-logins-alert-import-message = იხილეთ სრულად გადმოტანის შესახებ
+
 confirm-discard-changes-dialog-title = გაუქმდეს შეუნახავი ცვლილებები?
 confirm-discard-changes-dialog-message = ყველა შეუნახავი ცვლილება დაიკარგება.
 confirm-discard-changes-dialog-confirm-button = გაუქმება
@@ -243,8 +258,10 @@ about-logins-vulnerable-alert-learn-more-link = იხილეთ ვრცლ�
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = ჩანაწერი ანგარიშისთვის { $loginTitle } ამ მომხმარებლის სახელით უკვე არსებობს. <a data-l10n-name="duplicate-link">გსურთ გასავლა ამ ჩანაწერზე?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = შეცდომა, ამ პაროლის შენახვისას.
+
 
 ## Login Export Dialog
 
@@ -292,11 +309,13 @@ about-logins-import-dialog-items-added =
         [one] <span>ახალი ანგარიშები დაემატა:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>ახალი ანგარიშები დაემატა:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>არსებული ანგარიშები განახლდა:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>არსებული ანგარიშები განახლდა:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>აღმოჩენილია იგივე ანგარიშები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span>
@@ -308,6 +327,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>შეცდომები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ვერ გადმოვიდა)</span>
     }
 about-logins-import-dialog-done = მზადაა
+
 about-logins-import-dialog-error-title = გადმოტანის შეცდომა
 about-logins-import-dialog-error-conflicting-values-title = რამდენიმე შეუთავსებელი მნიშვნელობა ერთი ანგარიშისთვის
 about-logins-import-dialog-error-conflicting-values-description = მაგალითად: რამდენიმე სახელი, პაროლი, მისამართი და სხვ. ერთი ანგარიშისთვის.
@@ -319,11 +339,12 @@ about-logins-import-dialog-error-unable-to-read-title = ფაილის დ�
 about-logins-import-dialog-error-unable-to-read-description = დარწმუნდით, რომ არჩეულია CSV ან TSV-სახის ფაილი.
 about-logins-import-dialog-error-no-logins-imported = ანგარიშები არ გადმოტანილა
 about-logins-import-dialog-error-learn-more = ვრცლად
-about-logins-import-dialog-error-try-again = სცადეთ ხელახლა…
 about-logins-import-dialog-error-try-import-again = გადმოტანის კვლავ ცდა…
 about-logins-import-dialog-error-cancel = გაუქმება
+
 about-logins-import-report-title = გადმოტანის შეჯამება
 about-logins-import-report-description = გადმოტანილი ანგარიშები და პაროლები – { -brand-short-name }
+
 #
 # Variables:
 #  $number (number) - The number of the row

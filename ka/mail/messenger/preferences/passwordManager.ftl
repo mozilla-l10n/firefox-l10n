@@ -55,9 +55,11 @@ import =
 close-button =
     .label = დახურვა
     .accesskey = რ
+
 password-close-button =
     .label = დახურვა
     .accesskey = ხ
+
 show-passwords =
     .label = პაროლების ჩვენება
     .accesskey = ვ
@@ -80,10 +82,12 @@ no-master-password-prompt = ნამდვილად გსურთ თქ�
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = თქვენი ვინაობის დამოწმება, შენახულ მონაცემებთან წვდომისთვის.
+
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = შენახულ მონაცემებთან წვდომისთვის.
+
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }

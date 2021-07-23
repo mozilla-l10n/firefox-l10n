@@ -144,6 +144,7 @@
 
 <!ENTITY helpForIEUsers.label               "Internet Explorer-ის მომხმარებელთათვის">
 <!ENTITY helpForIEUsers.accesskey           "I">
+
 <!ENTITY helpTroubleshootingInfo.label      "გაუმართაობის აღმოფხვრა">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ღ">
 <!ENTITY releaseCmd.label                   "გამოშვების მონაცემები">

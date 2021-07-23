@@ -25,9 +25,6 @@ left instead of right. -->
 <!ENTITY uploadFile.label "ფაილის ატვირთვა…">
 <!ENTITY uploadFile.accesskey "F">
 
-<!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
-<!ENTITY printSetupCmd.accesskey "u">
-
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "პოვნა ამ გვერდზე…">
 

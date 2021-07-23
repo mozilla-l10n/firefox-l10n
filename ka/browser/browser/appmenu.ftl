@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = განახლება ხელმისაწვდომია — ჩამოტვირთვა ახლავე
     .label-update-unsupported = ვერ განახლდება — შეუთავსებელია
     .label-update-restart = განახლება ხელმისაწვდომია — გადატვირთვა ახლავე
+
 appmenuitem-protection-dashboard-title = დაცვის მაჩვენებლები
 appmenuitem-customize-mode =
     .label = მორგება…
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = პროგრამის მენიუს დახურვა
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = მიახლოება
 appmenuitem-zoom-reduce =
     .label = დაშორება
+
 appmenuitem-fullscreen =
     .label = სრული ეკრანი
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = დასინქრონება ახლავე
+
 appmenu-remote-tabs-sign-into-sync =
     .label = სინქრონიზაციაში შესვლა…
 appmenu-remote-tabs-turn-on-sync =
     .label = დასინქრონების ჩართვა…
+
 appmenuitem-fxa-toolbar-sync-now2 = დასინქრონება ახლავე
 appmenuitem-fxa-manage-account = ანგარიშის მართვა
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = შესვლა
 appmenu-fxa-setup-sync =
     .label = დასინქრონების ჩართვა…
 appmenu-fxa-show-more-tabs = მეტი ჩანართის ჩვენება
+
 appmenuitem-save-page =
     .label = გვერდის შენახვა როგორც…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = რა სიახლეებია
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,35 +103,49 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = მეტი ინფორმაციის გამოვლენა
+
 profiler-popup-description-title =
     .value = ჩაწერა, გამოკვლევა, გაზიარება
+
 profiler-popup-description = იმუშავეთ წარმადობის საკითხებზე მახასიათებლების გამოქვეყნებით, გუნდისთვის გასაზიარებლად.
+
 profiler-popup-learn-more = ვრცლად
+
 profiler-popup-settings =
     .value = პარამეტრები
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = პარამეტრების ჩასწორება…
+
 profiler-popup-disabled =
     მახასიათებლების აღრიცხვა ამჟამად გამორთულია, უმეტესად პირადი ფანჯრის
     გახსნის გამო.
+
 profiler-popup-recording-screen = იწერება…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = მორგებული
+
 profiler-popup-start-recording-button =
     .label = ჩაწერის დაწყება
+
 profiler-popup-discard-button =
     .label = გაუქმება
+
 profiler-popup-capture-button =
     .label = აღება
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -137,6 +158,7 @@ appmenu-manage-history =
     .label = ისტორიის მართვა
 appmenu-reopen-all-tabs = ყველა ჩანართის ხელახლა გახსნა
 appmenu-reopen-all-windows = ყველა ფანჯრის ხელახლა გახსნა
+
 appmenu-restore-session =
     .label = წინა სეანსის აღდგენა
 appmenu-clear-history =
@@ -192,6 +214,7 @@ appmenu-customizetoolbar =
     .label = ხელსაწყოთა ზოლის მორგება...
 appmenu-taskmanager =
     .label = ამოცანათა მმართველი
+
 appmenu-developer-tools-subheader = ბრაუზერის ხელსაწყოები
 appmenu-developer-tools-extensions =
     .label = Extensions for Developers

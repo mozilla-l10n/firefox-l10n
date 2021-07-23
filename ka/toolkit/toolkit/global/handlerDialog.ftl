@@ -2,15 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
-#
-# Variables:
-#  $host - the hostname that is initiating the request
-#  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong> ცდილობს გახსნას ბმული <strong>{ $scheme }</strong>.
-
 ## Permission Dialog
 ## Variables:
 ##  $host - the hostname that is initiating the request
@@ -18,10 +9,15 @@ handler-dialog-host = <strong>{ $host }</strong> ცდილობს გახ
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = ნებას რთავთ ამ საიტს, გახსნას { $scheme }-ბმული?
+
 permission-dialog-description-file = ნებას რთავთ ამ ფაილს, გახსნას { $scheme }-ბმული?
+
 permission-dialog-description-host = ნებას რთავთ ამ { $host }-ს, გახსნას { $scheme }-ბმული?
+
 permission-dialog-description-app = ნებას რთავთ ამ საიტს, გახსნას { $scheme }-ბმული პროგრამით { $appName }?
+
 permission-dialog-description-host-app = ნებას რთავთ ამ { $host }-ს, გახსნას { $scheme }-ბმული პროგრამით { $appName }?
+
 permission-dialog-description-file-app = ნებას რთავთ ამ ფაილს, გახსნას { $scheme }-ბმული პროგრამით { $appName }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
@@ -29,6 +25,7 @@ permission-dialog-description-file-app = ნებას რთავთ ამ 
 ## of the sentence as your language's grammar allows.
 
 permission-dialog-remember = მუდმივი ნებართვა, რომ <strong>{ $host }</strong> გახსნის <strong>{ $scheme }</strong>-ბმულებს.
+
 permission-dialog-remember-file = ყოველთვის ამ ფაილით გაიხსნას <strong>{ $scheme }</strong>-ბმულები
 
 ##
@@ -36,10 +33,13 @@ permission-dialog-remember-file = ყოველთვის ამ ფაი�
 permission-dialog-btn-open-link =
     .label = ბმულის გახსნა
     .accessKey = ხ
+
 permission-dialog-btn-choose-app =
     .label = პროგრამის შერჩევა
     .accessKey = პ
+
 permission-dialog-unset-description = საჭიროა პროგრამის არჩევა.
+
 permission-dialog-set-change-app-link = სხვა პროგრამის არჩევა.
 
 ## Chooser dialog
@@ -49,21 +49,27 @@ permission-dialog-set-change-app-link = სხვა პროგრამის
 chooser-window =
     .title = პროგრამის შერჩევა
     .style = min-width: 26em; min-height: 26em;
+
 chooser-dialog =
     .buttonlabelaccept = ბმულის გახსნა
     .buttonaccesskeyaccept = ხ
+
 chooser-dialog-description = პროგრამის შერჩევა, { $scheme }-ბმულის გასახსნელად.
+
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = ყოველთვის ამ პროგრამით გაიხსნას <strong>{ $scheme }</strong>-ბმულები
+
 chooser-dialog-remember-extra =
     { PLATFORM() ->
         [windows] შეცვლა შესაძლებელია { -brand-short-name } – პარამეტრებში.
        *[other] შეცვლა შესაძლებელია { -brand-short-name } – პარამეტრებში.
     }
+
 choose-other-app-description = სხვა პროგრამის არჩევა
 choose-app-btn =
     .label = მოძიება…
     .accessKey = მ
 choose-other-app-window-title = სხვა პროგრამა…
+
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = გათიშვა პირად ფანჯრებში

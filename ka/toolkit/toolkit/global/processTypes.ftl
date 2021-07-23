@@ -8,22 +8,30 @@
 ##
 
 process-type-web = ვებშიგთავსი
+
 process-type-browser = მთავარი
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = უპირატესად შესახებ-გვერდები
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = უპირატესად Mozilla-ს შიგთავსი
+
 process-type-extension = გაფართოება
+
 # process used to open file:// URLs
 process-type-file = ადგილობრივი ფაილი
+
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = დიდი განაწილება
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = განცალკევებული ვებშიგთავსი
+
 # process preallocated; may change to other types
 process-type-prealloc = წინასწარ განაწილებული
 
@@ -33,11 +41,14 @@ process-type-prealloc = წინასწარ განაწილებუ�
 
 process-type-default = მთავარი
 process-type-tab = ჩანართი
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to perform network operations
 process-type-socket = სოკეტი
+
 # process used to decode media
 process-type-rdd = RDD
 

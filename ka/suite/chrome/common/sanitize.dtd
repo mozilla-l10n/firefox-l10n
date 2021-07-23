@@ -61,9 +61,9 @@
 <!ENTITY itemSessions.label               "ანგარიშზე შესვლის სეანსები">
 <!ENTITY itemSessions.accesskey           "გ">
 
+<!ENTITY sanitizeButton.label            "პირად მონაცემთა გასუფთავება ახლავე">
 <!ENTITY itemSessionsS.accesskey          "ბ">
 
-<!ENTITY sanitizeButton.label            "პირად მონაცემთა გასუფთავება ახლავე">
 <!ENTITY itemSitePreferences.label        "საიტის პარამეტრები">
 <!ENTITY itemSitePreferences.accesskey    "პ">
 <!ENTITY itemSitePreferencesS.accesskey   "ტ">

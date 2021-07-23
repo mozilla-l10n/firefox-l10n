@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "გამოჩენა:">
 <!ENTITY DisplayName.accesskey          "ე">
 <!ENTITY preferDisplayName.label        "ყოველთვის გამოსაჩენი სახელის ასახვა წერილის თავსართში">
-<!ENTITY preferDisplayName.accesskey    "გ">
 <!ENTITY preferDisplayName2.accesskey   "ყ">
 <!ENTITY NickName.label                 "მეტსახელი:">
 <!ENTITY NickName.accesskey             "მ">
@@ -46,8 +45,6 @@
 <!ENTITY PlainText.label                "ტექსტური">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "უცნობი">
-<!ENTITY ScreenName.label               "ეკრანული სახელი:">
-<!ENTITY ScreenName.accesskey           "კ">
 
 <!ENTITY chatName.label                 "სახელი სასაუბროსთვის:">
 

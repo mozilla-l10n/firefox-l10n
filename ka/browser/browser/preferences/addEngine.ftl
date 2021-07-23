@@ -5,18 +5,18 @@
 add-engine-window =
     .title = საძიებო სისტემის დამატება
     .style = width: 32em;
+
 add-engine-button = მორგებული საძიებოს დამატება
+
 add-engine-name = საძიებო სისტემის სახელი
+
 add-engine-alias = მეტსახელი
+
 add-engine-url = საძიებოს ბმული, მოსაძიებელ ფრაზად მიუთითეთ %s
-add-engine-cancel =
-    .label = გაუქმება
-    .accesskey = ქ
-add-engine-ok =
-    .label = საძიებოს დამატება
-    .accesskey = დ
+
 add-engine-dialog =
     .buttonlabelaccept = საძიებოს დამატება
     .buttonaccesskeyaccept = დ
+
 engine-name-exists = საძიებო სისტემა ამ სახელით უკვე არსებობს
 engine-alias-exists = საძიებო სისტემა ამ მეტსახელით უკვე არსებობს

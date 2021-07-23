@@ -9,12 +9,6 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.pagetitle  "არასანდო კავშირები">
 <!ENTITY certerror.longpagetitle "ეს კავშირი სანდო არაა">
 
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara1 "თქვენ &brandShortName; მოსთხოვეთ უსაფრთხოდ
-დაგაკავშიროთ სერვერთან <b>#1</b>, მაგრამ ჩვენ ვერ დავადასტურებთ, რომ კავშირი უსაფრთხოა.">
-
 <!-- Localization note (certerror.introPara1a) - The text content of the span
 tag will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->

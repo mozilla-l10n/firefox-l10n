@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = სცადეთ: ჩანართის მ
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = რატომ ვხედავ ამას
+
 cfr-doorhanger-extension-cancel-button = ახლა არა
     .accesskey = რ
+
 cfr-doorhanger-extension-ok-button = დამატება ახლავე
     .accesskey = ხ
 cfr-doorhanger-pintab-ok-button = ამ ჩანართის მიმაგრება
     .accesskey = გ
+
 cfr-doorhanger-extension-manage-settings-button = შემოთავაზებების პარამეტრების მართვა
     .accesskey = შ
+
 cfr-doorhanger-extension-never-show-recommendation = ამ შემოთავაზების ჩვენების შეწყვეტა
     .accesskey = წ
+
 cfr-doorhanger-extension-learn-more-link = იხილეთ ვრცლად
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = შემქმნელი: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = შემოთავაზება
 cfr-doorhanger-extension-notification2 = შემოთავაზება
     .tooltiptext = გაფართოების შემოთავაზება
     .a11y-announcement = ხელმისაწვდომია გაფართოების შემოთავაზება
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = შემოთავაზება
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } მომხმარებელი
        *[other] { $total } მომხმარებელი
     }
+
 cfr-doorhanger-pintab-description = მიიღეთ მარტივი წვდომა თქვენს ხშირად მონახულებულ საიტებთან. დატოვეთ საიტები ჩანართში გახსნილი (ხელახლა გაშვების დროსაც).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = მიიღეთ მარტივი წ
 cfr-doorhanger-pintab-step1 = <b>მარჯვენა-წკაპი</b> მისამაგრებელ ჩანართზე.
 cfr-doorhanger-pintab-step2 = აირჩიეთ <b>ჩანართის მიმაგრება</b> მენიუდან.
 cfr-doorhanger-pintab-step3 = თუ საიტზე რამე განახლდება, ლურჯი წერტილი გამოჩნდება მიმაგრებულ ჩანართზე.
+
 cfr-doorhanger-pintab-animation-pause = შეჩერება
 cfr-doorhanger-pintab-animation-resume = გაგრძელება
+
 
 ## Firefox Accounts Message
 
@@ -89,20 +100,26 @@ cfr-protections-panel-link-text = ვრცლად
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ახალი შესაძლებლობა:
+
 cfr-whatsnew-button =
     .label = რა სიახლეებია
     .tooltiptext = რა სიახლეებია
+
 cfr-whatsnew-panel-header = რა სიახლეებია
+
 cfr-whatsnew-release-notes-link-text = იხილეთ გამოშვების შენიშვნები
+
 cfr-whatsnew-fx70-title = { -brand-short-name } ახლა უფრო მტკიცედ იბრძვის თქვენი პირადი მონაცემების დასაცავად
 cfr-whatsnew-fx70-body =
     ბოლო განახლების შედეგად, გაძლიერებულია თვალთვალისგან დაცვის შესაძლებლობა
     და მეტად გამარტივებულია ძლიერი პაროლების გამოყენება, თითოეული საიტისთვის.
+
 cfr-whatsnew-tracking-protect-title = თავი დაიცავით მეთვალყურეებისგან
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } ზღუდავს ცნობილი სოციალური ქსელებისა და საიტთაშორისი
     მეთვალყურეების უმეტესობას, რომლებიც თან დაგყვებათ ინტერნეტში.
 cfr-whatsnew-tracking-protect-link-text = იხილეთ თქვენი ანგარიში
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -113,9 +130,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = თარიღიდან { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = ანგარიშის ნახვა
+
 cfr-whatsnew-lockwise-backup-title = დაამარქაფეთ პაროლები
 cfr-whatsnew-lockwise-backup-body = ახლა კი შექმენით პაროლები, რომლებთან წვდომაც ნებისმიერი ადგილიდან შეგეძლებათ, ანგარიშის საშუალებით.
 cfr-whatsnew-lockwise-backup-link-text = მარქაფის ჩართვა
+
 cfr-whatsnew-lockwise-take-title = თან წაიყოლეთ თქვენი პაროლები
 cfr-whatsnew-lockwise-take-body =
     { -lockwise-brand-short-name }-აპლიკაცია მობილურისთვის, საშუალებას მოგცემთ
@@ -154,6 +173,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] ამომცნობი შეიზღუდა
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } ზღუდავს მომხმარებლის ამომცნობ საშუალებებს, რომლებიც ჩუმად აგროვებს ინფორმაციას თქვენს მოწყობილობასა და მოქმედებებზე, დახასიათების შესადგენად სარეკლამოებისთვის.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = მომხმარებლის ამომცნობები
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } გთავაზობთ მომხმარებლის ამომცნობი საშუალებების შეზღუდვას, რომლებიც ჩუმად აგროვებს ინფორმაციას თქვენს მოწყობილობასა და მოქმედებებზე, დახასიათების შესადგენად სარეკლამოებისთვის.
@@ -212,6 +232,7 @@ cfr-doorhanger-milestone-heading =
         [one] { -brand-short-name } ზღუდავს <b>{ $blockedCount }</b>-ზე მეტ მეთვალყურეს თარიღიდან { $date }!
        *[other] { -brand-short-name } ზღუდავს <b>{ $blockedCount }</b>-ზე მეტ მეთვალყურეს თარიღიდან { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -246,12 +267,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = ეკრანი-ეკრანში 
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = დახურვა
-    .accesskey = ხ
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = დაცვისთვის თვალის შევლება
 cfr-whatsnew-protections-body = დაცვის მაჩვენებლების გვერდი შეიცავს შემაჯამებელ ცნობებს ანგარიშების მიტაცებებსა და პაროლების მართვაზე. შეგიძლიათ თვალი ადევნოთ, რამდენი გაქვთ გამოსწორებული და იხილოთ, თქვენი რომელიმე პაროლი გამჟღავნებულ მონაცემებში ხომ არ აღმოჩენილა.
 cfr-whatsnew-protections-cta-link = დაცვის მაჩვენებლების ნახვა
@@ -261,6 +276,12 @@ cfr-whatsnew-protections-icon-alt = ფარის ნიშანი
 
 cfr-whatsnew-better-pdf-header = PDF-თან მოხერხებული მუშაობა
 cfr-whatsnew-better-pdf-body = PDF-დოკუმენტებს ახლა უკვე პირდაპირ გახსნის { -brand-short-name }, საჭირო მასალები კიდევ უფრო ახლოს გექნებათ.
+
+cfr-doorhanger-milestone-close-button = დახურვა
+    .accesskey = ხ
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -282,35 +303,15 @@ cfr-doorhanger-fission-secondary-button = ვრცლად
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = თავისთავადი დაცვა თვალთვალის გაიძვერული საშუალებებისგან
-cfr-whatsnew-clear-cookies-body = ზოგიერთი მეთვალყურე გამისამართებთ სხვა საიტებზე, რომლებიც ფარულად აყენებს ფუნთუშებს. { -brand-short-name } ახლა უკვე ავტომატურად მოაცილებს ამ ფუნთუშებს, თვალი რომ ვერ გადევნონ.
-cfr-whatsnew-clear-cookies-image-alt = შეზღუდული ფუნთუშის ნიმუში
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = გაფართოებული სამართავი
-cfr-whatsnew-media-keys-body = გაუშვით ან შეაჩერეთ ხმოვანი და ვიდეოფაილები პირდაპირ კლავიატურიდან ან ყურსასმენიდან, რაც მეტად გაამარტივებს ფაილების მართვას სხვა ჩანართიდან ან თუნდაც პროგრამიდან, ჩაკეტილ ეკრანზეც კი. აგრეთვე შესაძლებელია ჩანაწერებზე გადასვლა, წინა და მომდევნო ღილაკებით.
-cfr-whatsnew-media-keys-button = იხილეთ, როგორ
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = საძიებოს მალსახმობები მისამართების ველში
-cfr-whatsnew-search-shortcuts-body = ამიერიდან, როცა აკრეფთ საძიებო სისტემის ან შესაბამისი საიტის სახელს მისამართების ველში, გამოჩნდება ლურჯი მალსახმობი ქვემოთ, ძიების შემოთავაზებებში. აირჩიეთ მალსახმობი  საძიებოს პირდაპირ მისამართების ველიდან გამოსაყენებლად.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = დაცვა მავნე ფუნთუშებისგან
-cfr-whatsnew-supercookies-body = საიტებს შეუძლია შეუმჩნევლად მიამაგროს ბრაუზერს მძლავრი „მავნე ფუნთუშები“ რომლებიც დაგედევნებათ მთელ ვებსივრცეში, ბრაუზერის გასუფთავების მიუხედავადაც კი. { -brand-short-name } ახლა უკვე გთავაზობთ დაცვას ამგვარი ფუნთუშებისგან, რის შედეგადაც შეუძლებელი გახდება ინტერნეტსაიტებზე თქვენი მოქმედებების აღრიცხვა.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = გაუმჯობესებული სანიშნები
-cfr-whatsnew-bookmarking-body = საყვარელ საიტებზე თვალის მიდევნება გაადვილდა. { -brand-short-name } ახლა უკვე დაიხსომებს თქვენ მიერ შერჩეულ ადგილს სანიშნების შესანახად, ნაგულისხმევად გამოაჩენს სანიშნების ზოლს ახალ ჩანართებზე და მოგცემთ მარტივი წვდომის საშუალებას დანარჩენ სანიშნებთან, ხელსაწყოთა ზოლის საქაღალდიდან.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = ყოვლისმომცველი დაცვა საიტთაშორისი ფუნთუშებით თვალთვალისგან
-cfr-whatsnew-cross-site-tracking-body = ახლა უკვე შეგიძლიათ ისარგებლოთ ფუნთუშებით თვალთვალისგან გაუმჯობესებული დაცვით. { -brand-short-name } გამოაცალკევებს, მიმდინარე საიტზე თქვენი მოქმედებების შესახებ ინფორმაციას და შესაბამისად, ბრაუზერში შენახული მონაცემები ვეღარ გაზიარდება სხვადასხვა საიტებს შორის.
 
 ## Full Video Support CFR message
 

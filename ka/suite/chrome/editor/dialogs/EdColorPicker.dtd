@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "ფერი">
 <!ENTITY lastPickedColor.label "ბოლო შერჩეული ფერი">
 <!ENTITY lastPickedColor.accessKey "L">
-<!ENTITY setColor1.label "დაწკაპეთ სასურველი ფერი ან">
-<!ENTITY setColor2.label "მიუთითეთ ფერის HTML კოდი">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "ფერის არჩევა:">
 <!ENTITY chooseColor2.label "HTML-ის ფერის სტრიქონის შეყვანა">
 <!ENTITY chooseColor2.accessKey "H">
