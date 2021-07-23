@@ -17,41 +17,12 @@ upgrade-dialog-new-title =
        *[other] nová aplikace { -brand-short-name }
     }
 upgrade-dialog-new-subtitle = Prohlížeč, který vás vezme, kam potřebujete, a rychle
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
-# style to be automatically added to the text inside it. { -brand-short-name }
-# should stay inside the span.
-upgrade-dialog-new-alt-subtitle =
-    { -brand-short-name.gender ->
-        [masculine] <span data-l10n-name="zap">{ -brand-short-name(case: "acc") }</span>
-        [feminine] <span data-l10n-name="zap">{ -brand-short-name(case: "acc") }</span>
-        [neuter] <span data-l10n-name="zap">{ -brand-short-name(case: "acc") }</span>
-       *[other] Aplikaci <span data-l10n-name="zap">{ -brand-short-name }</span>
-    } můžete mít na klik myší
 upgrade-dialog-new-item-menu-title = Nové lišty a nabídky pro snazší ovládání
 upgrade-dialog-new-item-menu-description = Dávají přednost důležitým věcem, takže najdete, co potřebujete.
 upgrade-dialog-new-item-tabs-title = Moderní vzhled panelů
 upgrade-dialog-new-item-tabs-description = Obsahuje ty správné informace, nevyrušuje a přizpůsobí se vašim potřebám.
 upgrade-dialog-new-item-icons-title = Svěží ikony a jasné popisky
 upgrade-dialog-new-item-icons-description = Pomohou vám najít, co potřebujete, i na dotykové obrazovce.
-upgrade-dialog-new-primary-primary-button =
-    Nastavit { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
-    } jako můj hlavní prohlížeč
-    .title =
-        Nastaví { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "acc") }
-            [feminine] { -brand-short-name(case: "acc") }
-            [neuter] { -brand-short-name(case: "acc") }
-           *[other] aplikaci { -brand-short-name }
-        } jako výchozí prohlížeč a připne { -brand-short-name.gender ->
-            [masculine] ho
-            [feminine] ji
-            [neuter] ho
-           *[other] ji
-        } na lištu
 upgrade-dialog-new-primary-default-button =
     Nastavit { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }
@@ -59,14 +30,6 @@ upgrade-dialog-new-primary-default-button =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] aplikaci { -brand-short-name }
     } jako můj výchozí prohlížeč
-upgrade-dialog-new-primary-pin-button =
-    Připnout { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
-    } na lištu
-upgrade-dialog-new-primary-pin-alt-button = Připnout na lištu
 upgrade-dialog-new-primary-theme-button = Vybrat vzhled
 upgrade-dialog-new-secondary-button = Teď ne
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -116,16 +79,6 @@ upgrade-dialog-pin-secondary-button = Teď ne
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title =
-    Chcete { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] aplikaci { -brand-short-name }
-    } nastavit jako svůj výchozí prohlížeč?
-upgrade-dialog-default-subtitle = Získejte rychlost, bezpečnost a soukromí pro své prohlížení.
-upgrade-dialog-default-primary-button = Nastavit jako výchozí prohlížeč
-# This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 =
     Nastavit { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }
@@ -139,10 +92,6 @@ upgrade-dialog-default-secondary-button = Teď ne
 
 ## Theme selection screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title =
-    Začněte s čistým
-    novým vzhledem
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title-2 = Začněte s čistým a novým vzhledem
 upgrade-dialog-theme-system = Podle systému

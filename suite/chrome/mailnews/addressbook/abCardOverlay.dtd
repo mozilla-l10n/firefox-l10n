@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "Zobrazované jméno:">
 <!ENTITY DisplayName.accesskey          "n">
 <!ENTITY preferDisplayName.label        "Vždy upřednostnit zobrazované jméno před hlavičkou zprávy">
-<!ENTITY preferDisplayName.accesskey    "u">
 <!ENTITY preferDisplayName2.accesskey   "u">
 <!ENTITY NickName.label                 "Přezdívka:">
 <!ENTITY NickName.accesskey             "e">
@@ -46,8 +45,6 @@
 <!ENTITY PlainText.label                "Prostý text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Neznámý">
-<!ENTITY ScreenName.label               "Účet pro IM">
-<!ENTITY ScreenName.accesskey           "E">
 
 <!ENTITY chatName.label                 "Jméno v chatu:">
 

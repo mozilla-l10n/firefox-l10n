@@ -5,16 +5,21 @@
 otr-finger =
     .buttonlabelaccept = Zavřít
     .title = Známé otisky klíčů OTR
+
 finger-intro = Otisky klíčů OTR z předchozích šifrovaných konverzací.
+
 finger-screenName =
     .label = Kontakt
+
 finger-screen-name =
     .label = Kontakt
 finger-verified =
     .label = Stav ověření
 finger-fingerprint =
     .label = Otisk
+
 finger-remove =
     .label = Odebrat vybrané
+
 finger-remove-all =
     .label = Odebrat vše

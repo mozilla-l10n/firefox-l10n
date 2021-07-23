@@ -5,6 +5,7 @@
 compact-dialog-window =
     .title = Údržba složek
     .style = width: 50em;
+
 compact-dialog =
     .buttonlabelaccept = Provést údržbu
     .buttonaccesskeyaccept = P
@@ -12,3 +13,4 @@ compact-dialog =
     .buttonaccesskeycancel = o
     .buttonlabelextra1 = Zjistit více…
     .buttonaccesskeyextra1 = Z
+

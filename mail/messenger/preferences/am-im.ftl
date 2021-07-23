@@ -4,5 +4,6 @@
 
 account-settingsTitle = Nastavení autentizace
 account-channelTitle = Předvolené kanály
+
 account-settings-title = Nastavení ověřování
 account-channel-title = Výchozí kanály

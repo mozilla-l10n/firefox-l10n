@@ -5,41 +5,55 @@
 permissions-reminder-window =
     .title = Výjimky
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 permission-preferences-close-window =
     .key = w
+
 website-address-label =
     .value = Adresa webového serveru:
     .accesskey = A
+
 block-button =
     .label = Blokovat
     .accesskey = B
+
 allow-session-button =
     .label = Povolit pro relaci
     .accesskey = r
+
 allow-button =
     .label = Povolit
     .accesskey = P
+
 treehead-sitename-label =
     .label = Server
+
 treehead-status-label =
     .label = Stav
+
 remove-site-button =
     .label = Odebrat server
     .accesskey = O
+
 remove-all-site-button =
     .label = Odebrat všechny servery
     .accesskey = d
+
 cancel-button =
     .label = Zrušit
     .accesskey = Z
+
 save-button =
     .label = Uložit změny
     .accesskey = U
+
 permission-can-label = Povolit
 permission-can-access-first-party-label = Zakázat pro servery třetích stran
 permission-can-session-label = Povolit pro relaci
 permission-cannot-label = Blokovat
+
 invalid-uri-message = Vložte prosím platný název serveru
 invalid-uri-title = Neplatný název serveru

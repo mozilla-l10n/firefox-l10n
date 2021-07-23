@@ -30,6 +30,8 @@ crashed-include-URL =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }.
+crashed-email-placeholder = Zde zadejte svou e-mailovou adresu
+crashed-email-me = Informovat mě e-mailem, až bude k dispozici více informací
 crashed-include-URL-2 =
     Zahrnout URL adresy stránek, na kterých jste byli v okamžiku pádu { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -37,8 +39,6 @@ crashed-include-URL-2 =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }
-crashed-email-placeholder = Zde zadejte svou e-mailovou adresu
-crashed-email-me = Informovat mě e-mailem, až bude k dispozici více informací
 crashed-report-sent =
     Hlášení o pádu bylo odesláno. Děkujeme, že nám pomáháte { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }

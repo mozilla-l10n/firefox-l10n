@@ -19,6 +19,7 @@ open-location = Zadat hledání nebo adresu
 share = Sdílet
 close-window = Zavřít okno
 open-sidebar = Postranní lišty
+
 # This string describes shortcuts for search.
 search-popover = Vyhledávače
 # Describes searches limited to a specific scope

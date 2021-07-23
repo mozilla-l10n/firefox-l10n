@@ -36,6 +36,7 @@ menu-application-touch-bar =
 menu-quit =
     .label = Ukončit
     .accesskey = k
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
@@ -45,9 +46,11 @@ menu-quit-mac =
             [neuter] { -brand-shorter-name(case: "acc") }
            *[other] aplikaci { -brand-shorter-name }
         }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
@@ -58,6 +61,7 @@ menu-quit-button-win =
             [neuter] { -brand-shorter-name(case: "acc") }
            *[other] aplikaci { -brand-shorter-name }
         }
+
 menu-about =
     .label =
         O { -brand-shorter-name.gender ->
@@ -189,6 +193,7 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Znaková sada textu
     .accesskey = k
+
 menu-view-repair-text-encoding =
     .label = Opravit znakovou sadu textu
     .accesskey = z
@@ -234,6 +239,7 @@ menu-history-undo-menu =
     .label = Naposledy zavřené panely
 menu-history-undo-window-menu =
     .label = Naposledy zavřená okna
+
 menu-history-reopen-all-tabs = Znovu otevřít všechny panely
 menu-history-reopen-all-windows = Znovu otevřít všechna okna
 

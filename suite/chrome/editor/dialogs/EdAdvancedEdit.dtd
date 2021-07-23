@@ -13,5 +13,6 @@
 <!ENTITY tabHTML.label "Vlastnosti HTML">
 <!ENTITY tabCSS.label "Řádkový styl">
 <!ENTITY tabJSE.label "Události JavaScriptu">
+
 <!ENTITY editAttribute.label "Klepněte na položku, kterou chcete upravit">
 <!ENTITY removeAttribute.label "Odebrat">

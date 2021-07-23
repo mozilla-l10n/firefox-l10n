@@ -10,6 +10,7 @@ refresh-profile-dialog =
             [neuter] { -brand-short-name(case: "gen") }
            *[other] aplikace { -brand-short-name }
         }
+
 refresh-profile-dialog-title =
     Chcete obnovit výchozí nastavení nastavení { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }

@@ -8,7 +8,6 @@
 
 <!ENTITY markAsUnreadCmd.label     "Nepřečtené">
 <!ENTITY markAsUnreadCmd.accesskey "n">
-<!ENTITY markAsUnreadCmd.key       "m">
 
 <!ENTITY markFlaggedCmd.label     "Praporek">
 <!ENTITY markFlaggedCmd.accesskey "p">
