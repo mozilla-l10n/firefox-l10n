@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = save about:webrtc as
@@ -47,13 +48,7 @@ about-webrtc-ice-state = ICE State
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE Stats
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -65,13 +60,16 @@ about-webrtc-type-remote = Remote
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominated
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selected
+
 about-webrtc-save-page-label = Save Page
 about-webrtc-debug-mode-msg-label = Debug Mode
 about-webrtc-debug-mode-off-state-label = Start Debug Mode
@@ -95,6 +93,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (closed)
 
 ##
 
+
 about-webrtc-local-candidate = Local Candidate
 about-webrtc-remote-candidate = Remote Candidate
 about-webrtc-priority = Priority
@@ -110,7 +109,6 @@ about-webrtc-encoder-label = Encoder
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -120,6 +118,8 @@ about-webrtc-save-page-msg = page saved to: { $path }
 about-webrtc-debug-mode-off-state-msg = trace log can be found at: { $path }
 about-webrtc-debug-mode-on-state-msg = debug mode active, trace log at: { $path }
 about-webrtc-aec-logging-off-state-msg = captured log files can be found in: { $path }
+
+##
 
 ##
 
@@ -134,4 +134,7 @@ about-webrtc-jitter-label = Jitter { $jitter }
 
 
 ##
+
+##
+
 

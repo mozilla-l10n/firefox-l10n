@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
 
 
@@ -23,8 +24,4 @@
 
 <!ENTITY pref.locales.title                     "User Interface Language">
 <!ENTITY selectLocale.label                     "Select the language for text that appears in dialog boxes, menus, toolbars and button labels:">
-<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY restartOnLangChange.label              "Language preferences will take effect when you restart &brandShortName;.">
 

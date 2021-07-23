@@ -12,6 +12,7 @@
 <!ENTITY tabmailNewButton.tooltip "Duplicate current tab">
 <!ENTITY tabmailCloseButton.tooltip "Close current tab">
 <!ENTITY tabmailAllTabs.tooltip "List all tabs">
+
 <!-- menu items: the . means that the menu item isn't implemented yet -->
 <!-- File menu items -->
 
@@ -47,7 +48,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "All Accounts">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getAllNewMsgCmd.label "Get All New Messages">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Get Next 500 News Messages">
 <!ENTITY getNextNMsgCmd.accesskey "t">
@@ -238,6 +238,7 @@
      This is the key used to show the Lightning quick filter bar. -->
 
 <!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 
@@ -402,6 +403,7 @@
 <!-- Toolbar items -->
 
 <!ENTITY getMsgButton.label "Get Msgs">
+<!ENTITY getAllNewMsgCmd.label "Get All New Messages">
 <!ENTITY newMsgButton.label "Compose">
 <!ENTITY newHTMLMessageCmd.label "Compose in HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
@@ -441,7 +443,6 @@
 <!ENTITY undeleteButton.tooltip "Undelete selected message">
 <!ENTITY markButton.tooltip "Mark messages">
 <!ENTITY stopButton.tooltip "Stop the current transfer">
-<!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">
 <!ENTITY junkButton.tooltip "Mark the selected messages as junk">
 <!ENTITY notJunkButton.tooltip "Mark the selected messages as not junk">
 <!-- Remote Content Button Popup -->

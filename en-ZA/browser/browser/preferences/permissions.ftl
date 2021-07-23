@@ -54,6 +54,8 @@ permissions-invalid-uri-label = Please enter a valid hostname
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = You can specify which websites are allowed to open pop-up windows. Type the exact address of the site you want to allow and then click Allow.
