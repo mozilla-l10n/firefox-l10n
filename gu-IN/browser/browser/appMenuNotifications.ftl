@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ઠીક છે, સમજાઇ ગયું
     .buttonaccesskey = O
 appmenu-addon-post-install-message = <image data-l10n-name='addon-install-icon'></image> મેનૂમાં <image data-l10n-name='addon-menu-icon'></image> ક્લિક કરીને તમારા ઍડ-ઑનને સંચાલિત કરો.
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = ખાનગી વિંડોઝમાં આ એક્સ્ટેન્શનને ચલાવવાની મંજૂરી આપો
     .accesskey = A
@@ -52,6 +53,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = એક્સ્ટેંશન અક્ષમ કરો
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = તમારી હિડન ટૅબ્સ ઍક્સેસ કરો
     .buttonlabel = ટેબ્સને છુપાવીને રાખો

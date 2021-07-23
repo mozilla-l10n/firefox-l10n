@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "મેનુ ખોલો">
+
 <!ENTITY navbarOverflow.label                "વધારે સાધનો…">
 
 <!-- Tab context menu -->
@@ -118,18 +119,22 @@ can reach it easily. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "ઇતિહાસ">
+
 <!ENTITY historyUndoMenu.label "છેલ્લે બધ થયેલ ટૅબ્સ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "છેલ્લે બંધ થયેલ વિન્ડો">
 
 <!ENTITY appMenuHistory.showAll.label "બધા ઇતિહાસને બતાવો">
+
 <!ENTITY appMenuHistory.clearRecent.label "તાજેતરનાં ઇતિહાસને સાફ કરો…">
 <!ENTITY appMenuHistory.restoreSession.label "પહેલાનાં સત્રને પુન:સંગ્રહો">
 <!ENTITY appMenuHistory.viewSidebar.label "ઇતિહાસ બાજુપટ્ટીને જુઓ">
 <!ENTITY appMenuHistory.recentHistory.label "છેલ્લો ઇતિહાસ">
+
 <!ENTITY appMenuHelp.label "મદદ">
 
 <!ENTITY appMenuRemoteTabs.label "સમન્વિત કરેલા ટૅબ્સ">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "કોઈ ખુલ્લા ટૅબ્સ નથી">

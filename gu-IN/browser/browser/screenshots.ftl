@@ -5,6 +5,7 @@
 screenshots-context-menu = સ્ક્રીનશૉટ લેવા
 
 screenshots-my-shots-button = મારા શોટ્સ
+
 screenshots-instructions = ખેંચો અથવા એક પ્રદેશ પસંદ કરવા માટે પાનાં પર ક્લિક કરો. રદ કરવા માટે ESC દબાવો.
 screenshots-cancel-button = રદ
 screenshots-save-visible-button = દૃશ્યમાન સાચવો
