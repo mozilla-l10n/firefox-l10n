@@ -8,10 +8,6 @@
 remove-address-row-type = Eliminar el campo { $type }
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Eliminar el campo { $type }
-
-#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label = { $count ->
     [0]     { $type }
@@ -42,6 +38,8 @@ pill-action-move-bcc =
     .label = Ir al campo Bcc
     .accesskey = b
 
+# Attachment widget
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value = { $count ->
@@ -61,6 +59,17 @@ attachments-placeholder-tooltip =
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
 
+# Reorder Attachment Panel
+
 button-return-receipt =
     .label = Recibo
     .tooltiptext = Solicitar un recibo de respuesta de este mensaje
+
+# Addressing Area
+
+## Notifications
+
+## Editing
+
+# Tools
+

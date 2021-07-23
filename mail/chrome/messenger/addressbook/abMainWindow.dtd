@@ -95,9 +95,6 @@
 <!ENTITY messengerCmd.label "Correo y noticias">
 <!ENTITY messengerCmd.accesskey "o">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY addressBookCmd.label "Libreta de direcciones">
-<!ENTITY addressBookCmd.accesskey "L">
-<!ENTITY addressBookCmd.key "B">
 <!ENTITY searchAddressesCmd.label "Buscar direcciones…">
 <!ENTITY searchAddressesCmd.accesskey "S">
 <!ENTITY importCmd.label "Importar…">
@@ -185,6 +182,7 @@
 <!ENTITY _PhoneticName.label "Nombre fonético">
 <!ENTITY _PhoneticName.accesskey "o">
 
+<!-- Card Summary Pane -->
 <!-- Card Summary Pane -->
 <!ENTITY contact.heading "Contacto">
 <!ENTITY home.heading "Inicio">

@@ -17,13 +17,14 @@ otr-log =
     .label = Incluir mensajes cifrados OTR en los registros de conversaciones
 otr-requireEncryption =
     .label = Requerir cifrado extremo-a-extremo para conversaciones uno-a-uno
+otr-verifyNudge =
+    .label = Recordarme siempre verificar los contactos no verificados
+
+otr-notYetAvailable = aún no disponible
+
 otr-require-encryption-info =
     Al requerir cifrado de extremo a extremo, los mensajes en conversaciones
     uno a uno no se enviarán a menos que puedan ser cifrados. Los mensajes
     recibidos no cifrados no se mostrarán como parte de la conversación normal
     ni tampoco serán registrados.
-otr-verifyNudge =
-    .label = Recordarme siempre verificar los contactos no verificados
-
-otr-notYetAvailable = aún no disponible
 

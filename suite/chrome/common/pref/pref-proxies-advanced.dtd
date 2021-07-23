@@ -17,6 +17,7 @@
 <!ENTITY HTTPPort.accesskey "P">
 <!ENTITY SSLPort.accesskey "o">
 <!ENTITY FTPPort.accesskey "r">
+
 <!ENTITY socks.caption "Proxy genérico">
 <!ENTITY socks.description "Un proxy SOCKS es un proxy genérico usado a veces en entornos corporativos y similares.">
 <!ENTITY socks.label "Proxy SOCKS:">

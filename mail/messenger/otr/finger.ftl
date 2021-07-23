@@ -10,6 +10,7 @@ finger-intro = Huellas de claves OTR de conversaciones cifradas extremo-a-extrem
 
 finger-screenName =
     .label = Contacto
+
 finger-verified =
     .label = Estado de verificación
 finger-fingerprint =

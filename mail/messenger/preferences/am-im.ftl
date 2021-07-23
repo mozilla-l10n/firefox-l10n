@@ -4,3 +4,4 @@
 
 account-settingsTitle = Configuración de identificación
 account-channelTitle = Canales predeterminados
+

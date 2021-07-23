@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY msgComposeWindow.title "Redacción: (sin asunto)">
+
 <!ENTITY fromAddr.label "De:">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY toAddr.label "Para:">
@@ -15,6 +16,9 @@
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachments.label "Adjuntos:">
 <!ENTITY attachments.accesskey "j">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
 <!ENTITY saveCmd.label "Guardar">
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Guardar como">
@@ -39,24 +43,31 @@
 <!ENTITY sendLaterCmd.label "Enviar más tarde">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "t">
+
 <!ENTITY editRewrapCmd.label "Reajuste de línea">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "j">
+
 <!ENTITY accountManagerCmd.label "Configuración de cuentas de Correo y noticias…">
 <!ENTITY accountManagerCmd.accesskey "n">
+
 <!ENTITY showComposeToolbarCmd.label "Barra de herramientas de correo">
 <!ENTITY showComposeToolbarCmd.accesskey "c">
 <!ENTITY showFormatToolbarCmd.label "Barra de herramientas de formato">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
+
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "o">
+
 <!ENTITY optionsMenu.label "Opciones">
 <!ENTITY optionsMenu.accesskey "p">
+
 <!ENTITY quoteCmd.label "Citar mensaje">
 <!ENTITY quoteCmd.accesskey "m">
 <!ENTITY selectAddressCmd.label "Seleccionar direcciones…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "A">
+
 <!ENTITY priorityMenu.label "Prioridad">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY lowestPriorityCmd.label "La menor">
@@ -69,10 +80,12 @@
 <!ENTITY highPriorityCmd.accesskey "A">
 <!ENTITY highestPriorityCmd.label "La mayor">
 <!ENTITY highestPriorityCmd.accesskey "y">
+
 <!ENTITY returnReceiptMenu.label "Acuse de recibo">
 <!ENTITY returnReceiptMenu.accesskey "D">
 <!ENTITY dsnMenu.label "Notificación de estado de entrega">
 <!ENTITY dsnMenu.accesskey "N">
+
 <!ENTITY outputFormatMenu.label "Formato">
 <!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "Autodetectar">
@@ -83,15 +96,20 @@
 <!ENTITY htmlFormatCmd.accesskey "r">
 <!ENTITY bothFormatCmd.label "Texto simple y texto enriquecido (HTML)">
 <!ENTITY bothFormatCmd.accesskey "l">
+
 <!ENTITY fileCarbonCopyCmd.label "Enviar una copia a">
 <!ENTITY fileCarbonCopyCmd.accesskey "v">
 <!ENTITY fileHereMenu.label "Archivar aquí">
+
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!ENTITY sendButton.label "Enviar">
 <!ENTITY addressButton.label "Direcciones">
 <!ENTITY attachButton.label "Adjuntar">
 <!ENTITY spellingButton.label "Ortografía">
 <!ENTITY saveButton.label "Guardar">
 <!ENTITY stopButton.label "Detener">
+
+<!--tooltips-->
 <!ENTITY addressBar.tooltip "Barra de direcciones">
 <!ENTITY formatToolbar.tooltip "Barra de herramientas de formato">
 <!ENTITY sendButton.tooltip "Enviar este mensaje ahora">
@@ -100,6 +118,7 @@
 <!ENTITY attachButton.tooltip "Adjuntar un archivo a este mensaje">
 <!ENTITY saveButton.tooltip "Guardar este mensaje">
 <!ENTITY stopButton.tooltip "Detener la transferencia actual">
+
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Renombrar…">

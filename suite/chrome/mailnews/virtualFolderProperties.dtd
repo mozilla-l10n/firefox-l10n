@@ -7,10 +7,13 @@
 <!ENTITY name.accesskey "N">
 <!ENTITY description.label "Crear como subcarpeta de:">
 <!ENTITY description.accesskey "C">
+
 <!ENTITY searchTermCaption.label "Configurar los criterios de búsqueda usados en esta carpeta virtual: ">
+
 <!ENTITY folderSelectionCaption.label "Seleccione las carpetas a buscar: ">
 <!ENTITY chooseFoldersButton.label "Elegir…">
 <!ENTITY chooseFoldersButton.accesskey "g">
+
 <!ENTITY searchOnline.label "Buscar en línea (devuelve resultados actualizados en carpetas IMAP y de grupos de noticias, pero aumenta el tiempo para abrir la carpeta)">
 <!ENTITY searchOnline.accesskey "B">
 <!ENTITY newFolderButton.label "Crear">

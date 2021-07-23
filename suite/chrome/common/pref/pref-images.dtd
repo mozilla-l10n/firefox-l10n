@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.images.title "Imágenes">
+
 <!ENTITY imageBlocking.label "Política de aceptación de imágenes">
+
 <!ENTITY imageDetails "Especifica cómo maneja &brandShortName; las imágenes.">
+
 <!ENTITY loadAllImagesRadio.label "Cargar todas las imágenes">
 <!ENTITY loadAllImagesRadio.accesskey "C">
 <!ENTITY loadOrgImagesRadio.label "Cargar sólo las imágenes que provengan del servidor originario">

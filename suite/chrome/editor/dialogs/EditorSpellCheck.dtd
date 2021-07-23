@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Revisar ortografía">
+
 <!ENTITY misspelledWord.label "Palabra mal escrita:">
 <!ENTITY wordEditField.label "Reemplazar con:">
 <!ENTITY wordEditField.accessKey "z">

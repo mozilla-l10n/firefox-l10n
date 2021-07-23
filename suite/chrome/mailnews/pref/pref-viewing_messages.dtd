@@ -29,6 +29,7 @@
 <!ENTITY markAsReadAfter.label "Sólo tras ser mostrado durante">
 <!ENTITY markAsReadAfter.accesskey "u">
 <!ENTITY secondsLabel.label "segundos">
+
 <!ENTITY openingMessages.label "Al abrir mensajes, mostrarlos en:">
 <!ENTITY newWindowRadio.label "Una ventana mens. nueva">
 <!ENTITY newWindowRadio.accesskey "n">

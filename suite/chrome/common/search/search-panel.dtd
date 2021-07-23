@@ -4,4 +4,5 @@
 
 <!ENTITY search.button.label "Buscar">
 <!ENTITY search.placeholder "Introduzca texto a buscar">
+
 <!ENTITY search.engineManager.label "Administrar buscadores…">

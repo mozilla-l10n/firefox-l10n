@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Vale, entendido
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Gestione sus complementos haciendo clic <image data-l10n-name='addon-install-icon'></image> en el menú <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Actualización disponible
     .buttonlabel = Descargar
@@ -71,14 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ahora no
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Hay una nueva actualización de { -brand-shorter-name } disponible, pero no se puede instalar porque se está ejecutando otra copia de { -brand-shorter-name }. Ciérrela para continuar con la actualización o elija actualizar de todas formas (es posible que la otra copia no funcione correctamente hasta que la reinicie).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Aceptar
     .buttonaccesskey = A
-appmenu-addon-post-install-message2 = Administre sus extensiones y temas a través del menú de aplicaciones.
 appmenu-addon-post-install-message3 = Administre sus complementos y temas desde el menú de la aplicación.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir que esta extensión se ejecute en ventanas privadas
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = Su pestaña nueva ha cambiado.
     .buttonlabel = Conservar cambios
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = C
     .secondarybuttonlabel = Desactivar extensión
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = Tu página de nueva pestaña ha cambiado.
     .buttonlabel = Mantener los cambios
