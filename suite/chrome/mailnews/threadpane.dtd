@@ -21,6 +21,7 @@
 <!ENTITY flagColumn.label "Сцяжок">
 <!ENTITY locationColumn.label "Месцазнаходжанне">
 <!ENTITY idColumn.label "У парадку атрымання">
+
 <!ENTITY columnChooser2.tooltip "Вылучыць слупкі для адлюстравання">
 <!ENTITY threadColumn2.tooltip "Паказваць нізкі лістоў">
 <!ENTITY fromColumn2.tooltip "Размеркаваць па адпраўнікам">

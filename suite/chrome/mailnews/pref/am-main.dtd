@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-main.xul -->
+
 <!ENTITY accountTitle.label "Наладжванні рахунку">
 <!ENTITY accountName.label "Назва рахунку:">
 <!ENTITY accountName.accesskey "Н">
@@ -28,8 +30,11 @@
 <!ENTITY editVCard.accesskey "К">
 <!ENTITY attachVCard.label "Далучаць маю vCard да лістоў">
 <!ENTITY attachVCard.accesskey "v">
+
 <!ENTITY manageIdentities.label "Кіраваць адметамі…">
 <!ENTITY manageIdentities.accesskey "а">
+
 <!ENTITY smtpName.label "Выходны паслугач (SMTP):">
 <!ENTITY smtpName.accesskey "В">
 <!ENTITY smtpDefaultServer.label "Ужываць змоўчны паслугач:">
+

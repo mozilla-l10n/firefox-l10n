@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
+
 <!ENTITY pref.mouseWheel.title "Кола мышы">
 <!ENTITY mouseWheelPanel.label "Вызначыць паводзіны кола мышы, калі яна выкарыстоўваецца з змяняльнай клавішай:">
 <!ENTITY usingJustTheWheel.label "Без змяняльнай клавішы">
-<!ENTITY usingWheelAndAlt.label "&altKey.label;">
-<!ENTITY usingWheelAndCtrl.label "&ctrlKey.label;">
-<!ENTITY usingWheelAndShft.label "&shiftKey.label;">
 <!ENTITY mouseWheelGroup.label "Вертыкальнае пракручванне">
 <!ENTITY mouseWheelHorizGroup.label "Гарызантальнае пракручванне">
 <!ENTITY sameAsVertical.label "Як і вертыкальнае пракручванне">

@@ -7,6 +7,7 @@
 <!ENTITY publishTab.label "Публікаванне">
 <!ENTITY settingsTab.label "Наладжванні">
 <!ENTITY publishButton.label "Публікаванне">
+
 <!ENTITY siteList.label "Назва пляцоўкі:">
 <!ENTITY siteList.accesskey "Н">
 <!ENTITY siteList.tooltip "Выберыце пляцоўку, дзе вы хочаце публікаваць">
@@ -37,6 +38,7 @@
 <!ENTITY setDefaultButton.accesskey "з">
 <!ENTITY removeButton.label "Выдаліць пляцоўку">
 <!ENTITY removeButton.accesskey "В">
+
 <!ENTITY publishSites.label "Пляцоўкі публікавання">
 <!ENTITY serverInfo.label "Звесткі аб паслугачы">
 <!ENTITY loginInfo.label "Уваходныя звесткі">

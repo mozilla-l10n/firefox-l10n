@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Уставіць без фарматавання">
 <!ENTITY pasteNoFormatting.accesskey "б">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Уставіць як">
-<!ENTITY pasteAs.accesskey "Я">
 <!ENTITY pasteAsQuotationCmd.label "Уставіць як вытрымку">
 <!ENTITY pasteAsQuotationCmd.accesskey "в">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -288,8 +286,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Выразаць">
 <!ENTITY copyToolbarCmd.tooltip "Капіяваць">
 <!ENTITY pasteToolbarCmd.tooltip "Уставіць">
-<!ENTITY printToolbarCmd.label "Друкаваць">
-<!ENTITY printToolbarCmd.tooltip "Надрукаваць гэтую старонку">
 <!ENTITY findToolbarCmd.label "Знайсці">
 <!ENTITY findToolbarCmd.tooltip "Знайсці тэкст на старонцы">
 <!ENTITY spellToolbarCmd.label "Правапіс">
@@ -306,7 +302,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Уставіць новы іменаваны якар або рэдагаваць уласцівасці вылучанага якара ">
 <!ENTITY TextColorButton.tooltip "Выбраць колер тэксту">
 <!ENTITY BackgroundColorButton.tooltip "Выбраць колер фону">
-<!ENTITY throbber.tooltip "Наведаць хатнюю старонку &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Выбраць колер падфарбоўкі для тэксту">
 
 <!-- Editor toolbar -->

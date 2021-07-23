@@ -18,6 +18,7 @@
 <!ENTITY enablePersonalized.label "Прыасобіць парады дадаткаў">
 <!ENTITY enablePersonalized.accesskey "р">
 <!ENTITY addonManagerLink.label "Кіраваць дадаткамі">
+
 <!ENTITY appUpdates.caption "&brandShortName;">
 <!ENTITY autoAppUpdates.label "Самастойна правяраць, ці існуюць абнаўленні">
 <!ENTITY autoAppUpdates.accesskey "в">
@@ -25,7 +26,5 @@
 <!ENTITY appWeekly.accesskey "т">
 <!ENTITY appModeAutomatic.label "Самастойна сцягваць і ўсталёўваць абнаўленне">
 <!ENTITY appModeAutomatic.accesskey "ц">
-<!ENTITY appModeAutoAddonWarn.label "Папярэджваць мяне, калі ў выніку забараняцца мае дадаткі">
-<!ENTITY appModeAutoAddonWarn.accesskey "я">
 <!ENTITY updateHistoryButton.label "Паказаць гісторыю абнаўленняў…">
 <!ENTITY updateHistoryButton.accesskey "г">

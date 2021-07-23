@@ -10,9 +10,12 @@
 <!ENTITY managedevices.text "Скарыстайце гэтую кнопку, каб кіраваць вашымі збудовамі бяспекі, такімі як кемныя карткі.">
 <!ENTITY managedevices.button "Кіраваць збудовамі бяспекі…">
 <!ENTITY managedevices.accesskey "Б">
+
 <!ENTITY ssl.label "SSL">
+
 <!ENTITY pref.certs.title "Пасведчанні">
 <!ENTITY certs.label "Пасведчанні">
+
 <!ENTITY validation.ocsp.caption "СПСП">
 <!ENTITY enableOCSP.label "Ужываць Сеткавы Пратакол Стану Пасведчанняў (СПСП), каб пацвярджаць гэтачасовую сапраўднасць пасведчанняў">
 <!ENTITY enableOCSP.accesskey "У">

@@ -6,7 +6,10 @@
 <!ENTITY zoomEnlargeCmd.accesskey "Б">
 <!ENTITY zoomEnlargeCmd.commandkey "+">
 <!ENTITY zoomEnlargeCmd.commandkey2 "=">
+<!-- + is above this key on many keyboards -->
+
 <!ENTITY zoomReduceCmd.label "Меншы">
 <!ENTITY zoomReduceCmd.accesskey "М">
 <!ENTITY zoomReduceCmd.commandkey "-">
+
 <!ENTITY zoomResetCmd.commandkey "0">

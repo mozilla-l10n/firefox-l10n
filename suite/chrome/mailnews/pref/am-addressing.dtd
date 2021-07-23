@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-addressing.xul -->
+
 <!ENTITY addressing.label "Укладанне і адрасаванне">
 <!ENTITY addressingGroupTitle.label "Адрасаванне">
 <!ENTITY autocompleteToMyDomain.label "Самастойна дадаваць мой дамен у адрасы">
@@ -14,13 +16,14 @@
 <!ENTITY directories.label "Карыстацца іншым паслугачом LDAP:">
 <!ENTITY directories.accesskey "і">
 <!ENTITY directoriesNone.label "Няма">
+
+<!-- am-addressing.xul -->
+
 <!ENTITY compositionGroupTitle.label "Укладанне">
 <!ENTITY useHtml.label "Укладаць лісты ў фармаце HTML">
 <!ENTITY useHtml.accesskey "У">
 <!ENTITY autoQuote.label "Самастойна цытаваць першапачатковы ліст у адказе">
 <!ENTITY autoQuote.accesskey "С">
-<!ENTITY then.label "Тады">
-<!ENTITY then.accesskey "Т">
 <!ENTITY aboveQuote.label "пачаць мой адказ над вытрымкаю">
 <!ENTITY belowQuote.label "пачаць мой адказ пад вытрымкаю">
 <!ENTITY selectAndQuote.label "вылучыць вытрымку">
@@ -32,7 +35,9 @@
 <!ENTITY includeSigOnReply.accesskey "а">
 <!ENTITY includeSigOnForward.label "Уключаць подпіс у перанакіраванні">
 <!ENTITY includeSigOnForward.accesskey "к">
+
 <!ENTITY globalComposingPrefs.label "Агульныя перавагі ўкладання…">
 <!ENTITY globalComposingPrefs.accesskey "ў">
+
 <!ENTITY globalAddressingPrefs.label "Агульныя перавагі адрасавання…">
 <!ENTITY globalAddressingPrefs.accesskey "а">

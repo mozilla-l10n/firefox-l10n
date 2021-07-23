@@ -2,6 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE the following declarations were copied from
+     mozilla/toolkit/locales/en-US/chrome/global/about.dtd which was removed
+     by bug 1408044. -->
+
+<!-- LOCALIZATION NOTE end of declarations that were copied from
+     mozilla/toolkit/locales/en-US/chrome/global/about.dtd -->
+
 <!ENTITY channel.description.start "Зараз вы на ">
 <!ENTITY channel.description.end " канале абнаўленняў.">
 <!ENTITY about.userAgent "Дзеяч карыстальніка:">

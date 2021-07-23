@@ -28,12 +28,11 @@
 <!ENTITY HomePhone.accesskey "Х">
 <!ENTITY WorkPhone.label "Працоўны тэляфон">
 <!ENTITY WorkPhone.accesskey "П">
-<!ENTITY ScreenName.label "Экраннае імя">
-<!ENTITY ScreenName.accesskey "Э">
 <!ENTITY sortAscending.label "Узыходны">
 <!ENTITY sortAscending.accesskey "У">
 <!ENTITY sortDescending.label "Сыходны">
 <!ENTITY sortDescending.accesskey "С">
+
 <!ENTITY composeEmail.label "Укласці э-ліст да">
 <!ENTITY composeEmail.accesskey "У">
 <!ENTITY copyAddress.label "Капіяваць адрас э-пошты">

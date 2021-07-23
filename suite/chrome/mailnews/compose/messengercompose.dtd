@@ -3,12 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY msgComposeWindow.title "Укладанне: (без тэмы)">
+
 <!ENTITY fromAddr.label "Ад:">
 <!ENTITY fromAddr.accesskey "А">
 <!ENTITY subject.label "Тэма:">
 <!ENTITY subject.accesskey "Т">
 <!ENTITY attachments.label "Далучэнні:">
 <!ENTITY attachments.accesskey "ч">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
 <!ENTITY saveCmd.label "Захаваць">
 <!ENTITY saveCmd.accesskey "З">
 <!ENTITY saveAsCmd.label "Захаваць як">
@@ -33,24 +37,31 @@
 <!ENTITY sendLaterCmd.label "Даслаць пазней">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "П">
+
 <!ENTITY editRewrapCmd.label "Перазагінаць">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "г">
+
 <!ENTITY accountManagerCmd.label "Наладжванні рахунку Пошты і Навінакупаў…">
 <!ENTITY accountManagerCmd.accesskey "П">
+
 <!ENTITY showComposeToolbarCmd.label "Паліца прылад пошты">
 <!ENTITY showComposeToolbarCmd.accesskey "о">
 <!ENTITY showFormatToolbarCmd.label "Паліца прыладаў фарматавання">
 <!ENTITY showFormatToolbarCmd.accesskey "Ф">
+
 <!ENTITY formatMenu.label "Фармат">
 <!ENTITY formatMenu.accesskey "р">
+
 <!ENTITY optionsMenu.label "Наладжванні">
 <!ENTITY optionsMenu.accesskey "Н">
+
 <!ENTITY quoteCmd.label "Працытаваць ліст">
 <!ENTITY quoteCmd.accesskey "ц">
 <!ENTITY selectAddressCmd.label "Адрасаты…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "А">
+
 <!ENTITY priorityMenu.label "Прыярытэт">
 <!ENTITY priorityMenu.accesskey "П">
 <!ENTITY lowestPriorityCmd.label "Найніжэйшы">
@@ -63,10 +74,12 @@
 <!ENTITY highPriorityCmd.accesskey "с">
 <!ENTITY highestPriorityCmd.label "Найвышэйшы">
 <!ENTITY highestPriorityCmd.accesskey "в">
+
 <!ENTITY returnReceiptMenu.label "Квіток атрымання">
 <!ENTITY returnReceiptMenu.accesskey "т">
 <!ENTITY dsnMenu.label "Пацвярджэнне дастаўкі">
 <!ENTITY dsnMenu.accesskey "П">
+
 <!ENTITY outputFormatMenu.label "Фармат">
 <!ENTITY outputFormatMenu.accesskey "Ф">
 <!ENTITY autoFormatCmd.label "Сама-вызначэнне">
@@ -77,15 +90,20 @@
 <!ENTITY htmlFormatCmd.accesskey "з">
 <!ENTITY bothFormatCmd.label "Просты і аздоблены (HTML) тэкст">
 <!ENTITY bothFormatCmd.accesskey "і">
+
 <!ENTITY fileCarbonCopyCmd.label "Змясціць копію ў">
 <!ENTITY fileCarbonCopyCmd.accesskey "ь">
 <!ENTITY fileHereMenu.label "Пакласці тут">
+
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!ENTITY sendButton.label "Даслаць">
 <!ENTITY addressButton.label "Адрас">
 <!ENTITY attachButton.label "Далучыць">
 <!ENTITY spellingButton.label "Праверка правапісу">
 <!ENTITY saveButton.label "Захаваць">
 <!ENTITY stopButton.label "Спыніць">
+
+<!--tooltips-->
 <!ENTITY addressBar.tooltip "Адрасная паліца">
 <!ENTITY formatToolbar.tooltip "Паліца прылад фарматавання">
 <!ENTITY sendButton.tooltip "Даслаць гэты ліст зараз">
@@ -94,6 +112,7 @@
 <!ENTITY attachButton.tooltip "Уключыць далучэнне">
 <!ENTITY saveButton.tooltip "Захаваць гэты ліст">
 <!ENTITY stopButton.tooltip "Спыніць цяперашні перанос">
+
 <!ENTITY openAttachment.label "Адчыніць">
 <!ENTITY openAttachment.accesskey "А">
 <!ENTITY renameAttachment.label "Змяніць назву…">

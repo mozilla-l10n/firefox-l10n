@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Адкрыць меню">
+
 <!ENTITY navbarOverflow.label                "Іншыя прылады…">
 
 <!-- Tab context menu -->
@@ -145,19 +146,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "У">
 
 <!ENTITY historyMenu.label "Гісторыя">
+
 <!ENTITY historyUndoMenu.label "Нядаўна закрытыя карткі">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Нядаўна закрытыя вокны">
 
 <!ENTITY appMenuHistory.showAll.label "Паказаць усю гісторыю">
+
 <!ENTITY appMenuHistory.clearRecent.label "Ачысціць нядаўнюю гісторыю…">
 <!ENTITY appMenuHistory.restoreSession.label "Аднавіць папярэдні сеанс">
 <!ENTITY appMenuHistory.viewSidebar.label "Паказаць панэль гісторыі">
 <!ENTITY appMenuHistory.hideSidebar.label "Схаваць панэль гісторыі">
 <!ENTITY appMenuHistory.recentHistory.label "Нядаўняя гісторыя">
+
 <!ENTITY appMenuHelp.label "Даведка">
 
 <!ENTITY appMenuRemoteTabs.label "Сінхранізаваныя карткі">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Няма адкрытых картак">

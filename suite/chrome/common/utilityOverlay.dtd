@@ -4,6 +4,9 @@
 
 <!ENTITY offlineGoOfflineCmd.label "Праца па-за сеткай">
 <!ENTITY offlineGoOfflineCmd.accesskey "з">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "ф">
 <!ENTITY newMenu.label "Стварыць">
@@ -28,6 +31,7 @@
 <!ENTITY printCmd.label "Друкаваць…">
 <!ENTITY printCmd.accesskey "Д">
 <!ENTITY printCmd.key "P">
+
 <!ENTITY editMenu.label "Праўка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY undoCmd.label "Адмяніць">
@@ -47,6 +51,7 @@
 <!ENTITY pasteCmd.accesskey "у">
 <!ENTITY pasteGoCmd.label "Уставіць і пайсці">
 <!ENTITY pasteGoCmd.accesskey "п">
+
 <!ENTITY pasteSearchCmd.label "Уставіць і знайсці">
 <!ENTITY pasteSearchCmd.accesskey "У">
 <!ENTITY deleteCmd.label "Выдаліць">
@@ -77,14 +82,17 @@
 <!ENTITY findTypeTextCmd.accesskey "т">
 <!ENTITY findTypeLinksCmd.label "Знаходзіць спасылкі, якія вы набіраеце">
 <!ENTITY findTypeLinksCmd.accesskey "с">
+
 <!ENTITY viewMenu.label "Прагляд">
 <!ENTITY viewMenu.accesskey "г">
 <!ENTITY viewToolbarsMenu.label "Паказаць/Схаваць">
 <!ENTITY viewToolbarsMenu.accesskey "х">
 <!ENTITY showTaskbarCmd.label "Паліца з статусам">
 <!ENTITY showTaskbarCmd.accesskey "С">
+
 <!ENTITY helpMenu.label "Даведка">
 <!ENTITY helpMenu.accesskey "Д">
+
 <!ENTITY helpTroubleshootingInfo.label "Звесткі для вырашэння праблемаў">
 <!ENTITY helpTroubleshootingInfo.accesskey "З">
 <!ENTITY releaseCmd.label "Заўвагі аб выданні">
@@ -97,6 +105,7 @@
 <!ENTITY aboutCmd.accesskey "П">
 <!ENTITY aboutCommPluginsCmd.label "Пра ўбудовы">
 <!ENTITY aboutCommPluginsCmd.accesskey "Ў">
+
 <!ENTITY direct.label "У сетцы (пасярэднік: няма)">
 <!ENTITY direct.accesskey "н">
 <!ENTITY manual.label "У сетцы (пасярэднік: уручную)">
@@ -107,13 +116,17 @@
 <!ENTITY wpad.accesskey "с">
 <!ENTITY system.label "У сетцы (пасярэднік: ужываецца сістэмны пасярэднік).">
 <!ENTITY system.accesskey "с">
+
 <!ENTITY proxy.label "Наладка пасярэднікаў…">
 <!ENTITY proxy.accesskey "л">
+
 <!ENTITY bidiSwitchTextDirectionItem.label "Пераключыць кірунак тэксту">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "к">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+
 <!ENTITY customizeToolbarContext.label "Уладкаваць…">
 <!ENTITY customizeToolbarContext.accesskey "У">
+
 <!ENTITY customizeToolbar.toolbarmode.label "Наладжванні гэтай прыладапаліцы">
 <!ENTITY customizeToolbar.toolbarmode.accesskey "л">
 <!ENTITY customizeToolbar.iconsAndText.label "Значкі і тэкст">
@@ -128,9 +141,11 @@
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "б">
 <!ENTITY customizeToolbar.useDefault.label "Аднавіць змоўчныя">
 <!ENTITY customizeToolbar.useDefault.accesskey "А">
+
 <!ENTITY allowPopups.accesskey "в">
 <!ENTITY showPopupManager.label "Кіраваць вынырцамі">
 <!ENTITY showPopupManager.accesskey "К">
 <!ENTITY dontShowMessage.label "Не паказваць гэтае паведамленне, калі вынырцы затрымліваюцца">
 <!ENTITY dontShowMessage.accesskey "Н">
+
 <!ENTITY syncToolbarButton.label "Sync">

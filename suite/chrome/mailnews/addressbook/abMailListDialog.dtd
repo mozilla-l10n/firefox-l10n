@@ -3,12 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY mailListWindow.title "Адрасны спіс">
+
 <!ENTITY addToAddressBook.label "Дадаць да:">
-<!ENTITY ListName.label "Назва спіса:">
-<!ENTITY ListNickName.label "Мянушка спіса:">
-<!ENTITY ListDescription.label "Апісанне:">
-<!ENTITY AddressTitle.label "Набярыце адрасы э-пошты, каб дадаць іх у адрасны спіс:">
 <!ENTITY addToAddressBook.accesskey "Д">
+<!ENTITY ListName.label "Назва спіса:">
 <!ENTITY ListName.accesskey "С">
+<!ENTITY ListNickName.label "Мянушка спіса:">
 <!ENTITY ListNickName.accesskey "М">
+<!ENTITY ListDescription.label "Апісанне:">
 <!ENTITY ListDescription.accesskey "А">
+<!ENTITY AddressTitle.label "Набярыце адрасы э-пошты, каб дадаць іх у адрасны спіс:">

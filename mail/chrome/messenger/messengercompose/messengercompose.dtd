@@ -235,6 +235,7 @@
 <!ENTITY printButton.tooltip "Надрукаваць гэты ліст">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "А">
 <!ENTITY subject.accesskey "Т">
 

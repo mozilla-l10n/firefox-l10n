@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Уласцівасці тэкставага абсягу">
+
 <!ENTITY Settings.label "Наладжванні">
+
 <!ENTITY TextAreaName.label "Назва поля:">
 <!ENTITY TextAreaName.accessKey "Н">
 <!ENTITY TextAreaRows.label "Радкоў:">
@@ -20,6 +22,7 @@
 <!ENTITY TextAreaAccessKey.accessKey "К">
 <!ENTITY InitialText.label "Пачатковы тэкст:">
 <!ENTITY InitialText.accessKey "П">
+
 <!ENTITY TextAreaWrap.label "Рэжым загінання:">
 <!ENTITY TextAreaWrap.accessKey "г">
 <!ENTITY WrapDefault.value "Змоўчны">

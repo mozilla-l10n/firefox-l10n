@@ -4,11 +4,15 @@
 
 third-party-page-title = Інфармацыя пра модулі іншых вытворцаў
 third-party-section-title = Спіс старонніх модуляў у { -brand-short-name }
+
 third-party-intro = На гэтай старонцы паказаны модулі іншых вытворцаў, якія былі дададзены ў ваш { -brand-short-name }. Любы модуль, які не падпісаны Microsoft або { -vendor-short-name }, лічыцца староннім.
+
 third-party-header-module-list = Спіс модуляў
 third-party-header-loading-events = Загрузка падзей
+
 third-party-message-empty = Модулі іншых вытворцаў не выяўлены.
 third-party-message-no-duration = Не запісана
+
 third-party-detail-version = Версія файла
 third-party-detail-vendor = Інфармацыя пра вытворцу
 third-party-detail-occurrences = Уваходжанні
@@ -17,9 +21,11 @@ third-party-detail-duration = Сярэдні час блакавання (мс)
     .title = Колькі часу гэты модуль блакаваў праграму.
 third-party-detail-app = Праграма
 third-party-detail-publisher = Выдавец
+
 third-party-th-process = Працэс
 third-party-th-duration = Працягласць загрузкі (мс)
 third-party-th-status = Стан
+
 third-party-tag-ime = IME
     .title = Гэты тып модуляў загружаецца, калі вы карыстаецеся IME ад трэцяга боку.
 third-party-tag-shellex = Пашырэнне абалонкі
@@ -30,9 +36,11 @@ third-party-unsigned-icon =
     .title = Гэты модуль не падпісаны
 third-party-warning-icon =
     .title = { -brand-short-name } зведаў крах ў кодзе з гэтага модуля
+
 third-party-status-loaded = Загружаны
 third-party-status-blocked = Заблакаваны
 third-party-status-redirected = Перанакіраваны
+
 third-party-button-copy-to-clipboard = Скапіяваць сырыя дадзеныя ў буфер абмену
 third-party-button-reload = Перазагрузіць з сістэмнай інфармацыяй
     .title = Перазагрузіць з інфармацыяй пра сістэму

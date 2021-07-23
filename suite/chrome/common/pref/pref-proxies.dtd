@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from content/pref-proxies.xul -->
+
 <!ENTITY pref.proxies.title "Пасярэднікі">
 <!ENTITY pref.proxies.desc "Пасярэднік – гэта сеткавая служба, якая можа сітаваць і паскараць ваша злучэнне з Інтэрнэтам.">
 <!ENTITY proxyTitle.label "Наладка пасярэднікаў дзеля доступу ў Інтэрнэт">

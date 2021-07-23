@@ -5,10 +5,20 @@
 <!ENTITY Contact.tab "Сувязь">
 <!ENTITY Contact.accesskey "С">
 <!ENTITY Name.box "Імя">
+
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
 <!ENTITY NameField1.id "LastName">
 <!ENTITY NameField2.id "FirstName">
 <!ENTITY PhoneticField1.id "PhoneticLastName">
 <!ENTITY PhoneticField2.id "PhoneticFirstName">
+
 <!ENTITY NameField1.label "Імя:">
 <!ENTITY NameField1.accesskey "І">
 <!ENTITY NameField2.label "Прозвішча:">
@@ -18,9 +28,9 @@
 <!ENTITY DisplayName.label "Адлюстроўваць як:">
 <!ENTITY DisplayName.accesskey "Я">
 <!ENTITY preferDisplayName.label "Заўсёды аддаваць перавагу адлюстроўнаму імя перад загалоўкам ліста">
-<!ENTITY preferDisplayName.accesskey "З">
 <!ENTITY NickName.label "Мянушка:">
 <!ENTITY NickName.accesskey "М">
+
 <!ENTITY PrimaryEmail.label "Э-Пошта:">
 <!ENTITY PrimaryEmail.accesskey "Э">
 <!ENTITY SecondEmail.label "Дадатковая Э-Пошта:">
@@ -30,15 +40,7 @@
 <!ENTITY PlainText.label "Просты тэкст">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Невядома">
-<!ENTITY ScreenName.label "Экраннае імя:">
-<!ENTITY ScreenName.accesskey "я">
-<!ENTITY allowRemoteContent1.label "Дазволіць адлеглае змесціва.">
-<!ENTITY allowRemoteContent1.accesskey "д">
-<!ENTITY allowRemoteContent1.tooltip "Лісты ў фармаце HTML могуць змяшчаць
-змесціва з адлеглых крыніцаў. Адкрыццё такіх лістоў выкліча
-ўсталяванне злучэння з гэтымі вонкавымі крыніцамі. Гэта дазваляе даведацца,
-што ліст быў прачытаны. Адзначэнне гэтай скрынкі дазваляе такое вонкавае
-ўбудаванае змесціва ў лістах HTML з гэтага адраса.">
+
 <!ENTITY WorkPhone.label "Працоўны:">
 <!ENTITY WorkPhone.accesskey "ц">
 <!ENTITY HomePhone.label "Хатні:">
@@ -49,6 +51,7 @@
 <!ENTITY PagerNumber.accesskey "Г">
 <!ENTITY CellularNumber.label "Мабільнік:">
 <!ENTITY CellularNumber.accesskey "б">
+
 <!ENTITY Home.tab "Асабістыя">
 <!ENTITY Home.accesskey "А">
 <!ENTITY HomeAddress.label "Адрас:">
@@ -72,6 +75,7 @@
 <!ENTITY Or.value "ці">
 <!ENTITY Age.placeholder "Узрост">
 <!ENTITY YearsOld.label "">
+
 <!ENTITY Work.tab "Працоўныя">
 <!ENTITY Work.accesskey "П">
 <!ENTITY JobTitle.label "Пасада:">
@@ -94,6 +98,7 @@
 <!ENTITY WorkCountry.accesskey "К">
 <!ENTITY WorkWebPage.label "Старонка Сеціва:">
 <!ENTITY WorkWebPage.accesskey "С">
+
 <!ENTITY Other.tab "Іншае">
 <!ENTITY Other.accesskey "ш">
 <!ENTITY Custom1.label "Іншае 1:">
@@ -106,6 +111,7 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Заўвагі:">
 <!ENTITY Notes.accesskey "З">
+
 <!ENTITY Photo.tab "Здымак">
 <!ENTITY Photo.accesskey "д">
 <!ENTITY PhotoDesc.label "Узяць адзін з наступных:">

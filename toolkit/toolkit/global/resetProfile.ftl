@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Аднавіць { -brand-short-name }
+
 refresh-profile-dialog-title = Аднавіць { -brand-short-name } да прадвызначаных налад?
 refresh-profile-dialog-button =
     .label = Аднавіць { -brand-short-name }

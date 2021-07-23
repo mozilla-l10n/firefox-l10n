@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Асабісты слоўнік">
+
 <!ENTITY wordEditField.label "Новае слова:">
 <!ENTITY wordEditField.accessKey "Н">
 <!ENTITY AddButton.label "Дадаць">
@@ -13,5 +14,6 @@
 <!ENTITY ReplaceButton.accessKey "З">
 <!ENTITY RemoveButton.label "Выдаліць">
 <!ENTITY RemoveButton.accessKey "д">
+
 <!ENTITY CloseButton.label "Закрыць">
 <!ENTITY CloseButton.accessKey "к">

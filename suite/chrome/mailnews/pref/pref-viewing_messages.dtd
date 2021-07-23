@@ -29,6 +29,7 @@
 <!ENTITY markAsReadAfter.label "Толькі пасля адлюстравання на працягу">
 <!ENTITY markAsReadAfter.accesskey "п">
 <!ENTITY secondsLabel.label "секундаў">
+
 <!ENTITY openingMessages.label "Калі лісты адчыняюцца, адлюстроўваць іх у:">
 <!ENTITY newWindowRadio.label "Новым акне лістоў">
 <!ENTITY newWindowRadio.accesskey "н">

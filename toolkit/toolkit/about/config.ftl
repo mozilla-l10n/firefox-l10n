@@ -14,11 +14,15 @@ about-config-intro-warning-button = Прыняць рызыку і працяг�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Змена гэтых параметраў можа паўплываць на прадукцыйнасць і бяспеку { -brand-short-name }.
+
 about-config-page-title = Пашыраныя налады
+
 about-config-search-input1 =
     .placeholder = Шукаць назву параметра
 about-config-show-all = Паказаць усе
+
 about-config-show-only-modified = Паказваць толькі змененыя параметры
+
 about-config-pref-add-button =
     .title = Дадаць
 about-config-pref-toggle-button =

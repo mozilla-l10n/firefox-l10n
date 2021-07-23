@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sanitizeDialog.title "Ачысціць асабістыя здаткі">
+
 <!ENTITY sanitizeItems.label "Ачысціць наступныя адзінкі зараз:">
+
 <!ENTITY itemHistory.label "Гісторыю азірання">
 <!ENTITY itemHistory.accesskey "а">
 <!ENTITY itemUrlBar.label "Гісторыю паліцы месцазнаходжання">
@@ -22,4 +24,5 @@
 <!ENTITY itemPasswords.accesskey "п">
 <!ENTITY itemSessions.label "Апазнаныя сэсіі">
 <!ENTITY itemSessions.accesskey "с">
+
 <!ENTITY sanitizeButton.label "Ачысціць асабістыя здаткі зараз">

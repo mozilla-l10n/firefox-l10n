@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Не зараз
     .secondarybuttonaccesskey = Н
 appmenu-update-restart-message = Пасля хуткага перазапуску { -brand-shorter-name } адновіць ўсе адкрытыя карткі і вокны, якія не былі адчынены ў рэжыме прыватнага аглядання.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Добра, зразумела
+    .buttonaccesskey = з
+appmenu-addon-post-install-message = Кіруйце вашымі дадаткамі, націснуўшы <image data-l10n-name='addon-install-icon'></image> у меню <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Даступна абнаўленне
     .buttonlabel = Сцягнуць
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Не зараз
     .secondarybuttonaccesskey = Н
 appmenu-update-other-instance-message = Даступна абнаўленне для { -brand-shorter-name }, але яго нельга ўсталяваць, бо запушчана іншая копія { -brand-shorter-name }. Закрыйце яе, каб працягнуць абнаўленне, або выберыце абнаўленне ў любым выпадку (іншая копія можа не працаваць належным чынам, пакуль вы не перазапусціце яе).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Добра, зразумела
-    .buttonaccesskey = з
-appmenu-addon-post-install-message = Кіруйце вашымі дадаткамі, націснуўшы <image data-l10n-name='addon-install-icon'></image> у меню <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Добра
     .buttonaccesskey = Д
-appmenu-addon-post-install-message2 = Кіруйце сваімі пашырэннямі і тэмамі праз меню праграмы.
 appmenu-addon-post-install-message3 = Кіруйце сваімі дадаткамі і тэмамі праз меню праграмы.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дазволіць гэтаму пашырэнню дзейнічаць у прыватных вокнах
     .accesskey = в
+    
 appmenu-new-tab-controlled =
     .label = Ваша новая картка была зменена.
     .buttonlabel = Замацаваць змены
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = З
     .secondarybuttonlabel = Адключыць пашырэнне
     .secondarybuttonaccesskey = А
+
 appmenu-new-tab-controlled-changes =
     .label = Ваша новая картка была зменена.
     .buttonlabel = Захаваць змены

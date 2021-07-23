@@ -2,21 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY SSLProtocolVersions.caption "Версіі пратаколаў SSL">
-<!ENTITY SSLWarnings.caption "Папярэджанні SSL">
 <!ENTITY SSLMixedContent.caption "Змешанае змесціва">
 <!ENTITY SSLClientAuthMethod.caption "Выбар пасведчання спажыўца">
-<!ENTITY pref.ssl.title "Слой бяспечных сокетаў (SSL)">
+
 <!ENTITY limit.description "Вы можаце абмежаваць выкарыстанне пратаколаў шыфравання, якія ўжываюцца для бяспечных злучэнняў. Выберыце адну версію або несупынны шэраг версіяў.">
 <!ENTITY limit.enable.label "Дазволена:">
-<!ENTITY limit.ssl30.label "SSL 3.0">
-<!ENTITY limit.ssl30.accesskey "3">
 <!ENTITY limit.tls10.label "TLS 1.0">
 <!ENTITY limit.tls10.accesskey "T">
 <!ENTITY limit.tls11.label "TLS 1.1">
 <!ENTITY limit.tls11.accesskey "1">
 <!ENTITY limit.tls12.label "TLS 1.2">
 <!ENTITY limit.tls12.accesskey "2">
+
 <!ENTITY warn.description2 "&brandShortName; можа папярэджваць вас пра стан бяспекі старонак, якія вы праглядваеце. Наладзіць &brandShortName; паказваць папярэджанне, калі:">
 <!ENTITY warn.enteringsecure "Загрузкай старонкі, якая падтрымлівае шыфраванне">
 <!ENTITY warn.enteringsecure.accesskey "З">
@@ -24,6 +21,7 @@
 <!ENTITY warn.insecurepost.accesskey "Д">
 <!ENTITY warn.leavingsecure "Пакіданнем старонкі, якая падтрымлівае шыфраванне">
 <!ENTITY warn.leavingsecure.accesskey "к">
+
 <!ENTITY mixed.description "Тайнапісныя старонкі могуць змяшчаць нетайнапіснае змесціва, прыступнае для падслухоўвання або падробкі. &brandShortName; можа выяўляць і блакаваць яго:">
 <!ENTITY warn.mixedactivecontent "Папярэджваць мяне, калі тайнапісная старонка ўтрымлівае небяспенае змесціва">
 <!ENTITY warn.mixedactivecontent.accesskey "П">
@@ -33,6 +31,7 @@
 <!ENTITY warn.mixeddisplaycontent.accesskey "а">
 <!ENTITY block.displaycontent "Не заружаць іншыя тыпы змешанага змесціва на тайнапісныя старонкі">
 <!ENTITY block.displaycontent.accesskey "м">
+
 <!ENTITY certselect.description "Вырашае, як &brandShortName; выбірае пасведчанне бяспекі для падання яго пляцоўкам сеціва, якія патрабуюць пасведчанне:">
 <!ENTITY certselect.auto "Выбірае самастойна">
 <!ENTITY certselect.auto.accesskey "с">

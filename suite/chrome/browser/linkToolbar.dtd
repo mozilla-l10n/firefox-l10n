@@ -5,19 +5,23 @@
 <!ENTITY linkToolbar.label "Прыладапаліца навігацыі">
 <!ENTITY linkToolbar.accesskey "а">
 <!ENTITY linkToolbar.tooltip "Прыладапаліца навігацыі">
+
 <!ENTITY linkToolbarAlways.label "Паказваць заўсёды">
 <!ENTITY linkToolbarAlways.accesskey "ў">
 <!ENTITY linkToolbarAsNeeded.label "Паказваць, калі патрэбна">
 <!ENTITY linkToolbarAsNeeded.accesskey "К">
 <!ENTITY linkToolbarNever.label "Хаваць заўсёды">
 <!ENTITY linkToolbarNever.accesskey "Х">
+
 <!ENTITY topButton.label "Верх">
 <!ENTITY upButton.label "Уверх">
 <!ENTITY firstButton.label "Першы">
 <!ENTITY prevButton.label "Папярэдні">
 <!ENTITY nextButton.label "Наступны">
 <!ENTITY lastButton.label "Апошні">
+
 <!ENTITY documentButton.label "Дакумент">
+
 <!ENTITY tocButton.label "Табліца з зместам">
 <!ENTITY chapterButton.label "Главы">
 <!ENTITY sectionButton.label "Раздзелы">
@@ -25,11 +29,17 @@
 <!ENTITY appendixButton.label "Дадаткі">
 <!ENTITY glossaryButton.label "Слоўнік">
 <!ENTITY indexButton.label "Паказальнік">
+
 <!ENTITY moreButton.label "Болей">
+
 <!ENTITY helpButton.label "Даведка">
 <!ENTITY searchButton.label "Пошук">
+
 <!ENTITY authorButton.label "Аўтар(ы)">
 <!ENTITY copyrightButton.label "Аўтарскае права">
+
 <!ENTITY bookmarkButton.label "Закладкі">
+
 <!ENTITY alternateButton.label "Іншыя версіі">
+
 <!ENTITY feedButton.label "Падпісацца">
