@@ -98,6 +98,8 @@ verify-email-signer =
 verify-email-recip =
     .value = Sarsifikaa jot bataaxal
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 add-exception-valid-short = Sarsifika bu dëggu

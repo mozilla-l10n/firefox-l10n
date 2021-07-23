@@ -47,6 +47,8 @@ permissions-invalid-uri-label = Dugalal tur bu jaadu
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Mën nga wone dalub web yi ñu may ñu ubbi ay palanteeru popup. Roofal màkaanu dal bi nga bëgg may te nga cuq ci may.

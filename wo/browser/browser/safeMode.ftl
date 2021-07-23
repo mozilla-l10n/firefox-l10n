@@ -7,4 +7,5 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Tambalil ci anam budul lajj
+
 safe-mode-description = Anam budul lajj anam bu beru la bu { -brand-short-name } mën nañu ko jariñoo ngir saafara yenn yi.

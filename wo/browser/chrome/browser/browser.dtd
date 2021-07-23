@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!ENTITY appmenu.tooltip                     "Ubbi njël li">
+
 <!ENTITY navbarOverflow.label                "Yeneeni jumtukaay...">
 
 <!-- Tab context menu -->
@@ -88,6 +89,7 @@ can reach it easily. -->
 
 
 <!ENTITY historyMenu.label "Jaar jaar">
+
 <!ENTITY historyUndoMenu.label "Koñ yi tëju leegi">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Palanteer yi ñu tëj léegi">

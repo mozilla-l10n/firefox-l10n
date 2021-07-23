@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Njumteg Camp
 opensearch-error-duplicate-desc = { -brand-short-name } jotul man a samp lawalug ceet ga ca “{ $location-url }” ndax am na seetukaay bu ne tudd bu fi nekk ba noppi.
+
 opensearch-error-format-title = Melokaanal gu Baaxul
 opensearch-error-format-desc = { -brand-short-name } jotul man a samp seetukaay ba ca: { $location-url }
+
 opensearch-error-download-title = Njumteg Yebbi
 opensearch-error-download-desc = { -brand-short-name } jotul man a yebbi seetukaay ba ca: { $location-url }
 

@@ -248,3 +248,7 @@ touch-warning = entrée tactile asynchrone désactivée en raison d’une préf�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

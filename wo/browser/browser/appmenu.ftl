@@ -24,6 +24,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Jàppanteel léegi
+
 appmenuitem-save-page =
     .label = Aar ci…
 
@@ -43,22 +44,12 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Ñeel { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = Xibaari dëng-dëng
-    .accesskey = T
 appmenu-help-feedback-page =
     .label = Joxe sa xalaat…
     .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Tambaliwaat te doxadil yokkéef yi …
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Tambaliwaat te doxal yokkéef yi…
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
