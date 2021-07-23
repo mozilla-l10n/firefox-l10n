@@ -103,6 +103,7 @@ print-window =
     .title = Prentin
 print-complete =
     .value = Prentin is Feenisht.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

@@ -8,13 +8,17 @@ all-tabs-menu-undo-close-tabs =
             [1] Undae Sneck Tab
            *[other] Undae Sneck Tabs
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Sairch Tabs
+
 all-tabs-menu-new-user-context =
     .label = New Conteener Tab
+
 all-tabs-menu-hidden-tabs =
     .label = Hidden Tabs
+
 all-tabs-menu-manage-user-context =
     .label = Manage Conteeners
     .accesskey = o

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fonts
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fonts fur
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arabic
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Size
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Size
     .accesskey = e
+
 fonts-minsize = Meenimum font size
     .accesskey = o
+
 fonts-minsize-none =
     .label = Nane
+
 fonts-allow-own =
     .label = Alloo pages tae wale their ain fonts, raither as yer walins abuin
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Text Encodin for Bygane Content
 fonts-languages-fallback-desc = This text encodin is yaised fur bygane content that disnae lat ken its encodin.
+
 fonts-languages-fallback-label = Fawback Text Encodin
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Staunart for Current Airtin
 fonts-languages-fallback-name-arabic =
@@ -138,6 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
 fonts-languages-fallback-name-other =
     .label = Ither (incl. Western European)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

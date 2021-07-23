@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Gie This a Shot: Peen Tab
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Whit fur am I seein this
+
 cfr-doorhanger-extension-cancel-button = No Jist Noo
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Eik On Noo
     .accesskey = E
 cfr-doorhanger-pintab-ok-button = Peen This Tab
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Manage Recommendation Settins
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = Dinnae Kythe This Recommendation
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Lairn mair
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = by { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recommendation
 cfr-doorhanger-extension-notification2 = Recommendation
     .tooltiptext = Extension recommendation
     .a11y-announcement = Extension recommendation redd
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recommendation
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } yaiser
        *[other] { $total } yaisers
     }
+
 cfr-doorhanger-pintab-description = Gang straicht tae yer maist-yaised sites. Keep sites open in a tab (even when ye restert).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Gang straicht tae yer maist-yaised sites. Ke
 cfr-doorhanger-pintab-step1 = <b>Richt-click</b> on the tab ye're wantin fur tae peen.
 cfr-doorhanger-pintab-step2 = Wale <b>Peen Tab</b> fae the menu.
 cfr-doorhanger-pintab-step3 = Gin the site has an update ye'll see a blue dot on yer peened tab.
+
 cfr-doorhanger-pintab-animation-pause = Pause
 cfr-doorhanger-pintab-animation-resume = Resume
+
 
 ## Firefox Accounts Message
 
@@ -89,20 +100,26 @@ cfr-protections-panel-link-text = Lairn mair
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = New featur:
+
 cfr-whatsnew-button =
     .label = Whit's New
     .tooltiptext = Whit's New
+
 cfr-whatsnew-panel-header = Whit's New
+
 cfr-whatsnew-release-notes-link-text = Read the roll-oot notes
+
 cfr-whatsnew-fx70-title = { -brand-short-name } noo fechts aw the mair for yer privacy.
 cfr-whatsnew-fx70-body =
     The latest update eiks-on tae the Trackin Bieldin featur and maks it
     even easier tae mak siccar passwirds for ilka site.
+
 cfr-whatsnew-tracking-protect-title = Bield yersel fae trackers
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } blocks a guid wheen o common social and cross-site trackers that
     follae whit ye're daein online.
 cfr-whatsnew-tracking-protect-link-text = View Yer Report
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -113,9 +130,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Syne { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = View Report
+
 cfr-whatsnew-lockwise-backup-title = Back up yer passwirds
 cfr-whatsnew-lockwise-backup-body = Noo mak siccar passwirds ye can get ingang tae oniewhaur ye sign in.
 cfr-whatsnew-lockwise-backup-link-text = Turn on backups
+
 cfr-whatsnew-lockwise-take-title = Tak yer passwirds wi ye
 cfr-whatsnew-lockwise-take-body =
     The { -lockwise-brand-short-name } mobile app lats ye hae siccar ingang tae yer
@@ -154,6 +173,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Fingirprenters blockit
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blocks a guid wheen o fingirprenters that sleekitly gaither information aboot yer device and ongauns fur tae mak an advertisin profile o ye.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingirprenters
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } can block fingirprenters that sleekitly gaither information aboot yer device and ongauns tae mak an advertisin profile o ye.
@@ -211,6 +231,7 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } blockit ower <b>{ $blockedCount }</b> trackers syne { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -244,12 +265,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Pictur-in-pictur icon
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Sneck
-    .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Bieldins at a scance
 cfr-whatsnew-protections-body = The Bieldins Dashbuird includes summary reports aboot data breaches and passwird management. Ye can noo track how monie breaches ye've sortit, and see gin onie o yer saved passwirds micht hae been makkit no siccar in a data breach.
 cfr-whatsnew-protections-cta-link = View Bieldins Dashbuird
@@ -259,6 +274,12 @@ cfr-whatsnew-protections-icon-alt = Shield icon
 
 cfr-whatsnew-better-pdf-header = Better PDF experience
 cfr-whatsnew-better-pdf-body = PDF documents noo open straicht intae { -brand-short-name }, keepin yer warkflow whaur ye can easy rax it.
+
+cfr-doorhanger-milestone-close-button = Sneck
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -280,35 +301,15 @@ cfr-doorhanger-fission-secondary-button = Lairn mair
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Automatic bieldin fae sleekit trackin ploys
-cfr-whatsnew-clear-cookies-body = Some trackers send ye on tae ither wabsites that sleekitly set cookies. { -brand-short-name } noo automatically dichts awa thae cookies sae ye cannae be follaed.
-cfr-whatsnew-clear-cookies-image-alt = Cookie blockit pictur
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Mair media controls
-cfr-whatsnew-media-keys-body = Pley and pause soond or video richt fae yer keybuird or heidset, makkit it easy tae control media fae anither tab, program, or even when yer computer is lockit. Forby, ye can muive atween tracks yaisin the forrit and back keys.
-cfr-whatsnew-media-keys-button = Lairn how
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Sairch shortcuts in the address baur
-cfr-whatsnew-search-shortcuts-body = Noo when ye type an airt-oot engine or specific site intae the address baur, a blue shortcut will kythe itsel in the airt-oot suggestions unnerneath. Wale thon shortcut fur tae feenish aff yer sairch straicht fae the address baur.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Bieldin fae uncannie supercookies
-cfr-whatsnew-supercookies-body = Wabsites can sleekitly eik on a "supercookie" tae yer wab-stravaiger that can follae ye aw ower the tab, even efter ye dicht yer cookies. { -brand-short-name } noo gies strang bieldin anent supercookies sae's they cannae be yaised fur tae track yer online ongauns fae ane site tae the neist.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Better buikmerkin
-cfr-whatsnew-bookmarking-body = It's easier tae keep on tap o yer favourite sites. { -brand-short-name } noo minds yer preferred airtin for saved buikmerks, kythes the buikmerks toolbaur as staunart on new tabs, and gies ye easy ingang tae the lave o yer buikmerks through a toolbaur folder.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Aw-oot bieldin fae cross-site cookie trackin
-cfr-whatsnew-cross-site-tracking-body = Ye can noo opt in tae better bieldin fae cookie trackin. { -brand-short-name } can isolate yer ongauns and data tae the site ye're on jist noo, sae's information stored in the wab-stravaiger isnae shared atween wabsites.
 
 ## Full Video Support CFR message
 

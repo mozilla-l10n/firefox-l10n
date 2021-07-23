@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Back
     .accesskey = B
+
 wizard-macos-button-next =
     .label = Haud Forrit
     .accesskey = H
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Neist >
     .accesskey = N
+
 wizard-macos-button-finish =
     .label = Duin
 wizard-linux-button-finish =
     .label = Feenish
 wizard-win-button-finish =
     .label = Feenish
+
 wizard-macos-button-cancel =
     .label = Stap
 wizard-linux-button-cancel =

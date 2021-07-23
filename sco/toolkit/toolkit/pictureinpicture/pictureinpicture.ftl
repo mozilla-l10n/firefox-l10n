@@ -3,15 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Pictur-in-Pictur
+
 pictureinpicture-pause =
     .aria-label = Pause
 pictureinpicture-play =
     .aria-label = Pley
+
 pictureinpicture-mute =
     .aria-label = Wheesht
 pictureinpicture-unmute =
     .aria-label = Unwheesht
+
 pictureinpicture-unpip =
     .aria-label = Send back tae tab
+
 pictureinpicture-close =
     .aria-label = Sneck
+

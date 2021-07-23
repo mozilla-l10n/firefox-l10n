@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = I ken whit I'm daein!
 config-about-warning-checkbox =
     .label = Kythe this warnin neist time
+
 config-search-prefs =
     .value = Sairch:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Copy
     .accesskey = C
+
 config-copy-name =
     .label = Copy Nemme
     .accesskey = N
+
 config-copy-value =
     .label = Copy Vailue
     .accesskey = V
+
 config-modify =
     .label = Chynge
     .accesskey = C
+
 config-toggle =
     .label = Toggle
     .accesskey = T
+
 config-reset =
     .label = Reset
     .accesskey = R
+
 config-new =
     .label = New
     .accesskey = w
+
 config-string =
     .label = String
     .accesskey = S
+
 config-integer =
     .label = Integer
     .accesskey = I
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = staunart
 config-modified = chynged
 config-locked = lockit
+
 config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
+
 config-new-prompt = Inpit the preference nemme
+
 config-nan-title = Vailue isnae suithfest
 config-nan-text = The text ye inpit isnae a nummer.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = New { $type } vailue
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Inpit { $type } vailue

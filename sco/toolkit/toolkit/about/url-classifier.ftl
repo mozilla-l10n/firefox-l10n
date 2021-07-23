@@ -11,6 +11,7 @@ url-classifier-provider-update-btn = Update
 url-classifier-cache-title = Cache
 url-classifier-cache-clear-btn = Dicht
 url-classifier-debug-title = Bugdicht
+
 url-classifier-not-available = N/A
 url-classifier-enabled = Enabled
 url-classifier-disabled = Disabled

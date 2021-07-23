@@ -3,14 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-insecure-title = Siccae Connection No Available
+
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-insecure-explanation-unavailable = Ye're stravaigin in HTTPS-Anely Mode, and a siccar HTTPS version o <em>{ $websiteUrl }</em> isnae available.
 about-httpsonly-insecure-explanation-reasons = Like as no, the wabsite disnae support HTTPS, but it could mebbe be that an ondinger is blockin the HTTPS version.
 about-httpsonly-insecure-explanation-exception = While the siccarness risk isnae muckle, gin ye decided tae veesit the HTTP version o the wabsite, ye shouldnae inpit onie sensitive information like passwirds, emails, or credit caird details.
+
 about-httpsonly-button-make-exception = Accept the Risk and Haud Forrit tae the Site
+
 about-httpsonly-title-alert = HTTPS-Anely Mode Alert
 about-httpsonly-title-connection-not-available = Siccar Connection No Available
+
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Ye’ve enabled HTTPS-Anely Mode fur augmentit siccarness, and a HTTPS version o <em>{ $websiteUrl }</em> isnae available.
@@ -18,6 +22,7 @@ about-httpsonly-explanation-question = Whit's gawin on here?
 about-httpsonly-explanation-nosupport = Like as no, the wabsite jist disnae support HTTPS.
 about-httpsonly-explanation-risk = It could be as weel that an ondinger is involved. Gin ye decide tae veesit the wabsite, ye shouldnae inpit ony sensitive information like passwirds, emails, or credit caird details.
 about-httpsonly-explanation-continue = Gin ye haud forrit, HTTPS-Anely Mode will be turnt aff for this site jist for the noo.
+
 about-httpsonly-button-continue-to-site = Haud Forrit tae HTTP Site
 about-httpsonly-button-go-back = Gang Back
 about-httpsonly-link-learn-more = Lairn Mair…

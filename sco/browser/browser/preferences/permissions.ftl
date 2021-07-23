@@ -5,65 +5,85 @@
 permissions-window =
     .title = Exceptions
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Address o wabsite
     .accesskey = d
+
 permissions-block =
     .label = Block
     .accesskey = B
+
 permissions-session =
     .label = Alloo fur Session
     .accesskey = S
+
 permissions-allow =
     .label = Alloo
     .accesskey = A
+
 permissions-button-off =
     .label = Turn Aff
     .accesskey = A
+
 permissions-button-off-temporarily =
     .label = Turn Aff Fur Noo
     .accesskey = T
+
 permissions-site-name =
     .label = Wabsite
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Remuive Wabsite
     .accesskey = R
+
 permissions-remove-all =
     .label = Remuive Aw Wabsites
     .accesskey = e
+
 permissions-button-cancel =
     .label = Stap
     .accesskey = S
+
 permissions-button-ok =
     .label = Save Chynges
     .accesskey = C
+
 permission-dialog =
     .buttonlabelaccept = Save Chynges
     .buttonaccesskeyaccept = C
+
 permissions-autoplay-menu = Staunart fur aw wabsites:
+
 permissions-searchbox =
     .placeholder = Sairch Wabsite
+
 permissions-capabilities-autoplay-allow =
     .label = Alloo Soond and Video
 permissions-capabilities-autoplay-block =
     .label = Block Soond
 permissions-capabilities-autoplay-blockall =
     .label = Block Soond and Video
+
 permissions-capabilities-allow =
     .label = Alloo
 permissions-capabilities-block =
     .label = Block
 permissions-capabilities-prompt =
     .label = Ayeweys Speir
+
 permissions-capabilities-listitem-allow =
     .value = Alloo
 permissions-capabilities-listitem-block =
     .value = Block
 permissions-capabilities-listitem-allow-session =
     .value = Alloo fur Session
+
 permissions-capabilities-listitem-off =
     .value = Aff
 permissions-capabilities-listitem-off-temporarily =

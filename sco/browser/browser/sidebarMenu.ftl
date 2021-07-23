@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Buikmerks
+
 sidebar-menu-history =
     .label = Historie
+
 sidebar-menu-synced-tabs =
     .label = Synced Tabs
+
 sidebar-menu-close =
     .label = Sneck Sidebaur

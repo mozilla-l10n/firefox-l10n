@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Copy
     .accesskey = C
+
 select-all =
     .key = A
 menu-select-all =
     .label = Wale Aw
     .accesskey = A
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = General
     .accesskey = G
@@ -39,6 +43,7 @@ general-meta-name =
     .label = Nemme
 general-meta-content =
     .label = Content
+
 media-tab =
     .label = Media
     .accesskey = M
@@ -66,11 +71,13 @@ media-save-as =
 media-save-image-as =
     .label = Save As…
     .accesskey = e
+
 perm-tab =
     .label = Permeesions
     .accesskey = P
 permissions-for =
     .value = Permeesions fur:
+
 security-tab =
     .label = Siccarness
     .accesskey = S
@@ -91,17 +98,22 @@ security-view-identity-validity =
     .value = Expires on:
 security-view-privacy =
     .value = Privacy & Historie
+
 security-view-privacy-history-value = Hae I been on this wabsite afore the day?
 security-view-privacy-sitedata-value = Is this wabsite storin information on ma computer?
+
 security-view-privacy-clearsitedata =
     .label = Dicht Cookies and Site Data
     .accesskey = C
+
 security-view-privacy-passwords-value = Hae I saved onie passwirds fur this wabsite?
+
 security-view-privacy-viewpasswords =
     .label = View Saved Passwirds
     .accesskey = w
 security-view-technical =
     .value = Technical Parteeculars
+
 help-button =
     .label = Hauners
 
@@ -113,6 +125,7 @@ help-button =
 
 security-site-data-cookies = Aye, cookies and { $value } { $unit } o site data
 security-site-data-only = Aye, { $value } { $unit } o site data
+
 security-site-data-cookies-only = Aye, cookies
 security-site-data-no = Naw
 
@@ -136,6 +149,7 @@ media-video = Video
 media-audio = Soond
 saved-passwords-yes = Aye
 saved-passwords-no = Naw
+
 no-page-title =
     .value = Page Wioot Title:
 general-quirks-mode =
@@ -150,6 +164,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Yaise Staunart
 security-no-visits = Naw
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -160,6 +175,7 @@ general-meta-tags =
             [one] Meta (1 tag)
            *[other] Meta ({ $tags } tags)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -170,6 +186,7 @@ security-visits-number =
         [one] Aye, aince
        *[other] Aye, { $visits } times
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -180,6 +197,7 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } byte)
            *[other] { $kb } KB ({ $bytes } bytes)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -191,12 +209,14 @@ media-animated-image-type =
             [one] { $type } Image (animatit, { $frames } frame)
            *[other] { $type } Image (animatit, { $frames } frames)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Image
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -206,17 +226,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (scaled tae { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -224,6 +247,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Block Images fae { $website }
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

@@ -13,6 +13,7 @@ enable-common-message = Firefox Developer Tools are disabled by default fur tae 
 enable-learn-more-link = Lairn mair aboot Forderer Tools
 enable-enable-button = Enable Forderer Tools
 enable-close-button = Sneck this Tab
+
 welcome-title = Walcome tae Firefox Developer Tools!
 newsletter-title = Mozilla Developer Newsletter
 newsletter-message = Get forderer news, tricks and resources sent richt tae yer inbox.
@@ -22,9 +23,11 @@ newsletter-privacy-label = I'm awricht wi Mozilla haunlin ma info as set oot in 
 newsletter-subscribe-button = Subscribe
 newsletter-thanks-title = Cheers!
 newsletter-thanks-message = Gin ye hivnae confirmed a subscription tae a Mozilla-relatit newsletter afore, ye micht hae tae dae sae. Please check yer inbox or yer spam filter fur an email fae us.
+
 footer-title = Firefox Developer Edition
 footer-message = Luikin fur mair nor jist Developer Tools? Hae a deek at the Firefox stravaiger biggit specifically fur forderers and modern warkflows.
 footer-learn-more-link = Lairn mair
+
 features-learn-more = Lairn mair
 features-inspector-title = Inspector
 features-inspector-desc = Luik-ower and refine code fur tae big pixel-perfect layoots. <a data-l10n-name="learn-more">{ features-learn-more }</a>

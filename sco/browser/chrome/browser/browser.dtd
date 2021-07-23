@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "M">
 
 <!ENTITY historyMenu.label "Historie">
+
 <!ENTITY historyUndoMenu.label "Recently Sneckit Tabs">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Recently Sneckit Windaes">
@@ -155,6 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Kythe Historie Sidebaur">
 <!ENTITY appMenuHistory.hideSidebar.label "Hide Historie Sidebaur">
 <!ENTITY appMenuHistory.recentHistory.label "Recent Historie">
+
 <!ENTITY appMenuHelp.label "Hauners">
 
 <!ENTITY appMenuRemoteTabs.label "Synced Tabs">

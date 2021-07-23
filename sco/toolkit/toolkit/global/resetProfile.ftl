@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Refresh { -brand-short-name }
+
 refresh-profile-dialog-title = Refresh { -brand-short-name } tae its staunart settins?
 refresh-profile-dialog-button =
     .label = Refresh { -brand-short-name }

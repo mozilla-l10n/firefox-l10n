@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Eik On Tags
+
 pocket-panel-saved-error-generic = There wis a mishanter whan tryin tae save tae { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Tags cannae be mair nor 25 chairacters
 pocket-panel-saved-error-only-links = Anely links can be saved

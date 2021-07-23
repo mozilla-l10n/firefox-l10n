@@ -4,26 +4,37 @@
 
 set-desktop-background-window =
     .title = Set Desktap Backgrund
+
 set-desktop-background-accept =
     .label = Set Desktap Backgrund
+
 open-desktop-prefs =
     .label = Open Desktap Preferences
+
 set-background-preview-unavailable = Preview no available
+
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
 # Desktop Background settings page.
 set-background-span =
     .label = Span
+
 set-background-color = Colour:
+
 set-background-position = Poseetion:
+
 set-background-tile =
     .label = Tile
+
 set-background-center =
     .label = Centre
+
 set-background-stretch =
     .label = Streetch
+
 set-background-fill =
     .label = Fill
+
 set-background-fit =
     .label = Fit

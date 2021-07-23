@@ -5,29 +5,40 @@
 translation-window =
     .title = Exceptions - Owersettin
     .style = width: 36em
+
 translation-close-key =
     .key = w
+
 translation-languages-disabled-desc = Owersettin willnae be offered fur the follaein leids.
+
 translation-languages-column =
     .label = Leids
+
 translation-languages-button-remove =
     .label = Remuive Leid
     .accesskey = R
+
 translation-languages-button-remove-all =
     .label = Remuive Aw Leids
     .accesskey = e
+
 translation-sites-disabled-desc = Owersettin willnae be offered fur the follaein sites.
+
 translation-sites-column =
     .label = Wabsites
+
 translation-sites-button-remove =
     .label = Remuive Site
     .accesskey = S
+
 translation-sites-button-remove-all =
     .label = Remuive Aw Sites
     .accesskey = i
+
 translation-button-close =
     .label = Sneck
     .accesskey = c
+
 translation-dialog =
     .buttonlabelaccept = Sneck
     .buttonaccesskeyaccept = C

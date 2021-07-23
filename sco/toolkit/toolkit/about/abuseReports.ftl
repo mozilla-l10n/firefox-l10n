@@ -8,15 +8,19 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Report fur { $addon-name }
+
 abuse-report-title-extension = Report This Extension tae { -vendor-short-name }
 abuse-report-title-theme = Report This Theme tae { -vendor-short-name }
 abuse-report-subtitle = Whit’s the issue?
+
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = by <a data-l10n-name="author-name">{ $author-name }</a>
+
 abuse-report-learnmore =
     No shair whit issue tae wale?
     <a data-l10n-name="learnmore-link">Lairn mair aboot reportin extensions and themes</a>
+
 abuse-report-submit-description = Ootline the problem (optional)
 abuse-report-textarea =
     .placeholder = It’s easier fur us tae deal wi a problem if we hae details. Gonnae lat us ken whit it is that's wrang. Thanks awfie fur helpin us tae keep the wab solvendie.
@@ -65,14 +69,18 @@ abuse-report-messagebar-action-cancel = Stap
 
 abuse-report-damage-reason-v2 = It hairmed ma computer or unnermined ma data
 abuse-report-damage-example = Exemple: Instawed malware or pauchelt data
+
 abuse-report-spam-reason-v2 = It conteens spam or inpits unwantit advertising
 abuse-report-spam-example = Exemple: Inpits ads on wabpages
+
 abuse-report-settings-reason-v2 = It chynged my airt-oot engine, hamepage, or new tab wioot speirin me or lattin me ken
 abuse-report-settings-suggestions = Afore reportin the extension, ye can try chyngin yer settins:
 abuse-report-settings-suggestions-search = Chynge yer staunart sairch settins
 abuse-report-settings-suggestions-homepage = Chynge yer hamepage and new tab
+
 abuse-report-deceptive-reason-v2 = It lats on tae be sowt that it isnae
 abuse-report-deceptive-example = Exemple: Misleadin description or imagery
+
 abuse-report-broken-reason-extension-v2 = It disnae wirk, breks wabsites, or slows doon { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = It disnae wirk or breks stravaiger display
 abuse-report-broken-example = Exemple: Featurs are slow, haurd tae yaise, or dinnae wirk; pairts o wabsites willnae load or luik by-ordinar
@@ -84,11 +92,15 @@ abuse-report-broken-suggestions-theme =
     It soonds like ye’ve airtit oot a bug. Forby submittin a report here, the best wey
     tae get a functionality issue sortit is tae get in touch wi the theme developer.
     <a data-l10n-name="support-link">Veesit the theme’s wabsite</a> fur tae get the developer information.
+
 abuse-report-policy-reason-v2 = It has content that is uggsome, violent, or illegal
 abuse-report-policy-suggestions =
     Note: Copyricht and tredmerk issues maun be reportit by anither process.
     <a data-l10n-name="report-infringement-link">Yaise these instructions</a> fur tae
     report the problem.
+
 abuse-report-unwanted-reason-v2 = I nivver wantit it and I dinnae ken how tae get shot o it
 abuse-report-unwanted-example = Exemple: An application instawed it wioot my permeesion
+
 abuse-report-other-reason = Sowt else
+

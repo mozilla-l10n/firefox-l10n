@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Aboot Plugins
+
 installed-plugins-label = Instawed plugins
 no-plugins-are-installed-label = Nae instawed plugins fund
+
 deprecation-description = Sowt missin? Some plugins arenae supportit onie mair. <a data-l10n-name="deprecation-link">Learn More.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">State:</span> Enabled
 state-dd-enabled-block-list-state = <span data-l10n-name="state">State:</span> Enabled ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">State:</span> Disabled
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">State:</span> Disabled ({ $blockListState })
+
 mime-type-label = MIME Type
 description-label = Description
 suffixes-label = Suffixes

@@ -5,12 +5,15 @@
 app-manager-window =
     .title = Application parteeculars
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Remuive
     .accesskey = R
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = The follaein applications can be yaised fur tae haunle { $type } links.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = The follaein applications can be yaised fur tae haunle { $type } content.

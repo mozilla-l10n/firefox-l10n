@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Inbring yer login fae { $browser }</div>
     <div data-l10n-name="line2">fur { $host } and ither sites</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Lairn mair
 

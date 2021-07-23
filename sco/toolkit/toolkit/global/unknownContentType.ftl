@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Open wi { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

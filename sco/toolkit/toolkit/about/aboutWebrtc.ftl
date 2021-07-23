@@ -42,6 +42,7 @@ about-webrtc-sdp-heading = SDP
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominatit
+
 about-webrtc-stats-clear = Dicht Historie
 about-webrtc-log-clear = Dicht Log
 

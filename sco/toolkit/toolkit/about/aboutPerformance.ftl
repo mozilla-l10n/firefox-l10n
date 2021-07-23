@@ -41,3 +41,4 @@ size-GB = { $value } GB
 
 close-tab =
     .title = Sneck tab
+

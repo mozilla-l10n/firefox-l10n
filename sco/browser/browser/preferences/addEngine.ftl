@@ -5,12 +5,18 @@
 add-engine-window =
     .title = Eik On Airt-oot Engine
     .style = width: 32em;
+
 add-engine-button = Eik On Custom Engine
+
 add-engine-name = Airt-oot engine nemme
+
 add-engine-alias = Alias
+
 add-engine-url = Engine URL, yaise %s insteid o the sairch term
+
 add-engine-dialog =
     .buttonlabelaccept = Eik On Engine
     .buttonaccesskeyaccept = A
+
 engine-name-exists = An engine wi thon nemme awready exists
 engine-alias-exists = An engine wi thon alias awready exists

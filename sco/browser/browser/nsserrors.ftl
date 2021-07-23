@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = A mishanter tuik place durin a connection tae { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Mishanter code: { $error }
+
 psmerr-ssl-disabled = Cannae connect siccarly acause the SSL protocol has been disabled.
 psmerr-ssl2-disabled = Cannae connect siccarly acause the site yaises an aulder, unsiccar version o the SSL protocol.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ye hae received a certificate that isnae suithfest. Please get in touch wi the server admeenistrator or email correspondent and gie them the follaein information:
     
     Yer certificate conteens the same serial nummer as anither certificate gied oot by the certificate authority. Please get yersel a new certificate conteenin a unique serial nummer.
+
 ssl-error-export-only-server = Unable tae communicate siccarly. Peer disnae support high-grade encryption.
 ssl-error-us-only-server = Unable tae communicate siccarly. Peer requires high-grade encryption which isnae supportit.
 ssl-error-no-cypher-overlap = Cannae communicate siccarly wi peer: nae common encryption algorithm(s).

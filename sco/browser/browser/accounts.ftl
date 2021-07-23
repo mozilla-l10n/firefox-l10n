@@ -5,12 +5,7 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Feenish Accoont Setup
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-reconnect-to-fxa = Accoont Disconnectit
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-disconnected = Ye've been disconnectit
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Accoont disconnectit

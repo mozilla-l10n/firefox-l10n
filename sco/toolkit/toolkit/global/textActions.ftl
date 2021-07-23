@@ -5,35 +5,48 @@
 text-action-undo =
     .label = Undae
     .accesskey = U
+
 text-action-undo-shortcut =
     .key = Z
+
 text-action-redo =
     .label = Dae Ower
     .accesskey = r
+
 text-action-redo-shortcut =
     .key = Y
+
 text-action-cut =
     .label = Cut
     .accesskey = t
+
 text-action-cut-shortcut =
     .key = X
+
 text-action-copy =
     .label = Copy
     .accesskey = C
+
 text-action-copy-shortcut =
     .key = C
+
 text-action-paste =
     .label = Paste
     .accesskey = P
+
 text-action-paste-shortcut =
     .key = V
+
 text-action-delete =
     .label = Dicht
     .accesskey = D
+
 text-action-select-all =
     .label = Wale Aw
     .accesskey = A
+
 text-action-select-all-shortcut =
     .key = A
+
 text-action-spell-no-suggestions =
     .label = Nae Spellin Suggestions

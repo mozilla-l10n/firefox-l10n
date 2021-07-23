@@ -19,6 +19,7 @@ open-location = Sairch or inpit address
 share = Share
 close-window = Sneck Windae
 open-sidebar = Sidebaurs
+
 # This string describes shortcuts for search.
 search-popover = Sairch shortcuts
 # Describes searches limited to a specific scope
