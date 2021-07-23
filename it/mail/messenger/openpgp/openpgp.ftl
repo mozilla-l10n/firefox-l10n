@@ -605,6 +605,9 @@ no-temp-dir =
 possibly-pgp-mime = Probabilmente il messaggio è crittato o firmato con PGP/MIME: utilizzare la funzione “Decritta/Verifica“
 cannot-send-sig-because-no-own-key = Impossibile firmare digitalmente questo messaggio perché non è stata ancora configurata la crittografia end-to-end per <{ $key }>
 cannot-send-enc-because-no-own-key = Impossibile inviare questo messaggio crittato perché non è stata ancora configurata la crittografia end-to-end per <{ $key }>
+compose-menu-encrypt-subject =
+    .label = Crittografia oggetto
+    .accesskey = o
 # Strings used in decryption.jsm
 do-import-multiple =
     Importare le seguenti chiavi?
