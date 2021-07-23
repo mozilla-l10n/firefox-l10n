@@ -14,11 +14,14 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!-- LOCALIZATION NOTE: do not use digits "0"-"9" as accesskeys -->
 <!ENTITY zoomEnlargeCmd.label       "Mai mare">
 <!ENTITY zoomEnlargeCmd.accesskey   "M">
 <!ENTITY zoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards --><!ENTITY zoomEnlargeCmd.commandkey2 "="> 
+
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY zoomReduceCmd.label        "Mai mic">
 <!ENTITY zoomReduceCmd.accesskey    "M">

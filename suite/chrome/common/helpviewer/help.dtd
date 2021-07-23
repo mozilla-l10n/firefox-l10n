@@ -30,6 +30,7 @@
 <!ENTITY searchHeader.label             "Rezultatele căutării">
 <!ENTITY toctab.label                   "Cuprins">
 <!ENTITY toctab.accesskey               "s">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.

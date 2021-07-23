@@ -19,10 +19,6 @@
 <!ENTITY folderProps.windowtitle.label           "Proprietăți">
 
 <!ENTITY generalInfo.label                       "Informații generale">
-<!ENTITY folderCharsetTab.label                  "Codare caractere implicită:">
-<!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Aplică această codare implicit tuturor mesajelor din dosar (se vor ignora setările din mesaje precum și detecția automată)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
 <!ENTITY folderRebuildSummaryFile2.label         "Repair Folder">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
@@ -44,8 +40,6 @@
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepRecent.label "The newest">
 <!ENTITY retentionKeepRecent.accesskey "n">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "Always keep flagged messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
@@ -75,6 +69,6 @@
 <!ENTITY folderType.label                        "Tip dosar:">
 
 <!ENTITY folderQuotaTab.label                    "Cotă">
-<!ENTITY folderQuotaRoot.label                   "Rădăcină cotă:">
 <!ENTITY folderQuotaUsage.label                  "Utilizare:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
+

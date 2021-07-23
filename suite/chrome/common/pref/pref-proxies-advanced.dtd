@@ -15,6 +15,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
 <!ENTITY  pref.proxies.advanced.title "Advanced Proxy Preferences">
 <!ENTITY  protocols.caption           "Protocol-Specific Proxies">

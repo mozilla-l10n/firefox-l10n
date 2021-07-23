@@ -4,9 +4,6 @@
 
 <!ENTITY window.title  "Join Channel">
 
-<!ENTITY qsearch.label     "Quick Search:">
-<!ENTITY qsearch.accesskey "S">
-
 <!ENTITY topics.label     "Search topics as well as channel names">
 <!ENTITY topics.accesskey "t">
 
@@ -18,9 +15,6 @@
 
 <!ENTITY maxusers.label     "Max users:">
 <!ENTITY maxusers.accesskey "x">
-
-<!ENTITY refresh.label     "Reîmprospătează acum...">
-<!ENTITY refresh.accesskey "R">
 
 <!ENTITY col.name  "Denumire">
 <!ENTITY col.users "Utilizatori">

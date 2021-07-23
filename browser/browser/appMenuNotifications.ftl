@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = OK, am înțeles
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Gestionează suplimentele dând clic pe <image data-l10n-name='addon-install-icon'></image> în meniu <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Actualizare disponibilă
     .buttonlabel = Descarcă
@@ -57,10 +58,12 @@ appmenu-update-other-instance =
     .buttonaccesskey = U
     .secondarybuttonlabel = Nu acum
     .secondarybuttonaccesskey = N
+
 appmenu-addon-post-install-message3 = Gestionează-ți suplimentele și temele prin meniul aplicației.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permite acestei extensii să ruleze în ferestre private
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = Pagina de filă nouă s-a schimbat.
     .buttonlabel = Păstrează modificările
@@ -73,6 +76,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Dezactivează extensia
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = Accesează filele ascunse
     .buttonlabel = Păstrează filele ascunse

@@ -17,16 +17,14 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Feed Subscriptions">
-<!ENTITY subscriptionDesc.label "Notă: eliminarea sau schimbarea directorului pentru stocare nu va afecta articolele preluate anterior.">
+
 <!ENTITY feedTitle.label "Denumire:">
-<!ENTITY location.label  "Locația:">
 
 <!ENTITY button.addFeed.label       "Adaugă">
 <!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "Modificare">
-<!ENTITY button.editFeed.accesskey  "e">
 <!ENTITY button.removeFeed.label "Eliminați">
 <!ENTITY button.removeFeed.accesskey   "E">
 <!ENTITY button.importOPML.label "Preluare">

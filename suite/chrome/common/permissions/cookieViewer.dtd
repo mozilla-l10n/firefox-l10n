@@ -9,6 +9,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!--
 # Reviewer(s):
 #
@@ -30,7 +31,6 @@
 
 <!ENTITY     search.placeholder             "Search Cookies">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Nume:">
@@ -43,8 +43,6 @@
 <!ENTITY     treehead.sitename.label        "Sait">
 <!ENTITY     treehead.status.label          "Stare">
 <!ENTITY     windowtitle.label              "Managerul Cookie-urilor">
-<!ENTITY     buttonaccept.label             "Închide">
-<!ENTITY     buttonaccept.accesskey         "c">
 
 <!ENTITY     blockSite.label                "Blochează">
 <!ENTITY     blockSite.accesskey            "B">

@@ -36,9 +36,9 @@
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY printContactViewCmd.label                      "Tipărește contactul…">
 <!ENTITY printContactViewCmd.accesskey                  "p">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "Previzualizare tipărire contact">
 <!ENTITY printPreviewContactViewCmd.accesskey           "v">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Tipărește agenda de contacte…"> 
 <!ENTITY printAddressBook.accesskey                     "a"> 
 <!ENTITY printPreviewAddressBook.label                  "Previz. imprimare carte adrese"> 
@@ -62,9 +62,6 @@
 <!ENTITY showAbToolbarCmd.label                         "Bara Agendă"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "B">  
 
-<!ENTITY showCardPane.label                             "Panou fișă">
-<!ENTITY showCardPane.accesskey                         "P">
-  
 <!ENTITY menu_ShowNameAs.label                          "Afișează numele în forma"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "A"> 
 <!ENTITY firstLastCmd.label                             "First Last">  
@@ -104,11 +101,12 @@
 <!ENTITY newmsgButton.tooltip                           "Trimite un mesaj e-mail"> 
 <!ENTITY newIM.tooltip                                  "Trimite un mesaj instantaneu sau conversează prin chat"> 
 <!ENTITY deleteItemButton.tooltip                       "Șterge elementul selectat">
-<!ENTITY throbber.tooltip                               "Pagina principală &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Căutare avansată în agendă">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Address Books">
+
+<!-- Card Summary Pane -->
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">

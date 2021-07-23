@@ -9,6 +9,7 @@
 # janimo <jani@ubuntu.com>
 #
 -->
+
 <!--
 # Reviewer(s):
 #
@@ -18,14 +19,13 @@
 <!ENTITY pref.download.title            "Downloads">
 
 <!ENTITY downloadBehavior.label         "When starting a download">
-<!ENTITY focusWhenStarting.label        "Flash the download manager if it is already open, otherwise:">
-<!ENTITY focusWhenStarting.accesskey    "F">
-<!ENTITY openDM.label                   "Open the download manager">
-<!ENTITY openDM.accesskey               "m">
-<!ENTITY openProgressDialog.label       "Open a progress dialog">
-<!ENTITY openProgressDialog.accesskey   "O">
 <!ENTITY doNothing.label                "Don't open anything">
 <!ENTITY doNothing.accesskey            "D">
+
+<!ENTITY openProgressDialog.label       "Open a progress dialog">
+<!ENTITY openProgressDialog.accesskey   "O">
+<!ENTITY openDM.label                   "Open the download manager">
+<!ENTITY openDM.accesskey               "m">
 
 <!ENTITY downloadLocation.label         "When saving a file">
 <!ENTITY saveTo.label                   "Save files to">
@@ -35,18 +35,9 @@
 <!ENTITY alwaysAsk.label                "Always ask me where to save files">
 <!ENTITY alwaysAsk.accesskey            "A">
 
-<!ENTITY downloadHistory.label          "Download history">
-<!ENTITY removeEntries.label            "Remove download entries">
-<!ENTITY removeEntries.accesskey        "R">
-<!ENTITY whenCompleted.label            "When they have completed">
-<!ENTITY whenQuittingApp.label          "When quitting &brandShortName;">
-<!ENTITY neverRemove.label              "Never">
-
 <!ENTITY finishedBehavior.label         "When a download completes">
 <!ENTITY playSound.label                "Redă un sunet">
 <!ENTITY playSound.accesskey            "s">
-<!ENTITY showAlert.label                "Afișează o alertă">
-<!ENTITY showAlert.accesskey            "A">
 <!ENTITY browse.label                   "Răsfoiește...">
 <!ENTITY browse.accesskey               "R">
 <!ENTITY playButton.label               "Play">

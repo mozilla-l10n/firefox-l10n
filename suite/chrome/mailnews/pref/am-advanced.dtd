@@ -16,10 +16,9 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Setările serverului de trimitere (SMTP)">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Deși puteți specifica mai multe servere de trimitere (SMTP), aceasta se recomandă doar utilizatorilor avansați. Definirea mai multor servere de trimitere poate cauza erori la trimiterea mesajelor.">
 
 <!ENTITY smtpListAdd.label  "Adaugă…">
 <!ENTITY smtpListAdd.accesskey  "d">

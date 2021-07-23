@@ -8,6 +8,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!--
 # Reviewer(s):
 #
@@ -15,6 +16,7 @@
 #
 -->
 <!ENTITY sanitizeDialog.title            "Ștergere date private">
+
 <!ENTITY sanitizeItems.label             "Șterge următoarele elemente:">
 
 <!ENTITY itemHistory.label               "Istoric">

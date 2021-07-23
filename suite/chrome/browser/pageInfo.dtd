@@ -40,7 +40,6 @@
 <!ENTITY  generalReferrer       "URL referent:">
 <!ENTITY  generalSource         "Sursă cache:">
 <!ENTITY  generalModified       "Modificat:">
-<!ENTITY  generalEncoding       "Codare:">
 <!ENTITY  generalMetaName       "Denumire">
 <!ENTITY  generalMetaContent    "Conținut">
 <!ENTITY  generalSecurityDetails           "Details">
@@ -61,7 +60,6 @@
 
 <!ENTITY  linksTab              "Legături">
 <!ENTITY  linksTab.accesskey    "L">
-<!ENTITY  linkNo                "Nr.">
 <!ENTITY  linkName              "Denumire">
 <!ENTITY  linkAddress           "Adresă proprie">
 <!ENTITY  linkType              "Tip:">
@@ -70,16 +68,11 @@
 
 <!ENTITY  mediaTab              "Media ">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaURL              "Adresă:">
-<!ENTITY  mediaAlt              "Text alternativ:">
 <!ENTITY  mediaAltHeader        "Text alternativ">
 <!ENTITY  mediaAddress          "Adresă proprie">
 <!ENTITY  mediaType             "Tip:">
 <!ENTITY  mediaSize             "Mărimea">
 <!ENTITY  mediaCount            "Count">
-<!ENTITY  mediaDimensions       "Dimensiuni specificate:">
-<!ENTITY  mediaPhysDimensions   "Dimensiuni reale:">
-<!ENTITY  mediaTitle            "Denumire:">
 <!ENTITY  mediaLongdesc         "Descriere lungă:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Salvează ca…">
@@ -94,17 +87,7 @@
 
 <!ENTITY  permTab               "Permisiuni">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Folosește setările implicite">
-<!ENTITY  permAskAlways         "Always ask">
-<!ENTITY  permAllow             "Permite">
-<!ENTITY  permAllowSession      "Permite pentru sesiune">
-<!ENTITY  permBlock             "Blochează">
 <!ENTITY  permissionsFor        "Permisiuni pentru:">
-<!ENTITY  permImage             "Încarcă imaginile">
-<!ENTITY  permPopup             "Deschide ferestrele popup">
-<!ENTITY  permCookie            "Setează cookie-uri">
-<!ENTITY  permInstall           "Instalează extensii sau teme">
-<!ENTITY  permGeo               "Share Location">
 
 <!ENTITY  securityTab           "Securitate">
 <!ENTITY  securityTab.accesskey "S">

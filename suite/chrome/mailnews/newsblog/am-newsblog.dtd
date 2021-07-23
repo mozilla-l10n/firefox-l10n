@@ -10,23 +10,6 @@
 # turcan <nicturcan@gmail.com>
 #
 -->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!ENTITY accountTitle.label "Account Settings">
-
-<!ENTITY biffStart.label "Verifică disponibilitatea articolelor noi la fiecare">
-<!ENTITY biffStart.accesskey "V">
-<!ENTITY biffEnd.label "minute">
-
-<!ENTITY loginAtStartup.label "Verifică disponibilitatea articolelor noi la pornire"> 
-<!ENTITY loginAtStartup.accesskey "c">
-
-<!ENTITY useQuickMode.label "În mod implicit arată sumarul articolului în loc să încarci pagina web"> 
-<!ENTITY useQuickMode.accesskey "b">
 
 <!ENTITY manageSubscriptions.label "Gestionare abonamente…"> 
 <!ENTITY manageSubscriptions.accesskey "m">

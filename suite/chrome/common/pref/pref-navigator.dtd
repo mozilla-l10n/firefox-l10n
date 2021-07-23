@@ -10,6 +10,7 @@
 # janimo <jani@ubuntu.com>
 #
 -->
+
 <!--
 # Reviewer(s):
 #
@@ -33,7 +34,6 @@
 <!ENTITY restoreSessionRadio.label      "Restaurează sesiunea anterioară">
 <!ENTITY restoreSessionRadio.accesskey  "R">
 
-<!ENTITY header2.label                  "Pagina de start">
 <!ENTITY homePageIntro.label            "Clicking the Home button takes you to this group of pages:">
 <!ENTITY useCurrent.label               "Folosește pagina curentă">
 <!ENTITY useCurrent.accesskey           "u">

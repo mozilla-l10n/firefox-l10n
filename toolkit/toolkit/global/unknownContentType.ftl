@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Deschide cu { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

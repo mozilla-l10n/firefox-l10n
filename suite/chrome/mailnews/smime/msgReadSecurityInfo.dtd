@@ -14,6 +14,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
 <!ENTITY status.label "Securitate mesaj">

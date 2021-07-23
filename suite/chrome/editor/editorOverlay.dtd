@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Lipește fără formatare">
 <!ENTITY pasteNoFormatting.accesskey "i">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Lipește ca">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Lipește ca citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -294,8 +292,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Decupează">
 <!ENTITY copyToolbarCmd.tooltip "Copiază">
 <!ENTITY pasteToolbarCmd.tooltip "Lipește">
-<!ENTITY printToolbarCmd.label "Tipărește">
-<!ENTITY printToolbarCmd.tooltip "Tipărește pagina">
 <!ENTITY findToolbarCmd.label "Caută">
 <!ENTITY findToolbarCmd.tooltip "Caută text în pagină">
 <!ENTITY spellToolbarCmd.label "Ortografie">
@@ -313,7 +309,6 @@
 <!ENTITY colorButtons.title "Culori">
 <!ENTITY TextColorButton.tooltip "Alege culoarea textului">
 <!ENTITY BackgroundColorButton.tooltip "Alege culoarea de fundal">
-<!ENTITY throbber.tooltip "Deschide pagina principală &vendorShortName;">
 <!ENTITY HighlightColorButton.label "Evidențiator">
 <!ENTITY HighlightColorButton.tooltip "Alege culoarea de evidențiere pentru text">
 

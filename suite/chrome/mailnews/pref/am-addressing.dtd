@@ -15,6 +15,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Redactare și adrese">
@@ -40,9 +41,6 @@
 <!ENTITY useHtml.accesskey                    "c">
 <!ENTITY autoQuote.label                      "La răspuns, citează automat din mesajul original">
 <!ENTITY autoQuote.accesskey                  "m">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Apoi,">
-<!ENTITY then.accesskey                       "A">
 <!ENTITY aboveQuote.label                     "începe răspunsul deasupra textului citat">
 <!ENTITY belowQuote.label                     "începe răspunsul sub textul citat">
 <!ENTITY selectAndQuote.label                 "selectează textul citat">
@@ -54,3 +52,4 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Include signature for forwards">
 <!ENTITY includeSigOnForward.accesskey        "w">
+

@@ -19,14 +19,19 @@
 <!ENTITY pref.notifications.title         "Notificări">
 <!ENTITY notifications.caption            "Notificări">
 <!ENTITY newMessagesArrive.label          "Când sosesc noi mesaje:">
-<!ENTITY playSound.label                  "Redă un sunet">
-<!ENTITY playSound.accesskey              "R">
-<!ENTITY showAnimatedAlert.label          "Afișează o alertă">
-<!ENTITY showAnimatedAlert.accesskey      "A">
+
+<!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
+     showAlertFor.label is associated with the checkbox to show the alert,
+     leading into a numerical field to enter a time in seconds, followed by
+     showAlertTimeEnd.label which in en-US is the unit of the value -->
+
 <!ENTITY showTrayIcon.label               "Show a tray icon">
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY bounceSystemDockIcon.label       "Animate the Dock icon">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
+
+<!ENTITY playSound.label                  "Redă un sunet">
+<!ENTITY playSound.accesskey              "R">
 <!ENTITY playButton.label                 "Play">
 <!ENTITY playButton.accesskey             "l">
 <!ENTITY systemsound.label                "System New Mail Sound">

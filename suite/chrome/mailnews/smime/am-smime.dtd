@@ -8,6 +8,7 @@
 # secarica <orice@secarica.ro>
 #
 -->
+
 <!--
 # Reviewer(s):
 #
@@ -38,7 +39,6 @@
 <!ENTITY signingCert.message "Folosește acest certificat pentru a semna electronic mesajele pe care le trimit:">
 
 <!ENTITY certificates.label "Certificate">
-<!ENTITY manageCerts.label "Gestionează certificatele...">
-<!ENTITY manageCerts.accesskey "G">
 <!ENTITY manageDevices.label "Gestionează dispozitivele de securitate...">
 <!ENTITY manageDevices.accesskey "G">
+

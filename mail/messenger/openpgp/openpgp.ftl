@@ -1,3 +1,4 @@
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -120,6 +121,7 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Copiază chei publice în clipboard
     .accesskey = C
+
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportă cheile într-un fișier
 openpgp-key-man-ctx-copy-to-clipbrd-label =
@@ -460,18 +462,13 @@ openpgp-export-secret-fail = <b>Cheia secretă selectată nu a putut fi exportat
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = Cheia { $userId } (ID cheie { $keyId }) este revocată.
 key-ring-pub-key-expired = Cheia { $userId } (ID cheie { $keyId }) a expirat.
-key-ring-key-disabled = Cheia { $userId } (ID cheie { $keyId }) este dezactivată; nu poate fi utilizată.
-key-ring-key-invalid = Cheia { $userId } (ID cheie { $keyId }) nu este validă. Încearcă să o verifici corect.
-key-ring-key-not-trusted = Cheia { $userId } (ID cheie { $keyId }) nu are un nivel suficient de încredere. Setează nivelul de încredere al cheii pe „absolut” ca să o poți utiliza pentru semnături.
 key-ring-no-secret-key = Se pare că nu ai cheia secretă pentru { $userId } (ID cheie { $keyId }) în fișierul cu chei de criptare; nu poți utiliza cheia pentru semnături.
 key-ring-pub-key-not-for-signing = Cheia { $userId } (ID cheie { $keyId }) nu poate fi utilizată pentru semnături.
 key-ring-pub-key-not-for-encryption = Cheia { $userId } (ID cheie { $keyId }) nu poate fi utilizată pentru criptare.
 key-ring-sign-sub-keys-revoked = Toate subcheile de semnătură ale cheii { $userId } (ID cheie { $keyId }) sunt revocate.
 key-ring-sign-sub-keys-expired = Toate subcheile de semnătură ale cheii { $userId } (ID cheie { $keyId }) au expirat.
-key-ring-sign-sub-keys-unusable = Toate subcheile de semnătură ale cheii { $userId } (ID cheie { $keyId }) sunt revocate, expirate sau inutilizabile din alte motive.
 key-ring-enc-sub-keys-revoked = Toate subcheile de criptare ale cheii { $userId } (ID cheie { $keyId }) sunt revocate.
 key-ring-enc-sub-keys-expired = Toate subcheile de criptare ale cheii { $userId } (ID cheie { $keyId }) au expirat.
-key-ring-enc-sub-keys-unusable = Toate subcheile de criptare ale cheii { $userId } (ID cheie { $keyId }) sunt revocate, expirate sau inutilizabile din alte motive.
 
 # Strings in gnupg-keylist.jsm
 keyring-photo = Fotografie
@@ -577,8 +574,11 @@ key-man-button-generate-key-abort = &Abandonează generarea cheilor
 key-man-button-generate-key-continue = &Continuă generarea cheilor
 
 # Strings used in enigmailMessengerOverlay.js
+
+# Strings used in enigmailMessengerOverlay.js
 failed-decrypt = Eroare - decriptarea a eșuat
 fix-broken-exchange-msg-failed = Repararea mesajului nu a reușit.
+
 attachment-no-match-from-signature = Fișierul de semnătură „{ $attachment }” nu a putut fi corelat la un atașament
 attachment-no-match-to-signature = Atașamentul „{ $attachment }” nu a putut fi corelat la un fișier de semnătură
 signature-verified-ok = Semnătura pentru atașamentul { $attachment } a fost verificată cu succes
@@ -674,5 +674,6 @@ dlg-button-skip = &Sari peste
 
 # Strings used in enigmailCommon.js
 enig-error = Eroare OpenPGP
+
 enig-alert-title =
     .title = Alertă OpenPGP

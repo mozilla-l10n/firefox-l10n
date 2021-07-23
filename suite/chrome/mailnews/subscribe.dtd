@@ -29,8 +29,6 @@
 <!ENTITY stopButton.accesskey         "t">
 <!ENTITY server.label                 "Cont:">
 <!ENTITY server.accesskey             "C">
-<!ENTITY subscribedHeader.label       "Subscrie">
-<!-- commenting out until bug 38906 is fixed 
---><!ENTITY messagesHeader.label         "Mesaje"> 
+<!ENTITY subscribedHeader.label       "Subscrie"> 
 <!ENTITY namefield.label              "Arată grupurile care conțin:">
 <!ENTITY namefield.accesskey          "A">

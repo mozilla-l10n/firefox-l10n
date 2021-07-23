@@ -40,15 +40,6 @@
 <!ENTITY wrapOutMsg.accesskey                 "n">
 <!ENTITY char.label                           "caractere">
 
-<!ENTITY spellingHeader.label                 "Spelling">
-<!ENTITY spellCheck.label                     "Verifică ortografia înainte de a trimite">
-<!ENTITY spellCheck.accesskey                 "c">
-<!ENTITY spellCheckInline.label               "Verific ortografia pe măsură ce scrieți">
-<!ENTITY spellCheckInline.accesskey           "e">
-<!ENTITY languagePopup.label                  "Limba:">
-<!ENTITY languagePopup.accessKey              "L">
-<!ENTITY moreDictionaries.label               "Descarcă mai multe dicționare…">
-
 <!ENTITY defaultMessagesHeader.label          "Defaults for HTML Messages">
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "F">
@@ -58,3 +49,4 @@
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Fundal:">
 <!ENTITY bgColor.accesskey                    "F">
+
