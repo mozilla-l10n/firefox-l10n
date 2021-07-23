@@ -609,6 +609,9 @@ no-temp-dir =
 possibly-pgp-mime = Agian PGP/MIME zifratutako edo sinatutako mezua; erabili 'Deszifratu/egiaztatu' funtzioa egiaztatzeko
 cannot-send-sig-because-no-own-key = Ezinda digitalki sinatu mezu hau, oraindik ez daukazulako <{ $key }> gakoa muturretik-muturrera konfiguratuta
 cannot-send-enc-because-no-own-key = Ezinda mezu hau zifratua bidali, oraindik ez daukazulako <{ $key }> gakoa muturretik-muturrera konfiguratuta
+compose-menu-attach-key =
+    .label = Erantsi nire giltza publikoa
+    .accesskey = E
 # Strings used in decryption.jsm
 do-import-multiple =
     Inportatu ondorengo gakoak?
