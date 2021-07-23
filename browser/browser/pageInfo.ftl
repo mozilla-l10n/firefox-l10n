@@ -129,6 +129,8 @@ security-site-data-only = Haj, { $value } { $unit } sydłowych datow
 security-site-data-cookies-only = Haj, placki
 security-site-data-no = Ně
 
+##
+
 image-size-unknown = Njeznaty
 page-info-not-specified =
     .value = Njepodaty

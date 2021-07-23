@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Přichodne wustupjenje frazy namakać
 findbar-previous =
     .tooltiptext = Předchadne wustupjenje frazy namakać
+
 findbar-find-button-close =
     .tooltiptext = Pytansku lajstu začinić
+
 findbar-highlight-all2 =
     .label = Wšě wuzběhnyć
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] b
         }
     .tooltiptext = Wšě wustupowanja frazy wuzběhnyć
+
 findbar-case-sensitive =
     .label = Na wulkopisanje dźiwać
     .accesskey = u
     .tooltiptext = Za pytanje na wulkopisanje dźiwać
+
 findbar-match-diacritics =
     .label = Na diakritiske znamješka dźiwać
     .accesskey = z
     .tooltiptext = Mjez pismikami z diakritiskimi znamješkami a jich zakładnymi pismikami rozeznać (na přikład, hdyž za „resume“ pytaće, so „résumé“ njewobkedźbuje)
+
 findbar-entire-word =
     .label = Cyłe słowa
     .accesskey = C

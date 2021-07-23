@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } wobnowić
+
 refresh-profile-dialog-title = Standardne nastajenja { -brand-short-name } wobnowić?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } wobnowić

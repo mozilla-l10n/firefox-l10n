@@ -5,12 +5,12 @@
 places-open =
     .label = Wočinić
     .accesskey = o
-places-open-in-tab =
-    .label = W nowym rajtarku wočinić
-    .accesskey = n
 places-open-tab =
     .label = W nowym rajtarku wočinić
     .accesskey = r
+places-open-in-tab =
+    .label = W nowym rajtarku wočinić
+    .accesskey = n
 places-open-all-bookmarks =
     .label = Wšě zapołožki wočinić
     .accesskey = z
@@ -20,15 +20,10 @@ places-open-all-in-tabs =
 places-open-window =
     .label = W nowym woknje wočinić
     .accesskey = k
-places-open-in-window =
-    .label = W nowym woknje wočinić
-    .accesskey = o
 places-open-private-window =
     .label = W nowym priwatnym woknje wočinić
     .accesskey = n
-places-open-in-private-window =
-    .label = W nowym priwatnym woknje wočinić
-    .accesskey = r
+
 places-new-bookmark =
     .label = Nowa zapołožka…
     .accesskey = N
@@ -41,6 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = Nowa dźělenska linija
     .accesskey = l
+
+places-open-in-window =
+    .label = W nowym woknje wočinić
+    .accesskey = o
+places-open-in-private-window =
+    .label = W nowym priwatnym woknje wočinić
+    .accesskey = r
+
 places-add-bookmark =
     .label = Zapołožku přidać…
     .accesskey = Z
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = Dźělatko přidać
     .accesskey = D
+
 places-view =
     .label = Napohlad
     .accesskey = N
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = po datumje a sydle
     .accesskey = t
+
 places-history-search =
     .placeholder = Historiju přepytać
 places-bookmarks-search =
     .placeholder = Zapołožki přepytać
+
 places-delete-domain-data =
     .label = Na tute sydło zabyć
     .accesskey = N
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = Kajkosće
     .accesskey = K
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Zapołožku wobdźěłać…
@@ -104,15 +111,18 @@ places-remove-folder =
            *[other] Rjadowaki wotstronić
         }
     .accesskey = s
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Rjadowane zapołožki
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Podrjadowak
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Druhe zapołožki
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -125,6 +135,7 @@ places-remove-bookmark =
            *[other] Zapołožki wotstronić
         }
     .accesskey = s
+
 places-manage-bookmarks =
     .label = Zapołožki rjadować
     .accesskey = r

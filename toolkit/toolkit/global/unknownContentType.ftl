@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Z { -brand-short-name } wočinić
     .accesskey = o
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

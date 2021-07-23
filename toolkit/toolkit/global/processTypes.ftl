@@ -8,22 +8,30 @@
 ##
 
 process-type-web = Webwobsah
+
 process-type-browser = Hłowny
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Priwilegowane strony about
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Priwilegowany wobsah Mozilla
+
 process-type-extension = Rozšěrjenje
+
 # process used to open file:// URLs
 process-type-file = Lokalna dataja
+
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Wulke přirjadowanje składa
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Izolowany webwobsah
+
 # process preallocated; may change to other types
 process-type-prealloc = Předwobsadźene
 
@@ -33,11 +41,14 @@ process-type-prealloc = Předwobsadźene
 
 process-type-default = Hłowny
 process-type-tab = Rajtark
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to perform network operations
 process-type-socket = Soket
+
 # process used to decode media
 process-type-rdd = RDD
 

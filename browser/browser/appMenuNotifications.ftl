@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Nic nětko
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = { -brand-shorter-name } po spěšnym znowastartowanju swoje wočinjene rajtarki a wokna wobnowi, kotrež w priwatnym modusu njejsu.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = W porjadku, sym zrozumił
+    .buttonaccesskey = z
+appmenu-addon-post-install-message = Klikńće na <image data-l10n-name='addon-install-icon'></image> w meniju <image data-l10n-name='addon-menu-icon'></image>, zo byšće swoje přidatki rjadował.
+
 appmenu-update-available2 =
     .label = Aktualizacija k dispoziciji
     .buttonlabel = Sćahnyć
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Nic nětko
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Nowa aktualizacija { -brand-shorter-name } je k dispoziciji, ale njeda so instalować, dokelž druha kopija { -brand-shorter-name } běži. Začińće ju, zo byšće z aktualizaciju pokročował, abo aktualizujće najebać to (druha kopija potom snano korektnje njefunguje, doniž ju njestartujeće).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = W porjadku, sym zrozumił
-    .buttonaccesskey = z
-appmenu-addon-post-install-message = Klikńće na <image data-l10n-name='addon-install-icon'></image> w meniju <image data-l10n-name='addon-menu-icon'></image>, zo byšće swoje přidatki rjadował.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = W porjadku
     .buttonaccesskey = o
-appmenu-addon-post-install-message2 = Rjadujće swoje rozšěrjenja a drasty z menijom nałoženjow.
 appmenu-addon-post-install-message3 = Rjadujće swoje přidatki a drasty z menijom nałoženjow.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tute rozšěrjenje w priwatnych woknach dowolić
     .accesskey = T
+    
 appmenu-new-tab-controlled =
     .label = Waš nowy rajtark je so změnił.
     .buttonlabel = Změny wobchować
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = Z
     .secondarybuttonlabel = Rozšěrjenje znjemóžnić
     .secondarybuttonaccesskey = R
+
 appmenu-new-tab-controlled-changes =
     .label = Waš nowy rajtark je so změnił.
     .buttonlabel = Změny wobchować

@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Znački přidać
+
 pocket-panel-saved-error-generic = Při składowanju do { -pocket-brand-name } je zmylk wustupił.
 pocket-panel-saved-error-tag-length = Znački su na 25 znamješkow wobmjezowane
 pocket-panel-saved-error-only-links = Jenož wotkazy dadźa so składować

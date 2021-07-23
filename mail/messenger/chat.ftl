@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Přidruža so bjesadźe
+
 chat-left-chat-icon2 =
     .alt = Je bjesadu wopušćił
+
 chat-participant-owner-role-icon2 =
     .alt = Wobsedźer
+
 chat-participant-administrator-role-icon2 =
     .alt = Administrator
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderator
+
 chat-participant-voiced-role-icon2 =
     .alt = Wobdźělnik móže powěsće pósłać
