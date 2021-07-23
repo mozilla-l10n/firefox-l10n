@@ -208,6 +208,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = An bhfuil tú cinnte gur mian leat na heisceachtaí freastalaí seo a scriosadh?
 delete-ssl-cert-impact = Má scriosann tú eisceacht freastalaí, cuirtear an ghnáthsheiceáil slándála i bhfeidhm arís don fhreastalaí sin agus beidh teastas bailí de dhíth uaidh.
 
+
 delete-ca-cert-title =
     .title = Scrios nó bí mímhuiníneach as teastais ó údaráis deimhniúcháin
 delete-ca-cert-confirm = D'iarr tú na teastais seo ó údaráis deimhniúcháin a scrios. I gcás na dteastas inmheánacha, beifear mímhuiníneach ar fad astu, leis an éifeacht chéanna. An bhfuil tú cinnte go dteastaíonn uait iad a scrios nó bheith mímhuiníneach astu?
@@ -266,6 +267,8 @@ cert-not-verified-issuer-unknown = Ní féidir an teastas seo a fhíorú toisc n
 cert-not-verified-ca-invalid = Ní féidir an teastas seo a fhíorú toisc go bhfuil teastas an Údaráis Deimhniúcháin neamhbhailí.
 cert-not-verified_algorithm-disabled = Ní féidir an teastas seo a fhíorú toisc gur síníodh é le halgartam a bhí díchumasaithe toisc nach bhfuil sé slán.
 cert-not-verified-unknown = Ní féidir an teastas seo a fhíorú, ach ní fios cén fáth.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

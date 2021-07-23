@@ -129,6 +129,8 @@ security-site-data-only = Tá, { $value }{ $unit } de shonraí suímh
 security-site-data-cookies-only = Tá, fianáin
 security-site-data-no = Níl
 
+##
+
 image-size-unknown = Anaithnid
 page-info-not-specified =
     .value = Gan sonrú

@@ -36,16 +36,20 @@ menu-quit =
             [windows] S
            *[other] S
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Scoir { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Scoir { -brand-shorter-name }
+
 menu-about =
     .label = Maidir le { -brand-shorter-name }
     .accesskey = M
@@ -297,8 +301,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Fabhtcheartú
     .accesskey = t
-menu-help-taskmanager =
-    .label = Bainisteoir Tascanna
 menu-help-report-site-issue =
     .label = Tuairiscigh Fadhb le Suíomh…
 menu-help-feedback-page =

@@ -163,6 +163,7 @@ cfr-doorhanger-milestone-heading =
         [many] Níos mó ná <b>{ $blockedCount }</b> lorgaire coiscthe ag { -brand-short-name } ó { $date }!
        *[other] Níos mó ná <b>{ $blockedCount }</b> lorgaire coiscthe ag { -brand-short-name } ó { $date }!
     }
+
 cfr-doorhanger-milestone-ok-button = Féach Uile
     .accesskey = F
 
@@ -181,4 +182,8 @@ cfr-doorhanger-milestone-ok-button = Féach Uile
 ## DOH Message
 
 ## What's new: Cookies message
+
+## Fission Experiment Message
+
+## Full Video Support CFR message
 

@@ -18,3 +18,4 @@ clear-site-data-cancel =
 clear-site-data-clear =
     .label = Glan
     .accesskey = l
+

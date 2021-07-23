@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Cuardach
 
 newtab-search-box-search-the-web-text = Cuardaigh an Gréasán
+
 newtab-search-box-search-the-web-input =
     .placeholder = Cuardaigh an Gréasán
     .title = Cuardaigh an Gréasán
@@ -50,6 +51,8 @@ newtab-topsites-add-button = Cuir leis
 newtab-confirm-delete-history-p1 = An bhfuil tú cinnte gur mhaith leat an leathanach seo a scriosadh go hiomlán ó do stair?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ní féidir an gníomh seo a chur ar ceal.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -128,4 +131,6 @@ newtab-pocket-read-more = Topaicí i mbéal an phobail:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
+
+## Customization Menu
 

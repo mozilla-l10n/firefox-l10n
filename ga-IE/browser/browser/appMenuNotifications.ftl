@@ -34,3 +34,4 @@ appmenu-homepage-controlled =
     .buttonaccesskey = C
     .secondarybuttonlabel = Díchumasaigh an Eisínteacht
     .secondarybuttonaccesskey = D
+
