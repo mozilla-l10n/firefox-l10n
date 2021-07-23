@@ -38,16 +38,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = 退出 { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = 退出 { -brand-shorter-name }
+
 menu-about =
     .label = 关于 { -brand-shorter-name }
     .accesskey = A
@@ -173,6 +177,7 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = 文字编码
     .accesskey = c
+
 menu-view-repair-text-encoding =
     .label = 修复文字编码
     .accesskey = c
@@ -218,6 +223,7 @@ menu-history-undo-menu =
     .label = 最近关闭的标签页
 menu-history-undo-window-menu =
     .label = 最近关闭的窗口
+
 menu-history-reopen-all-tabs = 重新打开所有标签页
 menu-history-reopen-all-windows = 重新打开所有窗口
 

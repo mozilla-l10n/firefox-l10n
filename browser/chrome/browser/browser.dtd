@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "历史">
+
 <!ENTITY historyUndoMenu.label "最近关闭的标签页">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "最近关闭的窗口">
@@ -155,6 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "查看历史记录侧栏">
 <!ENTITY appMenuHistory.hideSidebar.label "隐藏历史记录侧栏">
 <!ENTITY appMenuHistory.recentHistory.label "近期历史记录">
+
 <!ENTITY appMenuHelp.label "帮助">
 
 <!ENTITY appMenuRemoteTabs.label "受同步的标签页">

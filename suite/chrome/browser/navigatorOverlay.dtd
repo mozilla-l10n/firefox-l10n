@@ -25,9 +25,6 @@ left instead of right. -->
 <!ENTITY uploadFile.label "上传文件…">
 <!ENTITY uploadFile.accesskey "F">
 
-<!ENTITY printSetupCmd.label "页面设置…">
-<!ENTITY printSetupCmd.accesskey "u">
-
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "在当前页查找…">
 

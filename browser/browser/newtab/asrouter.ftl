@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = 试试看：固定标签页
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 为什么我会看到这个？
+
 cfr-doorhanger-extension-cancel-button = 暂时不要
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = 立刻添加
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = 固定此标签页
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = 管理推荐设置
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = 不再显示此推荐
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = 详细了解
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = 由 { $name } 开发
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = 推荐
 cfr-doorhanger-extension-notification2 = 推荐
     .tooltiptext = 推荐扩展
     .a11y-announcement = 有推荐扩展可用
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = 推荐
@@ -57,6 +65,7 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } 个用户
     }
+
 cfr-doorhanger-pintab-description = 固定常用的网站，就算重启也能快捷打开。
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -64,8 +73,10 @@ cfr-doorhanger-pintab-description = 固定常用的网站，就算重启也能�
 cfr-doorhanger-pintab-step1 = <b>右键点击</b>您想要固定的标签页。
 cfr-doorhanger-pintab-step2 = 在菜单中选择<b>固定标签页</b>。
 cfr-doorhanger-pintab-step3 = 若网站有新动向，固定的标签页上会出现蓝色小点。
+
 cfr-doorhanger-pintab-animation-pause = 暂停
 cfr-doorhanger-pintab-animation-resume = 恢复
+
 
 ## Firefox Accounts Message
 
@@ -87,16 +98,22 @@ cfr-protections-panel-link-text = 详细了解
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = 新功能
+
 cfr-whatsnew-button =
     .label = 新版变化
     .tooltiptext = 新版变化
+
 cfr-whatsnew-panel-header = 新版变化
+
 cfr-whatsnew-release-notes-link-text = 阅读发行说明
+
 cfr-whatsnew-fx70-title = { -brand-short-name } 为您的隐私而战
 cfr-whatsnew-fx70-body = 最新的更新增强了跟踪保护功能，并可比以往更容易地让为每个站点创建安全密码。
+
 cfr-whatsnew-tracking-protect-title = 保护自己远离跟踪器
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } 拦截了许多会窥视您浏览活动的常见社交和跨网站型跟踪器。
 cfr-whatsnew-tracking-protect-link-text = 查看您的报告
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -106,9 +123,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = 自{ DATETIME($earliestDate, month: "long", year: "numeric") }起
 cfr-whatsnew-tracking-blocked-link-text = 查看报告
+
 cfr-whatsnew-lockwise-backup-title = 备份您的密码
 cfr-whatsnew-lockwise-backup-body = 立即生成安全密码，并可在您登录的任何设备访问。
 cfr-whatsnew-lockwise-backup-link-text = 开启备份
+
 cfr-whatsnew-lockwise-take-title = 随身携带密码
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 移动端应用可让您安全地访问在所有设备中备份的密码。
 cfr-whatsnew-lockwise-take-link-text = 获取应用
@@ -144,6 +163,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] 已拦截数字指纹跟踪程序
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } 会拦截许多偷偷收集设备信息和操作行为，以针对您投放定向广告的数字指纹跟踪程序。
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = 数字指纹跟踪程序
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } 可拦截偷偷收集设备信息和操作行为，以针对您投放定向广告的数字指纹跟踪程序。
@@ -201,6 +221,7 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] 自{ $date }起，{ -brand-short-name } 已拦截超过 <b>{ $blockedCount }</b> 个跟踪器！
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -234,12 +255,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = 画中画图标
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = 关闭
-    .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = 保护信息，一目了然
 cfr-whatsnew-protections-body = 保护信息面板包含有关数据外泄和密码管理的摘要报告。现在，您可以跟踪已处理的外泄事件数量，并检查是否有任何存放的密码已遭泄露。
 cfr-whatsnew-protections-cta-link = 查看保护信息面板
@@ -249,6 +264,12 @@ cfr-whatsnew-protections-icon-alt = 盾牌图标
 
 cfr-whatsnew-better-pdf-header = 更佳的 PDF 体验
 cfr-whatsnew-better-pdf-body = PDF 文档现可直接在 { -brand-short-name } 中打开，让您的工作流程更顺畅。
+
+cfr-doorhanger-milestone-close-button = 关闭
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -270,35 +291,15 @@ cfr-doorhanger-fission-secondary-button = 详细了解
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = 自动保护，拒绝跟踪
-cfr-whatsnew-clear-cookies-body = 有些跟踪器会偷偷将您重定向至设置 Cookie 进行跟踪的网站。{ -brand-short-name } 现在起，会自动清除这些 Cookie 让您不被跟踪。
-cfr-whatsnew-clear-cookies-image-alt = 拦截 Cookie 图示
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = 更多媒体控制
-cfr-whatsnew-media-keys-body = 直接用键盘或耳机播放/暂停音视频，从而可以轻松地在其他标签页及别的程序，甚至在计算机锁定时控制媒体。您也可以使用前进和后退键调整进度条。
-cfr-whatsnew-media-keys-button = 了解如何操作
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = 在地址栏搜索快捷方式
-cfr-whatsnew-search-shortcuts-body = 现在起，当您在地址栏输入搜索引擎或特定网址时，下方搜索建议中将会显示一个蓝色快捷方式。选择它即可直接从地址栏完成搜索。
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = 阻止有害的超级 Cookie 跟踪
-cfr-whatsnew-supercookies-body = 某些网站会偷偷将“超级 Cookie”置入浏览器，在网上肆无忌惮地跟踪您，即使清理掉常规 Cookie 也无法消除。{ -brand-short-name } 现在起可提供应对超级 Cookie 的强大保护，阻止其跟踪您的网上活动。
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = 更佳的书签体验
-cfr-whatsnew-bookmarking-body = 更轻松地追踪您喜爱的网站。{ -brand-short-name } 现在起会记忆您保存书签的的偏好位置、在新标签页默认显示书签工具栏，并可让您通过工具栏上的文件夹快速访问其他书签。
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = 全面的跨网站 Cookie 跟踪保护
-cfr-whatsnew-cross-site-tracking-body = 现在起，您可以更好地保护自己不受 Cookie 跟踪。{ -brand-short-name } 可将您在不同网站上的活动与数据相互分隔，杜绝浏览器中存储的信息在网站间共享。
 
 ## Full Video Support CFR message
 

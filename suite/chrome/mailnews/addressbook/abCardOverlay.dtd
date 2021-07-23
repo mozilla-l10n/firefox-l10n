@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "显示名称：">
 <!ENTITY DisplayName.accesskey          "D">
 <!ENTITY preferDisplayName.label        "消息头优先列出显示名称">
-<!ENTITY preferDisplayName.accesskey    "A">
 <!ENTITY preferDisplayName2.accesskey   "y">
 <!ENTITY NickName.label                 "昵称：">
 <!ENTITY NickName.accesskey             "N">
@@ -46,8 +45,6 @@
 <!ENTITY PlainText.label                "纯文本">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "未知">
-<!ENTITY ScreenName.label               "屏幕名：">
-<!ENTITY ScreenName.accesskey           "S">
 
 <!ENTITY chatName.label                 "聊天名称：">
 

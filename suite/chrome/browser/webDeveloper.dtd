@@ -19,7 +19,6 @@
 
 <!ENTITY responsiveDesignTool.label      "响应式设计视图">
 <!ENTITY responsiveDesignTool.accesskey  "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label                "取色器">
 <!ENTITY eyedropper.accesskey            "y">

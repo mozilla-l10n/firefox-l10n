@@ -8,7 +8,6 @@
 
 <!ENTITY markAsUnreadCmd.label     "为未读">
 <!ENTITY markAsUnreadCmd.accesskey "U">
-<!ENTITY markAsUnreadCmd.key       "m">
 
 <!ENTITY markAsUnreadCmd2.key      "u">
 

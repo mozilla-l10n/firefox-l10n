@@ -61,9 +61,9 @@
 <!ENTITY itemSessions.label               "已通过验证的会话">
 <!ENTITY itemSessions.accesskey           "S">
 
+<!ENTITY sanitizeButton.label            "立即清除隐私数据">
 <!ENTITY itemSessionsS.accesskey          "u">
 
-<!ENTITY sanitizeButton.label            "立即清除隐私数据">
 <!ENTITY itemSitePreferences.label        "站点设置">
 <!ENTITY itemSitePreferences.accesskey    "P">
 <!ENTITY itemSitePreferencesS.accesskey   "t">
