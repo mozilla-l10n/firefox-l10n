@@ -5,6 +5,7 @@
 <!ENTITY pref.notifications.title         "Notificaciones">
 <!ENTITY notifications.caption            "Notificaciones">
 <!ENTITY newMessagesArrive.label          "Quan pleguen nuevos mensaches:">
+
 <!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
      showAlertFor.label is associated with the checkbox to show the alert,
      leading into a numerical field to enter a time in seconds, followed by

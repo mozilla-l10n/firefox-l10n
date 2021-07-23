@@ -22,18 +22,9 @@
 <!ENTITY alwaysAsk.label                "Preguntar-me/Preguntar'me siempre án alzar fichers">
 <!ENTITY alwaysAsk.accesskey            "P">
 
-<!ENTITY downloadHistory.label          "Descargar historial">
-<!ENTITY removeEntries.label            "Eliminar dentradas de l'historial">
-<!ENTITY removeEntries.accesskey        "m">
-<!ENTITY whenCompleted.label            "Quan s'haigan completau">
-<!ENTITY whenQuittingApp.label          "Al salir de &brandShortName;">
-<!ENTITY neverRemove.label              "Nunca">
-
 <!ENTITY finishedBehavior.label         "Quan se completa una descarga">
 <!ENTITY playSound.label                "Reproducir un son">
 <!ENTITY playSound.accesskey            "R">
-<!ENTITY showAlert.label                "Mostrar una alerta">
-<!ENTITY showAlert.accesskey            "o">
 <!ENTITY browse.label                   "Yxaminar…">
 <!ENTITY browse.accesskey               "x">
 <!ENTITY playButton.label               "Reproducir">

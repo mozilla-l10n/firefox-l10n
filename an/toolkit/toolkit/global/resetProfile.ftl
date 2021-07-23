@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Refrescar { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Refrescar { -brand-short-name }
 refresh-profile-description = Empecipiar dende zero ta apanyar os problemas y recuperar as prestacions.

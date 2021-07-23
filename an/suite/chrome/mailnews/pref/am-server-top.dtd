@@ -42,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "D">
 <!ENTITY downloadOnBiff.label "Descargar automáticamente os mensaches nuevos">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Nombre d'a cuenta">
 <!ENTITY deleteMessagePrefix.label "Quan elimine un mensache:">
 <!ENTITY modelMoveToTrash.label "Moverlo a ista carpeta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -73,7 +72,6 @@
 <!ENTITY abbreviateOn.label "Nombres completos (Por eixemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nombres abreviaus (Por eixemplo,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzadas…">
-<!ENTITY serverDefaultCharset.label "Codif. caracters predet.:">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localPath.label "Directorio local:">
 <!ENTITY localFolderPicker.label "Trige directorio local">

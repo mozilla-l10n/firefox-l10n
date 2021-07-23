@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Empecipiar en Modo seguro
+
 refresh-profile =
     .label = Refrescar o { -brand-short-name }
 safe-mode-description = Lo Modo seguro ye un modo especial d'o { -brand-short-name } que se fa servir pa solucionar problemas.

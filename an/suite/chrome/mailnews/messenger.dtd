@@ -16,6 +16,8 @@
 <!-- File menu items -->
 
 
+<!-- menu items: the . means that the menu item isn't implemented yet -->
+
 <!ENTITY newMessage.label "Nuevo mensache">
 <!ENTITY newMessage.accesskey "N">
 <!ENTITY newFolderCmd.label "Carpeta…">
@@ -47,7 +49,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "e">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Todas as cuentas">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
-<!ENTITY getAllNewMsgCmd.label "Recibir totz os mensaches nuevos">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Obtener 500 nuevos mensaches">
 <!ENTITY getNextNMsgCmd.accesskey "t">
@@ -238,6 +239,7 @@
      This is the key used to show the Lightning quick filter bar. -->
 
 <!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 
@@ -402,6 +404,7 @@
 <!-- Toolbar items -->
 
 <!ENTITY getMsgButton.label "Recibir mensaches">
+<!ENTITY getAllNewMsgCmd.label "Recibir totz os mensaches nuevos">
 <!ENTITY newMsgButton.label "Redactar">
 <!ENTITY newHTMLMessageCmd.label "Redactar en HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
@@ -441,7 +444,6 @@
 <!ENTITY undeleteButton.tooltip "Recuperar mensache trigau">
 <!ENTITY markButton.tooltip "Marcar mensaches">
 <!ENTITY stopButton.tooltip "Aturar a transferencia actual">
-<!ENTITY throbber.tooltip "Ir a la pachina prencipal de &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marcar os mensaches trigaus como correu vasuera">
 <!ENTITY notJunkButton.tooltip "Marcar os mensaches trigaus como correu normal">
 <!-- Statusbar -->

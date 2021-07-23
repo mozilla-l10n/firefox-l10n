@@ -7,3 +7,8 @@ default-browser-notification-message = <strong>Configurar { -brand-short-name } 
 default-browser-notification-button =
     .label = Configurar como predeterminau
     .accesskey = C
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+

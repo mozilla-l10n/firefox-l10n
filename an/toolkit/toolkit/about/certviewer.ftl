@@ -14,5 +14,7 @@ certificate-viewer-certificate-section-title = Certificau
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
 
+##
+
 ## Labels for tabs displayed in stand-alone about:certificate page
 

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 profiles-title = Sobre los Perfils
 profiles-subtitle = Is pachina t'aduya a chestionar los tuyos perfils. Cada perfil ye un mundo deseparau que contién historials, marcapachinas, achustes y complementos diferents.
 profiles-create = Creyar un Nuevo Perfil
@@ -13,11 +14,13 @@ profiles-flush-fail-title = No s'han alzau los cambios
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Una error inesperada ha privau que los cambios fuesen alzaus.
 profiles-flush-restart-button = Reiniciar { -brand-short-name }
+
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Perfil: { $name }
 profiles-is-default = Perfil por defecto
 profiles-rootdir = Directorio radiz
+
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
@@ -27,22 +30,28 @@ profiles-rootdir = Directorio radiz
 profiles-localdir = Directorio local
 profiles-current-profile = Iste ye lo perfil en uso y no se puet borrar.
 profiles-in-use-profile = Este perfil lo ye usando belatra aplicación y no se puede borrar.
+
 profiles-rename = Renombrar
 profiles-remove = Borrar
 profiles-set-as-default = Fixar como perfil por defecto
 profiles-launch-profile = Lanzar lo perfil en un nuevo navegador
+
 profiles-cannot-set-as-default-title = No se puet establir per defecto
 profiles-cannot-set-as-default-message = Lo perfil por defecto no se puet cambiar pa { -brand-short-name }.
+
 profiles-yes = sí
 profiles-no = no
+
 profiles-rename-profile-title = Renombrar lo Perfil
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = Renombrar lo perfil { $name }
+
 profiles-invalid-profile-name-title = Nombre de perfil invalido
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Lo nombre de perfil "{ $name }" no ye permitiu.
+
 profiles-delete-profile-title = Borrar o perfil
 # Variables:
 #   $dir (String) - Path to be displayed
@@ -52,8 +61,11 @@ profiles-delete-profile-confirm =
     Querría borrar los fichers dadatos d'o perfil?
 profiles-delete-files = Borrar los fichers
 profiles-dont-delete-files = No borrar los fichers
+
 profiles-delete-profile-failed-title = Error
 profiles-delete-profile-failed-message = I ha habiu una error mientres se miraba de borrar este perfil.
+
+
 profiles-opendir =
     { PLATFORM() ->
         [macos] Amostrar en Finder

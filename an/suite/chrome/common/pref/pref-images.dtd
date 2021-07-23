@@ -20,10 +20,3 @@
 <!ENTITY loadNoImagesRadio.accesskey    "e">
 <!ENTITY viewPermissions.label          "Administrar permisos">
 <!ENTITY viewPermissions.accesskey      "d">
-<!ENTITY animLoopingTitle.label         "As imachens animadas habrían de repetir">
-<!ENTITY animLoopAsSpecified.label      "Tantas veces como especifique a imachen">
-<!ENTITY animLoopAsSpecified.accesskey  "m">
-<!ENTITY animLoopOnce.label             "Una sola vez">
-<!ENTITY animLoopOnce.accesskey         "o">
-<!ENTITY animLoopNever.label            "Nunca">
-<!ENTITY animLoopNever.accesskey        "N">

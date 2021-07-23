@@ -7,6 +7,7 @@
 <!ENTITY popupWindowRejectCmd.accesskey "R">
 <!ENTITY popupWindowAllowCmd.label      "Permitir finestras emerchents d'iste puesto web">
 <!ENTITY popupWindowAllowCmd.accesskey  "P">
+
 <!ENTITY openLinkCmdInTab.label       "Ubrir vinclo en una pestaña nueva">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Ubrir vinclo en una finestra nueva">
@@ -147,3 +148,4 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "I">
 <!ENTITY spellAddDictionaries.label     "Descargar mas diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "D">
+

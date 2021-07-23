@@ -6,16 +6,12 @@
 <!ENTITY pref.locationBar.title                "Barra d'adrezas">
 
 <!ENTITY autoComplete.label                    "Autocompletado">
-<!ENTITY enableAutoComplete.label              "Autocompletar dende o suyo historial de navegación seguntes escribe">
-<!ENTITY enableAutoComplete.accesskey          "A">
 <!ENTITY autoCompleteAutoFill.label            "Precumplimentar automaticament a millor coincidencia">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Amostrar una lista de resultaus coincidents">
 <!ENTITY autoCompleteShowPopup.accesskey       "A">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Fer coincidir solament puestos web que haiga escrito previament">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "F">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Fer coincidir solament en as adrezas, no en os titols de puestos web">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey

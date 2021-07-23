@@ -19,8 +19,6 @@
 <!ENTITY uploadFile.label "O suyobir fichero…">
 <!ENTITY uploadFile.accesskey "b">
 
-<!ENTITY printSetupCmd.label "Configurar pachina…">
-<!ENTITY printSetupCmd.accesskey "u">
 <!-- Edit Menu -->
 
 <!ENTITY findOnCmd.label "Buscar en ista pachina…">
@@ -122,17 +120,11 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "n">
 <!ENTITY cookieBlockImagesMsg.label "As imachens d'iste puesto web no se descargarán nunca.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Permitir finestras emerchents d'iste sitiu web">
-<!ENTITY cookieAllowPopupsCmd.accesskey "u">
-<!ENTITY cookieManagePopups.label "Administrar finestras emerchents">
-<!ENTITY cookieManagePopups.accesskey "s">
-
 <!ENTITY cookieCookieManager.label "Administrador de cookies">
 <!ENTITY cookieCookieManager.accesskey "k">
 <!ENTITY cookieImageManager.label "Administrador d'imachens">
 <!ENTITY cookieImageManager.accesskey "i">
-<!ENTITY cookiePopupManager.label "Administrador de finestras emerchents">
-<!ENTITY cookiePopupManager.accesskey "f">
 
 <!ENTITY clearPrivateDataCmd.label "Limpiar datos privaus…">
 <!ENTITY clearPrivateDataCmd.accesskey "L">
+

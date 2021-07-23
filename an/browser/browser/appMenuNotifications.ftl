@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Vale, entendiu!
     .buttonaccesskey = V
 appmenu-addon-post-install-message = Chestionar los tuyos complementos fendo clic <image data-l10n-name='addon-install-icon'></image> en o <image data-l10n-name='addon-menu-icon'></image> menú.
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir esta extensión en las finestras privadas
     .accesskey = P
@@ -52,6 +53,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = M
     .secondarybuttonlabel = Desactivar extensión
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = Acceder a las tuyas pestanyas amagadas
     .buttonlabel = Mantener pestanyas amagadas

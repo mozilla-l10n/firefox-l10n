@@ -11,6 +11,7 @@
 <!ENTITY subject.accesskey "s">
 <!ENTITY attachments.label "Adchuntos:">
 <!ENTITY attachments.accesskey "c">
+
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 <!-- File menu items -->
 
@@ -45,6 +46,7 @@
 <!ENTITY editRewrapCmd.label "Reajuste de linia">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "j">
+
 <!ENTITY accountManagerCmd.label "Mail &amp; Newsgroups Account Settings…">
 <!ENTITY accountManagerCmd.accesskey "m">
 <!-- View menu items -->
@@ -100,6 +102,7 @@
 <!ENTITY fileCarbonCopyCmd.label "Enviar una copia a">
 <!ENTITY fileCarbonCopyCmd.accesskey "v">
 <!ENTITY fileHereMenu.label "Archivar aquí">
+
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
 
@@ -109,6 +112,7 @@
 <!ENTITY spellingButton.label "Ortografía">
 <!ENTITY saveButton.label "Alzar">
 <!ENTITY stopButton.label "Aturar">
+
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 

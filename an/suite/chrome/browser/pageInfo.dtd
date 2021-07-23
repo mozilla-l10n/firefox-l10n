@@ -31,7 +31,6 @@
 <!ENTITY  generalReferrer       "URL de procedencia:">
 <!ENTITY  generalSource         "Orichen d'o caché:">
 <!ENTITY  generalModified       "Modificau:">
-<!ENTITY  generalEncoding       "Codificación:">
 <!ENTITY  generalMetaName       "Nombre">
 <!ENTITY  generalMetaContent    "Conteniu">
 <!ENTITY  generalSecurityDetails           "Detalles">
@@ -60,16 +59,11 @@
 
 <!ENTITY  mediaTab              "Meyos">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaURL              "Adreza:">
-<!ENTITY  mediaAlt              "Texto alternativo:">
 <!ENTITY  mediaAltHeader        "Texto alternativo">
 <!ENTITY  mediaAddress          "Adreza">
 <!ENTITY  mediaType             "Tipo">
 <!ENTITY  mediaSize             "Grandaria">
 <!ENTITY  mediaCount            "Cuenta">
-<!ENTITY  mediaDimensions       "Dimensiones especificadas:">
-<!ENTITY  mediaPhysDimensions   "Dimensiones reals:">
-<!ENTITY  mediaTitle            "Titol:">
 <!ENTITY  mediaLongdesc         "Descripción larga:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Alzar como…">
@@ -84,18 +78,7 @@
 
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Usar valors preterminados">
-<!ENTITY  permAskAlways         "Preguntar siempre">
-<!ENTITY  permAllow             "Permitir">
-<!ENTITY  permAllowSession      "Permitir entre a sesión">
-<!ENTITY  permBlock             "Bloqueyar">
 <!ENTITY  permissionsFor        "Permisos para:">
-<!ENTITY  permImage             "Cargar imachens">
-<!ENTITY  permPopup             "Ubrir finestras emerchents">
-<!ENTITY  permCookie            "Establir cookies">
-<!ENTITY  permNotifications     "Show Notifications">
-<!ENTITY  permInstall           "Instalar extensions u temas">
-<!ENTITY  permGeo               "Compartir ubicación">
 
 <!ENTITY  securityTab           "Seguranza">
 <!ENTITY  securityTab.accesskey "S">

@@ -18,10 +18,6 @@ client, supporting advanced junk mail detection and other useful features.">
 <!ENTITY feat_integration.label "Fuerte integración con a suite d'aplicacions &brandShortName;">
 <!ENTITY dict.title "Diccionarios">
 <!ENTITY dict_intro.label "Os diccionarios s'usan ta comprobar a ortografía d'os suyos mensaches.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label 'Pueden instalar muitos mas idiomas dende a 
-sección de <a id="dictURL" href="">diccionarios</a> de 
- <a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
 <!ENTITY info.title "Mas información">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Nusatros</a> agradeixemos los informes 
