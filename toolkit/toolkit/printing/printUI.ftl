@@ -3,18 +3,31 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printui-title = प्रिंट
+
 printui-page-range-all = सभी
 printui-page-range-label = पृष्ठ
+
 printui-landscape = लैंडस्केप
 printui-portrait = पोर्ट्रेट
+
 printui-destination-pdf-label = PDF में सहेजें
+
 printui-more-settings = अधिक सेटिंग
 printui-less-settings = कम सेटिंग
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = दो तरफा प्रिंटिंग
+
 # Section title for miscellaneous print options
 printui-options = विकल्प
 printui-headers-footers-checkbox = हेडर और फुटर प्रिंट करें
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+##
+
 printui-margins-default = तयशुदा
 printui-margins-custom-top = ऊपर
 printui-margins-custom-top-inches = ऊपर (इंच)
@@ -24,10 +37,12 @@ printui-margins-custom-left = बाएं
 printui-margins-custom-left-inches = बाएं (इंच)
 printui-margins-custom-right = दाएं
 printui-margins-custom-right-inches = दाएं (इंच)
+
 printui-primary-button = प्रिंट करें
 printui-primary-button-save = सहेजें
 printui-cancel-button = रद्द करें
 printui-close-button = बंद करें
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = प्रिंट किया जा रहा है...

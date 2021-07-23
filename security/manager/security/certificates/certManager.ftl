@@ -213,6 +213,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = क्या आप इन सर्वर अपवाद को मिटाने के लिये निश्चित हैं?
 delete-ssl-cert-impact = यदि आप सर्वर अपवाद मिटाते हैं, आप सामान्य सुरक्षा जांच उस सर्वर के लिए फिर बहाल करते हैं और आपके लिए जरूरी है कि यह वैध प्रमाणपत्र का प्रयोग करता है.
 
+
 delete-ca-cert-title =
     .title = Delete or Distrust CA Certificates
 delete-ca-cert-confirm = You have requested to delete these CA certificates. For built-in certificates all trust will be removed, which has the same effect. Are you sure you want to delete or distrust?
@@ -271,6 +272,8 @@ cert-not-verified-issuer-unknown = इस प्रमाणपत्र को 
 cert-not-verified-ca-invalid = इस प्रमाणपत्र को नहीं जांचा जा सका क्योंकि CA प्रमाणपत्र अवैध है.
 cert-not-verified_algorithm-disabled = यह प्रमाणपत्र जाँचा नहीं जा सका क्योंकि यह हस्ताक्षर अलगोरिथम के उपयोग से हस्ताक्षरित किया गया है जो निष्क्रिय किया गया क्योंकि अलगोरिथम सुरक्षित नहीं है.
 cert-not-verified-unknown = इस प्रमाणपत्र को नहीं जांचा जा सका अनजान कारणों से.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

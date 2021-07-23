@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = सुरक्षित विधि में आरंभ करें
+
 start-troubleshoot-mode =
     .label = खोलें
 refresh-profile =

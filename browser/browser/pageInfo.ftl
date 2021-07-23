@@ -129,6 +129,8 @@ security-site-data-only = हाँ, साइट डेटा का { $value }
 security-site-data-cookies-only = हाँ, कुकीज़
 security-site-data-no = नहीं
 
+##
+
 image-size-unknown = अज्ञा‌त
 page-info-not-specified =
     .value = निर्दिष्ट‌ नहीं

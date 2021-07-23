@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fieldMapImport.title "पता पुस्तिका लायें">
+
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "रिकार्ड के लिये आयातित आंकड़ा: ">
 <!ENTITY fieldMapImport.next.accesskey "N">
