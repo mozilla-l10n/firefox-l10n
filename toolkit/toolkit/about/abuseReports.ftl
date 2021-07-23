@@ -42,6 +42,11 @@ abuse-report-submit-button = Υποβολή
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Η αναφορά για το <span data-l10n-name="addon-name">{ $addon-name }</span> ακυρώθηκε.
 abuse-report-messagebar-submitting = Αποστολή αναφοράς για το <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Ευχαριστούμε για την αναφορά σας. Θέλετε να αφαιρέσετε το <span data-l10n-name="addon-name">{ $addon-name }</span>;

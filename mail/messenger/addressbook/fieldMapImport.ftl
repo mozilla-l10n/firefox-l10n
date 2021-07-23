@@ -4,8 +4,10 @@
 
 import-ab-csv-window =
     .title = Εισαγωγή ευρετηρίου από αρχείο κειμένου
+
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Προεπισκόπηση της εισαγωγής δεδομένων για την καταγραφή { $recordNumber }
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Εισαγωγή
     .buttonaccesskeyaccept = Ε

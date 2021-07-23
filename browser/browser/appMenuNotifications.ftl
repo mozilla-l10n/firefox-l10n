@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Όχι τώρα
     .secondarybuttonaccesskey = Ό
 appmenu-update-restart-message = Μετά από μια γρήγορη επανεκκίνηση, το { -brand-shorter-name } θα ανακτήσει όλες τις ανοικτές καρτέλες και τα παράθυρα, που δεν είναι στη λειτουργία ιδιωτικής περιήγησης.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Εντάξει, το 'πιασα
+    .buttonaccesskey = Ε
+appmenu-addon-post-install-message = Διαχειριστείτε τα πρόσθετά σας κάνοντας κλικ στο <image data-l10n-name='addon-install-icon'></image>, στο μενού <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Διαθέσιμη ενημέρωση
     .buttonlabel = Λήψη
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Όχι τώρα
     .secondarybuttonaccesskey = Ό
 appmenu-update-other-instance-message = Μια νέα ενημέρωση του { -brand-shorter-name } είναι διαθέσιμη, αλλά δεν μπορεί να εγκατασταθεί επειδή εκτελείται ένα άλλο αντίγραφο του { -brand-shorter-name }. Κλείστε το για να συνεχίσετε την ενημέρωση, ή επιλέξετε να γίνει ούτως ή άλλως η ενημέρωση (το άλλο αντίγραφο δεν θα λειτουργεί σωστά μέχρι να το επανεκκινήσετε).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Εντάξει, το 'πιασα
-    .buttonaccesskey = Ε
-appmenu-addon-post-install-message = Διαχειριστείτε τα πρόσθετά σας κάνοντας κλικ στο <image data-l10n-name='addon-install-icon'></image>, στο μενού <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Εντάξει
     .buttonaccesskey = Ε
-appmenu-addon-post-install-message2 = Διαχειριστείτε τις επεκτάσεις και τα θέματά σας από το μενού της εφαρμογής.
 appmenu-addon-post-install-message3 = Διαχειριστείτε τα πρόσθετα και τα θέματά σας από το μενού της εφαρμογής.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Να επιτρέπεται η εκτέλεσή του σε ιδιωτικά παράθυρα
     .accesskey = Ν
+    
 appmenu-new-tab-controlled =
     .label = Η νέα σας καρτέλα έχει αλλάξει.
     .buttonlabel = Διατήρηση αλλαγών
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = Δ
     .secondarybuttonlabel = Απενεργοποίηση επέκτασης
     .secondarybuttonaccesskey = Α
+
 appmenu-new-tab-controlled-changes =
     .label = Η νέα σας καρτέλα έχει αλλάξει.
     .buttonlabel = Διατήρηση αλλαγών

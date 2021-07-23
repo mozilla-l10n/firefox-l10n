@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Εισάγετε τη σύνδεσή σας από το { $browser }</div>
     <div data-l10n-name="line2">για το { $host } και άλλες ιστοσελίδες</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Μάθετε περισσότερα
 

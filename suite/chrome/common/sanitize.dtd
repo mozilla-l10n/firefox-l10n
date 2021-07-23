@@ -61,9 +61,9 @@
 <!ENTITY itemSessions.label               "Επαληθευμένες συνεδρίες">
 <!ENTITY itemSessions.accesskey           "σ">
 
+<!ENTITY sanitizeButton.label            "Απαλοιφή ιδιωτικών δεδομένων">
 <!ENTITY itemSessionsS.accesskey          "δ">
 
-<!ENTITY sanitizeButton.label            "Απαλοιφή ιδιωτικών δεδομένων">
 <!ENTITY itemSitePreferences.label        "Προτιμήσεις σελίδων">
 <!ENTITY itemSitePreferences.accesskey    "Π">
 <!ENTITY itemSitePreferencesS.accesskey   "λ">

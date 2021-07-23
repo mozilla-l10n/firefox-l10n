@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "ο">
 
 <!ENTITY historyMenu.label "Ιστορικό">
+
 <!ENTITY historyUndoMenu.label "Πρόσφατα κλεισμένες καρτέλες">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Πρόσφατα κλεισμένα παράθυρα">
@@ -155,6 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Προβολή στήλης ιστορικού">
 <!ENTITY appMenuHistory.hideSidebar.label "Απόκρυψη στήλης ιστορικού">
 <!ENTITY appMenuHistory.recentHistory.label "Πρόσφατο ιστορικό">
+
 <!ENTITY appMenuHelp.label "Βοήθεια">
 
 <!ENTITY appMenuRemoteTabs.label "Συγχρονισμένες καρτέλες">

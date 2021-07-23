@@ -42,6 +42,7 @@ compatibility-issue-occurrences =
         [one] { $number } εμφάνιση
        *[other] { $number } εμφανίσεις
     }
+
 compatibility-no-issues-found = Δεν βρέθηκαν ζητήματα συμβατότητας
 compatibility-close-settings-button =
     .title = Κλείσιμο ρυθμίσεων

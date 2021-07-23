@@ -143,6 +143,7 @@
 
 <!ENTITY helpForIEUsers.label               "Για χρήστες του Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey           "I">
+
 <!ENTITY helpTroubleshootingInfo.label      "Πληροφορίες επίλυσης προβλημάτων">
 <!ENTITY helpTroubleshootingInfo.accesskey  "Π">
 <!ENTITY releaseCmd.label                   "Σημειώσεις έκδοσης">
