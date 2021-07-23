@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ceart, tha mi agaibh
     .buttonaccesskey = C
 appmenu-addon-post-install-message = Gus na tuilleadain agad a stiùireadh, briog air <image data-l10n-name='addon-install-icon'></image> sa chlàr-taice <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Ùrachadh ri fhaighinn
     .buttonlabel = Luchdaich a-nuas
@@ -71,6 +72,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Chan ann an-dràsta
     .secondarybuttonaccesskey = c
 appmenu-update-other-instance-message = Tha ùrachadh air { -brand-shorter-name } ri fhaighinn ach cha ghabh a stàladh on a tha lethbhreac eile dhe { -brand-shorter-name } a’ ruith. Dùin esan airson leantainn ris an ùrachadh no cuir romhad gun dèan thu ùrachadh a dh’aindeoin sin (dh’fhaoidte nach obraich an lethbhreac eile mar bu chòir tuilleadh gus an ath-thòisich thu e).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Ceart ma-thà
     .buttonaccesskey = C
@@ -78,6 +80,7 @@ appmenu-addon-post-install-message3 = Stiùirich na tuilleadain ’s na h-ùrlar
 appmenu-addon-post-install-incognito-checkbox =
     .label = Leig leis an leudachan seo ruith ann an uinneagan prìobhaideach
     .accesskey = a
+    
 appmenu-new-tab-controlled =
     .label = Chaidh na chì thu air taba ùr atharrachadh.
     .buttonlabel = Cum na h-atharraichean
@@ -90,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Cuir an leudachan à comas
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = Chaidh na chì thu air taba ùr atharrachadh.
     .buttonlabel = Cùm na h-atharraichean

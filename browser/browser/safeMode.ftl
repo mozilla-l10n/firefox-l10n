@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 500px
 start-safe-mode =
     .label = Tòisich sa mhodh tèarainte
+
 troubleshoot-mode-window =
     .title = A bheil thu airson { -brand-short-name } fhosgladh ann am modh fuasgladh dhuilgheadasan?
     .style = max-width: 400px

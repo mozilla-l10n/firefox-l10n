@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Cuir tagaichean ris
+
 pocket-panel-saved-error-generic = Thachair mearachd nuair a dh’fheuch sinn ri rud a shàbhaladh ann am { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Chan fhaod taga a bhith nas fhaide na 25 caractar
 pocket-panel-saved-error-only-links = Cha ghabh ach ceanglaichean a shàbhaladh

@@ -4,26 +4,37 @@
 
 set-desktop-background-window =
     .title = Suidhich cùlaibh an deasg
+
 set-desktop-background-accept =
     .label = Suidhich cùlaibh an deasg
+
 open-desktop-prefs =
     .label = Fosgail roghainnean an deasg
+
 set-background-preview-unavailable = Chan eil ro-shealladh ri fhaighinn
+
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
 # Desktop Background settings page.
 set-background-span =
     .label = Ruigheachd
+
 set-background-color = Dath:
+
 set-background-position = Ionad:
+
 set-background-tile =
     .label = Leacaich
+
 set-background-center =
     .label = Cuir sa mheadhan
+
 set-background-stretch =
     .label = Sìn
+
 set-background-fill =
     .label = Lìon
+
 set-background-fit =
     .label = Co-fhreagair

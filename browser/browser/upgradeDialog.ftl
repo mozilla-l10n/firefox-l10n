@@ -11,21 +11,13 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Cuir fàilte gu { -brand-short-name } ùr
 upgrade-dialog-new-subtitle = Chaidh a dhealbhadh ach an dèid thu far an togair thu nas luaithe
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
-# style to be automatically added to the text inside it. { -brand-short-name }
-# should stay inside the span.
-upgrade-dialog-new-alt-subtitle = An toiseach, suidhich <span data-l10n-name="zap">{ -brand-short-name }</span>ach an ruig thu e le aon briogadh
 upgrade-dialog-new-item-menu-title = Bàraichean-inneal is clàran-taice furasta
 upgrade-dialog-new-item-menu-description = Cuir prìomhachas air na nithean cudromach ach an lorg thu na dh’fheumas tu.
 upgrade-dialog-new-item-tabs-title = Tabaichean ùr-nòsach
 upgrade-dialog-new-item-tabs-description = Cùm làmh an uachdair air an t-susbaint le taic ri fòcas is gluasad sùbailte.
 upgrade-dialog-new-item-icons-title = Ìomhaigheagan ùra is teachdaireachdan nas soilleire
 upgrade-dialog-new-item-icons-description = Lorg nithean nas fhasa.
-upgrade-dialog-new-primary-primary-button = Dèan { -brand-short-name } am prìomh-bhrabhsair agam
-    .title = Suidhichidh seo { -brand-short-name } ’na phrìomh-bhrabhsair is thèid a phrìneachadh ri bàr nan saothair
 upgrade-dialog-new-primary-default-button = Dèan { -brand-short-name } am brabhsair bunaiteach agam
-upgrade-dialog-new-primary-pin-button = Prìnich { -brand-short-name } ri bàr nan saothair agam
-upgrade-dialog-new-primary-pin-alt-button = Prìnich ri bàr nan saothair
 upgrade-dialog-new-primary-theme-button = Tagh ùrlar
 upgrade-dialog-new-secondary-button = Chan ann an-dràsta
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -61,10 +53,6 @@ upgrade-dialog-pin-secondary-button = Chan ann an-dràsta
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = A bheil thu airson { -brand-short-name } a chleachdadh ’na bhrabhsair bunaiteach agad?
-upgrade-dialog-default-subtitle = Faigh luaths, sàbhailteachd is prìobhaideachd gach turas a nì thu brabhsadh.
-upgrade-dialog-default-primary-button = Suidhich mar am brabhsair bunaiteach
-# This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Cleachd { -brand-short-name } mar a’ bhun-roghainn agad
 upgrade-dialog-default-subtitle-2 = Faigh luaths, sàbhailteach is prìobhaideachd gu fèin-obrachail.
 upgrade-dialog-default-primary-button-2 = Cleachd mar am brabhsair bunaiteach
@@ -72,10 +60,6 @@ upgrade-dialog-default-secondary-button = Chan ann an-dràsta
 
 ## Theme selection screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title =
-    Dèan toiseach-tòiseachaidh ùr
-    le ùrlar ùr
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title-2 = Dèan toiseach-tòiseachaidh ùr le ùrlar glan
 upgrade-dialog-theme-system = Ùrlar an t-siostaim
