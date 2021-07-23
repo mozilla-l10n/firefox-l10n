@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Dodaj oznake
+
 pocket-panel-saved-error-generic = Došlo je do greške pri spremanju u { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Oznake su ograničene na 25 znakova
 pocket-panel-saved-error-only-links = Mogu se spremiti samo poveznice

@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Otvori pomoću { -brand-short-name }
     .accesskey = m
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

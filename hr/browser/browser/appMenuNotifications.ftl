@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = U redu, razumijem
     .buttonaccesskey = U
 appmenu-addon-post-install-message = Upravljaj svojim dodacima klikom na <image data-l10n-name='addon-install-icon'></image> u <image data-l10n-name='addon-menu-icon'></image> izborniku.
+
 appmenu-update-available2 =
     .label = Dostupna je dopuna
     .buttonlabel = Preuzmi
@@ -71,14 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ne sada
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Novo aktualiziranje za { -brand-shorter-name } je dostupno, ali ne može se instalirati jer je pokrenuta druga instanca { -brand-shorter-name(case: "gen") }. Potrebno ju je zatvoriti za nastavak aktualizacije ili ipak nastaviti aktualizaciju bez zatvaranja (druga instanca možda neće raditi ispravno dok nije ponovno pokrenuta).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = U redu
     .buttonaccesskey = U
-appmenu-addon-post-install-message2 = Upravljaj svojim proširenjima i temama putem izbornika aplikacije.
 appmenu-addon-post-install-message3 = Upravljaj svojim dodacima i temama iz izbornika aplikacije.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Dozvoli ovom dodatku da radi u privatnom prozoru
     .accesskey = a
+    
 appmenu-new-tab-controlled =
     .label = Tvoja nova kartica je promijenjena.
     .buttonlabel = Zadrži promjene
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = Z
     .secondarybuttonlabel = Onemogući dodatak
     .secondarybuttonaccesskey = d
+
 appmenu-new-tab-controlled-changes =
     .label = Tvoja nova kartica je promijenjena.
     .buttonlabel = Zadrži promjene

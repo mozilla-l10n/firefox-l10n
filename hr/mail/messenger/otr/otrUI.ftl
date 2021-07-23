@@ -57,6 +57,7 @@ state-private = Identitet { $name } je provjeren. Trenutni razgovor je kriptiran
 state-finished = { $name } je završio svoj kriptirani razgovor s vama, trebali biste učiniti isto.
 
 state-not_private-label = Nesigurno
+
 state-unverified-label = Neprovjereno
 state-private-label = Privatno
 state-finished-label = Završeno

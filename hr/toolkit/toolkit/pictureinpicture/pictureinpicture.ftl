@@ -3,15 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Slika u slici
+
 pictureinpicture-pause =
     .aria-label = Zaustavi
 pictureinpicture-play =
     .aria-label = Pokreni
+
 pictureinpicture-mute =
     .aria-label = Isključi zvuk
 pictureinpicture-unmute =
     .aria-label = Uključi zvuk
+
 pictureinpicture-unpip =
     .aria-label = Pošalji natrag na karticu
+
 pictureinpicture-close =
     .aria-label = Zatvori
+

@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Podaci certifikacijskog tijela (AIA)
 certificate-viewer-certificate-policies = Pravila certifikata
 certificate-viewer-embedded-scts = Ugrađeni SCT-ovi
 certificate-viewer-crl-endpoints = Krajnje točke CRL-a
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Preuzmi
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (certifikat)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (lanac)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Ovaj dodatak je označen kao kritičan, što znači da klijenti moraju odbaciti certifikat ukoliko ga ne razumiju.
