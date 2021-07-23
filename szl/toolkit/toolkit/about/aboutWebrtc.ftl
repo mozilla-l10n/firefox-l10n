@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Wewnyntrzne dane WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = spamiyntej about:webrtc za
@@ -57,15 +58,9 @@ about-webrtc-ice-pair-bytes-sent = Posłane bajty:
 about-webrtc-ice-pair-bytes-received = Dostane bajty:
 about-webrtc-ice-component-id = ID kōmponyntu
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
 about-webrtc-avg-bitrate-label = Strz. gibkość transmisyje:
-
-##
-
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -76,13 +71,16 @@ about-webrtc-type-remote = Zdalne
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nōminowane
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Ôbrane
+
 about-webrtc-save-page-label = Spamiyntej strōna
 about-webrtc-debug-mode-msg-label = Tryb debugowanio
 about-webrtc-debug-mode-off-state-label = Sztartnij tryb debugowanio
@@ -108,6 +106,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zawarte
 
 ##
 
+
 about-webrtc-local-candidate = Lokalny kandydat
 about-webrtc-remote-candidate = Zdalny kandydat
 
@@ -115,7 +114,6 @@ about-webrtc-remote-candidate = Zdalny kandydat
 
 
 ##
-
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -126,9 +124,14 @@ about-webrtc-remote-candidate = Zdalny kandydat
 ##
 
 
+##
+
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 
 ##
+
+##
+
 

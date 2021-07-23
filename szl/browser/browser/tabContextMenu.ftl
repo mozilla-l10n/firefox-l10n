@@ -63,15 +63,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Ôbier mocka kart
     .accesskey = M
-tab-context-share-url =
-    .label = Udostympnij
-    .accesskey = U
-tab-context-share-more =
-    .label = Wiyncyj…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -93,6 +84,15 @@ move-tabs =
 move-tab =
     .label = Przeniyś karta
     .accesskey = n
+tab-context-share-url =
+    .label = Udostympnij
+    .accesskey = U
+tab-context-share-more =
+    .label = Wiyncyj…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-close-tabs =
     .label =
         { $tabCount ->

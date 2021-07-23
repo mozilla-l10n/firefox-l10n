@@ -5,18 +5,18 @@
 add-engine-window =
     .title = Przidej wyszukowarka
     .style = width: 32em;
+
 add-engine-button = Przidej włosno wyszukowarka
+
 add-engine-name = Miano wyszukowarki
+
 add-engine-alias = Alias
+
 add-engine-url = URL wyszukowarki, użyj %s na plac szukanego tekstu
-add-engine-cancel =
-    .label = Pociep
-    .accesskey = C
-add-engine-ok =
-    .label = Przidej wyszukowarka
-    .accesskey = P
+
 add-engine-dialog =
     .buttonlabelaccept = Przidej wyszukowarka
     .buttonaccesskeyaccept = P
+
 engine-name-exists = Wyszukowarka z mianym, co już je
 engine-alias-exists = Wyszukowarka z aliasym, co już je

@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Ôdświyż aplikacyjo { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Ôdświyż aplikacyjo { -brand-short-name }
 refresh-profile-description = Zacznij ôd nowa, coby rozwiōnzać problymy i wrōcić sprowność.

@@ -129,6 +129,8 @@ security-site-data-only = Ja, { $value }{ $unit } danych strōn
 security-site-data-cookies-only = Ja, cookies
 security-site-data-no = Niy
 
+##
+
 image-size-unknown = Niypoznany
 page-info-not-specified =
     .value = Niyôkreślōne

@@ -8,10 +8,11 @@
 
 ## New changes screen
 
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
-# style to be automatically added to the text inside it. { -brand-short-name }
-# should stay inside the span.
-upgrade-dialog-new-alt-subtitle = Sztartnij i nojprzōd patrz, coby <span data-l10n-name="zap">{ -brand-short-name }</span> bōł niy dalij jak na jedne klikniyńcie
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
 ## Default browser screen
 

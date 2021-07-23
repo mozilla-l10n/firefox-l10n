@@ -41,6 +41,11 @@ abuse-report-submit-button = Poślij
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Raport ô rozszyrzyniu <span data-l10n-name="addon-name">{ $addon-name }</span> je pociepany.
 abuse-report-messagebar-submitting = Posyłanie raportu ô rozszyrzyniu  <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Dziynkujymy za posłanie raportu. Chcesz skasować rozszyrzynie <span data-l10n-name="addon-name">{ $addon-name }</span>?

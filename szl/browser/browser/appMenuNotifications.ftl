@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Niy teroz
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Po gibkim resztarcie { -brand-shorter-name } wrōci wszyske ôtwarte karty i ôkna ôkrōm tych we trybie prywatnego przeglōndanio.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Rozumia
+    .buttonaccesskey = R
+appmenu-addon-post-install-message = Regyruj swojimi przidowkami bez klikniyńcie <image data-l10n-name='addon-install-icon'></image> w myni <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Aktualizacyjo je dostympno
     .buttonlabel = Pobier
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Niy teroz
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Dostympno je nowo aktualizacyjo aplikacyje { -brand-shorter-name }, ale niy idzie jij zainstalować, bo funguje inkszo kopia aplikacyje { -brand-shorter-name }. Zawrzij jōm, coby dalij aktualizować, abo ôbier aktualizowanie bez zawarcio (ta inkszo kopia może niy fungować dobrze, podwiela jij niy resztartniesz).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Rozumia
-    .buttonaccesskey = R
-appmenu-addon-post-install-message = Regyruj swojimi przidowkami bez klikniyńcie <image data-l10n-name='addon-install-icon'></image> w myni <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Regiyruj rozszyrzyniami i tymatami z myni aplikacyje.
 appmenu-addon-post-install-message3 = Regiyruj rozszyrzyniami i tymatami z myni aplikacyje.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Zgoda, coby te rozszyrzynie fungowało we prywatnych ôknach
     .accesskey = Z
+    
 appmenu-new-tab-controlled =
     .label = Nowo karta je teroz zmiyniōno.
     .buttonlabel = Spamiyntej zmiany
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = S
     .secondarybuttonlabel = Zastow rozszyrzynie
     .secondarybuttonaccesskey = Z
+
 appmenu-new-tab-controlled-changes =
     .label = Nowo karta je zmiyniōno.
     .buttonlabel = Ôstow zmiany

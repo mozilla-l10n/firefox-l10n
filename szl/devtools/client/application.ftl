@@ -14,35 +14,45 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = Service Workers
+
 # Text displayed next to the list of Service Workers to encourage users to check out
 # about:debugging to see all registered Service Workers.
 serviceworker-list-aboutdebugging = Ôdewrzij <a>about:debugging</a>, coby pokozać service workerōw z inkszych dōmyn
+
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Ôdregistruj
+
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
 serviceworker-worker-debug = Debugguj
     .title = Idzie debuggować ino service workerōw, co fungujōm
+
 # Text for the debug link displayed for an already started Service Worker, when we
 # are in multi e10s mode, which effectively disables this link.
 serviceworker-worker-debug-forbidden = Debugguj
     .title = Idzie debuggować service workerōw, ino jak multi e10s je zastawiōne
+
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Sztartnij
     .title = Idzie sztartnōnć service workerōw, ino jak multi e10s je zastawiōne
+
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Zbadej
+
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Sztartnij
+
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Zaktualizowane <time>{ DATETIME($date, month: "numeric", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
+
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = Zdrzōdło
+
 # Text displayed next to the current status of the service worker.
 serviceworker-worker-status = Sztatus
 
@@ -52,93 +62,126 @@ serviceworker-worker-status = Sztatus
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = Robi
+
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Sztopniynty
+
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro = Coby pokozać sam service workera, trza go piyrw zaregistrować. <a>Przewiydz sie wiyncyj</a>
+
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 serviceworker-empty-suggestions = Jak aktualno strōna winna mieć service workera, tukej znojdziesz dorady, czego idzie sprōbować
+
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Badnij za felerami w kōnsoli. <a>Ôdewrzij kōnsola</a>
+
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
 serviceworker-empty-suggestions-debugger = Przejrzij krok po kroku registracyjo tego serwice workera i poszukej za wyjōntkami. <a>Ôdewrzij debuggra</a>
+
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Badnij na service workery z inkszych dōmyn. <a>Ôdewrzij about:dobugging</a>
+
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = Żodne service workery niy sōm znodniynte
+
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Przewiydz sie wiyncyj
+
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 # <a> and <span> are links that will open the webconsole and the debugger, respectively.
 serviceworker-empty-suggestions2 = Jak aktualno strōna winna mieć service workera, możesz poszukać ze felerami we <a>kōnsoli</a> abo przejrzeć krok po kroku registracyjo tego service workera w <span>dubuggrze</span>.
+
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = Ôbocz service workery z inkszych dōmyn
+
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest aplikacyje
+
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = Trza sam przidać manifest aplikacyje, coby na niego badnōnć. <a>Przewiydz sie wiyncyj</a>
+
 # Header for the Manifest page when there's no manifest to inspect
 manifest-empty-intro2 = Żodyn manifest aplikacyje niy ma znodniynty
+
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro-link = Przewiydz sie, jak idzie przidać manifest
+
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Felery i upozorniynia
+
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = Tōżsamość
+
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
 manifest-item-presentation = Prezyntacyjo
+
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Ikōny
+
 # Text displayed while we are loading the manifest file
 manifest-loading = Ladowanie manifestu…
+
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Manifest je zaladowany.
+
 # Text displayed as a caption when there has been an error while trying to
 # load the manifest
 manifest-loaded-error = Przi ladowaniu manifestu pokozoł sie feler:
+
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
 manifest-loaded-devtools-error = Feler we Firefox DevTools
+
 # Text displayed when the page has no manifest available
 manifest-non-existing = Niy bōł znodniynty żodyn manifest do badniyńcio.
+
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = Manifest je wrażōny we Data-URL.
+
 # Text displayed at manifest icons to label their purpose, as declared
 # in the manifest.
 manifest-icon-purpose = Cyl: <code>{ $purpose }</code>
+
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
     .alt = Ikōna
+
 # Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest. `$sizes` is a user-dependent string that has been parsed as a
 # space-separated list of `<width>x<height>` sizes or the keyword `any`.
 manifest-icon-img-title = Ikōna ze srogościōm: { $sizes }
+
 # Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest, in case there's no icon size specified by the user
 manifest-icon-img-title-no-sizes = Ikōna z niyôbkryślōnōm srogościōm
+
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifest
     .alt = Ikōna manifestu
     .title = Manifest
+
 # Sidebar navigation item for Service Workers sidebar item section
 sidebar-item-service-workers = Service workery
     .alt = Ikona service workera
     .title = Service workery
+
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ikōna upozorniynio
     .title = Upozorniynie
+
 # Text for the ALT and TITLE attributes of the error icon
 icon-error =
     .alt = Ikōna felera
     .title = Feler
+

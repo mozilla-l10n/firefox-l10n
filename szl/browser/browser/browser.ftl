@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Prywatne przeglōndanie)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Prywatne przeglōndanie)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Prywatne przeglōndanie)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Prywatne przeglōndanie)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -109,6 +111,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Mynij pisz, wiyncyj znojduj: szukej z { $engineName } drek z poska adresy.
 urlbar-search-tips-redirect-2 = Zacznij wkludzać na posku adresy, coby ôboczyć podpowiedzi z wyszukowarki { $engineName } i z historyje twojigo przeglōndanio.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Ôbier tyn skrōt, coby snadnij znojść to, czego potrzebujesz.
@@ -145,10 +148,12 @@ urlbar-midi-blocked =
     .tooltiptext = Dostymp tyj strōny do maszin MIDI je zablokowany.
 urlbar-install-blocked =
     .tooltiptext = Instalacyjo przidowkōw ôd tyj strōny je zablokowano.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edytuj ta zokłodka ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -158,6 +163,7 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Przidej do poska adresy
+
 page-action-manage-extension =
     .label = Regyruj rozszyrzyniym…
 page-action-remove-from-urlbar =
@@ -166,51 +172,6 @@ page-action-remove-extension =
     .label = Wyciep rozszyrzynie
 
 ## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Poślij karta na maszina
-            [few] Poślij { $tabCount } katy na maszina
-           *[many] Poślij { $tabCount } kart na maszina
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Poślij karta na maszina
-            [few] Poślij { $tabCount } katy na maszina
-           *[many] Poślij { $tabCount } kart na maszina
-        }
-page-action-copy-url-panel =
-    .label = Kopiuj link
-page-action-copy-url-urlbar =
-    .tooltiptext = Kopiuj link
-page-action-email-link-panel =
-    .label = Poślij link emailym…
-page-action-email-link-urlbar =
-    .tooltiptext = Poślij link emailym…
-page-action-share-url-panel =
-    .label = Udostympnij
-page-action-share-url-urlbar =
-    .tooltiptext = Udostympnij
-page-action-share-more-panel =
-    .label = Wiyncyj…
-page-action-send-tab-not-ready =
-    .label = Synchrōnizacyjo maszin…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Przipnij karta
-page-action-pin-tab-urlbar =
-    .tooltiptext = Przipnij karta
-page-action-unpin-tab-panel =
-    .label = Ôdepnij karta
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Ôdepnij karta
 
 ## Auto-hide Context Menu
 
@@ -226,12 +187,15 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Poszukej we:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Zmiana sztelōnkōw szukanio
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Zmiyń sztelōnki szukanio
+
 search-one-offs-context-open-new-tab =
     .label = Szukej w nowyj karcie
     .accesskey = S
@@ -241,12 +205,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Nasztaluj za wychodno wyszukowarka do prywatnych ôkyn
     .accesskey = P
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -294,10 +260,13 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Pokoż edytōr przi spamiyntowaniu
     .accesskey = E
+
 bookmark-panel-done-button =
     .label = Fertich
+
 bookmark-panel-save-button =
     .label = Spamiyntej
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -327,6 +296,7 @@ identity-weak-encryption = Ta strōna używo słabego szyfrowanio.
 identity-insecure-login-forms = Dane logowanio wkludzōne na tyj strōnie mogōm być wyzdradzōne.
 identity-permissions =
     .value = Zgody
+
 identity-https-only-connection-upgraded = (sztajgniynte do HTTPS)
 identity-https-only-label = Tryb "ino HTTPS"
 identity-https-only-dropdown-on =
@@ -338,9 +308,11 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Załōncz tryb "Ino HTTPS" do tyj strōny, jak chcesz, coby aplikacyjo { -brand-short-name } przełōnczała na niego, kej ino idzie.
 identity-https-only-info-turn-off2 = Jak strōna wyglōndo na felerno, może bydziesz chcieć wyłōnczyć tryb "Ino HTTPS" do tyj strōny, coby przeladować jōm we trybie niyzabezpieczōnego HTTP.
 identity-https-only-info-no-upgrade = Niy idzie sztajgnōńć połōnczynio ze HTTP.
+
 identity-permissions-storage-access-header = Cookies, co śledzōm miyndzy strōnami
 identity-permissions-storage-access-hint = Te strōny poradzōm używać cookies, co śledzōm cie miyndzy strōnami, i mieć dostymp do danych tyj strōny, jak żeś na nij je.
 identity-permissions-storage-access-learn-more = Przewiydz sie wiyncyj
+
 identity-permissions-reload-hint = Możno bydzie trza zaladować strōna jeszcze roz, coby wkludzić zmiany.
 identity-permissions-empty = Ta strōna niy dostała ôd ciebie żodnych ekstra zgōd.
 identity-clear-site-data =
@@ -406,6 +378,7 @@ browser-tab-mute =
         [few] Wyłōncz klang { $count } kartōw
        *[many] Wyłōncz klang { $count } kartōw
     }
+
 browser-tab-unmute =
     { $count ->
         [1] Załōncz klang { $count } karty
@@ -413,6 +386,7 @@ browser-tab-unmute =
         [few] Załōncz klang { $count } kartōw
        *[many] Załōncz klang { $count } kartōw
     }
+
 browser-tab-unblock =
     { $count ->
         [1] Puść we karcie
@@ -426,6 +400,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Importuj zokłodki…
     .tooltiptext = Importuj zokłodki z inkszyj przeglōndarki do aplikacyje { -brand-short-name }
+
 bookmarks-toolbar-empty-message = Dej swoje zokłodki na posek z zokłodkami, coby mieć doo nich snadny dostymp. <a data-l10n-name="manage-bookmarks">Regiyruj zokłodkami…</a>
 
 ## WebRTC Pop-up notifications
@@ -436,6 +411,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofōn do udostympniynio:
     .accesskey = M
+
 popup-select-camera-device =
     .value = Kamera:
     .accesskey = K
@@ -449,20 +425,26 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Głośniki
 popup-all-windows-shared = Wszyske ôkna widziane na ekranie bydōm udostympniōne.
+
 popup-screen-sharing-not-now =
     .label = Niy teroz
     .accesskey = N
+
 popup-screen-sharing-never =
     .label = Nigdy niy przizwolej
     .accesskey = N
+
 popup-silence-notifications-checkbox = Zastow powiadōmiynia ôd { -brand-short-name } przi udostympnianiu
 popup-silence-notifications-checkbox-warning = { -brand-short-name } niy bydzie pokazować powiadōmiyń w czasie udostympnianio.
+
 popup-screen-sharing-block =
     .label = Szperuj
     .accesskey = S
+
 popup-screen-sharing-always-block =
     .label = Zawdy szperuj
     .accesskey = w
+
 popup-mute-notifications-checkbox = Wyłōncz powiadōmiynia ze strōn przi udostympnianiu
 
 ## WebRTC window or screen share tab switch warning
@@ -478,14 +460,19 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Żeby używać skrōtu F12, nojprzōd ôtwōrz DevTools ze myni Twōrcōw Necu.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Szukej abo wkludź adresa
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Szukej abo wkludź adresa
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Przeglōndarka je kōntrolowano zdalnie
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -494,6 +481,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Szukej w internecie
     .aria-label = Szukej ze { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -502,24 +490,27 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Wkludź szukane słowo
     .aria-label = Szukej na serwerze { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Wkludź szukane słowo
     .aria-label = Szukej we zokłodkach
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Wkludź szukane słowo
     .aria-label = Szukej we historyji
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Wkludź szukane słowo
     .aria-label = Szukej we kartach
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Szukej ze { $name } abo wkludź adresa
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Przeglōndarka je kōntrolowano zdalnie
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -529,9 +520,11 @@ urlbar-permissions-granted =
     .tooltiptext = Ta strōna dostała ekstra zgody.
 urlbar-switch-to-tab =
     .value = Przełōncz na karta:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Rozszyrzynie:
+
 urlbar-go-button =
     .tooltiptext = Idź do adresy podanyj we posku adresy
 urlbar-page-action-button =
@@ -601,9 +594,12 @@ urlbar-result-action-search-tabs = Szukej po kartach
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> teroz je w trybie cołkigo ekranu
 fullscreen-warning-no-domain = Tyn dokumynt je pokozany w trybie cołkigo ekranu
+
+
 fullscreen-exit-button = Wylyź z trybu cołkigo ekranu (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Wylyź z trybu cołkigo ekranu (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -613,6 +609,7 @@ pointerlock-warning-no-domain = Tyn dokumynt kōntroluje twōj kursor. Coby cofn
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Kōnsek tyj strōny mo awaryjo.</strong>. Poślij raport, coby { -brand-product-name } sie ô tym przewiedzioł i pryndzyj to naprawiōł.
+
 crashed-subframe-learnmore-link =
     .value = Przewiydz sie wiyncyj
 crashed-subframe-submit =
@@ -664,6 +661,7 @@ bookmarks-tools =
     .label = Noczynia przidowanio do zokłodek
 bookmarks-bookmark-edit-panel =
     .label = Edytuj ta zokłodka
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -677,6 +675,7 @@ bookmarks-toolbar-placeholder =
     .title = Elymynta ze poska z zokłodkami
 bookmarks-toolbar-placeholder-button =
     .label = Elymynta ze poska z zokłodkami
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Przidej aktualno karta do zookłodek
@@ -707,6 +706,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Rozszyrzynia i motywy
     .tooltiptext = Regiyruj rozszyrzyniami i motywami ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =

@@ -3,10 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Zrōb ôbroz ekranu
+
+screenshots-my-shots-button = Moje ôbrazy ekranu
+
 screenshot-toolbarbutton =
     .label = Ôbroz ekranu
     .tooltiptext = Chyć ôbroz ekranu
-screenshots-my-shots-button = Moje ôbrazy ekranu
+
 screenshots-instructions = Przeciōng abo kliknij na strōna, coby ôbrać jij kōnsek. Prziciś ESC, coby pociepać.
 screenshots-cancel-button = Pociep
 screenshots-save-visible-button = Spamiyntej widziane
@@ -15,6 +18,7 @@ screenshots-download-button = Pobier
 screenshots-download-button-tooltip = Pobier ôbroz ekranu
 screenshots-copy-button = Kopiuj
 screenshots-copy-button-tooltip = Kopiuj ôbroz ekranu do kamerlika
+
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -22,18 +26,27 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Link je skopiowany
 screenshots-notification-link-copied-details = Link do tego ôbrazu ekranu je skopiowany do kamerlika. Prziciś { screenshots-meta-key }-V, coby go wrazić.
+
 screenshots-notification-image-copied-title = Ôbroz ekranu je skopiowany
 screenshots-notification-image-copied-details = Tyn ôbroz ekranu je skopiowany do kamerlika. Prziciś { screenshots-meta-key }-V, coby go wrazić.
+
 screenshots-request-error-title = Awaryjo.
 screenshots-request-error-details = Spamiyntanie tego ôbrazu ekranu sie niy podarziło. Sprōbuj niyskorzij.
+
 screenshots-connection-error-title = Niy idzie połōnczyć sie z twojimi ôbrazami ekranu.
 screenshots-connection-error-details = Badnij na połōnczynie z internetym. Jak ône funguje dobrze, może prawie być problym z usugōm { -screenshots-brand-name }.
+
 screenshots-login-error-details = Niy idzie spamiyntać twojigo ôbrazu ekranu skuli problymu z usugōm { -screenshots-brand-name }. Sprōbuj niyskorzij.
+
 screenshots-unshootable-page-error-title = Niy idzie chycić ôbrazu ekranu tyj strōny.
 screenshots-unshootable-page-error-details = To niy ma ańfachowo strōna, tōż niy idzie chycić jeji ôbrazu ekranu.
+
 screenshots-self-screenshot-error-title = Niy idzie chycić ôbrazu ekranu strōny { -screenshots-brand-name }!
+
 screenshots-empty-selection-error-title = Ôbrany kōnsek je za mały
+
 screenshots-private-window-error-title = Usuga { -screenshots-brand-name } je zastawiōno we trybie prywatnego przeglōndanio
 screenshots-private-window-error-details = Przebocz ta zawada. Prawie robiymy przi tyj funkcyji, coby sie pokozała we prziszłości.
+
 screenshots-generic-error-title = Usuga { -screenshots-brand-name } niy funguje dobrze.
 screenshots-generic-error-details = Niy znōmy gynau, co sie podzioło. Sprōbujesz jeszcze roz, abo bydziesz chytać ôbroz inkszyj strōny?

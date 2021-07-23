@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Ôdewrzij myni">
+
 <!ENTITY navbarOverflow.label                "Wiyncyj noczyń…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Nasztalowania usugi &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Połōncz inkszo maszina…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Wloguj do aplikacyje &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Załōncz usuga &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.firefoxServices.label "Usugi aplikacyje &brandProductName;">
@@ -139,19 +141,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "p">
 
 <!ENTITY historyMenu.label "Historyjo">
+
 <!ENTITY historyUndoMenu.label "Niydowno zawarte karty">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Niydowno zawarte ôkna">
 
 <!ENTITY appMenuHistory.showAll.label "Pokoż cołko historyjo">
+
 <!ENTITY appMenuHistory.clearRecent.label "Wypucuj niydowno historyjo…">
 <!ENTITY appMenuHistory.restoreSession.label "Wrōć ôstatnio sesyjo">
 <!ENTITY appMenuHistory.viewSidebar.label "Pokoż posek ze historyjōm na rancie">
 <!ENTITY appMenuHistory.hideSidebar.label "Skryj posek ze historyjōm na rancie">
 <!ENTITY appMenuHistory.recentHistory.label "Niydowno historyjo">
+
 <!ENTITY appMenuHelp.label "Pōmoc">
 
 <!ENTITY appMenuRemoteTabs.label "Synchrōnizowane karty">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Niy ma żodnych ôtwartych kart">

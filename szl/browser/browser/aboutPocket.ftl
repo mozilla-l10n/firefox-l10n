@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Przidej etykety
+
 pocket-panel-saved-error-generic = Przi spamiyntowaniu do usugi { -pocket-brand-name } pokozoł sie feler.
 pocket-panel-saved-error-tag-length = Etykety niy śmiōm mieć wiyncyj jak 25 znakōw
 pocket-panel-saved-error-only-links = Idzie spamiyntować ino linki

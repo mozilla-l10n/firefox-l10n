@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Sprōbuj tego: Przipnij karta
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Po jakimu to widza?
+
 cfr-doorhanger-extension-cancel-button = Niy teroz
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Przidej teroz
     .accesskey = P
 cfr-doorhanger-pintab-ok-button = Przipnij ta karta
     .accesskey = K
+
 cfr-doorhanger-extension-manage-settings-button = Nasztalowania rykōmyndacyji
     .accesskey = n
+
 cfr-doorhanger-extension-never-show-recommendation = Niy pokozuj mi tyj rykōmyndacyje
     .accesskey = T
+
 cfr-doorhanger-extension-learn-more-link = Przewiydz sie wiyncyj
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = autōr: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekōmyndacyjo
 cfr-doorhanger-extension-notification2 = Rekōmyndacyjo
     .tooltiptext = Rekōmyndacyjo rozszyrzynio
     .a11y-announcement = Rekōmyndacyjo rozszyrzynio je dostympno
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekōmyndacyjo
@@ -61,6 +69,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } użytkowniki
        *[many] { $total } użytkownikōw
     }
+
 cfr-doorhanger-pintab-description = Snadny dostymp do strōn, co ich nojwiyncyj używosz: karty ś nimi sōm durch ôtwarte (tyż przi resztartowaniu).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -68,8 +77,10 @@ cfr-doorhanger-pintab-description = Snadny dostymp do strōn, co ich nojwiyncyj 
 cfr-doorhanger-pintab-step1 = Prziciś <b>prawym prziciskiym</b> na karta, kero chcesz przipnōnć.
 cfr-doorhanger-pintab-step2 = Ôbier <b>Przipnij karta</b> w myni.
 cfr-doorhanger-pintab-step3 = Jak strōna mo jako aktualizacyjo, to na przipniyntyj karcie pokoże sie modro kropka.
+
 cfr-doorhanger-pintab-animation-pause = Pauza
 cfr-doorhanger-pintab-animation-resume = Rōb zaś
+
 
 ## Firefox Accounts Message
 
@@ -91,16 +102,22 @@ cfr-protections-panel-link-text = Przewiydz sie wiyncyj
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nowo funkcyjo:
+
 cfr-whatsnew-button =
     .label = Co je nowego
     .tooltiptext = Co je nowego
+
 cfr-whatsnew-panel-header = Co je nowego
+
 cfr-whatsnew-release-notes-link-text = Poczytej informacyje ô wydaniu
+
 cfr-whatsnew-fx70-title = { -brand-short-name } teroz wiyncyj sie bije ô twoja prywatność
 cfr-whatsnew-fx70-body = Nojnowszo aktualizacyjo polepszo funkcyjo ôchrōny ôd śledzynio. Skuli nij rychtowanie bezpiecznych haseł do kożdyj strōny je snadniyjsze jak kej ino.
+
 cfr-whatsnew-tracking-protect-title = Ôbrōń sie ôd śledzōncych elymyntōw
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } szperuje moc popularnych śledzōncych elymyntōw ze społecznościowych serwisōw, co filujōm na twoja aktywność w internecie.
 cfr-whatsnew-tracking-protect-link-text = Pokoż raport
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -112,9 +129,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Ôd { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Pokoż raport
+
 cfr-whatsnew-lockwise-backup-title = Rōb ibryczne kopije haseł
 cfr-whatsnew-lockwise-backup-body = Rychtuj bezpieczne hasła dostympne wszyńdzie, kaj sie wlogujesz.
 cfr-whatsnew-lockwise-backup-link-text = Załōncz kopiowanie na ibrich
+
 cfr-whatsnew-lockwise-take-title = Miyj swoje hasła przi siebie
 cfr-whatsnew-lockwise-take-body = Mobilno aplikacyjo { -lockwise-brand-short-name } dowo ci wszyńdzie bezpieczny dostymp do twojich haseł spamiyntanych w ibrycznych kopijach.
 cfr-whatsnew-lockwise-take-link-text = Pobier aplikacyjo
@@ -152,6 +171,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[many] Zaszperowane chytanie ôdciska
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } szperuje moc elymyntōw, co rychtujōm ôdciski przeglōndarki: po kryjōmu zbiyrajōm informacyje ô twojij maszinie i akcyjach, coby stworzić twōj reklamowy profil.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Szperowanie ôdciska ôd przeglōndarki
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } poradzi zaszperować rychtowanie ôdciska twojij przeglōndarki (zbiyranie po kryjōmu informacyji ô twojij maszinie i akcyjach, coby stworzić twōj reklamowy profil).
@@ -211,6 +231,7 @@ cfr-doorhanger-milestone-heading =
         [few] { -brand-short-name } zaszperowoł wiyncyj jak <b>{ $blockedCount }</b>śledzōnce elymynty ôd { $date }!
        *[many] { -brand-short-name } zaszperowoł wiyncyj jak <b>{ $blockedCount }</b>śledzōncych elymyntōw ôd { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -246,12 +267,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikōna ôbrazu w ôbrazie
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Zawrzij
-    .accesskey = Z
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Wejzdrzynie na ôchrōna
 cfr-whatsnew-protections-body = Na panelu ôchrōny sōm pozbiyrane raporty ô wyciekach danych i regiyrowaniu hasłami. Idzie teroz zaglōndać, wiela wyciekōw danych je rozwiōnzanych, abo jeźli je ryzyko, iże jakie spamiyntane hasła mogły wyciyknōnć.
 cfr-whatsnew-protections-cta-link = Pokoż panel ôchrōny
@@ -261,6 +276,12 @@ cfr-whatsnew-protections-icon-alt = Ikōna ôsłōny
 
 cfr-whatsnew-better-pdf-header = Lepszo ôbsuga dokumyntōw PDF
 cfr-whatsnew-better-pdf-body = Dokumynta PDF ôtwiyrajōm sie teroz dyrekt w aplikacyji { -brand-short-name }, coby robota szła snadnie.
+
+cfr-doorhanger-milestone-close-button = Zawrzij
+    .accesskey = Z
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -282,35 +303,15 @@ cfr-doorhanger-fission-secondary-button = Przewiydz sie wiyncyj
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Autōmatyczno ôchrōna ôd chytrych taktyk śledzynio
-cfr-whatsnew-clear-cookies-body = Niykere śledzōnce elymynta przekerowujōm cie do inkszych strōn, co potajōmku sztalujōm cookies. { -brand-short-name } teroz autōmatycznie kasuje te cookies, tak co niy idzie cie śledzić.
-cfr-whatsnew-clear-cookies-image-alt = Ôbroz zaszperowanego cookie
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Wiyncyj sztalōnkōw mydiōw
-cfr-whatsnew-media-keys-body = Puszczej i pauzuj klang i video zaroz ze swojij tastatury abo słuchawek, bez co snadnie idzie kōntrolować mydia z inkszyj karty, programu, abo tyż przi zaszperowanym kōmputrze. Idzie tyż skokać z kneflami miyndzy śpiywkami.
-cfr-whatsnew-media-keys-button = Przewiydz sie, jak
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Skrōty szukanio we posku z adresōm
-cfr-whatsnew-search-shortcuts-body = Teroz, jak we poosku z adresōm wkludzisz wyszukowarka abo jako strōna, to niżzyj, w doradach szukanio, pokoże sie modry skrōt. Ôbier tyn skrōt, coby dokōńczyć szukać zaroz z poska z adresōm.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Ôchrōna ôd ôszydnych supecookies
-cfr-whatsnew-supercookies-body = Niykere serwery poradzōm skrycie przidać do twojij przeglōndarki "supercookie", co bydzie cie śledzić po necu, chocioż wypucujesz swoje cookies. { -brand-short-name } dowo teroz siylno ôchrōna ôd tych supercookies, tak co niy idzie ich użyć do śledzynio za twojimi aktywnościami w necu miyndzy strōnami.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Lepsze kludzynie zokłodek
-cfr-whatsnew-bookmarking-body = Filowanie na swoje ulubiōne zokłodki je snadniyjsze. { -brand-short-name } terozki pamiynto twōj nojrodszy plac na zokłodki, bazowo pokazuje posek z zokłodkami w nowych kartach i dowo ci snadny dostymp do inkszych zokłodek bez katalog na posku z zokłodkami.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Pozorna ôchrōna ôd cookies, co śledzōm miyndzy strōnami
-cfr-whatsnew-cross-site-tracking-body = Teroz idzie se załōnczyć lepszo ôchrōna ôd cookies, co śledzōm miyndzy strōnami. { -brand-short-name } poradzi izolować twoja aktywność i dane na strōnie, na keryj żeś prawie je, tak co informacyje schrōniōne w przeglōndarce niy bydōm udostympniane miyndzy strōnami.
 
 ## Full Video Support CFR message
 
