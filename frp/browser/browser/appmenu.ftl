@@ -31,22 +31,12 @@
 appmenu-about =
     .label = A propôs de { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = Enformacions de dèpanajo
-    .accesskey = E
 appmenu-help-feedback-page =
     .label = Balyér vo‛tr’opinion…
     .accesskey = B
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Renrayér aglètons dèsacitvâs…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Renrayér aglètons acitvâs…
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

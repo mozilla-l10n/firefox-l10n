@@ -7,10 +7,13 @@
 
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
+
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
+
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
@@ -18,10 +21,13 @@ toolbar-button-back-2 =
 
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
+
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
+
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
 
@@ -30,10 +36,12 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Rechargér
     .accesskey = R
+
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
     .label = Rechargér
     .accesskey = R
+
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -46,6 +54,8 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+
+## Firefox Account Button
 
 ## Save Page
 
@@ -93,6 +103,7 @@ main-context-menu-media-play-speed-normal =
 main-context-menu-plugin-play =
     .label = Activar cèt’ agllèton
     .accesskey = c
+
 main-context-menu-plugin-hide =
     .label = Recondre l’agllèton
     .accesskey = H
