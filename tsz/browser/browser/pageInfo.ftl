@@ -30,6 +30,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+##
+
 media-bg-img = K´uanatsekua anapu
 saved-passwords-yes = k’uaniaka
 saved-passwords-no = nómbe

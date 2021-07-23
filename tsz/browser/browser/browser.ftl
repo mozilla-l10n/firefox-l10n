@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Jirhinhakurhipantani)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Jirhinhakurhipantani)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Jirhinhakurhipantani)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Jirhinhakurhipantani)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -66,23 +68,6 @@ browser-main-window-title = { -brand-full-name }
 
 
 ## Page Action menu
-
-page-action-email-link-panel =
-    .label = Axani parhijtsïkutarakua…
-page-action-email-link-urlbar =
-    .tooltiptext = Axani parhijtsïkutarakua…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Xeparini arhukutarakuani
-page-action-pin-tab-urlbar =
-    .tooltiptext = Xeparini arhukutarakuani
-page-action-unpin-tab-panel =
-    .label = Arhukutarakua p´íkuntani
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Arhukutarakua p´íkuntani
 
 ## Auto-hide Context Menu
 
@@ -115,6 +100,12 @@ full-screen-exit =
 browser-window-minimize-button =
     .tooltiptext = Sapinharhitani
 
+## Tab actions
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 ## Bookmarks toolbar items
 
 
@@ -131,6 +122,7 @@ browser-window-minimize-button =
 
 urlbar-switch-to-tab =
     .value = Mójtakuni ma iorhukua:
+
 urlbar-go-button =
     .tooltiptext = Arhistatsperakuecharhu motsi
 
@@ -146,14 +138,15 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Xarhatani iámenduecha kuirunharitarakuecha
 bookmarks-toolbar-chevron =
     .tooltiptext = Xarhatani sánderu kuirunharitarakuecha
 bookmarks-sidebar-content =
     .aria-label = Kuirunharitarakuecha
+
 bookmarks-toolbar-menu =
     .label = T'antsïratarakuaecha
 bookmarks-toolbar-placeholder =
@@ -164,8 +157,23 @@ bookmarks-toolbar-placeholder-button =
 ## Library Panel items
 
 
+## Pocket toolbar button
+
+## Repair text encoding toolbar button
+
+## Customize Toolbar Buttons
+
 ## More items
 
 more-menu-go-offline =
     .label = Áxï kuparhakutini ánchikúrhi
     .accesskey = Á
+
+## EME notification panel
+
+## Password save/update panel
+
+## Add-on removal warning
+
+## Remote / Synced tabs
+

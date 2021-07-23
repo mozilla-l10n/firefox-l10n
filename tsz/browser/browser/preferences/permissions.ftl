@@ -32,6 +32,8 @@ permissions-capabilities-listitem-block =
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 

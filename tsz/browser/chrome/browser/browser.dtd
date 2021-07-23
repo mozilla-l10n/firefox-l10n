@@ -158,6 +158,7 @@ when there are no windows but Firefox is still running. -->
 
 
 <!ENTITY historyMenu.label "Patsakata">
+
 <!ENTITY historyUndoMenu.label "Arustarakueecha iaiasï míkuarhekata">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 

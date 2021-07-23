@@ -38,19 +38,12 @@ appmenuitem-save-page =
 
 ## Help panel
 
-appmenu-help-troubleshooting-info =
-    .label = Arhintsï axu enkari no kurhankujka
-    .accesskey = A
 appmenu-help-feedback-page =
     .label = Arhístatsperakua axá…
     .accesskey = A
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = menteru uentani urani anchitarakuechani
-    .accesskey = m
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
