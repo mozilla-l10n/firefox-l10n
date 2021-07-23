@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 set-password-legend = Парольді таңдау
+
 password-quality-meter = Пароль сапасы

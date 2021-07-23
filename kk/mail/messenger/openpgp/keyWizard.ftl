@@ -5,6 +5,7 @@
 key-wizard-button =
     .buttonlabelaccept = Жалғастыру
     .buttonlabelhelp = Артқа өту
+
 key-wizard-learn-more = Көбірек білу
 
 ## Generate key section
@@ -15,22 +16,31 @@ openpgp-keygen-months-label =
     .label = ай
 openpgp-keygen-years-label =
     .label = жыл
+
 openpgp-keygen-advanced-title = Кеңейтілген баптаулар
+
 openpgp-keygen-keytype =
     .value = Кілт түрі:
     .accesskey = т
+
 openpgp-keygen-keysize =
     .value = Кілт өлшемі:
     .accesskey = л
+
 openpgp-keygen-type-rsa =
     .label = RSA
+
 openpgp-keygen-type-ecc =
     .label = ECC (эллиптикалық қисықтар)
+
 openpgp-keygen-button = Кілтті генерациялау
+
 openpgp-keygen-confirm =
     .label = Растау
+
 openpgp-keygen-dismiss =
     .label = Бас тарту
+
 openpgp-keygen-import-complete =
     .label = Жабу
     .accesskey = Ж
@@ -38,7 +48,9 @@ openpgp-keygen-import-complete =
 ## Import Key section
 
 openpgp-import-identity-label = Жеке мәліметтер
+
 openpgp-import-fingerprint-label = Баспасы
+
 openpgp-import-created-label = Жасалған
 
 ## External Key section

@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = { -brand-short-name } көмегімен ашу
     .accesskey = е
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

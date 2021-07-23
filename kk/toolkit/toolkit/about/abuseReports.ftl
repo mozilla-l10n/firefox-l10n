@@ -40,6 +40,11 @@ abuse-report-submit-button = Жіберу
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = <span data-l10n-name="addon-name">{ $addon-name }</span> нәрсесіне шағымнан бас тартылды.
 abuse-report-messagebar-submitting = <span data-l10n-name="addon-name">{ $addon-name }</span> нәрсесіне шағым жіберілуде.
 abuse-report-messagebar-submitted = Шағымды жібергеніңіз үшін рахмет. <span data-l10n-name="addon-name">{ $addon-name }</span> өшіруді қалайсыз ба?

@@ -33,16 +33,19 @@ onboarding-welcome-modal-supercharge-body = Құпиялылықты қорға�
 onboarding-welcome-modal-privacy-body = Браузеріңіз бар. Көбірек жекелік қорғанысты қосайық.
 onboarding-welcome-modal-family-learn-more = { -brand-product-name } өнімдер отбасы туралы көбірек біліңіз.
 onboarding-welcome-form-header = Осы жерден бастаңыз
+
 onboarding-join-form-body = Бастау үшін, эл. пошта адресіңізді енгізіңіз.
 onboarding-join-form-email =
     .placeholder = Эл. поштаны енгізіңіз
 onboarding-join-form-email-error = Жарамды эл. пошта адресі керек
 onboarding-join-form-legal = Жалғастыру арқылы сіз <a data-l10n-name="terms">Қызмет көрсету шарттары</a> және <a data-l10n-name="privacy">Жекелік ескертуі</a> шарттарымен келісесіз.
 onboarding-join-form-continue = Жалғастыру
+
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Тіркелгіңіз бар ма?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Кіру
+
 onboarding-start-browsing-button-label = Шолуды бастау
 onboarding-cards-dismiss =
     .title = Тайдыру
@@ -59,8 +62,10 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = { -brand-product-name }-ты өзіңізбен бірге алыңыз
 onboarding-sync-welcome-content = Бетбелгілер, тарих, парольдер және т.б. баптауларды құрылғыларыңыздың барлығында алыңыз.
 onboarding-sync-welcome-learn-more-link = Firefox тіркелгілері туралы көбірек білу
+
 onboarding-sync-form-input =
     .placeholder = Эл. пошта
+
 onboarding-sync-form-continue-button = Жалғастыру
 onboarding-sync-form-skip-login-button = Бұл қадамды аттап кету
 
@@ -69,22 +74,28 @@ onboarding-sync-form-skip-login-button = Бұл қадамды аттап кет
 onboarding-sync-form-header = Эл. поштаны енгізіңіз
 onboarding-sync-form-sub-header = { -sync-brand-name } жалғастыру үшін.
 
+
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
 onboarding-benefit-products-text = Құрылғыларыңыздағы жеке өміріңізді құрметтейтін құралдар отбасымен жұмыс жасаңыз.
+
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Біз жасайтын барлық нәрсе біздің Жеке Деректер Уәдесіне сай: Азырақ алу. Оны қауіпсіз сақтау. Құпиясыз.
+
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = { -brand-product-name } қолданатын барлық жерде бетбелгілер, парольдер және т.б. өзіңізбен бірге ұстаңыз.
+
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Сіздің жеке ақпаратыңыз белгілі деректер ұрланған деректер ішінде болғанда хабарлама алу.
+
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Қорғалған және тасымалданатын парольдерді басқару.
+
 
 ## These strings belong to the individual onboarding messages.
 
@@ -96,41 +107,52 @@ onboarding-benefit-lockwise-text = Қорғалған және тасымалд�
 onboarding-tracking-protection-title2 = Бақылаудан қорғаныс
 onboarding-tracking-protection-text2 = { -brand-short-name } веб-сайттарды сізді желіде бақылауды тоқтатуға көмектеседі, жарнамаға сізді интернетте артыңыздан еруді қиындатады.
 onboarding-tracking-protection-button2 = Ол қалай жұмыс істейді
+
 onboarding-data-sync-title = Баптауларыңызды өзіңізбен бірге алып жүріңіз
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = { -brand-product-name } қолданатын барлық жерде бетбелгілер, парольдер және т.б. синхрондаңыз.
 onboarding-data-sync-button2 = { -sync-brand-short-name } ішіне кіріңіз
+
 onboarding-firefox-monitor-title = Деректердің жайылып кетулері туралы біліп отырыңыз
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } сіздің эл. пошта адресіңіз деректердің белгілі ұрлануында көрінгенін бақылап, табылған уақытта сізге хабарлайды.
 onboarding-firefox-monitor-button = Хабарламаларға жазылу
+
 onboarding-browse-privately-title = Жекелік түрде шолыңыз
 onboarding-browse-privately-text = Жекелік шолу компьютеріңіздің қолданатын адамдардан құпия сақтау үшін сіздің іздеулер және шолу тарихыңыхжы өшіреді.
 onboarding-browse-privately-button = Жекелік шолу терезесін ашу
+
 onboarding-firefox-send-title = Ортақ пайдаланылатын файлдарыңызды жеке ұстаңыз
 onboarding-firefox-send-text2 = Толық шифрлеу және автоматты түрде мерзімі аяқталатын сілтемемен бөлісу үшін, файлдарыңызды { -send-brand-name } көмегімен жүктеңіз.
 onboarding-firefox-send-button = { -send-brand-name } қолданып көріңіз
+
 onboarding-mobile-phone-title = { -brand-product-name } өз телефоныңыға алыңыз
 onboarding-mobile-phone-text = iOS немесе Android үшін { -brand-product-name } жүктеп алып, деректеріңізді құрылғылар арасында синхрондаңыз.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Мобильді браузерді жүктеп алу
+
 onboarding-send-tabs-title = Браузер беттерін өзіңізге лезде жіберіңіз
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text2 = Сілтемелерді көшірмей, немесе браузерден кетусіз-ақ беттермен жеңіл түрде бөлісіңіз.
 onboarding-send-tabs-button = Беттерді жіберу мүмкіндігін қолдануды бастау
+
 onboarding-pocket-anywhere-title = Кез келген жерде оқу және тыңдау
 onboarding-pocket-anywhere-text2 = Таңдамалы мазмұнды оффлайн түрде { -pocket-brand-name } қолданбасымен сақтап, өзіңізге лайықты уақытта оқу, тыңдау немесе қарауға болады.
 onboarding-pocket-anywhere-button = { -pocket-brand-name } қолданып көріңіз
+
 onboarding-lockwise-strong-passwords-title = Қатаң парольдерді жасау және сақтау
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } қатаң парольдерді лезде жасайды және олардың барлығын бір жерде сақтайды.
 onboarding-lockwise-strong-passwords-button = Логиндеріңізді басқару
+
 onboarding-facebook-container-title = Фейсбук үшін шекараларды орнатыңыз
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } профиліңізді басқа нәрседен бөлек ұстап, Фейсбук үшін сізге мақсатталған жарнаманы көрсетуге қиынырақ етеді.
 onboarding-facebook-container-button = Кеңейтуді қосу
+
 onboarding-import-browser-settings-title = Бетбелгілер, парольдерді және т.б. импорттау
 onboarding-import-browser-settings-text = Тікелей кірісу — Chrome сайттары және баптауларын оңай көшіріп алыңыз.
 onboarding-import-browser-settings-button = Chrome деректерін импорттау
+
 onboarding-personal-data-promise-title = Дизайн бойынша жеке
 onboarding-personal-data-promise-text = { -brand-product-name } сіздің деректеріңізді құрметпен өңдейді, олардан азырақ алып, қорғап, біз оларды қалай қолданатынымызды туралы тікелей хабарлайды.
 onboarding-personal-data-promise-button = Біздің уәдемізді оқу
@@ -138,6 +160,7 @@ onboarding-personal-data-promise-button = Біздің уәдемізді оқу
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Тамаша, сіз { -brand-short-name } орнаттыңыз
+
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:
@@ -166,35 +189,42 @@ onboarding-multistage-welcome-subtitle = Коммерциялық емес ұй�
 onboarding-multistage-welcome-primary-button-label = Баптауды бастау
 onboarding-multistage-welcome-secondary-button-label = Кіру
 onboarding-multistage-welcome-secondary-button-text = Тіркелгіңіз бар ма?
+
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = { -brand-short-name } өнімін өзіңіздің <span data-l10n-name="zap">үнсіз келісім браузері</span> қылыңыз.
 onboarding-multistage-set-default-subtitle = Әр шолудағы жылдамдық, қауіпсіздік және жекелік.
 onboarding-multistage-set-default-primary-button-label = Негізгі етіп қылу
 onboarding-multistage-set-default-secondary-button-label = Қазір емес
+
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Парольдер, бетбелгілер және <br/><span data-l10n-name="zap">көптеген басқаны</span> импорттаңыз
 onboarding-multistage-import-subtitle = Басқа браузерден келдіңіз бе? { -brand-short-name } ішіне барлығын әкелу оп-оңай.
 onboarding-multistage-import-primary-button-label = Импорттауды бастау
 onboarding-multistage-import-secondary-button-label = Қазір емес
+
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Бұл сайттар осы құрылғыдан табылды. { -brand-short-name } деректерді басқа браузерден деректерді сіз оларды импорттағанша дейін синхрондамайды.
+
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Жұмысты бастау: экран { $current }, барлығы { $total }
+
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = <span data-l10n-name="zap">Сыртқы түрін</span> таңдаңыз
 onboarding-multistage-theme-subtitle = { -brand-short-name } өнімін тема көмегімен жеке қылыңыз.
 onboarding-multistage-theme-primary-button-label2 = Дайын
 onboarding-multistage-theme-secondary-button-label = Қазір емес
+
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Автоматты түрде
+
 onboarding-multistage-theme-label-light = Ашық түсті
 onboarding-multistage-theme-label-dark = Күңгірт түсті
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -210,36 +240,43 @@ onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
         Батырмалар, мәзірлер және терезелер үшін
         операциялық жүйенің сыртқы түрін мұралау.
+
 # Input description for automatic theme
 onboarding-multistage-theme-description-automatic-2 =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         операциялық жүйенің сыртқы түрін мұралау.
+
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light-2 =
     .title =
         Батырмалар, мәзірлер және терезелер үшін
         ашық түсті сыртқы түрін қолдану.
+
 # Input description for light theme
 onboarding-multistage-theme-description-light =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         ашық түсті сыртқы түрін қолдану.
+
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark-2 =
     .title =
         Батырмалар, мәзірлер және терезелер үшін
         күңгірт түсті сыртқы түрін қолдану.
+
 # Input description for dark theme
 onboarding-multistage-theme-description-dark =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         күңгірт түсті сыртқы түрін қолдану.
+
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
     .title =
         Батырмалар, мәзірлер және терезелер үшін
         түрлі түсті сыртқы түрін қолдану.
+
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description =
@@ -261,7 +298,9 @@ mr1-onboarding-reduce-motion-button-label = Анимацияларды сөнд�
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Бастау
+
 mr1-onboarding-welcome-header = { -brand-short-name } өніміне қош келдіңіз
+
 mr1-onboarding-set-default-secondary-button-label = Қазір емес
 mr1-onboarding-sign-in-button-label = Кіру
 
@@ -276,14 +315,18 @@ mr1-onboarding-default-primary-button-label = Негізгі браузер қы
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = { $previous } ішінен импорттау
+
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Бұрынғы браузерден импорттау
 mr1-onboarding-import-secondary-button-label = Қазір емес
+
 mr1-onboarding-theme-subtitle = { -brand-short-name } өнімін тема көмегімен жеке қылыңыз.
 mr1-onboarding-theme-primary-button-label = Теманы сақтау
 mr1-onboarding-theme-secondary-button-label = Қазір емес
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Жүйелік тема
+
 mr1-onboarding-theme-label-light = Ашық түсті
 mr1-onboarding-theme-label-dark = Күңгірт
 # "Alpenglow" here is the name of the theme, and should be kept in English.
@@ -299,28 +342,34 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Батырмалар, мәзірлер және терезелер үшін
         операциялық жүйе баптауларын қолдану.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         операциялық жүйе баптауларын қолдану.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Батырмалар, мәзірлер және терезелер үшін
         ашық түсті теманы қолдану.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         ашық түсті теманы қолдану.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Батырмалар, мәзірлер және терезелер үшін
         күңгірт түсті теманы қолдану.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Батырмалар, мәзірлер және терезелер үшін
         күңгірт түсті теманы қолдану.
+

@@ -6,3 +6,4 @@
 ## Message Header Encryption Button
 
 openpgp-openpgp = OpenPGP
+

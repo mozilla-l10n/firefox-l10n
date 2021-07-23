@@ -5,12 +5,12 @@
 places-open =
     .label = Ашу
     .accesskey = А
-places-open-in-tab =
-    .label = Жаңа бетте ашу
-    .accesskey = w
 places-open-tab =
     .label = Жаңа бетте ашу
     .accesskey = т
+places-open-in-tab =
+    .label = Жаңа бетте ашу
+    .accesskey = w
 places-open-all-bookmarks =
     .label = Барлық бетбелгілерді ашу
     .accesskey = O
@@ -20,15 +20,10 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Жаңа терезеде ашу
     .accesskey = т
-places-open-in-window =
-    .label = Жаңа терезеде ашу
-    .accesskey = N
 places-open-private-window =
     .label = Жаңа жекелік терезесінде ашу
     .accesskey = к
-places-open-in-private-window =
-    .label = Жаңа жекелік терезесінде ашу
-    .accesskey = к
+
 places-new-bookmark =
     .label = Жаңа бетбелгі…
     .accesskey = б
@@ -41,6 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = Жаңа ажыратқыш
     .accesskey = а
+
+places-open-in-window =
+    .label = Жаңа терезеде ашу
+    .accesskey = N
+places-open-in-private-window =
+    .label = Жаңа жекелік терезесінде ашу
+    .accesskey = к
+
 places-add-bookmark =
     .label = Бетбелгіні қосу…
     .accesskey = б
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = Ажыратқышты қосу
     .accesskey = ы
+
 places-view =
     .label = Қарау
     .accesskey = р
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Күн мен сайт бойынша
     .accesskey = м
+
 places-history-search =
     .placeholder = Тарихтан іздеу
 places-bookmarks-search =
     .placeholder = Бетбелгілерден іздеу
+
 places-delete-domain-data =
     .label = Бұл парақты өшіру
     .accesskey = Б
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = Қасиеттері
     .accesskey = е
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Бетбелгіні түзету…
@@ -101,15 +108,18 @@ places-remove-folder =
            *[other] Бумаларды өшіру
         }
     .accesskey = ш
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Басқарылатын бетбелгілер
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Ішкі бума
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Басқа бетбелгілер
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -119,6 +129,7 @@ places-remove-bookmark =
            *[other] Бетбелгілерді өшіру
         }
     .accesskey = р
+
 places-manage-bookmarks =
     .label = Бетбелгілерді басқару
     .accesskey = с

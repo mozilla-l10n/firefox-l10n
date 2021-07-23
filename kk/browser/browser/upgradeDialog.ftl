@@ -11,7 +11,6 @@
 upgrade-dialog-new-item-tabs-title = Заманауи беттер
 upgrade-dialog-new-item-tabs-description = Фокусты және оңай навигацияны қолдайтын ақпараттың икемді көрінісі
 upgrade-dialog-new-item-icons-title = Жаңартылған таңбалашалар және айқын хабарламалар
-upgrade-dialog-new-primary-pin-alt-button = Тапсырмалар панеліне бекіту
 upgrade-dialog-new-primary-theme-button = Теманы таңдау
 upgrade-dialog-new-secondary-button = Қазір емес
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -28,9 +27,6 @@ upgrade-dialog-pin-secondary-button = Қазір емес
 
 ## Default browser screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = { -brand-short-name } өнімін негізгі браузер қылу керек пе?
-upgrade-dialog-default-primary-button = Негізгі браузер қылу
 upgrade-dialog-default-primary-button-2 = Негізгі браузер қылу
 upgrade-dialog-default-secondary-button = Қазір емес
 

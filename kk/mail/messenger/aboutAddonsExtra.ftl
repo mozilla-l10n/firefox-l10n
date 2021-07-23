@@ -4,3 +4,4 @@
 
 add-on-options-button =
     .title = Қосымшаның баптаулары
+

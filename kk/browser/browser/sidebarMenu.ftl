@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Бетбелгілер
+
 sidebar-menu-history =
     .label = Тарих
+
 sidebar-menu-synced-tabs =
     .label = Синхрондалған беттер
+
 sidebar-menu-close =
     .label = Бүйір панелін жабу

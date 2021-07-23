@@ -5,4 +5,6 @@
 openpgp-manage-keys-openpgp-cmd =
     .label = OpenPGP кілттер басқарушысы
     .accesskey = а
+
 openpgp-partial-verify-button = Растау
+
