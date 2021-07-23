@@ -10,6 +10,12 @@
 ##  $appName - Name of the application that will be opened.
 
 
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+##
+
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
@@ -19,3 +25,4 @@ choose-app-btn =
     .label = Pilih…
     .accessKey = C
 choose-other-app-window-title = Aplikasi lain…
+

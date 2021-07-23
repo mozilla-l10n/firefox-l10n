@@ -54,8 +54,6 @@ move-to-new-window =
     .label = Pindah ke Tetingkap Baru
     .accesskey = T
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Tutup Tab
     .accesskey = b
@@ -68,3 +66,7 @@ move-tabs =
 move-tab =
     .label = Pindah Tab
     .accesskey = d
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

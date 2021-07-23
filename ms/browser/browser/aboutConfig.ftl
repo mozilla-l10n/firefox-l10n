@@ -9,6 +9,7 @@
 ##
 
 about-config-show-all = Papar Semua
+
 about-config-pref-add-button =
     .title = Tambah
 about-config-pref-toggle-button =

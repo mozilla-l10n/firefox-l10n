@@ -28,8 +28,6 @@
 <!ENTITY HomePhone.accesskey                   "R">
 <!ENTITY WorkPhone.label                       "Telefon Kerja">
 <!ENTITY WorkPhone.accesskey                   "K">
-<!ENTITY ScreenName.label                      "Nama Skrin">
-<!ENTITY ScreenName.accesskey                  "S">
 <!ENTITY sortAscending.label                   "Menaik">
 <!ENTITY sortAscending.accesskey               "M">
 <!ENTITY sortDescending.label                  "Menurun">

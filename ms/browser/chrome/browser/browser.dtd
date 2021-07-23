@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Buka menu">
+
 <!ENTITY navbarOverflow.label                "Alatan seterusnya…">
 
 <!-- Tab context menu -->
@@ -109,18 +110,22 @@ can reach it easily. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Sejarah">
+
 <!ENTITY historyUndoMenu.label "Tab Terkini Ditutup">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Tetingkap Terkini Ditutup">
 
 <!ENTITY appMenuHistory.showAll.label "Papar Semua Sejarah">
+
 <!ENTITY appMenuHistory.clearRecent.label "Buang Sejarah Terkini…">
 <!ENTITY appMenuHistory.restoreSession.label "Pulih Sesi Dahulu">
 <!ENTITY appMenuHistory.viewSidebar.label "Papar Bar sisi Sejarah">
 <!ENTITY appMenuHistory.recentHistory.label "Sejarah Terkini">
+
 <!ENTITY appMenuHelp.label "Bantuan">
 
 <!ENTITY appMenuRemoteTabs.label "Tab Sync">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Tiada tab terbuka">

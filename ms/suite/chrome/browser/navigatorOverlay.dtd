@@ -19,9 +19,6 @@
 <!ENTITY uploadFile.label "Muat naik Fail…">
 <!ENTITY uploadFile.accesskey "F">
 
-<!ENTITY printSetupCmd.label "Penetapan Halaman…">
-<!ENTITY printSetupCmd.accesskey "e">
-
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Cari dalam Halaman Ini…">
 
@@ -144,3 +141,4 @@
 
 <!ENTITY clearPrivateDataCmd.label "Buang Data Peribadi…">
 <!ENTITY clearPrivateDataCmd.accesskey "i">
+

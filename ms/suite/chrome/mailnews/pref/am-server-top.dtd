@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "b">
 <!ENTITY downloadOnBiff.label "Muat turun mesej baru secara automatik">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Nama Log masuk Anda">
 <!ENTITY deleteMessagePrefix.label "Apabila saya buang mesej:">
 <!ENTITY modelMoveToTrash.label "Pindahkan ke dalam folder ini:">
 <!ENTITY modelMoveToTrash.accesskey "f">

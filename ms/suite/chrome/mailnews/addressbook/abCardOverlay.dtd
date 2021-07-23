@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "Paparan:">
 <!ENTITY DisplayName.accesskey          "P">
 <!ENTITY preferDisplayName.label        "Sentiasa papar nama dalam pengepala mesej">
-<!ENTITY preferDisplayName.accesskey    "S">
 <!ENTITY NickName.label                 "Nama gelaran:">
 <!ENTITY NickName.accesskey             "N">
 
@@ -45,8 +44,6 @@
 <!ENTITY PlainText.label                "Teks Biasa">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Tidak diketahui">
-<!ENTITY ScreenName.label               "Nama Skrin:">
-<!ENTITY ScreenName.accesskey           "S">
 
 <!ENTITY WorkPhone.label                "Kerja:">
 <!ENTITY WorkPhone.accesskey            "j">

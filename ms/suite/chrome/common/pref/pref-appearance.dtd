@@ -23,10 +23,6 @@
 
 <!ENTITY pref.locales.title                     "Bahasa Antara muka Pengguna">
 <!ENTITY selectLocale.label                     "Pilih bahasa untuk teks yang muncul dalam kotak dialog, menu, bar alatan dan label butang:">
-<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY restartOnLangChange.label              "Pilihan bahasa akan dilaksanakan apabila anda memulakan semula &brandShortName;.">
 
 <!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
      radiobuttons are set dynamically from prefutilities.properties

@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Dalaman WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = simpan about:webrtc sebagai
@@ -56,13 +57,7 @@ about-webrtc-ice-pair-bytes-sent = Bait dihantar:
 about-webrtc-ice-pair-bytes-received = Bait diterima:
 about-webrtc-ice-component-id = ID Komponen
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -74,13 +69,16 @@ about-webrtc-type-remote = Jauh
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Dipilih
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Dipilih
+
 about-webrtc-save-page-label = Simpan Halaman
 about-webrtc-debug-mode-msg-label = Mod Nyahpepijat
 about-webrtc-debug-mode-off-state-label = Mulakan Mod Nyahpepijat
@@ -106,6 +104,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ditutup
 
 ##
 
+
 about-webrtc-local-candidate = Local Candidate
 about-webrtc-remote-candidate = Calon Jauh
 about-webrtc-raw-candidates-heading = Semua Calon Mentah
@@ -128,7 +127,6 @@ about-webrtc-encoder-label = Pengekod
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -141,11 +139,14 @@ about-webrtc-aec-logging-off-state-msg = tangkapan data fail log boleh ditemui d
 
 ##
 
+##
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Ketaran { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -156,4 +157,7 @@ about-webrtc-trickle-caption-msg = Calon yang disusun (tiba selepas jawapan) dis
 
 
 ##
+
+##
+
 

@@ -213,6 +213,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Adakah anda pasti mahu menghapuskan pengecualian daripada pelayan ini?
 delete-ssl-cert-impact = Jika anda menghapuskan pengecualian pelayan, anda perlu perbaharui pemeriksaan sekuriti untuk pelayar dan perlu menggunakan sijil yang diiktiraf.
 
+
 delete-ca-cert-title =
     .title = Buang atau Tidak Percaya Sijil CA
 delete-ca-cert-confirm = Anda meminta untuk menghapuskan sijil CA berikut. Untuk sijil yang terbina-dalam semua kepercayaan yang disingkirkan, juga menerima akibat yang sama. Anda pasti mahu menghapuskan atau tidak mempercayainya?
@@ -271,6 +272,8 @@ cert-not-verified-issuer-unknown = Tidak dapat mengesahkan sijil ini kerana iany
 cert-not-verified-ca-invalid = Tidak dapat mengesahkan sijil ini kerana sijil CA tidak sah.
 cert-not-verified_algorithm-disabled = Tidak dapat mengesahkan sijil ini kerana ditandatangi menggunakan algoritma tanda tangan yang telah dinyahdayakan kerana algoritma itu tidak selamat.
 cert-not-verified-unknown = Tidak dapat mengesahkan siil ini kerana sebab yang tidak diketahui.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

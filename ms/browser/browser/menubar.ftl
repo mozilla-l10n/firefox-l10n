@@ -34,16 +34,20 @@ menu-quit =
             [windows] K
            *[other] K
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Keluar { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Keluar { -brand-shorter-name }
+
 menu-about =
     .label = Perihal { -brand-shorter-name }
     .accesskey = P
@@ -300,8 +304,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Maklumat Pencarisilapan
     .accesskey = P
-menu-help-taskmanager =
-    .label = Pengurus Tugasan
 menu-help-report-site-issue =
     .label = Laporkan Isu Laman…
 menu-help-feedback-page =

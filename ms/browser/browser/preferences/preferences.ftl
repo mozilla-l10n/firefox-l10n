@@ -527,6 +527,7 @@ home-prefs-topsites-description = Laman yang anda kerap lawati
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Disyorkan oleh { $provider }
+
 ##
 
 home-prefs-recommended-by-learn-more = Cara pelaksanaan
@@ -552,6 +553,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Cebisan
 home-prefs-snippets-description = Kemas kini daripada { -vendor-short-name } dan { -brand-product-name }
+
 home-prefs-sections-rows-option =
     .label = { $num } baris
 
@@ -619,6 +621,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = Keutamaan
+
 containers-remove-button =
     .label = Buang
 

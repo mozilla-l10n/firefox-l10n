@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Tambah Tag
+
 pocket-panel-saved-error-generic = Ada ralat semasa cuba menyimpan ke { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Tag dihadkan hanya 25 aksara
 pocket-panel-saved-error-only-links = Hanya pautan boleh disimpan
