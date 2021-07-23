@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "Mostrado:">
 <!ENTITY DisplayName.accesskey          "d">
 <!ENTITY preferDisplayName.label        "Siempre preferir ese nombre sobre el encabezado del mensaje">
-<!ENTITY preferDisplayName.accesskey    "S">
 <!ENTITY preferDisplayName2.accesskey   "y">
 <!ENTITY NickName.label                 "Apodo:">
 <!ENTITY NickName.accesskey             "A">
@@ -46,8 +45,6 @@
 <!ENTITY PlainText.label                "Texto sin formato">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Desconocido">
-<!ENTITY ScreenName.label               "Nombre de usuario AIM:">
-<!ENTITY ScreenName.accesskey           "N">
 
 <!ENTITY chatName.label                 "Nombre del chat:">
 

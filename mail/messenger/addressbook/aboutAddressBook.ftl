@@ -8,10 +8,6 @@ about-addressbook-title = Libreta de direcciones
 
 about-addressbook-toolbar-new-address-book =
     .label = Nueva libreta de direcciones
-about-addressbook-toolbar-new-carddav-address-book =
-    .label = Nueva libreta de direcciones CardDAV
-about-addressbook-toolbar-new-ldap-address-book =
-    .label = Nueva libreta de direcciones LDAP
 about-addressbook-toolbar-add-carddav-address-book =
     .label = Agregar libreta de direcciones CardDAV
 about-addressbook-toolbar-add-ldap-address-book =
@@ -24,6 +20,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Todas las libretas de direcciones
+
 about-addressbook-books-context-properties =
     .label = Propiedades
 about-addressbook-books-context-synchronize =
@@ -34,6 +31,7 @@ about-addressbook-books-context-delete =
     .label = Eliminar
 about-addressbook-books-context-remove =
     .label = Eliminar
+
 about-addressbook-confirm-delete-book-title = Borrar libreta de direcciones
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -51,14 +49,17 @@ about-addressbook-search =
     .placeholder = Buscar { $name }
 about-addressbook-search-all =
     .placeholder = Buscar en todas las libretas de direcciones
+
 about-addressbook-sort-button =
     .title = Cambiar el orden de la lista
+
 about-addressbook-name-format-display =
     .label = Nombre para mostrar
 about-addressbook-name-format-firstlast =
     .label = El primero al final
 about-addressbook-name-format-lastfirst =
     .label = El último al principio
+
 about-addressbook-sort-name-ascending =
     .label = Ordenar por nombre (A>Z)
 about-addressbook-sort-name-descending =
@@ -67,6 +68,7 @@ about-addressbook-sort-email-ascending =
     .label = Ordenar por dirección de correo electrónico (A>Z)
 about-addressbook-sort-email-descending =
     .label = Ordenar por dirección de correo electrónico (Z>A)
+
 about-addressbook-confirm-delete-mixed-title = Borar contactos y listas
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -123,6 +125,7 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Editar
 about-addressbook-cancel-edit-contact-button = Cancelar
 about-addressbook-save-edit-contact-button = Guardar
+
 about-addressbook-details-email-addresses-header = Direcciones de correo electrónico
 about-addressbook-details-phone-numbers-header = Números de teléfono
 about-addressbook-details-home-address-header = Dirección personal

@@ -13,5 +13,6 @@
 <!ENTITY tabHTML.label "Atributos HTML">
 <!ENTITY tabCSS.label "Estilo del elemento">
 <!ENTITY tabJSE.label "Eventos JavaScript">
+
 <!ENTITY editAttribute.label "Haga clic encima de un elemento para editar su valor">
 <!ENTITY removeAttribute.label "Eliminar">

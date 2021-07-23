@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "h">
 
 <!ENTITY historyMenu.label "Historial">
+
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
@@ -155,6 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral de historial">
 <!ENTITY appMenuHistory.hideSidebar.label "Ocultar la Barra lateral del Historial">
 <!ENTITY appMenuHistory.recentHistory.label "Historial reciente">
+
 <!ENTITY appMenuHelp.label "Ayuda">
 
 <!ENTITY appMenuRemoteTabs.label "Pestañas sincronizadas">

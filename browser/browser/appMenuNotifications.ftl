@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ahora no
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Después de un reinicio rápido, { -brand-shorter-name } restaurará todas las pestañas y ventanas abiertas que no estén en el modo de navegación privada.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Listo, lo entendí
+    .buttonaccesskey = o
+appmenu-addon-post-install-message = Administre sus complementos haciendo clic <image data-l10n-name='addon-install-icon'></image> en el <image data-l10n-name='addon-menu-icon'></image> menú.
+
 appmenu-update-available2 =
     .label = Actualización disponible
     .buttonlabel = Descargar
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = No ahora
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Una nueva actualización de { -brand-shorter-name } está disponible, pero no puede instalarse porque otra copia de { -brand-shorter-name } se está ejecutando. Ciérrela para continuar la actualización o elija actualizar de cualquier manera (la otra copia puede no funcionar correctamente hasta que la reinicie).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Listo, lo entendí
-    .buttonaccesskey = o
-appmenu-addon-post-install-message = Administre sus complementos haciendo clic <image data-l10n-name='addon-install-icon'></image> en el <image data-l10n-name='addon-menu-icon'></image> menú.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Aceptar
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Administre sus complementos y temas a través del menú de aplicaciones.
 appmenu-addon-post-install-message3 = Administre los complementos y temas desde el menú de la aplicación.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir que esta extensión se ejecute en pestañas privadas
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = La nueva pestaña ha cambiado.
     .buttonlabel = Mantener cambios
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Deshabilitar la extensión
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = La nueva pestaña cambió.
     .buttonlabel = Mantener los cambios

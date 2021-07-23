@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Refrescar { -brand-short-name }
+
 refresh-profile-dialog-title = ¿Refrescar { -brand-short-name } a sus preferencias predeterminadas?
 refresh-profile-dialog-button =
     .label = Refrescar { -brand-short-name }

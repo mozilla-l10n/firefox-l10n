@@ -4,38 +4,49 @@
 
 carddav-window =
     .title = Nueva libreta de direcciones CardDAV
+
 carddav-dialog =
     .buttonlabelaccept = Continuar
     .buttonaccesskeyaccept = C
+
 carddav-experimental-warning = La ayuda de la libreta de direcciones CardDAV es experimental y podría dañar permanentemente sus datos. Úselo bajo su propio riesgo.
+
 carddav-provider-label =
     .value = Proveedor de CardDAV:
     .accesskey = P
+
 carddav-provider-option-other = Otro proveedor...
+
 carddav-url-label =
     .value = URL de CardDAV:
     .accesskey = V
+
 carddav-username-label =
     .value = Nombre de usuario:
     .accesskey = U
 carddav-username-input =
     .placeholder = yourname@example.com
+
 carddav-password-label =
     .value = Contraseña:
     .accesskey = W
 carddav-password-input =
     .placeholder = Contraseña
+
 carddav-remember-password =
     .label = Recordar contraseña
     .accesskey = o
+
 carddav-location-label =
     .value = Ubicación:
     .accesskey = L
 carddav-location =
     .default-placeholder = URL o nombre de host del servidor de la libreta de direcciones
+
 carddav-loading = Buscando la configuración…
 carddav-known-incompatible = Se sabe que { $url } es incompatible con { -brand-short-name }.
 carddav-connection-error = No se pudo conectar.
 carddav-none-found = No se encontraron libretas de direcciones para agregar a la cuenta especificada.
 carddav-already-added = Ya se agregaron todas las libretas de direcciones para la cuenta especificada.
+
 carddav-available-books = Libretas de direcciones disponibles:

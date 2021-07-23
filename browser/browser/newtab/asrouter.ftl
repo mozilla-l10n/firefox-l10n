@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Pruebe esto: Pegar pestaña
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por qué estoy viendo esto
+
 cfr-doorhanger-extension-cancel-button = Ahora no
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Agregar ahora
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Pegar esta estaña
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Administrar opciones de recomendaciones
     .accesskey = m
+
 cfr-doorhanger-extension-never-show-recommendation = No mostrarme esta recomendación
     .accesskey = s
+
 cfr-doorhanger-extension-learn-more-link = Conocer más
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = por { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
 cfr-doorhanger-extension-notification2 = Recomendación
     .tooltiptext = Recomendación de complementos
     .a11y-announcement = Recomendación de complementos disponible
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomendación
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuario
        *[other] { $total } usuarios
     }
+
 cfr-doorhanger-pintab-description = Acceda fácilmente a sus sitios más utilizados. Mantenga los sitios abiertos en una pestaña (incluso cuando reinicia).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Acceda fácilmente a sus sitios más utiliza
 cfr-doorhanger-pintab-step1 = <b>Haga clic con el botón derecho</b> en la pestaña que desea pegar.
 cfr-doorhanger-pintab-step2 = Seleccione <b>Pegar pestaña</b> en el menú.
 cfr-doorhanger-pintab-step3 = Si el sitio tiene una actualización, verá un punto azul en la pestaña pegada.
+
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Continuar
+
 
 ## Firefox Accounts Message
 
@@ -89,20 +100,26 @@ cfr-protections-panel-link-text = Conocer más
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nueva función:
+
 cfr-whatsnew-button =
     .label = Novedades
     .tooltiptext = Novedades
+
 cfr-whatsnew-panel-header = Novedades
+
 cfr-whatsnew-release-notes-link-text = Leer las notas de la versión
+
 cfr-whatsnew-fx70-title = { -brand-short-name } ahora lucha más fuerte por su privacidad
 cfr-whatsnew-fx70-body =
     La última actualización mejora la función de protección contra rastreo y hace
     que sea muy sencillo crear contraseñas seguras para cada sitio.
+
 cfr-whatsnew-tracking-protect-title = Protéjase de los rastreadores
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } bloquea muchos rastreadores sociales y de sitios cruzados comunes que
     siguen lo que hace en línea.
 cfr-whatsnew-tracking-protect-link-text = Vea su informe
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -113,9 +130,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Ver el informe
+
 cfr-whatsnew-lockwise-backup-title = Haga copia de seguridad de sus contraseñas
 cfr-whatsnew-lockwise-backup-body = Ahora puede generar contraseñas seguras a las que puede acceder desde cualquier lugar donde inicie sesión.
 cfr-whatsnew-lockwise-backup-link-text = Activar copias de seguridad
+
 cfr-whatsnew-lockwise-take-title = Lleve sus contraseñas con usted
 cfr-whatsnew-lockwise-take-body =
     La aplicación móvil { -lockwise-brand-short-name } le permite acceder de forma segura a sus
@@ -154,6 +173,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Detectores de huellas digitales bloqueados
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } bloquea muchos detectores de huellas digitales que recopilan secretamente información sobre su dispositivo y accionan para crear un perfil publicitario suyo.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Detectores de huellas digitales
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } puede bloquear muchos detectores de huellas digitales que recopilan secretamente información sobre su dispositivo y accionan para crear un perfil publicitario suyo.
@@ -211,6 +231,7 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } bloqueó más de <b>{ $blockedCount }</b> rastreadores desde { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -245,12 +266,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícono de picture-in-picture
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Cerrar
-    .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Protecciones a la vista
 cfr-whatsnew-protections-body = El Panel de protecciones incluye informes resumidos sobre violaciones de datos y administración de contraseñas. Ahora puede realizar un seguimiento de cuántas violaciones resolvió y ver si alguna de sus contraseñas guardadas pudo estar expuesta en una violación de datos.
 cfr-whatsnew-protections-cta-link = Ver Panel de protecciones
@@ -260,6 +275,12 @@ cfr-whatsnew-protections-icon-alt = Icono de escudo
 
 cfr-whatsnew-better-pdf-header = Mejor experiencia en PDF
 cfr-whatsnew-better-pdf-body = Los documentos PDF ahora se abren directamente en { -brand-short-name }, manteniendo su flujo de trabajo al alcance de la mano.
+
+cfr-doorhanger-milestone-close-button = Cerrar
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -281,35 +302,15 @@ cfr-doorhanger-fission-secondary-button = Conocer más
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Protección automática contra tácticas de rastreo furtivas
-cfr-whatsnew-clear-cookies-body = Algunos rastreadores lo redirigen a otros sitios web que configuran cookies en secreto. { -brand-short-name } ahora elimina automáticamente esas cookies para que no puedan seguirte.
-cfr-whatsnew-clear-cookies-image-alt = Ilustración de cookie bloqueada
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Más controles de medios
-cfr-whatsnew-media-keys-body = Reproducir y pausar audio o video directamente desde su teclado o auriculares facilita el control de medios desde otra pestaña, programa o incluso cuando su computadora está bloqueada. También puede moverse entre pistas usando las teclas de avance y retroceso.
-cfr-whatsnew-media-keys-button = Aprender como
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Buscar atajos en la barra de direcciones
-cfr-whatsnew-search-shortcuts-body = Ahora, cuando ingrese un motor de búsqueda o un sitio específico en la barra de direcciones, aparecerá un acceso  directo azul en las sugerencias de búsqueda debajo. Seleccione ese acceso directo para completar su búsqueda directamente desde la barra de direcciones.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Protección contra supercookies maliciosas
-cfr-whatsnew-supercookies-body = Los sitios web pueden adjuntar en secreto una "supercookie" a su navegador que puede seguirlo por la web, incluso después de limpiar sus cookies. { -brand-short-name } ahora proporciona una fuerte protección contra las supercookies para que no puedan usarse para rastrear sus actividades en línea de un sitio a otro.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Mejores marcadores
-cfr-whatsnew-bookmarking-body = Es más fácil realizar un seguimiento de sus sitios favoritos. { -brand-short-name } ahora recuerda su ubicación preferida para los marcadores guardados, muestra la barra de herramientas de marcadores de forma predeterminada en las pestañas nuevas y le brinda fácil acceso al resto de sus marcadores a través de una carpeta de la barra de herramientas.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Protección integral contra el rastreo de cookies entre sitios
-cfr-whatsnew-cross-site-tracking-body = Ahora puede optar por una mejor protección contra el rastreo de cookies. { -brand-short-name } puede aislar sus actividades y datos en el sitio en el que está en este momento para que la información almacenada en el navegador no se comparta entre sitios web.
 
 ## Full Video Support CFR message
 
