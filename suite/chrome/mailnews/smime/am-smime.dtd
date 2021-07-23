@@ -26,7 +26,6 @@
 <!ENTITY signingCert.message "Utilizar este certificado para asinar as mensaxes que envíe:">
 
 <!ENTITY certificates.label "Certificados">
-<!ENTITY manageCerts.label "Xestionar certificados…">
-<!ENTITY manageCerts.accesskey "X">
 <!ENTITY manageDevices.label "Xestionar dispositivos de seguranza…">
 <!ENTITY manageDevices.accesskey "g">
+

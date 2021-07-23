@@ -42,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "A">
 <!ENTITY downloadOnBiff.label "Descargar automaticamente as mensaxes novas">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Nome da conta">
 <!ENTITY deleteMessagePrefix.label "Cando elimine unha mensaxe">
 <!ENTITY modelMoveToTrash.label "Movela para este cartafol:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -73,7 +72,6 @@
 <!ENTITY abbreviateOn.label "Nomes completos (por exemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nomes abreviados (por exemplo,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzadas…">
-<!ENTITY serverDefaultCharset.label "Codificación de caracteres predeterminada:">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localPath.label "Cartafol local:">
 <!ENTITY localFolderPicker.label "Seleccione un cartafol local">

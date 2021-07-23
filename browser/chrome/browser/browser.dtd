@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Abrir menú">
+
 <!ENTITY navbarOverflow.label                "Máis ferramentas…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Configuración">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar outro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Iniciar sesión en &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servizos de &brandProductName;">
@@ -139,19 +141,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "b">
 
 <!ENTITY historyMenu.label "Historial">
+
 <!ENTITY historyUndoMenu.label "Lapelas pechadas recentemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Xanelas pechadas recentemente">
 
 <!ENTITY appMenuHistory.showAll.label "Amosar todo o historial">
+
 <!ENTITY appMenuHistory.clearRecent.label "Borrar historial recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar a sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver o panel do historial">
 <!ENTITY appMenuHistory.hideSidebar.label "Agochar a barra lateral de historia">
 <!ENTITY appMenuHistory.recentHistory.label "Historial recente">
+
 <!ENTITY appMenuHelp.label "Axuda">
 
 <!ENTITY appMenuRemoteTabs.label "Lapelas sincronizadas">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ningunha lapela aberta">

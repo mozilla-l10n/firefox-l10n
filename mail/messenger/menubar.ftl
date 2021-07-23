@@ -16,6 +16,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Preferencias
     .accesskey = P
+
 menu-addons-and-themes =
     .label = Complementos e temas
     .accesskey = a
@@ -25,9 +26,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Modo de resolución de problemas…
     .accesskey = M
+
 menu-help-exit-troubleshoot-mode =
     .label = Desactivar o modo de resolución de problemas
     .accesskey = D
+
 menu-help-more-troubleshooting-info =
     .label = Máis información para solucionar problemas
     .accesskey = i
@@ -47,17 +50,22 @@ toolbar-undelete-button =
     .label = Restaurar
     .tooltiptext = Restaura as mensaxes seleccionadas
 
+## View
+
 ## View / Layout
 
 mail-uidensity-label =
     .label = Densidade
     .accesskey = D
+
 mail-uidensity-compact =
     .label = Compactar
     .accesskey = C
+
 mail-uidensity-normal =
     .label = Normal
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Táctil
     .accesskey = T

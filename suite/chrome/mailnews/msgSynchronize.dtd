@@ -4,6 +4,8 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
 <!ENTITY MsgSynchronize.label "Descargar e sincronizar mensaxes">
 <!ENTITY MsgSelect.label "Elementos para utilizar sen conexión">
 <!ENTITY MsgSyncDesc.label "Se seleccionou cartafoles ou grupos de novas para a súa utilización sen conexión, pode descargar ou sincronizalos agora. Caso contrario, use o botón &quot;Seleccionar&quot; para escoller que cartafoles ou grupos de novas desexa utilizar sen conexión.">

@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "Mostrar:">
 <!ENTITY DisplayName.accesskey          "M">
 <!ENTITY preferDisplayName.label        "Preferir sempre o nome mostrado ao da cabeceira da mensaxe">
-<!ENTITY preferDisplayName.accesskey    "a">
 <!ENTITY NickName.label                 "Alcume:">
 <!ENTITY NickName.accesskey             "u">
 
@@ -45,15 +44,6 @@
 <!ENTITY PlainText.label                "Texto sen formato">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Descoñecido">
-<!ENTITY ScreenName.label               "Nome en pantalla:">
-<!ENTITY ScreenName.accesskey           "N">
-
-<!ENTITY allowRemoteContent1.label      "Permitir contido remoto.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "Nas mensaxes HTML é posíbel incorporar
-contido de orixes remotas. Ao abrilas conectarase con esta orixe externa. Isto pode 
-permitir o rastrexamento das mensaxe que foron lidas. Marcando esta caixa permitirase 
-a visualización do contido incorporado nas mensaxes HTML deste contacto.">
 
 <!ENTITY WorkPhone.label                "Traballo:">
 <!ENTITY WorkPhone.accesskey            "T">

@@ -21,8 +21,10 @@ about-private-browsing-handoff-text = Buscar con { $engine } ou escribir enderez
 about-private-browsing-handoff-text-no-engine = Buscar ou escribir enderezo
 about-private-browsing-not-private = Actualmente non está nunha xanela privada.
 about-private-browsing-info-description = { -brand-short-name } borra o historial de busca e navegación cando saia do aplicativo ou peche todas as lapelas e xanelas de navegación privada. Aínda que isto non conserva o seu anonimato en sitios web para o seu fornecedor de servizos de internet, si facilita manter en privado o que fai na rede para calquera outra persoa que utilice este ordenador.
+
 about-private-browsing-need-more-privacy = Precisa de máis privacidade?
 about-private-browsing-turn-on-vpn = Probe con { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

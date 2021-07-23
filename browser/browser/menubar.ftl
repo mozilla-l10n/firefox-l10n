@@ -38,16 +38,20 @@ menu-quit =
             [windows] S
            *[other] S
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Saír do { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Saír do { -brand-shorter-name }
+
 menu-about =
     .label = Sobre o { -brand-shorter-name }
     .accesskey = S
@@ -215,6 +219,7 @@ menu-history-undo-menu =
     .label = Lapelas pechadas recentemente
 menu-history-undo-window-menu =
     .label = Xanelas pechadas recentemente
+
 menu-history-reopen-all-tabs = Reabrir todas as lapelas
 menu-history-reopen-all-windows = Reabrir todas as xanelas
 
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Iniciar sesión en { -brand-product-name } ...
     .accesskey = I
+menu-tools-turn-on-sync =
+    .label = Activar { -sync-brand-short-name } ...
+    .accesskey = A
 menu-tools-addons-and-themes =
     .label = Complementos e temas
     .accesskey = C
 menu-tools-fxa-sign-in2 =
     .label = Identificarse
     .accesskey = I
-menu-tools-turn-on-sync =
-    .label = Activar { -sync-brand-short-name } ...
-    .accesskey = A
 menu-tools-turn-on-sync2 =
     .label = Activar a sincronización ...
     .accesskey = n
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Información da páxina
     .accesskey = n
-menu-settings =
-    .label = Configuración
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -303,6 +301,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = Configuración
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =

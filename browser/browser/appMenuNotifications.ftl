@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Entendín
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Xestione os seus complementos premendo <image data-l10n-name='addon-install-icon'></image> no menú <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Actualización dispoñíbel
     .buttonlabel = Descargar
@@ -71,14 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Agora non
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Está dispoñíbel unha nova actualización de { -brand-shorter-name }, pero non se pode instalar porque se está a executar outra copia de { -brand-shorter-name }. Pécheo para continuar coa actualización ou escolla actualizalo de calquera xeito (é posíbel que a outra copia non funcione correctamente até que o reinicie).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Aceptar
     .buttonaccesskey = A
-appmenu-addon-post-install-message2 = Xestione as súas extensións e temas a través do menú da aplicación.
 appmenu-addon-post-install-message3 = Xestione os seus complementos e temas a través do menú da aplicación.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir que esta extensión se execute en xanelas privadas
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = Cambiouse a súa nova lapela.
     .buttonlabel = Conservar cambios
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = m
     .secondarybuttonlabel = Desactivar a extensión
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = Cambiouse a súa nova lapela.
     .buttonlabel = Manter cambios

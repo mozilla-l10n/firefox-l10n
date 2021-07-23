@@ -23,8 +23,4 @@
 
 <!ENTITY pref.locales.title                     "Idioma da interface de usuario">
 <!ENTITY selectLocale.label                     "Seleccione o idioma para o texto que aparece nas caixas de diálogo, nos menús, nas barras de ferramentas e nas etiquetas dos botóns:">
-<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY restartOnLangChange.label              "As preferencias de idioma terán efecto cando reinicie &brandShortName;.">
 

@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "M">
 <!ENTITY dualUseFolders.label "O servidor admite cartafoles que conteñan subcartafoles e mensaxes">
 <!ENTITY dualUseFolders.accesskey "f">
-<!ENTITY useIdle.label "Utilice a orde IDLE se o servidor a admite">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Número máximo de conexións do servidor na caché">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
@@ -24,11 +22,6 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "Permitir que o servidor ignore estes espazos de nome">
 <!ENTITY overrideNamespaces.accesskey "a">
-<!ENTITY pop3Desc.label "Ao descargar correo pop deste servidor, utilizar o seguinte cartafol para o correo novo:" >
-<!ENTITY globalInbox.label "Caixa de entrada global (conta de cartafoles locais)">
-<!ENTITY globalInbox.accesskey "g">
-<!ENTITY accountDirectory.label "Caixa de entrada para esta conta do servidor">
-<!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "Caixa de entrada para outra conta">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Incluír este servidor ao obter o correo novo">

@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = Preferencias do { -brand-short-name }
+
 open-addons-sidebar-button = Complementos e temas

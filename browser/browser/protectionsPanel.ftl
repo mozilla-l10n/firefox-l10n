@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Produciuse un erro ao enviar o informe. Por favor, inténteo de novo máis tarde.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Sitio arranxado? Envíe un informe
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Estándar
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Máis información sobre a protección avanzada de rastreo
+
 protections-panel-etp-on-header = A protección avanzada de rastrexo está activada para este sitio
 protections-panel-etp-off-header = A protección avanzada de rastrexo está desactivada neste sitio
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = O sitio non funciona?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = O sitio non funciona?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Cargáronse todos os rastre
 ##
 
 protections-panel-no-trackers-found = Non se detectaron rastreadores coñecidos por { -brand-short-name } nesta páxina.
+
 protections-panel-content-blocking-tracking-protection = Rastrexo de contido
+
 protections-panel-content-blocking-socialblock = Rastreadores de redes sociais
 protections-panel-content-blocking-cryptominers-label = Criptomineiros
 protections-panel-content-blocking-fingerprinters-label = Pegadas dixitais
@@ -65,12 +71,14 @@ protections-panel-protectionsdashboard-label = Panel de proteccións
 
 # The header of the list
 protections-panel-site-not-working-view-header = Desactive as proteccións se ten problemas con:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Campos de inicio de sesión
 protections-panel-site-not-working-view-issue-list-forms = Formularios
 protections-panel-site-not-working-view-issue-list-payments = Pagamentos
 protections-panel-site-not-working-view-issue-list-comments = Comentarios
 protections-panel-site-not-working-view-issue-list-videos = Vídeos
+
 protections-panel-site-not-working-view-send-report = Enviar informe
 
 ##
@@ -80,13 +88,16 @@ protections-panel-cryptominers = Os criptomineiros usan o poder informático do 
 protections-panel-fingerprinters = As pegadas dixitais recollen configuracións do seu navegador e computador para crear un perfil de vostede. Usando esta pegada dixital, poden rastrealo en diferentes sitios web.
 protections-panel-tracking-content = Os sitios web poden cargar anuncios externos, vídeos e outro contido con código de seguimento. O bloqueo de contido de seguimento pode axudar aos sitios a cargarse máis rápido, pero é posible que algúns botóns, formularios e campos de inicio de sesión non funcionen.
 protections-panel-social-media-trackers = As redes sociais colocan rastreadores noutros sitios web para seguir o que faga, vexa e mire en liña. Isto permite ás empresas de redes sociais aprender máis sobre vostede máis alá do que comparte nos seus perfís de redes sociais.
+
 protections-panel-description-shim-allowed = Algúns rastrexadores marcados a continuación desbloqueáronse parcialmente nesta páxina porque vostede ten interactuado con eles.
 protections-panel-description-shim-allowed-learn-more = Máis información
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Rastrexador parcialmente desbloqueado
+
 protections-panel-content-blocking-manage-settings =
     .label = Xestionar configuración de protección
     .accesskey = X
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Informar dun sitio quebrado
 protections-panel-content-blocking-breakage-report-view-description = Bloquear certos rastreadores pode causar problemas con algúns sitios web. Informar destes problemas axuda a que { -brand-short-name } sexa mellor para todos. O envío deste informe enviará un URL e información sobre a configuración do seu navegador a Mozilla. <label data-l10n-name="learn-more">Máis información</label>

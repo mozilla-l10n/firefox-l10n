@@ -20,10 +20,3 @@
 <!ENTITY loadNoImagesRadio.accesskey    "o">
 <!ENTITY viewPermissions.label          "Xestionar permisos">
 <!ENTITY viewPermissions.accesskey      "p">
-<!ENTITY animLoopingTitle.label         "Deberían repetirse as imaxes animadas">
-<!ENTITY animLoopAsSpecified.label      "Tantas veces como especifique a imaxe">
-<!ENTITY animLoopAsSpecified.accesskey  "m">
-<!ENTITY animLoopOnce.label             "Unha vez">
-<!ENTITY animLoopOnce.accesskey         "U">
-<!ENTITY animLoopNever.label            "Nunca">
-<!ENTITY animLoopNever.accesskey        "N">

@@ -27,9 +27,6 @@
 <!ENTITY useHtml.accesskey                    "c">
 <!ENTITY autoQuote.label                      "Citar automaticamente a mensaxe orixinal ao responder">
 <!ENTITY autoQuote.accesskey                  "m">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Despois,">
-<!ENTITY then.accesskey                       "D">
 <!ENTITY aboveQuote.label                     "comezar a resposta enriba da cita">
 <!ENTITY belowQuote.label                     "comezar a resposta debaixo da cita">
 <!ENTITY selectAndQuote.label                 "seleccionar a cita">
