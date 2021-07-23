@@ -42,6 +42,11 @@ abuse-report-submit-button = Azen
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Tummla n <span data-l10n-name="addon-name">{ $addon-name }</span> tefsex.
 abuse-report-messagebar-submitting = Tuzna n uneqqis ɣef <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Tanmirt ɣef uneqqis id-tuzneḍ. Tebɣiḑ ad tekkseḍ <span data-l10n-name="addon-name">{ $addon-name }</span> ?

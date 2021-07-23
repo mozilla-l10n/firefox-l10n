@@ -16,6 +16,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Ismenyifen
     .accesskey = I
+
 menu-addons-and-themes =
     .label = Izegrar d yisental
     .accesskey = I
@@ -25,9 +26,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Askar n usellek…
     .accesskey = A
+
 menu-help-exit-troubleshoot-mode =
     .label = Sens askar n ferru n wuguren
     .accesskey = S
+
 menu-help-more-troubleshooting-info =
     .label = Ugar n talɣut n usellek
     .accesskey = U
@@ -58,12 +61,15 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Taneẓẓi
     .accesskey = T
+
 mail-uidensity-compact =
     .label = Ussid
     .accesskey = U
+
 mail-uidensity-normal =
     .label = Amagnu
     .accesskey = A
+
 mail-uidensity-touch =
     .label = Amennal
     .accesskey = A

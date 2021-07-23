@@ -21,8 +21,10 @@ about-private-browsing-handoff-text = Nadi s { $engine } neɣ sekcem tansa
 about-private-browsing-handoff-text-no-engine = Nadi neɣ sekcem tansa
 about-private-browsing-not-private = Mačči deg usfaylu uslig i telliḍ tura.
 about-private-browsing-info-description = { -brand-short-name } iseffeḍ azray n unadi d tunigin mi ara teffɣeḍ seg usnas neɣ ad tmedleḍ iccaren n ifuyla n tunigin tusligin. aya ad ak-ikkes udem uslig mi ara tinigeḍ.
+
 about-private-browsing-need-more-privacy = Tesriḍ ugar n tbaḍnit?
 about-private-browsing-turn-on-vpn = Ɛreḍ { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

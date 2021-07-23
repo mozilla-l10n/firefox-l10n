@@ -8,10 +8,6 @@ about-addressbook-title = Imedlis n tensa
 
 about-addressbook-toolbar-new-address-book =
     .label = Imedlis n tensa amaynut
-about-addressbook-toolbar-new-carddav-address-book =
-    .label = Imedlis n tensa amaynut CardDAV
-about-addressbook-toolbar-new-ldap-address-book =
-    .label = Imedlis n tensa LDAP amaynut
 about-addressbook-toolbar-add-carddav-address-book =
     .label = Rnu imedlis n tensa CardDAV
 about-addressbook-toolbar-add-ldap-address-book =
@@ -24,6 +20,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Akk imedlisen n tensa
+
 about-addressbook-books-context-properties =
     .label = Timeẓliyin
 about-addressbook-books-context-synchronize =
@@ -34,6 +31,7 @@ about-addressbook-books-context-delete =
     .label = Kkes
 about-addressbook-books-context-remove =
     .label = Kkes
+
 about-addressbook-confirm-delete-book-title = Kkes imedlis n tensa
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -51,14 +49,17 @@ about-addressbook-search =
     .placeholder = Nadi { $name }
 about-addressbook-search-all =
     .placeholder = Nadi akk imedlisen n tansiwin
+
 about-addressbook-sort-button =
     .title = Snifel amyizwer n tebdart
+
 about-addressbook-name-format-display =
     .label = Isem n uskan
 about-addressbook-name-format-firstlast =
     .label = Aneggaru d amezwaru
 about-addressbook-name-format-lastfirst =
     .label = Aneggaru, amezwaru
+
 about-addressbook-sort-name-ascending =
     .label = Smizwer s yisem (A > Z)
 about-addressbook-sort-name-descending =
@@ -67,6 +68,7 @@ about-addressbook-sort-email-ascending =
     .label = Smizwer s tansa n yimayl (A > Z)
 about-addressbook-sort-email-descending =
     .label = Smizwer s tansa n yimayl (Z > A)
+
 about-addressbook-confirm-delete-mixed-title = Kkes inermisen akked tebdarin
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -123,6 +125,7 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Ẓreg
 about-addressbook-cancel-edit-contact-button = Sefsex
 about-addressbook-save-edit-contact-button = Sekles
+
 about-addressbook-details-email-addresses-header = Tansiwin n yimayl
 about-addressbook-details-phone-numbers-header = Uṭṭunen n tiliɣri
 about-addressbook-details-home-address-header = Tansa n uxxam

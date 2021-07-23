@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Mačči tura
     .secondarybuttonaccesskey = T
 appmenu-update-restart-message = Seld askar arurad, { -brand-shorter-name } ad d-yerr akk accaren yeldin akked yisfayluyen ur nelli ara deg uskar n tunigin tusligt.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Ih, awi-t-id
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Sefrek izegrar inek s usebbed γef <image data-l10n-name='addon-install-icon'></image> deg umuγ <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Yella lqem
     .buttonlabel = Sader
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Mačči tura
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Yella lqem amaynut n { -brand-shorter-name }, maca ur yezmir ara ad yettusebded acku yella nɣel-nniḍen n { -brand-shorter-name } la iteddu. Mdel-it i wakken ad tkemmleḍ lqem, neɣ fren ɣas akken leqqem (nɣel-nni-nniḍen yezmer ur iteddu ara akken iwata alamma tulseḍ-as asenker).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Ih, awi-t-id
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Sefrek izegrar inek s usebbed γef <image data-l10n-name='addon-install-icon'></image> deg umuγ <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Ih
     .buttonaccesskey = H
-appmenu-addon-post-install-message2 = Sefrek isiɣzaf d yisental inek·inem deg wumuɣ n usnas.
 appmenu-addon-post-install-message3 = Sefrek izegrar d yisental inek·inem deg wumuɣ n usnas.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Sireg asiɣzef-agi ad yeddu deg isfuyla usligen
     .accesskey = S
+    
 appmenu-new-tab-controlled =
     .label = Iccer-ik amaynut ibeddel.
     .buttonlabel = Ḥrez abeddel
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Sens aseɣzif
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = Iccer-inek·inem amaynut yettusenfel.
     .buttonlabel = Eǧǧ isenfal

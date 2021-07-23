@@ -8,22 +8,30 @@
 ##
 
 process-type-web = Agbur Web
+
 process-type-browser = Agejdan
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Asebter Ɣef yezwer
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Igburen Mozilla zwaren
+
 process-type-extension = Asiɣzef
+
 # process used to open file:// URLs
 process-type-file = afaylu adigan
+
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Aḥeṛṛi meqqer
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Agbur web yettwaɛezlen
+
 # process preallocated; may change to other types
 process-type-prealloc = Adeg uzwir
 
@@ -33,11 +41,14 @@ process-type-prealloc = Adeg uzwir
 
 process-type-default = Agejdan
 process-type-tab = Tabzimt
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to perform network operations
 process-type-socket = Agrudmawan
+
 # process used to decode media
 process-type-rdd = RDD
 

@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Amezwer ({ $name })
 fonts-label-default-unnamed =
     .label = Amezwer
+
 fonts-encoding-dialog-title =
     .title = Tisefsiyin d usettengel
+
 fonts-language-legend =
     .value = Tisefsiyin i:
     .accesskey = s
+
 fonts-proportional-label =
     .value = Aẓunan:
     .accesskey = A
@@ -85,38 +89,49 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans-serif
+
 font-size-label =
     .value = Teɣzi:
     .accesskey = e
+
 font-size-proportional-label =
     .value = Teɣzi:
     .accesskey = e
+
 font-size-monospace-label =
     .value = Teɣzi:
     .accesskey = i
+
 font-serif-label =
     .value = Serif:
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Tehri tusbuṭ:
     .accesskey = T
+
 font-min-size-label =
     .value = Teɣzi n tsefsit taddayt:
     .accesskey = T
+
 min-size-none =
     .label = Ula yiwen
 
 ## Fonts in message
 
 font-control-legend = Asenqed n tsefsit
+
 use-document-fonts-checkbox =
     .label = Sireg iznan akken ad sqedcen tisefsiyin nniḍen.
     .accesskey = S
+
 use-fixed-width-plain-checkbox =
     .label = Seqdec tehri tusbiṭ i yeznan n uḍris aččuran
     .accesskey = x
@@ -124,13 +139,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Asettengel n uḍris
+
 text-encoding-description = Sbadu asettengel n uḍris amewer i tuzna d urmas n yimayl
+
 font-outgoing-email-label =
     .value = Tirawt tuffiɣt:
     .accesskey = f
+
 font-incoming-email-label =
     .value = Tirawt tukcimt:
     .accesskey = w
+
 default-font-reply-checkbox =
     .label = Ticki yezmer, seqdec asettengel n uḍris amezwer i tririt
     .accesskey = z

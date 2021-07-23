@@ -4,6 +4,7 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
+
 # Description of the import module
 thunderbird-import-description = Kter imayl seg ukaram n umaɣnu n Thunderbird.
-import-select-profile-dir-or-zip = Fren akaram n umaɣnu neɣ tarcivt zip ideg yella umaɣnu
+

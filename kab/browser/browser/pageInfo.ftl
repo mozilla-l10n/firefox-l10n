@@ -129,6 +129,8 @@ security-site-data-only = Ih, { $value } { $unit } seg isefka n usmel
 security-site-data-cookies-only = Ih, inagan n tuqna
 security-site-data-no = Ala
 
+##
+
 image-size-unknown = Arussin
 page-info-not-specified =
     .value = Ur d-ittumudd ara

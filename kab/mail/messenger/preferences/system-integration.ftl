@@ -4,12 +4,16 @@
 
 system-integration-title =
     .title = Amsidef anagrawan
+
 system-integration-dialog =
     .buttonlabelaccept = Sbadu-t d  amezwer
     .buttonlabelcancel = Zgel amsidef
     .buttonlabelcancel2 = Sefsex
+
 default-client-intro = &Seqdec { -brand-short-name } d amsaɣ amezwer i:
+
 unset-default-tooltip = Ur tezmireḍ ara ad tekkseḍ { -brand-short-name } d amsaɣ-inek amezwer deg { -brand-short-name }. Akken ad tarreḍ asnas nniḍen d amezwer, yessefk ad tferneḍ deg tnaka n 'Sbadu-t d amezwer'
+
 checkbox-email-label =
     .label = Imayl
     .tooltiptext = { unset-default-tooltip }
@@ -19,9 +23,11 @@ checkbox-newsgroups-label =
 checkbox-feeds-label =
     .label = Isuddam RSS
     .tooltiptext = { unset-default-tooltip }
+
 checkbox-calendar-label =
     .label = Awitay
     .tooltiptext = { unset-default-tooltip }
+
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 system-search-engine-name =
@@ -30,9 +36,11 @@ system-search-engine-name =
         [windows] Anadi n yisfulay
        *[other] { "" }
     }
+
 system-search-integration-label =
     .label = Sireg { system-search-engine-name } akken ad d-nadiḍ iznan
     .accesskey = d
+
 check-on-startup-label =
     .label = Selkam yal tikelt asenqed agi di tnekra n { -brand-short-name }
     .accesskey = i
