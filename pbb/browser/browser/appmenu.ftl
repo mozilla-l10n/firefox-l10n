@@ -24,6 +24,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Ãçxh kãjãdan
+
 appmenuitem-save-page =
     .label = Ma'h jxawnah…
 
@@ -43,22 +44,12 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Txa u'txa txte { -brand-shorter-name }
     .accesskey = T
-appmenu-help-troubleshooting-info =
-    .label = Ptasxisxwah na' yu'wes pheu'jxa
-    .accesskey = P
 appmenu-help-feedback-page =
     .label = Yatxnxi's kahwa'
     .accesskey = Y
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Kãjanxisa'nxakh pu'txna fxiçxa'nxisanxakhjxa…
-    .accesskey = K
-appmenu-help-safe-mode-with-addons =
-    .label = Kçxãçxa'nxisanxakhjxa ta'khna kajãnxinxakh
-    .accesskey = K
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

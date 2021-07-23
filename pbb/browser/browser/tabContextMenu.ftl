@@ -18,8 +18,10 @@ move-to-new-window =
     .label = Kesejxa u'se txundenxisa's
     .accesskey = K
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Txundenxi's aphna
     .accesskey = T
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

@@ -8,6 +8,7 @@
 
 
 <!ENTITY appmenu.tooltip                     "Eça's pha'ndena">
+
 <!ENTITY navbarOverflow.label                "Jwee vxiswa'j...">
 
 <!-- Tab context menu -->
@@ -129,17 +130,20 @@ can reach it easily. -->
 
 
 <!ENTITY historyMenu.label "Yaçka fxi'hjnxi's">
+
 <!ENTITY historyUndoMenu.label "Çxhunden aphna u'se u'kasa's">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Çxhunden aphna u'se u'kasa's vxitx le'çxkwes">
 
 <!ENTITY appMenuHistory.showAll.label "Jxuka ta'sxn yaçkah fxi'jhnxi's">
+
 <!ENTITY appMenuHistory.clearRecent.label "Khukhna u'se fxi'hjnxi's…">
 <!ENTITY appMenuHistory.restoreSession.label "Sweete' phewu'nxi yaçka phakhenxitx">
 <!ENTITY appMenuHistory.viewSidebar.label "Na's thegna paneltewe'sxa's yaçka txikhnxi's">
 
 
 <!ENTITY appMenuRemoteTabs.label "Ja'da txunden">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Phadenxii meeta">

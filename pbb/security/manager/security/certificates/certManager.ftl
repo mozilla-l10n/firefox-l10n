@@ -28,6 +28,8 @@ delete-email-cert-title =
 ## Cert Viewer
 
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 
