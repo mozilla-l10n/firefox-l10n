@@ -4,8 +4,10 @@
 
 import-ab-csv-window =
     .title = Importera adressbok från textfil
+
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Förhandsgranskning av dataimporten för post { $recordNumber }
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Importera
     .buttonaccesskeyaccept = m

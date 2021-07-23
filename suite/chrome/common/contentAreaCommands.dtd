@@ -7,6 +7,7 @@
 <!ENTITY popupWindowRejectCmd.accesskey "i">
 <!ENTITY popupWindowAllowCmd.label      "Tillåt webbplatsen att öppna extrafönster">
 <!ENTITY popupWindowAllowCmd.accesskey  "e">
+
 <!ENTITY openLinkCmdInTab.label       "Öppna länken i en ny flik">
 <!ENTITY openLinkCmdInTab.accesskey   "f">
 <!ENTITY openLinkCmd.label            "Öppna länken i ett nytt fönster">

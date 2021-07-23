@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Återställ { -brand-short-name }
+
 refresh-profile-dialog-title = Återställ { -brand-short-name } till standardinställningarna?
 refresh-profile-dialog-button =
     .label = Återställ { -brand-short-name }

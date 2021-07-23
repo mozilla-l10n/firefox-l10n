@@ -13,8 +13,5 @@
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Byt mellan relativ och absolut URL. Du måste spara sidan innan du ändrar.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Ange en webbadress, en lokal fil eller välj ett namngivet ankare eller rubrik från popup-listan:">
-<!ENTITY LinkURLEditField.accessKey "w">
 <!ENTITY LinkURLEditField2.label "Ange en webbadress, en lokal fil eller välj ett namngivet ankare eller rubrik från fältets snabbmeny:">
 <!ENTITY LinkURLEditField2.accessKey "w">

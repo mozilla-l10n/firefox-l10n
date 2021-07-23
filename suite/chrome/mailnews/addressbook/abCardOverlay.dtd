@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "Kortnamn:">
 <!ENTITY DisplayName.accesskey          "o">
 <!ENTITY preferDisplayName.label        "Föredra alltid kortnamn istället för visningsnamnet i meddelandet">
-<!ENTITY preferDisplayName.accesskey    "a">
 <!ENTITY preferDisplayName2.accesskey   "v">
 <!ENTITY NickName.label                 "Smeknamn:">
 <!ENTITY NickName.accesskey             "S">
@@ -46,8 +45,6 @@
 <!ENTITY PlainText.label                "Oformaterad text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Okänt">
-<!ENTITY ScreenName.label               "Skärmnamn:">
-<!ENTITY ScreenName.accesskey           "m">
 
 <!ENTITY chatName.label                 "Chattnamn:">
 
