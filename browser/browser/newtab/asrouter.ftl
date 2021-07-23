@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Hãy thử cái này: Ghim thẻ
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Tại sao tôi thấy cái này
+
 cfr-doorhanger-extension-cancel-button = Không phải bây giờ
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Thêm vào ngay
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Ghim thẻ này
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Quản lý các thiết lập được đề xuất
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = Không hiển thị cho tôi đề xuất này
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Tìm hiểu thêm
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = bởi { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Đề xuất
 cfr-doorhanger-extension-notification2 = Đề xuất
     .tooltiptext = Tiện ích được đề xuất
     .a11y-announcement = Tiện ích được đề xuất có sẵn
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Đề xuất
@@ -57,6 +65,7 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } người dùng
     }
+
 cfr-doorhanger-pintab-description = Dễ dàng truy cập vào các trang web được sử dụng nhiều nhất của bạn. Giữ các trang web mở trong một thẻ (ngay cả khi bạn khởi động lại).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -64,8 +73,10 @@ cfr-doorhanger-pintab-description = Dễ dàng truy cập vào các trang web đ
 cfr-doorhanger-pintab-step1 = <b>Nhấp chuột phải</b> trên thẻ bạn muốn ghim.
 cfr-doorhanger-pintab-step2 = Chọn <b>Ghim thẻ</b> từ menu.
 cfr-doorhanger-pintab-step3 = Nếu trang web có bản cập nhật, bạn sẽ thấy một chấm màu xanh trên thẻ được ghim.
+
 cfr-doorhanger-pintab-animation-pause = Tạm dừng
 cfr-doorhanger-pintab-animation-resume = Tiếp tục
+
 
 ## Firefox Accounts Message
 
@@ -87,20 +98,26 @@ cfr-protections-panel-link-text = Tìm hiểu thêm
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Tính năng mới:
+
 cfr-whatsnew-button =
     .label = Có gì mới
     .tooltiptext = Có gì mới
+
 cfr-whatsnew-panel-header = Có gì mới
+
 cfr-whatsnew-release-notes-link-text = Đọc ghi chú phát hành
+
 cfr-whatsnew-fx70-title = { -brand-short-name } bây giờ chiến đấu mạnh mẽ hơn cho quyền riêng tư của bạn
 cfr-whatsnew-fx70-body =
     Bản cập nhật mới nhất nâng cao tính năng chống theo dõi và làm cho nó
     dễ dàng hơn bao giờ hết để tạo mật khẩu an toàn cho mọi trang web.
+
 cfr-whatsnew-tracking-protect-title = Bảo vệ bạn khỏi trình theo dõi
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } chặn nhiều trình theo dõi xã hội và trang web phổ biến mà
     nó theo dõi những gì bạn làm trực tuyến
 cfr-whatsnew-tracking-protect-link-text = Xem báo cáo của bạn
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -110,9 +127,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Từ { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Xem báo cáo
+
 cfr-whatsnew-lockwise-backup-title = Sao lưu mật khẩu của bạn
 cfr-whatsnew-lockwise-backup-body = Bây giờ tạo mật khẩu an toàn, bạn có thể truy cập bất cứ nơi nào bạn đăng nhập.
 cfr-whatsnew-lockwise-backup-link-text = Bật sao lưu
+
 cfr-whatsnew-lockwise-take-title = Mang mật khẩu theo bên bạn
 cfr-whatsnew-lockwise-take-body =
     Ứng dụng di động { -lockwise-brand-short-name } cho phép bạn truy cập an toàn
@@ -150,6 +169,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Dấu vết bị chặn
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } chặn nhiều trang lấy dấu vết để bí mật thu thập thông tin về thiết bị và hành động của bạn để tạo hồ sơ quảng cáo về bạn.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Dấu vết
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } có thể chặn những trang lấy dấu vết để bí mật thu thập thông tin về thiết bị và hành động của bạn để tạo hồ sơ quảng cáo về bạn.
@@ -207,6 +227,7 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } đã chặn hơn <b>{ $blockedCount }</b> trình theo dõi từ { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -240,12 +261,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Biểu tượng hình trong hình
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Đóng
-    .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Bảo vệ trong nháy mắt
 cfr-whatsnew-protections-body = Bảng điều khiển bảo vệ bao gồm các báo cáo tóm tắt về rò rỉ dữ liệu và quản lý mật khẩu. Bây giờ bạn có thể theo dõi có bao nhiêu rò rỉ mà bạn đã giải quyết và xem liệu bất kỳ mật khẩu đã lưu nào của bạn có thể bị lộ trong một rò rỉ dữ liệu hay không.
 cfr-whatsnew-protections-cta-link = Xem bảng điều khiển bảo vệ
@@ -255,6 +270,12 @@ cfr-whatsnew-protections-icon-alt = Biểu tượng khiên
 
 cfr-whatsnew-better-pdf-header = Trải nghiệm PDF tốt hơn
 cfr-whatsnew-better-pdf-body = Tài liệu PDF hiện mở trực tiếp bằng { -brand-short-name }, giữ cho công việc của bạn trong tầm tay dễ dàng.
+
+cfr-doorhanger-milestone-close-button = Đóng
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -276,35 +297,15 @@ cfr-doorhanger-fission-secondary-button = Tìm hiểu thêm
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Bảo vệ tự động, không có theo dõi ẩn
-cfr-whatsnew-clear-cookies-body = Một số trình theo dõi chuyển hướng bạn đến các trang web khác bí mật đặt cookie. { -brand-short-name } bây giờ sẽ tự động xóa các cookie đó để bạn không thể bị theo dõi.
-cfr-whatsnew-clear-cookies-image-alt = Minh họa về cookie bị chặn
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Điều khiển phương tiện khác
-cfr-whatsnew-media-keys-body = Phát và tạm dừng âm thanh hoặc video ngay từ bàn phím hoặc tai nghe của bạn, giúp bạn dễ dàng điều khiển phương tiện từ thẻ, chương trình khác hoặc ngay cả khi máy tính của bạn bị khóa. Bạn cũng có thể di chuyển giữa các bản nhạc bằng cách sử dụng các phím tiến và lùi.
-cfr-whatsnew-media-keys-button = Tìm hiểu cách thức
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Tìm kiếm các phím tắt trong thanh địa chỉ
-cfr-whatsnew-search-shortcuts-body = Bây giờ, khi bạn nhập công cụ tìm kiếm hoặc trang web cụ thể vào thanh địa chỉ, một phím tắt màu xanh lam sẽ xuất hiện trong các đề xuất tìm kiếm bên dưới. Chọn lối tắt đó để hoàn tất tìm kiếm của bạn trực tiếp từ thanh địa chỉ.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Bảo vệ khỏi supercookie độc hại
-cfr-whatsnew-supercookies-body = Các trang web có thể bí mật đính kèm một “supercookie” vào trình duyệt của bạn để có thể theo dõi bạn trên khắp trang web, ngay cả sau khi bạn xóa cookie của mình. { -brand-short-name } hiện cung cấp khả năng bảo vệ mạnh mẽ chống lại các supercookie để chúng không thể được sử dụng để theo dõi các hoạt động trực tuyến của bạn từ trang web này sang trang web khác.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Đánh dấu trang tốt hơn
-cfr-whatsnew-bookmarking-body = Theo dõi các trang web yêu thích của bạn dễ dàng hơn. Bây giờ { -brand-short-name } nhớ vị trí ưa thích của bạn cho các dấu trang đã lưu, hiển thị thanh công cụ dấu trang theo mặc định trên các thẻ mới và cho phép bạn dễ dàng truy cập vào phần còn lại của dấu trang thông qua thư mục thanh công cụ.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Bảo vệ toàn diện khỏi theo dõi cookie trên nhiều trang web
-cfr-whatsnew-cross-site-tracking-body = Bây giờ bạn có thể chọn tham gia để bảo vệ tốt hơn khỏi theo dõi cookie. { -brand-short-name } có thể cô lập các hoạt động và dữ liệu của bạn với trang web bạn hiện đang truy cập, vì vậy thông tin được lưu trữ trong trình duyệt sẽ không được chia sẻ giữa các trang web.
 
 ## Full Video Support CFR message
 

@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Không phải bây giờ
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Sau khi khởi động lại, { -brand-shorter-name } sẽ khôi phục toàn bộ những thẻ đang mở và cửa sổ của bạn mà không ở chế độ duyệt web riêng tư.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = OK, đã hiểu
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Quản lý tiện ích của bạn bằng cách nhấp vào <image data-l10n-name='addon-install-icon'></image> trong trình đơn <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Đã có bản cập nhật
     .buttonlabel = Tải xuống
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Không phải lúc này
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Đã có bản cập nhật { -brand-shorter-name } mới nhưng không thể cài đặt bản cập nhật này vì một bản sao khác của { -brand-shorter-name } đang chạy. Đóng nó để tiếp tục cập nhật hoặc chọn vẫn cập nhật (bản sao khác có thể không hoạt động chính xác cho đến khi bạn khởi động lại nó).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = OK, đã hiểu
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Quản lý tiện ích của bạn bằng cách nhấp vào <image data-l10n-name='addon-install-icon'></image> trong trình đơn <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Okay
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Quản lý các tiện ích mở rộng và chủ đề của bạn thông qua menu ứng dụng.
 appmenu-addon-post-install-message3 = Quản lý các tiện ích mở rộng và chủ đề của bạn thông qua menu ứng dụng.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Cho phép tiện ích mở rộng này chạy trong cửa sổ riêng tư
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = Thẻ mới của bạn đã bị thay đổi.
     .buttonlabel = Giữ các thay đổi
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Tắt tiện ích mở rộng
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = Thẻ mới của bạn đã thay đổi.
     .buttonlabel = Lưu thay đổi

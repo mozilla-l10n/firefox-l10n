@@ -129,6 +129,8 @@ security-site-data-only = Có, { $value } { $unit } dữ liệu trang web
 security-site-data-cookies-only = Có, cookie
 security-site-data-no = Không
 
+##
+
 image-size-unknown = Không rõ
 page-info-not-specified =
     .value = Không được chỉ định

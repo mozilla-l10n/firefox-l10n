@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Mở bằng { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
