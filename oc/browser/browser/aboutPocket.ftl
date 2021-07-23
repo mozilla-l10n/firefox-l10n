@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Apondre d'etiquetas
+
 pocket-panel-saved-error-generic = Una error s'es producha en ensajant d'enregistrar dins { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Las etiquetas an un limit de 25 caractèrs
 pocket-panel-saved-error-only-links = Se pòdon pas enregistrar que los ligams

@@ -184,6 +184,7 @@
 <!ENTITY pasteButton.tooltip            "Coller">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "x"> 
 <!ENTITY subject.accesskey "S">
 

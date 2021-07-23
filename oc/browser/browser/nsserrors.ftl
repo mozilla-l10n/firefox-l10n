@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Una error s'es producha pendent una connexion a { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Còdi d’error : { $error }
+
 psmerr-ssl-disabled = Connexion securizada impossibla perque lo protocòl SSL es estat desactivat.
 psmerr-ssl2-disabled = Connexion securizada impossibla perque lo site utiliza una version anciana pas segura del protocòl SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Avètz recebut un certificat invalid. Contactatz l'administrator del servidor o vòstre correspondent de messatjariá e provesissètz-li las entresenhas seguentas :
     
     Vòstre certificat conten lo meteis numèro de seria qu'un autre certificat emes per l'autoritat de certificacion. Provesissètz-vos un certificat novèl amb un numèro de seria unic.
+
 ssl-error-export-only-server = Impossible de comunicar en mòde securizat. Lo par gerís pas lo chiframent de naut nivèl.
 ssl-error-us-only-server = Impossible de comunicar en mòde securizat. Lo par requerís un chiframent de naut nivèl qu'es pas gerit.
 ssl-error-no-cypher-overlap = Impossible de comunicar en mòde securizat amb lo par : pas cap d'algoritme de chiframent en comun.

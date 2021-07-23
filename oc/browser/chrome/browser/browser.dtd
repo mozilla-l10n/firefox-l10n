@@ -52,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Paramètres de &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Connectar un autre periferic…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Se connectar a &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servicis &brandProductName;">
@@ -140,6 +141,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Istoric">
+
 <!ENTITY historyUndoMenu.label "Onglets tampats recentament">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Fenèstras tampadas recentament">
@@ -151,9 +153,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Afichar lo panèl de l'istoric">
 <!ENTITY appMenuHistory.hideSidebar.label "Amagar lo panèl de l'istoric">
 <!ENTITY appMenuHistory.recentHistory.label "Istoric recent">
+
 <!ENTITY appMenuHelp.label "Ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Onglets sincronizats">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Cap d’onglet pas dobèrt">

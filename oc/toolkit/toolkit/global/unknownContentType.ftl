@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Dobrir dins { -brand-short-name }
     .accesskey = D
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

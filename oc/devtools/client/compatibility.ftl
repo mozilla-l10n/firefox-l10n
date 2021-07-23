@@ -42,6 +42,7 @@ compatibility-issue-occurrences =
         [one] { $number } ocuréncia
        *[other] { $number } ocuréncias
     }
+
 compatibility-no-issues-found = Cap de problèma de compatibilitat pas trobat.
 compatibility-close-settings-button =
     .title = Tampar los paramètres

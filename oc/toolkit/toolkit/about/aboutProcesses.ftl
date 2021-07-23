@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Gestionari de processús
+
 # The Actions column
 about-processes-column-action =
     .title = Accions
@@ -27,31 +28,6 @@ about-processes-column-cpu-total = Processor
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
-about-processes-browser-process-name = { -brand-short-name } (processus { $pid })
-about-processes-web-process-name = Web (processús { $pid }, partejat)
-about-processes-web-isolated-process-name = Web (processús { $pid }) per { $origin }
-about-processes-web-large-allocation = Web (processús { $pid }, larg) per { $origin }
-about-processes-with-coop-coep-process-name = Web (processús { $pid }, origina divèrsa isolada) per { $origin }
-about-processes-file-process-name = Fichièrs (processús { $pid })
-about-processes-extension-process-name = Extensions (processús { $pid })
-about-processes-privilegedabout-process-name = A prepaus (processús { $pid })
-about-processes-plugin-process-name = Plugins (processús { $pid })
-about-processes-privilegedmozilla-process-name = Web (processús { $pid }) per sites { -vendor-short-name }
-about-processes-gmp-plugin-process-name = Plugins mèdias Gecko (processús { $pid })
-about-processes-gpu-process-name = GPU (processús { $pid })
-about-processes-vr-process-name = VR (processús { $pid })
-about-processes-rdd-process-name = Descodador de donadas (processús { $pid })
-about-processes-socket-process-name = Ret (processús { $pid })
-about-processes-remote-sandbox-broker-process-name = Agent de nauc de sabla distant (processús { $pid })
-about-processes-fork-server-process-name = Servidor Fork (process { $pid })
-about-processes-preallocated-process-name = Preacordat (processús { $pid })
-about-processes-unknown-process-name = Autre ({ $type }, processús { $pid })
-# Process
-# Variables:
-#   $name (String) The name assigned to the process.
-#   $pid (String) The process id of this process, assigned by the OS.
-about-processes-process-name = Processús { $pid } : { $name }
-
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
@@ -71,6 +47,7 @@ about-processes-socket-process = Ret ({ $pid })
 about-processes-remote-sandbox-broker-process = Agent de nauc de sabla distant ({ $pid })
 about-processes-fork-server-process = Còpia del servidor ({ $pid })
 about-processes-preallocated-process = Prealogat ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -87,17 +64,6 @@ about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
 
 ## Details within processes
 
-# Single-line summary of threads
-# Variables:
-#    $number (Number) The number of threads in the process. Typically larger
-#                     than 30. We don't expect to ever have processes with less
-#                     than 5 threads.
-about-processes-thread-summary = Fils d’execucion ({ $number })
-# Thread details
-# Variables:
-#   $name (String) The name assigned to the thread.
-#   $tid (String) The thread id of this thread, assigned by the OS.
-about-processes-thread-name = Fil d’execucion { $tid } : { $name }
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -109,21 +75,25 @@ about-processes-inactive-threads =
         [one] { $number } fil inactiu
        *[other] { $number } fils inactius
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = ID fil : { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Onglet : { $name }
 about-processes-preloaded-tab = Onglet precargat novèl
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Subframe : { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -140,14 +110,12 @@ about-processes-frame-name-many = Subframes ({ $number }) : { $shortUrl }
 ##                   of `duration-unit-*`.
 
 # Common case.
-about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
-# Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Temps de CPU total : { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (es a mesurar)
-# Special case: process or thread is currently idle.
-about-processes-cpu-user-and-kernel-idle = inactiu ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = inactiu
     .title = Temps CPU total : { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
@@ -164,10 +132,9 @@ about-processes-cpu-idle = inactiu
 ##                        of `memory-unit-*`.
 
 # Common case.
-about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
-# Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Evolucion : { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 

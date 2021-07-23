@@ -129,6 +129,8 @@ security-site-data-only = Òc-ben, { $value } { $unit } de donadas de site
 security-site-data-cookies-only = Òc-ben, de cookies
 security-site-data-no = Non
 
+##
+
 image-size-unknown = Desconegut
 page-info-not-specified =
     .value = Pas especificat

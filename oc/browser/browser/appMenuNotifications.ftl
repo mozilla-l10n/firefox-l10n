@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Pas ara
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Aprèp una pichoneta reaviada, { -brand-shorter-name } restablirà totes vòstres onglets dobèrts que son pas en navegacion privada.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Comprés
+    .buttonaccesskey = C
+appmenu-addon-post-install-message = Gerir los moduls en clicant <image data-l10n-name='addon-install-icon'></image> sul menú <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Mesa a jorn disponibla
     .buttonlabel = Telecargar
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Pas ara
     .secondarybuttonaccesskey = P
 appmenu-update-other-instance-message = Una version novèla de { -brand-shorter-name } es disponibla, mas una còpia ja en execucion de { -brand-shorter-name } empacha de l’installar. Tampatz-la per contunhar la mesa a jorn o causissètz de metre a jorn de tot biais (pòt arribar que l’autra còpia foncione pas mai abans reaviada).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Comprés
-    .buttonaccesskey = C
-appmenu-addon-post-install-message = Gerir los moduls en clicant <image data-l10n-name='addon-install-icon'></image> sul menú <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = D’acòrdi
     .buttonaccesskey = D
-appmenu-addon-post-install-message2 = Gerissètz las extensions e los tèmas via lo menú d’aplicacion.
 appmenu-addon-post-install-message3 = Gerissètz vòstres moduls complementaris e tèmas via lo menú de l’aplicacion.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Autorizar aquesta extension en navegacion privada
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = La pagina Onglet novèl es estada cambiada.
     .buttonlabel = Servar los cambiaments
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = S
     .secondarybuttonlabel = Desactivar l’extension
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = La pagina Onglet novèl a cambiat.
     .buttonlabel = Servar las modificacions
