@@ -581,6 +581,7 @@ home-prefs-topsites-description = Enim külastatud saidid
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } soovitab
+
 ##
 
 home-prefs-recommended-by-learn-more = Kuidas see töötab?
@@ -606,6 +607,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Infokillud
 home-prefs-snippets-description = Uuendused { -vendor-short-name }lt ja { -brand-product-name }ilt
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -684,6 +686,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = Eelistused
+
 containers-remove-button =
     .label = Eemalda
 

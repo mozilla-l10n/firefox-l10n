@@ -157,3 +157,4 @@ policy-SupportMenu = Add a custom support menu item to the help menu.
 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Block websites from being visited. See documentation for more details on the format.
+

@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Ava menüü">
+
 <!ENTITY navbarOverflow.label                "Rohkem tööriistu…">
 
 <!-- Tab context menu -->
@@ -145,19 +146,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "K">
 
 <!ENTITY historyMenu.label "Ajalugu">
+
 <!ENTITY historyUndoMenu.label "Hiljuti suletud kaardid">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Hiljuti suletud aknad">
 
 <!ENTITY appMenuHistory.showAll.label "Kuva kogu ajalugu">
+
 <!ENTITY appMenuHistory.clearRecent.label "Kustuta hiljutine ajalugu…">
 <!ENTITY appMenuHistory.restoreSession.label "Taasta eelmine seanss">
 <!ENTITY appMenuHistory.viewSidebar.label "Kuva ajaloo külgriba">
 <!ENTITY appMenuHistory.hideSidebar.label "Peida ajaloo külgriba">
 <!ENTITY appMenuHistory.recentHistory.label "Hiljutine ajalugu">
+
 <!ENTITY appMenuHelp.label "Abi">
 
 <!ENTITY appMenuRemoteTabs.label "Sünkroniseeritud kaardid">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Avatud kaarte pole">

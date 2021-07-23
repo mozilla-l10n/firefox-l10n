@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Käivita ohutus režiimis
+
 refresh-profile =
     .label = Värskenda { -brand-short-name }
 safe-mode-description = Ohutu režiim on { -brand-short-name }i erirežiim probleemide lahendamiseks.

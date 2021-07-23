@@ -384,6 +384,7 @@ locale-enabled-heading = Lubatud
 locale-disabled-heading = Keelatud
 
 ask-to-activate-button = Aktiveerimiseks küsitakse luba
+
 always-activate-button = Alati aktiivne
 never-activate-button = Mitte kunagi aktiivne
 
@@ -436,11 +437,16 @@ addon-detail-private-browsing-help = Lubamise korral saab laiendus ligipääsu s
 addon-detail-private-browsing-allow = lubatud
 addon-detail-private-browsing-disallow = keelatud
 
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended2 =
     .title = { -brand-product-name } soovitab ainult meie turvalisuse ja jõudluse standarditele vastavaid laiendusi
     .aria-label = { addon-badge-recommended2.title }
+
+##
 
 available-updates-heading = Saadaolevad uuendused
 recent-updates-heading = Hiljutised uuendused

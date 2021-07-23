@@ -213,6 +213,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Kas oled kindel, et soovid kustutada need serveri erandid?
 delete-ssl-cert-impact = Serveri erandi kustutamisega taastad selle serveri jaoks tavalised turvakontrollid ning serverilt nõutakse taas valideeruvat sertifikaati.
 
+
 delete-ca-cert-title =
     .title = SK sertifikaadi kustutamine või usaldusväärsuse eemaldamine
 delete-ca-cert-confirm = Oled avaldanud soovi kustutada need SK sertifikaadid. Sisseehitatud sertifikaatidelt eemaldatakse kogu nende usaldusväärsus, mis annab sama efekti. Kas oled kindel, et soovid kustutamise või usaldusväärsuse eemaldamisega jätkata?
@@ -271,6 +272,8 @@ cert-not-verified-issuer-unknown = Sertifikaati pole võimalik verifitseerida, k
 cert-not-verified-ca-invalid = Sertifikaati pole võimalik verifitseerida, kuna SK sertifikaat on vigane.
 cert-not-verified_algorithm-disabled = Sertifikaati pole võimalik verifitseerida, kuna see signeeriti sellise signeerimisalgoritmi abil, mis on algoritmi ebaturvalisuse tõttu keelatud.
 cert-not-verified-unknown = Sertifikaati pole teadmata põhjusel võimalik verifitseerida.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

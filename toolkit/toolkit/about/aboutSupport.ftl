@@ -336,3 +336,8 @@ touch-warning = asünkroonne puutetundlik sisend on toetamata sätte tõttu keel
 policies-inactive = mitteaktiivne
 policies-active = aktiivne
 policies-error = viga
+
+## Printing section
+
+## Normandy sections
+

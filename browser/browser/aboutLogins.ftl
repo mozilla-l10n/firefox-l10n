@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Hangi see Google Play poest
 login-app-promo-apple =
     .alt = Laadi alla App Store'ist
+
 login-filter =
     .placeholder = Otsi kasutajakontosid
+
 create-login-button = Loo uus kasutajakonto
+
 fxaccounts-sign-in-text = Tee paroolid kättesaadavaks ka oma teistes seadmetes
 fxaccounts-sign-in-button = Logi { -sync-brand-short-name }i sisse
 fxaccounts-avatar-button =
@@ -69,13 +72,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Otsid oma salvestatud kasutajakontosid? Seadista { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = Otsid oma salvestatud kasutajakontosid? Seadista { -sync-brand-short-name } või impordi need.
+
 about-logins-login-intro-heading-logged-in = Sünkrooniseeritud kasutajakontosid ei leitud.
 login-intro-description = Kui salvestasid oma kasutajakontod teises seadmes olevasse { -brand-product-name }i, siis nii saad need ka siia:
 login-intro-instruction-fxa = Loo { -fxaccount-brand-name } või logi sisse seadmes, kus salvestatud kasutajakontod on
 login-intro-instruction-fxa-settings = Veendu, et { -sync-brand-short-name }i sätetes oleks Kasutajakontod ees linnuke
 about-logins-intro-instruction-help = Rohkema teabe saamiseks külasta <a data-l10n-name="help-link">{ -lockwise-brand-short-name }'i tugikeskkonda</a>
 about-logins-intro-import = Kui sinu kasutajakontod on salvestatud teise brauserisse, siis saad need <a data-l10n-name="import-link">importida { -lockwise-brand-short-name }'i</a>
+
 about-logins-intro-import2 = Kui sinu kasutajakontod on salvestatud mujale kui { -brand-product-name }i, siis saad need <a data-l10n-name="import-browser-link">importida teisest brauserist</a> või <a data-l10n-name="import-file-link">failist</a>
 
 ## Login
@@ -117,11 +121,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Kasutajakonto muutmiseks si
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = edit the saved login
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Parooli vaatamiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = kuva salvestatud parooli
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Parooli kopeerimiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
 # This message can be seen when attempting to copy a password in about:logins
@@ -131,6 +137,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copy the saved passwo
 ## Master Password notification
 
 master-password-notification-message = Salvestatud kasutajatunnuste ja paroolide nägemiseks sisesta ülemparool
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Kasutajakontode eksportimiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
 # This message can be seen when attempting to export a password in about:logins
@@ -167,21 +174,25 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Loobu
 confirmation-dialog-dismiss-button =
     .title = Loobu
+
 about-logins-confirm-remove-dialog-title = Kas eemaldada see kasutajakonto?
 confirm-delete-dialog-message = Seda tegevust pole võimalik tagasi võtta.
 about-logins-confirm-remove-dialog-confirm-button = Eemalda
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Eemalda
         [one] Eemalda
        *[other] Eemalda kõik
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Jah, eemalda see konto
         [one] Jah, eemalda see konto
        *[other] Jah, eemalda need kontod
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Kas eemaldada see konto?
@@ -193,6 +204,7 @@ about-logins-confirm-remove-all-dialog-message =
         [one] See tegevus eemaldab selle kasutajakonto { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingut pole võimalik tagasi võtta.
        *[other] See tegevus eemaldab kasutajakontod { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingut pole võimalik tagasi võtta.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Kas soovid eemaldada selle kasutajakonto kõigist seadmetest?
@@ -204,11 +216,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] See tegevus eemaldab selle { -brand-short-name }i salvestadud kasutajakonto kõigist seadmetest, mis on ühendatud sinu { -fxaccount-brand-name }ga. Seda toimingut pole võimalik tagasi võtta.
        *[other] See tegevus eemaldab kõik { -brand-short-name }i salvestadud kasutajakontod kõigist seadmetest, mis on ühendatud sinu { -fxaccount-brand-name }ga. Seda toimingut pole võimalik tagasi võtta.
     }
+
 about-logins-confirm-export-dialog-title = Kasutajanimede ja paroolide eksportimine
 about-logins-confirm-export-dialog-message = Sinu paroolid salvestatakse loetava tekstina (nt HalbP@r00l), nii et kõik, kes saavad eksporditud faili avada, saavad neid vaadata.
 about-logins-confirm-export-dialog-confirm-button = Ekspordi...
+
 about-logins-alert-import-title = Importimine valmis
 about-logins-alert-import-message = Vaata impordiaruande üksikasju
+
 confirm-discard-changes-dialog-title = Kas soovid loobuda salvestamata muudatustest?
 confirm-discard-changes-dialog-message = Kõik salvestamata muudatused lähevad kaduma.
 confirm-discard-changes-dialog-confirm-button = Unusta
@@ -239,8 +254,10 @@ about-logins-vulnerable-alert-learn-more-link = Rohkem teavet
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Selle kasutajanimega kanne { $loginTitle } on juba olemas. <a data-l10n-name="duplicate-link">Kas soovid minna olemasoleva kande juurde?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Parooli salvestamisel esines viga.
+
 
 ## Login Export Dialog
 
@@ -288,11 +305,13 @@ about-logins-import-dialog-items-added =
         [one] <span>Uus kasutajatunnus lisatud.</span>
        *[other] <span>Uusi kasutajatunnuseid lisatud:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Värskendati üht kasutajatunnust.</span>
        *[other] <span>Olemasolevaid kasutajatunnuseid värskendatud:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Leiti üks korduv kasutajatunnus<span data-l10n-name="meta">(ei imporditud)</span>
@@ -304,6 +323,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Vigu:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei imporditud)</span>
     }
 about-logins-import-dialog-done = Valmis
+
 about-logins-import-dialog-error-title = Viga importimisel
 about-logins-import-dialog-error-conflicting-values-title = Kasutajatunnusel leiti mitu vastuolus väärtust
 about-logins-import-dialog-error-conflicting-values-description = Näiteks: mitu kasutajanime, parooli, aadressi jne. ühe kasutajatunnuse kohta
@@ -315,7 +335,6 @@ about-logins-import-dialog-error-unable-to-read-title = Faili töötlemine ebaõ
 about-logins-import-dialog-error-unable-to-read-description = Veendu, et valisid CSV- või TSV-faili.
 about-logins-import-dialog-error-no-logins-imported = Ühtegi kasutajatunnust ei imporditud
 about-logins-import-dialog-error-learn-more = Rohkem teavet
-about-logins-import-dialog-error-try-again = Proovi uuesti…
 about-logins-import-dialog-error-cancel = Tühista
 
 ##

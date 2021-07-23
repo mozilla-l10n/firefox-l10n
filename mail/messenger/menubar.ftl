@@ -8,3 +8,14 @@
 menu-view-charset =
     .label = Teksti kodeering
     .accesskey = k
+
+## Tools Menu
+
+## Help Menu
+
+## Mail Toolbar
+
+## View
+
+## View / Layout
+

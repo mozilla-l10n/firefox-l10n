@@ -93,5 +93,7 @@ certificate-viewer-download-pem = PEM (sert)
 certificate-viewer-download-pem-chain = PEM (ahel)
     .download = { $fileName }-ahel.pem
 
+##
+
 ## Labels for tabs displayed in stand-alone about:certificate page
 

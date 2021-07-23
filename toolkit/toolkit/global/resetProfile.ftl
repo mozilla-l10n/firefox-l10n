@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name }i värskendamine
+
 refresh-profile-dialog-button =
     .label = Värskenda { -brand-short-name }
 refresh-profile-description = Probleemide lahendamiseks ja kiiruse taastamiseks alusta värskelt lehelt.

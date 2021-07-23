@@ -11,8 +11,10 @@ about-private-browsing =
     .title = Otsi veebist
 about-private-browsing-not-private = Sa pole praegu privaatses aknas.
 about-private-browsing-info-description = { -brand-short-name } kustutab otsimise ja lehitsemise ajaloo, kui väljud rakendusest või sulged privaatsed kaardid ja aknad. Kuigi see ei muuda sind külastatavate veebilehtede või internetiteenuse pakkuja ees anonüümseks, siis kaitseb see siiski sinu privaatsust teiste selle arvuti kasutajate eest.
+
 about-private-browsing-need-more-privacy = Vajad rohkem privaatsust?
 about-private-browsing-turn-on-vpn = Proovi { -mozilla-vpn-brand-name }i
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
