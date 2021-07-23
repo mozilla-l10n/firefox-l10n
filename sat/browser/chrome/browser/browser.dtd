@@ -8,6 +8,7 @@
 
 
 <!ENTITY appmenu.tooltip                     "मिनू झिज मे">
+
 <!ENTITY navbarOverflow.label                "बड़ती  टुल…">
 
 <!-- Tab context menu -->
@@ -152,6 +153,7 @@ can reach it easily. -->
 
 
 <!ENTITY historyMenu.label "हिता़ल">
+
 <!ENTITY historyUndoMenu.label "नितोक् बोनदोवाक् टैब को.">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "नितोक् बोनदोवाक् विंडोग.">

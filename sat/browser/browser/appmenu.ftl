@@ -22,6 +22,7 @@ appmenuitem-new-private-window =
 
 fxa-toolbar-sync-now =
     .label = नित् मित् ओकतो
+
 appmenuitem-save-page =
     .label = लेका साहटा सांचाव...
 
@@ -38,19 +39,12 @@ appmenuitem-save-page =
 
 ## Help panel
 
-appmenu-help-troubleshooting-info =
-    .label = दिगधा़ हुयुगाक् ला़य सोदोर
-    .accesskey = T
 appmenu-help-feedback-page =
     .label = फिडबैक जोमा एम …
     .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = एड-ऑन बाङ हुय होचो तेयार सांव दोहड़ा एहोब …
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

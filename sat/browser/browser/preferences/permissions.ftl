@@ -47,6 +47,8 @@ permissions-invalid-uri-label = मित् बातावाक् हुय 
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = आम गोटा दाड़ेयाक् आम ओका वेब साइट को पॉप-ऑप विंडो झिज ला़गित् बाताव एमा.  आम बाताव एम सानाम कान साइट रेयाक् ओना उता़र टिका़ना आर इना़ तायोम बाताव एम ओताय मे.

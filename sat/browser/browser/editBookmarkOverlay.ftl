@@ -40,3 +40,4 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword =
     .value = का़ठी साबाद:
     .accesskey = K
+
