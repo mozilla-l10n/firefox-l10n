@@ -227,3 +227,7 @@ touch-warning = ufakelo lwe-touch lwe-async lwenziwe alwasebenza ngenxa yento ek
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

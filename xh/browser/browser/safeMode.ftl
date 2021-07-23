@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Qalisa kwimo ekhuselekileyo
+
 refresh-profile =
     .label = Seta kwakhona i-{ -brand-short-name }
 safe-mode-description = Imo ekhuselekileyo yimo ekhethekileyo i-{ -brand-short-name } enokusetyenziswa kusombululo-ngxaki.

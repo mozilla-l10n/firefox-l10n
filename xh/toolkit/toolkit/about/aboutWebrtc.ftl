@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Ezingaphakathi zeWebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = gcina malunga:webrtc njenge
@@ -47,13 +48,7 @@ about-webrtc-ice-state = IStati se-ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Iztati Ze-ICE
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -65,13 +60,16 @@ about-webrtc-type-remote = Kude
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Etyunjiweyo
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Ekhethiweyo
+
 about-webrtc-save-page-label = Gcina iphepha
 about-webrtc-debug-mode-msg-label = Imowudi Yokukhupha Ibhagi
 about-webrtc-debug-mode-off-state-label = Qalisa Imowudi Yokukhupha Ibhagi
@@ -95,6 +93,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (valiwey
 
 ##
 
+
 about-webrtc-local-candidate = Umgqatswa Wasekuhlaleni
 about-webrtc-remote-candidate = Umgqatswa Osecaleni
 about-webrtc-priority = Ebalulekileyo
@@ -110,7 +109,6 @@ about-webrtc-encoder-label = Enkhoda
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -120,6 +118,8 @@ about-webrtc-save-page-msg = Iphepha ligcinwe kwi-{ $path }
 about-webrtc-debug-mode-off-state-msg = ilogi yokukhangela inokufunyanwa kwi: { $path }
 about-webrtc-debug-mode-on-state-msg = imowudi yokukhupha ibhagi iyasebenza, ilogi yokukhangela kwi: { $path }
 about-webrtc-aec-logging-off-state-msg = ifayile zokuloga ezibhaliweyo zinokufunyanwa kwi: { $path }
+
+##
 
 ##
 
@@ -134,4 +134,7 @@ about-webrtc-jitter-label = Jita { $jitter }
 
 
 ##
+
+##
+
 

@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Seta kwakhona i-{ -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Seta kwakhona i-{ -brand-short-name }
 refresh-profile-description = Qalisa ukuseta kwakhona ukulungisa iingxaki ze ubuyisele isenzo.
