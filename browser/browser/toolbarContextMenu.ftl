@@ -27,6 +27,7 @@ toolbar-context-menu-undo-close-tabs =
            *[other] বন্ধ কৰা টেববোৰ আকৌ খোলক
         }
     .accesskey = U
+
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -34,18 +35,21 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] বন্ধ কৰা টেববোৰ আকৌ খোলক
         }
     .accesskey = o
+
 toolbar-context-menu-manage-extension =
     .label = এক্সটেনশ্যন পৰিচালনা কৰক
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = এক্সটেনশ্যন আঁতৰাওক
     .accesskey = v
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = এক্সটেনশ্যনৰ কথা সদৰি কৰক
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -67,6 +71,7 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = টুলবাৰ কাষ্টমাইজ কৰক...
     .accesskey = C
+
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = সদায় দেখুৱাওক
     .accesskey = A
@@ -76,6 +81,7 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = কেৱল নতুন টেবত দেখুৱাওক
     .accesskey = O
+
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = অন্যান্য বুকমাৰ্ক দেখুৱাওক
     .accesskey = h

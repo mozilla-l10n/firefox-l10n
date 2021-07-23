@@ -4,21 +4,27 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = ৰোধ কৰক
     .accesskey = B
+
 permissions-session =
     .label = অধিবেশনৰ বাবে অনুমতি দিয়ক
     .accesskey = S
+
 permissions-allow =
     .label = অনুমতি দিয়ক
     .accesskey = A
+
 permissions-status =
     .label = অৱস্থা
+
 permissions-capabilities-allow =
     .label = আজ্ঞা দিয়ক
 permissions-capabilities-block =
     .label = ৰোধ কৰক
+
 permissions-capabilities-listitem-allow =
     .value = আজ্ঞা দিয়ক
 permissions-capabilities-listitem-block =
@@ -36,6 +42,8 @@ permissions-invalid-uri-label = এটা বৈধ হস্টনাম দি
 
 ## Exceptions - Cookies
 
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

@@ -7,4 +7,5 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = সুৰক্ষিত অৱস্থাত আৰম্ভ কৰক
+
 safe-mode-description = সুৰক্ষিত অৱস্থা { -brand-short-name } ৰ এটা বিশেষ অৱস্থা যাক সমস্যাসমূহ সমস্যামুক্তি কৰিবলে ব্যৱহাৰ কৰিব পাৰি।

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = ফণ্ট
+
 fonts-window-close =
     .key = w
 
@@ -71,6 +72,7 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-minsize-none =
     .label = একো নাই
 
@@ -111,6 +113,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = ভিয়েতনামি
 fonts-languages-fallback-name-other =
     .label = অন্য (পশ্চিম ইউৰোপীয় অন্তৰ্ভুক্ত)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

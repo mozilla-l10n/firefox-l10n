@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = টেগ যোগ কৰক
+
 pocket-panel-saved-error-generic = { -pocket-brand-name }-ত সাঁচি থ'বলৈ চেষ্টা কৰোঁতে কিবা ত্ৰুটি ঘটিছে।
 pocket-panel-saved-error-only-links = কেৱল লিংক সাঁচি থ'ব পাৰি
 pocket-panel-saved-error-not-saved = পৃষ্ঠা সাঁচি থোৱা হোৱা নাই
