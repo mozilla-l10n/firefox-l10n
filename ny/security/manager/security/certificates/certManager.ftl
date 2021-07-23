@@ -21,6 +21,9 @@ certmgr-add-exception =
 ## Cert Viewer
 
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 ## Certificate export "Save as" and error dialogs
+
