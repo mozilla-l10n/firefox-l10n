@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Jangan Sekarang
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Setelah mulai ulang cepat, { -brand-shorter-name } akan mengembalikan semua tab dan jendela terbuka Anda yang tidak berada di mode Penjelajahan Pribadi.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Oke, paham
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Kelola pengaya Anda dengan mengeklik <image data-l10n-name='addon-install-icon'></image>di<image data-l10n-name='addon-menu-icon'></image> menu.
+
 appmenu-update-available2 =
     .label = Versi baru tersedia
     .buttonlabel = Unduh
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Jangan Sekarang
     .secondarybuttonaccesskey = J
 appmenu-update-other-instance-message = Versi baru { -brand-shorter-name } tersedia, namun tidak dapat dipasang karena salinan { -brand-shorter-name } yang lain sedang berjalan. Tutup untuk melanjutkan pembaruan, atau pilih untuk tetap memperbarui (salinan lainnya mungkin tidak bekerja dengan benar hingga Anda memulai ulang).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Oke, paham
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Kelola pengaya Anda dengan mengeklik <image data-l10n-name='addon-install-icon'></image>di<image data-l10n-name='addon-menu-icon'></image> menu.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Oke
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Kelola ekstensi dan tema Anda melalui menu aplikasi.
 appmenu-addon-post-install-message3 = Kelola pengaya dan tema Anda melalui menu aplikasi.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Izinkan ekstensi ini untuk berjalan di Jendela Pribadi
     .accesskey = I
+    
 appmenu-new-tab-controlled =
     .label = Tab Baru Anda telah diubah.
     .buttonlabel = Simpan Perubahan
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = S
     .secondarybuttonlabel = Nonaktifkan Ekstensi
     .secondarybuttonaccesskey = N
+
 appmenu-new-tab-controlled-changes =
     .label = Tab baru Anda telah berubah.
     .buttonlabel = Pertahankan Perubahan

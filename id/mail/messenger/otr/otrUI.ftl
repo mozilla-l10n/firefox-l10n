@@ -57,6 +57,7 @@ state-private = Identitas { $name } telah diverifikasi. Percakapan saat ini dien
 state-finished = { $name } telah mengakhiri percakapan terenkripsi mereka dengan Anda; Anda harus melakukan hal yang sama.
 
 state-not_private-label = Tidak Aman
+
 state-unverified-label = Belum Diverifikasi
 state-private-label = Pribadi
 state-finished-label = Selesai

@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Buka dengan { -brand-short-name }
     .accesskey = B
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

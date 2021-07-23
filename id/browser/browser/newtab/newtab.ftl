@@ -8,6 +8,7 @@
 newtab-page-title = Tab Baru
 newtab-settings-button =
     .title = Ubahsuai laman Tab Baru Anda
+
 newtab-personalize-button-label = Personalisasikan
     .title = Personalisasikan tab baru
     .aria-label = Personalisasikan tab baru
@@ -23,7 +24,9 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Cari
     .aria-label = Cari
+
 newtab-search-box-search-the-web-text = Cari di Web
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Cari lewat { $engine } atau masukkan alamat
@@ -38,10 +41,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Cari atau masukkan alamat
     .title = Cari atau masukkan alamat
     .aria-label = Cari atau masukkan alamat
+
 newtab-search-box-search-the-web-input =
     .placeholder = Cari di Web
     .title = Cari di Web
     .aria-label = Cari di Web
+
 newtab-search-box-input =
     .placeholder = Cari di web
     .aria-label = Cari di web
@@ -56,10 +61,12 @@ newtab-topsites-edit-shortcut-header = Edit Pintasan
 newtab-topsites-title-label = Judul
 newtab-topsites-title-input =
     .placeholder = Masukkan judul
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Ketik atau tempel URL
 newtab-topsites-url-validation = URL valid diperlukan
+
 newtab-topsites-image-url-label = URL Gambar Khusus
 newtab-topsites-use-image-link = Gunakan gambar khusus…
 newtab-topsites-image-validation = Gambar gagal dimuat. Coba URL lain.
@@ -88,10 +95,12 @@ newtab-topsite-sponsored = Bersponsor
 newtab-menu-section-tooltip =
     .title = Buka menu
     .aria-label = Buka menu
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Hapus
     .aria-label = Hapus
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -160,10 +169,12 @@ newtab-label-removed-bookmark = Markah dihapus
 newtab-label-recommended = Trending
 newtab-label-saved = Disimpan di { -pocket-brand-name }
 newtab-label-download = Terunduh
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Pesan Sponsor
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -202,10 +213,12 @@ newtab-section-header-pocket = Disarankan oleh { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Mulai menjelajah, dan kami akan menampilkan beberapa artikel bagus, video, dan halaman lain yang baru saja Anda kunjungi atau termarkah di sini.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Maaf Anda tercegat. Periksa lagi nanti untuk lebih banyak cerita terbaik dari { $provider }. Tidak mau menunggu? Pilih topik populer untuk menemukan lebih banyak cerita hebat dari seluruh web.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -246,6 +259,7 @@ newtab-custom-pocket-sponsored = Konten bersponsor
 newtab-custom-recent-title = Aktivitas terbaru
 newtab-custom-recent-subtitle = Pilihan situs dan konten terbaru
 newtab-custom-close-button = Tutup
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

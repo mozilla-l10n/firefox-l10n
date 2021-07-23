@@ -10,6 +10,7 @@ finger-intro = Sidik jari kunci OTR dari percakapan terenkripsi ujung-ke-ujung s
 
 finger-screenName =
     .label = Kontak
+
 finger-verified =
     .label = Status Verifikasi
 finger-fingerprint =

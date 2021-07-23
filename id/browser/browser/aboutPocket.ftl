@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Tambahkan Tag
+
 pocket-panel-saved-error-generic = Terjadi kesalahan saat mencoba menyimpan ke { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Panjang karakter maksimum tag adalah 25 karakter
 pocket-panel-saved-error-only-links = Hanya tautan yang dapat disimpan

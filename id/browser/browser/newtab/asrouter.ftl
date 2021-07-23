@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Coba Yang Ini: Sematkan Tab
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Mengapa saya melihat ini?
+
 cfr-doorhanger-extension-cancel-button = Jangan Sekarang
     .accesskey = J
+
 cfr-doorhanger-extension-ok-button = Tambahkan Sekarang
     .accesskey = T
 cfr-doorhanger-pintab-ok-button = Sematkan Tab Ini
     .accesskey = S
+
 cfr-doorhanger-extension-manage-settings-button = Kelola Pengaturan Rekomendasi
     .accesskey = K
+
 cfr-doorhanger-extension-never-show-recommendation = Jangan Tampilkan Rekomendasi Ini
     .accesskey = T
+
 cfr-doorhanger-extension-learn-more-link = Pelajari lebih lanjut
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = oleh { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendasi
 cfr-doorhanger-extension-notification2 = Rekomendasi
     .tooltiptext = Rekomendasi ekstensi
     .a11y-announcement = Rekomendasi ekstensi tersedia
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendasi
@@ -57,6 +65,7 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } pengguna
     }
+
 cfr-doorhanger-pintab-description = Dapatkan akses mudah ke situs yang paling sering Anda gunakan. Jaga agar situs tetap terbuka di tab (bahkan saat Anda memuat ulang).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -64,8 +73,10 @@ cfr-doorhanger-pintab-description = Dapatkan akses mudah ke situs yang paling se
 cfr-doorhanger-pintab-step1 = <b>Klik kanan</b> pada tab yang ingin Anda sematkan.
 cfr-doorhanger-pintab-step2 = Pilih <b>Sematkan Tab</b> dari menu.
 cfr-doorhanger-pintab-step3 = Jika situs  diperbarui, akan ada titik biru pada tab yang Anda sematkan.
+
 cfr-doorhanger-pintab-animation-pause = Jeda
 cfr-doorhanger-pintab-animation-resume = Lanjutkan
+
 
 ## Firefox Accounts Message
 
@@ -87,20 +98,26 @@ cfr-protections-panel-link-text = Pelajari lebih lanjut
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Fitur baru:
+
 cfr-whatsnew-button =
     .label = Yang Baru
     .tooltiptext = Yang Baru
+
 cfr-whatsnew-panel-header = Yang Baru
+
 cfr-whatsnew-release-notes-link-text = Baca catatan rilis
+
 cfr-whatsnew-fx70-title = { -brand-short-name } kini berjuang lebih keras untuk privasi Anda
 cfr-whatsnew-fx70-body =
     Pembaruan terbaru meningkatkan fitur Perlindungan Pelacakan dan membuatnya
     lebih mudah dari sebelumnya untuk membuat kata sandi aman untuk setiap situs.
+
 cfr-whatsnew-tracking-protect-title = Lindungi diri Anda dari para pelacak
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } memblokir banyak pelacak sosial dan lintas situs umum yang
     mengikuti kegiatan daring Anda.
 cfr-whatsnew-tracking-protect-link-text = Lihat Laporan Anda
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -110,9 +127,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Sejak { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Lihat Laporan
+
 cfr-whatsnew-lockwise-backup-title = Cadangkan kata sandi Anda
 cfr-whatsnew-lockwise-backup-body = Kini buat kata sandi aman yang dapat diakses di mana saja Anda masuk.
 cfr-whatsnew-lockwise-backup-link-text = Aktifkan pencadangan
+
 cfr-whatsnew-lockwise-take-title = Bawa sandi ke mana Anda pergi
 cfr-whatsnew-lockwise-take-body = Aplikasi seluler { -lockwise-brand-short-name } memungkinkan Anda mengakses cadangan kata sandi Anda dari mana saja.
 cfr-whatsnew-lockwise-take-link-text = Dapatkan aplikasinya
@@ -148,6 +167,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Pelacak Sidik diblokir
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } memblokir banyak pelacak sidik yang diam-diam mengumpulkan informasi tentang perangkat dan tindakan Anda untuk membuat profil iklan tentang Anda.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Pelacak Sidik
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } bisa memblokir pelacak sidik yang diam-diam mengumpulkan informasi tentang perangkat dan tindakan Anda untuk membuat profil iklan tentang Anda.
@@ -205,6 +225,7 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } telah memblokir lebih dari <b>{ $blockedCount }</b> pelacak sejak { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -238,12 +259,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikon gambar-dalam-gambar
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Tutup
-    .accesskey = T
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Sekilas tentang perlindungan
 cfr-whatsnew-protections-body = Dasbor Perlindungan mencakup ringkasan laporan tentang pelanggaran data dan manajemen kata sandi. Anda sekarang dapat melacak berapa banyak pelanggaran yang Anda selesaikan, dan melihat apakah ada kata sandi Anda yang tersimpan mungkin terekspos dalam pelanggaran data.
 cfr-whatsnew-protections-cta-link = Tampilkan Dasbor Perlindungan
@@ -253,6 +268,12 @@ cfr-whatsnew-protections-icon-alt = Ikon perisai
 
 cfr-whatsnew-better-pdf-header = Pengalaman PDF yang lebih baik
 cfr-whatsnew-better-pdf-body = Dokumen PDF kini dapat dibuka langsung di { -brand-short-name }, membuat alur kerja Anda menjadi mudah.
+
+cfr-doorhanger-milestone-close-button = Tutup
+    .accesskey = T
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -274,35 +295,15 @@ cfr-doorhanger-fission-secondary-button = Pelajari lebih lanjut
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Perlindungan otomatis dari taktik pelacakan licik
-cfr-whatsnew-clear-cookies-body = Beberapa pelacak mengarahkan Anda ke situs web lain yang secara diam-diam mengatur kuki. Kini { -brand-short-name } menghapus kuki tersebut secara otomatis sehingga Anda tidak dapat diikuti.
-cfr-whatsnew-clear-cookies-image-alt = Ilustrasi kuki yang diblokir
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Kontrol media lainnya
-cfr-whatsnew-media-keys-body = Putar dan jeda audio atau video langsung dari papan ketik atau headset Anda, sehingga mudah untuk mengontrol media dari tab atau program lain, atau bahkan ketika komputer Anda terkunci. Anda juga dapat berpindah antara trek dengan menggunakan tombol maju dan mundur.
-cfr-whatsnew-media-keys-button = Pelajari caranya
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Pintasan pencarian di bilah alamat
-cfr-whatsnew-search-shortcuts-body = Sekarang, ketika Anda mengetikkan mesin pencari atau situs tertentu ke dalam bilah alamat, pintasan biru akan muncul dalam saran pencarian di bawah. Pilih pintasan untuk menyelesaikan pencarian Anda langsung dari bilah alamat.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Perlindungan dari superkuki yang berbahaya
-cfr-whatsnew-supercookies-body = Situs web dapat menyimpan "superkuki" secara rahasia ke peramban Anda yang dapat mengikuti Anda di Web, bahkan setelah Anda membersihkan kuki. { -brand-short-name } sekarang menyediakan perlindungan yang kuat atas superkuki sehingga mereka tidak dapat digunakan untuk melacak aktivitas daring Anda dari satu situs ke situs lainnya.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Markah yang lebih baik
-cfr-whatsnew-bookmarking-body = Lebih mudah melacak situs favorit Anda. { -brand-short-name } kini mengingat lokasi yang diinginkan untuk markah tersimpan, menampilkan bilah markah secara baku di tab baru, dan memudahkan akses ke seluruh markah melalui folder bilah alat.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Perlindungan menyeluruh dari pelacakan kuki lintas situs
-cfr-whatsnew-cross-site-tracking-body = Kini Anda dapat memilih perlindungan yang lebih baik dari pelacakan kuki. { -brand-short-name } dapat mengisolasi aktivitas dan data situs tempat Anda berada sekarang sehingga informasi yang tersimpan di peramban tidak dibagikan di antara situs web.
 
 ## Full Video Support CFR message
 
