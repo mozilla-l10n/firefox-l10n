@@ -18,8 +18,10 @@ move-to-new-window =
     .label = Саҥа түннүккэ көһөр
     .accesskey = т
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Кыбытыгы сап
     .accesskey = К
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

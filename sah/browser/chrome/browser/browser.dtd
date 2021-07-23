@@ -8,6 +8,7 @@
 
 
 <!ENTITY appmenu.tooltip                     "Менюну арый">
+
 <!ENTITY navbarOverflow.label                "Атын тэриллэр...">
 
 <!-- Tab context menu -->
@@ -156,6 +157,7 @@ when there are no windows but Firefox is still running. -->
 
 
 <!ENTITY historyMenu.label "Сурунаал">
+
 <!ENTITY historyUndoMenu.label "Соторутааҕыта сабыллыбыт кыбытыктар">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Соторутааҕыта сабыллыбыт түннүктэр">

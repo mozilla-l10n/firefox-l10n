@@ -43,6 +43,8 @@ permissions-invalid-uri-label = Бука диэн сөптөөх ааты кил
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Ойон тахсар түннүктэри арыйар ситим-сирдэри ыйыаххын сөп. Аадырыһын киллэр уонна "Көҥүллүүргэ" тимэҕи баттаа.

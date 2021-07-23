@@ -7,4 +7,5 @@ safe-mode-window =
     .style = max-width: 500px
 start-safe-mode =
     .label = Бигэ эрэсиимҥэ ыыт
+
 safe-mode-description = Бигэ эрэсиимҥэ киирэн { -brand-short-name } сорох кыһалҕаларын быһаарыахха сөп.

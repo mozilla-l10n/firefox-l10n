@@ -205,6 +205,11 @@ addon-install-from-file-filter-name = Эбиискэлэр
 ## Pending uninstall message bar
 
 
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+##
+
 ## Page headings
 
 addon-page-options-button =

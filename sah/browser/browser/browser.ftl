@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Саһан көрөөһүн)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Саһан көрөөһүн)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Саһан көрөөһүн)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Саһан көрөөһүн)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -65,6 +67,7 @@ browser-main-window-title = { -brand-full-name }
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Бу бэлиэни уларытыы ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -74,23 +77,6 @@ urlbar-star-add-bookmark =
 
 
 ## Page Action menu
-
-page-action-email-link-panel =
-    .label = Email сигэ…
-page-action-email-link-urlbar =
-    .tooltiptext = Email сигэ…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Кыбытыгы туттар
-page-action-pin-tab-urlbar =
-    .tooltiptext = Кыбытыгы туттар
-page-action-unpin-tab-panel =
-    .label = Кыбытыгы өһүл
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Кыбытыгы өһүл
 
 ## Auto-hide Context Menu
 
@@ -153,10 +139,13 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Көрдөт эбэтэр аадырыһы ук
+
 urlbar-placeholder =
     .placeholder = Көрдөт эбэтэр аадырыһы ук
+
 urlbar-switch-to-tab =
     .value = Кыбытыгы арый:
+
 urlbar-go-button =
     .tooltiptext = Аадырыс устуруокатын аадырыһыгар киир
 
@@ -177,14 +166,13 @@ urlbar-go-button =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Бэлиэтэммити барытын көрдөр
 bookmarks-toolbar-chevron =
     .tooltiptext = Өссө бэлиэлэр
 bookmarks-sidebar-content =
     .aria-label = Бэлиэлэр
 bookmarks-bookmark-edit-panel =
     .label = Бэлиэни уларытыы
+
 bookmarks-toolbar-menu =
     .label = Бэлиэтиир үстүрүмүөн
 bookmarks-toolbar-placeholder =
@@ -197,6 +185,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
+
+## Customize Toolbar Buttons
 
 ## More items
 
