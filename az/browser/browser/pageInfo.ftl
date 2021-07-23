@@ -129,6 +129,8 @@ security-site-data-only = Bəli, { $value } { $unit } sayt məlumatı
 security-site-data-cookies-only = Bəli, çərəzlər
 security-site-data-no = Xeyr
 
+##
+
 image-size-unknown = Bilinmir
 page-info-not-specified =
     .value = Dəqiqləşdirilməyib

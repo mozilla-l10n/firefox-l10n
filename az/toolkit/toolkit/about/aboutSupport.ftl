@@ -312,3 +312,8 @@ touch-warning = dəstəklənməyən seçimdən dolayı asinxron toxunma girişi 
 policies-inactive = Passiv
 policies-active = Aktiv
 policies-error = Xəta
+
+## Printing section
+
+## Normandy sections
+

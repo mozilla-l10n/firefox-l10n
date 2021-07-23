@@ -213,6 +213,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Bu web səhifəsinin təsdiq sənədini silmək itədiyinizə əminsiniz?
 delete-ssl-cert-impact = Əgər bir web səhifəsinin təsdiq sənədini silsəniz, o səhifəni təkrar açanda sizdən bu təsdiq sənədinin qəbul edib etmədiyinizi soruşacaq.
 
+
 delete-ca-cert-title =
     .title = CA təsdiq sənədini sil və ya etibar etmə
 delete-ca-cert-confirm = Bu CA təsdiq sənədi rəsmisinin təsdiq sənədlərini silmək istəyirsiniz. Quraşdırılmış olaraq gələn təsdiq sənlərinin etibarlılığı silinəcək ki, bu da eyni təsirə malikdir. Silmək və ya etibar etməmək istədiyinizə əminsiniz?
@@ -271,6 +272,8 @@ cert-not-verified-issuer-unknown = Yayımlayan naməlum olmadığı üçün təs
 cert-not-verified-ca-invalid = CA təsdiq sənədi etibarsız olduğu üçün bu təsdiq sənədi yoxlana bilmədi.
 cert-not-verified_algorithm-disabled = Təhlükəsiz olmadığı üçün söndürülmüş bir imza alqoritmi ilə imzalandığı üçün, bu sertifikat təsdiqlənmədi.
 cert-not-verified-unknown = Bu təsdiq sənədi naməlum səbəblərə görə yoxlana bilmədi.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

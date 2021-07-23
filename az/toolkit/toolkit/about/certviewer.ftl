@@ -18,5 +18,7 @@ certificate-viewer-download = Endir
 certificate-viewer-export = İxrac et
     .download = { $fileName }.pem
 
+##
+
 ## Labels for tabs displayed in stand-alone about:certificate page
 

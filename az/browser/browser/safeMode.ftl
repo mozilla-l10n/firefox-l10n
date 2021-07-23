@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Təhlükəsiz rejimdə başlat
+
 refresh-profile =
     .label = { -brand-short-name } Səyyahını Yenilə
 safe-mode-description = Təhlükəsiz rejim, problem həll etmək üçün istifadə edilə biləcək xüsusi bir { -brand-short-name } rejimidir.

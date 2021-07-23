@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Axtar
 
 newtab-search-box-search-the-web-text = İnternetdə Axtar
+
 newtab-search-box-search-the-web-input =
     .placeholder = İnternetdə Axtar
     .title = İnternetdə Axtar
@@ -55,6 +56,8 @@ newtab-topsites-add-button = Əlavə et
 newtab-confirm-delete-history-p1 = Bu səhifənin bütün parçalarını tarixçənizdən silmək istədiyinizə əminsiniz?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Bu əməliyyat geri alına bilməz.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -179,3 +182,6 @@ newtab-pocket-cta-text = Sevdiyiniz məqalələri { -pocket-brand-name }-də sax
 
 newtab-error-fallback-info = Uups, bu məzmunu yüklərkən nəsə səhv getdi.
 newtab-error-fallback-refresh-link = Təkrar yoxlamaq üçün səhifəni yeniləyin.
+
+## Customization Menu
+
