@@ -10,8 +10,10 @@ containers-window-new =
 containers-window-update =
     .title = { $name } skreines īstatiejumi
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -22,23 +24,30 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Nūsaukums
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Pīvīnōt skreines nūsaukumu
+
 containers-icon-label = Ikona
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Kruosa
     .accesskey = r
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = Gotovs
     .accesskey = G
+
 containers-dialog =
     .buttonlabelaccept = Gotovs
     .buttonaccesskeyaccept = G
+
 containers-color-blue =
     .label = Zyls
 containers-color-turquoise =
@@ -55,6 +64,7 @@ containers-color-pink =
     .label = Ružovs
 containers-color-purple =
     .label = Ļiļovs
+
 containers-icon-fingerprint =
     .label = Pierstu nūspīdums
 containers-icon-briefcase =

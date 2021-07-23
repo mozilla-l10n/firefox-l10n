@@ -213,6 +213,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Voi asot puorlīcynuots, ka vālotīs dzēst itūs serveru izjiemumus?
 delete-ssl-cert-impact = Nui izdziessit servera izjiemumu, itam serverim tiks atjaunuotys parostuos drūseibys puorbaudes i tam byus napīcīšams dereigs sertifikats.
 
+
 delete-ca-cert-title =
     .title = Dzēst CA sertifikatus
 delete-ca-cert-confirm = Jius asot izavielieji dzēst CA sertifikatus. Ībyuveitajim sertifikatym vysa uztycameiba tiks nūjimta. Voi asot puorlīcynuots, ka vālotīs dzēst itūs CA sertifikatus?
@@ -271,6 +272,8 @@ cert-not-verified-issuer-unknown = Navar apstyprynuot itū sertifikatu, kam tei 
 cert-not-verified-ca-invalid = Navar apstyprynuot itū sertifikatu, kam tei CA sertifikats ir nadereigs.
 cert-not-verified_algorithm-disabled = Navar puorbaudeit itū sertifikatu, kam tys ir paraksteits ar paroksta algoritmu, kas drūseibys apsvārumu dieļ natīk izmontuots.
 cert-not-verified-unknown = Navar apstyprynuot itū sertifikatu nazynuomu īmeslu dieļ.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

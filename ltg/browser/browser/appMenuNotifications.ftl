@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Skaidrs, saprotu
     .buttonaccesskey = S
 appmenu-addon-post-install-message = Prvoldi sovus paplašinojumus damīdzūt <image data-l10n-name='addon-install-icon'></image> <image data-l10n-name='addon-menu-icon'></image> izvieļnī.
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = Atļaut itam paplašinojumam pasaist privatūs lūgus
     .accesskey = A
@@ -52,6 +53,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = P
     .secondarybuttonlabel = Atslēgt paplašinojumu
     .secondarybuttonaccesskey = A
+
 appmenu-tab-hide-controlled =
     .label = Datikt pi paslāptōm cilnem
     .buttonlabel = Atstōt cilnes paslāptas

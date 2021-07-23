@@ -304,3 +304,8 @@ touch-warning = async touch input disabled due to unsupported pref: { $preferenc
 policies-inactive = Nav aktivs
 policies-active = Aktivs
 policies-error = Klaida
+
+## Printing section
+
+## Normandy sections
+

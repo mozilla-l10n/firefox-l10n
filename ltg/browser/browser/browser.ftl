@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privatuo puorlūkuošona)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privatuo puorlūkuošona)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privatuo puorlūkuošona)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privatuo puorlūkuošona)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -124,10 +126,12 @@ urlbar-canvas-blocked =
     .tooltiptext = Datu sajimšona nu ituos lopys canvas ir blokeita.
 urlbar-midi-blocked =
     .tooltiptext = Tu esi aizlīdzs MIDI pīkļuvi itai lopai.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit this bookmark ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -137,41 +141,13 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Davīnōt adreses laukam
+
 page-action-manage-extension =
     .label = Porvaldēt paplašinōjumu…
 page-action-remove-from-urlbar =
     .label = Nūjimt nu adreses lauka
 
 ## Page Action menu
-
-page-action-copy-url-panel =
-    .label = Kopēt saiti
-page-action-copy-url-urlbar =
-    .tooltiptext = Kopēt saiti
-page-action-email-link-panel =
-    .label = Nūsyuteit saiti…
-page-action-email-link-urlbar =
-    .tooltiptext = Nūsyuteit saiti…
-page-action-share-url-panel =
-    .label = Daleitīs
-page-action-share-url-urlbar =
-    .tooltiptext = Daleitīs
-page-action-share-more-panel =
-    .label = Vaira…
-page-action-send-tab-not-ready =
-    .label = Syncing Devices…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Pīleimeit cilni
-page-action-pin-tab-urlbar =
-    .tooltiptext = Pīleimeit cilni
-page-action-unpin-tab-panel =
-    .label = Atbreivuot cilni
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Atbreivuot cilni
 
 ## Auto-hide Context Menu
 
@@ -188,14 +164,17 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Maineit mekliešonys īstatiejumus
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Maineit mekliešonys īstatiejumus
+
 search-one-offs-context-open-new-tab =
     .label = Mekleit jaunā cilnē
     .accesskey = c
 search-one-offs-context-set-as-default =
     .label = Īstateit par nūkluseitū mekleituoju
     .accesskey = n
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -227,8 +206,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Rōdēt redaktoru pi saglobōšonys
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Gotovs
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -245,6 +226,7 @@ identity-passive-loaded = Itōs lopys daļas (pīmāram biļdis) nav drūšys.
 identity-active-loaded = Nadrūsu elementu aizsardzeiba ir deaktiveita.
 identity-weak-encryption = Itei lopa izmontoj vuoju šifriešonu.
 identity-insecure-login-forms = Dati, kurus īvadiesi itymā lopā nav aizsorgōti un var byut portvarti.
+
 identity-permissions-reload-hint = Kab radzāti izmaiņis īspiejams byus napīcīšama lopys puorluode.
 identity-permissions-empty = You have not granted this site any special permissions.
 identity-clear-site-data =
@@ -299,6 +281,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Izavielīs mikrofonu:
     .accesskey = m
+
 popup-all-windows-shared = All visible windows on your screen will be shared.
 
 ## WebRTC window or screen share tab switch warning
@@ -311,21 +294,26 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Porlyuku kontrolej nu attōluma
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Meklej ar { $name } voi īvodi lopys adresi
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Porlyuku kontrolej nu attōluma
+
 urlbar-switch-to-tab =
     .value = Puorslēgtīs iz cilni:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Paplošynuojums:
+
 urlbar-go-button =
     .tooltiptext = Puorīt iz adresu, kas radzama vītys juslā
 urlbar-page-action-button =
@@ -354,9 +342,12 @@ urlbar-result-action-visit = Apmeklēt
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ir pa vysu ekranu
 fullscreen-warning-no-domain = Itys dokuments ir pa vysu ekranu
+
+
 fullscreen-exit-button = Izīt nu pynlekrana (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Izīt nu pynlekrana (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -368,8 +359,6 @@ pointerlock-warning-no-domain = Itys dokuments kontrolej kursoru. Damīdz tauste
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Ruodeit vysys gruomotzeimes
 bookmarks-toolbar-chevron =
     .tooltiptext = Ruodeit vairuok gruomotzeimju
 bookmarks-sidebar-content =
@@ -404,6 +393,7 @@ bookmarks-tools =
     .label = Gruomotzeimju reiki
 bookmarks-bookmark-edit-panel =
     .label = Redigeit itū gruomotzeimi
+
 bookmarks-toolbar-menu =
     .label = Gruomotzeimju reikjūsla
 bookmarks-toolbar-placeholder =
@@ -418,6 +408,8 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

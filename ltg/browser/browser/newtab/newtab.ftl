@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Mekleit
 
 newtab-search-box-search-the-web-text = Mekleit teiklā
+
 newtab-search-box-search-the-web-input =
     .placeholder = Mekleit teiklā
     .title = Mekleit teiklā
@@ -56,6 +57,8 @@ newtab-topsites-add-button = Pīvīnōt
 newtab-confirm-delete-history-p1 = Voi gribi dzēst vysus itōs lopys īrokstus nu viestures?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Itei ir naatgrīzeniska darbeiba.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -195,3 +198,6 @@ newtab-pocket-cta-text = Sagloboj interesantus stōstus { -pocket-brand-name } u
 
 newtab-error-fallback-info = Naz kas aizgōja škārsu, īlōdejut itū saturu.
 newtab-error-fallback-refresh-link = Porlōdej lopu, kab paraudzēt par jaunu.
+
+## Customization Menu
+

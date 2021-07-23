@@ -522,6 +522,7 @@ home-prefs-topsites-description = Vaira apmaklātōs lopys
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } īsaceitōs
+
 ##
 
 
@@ -547,6 +548,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Pīzeimes
 home-prefs-snippets-description = { -vendor-short-name } un { -brand-product-name } jaunumi
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -619,6 +621,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = Īstatiejumi
+
 containers-remove-button =
     .label = Nūjimt
 

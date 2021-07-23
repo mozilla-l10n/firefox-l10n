@@ -5,46 +5,61 @@
 permissions-window =
     .title = Izjāmumi
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Sātys lopys adress
     .accesskey = d
+
 permissions-block =
     .label = Blokeit
     .accesskey = B
+
 permissions-session =
     .label = Atļaut tikai ituos sesejis laikā
     .accesskey = s
+
 permissions-allow =
     .label = Atļaut
     .accesskey = A
+
 permissions-site-name =
     .label = Sātys lopa
+
 permissions-status =
     .label = Statuss
+
 permissions-remove =
     .label = Aizvuokt lopu
     .accesskey = z
+
 permissions-remove-all =
     .label = Aizvuokt vysys lopys
     .accesskey = k
+
 permissions-button-cancel =
     .label = Atceļt
     .accesskey = c
+
 permissions-button-ok =
     .label = Saglobuot izmaiņis
     .accesskey = S
+
 permission-dialog =
     .buttonlabelaccept = Saglobuot izmaiņis
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = Mekleit lopys
+
 permissions-capabilities-allow =
     .label = Atļaut
 permissions-capabilities-block =
     .label = Blokeit
 permissions-capabilities-prompt =
     .label = Vīnmār vaicuot
+
 permissions-capabilities-listitem-allow =
     .value = Atļaut
 permissions-capabilities-listitem-block =
@@ -66,6 +81,8 @@ permissions-exceptions-cookie-window =
     .title = Izjāmumi - seikdatnes un kešatmiņa
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Tu vari nūrōdēt, kurom lopom ir un kurom nav atļauts izmontōt seikdatnes un kešatmiņu. Īroksti precizu lopys adresi un mīdz uz Bloķēt, Atļaut iz seseji  voi Atļaut.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

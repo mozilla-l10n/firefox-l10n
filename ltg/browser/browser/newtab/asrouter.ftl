@@ -111,3 +111,7 @@ cfr-doorhanger-pintab-animation-resume = Turpynōt
 
 ## What's new: Cookies message
 
+## Fission Experiment Message
+
+## Full Video Support CFR message
+

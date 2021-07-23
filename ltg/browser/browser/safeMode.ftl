@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Suokt drūsajā režymā
+
 refresh-profile =
     .label = Atjaunōt { -brand-short-name }
 safe-mode-description = Drūsais režyms ir specials { -brand-short-name } režyms dažaidu tehniskū problemu rysynuošonao.

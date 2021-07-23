@@ -26,6 +26,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinhronizeit
+
 appmenuitem-save-page =
     .label = Saglobōt lopu kai…
 

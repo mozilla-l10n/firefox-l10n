@@ -126,6 +126,8 @@ security-site-data-only = Jā, { $value } { $unit } lopys datu
 security-site-data-cookies-only = Jā, seikdatnes
 security-site-data-no = Nā
 
+##
+
 image-size-unknown = Nazynuoms
 page-info-not-specified =
     .value = Nav nūruodeits

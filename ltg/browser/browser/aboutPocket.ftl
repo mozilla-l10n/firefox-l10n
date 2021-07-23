@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Davīnōt birkas
+
 pocket-panel-saved-error-generic = Klaida saglobojūt { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Birkas navar byut garōkas par 25 simbolim
 pocket-panel-saved-error-only-links = Var saglobōt viņ saites

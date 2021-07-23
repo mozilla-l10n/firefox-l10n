@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Attaiseit izvēlni/izvielni">
+
 <!ENTITY navbarOverflow.label                "Cyti reiki…">
 
 <!-- Tab context menu -->
@@ -108,18 +109,22 @@ can reach it easily. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Viesture">
+
 <!ENTITY historyUndoMenu.label "Naseņ aiztaiseituos cilnes">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Naseņ aiztaiseitī lūgi">
 
 <!ENTITY appMenuHistory.showAll.label "Paruodeit vysu viesturi">
+
 <!ENTITY appMenuHistory.clearRecent.label "Dzēst nasenū viesturi…">
 <!ENTITY appMenuHistory.restoreSession.label "Atjaunōt īprīkšejū seseju">
 <!ENTITY appMenuHistory.viewSidebar.label "Ruodeit viestures suonjūsla">
 <!ENTITY appMenuHistory.recentHistory.label "Nasenuo viesture">
+
 <!ENTITY appMenuHelp.label "Paleidzeiba">
 
 <!ENTITY appMenuRemoteTabs.label "Sinhronizeituos cilnes">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nav attaisietu cilņu">
