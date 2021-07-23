@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = নিরাপদ মোডে আরম্ভ করুন
+
 refresh-profile =
     .label = { -brand-short-name } রিফ্রেশ করুন
 safe-mode-description = Safe Mode, { -brand-short-name }-র একটি বিশেষ মোড যার মধ্যে বিভিন্ন সমস্যার সমাধান করা যাবে।

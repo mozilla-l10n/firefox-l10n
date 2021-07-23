@@ -8,9 +8,7 @@
 <!ENTITY  authorName.accesskey      "u">
 <!ENTITY  pageColorHeader           "পৃষ্ঠার ডিফল্ট চেহারাছবি">
 
-<!ENTITY defaultColorsRadio.label   "পাঠকের দ্বারা ব্যবহৃত ডিফল্ট রং (পৃষ্ঠার জন্য রং নির্ধারণ করা হবে না)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColorsRadio.label    "পছন্দসই রং ব্যবহার করুন:">
 <!ENTITY customColors.accesskey     "c">
 
 <!ENTITY normalText.label           "স্বাভাবিক টেক্সট">

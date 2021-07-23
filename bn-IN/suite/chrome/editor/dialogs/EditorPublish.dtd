@@ -16,25 +16,19 @@
 <!ENTITY siteList.label           "সাইটের নাম:">
 <!ENTITY siteList.tooltip         "প্রকাশনার উদ্দেশ্যে উদ্দিষ্ট সাইটের নাম নির্বাচন করুন">
 <!ENTITY newSiteButton.label      "নতুন সাইট">
-<!ENTITY siteDirList.label        "প্রকাশনার জন্য চিহ্নিত সাইটে কোনো ডিরেক্টরি নির্বাচন অথবা উল্লেখ করুন:">
-<!ENTITY siteDirList.tooltip      "প্রকাশনার উদ্দেশ্যে দূরবর্তী সাব-ডিরেক্টরির নাম নির্বাচন অথবা উল্লেখ করুন">
 <!ENTITY docDirList.label         "পৃষ্ঠার জন্য সাইটের সাব-ডিরেক্টরি:">
 <!ENTITY publishImgCheckbox.label "ছবি ও অন্যান্য ফাইল অন্তর্ভুক্ত করুন">
 <!ENTITY publishImgCheckbox.tooltip "পৃষ্ঠার মধ্যে উল্লিখিত ছবি ও অন্যান্য ফাইল প্রকাশ করুন">
 <!ENTITY sameLocationRadio.label  "পৃষ্ঠায় ব্যবহৃত অবস্থান প্রয়োগ করা হবে">
 <!ENTITY sameLocationRadio.tooltip "পৃষ্ঠা প্রকাশনার জন্য ব্যবহৃত অবস্থানে ফাইল প্রকাশ করা হবে">
 <!ENTITY useSubdirRadio.label     "চিহ্নিত সাইটের সাব-ডিরেক্টরি ব্যবহার করা হবে:">
-<!ENTITY useSubdir.tooltip        "ফাইল প্রকাশনার জন্য ব্যবহৃত দূরবর্তী সাব-ডিরেক্টরির নাম নির্বাচন অথবা উল্লেখ করুন">
-<!ENTITY chooseDirButton.label    "নির্বাচন করুন...">
 <!ENTITY pageTitle.label          "পৃষ্ঠার শিরোনাম:">
 <!ENTITY pageTitle.tooltip        "উইন্ডো ও বুকমার্কের মধ্যে পৃষ্ঠা সনাক্ত করার জন্য পৃষ্ঠার শিরোনাম লিখুন">
 <!ENTITY pageTitleExample.label   "উদাহরণ: &quot;My Web Page&quot;">
 <!ENTITY filename.label           "ফাইলের নাম:">
 <!ENTITY filename.tooltip         "ফাইলের নাম লিখুন, ওয়েব-পেজের ক্ষেত্রে '.html' অংশ অন্তর্ভুক্ত করুন">
 <!ENTITY filenameExample.label    "উদাহরণস্বরূপ: &quot;mypage.html&quot;">
-<!ENTITY relatedDocs.label        "প্রকাশনার জন্য অন্যান্য ফাইল">
 <!ENTITY setDefaultButton.label   "ডিফল্ট রূপে নির্ধারণ করুন">
-<!ENTITY setDefSiteAndDir.label   "ডিফল্ট সাইট ও ডিরেক্টরি রূপে নির্ধারণ করুন">
 <!ENTITY removeButton.label       "সাইট মুছে ফেলুন">
 
 <!-- Settings Tab Panel -->

@@ -54,8 +54,6 @@ move-to-new-window =
     .label = নতুন উইন্ডোর মধ্যে স্থানান্তর করুন
     .accesskey = W
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = ট্যাব বন্ধ করুন
     .accesskey = C
@@ -68,3 +66,7 @@ move-tabs =
 move-tab =
     .label = ট্যাব সরান
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

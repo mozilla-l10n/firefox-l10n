@@ -28,8 +28,6 @@
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "সম্পাদনা...">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "পৃষ্ঠা পুনরায় পরীক্ষা করা হবে">
-<!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "বন্ধ করুন">
 <!ENTITY closeButton.accessKey "C">
 <!ENTITY sendButton.label "প্রেরণ করুন">

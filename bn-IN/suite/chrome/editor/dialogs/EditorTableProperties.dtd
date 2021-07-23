@@ -36,7 +36,6 @@
 <!ENTITY tableCaptionNone.label           "শূণ্য">
 <!ENTITY tableInheritColor.label           "(পৃষ্ঠার রং প্রদর্শনযোগ্য হবে)">
 
-<!ENTITY cellPercent.label                "টেবিলের মাপের শতাংশ">
 <!ENTITY cellSelection.label              "নির্বাচিত অংশ">
 <!ENTITY cellSelectCell.label             "সেল">
 <!ENTITY cellSelectRow.label              "সারি">
@@ -45,13 +44,6 @@
 <!ENTITY cellSelectNext.accessKey         "N">
 <!ENTITY cellSelectPrevious.label         "পূর্ববর্তী">
 <!ENTITY cellSelectPrevious.accessKey     "P">
-<!ENTITY cellApplyBeforeMove.label        "নির্বাচিত বস্তু পরিবর্তনের পূর্বে অন্যান্য পরিবর্তন প্রয়োগ করা হবে">
-<!ENTITY cellKeepCurrentData.label        "বর্তমান বৈশিষ্ট্য অপরিবর্তিত রাখা হবে">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "নির্বাচিত বিষয়বস্তু পরিবর্তনের পূর্বে">
-<!ENTITY applyBeforeChange2.label         "বর্তমান পরিবর্তন প্রয়োগ করা হবে।">
-<!ENTITY cellRowSpan.label                "সারির বিস্তার:">
-<!ENTITY cellColSpan.label                "ক্ষেত্রের বিস্তার:">
 <!ENTITY cellContentAlignment.label       "বিষয়বস্তুর দিশা">
 <!ENTITY cellHorizontal.label             "অনুভূমিক:">
 <!ENTITY cellHorizontal.accessKey         "Z">
@@ -69,7 +61,6 @@
 <!ENTITY cellAlignMiddle.label            "মাঝখানে">
 <!ENTITY cellAlignBottom.label            "নীচে">
 <!ENTITY cellAlignJustify.label           "সমপ্রান্তিক">
-<!ENTITY cellAlignAtChar.label            "চিহ্নিত অক্ষরে:">
 <!ENTITY cellInheritColor.label           "(টেবিলের রং প্রদর্শনযোগ্য হবে)">
 <!ENTITY cellUseCheckboxHelp.label        "সমস্ত নির্বাচিত সেলের মধ্যে  প্রয়োগ করার যোগ্য বৈশিষ্ট্য চেকবক্স দ্বারা নির্ধারণ করুন">
 

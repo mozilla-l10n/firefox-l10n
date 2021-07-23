@@ -27,13 +27,6 @@
 <!ENTITY generalMessageDisplay.caption    "General">
 <!ENTITY autoMarkAsRead.label             "Automatically mark messages as read">
 <!ENTITY autoMarkAsRead.accesskey         "A">
-<!ENTITY markAsReadNoDelay.label          "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey      "m">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "After displaying for">
-<!ENTITY markAsReadDelay.accesskey        "t">
 <!ENTITY secondsLabel.label               "seconds">
 
 <!ENTITY openingMessages.label            "When opening messages, display them in:">

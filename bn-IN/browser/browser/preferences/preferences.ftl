@@ -544,6 +544,7 @@ home-prefs-topsites-description = যে সাইটগুলিতে আপ�
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } দ্বারা সুপারিশকৃত
+
 ##
 
 home-prefs-recommended-by-learn-more = এটি কিভাবে কাজ করে
@@ -569,6 +570,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = স্নিপেটগুলি
 home-prefs-snippets-description = { -vendor-short-name } and { -brand-product-name } থেকে আসা আপডেটগুলি
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -640,6 +642,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = পছন্দ
+
 containers-remove-button =
     .label = মুছে ফেলুন
 
