@@ -56,6 +56,7 @@ this container is a toolbar. This avoids double-speaking. -->
      followed by the user's email. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Басқа құрылғыны байланыстыру…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "&brandProductName; ішіне кіру">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; іске қосу">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; қызметтері">
@@ -144,6 +145,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "б">
 
 <!ENTITY historyMenu.label "Тарих">
+
 <!ENTITY historyUndoMenu.label "Жақында жабылған беттер">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Жақында жабылған терезелер">
@@ -155,6 +157,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Тарихтың бүйір панелін көрсету">
 <!ENTITY appMenuHistory.hideSidebar.label "Тарих бүйір панелін жабу">
 <!ENTITY appMenuHistory.recentHistory.label "Жуырдағы тарих">
+
 <!ENTITY appMenuHelp.label "Көмек">
 
 <!ENTITY appMenuRemoteTabs.label "Синхрондалған беттер">

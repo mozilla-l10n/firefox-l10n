@@ -12,3 +12,4 @@ openpgp-one-recipient-status-created-date =
     .label = Жасалған
 openpgp-one-recipient-status-expires-date =
     .label = Мерзімі аяқталады
+

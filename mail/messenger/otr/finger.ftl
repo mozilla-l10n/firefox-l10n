@@ -10,6 +10,7 @@ finger-intro = Алдыңғы өтпелі шифрлеуі бар сөйлес�
 
 finger-screenName =
     .label = Контакт
+
 finger-verified =
     .label = Растау қалып-күйі
 finger-fingerprint =

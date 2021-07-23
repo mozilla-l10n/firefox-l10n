@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } жаңғырту
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name } жаңғырту
 refresh-profile-description = Мәселелерді шешу және өнімділікті қалпына келтіру үшін жаңадан бастау.

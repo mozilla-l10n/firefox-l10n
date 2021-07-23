@@ -4,6 +4,7 @@
 
 openpgp-change-key-expiry-title =
     .title = Кілттің жарамдылық мерзімін өзгерту
+
 expire-dont-change =
     .label = Жарамдылық мерзімін өзгертпеу
 expire-never-label =

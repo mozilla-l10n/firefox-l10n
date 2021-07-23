@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Жақсы, түсіндім
     .buttonaccesskey = а
 appmenu-addon-post-install-message = Қосымшаларыңызды <image data-l10n-name='addon-menu-icon'></image> мәзірінен <image data-l10n-name='addon-install-icon'></image> шерту арқылы басқарыңыз.
+
 appmenu-update-available2 =
     .label = Жаңарту қолжетімді
     .buttonlabel = Жүктеп алу
@@ -71,6 +72,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Қазір емес
     .secondarybuttonaccesskey = м
 appmenu-update-other-instance-message = Жаңа { -brand-shorter-name } жаңартуы бар, бірақ оны орнату мүмкін емес, себебі { -brand-shorter-name } басқа көшірмесі жұмыс істеп тұр. Жаңартуды жалғастыру үшін оны жабыңыз немесе сонда да жаңартуды таңдаңыз (басқа көшірме оны қайта іске қосқанға дейін дұрыс жұмыс істемеуі мүмкін).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ОК
     .buttonaccesskey = о
@@ -78,6 +80,7 @@ appmenu-addon-post-install-message3 = Қосымшалар мен темалар
 appmenu-addon-post-install-incognito-checkbox =
     .label = Бұл кеңейтуге жекелік шолу терезелерінде орындалуға рұқсат ету
     .accesskey = а
+    
 appmenu-new-tab-controlled =
     .label = Сіздің жаңа бетіңіз өзгертілген.
     .buttonlabel = Өзгерістерді сақтау
@@ -90,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = с
     .secondarybuttonlabel = Кеңейтуді сөндіру
     .secondarybuttonaccesskey = д
+
 appmenu-new-tab-controlled-changes =
     .label = Сіздің жаңа бетіңіз өзгертілген.
     .buttonlabel = Өзгерістерді сақтау

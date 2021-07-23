@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Импорт шебері
+
 import-from =
     { PLATFORM() ->
         [windows] Баптаулар, бетбелгілер, шолу тарихы, парольдерді және т.б. ақпаратты келесіден импорттау:
        *[other] Баптаулар, бетбелгілер, шолу тарихы, парольдерді және т.б. ақпаратты келесіден импорттау:
     }
+
 import-from-bookmarks = Бетбелгілерді келесіден импорттау:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,25 +51,39 @@ import-from-firefox =
 import-from-360se =
     .label = 360 қауіпсіз браузері
     .accesskey = 3
+
 no-migration-sources = Құрамында бетбелгілер, тарихы немесе парольдері бар бірде-бір бағдарлама табылмаған.
+
 import-source-page-title = Баптаулар мен мәліметтер импорты
 import-items-page-title = Импортталатын объектілер
+
 import-items-description = Импортталатын объектілерді таңдаңыз:
+
 import-permissions-page-title = { -brand-short-name } үшін рұқсаттарды беріңіз
+
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS сізден Safari бетбелгілеріне қатынау мақсатында { -brand-short-name } үшін рұқсат беруді талап етеді. "Жалғастыру" басып, шыққан Фвйлды ашу панелінде "Bookmarks.plist" файлын таңдаңыз.
+
 import-migrating-page-title = Импорт жүріп жатыр…
+
 import-migrating-description = Қазір келесі объектілер импортталуда…
+
 import-select-profile-page-title = Профильді таңдау
+
 import-select-profile-description = Келесі профильдер импортталуы мүмкін:
+
 import-done-page-title = Импорт сәтті аяқталды
+
 import-done-description = Келесі объектілер сәтті импортталды:
+
 import-close-source-browser = Жалғастыру алдында таңдалған браузер жабылғанын тексеріңіз.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = { $source } - дан (ден)
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -79,6 +95,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 қауіпсіз браузері
+
 imported-safari-reading-list = Оқу тізімі (Safari ішінен)
 imported-edge-reading-list = Оқу тізімі (Edge ішінен)
 
@@ -100,6 +117,7 @@ browser-data-cookies-checkbox =
     .label = Cookie файлдары
 browser-data-cookies-label =
     .value = Cookie файлдары
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -112,10 +130,12 @@ browser-data-history-label =
             [firefox] Шолу тарихы мен бетбелгілер
            *[other] Шолу тарихы
         }
+
 browser-data-formdata-checkbox =
     .label = Сақталған формалар тарихы
 browser-data-formdata-label =
     .value = Сақталған формалар тарихы
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -124,6 +144,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Сақталған логиндер мен парольдер
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -138,10 +159,12 @@ browser-data-bookmarks-label =
             [edge] Таңдамалылар
            *[other] Бетбелгілер
         }
+
 browser-data-otherdata-checkbox =
     .label = Басқа деректер
 browser-data-otherdata-label =
     .label = Басқа деректер
+
 browser-data-session-checkbox =
     .label = Терезелер мен беттер
 browser-data-session-label =

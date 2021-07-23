@@ -9,6 +9,10 @@ menu-view-charset =
     .label = Мәтін кодталуы
     .accesskey = к
 
+## Tools Menu
+
+## Help Menu
+
 ## Mail Toolbar
 
 toolbar-junk-button =
@@ -23,3 +27,8 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Қалпына келтіру
     .tooltiptext = Өшірілгенді қалпына келтіру
+
+## View
+
+## View / Layout
+

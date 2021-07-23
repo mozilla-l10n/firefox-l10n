@@ -5,53 +5,70 @@
 permissions-window =
     .title = Осыдан бөлек
     .style = width: 55em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Сайт адресі
     .accesskey = д
+
 permissions-block =
     .label = Блоктау
     .accesskey = Б
+
 permissions-session =
     .label = Тек осы сессияға рұқсат беру
     .accesskey = Т
+
 permissions-allow =
     .label = Рұқсат ету
     .accesskey = е
+
 permissions-site-name =
     .label = Веб сайт
+
 permissions-status =
     .label = Қалып-күйі
+
 permissions-remove =
     .label = Вебсайтты өшіру
     .accesskey = ш
+
 permissions-remove-all =
     .label = Барлық вебсайттарды өшіру
     .accesskey = р
+
 permissions-button-cancel =
     .label = Бас тарту
     .accesskey = т
+
 permissions-button-ok =
     .label = Өзгерістерді сақтау
     .accesskey = с
+
 permission-dialog =
     .buttonlabelaccept = Өзгерістерді сақтау
     .buttonaccesskeyaccept = с
+
 permissions-autoplay-menu = Барлық веб-сайттар үшін негізгі:
+
 permissions-searchbox =
     .placeholder = Вебсайттан іздеу
+
 permissions-capabilities-autoplay-allow =
     .label = Аудио және видеоны рұқсат ету
 permissions-capabilities-autoplay-block =
     .label = Аудионы бұғаттау
 permissions-capabilities-autoplay-blockall =
     .label = Аудио мен видеоны бұғаттау
+
 permissions-capabilities-allow =
     .label = Рұқсат ету
 permissions-capabilities-block =
     .label = Болдырмау
 permissions-capabilities-prompt =
     .label = Әрқашан сұрау
+
 permissions-capabilities-listitem-allow =
     .value = Рұқсат ету
 permissions-capabilities-listitem-block =
@@ -77,6 +94,8 @@ permissions-exceptions-cookie-window =
     .title = Ережелерден тыс - Cookies файлдары және сайт деректері
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Қай веб-сайттарға cookies файлдарын және сайт деректерін сақтауға әрқашан немесе ешқашан рұқсат етілмегенін көрсете аласыз. Басқару үшін сайттың нақты адресін енгізіп, Бұғаттау, Тек осы сессияға рұқсат беру немесе Рұқсат етуді таңдаңыз.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

@@ -38,16 +38,20 @@ menu-quit =
             [windows] ы
            *[other] Ш
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } жұмысын аяқтау
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } жұмысын аяқтау
+
 menu-about =
     .label = { -brand-shorter-name } туралы
     .accesskey = а
@@ -173,6 +177,7 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Мәтін кодталуы
     .accesskey = к
+
 menu-view-repair-text-encoding =
     .label = Мәтін кодтауын жөндеу
     .accesskey = к
@@ -218,6 +223,7 @@ menu-history-undo-menu =
     .label = Жақында жабылған беттер
 menu-history-undo-window-menu =
     .label = Жақында жабылған терезелер
+
 menu-history-reopen-all-tabs = Барлық беттерді қайта ашу
 menu-history-reopen-all-windows = Барлық терезелерді қайта ашу
 

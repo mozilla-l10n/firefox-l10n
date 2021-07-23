@@ -19,6 +19,7 @@ open-location = Іздеу немесе адрес
 share = Бөлісу
 close-window = Терезені жабу
 open-sidebar = Бүйір панельдер
+
 # This string describes shortcuts for search.
 search-popover = Іздеу жүйелер таңбашалары
 # Describes searches limited to a specific scope

@@ -1,3 +1,4 @@
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -16,6 +17,7 @@ openpgp-key-gen-key-type-rsa =
     .label = RSA
 openpgp-key-gen-key-type-ecc =
     .label = ECC (эллиптикалық қисықтар)
+
 openpgp-key-man-file-menu =
     .label = Файл
     .accesskey = Ф
@@ -25,27 +27,32 @@ openpgp-key-man-edit-menu =
 openpgp-key-man-view-menu =
     .label = Түрі
     .accesskey = Т
+
 openpgp-key-man-ctx-copy =
     .label = Көшіріп алу
     .accesskey = К
+
 openpgp-key-man-ctx-copy-fprs =
     .label =
         { $count ->
            *[other] Баспалар
         }
     .accesskey = Б
+
 openpgp-key-man-ctx-copy-key-ids =
     .label =
         { $count ->
            *[other] Кілт идентификаторы
         }
     .accesskey = К
+
 openpgp-key-man-ctx-copy-public-keys =
     .label =
         { $count ->
            *[other] Ашық кілттер
         }
     .accesskey = А
+
 openpgp-key-man-close =
     .label = Жабу
 openpgp-key-man-reload =
@@ -57,6 +64,7 @@ openpgp-key-man-change-expiry =
 openpgp-delete-key =
     .label = Кілтті өшіру
     .accesskey = ш
+
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Түрі
@@ -70,6 +78,7 @@ openpgp-key-details-created-label =
     .label = Жасалған
 openpgp-key-details-created-header = Жасалған
 openpgp-key-details-fingerprint-label = Баспасы
+
 openpgp-copy-cmd-label =
     .label = Көшіріп алу
 
