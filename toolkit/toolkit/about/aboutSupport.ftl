@@ -300,3 +300,8 @@ touch-warning = असंकालिक टच इनपुट आधारह�
 policies-inactive = निष्क्रिय
 policies-active = सक्रिय
 policies-error = त्रुटी
+
+## Printing section
+
+## Normandy sections
+

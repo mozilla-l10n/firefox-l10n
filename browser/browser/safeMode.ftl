@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = सेफ मोडमध्ये सुरू करा
+
 refresh-profile =
     .label = { -brand-short-name }ला रिफ्रेश करा
 safe-mode-description = सेफ मोड { -brand-short-name } चे विशेष मोड आहे ज्याचा वापर अडचणींच्या त्रुटीनिवारनसाठी केला जातो.

@@ -29,6 +29,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ठीक आहे, समजले
     .buttonaccesskey = O
 appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></image> या मेनूत <image data-l10n-name='addon-install-icon'></image> वर क्लिक करून ऍड-ऑन व्यवस्थापित करा.
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = या विस्तारास खाजगी पटलामध्ये चालविण्याची परवानगी द्या
     .accesskey = A
@@ -45,6 +46,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = विस्तारण बंद करा
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = आपले लपवलेले टॅब पहा
     .buttonlabel = टॅब लपवून ठेवा

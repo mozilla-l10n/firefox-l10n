@@ -5,53 +5,70 @@
 permissions-window =
     .title = अपवाद
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = संकेतस्थळाचा पत्ता
     .accesskey = d
+
 permissions-block =
     .label = अडवा
     .accesskey = B
+
 permissions-session =
     .label = सत्रकरिता सहमती द्या
     .accesskey = S
+
 permissions-allow =
     .label = परवानगी द्या
     .accesskey = A
+
 permissions-site-name =
     .label = संकेतस्थळ
+
 permissions-status =
     .label = परीस्थिती
+
 permissions-remove =
     .label = संकेतस्थळ काढून टाका
     .accesskey = R
+
 permissions-remove-all =
     .label = सर्व साईट्स काढून टाका
     .accesskey = e
+
 permissions-button-cancel =
     .label = रद्द करा
     .accesskey = C
+
 permissions-button-ok =
     .label = बदल जतन करा
     .accesskey = S
+
 permission-dialog =
     .buttonlabelaccept = बदल जतन करा
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = सर्व वेबसाइटसाठी डीफॉल्टः
+
 permissions-searchbox =
     .placeholder = वेबसाईट शोधा
+
 permissions-capabilities-autoplay-allow =
     .label = ऑडिओ आणि व्हिडिओला अनुमती द्या
 permissions-capabilities-autoplay-block =
     .label = ऑडिओ अवरोधित करा
 permissions-capabilities-autoplay-blockall =
     .label = ऑडिओ आणि व्हिडिओ अवरोधित करा
+
 permissions-capabilities-allow =
     .label = परवानगी द्या
 permissions-capabilities-block =
     .label = अडवा
 permissions-capabilities-prompt =
     .label = नेहमी विचारा
+
 permissions-capabilities-listitem-allow =
     .value = परवानगी द्या
 permissions-capabilities-listitem-block =
@@ -74,6 +91,8 @@ permissions-exceptions-cookie-window =
     .title = अपवाद - कुकीज व साईट माहिती
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = कोणत्या संकेतस्थळांनी कुकीज आणि साईट माहिती वापरायची किंवा कोणीच वापरू नये  हे आपण ठरवू शकता. अशा संकेतस्थळांचा पत्ता प्रविष्ट करा आणि आडवा, सत्रासाठी परवानगी द्या किंवा परवानगी द्या क्लीक करा.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

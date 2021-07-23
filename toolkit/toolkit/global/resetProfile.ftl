@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name }ला पूर्ववत् करा
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name }ला पूर्ववत् करा
 refresh-profile-description = समस्या सोडवण्यासाठी आणि कार्यप्रदर्शन पुनर्संचयित करण्यासाठी आपण पुन्हा प्रारंभ करा.

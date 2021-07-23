@@ -36,16 +36,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } मधून बाहेर पडा
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } मधून बाहेर पडा
+
 menu-about =
     .label = { -brand-shorter-name } विषयी
     .accesskey = A
@@ -305,8 +309,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = त्रुटीनिवारण माहिती
     .accesskey = T
-menu-help-taskmanager =
-    .label = कार्य व्यवस्थापक
 menu-help-report-site-issue =
     .label = साईटची त्रुटी दाखल करा…
 menu-help-feedback-page =

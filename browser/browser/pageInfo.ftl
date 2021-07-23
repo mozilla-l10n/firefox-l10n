@@ -129,6 +129,8 @@ security-site-data-only = होय, { $value } { $unit } साइट डेट
 security-site-data-cookies-only = होय, कुकिज
 security-site-data-no = नाही
 
+##
+
 image-size-unknown = अपिरिचीत
 page-info-not-specified =
     .value = निश्चित न केलेले
