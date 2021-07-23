@@ -5,20 +5,27 @@
 blocklist-window =
     .title = Արգելացուցակներ
     .style = width: 55em
+
 blocklist-description = Ընտրէք { -brand-short-name } ցուցակը, որն աւգտագործուում է առցանց վտանգներից խուսափելու համար։ Ցուցակները տրուած են <a data-l10n-name="disconnect-link" title="Disconnect">Անջատել</a>։
 blocklist-close-key =
     .key = w
+
 blocklist-treehead-list =
     .label = Ցուցակ
+
 blocklist-button-cancel =
     .label = Չեղարկել
     .accesskey = C
+
 blocklist-button-ok =
     .label = Պահպանել փոփոխութիւնները
     .accesskey = S
+
 blocklist-dialog =
     .buttonlabelaccept = Պահպանել փոփոխութիւնները
     .buttonaccesskeyaccept = S
+
+
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -27,6 +34,7 @@ blocklist-dialog =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+
 blocklist-item-moz-std-listName = 1-ին մակարդակի արգելափակման ցուցակ (Խորհուրդ է տրուում)։
 blocklist-item-moz-std-description = Թոյլ է տալիս որոշ հետեւումներ, որպէսզի քիչ կայքեր խափանուեն։
 blocklist-item-moz-full-listName = 2-րդ մակարդակի արգելափակման ցուցակ։

@@ -36,16 +36,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Փակել { -brand-shorter-name }-ը
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Փակել { -brand-shorter-name }
+
 menu-about =
     .label = { -brand-shorter-name }-ի մասին
     .accesskey = A
@@ -207,6 +211,7 @@ menu-history-undo-menu =
     .label = Վերջին փակուած ներդիրները
 menu-history-undo-window-menu =
     .label = Վերջին փակուած պատուհանները
+
 menu-history-reopen-all-tabs = Վերաբացել բոլոր ներդիրները
 menu-history-reopen-all-windows = Վերաբացել բոլոր պատուհանները
 
@@ -319,14 +324,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Ստեղնաշարի պիտակներ
     .accesskey = K
-menu-get-help =
-    .label = Ստանալ աւգնութիւն
-    .accesskey = ա
 menu-help-troubleshooting-info =
     .label = Անսարքութեան տեղեկատուութիւն
     .accesskey = T
-menu-help-taskmanager =
-    .label = Առաջադրանքների ղեկաւար
+menu-get-help =
+    .label = Ստանալ աւգնութիւն
+    .accesskey = ա
 menu-help-report-site-issue =
     .label = Զեկուցել կայքի թողարկման մասին…
 menu-help-feedback-page =
@@ -346,6 +349,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Սա խաբուսիկ կայք չէ…
     .accesskey = d
-menu-help-check-for-update =
-    .label = Ստուգէք թարմացումները
-    .accesskey = Ս

@@ -5,53 +5,70 @@
 permissions-window =
     .title = Բացառումներ
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Կայքի հասցէն
     .accesskey = հ
+
 permissions-block =
     .label = Արգելել
     .accesskey = Ա
+
 permissions-session =
     .label = Թոյլատրել աշխատաշրջանում
     .accesskey = ա
+
 permissions-allow =
     .label = Թոյլատրել
     .accesskey = Թ
+
 permissions-site-name =
     .label = Կայք
+
 permissions-status =
     .label = Կարգավիճակը
+
 permissions-remove =
     .label = Հեռացնել կայքը
     .accesskey = R
+
 permissions-remove-all =
     .label = Հեռացնել բոլոր կայքերը
     .accesskey = e
+
 permissions-button-cancel =
     .label = Չեղարկել
     .accesskey = Չ
+
 permissions-button-ok =
     .label = Պահել փոփոխութիւնները
     .accesskey = Պ
+
 permission-dialog =
     .buttonlabelaccept = Պահել փոփոխութիւնները
     .buttonaccesskeyaccept = Պ
+
 permissions-autoplay-menu = Սկզբնադիր բոլոր կայքերի համար.
+
 permissions-searchbox =
     .placeholder = Որոնել կայք
+
 permissions-capabilities-autoplay-allow =
     .label = Թոյլատրել Ձայն եւ Տեսանիւթ
 permissions-capabilities-autoplay-block =
     .label = Կողպել ձայնը
 permissions-capabilities-autoplay-blockall =
     .label = Կողպել Ձայնը եւ Տեսանիւթը
+
 permissions-capabilities-allow =
     .label = Թոյլատրել
 permissions-capabilities-block =
     .label = Արգելել
 permissions-capabilities-prompt =
     .label = Միշտ հարցնել
+
 permissions-capabilities-listitem-allow =
     .value = Թոյլատրել
 permissions-capabilities-listitem-block =
@@ -77,6 +94,8 @@ permissions-exceptions-cookie-window =
     .title = Բացառութիւններ՝ Cookie-ներ եւ կայքի տուեալներ
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Կարող էք յատկորոշել, թե որ կայքերին է թոյլատրուում միշտ կամ երբեք աւգտագործել նշոցիկեր եւ կայքի տուեալները:  Մուտքագրէք կայքի յստակ հասցէ, որը ցանկանում էք կառավարել եւ սեղմէք Արգելափակել, Թոյլատրել աշխատաշրջանի համար կամ Թոյլատրել:
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

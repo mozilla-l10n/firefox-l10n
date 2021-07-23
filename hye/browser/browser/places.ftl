@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Բացել նոր անհատական պատուհանում
     .accesskey = P
+
 places-new-bookmark =
     .label = Նոր էջանիշ…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Նոր բաժանիչ
     .accesskey = S
+
 places-view =
     .label = Տեսք
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ըստ ամսաթուի և կայքի
     .accesskey = t
+
 places-history-search =
     .placeholder = Որոնել պատմութիւն
 places-bookmarks-search =
     .placeholder = Որոնել էջանիշեր
+
 places-delete-domain-data =
     .label = Մոռանալ այս կայքի մասին
     .accesskey = F
@@ -60,12 +64,15 @@ places-sortby-name =
 places-properties =
     .label = Հատկութիւնները
     .accesskey = i
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Կառավարուող էջանիշեր
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Ենթապնակ
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Այլ Էջանիշեր
+

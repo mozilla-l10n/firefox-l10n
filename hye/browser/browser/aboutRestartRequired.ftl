@@ -6,4 +6,5 @@ restart-required-title = Պահանջուում է վերամեկնարկում
 restart-required-header = Կը ներէք։ Մենք մի փոքր գործ ունենք անելու։
 restart-required-intro-brand = { -brand-short-name }-ը խորքում արդիացուել է։ Սեղմէք Վերամեկնարկել՝ { -brand-short-name }-ը՝ արդիացումը աւարտելու համար։
 restart-required-description = Մենք կը վերականգնենք Ձեր բոլոր էջերը, պատուհանները եւ ներդիրները յետոյ։
+
 restart-button-label = Վերամեկնարկել { -brand-short-name }-ը

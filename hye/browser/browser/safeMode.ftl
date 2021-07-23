@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Սկսել ապահով կերպով
+
 refresh-profile =
     .label = Թարմացնել { -brand-short-name }-ը
 safe-mode-description = Ապահով կերպը { -brand-short-name }-ի յատուկ եղանակ է, որը կարող է աւգտագործուել շտկելու համար խնդիրները։

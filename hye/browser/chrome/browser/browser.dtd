@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Բացել ցանկը">
+
 <!ENTITY navbarOverflow.label                "Հաւելեալ գործիքներ…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label;֊ի ընտրանքները">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Կապակցել այլ սարք…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Մուտք գործել &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Միացնել &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Ծառայութիւններ">
@@ -139,6 +141,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Պատմութիւն">
+
 <!ENTITY historyUndoMenu.label "Վերջին փակուած ներդիրները">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Վերջին փակուած պատուհանները">
@@ -150,9 +153,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Պատմութեան կողային վահանակը">
 <!ENTITY appMenuHistory.hideSidebar.label "Թաքցնել պատմութեան կողմնասիւնը">
 <!ENTITY appMenuHistory.recentHistory.label "Վերջին պատմութիւնը">
+
 <!ENTITY appMenuHelp.label "Աւգնութիւն">
 
 <!ENTITY appMenuRemoteTabs.label "Համաժամեցուած ներդիրներ">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Չկան բաց ներդիրներ">

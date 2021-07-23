@@ -10,8 +10,10 @@ containers-window-new =
 containers-window-update =
     .title = { $name } պարունակի կարգաւորումներ
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -22,23 +24,30 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Անուն
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Մուտքագրեք պարունակի անունը
+
 containers-icon-label = Պատկերակ
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Գոյն
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = Արուած
     .accesskey = Ա
+
 containers-dialog =
     .buttonlabelaccept = Արուած
     .buttonaccesskeyaccept = Ա
+
 containers-color-blue =
     .label = Կապոյտ
 containers-color-turquoise =
@@ -57,6 +66,7 @@ containers-color-purple =
     .label = Մանուշակագոյն
 containers-color-toolbar =
     .label = Համապատասխան գործիքագաւտի
+
 containers-icon-fence =
     .label = Ցանկապատ
 containers-icon-fingerprint =

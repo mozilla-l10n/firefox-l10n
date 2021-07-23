@@ -5,18 +5,18 @@
 add-engine-window =
     .title = Աւելացրէք Որոնման ծրագիր
     .style = width: 32em;
+
 add-engine-button = Աւելացրէք հարմարեցուած համակարգ
+
 add-engine-name = Որոնման ծրագրի անունը
+
 add-engine-alias = Այլանուն
+
 add-engine-url = Ծրագրի URL, աւգտագործէք %s որոնման եզրոյթի փոխարէն
-add-engine-cancel =
-    .label = Չեղարկել
-    .accesskey = Չ
-add-engine-ok =
-    .label = Աւելացնել ծրագիր
-    .accesskey = Ա
+
 add-engine-dialog =
     .buttonlabelaccept = Աւելացնել ծրագիր
     .buttonaccesskeyaccept = Ա
+
 engine-name-exists = Նոյնանուն ծրագիր արդէն առկայ է
 engine-alias-exists = Նոյն այլանուամբ ծրագիր արդէն առկայ է

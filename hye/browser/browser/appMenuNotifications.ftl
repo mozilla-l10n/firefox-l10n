@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ոչ հիմա
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Արագ վերամեկնարկից յետոյ { -brand-shorter-name }-ը կվերականգնի բոլոր բաց ներդիրները եւ պատուհանները, որոնք Գաղտնի Դիտարկման կերպում չեն։
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Հասկանալի է
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Կառավարեք Ձեր հաւելումները սեղմելով <image data-l10n-name='addon-install-icon'></image><image data-l10n-name='addon-menu-icon'></image>ցանկին։
+
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } -ը հնարաւոր չէ ինքնաբար արդիացնել ամենավերջին տարբերակով:
     .buttonlabel = Ամէն դէպքում արդիացնել { -brand-shorter-name }
@@ -39,13 +44,11 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ոչ հիմա
     .secondarybuttonaccesskey = Ո
 appmenu-update-other-instance-message = { -brand-shorter-name }-ի նոր արդիացումը հասանելի է, բայց այն հնարաւոր չէ ներբեռնել, քանի որ գործարկուում  է { -brand-shorter-name }-ի մեկ այլ պատճէն: Փակէք այն արդիացումը շարունակելու համար կամ ամէն դէպքում ընտրէք արդիացումը (մեւս պատճէնը հնարաւոր է ճիշդ չաշխատի, քանի դեռ դուք չէք վերամեկնարկել այն):
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Հասկանալի է
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Կառավարեք Ձեր հաւելումները սեղմելով <image data-l10n-name='addon-install-icon'></image><image data-l10n-name='addon-menu-icon'></image>ցանկին։
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = Թոյղատրել այս ընդլայնմանը աշխատեցնել Գաղտնի պատուհանը
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = Ձեր նոր ներդիրը փոխուել է։
     .buttonlabel = Պահել փոփոխութիւնները
@@ -58,6 +61,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Անջատել ընդլայնումը
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = Ձեր նոր ներդիրը փոխուել է։
     .buttonlabel = Պահպանել փոփոխուփիւնները

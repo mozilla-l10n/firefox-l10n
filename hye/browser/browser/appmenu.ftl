@@ -23,6 +23,7 @@ appmenuitem-find-in-page =
     .label = Փնտրել էջում…
 appmenuitem-more-tools =
     .label = Յաւելեալ գործիքներ
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -34,6 +35,7 @@ appmenuitem-zoom-enlarge =
     .label = Խոշորացնել
 appmenuitem-zoom-reduce =
     .label = Փոքրացնել
+
 appmenuitem-fullscreen =
     .label = Լիեկրան
 
@@ -41,12 +43,14 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Համաժամեցնել հիմա
+
 appmenuitem-save-page =
     .label = Պահպանել էջը որպէս…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ինչն է նոր
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -59,35 +63,49 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Ցուցադրել առաւել շատ տեղեկոյթ
+
 profiler-popup-description-title =
     .value = Ձայնագրել, վերլուծել, կիսուել
+
 profiler-popup-description = Համագործակցէք կատարողականութեան բարձրացման շուրջ՝ հասանելի դարձնելով հաշիւները եւ կիսուելով ձեր խմբի հետ։
+
 profiler-popup-learn-more = Իմանալ աւելին
+
 profiler-popup-settings =
     .value = Կարգաւորումներ
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Խմբագրել կարգաւորումները…
+
 profiler-popup-disabled =
     Յատկագրողն անջատուած է, քանի որ, հաւանաբար, բացուած է 
     Գաղտնի դիտարկման պատուհան։
+
 profiler-popup-recording-screen = Գրանցում…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = յարմարեցուած
+
 profiler-popup-start-recording-button =
     .label = Սկսել գրանցումը
+
 profiler-popup-discard-button =
     .label = Անտեսել
+
 profiler-popup-capture-button =
     .label = Նկարահանել
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -100,6 +118,7 @@ appmenu-manage-history =
     .label = Կարավարէք պատմութիւնը
 appmenu-reopen-all-tabs = Վերաբացէք բոլոր ներդիրները
 appmenu-reopen-all-windows = Վերաբացէք բոլոր պատուհանները
+
 appmenu-restore-session =
     .label = Վերականգնել նախորդ աշխատաշրջանը
 appmenu-clear-history =
@@ -146,6 +165,7 @@ appmenu-customizetoolbar =
     .label = Յարմարեցնել գործեգաւտին…
 appmenu-taskmanager =
     .label = Առաջադրանքների ղեկաւար
+
 appmenu-developer-tools-subheader = Դիտարկչի գործիքներ
 appmenu-developer-tools-extensions =
     .label = Ընդլայնումներ մշակողների համար

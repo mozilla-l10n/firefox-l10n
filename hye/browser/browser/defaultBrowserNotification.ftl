@@ -7,3 +7,8 @@ default-browser-notification-message = <strong>Սահմանե՞լ { -brand-short
 default-browser-notification-button =
     .label = Սկզբնադիր
     .accesskey = Ս
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+

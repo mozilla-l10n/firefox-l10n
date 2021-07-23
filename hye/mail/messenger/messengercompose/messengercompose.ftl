@@ -41,3 +41,15 @@ pill-action-move-bcc =
     .label = Տեղափոխել Bcc
     .accesskey = B
 
+# Attachment widget
+
+# Reorder Attachment Panel
+
+# Addressing Area
+
+## Notifications
+
+## Editing
+
+# Tools
+
