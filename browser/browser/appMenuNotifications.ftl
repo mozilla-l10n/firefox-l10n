@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = ليس الآن
     .secondarybuttonaccesskey = ل
 appmenu-update-restart-message = بعد إعادة تشغيل سريعة سيستعيد { -brand-shorter-name } جميع ألسنتك و نوافذك المفتوحة التي ليست في وضع التصفح الخاص.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = حسنًا، فهمت
+    .buttonaccesskey = ح
+appmenu-addon-post-install-message = أدِر إضافاتك بنقر <image data-l10n-name='addon-install-icon'></image> في قائمة <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = يتوفّر تحديث
     .buttonlabel = نزّله
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = ليس الآن
     .secondarybuttonaccesskey = ل
 appmenu-update-other-instance-message = يتوفّر تحديث { -brand-shorter-name } جديد، لكن تعذّر تنصيبه بسبب تشغيل نسخة أخرى من { -brand-shorter-name }. أغلِق هذه النسخة لمتابعة التحديث، أو اختر التحديث على أية حال (قد لا تعمل النسخة الأخرى كما ينبغي حتّى تعيد تشغيلها).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = حسنًا، فهمت
-    .buttonaccesskey = ح
-appmenu-addon-post-install-message = أدِر إضافاتك بنقر <image data-l10n-name='addon-install-icon'></image> في قائمة <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = حسنا
     .buttonaccesskey = ح
-appmenu-addon-post-install-message2 = أدر الامتدادات والسمات لديك عبر قائمة التطبيق.
 appmenu-addon-post-install-message3 = أدِر الإضافات والسمات لديك عبر قائمة التطبيق.
 appmenu-addon-post-install-incognito-checkbox =
     .label = اسمح لهذا الامتداد بأن يعمل في النوافذ الخاصة
     .accesskey = س
+    
 appmenu-new-tab-controlled =
     .label = لقد تغيرت صفحة اللسان الجديد.
     .buttonlabel = أبقِ التغييرات
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = غ
     .secondarybuttonlabel = عطّل الامتداد
     .secondarybuttonaccesskey = ط
+
 appmenu-new-tab-controlled-changes =
     .label = تغيّرت صفحة اللسان الجديد.
     .buttonlabel = أبقِ التغييرات

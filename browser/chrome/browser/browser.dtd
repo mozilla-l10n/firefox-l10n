@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "افتح القائمة">
+
 <!ENTITY navbarOverflow.label                "المزيد من الأدوات…">
 
 <!-- Tab context menu -->
@@ -142,19 +143,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "ش">
 
 <!ENTITY historyMenu.label "التأريخ">
+
 <!ENTITY historyUndoMenu.label "الألسنة المُغلقة مؤخرًا">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "النوافذ المغلقة مؤخرًا">
 
 <!ENTITY appMenuHistory.showAll.label "أظهر كل التأريخ">
+
 <!ENTITY appMenuHistory.clearRecent.label "امسح التأريخ الحالي…">
 <!ENTITY appMenuHistory.restoreSession.label "استعد الجلسة السابقة">
 <!ENTITY appMenuHistory.viewSidebar.label "أظهر شريط التأريخ الجانبي">
 <!ENTITY appMenuHistory.hideSidebar.label "أخفِ شريط التأريخ الجانبي">
 <!ENTITY appMenuHistory.recentHistory.label "التأريخ القريب">
+
 <!ENTITY appMenuHelp.label "مساعدة">
 
 <!ENTITY appMenuRemoteTabs.label "الألسنة المُزامنة">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "لا ألسنة مفتوحة">

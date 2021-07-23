@@ -10,6 +10,7 @@
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = أتسمح لهذا الموقع بفتح رابط { $scheme }؟
+
 permission-dialog-description-app = أتسمح لهذا الموقع بفتح رابط { $scheme } في { $appName }؟
 
 ## Please keep the emphasis around the hostname and scheme (ie the
@@ -29,5 +30,6 @@ choose-app-btn =
     .label = اختر…
     .accessKey = خ
 choose-other-app-window-title = تطبيق آخر…
+
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = معطّل في النوافذ الخاصة

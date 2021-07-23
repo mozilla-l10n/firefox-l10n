@@ -129,6 +129,8 @@ security-site-data-only = نعم، بيانات مواقع بحجم { $value } {
 security-site-data-cookies-only = نعم، كعكات
 security-site-data-no = لا
 
+##
+
 image-size-unknown = غير معروف
 page-info-not-specified =
     .value = غير محدّد
