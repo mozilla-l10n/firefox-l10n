@@ -42,6 +42,14 @@
 
 ## Window controls
 
+## Tab actions
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+## Bookmarks toolbar items
+
 ## WebRTC Pop-up notifications
 
 ## WebRTC window or screen share tab switch warning
@@ -50,4 +58,36 @@
 
 
 ## URL Bar
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+## Full Screen and Pointer Lock UI
+
+
+## Subframe crash notification
+
+## Bookmarks panels, menus and toolbar
+
+## Library Panel items
+
+## Pocket toolbar button
+
+## Repair text encoding toolbar button
+
+## Customize Toolbar Buttons
+
+## More items
+
+## EME notification panel
+
+## Password save/update panel
+
+## Add-on removal warning
+
+## Remote / Synced tabs
 

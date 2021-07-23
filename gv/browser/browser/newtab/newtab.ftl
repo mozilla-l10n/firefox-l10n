@@ -21,6 +21,8 @@ newtab-page-title = Tab Noa
 
 ## Top Sites - Delete history confirmation dialog.
 
+## Top Sites - Sponsored label
+
 ## Context Menu - Action Tooltips.
 
 
@@ -70,4 +72,6 @@ newtab-page-title = Tab Noa
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
+
+## Customization Menu
 
