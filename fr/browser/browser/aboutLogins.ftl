@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Disponible sur Google Play
 login-app-promo-apple =
     .alt = Télécharger dans l’App Store
+
 login-filter =
     .placeholder = Rechercher des identifiants
+
 create-login-button = Créer un nouvel identifiant
+
 fxaccounts-sign-in-text = Accédez à vos mots de passe sur vos autres appareils
 fxaccounts-sign-in-button = Se connecter à { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Se connecter pour synchroniser
@@ -70,7 +73,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Vous recherchez vos identifiants enregistrés ? Configurez { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = Vous recherchez vos identifiants enregistrés ? Configurez { -sync-brand-short-name } ou importez-les.
+
 about-logins-login-intro-heading-logged-out2 = Vous cherchez vos identifiants enregistrés ? Activez la synchronisation ou importez-les.
 about-logins-login-intro-heading-logged-in = Aucun identifiant synchronisé trouvé.
 login-intro-description = Si vous avez enregistré vos identifiants dans { -brand-product-name } sur un autre appareil, voici comment y accéder ici :
@@ -81,6 +84,7 @@ login-intro-instructions-fxa = Connectez-vous ou créez un { -fxaccount-brand-na
 login-intro-instructions-fxa-settings = Allez dans Paramètres > Synchronisation > Activer la synchronisation… et sélectionnez la case Identifiants et mots de passe.
 login-intro-instructions-fxa-help = Pour obtenir de l’aide, visitez l’<a data-l10n-name="help-link">assistance de { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Si vos identifiants sont enregistrés dans un autre navigateur, vous pouvez <a data-l10n-name="import-link">les importer dans { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = Si vos identifiants de connexion et mots de passe sont enregistrés en dehors de { -brand-product-name }, vous pouvez <a data-l10n-name="import-browser-link">les importer depuis un autre navigateur</a> ou <a data-l10n-name="import-file-link">depuis un fichier</a>
 
 ## Login
@@ -122,11 +126,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Pour modifier votre identif
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifier l’identifiant enregistré
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pour afficher votre mot de passe, entrez vos informations de connexion Windows. Cela permet de conserver la sécurité de vos comptes.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = révéler le mot de passe enregistré
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pour copier votre mot de passe, entrez vos informations de connexion Windows. Cela contribue à protéger la sécurité de vos comptes.
 # This message can be seen when attempting to copy a password in about:logins
@@ -136,6 +142,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copier le mot de pass
 ## Master Password notification
 
 master-password-notification-message = Veuillez saisir votre mot de passe principal pour afficher les identifiants et mots de passe enregistrés.
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pour exporter vos identifiants, entrez vos informations de connexion Windows. Cela contribue à protéger la sécurité de vos comptes.
 # This message can be seen when attempting to export a password in about:logins
@@ -172,19 +179,23 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Annuler
 confirmation-dialog-dismiss-button =
     .title = Annuler
+
 about-logins-confirm-remove-dialog-title = Supprimer cet identifiant ?
 confirm-delete-dialog-message = Cette action est irréversible.
 about-logins-confirm-remove-dialog-confirm-button = Supprimer
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Supprimer
        *[other] Tout supprimer
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Oui, supprimer cet identifiant
        *[other] Oui, supprimer ces identifiants
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Supprimer { $count } identifiant ?
@@ -195,6 +206,7 @@ about-logins-confirm-remove-all-dialog-message =
         [1] Vous allez supprimer l’identifiant de connexion que vous avez enregistré dans { -brand-short-name } et toute alerte de fuite de données qui apparaît ici. Cette action est irréversible.
        *[other] Vous allez supprimer tous les identifiants de connexion que vous avez enregistrés dans { -brand-short-name } et toute alerte de fuite de données qui apparaît ici. Cette action est irréversible.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Supprimer cet identifiant de connexion de tous les appareils ?
@@ -205,11 +217,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Cette action supprimera l’identifiant enregistré pour { -brand-short-name } de tous vos appareils synchronisés à votre { -fxaccount-brand-name }. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
        *[other] Cette action supprimera tous les identifiants enregistrés pour { -brand-short-name } de tous vos appareils synchronisés à votre { -fxaccount-brand-name }. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
     }
+
 about-logins-confirm-export-dialog-title = Exporter les identifiants et les mots de passe
 about-logins-confirm-export-dialog-message = Vos mots de passe seront enregistrés sous forme de texte lisible (par exemple, « m0t2passeFaible ») ; ainsi toute personne pouvant ouvrir le fichier exporté pourra les consulter.
 about-logins-confirm-export-dialog-confirm-button = Exporter…
+
 about-logins-alert-import-title = Importation terminée
 about-logins-alert-import-message = Voir la liste détaillée des importations
+
 confirm-discard-changes-dialog-title = Ignorer les modifications non enregistrées ?
 confirm-discard-changes-dialog-message = Toutes les modifications non enregistrées seront perdues.
 confirm-discard-changes-dialog-confirm-button = Ignorer
@@ -240,8 +255,10 @@ about-logins-vulnerable-alert-learn-more-link = En savoir plus
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Un nom d’utilisateur ou d’utilisatrice pour { $loginTitle } existe déjà. <a data-l10n-name="duplicate-link">Accéder à l’entrée existante ?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Une erreur s’est produite en essayant d’enregistrer ce mot de passe.
+
 
 ## Login Export Dialog
 
@@ -288,10 +305,12 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Nouveaux identifiants ajoutés :</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Identifiants existants mis à jour :</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [1] <span>Identifiants en double trouvés :</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(non importé)</span>
@@ -303,6 +322,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Erreurs :</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(non importées)</span>
     }
 about-logins-import-dialog-done = Terminé
+
 about-logins-import-dialog-error-title = Erreur d’importation
 about-logins-import-dialog-error-conflicting-values-title = Plusieurs valeurs en conflit pour un seul identifiant
 about-logins-import-dialog-error-conflicting-values-description = Par exemple : plusieurs noms d’utilisateur, mots de passe, URL, etc. pour un seul identifiant.
@@ -314,11 +334,12 @@ about-logins-import-dialog-error-unable-to-read-title = Impossible d’analyser 
 about-logins-import-dialog-error-unable-to-read-description = Assurez-vous d’avoir sélectionné un fichier CSV ou TSV.
 about-logins-import-dialog-error-no-logins-imported = Aucun identifiant n’a été importé
 about-logins-import-dialog-error-learn-more = En savoir plus
-about-logins-import-dialog-error-try-again = Réessayer…
 about-logins-import-dialog-error-try-import-again = Réessayer d’importer…
 about-logins-import-dialog-error-cancel = Annuler
+
 about-logins-import-report-title = Résumé de l’importation
 about-logins-import-report-description = Identifiants et mots de passe importés dans { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

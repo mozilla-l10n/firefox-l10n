@@ -7,12 +7,11 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Supprimer le champ { $type }
-#   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Supprimer le champ { $type }
+
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Supprimer le champ { $type }
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -21,6 +20,7 @@ address-input-type-aria-label =
         [one] { $type } avec une adresse, utilisez la touche flèche gauche pour la sélectionner.
        *[other] { $type } avec { $count } adresses, utilisez la touche flèche gauche pour les sélectionner.
     }
+
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -28,22 +28,29 @@ pill-aria-label =
         [one] { $email } : appuyez sur Entrée pour modifier, ou Supprimer pour retirer.
        *[other] { $email }, 1 sur { $count } : appuyez sur Entrée pour modifier, ou Supprimer pour retirer.
     }
+
 #   $email (String) - the email address
 pill-tooltip-invalid-address = { $email } n’est pas une adresse électronique valide
+
 #   $email (String) - the email address
 pill-tooltip-not-in-address-book = { $email } ne figure pas dans votre carnet d’adresses
+
 pill-action-edit =
     .label = Modifier l’adresse
     .accesskey = M
+
 pill-action-move-to =
     .label = Déplacer vers Pour
     .accesskey = p
+
 pill-action-move-cc =
     .label = Déplacer vers Copie à
     .accesskey = c
+
 pill-action-move-bcc =
     .label = Déplacer vers Copie cachée à
     .accesskey = h
+
 pill-action-expand-list =
     .label = Développer la liste
     .accesskey = D
@@ -55,26 +62,33 @@ ctrl-cmd-shift-pretty-prefix =
         [macos] ⇧ ⌘{ " " }
        *[other] Ctrl+Maj+
     }
+
 trigger-attachment-picker-key = A
 toggle-attachment-pane-key = M
+
 menuitem-toggle-attachment-pane =
     .label = Panneau des pièces jointes
     .accesskey = n
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+
 toolbar-button-add-attachment =
     .label = Joindre
     .tooltiptext = Ajouter une pièce jointe ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+
 add-attachment-notification-reminder =
     .label = Ajouter une pièce jointe…
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+
 menuitem-attach-files =
     .label = Fichier(s)…
     .accesskey = F
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+
 context-menuitem-attach-files =
     .label = Joindre fichier(s)…
     .accesskey = f
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -83,6 +97,7 @@ attachment-bucket-count =
            *[other] { $count } pièces jointes
         }
     .accesskey = o
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
@@ -90,18 +105,23 @@ attachments-placeholder-tooltip =
             [1] { $count } pièce jointe
            *[other] { $count } pièces jointes
         }
+
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+
 expand-attachment-pane-tooltip =
     .tooltiptext = Afficher le volet des pièces jointes ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+
 collapse-attachment-pane-tooltip =
     .tooltiptext = Masquer le volet des pièces jointes ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+
 drop-file-label-attachment =
     { $count ->
         [one] Ajouter comme pièce jointe
        *[other] Ajouter comme pièces jointes
     }
+
 drop-file-label-inline =
     { $count ->
         [one] Ajouter au corps du message
@@ -118,6 +138,7 @@ move-attachment-right-panel-button =
     .label = Vers la droite
 move-attachment-last-panel-button =
     .label = En dernier
+
 button-return-receipt =
     .label = Accusé de réception
     .tooltiptext = Demander un accusé de réception pour ce message
@@ -126,39 +147,50 @@ button-return-receipt =
 
 to-compose-address-row-label =
     .value = Pour
+
 #   $key (String) - the shortcut key for this field
 to-compose-show-address-row-menuitem =
     .label = Champ { to-compose-address-row-label.value }
     .accesskey = p
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 to-compose-show-address-row-label =
     .value = { to-compose-address-row-label.value }
     .tooltiptext = Afficher le champ { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
+
 cc-compose-address-row-label =
     .value = Copie à
+
 #   $key (String) - the shortcut key for this field
 cc-compose-show-address-row-menuitem =
     .label = Champ { cc-compose-address-row-label.value }
     .accesskey = C
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
     .tooltiptext = Afficher le champ { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
+
 bcc-compose-address-row-label =
     .value = Copie cachée à
+
 #   $key (String) - the shortcut key for this field
 bcc-compose-show-address-row-menuitem =
     .label = Champ { bcc-compose-address-row-label.value }
     .accesskey = h
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Afficher le champ { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
+
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Les { $count } destinataires en « Pour » et « Copie à » verront les adresses des autres. Vous pouvez éviter de révéler les destinataires en utilisant plutôt « Copie cachée à ».
+
 many-public-recipients-bcc =
     .label = Utiliser plutôt la Copie cachée
     .accesskey = U
+
 many-public-recipients-ignore =
     .label = Garder les destinataires publics
     .accesskey = G
@@ -168,4 +200,10 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Une identité unique correspondant à l’adresse d’expédition n’a pas été trouvée. Le message sera envoyé en utilisant l’adresse d’expédition actuelle avec les paramètres de l’identité { $identity }.
+
 encrypted-bcc-warning = Lors de l’envoi d’un message chiffré, les destinataires en copie cachée ne sont pas complètement masqués. Tous les destinataires pourraient les identifier.
+
+## Editing
+
+# Tools
+

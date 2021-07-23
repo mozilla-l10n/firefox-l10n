@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "Nom à afficher :">
 <!ENTITY DisplayName.accesskey          "o">
 <!ENTITY preferDisplayName.label        "Toujours afficher le nom au-dessus de l’en-tête du message">
-<!ENTITY preferDisplayName.accesskey    "u">
 <!ENTITY preferDisplayName2.accesskey   "o">
 <!ENTITY NickName.label                 "Surnom :">
 <!ENTITY NickName.accesskey             "S">
@@ -46,8 +45,6 @@
 <!ENTITY PlainText.label                "Texte simple (sans HTML)">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Inconnu">
-<!ENTITY ScreenName.label               "Pseudo AIM :">
-<!ENTITY ScreenName.accesskey           "e">
 
 <!ENTITY chatName.label                 "Pseudo pour discussion :">
 

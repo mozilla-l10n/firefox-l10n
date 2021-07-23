@@ -5,12 +5,12 @@
 places-open =
     .label = Ouvrir
     .accesskey = O
-places-open-in-tab =
-    .label = Ouvrir dans un nouvel onglet
-    .accesskey = v
 places-open-tab =
     .label = Ouvrir dans un nouvel onglet
     .accesskey = g
+places-open-in-tab =
+    .label = Ouvrir dans un nouvel onglet
+    .accesskey = v
 places-open-all-bookmarks =
     .label = Ouvrir tous les marque-pages
     .accesskey = O
@@ -20,15 +20,10 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Ouvrir dans une nouvelle fenêtre
     .accesskey = f
-places-open-in-window =
-    .label = Ouvrir dans une nouvelle fenêtre
-    .accesskey = n
 places-open-private-window =
     .label = Ouvrir dans une nouvelle fenêtre privée
     .accesskey = v
-places-open-in-private-window =
-    .label = Ouvrir dans une nouvelle fenêtre privée
-    .accesskey = p
+
 places-new-bookmark =
     .label = Nouveau marque-page…
     .accesskey = g
@@ -41,6 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = Nouveau séparateur
     .accesskey = N
+
+places-open-in-window =
+    .label = Ouvrir dans une nouvelle fenêtre
+    .accesskey = n
+places-open-in-private-window =
+    .label = Ouvrir dans une nouvelle fenêtre privée
+    .accesskey = p
+
 places-add-bookmark =
     .label = Ajouter un marque-page…
     .accesskey = o
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = Ajouter un séparateur
     .accesskey = s
+
 places-view =
     .label = Trier
     .accesskey = T
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = par date et par site
     .accesskey = t
+
 places-history-search =
     .placeholder = Rechercher dans l’historique
 places-bookmarks-search =
     .placeholder = Rechercher dans les marque-pages
+
 places-delete-domain-data =
     .label = Oublier ce site
     .accesskey = b
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = Propriétés
     .accesskey = i
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Modifier le marque-page…
@@ -102,15 +109,18 @@ places-remove-folder =
            *[other] Supprimer les dossiers
         }
     .accesskey = m
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marque-pages gérés
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Sous-dossier
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Autres marque-pages
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -121,6 +131,7 @@ places-remove-bookmark =
            *[other] Supprimer les marque-pages
         }
     .accesskey = e
+
 places-manage-bookmarks =
     .label = Organiser les marque-pages
     .accesskey = m

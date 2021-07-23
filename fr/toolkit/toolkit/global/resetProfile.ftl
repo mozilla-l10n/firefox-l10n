@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Réparer { -brand-short-name }
+
 refresh-profile-dialog-title = Réparer { -brand-short-name } en rétablissant ses paramètres par défaut ?
 refresh-profile-dialog-button =
     .label = Réparer { -brand-short-name }

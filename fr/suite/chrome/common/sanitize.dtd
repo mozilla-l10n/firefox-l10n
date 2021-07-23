@@ -61,9 +61,9 @@
 <!ENTITY itemSessions.label               "Sessions d’identification">
 <!ENTITY itemSessions.accesskey           "S">
 
+<!ENTITY sanitizeButton.label            "Effacer mes traces maintenant">
 <!ENTITY itemSessionsS.accesskey          "u">
 
-<!ENTITY sanitizeButton.label            "Effacer mes traces maintenant">
 <!ENTITY itemSitePreferences.label        "Préférences de site">
 <!ENTITY itemSitePreferences.accesskey    "P">
 <!ENTITY itemSitePreferencesS.accesskey   "t">
