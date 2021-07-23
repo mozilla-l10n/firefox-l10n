@@ -28,19 +28,13 @@
 <!ENTITY  cursive.label                           "Cursiva:">
 <!ENTITY  cursive.accesskey                       "C">
 
-<!ENTITY  font.langGroup.latin1                   "Occidental">
-<!ENTITY  font.langGroup.latin2                   "Centroeuropeo">
 <!ENTITY  font.langGroup.japanese                 "Xaponés">
 <!ENTITY  font.langGroup.trad-chinese             "Chinés tradicional (Taiwán)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinés simplificado">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chinés tradicional (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreano">
 <!ENTITY  font.langGroup.cyrillic                 "Cirílico">
-<!ENTITY  font.langGroup.baltic                   "Báltico">
 <!ENTITY  font.langGroup.el                       "Grego">
-<!ENTITY  font.langGroup.turkish                  "Turco">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Definido polo usuario">
 <!ENTITY  font.langGroup.thai                     "Tailandés">
 <!ENTITY  font.langGroup.hebrew                   "Hebreo">
 <!ENTITY  font.langGroup.arabic                   "Árabe">

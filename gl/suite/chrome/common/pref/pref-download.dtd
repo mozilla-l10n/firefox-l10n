@@ -22,18 +22,9 @@
 <!ENTITY alwaysAsk.label                "Preguntar sempre onde gardar os ficheiros">
 <!ENTITY alwaysAsk.accesskey            "a">
 
-<!ENTITY downloadHistory.label          "Historial de descargas">
-<!ENTITY removeEntries.label            "Retirar as entradas de descargas">
-<!ENTITY removeEntries.accesskey        "R">
-<!ENTITY whenCompleted.label            "Cando rematen">
-<!ENTITY whenQuittingApp.label          "Ao saír do &brandShortName;">
-<!ENTITY neverRemove.label              "Nunca">
-
 <!ENTITY finishedBehavior.label         "Ao rematar unha descarga">
 <!ENTITY playSound.label                "Reproducir un son">
 <!ENTITY playSound.accesskey            "p">
-<!ENTITY showAlert.label                "Amosar un aviso">
-<!ENTITY showAlert.accesskey            "s">
 <!ENTITY browse.label                   "Examinar…">
 <!ENTITY browse.accesskey               "E">
 <!ENTITY playButton.label               "Reproducir">

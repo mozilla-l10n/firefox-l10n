@@ -19,9 +19,6 @@
 <!ENTITY uploadFile.label "Subir ficheiro…">
 <!ENTITY uploadFile.accesskey "f">
 
-<!ENTITY printSetupCmd.label "Configuración da páxina…">
-<!ENTITY printSetupCmd.accesskey "u">
-
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Localizar nesta páxina…">
 
@@ -122,17 +119,11 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Nunca se descargarán as imaxes deste sitio web.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Permitir xanelas emerxentes deste sitio web">
-<!ENTITY cookieAllowPopupsCmd.accesskey "a">
-<!ENTITY cookieManagePopups.label "Xestionar xanelas emerxentes">
-<!ENTITY cookieManagePopups.accesskey "m">
-
 <!ENTITY cookieCookieManager.label "Xestor de cookies">
 <!ENTITY cookieCookieManager.accesskey "c">
 <!ENTITY cookieImageManager.label "Xestor de imaxes">
 <!ENTITY cookieImageManager.accesskey "i">
-<!ENTITY cookiePopupManager.label "Xestor de xanelas emerxentes">
-<!ENTITY cookiePopupManager.accesskey "o">
 
 <!ENTITY clearPrivateDataCmd.label "Limpar datos privados…">
 <!ENTITY clearPrivateDataCmd.accesskey "L">
+

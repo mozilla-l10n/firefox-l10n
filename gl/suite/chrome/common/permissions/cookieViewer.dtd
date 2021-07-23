@@ -17,7 +17,6 @@
 
 <!ENTITY     search.placeholder             "Buscar nas cookies">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Nome:">
@@ -30,8 +29,6 @@
 <!ENTITY     treehead.sitename.label        "Sitio web">
 <!ENTITY     treehead.status.label          "Estado">
 <!ENTITY     windowtitle.label              "Xestor de cookies">
-<!ENTITY     buttonaccept.label             "Pechar">
-<!ENTITY     buttonaccept.accesskey         "c">
 
 <!ENTITY     blockSite.label                "Bloquear">
 <!ENTITY     blockSite.accesskey            "B">

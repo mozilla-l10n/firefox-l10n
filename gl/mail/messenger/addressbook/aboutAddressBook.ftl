@@ -8,10 +8,6 @@ about-addressbook-title = Axenda de enderezos
 
 about-addressbook-toolbar-new-address-book =
     .label = Nova axenda de enderezos
-about-addressbook-toolbar-new-carddav-address-book =
-    .label = Nova axenda de enderezos CardDAV
-about-addressbook-toolbar-new-ldap-address-book =
-    .label = Nova axenda de enderezos LDAP
 about-addressbook-toolbar-new-contact =
     .label = Novo contacto
 about-addressbook-toolbar-new-list =
@@ -20,6 +16,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Todas as axendas de enderezos
+
 about-addressbook-books-context-properties =
     .label = Propiedades
 about-addressbook-books-context-synchronize =
@@ -35,14 +32,17 @@ about-addressbook-search =
     .placeholder = Buscar { $name }
 about-addressbook-search-all =
     .placeholder = Busca en todas as axendas de enderezos
+
 about-addressbook-sort-button =
     .title = Alterar a orde da lista
+
 about-addressbook-name-format-display =
     .label = Amosar o nome
 about-addressbook-name-format-firstlast =
     .label = O primeiro de último
 about-addressbook-name-format-lastfirst =
     .label = Último, primeiro
+
 about-addressbook-sort-name-ascending =
     .label = Ordenar por nome (A > Z)
 about-addressbook-sort-name-descending =
@@ -57,6 +57,7 @@ about-addressbook-sort-email-descending =
 about-addressbook-begin-edit-contact-button = Modificar
 about-addressbook-cancel-edit-contact-button = Cancelar
 about-addressbook-save-edit-contact-button = Gardar
+
 about-addressbook-details-email-addresses-header = Enderezos de correo electrónico
 about-addressbook-details-phone-numbers-header = Números de teléfono
 about-addressbook-details-home-address-header = Enderezo particular

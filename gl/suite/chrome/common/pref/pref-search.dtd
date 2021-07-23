@@ -19,5 +19,3 @@
 <!ENTITY openInTab.accesskey              "n">
 <!ENTITY openContextSearchTab.label       "Abrir unha lapela no lugar dunha xanela para o menú contextual buscar na web">
 <!ENTITY openContextSearchTab.accesskey   "t">
-<!ENTITY openSidebarSearchPanel.label     "Abra a lapela Buscar na barra laterla cando realice unha busca">
-<!ENTITY openSidebarSearchPanel.accesskey "o">

@@ -4,7 +4,3 @@
 
 <!ENTITY applyTheme.label          "Aplicar tema">
 <!ENTITY applyTheme.accesskey      "A">
-<!ENTITY getNewThemesCmd.label     "Obter novos temas">
-<!ENTITY getNewThemesCmd.accesskey "O">
-<!ENTITY getPersonasCmd.label      "Obter Personas">
-<!ENTITY getPersonasCmd.accesskey  "P">

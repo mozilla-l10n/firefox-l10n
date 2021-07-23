@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para aforrar espazo no disco, non descargar:">
 <!ENTITY doNotDownloadNntp.label "Para aforrar espazo en disco, non descargar para uso sen conexión:">
 <!ENTITY doNotDownloadImap.label "Para aforrar espazo en disco, pode restrinxir, por antigüidade ou tamaño, a descarga de mensaxes do servidor e o gardado de copias locais para o uso sen conexión.">
-<!ENTITY allFoldersOffline.label "Manter as mensaxes desta conta neste computador">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "As mensaxes de máis de">
 <!ENTITY offlineNotDownload.accesskey "m">
 <!ENTITY autosyncNotDownload.label "Non descargar as mensaxes de máis de">
@@ -27,8 +25,6 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Eliminar todas excepto as máis recentes">
 <!ENTITY retentionKeepRecent.accesskey "E">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Eliminar sempre as mensaxes lidas (ignora as configuracións de antigüidade)">
 <!ENTITY retentionApplyToFlagged.label "Sempre manter as mensaxes sinaladas">
 <!ENTITY retentionApplyToFlagged.accesskey "S">
 <!ENTITY nntpRemoveMsgBody.label "Eliminar corpos das mensaxes de máis de">

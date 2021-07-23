@@ -5,14 +5,19 @@
 <!ENTITY pref.notifications.title         "Notificacións">
 <!ENTITY notifications.caption            "Notificacións">
 <!ENTITY newMessagesArrive.label          "Cando cheguen mensaxes novas:">
-<!ENTITY playSound.label                  "Reproducir un son">
-<!ENTITY playSound.accesskey              "p">
-<!ENTITY showAnimatedAlert.label          "Mostrar un aviso">
-<!ENTITY showAnimatedAlert.accesskey      "s">
+
+<!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
+     showAlertFor.label is associated with the checkbox to show the alert,
+     leading into a numerical field to enter a time in seconds, followed by
+     showAlertTimeEnd.label which in en-US is the unit of the value -->
+
 <!ENTITY showTrayIcon.label               "Mostrar unha icona na área de notificación">
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY bounceSystemDockIcon.label       "Animar a icona da áncora">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
+
+<!ENTITY playSound.label                  "Reproducir un son">
+<!ENTITY playSound.accesskey              "p">
 <!ENTITY playButton.label                 "Reproducir">
 <!ENTITY playButton.accesskey             "R">
 <!ENTITY systemsound.label                "Son do sistema para correo novo">

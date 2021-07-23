@@ -9,13 +9,17 @@ all-tabs-menu-undo-close-tabs =
             [one] Anular o peche da lapela
            *[other] Anular o peche das lapelas
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Buscar lapelas
+
 all-tabs-menu-new-user-context =
     .label = Nova lapela contedor
+
 all-tabs-menu-hidden-tabs =
     .label = Lapelas agochadas
+
 all-tabs-menu-manage-user-context =
     .label = Xestionar contedores
     .accesskey = o

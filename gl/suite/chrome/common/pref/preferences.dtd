@@ -5,18 +5,23 @@
 <!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "Preferencias">
 <!ENTITY categoryHeader "Categoría">
+
 <!ENTITY appear.label "Aparencia">
 <!ENTITY content.label "Contido">
 <!ENTITY fonts.label "Tipos de letra">
 <!ENTITY colors.label "Cores">
+<!ENTITY spellingPane.label  "Ortografía">
+
 <!ENTITY navigator.label "Navegador">
 <!ENTITY history.label "Historial">
 <!ENTITY languages.label "Idiomas">
 <!ENTITY applications.label "Aplicativos auxiliares">
 <!ENTITY locationBar.label "Barra de localización">
+<!ENTITY search.label "Buscar en Internet">
 <!ENTITY tabWindows.label "Navegación con lapelas">
 <!ENTITY links.label "Comportamento das ligazóns">
-<!ENTITY offline.label "Sen conexión">
+<!ENTITY download.label "Descargas">
+
 <!ENTITY security.label "Privacidade &amp; Seguranza">
 <!ENTITY privatedata.label "Datos privados">
 <!ENTITY cookies.label "Cookies">
@@ -24,24 +29,19 @@
 <!ENTITY popups.label "Xanelas emerxentes">
 <!ENTITY passwords.label "Contrasinais">
 <!ENTITY masterpass.label "Contrasinais principais">
-<!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certificados">
-<!ENTITY validation.label "Validación">
+
 <!ENTITY sync.label "Sync">
+
 <!ENTITY advance.label "Opcións avanzadas">
-<!ENTITY down.label "Descargar">
+<!ENTITY scriptsAndWindows.label "Scripts e engadidos">
+<!ENTITY keynav.label "Navegación con teclado">
+<!ENTITY findAsYouType.label "Atopar mentres escribe">
 <!ENTITY cache.label "Caché">
 <!ENTITY offlineApps.label "Aplicativos sen conexión">
 <!ENTITY proxies.label "Proxy">
 <!ENTITY httpnetworking.label "HTTP">
 <!ENTITY smart.label "Instalación de software">
-<!ENTITY download.label "Descargas">
-<!ENTITY keynav.label "Navegación con teclado">
-<!ENTITY findAsYouType.label "Atopar mentres escribe">
-<!ENTITY search.label "Buscar en Internet">
-<!ENTITY policies.label "Política de seguridade">
 <!ENTITY mousewheel.label "Roda do rato">
-<!ENTITY scriptsAndWindows.label "Scripts e engadidos">
-<!ENTITY spellingPane.label  "Ortografía">
 
 <!ENTITY focusSearch.key "f">

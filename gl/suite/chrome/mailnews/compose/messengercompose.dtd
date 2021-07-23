@@ -45,6 +45,7 @@
 <!ENTITY editRewrapCmd.label "Reaxustar">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "R">
+
 <!ENTITY accountManagerCmd.label "Configuración de contas de correo e novas…">
 <!ENTITY accountManagerCmd.accesskey "C">
 

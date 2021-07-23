@@ -31,7 +31,6 @@
 <!ENTITY  generalReferrer       "URL referente:">
 <!ENTITY  generalSource         "Orixe da caché:">
 <!ENTITY  generalModified       "Modificada:">
-<!ENTITY  generalEncoding       "Codificación:">
 <!ENTITY  generalMetaName       "Nome">
 <!ENTITY  generalMetaContent    "Contido">
 <!ENTITY  generalSecurityDetails           "Detalles">
@@ -60,16 +59,11 @@
 
 <!ENTITY  mediaTab              "Multimedia">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaURL              "Enderezo:">
-<!ENTITY  mediaAlt              "Texto alternativo:">
 <!ENTITY  mediaAltHeader        "Texto alternativo">
 <!ENTITY  mediaAddress          "Enderezo">
 <!ENTITY  mediaType             "Tipo">
 <!ENTITY  mediaSize             "Tamaño">
 <!ENTITY  mediaCount            "Contar">
-<!ENTITY  mediaDimensions       "Dimensións especificadas:">
-<!ENTITY  mediaPhysDimensions   "Dimensións reais:">
-<!ENTITY  mediaTitle            "Título:">
 <!ENTITY  mediaLongdesc         "Descrición longa:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Gardar como…">
@@ -84,17 +78,7 @@
 
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Usar predefinido">
-<!ENTITY  permAskAlways         "Preguntar sempre">
-<!ENTITY  permAllow             "Permitir">
-<!ENTITY  permAllowSession      "Permitir nesta sesión">
-<!ENTITY  permBlock             "Bloquear">
 <!ENTITY  permissionsFor        "Permisos para:">
-<!ENTITY  permImage             "Cargar imaxes">
-<!ENTITY  permPopup             "Abrir xanelas emerxentes">
-<!ENTITY  permCookie            "Estabelecer cookies">
-<!ENTITY  permInstall           "Instalar extensións ou temas">
-<!ENTITY  permGeo               "Compartir localización">
 
 <!ENTITY  securityTab           "Seguranza">
 <!ENTITY  securityTab.accesskey "S">

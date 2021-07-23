@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Propiedades">
 
 <!ENTITY generalInfo.label                       "Información xeral">
-<!ENTITY folderCharsetTab.label                  "Codificación de caracteres predeterminada:">
-<!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Aplicar os valores predefinidos a todas as mensaxes do cartafol (ignoraranse as definicións individuais e a detección automática de codificación de caracteres das mensaxes)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruír índice do ficheiro resumo">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar o cartafol">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
@@ -30,8 +26,6 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "As últimas">
 <!ENTITY retentionKeepRecent.accesskey "A">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Eliminar sempre as mensaxes lidas (ignora as configuracións de antigüidade)">
 <!ENTITY retentionApplyToFlagged.label "Sempre manter as mensaxes sinaladas">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
@@ -61,7 +55,6 @@
 <!ENTITY folderType.label                        "Tipo de cartafol:">
 
 <!ENTITY folderQuotaTab.label                    "Cota">
-<!ENTITY folderQuotaRoot.label                   "Raíz da cota:">
 <!ENTITY folderQuotaUsage.label                  "Uso:">
 <!ENTITY folderQuotaStatus.label                 "Estado:">
 

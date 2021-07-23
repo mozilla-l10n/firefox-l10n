@@ -15,11 +15,10 @@
 <!-- These are added to Preferences dialog -->
 <!ENTITY viewingMessages.label            "Visualización da mensaxe">
 <!ENTITY notifications.label              "Notificacións">
-<!ENTITY address.label                    "Enderezos">
 <!ENTITY composingMessages.label          "Redacción">
 <!ENTITY format.label                     "Formato de envío">
-<!ENTITY return.label                     "Avisos de recepción">
+<!ENTITY address.label                    "Enderezos">
 <!ENTITY junk.label                       "Correo lixo e sospeitoso">
 <!ENTITY tags.label                       "Etiquetas">
-<!ENTITY characterEncoding.label          "Codificación de caracteres">
+<!ENTITY return.label                     "Avisos de recepción">
 <!ENTITY networkStorage.label             "Rede e espazo no disco">

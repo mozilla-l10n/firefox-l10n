@@ -42,6 +42,7 @@ compatibility-issue-occurrences =
         [one] { $number } ocorrencia
        *[other] { $number } ocorrencias
     }
+
 compatibility-no-issues-found = Non se atoparon problemas de compatibilidade.
 compatibility-close-settings-button =
     .title = Pechar configuración

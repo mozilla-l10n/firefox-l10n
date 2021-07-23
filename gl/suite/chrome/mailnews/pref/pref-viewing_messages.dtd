@@ -27,13 +27,6 @@
 <!ENTITY generalMessageDisplay.caption    "Xeral">
 <!ENTITY autoMarkAsRead.label             "Marcar as mensaxes como lidas automaticamente">
 <!ENTITY autoMarkAsRead.accesskey         "a">
-<!ENTITY markAsReadNoDelay.label          "Inmediatamente ao mostralas">
-<!ENTITY markAsReadNoDelay.accesskey      "m">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Despois de mostralas durante">
-<!ENTITY markAsReadDelay.accesskey        "t">
 <!ENTITY secondsLabel.label               "segundos">
 
 <!ENTITY openingMessages.label            "Ao arquivar mensaxes, gardalas en:">

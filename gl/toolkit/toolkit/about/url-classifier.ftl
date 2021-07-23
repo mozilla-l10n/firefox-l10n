@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Módulos de rexistro da navegación segura
 url-classifier-debug-modules = Módulos actuais do rexistro
 url-classifier-debug-sbjs-modules = Rexistro JS da navegación segura
 url-classifier-debug-file = Ficheiro actual do rexistro
+
 url-classifier-trigger-update = Accionar actualización
 url-classifier-not-available = N/D
 url-classifier-disable-sbjs-log = Desactivar o rexistro JS da navegación segura

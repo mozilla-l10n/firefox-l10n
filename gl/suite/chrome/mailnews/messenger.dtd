@@ -15,6 +15,8 @@
 
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- menu items: the . means that the menu item isn't implemented yet -->
+
 <!-- File menu items -->
 <!ENTITY newMessage.label "Nova mensaxe">
 <!ENTITY newMessage.accesskey "N">
@@ -47,7 +49,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "R">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Todas as contas">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
-<!ENTITY getAllNewMsgCmd.label "Recibir todas as mensaxes novas">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Obter as seguintes 500 mensaxes">
 <!ENTITY getNextNMsgCmd.accesskey "t">
@@ -402,6 +403,7 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Obter mensaxes">
+<!ENTITY getAllNewMsgCmd.label "Recibir todas as mensaxes novas">
 <!ENTITY newMsgButton.label "Redactar">
 <!ENTITY newHTMLMessageCmd.label "Redactar en HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
@@ -441,7 +443,6 @@
 <!ENTITY undeleteButton.tooltip "Desfai a eliminación da mensaxe seleccionada">
 <!ENTITY markButton.tooltip "Marcar mensaxes">
 <!ENTITY stopButton.tooltip "Deter a transferencia actual">
-<!ENTITY throbber.tooltip "Ir á páxina de inicio de &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marcar as mensaxes seleccionadas como correo lixo">
 <!ENTITY notJunkButton.tooltip "Marcar as mensaxes seleccionadas como correo normal">
 
@@ -530,21 +531,3 @@
 <!ENTITY all.label "Todos">
 <!ENTITY all.accesskey "T">
 
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; identificou esta mensaxe como correo non desexado.">
-<!ENTITY junkBarButton.label "Isto non é correo non desexado">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "Para protexer a súa privacidade, &brandShortName; bloqueou o contido remoto.">
-<!ENTITY loadRemoteContentButton.label "Amosar contido remoto">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; identificou esta mensaxe como posíbel correo electrónico fraudulento.">
-<!ENTITY removePhishingBarButton.label "Non é correo fraudulento">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton.label "Ignorar pedido">
-<!ENTITY mdnBarIgnoreButton.accesskey "I">
-<!ENTITY mdnBarSendButton.label "Enviar pedido">
-<!ENTITY mdnBarSendButton.accesskey "d">

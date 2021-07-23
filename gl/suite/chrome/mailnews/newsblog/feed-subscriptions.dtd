@@ -4,14 +4,15 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Subscricións a fontes">
-<!ENTITY subscriptionDesc.label "Nota: Se elimina ou modifica o cartafol dunha fonte non se verán afectados os artigos anteriormente descargados.">
 
 <!ENTITY feedTitle.label "Título:">
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "URL da fonte:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Introduza o URL correcto da fonte a engadir">
+
+<!ENTITY locationValidate.label      "Validar">
+<!ENTITY validateText.label          "Comprobar validación e recuperar un URL correcto.">
 
 <!ENTITY feedFolder.label            "Gardar artigos en:">
 <!ENTITY feedFolder.accesskey        "s">
@@ -19,13 +20,8 @@
 <!ENTITY quickMode.label             "Mostra o resumo do artigo en vez de cargar a páxina web">
 <!ENTITY quickMode.accesskey         "g">
 
-<!ENTITY locationValidate.label      "Validar">
-<!ENTITY validateText.label          "Comprobar validación e recuperar un URL correcto.">
-
 <!ENTITY button.addFeed.label       "Engadir">
 <!ENTITY button.addFeed.accesskey   "a">
-<!ENTITY button.editFeed.label      "Actualizar">
-<!ENTITY button.editFeed.accesskey  "u">
 <!ENTITY button.removeFeed.label "Retirar">
 <!ENTITY button.removeFeed.accesskey   "r">
 <!ENTITY button.importOPML.label "Importar">

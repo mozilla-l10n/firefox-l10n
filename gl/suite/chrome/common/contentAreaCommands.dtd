@@ -7,6 +7,7 @@
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Permitir xanelas emerxentes deste sitio web">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
+
 <!ENTITY openLinkCmdInTab.label       "Abrir a ligazón nunha nova lapela">
 <!ENTITY openLinkCmdInTab.accesskey   "h">
 
@@ -135,3 +136,4 @@
 <!ENTITY spellDictionaries.accesskey    "I">
 <!ENTITY spellAddDictionaries.label     "Descargar máis dicionarios">
 <!ENTITY spellAddDictionaries.accesskey "D">
+

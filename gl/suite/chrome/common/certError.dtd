@@ -9,10 +9,6 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.pagetitle  "Conexión non fiábel">
 <!ENTITY certerror.longpagetitle "Esta conexión non é fiábel">
 
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara1 "Vostede solicitou que &brandShortName; se conecte de forma segura a <b>#1</b>, pero non é posíbel confirmar que a súa conexión é segura.">
 <!ENTITY certerror.introPara2 "Normalmente, cando tenta conectarse de maneira segura,
 os sitios web presentarán unha identificación de confianza para demostrar que
 o sitio é correcto. Porén, a identidade deste sitio web non se pode verificar.">
@@ -32,3 +28,4 @@ está interferindo na súa conexión.</b>">
 <!ENTITY certerror.addException.label "Engadir excepción…">
 
 <!ENTITY certerror.technical.heading "Detalles técnicos">
+
