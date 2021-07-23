@@ -47,6 +47,8 @@ permissions-invalid-uri-label = Nghenisa vito ra ntiyiso ro amukela
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = U nga boxa masayiti ya web lama faneleke ku pfula mafasitere ya pop up. Thayipa adirese leyi nga fanela ya sayiti leri u ri lavaka ku ri pfumelela ivi u tshikelela Pfumelela.
