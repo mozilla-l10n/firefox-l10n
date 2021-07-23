@@ -4,6 +4,7 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
+
 # Description of the import module
 thunderbird-import-description = Внасяне на поща от папка с профил на Thunderbird.
-import-select-profile-dir = Изберете папка на профила
+

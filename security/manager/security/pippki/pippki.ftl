@@ -8,6 +8,7 @@ password-quality-meter = Качество на паролата
 
 change-password-window =
     .title = Промяна на главната парола
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Устройство по безопасността: { $tokenName }
@@ -29,6 +30,7 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Нулиране
 reset-password-text = Ако нулирате главната парола, всичките съхранени пароли за сайтове и е-поща, данни за формуляри, лични сертификати и персонални ключове ще бъдат загубени. Сигурни ли сте, че искате да нулирате главната парола?
+
 pippki-reset-password-confirmation-title = Нулиране на главна парола
 pippki-reset-password-confirmation-message = Главната парола е нулирана.
 

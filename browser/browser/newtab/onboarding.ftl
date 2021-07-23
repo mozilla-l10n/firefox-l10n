@@ -33,16 +33,19 @@ onboarding-welcome-modal-supercharge-body = Презаредете защита�
 onboarding-welcome-modal-privacy-body = Разполагате с четеца. Нека подобрим поверителността.
 onboarding-welcome-modal-family-learn-more = Научете повече за семейството от продукти на { -brand-product-name }.
 onboarding-welcome-form-header = Започнете оттук
+
 onboarding-join-form-body = За начало въведете адреса на своята ел. поща.
 onboarding-join-form-email =
     .placeholder = Въведете електронен адрес
 onboarding-join-form-email-error = Необходим е валиден адрес на ел. поща
 onboarding-join-form-legal = Продължавайки, вие се съгласявате с <a data-l10n-name="terms">условията на услугата</a> и <a data-l10n-name="privacy">политиката за лични данни</a>.
 onboarding-join-form-continue = Продължаване
+
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Имате профил?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Впишете се
+
 onboarding-start-browsing-button-label = Започнете да разглеждате
 onboarding-cards-dismiss =
     .title = Прекратяване
@@ -59,8 +62,10 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Вземете { -brand-product-name } с вас
 onboarding-sync-welcome-content = Вземете своите отметки, история, пароли и всички други настройки на всички ваши устройства.
 onboarding-sync-welcome-learn-more-link = Научете повече за Firefox Accounts
+
 onboarding-sync-form-input =
     .placeholder = адрес на електронна поща
+
 onboarding-sync-form-continue-button = Продължаване
 onboarding-sync-form-skip-login-button = Пропускане
 
@@ -69,22 +74,28 @@ onboarding-sync-form-skip-login-button = Пропускане
 onboarding-sync-form-header = Въведете своята ел. поща,
 onboarding-sync-form-sub-header = за да продължите към { -sync-brand-name }
 
+
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
 onboarding-benefit-products-text = Вършете нещата до край с набор от инструменти, които зачитат поверителността на личната ви информация.
+
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Всичко, което правим зачита нашето обещание за личните данни: Взимаме по-малко, Пазим го зорко. Без тайни.
+
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Вземете вашите отметки, пароли, история и всичко друго навсякъде, където използвате { -brand-product-name }.
+
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Бъдете информирани, когато личните ви данни са изтекли неправомерно в интернет.
+
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Управлявайте пароли, които са защитени и преносими.
+
 
 ## These strings belong to the individual onboarding messages.
 
@@ -96,41 +107,53 @@ onboarding-benefit-lockwise-text = Управлявайте пароли, кои
 onboarding-tracking-protection-title2 = Защита от проследяване
 onboarding-tracking-protection-text2 = { -brand-short-name } помага да спрете уебсайтовете да ви следят онлайн, като затруднява и рекламите да ви досаждат в мрежата.
 onboarding-tracking-protection-button2 = Как работи
+
 onboarding-data-sync-title = Вземете своите настройки със себе си
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Синхронизирайте своите отметки, пароли и други навсякъде, където използвате { -brand-product-name }.
 onboarding-data-sync-button2 = Вписване в { -sync-brand-short-name }
+
 onboarding-firefox-monitor-title = Бъдете уведомени при пробив на данни
 onboarding-firefox-monitor-button = Регистриране за сигнали
+
 onboarding-browse-privately-title = Разглеждайте поверително
 onboarding-browse-privately-button = Отваряне на поверителен прозорец
+
 onboarding-firefox-send-title = Дръжте споделените си файлове лични
 onboarding-firefox-send-text2 = Качете файловете си в { -send-brand-name }, за да ги споделите с шифроване от край до край и препратка, която изтича автоматично.
 onboarding-firefox-send-button = Опитайте { -send-brand-name }
+
 onboarding-mobile-phone-title = Изтеглете { -brand-product-name } на телефона си
 onboarding-mobile-phone-text = Изтеглете { -brand-product-name } за iOS или Android и синхронизирайте данни между устройствата си.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Изтеглете мобилен четец
+
 onboarding-send-tabs-title = Незабавно си изпращайте раздели
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text2 = Лесно споделяйте страници между устройствата си, без да се налага да копирате препратки или да напускате четеца.
 onboarding-send-tabs-button = Започнете да изпращате раздели
+
 onboarding-pocket-anywhere-title = Четете и слушайте навсякъде
 onboarding-pocket-anywhere-button = Опитайте { -pocket-brand-name }
+
 onboarding-lockwise-strong-passwords-title = Създавайте и съхранявайте силни пароли
 onboarding-lockwise-strong-passwords-button = Управление на регистрации
+
 onboarding-facebook-container-title = Сложете ограда на Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } държи профила ви отделен от всичко останало, което затруднява Facebook да ви показва целеви реклами.
 onboarding-facebook-container-button = Добавяне на разширението
+
 onboarding-import-browser-settings-title = Внесете вашите отметки, пароли и др.
 onboarding-import-browser-settings-button = Внасяне на данни от Chrome
+
 onboarding-personal-data-promise-button = Прочетете нашето обещание
 
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Страхотно е че имате { -brand-short-name }
+
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:
@@ -157,25 +180,31 @@ return-to-amo-add-extension-label = Добавяне на разширениет
 onboarding-multistage-welcome-header = Добре дошли при <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-secondary-button-label = Вход
 onboarding-multistage-welcome-secondary-button-text = Имате сметка?
+
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = Изберете { -brand-short-name } за <span data-l10n-name="zap">основен</span>
 onboarding-multistage-set-default-subtitle = Скорост, безопасност и сигурност всеки път когато разглеждате.
 onboarding-multistage-set-default-primary-button-label = Задаване като стандартен
 onboarding-multistage-set-default-secondary-button-label = Не сега
+
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Така ще закачите { -brand-short-name } към лентата със задачи и ще се отворят настройките
 onboarding-multistage-pin-default-primary-button-label = Избиране на { -brand-short-name } за основен четец
+
 onboarding-multistage-import-primary-button-label = Внасяне
 onboarding-multistage-import-secondary-button-label = Не сега
+
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Изберете <span data-l10n-name="zap">външен вид</span>
 onboarding-multistage-theme-subtitle = Приспособете { -brand-short-name } с тема.
 onboarding-multistage-theme-primary-button-label2 = Готово
 onboarding-multistage-theme-secondary-button-label = Не сега
+
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Автоматично
+
 onboarding-multistage-theme-label-light = Светла
 onboarding-multistage-theme-label-dark = Тъмна
 
@@ -197,11 +226,13 @@ onboarding-multistage-theme-label-dark = Тъмна
 mr1-welcome-screen-hero-text =
     Жегата започва
     тук
+
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Сорая Осорио - дизайнер на мебели, почитателка на Firefox
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Изключване на анимации
 
@@ -227,9 +258,11 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Въведение
+
 mr1-onboarding-welcome-header = Добре дошли при { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Избиране на { -brand-short-name } за основен четец
     .title = Задава { -brand-short-name } за четец по подразбиране и го закача към лентата със задачи
+
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Избиране на { -brand-short-name } за стандартен четец
@@ -247,19 +280,24 @@ mr1-onboarding-default-primary-button-label = Избиране като стан
 
 mr1-onboarding-import-header = Вземете всичко със себе си
 mr1-onboarding-import-subtitle = Внесете паролите си,<br/>отметките си и други.
+
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Внасяне от { $previous }
+
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Внасяне от предишен четец
 mr1-onboarding-import-secondary-button-label = Не сега
+
 mr1-onboarding-theme-header = По свой вкус
 mr1-onboarding-theme-subtitle = Приспособете { -brand-short-name } с тема.
 mr1-onboarding-theme-primary-button-label = Запазване на тема
 mr1-onboarding-theme-secondary-button-label = Не сега
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Системна тема
+
 mr1-onboarding-theme-label-light = Светла
 mr1-onboarding-theme-label-dark = Тъмна
 # "Alpenglow" here is the name of the theme, and should be kept in English.

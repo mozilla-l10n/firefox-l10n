@@ -5,6 +5,7 @@
 screenshots-context-menu = Снимка на екрана
 
 screenshots-my-shots-button = Моите снимки
+
 screenshots-instructions = За да изберете участък влачете или щракнете с мишката в страницата. Натиснете ESC за отказ.
 screenshots-cancel-button = Отказ
 screenshots-save-visible-button = Запазване на видимата област

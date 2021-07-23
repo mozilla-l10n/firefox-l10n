@@ -143,6 +143,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "П">
 
 <!ENTITY historyMenu.label "История">
+
 <!ENTITY historyUndoMenu.label "Последно затворени раздели">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Последно затворени прозорци">
@@ -154,6 +155,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Странична лента с история">
 <!ENTITY appMenuHistory.hideSidebar.label "Скриване на лентата с история">
 <!ENTITY appMenuHistory.recentHistory.label "Скорошна история">
+
 <!ENTITY appMenuHelp.label "Помощ">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизирани раздели">

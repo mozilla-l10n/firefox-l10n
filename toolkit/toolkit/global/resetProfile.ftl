@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Освежаване на { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Освежаване на { -brand-short-name }
 refresh-profile-description = Започнете начисто, за да отстраните неизправности и да върнете бързодействието.

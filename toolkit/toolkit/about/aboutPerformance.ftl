@@ -54,6 +54,7 @@ close-tab =
     .title = Затваряне на раздела
 show-addon =
     .title = Покажи управлението на добавки
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

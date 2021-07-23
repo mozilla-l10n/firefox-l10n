@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = Налично е издание – изтеглете
     .label-update-unsupported = Налично е издание – несъвместима система
     .label-update-restart = Налично е издание – рестартирайте
+
 appmenuitem-protection-dashboard-title = Табло със защити
 appmenuitem-customize-mode =
     .label = Приспособяване…
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Затваря менюто на приложението
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = Увеличаване
 appmenuitem-zoom-reduce =
     .label = Намаляване
+
 appmenuitem-fullscreen =
     .label = Цял екран
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронизиране
+
 appmenu-remote-tabs-sign-into-sync =
     .label = Вписване в Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Включване на Sync…
+
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизиране
 appmenuitem-fxa-manage-account = Управление на сметка
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = Вход
 appmenu-fxa-setup-sync =
     .label = Включване синхронизиране
 appmenu-fxa-show-more-tabs = Показване на повече раздели
+
 appmenuitem-save-page =
     .label = Запазване като…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Какво е новото
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,33 +103,47 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Показване на повече информация
+
 profiler-popup-description-title =
     .value = Записвайте, анализирайте, споделяйте
+
 profiler-popup-description = Сътрудничете си по проблеми с производителността, като публикувате профили, които да споделяте с екипа си.
+
 profiler-popup-learn-more = Научете повече
+
 profiler-popup-settings =
     .value = Настройки
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Промяна на настройки…
+
 profiler-popup-disabled = В момента профилаторът е изключен, най-вероятно защото има отворен прозорец за поверително разглеждане.
+
 profiler-popup-recording-screen = Записване…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = По избор
+
 profiler-popup-start-recording-button =
     .label = Начало на запис
+
 profiler-popup-discard-button =
     .label = Отхвърляне
+
 profiler-popup-capture-button =
     .label = Прехващане
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -135,6 +156,7 @@ appmenu-manage-history =
     .label = Управление на история
 appmenu-reopen-all-tabs = Възстановяване на всички раздели
 appmenu-reopen-all-windows = Възстановяване на всички прозорци
+
 appmenu-restore-session =
     .label = Възстановяване на предишна сесия
 appmenu-clear-history =
@@ -190,6 +212,7 @@ appmenu-customizetoolbar =
     .label = Настройки на лентата с инструменти…
 appmenu-taskmanager =
     .label = Диспечер на задачи
+
 appmenu-developer-tools-subheader = Инструменти за четеца
 appmenu-developer-tools-extensions =
     .label = Разширения за разработчици
