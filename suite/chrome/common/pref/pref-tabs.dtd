@@ -14,12 +14,6 @@
 <!ENTITY relatedAfterCurrent.label "Avaa linkistä avatut välilehdet nykyisen välilehden viereen">
 <!ENTITY relatedAfterCurrent.accesskey "n">
 
-<!ENTITY loadGroup.label "Kirjanmerkkiryhmää avattaessa">
-<!ENTITY loadGroupAppend.label "Käytä uusia välilehtiä">
-<!ENTITY loadGroupAppend.accesskey "u">
-<!ENTITY loadGroupReplace.label "Käytä vanhoja välilehtiä">
-<!ENTITY loadGroupReplace.accesskey "y">
-
 <!ENTITY openTabs.label "Avaa välilehti ikkunan sijaan">
 
 <!ENTITY middleClick.label "Keskinapsautus, Ctrl+napsautus tai Ctrl+Enter verkkosivujen linkeissä">

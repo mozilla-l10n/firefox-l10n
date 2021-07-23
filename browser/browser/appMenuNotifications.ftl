@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ei nyt
     .secondarybuttonaccesskey = E
 appmenu-update-restart-message = Nopean uudelleenkäynnistyksen jälkeen { -brand-shorter-name } palauttaa kaikki välilehdet ja ikkunat, jotka eivät olleet yksityisen selauksen tilassa.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Selvä
+    .buttonaccesskey = S
+appmenu-addon-post-install-message = Voit hallita lisäosia avaamalla <image data-l10n-name='addon-menu-icon'></image>-valikon ja napsauttamalla <image data-l10n-name='addon-install-icon'></image>-kuvaketta.
+
 appmenu-update-available2 =
     .label = Päivitys saatavilla
     .buttonlabel = Lataa
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ei nyt
     .secondarybuttonaccesskey = E
 appmenu-update-other-instance-message = Uusi { -brand-shorter-name }-päivitys on saatavilla, mutta sitä ei voida asentaa, koska toinen { -brand-shorter-name }-kopio on käynnissä. Sulje se ennen päivittämistä tai valitse, että päivitetään silti (jolloin toinen kopio ei välttämättä toimi oikein ennen uudelleenkäynnistystä).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Selvä
-    .buttonaccesskey = S
-appmenu-addon-post-install-message = Voit hallita lisäosia avaamalla <image data-l10n-name='addon-menu-icon'></image>-valikon ja napsauttamalla <image data-l10n-name='addon-install-icon'></image>-kuvaketta.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Hallitse omia laajennuksia ja teemoja sovellusvalikosta.
 appmenu-addon-post-install-message3 = Hallitse omia lisäosia ja teemoja sovellusvalikosta.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Salli laajennuksen suoritus yksityisissä ikkunoissa
     .accesskey = a
+    
 appmenu-new-tab-controlled =
     .label = Uusi välilehti -sivu on vaihtunut.
     .buttonlabel = Säilytä muutokset
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = S
     .secondarybuttonlabel = Estä laajennus
     .secondarybuttonaccesskey = E
+
 appmenu-new-tab-controlled-changes =
     .label = Uusi välilehti -sivu on vaihtunut.
     .buttonlabel = Säilytä muutokset

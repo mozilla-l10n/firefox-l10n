@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = s
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Oletus ({ $name })
 fonts-label-default-unnamed =
     .label = Oletus
+
 fonts-encoding-dialog-title =
     .title = Kirjasinlajit ja merkistökoodaukset
+
 fonts-language-legend =
     .value = Merkistö:
     .accesskey = M
+
 fonts-proportional-label =
     .value = Suhteellinen:
     .accesskey = S
@@ -85,38 +89,49 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Pääteviivallinen
+
 default-font-sans-serif =
     .label = Pääteviivaton
+
 font-size-label =
     .value = Koko:
     .accesskey = K
+
 font-size-proportional-label =
     .value = Koko:
     .accesskey = K
+
 font-size-monospace-label =
     .value = Koko:
     .accesskey = o
+
 font-serif-label =
     .value = Pääteviivallinen:
     .accesskey = P
+
 font-sans-serif-label =
     .value = Pääteviivaton:
     .accesskey = ä
+
 font-monospace-label =
     .value = Tasavälinen:
     .accesskey = T
+
 font-min-size-label =
     .value = Pienin kirjasinkoko:
     .accesskey = e
+
 min-size-none =
     .label = Ei ole
 
 ## Fonts in message
 
 font-control-legend = Kirjasinten hallinta
+
 use-document-fonts-checkbox =
     .label = Sivut saavat käyttää omia kirjasinlajejaan oletusten sijaan
     .accesskey = i
+
 use-fixed-width-plain-checkbox =
     .label = Käytä tasalevyistä kirjasinta pelkkä teksti viesteille
     .accesskey = y
@@ -124,13 +139,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Merkistökoodaukset
+
 text-encoding-description = Aseta oletusmerkistökoodaus lähteville ja saapuville viesteille
+
 font-outgoing-email-label =
     .value = Lähtevät viestit:
     .accesskey = L
+
 font-incoming-email-label =
     .value = Saapuvat viestit:
     .accesskey = a
+
 default-font-reply-checkbox =
     .label = Jos mahdollista, käytä vastauksissa oletusmerkistökoodausta
     .accesskey = J

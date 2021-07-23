@@ -10,6 +10,7 @@ finger-intro = OTR-avaimen sormenjäljet aikaisemmista salatuista keskusteluista
 
 finger-screenName =
     .label = Yhteyshenkilö
+
 finger-verified =
     .label = Varmistuksen tila
 finger-fingerprint =

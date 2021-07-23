@@ -27,7 +27,5 @@
 <!ENTITY appWeekly.accesskey                  "e">
 <!ENTITY appModeAutomatic.label               "Lataa ja asenna päivitys automaattisesti">
 <!ENTITY appModeAutomatic.accesskey           "m">
-<!ENTITY appModeAutoAddonWarn.label           "Varoita, jos päivitys poistaa lisäosia käytöstä">
-<!ENTITY appModeAutoAddonWarn.accesskey       "V">
 <!ENTITY updateHistoryButton.label            "Näytä päivityshistoria…">
 <!ENTITY updateHistoryButton.accesskey        "N">

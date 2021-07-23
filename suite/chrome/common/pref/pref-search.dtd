@@ -20,5 +20,3 @@
 <!ENTITY openInTab.accesskey              "v">
 <!ENTITY openContextSearchTab.label       "Avaa ponnahdusvalikosta tehty haku uuteen välilehteen ikkunan sijaan">
 <!ENTITY openContextSearchTab.accesskey   "A">
-<!ENTITY openSidebarSearchPanel.label     "Avaa sivupaneelin Haku-välilehti hakua tehtäessä">
-<!ENTITY openSidebarSearchPanel.accesskey "s">

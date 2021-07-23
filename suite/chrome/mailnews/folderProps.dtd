@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Kansion tyyppi:">
 
 <!ENTITY folderQuotaTab.label                    "Kiintiö">
-<!ENTITY folderQuotaRoot.label                   "Kiintiön juuri:">
 <!ENTITY folderQuotaUsage.label                  "Käytössä:">
 <!ENTITY folderQuotaStatus.label                 "Tila:">
 

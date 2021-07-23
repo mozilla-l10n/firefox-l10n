@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "Kokonimi:">
 <!ENTITY DisplayName.accesskey          "K">
 <!ENTITY preferDisplayName.label        "Käytä aina kokonimeä viestiotsikossa olevan sijaan">
-<!ENTITY preferDisplayName.accesskey    "K">
 <!ENTITY preferDisplayName2.accesskey   "j">
 <!ENTITY NickName.label                 "Lempinimi:">
 <!ENTITY NickName.accesskey             "L">
@@ -46,8 +45,6 @@
 <!ENTITY PlainText.label                "Tavallinen teksti">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Tuntematon">
-<!ENTITY ScreenName.label               "Puhuttelunimi:">
-<!ENTITY ScreenName.accesskey           "P">
 
 <!ENTITY chatName.label                 "Chat-nimi:">
 

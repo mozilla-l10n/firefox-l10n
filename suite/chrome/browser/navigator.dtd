@@ -58,10 +58,6 @@
 <!ENTITY printButton.label            "Tulosta">
 <!ENTITY printButton.tooltip          "Tulosta sivu">
 
-<!ENTITY throbber.tooltip             "Siirry &vendorShortName;:n kotisivulle">
-
-<!ENTITY throbber.tooltip2            "Siirry &brandShortName;n kotisivulle">
-
 <!ENTITY locationBar.tooltip          "Kirjoita osoite, hakusana tai pikakomento">
 <!ENTITY locationBar.accesskey        "O">
 <!ENTITY locationBar.title            "Osoite">

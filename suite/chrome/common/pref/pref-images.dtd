@@ -20,10 +20,3 @@
 <!ENTITY loadNoImagesRadio.accesskey    "Ä">
 <!ENTITY viewPermissions.label          "Muokkaa oikeuksia">
 <!ENTITY viewPermissions.accesskey      "M">
-<!ENTITY animLoopingTitle.label         "Toista animoidut kuvat">
-<!ENTITY animLoopAsSpecified.label      "Niin monta kertaa kuin kuva määrittää">
-<!ENTITY animLoopAsSpecified.accesskey  "N">
-<!ENTITY animLoopOnce.label             "Yhden kerran">
-<!ENTITY animLoopOnce.accesskey         "Y">
-<!ENTITY animLoopNever.label            "Älä toista">
-<!ENTITY animLoopNever.accesskey        "t">

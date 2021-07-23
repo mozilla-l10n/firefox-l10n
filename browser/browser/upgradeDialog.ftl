@@ -11,21 +11,13 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Tervehdi uutta { -brand-short-name }ia
 upgrade-dialog-new-subtitle = Suunniteltu saattamaan sinut päämäärääsi aiempaa nopeammin
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
-# style to be automatically added to the text inside it. { -brand-short-name }
-# should stay inside the span.
-upgrade-dialog-new-alt-subtitle = Aloitetaan tekemällä <span data-l10n-name="zap">{ -brand-short-name }in</span> käynnistäminen helpoksi
 upgrade-dialog-new-item-menu-title = Virtaviivaistetut työkalupalkit ja valikot
 upgrade-dialog-new-item-menu-description = laittavat asiat tärkeysjärjestykseen, jotta löydät tarvitsemasi.
 upgrade-dialog-new-item-tabs-title = Nykyaikaiset välilehdet
 upgrade-dialog-new-item-tabs-description = näyttävät tiedot siististi, tukien keskittymistä ja sulavaa liikkumista.
 upgrade-dialog-new-item-icons-title = Uudet kuvakkeet ja selkeämmät viestit
 upgrade-dialog-new-item-icons-description = auttavat perille kevyemmällä otteella.
-upgrade-dialog-new-primary-primary-button = Aseta { -brand-short-name } pääselaimeksi
-    .title = Asettaa { -brand-short-name }in oletusselaimeksi ja kiinnittää sen tehtäväpalkkiin
 upgrade-dialog-new-primary-default-button = Aseta { -brand-short-name } oletusselaimeksi
-upgrade-dialog-new-primary-pin-button = Kiinnitä { -brand-short-name } tehtäväpalkkiin
-upgrade-dialog-new-primary-pin-alt-button = Kiinnitä tehtäväpalkkiin
 upgrade-dialog-new-primary-theme-button = Valitse teema
 upgrade-dialog-new-secondary-button = Ei nyt
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -61,10 +53,6 @@ upgrade-dialog-pin-secondary-button = Ei nyt
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = Asetetaanko { -brand-short-name } oletusselaimeksi?
-upgrade-dialog-default-subtitle = Nopeutta, turvallisuutta ja yksityisyyttä joka kerta kun selaat.
-upgrade-dialog-default-primary-button = Aseta oletusselaimeksi
-# This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Aseta { -brand-short-name } oletukseksi
 upgrade-dialog-default-subtitle-2 = Aseta nopeus, turvallisuus ja yksityisyys automaattiseksi.
 upgrade-dialog-default-primary-button-2 = Aseta oletusselaimeksi
@@ -72,10 +60,6 @@ upgrade-dialog-default-secondary-button = Ei nyt
 
 ## Theme selection screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title =
-    Uusi alku
-    päivitetyllä teemalla
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title-2 = Uusi alku terävällä teemalla
 upgrade-dialog-theme-system = Järjestelmän teema

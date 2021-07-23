@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Prosessienhallinta
+
 # The Actions column
 about-processes-column-action =
     .title = Toiminnot
@@ -27,31 +28,6 @@ about-processes-column-cpu-total = Suoritin
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
-about-processes-browser-process-name = { -brand-short-name } (prosessi { $pid })
-about-processes-web-process-name = Web (prosessi { $pid }, jaettu)
-about-processes-web-isolated-process-name = Web (prosessi { $pid }) { $origin }-lähteelle
-about-processes-web-large-allocation = Web (prosessi { $pid }, suuri) { $origin }-lähteelle
-about-processes-with-coop-coep-process-name = Web (prosessi { $pid }, lähteet eristetty toisistaan) { $origin }-lähteelle
-about-processes-file-process-name = Tiedostot (prosessi { $pid })
-about-processes-extension-process-name = Laajennukset (prosessi { $pid })
-about-processes-privilegedabout-process-name = Tietoja (prosessi { $pid })
-about-processes-plugin-process-name = Liitännäiset (prosessi { $pid })
-about-processes-privilegedmozilla-process-name = Web (prosessi { $pid }) { -vendor-short-name }-sivustoille
-about-processes-gmp-plugin-process-name = Gecko-medialiitännäiset (prosessi { $pid })
-about-processes-gpu-process-name = GPU (prosessi { $pid })
-about-processes-vr-process-name = VR (prosessi { $pid })
-about-processes-rdd-process-name = Datan purku (prosessi { $pid })
-about-processes-socket-process-name = Verkko (prosessi { $pid })
-about-processes-remote-sandbox-broker-process-name = Remote Sandbox Broker (prosessi { $pid })
-about-processes-fork-server-process-name = Fork Server (prosessi { $pid })
-about-processes-preallocated-process-name = Esijaettu (prosessi { $pid })
-about-processes-unknown-process-name = Muu ({ $type }, prosessi { $pid })
-# Process
-# Variables:
-#   $name (String) The name assigned to the process.
-#   $pid (String) The process id of this process, assigned by the OS.
-about-processes-process-name = Prosessi { $pid }: { $name }
-
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
@@ -71,6 +47,7 @@ about-processes-socket-process = Verkko ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Esijaettu ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -91,17 +68,6 @@ about-processes-with-coop-coep-process-private = { $origin } — yksityinen ({ $
 
 ## Details within processes
 
-# Single-line summary of threads
-# Variables:
-#    $number (Number) The number of threads in the process. Typically larger
-#                     than 30. We don't expect to ever have processes with less
-#                     than 5 threads.
-about-processes-thread-summary = Säikeet ({ $number })
-# Thread details
-# Variables:
-#   $name (String) The name assigned to the thread.
-#   $tid (String) The thread id of this thread, assigned by the OS.
-about-processes-thread-name = Säie { $tid }: { $name }
 # Single-line summary of threads (non-idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -117,6 +83,7 @@ about-processes-active-threads =
         [one] { $active }/{ $number } aktiivinen säie: { $list }
        *[other] { $active }/{ $number } aktiivista säiettä: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -128,21 +95,25 @@ about-processes-inactive-threads =
         [one] { $number } ei-aktiivinen säie
        *[other] { $number } ei-aktiivista säiettä
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Säikeen id: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Välilehti: { $name }
 about-processes-preloaded-tab = Esiladattu uusi välilehti
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Alikehys: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -159,14 +130,12 @@ about-processes-frame-name-many = Alikehykset ({ $number }): { $shortUrl }
 ##                   of `duration-unit-*`.
 
 # Common case.
-about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
-# Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Suoritinaika yhteensä: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (mittaus kesken)
-# Special case: process or thread is currently idle.
-about-processes-cpu-user-and-kernel-idle = jouten ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = joutilas
     .title = Suoritinaika yhteensä: { NUMBER($total, maximumFractionDigits: 2) } { $unit }
@@ -183,10 +152,9 @@ about-processes-cpu-idle = joutilas
 ##                        of `memory-unit-*`.
 
 # Common case.
-about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
-# Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
     .title = Muutos: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 

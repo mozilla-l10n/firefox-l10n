@@ -5,6 +5,7 @@
 printui-title = Tulosta
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Tallenna nimellä
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -12,6 +13,7 @@ printui-sheets-count =
         [one] { $sheetCount } paperiarkki
        *[other] { $sheetCount } paperiarkkia
     }
+
 printui-page-range-all = Kaikki
 printui-page-range-custom = Mukautettu
 printui-page-range-label = Sivut
@@ -20,22 +22,29 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Anna mukautettu sivualue
     .placeholder = esim. 2-6, 9, 12-16
+
 # Section title for the number of copies to print
 printui-copies-label = Kopioita
+
 printui-orientation = Suunta
 printui-landscape = Vaaka
 printui-portrait = Pysty
+
 # Section title for the printer or destination device to target
 printui-destination-label = Kohde
 printui-destination-pdf-label = Tallenna PDF-muotoon
+
 printui-more-settings = Enemmän asetuksia
 printui-less-settings = Vähemmän asetuksia
+
 printui-paper-size-label = Paperin koko
+
 # Section title (noun) for the print scaling options
 printui-scale = Koko
 printui-scale-fit-to-page-width = Sovita sivun leveyteen
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Koko
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Kaksipuolinen tulostus
 printui-two-sided-printing-off = Pois päältä
@@ -43,10 +52,12 @@ printui-two-sided-printing-off = Pois päältä
 printui-two-sided-printing-long-edge = Käännä pitkän reunan ympäri
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Käännä lyhyen reunan ympäri
+
 # Section title for miscellaneous print options
 printui-options = Valinnat
 printui-headers-footers-checkbox = Tulosta ylä- ja alatunnisteet
 printui-backgrounds-checkbox = Tulosta taustat
+
 printui-selection-checkbox = Tulosta vain valinta
 
 ## The "Format" section, select a version of the website to print. Radio
@@ -67,6 +78,7 @@ printui-simplify-page-radio = Yksinkertaistettu
 printui-color-mode-label = Väritila
 printui-color-mode-color = Väri
 printui-color-mode-bw = Mustavalkoinen
+
 printui-margins = Reunukset
 printui-margins-default = Oletus
 printui-margins-min = Pienimmät
@@ -85,17 +97,23 @@ printui-margins-custom-left-mm = Vasen (mm)
 printui-margins-custom-right = Oikea
 printui-margins-custom-right-inches = Oikea (tuumina)
 printui-margins-custom-right-mm = Oikea (mm)
+
 printui-system-dialog-link = Tulosta käyttäen järjestelmän tulostusikkunaa…
+
 printui-primary-button = Tulosta
 printui-primary-button-save = Tallenna
 printui-cancel-button = Peruuta
 printui-close-button = Sulje
+
 printui-loading = Valmistellaan esikatselua
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Tulostuksen esikatselu
+
 printui-pages-per-sheet = Sivuja per arkki
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Tulostetaan…
@@ -122,6 +140,7 @@ printui-paper-tabloid = Tabloid
 printui-error-invalid-scale = Koon on oltava luku välillä 10 ja 200.
 printui-error-invalid-margin = Anna valitulle paperin koolle kelvollinen reunus.
 printui-error-invalid-copies = Kopioiden määrä tulee ilmoittaa luvulla väliltä 1 ja 10000.
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Sivualueen on oltava luku välillä 1 ja { $numPages }.

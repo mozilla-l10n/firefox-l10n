@@ -27,6 +27,7 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Kumoa välilehtien sulkeminen
         }
     .accesskey = u
+
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -34,18 +35,21 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Avaa uudelleen suljetut välilehdet
         }
     .accesskey = d
+
 toolbar-context-menu-manage-extension =
     .label = Hallitse laajennusta
     .accesskey = a
 toolbar-context-menu-remove-extension =
     .label = Poista laajennus
     .accesskey = o
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Raportoi laajennus
     .accesskey = R
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -67,6 +71,7 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Muokkaa työkalupalkkia…
     .accesskey = M
+
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Näytä aina
     .accesskey = N
@@ -76,6 +81,7 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Näytä vain uudessa välilehdessä
     .accesskey = v
+
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Näytä muut kirjanmerkit
     .accesskey = N

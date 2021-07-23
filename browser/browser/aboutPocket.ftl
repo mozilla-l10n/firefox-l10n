@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Lisää tunnisteita
+
 pocket-panel-saved-error-generic = Tapahtui virhe tallennettaessa { -pocket-brand-name }-palveluun.
 pocket-panel-saved-error-tag-length = Tunnisteet voivat olla enintään 25 merkkiä pitkiä
 pocket-panel-saved-error-only-links = Vain linkkejä voidaan tallentaa

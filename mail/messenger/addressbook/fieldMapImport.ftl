@@ -4,6 +4,7 @@
 
 import-ab-csv-window =
     .title = Tuo osoitekirja tekstitiedostosta
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Tuo
     .buttonaccesskeyaccept = T

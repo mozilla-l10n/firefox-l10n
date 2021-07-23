@@ -42,6 +42,11 @@ abuse-report-submit-button = Lähetä
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Raportti lisäosasta <span data-l10n-name="addon-name">{ $addon-name }</span> on peruttu.
 abuse-report-messagebar-submitting = Lähetetään raportti lisäosasta <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Kiitos kun lähetit raportin. Haluatko poistaa lisäosan <span data-l10n-name="addon-name">{ $addon-name }</span>?
