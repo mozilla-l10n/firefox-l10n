@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fieldMapImport.title "Puku ya Diaterese tša go tšwa ntle">
+
 <!ENTITY fieldMapImport.size "bophara: 40em; botelele: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Tshedimošo ye e tšwago ntle go tlo Rekotiwa: ">
 <!ENTITY fieldMapImport.next.accesskey "N">

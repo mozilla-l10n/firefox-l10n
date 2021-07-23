@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Go praosa ga praebete)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Go praosa ga praebete)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Go praosa ga praebete)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Go praosa ga praebete)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -66,23 +68,6 @@ browser-main-window-title = { -brand-full-name }
 
 
 ## Page Action menu
-
-page-action-email-link-panel =
-    .label = Lomaganyo ya imeile...
-page-action-email-link-urlbar =
-    .tooltiptext = Lomaganyo ya imeile...
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Gomaretša thepo
-page-action-pin-tab-urlbar =
-    .tooltiptext = Gomaretša thepo
-page-action-unpin-tab-panel =
-    .label = Gomaretšolla thepo
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Gomaretšolla thepo
 
 ## Auto-hide Context Menu
 
@@ -145,10 +130,13 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Nyaka goba o tsenye aterese
+
 urlbar-placeholder =
     .placeholder = Nyaka goba o tsenye aterese
+
 urlbar-switch-to-tab =
     .value = Fetogela go thepo:
+
 urlbar-go-button =
     .tooltiptext = Eya atereseng go para ya lefelo
 
@@ -169,8 +157,6 @@ urlbar-go-button =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Laetša dipukutshwayo tšohle
 bookmarks-toolbar-chevron =
     .tooltiptext = Bontšha dipukutshwayo tše oketšegilego
 bookmarks-sidebar-content =
@@ -179,6 +165,7 @@ bookmarks-search =
     .label = Nyaka dipukutshwayo
 bookmarks-bookmark-edit-panel =
     .label = Lokiša pukutshwayo ye
+
 bookmarks-toolbar-menu =
     .label = Thulupaa ya dipukutshwayo
 bookmarks-toolbar-placeholder =
@@ -191,6 +178,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
+
+## Customize Toolbar Buttons
 
 ## More items
 

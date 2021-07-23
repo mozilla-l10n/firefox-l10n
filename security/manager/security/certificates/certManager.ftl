@@ -179,6 +179,8 @@ cert-not-verified-issuer-unknown = Paletšwe ke go kgonthišiša setifikheiti se
 cert-not-verified-ca-invalid = Paletšwe ke go kgonthišiša setifikheihi se ka baka la gore CA setifikheiti ga se ya makgonthe.
 cert-not-verified-unknown = Paletšwe ke go kgonthišiša setifikheiti se ka mabaka ao a sa tsebjego.
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 

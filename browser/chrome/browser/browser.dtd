@@ -161,6 +161,7 @@ when there are no windows but Firefox is still running. -->
 
 
 <!ENTITY historyMenu.label "Histori">
+
 <!ENTITY historyUndoMenu.label "Dithepo tšeo di tswaletšwego morago bjale">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Mafasetere ao a tswaletšwego morago bjale">

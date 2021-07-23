@@ -24,17 +24,21 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Nyalantšha gona bjale
+
 appmenuitem-save-page =
     .label = Boloka letlakala e le…
 
 ## What's New panel in App menu.
 
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+## History panel
+
 ## Help panel
 
-appmenu-help-troubleshooting-info =
-    .label = Tshedimošo ya go rarolla mathata
-    .accesskey = t
 appmenu-help-feedback-page =
     .label = Iša dipoelo…
     .accesskey = I
@@ -42,13 +46,14 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-safe-mode-without-addons =
-    .label = Thoma ka leswa o šitišitše ditlaleletši…
-    .accesskey = T
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 
 ##
+
+## More Tools
 
