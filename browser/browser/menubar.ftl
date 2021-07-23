@@ -38,16 +38,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Quit { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Exit { -brand-shorter-name }
+
 menu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
@@ -173,6 +177,7 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Text Encoding
     .accesskey = c
+
 menu-view-repair-text-encoding =
     .label = Repair Text Encoding
     .accesskey = c
@@ -218,6 +223,7 @@ menu-history-undo-menu =
     .label = Recently Closed Tabs
 menu-history-undo-window-menu =
     .label = Recently Closed Windows
+
 menu-history-reopen-all-tabs = Reopen All Tabs
 menu-history-reopen-all-windows = Reopen All Windows
 
