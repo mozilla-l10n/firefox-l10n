@@ -15,11 +15,6 @@
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "d">
 <!ENTITY prefPara                            "HTTP-anslutningar kan finjusteras med dessa inställningar för att förbättra antingen prestanda eller kompatibilitet. Till exempel fungerar inte en del proxyservrar utan HTTP/1.0 (se dokumentationen för mer information).">
 <!ENTITY prefUseragent.label                 "Användaragentsträng">
-<!ENTITY prefFirefoxCompat.label             "Uppträd som Firefox-kompatibel">
-<!ENTITY prefFirefoxCompat.accesskey         "F">
-<!ENTITY prefLightningShow.label             "Visa Lightning-installationen">
-<!ENTITY prefLightningShow.accesskey         "L">
-<!ENTITY prefCompatWarning                   "VARNING: att stänga av dessa inställningar kan leda till att webbplatser eller tjänster inte fungerar korrekt.">
 <!ENTITY prefFirefoxStrict.label             "Identifiera som Firefox">
 <!ENTITY prefFirefoxStrict.accesskey         "I">
 <!ENTITY prefFirefoxNone.label               "Identifiera som SeaMonkey">

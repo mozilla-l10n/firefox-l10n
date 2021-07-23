@@ -8,6 +8,7 @@
 newtab-page-title = Ny flik
 newtab-settings-button =
     .title = Anpassa sidan för Ny flik
+
 newtab-personalize-button-label = Anpassa
     .title = Anpassa ny flik
     .aria-label = Anpassa ny flik
@@ -23,7 +24,9 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Sök
     .aria-label = Sök
+
 newtab-search-box-search-the-web-text = Sök på webben
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Sök med { $engine } eller ange en adress
@@ -38,10 +41,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Sök eller ange adress
     .title = Sök eller ange adress
     .aria-label = Sök eller ange adress
+
 newtab-search-box-search-the-web-input =
     .placeholder = Sök på webben
     .title = Sök på webben
     .aria-label = Sök på webben
+
 newtab-search-box-input =
     .placeholder = Sök på webben
     .aria-label = Sök på webben
@@ -56,10 +61,12 @@ newtab-topsites-edit-shortcut-header = Redigera genväg
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Ange en titel
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Skriv eller klistra in en URL
 newtab-topsites-url-validation = Giltig URL krävs
+
 newtab-topsites-image-url-label = Anpassa bild-URL
 newtab-topsites-use-image-link = Använd en anpassad bild…
 newtab-topsites-image-validation = Bilden misslyckades att ladda. Prova en annan URL.
@@ -88,10 +95,12 @@ newtab-topsite-sponsored = Sponsrad
 newtab-menu-section-tooltip =
     .title = Öppna meny
     .aria-label = Öppna meny
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Ta bort
     .aria-label = Ta bort
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -164,10 +173,12 @@ newtab-label-removed-bookmark = Bokmärke har tagits bort
 newtab-label-recommended = Trend
 newtab-label-saved = Spara till { -pocket-brand-name }
 newtab-label-download = Hämtat
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsrad
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -206,10 +217,12 @@ newtab-section-header-pocket = Rekommenderas av { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Börja surfa, och vi visar några av de bästa artiklarna, videoklippen och andra sidor du nyligen har besökt eller bokmärkt här.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Det finns inte fler. Kom tillbaka senare för fler huvudnyheter från { $provider }. Kan du inte vänta? Välj ett populärt ämne för att hitta fler bra nyheter från hela världen.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -251,6 +264,7 @@ newtab-custom-pocket-sponsored = Sponsrade nyheter
 newtab-custom-recent-title = Senaste aktivitet
 newtab-custom-recent-subtitle = Ett urval av senaste webbplatser och innehåll
 newtab-custom-close-button = Stäng
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

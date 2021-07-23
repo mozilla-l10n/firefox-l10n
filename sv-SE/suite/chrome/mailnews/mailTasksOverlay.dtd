@@ -4,6 +4,8 @@
 
 
 <!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
+
+
 <!-- We DO translate -->
 <!ENTITY messengerCmd.label					"E-post &amp; Grupper">
 <!ENTITY messengerCmd.accesskey				"E">

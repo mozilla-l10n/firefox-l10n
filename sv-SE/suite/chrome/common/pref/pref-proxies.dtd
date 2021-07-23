@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!-- extracted from content/pref-proxies.xul -->
+
 <!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
 <!ENTITY  pref.proxies.title            "Proxy">
 <!ENTITY  pref.proxies.desc             "En nätverksproxy kan öka säkerhet och prestanda i en Internet-anslutning.">

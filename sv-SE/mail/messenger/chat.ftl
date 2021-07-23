@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Går med i chatten
+
 chat-left-chat-icon2 =
     .alt = Lämna chatten
+
 chat-participant-owner-role-icon2 =
     .alt = Ägare
+
 chat-participant-administrator-role-icon2 =
     .alt = Administratör
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderator
+
 chat-participant-voiced-role-icon2 =
     .alt = Deltagare kan skicka meddelanden

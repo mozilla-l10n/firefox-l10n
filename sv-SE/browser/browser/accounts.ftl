@@ -5,12 +5,7 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Slutför kontokonfiguration
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-reconnect-to-fxa = Konto frånkopplat
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-disconnected = Din anslutning har kopplats ner
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Konto frånkopplat

@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!-- extracted from AccountManager.xul -->
+
 <!ENTITY accountManagerTitle.label "Kontoinställningar för E-post &amp; Grupper">
 
 <!ENTITY addAccountButton.label "Lägg till konto…">

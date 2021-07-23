@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
 <!ENTITY MsgSynchronize.label "Hämta och synkronisera meddelanden">
 <!ENTITY MsgSelect.label "Att hämta för användning när du arbetar i nedkopplat läge">
 <!ENTITY MsgSyncDesc.label "Om du redan valt e-postmappar och diskussionsgrupper för användning när du arbetar i nedkopplat läge, så kan du hämta/synkronisera nu. Annars använder du knappen &quot;Välj&quot; för att välja e-postmappar och diskussionsgrupper.">

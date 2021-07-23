@@ -8,7 +8,6 @@
 
 <!ENTITY markAsUnreadCmd.label     "Som oläst">
 <!ENTITY markAsUnreadCmd.accesskey "o">
-<!ENTITY markAsUnreadCmd.key       "m">
 
 <!ENTITY markAsUnreadCmd2.key      "u">
 

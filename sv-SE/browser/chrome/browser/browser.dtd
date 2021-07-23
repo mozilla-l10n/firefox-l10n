@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Öppna menyn">
+
 <!ENTITY navbarOverflow.label                "Fler verktyg…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; inställningar">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Ansluta en annan enhet…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Logga in på &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Slå på &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Tjänster">
@@ -139,19 +141,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "n">
 
 <!ENTITY historyMenu.label "Historik">
+
 <!ENTITY historyUndoMenu.label "Nyligen stängda flikar">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nyligen stängda fönster">
 
 <!ENTITY appMenuHistory.showAll.label "Visa all historik">
+
 <!ENTITY appMenuHistory.clearRecent.label "Rensa ut tidigare historik…">
 <!ENTITY appMenuHistory.restoreSession.label "Återställ föregående session">
 <!ENTITY appMenuHistory.viewSidebar.label "Visa sidofältet Historik">
 <!ENTITY appMenuHistory.hideSidebar.label "Dölj sidofältet Historik">
 <!ENTITY appMenuHistory.recentHistory.label "Senaste historik">
+
 <!ENTITY appMenuHelp.label "Hjälp">
 
 <!ENTITY appMenuRemoteTabs.label "Synkade flikar">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Inga öppna flikar">

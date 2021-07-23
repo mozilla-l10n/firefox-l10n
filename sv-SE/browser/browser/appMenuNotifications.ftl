@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Inte nu
     .secondarybuttonaccesskey = n
 appmenu-update-restart-message = Efter en snabb omstart, kommer { -brand-shorter-name } att återställa alla dina öppna flikar och fönster som inte är i privat surfläge.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Ok, jag förstår
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Hantera dina tillägg genom att klicka på <image data-l10n-name='addon-install-icon'></image> i menyn <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Uppdatering tillgänglig
     .buttonlabel = Hämta
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Inte nu
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = En ny { -brand-shorter-name }-uppdatering är tillgänglig, men den kan inte installeras eftersom en annan kopia av { -brand-shorter-name } körs. Stäng den för att fortsätta uppdateringen eller välj att uppdatera ändå (den andra kopian kanske inte fungerar korrekt förrän du startar om den).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Ok, jag förstår
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Hantera dina tillägg genom att klicka på <image data-l10n-name='addon-install-icon'></image> i menyn <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Okej
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Hantera dina tillägg och teman via applikationsmenyn.
 appmenu-addon-post-install-message3 = Hantera dina tillägg och teman via applikationsmenyn.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillåt att detta tillägg körs i privata fönster
     .accesskey = T
+    
 appmenu-new-tab-controlled =
     .label = Din nya flik har ändrats.
     .buttonlabel = Behåll ändringar
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = B
     .secondarybuttonlabel = Inaktivera tillägg
     .secondarybuttonaccesskey = n
+
 appmenu-new-tab-controlled-changes =
     .label = Din nya flik har ändrats.
     .buttonlabel = Behåll ändringar

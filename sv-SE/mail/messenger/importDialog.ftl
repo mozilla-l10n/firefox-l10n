@@ -4,7 +4,8 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
+
 # Description of the import module
 thunderbird-import-description = Importera e-post från en Thunderbird-profilkatalog.
-import-select-profile-dir-or-zip = Välj en profilkatalog eller en zippad profilkatalog
+
 import-select-profile-zip = Välj en zippad profilkatalog

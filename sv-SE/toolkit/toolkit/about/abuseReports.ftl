@@ -42,6 +42,11 @@ abuse-report-submit-button = Skicka in
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Rapport för <span data-l10n-name="addon-name">{ $addon-name }</span> avbruten.
 abuse-report-messagebar-submitting = Skickar rapport för <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Tack för att du skickade in en rapport. Vill du ta bort <span data-l10n-name="addon-name">{ $addon-name }</span>?

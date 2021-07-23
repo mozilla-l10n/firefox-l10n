@@ -129,6 +129,8 @@ security-site-data-only = Ja, { $value } { $unit } webbplatsdata
 security-site-data-cookies-only = Ja, kakor
 security-site-data-no = Nej
 
+##
+
 image-size-unknown = Okänd
 page-info-not-specified =
     .value = Ej angivet

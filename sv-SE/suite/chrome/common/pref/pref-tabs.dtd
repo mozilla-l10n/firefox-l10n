@@ -14,12 +14,6 @@
 <!ENTITY relatedAfterCurrent.label "Öppna relaterade flikar bakom aktiv flik">
 <!ENTITY relatedAfterCurrent.accesskey "Ö">
 
-<!ENTITY loadGroup.label "Vid öppning av ett gruppmärke">
-<!ENTITY loadGroupAppend.label "Lägg till nya flikar">
-<!ENTITY loadGroupAppend.accesskey "L">
-<!ENTITY loadGroupReplace.label "Ersätt befintliga flikar">
-<!ENTITY loadGroupReplace.accesskey "b">
-
 <!ENTITY openTabs.label "Öppna flikar istället för fönster vid">
 
 <!ENTITY middleClick.label "Mellanklick, Ctrl+klick eller Ctrl+Enter på länkar i webbsidor">
