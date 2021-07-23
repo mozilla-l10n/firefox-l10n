@@ -8,9 +8,6 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Odebrat pole { $type }
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Odstraní pole { $type }
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Odebrat pole { $type }
 #   $type (String) - the type of the addressing row
@@ -178,3 +175,11 @@ many-public-recipients-ignore =
 compose-missing-identity-warning = Unikátní identita odpovídající adrese odesílatele nebyla nalezena. Zpráva bude odeslána s pomocí současné adresy odesílatele a nastavení pro identitu { $identity }.
 encrypted-bcc-warning = Při odesílání zašifrované zprávy nejsou příjemci v Bcc zcela skrytí. Všichni příjemci je mohou identifikovat.
 encrypted-bcc-ignore-button = Rozumím
+
+## Editing
+
+
+# Tools
+
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Odebrat formátování textu
