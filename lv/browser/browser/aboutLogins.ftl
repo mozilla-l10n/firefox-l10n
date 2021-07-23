@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Iegūstiet to no Google Play
 login-app-promo-apple =
     .alt = Lejupielādējiet no App Store
+
 login-filter =
     .placeholder = Meklēt lietotājvārdus
+
 create-login-button = Izveidot jaunu pieteikšanos
+
 fxaccounts-sign-in-text = Iegūstiet savas paroles citās ierīcēs
 fxaccounts-sign-in-button = Pierakstīties { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -115,3 +118,18 @@ about-logins-export-file-picker-export-button = Eksportēt
 ## Login Import Dialog
 
 about-logins-import-file-picker-import-button = Importēt
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+## Logins import report page
+

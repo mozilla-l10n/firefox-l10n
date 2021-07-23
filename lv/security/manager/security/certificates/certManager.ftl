@@ -213,6 +213,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Vai esat pārliecināts, ka vēlaties dzēst šos serveru izņēmumus?
 delete-ssl-cert-impact = Ja izdzēsīsiet servera izņēmumu, šim serverim tiks atjaunotas parastās drošības pārbaudes un tam būs nepieciešams derīgs sertifikāts.
 
+
 delete-ca-cert-title =
     .title = Dzēst CA sertifikātus
 delete-ca-cert-confirm = Jūs esat izvēlējies dzēst CA sertifikātus. Iebūvētajiem sertifikātiem visa uzticamība tiks noņemta. Vai esat pārliecināts, ka vēlaties dzēst šos CA sertifikātus?
@@ -271,6 +272,8 @@ cert-not-verified-issuer-unknown = Nevar apstiprināt šo sertifikātu, jo tā i
 cert-not-verified-ca-invalid = Nevar apstiprināt šo sertifikātu, jo tā CA sertifikāts ir nederīgs.
 cert-not-verified_algorithm-disabled = Nevar pārbaudīt šo sertifikātu, jo tas ir parakstīts ar paraksta algoritmu, kas drošības apsvērumu dēļ netiek izmantots.
 cert-not-verified-unknown = Nevar apstiprināt šo sertifikātu nezināmu iemeslu dēļ.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

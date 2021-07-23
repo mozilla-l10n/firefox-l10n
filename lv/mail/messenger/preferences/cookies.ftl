@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = Sīkfaili
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = Meklēt:
     .accesskey = M
+
 cookies-on-system-label = Jūsu datorā ir saglabātas šādi sīkfaili:
+
 treecol-site-header =
     .label = Vietne
+
 treecol-name-header =
     .label = Sīkfaila nosaukums
+
 props-name-label =
     .value = Nosaukums:
 props-value-label =
@@ -33,12 +41,15 @@ props-expires-label =
     .value = Derīgums:
 props-container-label =
     .value = Konteiners:
+
 remove-cookie-button =
     .label = Noņemt sīkfailu
     .accesskey = N
+
 remove-all-cookies-button =
     .label = Noņemt visus sīkfailus
     .accesskey = v
+
 cookie-close-button =
     .label = Aizvērt
     .accesskey = A

@@ -9,6 +9,10 @@ menu-view-charset =
     .label = Teksta kodējums
     .accesskey = k
 
+## Tools Menu
+
+## Help Menu
+
 ## Mail Toolbar
 
 toolbar-junk-button =
@@ -23,3 +27,8 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Atdzēst
     .tooltiptext = Atdzēst atlasītās vēstules
+
+## View
+
+## View / Layout
+

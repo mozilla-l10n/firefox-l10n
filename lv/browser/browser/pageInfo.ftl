@@ -126,6 +126,8 @@ security-site-data-only = Jā, { $value } { $unit } lapas datus
 security-site-data-cookies-only = Jā, sīkdatnes
 security-site-data-no = Nē
 
+##
+
 image-size-unknown = Nezināms
 page-info-not-specified =
     .value = Nav norādīts

@@ -4,13 +4,17 @@
 
 notifications-dialog-window =
     .title = Pielāgot jauna pasta ziņojumu
+
 customize-alert-description = Izvēlieties paziņojumā rādāmos laukus:
+
 preview-text-checkbox =
     .label = Paziņojuma priekšskata teksts
     .accesskey = P
+
 subject-checkbox =
     .label = Tēma
     .accesskey = T
+
 sender-checkbox =
     .label = Sūtītājs
     .accesskey = S
@@ -24,5 +28,6 @@ sender-checkbox =
 open-time-label-before =
     .value = Rādīt jauna pasta paziņojumu
     .accesskey = R
+
 open-time-label-after =
     .value = sekundes

@@ -5,39 +5,52 @@
 permissions-reminder-window =
     .title = Izņēmumi
     .style = width: 45em;
+
 window-close-key =
     .key = w
+
 website-address-label =
     .value = Vietnes adrese:
     .accesskey = V
+
 block-button =
     .label = Liegt
     .accesskey = L
+
 allow-session-button =
     .label = Ļaut sesijai
     .accesskey = s
+
 allow-button =
     .label = Ļaut
     .accesskey = a
+
 treehead-sitename-label =
     .label = Vietne
+
 treehead-status-label =
     .label = Statuss
+
 remove-site-button =
     .label = Noņemt vietni
     .accesskey = N
+
 remove-all-site-button =
     .label = Noņemt visas vietnes
     .accesskey = v
+
 cancel-button =
     .label = Atcelt
     .accesskey = A
+
 save-button =
     .label = Saglabāt izmaiņas
     .accesskey = S
+
 permission-can-label = Atļaut
 permission-can-access-first-party-label = Ļaut tikai pirmajai pusei
 permission-can-session-label = Ļaut sesijai
 permission-cannot-label = Liegt
+
 invalid-uri-message = Lūdzu, ievadiet derīgu vietnes nosaukumu
 invalid-uri-title = Ievadīts nederīgs mītnes nosaukums

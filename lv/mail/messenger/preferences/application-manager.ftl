@@ -5,6 +5,7 @@
 app-manager-window-dialog =
     .title = Lietotnes detaļas
     .style = width: 30em; min-height: 20em;
+
 remove-app-button =
     .label = Noņemt
     .accesskey = N

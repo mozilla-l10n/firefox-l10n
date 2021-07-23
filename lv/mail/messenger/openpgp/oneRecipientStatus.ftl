@@ -16,12 +16,15 @@ openpgp-one-recipient-status-open-details =
     .label = Atvērt informāciju un rediģēt pieņemšanu…
 openpgp-one-recipient-status-discover =
     .label = Atklāt jaunu vai atjaunotu atslēgu
+
 openpgp-one-recipient-status-instruction1 = Lai adresātam nosūtītu tiešās saziņas šifrētu vēstuli, jums jāiegūst viņa OpenPGP publiskā atslēga un jāatzīmē tā kā pieņemta.
 openpgp-one-recipient-status-instruction2 = Lai iegūtu viņu publisko atslēgu, importējiet tās no jums nosūtītā epasta. Varat arī mēģināt atklāt viņu publisko atslēgu katalogā.
+
 openpgp-key-own = Pieņemta (personīgā atslēga)
 openpgp-key-secret-not-personal = Nav lietojama
 openpgp-key-verified = Pieņemta (pārbaudīta)
 openpgp-key-unverified = Pieņemta (nepārbaudīta)
 openpgp-key-undecided = Nepieņemta (neizlemts)
 openpgp-key-rejected = Nepieņemta (noraidīta)
+
 openpgp-intro = Pieejamas publiskās atslēgas priekš { $key }

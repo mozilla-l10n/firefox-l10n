@@ -14,5 +14,7 @@ accounts-conn-security = Savienojuma drošība
 accounts-auth-method = Autentifikācijas veids
 accounts-default = Noklusētais?
 identity-name = Identitāte
+
 send-via-email = Sūtīt pa epastu
+
 app-basics-telemetry = Telemetrijas dati

@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } atjaunošana
+
 refresh-profile-dialog-button =
     .label = Atjaunot { -brand-short-name }
 refresh-profile-description = Sāciet no tīras vietas, lai salabotu problēmas un atjaunotu ātrdarbību.

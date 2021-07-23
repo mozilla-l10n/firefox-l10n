@@ -7,9 +7,7 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Noņemt { $type } lauku
-#   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Noņem { $type } lauku
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -19,6 +17,7 @@ address-input-type-aria-label =
         [one] { $type } ar { $count } adresēm, lai fokusētu, izmantojiet bultiņu pa kreisi
        *[other] { $type } ar { $count } adresēm, lai fokusētu, izmantojiet bultiņu pa kreisi
     }
+
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -27,18 +26,25 @@ pill-aria-label =
         [one] { $email }, 1 no { $count }:  lai rediģētu, spiediet ievades, lai dzēstu, dzēšanas taustiņu
        *[other] { $email }, 1 no { $count }:  lai rediģētu, spiediet ievades, lai dzēstu, dzēšanas taustiņu
     }
+
 pill-action-edit =
     .label = Rediģēt adresi
     .accesskey = R
+
 pill-action-move-to =
     .label = Pārvietot uz
     .accesskey = P
+
 pill-action-move-cc =
     .label = Pārvietot uz Kopija
     .accesskey = K
+
 pill-action-move-bcc =
     .label = Pārvietot uz Slēpta kopija
     .accesskey = S
+
+# Attachment widget
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -49,6 +55,7 @@ attachment-bucket-count =
            *[other] { $count } Pielikums
         }
     .accesskey = p
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
@@ -58,9 +65,22 @@ attachments-placeholder-tooltip =
             [one] { $count } pielikumi
            *[other] { $count } pielikumi
         }
+
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+
+# Reorder Attachment Panel
+
 button-return-receipt =
     .label = Ziņa
     .tooltiptext = Pieprasīt saņemšanas apliecinājuma ziņu
+
+# Addressing Area
+
+## Notifications
+
+## Editing
+
+# Tools
+

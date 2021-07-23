@@ -142,3 +142,7 @@ cfr-whatsnew-lockwise-take-title = Paņemiet paroles sev līdz
 
 ## What's new: Cookies message
 
+## Fission Experiment Message
+
+## Full Video Support CFR message
+
