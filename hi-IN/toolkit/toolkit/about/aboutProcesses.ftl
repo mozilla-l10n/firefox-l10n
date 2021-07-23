@@ -20,6 +20,15 @@ about-processes-column-cpu-total = CPU
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
+
 ## Details within processes
 
 # Tab
@@ -36,11 +45,6 @@ about-processes-tab-name = टैब: { $name }
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
-# Common case.
-about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
-# Special case: process or thread is currently idle.
-about-processes-cpu-user-and-kernel-idle = निष्क्रिय ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
-
 ## Displaying Memory (total and delta)
 ## Variables:
 ##    $total (Number) The amount of memory currently used by the process.
@@ -52,8 +56,6 @@ about-processes-cpu-user-and-kernel-idle = निष्क्रिय ({ NUMBER
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
-# Common case.
-about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

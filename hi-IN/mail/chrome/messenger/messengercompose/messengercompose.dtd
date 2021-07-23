@@ -169,6 +169,7 @@
 <!ENTITY pasteButton.tooltip            "चिपकायें">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "r"> 
 <!ENTITY subject.accesskey "S">
 

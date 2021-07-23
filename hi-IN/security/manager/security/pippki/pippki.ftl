@@ -8,8 +8,10 @@ password-quality-meter = कूटशब्द गुणवत्ता मी�
 
 change-password-window =
     .title = मुख्य कूटशब्द बदलें
+
 change-device-password-window =
     .title = पासवर्ड बदलें
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = सुरक्षा युक्ति: { $tokenName }
@@ -22,6 +24,7 @@ change-password-reenter = नया कूटशब्द (फिर):
 reset-password-window =
     .title = मुख्य कूटशब्द फिर सेट करें
     .style = width: 40em
+
 pippki-failed-pw-change = पासवर्ड बदलने में असमर्थ।
 pippki-pw-change-ok = पासवर्ड सफलतापूर्वक बदल दिया गया है।
 

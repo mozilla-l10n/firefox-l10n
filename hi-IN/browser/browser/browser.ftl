@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (निजी ब्राउज़िंग)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (निजी ब्राउज़िंग)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (निजी ब्राउज़िंग)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (निजी ब्राउज़िंग)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -142,10 +144,12 @@ urlbar-midi-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए MIDI उपयोग अवरुद्ध कर दिया है.
 urlbar-install-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए ऐड-ऑन संस्थापन को अवरूद्ध कर दिया है।
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = यह बुकमार्क संपादित करें ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -155,6 +159,7 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = पतापट्टी में जोड़े
+
 page-action-manage-extension =
     .label = एक्सटेंशन प्रबंधित करें …
 page-action-remove-from-urlbar =
@@ -163,37 +168,6 @@ page-action-remove-extension =
     .label = एक्सटेंशन हटाएं
 
 ## Page Action menu
-
-page-action-pocket-panel =
-    .label = { -pocket-brand-name } में पृष्ठ को सहेजें
-page-action-copy-url-panel =
-    .label = कड़ी नकल करें
-page-action-copy-url-urlbar =
-    .tooltiptext = कड़ी नकल करें
-page-action-email-link-panel =
-    .label = कड़ी ईमेल करें…
-page-action-email-link-urlbar =
-    .tooltiptext = कड़ी ईमेल करें…
-page-action-share-url-panel =
-    .label = साझा करें
-page-action-share-url-urlbar =
-    .tooltiptext = साझा करें
-page-action-share-more-panel =
-    .label = अधिक…
-page-action-send-tab-not-ready =
-    .label = उपकरण सिंक हो रहा है…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = टैब पिन करें
-page-action-pin-tab-urlbar =
-    .tooltiptext = टैब पिन करें
-page-action-unpin-tab-panel =
-    .label = टैब का पिन निकालें
-page-action-unpin-tab-urlbar =
-    .tooltiptext = टैब का पिन निकालें
 
 ## Auto-hide Context Menu
 
@@ -209,12 +183,15 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = इस बार, इसके साथ खोजें:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = खोज सेटिंग बदलाव
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = खोज सेटिंग बदले
+
 search-one-offs-context-open-new-tab =
     .label = नया टैब में खोजें
     .accesskey = T
@@ -224,12 +201,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = निजी विंडो के लिए तयशुदा खोज इंजन के रूप में सेट करें
     .accesskey = P
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -266,8 +245,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = सहेजते समय संपादक दिखाएं
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = संपन्न
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -296,12 +277,14 @@ identity-weak-encryption = यह पेज कमजोर गोपन का 
 identity-insecure-login-forms = इस पृष्ठ पर अंतरित लॉग-इन्स से समझौता किया जा सकता है.
 identity-permissions =
     .value = अनुमतियां
+
 identity-https-only-dropdown-on =
     .label = चालू
 identity-https-only-dropdown-off =
     .label = बंद
 identity-https-only-dropdown-off-temporarily =
     .label = अस्थाई रूप से बंद
+
 identity-permissions-reload-hint = बदलाव को लागु करने के लिए आपको पृष्ठ को फिर से लोड करने की आवश्यकता हैं.
 identity-permissions-empty = आपने इस साइट को कोई विशेष अनुमति नहीं दी है.‌‌‌
 identity-clear-site-data =
@@ -364,6 +347,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = साझा करने के लिए माइक्रोफोन:
     .accesskey = M
+
 popup-select-camera-device =
     .value = कैमरा:
     .accesskey = C
@@ -375,12 +359,15 @@ popup-select-microphone-device =
 popup-select-microphone-icon =
     .tooltiptext = माइक्रोफोन
 popup-all-windows-shared = आपके स्क्रीन पर सभी दृश्य विंडो साझा किए जाएँगे.
+
 popup-screen-sharing-not-now =
     .label = अभी नहीं
     .accesskey = w
+
 popup-screen-sharing-never =
     .label = कभी अनुमति न दें
     .accesskey = N
+
 popup-silence-notifications-checkbox = साझा करते समय { -brand-short-name } से अधिसूचना अक्षम करें
 popup-silence-notifications-checkbox-warning = साझा करते समय { -brand-short-name } आपके नोटिफिकेशन को प्रदर्शित नहीं करेगा।
 
@@ -398,21 +385,26 @@ sharing-warning-disable-for-session =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = खोजें या पता दर्ज करें
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = खोजें या पता दर्ज करें
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = ब्राउज़र रिमोट कंट्रोल के तहत है
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } के साथ खोजें या पता दर्ज करें
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = ब्राउज़र रिमोट कंट्रोल के तहत है
+
 urlbar-switch-to-tab =
     .value = टैब में जाएँ:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = विस्तारक:
+
 urlbar-go-button =
     .tooltiptext = स्थान पट्टी पर पता में जाएँ
 urlbar-page-action-button =
@@ -453,9 +445,12 @@ urlbar-result-action-search-history = खोज इतिहास
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> अब पूर्ण स्क्रीन है
 fullscreen-warning-no-domain = यह दस्तावेज़ अब पूर्ण स्क्रीन पर है
+
+
 fullscreen-exit-button = पूर्ण स्क्रीन से निकलें (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = पूर्ण स्क्रीन से निकलें (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -472,8 +467,6 @@ crashed-subframe-submit =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = सभी बुकमार्कों को दिखाएँ
 bookmarks-toolbar-chevron =
     .tooltiptext = अधिक बुकमार्क दिखाएँ
 bookmarks-sidebar-content =
@@ -508,6 +501,7 @@ bookmarks-tools =
     .label = बुकमार्क के उपकरण
 bookmarks-bookmark-edit-panel =
     .label = यह बुकमार्क संपादित करें
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -532,6 +526,8 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = { -pocket-brand-name } में सहेजें
     .tooltiptext = { -pocket-brand-name } में सहेजें
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

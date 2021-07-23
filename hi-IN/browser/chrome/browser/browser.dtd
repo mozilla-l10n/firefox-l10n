@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "मेन्यू खोलें">
+
 <!ENTITY navbarOverflow.label                "अधिक औज़ार…">
 
 <!-- Tab context menu -->
@@ -139,19 +140,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "इतिहास">
+
 <!ENTITY historyUndoMenu.label "हाल में बंद टैब">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "हाल में बंद विंडो">
 
 <!ENTITY appMenuHistory.showAll.label "सभी इतिहास दिखाएँ">
+
 <!ENTITY appMenuHistory.clearRecent.label "हालिया इतिहास साफ करें...">
 <!ENTITY appMenuHistory.restoreSession.label "पिछला सत्र पुनर्बहाल करें">
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाज़ूपट्टी देखें">
 <!ENTITY appMenuHistory.hideSidebar.label "इतिहास साइडबार छिपाएं">
 <!ENTITY appMenuHistory.recentHistory.label "ताजा इतिहास">
+
 <!ENTITY appMenuHelp.label "मदद">
 
 <!ENTITY appMenuRemoteTabs.label "समकालीन टैब्स">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "कोई टैब खुला नहीं">

@@ -19,6 +19,7 @@ appmenuitem-new-private-window =
     .label = नयी निजी विंडो
 appmenuitem-passwords =
     .label = पासवर्ड
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -30,6 +31,7 @@ appmenuitem-zoom-enlarge =
     .label = बड़ा करें
 appmenuitem-zoom-reduce =
     .label = छोटा करें
+
 appmenuitem-fullscreen =
     .label = पूर्ण स्क्रीन
 
@@ -37,14 +39,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = अब तुल्यकालित करें
+
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = साइन इन
+
 appmenuitem-save-page =
     .label = पृष्ठ ऐसे सहेजें…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = क्या नया है
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -57,17 +62,23 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-learn-more = अधिक जानें
+
 profiler-popup-settings =
     .value = सेटिंग
+
 profiler-popup-recording-screen = रिकॉर्डिंग…
+
 profiler-popup-start-recording-button =
     .label = रिकॉर्डिंग शुरू करें
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -115,3 +126,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = कार्य प्रबंधक
+

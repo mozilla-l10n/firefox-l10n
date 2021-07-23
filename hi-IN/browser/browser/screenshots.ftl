@@ -5,6 +5,7 @@
 screenshots-context-menu = स्क्रीनशॉट लें
 
 screenshots-my-shots-button = मेरे चित्र
+
 screenshots-instructions = किसी क्षेत्र को चुनने के लिए पृष्ठ पर खींचें या क्लिक करें. रद्द करने के लिए ESC दबाएँ.
 screenshots-cancel-button = रद्द करें
 screenshots-save-visible-button = दृश्यमान सहेजें
