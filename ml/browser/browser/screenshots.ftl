@@ -5,6 +5,7 @@
 screenshots-context-menu = സ്ക്രീൻഷോട്ട് എടുക്കുക
 
 screenshots-my-shots-button = എന്റെ ഷോട്ടുകള്‍
+
 screenshots-instructions = ഒരു പ്രദേശം തിരഞ്ഞെടുക്കാൻ താളില്‍ ഡ്രാഗ് ചെയ്യുക അല്ലെങ്കിൽ ക്ലിക്കുചെയ്യുക. റദ്ദാക്കാൻ ESC അമർത്തുക.
 screenshots-cancel-button = റദ്ദാക്കുക
 screenshots-save-visible-button = കാണുന്നതു സംരക്ഷിക്കുക

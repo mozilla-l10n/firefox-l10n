@@ -58,3 +58,4 @@ clear-site-data-cancel =
 clear-site-data-clear =
     .label = വൃത്തിയാക്കുക
     .accesskey = I
+

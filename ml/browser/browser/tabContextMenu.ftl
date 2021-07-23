@@ -42,8 +42,10 @@ move-to-new-window =
     .label = പുതിയ ജാലകത്തിലേക്ക് നീക്കുക
     .accesskey = W
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = റ്റാബ് അടയ്ക്കുക
     .accesskey = c
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

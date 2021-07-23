@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = സേഫ് മോഡില്‍ ആരംഭിയ്ക്കുക
+
 refresh-profile =
     .label = { -brand-short-name } വീണ്ടും സജ്ജമാക്കുക
 safe-mode-description = പ്രശ്നങ്ങള്‍ എന്താണെന്നു് കണ്ടുപിടിച്ചു് അവ പരിഹരിയ്ക്കുന്നതിനുള്ള { -brand-short-name } ന്റെ പ്രത്യേക മോഡാകുന്നു സേഫ് മോഡ്.

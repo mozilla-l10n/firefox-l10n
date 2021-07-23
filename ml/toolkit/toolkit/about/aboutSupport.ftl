@@ -231,3 +231,7 @@ touch-warning = പിന്തുണയില്ലാത്ത pref: { $prefer
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

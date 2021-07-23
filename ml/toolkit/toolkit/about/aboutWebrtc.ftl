@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = വെബ്ആര്‍ടിസി ആഭ്യന്തരം
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc മാറ്റി സൂക്ഷിക്കുക
@@ -47,13 +48,7 @@ about-webrtc-ice-state = ICE നില
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE വിവരങ്ങള്‍
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -65,13 +60,16 @@ about-webrtc-type-remote = വിദൂരം
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = നാമനിര്‍ദ്ദേിച്ച
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = തിരഞ്ഞെടുത്ത
+
 about-webrtc-save-page-label = താള്‍ സൂക്ഷിക്കുക
 about-webrtc-debug-mode-msg-label = ഡീബഗ് രീതി
 about-webrtc-debug-mode-off-state-label = ഡീബഗ് രീതി ആരംഭിയ്ക്കുക
@@ -94,6 +92,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (അട�
 
 ##
 
+
 about-webrtc-local-candidate = പ്രാദേശിക കാന്‍ഡിഡേറ്റ്
 about-webrtc-remote-candidate = വിദൂര കാന്‍ഡിഡേറ്റ്
 about-webrtc-priority = മുന്‍ഗണന
@@ -109,7 +108,6 @@ about-webrtc-encoder-label = എന്‍കോഡര്‍
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -119,6 +117,8 @@ about-webrtc-save-page-msg = { $path } -ലേക്കു് താള്‍ �
 about-webrtc-debug-mode-off-state-msg = ട്രേസ് ലോഗ് ഇവിടെ കാണാം: { $path }
 about-webrtc-debug-mode-on-state-msg = ഡീബഗ് രീതി സജീവം, ട്രേസ് ലോഗ് ഇവിടെ: { $path }
 about-webrtc-aec-logging-off-state-msg = എടുത്ത ലോഗ് ഫയല്‍ ഇവിടെ കാണാം: { $path }
+
+##
 
 ##
 
@@ -133,4 +133,7 @@ about-webrtc-jitter-label = ജിറ്റര്‍ { $jitter }
 
 
 ##
+
+##
+
 
