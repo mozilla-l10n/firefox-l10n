@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Uniéndose al chat
+
 chat-left-chat-icon2 =
     .alt = Chat dejado
+
 chat-participant-owner-role-icon2 =
     .alt = Propietario
+
 chat-participant-administrator-role-icon2 =
     .alt = Administrador
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderador
+
 chat-participant-voiced-role-icon2 =
     .alt = El participante puede publicar mensajes

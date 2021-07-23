@@ -4,5 +4,6 @@
 
 account-settingsTitle = Configuración de autenticación
 account-channelTitle = Canales predeterminados
+
 account-settings-title = Configuración de autenticación
 account-channel-title = Canales predeterminados

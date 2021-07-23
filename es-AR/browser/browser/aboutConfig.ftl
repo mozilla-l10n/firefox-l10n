@@ -14,10 +14,13 @@ about-config-intro-warning-button = Aceptar el riesgo y continuar
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Cambiar estas preferencias puede afectar el rendimiento o la seguridad de { -brand-short-name }.
+
 about-config-page-title = Preferencias avanzadas
+
 about-config-search-input1 =
     .placeholder = Nombre de preferencia de búsqueda
 about-config-show-all = Mostrar todo
+
 about-config-pref-add-button =
     .title = Agregar
 about-config-pref-toggle-button =

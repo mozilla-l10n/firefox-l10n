@@ -55,9 +55,11 @@ import =
 close-button =
     .label = Cerrar
     .accesskey = C
+
 password-close-button =
     .label = Cerrar
     .accesskey = C
+
 show-passwords =
     .label = Mostrar contraseñas
     .accesskey = t
@@ -80,10 +82,12 @@ no-master-password-prompt = ¿Está seguro de querer mostrar las contraseñas?
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Verifique su identidad para revelar las contraseñas guardadas.
+
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = revelar las contraseñas guardadas
+
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }

@@ -1,5 +1,9 @@
 <!-- extracted from am-server-top.xul -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messageStorage.label "Almacenamiento de mensajes">
 <!ENTITY securitySettings.label "Opciones de seguridad">
 <!ENTITY serverSettings.label "Configuración del servidor">
@@ -40,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "H">
 <!ENTITY downloadOnBiff.label "Descargar automáticamente los mensajes nuevos">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Su nombre de usuario">
 <!ENTITY deleteMessagePrefix.label "Cuando borre un mensaje:">
 <!ENTITY modelMoveToTrash.label "Moverlo a esta carpeta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -66,17 +69,17 @@
 <!ENTITY alwaysAuthenticate.label "Siempre solicitar autenticación cuando se conecte con este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "S">
 <!ENTITY newsrcFilePath.label "archivo newsrc:">
-<!ENTITY localPath.label "Directorio local:">
+<!ENTITY newsrcPicker.label "Seleccionar archivo newsrc">
 <!ENTITY abbreviate.label "Mostrar nombres de los grupos de noticias en la vista de carpeta de correo como:">
 <!ENTITY abbreviateOn.label "Nombres completos (Por ejemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nombres abreviados (Por ejemplo,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzadas…">
 <!ENTITY serverDefaultCharset2.label "Codificación de texto predeterminada:">
 <!ENTITY advancedButton.accesskey "v">
+<!ENTITY localPath.label "Directorio local:">
 <!ENTITY localFolderPicker.label "Seleccione directorio local">
 <!ENTITY browseFolder.label "Examinar…">
 <!ENTITY browseFolder.accesskey "E">
-<!ENTITY newsrcPicker.label "Seleccionar archivo newsrc">
 <!ENTITY browseNewsrc.label "Examinar…">
 <!ENTITY browseNewsrc.accesskey "E">
 

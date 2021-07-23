@@ -61,8 +61,6 @@
 
 <!ENTITY  mediaTab              "Medios">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaURL              "Dirección:">
-<!ENTITY  mediaAlt              "Texto alternativo:">
 <!ENTITY  mediaLocation         "Ubicación:">
 <!ENTITY  mediaText             "Texto asociado:">
 <!ENTITY  mediaAltHeader        "Texto alternativo">
@@ -70,9 +68,6 @@
 <!ENTITY  mediaType             "Tipo">
 <!ENTITY  mediaSize             "Tamaño">
 <!ENTITY  mediaCount            "Cantidad">
-<!ENTITY  mediaDimensions       "Dimensiones específicas:">
-<!ENTITY  mediaPhysDimensions   "Dimensiones actuales:">
-<!ENTITY  mediaTitle            "Título:">
 <!ENTITY  mediaDimension        "Dimensiones:">
 <!ENTITY  mediaLongdesc         "Descripción larga:">
 <!ENTITY  mediaBlockImage.accesskey "B">
@@ -88,18 +83,7 @@
 
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Usar predeterminados">
-<!ENTITY  permAskAlways         "Siempre preguntar">
-<!ENTITY  permAllow             "Permitir">
-<!ENTITY  permAllowSession      "Habilitar para la sesión">
-<!ENTITY  permBlock             "Bloquear">
 <!ENTITY  permissionsFor        "Permisos para:">
-<!ENTITY  permImage             "Cargar imágenes">
-<!ENTITY  permPopup             "Abrir ventanas emergentes">
-<!ENTITY  permCookie            "Establecer cookies">
-<!ENTITY  permNotifications     "Mostrar notificaciones">
-<!ENTITY  permInstall           "Instalar extensiones o temas">
-<!ENTITY  permGeo               "Compartir ubicación">
 
 <!ENTITY  securityTab           "Seguridad">
 <!ENTITY  securityTab.accesskey "S">

@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Agregar etiquetas
+
 pocket-panel-saved-error-generic = Hubo un error al tratar de guardar en { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Las etiquetas están limitadas a 25 caracteres
 pocket-panel-saved-error-only-links = Solamente pueden guardarle enlaces
