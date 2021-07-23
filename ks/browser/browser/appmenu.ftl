@@ -24,6 +24,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = وئن كریو سینك
+
 appmenuitem-save-page =
     .label = صفحہ تھئویو محفوظ اتھ كئن   ...
 
@@ -43,19 +44,12 @@ appmenuitem-save-page =
 appmenu-about =
     .label = برانڈ شاٹ ناو؛;مُتلق&
     .accesskey = ب
-appmenu-help-troubleshooting-info =
-    .label = & مثلئ ہل كرنچ مولومات
-    .accesskey = T
 appmenu-help-feedback-page =
     .label = & پنِن راے كریو دٲخل...
     .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = & تئ دوبارئ كریو شروع ایڈ آنس بند كریتھ...
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

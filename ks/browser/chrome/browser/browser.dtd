@@ -8,6 +8,7 @@
 
 
 <!ENTITY appmenu.tooltip                     "اوپْن مینیو">
+
 <!ENTITY navbarOverflow.label                "مزید ٹول ۔ ۔ ۔">
 
 <!-- Tab context menu -->
@@ -147,11 +148,13 @@ can reach it easily. -->
 
 
 <!ENTITY historyMenu.label "تٲریخ">
+
 <!ENTITY historyUndoMenu.label "حال۪ی بند كرمت ٹیبس">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "حالئی بند كرمت وِنڈوز">
 
 <!ENTITY appMenuHistory.showAll.label "سٲری تٲریخ ہٲویو">
+
 <!ENTITY appMenuHistory.clearRecent.label "حالچ  تعٲریخ كریو صاف">
 <!ENTITY appMenuHistory.restoreSession.label "پتِم سیشن انیو واپس">
 <!ENTITY appMenuHistory.viewSidebar.label "ہسٹری سایِڈ بار کْریو ویو">

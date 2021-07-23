@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = محفوظ موڈس منز كریو شروع
+
 refresh-profile =
     .label = ریفریس &برانڈ شاٹ ناو؛
 safe-mode-description = سیف موڈ چُھ اکھ خاص موڈ &برانڈ شاٹ ناوک؛ یوس ذن ایشو ٹربُل شوٹ کرنْہ باپت استعمال کْرتھ ہیکو۔

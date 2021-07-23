@@ -47,6 +47,8 @@ permissions-invalid-uri-label = منظور شُدئ ہوسٹ ناو كریو د�
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = توہیہ ہیکیو  مخصوص کْرتھ ذِ کمن ویب سایٹن چُھ اجازت پاپ۔اپ وینڈو اوپْن  کرنُک۔ تمہِ سایٹِہ ہُند برابر پتاہ کْریو ٹایپ یس  توہیہ  چھیو یژھان اجازت دیون  تْہ پتْہ کْریو کْلک اجازت دِیو۔

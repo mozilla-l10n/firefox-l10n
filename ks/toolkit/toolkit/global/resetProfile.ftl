@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = &برانڈ شاٹ ناو؛ کْریو ریفریش
+
 refresh-profile-dialog-button =
     .label = &برانڈ شاٹ ناو؛ کْریو ریفریش
 refresh-profile-description = شروع کْریو فریش پرابلیم ٹھیک کرنْہ باپت تْہ ریسٹور کْریو کارکردگی۔

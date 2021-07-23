@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = انسٹال ایرر
 opensearch-error-duplicate-desc = ہیوک نْہ انسٹال کْرتھ تلاش پْلگ اِن  "{ -brand-short-name }" پیٹھ کیازِ کہ امہ ناوک اِنجن اوس گوڈے موجود۔{ $location-url }
+
 opensearch-error-download-title = ڈاؤن لوڈغلطی
 opensearch-error-download-desc = ہیوک نْہ ڈاون لوڈ کْرتھ پْلگ اِن پیٹھ:{ -brand-short-name } { $location-url }
 

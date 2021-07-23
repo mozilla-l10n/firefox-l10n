@@ -31,3 +31,4 @@ translation-sites-button-remove-all =
 translation-button-close =
     .label = بند
     .accesskey = C
+

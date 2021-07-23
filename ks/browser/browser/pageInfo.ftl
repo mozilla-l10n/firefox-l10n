@@ -76,6 +76,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+##
+
 image-size-unknown = نامولوم
 page-info-not-specified =
     .value = چھُنئ مشكَس
