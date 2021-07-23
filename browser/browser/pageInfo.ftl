@@ -56,6 +56,8 @@ media-save-as =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+##
+
 image-size-unknown = Akwaziwa
 page-info-not-specified =
     .value = Akukatjhiwo
