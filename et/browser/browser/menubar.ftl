@@ -36,16 +36,20 @@ menu-quit =
             [windows] j
            *[other] j
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Välju { -brand-shorter-name }ist
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Välju { -brand-shorter-name }ist
+
 menu-about =
     .label = { -brand-shorter-name }i teave
     .accesskey = e
@@ -314,8 +318,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Probleemide lahendamise teave
     .accesskey = P
-menu-help-taskmanager =
-    .label = Tegumihaldur
 menu-help-report-site-issue =
     .label = Anna teada saidil olevast veast…
 menu-help-feedback-page =

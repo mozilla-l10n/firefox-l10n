@@ -57,9 +57,6 @@ tab-context-close-multiple-tabs =
     .label = Sulge mitu kaarti
     .accesskey = m
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -79,6 +76,10 @@ move-tabs =
 move-tab =
     .label = Liiguta kaarti
     .accesskey = i
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-close-tabs =
     .label =
         { $tabCount ->

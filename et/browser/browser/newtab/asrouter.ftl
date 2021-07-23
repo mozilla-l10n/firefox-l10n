@@ -192,3 +192,7 @@ cfr-doorhanger-cryptominers-description = Sinu privaatsus on oluline. { -brand-s
 
 ## What's new: Cookies message
 
+## Fission Experiment Message
+
+## Full Video Support CFR message
+

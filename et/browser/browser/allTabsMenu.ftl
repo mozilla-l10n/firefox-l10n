@@ -8,13 +8,17 @@ all-tabs-menu-undo-close-tabs =
             [one] Võta kaardi sulgemine tagasi
            *[other] Võta kaartide sulgemine tagasi
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Otsi kaartide hulgast
+
 all-tabs-menu-new-user-context =
     .label = Uus konteinerkaart
+
 all-tabs-menu-hidden-tabs =
     .label = Peidetud kaardid
+
 all-tabs-menu-manage-user-context =
     .label = Halda konteinereid
     .accesskey = H

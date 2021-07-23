@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Otsi
 
 newtab-search-box-search-the-web-text = Otsi veebist
+
 newtab-search-box-search-the-web-input =
     .placeholder = Otsi veebist
     .title = Otsi veebist
@@ -56,6 +57,8 @@ newtab-topsites-add-button = Lisa
 newtab-confirm-delete-history-p1 = Kas oled kindel, et soovid ajaloost kõik selle lehe kohta käivad kirjed kustutada?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Seda tegevust pole võimalik tagasi võtta.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -202,3 +205,6 @@ newtab-pocket-cta-text = Salvesta oma lemmiklood { -pocket-brand-name }isse.
 
 newtab-error-fallback-info = Ups, selle sisu laadimisel läks midagi viltu.
 newtab-error-fallback-refresh-link = Uuesti proovimiseks laadi leht uuesti.
+
+## Customization Menu
+

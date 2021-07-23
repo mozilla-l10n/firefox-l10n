@@ -129,6 +129,8 @@ security-site-data-only = Jah, { $value } { $unit } saidi andmeid
 security-site-data-cookies-only = Jah, küpsiseid
 security-site-data-no = Ei
 
+##
+
 image-size-unknown = Tundmatu
 page-info-not-specified =
     .value = Määramata

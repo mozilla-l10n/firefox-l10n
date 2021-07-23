@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Mitte praegu
     .secondarybuttonaccesskey = M
 appmenu-update-restart-message = Pärast kiiret taaskäivitamist taastab { -brand-shorter-name } kõik avatud kaardid ja aknad, mis pole privaatse veebilehitsemise režiimis.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Olgu, sain aru
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Halda oma laiendusi, klõpsates nupul <image data-l10n-name='addon-install-icon'></image> menüüs <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-other-instance =
     .label = { -brand-shorter-name }il pole võimalik automaatselt uuendada uusima versiooni peale.
     .buttonlabel = Uuenda { -brand-shorter-name } sellegipoolest
@@ -39,13 +44,11 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Mitte praegu
     .secondarybuttonaccesskey = M
 appmenu-update-other-instance-message = { -brand-shorter-name }ile on saadaval uuendus, aga seda ei saa paigaldada, sest töötab veel üks versioon { -brand-shorter-name }ist. Uuendamiseks sulge see või vali uuendamine sellegipoolest (teine versioon võib vajada korrektselt töötamiseks taaskäivitamist).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Olgu, sain aru
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Halda oma laiendusi, klõpsates nupul <image data-l10n-name='addon-install-icon'></image> menüüs <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = Sellel laiendusel lubatakse käivituda privaatsetes akendes
     .accesskey = S
+    
 appmenu-new-tab-controlled =
     .label = Uue kaardi sisu on muutunud.
     .buttonlabel = Säilita muudatused
@@ -58,6 +61,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = S
     .secondarybuttonlabel = Keela see laiendus
     .secondarybuttonaccesskey = K
+
 appmenu-new-tab-controlled-changes =
     .label = Uue kaardi sisu on muutunud.
     .buttonlabel = Säilita muudatused

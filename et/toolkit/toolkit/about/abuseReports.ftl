@@ -32,6 +32,11 @@ abuse-report-submit-button = Saada
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Lisast <span data-l10n-name="addon-name">{ $addon-name }</span> raporteerimine katkestati.
 abuse-report-messagebar-submitting = Raporti saatmine lisa <span data-l10n-name="addon-name">{ $addon-name }</span> kohta.
 abuse-report-messagebar-submitted = Täname raporti saatmise eest. Kas soovid lisa <span data-l10n-name="addon-name">{ $addon-name }</span> eemaldada?

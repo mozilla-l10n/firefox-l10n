@@ -5,53 +5,70 @@
 permissions-window =
     .title = Erandid
     .style = width: 36em
+
 permissions-close-key =
     .key = W
+
 permissions-address = Saidi aadress
     .accesskey = a
+
 permissions-block =
     .label = Bloki
     .accesskey = B
+
 permissions-session =
     .label = Luba selleks seansiks
     .accesskey = s
+
 permissions-allow =
     .label = Luba
     .accesskey = a
+
 permissions-site-name =
     .label = Sait
+
 permissions-status =
     .label = Olek
+
 permissions-remove =
     .label = Eemalda sait
     .accesskey = E
+
 permissions-remove-all =
     .label = Eemalda kõik saidid
     .accesskey = k
+
 permissions-button-cancel =
     .label = Loobu
     .accesskey = L
+
 permissions-button-ok =
     .label = Salvesta muudatused
     .accesskey = S
+
 permission-dialog =
     .buttonlabelaccept = Salvesta muudatused
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = Vaikeväärtus kõigi saitide jaoks:
+
 permissions-searchbox =
     .placeholder = Otsi saiti
+
 permissions-capabilities-autoplay-allow =
     .label = heli ja video lubatakse
 permissions-capabilities-autoplay-block =
     .label = heli blokitakse
 permissions-capabilities-autoplay-blockall =
     .label = heli ja video blokitakse
+
 permissions-capabilities-allow =
     .label = Lubatud
 permissions-capabilities-block =
     .label = Blokitud
 permissions-capabilities-prompt =
     .label = Alati küsitakse
+
 permissions-capabilities-listitem-allow =
     .value = Lubatud
 permissions-capabilities-listitem-block =
@@ -77,6 +94,8 @@ permissions-exceptions-cookie-window =
     .title = Erandid - küpsised ja saidi andmed
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Siin saad määrata, millistel saitidel on alati või mitte kunagi lubatud küpsiste ja saidi andmete kasutamine.  Sisesta hallatava saidi täpne aadress ning seejärel klõpsa Bloki, Luba selleks seansiks või Luba.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

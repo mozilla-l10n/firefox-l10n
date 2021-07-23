@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Lisa silte
+
 pocket-panel-saved-error-generic = { -pocket-brand-name }isse salvestamisel esines viga.
 pocket-panel-saved-error-tag-length = Siltide pikkus võib olla kuni 25 tähemärki
 pocket-panel-saved-error-only-links = Salvestada saab ainult linke

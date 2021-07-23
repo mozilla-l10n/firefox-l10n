@@ -24,6 +24,7 @@ appmenuitem-zoom-enlarge =
     .label = Suurenda
 appmenuitem-zoom-reduce =
     .label = Vähenda
+
 appmenuitem-fullscreen =
     .label = Täisekraani režiim
 
@@ -31,12 +32,14 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sünkroniseeri kohe
+
 appmenuitem-save-page =
     .label = Salvesta veebileht kui…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Mis on uut?
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -89,3 +92,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Tegumihaldur
+
