@@ -318,3 +318,8 @@ touch-warning = અસમર્થ પસંદગીને કારણે અ�
 policies-inactive = નિષ્ક્રિય
 policies-active = સક્રિય
 policies-error = ભૂલ
+
+## Printing section
+
+## Normandy sections
+

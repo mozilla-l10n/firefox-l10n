@@ -23,6 +23,7 @@ appmenuitem-zoom-enlarge =
     .label = મોટું કરો
 appmenuitem-zoom-reduce =
     .label = નાનુ કરો
+
 appmenuitem-fullscreen =
     .label = પૂર્ણ સ્ક્રીન
 
@@ -30,6 +31,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = હમણાં સમન્વયિત કરો
+
 appmenuitem-save-page =
     .label = આ રીતે પૃષ્ઠ સાચવો ...
 
@@ -83,3 +85,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = કાર્ય વ્યવસ્થાપક
+

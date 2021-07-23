@@ -175,3 +175,7 @@ cfr-whatsnew-lockwise-backup-link-text = બેકઅપ ચાલુ કરો
 
 ## What's new: Cookies message
 
+## Fission Experiment Message
+
+## Full Video Support CFR message
+

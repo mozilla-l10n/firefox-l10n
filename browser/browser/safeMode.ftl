@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = સુરક્ષિત સ્થિતિમાં શરૂ કરો
+
 refresh-profile =
     .label = તાજું કરો { -brand-short-name }
 safe-mode-description = સુરક્ષિત સ્થિતિ { -brand-short-name } ની ખાસ સ્થિતિ છે કે જે સમસ્યાઓનું મુશ્કેલી નિવારણ કરવા માટે વાપરી શકાય છે.

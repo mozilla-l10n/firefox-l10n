@@ -168,6 +168,7 @@
 <!ENTITY pasteButton.tooltip            "ચોંટાડો">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "r"> 
 <!ENTITY subject.accesskey "S">
 

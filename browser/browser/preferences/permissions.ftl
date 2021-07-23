@@ -5,46 +5,61 @@
 permissions-window =
     .title = અપવાદો
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = વેબ સાઈટનું સરનામું
     .accesskey = d
+
 permissions-block =
     .label = બ્લોક
     .accesskey = B
+
 permissions-session =
     .label = સત્ર માટે પરવાનગી આપો
     .accesskey = S
+
 permissions-allow =
     .label = પરવાનગી આપો
     .accesskey = A
+
 permissions-site-name =
     .label = વેબસાઇટ
+
 permissions-status =
     .label = પરિસ્થિતિ
+
 permissions-remove =
     .label = વેબસાઇટ દૂર કરો
     .accesskey = R
+
 permissions-remove-all =
     .label = બધી વેબસાઇટ્સને દૂર કરો
     .accesskey = e
+
 permissions-button-cancel =
     .label = રદ કરો
     .accesskey = C
+
 permissions-button-ok =
     .label = પરિવર્તનો સાચવો
     .accesskey = S
+
 permission-dialog =
     .buttonlabelaccept = પરિવર્તનો સાચવો
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = વેબસાઇટ શોધો
+
 permissions-capabilities-allow =
     .label = માન્યતા આપો
 permissions-capabilities-block =
     .label = બ્લોક
 permissions-capabilities-prompt =
     .label = હંમેશા પૂછો
+
 permissions-capabilities-listitem-allow =
     .value = માન્યતા આપો
 permissions-capabilities-listitem-block =
@@ -66,6 +81,8 @@ permissions-exceptions-cookie-window =
     .title = અપવાદો - કૂકીઝ અને સાઇટ ડેટા
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = તમે કઈ વેબસાઇટ્સને કૂકીઝ અને સાઇટ ડેટાનો ઉપયોગ કરવા માટે હંમેશાં મંજૂરી અથવા ક્યારેક મંજૂરી આપી શકો તે નિર્દિષ્ટ કરી શકો છો.  તમે જે સાઇટને સંચાલિત કરવા માંગો છો તેનું ચોક્કસ સરનામું લખો અને પછી અવરોધિત કરો, સત્ર માટે પરવાનગી આપો, અથવા માત્ર પરવાનગી આપો પર ક્લિક કરો.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

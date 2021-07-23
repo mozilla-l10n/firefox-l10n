@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ટૅગ્સ ઉમેરો
+
 pocket-panel-saved-error-generic = { -pocket-brand-name } પર સાચવી રાખવા માટે પ્રયાસ કરતા હતા ત્યારે એક ભૂલ આવી હતી.
 pocket-panel-saved-error-tag-length = ટૅગ્સ 25 અક્ષરો સુધી મર્યાદિત છે
 pocket-panel-saved-error-only-links = માત્ર લિંક્સ સાચવી શકાય છે

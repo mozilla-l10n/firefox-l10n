@@ -40,3 +40,4 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword =
     .value = મુખ્ય શબ્દ:
     .accesskey = K
+

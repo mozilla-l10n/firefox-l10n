@@ -298,6 +298,11 @@ enable-addon-button = સક્રિય
 ## Pending uninstall message bar
 
 
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+##
+
 ## Page headings
 
 extension-heading = તમારા એક્સ્ટેંશન્સ ને સંચાલિત કરો

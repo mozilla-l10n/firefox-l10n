@@ -126,6 +126,8 @@ security-site-data-only = હા, સાઇટ ડેટાના { $value } { $
 security-site-data-cookies-only = હા, કૂકીઝ
 security-site-data-no = ના
 
+##
+
 image-size-unknown = અજ્ઞાત
 page-info-not-specified =
     .value = સ્પષ્ટ થયેલ નથી
