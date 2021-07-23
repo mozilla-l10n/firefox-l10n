@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Inneall WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = sábháil about:webrtc mar
@@ -51,13 +52,7 @@ about-webrtc-ice-rollback-count-label = Tiontuithe siar ICE:
 about-webrtc-ice-pair-bytes-sent = Bearta seolta:
 about-webrtc-ice-pair-bytes-received = Bearta faighte:
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -69,13 +64,16 @@ about-webrtc-type-remote = I gCéin
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Ainmnithe
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Roghnaithe
+
 about-webrtc-save-page-label = Sábháil an Leathanach
 about-webrtc-debug-mode-msg-label = Mód Dífhabhtaithe
 about-webrtc-debug-mode-off-state-label = Tosaigh an Mód Dífhabhtaithe
@@ -101,6 +99,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (dúnta)
 
 ##
 
+
 about-webrtc-local-candidate = Iarrthóir Áitiúil
 about-webrtc-remote-candidate = Iarrthóir Cianda
 about-webrtc-priority = Tosaíocht
@@ -116,7 +115,6 @@ about-webrtc-encoder-label = Ionchódóir
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -126,6 +124,8 @@ about-webrtc-save-page-msg = sábhaladh an leathanach i: { $path }
 about-webrtc-debug-mode-off-state-msg = is féidir teacht ar an logchomhad rianaithe anseo: { $path }
 about-webrtc-debug-mode-on-state-msg = mód dífhabhtaithe ar siúl, logchomhad rianaithe: { $path }
 about-webrtc-aec-logging-off-state-msg = is féidir teacht ar na logchomhaid ghafa in: { $path }
+
+##
 
 ##
 
@@ -140,4 +140,7 @@ about-webrtc-jitter-label = Giodam { $jitter }
 
 
 ##
+
+##
+
 

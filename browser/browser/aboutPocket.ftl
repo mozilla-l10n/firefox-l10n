@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Cuir Clibeanna Leis
+
 pocket-panel-saved-error-generic = Tharla earráid le linn na sábhála i b{ -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Ní cheadaítear níos mó ná 25 carachtar i gclib
 pocket-panel-saved-error-only-links = Ní féidir ach nascanna a shábháil

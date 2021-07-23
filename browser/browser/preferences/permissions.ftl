@@ -63,6 +63,8 @@ permissions-invalid-uri-label = Cuir óstainm bailí isteach, le do thoil
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Is féidir na suímh a bhfuil cead acu preabfhuinneoga a oscailt a shonrú. Clóscríobh seoladh cruinn an tsuímh a theastaíonn uait a cheadú agus ansin cliceáil Ceadaigh.

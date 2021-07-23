@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Athnuaigh { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Athnuaigh { -brand-short-name }
 refresh-profile-description = Tosaigh as an nua chun fadhbanna a réiteach agus luas a fheabhsú.

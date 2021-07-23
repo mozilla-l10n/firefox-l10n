@@ -5,6 +5,7 @@
 screenshots-context-menu = Glac Gabháil Scáileáin
 
 screenshots-my-shots-button = Mo Chuid Gabhálacha
+
 screenshots-instructions = Tarraing nó cliceáil ar an leathanach chun réigiún a roghnú. Brúigh ESC le cealú.
 screenshots-cancel-button = Cealaigh
 screenshots-save-visible-button = Sábháil an réigiún infheicthe

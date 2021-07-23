@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fieldMapImport.title "Iompórtáil Leabhair Sheoltaí">
+
 <!ENTITY fieldMapImport.size "width: 44em; height: 33em;">
 <!ENTITY fieldMapImport.recordNumber "Sonraí iompórtáilte don taifead: ">
 <!ENTITY fieldMapImport.next.label "Ar Aghaidh">

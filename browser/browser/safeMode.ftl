@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Tosaigh sa Mhód Slán
+
 refresh-profile =
     .label = Athnuaigh { -brand-short-name }
 safe-mode-description = Is éard atá sa Mhód Slán ná mód speisialta { -brand-short-name } lenar féidir fadhbanna a cheartú.
