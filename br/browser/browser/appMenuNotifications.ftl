@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Mat eo, komprenet am eus
     .buttonaccesskey = M
 appmenu-addon-post-install-message = Merit hoc'h askouezhioù en ur glikañ war <image data-l10n-name='addon-install-icon'></image> el lañser <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Hizivadenn hegerz
     .buttonlabel = Pellgargañ
@@ -71,6 +72,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ket bremañ
     .secondarybuttonaccesskey = K
 appmenu-update-other-instance-message = Un hizivadenn nevez eus { -brand-shorter-name } a zo hegerz, met n’hall ket bezañ staliet dre ma zo ur staliadenn all eus { -brand-shorter-name } a zo lañset. Serrit anezhi evit kenderc'hel gant an hizivadenn, pe dibabit da hizivaat memestra (gallout a ra ar staliadenn all chom hep mont en-dro betek ma adloc'hfec'h anezhi).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Mat eo
     .buttonaccesskey = M
@@ -78,6 +80,7 @@ appmenu-addon-post-install-message3 = Merit hoc'h askouezhioù hag ho neuzioù d
 appmenu-addon-post-install-incognito-checkbox =
     .label = Aotren an askouezh-mañ da vezañ lañset en ur prenestr merdeiñ prevez
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = Kemmet eo bet pajenn an ivinell nevez.
     .buttonlabel = Mirout ar c'hemmoù
@@ -90,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Diweredekaat an askouezh
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = Kemmet eo bet pajenn an ivinell nevez.
     .buttonlabel = Mirout ar c'hemmoù

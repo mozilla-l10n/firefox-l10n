@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Diabarzhiadoù WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = enrollañ about:webrtc evel
@@ -57,13 +58,7 @@ about-webrtc-ice-pair-bytes-sent = Eizhbitoù kaset:
 about-webrtc-ice-pair-bytes-received = Eizhbitoù degemeret:
 about-webrtc-ice-component-id = Naoudi ar parzh
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -75,13 +70,16 @@ about-webrtc-type-remote = A-bell
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Rakdibabet
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Diuzet
+
 about-webrtc-save-page-label = Enrollañ ar bajenn
 about-webrtc-debug-mode-msg-label = Mod Diveugañ
 about-webrtc-debug-mode-off-state-label = Deraouiñ ar Mod Diveugañ
@@ -106,6 +104,7 @@ about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (bet serret) { $now }
 
 ##
+
 
 about-webrtc-local-candidate = Rakdibab lec'hel
 about-webrtc-remote-candidate = Rakdibab a-bell
@@ -133,7 +132,6 @@ about-webrtc-rotation-degrees = Troiñ (derezioù)
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -146,11 +144,14 @@ about-webrtc-aec-logging-off-state-msg = Restroù kerzhlevr euvret a c'hall beza
 
 ##
 
+##
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Distabilder { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -161,4 +162,7 @@ about-webrtc-trickle-caption-msg = An emstriverien gorrek (a zegouezh goude ar r
 
 
 ##
+
+##
+
 

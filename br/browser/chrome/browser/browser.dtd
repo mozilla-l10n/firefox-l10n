@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Digeriñ al lañser">
+
 <!ENTITY navbarOverflow.label                "Muioc'h a ostilhoù…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Arventennoù &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Kennaskañ un trevnad all…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Kennaskañ ouzh &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Gweredekaat &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Gwazerezhioù &brandProductName;">
@@ -139,19 +141,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Roll istor">
+
 <!ENTITY historyUndoMenu.label "Ivinelloù serret nevez zo">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Prenestroù serret nevez zo">
 
 <!ENTITY appMenuHistory.showAll.label "Diskouez ar roll istor a-bezh">
+
 <!ENTITY appMenuHistory.clearRecent.label "Skarzhañ ar roll istor nevesañ…">
 <!ENTITY appMenuHistory.restoreSession.label "Assav an estez kent">
 <!ENTITY appMenuHistory.viewSidebar.label "Gwelout barrenn gostez ar roll istor">
 <!ENTITY appMenuHistory.hideSidebar.label "Kuzhat barrenn gostez ar roll istor">
 <!ENTITY appMenuHistory.recentHistory.label "Roll istor nevesañ">
+
 <!ENTITY appMenuHelp.label "Skoazell">
 
 <!ENTITY appMenuRemoteTabs.label "Ivinelloù goubredet">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ivinell digor ebet">

@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Kemer a ran ar riskl!
 config-about-warning-checkbox =
     .label = Diskouez ar c'hemenn-mañ ar wech a zeu
+
 config-search-prefs =
     .value = Klask:
     .accesskey = K
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Eilañ
     .accesskey = l
+
 config-copy-name =
     .label = Eilañ an anv
     .accesskey = l
+
 config-copy-value =
     .label = Eilañ ar werzh
     .accesskey = l
+
 config-modify =
     .label = Daskemmañ
     .accesskey = m
+
 config-toggle =
     .label = Trec'haoliñ
     .accesskey = r
+
 config-reset =
     .label = Adderaouekaat
     .accesskey = A
+
 config-new =
     .label = Nevez
     .accesskey = N
+
 config-string =
     .label = Hedad
     .accesskey = d
+
 config-integer =
     .label = Kevan
     .accesskey = K
+
 config-boolean =
     .label = Boulean
     .accesskey = B
+
 config-default = diouer
 config-modified = kemmet
 config-locked = morailhet
+
 config-property-string = hedad
 config-property-int = kevan
 config-property-bool = boulean
+
 config-new-prompt = Reiñ anv ar gwellvez
+
 config-nan-title = Gwerzh didalvoudek
 config-nan-text = An destenn roet ganeoc'h n'eo ket un niver.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Gwerzh { $type } nevez
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Reiñ gwerzh { $type }

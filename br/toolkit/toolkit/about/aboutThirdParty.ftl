@@ -4,14 +4,18 @@
 
 third-party-page-title = Titouroù diwar-benn an trede-molladoù
 third-party-section-title = Listenn an trede-molladoù e { -brand-short-name }
+
 third-party-intro =
     Ar bajenn-mañ a ziskouez an trede-molladoù bet sanket en ho
     { -brand-short-name }. Pep mollad ha n'eo ket bet sinet gant Microsoft pe
     { -vendor-short-name } a vez graet trede-mollad anezhañ.
+
 third-party-header-module-list = Listenn ar molladoù
 third-party-header-loading-events = O kargañ an darvoudoù
+
 third-party-message-empty = Tamm trede-mollad ebet a zo bet kavet.
 third-party-message-no-duration = N'eo ket enrollet
+
 third-party-detail-version = Handelv ar restr
 third-party-detail-vendor = Titouroù diwar-benn ar gwerzher
 third-party-detail-occurrences = Degouezhioù
@@ -20,9 +24,11 @@ third-party-detail-duration = Amzer stankañ keitat (ms)
     .title = Pegeit amzer eo bet stanket an arload gant ar mollad-mañ.
 third-party-detail-app = Arload
 third-party-detail-publisher = Embanner
+
 third-party-th-process = Argerzh
 third-party-th-duration = Padelezh ar c'hargañ (ms)
 third-party-th-status = Stad
+
 third-party-tag-ime = IME
     .title = Karget e vez an doare mollad-mañ pa implijit un trede-IME.
 third-party-tag-shellex = Askouezh Shell
@@ -35,9 +41,11 @@ third-party-unsigned-icon =
     .title = N'eo ket sinet ar mollad-mañ
 third-party-warning-icon =
     .title = { -brand-short-name } a zo chomet sac'het e-barzh kod ar mollad-mañ.
+
 third-party-status-loaded = Karget
 third-party-status-blocked = Stanket
 third-party-status-redirected = Adhenchet
+
 third-party-button-copy-to-clipboard = Eilañ ar roadenn diaoz er golver
 third-party-button-reload = Kargañ en-dro gant an titouroù reizhad
     .title = Kargañ en-dro gant an titouroù reizhad

@@ -10,13 +10,16 @@ containers-window-new =
 containers-window-update =
     .title = Gwellvezioù Endalc'her { $name }
     .style = width: 45em
+
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = Arventennoù an endalc'her { $name }
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -27,23 +30,30 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Anv
     .accesskey = A
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Enankit anv un endalc'her
+
 containers-icon-label = Arlun
     .accesskey = A
     .style = { -containers-labels-style }
+
 containers-color-label = Liv
     .accesskey = i
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = Mat eo
     .accesskey = M
+
 containers-dialog =
     .buttonlabelaccept = Mat eo
     .buttonaccesskeyaccept = M
+
 containers-color-blue =
     .label = Glas
 containers-color-turquoise =
@@ -62,6 +72,7 @@ containers-color-purple =
     .label = Limestra
 containers-color-toolbar =
     .label = A glot gant ar varrenn ostilhoù
+
 containers-icon-fence =
     .label = Kloued
 containers-icon-fingerprint =

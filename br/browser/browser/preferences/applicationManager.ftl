@@ -5,12 +5,15 @@
 app-manager-window =
     .title = Munudoù an arload
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Dilemel
     .accesskey = D
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Ar goulevioù da heul a c'hell bezañ arveret evit dornata ereoù { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Ar goulevioù da heul a c'hell bezañ arveret evit dornata endalc'had { $type }.

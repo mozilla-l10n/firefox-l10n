@@ -23,6 +23,7 @@ places-open-window =
 places-open-private-window =
     .label = Digeriñ e-barzh ur prenestr merdeiñ prevez nevez
     .accesskey = m
+
 places-new-bookmark =
     .label = Sined nevez…
     .accesskey = n
@@ -35,12 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = Disranner nevez
     .accesskey = s
+
 places-open-in-window =
     .label = Digeriñ e-barzh ur prenestr nevez
     .accesskey = n
 places-open-in-private-window =
     .label = Digeriñ e-barzh ur prenestr merdeiñ prevez nevez
     .accesskey = p
+
 places-add-bookmark =
     .label = Ouzhpennañ ur sined…
     .accesskey = s
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = Ouzhpennañ un disranner
     .accesskey = d
+
 places-view =
     .label = Gwelout
     .accesskey = w
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Diouzh an deiziad hag al lec'hienn
     .accesskey = D
+
 places-history-search =
     .placeholder = Klask er roll istor
 places-bookmarks-search =
     .placeholder = Klask er sinedoù
+
 places-delete-domain-data =
     .label = Ankouaat al lec'hienn-mañ
     .accesskey = A
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = Perzhioù
     .accesskey = i
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Embann ar sined…
@@ -105,15 +112,18 @@ places-remove-folder =
            *[other] Dilemel an teuliadoù
         }
     .accesskey = D
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Sinedoù meret
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Isteuliad
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Sinedoù all
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -127,6 +137,7 @@ places-remove-bookmark =
            *[other] Dilemel ar sinedoù
         }
     .accesskey = i
+
 places-manage-bookmarks =
     .label = Merañ ar sinedoù
     .accesskey = M

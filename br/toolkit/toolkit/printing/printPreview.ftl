@@ -57,3 +57,4 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Pajennad diwezhañ
+

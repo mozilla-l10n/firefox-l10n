@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Azbevaat { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Azbevaat { -brand-short-name }
 refresh-profile-description = Kregiñ gant un aelad nevez evit reizhañ ar c'hudennoù ha gwellaat an digonusted.

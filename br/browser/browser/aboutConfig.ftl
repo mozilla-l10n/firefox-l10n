@@ -14,10 +14,13 @@ about-config-intro-warning-button = Asantiñ ar riskloù ha kenderc’hel
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Kemmañ ar gwellvezioù-mañ a c’hall levezoniñ digonusted ha diogelroez { -brand-short-name }.
+
 about-config-page-title = Gwellvezioù araoket
+
 about-config-search-input1 =
     .placeholder = Klask un anv gwellvezioù
 about-config-show-all = Diskouez an holl
+
 about-config-pref-add-button =
     .title = Ouzhpennañ
 about-config-pref-toggle-button =

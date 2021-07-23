@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Ouzhpennañ skritelligoù
+
 pocket-panel-saved-error-generic = Ur fazi a zo bet en ur enrollañ davet { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Bevennet eo ar skritelligoù da 25 arouezenn
 pocket-panel-saved-error-only-links = N'haller enrollañ ereoù nemetken

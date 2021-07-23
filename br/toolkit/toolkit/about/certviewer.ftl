@@ -74,6 +74,7 @@ certificate-viewer-authority-key-id = ID alc'hwez an aotrouniezh
 certificate-viewer-authority-info-aia = Titouroù diwar-benn an aotrouniezh (AIA)
 certificate-viewer-certificate-policies = Politikerezhioù an testeni
 certificate-viewer-embedded-scts = SCTs ebarzhet
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Pellgargañ
@@ -93,6 +94,7 @@ certificate-viewer-download-pem = PEM (testeni)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chadenn)
     .download = { $fileName }-chain.pem
+
 certificate-viewer-export = Ezporzhiañ
     .download = { $fileName }.pem
 

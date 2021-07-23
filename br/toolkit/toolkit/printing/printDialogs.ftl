@@ -103,6 +103,7 @@ print-window =
     .title = O voullañ
 print-complete =
     .value = Echu eo ar moullañ
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

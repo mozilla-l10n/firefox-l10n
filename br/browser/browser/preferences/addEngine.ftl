@@ -5,18 +5,18 @@
 add-engine-window =
     .title = Ouzhpennañ ul lusker enklask
     .style = width: 32em;
+
 add-engine-button = Ouzhpennañ ul lusker personelaet
+
 add-engine-name = Anv ar c'heflusker enklask
+
 add-engine-alias = Alias
+
 add-engine-url = URL al lusker, implijit %s e-lec'h an termen da glask
-add-engine-cancel =
-    .label = Nullañ
-    .accesskey = N
-add-engine-ok =
-    .label = Ouzhpennañ ul lusker
-    .accesskey = O
+
 add-engine-dialog =
     .buttonlabelaccept = Ouzhpennañ ul lusker
     .buttonaccesskeyaccept = O
+
 engine-name-exists = Ul lusker gant an anv-se ez eus anezhañ endeo
 engine-alias-exists = Ul lusker gant an alias-se ez eus anezhañ dija

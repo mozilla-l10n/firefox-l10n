@@ -11,6 +11,7 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Merker ar rannañ
+
 webrtc-sharing-window = Rannañ a rit prenestr un arload all.
 webrtc-sharing-browser-window = O rannañ { -brand-short-name } emaoc'h.
 webrtc-sharing-screen = O rannañ ho skramm a-bezh emaoc'h.
@@ -29,6 +30,7 @@ webrtc-camera-muted =
     .title = Enaouiñ ar c'hamera
 webrtc-minimize =
     .title = Bihanaat ar merker
+
 # This string will display as a tooltip on supported systems where we show
 # device sharing state in the OS notification area. We do not use these strings
 # on macOS, as global menu bar items do not have native tooltips.

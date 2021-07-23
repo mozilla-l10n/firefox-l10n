@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Kregiñ e-barzh ar mod diogel
+
 start-troubleshoot-mode =
     .label = Digeriñ
 refresh-profile =

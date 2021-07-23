@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Enporzhit hoc'h anaouder diouzh { $browser }</div>
     <div data-l10n-name="line2">evit { $host } ha lec'hiennoù all</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Gouzout hiroc’h
 

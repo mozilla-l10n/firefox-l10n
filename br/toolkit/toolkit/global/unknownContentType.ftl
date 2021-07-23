@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Digeriñ gant { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

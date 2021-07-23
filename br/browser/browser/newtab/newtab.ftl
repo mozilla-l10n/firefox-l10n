@@ -8,6 +8,7 @@
 newtab-page-title = Ivinell nevez
 newtab-settings-button =
     .title = Personelait ho pajenn Ivinell Nevez
+
 newtab-personalize-button-label = Personelaat
     .title = Personelaat un ivinell nevez
     .aria-label = Personelaat un ivinell nevez
@@ -23,7 +24,9 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Klask
     .aria-label = Klask
+
 newtab-search-box-search-the-web-text = Klask er web
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Klask gant { $engine } pe skrivañ ur chomlecʼh
@@ -38,10 +41,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Klask pe skrivañ ur chomlecʼh
     .title = Klask pe skrivañ ur chomlecʼh
     .aria-label = Klask pe skrivañ ur chomlecʼh
+
 newtab-search-box-search-the-web-input =
     .placeholder = Klask er web
     .title = Klask er web
     .aria-label = Klask er web
+
 newtab-search-box-input =
     .placeholder = Klask er web
     .aria-label = Klask er web
@@ -56,10 +61,12 @@ newtab-topsites-edit-shortcut-header = Kemmañ ar verradenn
 newtab-topsites-title-label = Titl
 newtab-topsites-title-input =
     .placeholder = Enankañ un titl
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Skrivit pe pegit un URL
 newtab-topsites-url-validation = URL talvoudek azgoulennet
+
 newtab-topsites-image-url-label = URL ar skeudenn personelaet
 newtab-topsites-use-image-link = Ober gant ur skeudenn personelaet…
 newtab-topsites-image-validation = N'haller ket kargan ar skeudenn. Klaskit gant un URL disheñvel.
@@ -88,10 +95,12 @@ newtab-topsite-sponsored = Paeroniet
 newtab-menu-section-tooltip =
     .title = Digeriñ al lañser
     .aria-label = Digeriñ al lañser
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Dilemel
     .aria-label = Dilemel
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -160,10 +169,12 @@ newtab-label-removed-bookmark = Sined dilamet
 newtab-label-recommended = Brudet
 newtab-label-saved = Enrollet e { -pocket-brand-name }
 newtab-label-download = Pellgarget
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · paeroniet
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -202,10 +213,12 @@ newtab-section-header-pocket = Erbedet gant { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Krogit da verdeiñ hag e tiskouezimp deoc’h pennadoù, videoioù ha pajennoù all gweladennet pe lakaet er sinedoù nevez ’zo.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Aet oc'h betek penn. Distroit diwezhatoc'h evit muioc’h a istorioù digant { $provider }. N’oc'h ket evit gortoz? Dibabit un danvez brudet evit klask muioc’h a bennadoù dedennus eus pep lec’h er web.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -250,6 +263,7 @@ newtab-custom-pocket-sponsored = Istorioù paeroniet
 newtab-custom-recent-title = Oberiantiz nevesañ
 newtab-custom-recent-subtitle = Un dibab lec'hiennoù ha danvezioù nevez
 newtab-custom-close-button = Serriñ
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

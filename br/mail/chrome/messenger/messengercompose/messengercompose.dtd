@@ -242,6 +242,7 @@
 <!ENTITY printButton.tooltip "Moullañ ar gemennadenn-mañ">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "b">
 <!ENTITY subject.accesskey "D">
 <!ENTITY attachmentBucketCloseButton.tooltip "Kuzhat penel ar c'henstagadurioù">
