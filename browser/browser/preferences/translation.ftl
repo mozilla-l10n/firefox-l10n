@@ -8,3 +8,4 @@ translation-languages-column =
 translation-button-close =
     .label = Vala
     .accesskey = V
+

@@ -18,8 +18,10 @@ move-to-new-window =
     .label = Hambisa kuwindi elisha
     .accesskey = k
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Vala Isigqebhe
     .accesskey = V
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

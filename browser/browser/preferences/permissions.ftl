@@ -47,6 +47,8 @@ permissions-invalid-uri-label = Sicela ufake igama lomxhumi elisebenzayo
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Ungasho ngokuqondile ukuthi iziphi izingosi ezivunyelwe ukuvula amafasitela aqhamuka esikhaleni. Bhala ikheli eliqondile le ngosi ofuna ukuyivumela bese uchofoza okuthi Vumela.

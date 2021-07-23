@@ -56,3 +56,4 @@ places-sortby-name =
 places-properties =
     .label = Izici
     .accesskey = i
+

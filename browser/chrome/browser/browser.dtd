@@ -155,6 +155,7 @@ when there are no windows but Firefox is still running. -->
 
 
 <!ENTITY historyMenu.label "Umlando">
+
 <!ENTITY historyUndoMenu.label "Omaki abasanda ukuvalwa">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Amafasitela asanda kuvalwa">
