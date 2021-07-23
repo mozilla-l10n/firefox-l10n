@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Cak I kit maber
+
 refresh-profile =
     .label = Ter { -brand-short-name } odoco
 safe-mode-description = Kit maber obedo kit ma pire tek me { -brand-short-name } ma kitwero tic kwede me yubu bal.

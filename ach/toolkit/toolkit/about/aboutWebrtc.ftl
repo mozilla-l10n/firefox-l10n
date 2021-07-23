@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Tic ma iyi WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = gwok about:webrtc calo
@@ -47,13 +48,7 @@ about-webrtc-ice-state = Kit ma ICE tye kwede
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Wel me ICE
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -65,13 +60,16 @@ about-webrtc-type-remote = Ki kama bor
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Kicimo
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Kiyero
+
 about-webrtc-save-page-label = Gwok pot buk
 about-webrtc-debug-mode-msg-label = Kit me nong bal
 about-webrtc-debug-mode-off-state-label = Cak kit me nongo bal
@@ -96,6 +94,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (kiloro)
 
 ##
 
+
 about-webrtc-local-candidate = Lacungu ma gang
 about-webrtc-remote-candidate = Lacungu ma kama bor
 about-webrtc-priority = Pire tek
@@ -111,7 +110,6 @@ about-webrtc-encoder-label = Lamung coc
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -121,6 +119,8 @@ about-webrtc-save-page-msg = kigwoko potbuk i: { $path }
 about-webrtc-debug-mode-off-state-msg = coc ikom lubo kor nonge i: { $path }
 about-webrtc-debug-mode-on-state-msg = tye i kit me nongo bal, loke nonge i: { $path }
 about-webrtc-aec-logging-off-state-msg = pwail me gwok ma kimako nonge i: { $path }
+
+##
 
 ##
 
@@ -135,4 +135,7 @@ about-webrtc-jitter-label = Bare { $jitter }
 
 
 ##
+
+##
+
 

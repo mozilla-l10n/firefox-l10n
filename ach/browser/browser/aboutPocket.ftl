@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Med lanyut
+
 pocket-panel-saved-error-generic = Bal otime i kare me temo gwoko i { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Lageng me lanyut tye kit 25
 pocket-panel-saved-error-only-links = Ki gwoko kakube keken

@@ -23,6 +23,7 @@ appmenuitem-zoom-enlarge =
     .label = Kwot madit
 appmenuitem-zoom-reduce =
     .label = Jwik matidi
+
 appmenuitem-fullscreen =
     .label = Wang komputa ma opong
 
@@ -30,12 +31,14 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Rib Kombedi
+
 appmenuitem-save-page =
     .label = Gwok pot buk calo…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ngo Manyen
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =

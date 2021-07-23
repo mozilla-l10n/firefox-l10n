@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Yab nying gin ayera">
+
 <!ENTITY navbarOverflow.label                "Jami tic mukene…">
 
 <!-- Tab context menu -->
@@ -145,18 +146,22 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "Y">
 
 <!ENTITY historyMenu.label "Gin mukato">
+
 <!ENTITY historyUndoMenu.label "Dirica matino ma kiloro cokki">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Dirica ma kiloro cokki">
 
 <!ENTITY appMenuHistory.showAll.label "Nyut gin mukato weng">
+
 <!ENTITY appMenuHistory.clearRecent.label "Jwa gin mukato cokki…">
 <!ENTITY appMenuHistory.restoreSession.label "Dwok kare ma okato ni">
 <!ENTITY appMenuHistory.viewSidebar.label "Nen gintic me gin mukato">
 <!ENTITY appMenuHistory.recentHistory.label "Mukato cokki">
+
 <!ENTITY appMenuHelp.label "Kony">
 
 <!ENTITY appMenuRemoteTabs.label "Dirica matino ma kiribo">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Dirica matino pe ayaba">

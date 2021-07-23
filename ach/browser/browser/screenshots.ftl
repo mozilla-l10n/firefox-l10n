@@ -5,6 +5,7 @@
 screenshots-context-menu = Mak cal me wang kio
 
 screenshots-my-shots-button = Cal Na
+
 screenshots-instructions = Ywar onyo dii ii potbuk me yero bute. Dii ESC me juko.
 screenshots-cancel-button = Juki
 screenshots-save-visible-button = Gwok ma nen

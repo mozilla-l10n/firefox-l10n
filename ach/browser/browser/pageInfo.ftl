@@ -129,6 +129,8 @@ security-site-data-only = Eyo, { $value } { $unit } me data me kakube
 security-site-data-cookies-only = Eyo, angija
 security-site-data-no = Pe
 
+##
+
 image-size-unknown = Pe ngene
 page-info-not-specified =
     .value = Pe kicimo

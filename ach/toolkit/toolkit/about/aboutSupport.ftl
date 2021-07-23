@@ -231,3 +231,8 @@ touch-warning = kijuko woko keto me aguda mape time la kacel pi ter mape kicwako
 policies-inactive = Pe tye katic
 policies-active = Tye katic
 policies-error = Bal
+
+## Printing section
+
+## Normandy sections
+

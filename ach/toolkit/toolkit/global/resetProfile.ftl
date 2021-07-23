@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Nwo { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Cak { -brand-short-name } odoco
 refresh-profile-description = Cak odoco me yubo bal ki dwoko tic.

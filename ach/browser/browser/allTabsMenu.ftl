@@ -8,10 +8,14 @@ all-tabs-menu-undo-close-tabs =
             [1] Gony loro dirica matidi
            *[other] Gony loro dirica matino
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Yeny Dirica matino
+
 all-tabs-menu-new-user-context =
     .label = Dirica matidi manyen me mako jami
+
 all-tabs-menu-hidden-tabs =
     .label = Dirica matino ma okane
+

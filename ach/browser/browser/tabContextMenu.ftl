@@ -48,8 +48,6 @@ move-to-new-window =
     .label = Kob l dirica manyen
     .accesskey = d
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Lor dirica matidi
     .accesskey = L
@@ -62,3 +60,7 @@ move-tabs =
 move-tab =
     .label = Kob dirica matidi
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

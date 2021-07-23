@@ -213,6 +213,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = I moko ada ni imito kwanyo woko lapok tic magi?
 delete-ssl-cert-impact = Ka i kwanyo lapok tic, dong roto gwoko kuc calo kare weng pi lapok tic ki i mito tiyo ki waraga ma tiyo.
 
+
 delete-ca-cert-title =
     .title = Kwany onyo Pe i gen Waraga me CA
 delete-ca-cert-confirm = I lego woko waraga me CA man. Pi waraga gen weng bi kwanye woko, ma tye ki gin matime. I moko ada ni imito kwanyo onyo pe i geno?
@@ -271,6 +272,8 @@ cert-not-verified-issuer-unknown = Pe i romo moko waraga man pien lami ne pe nge
 cert-not-verified-ca-invalid = Pe i romo moko waraga man pien waraga me CA pe tiyo.
 cert-not-verified_algorithm-disabled = Pe onongo twero moko ada pa waraga man pien ki keto cing iye ki yo me keto cing ma kijuko woko pien yo ne peke ki ber bedo.
 cert-not-verified-unknown = Pe i romo moko waraga man pi te lok mape ngene.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

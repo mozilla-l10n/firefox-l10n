@@ -12,13 +12,17 @@ cfr-doorhanger-pintab-heading = Tem man: Mwon dirica matidi
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pi ngo atye kaneno man
+
 cfr-doorhanger-extension-cancel-button = Pe kombedi
     .accesskey = P
+
 cfr-doorhanger-extension-ok-button = Med kombedi
     .accesskey = M
 cfr-doorhanger-pintab-ok-button = Mwon dirica matidi man
     .accesskey = M
+
 cfr-doorhanger-extension-learn-more-link = Nong ngec mapol
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
@@ -33,8 +37,10 @@ cfr-doorhanger-pintab-description = Nong donyo mayot i kakube ma itiyo kwedgi lo
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-step2 = Yer <b>Mwon Dirica matidi</b> ki i gin ayera.
+
 cfr-doorhanger-pintab-animation-pause = Juki
 cfr-doorhanger-pintab-animation-resume = Mede
+
 
 ## Firefox Accounts Message
 
@@ -51,13 +57,18 @@ cfr-protections-panel-link-text = Nong ngec mapol
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Jami manyen:
+
 cfr-whatsnew-button =
     .label = Ngo Manyen
     .tooltiptext = Ngo Manyen
+
 cfr-whatsnew-panel-header = Ngo Manyen
+
 cfr-whatsnew-fx70-title = { -brand-short-name } dong lwenyo matek kato pi mung mamegi
+
 cfr-whatsnew-tracking-protect-title = Gwokke ki ikom lulub kor
 cfr-whatsnew-tracking-protect-link-text = Nen Ripot Mamegi
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -68,6 +79,7 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Nicake { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Nen Ripot
+
 cfr-whatsnew-lockwise-take-title = Cwal mung me donyo mamegi kwedi
 cfr-whatsnew-lockwise-take-link-text = Nong purugram ne
 
@@ -129,10 +141,9 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } gengo lulub kor makato <b>{ $blockedCount }</b> nicake { $date }!
     }
+
 cfr-doorhanger-milestone-ok-button = Nen Weng
     .accesskey = N
-cfr-doorhanger-milestone-close-button = Lor
-    .accesskey = L
 
 ## What’s New Panel Content for Firefox 76
 
@@ -152,10 +163,11 @@ cfr-doorhanger-milestone-close-button = Lor
 ## Better PDF message
 
 
+cfr-doorhanger-milestone-close-button = Lor
+    .accesskey = L
+
 ## DOH Message
 
-cfr-doorhanger-doh-primary-button = AYA, Aniang
-    .accesskey = A
 cfr-doorhanger-doh-secondary-button = Juki
     .accesskey = J
 
@@ -171,4 +183,5 @@ cfr-doorhanger-fission-secondary-button = Nong ngec mapol
 
 ## What's new: Media controls message
 
-cfr-whatsnew-media-keys-button = Nong ngec nining
+## Full Video Support CFR message
+

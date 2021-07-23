@@ -14,10 +14,13 @@ about-config-intro-warning-button = Yee Acara ne ka Imede
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Loko ter magi twero loko tic ki ber bedo pa { -brand-short-name }.
+
 about-config-page-title = Ter ma lamal
+
 about-config-search-input1 =
     .placeholder = Yeny nying ter
 about-config-show-all = Nyut weng
+
 about-config-pref-add-button =
     .title = Medi
 about-config-pref-toggle-button =

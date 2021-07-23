@@ -7,3 +7,8 @@ default-browser-notification-message = <strong>Ter { -brand-short-name } calo la
 default-browser-notification-button =
     .label = Ter calo Makwongo
     .accesskey = T
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+

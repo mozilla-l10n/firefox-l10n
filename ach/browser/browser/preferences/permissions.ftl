@@ -5,53 +5,70 @@
 permissions-window =
     .title = Ma kiweko woko
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Kanonge me kakube
     .accesskey = d
+
 permissions-block =
     .label = Geng
     .accesskey = G
+
 permissions-session =
     .label = Ye pi Kare
     .accesskey = K
+
 permissions-allow =
     .label = Ye
     .accesskey = Y
+
 permissions-site-name =
     .label = Kakube
+
 permissions-status =
     .label = Kit ma tye kwede
+
 permissions-remove =
     .label = Kwany kakube
     .accesskey = K
+
 permissions-remove-all =
     .label = Kwany kakube weng
     .accesskey = w
+
 permissions-button-cancel =
     .label = Juki
     .accesskey = J
+
 permissions-button-ok =
     .label = Gwok alokaloka
     .accesskey = G
+
 permission-dialog =
     .buttonlabelaccept = Gwok alokaloka
     .buttonaccesskeyaccept = G
+
 permissions-autoplay-menu = Makwongo pi kakube weng:
+
 permissions-searchbox =
     .placeholder = Yeny kakube
+
 permissions-capabilities-autoplay-allow =
     .label = Yer Dwon ki Video
 permissions-capabilities-autoplay-block =
     .label = Geng Dwon
 permissions-capabilities-autoplay-blockall =
     .label = Geng Dwon ki Video
+
 permissions-capabilities-allow =
     .label = Ye
 permissions-capabilities-block =
     .label = Geng
 permissions-capabilities-prompt =
     .label = Peny jwijwi
+
 permissions-capabilities-listitem-allow =
     .value = Ye
 permissions-capabilities-listitem-block =
@@ -71,6 +88,8 @@ permissions-exceptions-etp-desc = Ijuko woko gwokke ki i kakube magi.
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-desc = Itwero cimo kakube mene ma jwijwi onyo matwal pe ki yee me tic ki angija ki data me kakube.  Ket kanonge me kakube ne kikome ma imito me loono ka dong i dii Geng, Yee pi Kare, onyo Yee.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

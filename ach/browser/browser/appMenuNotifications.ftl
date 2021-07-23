@@ -35,6 +35,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Eyo, Aniang
     .buttonaccesskey = E
 appmenu-addon-post-install-message = Lo med-ikome mamegi ki diino <image data-l10n-name='addon-install-icon'></image> ii jami ayera me <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = Yer lamed man me tic i Dirica me Mung
     .accesskey = Y
@@ -51,6 +52,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Juk lamed
     .secondarybuttonaccesskey = J
+
 appmenu-tab-hide-controlled =
     .label = Nong dirica matino mamegi ma okane
     .buttonlabel = Gwok dirica matino ma okane
