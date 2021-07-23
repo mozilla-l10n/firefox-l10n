@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Azonzi etichette
+
 pocket-panel-saved-error-generic = Gh'æ stæto 'n'erô into sarvâ in { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = A longhessa mascima pe-e etichette a l'é de 25 carateri
 pocket-panel-saved-error-only-links = Ti peu solo sarvâ colegamenti

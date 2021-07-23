@@ -126,6 +126,8 @@ security-site-data-only = Sci, { $value } { $unit } de dæti di sciti
 security-site-data-cookies-only = Sci, cookie
 security-site-data-no = No
 
+##
+
 image-size-unknown = no conosciuo
 page-info-not-specified =
     .value = No specificou

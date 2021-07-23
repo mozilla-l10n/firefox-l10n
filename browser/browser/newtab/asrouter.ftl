@@ -142,9 +142,6 @@ cfr-doorhanger-socialtracking-heading = { -brand-short-name } o l'à inpedio a '
 cfr-doorhanger-milestone-ok-button = Amia tutto
     .accesskey = A
 
-cfr-doorhanger-milestone-close-button = Særa
-    .accesskey = S
-
 ## What’s New Panel Content for Firefox 76
 
 
@@ -163,7 +160,14 @@ cfr-doorhanger-milestone-close-button = Særa
 ## Better PDF message
 
 
+cfr-doorhanger-milestone-close-button = Særa
+    .accesskey = S
+
 ## DOH Message
 
 ## What's new: Cookies message
+
+## Fission Experiment Message
+
+## Full Video Support CFR message
 

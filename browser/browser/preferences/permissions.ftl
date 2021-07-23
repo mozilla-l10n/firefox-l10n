@@ -5,46 +5,61 @@
 permissions-window =
     .title = Eceçioin…
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Indirisso do scito
     .accesskey = d
+
 permissions-block =
     .label = Blòcco
     .accesskey = B
+
 permissions-session =
     .label = Permetti in sta sescion
     .accesskey = s
+
 permissions-allow =
     .label = Permetti
     .accesskey = P
+
 permissions-site-name =
     .label = Scito
+
 permissions-status =
     .label = Stato
+
 permissions-remove =
     .label = Scancella scito
     .accesskey = S
+
 permissions-remove-all =
     .label = Scancella tutti i sciti
     .accesskey = e
+
 permissions-button-cancel =
     .label = Anulla
     .accesskey = A
+
 permissions-button-ok =
     .label = Sarva cangiamenti
     .accesskey = S
+
 permission-dialog =
     .buttonlabelaccept = Sarva cangiamenti
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = Çerca scito
+
 permissions-capabilities-allow =
     .label = Permetti
 permissions-capabilities-block =
     .label = Blòcco
 permissions-capabilities-prompt =
     .label = Domanda de longo
+
 permissions-capabilities-listitem-allow =
     .value = Permetti
 permissions-capabilities-listitem-block =
@@ -66,6 +81,8 @@ permissions-exceptions-cookie-window =
     .title = Eceçioin - Cookie e Dæti di Sciti
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Ti peu anche decidde quali sciti peuan de longo ò mai deuviâ cookie e dæti di sciti.  Scrivi ben l'indirisso ezatto di sciti che ti veu gestî e pöi sciacca Blòcca, Permetti pe sescion ò Permetti.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

@@ -553,6 +553,7 @@ home-prefs-topsites-description = I sciti che ti vixiti de ciù
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Consegiou da { $provider }
+
 ##
 
 home-prefs-recommended-by-learn-more = Comme o fonçionn-a
@@ -578,6 +579,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Snippet
 home-prefs-snippets-description = Agiornamenti da { -vendor-short-name } e { -brand-product-name }
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -649,6 +651,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = Preferense
+
 containers-remove-button =
     .label = Scancella
 

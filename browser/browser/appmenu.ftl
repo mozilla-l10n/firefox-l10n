@@ -23,6 +23,7 @@ appmenuitem-zoom-enlarge =
     .label = Aomenta zoom
 appmenuitem-zoom-reduce =
     .label = Riduci zoom
+
 appmenuitem-fullscreen =
     .label = A tutto schermo
 
@@ -30,6 +31,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Scincronizza òua
+
 appmenuitem-save-page =
     .label = Sarva pagina co-o nomme…
 
@@ -83,3 +85,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Gestion ativitæ
+

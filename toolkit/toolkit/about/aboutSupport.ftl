@@ -309,3 +309,8 @@ touch-warning = input tocco ascincrono dizativou a caoza de 'na preferensa no so
 policies-inactive = Dizativo
 policies-active = Ativo
 policies-error = Erô
+
+## Printing section
+
+## Normandy sections
+

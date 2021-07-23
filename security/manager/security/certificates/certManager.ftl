@@ -213,6 +213,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = T'ê seguo de scancelâ i teu mòdoli de seguessa?
 delete-ssl-cert-impact = Se ti ti scancelli sta eceçion do server, ghe saian i mæximi contròlli de seguessa pe sto server o quæ o doviâ mostrâ 'n certificato bon.
 
+
 delete-ca-cert-title =
     .title = Scancella ò leva a fiduccia a-i certificati CA
 delete-ca-cert-confirm = T'æ domandou de scancelâ sti cerficati CA. Mia che saiâ scancelâ anche a fiduccia di cerficati relativi a questa CA. T'ê seguo de scancelâ ò levâ a fiduccia?
@@ -271,6 +272,8 @@ cert-not-verified-issuer-unknown = No pòsso verificâ sto certificato perché n
 cert-not-verified-ca-invalid = No pòsso verificâ sto certificato CA perché o no l'é valido.
 cert-not-verified_algorithm-disabled = Inposcibile verificâ sto certificato perché o l'é firmou co-in algoritmo de firma dizativou perché no seguo.
 cert-not-verified-unknown = No pòsso verificâ sto certificato e sò asæ perche.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

@@ -35,6 +35,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Va ben, ò capio
     .buttonaccesskey = V
 appmenu-addon-post-install-message = Gestisci e inpostaçioin di conponenti azonti sciacando <image data-l10n-name='addon-install-icon'></image> into <image data-l10n-name='addon-menu-icon'></image> menû.
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permetti l’ezegoçion de sta estenscion inti barcoin privæ
     .accesskey = A
@@ -51,6 +52,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = M
     .secondarybuttonlabel = Dizabilita estenscion
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = Acedi a-i teu feuggi ascoxi
     .buttonlabel = Mantegni ascoxi i feuggi
