@@ -5,6 +5,7 @@
 screenshots-context-menu = स्क्रीनशॉट लिअ
 
 screenshots-my-shots-button = हमर शॉट
+
 screenshots-instructions = क्षेत्र चुनब लेल पेज पर घीँचू अथवा क्लिक करू. कैंसिल करए लेल ESC दाबू.
 screenshots-cancel-button = कैंसिल करू
 screenshots-save-visible-button = विजिबल सहेजू

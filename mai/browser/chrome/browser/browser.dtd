@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "मेनू खोलू">
+
 <!ENTITY navbarOverflow.label                "बेसी अओजार…">
 
 <!-- Tab context menu -->
@@ -87,11 +88,13 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label       "वरीयता">
 
 <!ENTITY historyMenu.label "इतिहास">
+
 <!ENTITY historyUndoMenu.label "हाल मे बंद टैब">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "हाल मे बंद विंडो">
 
 <!ENTITY appMenuHistory.showAll.label "सभटा इतिहास देखाउ">
+
 <!ENTITY appMenuHistory.clearRecent.label "हालक इतिहास साफ करू…">
 <!ENTITY appMenuHistory.restoreSession.label "पछिला सत्र फेर बहाल करू">
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाज़ूपट्टी देखाबू">
