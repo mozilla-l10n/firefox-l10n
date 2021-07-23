@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (ການທ່ອງເວັບແບບສ່ວນຕົວ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (ການທ່ອງເວັບແບບສ່ວນຕົວ)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ການທ່ອງເວັບແບບສ່ວນຕົວ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ການທ່ອງເວັບແບບສ່ວນຕົວ)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -89,6 +91,7 @@ urlbar-addons-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ແກ້ໄຂບຸກມາກນີ້ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -98,41 +101,13 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = ເພີ່ມລົງໃນແຖບທີຢູ່
+
 page-action-manage-extension =
     .label = ຈັດການສ່ວນຂະຫຍາຍ…
 page-action-remove-from-urlbar =
     .label = ລຶບອອກຈາກແຖບທີ່ຢູ່
 
 ## Page Action menu
-
-page-action-copy-url-panel =
-    .label = ສຳເນົາທີ່ຢູ່ລິ້ງ
-page-action-copy-url-urlbar =
-    .tooltiptext = ສຳເນົາທີ່ຢູ່ລິ້ງ
-page-action-email-link-panel =
-    .label = ລີ້ງຈົດຫມາຍ...
-page-action-email-link-urlbar =
-    .tooltiptext = ລີ້ງຈົດຫມາຍ...
-page-action-share-url-panel =
-    .label = ແບ່ງປັນ
-page-action-share-url-urlbar =
-    .tooltiptext = ແບ່ງປັນ
-page-action-share-more-panel =
-    .label = ເພີມຕື່ມ…
-page-action-send-tab-not-ready =
-    .label = ກຳລັງ Sync ອຸປະກອນ…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = ປັກຫມຸດແທັບ
-page-action-pin-tab-urlbar =
-    .tooltiptext = ປັກຫມຸດແທັບ
-page-action-unpin-tab-panel =
-    .label = ຖອນຫມຸດແທັບ
-page-action-unpin-tab-urlbar =
-    .tooltiptext = ຖອນຫມຸດແທັບ
 
 ## Auto-hide Context Menu
 
@@ -149,14 +124,17 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = ປ່ຽນການຕັ້ງຄ່າການຊອກຫາ
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ປ່ຽນການຕັ້ງຄ່າການຊອກຫາ
+
 search-one-offs-context-open-new-tab =
     .label = ຊອກຫາໃນແທັບໃຫມ່
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = ຕັ້ງເປັນເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
     .accesskey = D
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -180,8 +158,10 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label = ລຶບ { $count } ບຸກມາກ
     .accesskey = R
+
 bookmark-panel-done-button =
     .label = ສຳເລັດ
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -193,6 +173,7 @@ bookmark-panel =
 identity-connection-internal = ນີ້ເປັນຫນ້າ { -brand-short-name } ທີ່ປອດໄພ.
 identity-passive-loaded = ເນື້ອຫາບາງສ່ວນໃນຫນ້ານີ້ບໍ່ມີຄວາມປອດໄພ (ເຊັ່ນວ່າຮູບພາບ)
 identity-insecure-login-forms = ການປ້ອນຂໍ້ມູນການລັອກອິນທີ່ໃສ່ໄວ້ເທິງຫນ້ານີ້ອາດຈະຖືກບຸກລຸກໄດ້.
+
 identity-permissions-reload-hint = ທ່ານອາດຕ້ອງໂຫລດຫນ້າຄືນໃຫມ່ເພື່ອໃຫ້ການປ່ຽນແປງມີຜົນ.
 identity-permissions-empty = ທ່ານຍັງບໍ່ໄດ້ມອບການອະນຸຍາດພິເສດໃດໆໃຫ້ກັບເວັບໄຊນີ້.
 identity-clear-site-data =
@@ -248,17 +229,22 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+
 urlbar-placeholder =
     .placeholder = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = ຊອກຫາດ້ວຍ { $name } ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+
 urlbar-switch-to-tab =
     .value = ຍ້າຍໄປແທັບ:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ສ່ວນຂະຫຍາຍ:
+
 urlbar-go-button =
     .tooltiptext = ໄປຫາທີ່ຢູ່ໃນແຖບຕຳແຫນ່ງທີ່ຢູ່
 urlbar-page-action-button =
@@ -287,9 +273,12 @@ urlbar-result-action-visit = ຢ້ຽມຢາມ
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ເຕັມຈໍຢູ່
 fullscreen-warning-no-domain = ເອກະສານນີ້ເຕັມຈໍຢູ່
+
+
 fullscreen-exit-button = ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ (Esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -301,8 +290,6 @@ pointerlock-warning-no-domain = ເອກະສານນີ້ໄດ້ຄວບ
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = ສະແດງບຸກມາກທັງຫມົດ
 bookmarks-toolbar-chevron =
     .tooltiptext = ສະແດງບຸກມາກເພີ່ມເຕີມ
 bookmarks-sidebar-content =
@@ -337,6 +324,7 @@ bookmarks-tools =
     .label = ເຄື່ອງມືບຸກມາກ
 bookmarks-bookmark-edit-panel =
     .label = ແກ້ໄຂບຸກມາກນີ້
+
 bookmarks-toolbar-menu =
     .label = ແຖບເຄື່ອງມືບຸກມາກ
 bookmarks-toolbar-placeholder =
@@ -351,6 +339,8 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

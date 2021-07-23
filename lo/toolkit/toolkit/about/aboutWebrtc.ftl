@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ພາຍໃນ
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = ບັນທຶກ about:webrtc ທີ່
@@ -51,13 +52,7 @@ about-webrtc-ice-rollback-count-label = ຍ້ອນກັບ ICE:
 about-webrtc-ice-pair-bytes-sent = ໄບທ໌ທີ່ສົ່ງແລ້ວ:
 about-webrtc-ice-pair-bytes-received = ໄບທ໌ທີ່ໄດ້ຮັບ:
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -69,13 +64,16 @@ about-webrtc-type-remote = ໄລຍະໄກ
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = ສະເຫນີຊື່ແລ້ວ
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ເລືອກແລ້ວ
+
 about-webrtc-save-page-label = ບັນທຶກຫນ້ານີ້
 about-webrtc-debug-mode-msg-label = ໂຫມດດີບັກ
 about-webrtc-debug-mode-off-state-label = ເລີ່ມໂຫມດດີບັກ
@@ -101,6 +99,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ປິ�
 
 ##
 
+
 about-webrtc-local-candidate = Local Candidate
 about-webrtc-remote-candidate = Remote Candidate
 about-webrtc-priority = ຄວາມສຳຄັນ
@@ -116,7 +115,6 @@ about-webrtc-encoder-label = ຕົວເຂົ້າລະຫັດ
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -126,6 +124,8 @@ about-webrtc-save-page-msg = ໄດ້ບັນທຶກຫນ້າໄປໄວ
 about-webrtc-debug-mode-off-state-msg = Log ຂອງການຕິດຕາມສາມາດພົບໄດ້ທີ່: { $path }
 about-webrtc-debug-mode-on-state-msg = ເປີດໃຊ້ງານໂຫມດດີບັກ, Log ຂອງການຕິດຕາມທີ່: { $path }
 about-webrtc-aec-logging-off-state-msg = ແຄັບເຈີຂອງ log ໄຟລ໌ສາມາດພົບໄດ້ໃນ: { $path }
+
+##
 
 ##
 
@@ -140,4 +140,7 @@ about-webrtc-jitter-label = Jitter { $jitter }
 
 
 ##
+
+##
+
 

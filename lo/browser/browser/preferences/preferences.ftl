@@ -387,6 +387,7 @@ home-prefs-topsites-description = ເວັບໄຊທ໌ທີ່ທ່ານ�
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = ແນະນຳໂດຍ { $provider }
+
 ##
 
 home-prefs-recommended-by-option-sponsored-stories =
@@ -411,6 +412,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = ສ່ວນຍ່ອຍ
 home-prefs-snippets-description = ຂໍ້ມູນອັບເດດຈາກ { -vendor-short-name } ແລະ { -brand-product-name }
+
 home-prefs-sections-rows-option =
     .label = { $num } ແຖວ
 
@@ -466,6 +468,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = ຕັ້ງຄ່າ
+
 containers-remove-button =
     .label = ລຶບ
 

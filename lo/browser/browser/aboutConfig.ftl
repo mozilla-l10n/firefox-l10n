@@ -9,6 +9,7 @@
 ##
 
 about-config-show-all = ສະແດງທັງໝົດ
+
 about-config-pref-add-button =
     .title = ເພີ່ມ
 about-config-pref-edit-button =

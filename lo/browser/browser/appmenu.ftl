@@ -24,6 +24,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ເລີ່ມການເຊື່ອມຕໍ່ດຽວນີ້
+
 appmenuitem-save-page =
     .label = ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...
 
@@ -43,9 +44,6 @@ appmenuitem-save-page =
 appmenu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = ຂໍ້ມູນຂອງການແກ້ໄຂບັນຫາ
-    .accesskey = T
 appmenu-help-report-site-issue =
     .label = ລາຍງານບັນຫາເວັບໄຊທ໌…
 appmenu-help-feedback-page =
@@ -54,13 +52,6 @@ appmenu-help-feedback-page =
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມປິດໃຊ້ງານໂປຣແກຣມເສີມ…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມເປີດໃຊ້ງານໂປຣແກຣມເສີມ
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

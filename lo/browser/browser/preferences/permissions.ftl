@@ -77,6 +77,8 @@ permissions-exceptions-cookie-window =
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = ທ່ານສາມາດລະບຸເວັບໄຊທີ່ອະນຸຍາດ ຫຼື ບໍ່ອະນຸຍາດໃຫ້ໃຊ້ຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊສະເໝີ. ພີມທີ່ຢູ່ຂອງໄຊທີ່ທ່ານຕ້ອງການຈັດການແລ້ວຄິກ ລະງັບ, ອະນຸຍາດໃນເຊສຊັ່ນ ຫຼື ອະນຸຍາດ.
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =

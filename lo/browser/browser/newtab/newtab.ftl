@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = ຊອກ​ຫາ
 
 newtab-search-box-search-the-web-text = ຊອກຫາເວັບ
+
 newtab-search-box-search-the-web-input =
     .placeholder = ຊອກຫາເວັບ
     .title = ຊອກຫາເວັບ
@@ -55,6 +56,8 @@ newtab-topsites-add-button = ເພີ່ມ
 newtab-confirm-delete-history-p1 = ທ່ານແນ່ໃຈຫຼືບໍ່ວ່າຕ້ອງການລຶບທຸກ instance ຂອງຫນ້ານີ້ອອກຈາກປະຫວັດການໃຊ້ງານຂອງທ່ານ?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ການກະທຳນີ້ບໍ່ສາມາດຍົກເລີກໄດ້.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -168,3 +171,6 @@ newtab-pocket-cta-text = ຊ່ວຍບັນທຶກເລື່ອງທີ�
 
 newtab-error-fallback-info = ໂອ້ຍ, ມີບາງສິ່ງບາງຢ່າງຜິດພາດໃນການໂຫລດເນື້ອຫານີ້.
 newtab-error-fallback-refresh-link = ຟື້ນຟູໜ້າເພື່ອລອງອີກຄັ້ງ.
+
+## Customization Menu
+

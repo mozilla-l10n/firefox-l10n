@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ເພີ່ມແທັກ
+
 pocket-panel-saved-error-generic = ເກີດຂໍ້ຜິດພາດເມື່ອພະຍາຍາມຈະບັນທຶກລົງໃນ { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = ແທັກຕ້ອງບໍ່ເກີນ 25 ຕົວອັກສອນ
 pocket-panel-saved-error-only-links = ມີພຽງແຕ່ລີ້ງເທົ່ານັ້ນທີ່ສາມາດບັນທຶກໄດ້

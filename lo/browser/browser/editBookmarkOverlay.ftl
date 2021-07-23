@@ -40,3 +40,4 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword =
     .value = ຄຳທື່ຕ້ອງການຄົ້ນຫາ:
     .accesskey = K
+

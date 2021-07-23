@@ -257,3 +257,8 @@ touch-warning = async ການແຕະໄດ້ຖືກປິດການປ�
 policies-inactive = ປິດການໃຊ້ງານ
 policies-active = ເປີດໃຊ້ງານຢູ່
 policies-error = ຂໍ້ຜິດພາດ
+
+## Printing section
+
+## Normandy sections
+

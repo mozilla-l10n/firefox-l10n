@@ -7,5 +7,6 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = ເລີ່ມທຳງານໃນໂຫມດປອດໄພ
+
 refresh-profile =
     .label = ຟື້ນຟູ { -brand-short-name }

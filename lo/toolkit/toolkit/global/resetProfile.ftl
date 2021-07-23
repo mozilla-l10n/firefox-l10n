@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = ຟື້ນຟູ { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = ຟື້ນຟູ { -brand-short-name }
 refresh-profile-description = ເລີ່ມໃຫມ່ເພື່ອແກ້ໄຂບັນຫາ ແລະ ກູ້ຄືນປະສິດພາບການເຮັດວຽກ.

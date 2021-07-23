@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "ເປີດເມນູ">
+
 <!ENTITY navbarOverflow.label                "ເຄື່ອງມືເພີ່ມເຕີມ…">
 
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
@@ -124,18 +125,22 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "ປະຫວັດການໃຊ້ງານ">
+
 <!ENTITY historyUndoMenu.label "ແຖບທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "ວິນໂດທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້">
 
 <!ENTITY appMenuHistory.showAll.label "ສະແດງປະຫວັດການໃຊ້ງານທັງຫມົດ">
+
 <!ENTITY appMenuHistory.clearRecent.label "ລ້າງປະຫວັດການໃຊ້ງານລ່າສຸດ…">
 <!ENTITY appMenuHistory.restoreSession.label "ເອີ້ນຄືນເຊສຊັນກ່ອນຫນ້າ">
 <!ENTITY appMenuHistory.viewSidebar.label "ເບິ່ງແຖບຂ້າງປະຫວັດການໃຊ້ງານລ່າສຸດ">
 <!ENTITY appMenuHistory.recentHistory.label "ປະຫວັດການໃຊ້ງານລ່າສຸດ">
+
 <!ENTITY appMenuHelp.label "ວິທີໃຊ້">
 
 <!ENTITY appMenuRemoteTabs.label "ແທັບທີ່ຊິງຄ໌ແລ້ວ">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "ບໍ່ມີແທັບທີ່ເປີດຢູ່">

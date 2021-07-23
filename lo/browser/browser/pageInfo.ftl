@@ -122,6 +122,8 @@ help-button =
 
 security-site-data-no = ບໍ່
 
+##
+
 image-size-unknown = ບໍ່ຮູ້
 media-img = ຮູບພາບ
 media-bg-img = ພື້ນຫຼັງ

@@ -5,6 +5,7 @@
 screenshots-context-menu = ຖ່າຍພາບຫນ້າຈໍ
 
 screenshots-my-shots-button = ພາບຂອງຂ້ອຍ
+
 screenshots-instructions = ລາກ ຫລື ຄິກໃສ່ຫນ້າເວັບເພື່ອເລືອກເອົາບ່ອນທີ່ຕ້ອງການ. ກົດ ESC ເພື່ອຍົກເລີກ.
 screenshots-cancel-button = ຍົກເລີກ
 screenshots-save-visible-button = ບັນທຶກສ່ວນທີ່ເບິງເຫັນໄດ້
