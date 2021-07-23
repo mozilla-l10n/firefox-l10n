@@ -23,9 +23,6 @@ content-tab-security-broken-icon =
 
 ## Toolbar
 
-addons-and-themes-button =
-    .label = Doplňky a vzhledy
-    .tooltip = Otevře správce doplňků
 addons-and-themes-toolbarbutton =
     .label = Doplňky a vzhledy
     .tooltiptext = Správa doplňků
@@ -137,3 +134,9 @@ caret-browsing-prompt-check-text = Příště se už neptat.
 repair-text-encoding-button =
     .label = Opravit znakovou sadu textu
     .tooltiptext = Na základě obsahu zprávy odhadne správnou znakovou sadu textu
+
+## no-reply handling
+
+no-reply-title = Adrese pro odpověď není podporovaná
+no-reply-message = Adresa pro odpověď ({ $email }) není sledovanou adresou. Zprávy odeslané na tuto adresu si nejspíše nikdo nepřečte.
+no-reply-reply-anyway-button = Přesto odpověď odeslat

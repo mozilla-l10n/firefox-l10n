@@ -625,6 +625,12 @@ no-temp-dir =
 possibly-pgp-mime = Tato zpráva je možná zašifrovaná nebo podepsaná pomocí PGP/MIME. Ověřit si to můžete pomocí funkce „Dešifrovat“ nebo „Ověřit“.
 cannot-send-sig-because-no-own-key = Tuto zprávu nelze digitálně podepsat, protože jste pro <{ $key }> dosud nenastavili koncové šifrování
 cannot-send-enc-because-no-own-key = Tuto zprávu nelze odeslat zašifrovaně, protože jste dosud pro <{ $key }> nenastavili koncové šifrování
+compose-menu-attach-key =
+    .label = Přiložit můj veřejný klíč
+    .accesskey = P
+compose-menu-encrypt-subject =
+    .label = Šifrování předmětu
+    .accesskey = f
 # Strings used in decryption.jsm
 do-import-multiple =
     Chcete naimportovat následující klíče?

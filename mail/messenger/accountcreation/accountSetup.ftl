@@ -114,12 +114,12 @@ account-setup-step4-image =
     .title = Chyba spojení
 account-setup-step5-image =
     .title = Účet vytvořen
-account-setup-privacy-footnote = Vaše přihlašovací údaje budou použity v souladu s našimi <a data-l10n-name="privacy-policy-link">zásadami ochrany osobních údajů</a> a zůstanou uloženy pouze na vašem počítači.
 account-setup-selection-help = Nevíte, co vybrat?
 account-setup-selection-error = Potřebujete pomoci?
 account-setup-success-help = Nevíte, co dál?
 account-setup-documentation-help = Dokumentace k nastavení
 account-setup-forum-help = Fórum podpory
+account-setup-privacy-help = Zásady ochrany osobních údajů
 account-setup-getting-started = Začínáme
 
 ## Results area
@@ -140,7 +140,6 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Uchová vaše složky a e-maily na vašem počítači
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
-account-setup-result-exchange-description = Server Microsoft Exchange
 account-setup-incoming-title = Příchozí
 account-setup-outgoing-title = Odchozí
 account-setup-username-title = Uživatelské jméno

@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "n">
 <!ENTITY importCmd.label "Importovat…">
 <!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Exportovat…">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "Vymazat nedávnou historii…">
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Nastavení účtu">
