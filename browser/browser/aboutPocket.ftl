@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = הוספת תגיות
+
 pocket-panel-saved-error-generic = אירעה שגיאה בעת ניסיון לשמור ל־{ -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = התגיות מוגבלות ל־25 תווים
 pocket-panel-saved-error-only-links = ניתן לשמור קישורים בלבד

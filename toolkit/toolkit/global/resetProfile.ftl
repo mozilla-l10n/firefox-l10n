@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = רענון { -brand-short-name }
+
 refresh-profile-dialog-title = לרענן את { -brand-short-name } להגדרות ברירת המחדל שלו?
 refresh-profile-dialog-button =
     .label = רענון { -brand-short-name }

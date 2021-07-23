@@ -5,18 +5,18 @@
 add-engine-window =
     .title = הוספת מנוע חיפוש
     .style = width: 32em;
+
 add-engine-button = הוספת מנוע מותאם אישית
+
 add-engine-name = שם מנוע החיפוש
+
 add-engine-alias = כינוי
+
 add-engine-url = כתובת האתר של המנוע, יש להשתמש ב־‎%s במקום של מונח החיפוש
-add-engine-cancel =
-    .label = ביטול
-    .accesskey = ב
-add-engine-ok =
-    .label = הוספת מנוע
-    .accesskey = ה
+
 add-engine-dialog =
     .buttonlabelaccept = הוספת מנוע
     .buttonaccesskeyaccept = ה
+
 engine-name-exists = כבר קיים מנוע עם שם זה
 engine-alias-exists = כבר קיים מנוע עם כינוי זה

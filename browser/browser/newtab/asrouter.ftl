@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = התנסות בתכונה: נעיצת לשוני
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = למה אני רואה את זה
+
 cfr-doorhanger-extension-cancel-button = לא עכשיו
     .accesskey = ע
+
 cfr-doorhanger-extension-ok-button = הוספה כעת
     .accesskey = ס
 cfr-doorhanger-pintab-ok-button = נעיצת לשונית זו
     .accesskey = נ
+
 cfr-doorhanger-extension-manage-settings-button = ניהול הגדרות המלצות
     .accesskey = ג
+
 cfr-doorhanger-extension-never-show-recommendation = לא להציג לי המלצה זו
     .accesskey = ל
+
 cfr-doorhanger-extension-learn-more-link = מידע נוסף
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = מאת { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = המלצה
 cfr-doorhanger-extension-notification2 = המלצה
     .tooltiptext = המלצה על הרחבה
     .a11y-announcement = זמינה המלצה על הרחבה
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = המלצה
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] משתמש אחד
        *[other] { $total } משתמשים
     }
+
 cfr-doorhanger-pintab-description = קבלת גישה פשוטה לאתרים שהכי משמשים אותך. להשאיר אתרים פתוחים בלשונית (אפילו לאחר הפעלה מחדש).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = קבלת גישה פשוטה לאתרים ש
 cfr-doorhanger-pintab-step1 = יש ללחוץ עם <b>הכפתור הימני</b> על הלשונית שברצונך לנעוץ.
 cfr-doorhanger-pintab-step2 = יש לבחור ב<b>נעיצת לשונית</b> מהתפריט.
 cfr-doorhanger-pintab-step3 = אם לאתר זה יהיה עדכון, תופיע נקודה כחולה על הלשונית הנעוצה שלך.
+
 cfr-doorhanger-pintab-animation-pause = השהיה
 cfr-doorhanger-pintab-animation-resume = המשך
+
 
 ## Firefox Accounts Message
 
@@ -88,16 +99,22 @@ cfr-protections-panel-link-text = מידע נוסף
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = תכונה חדשה:
+
 cfr-whatsnew-button =
     .label = מה חדש
     .tooltiptext = מה חדש
+
 cfr-whatsnew-panel-header = מה חדש
+
 cfr-whatsnew-release-notes-link-text = קריאת הערור השחרור
+
 cfr-whatsnew-fx70-title = { -brand-short-name } כעת נלחם יותר למען הפרטיות שלך
 cfr-whatsnew-fx70-body = העדכון האחרון משפר את תכונת הגנת המעקב והופך את האפשרות ליצור ססמאות מאובטחות לכל אתר קלה מאי פעם.
+
 cfr-whatsnew-tracking-protect-title = הגנה מפני רכיבי מעקב
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } חוסם  הרבה רכיבי מעקב מוכרים של רשתות חברתיות ורכיבי מעקב חוצי אתרים שעוקבים אחרי הפעילויות המקוונות שלך.
 cfr-whatsnew-tracking-protect-link-text = הצגת הדוח שלך
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -108,8 +125,10 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = מאז { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = הצגת דוח
+
 cfr-whatsnew-lockwise-backup-title = גיבוי הססמאות שלך
 cfr-whatsnew-lockwise-backup-link-text = הפעלת גיבויים
+
 cfr-whatsnew-lockwise-take-title = לקחת את הססמאות שלך לכל מקום
 cfr-whatsnew-lockwise-take-body = היישומון לנייד { -lockwise-brand-short-name } מאפשר לך לגשת באופן מאובטח לססמאות המגובות שלך מכל מקום.
 cfr-whatsnew-lockwise-take-link-text = הורדת היישומון
@@ -186,6 +205,7 @@ cfr-doorhanger-milestone-heading =
         [one] ‏{ -brand-short-name } חסם יותר מרכיב מעקב אחד מאז { $date }!
        *[other] ‏{ -brand-short-name } חסם למעלה מ־<b>{ $blockedCount }</b> רכיבי מעקב מאז { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -218,12 +238,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = סמל תמונה בתוך תמונה
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = סגירה
-    .accesskey = ס
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = הגנות במבט חטוף
 cfr-whatsnew-protections-cta-link = הצגת לוח ההגנות
 cfr-whatsnew-protections-icon-alt = סמל מגן
@@ -232,6 +246,12 @@ cfr-whatsnew-protections-icon-alt = סמל מגן
 
 cfr-whatsnew-better-pdf-header = חוויית PDF טובה יותר
 cfr-whatsnew-better-pdf-body = מסמכי PDF נפתחים כעת ישירות ב־{ -brand-short-name }, תוך שמירה על זרימת העבודה.
+
+cfr-doorhanger-milestone-close-button = סגירה
+    .accesskey = ס
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -252,34 +272,15 @@ cfr-doorhanger-fission-secondary-button = מידע נוסף
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = הגנה אוטומטית מפני תכסיסי מעקב
-cfr-whatsnew-clear-cookies-body = ישנם רכיבי מעקב המפנים אותך לאתרים אחרים המגדירים עוגיות בחשאי. { -brand-short-name } כעת מנקה באופן אוטומטי את העוגיות האלו כך שלא יהיה ניתן לעקוב אחריך.
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = יותר פקדי מדיה
-cfr-whatsnew-media-keys-body = ניתן להפעיל ולהשהות שמע או וידאו ישירות מהמקלדת או מהאוזניות שלך, מה שמקל על השליטה במדיה מלשונית או תוכנית אחרת, או אפילו כשהמחשב שלך נעול. אפשר גם לעבור בין רצועות שמע באמצעות המקשים קדימה ואחורה.
-cfr-whatsnew-media-keys-button = מידע נוסף
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = קיצורי דרך לחיפוש בשורת הכתובת
-cfr-whatsnew-search-shortcuts-body = כעת, בעת הקלדת מנוע חיפוש או אתר מסוים בשורת הכתובת, קיצור דרך כחול יופיע בהצעות החיפוש שמתחת. יש לבחור קיצור דרך זה כדי להשלים את החיפוש שלך ישירות משורת הכתובת.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = הגנה מפני עוגיות־על זדוניות
-cfr-whatsnew-supercookies-body = אתרים יכולים לצרף בסתר ״עוגיית־על״ לדפדפן שלך, שיכול לעקוב אחריך ברשת, גם לאחר ניקוי עוגיות. { -brand-short-name } כעת מספק הגנה חזקה מפני עוגיות־על כדי שלא יהיה ניתן להשתמש בהן כדי לעקוב אחר הפעילויות המקוונות שלך מאתר אחד למשנהו.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = שמירת סימניות טובה יותר
-cfr-whatsnew-bookmarking-body = קל יותר לעקוב אחר האתרים המועדפים עליך. { -brand-short-name } כעת זוכר את המיקום המועדף שלך לסימניות שמורות, מציג כברירת מחדל את סרגל הסימניות בלשוניות חדשות ומעניק לך גישה נוחה לשאר הסימניות שלך באמצעות תיקייה בסרגל הכלים.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = הגנה מקיפה מפני מעקב אחר עוגיות חוצות אתרים
-cfr-whatsnew-cross-site-tracking-body = כעת באפשרותך להצטרף להגנה טובה יותר מפני מעקב אחר עוגיות. { -brand-short-name } יכול לבודד את הפעילויות והנתונים שלך לאתר שבו נמצאים, כך שמידע שנשמר בדפדפן לא ישותף בין אתרים.
 
 ## Full Video Support CFR message
 

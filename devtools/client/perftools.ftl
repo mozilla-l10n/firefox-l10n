@@ -34,7 +34,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = גודל חוצץ:
+
 perftools-custom-threads-label = הוספת תהליכונים מותאמים אישית לפי שם:
+
 perftools-devtools-threads-label = תהליכונים
 perftools-devtools-settings-label = הגדרות
 
@@ -76,7 +78,8 @@ perftools-thread-render-backend =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = יוצר הפרופילים של Firefox
 perftools-onboarding-message = <b>חדש</b>: { -profiler-brand-name } משולב כעת בכלי הפיתוח. <a>מידע נוסף</a> על הכלי החדש והעוצמתי הזה.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (לזמן מוגבל, ניתן לגשת לחלונית הביצועים המקורית דרך <a>{ options-context-advanced-settings }</a>)
+

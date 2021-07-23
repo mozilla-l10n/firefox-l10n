@@ -5,10 +5,10 @@
 places-open =
     .label = פתיחה
     .accesskey = פ
-places-open-in-tab =
+places-open-tab =
     .label = פתיחה בלשונית חדשה
     .accesskey = ל
-places-open-tab =
+places-open-in-tab =
     .label = פתיחה בלשונית חדשה
     .accesskey = ל
 places-open-all-bookmarks =
@@ -20,15 +20,10 @@ places-open-all-in-tabs =
 places-open-window =
     .label = פתיחה בחלון חדש
     .accesskey = ח
-places-open-in-window =
-    .label = פתיחה בחלון חדש
-    .accesskey = ת
 places-open-private-window =
     .label = פתיחה בחלון פרטי חדש
     .accesskey = פ
-places-open-in-private-window =
-    .label = פתיחה בחלון פרטי חדש
-    .accesskey = ט
+
 places-new-bookmark =
     .label = סימנייה חדשה…
     .accesskey = ס
@@ -41,6 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = קו מפריד חדש
     .accesskey = ק
+
+places-open-in-window =
+    .label = פתיחה בחלון חדש
+    .accesskey = ת
+places-open-in-private-window =
+    .label = פתיחה בחלון פרטי חדש
+    .accesskey = ט
+
 places-add-bookmark =
     .label = הוספת סימנייה…
     .accesskey = מ
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = הוספת קו מפריד
     .accesskey = ד
+
 places-view =
     .label = תצוגה
     .accesskey = ת
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = לפי תאריך ואתר
     .accesskey = ל
+
 places-history-search =
     .placeholder = חיפוש בהיסטוריה
 places-bookmarks-search =
     .placeholder = חיפוש בסימניות
+
 places-delete-domain-data =
     .label = לשכוח מאתר זה
     .accesskey = ש
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = מאפיינים
     .accesskey = מ
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = עריכת סימנייה…
@@ -101,15 +108,18 @@ places-remove-folder =
            *[other] הסרת תיקיות
         }
     .accesskey = ס
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = סימניות מנוהלות
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = תיקיית משנה
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = סימניות אחרות
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -119,6 +129,7 @@ places-remove-bookmark =
            *[other] הסרת סימניות
         }
     .accesskey = ס
+
 places-manage-bookmarks =
     .label = ניהול סימניות
     .accesskey = נ

@@ -31,6 +31,7 @@ import =
 close-button =
     .label = סגירה
     .accesskey = ס
+
 show-passwords =
     .label = הצגת ססמאות
     .accesskey = צ

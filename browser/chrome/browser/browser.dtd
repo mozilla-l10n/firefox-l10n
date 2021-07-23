@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "פתיחת תפריט">
+
 <!ENTITY navbarOverflow.label                "כלים נוספים…">
 
 <!-- Tab context menu -->
@@ -142,19 +143,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "ס">
 
 <!ENTITY historyMenu.label "היסטוריה">
+
 <!ENTITY historyUndoMenu.label "לשוניות שנסגרו לאחרונה">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "חלונות שנסגרו לאחרונה">
 
 <!ENTITY appMenuHistory.showAll.label "הצגת כל ההיסטוריה">
+
 <!ENTITY appMenuHistory.clearRecent.label "ניקוי היסטוריה אחרונה…">
 <!ENTITY appMenuHistory.restoreSession.label "שחזור הפעלה קודמת">
 <!ENTITY appMenuHistory.viewSidebar.label "הצגת סרגל הצד היסטוריה">
 <!ENTITY appMenuHistory.hideSidebar.label "הסתרת סרגל הצד היסטוריה">
 <!ENTITY appMenuHistory.recentHistory.label "היסטוריה אחרונה">
+
 <!ENTITY appMenuHelp.label "עזרה">
 
 <!ENTITY appMenuRemoteTabs.label "לשוניות מסונכרנות">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "אין לשוניות פתוחות">

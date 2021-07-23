@@ -101,9 +101,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "דואר וקבוצות דיון">
 <!ENTITY messengerCmd.accesskey                         "ד">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "פנקס כתובות">
-<!ENTITY addressBookCmd.accesskey                       "פ">
-<!ENTITY addressBookCmd.key                             "כ">
 <!ENTITY searchAddressesCmd.label                       "חפש בכתובות…">
 <!ENTITY searchAddressesCmd.accesskey                   "ח">
 <!ENTITY importCmd.label                                "יבוא…">
