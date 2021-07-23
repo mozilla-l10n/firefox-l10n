@@ -26,6 +26,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = এখন সিঙ্ক
+
 appmenuitem-save-page =
     .label = পাতা নতুনভাবে সংরক্ষণ…
 
@@ -78,3 +79,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = কাজ ব্যবস্থাপক
+

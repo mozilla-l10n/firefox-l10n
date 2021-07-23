@@ -64,3 +64,4 @@ places-sortby-name =
 places-properties =
     .label = বৈশিষ্ট্যাবলী
     .accesskey = i
+

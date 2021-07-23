@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ট্যাগসমূহ যোগ করুন
+
 pocket-panel-saved-error-generic = { -pocket-brand-name } এ সংরক্ষণ করতে ত্রুটি ঘটেছে।
 pocket-panel-saved-error-tag-length = ট্যাগ সমূহ 25 অক্ষরের মধ্যে সীমাবদ্ধ
 pocket-panel-saved-error-only-links = শুধু লিঙ্ক সংরক্ষণ করা যাবে

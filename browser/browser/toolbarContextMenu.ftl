@@ -40,3 +40,4 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = নিজের পছন্দানুযায়ী নির্বাচন…
     .accesskey = C
+
