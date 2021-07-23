@@ -5,9 +5,11 @@
 carddav-url-label =
     .value = URL ของ CardDAV:
     .accesskey = V
+
 carddav-refreshinterval-label =
     .label = ประสาน:
     .accesskey = ป
+
 # Variables:
 #   $minutes (integer) - Number of minutes between address book synchronizations
 carddav-refreshinterval-minutes-value =
@@ -15,6 +17,7 @@ carddav-refreshinterval-minutes-value =
         { $minutes ->
            *[other] ทุก { $minutes } นาที
         }
+
 # Variables:
 #   $hours (integer) - Number of hours between address book synchronizations
 carddav-refreshinterval-hours-value =
@@ -22,3 +25,4 @@ carddav-refreshinterval-hours-value =
         { $hours ->
            *[other] ทุก { $hours } ชั่วโมง
         }
+

@@ -9,6 +9,10 @@ menu-view-charset =
     .label = รหัสอักขระ
     .accesskey = ร
 
+## Tools Menu
+
+## Help Menu
+
 ## Mail Toolbar
 
 toolbar-junk-button =
@@ -23,3 +27,8 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = เลิกลบ
     .tooltiptext = เลิกลบข้อความที่เลือก
+
+## View
+
+## View / Layout
+

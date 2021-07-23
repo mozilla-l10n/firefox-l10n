@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = เพิ่มป้ายกำกับ
+
 pocket-panel-saved-error-generic = เกิดข้อผิดพลาดระหว่างการบันทึกไปยัง { -pocket-brand-name }
 pocket-panel-saved-error-tag-length = ป้ายกำกับถูกจำกัดไว้ที่ 25 ตัวอักษร
 pocket-panel-saved-error-only-links = ลิงก์เท่านั้นที่สามารถถูกบันทึกได้

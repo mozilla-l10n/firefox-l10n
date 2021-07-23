@@ -129,6 +129,8 @@ security-site-data-only = ใช่, ข้อมูลไซต์ { $value } {
 security-site-data-cookies-only = ใช่, คุกกี้
 security-site-data-no = ไม่
 
+##
+
 image-size-unknown = ไม่ทราบ
 page-info-not-specified =
     .value = ไม่ระบุ

@@ -14,11 +14,15 @@ about-config-intro-warning-button = ยอมรับความเสี่�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = การเปลี่ยนแปลงค่ากำหนดเหล่านี้อาจส่งผลต่อประสิทธิภาพหรือความปลอดภัยของ { -brand-short-name } ได้
+
 about-config-page-title = ค่ากำหนดขั้นสูง
+
 about-config-search-input1 =
     .placeholder = ค้นหาชื่อค่ากำหนด
 about-config-show-all = แสดงทั้งหมด
+
 about-config-show-only-modified = แสดงเฉพาะค่ากำหนดที่ถูกเปลี่ยนแปลง
+
 about-config-pref-add-button =
     .title = เพิ่ม
 about-config-pref-toggle-button =

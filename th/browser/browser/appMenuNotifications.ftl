@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = ไม่ใช่ตอนนี้
     .secondarybuttonaccesskey = ม
 appmenu-update-restart-message = หลังจากเริ่มการทำงานใหม่อย่างรวดเร็ว { -brand-shorter-name } จะเรียกคืนแท็บและหน้าต่างที่เปิดอยู่ทั้งหมดของคุณที่ไม่ได้อยู่ในโหมดการเรียกดูแบบส่วนตัว
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = ตกลง เข้าใจแล้ว
+    .buttonaccesskey = ต
+appmenu-addon-post-install-message = จัดการส่วนเสริมของคุณโดยคลิก <image data-l10n-name='addon-install-icon'></image> ใน <image data-l10n-name='addon-menu-icon'></image> เมนู
+
 appmenu-update-available2 =
     .label = มีการอัปเดต
     .buttonlabel = ดาวน์โหลด
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = ไม่ใช่ตอนนี้
     .secondarybuttonaccesskey = ม
 appmenu-update-other-instance-message = มีการอัปเดต { -brand-shorter-name } ใหม่ แต่ไม่สามารถติดตั้งได้เนื่องจาก { -brand-shorter-name } โปรแกรมอื่นกำลังทำงานอยู่ ให้ปิดโปรแกรมเพื่ออัปเดตต่อ หรือเลือกอัปเดตต่อโดยไม่ปิดโปรแกรมก็ได้ (โปรแกรมอื่นอาจไม่ทำงานอย่างถูกต้องจนกว่าคุณจะเริ่มการทำงานใหม่)
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = ตกลง เข้าใจแล้ว
-    .buttonaccesskey = ต
-appmenu-addon-post-install-message = จัดการส่วนเสริมของคุณโดยคลิก <image data-l10n-name='addon-install-icon'></image> ใน <image data-l10n-name='addon-menu-icon'></image> เมนู
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ตกลง
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = จัดการส่วนขยายและชุดตกแต่งของคุณได้ผ่านเมนูแอปพลิเคชัน
 appmenu-addon-post-install-message3 = จัดการส่วนเสริมและชุดตกแต่งของคุณได้ผ่านเมนูแอปพลิเคชัน
 appmenu-addon-post-install-incognito-checkbox =
     .label = อนุญาตให้ส่วนขยายนี้ทำงานในหน้าต่างส่วนตัว
     .accesskey = อ
+    
 appmenu-new-tab-controlled =
     .label = แท็บใหม่ของคุณมีการเปลี่ยนแปลง
     .buttonlabel = เก็บการเปลี่ยนแปลง
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = ก
     .secondarybuttonlabel = ปิดใช้งานส่วนขยาย
     .secondarybuttonaccesskey = ป
+
 appmenu-new-tab-controlled-changes =
     .label = แท็บใหม่ของคุณมีการเปลี่ยนแปลง
     .buttonlabel = เก็บการเปลี่ยนแปลง

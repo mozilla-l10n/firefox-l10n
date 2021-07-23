@@ -4,3 +4,4 @@
 
 account-settingsTitle = ตั้งค่าการรับรองความถูกต้อง
 account-channelTitle = แชนเนลเริ่มต้น
+
