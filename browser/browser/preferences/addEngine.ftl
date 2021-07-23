@@ -5,18 +5,18 @@
 add-engine-window =
     .title = Añadir motor de búsqueda
     .style = width: 32em;
+
 add-engine-button = Añadir motor personalizado
+
 add-engine-name = Nombre del motor de búsqueda
+
 add-engine-alias = Alias
+
 add-engine-url = URL del motor, usa %s en lugar del término de búsqueda
-add-engine-cancel =
-    .label = Cancelar
-    .accesskey = C
-add-engine-ok =
-    .label = Añadir motor
-    .accesskey = A
+
 add-engine-dialog =
     .buttonlabelaccept = Añadir motor
     .buttonaccesskeyaccept = A
+
 engine-name-exists = Ya existe un motor con ese nombre
 engine-alias-exists = Ya existe un motor con ese alias
