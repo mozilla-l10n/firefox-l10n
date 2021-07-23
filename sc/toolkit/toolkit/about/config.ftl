@@ -14,10 +14,13 @@ about-config-intro-warning-button = Atzeta s'arriscu e sighi
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Sa modìfica de custas preferèntzias podet tènnere un'efetu in s'efitzèntzia o in sa seguresa de { -brand-short-name }.
+
 about-config-page-title = Preferèntzias avantzadas
+
 about-config-search-input1 =
     .placeholder = Chirca su nòmine de sa preferèntzia
 about-config-show-all = Ammustra totu
+
 about-config-pref-add-button =
     .title = Agiunghe
 about-config-pref-toggle-button =

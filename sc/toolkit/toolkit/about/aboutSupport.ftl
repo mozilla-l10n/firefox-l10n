@@ -55,3 +55,7 @@ multi-process-status-2 = Disativadu
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

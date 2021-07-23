@@ -8,6 +8,7 @@
 
 
 <!ENTITY appmenu.tooltip                     "Aberi menù">
+
 <!ENTITY navbarOverflow.label                "Àteros istrumentos...">
 
 <!-- Tab context menu -->
@@ -156,12 +157,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY historyMenu.label "Cronologia">
+
 <!ENTITY historyUndoMenu.label "Ischedas serradas de reghente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ventanas serradas de reghente">
 
 
 <!ENTITY appMenuHistory.showAll.label "Ammustra totu sa cronologia">
+
 <!ENTITY appMenuHistory.clearRecent.label "Cantzella sa cronologia reghente...">
 <!ENTITY appMenuHistory.restoreSession.label "Ripristina sa sessione de prima">
 
@@ -169,6 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.label "Agiudu">
 
 <!ENTITY appMenuRemoteTabs.label "Ischedas sincronizadas">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Peruna ischeda aberta">

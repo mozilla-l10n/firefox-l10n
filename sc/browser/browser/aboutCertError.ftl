@@ -5,6 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } est impreende unu tzertificadu de seguresa non vàlidu.
+
 cert-error-mitm-intro = Is sitos web verìficant s'identidade issoro pro mèdiu de tzertificados, emìtidos dae is autoridades.
 
 ## Messages used for certificate error titles

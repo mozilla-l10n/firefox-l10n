@@ -123,6 +123,7 @@ search-engine-default-header = Pone su primu chircadore chi b'est istadu
 
 containers-preferences-button =
     .label = Preferèntzias
+
 containers-remove-button =
     .label = Boga
 

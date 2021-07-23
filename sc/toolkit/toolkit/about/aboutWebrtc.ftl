@@ -24,13 +24,7 @@
 ## is an IETF protocol, and should not normally be translated.
 
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -52,6 +46,7 @@ about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 
 ##
 
+
 about-webrtc-priority = Prioridade
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
@@ -69,9 +64,14 @@ about-webrtc-priority = Prioridade
 ##
 
 
+##
+
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 
 ##
+
+##
+
 
