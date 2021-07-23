@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ikke nu
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Efter en hurtig genstart vil { -brand-shorter-name } gendanne alle dine åbne faneblade og vinduer, der ikke er åbnet i privat browsing-tilstand.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Ok, forstået
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Håndter dine tilføjelser ved at klikke på <image data-l10n-name='addon-install-icon'></image> i <image data-l10n-name='addon-menu-icon'></image>-menuen.
+
 appmenu-update-available2 =
     .label = Opdatering tilgængelig
     .buttonlabel = Hent
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ikke nu
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = Der er en ny opdatering af { -brand-shorter-name } tilgængelig. Den kan dog ikke blive installeret, fordi en anden version af { -brand-shorter-name } er åben. Luk programmet for at fortsætte opdateringen, eller vælg at opdatere alligevel (den anden version vil muligvis ikke fungere korrekt, før du genstarter den).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Ok, forstået
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Håndter dine tilføjelser ved at klikke på <image data-l10n-name='addon-install-icon'></image> i <image data-l10n-name='addon-menu-icon'></image>-menuen.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Okay
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Håndter dine udvidelser og temaer i program-menuen.
 appmenu-addon-post-install-message3 = Håndter dine tilføjelser og temaer i program-menuen.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillad denne udvidelse at virke i private vinduer.
     .accesskey = T
+    
 appmenu-new-tab-controlled =
     .label = Nyt faneblad er ændret
     .buttonlabel = Behold ændringen
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = B
     .secondarybuttonlabel = Deaktiver udvidelse
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = Nyt faneblad er ændret.
     .buttonlabel = Behold ændringen

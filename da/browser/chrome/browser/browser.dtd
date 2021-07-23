@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Åbn menu">
+
 <!ENTITY navbarOverflow.label                "Flere værktøjer…">
 
 <!-- Tab context menu -->
@@ -142,19 +143,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "T">
 
 <!ENTITY historyMenu.label "Historik">
+
 <!ENTITY historyUndoMenu.label "Senest lukkede faneblade">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Senest lukkede vinduer">
 
 <!ENTITY appMenuHistory.showAll.label "Vis al historik">
+
 <!ENTITY appMenuHistory.clearRecent.label "Ryd seneste historik…">
 <!ENTITY appMenuHistory.restoreSession.label "Gendan forrige session">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historik i sidepanel">
 <!ENTITY appMenuHistory.hideSidebar.label "Skjul historik i sidepanel">
 <!ENTITY appMenuHistory.recentHistory.label "Seneste historik">
+
 <!ENTITY appMenuHelp.label "Hjælp">
 
 <!ENTITY appMenuRemoteTabs.label "Synkroniserede faneblade">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ingen åbne faneblade">

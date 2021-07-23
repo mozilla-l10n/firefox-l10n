@@ -42,7 +42,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffer-størrelse:
+
 perftools-custom-threads-label = Tilføj tilpassede tråde ved deres navne:
+
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Tråde:
 perftools-devtools-settings-label = Indstillinger
@@ -97,12 +99,14 @@ perftools-thread-dns-resolver =
     .title = DNS-opslag foregår på denne tråd
 perftools-thread-js-helper =
     .title = Baggrundsarbejde for JS-motoren, fx off-main-thread-kompileringer
+
 perftools-thread-task-controller =
     .title = TaskController thread pool-tråde
 
 ##
 
 perftools-record-all-registered-threads = Ignorer valg ovenfor og optag alle registrerede tråde
+
 perftools-tools-threads-input-label =
     .title = Disse tråd-navne er en kommasepareret liste, der bruges til at aktivere profilering af trådene i profileringsværktøjet. Navnet behøver bare at stemme delvist overens med trådnavnet for at blive inkluderet. Mellemrum indgår i sammenligningen.
 
@@ -111,7 +115,9 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nyhed</b>: { -profiler-brand-name } er nu en del af Udviklerværktøj. <a>Læs mere</a> om dette praktiske nye værktøj.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (I en begrænset periode kan du se det originale Ydelses-panel i <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Luk introduktions-beskeden
