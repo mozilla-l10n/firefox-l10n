@@ -8,8 +8,10 @@ password-quality-meter = Kvalitetsmåling av passord
 
 change-password-window =
     .title = Endre hovudpassord
+
 change-device-password-window =
     .title = Endre passord
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Tryggingseining: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = Nytt passord (igjen):
 reset-password-window =
     .title = Still tilbake hovudpassord
     .style = width: 40em
+
 pippki-failed-pw-change = Klarte ikkje å endre passord.
 pippki-incorrect-pw = Du skreiv ikkje inn rett gjeldande passord. Prøv igjen.
 pippki-pw-change-ok = Passordet er endra.
+
 pippki-pw-empty-warning = Lagra passord og private nøklar vil ikkje bli verna.
 pippki-pw-erased-ok = Passordet er no sletta. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Åtvaring! Du har valt å ikkje bruke eit passord. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Du er i FIPS-modus. FIPS krev at du brukar eit primærpasssord.
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Still tilbake
 reset-password-text = Dersom du stiller tilbake hovudpassordet, vil alle nett- og e-post-passord, skjemadata, personlege sertifikat og private nøklar som er lagra gå tapt. Vil du stille tilbake hovudpassordet?
+
 reset-primary-password-text = Dersom du stiller tilbake hovudpassordet vil alle lagra nettside- og e-postpassord, personlege sertifikat og private nøklar gå tapt. Er du sikker på at du vil tilbakestille hovudpassordet?
+
 pippki-reset-password-confirmation-title = Tilbakestill hovudpassordet
 pippki-reset-password-confirmation-message = Hovudpassordet ditt er tilbakestilt.
 

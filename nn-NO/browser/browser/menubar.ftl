@@ -38,16 +38,20 @@ menu-quit =
             [windows] t
            *[other] t
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Avslutt { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Avslutt { -brand-shorter-name }
+
 menu-about =
     .label = Om { -brand-shorter-name }
     .accesskey = O
@@ -173,6 +177,7 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Teiknkoding
     .accesskey = T
+
 menu-view-repair-text-encoding =
     .label = Reparer tekstkoding
     .accesskey = e
@@ -218,6 +223,7 @@ menu-history-undo-menu =
     .label = Nyleg attlatne faner
 menu-history-undo-window-menu =
     .label = Nyleg attlatne vindauge
+
 menu-history-reopen-all-tabs = Opne alle faner på nytt
 menu-history-reopen-all-windows = Opne alle vindauge på nytt
 

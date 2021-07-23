@@ -58,10 +58,6 @@
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denne sida">
 
-<!ENTITY throbber.tooltip             "Gå til heimesida til til &vendorShortName;">
-
-<!ENTITY throbber.tooltip2            "Gå til heimesida til &brandShortName;">
-
 <!ENTITY locationBar.tooltip          "Skriv inn eit søkjeord, nykelord eller ei nettadresse her">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Adresse">

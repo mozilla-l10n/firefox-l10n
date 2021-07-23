@@ -6,9 +6,6 @@
 <!ENTITY tabDisplay.label "Fanevising">
 <!ENTITY warnOnClose.label "Åtvar meg når eg vil late att fleire faner">
 
-<!ENTITY loadGroupAppend.label "Legg til faner">
-<!ENTITY loadGroupAppend.accesskey "L">
-
 
 
 <!ENTITY openDataManager.label "Datahandsamar">

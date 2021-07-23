@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Tilbakestill { -brand-short-name }
+
 refresh-profile-dialog-title = Tilbakestille { -brand-short-name } til standardinnstillingar?
 refresh-profile-dialog-button =
     .label = Tilbakestill { -brand-short-name }
