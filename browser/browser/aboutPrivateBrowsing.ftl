@@ -11,6 +11,7 @@ about-private-browsing =
     .title = Пребарајте на Интернет
 about-private-browsing-not-private = Во моментов не сте во приватен прозорец.
 about-private-browsing-info-description = { -brand-short-name } ја отстранува вашата историјата на прелистување кога ќе ја напуштите апликацијата или ќе ги затворите сите јазичиња и прозорци на приватното прелистување. Иако ова не ве прави анонимни на веб-страниците или вашиот провајдер на Интернет услуги, ви овозможува полесно да го чувате она што го правите на Интернет приватно од кој било друг што го користи овој компјутер.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

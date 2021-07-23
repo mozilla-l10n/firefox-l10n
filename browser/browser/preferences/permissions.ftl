@@ -66,6 +66,8 @@ permissions-invalid-uri-label = Внесете точно име на домаќ
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Можете да одредите кои мрежни места смеат да отвораат скокачки прозорци. Внесете ја точната адреса за која сакате да дозволите и кликнете на „Дозволи“.

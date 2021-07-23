@@ -26,9 +26,11 @@ onboarding-button-label-get-started = Вовед
 
 onboarding-welcome-learn-more = Дознајте повеќе за придобивките.
 onboarding-welcome-form-header = Започнете овде
+
 onboarding-join-form-email =
     .placeholder = Внесете е-пошта
 onboarding-join-form-continue = Продолжи
+
 onboarding-cards-dismiss =
     .title = Откажи
     .aria-label = Откажи
@@ -40,12 +42,14 @@ onboarding-cards-dismiss =
 
 onboarding-sync-form-input =
     .placeholder = Е-пошта
+
 onboarding-sync-form-continue-button = Продолжи
 onboarding-sync-form-skip-login-button = Прескокнете го овој чекор
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Внесете ја вашата е-пошта
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -60,6 +64,7 @@ onboarding-sync-form-header = Внесете ја вашата е-пошта
 
 onboarding-tracking-protection-title2 = Заштита од следење
 onboarding-tracking-protection-button2 = Како работи
+
 onboarding-data-sync-title = Земете ги вашите поставки со вас
 onboarding-data-sync-button2 = Најавете се во { -sync-brand-short-name }
 
@@ -80,6 +85,17 @@ onboarding-data-sync-button2 = Најавете се во { -sync-brand-short-na
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+## Multistage MR1 onboarding strings (about:welcome pages)
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip

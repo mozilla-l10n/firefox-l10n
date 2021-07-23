@@ -339,6 +339,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = Поставки
+
 containers-remove-button =
     .label = Избриши
 
