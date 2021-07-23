@@ -5,3 +5,4 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = Khastomaesa...
     .accesskey = K
+

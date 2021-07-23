@@ -9,22 +9,28 @@ main-context-menu-back =
     .tooltiptext = Kgutlela morao ka leqephe le le leng
     .aria-label = Morao
     .accesskey = M
+
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
+
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
     .tooltiptext = Kgutlela morao ka leqephe le le leng ({ $shortcut })
     .aria-label = Morao
     .accesskey = M
+
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
     .label = Morao
     .accesskey = M
+
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
+
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
@@ -34,22 +40,28 @@ main-context-menu-forward =
     .tooltiptext = Eya pele ka leqephe le le leng
     .aria-label = Pele
     .accesskey = P
+
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
+
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
     .tooltiptext = Eya pele ka leqephe le le leng ({ $shortcut })
     .aria-label = Pele
     .accesskey = P
+
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
     .label = Pele
     .accesskey = P
+
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
+
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
 
@@ -58,10 +70,12 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Jara hape
     .accesskey = J
+
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
     .label = Jara hape
     .accesskey = J
+
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -70,10 +84,12 @@ toolbar-button-reload =
 main-context-menu-stop =
     .aria-label = Emisa
     .accesskey = E
+
 # This menuitem is only visible on macOS
 main-context-menu-stop-mac =
     .label = Emisa
     .accesskey = E
+
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -82,11 +98,14 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
 ## Save Page
 
 main-context-menu-page-save =
     .label = Boloka Leqephe E le...
     .accesskey = P
+
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -95,9 +114,11 @@ toolbar-button-page-save =
 main-context-menu-open-link-new-tab =
     .label = Bula Lehokela ho Tab e Ntjha
     .accesskey = H
+
 main-context-menu-open-link-new-window =
     .label = Bula Lehokela Fenstereng e Ntjha
     .accesskey = F
+
 main-context-menu-save-link =
     .label = Boloka Lehokela E le...
     .accesskey = e
@@ -114,6 +135,7 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Kopitsa Aterese ya Imeili
     .accesskey = A
+
 main-context-menu-copy-link =
     .label = Kopitsa Tulo ya Lehokela
     .accesskey = K
@@ -137,18 +159,23 @@ main-context-menu-copy-link =
 main-context-menu-image-view =
     .label = Sheba Setshwantsho
     .accesskey = S
+
 main-context-menu-image-copy =
     .label = Kopitsa Setshwantsho
     .accesskey = i
+
 main-context-menu-image-copy-location =
     .label = Kopitsa Tulo ya Setshwantsho
     .accesskey = o
+
 main-context-menu-image-save-as =
     .label = Boloka Setshwantsho E le...
     .accesskey = l
+
 main-context-menu-image-set-as-background =
     .label = Seta Jwalo ka Bomorao ba Deskethopo...
     .accesskey = S
+
 main-context-menu-view-background-image =
     .label = Sheba Bomorao ba Setshwantsho
     .accesskey = a
@@ -163,42 +190,56 @@ main-context-menu-view-background-image =
 main-context-menu-keyword =
     .label = Eketsa Lentswesenotlolo la Patlo ena...
     .accesskey = L
+
 main-context-menu-frame =
     .label = Foreimi ena
     .accesskey = n
+
 main-context-menu-frame-show-this =
     .label = Bontsha Foreimi Ena Feela
     .accesskey = n
+
 main-context-menu-frame-open-tab =
     .label = Bula Foreimi ho Tab e Ntjha
     .accesskey = H
+
 main-context-menu-frame-open-window =
     .label = Bula Foreimi Fenstereng e Ntjha
     .accesskey = F
+
 main-context-menu-frame-reload =
     .label = Jara Foreime Hape
     .accesskey = J
+
 main-context-menu-frame-save-as =
     .label = Boloka Foreimi E le...
     .accesskey = F
+
 main-context-menu-frame-view-source =
     .label = Sheba Mohlodi wa Foreimi
     .accesskey = S
+
 main-context-menu-frame-view-info =
     .label = Sheba Leseding ka Foreime
     .accesskey = l
+
 main-context-menu-view-selection-source =
     .label = Sheba Mohlodi wa Kgetho
     .accesskey = e
+
 main-context-menu-view-page-source =
     .label = Sheba Mohlodi wa Leqephe
     .accesskey = S
+
 main-context-menu-view-page-info =
     .label = Sheba Lesedi ka Leqephe
     .accesskey = L
+
 main-context-menu-bidi-switch-text =
     .label = Fetola Tsela ya Mongolo
     .accesskey = e
+
 main-context-menu-bidi-switch-page =
     .label = Fetola Tsela ya Leqephe
     .accesskey = q
+

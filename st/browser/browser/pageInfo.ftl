@@ -56,6 +56,8 @@ media-save-as =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+##
+
 image-size-unknown = Ha e tsejwe
 page-info-not-specified =
     .value = Ha e a hlaloswa

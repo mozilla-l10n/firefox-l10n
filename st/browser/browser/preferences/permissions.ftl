@@ -47,6 +47,8 @@ permissions-invalid-uri-label = Ka kopo kenya lebitso la moamohedi le nepahetsen
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = O ka hlalosa hore ke ditsha tsa inthanete dife tse dumeletsweng ho bula difenstere tsa di-popup. Thaepa aterese e nepahetseng ya setsha seo o batlang ho se dumella ebe o tlelika Dumella.

@@ -143,6 +143,8 @@ cert-not-verified-issuer-unknown = Setifikeiti sena ha se a kgona ho tiisetswa h
 cert-not-verified-ca-invalid = Setifikeiti sena ha se a kgona ho tiisetswa hobane setifikeiti sa CA se fosahetse.
 cert-not-verified-unknown = Setifikeiti sena ha se a kgona ho tiisetswa ka mabaka a sa tsejweng.
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 
