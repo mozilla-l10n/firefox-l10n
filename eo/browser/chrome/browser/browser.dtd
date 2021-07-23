@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Malfermi menuon">
+
 <!ENTITY navbarOverflow.label                "Pli da iloj…">
 
 <!-- Tab context menu -->
@@ -142,19 +143,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Historio">
+
 <!ENTITY historyUndoMenu.label "Antaŭ nelonge fermitaj langetoj">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Antaŭ nelonge fermitaj fenestroj">
 
 <!ENTITY appMenuHistory.showAll.label "Montri tutan historion">
+
 <!ENTITY appMenuHistory.clearRecent.label "Viŝi ĵusan historion…">
 <!ENTITY appMenuHistory.restoreSession.label "Restarigi antaŭan seancon">
 <!ENTITY appMenuHistory.viewSidebar.label "Montri la flankan strion de historio">
 <!ENTITY appMenuHistory.hideSidebar.label "Kaŝi la flankan strion de historio">
 <!ENTITY appMenuHistory.recentHistory.label "Ĵusa historio">
+
 <!ENTITY appMenuHelp.label "Helpo">
 
 <!ENTITY appMenuRemoteTabs.label "Spegulitaj langetoj">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Neniu spegulita langeto">

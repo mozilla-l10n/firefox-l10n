@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Konsileto: alpingli tiun ĉi langeton
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kial mi vidas tion ĉi?
+
 cfr-doorhanger-extension-cancel-button = Poste
     .accesskey = P
+
 cfr-doorhanger-extension-ok-button = Aldoni nun
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Alpingli tiun ĉi langeton
     .accesskey = p
+
 cfr-doorhanger-extension-manage-settings-button = Administri agordojn de rekomendoj
     .accesskey = A
+
 cfr-doorhanger-extension-never-show-recommendation = Ne montri al mi tiun ĉi rekomendon
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Pli da informo
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = de { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendo
 cfr-doorhanger-extension-notification2 = Rekomendo
     .tooltiptext = Rekomendo pri etendaĵo
     .a11y-announcement = Havebla rekomendo pri etendaĵo
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomendo
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } uzanto
        *[other] { $total } uzantoj
     }
+
 cfr-doorhanger-pintab-description = Facila aliro al viaj plej uzataj retejoj. Teni retejojn malfermitaj en langeto (eĉ kiam vi restartigas).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Facila aliro al viaj plej uzataj retejoj. Te
 cfr-doorhanger-pintab-step1 = <b>Dekstre alklaku</b> por alpingli la langeton.
 cfr-doorhanger-pintab-step2 = Elektu <b>Alpingli langeton</b> el la menuo.
 cfr-doorhanger-pintab-step3 = Se la retejo aktualiĝos, vi vidos bluan punkton sur la alpinglita langeto.
+
 cfr-doorhanger-pintab-animation-pause = Paŭzigi
 cfr-doorhanger-pintab-animation-resume = Daŭrigi
+
 
 ## Firefox Accounts Message
 
@@ -89,20 +100,26 @@ cfr-protections-panel-link-text = Pli da informo
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova trajto:
+
 cfr-whatsnew-button =
     .label = Novaĵoj
     .tooltiptext = Novaĵoj
+
 cfr-whatsnew-panel-header = Novaĵoj
+
 cfr-whatsnew-release-notes-link-text = Legi la notojn pri liverado
+
 cfr-whatsnew-fx70-title = { -brand-short-name } luktas pli forte por via privateco
 cfr-whatsnew-fx70-body =
     La lasta ĝisdatigo plibonigas la protekton kontraŭ spurado kaj faciligas la
     kreadon de sekuraj pasvortoj por ĉiu retejo.
+
 cfr-whatsnew-tracking-protect-title = Protektu vin kontraŭ spuriloj
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } blokas plurajn oftajn sociajn kaj interretejajn spurilojn,
     kiuj sekvas vian retumon.
 cfr-whatsnew-tracking-protect-link-text = Vidi vian raporton
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -113,9 +130,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = ekde { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Vidi raporton
+
 cfr-whatsnew-lockwise-backup-title = Sekurkopii viajn pasvortojn
 cfr-whatsnew-lockwise-backup-body = Nun kreu sekurajn pasvortojn, kiujn vi povas aliri ĉie, kie vi konektiĝas.
 cfr-whatsnew-lockwise-backup-link-text = Ŝalti sekurkopiojn
+
 cfr-whatsnew-lockwise-take-title = Kunportu viajn pasvortojn
 cfr-whatsnew-lockwise-take-body =
     La poŝaparata programo { -lockwise-brand-short-name } permesas al vi sekure aliri viajn
@@ -154,6 +173,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Blokitaj identigiloj de ciferecaj spuroj
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokas plurajn identigilojn de ciferecaj spuroj, kiuj sekrete kolektas informon pri via aparato kaj agoj por krei reklaman profilon pri vi.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Identigiloj de ciferecaj spuroj
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } povas bloki plurajn identigilojn de ciferecaj spuroj, kiuj sekrete kolektas informon pri via aparato kaj agoj por krei reklaman profilon pri vi.
@@ -211,6 +231,7 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } blokis pli ol <b>{ $blockedCount }</b> spurilojn ekde { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -244,12 +265,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Emblemo de bildo en bildo.
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Fermi
-    .accesskey = F
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Superrigardo de protektoj
 cfr-whatsnew-protections-body = La panelo de protektoj inkluzivas resumajn raportojn pri datumfuĝoj kaj administro de pasvortoj. Vi nun povas sevki la kvanton de solvitaj datumfuĝoj kaj vidi ĉu iu ajn el viaj konservitaj pasvortoj povus esti elmetita de datumfuĝo.
 cfr-whatsnew-protections-cta-link = Vidi panelon de protektoj
@@ -259,6 +274,12 @@ cfr-whatsnew-protections-icon-alt = Emblemo de ŝildo
 
 cfr-whatsnew-better-pdf-header = Pli bona sperto kun PDF
 cfr-whatsnew-better-pdf-body = Dokumentoj PDF malfermiĝas nun rekte en { -brand-short-name }, kio helpas teni viajn aferojn ĉemane.
+
+cfr-doorhanger-milestone-close-button = Fermi
+    .accesskey = F
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -280,35 +301,15 @@ cfr-doorhanger-fission-secondary-button = Pli da informo
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Aŭtomata proteko kontraŭ kaŝitaj spurilaj taktikoj
-cfr-whatsnew-clear-cookies-body = Kelkaj retejoj redirektas vin al aliaj retejoj, kiuj sekrete konservas kuketojn. { -brand-short-name } nun aŭtomate viŝas tiujn kuketojn, tiel ke ili ne povos sekvi vin.
-cfr-whatsnew-clear-cookies-image-alt = Ilustraĵo de blokita kuketo
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Pli da regiloj aŭdvidaj
-cfr-whatsnew-media-keys-body = Ludi kaj paŭzigi sonon aŭ videon senpere el via klavaro aŭ kapaŭskultiloj. Tio simpligas la taskon regi aŭdvidaĵojn el alia langeto, programo aŭ eĉ dum via komputilo estas blokita. Vi ankaŭ povas moviĝi inter kantoj aŭ filmetoj per la sagoklavoj, antaŭen kaj malantaŭen.
-cfr-whatsnew-media-keys-button = Lernu kiel fari
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Serĉi ŝparvojojn en la adresa strio
-cfr-whatsnew-search-shortcuts-body = Ekde nun, kiam vi tajpas serĉilon aŭ specifan retejon en la adresa strio, blua ŝparvojo aperos en la subaj serĉaj sugestoj. Elektu tiun ŝparvojon por serĉi rekte el la adresa strio.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Protekto kontraŭ malicaj superkuketoj
-cfr-whatsnew-supercookies-body = Retejoj povas sekrete alkroĉi "superkuketon" al via retumilo, kiu sekvos vin tra la reto, eĉ post viŝo de kuketoj. { -brand-short-name } nun provizas fortan protekton kontraŭ superkuketoj, tiel ke ili ne povas esti uzataj por spuri vian retumon inter retejoj.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Plibonigitaj legosignoj
-cfr-whatsnew-bookmarking-body = Estas pli facile sekvi viajn plej ŝatatajn retejojn. Nun { -brand-short-name } memoras vian preferatan lokon por konservitaj legosignoj, norme montras la legosignan ilaron en novaj langetoj kaj permesas al vi facile aliri viajn ceterajn legosignojn per ilara dosierujo.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Ampleksan protekton kontraŭ interretejaj spurilaj kuketoj
-cfr-whatsnew-cross-site-tracking-body = Vi nun povas elekti pli bonan protekton kontraŭ spurado pere de kuketoj. { -brand-short-name } povas izoli viajn agojn kaj datumojn en la retejo kie vi estas, tiel ke la informoj konservitaj en la retumilo ne estos dividita inter retejoj.
 
 ## Full Video Support CFR message
 
