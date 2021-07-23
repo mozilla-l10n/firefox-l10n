@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } fernije
+
 refresh-profile-dialog-title = { -brand-short-name } opfrisse nei de standertynstellingen?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } fernije

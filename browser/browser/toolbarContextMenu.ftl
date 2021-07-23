@@ -28,6 +28,7 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Ljepblêden slute ûngedien meitsje
         }
     .accesskey = u
+
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -36,18 +37,21 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Sluten ljepblêden opnij iepenje
         }
     .accesskey = o
+
 toolbar-context-menu-manage-extension =
     .label = Utwreiding beheare
     .accesskey = U
 toolbar-context-menu-remove-extension =
     .label = Utwreiding fuortsmite
     .accesskey = f
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Utwreiding rapportearje
     .accesskey = r
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -69,6 +73,7 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Arkbalke oanpasse…
     .accesskey = p
+
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Altyd toane
     .accesskey = A
@@ -78,6 +83,7 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Allinnich op nij ljepblêd toane
     .accesskey = t
+
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Oare blêdwizers toane
     .accesskey = t

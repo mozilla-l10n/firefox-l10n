@@ -129,6 +129,8 @@ security-site-data-only = Ja, { $value } { $unit } oan websitegegevens
 security-site-data-cookies-only = Ja, cookies
 security-site-data-no = Nee
 
+##
+
 image-size-unknown = Net bekend
 page-info-not-specified =
     .value = Net spesifisearre

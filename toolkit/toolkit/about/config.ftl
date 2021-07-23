@@ -14,11 +14,15 @@ about-config-intro-warning-button = It risiko oanfurdigje en trochgean
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = It wizigjen fan dizze foarkarren kin de prestaasjes of feilichheid fan { -brand-short-name } beynfloedzje.
+
 about-config-page-title = Avansearre foarkarren
+
 about-config-search-input1 =
     .placeholder = Namme foarkarsynstelling sykje
 about-config-show-all = Alles toane
+
 about-config-show-only-modified = Allinnich wizige foarkarren toane
+
 about-config-pref-add-button =
     .title = Tafoegje
 about-config-pref-toggle-button =

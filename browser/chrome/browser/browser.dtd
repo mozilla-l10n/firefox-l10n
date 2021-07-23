@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Menu iepenje">
+
 <!ENTITY navbarOverflow.label                "Mear ark…">
 
 <!-- Tab context menu -->
@@ -145,19 +146,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "A">
 
 <!ENTITY historyMenu.label "Skiednis">
+
 <!ENTITY historyUndoMenu.label "Koartlyn sluten ljepblêden">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Koartlyn sluten skermen">
 
 <!ENTITY appMenuHistory.showAll.label "Alle skiednis toane">
+
 <!ENTITY appMenuHistory.clearRecent.label "Resinte skiednis wiskje…">
 <!ENTITY appMenuHistory.restoreSession.label "Foarige sesje werom bringe">
 <!ENTITY appMenuHistory.viewSidebar.label "Skiednissydbalke werjaaan">
 <!ENTITY appMenuHistory.hideSidebar.label "Skiednissidebalke ferstopje">
 <!ENTITY appMenuHistory.recentHistory.label "Resinte skiednis">
+
 <!ENTITY appMenuHelp.label "Help">
 
 <!ENTITY appMenuRemoteTabs.label "Syngronisearre ljepblêden">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Gjin iepen ljepblêden">
