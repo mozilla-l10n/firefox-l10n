@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Mba’ejegueru pytyvõha
+
 import-from =
     { PLATFORM() ->
         [windows] Jeporavorã jegueru, techaukaha, tembiasakue, ñe’ẽñemi ha ambue mba’ekuaarã kóvagui:
        *[other] Jerohoryvéva jegueru, techaukaha, tembiasakue, ñe’ẽñemi ha ambue mba’ekuaarã kóvagui:
     }
+
 import-from-bookmarks = Techaukaha jegueru kóvagui:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,25 +51,39 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = Ndojejuhúi tembiaporape oguerekóva techaukaha, tembiasakue térã mba’ekuaarã ñe’ẽñemi rehegua.
+
 import-source-page-title = Mba’epytyvõrã ha mba’ekuaarã jegueru
 import-items-page-title = Mba’epuru ojeguerútava
+
 import-items-description = Eiporavo mba’epuru reguerútava:
+
 import-permissions-page-title = Ikatúpiko emoneĩ { -brand-short-name }-pe
+
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS oikotevẽ emoneĩ { -brand-short-name } oikekuaávo Safari techaukahakuérape. Eikutu “Ku’ejey” ha eiporavo “Bookmarks.plist” marandurenda pe marandurenda rupa ojekuaátavape.
+
 import-migrating-page-title = Jegueruhína…
+
 import-migrating-description = Ojegueruhína ko’ã mba’epuru…
+
 import-select-profile-page-title = Rechaukaha jeporavo
+
 import-select-profile-description = Ikatu regueru mba’ekuaarã ko’ã rechaukahakuéragui:
+
 import-done-page-title = Jeguerupaite
+
 import-done-description = Ko’ã mba’epuru ojeguerupa porã:
+
 import-close-source-browser = Ikatúpiko, ehechaporãke kundaha poravopyre oñembotýpara’e reku’e mboyvejey.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = { $source } rehegua
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -79,6 +95,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = Moñe’ẽ rysýi (Safari rehegua)
 imported-edge-reading-list = Moñe’ẽrã rysýi (Edge Guive)
 
@@ -100,6 +117,7 @@ browser-data-cookies-checkbox =
     .label = Kookie
 browser-data-cookies-label =
     .value = Kookie
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -112,10 +130,12 @@ browser-data-history-label =
             [firefox] Kundaha rembiasakue ha techaukaha
            *[other] Kundaha rembiasakue
         }
+
 browser-data-formdata-checkbox =
     .label = Myanyhẽha ñongatupyre rembiasakue
 browser-data-formdata-label =
     .value = Myanyhẽha ñongatupyre rembiasakue
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -124,6 +144,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Tembiapo ñepyrũ ha ñe’ẽñemi ñongatupyre
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -138,10 +159,12 @@ browser-data-bookmarks-label =
             [edge] Hayhuvéva
            *[other] Techaukahakuéra
         }
+
 browser-data-otherdata-checkbox =
     .label = Ambue mba’ekuaarã
 browser-data-otherdata-label =
     .label = Ambue mba’ekuaarã
+
 browser-data-session-checkbox =
     .label = Ovetã ha tendayke
 browser-data-session-label =

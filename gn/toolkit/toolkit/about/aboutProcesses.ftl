@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Tapereko Mboguatahára
+
 # The Actions column
 about-processes-column-action =
     .title = Ñemongu’e
@@ -27,31 +28,6 @@ about-processes-column-cpu-total = CPU
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
-about-processes-browser-process-name = { -brand-short-name } (tapereko { $pid })
-about-processes-web-process-name = Ñanduti (tapereko { $pid }, moherakuãmbyre)
-about-processes-web-isolated-process-name = Ñanduti (rapereko { $pid }) { $origin } peg̃uarã
-about-processes-web-large-allocation = Ñanduti (rapereko { $pid }, tuicha) { $origin } peg̃uarã
-about-processes-with-coop-coep-process-name = Ñanduti (rapereko { $pid }, teñoiha juasapyre mombyrýva) { $origin } peg̃uarã
-about-processes-file-process-name = Marandurenda (tapereko { $pid })
-about-processes-extension-process-name = Moĩmbaha (rapereko { $pid })
-about-processes-privilegedabout-process-name = (tapereko { $pid }) rehegua
-about-processes-plugin-process-name = Moĩmbaha (tapereko { $pid })
-about-processes-privilegedmozilla-process-name = Ñanduti (tapereko { $pid }) { -vendor-short-name } rendápe g̃uarã
-about-processes-gmp-plugin-process-name = Moĩmbaha Gecko rehegua (rapereko { $pid })
-about-processes-gpu-process-name = GPU (tapereko { $pid })
-about-processes-vr-process-name = VR (rapereko { $pid })
-about-processes-rdd-process-name = Mba’ekuaarã mbopapapy’oha (rapereko { $pid })
-about-processes-socket-process-name = Ñanduti (rapereko { $pid })
-about-processes-remote-sandbox-broker-process-name = Remote Sandbox Broker (rapereko { $pid })
-about-processes-fork-server-process-name = Fork Server (rapereko { $pid })
-about-processes-preallocated-process-name = Ñeme’ẽmby (rapereko { $pid })
-about-processes-unknown-process-name = Ambue ({ $type }, rapereko { $pid })
-# Process
-# Variables:
-#   $name (String) The name assigned to the process.
-#   $pid (String) The process id of this process, assigned by the OS.
-about-processes-process-name = Tapereko { $pid }: { $name }
-
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
@@ -71,6 +47,7 @@ about-processes-socket-process = Ñanduti ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Ñeme’ẽmby ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -91,17 +68,6 @@ about-processes-with-coop-coep-process-private = { $origin } — Tekoñemi ({ $p
 
 ## Details within processes
 
-# Single-line summary of threads
-# Variables:
-#    $number (Number) The number of threads in the process. Typically larger
-#                     than 30. We don't expect to ever have processes with less
-#                     than 5 threads.
-about-processes-thread-summary = Inimbo ({ $number })
-# Thread details
-# Variables:
-#   $name (String) The name assigned to the thread.
-#   $tid (String) The thread id of this thread, assigned by the OS.
-about-processes-thread-name = Inimbo { $tid }: { $name }
 # Single-line summary of threads (non-idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -117,6 +83,7 @@ about-processes-active-threads =
         [one] { $active } inimbo hendýva { $number }: { $list } mba’e
        *[other] { $active } inimbokuéra hendýva { $number }: { $list } mba’e
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -128,21 +95,25 @@ about-processes-inactive-threads =
         [one] { $number } inimbo ndoikóiva
        *[other] { $number } inimbokuéra ndoikóiva
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Id inimbo: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Tendayke: { $name }
 about-processes-preloaded-tab = Tendayke pyahu henyhẽmava
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Kora’ive: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -159,14 +130,12 @@ about-processes-frame-name-many = Kora’ive ({ $number }): { $shortUrl }
 ##                   of `duration-unit-*`.
 
 # Common case.
-about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
-# Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = CPU aravo: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (ta’ãha)
-# Special case: process or thread is currently idle.
-about-processes-cpu-user-and-kernel-idle = hekoreíva ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = Oĩreíva
     .title = CPU aravo: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
@@ -183,10 +152,9 @@ about-processes-cpu-idle = Oĩreíva
 ##                        of `memory-unit-*`.
 
 # Common case.
-about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
-# Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Mongakuaa: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

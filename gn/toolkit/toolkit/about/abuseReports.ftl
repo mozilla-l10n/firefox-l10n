@@ -41,6 +41,11 @@ abuse-report-submit-button = Mondo
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Ojehejáma marandu <span data-l10n-name="addon-name">{ $addon-name }</span> rehegua.
 abuse-report-messagebar-submitting = Emondohína marandu <span data-l10n-name="addon-name">{ $addon-name }</span> peg̃uarã.
 abuse-report-messagebar-submitted = Aguyje emondo haguére marandu. ¿Emboguesépa <span data-l10n-name="addon-name">{ $addon-name }</span>?

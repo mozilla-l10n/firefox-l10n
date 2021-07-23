@@ -129,6 +129,8 @@ security-site-data-only = Hẽe,{ $value } { $unit } tendakuéra mba’ekuaarã
 security-site-data-cookies-only = Hẽe, umi kookie
 security-site-data-no = Ahániri
 
+##
+
 image-size-unknown = Ojekuaa’ỹva
 page-info-not-specified =
     .value = Moha’eñopyre’ỹva

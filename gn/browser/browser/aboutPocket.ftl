@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Embojuaju teramoĩ
+
 pocket-panel-saved-error-generic = Oiko jejavy eñongatusévo { -pocket-brand-name }-pe.
 pocket-panel-saved-error-tag-length = Umi teramoĩme eipurukuaa 25 tai peve añónte
 pocket-panel-saved-error-only-links = Eñongatukuaa juajuha añoite

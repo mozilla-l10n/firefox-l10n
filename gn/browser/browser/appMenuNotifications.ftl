@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ani ko’ág̃a
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Pya’e remoñepyrũjey rire, { -brand-shorter-name } omoĩmbajeýta tendayke ha ovetã rehecháva’ekue ha ndaha’éiva Kundaha ñemimegua.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Oĩma, aikumby
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Eñangareko ne rembipuru’i eikutúvo <image data-l10n-name='addon-install-icon'></image> poravorã <image data-l10n-name='addon-menu-icon'></image> pegua.
+
 appmenu-update-available2 =
     .label = Eipurukuaa ñemboheko
     .buttonlabel = Emboguejy
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ko’ág̃a nahániri
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Oĩ { -brand-shorter-name } hekopyahúmava, hákatu ndaikatúi gueteri emohenda ojejapo rupi { -brand-shorter-name } momokõi. Emboty ikatu hag̃ua embohekopyahu térã eiporavo mbohekopyahu opaicharei (ikatuhína pe ambue momokõimbyre ndoikoporãi emoñepyrũjey peve).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Oĩma, aikumby
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Eñangareko ne rembipuru’i eikutúvo <image data-l10n-name='addon-install-icon'></image> poravorã <image data-l10n-name='addon-menu-icon'></image> pegua.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Moneĩ
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Eñangareko ne moĩmbaha ha téma tembipuru’i poravorã rupive.
 appmenu-addon-post-install-message3 = Eñangareko ne moĩmbaha ha téma tembipuru’i poravorã guive.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Emoneĩ ko jepysokue oñembohekóvo Windows ñemiguápe
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = Ne Tendayke Pyahu iñambuékuri.
     .buttonlabel = Topyta Ñemoambue
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Eipe’aite jepysokue
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = Nde kuatiarogue tendayke pyahugua iñambuéma.
     .buttonlabel = Erekotapia umi moambue

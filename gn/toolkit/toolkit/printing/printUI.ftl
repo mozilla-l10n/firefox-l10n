@@ -5,6 +5,7 @@
 printui-title = Ñemonguatia
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Ñongatu pyahu
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -12,6 +13,7 @@ printui-sheets-count =
         [one] { $sheetCount } kuatia rogue
        *[other] { $sheetCount } kuatiakuéra rogue
     }
+
 printui-page-range-all = Opavave
 printui-page-range-custom = Momba’epyre
 printui-page-range-label = Kuatiarogue
@@ -20,22 +22,29 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Emoinge kuatiarogue peteĩva momba’epyre
     .placeholder = p.ej. 2-6, 9, 12-16
+
 # Section title for the number of copies to print
 printui-copies-label = Monguatiapyre
+
 printui-orientation = Moma’ẽ
 printui-landscape = Oñenóva
 printui-portrait = Avara’ãnga
+
 # Section title for the printer or destination device to target
 printui-destination-label = Moõpa
 printui-destination-pdf-label = Eñongatu PDF ramo
+
 printui-more-settings = Emoĩporãve
 printui-less-settings = Emboheko sa’ive
+
 printui-paper-size-label = Kuatia tuichakue
+
 # Section title (noun) for the print scaling options
 printui-scale = Jupiha
 printui-scale-fit-to-page-width = Emoĩporã kuatiarogue pekue
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Jupiha
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Mokõivéva tova ñemonguatia
 printui-two-sided-printing-off = Mboguepyre
@@ -43,10 +52,12 @@ printui-two-sided-printing-off = Mboguepyre
 printui-two-sided-printing-long-edge = Ehasa mombyryveha rupi
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Ehasa ag̃uiveha rupi
+
 # Section title for miscellaneous print options
 printui-options = Poravorã
 printui-headers-footers-checkbox = Emongutia myakãha ha kuatiarogue guy gotyo
 printui-backgrounds-checkbox = Tugua ñembokuatia
+
 printui-selection-checkbox = Embokuatia jeporavo
 
 ## The "Format" section, select a version of the website to print. Radio
@@ -67,6 +78,7 @@ printui-simplify-page-radio = Mombykypyre
 printui-color-mode-label = Sa’y reko
 printui-color-mode-color = Sa’y
 printui-color-mode-bw = Morotĩ ha hũ
+
 printui-margins = Mbokoraha
 printui-margins-default = Ijypykue
 printui-margins-min = Michĩvéva
@@ -85,17 +97,23 @@ printui-margins-custom-left-mm = Asugua (mm)
 printui-margins-custom-right = Akatuagua
 printui-margins-custom-right-inches = Akatúa (pulgada)
 printui-margins-custom-right-mm = Akatuagua (mm)
+
 printui-system-dialog-link = Emonguatia eipurúvo apopyvusu rovetã…
+
 printui-primary-button = Ñemonguatia
 printui-primary-button-save = Ñongatu
 printui-cancel-button = Heja
 printui-close-button = Mboty
+
 printui-loading = Ehecháta jehechaha ñepyrũ
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Jehecha ypy ñemonguatia
+
 printui-pages-per-sheet = Kuatiarogue kuatiápe
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Ñemonguatia…
@@ -122,6 +140,7 @@ printui-paper-tabloid = Kuatiahaipyre
 printui-error-invalid-scale = Pe jupiha ha’eva’erã 10 ha 200 pa’ũme.
 printui-error-invalid-margin = Emoinge peteĩ oikóva kuatia tuichakue poravopyrépe g̃uarã.
 printui-error-invalid-copies = Pe ñembokuatia ojejapova’erã 1 ha 10000 pa’ũme.
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Pe rango ha’eva’erã papapy 1 ha { $numPages } pa’ũme.

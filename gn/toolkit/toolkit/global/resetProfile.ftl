@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } mbopiro’y
+
 refresh-profile-dialog-title = ¿Eguerujey { -brand-short-name } ñemoĩporã ijypykuévape?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } mbopiro’y

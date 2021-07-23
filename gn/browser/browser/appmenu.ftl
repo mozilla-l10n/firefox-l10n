@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = Eipurukuaáma ñembohekopyahu — Emboguejy ko’ág̃a
     .label-update-unsupported = Ndaikatúi embohekopyahu — ndojokupytýi apopyvusu
     .label-update-restart = Eipurukuaáma ñembohekopyahu — Emoñepyrũjey ko’ág̃a
+
 appmenuitem-protection-dashboard-title = Ñemo’ãha renda
 appmenuitem-customize-mode =
     .label = Ñemomba’e…
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Emboty Tembipuru’i Poravorã
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = Moag̃ui
 appmenuitem-zoom-reduce =
     .label = Momombyry
+
 appmenuitem-fullscreen =
     .label = Mba’erechaha tuichavéva
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Embojuehe ko’ág̃a
+
 appmenu-remote-tabs-sign-into-sync =
     .label = Eike embojuehe hag̃ua…
 appmenu-remote-tabs-turn-on-sync =
     .label = Emyandy Ñembojuehe…
+
 appmenuitem-fxa-toolbar-sync-now2 = Embojuehe ko’ág̃a
 appmenuitem-fxa-manage-account = Mba’ete Ñangarekoha
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = Tembiapo ñepyrũ
 appmenu-fxa-setup-sync =
     .label = Emyandy ñembojuehe…
 appmenu-fxa-show-more-tabs = Ehechaukave tendayke
+
 appmenuitem-save-page =
     .label = Ñongatu pyahu…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Oĩpa mba’e pyahu
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,35 +103,49 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Eguenohẽve marandu
+
 profiler-popup-description-title =
     .value = Eñongatu, ehesa’ỹijo, emoherakuã
+
 profiler-popup-description = Eipytyvõ tembiapo apañuãi ehechaukávo mba’etekuéra omoherakuãvo ne mohendahápe g̃uarã.
+
 profiler-popup-learn-more = Kuaave
+
 profiler-popup-settings =
     .value = Ñemboheko
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Ñemboheko mbosako’i…
+
 profiler-popup-disabled =
     Pe mbohapeha ndojepurukuaái ko’ag̃aite, ikatúre oguereko kundaha ñemi rovetã
     ijurujavahína.
+
 profiler-popup-recording-screen = Jehechapaite…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Ñemomba’epyre
+
 profiler-popup-start-recording-button =
     .label = Eñepyrũ ñe’ẽñongatu
+
 profiler-popup-discard-button =
     .label = Mboyke
+
 profiler-popup-capture-button =
     .label = Ejapyhy
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -137,6 +158,7 @@ appmenu-manage-history =
     .label = Tembiasakue ñangareko
 appmenu-reopen-all-tabs = Embojurujajey opaite tendayke
 appmenu-reopen-all-windows = Embojurujajey opaite ovetã
+
 appmenu-restore-session =
     .label = Tembiapopa’ũ ramovéva ñembojevy
 appmenu-clear-history =
@@ -192,6 +214,7 @@ appmenu-customizetoolbar =
     .label = Emboava tembipuru renda…
 appmenu-taskmanager =
     .label = Tembiapo ñangarekohára
+
 appmenu-developer-tools-subheader = Kundahára Rembipuru
 appmenu-developer-tools-extensions =
     .label = Jepysokue mboguatahárape g̃uarã

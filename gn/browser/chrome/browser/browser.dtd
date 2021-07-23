@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Poravorãme jeike">
+
 <!ENTITY navbarOverflow.label                "Tembipuruve…">
 
 <!-- Tab context menu -->
@@ -141,19 +142,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "T">
 
 <!ENTITY historyMenu.label "Tembiasakue">
+
 <!ENTITY historyUndoMenu.label "Tendayke oñembotyramóva">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ovetã oñembotyramóva">
 
 <!ENTITY appMenuHistory.showAll.label "Tembiasakue jehechaukapa">
+
 <!ENTITY appMenuHistory.clearRecent.label "Tembiasakue ramovéva ñemopotĩ…">
 <!ENTITY appMenuHistory.restoreSession.label "Tembiapopa’ũ ramovéva ñembojevy">
 <!ENTITY appMenuHistory.viewSidebar.label "Tembiasakue renda yke jehechauka">
 <!ENTITY appMenuHistory.hideSidebar.label "Emokañy tembiasakue renda yke">
 <!ENTITY appMenuHistory.recentHistory.label "Tembiasakue ramovéva">
+
 <!ENTITY appMenuHelp.label "Pytyvõ">
 
 <!ENTITY appMenuRemoteTabs.label "Tendayke oñembojuehepyre">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ndaipóri tendayke ijurujáva">

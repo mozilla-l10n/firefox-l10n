@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Embojuruja { -brand-short-name }-pe
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
