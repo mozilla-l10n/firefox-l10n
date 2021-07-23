@@ -35,6 +35,7 @@ restore-page-close-button =
     .accesskey = N
 
 ## The following strings are used in about:welcomeback
+
 welcome-back-tab-title = Gelukt!
 welcome-back-page-title = Gelukt!
 welcome-back-page-info = { -brand-short-name } is gereed voor gebruik.

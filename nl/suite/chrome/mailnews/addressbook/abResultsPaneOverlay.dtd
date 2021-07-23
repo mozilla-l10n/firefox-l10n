@@ -30,8 +30,6 @@
 <!ENTITY HomePhone.accesskey                   "f">
 <!ENTITY WorkPhone.label                       "Telefoon werk">
 <!ENTITY WorkPhone.accesskey                   "w">
-<!ENTITY ScreenName.label                      "Schermnaam">
-<!ENTITY ScreenName.accesskey                  "S">
 <!ENTITY ChatName.label                        "Chatnaam">
 <!ENTITY ChatName.accesskey                    "C">
 <!ENTITY sortAscending.label                   "Oplopend">

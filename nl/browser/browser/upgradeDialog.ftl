@@ -11,21 +11,13 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Hartelijk welkom bij een nieuwe { -brand-short-name }
 upgrade-dialog-new-subtitle = Ontworpen om u sneller te brengen waar u heen wilt
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
-# style to be automatically added to the text inside it. { -brand-short-name }
-# should stay inside the span.
-upgrade-dialog-new-alt-subtitle = Begin door <span data-l10n-name="zap">{ -brand-short-name }</span> een klik verwijderd te maken
 upgrade-dialog-new-item-menu-title = Gestroomlijnde werkbalk en menu’s
 upgrade-dialog-new-item-menu-description = Geef prioriteit aan de belangrijke dingen, zodat u vindt wat u nodig hebt.
 upgrade-dialog-new-item-tabs-title = Moderne tabbladen
 upgrade-dialog-new-item-tabs-description = Houd gegevens netjes bij elkaar, waardoor u gefocust kunt blijven en flexibel kunt handelen.
 upgrade-dialog-new-item-icons-title = Nieuwe pictogrammen en duidelijkere berichten
 upgrade-dialog-new-item-icons-description = Helpen u op luchtiger manier uw weg te vinden.
-upgrade-dialog-new-primary-primary-button = { -brand-short-name } mijn voorkeursbrowser maken
-    .title = Stelt { -brand-short-name } in als standaardbrowser en maakt het vast aan de taakbalk
 upgrade-dialog-new-primary-default-button = { -brand-short-name } mijn voorkeursbrowser maken
-upgrade-dialog-new-primary-pin-button = { -brand-short-name } aan mijn taakbalk vastmaken
-upgrade-dialog-new-primary-pin-alt-button = Aan taakbalk vastzetten
 upgrade-dialog-new-primary-theme-button = Kies een thema
 upgrade-dialog-new-secondary-button = Niet nu
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -61,10 +53,6 @@ upgrade-dialog-pin-secondary-button = Niet nu
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = { -brand-short-name } uw standaardbrowser maken?
-upgrade-dialog-default-subtitle = Ontvang snelheid, veiligheid en privacy, telkens als u surft.
-upgrade-dialog-default-primary-button = Als standaardbrowser instellen
-# This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = { -brand-short-name } uw standaardbrowser maken
 upgrade-dialog-default-subtitle-2 = Zet snelheid, veiligheid en privacy op de automatische piloot.
 upgrade-dialog-default-primary-button-2 = Standaardbrowser maken
@@ -72,10 +60,6 @@ upgrade-dialog-default-secondary-button = Niet nu
 
 ## Theme selection screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title =
-    Zorg voor een frisse start
-    met een bijgewerkt thema
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title-2 = Zorg voor een schone start met een fris thema
 upgrade-dialog-theme-system = Systeemthema

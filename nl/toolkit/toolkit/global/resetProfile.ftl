@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } opfrissen
+
 refresh-profile-dialog-title = { -brand-short-name } opfrissen naar de standaardinstellingen?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } opfrissen

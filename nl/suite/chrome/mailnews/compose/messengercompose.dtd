@@ -51,6 +51,7 @@
 <!ENTITY editRewrapCmd.label "Opnieuw afbreken">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "f">
+
 <!ENTITY accountManagerCmd.label "Accountinstellingen…">
 <!ENTITY accountManagerCmd.accesskey "c">
 

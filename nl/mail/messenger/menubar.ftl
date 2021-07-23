@@ -16,6 +16,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Voorkeuren
     .accesskey = V
+
 menu-addons-and-themes =
     .label = Add-ons en thema’s
     .accesskey = A
@@ -25,9 +26,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Probleemoplossingsmodus…
     .accesskey = P
+
 menu-help-exit-troubleshoot-mode =
     .label = Probleemoplossingsmodus uitschakelen
     .accesskey = c
+
 menu-help-more-troubleshooting-info =
     .label = Meer probleemoplossingsinformatie
     .accesskey = M
@@ -58,12 +61,15 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Dichtheid
     .accesskey = D
+
 mail-uidensity-compact =
     .label = Compact
     .accesskey = C
+
 mail-uidensity-normal =
     .label = Normaal
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Aanraking
     .accesskey = A

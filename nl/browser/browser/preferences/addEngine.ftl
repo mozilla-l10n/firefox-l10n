@@ -5,18 +5,18 @@
 add-engine-window =
     .title = Zoekmachine toevoegen
     .style = width: 32em;
+
 add-engine-button = Aangepaste zoekmachine toevoegen
+
 add-engine-name = Naam zoekmachine
+
 add-engine-alias = Alias
+
 add-engine-url = URL van zoekmachine, gebruik %s op de plaats van de zoekterm
-add-engine-cancel =
-    .label = Annuleren
-    .accesskey = A
-add-engine-ok =
-    .label = Zoekmachine toevoegen
-    .accesskey = t
+
 add-engine-dialog =
     .buttonlabelaccept = Zoekmachine toevoegen
     .buttonaccesskeyaccept = t
+
 engine-name-exists = Er bestaat al een zoekmachine met die naam
 engine-alias-exists = Er bestaat al een zoekmachine met dat alias
