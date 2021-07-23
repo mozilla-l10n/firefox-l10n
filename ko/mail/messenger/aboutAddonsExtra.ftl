@@ -4,3 +4,4 @@
 
 add-on-options-button =
     .title = 부가 기능 설정
+

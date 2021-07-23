@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = 사용해보기: 탭 고정
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 왜 이게 나왔나요
+
 cfr-doorhanger-extension-cancel-button = 나중에
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = 지금 추가
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = 이 탭 고정
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = 추천 설정 관리
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = 이 추천을 표시하지 않음
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = 더 알아보기
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } 제작
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = 추천
 cfr-doorhanger-extension-notification2 = 추천
     .tooltiptext = 확장 기능 추천
     .a11y-announcement = 확장 기능 추천 사용 가능
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = 추천
@@ -57,6 +65,7 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } 사용자
     }
+
 cfr-doorhanger-pintab-description = 가장 많이 사용하는 사이트에 쉽게 접근하세요. 사이트를 탭으로 열어 둡니다(다시 시작할 때에도).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -64,8 +73,10 @@ cfr-doorhanger-pintab-description = 가장 많이 사용하는 사이트에 쉽�
 cfr-doorhanger-pintab-step1 = 고정하려는 탭에서 <b>마우스 오른쪽 버튼을 클릭</b>하세요.
 cfr-doorhanger-pintab-step2 = 메뉴에서 <b>탭 고정</b>을 선택하세요.
 cfr-doorhanger-pintab-step3 = 사이트에 업데이트가 있으면 고정된 탭에 파란색 점이 표시됩니다.
+
 cfr-doorhanger-pintab-animation-pause = 일시 중지
 cfr-doorhanger-pintab-animation-resume = 계속
+
 
 ## Firefox Accounts Message
 
@@ -87,16 +98,22 @@ cfr-protections-panel-link-text = 더 알아보기
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = 새 기능:
+
 cfr-whatsnew-button =
     .label = 새 기능
     .tooltiptext = 새 기능
+
 cfr-whatsnew-panel-header = 새 기능
+
 cfr-whatsnew-release-notes-link-text = 출시 정보 읽기
+
 cfr-whatsnew-fx70-title = { -brand-short-name }는 이제 사용자의 개인 정보 보호를 위해 더 열심히 싸웁니다
 cfr-whatsnew-fx70-body = 최신 업데이트는 추적 방지 기능을 향상시키고 모든 사이트에 대해 안전한 비밀번호를 만드는 것이 그 어느때보다 쉬워졌습니다.
+
 cfr-whatsnew-tracking-protect-title = 추적기로부터 보호
 cfr-whatsnew-tracking-protect-body = { -brand-short-name }는 온라인에서 사용자를 따라다니는 많은 일반적인 소셜 및 교차 사이트 추적기를 차단합니다.
 cfr-whatsnew-tracking-protect-link-text = 보고서 보기
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -106,9 +123,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } 이후
 cfr-whatsnew-tracking-blocked-link-text = 보고서 보기
+
 cfr-whatsnew-lockwise-backup-title = 비밀번호 백업
 cfr-whatsnew-lockwise-backup-body = 이제 로그인하는 곳 어디에서나 접근할 수 있는 안전한 비밀번호를 생성하세요.
 cfr-whatsnew-lockwise-backup-link-text = 백업 켜기
+
 cfr-whatsnew-lockwise-take-title = 비밀번호를 가지고 다니세요
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 모바일 앱을 사용하면 어디서든 백업된 비밀번호에 안전하게 접근할 수 있습니다.
 cfr-whatsnew-lockwise-take-link-text = 앱 받기
@@ -144,6 +163,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] 디지털 지문 차단됨
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name }는 기기와 동작에 대한 정보를 몰래 수집하여 사용자의 광고 프로필을 만드는 많은 디지털 지문을 차단합니다.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = 디지털 지문
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name }는 기기와 동작에 대한 정보를 몰래 수집하여 사용자의 광고 프로필을 만드는 디지털 지문을 차단할 수 있습니다.
@@ -201,6 +221,7 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name }가 { $date } 이후 <b>{ $blockedCount }</b>개 이상의 추적기를 차단했습니다!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -234,12 +255,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = 화면 속 화면 아이콘
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = 닫기
-    .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = 보호 기능을 한 눈에 확인
 cfr-whatsnew-protections-body = 보호 대시보드에는 데이터 유출 및 비밀번호 관리에 대한 요약 보고서가 포함되어 있습니다. 이제 해결된 유출 수를 추적하고 저장된 비밀번호 중 데이터 유출에 노출된 비밀번호가 있는지 확인할 수 있습니다.
 cfr-whatsnew-protections-cta-link = 보호 대시보드 보기
@@ -249,6 +264,12 @@ cfr-whatsnew-protections-icon-alt = 방패 아이콘
 
 cfr-whatsnew-better-pdf-header = 더 나은 PDF 경험
 cfr-whatsnew-better-pdf-body = 이제 PDF 문서가 { -brand-short-name }에서 직접 열리므로 워크플로에 쉽게 접근할 수 있습니다.
+
+cfr-doorhanger-milestone-close-button = 닫기
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -270,35 +291,15 @@ cfr-doorhanger-fission-secondary-button = 더 알아보기
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = 교활한 추적 전술로부터 자동 보호
-cfr-whatsnew-clear-cookies-body = 일부 추적기는 몰래 쿠키를 설정하는 다른 웹 사이트로 사용자를 리디렉션합니다. 이제 { -brand-short-name }는 이런 쿠키를 자동으로 지우므로 사용자를 따라다닐 수 없습니다.
-cfr-whatsnew-clear-cookies-image-alt = 쿠키 차단 그림
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = 더 많은 미디어 컨트롤
-cfr-whatsnew-media-keys-body = 키보드 또는 헤드셋에서 바로 오디오 또는 비디오를 재생 및 일시 중지하여 다른 탭, 프로그램 또는 컴퓨터가 잠긴 경우에도 미디어를 쉽게 제어할 수 있습니다. 또한 앞으로 및 뒤로 키를 사용하여 트랙 사이를 이동할 수도 있습니다.
-cfr-whatsnew-media-keys-button = 방법 알아보기
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = 주소 표시줄의 검색 바로 가기
-cfr-whatsnew-search-shortcuts-body = 이제, 검색 엔진이나 특정 사이트를 주소 표시줄에 입력하면 아래의 검색 제안에 파란색 바로 가기가 나타납니다. 주소 표시줄에서 바로 검색을 완료하려면 해당 바로 가기를 선택하세요.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = 악성 슈퍼쿠키로부터 보호
-cfr-whatsnew-supercookies-body = 웹 사이트는 사용자가 쿠키를 지운 후에도 웹에서 사용자를 추적할 수 있는 "슈퍼쿠키"를 브라우저에 몰래 첨부할 수 있습니다. { -brand-short-name }는 이제 슈퍼쿠키에 대한 강력한 보호 기능을 제공하므로 한 사이트에서 다음 사이트로 온라인 활동을 추적하는 데 사용할 수 없습니다.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = 더 나은 북마크
-cfr-whatsnew-bookmarking-body = 즐겨찾는 사이트를 더 쉽게 추적할 수 있습니다. 이제 { -brand-short-name }는 저장된 북마크의 선호 위치를 기억하고, 새 탭에 북마크 도구 모음을 기본적으로 표시하며, 도구 모음 폴더를 통해 나머지 북마크에 쉽게 액세스할 수 있습니다.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = 교차 사이트 쿠키 추적으로부터 포괄적인 보호
-cfr-whatsnew-cross-site-tracking-body = 이제 쿠키 추적으로부터 더 나은 보호를 선택할 수 있습니다. { -brand-short-name }는 활동과 데이터를 현재 사이트로 분리하여 브라우저에 저장된 정보가 웹 사이트간에 공유되지 않도록 합니다.
 
 ## Full Video Support CFR message
 

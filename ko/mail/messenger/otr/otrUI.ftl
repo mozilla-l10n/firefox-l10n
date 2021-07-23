@@ -57,6 +57,7 @@ state-private = { $name }의 신원이 확인되었습니다. 현재 대화는 �
 state-finished = { $name } 님이 암호화 된 대화를 종료했습니다. 나도 똑같이 해야 합니다.
 
 state-not_private-label = 보안되지 않음
+
 state-unverified-label = 확인 안 됨
 state-private-label = 비공개
 state-finished-label = 안료됨

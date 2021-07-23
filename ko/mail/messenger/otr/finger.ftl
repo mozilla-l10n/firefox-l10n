@@ -10,6 +10,7 @@ finger-intro = 이전 종단간 암호화 대화의 OTR 키 지문
 
 finger-screenName =
     .label = 연락처
+
 finger-verified =
     .label = 확인 상태
 finger-fingerprint =

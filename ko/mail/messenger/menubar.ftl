@@ -9,6 +9,10 @@ menu-view-charset =
     .label = 텍스트 인코딩
     .accesskey = c
 
+## Tools Menu
+
+## Help Menu
+
 ## Mail Toolbar
 
 toolbar-junk-button =
@@ -23,3 +27,8 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = 삭제 취소
     .tooltiptext = 선택한 메세지를 삭제 취소함
+
+## View
+
+## View / Layout
+

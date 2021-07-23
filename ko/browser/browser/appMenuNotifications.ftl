@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = 확인
     .buttonaccesskey = O
 appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></image> 메뉴에서 <image data-l10n-name='addon-install-icon'></image> 아이콘을 눌러서 부가 기능을 관리하세요.
+
 appmenu-update-available2 =
     .label = 업데이트 사용 가능
     .buttonlabel = 다운로드
@@ -71,14 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = 나중에
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = 새 { -brand-shorter-name } 업데이트를 사용할 수 있지만 { -brand-shorter-name }의 다른 복사본이 실행 중이므로 설치할 수 없습니다. 업데이트를 계속하려면 복사본을 닫거나 업데이트를 선택하세요 (다른 복사본은 다시 시작할 때까지 제대로 작동하지 않을 수 있음).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = 확인
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = 애플리케이션 메뉴를 통해 확장 기능과 테마를 관리하세요.
 appmenu-addon-post-install-message3 = 애플리케이션 메뉴를 통해 부가 기능과 테마를 관리하세요.
 appmenu-addon-post-install-incognito-checkbox =
     .label = 이 확장 기능이 사생활 보호 창에서 실행되도록 허용
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = 새 탭이 변경되었습니다.
     .buttonlabel = 변경한 설정 유지
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = 확장 기능 사용 안 함
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = 새 탭이 변경되었습니다.
     .buttonlabel = 변경한 설정 유지
