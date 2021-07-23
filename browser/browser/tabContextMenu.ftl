@@ -65,22 +65,7 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Chiudi più schede
     .accesskey = u
-tab-context-share-url =
-    .label = Condividi
-    .accesskey = o
-tab-context-share-more =
-    .label = Altro…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Riapri scheda chiusa
-           *[other] Riapri schede chiuse
-        }
-    .accesskey = s
-tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
             [1] Riapri scheda chiusa
@@ -99,6 +84,22 @@ move-tabs =
 move-tab =
     .label = Sposta scheda
     .accesskey = S
+tab-context-share-url =
+    .label = Condividi
+    .accesskey = o
+tab-context-share-more =
+    .label = Altro…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Riapri scheda chiusa
+           *[other] Riapri schede chiuse
+        }
+    .accesskey = s
 tab-context-close-tabs =
     .label =
         { $tabCount ->

@@ -3,11 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Cattura schermata
+
+screenshots-my-shots-button = Le mie immagini
+
 screenshot-toolbarbutton =
   .label = Cattura schermata
   .tooltiptext = Cattura schermata
 
-screenshots-my-shots-button = Le mie immagini
 screenshots-instructions = Trascina o fai clic su una pagina per selezionare un’area della pagina. Premi ESC per annullare.
 screenshots-cancel-button = Annulla
 screenshots-save-visible-button = Salva l’area visibile

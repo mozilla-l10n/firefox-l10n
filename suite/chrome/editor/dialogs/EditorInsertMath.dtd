@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Inserire matematica">
+
 <!ENTITY sourceEditField.label "Inserire codice sorgente LaTeX:">
+
 <!ENTITY options.label "Opzioni">
 <!ENTITY optionInline.label "Modalità in linea">
 <!ENTITY optionInline.accesskey "n">
@@ -13,5 +15,6 @@
 <!ENTITY optionLTR.accesskey "s">
 <!ENTITY optionRTL.label "Direzione da destra a sinistra">
 <!ENTITY optionRTL.accesskey "D">
+
 <!ENTITY insertButton.label "Inserisci">
 <!ENTITY insertButton.accesskey "I">

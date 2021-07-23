@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sanitizeDialog.title            "Svuota dati personali">
+
 <!ENTITY sanitizeItems.label             "Cancella adesso i seguenti elementi:">
 
 <!--LOCALIZATION NOTE : Make sure to not have overlapped  accesskeys with
@@ -36,6 +37,6 @@
 <!ENTITY itemSessions.label              "Sessioni con autenticazione">
 <!ENTITY itemSessions.accesskey          "S">
 
+<!ENTITY sanitizeButton.label            "Svuota dati personali ora">
 <!ENTITY itemSessionsS.accesskey         "a">
 
-<!ENTITY sanitizeButton.label            "Svuota dati personali ora">

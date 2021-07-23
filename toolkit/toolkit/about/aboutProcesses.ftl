@@ -28,6 +28,10 @@ about-processes-column-cpu-total = CPU
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
 about-processes-browser-process = { -brand-short-name } ({ $pid })
 about-processes-web-process = Processo web condiviso ({ $pid })
 about-processes-file-process = File ({ $pid })

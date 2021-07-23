@@ -8,6 +8,7 @@
 newtab-page-title = Nuova scheda
 newtab-settings-button =
     .title = Personalizza la pagina Nuova scheda
+
 newtab-personalize-button-label = Personalizza
     .title = Personalizza Nuova scheda
     .aria-label = Personalizza Nuova scheda
@@ -23,7 +24,9 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Cerca
     .aria-label = Cerca
+
 newtab-search-box-search-the-web-text = Cerca sul Web
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Cerca con { $engine } o inserisci un indirizzo
@@ -38,11 +41,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Cerca o inserisci un indirizzo
     .title = Cerca o inserisci un indirizzo
     .aria-label = Cerca o inserisci un indirizzo
+
 newtab-search-box-search-the-web-input =
     .placeholder = Cerca sul Web
     .title = Cerca sul Web
     .aria-label = Cerca sul Web
-newtab-search-box-text = Cerca sul Web
+
 newtab-search-box-input =
     .placeholder = Cerca sul Web
     .aria-label = Cerca sul Web
@@ -57,10 +61,12 @@ newtab-topsites-edit-shortcut-header = Modifica scorciatoia
 newtab-topsites-title-label = Titolo
 newtab-topsites-title-input =
     .placeholder = Inserire un titolo
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Digitare o incollare un URL
 newtab-topsites-url-validation = È necessario fornire un URL valido
+
 newtab-topsites-image-url-label = Indirizzo immagine personalizzata
 newtab-topsites-use-image-link = Utilizza un’immagine personalizzata…
 newtab-topsites-image-validation = Errore durante il caricamento dell’immagine. Prova con un altro indirizzo.
@@ -89,10 +95,12 @@ newtab-topsite-sponsored = Sponsorizzato
 newtab-menu-section-tooltip =
     .title = Apri menu
     .aria-label = Apri menu
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Rimuovi
     .aria-label = Rimuovi
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -167,7 +175,9 @@ newtab-label-removed-bookmark = Segnalibro eliminato
 newtab-label-recommended = Di tendenza
 newtab-label-saved = Salvato in { -pocket-brand-name }
 newtab-label-download = Scaricata
+
 newtab-label-sponsored = { $sponsorOrSource } · Sponsorizzata
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -206,10 +216,12 @@ newtab-section-header-pocket = Consigliati da { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Inizia a navigare e, in questa sezione, verranno visualizzati articoli, video e altre pagine visitate di recente o aggiunte ai segnalibri.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Non c’è altro. Controlla più tardi per altre storie da { $provider }. Non vuoi aspettare? Seleziona un argomento tra quelli più popolari per scoprire altre notizie interessanti dal Web.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -251,6 +263,7 @@ newtab-custom-pocket-sponsored = Storie sponsorizzate
 newtab-custom-recent-title = Attività recente
 newtab-custom-recent-subtitle = Una selezione di siti e contenuti visualizzati di recente
 newtab-custom-close-button = Chiudi
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

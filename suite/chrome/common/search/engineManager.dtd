@@ -5,8 +5,10 @@
 <!ENTITY engineManager.title "Gestione elenco motori di ricerca">
 <!ENTITY engineManager.style "min-width: 35em;">
 <!ENTITY engineManager.intro "I seguenti motori di ricerca risultano installati:">
+
 <!ENTITY columnLabel.name "Nome">
 <!ENTITY columnLabel.keyword "Parola chiave">
+
 <!ENTITY up.label "Muovi su">
 <!ENTITY up.accesskey "M">
 <!ENTITY dn.label "Muovi giù">
@@ -15,9 +17,12 @@
 <!ENTITY remove.accesskey "E">
 <!ENTITY edit.label "Modifica parola chiave…">
 <!ENTITY edit.accesskey "h">
+
 <!ENTITY addEngine.label "Aggiungi motori di ricerca…">
 <!ENTITY addEngine.accesskey "A">
+
 <!ENTITY enableSuggest.label "Mostra suggerimenti ricerca">
 <!ENTITY enableSuggest.accesskey "s">
+
 <!ENTITY restoreDefaults.label "Impostazioni predefinite">
 <!ENTITY restoreDefaults.accesskey "I">

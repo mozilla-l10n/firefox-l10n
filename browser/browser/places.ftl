@@ -6,34 +6,15 @@ places-open =
     .label = Apri
     .accesskey = A
 
+places-open-tab =
+    .label = Apri in nuova scheda
+    .accesskey = h
 places-open-in-tab =
     .label = Apri in nuova scheda
     .accesskey = h
 places-open-all-bookmarks =
     .label = Apri tutti i segnalibri
     .accesskey = u
-places-open-in-window =
-    .label = Apri in nuova finestra
-    .accesskey = f
-places-open-in-private-window =
-    .label = Apri in nuova finestra anonima
-    .accesskey = m
-places-add-bookmark =
-    .label = Aggiungi segnalibro…
-    .accesskey = b
-places-add-folder-contextmenu =
-    .label = Aggiungi cartella…
-    .accesskey = n
-places-add-folder =
-    .label = Aggiungi cartella…
-    .accesskey = n
-places-add-separator =
-    .label = Aggiungi separatore
-    .accesskey = u
-
-places-open-tab =
-    .label = Apri in nuova scheda
-    .accesskey = h
 places-open-all-in-tabs =
     .label = Apri tutti in schede
     .accesskey = u
@@ -55,6 +36,26 @@ places-new-folder =
     .accesskey = N
 places-new-separator =
     .label = Nuovo separatore
+    .accesskey = u
+
+places-open-in-window =
+    .label = Apri in nuova finestra
+    .accesskey = f
+places-open-in-private-window =
+    .label = Apri in nuova finestra anonima
+    .accesskey = m
+
+places-add-bookmark =
+    .label = Aggiungi segnalibro…
+    .accesskey = b
+places-add-folder-contextmenu =
+    .label = Aggiungi cartella…
+    .accesskey = n
+places-add-folder =
+    .label = Aggiungi cartella…
+    .accesskey = n
+places-add-separator =
+    .label = Aggiungi separatore
     .accesskey = u
 
 places-view =
@@ -90,6 +91,7 @@ places-sortby-name =
 places-properties =
     .label = Proprietà
     .accesskey = P
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Modifica segnalibro…
@@ -114,6 +116,7 @@ managed-bookmarks =
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
   .label = Sottocartella
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
   .label = Altri segnalibri

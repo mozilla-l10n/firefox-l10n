@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Apri con { -brand-short-name }
     .accesskey = c
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

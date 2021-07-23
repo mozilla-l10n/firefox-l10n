@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabs.otherComputers.label "Schede da altri computer">
+
 <!ENTITY tabs.searchText.label "Cerca una scheda…">
+
 <!ENTITY tabs.context.openTab.label "Apri questa scheda">
 <!ENTITY tabs.context.openTab.accesskey "s">
 <!ENTITY tabs.context.openMultipleTabs.label "Apri schede selezionate">

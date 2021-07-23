@@ -6,6 +6,13 @@ bookmark-overlay-name =
     .value = Nome:
     .accesskey = N
 
+bookmark-overlay-location =
+    .value = Indirizzo:
+    .accesskey = I
+
+bookmark-overlay-folder =
+    .value = Cartella:
+
 bookmark-overlay-name-2 =
     .value = Nome
     .accesskey = N
@@ -14,16 +21,9 @@ bookmark-overlay-url =
     .value = URL
     .accesskey = U
 
-bookmark-overlay-location =
-    .value = Indirizzo:
-    .accesskey = I
-
 bookmark-overlay-location-2 =
     .value = Posizione
     .accesskey = z
-
-bookmark-overlay-folder =
-    .value = Cartella:
 
 bookmark-overlay-choose =
     .label = Scegli…

@@ -84,6 +84,11 @@ experimental-features-webrtc-global-mute-toggles =
     .label = Attivazione/disattivazione audio e video WebRTC a livello globale
 experimental-features-webrtc-global-mute-toggles-description = Aggiungi controlli all’indicatore di condivisione WebRTC per consentire agli utenti di interrompere a livello globale la condivisione di microfono e fotocamera.
 
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k Lockdown
+experimental-features-win32k-lockdown-description = Disattiva l’utilizzo delle API Win32k nelle schede del browser (solo in ambiente Windows). Questo garantisce una maggiore sicurezza ma potrebbe risultare instabile.
+
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -104,7 +109,3 @@ experimental-features-ime-search =
     .label = Barra degli indirizzi: mostra risultati quando si usa la composizione IME
 experimental-features-ime-search-description = Un IME (Input Method Editor) è uno strumento che permette di inserire simboli complessi, come quelli utilizzati da lingue asiatiche o indiane, utilizzando una tastiera tradizionale. Attivando questo esperimento il pannello della barra degli indirizzi rimarrà aperto, mostrando risultati di ricerca e suggerimenti, anche quando si utilizza IME per inserire il testo. Alcuni IME utilizzano un pannello che potrebbe coprire i risultati della barra degli indirizzi, per cui si consiglia di attivare questa opzione solo per IME che non usano questo approccio.
 
-# Win32k Lockdown
-experimental-features-win32k-lockdown =
-    .label = Win32k Lockdown
-experimental-features-win32k-lockdown-description = Disattiva l’utilizzo delle API Win32k nelle schede del browser (solo in ambiente Windows). Questo garantisce una maggiore sicurezza ma potrebbe risultare instabile.

@@ -129,6 +129,8 @@ security-site-data-only = Sì, { $value } { $unit } di dati
 security-site-data-cookies-only = Sì, cookie
 security-site-data-no = No
 
+##
+
 image-size-unknown = Sconosciuto
 page-info-not-specified =
     .value = Non specificato

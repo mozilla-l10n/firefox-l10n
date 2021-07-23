@@ -4,6 +4,7 @@
 
 addons-window =
     .title = Gestione componenti aggiuntivi
+
 addons-page-title = Gestione componenti aggiuntivi
 
 search-header =
@@ -391,6 +392,7 @@ locale-enabled-heading = Attive
 locale-disabled-heading = Disattivate
 
 ask-to-activate-button = Chiedi prima di attivare
+
 always-activate-button = Attiva sempre
 never-activate-button = Non attivare mai
 
@@ -437,6 +439,9 @@ addon-detail-private-browsing-help = Se viene garantito il permesso, l’estensi
 addon-detail-private-browsing-allow = Consenti
 addon-detail-private-browsing-disallow = Non consentire
 
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = Vengono consigliate solo estensioni che soddisfano i requisiti di sicurezza e prestazioni di { -brand-product-name }
     .aria-label = { addon-badge-recommended2.title }
@@ -457,6 +462,7 @@ release-notes-loading = Caricamento in corso…
 release-notes-error = Siamo spiacenti, si è verificato un errore durante il caricamento delle note di versione.
 
 addon-permissions-empty = Questa estensione non richiede alcun permesso
+
 addon-permissions-required = Permessi obbligatori per funzionalità principali:
 addon-permissions-optional = Permessi facoltativi per funzionalità aggiuntive:
 addon-permissions-learnmore = Ulteriori informazioni sui permessi

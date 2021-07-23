@@ -4,5 +4,6 @@
 
 <!ENTITY attachImageSource.label "Allega questa immagine al messaggio">
 <!ENTITY attachImageSource.accesskey "o">
+
 <!ENTITY attachLinkSource.label "Allega origine di questo collegamento al messaggio">
 <!ENTITY attachLinkSource.accesskey "o">

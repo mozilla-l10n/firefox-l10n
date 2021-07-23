@@ -21,6 +21,7 @@
 <!ENTITY flagColumn.label "Spuntato">
 <!ENTITY locationColumn.label "Indirizzo">
 <!ENTITY idColumn.label "Ordine di ricezione">
+
 <!ENTITY columnChooser2.tooltip "Seleziona colonne da visualizzare">
 <!ENTITY threadColumn2.tooltip "Visualizza i messaggi raggruppati per argomento">
 <!ENTITY fromColumn2.tooltip "Ordina per mittente">

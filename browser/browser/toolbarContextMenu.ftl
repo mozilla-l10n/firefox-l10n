@@ -27,6 +27,7 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Riapri schede chiuse
         }
     .accesskey = a
+
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -80,6 +81,7 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Mostra solo in Nuova scheda
     .accesskey = o
+
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Mostra Altri segnalibri
     .accesskey = A

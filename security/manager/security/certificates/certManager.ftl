@@ -221,6 +221,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Eliminare queste eccezioni?
 delete-ssl-cert-impact = Eliminando un’eccezione per un server si ripristinano i controlli predefiniti di sicurezza  e per questo sito verrà richiesto un certificato valido.
 
+
 delete-ssl-override-title =
     .title = Elimina eccezione certificato server
 delete-ssl-override-confirm = Eliminare l’eccezione per questo server?

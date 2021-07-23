@@ -18,6 +18,7 @@
 <!ENTITY enablePersonalized.label "Personalizza raccomandazioni componenti aggiuntivi">
 <!ENTITY enablePersonalized.accesskey "r">
 <!ENTITY addonManagerLink.label "Gestione componenti aggiuntivi">
+
 <!ENTITY appUpdates.caption "&brandShortName;">
 <!ENTITY autoAppUpdates.label "Controlla presenza nuove versioni">
 <!ENTITY autoAppUpdates.accesskey "o">

@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Aggiungi etichette
+
 pocket-panel-saved-error-generic = Si è verificato un errore durante il salvataggio in { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = La lunghezza massima per le etichette è di 25 caratteri
 pocket-panel-saved-error-only-links = È possibile salvare solo link

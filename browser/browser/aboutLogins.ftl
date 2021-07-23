@@ -189,7 +189,9 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
      [1] Rimuovi
     *[other] Rimuovi tutte
   }
+
 about-logins-confirm-remove-all-dialog-checkbox-label = Sì, rimuovi queste credenziali
+
 about-logins-confirm-remove-all-dialog-title =
   { $count ->
      [one] Rimuovere queste credenziali?
@@ -265,14 +267,6 @@ about-logins-export-file-picker-csv-filter-title =
      *[other] File CSV
   }
 
-# A description for the .tsv file format that may be shown as the file type
-# filter by the operating system. TSV is short for 'tab separated values'.
-about-logins-import-file-picker-tsv-filter-title =
-  { PLATFORM() ->
-      [macos] Documento TSV
-     *[other] File TSV
-  }
-
 ## Login Import Dialog
 
 # Title of the file picker dialog
@@ -286,13 +280,23 @@ about-logins-import-file-picker-csv-filter-title =
      *[other] File CSV
   }
 
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+  { PLATFORM() ->
+      [macos] Documento TSV
+     *[other] File TSV
+  }
+
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importazione completata
 about-logins-import-dialog-items-added = <span>Nuove credenziali aggiunte:</span> <span data-l10n-name="count">{ $count }</span>
+
 about-logins-import-dialog-items-modified = <span>Credenziali esistenti aggiornate:</span> <span data-l10n-name="count">{ $count }</span>
+
 about-logins-import-dialog-items-no-change = <span>Credenziali duplicate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
 about-logins-import-dialog-items-error = <span>Errori:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
 about-logins-import-dialog-done = Fatto
