@@ -38,6 +38,11 @@ abuse-report-submit-button = 提交
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = 已取消举报 <span data-l10n-name="addon-name">{ $addon-name }</span>。
 abuse-report-messagebar-submitting = 正在发送 <span data-l10n-name="addon-name">{ $addon-name }</span> 的举报。
 abuse-report-messagebar-submitted = 感谢您提交举报。您想要移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 吗？

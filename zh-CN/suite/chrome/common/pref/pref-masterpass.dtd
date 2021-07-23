@@ -3,15 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pref.masterpass.title                  "主密码">
-<!ENTITY  managepassword.caption                 "主密码超时">
-<!ENTITY  managepassword.text                    "&brandShortName; 将请求验证您的主密码:">
-<!ENTITY  managepassword.askfirsttime            "第一次需要时">
-<!ENTITY  managepassword.askfirsttime.accesskey  "T">
-<!ENTITY  managepassword.askeverytime            "每次需要时">
-<!ENTITY  managepassword.askeverytime.accesskey  "E">
-<!ENTITY  managepassword.asktimeout              "如果还未被使用于">
-<!ENTITY  managepassword.asktimeout.accesskey    "n">
-<!ENTITY  managepassword.timeout.unit            "分钟或更久">
 
 <!ENTITY  changepassword.caption                 "修改主密码">
 <!ENTITY  changepassword.text                    "您的主密码用来保护敏感信息，如web密码和证书。">

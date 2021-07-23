@@ -21,8 +21,10 @@ about-private-browsing-handoff-text = 使用 { $engine } 搜索，或者输�
 about-private-browsing-handoff-text-no-engine = 搜索或输入网址
 about-private-browsing-not-private = 您当前不在隐私窗口中。
 about-private-browsing-info-description = { -brand-short-name } 会在退出本程序或关闭所有隐私浏览标签页和窗口时，清除您在隐私浏览模式中的搜索记录与浏览历史。虽然这样仍无法对网站和电信运营商匿名，但还是可以更简单地防止其他使用此计算机的人得知您的上网活动。
+
 about-private-browsing-need-more-privacy = 需要更多隐私吗？
 about-private-browsing-turn-on-vpn = 请试用 { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

@@ -14,12 +14,6 @@
 <!ENTITY relatedAfterCurrent.label "在当前标签页后面打开相关标签页">
 <!ENTITY relatedAfterCurrent.accesskey "O">
 
-<!ENTITY loadGroup.label "当打开一个书签组">
-<!ENTITY loadGroupAppend.label "添加标签">
-<!ENTITY loadGroupAppend.accesskey "A">
-<!ENTITY loadGroupReplace.label "替换已有的标签">
-<!ENTITY loadGroupReplace.accesskey "R">
-
 <!ENTITY openTabs.label "打开一个标签页而非窗口，当：">
 
 <!ENTITY middleClick.label "在网页链接上中键单击，Ctrl+单击或Ctrl+Enter">

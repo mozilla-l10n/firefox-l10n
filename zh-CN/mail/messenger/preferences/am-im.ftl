@@ -4,5 +4,6 @@
 
 account-settingsTitle = 验证设置：
 account-channelTitle = 默认频道
+
 account-settings-title = 验证设置
 account-channel-title = 默认频道
