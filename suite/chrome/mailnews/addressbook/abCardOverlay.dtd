@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label "Wyświetlaj jako:">
 <!ENTITY DisplayName.accesskey "j">
 <!ENTITY preferDisplayName.label "Używaj nazwy kontaktu z książki adresowej zamiast nazwy podanej w wiadomości">
-<!ENTITY preferDisplayName.accesskey "j">
 <!ENTITY NickName.label "Pseudonim:">
 <!ENTITY NickName.accesskey "u">
 
@@ -45,8 +44,6 @@
 <!ENTITY PlainText.label "Tekstowy">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Nieznany">
-<!ENTITY ScreenName.label "Komunikator AIM:">
-<!ENTITY ScreenName.accesskey "A">
 
 <!ENTITY WorkPhone.label "Praca:">
 <!ENTITY WorkPhone.accesskey "P">

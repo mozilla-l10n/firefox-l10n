@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "e">
 <!ENTITY downloadOnBiff.label "Automatycznie pobieraj nowe wiadomości">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Nazwa użytkownika">
 <!ENTITY deleteMessagePrefix.label "Wiadomość usunięta lokalnie:">
 <!ENTITY modelMoveToTrash.label "zostanie przeniesiona do folderu:">
 <!ENTITY modelMoveToTrash.accesskey "p">

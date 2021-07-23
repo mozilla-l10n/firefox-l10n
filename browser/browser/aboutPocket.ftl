@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Etykiety
+
 pocket-panel-saved-error-generic = Wystąpił błąd podczas wysyłania do { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Etykiety są ograniczone do 25 znaków
 pocket-panel-saved-error-only-links = Tylko odnośniki mogą być przesyłane

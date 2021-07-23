@@ -28,6 +28,7 @@ restore-page-close-button=
     .accesskey=R
 
 ## The following strings are used in about:welcomeback
+
 welcome-back-tab-title=Sukces!
 welcome-back-page-title=Sukces!
 welcome-back-page-info={ -brand-short-name } jest gotowy do używania.

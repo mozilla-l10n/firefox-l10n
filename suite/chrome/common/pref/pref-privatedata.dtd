@@ -15,6 +15,7 @@
 
 <!ENTITY clearDataSettings.label "Podczas usuwania danych prywatnych, program &brandShortName; usunie:">
 
+
 <!ENTITY clearDataDialog.label "Wyczyść teraz…">
 <!ENTITY clearDataSilent.label "Wyczyść teraz">
 <!ENTITY clearDataDialog.accesskey "W">

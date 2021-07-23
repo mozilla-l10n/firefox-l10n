@@ -16,10 +16,3 @@
 <!ENTITY loadNoImagesRadio.accesskey "a">
 <!ENTITY viewPermissions.label "Zarządzaj uprawnieniami">
 <!ENTITY viewPermissions.accesskey "Z">
-<!ENTITY animLoopingTitle.label "Animowane obrazy powinny być odtworzone">
-<!ENTITY animLoopAsSpecified.label "Tyle razy, ile jest to określone we właściwościach obrazu">
-<!ENTITY animLoopAsSpecified.accesskey "T">
-<!ENTITY animLoopOnce.label "Raz">
-<!ENTITY animLoopOnce.accesskey "R">
-<!ENTITY animLoopNever.label "Nigdy">
-<!ENTITY animLoopNever.accesskey "N">

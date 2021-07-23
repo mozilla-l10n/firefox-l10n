@@ -18,10 +18,6 @@
 <!ENTITY allowContextmenuDisable.label "Wyłączanie lub zmienianie menu kontekstowego">
 <!ENTITY allowHideStatusBar.label "Ukrywanie paska stanu">
 
-<!ENTITY enableDrmMedia.label "Aktywuj odtwarzanie treści chronionych przez DRM dla">
-<!ENTITY enableEmeForSuite.label "Zewnętrzne moduły odtwarzania treści chronionych">
-<!ENTITY enableEmeForSuite.accesskey "Z">
-
 <!ENTITY enablePlugins.label "Aktywuj wtyczki dla">
 <!ENTITY enablePluginForSuite.label "Pakiet SeaMonkey">
 <!ENTITY enablePluginForSuite.accesskey "S">

@@ -13,5 +13,6 @@
 <!ENTITY tabHTML.label "Atrybuty HTML">
 <!ENTITY tabCSS.label "Wbudowane style">
 <!ENTITY tabJSE.label "Zdarzenia JavaScript">
+
 <!ENTITY editAttribute.label "Wybierz atrybut z listy powyżej, aby edytować jego wartość">
 <!ENTITY removeAttribute.label "Usuń">

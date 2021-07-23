@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Odświeżanie programu { -brand-short-name }
+
 refresh-profile-dialog-title = Odświeżyć program { -brand-short-name } do ustawień domyślnych?
 refresh-profile-dialog-button =
     .label = Odśwież program { -brand-short-name }

@@ -22,9 +22,6 @@
 <!ENTITY maxusers.label "Maksymalna liczba użytkowników:">
 <!ENTITY maxusers.accesskey "M">
 
-<!ENTITY refresh.label "Odśwież teraz">
-<!ENTITY refresh.accesskey "">
-
 <!ENTITY network.hint.label "Wprowadź nazwę sieci lub serwera (można dołączyć numer portu) i kanał, do którego chcesz się przyłączyć.">
 
 <!ENTITY col.network "Sieć">

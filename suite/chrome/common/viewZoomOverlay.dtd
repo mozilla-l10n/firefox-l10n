@@ -8,6 +8,8 @@
 <!ENTITY zoomEnlargeCmd.commandkey "+">
 <!ENTITY zoomEnlargeCmd.commandkey2 "=">
 
+<!-- + is above this key on many keyboards -->
+
 <!ENTITY zoomReduceCmd.label "Mniejszy">
 <!ENTITY zoomReduceCmd.accesskey "M">
 <!ENTITY zoomReduceCmd.commandkey "-">

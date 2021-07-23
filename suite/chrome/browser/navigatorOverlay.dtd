@@ -19,9 +19,6 @@
 <!ENTITY uploadFile.label "Wyślij plik…">
 <!ENTITY uploadFile.accesskey "p">
 
-<!ENTITY printSetupCmd.label "Ustawienia strony…">
-<!ENTITY printSetupCmd.accesskey "U">
-
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Znajdź na tej stronie…">
 
@@ -144,3 +141,4 @@
 
 <!ENTITY clearPrivateDataCmd.label "Wyczyść prywatne dane…">
 <!ENTITY clearPrivateDataCmd.accesskey "W">
+

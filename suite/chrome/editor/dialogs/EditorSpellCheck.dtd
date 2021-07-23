@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Sprawdź pisownię">
+
 <!ENTITY misspelledWord.label "Błędne słowo:">
 <!ENTITY wordEditField.label "Zamień na:">
 <!ENTITY wordEditField.accessKey "m">
