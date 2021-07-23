@@ -5,65 +5,85 @@
 permissions-window =
     .title = Excepcions
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adreça del site web
     .accesskey = d
+
 permissions-block =
     .label = Blocar
     .accesskey = B
+
 permissions-session =
     .label = Autorizar pendent la session
     .accesskey = s
+
 permissions-allow =
     .label = Autorizar
     .accesskey = A
+
 permissions-button-off =
     .label = Activar
     .accesskey = A
+
 permissions-button-off-temporarily =
     .label = Desactivar temporàriament
     .accesskey = D
+
 permissions-site-name =
     .label = Site web
+
 permissions-status =
     .label = Estat
+
 permissions-remove =
     .label = Suprimir lo site web
     .accesskey = S
+
 permissions-remove-all =
     .label = Suprimir totes los sites web
     .accesskey = e
+
 permissions-button-cancel =
     .label = Anullar
     .accesskey = A
+
 permissions-button-ok =
     .label = Enregistrar las modificacions
     .accesskey = E
+
 permission-dialog =
     .buttonlabelaccept = Enregistrar las modificacions
     .buttonaccesskeyaccept = E
+
 permissions-autoplay-menu = Per defaut per tose los sites web :
+
 permissions-searchbox =
     .placeholder = Recercar un site web
+
 permissions-capabilities-autoplay-allow =
     .label = Autorizar l’àudio e la vidèo
 permissions-capabilities-autoplay-block =
     .label = Blocar l’àudio
 permissions-capabilities-autoplay-blockall =
     .label = Blocar l’àudio e la vidèo
+
 permissions-capabilities-allow =
     .label = Autorizar
 permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Totjorn demandar
+
 permissions-capabilities-listitem-allow =
     .value = Autorizar
 permissions-capabilities-listitem-block =
     .value = Blocar
 permissions-capabilities-listitem-allow-session =
     .value = Autorizar pendent la session
+
 permissions-capabilities-listitem-off =
     .value = Desactivat
 permissions-capabilities-listitem-off-temporarily =
