@@ -5,53 +5,70 @@
 permissions-window =
     .title = ব্যতিক্রম
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ওয়েবসাইটের ঠিকানা
     .accesskey = d
+
 permissions-block =
     .label = প্রতিরোধ করা হবে
     .accesskey = B
+
 permissions-session =
     .label = সেশনের জন্য অনুমোদন করা হবে
     .accesskey = S
+
 permissions-allow =
     .label = অনুমোদন
     .accesskey = A
+
 permissions-site-name =
     .label = ওয়েবসাইট
+
 permissions-status =
     .label = অবস্থা
+
 permissions-remove =
     .label = ওয়েবসাইট অপসারণ
     .accesskey = R
+
 permissions-remove-all =
     .label = সব ওয়েবসাইট অপসারণ কর
     .accesskey = e
+
 permissions-button-cancel =
     .label = বাতিল
     .accesskey = C
+
 permissions-button-ok =
     .label = পরিবর্তন সংরক্ষণ
     .accesskey = S
+
 permission-dialog =
     .buttonlabelaccept = পরিবর্তন সংরক্ষণ
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = সব ওয়েবসাইটের জন্য ডিফল্ট:
+
 permissions-searchbox =
     .placeholder = ওয়েবসাইট খুঁজুন
+
 permissions-capabilities-autoplay-allow =
     .label = অডিও ও ভিডিও অনুমোদন দিন
 permissions-capabilities-autoplay-block =
     .label = অডিও ব্লক
 permissions-capabilities-autoplay-blockall =
     .label = অডিও ও ভিডিও ব্লক
+
 permissions-capabilities-allow =
     .label = অনুমোদন করা হবে
 permissions-capabilities-block =
     .label = প্রতিরোধ করা হবে
 permissions-capabilities-prompt =
     .label = সর্বদা জিজ্ঞাসা কর
+
 permissions-capabilities-listitem-allow =
     .value = অনুমোদন করা হবে
 permissions-capabilities-listitem-block =
@@ -77,6 +94,8 @@ permissions-exceptions-cookie-window =
     .title = ব্যতিক্রম - কুকিজ এবং সাইট ডাটা
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = কোন ওয়েবসাইট সবসময় সাইট ডেটা এবং কুকিজ ব্যবহার করবে অথবা কোনটি কখনই করবে না তা আপনি নির্দিষ্ট করতে পারেন। ওয়েব সাইটের সঠিক ঠিকানা টাইপ করুন এবং তারপরে ব্লক করুন, সেশনের জন্য অনুমতি দিন, বা অনুমতি দিন।
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

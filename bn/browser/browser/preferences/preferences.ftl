@@ -589,6 +589,7 @@ home-prefs-topsites-description = যে সাইটগুলিতে আপ�
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } দ্বারা সুপারিশকৃত
+
 ##
 
 home-prefs-recommended-by-learn-more = কিভাবে এটা কাজ করে
@@ -614,6 +615,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = টুকিটাকি
 home-prefs-snippets-description = { -vendor-short-name } and { -brand-product-name } থেকে হালনাগাদ
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -696,6 +698,7 @@ containers-back-button =
             [windows] অপশনে ফিরে যান
            *[other] পছন্দগুলিতে ফিরে যান
         }
+
 containers-header = কন্টেইনার ট্যাব
 containers-add-button =
     .label = নতুন কন্টেইনার যোগ
@@ -703,6 +706,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = পছন্দসমূহ
+
 containers-remove-button =
     .label = অপসারণ
 

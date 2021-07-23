@@ -5,6 +5,7 @@
 screenshots-context-menu = একটি স্ক্রিনশট নিন
 
 screenshots-my-shots-button = আমার সট
+
 screenshots-instructions = ড্রাগ করে অথবা পাতায় ক্লিক করে একটি অংশ নির্বাচন করুন। বাতিল করতে ESC চাপুন।
 screenshots-cancel-button = বাতিল
 screenshots-save-visible-button = যতটুকু দেখা যাচ্ছে সংরক্ষণ করুন

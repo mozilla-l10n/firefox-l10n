@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+##
+## Localization for remote types defined in RemoteType.h
+##
+
 process-type-web = ওয়েব কন্টেন্ট
 
 # process used to run privileged about pages,
@@ -25,7 +29,15 @@ process-type-weblargeallocation = বিশাল বরাদ্দ
 # to improve security
 process-type-webisolated = বিচ্ছিন্ন ওয়েব কন্টেন্ট
 
+##
+## Localization for Gecko process types defined in GeckoProcessTypes.h
+##
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
+##
+## Other
+##
 

@@ -389,6 +389,7 @@ locale-enabled-heading = সক্রিয়
 locale-disabled-heading = নিষ্ক্রিয়
 
 ask-to-activate-button = সক্রিয় করতে জিজ্ঞাসা করুন
+
 always-activate-button = সর্বদা সক্রিয়
 never-activate-button = কখনোই সক্রিয় নয়
 
@@ -441,11 +442,16 @@ addon-detail-private-browsing-help = অনুমতি পেলে, প্র�
 addon-detail-private-browsing-allow = অনুমতি দাও
 addon-detail-private-browsing-disallow = অনুমতি দিও না
 
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended2 =
     .title = { -brand-product-name } কেবলমাত্র সেই সব এক্সটেনশনকে সুপারিশ করা হয় যা সুরক্ষা এবং কার্যক্ষমতার দিক দিয়ে আমাদের মানদণ্ড পূরণ করে
     .aria-label = { addon-badge-recommended2.title }
+
+##
 
 available-updates-heading = বিদ্যমান হালনাগাদ
 recent-updates-heading = সাম্প্রতিক হালনাগাদ

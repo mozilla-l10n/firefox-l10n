@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ঠিকাছে, বুঝতে পেরেছি
     .buttonaccesskey = O
 appmenu-addon-post-install-message = আপনার অ্যাড-অন পরিচালনা করতে <image data-l10n-name='addon-install-icon'></image> মেনুতে <image data-l10n-name='addon-menu-icon'></image> ক্লিক করুন।
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = এই এক্সটেনশনটিকে ব্যক্তিগত উইন্ডো তে চালানোর অনুমতি দিন
     .accesskey = A
@@ -52,6 +53,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = এক্সটেনশনটি নিষ্ক্রিয় করুন
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = আপনার লুকানো ট্যাবে প্রবেশ করুন
     .buttonlabel = ট্যাবগুলো লুকানো রাখুন
