@@ -12,14 +12,13 @@ about-httpsonly-insecure-explanation-exception = Չնայած անվտանգու
 
 about-httpsonly-button-make-exception = Ընդունել վտանգը և շարունակել կայքում
 
-about-httpsonly-title = { -brand-short-name }-ը հայտնաբերել է անվտանգության հավանական խնդիր
-
-# Variables:
-#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-explanation-unavailable = Դուք զննարկում եք միայն HTTPS-ով կերպում և <em>{ $websiteUrl }</em>-ի անվտանգ HTTPS տարբերակը մատչելի չէ:
 about-httpsonly-explanation-question = Ինչի՞ վրա կարող է սա ազդել:
 about-httpsonly-explanation-nosupport = Ամենայն հավանականությամբ կայքը պարզապես չի աջակցում HTTPS:
 about-httpsonly-explanation-risk = Հնարավոր է նաև, որ հարձակվող է գործում: Եթե որոշեք այցելել կայքը, ապա չպետք է մուտքագրեք որևէ զգայուն տեղեկություն, ինչպես օրինակ՝ գաղտնաբառեր, էլ. փոստեր կամ բանկային քարտերի տվյալներ:
 
-about-httpsonly-button-accept-and-continue = Ընդունել ռիսկը և շարունակել
 about-httpsonly-button-go-back = Վերադառնալ
+
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
+

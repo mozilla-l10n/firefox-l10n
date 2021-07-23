@@ -103,9 +103,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Փոստ և Լուրախմբեր">
 <!ENTITY messengerCmd.accesskey                         "Փ">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Հասցեագիրք">
-<!ENTITY addressBookCmd.accesskey                       "a">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Հասցեների որոնում...">
 <!ENTITY searchAddressesCmd.accesskey                   "Հ">
 <!ENTITY importCmd.label                                "Ներմուծել…">

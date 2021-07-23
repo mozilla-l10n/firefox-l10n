@@ -17,8 +17,6 @@ about-processes-shutdown-tab =
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
-about-processes-extension-process-name = Ընդլայնումներ (ընթացք { $pid })
-
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.

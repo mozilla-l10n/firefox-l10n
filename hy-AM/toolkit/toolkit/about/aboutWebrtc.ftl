@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ներքին
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = պահել about:webrtc-ը որպես
@@ -57,13 +58,7 @@ about-webrtc-ice-pair-bytes-sent = Բայթ է ուղարկվել:
 about-webrtc-ice-pair-bytes-received = Բայթ է ստացվել:
 about-webrtc-ice-component-id = Բաղադրիչի ID
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -75,13 +70,16 @@ about-webrtc-type-remote = Հեռակա
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Նշանակված
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Նշված
+
 about-webrtc-save-page-label = Պահպանել էջը
 about-webrtc-debug-mode-msg-label = Վրիպազերծման կերպ
 about-webrtc-debug-mode-off-state-label = Վրիպազերծման կերպ
@@ -106,6 +104,7 @@ about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (փակված) { $now }
 
 ##
+
 
 about-webrtc-local-candidate = Տեղային թեկնածու
 about-webrtc-remote-candidate = Հեռակա թեկնածու
@@ -141,7 +140,6 @@ about-webrtc-remote-send-ssrc = Հեռակա ուղարկվող SSRC
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -154,11 +152,14 @@ about-webrtc-aec-logging-off-state-msg = մատյանի կորզված ֆայլ�
 
 ##
 
+##
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -171,10 +172,14 @@ about-webrtc-trickle-caption-msg = Հնարավոր թեկնածուները (գ
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Կայել Տեղային SDP-ը { NUMBER($timestamp, useGrouping: "false") } ժամադրոշմում
+
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Կայել Հեռակա SDP-ը { NUMBER($timestamp, useGrouping: "false") } ժամադրոշմում
 
 ##
+
+##
+
 

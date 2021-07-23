@@ -111,6 +111,8 @@ certificate-viewer-critical-extension =
 certificate-viewer-export = Արտահանել
     .download = { $fileName }.pem
 
+##
+
 ## Labels for tabs displayed in stand-alone about:certificate page
 
 certificate-viewer-tab-mine = Ձեր վկայագրերը

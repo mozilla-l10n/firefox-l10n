@@ -103,6 +103,7 @@ print-window =
     .title = Տպել
 print-complete =
     .value = Տպված է:
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

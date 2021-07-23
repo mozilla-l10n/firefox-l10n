@@ -6,13 +6,18 @@ fxa-toolbar-sync-syncing =
     .label = Համաժամեցում…
 fxa-toolbar-sync-syncing-tabs =
     .label = Ներդիրների համաժամեցում…
-fxa-toolbar-sync-syncing2 = Համաժամեցում…
+
 sync-disconnect-dialog-title = Կապախզե՞լ{ -sync-brand-short-name }֊ը։
+
+fxa-toolbar-sync-syncing2 = Համաժամեցում…
+
 sync-disconnect-dialog-body = { -brand-product-name } կդադարի համաժամեցնել ձեր հաշիվը, բայց չի ջնջի այս սարքի ձեր զննարկման ցանկացած տվյալ։
 fxa-disconnect-dialog-title = Անջատե՞լ { -brand-product-name }-ը։
 fxa-disconnect-dialog-body = { -brand-product-name } անջատվելու է ձեր հաշվից, բայց չի ջնջվի այս սարքի ձեր զննարկման որևէ տվյալ։
 sync-disconnect-dialog-button = Կապախզել
+
 fxa-menu-connect-another-device =
     .label = Կապակցել այլ սարք...
+
 fxa-menu-sign-out =
     .label = Դուրս գալ…

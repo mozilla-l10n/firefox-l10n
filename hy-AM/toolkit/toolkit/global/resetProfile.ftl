@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Թարմացնել { -brand-short-name }-ը
+
 refresh-profile-dialog-button =
     .label = Թարմացնել { -brand-short-name }-ը
 refresh-profile-description = Թարմ պահեք՝ սխալները ուղղելու և արտադրողականության համար:
