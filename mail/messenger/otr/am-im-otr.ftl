@@ -17,12 +17,16 @@ otr-log =
     .label = Incluir mensagens OTR criptografadas nos registros de conversas
 otr-requireEncryption =
     .label = Exigir criptografia de ponta a ponta em conversas individuais
+otr-verifyNudge =
+    .label = Sempre me lembrar de verificar um contato não verificado
+
+otr-notYetAvailable = ainda não disponível
+
 otr-require-encryption =
     .label = Exigir criptografia de ponta a ponta em conversas individuais
 otr-require-encryption-info = Ao exigir criptografia de ponta a ponta, mensagens em conversas individuais não são enviadas, a menos que possam ser criptografadas. Mensagens não criptografadas recebidas não são mostradas como parte da conversa normal e também não são registradas em log.
-otr-verifyNudge =
-    .label = Sempre me lembrar de verificar um contato não verificado
-otr-notYetAvailable = ainda não disponível
 otr-verify-nudge =
     .label = Sempre me lembrar de verificar um contato não verificado
+
 otr-not-yet-available = não disponível ainda
+

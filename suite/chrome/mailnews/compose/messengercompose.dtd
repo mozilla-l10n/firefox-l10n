@@ -51,6 +51,7 @@
 <!ENTITY editRewrapCmd.label "Reformatar quebras de linha">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "b">
+
 <!ENTITY accountManagerCmd.label "Configurações de contas...">
 <!ENTITY accountManagerCmd.accesskey "t">
 

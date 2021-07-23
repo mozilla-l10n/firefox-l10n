@@ -7,6 +7,7 @@
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Desbloquear popups deste site">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
+
 <!ENTITY openLinkCmdInTab.label       "Abrir em nova aba">
 <!ENTITY openLinkCmdInTab.accesskey   "n">
 <!ENTITY openLinkCmd.label            "Abrir em nova janela">

@@ -25,9 +25,6 @@ left instead of right. -->
 <!ENTITY uploadFile.label "Enviar arquivo">
 <!ENTITY uploadFile.accesskey "E">
 
-<!ENTITY printSetupCmd.label "Configurar página…">
-<!ENTITY printSetupCmd.accesskey "u">
-
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Procurar nesta página…">
 

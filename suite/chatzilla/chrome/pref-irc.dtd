@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref-irc.window.title "ChatZilla">
+
 <!ENTITY pref-irc.open.title "Preferências do ChatZilla">
 <!ENTITY pref-irc.open.desc "Clique no botão abaixo para configurar o ChatZilla.">
 <!ENTITY pref-irc.open.label "Abrir as Preferências do ChatZilla">

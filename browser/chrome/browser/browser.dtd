@@ -52,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Configurações do &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar outro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Entrar no &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Ativar o &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Serviços &brandProductName;">
@@ -140,6 +141,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Histórico">
+
 <!ENTITY historyUndoMenu.label "Abas fechadas recentemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Janelas fechadas recentemente">
@@ -151,9 +153,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Exibir painel do histórico">
 <!ENTITY appMenuHistory.hideSidebar.label "Ocultar painel do histórico">
 <!ENTITY appMenuHistory.recentHistory.label "Histórico recente">
+
 <!ENTITY appMenuHelp.label "Ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Abas sincronizadas">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nenhuma aba aberta">

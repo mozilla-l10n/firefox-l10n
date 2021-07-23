@@ -5,12 +5,12 @@
 places-open =
     .label = Abrir
     .accesskey = r
-places-open-in-tab =
-    .label = Abrir em nova aba
-    .accesskey = v
 places-open-tab =
     .label = Abrir em nova aba
     .accesskey = b
+places-open-in-tab =
+    .label = Abrir em nova aba
+    .accesskey = v
 places-open-all-bookmarks =
     .label = Abrir todos os favoritos
     .accesskey = A
@@ -20,15 +20,10 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Abrir em nova janela
     .accesskey = A
-places-open-in-window =
-    .label = Abrir em nova janela
-    .accesskey = n
 places-open-private-window =
     .label = Abrir em nova janela privativa
     .accesskey = p
-places-open-in-private-window =
-    .label = Abrir em nova janela privativa
-    .accesskey = p
+
 places-new-bookmark =
     .label = Novo favorito…
     .accesskey = N
@@ -41,6 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = Novo separador
     .accesskey = e
+
+places-open-in-window =
+    .label = Abrir em nova janela
+    .accesskey = n
+places-open-in-private-window =
+    .label = Abrir em nova janela privativa
+    .accesskey = p
+
 places-add-bookmark =
     .label = Adicionar favorito…
     .accesskey = f
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = Adicionar separador
     .accesskey = s
+
 places-view =
     .label = Exibir
     .accesskey = b
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Por data e site
     .accesskey = e
+
 places-history-search =
     .placeholder = Pesquisar no histórico
 places-bookmarks-search =
     .placeholder = Procurar favoritos
+
 places-delete-domain-data =
     .label = Esquecer este site
     .accesskey = E
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = Propriedades
     .accesskey = P
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Editar favorito…
@@ -101,15 +108,18 @@ places-remove-folder =
            *[other] Remover pastas
         }
     .accesskey = m
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Favoritos controlados
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subpasta
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Outros favoritos
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -119,6 +129,7 @@ places-remove-bookmark =
            *[other] Remover favoritos
         }
     .accesskey = e
+
 places-manage-bookmarks =
     .label = Gerenciar favoritos
     .accesskey = G

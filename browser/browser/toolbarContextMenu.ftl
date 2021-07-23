@@ -28,6 +28,7 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Reabrir abas
         }
     .accesskey = b
+
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -35,18 +36,21 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Reabrir abas fechadas
         }
     .accesskey = h
+
 toolbar-context-menu-manage-extension =
     .label = Gerenciar extensão
     .accesskey = e
 toolbar-context-menu-remove-extension =
     .label = Remover extensão
     .accesskey = v
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Denunciar extensão
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -68,6 +72,7 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Personalizar barra de ferramentas…
     .accesskey = P
+
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Sempre aparecer
     .accesskey = S
@@ -77,6 +82,7 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Aparecer somente em novas abas
     .accesskey = b
+
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Mostrar outros favoritos
     .accesskey = M
