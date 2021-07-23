@@ -39,6 +39,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Disable Extension
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = Access Your Hidden Tabs
     .buttonlabel = Keep Tabs Hidden

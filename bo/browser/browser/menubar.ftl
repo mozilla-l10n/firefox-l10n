@@ -34,16 +34,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }་སྒོ་རྒྱག
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name }་ནས་ཕྱིར་ཐོན
+
 menu-about =
     .label = { -brand-shorter-name }་ཡི་སྐོར
     .accesskey = A
@@ -300,8 +304,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = སྐྱོན་སེལ་བྱེད་ཀྱི་ཆ་འཕྲིན
     .accesskey = T
-menu-help-taskmanager =
-    .label = ལས་འགན་དོ་དམ་པ
 menu-help-feedback-page =
     .label = Submit Feedback…
     .accesskey = S

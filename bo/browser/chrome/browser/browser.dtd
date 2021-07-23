@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "གདམ་ཐོ་ཁ་ཕྱེ">
+
 <!ENTITY navbarOverflow.label                "ལག་ཆ་གཞན…">
 
 <!-- Tab context menu -->
@@ -112,18 +113,22 @@ in "Search through tabs". -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "ཟིན་ཐོ">
+
 <!ENTITY historyUndoMenu.label "ཉེ་ཆར་ཁ་བརྒྱབ་པའི་ཡན་ལག་ངོས">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "ཉེ་ཆར་ཁ་བརྒྱབ་པའི་འཆར་སྒྲོམ">
 
 <!ENTITY appMenuHistory.showAll.label "ཟིན་ཐོ་ཡོངས་སྟོན་པ">
+
 <!ENTITY appMenuHistory.clearRecent.label "ཉེ་ཆར་ཀྱི་ཟིན་ཐོ་མེད་པ་བཟོ…">
 <!ENTITY appMenuHistory.restoreSession.label "སྔོན་མའི་དུས་ཡུན་བསྐྱར་གསོ">
 <!ENTITY appMenuHistory.viewSidebar.label "ཟུར་ངོས་ཀྱི་ཟིན་ཐོར་ལྟ་བ">
 <!ENTITY appMenuHistory.recentHistory.label "ཉེ་ཆར་གྱི་ཟིན་ཐོ">
+
 <!ENTITY appMenuHelp.label "རོགས་རམ">
 
 <!ENTITY appMenuRemoteTabs.label "སྙོམ་སྒྲིག་བྱས་པའི་ཡན་ལག་ངོས">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "ཁ་ཕྱེས་ཡོད་པའི་ཡན་ལག་ངོས་མེད">

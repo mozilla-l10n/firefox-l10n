@@ -54,8 +54,6 @@ move-to-new-window =
     .label = འཆར་སྒྲོམ་གསར་པའི་ནང་སྤོར་བ
     .accesskey = W
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = ཡན་ལག་ངོས་ཁ་རྒྱག
     .accesskey = c
@@ -68,3 +66,7 @@ move-tabs =
 move-tab =
     .label = ཡན་ལག་ངོས་སྤོར་བ
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

@@ -9,7 +9,9 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = སྒྲིག་འཇུག་ནོར་འཁྲུལ
+
 opensearch-error-format-title = གྲུལ་ཚུལ་མི་དག་པ
+
 opensearch-error-download-title = མར་འཇུག་ནོར་འཁྲུལ
 
 ##

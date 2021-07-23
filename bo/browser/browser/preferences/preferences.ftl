@@ -541,6 +541,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = Preferences
+
 containers-remove-button =
     .label = Remove
 

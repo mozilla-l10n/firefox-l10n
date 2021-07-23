@@ -24,6 +24,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sync Now
+
 appmenuitem-save-page =
     .label = དྲ་ངོས་ཉར་སྟངས…
 
@@ -43,24 +44,12 @@ appmenuitem-save-page =
 appmenu-about =
     .label = { -brand-shorter-name }་ཡི་སྐོར
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = སྐྱོན་སེལ་བྱེད་ཀྱི་ཆ་འཕྲིན
-    .accesskey = T
-appmenu-help-taskmanager =
-    .label = ལས་འགན་དོ་དམ་པ
 appmenu-help-feedback-page =
     .label = Submit Feedback…
     .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = ཟུར་སྣོན་ནུས་མེད་བཟོས་ནས་འགོ་བསྐྱར་འཛུགས…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = ཟུར་སྣོན་ནུས་ཡོད་བཟོས་ནས་འགོ་བསྐྱར་འཛུགས
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -74,3 +63,4 @@ appmenu-help-safe-mode-with-addons =
 
 appmenu-taskmanager =
     .label = ལས་འགན་དོ་དམ་པ
+
