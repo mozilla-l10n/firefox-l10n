@@ -323,6 +323,7 @@ confirm-browser-language-change-button = Potvrdit a restartovat
 translate-web-pages =
     .label = Překládat webové stránky
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Překlady od <img data-l10n-name="logo"/>
@@ -1292,6 +1293,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Výjimky…
     .accesskey = k
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Výjimky…
+    .accesskey = k
+    .searchkeywords = popup
 permissions-addon-install-warning =
     .label = Vždy upozornit při pokusu o instalaci doplňku
     .accesskey = u
