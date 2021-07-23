@@ -8,6 +8,7 @@
 
 
 <!ENTITY appmenu.tooltip                     "मेनू उगडात">
+
 <!ENTITY navbarOverflow.label                "अदिक साधनां...">
 
 <!-- Tab context menu -->
@@ -147,11 +148,13 @@ can reach it easily. -->
 
 
 <!ENTITY historyMenu.label "इतिहास">
+
 <!ENTITY historyUndoMenu.label "सद्या बन्द जाल्ले टॅब">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "हालींच धांपिल्ले विंडोस">
 
 <!ENTITY appMenuHistory.showAll.label "सगळो इतिहास दाखोवचो">
+
 <!ENTITY appMenuHistory.clearRecent.label "सद्याचो इतिहास साफ करात...">
 <!ENTITY appMenuHistory.restoreSession.label "पयलींचें सत्र पूर्वस्थितीर हाडचें">
 <!ENTITY appMenuHistory.viewSidebar.label "View History Sidebar">

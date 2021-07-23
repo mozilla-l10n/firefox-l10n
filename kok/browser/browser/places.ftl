@@ -56,3 +56,4 @@ places-sortby-name =
 places-properties =
     .label = वैशिश्ट्यां
     .accesskey = i
+

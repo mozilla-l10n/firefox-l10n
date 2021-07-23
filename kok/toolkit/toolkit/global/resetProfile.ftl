@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } परत चालू करात
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name } परत चालू करात
 refresh-profile-description = समस्या सारक्यो करपाक आणि कार्यक्षमताय परतून हाडपाक परत सुरवात करात

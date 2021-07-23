@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (खासगी ब्रावजींग)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (खासगी ब्रावजींग)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (खासगी ब्रावजींग)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (खासगी ब्रावजींग)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -65,6 +67,7 @@ browser-main-window-title = { -brand-full-name }
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = हे बूकमार्क ({ $shortcut }) संपादित करात
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -74,23 +77,6 @@ urlbar-star-add-bookmark =
 
 
 ## Page Action menu
-
-page-action-email-link-panel =
-    .label = ईमेल जोडणी...
-page-action-email-link-urlbar =
-    .tooltiptext = ईमेल जोडणी...
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = पीन टॅब
-page-action-pin-tab-urlbar =
-    .tooltiptext = पीन टॅब
-page-action-unpin-tab-panel =
-    .label = टॅबाची पीन काडची
-page-action-unpin-tab-urlbar =
-    .tooltiptext = टॅबाची पीन काडची
 
 ## Auto-hide Context Menu
 
@@ -151,6 +137,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = वाटून घेवपाक मायक्रोफोन:
     .accesskey = M
+
 popup-all-windows-shared = तुमच्या पड्ड्यावयले सगळे दिसपी विंडोज वाटून घेतले वतले.
 
 ## WebRTC window or screen share tab switch warning
@@ -163,10 +150,13 @@ popup-all-windows-shared = तुमच्या पड्ड्यावयल�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = सोदात वो नामो दियात
+
 urlbar-placeholder =
     .placeholder = सोदात वो नामो दियात
+
 urlbar-switch-to-tab =
     .value = टॅबाचेर स्विच करचें:
+
 urlbar-go-button =
     .tooltiptext = थळ पट्टेन नाम्यान वचात
 
@@ -187,14 +177,13 @@ urlbar-go-button =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = सगळे बूकमार्क दाखोवचे
 bookmarks-toolbar-chevron =
     .tooltiptext = अदीक बूकमार्क दाखोवचे
 bookmarks-sidebar-content =
     .aria-label = बुकमार्क
 bookmarks-bookmark-edit-panel =
     .label = हो बूकमार्क संपादीत करचो
+
 bookmarks-toolbar-menu =
     .label = पुस्तकखूण साधनपट्टी
 bookmarks-toolbar-placeholder =
@@ -207,6 +196,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
+
+## Customize Toolbar Buttons
 
 ## More items
 

@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = सेफ मोडान सुरू करात
+
 refresh-profile =
     .label = { -brand-short-name } रिफ्रेश करात
 safe-mode-description = सुरक्षित स्थिती ही { -brand-short-name } ची खाशेली स्थिती जी प्रस्न सोडोवपाक वापरू येता.

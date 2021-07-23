@@ -24,13 +24,7 @@
 ## is an IETF protocol, and should not normally be translated.
 
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -69,9 +63,15 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (बं�
 ##
 
 
+##
+
+
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 
 ##
+
+##
+
 

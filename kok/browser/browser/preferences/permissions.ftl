@@ -47,6 +47,8 @@ permissions-invalid-uri-label = उपकार करून मान्य य
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = खंयच्या वेबसायटींक पॉप-विंडोज उगडपाक मेळटा ते तुमी स्पश्ट करपाक शकता. तुमका परवानगी दिवपाक जाय त्या सायटीचो सारको नामो दियात आनी मागीर परवानगी दियात चेर क्लीक करात.
