@@ -115,6 +115,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+##
+
 image-size-unknown = अज्ञात
 page-info-not-specified =
     .value = निर्दिष्ट नगरिएको

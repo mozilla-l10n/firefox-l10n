@@ -40,6 +40,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fieldMapImport.title "ठेगाना पुस्तिका आयात गर्नुहोस्">
+
 <!ENTITY fieldMapImport.size "चौडाइ: 40em; उचाइ: 30em;">
 <!ENTITY fieldMapImport.recordNumber "रेकर्डका लागि आयात गरिएका डेटा:">
 <!ENTITY fieldMapImport.next.accesskey "N">

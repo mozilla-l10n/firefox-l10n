@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ट्याग थप्नुहोस्
+
 pocket-panel-saved-error-generic = { -pocket-brand-name } मा सङ्ग्रह गर्न प्रयास गर्दा, एउटा त्रुटी भयो।
 pocket-panel-saved-error-tag-length = ट्याग २५ अक्षर सम्म सिमित हुन्छन
 pocket-panel-saved-error-only-links = लिङ्कहरू मात्र सङ्ग्रह गर्न सकिन्छ

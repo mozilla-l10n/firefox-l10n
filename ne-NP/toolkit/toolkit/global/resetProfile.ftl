@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } ताजा पार्नुहोस्
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name } ताजा पार्नुहोस
 refresh-profile-description = समस्या समाधान गर्न र प्रदर्शन पुनर्स्थापना गर्न नयाँ शुरुआत गर्नुहोस्।

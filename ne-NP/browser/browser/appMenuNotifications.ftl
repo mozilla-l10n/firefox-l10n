@@ -32,3 +32,4 @@ appmenu-new-tab-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = एक्सटेन्सन अक्षम गर्नुहोस्
     .secondarybuttonaccesskey = D
+

@@ -299,3 +299,8 @@ touch-warning = असमर्थित प्राथमिकता: { $pref
 policies-inactive = निष्क्रिय
 policies-active = सक्रिय
 policies-error = त्रुटि
+
+## Printing section
+
+## Normandy sections
+

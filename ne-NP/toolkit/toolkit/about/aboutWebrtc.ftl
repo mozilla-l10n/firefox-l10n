@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC आन्तरिक
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = कोरूपमा about:webrtc सुरक्षित गर्नुहोस्
@@ -56,13 +57,7 @@ about-webrtc-ice-pair-bytes-sent = Bytes पठाइयो:
 about-webrtc-ice-pair-bytes-received = Bytes प्राप्त भयो:
 about-webrtc-ice-component-id = अवयव ID
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -74,13 +69,16 @@ about-webrtc-type-remote = Remote
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = मनोनयन गरिएको
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = चयन गरिएको
+
 about-webrtc-save-page-label = पृष्ठ सङ्ग्रह गर्नुहोस्
 about-webrtc-debug-mode-msg-label = डिबग मोड
 about-webrtc-debug-mode-off-state-label = डिबग्गिङ मोड सुरु गर्नुहोस्
@@ -106,6 +104,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (बन�
 
 ##
 
+
 about-webrtc-local-candidate = स्थानीय उम्मेदवार
 about-webrtc-remote-candidate = Remote Candidate
 about-webrtc-priority = प्राथमिकता
@@ -121,7 +120,6 @@ about-webrtc-encoder-label = इन्कोडर
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -131,6 +129,8 @@ about-webrtc-save-page-msg = { $path } मा पाना सङ्ग्रह
 about-webrtc-debug-mode-off-state-msg = ट्रेस लग यहाँ पाउन सकिन्छ: { $path }
 about-webrtc-debug-mode-on-state-msg = डिबग ढङ्ग सक्रिय, ट्रेस लग यहाँ छ: { $path }
 about-webrtc-aec-logging-off-state-msg = कैद गरिएका लग फाइलहरू यहाँ पाउन सकिन्छ: { $path }
+
+##
 
 ##
 
@@ -145,4 +145,7 @@ about-webrtc-jitter-label = जिटर { $jitter }
 
 
 ##
+
+##
+
 
