@@ -209,6 +209,8 @@ cert-not-verified-issuer-unknown = Зохиогч нь үл мэдэгдэх ш�
 cert-not-verified-ca-invalid = ГЭ гэрчилгээ зөв биш учраас энэ гэрчилгээг шалгаж чадахгүй байна.
 cert-not-verified-unknown = Үл мэдэгдэх шалтгаанаар энэ гэрчилгээг шалгаж чадахгүй байна.
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Та одоо { -brand-short-name } нь хуудсыг хэрхэн таних тохируулгыг дарж бичих гэж байна.

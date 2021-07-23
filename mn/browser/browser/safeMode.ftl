@@ -7,3 +7,4 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Аюулгүй горимоор эхлүүлэх
+

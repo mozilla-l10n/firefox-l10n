@@ -182,6 +182,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY historyMenu.label "Түүх">
+
 <!ENTITY historyUndoMenu.label "Сүүлд хаагдсан самбарууд">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Сүүлд хаагдсан самбарууд">
