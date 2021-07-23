@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "To save disk space, do not download:">
 <!ENTITY doNotDownloadNntp.label "To save disk space, do not download for offline use:">
 <!ENTITY doNotDownloadImap.label "To save disk space, downloading messages from the server and keeping local copies for offline use can be restricted by age or size.">
-<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Messages larger than">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Don't download messages larger than">

@@ -9,6 +9,8 @@
 <!-- + is above this key on many keyboards -->
 <!ENTITY zoomEnlargeCmd.commandkey2 "="> 
 
+<!-- + is above this key on many keyboards -->
+
 <!ENTITY zoomReduceCmd.label        "Smaller">
 <!ENTITY zoomReduceCmd.accesskey    "S">
 <!ENTITY zoomReduceCmd.commandkey   "-">

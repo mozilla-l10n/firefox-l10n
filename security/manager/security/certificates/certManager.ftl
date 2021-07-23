@@ -208,6 +208,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Are you sure you want to delete these server exceptions?
 delete-ssl-cert-impact = If you delete a server exception, you restore the usual security checks for that server and require it uses a valid certificate.
 
+
 delete-ca-cert-title =
     .title = Delete or Distrust CA Certificates
 delete-ca-cert-confirm = You have requested to delete these CA certificates. For built-in certificates all trust will be removed, which has the same effect. Are you sure you want to delete or distrust?
@@ -252,6 +253,8 @@ cert-not-verified-issuer-unknown = Could not verify this certificate because the
 cert-not-verified-ca-invalid = Could not verify this certificate because the CA certificate is invalid.
 cert-not-verified_algorithm-disabled = Could not verify this certificate because it was signed using a signature algorithm that was disabled because that algorithm is not secure.
 cert-not-verified-unknown = Could not verify this certificate for unknown reasons.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

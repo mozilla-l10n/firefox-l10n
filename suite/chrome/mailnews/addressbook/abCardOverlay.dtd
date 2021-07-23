@@ -5,6 +5,7 @@
 <!ENTITY Contact.tab                     "Contact">
 <!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Name">
+
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -32,7 +33,6 @@
 <!ENTITY DisplayName.label              "Display:">
 <!ENTITY DisplayName.accesskey          "D">
 <!ENTITY preferDisplayName.label        "Always prefer display name over message header">
-<!ENTITY preferDisplayName.accesskey    "A">
 <!ENTITY NickName.label                 "Nickname:">
 <!ENTITY NickName.accesskey             "N">
 
@@ -45,8 +45,6 @@
 <!ENTITY PlainText.label                "Plain Text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Unknown">
-<!ENTITY ScreenName.label               "Screen Name:">
-<!ENTITY ScreenName.accesskey           "S">
 
 <!ENTITY WorkPhone.label                "Work:">
 <!ENTITY WorkPhone.accesskey            "k">

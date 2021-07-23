@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-fonts.xul -->
 <!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
 
@@ -27,6 +28,7 @@
 <!ENTITY  fantasy.accesskey                       "F">
 <!ENTITY  cursive.label                           "Cursive:">
 <!ENTITY  cursive.accesskey                       "C">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of
      the Latin language. -->
@@ -69,6 +71,7 @@
 
 <!ENTITY  useDocumentFonts.label                  "Allow documents to use other fonts">
 <!ENTITY  useDocumentFonts.accesskey              "o">
+
 <!-- leaving this stuff in for now -->
 
 

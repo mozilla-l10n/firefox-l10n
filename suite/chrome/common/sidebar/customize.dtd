@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from ./customize.xul -->
 <!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
 
@@ -9,6 +10,7 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "Tabs in &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey    "T">
+
 <!ENTITY sidebar.customize.customize.label      "Customise Tab…">
 <!ENTITY sidebar.customize.customize.accesskey  "C">
 <!ENTITY sidebar.customize.remove.label         "Remove">

@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-cache.xul -->
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 
@@ -29,3 +30,4 @@
 <!ENTITY prefetchTitle.label             "Link Prefetching">
 <!ENTITY enablePrefetch.label            "Prefetch web pages when idle, so that links in web pages designed for prefetching can load more quickly">
 <!ENTITY enablePrefetch.accesskey        "P">
+

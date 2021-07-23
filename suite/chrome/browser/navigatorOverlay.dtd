@@ -19,8 +19,6 @@
 <!ENTITY uploadFile.label "Upload File…">
 <!ENTITY uploadFile.accesskey "F">
 
-<!ENTITY printSetupCmd.label "Page Setup…">
-<!ENTITY printSetupCmd.accesskey "u">
 <!-- Edit Menu -->
 
 <!ENTITY findOnCmd.label "Find in This Page…">
@@ -143,3 +141,4 @@
 
 <!ENTITY clearPrivateDataCmd.label "Clear Private Data…">
 <!ENTITY clearPrivateDataCmd.accesskey "e">
+

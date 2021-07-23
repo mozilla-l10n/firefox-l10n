@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Refresh { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Refresh { -brand-short-name }
 refresh-profile-description = Start fresh to fix problems and restore performance.

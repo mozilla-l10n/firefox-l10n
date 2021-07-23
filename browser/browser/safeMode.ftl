@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Start in Safe Mode
+
 refresh-profile =
     .label = Refresh { -brand-short-name }
 safe-mode-description = Safe Mode is a special mode of { -brand-short-name } that can be used to troubleshoot issues.

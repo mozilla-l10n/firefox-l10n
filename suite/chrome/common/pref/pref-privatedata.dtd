@@ -22,6 +22,7 @@
   The same accesskey is used for both labels.
 -->
 
+
 <!ENTITY clearDataDialog.label            "Clear Now…">
 <!ENTITY clearDataSilent.label            "Clear Now">
 <!ENTITY clearDataDialog.accesskey        "N">

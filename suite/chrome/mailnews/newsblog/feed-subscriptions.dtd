@@ -10,7 +10,6 @@
 <!ENTITY feedTitle.accesskey         "T">
 
 
-<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
 <!ENTITY locationValidate.label      "Validate">
 <!ENTITY validateText.label          "Check validation and retrieve a valid url.">
 

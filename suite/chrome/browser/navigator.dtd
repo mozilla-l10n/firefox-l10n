@@ -1,7 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/navigator.xul -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
@@ -54,8 +56,6 @@
 <!ENTITY printButton.label            "Print">
 <!ENTITY printButton.tooltip          "Print this page">
 
-<!ENTITY throbber.tooltip             "Go to the &vendorShortName; home page">
-
 <!ENTITY locationBar.tooltip          "Enter search term, keyword, or web address">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Location">
@@ -80,3 +80,4 @@
 <!ENTITY viewCertificate.accesskey   "C">
 <!ENTITY viewCertManager.label       "Open Certificate Manager">
 <!ENTITY viewCertManager.accesskey   "M">
+
