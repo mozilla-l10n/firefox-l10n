@@ -213,6 +213,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Aɗa yenanaa yiɗde momtude ɗee paltooje sarworde?
 delete-ssl-cert-impact = So a momtii faltoore sarworde, a artirtu ƴeewnde kisal goowaaɗe ɗee e ndeen sarworde tee naamno-ɗaa yo o huutoro seedamfaagu moƴƴuru.
 
+
 delete-ca-cert-title =
     .title = Momtu walla Hoolkiso Seedamfaaje CA
 delete-ca-cert-confirm = A naamniima yoo ɗee seedamfaaje CA momte. Koolaaje seedamfaaje asliije fof maa momte, ɗum ena wufta e pilte nannduɗe heen. Aɗa yenanaa yiɗde momtude walla hoolkisaade?
@@ -271,6 +272,8 @@ cert-not-verified-issuer-unknown = Horiima ƴeewtaade nguu seedamfaagu sabu bayy
 cert-not-verified-ca-invalid = Horiima ƴeewtaade nguu seedamfaagu sabu CA ngu moƴƴaani.
 cert-not-verified_algorithm-disabled = Horiima ƴeewtaade nguu seedamfaagu sabu ngu siiforaa ko huutoraade algoritmol daaƴangol sabu nol hisaani.
 cert-not-verified-unknown = Horiima ƴeewtaade nguu seedamfaagu ngam daliilu mo anndaaka.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

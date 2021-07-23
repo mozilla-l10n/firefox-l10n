@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Yiylo
 
 newtab-search-box-search-the-web-text = Yiylo geese
+
 newtab-search-box-search-the-web-input =
     .placeholder = Yiylo geese
     .title = Yiylo geese
@@ -53,6 +54,8 @@ newtab-topsites-add-button = Ɓeydu
 newtab-confirm-delete-history-p1 = Aɗa yananaa yiɗde momtude kala cilol ngoo hello e to aslol maa?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ngal baɗal waawaa firteede.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -200,3 +203,6 @@ newtab-pocket-cta-text = Hisnu daari njiɗ-ɗaa nder { -pocket-brand-name }, ñi
 
 newtab-error-fallback-info = Uf, saɗeende kewii e loowgol ngoo loowdi.
 newtab-error-fallback-refresh-link = Wultin hello ngoo ngam ennditde.
+
+## Customization Menu
+

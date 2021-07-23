@@ -285,3 +285,7 @@ touch-warning = async touch input disabled due to unsupported pref: { $preferenc
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

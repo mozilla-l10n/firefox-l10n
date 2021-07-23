@@ -54,8 +54,6 @@ move-to-new-window =
     .label = Dirtin to Henorde Hesere
     .accesskey = H
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Uddu Tabbere
     .accesskey = U
@@ -68,3 +66,7 @@ move-tabs =
 move-tab =
     .label = Dirtin tabbe
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

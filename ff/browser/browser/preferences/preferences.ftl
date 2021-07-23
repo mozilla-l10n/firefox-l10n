@@ -579,6 +579,7 @@ home-prefs-topsites-description = Lowe ɗe ɓurɗaa waawde yillaade
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Waggini ɗum ko { $provider }
+
 ##
 
 home-prefs-recommended-by-learn-more = Hol no gollortoo
@@ -604,6 +605,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Taƴitine
 home-prefs-snippets-description = Kesɗitineiwde e { -vendor-short-name } kañum e { -brand-product-name }
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -676,6 +678,7 @@ containers-back-button =
             [windows] Rutto e Cuɓe
            *[other] Rutto e Cuɓoraaɗe
         }
+
 containers-header = Tabbe Mooftirɗe
 containers-add-button =
     .label = Ɓeydu Mooftiree Hesere
@@ -687,6 +690,7 @@ containers-new-tab-check =
 
 containers-preferences-button =
     .label = Cuɓaaɗe
+
 containers-remove-button =
     .label = Momtu
 

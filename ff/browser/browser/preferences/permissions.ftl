@@ -5,46 +5,61 @@
 permissions-window =
     .title = Paltooje
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Ñiiɓirɗe lowre
     .accesskey = d
+
 permissions-block =
     .label = Falo
     .accesskey = F
+
 permissions-session =
     .label = Yamir e Naatol
     .accesskey = N
+
 permissions-allow =
     .label = Yamir
     .accesskey = Y
+
 permissions-site-name =
     .label = Lowre geese
+
 permissions-status =
     .label = Ngonka
+
 permissions-remove =
     .label = Momtu Lowre
     .accesskey = M
+
 permissions-remove-all =
     .label = Momtu Lowe Fof
     .accesskey = e
+
 permissions-button-cancel =
     .label = Haaytu
     .accesskey = H
+
 permissions-button-ok =
     .label = Danndu Bayle
     .accesskey = D
+
 permission-dialog =
     .buttonlabelaccept = Danndu Bayle
     .buttonaccesskeyaccept = D
+
 permissions-searchbox =
     .placeholder = Yiylo e Lowre
+
 permissions-capabilities-allow =
     .label = Yamir
 permissions-capabilities-block =
     .label = Falo
 permissions-capabilities-prompt =
     .label = Naamno Sahaa Kala
+
 permissions-capabilities-listitem-allow =
     .value = Yamir
 permissions-capabilities-listitem-block =
@@ -66,6 +81,8 @@ permissions-exceptions-cookie-window =
     .title = Paltooje - Kuukiije kam e Keɓe Lowre
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Aɗa waawi hollitde hol lowe geese jamiraaɗe daañaa huutoraade kuuke e keɓe lowre. Tappu ñiiɓirde lowre njiɗ-ɗaa toppitaade ndee, ndobo-ɗaa e Faddo, Yamir wonande rogere walla Yamir.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

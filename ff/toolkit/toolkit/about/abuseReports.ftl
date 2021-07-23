@@ -33,6 +33,11 @@ abuse-report-submit-button = Naatnu
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-submitting = Neldugol jaŋtol ngam <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = A jaaraama ngam naatnugol jaŋtol. Aɗa yiɗi ittude <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = A jaaraama e naatnugol jaŋtol.

@@ -5,6 +5,7 @@
 screenshots-context-menu = Ƴettu nattal yaynirde
 
 screenshots-my-shots-button = Nattal Am
+
 screenshots-instructions = Daas walla ndobo-ɗaa e hello hee ngam suɓaade nokku. Ñoƴƴu ESC ngam haaytude.
 screenshots-cancel-button = Momtu
 screenshots-save-visible-button = Daɗndu peeñɗo

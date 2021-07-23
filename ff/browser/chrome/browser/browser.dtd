@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Uddit cuɓirgol">
+
 <!ENTITY navbarOverflow.label                "Kuutorɗe goɗɗe…">
 
 <!-- Tab context menu -->
@@ -141,18 +142,22 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "H">
 
 <!ENTITY historyMenu.label "Aslol">
+
 <!ENTITY historyUndoMenu.label "Tabbe Uddaaɗe Sakket">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Kenorɗe Uddaaɗe Sakket">
 
 <!ENTITY appMenuHistory.showAll.label "Hollu Asli ɗii Fof">
+
 <!ENTITY appMenuHistory.clearRecent.label "Momtu Aslol Sakketol…">
 <!ENTITY appMenuHistory.restoreSession.label "Artir Yillannde Ɓennunde">
 <!ENTITY appMenuHistory.viewSidebar.label "Hollu Aslol Palal Sawndo">
 <!ENTITY appMenuHistory.recentHistory.label "Aslol Cakkitiingol">
+
 <!ENTITY appMenuHelp.label "&amp;Ballal">
 
 <!ENTITY appMenuRemoteTabs.label "Tabbe synckaaɗe">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Alaa tabbe udditiiɗe">
