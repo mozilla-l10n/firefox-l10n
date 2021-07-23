@@ -414,6 +414,7 @@ home-prefs-topsites-header =
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } ರಿಂದ ಶಿಫಾರಸುಮಾಡುಲಾಗಿದೆ
+
 ##
 
 
@@ -485,6 +486,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = ಆದ್ಯತೆಗಳು
+
 containers-remove-button =
     .label = ತೆಗೆದುಹಾಕು
 

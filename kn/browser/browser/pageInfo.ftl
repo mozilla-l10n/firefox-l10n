@@ -117,6 +117,8 @@ help-button =
 
 security-site-data-no = ಇಲ್ಲ
 
+##
+
 image-size-unknown = ಅಜ್ಞಾತ
 page-info-not-specified =
     .value = ಸೂಚಿತಗೊಳ್ಳದೇ ಇರುವ

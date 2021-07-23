@@ -14,3 +14,4 @@
 ##
 ## Variables:
 ##   $value (String): The full value of the preference.
+

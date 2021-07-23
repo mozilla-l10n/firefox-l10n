@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = ಸುರಕ್ಷಿತಾ ಸ್ಥಿತಿಯಲ್ಲಿ ಆರಂಭಿಸು
+
 refresh-profile =
     .label = { -brand-short-name } ಪುನ:ಶ್ಚೇತನಗೊಳಿಸು
 safe-mode-description = ಸುರಕ್ಷತಾ ಸ್ಥಿತಿ ಎನ್ನುವುದು { -brand-short-name } ನ ಒಂದು ವಿಶೇಷ ಸ್ಥಿತಿಯಾಗಿದ್ದು, ಇದನ್ನು ದೋಷಪರಿಹರಿಸಲು ಬಳಸಬಹುದಾಗಿರುತ್ತದೆ.

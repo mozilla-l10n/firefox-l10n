@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-my-shots-button = ನನ್ನ ಫೋಟೋಗಳು‍
+
 screenshots-cancel-button = ರದ್ದುಗೊಳಿಸು
 screenshots-download-button = ಡೌನ್‌ಲೋಡ್
 screenshots-copy-button = ನಕಲಿಸು

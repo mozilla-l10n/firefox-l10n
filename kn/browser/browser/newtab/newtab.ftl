@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = ಹುಡುಕು
 
 newtab-search-box-search-the-web-text = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
+
 newtab-search-box-search-the-web-input =
     .placeholder = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
     .title = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
@@ -49,6 +50,8 @@ newtab-topsites-add-button = ಸೇರಿಸು
 
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ಈ ಕಾರ್ಯವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿರುವುದಿಲ್ಲ.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -155,4 +158,6 @@ newtab-pocket-cta-button = { -pocket-brand-name } ಪಡೆಯಿರಿ
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
+
+## Customization Menu
 
