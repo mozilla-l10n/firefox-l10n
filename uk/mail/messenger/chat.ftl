@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Приєднання до бесіди
+
 chat-left-chat-icon2 =
     .alt = Залишили бесіду
+
 chat-participant-owner-role-icon2 =
     .alt = Власник
+
 chat-participant-administrator-role-icon2 =
     .alt = Адміністратор
+
 chat-participant-moderator-role-icon2 =
     .alt = Модератор
+
 chat-participant-voiced-role-icon2 =
     .alt = Учасники можуть розміщувати повідомлення

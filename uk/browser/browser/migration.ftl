@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Майстер імпорту
+
 import-from =
     { PLATFORM() ->
         [windows] Імпортувати налаштування, закладки, історію, паролі та інші дані з:
        *[other] Імпортувати налаштування, закладки, історію, паролі та інші дані з:
     }
+
 import-from-bookmarks = Імпорт закладок з:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,25 +51,39 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = Не знайдено жодної програми із закладками, історією чи паролями.
+
 import-source-page-title = Імпорт налаштувань і даних
 import-items-page-title = Об’єкти для імпорту
+
 import-items-description = Виберіть об’єкти для імпорту:
+
 import-permissions-page-title = Надайте дозволи для { -brand-short-name }
+
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS вимагає від вас явного дозволу для { -brand-short-name } на отримування доступу до закладок Safari. Натисніть “Продовжити” та виберіть файл “Bookmarks.plist” на панелі Файл Відкрити що з’явиться.
+
 import-migrating-page-title = Триває імпорт…
+
 import-migrating-description = Зараз імпортуються наступні об’єкти…
+
 import-select-profile-page-title = Вибір профілю
+
 import-select-profile-description = Імпорт можна провести з наступних профілів:
+
 import-done-page-title = Імпорт успішно завершений
+
 import-done-description = Наступні об’єкти успішно імпортовані:
+
 import-close-source-browser = Перед продовженням переконайтеся, що вибраний браузер закрито.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = З { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -79,6 +95,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = Список читання (з Safari)
 imported-edge-reading-list = Список читання (з Edge)
 
@@ -100,6 +117,7 @@ browser-data-cookies-checkbox =
     .label = Куки
 browser-data-cookies-label =
     .value = Куки
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -112,10 +130,12 @@ browser-data-history-label =
             [firefox] Історія перегляду й закладки
            *[other] Історія перегляду
         }
+
 browser-data-formdata-checkbox =
     .label = Історія збережених форм
 browser-data-formdata-label =
     .value = Історія збережених форм
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -124,14 +144,17 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Збережені паролі
+
 browser-data-bookmarks-checkbox =
     .label = Закладки
 browser-data-bookmarks-label =
     .value = Закладки
+
 browser-data-otherdata-checkbox =
     .label = Інші дані
 browser-data-otherdata-label =
     .label = Інші дані
+
 browser-data-session-checkbox =
     .label = Вікна і вкладки
 browser-data-session-label =

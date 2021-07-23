@@ -21,8 +21,10 @@ about-private-browsing-handoff-text = Шукайте з { $engine } або вв�
 about-private-browsing-handoff-text-no-engine = Введіть запит чи адресу
 about-private-browsing-not-private = Зараз ви не у приватному вікні.
 about-private-browsing-info-description = { -brand-short-name } очищає історію перегляду й пошуку при виході з програми або закритті всіх приватних вкладок та вікон. Це не робить вас анонімними для вебсайтів чи вашого провайдера, але дозволяє приховати вашу діяльність в Інтернеті від будь-кого іншого, хто користується цим комп'ютером.
+
 about-private-browsing-need-more-privacy = Потребуєте більше приватності?
 about-private-browsing-turn-on-vpn = Спробуйте { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

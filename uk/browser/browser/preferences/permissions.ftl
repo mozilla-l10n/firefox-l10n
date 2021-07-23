@@ -5,65 +5,85 @@
 permissions-window =
     .title = Винятки
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Адреса сайту
     .accesskey = д
+
 permissions-block =
     .label = Блокувати
     .accesskey = Б
+
 permissions-session =
     .label = Дозволити на сеанс
     .accesskey = о
+
 permissions-allow =
     .label = Дозволити
     .accesskey = Д
+
 permissions-button-off =
     .label = Вимкнути
     .accesskey = В
+
 permissions-button-off-temporarily =
     .label = Вимкнути тимчасово
     .accesskey = т
+
 permissions-site-name =
     .label = Вебсайт
+
 permissions-status =
     .label = Стан
+
 permissions-remove =
     .label = Вилучити вебсайт
     .accesskey = л
+
 permissions-remove-all =
     .label = Вилучити всі вебсайти
     .accesskey = с
+
 permissions-button-cancel =
     .label = Скасувати
     .accesskey = С
+
 permissions-button-ok =
     .label = Зберегти зміни
     .accesskey = З
+
 permission-dialog =
     .buttonlabelaccept = Зберегти зміни
     .buttonaccesskeyaccept = З
+
 permissions-autoplay-menu = Типово для всіх вебсайтів:
+
 permissions-searchbox =
     .placeholder = Пошук по сайту
+
 permissions-capabilities-autoplay-allow =
     .label = Дозволити аудіо та відео
 permissions-capabilities-autoplay-block =
     .label = Блокувати аудіо
 permissions-capabilities-autoplay-blockall =
     .label = Блокувати аудіо та відео
+
 permissions-capabilities-allow =
     .label = Дозволити
 permissions-capabilities-block =
     .label = Блокувати
 permissions-capabilities-prompt =
     .label = Завжди питати
+
 permissions-capabilities-listitem-allow =
     .value = Дозволити
 permissions-capabilities-listitem-block =
     .value = Блокувати
 permissions-capabilities-listitem-allow-session =
     .value = Дозволити на сеанс
+
 permissions-capabilities-listitem-off =
     .value = Вимкнено
 permissions-capabilities-listitem-off-temporarily =

@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Відновити { -brand-short-name }
+
 refresh-profile-dialog-title = Відновити { -brand-short-name } до типових налаштувань?
 refresh-profile-dialog-button =
     .label = Відновити { -brand-short-name }

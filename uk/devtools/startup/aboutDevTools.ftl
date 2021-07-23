@@ -13,6 +13,7 @@ enable-common-message = Інструменти розробника Firefox ві
 enable-learn-more-link = Докладніше про інструменти розробника
 enable-enable-button = Увімкнути інструменти розробника
 enable-close-button = Закрити цю вкладку
+
 welcome-title = Ласкаво просимо до інструментів розробника Firefox!
 newsletter-title = Новини для розробників Mozilla
 newsletter-message = Отримуйте новини про засоби та можливості розробки на свою електронну пошту.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Мене влаштовує те, як Mozilla обр
 newsletter-subscribe-button = Підписатись
 newsletter-thanks-title = Дякуємо!
 newsletter-thanks-message = Якщо ви раніше не підтвердили підписку на новини від Mozilla, то вам, можливо, доведеться це зробити. Будь ласка, пошукайте наше повідомлення серед вхідних або небажаних листів.
+
 footer-title = Firefox Developer Edition
 footer-message = Шукаєте більшого, ніж просто інструменти розробника? Спробуйте браузер Firefox, створений саме для розробників та потреб сучасної розробки.
 footer-learn-more-link = Докладніше
+
 features-learn-more = Докладніше
 features-inspector-title = Інспектор
 features-inspector-desc = Вивчайте і вдосконалюйте код, щоб створювати ідеальні макети. <a data-l10n-name="learn-more">{ features-learn-more }</a>

@@ -10,6 +10,7 @@ unread-messages-os-tooltip =
         [few] { $count } непрочитані повідомлення
        *[many] { $count } непрочитаних повідомлень
     }
+
 about-rights-notification-text = { -brand-short-name } є вільним програмним забезпеченням з відкритим кодом, створене тисячами людей з усього світу.
 
 ## Content tabs
@@ -26,9 +27,11 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Додатки й теми
     .tooltiptext = Керувати додатками
+
 quick-filter-toolbarbutton =
     .label = Швидкий фільтр
     .tooltiptext = Фільтр повідомлень
+
 redirect-msg-button =
     .label = Переслати
     .tooltiptext = Переслати вибране повідомлення
@@ -38,8 +41,10 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Панель інструментів теки
     .accesskey = т
+
 folder-pane-toolbar-options-button =
     .tooltiptext = Параметри панелі тек
+
 folder-pane-header-label = Теки
 
 ## Folder Toolbar Header Popup
@@ -47,21 +52,27 @@ folder-pane-header-label = Теки
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Сховати панель інструментів
     .accesskey = С
+
 show-all-folders-label =
     .label = Всі теки
     .accesskey = В
+
 show-unread-folders-label =
     .label = Непрочитані теки
     .accesskey = е
+
 show-favorite-folders-label =
     .label = Вибрані теки
     .accesskey = В
+
 show-smart-folders-label =
     .label = Об’єднані теки
     .accesskey = О
+
 show-recent-folders-label =
     .label = Недавні теки
     .accesskey = Н
+
 folder-toolbar-toggle-folder-compact-view =
     .label = Компактне подання
     .accesskey = К
@@ -78,14 +89,19 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Налаштування
+
 appmenu-addons-and-themes =
     .label = Додатки й теми
+
 appmenu-help-enter-troubleshoot-mode =
     .label = Режим усунення проблем…
+
 appmenu-help-exit-troubleshoot-mode =
     .label = Вимкнути режим усунення проблем
+
 appmenu-help-more-troubleshooting-info =
     .label = Додаткові відомості про усунення проблем
+
 appmenu-redirect-msg =
     .label = Переслати
 
@@ -112,6 +128,7 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Адреса є в адресній книзі
+
 message-header-address-not-in-address-book-icon =
     .alt = Адреси немає в адресній книзі
 
@@ -122,9 +139,11 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Вилучити { $name }?
 addon-removal-confirmation-button = Вилучити
 addon-removal-confirmation-message = Вилучити { $name }, а також його конфігурацію та дані з { -brand-short-name }?
+
 caret-browsing-prompt-title = Перегляд з курсором.
 caret-browsing-prompt-text = Натискання F7 вмикає та вимикає Перегляд з курсором. Це дає можливість помістити рухомий курсор на певний вміст, дозволяючи вам вибирати блоки тексту клавіатурою. Хочете увімкнути Перегляд з курсором?
 caret-browsing-prompt-check-text = Більше не питати.
+
 repair-text-encoding-button =
     .label = Відновити кодування тексту
     .tooltiptext = Вгадувати правильне кодування тексту із вмісту повідомлення

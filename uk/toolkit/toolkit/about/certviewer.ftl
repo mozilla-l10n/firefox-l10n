@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Інформація про центри
 certificate-viewer-certificate-policies = Політики сертифіката
 certificate-viewer-embedded-scts = Вбудовані SCT
 certificate-viewer-crl-endpoints = Точки розподілу списків відгуку (CRL)
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Завантажити
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (сертифікат)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (ланцюжок сертифікатів)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Це розширення було позначене критичним, тобто клієнти повинні відхилити сертифікат, якщо вони його не розуміють.

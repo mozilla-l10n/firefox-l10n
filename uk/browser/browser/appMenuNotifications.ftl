@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Не зараз
     .secondarybuttonaccesskey = Н
 appmenu-update-restart-message = Після швидкого перезапуску { -brand-shorter-name } відновить всі відкриті вкладки й вікна, які не були відкриті в режимі приватного перегляду.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Гаразд, зрозуміло
+    .buttonaccesskey = Г
+appmenu-addon-post-install-message = Керуйте своїми додатками, натиснувши <image data-l10n-name='addon-install-icon'></image> в меню <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Доступне оновлення
     .buttonlabel = Завантажити
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Не зараз
     .secondarybuttonaccesskey = Н
 appmenu-update-other-instance-message = Доступне оновлення для { -brand-shorter-name }, але його не можна встановити, тому що працює інша копія { -brand-shorter-name }. Закрийте її, щоб продовжити оновлення, або виберіть оновлення в будь-якому випадку (інша копія може працювати неправильно, доки ви її не перезапустите).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Гаразд, зрозуміло
-    .buttonaccesskey = Г
-appmenu-addon-post-install-message = Керуйте своїми додатками, натиснувши <image data-l10n-name='addon-install-icon'></image> в меню <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Гаразд
     .buttonaccesskey = Г
-appmenu-addon-post-install-message2 = Керуйте своїми розширеннями й темами в меню програми.
 appmenu-addon-post-install-message3 = Керуйте своїми додатками й темами з меню програми.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дозволити цьому розширенню виконуватися в приватних вікнах
     .accesskey = л
+    
 appmenu-new-tab-controlled =
     .label = Ваша нова вкладка була змінена.
     .buttonlabel = Зберегти зміни
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = б
     .secondarybuttonlabel = Вимкнути розширення
     .secondarybuttonaccesskey = В
+
 appmenu-new-tab-controlled-changes =
     .label = Ваша нова вкладка змінилася.
     .buttonlabel = Зберегти зміни

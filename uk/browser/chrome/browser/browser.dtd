@@ -52,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Налаштування Синхронізації">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Під'єднати інший пристрій…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Увійти в &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Увімкнути Синхронізацію">
 <!ENTITY fxa.menu.firefoxServices.label "Служби &brandProductName;">
@@ -140,6 +141,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "Н">
 
 <!ENTITY historyMenu.label "Історія">
+
 <!ENTITY historyUndoMenu.label "Недавно закриті вкладки">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Недавно закриті вікна">
@@ -151,9 +153,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Показати панель історії">
 <!ENTITY appMenuHistory.hideSidebar.label "Приховати бічну панель Історія">
 <!ENTITY appMenuHistory.recentHistory.label "Недавня історія">
+
 <!ENTITY appMenuHelp.label "Довідка">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронізовані вкладки">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Немає відкритих вкладок">
