@@ -16,6 +16,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Προτιμήσεις
     .accesskey = Π
+
 menu-addons-and-themes =
     .label = Πρόσθετα και θέματα
     .accesskey = ρ
@@ -25,9 +26,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Λειτουργία επίλυσης προβλημάτων…
     .accesskey = Λ
+
 menu-help-exit-troubleshoot-mode =
     .label = Απενεργοποίηση λειτουργίας επίλυσης προβλημάτων
     .accesskey = Α
+
 menu-help-more-troubleshooting-info =
     .label = Περισσότερες πληροφορίες επίλυσης προβλημάτων
     .accesskey = Π
@@ -58,12 +61,15 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Πυκνότητα
     .accesskey = Π
+
 mail-uidensity-compact =
     .label = Πολύ πυκνό
     .accesskey = ο
+
 mail-uidensity-normal =
     .label = Κανονικό
     .accesskey = Κ
+
 mail-uidensity-touch =
     .label = Αφή
     .accesskey = Α

@@ -4,7 +4,8 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
+
 # Description of the import module
 thunderbird-import-description = Εισαγωγή email από έναν κατάλογο προφίλ του Thunderbird.
-import-select-profile-dir-or-zip = Επιλέξτε έναν κατάλογο προφίλ ή έναν συμπιεσμένο κατάλογο προφίλ
+
 import-select-profile-zip = Επιλέξτε έναν συμπιεσμένο κατάλογο προφίλ

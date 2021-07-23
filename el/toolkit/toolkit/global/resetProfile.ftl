@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Ανανέωση του { -brand-short-name }
+
 refresh-profile-dialog-title = Επαναφορά του { -brand-short-name } στις αρχικές του ρυθμίσεις;
 refresh-profile-dialog-button =
     .label = Ανανέωση του { -brand-short-name }

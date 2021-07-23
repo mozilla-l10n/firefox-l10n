@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = Προτιμήσεις { -brand-short-name }
+
 open-addons-sidebar-button = Πρόσθετα και θέματα

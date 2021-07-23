@@ -4,14 +4,18 @@
 
 third-party-page-title = Πληροφορίες μονάδας τρίτων
 third-party-section-title = Λίστα λειτουργικών μονάδων τρίτων στο { -brand-short-name }
+
 third-party-intro =
     Αυτή η σελίδα εμφανίζει τις λειτουργικές μονάδες τρίτων που έχουν εισαχθεί στο
     { -brand-short-name } σας. Κάθε μονάδα που δεν έχει υπογραφεί από τη Microsoft ή
     τη { -vendor-short-name } θεωρείται μονάδα τρίτου μέρους.
+
 third-party-header-module-list = Λίστα λειτουργικών μονάδων
 third-party-header-loading-events = Συμβάντα φόρτωσης
+
 third-party-message-empty = Δεν εντοπίστηκαν λειτουργικές μονάδες τρίτων.
 third-party-message-no-duration = Δεν έχει καταγραφεί
+
 third-party-detail-version = Έκδοση αρχείου
 third-party-detail-vendor = Πληροφορίες κατασκευαστή
 third-party-detail-occurrences = Επαναλήψεις
@@ -20,9 +24,11 @@ third-party-detail-duration = Μέσος χρόνος αποκλεισμού (ms
     .title = Χρονικό διάστημα αποκλεισμού εφαρμογής από το πρόσθετο.
 third-party-detail-app = Εφαρμογή
 third-party-detail-publisher = Εκδότης
+
 third-party-th-process = Διεργασία
 third-party-th-duration = Διάρκεια φόρτωσης (ms)
 third-party-th-status = Κατάσταση
+
 third-party-tag-ime = IME
     .title = Αυτός ο τύπος προσθέτου φορτώνεται όταν χρησιμοποιείτε IME τρίτων.
 third-party-tag-shellex = Επέκταση κελύφους
@@ -33,9 +39,11 @@ third-party-unsigned-icon =
     .title = Αυτή η μονάδα δεν έχει υπογραφεί
 third-party-warning-icon =
     .title = Το { -brand-short-name } κατέρρευσε στον κώδικα από αυτή τη λειτουργική μονάδα
+
 third-party-status-loaded = Φορτώθηκε
 third-party-status-blocked = Αποκλείστηκε
 third-party-status-redirected = Ανακατευθύνθηκε
+
 third-party-button-copy-to-clipboard = Αντιγραφή ακατέργαστων δεδομένων στο πρόχειρο
 third-party-button-reload = Ανανέωση με πληροφορίες συστήματος
     .title = Ανανέωση με πληροφορίες συστήματος

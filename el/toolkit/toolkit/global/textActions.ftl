@@ -5,35 +5,48 @@
 text-action-undo =
     .label = Αναίρεση
     .accesskey = Α
+
 text-action-undo-shortcut =
     .key = Z
+
 text-action-redo =
     .label = Επανάληψη
     .accesskey = Ε
+
 text-action-redo-shortcut =
     .key = Y
+
 text-action-cut =
     .label = Αποκοπή
     .accesskey = π
+
 text-action-cut-shortcut =
     .key = X
+
 text-action-copy =
     .label = Αντιγραφή
     .accesskey = Α
+
 text-action-copy-shortcut =
     .key = C
+
 text-action-paste =
     .label = Επικόλληση
     .accesskey = π
+
 text-action-paste-shortcut =
     .key = V
+
 text-action-delete =
     .label = Διαγραφή
     .accesskey = Δ
+
 text-action-select-all =
     .label = Επιλογή όλων
     .accesskey = λ
+
 text-action-select-all-shortcut =
     .key = A
+
 text-action-spell-no-suggestions =
     .label = Καμία πρόταση ορθογραφίας

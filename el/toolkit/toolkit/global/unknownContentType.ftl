@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Άνοιγμα με { -brand-short-name }
     .accesskey = ι
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

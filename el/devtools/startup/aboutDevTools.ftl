@@ -13,6 +13,7 @@ enable-common-message = Τα εργαλεία ανάπτυξης του Firefox 
 enable-learn-more-link = Μάθετε περισσότερα για τα εργαλεία ανάπτυξης
 enable-enable-button = Ενεργοποίηση εργαλείων ανάπτυξης
 enable-close-button = Κλείσιμο καρτέλας
+
 welcome-title = Καλωσορίσατε στα εργαλεία ανάπτυξης του Firefox!
 newsletter-title = Ενημέρωση προγραμματιστών Mozilla
 newsletter-message = Λάβετε ειδήσεις, κόλπα και πόρους για προγραμματιστές απευθείας στα εισερχόμενά σας.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Δεν με πειράζει να διαχειρίζ�
 newsletter-subscribe-button = Εγγραφή
 newsletter-thanks-title = Ευχαριστούμε!
 newsletter-thanks-message = Αν δεν έχετε προηγουμένως επιβεβαιώσει την εγγραφή σας σε κάποιο newsletter σχετικό με τη Mozilla, ίσως θα πρέπει να το κάνετε. Παρακαλούμε ελέγξτε τα εισερχόμενα ή το φίλτρο ανεπιθύμητων για ένα e-mail από εμάς.
+
 footer-title = Firefox Developer Edition
 footer-message = Ψάχνετε κάτι παραπάνω από απλά εργαλεία ανάπτυξης; Δείτε την έκδοση του Firefox που αναπτύσσεται αποκλειστικά για προγραμματιστές και σύγχρονες ροές εργασίας.
 footer-learn-more-link = Μάθετε περισσότερα
+
 features-learn-more = Μάθετε περισσότερα
 features-inspector-title = Επιθεώρηση
 features-inspector-desc = Επιθεώρηση και βελτίωση κώδικα για δημιουργία τέλειων διατάξεων. <a data-l10n-name="learn-more">{ features-learn-more }</a>
