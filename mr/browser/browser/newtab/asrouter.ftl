@@ -175,3 +175,7 @@ cfr-doorhanger-milestone-ok-button = सर्व पाहा
 
 ## What's new: Cookies message
 
+## Fission Experiment Message
+
+## Full Video Support CFR message
+

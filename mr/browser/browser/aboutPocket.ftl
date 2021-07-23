@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = टॅग जोडा
+
 pocket-panel-saved-error-generic = { -pocket-brand-name } मध्ये जतन करताना त्रुटी आली.
 pocket-panel-saved-error-tag-length = टॅग साठी 25 वर्णांची मर्यादा आहे
 pocket-panel-saved-error-only-links = फक्त दुवे जतन केले जाऊ शकतात

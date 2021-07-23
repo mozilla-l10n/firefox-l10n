@@ -559,6 +559,7 @@ home-prefs-topsites-description = आपण सर्वाधिक भेट �
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } तर्फे शिफारस
+
 ##
 
 home-prefs-recommended-by-learn-more = हे कसे कार्य करते
@@ -584,6 +585,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = कात्रणे
 home-prefs-snippets-description = { -vendor-short-name } आणि { -brand-product-name } कडून अद्यतने
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -657,6 +659,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = प्राधान्यक्रम
+
 containers-remove-button =
     .label = काढून टाका
 

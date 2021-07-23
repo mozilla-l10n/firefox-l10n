@@ -279,6 +279,7 @@ release-notes-addon-button = प्रकाशन टीपा
 permissions-addon-button = परवानग्या
 
 ask-to-activate-button = सक्रिय करण्यास विचारा
+
 always-activate-button = नेहमी सक्रिय करा
 never-activate-button = कधीही सक्रिय करू नका
 
@@ -299,6 +300,11 @@ install-update-button = अद्ययावत करा
 
 addon-detail-private-browsing-allow = परवानगी द्या
 addon-detail-private-browsing-disallow = परवानगी देऊ नका
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+##
 
 available-updates-heading = उपलब्ध सुधारणा
 recent-updates-heading = नुकतीच सुधारणा
