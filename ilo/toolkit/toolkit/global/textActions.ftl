@@ -32,3 +32,4 @@ text-action-delete =
 
 text-action-select-all-shortcut =
     .key = A
+

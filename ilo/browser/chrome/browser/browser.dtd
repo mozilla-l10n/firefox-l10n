@@ -94,6 +94,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Pagdumdumaan">
 
 <!ENTITY historyMenu.label "Pakasaritaan">
+
 <!ENTITY historyUndoMenu.label "Nairikep itay a Nabiit a Lapayag">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nairikep itay Nabiit a Tawa">

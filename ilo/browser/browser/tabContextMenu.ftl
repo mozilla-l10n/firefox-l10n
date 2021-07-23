@@ -11,3 +11,4 @@ move-to-new-window =
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+

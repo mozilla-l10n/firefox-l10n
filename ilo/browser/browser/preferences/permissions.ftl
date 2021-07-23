@@ -46,6 +46,8 @@ permissions-invalid-uri-label = Isuratyo man ti nagan ti serbidor
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 

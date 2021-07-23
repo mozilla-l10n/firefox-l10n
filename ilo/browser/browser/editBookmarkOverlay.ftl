@@ -30,3 +30,4 @@ bookmark-overlay-tags-empty-description =
 bookmark-overlay-keyword =
     .value = Balikas-tulbek:
     .accesskey = k
+

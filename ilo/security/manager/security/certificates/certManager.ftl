@@ -191,6 +191,8 @@ cert-not-verified-issuer-not-trusted = Saan a mapasingkedan daytoy a sertipiko g
 cert-not-verified-issuer-unknown = Saan a napasingkedan daytoy a sertipiko gapu ta saan nga am-ammo ti nangiwaras.
 cert-not-verified-unknown = Saan a napasingkedan daytoy a sertpiko ta awan ti gapgapuna.
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 add-exception-branded-warning = Baliwantyonto ti pakailasin ti { -brand-short-name } kadaytoy a purok.
