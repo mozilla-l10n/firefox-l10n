@@ -43,6 +43,8 @@ permissions-invalid-uri-label = Usabwe kwinjiza izinanturo ariyo
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Ushobora kuvuga ayahe ma webu yemerewe gufungura ibyifungura. Injiza aderesi nyayo ya webu ushaka kwemerera maze ukande kuri Emera.

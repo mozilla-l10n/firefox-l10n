@@ -189,6 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY historyMenu.label "Amateka">
+
 <!ENTITY historyUndoMenu.label "Udufishi Twafunze Iyimura">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 
