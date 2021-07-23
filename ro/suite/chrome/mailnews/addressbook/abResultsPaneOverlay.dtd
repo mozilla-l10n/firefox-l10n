@@ -41,8 +41,6 @@
 <!ENTITY HomePhone.accesskey                   "T">
 <!ENTITY WorkPhone.label                       "Telefonul serviciu">
 <!ENTITY WorkPhone.accesskey                   "T">
-<!ENTITY ScreenName.label                      "Nume de afișat">
-<!ENTITY ScreenName.accesskey                  "N">
 <!ENTITY sortAscending.label                   "Crescătoare">
 <!ENTITY sortAscending.accesskey               "a">
 <!ENTITY sortDescending.label                  "În ordine descrescătoare">

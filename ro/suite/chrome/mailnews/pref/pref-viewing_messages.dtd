@@ -43,13 +43,6 @@
 <!ENTITY generalMessageDisplay.caption    "General">
 <!ENTITY autoMarkAsRead.label             "Marchează automat mesajele ca citite">
 <!ENTITY autoMarkAsRead.accesskey         "a">
-<!ENTITY markAsReadNoDelay.label          "Imediat la afișare">
-<!ENTITY markAsReadNoDelay.accesskey      "m">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "După ce sunt afișate">
-<!ENTITY markAsReadDelay.accesskey        "t">
 <!ENTITY secondsLabel.label               "secunde">
 
 <!ENTITY openingMessages.label            "When opening messages, display them in:">

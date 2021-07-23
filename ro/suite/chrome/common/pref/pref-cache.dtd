@@ -15,6 +15,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!-- extracted from content/pref-cache.xul -->
 
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
@@ -42,3 +43,4 @@
 <!ENTITY prefetchTitle.label             "Link Prefetching">
 <!ENTITY enablePrefetch.label            "Prefetch web pages when idle, so that links in web pages designed for prefetching can load more quickly">
 <!ENTITY enablePrefetch.accesskey        "P">
+

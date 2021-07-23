@@ -19,6 +19,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Redactare mesaj: (fără subiect)">
 
@@ -62,7 +63,7 @@
 <!ENTITY editRewrapCmd.label "Înfășoară rândurile">
 <!ENTITY editRewrapCmd.key "L">
 <!ENTITY editRewrapCmd.accesskey  "n">
-<!ENTITY findCmd.label "Caută și înlocuiește…">
+
 <!ENTITY accountManagerCmd.label "Mail &amp; Newsgroups Account Settings…">
 <!ENTITY accountManagerCmd.accesskey "M">
 
@@ -86,11 +87,6 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "A">
 
-<!ENTITY checkSpellingCmd2.label "Verifică ortografia…">
-<!ENTITY checkSpellingCmd2.accesskey "V">
-<!ENTITY enableInlineSpellChecker.label "Corectare ortografică în timpul tastării">
-<!ENTITY enableInlineSpellChecker.accesskey "s">
-
 <!ENTITY priorityMenu.label "prioritatea">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY lowestPriorityCmd.label "Cea mai mică">
@@ -106,6 +102,7 @@
 
 <!ENTITY returnReceiptMenu.label "Confirmare de primire">
 <!ENTITY returnReceiptMenu.accesskey "C">
+
 <!ENTITY outputFormatMenu.label "Format">
 <!ENTITY outputFormatMenu.accesskey  "F">
 <!ENTITY autoFormatCmd.label "Autodetecție">
@@ -140,13 +137,6 @@
 <!ENTITY attachButton.tooltip "Anexează un fișier la acest mesaj"> 
 <!ENTITY saveButton.tooltip "Salvează acest mesaj"> 
 <!ENTITY stopButton.tooltip "Oprește transferul curent"> 
-
-<!-- context menu items -->
-<!ENTITY spellCheckNoSuggestions.label "(nici o sugestie găsită)">
-<!ENTITY spellCheckIgnoreWord.label "Ignoră cuvânt">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Adaugă la dicționar">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 
 <!ENTITY openAttachment.label "Deschis">
 <!ENTITY openAttachment.accesskey "D">

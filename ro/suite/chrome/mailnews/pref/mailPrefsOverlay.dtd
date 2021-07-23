@@ -17,6 +17,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!-- These are added to the Advanced - Scripts & Plugins panel -->
 <!ENTITY enbPluginCheckMailNews.label     "Email și grupuri de discuții">
 <!ENTITY enbPluginCheckMailNews.accesskey "a">
@@ -30,11 +31,10 @@
 <!-- These are added to Preferences dialog -->
 <!ENTITY viewingMessages.label            "Message Display">
 <!ENTITY notifications.label              "Notificări">
-<!ENTITY address.label                    "Adrese">
 <!ENTITY composingMessages.label          "Redactare">
 <!ENTITY format.label                     "Format de trimitere">
-<!ENTITY return.label                     "Confirmări de primire">
+<!ENTITY address.label                    "Adrese">
 <!ENTITY junk.label                       "Junk Mail">
 <!ENTITY tags.label                       "Tag-uri">
-<!ENTITY characterEncoding.label          "Codare caractere">
+<!ENTITY return.label                     "Confirmări de primire">
 <!ENTITY networkStorage.label             "Network &amp; Storage">

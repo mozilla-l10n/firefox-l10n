@@ -57,6 +57,7 @@ state-private = Identitatea lui { $name } a fost verificată. Conversația curen
 state-finished = { $name } a încheiat conversația cu tine; ar trebui să faci la fel.
 
 state-not_private-label = Nesecurizată
+
 state-unverified-label = Neverificată
 state-private-label = Privată
 state-finished-label = Încheiată

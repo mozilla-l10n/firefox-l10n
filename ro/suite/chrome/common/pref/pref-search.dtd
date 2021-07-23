@@ -15,6 +15,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!-- extracted from content/pref-search.xul -->
 
 <!-- LOCALIZATION NOTE : FILE The Search prefs dialog -->
@@ -32,5 +33,3 @@
 <!ENTITY openInTab.accesskey              "n">
 <!ENTITY openContextSearchTab.label       "Open a tab instead of a window for a context menu web search">
 <!ENTITY openContextSearchTab.accesskey   "t">
-<!ENTITY openSidebarSearchPanel.label     "Open the Search tab in the Sidebar when a search is invoked">
-<!ENTITY openSidebarSearchPanel.accesskey "O">

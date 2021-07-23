@@ -10,13 +10,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!ENTITY identitiesListDesc.label "Suport pentru identități multiple">
+
 <!ENTITY identitiesListAdd.label  "Adaugă…">
 <!ENTITY identitiesListAdd.accesskey  "A">
 <!ENTITY identitiesListEdit.label "Editează">

@@ -16,15 +16,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pref.masterpass.title                  "Parole generale">
-<!ENTITY  managepassword.caption                 "Limită de timp pentru parola generală">
-<!ENTITY  managepassword.text                    "&brandShortName; vă va cere parola generală:">
-<!ENTITY  managepassword.askfirsttime            "Prima data când este necesară">
-<!ENTITY  managepassword.askfirsttime.accesskey  "t">
-<!ENTITY  managepassword.askeverytime            "De fiecare dată când este ncesară">
-<!ENTITY  managepassword.askeverytime.accesskey  "e">
-<!ENTITY  managepassword.asktimeout              "Dacă nu a mai fost folosită de ">
-<!ENTITY  managepassword.asktimeout.accesskey    "n">
-<!ENTITY  managepassword.timeout.unit            "minute sau mai mult">
 
 <!ENTITY  changepassword.caption                 "Schimbare parolă master">
 <!ENTITY  changepassword.text                    "Parola dumneavoastră generală protejează informații private cum ar fi parole web și certificate.">

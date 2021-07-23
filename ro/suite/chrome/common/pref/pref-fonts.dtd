@@ -17,6 +17,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!-- extracted from content/pref-fonts.xul -->
 
 <!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
@@ -43,19 +44,13 @@
 <!ENTITY  cursive.label                           "Cursive:">
 <!ENTITY  cursive.accesskey                       "C">
 
-<!ENTITY  font.langGroup.latin1                   "Occidentală">
-<!ENTITY  font.langGroup.latin2                   "Central europeană">
 <!ENTITY  font.langGroup.japanese                 "Japoneză">
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese(Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chineză simplificată">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese(Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreeană">
 <!ENTITY  font.langGroup.cyrillic                 "Chirilică">
-<!ENTITY  font.langGroup.baltic                   "Baltică">
 <!ENTITY  font.langGroup.el                       "Greacă">
-<!ENTITY  font.langGroup.turkish                  "Turcă">
-<!ENTITY  font.langGroup.unicode                  "Alte limbi">
-<!ENTITY  font.langGroup.user-def                 "Definită de utilizator">
 <!ENTITY  font.langGroup.thai                     "Tailandeză">
 <!ENTITY  font.langGroup.hebrew                   "Ebraică">
 <!ENTITY  font.langGroup.arabic                   "Arabă">

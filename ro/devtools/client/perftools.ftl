@@ -45,3 +45,4 @@ perftools-thread-renderer =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nou</b>: { -profiler-brand-name } este acum integrat în instrumentele pentru dezvoltatori. <a>Află mai multe</a> despre această nouă unealtă puternică.
+

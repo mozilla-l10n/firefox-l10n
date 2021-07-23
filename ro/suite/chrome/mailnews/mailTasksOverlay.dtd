@@ -15,6 +15,7 @@
 #
 -->
 
+
 <!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
 <!ENTITY messengerCmd.label					"Mail &amp; Newsgroups">
 <!ENTITY messengerCmd.accesskey				"m">

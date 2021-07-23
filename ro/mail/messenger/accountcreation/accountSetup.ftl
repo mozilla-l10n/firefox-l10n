@@ -12,6 +12,7 @@
 account-setup-name-input =
     .placeholder = Ion Popescu
 
+
 ## Action buttons
 
 
@@ -46,4 +47,8 @@ account-setup-name-input =
 
 
 ## Addon installation section
+
+## Success view
+
+## Calendar synchronization dialog
 

@@ -9,14 +9,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!ENTITY server.label "Cont:">
-<!ENTITY server.accesskey "C">
+
 <!ENTITY virtualFolderListTitle.title        "Selectează dosar(e)">
 <!ENTITY virtualFolderDesc.label       "Selectează dosarele pentru căutare:">
 

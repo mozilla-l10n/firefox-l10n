@@ -9,6 +9,7 @@
 # BuBBaX <mikebubbax@yahoo.com>
 #
 -->
+
 <!--
 # Reviewer(s):
 #
@@ -20,12 +21,6 @@
 <!-- cookies -->
 
 <!ENTITY cookiePolicy.label             "Cookie Acceptance Policy">
-
-<!ENTITY accAllCookiesRadio.label       "Permiteți toate cookie-urile">
-<!ENTITY accAllCookiesRadio.accesskey   "c">
-
-<!ENTITY accOrgCookiesRadio.label       "Allow cookies for the originating website only">
-<!ENTITY accOrgCookiesRadio.accesskey   "o">
 
 <!ENTITY disableCookies.label           "Blochează cookie-urile">
 <!ENTITY disableCookies.accesskey       "B">
@@ -41,11 +36,6 @@
 <!ENTITY acceptforNDays.label           "Acceptă cookie-urile pentru">
 <!ENTITY acceptforNDays.accesskey       "A">
 <!ENTITY days.label                     "zile">
-
-<!ENTITY warnAboutCookies.label         "Întreabă pentru fiecare cookie">
-<!ENTITY warnAboutCookies.accesskey     "a">
-<!ENTITY forCurrentSession.label        "except for session cookies">
-<!ENTITY forCurrentSession.accesskey    "e">
 
 <!ENTITY manageCookies.label            "Manage Cookies and Sites">
 <!ENTITY manageCookiesDescription.label "Allows you to view and manage stored cookies and per-site settings for accepting and rejecting cookies. Per-site settings will override the settings above.">

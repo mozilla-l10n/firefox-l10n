@@ -10,6 +10,7 @@
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = Permiți acestui site să deschidă linkul { $scheme }?
+
 permission-dialog-description-app = Permiți acestui site să deschidă linkul { $scheme } cu { $appName }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
@@ -22,7 +23,9 @@ permission-dialog-description-app = Permiți acestui site să deschidă linkul {
 permission-dialog-btn-choose-app =
     .label = Alege o aplicație
     .accessKey = A
+
 permission-dialog-unset-description = Va trebui să alegi o aplicație.
+
 permission-dialog-set-change-app-link = Alege o altă aplicație.
 
 ## Chooser dialog
@@ -32,13 +35,17 @@ permission-dialog-set-change-app-link = Alege o altă aplicație.
 chooser-window =
     .title = Alege o aplicație
     .style = min-width: 26em; min-height: 26em;
+
 chooser-dialog-description = Alege o aplicație pentru a deschide linkul { $scheme }.
+
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Folosește întotdeauna această aplicație pentru a deschide linkuri <<strong>{ $scheme }</strong>
+
 choose-other-app-description = Alege o altă aplicație
 choose-app-btn =
     .label = Alege…
     .accessKey = A
 choose-other-app-window-title = Altă aplicație…
+
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Dezactivat în ferestre private

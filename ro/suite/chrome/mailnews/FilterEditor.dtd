@@ -31,12 +31,7 @@
 <!ENTITY highestPriorityCmd.label "Cea mai mare">
 
 <!ENTITY contextDesc.label "Aplică filtrul când:">
-<!ENTITY contextDesc.accesskey "A">
-<!ENTITY contextIncoming.label "Se verifică mesajele">
 <!ENTITY contextManual.label "Rulează manual">
-<!ENTITY contextBoth.label "Se verifică mailul sau se rulează manual">
-<!ENTITY contextPostPlugin.label "Checking Mail (after classification)">
-<!ENTITY contextPostPluginBoth.label "Checking Mail (after classification) or Manually Run">
 
 <!ENTITY filterActionDesc.label "Efectuează următoarele acțiuni:">
 <!ENTITY filterActionDesc.accesskey "E">
@@ -58,3 +53,9 @@
 <!ENTITY ignoreSubthread.label "Ignoră conversația din interior">
 <!ENTITY watchThread.label "Urmărește conversația">
 <!ENTITY stopExecution.label "Oprește executarea filtrului">
+
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->

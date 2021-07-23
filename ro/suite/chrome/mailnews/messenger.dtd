@@ -36,6 +36,8 @@
 
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- menu items: the . means that the menu item isn't implemented yet -->
+
 <!-- File menu items -->
 <!ENTITY newMessage.label "Mesaj nou">
 <!ENTITY newMessage.accesskey "n">
@@ -68,7 +70,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "A">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Toate conturile">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
-<!ENTITY getAllNewMsgCmd.label "Toate conturile">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Adu următoarele 500 de discuții">
 <!ENTITY getNextNMsgCmd.accesskey "t">
@@ -300,10 +301,10 @@
 <!ENTITY replyMsgCmd.label "Răspunde">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key	"d">
-<!ENTITY replySenderCmd.label "Răspunde doar expeditorului">
-<!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd.label "Răspunde grupului de news">
 <!ENTITY replyNewsgroupCmd.accesskey	"R">
+<!ENTITY replySenderCmd.label "Răspunde doar expeditorului">
+<!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyToAllMsgCmd.label "Răspunde tuturor">
 <!ENTITY replyToAllMsgCmd.accesskey	"p">
 <!ENTITY replyToAllMsgCmd.key	"d">
@@ -353,21 +354,8 @@
 <!ENTITY tagMenu.accesskey "E">
 <!ENTITY tagCustomize.label "Personalizare…">
 <!ENTITY tagCustomize.accesskey "P">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "3">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Semn">
 <!ENTITY markMenu.accesskey "S">
-<!ENTITY markAsReadCmd.label "Ca citit">
-<!ENTITY markAsReadCmd.accesskey "C">
-<!ENTITY markAsReadCmd.key "p">
 <!ENTITY markThreadAsReadCmd.label "Conversația ca citită">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "d">
@@ -377,9 +365,6 @@
 <!ENTITY markAllReadCmd.label "Toate ca citite">
 <!ENTITY markAllReadCmd.accesskey "a">
 <!ENTITY markAllReadCmd.key "C">
-<!ENTITY markFlaggedCmd.label "Steag">
-<!ENTITY markFlaggedCmd.accesskey "S">
-<!ENTITY markFlaggedCmd.key "C">
 <!ENTITY markAsJunkCmd.label "Ca spam">
 <!ENTITY markAsJunkCmd.accesskey "C">
 <!ENTITY markAsJunkCmd.key "r">
@@ -394,9 +379,6 @@
 <!ENTITY markAsNotPhishCmd.label "As Not Scam">
 <!ENTITY markAsNotPhishCmd.accesskey "S">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "Deschidere mesaj">
-<!ENTITY openMessageWindowCmd.accesskey "D">
-<!ENTITY openMessageWindowCmd.key "N">
 <!ENTITY openFeedMessage.label "Open Feed Message">
 <!ENTITY openFeedMessage.accesskey "O">
 <!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
@@ -434,6 +416,7 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Get Msgs">
+<!ENTITY getAllNewMsgCmd.label "Toate conturile">
 <!ENTITY newMsgButton.label "Compune">
 <!ENTITY newHTMLMessageCmd.label "Compose in HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
@@ -475,7 +458,6 @@
 <!ENTITY markButton.tooltip "Marchează mesajele">
 <!ENTITY printButton.tooltip "Tipărește acest mesaj">
 <!ENTITY stopButton.tooltip "Oprește transferul curent">
-<!ENTITY throbber.tooltip "Pagina principală &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marchează mesajul ca spam">
 <!ENTITY notJunkButton.tooltip "Marchează mesajele selectate ca spam">
 
@@ -562,20 +544,3 @@
 <!ENTITY all.label "Tot">
 <!ENTITY all.accesskey "T">
 
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage.label "&brandShortName; crede că acest mesaj este spam.">
-<!ENTITY junkBarButton.label "Nu e spam">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage.label "To protect your privacy, &brandShortName; has blocked remote content in this message.">
-<!ENTITY loadRemoteContentButton.label "Show Remote Content">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage.label "&brandShortName; crede că acest mesaj ar putea fi o tentativă de vă înșela.">
-<!ENTITY removePhishingBarButton.label "Nu este o înșelătorie">
-
-<!-- MDN Bar -->
-<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
-<!ENTITY mdnBarIgnoreButton.label "Ignore Request">
-<!ENTITY mdnBarSendButton.label "Send Receipt">

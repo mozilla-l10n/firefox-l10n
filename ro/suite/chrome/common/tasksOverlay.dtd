@@ -17,10 +17,12 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!-- extracted from tasksOverlay.xul -->
 <!ENTITY navigatorCmd.label "Navigator">
 <!ENTITY navigatorCmd.accesskey "N">
 <!ENTITY navigatorCmd.commandkey "1">
+
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label					"Composer">
 <!ENTITY editorCmd.accesskey				"c">
@@ -28,7 +30,6 @@
 
 <!ENTITY errorConsoleCmd.label                                  "Consolă de eroare">
 <!ENTITY errorConsoleCmd.accesskey				"C">
-<!ENTITY errorConsoleCmd.commandkey				"r">
 
 <!ENTITY taskNavigator.tooltip  "Navigator">
 <!ENTITY taskComposer.tooltip  "Editor">

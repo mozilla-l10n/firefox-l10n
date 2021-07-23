@@ -16,6 +16,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
@@ -47,6 +48,3 @@
 <!ENTITY mailnewsTimeout.accesskey        "m">
 <!ENTITY mailnewsTimeoutSeconds.label     "seconds">
 <!ENTITY Diskspace                        "Avertizare spațiu de disc">
-<!ENTITY offlineCompact.label             "Compactează dosarele dacă asta economisește peste">
-<!ENTITY offlineCompact.accesskey         "C">
-<!ENTITY mb.label                         "MB">

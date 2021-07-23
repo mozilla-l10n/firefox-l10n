@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Pornește în modul sigur
+
 troubleshoot-mode-window =
     .title = Deschizi { -brand-short-name } în modul de depanare?
     .style = max-width: 400px

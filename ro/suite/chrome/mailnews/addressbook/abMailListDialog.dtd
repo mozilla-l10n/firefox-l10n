@@ -10,18 +10,19 @@
 
 <!-- Title -->
 <!ENTITY mailListWindow.title           "Listă de expediție">
+
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Adaugă în:">
 
-<!ENTITY ListName.label                 "Numele listei:">
-<!ENTITY ListNickName.label             "Nume scurt:">
-<!ENTITY ListDescription.label          "Descriere:">
-<!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Tastați adrese de email în lista de mai jos:">
-
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "A">
+<!ENTITY ListName.label                 "Numele listei:">
 <!ENTITY ListName.accesskey             "l">
+<!ENTITY ListNickName.label             "Nume scurt:">
 <!ENTITY ListNickName.accesskey         "N">
+<!ENTITY ListDescription.label          "Descriere:">
 <!ENTITY ListDescription.accesskey      "e">
+
+<!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
+<!ENTITY AddressTitle.label             "Tastați adrese de email în lista de mai jos:">
 

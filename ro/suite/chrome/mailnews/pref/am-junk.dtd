@@ -9,6 +9,7 @@
 # janimo <jani@ubuntu.com>
 #
 -->
+
 <!--
 # Reviewer(s):
 #
@@ -16,7 +17,6 @@
 #
 -->
 <!ENTITY junkSettings.label "Setări pentru spam">
-<!ENTITY trainingWarning.label "Dacă e activat, trebuie să antrenați &brandShortName; pentru a identifica mesajele spam folosind butonul din bara de spam pentru a le marca că sunt  sau nu spam. Va trebuie să identificați atât mesajele spam cât și cele care nu sunt spam.">
 <!ENTITY level.label "Activați controalele adaptive pentru spam pentru acest cont">
 <!ENTITY level.accesskey "e">
 
@@ -30,8 +30,6 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "zile">
 
-<!ENTITY whitelist.label "Nu marcați ca spam dacă expeditorul este în: ">
-<!ENTITY whitelist.accesskey "d">
-
 <!ENTITY ispHeaders.label "Aveți încredere în marcările ca spam făcute de:">
 <!ENTITY ispHeaders.accesskey "t">
+

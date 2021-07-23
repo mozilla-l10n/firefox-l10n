@@ -7,8 +7,6 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 #
--->
-<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-<!ENTITY sendWindow.title "Trimitere mesaje"> 
+--> 
 <!ENTITY status.label "Status:">
 <!ENTITY progress.label "Progres:">

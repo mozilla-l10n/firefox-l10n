@@ -10,6 +10,7 @@ finger-intro = Amprente de chei OTR din conversații criptate anterioare.
 
 finger-screenName =
     .label = Contact
+
 finger-verified =
     .label = Stare de verificare
 finger-fingerprint =

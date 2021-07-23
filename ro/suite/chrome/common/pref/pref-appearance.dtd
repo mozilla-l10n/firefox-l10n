@@ -8,6 +8,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
 
 <!ENTITY pref.appearance.title "Aspect">
@@ -29,8 +30,4 @@
 
 <!ENTITY pref.locales.title                     "User Interface Language">
 <!ENTITY selectLocale.label                     "Select the language for text that appears in dialog boxes, menus, toolbars and button labels:">
-<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY restartOnLangChange.label              "Language preferences will take effect when you restart &brandShortName;.">
 

@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+## Message Header Encryption Button
+
 openpgp-view-signer-key =
     .label = Afișează cheia semnatarului
 openpgp-view-your-encryption-key =
@@ -32,3 +34,4 @@ openpgp-unknown-key-id = Cheie necunoscută
 
 openpgp-other-enc-additional-key-ids = În plus, mesajul a fost criptat pentru proprietarii cheilor următoare:
 openpgp-other-enc-all-key-ids = Mesajul a fost criptat pentru proprietarii cheilor următoare:
+

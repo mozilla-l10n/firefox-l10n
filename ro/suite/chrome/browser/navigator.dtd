@@ -18,6 +18,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!-- extracted from content/navigator.xul -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
@@ -36,8 +37,6 @@
 
 <!ENTITY navbarCmd.label "Bară de navigare">
 <!ENTITY navbarCmd.accesskey "n">
-<!ENTITY personalbarCmd.label "Bară Laterală Personală">
-<!ENTITY personalbarCmd.accesskey "P">
 
 <!ENTITY closeWindow.label "Închidere fereastră">
 <!ENTITY closeWindow.accesskey "n">
@@ -49,7 +48,6 @@
 <!ENTITY feedsMenu.accesskey "s">
 
 <!ENTITY menuBar.tooltip                  "Bara meniului">
-<!ENTITY personalToolbar.tooltip          "Bară personală de unelte">
 <!ENTITY navigationToolbar.tooltip        "Bară de navigare">
 
 <!-- Toolbar items --> 
@@ -68,8 +66,6 @@
 <!ENTITY printButton.label            "Tipărește">
 <!ENTITY printButton.tooltip          "Tipărește această pagină">
 
-<!ENTITY throbber.tooltip             "Pagina principală &vendorShortName;">
-
 <!ENTITY locationBar.tooltip          "Enter search term, keyword, or web address">
 <!ENTITY locationBar.accesskey        "L">
 <!ENTITY locationBar.title            "Locul de desfășurare">
@@ -87,3 +83,4 @@
 <!ENTITY  statusText.label            "Terminat">
 
 <!ENTITY popupIcon.tooltiptext      "Unblock this site's popups">
+

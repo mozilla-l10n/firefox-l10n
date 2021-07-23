@@ -220,6 +220,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Sigur vrei să ștergi aceste excepții ale serverelor?
 delete-ssl-cert-impact = Dacă ștergi o excepție de server, restaurezi controalele uzuale de securitate pentru acel server și îi impui să folosească un certificat valid.
 
+
 delete-ca-cert-title =
     .title = Șterge sau anulează încrederea certificatelor AC
 delete-ca-cert-confirm = Ai cerut ștergerea acestor certificate AC. Pentru certificatele incluse, toate încrederile acordate vor fi eliminate, lucru ce are același efect. Sigur vrei să ștergi sau să elimini încrederea?
@@ -281,6 +282,8 @@ cert-not-verified-unknown = Nu se poate verifica acest certificat din motive nec
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Nu trimite niciun certificat de client
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

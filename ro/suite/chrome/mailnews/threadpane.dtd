@@ -37,24 +37,3 @@
 <!ENTITY locationColumn.label "Locul de desfășurare">
 <!ENTITY idColumn.label "Ordine de primire">
 
-<!--Tooltips-->
-<!ENTITY columnChooser.tooltip "Clic pentru a selecta coloanele de afișat">
-<!ENTITY threadColumn.tooltip "Clic pentru a grupa mesajele în conversații"> 
-<!ENTITY fromColumn.tooltip "Clic pentru sortare după expeditor">
-<!ENTITY recipientColumn.tooltip "Clic pentru a sorta după destinatar">
-<!ENTITY attachmentColumn.tooltip "Clic pentru a sorta după anexe">
-<!ENTITY subjectColumn.tooltip "Clic pentru a sorta după subiect">
-<!ENTITY dateColumn.tooltip "Clic pentru a sorta după dată">
-<!ENTITY priorityColumn.tooltip "Clic pentru a sorta după prioritate">
-<!ENTITY tagsColumn.tooltip "Clic pentru a sorta după etichete">
-<!ENTITY accountColumn.tooltip "Clic pentru a sorta după cont">
-<!ENTITY statusColumn.tooltip "Clic pentru a sorta după stare">
-<!ENTITY sizeColumn.tooltip "Apăsați pentru a sorta după mărime">
-<!ENTITY junkStatusColumn.tooltip "Clic pentru a sorta după statutul de spam">
-<!ENTITY unreadColumn.tooltip "Numărul de mesaje necitite din conversație">
-<!ENTITY totalColumn.tooltip "Numărul total de mesaje din conversație">
-<!ENTITY readColumn.tooltip "Clic pentru a sorta după citire">
-<!ENTITY receivedColumn.tooltip "Clic pentru sortare după data primirii">
-<!ENTITY flagColumn.tooltip "Click to sort by flag">
-<!ENTITY locationColumn.tooltip "Clic pentru a sorta după amplasare">
-<!ENTITY idColumn.tooltip "Clic pentru a sorta după ordinea în care au fost primite">

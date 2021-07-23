@@ -57,7 +57,6 @@
 <!ENTITY deleteOnServer2.accesskey "P">
 <!ENTITY downloadOnBiff.label "Descarcă automat mesajele noi">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Numele dumneavoastră de login">
 <!ENTITY deleteMessagePrefix.label "Când șterg un mesaj:">
 <!ENTITY modelMoveToTrash.label "Mută-l în coșul de gunoi">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -83,16 +82,16 @@
 <!ENTITY alwaysAuthenticate.label "Solicită întotdeauna autentificare la conectarea la acest server">
 <!ENTITY alwaysAuthenticate.accesskey "S">
 <!ENTITY newsrcFilePath.label "Fișier newsrc:">
-<!ENTITY localPath.label "Director local:">
+<!ENTITY newsrcPicker.label "Selectați fișierul newsrc">
 <!ENTITY abbreviate.label "Arată numele grupurilor de discuții în panoul cu dosare ca:">
 <!ENTITY abbreviateOn.label "Nume complete (ex: „netscape.public.mozilla.mail-news”)">
 <!ENTITY abbreviateOff.label "Nume abreviate (ex: „n.p.m.mail-news”)">
 <!ENTITY advancedButton.label "Avansat…">
-<!ENTITY serverDefaultCharset.label "Codare caractere implicită:">
 <!ENTITY advancedButton.accesskey "v">
+<!ENTITY localPath.label "Director local:">
 <!ENTITY localFolderPicker.label "Alegeți directorul local">
 <!ENTITY browseFolder.label "Răsfoiește...">
 <!ENTITY browseFolder.accesskey "R">
-<!ENTITY newsrcPicker.label "Selectați fișierul newsrc">
 <!ENTITY browseNewsrc.label "Răsfoiește...">
 <!ENTITY browseNewsrc.accesskey "e">
+

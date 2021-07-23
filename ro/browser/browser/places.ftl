@@ -23,6 +23,7 @@ places-open-window =
 places-open-private-window =
     .label = Deschide într-o fereastră privată nouă
     .accesskey = p
+
 places-new-bookmark =
     .label = Marcaj nou…
     .accesskey = B
@@ -35,12 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = Separator nou
     .accesskey = S
+
 places-open-in-window =
     .label = Deschide într-o fereastră nouă
     .accesskey = N
 places-open-in-private-window =
     .label = Deschide într-o fereastră privată nouă
     .accesskey = P
+
 places-add-bookmark =
     .label = Adaugă un marcaj…
     .accesskey = B
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = Adaugă un separator
     .accesskey = S
+
 places-view =
     .label = Vizualizare
     .accesskey = V
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = După dată și site
     .accesskey = t
+
 places-history-search =
     .placeholder = Caută în istoric
 places-bookmarks-search =
     .placeholder = Caută marcaje
+
 places-delete-domain-data =
     .label = Uită totul despre acest site
     .accesskey = d
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = Proprietăți
     .accesskey = i
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Editează marcajul…
@@ -103,15 +110,18 @@ places-remove-folder =
            *[other] Elimină dosarele
         }
     .accesskey = m
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcaje gestionate
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subdosar
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Alte marcaje
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -123,6 +133,7 @@ places-remove-bookmark =
            *[other] Elimină marcajele
         }
     .accesskey = e
+
 places-manage-bookmarks =
     .label = Gestionează marcajele
     .accesskey = M

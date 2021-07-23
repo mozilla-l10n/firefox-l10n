@@ -15,6 +15,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+
 <!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
 <!ENTITY pref.applications.title "Ajutorul Pentru Aplicații">
 
@@ -25,3 +26,4 @@
 <!ENTITY actionColumn2.accesskey "a">
 
 <!ENTITY search.placeholder      "Search Types and Actions">
+

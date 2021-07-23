@@ -4,3 +4,4 @@
 
 notification-learnmore-default-label =
     .value = Află mai multe
+

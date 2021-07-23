@@ -39,3 +39,6 @@ about-rights-notification-text = { -brand-short-name } este un software liber ș
 repair-text-encoding-button =
     .label = Repară codarea de text
     .tooltiptext = Determină codarea de text corectă din conținutul mesajului
+
+## no-reply handling
+

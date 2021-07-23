@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Reîmprospătează { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Reîmprospătează { -brand-short-name }
 refresh-profile-description = Începe un profil proaspăt pentru a remedia problemele și a restaura performanța.
