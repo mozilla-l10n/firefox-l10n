@@ -11,21 +11,13 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = 새로운 { -brand-short-name }를 만나보세요
 upgrade-dialog-new-subtitle = 원하는 곳으로 더 빨리 이동할 수 있도록 설계됨
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
-# style to be automatically added to the text inside it. { -brand-short-name }
-# should stay inside the span.
-upgrade-dialog-new-alt-subtitle = 클릭 한 번으로 <span data-l10n-name="zap">{ -brand-short-name }</span> 시작
 upgrade-dialog-new-item-menu-title = 간소화된 도구 모음 및 메뉴
 upgrade-dialog-new-item-menu-description = 중요한 것에 우선순위를 두어서 필요한 것을 찾을 수 있도록 합니다.
 upgrade-dialog-new-item-tabs-title = 현대적인 탭
 upgrade-dialog-new-item-tabs-description = 정보를 깔끔하게 포함하여 초점과 유연한 움직임을 지원합니다.
 upgrade-dialog-new-item-icons-title = 새로운 아이콘 및 명확한 메시지
 upgrade-dialog-new-item-icons-description = 가벼운 터치로 길을 찾을 수 있도록 도와줍니다.
-upgrade-dialog-new-primary-primary-button = { -brand-short-name }를 기본 브라우저로 설정
-    .title = { -brand-short-name }를 기본 브라우저로 설정하고 작업 표시줄에 고정
 upgrade-dialog-new-primary-default-button = { -brand-short-name }를 기본 브라우저로 설정
-upgrade-dialog-new-primary-pin-button = { -brand-short-name }를 작업 표시줄에 고정
-upgrade-dialog-new-primary-pin-alt-button = 작업 표시줄에 고정
 upgrade-dialog-new-primary-theme-button = 테마 선택
 upgrade-dialog-new-secondary-button = 나중에
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -61,10 +53,6 @@ upgrade-dialog-pin-secondary-button = 나중에
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = { -brand-short-name }를 기본 브라우저로 설정하시겠습니까?
-upgrade-dialog-default-subtitle = 탐색할 때 속도, 안전 및 개인 정보 보호 기능이 제공됩니다.
-upgrade-dialog-default-primary-button = 기본 브라우저로 설정
-# This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = { -brand-short-name }를 기본 브라우저로 설정
 upgrade-dialog-default-subtitle-2 = 탐색할 때 속도, 안전 및 개인 정보 보호 기능이 제공됩니다.
 upgrade-dialog-default-primary-button-2 = 기본 브라우저로 설정
@@ -72,10 +60,6 @@ upgrade-dialog-default-secondary-button = 나중에
 
 ## Theme selection screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title =
-    업데이트된 테마로
-    산뜻하게 시작
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title-2 = 선명한 테마로 산뜻하게 시작
 upgrade-dialog-theme-system = 시스템 테마

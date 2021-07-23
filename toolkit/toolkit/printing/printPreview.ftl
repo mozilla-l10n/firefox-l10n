@@ -38,6 +38,7 @@ printpreview-page-setup =
 printpreview-page =
     .value = 페이지:
     .accesskey = a
+
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -61,6 +62,7 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = 마지막 페이지
+
 printpreview-homearrow-button =
     .title = 첫 페이지
 printpreview-previousarrow-button =

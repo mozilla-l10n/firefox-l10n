@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "기록">
+
 <!ENTITY historyUndoMenu.label "최근에 닫은 탭">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "최근에 닫은 창">
@@ -155,6 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "기록 탐색창 보기">
 <!ENTITY appMenuHistory.hideSidebar.label "기록 탐색창 숨기기">
 <!ENTITY appMenuHistory.recentHistory.label "최근 기록">
+
 <!ENTITY appMenuHelp.label "도움말">
 
 <!ENTITY appMenuRemoteTabs.label "동기화된 탭">

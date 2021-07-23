@@ -4,3 +4,4 @@
 
 account-settingsTitle = 인증 설정
 account-channelTitle = 기본 채널
+

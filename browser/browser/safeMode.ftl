@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = 안전 모드로 시작
+
 troubleshoot-mode-window =
     .title = { -brand-short-name }를 문제 해결 모드로 여시겠습니까?
     .style = max-width: 400px

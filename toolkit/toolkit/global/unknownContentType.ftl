@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = { -brand-short-name }로 열기
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
