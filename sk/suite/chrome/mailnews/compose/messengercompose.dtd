@@ -51,6 +51,7 @@
 <!ENTITY editRewrapCmd.label "Zalomiť znovu">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "m">
+
 <!ENTITY accountManagerCmd.label "Nastavenia účtov pre Poštu a diskusné skupiny…">
 <!ENTITY accountManagerCmd.accesskey "N">
 

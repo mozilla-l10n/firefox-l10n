@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Informácie o autorite
 certificate-viewer-certificate-policies = Pravidlá certifikátu
 certificate-viewer-embedded-scts = Vstavané SCTs
 certificate-viewer-crl-endpoints = CRL koncové body
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Stiahnuť
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (certifikát)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (reťazec)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Toto rozšírenie certifikátu bolo označené ako kritické, čo znamená, že klienti musia certifikát odmietnuť, ak mu nerozumejú.

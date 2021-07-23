@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Otvoriť v aplikácii { -brand-short-name }
     .accesskey = o
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

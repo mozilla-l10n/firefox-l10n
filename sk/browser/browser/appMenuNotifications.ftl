@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ok, rozumiem
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Spravujte svoje doplnky kliknutím na <image data-l10n-name='addon-install-icon'></image> v ponuke <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Je dostupná aktualizácia
     .buttonlabel = Stiahnuť
@@ -71,6 +72,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Teraz nie
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = K dispozícii je nová aktualizácia aplikácie { -brand-shorter-name }, ale nemôže byť nainštalovaná, pretože je spustená ďalšia kópia aplikácie { -brand-shorter-name }. Pre spustenie aktualizácie túto kópiu ukončite alebo spustenie aktualizácie vynúťte (spustená aplikácia môže prestať správne fungovať, dokým ju nereštartujete).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
@@ -78,6 +80,7 @@ appmenu-addon-post-install-message3 = Spravujte svoje doplnky a témy prostredn�
 appmenu-addon-post-install-incognito-checkbox =
     .label = Povoliť toto rozšírenie v súkromných oknách
     .accesskey = P
+    
 appmenu-new-tab-controlled =
     .label = Vaša stránka novej karty bola zmenená.
     .buttonlabel = Zachovať zmeny
@@ -90,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = Z
     .secondarybuttonlabel = Zakázať rozšírenie
     .secondarybuttonaccesskey = Z
+
 appmenu-new-tab-controlled-changes =
     .label = Vaša stránka novej karty bola zmenená.
     .buttonlabel = Ponechať zmeny

@@ -43,6 +43,7 @@ compatibility-issue-occurrences =
         [few] { $number } výskyty
        *[other] { $number } výskytov
     }
+
 compatibility-no-issues-found = Nenašli sa žiadne problémy s kompatibilitou.
 compatibility-close-settings-button =
     .title = Zavrieť nastavenia

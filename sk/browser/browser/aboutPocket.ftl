@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Pridať značky
+
 pocket-panel-saved-error-generic = Počas ukladania údajov do služby { -pocket-brand-name } sa vyskytla chyba.
 pocket-panel-saved-error-tag-length = Značky môžu obsahovať najviac 25 znakov
 pocket-panel-saved-error-only-links = Uložené môžu byť len odkazy

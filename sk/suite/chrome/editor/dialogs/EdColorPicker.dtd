@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Farba">
 <!ENTITY lastPickedColor.label "Naposledy vybraná farba">
 <!ENTITY lastPickedColor.accessKey "N">
-<!ENTITY setColor1.label "Kliknite na farbu alebo">
-<!ENTITY setColor2.label "zadajte reťazec farby HTML">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "Vyberte farbu:">
 <!ENTITY chooseColor2.label "Zadajte reťazec farby HTML">
 <!ENTITY chooseColor2.accessKey "H">

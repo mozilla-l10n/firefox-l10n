@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Predvolený ({ $name })
 fonts-label-default-unnamed =
     .label = Predvolený
+
 fonts-encoding-dialog-title =
     .title = Písma a kódovanie
+
 fonts-language-legend =
     .value = Písma pre:
     .accesskey = m
+
 fonts-proportional-label =
     .value = S premenlivou šírkou:
     .accesskey = S
@@ -85,38 +89,49 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Pätkové (serif)
+
 default-font-sans-serif =
     .label = Bezpätkové (sans-serif)
+
 font-size-label =
     .value = Veľkosť:
     .accesskey = V
+
 font-size-proportional-label =
     .value = Veľkosť:
     .accesskey = V
+
 font-size-monospace-label =
     .value = Veľkosť:
     .accesskey = e
+
 font-serif-label =
     .value = Pätkové (serif):
     .accesskey = t
+
 font-sans-serif-label =
     .value = Bezpätkové (sans-serif):
     .accesskey = B
+
 font-monospace-label =
     .value = Pevná šírka:
     .accesskey = r
+
 font-min-size-label =
     .value = Minimálna veľkosť písma:
     .accesskey = o
+
 min-size-none =
     .label = Žiadne
 
 ## Fonts in message
 
 font-control-legend = Nastavenia písma
+
 use-document-fonts-checkbox =
     .label = Povoliť správam používať iné písma
     .accesskey = a
+
 use-fixed-width-plain-checkbox =
     .label = Pre správy vo formáte čistý text použiť písmo s pevnou šírkou
     .accesskey = P
@@ -124,13 +139,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Kódovanie textu
+
 text-encoding-description = Nastaviť predvolené kódovanie textu pre prichádzajúcu a odosielanú poštu
+
 font-outgoing-email-label =
     .value = Odosielaná pošta:
     .accesskey = d
+
 font-incoming-email-label =
     .value = Doručená pošta:
     .accesskey = u
+
 default-font-reply-checkbox =
     .label = Ak je to možné, v odpovediach používať predvolené kódovanie textu
     .accesskey = n

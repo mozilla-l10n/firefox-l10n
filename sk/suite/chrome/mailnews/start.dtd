@@ -20,11 +20,6 @@
 "Úzka integrácia s balíkom aplikácií &brandShortName;">
 <!ENTITY dict.title "Slovníky">
 <!ENTITY dict_intro.label "Slovníky sa používajú na kontrolu pravopisu vo vašich správach.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label
-'Slovníky nájdete v sekcii
-<a id="dictURL" href="">Slovníky</a> na serveri
-<a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
 <!ENTITY dict_info.label2
 'Slovníky nájdete v sekcii
 <a id="dictURL" href="">Slovníky</a> na stránke

@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Pri pripájaní k { $hostname } sa vyskytla chyba. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kód chyby: { $error }
+
 psmerr-ssl-disabled = Nie je možné bezpečne sa pripojiť, pretože protokol SSL je zakázaný.
 psmerr-ssl2-disabled = Nie je možné bezpečne sa pripojiť, pretože server používa staršiu a nie veľmi bezpečnú verziu protokolu SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Prijali ste neplatný certifikát. Obráťte sa na správcu servera alebo odosielateľa e-mailovej správy a poskytnite im tieto informácie:
     
     Váš certifikát obsahuje rovnaké sériové číslo ako iný certifikát vydaný certifikačnou autoritou. Je potrebné získať nový certifikát obsahujúci jedinečné sériové číslo.
+
 ssl-error-export-only-server = Nie je možné bezpečne sa pripojiť. Partner nepodporuje prvotriedne šifrovanie.
 ssl-error-us-only-server = Nie je možné bezpečne komunikovať. Partner vyžaduje prvotriedne šifrovanie, ktoré nie je podporované.
 ssl-error-no-cypher-overlap = S partnerom nie je možné bezpečne komunikovať: žiadny spoločný šifrovací algoritmus.

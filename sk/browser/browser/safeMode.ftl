@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Spustiť v núdzovom režime
+
 troubleshoot-mode-window =
     .title = Chcete aplikáciu { -brand-short-name } otvoriť v režime riešenia problémov?
     .style = max-width: 400px
@@ -15,9 +16,9 @@ start-troubleshoot-mode =
 refresh-profile =
     .label = Obnoviť { -brand-short-name }
 safe-mode-description = Núdzový režim je špeciálny režim prehliadača { -brand-short-name }, ktorý slúži na riešenie problémov s programom.
-troubleshoot-mode-description = Tento režim aplikácie { -brand-short-name } vám pomôže s riešením problémov. Vaše rozšírenia a úpravy budú dočasne vypnuté.
 safe-mode-description-details = Vaše doplnky a vlastné nastavenia budú dočasne zakázané a funkcie aplikácie { -brand-short-name } nemusia fungovať ako doteraz.
 refresh-profile-instead = Núdzový režim môžete preskočiť a skúsiť obnovenie prehliadača { -brand-short-name } do pôvodných nastavení.
+troubleshoot-mode-description = Tento režim aplikácie { -brand-short-name } vám pomôže s riešením problémov. Vaše rozšírenia a úpravy budú dočasne vypnuté.
 skip-troubleshoot-refresh-profile = Tento režim môžete preskočiť a skúsiť obnovenie prehliadača { -brand-short-name } do pôvodných nastavení.
 # Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } bol počas spúšťania neočakávane ukončený. Toto môže byť spôsobené doplnkami alebo nastaveniami. Problém sa môžete pokúsiť vyriešiť spustením prehliadača v Núdzovom režime.

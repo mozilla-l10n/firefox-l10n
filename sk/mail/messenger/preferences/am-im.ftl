@@ -4,5 +4,6 @@
 
 account-settingsTitle = Nastavenia overenia
 account-channelTitle = Predvolené kanály
+
 account-settings-title = Nastavenia overenia
 account-channel-title = Predvolené kanály

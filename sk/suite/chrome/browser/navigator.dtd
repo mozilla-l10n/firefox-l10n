@@ -58,10 +58,6 @@
 <!ENTITY printButton.label            "Tlačiť">
 <!ENTITY printButton.tooltip          "Vytlačiť túto stránku">
 
-<!ENTITY throbber.tooltip             "Prejsť na domovskú stránku &vendorShortName;">
-
-<!ENTITY throbber.tooltip2            "Prejsť na domovskú stránku &brandShortName;">
-
 <!ENTITY locationBar.tooltip          "Zadajte výraz vyhľadávania, kľúčové slovo alebo webovú adresu">
 <!ENTITY locationBar.accesskey        "t">
 <!ENTITY locationBar.title            "Umiestnenie">

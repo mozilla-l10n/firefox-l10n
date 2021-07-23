@@ -19,7 +19,6 @@
 
 <!ENTITY responsiveDesignTool.label      "Režim responzívneho dizajnu">
 <!ENTITY responsiveDesignTool.accesskey  "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label                "Kvapkadlo">
 <!ENTITY eyedropper.accesskey            "d">

@@ -10,13 +10,16 @@ containers-window-new =
 containers-window-update =
     .title = Nastavenia kontajnera { $name }
     .style = width: 45em
+
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = Nastavenia kontajnera { $name }
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -27,23 +30,30 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Názov
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Zadajte názov kontajnera
+
 containers-icon-label = Ikona
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Farba
     .accesskey = a
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = Hotovo
     .accesskey = H
+
 containers-dialog =
     .buttonlabelaccept = Hotovo
     .buttonaccesskeyaccept = H
+
 containers-color-blue =
     .label = Modrá
 containers-color-turquoise =
@@ -62,6 +72,7 @@ containers-color-purple =
     .label = Fialová
 containers-color-toolbar =
     .label = Ako panel nástrojov
+
 containers-icon-fence =
     .label = Plot
 containers-icon-fingerprint =

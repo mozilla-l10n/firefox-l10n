@@ -11,21 +11,13 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Víta vás nový { -brand-short-name }
 upgrade-dialog-new-subtitle = Navrhnutý tak, aby ste sa rýchlejšie dostali tam, kam chcete
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
-# style to be automatically added to the text inside it. { -brand-short-name }
-# should stay inside the span.
-upgrade-dialog-new-alt-subtitle = Len niekoľko kliknutí a môžete <span data-l10n-name="zap">{ -brand-short-name }</span> používať
 upgrade-dialog-new-item-menu-title = Zjednodušené ponuky a panely s nástrojmi
 upgrade-dialog-new-item-menu-description = Uprednostňuje dôležité veci, aby ste našli to, čo potrebujete.
 upgrade-dialog-new-item-tabs-title = Moderné karty
 upgrade-dialog-new-item-tabs-description = Úhľadne obsahujú informácie, podporujúc vaše sústredenie a flexibilný pohyb.
 upgrade-dialog-new-item-icons-title = Nové ikony a jasnejšie správy
 upgrade-dialog-new-item-icons-description = Pomôžu vám nájsť cestu bez odvádzania pozornosti.
-upgrade-dialog-new-primary-primary-button = Nastaviť { -brand-short-name } ako môj hlavný prehliadač
-    .title = Nastaví { -brand-short-name } ako predvolený prehliadač a pripne ho na hlavný panel úloh
 upgrade-dialog-new-primary-default-button = Nastaviť { -brand-short-name } ako môj predvolený prehliadač
-upgrade-dialog-new-primary-pin-button = Pripnúť { -brand-short-name } na hlavný panel úloh
-upgrade-dialog-new-primary-pin-alt-button = Pripnúť na panel úloh
 upgrade-dialog-new-primary-theme-button = Vyberte si tému vzhľadu
 upgrade-dialog-new-secondary-button = Teraz nie
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -61,10 +53,6 @@ upgrade-dialog-pin-secondary-button = Teraz nie
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = Nastaviť { -brand-short-name } ako predvolený prehliadač?
-upgrade-dialog-default-subtitle = Získajte rýchlosť, bezpečnosť a súkromie pri každom prehliadaní.
-upgrade-dialog-default-primary-button = Nastaviť ako predvolený prehliadač
-# This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Nastaviť { -brand-short-name } ako predvolený prehliadač
 upgrade-dialog-default-subtitle-2 = Rýchlosť, bezpečnosť a súkromie na prvom mieste.
 upgrade-dialog-default-primary-button-2 = Nastaviť ako predvolený prehliadač
@@ -72,10 +60,6 @@ upgrade-dialog-default-secondary-button = Teraz nie
 
 ## Theme selection screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title =
-    Doprajte si nový začiatok
-    s aktualizovanou témou
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title-2 = Začnite s novým čistým vzhľadom
 upgrade-dialog-theme-system = Systémová téma vzhľadu

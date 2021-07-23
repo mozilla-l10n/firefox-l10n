@@ -33,16 +33,19 @@ onboarding-welcome-modal-supercharge-body = Silná ochrana súkromia.
 onboarding-welcome-modal-privacy-body = Prehliadač už máte. Pridajme k nemu ešte ochranu súkromia.
 onboarding-welcome-modal-family-learn-more = Zistite viac o celej rodine produktov { -brand-product-name }.
 onboarding-welcome-form-header = Začať
+
 onboarding-join-form-body = Začnite uvedením svojej e-mailovej adresy.
 onboarding-join-form-email =
     .placeholder = Zadajte e-mailovú adresu
 onboarding-join-form-email-error = Vyžaduje sa platná e-mailová adresa
 onboarding-join-form-legal = Pokračovaním vyjadrujete súhlas s <a data-l10n-name="terms">podmienkami používania služby</a> a so <a data-l10n-name="privacy">zásadami ochrany súkromia</a>.
 onboarding-join-form-continue = Pokračovať
+
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Máte už účet?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Prihláste sa
+
 onboarding-start-browsing-button-label = Začať prehliadať
 onboarding-cards-dismiss =
     .title = Skryť
@@ -59,8 +62,10 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Vezmite si { -brand-product-name } so sebou
 onboarding-sync-welcome-content = Majte svoje záložky, históriu, heslá a ostatné nastavenia na všetkých vašich zariadeniach.
 onboarding-sync-welcome-learn-more-link = Ďalšie informácie o účtoch Firefox
+
 onboarding-sync-form-input =
     .placeholder = E-mail
+
 onboarding-sync-form-continue-button = Pokračovať
 onboarding-sync-form-skip-login-button = Preskočiť tento krok
 
@@ -69,22 +74,28 @@ onboarding-sync-form-skip-login-button = Preskočiť tento krok
 onboarding-sync-form-header = Zadajte e-mailovú adresu
 onboarding-sync-form-sub-header = a používajte službu { -sync-brand-name }.
 
+
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
 onboarding-benefit-products-text = Používajte nástroje, ktoré rešpektujú vaše súkromie a fungujú na všetkých zariadeniach.
+
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Zaväzujeme sa, že nezneužijeme vaše údaje. Menej dát je niekedy viac. Udržiavame ich v bezpečí a nemáme pred vami žiadne tajomstvá.
+
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Vezmite si svoje záložky, heslá, históriu a ďalšie údaje všade, kde používate { -brand-product-name }.
+
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Pošleme vám upozornenie vždy, keď sa vaše údaje objavia v úniku dát.
+
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Spravujte si heslá bezpečne aj na cestách.
+
 
 ## These strings belong to the individual onboarding messages.
 
@@ -96,41 +107,52 @@ onboarding-benefit-lockwise-text = Spravujte si heslá bezpečne aj na cestách.
 onboarding-tracking-protection-title2 = Ochrana pred sledovaním
 onboarding-tracking-protection-text2 = { -brand-short-name } vám pomôže zastaviť sledovanie webovými stránkami a reklamami.
 onboarding-tracking-protection-button2 = Ako to funguje
+
 onboarding-data-sync-title = Vezmite si svoje nastavenia so sebou
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Synchronizujte svoje záložky, heslá a ďalšie údaje všade, kde používate { -brand-product-name }.
 onboarding-data-sync-button2 = Prihláste sa do služby { -sync-brand-short-name }
+
 onboarding-firefox-monitor-title = Nechajte sa informovať o únikoch údajov
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } sleduje, či sa vaša e-mailová adresa neobjavila v nejakom úniku dát a dá vám vedieť, ak ju v nejakom nájde.
 onboarding-firefox-monitor-button = Prihláste sa na odber upozornení
+
 onboarding-browse-privately-title = Súkromné prehliadanie
 onboarding-browse-privately-text = Súkromné prehliadanie odstráni vašu históriu prehliadania a uchová vaše tajomstvá pred ostatnými používateľmi vášho počítača.
 onboarding-browse-privately-button = Otvoriť súkromné okno
+
 onboarding-firefox-send-title = Udržujte svoje zdieľané súbory v súkromí
 onboarding-firefox-send-text2 = Zdieľajte svoje súbory prostredníctvom služby { -send-brand-name }, ktorá ich chráni pomocou end-to-end šifrovania a odkazov, ktorých platnosť automaticky vyprší.
 onboarding-firefox-send-button = Vyskúšajte { -send-brand-name }
+
 onboarding-mobile-phone-title = Nainštalujte si { -brand-product-name } do svojho telefónu
 onboarding-mobile-phone-text = Stiahnite si { -brand-product-name } pre iOS a Android a zosynchronizujte svoje údaje medzi zariadeniami.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Stiahnuť mobilný prehliadač
+
 onboarding-send-tabs-title = Odosielajte si karty medzi zariadeniami
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text2 = Zdieľajte a posielajte stránky medzi svojimi zariadeniami. Nemusíte kopírovať žiadne odkazy ani opúšťať prehliadač.
 onboarding-send-tabs-button = Začnite s odosielaním kariet
+
 onboarding-pocket-anywhere-title = Čítajte a počúvajte kdekoľvek
 onboarding-pocket-anywhere-text2 = Uložte si svoj obľúbený obsah offline s aplikáciou { -pocket-brand-name } a čítajte či počúvajte kedykoľvek.
 onboarding-pocket-anywhere-button = Vyskúšajte { -pocket-brand-name }
+
 onboarding-lockwise-strong-passwords-title = Tvorba silných hesiel
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } vám okamžite vygeneruje silné heslá a uloží ich bezpečne na jednom mieste.
 onboarding-lockwise-strong-passwords-button = Správa prihlasovacích údajov
+
 onboarding-facebook-container-title = Stanovte hranice pre Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } oddeľuje váš účet od zvyšku internetu, takže pre Facebook a jeho reklamy je zložité vás na internete vysledovať.
 onboarding-facebook-container-button = Pridať rozšírenie
+
 onboarding-import-browser-settings-title = Importujte svoje záložky, heslá a ďalšie údaje
 onboarding-import-browser-settings-text = Poďme na to - jednoduchý prenos obľúbených stránok a nastavení z Chromu.
 onboarding-import-browser-settings-button = Import údajov z prehliadača Chrome
+
 onboarding-personal-data-promise-title = Súkromie už v návrhu
 onboarding-personal-data-promise-text = { -brand-product-name } chráni vaše súkromie, rešpektuje a chráni vaše údaje a jasne hovorí, ako ich používa.
 onboarding-personal-data-promise-button = Prečítajte si náš sľub
@@ -138,6 +160,7 @@ onboarding-personal-data-promise-button = Prečítajte si náš sľub
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Skvelé, odteraz máte { -brand-short-name }
+
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:
@@ -166,12 +189,14 @@ onboarding-multistage-welcome-subtitle = Rýchly a bezpečný prehliadač, ktor�
 onboarding-multistage-welcome-primary-button-label = Začať nastavenie
 onboarding-multistage-welcome-secondary-button-label = Prihlásiť sa
 onboarding-multistage-welcome-secondary-button-text = Už máte účet?
+
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = Nastavte si { -brand-short-name } ako <span data-l10n-name="zap">predvolený prehliadač</span>
 onboarding-multistage-set-default-subtitle = Rýchlosť, bezpečnosť a súkromie.
 onboarding-multistage-set-default-primary-button-label = Nastaviť ako predvolený
 onboarding-multistage-set-default-secondary-button-label = Teraz nie
+
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-pin-default-header = Len niekoľko kliknutí a môžete <span data-l10n-name="zap">{ -brand-short-name }</span> používať
@@ -181,29 +206,35 @@ onboarding-multistage-pin-default-waiting-subtitle = Po otvorení nastavení ná
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Týmto pripnete { -brand-short-name } na paneli úloh a otvoríte nastavenia
 onboarding-multistage-pin-default-primary-button-label = Nastavte si { -brand-short-name } ako predvolený prehliadač
+
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importujte svoje heslá, záložky a <span data-l10n-name="zap">ďalšie položky</span>
 onboarding-multistage-import-subtitle = Prechádzate z iného prehliadača? Všetko si môžete do { -brand-short-name(case: "gen") } jednoducho preniesť.
 onboarding-multistage-import-primary-button-label = Importovať
 onboarding-multistage-import-secondary-button-label = Teraz nie
+
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Tieto stránky boli nájdené na tomto zariadení. { -brand-short-name } neukladá ani nesynchronizuje údaje z iných prehliadačov ak si ich neimportujete.
+
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = Začíname: stránka { $current } z { $total }
+
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Vyberte si <span data-l10n-name="zap">vzhľad</span>
 onboarding-multistage-theme-subtitle = Prispôsobte si { -brand-short-name }.
 onboarding-multistage-theme-primary-button-label2 = Hotovo
 onboarding-multistage-theme-secondary-button-label = Teraz nie
+
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatický
+
 onboarding-multistage-theme-label-light = Svetlý
 onboarding-multistage-theme-label-dark = Tmavý
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -217,24 +248,31 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title = Použije vzhľad tlačidiel, ponúk a okien podľa nastavenia vášho operačného systému.
+
 # Input description for automatic theme
 onboarding-multistage-theme-description-automatic-2 =
     .aria-description = Použije vzhľad tlačidiel, ponúk a okien podľa nastavenia vášho operačného systému.
+
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light-2 =
     .title = Použije svetlý vzhľad tlačidiel, ponúk a okien.
+
 # Input description for light theme
 onboarding-multistage-theme-description-light =
     .aria-description = Použije svetlý vzhľad tlačidiel, ponúk a okien.
+
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark-2 =
     .title = Použije tmavý vzhľad tlačidiel, ponúk a okien.
+
 # Input description for dark theme
 onboarding-multistage-theme-description-dark =
     .aria-description = Použije tmavý vzhľad tlačidiel, ponúk a okien.
+
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
     .title = Použije farebný vzhľad tlačidiel, ponúk a okien.
+
 # Input description for Alpenglow theme
 onboarding-multistage-theme-description-alpenglow =
     .aria-description = Použije farebný vzhľad tlačidiel, ponúk a okien.
@@ -249,11 +287,13 @@ onboarding-multistage-theme-description-alpenglow =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Všetko začína tu
+
 # Caption for background image in about:welcome. "Soraya Osorio" is the name
 # of the person and shouldn't be translated.
 # In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
 # You can see the picture in about:welcome in Nightly 90.
 mr1-onboarding-welcome-image-caption = Soraya Osorio - návrhárka nábytku, fanúšička Firefoxu
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Vypnúť animácie
 
@@ -279,9 +319,11 @@ mr1-onboarding-pin-primary-button-label =
 # This string will be used on welcome page primary button label
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Začíname
+
 mr1-onboarding-welcome-header = Víta vás { -brand-short-name }
 mr1-onboarding-set-default-pin-primary-button-label = Nastaviť { -brand-short-name } ako môj hlavný prehliadač
     .title = Nastaví { -brand-short-name } ako predvolený prehliadač a pripne ho na panel úloh
+
 # This string will be used on welcome page primary button label
 # when Firefox is not default but already pinned
 mr1-onboarding-set-default-only-primary-button-label = Nastaviť { -brand-short-name } ako môj predvolený prehliadač
@@ -299,19 +341,24 @@ mr1-onboarding-default-primary-button-label = Nastaviť ako predvolený prehliad
 
 mr1-onboarding-import-header = Prineste si všetko so sebou
 mr1-onboarding-import-subtitle = Importujte svoje heslá, <br/> záložky a ďalšie položky.
+
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importovať z prehliadača { $previous }
+
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importovať z predchádzajúceho prehliadača
 mr1-onboarding-import-secondary-button-label = Teraz nie
+
 mr1-onboarding-theme-header = Prispôsobte si ho podľa seba
 mr1-onboarding-theme-subtitle = Zmeňte vzhľad { -brand-short-name(case: "gen") } pomocou témy vzhľadu.
 mr1-onboarding-theme-primary-button-label = Uložiť tému
 mr1-onboarding-theme-secondary-button-label = Teraz nie
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Systémová téma
+
 mr1-onboarding-theme-label-light = Svetlá
 mr1-onboarding-theme-label-dark = Tmavá
 # "Alpenglow" here is the name of the theme, and should be kept in English.
@@ -327,36 +374,43 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Nasleduje nastavenia operačného systému
         pre tlačidlá, ponuky a okná.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Nasleduje nastavenia operačného systému
         pre tlačidlá, ponuky a okná.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Použije svetlý vzhľad tlačidiel,
         ponúk a okien.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Použije svetlý vzhľad tlačidiel,
         ponúk a okien.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Použije tmavý vzhľad tlačidiel,
         ponúk a okien.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Použije tmavý vzhľad tlačidiel,
         ponúk a okien.
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Použije dynamickú, farebnú tému
         pre tlačidlá, ponuky a okná.
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =

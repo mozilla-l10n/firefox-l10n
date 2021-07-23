@@ -8,12 +8,15 @@
 <!ENTITY newWindowRestriction.label "Keď skript chce otvoriť nové okno:">
 <!ENTITY external.label "Odkazy z iných aplikácií">
 <!ENTITY externalDescription.label "Odkazy z iných aplikácií otvárať:">
+
 <!ENTITY openCurrent.label "V aktuálnej karte/okne">
 <!ENTITY newWindowGroupCurrent.accesskey "V">
 <!ENTITY externalGroupCurrent.accesskey "a">
+
 <!ENTITY openTab.label "Na novej karte v aktuálnom okne">
 <!ENTITY newWindowGroupTab.accesskey "k">
 <!ENTITY externalGroupTab.accesskey "r">
+
 <!ENTITY openWindow.label "V novom okne">
 <!ENTITY newWindowGroupWindow.accesskey "o">
 <!ENTITY externalGroupWindow.accesskey "n">

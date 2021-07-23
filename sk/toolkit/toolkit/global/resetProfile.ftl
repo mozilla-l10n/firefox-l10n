@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Obnovenie prehliadača { -brand-short-name }
+
 refresh-profile-dialog-title = Obnoviť { -brand-short-name } na pôvodné nastavenia?
 refresh-profile-dialog-button =
     .label = Obnoviť { -brand-short-name }
