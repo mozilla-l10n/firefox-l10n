@@ -3,15 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pref.masterpass.title                  "Hovedpassord">
-<!ENTITY  managepassword.caption                 "Tidsavbrudd for hovedpassord">
-<!ENTITY  managepassword.text                    "&brandShortName; vil spørre etter hovedpassordet:">
-<!ENTITY  managepassword.askfirsttime            "Første gang det trengs">
-<!ENTITY  managepassword.askfirsttime.accesskey  "F">
-<!ENTITY  managepassword.askeverytime            "Hver gang det trengs">
-<!ENTITY  managepassword.askeverytime.accesskey  "H">
-<!ENTITY  managepassword.asktimeout              "Dersom det ikke er brukt siden">
-<!ENTITY  managepassword.asktimeout.accesskey    "D">
-<!ENTITY  managepassword.timeout.unit            "minutter eller mer">
 
 <!ENTITY  changepassword.caption                 "Endre hovedpassord">
 <!ENTITY  changepassword.text                    "Hovedpassordet beskytter sensitiv informasjon som f.eks. nettsidepassord og sertifikater.">

@@ -98,8 +98,6 @@
 <!ENTITY newIM.tooltip                                  "Send en direktemelding eller chatt">
 <!ENTITY printButton.tooltip                            "Skriv ut valgt element">
 <!ENTITY deleteItemButton.tooltip                       "Slett valgt element">
-<!ENTITY throbber.tooltip                               "Gå til hjemmesiden til &vendorShortName;">
-<!ENTITY throbber.tooltip2                              "Gå til hjemmesiden til &brandShortName;">
 <!ENTITY advancedButton.tooltip                         "Avansert adressesøk">
 
 <!-- Dir Tree header -->

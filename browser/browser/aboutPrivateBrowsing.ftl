@@ -21,8 +21,10 @@ about-private-browsing-handoff-text = Søk med { $engine } eller skriv inn adres
 about-private-browsing-handoff-text-no-engine = Søk eller skriv inn adresse
 about-private-browsing-not-private = Du er for tiden ikke i et privat vindu.
 about-private-browsing-info-description = { -brand-short-name } fjerner søk- og nettleserhistorikken når du avslutter programmet eller lukker alle private faner og vinduer. Selv om dette ikke gjør deg anonym for nettsteder eller Internett-leverandøren din, vil det gjøre det lettere å beholde det du gjør på nettet privat fra alle andre som bruker denne datamaskinen.
+
 about-private-browsing-need-more-privacy = Trenger du mer personvern?
 about-private-browsing-turn-on-vpn = Prøv { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

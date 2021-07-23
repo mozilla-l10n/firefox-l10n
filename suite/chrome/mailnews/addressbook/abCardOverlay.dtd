@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "Fullt navn:">
 <!ENTITY DisplayName.accesskey          "F">
 <!ENTITY preferDisplayName.label        "Foretrekk alltid visningsnavn istedenfor navnet i meldingshodet">
-<!ENTITY preferDisplayName.accesskey    "A">
 <!ENTITY preferDisplayName2.accesskey   "d">
 <!ENTITY NickName.label                 "Kallenavn:">
 <!ENTITY NickName.accesskey             "K">
@@ -46,8 +45,6 @@
 <!ENTITY PlainText.label                "Ren tekst">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Ukjent">
-<!ENTITY ScreenName.label               "Skjermnavn:">
-<!ENTITY ScreenName.accesskey           "S">
 
 <!ENTITY chatName.label                 "Nettpratnavn:">
 

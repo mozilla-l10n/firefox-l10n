@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "For å spare diskplass, ikke last ned:">
 <!ENTITY doNotDownloadNntp.label "For å spare diskplass, ikke last ned for frakoblet bruk:">
 <!ENTITY doNotDownloadImap.label "For å spare diskplass kan nedlasting av meldinger fra serveren og oppbevaring av lokale kopier for frakoblet bruk begrenses til en bestemt alder eller størrelse.">
-<!ENTITY allFoldersOffline.label "Behold meldinger for denne kontoen på datamaskinen">
-<!ENTITY allFoldersOffline.accesskey "B">
 <!ENTITY allFoldersOffline2.label "Behold meldinger i alle mapper for denne kontoen på denne datamaskinen">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Merk: Endring av dette påvirker alle mapper for denne kontoen. For å angi enkeltmapper, bruk Avansert…-knappen.">

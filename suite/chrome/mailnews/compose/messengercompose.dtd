@@ -51,6 +51,7 @@
 <!ENTITY editRewrapCmd.label "Tekstbrytning">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "B">
+
 <!ENTITY accountManagerCmd.label "Kontoinnstillinger for e-post og temagrupper…">
 <!ENTITY accountManagerCmd.accesskey "K">
 

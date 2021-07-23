@@ -25,9 +25,6 @@ left instead of right. -->
 <!ENTITY uploadFile.label "Last opp fil …">
 <!ENTITY uploadFile.accesskey "F">
 
-<!ENTITY printSetupCmd.label "Utskriftsformat …">
-<!ENTITY printSetupCmd.accesskey "U">
-
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Finn på denne siden …">
 

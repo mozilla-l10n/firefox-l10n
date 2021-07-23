@@ -20,10 +20,3 @@
 <!ENTITY loadNoImagesRadio.accesskey    "I">
 <!ENTITY viewPermissions.label          "Behandle tillatelser">
 <!ENTITY viewPermissions.accesskey      "B">
-<!ENTITY animLoopingTitle.label         "Animerte bilder skal gå i løkke">
-<!ENTITY animLoopAsSpecified.label      "Så mange ganger som bildet angir">
-<!ENTITY animLoopAsSpecified.accesskey  "m">
-<!ENTITY animLoopOnce.label             "En gang">
-<!ENTITY animLoopOnce.accesskey         "E">
-<!ENTITY animLoopNever.label            "Aldri">
-<!ENTITY animLoopNever.accesskey        "A">
