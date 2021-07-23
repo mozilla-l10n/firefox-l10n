@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Ndihmës Importimesh
+
 import-from =
     { PLATFORM() ->
         [windows] Importo Mundësi, Faqerojtës, Historik, Fjalëkalime dhe të dhëna të tjera nga:
        *[other] Importo Parapëlqime, Faqerojtës, Historik, Fjalëkalime dhe të dhëna të tjera prej:
     }
+
 import-from-bookmarks = Importo Faqerojtës nga:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,25 +51,39 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
+
 no-migration-sources = Nuk u gjetën dot programe që përmbajnë faqerojtës, historik apo fjalëkalime.
+
 import-source-page-title = Importo Rregullime dhe Të dhëna
 import-items-page-title = Objekte për Importim
+
 import-items-description = Përzgjidhni cilët objekte të importohen:
+
 import-permissions-page-title = Ju lutemi, jepni lejet { -brand-short-name }-it
+
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS kërkon që të lejoni shprehimisht { -brand-short-name }-in të përdorë faqerojtësit e Safari-it. Klikoni mbi “Vazhdoni” dhe përzgjidhni kartelën “Bookmarks.plist” fte paneli File Open që duket.
+
 import-migrating-page-title = Po importohet…
+
 import-migrating-description = Po importohen objektet vijuese…
+
 import-select-profile-page-title = Përzgjidhni Profil
+
 import-select-profile-description = Është e mundur të importohen profilet vijues:
+
 import-done-page-title = Importim i Plotësuar
+
 import-done-description = Objektet vijuese u importuan me sukses:
+
 import-close-source-browser = Ju lutemi, para se të vazhdohet, sigurohuni që shfletuesi i përzgjedhur të jetë i mbyllur.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Nga { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -79,6 +95,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = Listë Leximesh (Prej Safari-t)
 imported-edge-reading-list = Listë Leximesh (Prej Edge-it)
 
@@ -100,6 +117,7 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -112,10 +130,12 @@ browser-data-history-label =
             [firefox] Historik Shfletimi dhe Faqerojtës
            *[other] Historik Shfletimi
         }
+
 browser-data-formdata-checkbox =
     .label = Historik Formularësh të Ruajtur
 browser-data-formdata-label =
     .value = Historik Formularësh të Ruajtur
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -124,6 +144,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Kredenciale Hyrjesh dhe Fjalëkalime të Ruajtur
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -138,10 +159,12 @@ browser-data-bookmarks-label =
             [edge] Të parapëlqyer
            *[other] Faqerojtës
         }
+
 browser-data-otherdata-checkbox =
     .label = Të dhëna të Tjera
 browser-data-otherdata-label =
     .label = Të dhëna të Tjera
+
 browser-data-session-checkbox =
     .label = Dritare dhe Skeda
 browser-data-session-label =

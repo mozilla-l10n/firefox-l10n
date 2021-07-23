@@ -8,10 +8,6 @@ about-addressbook-title = Libër Adresash
 
 about-addressbook-toolbar-new-address-book =
     .label = Libër i Ri Adresash
-about-addressbook-toolbar-new-carddav-address-book =
-    .label = Libër Adresash vCard i Ri
-about-addressbook-toolbar-new-ldap-address-book =
-    .label = Libër i Ri Adresash LDAP
 about-addressbook-toolbar-new-contact =
     .label = Kontakt i Ri
 about-addressbook-toolbar-new-list =
@@ -20,6 +16,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Krejt Librat e Adresave
+
 about-addressbook-books-context-properties =
     .label = Veti
 about-addressbook-books-context-synchronize =
@@ -37,14 +34,17 @@ about-addressbook-search =
     .placeholder = Kërko për { $name }
 about-addressbook-search-all =
     .placeholder = Kërko në krejt librat e adresave
+
 about-addressbook-sort-button =
     .title = Ndryshoni renditjen e listës
+
 about-addressbook-name-format-display =
     .label = Emër i Shfaqur
 about-addressbook-name-format-firstlast =
     .label = Emër Mbiemër
 about-addressbook-name-format-lastfirst =
     .label = Mbiemër, Emër
+
 about-addressbook-sort-name-ascending =
     .label = Renditi sipas emrash (A > Z)
 about-addressbook-sort-name-descending =
@@ -59,6 +59,7 @@ about-addressbook-sort-email-descending =
 about-addressbook-begin-edit-contact-button = Përpunoni
 about-addressbook-cancel-edit-contact-button = Anuloje
 about-addressbook-save-edit-contact-button = Ruaje
+
 about-addressbook-details-email-addresses-header = Adresa Email
 about-addressbook-details-phone-numbers-header = Numra Telefonash
 about-addressbook-details-home-address-header = Adresë Shtëpie

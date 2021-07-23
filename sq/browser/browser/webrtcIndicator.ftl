@@ -11,6 +11,7 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - Tregues Ndarjeje
+
 webrtc-sharing-window = Po ndani dritare të një aplikacioni tjetër.
 webrtc-sharing-browser-window = Po ndani { -brand-short-name }-in.
 webrtc-sharing-screen = Po ndani krejt ekranin tuaj.
@@ -29,6 +30,7 @@ webrtc-camera-muted =
     .title = Hapeni kameran
 webrtc-minimize =
     .title = Minimizoje treguesin
+
 # This string will display as a tooltip on supported systems where we show
 # device sharing state in the OS notification area. We do not use these strings
 # on macOS, as global menu bar items do not have native tooltips.

@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Provoni Këtë: Fiksoni Skedë
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pse më del kjo?
+
 cfr-doorhanger-extension-cancel-button = Jo Tani
     .accesskey = J
+
 cfr-doorhanger-extension-ok-button = Shtoje Tani
     .accesskey = S
 cfr-doorhanger-pintab-ok-button = Fiksojeni Këtë Skedë
     .accesskey = F
+
 cfr-doorhanger-extension-manage-settings-button = Administroni Rregullimet Mbi Rekomandimet
     .accesskey = A
+
 cfr-doorhanger-extension-never-show-recommendation = Mos Ma Shfaq Këtë Rekomandim
     .accesskey = o
+
 cfr-doorhanger-extension-learn-more-link = Mësoni më tepër
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = nga { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomandim
 cfr-doorhanger-extension-notification2 = Rekomandim
     .tooltiptext = Rekomandim zgjerimi
     .a11y-announcement = Ka gati një rekomandim zgjerimi
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Rekomandim
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } përdorues
        *[other] { $total } përdorues
     }
+
 cfr-doorhanger-pintab-description = Hyni kollaj te sajtet tuaj më të përdorur. Mbajini sajtet hapur në një skedë (madje edhe kur bëni rinisje).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Hyni kollaj te sajtet tuaj më të përdorur
 cfr-doorhanger-pintab-step1 = <b>Djathtasklikoni</b> te skeda që doni të fiksohet.
 cfr-doorhanger-pintab-step2 = Përzgjidhni <b>Fiksoje Skedën</b> që nga menuja.
 cfr-doorhanger-pintab-step3 = Nëse sajti ka një përditësim, do të shihni një pikë blu te skeda juaj e fiksuar.
+
 cfr-doorhanger-pintab-animation-pause = Ndalesë
 cfr-doorhanger-pintab-animation-resume = Vazhdoje
+
 
 ## Firefox Accounts Message
 
@@ -89,16 +100,22 @@ cfr-protections-panel-link-text = Mësoni më tepër
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Veçori e re:
+
 cfr-whatsnew-button =
     .label = Ç’ka të Re
     .tooltiptext = Ç’ka të Re
+
 cfr-whatsnew-panel-header = Ç’ka të Re
+
 cfr-whatsnew-release-notes-link-text = Lexoni shënimet mbi hedhjen në qarkullim
+
 cfr-whatsnew-fx70-title = { -brand-short-name } tanimë ndeshet më fort për privatësinë tuaj
 cfr-whatsnew-fx70-body = Përditësimet më të reja thellojnë veçorinë e Mbrojtjes Nga Gjurmimi dhe e bëjnë më të lehtë se kurrë krijimin e fjalëkalimeve të siguruar për çdo sajt.
+
 cfr-whatsnew-tracking-protect-title = Mbroni veten nga gjurmuesit
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } bllokon mjaft gjurmues të rëndomtë rrjetesh shoqërorë dhe të tjerë që ju ndjekin nga sajti në sajt për të gjurmuar ç’bëni në internet.
 cfr-whatsnew-tracking-protect-link-text = Shihni Raportin Tuaj
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -109,9 +126,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Që prej { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Shihni Raportin
+
 cfr-whatsnew-lockwise-backup-title = Kopjeruani fjalëkalimet tuaj
 cfr-whatsnew-lockwise-backup-body = Tanimë prodhoni fjalëkalime të siguruar që mund t’i përdorni kudo që bëni hyrje.
 cfr-whatsnew-lockwise-backup-link-text = Aktivizoni kopjeruajtjet
+
 cfr-whatsnew-lockwise-take-title = Merrini fjalëkalimet tuaj me vete
 cfr-whatsnew-lockwise-take-body = Aplikacioni { -lockwise-brand-short-name } për celular ju lejon të përdorni në mënyrë të parrezik prej ngado fjalëkalimet që keni kopjeruajtur.
 cfr-whatsnew-lockwise-take-link-text = Merrni aplikacionin
@@ -148,6 +167,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Krijues shenjash gishtash të bllokuar
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name }-i bllokon mjaft nga krijuesit e shenjave të gishtave që grumbullojnë fshehtas informacion mbi pajisjen dhe veprimet tuaja, për të krijuar një profil tuajin të synuar nga reklamuesit.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Krijues shenjash gishtash
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name }-i mund të bllokojë krijues shenjash gishtash që grumbullojnë fshehtas informacion mbi pajisjen dhe veprimet tuaja, për të krijuar një profil tuajin të synuar nga reklamuesit.
@@ -206,6 +226,7 @@ cfr-doorhanger-milestone-heading =
         [one] 	{ -brand-short-name } bllokoi mbi <b>{ $blockedCount }</b> gjurmues që prej { $date }!
        *[other] 	{ -brand-short-name } bllokoi mbi <b>{ $blockedCount }</b> gjurmues që prej { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -239,12 +260,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikonë foto-në foto
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Mbylle
-    .accesskey = M
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Mbrojtje përmbledhtasi
 cfr-whatsnew-protections-body = Pulti i Mbrojtjeve përfshin raporte përmbledhëse rreth cenimesh të dhënash dhe administrimi fjalëkalimesh. Tani mund të ndiqni se sa cenime keni zgjidhur, dhe të shihni nëse ndonjë nga fjalëkalimet tuaj të ruajtur është ekspozuar në një cenim të dhënash.
 cfr-whatsnew-protections-cta-link = Shihni Pult Mbrojtjesh
@@ -254,6 +269,12 @@ cfr-whatsnew-protections-icon-alt = Ikona mburojë
 
 cfr-whatsnew-better-pdf-header = Punim më i mirë me PDF-të
 cfr-whatsnew-better-pdf-body = Dokumentet PDF tani hapen drejt e në { -brand-short-name }, duke e lehtësuar rrjedhën tuaj të punës.
+
+cfr-doorhanger-milestone-close-button = Mbylle
+    .accesskey = M
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -275,35 +296,15 @@ cfr-doorhanger-fission-secondary-button = Mësoni më tepër
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Mbrojtje e automatizuar nga taktika gjurmimi dredharak
-cfr-whatsnew-clear-cookies-body = Disa gjurmues ju ridrejtojnë te sajte të tjerë që depozitojnë fshehtazi cookies. { -brand-short-name }-i tanimë i spastron automatikisht këto cookies, ndaj s’mund të ndiqeni.
-cfr-whatsnew-clear-cookies-image-alt = Ilustrim bllokimi cookie-sh
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Më tepër kontrolle media
-cfr-whatsnew-media-keys-body = Luani dhe ndalni audio ose video drejt e nga tastiera juaj ose kufjet, duke e bërë të lehtë të kontrollohet media prej një skede tjetër, program, ose madje edhe kur kompjuteri juaj është i kyçur. Mundeni edhe të kaloni nga një pjesë në një tjetër, duke përdorur tastet Para dhe Pas.
-cfr-whatsnew-media-keys-button = Mësoni se si
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Kërkoni shkurtore te shtylla e adresave
-cfr-whatsnew-search-shortcuts-body = Tani, kur shtypni një motor kërkimi, ose një sajt specifik, te shtylla e adresave, te sugjerimet poshtë do të shfaqet një shkurtore blu. Përzgjidheni këtë shkurtore që të plotësoni kërkimin tuaj drejt e nga shtylla e adresave.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Mbrojtje nga “supercookies” të liga
-cfr-whatsnew-supercookies-body = Sajtet mund të bashkëngjisin në fshehtësi një “supercookie” te shfletuesi juaj, e cila mund t’ju ndjekë nëpër internet, madje edhe pasi të keni spastruar cookie-t tuaja. { -brand-short-name }-i tani sjell mbrojtje të fuqishme kundër supercookie-sh, që kështu të mos mund të përdoren për të ndjekur veprimtari tuajat internetore nga një sajt te tjetri.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Punim më i mirë me faqerojtësit
-cfr-whatsnew-bookmarking-body = Është më e lehtë të ndiqen sajtet tuaj të parapëlqyer. { -brand-short-name }-i tani mban mend vendndodhjen tuaj të parapëlqyer për faqerojtësit e ruajtur, shfaq, si parazgjedhje, panelin e faqerojtësve në skeda të reja, dhe ju jep hyrje të kollajtë te faqerojtësit tuaj të tjerë, përmes një dosjeje paneli.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Mbrojtje e plotë nga ndjekje cookie-sh “cross-site”
-cfr-whatsnew-cross-site-tracking-body = Tani mund të zgjidhni mbrojtje më të mirë nga gjurmimi përmes cookie-sh. { -brand-short-name }-i mund të izolojë veprimtaritë dhe të dhënat tuaja sipas sajtit ku gjendeni atë çast, që kështu, të dhëna të depozituar te shfletuesi, nuk jepen nga sajti në sajt.
 
 ## Full Video Support CFR message
 

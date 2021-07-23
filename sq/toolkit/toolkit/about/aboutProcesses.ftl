@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Përgjegjës Procesesh
+
 # The Actions column
 about-processes-column-action =
     .title = Veprime
@@ -27,31 +28,6 @@ about-processes-column-cpu-total = CPU
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
-about-processes-browser-process-name = { -brand-short-name } (procesi { $pid })
-about-processes-web-process-name = Web (procesi { $pid }, i përbashkët)
-about-processes-web-isolated-process-name = Web (procesi { $pid }) për { $origin }
-about-processes-web-large-allocation = Web (procesi { $pid }, i madh) për { $origin }
-about-processes-with-coop-coep-process-name = Web (proces { $pid }, “cross-origin” e izoluar) për { $origin }
-about-processes-file-process-name = Kartela (process { $pid })
-about-processes-extension-process-name = Zgjerime (process { $pid })
-about-processes-privilegedabout-process-name = Mbi (proces { $pid })
-about-processes-plugin-process-name = Shtojca (process { $pid })
-about-processes-privilegedmozilla-process-name = Web (proces { $pid }) për sajte { -vendor-short-name }
-about-processes-gmp-plugin-process-name = Shtojca Media Gecko (procesi { $pid })
-about-processes-gpu-process-name = GPU (procesi { $pid })
-about-processes-vr-process-name = VR (procesi { $pid })
-about-processes-rdd-process-name = Shkodues të Dhënash (procesi { $pid })
-about-processes-socket-process-name = Rrjet (procesi { $pid })
-about-processes-remote-sandbox-broker-process-name = Remote Sandbox Broker (proces { $pid })
-about-processes-fork-server-process-name = Fork Server (proces { $pid })
-about-processes-preallocated-process-name = I paradhënë (procesi { $pid })
-about-processes-unknown-process-name = Tjetër ({ $type }, procesi { $pid })
-# Process
-# Variables:
-#   $name (String) The name assigned to the process.
-#   $pid (String) The process id of this process, assigned by the OS.
-about-processes-process-name = Procesi { $pid }: { $name }
-
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
@@ -69,6 +45,7 @@ about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Shkodues të Dhënash ({ $pid })
 about-processes-socket-process = Rrjet ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -85,17 +62,6 @@ about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
 
 ## Details within processes
 
-# Single-line summary of threads
-# Variables:
-#    $number (Number) The number of threads in the process. Typically larger
-#                     than 30. We don't expect to ever have processes with less
-#                     than 5 threads.
-about-processes-thread-summary = Rrjedha ({ $number })
-# Thread details
-# Variables:
-#   $name (String) The name assigned to the thread.
-#   $tid (String) The thread id of this thread, assigned by the OS.
-about-processes-thread-name = Rrjedhë { $tid }: { $name }
 # Single-line summary of threads (non-idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -111,6 +77,7 @@ about-processes-active-threads =
         [one] { $active } rrjedhë aktive nga { $number } gjithsej: { $list }
        *[other] { $active } rrjedha aktive nga { $number } gjithsej: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -122,21 +89,25 @@ about-processes-inactive-threads =
         [one] { $number } rrjedhë jo aktive
        *[other] { $number } rrjedha jo aktive
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = ID rrjedhe: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Skdeë: { $name }
 about-processes-preloaded-tab = Skedë e Re e Parangarkuar
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Nënkornizë: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -153,14 +124,12 @@ about-processes-frame-name-many = Nënkorniza ({ $number }): { $shortUrl }
 ##                   of `duration-unit-*`.
 
 # Common case.
-about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
-# Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Kohë CPU gjithsej: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (po bëhen matje)
-# Special case: process or thread is currently idle.
-about-processes-cpu-user-and-kernel-idle = i plogësht ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = idle
     .title = Kohë CPU gjithsej: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
@@ -177,10 +146,9 @@ about-processes-cpu-idle = idle
 ##                        of `memory-unit-*`.
 
 # Common case.
-about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
-# Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Evolucion: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

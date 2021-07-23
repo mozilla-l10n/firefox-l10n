@@ -6,23 +6,30 @@ fxa-toolbar-sync-syncing =
     .label = Po njëkohësohet…
 fxa-toolbar-sync-syncing-tabs =
     .label = Po njëkohësohen Skeda…
-fxa-toolbar-sync-syncing2 = Po njëkohësohet…
+
 sync-disconnect-dialog-title = Të shkëputet { -sync-brand-short-name }-u?
+
+fxa-toolbar-sync-syncing2 = Po njëkohësohet…
+
 sync-disconnect-dialog-title2 = Të shkëputet?
 sync-disconnect-dialog-body = { -brand-product-name } do të reshtë së njëkohësuari llogarinë tuaj, por në këtë pajisje s’do të fshihet ndonjë e dhënë tuaja e shfletimit.
 fxa-disconnect-dialog-title = Të shkëputet { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } do të shkëputet nga llogaria juaj, por në këtë pajisje s’do të fshihet ndonjë e dhënë tuaja e shfletimit.
 sync-disconnect-dialog-button = Shkëputu
+
 fxa-signout-dialog2-title = Të dilet nga { -fxaccount-brand-name }?
 fxa-signout-dialog-body = Të dhënat e njëkohësuara do të mbeten në llogarinë tuaj.
 fxa-signout-dialog2-button = Dilni
 fxa-signout-dialog2-checkbox = Fshini të dhëna prej kësaj pajisjeje (fjalëkalime, historik, faqerojtës, etj.).
+
 fxa-menu-sync-settings =
     .label = Rregullime Njëkohësimesh
 fxa-menu-turn-on-sync =
     .value = Aktivizo Sync-un
 fxa-menu-turn-on-sync-default = Aktivizo Sync-un
+
 fxa-menu-connect-another-device =
     .label = Lidhni Tjetër Pajisje…
+
 fxa-menu-sign-out =
     .label = Dilni…

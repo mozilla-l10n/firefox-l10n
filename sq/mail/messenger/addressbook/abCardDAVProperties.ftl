@@ -5,9 +5,11 @@
 carddav-url-label =
     .value = URL CardDAV:
     .accesskey = V
+
 carddav-refreshinterval-label =
     .label = Njëkohëso:
     .accesskey = N
+
 # Variables:
 #   $minutes (integer) - Number of minutes between address book synchronizations
 carddav-refreshinterval-minutes-value =
@@ -16,6 +18,7 @@ carddav-refreshinterval-minutes-value =
             [one] çdo minutë
            *[other] çdo { $minutes } minuta
         }
+
 # Variables:
 #   $hours (integer) - Number of hours between address book synchronizations
 carddav-refreshinterval-hours-value =
@@ -24,6 +27,7 @@ carddav-refreshinterval-hours-value =
             [one] çdo orë
            *[other] çdo { $hours } orë
         }
+
 carddav-readonly-label =
     .label = Vetëm-lexim
     .accesskey = V

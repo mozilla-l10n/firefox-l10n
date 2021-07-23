@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Hapni menunë">
+
 <!ENTITY navbarOverflow.label                "Më tepër mjete…">
 
 <!-- Tab context menu -->
@@ -142,19 +143,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Historik">
+
 <!ENTITY historyUndoMenu.label "Skeda të Mbyllura Së Fundi">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Dritare të mbyllura Së Fundi">
 
 <!ENTITY appMenuHistory.showAll.label "Shfaq Krejt Historikun">
+
 <!ENTITY appMenuHistory.clearRecent.label "Spastroni Historikun Së Fundi…">
 <!ENTITY appMenuHistory.restoreSession.label "Riktheni Sesionin e Mëparshëm">
 <!ENTITY appMenuHistory.viewSidebar.label "Shihni Anështyllë Historiku">
 <!ENTITY appMenuHistory.hideSidebar.label "Fshih Anështyllë Historiku">
 <!ENTITY appMenuHistory.recentHistory.label "Historik Së Fundi">
+
 <!ENTITY appMenuHelp.label "Ndihmë">
 
 <!ENTITY appMenuRemoteTabs.label "Skeda të Njëkohësuara">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "S&apos;ka skeda të hapura">
