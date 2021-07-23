@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = ఇప్పుడు వద్దు
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = పునఃప్రారంభమైన తర్వాత, అంతరంగిక విహరణలో లేని మీ తెరిచివున్న ట్యాబులను, కిటికీలను { -brand-shorter-name } పునరుద్ధరిస్తుంది.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = సరే, అర్థమయ్యింది
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = పొడిగింతల నిర్వహణకై <image data-l10n-name='addon-menu-icon'></image> మెనూ లోని <image data-l10n-name='addon-install-icon'></image> మీద నొక్కండి.
+
 appmenu-update-available2 =
     .label = తాజాకరణ అందుబాటులో ఉంది
     .buttonlabel = దించు
@@ -51,16 +56,14 @@ appmenu-update-restart2 =
     .buttonaccesskey = U
     .secondarybuttonlabel = విస్మరించు
     .secondarybuttonaccesskey = m
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = సరే, అర్థమయ్యింది
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = పొడిగింతల నిర్వహణకై <image data-l10n-name='addon-menu-icon'></image> మెనూ లోని <image data-l10n-name='addon-install-icon'></image> మీద నొక్కండి.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = సరే
     .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = ఈ పొడగింతను అంతరంగీక కిటికీలలో నడవడానికి అనుమతించు
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = మీ కొత్త ట్యాబు మారిపోయింది.
     .buttonlabel = మార్పులను ఉండనివ్వు
@@ -73,6 +76,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = పొడగింతను అచేతనం చేయి
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = మీ కొత్త ట్యాబు మారిపోయింది.
     .buttonlabel = మార్పులను ఉండనివ్వు

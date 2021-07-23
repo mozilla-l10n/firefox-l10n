@@ -37,6 +37,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = అనువర్తనపు మెనూని మూసివేయి
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -48,6 +49,7 @@ appmenuitem-zoom-enlarge =
     .label = పెద్దగించు
 appmenuitem-zoom-reduce =
     .label = చిన్నగించు
+
 appmenuitem-fullscreen =
     .label = నిండు తెర
 
@@ -55,15 +57,18 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ఇప్పుడు సింక్ చేయి
+
 appmenuitem-fxa-manage-account = ఖాతా నిర్వహణ
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-show-more-tabs = మరిన్ని ట్యాబులను చూపించు
+
 appmenuitem-save-page =
     .label = పేజీని ఇలా భద్రపరచు…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = కొత్తవి ఏమిటి
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -76,17 +81,23 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = మరింత సమాచారం చూపించు
+
 profiler-popup-learn-more = ఇంకా తెలుసుకోండి
+
 profiler-popup-settings =
     .value = అమరికలు
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = అభిమతం
+
 profiler-popup-discard-button =
     .label = విస్మరించు
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -99,6 +110,7 @@ appmenu-manage-history =
     .label = చరిత్ర నిర్వహణ
 appmenu-reopen-all-tabs = ట్యాబులన్నింటినీ మళ్లీ తెరువు
 appmenu-reopen-all-windows = కిటికీలన్నిటినీ మళ్ళీ తెరువు
+
 appmenu-restore-session =
     .label = మునుపటి సెషన్‌ను పునరుద్ధరించు
 appmenu-clear-history =
@@ -149,4 +161,5 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = పనిముట్లపట్టీని మలుచుకోండి…
+
 appmenu-developer-tools-subheader = విహారిణి పనిముట్లు

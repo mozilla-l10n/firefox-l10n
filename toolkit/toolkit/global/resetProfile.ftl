@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } పునఃతాజాకరణ
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name }‌ను తాజాపరచు
 refresh-profile-description = సమస్యలను పరిష్కరించి పనితనాన్ని తిరిగిపొందడానికి తాజాగా మొదలుపెట్టండి.

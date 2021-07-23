@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ఇంటర్నల్స్
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc ఇలా దాచు
@@ -53,13 +54,7 @@ about-webrtc-ice-rollback-count-label = ICE ఉపసంహరణ:
 about-webrtc-ice-pair-bytes-sent = పంపిన బైట్‌లు:
 about-webrtc-ice-pair-bytes-received = అందుకున్న బైట్‌లు:
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -71,13 +66,16 @@ about-webrtc-type-remote = రిమోట్
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = ఎన్నుకున్న
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ఎంపికైన
+
 about-webrtc-save-page-label = పేజీని భద్రపరచు
 about-webrtc-debug-mode-msg-label = డీబగ్ రీతి
 about-webrtc-debug-mode-off-state-label = డీబగ్ రీతి ప్రారంభించు
@@ -103,6 +101,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (మూ�
 
 ##
 
+
 about-webrtc-local-candidate = స్థానిక కాండిడేట్
 about-webrtc-remote-candidate = రిమోట్ కాండిడేట్
 about-webrtc-priority = ప్రాథాన్యత
@@ -118,7 +117,6 @@ about-webrtc-encoder-label = ఎన్కోడర్
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -128,6 +126,8 @@ about-webrtc-save-page-msg = పేజీ దాయబడింది: { $path }
 about-webrtc-debug-mode-off-state-msg = ట్రేస్ లాగ్ దీనివద్ద కనుగొనవచ్చు: { $path }
 about-webrtc-debug-mode-on-state-msg = డీబగ్ మోడ్ క్రియాశీలం, ట్రేస్ లాగ్ దీనివద్ద: { $path }
 about-webrtc-aec-logging-off-state-msg = కాప్చర్ చేసిన లాగ్ ఫైళ్ళు ఇచట కనుగొనవచ్చు: { $path }
+
+##
 
 ##
 
@@ -142,4 +142,7 @@ about-webrtc-jitter-label = జిట్టర్ { $jitter }
 
 
 ##
+
+##
+
 

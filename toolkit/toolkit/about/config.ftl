@@ -14,10 +14,13 @@ about-config-intro-warning-button = నష్టభయాన్ని అంగ�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = ఈ అభిరుచులను మార్చడం { -brand-short-name } పనితీరు లేక భద్రతను ప్రభావితం చేయగలదు.
+
 about-config-page-title = ఉన్నత అభిరుచులు
+
 about-config-search-input1 =
     .placeholder = అభిరుచి పేరుతో వెతకండి
 about-config-show-all = అన్నిటినీ చూపించు
+
 about-config-pref-add-button =
     .title = చేర్చు
 about-config-pref-toggle-button =

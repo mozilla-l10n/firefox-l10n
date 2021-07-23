@@ -55,12 +55,6 @@ move-to-end =
 move-to-new-window =
     .label = కొత్త విండోకి తరలించు
     .accesskey = W
-tab-context-share-more =
-    .label = మరిన్ని…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 close-tab =
     .label = ట్యాబుని మూసివేయి
     .accesskey = C
@@ -73,6 +67,12 @@ move-tabs =
 move-tab =
     .label = ట్యాబును తరలించండి
     .accesskey = v
+tab-context-share-more =
+    .label = మరిన్ని…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-close-tabs =
     .label =
         { $tabCount ->
