@@ -25,6 +25,7 @@ search-popover = Scorciatoie ricerca
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
 search-search-in = Cerca in:
+
 ## Various categories of shortcuts for search.
 
 search-bookmarks = Segnalibri
@@ -32,4 +33,5 @@ search-history = Cronologia
 search-opentabs = Schede aperte
 search-tags = Etichette
 search-titles = Titoli
+
 ##

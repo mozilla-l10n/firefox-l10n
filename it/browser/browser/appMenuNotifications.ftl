@@ -33,6 +33,11 @@ appmenu-update-restart =
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Dopo il riavvio verranno ripristinate tutte le schede e le finestre attualmente aperte, ad eccezione di quelle in modalità Navigazione anonima.
 
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = OK, tutto chiaro
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Gestisci i componenti aggiuntivi facendo clic su <image data-l10n-name='addon-install-icon'></image> nel menu <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Aggiornamento disponibile
     .buttonlabel = Scarica
@@ -70,18 +75,14 @@ appmenu-update-other-instance =
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = È disponibile una nuova versione di { -brand-shorter-name } ma non può essere installata in quanto è presente un’altra copia di { -brand-shorter-name } attualmente in esecuzione. Chiuderla per procedere con l’aggiornamento, oppure scegliere di aggiornare comunque (l’altra copia potrebbe non funzionare correttamente fino al riavvio).
 
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = OK, tutto chiaro
-    .buttonaccesskey = O
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
-appmenu-addon-post-install-message = Gestisci i componenti aggiuntivi facendo clic su <image data-l10n-name='addon-install-icon'></image> nel menu <image data-l10n-name='addon-menu-icon'></image>.
 appmenu-addon-post-install-message3 = Gestisci estensioni e temi nel menu applicazione.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Consenti il funzionamento di questa estensione in finestre anonime
     .accesskey = C
-
+    
 appmenu-new-tab-controlled =
     .label = La pagina Nuova scheda è cambiata
     .buttonlabel = Mantieni modifiche
@@ -91,12 +92,6 @@ appmenu-new-tab-controlled =
 appmenu-homepage-controlled =
     .label = La pagina iniziale è cambiata.
     .buttonlabel = Mantieni modifiche
-    .buttonaccesskey = M
-    .secondarybuttonlabel = Disattiva estensione
-    .secondarybuttonaccesskey = D
-appmenu-tab-hide-controlled =
-    .label = Accedi alle schede nascoste
-    .buttonlabel = Mantieni schede nascoste
     .buttonaccesskey = M
     .secondarybuttonlabel = Disattiva estensione
     .secondarybuttonaccesskey = D
@@ -113,3 +108,10 @@ appmenu-homepage-controlled-changes =
     .buttonaccesskey = M
     .secondarybuttonlabel = Gestisci pagina iniziale
     .secondarybuttonaccesskey = G
+appmenu-tab-hide-controlled =
+    .label = Accedi alle schede nascoste
+    .buttonlabel = Mantieni schede nascoste
+    .buttonaccesskey = M
+    .secondarybuttonlabel = Disattiva estensione
+    .secondarybuttonaccesskey = D
+

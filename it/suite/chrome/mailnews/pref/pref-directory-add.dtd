@@ -37,4 +37,5 @@
 <!ENTITY saslOff.accesskey "e">
 <!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey "K">
+
 <!ENTITY newDirectoryWidth "36em">

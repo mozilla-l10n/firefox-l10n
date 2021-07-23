@@ -15,8 +15,6 @@ pref-page-title =
        *[other] Preferenze
     }
 
-settings-page-title = Impostazioni
-
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -32,6 +30,8 @@ search-input-box =
             [windows] Cerca nelle opzioni
            *[other] Cerca nelle preferenze
         }
+
+settings-page-title = Impostazioni
 
 search-input-box2 =
     .style = width: 16em
@@ -62,6 +62,7 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+
 pane-sync-title3 = Sincronizzazione
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
@@ -152,6 +153,7 @@ search-results-empty-message =
         [windows] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle opzioni.
        *[other] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle preferenze.
     }
+
 search-results-empty-message2 = Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle impostazioni.
 
 search-results-help-link = Hai bisogno di aiuto? Visita <a data-l10n-name="url">il sito web di supporto per { -brand-short-name }</a>.
@@ -496,12 +498,13 @@ update-application-use-service =
     .accesskey = U
 
 update-setting-write-failure-title = Errore durante il salvataggio delle preferenze
-update-setting-write-failure-title2 = Errore durante il salvataggio delle impostazioni
 
 update-setting-write-failure-message =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
 
     Impossibile scrivere il file: { $path }
+
+update-setting-write-failure-title2 = Errore durante il salvataggio delle impostazioni
 
 update-setting-write-failure-message2 =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le impostazioni è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
@@ -655,6 +658,7 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Siti principali
 home-prefs-topsites-description = I siti più visitati
+
 home-prefs-topsites-by-option-sponsored =
     .label = Siti principali sponsorizzati
 home-prefs-shortcuts-header =
@@ -670,6 +674,7 @@ home-prefs-recommended-by-header =
     .label = Consigliati da { $provider }
 home-prefs-recommended-by-description-update = Contenuti eccezionali da tutto il Web, a cura di { $provider }
 home-prefs-recommended-by-description-new = Contenuti eccezionali a cura di { $provider }, un membro della famiglia { -brand-product-name }
+
 ##
 
 home-prefs-recommended-by-learn-more = Come funziona
@@ -699,7 +704,9 @@ home-prefs-recent-activity-description = Una selezione di siti e contenuti visua
 home-prefs-snippets-header =
     .label = Snippet
 home-prefs-snippets-description = Aggiornamenti da { -vendor-short-name } e { -brand-product-name }
+
 home-prefs-snippets-description-new = Consigli e notizie da { -vendor-short-name } e { -brand-product-name }
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -745,11 +752,13 @@ search-show-suggestions-private-windows =
     .label = Visualizza suggerimenti di ricerca nelle finestre anonime
 
 suggestions-addressbar-settings-generic = Modifica le impostazioni per altri tipi di suggerimenti nella barra degli indirizzi
+
 suggestions-addressbar-settings-generic2 = Modifica le impostazioni per altri tipi di suggerimenti nella barra degli indirizzi
 
 search-suggestions-cant-show = I suggerimenti di ricerca non verranno visualizzati tra i risultati della barra degli indirizzi in quanto { -brand-short-name } è configurato per non salvare la cronologia.
 
 search-one-click-header = Motori di ricerca in un clic
+
 search-one-click-header2 = Scorciatoie di ricerca
 
 search-one-click-desc = Scegli i motori di ricerca alternativi che appaiono nella barra degli indirizzi e nella barra di ricerca quando si inizia a digitare una parola chiave.
@@ -766,6 +775,7 @@ search-restore-default =
 search-remove-engine =
     .label = Rimuovi
     .accesskey = R
+
 search-add-engine =
     .label = Aggiungi
     .accesskey = A
@@ -788,6 +798,7 @@ containers-back-button =
             [windows] Torna alle opzioni
            *[other] Torna alle preferenze
         }
+
 containers-back-button2 =
     .aria-label = Torna alle impostazioni
 containers-header = Schede contenitore
@@ -801,6 +812,7 @@ containers-new-tab-check =
 
 containers-preferences-button =
     .label = Preferenze
+
 containers-settings-button =
     .label = Impostazioni
 containers-remove-button =
@@ -814,11 +826,13 @@ containers-remove-button =
 
 sync-signedout-caption = Il tuo Web, sempre con te
 sync-signedout-description = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
-sync-signedout-description2 = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
 
 sync-signedout-account-signin2 =
     .label = Accedi a { -sync-brand-short-name }…
     .accesskey = d
+
+sync-signedout-description2 = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
+
 sync-signedout-account-signin3 =
     .label = Accedi per sincronizzare…
     .accesskey = d
@@ -872,11 +886,13 @@ prefs-syncing-off = Sincronizzazione: DISATTIVATA
 prefs-sync-setup =
     .label = Configura { -sync-brand-short-name }…
     .accesskey = C
+
+prefs-sync-offer-setup-label = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
+
 prefs-sync-turn-on-syncing =
     .label = Attiva sincronizzazione…
     .accesskey = c
 
-prefs-sync-offer-setup-label = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
 prefs-sync-offer-setup-label2 = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
 
 prefs-sync-now =
@@ -900,6 +916,7 @@ sync-currently-syncing-prefs =
         [windows] Opzioni
        *[other] Preferenze
     }
+
 sync-currently-syncing-settings = Impostazioni
 
 sync-change-options =
@@ -1195,6 +1212,7 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Siti principali
     .accesskey = a
+
 addressbar-locbar-engines-option =
     .label = Motori di ricerca
     .accesskey = M
@@ -1229,6 +1247,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Equilibrio tra protezione e prestazioni. Le pagine si caricheranno normalmente.
 content-blocking-etp-strict-desc = Maggiore protezione, ma alcuni siti o contenuti potrebbero non funzionare correttamente.
 content-blocking-etp-custom-desc = Scegli quali traccianti e script bloccare.
+
 content-blocking-etp-blocking-desc = { -brand-short-name } blocca i seguenti elementi:
 
 content-blocking-private-windows = Contenuti traccianti in finestre anonime
@@ -1384,6 +1403,7 @@ collection-backlogged-crash-reports =
     .label = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso
     .accesskey = C
 collection-backlogged-crash-reports-link = Ulteriori informazioni
+
 collection-backlogged-crash-reports-with-link = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso <a data-l10n-name="crash-reports-link">Ulteriori informazioni</a>
     .accesskey = C
 
@@ -1451,22 +1471,23 @@ space-alert-over-5gb-pref-button =
            *[other] A
         }
 
-space-alert-over-5gb-settings-button =
-    .label = Apri impostazioni
-    .accesskey = A
-
 space-alert-over-5gb-message =
     { PLATFORM() ->
         [windows] Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi. Il contenuto dei siti web potrebbe non essere visualizzato correttamente. È possibile eliminare i dati salvati dai siti web in Opzioni > Privacy e sicurezza > Cookie e dati dei siti web.
        *[other] Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi. Il contenuto dei siti web potrebbe non essere visualizzato correttamente. È possibile eliminare i dati salvati dai siti web in Preferenze > Privacy e sicurezza > Cookie e dati dei siti web.
     }
-space-alert-over-5gb-message2 = <strong>Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi.</strong> Il contenuto dei siti web potrebbe non essere visualizzato correttamente. È possibile eliminare i dati salvati dai siti web in Impostazioni > Privacy e sicurezza > Cookie e dati dei siti web.
 
 space-alert-under-5gb-ok-button =
     .label = OK, ricevuto
     .accesskey = K
 
 space-alert-under-5gb-message = Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi. Il contenuto dei siti web potrebbe non essere visualizzato correttamente. Visita il link “Ulteriori informazioni” per scoprire come ottimizzare l’utilizzo dello spazio su disco e migliorare l’esperienza di navigazione.
+
+space-alert-over-5gb-settings-button =
+    .label = Apri impostazioni
+    .accesskey = A
+
+space-alert-over-5gb-message2 = <strong>Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi.</strong> Il contenuto dei siti web potrebbe non essere visualizzato correttamente. È possibile eliminare i dati salvati dai siti web in Impostazioni > Privacy e sicurezza > Cookie e dati dei siti web.
 
 space-alert-under-5gb-message2 = <strong>Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi.</strong> Il contenuto dei siti web potrebbe non essere visualizzato correttamente. Visita il link “Ulteriori informazioni” per scoprire come ottimizzare l’utilizzo dello spazio su disco e migliorare l’esperienza di navigazione.
 

@@ -5,13 +5,14 @@
 safe-mode-window =
     .title = Modalità provvisoria di { -brand-short-name }
     .style = max-width: 400px
+start-safe-mode =
+    .label = Avvia in Modalità provvisoria
+
 troubleshoot-mode-window =
     .title = Aprire { -brand-short-name } in Modalità risoluzione problemi?
     .style = max-width: 400px
 start-troubleshoot-mode =
     .label = Apri
-start-safe-mode =
-    .label = Avvia in Modalità provvisoria
 refresh-profile =
     .label = Ripristina { -brand-short-name }
 safe-mode-description = La Modalità provvisoria è una speciale modalità di { -brand-short-name } che può essere utilizzata per la risoluzione di problemi.

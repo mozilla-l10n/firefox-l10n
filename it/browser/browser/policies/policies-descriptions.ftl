@@ -134,9 +134,9 @@ policy-LocalFileLinks = Consenti a determinati siti web di usare link a file loc
 
 policy-ManagedBookmarks = Configura un elenco di segnalibri gestiti da un amministratore e non modificabili dall’utente.
 
-policy-ManualAppUpdateOnly = Consenti solo aggiornamenti manuali e non segnalare all’utente la disponibilità di aggiornamenti.
-
 policy-MasterPassword = Richiedi o impedisci l’utilizzo di una password principale.
+
+policy-ManualAppUpdateOnly = Consenti solo aggiornamenti manuali e non segnalare all’utente la disponibilità di aggiornamenti.
 
 policy-PrimaryPassword = Richiedi o impedisci l’utilizzo di una password principale.
 

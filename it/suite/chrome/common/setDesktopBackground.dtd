@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY setDesktopBackground.title "Imposta sfondo del desktop">
+
 <!ENTITY position.label "Posizione:">
 <!ENTITY position.accesskey "P">
 <!ENTITY position.tile.label "Affiancata">

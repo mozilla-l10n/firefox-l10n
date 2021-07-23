@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigazione anonima)
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – { -brand-full-name } (Navigazione anonima)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } – (Navigazione anonima)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – (Navigazione anonima)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -106,6 +108,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Scrivi di meno e trova più risultati: cerca con { $engineName } direttamente dalla barra degli indirizzi.
 urlbar-search-tips-redirect-2 = Inizia le tue ricerche dalla barra degli indirizzi per visualizzare suggerimenti da { $engineName } e dalla cronologia di navigazione.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Seleziona questa scorciatoia per trovare ciò che ti serve più rapidamente.
@@ -142,10 +145,12 @@ urlbar-midi-blocked =
     .tooltiptext = È stato bloccato l’accesso alle funzioni MIDI per questo sito web.
 urlbar-install-blocked =
     .tooltiptext = È stata bloccata l’installazione di componenti aggiuntivi per questo sito.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Modifica questo segnalibro ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -155,6 +160,7 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Aggiungi alla barra degli indirizzi
+
 page-action-manage-extension =
     .label = Gestisci estensione…
 page-action-remove-from-urlbar =
@@ -176,12 +182,15 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Adesso cerca con:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Impostazioni ricerca
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Modifica le impostazioni di ricerca
+
 search-one-offs-context-open-new-tab =
     .label = Cerca in una nuova scheda
     .accesskey = n
@@ -191,6 +200,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Imposta come motore di ricerca predefinito in finestre anonime
     .accesskey = a
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -244,10 +254,13 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Visualizza editor quando si salva
     .accesskey = V
+
 bookmark-panel-done-button =
     .label = Fatto
+
 bookmark-panel-save-button =
     .label = Salva
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -277,6 +290,7 @@ identity-weak-encryption = Questa pagina utilizza una crittografia debole.
 identity-insecure-login-forms = Gli accessi effettuati in questa pagina potrebbero essere vulnerabili.
 identity-permissions =
     .value = Permessi
+
 identity-https-only-connection-upgraded = (aggiornato a HTTPS)
 identity-https-only-label = Modalità solo HTTPS
 identity-https-only-dropdown-on =
@@ -288,9 +302,11 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Attivare la modalità solo HTTPS per fare in modo che { -brand-short-name } aggiorni la connessione quando possibile.
 identity-https-only-info-turn-off2 = Se la pagina non funziona correttamente, provare a disattivare per questo sito la modalità solo HTTPS per ricaricare utilizzando una connessione non sicura HTTP.
 identity-https-only-info-no-upgrade = Impossibile aggiornare la connessione da HTTP.
+
 identity-permissions-storage-access-header = Cookie intersito
 identity-permissions-storage-access-hint = Questi soggetti possono utilizzare cookie intersito e dati dei siti web quando ti trovi in questo sito.
 identity-permissions-storage-access-learn-more = Ulteriori informazioni
+
 identity-permissions-reload-hint = Potrebbe essere necessario ricaricare la pagina per rendere effettive le modifiche.
 identity-permissions-empty = Nessun permesso speciale associato a questo sito.
 identity-clear-site-data =
@@ -354,11 +370,13 @@ browser-tab-mute =
         [1] DISATTIVA AUDIO
        *[other] DISATTIVA AUDIO ({ $count } SCHEDE)
     }
+
 browser-tab-unmute =
     { $count ->
         [1] ATTIVA AUDIO
        *[other] ATTIVA AUDIO ({ $count } SCHEDE)
     }
+
 browser-tab-unblock =
     { $count ->
         [1] AVVIA RIPRODUZIONE
@@ -370,6 +388,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Importa segnalibri…
     .tooltiptext = Importa i segnalibri di un altro browser in { -brand-short-name }.
+
 bookmarks-toolbar-empty-message = Salva i tuoi segnalibri qui, nella barra dei segnalibri, per accedervi più rapidamente. <a data-l10n-name="manage-bookmarks">Gestisci i segnalibri…</a>
 
 ## WebRTC Pop-up notifications
@@ -380,6 +399,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Microfono da condividere:
     .accesskey = M
+
 popup-select-camera-device =
     .value = Fotocamera:
     .accesskey = F
@@ -393,20 +413,26 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Altoparlanti
 popup-all-windows-shared = Tutte le finestre visibili sullo schermo verranno condivise.
+
 popup-screen-sharing-not-now =
     .label = Non adesso
     .accesskey = a
+
 popup-screen-sharing-never =
     .label = Mai
     .accesskey = M
+
 popup-silence-notifications-checkbox = Disattiva notifiche di { -brand-short-name } durante la condivisione
 popup-silence-notifications-checkbox-warning = { -brand-short-name } non visualizzerà notifiche durante la condivisione.
+
 popup-screen-sharing-block =
     .label = Blocca
     .accesskey = B
+
 popup-screen-sharing-always-block =
     .label = Blocca sempre
     .accesskey = s
+
 popup-mute-notifications-checkbox = Disattiva notifiche dai siti web durante la condivisione
 
 ## WebRTC window or screen share tab switch warning
@@ -422,12 +448,17 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Per utilizzare la scorciatoia da tastiera F12, aprire prima gli strumenti di sviluppo usando il menu “Sviluppo web”.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Cerca o inserisci un indirizzo
+
 urlbar-placeholder =
     .placeholder = Cerca o inserisci un indirizzo
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Il browser è attualmente controllato da remoto
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -436,6 +467,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Cerca sul Web
     .aria-label = Cerca con { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -444,24 +476,27 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca in { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca nei segnalibri
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca nella cronologia
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Immetti i termini di ricerca
     .aria-label = Cerca nelle schede
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Cerca con { $name } o inserisci un indirizzo
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Il browser è attualmente controllato da remoto
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -471,9 +506,11 @@ urlbar-permissions-granted =
     .tooltiptext = Sono stati concessi permessi aggiuntivi a questo sito web.
 urlbar-switch-to-tab =
     .value = Passa alla scheda:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estensione:
+
 urlbar-go-button =
     .tooltiptext = Vai all’URL inserito nella barra degli indirizzi
 urlbar-page-action-button =
@@ -543,9 +580,12 @@ urlbar-result-action-search-tabs = Cerca nelle schede
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> è ora visualizzato a schermo intero
 fullscreen-warning-no-domain = Questo documento è ora visualizzato a schermo intero
+
+
 fullscreen-exit-button = Esci da schermo intero (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Esci da schermo intero (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -611,6 +651,7 @@ bookmarks-tools =
     .label = Strumenti per i segnalibri
 bookmarks-bookmark-edit-panel =
     .label = Modifica segnalibro
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -624,6 +665,7 @@ bookmarks-toolbar-placeholder =
     .title = Elementi della barra dei segnalibri
 bookmarks-toolbar-placeholder-button =
     .label = Elementi della barra dei segnalibri
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Aggiungi scheda corrente ai segnalibri
@@ -654,6 +696,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Estensioni e temi
     .tooltiptext = Gestisci estensioni e temi ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =

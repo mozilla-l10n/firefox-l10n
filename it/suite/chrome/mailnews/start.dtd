@@ -20,9 +20,6 @@
 "Completa integrazione con la suite di applicazioni &brandShortName;">
 <!ENTITY dict.title "Dizionari">
 <!ENTITY dict_intro.label "I dizionari vengono utilizzati per controllare l'ortografia dei messaggi.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label
-'Dizionari per molte lingue possono essere installati dalla sezione <a href="https://it.add-ons.mozilla.org/it/seamonkey/1.1/dictionaries/">dizionari</a> su <a href="http://addons.mozilla.org/">Mozilla Add-ons</a>.'>
 <!ENTITY dict_info.label2
 'Dizionari per molte lingue possono essere installati
 dalla sezione <a id="dictURL" href="">dizionari</a> su

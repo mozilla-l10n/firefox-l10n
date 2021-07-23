@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Proprietà modulo">
+
 <!ENTITY Settings.label "Impostazioni">
+
 <!ENTITY FormName.label "Nome modulo:">
 <!ENTITY FormName.accesskey "N">
 <!ENTITY FormAction.label "Indirizzo invio:">
@@ -14,5 +16,6 @@
 <!ENTITY FormEncType.accesskey "C">
 <!ENTITY FormTarget.label "Riquadro destinazione:">
 <!ENTITY FormTarget.accesskey "d">
+
 <!ENTITY RemoveForm.label "Rimuovi modulo">
 <!ENTITY RemoveForm.accesskey "R">

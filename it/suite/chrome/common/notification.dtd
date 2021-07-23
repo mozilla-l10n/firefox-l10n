@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY closeNotification.tooltip "Chiudi questo messaggio">
+
 <!ENTITY closeNotificationItem.label "Chiudi notifica">
+
 <!ENTITY checkForUpdates "Controlla gli aggiornamenti…">
+
 <!ENTITY learnMore "Ulteriori informazioni…">

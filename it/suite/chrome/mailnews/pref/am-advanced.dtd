@@ -4,6 +4,7 @@
 
 <!ENTITY smtpServer.label "Impostazioni server (SMTP) in uscita">
 <!ENTITY smtpDescription.label "Quando si gestiscono le identità è possibile selezionare un server di questa lista da usare come Server in uscita (SMTP), oppure è possibile usare il server predefinito selezionando &quot;Utilizza il server predefinito&quot;.">
+
 <!ENTITY smtpListAdd.label "Aggiungi…">
 <!ENTITY smtpListAdd.accesskey "u">
 <!ENTITY smtpListEdit.label "Modifica…">
@@ -12,6 +13,7 @@
 <!ENTITY smtpListDelete.accesskey "m">
 <!ENTITY smtpListSetDefault.label "Imposta come predefinito">
 <!ENTITY smtpListSetDefault.accesskey "d">
+
 <!ENTITY serverDetails.label "Dettagli del server selezionato:">
 <!ENTITY serverDescription.label "Descrizione:">
 <!ENTITY serverName.label "Nome server:">

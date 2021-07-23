@@ -9,8 +9,6 @@ about-private-browsing-info-title = Ti trovi in una finestra anonima
 about-private-browsing-info-myths = Miti da sfatare sulla navigazione anonima
 about-private-browsing =
     .title = Cerca sul Web
-about-private-browsing-search-btn =
-    .title = Cerca sul Web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

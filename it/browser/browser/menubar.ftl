@@ -30,16 +30,20 @@ menu-application-touch-bar =
 menu-quit =
     .label = Esci
     .accesskey = E
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Esci da { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Chiudi { -brand-shorter-name }
+
 menu-about =
     .label = Informazioni su { -brand-shorter-name }
     .accesskey = I
@@ -165,9 +169,11 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Codifica testo
     .accesskey = C
+
 menu-view-repair-text-encoding =
     .label = Correggi codifica testo
     .accesskey = C
+
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
@@ -209,6 +215,7 @@ menu-history-undo-menu =
     .label = Schede chiuse di recente
 menu-history-undo-window-menu =
     .label = Finestre chiuse di recente
+
 menu-history-reopen-all-tabs = Riapri tutte le schede
 menu-history-reopen-all-windows = Riapri tutte le finestre
 
@@ -219,10 +226,10 @@ menu-bookmarks-menu =
     .accesskey = e
 menu-bookmarks-show-all =
     .label = Visualizza tutti i segnalibri
-menu-bookmarks-manage =
-    .label = Gestisci segnalibri
 menu-bookmark-this-page =
     .label = Aggiungi pagina ai segnalibri
+menu-bookmarks-manage =
+    .label = Gestisci segnalibri
 menu-bookmark-current-tab =
     .label = Aggiungi scheda corrente ai segnalibri
 menu-bookmark-edit =
@@ -247,18 +254,18 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Componenti aggiuntivi
     .accesskey = C
-menu-tools-addons-and-themes =
-    .label = Estensioni e temi
-    .accesskey = E
 menu-tools-fxa-sign-in =
     .label = Accedi a { -brand-product-name }…
-    .accesskey = c
-menu-tools-fxa-sign-in2 =
-    .label = Accedi
     .accesskey = c
 menu-tools-turn-on-sync =
     .label = Attiva { -sync-brand-short-name }…
     .accesskey = v
+menu-tools-addons-and-themes =
+    .label = Estensioni e temi
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = Accedi
+    .accesskey = c
 menu-tools-turn-on-sync2 =
     .label = Attiva sincronizzazione…
     .accesskey = v
@@ -347,12 +354,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Scorciatoie da tastiera
     .accesskey = S
-menu-get-help =
-    .label = Ottieni assistenza
-    .accesskey = n
 menu-help-troubleshooting-info =
     .label = Risoluzione dei problemi
     .accesskey = R
+menu-get-help =
+    .label = Ottieni assistenza
+    .accesskey = n
 menu-help-more-troubleshooting-info =
     .label = Altre informazioni per la risoluzione di problemi
     .accesskey = r

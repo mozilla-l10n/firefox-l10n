@@ -219,12 +219,10 @@ cfr-doorhanger-cryptominers-description = La tua privacy è importante. Adesso {
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading = { -brand-short-name } ha bloccato oltre <b>{ $blockedCount }</b> elementi traccianti da { $date }.
+
 cfr-doorhanger-milestone-heading2 = { -brand-short-name } ha bloccato oltre <b>{ $blockedCount }</b> elementi traccianti da { DATETIME($date, month: "long", year: "numeric") }.
 cfr-doorhanger-milestone-ok-button = Visualizza tutto
   .accesskey = V
-
-cfr-doorhanger-milestone-close-button = Chiudi
-  .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -257,6 +255,9 @@ cfr-whatsnew-protections-icon-alt = Icona dello scudo
 
 cfr-whatsnew-better-pdf-header = Esperienza migliore con i PDF
 cfr-whatsnew-better-pdf-body = Adesso è possibile aprire i documenti PDF direttamente in { -brand-short-name }, senza intralciare il tuo flusso di lavoro.
+
+cfr-doorhanger-milestone-close-button = Chiudi
+  .accesskey = C
 
 ## DOH Message
 
