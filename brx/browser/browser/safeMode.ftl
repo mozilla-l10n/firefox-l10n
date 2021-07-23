@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = रैखाथि म'डआव जागाय
+
 refresh-profile =
     .label = { -brand-short-name } खौ थाजा खालाम
 safe-mode-description = रैखाथि म'डआ { -brand-short-name } नि मोनसे जुनिया म'ड जायखौ ट्राबल्‌शुट जेंनायाव बाहायनो हायो।

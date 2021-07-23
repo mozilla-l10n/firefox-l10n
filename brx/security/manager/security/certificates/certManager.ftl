@@ -207,6 +207,8 @@ verify-email-signer =
 verify-email-recip =
     .value = इ-मेइल मोनग्रा चार्टिफिकेट
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 

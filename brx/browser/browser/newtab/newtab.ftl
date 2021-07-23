@@ -15,6 +15,7 @@ newtab-search-box-search-button =
     .aria-label = नागिर
 
 newtab-search-box-search-the-web-text = वेबौ नागिर
+
 newtab-search-box-search-the-web-input =
     .placeholder = वेबौ नागिर
     .title = वेबौ नागिर
@@ -47,6 +48,8 @@ newtab-topsites-add-button = दाजाबदेर
 
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = बे हाबाखौ मावनो हायै खालामनो हाया।
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -157,4 +160,6 @@ newtab-pocket-cta-button = { -pocket-brand-name } ला
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
+
+## Customization Menu
 

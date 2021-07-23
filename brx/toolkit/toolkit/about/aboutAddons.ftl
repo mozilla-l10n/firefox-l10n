@@ -259,6 +259,7 @@ locale-enabled-heading = मावथि खालामबाय
 locale-disabled-heading = लोरबां जाबाय
 
 ask-to-activate-button = मावथि खालामनो सों
+
 always-activate-button = अरायबो मावथि खालाम
 never-activate-button = माब्लाबाबो मावथि खालामनो नाङा
 
@@ -285,6 +286,11 @@ install-update-button = आपडेट खालाम
 
 addon-detail-private-browsing-allow = गनायथि हो
 addon-detail-private-browsing-disallow = गनायथि दाहो
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+##
 
 available-updates-heading = थानाय आपडेटफोर
 recent-updates-heading = दानि आपडेट

@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name }खौ थाजा खालाम
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name }खौ थाजा खालाम
 refresh-profile-description = जेंनाखौ सुस्रांनो थाजा खालामनायखौ जागाय आरो मावफुंनायखौ मोनफिन

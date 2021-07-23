@@ -357,6 +357,7 @@ home-prefs-topsites-header =
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } आ बसोन होनाइ
+
 ##
 
 home-prefs-recommended-by-learn-more = बेयो माबादि खामानि मावो
@@ -379,6 +380,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = स्निपेटफोर
 home-prefs-snippets-description = { -vendor-short-name } आरो { -brand-product-name } निफ्राय आपडेटफोर
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -426,6 +428,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = पसन्दफोर
+
 containers-remove-button =
     .label = बोखार
 

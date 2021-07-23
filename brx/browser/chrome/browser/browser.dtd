@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "मेनु खेव">
+
 <!ENTITY navbarOverflow.label                "गोबां टुल...">
 
 <!-- Tab context menu -->
@@ -129,15 +130,18 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "जारिमिन">
+
 <!ENTITY historyUndoMenu.label "बावैसो बन्द खालामनाय टेबफोर">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "दाबावैसो बन्द खालामनाय उइन्ड'स">
 
 <!ENTITY appMenuHistory.showAll.label "गासै जारिमिनखौ दिनथि">
+
 <!ENTITY appMenuHistory.clearRecent.label "दानि जारिमिनखौ खोमोर...">
 <!ENTITY appMenuHistory.restoreSession.label "आवगयनि जथुम्माखौ लाबोफिन">
 <!ENTITY appMenuHistory.viewSidebar.label "जारिमिन साइडबारखौ नाय">
 <!ENTITY appMenuHistory.recentHistory.label "दानि जारिमिन">
+
 <!ENTITY appMenuHelp.label "मदद">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath

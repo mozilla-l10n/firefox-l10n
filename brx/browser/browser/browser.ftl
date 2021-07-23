@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (निजि ब्राउजिं)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (निजि ब्राउजिं)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (निजि ब्राउजिं)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (निजि ब्राउजिं)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -95,10 +97,12 @@ urlbar-midi-blocked =
     .tooltiptext = नों बे वेबसाइथनि मिदि हाबगा् लामाखौ बन्द खालामना दोनबाय
 urlbar-install-blocked =
     .tooltiptext = नों बे वेबसाइथनि एद अन इन्सथल खालामगा्खौ बन्द खालामना दोनबाय
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = नोंथांनि बुकमार्क ({ $shortcut }) खौ सुजु
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -108,35 +112,13 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = एद्रेसबारोव दाजाबदेर
+
 page-action-manage-extension =
     .label = बारायनायखौ सामलाइ
 page-action-remove-from-urlbar =
     .label = एद्रेसबारनिफ्राय खोमर
 
 ## Page Action menu
-
-page-action-copy-url-panel =
-    .label = लिंक कपि खालाम
-page-action-copy-url-urlbar =
-    .tooltiptext = लिंक कपि खालाम
-page-action-email-link-panel =
-    .label = इ-मेइल लिंक...
-page-action-email-link-urlbar =
-    .tooltiptext = इ-मेइल लिंक...
-page-action-share-more-panel =
-    .label = गोबां…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = पिन टेब
-page-action-pin-tab-urlbar =
-    .tooltiptext = पिन टेब
-page-action-unpin-tab-panel =
-    .label = टेबखौ आनपिन खालाम
-page-action-unpin-tab-urlbar =
-    .tooltiptext = टेबखौ आनपिन खालाम
 
 ## Auto-hide Context Menu
 
@@ -152,12 +134,15 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = बे समाव नागिर
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = नागिरनाय सेटिंखौ सोलाय
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = नागिरनाय सेटिंखौ सोलाय
+
 search-one-offs-context-open-new-tab =
     .label = गोदान टेबआव नागिर
     .accesskey = T
@@ -190,8 +175,10 @@ bookmark-panel-remove =
            *[other] { $count } बुकमार्कफोरखौ बोखार
         }
     .accesskey = R
+
 bookmark-panel-done-button =
     .label = जाखांबाइ
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -202,6 +189,7 @@ bookmark-panel =
 
 identity-permissions =
     .value = गनायथि
+
 identity-clear-site-data =
     .label = कुकिज आरो साइट दाटा फोरखौ खोमोर...
 identity-learn-more =
@@ -238,6 +226,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = शेयार खालामनो माइक्र'फन:
     .accesskey = M
+
 popup-all-windows-shared = नोंथांनि स्क्रिननि गासै नुथाव उइन्ड'खौ शेयार खालामगोन।
 
 ## WebRTC window or screen share tab switch warning
@@ -250,13 +239,17 @@ popup-all-windows-shared = नोंथांनि स्क्रिननि 
 
 urlbar-default-placeholder =
     .defaultPlaceholder = थंखौ नागिर एबा हाबहो
+
 urlbar-placeholder =
     .placeholder = थंखौ नागिर एबा हाबहो
+
 urlbar-switch-to-tab =
     .value = टेबाव थां:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = बारायनायफोर:
+
 urlbar-go-button =
     .tooltiptext = लकेसन बारनि थंआव थां
 
@@ -278,6 +271,7 @@ urlbar-result-action-visit = थां
 
 ## Full Screen and Pointer Lock UI
 
+
 fullscreen-exit-button = आबुं स्क्रिन निफ्राय ओंखार लां (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = आबुं स्क्रिन निफ्राय ओंखार लां (esc)
@@ -287,8 +281,6 @@ fullscreen-exit-mac-button = आबुं स्क्रिन निफ्र�
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = गासै बुकमार्कखौ दिन्थि
 bookmarks-toolbar-chevron =
     .tooltiptext = गोबां बुकमार्कखौ दिन्थि
 bookmarks-sidebar-content =
@@ -303,6 +295,7 @@ bookmarks-search =
     .label = बुकमार्कफोरखौ नागिर
 bookmarks-bookmark-edit-panel =
     .label = बे बुकमार्कखौ सुजु
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -324,6 +317,8 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

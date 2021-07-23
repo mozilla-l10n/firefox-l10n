@@ -24,13 +24,7 @@
 ## is an IETF protocol, and should not normally be translated.
 
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -39,6 +33,7 @@
 
 
 ##
+
 
 about-webrtc-save-page-label = बिलाइखौ थिना दोन
 about-webrtc-stats-clear = जारिमिनखौ खोमोर
@@ -61,11 +56,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (बन�
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
+
+
+##
 
 
 ##
@@ -76,4 +73,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (बन�
 
 
 ##
+
+##
+
 

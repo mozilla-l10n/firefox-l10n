@@ -23,6 +23,7 @@ appmenuitem-zoom-enlarge =
     .label = गेदेरै जुम खालाम
 appmenuitem-zoom-reduce =
     .label = फिसायै जुम खालाम
+
 appmenuitem-fullscreen =
     .label = आबुं स्क्रिन
 
@@ -30,6 +31,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = दानो सिनक खालाम
+
 appmenuitem-save-page =
     .label = ..बादि बिलाइखौ थिना दोन...
 
@@ -78,3 +80,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = टास्क मेनेजार
+

@@ -34,13 +34,16 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } ओंखार लां
+
 menu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
@@ -306,8 +309,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = जेंना बोस्रांनाय फोरमायथिहोग्रा
     .accesskey = T
-menu-help-taskmanager =
-    .label = टास्क मेनेजार
 menu-help-feedback-page =
     .label = फिनथाइखौ गथाय...
     .accesskey = S

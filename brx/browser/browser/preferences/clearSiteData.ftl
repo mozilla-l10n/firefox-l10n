@@ -34,3 +34,4 @@ clear-site-data-cancel =
 clear-site-data-clear =
     .label = खोमोर
     .accesskey = I
+
