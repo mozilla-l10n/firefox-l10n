@@ -22,9 +22,6 @@ content-tab-security-broken-icon =
 
 ## Toolbar
 
-addons-and-themes-button =
-    .label = Componenti aggiuntivi e temi
-    .tooltip = Gestisci i tuoi componenti aggiuntivi
 addons-and-themes-toolbarbutton =
     .label = Componenti aggiuntivi e temi
     .tooltiptext = Gestisci i tuoi componenti aggiuntivi
@@ -130,3 +127,8 @@ caret-browsing-prompt-check-text = Non chiedere nuovamente.
 repair-text-encoding-button =
     .label = Correggi codifica testo
     .tooltiptext = Cerca di identificare la codifica testo corretta in base al contenuto del messaggio
+
+## no-reply handling
+
+no-reply-title = Risposta non supportata
+no-reply-reply-anyway-button = Rispondi comunque
