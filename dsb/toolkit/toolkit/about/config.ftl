@@ -14,11 +14,15 @@ about-config-intro-warning-button = Riziko akceptěrowaś a pókšacowaś
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Gaž toś te nastajenja změnijośo, móžo to wugbaśe abo wěstotu { -brand-short-name } wobwliwowaś.
+
 about-config-page-title = Rozšyrjone nastajenja
+
 about-config-search-input1 =
     .placeholder = Mě nastajenja pytaś
 about-config-show-all = Wšykne pokazaś
+
 about-config-show-only-modified = Jano změnjone nastajenja pokazaś
+
 about-config-pref-add-button =
     .title = Pśidaś
 about-config-pref-toggle-button =

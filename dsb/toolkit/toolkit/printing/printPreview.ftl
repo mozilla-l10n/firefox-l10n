@@ -38,6 +38,7 @@ printpreview-page-setup =
 printpreview-page =
     .value = Bok:
     .accesskey = B
+
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -61,6 +62,7 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Slědny bok
+
 printpreview-homearrow-button =
     .title = Prědny bok
 printpreview-previousarrow-button =

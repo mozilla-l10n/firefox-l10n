@@ -5,18 +5,18 @@
 add-engine-window =
     .title = Pytnicu pśidaś
     .style = width: 32em;
+
 add-engine-button = Swójsku pytnicu pśidaś
+
 add-engine-name = Mě pytnice
+
 add-engine-alias = Alias
+
 add-engine-url = URL pytnice, wužywajśo %s město pytańskego wuraza
-add-engine-cancel =
-    .label = Pśetergnuś
-    .accesskey = P
-add-engine-ok =
-    .label = Pytnicu pśidaś
-    .accesskey = P
+
 add-engine-dialog =
     .buttonlabelaccept = Pytnicu pśidaś
     .buttonaccesskeyaccept = P
+
 engine-name-exists = Pytnica z tym mjenim južo eksistěrujo
 engine-alias-exists = Pytnica z tym aliasom južo eksistěrujo

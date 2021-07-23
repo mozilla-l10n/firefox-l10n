@@ -129,6 +129,8 @@ security-site-data-only = Jo, { $value } { $unit } sedłowych datow
 security-site-data-cookies-only = Jo, cookieje
 security-site-data-no = Ně
 
+##
+
 image-size-unknown = Njeznaty
 page-info-not-specified =
     .value = Njepódany

@@ -41,7 +41,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Wjelikosć pufrowaka:
+
 perftools-custom-threads-label = Pśidajśo swójske nitki pó mjenju:
+
 perftools-devtools-interval-label = Interwal:
 perftools-devtools-threads-label = Nitki:
 perftools-devtools-settings-label = Nastajenja
@@ -96,12 +98,14 @@ perftools-thread-dns-resolver =
     .title = Na toś tej nitce se DNS-rozeznaśe stawa
 perftools-thread-js-helper =
     .title = Slězynowe źěło JS-pógónjenje ako na pś. kompilěrowanja zwenka głowneje nitki
+
 perftools-thread-task-controller =
     .title = Nitki nitkowego poola TaskController
 
 ##
 
 perftools-record-all-registered-threads = Wuběrki górjejce wobejś a wšě zregistrěrowane nitki nagraś
+
 perftools-tools-threads-input-label =
     .title = Toś te nitkowe mjenja su pśez komu źělona lisćina, kótaraž se wužywa, aby pśepytowanje nitkow w profilowaku zmóžnił. Mě trjeba se jano pó źělach z mjenim nitki makaś, kótarež se ma zapśimjeś. Na prozne znamjenja se źiwa.
 
@@ -110,7 +114,9 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nowy</b>: { -profiler-brand-name } jo něnto we wuwijaŕskich rědach integrěrowany. <a>Dalšne informacije</a> wó toś tom mócnem nowem rěźe.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Za wobgranicowany cas móžośo pśez <a>{ options-context-advanced-settings }</a> pśistup k woknoju Wugbaśe měś.
+
 perftools-onboarding-close-button =
     .aria-label = Zapokazowańsku powěsć zacyniś

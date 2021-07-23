@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Standard ({ $name })
 fonts-label-default-unnamed =
     .label = Standard
+
 fonts-encoding-dialog-title =
     .title = Pisma a koděrowanja
+
 fonts-language-legend =
     .value = Pisma:
     .accesskey = P
+
 fonts-proportional-label =
     .value = Proporcionalne:
     .accesskey = r
@@ -85,38 +89,49 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-label =
     .value = Wjelikosć:
     .accesskey = o
+
 font-size-proportional-label =
     .value = Wjelikosć:
     .accesskey = e
+
 font-size-monospace-label =
     .value = Wjelikosć:
     .accesskey = n
+
 font-serif-label =
     .value = Serif:
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
+
 font-monospace-label =
     .value = Monospace:
     .accesskey = M
+
 font-min-size-label =
     .value = Minimalna pismowa wjelikosć:
     .accesskey = i
+
 min-size-none =
     .label = Žedna
 
 ## Fonts in message
 
 font-control-legend = Pismowa kontrola
+
 use-document-fonts-checkbox =
     .label = Dokumentam dowóliś, druge pisma wužywaś
     .accesskey = D
+
 use-fixed-width-plain-checkbox =
     .label = Pismo z kšuteju šyrokosću za powěsći z lutnego teksta wužywaś
     .accesskey = l
@@ -124,13 +139,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Tekstowe koděrowanje
+
 text-encoding-description = Standardnej tekstowej koděrowani za słanje a dostawanje e-maile nastajiś
+
 font-outgoing-email-label =
     .value = Wuchadajucy post:
     .accesskey = u
+
 font-incoming-email-label =
     .value = Dochadajucy post:
     .accesskey = D
+
 default-font-reply-checkbox =
     .label = Jo-lic móžno, standardne tekstowe koděrowanje we wótegronach wužywaś
     .accesskey = J

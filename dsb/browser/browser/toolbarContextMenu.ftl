@@ -30,6 +30,7 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Zacynjone rejtariki wócyniś
         }
     .accesskey = Z
+
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -40,18 +41,21 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Zacynjone rejtariki znowego wócyniś
         }
     .accesskey = Z
+
 toolbar-context-menu-manage-extension =
     .label = Rozšyrjenje zastojaś
     .accesskey = R
 toolbar-context-menu-remove-extension =
     .label = Rozšyrjenje wótwónoźeś
     .accesskey = t
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Rozšyrjenje k wěsći daś
     .accesskey = o
+
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -73,6 +77,7 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Symbolowu rědku pśiměriś…
     .accesskey = S
+
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Pśecej pokazaś
     .accesskey = P
@@ -82,6 +87,7 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Jano w nowem rejtariku pokazaś
     .accesskey = J
+
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Druge cytańske znamjenja pokazaś
     .accesskey = D

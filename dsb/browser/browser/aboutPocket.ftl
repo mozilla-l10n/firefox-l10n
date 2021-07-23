@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Wobznamjenja pśidaś
+
 pocket-panel-saved-error-generic = Pśi składowanju do { -pocket-brand-name } jo zmólka nastała.
 pocket-panel-saved-error-tag-length = Wobznamjenja su na 25 znamuškow wobgranicowane
 pocket-panel-saved-error-only-links = Jano wótkaze daju se składowaś

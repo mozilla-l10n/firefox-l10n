@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Importěrujśo swójo pśizjawjenje z { $browser }</div>
     <div data-l10n-name="line2">za { $host } a druge sedła</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Dalšne informacije
 
