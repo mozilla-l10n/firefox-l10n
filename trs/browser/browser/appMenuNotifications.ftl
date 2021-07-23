@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ga'ue, ngà nika man
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Ganikaj ñu'u' komplementos 'ngà ga'ui' klik <image data-l10n-name='addon-install-icon'></image> riña <image data-l10n-name='addon-menu-icon'></image> menû.
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = Ga'nïn sis ekstensiûn nan ni gi'iaj sunj riña Bentanâ huìi
     .accesskey = A
@@ -52,6 +53,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Si ganikaj ñu'ū' extenesiôn
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = Gatu' riña rakïj ñanj huìi
     .buttonlabel = Gà ngē rakïj ñanj huìi

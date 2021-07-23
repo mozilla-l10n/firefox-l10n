@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Na'nïn ngà { -brand-short-name }
     .accesskey = N
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

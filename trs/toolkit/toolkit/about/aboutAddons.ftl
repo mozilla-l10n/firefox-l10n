@@ -383,6 +383,7 @@ locale-enabled-heading = Ngà 'iaj sunj
 locale-disabled-heading = Nitāj si 'iaj sunj
 
 ask-to-activate-button = Gachinj nì'iaj dugi'iaj sunt man
+
 always-activate-button = Dugi'iaj sun yitïnj man
 never-activate-button = Nitaj aman dugi'iaj sunt man
 
@@ -435,11 +436,16 @@ addon-detail-private-browsing-help = Sisi ga'nïn, ekstensiûn nan ga'ue ni'iaj 
 addon-detail-private-browsing-allow = Ga'nïn
 addon-detail-private-browsing-disallow = Si ga'nï'
 
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended2 =
     .title = { -brand-product-name } nadiganj nej ekstensiûn nikò’ si nuguàn’ ñûnj dàj duguminj nī dàj ‘iaj sunj
     .aria-label = { addon-badge-recommended2.title }
+
+##
 
 available-updates-heading = Nej sa ga'ue nahuin nakà
 recent-updates-heading = Nej sa hìaj nahuin nakà

@@ -205,6 +205,7 @@ cfr-doorhanger-milestone-heading =
         [one] { -brand-short-name } hua arán riñanj <b>{ $blockedCount } nej sa naga'naj a asìj { $date }!
        *[other] { -brand-short-name } blocked over <b>{ $blockedCount }</b> trackers since { $date }!
     }
+
 cfr-doorhanger-milestone-ok-button = Ni'iaj daran'anj
     .accesskey = S
 
@@ -223,4 +224,8 @@ cfr-doorhanger-milestone-ok-button = Ni'iaj daran'anj
 ## DOH Message
 
 ## What's new: Cookies message
+
+## Fission Experiment Message
+
+## Full Video Support CFR message
 

@@ -64,3 +64,4 @@ places-sortby-name =
 places-properties =
     .label = Sa nikaj ñu'un ma
     .accesskey = i
+

@@ -336,3 +336,8 @@ touch-warning = nitaj si 'iaj sun ma da' duguché ro'o: { $preferenceKey }
 policies-inactive = Hua nâ'a
 policies-active = Ngà' 'iaj sunj
 policies-error = Nitaj si hua hue'ej
+
+## Printing section
+
+## Normandy sections
+

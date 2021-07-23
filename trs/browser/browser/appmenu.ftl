@@ -24,6 +24,7 @@ appmenuitem-zoom-enlarge =
     .label = Nāgi’iaj nichrùn’
 appmenuitem-zoom-reduce =
     .label = Nāgi’iaj gùn’
+
 appmenuitem-fullscreen =
     .label = Nagi'iaj gachrò' riña aga' sikà' ràa
 
@@ -31,12 +32,14 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Gi'iaj sun nugua'ān ma
+
 appmenuitem-save-page =
     .label = Na'nïnj sà' Pâjina Gù'na…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nù huin sa nakà hua
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -89,3 +92,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Sa nikaj ñu'unj nej suun
+

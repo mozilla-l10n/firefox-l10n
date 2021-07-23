@@ -586,6 +586,7 @@ home-prefs-topsites-description = Riña gaché nu yitïnjt
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Sa hua hue'e taj { $provider }
+
 ##
 
 home-prefs-recommended-by-learn-more = Dàj 'iaj sunj
@@ -611,6 +612,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = 'Ngò dajsu
 home-prefs-snippets-description = Sa nakàa doj riña { -vendor-short-name } nī { -brand-product-name }
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -694,6 +696,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = Sa arajsun' doj
+
 containers-remove-button =
     .label = Dure'
 

@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Na'nïn' menû">
+
 <!ENTITY navbarOverflow.label                "Doj sa ga'ue garasun'">
 
 <!-- Tab context menu -->
@@ -145,19 +146,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Sa gini’iājt">
+
 <!ENTITY historyUndoMenu.label "Rakïj ñanj hiaj narrán nakà">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Sa hiaj narrán nakà">
 
 <!ENTITY appMenuHistory.showAll.label "Digû' riña gaché nu'">
+
 <!ENTITY appMenuHistory.clearRecent.label "Dure' riña gaché nu'...">
 <!ENTITY appMenuHistory.restoreSession.label "Nagi'iaj ñunj sesión gà gachin">
 <!ENTITY appMenuHistory.viewSidebar.label "Ni'io' dukuán gaché nu'">
 <!ENTITY appMenuHistory.hideSidebar.label "Gachrī huì' dukuán 'na' sa nata' danè' gaché nu'">
 <!ENTITY appMenuHistory.recentHistory.label "Riña gaché nu nakò'">
+
 <!ENTITY appMenuHelp.label "Sa ruguñu'unj un">
 
 <!ENTITY appMenuRemoteTabs.label "Nej rakïj ñaj guña huaa">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Si na'nï' rakij ñanj">

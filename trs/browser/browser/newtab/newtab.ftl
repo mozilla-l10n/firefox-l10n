@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Nana'uì'
 
 newtab-search-box-search-the-web-text = Nana'ui'  riña web
+
 newtab-search-box-search-the-web-input =
     .placeholder = Nana'ui'  riña web
     .title = Nana'ui'  riña web
@@ -53,6 +54,8 @@ newtab-topsites-add-button = Nutà'
 newtab-confirm-delete-history-p1 = Yitinj àni ruat dure' daran' riña gaché nut riña pagina na anj?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Si ga'ue dure' sa 'ngà gahuin na
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -191,3 +194,6 @@ newtab-pocket-cta-text = Na'nïnj sà' nej nuguan' 'ï ruhuât riña { -pocket-b
 
 newtab-error-fallback-info = Hua 'ngo sa nu gahui hue'e 'nga gayi'ij na'nïnj ma
 newtab-error-fallback-refresh-link = Nagi'iaj nakà pagina nī garahue ñut
+
+## Customization Menu
+

@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Sa dukuàa
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = na'nïnj sà' about:webrtc danaj
@@ -56,13 +57,7 @@ about-webrtc-ice-pair-bytes-sent = Baits ga'nïn':
 about-webrtc-ice-pair-bytes-received = Baits gunumâ:
 about-webrtc-ice-component-id = Dàj hua ID
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -74,13 +69,16 @@ about-webrtc-type-remote = Sa nâ
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Gutà' si yugui
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Sa naguit
+
 about-webrtc-save-page-label = Na'nïnj sà' pâjina
 about-webrtc-debug-mode-msg-label = Huaj da' gi'iaj depurandoj
 about-webrtc-debug-mode-off-state-label = Hua yugui da' gi'iaj depurandoj
@@ -106,6 +104,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ngà na
 
 ##
 
+
 about-webrtc-local-candidate = Candidatô dukuàa
 about-webrtc-remote-candidate = Candidatô nâ
 about-webrtc-raw-candidates-heading = Daran nej kandidato nakàa
@@ -128,7 +127,6 @@ about-webrtc-encoder-label = Codofikadôr
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -141,11 +139,14 @@ about-webrtc-aec-logging-off-state-msg = nej archibî gi'iaj kapturandôt ni ga'
 
 ##
 
+##
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = ri'ij i { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -156,4 +157,7 @@ about-webrtc-trickle-caption-msg = Nej sa gunïn ràn (gunumâ gisîj ga nuguan'
 
 
 ##
+
+##
+
 

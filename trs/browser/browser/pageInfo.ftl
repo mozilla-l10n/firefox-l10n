@@ -129,6 +129,8 @@ security-site-data-only = Ga'ue, { $value } { $unit } si dato sitio
 security-site-data-cookies-only = Ga'ue, kookies
 security-site-data-no = Si ga'ue
 
+##
+
 image-size-unknown = Sê sa ni'în' huin
 page-info-not-specified =
     .value = Nuni'in ahuin si huin

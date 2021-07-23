@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Gayi'i' 'ngà Modo seguro
+
 refresh-profile =
     .label = Nagi'iaj nakà { -brand-short-name }
 safe-mode-description = Modo seguro huin 'ngò sa yitïnj si'iaj { -brand-short-name } ga'ue ruguñu'unj ma da' nagi'ìa sa gire'e.

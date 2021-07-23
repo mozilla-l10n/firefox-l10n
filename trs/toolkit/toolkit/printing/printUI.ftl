@@ -17,8 +17,6 @@ printui-page-range-custom = Nāgi'iaj mun'ûn'
 printui-page-range-label = Nej ñanj
 printui-page-range-picker =
     .aria-label = Nāguī dà gānikò’ dugui’ nej ñanj
-printui-page-custom-range =
-    .aria-label = Dūguatuj dàj gānikò’ dugui’ nej ñanj
 
 # Section title for the number of copies to print
 printui-copies-label = Ñadu'ua
@@ -35,7 +33,6 @@ printui-less-settings = Dòj sa gā’ue nāgi’io’
 
 # Section title (noun) for the print scaling options
 printui-scale = Skâla:
-printui-scale-fit-to-page = Dunañu man riña pajina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skâla:
 
@@ -44,8 +41,18 @@ printui-options = Sa huā gi'iát
 printui-headers-footers-checkbox = Nārī rà nī dakó pajina
 printui-backgrounds-checkbox = Nārī ñadu'ua Fôndo
 
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+##
+
 printui-system-dialog-link = Ngà chrún nuguan’an nārīt ñadu’ua…
 
 printui-primary-button = Nārī ñadu’ua
 printui-cancel-button = Dūyichin'
+
+## Paper sizes that may be supported by the Save to PDF destination:
+
+## Error messages shown when a user has an invalid input
 

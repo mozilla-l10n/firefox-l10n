@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Nuto' etiketa
+
 pocket-panel-saved-error-generic = Hua 'ngō sa gire' 'ngà na'nín sa't riña { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Ma 25 da'ngā ga'ue garasunt 'ngā etiketa
 pocket-panel-saved-error-only-links = Ma nej sa ga'ue na'ninj sa't huin nek link

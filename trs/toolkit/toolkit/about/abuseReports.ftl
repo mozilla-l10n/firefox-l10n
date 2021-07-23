@@ -38,6 +38,11 @@ abuse-report-submit-button = Gà'nïnj gan'an
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Nuguan' huaj guendâ <span data-l10n-name="addon-name">{ $addon-name }</span> giyichin' man.
 abuse-report-messagebar-submitting = Hìaj na'nïn nuguan'an gan'anj guendâ <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Guruhuât nata' snan'anjt. Ruhuât nadurê' raj? <span data-l10n-name="addon-name">{ $addon-name }</span>

@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Nagi'iaj nakà { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Nagi'iaj nakà { -brand-short-name }
 refresh-profile-description = Nayi'ì nakà ñûn da' nadurê't daran' sa a'ui' yi'ì ni nahuin hìo man doj.

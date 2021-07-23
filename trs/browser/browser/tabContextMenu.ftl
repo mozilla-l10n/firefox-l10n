@@ -54,8 +54,6 @@ move-to-new-window =
     .label = Dusiki' 'ngo Bendâna
     .accesskey = B
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Ganarán riñanj
     .accesskey = c
@@ -68,3 +66,7 @@ move-tabs =
 move-tab =
     .label = Dusikï' rakïj ñanj
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

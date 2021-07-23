@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Gachenu hùì'
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Gachenu hùì'
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Gachenu hùì'
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Gachenu hùì'
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -128,10 +130,12 @@ urlbar-midi-blocked =
     .tooltiptext = Gi'iaj blokeandot MIDI guenda sitio web na.
 urlbar-install-blocked =
     .tooltiptext = Naránt da' nutà' man nej sa huāa guendâ sitiô nan.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Nagi'io' sa arajsun nichrò' doj ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -141,57 +145,13 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Nuto' riña dukuán direksiôn
+
 page-action-manage-extension =
     .label = Ganikaj ñu'un' extensiôn...
 page-action-remove-from-urlbar =
     .label = Guxun' riña dukuán direksiôn
 
 ## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Ga'ni' rakïj ñaj ga'an riña aga'
-           *[other] Ga'ni' { $tabCount } Rakïj ñaj riña aga'
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Ga'ni' rakïj ñaj ga'an riña aga'
-           *[other] Ga'ni' { $tabCount } Rakïj ñaj riña aga'
-        }
-page-action-pocket-panel =
-    .label = Nannj sà' pâjina riña { -pocket-brand-name }
-page-action-copy-url-panel =
-    .label = nako' chrej e
-page-action-copy-url-urlbar =
-    .tooltiptext = nako' chrej e
-page-action-email-link-panel =
-    .label = Ga'ni' Link…
-page-action-email-link-urlbar =
-    .tooltiptext = Ga'ni' Link…
-page-action-share-url-panel =
-    .label = Duyingo'
-page-action-share-url-urlbar =
-    .tooltiptext = Duyingo'
-page-action-share-more-panel =
-    .label = Doj…
-page-action-send-tab-not-ready =
-    .label = 'Iaj sun nugua'ān darn' Aga'a...
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Gachrun rakïj ñanj
-page-action-pin-tab-urlbar =
-    .tooltiptext = Gachrun rakïj ñanj
-page-action-unpin-tab-panel =
-    .label = Ga'ne rakïj ñanj
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Ga'ne rakïj ñanj
 
 ## Auto-hide Context Menu
 
@@ -207,12 +167,15 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Diû nan, nana'uì' ngà:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Naduna daj ga sa nana'uit
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Naduna daj ga sa nana'uit
+
 search-one-offs-context-open-new-tab =
     .label = Nana'ui' riña a'ngô rakïj ñaj nakàa
     .accesskey = T
@@ -222,6 +185,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Dunâj da' nahuin man sa riña nana'uì' niganjt sa ruhuât riña Private Windows
     .accesskey = P
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -252,8 +216,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Digun' sa nagi'iaj 'ngà na'nïnj so'
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Dunahuij
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -282,6 +248,7 @@ identity-weak-encryption = Ûta ninaj hua sifrado arajsun pajinâ na.
 identity-insecure-login-forms = Nej sesion ayi'ì hiuna nī nitaj si yitïnj hua ma.
 identity-permissions =
     .value = Gachinj ni'iô'
+
 identity-permissions-reload-hint = Nagi'iaj nakà ñut pajinâ na da' gi'iaj sun sa nadunat.
 identity-permissions-empty = Nitaj si huaj gatut riña sitio na daj garan' ruat.
 identity-clear-site-data =
@@ -340,6 +307,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Garasun' mikrôfono 'ngà:
     .accesskey = M
+
 popup-all-windows-shared = Daran' ventana nu riña si pantayât ni ga'ue garasun nugua'ān ne'.
 
 ## WebRTC window or screen share tab switch warning
@@ -352,23 +320,28 @@ popup-all-windows-shared = Daran' ventana nu riña si pantayât ni ga'ue garasun
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Gachrūn nuguan' ruhuât nanà'uìt
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Gachrūn nuguan' ruhuât nanà'uìt
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Àsij gan' nikaj ñu'unj nej dugui' navegador
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Nana'ui' 'ngà { $name } nej si gachrun' direksiôn
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Àsij gan' nikaj ñu'unj nej dugui' navegador
+
 urlbar-permissions-granted =
     .tooltiptext = Huā doj nej sa dunâ ni'nïnjt riña sitiô nan da' gi'iaj sun man.
 urlbar-switch-to-tab =
     .value = Naduno' a'ngô rakij ñaj:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = A'ngô ra'a:
+
 urlbar-go-button =
     .tooltiptext = Gun' dukuán 'na direksion
 urlbar-page-action-button =
@@ -399,9 +372,12 @@ urlbar-result-action-visit = Gatu gan'anj ni'iajt
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 'nga nahuin yachij riña aga' sikà ràa
 fullscreen-warning-no-domain = Ñaj na ni 'ngà nahuin yachij ma da'ua gè riña aga' na
+
+
 fullscreen-exit-button = Nagi'iaj lij riña aga' sikà' ràa (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Nagi'iaj lij riña aga' sikà' ràa (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -413,8 +389,6 @@ pointerlock-warning-no-domain = Ñaj na nikaj ñu'unj si punterôt. Ga'ui' Esc d
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Ni'io' sa raj sun nichro' doj
 bookmarks-toolbar-chevron =
     .tooltiptext = Ni'io' a'ngò da'j markador
 bookmarks-sidebar-content =
@@ -449,6 +423,7 @@ bookmarks-tools =
     .label = Si rasun markadores
 bookmarks-bookmark-edit-panel =
     .label = Nagi'io' sa arajsun nichrò' doj
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -473,6 +448,8 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Nanín sa'aj riña { -pocket-brand-name }
     .tooltiptext = Nanín sa'aj riña { -pocket-brand-name }
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

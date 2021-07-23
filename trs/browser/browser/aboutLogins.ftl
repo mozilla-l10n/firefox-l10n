@@ -72,7 +72,6 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Nana'uit riña gayi'i si sesiôn raj? Gi'iaj yuhui { -sync-brand-short-name }
 
-about-logins-login-intro-heading-logged-out = Nana'uî't nej da'nga' huì nū sà' 'iá raj. Nāgi'iaj riña { -sync-brand-short-name } asi gānākāj gā'naj.
 about-logins-login-intro-heading-logged-in = Nu nari'ìj riña gayi'ìt sesiûn hua nuguan'àn
 login-intro-description = Si nari't riña gayi'ìt sesiôn riña { -brand-product-name } riña a'ngo aga'aj, ni ñuna ni'iaj daj gi'iát da' nari't riña aga' na.
 login-intro-instruction-fxa = Giri nej si gayi'ì sesiôn riña { -fxaccount-brand-name } riña nej aga' ngaà nun sa' ma.
@@ -245,3 +244,18 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV Ñanj
        *[other] CSV Archivo
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+## Logins import report page
+

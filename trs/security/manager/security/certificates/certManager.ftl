@@ -213,6 +213,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Huin hia ruhuât nadurê't nej si esepsiûn serbidôr aj.
 delete-ssl-cert-impact = Sisi nadurê't 'ngo esepsiûn serbidôr, ni nanikàj ñunj garasunj sa araj sun niña serbidô dan sani ni'ñan 'ngo sertifikadô ni'ñanj an.
 
+
 delete-ca-cert-title =
     .title = Nadure' asi si gi'iaj guendât nej sertifikadô CA
 delete-ca-cert-confirm = Gachín ni'iát guendâ nadurê't nej sertifikadô CA. Guendâ nej sertifikadô hìaj ga'nïnt ni, sê sa ga nùkuaj ruhuô' gahuin ngà'. Huin ruhuâ yangà't nadurê' raj asi nitaj si yumân ruhuât ni'înt man sà'.
@@ -271,6 +272,8 @@ cert-not-verified-issuer-unknown = Nu ga'ue natsi sertificadô nan dadin' nu ni'
 cert-not-verified-ca-invalid = Nu ga'ue natsi sertificadô nan dadin' nitaj si hua hue'ê sertifikado CA.
 cert-not-verified_algorithm-disabled = Nu ga'ue natsi sertifikadô nan dadin' da'nga' ga'ui' si riñanj nu ni'în si 'ngo da'nga' hia huin man.
 cert-not-verified-unknown = Nu ni'în' nuhuin saj na'ue natsi sertiifikadô nan.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

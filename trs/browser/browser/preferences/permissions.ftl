@@ -5,53 +5,70 @@
 permissions-window =
     .title = Sa huā gi'iát
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Si direksion sitio na
     .accesskey = d
+
 permissions-block =
     .label = Si ga'ni'
     .accesskey = S
+
 permissions-session =
     .label = Ga'ni' gi'iaj sun sesion
     .accesskey = S
+
 permissions-allow =
     .label = Ga'nin'
     .accesskey = A
+
 permissions-site-name =
     .label = Sitio web
+
 permissions-status =
     .label = Daj hua riñaj
+
 permissions-remove =
     .label = Guxun' sitio web
     .accesskey = G
+
 permissions-remove-all =
     .label = Guyun daran sitio web
     .accesskey = G
+
 permissions-button-cancel =
     .label = Duyichin'
     .accesskey = D
+
 permissions-button-ok =
     .label = Na’nïnj sà’ sa nadunat
     .accesskey = s
+
 permission-dialog =
     .buttonlabelaccept = Na’nïnj sà’ sa nadunat
     .buttonaccesskeyaccept = s
+
 permissions-autoplay-menu = Sa ngà hua niña guendâ nej sîtio:
+
 permissions-searchbox =
     .placeholder = Nana'ui' sitio web
+
 permissions-capabilities-autoplay-allow =
     .label = Ga'nïn sa gunïn' ngà sa ni'io'
 permissions-capabilities-autoplay-block =
     .label = Narán riña sa unïn'
 permissions-capabilities-autoplay-blockall =
     .label = Narán riña sa unïn' ngà sa ni'io'
+
 permissions-capabilities-allow =
     .label = Ga'nïn'
 permissions-capabilities-block =
     .label = Si ga'nïn'
 permissions-capabilities-prompt =
     .label = Gachinj na'anj yitïnj
+
 permissions-capabilities-listitem-allow =
     .value = Ga'nïn'
 permissions-capabilities-listitem-block =
@@ -77,6 +94,8 @@ permissions-exceptions-cookie-window =
     .title = Së sa yakaj guano' - Cookies ni nej sa 'na' 'nga sitio
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Ga'ue gatajt ahuin sitio web ga'ue garasun yitïnj kookies ni si dato sitio na. Gachun si direksion sitio ruhuat gini'iaj ni ga'uit 'ngo klik riñ taj garun'. Ga'nïn riña sesión na àsi ma ga'nïn.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 
