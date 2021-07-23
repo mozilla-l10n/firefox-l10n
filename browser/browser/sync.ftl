@@ -6,30 +6,30 @@ fxa-toolbar-sync-syncing =
     .label = Synchronizěrujo se…
 fxa-toolbar-sync-syncing-tabs =
     .label = Rejtariki se synchronizěruju…
-fxa-toolbar-sync-syncing2 = Synchronizěrujo se…
+
 sync-disconnect-dialog-title = Zwisk z { -sync-brand-short-name } źěliś?
+
+fxa-toolbar-sync-syncing2 = Synchronizěrujo se…
+
 sync-disconnect-dialog-title2 = Zwisk źěliś?
 sync-disconnect-dialog-body = { -brand-product-name } pśestanjo waš konto synchronizěrowaś, ale njewulašujo pśeglědowańske daty na toś tom rěźe.
 fxa-disconnect-dialog-title = Zwisk z { -brand-product-name } źěliś?
 fxa-disconnect-dialog-body = { -brand-product-name } buźo se z wašogo konta źěliś, ale njewulašujo pśeglědowańske daty na toś tom rěźe.
 sync-disconnect-dialog-button = Zwisk źěliś
-fxa-signout-dialog-heading = Z { -fxaccount-brand-name } wótzjawiś?
+
 fxa-signout-dialog2-title = Z { -fxaccount-brand-name } wótzjawiś?
 fxa-signout-dialog-body = Synchronizěrowane daty we wašom konśe wóstanu.
-fxa-signout-checkbox =
-    .label = Daty z toś togo rěda (pśizjawjenja, gronidła, historija, cytańske znamjenja atd.) wulašowaś.
-fxa-signout-dialog =
-    .title = Z { -fxaccount-brand-name } wótzjawiś
-    .style = min-width: 375px;
-    .buttonlabelaccept = Wótzjawiś
 fxa-signout-dialog2-button = Wótzjawiś
 fxa-signout-dialog2-checkbox = Daty z toś togo rěda (gronidła, historija, cytańske znamjenja atd.) wulašowaś.
+
 fxa-menu-sync-settings =
     .label = Nastajenja synchronizacije
 fxa-menu-turn-on-sync =
     .value = Sync zmóžniś
 fxa-menu-turn-on-sync-default = Sync zmóžniś
+
 fxa-menu-connect-another-device =
     .label = Drugi rěd zwězaś…
+
 fxa-menu-sign-out =
     .label = Wótzjawiś…

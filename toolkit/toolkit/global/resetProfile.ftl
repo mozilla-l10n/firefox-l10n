@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } wótnowiś
+
 refresh-profile-dialog-title = Standardne nastajenja { -brand-short-name } wótnowiś?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } wótnowiś

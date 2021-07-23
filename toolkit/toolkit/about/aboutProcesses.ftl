@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Procesowy zastojnik
+
 # The Actions column
 about-processes-column-action =
     .title = Akcije
@@ -27,31 +28,6 @@ about-processes-column-cpu-total = CPU
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
-about-processes-browser-process-name = { -brand-short-name } (proces { $pid })
-about-processes-web-process-name = Web (proces { $pid }, źělony)
-about-processes-web-isolated-process-name = Web (proces { $pid }) za { $origin }
-about-processes-web-large-allocation = Web (proces { $pid }, wjeliki) za { $origin }
-about-processes-with-coop-coep-process-name = Web (proces { $pid }, cross-origin izolěrowany) za { $origin }
-about-processes-file-process-name = Dataje (proces { $pid })
-about-processes-extension-process-name = Rozšyrjenja (proces { $pid })
-about-processes-privilegedabout-process-name = Wó (proces { $pid })
-about-processes-plugin-process-name = Tykace (proces { $pid })
-about-processes-privilegedmozilla-process-name = Web (proces { $pid }) za sedła { -vendor-short-name }
-about-processes-gmp-plugin-process-name = Medijowe tykace Gecko (proces { $pid })
-about-processes-gpu-process-name = GPU (proces { $pid })
-about-processes-vr-process-name = VR (proces { $pid })
-about-processes-rdd-process-name = Datowy dekoder (proces { $pid })
-about-processes-socket-process-name = Seś (proces { $pid })
-about-processes-remote-sandbox-broker-process-name = Zdalony broker pěskowego kašćika (proces { $pid })
-about-processes-fork-server-process-name = Forkowy serwer (proces { $pid })
-about-processes-preallocated-process-name = Do togo pśipokazany (proces { $pid })
-about-processes-unknown-process-name = Drugi ({ $type }, proces { $pid })
-# Process
-# Variables:
-#   $name (String) The name assigned to the process.
-#   $pid (String) The process id of this process, assigned by the OS.
-about-processes-process-name = Proces { $pid }: { $name }
-
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
@@ -71,6 +47,7 @@ about-processes-socket-process = Seś ({ $pid })
 about-processes-remote-sandbox-broker-process = Broker zdalonego pěskowego kašćika ({ $pid })
 about-processes-fork-server-process = Serwer Fork ({ $pid })
 about-processes-preallocated-process = Do togo pśipokazany ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -91,17 +68,6 @@ about-processes-with-coop-coep-process-private = { $origin } – priwatny ({ $pi
 
 ## Details within processes
 
-# Single-line summary of threads
-# Variables:
-#    $number (Number) The number of threads in the process. Typically larger
-#                     than 30. We don't expect to ever have processes with less
-#                     than 5 threads.
-about-processes-thread-summary = Nitki ({ $number })
-# Thread details
-# Variables:
-#   $name (String) The name assigned to the thread.
-#   $tid (String) The thread id of this thread, assigned by the OS.
-about-processes-thread-name = Nitka { $tid }: { $name }
 # Single-line summary of threads (non-idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -119,6 +85,7 @@ about-processes-active-threads =
         [few] { $active } aktiwne nitki z { $number }: { $list }
        *[other] { $active } aktiwnych nitkow z { $number }: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -132,21 +99,25 @@ about-processes-inactive-threads =
         [few] { $number } inaktiwne nitki
        *[other] { $number } inaktiwnych nitkow
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = ID nitki: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Rejtarik: { $name }
 about-processes-preloaded-tab = Do togo zacytany nowy rejtarik
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Pódwobłuk: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -163,14 +134,12 @@ about-processes-frame-name-many = Pódwobłuki ({ $number }): { $shortUrl }
 ##                   of `duration-unit-*`.
 
 # Common case.
-about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
-# Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = CPU-cas dogromady: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (měri se)
-# Special case: process or thread is currently idle.
-about-processes-cpu-user-and-kernel-idle = prozny chód ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = inaktiwny
     .title = CPU-cas dogromady: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
@@ -187,10 +156,9 @@ about-processes-cpu-idle = inaktiwny
 ##                        of `memory-unit-*`.
 
 # Common case.
-about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
-# Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Wuwiśe: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

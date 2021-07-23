@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Nic něnto
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = { -brand-shorter-name } pó malsnem znowegostartowanju swóje wócynjone rejtariki a wokna wótnowijo, kótarež njejsu w priwatnem modusu.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = W pórěźe, som zrozměł
+    .buttonaccesskey = z
+appmenu-addon-post-install-message = Klikniśo na <image data-l10n-name='addon-install-icon'></image> w meniju <image data-l10n-name='addon-menu-icon'></image>, aby swóje dodanki zastojał.
+
 appmenu-update-available2 =
     .label = Aktualizacija k dispoziciji
     .buttonlabel = Ześěgnuś
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Nic něnto
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Nowa aktualizacija { -brand-shorter-name } jo k dispoziciji, ale njedajo se instalěrowaś, dokulaž druga kopija { -brand-shorter-name } běžy. Zacyńśo ju, aby z aktualizaciju pókšacował, abo aktualizěrujśo weto (druga kopija pón snaź korektnje njefunkcioněrujo, daniž ju njestartujośo).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = W pórěźe, som zrozměł
-    .buttonaccesskey = z
-appmenu-addon-post-install-message = Klikniśo na <image data-l10n-name='addon-install-icon'></image> w meniju <image data-l10n-name='addon-menu-icon'></image>, aby swóje dodanki zastojał.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = W pórěźe
     .buttonaccesskey = o
-appmenu-addon-post-install-message2 = Zastojśo swóje rozšyrjenja a drastwy z menijom nałoženjow.
 appmenu-addon-post-install-message3 = Zastojśo swóje dodanki a drastwy z menijom nałoženjow.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Toś to rozšyrjenje w priwatnych woknach dowóliś
     .accesskey = T
+    
 appmenu-new-tab-controlled =
     .label = Waš nowy rejtarik jo se změnił.
     .buttonlabel = Změny wobchowaś
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = Z
     .secondarybuttonlabel = Rozšyrjenje znjemóžniś
     .secondarybuttonaccesskey = R
+
 appmenu-new-tab-controlled-changes =
     .label = Waš nowy rejtarik jo se změnił.
     .buttonlabel = Změny wobchowaś

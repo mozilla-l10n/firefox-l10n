@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Meni wócyniś">
+
 <!ENTITY navbarOverflow.label                "Dalšne rědy…">
 
 <!-- Tab context menu -->
@@ -142,19 +143,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "S">
 
 <!ENTITY historyMenu.label "Historija">
+
 <!ENTITY historyUndoMenu.label "Rowno zacynjone rejtariki">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Rowno zacynjone wokna">
 
 <!ENTITY appMenuHistory.showAll.label "Wšu historiju pokazaś">
+
 <!ENTITY appMenuHistory.clearRecent.label "Aktualnu historiju wuprozniś…">
 <!ENTITY appMenuHistory.restoreSession.label "Pjerwjejšne pósejźenje wótnowiś">
 <!ENTITY appMenuHistory.viewSidebar.label "Bócnicu historije pokazaś">
 <!ENTITY appMenuHistory.hideSidebar.label "Bócnicu historije schowaś">
 <!ENTITY appMenuHistory.recentHistory.label "Nejnowša historija">
+
 <!ENTITY appMenuHelp.label "Pomoc">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizěrowane rejtariki">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Žedne wócynjone rejtariki">

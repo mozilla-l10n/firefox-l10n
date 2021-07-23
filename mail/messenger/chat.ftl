@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Pśizamkujo se chatoju
+
 chat-left-chat-icon2 =
     .alt = Jo spušćił chat
+
 chat-participant-owner-role-icon2 =
     .alt = Wobsejźaŕ
+
 chat-participant-administrator-role-icon2 =
     .alt = Administrator
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderator
+
 chat-participant-voiced-role-icon2 =
     .alt = Wobźělnik móžo powěsći pósłaś

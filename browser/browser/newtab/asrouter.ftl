@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Wopytajśo to: Rejtarik pśipěś
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Cogodla se to pokazujo
+
 cfr-doorhanger-extension-cancel-button = Nic něnto
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Něnto pśidaś
     .accesskey = d
 cfr-doorhanger-pintab-ok-button = Toś ten rejtarik pśipěś
     .accesskey = T
+
 cfr-doorhanger-extension-manage-settings-button = Dopóruceńske nastajenja zastojaś
     .accesskey = D
+
 cfr-doorhanger-extension-never-show-recommendation = Toś to dopórucenje njepokazaś
     .accesskey = T
+
 cfr-doorhanger-extension-learn-more-link = Dalšne informacije
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = wót { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Pórucenje
 cfr-doorhanger-extension-notification2 = Dopórucenje
     .tooltiptext = Dopórucenje rozšyrjenja
     .a11y-announcement = Dopórucenje rozšyrjenja k dispoziciji
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Dopórucenje
@@ -63,6 +71,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } wužywarje
        *[other] { $total } wužywarjow
     }
+
 cfr-doorhanger-pintab-description = Mějśo lažki pśistup k swójim nejcesćej wužywane sedła. Źaržćo sedła w rejtariku wócynjone (samo gaž znowego startujośo)
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -70,8 +79,10 @@ cfr-doorhanger-pintab-description = Mějśo lažki pśistup k swójim nejcesćej
 cfr-doorhanger-pintab-step1 = <b>Klikniśo z pšaweju tastu</b> na rejtarik, kótaryž cośo pśipěś.
 cfr-doorhanger-pintab-step2 = Wubjeŕśo <b>Rejtarik pśipěś</b> z menija.
 cfr-doorhanger-pintab-step3 = Jolic sedło ma aktualizaciju, buźośo módry dypk na swójom pśipětem rejtariku wiźeś.
+
 cfr-doorhanger-pintab-animation-pause = Pawza
 cfr-doorhanger-pintab-animation-resume = Pókšacowaś
+
 
 ## Firefox Accounts Message
 
@@ -93,18 +104,24 @@ cfr-protections-panel-link-text = Dalšne informacije
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nowa funkcija:
+
 cfr-whatsnew-button =
     .label = Nowe funkcije a změny
     .tooltiptext = Nowe funkcije a změny
+
 cfr-whatsnew-panel-header = Nowe funkcije a změny
+
 cfr-whatsnew-release-notes-link-text = Wersijowe informacije cytaś
+
 cfr-whatsnew-fx70-title = { -brand-short-name } šěščej za wašu priwatnosć wójujo
 cfr-whatsnew-fx70-body = Nejnowša aktualizacija funkciju slědowański šćit pólěpšujo a wólažcujo wěcej nježli gdy do togo, wěste gronidła za kužde sedło napóraś.
+
 cfr-whatsnew-tracking-protect-title = Šćitajśo se pśed pśeslědowakami
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } wjele cestych pśeslědowakow socialnych a drugich sedłow, kótarež
     slěduju, což online gótujośo.
 cfr-whatsnew-tracking-protect-link-text = Wašu rozpšawu pokazaś
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -117,9 +134,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Wót { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Rozpšawu pokazaś
+
 cfr-whatsnew-lockwise-backup-title = Zawěsććo swóje gronidła
 cfr-whatsnew-lockwise-backup-body = Napórajśo něnto wěste gronidła, ku kótarymž maśo wšuźi pśistup, źož se pśizjawijośo.
 cfr-whatsnew-lockwise-backup-link-text = Zawěsćenja zmóžniś
+
 cfr-whatsnew-lockwise-take-title = Wzejśo swóje gronidła sobu
 cfr-whatsnew-lockwise-take-body = Mobilne nałoženje { -lockwise-brand-short-name } wam wěsty pśistup k wašym zawěsćonym gronidłam wót wšuźi zmóžnja,
 cfr-whatsnew-lockwise-take-link-text = Wobstarajśo se nałoženje
@@ -158,6 +177,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Palcowe wótśišće zablokěrowane
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } wjele palcowych śišćow blokěrujo, kótarež informacije wó wašom rěźe a akcijach gromaźe, aby wabjeński profil wó was napórali.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Palcowe wótśišće
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } móžo wjele palcowych śišćow blokěrowaś, kótarež informacije wó wašom rěźe a akcijach gromaźe, aby wabjeński profil wó was napórali.
@@ -218,6 +238,7 @@ cfr-doorhanger-milestone-heading =
         [few] { -brand-short-name } jo zablokěrował wušej <b>{ $blockedCount }</b> pśeslědowakow wót { $date }!
        *[other] { -brand-short-name } jo zablokěrował wušej <b>{ $blockedCount }</b> pśeslědowakow wót { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -254,12 +275,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Symbol wobraz-we-wobrazu
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Zacyniś
-    .accesskey = Z
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Šćity na jadno póglědnjenje
 cfr-whatsnew-protections-body = Pśeglěd šćitow zespominujuce rozpšawy wó datowych źěrach a zastojanju gronidłow. Móžośo něnto slědowaś, wjele źěrow sćo rozwězał a wiźeś, lěc jadno abo wěcej gronidłow jo było datowej źěrje wustajone.
 cfr-whatsnew-protections-cta-link = Pśeglěd šćitow pokazaś
@@ -269,6 +284,12 @@ cfr-whatsnew-protections-icon-alt = Šćitowy symbol
 
 cfr-whatsnew-better-pdf-header = Lěpše PDF-dožywjenje
 cfr-whatsnew-better-pdf-body = PDF-dokumenty se něnto direktnje w { -brand-short-name } wócynjaju, bźeztogo aby musył źěłowy wótběg pśetergnuś.
+
+cfr-doorhanger-milestone-close-button = Zacyniś
+    .accesskey = Z
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -290,35 +311,15 @@ cfr-doorhanger-fission-secondary-button = Dalšne informacije
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Awtomatiski šćit pśed zakśebjatnymi slědowańskimi taktikami
-cfr-whatsnew-clear-cookies-body = Někotare pśeslědowaki was k drugim websedłam dalej pósrědnjaju, kótarež kšajźu cookieje stajaju. { -brand-short-name } něnto te cookieje awtomatiski lašujo, až  njeby móžno było, wam slědowaś.
-cfr-whatsnew-clear-cookies-image-alt = Ilustracija za zablokěrowany cookie
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Dalšne medijowe wóźeńske elementy
-cfr-whatsnew-media-keys-body = Wótgrajśo awdio abo wideo direktnje ze swójeje tastatury abo z headseta a zastajśo jo. Pśez to móžośo medije z drugego rejtarika, programa, abo samo, gaž wašo licadło jo zawrěte, lažčej wóźiś. Móžośo se teke z pomocu tastow Doprědka a Slědk mjazy cerami gibnuś.
-cfr-whatsnew-media-keys-button = Zgóńśo kak
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Pytańske skrotconki w adresowem pólu
-cfr-whatsnew-search-shortcuts-body = Něnto, gaž pytnicu abo wěste sedło do adresowego póla zapodawaśo, se módre zwězanje dołojce w pytańskich naraźenjach zjewijo. Wubjeŕśo toś to zwězanje, aby swójo pytanje direktnje z adresowego póla dokóńcył.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Šćit pśed złosnymi supercookiejami
-cfr-whatsnew-supercookies-body = Websedła mógu kšajźu wašomu wobglědowakoju „supercookie“ pśidaś, kótaryž móžośo wam pó webje slědowaś, samo za tym až sćo swóje cookieje wulašował. { -brand-short-name } něnto mócny šćit pśeśiwo supercookiejam bitujo, až njeby dali se wužywaś, wašym aktiwitam online wót jadnogo sedła k pśiducemu sedłu slědowaś.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Lěpše zastojanje cytańskich zmanjenjow
-cfr-whatsnew-bookmarking-body = Jo lažčej, pśeglěd nad wašymi nejlubšymi sedłami wobchowaś. { -brand-short-name } se něnto wašo nejlubše městno za skłaźone cytańske znamjenja markujo, pokazujo symbolowu rědku cytańskich znamjenjow pó standarźe na nowych rejtarikach a dajo wam lažki pśistup k zbytkoju wašych cytańskich znamjenjow pśez zarědnik symboloweje rědki.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Wobšyrny šćit pśed slědowanim pśez cookieje někotarych sedłow
-cfr-whatsnew-cross-site-tracking-body = Móžośo šćit pśed slědowanim pśez cookieje pólěpšyś. { -brand-short-name } móžo waše aktiwity a daty na sedło wobgranicowaś, na kótaremž rowno sćo, až njeby se informacije, kótarež su we wobglědowaku skłaźone, mjaz websedłami wuměnili.
 
 ## Full Video Support CFR message
 
