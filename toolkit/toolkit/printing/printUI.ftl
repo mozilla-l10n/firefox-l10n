@@ -57,6 +57,7 @@ printui-two-sided-printing-short-edge = An kurzer Kante spiegeln
 printui-options = Einstellungen
 printui-headers-footers-checkbox = Kopf- und Fußzeilen drucken
 printui-backgrounds-checkbox = Hintergrund drucken
+
 printui-selection-checkbox = Nur Auswahl drucken
 
 ## The "Format" section, select a version of the website to print. Radio
