@@ -27,9 +27,6 @@
 <!ENTITY useHtml.accesskey                    "L">
 <!ENTITY autoQuote.label                      "Válaszoláskor az eredeti szöveg automatikus idézése">
 <!ENTITY autoQuote.accesskey                  "V">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Ez után">
-<!ENTITY then.accesskey                       "E">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Idézéskor,">
 <!ENTITY quoting.accesskey                    "I">

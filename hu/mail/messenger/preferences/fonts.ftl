@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Alapértelmezett ({ $name })
 fonts-label-default-unnamed =
     .label = Alapértelmezett
+
 fonts-encoding-dialog-title =
     .title = Betűk és kódolások
+
 fonts-language-legend =
     .value = Kódolás:
     .accesskey = K
+
 fonts-proportional-label =
     .value = Proporcionális:
     .accesskey = P
@@ -85,38 +89,49 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Talpas
+
 default-font-sans-serif =
     .label = Talpatlan
+
 font-size-label =
     .value = Méret:
     .accesskey = M
+
 font-size-proportional-label =
     .value = Méret:
     .accesskey = e
+
 font-size-monospace-label =
     .value = Méret:
     .accesskey = r
+
 font-serif-label =
     .value = Talpas:
     .accesskey = T
+
 font-sans-serif-label =
     .value = Talpatlan:
     .accesskey = n
+
 font-monospace-label =
     .value = Fix szélességű:
     .accesskey = F
+
 font-min-size-label =
     .value = Legkisebb betűméret:
     .accesskey = L
+
 min-size-none =
     .label = Nincs
 
 ## Fonts in message
 
 font-control-legend = Betűbeállítások
+
 use-document-fonts-checkbox =
     .label = Az üzenetek használhatják a saját maguk által megadott betűkészleteket.
     .accesskey = z
+
 use-fixed-width-plain-checkbox =
     .label = Fix szélességű betűk a normál szöveges üzenetekhez
     .accesskey = x
@@ -124,13 +139,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Szövegkódolás
+
 text-encoding-description = A kimenő és bejövő levelek alapértelmezett karakterkódolása
+
 font-outgoing-email-label =
     .value = Kimenő levelek:
     .accesskey = K
+
 font-incoming-email-label =
     .value = Bejövő levelek:
     .accesskey = B
+
 default-font-reply-checkbox =
     .label = Ha lehet, az alapértelmezett karakterkódolás használata a válasznál
     .accesskey = h

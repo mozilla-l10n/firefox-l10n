@@ -14,11 +14,15 @@ about-config-intro-warning-button = Kockázat elfogadása és továbblépés
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Ezen beállítások megváltoztatása befolyásolhatja a { -brand-short-name } teljesítményét vagy biztonságát.
+
 about-config-page-title = Speciális beállítások
+
 about-config-search-input1 =
     .placeholder = Beállításnév keresése
 about-config-show-all = Összes megjelenítése
+
 about-config-show-only-modified = Csak a módosított beállítások megjelenítése
+
 about-config-pref-add-button =
     .title = Hozzáadás
 about-config-pref-toggle-button =

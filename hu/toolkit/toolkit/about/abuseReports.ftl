@@ -40,6 +40,11 @@ abuse-report-submit-button = Elküldés
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = A(z) <span data-l10n-name="addon-name">{ $addon-name }</span> bejelentése megszakítva.
 abuse-report-messagebar-submitting = Jelentés küldésre erről: <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Köszönjük a bejelentést. Eltávolítja a(z) <span data-l10n-name="addon-name">{ $addon-name }</span> kiegészítőt?

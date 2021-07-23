@@ -51,6 +51,7 @@
 <!ENTITY editRewrapCmd.label "Újratördelés">
 <!ENTITY editRewrapCmd.key "j">
 <!ENTITY editRewrapCmd.accesskey  "r">
+
 <!ENTITY accountManagerCmd.label "Postafiókok beállításai…">
 <!ENTITY accountManagerCmd.accesskey "P">
 

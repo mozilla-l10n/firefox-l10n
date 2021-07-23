@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Csatlakozás a csevegéshez
+
 chat-left-chat-icon2 =
     .alt = Elhagyta a csevegést
+
 chat-participant-owner-role-icon2 =
     .alt = Tulajdonos
+
 chat-participant-administrator-role-icon2 =
     .alt = Adminisztrátor
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderátor
+
 chat-participant-voiced-role-icon2 =
     .alt = A résztvevő küldhet üzeneteket

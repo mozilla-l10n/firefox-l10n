@@ -4,5 +4,6 @@
 
 account-settingsTitle = Hitelesítési beállítások
 account-channelTitle = Alapértelmezett csatornák
+
 account-settings-title = Hitelesítési beállítások
 account-channel-title = Alapértelmezett csatornák

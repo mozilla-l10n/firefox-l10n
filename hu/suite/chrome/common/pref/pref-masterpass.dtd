@@ -3,15 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pref.masterpass.title                  "Mesterjelszó">
-<!ENTITY  managepassword.caption                 "Mesterjelszó lejárata">
-<!ENTITY  managepassword.text                    "A &brandShortName; mikor kérdezze a mesterjelszót:">
-<!ENTITY  managepassword.askfirsttime            "Amikor először szükség van rá">
-<!ENTITY  managepassword.askfirsttime.accesskey  "A">
-<!ENTITY  managepassword.askeverytime            "Minden alkalommal">
-<!ENTITY  managepassword.askeverytime.accesskey  "M">
-<!ENTITY  managepassword.asktimeout              "Ha ">
-<!ENTITY  managepassword.asktimeout.accesskey    "H">
-<!ENTITY  managepassword.timeout.unit            "percig nincs használva">
 
 <!ENTITY  changepassword.caption                 "Mesterjelszó megváltoztatása">
 <!ENTITY  changepassword.text                    "A mesterjelszó olyan érzékeny adatokat véd, mint a webes jelszavak és tanúsítványok.">

@@ -38,6 +38,7 @@ printpreview-page-setup =
 printpreview-page =
     .value = Oldal:
     .accesskey = l
+
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -61,6 +62,7 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Utolsó oldal
+
 printpreview-homearrow-button =
     .title = Első oldal
 printpreview-previousarrow-button =

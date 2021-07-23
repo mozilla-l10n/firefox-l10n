@@ -21,10 +21,6 @@
 "Szoros integráció a &brandShortName; alkalmazáscsomaggal">
 <!ENTITY dict.title "Szótárak">
 <!ENTITY dict_intro.label "A szótárak az üzenetek helyesírás-ellőrzésére használatosak.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label
-'Sok további nyelv telepíthető a <a href="https://addons.mozilla.org/seamonkey/">Mozilla kiegészítők</a>
-oldal <a id="dictURL" href="">szótárak</a> részéről.'>
 <!ENTITY dict_info.label2
 'Számos további nyelv telepíthető a
 <a id="dictURL" href="">szótárok</a> szakaszban a

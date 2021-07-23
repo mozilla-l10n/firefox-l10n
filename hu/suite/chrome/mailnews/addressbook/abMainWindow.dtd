@@ -98,8 +98,6 @@
 <!ENTITY newIM.tooltip                                  "Üzenet küldése vagy csevegés">
 <!ENTITY printButton.tooltip                            "A kijelölt elem nyomtatása">
 <!ENTITY deleteItemButton.tooltip                       "Kiválasztott elemek törlése">
-<!ENTITY throbber.tooltip                               "Ugrás a &vendorShortName; honlapjára">
-<!ENTITY throbber.tooltip2                              "Ugrás a &brandShortName; honlapjára">
 <!ENTITY advancedButton.tooltip                         "Keresés az üzenetekben…">
 
 <!-- Dir Tree header -->

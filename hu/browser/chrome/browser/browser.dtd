@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Menü megnyitása">
+
 <!ENTITY navbarOverflow.label                "További eszközök…">
 
 <!-- Tab context menu -->
@@ -145,19 +146,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "E">
 
 <!ENTITY historyMenu.label "Előzmények">
+
 <!ENTITY historyUndoMenu.label "Nemrég bezárt lapok">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nemrég bezárt ablakok">
 
 <!ENTITY appMenuHistory.showAll.label "Minden előzmény megjelenítése">
+
 <!ENTITY appMenuHistory.clearRecent.label "Előzmények törlése…">
 <!ENTITY appMenuHistory.restoreSession.label "Előző munkamenet helyreállítása">
 <!ENTITY appMenuHistory.viewSidebar.label "Előzmények oldalsáv megjelenítése">
 <!ENTITY appMenuHistory.hideSidebar.label "Előzmények oldalsáv elrejtése">
 <!ENTITY appMenuHistory.recentHistory.label "Közelmúltbeli előzmények">
+
 <!ENTITY appMenuHelp.label "Súgó">
 
 <!ENTITY appMenuRemoteTabs.label "Szinkronizált lapok">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nincsenek nyitott lapok">

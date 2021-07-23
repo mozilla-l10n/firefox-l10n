@@ -58,10 +58,6 @@
 <!ENTITY printButton.label            "Nyomtatás">
 <!ENTITY printButton.tooltip          "Oldal kinyomtatása">
 
-<!ENTITY throbber.tooltip             "Ugrás a &vendorShortName; honlapjára">
-
-<!ENTITY throbber.tooltip2            "Ugrás a &brandShortName; honlapjára">
-
 <!ENTITY locationBar.tooltip          "Írja be a keresendő szót, a kulcsszót vagy a webcímet">
 <!ENTITY locationBar.accesskey        "e">
 <!ENTITY locationBar.title            "Hely">
