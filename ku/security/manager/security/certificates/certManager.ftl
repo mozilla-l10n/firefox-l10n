@@ -195,6 +195,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Ji dil dixwazî sertîfîkaya vê malperê jê bibî?
 delete-ssl-cert-impact = Heke sertîfîkaya malperekê jê bibî, dema ku dîsa wê malperê vekî, dê dîsa ji bo pejirandina sertîfîkayê ji te pirs bike.
 
+
 delete-ca-cert-title =
     .title = Sertîfîkayên CAê jê bibe an jî pê ne bawer be
 delete-ca-cert-confirm = te xwest ku sertîfîkaya CAê jê bibî. Ji bo vesazkirina sertîfîkayan dê hemû sertîfîkayên pêbawer bên rakirin. Dixwazî jê bibî an jî pê ne bawer bî?
@@ -239,6 +240,8 @@ cert-not-verified-issuer-unknown = Ji ber ku weşankar nayê zanîn, sertîfîka
 cert-not-verified-ca-invalid = Ji ber ku sertîfîkaya CA 'ê betal e, ev sertîfîka nehat kontrolkirin.
 cert-not-verified_algorithm-disabled = Ji ber ku ev belgeya erêkirinê bi algorîtmayeke îzmeyê ya ne ewle hatiye îmzekirin, nehate esehîkirin.
 cert-not-verified-unknown = Ev sertîfîka ji ber sedemên nayên zanîn, nehat kontrolkirin.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

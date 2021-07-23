@@ -24,6 +24,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Niha senkronîze bike
+
 appmenuitem-save-page =
     .label = Cuda Tomar Bike...
 
@@ -43,19 +44,12 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Derbarê &brandShortName;ê de
     .accesskey = D
-appmenu-help-troubleshooting-info =
-    .label = Agahiyên tamîrkirinê
-    .accesskey = t
 appmenu-help-feedback-page =
     .label = Ramanan Bişîne…
     .accesskey = R
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Dîsdestpêkirina bi Add-onan hate neçalakirin…
-    .accesskey = r
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

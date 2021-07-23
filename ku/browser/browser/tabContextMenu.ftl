@@ -21,8 +21,10 @@ move-to-new-window =
     .label = Biguheze pencereyeke din
     .accesskey = B
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Hilpekînê bigire
     .accesskey = g
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

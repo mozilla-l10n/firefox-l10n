@@ -47,6 +47,8 @@ permissions-invalid-uri-label = ji kerema xwe navekî derbasdar ê hostê têkev
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Dikarî diyar bikî ka kîjan malper ji bo vekirina pencereyên pop-up bidestûr in. Navnîşana malpera ku dixwazî bi rê ve bibî têkevê û Destûrê Bide bitikîne

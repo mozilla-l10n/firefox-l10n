@@ -8,6 +8,7 @@
 
 
 <!ENTITY appmenu.tooltip                     "Menuyê veke">
+
 <!ENTITY navbarOverflow.label                "Amûrên din…">
 
 <!-- Tab context menu -->
@@ -158,11 +159,13 @@ when there are no windows but Firefox is still running. -->
 
 
 <!ENTITY historyMenu.label "Raborî">
+
 <!ENTITY historyUndoMenu.label "Hilpekînên di nêzîk de hatine girtin">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Pencereyên di nêzîk de hatine girtin">
 
 <!ENTITY appMenuHistory.showAll.label "Hemû Raboriyê nîşan bide">
+
 <!ENTITY appMenuHistory.clearRecent.label "Raboriya nêzîk paqij bike…">
 <!ENTITY appMenuHistory.restoreSession.label "Danişîna berê veava bike">
 <!ENTITY appMenuHistory.viewSidebar.label "Darika kêlekê ya Raboriyê nîşan bide">
