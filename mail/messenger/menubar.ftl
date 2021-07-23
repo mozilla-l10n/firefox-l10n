@@ -16,6 +16,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = 偏好設定
     .accesskey = P
+
 menu-addons-and-themes =
     .label = 附加元件與佈景主題
     .accesskey = A
@@ -25,9 +26,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = 疑難排解模式…
     .accesskey = T
+
 menu-help-exit-troubleshoot-mode =
     .label = 關閉疑難排解模式
     .accesskey = O
+
 menu-help-more-troubleshooting-info =
     .label = 更多疑難排解資訊
     .accesskey = M
@@ -58,12 +61,15 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = 密度
     .accesskey = D
+
 mail-uidensity-compact =
     .label = 緊密
     .accesskey = C
+
 mail-uidensity-normal =
     .label = 標準
     .accesskey = N
+
 mail-uidensity-touch =
     .label = 觸控
     .accesskey = T

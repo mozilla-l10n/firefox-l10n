@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = 憑證簽發單位資訊（AIA）
 certificate-viewer-certificate-policies = 憑證政策
 certificate-viewer-embedded-scts = 嵌入的 SCT
 certificate-viewer-crl-endpoints = CRL 端點
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = 下載
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM（憑證）
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM（金鑰鏈）
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = 此擴充欄位標示為重要，代表客戶端若無法理解此欄位內容就必須拒絕接受憑證。

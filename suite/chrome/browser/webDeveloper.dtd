@@ -19,7 +19,6 @@
 
 <!ENTITY responsiveDesignTool.label      "適應性設計檢視模式">
 <!ENTITY responsiveDesignTool.accesskey  "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label                "滴管">
 <!ENTITY eyedropper.accesskey            "y">

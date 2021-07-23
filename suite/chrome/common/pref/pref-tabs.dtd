@@ -14,12 +14,6 @@
 <!ENTITY relatedAfterCurrent.label "將相關分頁開啟於目前分頁之後">
 <!ENTITY relatedAfterCurrent.accesskey "O">
 
-<!ENTITY loadGroup.label "開啟書籤群組時">
-<!ENTITY loadGroupAppend.label "新增分頁">
-<!ENTITY loadGroupAppend.accesskey "A">
-<!ENTITY loadGroupReplace.label "取代已有分頁">
-<!ENTITY loadGroupReplace.accesskey "R">
-
 <!ENTITY openTabs.label "在下列情形開啟至分頁而非新視窗:">
 
 <!ENTITY middleClick.label "在網頁的鏈結上按中鍵、壓住 Ctrl 按左鍵，或是 Ctrl+Enter">

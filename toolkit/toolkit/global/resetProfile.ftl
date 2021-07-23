@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = 重新整理 { -brand-short-name }
+
 refresh-profile-dialog-title = 要重新整理一下 { -brand-short-name }，還原回預設選項嗎？
 refresh-profile-dialog-button =
     .label = 重新整理 { -brand-short-name }

@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "色彩">
 <!ENTITY lastPickedColor.label "上次使用的色彩">
 <!ENTITY lastPickedColor.accessKey "L">
-<!ENTITY setColor1.label "選擇一種色彩或">
-<!ENTITY setColor2.label "輸入 HTML 色彩字串">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "選擇色彩:">
 <!ENTITY chooseColor2.label "輸入 HTML 色彩字串">
 <!ENTITY chooseColor2.accessKey "H">

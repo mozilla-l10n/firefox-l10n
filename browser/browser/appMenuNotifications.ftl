@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = 暫時不要
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = 快速重新啟動後，{ -brand-shorter-name } 將還原您所有不在隱私瀏覽模式中開啟的分頁與視窗。
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = 好的，知道了
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = 請點擊 <image data-l10n-name='addon-menu-icon'></image> 選單中的 <image data-l10n-name='addon-install-icon'></image> 來管理附加元件。
+
 appmenu-update-available2 =
     .label = 有可用的更新
     .buttonlabel = 下載
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = 現在不要
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = { -brand-shorter-name } 已經推出，但由於有另一份 { -brand-shorter-name } 仍在執行，無法安裝。請將其關閉來完成更新，或是點擊「仍然更新」（但那一份 { -brand-shorter-name } 在重新啟動前運作可能會不正常）。
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = 好的，知道了
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = 請點擊 <image data-l10n-name='addon-menu-icon'></image> 選單中的 <image data-l10n-name='addon-install-icon'></image> 來管理附加元件。
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = 好的
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = 透過應用程式選單管理您的擴充套件與佈景主題。
 appmenu-addon-post-install-message3 = 透過應用程式選單管理您的附加元件與佈景主題。
 appmenu-addon-post-install-incognito-checkbox =
     .label = 允許此擴充套件於隱私瀏覽視窗中執行
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = 您的「新分頁」已經變更。
     .buttonlabel = 保留變更
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = 停用擴充套件
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = 您的新分頁已經變更。
     .buttonlabel = 保留變更

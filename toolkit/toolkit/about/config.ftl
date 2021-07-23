@@ -14,11 +14,15 @@ about-config-intro-warning-button = 接受風險並繼續
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = 調整這些偏好設定，可能會影響 { -brand-short-name } 的效能或安全性。
+
 about-config-page-title = 進階偏好設定
+
 about-config-search-input1 =
     .placeholder = 搜尋偏好設定
 about-config-show-all = 全部顯示
+
 about-config-show-only-modified = 只顯示更改過的偏好設定
+
 about-config-pref-add-button =
     .title = 新增
 about-config-pref-toggle-button =
