@@ -10,7 +10,6 @@
 <!ENTITY feedTitle.accesskey         "v">
 
 
-<!ENTITY feedLocation.placeholder    "Įveskite galiojantį sklaidos kanalo adresą">
 <!ENTITY locationValidate.label      "Patikrinti">
 <!ENTITY validateText.label          "Patikrinti atitikimą formatams ir gauti tinkamą URL.">
 

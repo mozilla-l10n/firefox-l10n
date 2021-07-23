@@ -8,8 +8,10 @@ password-quality-meter = Slaptažodžio kokybės matavimas
 
 change-password-window =
     .title = Pagrindinio slaptažodžio pakeitimas
+
 change-device-password-window =
     .title = Keisti slaptažodį
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Saugumo priemonė: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = Naujas slaptažodis (pakartoti):
 reset-password-window =
     .title = Pagrindinio slaptažodžio atšaukimas
     .style = width: 40em
+
 pippki-failed-pw-change = Nepavyko pakeisti slaptažodžio.
 pippki-incorrect-pw = Neteisingai surinkote dabartinį slaptažodį. Bandykite dar kartą.
 pippki-pw-change-ok = Slaptažodis sėkmingai pakeistas.
+
 pippki-pw-empty-warning = Jūsų įrašyti slaptažodžiai ir privatūs raktai nebus apsaugoti.
 pippki-pw-erased-ok = Pašalinote slaptažodį. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Įspėjimas! Nusprendėte nesinaudoti pagrindiniu slaptažodžiu. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Šiuo metu pasirinkta FIPS veiksena. Jai reikia slaptažodžio.
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Atšaukti
 reset-password-text = Jei atšauksite pagrindinį slaptažodį, prarasite visus įrašytus svetainių ir el. pašto dėžučių slaptažodžius, formų duomenis, liudijimus ir asmeninius raktus. Ar atšaukti?
+
 reset-primary-password-text = Jei atšauksite pagrindinį slaptažodį, prarasite visus įrašytus svetainių ir el. pašto dėžučių slaptažodžius, liudijimus ir asmeninius raktus. Ar atšaukti?
+
 pippki-reset-password-confirmation-title = Atšaukti pagrindinį slaptažodį
 pippki-reset-password-confirmation-message = Pagrindinis slaptažodis atšauktas.
 

@@ -42,7 +42,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buferio dydis:
+
 perftools-custom-threads-label = Pridėti kitas gijas pagal pavadinimą:
+
 perftools-devtools-interval-label = Intervalas:
 perftools-devtools-threads-label = Gijos:
 perftools-devtools-settings-label = Nuostatos
@@ -101,6 +103,7 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Apeiti pasirinkimus iš aukščiau, ir įrašinėti visas registruotas gijas
+
 perftools-tools-threads-input-label =
     .title = Šie gijų pavadinimai yra kableliais atskirtas sąrašas, naudojamas įjungti gijų profiliavimą. Užtenka, kad pavadinimas tik dalinai atitiktų gijos pavadinimą. Svarbu tuščios vietos simboliai.
 
@@ -108,9 +111,10 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Profiler
 perftools-onboarding-message = <b>Nauja</b>: „{ -profiler-brand-name }“ dabar integruota į programuotojų priemones. <a>Sužinokite daugiau</a> apie šį naują galingą įrankį.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (kurį laiką dar galėsite pasiekti ankstesnį našumo polangį per <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Užverti supažindinimo pranešimą

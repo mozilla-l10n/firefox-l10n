@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = Išleistas naujinimas – atsiųsti dabar
     .label-update-unsupported = Nepavyko atnaujinti – sistema nesuderinama
     .label-update-restart = Išleistas naujinimas – paleisti iš naujo dabar
+
 appmenuitem-protection-dashboard-title = Apsaugos skydelis
 appmenuitem-customize-mode =
     .label = Tvarkyti…
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Užverti programos meniu
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = Padidinti
 appmenuitem-zoom-reduce =
     .label = Sumažinti
+
 appmenuitem-fullscreen =
     .label = Visas ekranas
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinchronizuoti dabar
+
 appmenu-remote-tabs-sign-into-sync =
     .label = Prisijungti sinchronizavimui…
 appmenu-remote-tabs-turn-on-sync =
     .label = Įjungti sinchronizavimą…
+
 appmenuitem-fxa-toolbar-sync-now2 = Sinchronizuoti dabar
 appmenuitem-fxa-manage-account = Tvarkyti paskyrą
 appmenu-fxa-header2 = „{ -fxaccount-brand-name }“ paskyra
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = Prisijungti
 appmenu-fxa-setup-sync =
     .label = Įjungti sinchronizavimą…
 appmenu-fxa-show-more-tabs = Rodyti daugiau kortelių
+
 appmenuitem-save-page =
     .label = Įrašyti kaip…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Kas naujo
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,33 +103,47 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Rodyti daugiau informacijos
+
 profiler-popup-description-title =
     .value = Įrašykite, analizuokite, dalinkitės
+
 profiler-popup-description = Bendraukite spręsdami našumo problemas, paskelbdami profilius pasidalinimui su savo komanda.
+
 profiler-popup-learn-more = Sužinoti daugiau
+
 profiler-popup-settings =
     .value = Nuostatos
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Keisti nuostatas…
+
 profiler-popup-disabled = Profiliuoklė šiuo metu išjungta, greičiausiai dėl atverto privačiojo naršymo lango.
+
 profiler-popup-recording-screen = Įrašinėjama…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Pasirinktinės
+
 profiler-popup-start-recording-button =
     .label = Pradėti įrašinėjimą
+
 profiler-popup-discard-button =
     .label = Atmesti
+
 profiler-popup-capture-button =
     .label = Užfiksuoti
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -135,6 +156,7 @@ appmenu-manage-history =
     .label = Tvarkyti žurnalą
 appmenu-reopen-all-tabs = Įkelti visas korteles
 appmenu-reopen-all-windows = Įkelti visus langus
+
 appmenu-restore-session =
     .label = Atkurti paskiausiąjį seansą
 appmenu-clear-history =
@@ -190,6 +212,7 @@ appmenu-customizetoolbar =
     .label = Tvarkyti priemonių juostą…
 appmenu-taskmanager =
     .label = Užduočių tvarkytuvė
+
 appmenu-developer-tools-subheader = Naršyklės įrankiai
 appmenu-developer-tools-extensions =
     .label = Priedai programuotojams

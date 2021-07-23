@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Taupant vietą diske, neparsiųsti:">
 <!ENTITY doNotDownloadNntp.label "Taupant vietą diske, naudojimui neprisijungus prie tinklo neparsiųsti:">
 <!ENTITY doNotDownloadImap.label "Taupant vietą diske, galima apriboti laiškų, parsiunčiamų iš serverio ir laikomų diske naudojimui neprisijungus, amžių bei dydį.">
-<!ENTITY allFoldersOffline.label "Šios paskyros laiškus laikyti šiame kompiuteryje">
-<!ENTITY allFoldersOffline.accesskey "Š">
 <!ENTITY offlineNotDownload.label "laiškų, didesnių kaip">
 <!ENTITY offlineNotDownload.accesskey "d">
 <!ENTITY autosyncNotDownload.label "Neparsiųsti laiškų, didesnių kaip">

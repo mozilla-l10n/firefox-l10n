@@ -20,10 +20,3 @@
 <!ENTITY loadNoImagesRadio.accesskey    "N">
 <!ENTITY viewPermissions.label          "Tvarkyti leidimus">
 <!ENTITY viewPermissions.accesskey      "T">
-<!ENTITY animLoopingTitle.label         "Paveikslo animacijos ciklo kartojimas">
-<!ENTITY animLoopAsSpecified.label      "Kartoti tiek kartų, kiek nurodyta paveikslo nuostatose">
-<!ENTITY animLoopAsSpecified.accesskey  "r">
-<!ENTITY animLoopOnce.label             "Vieną kartą">
-<!ENTITY animLoopOnce.accesskey         "V">
-<!ENTITY animLoopNever.label            "Neanimuoti">
-<!ENTITY animLoopNever.accesskey        "N">

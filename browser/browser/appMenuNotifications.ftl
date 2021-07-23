@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ne dabar
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Po greito perleidimo, „{ -brand-shorter-name }“ atkurs visas jūsų atviras korteles ir langus, kurie nėra privačiojo naršymo veiksenoje.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Gerai, supratau
+    .buttonaccesskey = G
+appmenu-addon-post-install-message = Tvarkykite savo priedus paspausdami <image data-l10n-name='addon-install-icon'></image>, esantį <image data-l10n-name='addon-menu-icon'></image> meniu.
+
 appmenu-update-available2 =
     .label = Išleistas naujinimas
     .buttonlabel = Atsiųsti
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ne dabar
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Yra išleistas „{ -brand-shorter-name }“ naujinimas, tačiau jo negalima įdiegti dėl šiuo metu veikiančios kitos „{ -brand-shorter-name }“ kopijos. Užverkite ją, norėdami tęsti naujinimą, arba pasirinkite „Vis tiek naujinti“ (kita kopija gali veikti netinkamai, kol nepaleisite iš naujo).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Gerai, supratau
-    .buttonaccesskey = G
-appmenu-addon-post-install-message = Tvarkykite savo priedus paspausdami <image data-l10n-name='addon-install-icon'></image>, esantį <image data-l10n-name='addon-menu-icon'></image> meniu.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Gerai
     .buttonaccesskey = G
-appmenu-addon-post-install-message2 = Tvarkykite savo priedus ir grafinius apvalkalus per programos meniu.
 appmenu-addon-post-install-message3 = Tvarkykite savo priedus ir grafinius apvalkalus per programos meniu.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Leisti šiam priedui veikti privačiojo naršymo languose
     .accesskey = L
+    
 appmenu-new-tab-controlled =
     .label = Pasikeitė jūsų nauja kortelė.
     .buttonlabel = Palikti pakeitimus
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = k
     .secondarybuttonlabel = Išjungti priedą
     .secondarybuttonaccesskey = j
+
 appmenu-new-tab-controlled-changes =
     .label = Pasikeitė jūsų nauja kortelė.
     .buttonlabel = Palikti pakeitimus

@@ -7,6 +7,7 @@
 <!ENTITY popupWindowRejectCmd.accesskey "N">
 <!ENTITY popupWindowAllowCmd.label      "Leisti atverti iškylančiuosius langus iš šios svetainės">
 <!ENTITY popupWindowAllowCmd.accesskey  "L">
+
 <!ENTITY openLinkCmdInTab.label       "Atverti saitą naujoje kortelėje">
 <!ENTITY openLinkCmdInTab.accesskey   "v">
 <!ENTITY openLinkCmd.label            "Atverti saitą naujame lange">

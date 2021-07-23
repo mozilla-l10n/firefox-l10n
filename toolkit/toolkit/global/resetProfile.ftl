@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Atšviežinti „{ -brand-short-name }“
+
 refresh-profile-dialog-title = Atkurti „{ -brand-short-name }“ su numatytomis nuostatomis?
 refresh-profile-dialog-button =
     .label = Atšviežinti „{ -brand-short-name }“

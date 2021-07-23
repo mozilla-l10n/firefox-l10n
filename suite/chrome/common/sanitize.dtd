@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sanitizeDialog.title            "Privačių duomenų šalinimas">
+
 <!ENTITY sanitizeItems.label             "Išvalyti šiuos objektus:">
 
 <!ENTITY itemHistory.label               "naršymo žurnalą">

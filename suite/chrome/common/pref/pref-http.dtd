@@ -15,8 +15,6 @@
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
 <!ENTITY prefPara                            "Šios parinktys gali pagerinti HTTP ryšius. Pavyzdžiui, yra įgaliotųjų serverių, reikalaujančių HTTP/1.0 protokolo (daugiau apie tai rašoma programų paketo laidos informacijoje).">
 <!ENTITY prefUseragent.label                 "Naršyklės identifikacinė eilutė">
-<!ENTITY prefFirefoxCompat.label             "Skelbti apie suderinamumą su „Firefox“">
-<!ENTITY prefFirefoxCompat.accesskey         "F">
 
 
 

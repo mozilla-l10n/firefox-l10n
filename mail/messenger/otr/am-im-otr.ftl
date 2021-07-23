@@ -17,15 +17,19 @@ otr-log =
     .label = Įtraukite OTR užšifruotus pranešimus į pokalbių žurnalus
 otr-requireEncryption =
     .label = Reikalauti abipusiai šifruoti tiesioginius privačius pokalbius
+otr-verifyNudge =
+    .label = Visada priminkite man patvirtinti nepatikrintą kontaktą
+
+otr-notYetAvailable = kol kas nepasiekiamas
+
 otr-require-encryption =
     .label = Tiesioginiai privatūs pokalbiai turi būti abipusiai šifruoti
 otr-require-encryption-info =
     Kai reikalaujate abipusio šifravimo, pranešimai privačiuose pokalbiuose
     nebus siunčiami, jei jų nebus galima užšifruoti. Gautos nešifruotos žinutės
     nebus rodomos kaip įprasto pokalbio dalis ir nebus fiksuojamos.
-otr-verifyNudge =
-    .label = Visada priminkite man patvirtinti nepatikrintą kontaktą
-otr-notYetAvailable = kol kas nepasiekiamas
 otr-verify-nudge =
     .label = Visada priminti, kad reikia patikrinti nepatvirtintą kontaktą
+
 otr-not-yet-available = kol kas nepasiekiamas
+
