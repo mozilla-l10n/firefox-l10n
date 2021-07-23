@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = ਹੁਣੇ ਨਹੀਂ
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = ਤੁਰੰਤ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੇ ਬਾਅਦ { -brand-shorter-name } ਤੁਹਾਡੀਆਂ ਖੁੱਲੀਆਂ ਟੈਬਾਂ ਅਤੇ ਵਿੰਡੋ, ਜੋ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ 'ਚ ਨਹੀਂ ਹਨ, ਨੂੰ ਬਹਾਲ ਕਰੇਗਾ।
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = <image data-l10n-name='addon-install-icon'></image> ਮੇਨੂ ਵਿੱਚ <image data-l10n-name='addon-menu-icon'></image> ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਆਪਣੇ ਐਡਆਨ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋੋ।
+
 appmenu-update-available2 =
     .label = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹਨ
     .buttonlabel = ਡਾਊਨਲੋਡ
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = ਹੁਣੇ ਨਹੀਂ
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = ਨਵਾਂ { -brand-shorter-name } ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ, ਪਰ { -brand-shorter-name } ਦੀ ਹੋਰ ਕਾਪੀ ਚੱਲ ਰਹੀ ਹੋਣ ਕਰਕੇ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਇਸ ਨੂੰ ਬੰਦ ਕਰੋ ਜਾਂ ਕਿਵੇਂ ਵੀ ਅੱਪਡੇਟ ਕਰੋ (ਤੁਹਾਡੇ ਵਲੋਂ ਉਸ ਕਾਪੀ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਤੋਂ ਉਹ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਵੀ ਕਰ ਸਕਦੀ ਹੈ)।
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = <image data-l10n-name='addon-install-icon'></image> ਮੇਨੂ ਵਿੱਚ <image data-l10n-name='addon-menu-icon'></image> ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਆਪਣੇ ਐਡਆਨ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋੋ।
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ਠੀਕ ਹੈ
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = ਆਪਣੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਅਤੇ ਥੀਮਾਂ ਦਾ ਐਪਲੀਕੇਸ਼ਨ ਮੀਨੂ ਰਾਹੀਂ ਇੰਤਜ਼ਾਮ ਕਰੋ।
 appmenu-addon-post-install-message3 = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਰਾਹੀਂ ਆਪਣੀਆਂ ਐਡ-ਆਨ ਤੇ ਥੀਮ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ।
 appmenu-addon-post-install-incognito-checkbox =
     .label = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਜ਼ ਵਿੱਚ ਚੱਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = ਤੁਹਾਡੀ ਨਵੀਂ ਟੈਬ ਬਦਲੀ ਜਾ ਚੁੱਕੀ ਹੈ।
     .buttonlabel = ਤਬਦੀਲੀਆਂ ਨੂੰ ਰੱਖੋ
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = ਇਕਟੈਨਸ਼ਨ ਅਸਮਰੱਥ ਕਰੋ
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = ਤੁਹਾਡੀ ਨਵੀਂ ਟੈਬ ਬਦਲੀ ਗਈ ਹੈ।
     .buttonlabel = ਤਬਦੀਲੀਆਂ ਰੱਖੋ

@@ -5,18 +5,18 @@
 add-engine-window =
     .title = ਖੋਜ ਇੰਜਣ ਜੋੜੋ
     .style = width: 32em;
+
 add-engine-button = ਕਸਟਮ ਇੰਜਣ ਜੋੜੋ
+
 add-engine-name = ਖੋਜ ਇੰਜਣ ਦਾ ਨਾਂ
+
 add-engine-alias = ਉਪ-ਨਾਂ
+
 add-engine-url = ਇੰਜਣ URL, ਖੋਜ ਸ਼ਬਦ ਦੀ ਥਾਂ %s ਵਰਤੋਂ
-add-engine-cancel =
-    .label = ਰੱਦ ਕਰੋ
-    .accesskey = C
-add-engine-ok =
-    .label = ਇੰਜਣ ਜੋੜੋ
-    .accesskey = A
+
 add-engine-dialog =
     .buttonlabelaccept = ਇੰਜਣ ਜੋੜੋ
     .buttonaccesskeyaccept = A
+
 engine-name-exists = ਉਸ ਨਾਂ ਨਾਲ ਇੰਜਣ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ
 engine-alias-exists = ਉਸ ਉਪ-ਨਾਂ ਨਾਲ ਇੰਜਣ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ

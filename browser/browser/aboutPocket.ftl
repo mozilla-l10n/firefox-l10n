@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ਟੈਗ ਨੂੰ ਜੋੜੋ
+
 pocket-panel-saved-error-generic = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੌਰਾਨ ਗਲਤੀ ਸੀ।
 pocket-panel-saved-error-tag-length = ਟੈਗ 25 ਅੱਖਰਾਂ ਤੱਕ ਸੀਮਿਤ ਹਨ
 pocket-panel-saved-error-only-links = ਕੇਵਲ ਲਿੰਕਾਂ ਨੂੰ ਹੀ ਸੰਭਾਲਿਆ ਜਾ ਸਕਦਾ ਹੈ

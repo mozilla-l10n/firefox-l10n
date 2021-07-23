@@ -195,6 +195,7 @@
 <!ENTITY pasteButton.tooltip            "ਚੇਪੋ">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "r"> 
 <!ENTITY subject.accesskey "S">
 

@@ -129,6 +129,8 @@ security-site-data-only = ਹਾਂ ਜੀ, { $value } { $unit } ਸਾਈਟ �
 security-site-data-cookies-only = ਹਾਂ ਜੀ, ਕੂਕੀਜ਼
 security-site-data-no = ਨਹੀਂ
 
+##
+
 image-size-unknown = ਅਣਜਾਣ
 page-info-not-specified =
     .value = ਦਿੱਤਾ ਨਹੀਂ

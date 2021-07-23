@@ -5,65 +5,85 @@
 permissions-window =
     .title = ਛੋਟ
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ਵੈੱਬਸਾਈਟ ਦਾ ਸਿਰਨਾਵਾਂ
     .accesskey = d
+
 permissions-block =
     .label = ਪਾਬੰਦੀ
     .accesskey = B
+
 permissions-session =
     .label = ਇਸ ਸ਼ੈਸ਼ਨ ਲਈ
     .accesskey = S
+
 permissions-allow =
     .label = ਮਨਜ਼ੂਰ ਕਰੋ
     .accesskey = A
+
 permissions-button-off =
     .label = ਬੰਦ ਕਰੋ
     .accesskey = O
+
 permissions-button-off-temporarily =
     .label = ਆਰਜੀ ਤੌਰ 'ਤੇ ਬੰਦ ਕਰੋ
     .accesskey = T
+
 permissions-site-name =
     .label = ਵੈੱਬਸਾਈਟ
+
 permissions-status =
     .label = ਹਾਲਤ
+
 permissions-remove =
     .label = ਵੈੱਬਸਾਈਟ ਨੂੰ ਹਟਾਓ
     .accesskey = R
+
 permissions-remove-all =
     .label = ਸਾਰੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਹਟਾਓ
     .accesskey = e
+
 permissions-button-cancel =
     .label = ਰੱਦ ਕਰੋ
     .accesskey = C
+
 permissions-button-ok =
     .label = ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ
     .accesskey = S
+
 permission-dialog =
     .buttonlabelaccept = ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = ਸਾਰੀਆਂ ਵੈਬਸਾਈਟਾਂ ਲਈ ਡਿਫੌਲਟ:
+
 permissions-searchbox =
     .placeholder = ਵੈੱਬਾਸਾਈਟ ਨੂੰ ਲੱਭੋ
+
 permissions-capabilities-autoplay-allow =
     .label = ਆਡੀਓ ਅਤੇ ਵੀਡਿਓ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
 permissions-capabilities-autoplay-block =
     .label = ਆਡੀਓ 'ਤੇ ਪਾਬੰਦੀ ਲਾਓ
 permissions-capabilities-autoplay-blockall =
     .label = ਆਡੀਓ ਅਤੇ ਵੀਡਿਓ ਤੇ ਪਾਬੰਦੀ ਲਾਓ
+
 permissions-capabilities-allow =
     .label = ਮਨਜ਼ੂਰ
 permissions-capabilities-block =
     .label = ਪਾਬੰਦੀ
 permissions-capabilities-prompt =
     .label = ਹਮੇਸ਼ਾਂ ਪੁੱਛੋ
+
 permissions-capabilities-listitem-allow =
     .value = ਮਨਜ਼ੂਰ
 permissions-capabilities-listitem-block =
     .value = ਪਾਬੰਦੀ
 permissions-capabilities-listitem-allow-session =
     .value = ਸ਼ੈਸ਼ਨ ਲਈ ਮਨਜ਼ੂਰ
+
 permissions-capabilities-listitem-off =
     .value = ਬੰਦ
 permissions-capabilities-listitem-off-temporarily =
