@@ -40,6 +40,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fieldMapImport.title "Romela-kahare Buka ya Diaterese">
+
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Data e Rometsweng-kahare bakeng sa Rekoto: ">
 <!ENTITY fieldMapImport.next.accesskey "N">
