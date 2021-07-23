@@ -42,7 +42,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffer-tamaina:
+
 perftools-custom-threads-label = Gehitu hari pertsonalizatuak izenez:
+
 perftools-devtools-interval-label = Tartea:
 perftools-devtools-threads-label = Hariak:
 perftools-devtools-settings-label = Ezarpenak
@@ -101,6 +103,7 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Saihestu goiko hautapenak eta grabatu erregistratutako hari guztiak
+
 perftools-tools-threads-input-label =
     .title = Hari-izen hauek komaz bereizitako zerrenda bat dira eta harien analisia gaitzeko erabiltzen da analizatzailean. Haria kontuan har dadin, nahikoa da hari-izena erdizka bat etortzea; zuriuneak errespetatu egiten dira.
 
@@ -109,7 +112,9 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Berria</b>: { -profiler-brand-name } orain garatzaile-tresnen zati da. Eskuratu tresna boteretsu berri honi buruzko <a>argibide gehiago</a>.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Aldi baterako, jatorrizko Errendimendua panela ere erabil dezakezu <a>{ options-context-advanced-settings }</a> bitartez)
+
 perftools-onboarding-close-button =
     .aria-label = Itxi aurkezpeneko mezua

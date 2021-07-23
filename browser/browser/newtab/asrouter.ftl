@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Probatu hau: ainguratu fitxa
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zergatik ari naizen hau ikusten
+
 cfr-doorhanger-extension-cancel-button = Une honetan ez
     .accesskey = n
+
 cfr-doorhanger-extension-ok-button = Gehitu orain
     .accesskey = G
 cfr-doorhanger-pintab-ok-button = Ainguratu fitxa hau
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Kudeatu gomendioen ezarpenak
     .accesskey = K
+
 cfr-doorhanger-extension-never-show-recommendation = Ez erakutsi gomendio hau
     .accesskey = z
+
 cfr-doorhanger-extension-learn-more-link = Argibide gehiago
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = egilea: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Gomendioa
 cfr-doorhanger-extension-notification2 = Gomendioa
     .tooltiptext = Hedapenaren gomendioa
     .a11y-announcement = Hedapenaren gomendioa erabilgarri dago
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Gomendioa
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] erabiltzaile bat
        *[other] { $total } erabiltzaile
     }
+
 cfr-doorhanger-pintab-description = Eskuratu gehien erabilitako guneetarako sarbide azkarra. Mantendu guneak zabalik fitxa batean (berrabiarazita ere bai).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Eskuratu gehien erabilitako guneetarako sarb
 cfr-doorhanger-pintab-step1 = Egin <b>eskuin-klika</b> ainguratu nahi duzun fitxan.
 cfr-doorhanger-pintab-step2 = Hautatu <b>Ainguratu fitxa</b> menu-aukera.
 cfr-doorhanger-pintab-step3 = Gunea eguneratzen bada, puntu urdin bat ikusiko duzu ainguratutako fitxan.
+
 cfr-doorhanger-pintab-animation-pause = Pausatu
 cfr-doorhanger-pintab-animation-resume = Berrekin
+
 
 ## Firefox Accounts Message
 
@@ -89,16 +100,22 @@ cfr-protections-panel-link-text = Argibide gehiago
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Eginbide berria:
+
 cfr-whatsnew-button =
     .label = Nobedadeak
     .tooltiptext = Nobedadeak
+
 cfr-whatsnew-panel-header = Nobedadeak
+
 cfr-whatsnew-release-notes-link-text = Irakurri bertsio-oharrak
+
 cfr-whatsnew-fx70-title = { -brand-short-name }(e)k zure pribatutasunarengatik gogorrago egiten du borrokan orain
 cfr-whatsnew-fx70-body = Azken eguneraketak jarraipenaren babesaren eginbidea hobetzen du eta inoiz baino gehiago errazten du gune bakoitzerako pasahitzak sortzea.
+
 cfr-whatsnew-tracking-protect-title = Babestu zure burua jarraipen-elementuetatik
 cfr-whatsnew-tracking-protect-body = Zure jarraipena egiten duten sare sozialetako eta guneen arteko ohiko elementuak blokeatzen ditu orain { -brand-short-name }(e)k.
 cfr-whatsnew-tracking-protect-link-text = Ikusi zure txostena
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -109,9 +126,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Data honetatik: { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Ikusi txostena
+
 cfr-whatsnew-lockwise-backup-title = Egin zure pasahitzen babeskopia
 cfr-whatsnew-lockwise-backup-body = Sortu saioa hasi behar duzun toki orotan atzi ditzakezun pasahitz seguruak.
 cfr-whatsnew-lockwise-backup-link-text = Aktibatu babeskopiak
+
 cfr-whatsnew-lockwise-take-title = Eraman pasahitzak zurekin
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } mugikorrerako aplikazioarekin babeskopian dituzun pasahitzak edonondik atzitu ahal izango dituzu.
 cfr-whatsnew-lockwise-take-link-text = Eskuratu aplikazioa
@@ -148,6 +167,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Hatz-marka bidezko jarraipena blokeatuta
     }
 cfr-whatsnew-fingerprinter-counter-body = Zuri buruzko iragarki-profila sortzeko asmoz zure gailuaren eta zure ekintzei buruzko informazioa sekretupean biltzen dituzten hatz-marka bidezko jarraipen-elementuak blokeatzen ditu { -brand-shorter-name }(e)k.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Hatz-marka bidezko jarraipena
 cfr-whatsnew-fingerprinter-counter-body-alt = Zuri buruzko iragarki-profila sortzeko asmoz zure gailuaren eta zure ekintzei buruzko informazioa sekretupean biltzen dituzten hatz-marka bidezko jarraipen-elementuak blokea ditzake { -brand-shorter-name }(e)k.
@@ -206,6 +226,7 @@ cfr-doorhanger-milestone-heading =
         [one] { -brand-short-name }(e)k <b>{ $blockedCount }</b> jarraipen-elementu baino gehiago blokeatu ditu data honetatik aurrera: { $date }
        *[other] { -brand-short-name }(e)k <b>{ $blockedCount }</b> jarraipen-elementu baino gehiago blokeatu ditu data honetatik aurrera: { $date }
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -239,12 +260,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Bideoa beste leiho batean eginbideko ikon
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Itxi
-    .accesskey = x
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Babesak laburrean
 cfr-whatsnew-protections-body = Babesen panelak datu-urratzeen eta pasahitz-kudeaketaren inguruko laburpen-txostenak ditu. Ebatzi dituzun urratzeen jarraipena egin dezakezu orain eta gordetako zure pasahitzen bat datu-urratzeren batean agerian utzi den ikusi.
 cfr-whatsnew-protections-cta-link = Ikusi babesen arbela
@@ -254,6 +269,12 @@ cfr-whatsnew-protections-icon-alt = Babesaren ikonoa
 
 cfr-whatsnew-better-pdf-header = PDF esperientzia hobetua
 cfr-whatsnew-better-pdf-body = PDF dokumentuak orain zuzenean { -brand-short-name }(e)n irekitzen dira, zure lan egiteko modua erraztuz.
+
+cfr-doorhanger-milestone-close-button = Itxi
+    .accesskey = x
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -275,32 +296,15 @@ cfr-doorhanger-fission-secondary-button = Argibide gehiago
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Jarraipen-taktika maltzurretatik babes automatikoa
-cfr-whatsnew-clear-cookies-body = Zenbait jarraipen-elementuk sekretupean cookieak ezartzen dituzten beste webguneetara berbideratzen zaituzte. { -brand-short-name }(e)k automatikoki garbitzen ditu cookie horiek, zure jarraipena egitea saihestuz.
-cfr-whatsnew-clear-cookies-image-alt = Blokeatutako cookiearen ilustrazioa
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Multimedia-kontrol gehiago
-cfr-whatsnew-media-keys-body = Erreproduzitu eta pausatu audioa edo bideoa zure teklatu edo kaskoetatik zuzenean, errazagoa eginez beste fitxa edo programetako multimedia kontrolatzea, zure ordenagailua blokeatuta izanda ere. Pisten artean ere mugi zaitezke atzera eta aurrerako botoiak erabiliz.
-cfr-whatsnew-media-keys-button = Ikasi nola
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Bilatu lasterbideak helbide-barran
-cfr-whatsnew-search-shortcuts-body = Orain, bilaketa-motor edo gune zehatz bat helbide-barran idaztean, lasterbide urdin bat agertuko da azpiko bilaketa-iradokizunetan. Hautatu lasterbidea bilaketa zuzenean helbide-barratik burutzeko.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Supercookie maltzurren aurkako babesa
-cfr-whatsnew-supercookies-body = Webguneek zure nabigatzailean "supercookie" sekretu bat erants dezakete eta webeko zure jarduna jarraitu; zuk cookieak garbitu ondoren ere bai. { -brand-short-name }(e)k orain supercookie hauen aurkako babes sendoa eskaintzen du, zure online jardueraren jarraipenik ez egiteko gune batetik bestera.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Laster-marka hobeak
-cfr-whatsnew-bookmarking-body = Errazagoa da zure gogoko guneak kontrolpean izatea. Gordetako laster-marken kokaleku gogokoena gogoratzen du orain { -brand-short-name }(e)k, laster-marken tresna-barra lehenespenez erakusten da fitxa berrietan eta gainerako laster-marketarako sarbide erraza ematen zaizu tresna-barrako karpetaren bidez.
-
 ## What's new: Cross-site cookie tracking
 
-cfr-whatsnew-cross-site-tracking-header = Guneen arteko cookien jarraipenaren aurkako babes sakona
-cfr-whatsnew-cross-site-tracking-body = Cookien jarraipenaren aurkako babes hobeagoa izatea aukera dezakezu orain. { -brand-short-name }(e)k zure ekintzak eta datuak uneko gunearen testuingurura isola ditzake, nabigatzailean gordetako informazioa webguneen artean parteka ez dadin.
+## Full Video Support CFR message
+

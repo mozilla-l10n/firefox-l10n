@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ados, ulertuta
     .buttonaccesskey = u
 appmenu-addon-post-install-message = Kudeatu zure gehigarriak <image data-l10n-name='addon-menu-icon'></image> menuko <image data-l10n-name='addon-install-icon'></image> ikonoan klik eginez.
+
 appmenu-update-available2 =
     .label = Eguneraketa erabilgarri
     .buttonlabel = Deskargatu
@@ -71,14 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Orain ez
     .secondarybuttonaccesskey = z
 appmenu-update-other-instance-message = { -brand-shorter-name }(r)en eguneraketa berri bat erabilgarri dago baina ezin da instalatu { -brand-shorter-name }(r)en beste kopia bat martxan dagoelako. Itxi ezazu eguneraketarekin jarraitzeko edo aukeratu edozein modutan eguneratzeko (beste kopia agian ez da ondo ibiliko berrabiarazi arte).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Ados
     .buttonaccesskey = A
-appmenu-addon-post-install-message2 = Kudeatu zure hedapen eta itxurak aplikazio-menuaren bitartez.
 appmenu-addon-post-install-message3 = Kudeatu zure gehigarri eta itxurak aplikazio-menuaren bitartez.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Baimendu hedapen honi leiho pribatuetan exekutatzea
     .accesskey = B
+    
 appmenu-new-tab-controlled =
     .label = Zure fitxa berria aldatu egin da.
     .buttonlabel = Mantendu aldaketak
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = M
     .secondarybuttonlabel = Desgaitu hedapena
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = Zure fitxa berria aldatu egin da.
     .buttonlabel = Mantendu aldaketak

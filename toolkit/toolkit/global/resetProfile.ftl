@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Biziberritu { -brand-short-name }
+
 refresh-profile-dialog-title = Berritu { -brand-short-name } bere ezarpen lehenetsietara?
 refresh-profile-dialog-button =
     .label = Biziberritu { -brand-short-name }

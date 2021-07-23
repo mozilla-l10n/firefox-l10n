@@ -40,6 +40,11 @@ abuse-report-submit-button = Bidali
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Bertan behera utzi da <span data-l10n-name="addon-name">{ $addon-name }</span> gehigarrirako salaketa.
 abuse-report-messagebar-submitting = Salaketa bidaltzen <span data-l10n-name="addon-name">{ $addon-name }</span> gehigarrirako.
 abuse-report-messagebar-submitted = Eskerrik asko salaketa bidaltzeagatik. <span data-l10n-name="addon-name">{ $addon-name }</span> gehigarria kendu egin nahi duzu?

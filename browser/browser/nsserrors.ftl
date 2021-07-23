@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Errorea gertatu da { $hostname } ostalarira konektatzean. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Errore-kodea: { $error }
+
 psmerr-ssl-disabled = Ezin da modu seguruan konektatu SSL protokoloa ezgaiturik dago eta.
 psmerr-ssl2-disabled = Ezin da modu seguruan konektatu guneak SSL protokoloaren bertsio zahar eta ez seguru ba erabiltzen du eta.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ziurtagiri baliogabe bat jaso duzu. Jar zaitez harremanetan zerbitzariaren kudeatzailearekin edo dagokionari idatzi hurrengo argibideak emanaz:
     
     Zure ziurtagiriak ziurtagiri-autoritateak jaulkitako beste ziurtagiri baten serie-zenbaki berdina du. Mesedez lortu serie-zenbaki esklusiboa duen beste ziurtagiri bat.
+
 ssl-error-export-only-server = Ezin da modu seguruan komunikatu. Parekoak ez du maila altuko zifraketarik onartzen.
 ssl-error-us-only-server = Ezin da modu seguruan komunikatu. Parekoak onartzen ez den maila altuko zifraketa eskatzen du.
 ssl-error-no-cypher-overlap = Ezin da parekoarekin modu seguruan konektatu: ez dago zifraketa algoritmo bateraturik.

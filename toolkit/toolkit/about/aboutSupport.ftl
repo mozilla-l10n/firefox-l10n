@@ -4,6 +4,7 @@
 
 page-title = Arazoak konpontzeko informazioa
 page-subtitle = Orri honek arazo bat konpontzeko erabilgarria izan daitekeen informazio teknikoa du. { -brand-short-name }(r)i buruzko ohiko galderen erantzunen bila bazabiltza, bisitatu gure <a data-l10n-name="support-link">laguntzaren webgunea</a>.
+
 crashes-title = Hutsegite-txostenak
 crashes-id = Txostenaren IDa
 crashes-send-date = Noiz bidalia
@@ -130,6 +131,7 @@ sandbox-sys-call-number = Sistema-deia
 sandbox-sys-call-args = Argumentuak
 safe-mode-title = Probatu modu segurua
 restart-in-safe-mode-label = Berrabiarazi gehigarriak desgaituta…
+
 troubleshoot-mode-title = Diagnostikatu arazoak
 restart-in-troubleshoot-mode-label = Arazoak konpontzeko modua…
 clear-startup-cache-title = Saiatu abioko cachea garbitzen
@@ -217,6 +219,7 @@ support-third-party-modules-down-icon =
     .title = Erakutsi informazio xehatua
 support-third-party-modules-up-icon =
     .title = Tolestu informazio xehatua
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -224,6 +227,7 @@ report-crash-for-days =
         [one] Azken eguneko hutsegite-txostenak
        *[other] Azken { $days } egunetako hutsegite-txostenak
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -231,6 +235,7 @@ crashes-time-minutes =
         [one] Duela minutu bat
        *[other] Duela { $minutes } minutu
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -238,6 +243,7 @@ crashes-time-hours =
         [one] Duela ordubete
        *[other] Duela { $hours } ordu
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -245,6 +251,7 @@ crashes-time-days =
         [one] Duela egun bat
        *[other] Duela { $days } egun
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -252,6 +259,7 @@ pending-reports =
         [one] Hutsegite-txosten guztiak (emandako denbora-tartean zain dagoen hutsegite bat kontuan hartuta)
        *[other] Hutsegite-txosten guztiak (emandako denbora-tartean zain daude { $reports } hutsegite kontuan hartuta)
     }
+
 raw-data-copied = Testu gordina arbelean kopiatu da
 text-copied = Testua arbelean kopiatu da
 
@@ -264,9 +272,11 @@ blocked-mismatched-version = Blokeatuta zure txartel grafikoaren kontrolatzailee
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Txartel grafikoaren kontrolatzailearen bertsioak blokeatuta. Saiatu zure txartel grafikoaren kontrolatzaileak { $driverVersion } edo bertsio berriagora eguneratzen.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametroak
+
 compositing = Konposatzea
 hardware-h264 = Hardware bidezko H264 deskodetzea
 main-thread-no-omtc = hari nagusia, OMTCrik ez
@@ -281,6 +291,7 @@ virtual-monitor-disp = Monitore birtualaren pantaila
 
 found = Aurkitua
 missing = Falta da
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Deskribapena
@@ -304,20 +315,25 @@ webgl2-version = WebGL 2 kontrolatzailearen bertsioa
 webgl2-driver-extensions = WebGL 2 kontrolatzailearen hedapenak
 webgl2-extensions = WebGL 2 hedapenak
 blocklisted-bug = Arazo ezagunengatik zerrenda beltzean
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = { $bugNumber }. buga
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Zerrenda beltzean arazo ezagunak direla-eta: <a data-l10n-name="bug-link">{ $bugNumber } buga</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Zerrenda beltzean; { $failureCode } hutsegite-kodea
+
 d3d11layers-crash-guard = D3D11 konposatzailea
 d3d11video-crash-guard = D3D11 bideo-deskodetzailea
 d3d9video-crash-guard = D3D9 bideo-deskodetzailea
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX bideo-deskodetzailea
+
 reset-on-next-restart = Berrezarri hurrengo berrabiaraztean
 gpu-process-kill-button = Amaitu GPU prozesua
 gpu-device-reset = Gailua berrabiaraztea
@@ -327,8 +343,10 @@ content-uses-tiling = Mosaikoa darabil (edukia)
 off-main-thread-paint-enabled = Hari nagusitik kanporako margoketa gaituta
 off-main-thread-paint-worker-count = Hari nagusitik kanporako margoketarako langile kopurua
 target-frame-rate = Helburuko marko-emaria
+
 min-lib-versions = Esperotako bertsio minimoa
 loaded-lib-versions = Erabiltzen dagoen bertsioa
+
 has-seccomp-bpf = Seccomp-BPF (Sistema-deien iragaztea)
 has-seccomp-tsync = Seccomp harien sinkronizazioa
 has-user-namespaces = Erabiltzaileen izen-eremuak
@@ -341,15 +359,18 @@ sandbox-proc-type-content = edukia
 sandbox-proc-type-file = fitxategiaren edukia
 sandbox-proc-type-media-plugin = multimedia plugina
 sandbox-proc-type-data-decoder = datu-deskodetzailea
+
 startup-cache-title = Abioko cachea
 startup-cache-disk-cache-path = Diskoko cachearen bide-izena
 startup-cache-ignore-disk-cache = Ezikusi diskoko cachea
 startup-cache-found-disk-cache-on-init = Diskoko cachea aurkitu da abioan
 startup-cache-wrote-to-disk-cache = Diskoko cachera idatzita
+
 launcher-process-status-0 = Gaituta
 launcher-process-status-1 = Desgaituta hutsegitea dela-eta
 launcher-process-status-2 = Behartuta desgaituta
 launcher-process-status-unknown = Egoera ezezaguna
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -362,6 +383,7 @@ multi-process-status-6 = Onartzen ez den testu-sarrerak desgaituta
 multi-process-status-7 = Gehigarriek desgaituta
 multi-process-status-8 = Behartuta desgaituta
 multi-process-status-unknown = Egoera ezezaguna
+
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -376,6 +398,7 @@ fission-status-disabled-by-default = Lehenespenez desgaituta
 fission-status-enabled-by-user-pref = Erabiltzaileak gaituta
 fission-status-disabled-by-user-pref = Erabiltzaileak desgaituta
 fission-status-disabled-by-e10s-other = E10s desgaituta
+
 async-pan-zoom = Mugimendu panoramiko/zoom asinkronoak
 apz-none = bat ere ez
 wheel-enabled = gurpil bidezko sarrera gaituta
@@ -412,6 +435,7 @@ support-remote-experiments-title = Urruneko esperimentuak
 support-remote-experiments-name = Izena
 support-remote-experiments-branch = Esperimentuaren adarra
 support-remote-experiments-see-about-studies = Argibide gehiagorako, ikusi <a data-l10n-name="support-about-studies-link">about:studies</a>. Esperimentu jakinak desgaitzeko edo etorkizunean { -brand-short-name }(e)n esperimenturik ez egiteko informazioa aurkituko duzu.
+
 support-remote-features-title = Urruneko eginbideak
 support-remote-features-name = Izena
 support-remote-features-status = Egoera

@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Inportatu zure saio-hasiera { $browser } nabigatzailetik</div>
     <div data-l10n-name="line2">{ $host } eta beste guneetarako</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Argibide gehiago
 

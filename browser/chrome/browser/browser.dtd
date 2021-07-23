@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Historia">
+
 <!ENTITY historyUndoMenu.label "Itxitako azken fitxak">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Itxitako azken leihoak">
@@ -155,6 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Ikusi historiaren alboko barra">
 <!ENTITY appMenuHistory.hideSidebar.label "Ezkutatu historiaren alboko barra">
 <!ENTITY appMenuHistory.recentHistory.label "Azken historia">
+
 <!ENTITY appMenuHelp.label "Laguntza">
 
 <!ENTITY appMenuRemoteTabs.label "Sinkronizatutako fitxak">

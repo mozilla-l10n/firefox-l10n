@@ -129,6 +129,8 @@ security-site-data-only = Bai, gunearen datuetako { $value } { $unit }
 security-site-data-cookies-only = Bai, cookieak
 security-site-data-no = Ez
 
+##
+
 image-size-unknown = Ezezaguna
 page-info-not-specified =
     .value = Zehaztu gabea
