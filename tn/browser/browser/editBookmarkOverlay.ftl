@@ -21,3 +21,4 @@ bookmark-overlay-folders-expander =
 bookmark-overlay-keyword =
     .value = Lefoko la konokono:
     .accesskey = L
+

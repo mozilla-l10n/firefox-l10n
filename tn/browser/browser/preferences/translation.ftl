@@ -12,3 +12,4 @@ translation-sites-button-remove-all =
 translation-button-close =
     .label = Tswala
     .accesskey = T
+

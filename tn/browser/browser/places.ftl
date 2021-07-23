@@ -38,3 +38,4 @@ places-by-day-and-site =
 places-properties =
     .label = Ditlhagotshedimosetso
     .accesskey = t
+

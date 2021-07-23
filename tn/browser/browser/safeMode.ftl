@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Simolola o le mo Mokgwapabalesego
+
 refresh-profile =
     .label = Ntšhwafatsa { -brand-short-name }
 safe-mode-description = Mokgwapabalesego ke mokgwa o kgethegileng wa { -brand-short-name } o ka dirisediwang go dira tshekatshekotshiamiso mathata.
