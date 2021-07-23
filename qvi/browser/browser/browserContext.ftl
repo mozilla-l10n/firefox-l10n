@@ -7,10 +7,13 @@
 
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
+
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
+
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
@@ -18,10 +21,13 @@ toolbar-button-back-2 =
 
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
+
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
+
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
 
@@ -40,6 +46,8 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
 ## Save Page
 
 toolbar-button-page-save =
@@ -52,6 +60,10 @@ toolbar-button-page-save =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
 
 ## Media (video/audio) controls
 ##
@@ -66,6 +78,12 @@ toolbar-button-page-save =
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+
+##
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
 
 ##
 
