@@ -3,10 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.applications.title "Aplic. auxiliares">
+
 <!ENTITY typeColumn.label "Tipo de contenido">
 <!ENTITY typeColumn.accesskey "T">
+
 <!ENTITY actionColumn2.label "Acción">
 <!ENTITY actionColumn2.accesskey "c">
+
 <!ENTITY search.placeholder "Buscar en los tipos y acciones">
+
 <!ENTITY useAppChooser.label "Usar selector de aplicaciones nativo cuando esté disponible">
 <!ENTITY useAppChooser.accesskey "U">

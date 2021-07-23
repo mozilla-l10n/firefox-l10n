@@ -18,6 +18,7 @@
 <!ENTITY enablePersonalized.label "Personalizar recomendaciones de complementos">
 <!ENTITY enablePersonalized.accesskey "P">
 <!ENTITY addonManagerLink.label "Administrar complementos">
+
 <!ENTITY appUpdates.caption "&brandShortName;">
 <!ENTITY autoAppUpdates.label "Buscar actualizaciones automáticamente">
 <!ENTITY autoAppUpdates.accesskey "u">

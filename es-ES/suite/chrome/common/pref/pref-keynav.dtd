@@ -18,6 +18,7 @@
 <!ENTITY browseWithCaretShortCut.accesskey "s">
 <!ENTITY browseWithCaretWarn.label "Advertirme antes de activar la navegación con cursores">
 <!ENTITY browseWithCaretWarn.accesskey "A">
+
 <!ENTITY modifiers.label "Modificadores">
 <!ENTITY acceleratorKey.label "Tecla aceleradora:">
 <!ENTITY acceleratorKey.accesskey "T">

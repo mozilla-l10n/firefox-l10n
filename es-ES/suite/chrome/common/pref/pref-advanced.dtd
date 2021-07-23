@@ -3,21 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.advanced.title "Avanzadas">
+
 <!ENTITY systemPref.caption "Preferencias de sistema">
 <!ENTITY systemPrefCheck.label "Usar las preferencias del sistema">
 <!ENTITY systemPrefCheck.accesskey "U">
 <!ENTITY systemPref.desc "Con esta opción, &brandShortName; hereda las preferencias del sistema. Los valores globales del sistema prevalecerán sobre las preferencias de &brandShortName;.">
+
 <!ENTITY prefCheckDefault.caption "Integración con el sistema">
 <!ENTITY prefCheckDefaultClient.label "Comprobar la condición de aplicación predeterminada al iniciar">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
+
 <!ENTITY printing.label "Impresión">
 <!ENTITY useNativePrintDialog.label "Usar el diálogo de impresión nativo (donde esté admitido)">
 <!ENTITY useNativePrintDialog.accesskey "a">
 <!ENTITY useGlobalPrintSettings.label "Usar configuración global de impresión">
 <!ENTITY useGlobalPrintSettings.accesskey "b">
+
 <!ENTITY crashReports.caption "Agente de informe de fallos">
 <!ENTITY submitCrashes.label "Enviar informes de fallo">
 <!ENTITY submitCrashes.accesskey "E">
+
 <!ENTITY devTools.caption "Herramientas de desarrollador">
 <!ENTITY allowDebugger.label "Permitir a un depurador conectarse a &brandShortName;">
 <!ENTITY allowDebugger.accesskey "P">

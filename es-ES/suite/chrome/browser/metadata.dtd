@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY no-properties.label "Sin propiedades.">
+
 <!ENTITY caption.label "Propiedades del elemento">
 <!ENTITY image-sec.label "Propiedades de la imagen">
 <!ENTITY image-url.label "Dirección:">

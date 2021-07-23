@@ -220,6 +220,7 @@
 <!ENTITY printButton.tooltip "Imprimir este mensaje">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Otros tipos de campos de dirección">
 <!ENTITY fromAddr2.label "Remitente">
@@ -295,6 +296,7 @@
 <!ENTITY attachPage.label "Adjuntar página web…">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Attachment Pane Header Bar Context Menu -->
 <!-- Attachment Pane Header Bar Context Menu -->
 <!ENTITY initiallyShowAttachmentPane.label "Al abrir, mostrar el panel de adjuntos">
 <!ENTITY initiallyShowAttachmentPane.accesskey "m">

@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
+
 <!ENTITY languages.customize.prefLangDescript "Las páginas web están a veces disponibles en más de un idioma. Escoja los idiomas en los que prefiere ver las páginas web, en orden de preferencia.">
 <!ENTITY languages.customize.title "Idiomas">
 <!ENTITY langtitle.label "Idiomas para páginas web">

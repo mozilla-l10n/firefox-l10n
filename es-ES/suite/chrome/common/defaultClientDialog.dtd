@@ -4,9 +4,11 @@
 
 <!ENTITY defaultClient.title "Cliente predeterminado">
 <!ENTITY defaultClient.intro "Usar &brandShortName; como cliente predeterminado para:">
+
 <!ENTITY browser.label "Navegador">
 <!ENTITY email.label "Correo-e">
 <!ENTITY newsgroups.label "Grupos de noticias">
 <!ENTITY feeds.label "Canales">
+
 <!ENTITY checkOnStartup.label "Hacer siempre esta comprobación al iniciar &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "H">

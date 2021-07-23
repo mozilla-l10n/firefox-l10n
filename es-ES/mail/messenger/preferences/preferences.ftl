@@ -331,6 +331,7 @@ compact-folder-size =
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
+
 use-cache-before =
     .value = Usar hasta
     .accesskey = U
@@ -456,6 +457,7 @@ mark-read-no-delay =
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
+
 mark-read-delay =
     .label = Tras mostrarlo durante
     .accesskey = d
@@ -508,6 +510,7 @@ extension-label =
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
+
 auto-save-label =
     .label = Guardar automáticamente cada
     .accesskey = G

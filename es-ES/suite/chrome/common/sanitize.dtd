@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sanitizeDialog.title "Limpiar datos privados">
+
 <!ENTITY sanitizeItems.label "Vaciar ahora los siguientes elementos:">
+
 <!ENTITY itemHistory.label "Historial de navegación">
 <!ENTITY itemHistory.accesskey "H">
 <!ENTITY itemHistoryS.accesskey "v">
@@ -30,5 +32,6 @@
 <!ENTITY itemPasswordsS.accesskey "u">
 <!ENTITY itemSessions.label "Sesiones activas">
 <!ENTITY itemSessions.accesskey "S">
-<!ENTITY itemSessionsS.accesskey "e">
+
 <!ENTITY sanitizeButton.label "Limpiar datos privados ahora">
+<!ENTITY itemSessionsS.accesskey "e">

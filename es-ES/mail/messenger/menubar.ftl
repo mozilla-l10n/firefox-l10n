@@ -7,3 +7,14 @@
 menu-view-charset =
     .label = Codificación de texto
     .accesskey = c
+
+## Tools Menu
+
+## Help Menu
+
+## Mail Toolbar
+
+## View
+
+## View / Layout
+

@@ -69,6 +69,7 @@
 <!ENTITY browseFolder.accesskey "x">
 <!ENTITY browseNewsrc.label "Examinar…">
 <!ENTITY browseNewsrc.accesskey "e">
+
 <!ENTITY accountTitle.label "Configuración de cuenta">
 <!ENTITY accountSettingsDesc.label "La siguiente cuenta es especial. No tiene identidades asociadas con ella.">
 <!ENTITY storeType.label "Tipo de almacenamiento de mensajes:">
