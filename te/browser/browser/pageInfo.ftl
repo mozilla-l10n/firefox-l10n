@@ -129,6 +129,8 @@ security-site-data-only = అవును, { $value } { $unit } సైటు ద
 security-site-data-cookies-only = అవును, కుకీలు
 security-site-data-no = కాదు
 
+##
+
 image-size-unknown = తెలియని
 page-info-not-specified =
     .value = తెలుపబడని

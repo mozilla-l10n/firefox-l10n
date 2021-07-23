@@ -15,7 +15,9 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = వెతకండి
     .aria-label = వెతకండి
+
 newtab-search-box-search-the-web-text = జాలంలో వెతకండి
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = { $engine }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
@@ -30,10 +32,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
     .title = వెతకండి లేదా చిరునామాను ఇవ్వండి
     .aria-label = వెతకండి లేదా చిరునామాను ఇవ్వండి
+
 newtab-search-box-search-the-web-input =
     .placeholder = జాలంలో వెతకండి
     .title = జాలంలో వెతకండి
     .aria-label = జాలంలో వెతకండి
+
 newtab-search-box-input =
     .placeholder = జాలంలో వెతకండి
     .aria-label = జాలంలో వెతకండి
@@ -46,10 +50,12 @@ newtab-topsites-edit-topsites-header = టాప్ సైట్ను సవ
 newtab-topsites-title-label = శీర్షిక
 newtab-topsites-title-input =
     .placeholder = శీర్షికను నమోదు చేయండి
+
 newtab-topsites-url-label = చిరునామా
 newtab-topsites-url-input =
     .placeholder = URL ను టైప్ చేయండి లేదా అతికించండి
 newtab-topsites-url-validation = చెల్లుబాటు అయ్యే URL అవసరం
+
 newtab-topsites-image-url-label = అభిమత చిత్రపు చిరునామా
 newtab-topsites-use-image-link = అభిమత చిత్రాన్ని వాడు…
 newtab-topsites-image-validation = చిత్రాన్ని లోడు చెయ్యలేకపోయాం. మరో చిరునామా ప్రయత్నించండి.
@@ -78,10 +84,12 @@ newtab-topsite-sponsored = ప్రాయోజితం
 newtab-menu-section-tooltip =
     .title = మెనూని తెరువు
     .aria-label = మెనూని తెరువు
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = తీసివేయి
     .aria-label = తీసివేయి
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -149,10 +157,12 @@ newtab-label-removed-bookmark = ఇష్టాంశం తొలగించ�
 newtab-label-recommended = ట్రెండింగ్
 newtab-label-saved = { -pocket-brand-name }లో భద్రపరచినది
 newtab-label-download = దింపుకున్నవి
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · ప్రాయోజితం
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -191,10 +201,12 @@ newtab-section-header-pocket = { $provider }చే సిఫార్సు చ�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = విహారించడం మొదలుపెట్టండి, మీరు ఈమధ్య చూసిన లేదా ఇష్టపడిన గొప్ప వ్యాసాలను, వీడియోలను, ఇతర పేజీలను ఇక్కడ చూపిస్తాం.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = మీరు పట్టుబడ్డారు. { $provider } నుండి మరింత అగ్ర కథనాల కోసం తరువాత తనిఖీ చేయండి. వేచి ఉండలేరా? జాలములోని అంతటి నుండి మరింత గొప్ప కథనాలను కనుగొనడానికి ప్రసిద్ధ అంశం ఎంచుకోండి.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -228,6 +240,7 @@ newtab-custom-row-selector =
 newtab-custom-pocket-sponsored = ప్రాయోజిక కథనాలు
 newtab-custom-recent-title = ఇటీవలి కార్యకలాపం
 newtab-custom-close-button = మూసివేయి
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

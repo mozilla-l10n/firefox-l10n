@@ -5,10 +5,10 @@
 places-open =
     .label = తెరువు
     .accesskey = O
-places-open-in-tab =
+places-open-tab =
     .label = కొత్త ట్యాబులో తెరువు
     .accesskey = w
-places-open-tab =
+places-open-in-tab =
     .label = కొత్త ట్యాబులో తెరువు
     .accesskey = w
 places-open-all-in-tabs =
@@ -20,6 +20,7 @@ places-open-window =
 places-open-private-window =
     .label = కొత్త ఆంతరంగిక విండోలో తెరువు
     .accesskey = P
+
 places-new-bookmark =
     .label = కొత్త ఇష్టాంశము…
     .accesskey = B
@@ -32,6 +33,7 @@ places-new-folder =
 places-new-separator =
     .label = కొత్త సెపరేటర్
     .accesskey = S
+
 places-view =
     .label = చూడండి
     .accesskey = w
@@ -50,10 +52,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = తేదీ, సైటు క్రమంలో
     .accesskey = t
+
 places-history-search =
     .placeholder = చరిత్రలో వెతకండి
 places-bookmarks-search =
     .placeholder = ఇష్టాంశాలను వెతకండి
+
 places-delete-domain-data =
     .label = ఈ సైటుని మర్చిపో
     .accesskey = F
@@ -63,6 +67,8 @@ places-sortby-name =
 places-properties =
     .label = లక్షణములు
     .accesskey = i
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = ఇతర ఇష్టాంశాలు
+

@@ -5,40 +5,53 @@
 bookmark-overlay-name =
     .value = పేరు:
     .accesskey = N
+
 bookmark-overlay-location =
     .value = స్థానము:
     .accesskey = L
+
 bookmark-overlay-folder =
     .value = సంచయం:
+
 bookmark-overlay-name-2 =
     .value = పేరు
     .accesskey = N
+
 # Location refers to the position of the bookmark within the browser's
 # bookmarks, not to its URL or address.
 bookmark-overlay-location-2 =
     .value = స్థానం
     .accesskey = L
+
 bookmark-overlay-choose =
     .label = ఎంచుకో…
+
 bookmark-overlay-folders-expander =
     .tooltiptext = అన్ని ఇష్టాంశముల సంచయాలను చూపించు
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = దాచిపెట్టు
+
 bookmark-overlay-new-folder-button =
     .label = కొత్త సంచయం
     .accesskey = o
+
 bookmark-overlay-tags =
     .value = ట్యాగులు:
     .accesskey = T
+
 bookmark-overlay-tags-2 =
     .value = ట్యాగులు
     .accesskey = T
+
 bookmark-overlay-tags-empty-description =
     .placeholder = ట్యాగులను కామాలతో వేరుచేయి
+
 bookmark-overlay-tags-expander =
     .tooltiptext = అన్ని ట్యాగులను చూపించు
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = దాచిపెట్టు
+
 bookmark-overlay-keyword =
     .value = కీ పదము:
     .accesskey = K
+

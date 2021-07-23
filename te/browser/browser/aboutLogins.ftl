@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = దీన్ని గూగుల్ ప్లే నుండి పొందండి
 login-app-promo-apple =
     .alt = App Store నుండి దింపుకోండి
+
 login-filter =
     .placeholder = ప్రవేశాలను వెతకండి
+
 create-login-button = కొత్త ప్రవేశాన్ని సృష్టించు
+
 fxaccounts-sign-in-text = మీ సంకేతపదాలను ఇతర పరికరాల్లో పొందండి
 fxaccounts-sign-in-button = { -sync-brand-short-name } లోనికి ప్రవేశించండి
 fxaccounts-avatar-button =
@@ -69,7 +72,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = మీరు భద్రపరుచుకొన్న ప్రవేశాల కోసం వెతుకుతున్నారా? { -sync-brand-short-name } అమర్చుకోండి.
-about-logins-login-intro-heading-logged-out = మీరు భద్రపరుచుకొన్న ప్రవేశాల కోసం వెతుకుతున్నారా? { -sync-brand-short-name } అమర్చుకోండి లేదా వాటిని దిగుమతి చేసుకోండి.
+
 about-logins-login-intro-heading-logged-in = సింక్రనిత ప్రవేశాలేమీ కనబడలేదు.
 login-intro-description = మరో పరికరంలో మీ ప్రవేశాలను { -brand-product-name }‌లో భద్రపరచుకొని ఉంటే, వాటిని ఇక్కడకు తెచ్చుకోవడం ఇలా:
 login-intro-instruction-fxa = మీ ప్రవేశాలు ఉన్న పరికరంలో { -fxaccount-brand-name } సృష్టించుకోండి లేదా మీ ఖాతా లోనికి ప్రవేశించండి
@@ -113,6 +116,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = భద్రపరచిన సంకేతపదాన్ని చూపించడానికి
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = మీ సంకేతపదాన్ని కాపీ చేసుకోడానికి, మీ విండోస్ ప్రవేశ వివరాలను ఇవ్వండి. ఇది మీ ఖాతాల భద్రతను సంరక్షించడానికి తోడ్పడుతుంది.
 # This message can be seen when attempting to copy a password in about:logins
@@ -152,35 +156,43 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = రద్దుచేయి
 confirmation-dialog-dismiss-button =
     .title = రద్దుచేయి
+
 about-logins-confirm-remove-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
 confirm-delete-dialog-message = ఈ చర్యను రద్దు చేయలేరు.
 about-logins-confirm-remove-dialog-confirm-button = తొలగించు
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] తొలగించు
         [one] తొలగించు
        *[other] అన్నీ తొలగించు
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] అవును, ఈ ప్రవేశాన్ని తొలగించు
         [one] అవును, ఈ ప్రవేశాన్ని తొలగించు
        *[other] అవును, ఈ ప్రవేశాలను తొలగించు
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] ఒక { $count } ప్రవేశాన్ని తొలగించాలా?
        *[other] { $count } ప్రవేశాలనూ తొలగించాలా?
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } ప్రవేశాన్ని అన్ని పరికరాల నుండి తొలగించాలా?
        *[other] { $count } ప్రవేశాలనూ అన్ని పరికరాల నుండి తొలగించాలా?
     }
+
 about-logins-confirm-export-dialog-title = ప్రవేశాలను, సంకేతపదాలను ఎగుమతిచేయి
 about-logins-confirm-export-dialog-confirm-button = ఎగుమతించు…
+
 about-logins-alert-import-title = దిగుమతి పూర్తయింది
 about-logins-alert-import-message = వివరణాత్మక దిగుమతి సారాంశాన్ని చూడండి
+
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
 confirm-discard-changes-dialog-message = భద్రపరచని మార్పులన్నీ కోల్పోతారు.
 confirm-discard-changes-dialog-confirm-button = విస్మరించు
@@ -205,6 +217,7 @@ about-logins-vulnerable-alert-learn-more-link = ఇంకా తెలుసు�
 
 # This is a generic error message.
 about-logins-error-message-default = ఈ సంకేతపదాన్ని భద్రపరచడానికి ప్రయత్నిస్తున్నప్పుడు ఏదో పొరపాటు జరిగింది.
+
 
 ## Login Export Dialog
 
@@ -247,16 +260,19 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = దిగుమతి పూర్తయింది
+
 about-logins-import-dialog-done = పూర్తయింది
+
 about-logins-import-dialog-error-title = దిగుమతి లోపం
 about-logins-import-dialog-error-file-format-title = ఫైలు ఫార్మాటు సమస్య
 about-logins-import-dialog-error-file-permission-title = ఫైలును చదవలేకపోతున్నాం
 about-logins-import-dialog-error-no-logins-imported = ప్రవేశాలేమీ దిగుమతి కాలేదు
 about-logins-import-dialog-error-learn-more = ఇంకా తెలుసుకోండి
-about-logins-import-dialog-error-try-again = మళ్ళీ ప్రయత్నించండి…
 about-logins-import-dialog-error-try-import-again = దిగుమతిని మళ్ళీ ప్రయత్నించండి…
 about-logins-import-dialog-error-cancel = రద్దుచేయి
+
 about-logins-import-report-title = దిగుమతి సారాంశం
+
 #
 # Variables:
 #  $number (number) - The number of the row

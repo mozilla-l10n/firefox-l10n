@@ -4,6 +4,7 @@
 
 addons-window =
     .title = పొడిగింతల నిర్వాహకి
+
 addons-page-title = పొడిగింతల నిర్వాహకి
 
 search-header =
@@ -329,6 +330,11 @@ addon-detail-update-check-label = తాజాకరణలకై చూడు
 
 addon-detail-private-browsing-allow = అనుమతించు
 addon-detail-private-browsing-disallow = అనుమతించ వద్దు
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+##
 
 available-updates-heading = అందుబాటులో ఉన్న తాజాకరణలు
 recent-updates-heading = ఇటీవలి తాజాకరణలు

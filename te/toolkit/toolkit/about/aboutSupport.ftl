@@ -298,3 +298,8 @@ touch-warning = అసమకాలీక చక్రం ఇన్పుట్ �
 policies-inactive = అచేతనం
 policies-active = చేతనం
 policies-error = దోషం
+
+## Printing section
+
+## Normandy sections
+

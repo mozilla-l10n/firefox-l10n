@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = రక్షిత రీతిలో ప్రారంభించు
+
 refresh-profile =
     .label = { -brand-short-name } తాజాపరచు
 safe-mode-description = రక్షిత రీతి { -brand-short-name } యొక్క ప్రత్యేక రీతి అది సమస్యలను పరిష్కరించుటకు ఉపయోగించబడును.

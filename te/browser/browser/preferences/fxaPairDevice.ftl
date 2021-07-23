@@ -5,5 +5,7 @@
 fxa-pair-device-dialog =
     .title = మరొక పరికరాన్ని అనుసంధానించండి
     .style = width: 26em; min-height: 35em;
+
 fxa-qrcode-error-title = జత చేయడం విజయవంతం కాలేదు.
+
 fxa-qrcode-error-body = మళ్ళీ ప్రయత్నించండి.

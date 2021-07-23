@@ -36,16 +36,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } నిష్క్రమించు
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } నిష్క్రమించు
+
 menu-about =
     .label = { -brand-shorter-name } గురించి
     .accesskey = A
@@ -263,13 +267,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = పేజీ సమాచారం
     .accesskey = I
-menu-settings =
-    .label = అమరికలు
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] n
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -279,6 +276,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = అమరికలు
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -318,12 +322,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = కీబోర్డు షార్టుకట్లు
     .accesskey = K
-menu-get-help =
-    .label = సహాయం పొందండి
-    .accesskey = H
 menu-help-troubleshooting-info =
     .label = సమస్యాపరిష్కారపు సమాచారం
     .accesskey = T
+menu-get-help =
+    .label = సహాయం పొందండి
+    .accesskey = H
 menu-help-report-site-issue =
     .label = సైటులోని సమస్యను నివేదించండి…
 menu-help-feedback-page =

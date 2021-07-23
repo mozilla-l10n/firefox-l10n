@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "మెనూని తెరువు">
+
 <!ENTITY navbarOverflow.label                "మరిన్ని పనిముట్లు…">
 
 <!-- Tab context menu -->
@@ -47,6 +48,7 @@ this container is a toolbar. This avoids double-speaking. -->
      followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; అమరికలు">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; సేవలు">
 <!ENTITY fxa.menu.account.label "ఖాతా">
 <!ENTITY fxa.menu.settings.label "అమరికలు">
@@ -130,18 +132,22 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "చరిత్ర">
+
 <!ENTITY historyUndoMenu.label "ఇటీవల మూసిన ట్యాబులు">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "ఇటీవల మూసిన విండోలు">
 
 <!ENTITY appMenuHistory.showAll.label "మొత్తం చరిత్రను చూపించు">
+
 <!ENTITY appMenuHistory.clearRecent.label "ఇటీవలి చరిత్రను తుడిచివేయి…">
 <!ENTITY appMenuHistory.restoreSession.label "మునుపటి సెషన్‌ను పునరుద్ధరించు">
 <!ENTITY appMenuHistory.viewSidebar.label "చరిత్ర పక్కపట్టీను చూడండి">
 <!ENTITY appMenuHistory.recentHistory.label "ఇటీవలి చరిత్ర">
+
 <!ENTITY appMenuHelp.label "సహాయం">
 
 <!ENTITY appMenuRemoteTabs.label "సింకైన ట్యాబులు">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "తెరిచివున్న ట్యాబులు లేవు">
