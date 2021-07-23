@@ -254,6 +254,7 @@ confirm-browser-language-change-button = Seddu sakin alles tanekra
 translate-web-pages =
     .label = Suqel agbur web
     .accesskey = S
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Tasuqilt sɣuṛ <img data-l10n-name="logo"/>
@@ -1113,6 +1114,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Tisuraf…
     .accesskey = s
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Tisuraf…
+    .accesskey = T
+    .searchkeywords = isfuyla udhimen
 permissions-addon-install-warning =
     .label = Lɣu ticki ismal ttaɛraḍen ad sbedden izegrar
     .accesskey = B
