@@ -10,6 +10,7 @@ finger-intro = OTR ստեղնաշարի մատնահետքեր նախորդ վե
 
 finger-screenName =
     .label = Կոնտակտ
+
 finger-verified =
     .label = Ստուգման վիճակը
 finger-fingerprint =

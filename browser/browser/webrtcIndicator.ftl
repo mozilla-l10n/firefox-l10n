@@ -22,3 +22,4 @@ webrtc-camera-button =
     .title = Ձեր տեսախցիկը համօգտագործվում է: Սեղմեք՝ կառավարելու համար:
 webrtc-minimize =
     .title = Նվազեցնել ցուցիչը
+

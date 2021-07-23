@@ -8,3 +8,14 @@
 menu-view-charset =
     .label = Գրույթի գաղտնագրում
     .accesskey = c
+
+## Tools Menu
+
+## Help Menu
+
+## Mail Toolbar
+
+## View
+
+## View / Layout
+

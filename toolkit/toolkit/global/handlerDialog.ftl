@@ -16,6 +16,7 @@ permission-dialog-description = Թույլատրե՞լ այս կայքին բա�
 ## of the sentence as your language's grammar allows.
 
 permission-dialog-remember = Միշտ թույլատրել <strong>{ $host }</strong>-ին բացել <strong>{ $scheme }</strong> հղումները
+
 permission-dialog-remember-file = Միշտ թույլատրել այս ֆայլին բացել <strong>{ $scheme }</strong> հղումները
 
 ##
@@ -23,9 +24,11 @@ permission-dialog-remember-file = Միշտ թույլատրել այս ֆայլ�
 permission-dialog-btn-open-link =
     .label = Բացել հղումը
     .accessKey = O
+
 permission-dialog-btn-choose-app =
     .label = Ընտրեք ծրագիր
     .accessKey = A
+
 permission-dialog-unset-description = Դուք պետք է ընտրեք հավելվածը:
 
 ## Chooser dialog
@@ -35,16 +38,21 @@ permission-dialog-unset-description = Դուք պետք է ընտրեք հավե
 chooser-window =
     .title = Ընտրեք ծրագիր
     .style = min-width: 26em; min-height: 26em;
+
 chooser-dialog =
     .buttonlabelaccept = Բացել հղումը
     .buttonaccesskeyaccept = O
+
 chooser-dialog-description = Ընտրեք ծրագիր՝ { $scheme } հղումը բացելու համար:
+
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Միշտ օգտագործել այս ծրագիրը՝ <strong>{ $scheme }</strong> հղումները բացելու համար
+
 choose-other-app-description = Ընտրեք այլ ծրագիր
 choose-app-btn =
     .label = Ընտրել…
     .accessKey = Ը
 choose-other-app-window-title = Այլ ծրագիր...
+
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Անջատվել է գաղտնի պատուհաններում

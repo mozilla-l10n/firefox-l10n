@@ -10,6 +10,7 @@ carddav-refreshinterval-minutes-value =
             [one] յուրաքանչյուր րոպե
            *[other] յուրաքանչյուր { $minutes } րոպե
         }
+
 carddav-readonly-label =
     .label = Միայն կարդալ
     .accesskey = R

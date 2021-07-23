@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Գաղտնի Դիտարկում)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Գաղտնի Դիտարկում)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Գաղտնի Դիտարկում)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Գաղտնի Դիտարկում)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -142,10 +144,12 @@ urlbar-midi-blocked =
     .tooltiptext = Դուք արգելափակել եք MIDI մատչումը այս կայքին:
 urlbar-install-blocked =
     .tooltiptext = Դուք այս կայքի համար արգելափակել եք հավելասարքի բեռնումը։
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Խմբագրել այս էջանիշը ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -155,6 +159,7 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Ավելացնել Հասցեագոտում
+
 page-action-manage-extension =
     .label = Կառավարել ընդլայնումը...
 page-action-remove-from-urlbar =
@@ -163,49 +168,6 @@ page-action-remove-extension =
     .label = Հեռացնել ընդլայնումը
 
 ## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Ուղարկել ներդիրը սարքին
-           *[other] Ուղարկել { $tabCount } ներդիրները սարքին
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Ուղարկել ներդիրը սարքին
-           *[other] Ուղարկել { $tabCount } ներդիրները սարքին
-        }
-page-action-copy-url-panel =
-    .label = Պատճենել հղումը
-page-action-copy-url-urlbar =
-    .tooltiptext = Պատճենել հղումը
-page-action-email-link-panel =
-    .label = Հղումը ուղարկել էլ֊փոստով…
-page-action-email-link-urlbar =
-    .tooltiptext = Հղումը ուղարկել էլ֊փոստով…
-page-action-share-url-panel =
-    .label = Կիսվել
-page-action-share-url-urlbar =
-    .tooltiptext = Կիսվել
-page-action-share-more-panel =
-    .label = Ավելին…
-page-action-send-tab-not-ready =
-    .label = Սարքերի համաժամեցում...
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Ամրացնել ներդիրը
-page-action-pin-tab-urlbar =
-    .tooltiptext = Ամրացնել ներդիրը
-page-action-unpin-tab-panel =
-    .label = Ապամրացնել ներդիրը
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Ապամրացնել ներդիրը
 
 ## Auto-hide Context Menu
 
@@ -221,12 +183,15 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Այս անգամ որոնել հետևյալի հետ.
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Փոխել որոնման կարգավորումները
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Փոխել որոնման կարգավորումները
+
 search-one-offs-context-open-new-tab =
     .label = Որոնել Նոր Ներդիրում
     .accesskey = Ն
@@ -236,12 +201,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Սահմանել որպես լռելյայն որոնման միջոց անձնական պատուհանների համար
     .accesskey = P
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -278,8 +245,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Ցուցադրել խմբագրիչում, երբ պահպանվում է
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Պատրաստ է
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -308,6 +277,7 @@ identity-weak-encryption = Այս էջը օգտագործում է աղքատ գ
 identity-insecure-login-forms = Այս էջից մուտքագրումները վտանգված են:
 identity-permissions =
     .value = Արտոնություններ
+
 identity-https-only-connection-upgraded = (արդիացվել է HTTPS-ի)
 identity-https-only-label = HTTPS կերպ միայն
 identity-https-only-dropdown-on =
@@ -316,6 +286,7 @@ identity-https-only-dropdown-off =
     .label = Անջ.
 identity-https-only-dropdown-off-temporarily =
     .label = Ժամանակավորապես անջատված է
+
 identity-permissions-reload-hint = Անհրաժեշտ կլինի թարմացնել էջը, որ կիրառվեն փոփոխությունները։
 identity-permissions-empty = Դուք չեք արտոնել այս կայքին որևէ հատուկ թույլտվություն:
 identity-clear-site-data =
@@ -385,18 +356,24 @@ popup-select-camera =
 popup-select-microphone =
     .value = Մուտք խոսափողին.
     .accesskey = Մ
+
 popup-all-windows-shared = Էկրանի բոլոր տեսանելի պատուհանները կտարածվեն:
+
 popup-screen-sharing-not-now =
     .label = Ոչ հիմա
     .accesskey = w
+
 popup-screen-sharing-never =
     .label = Երբեք չթույլատրել
     .accesskey = N
+
 popup-silence-notifications-checkbox = Համօգտագործելիս անջատել ծանուցումները { -brand-short-name }-ից
 popup-silence-notifications-checkbox-warning = { -brand-short-name }-ը չի ցուցադրի ծանուցումները համօգտագործելիս:
+
 popup-screen-sharing-block =
     .label = Արգելափակել
     .accesskey = B
+
 popup-screen-sharing-always-block =
     .label = Միշտ արգելափակել
     .accesskey = w
@@ -414,27 +391,33 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = F12 դյուրանցումը օգտագործելու համար առաջին հերթին բացեք DevTools-ը Վեբ մշակողի ցանկի միջոցով:
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Մուտքագրեք կայքի հասցե կամ որոնում
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Մուտքագրեք կայքի հասցե կամ որոնում
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Դիտարկել հեռակա կառավարմամբ
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Որոնեք { $name }-ով կամ մուտքագրեք հասցե
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Դիտարկել հեռակա կառավարմամբ
+
 urlbar-permissions-granted =
     .tooltiptext = Դուք տրամադրել եք այս կայքէջին լրացուցիչ թույլտվություններ:
 urlbar-switch-to-tab =
     .value = Անցնել ներդիրի՝
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ընդլայնում՝
+
 urlbar-go-button =
     .tooltiptext = Գնալ Հասցեի Տողում նշված հասցեով
 urlbar-page-action-button =
@@ -473,9 +456,12 @@ urlbar-result-action-visit = Այցելել
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> այժմ լիաէկրան է
 fullscreen-warning-no-domain = Փաստաթուղթը այժմ լիաէկրան է
+
+
 fullscreen-exit-button = Դուրս գալ Լիաէկրանից (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Դուրս գալ Լիաէկրանից (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -521,6 +507,7 @@ bookmarks-tools =
     .label = Էջանշելու գործիքներ
 bookmarks-bookmark-edit-panel =
     .label = Խմբագրել այս էջանիշը
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -546,6 +533,8 @@ save-to-pocket-button =
     .label = Պահպանել { -pocket-brand-name }-ում
     .tooltiptext = Պահպանել { -pocket-brand-name }-ում
 
+## Repair text encoding toolbar button
+
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -553,6 +542,7 @@ save-to-pocket-button =
 toolbar-addons-themes-button =
     .label = Հավելումներ և ոճեր
     .tooltiptext = Կառավարեք ձեր հավելումները և ոճերը ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =

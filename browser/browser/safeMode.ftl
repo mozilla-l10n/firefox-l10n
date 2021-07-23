@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Սկսել Ապահով կերպով
+
 start-troubleshoot-mode =
     .label = Բացել
 refresh-profile =

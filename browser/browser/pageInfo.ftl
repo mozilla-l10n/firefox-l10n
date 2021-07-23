@@ -129,6 +129,8 @@ security-site-data-only = Այո, կայքի տվյալներ՝ { $value } { $un
 security-site-data-cookies-only = Այո, cookie-ներ
 security-site-data-no = Ոչ
 
+##
+
 image-size-unknown = Անհայտ
 page-info-not-specified =
     .value = Նշված չէ
