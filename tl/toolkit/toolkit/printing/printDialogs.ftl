@@ -103,6 +103,7 @@ print-window =
     .title = Nagpi-print
 print-complete =
     .value = Natapos na ang Pag-print.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

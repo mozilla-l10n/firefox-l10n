@@ -14,10 +14,13 @@ about-config-intro-warning-button = Tanggapin ang Panganib at Magpatuloy
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Ang pagbago sa mga kagustuhang ito ay maaaring makaapekto sa performance o seguridad ng { -brand-short-name }.
+
 about-config-page-title = Advanced Preferences
+
 about-config-search-input1 =
     .placeholder = Maghanap ng config property
 about-config-show-all = Ipakita Lahat
+
 about-config-pref-add-button =
     .title = Magdagdag
 about-config-pref-toggle-button =

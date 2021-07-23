@@ -5,53 +5,70 @@
 permissions-window =
     .title = Mga Exception
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Address ng website
     .accesskey = d
+
 permissions-block =
     .label = Harangin
     .accesskey = H
+
 permissions-session =
     .label = Payagan para sa Session
     .accesskey = S
+
 permissions-allow =
     .label = Payagan
     .accesskey = a
+
 permissions-site-name =
     .label = Website
+
 permissions-status =
     .label = Kalagayan
+
 permissions-remove =
     .label = Alisin ang Website
     .accesskey = R
+
 permissions-remove-all =
     .label = Alisin ang Lahat ng mga Website
     .accesskey = e
+
 permissions-button-cancel =
     .label = Kanselahin
     .accesskey = C
+
 permissions-button-ok =
     .label = i-Save ang mga Pagbabago
     .accesskey = S
+
 permission-dialog =
     .buttonlabelaccept = i-Save ang mga Pagbabago
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = Ang default para sa lahat ng mga website:
+
 permissions-searchbox =
     .placeholder = Maghanap ng Website
+
 permissions-capabilities-autoplay-allow =
     .label = Payagan ang Audio at Video
 permissions-capabilities-autoplay-block =
     .label = Harangin ang Audio
 permissions-capabilities-autoplay-blockall =
     .label = Harangin ang Audio at Video
+
 permissions-capabilities-allow =
     .label = Payagan
 permissions-capabilities-block =
     .label = Harangin
 permissions-capabilities-prompt =
     .label = Palaging Magtanong
+
 permissions-capabilities-listitem-allow =
     .value = Payagan
 permissions-capabilities-listitem-block =

@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Authority Info (AIA)
 certificate-viewer-certificate-policies = Mga Polisiya ng Certificate
 certificate-viewer-embedded-scts = Mga Embedded SCT
 certificate-viewer-crl-endpoints = Mga CRL Endpoint
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Mag-download
@@ -100,11 +101,14 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Markado ang extension na ito bilang kritikal, ibig sabihin, dapat tanggihan ng mga client ang sertipiko kung hindi ito naintindihan.
 certificate-viewer-export = Export
     .download = { $fileName }.pem
+
+##
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 

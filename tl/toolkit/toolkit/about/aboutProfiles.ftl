@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 profiles-title = Tungkol sa Mga Profile
 profiles-subtitle = Tinutulungan ka ng pahinang ito na pamahalaan ang iyong profile. Ang bawat profile ay isang hiwalay na mundo na naglalaman ng hiwalay na kasaysayan, mga bookmark, mga setting at mga add-on.
 profiles-create = Lumikha ng isang Bagong Profile
@@ -13,11 +14,13 @@ profiles-flush-fail-title = Hindi na-save ang mga pagbabago
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = May di-inaasahang problemang humadlang para ma-save ang mga binago mo.
 profiles-flush-restart-button = I-restart ang { -brand-short-name }
+
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profile: { $name }
 profiles-is-default = Default Profile
 profiles-rootdir = Root Directory
+
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
@@ -27,22 +30,28 @@ profiles-rootdir = Root Directory
 profiles-localdir = Lokal na Direktoryo
 profiles-current-profile = Ito ang profile na ginagamit at hindi ito maaaring burahin.
 profiles-in-use-profile = Ginagamit ng isa pang application ang profile na ito kaya hindi ito pwedeng burahin.
+
 profiles-rename = Palitan ang pangalan
 profiles-remove = Alisin
 profiles-set-as-default = Itakda bilang default na profile
 profiles-launch-profile = Ilunsad ang profile sa bagong browser
+
 profiles-cannot-set-as-default-title = Hindi mai-set bilang default
 profiles-cannot-set-as-default-message = Ang default na profile ay hindi kayang mabago para sa { -brand-short-name }.
+
 profiles-yes = oo
 profiles-no = hindi
+
 profiles-rename-profile-title = Palitan ang pangalan ng Profile
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = Palitan ang pangalan ng profile { $name }
+
 profiles-invalid-profile-name-title = Di-wastong pangalan ng profile
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Hindi pinapayagan ang pangalan ng profile na “{ $name }”.
+
 profiles-delete-profile-title = Burahin ang Profile
 # Variables:
 #   $dir (String) - Path to be displayed
@@ -52,8 +61,11 @@ profiles-delete-profile-confirm =
      Nais mo bang tanggalin ang mga file ng profile?
 profiles-delete-files = Burahin ang mga File
 profiles-dont-delete-files = Huwag Burahin ang Mga File
+
 profiles-delete-profile-failed-title = Error
 profiles-delete-profile-failed-message = Nagkaproblema habang sinusubukang burahin ang profile na ito.
+
+
 profiles-opendir =
     { PLATFORM() ->
         [macos] Ipakita sa Finder

@@ -5,6 +5,7 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Tapusin ang Pag-setup ng Account
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Na-disconnect ang Account

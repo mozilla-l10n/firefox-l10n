@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Nagkaroon ng problema habang kumokonekta sa { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Error code: { $error }
+
 psmerr-ssl-disabled = Can’t connect securely because the SSL protocol has been disabled.
 psmerr-ssl2-disabled = Can’t connect securely because the site uses an older, insecure version of the SSL protocol.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     You have received an invalid certificate.  Please contact the server administrator or email correspondent and give them the following information:
     
     Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
+
 ssl-error-export-only-server = Hindi makapag-communicate nang ligtas. Hindi suportado ng peer ang high-grade encryption.
 ssl-error-us-only-server = Hindi makapag-communicate nang ligtas. Nangangailangan ang peer ng high-grade encryption, na hindi suportado ngayon.
 ssl-error-no-cypher-overlap = Cannot communicate securely with peer: no common encryption algorithm(s).

@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Kasaysayan">
+
 <!ENTITY historyUndoMenu.label "Mga Naisarang Tab">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Mga Bagong Sarang Window">
@@ -155,6 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Tingnan ang Sidebar ng Kasaysayan">
 <!ENTITY appMenuHistory.hideSidebar.label "Itago ang Sidebar para sa Kasaysayan">
 <!ENTITY appMenuHistory.recentHistory.label "Nakaraang Kasaysayan">
+
 <!ENTITY appMenuHelp.label "Tulong">
 
 <!ENTITY appMenuRemoteTabs.label "Mga Naka-sync na Tab">

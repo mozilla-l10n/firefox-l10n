@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Buksan gamit ang { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

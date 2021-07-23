@@ -4,6 +4,7 @@
 
 page-title = Impormasyon sa Pag-troubleshoot
 page-subtitle = Ang pahinang ito ay naglalaman ng teknikal na impormasyon na maaaring makatulong kapag may sinusubukan kang ayusin na problema. Kung naghahanap ka ng kasagutan sa mga karaniwang katanungan tungkol sa { -brand-short-name }, bisitahin ang ating <a data-l10n-name="support-link">support website</a>.
+
 crashes-title = Ulat ng mga Crash
 crashes-id = Report ID
 crashes-send-date = Nai-sumite
@@ -126,10 +127,9 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Subukan mag-safe mode
 restart-in-safe-mode-label = Mag-restart na Naka-Disable ang mga Add-on…
+
 clear-startup-cache-title = Subukang burahin ang startup cache
 clear-startup-cache-label = Burahin ang startup cache…
-startup-cache-dialog-title = Burahin ang startup cache
-startup-cache-dialog-body = I-restart ang { -brand-short-name } para mabura ang startup cache. Hindi nito babaguhin ang iyong mga setting o tanggalin ang mga extension na idinagdag mo sa { -brand-short-name }.
 restart-button-label = Mag-restart
 
 ## Media titles
@@ -188,6 +188,7 @@ report-crash-for-days =
         [one] Mga Ulat sa Pag-crash para sa Huling { $days } Araw
        *[other] Mga Ulat sa Pag-crash para sa Huling { $days } Araw
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -195,6 +196,7 @@ crashes-time-minutes =
         [one] { $minutes } minutong nakalipas
        *[other] { $minutes } minutong nakalipas
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -202,6 +204,7 @@ crashes-time-hours =
         [one] { $hours } oras na nakalipas
        *[other] { $hours } oras na nakalipas
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -209,6 +212,7 @@ crashes-time-days =
         [one] { $days } araw na nakalipas
        *[other] { $days } araw na nakalipas
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -216,6 +220,7 @@ pending-reports =
         [one] Lahat ng mga Crash Report (kasama ang { $reports } pending na crash sa nabanggit na panahon)
        *[other] Lahat ng mga Crash Report (kasama ang { $reports } pending na mga crash sa nabanggit na panahon)
     }
+
 raw-data-copied = Nakopya na ang raw data sa clipboard
 text-copied = Ang teksto ay nakopya na sa clipboard
 
@@ -228,9 +233,11 @@ blocked-mismatched-version = Hinarang para sa bersyon ng iyong graphics driver d
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Hinarang para sa bersyon ng iyong graphics driver. Subukang i-update ang iyong graphics driver sa bersyong { $driverVersion } o mas higit pa.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType na mga Parameter
+
 compositing = Compositing
 hardware-h264 = Hardware H264 na Pag-decode
 main-thread-no-omtc = pangunahing thread, walang OMTC
@@ -245,6 +252,7 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Natagpuan
 missing = Nawawala
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Paglalarawan
@@ -268,20 +276,25 @@ webgl2-version = WebGL 2 Bersyon ng Driver
 webgl2-driver-extensions = WebGL 2 Mga Extensyon ng Driver
 webgl2-extensions = WebGL 2 Mga Extensyon
 blocklisted-bug = Naka-blocklist dahil sa mga kilalang problema
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Naka-blocklist dahil sa mga kilalang isyu: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Nakablocklist; failure code { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video Decoder
+
 reset-on-next-restart = I-reset sa Susunod na Restart
 gpu-process-kill-button = Patigilin ang mga Proseso ng GPU
 gpu-device-reset = Device Reset
@@ -291,8 +304,10 @@ content-uses-tiling = Gumagamit ng Tiling (Content)
 off-main-thread-paint-enabled = Naka-enable ang Off Main Thread Painting
 off-main-thread-paint-worker-count = Bilang ng Off Main Thread Painting Worker
 target-frame-rate = Target Frame Rate
+
 min-lib-versions = Inaasahang pinakamababang bersyon
 loaded-lib-versions = Bersyon na ginagamit
+
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = Mga Namespace ng Gumagamit
@@ -305,15 +320,18 @@ sandbox-proc-type-content = nilalaman
 sandbox-proc-type-file = nilalaman ng file
 sandbox-proc-type-media-plugin = plugin ng media
 sandbox-proc-type-data-decoder = data decoder
+
 startup-cache-title = Startup Cache
 startup-cache-disk-cache-path = Disk Cache Path
 startup-cache-ignore-disk-cache = Ignore Disk Cache
 startup-cache-found-disk-cache-on-init = Found Disk Cache on Init
 startup-cache-wrote-to-disk-cache = Wrote to Disk Cache
+
 launcher-process-status-0 = Naka-enable
 launcher-process-status-1 = Na-disable dahil sa pagkasira
 launcher-process-status-2 = Sapilitang na-disable
 launcher-process-status-unknown = Di-kilalang status
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -326,6 +344,7 @@ multi-process-status-6 = Hindi pinagana ng hindi suportadong text input
 multi-process-status-7 = Hindi pinagana ng mga add-on
 multi-process-status-8 = Sapilitang hindi pinagana
 multi-process-status-unknown = Hindi alam na katayuan
+
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = wala
 wheel-enabled = naka-enable ang wheel input
@@ -346,3 +365,8 @@ touch-warning = na-disable ang async touch input dahil sa hindi suportadong pref
 policies-inactive = Di Aktibo
 policies-active = Aktibo
 policies-error = Error
+
+## Printing section
+
+## Normandy sections
+

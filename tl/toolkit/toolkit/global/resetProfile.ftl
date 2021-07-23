@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Refresh { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Refresh { -brand-short-name }
 refresh-profile-description = Magsimula muli nang bagung-bago para maayos ang mga problema at maibalik ang maayos na performance.

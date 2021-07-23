@@ -42,6 +42,7 @@ compatibility-issue-occurrences =
         [one] { $number } pagkakataon
        *[other] { $number } pagkakataon
     }
+
 compatibility-no-issues-found = Walang natagpuang mga compatibility issue.
 compatibility-close-settings-button =
     .title = Isara ang mga setting

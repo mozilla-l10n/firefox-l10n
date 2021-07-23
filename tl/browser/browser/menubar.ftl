@@ -38,16 +38,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Isara ang { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Lumabas { -brand-shorter-name }
+
 menu-about =
     .label = Tungkol sa { -brand-shorter-name }
     .accesskey = A
@@ -215,6 +219,7 @@ menu-history-undo-menu =
     .label = Mga Naisarang Tab
 menu-history-undo-window-menu =
     .label = Mga Isinarang Window Kamakailan
+
 menu-history-reopen-all-tabs = Muling Buksan ang Lahat ng mga Tab
 menu-history-reopen-all-windows = Muling buksan ang Lahat ng mga Window
 
