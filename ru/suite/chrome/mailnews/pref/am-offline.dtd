@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Чтобы сэкономить дисковое пространство, не загружать:">
 <!ENTITY doNotDownloadNntp.label "Чтобы сэкономить дисковое пространство, не загружать для работы в автономном режиме:">
 <!ENTITY doNotDownloadImap.label "Чтобы сэкономить дисковое пространство, загрузка сообщений с сервера и хранение локальных копий может быть ограничена по их возрасту или размеру.">
-<!ENTITY allFoldersOffline.label "Хранить сообщения для этой учётной записи на этом компьютере">
-<!ENTITY allFoldersOffline.accesskey "н">
 <!ENTITY allFoldersOffline2.label "Хранить сообщения из всех папок для этой учётной записи на этом компьютере">
 <!ENTITY allFoldersOffline2.accesskey "н">
 <!ENTITY allFoldersOfflineNote.label "Примечание: Это изменение затронет все папки в этой учётной записи. Чтобы задать отдельные папки, используйте кнопку «Дополнительно…».">

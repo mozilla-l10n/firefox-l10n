@@ -3,11 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowtitle "Установка плагина…">
+
 <!ENTITY name.label "Имя:">
 <!ENTITY name.accesskey "м">
+
 <!ENTITY name.autopick.label "Автоматически выбрать для меня имя">
 <!ENTITY name.autopick.accesskey "в">
+
 <!ENTITY source.label "Исходник:">
 <!ENTITY source.accesskey "х">
+
 <!ENTITY browse.label "Обзор…">
 <!ENTITY browse.accesskey "б">

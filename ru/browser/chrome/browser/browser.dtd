@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Открыть меню">
+
 <!ENTITY navbarOverflow.label                "Другие инструменты…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Настройки Синхронизации">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Подключить другое устройство…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Войти в &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Включить Синхронизацию">
 <!ENTITY fxa.menu.firefoxServices.label "Сервисы &brandProductName;">
@@ -139,19 +141,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "а">
 
 <!ENTITY historyMenu.label "Журнал">
+
 <!ENTITY historyUndoMenu.label "Недавно закрытые вкладки">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Недавно закрытые окна">
 
 <!ENTITY appMenuHistory.showAll.label "Показать весь журнал">
+
 <!ENTITY appMenuHistory.clearRecent.label "Удалить историю…">
 <!ENTITY appMenuHistory.restoreSession.label "Восстановить предыдущую сессию">
 <!ENTITY appMenuHistory.viewSidebar.label "Боковая панель журнала">
 <!ENTITY appMenuHistory.hideSidebar.label "Скрыть боковую панель журнала">
 <!ENTITY appMenuHistory.recentHistory.label "Недавняя история">
+
 <!ENTITY appMenuHelp.label "Справка">
 
 <!ENTITY appMenuRemoteTabs.label "Облачные вкладки">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Нет открытых вкладок">

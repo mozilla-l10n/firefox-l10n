@@ -3,5 +3,3 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY czButton.label "IRC-чат">
-<!ENTITY czMenu.label "IRC-чат">
-<!ENTITY czMenu.accesskey "ч">

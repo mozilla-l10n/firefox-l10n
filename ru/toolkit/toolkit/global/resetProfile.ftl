@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Очистка { -brand-short-name }
+
 refresh-profile-dialog-title = Сбросить настройки { -brand-short-name } на настройки по умолчанию?
 refresh-profile-dialog-button =
     .label = Очистить { -brand-short-name }

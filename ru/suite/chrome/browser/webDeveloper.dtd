@@ -19,7 +19,6 @@
 
 <!ENTITY responsiveDesignTool.label      "Адаптивный дизайн">
 <!ENTITY responsiveDesignTool.accesskey  "а">
-<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label                "Пипетка">
 <!ENTITY eyedropper.accesskey            "и">

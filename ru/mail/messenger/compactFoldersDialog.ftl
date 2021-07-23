@@ -5,3 +5,4 @@
 compact-dialog-window =
     .title = Сжатие папок
     .style = width: 50em;
+

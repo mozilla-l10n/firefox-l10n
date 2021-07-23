@@ -10,5 +10,3 @@
 <!ENTITY  newContactCmd.label             "Контакт…">
 <!ENTITY  newContactCmd.accesskey         "н">
  
-<!ENTITY printButton.label "Печать">
-<!ENTITY printButton.tooltip "Распечатать это сообщение">

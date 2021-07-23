@@ -144,6 +144,7 @@
 
 <!ENTITY helpForIEUsers.label               "Для пользователей Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey           "я">
+
 <!ENTITY helpTroubleshootingInfo.label      "Информация для решения проблем">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ф">
 <!ENTITY releaseCmd.label                   "Примечания к выпуску">

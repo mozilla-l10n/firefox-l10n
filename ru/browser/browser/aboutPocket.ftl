@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Добавить теги
+
 pocket-panel-saved-error-generic = При попытке сохранить в { -pocket-brand-name } произошла ошибка.
 pocket-panel-saved-error-tag-length = Длина тега не должна превышать 25 символов
 pocket-panel-saved-error-only-links = Можно сохранять только ссылки

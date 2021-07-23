@@ -20,9 +20,6 @@
 "Тесная интеграция с &brandShortName; application suite">
 <!ENTITY dict.title "Словари проверки орфографии">
 <!ENTITY dict_intro.label "Словари используются для проверки орфографии в ваших почтовых сообщениях.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label
-'Множество словарей для разных языков могут быть установлены из раздела <a id="dictURL" href="">словарей</a> на веб-сайте <a href="https://addons.mozilla.org/seamonkey/">дополнений Mozilla</a>.'>
 <!ENTITY dict_info.label2
 'Множество словарей для разных языков могут быть установлены из
 раздела <a id="dictURL" href="">словарей</a> на сайте

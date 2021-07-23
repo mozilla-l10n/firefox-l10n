@@ -51,6 +51,7 @@
 <!ENTITY editRewrapCmd.label "Переформатировать">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "е">
+
 <!ENTITY accountManagerCmd.label "Параметры учётной записи…">
 <!ENTITY accountManagerCmd.accesskey "м">
 
