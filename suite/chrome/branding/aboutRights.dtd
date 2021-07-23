@@ -20,14 +20,9 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". To znamená, že &brandShortName; môžete používať, kopírovať a ďalej rozširovať. Takisto môžete upravovať zdrojový kód &brandShortName; podľa vašich predstáv. Licencia Mozilla Public License umožňuje šírenie aj upravených verzií.">
 
-<!ENTITY rights.intro-point2a "Mozilla vám nedáva právo na používanie ochranných známok a logotypov Mozilla a SeaMonkey. Ďalšie informácie o ochranných známkach získate ">
-
 <!ENTITY rights.intro-point2aa "&vendorShortName; vám nedáva právo na používanie ochranných známok a logotypov &quot;&brandFullName;&quot;. Ďalšie informácie o ochranných známkach získate ">
 <!ENTITY rights.intro-point2b "na tejto stránke">
 <!ENTITY rights.intro-point2c ".">
-
-<!-- point 2d is technically point 3. in the list -->
-<!ENTITY rights.intro-point2d "Niektoré funkcie v aplikácii &brandShortName;, ako je napríklad oznamovateľ zlyhania, vám umožňujú poskytnúť ohľadom &vendorShortName; spätnú väzbu. Tým, že sa rozhodnete spätnú väzbu odoslať, dávate súhlas &vendorShortName; a Mozille k využitiu vašej spätnej väzby na vylepšenie ich aplikácií a k jej zverejneniu na ich webových stránkach, či jej distribúcii.">
 
 <!-- point 2da is technically point 3. in the list -->
 <!ENTITY rights.intro-point2da "Niektoré funkcie v aplikácii &brandShortName;, ako je napríklad oznamovateľ zlyhania, vám umožňujú poskytnúť spätnú väzbu organizácii &vendorShortName;. Tým, že sa rozhodnete spätnú väzbu odoslať, dávate súhlas &vendorShortName; k využitiu vašej spätnej väzby na vylepšenie aplikácií a k jej zverejneniu na ich webových stránkach, či jej distribúcii.">
@@ -48,8 +43,6 @@
      preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
-<!-- intro paragraph for branded builds -->
-<!ENTITY rights3.webservices-a "&brandFullName; ponúka voliteľné služby webových stránok (&quot;Services&quot;), ktoré sú dostupné v tejto binárnej verzii aplikácie &brandShortName; za podmienok uvedených nižšie.  Niektoré tieto služby (napríklad navrhovanie doplnkov, aktualizačné služby, SafeBrowsing, či prehliadanie s geolokáciou) sú v predvolenom nastavení povolené.  Ak nechcete žiadnu z týchto služieb používať alebo sú pre vás podmienky uvedené nižšie neakceptovateľné, postup na vypnutie určitej funkcie alebo služby nájdete ">
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights3.webservices-aa "&vendorShortName; ponúka voliteľné služby webových stránok (&quot;Services&quot;), ktoré sú dostupné v tejto binárnej verzii aplikácie &brandShortName; za podmienok uvedených nižšie.  Niektoré tieto služby (napríklad navrhovanie doplnkov, aktualizačné služby, Safe Browsing, či prehliadanie s geolokáciou) sú v predvolenom nastavení povolené.  Ak nechcete žiadnu z týchto služieb používať alebo sú pre vás podmienky uvedené nižšie neakceptovateľné, postup na vypnutie určitej funkcie alebo služby nájdete ">
 <!ENTITY rights3.webservices-b "tu">
@@ -80,16 +73,11 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Prehliadanie so zisťovaním polohy je vypnuté">
 
 <!-- points 0-6 text for branded builds -->
-<!ENTITY rights.webservices-term0 "&vendorShortName; a Mozilla, ich prispievatelia, poskytovatelia licencií a partneri pracujú na tom, aby poskytli čo najpresnejšie a najaktuálnejšie služby.  Napriek tomu nemôžu garantovať, že poskytované informácie sú komplexné a bez chýb.  Napríklad, služba SafeBrowsing nemusí identifikovať niektoré rizikové stránky a môže omylom označiť niektoré bezpečné stránky ako podozrivé. Takisto výstupy služby určovania polohy sú len odhady a my ani poskytovatelia služby negarantujeme presnosť poskytnutej polohy.">
-
-<!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term0a "&vendorShortName; a prispievatelia, poskytovatelia licencií a partneri pracujú na tom, aby poskytli čo najpresnejšie a najaktuálnejšie Služby. Napriek tomu nemôžu garantovať, že poskytované informácie sú komplexné a bez chýb. Napríklad, služba Safe Browsing nemusí identifikovať niektoré rizikové stránky a môže omylom označiť niektoré bezpečné stránky ako podozrivé. Takisto výstupy služby určovania polohy sú len odhady a my ani poskytovatelia Služby negarantujeme presnosť poskytnutej polohy.">
 <!ENTITY rights.webservices-term1 "&vendorShortName; môže zrušiť využívanie alebo zmeniť Služby podľa svojho uváženia.">
-<!ENTITY rights.webservices-term2 "Tieto Služby môžete využívať s priloženou verziou produktu &brandShortName;, na jej využívanie máte všetky potrebné práva. &vendorShortName; a jej poskytovatelia licencií si vyhradzujú všetky ostatné práva k Službám. Tieto podmienky používania neobmedzujú akékoľvek práva poskytnuté licenciou na softvér s otvoreným kódom použiteľné na &brandShortName; a príslušnú verziu zdrojového kódu produktu &brandShortName;.">
 <!ENTITY rights.webservices-term2a "Tieto Služby môžete využívať s priloženou verziou produktu &brandShortName;, na jej využívanie máte všetky potrebné práva. &vendorShortName; a jej poskytovatelia licencií si vyhradzujú všetky ostatné práva k Službám. Tieto podmienky používania neobmedzujú akékoľvek práva poskytnuté licenciou na softvér s otvoreným kódom použiteľné na &brandShortName; a príslušnú verziu zdrojového kódu produktu &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Služby sú poskytované &quot;ako sú&quot;. &vendorShortName;, jej prispievatelia, poskytovatelia licencií a distribútori týmto odmietajú všetky výslovné alebo predpokladané záruky zahrňujúce okrem iného záruku, že Služby sú predajné a spôsobilé na konkrétny účel. Nesiete všetko riziko vyplývajúce z výberu Služieb pre svoje účely týkajúce sa kvality a výkonu Služieb. Niektoré jurisdikcie neumožňujú vylúčenie alebo odmietnutie predpokladaných záruk, takže sa vás toto odmietnutie zodpovednosti nemusí týkať.">
 <!ENTITY rights.webservices-term4 "S výnimkou rozsahu určeného zákonom spoločnosť &vendorShortName;, jej prispievatelia, poskytovatelia licencií a distribútori nenesú zodpovednosť za žiadne nepriame, zvláštne, vedľajšie, náhodné, následné, trestné alebo exemplárne škody vzniknuté použitím produktu &brandShortName; a Služieb. Spoločná zodpovednosť vyplývajúca z týchto podmienok nepresiahne 500 USD (päťsto dolárov). Niektoré jurisdikcie neumožňujú vylúčenie alebo odmietnutie zodpovednosti za stanovené škody, takže sa vás toto odmietnutie zodpovednosti nemusí týkať.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; môže z času na čas podľa potreby upraviť tieto podmienky používania. Tieto podmienky používania nesmú byť upravené alebo zrušené bez písomnej dohody so spoločnosťou &vendorShortName;.">
-<!ENTITY rights.webservices-term6 "Tieto podmienky používania sa riadia a vykladajú v súlade s právnymi predpismi Nemecka. Ak bude niektorá časť týchto podmienok považovaná za neplatnú alebo nevynútiteľnú, platnosť zostávajúcich častí zostane úplne nedotknutá. V prípade rozdielov medzi lokalizovanou verziou a anglickým originálom je rozhodujúcim jazykom týchto podmienok anglický jazyk.">
 
 <!ENTITY rights.webservices-term6a "Tieto podmienky používania sa riadia a vykladajú v súlade s právnymi predpismi Nemecka. Ak bude niektorá časť týchto podmienok považovaná za neplatnú alebo nevynútiteľnú, platnosť zostávajúcich častí zostane úplne nedotknutá. V prípade rozdielov medzi lokalizovanou verziou a anglickým originálom je rozhodujúcim jazykom týchto podmienok anglický jazyk.">

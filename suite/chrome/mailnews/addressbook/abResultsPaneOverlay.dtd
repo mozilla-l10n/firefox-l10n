@@ -30,8 +30,6 @@
 <!ENTITY HomePhone.accesskey                   "f">
 <!ENTITY WorkPhone.label                       "Telefón do zamestnania">
 <!ENTITY WorkPhone.accesskey                   "d">
-<!ENTITY ScreenName.label                      "Účet pre IM">
-<!ENTITY ScreenName.accesskey                  "I">
 <!ENTITY ChatName.label                        "Meno pre konverzácie">
 <!ENTITY ChatName.accesskey                    "M">
 <!ENTITY sortAscending.label                   "Vzostupne">

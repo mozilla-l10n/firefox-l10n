@@ -40,6 +40,11 @@ abuse-report-submit-button = Odoslať
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Nahlásenie doplnku <span data-l10n-name="addon-name">{ $addon-name }</span> bolo zrušené.
 abuse-report-messagebar-submitting = Odosielanie hlásenia o doplnku <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Ďakujeme vám za hlásenie. Chcete doplnok <span data-l10n-name="addon-name">{ $addon-name }</span> odstrániť?

@@ -27,9 +27,6 @@
 <!ENTITY useHtml.accesskey                    "H">
 <!ENTITY autoQuote.label                      "Automaticky pridať citáciu originálnej správy pri odpovedi,">
 <!ENTITY autoQuote.accesskey                  "m">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "potom">
-<!ENTITY then.accesskey                       "t">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Pri citácii">
 <!ENTITY quoting.accesskey                    "c">

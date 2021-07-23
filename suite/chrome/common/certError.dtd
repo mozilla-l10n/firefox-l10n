@@ -9,12 +9,6 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.pagetitle  "Nedôveryhodné pripojenie">
 <!ENTITY certerror.longpagetitle "Toto pripojenie nie je dôveryhodné">
 
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara1 "Požiadali ste, aby sa &brandShortName; pripojil k stránke <b>#1</b>
-prostredníctvom zabezpečeného pripojenia. Nemôžeme vás však uistiť, že toto pripojenie je naozaj zabezpečené.">
-
 <!-- Localization note (certerror.introPara1a) - The text content of the span
 tag will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->

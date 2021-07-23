@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = Je dostupná aktualizácia — stiahnuť
     .label-update-unsupported = Nebolo možné aktualizovať — nekompatibilný systém
     .label-update-restart = Je dostupná aktualizácia — reštartovať
+
 appmenuitem-protection-dashboard-title = Nástenka ochrany súkromia
 appmenuitem-customize-mode =
     .label = Prispôsobiť…
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Zavrie ponuku aplikácie
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = Priblížiť
 appmenuitem-zoom-reduce =
     .label = Oddialiť
+
 appmenuitem-fullscreen =
     .label = Na celú obrazovku
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronizovať teraz
+
 appmenu-remote-tabs-sign-into-sync =
     .label = Prihlásiť sa a synchronizovať
 appmenu-remote-tabs-turn-on-sync =
     .label = Zapnúť synchronizáciu…
+
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizovať teraz
 appmenuitem-fxa-manage-account = Spravovať účet
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = Prihlásiť sa
 appmenu-fxa-setup-sync =
     .label = Zapnúť synchronizáciu…
 appmenu-fxa-show-more-tabs = Zobraziť ďalšie karty
+
 appmenuitem-save-page =
     .label = Uložiť stránku ako…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Čo je nové
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,33 +103,47 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Zobraziť ďalšie informácie
+
 profiler-popup-description-title =
     .value = Zaznamenať, analyzovať a zdieľať
+
 profiler-popup-description = Spolupracujte na riešení problémov s výkonom zdieľaním údajov so svojím tímom.
+
 profiler-popup-learn-more = Ďalšie informácie
+
 profiler-popup-settings =
     .value = Nastavenia
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Upraviť nastavenia…
+
 profiler-popup-disabled = Nástroj na profilovanie je v tejto chvíli vypnutý, pravdepodobne preto, lebo máte otvorené okno súkromného prehliadania.
+
 profiler-popup-recording-screen = Nahrávanie…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Vlastné
+
 profiler-popup-start-recording-button =
     .label = Spustiť záznam
+
 profiler-popup-discard-button =
     .label = Zahodiť
+
 profiler-popup-capture-button =
     .label = Spustiť nahrávanie
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -135,6 +156,7 @@ appmenu-manage-history =
     .label = Správa histórie
 appmenu-reopen-all-tabs = Obnoviť všetky karty
 appmenu-reopen-all-windows = Obnoviť všetky okná
+
 appmenu-restore-session =
     .label = Obnoviť poslednú reláciu
 appmenu-clear-history =
@@ -190,6 +212,7 @@ appmenu-customizetoolbar =
     .label = Upraviť panel nástrojov…
 appmenu-taskmanager =
     .label = Správca úloh
+
 appmenu-developer-tools-subheader = Nástroje prehliadača
 appmenu-developer-tools-extensions =
     .label = Rozšírenia pre vývojárov

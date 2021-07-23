@@ -61,9 +61,9 @@
 <!ENTITY itemSessions.label               "Autorizované relácie">
 <!ENTITY itemSessions.accesskey           "A">
 
+<!ENTITY sanitizeButton.label            "Odstrániť súkromné údaje">
 <!ENTITY itemSessionsS.accesskey          "u">
 
-<!ENTITY sanitizeButton.label            "Odstrániť súkromné údaje">
 <!ENTITY itemSitePreferences.label        "Nastavenia stránok">
 <!ENTITY itemSitePreferences.accesskey    "e">
 <!ENTITY itemSitePreferencesS.accesskey   "t">

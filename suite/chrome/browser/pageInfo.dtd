@@ -61,8 +61,6 @@
 
 <!ENTITY  mediaTab              "Médiá">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaURL              "Adresa:">
-<!ENTITY  mediaAlt              "Priradený text:">
 <!ENTITY  mediaLocation         "Umiestnenie:">
 <!ENTITY  mediaText             "Priradený text:">
 <!ENTITY  mediaAltHeader        "Alternatívny text">
@@ -70,9 +68,6 @@
 <!ENTITY  mediaType             "Typ">
 <!ENTITY  mediaSize             "Veľkosť">
 <!ENTITY  mediaCount            "Počet">
-<!ENTITY  mediaDimensions       "Rozmery:">
-<!ENTITY  mediaPhysDimensions   "Skutočné rozmery:">
-<!ENTITY  mediaTitle            "Atribút Title:">
 <!ENTITY  mediaDimension        "Rozmery:">
 <!ENTITY  mediaLongdesc         "Dlhý popis:">
 <!ENTITY  mediaBlockImage.accesskey "B">
@@ -88,18 +83,7 @@
 
 <!ENTITY  permTab               "Povolenia">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Použiť predvolené">
-<!ENTITY  permAskAlways         "Vždy sa opýtať">
-<!ENTITY  permAllow             "Povoliť">
-<!ENTITY  permAllowSession      "Povoliť pre reláciu">
-<!ENTITY  permBlock             "Blokovať">
 <!ENTITY  permissionsFor        "Povolenia pre:">
-<!ENTITY  permImage             "Načítavanie obrázkov">
-<!ENTITY  permPopup             "Otváranie vyskakovacích okien">
-<!ENTITY  permCookie            "Nastavovanie cookies">
-<!ENTITY  permNotifications     "Zobrazovať notifikácie">
-<!ENTITY  permInstall           "Inštalovanie rozšírení alebo tém">
-<!ENTITY  permGeo               "Prezradenie polohy">
 
 <!ENTITY  securityTab           "Zabezpečenie">
 <!ENTITY  securityTab.accesskey "Z">

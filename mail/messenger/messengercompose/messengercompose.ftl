@@ -7,12 +7,11 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Odstrániť pole { $type }
-#   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Odstrániť pole { $type }
+
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Odstrániť pole { $type }
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -22,6 +21,7 @@ address-input-type-aria-label =
         [few] { $type } obsahuje { $count } adresy, označíte ich použitím šípky doľava.
        *[other] { $type } obsahuje { $count } adries, označíte ich použitím šípky doľava.
     }
+
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -30,22 +30,29 @@ pill-aria-label =
         [few] { $email }, 1 z { $count }: stlačte Enter pre úpravu, Delete pre vymazanie.
        *[other] { $email }, 1 z { $count }: stlačte Enter pre úpravu, Delete pre vymazanie.
     }
+
 #   $email (String) - the email address
 pill-tooltip-invalid-address = { $email } nie je platnou e-mailovou adresou
+
 #   $email (String) - the email address
 pill-tooltip-not-in-address-book = { $email } sa nenachádza vo vašom adresári
+
 pill-action-edit =
     .label = Upraviť adresu
     .accesskey = U
+
 pill-action-move-to =
     .label = Presunúť do poľa Komu
     .accesskey = m
+
 pill-action-move-cc =
     .label = Presunúť do poľa Kópia
     .accesskey = P
+
 pill-action-move-bcc =
     .label = Presunúť do poľa Skrytá kópia
     .accesskey = S
+
 pill-action-expand-list =
     .label = Rozbaliť zoznam
     .accesskey = R
@@ -57,26 +64,33 @@ ctrl-cmd-shift-pretty-prefix =
         [macos] ⇧ ⌘{ " " }
        *[other] Ctrl+Shift+
     }
+
 trigger-attachment-picker-key = A
 toggle-attachment-pane-key = M
+
 menuitem-toggle-attachment-pane =
     .label = Panel príloh
     .accesskey = a
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+
 toolbar-button-add-attachment =
     .label = Pripojiť
     .tooltiptext = Pridať prílohu ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+
 add-attachment-notification-reminder =
     .label = Pridať prílohu…
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+
 menuitem-attach-files =
     .label = Súbor…
     .accesskey = S
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+
 context-menuitem-attach-files =
     .label = Priložiť súbor…
     .accesskey = P
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -87,6 +101,7 @@ attachment-bucket-count =
            *[other] { $count } príloh
         }
     .accesskey = r
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
@@ -96,19 +111,24 @@ attachments-placeholder-tooltip =
             [few] { $count } prílohy
            *[other] { $count } príloh
         }
+
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+
 expand-attachment-pane-tooltip =
     .tooltiptext = Zobraziť panel príloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+
 collapse-attachment-pane-tooltip =
     .tooltiptext = Skryť panel príloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+
 drop-file-label-attachment =
     { $count ->
         [one] Pridať ako prílohu
         [few] Pridať ako prílohy
        *[other] Pridať ako prílohy
     }
+
 drop-file-label-inline =
     { $count ->
         [one] Pripojiť ako vloženú prílohu
@@ -126,6 +146,7 @@ move-attachment-right-panel-button =
     .label = Presunúť doprava
 move-attachment-last-panel-button =
     .label = Presunúť na koniec
+
 button-return-receipt =
     .label = Potvrdenka
     .tooltiptext = Požiadať o potvrdenie o prijatí tejto správy
@@ -134,39 +155,50 @@ button-return-receipt =
 
 to-compose-address-row-label =
     .value = Komu
+
 #   $key (String) - the shortcut key for this field
 to-compose-show-address-row-menuitem =
     .label = Pole { to-compose-address-row-label.value }
     .accesskey = o
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 to-compose-show-address-row-label =
     .value = { to-compose-address-row-label.value }
     .tooltiptext = Zobraziť pole { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
+
 cc-compose-address-row-label =
     .value = Kópia
+
 #   $key (String) - the shortcut key for this field
 cc-compose-show-address-row-menuitem =
     .label = Pole { cc-compose-address-row-label.value }
     .accesskey = K
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
     .tooltiptext = Zobraziť pole { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
+
 bcc-compose-address-row-label =
     .value = Skrytá kópia
+
 #   $key (String) - the shortcut key for this field
 bcc-compose-show-address-row-menuitem =
     .label = Pole { bcc-compose-address-row-label.value }
     .accesskey = S
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Zobraziť pole { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
+
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Príjemcovia (celkom { $count }) v poliach Komu a Kópia si navzájom uvidia adresy. Zverejňovaniu príjemcov sa môžete vyhnúť použitím Skrytej kópie.
+
 many-public-recipients-bcc =
     .label = Použiť Skrytú kópiu
     .accesskey = S
+
 many-public-recipients-ignore =
     .label = Ponechať príjemcov viditeľných
     .accesskey = P
@@ -176,5 +208,12 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Unikátna identita zodpovedajúca adrese odosielateľa nebola nájdená. Správa bude odoslaná pomocou súčasnej adresy odosielateľa a nastavení pre identitu { $identity }.
+
 encrypted-bcc-warning = Pri odosielaní šifrovanej správy nie sú príjemcovia v skrytých kópiách úplne skrytí. Všetci príjemcovia ich môžu byť schopní identifikovať.
+
 encrypted-bcc-ignore-button = Rozumiem
+
+## Editing
+
+# Tools
+

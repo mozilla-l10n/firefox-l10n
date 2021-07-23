@@ -32,7 +32,6 @@
 <!ENTITY DisplayName.label              "Zobrazované meno:">
 <!ENTITY DisplayName.accesskey          "n">
 <!ENTITY preferDisplayName.label        "Vždy použiť Zobrazované meno namiesto mena z hlavičky správy">
-<!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY preferDisplayName2.accesskey   "y">
 <!ENTITY NickName.label                 "Prezývka:">
 <!ENTITY NickName.accesskey             "v">
@@ -46,8 +45,6 @@
 <!ENTITY PlainText.label                "Len text">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Neznámy">
-<!ENTITY ScreenName.label               "Meno na IM:">
-<!ENTITY ScreenName.accesskey           "I">
 
 <!ENTITY chatName.label                 "Meno pre konverzácie:">
 

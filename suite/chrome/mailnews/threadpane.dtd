@@ -6,6 +6,8 @@
 <!ENTITY threadColumn.label "Vlákno">
 <!ENTITY fromColumn.label "Od">
 <!ENTITY recipientColumn.label "Adresát">
+<!ENTITY attachmentColumn.label "Prílohy">
+
 <!ENTITY subjectColumn.label "Predmet">
 <!ENTITY dateColumn.label "Dátum">
 <!ENTITY priorityColumn.label "Priorita">
@@ -21,13 +23,13 @@
 <!ENTITY flagColumn.label "Vlajka">
 <!ENTITY locationColumn.label "Umiestnenie">
 <!ENTITY idColumn.label "Poradie prijatia">
-<!ENTITY attachmentColumn.label "Prílohy">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Zvoľte stĺpce">
 <!ENTITY threadColumn2.tooltip "Usporiadať správy do vlákien">
 <!ENTITY fromColumn2.tooltip "Usporiadať podľa stĺpca Od">
 <!ENTITY recipientColumn2.tooltip "Usporiadať podľa adresáta">
+<!ENTITY attachmentColumn2.tooltip "Zoskupiť správy s prílohou">
 <!ENTITY subjectColumn2.tooltip "Usporiadať podľa predmetu">
 <!ENTITY dateColumn2.tooltip "Usporiadať podľa dátumu">
 <!ENTITY priorityColumn2.tooltip "Usporiadať podľa priority">
@@ -43,4 +45,3 @@
 <!ENTITY flagColumn2.tooltip "Zoskupiť správy označené vlajkou">
 <!ENTITY locationColumn2.tooltip "Usporiadať podľa umiestnenia">
 <!ENTITY idColumn2.tooltip "Usporiadať podľa poradia, v akom boli správy prijaté">
-<!ENTITY attachmentColumn2.tooltip "Zoskupiť správy s prílohou">

@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.junk.title "Nevyžiadaná pošta">
 <!ENTITY pref.junk.title "Nevyžiadaná a podozrivá pošta">
 <!ENTITY junkSettings.caption "Globálne nastavenia pre nevyžiadanú poštu">
 <!ENTITY junkMail.intro "Ak chcete zmeniť špecifické nastavenia nevyžiadanej pošty svojho účtu, prejdite do jeho nastavenia.">

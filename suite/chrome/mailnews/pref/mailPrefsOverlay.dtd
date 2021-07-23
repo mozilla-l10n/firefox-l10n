@@ -15,11 +15,11 @@
 <!-- These are added to Preferences dialog -->
 <!ENTITY viewingMessages.label            "Zobrazenie správy">
 <!ENTITY notifications.label              "Notifikácie">
-<!ENTITY address.label                    "Adresovanie">
 <!ENTITY composingMessages.label          "Písanie správ">
 <!ENTITY format.label                     "Formát odosielaných správ">
-<!ENTITY return.label                     "Potvrdenie o prečítaní">
+<!ENTITY address.label                    "Adresovanie">
 <!ENTITY junk.label                       "Nevyžiadaná a podozrivá pošta">
 <!ENTITY tags.label                       "Popisy">
+<!ENTITY return.label                     "Potvrdenie o prečítaní">
 <!ENTITY characterEncoding2.label         "Kódovanie textu">
 <!ENTITY networkStorage.label             "Sieť a úložisko">

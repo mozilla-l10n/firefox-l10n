@@ -14,12 +14,6 @@
 <!ENTITY relatedAfterCurrent.label "Príbuzné karty otvárať za aktuálnou kartou">
 <!ENTITY relatedAfterCurrent.accesskey "b">
 
-<!ENTITY loadGroup.label "Pri otváraní skupiny záložiek">
-<!ENTITY loadGroupAppend.label "Pridať karty">
-<!ENTITY loadGroupAppend.accesskey "d">
-<!ENTITY loadGroupReplace.label "Nahradiť existujúce karty">
-<!ENTITY loadGroupReplace.accesskey "h">
-
 <!ENTITY openTabs.label "Otvoriť karty namiesto okien po">
 
 <!ENTITY middleClick.label "Prostredné tlačidlo, Ctrl+kliknutie alebo Ctrl+Enter na odkaze webovej stránke">

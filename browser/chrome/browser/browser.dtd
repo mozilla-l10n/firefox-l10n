@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "U">
 
 <!ENTITY historyMenu.label "História">
+
 <!ENTITY historyUndoMenu.label "Nedávno zatvorené karty">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nedávno zatvorené okná">
@@ -155,6 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Zobraziť bočný panel História">
 <!ENTITY appMenuHistory.hideSidebar.label "Skryť bočný panel História">
 <!ENTITY appMenuHistory.recentHistory.label "Nedávna história">
+
 <!ENTITY appMenuHelp.label "Pomocník">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizované karty">

@@ -38,16 +38,20 @@ menu-quit =
             [windows] k
            *[other] k
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Ukončiť { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Ukončiť prehliadač { -brand-shorter-name }
+
 menu-about =
     .label = O aplikácii { -brand-shorter-name }
     .accesskey = O
@@ -173,6 +177,7 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Kódovanie textu
     .accesskey = K
+
 menu-view-repair-text-encoding =
     .label = Opraviť kódovanie textu
     .accesskey = O
@@ -218,6 +223,7 @@ menu-history-undo-menu =
     .label = Nedávno zatvorené karty
 menu-history-undo-window-menu =
     .label = Nedávno zatvorené okná
+
 menu-history-reopen-all-tabs = Obnoviť všetky karty
 menu-history-reopen-all-windows = Obnoviť všetky okná
 

@@ -3,15 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.masterpass.title                  "Hlavné heslá">
-<!ENTITY managepassword.caption                 "Doba platnosti hlavného hesla">
-<!ENTITY managepassword.text                    "&brandShortName; požiada o hlavné heslo:">
-<!ENTITY managepassword.askfirsttime            "Prvýkrát, keď ho bude potrebovať">
-<!ENTITY managepassword.askfirsttime.accesskey  "r">
-<!ENTITY managepassword.askeverytime            "Vždy, keď ho bude potrebovať">
-<!ENTITY managepassword.askeverytime.accesskey  "V">
-<!ENTITY managepassword.asktimeout              "Ak nebolo použité počas posledných ">
-<!ENTITY managepassword.asktimeout.accesskey    "A">
-<!ENTITY managepassword.timeout.unit            "minút alebo dlhšie">
 
 <!ENTITY changepassword.caption                 "Zmena hlavného hesla">
 <!ENTITY changepassword.text                    "Hlavné heslo chráni citlivé údaje, napríklad internetové heslá a certifikáty.">

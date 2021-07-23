@@ -98,8 +98,6 @@
 <!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať konverzáciu (Instant message - IM)">
 <!ENTITY printButton.tooltip                            "Vytlačiť označenú položku">
 <!ENTITY deleteItemButton.tooltip                       "Odstrániť označenú položku">
-<!ENTITY throbber.tooltip                               "Prejsť na domovskú stránku &vendorShortName;">
-<!ENTITY throbber.tooltip2                              "Prejsť na domovskú stránku &brandShortName;">
 <!ENTITY advancedButton.tooltip                         "Pokročilé hľadanie adresy">
 
 <!-- Dir Tree header -->

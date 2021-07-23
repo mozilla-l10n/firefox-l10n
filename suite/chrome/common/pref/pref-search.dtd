@@ -11,13 +11,12 @@
 <!ENTITY defaultSearchEngine.label        "Vyhľadávať pomocou:">
 <!ENTITY defaultSearchEngine.accesskey    "h">
 
+<!ENTITY engineManager.label              "Správa vyhľadávacích modulov…">
+
+<!ENTITY searchResults.label              "Výsledky vyhľadávania">
+
 <!ENTITY openInTab.label                  "Výsledky vyhľadávania v bočnom paneli otvárať na novej karte">
 <!ENTITY openInTab.accesskey              "V">
 <!ENTITY openContextSearchTab.label       "Výsledky vyhľadávania pomocou kontextovej ponuky otvárať na novej karte">
 <!ENTITY openContextSearchTab.accesskey   "s">
-<!ENTITY openSidebarSearchPanel.label     "Pri spustení vyhľadávania otvoriť v bočnom paneli kartu Vyhľadávanie">
-<!ENTITY openSidebarSearchPanel.accesskey "r">
 
-<!ENTITY engineManager.label              "Správa vyhľadávacích modulov…">
-
-<!ENTITY searchResults.label              "Výsledky vyhľadávania">

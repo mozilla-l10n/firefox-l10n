@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Prevziať z Obchodu Play
 login-app-promo-apple =
     .alt = Stiahnuť z App Store
+
 login-filter =
     .placeholder = Hľadať
+
 create-login-button = Nové prihlasovacie údaje
+
 fxaccounts-sign-in-text = Synchronizujte svoje heslá aj do ostatných zariadení
 fxaccounts-sign-in-button = Prihlásiť sa do služby { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Prihlásiť sa a synchronizovať
@@ -71,7 +74,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Hľadáte svoje uložené prihlasovacie údaje? Nastavte si { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = Hľadáte svoje uložené prihlasovacie údaje? Nastavte si { -sync-brand-short-name } alebo si ich importujte.
+
 about-logins-login-intro-heading-logged-out2 = Hľadáte svoje uložené prihlásenia? Zapnite synchronizáciu alebo ich importujte.
 about-logins-login-intro-heading-logged-in = Neboli nájdené žiadne synchronizované prihlasovacie údaje.
 login-intro-description = Ak ste si uložili prihlasovacie údaje do aplikácie { -brand-product-name } na inom zariadení, môžete ich získať takto:
@@ -82,6 +85,7 @@ login-intro-instructions-fxa = Vytvorte si { -fxaccount-brand-name(capitalizatio
 login-intro-instructions-fxa-settings = Prejdite do okna Nastavenia > Synchronizácia > Zapnúť synchronizáciu... Začiarknite pole Prihlasovacie údaje.
 login-intro-instructions-fxa-help = Ďalšiu pomoc nájdete na stránke <a data-l10n-name="help-link"> Podpora pre { -lockwise-brand-short-name } </a>.
 about-logins-intro-import = Ak máte prihlasovacie údaje uložené v inom prehliadači, môžete ich <a data-l10n-name="import-link">do { -lockwise-brand-short-name } importovať</a>
+
 about-logins-intro-import2 = Ak máte prihlasovacie údaje uložené mimo aplikácie { -brand-product-name }, môžete ich <a data-l10n-name="import-browser-link">importovať z iného prehliadača</a> alebo <a data-l10n-name="import-file-link">zo súboru</a>
 
 ## Login
@@ -123,11 +127,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Ak chcete zobraziť svoje p
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = upraviť uložené prihlasovacie údaje
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ak chcete zobraziť svoje heslo, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vášho účtu.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = zobraziť uložené heslo
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Ak chcete skopírovať svoje heslo, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vášho účtu.
 # This message can be seen when attempting to copy a password in about:logins
@@ -137,6 +143,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = skopírovať uložen�
 ## Master Password notification
 
 master-password-notification-message = Ak chcete zobraziť uložené prihlasovacie údaje, zadajte svoje hlavné heslo
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Ak chcete exportovať svoje prihlasovacie údaje, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vášho účtu.
 # This message can be seen when attempting to export a password in about:logins
@@ -173,9 +180,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Zrušiť
 confirmation-dialog-dismiss-button =
     .title = Zrušiť
+
 about-logins-confirm-remove-dialog-title = Chcete odstrániť tento prihlasovací údaj?
 confirm-delete-dialog-message = Túto akciu nie je možné vrátiť späť.
 about-logins-confirm-remove-dialog-confirm-button = Odstrániť
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Odstrániť všetky
@@ -183,6 +192,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Odstrániť všetky
        *[other] Odstrániť všetky
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Áno, odstrániť tieto prihlasovacie údaje
@@ -190,6 +200,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Áno, odstrániť tieto prihlasovacie údaje
        *[other] Áno, odstrániť tieto prihlasovacie údaje
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Odstrániť { $count } prihlasovací údaj?
@@ -203,6 +214,7 @@ about-logins-confirm-remove-all-dialog-message =
         [few] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
        *[other] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Odstrániť { $count } prihlasovací údaj zo všetkých zariadení?
@@ -216,11 +228,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Týmto odstránite prihlásenia, ktoré ste uložili v prehliadači { -brand-short-name } na všetkých zariadeniach synchronizovaných pomocou { -fxaccount-brand-name(case: "gen", capitalization: "sentence") }. Takisto odstránite všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
        *[other] Týmto odstránite prihlásenia, ktoré ste uložili v prehliadači { -brand-short-name } na všetkých zariadeniach synchronizovaných pomocou{ -fxaccount-brand-name(case: "gen", capitalization: "sentence") }. Takisto odstránite všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
     }
+
 about-logins-confirm-export-dialog-title = Exportovať prihlasovacie údaje
 about-logins-confirm-export-dialog-message = Vaše heslá budú uložené v čitateľnom formáte (napr. h3slo) takže ktokoľvek, kto bude môcť otvoriť tento súbor, bude môcť zistiť vaše heslá.
 about-logins-confirm-export-dialog-confirm-button = Exportovať…
+
 about-logins-alert-import-title = Import bol dokončený
 about-logins-alert-import-message = Zobraziť podrobný súhrn importu
+
 confirm-discard-changes-dialog-title = Chcete zahodiť neuložené zmeny?
 confirm-discard-changes-dialog-message = Všetky neuložené zmeny budú stratené.
 confirm-discard-changes-dialog-confirm-button = Zahodiť
@@ -251,8 +266,10 @@ about-logins-vulnerable-alert-learn-more-link = Ďalšie informácie
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Prihlasovacie údaje pre { $loginTitle } s rovnakým používateľským menom už existujú. <a data-l10n-name="duplicate-link">Prejsť na existujúce prihlasovacie údaje.</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Pri pokuse o uloženie tohto hesla nastala chyba.
+
 
 ## Login Export Dialog
 
@@ -299,10 +316,12 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span> Nové prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Aktualizované prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Duplicitné prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(neboli importované)</span>
@@ -312,6 +331,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Chyby:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neboli importované)</span>
     }
 about-logins-import-dialog-done = Hotovo
+
 about-logins-import-dialog-error-title = Chyba pri importe
 about-logins-import-dialog-error-conflicting-values-title = Viacero konfliktných hodnôt pre jedno prihlásenie
 about-logins-import-dialog-error-conflicting-values-description = Napríklad: viac používateľských mien, hesiel, adries URL atď. pre jedno prihlásenie.
@@ -323,11 +343,12 @@ about-logins-import-dialog-error-unable-to-read-title = Súbor sa nepodarilo spr
 about-logins-import-dialog-error-unable-to-read-description = Uistite sa, že ste vybrali súbor typu CSV alebo TSV.
 about-logins-import-dialog-error-no-logins-imported = Neboli importované žiadne prihlasovacie údaje
 about-logins-import-dialog-error-learn-more = Ďalšie informácie
-about-logins-import-dialog-error-try-again = Skúsiť znova…
 about-logins-import-dialog-error-try-import-again = Skúste importovať znova...
 about-logins-import-dialog-error-cancel = Zrušiť
+
 about-logins-import-report-title = Súhrn
 about-logins-import-report-description = Prihlasovacie údaje boli importované do aplikácie { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row
