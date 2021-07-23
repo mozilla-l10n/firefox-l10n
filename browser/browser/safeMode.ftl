@@ -7,4 +7,5 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Destpêkirin di moda ewle de
+
 safe-mode-description = Moda ewle, modeke taybet ya { -brand-short-name }ê ye ku bo çareserkirina arîşeyan tê bikaranîn.

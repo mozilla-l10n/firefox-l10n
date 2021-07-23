@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Gera Nepen)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Gera Nepen)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Gera Nepen)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Gera Nepen)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -70,23 +72,6 @@ urlbar-star-edit-bookmark =
 
 
 ## Page Action menu
-
-page-action-email-link-panel =
-    .label = Girêdankê bi epeyamê bişîne…
-page-action-email-link-urlbar =
-    .tooltiptext = Girêdankê bi epeyamê bişîne…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Hilpekînê sabît bike
-page-action-pin-tab-urlbar =
-    .tooltiptext = Hilpekînê sabît bike
-page-action-unpin-tab-panel =
-    .label = Hilpekînê nesabît bike
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Hilpekînê nesabît bike
 
 ## Auto-hide Context Menu
 
@@ -155,10 +140,13 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Peyveke lêgerînê yan jî navnîşanek
+
 urlbar-placeholder =
     .placeholder = Peyveke lêgerînê yan jî navnîşanek
+
 urlbar-switch-to-tab =
     .value = Derbasî hilpekînê bibe:
+
 urlbar-go-button =
     .tooltiptext = Here navnîşana di Darikê Cihî de
 
@@ -179,14 +167,13 @@ urlbar-go-button =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Hemû bijareyan nîşan bide
 bookmarks-toolbar-chevron =
     .tooltiptext = Zêdetir bijare nîşan bide
 bookmarks-sidebar-content =
     .aria-label = Bijare
 bookmarks-bookmark-edit-panel =
     .label = Vê bijareyê serast bike
+
 bookmarks-toolbar-menu =
     .label = Darikê Amûran a Bijareyan
 bookmarks-toolbar-placeholder =
@@ -199,6 +186,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
+
+## Customize Toolbar Buttons
 
 ## More items
 
