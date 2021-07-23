@@ -195,6 +195,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Okakasa oyagala ku sangula kompyuta ezifunga zinazo zino ebijawo?
 delete-ssl-cert-impact = Bwo sangula kompyuta efunga zinazo ebijawo, onddiza obwekumi obubaddeko ebikebera kulwa kompyuta efunga zinazo ne kyittaga ekozesa ya santifikati etegerekekwa.
 
+
 delete-ca-cert-title =
     .title = Sangula oba Jjamu satifiketi eza CA
 delete-ca-cert-confirm = Osabye okujjawo zino satifiketi eza CA. Ku satifiketi eza zimbibwa munda obwesige bwona bujakuvawo, ekyikosa mu ngeri yemu. Okakasa oyagala okujjawo oba okujjamu obwesige?
@@ -238,6 +239,8 @@ cert-not-verified-issuer-not-trusted = Ttenyiza ku kiriza satifikati eno kubanga
 cert-not-verified-issuer-unknown = Ttenyiza ku kiriza satifikati eno kubanga omuwereza ttategendedwa.
 cert-not-verified-ca-invalid = Ttenyiza ku kiriza satifikati eno kubanga satifikati ya CA ttetufuu.
 cert-not-verified-unknown = Ttenyiza ku kiriza satifikati eno kurwe songa ezitategerekanyi.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

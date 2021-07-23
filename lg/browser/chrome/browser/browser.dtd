@@ -160,6 +160,7 @@ when there are no windows but Firefox is still running. -->
 
 
 <!ENTITY historyMenu.label "Ebyafayo">
+
 <!ENTITY historyUndoMenu.label "Awadirira Awakaggalwawo">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Amadiriisa Agakaggalibwawo">

@@ -67,6 +67,8 @@ permissions-invalid-uri-label = Tukusaba oyingize erinnya ry'omukyaaza erituffu
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Oyinza okulondamu ebibanja ebikirizibbwa okugulawo obudirisa obweraga bwoka. Wandika engagiriro entuffu eyekyapa kyoyagala oku kkiriza bwomala okoone ku Kukkiriza.

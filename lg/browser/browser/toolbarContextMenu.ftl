@@ -5,3 +5,4 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = Kifuule ky'oyagala…
     .accesskey = K
+

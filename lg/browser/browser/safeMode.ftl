@@ -7,4 +7,5 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Tandikira mu Safe Mode
+
 safe-mode-description = Safe Mode ngeri eyenjawulo { -brand-short-name } gyeyinza okutandikiramu osobozesa okunonya ensobi.

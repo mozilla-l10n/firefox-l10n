@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = Tteekamu ensobi
 opensearch-error-duplicate-desc = { -brand-short-name } Tesobodde kwongera kuteekamu binonyezeddwa okuva"{ $location-url }" kubanga yingine erina erinnya erifanana esangiddwa nga weri.
+
 opensearch-error-download-title = Ensobi mu Kukopolola
 opensearch-error-download-desc = { -brand-short-name } tesobode kutikkula akongerezebwako okuva: { $location-url }
 
