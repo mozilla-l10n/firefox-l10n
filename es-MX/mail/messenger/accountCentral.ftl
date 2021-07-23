@@ -3,5 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 resources-title = Recursos
+
 release-notes =
     .title = Acerca de { -brand-full-name }
+

@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Abrir menú">
+
 <!ENTITY navbarOverflow.label                "Más herramientas…">
 
 <!-- Tab context menu -->
@@ -145,19 +146,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Historial">
+
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
 
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
+
 <!ENTITY appMenuHistory.clearRecent.label "Borrar el historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar la sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra de historial">
 <!ENTITY appMenuHistory.hideSidebar.label "Ocultar barra lateral de historial">
 <!ENTITY appMenuHistory.recentHistory.label "Historial reciente">
+
 <!ENTITY appMenuHelp.label "Ayuda">
 
 <!ENTITY appMenuRemoteTabs.label "Pestañas sincronizadas">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "No hay pestañas abiertas">

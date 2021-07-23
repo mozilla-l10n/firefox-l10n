@@ -8,8 +8,10 @@ password-quality-meter = Medidor de calidad de la contraseña
 
 change-password-window =
     .title = Cambiar contraseña maestra
+
 change-device-password-window =
     .title = Cambiar contraseña
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de seguridad: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = Nueva contraseña (confirmar):
 reset-password-window =
     .title = Restablecer la contraseña maestra
     .style = width: 40em
+
 pippki-failed-pw-change = No fue posible cambiar la contraseña
 pippki-incorrect-pw = No ingresaste correctamente la contraseña principal. Por favor, vuelve a intentarlo.
 pippki-pw-change-ok = Contraseña cambiada correctamente.
+
 pippki-pw-empty-warning = Tus contraseñas almacenadas y claves privadas no estarán protegidas.
 pippki-pw-erased-ok = Has eliminado tu contraseña. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = ¡Advertencia! Has decidido no usar una contraseña. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Actualmente estás en modo FIPS. FIPS requiere de una contraseña que no esté en blanco.
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Restablecer
 reset-password-text = Si restableces tu contraseña maestra, se borrarán las contraseñas web y de correo electrónico, los datos de formularios, certificados personales y claves privadas. ¿Realmente quieres restablecer tu contraseña maestra?
+
 reset-primary-password-text = Si restableces tu contraseña primaria, se olvidarán todas las contraseñas de webs, correo electrónico, certificados personales y llaves privadas almacenadas. ¿Estás seguro de que quieres restablecer tu contraseña primaria?
+
 pippki-reset-password-confirmation-title = Restablecer la contraseña primaria
 pippki-reset-password-confirmation-message = Tu contraseña primaria ha sido restablecida.
 

@@ -42,7 +42,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Tamaño del buffer:
+
 perftools-custom-threads-label = Agregar hilos personalizados por nombre:
+
 perftools-devtools-interval-label = Intervalo:
 perftools-devtools-threads-label = Hilos:
 perftools-devtools-settings-label = Ajustes
@@ -101,6 +103,7 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Omitir las selecciones de arriba y grabar todos los hilos registrados
+
 perftools-tools-threads-input-label =
     .title = Estos nombres de hilos son una lista separada por comas que se utiliza para habilitar la creación de perfiles de los hilos en el perfilador. El nombre debe ser solo una coincidencia parcial del nombre del hilo para que se incluya. Es sensible a los espacios en blanco.
 
@@ -109,7 +112,9 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nuevo</b>: { -profiler-brand-name } ahora está integrado en las herramientas para desarrolladores. <a>Saber más</a> sobre esta poderosa herramienta.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Por un tiempo limitado, podrás acceder al panel de rendimiento original a través de <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Cerrar el mensaje introductorio

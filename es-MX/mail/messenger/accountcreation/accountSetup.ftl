@@ -8,6 +8,7 @@
 
 ## Form fields
 
+
 account-setup-email-input =
     .placeholder = john.doe@example.com
 
@@ -48,4 +49,8 @@ account-setup-result-pop = POP3
 
 
 ## Addon installation section
+
+## Success view
+
+## Calendar synchronization dialog
 
