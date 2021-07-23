@@ -20,7 +20,9 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Nduku tsi { $engine } a tyaa dirección
 about-private-browsing-handoff-text-no-engine = Nduku a tyaa dirección
 about-private-browsing-not-private = Su ventana seé kui.
+
 about-private-browsing-need-more-privacy = ¿A tsiniñuu la makunina ña sau?
 about-private-browsing-turn-on-vpn = Nasá´á tuku { -mozilla-vpn-brand-name }
+
 about-private-browsing-search-banner-close-button =
     .aria-label = Kasi

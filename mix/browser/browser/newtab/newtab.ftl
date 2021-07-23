@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Nduku
 
 newtab-search-box-search-the-web-text = Nduku nu Web
+
 newtab-search-box-search-the-web-input =
     .placeholder = Nduku nu Web
     .title = Nduku nu Web
@@ -47,6 +48,8 @@ newtab-topsites-add-button = Chikaa
 
 ## Top Sites - Delete history confirmation dialog.
 
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -166,4 +169,6 @@ newtab-pocket-cta-button = Nduku { -pocket-brand-name }
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
+
+## Customization Menu
 

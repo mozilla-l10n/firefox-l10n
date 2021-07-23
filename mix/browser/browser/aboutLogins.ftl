@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Ndanii nu Google Play
 login-app-promo-apple =
     .alt = Snuu nu App Store
+
 login-filter =
     .placeholder = Nduku nixi kitsana
+
 create-login-button = Saa nixi kitsau
+
 fxaccounts-sign-in-text = Nduku contraseñaku takua kuachu'un inka dispositivo
 fxaccounts-sign-in-button = Kitsa nu { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -106,9 +109,12 @@ enable-password-sync-preferences-button =
 confirmation-dialog-cancel-button = Kunchatu
 confirmation-dialog-dismiss-button =
     .title = Kunchatu
+
 confirm-delete-dialog-message = Ma kuu sau chu'un yo
 about-logins-confirm-remove-dialog-confirm-button = Xitaá
+
 about-logins-confirm-export-dialog-confirm-button = Stucha…
+
 confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
@@ -127,4 +133,18 @@ about-logins-breach-alert-link = Kua'an { $hostname }
 
 
 ## Login Import Dialog
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+## Logins import report page
 

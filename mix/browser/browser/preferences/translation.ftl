@@ -19,3 +19,4 @@ translation-sites-button-remove-all =
 translation-button-close =
     .label = Kasi
     .accesskey = K
+

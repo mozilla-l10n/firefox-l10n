@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Restablecer { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Restablecer { -brand-short-name }
 refresh-profile-description = Kitsa tuku takua na ntutsa ntia.

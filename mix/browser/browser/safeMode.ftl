@@ -7,5 +7,6 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Kitsa  Modo seguro
+
 refresh-profile =
     .label = Ndakitsa { -brand-short-name }

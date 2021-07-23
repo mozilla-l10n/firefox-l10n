@@ -16,3 +16,4 @@ clear-site-data-cancel =
 clear-site-data-clear =
     .label = Stòo
     .accesskey = s
+

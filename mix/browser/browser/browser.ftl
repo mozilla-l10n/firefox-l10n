@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Nduku seé)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Nduku seé)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Nduku seé)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Nduku seé)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -71,13 +73,6 @@ page-action-add-to-urlbar =
 
 ## Page Action menu
 
-page-action-copy-url-panel =
-    .label = Ndatava Enlace
-page-action-copy-url-urlbar =
-    .tooltiptext = Ndatava Enlace
-page-action-share-more-panel =
-    .label = Kua'à…
-
 ## Auto-hide Context Menu
 
 
@@ -86,12 +81,15 @@ page-action-share-more-panel =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Nduku tsi:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Sama nixi ndukuku
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sama nixi ndukuku
+
 search-one-offs-context-open-new-tab =
     .label = Kunàa nu xikua tsàa
     .accesskey = K
@@ -109,6 +107,7 @@ search-one-offs-context-open-new-tab =
 bookmark-panel-cancel =
     .label = Kunchatu
     .accesskey = C
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -171,6 +170,8 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

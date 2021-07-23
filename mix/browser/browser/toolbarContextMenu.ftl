@@ -5,3 +5,4 @@
 toolbar-context-menu-view-customize-toolbar =
     .label = Ntasai nixi kunu…
     .accesskey = C
+
