@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "ზ">
 
 <!ENTITY historyMenu.label "ისტორია">
+
 <!ENTITY historyUndoMenu.label "ბოლოს დახურული ჩანართები">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "ბოლოს დახურული ფანჯრები">
@@ -155,6 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "ისტორიის გვერდითი ზოლის ჩვენება">
 <!ENTITY appMenuHistory.hideSidebar.label "ისტორიის გვერდითი ზოლის დამალვა">
 <!ENTITY appMenuHistory.recentHistory.label "უახლესი ისტორია">
+
 <!ENTITY appMenuHelp.label "დახმარება">
 
 <!ENTITY appMenuRemoteTabs.label "დასინქრონებული ჩანართები">

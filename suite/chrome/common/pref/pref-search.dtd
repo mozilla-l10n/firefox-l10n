@@ -19,5 +19,3 @@
 <!ENTITY openInTab.accesskey              "ზ">
 <!ENTITY openContextSearchTab.label       "კონტექსტური მენიუდან ძიების შედეგების ჩანართზე გახსნა სარკმლის ნაცვლად">
 <!ENTITY openContextSearchTab.accesskey   "მ">
-<!ENTITY openSidebarSearchPanel.label     "ძიების დაწყებისას ძიების ჩანართის გვერდითი ზოლზე გახსნა">
-<!ENTITY openSidebarSearchPanel.accesskey "O">

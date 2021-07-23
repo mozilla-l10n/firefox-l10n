@@ -4,5 +4,6 @@
 
 account-settingsTitle = ანგარიშზე შესვლის პარამეტრები
 account-channelTitle = ნაგულისხმევი არხები
+
 account-settings-title = ანგარიშზე შესვლის პარამეტრები
 account-channel-title = ნაგულისხმევი არხები

@@ -42,6 +42,11 @@ abuse-report-submit-button = გაგზავნა
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = საჩივარი გაფართოებაზე <span data-l10n-name="addon-name">{ $addon-name }</span> გაუქმებულია.
 abuse-report-messagebar-submitting = იგზავნება საჩივარი გაფართოებაზე <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = გმადლობთ საჩივრის გამოგზავნისთვის. გსურთ, წაიშალოს <span data-l10n-name="addon-name">{ $addon-name }</span>?

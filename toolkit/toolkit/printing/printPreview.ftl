@@ -38,6 +38,7 @@ printpreview-page-setup =
 printpreview-page =
     .value = გვერდი:
     .accesskey = გ
+
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -61,6 +62,7 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = ბოლო გვერდი
+
 printpreview-homearrow-button =
     .title = პირველი გვერდი
 printpreview-previousarrow-button =

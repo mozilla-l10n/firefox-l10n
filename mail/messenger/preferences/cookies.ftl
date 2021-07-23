@@ -5,20 +5,28 @@
 cookies-window-dialog =
     .title = ფუნთუშები
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 window-focus-search-key =
     .key = f
+
 window-focus-search-alt-key =
     .key = k
+
 filter-search-label =
     .value = ძიება:
     .accesskey = S
+
 cookies-on-system-label = თქვენს კომპიუტერში შემდეგი ფუნთუშები ინახება:
+
 treecol-site-header =
     .label = საიტი
+
 treecol-name-header =
     .label = ფუნთუშის სახელი
+
 props-name-label =
     .value = სახელი:
 props-value-label =
@@ -33,12 +41,15 @@ props-expires-label =
     .value = ვადა:
 props-container-label =
     .value = სათავსი:
+
 remove-cookie-button =
     .label = ფუნთუშის მოცილება
     .accesskey = მ
+
 remove-all-cookies-button =
     .label = ყველა ფუნთუშის მოცილება
     .accesskey = ყ
+
 cookie-close-button =
     .label = დახურვა
     .accesskey = C

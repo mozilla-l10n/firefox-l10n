@@ -16,6 +16,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = პარამეტრები
     .accesskey = პ
+
 menu-addons-and-themes =
     .label = დამატებები და თემები
     .accesskey = ტ
@@ -25,9 +26,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = ხარვეზის აღმოფხვრის რეჟიმი…
     .accesskey = ხ
+
 menu-help-exit-troubleshoot-mode =
     .label = ხარვეზის აღმოფხვრის რეჟიმის გამორთვა
     .accesskey = გ
+
 menu-help-more-troubleshooting-info =
     .label = ხარვეზის აღმოფხვრის ვრცელი მონაცემები
     .accesskey = ნ
@@ -58,12 +61,15 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = სიმჭიდროვე
     .accesskey = ჭ
+
 mail-uidensity-compact =
     .label = შეკუმშვა
     .accesskey = კ
+
 mail-uidensity-normal =
     .label = ჩვეულებრივი
     .accesskey = ჩ
+
 mail-uidensity-touch =
     .label = შეხება
     .accesskey = ხ

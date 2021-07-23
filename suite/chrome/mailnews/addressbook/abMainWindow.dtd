@@ -98,8 +98,6 @@
 <!ENTITY newIM.tooltip                                  "მყისი გზავნილი ან გასუბრება">
 <!ENTITY printButton.tooltip                            "შერჩეულის ამობეჭდვა">
 <!ENTITY deleteItemButton.tooltip                       "შერჩეული ელემენტის წაშლა">
-<!ENTITY throbber.tooltip                               "&vendorShortName; – საწყის გვერდზე გადასვლა">
-<!ENTITY throbber.tooltip2                              "&brandShortName; – საწყის გვერდზე გადასვლა">
 <!ENTITY advancedButton.tooltip                         "მისამართის დეტალური ძიება">
 
 <!-- Dir Tree header -->

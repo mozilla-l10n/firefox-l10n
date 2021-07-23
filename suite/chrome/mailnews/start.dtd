@@ -21,11 +21,6 @@
 "მუშაობის მჭიდრო შეთავსება &brandShortName;-ს სხვა პროგრამებთან">
 <!ENTITY dict.title "ლექსიკონები">
 <!ENTITY dict_intro.label "ლექსიკონები გამოიყენება თქვენი წერილების მართლწერის შესამოწმებლად.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label
-'ბევრი სხვა დამატებითი ენა შეიძლება ჩაიდგას
-<a id="dictURL" href="">ლექსიკონების</a> სექციიდან
-<a href="https://addons.mozilla.org/seamonkey/">Mozilla მოდულების</a>. გვერდიდან'>
 <!ENTITY dict_info.label2
 'უამრავი დამატებითი ენის დაყენებაა შესაძლებელი
 <a id="dictURL" href="">ლექსიკონების</a> გვერდიდან
