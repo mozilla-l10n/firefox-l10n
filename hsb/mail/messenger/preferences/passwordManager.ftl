@@ -55,9 +55,11 @@ import =
 close-button =
     .label = Začinić
     .accesskey = Z
+
 password-close-button =
     .label = Začinić
     .accesskey = Z
+
 show-passwords =
     .label = Hesła pokazać
     .accesskey = k
@@ -80,10 +82,12 @@ no-master-password-prompt = Chceće woprawdźe swoje hesła pokazać?
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Přepruwujće swoju identitu, zo byšće składowane hesła pokazał.
+
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = składowane hesła pokazać
+
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }

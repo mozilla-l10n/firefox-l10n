@@ -4,14 +4,18 @@
 
 third-party-page-title = Informacije wo modulu třećeho poskićowarja
 third-party-section-title = Lisćina modulow třećich poskićowarjow w { -brand-short-name }
+
 third-party-intro =
     Tuta strona module třećeho poskićowarja pokazuje, kotrež su so do wašeho
     { -brand-short-name } injicěrowali. Kóždy modul, kotryž wot Microsoft abo
     { -vendor-short-name } signowany njeje, maja za modul třećeho poskićowarja.
+
 third-party-header-module-list = Lisćina modulow
 third-party-header-loading-events = Začitanje podawkow
+
 third-party-message-empty = Žane module třećich poskićowarjow namakane.
 third-party-message-no-duration = Njenatočene
+
 third-party-detail-version = Datajowa wersija
 third-party-detail-vendor = Informacije zhotowjerja
 third-party-detail-occurrences = Wustupowanja
@@ -20,9 +24,11 @@ third-party-detail-duration = Přerězny blokowanski čas (ms)
     .title = Kak dołho tutón modul je nałoženje blokował.
 third-party-detail-app = Nałoženje
 third-party-detail-publisher = Wudawaćel
+
 third-party-th-process = Proces
 third-party-th-duration = Začitanske traće (ms)
 third-party-th-status = Status
+
 third-party-tag-ime = IME
     .title = Tutón modulowy typ so začita, hdyž IME třećeho poskićowarja wužiwaće.
 third-party-tag-shellex = Systemowe rozšěrjenje
@@ -35,9 +41,11 @@ third-party-unsigned-icon =
     .title = Tutón modul njeje signowany
 third-party-warning-icon =
     .title = { -brand-short-name } je w kodźe z tutoho modula spadnył
+
 third-party-status-loaded = Začitany
 third-party-status-blocked = Zablokowany
 third-party-status-redirected = Dalesposrědkowany
+
 third-party-button-copy-to-clipboard = Hrube daty do mjezyskłada kopěrować
 third-party-button-reload = Ze systemowymi informacijemi znowa začitać
     .title = Ze systemowymi informacijemi znowa začitać

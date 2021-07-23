@@ -5,65 +5,85 @@
 permissions-window =
     .title = Wuwzaća
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresa websydła
     .accesskey = A
+
 permissions-block =
     .label = Blokować
     .accesskey = B
+
 permissions-session =
     .label = Za posedźenje dowolić
     .accesskey = p
+
 permissions-allow =
     .label = Dowolić
     .accesskey = D
+
 permissions-button-off =
     .label = Znjemóžnić
     .accesskey = n
+
 permissions-button-off-temporarily =
     .label = Nachwilu znjemóžnić
     .accesskey = c
+
 permissions-site-name =
     .label = Websydło
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Websydło wotstronić
     .accesskey = t
+
 permissions-remove-all =
     .label = Wšě websydła wotstronić
     .accesskey = y
+
 permissions-button-cancel =
     .label = Přetorhnyć
     .accesskey = P
+
 permissions-button-ok =
     .label = Změny składować
     .accesskey = s
+
 permission-dialog =
     .buttonlabelaccept = Změny składować
     .buttonaccesskeyaccept = s
+
 permissions-autoplay-menu = Standard za wšě websydła:
+
 permissions-searchbox =
     .placeholder = Websydło pytać
+
 permissions-capabilities-autoplay-allow =
     .label = Awdio a widejo dowolić
 permissions-capabilities-autoplay-block =
     .label = Awdio blokować
 permissions-capabilities-autoplay-blockall =
     .label = Awdio a widejo blokować
+
 permissions-capabilities-allow =
     .label = Dowolić
 permissions-capabilities-block =
     .label = Blokować
 permissions-capabilities-prompt =
     .label = Přeco so prašeć
+
 permissions-capabilities-listitem-allow =
     .value = Dowolić
 permissions-capabilities-listitem-block =
     .value = Blokować
 permissions-capabilities-listitem-allow-session =
     .value = Za posedźenje dowolić
+
 permissions-capabilities-listitem-off =
     .value = Znjemóžnjeny
 permissions-capabilities-listitem-off-temporarily =

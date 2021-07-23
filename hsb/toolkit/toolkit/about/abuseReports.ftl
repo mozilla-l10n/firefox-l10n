@@ -42,6 +42,11 @@ abuse-report-submit-button = Wotpósłać
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Zdźělenje za <span data-l10n-name="addon-name">{ $addon-name }</span> je so přetorhnyło.
 abuse-report-messagebar-submitting = Zdźělenka za <span data-l10n-name="addon-name">{ $addon-name }</span> so sćele.
 abuse-report-messagebar-submitted = Dźakujemy so, zo sće zdźělenku pósłał. Chceće <span data-l10n-name="addon-name">{ $addon-name }</span> wotstronić?

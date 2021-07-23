@@ -21,8 +21,10 @@ about-private-browsing-handoff-text = Pytajće z { $engine } abo zapodajće adre
 about-private-browsing-handoff-text-no-engine = Pytać abo adresu zapodać
 about-private-browsing-not-private = Tuchwilu njejsće w priwatnym woknje.
 about-private-browsing-info-description = { -brand-short-name } wašu pytansku a přehladowansku historjiu wuprózdni, hdyž nałoženje wopušćiće abo wšě rajtarki a wokna priwatneho modus začiniće. Přez to so wosnadnja, před druhimi, kotřiž tutón ličak wužiwaja, schować, štož online činiće, hačrunjež to was za websydła abo wašeho poskićowarja internetneje słužby njeanonymizuje.
+
 about-private-browsing-need-more-privacy = Trjebaće wjace priwatnosće?
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } wupruwować
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

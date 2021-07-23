@@ -7,9 +7,11 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Polo typa { $type } wotstronić
+
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Polo typa { $type } wotstronić
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -20,6 +22,7 @@ address-input-type-aria-label =
         [few] { $type } z { $count } adresami, wužiwajće lěwu šipkowu tastu, zo byšće fokus stajił.
        *[other] { $type } z { $count } adresami, wužiwajće lěwu šipkowu tastu, zo byšće fokus stajił.
     }
+
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -29,22 +32,29 @@ pill-aria-label =
         [few] { $email }, 1 z { $count }: Tłóčće Enter, zo byšće wobdźěłował, Entf, zo byšće wotstronił.
        *[other] { $email }, 1 z { $count }: Tłóčće Enter, zo byšće wobdźěłował, Entf, zo byšće wotstronił.
     }
+
 #   $email (String) - the email address
 pill-tooltip-invalid-address = { $email } płaćiwa e-mejlowa adresa njeje
+
 #   $email (String) - the email address
 pill-tooltip-not-in-address-book = { $email } we wašim adresniku njeje
+
 pill-action-edit =
     .label = Adresu wobdźěłać
     .accesskey = A
+
 pill-action-move-to =
     .label = Do Komu přesunyć
     .accesskey = K
+
 pill-action-move-cc =
     .label = Do kopije přesunyć
     .accesskey = p
+
 pill-action-move-bcc =
     .label = Do schowaneje kopije přesunyć
     .accesskey = s
+
 pill-action-expand-list =
     .label = Lisćinu pokazać
     .accesskey = i
@@ -56,26 +66,33 @@ ctrl-cmd-shift-pretty-prefix =
         [macos] ⇧ ⌘{ " " }
        *[other] Strg+Umsch+
     }
+
 trigger-attachment-picker-key = A
 toggle-attachment-pane-key = M
+
 menuitem-toggle-attachment-pane =
     .label = Wobłuk přiwěškow
     .accesskey = b
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+
 toolbar-button-add-attachment =
     .label = Připowěsnyć
     .tooltiptext = Přiwěšk přidać ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+
 add-attachment-notification-reminder =
     .label = Přiwěšk přidać…
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+
 menuitem-attach-files =
     .label = Dataje…
     .accesskey = D
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+
 context-menuitem-attach-files =
     .label = Dataje připowěsnyć…
     .accesskey = D
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -87,6 +104,7 @@ attachment-bucket-count =
            *[other] { $count } přidatkow
         }
     .accesskey = d
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
@@ -97,13 +115,17 @@ attachments-placeholder-tooltip =
             [few] { $count } přidatki
            *[other] { $count } přidatkow
         }
+
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+
 expand-attachment-pane-tooltip =
     .tooltiptext = Wobłuk přiwěškow pokazać ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+
 collapse-attachment-pane-tooltip =
     .tooltiptext = Wobłuk přiwěškow schować ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+
 drop-file-label-attachment =
     { $count ->
         [one] Jako přiwěšk přidać
@@ -111,6 +133,7 @@ drop-file-label-attachment =
         [few] Jako přiwěški přidać
        *[other] Jako přiwěški přidać
     }
+
 drop-file-label-inline =
     { $count ->
         [one] Inline připowěsnyć
@@ -129,6 +152,7 @@ move-attachment-right-panel-button =
     .label = Naprawo přesunyć
 move-attachment-last-panel-button =
     .label = Na kónc přesunyć
+
 button-return-receipt =
     .label = Kwitowanka
     .tooltiptext = Kwitowanku za tutu powěsć požadać
@@ -137,39 +161,50 @@ button-return-receipt =
 
 to-compose-address-row-label =
     .value = Komu
+
 #   $key (String) - the shortcut key for this field
 to-compose-show-address-row-menuitem =
     .label = Polo { to-compose-address-row-label.value }
     .accesskey = P
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 to-compose-show-address-row-label =
     .value = { to-compose-address-row-label.value }
     .tooltiptext = Polo { to-compose-address-row-label.value } pokazać ({ to-compose-show-address-row-menuitem.acceltext })
+
 cc-compose-address-row-label =
     .value = Kopija
+
 #   $key (String) - the shortcut key for this field
 cc-compose-show-address-row-menuitem =
     .label = Polo { cc-compose-address-row-label.value }
     .accesskey = K
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
     .tooltiptext = Polo { cc-compose-address-row-label.value } pokazać ({ cc-compose-show-address-row-menuitem.acceltext })
+
 bcc-compose-address-row-label =
     .value = Schowana kopija
+
 #   $key (String) - the shortcut key for this field
 bcc-compose-show-address-row-menuitem =
     .label = Polo { bcc-compose-address-row-label.value }
     .accesskey = S
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Polo { bcc-compose-address-row-label.value } pokazać ({ bcc-compose-show-address-row-menuitem.acceltext })
+
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Přijimarjo budu w polomaj Komu a Kopija adresu druhich widźeć. Ličba: { $count }. Wužiwajće město toho polo Schowana kopija, zo byšće tomu zadźěwał, zo so přijimarjo přeradźuja.
+
 many-public-recipients-bcc =
     .label = Schowanu kopiju město toho wužiwać
     .accesskey = S
+
 many-public-recipients-ignore =
     .label = Přijimarjow zjawnych dźeržeć
     .accesskey = P
@@ -179,7 +214,9 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Jónkróćna identita, kotraž adresy wotpósłarja wotpowěduje, njeje so namakała. Powěsć so wužiwajo polo Wot a nastajenja z identity { $identity } pósćele.
+
 encrypted-bcc-warning = Při słanju zaklučowaneje powěsće, přijimarjo schowaneje kopije połnje schowani njejsu. Wšitcy přijimarjo móža jich identifikować.
+
 encrypted-bcc-ignore-button = Sym zrozumił
 
 ## Editing

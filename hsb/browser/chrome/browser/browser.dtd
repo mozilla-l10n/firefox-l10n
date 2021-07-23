@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Meni wočinić">
+
 <!ENTITY navbarOverflow.label                "Dalše nastroje…">
 
 <!-- Tab context menu -->
@@ -145,19 +146,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "S">
 
 <!ENTITY historyMenu.label "Historija">
+
 <!ENTITY historyUndoMenu.label "Runje začinjene rajtarki">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Runje začinjene wokna">
 
 <!ENTITY appMenuHistory.showAll.label "Wšu historiju pokazać">
+
 <!ENTITY appMenuHistory.clearRecent.label "Aktualnu historiju wuprózdnić…">
 <!ENTITY appMenuHistory.restoreSession.label "Předchadne posedźenje wobnowić">
 <!ENTITY appMenuHistory.viewSidebar.label "Bóčnicu historije pokazać">
 <!ENTITY appMenuHistory.hideSidebar.label "Bóčnicu historije schować">
 <!ENTITY appMenuHistory.recentHistory.label "Najnowša historija">
+
 <!ENTITY appMenuHelp.label "Pomoc">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizowane rajtarki">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Žane wočinjene rajtarki">

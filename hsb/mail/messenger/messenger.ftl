@@ -11,6 +11,7 @@ unread-messages-os-tooltip =
         [few] { $count } nječitane powěsće
        *[other] { $count } nječitanych powěsćow
     }
+
 about-rights-notification-text = { -brand-short-name } je darmotna softwara wotewrjeneho žórła, wuwita wot zhromadźenstwa tysacow ludźi z cyłeho swěta.
 
 ## Content tabs
@@ -27,9 +28,11 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Přidatki a drasty
     .tooltiptext = Waše přidatki rjadować
+
 quick-filter-toolbarbutton =
     .label = Spěšny filter
     .tooltiptext = Powěsće filtrować
+
 redirect-msg-button =
     .label = Dale sposrědkować
     .tooltiptext = Wubranu powěsć dale sposrědkować
@@ -39,8 +42,10 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Symbolowa lajsta rjadowakoweho wobłuka
     .accesskey = r
+
 folder-pane-toolbar-options-button =
     .tooltiptext = Nastajenja wobłuka rjadowaka
+
 folder-pane-header-label = Rjadowaki
 
 ## Folder Toolbar Header Popup
@@ -48,21 +53,27 @@ folder-pane-header-label = Rjadowaki
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Symbolowu lajstu schować
     .accesskey = S
+
 show-all-folders-label =
     .label = Wšě rjadowaki
     .accesskey = W
+
 show-unread-folders-label =
     .label = Njepřečitane rjadowaki
     .accesskey = N
+
 show-favorite-folders-label =
     .label = Najlubše rjadowaki
     .accesskey = l
+
 show-smart-folders-label =
     .label = Zjednoćene rjadowaki
     .accesskey = Z
+
 show-recent-folders-label =
     .label = Najnowše rjadowaki
     .accesskey = o
+
 folder-toolbar-toggle-folder-compact-view =
     .label = Kompaktny napohlad
     .accesskey = K
@@ -79,14 +90,19 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Nastajenja
+
 appmenu-addons-and-themes =
     .label = Přidatki a drasty
+
 appmenu-help-enter-troubleshoot-mode =
     .label = Modus za rozrisowanje problemow…
+
 appmenu-help-exit-troubleshoot-mode =
     .label = Modus za rozrisanje problemow znjemóžnić
+
 appmenu-help-more-troubleshooting-info =
     .label = Dalše informacije za rozrisowanje problemow
+
 appmenu-redirect-msg =
     .label = Dale sposrědkować
 
@@ -113,6 +129,7 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Adresa je w adresniku
+
 message-header-address-not-in-address-book-icon =
     .alt = Adresa w adresniku njeje
 
@@ -123,9 +140,11 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = { $name } wotstronić?
 addon-removal-confirmation-button = Wotstronić
 addon-removal-confirmation-message = { $name } a jeho konfiguraciju a daty z { -brand-short-name } wotstronić?
+
 caret-browsing-prompt-title = Tastaturowa nawigacija
 caret-browsing-prompt-text = Tłóčenje tasty F7 zapina abo wupina tastaturowu nawigaciju. Tuta funkcija staja pohibliwy kursor do wobsaha a dowola wam tekst z tastaturu wubrać. Chceće nětko tastaturowu nawigaciju zapinać?
 caret-browsing-prompt-check-text = Hižo so njeprašeć.
+
 repair-text-encoding-button =
     .label = Tekstowe kodowanje reparować
     .tooltiptext = Korektne tekstowe kondowanje za wobsaha powěsće wuhódać
