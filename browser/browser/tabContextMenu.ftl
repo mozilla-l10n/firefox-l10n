@@ -54,8 +54,6 @@ move-to-new-window =
     .label = Yeni pəncərəyə daşı
     .accesskey = p
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Vərəqi qapat
     .accesskey = Q
@@ -68,3 +66,7 @@ move-tabs =
 move-tab =
     .label = Vərəqin yerini dəyişdir
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

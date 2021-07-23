@@ -23,6 +23,7 @@ appmenuitem-zoom-enlarge =
     .label = Yaxınlaşdır
 appmenuitem-zoom-reduce =
     .label = Uzaqlaşdır
+
 appmenuitem-fullscreen =
     .label = Tam ekran
 
@@ -30,6 +31,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = İndi Sinxronizə et
+
 appmenuitem-save-page =
     .label = Fərqli saxla…
 
@@ -82,3 +84,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Tapşırıq idarə edicisi
+

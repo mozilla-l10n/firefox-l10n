@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Menyunu aç">
+
 <!ENTITY navbarOverflow.label                "Daha çox alət…">
 
 <!-- Tab context menu -->
@@ -124,18 +125,22 @@ can reach it easily. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Tarixçə">
+
 <!ENTITY historyUndoMenu.label "Yeni qapanmış vərəqlər">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Yeni qapanmış pəncərələr">
 
 <!ENTITY appMenuHistory.showAll.label "Bütün Tarixçəni Göstər">
+
 <!ENTITY appMenuHistory.clearRecent.label "Son Tarixçəni Təmizlə…">
 <!ENTITY appMenuHistory.restoreSession.label "Əvvəlki Seansı Bərpa et">
 <!ENTITY appMenuHistory.viewSidebar.label "Tarixçə yan panelini göstər">
 <!ENTITY appMenuHistory.recentHistory.label "Yaxın Tarixçə">
+
 <!ENTITY appMenuHelp.label "Kömək">
 
 <!ENTITY appMenuRemoteTabs.label "Sinxron Vərəqlər">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Açıq vərəq yoxdur">

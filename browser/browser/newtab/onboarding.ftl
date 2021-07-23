@@ -25,6 +25,7 @@ onboarding-button-label-get-started = Başla
 ## Welcome page strings
 
 onboarding-welcome-header = { -brand-short-name } səyyahına xoş gəlmisiniz
+
 onboarding-start-browsing-button-label = Səyahətə Başla
 onboarding-cards-dismiss =
     .title = Rədd et
@@ -38,8 +39,10 @@ onboarding-cards-dismiss =
 onboarding-sync-welcome-header = { -brand-product-name }-u özünüzlə gəzdirin
 onboarding-sync-welcome-content = Əlfəcin, tarixçə, parol və digər tənzimləmələrinizi bütün cihazlarınızda əldə edin.
 onboarding-sync-welcome-learn-more-link = Firefox Hesabları haqqında ətraflı öyrənin
+
 onboarding-sync-form-input =
     .placeholder = E-poçt
+
 onboarding-sync-form-continue-button = Davam et
 onboarding-sync-form-skip-login-button = Bu addımı keç
 
@@ -48,20 +51,9 @@ onboarding-sync-form-skip-login-button = Bu addımı keç
 onboarding-sync-form-header = E-poçtunuzu daxil edin
 onboarding-sync-form-sub-header = və { -sync-brand-name } ilə davam edin.
 
+
 ## These are individual benefit messages shown with an image, title and
 ## description.
-
-
-## Custom Return To AMO onboarding strings
-
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
 
 
 ## These strings belong to the individual onboarding messages.
@@ -78,6 +70,7 @@ onboarding-mobile-phone-button = Mobil Səyyahı Endir
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Super, { -brand-short-name } quruldu
+
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:
@@ -85,3 +78,34 @@ return-to-amo-sub-header = Super, { -brand-short-name } quruldu
 return-to-amo-addon-header = İndi də <icon></icon><b>{ $addon-name }</b> uzantısına baxaq.
 return-to-amo-extension-button = Uzantını əlavə et
 return-to-amo-get-started-button = { -brand-short-name } səyyahını işlətməyə başla
+
+## Custom Return To AMO onboarding strings
+
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+

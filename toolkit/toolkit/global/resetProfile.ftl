@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } Səyyahını Yenilə
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name } səyyahınızı yeniləyəcək
 refresh-profile-description = Xətaları həll etmək və performansı bərpa etmək üçün sıfırdan başlayın.
