@@ -7,14 +7,15 @@
 <!ENTITY  newTab.accesskey       "N">
 <!ENTITY  closeTab.label         "ටැබය වසන්න">
 <!ENTITY  closeTab.accesskey         "c">
-<!ENTITY  closeOtherTabs.accesskey  "o">
 <!ENTITY  closeOtherTabs.label   "වෙනත් ටැබ් වසන්න">
+<!ENTITY  closeOtherTabs.accesskey  "o">
 <!ENTITY  reloadAllTabs.label    "ටැබ් සියල්ල යළි පූරණය">
 <!ENTITY  reloadAllTabs.accesskey         "A">
 <!ENTITY  reloadTab.label        "ටැබය යළි පූරණය">
 <!ENTITY  reloadTab.accesskey         "r">
-<!ENTITY  undoCloseTab.label          "වැසීම අහෝසි කරන්න">
-<!ENTITY  undoCloseTab.accesskey      "U">
-<!ENTITY  newTabButton.tooltip        "නව ටැබයක් විවෘත කරන්න"><!ENTITY  bookmarkGroup.label    "Bookmark This Group of Tabs">
+<!ENTITY  bookmarkGroup.label    "Bookmark This Group of Tabs">
 <!ENTITY  bookmarkGroup.accesskey  "B">
 <!ENTITY  closeTabButton.tooltip   "Close current tab">
+<!ENTITY  newTabButton.tooltip        "නව ටැබයක් විවෘත කරන්න">
+<!ENTITY  undoCloseTab.label          "වැසීම අහෝසි කරන්න">
+<!ENTITY  undoCloseTab.accesskey      "U">

@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (පෞද්ගලික ගවේෂණය)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (පෞද්ගලික ගවේෂණය)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (පෞද්ගලික ගවේෂණය)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (පෞද්ගලික ගවේෂණය)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -113,10 +115,12 @@ urlbar-popup-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා පොප්-අප් වළක්වා ඇත.
 urlbar-midi-blocked =
     .tooltiptext = ඔබ මෙම වෙබ්අඩවියට MIDI පිවිසුම අවහිර කර ඇත.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = මෙම පිටු සලකුණ සකසන්න ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -126,41 +130,13 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = ලිපින තීරුවට එක් කරන්න
+
 page-action-manage-extension =
     .label = දිගුව පාලනය කරන්න…
 page-action-remove-from-urlbar =
     .label = ලිපින තීරුවෙන් ඉවත් කරන්න
 
 ## Page Action menu
-
-page-action-copy-url-panel =
-    .label = සබැඳිය පිටපත් කරන්න
-page-action-copy-url-urlbar =
-    .tooltiptext = සබැඳිය පිටපත් කරන්න
-page-action-email-link-panel =
-    .label = විද්‍යුත් තැපැල් සබැඳිය
-page-action-email-link-urlbar =
-    .tooltiptext = විද්‍යුත් තැපැල් සබැඳිය
-page-action-share-url-panel =
-    .label = බෙදාගන්න
-page-action-share-url-urlbar =
-    .tooltiptext = බෙදාගන්න
-page-action-share-more-panel =
-    .label = තවත්…
-page-action-send-tab-not-ready =
-    .label = උපාංග සමමුහුර්ත කරමින්…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = ටැබ අමුණන්න
-page-action-pin-tab-urlbar =
-    .tooltiptext = ටැබ අමුණන්න
-page-action-unpin-tab-panel =
-    .label = ටැබ ගලවන්න
-page-action-unpin-tab-urlbar =
-    .tooltiptext = ටැබ ගලවන්න
 
 ## Auto-hide Context Menu
 
@@ -177,14 +153,17 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = සෙවුම් සැකසුම් වෙනස් කරන්න
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = සෙවුම් සිටුවම් වෙනස් කරන්න
+
 search-one-offs-context-open-new-tab =
     .label = නව ටැබයක සොයන්න
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = පෙරනිමි සෙවුම් එළවුම ලෙස තබන්න
     .accesskey = D
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -212,6 +191,7 @@ bookmark-panel-remove =
            *[other] පිටු සලකුණු මකන්න ({ $count })
         }
     .accesskey = R
+
 bookmark-panel-done-button =
     .label = කළා
 
@@ -225,6 +205,7 @@ identity-passive-loaded = මෙම පිටුවේ (පිංතූර ව�
 identity-active-loaded = මෙම පිටුව සඳහා ආරක්ෂාව ඔබ විසින් බල රහිත කර ඇත.
 identity-weak-encryption = මෙම පිටුව දුර්වල සංකේතනයක් භාවිතා කරයි.
 identity-insecure-login-forms = මෙම පිටුවට යොදන ප්‍රවේශ තොරතුරු නිසා ව්‍යකූලවීම් සිදුවිය හැකිය.
+
 identity-permissions-reload-hint = වෙනස්කම් යෙදවීම සඳහා ඔබට පිටුව යළි පූරණය කිරීමට සිදුවිය හැක.
 identity-permissions-empty = ඔබ මෙම අඩවියට විශෙෂිත අවසර ලබා දී නැත.
 identity-clear-site-data =
@@ -279,6 +260,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = බෙදාගන්නා මයික්‍රෆෝනය
     .accesskey = M
+
 popup-all-windows-shared = ඔබේ තිරයේ දිස්වෙන සියළු කවුළු බෙදාගැනෙනු ඇත.
 
 ## WebRTC window or screen share tab switch warning
@@ -291,19 +273,24 @@ popup-all-windows-shared = ඔබේ තිරයේ දිස්වෙන ස�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ලිපිනය සොයන්න හෝ ඇතුලත් කරන්න
+
 urlbar-placeholder =
     .placeholder = ලිපිනය සොයන්න හෝ ඇතුලත් කරන්න
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = ගවේශකය දුරස්ථ පාලනයේ පවතී
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } සමග සොයන්න හෝ ලිපිනය ඇතුලත් කරන්න
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = ගවේශකය දුරස්ථ පාලනයේ පවතී
+
 urlbar-switch-to-tab =
     .value = ටැබයට මාරුවෙන්න:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = දිගුව:
+
 urlbar-go-button =
     .tooltiptext = පිහිටුම් තීරුවේ තුළ ඇති ලිපිනට යන්න
 urlbar-page-action-button =
@@ -332,9 +319,12 @@ urlbar-result-action-visit = පිවිසෙන්න
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> දැන් පූර්ණ තිරයේ
 fullscreen-warning-no-domain = මෙම ලේඛනය දැන් පූර්ණ තිරයේ
+
+
 fullscreen-exit-button = පූර්ණ තිරයෙන් පිටවන්න (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = පූර්ණ තිරයෙන් පිටවන්න (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -346,8 +336,6 @@ pointerlock-warning-no-domain = මෙම ලේඛනය හට ඔබගේ �
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = සියළු පිටුසලකුණු පෙන්වන්න…
 bookmarks-toolbar-chevron =
     .tooltiptext = තවත් පිටුසලකුණු පෙන්වන්න
 bookmarks-sidebar-content =
@@ -382,6 +370,7 @@ bookmarks-tools =
     .label = පිටු සලකුණු මෙවලම්
 bookmarks-bookmark-edit-panel =
     .label = මෙම පිටු සලකුණ සකසන්න
+
 bookmarks-toolbar-menu =
     .label = පිටු සලකුණු මෙවලම් තීරුව
 bookmarks-toolbar-placeholder =
@@ -396,6 +385,8 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

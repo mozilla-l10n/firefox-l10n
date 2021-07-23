@@ -9,6 +9,8 @@
 <!ENTITY email.label "E-Mail">
 <!ENTITY newsgroups.label "Newsgroups">
 
+<!ENTITY feeds.label "Feeds">
+
 <!ENTITY checkOnStartup.label "Always perform this check when starting &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "A">
 
@@ -18,4 +20,3 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY feeds.label "Feeds">

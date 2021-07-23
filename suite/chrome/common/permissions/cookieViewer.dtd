@@ -15,6 +15,10 @@
 <!ENTITY     button.removeallcookies.label  "Remove All Cookies">
 <!ENTITY     button.removeallcookies.accesskey "e">
 
+<!ENTITY search.placeholder "Search Cookies">
+<!ENTITY focusSearch.key "f">
+<!ENTITY selectAll.key "a">
+
 <!ENTITY     props.name.label               "Name:">
 <!ENTITY     props.value.label              "Content:">
 <!ENTITY     props.domain.label             "Host:">
@@ -25,8 +29,6 @@
 <!ENTITY     treehead.sitename.label        "Site">
 <!ENTITY     treehead.status.label          "Status">
 <!ENTITY     windowtitle.label              "Cookie Manager">
-<!ENTITY     buttonaccept.label             "Close">
-<!ENTITY     buttonaccept.accesskey         "C">
 
 <!ENTITY     blockSite.label                "Block">
 <!ENTITY     blockSite.accesskey            "B">
@@ -48,7 +50,3 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY focusSearch.key "f">
-<!ENTITY search.placeholder "Search Cookies">
-<!ENTITY windowClose.key "w">
-<!ENTITY selectAll.key "a">

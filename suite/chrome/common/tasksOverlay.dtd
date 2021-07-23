@@ -6,6 +6,7 @@
 <!ENTITY navigatorCmd.label "Browser">
 <!ENTITY navigatorCmd.accesskey "B">
 <!ENTITY navigatorCmd.commandkey "1">
+
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label					"Composer">
 <!ENTITY editorCmd.accesskey				"c">
@@ -13,7 +14,6 @@
 
 <!ENTITY errorConsoleCmd.label                                  "Error Console">
 <!ENTITY errorConsoleCmd.accesskey				"C">
-<!ENTITY errorConsoleCmd.commandkey				"j">
 
 <!ENTITY taskNavigator.tooltip  "Browser">
 <!ENTITY taskComposer.tooltip  "Composer">
@@ -43,9 +43,6 @@
 <!ENTITY downloadManagerCmd.accesskey "D">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addonsManagerCmd.label "Add-on Manager">
-<!ENTITY addonsManagerCmd.accesskey "A">
-<!ENTITY addonsManagerCmd.commandkey "a">
-
 <!ENTITY switchProfileCmd.label "Switch Profile…">
 <!ENTITY switchProfileCmd.accesskey "h">
+

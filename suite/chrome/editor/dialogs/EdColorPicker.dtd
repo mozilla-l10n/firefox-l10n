@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "වර්ණය">
 <!ENTITY lastPickedColor.label "අවසන් වරට තෝරාගත් වර්ණය">
 <!ENTITY lastPickedColor.accessKey "L">
-<!ENTITY setColor1.label "වර්ණයක් මත ක්ලික් කිරීම හෝ">
-<!ENTITY setColor2.label "HTML වර්ණ අක්ෂරයන් ඇතුලත් කරන්න">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label "(උදා: &quot;#0000ff&quot; or &quot;blue&quot;):">
 <!ENTITY default.label "පෙරනිමි">
 <!ENTITY default.accessKey "D">

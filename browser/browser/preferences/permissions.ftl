@@ -74,6 +74,8 @@ permissions-invalid-uri-label = නිවැරදි ධාරක නමක් 
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = උපත්තන කවුළු විවෘත කිරීම අවසර ඇති වෙබ් අඩවි ඔබට නිර්ණය කල හැක. ඔබට කළමනාකරණය කිරීමට අවශ්‍ය ඒවායේ නිවැරදි ලිපිනය ඇතුළත් කර අවහිර කරන්න හෝ  අනුමත කරන්න ක්ලික් කරන්න.

@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "මෙනුව විවෘත කරන්න">
+
 <!ENTITY navbarOverflow.label                "තවත් මෙවලම්...">
 
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
@@ -115,18 +116,22 @@ in "Search through tabs". -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "අතීතය">
+
 <!ENTITY historyUndoMenu.label "මෑතකදි වැසු ටැබ්">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "මෑතකදී වැසූ කවුළු">
 
 <!ENTITY appMenuHistory.showAll.label "සම්පූර්ණ අතීතය පෙන්වන්න">
+
 <!ENTITY appMenuHistory.clearRecent.label "මෑත ඉතිහාසය මකන්න...">
 <!ENTITY appMenuHistory.restoreSession.label "පෙර සැසිය ප්‍රතිස්ථාපනය">
 <!ENTITY appMenuHistory.viewSidebar.label "අතීත පැතිතීරු දසුන">
 <!ENTITY appMenuHistory.recentHistory.label "මෑත ඉතිහාසය">
+
 <!ENTITY appMenuHelp.label "උදව්">
 
 <!ENTITY appMenuRemoteTabs.label "සම්මුහුර්ථ කළ ටැබ">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "විවෘත ටැබ නොමැත">

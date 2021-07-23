@@ -22,15 +22,13 @@
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY printContactViewCmd.label                      "Print Contact…">
 <!ENTITY printContactViewCmd.accesskey                  "p">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "Print Preview Contact">
 <!ENTITY printPreviewContactViewCmd.accesskey           "v">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Print Address Book…"> 
 <!ENTITY printAddressBook.accesskey                     "A"> 
 <!ENTITY printPreviewAddressBook.label                  "Print Preview Address Book"> 
 <!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printSetupCmd.label                            "Page Setup…">
-<!ENTITY printSetupCmd.accesskey                        "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Delete Address Book">  
@@ -50,9 +48,6 @@
 <!ENTITY showAbToolbarCmd.label                         "Address Book Toolbar"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "o">  
 
-<!ENTITY showCardPane.label                             "Card Summary Pane">
-<!ENTITY showCardPane.accesskey                         "C">
-  
 <!ENTITY menu_ShowNameAs.label                          "Show Name As"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!ENTITY firstLastCmd.label                             "First Last">  
@@ -92,8 +87,9 @@
 <!ENTITY newmsgButton.tooltip                           "Send a mail message"> 
 <!ENTITY newIM.tooltip                                  "Send an instant message or chat"> 
 <!ENTITY deleteItemButton.tooltip                       "Delete selected item">
-<!ENTITY throbber.tooltip                               "Go to the &vendorShortName; home page">
 <!ENTITY advancedButton.tooltip                         "Advanced address search">
+
+<!-- Card Summary Pane -->
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">

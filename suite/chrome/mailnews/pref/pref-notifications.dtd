@@ -5,16 +5,19 @@
 <!ENTITY pref.notifications.title         "Notifications">
 <!ENTITY notifications.caption            "Notifications">
 <!ENTITY newMessagesArrive.label          "When new messages arrive:">
-<!ENTITY playSound.label                  "Play a sound">
-<!ENTITY playSound.accesskey              "P">
-<!ENTITY showAnimatedAlert.label          "Show an alert">
-<!ENTITY showAnimatedAlert.accesskey      "S">
+
+<!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
+     showAlertFor.label is associated with the checkbox to show the alert,
+     leading into a numerical field to enter a time in seconds, followed by
+     showAlertTimeEnd.label which in en-US is the unit of the value -->
+
 <!ENTITY showTrayIcon.label               "Show a tray icon">
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY bounceSystemDockIcon.label       "Animate the Dock icon">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
-<!ENTITY preview.label                    "Preview">
-<!ENTITY preview.accesskey                "v">
+
+<!ENTITY playSound.label                  "Play a sound">
+<!ENTITY playSound.accesskey              "P">
 <!ENTITY systemsound.label                "System New Mail Sound">
 <!ENTITY systemsound.accesskey            "M">
 <!ENTITY customsound.label                "Custom sound file">

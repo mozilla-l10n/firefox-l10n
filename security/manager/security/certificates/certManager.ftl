@@ -208,6 +208,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = ඔබට විශ්වාසද? ඔබට මෙම සේවාදායක හැරදැමීම් මැකීමට අවශ්‍යද?
 delete-ssl-cert-impact = If you delete a server exception, you restore the usual security checks for that server and require it uses a valid certificate.
 
+
 delete-ca-cert-title =
     .title = Delete or Distrust CA Certificates
 delete-ca-cert-confirm = You have requested to delete these CA certificates. For built-in certificates all trust will be removed, which has the same effect. Are you sure you want to delete or distrust?
@@ -252,6 +253,8 @@ cert-not-verified-issuer-unknown = නිකුත් කරන්නා නො�
 cert-not-verified-ca-invalid = CA සහතිකය සාවද්‍ය බැවින් මෙම සහතිකය සත්‍යාපනය කළ නොහැකි විය.
 cert-not-verified_algorithm-disabled = ආරක්ශාකාරී නොවන බැවින් අක්‍රීය කළ ඇල්ගොරිතමයක් භාවිතයෙන් සන් කර ඇති නිසා මෙම සහතිකය තහවුරු කළ නොහැක.
 cert-not-verified-unknown = නොදන්නා හේතුවක් මත මෙම සහතිකය සත්‍යාපනය කළ නොහැකි විය.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

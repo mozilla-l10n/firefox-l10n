@@ -15,11 +15,9 @@
 <!ENTITY languages.customize.add.title.label            "Add Languages">
 <!ENTITY languages.customize.available.label            "Languages:">
 <!ENTITY languages.customize.active.label               "Languages in order of preference:">
+<!ENTITY languages.customize.active.accesskey "L">
 <!ENTITY languages.customize.others.label               "Others:">
 <!ENTITY languages.customize.others.accesskey           "O">
-<!ENTITY languages.customize.Charset.grouplabel         "Default Character Encoding">
-<!ENTITY languages.customize.DefaultCharset.label       "Character Encoding:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "C">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "e.g.: en-bz, ar-jo">
 <!ENTITY languages.customize.moveUp.label               "Move Up">
@@ -27,17 +25,9 @@
 <!ENTITY languages.customize.moveDown.label             "Move Down">
 <!ENTITY languages.customize.moveDown.accesskey         "D">
 
-<!ENTITY spelling.label                                 "Spelling">
-<!ENTITY checkSpelling.label                            "When typing check my spelling:">
-<!ENTITY checkSpelling.accesskey                        "W">
-<!ENTITY dontCheckSpelling.label                        "Never">
-<!ENTITY multilineCheckSpelling.label                   "In multiline boxes">
-<!ENTITY alwaysCheckSpelling.label                      "All boxes">
-
 
 <!--
 Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY languages.customize.active.accesskey "L">
