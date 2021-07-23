@@ -35,6 +35,7 @@ appmenu-update-restart-message = ଶୀଘ୍ର ପୁନଃଆରମ୍ଭ ପ
 appmenu-addon-private-browsing-installed =
     .buttonlabel = ଠିକ ଅଛି, ବୁଝିଲି
     .buttonaccesskey = ଓ
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = ଏକଷ୍ଟେନ୍ସନଟିକୁ ଗୋପନୀୟ ୱିଣ୍ଡୋରେ ଚାଲିବାର ଅନୁମତି ଦିଅନ୍ତୁ
     .accesskey = ଏ
@@ -51,6 +52,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = ଏକଷ୍ଟେନ୍ସନକୁ ଅକ୍ଷମ କରନ୍ତୁ
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = ଆପଣଙ୍କର ଲୁକ୍କାୟିତ ଟ୍ୟାବଗୁଡ଼ିକରେ ପ୍ରବେଶ କରନ୍ତୁ
     .buttonlabel = ଟ୍ୟାବଗୁଡ଼ିକୁ ଲୁଚେଇ ରଖନ୍ତୁ

@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -132,10 +134,12 @@ urlbar-popup-blocked =
     .tooltiptext = ଆପଣ ଏହି ୱେବସାଇଟ୍ ପାଇଁ ପପ୍-ଅପ୍ ଗୁଡିକୁ ଅବରୋଧ କରିଛନ୍ତି
 urlbar-autoplay-media-blocked =
     .tooltiptext = ଆପଣ ଏହି ୱେବସାଇଟ୍ ପାଇଁ ଧ୍ୱନି ସହିତ ଅଟୋପ୍ଲେ ମିଡିଆକୁ ଅବରୋଧ କରିଛନ୍ତି
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ  ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -145,29 +149,13 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = ଠିକଣା ପଟ୍ଟିରେ ଯୋଗ କରନ୍ତୁ
+
 page-action-manage-extension =
     .label = ଏକଷ୍ଟେନ୍ସନ ପରିଚାଳନା
 page-action-remove-from-urlbar =
     .label = ଠିକଣା ପଟ୍ଟିରୁ ବାହାର କରିଦିଅନ୍ତୁ
 
 ## Page Action menu
-
-page-action-email-link-panel =
-    .label = ସଂଯୋଗିକୀକୁ ଇମେଲ କରନ୍ତୁ…
-page-action-email-link-urlbar =
-    .tooltiptext = ସଂଯୋଗିକୀକୁ ଇମେଲ କରନ୍ତୁ…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = ଟ୍ୟାବରେ ପିନ ଲଗାନ୍ତୁ
-page-action-pin-tab-urlbar =
-    .tooltiptext = ଟ୍ୟାବରେ ପିନ ଲଗାନ୍ତୁ
-page-action-unpin-tab-panel =
-    .label = ଟ୍ୟାବର ପିନ ଖୋଲନ୍ତୁ
-page-action-unpin-tab-urlbar =
-    .tooltiptext = ଟ୍ୟାବର ପିନ ଖୋଲନ୍ତୁ
 
 ## Auto-hide Context Menu
 
@@ -183,12 +171,15 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = ଏବେ, ଖୋଜନ୍ତୁ ସହିତ:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = ସନ୍ଧାନ ସେଟିଙ୍ଗ ବଦଳାନ୍ତୁ
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ସନ୍ଧାନ ସେଟିଙ୍ଗ ବଦଳାନ୍ତୁ
+
 search-one-offs-context-open-new-tab =
     .label = ନୂତନ ଟ୍ୟାବରେ ଖୋଜନ୍ତୁ
     .accesskey = ଟି
@@ -242,6 +233,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = ସହଭାଗ କରିବା ପାଇଁ ମାଇକ୍ରୋଫୋନ:
     .accesskey = M
+
 popup-all-windows-shared = ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟମାନ ହେଉଥିବା ସମସ୍ତ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ସହଭାଗ କରାଯିବ।
 
 ## WebRTC window or screen share tab switch warning
@@ -254,10 +246,13 @@ popup-all-windows-shared = ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟ
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ଠିକଣା ସନ୍ଧାନ କରନ୍ତୁ କିମ୍ବା ଭରଣ କରନ୍ତୁ
+
 urlbar-placeholder =
     .placeholder = ଠିକଣା ସନ୍ଧାନ କରନ୍ତୁ କିମ୍ବା ଭରଣ କରନ୍ତୁ
+
 urlbar-switch-to-tab =
     .value = ଟ୍ୟାବକୁ ସ୍ଥାନାନ୍ତରିତ କରନ୍ତୁ:
+
 urlbar-go-button =
     .tooltiptext = ଅବସ୍ଥିତି ପଟିରେ ଥିବା ଠିକଣାକୁ ଯାଆନ୍ତୁ
 
@@ -283,14 +278,13 @@ urlbar-result-action-search-w-engine = { $engine } ସହିତ ଖୋଜନ୍�
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = ସମସ୍ତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ
 bookmarks-toolbar-chevron =
     .tooltiptext = ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ
 bookmarks-sidebar-content =
     .aria-label = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
 bookmarks-bookmark-edit-panel =
     .label = ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ
+
 bookmarks-toolbar-menu =
     .label = ସାଧନପଟିକୁ ଚିହ୍ନିତ କରନ୍ତୁ
 bookmarks-toolbar-placeholder =
@@ -303,6 +297,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
+
+## Customize Toolbar Buttons
 
 ## More items
 

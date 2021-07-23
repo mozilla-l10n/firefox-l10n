@@ -5,6 +5,7 @@
 screenshots-context-menu = ଗୋଟିଏ screenshot ନିଅନ୍ତୁ
 
 screenshots-my-shots-button = ମୋ ଫଟୋ
+
 screenshots-cancel-button = ବାତିଲ କରନ୍ତୁ
 screenshots-save-visible-button = ଦ୍ରଷ୍ଟବ୍ୟ ସଂରକ୍ଷଣ କରନ୍ତୁ
 screenshots-save-page-button = ସମ୍ପୂର୍ଣ୍ଣ ପୃଷ୍ଠା ସଂରକ୍ଷଣ କରନ୍ତୁ
