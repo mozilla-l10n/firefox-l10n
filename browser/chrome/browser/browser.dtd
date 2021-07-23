@@ -52,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "การตั้งค่า &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "เชื่อมต่ออุปกรณ์อื่น…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "ลงชื่อเข้า &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "เปิด &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "บริการของ &brandProductName;">
@@ -140,6 +141,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "ป">
 
 <!ENTITY historyMenu.label "ประวัติ">
+
 <!ENTITY historyUndoMenu.label "แท็บที่ปิดล่าสุด">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "หน้าต่างที่ปิดล่าสุด">
@@ -151,9 +153,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "ดูแถบข้างประวัติ">
 <!ENTITY appMenuHistory.hideSidebar.label "ซ่อนแถบข้างประวัติ">
 <!ENTITY appMenuHistory.recentHistory.label "ประวัติล่าสุด">
+
 <!ENTITY appMenuHelp.label "ช่วยเหลือ">
 
 <!ENTITY appMenuRemoteTabs.label "แท็บที่ซิงค์">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "ไม่มีแท็บที่เปิดอยู่">

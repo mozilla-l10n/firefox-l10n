@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = มีการอัปเดต — ดาวน์โหลดทันที
     .label-update-unsupported = ไม่สามารถอัปเดต — เข้ากันกับระบบไม่ได้
     .label-update-restart = มีการอัปเดต — เริ่มใหม่ทันที
+
 appmenuitem-protection-dashboard-title = แดชบอร์ดการป้องกัน
 appmenuitem-customize-mode =
     .label = ปรับแต่ง…
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = ปิดเมนูแอปพลิเคชัน
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = ขยายเข้า
 appmenuitem-zoom-reduce =
     .label = ขยายออก
+
 appmenuitem-fullscreen =
     .label = เต็มหน้าจอ
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ซิงค์ตอนนี้
+
 appmenu-remote-tabs-sign-into-sync =
     .label = ลงชื่อเข้า Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = เปิด Sync…
+
 appmenuitem-fxa-toolbar-sync-now2 = ซิงค์ตอนนี้
 appmenuitem-fxa-manage-account = จัดการบัญชี
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = ลงชื่อเข้า
 appmenu-fxa-setup-sync =
     .label = เปิดการซิงค์…
 appmenu-fxa-show-more-tabs = แสดงแท็บเพิ่มเติม
+
 appmenuitem-save-page =
     .label = บันทึกหน้าเป็น…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = มีอะไรใหม่
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,33 +103,47 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = แสดงข้อมูลเพิ่มเติม
+
 profiler-popup-description-title =
     .value = บันทึก วิเคราะห์ แบ่งปัน
+
 profiler-popup-description = ทำงานร่วมกันในปัญหาด้านประสิทธิภาพโดยการเผยแพร่โปรไฟล์เพื่อแบ่งปันกับทีมของคุณ
+
 profiler-popup-learn-more = เรียนรู้เพิ่มเติม
+
 profiler-popup-settings =
     .value = การตั้งค่า
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = แก้ไขการตั้งค่า
+
 profiler-popup-disabled = ขณะนี้ตัวสร้างโปรไฟล์ถูกปิดใช้งาน ซึ่งส่วนใหญ่เกิดจากหน้าต่างการเรียกดูแบบส่วนตัวกำลังถูกเปิด
+
 profiler-popup-recording-screen = กำลังบันทึก…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = กำหนดเอง
+
 profiler-popup-start-recording-button =
     .label = เริ่มการบันทึก
+
 profiler-popup-discard-button =
     .label = ละทิ้ง
+
 profiler-popup-capture-button =
     .label = จับ
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -135,6 +156,7 @@ appmenu-manage-history =
     .label = จัดการประวัติ
 appmenu-reopen-all-tabs = เปิดแท็บทั้งหมดใหม่
 appmenu-reopen-all-windows = เปิดหน้าต่างทั้งหมดใหม่
+
 appmenu-restore-session =
     .label = เรียกคืนวาระก่อนหน้า
 appmenu-clear-history =
@@ -190,6 +212,7 @@ appmenu-customizetoolbar =
     .label = ปรับแต่งแถบเครื่องมือ…
 appmenu-taskmanager =
     .label = ตัวจัดการงาน
+
 appmenu-developer-tools-subheader = เครื่องมือสำหรับเบราว์เซอร์
 appmenu-developer-tools-extensions =
     .label = ส่วนขยายสำหรับนักพัฒนา

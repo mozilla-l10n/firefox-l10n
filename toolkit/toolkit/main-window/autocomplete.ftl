@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">นำเข้าการเข้าสู่ระบบของคุณจาก { $browser }</div>
     <div data-l10n-name="line2">สำหรับ { $host } และไซต์อื่น ๆ</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = เรียนรู้เพิ่มเติม
 

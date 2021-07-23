@@ -38,16 +38,20 @@ menu-quit =
             [windows] อ
            *[other] อ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = ออกจาก { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = ออกจาก { -brand-shorter-name }
+
 menu-about =
     .label = เกี่ยวกับ { -brand-shorter-name }
     .accesskey = ก
@@ -173,6 +177,7 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = รหัสอักขระ
     .accesskey = ร
+
 menu-view-repair-text-encoding =
     .label = ซ่อมแซมรหัสอักขระข้อความ
     .accesskey = ร
@@ -218,6 +223,7 @@ menu-history-undo-menu =
     .label = แท็บที่ปิดล่าสุด
 menu-history-undo-window-menu =
     .label = หน้าต่างที่ปิดล่าสุด
+
 menu-history-reopen-all-tabs = เปิดแท็บทั้งหมดใหม่
 menu-history-reopen-all-windows = เปิดหน้าต่างทั้งหมดใหม่
 

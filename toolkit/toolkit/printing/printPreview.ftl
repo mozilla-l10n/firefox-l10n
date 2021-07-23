@@ -38,6 +38,7 @@ printpreview-page-setup =
 printpreview-page =
     .value = หน้า:
     .accesskey = ห
+
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
@@ -61,6 +62,7 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = หน้าสุดท้าย
+
 printpreview-homearrow-button =
     .title = หน้าแรก
 printpreview-previousarrow-button =

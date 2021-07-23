@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = ล้าง { -brand-short-name } ใหม่
+
 refresh-profile-dialog-title = ต้องการล้าง { -brand-short-name } ใหม่ให้เป็นการตั้งค่าเริ่มต้นหรือไม่
 refresh-profile-dialog-button =
     .label = ล้าง { -brand-short-name } ใหม่

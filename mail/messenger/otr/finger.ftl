@@ -4,6 +4,7 @@
 
 finger-screenName =
     .label = ผู้ติดต่อ
+
 finger-verified =
     .label = สถานะการยืนยัน
 finger-fingerprint =
