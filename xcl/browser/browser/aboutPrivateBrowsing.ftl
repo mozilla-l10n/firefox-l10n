@@ -11,8 +11,10 @@ about-private-browsing =
     .title = Խնդրել յոստայնի
 about-private-browsing-not-private = Չես այժմ ի ծածուկ պատուհանի։
 about-private-browsing-info-description = { -brand-short-name } ջնջէ զպատմութիւն որոնմանց եւ դիտարկմանց քոց ընդ ելանելն քո ի ծրագրէ կամ ընդ փակելն զամենայն զծածուկ դիտարկման ներդիրս եւ պատուհանս։ Թեպէտ եւ այդ զքեզ կայից եւ մատակարարին համացանցայնոց ծառայութեանց քոց անանուն եւ անտես ոչ առնէ, դիւրացուցանէ տակաւին ի ծածուկ պահել զոր ինչ առնես առցանց յայղմէ ի համակարգչէս յայսմանէ աւգտողէ իմեքէ։
+
 about-private-browsing-need-more-privacy = Կարաւտանաս առաւե՞լ ծածկութեան։
 about-private-browsing-turn-on-vpn = Փոորձեա՛ զ֊{ -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

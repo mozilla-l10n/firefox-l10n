@@ -14,10 +14,13 @@ about-config-intro-warning-button = Ընդունել զվտանգ եւ շարո�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Փոփոխումն այսց նախընտրութեանց կարէ վնասել կատարողականութեան կամ անվտանգութեան { -brand-short-name }֊ի։
+
 about-config-page-title = Ընդլայնեալ նախընտրութիւնք
+
 about-config-search-input1 =
     .placeholder = Խնդրել զանուն նախընտրութեան
 about-config-show-all = Ցուցանել զամենայն
+
 about-config-pref-add-button =
     .title = Յաւելուլ
 about-config-pref-toggle-button =

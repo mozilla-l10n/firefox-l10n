@@ -56,6 +56,10 @@
 ## Tab actions
 
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 ## Bookmarks toolbar items
 
 
@@ -92,5 +96,19 @@
 ## Library Panel items
 
 
+## Pocket toolbar button
+
+## Repair text encoding toolbar button
+
+## Customize Toolbar Buttons
+
 ## More items
+
+## EME notification panel
+
+## Password save/update panel
+
+## Add-on removal warning
+
+## Remote / Synced tabs
 
