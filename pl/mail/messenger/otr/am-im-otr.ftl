@@ -17,6 +17,11 @@ otr-log =
     .label = Umieszczaj rozmowy zaszyfrowane za pomocą OTR w dziennikach rozmów
 otr-requireEncryption =
     .label = Wymagaj szyfrowania typu „end-to-end” dla rozmów między dwoma osobami
+otr-verifyNudge =
+    .label = Zawsze przypominaj o zweryfikowaniu niezweryfikowanego kontaktu
+
+otr-notYetAvailable = jeszcze niedostępne
+
 otr-require-encryption =
     .label = Wymagaj szyfrowania typu „end-to-end” dla rozmów między dwoma osobami
 otr-require-encryption-info =
@@ -24,9 +29,8 @@ otr-require-encryption-info =
     między dwoma osobami nie będą wysyłane, chyba że mogą zostać zaszyfrowane.
     Odebrane niezaszyfrowane wiadomości nie będą wyświetlane jako część
     standardowej rozmowy, ani zapisywane w dzienniku.
-otr-verifyNudge =
-    .label = Zawsze przypominaj o zweryfikowaniu niezweryfikowanego kontaktu
-otr-notYetAvailable = jeszcze niedostępne
 otr-verify-nudge =
     .label = Zawsze przypominaj o zweryfikowaniu niezweryfikowanego kontaktu
+
 otr-not-yet-available = jeszcze niedostępne
+

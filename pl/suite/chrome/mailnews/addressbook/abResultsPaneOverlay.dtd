@@ -28,8 +28,6 @@
 <!ENTITY HomePhone.accesskey "d">
 <!ENTITY WorkPhone.label "Telefon służbowy">
 <!ENTITY WorkPhone.accesskey "s">
-<!ENTITY ScreenName.label "Identyfikator">
-<!ENTITY ScreenName.accesskey "I">
 <!ENTITY sortAscending.label "Rosnąco">
 <!ENTITY sortAscending.accesskey "R">
 <!ENTITY sortDescending.label "Malejąco">

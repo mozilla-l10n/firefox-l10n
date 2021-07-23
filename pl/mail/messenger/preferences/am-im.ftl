@@ -4,5 +4,6 @@
 
 account-settingsTitle = Ustawienia uwierzytelniania
 account-channelTitle = Domyślne kanały
+
 account-settings-title = Ustawienia uwierzytelniania
 account-channel-title = Domyślne kanały

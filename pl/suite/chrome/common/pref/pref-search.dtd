@@ -19,5 +19,3 @@
 <!ENTITY openInTab.accesskey "t">
 <!ENTITY openContextSearchTab.label "Otwieraj nowe karty zamiast okien dla wyników wyszukiwań zainicjowanych za pomocą menu kontekstowego">
 <!ENTITY openContextSearchTab.accesskey "w">
-<!ENTITY openSidebarSearchPanel.label "Otwórz kartę Szukaj w panelu bocznym po uruchomieniu wyszukiwania">
-<!ENTITY openSidebarSearchPanel.accesskey "O">

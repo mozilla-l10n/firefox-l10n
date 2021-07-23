@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Otwórz menu">
+
 <!ENTITY navbarOverflow.label                "Więcej narzędzi…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Ustawienia synchronizacji">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Połącz inne urządzenie…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Zaloguj się w przeglądarce &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Włącz synchronizację">
 <!ENTITY fxa.menu.firefoxServices.label "Usługi przeglądarki &brandProductName;">
@@ -139,19 +141,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "D">
 
 <!ENTITY historyMenu.label "Historia">
+
 <!ENTITY historyUndoMenu.label "Ostatnio zamknięte karty">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ostatnio zamknięte okna">
 
 <!ENTITY appMenuHistory.showAll.label "Wyświetl całą historię">
+
 <!ENTITY appMenuHistory.clearRecent.label "Wyczyść historię przeglądania…">
 <!ENTITY appMenuHistory.restoreSession.label "Przywróć poprzednią sesję">
 <!ENTITY appMenuHistory.viewSidebar.label "Wyświetl panel historii">
 <!ENTITY appMenuHistory.hideSidebar.label "Ukryj panel historii">
 <!ENTITY appMenuHistory.recentHistory.label "Ostatnio odwiedzone">
+
 <!ENTITY appMenuHelp.label "Pomoc">
 
 <!ENTITY appMenuRemoteTabs.label "Karty z innych urządzeń">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Brak otwartych kart">

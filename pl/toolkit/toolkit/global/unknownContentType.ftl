@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Otwórz w programie { -brand-short-name }
     .accesskey = O
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

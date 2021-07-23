@@ -38,16 +38,20 @@ menu-quit =
             [windows] k
            *[other] k
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Zakończ program { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Zakończ program { -brand-shorter-name }
+
 menu-about =
     .label = O programie { -brand-shorter-name }
     .accesskey = O
@@ -173,6 +177,7 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Kodowanie tekstu
     .accesskey = K
+
 menu-view-repair-text-encoding =
     .label = Napraw kodowanie tekstu
     .accesskey = k
@@ -218,6 +223,7 @@ menu-history-undo-menu =
     .label = Ostatnio zamknięte karty
 menu-history-undo-window-menu =
     .label = Ostatnio zamknięte okna
+
 menu-history-reopen-all-tabs = Przywróć wszystkie karty
 menu-history-reopen-all-windows = Przywróć wszystkie okna
 

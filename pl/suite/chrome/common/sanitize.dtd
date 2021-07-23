@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sanitizeDialog.title "Czyszczenie danych prywatnych">
+
 <!ENTITY sanitizeItems.label "Wyczyść następujące elementy:">
 
 <!ENTITY itemHistory.label "historię przeglądanych stron">

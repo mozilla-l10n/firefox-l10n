@@ -42,6 +42,11 @@ abuse-report-submit-button = Wyślij
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Anulowano zgłoszenie dodatku <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitting = Zgłaszanie dodatku <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Dziękujemy za zgłoszenie. Czy usunąć dodatek <span data-l10n-name="addon-name">{ $addon-name }</span>?
