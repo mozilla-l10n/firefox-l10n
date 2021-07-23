@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = ସନ୍ଧାନ
 
 newtab-search-box-search-the-web-text = ୱେବରେ ଖୋଜନ୍ତୁ
+
 newtab-search-box-search-the-web-input =
     .placeholder = ୱେବରେ ଖୋଜନ୍ତୁ
     .title = ୱେବରେ ଖୋଜନ୍ତୁ
@@ -50,6 +51,8 @@ newtab-topsites-add-button = ଯୋଗ କରନ୍ତୁ
 
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ଏହି କାର୍ଯ୍ୟର ପଦକ୍ଷେପ ବାତିଲ କରିପାରିବେ ନାହିଁ।
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -177,3 +180,6 @@ newtab-pocket-cta-button = { -pocket-brand-name } ପାଆନ୍ତୁ
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-refresh-link = ପୃଷ୍ଠାଟିକୁ ରିଫ୍ରେଶ କରି ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ
+
+## Customization Menu
+

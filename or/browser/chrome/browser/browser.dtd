@@ -8,6 +8,7 @@
 
 
 <!ENTITY appmenu.tooltip                     "ତାଲିକା ଖୋଲନ୍ତୁ">
+
 <!ENTITY navbarOverflow.label                "ଅଧିକ ସାଧନଗୁଡ଼ିକ…">
 
 <!-- Tab context menu -->
@@ -143,11 +144,13 @@ can reach it easily. -->
 
 
 <!ENTITY historyMenu.label "ପୁରୁଣା ତଥ୍ୟ">
+
 <!ENTITY historyUndoMenu.label "ନିକଟରେ ବନ୍ଦ ହୋଇଥିବା ଟ୍ୟାବଗୁଡ଼ିକ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "ସାମ୍ପ୍ରତିକ ବନ୍ଦ ହୋଇଥିବା ୱିଣ୍ଡୋଗୁଡ଼ିକ">
 
 <!ENTITY appMenuHistory.showAll.label "ସମସ୍ତ ପୁରୁଣା ତଥ୍ୟ ଦର୍ଶାନ୍ତୁ">
+
 <!ENTITY appMenuHistory.clearRecent.label "ନିକଟର ପୁରୁଣା ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ…">
 <!ENTITY appMenuHistory.restoreSession.label "ପୂର୍ବବର୍ତ୍ତୀ ଅଧିବେଶନକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
 <!ENTITY appMenuHistory.viewSidebar.label "ପୁରୁଣାତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ଦେଖନ୍ତୁ">

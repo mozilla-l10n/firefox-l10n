@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = ସୁରକ୍ଷିତ ଧାରାରେ ଆରମ୍ଭ ହୋଇଥାଏ
+
 refresh-profile =
     .label = { -brand-short-name } କୁ ସତେଜ କରନ୍ତୁ
 safe-mode-description = ସୁରକ୍ଷିତ ଧାରା { -brand-short-name } ର ଏକ ବିଶେଷ ଧାରା ଯାହାକୁ ସମସ୍ୟାଗୁଡ଼ିକର ସମାଧାନ ପାଇଁ ବ୍ୟବହାର କରାଯାଇ ପାରିବ।

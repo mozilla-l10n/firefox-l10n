@@ -21,6 +21,7 @@ appmenuitem-zoom-enlarge =
     .label = ବଡ଼ କରନ୍ତୁ
 appmenuitem-zoom-reduce =
     .label = ଛୋଟ କରନ୍ତୁ
+
 appmenuitem-fullscreen =
     .label = ସମ୍ପୂର୍ଣ୍ଣ ପରଦା
 
@@ -28,6 +29,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ବର୍ତ୍ତମାନ ସନ୍ତୁଳନ କରନ୍ତୁ
+
 appmenuitem-save-page =
     .label = ପୃଷ୍ଠାକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
 
@@ -48,22 +50,12 @@ whatsnew-panel-header = ନୂଆ କଣ ରହିଛି
 appmenu-about =
     .label = { -brand-shorter-name } ବାବଦରେ
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = ତ୍ରୁଟିନିବାରଣ ସୂଚନା
-    .accesskey = T
 appmenu-help-feedback-page =
     .label = ମତାମତ ଦାଖଲ କରନ୍ତୁ…
     .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = ଏଡ-ଅନଗୁଡ଼ିକୁ ନିଷ୍କ୍ରିୟ କରି ପୁନଃଚାଳନ କରନ୍ତୁ…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = ଏଡ-ଅନଗୁଡ଼ିକୁ ସକ୍ରିୟ କରି ପୁନଃଚାଳନ କରନ୍ତୁ
-    .accesskey = ର
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

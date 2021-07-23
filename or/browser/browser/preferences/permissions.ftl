@@ -43,6 +43,8 @@ permissions-invalid-uri-label = ଦୟାକରି ଗୋଟିଏ ବୈଧ ହ
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = କେଉଁ ୱେବ ସାଇଟଗୁଡ଼ିକ ପପ୍-ଅପ୍ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ଖୋଲିବାକୁ ଅନୁମତିପ୍ରାପ୍ତ ତାହା ଆପଣ ଉଲ୍ଲେଖ କରିପାରିବେ.ଆପଣ ଅନୁମତି ଦେବାକୁ ଚାହୁଁଥିବା ସାଇଟର ସଠିକ ଠିକଣା ଟାଇପ କରନ୍ତୁ ଏବଂ ତାପରେ ଅନୁମତିଦିଅନ୍ତୁକୁ ଦବାନ୍ତୁ.
