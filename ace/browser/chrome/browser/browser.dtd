@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Peuhah menu">
+
 <!ENTITY navbarOverflow.label                "Peukakah laén…">
 
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
@@ -111,6 +112,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY historyMenu.label "Riwayat">
 
 <!ENTITY appMenuHistory.restoreSession.label "Peuriwang Sesi Seugolomjih">
+
 <!ENTITY appMenuHelp.label "Beunatu">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath

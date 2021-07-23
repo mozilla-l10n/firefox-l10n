@@ -32,6 +32,8 @@ security-view-unknown = Hana Jituri
 security-site-data-cookies-only = Nyo, kuki
 security-site-data-no = H‘an
 
+##
+
 image-size-unknown = Hana Jituri
 media-video = Video
 saved-passwords-yes = Nyo

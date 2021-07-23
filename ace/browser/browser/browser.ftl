@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Jeunajah Rahsia)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Jeunajah Rahsia)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Jeunajah Rahsia)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Jeunajah Rahsia)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -67,23 +69,6 @@ browser-main-window-title = { -brand-full-name }
 
 ## Page Action menu
 
-page-action-copy-url-panel =
-    .label = Salèn Peunawôt
-page-action-copy-url-urlbar =
-    .tooltiptext = Salèn Peunawôt
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Peukeumat Tab
-page-action-pin-tab-urlbar =
-    .tooltiptext = Peukeumat Tab
-page-action-unpin-tab-panel =
-    .label = Pinah Tab
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Pinah Tab
-
 ## Auto-hide Context Menu
 
 
@@ -93,8 +78,10 @@ page-action-unpin-tab-urlbar =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Ubah Peuatô Mita
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ubah peuatô mita
+
 search-one-offs-context-open-new-tab =
     .label = Mita nibak Tab Barô
     .accesskey = T
@@ -112,8 +99,10 @@ search-one-offs-context-open-new-tab =
 bookmark-panel-cancel =
     .label = Bateuë
     .accesskey = B
+
 bookmark-panel-done-button =
     .label = Seuleusoë
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -123,6 +112,7 @@ bookmark-panel =
 ## Identity Panel
 
 identity-connection-file = Ônmiëng nyoë teukeubah lam komputer droëneuh.
+
 identity-learn-more =
     .value = Meurunoë Lom
 
@@ -172,6 +162,8 @@ popup-all-windows-shared = Mandum windows nyang deuh bak layeu droen keuneuk jib
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> jinoe nakeuh layeue peunoh
+
+
 fullscreen-exit-button = Teubiet Layeue Peunoh (ESC)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Teubiet Peunoh Layeu (esc)
@@ -187,6 +179,7 @@ bookmarks-menu-button =
     .label = Menu Peutanda
 bookmarks-other-bookmarks-menu =
     .label = Peutanda Laén
+
 bookmarks-toolbar-menu =
     .label = Bar Alat Peutanda
 bookmarks-toolbar-placeholder =
@@ -201,6 +194,8 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

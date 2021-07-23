@@ -24,6 +24,7 @@
 ## Welcome page strings
 
 onboarding-welcome-header = Ka trôk neuteuka bak { -brand-short-name }
+
 onboarding-start-browsing-button-label = Mulai Seumeulop
 onboarding-cards-dismiss =
     .title = Peudong
@@ -37,8 +38,10 @@ onboarding-cards-dismiss =
 onboarding-sync-welcome-header = { -brand-product-name } Kajeuet Neuba Sajan
 onboarding-sync-welcome-content = Neucôk bookmark droen, history, lageum rahsia dan neuatô laén nibak mandum peukakah droen.
 onboarding-sync-welcome-learn-more-link = Meurunoë lom bhah Akun Firefox
+
 onboarding-sync-form-input =
     .placeholder = Surel
+
 onboarding-sync-form-continue-button = Cahdan
 onboarding-sync-form-skip-login-button = Pinah ilé
 
@@ -47,9 +50,20 @@ onboarding-sync-form-skip-login-button = Pinah ilé
 onboarding-sync-form-header = Neupasoe email droen
 onboarding-sync-form-sub-header = lanjut u { -sync-brand-name }
 
+
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+
+## Message strings belonging to the Return to AMO flow
 
 ## Custom Return To AMO onboarding strings
 
@@ -63,13 +77,21 @@ onboarding-sync-form-sub-header = lanjut u { -sync-brand-name }
 ## tooltip.
 
 
-## These strings belong to the individual onboarding messages.
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
+## Multistage MR1 onboarding strings (about:welcome pages)
 
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
 
-## Message strings belonging to the Return to AMO flow
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 

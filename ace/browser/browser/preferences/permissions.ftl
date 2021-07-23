@@ -70,6 +70,8 @@ permissions-exceptions-cookie-window =
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Droëneuh jeuët neupeuteuntèë situihwèb nyang toh sabé meupeuidin atawa hantom meupeuidin keu meungui kukis ngon data situih. Tuléh beubeutôi alamat situih nyang keuneuk atô lheuëhnyan neuklik bak Tham (Block), Peuidin keu Sési (Allow for Session) atawa Peudin.
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =

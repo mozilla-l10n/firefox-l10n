@@ -7,10 +7,13 @@
 
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
+
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
+
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
@@ -18,10 +21,13 @@ toolbar-button-back-2 =
 
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
+
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
+
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
 
@@ -30,10 +36,12 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Peuhah keulayi
     .accesskey = R
+
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
     .label = Peuhah keulayi
     .accesskey = R
+
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -47,6 +55,8 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
 ## Save Page
 
 toolbar-button-page-save =
@@ -57,6 +67,7 @@ toolbar-button-page-save =
 main-context-menu-open-link =
     .label = Peuhah Peunawôt
     .accesskey = O
+
 main-context-menu-save-link =
     .label = Keubah Peunawôt Seubagoë…
     .accesskey = k
@@ -93,15 +104,19 @@ main-context-menu-media-play-speed-normal =
 main-context-menu-media-video-fullscreen =
     .label = Peunoh Layeuë
     .accesskey = F
+
 main-context-menu-media-video-leave-fullscreen =
     .label = Teubiet Peunoh Layeu
     .accesskey = u
+
 main-context-menu-image-view =
     .label = Kalon Gamba
     .accesskey = I
+
 main-context-menu-image-copy =
     .label = Salèn Gamba
     .accesskey = y
+
 main-context-menu-send-to-device =
     .label = Peu'ét Laman u Alat
     .accesskey = n
@@ -116,6 +131,7 @@ main-context-menu-send-to-device =
 main-context-menu-link-send-to-device =
     .label = Peu'ét Peunawôt u Alat
     .accesskey = n
+
 main-context-menu-eme-learn-more =
     .label = Meurunoë leubèh lhôk bhaih DRM…
     .accesskey = D
