@@ -6,11 +6,9 @@
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = ਵੈੱਬ API: WebGPU
+
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = ਮੀਡੀਆ: AVIF
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = ਵੈੱਬ API: <link rel="preload">
+

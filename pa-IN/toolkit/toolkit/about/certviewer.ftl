@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = ਅਥਾਰਟੀ ਜਾਣਕਾਰੀ
 certificate-viewer-certificate-policies = ਸਰਟੀਫਿਕੇਟ ਨੀਤੀਆਂ
 certificate-viewer-embedded-scts = ਵਿਚੇ ਸ਼ਾਮਲ SCT
 certificate-viewer-crl-endpoints = CRL ਅੰਤ-ਸਥਾਨ
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ਡਾਊਨਲੋਡ ਕਰੋ
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (ਸਰਟੀਫਿਕੇਟ)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (ਚੇਨ)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਗੰਭੀਰ ਵਜੋਂ ਨਿਸ਼ਾਨਬੱਧ ਕੀਤਾ ਹੈ, ਇਸ ਦਾ ਅਰਥ ਹੈ ਕਿ ਕਲਾਈਂਟਾਂ ਨੂੰ ਸਰਟੀਫਿਕੇਟ ਰੱਦ ਕਰ ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ, ਜੇ ਉਹਨਾਂ ਨੂੰ ਇਸ ਬਾਰੇ ਸਮਝ ਨਾ ਹੋਵੇ।

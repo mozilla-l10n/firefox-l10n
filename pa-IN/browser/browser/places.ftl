@@ -5,10 +5,10 @@
 places-open =
     .label = ਖੋਲ੍ਹੋ
     .accesskey = O
-places-open-in-tab =
+places-open-tab =
     .label = ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ
     .accesskey = w
-places-open-tab =
+places-open-in-tab =
     .label = ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ
     .accesskey = w
 places-open-all-bookmarks =
@@ -20,15 +20,10 @@ places-open-all-in-tabs =
 places-open-window =
     .label = ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ
     .accesskey = N
-places-open-in-window =
-    .label = ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
-    .accesskey = N
 places-open-private-window =
     .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ
     .accesskey = P
-places-open-in-private-window =
-    .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
-    .accesskey = P
+
 places-new-bookmark =
     .label = …ਨਵਾਂ ਬੁੱਕਮਾਰਕ
     .accesskey = B
@@ -41,6 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = ਨਵਾਂ ਵੱਖਰੇਵਾਂ
     .accesskey = S
+
+places-open-in-window =
+    .label = ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = N
+places-open-in-private-window =
+    .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = P
+
 places-add-bookmark =
     .label = …ਬੁੱਕਮਾਰਕ ਜੋੜੋ
     .accesskey = B
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = ਵੱਖਰੇਵਾਂ ਜੋੜੋ
     .accesskey = S
+
 places-view =
     .label = ਵੇਖੋ
     .accesskey = w
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = ਮਿਤੀ ਤੇ ਸਮੇਂ
     .accesskey = t
+
 places-history-search =
     .placeholder = ਅਤੀਤ ਖੋਜੋ
 places-bookmarks-search =
     .placeholder = ਬੁੱਕਮਾਰਕ ਖੋਜੋ
+
 places-delete-domain-data =
     .label = ਇਹ ਸਾਈਟ ਨੂੰ ਭੁੱਲ ਜਾਓ
     .accesskey = F
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = ਵਿਸ਼ੇਸ਼ਤਾ
     .accesskey = i
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
@@ -101,15 +108,18 @@ places-remove-folder =
            *[other] ਫੋਲਡਰਾਂ ਨੂੰ ਹਟਾਓ
         }
     .accesskey = m
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = ਇੰਤਜ਼ਾਮ ਕੀਤੇ ਬੁੱਕਮਾਰਕਾਂ
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = ਅਧੀਨ-ਫੋਲਡਰ
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = ਹੋਰ ਬੁੱਕਮਾਰਕ
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -119,6 +129,7 @@ places-remove-bookmark =
            *[other] ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਓ
         }
     .accesskey = e
+
 places-manage-bookmarks =
     .label = ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
     .accesskey = M

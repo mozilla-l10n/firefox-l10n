@@ -8,22 +8,30 @@
 ##
 
 process-type-web = ਵੈੱਬ ਸਮੱਗਰੀ
+
 process-type-browser = ਮੁੱਖ
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = ਇਸ ਬਾਰੇ ਰਿਆਇਤ
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = ਰਿਆਇਤੀ ਮੌਜ਼ੀਲਾ ਸਮੱਗਰੀ
+
 process-type-extension = ਇਕਸਟੈਨਸ਼ਨ
+
 # process used to open file:// URLs
 process-type-file = ਲੋਕਲ ਫਾਈਲ
+
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = ਵੱਡੀ ਵੰਡ
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = ਨਿਖੇੜੀ ਵੈੱਬ ਸਮੱਗਰੀ
+
 # process preallocated; may change to other types
 process-type-prealloc = ਪਹਿਲਾਂ ਜਾਰੀ ਕੀਤਾ
 
@@ -33,11 +41,14 @@ process-type-prealloc = ਪਹਿਲਾਂ ਜਾਰੀ ਕੀਤਾ
 
 process-type-default = ਮੁ਼ੱਖ
 process-type-tab = ਟੈਬ
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to perform network operations
 process-type-socket = ਸਾਕਟ
+
 # process used to decode media
 process-type-rdd = ਰੈਡ
 

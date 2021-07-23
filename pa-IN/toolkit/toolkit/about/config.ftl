@@ -14,11 +14,15 @@ about-config-intro-warning-button = ਖ਼ਤਰੇ ਨੂੰ ਮੰਨੋ ਤ�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = ਇਨ੍ਹਾਂ ਤਰਜੀਹਾਂ ਨੂੰ ਬਦਲਣਾ { -brand-short-name } ਪ੍ਰਦਰਸ਼ਨ ਜਾਂ ਸੁਰੱਖਿਆ ਨੂੰ ਪ੍ਰਭਾਵਤ ਕਰ ਸਕਦਾ ਹੈ।
+
 about-config-page-title = ਤਕਨੀਕੀ ਪਸੰਦਾਂ
+
 about-config-search-input1 =
     .placeholder = ਪਸੰਦ ਨਾਂ ਖੋਜੋ
 about-config-show-all = ਸਾਰੇ ਦਿਖਾਓ
+
 about-config-show-only-modified = ਸਿਰਫ਼ ਸੋਧ ਕੀਤੀਆਂ ਪਸੰਦਾਂ ਹੀ ਵੇਖਾਓ
+
 about-config-pref-add-button =
     .title = ਜੋੜੋ
 about-config-pref-toggle-button =

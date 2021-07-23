@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ
+
 refresh-profile-dialog-title = { -brand-short-name } ਨੂੰ ਇਸ ਦੀਆਂ ਮੂਲ ਸੈਟਿੰਗਾਂ ਨਾਲ ਤਾਜ਼ਾ ਬਣਾਉਣਾ ਹੈ?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ

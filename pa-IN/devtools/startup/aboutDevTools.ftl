@@ -9,6 +9,7 @@ enable-common-message = ਫਾਇਰਫਾਕਸ ਡਿਵੈਲਪਰ ਟੂਲ
 enable-learn-more-link = ਡਿਵੈਲਪਰ ਟੂਲਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 enable-enable-button = ਡਿਵੈਲਪਰ ਟੂਲ ਸਮਰੱਥ ਕਰੋ
 enable-close-button = ਇਸ ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ
+
 welcome-title = ਫਾਇਰਫਾਕਸ ਡਿਵੈਲਪਰ ਟੂਲਾਂ ਵਿੱਚ ਜੀ ਆਇਆਂ ਨੂੰ!
 newsletter-title = ਮੋਜ਼ੀਲਾ ਡਿਵੈਲਪਰ ਨਿਊਜ਼ਲੈਟਰ
 newsletter-message = ਡਿਵੈਲਪਰ ਖ਼ਬਰਾਂ, ਨੁਕਤੇ ਤੇ ਹੋਰ ਸਰੋਤਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਸਿੱਧੇ ਆਪਣੇ ਇਨਬਾਕਸ ਵਿੱਚ ਲਵੋ।
@@ -16,8 +17,10 @@ newsletter-email-placeholder =
     .placeholder = ਈਮੇਲ
 newsletter-subscribe-button = ਮੈਂਬਰ ਬਣੋ
 newsletter-thanks-title = ਧੰਨਵਾਦ!
+
 footer-title = ਫਾਇਰਫਾਕਸ ਡਿਵੈਲਪਰ ਐਡੀਸ਼ਨ
 footer-learn-more-link = ਹੋਰ ਜਾਣੋ
+
 features-learn-more = ਹੋਰ ਜਾਣੋ
 features-inspector-title = ਇੰਸਪੈਕਟਰ
 features-console-title = ਕਨਸੋਲ
