@@ -16,6 +16,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Поставке
     .accesskey = к
+
 menu-addons-and-themes =
     .label = Додаци и теме
     .accesskey = Д
@@ -25,6 +26,8 @@ menu-addons-and-themes =
 
 ## Mail Toolbar
 
+
+## View
 
 ## View / Layout
 

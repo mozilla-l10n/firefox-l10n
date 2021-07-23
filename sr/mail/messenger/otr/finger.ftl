@@ -10,6 +10,7 @@ finger-intro = Отисци OTR кључева из претходних раз�
 
 finger-screenName =
     .label = Контакт
+
 finger-verified =
     .label = Стање потврде
 finger-fingerprint =

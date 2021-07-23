@@ -19,6 +19,7 @@ finger-verify-accessKey = д
 buddycontextmenu-label = Додај OTR отисак
 
 state-not_private-label = Небезбедно
+
 state-unverified-label = Непотврђено
 state-private-label = Приватно
 state-finished-label = Довршено

@@ -7,3 +7,4 @@ openpgp-key-verified = Прихвати (проверено)
 openpgp-key-unverified = Прихвати (непроверено)
 openpgp-key-undecided = Не прихватај (неодлучено)
 openpgp-key-rejected = Не прихватај (одбачено)
+

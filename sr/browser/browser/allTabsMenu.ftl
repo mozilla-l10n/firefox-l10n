@@ -8,13 +8,17 @@ all-tabs-menu-undo-close-tabs =
             [1] Врати затворену картицу
            *[other] Врати затворене картице
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Претражи картице
+
 all-tabs-menu-new-user-context =
     .label = Нова картица у контејнеру
+
 all-tabs-menu-hidden-tabs =
     .label = Скривене картице
+
 all-tabs-menu-manage-user-context =
     .label = Управљај контејнерима
     .accesskey = У

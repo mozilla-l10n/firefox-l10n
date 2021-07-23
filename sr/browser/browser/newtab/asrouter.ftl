@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Пробајте да закачите карт�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Зашто видим ово?
+
 cfr-doorhanger-extension-cancel-button = Не сада
     .accesskey = Н
+
 cfr-doorhanger-extension-ok-button = Додај
     .accesskey = Д
 cfr-doorhanger-pintab-ok-button = Закачи ову картицу
     .accesskey = З
+
 cfr-doorhanger-extension-manage-settings-button = Управљај препорукама
     .accesskey = У
+
 cfr-doorhanger-extension-never-show-recommendation = Не приказуј ми ову препоруку
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Сазнајте више
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = Аутор: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препорука
 cfr-doorhanger-extension-notification2 = Препорука
     .tooltiptext = Препорука додатка
     .a11y-announcement = Доступна је препорука додатка
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Препорука
@@ -61,6 +69,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } корисника
        *[other] { $total } корисника
     }
+
 cfr-doorhanger-pintab-description = Брзо приступите најпосећенијим сајтовима. Картице ће остати отворене чак и након рестартовања.
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -68,8 +77,10 @@ cfr-doorhanger-pintab-description = Брзо приступите најпосе
 cfr-doorhanger-pintab-step1 = Кликните <b>десним тастером</b> на картицу коју желите да закачите.
 cfr-doorhanger-pintab-step2 = Из менија изаберите <b>Закачи картицу</b>.
 cfr-doorhanger-pintab-step3 = Ако је сајт ажуриран, појавиће се плава тачка на закаченој картици.
+
 cfr-doorhanger-pintab-animation-pause = Паузирај
 cfr-doorhanger-pintab-animation-resume = Настави
+
 
 ## Firefox Accounts Message
 
@@ -91,18 +102,24 @@ cfr-protections-panel-link-text = Сазнајте више
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Нова функција:
+
 cfr-whatsnew-button =
     .label = Шта је ново
     .tooltiptext = Шта је ново
+
 cfr-whatsnew-panel-header = Шта је ново
+
 cfr-whatsnew-release-notes-link-text = Прочитајте напомене о верзији
+
 cfr-whatsnew-fx70-title = { -brand-short-name } се сада бори још више за вашу приватност
 cfr-whatsnew-fx70-body =
     Заштита од праћења је побољшана у најновијој верзији и олакшава вам
     стварање сигурних лозинки за појединачне веб странице.
+
 cfr-whatsnew-tracking-protect-title = Заштитите се од софтвера за праћење
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } блокира многе елементе за праћење који надгледају вашу активност на интернету.
 cfr-whatsnew-tracking-protect-link-text = Погледајте извештај
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -114,9 +131,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Од { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Прикажи извештај
+
 cfr-whatsnew-lockwise-backup-title = Направите резервну копију лозинки
 cfr-whatsnew-lockwise-backup-body = Генеришите безбедне лозинке и приступите им свуда.
 cfr-whatsnew-lockwise-backup-link-text = Укључите резерве
+
 cfr-whatsnew-lockwise-take-title = Понесите ваше лозинке са собом
 cfr-whatsnew-lockwise-take-body =
     { -lockwise-brand-short-name } апликација омогућава сигуран приступ вашој
@@ -156,6 +175,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Блокирано узимача дигиталних отисака
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блокира многе сакупљаче дигиталних отисака, који тајно прикупљају информације о вашем уређају и активностима како би направили ваш рекламни профил.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Узимачи дигиталних отисака
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } може да блокира многе сакупљаче дигиталних отисака, који тајно прикупљају информације о вашем уређају и активностима како би направили ваш рекламни профил.
@@ -227,6 +247,7 @@ cfr-doorhanger-milestone-heading =
         [few] Од { $date }, { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење!
        *[other] Од { $date }, { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -262,12 +283,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Икона „Слика у слици”
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Затвори
-    .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Заштита надохват руке
 cfr-whatsnew-protections-body = Контролна табла заштите укључује сажетке извештаја о цурењу података и управљању лозинком. Сада можете пратити број решених цурења и видети да ли је и нека од ваших сачуваних лозинки била изложена цурењу података.
 cfr-whatsnew-protections-cta-link = Прикажи контролну таблу заштите
@@ -277,6 +292,12 @@ cfr-whatsnew-protections-icon-alt = Икона штита
 
 cfr-whatsnew-better-pdf-header = Побољшан рад са PDF документима
 cfr-whatsnew-better-pdf-body = PDF документи се сада отварају директно у { -brand-short-name }-у, олакшавајући ток рада.
+
+cfr-doorhanger-milestone-close-button = Затвори
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -298,35 +319,15 @@ cfr-doorhanger-fission-secondary-button = Сазнајте више
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Аутоматска заштита од подмуклих тактика праћења
-cfr-whatsnew-clear-cookies-body = Неки пратиоци вас преусмеравају на друге странице које тајно постављају колачиће. { -brand-short-name } сада аутоматски брише ове колачиће тако да вас не прате.
-cfr-whatsnew-clear-cookies-image-alt = Илустрација блокираног колачића
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Више медијских контрола
-cfr-whatsnew-media-keys-body = Пуштајте и паузирајте звук или видео помоћу тастатуре или слушалица, олакшавајући тако управљање медијима са друге картице, програма или док је рачунар закључан. Такође, можете да прелазите с једног снимка на други помоћу тастера за напред и назад.
-cfr-whatsnew-media-keys-button = Сазнајте како
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Пречице за претрагу у траци за адресу
-cfr-whatsnew-search-shortcuts-body = Сада кад у адресну траку укуцате неки претраживач или одређени сајт, појавиће се плава пречица у предлозима за претраживање испод. Изаберите ту пречицу за довршавање претраживања дирекнто у адресној траци.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Заштита од злонамерних супер колачића
-cfr-whatsnew-supercookies-body = Сајтови могу да у ваш прегледач тајно уграде „суперколачић” који вас може пратити на интернету, чак и након што обришете колачиће. { -brand-short-name } пружа моћну заштиту од суперколачића, спречавајући их да прате вашу активност на различитим сајтовима.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Побољшани обележивачи
-cfr-whatsnew-bookmarking-body = Праћење омиљених страница постало је лакше. { -brand-short-name } сада памти ваше омиљено место за сачуване обележиваче, подразумевано приказује траку са обележивачима на новим картицама и омогућава лак приступ осталим обележивачима путем фасцикле на траци са алаткама.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Свеобухватна заштита од праћења путем међустраничних колачића
-cfr-whatsnew-cross-site-tracking-body = Сада можете да укључите побољшану заштиту од праћења помоћу колачића. { -brand-short-name } може да изолује ваше активности и податке на сајту на ком се тренутно налазите, спречавајући да се подаци сачувани у прегледачу преносе на друге сајтове.
 
 ## Full Video Support CFR message
 

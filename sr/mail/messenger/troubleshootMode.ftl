@@ -5,3 +5,4 @@
 troubleshoot-mode-disable-addons =
     .label = Онемогући све додатке
     .accesskey = т
+

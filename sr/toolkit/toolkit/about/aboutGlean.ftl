@@ -13,6 +13,7 @@ about-glean-warning =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] програма { -brand-short-name }
     }.
+
 tag-pings-label = Додели ову ознаку свим послатим пинговима
 send-pings-label = Пошаљи именовани пинг
 controls-button-label = Пошаљи подешавања

@@ -84,6 +84,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Разумем
     .buttonaccesskey = Р
 appmenu-addon-post-install-message = Управљајте додацима кликом на <image data-l10n-name='addon-install-icon'></image> из менија <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Доступно је ажурирање
     .buttonlabel = Преузми
@@ -166,6 +167,7 @@ appmenu-update-other-instance-message =
         [neuter] { -brand-shorter-name(case: "gen") }
        *[other] програма { -brand-shorter-name }
     }. Затворите га или ажурирајте упркос томе (други примерак можда неће радити док га не рестартујете).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = У реду
     .buttonaccesskey = У
@@ -173,6 +175,7 @@ appmenu-addon-post-install-message3 = Управљајте додацима и �
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дозволи рад у приватним прозорима
     .accesskey = Д
+    
 appmenu-new-tab-controlled =
     .label = Страница нове картице је промењена.
     .buttonlabel = Задржи промене
@@ -185,6 +188,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = З
     .secondarybuttonlabel = Онемогући додатак
     .secondarybuttonaccesskey = О
+
 appmenu-new-tab-controlled-changes =
     .label = Страница нове картице је промењена.
     .buttonlabel = Задржи промене

@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Модули записника безбедн
 url-classifier-debug-modules = Тренутни модули записника
 url-classifier-debug-sbjs-modules = JS запис безбедног прегледања
 url-classifier-debug-file = Тренутни запис података
+
 url-classifier-trigger-update = Покрени ажурирање
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Онемогући JS запис безбедног прегледања

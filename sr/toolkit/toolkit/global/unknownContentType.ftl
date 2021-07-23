@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Отвори преко { -brand-short-name }
     .accesskey = е
+
 unknowncontenttype-settingschange =
     .value =
         Параметре можете да промените у подешавањима { -brand-short-name.gender ->

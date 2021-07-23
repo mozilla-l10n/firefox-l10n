@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Додајте ознаке
+
 pocket-panel-saved-error-generic = Дошло је до грешке при чувању у { -pocket-brand-name(case: "loc") }.
 pocket-panel-saved-error-tag-length = Ознаке су ограничене на 25 знакова
 pocket-panel-saved-error-only-links = Можете сачувати само везе

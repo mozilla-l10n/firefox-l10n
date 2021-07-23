@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Освежи { -brand-short-name }
+
 refresh-profile-dialog-title =
     Вратити подразумевана подешавања { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }

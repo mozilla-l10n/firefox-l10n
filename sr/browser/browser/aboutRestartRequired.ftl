@@ -12,4 +12,5 @@ restart-required-intro-brand =
        *[other] Програм { -brand-short-name } је ажуриран у позадини. Кликните на „Рестартуј програм { -brand-short-name }” да бисте довршили ажурирање.
     }
 restart-required-description = Вратићемо све ваше странице, прозоре и картице како бисте наставили тамо где сте стали.
+
 restart-button-label = Рестартуј { -brand-short-name }

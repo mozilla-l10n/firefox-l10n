@@ -14,10 +14,13 @@ about-config-intro-warning-button = Разумем ризик и желим да
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Измена ових подешавања може деловати на { -brand-short-name } перформансе или безбедност
+
 about-config-page-title = Напредна подешавања
+
 about-config-search-input1 =
     .placeholder = Претражите подешавања
 about-config-show-all = Прикажи све
+
 about-config-pref-add-button =
     .title = Додај
 about-config-pref-toggle-button =

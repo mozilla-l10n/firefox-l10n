@@ -8,15 +8,19 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Пријава злоупотребе за { $addon-name }
+
 abuse-report-title-extension = Пријавите додатак организацији { -vendor-short-name }
 abuse-report-title-theme = Пријавите тему организацији { -vendor-short-name }
 abuse-report-subtitle = Тип злоупотребе:
+
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = аутор: <a data-l10n-name="author-name">{ $author-name }</a>
+
 abuse-report-learnmore =
     Нисте сигурни шта да изаберете?
     <a data-l10n-name="learnmore-link">Сазнајте више о пријављивању додатака и тема</a>
+
 abuse-report-submit-description = Опишите проблем (опционално)
 abuse-report-textarea =
     .placeholder = Лакше ћемо решити проблем ако га детаљније опишете. Хвала вам на помоћи.
@@ -65,21 +69,29 @@ abuse-report-messagebar-action-cancel = Откажи
 
 abuse-report-damage-reason-v2 = Штетно за мој рачунар или податке
 abuse-report-damage-example = Пример: малвер или крађа података
+
 abuse-report-spam-reason-v2 = Садржи непожељан садржај или рекламе
 abuse-report-spam-example = Пример: додаје рекламе на веб-странице
+
 abuse-report-settings-reason-v2 = Промењен ми је претраживач, почетна страница или страница нове картице без питања
 abuse-report-settings-suggestions = Покушајте да промените подешавања пре пријављивања злоупотребе:
 abuse-report-settings-suggestions-search = Промените подразумевана подешавања претраге
 abuse-report-settings-suggestions-homepage = Промените почетну страницу и страницу нове картице
+
 abuse-report-deceptive-reason-v2 = Лажно представља своју вредност или функције
 abuse-report-deceptive-example = Пример: опис или слика доводе у заблуду
+
 abuse-report-broken-reason-extension-v2 = Не ради, нарушава веб-сајтове или успорава { -brand-product-name(case: "acc") }
 abuse-report-broken-reason-theme-v2 = Не ради или нарушава рад прегледача
 abuse-report-broken-example = Пример: функције су споре, тешко их је користити или не раде; делови веб-сајтова се не учитавају или изгледају необично
 abuse-report-broken-suggestions-extension = Изгледа да сте пронашли грешку. Поред слања овог извештаја, најбољи начин да се проблем отклони је да контактирате програмера. Контакт информације о програмеру потражите на <a data-l10n-name="support-link">веб-сајту додатка</a>.
 abuse-report-broken-suggestions-theme = Изгледа да сте пронашли грешку. Поред слања овог извештаја, најбољи начин да се проблем отклони је да контактирате програмера. Контакт информације о програмеру потражите на <a data-l10n-name="support-link">веб-сајту теме</a>.
+
 abuse-report-policy-reason-v2 = Садржај који промовише мржњу, насиље или незаконите радње
 abuse-report-policy-suggestions = Напомена: повреде ауторских права или жига пријављујете помоћу <a data-l10n-name="report-infringement-link">овог упутства</a>.
+
 abuse-report-unwanted-reason-v2 = Никада нисам желео/ла ову ставку и не знам како да је уклоним
 abuse-report-unwanted-example = Пример: програм је инсталирао додатак без моје дозволе
+
 abuse-report-other-reason = Нешто друго
+

@@ -43,6 +43,7 @@ compatibility-issue-occurrences =
         [few] { $number } појављивања
        *[other] { $number } појављивања
     }
+
 compatibility-no-issues-found = Проблем са компатибилношћу није пронађен.
 compatibility-close-settings-button =
     .title = Затвори подешавања
