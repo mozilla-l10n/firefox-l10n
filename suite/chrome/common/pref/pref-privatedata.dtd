@@ -18,6 +18,7 @@
 
 <!ENTITY clearDataSettings.label          "Når eg ber &brandShortName; om å slette private data, skal han slette:">
 
+
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
   The only difference bettween the two labels is that one calls a dialog, the other doesn't.
   The same accesskey is used for both labels.

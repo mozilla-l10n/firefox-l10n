@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Opne med { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

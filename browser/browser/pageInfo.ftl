@@ -129,6 +129,8 @@ security-site-data-only = Ja, { $value } { $unit } nettsidedata
 security-site-data-cookies-only = Ja, infokapslar
 security-site-data-no = Nei
 
+##
+
 image-size-unknown = Ukjend
 page-info-not-specified =
     .value = Ikkje spesifisert

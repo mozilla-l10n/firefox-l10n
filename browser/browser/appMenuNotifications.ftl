@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ok, eg forstår
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Administrer tillegga dine ved å klikke på <image data-l10n-name='addon-install-icon'></image> i <image data-l10n-name='addon-menu-icon'></image> menyen.
+
 appmenu-update-available2 =
     .label = Oppdatering er tilgjengeleg
     .buttonlabel = Last ned
@@ -71,14 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ikkje no
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = Ei ny { -brand-shorter-name }-oppdatering er tilgjengelig, men ho kan ikkje installerast fordi ein annan versjon av { -brand-shorter-name } køyrer. Lat han att for å fortsetje oppdateringa, eller vel å oppdatere likevel (den andre versjonen fungerer kanskje ikkje rett før du startar han på nytt).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Handter utvidingar og tema via applikasjonsmenyen.
 appmenu-addon-post-install-message3 = Handter utvidingar og tema via applikasjonsmenyen.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillat denne utvidinga å kløyre i private vindauge
     .accesskey = T
+    
 appmenu-new-tab-controlled =
     .label = Den nye fana di er endra.
     .buttonlabel = Behald endringane
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = B
     .secondarybuttonlabel = Slå av utviding
     .secondarybuttonaccesskey = u
+
 appmenu-new-tab-controlled-changes =
     .label = Ny fane-side er endra.
     .buttonlabel = Behald endringane

@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "T">
 
 <!ENTITY historyMenu.label "Historikk">
+
 <!ENTITY historyUndoMenu.label "Nyleg attlatne faner">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nyleg attlatne vindauge">
@@ -155,6 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historikksidestolpe">
 <!ENTITY appMenuHistory.hideSidebar.label "Gøym sidestolpen Historikk">
 <!ENTITY appMenuHistory.recentHistory.label "Nyleg historikk">
+
 <!ENTITY appMenuHelp.label "Hjelp">
 
 <!ENTITY appMenuRemoteTabs.label "Synkroniserte faner">

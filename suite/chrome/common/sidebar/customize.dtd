@@ -9,6 +9,7 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "Faner i sidestolpen:">
 <!ENTITY sidebar.customize.current.accesskey    "F">
+
 <!ENTITY sidebar.customize.customize.label      "Tilpass fane…">
 <!ENTITY sidebar.customize.customize.accesskey  "T">
 <!ENTITY sidebar.customize.remove.label         "Fjern">

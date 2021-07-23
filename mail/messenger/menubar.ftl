@@ -9,6 +9,10 @@ menu-view-charset =
     .label = Tekstkoding
     .accesskey = e
 
+## Tools Menu
+
+## Help Menu
+
 ## Mail Toolbar
 
 toolbar-junk-button =
@@ -23,3 +27,8 @@ toolbar-delete-button =
 toolbar-undelete-button =
     .label = Angre sletting
     .tooltiptext = Angre sletting av valde meldingar
+
+## View
+
+## View / Layout
+

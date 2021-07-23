@@ -4,6 +4,8 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
 <!ENTITY MsgSynchronize.label "Last ned og synkroniser meldingar">
 <!ENTITY MsgSelect.label "Element for fråkopla bruk">
 <!ENTITY MsgSyncDesc.label "Dersom du allereie har valt e-postmapper eller nyheitsgrupper for fråkopla bruk, kan du laste ned og/eller synkronisere dei no. Elles kan du bruke «Vel»-knappen for å velje e-postmappene og nyheitsgruppene du vil bruke fråkopla.">

@@ -8,22 +8,30 @@
 ##
 
 process-type-web = Nettinnhald
+
 process-type-browser = Hovud
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Priviligerte About-sider
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Privilegert Mozilla-innhald
+
 process-type-extension = Utviding
+
 # process used to open file:// URLs
 process-type-file = Lokal fil
+
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Stor tilldeling
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Isolert nettinnhald
+
 # process preallocated; may change to other types
 process-type-prealloc = Førtildelt
 
@@ -33,11 +41,14 @@ process-type-prealloc = Førtildelt
 
 process-type-default = Hovud
 process-type-tab = Fane
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to perform network operations
 process-type-socket = Socket
+
 # process used to decode media
 process-type-rdd = RDD
 
