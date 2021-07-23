@@ -40,6 +40,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fieldMapImport.title "Ṱunḓani Bugu ya Ḓiresi">
+
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Vhuṱanzi ho ṱunḓiwaho ha Rekhodo: ">
 <!ENTITY fieldMapImport.next.accesskey "N">

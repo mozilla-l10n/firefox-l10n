@@ -143,6 +143,8 @@ cert-not-verified-issuer-unknown = A yo ngo kona u khwaṱhisedza hei thanziela 
 cert-not-verified-ca-invalid = A yo ngo kona u khwaṱhisedza hei thanziela ngauri thanziela ya CA a i ho mulayoni.
 cert-not-verified-unknown = A yo ngo kona u khwaṱthisedza hei ṱhanziela nga ndivho dzi sa divheiho.
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 
