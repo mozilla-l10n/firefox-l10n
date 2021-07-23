@@ -213,6 +213,7 @@
 <!ENTITY printButton.tooltip "Imprentar esti mensaxe">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY subject.accesskey "S">
 

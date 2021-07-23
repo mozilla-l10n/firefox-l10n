@@ -38,16 +38,20 @@ menu-quit =
             [windows] c
            *[other] C
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Colar de { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Cola de { -brand-shorter-name }
+
 menu-about =
     .label = Tocante a { -brand-shorter-name }
     .accesskey = T
@@ -215,6 +219,7 @@ menu-history-undo-menu =
     .label = Llingüetes zarraes apocayá
 menu-history-undo-window-menu =
     .label = Ventanes zarraes apocayá
+
 menu-history-reopen-all-tabs = Volver abrir toles llingüetes
 menu-history-reopen-all-windows = Volver abrir toles ventanes
 
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Aniciar sesión en { -brand-product-name }…
     .accesskey = F
+menu-tools-turn-on-sync =
+    .label = Activar { -sync-brand-short-name }…
+    .accesskey = c
 menu-tools-addons-and-themes =
     .label = Complementos y estilos
     .accesskey = C
 menu-tools-fxa-sign-in2 =
     .label = Aniciar sesión
     .accesskey = n
-menu-tools-turn-on-sync =
-    .label = Activar { -sync-brand-short-name }…
-    .accesskey = c
 menu-tools-sync-now =
     .label = Sincronizar agora
     .accesskey = z
@@ -284,13 +289,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Información de la páxina
     .accesskey = I
-menu-settings =
-    .label = Axustes
-    .accesskey =
-        { PLATFORM() ->
-            [windows] A
-           *[other] x
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -301,6 +299,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] n
+        }
+menu-settings =
+    .label = Axustes
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] x
         }
 menu-tools-layout-debugger =
     .label = Depurador de distribuciones
@@ -339,14 +344,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Atayos del tecláu
     .accesskey = t
-menu-get-help =
-    .label = Consiguir ayuda
-    .accesskey = C
 menu-help-troubleshooting-info =
     .label = Información pa iguar problemes
     .accesskey = i
-menu-help-taskmanager =
-    .label = Xestor de xeres
+menu-get-help =
+    .label = Consiguir ayuda
+    .accesskey = C
 menu-help-more-troubleshooting-info =
     .label = Más información pa iguar problemes
     .accesskey = a

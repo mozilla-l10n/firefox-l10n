@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Amestar etiquetes
+
 pocket-panel-saved-error-generic = Hebo un fallu al tentar de guardar en { -pocket-brand-name }.
 pocket-panel-saved-error-only-links = Namás puen guardase enllaces
 pocket-panel-saved-error-not-saved = Nun se guardó la páxina

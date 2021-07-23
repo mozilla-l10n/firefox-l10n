@@ -8,6 +8,7 @@
 newtab-page-title = Llingüeta nueva
 newtab-settings-button =
     .title = Personalizar la páxina «Llingüeta nueva»
+
 newtab-personalize-button-label = Personalizar
     .title = Personaliza «Llingüeta nueva»
     .aria-label = Personalizar «Llingüeta nueva»
@@ -29,10 +30,12 @@ newtab-topsites-edit-shortcut-header = Edición d'un atayu
 newtab-topsites-title-label = Títulu
 newtab-topsites-title-input =
     .placeholder = Introduz un títulu
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Teclexa o apiega una URL
 newtab-topsites-url-validation = Ríquese una URL válida
+
 newtab-topsites-image-url-label = URL d'imaxe personalizada
 newtab-topsites-use-image-link = Usar una imaxe personalizada…
 
@@ -58,10 +61,12 @@ newtab-confirm-delete-history-p2 = Esta aición nun pue desfacese.
 newtab-menu-section-tooltip =
     .title = Abrir el menú
     .aria-label = Abrir el menú
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Quitar
     .aria-label = Quitar
+
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Editar esti sitiu
@@ -146,6 +151,7 @@ newtab-section-header-recent-activity = Actividá recién
 
 newtab-empty-section-highlights = Comienza a restolar y equí vamos amosate dalgunos de los meyores artículos, vídeos y otres páxines que visitesti o amestesti apocayá a Marcadores.
 
+
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-loading = Cargando...
@@ -177,6 +183,7 @@ newtab-custom-sponsored-sites = Atayos patrocinaos
 newtab-custom-recent-title = Actividá recién
 newtab-custom-recent-subtitle = Una esbilla de los sitios y el conteníu recién
 newtab-custom-close-button = Zarrar
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

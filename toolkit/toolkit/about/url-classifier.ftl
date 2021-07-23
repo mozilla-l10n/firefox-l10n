@@ -21,6 +21,7 @@ url-classifier-cache-refresh-btn = Refrescar
 url-classifier-cache-clear-btn = Llimpiar
 url-classifier-cache-prefix = Prefixu
 url-classifier-debug-title = Depuración
+
 url-classifier-trigger-update = Aicionar l'anovamientu
 url-classifier-not-available = N/D
 url-classifier-cannot-update = nun pue anovase

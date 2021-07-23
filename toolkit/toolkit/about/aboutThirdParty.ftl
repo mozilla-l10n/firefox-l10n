@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 third-party-message-empty = Nun se detectaron módulos de terceros.
+
 third-party-unsigned-icon =
     .title = Esti módulu nun ta robláu
+
 third-party-button-expand =
     .title = Amosar la información detallada
 third-party-button-collapse =

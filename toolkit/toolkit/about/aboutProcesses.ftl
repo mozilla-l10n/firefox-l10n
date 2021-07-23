@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Xestor de procesos
+
 # The Actions column
 about-processes-column-action =
     .title = Aiciones
@@ -25,31 +26,17 @@ about-processes-column-cpu-total = CPU
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
-about-processes-browser-process-name = { -brand-short-name } (procesu { $pid })
-about-processes-file-process-name = Ficheros (procesu { $pid })
-about-processes-extension-process-name = Estensiones (procesu { $pid })
-about-processes-plugin-process-name = Complementos (procesu { $pid })
-about-processes-gpu-process-name = GPU (procesu { $pid })
-about-processes-socket-process-name = Rede (procesu { $pid })
-# Process
-# Variables:
-#   $name (String) The name assigned to the process.
-#   $pid (String) The process id of this process, assigned by the OS.
-about-processes-process-name = Procesu { $pid }: { $name }
+## Process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+
+## Isolated process names
+## Variables:
+##    $pid (String) The process id of this process, assigned by the OS.
+##    $origin (String) The domain name for this process.
 
 ## Details within processes
 
-# Single-line summary of threads
-# Variables:
-#    $number (Number) The number of threads in the process. Typically larger
-#                     than 30. We don't expect to ever have processes with less
-#                     than 5 threads.
-about-processes-thread-summary = FIlos ({ $number })
-# Thread details
-# Variables:
-#   $name (String) The name assigned to the thread.
-#   $tid (String) The thread id of this thread, assigned by the OS.
-about-processes-thread-name = Filu { $tid }: { $name }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
@@ -64,8 +51,6 @@ about-processes-tab-name = Llingüeta: { $name }
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
-# Common case.
-about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (midiendo)
 
@@ -80,8 +65,6 @@ about-processes-cpu-user-and-kernel-not-ready = (midiendo)
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
-# Common case.
-about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

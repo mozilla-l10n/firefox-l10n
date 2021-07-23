@@ -7,12 +7,16 @@
 
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = Nun hai datos presentes del agospiador esbilláu
+
 # Hint shown when the cookies storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cookies
 storage-table-type-cookies-hint = Mira y edita les cookies esbillando un agospiador. <a data-l10n-name="learn-more-link">Saber más</a>
+
 # Hint shown when the local storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Local_Storage_Session_Storage
 storage-table-type-localstorage-hint = Mira y edita l'almacenamientu llocal esbillando un agospiador. <a data-l10n-name="learn-more-link">Saber más</a>
+
 # Hint shown when the session storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Local_Storage_Session_Storage
 storage-table-type-sessionstorage-hint = Mira y edita l'almacenamientu de la sesión esbillando un agospiador. <a data-l10n-name="learn-more-link">Saber más</a>
+

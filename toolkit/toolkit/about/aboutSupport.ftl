@@ -7,6 +7,7 @@ page-subtitle =
     Esta páxina contién información téunica que pue ser útil cuando tentes
     d'iguar un problema. Si busques rempuestes a entrugues frecuentes tocante a
     { -brand-short-name }, visita'l nuesu <a data-l10n-name="support-link">sitiu web de sofitu</a>.
+
 crashes-title = Informes de casques
 crashes-id = ID del informe
 crashes-send-date = Data d'unviu
@@ -104,6 +105,7 @@ sandbox-sys-call-age = Hai segundos
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-args = Argumentos
+
 restart-in-troubleshoot-mode-label = Mou d'iguar problemes
 clear-startup-cache-label = Llimpiar la caché d'aniciu…
 
@@ -144,6 +146,7 @@ support-third-party-modules-thread = Filu
 support-third-party-modules-status = Estáu
 support-third-party-modules-unsigned-icon =
     .title = Esti módulu nun ta robláu
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -151,6 +154,7 @@ report-crash-for-days =
         [one] Informes de casques del últimu día
        *[other] Informes de casques de los últimos { $days } díes
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -158,6 +162,7 @@ crashes-time-minutes =
         [one] Hai { $minutes } minutu
        *[other] Hai { $minutes } minutos
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -165,6 +170,7 @@ crashes-time-hours =
         [one] Hai { $hours } hora
        *[other] Hai { $hours } hores
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -183,20 +189,27 @@ no = Non
 ## not found.
 
 found = Atopóse
+
 gpu-description = Descripción
 gpu-ram = RAM
+
 glcontext-crash-guard = OpenGL
+
 min-lib-versions = Versión mínima que s'espera
 loaded-lib-versions = Versión n'usu
+
 sandbox-proc-type-content = conteníu
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+
 wheel-enabled = rueda del mur activada
 touch-enabled = entrada táctil activada
 drag-enabled = arrastre de la barra de desplazamientu activáu
@@ -223,6 +236,7 @@ support-printing-prefs-value = Valor
 support-remote-experiments-title = Esperimentos remotos
 support-remote-experiments-name = Nome
 support-remote-experiments-branch = Rama esperimental
+
 support-remote-features-title = Carauterístiques remotes
 support-remote-features-name = Nome
 support-remote-features-status = Estáu

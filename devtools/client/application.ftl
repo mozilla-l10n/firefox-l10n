@@ -18,21 +18,28 @@
 
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Lleer más
+
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Fallos y alvertencies
+
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = Identidá
+
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
 manifest-item-presentation = Presentación
+
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
     .alt = Iconu
+
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Iconu d'alvertencia
     .title = Alvertencia
+
 # Text for the ALT and TITLE attributes of the error icon
 icon-error =
     .alt = Iconu de fallu
     .title = Fallu
+

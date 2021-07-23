@@ -5,53 +5,70 @@
 permissions-window =
     .title = Esceiciones
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Direición del sitiu web
     .accesskey = D
+
 permissions-block =
     .label = Bloquiar
     .accesskey = B
+
 permissions-session =
     .label = Permitir na sesión
     .accesskey = s
+
 permissions-allow =
     .label = Permitir
     .accesskey = P
+
 permissions-site-name =
     .label = Sitiu web
+
 permissions-status =
     .label = Estáu
+
 permissions-remove =
     .label = Quitar el sitiu web
     .accesskey = Q
+
 permissions-remove-all =
     .label = Quitar tolos sitios web
     .accesskey = u
+
 permissions-button-cancel =
     .label = Encaboxar
     .accesskey = E
+
 permissions-button-ok =
     .label = Guardar los cambeos
     .accesskey = G
+
 permission-dialog =
     .buttonlabelaccept = Guardar los cambeos
     .buttonaccesskeyaccept = G
+
 permissions-autoplay-menu = Lo predeterminao pa tolos sitios web:
+
 permissions-searchbox =
     .placeholder = Buscar un sitiu web
+
 permissions-capabilities-autoplay-allow =
     .label = Permitir l'audiu y videu
 permissions-capabilities-autoplay-block =
     .label = Bloquiar l'audiu
 permissions-capabilities-autoplay-blockall =
     .label = Bloquiar l'audiu y videu
+
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquiar
 permissions-capabilities-prompt =
     .label = Entrugar siempres
+
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
@@ -77,6 +94,8 @@ permissions-exceptions-cookie-window =
     .title = Esceiciones - Cookies y datos de los sitios
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Pues especificar los sitios web que siempres o enxamás van tener permisu pa usar cookies y datos de los sitios. Teclexa la direición exauta del sitiu que quies xestionar y dempués calca «Bloquiar», «Permitir na sesión» o «Permitir»
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

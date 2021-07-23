@@ -12,27 +12,35 @@ cfr-doorhanger-feature-heading = Carauterística aconseyada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por qué toi viendo esto
+
 cfr-doorhanger-extension-cancel-button = Agora non
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Amestar agora
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Fixar esta llingüeta
     .accesskey = F
+
 cfr-doorhanger-extension-manage-settings-button = Xestionar los axustes de «Recomendación»
     .accesskey = X
+
 cfr-doorhanger-extension-never-show-recommendation = Nun amosar esta recomendación
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Lleer más
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = por { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
 cfr-doorhanger-extension-notification2 = Recomendación
     .tooltiptext = Recomendación d'estensiones
     .a11y-announcement = Hai una recomendación d'estensiones disponible
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomendación
@@ -58,6 +66,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuariu
        *[other] { $total } usuarios
     }
+
 cfr-doorhanger-pintab-description = Accedi fácilmente a los sitios que más visites. Caltén los sitios abiertos nuna llingüeta (magar que reanicies).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -65,8 +74,10 @@ cfr-doorhanger-pintab-description = Accedi fácilmente a los sitios que más vis
 cfr-doorhanger-pintab-step1 = <b>Calca col botón derechu</b> na llingüeta que quies fixar.
 cfr-doorhanger-pintab-step2 = Esbilla <b>Fixar la llingüeta</b> nel menú.
 cfr-doorhanger-pintab-step3 = Si'l sitiu tien un anovamientu, vas ver un puntu azul na llingüeta fixada.
+
 cfr-doorhanger-pintab-animation-pause = Posar
 cfr-doorhanger-pintab-animation-resume = Siguir
+
 
 ## Firefox Accounts Message
 
@@ -88,13 +99,19 @@ cfr-protections-panel-link-text = Lleer más
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Carauterística nueva:
+
 cfr-whatsnew-button =
     .label = Novedaes
     .tooltiptext = Novedaes
+
 cfr-whatsnew-panel-header = Novedaes
+
 cfr-whatsnew-fx70-title = Agora { -brand-short-name } llucha más pola to privacidá
+
 cfr-whatsnew-tracking-protect-title = Protéxite de los rastrexadores
+
 cfr-whatsnew-tracking-blocked-subtitle = Dende'l { DATETIME($earliestDate, month: "long", year: "numeric") }
+
 cfr-whatsnew-lockwise-take-title = Lleva les contraseñes contigo
 
 ## Search Bar
@@ -173,6 +190,7 @@ cfr-doorhanger-milestone-heading =
         [one] ¡{ -brand-short-name } bloquió alredor de <b>{ $blockedCount }</b> rastrexador dende'l { $date }!
        *[other] ¡{ -brand-short-name } bloquió alredor de <b>{ $blockedCount }</b> rastrexadores dende'l { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -201,17 +219,17 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Iconu d'imaxe sobre imaxe
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Zarrar
-    .accesskey = Z
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-icon-alt = Iconu d'escudu
 
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-body = Agora los documentos PDF ábrense direutamente en { -brand-short-name }, asina nun pierdes el fluxu de trabayu.
+
+cfr-doorhanger-milestone-close-button = Zarrar
+    .accesskey = Z
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -236,9 +254,6 @@ cfr-doorhanger-fission-secondary-button = Lleer más
 
 ## What's new: Media controls message
 
-cfr-whatsnew-media-keys-header = Más controles multimedia
-cfr-whatsnew-media-keys-button = Lleer cómo
-
 ## What's new: Search shortcuts
 
 
@@ -246,8 +261,6 @@ cfr-whatsnew-media-keys-button = Lleer cómo
 
 
 ## What's new: Better bookmarking
-
-cfr-whatsnew-bookmarking-header = Marcadores ameyoraos
 
 ## What's new: Cross-site cookie tracking
 

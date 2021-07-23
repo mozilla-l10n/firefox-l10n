@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 head-title = Tocante a DevTools
+
 welcome-title = ¡Afáyate nes DevTools de Firefox!
 newsletter-title = Boletín pa desendolcadores de Mozilla
 newsletter-email-placeholder =
@@ -10,7 +11,9 @@ newsletter-email-placeholder =
 newsletter-privacy-label = Acepto que Mozilla remane la mio información como desplica nesta <a data-l10n-name="privacy-policy">Política de Privacidá</a>.
 newsletter-subscribe-button = Soscribise
 newsletter-thanks-title = ¡Gracies!
+
 footer-learn-more-link = Lleer más
+
 features-learn-more = Lleer más
 features-inspector-title = Inspeutor
 features-console-title = Consola
