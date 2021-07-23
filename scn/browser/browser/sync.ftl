@@ -6,13 +6,18 @@ fxa-toolbar-sync-syncing =
     .label = Staju sincrunizzannu…
 fxa-toolbar-sync-syncing-tabs =
     .label = Staju sincrunizzannu i schedi…
-fxa-toolbar-sync-syncing2 = Staju sincrunizzannu…
+
 sync-disconnect-dialog-title = Sculligàrisi di { -sync-brand-short-name }?
+
+fxa-toolbar-sync-syncing2 = Staju sincrunizzannu…
+
 sync-disconnect-dialog-body = { -brand-product-name } nun sincrunizzarà cchiù u to cuntu, ma nun cancillarà nuḍḍu dî to dati di navigazziuni nna stu dispusitivu.
 fxa-disconnect-dialog-title = Sculligàrisi di { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } sarà sculligatu dû to cuntu ma nun cancillarà nuḍḍu dî to dati di navigazziuni nna stu dispusitivu.
 sync-disconnect-dialog-button = Discunnetti
+
 fxa-menu-connect-another-device =
     .label = Cunnetti n'autru dispusitivu…
+
 fxa-menu-sign-out =
     .label = Nesci…

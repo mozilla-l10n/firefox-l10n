@@ -215,6 +215,7 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } bluccò cchiù assai di <b>{ $blockedCount }</b> trazzatura dû { $date }!
     }
+
 cfr-doorhanger-milestone-ok-button = Vidi tuttu
     .accesskey = t
 
@@ -233,4 +234,8 @@ cfr-doorhanger-milestone-ok-button = Vidi tuttu
 ## DOH Message
 
 ## What's new: Cookies message
+
+## Fission Experiment Message
+
+## Full Video Support CFR message
 

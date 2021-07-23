@@ -23,6 +23,8 @@ certmgr-cert-detail-sha-1-fingerprint = Urma SHA-1
 ## Cert Viewer
 
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 

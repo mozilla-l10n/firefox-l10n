@@ -161,3 +161,4 @@ policy-SupportMenu = Agghiùncicci n'uggettu dû minù di supportu pirsunalizzat
 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blocca a pussibbilità di visitari siti. Talìa a ducumentazziuni pi sapiri cchiù dittagghi ncapu u furmatu.
+

@@ -12,3 +12,4 @@ places-bookmarks-search =
 places-delete-domain-data =
     .label = Scòrdati stu situ
     .accesskey = S
+

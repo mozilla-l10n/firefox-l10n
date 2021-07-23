@@ -126,6 +126,8 @@ security-site-data-only = Se, { $value }{ $unit } di dati dû situ
 security-site-data-cookies-only = Se, cookie
 security-site-data-no = No
 
+##
+
 image-size-unknown = Scanusciutu
 page-info-not-specified =
     .value = Nun spicificatu

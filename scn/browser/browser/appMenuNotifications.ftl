@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = D'accordu
     .buttonaccesskey = D
 appmenu-addon-post-install-message = Gistisci i to agghiuncitini ammaccannu <image data-l10n-name='addon-install-icon'></image> nnô minù <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = Pirmetti a sta stinziuni di travagghiari ntê Finestri privati
     .accesskey = P

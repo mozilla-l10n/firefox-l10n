@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Rapi u minù">
+
 <!ENTITY navbarOverflow.label                "Cchiù strumenti…">
 
 <!-- Tab context menu -->
@@ -142,19 +143,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Cronuluggìa">
+
 <!ENTITY historyUndoMenu.label "Schedi chiujuti di picca">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Finestri chiujuti di picca">
 
 <!ENTITY appMenuHistory.showAll.label "Mustra tutta a cronuluggìa">
+
 <!ENTITY appMenuHistory.clearRecent.label "Cancella cronuluggìa ricenti…">
 <!ENTITY appMenuHistory.restoreSession.label "Ricùpira a sissiuni pricidenti">
 <!ENTITY appMenuHistory.viewSidebar.label "Talìa sbarra di ciancu dâ cronuluggìa">
 <!ENTITY appMenuHistory.hideSidebar.label "Ammuccia sbarra di ciancu dû cronuluggìa">
 <!ENTITY appMenuHistory.recentHistory.label "Cronuluggìa ricenti">
+
 <!ENTITY appMenuHelp.label "Ajutu">
 
 <!ENTITY appMenuRemoteTabs.label "Schedi sincrunizzati">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nuḍḍa scheda raputa">

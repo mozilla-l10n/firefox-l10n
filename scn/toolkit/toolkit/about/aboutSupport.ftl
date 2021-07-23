@@ -82,3 +82,7 @@ async-pan-zoom = Spustamentu/Grannizza asìncruni
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

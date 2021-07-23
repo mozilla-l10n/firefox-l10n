@@ -21,6 +21,7 @@ appmenuitem-zoom-enlarge =
     .label = Cchiù granni
 appmenuitem-zoom-reduce =
     .label = Cchiù nicu
+
 appmenuitem-fullscreen =
     .label = Tuttu schirmu
 
@@ -28,6 +29,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincrunizza ora
+
 appmenuitem-save-page =
     .label = Sarba pàggina comu…
 
@@ -48,24 +50,12 @@ whatsnew-panel-header = Nuvità
 appmenu-about =
     .label = Supra { -brand-shorter-name }
     .accesskey = S
-appmenu-help-troubleshooting-info =
-    .label = Nfurmazziuna p'arrisòrbiri prubblemi
-    .accesskey = p
-appmenu-help-taskmanager =
-    .label = Gisturi attività
 appmenu-help-feedback-page =
     .label = Manna riscontru…
     .accesskey = r
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Riabbìa cu l'agghiuncitini disabbilitati…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Riabbìa cu l'agghiuncitini abbilitati
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -85,3 +75,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Gisturi attività
+

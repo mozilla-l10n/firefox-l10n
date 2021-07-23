@@ -600,6 +600,7 @@ home-prefs-topsites-description = I siti chi vìsiti cchiù assai
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Cunzigghiati di { $provider }
+
 ##
 
 home-prefs-recommended-by-learn-more = Comu funziona
@@ -623,6 +624,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Pizzini
 home-prefs-snippets-description = Attualizzazziuna di { -vendor-short-name } e { -brand-product-name }
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -705,6 +707,7 @@ containers-back-button =
             [windows] Nn'arrè ê Prifirenzi
            *[other] Nn'arrè ê Prifirenzi
         }
+
 containers-header = Schedi cuntinituri
 containers-add-button =
     .label = Agghiunci un cuntinituri novu
@@ -712,6 +715,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = Prifirenzi
+
 containers-remove-button =
     .label = Leva
 

@@ -23,13 +23,16 @@ menu-application-hide-other =
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Nesci di { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Nesci di { -brand-shorter-name }
+
 menu-about =
     .label = Supra { -brand-shorter-name }
     .accesskey = S
@@ -298,8 +301,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Nfurmazziuna p'arrisòrbiri prubblemi
     .accesskey = p
-menu-help-taskmanager =
-    .label = Gisturi attività
 menu-help-feedback-page =
     .label = Manna riscontru…
     .accesskey = r

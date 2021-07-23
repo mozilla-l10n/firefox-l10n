@@ -91,6 +91,8 @@ permissions-exceptions-cookie-window =
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Po' spicificari quali siti ponnu o nun ponnu mai usari cookie e dati dû situ. Dìggita u nnirizzu giustu dû situ ca vo' gistiri e poi ammacca Blocca, Pirmetti sissiuni o Pirmetti.
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =

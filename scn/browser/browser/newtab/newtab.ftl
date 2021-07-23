@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Cerca
 
 newtab-search-box-search-the-web-text = Cerca nnâ riti
+
 newtab-search-box-search-the-web-input =
     .placeholder = Cerca nnâ riti
     .title = Cerca nnâ riti
@@ -53,6 +54,8 @@ newtab-topsites-add-button = Agghiunci
 newtab-confirm-delete-history-p1 = Sì sicuru chi voi cancillari tutti i voti chi visitasti sta pàggina dâ cronuluggìa?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = St'azziuni nun si po sfari.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -189,3 +192,6 @@ newtab-pocket-cta-text = Sarba l'artìculi chi ti piàcinu nne { -pocket-brand-n
 
 newtab-error-fallback-info = Ops! Quarchi cosa fallìu carricannu stu cuntinutu.
 newtab-error-fallback-refresh-link = Attualizza sta pàggina pi pruvari arrè.
+
+## Customization Menu
+

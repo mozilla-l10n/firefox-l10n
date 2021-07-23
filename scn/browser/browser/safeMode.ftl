@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Abbìa nnâ mudalità sicura
+
 refresh-profile =
     .label = Ricàrrica { -brand-short-name }
 safe-mode-description = A mudalità sicura è na mudalità spiciali di { -brand-short-name } chi po' èssiri usata p'arrisòrbiri prubblemi.
