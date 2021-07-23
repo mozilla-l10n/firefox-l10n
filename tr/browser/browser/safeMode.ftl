@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Güvenli kipte başlat
+
 troubleshoot-mode-window =
     .title = { -brand-short-name } sorun giderme modunda açılsın mı?
     .style = max-width: 400px
@@ -15,9 +16,9 @@ start-troubleshoot-mode =
 refresh-profile =
     .label = { -brand-short-name } tarayıcısını yenile
 safe-mode-description = Güvenli kip, sorun gidermek için kullanılabilecek özel bir { -brand-short-name } kipidir.
-troubleshoot-mode-description = Sorunları tanılamak için bu özel { -brand-short-name } modunu kullanabilirsiniz. Uzantılarınız ve özelleştirmeleriniz geçici olarak devre dışı bırakılacaktır.
 safe-mode-description-details = Eklentileriniz ve değiştirdiğiniz ayarlar geçici olarak devre dışı bırakılacaktır. Bazı { -brand-short-name } özellikleri şu anki gibi çalışmayabilir.
 refresh-profile-instead = Ayrıca sorun gidermeyi atlayarak { -brand-short-name } tarayıcısını yenilemeyi deneyebilirsiniz.
+troubleshoot-mode-description = Sorunları tanılamak için bu özel { -brand-short-name } modunu kullanabilirsiniz. Uzantılarınız ve özelleştirmeleriniz geçici olarak devre dışı bırakılacaktır.
 skip-troubleshoot-refresh-profile = Ayrıca sorun gidermeyi atlayıp { -brand-short-name } tarayıcısını yenilemeyi de deneyebilirsiniz.
 # Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } başlarken beklenmeyen bir şekilde kapandı. Bu, eklentilerden veya başka sorunlardan kaynaklanmış olabilir. Güvenli kipi başlatarak sorunu gidermeyi deneyebilirsiniz.

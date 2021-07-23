@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label "Özellikler">
 
 <!ENTITY generalInfo.label "Genel bilgiler">
-<!ENTITY folderCharsetTab.label "Öntanımlı karakter kodlaması:">
-<!ENTITY folderCharsetTab.accesskey "e">
-<!ENTITY folderCharsetOverride.label "Öntanımlamayı bu dizindeki postalara uyumla.">
-<!ENTITY folderCharsetOverride.accesskey "a">
 <!ENTITY folderRebuildSummaryFileTip2.label "Özet dosyası indeksini yeniden oluştur">
 <!ENTITY folderRebuildSummaryFile2.label "Repair Folder">
 <!ENTITY folderRebuildSummaryFile2.accesskey "R">
@@ -30,8 +26,6 @@
 <!ENTITY retentionKeepAll.accesskey "B">
 <!ENTITY retentionKeepRecent.label "Yeni olanlar">
 <!ENTITY retentionKeepRecent.accesskey "Y">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri sil (zaman ayarlarını gözardı et)">
 <!ENTITY retentionApplyToFlagged.label "Yıldızlı iletileri silme">
 <!ENTITY retentionApplyToFlagged.accesskey "Y">
 
@@ -61,6 +55,6 @@
 <!ENTITY folderType.label "Dizin türü:">
 
 <!ENTITY folderQuotaTab.label "Kota">
-<!ENTITY folderQuotaRoot.label "Kota kökü:">
 <!ENTITY folderQuotaUsage.label "Kullanım:">
 <!ENTITY folderQuotaStatus.label "Durum:">
+

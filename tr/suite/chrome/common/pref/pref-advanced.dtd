@@ -13,3 +13,4 @@
 <!ENTITY prefCheckDefault.caption "Sistem entegrasyonu">
 <!ENTITY prefCheckDefaultClient.label "Check default application settings on startup">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
+

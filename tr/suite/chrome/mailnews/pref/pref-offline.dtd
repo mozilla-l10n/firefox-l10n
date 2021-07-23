@@ -33,6 +33,3 @@
 <!ENTITY mailnewsTimeout.accesskey "z">
 <!ENTITY mailnewsTimeoutSeconds.label "saniye sonra">
 <!ENTITY Diskspace "Disk alanı">
-<!ENTITY offlineCompact.label "Sağdakini aşıyorsa dizinleri sıkıştır">
-<!ENTITY offlineCompact.accesskey "S">
-<!ENTITY mb.label "MB">

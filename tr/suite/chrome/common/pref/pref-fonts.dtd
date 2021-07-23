@@ -28,19 +28,13 @@
 <!ENTITY cursive.label "Cursive:">
 <!ENTITY cursive.accesskey "C">
 
-<!ENTITY font.langGroup.latin1 "Batı Avrupa">
-<!ENTITY font.langGroup.latin2 "Orta Avrupa">
 <!ENTITY font.langGroup.japanese "Japonca">
 <!ENTITY font.langGroup.trad-chinese "Traditional Chinese(Taiwan)">
 <!ENTITY font.langGroup.simpl-chinese "Basitleştirilmiş Çince">
 <!ENTITY font.langGroup.trad-chinese-hk "Traditional Chinese(Hong Kong)">
 <!ENTITY font.langGroup.korean "Korece">
 <!ENTITY font.langGroup.cyrillic "Cyrillic">
-<!ENTITY font.langGroup.baltic "Baltık">
 <!ENTITY font.langGroup.el "Yunanca">
-<!ENTITY font.langGroup.turkish "Türkçe">
-<!ENTITY font.langGroup.unicode "Other Languages">
-<!ENTITY font.langGroup.user-def "Kullanıcı tanımlı">
 <!ENTITY font.langGroup.thai "Tayca">
 <!ENTITY font.langGroup.hebrew "İbranice">
 <!ENTITY font.langGroup.arabic "Arapça">
@@ -66,6 +60,7 @@
 
 <!ENTITY useDocumentFonts.label "Allow documents to use other fonts">
 <!ENTITY useDocumentFonts.accesskey "o">
+
 <!-- leaving this stuff in for now -->
 
 

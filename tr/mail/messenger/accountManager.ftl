@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = { -brand-short-name } tercihleri
+
 open-addons-sidebar-button = Eklentiler ve Temalar

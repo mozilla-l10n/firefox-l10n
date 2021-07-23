@@ -4,5 +4,7 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
+
 # Description of the import module
 thunderbird-import-description = Thunderbird profil dizininden postaları içe aktar.
+

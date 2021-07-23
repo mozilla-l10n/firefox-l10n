@@ -27,13 +27,6 @@
 <!ENTITY generalMessageDisplay.caption "Genel">
 <!ENTITY autoMarkAsRead.label "İletileri okunmuş olarak otomatik işaretle">
 <!ENTITY autoMarkAsRead.accesskey "o">
-<!ENTITY markAsReadNoDelay.label "Görüntüleme anında">
-<!ENTITY markAsReadNoDelay.accesskey "G">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label "Görüntülemeden">
-<!ENTITY markAsReadDelay.accesskey "ö">
 <!ENTITY secondsLabel.label "saniye sonra">
 
 <!ENTITY openingMessages.label "When opening messages, display them in:">

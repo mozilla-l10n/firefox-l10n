@@ -17,12 +17,7 @@
 <!ENTITY highestPriorityCmd.label "En yüksek">
 
 <!ENTITY contextDesc.label "Süzgeçlerin çalışma zamanı:">
-<!ENTITY contextDesc.accesskey "z">
-<!ENTITY contextIncoming.label "Posta denetimi esnasında">
 <!ENTITY contextManual.label "Elle çalıştır">
-<!ENTITY contextBoth.label "Posta denetimi esnasında veya elle">
-<!ENTITY contextPostPlugin.label "Posta denetimi (sınıflandırma sonrası)">
-<!ENTITY contextPostPluginBoth.label "Posta denetimi (sınıflandırma sonrası) veya elle çalıştırma">
 
 <!ENTITY filterActionDesc.label "Bu işlemi uygula:">
 <!ENTITY filterActionDesc.accesskey "u">
@@ -44,3 +39,9 @@
 <!ENTITY ignoreSubthread.label "Alt dizilimleri görmezden gel">
 <!ENTITY watchThread.label "Dizilimleri gözetle">
 <!ENTITY stopExecution.label "Süzgeç yürütümünü durdur">
+
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->

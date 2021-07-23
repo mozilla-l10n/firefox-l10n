@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Etiket ekle
+
 pocket-panel-saved-error-generic = { -pocket-brand-name }’a kaydetmeye çalışırken bir hata oluştu.
 pocket-panel-saved-error-tag-length = Etiketler en fazla 25 karakter olabilir
 pocket-panel-saved-error-only-links = Yalnızca bağlantılar kaydedilebilir

@@ -15,11 +15,10 @@
 
 <!ENTITY viewingMessages.label "İleti görüntüleme">
 <!ENTITY notifications.label "Uyarılar">
-<!ENTITY address.label "Adresler">
 <!ENTITY composingMessages.label "Düzenleme">
 <!ENTITY format.label "İleti biçemi">
-<!ENTITY return.label "Alındı onayı">
+<!ENTITY address.label "Adresler">
 <!ENTITY junk.label "Gereksiz ve şüpheli posta">
 <!ENTITY tags.label "Etiketler">
-<!ENTITY characterEncoding.label "Karakter Kodlaması">
+<!ENTITY return.label "Alındı onayı">
 <!ENTITY networkStorage.label "Ağ ve depolama">

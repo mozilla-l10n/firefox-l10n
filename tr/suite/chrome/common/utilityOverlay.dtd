@@ -5,6 +5,7 @@
 <!-- these things need to move into utilityOverlay.xul -->
 <!ENTITY offlineGoOfflineCmd.label "Çevrim dışı çalış">
 <!ENTITY offlineGoOfflineCmd.accesskey "m">
+
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
 
@@ -66,11 +67,6 @@
 <!ENTITY preferencesCmd.label "Preferences…">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "e">
-<!ENTITY findCmd.key "F">
-<!-- LOCALIZATION NOTE (findCmd.accesskey): This accesskey should be within
-     findCmd.label found in messengercompose.dtd, messenger.dtd and
-     editorOverlay.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
-<!ENTITY findCmd.accesskey "F">
 <!ENTITY findAgainCmd.label "Find Again">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">

@@ -8,10 +8,6 @@ about-addressbook-title = Adres Defteri
 
 about-addressbook-toolbar-new-address-book =
     .label = Yeni adres defteri
-about-addressbook-toolbar-new-carddav-address-book =
-    .label = Yeni CardDAV adres defteri
-about-addressbook-toolbar-new-ldap-address-book =
-    .label = Yeni LDAP adres defteri
 about-addressbook-toolbar-add-carddav-address-book =
     .label = CardDAV adres defteri ekle
 about-addressbook-toolbar-add-ldap-address-book =
@@ -24,6 +20,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Tüm adres defterleri
+
 about-addressbook-books-context-properties =
     .label = Özellikler
 about-addressbook-books-context-synchronize =
@@ -34,6 +31,7 @@ about-addressbook-books-context-delete =
     .label = Sil
 about-addressbook-books-context-remove =
     .label = Kaldır
+
 about-addressbook-confirm-delete-book-title = Adres defterini sil
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -51,14 +49,17 @@ about-addressbook-search =
     .placeholder = { $name } defterinde ara
 about-addressbook-search-all =
     .placeholder = Tüm adres defterlerinde ara
+
 about-addressbook-sort-button =
     .title = Liste sırasını değiştir
+
 about-addressbook-name-format-display =
     .label = Görünen ad
 about-addressbook-name-format-firstlast =
     .label = Adı Soyadı
 about-addressbook-name-format-lastfirst =
     .label = Soyadı, Adı
+
 about-addressbook-sort-name-ascending =
     .label = Ada göre sırala (A > Z)
 about-addressbook-sort-name-descending =
@@ -67,6 +68,7 @@ about-addressbook-sort-email-ascending =
     .label = E-posta adresine göre sırala (A > Z)
 about-addressbook-sort-email-descending =
     .label = E-posta adresine göre sırala (Z > A)
+
 about-addressbook-confirm-delete-mixed-title = Kişileri ve listeleri sil
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -123,6 +125,7 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Düzenle
 about-addressbook-cancel-edit-contact-button = Vazgeç
 about-addressbook-save-edit-contact-button = Kaydet
+
 about-addressbook-details-email-addresses-header = E-posta adresleri
 about-addressbook-details-phone-numbers-header = Telefon numaraları
 about-addressbook-details-home-address-header = Ev adresi

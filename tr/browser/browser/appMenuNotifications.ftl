@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Daha sonra
     .secondarybuttonaccesskey = D
 appmenu-update-restart-message = Yeniden başlatmanın ardından { -brand-shorter-name } tüm açık sekme ve pencerelerinizi geri yükleyecek (Gizli Gezinti modundakiler hariç).
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Tamam, anladım
+    .buttonaccesskey = T
+appmenu-addon-post-install-message = Eklentilerinizi yönetmek için <image data-l10n-name='addon-menu-icon'></image> menüdeki <image data-l10n-name='addon-install-icon'></image> simgesine tıklayabilirsiniz.
+
 appmenu-update-available2 =
     .label = Güncelleme var
     .buttonlabel = İndir
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Daha sonra
     .secondarybuttonaccesskey = D
 appmenu-update-other-instance-message = Yeni bir { -brand-shorter-name } güncellemesi mevcut ama şu anda başka bir { -brand-shorter-name } kopyası çalıştığı için yüklenemiyor. Güncellemeye devam etmek için çalışan kopyayı kapatın veya “yine de güncelle”yi seçin. (Diğer kopya yeniden başlatılana kadar düzgün çalışmayabilir.)
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Tamam, anladım
-    .buttonaccesskey = T
-appmenu-addon-post-install-message = Eklentilerinizi yönetmek için <image data-l10n-name='addon-menu-icon'></image> menüdeki <image data-l10n-name='addon-install-icon'></image> simgesine tıklayabilirsiniz.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Tamam
     .buttonaccesskey = T
-appmenu-addon-post-install-message2 = Uzantılarınızı ve temalarınızı uygulama menüsünden yönetebilirsiniz.
 appmenu-addon-post-install-message3 = Eklentilerinizi ve temalarınızı uygulama menüsünden yönetebilirsiniz.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Bu uzantının gizli pencerelerde çalışmasına izin ver
     .accesskey = B
+    
 appmenu-new-tab-controlled =
     .label = Yeni Sekme’niz değişti.
     .buttonlabel = Değişiklikleri koru
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = D
     .secondarybuttonlabel = Eklentiyi etkisizleştir
     .secondarybuttonaccesskey = E
+
 appmenu-new-tab-controlled-changes =
     .label = Yeni sekmeniz değişti.
     .buttonlabel = Değişiklikleri tut

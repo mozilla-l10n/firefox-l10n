@@ -17,7 +17,6 @@
 
 <!ENTITY search.placeholder "Çerezlerde ara">
 <!ENTITY focusSearch.key "f">
-<!ENTITY windowClose.key "w">
 <!ENTITY selectAll.key "a">
 
 <!ENTITY props.name.label "isim:">
@@ -30,8 +29,6 @@
 <!ENTITY treehead.sitename.label "Site">
 <!ENTITY treehead.status.label "Durum">
 <!ENTITY windowtitle.label "Çerez yöneticisi">
-<!ENTITY buttonaccept.label "Kapat">
-<!ENTITY buttonaccept.accesskey "K">
 
 <!ENTITY blockSite.label "Engelle">
 <!ENTITY blockSite.accesskey "g">

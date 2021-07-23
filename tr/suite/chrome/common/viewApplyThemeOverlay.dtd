@@ -4,7 +4,3 @@
 
 <!ENTITY applyTheme.label "Tema uygula">
 <!ENTITY applyTheme.accesskey "T">
-<!ENTITY getNewThemesCmd.label "Yeni tema indir">
-<!ENTITY getNewThemesCmd.accesskey "Y">
-<!ENTITY getPersonasCmd.label "Get Personas">
-<!ENTITY getPersonasCmd.accesskey "P">

@@ -4,9 +4,6 @@
 
 <!ENTITY window.title "Kanala katıl">
 
-<!ENTITY qsearch.label "Hızlı arama:">
-<!ENTITY qsearch.accesskey "a">
-
 <!ENTITY topics.label "Konu ve kanal isimlerinde ara">
 <!ENTITY topics.accesskey "o">
 
@@ -18,9 +15,6 @@
 
 <!ENTITY maxusers.label "Azami kullanıcı:">
 <!ENTITY maxusers.accesskey "m">
-
-<!ENTITY refresh.label "Şimdi tazele">
-<!ENTITY refresh.accesskey "">
 
 <!ENTITY col.name "İsim">
 <!ENTITY col.users "Kullanıcı">

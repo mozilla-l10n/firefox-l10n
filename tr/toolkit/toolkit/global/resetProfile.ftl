@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } tarayıcısını yenile
+
 refresh-profile-dialog-title = { -brand-short-name } varsayılan ayarlarına döndürülsün mü?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } tarayıcısını yenile

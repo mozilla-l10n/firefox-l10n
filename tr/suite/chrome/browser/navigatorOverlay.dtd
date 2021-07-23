@@ -19,8 +19,6 @@
 <!ENTITY uploadFile.label "Dosya yükle…">
 <!ENTITY uploadFile.accesskey "ü">
 
-<!ENTITY printSetupCmd.label "Page Setup…">
-<!ENTITY printSetupCmd.accesskey "u">
 <!-- Edit Menu -->
 
 <!ENTITY findOnCmd.label "Find in This Page…">
@@ -122,17 +120,11 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Images from this site will never be downloaded.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Allow Popups from This Site">
-<!ENTITY cookieAllowPopupsCmd.accesskey "A">
-<!ENTITY cookieManagePopups.label "Manage Popups">
-<!ENTITY cookieManagePopups.accesskey "M">
-
 <!ENTITY cookieCookieManager.label "Çerez yöneticisi">
 <!ENTITY cookieCookieManager.accesskey "y">
 <!ENTITY cookieImageManager.label "Resim yöneticisi">
 <!ENTITY cookieImageManager.accesskey "R">
-<!ENTITY cookiePopupManager.label "Popup Manager">
-<!ENTITY cookiePopupManager.accesskey "o">
 
 <!ENTITY clearPrivateDataCmd.label "Özel bilgileri sil…">
 <!ENTITY clearPrivateDataCmd.accesskey "z">
+

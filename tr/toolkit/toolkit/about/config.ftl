@@ -14,11 +14,15 @@ about-config-intro-warning-button = Riski kabul ederek devam et
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Bu tercihleri değiştirmek { -brand-short-name } performansını veya güvenliğini etkileyebilir.
+
 about-config-page-title = Gelişmiş Tercihler
+
 about-config-search-input1 =
     .placeholder = Tercih adlarında ara
 about-config-show-all = Tümünü göster
+
 about-config-show-only-modified = Yalnızca değiştirilmiş tercihleri göster
+
 about-config-pref-add-button =
     .title = Ekle
 about-config-pref-toggle-button =

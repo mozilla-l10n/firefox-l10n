@@ -9,6 +9,7 @@ unread-messages-os-tooltip =
         [one] 1 okunmamış ileti
        *[other] { $count } okunmamış ileti
     }
+
 about-rights-notification-text = { -brand-short-name }, tüm dünyadan binlerce kişinin katkıda bulunduğu, özgür ve açık kaynaklı bir yazılımdır.
 
 ## Content tabs
@@ -22,12 +23,10 @@ content-tab-security-broken-icon =
 
 ## Toolbar
 
-addons-and-themes-button =
-    .label = Eklentiler ve Temalar
-    .tooltip = Eklentilerinizi yönetin
 addons-and-themes-toolbarbutton =
     .label = Eklentiler ve temalar
     .tooltiptext = Eklentilerinizi yönetin
+
 redirect-msg-button =
     .label = Yönlendir
     .tooltiptext = Seçilen iletiyi yönlendir
@@ -37,8 +36,10 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Dizin bölmesi araç çubuğu
     .accesskey = D
+
 folder-pane-toolbar-options-button =
     .tooltiptext = Dizin bölmesi seçenekleri
+
 folder-pane-header-label = Dizinler
 
 ## Folder Toolbar Header Popup
@@ -46,21 +47,27 @@ folder-pane-header-label = Dizinler
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Araç çubuğunu gizle
     .accesskey = u
+
 show-all-folders-label =
     .label = Tüm dizinler
     .accesskey = m
+
 show-unread-folders-label =
     .label = Okunmamış dizinler
     .accesskey = O
+
 show-favorite-folders-label =
     .label = Favori dizinler
     .accesskey = F
+
 show-smart-folders-label =
     .label = Birleşik dizinler
     .accesskey = B
+
 show-recent-folders-label =
     .label = Son kullanılan dizinler
     .accesskey = S
+
 folder-toolbar-toggle-folder-compact-view =
     .label = Yoğun görünüm
     .accesskey = Y
@@ -77,14 +84,19 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Tercihler
+
 appmenu-addons-and-themes =
     .label = Eklentiler ve temalar
+
 appmenu-help-enter-troubleshoot-mode =
     .label = Sorun giderme modu…
+
 appmenu-help-exit-troubleshoot-mode =
     .label = Sorun giderme modunu kapat
+
 appmenu-help-more-troubleshooting-info =
     .label = Sorun giderme bilgileri
+
 appmenu-redirect-msg =
     .label = Yönlendir
 
@@ -111,6 +123,7 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Bu adres, adres defterinde mevcut
+
 message-header-address-not-in-address-book-icon =
     .alt = Bu adres, adres defterinde mevcut değil
 
@@ -121,9 +134,14 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = { $name } kaldırılsın mı?
 addon-removal-confirmation-button = Kaldır
 addon-removal-confirmation-message = { $name } ile birlikte yapılandırması ve verileri { -brand-short-name } uygulamasından kaldırılsın mı?
+
 caret-browsing-prompt-title = Klavye ile Gezinti
 caret-browsing-prompt-text = F7 tuşu Klavye ile Gezinti özelliğini açar ve kapatır. Bu özellik, bazı içeriklerin içine hareket edebilen bir işaretçi ekleyerek metinleri klavyeyle seçebilmenizi sağlar. Klavye ile Gezinti’yi açmak istiyor musunuz?
 caret-browsing-prompt-check-text = Tekrar sorma.
+
 repair-text-encoding-button =
     .label = Metin kodlamasını onar
     .tooltiptext = İleti içeriğinden doğru metin kodlamasını tahmin et
+
+## no-reply handling
+

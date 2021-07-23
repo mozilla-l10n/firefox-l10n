@@ -16,6 +16,8 @@
 <!-- File menu items -->
 
 
+<!-- menu items: the . means that the menu item isn't implemented yet -->
+
 <!ENTITY newMessage.label "Yeni posta">
 <!ENTITY newMessage.accesskey "i">
 <!ENTITY newFolderCmd.label "Dizin…">
@@ -47,7 +49,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "i">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Bütün hesaplar…">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "B">
-<!ENTITY getAllNewMsgCmd.label "Tüm yeni postaları indir">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Bir sonraki 500 haber iletisini indir">
 <!ENTITY getNextNMsgCmd.accesskey "5">
@@ -232,6 +233,7 @@
 <!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "Find in This Message…">
+
 <!-- Go Menu -->
 
 
@@ -279,10 +281,10 @@
 <!ENTITY replyMsgCmd.label "Yanıtla">
 <!ENTITY replyMsgCmd.accesskey "Y">
 <!ENTITY replyMsgCmd.key "r">
-<!ENTITY replySenderCmd.label "Sadece göndereni yanıtla">
-<!ENTITY replySenderCmd.accesskey "r">
 <!ENTITY replyNewsgroupCmd.label "Haber grubunu yanıtla">
 <!ENTITY replyNewsgroupCmd.accesskey "a">
+<!ENTITY replySenderCmd.label "Sadece göndereni yanıtla">
+<!ENTITY replySenderCmd.accesskey "r">
 <!ENTITY replyToAllMsgCmd.label "Hepsini yanıtla">
 <!ENTITY replyToAllMsgCmd.accesskey "p">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -332,21 +334,8 @@
 <!ENTITY tagMenu.accesskey "E">
 <!ENTITY tagCustomize.label "Özelleştir…">
 <!ENTITY tagCustomize.accesskey "z">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "3">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "İşaretle">
 <!ENTITY markMenu.accesskey "a">
-<!ENTITY markAsReadCmd.label "Okunmuş olarak">
-<!ENTITY markAsReadCmd.accesskey "n">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Okunmuş dizilimler olarak">
 <!ENTITY markThreadAsReadCmd.accesskey "k">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -356,9 +345,6 @@
 <!ENTITY markAllReadCmd.label "Hepsi okunmuş olarak">
 <!ENTITY markAllReadCmd.accesskey "H">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Bayrak">
-<!ENTITY markFlaggedCmd.accesskey "y">
-<!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Gereksiz ">
 <!ENTITY markAsJunkCmd.accesskey "G">
 <!ENTITY markAsJunkCmd.key "j">
@@ -373,9 +359,6 @@
 <!ENTITY markAsNotPhishCmd.label "Yemleme değil">
 <!ENTITY markAsNotPhishCmd.accesskey "Y">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "Postayı aç">
-<!ENTITY openMessageWindowCmd.accesskey "o">
-<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "Canlı yer imi iletisi açma şekli">
 <!ENTITY openFeedMessage.accesskey "a">
 <!ENTITY openFeedWebPageInWindow.label "Web sayfası olarak yeni pencerede">
@@ -413,6 +396,7 @@
 <!-- Toolbar items -->
 
 <!ENTITY getMsgButton.label "İletileri indir">
+<!ENTITY getAllNewMsgCmd.label "Tüm yeni postaları indir">
 <!ENTITY newMsgButton.label "Yeni ileti">
 <!ENTITY newHTMLMessageCmd.label "HTML olarak yaz">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
@@ -454,7 +438,6 @@
 <!ENTITY markButton.tooltip "Postaları işaretle">
 <!ENTITY printButton.tooltip "Postayı Yazdır">
 <!ENTITY stopButton.tooltip "Şu anki aktarımı durdur">
-<!ENTITY throbber.tooltip "&vendorShortName; anasayfasına git">
 <!ENTITY junkButton.tooltip "Seçili iletileri gereksiz olarak işaretle">
 <!ENTITY notJunkButton.tooltip 'Seçili iletiyi "Gereksiz değil" olarak işaretle'>
 <!-- Statusbar -->
@@ -542,19 +525,9 @@
 <!ENTITY all.accesskey "a">
 <!-- Junk Bar -->
 
-<!ENTITY junkBarMessage.label "&brandShortName; iletinin gereksiz olduğunu düşünüyor.">
-<!ENTITY junkBarButton.label "Gereksiz değil">
-<!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->
 
-<!ENTITY remoteContentMessage.label "Özel bilgilerinizi korumak için &brandShortName; iletideki uzak içeriği engellemiştir.">
-<!ENTITY loadRemoteContentButton.label "Harici içeriği göster">
 <!-- Phishing Bar -->
 
-<!ENTITY phishingBarMessage.label "&brandShortName; iletinin sahtekârlık girişimi olduğunu düşünüyor.">
-<!ENTITY removePhishingBarButton.label "Yemleme değil">
 <!-- MDN Bar -->
 
-<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
-<!ENTITY mdnBarIgnoreButton.label "İsteği görmezden gel">
-<!ENTITY mdnBarSendButton.label "Alındı onayı gönder">

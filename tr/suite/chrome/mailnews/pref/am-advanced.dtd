@@ -4,8 +4,6 @@
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Giden posta sunucusu (SMTP) ayarları">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Sadece bir tane giden posta sunucusu(SMTP) belirlemeniz yeterlidir. Giden posta sunucunuzun ismini giriniz.">
 
 <!ENTITY smtpListAdd.label "Ekle…">
 <!ENTITY smtpListAdd.accesskey "l">

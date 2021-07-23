@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from content/navigator.xul -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
@@ -20,8 +21,6 @@
 
 <!ENTITY navbarCmd.label "Gezinti araç çubuğu">
 <!ENTITY navbarCmd.accesskey "t">
-<!ENTITY personalbarCmd.label "Kişisel araç çubuğu">
-<!ENTITY personalbarCmd.accesskey "K">
 
 <!ENTITY closeWindow.label "Pencereyi kapat">
 <!ENTITY closeWindow.accesskey "c">
@@ -33,7 +32,6 @@
 <!ENTITY feedsMenu.accesskey "B">
 
 <!ENTITY menuBar.tooltip "Menü çubuğu">
-<!ENTITY personalToolbar.tooltip "Kişisel araç çubuğu">
 <!ENTITY navigationToolbar.tooltip "Gezinti araç çubuğu">
 <!-- Toolbar items --> 
 
@@ -52,8 +50,6 @@
 <!ENTITY printButton.label "Yazdır">
 <!ENTITY printButton.tooltip "Bu sayfayı yazdır">
 
-<!ENTITY throbber.tooltip "&vendorShortName; anasayfasına git">
-
 <!ENTITY locationBar.tooltip "Aranacak kelime, anahtar kelime veya web adresi girin">
 <!ENTITY locationBar.accesskey "d">
 <!ENTITY locationBar.title "Konum">
@@ -71,3 +67,4 @@
 <!ENTITY statusText.label "Tamamlandı">
 
 <!ENTITY popupIcon.tooltiptext "Bu sitenin açılır pencerelerine izin ver">
+

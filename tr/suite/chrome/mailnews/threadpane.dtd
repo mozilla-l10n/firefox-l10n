@@ -23,23 +23,3 @@
 <!ENTITY idColumn.label "Alındı sırası">
 <!--Tooltips-->
 
-<!ENTITY columnChooser.tooltip "Görüntülenecek sütunları tıklayın">
-<!ENTITY threadColumn.tooltip "Posta dizilimlerini görmek için tıklayın">
-<!ENTITY fromColumn.tooltip "Gönderene göre sıralamak için tıklayın">
-<!ENTITY recipientColumn.tooltip "Alıcıya göre sıralamak için tıklayın">
-<!ENTITY attachmentColumn.tooltip "Eklere göre sırala">
-<!ENTITY subjectColumn.tooltip "Konuya göre sıralamak için tıklayın">
-<!ENTITY dateColumn.tooltip "Tarihe göre sıralamak için tıklayın">
-<!ENTITY priorityColumn.tooltip "Önceliğe göre sıralamak için tıklayın">
-<!ENTITY tagsColumn.tooltip "Etikete göre sıralamak için tıklayın">
-<!ENTITY accountColumn.tooltip "Hesaba göre sırala">
-<!ENTITY statusColumn.tooltip "Duruma göre sıralamak için tıklayın">
-<!ENTITY sizeColumn.tooltip "Boyuta göre sırala">
-<!ENTITY junkStatusColumn.tooltip "Gereksiz durumuna göre sıralamak için tıklayın">
-<!ENTITY unreadColumn.tooltip "Okunmayan iletilerin sayısı">
-<!ENTITY totalColumn.tooltip "İletilerin toplam sayısı">
-<!ENTITY readColumn.tooltip "Okunanlara göre sıralamak için tıklayın">
-<!ENTITY receivedColumn.tooltip "Alış tarihine göre sıralamak için tıklayın">
-<!ENTITY flagColumn.tooltip "Yıldızlılığa göre sıralamak için tıklayın">
-<!ENTITY locationColumn.tooltip "Konuma göre sırala">
-<!ENTITY idColumn.tooltip "İstek alınmasına göre sıralamak için tıklayın">

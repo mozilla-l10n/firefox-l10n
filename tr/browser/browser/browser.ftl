@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Gizli Gezinti)
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } (Gizli Gezinti)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } — (Gizli Gezinti)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — (Gizli Gezinti)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -109,6 +111,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Daha az yazın, daha çok bulun: Adres çubuğunuzdan { $engineName } ile arama yapın.
 urlbar-search-tips-redirect-2 = { $engineName } ve gezinti geçmişinizden gelen önerileri görmek için adres çubuğunda arama yapmaya başlayın.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Aradığınızı daha hızlı bulmak için bu kısayolu seçin.
@@ -145,10 +148,12 @@ urlbar-midi-blocked =
     .tooltiptext = Bu sitenin MIDI erişimini engellediniz.
 urlbar-install-blocked =
     .tooltiptext = Bu sitenin eklenti yüklemesini engellediniz.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Bu yer imini düzenle ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -158,6 +163,7 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Adres çubuğuna ekle
+
 page-action-manage-extension =
     .label = Uzantıyı yönet…
 page-action-remove-from-urlbar =
@@ -179,12 +185,15 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Bir de bununla aramayı deneyin:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Arama ayarlarını değiştir
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Arama ayarlarını değiştir
+
 search-one-offs-context-open-new-tab =
     .label = Yeni sekmede ara
     .accesskey = s
@@ -194,12 +203,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Gizli pencerelerde varsayılan arama motoru olarak ayarla
     .accesskey = G
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -246,10 +257,13 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Kaydederken düzenleyiciyi göster
     .accesskey = K
+
 bookmark-panel-done-button =
     .label = Tamam
+
 bookmark-panel-save-button =
     .label = Kaydet
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -279,6 +293,7 @@ identity-weak-encryption = Bu sayfada zayıf şifreleme kullanılıyor.
 identity-insecure-login-forms = Bu sayfaya girilen hesap bilgileri ele geçirilebilir.
 identity-permissions =
     .value = İzinler
+
 identity-https-only-connection-upgraded = (HTTPS’e yükseltildi)
 identity-https-only-label = Yalnızca HTTPS modu
 identity-https-only-dropdown-on =
@@ -290,9 +305,11 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Mümkün olduğunda { -brand-short-name } tarayıcınızın güvenli bağlantıya geçmesini istiyorsanız bu site için Yalnızca HTTPS modunu açın.
 identity-https-only-info-turn-off2 = Sayfa düzgün çalışmazsa bu site için Yalnızca HTTPS modunu kapatarak siteyi güvensiz HTTP ile yüklemeyi deneyebilirsiniz.
 identity-https-only-info-no-upgrade = HTTP bağlantısı yükseltilemedi.
+
 identity-permissions-storage-access-header = Siteler arası çerezler
 identity-permissions-storage-access-hint = Bu siteler, siz bu sitedeyken siteler diğer sitelerdeki çerezleri ve site verilerini kullanabilir.
 identity-permissions-storage-access-learn-more = Daha fazla bilgi al
+
 identity-permissions-reload-hint = Değişikliklerin uygulanması için bu sayfayı tazelemeniz gerekebilir.
 identity-permissions-empty = Bu siteye özel bir izin vermediniz.
 identity-clear-site-data =
@@ -356,12 +373,14 @@ browser-tab-mute =
         [1] SEKMENİN SESİNİ KAPAT
        *[other] { $count } SEKMENİN SESİNİ KAPAT
     }
+
 browser-tab-unmute =
     { $count ->
         [1] SEKMENİN SESİNİ AÇ
         [one] SEKMENİN SESİNİ AÇ
        *[other] { $count } SEKMENİN SESİNİ AÇ
     }
+
 browser-tab-unblock =
     { $count ->
         [1] SEKMEYİ OYNAT
@@ -374,6 +393,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Yer imlerini içe aktar…
     .tooltiptext = Başka bir tarayıcıdaki yer imlerini { -brand-short-name } tarayıcısına aktar.
+
 bookmarks-toolbar-empty-message = Hızlıca erişmek istediğiniz yer imlerinizi yer imleri araç çubuğuna yerleştirebilirsiniz. <a data-l10n-name="manage-bookmarks">Yer imlerini yönet…</a>
 
 ## WebRTC Pop-up notifications
@@ -384,6 +404,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Paylaşılacak mikrofon:
     .accesskey = m
+
 popup-select-camera-device =
     .value = Kamera:
     .accesskey = K
@@ -397,20 +418,26 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Hoparlör
 popup-all-windows-shared = Ekranınızdaki tüm görünür pencereler paylaşılacaktır.
+
 popup-screen-sharing-not-now =
     .label = Daha sonra
     .accesskey = D
+
 popup-screen-sharing-never =
     .label = Asla izin verme
     .accesskey = A
+
 popup-silence-notifications-checkbox = Paylaşırken { -brand-short-name } bildirimlerini devre dışı bırak
 popup-silence-notifications-checkbox-warning = { -brand-short-name }, paylaşım sırasında bildirimleri göstermeyecek.
+
 popup-screen-sharing-block =
     .label = Engelle
     .accesskey = E
+
 popup-screen-sharing-always-block =
     .label = Her zaman engelle
     .accesskey = H
+
 popup-mute-notifications-checkbox = Paylaşırken web sitesi bildirimlerini sessize al
 
 ## WebRTC window or screen share tab switch warning
@@ -426,16 +453,19 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = F12 kısayolunu kullanmak için önce Web geliştirici menüsünden geliştirici araçlarını açın.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Arama yapın veya adres yazın
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Arama yapın veya adres yazın
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Tarayıcı uzaktan kontrol ediliyor
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -444,6 +474,7 @@ urlbar-remote-control-notification-anchor =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Web’de ara
     .aria-label = { $name } ile ara
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -452,22 +483,27 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Aranacak terimleri yazın
     .aria-label = { $name } ile ara
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Aranacak terimleri yazın
     .aria-label = Yer imlerinde ara
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Aranacak terimleri yazın
     .aria-label = Geçmişte ara
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Aranacak terimleri yazın
     .aria-label = Sekmelerde ara
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } ile arama yapın veya adres yazın
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -477,9 +513,11 @@ urlbar-permissions-granted =
     .tooltiptext = Bu siteye ek izinler verdiniz.
 urlbar-switch-to-tab =
     .value = Sekmeye geç:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uzantı:
+
 urlbar-go-button =
     .tooltiptext = Konum çubuğundaki adrese git
 urlbar-page-action-button =
@@ -549,9 +587,12 @@ urlbar-result-action-search-tabs = Sekmelerde ara
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> artık tam ekran
 fullscreen-warning-no-domain = Bu belge artık tam ekran
+
+
 fullscreen-exit-button = Tam ekrandan çık (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tam ekrandan çık (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -561,6 +602,7 @@ pointerlock-warning-no-domain = Bu belge işaretçinizi kontrol ediyor. Kontrol�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Bu sayfanın bir kısmı çöktü.</strong> Bize rapor göndererek sorunu bildirirseniz { -brand-product-name } tarayıcınızı daha hızlı düzeltebiliriz.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -616,6 +658,7 @@ bookmarks-tools =
     .label = Yer imi araçları
 bookmarks-bookmark-edit-panel =
     .label = Bu yer imini düzenle
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -629,6 +672,7 @@ bookmarks-toolbar-placeholder =
     .title = Yer imleri araç çubuğu öğeleri
 bookmarks-toolbar-placeholder-button =
     .label = Yer imleri araç çubuğu öğeleri
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Bu sekmeyi yer imlerine ekle
@@ -659,6 +703,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Eklentiler ve temalar
     .tooltiptext = Eklentilerinizi ve temalarınızı yönetin ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =

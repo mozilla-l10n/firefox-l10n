@@ -11,6 +11,7 @@
 <!ENTITY subject.accesskey "K">
 <!ENTITY attachments.label "Ekler:">
 <!ENTITY attachments.accesskey "E">
+
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 <!-- File menu items -->
 
@@ -45,7 +46,7 @@
 <!ENTITY editRewrapCmd.label "Yeniden kaydır">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "e">
-<!ENTITY findCmd.label "Find and Replace…">
+
 <!ENTITY accountManagerCmd.label "Posta ve haber grupları ayarları…">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!-- View menu items -->
@@ -69,11 +70,6 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "A">
 
-<!ENTITY checkSpellingCmd2.label "İmla Denetimi…">
-<!ENTITY checkSpellingCmd2.accesskey "İ">
-<!ENTITY enableInlineSpellChecker.label "Yazarken yazım denetimini gerçekleştir">
-<!ENTITY enableInlineSpellChecker.accesskey "Y">
-
 <!ENTITY priorityMenu.label "Önemlilik">
 <!ENTITY priorityMenu.accesskey "Ö">
 <!ENTITY lowestPriorityCmd.label "En düşük">
@@ -89,6 +85,7 @@
 
 <!ENTITY returnReceiptMenu.label "Alındı onayı">
 <!ENTITY returnReceiptMenu.accesskey "A">
+
 <!ENTITY outputFormatMenu.label "Biçim">
 <!ENTITY outputFormatMenu.accesskey "B">
 <!ENTITY autoFormatCmd.label "Otomatik tanıma">
@@ -103,6 +100,7 @@
 <!ENTITY fileCarbonCopyCmd.label "Bir kopyasını gönder">
 <!ENTITY fileCarbonCopyCmd.accesskey "o">
 <!ENTITY fileHereMenu.label "Burada dosyala">
+
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
 
@@ -112,6 +110,7 @@
 <!ENTITY spellingButton.label "İmla denetimi">
 <!ENTITY saveButton.label "Kaydet">
 <!ENTITY stopButton.label "Dur">
+
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 
@@ -124,12 +123,6 @@
 <!ENTITY saveButton.tooltip "Bu iletiyi kaydet">
 <!ENTITY stopButton.tooltip "Şu anki aktarımı durdur">
 <!-- context menu items -->
-
-<!ENTITY spellCheckNoSuggestions.label "(Öneri bulunamadı)">
-<!ENTITY spellCheckIgnoreWord.label "Sözcüğü görmezden gel">
-<!ENTITY spellCheckIgnoreWord.accesskey "g">
-<!ENTITY spellCheckAddToDictionary.label "Sözlüğe ekle">
-<!ENTITY spellCheckAddToDictionary.accesskey "k">
 
 <!ENTITY openAttachment.label "Aç">
 <!ENTITY openAttachment.accesskey "A">

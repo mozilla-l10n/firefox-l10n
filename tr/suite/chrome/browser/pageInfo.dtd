@@ -25,7 +25,6 @@
 <!ENTITY generalReferrer "Yönlendiren URL:">
 <!ENTITY generalSource "Kaynak: ">
 <!ENTITY generalModified "Değişme tarihi:">
-<!ENTITY generalEncoding "Kodlama:">
 <!ENTITY generalMetaName "Adı:">
 <!ENTITY generalMetaContent "İçerik:">
 <!ENTITY generalSecurityDetails "Ayrıntılar">
@@ -46,7 +45,6 @@
 
 <!ENTITY linksTab "Bağlantılar">
 <!ENTITY linksTab.accesskey "l">
-<!ENTITY linkNo "No.">
 <!ENTITY linkName "Adı:">
 <!ENTITY linkAddress "Adres">
 <!ENTITY linkType "Türü">
@@ -55,16 +53,11 @@
 
 <!ENTITY mediaTab "Ortam">
 <!ENTITY mediaTab.accesskey "O">
-<!ENTITY mediaURL "Adres:">
-<!ENTITY mediaAlt "Alternatif metin:">
 <!ENTITY mediaAltHeader "Alternatif metin">
 <!ENTITY mediaAddress "Adres">
 <!ENTITY mediaType "Türü">
 <!ENTITY mediaSize "Boyut">
 <!ENTITY mediaCount "Sayaç">
-<!ENTITY mediaDimensions "Atanan boyutlar:">
-<!ENTITY mediaPhysDimensions "Gerçek boyutlar:">
-<!ENTITY mediaTitle "Başlık:">
 <!ENTITY mediaLongdesc "Ayrıntılı açıklama:">
 <!ENTITY mediaBlockImage.accesskey "O">
 <!ENTITY mediaSaveAs "Farklı kaydet…">
@@ -79,17 +72,7 @@
 
 <!ENTITY permTab "İzinler">
 <!ENTITY permTab.accesskey "z">
-<!ENTITY permUseDefault "Öntanımlıyı kullan">
-<!ENTITY permAskAlways "Her zaman sor">
-<!ENTITY permAllow "İzin ver">
-<!ENTITY permAllowSession "Oturum boyunca izin ver">
-<!ENTITY permBlock "Engelle">
 <!ENTITY permissionsFor "İzinler:">
-<!ENTITY permImage "Resimleri yükle">
-<!ENTITY permPopup "İstenmeyen pencereleri aç">
-<!ENTITY permCookie "Çerez bırak">
-<!ENTITY permInstall "Eklenti veya tema kur">
-<!ENTITY permGeo "Konumu paylaş">
 
 <!ENTITY securityTab "Güvenlik">
 <!ENTITY securityTab.accesskey "G">

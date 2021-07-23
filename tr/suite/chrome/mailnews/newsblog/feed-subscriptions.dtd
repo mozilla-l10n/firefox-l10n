@@ -4,14 +4,11 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Canlı yer imi abonelikleri">
-<!ENTITY subscriptionDesc.label "Not: Canlı yer imi dizinlerinin silinmesi önceden indirilmiş makaleleri etkilemez. ">
+
 <!ENTITY feedTitle.label "Başlık: ">
-<!ENTITY location.label "Konum: ">
 
 <!ENTITY button.addFeed.label "Ekle">
 <!ENTITY button.addFeed.accesskey "l">
-<!ENTITY button.editFeed.label "Düzenle">
-<!ENTITY button.editFeed.accesskey "e">
 <!ENTITY button.removeFeed.label "Kaldır">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label "İçe aktar">
