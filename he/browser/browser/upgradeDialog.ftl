@@ -16,11 +16,7 @@ upgrade-dialog-new-item-menu-description = תעדפו את הדברים החשו
 upgrade-dialog-new-item-tabs-title = לשוניות מודרניות
 upgrade-dialog-new-item-tabs-description = מכילות מידע בצורה נקייה, כדי לעזור להתרכז ולזוז בגמישות.
 upgrade-dialog-new-item-icons-title = סמלים חדשים והודעות ברורות יותר
-upgrade-dialog-new-primary-primary-button = הגדרת { -brand-short-name } כדפדפן הראשי שלי
-    .title = מגדיר את { -brand-short-name } כדפדפן ברירת המחדל ומצמיד אותו לשורת המשימות
 upgrade-dialog-new-primary-default-button = הגדרת { -brand-short-name } כדפדפן ברירת המחדל שלי
-upgrade-dialog-new-primary-pin-button = הצמדת { -brand-short-name } לשורת המשימות שלי
-upgrade-dialog-new-primary-pin-alt-button = הצמדה לשורת המשימות
 upgrade-dialog-new-primary-theme-button = בחירת ערכת נושא
 upgrade-dialog-new-secondary-button = לא כעת
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -37,10 +33,6 @@ upgrade-dialog-pin-secondary-button = לא כעת
 
 ## Default browser screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = להפוך את { -brand-short-name } לדפדפן ברירת המחדל שלך?
-upgrade-dialog-default-subtitle = קבלת מהירות, בטיחות ופרטיות בכל פעם שגולשים ברשת.
-upgrade-dialog-default-primary-button = הגדרה כדפדפן ברירת המחדל
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = הגדרת { -brand-short-name } כדפדפן ברירת המחדל שלך
 upgrade-dialog-default-primary-button-2 = הגדרה כדפדפן ברירת המחדל

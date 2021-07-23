@@ -240,6 +240,7 @@
 <!ENTITY printButton.tooltip "הדפסת הודעה זו">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY subject.accesskey "נ">
 <!ENTITY attachmentBucketCloseButton.tooltip "הסתרת לוח קבצים מצורפים">

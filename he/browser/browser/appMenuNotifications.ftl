@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = לא כעת
     .secondarybuttonaccesskey = ל
 appmenu-update-restart-message = לאחר הפעלה מחדש, { -brand-shorter-name } ישחזר את כל הלשוניות והחלונות הפתוחים שאינם במצב גלישה פרטית.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = בסדר, הבנתי
+    .buttonaccesskey = ב
+appmenu-addon-post-install-message = ניתן לנהל את התוספות שלך על־ידי לחיצה על <image data-l10n-name='addon-install-icon'></image> שבתפריט <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = עדכון זמין
     .buttonlabel = הורדה
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = לא כעת
     .secondarybuttonaccesskey = ל
 appmenu-update-other-instance-message = זמין עדכון חדש ל־{ -brand-shorter-name }, אבל לא ניתן היה להתקין אותו מכיוון שפועל עותק אחר של { -brand-shorter-name }. יש לסגור אותו כדי להמשיך בעדכון, או לבחור לעדכן אותו בכל מקרה (ייתכן שהעותק האחר לא יפעל כראוי עד שיופעל מחדש).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = בסדר, הבנתי
-    .buttonaccesskey = ב
-appmenu-addon-post-install-message = ניתן לנהל את התוספות שלך על־ידי לחיצה על <image data-l10n-name='addon-install-icon'></image> שבתפריט <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = בסדר
     .buttonaccesskey = ב
-appmenu-addon-post-install-message2 = ניתן לנהל את ההרחבות וערכות הנושא שלך דרך תפריט היישום.
 appmenu-addon-post-install-message3 = ניתן לנהל את התוספות וערכות הנושא שלך דרך תפריט היישום.
 appmenu-addon-post-install-incognito-checkbox =
     .label = לאפשר להרחבה זו לפעול בחלונות פרטיים
     .accesskey = ל
+    
 appmenu-new-tab-controlled =
     .label = הלשונית החדשה שלך השתנתה.
     .buttonlabel = להשאיר שינויים
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = ש
     .secondarybuttonlabel = השבתת הרחבה
     .secondarybuttonaccesskey = ר
+
 appmenu-new-tab-controlled-changes =
     .label = הלשונית החדשה שלך השתנתה.
     .buttonlabel = שמירת השינויים

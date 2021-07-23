@@ -7,6 +7,7 @@
 
 openpgp-keygen-years-label =
     .label = שנים
+
 openpgp-keygen-long-expiry = לא ניתן ליצור מפתח שתוקפו יפוג בעוד יותר ממאה שנה.
 
 ## Import Key section

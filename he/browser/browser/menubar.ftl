@@ -38,16 +38,20 @@ menu-quit =
             [windows] צ
            *[other] צ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = יציאה מ־{ -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = יציאה מ־{ -brand-shorter-name }
+
 menu-about =
     .label = על אודות { -brand-shorter-name }
     .accesskey = א
@@ -173,6 +177,7 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = קידוד טקסט
     .accesskey = ק
+
 menu-view-repair-text-encoding =
     .label = תיקון קידוד טקסט
     .accesskey = ק
@@ -218,6 +223,7 @@ menu-history-undo-menu =
     .label = לשוניות שנסגרו לאחרונה
 menu-history-undo-window-menu =
     .label = חלונות שנסגרו לאחרונה
+
 menu-history-reopen-all-tabs = פתיחת כל הלשוניות מחדש
 menu-history-reopen-all-windows = פתיחת כל החלונות מחדש
 

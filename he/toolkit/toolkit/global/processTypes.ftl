@@ -8,10 +8,14 @@
 ##
 
 process-type-web = תוכן אינטרנט
+
 process-type-browser = ראשי
+
 process-type-extension = הרחבה
+
 # process used to open file:// URLs
 process-type-file = קובץ מקומי
+
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = הקצאה גדולה
@@ -22,11 +26,14 @@ process-type-weblargeallocation = הקצאה גדולה
 
 process-type-default = ראשי
 process-type-tab = לשונית
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = מעבד גרפי
+
 # process used to perform network operations
 process-type-socket = Socket
+
 # process used to decode media
 process-type-rdd = RDD
 

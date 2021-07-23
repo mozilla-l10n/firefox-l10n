@@ -14,11 +14,15 @@ about-config-intro-warning-button = קבלת הסיכון והמשך
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = שינוי העדפות אלו עשוי להשפיע על הביצועים או אבטחה של { -brand-short-name }.
+
 about-config-page-title = העדפות מתקדמות
+
 about-config-search-input1 =
     .placeholder = חיפוש שם העדפה
 about-config-show-all = הצגת הכל
+
 about-config-show-only-modified = הצגת העדפות ששונו בלבד
+
 about-config-pref-add-button =
     .title = הוספה
 about-config-pref-toggle-button =

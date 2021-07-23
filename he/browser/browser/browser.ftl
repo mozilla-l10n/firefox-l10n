@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (גלישה פרטית)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (גלישה פרטית)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (גלישה פרטית)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (גלישה פרטית)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -109,6 +111,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = מהיום מקלידים פחות ומוצאים יותר: אפשר לחפש עם { $engineName } ישירות משורת הכתובת שלך.
 urlbar-search-tips-redirect-2 = ניתן להתחיל לחפש בשורת הכתובת כדי לצפות בהצעות מ־{ $engineName } ובהיסטוריית הגלישה שלך.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = ניתן לבחור בקיצור הדרך הזה כדי למצוא את מה שמחפשים מהר יותר.
@@ -145,10 +148,12 @@ urlbar-midi-blocked =
     .tooltiptext = חסמת גישת MIDI עבור אתר זה.
 urlbar-install-blocked =
     .tooltiptext = חסמת התקנת תוספות עבור אתר זה.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = עריכת סימנייה זו ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -158,6 +163,7 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = הוספה לשורת הכתובת
+
 page-action-manage-extension =
     .label = ניהול הרחבה…
 page-action-remove-from-urlbar =
@@ -179,12 +185,15 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = הפעם, לחפש באמצעות:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = שינוי הגדרות החיפוש
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = שינוי הגדרות החיפוש
+
 search-one-offs-context-open-new-tab =
     .label = חיפוש בלשונית חדשה
     .accesskey = ל
@@ -194,12 +203,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = הגדרה כמנוע חיפוש ברירת המחדל עבור חלונות פרטיים
     .accesskey = ג
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -246,10 +257,13 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = הצגת העורך בזמן שמירה
     .accesskey = ה
+
 bookmark-panel-done-button =
     .label = סיום
+
 bookmark-panel-save-button =
     .label = שמירה
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -279,6 +293,7 @@ identity-weak-encryption = דף זה משתמש בהצפנה חלשה.
 identity-insecure-login-forms = פרטי ההתחברות המוזנים בעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.
 identity-permissions =
     .value = הרשאות
+
 identity-https-only-connection-upgraded = (שודרג ל־HTTPS)
 identity-https-only-label = מצב HTTPS בלבד
 identity-https-only-dropdown-on =
@@ -290,8 +305,10 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = יש להפעיל את מצב HTTPS בלבד אם ברצונך ש־{ -brand-short-name } ישדרג את החיבור כשהדבר אפשרי.
 identity-https-only-info-turn-off2 = אם נראה שהדף שבור, באפשרותך לכבות את מצב ה־HTTPS בלבד עבור אתר זה כדי לטעון מחדש באמצעות HTTP לא מאובטח.
 identity-https-only-info-no-upgrade = לא ניתן לשדרג את החיבור מ־HTTP.
+
 identity-permissions-storage-access-header = עוגיות חוצות אתרים
 identity-permissions-storage-access-learn-more = מידע נוסף
+
 identity-permissions-reload-hint = יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.
 identity-permissions-empty = לא סופקו לאתר זה הרשאות מיוחדות.
 identity-clear-site-data =
@@ -355,11 +372,13 @@ browser-tab-mute =
         [1] השתקת לשונית
        *[other] השתקת { $count } לשוניות
     }
+
 browser-tab-unmute =
     { $count ->
         [1] ביטול השתקת לשונית
        *[other] ביטול השתקת { $count } לשוניות
     }
+
 browser-tab-unblock =
     { $count ->
         [1] ניגון לשונית
@@ -371,6 +390,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = ייבוא סימניות…
     .tooltiptext = ייבוא סימניות מדפדפן אחר אל תוך { -brand-short-name }.
+
 bookmarks-toolbar-empty-message = לקבלת גישה מהירה, ניתן למקם את הסימניות שלך כאן בסרגל הכלים של הסימניות. <a data-l10n-name="manage-bookmarks">ניהול סימניות…</a>
 
 ## WebRTC Pop-up notifications
@@ -381,6 +401,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = מיקרופון לשיתוף:
     .accesskey = מ
+
 popup-select-camera-device =
     .value = מצלמה:
     .accesskey = מ
@@ -394,20 +415,26 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = רמקולים
 popup-all-windows-shared = ישותפו כל החלונות הגלויים על המסך.
+
 popup-screen-sharing-not-now =
     .label = לא כעת
     .accesskey = ל
+
 popup-screen-sharing-never =
     .label = לעולם לא לאפשר
     .accesskey = ע
+
 popup-silence-notifications-checkbox = השבתת התרעות מ־{ -brand-short-name } בזמן שיתוף
 popup-silence-notifications-checkbox-warning = ‏{ -brand-short-name } לא יציג התרעות בזמן השיתוף.
+
 popup-screen-sharing-block =
     .label = לחסום
     .accesskey = ח
+
 popup-screen-sharing-always-block =
     .label = תמיד לחסום
     .accesskey = ת
+
 popup-mute-notifications-checkbox = השתקת התרעות מאתרים בזמן שיתוף.
 
 ## WebRTC window or screen share tab switch warning
@@ -426,12 +453,14 @@ sharing-warning-disable-for-session =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = חיפוש או הקלדת כתובת
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = חיפוש או הקלדת כתובת
 urlbar-remote-control-notification-anchor =
     .tooltiptext = הדפדפן נשלט מרחוק
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -440,6 +469,7 @@ urlbar-remote-control-notification-anchor =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = חיפוש ברשת
     .aria-label = חיפוש באמצעות { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -448,22 +478,27 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = נא להקליד מונח לחיפוש
     .aria-label = חיפוש ב־{ $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = נא להקליד מונח לחיפוש
     .aria-label = חיפוש בסימניות
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = נא להקליד מונח לחיפוש
     .aria-label = חיפוש בהיסטוריה
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = נא להקליד מונח לחיפוש
     .aria-label = חיפוש בלשוניות
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = ‏ניתן לחפש עם { $name } או להקליד כתובת
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -473,9 +508,11 @@ urlbar-permissions-granted =
     .tooltiptext = הענקת לאתר זה הרשאות נוספות.
 urlbar-switch-to-tab =
     .value = מעבר ללשונית:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = הרחבה:
+
 urlbar-go-button =
     .tooltiptext = מעבר לכתובת שבסרגל המיקום
 urlbar-page-action-button =
@@ -545,9 +582,12 @@ urlbar-result-action-search-tabs = חיפוש לשוניות
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> כעת במסך מלא
 fullscreen-warning-no-domain = מסמך זה כעת במסך מלא
+
+
 fullscreen-exit-button = יציאה ממסך מלא (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = יציאה ממסך מלא (Esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -557,6 +597,7 @@ pointerlock-warning-no-domain = למסמך זה יש שליטה על הסמן ש
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>חלק מדף זה קרס.</strong> כדי ליידע את { -brand-product-name } על בעיה זו ולתקן אותה מהר יותר, נא לשלוח דיווח.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -612,6 +653,7 @@ bookmarks-tools =
     .label = כלי סימניות
 bookmarks-bookmark-edit-panel =
     .label = עריכת סימנייה זו
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -625,6 +667,7 @@ bookmarks-toolbar-placeholder =
     .title = פריטי סרגל כלים סימניות
 bookmarks-toolbar-placeholder-button =
     .label = פריטי סרגל כלים סימניות
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = יצירת סימנייה ללשונית הנוכחית
@@ -655,6 +698,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = תוספות וערכות נושא
     .tooltiptext = ניהול התוספות וערכות הנושא שלך ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =

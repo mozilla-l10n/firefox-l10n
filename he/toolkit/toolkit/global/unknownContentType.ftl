@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = פתיחה באמצעות { -brand-short-name }
     .accesskey = פ
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
