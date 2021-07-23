@@ -36,8 +36,10 @@ move-to-new-window =
     .label = புதிய சாளரத்திற்கு நகற்று
     .accesskey = W
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = கீற்றை மூடு
     .accesskey = C
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

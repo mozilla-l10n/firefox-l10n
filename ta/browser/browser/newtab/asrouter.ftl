@@ -121,3 +121,7 @@ cfr-whatsnew-panel-header = புதியவை என்ன
 
 ## What's new: Cookies message
 
+## Fission Experiment Message
+
+## Full Video Support CFR message
+

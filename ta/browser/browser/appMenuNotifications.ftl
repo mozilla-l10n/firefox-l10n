@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = சரி, கிடைத்துவிட்டது!
     .buttonaccesskey = o
 appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></image> மெனுவில் <image data-l10n-name='addon-install-icon'></image> என்பதைச் சொடுக்குவதின் மூலம் உங்கள் மேற்சேர்க்கைகளை நிர்வகியுங்கள்.
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = இந்த நீட்டிப்பை கமுக்க சாளரத்தில் இயக்க அனுமதிக்கவும்
     .accesskey = A
@@ -52,6 +53,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = துணைநிரலை முடக்கவும்
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = உங்கள் மறைக்கப்பட்ட கீற்றுகளை அணுகவும்
     .buttonlabel = கீற்றுகளை மறைத்து வைக்கவும்

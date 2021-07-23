@@ -26,6 +26,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = இப்போது ஒத்திசை
+
 appmenuitem-save-page =
     .label = இவ்வாறு சேமி…
 
