@@ -5,10 +5,10 @@
 places-open =
     .label = Odpri
     .accesskey = O
-places-open-in-tab =
+places-open-tab =
     .label = Odpri v novem zavihku
     .accesskey = z
-places-open-tab =
+places-open-in-tab =
     .label = Odpri v novem zavihku
     .accesskey = z
 places-open-all-bookmarks =
@@ -20,15 +20,10 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Odpri v novem oknu
     .accesskey = k
-places-open-in-window =
-    .label = Odpri v novem oknu
-    .accesskey = o
 places-open-private-window =
     .label = Odpri v novem zasebnem oknu
     .accesskey = s
-places-open-in-private-window =
-    .label = Odpri v novem zasebnem oknu
-    .accesskey = s
+
 places-new-bookmark =
     .label = Nov zaznamek …
     .accesskey = z
@@ -41,6 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = Nova ločilna črta
     .accesskey = l
+
+places-open-in-window =
+    .label = Odpri v novem oknu
+    .accesskey = o
+places-open-in-private-window =
+    .label = Odpri v novem zasebnem oknu
+    .accesskey = s
+
 places-add-bookmark =
     .label = Dodaj zaznamek …
     .accesskey = D
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = Dodaj ločilno črto
     .accesskey = č
+
 places-view =
     .label = Pogled
     .accesskey = g
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Po datumu in strani
     .accesskey = t
+
 places-history-search =
     .placeholder = Zgodovina iskanja
 places-bookmarks-search =
     .placeholder = Iskanje po zaznamkih
+
 places-delete-domain-data =
     .label = Pozabi na to stran
     .accesskey = P
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = Lastnosti
     .accesskey = L
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Uredi zaznamek …
@@ -103,15 +110,18 @@ places-remove-folder =
            *[other] Odstrani mape
         }
     .accesskey = s
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Upravljani zaznamki
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Podmapa
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Drugi zaznamki
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -123,6 +133,7 @@ places-remove-bookmark =
            *[other] Odstrani zaznamke
         }
     .accesskey = O
+
 places-manage-bookmarks =
     .label = Upravljanje zaznamkov
     .accesskey = U

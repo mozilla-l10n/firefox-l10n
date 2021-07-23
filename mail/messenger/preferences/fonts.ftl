@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Privzeta ({ $name })
 fonts-label-default-unnamed =
     .label = Privzeta
+
 fonts-encoding-dialog-title =
     .title = Pisave in kodiranja
+
 fonts-language-legend =
     .value = Pisave za:
     .accesskey = P
+
 fonts-proportional-label =
     .value = Večširinska pisava:
     .accesskey = S
@@ -85,38 +89,49 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans Serif
+
 font-size-label =
     .value = Velikost:
     .accesskey = V
+
 font-size-proportional-label =
     .value = Velikost:
     .accesskey = e
+
 font-size-monospace-label =
     .value = Velikost:
     .accesskey = e
+
 font-serif-label =
     .value = Serif:
     .accesskey = r
+
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = a
+
 font-monospace-label =
     .value = Enoširinska pisava:
     .accesskey = v
+
 font-min-size-label =
     .value = Najmanjša velikost pisav:
     .accesskey = N
+
 min-size-none =
     .label = Brez
 
 ## Fonts in message
 
 font-control-legend = Nadzor pisav
+
 use-document-fonts-checkbox =
     .label = Dovoli, da sporočila uporabljajo druge pisave
     .accesskey = D
+
 use-fixed-width-plain-checkbox =
     .label = Za sporočila v golem besedilu uporabi enoširinsko pisavo
     .accesskey = Z
@@ -124,13 +139,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Kodiranje besedila
+
 text-encoding-description = Nastavi privzeto kodiranje besedila za pošiljanje in prejemanje pošte
+
 font-outgoing-email-label =
     .value = Odhodna pošta:
     .accesskey = O
+
 font-incoming-email-label =
     .value = Dohodna pošta:
     .accesskey = h
+
 default-font-reply-checkbox =
     .label = Po možnosti za odgovore uporabi privzeto kodiranje besedila
     .accesskey = m

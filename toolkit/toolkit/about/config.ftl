@@ -14,11 +14,15 @@ about-config-intro-warning-button = Sprejmi tveganje in nadaljuj
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Spreminjanje teh nastavitev lahko vpliva na delovanje ali varnost { -brand-short-name(sklon: "rodilnik") }.
+
 about-config-page-title = Napredne nastavitve
+
 about-config-search-input1 =
     .placeholder = Iskanje imena nastavitve
 about-config-show-all = Prikaži vse
+
 about-config-show-only-modified = Prikaži samo spremenjene nastavitve
+
 about-config-pref-add-button =
     .title = Dodaj
 about-config-pref-toggle-button =

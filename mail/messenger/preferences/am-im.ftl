@@ -4,5 +4,6 @@
 
 account-settingsTitle = Nastavitve overjanja
 account-channelTitle = Privzeti kanali
+
 account-settings-title = Nastavitve overjanja
 account-channel-title = Privzeti kanali

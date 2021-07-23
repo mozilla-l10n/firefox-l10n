@@ -12,4 +12,6 @@ view-fingerprint-button =
 otr-settings-title = Nastavitve OTR
 otr-verifyNudge =
     .label = Vedno me opomni, naj preverim nepreverjen stik
+
 otr-notYetAvailable = še ni na voljo
+
