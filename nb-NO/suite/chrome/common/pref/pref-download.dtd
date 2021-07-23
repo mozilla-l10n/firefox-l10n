@@ -22,18 +22,9 @@
 <!ENTITY alwaysAsk.label                "Spør meg alltid om hvor filer skal lagres">
 <!ENTITY alwaysAsk.accesskey            "S">
 
-<!ENTITY downloadHistory.label          "Nedlastingshistorikk">
-<!ENTITY removeEntries.label            "Fjern nedlastingsoppføringer">
-<!ENTITY removeEntries.accesskey        "F">
-<!ENTITY whenCompleted.label            "Når de er fullført">
-<!ENTITY whenQuittingApp.label          "Ved avslutning av &brandShortName;">
-<!ENTITY neverRemove.label              "Aldri">
-
 <!ENTITY finishedBehavior.label         "Når en nedlasting fullfører">
 <!ENTITY playSound.label                "Spill av en lyd">
 <!ENTITY playSound.accesskey            "S">
-<!ENTITY showAlert.label                "Vis et varsel">
-<!ENTITY showAlert.accesskey            "v">
 <!ENTITY browse.label                   "Bla gjennom …">
 <!ENTITY browse.accesskey               "B">
 <!ENTITY playButton.label               "Spill av">

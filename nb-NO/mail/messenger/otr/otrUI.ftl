@@ -57,6 +57,7 @@ state-private = Identiteten for { $name } er bekreftet. Den nåværende samtalen
 state-finished = { $name } har avsluttet den krypterte samtalen med deg; du bør gjøre det samme.
 
 state-not_private-label = Utrygg
+
 state-unverified-label = Ubekreftet
 state-private-label = Privat
 state-finished-label = Fullført

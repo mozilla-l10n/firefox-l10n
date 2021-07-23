@@ -19,5 +19,3 @@
 <!ENTITY openInTab.accesskey              "Å">
 <!ENTITY openContextSearchTab.label       "Åpne en fane istedenfor et vindu for kontekstmenysøk">
 <!ENTITY openContextSearchTab.accesskey   "t">
-<!ENTITY openSidebarSearchPanel.label     "Åpne søkefanen i sidestolpen når et søk gjøres">
-<!ENTITY openSidebarSearchPanel.accesskey "n">

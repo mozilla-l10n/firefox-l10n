@@ -9,12 +9,6 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.pagetitle  "Usikker tilkobling">
 <!ENTITY certerror.longpagetitle "Denne tilkoblingen er ikke sikret">
 
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara1 "Du har bedt &brandShortName; om å lage en sikret tilkobling til
-<b>#1</b>, men vi kan ikke bekrefte at tilkoblingen er sikker.">
-
 <!-- Localization note (certerror.introPara1a) - The text content of the span
 tag will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->

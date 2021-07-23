@@ -27,7 +27,5 @@
 <!ENTITY appWeekly.accesskey                  "k">
 <!ENTITY appModeAutomatic.label               "Automatisk last ned og installer oppdateringen">
 <!ENTITY appModeAutomatic.accesskey           "A">
-<!ENTITY appModeAutoAddonWarn.label           "Advar meg dersom dette vil slå av noen av utvidelsene mine">
-<!ENTITY appModeAutoAddonWarn.accesskey       "d">
 <!ENTITY updateHistoryButton.label            "Vis oppdateringshistorikk …">
 <!ENTITY updateHistoryButton.accesskey        "V">

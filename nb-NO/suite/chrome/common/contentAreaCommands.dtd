@@ -7,6 +7,7 @@
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Tillat sprettoppvinduer fra dette nettstedet">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
+
 <!ENTITY openLinkCmdInTab.label       "Åpne lenke i ny fane">
 <!ENTITY openLinkCmdInTab.accesskey   "p">
 <!ENTITY openLinkCmd.label            "Åpne lenke i nytt vindu">

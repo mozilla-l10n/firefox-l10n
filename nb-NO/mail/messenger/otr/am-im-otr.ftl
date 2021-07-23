@@ -17,12 +17,13 @@ otr-log =
     .label = Inkluder OTR-krypterte meldinger i samtalelogger
 otr-requireEncryption =
     .label = Krev ende-til-ende-kryptering for en-til-en-samtaler
-otr-require-encryption-info =
-    Når du krever ende-til-ende-kryptering, vil meldinger i en-til-en-samtaler
-    ikke bli sendt med mindre de kan krypteres. Mottatte ikke-krypterte meldinger
-    vises ikke som en del av den vanlige samtalen, og blir heller ikke logget.
 otr-verifyNudge =
     .label = Påminn meg alltid på å bekrefte en ubekreftet kontakt
 
 otr-notYetAvailable = ikke tilgjengelig enda
+
+otr-require-encryption-info =
+    Når du krever ende-til-ende-kryptering, vil meldinger i en-til-en-samtaler
+    ikke bli sendt med mindre de kan krypteres. Mottatte ikke-krypterte meldinger
+    vises ikke som en del av den vanlige samtalen, og blir heller ikke logget.
 

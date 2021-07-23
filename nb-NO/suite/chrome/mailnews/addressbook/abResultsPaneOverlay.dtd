@@ -30,8 +30,6 @@
 <!ENTITY HomePhone.accesskey                   "H">
 <!ENTITY WorkPhone.label                       "Arbeidstelefon">
 <!ENTITY WorkPhone.accesskey                   "t">
-<!ENTITY ScreenName.label                      "Skjermnavn">
-<!ENTITY ScreenName.accesskey                  "S">
 <!ENTITY ChatName.label                        "Nettpratnavn">
 <!ENTITY ChatName.accesskey                    "p">
 <!ENTITY sortAscending.label                   "Stigende">

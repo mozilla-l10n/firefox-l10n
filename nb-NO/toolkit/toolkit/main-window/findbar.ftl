@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Søker etter den neste forekomsten av teksten
 findbar-previous =
     .tooltiptext = Søker etter den forrige forekomsten av teksten
+
 findbar-find-button-close =
     .tooltiptext = Lukk søkelinje
+
 findbar-highlight-all2 =
     .label = Marker alle
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Marker alle forekomster av teksten
+
 findbar-case-sensitive =
     .label = Skill mellom store/små bokstaver
     .accesskey = k
     .tooltiptext = Skill mellom store/små bokstaver i søket
+
 findbar-match-diacritics =
     .label = Samsvar diakritiske tegn
     .accesskey = i
     .tooltiptext = Skille mellom aksentbokstaver og deres grunnleggende bokstaver (for eksempel når du søker etter «alle», vil ikke «allé» samsvares)
+
 findbar-entire-word =
     .label = Hele ord
     .accesskey = H

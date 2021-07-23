@@ -21,11 +21,6 @@ som støtter avansert søppelpostkontroll og andre nyttige funksjoner.">
 "Tett integrasjon med programpakken &brandShortName;">
 <!ENTITY dict.title "Ordbøker">
 <!ENTITY dict_intro.label "Ordbøker brukes for å stavekontrollere meldingene dine.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label
-'Mange tilleggsordbøker kan installeres fra 
-<a id="dictURL" href="">ordbok</a>-seksjonen på
-<a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
 <!ENTITY dict_info.label2
 'Mange flere språk kan installeres fra
 <a id="dictURL" href="">ordbøker</a>-delen på

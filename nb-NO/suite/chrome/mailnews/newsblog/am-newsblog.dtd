@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loginAtStartup.label "Se etter nye artikler ved oppstart">
-<!ENTITY loginAtStartup.accesskey "n">
 <!ENTITY biffAll.label "Slå på oppdateringer for alle RSS-kanaler">
 <!ENTITY biffAll.accesskey "e">
 

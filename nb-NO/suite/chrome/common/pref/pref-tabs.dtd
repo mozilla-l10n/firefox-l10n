@@ -14,12 +14,6 @@
 <!ENTITY relatedAfterCurrent.label "Åpne relaterte faner etter nåværende faner">
 <!ENTITY relatedAfterCurrent.accesskey "r">
 
-<!ENTITY loadGroup.label "Ved åpning av bokmerkegruppe">
-<!ENTITY loadGroupAppend.label "Legg til faner">
-<!ENTITY loadGroupAppend.accesskey "L">
-<!ENTITY loadGroupReplace.label "Erstatt eksisterende faner">
-<!ENTITY loadGroupReplace.accesskey "E">
-
 <!ENTITY openTabs.label "Åpne faner i stedet for vinduer for">
 
 <!ENTITY middleClick.label "Midt-trykk, Ctrl+trykk eller Ctrl+Enter på lenker i en nettside">

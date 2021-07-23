@@ -10,6 +10,7 @@ finger-intro = OTR-nøkkelfingeravtrykk fra tidligere ende-til-ende-krypterte sa
 
 finger-screenName =
     .label = Kontakt
+
 finger-verified =
     .label = Bekreftelsesstatus
 finger-fingerprint =

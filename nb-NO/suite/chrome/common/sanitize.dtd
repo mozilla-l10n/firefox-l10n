@@ -61,9 +61,9 @@
 <!ENTITY itemSessions.label               "Autentiserte økter">
 <!ENTITY itemSessions.accesskey           "A">
 
+<!ENTITY sanitizeButton.label            "Slett private data nå">
 <!ENTITY itemSessionsS.accesskey          "u">
 
-<!ENTITY sanitizeButton.label            "Slett private data nå">
 <!ENTITY itemSitePreferences.label        "Nettstedsinnstillinger">
 <!ENTITY itemSitePreferences.accesskey    "d">
 <!ENTITY itemSitePreferencesS.accesskey   "e">

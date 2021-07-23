@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Standard ({ $name })
 fonts-label-default-unnamed =
     .label = Standard
+
 fonts-encoding-dialog-title =
     .title = Skrifttyper og tegnkoding
+
 fonts-language-legend =
     .value = Skrifttyper for:
     .accesskey = t
+
 fonts-proportional-label =
     .value = Proporsjonal:
     .accesskey = P
@@ -85,38 +89,49 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Seriffskrift
+
 default-font-sans-serif =
     .label = Seriffløs skrift
+
 font-size-label =
     .value = Størrelse:
     .accesskey = r
+
 font-size-proportional-label =
     .value = Størrelse:
     .accesskey = e
+
 font-size-monospace-label =
     .value = Størrelse:
     .accesskey = e
+
 font-serif-label =
     .value = Seriffskrift:
     .accesskey = S
+
 font-sans-serif-label =
     .value = Seriffløs skrift:
     .accesskey = ø
+
 font-monospace-label =
     .value = Fast bredde:
     .accesskey = F
+
 font-min-size-label =
     .value = Minste skriftstørrelse:
     .accesskey = M
+
 min-size-none =
     .label = Ingen
 
 ## Fonts in message
 
 font-control-legend = Skrifttypekontroll
+
 use-document-fonts-checkbox =
     .label = La meldinger bruke andre skrifttyper
     .accesskey = L
+
 use-fixed-width-plain-checkbox =
     .label = Bruk skrifttype med fast tegnavstand for meldinger i ren tekst
     .accesskey = B
@@ -124,13 +139,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Tekstkoding
+
 text-encoding-description = Bruk standard tekstkoding for sending og mottak av e-post
+
 font-outgoing-email-label =
     .value = Utgående e-post:
     .accesskey = U
+
 font-incoming-email-label =
     .value = Innkommende e-post:
     .accesskey = I
+
 default-font-reply-checkbox =
     .label = Når mulig, bruk standard tekstkoding i svar
     .accesskey = N

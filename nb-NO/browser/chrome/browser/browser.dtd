@@ -52,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label;-innstillinger">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Koble til en annen enhet…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Logg inn på &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Slå på &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-tjenester">
@@ -140,6 +141,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "T">
 
 <!ENTITY historyMenu.label "Historikk">
+
 <!ENTITY historyUndoMenu.label "Nylig lukkede faner">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nylig lukkede vinduer">
@@ -151,9 +153,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historikksidestolpe">
 <!ENTITY appMenuHistory.hideSidebar.label "Gjem sidestolpen Historikk">
 <!ENTITY appMenuHistory.recentHistory.label "Nylig historikk">
+
 <!ENTITY appMenuHelp.label "Hjelp">
 
 <!ENTITY appMenuRemoteTabs.label "Synkroniserte faner">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ingen åpne faner">
