@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Importez votre identifiant depuis { $browser }</div>
     <div data-l10n-name="line2">pour { $host } et d’autres sites</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = En savoir plus
 

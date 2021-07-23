@@ -8,13 +8,17 @@ all-tabs-menu-undo-close-tabs =
             [one] Annuler la fermeture de l’onglet
            *[other] Annuler la fermeture des onglets
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Rechercher dans les onglets
+
 all-tabs-menu-new-user-context =
     .label = Nouvel onglet conteneur
+
 all-tabs-menu-hidden-tabs =
     .label = Onglets masqués
+
 all-tabs-menu-manage-user-context =
     .label = Gérer les conteneurs
     .accesskey = o

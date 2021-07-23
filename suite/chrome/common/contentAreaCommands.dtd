@@ -7,6 +7,7 @@
 <!ENTITY popupWindowRejectCmd.accesskey "e">
 <!ENTITY popupWindowAllowCmd.label      "Accepter les fenêtres popup provenant de ce site">
 <!ENTITY popupWindowAllowCmd.accesskey  "e">
+
 <!ENTITY openLinkCmdInTab.label       "Ouvrir le lien dans un nouvel onglet">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Ouvrir le lien dans une nouvelle fenêtre">

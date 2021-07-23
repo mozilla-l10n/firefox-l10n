@@ -14,12 +14,6 @@
 <!ENTITY relatedAfterCurrent.label "Ouvrir les onglets liés après l’onglet courant">
 <!ENTITY relatedAfterCurrent.accesskey "O">
 
-<!ENTITY loadGroup.label "À l’ouverture d’un marque-page de groupe d’onglets">
-<!ENTITY loadGroupAppend.label "Ajouter des onglets">
-<!ENTITY loadGroupAppend.accesskey "o">
-<!ENTITY loadGroupReplace.label "Remplacer les onglets déjà ouverts">
-<!ENTITY loadGroupReplace.accesskey "R">
-
 <!ENTITY openTabs.label "Ouvrir des onglets plutôt que des fenêtres pour">
 
 <!ENTITY middleClick.label "Clic du milieu, Ctrl+Clic ou Ctrl+Entrée sur les liens d’une page web">

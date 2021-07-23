@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Plus tard
     .secondarybuttonaccesskey = P
 appmenu-update-restart-message = Après un rapide redémarrage, { -brand-shorter-name } restaurera l’ensemble de vos onglets et fenêtres qui n’étaient pas en mode de navigation privée.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = J’ai compris
+    .buttonaccesskey = a
+appmenu-addon-post-install-message = Gérez vos modules en cliquant sur <image data-l10n-name='addon-install-icon'></image> dans le menu <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Mise à jour disponible
     .buttonlabel = Télécharger
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Plus tard
     .secondarybuttonaccesskey = P
 appmenu-update-other-instance-message = Une nouvelle mise à jour de { -brand-shorter-name } est disponible, mais elle ne peut pas être installée car une autre copie de { -brand-shorter-name } est en cours d’exécution. Fermez-la pour continuer la mise à jour ou choisissez de mettre à jour quand même (il se peut que l’autre copie ne fonctionne plus correctement tant que vous ne l’aurez pas relancée).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = J’ai compris
-    .buttonaccesskey = a
-appmenu-addon-post-install-message = Gérez vos modules en cliquant sur <image data-l10n-name='addon-install-icon'></image> dans le menu <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Gérez vos extensions et thèmes via le menu de l’application.
 appmenu-addon-post-install-message3 = Gérez vos modules complémentaires et thèmes via le menu de l’application.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Autoriser cette extension à s’exécuter dans une fenêtre de navigation privée
     .accesskey = A
+    
 appmenu-new-tab-controlled =
     .label = La page Nouvel onglet a été modifiée.
     .buttonlabel = Conserver les modifications
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = C
     .secondarybuttonlabel = Désactiver l’extension
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = La page de nouvel onglet a été modifiée.
     .buttonlabel = Conserver les modifications

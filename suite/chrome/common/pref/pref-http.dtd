@@ -15,11 +15,6 @@
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "H">
 <!ENTITY prefPara                            "Les connexions HTTP peuvent être ajustées en utilisant ces options pour améliorer la performance ou la compatibilité. Certains proxies, par exemple, nécessitent HTTP/1.0 (voir les notes de version pour les détails).">
 <!ENTITY prefUseragent.label                 "Chaîne d’agent utilisateur">
-<!ENTITY prefFirefoxCompat.label             "Mentionner la compatibilité avec Firefox">
-<!ENTITY prefFirefoxCompat.accesskey         "F">
-<!ENTITY prefLightningShow.label             "Annoncer l’installation de Lightning">
-<!ENTITY prefLightningShow.accesskey         "L">
-<!ENTITY prefCompatWarning                   "AVERTISSEMENT : désactiver ces paramètres peut empêcher certains services ou sites web de fonctionner correctement.">
 <!ENTITY prefFirefoxStrict.label             "S’identifier en tant que Firefox">
 <!ENTITY prefFirefoxStrict.accesskey         "i">
 <!ENTITY prefFirefoxNone.label               "S’identifier en tant que SeaMonkey">

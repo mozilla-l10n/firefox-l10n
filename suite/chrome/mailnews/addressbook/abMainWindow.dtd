@@ -98,8 +98,6 @@
 <!ENTITY newIM.tooltip                                  "Envoyer un message instantané ou lancer une discussion">
 <!ENTITY printButton.tooltip                            "Imprimer l’élément sélectionné">
 <!ENTITY deleteItemButton.tooltip                       "Supprimer l’élément sélectionné">
-<!ENTITY throbber.tooltip                               "Visiter le site web de &vendorShortName;">
-<!ENTITY throbber.tooltip2                              "Visiter le site web de &brandShortName;">
 <!ENTITY advancedButton.tooltip                         "Recherche avancée d’adresses">
 
 <!-- Dir Tree header -->

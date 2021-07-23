@@ -4,17 +4,21 @@
 
 fonts-window-close =
     .key = w
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Par défaut ({ $name })
 fonts-label-default-unnamed =
     .label = Par défaut
+
 fonts-encoding-dialog-title =
     .title = Polices et encodages
+
 fonts-language-legend =
     .value = Polices pour :
     .accesskey = o
+
 fonts-proportional-label =
     .value = Proportionnelle :
     .accesskey = P
@@ -85,38 +89,49 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
+
 default-font-sans-serif =
     .label = Sans serif
+
 font-size-label =
     .value = Taille :
     .accesskey = T
+
 font-size-proportional-label =
     .value = Taille :
     .accesskey = e
+
 font-size-monospace-label =
     .value = Taille :
     .accesskey = e
+
 font-serif-label =
     .value = Serif :
     .accesskey = S
+
 font-sans-serif-label =
     .value = Sans serif :
     .accesskey = n
+
 font-monospace-label =
     .value = Largeur fixe :
     .accesskey = L
+
 font-min-size-label =
     .value = Taille minimale de la police :
     .accesskey = m
+
 min-size-none =
     .label = Aucune
 
 ## Fonts in message
 
 font-control-legend = Contrôle des polices
+
 use-document-fonts-checkbox =
     .label = Autoriser les messages à utiliser d’autres polices
     .accesskey = A
+
 use-fixed-width-plain-checkbox =
     .label = Utiliser une police à largeur fixe pour les messages au format texte
     .accesskey = x
@@ -124,13 +139,17 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Encodage du texte
+
 text-encoding-description = Réglage de l’encodage de texte par défaut pour l’envoi et la réception de courrier
+
 font-outgoing-email-label =
     .value = Courrier sortant :
     .accesskey = u
+
 font-incoming-email-label =
     .value = Courrier entrant :
     .accesskey = i
+
 default-font-reply-checkbox =
     .label = Quand c’est possible, utiliser l’encodage par défaut dans les réponses
     .accesskey = Q

@@ -25,9 +25,6 @@ left instead of right. -->
 <!ENTITY uploadFile.label "Télécharger le fichier vers…">
 <!ENTITY uploadFile.accesskey "h">
 
-<!ENTITY printSetupCmd.label "Mise en page…">
-<!ENTITY printSetupCmd.accesskey "M">
-
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Rechercher dans la page…">
 
