@@ -5,53 +5,70 @@
 permissions-window =
     .title = Undanþágur
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Vistfang vefsvæðis
     .accesskey = V
+
 permissions-block =
     .label = Loka á
     .accesskey = o
+
 permissions-session =
     .label = Leyfa í þessari vafralotu
     .accesskey = s
+
 permissions-allow =
     .label = Leyfa
     .accesskey = f
+
 permissions-site-name =
     .label = Vefsvæði
+
 permissions-status =
     .label = Staða
+
 permissions-remove =
     .label = Fjarlægja vefsvæði
     .accesskey = R
+
 permissions-remove-all =
     .label = Fjarlægja öll vefsvæði
     .accesskey = e
+
 permissions-button-cancel =
     .label = Hætta við
     .accesskey = H
+
 permissions-button-ok =
     .label = Vista breytingar
     .accesskey = V
+
 permission-dialog =
     .buttonlabelaccept = Vista breytingar
     .buttonaccesskeyaccept = V
+
 permissions-autoplay-menu = Sjálfgefið fyrir allar vefsíður:
+
 permissions-searchbox =
     .placeholder = Leita í vefsvæði
+
 permissions-capabilities-autoplay-allow =
     .label = Leyfa hljóð og myndskeið
 permissions-capabilities-autoplay-block =
     .label = Loka á hljóð
 permissions-capabilities-autoplay-blockall =
     .label = Loka á hljóð og myndskeið
+
 permissions-capabilities-allow =
     .label = Leyfa
 permissions-capabilities-block =
     .label = Loka á
 permissions-capabilities-prompt =
     .label = Spyrja alltaf
+
 permissions-capabilities-listitem-allow =
     .value = Leyfa
 permissions-capabilities-listitem-block =
@@ -73,6 +90,8 @@ permissions-exceptions-cookie-window =
     .title = Undantekningar - Smákökur og gögn vefsvæðis
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi eða ekki til að geyma smákökur og gögn.  Sláðu inn nákvæma slóð fyrir það vefsvæði sem þú sjá um og smelltu svo á Loka, Leyfa fyrir lotu, eða leyfa.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

@@ -214,6 +214,7 @@
 <!ENTITY printButton.tooltip "Prenta þennan póst">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY subject.accesskey "f">
 

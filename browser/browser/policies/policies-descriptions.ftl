@@ -149,3 +149,4 @@ policy-SSLVersionMin = Stilltu lágmarks SSL útgáfuna.
 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Loka fyrir heimsókn á vefsvæði. Sjá skjöl fyrir frekari upplýsari um snið.
+

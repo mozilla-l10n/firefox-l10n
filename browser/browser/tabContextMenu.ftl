@@ -54,8 +54,6 @@ move-to-new-window =
     .label = Færa yfir í nýjan glugga
     .accesskey = g
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Loka flipa
     .accesskey = L
@@ -68,3 +66,7 @@ move-tabs =
 move-tab =
     .label = Færa flipa
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

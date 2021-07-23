@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Leita
 
 newtab-search-box-search-the-web-text = Leita á vefnum
+
 newtab-search-box-search-the-web-input =
     .placeholder = Leita á vefnum
     .title = Leita á vefnum
@@ -55,6 +56,8 @@ newtab-topsites-add-button = Bæta við
 newtab-confirm-delete-history-p1 = Ertu viss um að þú viljir eyða öllum tilvikum af þessari síðu úr vafraferli þínum?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ekki er ekki hægt að bakfæra þessa aðgerð.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -179,3 +182,6 @@ newtab-pocket-cta-text = Vistaðu sögurnar sem þú elskar í { -pocket-brand-n
 
 newtab-error-fallback-info = Úbbs, eitthvað fór úrskeiðis við að hlaða þessu efni inn.
 newtab-error-fallback-refresh-link = Endurhlaðið síðu til að reyna aftur.
+
+## Customization Menu
+

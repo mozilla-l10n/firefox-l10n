@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Bæta við flokkum
+
 pocket-panel-saved-error-generic = Upp kom villa við að vista á { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Tög eru takmörkuð við 25 stafi
 pocket-panel-saved-error-only-links = Aðeins er hægt að vista tengla

@@ -213,6 +213,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Ertu viss um að viljir eyða þessum undantekningum netþjóns?
 delete-ssl-cert-impact = EF þú eyðir undantekningu netþjóns, gerirðu aftur virkar venjulegar öryggisaðgerðir sem athuga netþjóna og gera kröfur um gilt skilríki.
 
+
 delete-ca-cert-title =
     .title = Eyða eða vantreysta CA skilríkjum
 delete-ca-cert-confirm = Þú hefur valið að eyða CA skilríkjum. Ef þetta er innbyggð skilríki mun allt traust verða fjarlægt, sem hefur sömu áhrif. Ertu viss um að þú viljir eyða eða vantreysta?
@@ -271,6 +272,8 @@ cert-not-verified-issuer-unknown = Get ekki sannreynt þetta skilríki vegna þe
 cert-not-verified-ca-invalid = Get ekki sannreynt þetta skilríki vegna þess að CA skilríki er óleyfilegt.
 cert-not-verified_algorithm-disabled = Gat ekki sannreynt þetta skilríki vegna þess að það var undirritað með undirskriftar algrími sem er ekki lengur virkt vegna þess að algrímið er ekki öruggt.
 cert-not-verified-unknown = Get ekki sannreynt þetta skilríki vegna óþekktra ástæðna.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 
