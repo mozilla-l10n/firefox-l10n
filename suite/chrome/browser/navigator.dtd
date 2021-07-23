@@ -52,8 +52,6 @@
 <!ENTITY printButton.label            "Print">
 <!ENTITY printButton.tooltip          "Print this page">
 
-<!ENTITY throbber.tooltip             "Go to the &vendorShortName; home page">
-
 <!ENTITY locationBar.tooltip          "Enter search term, keyword, or web address">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Location">
@@ -71,3 +69,4 @@
 <!ENTITY  statusText.label            "Done">
 
 <!ENTITY popupIcon.tooltiptext      "Unblock this website's popups">
+

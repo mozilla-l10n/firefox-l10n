@@ -7,10 +7,11 @@
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Allow popup windows from this website">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
-<!ENTITY openLinkCmd.label            "Open Link in New Window">
-<!ENTITY openLinkCmd.accesskey        "W">
+
 <!ENTITY openLinkCmdInTab.label       "Open Link in New Tab">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmd.label            "Open Link in New Window">
+<!ENTITY openLinkCmd.accesskey        "W">
 <!ENTITY openLinkInWindowCmd.label    "Open">
 <!ENTITY openLinkInWindowCmd.accesskey "p">
 <!ENTITY openFrameCmd.label           "Open Frame in New Window">
@@ -55,8 +56,6 @@
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "View Background Image">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setWallpaperCmd.label        "Set As Wallpaper">
-<!ENTITY setWallpaperCmd.accesskey    "A">
 <!ENTITY bookmarkPageCmd.label        "Bookmark This Page…">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
 <!ENTITY bookmarkLinkCmd.label        "Bookmark This Link…">
@@ -130,3 +129,4 @@
 <!ENTITY spellDictionaries.accesskey    "L">
 <!ENTITY spellAddDictionaries.label     "Download More Dictionaries…">
 <!ENTITY spellAddDictionaries.accesskey "D">
+

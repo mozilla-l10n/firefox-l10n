@@ -39,6 +39,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = এক্সটেনশনটিকে নিষ্ক্রিয় করুন
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = আপনার লুকানো ট্যাবে অ্যাক্সেস করুন
     .buttonlabel = ট্যাবগুলিকে গোপন রাখুন

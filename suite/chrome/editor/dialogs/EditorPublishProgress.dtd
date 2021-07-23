@@ -9,12 +9,8 @@
 
 <!ENTITY status.label          "প্রকাশনা...">
 <!ENTITY fileList.label        "প্রকানশা কর্মের অবস্থা">
-<!ENTITY statusHeader.label    "কর্মের অবস্থা">
-<!ENTITY filenameHeader.label  "ফাইলের নাম">
 <!ENTITY succeeded.label       "সফল">
 <!ENTITY failed.label          "ব্যর্থ">
-<!ENTITY troubleshooting.label "সমস্যা সমাধান">
-<!ENTITY troubleshooting.accessKey "T">
 
 <!ENTITY keepOpen              "প্রকাশনা কর্ম সমাপ্তির পরে উইন্ডো বন্ধ করা হবে না।">
 <!ENTITY closeButton.label     "বন্ধ করুন">

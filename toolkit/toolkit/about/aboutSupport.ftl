@@ -228,3 +228,7 @@ touch-warning = অ্যাসিঙ্ক টাচ ইনপুট নিষ�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

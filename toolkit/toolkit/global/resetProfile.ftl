@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } পুনরায় নির্ধারণ করুন
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name } রিফ্রেশ করুন
 refresh-profile-description = সমস্যা দূর করতে এবং পারফরম্যান্স ফেরানর জন্য নতুন করে শুরু করুন।

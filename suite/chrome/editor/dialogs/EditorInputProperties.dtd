@@ -21,10 +21,8 @@
 <!ENTITY InputSettings.label "ক্ষেত্র'র বৈশিষ্ট্য">
 <!ENTITY InputName.label "ক্ষেত্র'র নাম:">
 <!ENTITY GroupName.label "দলের নাম:">
-<!ENTITY Name.accesskey "N">
 <!ENTITY InputValue.label "ক্ষেত্র'র মান:">
 <!ENTITY InitialValue.label "প্রারম্ভিক মান:">
-<!ENTITY Value.accesskey "V">
 <!ENTITY InputChecked.label "প্রারম্ভিকরূপে পরীক্ষিত">
 <!ENTITY InputChecked.accesskey "C">
 <!ENTITY InputSelected.label "প্রারম্ভিকরূপে নির্বাচিত">

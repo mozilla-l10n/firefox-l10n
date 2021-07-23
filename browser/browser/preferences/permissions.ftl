@@ -77,6 +77,8 @@ permissions-exceptions-cookie-window =
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = কোন ওয়েবসাইটগুলি সর্বদা কুকি এবং সাইটের ডেটা ব্যবহার করার অনুমতি দেয় এবং কোন গুলি দেয় না তা আপনি নির্ধারণ করতে পারেন।  সেই সাইটের সঠিক ঠিকানা টাইপ করুন যেটিকে আপনি পরিচালনা করতে চান এবং তারপর ব্লক-এ ক্লিক করুন, সেশনের জন্য অনুমতি দিন, অথবা অনুমতি দিন।
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =

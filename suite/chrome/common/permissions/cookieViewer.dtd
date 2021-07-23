@@ -17,7 +17,6 @@
 
 <!ENTITY     search.placeholder             "Search Cookies">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Name:">
@@ -30,8 +29,6 @@
 <!ENTITY     treehead.sitename.label        "Website">
 <!ENTITY     treehead.status.label          "Status">
 <!ENTITY     windowtitle.label              "Cookie Manager">
-<!ENTITY     buttonaccept.label             "Close">
-<!ENTITY     buttonaccept.accesskey         "C">
 
 <!ENTITY     blockSite.label                "Block">
 <!ENTITY     blockSite.accesskey            "B">

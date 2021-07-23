@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "মেনু খুলুন">
+
 <!ENTITY navbarOverflow.label                "অতিরিক্ত সরঞ্জাম…">
 
 <!-- Tab context menu -->
@@ -109,18 +110,22 @@ can reach it easily. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "পূর্ববর্তী তথ্য">
+
 <!ENTITY historyUndoMenu.label "সম্প্রতি বন্ধ করা ট্যাব">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "সম্প্রতি বন্ধ করা উইন্ডো">
 
 <!ENTITY appMenuHistory.showAll.label "সকল পূর্ববর্তী তথ্য প্রদর্শন করা হবে">
+
 <!ENTITY appMenuHistory.clearRecent.label "সম্প্রতি ব্যবহারের পূর্ববর্তী তথ্য মুছে ফেলুন…">
 <!ENTITY appMenuHistory.restoreSession.label "পূর্ববর্তী সেশান পুনরুদ্ধার করুন">
 <!ENTITY appMenuHistory.viewSidebar.label "ইতিহাস সাইড বার দেখুন">
 <!ENTITY appMenuHistory.recentHistory.label "সাম্প্রতিক পূর্ববর্তী তথ্য">
+
 <!ENTITY appMenuHelp.label "সাহায্য">
 
 <!ENTITY appMenuRemoteTabs.label "সিঙ্ক হওয়া ট্যাব">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "কোনো খোলা ট্যাব নেই">

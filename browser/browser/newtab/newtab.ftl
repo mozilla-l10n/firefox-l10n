@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = অনুসন্ধান
 
 newtab-search-box-search-the-web-text = ওয়েবে সন্ধান করুন
+
 newtab-search-box-search-the-web-input =
     .placeholder = ওয়েবে সন্ধান করুন
     .title = ওয়েবে সন্ধান করুন
@@ -55,6 +56,8 @@ newtab-topsites-add-button = যোগ করুন
 newtab-confirm-delete-history-p1 = আপনি কি নিশ্চিতভাবে আপনার ইতিহাস থেকে এই পৃষ্ঠার সকল কিছু মুছে ফেলতে চান?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = এই কাজটিকে আর নাকচ করা সম্ভব নয়।
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -179,3 +182,6 @@ newtab-pocket-cta-text = আপনার পছন্দের গল্পগ�
 
 newtab-error-fallback-info = ওহো, বিষয়বস্তুটি লোড করতে কিছু ভুল হয়েছে।
 newtab-error-fallback-refresh-link = পুনরায় চেস্টা করার জন্য পেজটি রিফ্রেশ করুন।
+
+## Customization Menu
+

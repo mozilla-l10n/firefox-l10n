@@ -4,20 +4,13 @@
 
 <!-- extracted from content/pref-composer.xul -->
 
+<!-- extracted from content/pref-composer.xhtml -->
+
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
 
-
-<!ENTITY  saving                    "সংরক্ষণ">
-<!ENTITY  AutoSaveCheck             "স্বয়ংক্রিয়ভাবে সংরক্ষণ করা হবে প্রতি">
-<!ENTITY  minText                   "মিনিট">
-
-<!ENTITY  exterLegend.label         "বহিস্থিত এডিটর">
-<!ENTITY  htmlSource                "HTML উৎস:">
-<!ENTITY  imageeditor               "ছবি:">
-<!ENTITY  chooseButton.label        "নির্বাচন করুন">
 
 <!ENTITY  recentFiles.title         "সম্প্রতি ব্যবহৃত পৃষ্ঠার মেনু">
 <!ENTITY  documentsInMenu.label     "তালিকাভুক্ত পৃষ্ঠার সর্বমোট সংখ্যা:">
@@ -33,8 +26,6 @@
 <!ENTITY  showPublishDialog.accesskey   "A">
 
 <!ENTITY  composerEditing.label         "সম্পাদনা">
-<!ENTITY  spellCheckInline.label        "টাইপ করার সময় বানান পরীক্ষা করা হবে">
-<!ENTITY  spellCheckInline.accesskey    "C">
 <!ENTITY  maintainStructure.label       "সেল যোগ অথবা অপসারণ করার সময় টেবিলের বিন্যাস অপরিবর্তিত রাখা হবে">
 <!ENTITY  maintainStructure.tooltip     "সেল যোগ অথবা অপসারণ করার পরে স্বয়ংক্রিয়ভাবে টেবিলের চতুর্ভুজাকার অপরিবর্তিত রাখা হবে">
 <!ENTITY  maintainStructure.accesskey   "M">

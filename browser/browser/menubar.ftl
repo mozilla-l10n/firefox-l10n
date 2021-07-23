@@ -34,16 +34,20 @@ menu-quit =
             [windows] প
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = প্রস্থান { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = প্রস্থান { -brand-shorter-name }
+
 menu-about =
     .label = { -brand-shorter-name } সম্পর্কে
     .accesskey = A
@@ -300,8 +304,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = সমস্যা সমাধান সংক্রান্ত তথ্য
     .accesskey = T
-menu-help-taskmanager =
-    .label = টাস্ক ম্যানেজার
 menu-help-report-site-issue =
     .label = সাইটের সমস্যা রিপোর্ট করুন…
 menu-help-feedback-page =

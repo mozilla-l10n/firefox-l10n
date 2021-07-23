@@ -4,7 +4,6 @@
 
 <!ENTITY Window.title        "সূচিপত্র">
 <!ENTITY buildToc.label      "সূচিপত্র নির্মাণের জন্য ব্যবহৃত হবে:">
-<!ENTITY style.label         "বিন্যাস:">
 <!ENTITY tag.label           "ট্যাগ:">
 <!ENTITY class.label         "শ্রেণী:">
 <!ENTITY header1.label       "১ম স্তর">

@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC অন্তর্বর্তী
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = এমন ভাবে সংরক্ষণ about:webrtc করা হবে
@@ -47,13 +48,7 @@ about-webrtc-ice-state = ICE স্টেট
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE স্ট্যাটস
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -65,13 +60,16 @@ about-webrtc-type-remote = রিমোট
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = মনোনীত
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = নির্বাচিত
+
 about-webrtc-save-page-label = পেজ সংরক্ষণ করুন
 about-webrtc-debug-mode-msg-label = ডিবাগ মোড
 about-webrtc-debug-mode-off-state-label = ডিবাগ মোড শুরু করুন
@@ -95,6 +93,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (বন�
 
 ##
 
+
 about-webrtc-local-candidate = স্থানীয় ক্যান্ডিডেট
 about-webrtc-remote-candidate = রিমোট ক্যান্ডিডেট
 about-webrtc-priority = গুরুত্ব
@@ -110,7 +109,6 @@ about-webrtc-encoder-label = এনকোডার
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -120,6 +118,8 @@ about-webrtc-save-page-msg = পেজ সংরক্ষণ করা হয়ে
 about-webrtc-debug-mode-off-state-msg = ট্রেস লগ এখানে পাওয়া যাবে: { $path }
 about-webrtc-debug-mode-on-state-msg = ডিবাগ মোড সক্রিয়, ট্রেস লগ এখানে: { $path }
 about-webrtc-aec-logging-off-state-msg = ক্যাপচার করা লগ ফাইল গুলি এখানে পাওয়া যাবে: { $path }
+
+##
 
 ##
 
@@ -134,4 +134,7 @@ about-webrtc-jitter-label = জিটার { $jitter }
 
 
 ##
+
+##
+
 
