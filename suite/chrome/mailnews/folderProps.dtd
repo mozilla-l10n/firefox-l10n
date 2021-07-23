@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Mappatípus:">
 
 <!ENTITY folderQuotaTab.label                    "Kvóta">
-<!ENTITY folderQuotaRoot.label                   "Kvótagyökér:">
 <!ENTITY folderQuotaUsage.label                  "Használat:">
 <!ENTITY folderQuotaStatus.label                 "Állapot:">
 

@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Címkék hozzáadása
+
 pocket-panel-saved-error-generic = Hiba történt a { -pocket-brand-name }re mentés közben.
 pocket-panel-saved-error-tag-length = A címkék legfeljebb 25 karakter hosszúak lehetnek
 pocket-panel-saved-error-only-links = Csak hivatkozások menthetők

@@ -4,6 +4,8 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
 <!ENTITY MsgSynchronize.label "Az üzenetek letöltése és szinkronizálása">
 <!ENTITY MsgSelect.label "Elemek kiválasztása kapcsolat nélküli munkához">
 <!ENTITY MsgSyncDesc.label "Ha már kiválasztotta a levelezőmappákat vagy a hírcsoportokat a kapcsolat nélküli munkához, akkor ezeket most letöltheti és/vagy szinkronizálhatja. Egyébként nyomja meg a „Kijelölés” gombot a levelezőmappák és hírcsoportok kijelöléséhez.">

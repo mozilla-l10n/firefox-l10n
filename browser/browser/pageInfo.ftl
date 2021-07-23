@@ -129,6 +129,8 @@ security-site-data-only = Igen, { $value } { $unit } oldaladatot
 security-site-data-cookies-only = Igen, sütiket
 security-site-data-no = Nem
 
+##
+
 image-size-unknown = Ismeretlen
 page-info-not-specified =
     .value = Nincs megadva

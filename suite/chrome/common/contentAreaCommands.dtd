@@ -7,6 +7,7 @@
 <!ENTITY popupWindowRejectCmd.accesskey "v">
 <!ENTITY popupWindowAllowCmd.label      "Felugró ablakok engedélyezése erről a webhelyről">
 <!ENTITY popupWindowAllowCmd.accesskey  "e">
+
 <!ENTITY openLinkCmdInTab.label       "Megnyitás új lapon">
 <!ENTITY openLinkCmdInTab.accesskey   "l">
 <!ENTITY openLinkCmd.label            "Megnyitás új ablakban">

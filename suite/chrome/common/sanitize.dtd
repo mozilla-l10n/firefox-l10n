@@ -61,9 +61,9 @@
 <!ENTITY itemSessions.label               "Hitelesített munkamenetek">
 <!ENTITY itemSessions.accesskey           "H">
 
+<!ENTITY sanitizeButton.label            "Személyes adatok törlése">
 <!ENTITY itemSessionsS.accesskey          "u">
 
-<!ENTITY sanitizeButton.label            "Személyes adatok törlése">
 <!ENTITY itemSitePreferences.label        "Webhely beállításai">
 <!ENTITY itemSitePreferences.accesskey    "b">
 <!ENTITY itemSitePreferencesS.accesskey   "t">

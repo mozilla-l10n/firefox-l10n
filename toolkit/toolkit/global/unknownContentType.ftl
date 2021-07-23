@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Megnyitás a { -brand-short-name }szal
     .accesskey = M
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } felfrissítése
+
 refresh-profile-dialog-title = Visszaállítja a { -brand-short-name } alapértelmezett beállításait?
 refresh-profile-dialog-button =
     .label = { -brand-short-name } felfrissítése

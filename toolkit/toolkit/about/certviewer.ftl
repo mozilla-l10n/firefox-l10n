@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Hitelesítői információk (AIA)
 certificate-viewer-certificate-policies = Tanúsítvány házirendek
 certificate-viewer-embedded-scts = Beágyazott SCT-k
 certificate-viewer-crl-endpoints = CRL végpontok
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Letöltés
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (tanúsítvány)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (lánc)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Ez a kiegészítő kritikusként lett megjelölve, ami azt jelenti, hogy a klienseknek el kell utasítaniuk a tanúsítványt, ha nem értik azt.

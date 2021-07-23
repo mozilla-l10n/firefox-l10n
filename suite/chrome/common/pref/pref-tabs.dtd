@@ -14,12 +14,6 @@
 <!ENTITY relatedAfterCurrent.label "Kapcsolodó lapok megnyitása az aktuális lap után">
 <!ENTITY relatedAfterCurrent.accesskey "o">
 
-<!ENTITY loadGroup.label "Könyvjelzőcsoport megnyitásakor">
-<!ENTITY loadGroupAppend.label "Új lapok hozzáadása">
-<!ENTITY loadGroupAppend.accesskey "h">
-<!ENTITY loadGroupReplace.label "Meglévő lapok lecserélése">
-<!ENTITY loadGroupReplace.accesskey "M">
-
 <!ENTITY openTabs.label "Megnyitás új ablak helyett új lapon, ha a felhasználó">
 
 <!ENTITY middleClick.label "Középső kattintás, Ctrl+kattintás vagy Ctrl+Enter a linkeken a weboldalon">

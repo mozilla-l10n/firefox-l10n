@@ -10,5 +10,3 @@
 <!ENTITY  newContactCmd.label             "Névjegykártya…">
 <!ENTITY  newContactCmd.accesskey         "N">
  
-<!ENTITY printButton.label "Nyomtatás">
-<!ENTITY printButton.tooltip "Az üzenet kinyomtatása">

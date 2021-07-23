@@ -30,8 +30,6 @@
 <!ENTITY HomePhone.accesskey                   "O">
 <!ENTITY WorkPhone.label                       "Munkahelyi telefon">
 <!ENTITY WorkPhone.accesskey                   "u">
-<!ENTITY ScreenName.label                      "Felhasználói név">
-<!ENTITY ScreenName.accesskey                  "F">
 <!ENTITY ChatName.label                        "Csevegési név">
 <!ENTITY ChatName.accesskey                    "e">
 <!ENTITY sortAscending.label                   "Növekvő sorrendben">

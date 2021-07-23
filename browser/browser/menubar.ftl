@@ -38,16 +38,20 @@ menu-quit =
             [windows] K
            *[other] K
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Kilépés a { -brand-shorter-name }ból
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Kilépés a { -brand-shorter-name }ból
+
 menu-about =
     .label = A { -brand-shorter-name } névjegye
     .accesskey = A
@@ -173,6 +177,7 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Szövegkódolás
     .accesskey = d
+
 menu-view-repair-text-encoding =
     .label = Szövegkódolás javítása
     .accesskey = k
@@ -218,6 +223,7 @@ menu-history-undo-menu =
     .label = Nemrég bezárt lapok
 menu-history-undo-window-menu =
     .label = Nemrég bezárt ablakok
+
 menu-history-reopen-all-tabs = Összes lap újranyitása
 menu-history-reopen-all-windows = Összes ablak újranyitása
 

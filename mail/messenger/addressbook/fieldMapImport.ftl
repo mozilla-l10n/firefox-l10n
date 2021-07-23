@@ -4,8 +4,10 @@
 
 import-ab-csv-window =
     .title = Címjegyzék importálása szövegfájlból
+
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = A(z) { $recordNumber }. rekord adatimportálásának előnézete
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Importálás
     .buttonaccesskeyaccept = I

@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = Frissítés érhető el – letöltés most
     .label-update-unsupported = Nem lehet frissíteni – a rendszer nem kompatibilis
     .label-update-restart = Frissítés érhető el – újraindítás most
+
 appmenuitem-protection-dashboard-title = Védelmi vezérlőpult
 appmenuitem-customize-mode =
     .label = Testreszabás…
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Alkalmazásmenü bezárása
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = Nagyítás
 appmenuitem-zoom-reduce =
     .label = Kicsinyítés
+
 appmenuitem-fullscreen =
     .label = Teljes képernyő
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Szinkronizálás
+
 appmenu-remote-tabs-sign-into-sync =
     .label = Jelentkezzen be a Syncbe…
 appmenu-remote-tabs-turn-on-sync =
     .label = Szinkronizálás bekapcsolása…
+
 appmenuitem-fxa-toolbar-sync-now2 = Szinkronizálás most
 appmenuitem-fxa-manage-account = Fiók kezelése
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = Bejelentkezés
 appmenu-fxa-setup-sync =
     .label = Szinkronizálás bekapcsolása…
 appmenu-fxa-show-more-tabs = Több lap megjelenítése
+
 appmenuitem-save-page =
     .label = Oldal mentése…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Újdonságok
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,35 +103,49 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = További információk felfedése
+
 profiler-popup-description-title =
     .value = Felvétel, elemzés, megosztás
+
 profiler-popup-description = Dolgozzon együtt a teljesítményproblémák kijavításán azáltal, hogy profilokat oszt meg a csapatával.
+
 profiler-popup-learn-more = További tudnivalók
+
 profiler-popup-settings =
     .value = Beállítások
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Beállítások szerkesztése…
+
 profiler-popup-disabled =
     A profilozó jelenleg le van tiltva, valószínűleg azért, mert nyitva van egy privát
     böngészési ablak.
+
 profiler-popup-recording-screen = Felvétel…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Egyéni
+
 profiler-popup-start-recording-button =
     .label = Felvétel indítása
+
 profiler-popup-discard-button =
     .label = Elvetés
+
 profiler-popup-capture-button =
     .label = Rögzítés
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -137,6 +158,7 @@ appmenu-manage-history =
     .label = Előzmények kezelése
 appmenu-reopen-all-tabs = Összes lap újranyitása
 appmenu-reopen-all-windows = Összes ablak újranyitása
+
 appmenu-restore-session =
     .label = Előző munkamenet helyreállítása
 appmenu-clear-history =
@@ -192,6 +214,7 @@ appmenu-customizetoolbar =
     .label = Eszköztár testreszabása…
 appmenu-taskmanager =
     .label = Feladatkezelő
+
 appmenu-developer-tools-subheader = Böngészőeszközök
 appmenu-developer-tools-extensions =
     .label = Kiegészítők fejlesztőknek

@@ -22,18 +22,9 @@
 <!ENTITY alwaysAsk.label                "Rákérdezés a fájlok letöltési helyére">
 <!ENTITY alwaysAsk.accesskey            "R">
 
-<!ENTITY downloadHistory.label          "Letöltési előzmények">
-<!ENTITY removeEntries.label            "Letöltött elemek eltávolítása">
-<!ENTITY removeEntries.accesskey        "L">
-<!ENTITY whenCompleted.label            "Letöltés befejezésekor">
-<!ENTITY whenQuittingApp.label          "A &brandShortName; bezárásakor">
-<!ENTITY neverRemove.label              "Soha">
-
 <!ENTITY finishedBehavior.label         "A letöltés befejeztekor">
 <!ENTITY playSound.label                "Hangjelzés">
 <!ENTITY playSound.accesskey            "H">
-<!ENTITY showAlert.label                "Figyelmeztető ablak">
-<!ENTITY showAlert.accesskey            "i">
 <!ENTITY browse.label                   "Tallózás…">
 <!ENTITY browse.accesskey               "T">
 <!ENTITY playButton.label               "Lejátszás">
