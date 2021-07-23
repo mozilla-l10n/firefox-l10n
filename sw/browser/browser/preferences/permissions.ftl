@@ -43,6 +43,8 @@ permissions-invalid-uri-label = Tafadhali ingiza jina sahihi la mwenyeji
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Unaweza kubainisha ni wavuti gani zinaruhusiwa kufungua dirisha kidukizo. Andika anwani sahihi ya tovuti unayotaka kuruhusu na kisha bofya Ruhusu.

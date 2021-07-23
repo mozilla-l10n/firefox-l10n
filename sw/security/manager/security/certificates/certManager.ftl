@@ -69,6 +69,8 @@ verify-email-signer =
 verify-email-recip =
     .value = Cheti cha Mpokeaji Barua Pepe
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 

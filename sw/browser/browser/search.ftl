@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = Hitilafu ya Kusakinisha
 opensearch-error-duplicate-desc = { -brand-short-name } haikuweza kusakinisha programu-jalizi ya kutafuta kutoka kwa "{ $location-url }" kwa sababu mtambo ulio na jina sawia tayari upo.
+
 opensearch-error-download-title = Kosa la Kupakua
 opensearch-error-download-desc = { -brand-short-name } haiwezi kupakua programu-jalizi ya kutafuta kutoka kwa: { $location-url }
 

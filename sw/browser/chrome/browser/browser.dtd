@@ -88,6 +88,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Historia">
+
 <!ENTITY historyUndoMenu.label "Vichupo Vilivyofungwa Hivi Karibuni">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Dirisha Zilizofungwa Hivi Karibuni">

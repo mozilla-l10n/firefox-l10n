@@ -24,6 +24,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sync Sasa
+
 appmenuitem-save-page =
     .label = Hifadhi Ukurasa Kama…
 
@@ -43,9 +44,6 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Kuhusu { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = Kusuluhisha Maelezo
-    .accesskey = K
 appmenu-help-report-site-issue =
     .label = Ripoti suala la tovuti…
 appmenu-help-feedback-page =
@@ -54,10 +52,6 @@ appmenu-help-feedback-page =
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = Anzisha tena na Vifaa vya Nyongeza Vilivyolemazwa…
-    .accesskey = A
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
