@@ -10,10 +10,6 @@
 <!ENTITY warnOnClose.label "Upozori me prilikom zatvaranja prozora s većim brojem tabova">
 <!ENTITY relatedAfterCurrent.label "Otvori povezane tabove nakon trenutnog taba">
 
-<!ENTITY loadGroup.label "Pri otvaranju grupe zabilješki">
-<!ENTITY loadGroupAppend.label "Dodaj tabove">
-<!ENTITY loadGroupReplace.label "Zamijeni postojeće tabove">
-
 <!ENTITY openTabs.label "Otvori tabove umjesto prozora za">
 
 <!ENTITY openManagers.label "Otvori u novom tabu umjesto samostalnog prozora">

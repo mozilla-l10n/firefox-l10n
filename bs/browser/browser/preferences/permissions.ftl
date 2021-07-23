@@ -5,46 +5,61 @@
 permissions-window =
     .title = Izuzeci
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresa web stranice
     .accesskey = d
+
 permissions-block =
     .label = Blokiraj
     .accesskey = B
+
 permissions-session =
     .label = Dozvoli za sesiju
     .accesskey = s
+
 permissions-allow =
     .label = Dozvoli
     .accesskey = D
+
 permissions-site-name =
     .label = Web stranica
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Ukloni web stranicu
     .accesskey = U
+
 permissions-remove-all =
     .label = Ukloni sve web stranice
     .accesskey = e
+
 permissions-button-cancel =
     .label = Otkaži
     .accesskey = O
+
 permissions-button-ok =
     .label = Spasi promjene
     .accesskey = S
+
 permission-dialog =
     .buttonlabelaccept = Spasi promjene
     .buttonaccesskeyaccept = S
+
 permissions-searchbox =
     .placeholder = Pretraži web stranicu
+
 permissions-capabilities-allow =
     .label = Dozvoli
 permissions-capabilities-block =
     .label = Blokiraj
 permissions-capabilities-prompt =
     .label = Uvijek pitaj
+
 permissions-capabilities-listitem-allow =
     .value = Dozvoli
 permissions-capabilities-listitem-block =
@@ -63,6 +78,8 @@ permissions-invalid-uri-label = Molimo unesite ispravno ime hosta
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-desc = Možete navesti kojim web stranica je uvijek ili nikad nije dozvoljeno koristiti kolačiće i podatke stranice. Unesite tačnu adresu stranice koju želite urediti i kliknite Blokiraj, Dozvoli za sesiju, ili Dozvoli.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

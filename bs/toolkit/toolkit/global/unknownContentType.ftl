@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Otvori sa { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

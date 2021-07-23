@@ -15,7 +15,6 @@
 <!ENTITY FaxNumber.label                       "Fax">
 <!ENTITY HomePhone.label                       "Kućni telefon">
 <!ENTITY WorkPhone.label                       "Poslovni telefon">
-<!ENTITY ScreenName.label                      "Ime na ekranu">
 <!ENTITY sortAscending.label                   "Rastući">
 <!ENTITY sortDescending.label                  "Opadajući">
 

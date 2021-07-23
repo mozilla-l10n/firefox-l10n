@@ -64,3 +64,4 @@ places-sortby-name =
 places-properties =
     .label = Postavke
     .accesskey = P
+

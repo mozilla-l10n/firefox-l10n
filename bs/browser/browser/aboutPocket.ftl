@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Dodaj tagove
+
 pocket-panel-saved-error-generic = Došlo je do greške prilikom spašavanja u { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Tagovi su ograničeni na 25 znakova
 pocket-panel-saved-error-only-links = Jedino linkovi mogu biti spašeni

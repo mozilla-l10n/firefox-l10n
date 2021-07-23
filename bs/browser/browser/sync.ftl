@@ -4,7 +4,9 @@
 
 fxa-toolbar-sync-syncing-tabs =
     .label = Sinhronizujem tabove…
+
 fxa-menu-connect-another-device =
     .label = Poveži drugi uređaj…
+
 fxa-menu-sign-out =
     .label = Odjava…

@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Preuzmite na Google Play
 login-app-promo-apple =
     .alt = Preuzmite na App Store
+
 login-filter =
     .placeholder = Pretraži prijave
+
 create-login-button = Kreiraj novu prijavu
+
 fxaccounts-sign-in-text = Pristupite lozinkama na drugim uređajima
 fxaccounts-sign-in-button = Prijava na { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -70,13 +73,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Tražite vaše spašene prijave? Podesite { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out = Tražiš svoje spremljene prijave? Postavi { -sync-brand-short-name } ili ih uvezi.
+
 about-logins-login-intro-heading-logged-in = Nema pronađenih sinhronizovanih prijava.
 login-intro-description = Ako ste spasili prijave u { -brand-product-name } na drugom uređaju, evo kako im možete pristupiti:
 login-intro-instruction-fxa = Kreirajte ili se prijavite na vaš { -fxaccount-brand-name } na uređaju na kojem ste spasili prijave
 login-intro-instruction-fxa-settings = Provjeri, je li potvrdni okvir prijave označen u { -sync-brand-short-name } postavkama
 about-logins-intro-instruction-help = Posjeti <a data-l10n-name="help-link">{ -lockwise-brand-short-name } podršku</a> za dodatnu pomoć
 about-logins-intro-import = Ako su tvoje prijave spremljene u jednom drugom browseru, možeš ih <a data-l10n-name="import-link"> uvesti u { -lockwise-brand-short-name } </a>
+
 about-logins-intro-import2 = Ako su tvoje prijave spremljene izvan { -brand-product-name }a, možeš ih <a data-l10n-name="import-browser-link">uvesti iz jednog drugog browsera</a> ili <a data-l10n-name="import-file-link">iz jedne datoteke</a>
 
 ## Login
@@ -118,11 +122,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Za uređivanje prijave, une
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = uredite sačuvanu prijavu
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Za prikaz vaše lozinke, unesite svoje podatke za prijavu na Windows. To pomaže zaštiti sigurnost vaših računa.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = prikaži spašenu lozinku
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Za kopiranje vaše lozinke, unesite svoje podatke za prijavu na Windows. To pomaže zaštiti sigurnost vaših računa.
 # This message can be seen when attempting to copy a password in about:logins
@@ -152,11 +158,14 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Otkaži
 confirmation-dialog-dismiss-button =
     .title = Otkaži
+
 about-logins-confirm-remove-dialog-title = Ukloniti ovu prijavu?
 confirm-delete-dialog-message = Ova radnja se ne može poništiti.
 about-logins-confirm-remove-dialog-confirm-button = Ukloni
+
 about-logins-confirm-export-dialog-title = Izvezi prijave i lozinke
 about-logins-confirm-export-dialog-confirm-button = Izvoz…
+
 confirm-discard-changes-dialog-title = Odbaci nespašene promjene?
 confirm-discard-changes-dialog-message = Sve nespašene promjene će biti izgubljene.
 confirm-discard-changes-dialog-confirm-button = Odbaci
@@ -180,6 +189,7 @@ about-logins-vulnerable-alert-learn-more-link = Saznajte više
 
 # This is a generic error message.
 about-logins-error-message-default = Desila se greška prilikom spašavanja ove lozinke.
+
 
 ## Login Export Dialog
 
@@ -214,6 +224,14 @@ about-logins-import-file-picker-csv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
 
 ## Logins import report page
 

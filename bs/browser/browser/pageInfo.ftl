@@ -129,6 +129,8 @@ security-site-data-only = Da, { $value } { $unit } podataka stranice
 security-site-data-cookies-only = Da, kolačiće
 security-site-data-no = Ne
 
+##
+
 image-size-unknown = Nepoznato
 page-info-not-specified =
     .value = Neodređeno

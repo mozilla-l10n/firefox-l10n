@@ -341,3 +341,8 @@ touch-warning = asinhroni ulaz dodirom onemogućen zbog nepodržane postavke: { 
 policies-inactive = Neaktivno
 policies-active = Aktivno
 policies-error = Greška
+
+## Printing section
+
+## Normandy sections
+

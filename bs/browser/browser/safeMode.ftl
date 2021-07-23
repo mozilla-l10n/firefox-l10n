@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Pokreni u sigurnom režimu
+
 refresh-profile =
     .label = Osvježi { -brand-short-name }
 safe-mode-description = Sigurni režim je poseban režim { -brand-short-name }a kojeg možete koristiti za rješavanje problema.

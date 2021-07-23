@@ -30,7 +30,6 @@
 <!ENTITY getNewMsgCmd.label "Dohvati nove poruke">
 <!ENTITY getNewMsgForCmd.label "Dohvati nove poruke za">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Svi računi">
-<!ENTITY getAllNewMsgCmd.label "Dohvati sve nove poruke">
 <!ENTITY getNextNMsgCmd.label "Dohvati sljedećih 500 novinskih poruka">
 <!ENTITY sendUnsentCmd.label "Pošalji neposlane poruke">
 <!ENTITY subscribeCmd.label "Pretplati se…">
@@ -219,6 +218,7 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Dohvati poruke">
+<!ENTITY getAllNewMsgCmd.label "Dohvati sve nove poruke">
 <!ENTITY newMsgButton.label "Sastavi">
 <!ENTITY newHTMLMessageCmd.label "Sastavi u HTML-u">
 <!ENTITY newPlainTextMessageCmd.label "Sastavi kao običan tekst">
@@ -256,7 +256,6 @@
 <!ENTITY undeleteButton.tooltip "Vrati izbrisanu odabranu poruku">
 <!ENTITY markButton.tooltip "Označi poruke">
 <!ENTITY stopButton.tooltip "Zaustavi trenutni prijenos">
-<!ENTITY throbber.tooltip "Idite na &vendorShortName; početnu stranicu">
 <!ENTITY junkButton.tooltip "Označi odabrane poruke kao neželjene">
 <!ENTITY notJunkButton.tooltip "Označi odabrane poruke kao željene">
 

@@ -5,7 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Zarad uštede diskovnog prostora, ne preuzimaj:">
 <!ENTITY doNotDownloadNntp.label "Zarad uštede diskovnog prostora, ne preuzimaj za offline korištenje:">
 <!ENTITY doNotDownloadImap.label "Zarad uštede diskovnog prostora, preuzimanje poruka sa servera i čuvanje lokalnih kopija za offline korištenje može biti ograničeno po starosti ili veličini.">
-<!ENTITY allFoldersOffline.label "Zadrži poruke ovog računa na ovom računaru">
 <!ENTITY allFoldersOffline2.label "Zadrži poruke u svim direktorijima za ovaj račun na ovom računaru">
 <!ENTITY allFoldersOfflineNote.label "Napomena: Promjena ovog utiče na sve direktorije ovog računa. Koristite dugme Napredno… da biste podesili direktorije zasebno.">
 <!ENTITY offlineNotDownload.label "Poruke veće od">

@@ -1,7 +1,7 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
+  
 lockwise-no-logins-card-content = Koristite lozinke spašene u { -brand-short-name } na bilo kojem uređaju.
 
 ## The title attribute is used to display the type of protection.

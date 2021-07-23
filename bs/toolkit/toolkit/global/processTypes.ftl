@@ -8,22 +8,30 @@
 ##
 
 process-type-web = Web sadržaj
+
 process-type-browser = Glavno
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Privilegovane About
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Privilegovani Mozilla sadržaj
+
 process-type-extension = Ekstenzija
+
 # process used to open file:// URLs
 process-type-file = Lokalni fajl
+
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Velika alokacija
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Izolirani web sadržaj
+
 # process preallocated; may change to other types
 process-type-prealloc = Prealocirano
 
@@ -33,11 +41,14 @@ process-type-prealloc = Prealocirano
 
 process-type-default = Glavno
 process-type-tab = Tab
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to perform network operations
 process-type-socket = Socket
+
 # process used to decode media
 process-type-rdd = RDD
 

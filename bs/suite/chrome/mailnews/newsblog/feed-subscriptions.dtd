@@ -9,7 +9,6 @@
 <!ENTITY feedTitle.label             "Naslov:">
 
 <!ENTITY feedLocation.label          "URL kanala:">
-<!ENTITY feedLocation.placeholder    "Unesite ispravnu adresu kanala za dodati">
 <!ENTITY feedLocation2.placeholder   "Unesite ispravan url kanala">
 <!ENTITY locationValidate.label      "Potvrdi">
 <!ENTITY validateText.label          "Provjeri ispravnost i dobavi ispravan url.">

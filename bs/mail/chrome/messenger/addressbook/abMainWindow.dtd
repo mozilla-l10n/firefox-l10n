@@ -101,7 +101,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Email &amp; news grupe">
 <!ENTITY messengerCmd.accesskey                         "m">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Adresar">
 <!ENTITY searchAddressesCmd.label                       "Pretraži adrese…">
 <!ENTITY searchAddressesCmd.accesskey                   "t">
 <!ENTITY importCmd.label                                "Uvoz…">

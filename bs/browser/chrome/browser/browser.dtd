@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Otvori meni">
+
 <!ENTITY navbarOverflow.label                "Više alata…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; postavke">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Poveži drugi uređaj…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Prijava u &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Uključi &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; servisi">
@@ -138,18 +140,22 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Historija">
+
 <!ENTITY historyUndoMenu.label "Nedavno zatvoreni tabovi">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nedavno zatvoreni prozori">
 
 <!ENTITY appMenuHistory.showAll.label "Prikaži svu historiju">
+
 <!ENTITY appMenuHistory.clearRecent.label "Obriši skorašnju historiju…">
 <!ENTITY appMenuHistory.restoreSession.label "Vrati prethodnu sesiju">
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži bočnu traku za historiju">
 <!ENTITY appMenuHistory.recentHistory.label "Nedavna historija">
+
 <!ENTITY appMenuHelp.label "Pomoć">
 
 <!ENTITY appMenuRemoteTabs.label "Sinhronizovani tabovi">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nema otvorenih tabova">

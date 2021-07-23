@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Osvježi { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Osvježi { -brand-short-name }
 refresh-profile-description = Započnite ispočetka kako biste popravili probleme i povratili performanse.

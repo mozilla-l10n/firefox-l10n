@@ -36,7 +36,6 @@
 <!ENTITY PlainText.label                "Običan tekst">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Nepoznato">
-<!ENTITY ScreenName.label               "Ime na ekranu:">
 
 <!ENTITY WorkPhone.label                "Poslovni telefon:">
 <!ENTITY HomePhone.label                "Kućni telefon:">

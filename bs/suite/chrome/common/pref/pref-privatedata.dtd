@@ -16,6 +16,7 @@
 
 <!ENTITY clearDataSettings.label          "Kada tražim da &brandShortName; očisti moje privatne podatke, treba izbrisati:">
 
+
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
   The only difference bettween the two labels is that one calls a dialog, the other doesn't.
   The same accesskey is used for both labels.

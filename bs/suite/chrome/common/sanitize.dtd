@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sanitizeDialog.title            "Očisti privatne podatke">
+
 <!ENTITY sanitizeItems.label             "Očisti sljedeće stavke sada:">
 
 <!ENTITY itemHistory.label               "Historija pretraživanja">

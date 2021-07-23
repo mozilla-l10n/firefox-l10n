@@ -20,11 +20,6 @@
 "Uska integracija sa &brandShortName; aplikacijskim paketom">
 <!ENTITY dict.title "Rječnici">
 <!ENTITY dict_intro.label "Rječnici su korišteni za provjeru spelovanja vaših poruka.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label
-'Mnogi dodatni jezici mogu biti instalirani iz sekcije
-<a id="dictURL" href="">rječnika</a> na serveru
-<a href="https://addons.mozilla.org/seamonkey/">Mozilla dodataka</a>.'>
 <!ENTITY info.title "Više informacija">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label

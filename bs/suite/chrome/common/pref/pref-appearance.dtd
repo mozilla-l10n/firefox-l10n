@@ -18,10 +18,6 @@
 
 <!ENTITY pref.locales.title                     "Jezik korisničkog interfejsa">
 <!ENTITY selectLocale.label                     "Izaberite jezik za tekst koji se pojavljuje u dijaloškim okvirima, menijima, alatnim trakama i oznakama tipki:">
-<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY restartOnLangChange.label              "Postavke jezika će imati efekta nakon što ponovo pokrenete &brandShortName;.">
 
 <!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
      radiobuttons are set dynamically from prefutilities.properties

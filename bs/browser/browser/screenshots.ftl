@@ -5,6 +5,7 @@
 screenshots-context-menu = Snimi zaslon
 
 screenshots-my-shots-button = Moji snimci
+
 screenshots-instructions = Povucite ili kliknite na stranicu kako biste izabrali područje. Pritisnite ESC za otkazivanje radnje.
 screenshots-cancel-button = Otkaži
 screenshots-save-visible-button = Sačuvaj vidljivo

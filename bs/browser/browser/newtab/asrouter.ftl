@@ -80,3 +80,7 @@ cfr-doorhanger-sync-logins-body = Sigurno pohranite i sinhronizujte vaše lozink
 
 ## What's new: Cookies message
 
+## Fission Experiment Message
+
+## Full Video Support CFR message
+

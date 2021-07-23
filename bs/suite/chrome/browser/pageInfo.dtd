@@ -55,16 +55,11 @@
 
 <!ENTITY  mediaTab              "Mediji">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaURL              "Adresa:">
-<!ENTITY  mediaAlt              "Alternativni tekst:">
 <!ENTITY  mediaAltHeader        "Alternativni tekst">
 <!ENTITY  mediaAddress          "Adresa">
 <!ENTITY  mediaType             "Tip">
 <!ENTITY  mediaSize             "Veličina">
 <!ENTITY  mediaCount            "Broj">
-<!ENTITY  mediaDimensions       "Specifične dimenzije:">
-<!ENTITY  mediaPhysDimensions   "Stvarne dimenzije:">
-<!ENTITY  mediaTitle            "Naslov:">
 <!ENTITY  mediaLongdesc         "Dugi opis:">
 <!ENTITY  mediaSaveAs           "Sačuvaj kao…">
 <!ENTITY  mediaPreview          "Pregled medija:">
@@ -73,18 +68,7 @@
 <!ENTITY  feedSubscribe         "Preplati se">
 
 <!ENTITY  permTab               "Dozvole">
-<!ENTITY  permUseDefault        "Koristi izvorno">
-<!ENTITY  permAskAlways         "Uvijek pitaj">
-<!ENTITY  permAllow             "Dozvoli">
-<!ENTITY  permAllowSession      "Dozvoli za sesiju">
-<!ENTITY  permBlock             "Blokiraj">
 <!ENTITY  permissionsFor        "Dozvole za:">
-<!ENTITY  permImage             "Učitaj slike">
-<!ENTITY  permPopup             "Otvori iskočne prozore">
-<!ENTITY  permCookie            "Postavi kolačiće">
-<!ENTITY  permNotifications     "Prikaži obavještenja">
-<!ENTITY  permInstall           "Instaliraj proširenja ili teme">
-<!ENTITY  permGeo               "Dijeli lokaciju">
 
 <!ENTITY  securityTab           "Sigurnost">
 <!ENTITY  securityTab.accesskey "S">

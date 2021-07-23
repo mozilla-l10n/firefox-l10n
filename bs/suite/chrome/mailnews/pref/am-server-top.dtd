@@ -32,7 +32,6 @@
 <!ENTITY daysEnd.label "dana">
 <!ENTITY deleteOnServer2.label "Dok ih ne izbrišem">
 <!ENTITY downloadOnBiff.label "Automatski preuzmi nove poruke">
-<!ENTITY username.label "Vaše ime za prijavu">
 <!ENTITY deleteMessagePrefix.label "Kada obrišem poruku:">
 <!ENTITY modelMoveToTrash.label "Premjesti je u ovaj direktorij:">
 <!ENTITY modelMarkDeleted.label "Samo je označi kao izbrisanu">

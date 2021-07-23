@@ -76,7 +76,6 @@
 <!ENTITY newmsgButton.tooltip                           "Pošalji email poruku"> 
 <!ENTITY newIM.tooltip                                  "Pošaljite instant poruku ili započnite razgovor"> 
 <!ENTITY deleteItemButton.tooltip                       "Izbriši označenu stavku">
-<!ENTITY throbber.tooltip                               "Idite na &vendorShortName; početnu stranicu">
 <!ENTITY advancedButton.tooltip                         "Napredno pretraživanje adresa">
 
 <!-- Dir Tree header -->

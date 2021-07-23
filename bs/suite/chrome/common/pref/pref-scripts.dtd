@@ -18,9 +18,6 @@
 <!ENTITY allowContextmenuDisable.label   "Onemogućite ili zamijenite menije konteksta">
 <!ENTITY allowHideStatusBar.label        "Sakrij statusnu traku">
 
-<!ENTITY enableDrmMedia.label            "Omogućite Digital Rights Management za">
-<!ENTITY enableEmeForSuite.label         "Module za dešifrovanje sadržaja trećih strana">
-
 <!ENTITY enablePlugins.label             "Omogućite priključke za">
 <!ENTITY enablePluginForSuite.label      "Seamonkey">
 

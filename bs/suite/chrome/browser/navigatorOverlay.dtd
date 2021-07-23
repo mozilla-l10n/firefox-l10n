@@ -19,9 +19,6 @@
 <!ENTITY uploadFile.label "Prenesi datoteku…">
 <!ENTITY uploadFile.accesskey "F">
 
-<!ENTITY printSetupCmd.label "Postavljanje stranice…">
-<!ENTITY printSetupCmd.accesskey "u">
-
 <!-- Edit Menu -->
 <!ENTITY findOnCmd.label "Pronađi na ovoj stranici…">
 
@@ -100,3 +97,4 @@
 <!ENTITY popupsManager.label "Menadžer iskočnih prozora">
 
 <!ENTITY clearPrivateDataCmd.label "Očisti privatne podatke…">
+

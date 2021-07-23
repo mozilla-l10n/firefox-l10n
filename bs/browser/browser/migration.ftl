@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Čarobnjak za uvoz
+
 import-from =
     { PLATFORM() ->
         [windows] Uvezi opcije, zabilješke, historiju, lozinke i druge podatke iz:
        *[other] Uvezi postavke, zabilješke, historiju, lozinke i druge podatke iz:
     }
+
 import-from-bookmarks = Uvezi zabilješke iz:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,22 +51,34 @@ import-from-firefox =
 import-from-360se =
     .label = 360 sigurni browser
     .accesskey = 3
+
 no-migration-sources = Nije pronađen program koji sadrži zabilješke, historiju ili lozinke.
+
 import-source-page-title = Uvezi postavke i podatke
 import-items-page-title = Stavke za uvoz
+
 import-items-description = Izaberite stavke za uvoz:
+
 import-migrating-page-title = Uvozim…
+
 import-migrating-description = Sljedeće stavke se trenutno uvoze…
+
 import-select-profile-page-title = Odaberite profil
+
 import-select-profile-description = Sljedeći profili su dostupni za uvoz iz:
+
 import-done-page-title = Uvoz završen
+
 import-done-description = Sljedeće stavke su uspješno uvezene:
+
 import-close-source-browser = Molimo da osigurate da je izabrani browser zatvoren prije nastavka.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Iz { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-safari = Safari
@@ -73,6 +87,7 @@ source-name-chrome = Google Chrome
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 sigurni browser
+
 imported-safari-reading-list = Lista za čitanje (iz Safarija)
 imported-edge-reading-list = Lista za čitanje (iz Edge-a)
 
@@ -98,6 +113,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Spašene prijave i lozinke
+
 browser-data-session-checkbox =
     .label = Prozori i tabovi
 browser-data-session-label =

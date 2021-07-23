@@ -15,14 +15,7 @@
 <!ENTITY chooseDownloadFolder.label     "Izaberite direktorij…">
 <!ENTITY alwaysAsk.label                "Uvijek me pitaj gdje sačuvati datoteke">
 
-<!ENTITY downloadHistory.label          "Historija preuzimanja">
-<!ENTITY removeEntries.label            "Ukloni unose preuzimanja">
-<!ENTITY whenCompleted.label            "Kada su završeni">
-<!ENTITY whenQuittingApp.label          "Pri zatvaranju &brandShortName;">
-<!ENTITY neverRemove.label              "Nikad">
-
 <!ENTITY finishedBehavior.label         "Kada preuzimanje završi">
 <!ENTITY playSound.label                "Pusti zvuk">
-<!ENTITY showAlert.label                "Prikaži upozorenje">
 <!ENTITY browse.label                   "Pretražite…">
 <!ENTITY playButton.label               "Pusti">

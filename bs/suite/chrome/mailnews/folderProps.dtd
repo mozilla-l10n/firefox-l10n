@@ -42,7 +42,6 @@
 <!ENTITY folderType.label                        "Vrsta foldera:">
 
 <!ENTITY folderQuotaTab.label                    "Kvota">
-<!ENTITY folderQuotaRoot.label                   "Kvota najvišeg nivoa:">
 <!ENTITY folderQuotaUsage.label                  "Iskorištenost:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 

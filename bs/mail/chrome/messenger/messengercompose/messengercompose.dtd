@@ -241,6 +241,7 @@
 <!ENTITY printButton.tooltip "Štampaj ovu poruku">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY subject.accesskey "S">
 

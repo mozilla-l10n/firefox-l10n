@@ -8,6 +8,7 @@
 <!ENTITY sidebar.customize.title.label          "Prilagodi &sidebarName;">
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label        "Tabovi u &sidebarName;:">
+
 <!ENTITY sidebar.customize.customize.label      "Prilagodi tab…">
 <!ENTITY sidebar.customize.remove.label         "Ukloni">
 <!ENTITY sidebar.customize.additional.label     "Dostupni tabovi:">

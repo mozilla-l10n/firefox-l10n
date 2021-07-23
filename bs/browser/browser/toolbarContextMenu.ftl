@@ -20,3 +20,4 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = Prilagodi alatnu traku…
     .accesskey = C
+

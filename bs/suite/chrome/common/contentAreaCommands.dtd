@@ -5,6 +5,7 @@
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Odbacite iskočne prozore sa ove web stranice">
 <!ENTITY popupWindowAllowCmd.label      "Dozvolite iskočne prozore sa ove web stranice">
+
 <!ENTITY openLinkCmdInTab.label       "Otvori link u novom tabu">
 <!ENTITY openLinkCmd.label            "Otvori link u novom prozoru">
 <!ENTITY openLinkCmdInPrivateWindow.label     "Otvori link u privatnom prozoru">
@@ -81,5 +82,6 @@ items are mutually exclusive. -->
 <!ENTITY spellNoSuggestions.label       "(Nema pravopisnih prijedloga)">
 <!ENTITY spellDictionaries.label        "Jezici">
 <!ENTITY spellAddDictionaries.label     "Preuzmite više rječnika…">
+
 <!-- Developer Tools -->
 <!ENTITY devtoolsInspect.label          "Inspekcija elementa">

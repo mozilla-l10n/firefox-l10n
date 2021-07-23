@@ -9,11 +9,6 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.pagetitle  "Nepouzdana veza">
 <!ENTITY certerror.longpagetitle "Ova veza je nepouzdana">
 
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara1 "Tražili ste da se &brandShortName; poveže
-sigurno na <b>#1</b>, ali ne možemo potvrditi da je vaša veza sigurna.">
 <!ENTITY certerror.introPara2 "Obično, kada pokušate da se povežete sigurno,
 web stranice će prikazati povjerljivu identifikaciju da dokažu da
 idete na pravo mjesto. Međutim, ovaj identitet web stranice se ne može verifikovati.">
@@ -38,3 +33,4 @@ ako znate da postoji dobar razlog zbog kojeg ova stranica ne koristi povjerljivu
 <!ENTITY certerror.addException.label "Dodaj izuzetak…">
 
 <!ENTITY certerror.technical.heading "Tehnički detalji">
+

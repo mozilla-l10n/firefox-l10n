@@ -57,8 +57,6 @@
 <!ENTITY printButton.label            "Štampaj">
 <!ENTITY printButton.tooltip          "Štampaj ovu stranicu">
 
-<!ENTITY throbber.tooltip             "Idite na &vendorShortName; početnu stranicu">
-
 <!ENTITY locationBar.tooltip          "Unesite traženi pojam, ključnu riječ ili web adresu">
 <!ENTITY locationBar.title            "Lokacija">
 <!ENTITY proxyIcon.tooltip            "Povucite i ispustite ovu ikonu za stvaranje veze za ovu stranicu">
@@ -79,3 +77,4 @@
 <!ENTITY viewSecurityInfo.label      "Prikaži sigurnosne informacije">
 <!ENTITY viewCertificate.label       "Prikaži certifikat">
 <!ENTITY viewCertManager.label       "Otvori menadžera certifikata">
+

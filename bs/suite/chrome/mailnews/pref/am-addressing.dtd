@@ -21,8 +21,6 @@
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Sastavljaj poruke u HTML formatu">
 <!ENTITY autoQuote.label                      "Citiraj izvornu poruku prilikom odgovora">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Zatim,">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Kada citirate,">
 <!ENTITY aboveQuote.label                     "započni moj odgovor iznad citata">
