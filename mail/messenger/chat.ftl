@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Ymuno â sgwrs
+
 chat-left-chat-icon2 =
     .alt = Gadael sgwrs
+
 chat-participant-owner-role-icon2 =
     .alt = Perchennog
+
 chat-participant-administrator-role-icon2 =
     .alt = Gweinyddwr
+
 chat-participant-moderator-role-icon2 =
     .alt = Cymedrolwr
+
 chat-participant-voiced-role-icon2 =
     .alt = Gall gyfranogwr anfon negeseuon

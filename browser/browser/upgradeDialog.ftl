@@ -11,21 +11,13 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Dywedwch helo wrth y { -brand-short-name } newydd
 upgrade-dialog-new-subtitle = Wedi'i gynllunio i fynd a chi i'r lle rydych am fynd iddo, yn gyflymach
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
-# style to be automatically added to the text inside it. { -brand-short-name }
-# should stay inside the span.
-upgrade-dialog-new-alt-subtitle = Cychwynwch trwy osod<span data-l10n-name = "zap"> { -brand-short-name } </span> un clic i ffwrdd
 upgrade-dialog-new-item-menu-title = Bar offer a dewislenni llyfnach
 upgrade-dialog-new-item-menu-description = Blaenoriaethu'r pethau sy'n bwysig i chi.
 upgrade-dialog-new-item-tabs-title = Tabiau modern
 upgrade-dialog-new-item-tabs-description = Cynnwys gwybodaeth yn daclus, yn cynnal ffocws a symudiadau hyblyg.
 upgrade-dialog-new-item-icons-title = Eiconau ffres a negeseuon cliriach
 upgrade-dialog-new-item-icons-description = Eich helpu chi i ddod o hyd i'ch ffordd chi gyda chyffyrddiad ysgafnach.
-upgrade-dialog-new-primary-primary-button = Gwneud { -brand-short-name } fy mrhif borwr
-    .title = Yn gosod { -brand-short-name } fel y porwr rhagosodedig a'i binio i'r bar tasgau
 upgrade-dialog-new-primary-default-button = Gwneud { -brand-short-name } fy mhorwr rhagosodedig
-upgrade-dialog-new-primary-pin-button = Pinio { -brand-short-name } i'm bar tasgau
-upgrade-dialog-new-primary-pin-alt-button = Pinio i'r bar tasgau
 upgrade-dialog-new-primary-theme-button = Dewis thema
 upgrade-dialog-new-secondary-button = Nid nawr
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -61,10 +53,6 @@ upgrade-dialog-pin-secondary-button = Nid nawr
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = Gwneud { -brand-short-name } eich prif borwr?
-upgrade-dialog-default-subtitle = Cael cyflymder, diogelwch a phreifatrwydd bob tro y byddwch chi'n pori.
-upgrade-dialog-default-primary-button = Gosod fel y porwr ragosodedig
-# This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Gwneud { -brand-short-name } eich prif borwr
 upgrade-dialog-default-subtitle-2 = Rhowch gyflymder, diogelwch a phreifatrwydd ar awtobeilot.
 upgrade-dialog-default-primary-button-2 = Ei wneud eich prif borwr
@@ -72,10 +60,6 @@ upgrade-dialog-default-secondary-button = Nid nawr
 
 ## Theme selection screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title =
-    Dechrau'n lân
-    gyda thema wedi'i diweddaru
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title-2 = Dechrau'n lân gyda thema newydd sgleiniog
 upgrade-dialog-theme-system = Thema'r system

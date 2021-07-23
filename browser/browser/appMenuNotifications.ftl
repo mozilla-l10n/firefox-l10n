@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Nid Nawr
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Ar ôl ailgychwyn cyflym, bydd { -brand-shorter-name } yn adfer eich tabiau a ffenestri agored sydd ddim yn y modd Pori Preifat.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Iawn, rwy'n deall
+    .buttonaccesskey = I
+appmenu-addon-post-install-message = Rheolwch eich ychwanegion drwy glicio <image data-l10n-name='addon-install-icon'></image> yn newislen <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Diweddariad ar gael
     .buttonlabel = Llwytho i lawr
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Nid Nawr
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Mae diweddariad newydd { -brand-shorter-name } ar gael, ond nid oes modd ei osod oherwydd bod copi arall o { -brand-shorter-name } yn rhedeg. Caewch ef i barhau â'r diweddariad, neu dewiswch ei ddiweddaru beth bynnag (efallai na fydd y copi arall yn gweithio'n iawn nes i chi ei ailgychwyn).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Iawn, rwy'n deall
-    .buttonaccesskey = I
-appmenu-addon-post-install-message = Rheolwch eich ychwanegion drwy glicio <image data-l10n-name='addon-install-icon'></image> yn newislen <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Iawn
     .buttonaccesskey = I
-appmenu-addon-post-install-message2 = Rheolwch eich estyniadau a'ch themâu trwy'r ddewislen apiau.
 appmenu-addon-post-install-message3 = Rheolwch eich estyniadau a'ch themâu trwy'r ddewislen apiau.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Caniatáu i'r estyniad yma redeg mewn Ffenestri Preifat
     .accesskey = C
+    
 appmenu-new-tab-controlled =
     .label = Mae eich Tab Newydd wedi newid.
     .buttonlabel = Cadw Newidiadau
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = C
     .secondarybuttonlabel = Analluogi'r Estyniad
     .secondarybuttonaccesskey = A
+
 appmenu-new-tab-controlled-changes =
     .label = Mae eich tab newydd wedi newid.
     .buttonlabel = Cadw'r Newidiadau

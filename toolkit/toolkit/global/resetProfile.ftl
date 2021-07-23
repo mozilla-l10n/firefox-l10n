@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Adnewyddu { -brand-short-name }
+
 refresh-profile-dialog-title = Adnewyddu { -brand-short-name } i'w osodiadau rhagosodedig?
 refresh-profile-dialog-button =
     .label = Adnewyddu { -brand-short-name }

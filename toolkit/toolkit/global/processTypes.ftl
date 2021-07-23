@@ -8,22 +8,30 @@
 ##
 
 process-type-web = Cynnwys Gwe
+
 process-type-browser = Prif
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = About Breintiedig
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Cynnwys Mozilla Breintiedig
+
 process-type-extension = Estyniad
+
 # process used to open file:// URLs
 process-type-file = Ffeil Leol
+
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Dyraniad Mawr
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Cynnwys Gwe Ynysig
+
 # process preallocated; may change to other types
 process-type-prealloc = Rhagddyranwyd
 
@@ -33,11 +41,14 @@ process-type-prealloc = Rhagddyranwyd
 
 process-type-default = Prif
 process-type-tab = Tab
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to perform network operations
 process-type-socket = Soced
+
 # process used to decode media
 process-type-rdd = RDD
 

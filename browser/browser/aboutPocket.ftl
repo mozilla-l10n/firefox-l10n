@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Ychwanegu Tagiau
+
 pocket-panel-saved-error-generic = Bu gwall wrth geisio cadw i { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Mae tagiau wedi eu cyfyngu i 25 nod
 pocket-panel-saved-error-only-links = Dim ond dolenni y mae modd eu cadw

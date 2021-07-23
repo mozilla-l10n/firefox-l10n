@@ -4,6 +4,7 @@
 
 page-title = Gwybodaeth am Ddatrys Problemau
 page-subtitle = Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a allai fod yn ddefnyddiol pan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynau cyffredin am { -brand-short-name }, edrychwch ar ein <a data-l10n-name="support-link">gwefan cefnogaeth</a>.
+
 crashes-title = Ardroddiad Chwalu
 crashes-id = Enw'r Adroddiad
 crashes-send-date = Cyflwynwyd
@@ -131,6 +132,7 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Ymresymiadau
 safe-mode-title = Defnyddiwch y Modd Diogel
 restart-in-safe-mode-label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…
+
 troubleshoot-mode-title = Datrys materion
 restart-in-troubleshoot-mode-label = Y Modd Datrys Problemau…
 clear-startup-cache-title = Ceisiwch glirio'r storfa gychwyn
@@ -218,6 +220,7 @@ support-third-party-modules-down-icon =
     .title = Dangos gwybodaeth fanwl
 support-third-party-modules-up-icon =
     .title = Cau gwybodaeth fanwl
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -229,6 +232,7 @@ report-crash-for-days =
         [many] Adroddiadau chwalu'r { $days } Diwrnod Diwethaf
        *[other] Adroddiadau chwalu'r { $days } Diwrnod Diwethaf
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -240,6 +244,7 @@ crashes-time-minutes =
         [many] { $minutes } munud yn ôl
        *[other] { $minutes } munud yn ôl
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -251,6 +256,7 @@ crashes-time-hours =
         [many] { $hours } awr yn ôl
        *[other] { $hours } awr yn ôl
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -262,6 +268,7 @@ crashes-time-days =
         [many] { $days } diwrnod yn ôl
        *[other] { $days } diwrnod yn ôl
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -273,6 +280,7 @@ pending-reports =
         [many] Pob Adroddiad Chwalu (gan gynnwys { $reports } chwalfa disgwyliedig o fewn ystod penodol o amser)
        *[other] Pob Adroddiad Chwalu (gan gynnwys { $reports } chwalfa disgwyliedig o fewn ystod penodol o amser)
     }
+
 raw-data-copied = Copïwyd data bras i'r clipfwrdd
 text-copied = Copïwyd testun i'r clipfwrdd
 
@@ -285,9 +293,11 @@ blocked-mismatched-version = Rhwystro ar gyfer gwrthdaro fersiwn gyrrwr graffig 
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Wedi ei rwystro ar gyfer eich gyrrwr graffigol chi. Ceisiwch ddiweddaru'r gyrrwr i fersiwn { $driverVersion } neu ddiweddarach.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paramedrau ClearType
+
 compositing = Cyfosod
 hardware-h264 = Dadgodio Caledwedd H264
 main-thread-no-omtc = prif drywydd, dim OMTC
@@ -302,6 +312,7 @@ virtual-monitor-disp = Dangosiad Monitor Rhithwir
 
 found = Wedi Canfod
 missing = Coll
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Disgrifiad
@@ -325,20 +336,25 @@ webgl2-version = Fersiwn Gyrrwr WebGL 2
 webgl2-driver-extensions = Estyniadau Gyrrwr WebGL 2
 webgl2-extensions = Estyniadau WebGL 2
 blocklisted-bug = Wedi eu rhwystro ar sail gwybodaeth hysbys
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = gwall { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Ar y Rhestr Rhwystro oherwydd materion hysbys: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Wedi ei rwystro; gwall cod { $failureCode }
+
 d3d11layers-crash-guard = Cyfosodwr D3D11
 d3d11video-crash-guard = Dadgodiwr Fideo D3D11
 d3d9video-crash-guard = Dadgodiwr Fideo D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Dadgodiwr Fideo WMF VPX
+
 reset-on-next-restart = Ailosod wrth Ailgychwyn
 gpu-process-kill-button = Gorffen Proses GPU
 gpu-device-reset = Ailosod Dyfais
@@ -348,8 +364,10 @@ content-uses-tiling = Yn Defnyddio Teilsio (Cynnwys)
 off-main-thread-paint-enabled = Galluogwyd Paentio All Brif Drywydd
 off-main-thread-paint-worker-count = Cyfrif Gweithiwr Paentio Oddi ar y Brif Drywydd
 target-frame-rate = Graddfa Ffrâm Darged
+
 min-lib-versions = Fersiwn lleiaf disgwyliedig
 loaded-lib-versions = Fersiwn mewn defnydd
+
 has-seccomp-bpf = Seccomp-BPF (Hidlo Galw System)
 has-seccomp-tsync = Cydweddiad Edafedd Seccomp
 has-user-namespaces = Bylchau Enwau Defnyddiwr
@@ -363,15 +381,18 @@ sandbox-proc-type-content = cynnwys
 sandbox-proc-type-file = cynnwys ffeil
 sandbox-proc-type-media-plugin = ategyn cyfrwng
 sandbox-proc-type-data-decoder = datgodydd data
+
 startup-cache-title = Storfa cychwyn
 startup-cache-disk-cache-path = Llwybr Storfa Disg
 startup-cache-ignore-disk-cache = Anwybyddu Storfa Disg
 startup-cache-found-disk-cache-on-init = Wedi dod o hyd i Storfa Disg ar Init
 startup-cache-wrote-to-disk-cache = Ysgrifennwyd at Storfa Disg
+
 launcher-process-status-0 = Galluogwyd
 launcher-process-status-1 = Analluogwyd oherwydd methiant
 launcher-process-status-2 = Analluogwyd yn orfodol
 launcher-process-status-unknown = Statws anhysbys
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -384,6 +405,7 @@ multi-process-status-6 = Analluogwyd gan fewnbwn testun heb ei gynnal
 multi-process-status-7 = Analluogwyd gan ychwanegion
 multi-process-status-8 = Analluogi gorfodol
 multi-process-status-unknown = Statws anhysbys
+
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -398,7 +420,9 @@ fission-status-disabled-by-default = Analluogwyd drwy ragosodiad
 fission-status-enabled-by-user-pref = Galluogwyd gan y defnyddiwr
 fission-status-disabled-by-user-pref = Analluogwyd gan y defnyddiwr
 fission-status-disabled-by-e10s-other = E10s wedi ei analluogi
+
 fission-status-enabled-by-rollout = Wedi'i alluogi trwy ei gyflwyno fesul cam
+
 async-pan-zoom = Chwyddo a Thremio Anghydamseredig
 apz-none = dim
 wheel-enabled = mewnbwn olwyn wedi ei alluogi
@@ -435,6 +459,7 @@ support-remote-experiments-title = Arbrofion Pell
 support-remote-experiments-name = Enw
 support-remote-experiments-branch = Cangen Arbrofi
 support-remote-experiments-see-about-studies = Gweler <a data-l10n-name="support-about-studies-link">about:studies</a> i gael mwy o wybodaeth, gan gynnwys sut i analluogi arbrofion unigol neu i analluogi { -brand-short-name } rhag rhedeg y math yma o arbrawf yn y dyfodol.
+
 support-remote-features-title = Nodweddion Pell
 support-remote-features-name = Enw
 support-remote-features-status = Statws

@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Agor y ddewislen">
+
 <!ENTITY navbarOverflow.label                "Rhagor o offer…">
 
 <!-- Tab context menu -->
@@ -51,6 +52,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Gosodiadau &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Cysylltu Dyfais Arall…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 <!ENTITY fxa.menu.signin.label "Mewngofnodi i &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Troi &syncBrand.shortName.label; ymlaen">
 <!ENTITY fxa.menu.firefoxServices.label "Gwasanaethau &brandProductName;">
@@ -139,19 +141,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Hanes">
+
 <!ENTITY historyUndoMenu.label "Tabiau Wedi eu Cau'n Ddiweddar">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ffenestri wedi eu Cau yn Ddiweddar">
 
 <!ENTITY appMenuHistory.showAll.label "Dangos yr Holl Hanes">
+
 <!ENTITY appMenuHistory.clearRecent.label "Clirio Hanes Diweddar…">
 <!ENTITY appMenuHistory.restoreSession.label "Adfer y Sesiwn Flaenorol">
 <!ENTITY appMenuHistory.viewSidebar.label "Gweld Bar Ochr Hanes">
 <!ENTITY appMenuHistory.hideSidebar.label "Cuddio'r Bar Ochr Hanes">
 <!ENTITY appMenuHistory.recentHistory.label "Hanes Diweddar">
+
 <!ENTITY appMenuHelp.label "Cymorth">
 
 <!ENTITY appMenuRemoteTabs.label "Tabiau wedi'u Cydweddu">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Dim tabiau agored">

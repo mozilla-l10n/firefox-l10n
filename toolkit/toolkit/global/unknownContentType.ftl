@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Agor gyda { -brand-short-name }
     .accesskey = A
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
