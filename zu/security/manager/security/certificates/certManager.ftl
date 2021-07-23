@@ -143,6 +143,8 @@ cert-not-verified-issuer-unknown = Ngeke isiqinisekise lesi sitifiketi ngoba osi
 cert-not-verified-ca-invalid = Ngeke isiqinisekise lesi sitifiketi ngoba isitifiketi se-CA asisebenzi.
 cert-not-verified-unknown = Ngeke isiqinisekise lesi sitifiketi ngenxa yezizathu ezingaziwa.
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 

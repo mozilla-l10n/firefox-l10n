@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = Faka amaphutha
 opensearch-error-duplicate-desc = I-{ -brand-short-name } ayikwazanga ukufaka okuxhunyaniswayo kusesho kusuka ku "{ $location-url }" ngokuba i-enjini yegama elifanayo seyikhona.
+
 opensearch-error-download-title = Iphutha Lokuthatha Ukwaziswa Ukufake
 opensearch-error-download-desc = I-{ -brand-short-name } ayikwazanga ukulayisha ingenise okufakwayo kusuka ku:: { $location-url }
 

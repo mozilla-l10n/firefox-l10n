@@ -7,4 +7,5 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Qala kunkambiso evikelekile
+
 safe-mode-description = Inkambiso evikelekile iyindlela ekhethekile ye-{ -brand-short-name } engasetshenziswa ekulungiseni izinkinga.
