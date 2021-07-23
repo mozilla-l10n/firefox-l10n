@@ -486,6 +486,7 @@ home-prefs-topsites-description = നിങ്ങൾ കൂടുതൽ സന�
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } ശുപാർശ ചെയ്തത്
+
 ##
 
 home-prefs-recommended-by-learn-more = ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നു
@@ -562,6 +563,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = പരിഗണനകള്‍
+
 containers-remove-button =
     .label = നീക്കുക
 

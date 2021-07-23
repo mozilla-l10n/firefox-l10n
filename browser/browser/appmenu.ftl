@@ -23,6 +23,7 @@ appmenuitem-zoom-enlarge =
     .label = വലുതാക്കുക
 appmenuitem-zoom-reduce =
     .label = ചെറുതാക്കുക
+
 appmenuitem-fullscreen =
     .label = സ്കീന്‍ പൂര്‍ണ്ണ വലിപ്പത്തില്‍
 
@@ -30,6 +31,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = സമന്വയിപ്പിക്കുക
+
 appmenuitem-save-page =
     .label = താള്‍ ഇങ്ങനെ സൂക്ഷിക്കുക
 

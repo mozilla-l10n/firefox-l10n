@@ -31,6 +31,11 @@ abuse-report-submit-button = സമര്‍പ്പിയ്ക്കുക
 ##   $addon-name (string) - Name of the add-on
 
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 ## Message bars actions.
 
 abuse-report-messagebar-action-remove-extension = അതെ, ഇത് നീക്കംചെയ്യുക

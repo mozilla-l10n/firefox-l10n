@@ -14,3 +14,4 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = ഇച്ഛാനുസൃതമാക്കുക...
     .accesskey = C
+

@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = തിരയുക
 
 newtab-search-box-search-the-web-text = ഇൻറർനെറ്റിൽ തിരയുക
+
 newtab-search-box-search-the-web-input =
     .placeholder = ഇൻറർനെറ്റിൽ തിരയുക
     .title = ഇൻറർനെറ്റിൽ തിരയുക
@@ -52,6 +53,8 @@ newtab-topsites-add-button = ചേർക്കൂ
 newtab-confirm-delete-history-p1 = നിങ്ങളുടെ നാള്‍വഴിയിൽ നിന്ന് ഈ പേജിന്റെ എല്ലാ ഉദാഹരണങ്ങളും ഇല്ലാതാക്കാൻ നിങ്ങൾ താൽപ്പര്യപ്പെടുന്നുവെന്ന് തീർച്ചയാണോ?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ഈ പ്രവർത്തനം പഴയപടിയാക്കാനാവില്ല.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -170,3 +173,6 @@ newtab-pocket-cta-button = { -pocket-brand-name } ലഭ്യമാക്കു
 
 newtab-error-fallback-info = ക്ഷമിക്കണം, ഈ ഉള്ളടക്കം ലോഡുചെയ്ത്പ്പൊള്‍ എന്തോ കുഴപ്പം സംഭവിച്ചു.
 newtab-error-fallback-refresh-link = വീണ്ടും ശ്രമിക്കുന്നതിന് പേജ് പുതുക്കുക.
+
+## Customization Menu
+

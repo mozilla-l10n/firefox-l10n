@@ -152,3 +152,7 @@ cfr-doorhanger-send-tab-header = എവിടെയായിരുന്നാ�
 
 ## What's new: Cookies message
 
+## Fission Experiment Message
+
+## Full Video Support CFR message
+

@@ -126,6 +126,8 @@ security-site-data-only = അതെ, സൈറ്റ് ഡാറ്റയുട
 security-site-data-cookies-only = അതെ, കുക്കികൾ
 security-site-data-no = അല്ല
 
+##
+
 image-size-unknown = അറിയില്ലാത്തത്‌
 page-info-not-specified =
     .value = വ്യക്തമാക്കിയിട്ടില്ല

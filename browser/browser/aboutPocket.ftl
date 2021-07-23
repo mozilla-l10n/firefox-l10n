@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ടാഗുകള്‍ ചേര്‍ക്കുക
+
 pocket-panel-saved-error-generic = 'പോക്കറ്റ്' ലേക്ക് സംരക്ഷിക്കാൻ ശ്രമിക്കുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു.
 pocket-panel-saved-error-tag-length = ടാഗുകള്‍ 25 അക്ഷരങ്ങളിലേക്ക് പരിമിതപ്പെടുത്തിയിരിക്കുന്നു
 pocket-panel-saved-error-only-links = കണ്ണികള്‍ മാത്രമേ സൂക്ഷിക്കാന്‍ പറ്റു

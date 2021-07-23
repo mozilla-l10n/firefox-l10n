@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "മെനു തുറക്കുക">
+
 <!ENTITY navbarOverflow.label                "കൂടുതല്‍ പ്രയോഗങ്ങള്‍...">
 
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
@@ -147,18 +148,22 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "നാള്‍വഴി">
+
 <!ENTITY historyUndoMenu.label "അടുത്തിടെ അടച്ച റ്റാബുകള്‍">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "അടുത്തിടെ അടച്ച ജാലകങ്ങള്‍">
 
 <!ENTITY appMenuHistory.showAll.label "ഇതുവരെയുള്ള നാള്‍വഴി കാണിക്കുക">
+
 <!ENTITY appMenuHistory.clearRecent.label "ഏറ്റവും പുതിയ നാള്‍വഴി വെടിപ്പാക്കുക…">
 <!ENTITY appMenuHistory.restoreSession.label "മുമ്പുള്ള സെഷന്‍ വീണ്ടെടുക്കുക">
 <!ENTITY appMenuHistory.viewSidebar.label "നാള്‍വഴി സൈഡ്ബാര്‍ കാണുക.">
 <!ENTITY appMenuHistory.recentHistory.label "സമീപകാല ചരിത്രം">
+
 <!ENTITY appMenuHelp.label "സഹായം">
 
 <!ENTITY appMenuRemoteTabs.label "സിന്‍കായ ടാബുകള്‍">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "ടാബൊന്നും തുറന്നിരിക്കുന്നില്ല">

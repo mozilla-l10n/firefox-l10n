@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ശരി, മനസ്സിലായി
     .buttonaccesskey = O
 appmenu-addon-post-install-message = നിങ്ങളുടെ ആഡ്-ഓണുകൾ കൈകാര്യം ചെയ്യാന്‍ <Image data-l10n-name = 'addon-menu-icon-> </ image> മെനുവിൽ <image data-l10n-name =' addon-install-icon-> </ image> -ൽ ക്ലിക്കുചെയ്യുക,
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = സ്വകാര്യ വിൻഡോസിൽ പ്രവർത്തിക്കുന്നതിന് ഈ എക്സ്റ്റന്‍ഷനെ അനുവദിക്കുക
     .accesskey = A

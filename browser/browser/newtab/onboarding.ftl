@@ -17,6 +17,12 @@ onboarding-button-label-get-started = ആരംഭിക്കുക
 
 ## Welcome modal dialog strings
 
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+## Welcome page strings
+
 onboarding-welcome-header = { -brand-short-name } ലേക്ക് സ്വാഗതം
 onboarding-welcome-body = നിങ്ങൾക്ക് ബ്രൌസർ ലഭിച്ചു. <br/> ബാക്കി { -brand-product-name } പരിചയപ്പെടുക
 onboarding-welcome-learn-more = ആനുകൂല്യങ്ങളെക്കുറിച്ച് കൂടുതൽ അറിയുക.
@@ -32,13 +38,6 @@ onboarding-start-browsing-button-label = ബ്രൗസിംഗ് ആരം�
 onboarding-cards-dismiss =
     .title = പുറത്താക്കുക
     .aria-label = പുറത്താക്കുക
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
 
 ## Welcome full page string
 
@@ -107,3 +106,31 @@ return-to-amo-sub-header = അടിപൊളി, നിങ്ങൾക്ക്
 
 return-to-amo-extension-button = വിപുലീകരണം ചേർക്കുക
 return-to-amo-get-started-button = { -brand-short-name } ഉപയോഗിച്ചു് തുടങ്ങാം
+
+## Custom Return To AMO onboarding strings
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
+## Title and primary button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
