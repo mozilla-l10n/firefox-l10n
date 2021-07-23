@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = មានបច្ចុប្បន្នភាព — ទាញយក​ឥឡូវនេះ
     .label-update-unsupported = មិន​អាច​ធ្វើបច្ចុប្បន្នភាពបានទេ — ប្រព័ន្ធ​មិន​ត្រូវគ្នា
     .label-update-restart = មានបច្ចុប្បន្នភាព — ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ
+
 appmenuitem-protection-dashboard-title = ការពារផ្ទាំងព័ត៌មាន
 appmenuitem-customize-mode =
     .label = ប្ដូរ​តាម​តម្រូវ​ការ…
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = បឹទមុីនុយកម្មវិធី
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = ពង្រីក
 appmenuitem-zoom-reduce =
     .label = បង្រួម
+
 appmenuitem-fullscreen =
     .label = អេក្រង់​ពេញ
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ធ្វើ​សមកាលកម្ម​ឥឡូវ
+
 appmenu-remote-tabs-sign-into-sync =
     .label = ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម…
 appmenu-remote-tabs-turn-on-sync =
     .label = បើកសមកាលកម្ម...
+
 appmenuitem-fxa-toolbar-sync-now2 = ធ្វើសមកាលកម្មឥឡូវនេះ
 appmenuitem-fxa-manage-account = គ្រប់គ្រង​គណនី
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = ចូល
 appmenu-fxa-setup-sync =
     .label = បើកការធ្វើសមកាលកម្ម ...
 appmenu-fxa-show-more-tabs = បង្ហាញផ្ទាំងបន្ថែមច្រើនទៀត
+
 appmenuitem-save-page =
     .label = រក្សា​ទុក​ទំព័រជា...
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = អ្វីដែលថ្មី
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,27 +103,38 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = បង្ហាញព័ត៌មានបន្ថែម
+
 profiler-popup-description-title =
     .value = កាត់ត្រា វិភាគ ចែករំលែក
+
 profiler-popup-learn-more = ស្វែងយល់បន្ថែម
+
 profiler-popup-settings =
     .value = ការកំណត់
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = កែសម្រួួលការកំណត់…
+
 profiler-popup-recording-screen = កំពុងថត …
+
 profiler-popup-start-recording-button =
     .label = ចាប់ផ្ដើមថត
+
 profiler-popup-discard-button =
     .label = បោះបង់
+
 profiler-popup-capture-button =
     .label = ចាប់យក
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -129,6 +147,7 @@ appmenu-manage-history =
     .label = គ្រប់គ្រងប្រវត្តិ
 appmenu-reopen-all-tabs = ស្ដារផ្ទាំងទាំងអស់ម្ដងទៀត
 appmenu-reopen-all-windows = ស្ដារផ្ទាំងបង្អួចទាំងអស់
+
 appmenu-restore-session =
     .label = ស្ដារ​សម័យ​មុន
 appmenu-clear-history =
@@ -173,4 +192,5 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = កម្មវិធី​គ្រប់គ្រង​ភារកិច្ច
+
 appmenu-developer-tools-subheader = របារឧបករណ៍កម្មវិធីស្វែងរុករក

@@ -5,9 +5,7 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = បញ្ចប់​ការរៀបចំ​គណនី
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-reconnect-to-fxa = គណនី​ត្រូវបាន​ផ្ដាច់
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = គណនីត្រូវបានផ្តាច់

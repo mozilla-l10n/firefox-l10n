@@ -5,10 +5,13 @@
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = ថ្ងៃនេះ
-social-tab-title = អ្នកតាមដានប្រព័ន្ធបណ្ដាញសង្គម
-tracker-tab-title = កំពុងតាមដានខ្លឹមសារ
-fingerprinter-tab-title = ស្នាម​ម្រាមដៃ
 
+social-tab-title = អ្នកតាមដានប្រព័ន្ធបណ្ដាញសង្គម
+
+tracker-tab-title = កំពុងតាមដានខ្លឹមសារ
+
+fingerprinter-tab-title = ស្នាម​ម្រាមដៃ
+  
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
 ##

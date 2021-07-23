@@ -21,8 +21,10 @@ about-private-browsing-handoff-text = ស្វែងរក​ជាមួយ { 
 about-private-browsing-handoff-text-no-engine = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
 about-private-browsing-not-private = បច្ចុប្បន្ន​អ្នក​មិន​នៅ​ក្នុង​បង្អួច​ឯកជន​ទេ។
 about-private-browsing-info-description = { -brand-short-name } សម្អាត​ការស្វែងរក​ និង​ប្រវត្តិ​រុករក​របស់អ្នកនៅពេល​អ្នក​បិទ​កម្មវិធី ឬ​បិទ​ផ្ទាំង និង​បង្អួច​​រុករក​ឯកជនទាំងអស់។ នៅពេល​វាមិន​ធ្វើឱ្យ​អ្នក​ជាអនាមិក​ចំពោះ​គេហទំព័រ ឬ​ក្រុមហ៊ុន​សេវាកម្ម​អ៊ីនធឺណិត​របស់អ្នក​ទេ វា​ពិត​ជា​ងាយស្រួល​ក្នុងការរក្សា​អ្វីដែល​អ្នក​ធ្វើ​នៅលើ​អ៊ីនធឺណិត​ជាឯកជន​ពី​អ្នក​ណា​ម្នាក់​ផ្សេងទៀត​ដែល​ប្រើប្រាស់​កុំព្យូទ័រ​នេះ។
+
 about-private-browsing-need-more-privacy = ត្រូវការឯកជនភាព​បន្ថែមទៀត?
 about-private-browsing-turn-on-vpn = សាកល្បង { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

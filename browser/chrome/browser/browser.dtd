@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "បើកម៉ឺនុយ">
+
 <!ENTITY navbarOverflow.label                "ឧបករណ៍ច្រើនទៀត…">
 
 <!-- Tab context menu -->
@@ -140,18 +141,22 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "ប្រវត្តិ">
+
 <!ENTITY historyUndoMenu.label "ផ្ទាំង​ដែល​បិទ​ថ្មីៗ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "បង្អួច​ដែល​បាន​បិទ​ថ្មីៗ">
 
 <!ENTITY appMenuHistory.showAll.label "បង្ហាញ​ប្រវត្តិ​ទាំងអស់">
+
 <!ENTITY appMenuHistory.clearRecent.label "សម្អាត​ប្រវត្តិ​ថ្មីៗ…">
 <!ENTITY appMenuHistory.restoreSession.label "ស្ដារ​សម័យ​មុន">
 <!ENTITY appMenuHistory.viewSidebar.label "មើល​របារ​ចំហៀង​ប្រវត្តិ">
 <!ENTITY appMenuHistory.recentHistory.label "ប្រវត្តិ​ថ្មីៗ">
+
 <!ENTITY appMenuHelp.label "ជំនួយ">
 
 <!ENTITY appMenuRemoteTabs.label "ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "គ្មានផ្ទាំងបើកទេ">

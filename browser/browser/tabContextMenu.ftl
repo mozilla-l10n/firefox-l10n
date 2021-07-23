@@ -51,8 +51,6 @@ move-to-new-window =
     .label = ផ្លាស់ទី​ទៅកាន់​បង្អួច​ថ្មី
     .accesskey = W
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = បិទ​​ផ្ទាំង
     .accesskey = c
@@ -65,3 +63,7 @@ move-tabs =
 move-tab =
     .label = ផ្លាស់ទី​ផ្ទាំង
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

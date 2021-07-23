@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = បន្ថែម​ស្លាក
+
 pocket-panel-saved-error-generic = មាន​កំហុស ពេល​ព្យាយាម​រក្សាទុក​ទៅ​កាន់​ { -pocket-brand-name }។
 pocket-panel-saved-error-tag-length = ស្លាក​ត្រូវ​បាន​កំណត់​ត្រឹមតែ 25 តួ​អក្សរ
 pocket-panel-saved-error-only-links = អាច​រក្សាទុក​បាន​តែ​តំណភ្ជាប់​ប៉ុណ្ណោះ

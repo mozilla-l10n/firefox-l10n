@@ -77,6 +77,8 @@ permissions-exceptions-cookie-window =
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = អ្នក​អាច​បញ្ជាក់​តំបន់បណ្ដាញ​ណាមួយ​ដែល​តែងតែ ឬ​មិន​ដែល​អនុញ្ញាត​ឲ្យ​ប្រើ​ខូគី​និងទិន្នន័យសាយទាំងនេះ ។  វាយ​អាសយដ្ឋាន​ជាក់លាក់​របស់​តំបន់បណ្ដាញ​ដែល​អ្នក​ចង់​គ្រប់គ្រង បន្ទាប់មក​ចុច​ទប់ស្កាត់ អនុញ្ញាត​សម្រាប់​សម័យ ឬ​អនុញ្ញាត ។
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =

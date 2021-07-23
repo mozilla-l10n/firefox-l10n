@@ -150,3 +150,7 @@ touch-warning = បាន​បិទ​ការ​បញ្ចូល​ដោ�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

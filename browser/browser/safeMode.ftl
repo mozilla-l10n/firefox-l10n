@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = ចាប់ផ្ដើម​ក្នុង​របៀប​សុវត្ថិភាព
+
 refresh-profile =
     .label = ផ្ទុក { -brand-short-name } ឡើង​វិញ
 safe-mode-description = របៀប​សុវត្ថិភាព​គឺជា​របៀប​ពិសេស​មួយ​របស់ { -brand-short-name } ដែល​ត្រូវ​បាន​ប្រើ​ដើម្បី​ដោះស្រាយ​បញ្ហា ។

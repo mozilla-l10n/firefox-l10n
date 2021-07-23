@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ខាង​ក្នុង
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = រក្សា​ទុក about:webrtc ជា
@@ -47,13 +48,7 @@ about-webrtc-ice-state = សភាព ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = សភាព ICE
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -63,13 +58,16 @@ about-webrtc-ice-stats-heading = សភាព ICE
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = បាន​ជ្រើស​តាំង
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = បាន​ជ្រើស
+
 about-webrtc-save-page-label = រក្សាទុក​ទំព័រ
 about-webrtc-debug-mode-msg-label = របៀប​កែ​កំហុស
 about-webrtc-debug-mode-off-state-label = ចាប់ផ្ដើម​របៀប​កែ​កំហុស
@@ -93,6 +91,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (បា�
 
 ##
 
+
 about-webrtc-local-candidate = បេក្ខជន​ក្នុង​ស្រុក
 about-webrtc-remote-candidate = បេក្ខជន​ដែល​នៅ​ឆ្ងាយ​
 about-webrtc-priority = អាទិភាព
@@ -108,7 +107,6 @@ about-webrtc-encoder-label = កម្ម​វិធី​អុីន​កូ
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -118,6 +116,8 @@ about-webrtc-save-page-msg = បាន​រក្សា​​ទុក​ទំ
 about-webrtc-debug-mode-off-state-msg = កំណត់​ហេតុ​នៃ​ការ​តាម​ដាន​អាច​រក​បាន​នៅ៖ { $path }
 about-webrtc-debug-mode-on-state-msg = របៀប​កែ​កំហុស​សកម្ម កត់​ត្រា​កំណត់​ហេតុ​នៅ៖ { $path }
 about-webrtc-aec-logging-off-state-msg = ឯកសារ​កំណត់​ហេតុ​ដែល​បាន​ថត​ អាច​រក​បាន​នៅ​ក្នុង៖ { $path }
+
+##
 
 ##
 
@@ -132,4 +132,7 @@ about-webrtc-jitter-label = ម៉ឺងម៉ាត់ { $jitter }
 
 
 ##
+
+##
+
 
