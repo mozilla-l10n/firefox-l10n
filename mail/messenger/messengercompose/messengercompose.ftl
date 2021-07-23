@@ -8,9 +8,6 @@
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Elimina il campo { $type }
 #   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Elimina il campo { $type }
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Elimina il campo { $type }
 #   $type (String) - the type of the addressing row
@@ -170,3 +167,11 @@ many-public-recipients-ignore =
 compose-missing-identity-warning = Non è stata trovata un’identità univoca che corrisponde all’indirizzo Da. Il messaggio verrà inviato utilizzando il campo Da e le impostazioni correnti dall’identità { $identity }.
 encrypted-bcc-warning = Quando si invia un messaggio crittato, i destinatari in Ccn non sono completamente nascosti. Tutti i destinatari possono essere in grado di identificarli.
 encrypted-bcc-ignore-button = Ho capito
+
+## Editing
+
+
+# Tools
+
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Rimuovi stili di testo
