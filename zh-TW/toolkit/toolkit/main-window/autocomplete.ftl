@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">從 { $browser } 匯入</div>
     <div data-l10n-name="line2">{ $host } 與其他網站的登入資訊</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = 了解更多
 

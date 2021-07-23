@@ -5,10 +5,10 @@
 places-open =
     .label = 開啟
     .accesskey = O
-places-open-in-tab =
+places-open-tab =
     .label = 用新分頁開啟
     .accesskey = w
-places-open-tab =
+places-open-in-tab =
     .label = 用新分頁開啟
     .accesskey = w
 places-open-all-bookmarks =
@@ -20,15 +20,10 @@ places-open-all-in-tabs =
 places-open-window =
     .label = 用新視窗開啟
     .accesskey = n
-places-open-in-window =
-    .label = 用新視窗開啟
-    .accesskey = N
 places-open-private-window =
     .label = 用新隱私視窗開啟
     .accesskey = P
-places-open-in-private-window =
-    .label = 用新隱私視窗開啟
-    .accesskey = P
+
 places-new-bookmark =
     .label = 新增書籤…
     .accesskey = B
@@ -41,6 +36,14 @@ places-new-folder =
 places-new-separator =
     .label = 新增分隔線
     .accesskey = S
+
+places-open-in-window =
+    .label = 用新視窗開啟
+    .accesskey = N
+places-open-in-private-window =
+    .label = 用新隱私視窗開啟
+    .accesskey = P
+
 places-add-bookmark =
     .label = 新增書籤…
     .accesskey = B
@@ -53,6 +56,7 @@ places-add-folder =
 places-add-separator =
     .label = 新增分隔線
     .accesskey = S
+
 places-view =
     .label = 檢視
     .accesskey = w
@@ -71,10 +75,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = 依日期及網站
     .accesskey = t
+
 places-history-search =
     .placeholder = 搜尋紀錄
 places-bookmarks-search =
     .placeholder = 搜尋書籤
+
 places-delete-domain-data =
     .label = 刪除與此網站有關的記錄
     .accesskey = F
@@ -84,6 +90,7 @@ places-sortby-name =
 places-properties =
     .label = 屬性
     .accesskey = i
+
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = 編輯書籤…
@@ -101,15 +108,18 @@ places-remove-folder =
            *[other] 移除資料夾
         }
     .accesskey = m
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = 受管理的書籤
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = 子資料夾
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = 其他書籤
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -119,6 +129,7 @@ places-remove-bookmark =
            *[other] 移除 { $count } 筆書籤
         }
     .accesskey = e
+
 places-manage-bookmarks =
     .label = 管理書籤
     .accesskey = M

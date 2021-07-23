@@ -41,6 +41,7 @@ compatibility-issue-occurrences =
     { $number ->
        *[other] 發生 { $number } 次
     }
+
 compatibility-no-issues-found = 找不到相容性問題。
 compatibility-close-settings-button =
     .title = 關閉設定

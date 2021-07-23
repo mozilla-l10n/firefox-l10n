@@ -55,9 +55,11 @@ import =
 close-button =
     .label = 關閉
     .accesskey = C
+
 password-close-button =
     .label = 關閉
     .accesskey = C
+
 show-passwords =
     .label = 顯示密碼
     .accesskey = P
@@ -80,10 +82,12 @@ no-master-password-prompt = 您確定要顯示密碼嗎？
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = 確認您的身分以顯示儲存的網站密碼。
+
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = 顯示儲存的網站密碼
+
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }

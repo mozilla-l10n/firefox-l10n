@@ -144,6 +144,7 @@
 
 <!ENTITY helpForIEUsers.label               "給 IE 使用者">
 <!ENTITY helpForIEUsers.accesskey           "I">
+
 <!ENTITY helpTroubleshootingInfo.label      "疑難排解資訊">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 <!ENTITY releaseCmd.label                   "發行公告">

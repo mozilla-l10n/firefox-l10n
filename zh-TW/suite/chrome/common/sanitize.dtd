@@ -61,9 +61,9 @@
 <!ENTITY itemSessions.label               "已驗證的連線">
 <!ENTITY itemSessions.accesskey           "S">
 
+<!ENTITY sanitizeButton.label            "立刻清除私密記錄">
 <!ENTITY itemSessionsS.accesskey          "u">
 
-<!ENTITY sanitizeButton.label            "立刻清除私密記錄">
 <!ENTITY itemSitePreferences.label        "個別網站設定">
 <!ENTITY itemSitePreferences.accesskey    "P">
 <!ENTITY itemSitePreferencesS.accesskey   "t">
