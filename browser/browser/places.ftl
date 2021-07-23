@@ -53,3 +53,4 @@ places-sortby-name =
 places-properties =
     .label = Шинж чанар
     .accesskey = и
+

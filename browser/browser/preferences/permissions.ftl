@@ -47,6 +47,8 @@ permissions-invalid-uri-label = Зөв компьютерийн нэр оруу�
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 

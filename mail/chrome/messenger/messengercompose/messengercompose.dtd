@@ -172,6 +172,7 @@
 <!ENTITY pasteButton.tooltip            "Санамж буулга">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "э"> 
 <!ENTITY subject.accesskey "ч">
 
