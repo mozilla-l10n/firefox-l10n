@@ -39,6 +39,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = S
     .secondarybuttonlabel = Nyahdayakan Ekstensi
     .secondarybuttonaccesskey = N
+
 appmenu-tab-hide-controlled =
     .label = Akses Tab Tersorok Anda
     .buttonlabel = Terus Sorok Tab

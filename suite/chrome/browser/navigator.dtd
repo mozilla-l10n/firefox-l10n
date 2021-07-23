@@ -58,8 +58,6 @@
 <!ENTITY printButton.label            "Cetak">
 <!ENTITY printButton.tooltip          "Cetak halaman ini">
 
-<!ENTITY throbber.tooltip             "Pergi ke laman &vendorShortName;">
-
 <!ENTITY locationBar.tooltip          "Masukkan terma carian, kata kunci atau alamat web">
 <!ENTITY locationBar.accesskey        "i">
 <!ENTITY locationBar.title            "Lokasi">

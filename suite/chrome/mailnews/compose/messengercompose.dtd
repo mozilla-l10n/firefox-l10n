@@ -45,6 +45,7 @@
 <!ENTITY editRewrapCmd.label "Balut semula">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "l">
+
 <!ENTITY accountManagerCmd.label "Tetapan Akaun Mel &amp; Kumpulan berita…">
 <!ENTITY accountManagerCmd.accesskey "m">
 

@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Cari
 
 newtab-search-box-search-the-web-text = Cari dalam Web
+
 newtab-search-box-search-the-web-input =
     .placeholder = Cari dalam Web
     .title = Cari dalam Web
@@ -55,6 +56,8 @@ newtab-topsites-add-button = Tambah
 newtab-confirm-delete-history-p1 = Adakah anda pasti mahu membuang setiap contoh halaman ini daripada sejarah anda?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Tindakan ini tidak boleh dibatalkan.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -179,3 +182,6 @@ newtab-pocket-cta-text = Simpan cerita yang anda suka dalam { -pocket-brand-name
 
 newtab-error-fallback-info = Ooops, ada kesilapan memuatkan kandungan ini.
 newtab-error-fallback-refresh-link = Muat semula halaman untuk cuba lagi.
+
+## Customization Menu
+

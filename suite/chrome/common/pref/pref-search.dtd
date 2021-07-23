@@ -19,5 +19,3 @@
 <!ENTITY openInTab.accesskey              "n">
 <!ENTITY openContextSearchTab.label       "Buka tab, bukan tetingkap untuk carian web menu konteks">
 <!ENTITY openContextSearchTab.accesskey   "t">
-<!ENTITY openSidebarSearchPanel.label     "Buka tab Carian dalam bar sisi apabila carian dibatalkan">
-<!ENTITY openSidebarSearchPanel.accesskey "B">

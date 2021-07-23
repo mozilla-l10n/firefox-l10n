@@ -20,10 +20,6 @@
 <!ENTITY allowContextmenuDisable.label   "Menyahdayakan atau menggantikan menu konteks">
 <!ENTITY allowHideStatusBar.label        "Menyorokkan bar status">
 
-<!ENTITY enableDrmMedia.label            "Dayakan Digital Rights Management untuk">
-<!ENTITY enableEmeForSuite.label         "Modul Dekripsi Kandungan Pihak-ketiga">
-<!ENTITY enableEmeForSuite.accesskey     "K">
-
 <!ENTITY enablePlugins.label             "Dayakan Plugin untuk">
 <!ENTITY enablePluginForSuite.label      "Suit">
 <!ENTITY enablePluginForSuite.accesskey  "u">

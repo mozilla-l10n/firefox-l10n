@@ -7,6 +7,7 @@
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Izinkan tetingkap popup dari laman web ini">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
+
 <!ENTITY openLinkCmdInTab.label       "Buka Pautan dalam Tab Baru">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Buka Pautan dalam Tetingkap Baru">
@@ -153,6 +154,7 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "B">
 <!ENTITY spellAddDictionaries.label     "Muat turun Kamus Lain…">
 <!ENTITY spellAddDictionaries.accesskey "M">
+
 <!-- Developer Tools -->
 <!ENTITY devtoolsInspect.label          "Periksa Elemen">
 <!ENTITY devtoolsInspect.accesskey      "n">

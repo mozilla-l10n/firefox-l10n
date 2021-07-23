@@ -60,16 +60,11 @@
 
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaURL              "Alamat:">
-<!ENTITY  mediaAlt              "Teks Alternatif:">
 <!ENTITY  mediaAltHeader        "Teks Alternatif">
 <!ENTITY  mediaAddress          "Alamat">
 <!ENTITY  mediaType             "Jenis">
 <!ENTITY  mediaSize             "Saiz">
 <!ENTITY  mediaCount            "Kiraan">
-<!ENTITY  mediaDimensions       "Dimensi Dinyatakan:">
-<!ENTITY  mediaPhysDimensions   "Dimensi Sebenar:">
-<!ENTITY  mediaTitle            "Tajuk:">
 <!ENTITY  mediaLongdesc         "Keterangan:">
 <!ENTITY  mediaBlockImage.accesskey "S">
 <!ENTITY  mediaSaveAs           "Simpan Sebagai…">
@@ -84,18 +79,7 @@
 
 <!ENTITY  permTab               "Keizinan">
 <!ENTITY  permTab.accesskey     "K">
-<!ENTITY  permUseDefault        "Guna Piawai">
-<!ENTITY  permAskAlways         "Sentiasa tanya">
-<!ENTITY  permAllow             "Izinkan">
-<!ENTITY  permAllowSession      "Izinkan untuk Sesi">
-<!ENTITY  permBlock             "Sekat">
 <!ENTITY  permissionsFor        "Keizinan untuk:">
-<!ENTITY  permImage             "Muatkan Imej">
-<!ENTITY  permPopup             "Buka Tetingkap Popup">
-<!ENTITY  permCookie            "Tetapkan Kuki">
-<!ENTITY  permNotifications     "Papar Notifikasi">
-<!ENTITY  permInstall           "Pasang Ekstensi atau Tema">
-<!ENTITY  permGeo               "Kongsi Lokasi">
 
 <!ENTITY  securityTab           "Keselamatan">
 <!ENTITY  securityTab.accesskey "K">

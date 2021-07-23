@@ -126,6 +126,8 @@ security-site-data-only = Ya, { $value } { $unit } data laman
 security-site-data-cookies-only = Ya, kuki
 security-site-data-no = Tidak
 
+##
+
 image-size-unknown = Tidak diketahui
 page-info-not-specified =
     .value = Tidak dinyatakan

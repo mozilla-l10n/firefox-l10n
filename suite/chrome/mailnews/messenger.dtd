@@ -47,7 +47,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "u">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Semua Akaun">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getAllNewMsgCmd.label "Dapatkan Semua Mesej Baru">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Dapatkan 500 Mesej Berita Seterusnya">
 <!ENTITY getNextNMsgCmd.accesskey "t">
@@ -402,6 +401,7 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Dptkn Msj">
+<!ENTITY getAllNewMsgCmd.label "Dapatkan Semua Mesej Baru">
 <!ENTITY newMsgButton.label "Karang">
 <!ENTITY newHTMLMessageCmd.label "Karang dalam HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
@@ -441,7 +441,6 @@
 <!ENTITY undeleteButton.tooltip "Batal buang mesej yang dipilih">
 <!ENTITY markButton.tooltip "Tandakan mesej">
 <!ENTITY stopButton.tooltip "Hentikan pemindahan semasa">
-<!ENTITY throbber.tooltip "Pergi ke laman &vendorShortName;">
 <!ENTITY junkButton.tooltip "Tandakan mesej yang dipilih sebagai mel remeh">
 <!ENTITY notJunkButton.tooltip "Tandakan mesej yang dipilih sebagai bukan mel remeh">
 

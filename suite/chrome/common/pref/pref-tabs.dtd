@@ -14,12 +14,6 @@
 <!ENTITY relatedAfterCurrent.label "Buka tab berkaitan selepas tab semasa">
 <!ENTITY relatedAfterCurrent.accesskey "b">
 
-<!ENTITY loadGroup.label "Apabila membuka kumpulan tandabuku">
-<!ENTITY loadGroupAppend.label "Tambah tab">
-<!ENTITY loadGroupAppend.accesskey "T">
-<!ENTITY loadGroupReplace.label "Gantikan tab sedia ada">
-<!ENTITY loadGroupReplace.accesskey "G">
-
 <!ENTITY openTabs.label "Buka tab, bukan tetingkap untuk">
 
 <!ENTITY openManagers.label "Buka dalam tab baru, bukan tetingkap tunggal">

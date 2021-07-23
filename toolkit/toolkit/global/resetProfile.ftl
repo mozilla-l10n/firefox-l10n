@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Muat semula { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Muat semula { -brand-short-name }
 refresh-profile-description = Mulakan semula untuk membaiki masalah dan memulihkan prestasi.

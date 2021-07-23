@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Tampal Tanpa Format">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Tampal Sebagai">
-<!ENTITY pasteAs.accesskey "m">
 <!ENTITY pasteAsQuotationCmd.label "Tampal Sebagai Petikan">
 <!ENTITY pasteAsQuotationCmd.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -288,8 +286,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Potong">
 <!ENTITY copyToolbarCmd.tooltip "Salin">
 <!ENTITY pasteToolbarCmd.tooltip "Tampal">
-<!ENTITY printToolbarCmd.label "Cetak">
-<!ENTITY printToolbarCmd.tooltip "Cetak halaman ini">
 <!ENTITY findToolbarCmd.label "Cari">
 <!ENTITY findToolbarCmd.tooltip "Cari teks dalam halaman">
 <!ENTITY spellToolbarCmd.label "Eja">
@@ -306,7 +302,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Sisip nama labuh baru atau edit sifat labuh dipilih">
 <!ENTITY TextColorButton.tooltip "Pilih warna teks">
 <!ENTITY BackgroundColorButton.tooltip "Pilih warna latar belakang">
-<!ENTITY throbber.tooltip "Pergi ke laman &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Pilih warna serlahan teks">
 
 <!-- Editor toolbar -->

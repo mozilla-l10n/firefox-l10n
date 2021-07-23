@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Pelayaran Peribadi)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Pelayaran Peribadi)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Pelayaran Peribadi)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Pelayaran Peribadi)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -122,10 +124,12 @@ urlbar-canvas-blocked =
     .tooltiptext = Anda telah menyekat ekstraksi data kanvas untuk laman web ini.
 urlbar-midi-blocked =
     .tooltiptext = Anda telah menyekat akses MIDI untuk laman web ini.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit tandabuku ini ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -135,47 +139,13 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Tambah ke Bar Alamat
+
 page-action-manage-extension =
     .label = Urus Ekstensi…
 page-action-remove-from-urlbar =
     .label = Buang daripada Bar Alamat
 
 ## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label = Hantar { $tabCount } Tab ke Peranti
-page-action-send-tabs-urlbar =
-    .tooltiptext = Hantar { $tabCount } Tab ke Peranti
-page-action-copy-url-panel =
-    .label = Salin Pautan
-page-action-copy-url-urlbar =
-    .tooltiptext = Salin Pautan
-page-action-email-link-panel =
-    .label = Pautan E-mel…
-page-action-email-link-urlbar =
-    .tooltiptext = Pautan E-mel…
-page-action-share-url-panel =
-    .label = Kongsi
-page-action-share-url-urlbar =
-    .tooltiptext = Kongsi
-page-action-share-more-panel =
-    .label = Selanjutnya…
-page-action-send-tab-not-ready =
-    .label = Sync Peranti…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Pin Tab
-page-action-pin-tab-urlbar =
-    .tooltiptext = Pin Tab
-page-action-unpin-tab-panel =
-    .label = Buang pin Tab
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Buang pin Tab
 
 ## Auto-hide Context Menu
 
@@ -192,14 +162,17 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Ubah Tetapan Carian
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ubah tetapan carian
+
 search-one-offs-context-open-new-tab =
     .label = Cari dalam Tab Baru
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = Tetapkan sebagai Enjin Carian Piawai
     .accesskey = P
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -226,8 +199,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Papar editor apabila menyimpan
     .accesskey = P
+
 bookmark-panel-done-button =
     .label = Siap
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -244,6 +219,7 @@ identity-passive-loaded = Sebahagian halaman ini tidak selamat (contohnya imej).
 identity-active-loaded = Anda telah menyahdayakan perlindungan untuk halaman ini.
 identity-weak-encryption = Halaman ini menggunakan enkripsi yang lemah.
 identity-insecure-login-forms = Log masuk yang dimasukkan dalam halaman ini boleh dikompromi.
+
 identity-permissions-reload-hint = Anda mungkin perlu memuat semula halaman supaya perubahan ini dilaksanakan.
 identity-permissions-empty = Anda tidak memberikan laman ini sebarang keizinan khas.
 identity-clear-site-data =
@@ -298,6 +274,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofon untuk dikongsi:
     .accesskey = M
+
 popup-all-windows-shared = Semua tetingkap yang kelihatan pada skrin anda akan dikongsi.
 
 ## WebRTC window or screen share tab switch warning
@@ -310,19 +287,24 @@ popup-all-windows-shared = Semua tetingkap yang kelihatan pada skrin anda akan d
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Cari atau masukkan alamat
+
 urlbar-placeholder =
     .placeholder = Cari atau masukkan alamat
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Pelayar berada dalam kawalan jauh
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Cari dengan { $name } atau masukkan alamat
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Pelayar berada dalam kawalan jauh
+
 urlbar-switch-to-tab =
     .value = Tukar ke tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ekstensi:
+
 urlbar-go-button =
     .tooltiptext = Pergi ke alamat dalam Bar Lokasi
 urlbar-page-action-button =
@@ -351,9 +333,12 @@ urlbar-result-action-visit = Lawati
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kini skrin penuh
 fullscreen-warning-no-domain = Dokumen ini skrin penuh
+
+
 fullscreen-exit-button = Keluar dari Skrin Penuh (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Keluar dari Skrin Penuh (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -365,8 +350,6 @@ pointerlock-warning-no-domain = Dokumen ini mempunyai kawalan ke atas penunjuk a
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Papar Semua Tandabuku
 bookmarks-toolbar-chevron =
     .tooltiptext = Papar tandabuku selanjutnya
 bookmarks-sidebar-content =
@@ -401,6 +384,7 @@ bookmarks-tools =
     .label = Alatan Tandabuku
 bookmarks-bookmark-edit-panel =
     .label = Edit Tandabuku Ini
+
 bookmarks-toolbar-menu =
     .label = Bar alatan Tandabuku
 bookmarks-toolbar-placeholder =
@@ -415,6 +399,8 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

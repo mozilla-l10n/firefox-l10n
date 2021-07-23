@@ -10,5 +10,3 @@
 <!ENTITY  newContactCmd.label             "Kenalan…">
 <!ENTITY  newContactCmd.accesskey         "K">
  
-<!ENTITY printButton.label "Cetak">
-<!ENTITY printButton.tooltip "Cetak mesej ini">

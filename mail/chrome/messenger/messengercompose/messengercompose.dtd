@@ -242,6 +242,7 @@
 <!ENTITY printButton.tooltip "Cetak mesej ini">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY subject.accesskey "S">
 <!ENTITY attachmentBucketCloseButton.tooltip "Sorok anak tetingkap lampiran">

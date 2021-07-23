@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Bermula pada Safe Mode
+
 refresh-profile =
     .label = Muat semula { -brand-short-name }
 safe-mode-description = Mode Selamat adalah cara khas { -brand-short-name } yang boleh digunakan untuk pencarisilapan isu.

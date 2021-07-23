@@ -9,11 +9,6 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.pagetitle  "Sambungan Tidak Dipercayai">
 <!ENTITY certerror.longpagetitle "Sambungan ini Tidak Dipercayai">
 
-<!-- Localization note (certerror.introPara1) - The string "#1" will
-be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara1 "Anda minta &brandShortName; untuk membuat sambungan
-selamat ke <b>#1</b>, tapi kami tidak dapat mengesahkan bahawa sambungan ini selamat.">
 <!ENTITY certerror.introPara2 "Secara lazim, apabila anda cuba membuat sambungan secara selamat,
 laman web akan menyerahkan pengenalan yang dipercayai untuk membuktikan
 bahawa anda pergi ke tempat yang betul. Tapi identiti laman web ini tidak boleh disahkan.">
@@ -38,3 +33,4 @@ anda tahu alasan kenapa laman web ini tidak menggunakan pengenalan yang dipercay
 <!ENTITY certerror.addException.label "Tambah Pengecualian…">
 
 <!ENTITY certerror.technical.heading "Butiran Teknikal">
+

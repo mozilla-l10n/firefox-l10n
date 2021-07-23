@@ -26,6 +26,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sync Sekarang
+
 appmenuitem-save-page =
     .label = Simpan Halaman Sebagai…
 
@@ -78,3 +79,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Pengurus Tugasan
+

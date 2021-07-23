@@ -20,10 +20,3 @@
 <!ENTITY loadNoImagesRadio.accesskey    "J">
 <!ENTITY viewPermissions.label          "Urus Keizinan">
 <!ENTITY viewPermissions.accesskey      "K">
-<!ENTITY animLoopingTitle.label         "Imej animasi perlu gelung">
-<!ENTITY animLoopAsSpecified.label      "Mengikut bilangan yang ditentukan imej">
-<!ENTITY animLoopAsSpecified.accesskey  "m">
-<!ENTITY animLoopOnce.label             "Sekali">
-<!ENTITY animLoopOnce.accesskey         "S">
-<!ENTITY animLoopNever.label            "Jangan sesekali">
-<!ENTITY animLoopNever.accesskey        "g">

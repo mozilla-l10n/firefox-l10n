@@ -282,3 +282,8 @@ touch-warning = async touch input dinyahdaya kerana pref tidak disokong: { $pref
 policies-inactive = Tidak aktif
 policies-active = Aktif
 policies-error = Ralat
+
+## Printing section
+
+## Normandy sections
+

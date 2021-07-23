@@ -21,11 +21,6 @@ sumber terbuka yang menyokong ciri mengesan mel remeh dan ciri berguna lain.">
 "Integrasi dengan suit aplikasi &brandShortName;">
 <!ENTITY dict.title "Kamus">
 <!ENTITY dict_intro.label "Kamus digunakan untuk menyemak ejaan dalam mesej anda.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label
-'Pelbagai bahasa tambahan boleh dipasang dari dalam
-bahagian <a id="dictURL" href="">kamus</a>
-<a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
 <!ENTITY dict_info.label2
 'Pelbagai bahasa tambahan boleh dipasang dari bahagian
 <a id="dictURL" href="">kamus</a> 
