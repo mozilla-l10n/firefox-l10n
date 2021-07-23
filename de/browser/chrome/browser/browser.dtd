@@ -142,6 +142,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "S">
 
 <!ENTITY historyMenu.label "Chronik">
+
 <!ENTITY historyUndoMenu.label "Kürzlich geschlossene Tabs">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Kürzlich geschlossene Fenster">
