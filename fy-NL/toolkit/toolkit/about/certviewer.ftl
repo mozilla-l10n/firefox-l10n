@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Autoriteit-ynfo (AIA)
 certificate-viewer-certificate-policies = Sertifikaatbelied
 certificate-viewer-embedded-scts = Ynbedde SCT’s
 certificate-viewer-crl-endpoints = CRL-einpunten
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Downloade
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (sert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (keten)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Dizze útwreiding is as krityk markearre, wat betsjut dat clients it sertifikaat wegerje moatten as se it net begripe.

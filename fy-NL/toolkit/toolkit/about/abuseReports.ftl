@@ -42,6 +42,11 @@ abuse-report-submit-button = Yntsjinje
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Rapport foar <span data-l10n-name="addon-name">{ $addon-name }</span> annulearre.
 abuse-report-messagebar-submitting = Rapport ferstjoere foar <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Tank foar it yntsjinjen fan in rapport. Wolle jo <span data-l10n-name="addon-name">{ $addon-name }</span> fuortsmite?

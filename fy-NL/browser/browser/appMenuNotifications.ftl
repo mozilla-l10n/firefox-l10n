@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = No net
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Nij in flugge werstart, sil { -brand-shorter-name } al jo iepen ljepblêden en finsters dy't net yn priveemodus binne werstelle.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Oké, begrepen
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Behear jo add-ons troch op <image data-l10n-name='addon-install-icon'></image> yn it menu <image data-l10n-name='addon-menu-icon'></image> te klikken.
+
 appmenu-update-available2 =
     .label = Fernijing beskikber
     .buttonlabel = Downloade
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = j
     .secondarybuttonaccesskey = w
 appmenu-update-other-instance-message = Der is in nije fernijing foar { -brand-shorter-name } beskikber, mar dizze kin net ynstallearre wurde omdat der in oar eksimplaar fan { -brand-shorter-name } útfierd wurdt. Slút dizze om de fernijing troch te fieren, of kies derfoar om dochs by te wurkjen (it oare eksimplaar wurket mooglik net goed oant jo dit opnij starte).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Oké, begrepen
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Behear jo add-ons troch op <image data-l10n-name='addon-install-icon'></image> yn it menu <image data-l10n-name='addon-menu-icon'></image> te klikken.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Oké
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Behear jo útwreidingen en tema’s fia it tapassingsmenu.
 appmenu-addon-post-install-message3 = Behear jo add-ons en tema’s fia it tapassingsmenu.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Dizze útwreiding yn priveefinsters útfiere litte
     .accesskey = D
+    
 appmenu-new-tab-controlled =
     .label = Jo nije ljepblêd is wizige.
     .buttonlabel = Wizigingen bewarje
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = W
     .secondarybuttonlabel = Utwreiding útskeakelje
     .secondarybuttonaccesskey = U
+
 appmenu-new-tab-controlled-changes =
     .label = Jo nije ljepblêd is wizige.
     .buttonlabel = Wizigingen behâlde

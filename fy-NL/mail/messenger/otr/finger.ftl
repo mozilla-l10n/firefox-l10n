@@ -5,16 +5,21 @@
 otr-finger =
     .buttonlabelaccept = Slute
     .title = Earder besjoene OTR-fingerôfdrukken
+
 finger-intro = OTR-fingerôfdrukken fan eardere end-to-end-fersifere petearen.
+
 finger-screenName =
     .label = Kontakt
+
 finger-screen-name =
     .label = Kontakt
 finger-verified =
     .label = Ferifikaasjesteat
 finger-fingerprint =
     .label = Fingerôfdruk
+
 finger-remove =
     .label = Selektearre fuortsmite
+
 finger-remove-all =
     .label = Alle fuortsmite

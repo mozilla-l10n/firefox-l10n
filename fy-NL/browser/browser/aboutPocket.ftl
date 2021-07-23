@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Labels tafoegje
+
 pocket-panel-saved-error-generic = Der is in flater bard by it bewarjen nei { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Labels binne beheint ta 25 tekens
 pocket-panel-saved-error-only-links = Allinnich keppelingen kinne bewarre wurde

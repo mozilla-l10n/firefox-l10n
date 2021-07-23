@@ -4,8 +4,10 @@
 
 import-ab-csv-window =
     .title = Adresboek fan tekstbestân út ymportearje
+
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Foarbyld fan de gegevensymport foar record { $recordNumber }
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Ymportearje
     .buttonaccesskeyaccept = Y

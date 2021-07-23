@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Iepenje mei { -brand-short-name }
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

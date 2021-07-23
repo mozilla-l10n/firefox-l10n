@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Dielnimme oan chat
+
 chat-left-chat-icon2 =
     .alt = Chat ferlitte
+
 chat-participant-owner-role-icon2 =
     .alt = Eigener
+
 chat-participant-administrator-role-icon2 =
     .alt = Behearder
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderator
+
 chat-participant-voiced-role-icon2 =
     .alt = Dielnimmer kin berjochten pleatse
