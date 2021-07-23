@@ -5,6 +5,7 @@
 screenshots-context-menu = وێنەی ڕووپەر بگرە
 
 screenshots-my-shots-button = گرتنەکانم
+
 screenshots-instructions = ڕایکێشە یان شوێن دیاریبکە. پەنجە بنێ بە ESC بۆ پاشگەزبوونەوە.
 screenshots-cancel-button = پاشگەزبوونەوە
 screenshots-save-visible-button = بەبینراوی پاشەکەوتی بکە

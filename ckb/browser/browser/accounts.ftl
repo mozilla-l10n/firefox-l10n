@@ -5,3 +5,4 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = پێکهێنانی هەژمارەکە تەواو بکە
+

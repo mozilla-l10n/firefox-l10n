@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = کردنەوە بە { -brand-short-name }
     .accesskey = ک
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

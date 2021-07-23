@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = زانیاری گەڕان بۆ کیشەکان
+
 crashes-title = ڕاپۆرتی داخستنی لەناکاو
 crashes-id = ناسنامەی ڕاپۆرت
 crashes-send-date = نێردرا
@@ -95,6 +96,7 @@ sandbox-sys-call-age = چرکە پێش ئێستا
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = جۆری کردار
+
 restart-button-label = پێکردنەوە
 
 ## Media titles
@@ -133,4 +135,6 @@ media-device-name = ناو
 
 
 ## Printing section
+
+## Normandy sections
 

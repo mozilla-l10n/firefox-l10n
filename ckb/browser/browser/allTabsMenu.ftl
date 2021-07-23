@@ -9,13 +9,17 @@ all-tabs-menu-undo-close-tabs =
             [one] بازدەری داخراو بهێنەوە
            *[other] بازدەرە داخراوەکان بهێنەوە
         }
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = بازدەری گەڕان
+
 all-tabs-menu-new-user-context =
     .label = بازدەری لەخۆگری نوێ
+
 all-tabs-menu-hidden-tabs =
     .label = بازدەری شاراوە
+
 all-tabs-menu-manage-user-context =
     .label = ڕێکخستنی لەخۆگرەکان
     .accesskey = ڕ

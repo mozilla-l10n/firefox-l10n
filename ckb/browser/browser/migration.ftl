@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = ڕێبەری هەناردە
+
 import-from =
     { PLATFORM() ->
         [windows] هێنانی هەڵبژاردەکان، دڵخوزەکان، مێژوو، وشەی تێپەڕبوون و زانیاری زیاتر لە:
        *[other] هێنانی هەڵبژاردنەکان، دڵخوزەکان، مێژوو، وشەی تێپەڕبوون و زانیاری زیاتر لە:
     }
+
 import-from-bookmarks = هێنانی دڵخوازەکان لە:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -49,23 +51,36 @@ import-from-firefox =
 import-from-360se =
     .label = وێبگەڕی پارێزراوی ٣٦٠
     .accesskey = 3
+
 no-migration-sources = هیچ بەرنامەیەک نەدۆزرایەوە کە دڵخواز، مێژووی، زانیاری وشەی تێپەڕبوونی تێدابێت.
+
 import-source-page-title = هێنانی ڕێکخستنەکان و زانیارییەکان
 import-items-page-title = برگە بۆ هێنانەوە
+
 import-items-description = دیاریبکە کام بڕگە دەهێنیتەوە:
+
 import-permissions-page-title = تکایە دەسەڵاتی پێویست بدە بە { -brand-short-name }
+
 import-migrating-page-title = هـێنانەوە...
+
 import-migrating-description = ئەم بڕگانە ئێستا هاوردەکران...
+
 import-select-profile-page-title = پرۆفایل دیاریبکە
+
 import-select-profile-description = ئەم پرۆفایلانە بەردەستن بۆ ئەوەی هاوردەبکەیت لێیانەوە:
+
 import-done-page-title = هاوردەکردن تەواو بوو
+
 import-done-description = ئەم بڕگانەی خوارەوە بەسەرکەووتووی هاوردەکرا:
+
 import-close-source-browser = تکایە دڵنیابەرەوە کە وێبگەڕی هەڵبژێردراو داخراوە پێش بەردەوام بوون.
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = لە { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -77,6 +92,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = وێبگەڕی پارێزراوی ٣٦٠
+
 imported-safari-reading-list = لیستی خوێندنەوە (لە safari ەوە)
 imported-edge-reading-list = لیستی خوێندنەوە (لە Edge ەوە)
 
@@ -98,6 +114,7 @@ browser-data-cookies-checkbox =
     .label = شەکرۆکەکان
 browser-data-cookies-label =
     .value = شەکرۆکەکان
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -110,10 +127,12 @@ browser-data-history-label =
             [firefox] مێژووی وێبگەڕی وجێنیشانه‌که‌ران
            *[other] مێژووی وێبگەڕی
         }
+
 browser-data-formdata-checkbox =
     .label = هەڵگیراوە لە مێژووی کارەوە
 browser-data-formdata-label =
     .value = هەڵگیراوە لە مێژووی کارەوە
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -122,6 +141,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = چوونەژوورەوە و وشەی تێپەڕە پاشەکەوتکراوەکان
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -136,10 +156,12 @@ browser-data-bookmarks-label =
             [edge] دڵخوازەکان
            *[other] جێنیشانه‌که‌ر
         }
+
 browser-data-otherdata-checkbox =
     .label = زانیاری تر
 browser-data-otherdata-label =
     .label = زانیاری تر
+
 browser-data-session-checkbox =
     .label = پەنجەرەکان و بازدەرەکان
 browser-data-session-label =

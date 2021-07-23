@@ -14,11 +14,15 @@ about-config-intro-warning-button = مەترسیەکە وەردەگرم و بە�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = گۆڕینی ئەم هەڵبژاردنانە لەوانەیە کاربکاتە سەر توانای کار و پاراستنی { -brand-short-name }.
+
 about-config-page-title = هەڵبژاردنی پێشکەوتوو
+
 about-config-search-input1 =
     .placeholder = بگەڕێ بۆ ناوی هەڵبژاردن
 about-config-show-all = هەمووی پیشان بدە
+
 about-config-show-only-modified = تەنها هەڵبژرادنە دەستکاریکراوەکان پیشان بدە
+
 about-config-pref-add-button =
     .title = زیادکردن
 about-config-pref-toggle-button =

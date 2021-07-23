@@ -36,6 +36,11 @@ abuse-report-submit-button = ناردن
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = ڕاپۆرت کردن بۆ <span data-l10n-name="addon-name">{ $addon-name }</span> هەڵوەشێنرایەوە.
 abuse-report-messagebar-submitting = ناردنی ڕاپۆرت بۆ <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = سوپاس بۆ ناردنی ڕاپۆرت، دەتەوێت <span data-l10n-name="addon-name">{ $addon-name }</span> بسڕیتەوە؟

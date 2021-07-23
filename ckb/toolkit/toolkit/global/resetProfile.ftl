@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = نوێکردنەوە { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = نوێکردنەوە { -brand-short-name }
 refresh-profile-description = بە نوێبوونەوە دەست پێبکە بۆ چاک کردنی کێشەکان و ھێنانەوەی کار جێبەجێکردنی.

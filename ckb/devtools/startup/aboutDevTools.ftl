@@ -12,6 +12,7 @@ enable-common-message = توڵامرازی گەشەپێدەر بە بنەڕەت 
 enable-learn-more-link = زیاتر بزانە دەربارەی ئامرازی گەشەپێدەر
 enable-enable-button = ئامرازی گەشەپێدەر چالاک بکە
 enable-close-button = ئەم بازدەرە دابخە
+
 welcome-title = بەخێربێی بۆ ئامرازی گەشەپێدەری Firefox!
 newsletter-title = هەواڵنامەی Mozillaی گەشەپێدەران
 newsletter-message = هەموو هەواڵ، فێڵەکان و سەرچاوەکانی گەشەپێدەر بەدەست بێنە بۆ بۆکسی هاتووەکانت.
@@ -20,8 +21,10 @@ newsletter-email-placeholder =
 newsletter-privacy-label = من ڕازیم بەو شێوەیەی کە مۆزیللا زانیاریەکانم بگرێتە دەست لەم <a data-l10n-name="privacy-policy">سیاسەتی تایبەتیی</a>ـە.
 newsletter-subscribe-button = بەشدار بە
 newsletter-thanks-title = سوپاس!
+
 footer-title = وەشانی Firefoxی گەشەپێدەران
 footer-learn-more-link = زیاتر بزانە
+
 features-learn-more = زیاتر بزانە
 features-inspector-title = پشکنەر
 features-console-title = کونسوڵ

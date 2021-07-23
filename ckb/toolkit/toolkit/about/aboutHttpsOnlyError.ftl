@@ -6,11 +6,13 @@ about-httpsonly-insecure-title = پەیوەندی پارێزراو بەردەس�
 
 about-httpsonly-button-make-exception = مەترسیەکە وەردەگرم و بەردەوام بە بۆ ماڵەڕەکە
 
-about-httpsonly-title = { -brand-short-name } هەڵەیەکی پاراستنی بەدیکرد
-
 about-httpsonly-explanation-question = چی دەبێتە هۆی ئەوە؟
 about-httpsonly-explanation-nosupport = زۆرکات، بەهۆی ئەوەیە کە ماڵپەڕەکە پشتگیری HTTPS ناکات.
 
-about-httpsonly-button-accept-and-continue = مەترسیەکە وەردەگرم و بەردەوام بە
 about-httpsonly-button-go-back = بڕۆ دواوە
 about-httpsonly-link-learn-more = زیاتر بزانە...
+
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
+

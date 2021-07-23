@@ -67,6 +67,7 @@ certificate-viewer-subject-alt-names = ناوی تری بابەت
 certificate-viewer-public-key-info = زانیاری کلیلی گشتی
 certificate-viewer-miscellaneous = جۆراوجۆر
 certificate-viewer-fingerprints = پەنجەمۆرەکان
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = داگرتن

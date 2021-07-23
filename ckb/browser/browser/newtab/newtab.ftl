@@ -15,7 +15,9 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = گەڕان
     .aria-label = گەڕان
+
 newtab-search-box-search-the-web-text = بە وێبدا بگەڕێ
+
 newtab-search-box-search-the-web-input =
     .placeholder = بە وێبدا بگەڕێ
     .title = بە وێبدا بگەڕێ
@@ -31,10 +33,12 @@ newtab-topsites-edit-shortcut-header = قەدبڕ دەستکاریبکە
 newtab-topsites-title-label = سەردێڕ
 newtab-topsites-title-input =
     .placeholder = سەردێڕێک بنووسە
+
 newtab-topsites-url-label = بەستەر
 newtab-topsites-url-input =
     .placeholder = بینووسە یان بەستەر بلکێنە
 newtab-topsites-url-validation = بەستەری گونجاو پێویستە
+
 newtab-topsites-image-url-label = بەستەری وێنەی خوازراو
 newtab-topsites-use-image-link = بەستەری خوازراو بەکاربێنە...
 newtab-topsites-image-validation = نەتوانرا وێنە باربکرێت. بەستەرێکی تر تاقیبکەرەوە.
@@ -63,10 +67,12 @@ newtab-topsite-sponsored = پاڵپشتیکراو
 newtab-menu-section-tooltip =
     .title = پێڕست بکەرەوە
     .aria-label = پێڕست بکەرەوە
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = بیسڕەوە
     .aria-label = بیسڕەوە
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -133,6 +139,7 @@ newtab-label-removed-bookmark = دڵخواز سڕایەوە
 newtab-label-recommended = باوە
 newtab-label-saved = پاشەکەوتکردن لە { -pocket-brand-name }
 newtab-label-download = داگیراو
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -170,10 +177,12 @@ newtab-section-header-pocket = پێشنیازکراوە لە لایەن { $provi
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = دەست بکە بە گەڕان، ئێمەش چەن بابەتێک باشت پیشان دەدەین، ڤیدیۆ، چەند پەرەیەکی تر کە پێشتر سەردانت کردووە یان دڵخوازت کردووە.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = هەموویت ئەنجام دا. کاتێکی تر وەرەوە بۆ چیرۆکی زیاتر لە { $provider }وە. ناتوانیت چاوەڕی بکەیت؟ بابەتێکی بەناوبانگ هەڵبژێرە بۆ ئەوەی چیرۆکی نایاب بدۆزیتەوە لە هەموو وێب.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

@@ -12,15 +12,19 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = هەلەیەك تێبنی کرا لە کاتی پەیوەندی کردن بە { $hostname }.{ $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = کۆدی هەڵە: { $error }
+
 psmerr-ssl-disabled = ناتوانیت بە شێوەیەکی پارێزراو پەیوەندی ببەستیت چونکە پرۆتۆکۆلی SSL ناچالاک کراوە.
 psmerr-ssl2-disabled = ناتوانیت بە شێوەیەکی پارێزراو پەیوەندی ببەستیت چونکە ئەم ناونیشانە وەشانێکی کۆنی پرۆتۆکۆلی SSL  ی بەکارهێناوە.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     تۆ بروانامەیەکی نادیارت پێگەشتوە، تکایە پەیوەندی بکە بە بەرێوەبەری سێرڤەر یان ئیمەیل بەکاربهێنە و ئەم زانیاریانەیان پێبدە:
     بروانامەکەی تۆ هەمان زنجیرە ژمارەیان هەیە لەگەل بروانامەیەکی تر کە لەلایەن نوسەری بروانامەکان تێبینی کراوە. تکایە بروانامەیەکی نوێ وەربگرە کە زنجیرە ژمارەیەکی تایبەتی هەبێ.
+
 ssl-error-export-only-server = ناتوانیت بە شێوەیەکی پارێزراو پەیوەندی ببەستیت, پییر پشتگیری نهێنی کردن بە پلەی-بەرز ناکات.
 ssl-error-us-only-server = ناتوانیت بە شێوەیەکی پارێزراو پەیوەندی ببەستیت, پییر پێویستی بە نهێنی کردنە بە پلەی-بەرز کە پشتگیری ناکات.
 ssl-error-no-cypher-overlap = ناتوانیت بە شێوەیەکی پارێزراو پەیوەندی ببەستی لەگەل پییر :هەمان شێوەی نهێنی کردنیان نیە.

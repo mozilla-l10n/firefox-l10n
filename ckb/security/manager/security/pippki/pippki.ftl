@@ -8,8 +8,10 @@ password-quality-meter = پێوەری بەهێزی تێپەڕە وشە
 
 change-password-window =
     .title = تێپەڕە وشەی سەرەکی بگۆڕە
+
 change-device-password-window =
     .title = گۆڕینی تێپەڕە وشە
+
 change-password-old = تێپەڕە وشەی ئێستا:
 
 ## Reset Password dialog

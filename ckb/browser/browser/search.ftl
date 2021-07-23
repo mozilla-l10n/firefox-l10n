@@ -9,8 +9,10 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = هەڵە لە دامەزراندن
+
 opensearch-error-format-title = جۆری نەگونجاو
 opensearch-error-format-desc = { -brand-short-name } نەیتوانی بزوێنەری گەڕان دامەزرێنێت لە: { $location-url }
+
 opensearch-error-download-title = هەڵە لە داگرتن
 opensearch-error-download-desc = { -brand-short-name } نەیتوانی پێوەکراوی گەڕان دابگرێت لە: { $location-url }
 

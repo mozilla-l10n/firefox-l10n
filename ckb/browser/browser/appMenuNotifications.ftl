@@ -33,9 +33,11 @@ appmenu-update-restart =
 appmenu-addon-private-browsing-installed =
     .buttonlabel = باشە، تێگەشتم
     .buttonaccesskey = ب
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = ڕێگە بدە ئەم پێوەکراوە لە پەنجەرەی تایبەت کاربکات
     .accesskey = گ
+    
 appmenu-new-tab-controlled =
     .label = بازدەری نوێ گۆڕا.
     .buttonlabel = گۆڕانکارییەکان بهێڵەوە
@@ -48,3 +50,4 @@ appmenu-homepage-controlled =
     .buttonaccesskey = ب
     .secondarybuttonlabel = زیادکراو ناچالاک بکە
     .secondarybuttonaccesskey = د
+

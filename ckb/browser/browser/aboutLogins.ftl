@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = بەدەستهێنانی لە کۆگای گووگڵ
 login-app-promo-apple =
     .alt = داگرتن لە کۆگای ئەپڵ
+
 login-filter =
     .placeholder = گەڕان بۆ چوونەژوورەوەکان
+
 create-login-button = چوونەژوورەوە دروست بکە
+
 fxaccounts-sign-in-text = وشەی تێپەڕەکەت لە ئامێرەکانی ترەوە بەدەستبهێنە
 fxaccounts-sign-in-button = بچۆ ژوورەوە بۆ { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = بۆ هاوکاتکردن بچۆژوورەوە
@@ -70,7 +73,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = دەگەڕێیت بۆ چوونەژوورە پاشەکەوت کراوەکانت؟ { -sync-brand-short-name } ڕێک بخە.
-about-logins-login-intro-heading-logged-out = بۆ چوونەژوورە پاشەکەوت کراوەکانت دەگەڕێیت؟ { -sync-brand-short-name } ڕێک بخە یان بیانهێنە.
+
 about-logins-login-intro-heading-logged-out2 = بۆ چوونەژوورەوە پاشەکەوتکراوەکانت دەگەڕێی؟ هاوکاتکردن هەڵکە یان هاوردەیان بکە
 about-logins-login-intro-heading-logged-in = هیچ چوونەژوورەوەک هاوکەتگەری نەکراوە.
 login-intro-description = ئەگەر چوونەژوورەوەکانی پاشەکەوت کردووە لە { -brand-product-name } لە ئامێرێکی تر، ئەوە لێرەوە بزانە چۆن بەدەستیان دێنیتەوە:
@@ -78,6 +81,7 @@ login-intro-instruction-fxa = هەژمار درووست بکە یا بچۆژوو
 login-intro-instruction-fxa-settings = دڵنیابە لەوەی کە بۆکسی دیاریکردنی هەڵبژاردوە بۆ چوونەژوورەوەکان لە ڕێکخستنەکانی { -sync-brand-short-name }
 about-logins-intro-instruction-help = سەردانی <a data-l10n-name="help-link">{ -lockwise-brand-short-name } پشتگیری</a> بکە بۆ زانیاری زیاتر
 about-logins-intro-import = ئەگەر چوونەژوورەوەکانت لە وێبگەڕێکی تر پاشەکەوت کراوە، دەتوانیت <a data-l10n-name="import-link">هاوردەیان بکەیت بۆ { -lockwise-brand-short-name }</a>
+
 about-logins-intro-import2 = ئەگەر چوونەژوورەوەکانت لە دەرەوەی { -brand-product-name }ـە، ئەتوانی <a data-l10n-name="import-browser-link">بیانهێنیت لە وێبگەڕێکی ترەوە</a> یان <a data-l10n-name="import-file-link"> لە پەڕگەیەکەوە</a>
 
 ## Login
@@ -118,11 +122,13 @@ about-logins-edit-login-os-auth-dialog-message-win = بۆ دەستکاریکرد
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = چوونەژوورەوەی هەڵگیراو دەستکاریبکە
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = بۆ بینینی وشەنهێنیەکانت، وشەنهێنی ویندۆزەکەت بنوسە. ئەمە یارمەتی ئەدات بۆ پاراستنی هەژمارەکانت.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو پیشان بدە
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = بۆ کۆپیکردنی وشەنهێنیەکەت، زانیاری چوونەژووری ویندۆزەکەت بنوسە. ئەمە یارمەتیدەرە بۆ پاراستنی هەژمارەکانت.
 # This message can be seen when attempting to copy a password in about:logins
@@ -132,6 +138,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = وشەی تێپەڕی
 ## Master Password notification
 
 master-password-notification-message = وشەی تێپەڕبوونی سەرەکی لێبدە بۆ ئەوەی بتوانی چوونەژوورەوە و وشەی تێپەڕەکان ببینی.
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = بۆ دەرهێنانی چوونەژوورەکانت، زانیاریەکانی چوونەژووری ویندۆز بنوسە. ئەمە یارمەتیدەرە بۆ پاراستنی هەژمارەکانت.
 # This message can be seen when attempting to export a password in about:logins
@@ -168,28 +175,34 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = پاشگەزبوونەوە
 confirmation-dialog-dismiss-button =
     .title = پاشگەزبوونەوە
+
 about-logins-confirm-remove-dialog-title = ئەم چوونەژورەوە دەسڕیتەوە؟
 confirm-delete-dialog-message = ئەم کارە پاشگەزبوونەوەی نیە.
 about-logins-confirm-remove-dialog-confirm-button = بیسڕەوە
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] بەڵی، ئەم چوونەژورەوەیە بسڕەوە
         [one] بەڵی، ئەم چوونەژورەوانە بسڕەوە
        *[other] بەڵی، ئەم چوونەژورەوانە بسڕەوە
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] { $count } چوونەژوورەوە دەسڕیتەوە؟
        *[other] { $count } چوونەژوورەوە دەسڕیتەوە؟
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } چوونەژوورەوە دەسڕیتەوە لە هەموو ئامێرەکان؟
        *[other] { $count } چوونەژوورەوە دەسڕیتەوە لە هەموو ئامێرەکان؟
     }
+
 about-logins-confirm-export-dialog-title = چوونەژوورەوە و وشەی تێپەڕەکان دەربهێنە
 about-logins-confirm-export-dialog-message = وشەنهێنیەکانت پاشەکەوت ئەکرێن وەک دەقێکی خوێنراوە (نمونە BadP@ssw0rd) بەشێوەیەک هەموو کەسێک پەڕگە دەرکراوەکە بکاتەوە و بیان بینێت.
 about-logins-confirm-export-dialog-confirm-button = هەناردەکردن...
+
 confirm-discard-changes-dialog-title = هەڵوەشاندنەوەی گۆڕانکارییە پاشەکەوت نەکراوەکان؟
 confirm-discard-changes-dialog-message = هەموو گۆڕانکارییە پاشەکەوتکراوەکان دەفەوتێت.
 confirm-discard-changes-dialog-confirm-button = هەڵیبوەشێنەوە
@@ -215,6 +228,7 @@ about-logins-vulnerable-alert-learn-more-link = زیاتر بزانە
 
 # This is a generic error message.
 about-logins-error-message-default = هەڵەیەک ڕوویدا لە کاتی پاشەکەوتکردنی ئەم وشەی تێپەڕبوونە
+
 
 ## Login Export Dialog
 

@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-update-banner =
-    .label-update-downloading = نوێکاری { -brand-shorter-name } دادەگیرێت
 appmenuitem-protection-dashboard-title = بۆردی پارێزگاری
 appmenuitem-customize-mode =
     .label = دڵخوازکردن…
@@ -17,6 +15,7 @@ appmenuitem-new-window =
     .label = پەنجەرەی نوێ
 appmenuitem-new-private-window =
     .label = پەنجەرەی تایبەتی نوێ
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -28,6 +27,7 @@ appmenuitem-zoom-enlarge =
     .label = هێنانەپێش
 appmenuitem-zoom-reduce =
     .label = ڕۆچوونی
+
 appmenuitem-fullscreen =
     .label = پڕاوپڕ
 
@@ -35,12 +35,14 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = هاوکاتگەری بکە ئێستا
+
 appmenuitem-save-page =
     .label = پەرە پاشەکەوت بکە وەک...
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = چی نوێ هەیە
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -60,11 +62,6 @@ whatsnew-panel-footer-checkbox =
 appmenu-about =
     .label = دەربارەی { -brand-shorter-name }
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = زانیاری گەڕان بۆ کێشەکان
-    .accesskey = ز
-appmenu-help-taskmanager =
-    .label = بەڕێوەبردنی تاسک (ئەرک)
 appmenu-help-report-site-issue =
     .label = کێشەی ماڵپەڕ بنێرە...
 appmenu-help-feedback-page =
@@ -73,13 +70,6 @@ appmenu-help-feedback-page =
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = دووبارە پێکردنەوە بە پێوەکراوی ناچالاکەوە...
-    .accesskey = ێ
-appmenu-help-safe-mode-with-addons =
-    .label = دووبارە پێکردنەوە بە پێوەکراوی چالاکەوە...
-    .accesskey = چ
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -99,3 +89,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = بەڕێوەبردنی تاسک (ئەرک)
+

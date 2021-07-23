@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "پێڕست بکەرەوە">
+
 <!ENTITY navbarOverflow.label                "ئامرازی تر...">
 
 <!-- Tab context menu -->
@@ -142,19 +143,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "مێژوو">
+
 <!ENTITY historyUndoMenu.label "دووا بازدەری داخراو">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "دووا پەنجەرەی داخراو">
 
 <!ENTITY appMenuHistory.showAll.label "هەموو مێژووی کار پیشان بدە">
+
 <!ENTITY appMenuHistory.clearRecent.label "دووا مێژووی بەکارهێنان بسڕەوە...">
 <!ENTITY appMenuHistory.restoreSession.label "دانیشتنی پێشوو بهێنەوە">
 <!ENTITY appMenuHistory.viewSidebar.label "لاتەنیشتی مێژوو پیشانبدە">
 <!ENTITY appMenuHistory.hideSidebar.label "لاتەنیشتی مێژوو بشارەوە">
 <!ENTITY appMenuHistory.recentHistory.label "دووا مێژووی کار">
+
 <!ENTITY appMenuHelp.label "یارمەتی">
 
 <!ENTITY appMenuRemoteTabs.label "بازدەرە هاوکاتییەکان">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "بازدەری کراوە نیە">
