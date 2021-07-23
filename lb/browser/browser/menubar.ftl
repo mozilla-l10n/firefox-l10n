@@ -25,10 +25,12 @@ menu-application-show-all =
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } zoumaachen
+
 menu-about =
     .label = Iwwer { -brand-shorter-name }
     .accesskey = I
@@ -195,6 +197,14 @@ menu-window-bring-all-to-front =
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-help-product
+#
+# These strings are duplicated to allow for different casing depending on
+# where the strings appear.
+
+# NOTE: For Engineers, any additions or changes to Help menu strings should
+# also be reflected in the related strings in appmenu.ftl. Those strings, by
+# convention, will have the same ID as these, but prefixed with "app".
+# Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.

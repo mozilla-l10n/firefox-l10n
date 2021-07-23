@@ -64,6 +64,8 @@ permissions-capabilities-listitem-allow =
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 

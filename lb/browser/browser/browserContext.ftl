@@ -15,22 +15,28 @@ main-context-menu-back =
     .tooltiptext = Eng Säit zréckgoen
     .aria-label = Zréck
     .accesskey = B
+
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
+
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
     .tooltiptext = Eng Säit zréckgoen ({ $shortcut })
     .aria-label = Zréck
     .accesskey = B
+
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
     .label = Zréck
     .accesskey = B
+
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
+
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
@@ -40,22 +46,28 @@ main-context-menu-forward =
     .tooltiptext = Eng Säit no vir goen
     .aria-label = Virun
     .accesskey = F
+
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
+
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
     .tooltiptext = Eng Säit no vir goen ({ $shortcut })
     .aria-label = Virun
     .accesskey = F
+
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
     .label = Virun
     .accesskey = F
+
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
+
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
 
@@ -64,10 +76,12 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Nei lueden
     .accesskey = R
+
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
     .label = Nei lueden
     .accesskey = R
+
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -76,10 +90,12 @@ toolbar-button-reload =
 main-context-menu-stop =
     .aria-label = Stopp
     .accesskey = S
+
 # This menuitem is only visible on macOS
 main-context-menu-stop-mac =
     .label = Stopp
     .accesskey = S
+
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -88,11 +104,14 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
+## Firefox Account Button
+
 ## Save Page
 
 main-context-menu-page-save =
     .label = Säit späicheren ënner…
     .accesskey = P
+
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -102,21 +121,26 @@ main-context-menu-bookmark-change =
     .aria-label = Dëst Lieszeechen änneren
     .accesskey = m
     .tooltiptext = Dëst Lieszeechen änneren
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Dëst Lieszeechen änneren
     .accesskey = m
     .tooltiptext = Dëst Lieszeechen änneren ({ $shortcut })
+
 main-context-menu-open-link =
     .label = Link opmaachen
     .accesskey = O
+
 main-context-menu-open-link-new-window =
     .label = Link an enger neier Fënster opmaachen
     .accesskey = W
+
 main-context-menu-open-link-new-private-window =
     .label = Link an enger neier privater Fënster opmaachen
     .accesskey = P
+
 main-context-menu-bookmark-this-link =
     .label = E Lieszeechen fir des Säit dobäisetzen
     .accesskey = L
@@ -143,20 +167,25 @@ main-context-menu-bookmark-this-link =
 main-context-menu-media-play-speed-slow =
     .label = Lues (×0.5)
     .accesskey = S
+
 main-context-menu-media-play-speed-normal =
     .label = Normal
     .accesskey = N
+
 main-context-menu-media-play-speed-fast =
     .label = Séier (×1.25)
     .accesskey = F
+
 main-context-menu-media-play-speed-faster =
     .label = Méi séier (×1.5)
     .accesskey = a
+
 # "Ludicrous" is a reference to the movie "Space Balls" and is meant
 # to say that this speed is very fast.
 main-context-menu-media-play-speed-fastest =
     .label = Ganz séier (×2)
     .accesskey = L
+
 main-context-menu-media-loop =
     .label = Endlosschläif
     .accesskey = L
@@ -170,24 +199,31 @@ main-context-menu-media-loop =
 main-context-menu-media-video-fullscreen =
     .label = Vollbild
     .accesskey = F
+
 main-context-menu-media-video-leave-fullscreen =
     .label = Vollbild zoumaachen
     .accesskey = u
+
 main-context-menu-image-reload =
     .label = Bild nei lueden
     .accesskey = R
+
 main-context-menu-image-view =
     .label = Bild weisen
     .accesskey = I
+
 main-context-menu-image-set-as-background =
     .label = Als Hannergrondbild astellen…
     .accesskey = S
+
 main-context-menu-image-info =
     .label = Informatioune vum Bild weisen
     .accesskey = f
+
 main-context-menu-send-to-device =
     .label = Säit op en Apparat schécken
     .accesskey = n
+
 main-context-menu-view-background-image =
     .label = Hannergrondbild weisen
     .accesskey = w
@@ -202,15 +238,20 @@ main-context-menu-view-background-image =
 main-context-menu-link-send-to-device =
     .label = Link op en Apparat schécken
     .accesskey = n
+
 main-context-menu-frame-bookmark =
     .label = E Lieszeechen fir des Säit dobäisetzen
     .accesskey = m
+
 main-context-menu-view-page-source =
     .label = Quellcode vun der Säit weisen
     .accesskey = V
+
 main-context-menu-view-page-info =
     .label = Informatioune vun der Säit weisen
     .accesskey = I
+
 main-context-menu-inspect-element =
     .label = Element inspizéieren
     .accesskey = Q
+

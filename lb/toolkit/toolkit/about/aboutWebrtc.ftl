@@ -24,13 +24,7 @@
 ## is an IETF protocol, and should not normally be translated.
 
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -40,13 +34,16 @@
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominéiert
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ausgewielt
+
 about-webrtc-save-page-label = Säit späicheren
 
 ## These are used to display a header for a PeerConnection.
@@ -61,13 +58,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zou) { 
 
 ##
 
+
 about-webrtc-priority = Prioritéit
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
 ##
-
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -78,9 +75,14 @@ about-webrtc-priority = Prioritéit
 ##
 
 
+##
+
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 
 ##
+
+##
+
 

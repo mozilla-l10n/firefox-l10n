@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Menü opmaachen">
+
 <!ENTITY navbarOverflow.label                "Méi Handwierksgeschir…">
 
 <!-- Tab context menu -->
@@ -98,9 +99,11 @@ can reach it easily. -->
 <!ENTITY historyUndoWindowMenu.label "Rezent zougemaach Fënsteren">
 
 <!ENTITY appMenuHistory.restoreSession.label "Vireg Sessioun restauréieren">
+
 <!ENTITY appMenuHelp.label "Hëllef">
 
 <!ENTITY appMenuRemoteTabs.label "Synchroniséiert Tabs">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Keng oppen Tabs">

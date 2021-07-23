@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Private Modus)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Private Modus)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Private Modus)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Private Modus)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -87,6 +89,7 @@ urlbar-microphone-blocked =
     .tooltiptext = Du hues Däi Mikro fir dësen Internetsite gespaart.
 urlbar-screen-blocked =
     .tooltiptext = Du hues den Zougrëff op Däin Ecran fir dësen Internetsite gespaart.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -96,27 +99,6 @@ urlbar-star-edit-bookmark =
 
 
 ## Page Action menu
-
-page-action-copy-url-panel =
-    .label = Link kopéieren
-page-action-copy-url-urlbar =
-    .tooltiptext = Link kopéieren
-page-action-email-link-panel =
-    .label = Link mailen…
-page-action-email-link-urlbar =
-    .tooltiptext = Link mailen…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Tab uspéngelen
-page-action-pin-tab-urlbar =
-    .tooltiptext = Tab uspéngelen
-page-action-unpin-tab-panel =
-    .label = Tab ewechspéngelen
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Tab ewechspéngelen
 
 ## Auto-hide Context Menu
 
@@ -133,11 +115,14 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Sichastellungen änneren
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sichastellungen änneren
+
 search-one-offs-context-set-as-default =
     .label = Als Standard-Sichmaschinn festleeën
     .accesskey = D
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -160,6 +145,7 @@ bookmark-panel-done-button =
 
 identity-connection-file = Dës Säit ass op Dengem Computer gespäichert.
 identity-weak-encryption = Dës Säit benotzt eng schwaach Verschlësselung.
+
 identity-learn-more =
     .value = Fir méi ze wëssen
 identity-more-info-link-text =
@@ -196,11 +182,14 @@ browser-window-close-button =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Sichen oder Adress aginn
+
 urlbar-placeholder =
     .placeholder = Sichen oder Adress aginn
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Erweiderung:
+
 urlbar-go-button =
     .tooltiptext = D'Adress aus der Leescht lueden
 
@@ -221,9 +210,12 @@ urlbar-result-action-visit = Besichen
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ass elo am Vollbildmodus
 fullscreen-warning-no-domain = Dëst Dokument ass elo am Vollbildmodus
+
+
 fullscreen-exit-button = Vollbild zoumaachen (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Vollbild zoumaachen (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -235,8 +227,6 @@ pointerlock-warning-no-domain = Dëst Dokument huet d'Kontroll iwwert d'Maus. Dr
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = All Lieszeeche weisen
 bookmarks-toolbar-chevron =
     .tooltiptext = Méi Lieszeeche weisen
 bookmarks-sidebar-content =
@@ -251,6 +241,7 @@ bookmarks-search =
     .label = An de Lieszeeche sichen
 bookmarks-bookmark-edit-panel =
     .label = Dëst Lieszeechen änneren
+
 bookmarks-toolbar-menu =
     .label = Lieszeechensymbolleescht
 bookmarks-toolbar-placeholder =
@@ -265,6 +256,8 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

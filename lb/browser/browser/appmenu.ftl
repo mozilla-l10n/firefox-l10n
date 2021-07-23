@@ -26,6 +26,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Elo synchroniséieren
+
 appmenuitem-save-page =
     .label = Säit späicheren ënner…
 

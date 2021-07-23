@@ -35,3 +35,4 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword =
     .value = Schlësselwuert:
     .accesskey = K
+
