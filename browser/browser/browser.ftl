@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (priwatné przezéranié)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (priwatné przezéranié)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (priwatné przezéranié)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (priwatné przezéranié)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -66,23 +68,6 @@ browser-main-window-title = { -brand-full-name }
 
 
 ## Page Action menu
-
-page-action-email-link-panel =
-    .label = Sélôj lënk e-mailã…
-page-action-email-link-urlbar =
-    .tooltiptext = Sélôj lënk e-mailã…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Przëwôrnié jakno kôrtã aplikacje
-page-action-pin-tab-urlbar =
-    .tooltiptext = Przëwôrnié jakno kôrtã aplikacje
-page-action-unpin-tab-panel =
-    .label = Òdhôkni kôrtã
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Òdhôkni kôrtã
 
 ## Auto-hide Context Menu
 
@@ -149,10 +134,13 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Szëkôj za, abò wpiszë adres
+
 urlbar-placeholder =
     .placeholder = Szëkôj za, abò wpiszë adres
+
 urlbar-switch-to-tab =
     .value = Przełączë na kôrtã:
+
 urlbar-go-button =
     .tooltiptext = Biéj do stronë z pòdónym adresã
 
@@ -173,12 +161,11 @@ urlbar-go-button =
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Wëskrzëni wszëtczé załóżczi
 bookmarks-toolbar-chevron =
     .tooltiptext = Wëskrzëni wicy załóżków
 bookmarks-sidebar-content =
     .aria-label = Załóżczi
+
 bookmarks-toolbar-menu =
     .label = Lëstew załóżków
 bookmarks-toolbar-placeholder =
@@ -191,6 +178,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Pocket toolbar button
 
+
+## Repair text encoding toolbar button
+
+## Customize Toolbar Buttons
 
 ## More items
 

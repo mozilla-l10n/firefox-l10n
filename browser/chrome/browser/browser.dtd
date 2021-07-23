@@ -96,6 +96,7 @@ can reach it easily. -->
 
 
 <!ENTITY historyMenu.label "Historiô">
+
 <!ENTITY historyUndoMenu.label "Slédno zamkłé kôrtë">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Slédno zamkłé òkna">

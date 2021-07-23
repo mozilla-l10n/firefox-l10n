@@ -106,6 +106,8 @@ security-view-technical =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+##
+
 image-size-unknown = nieznóné
 page-info-not-specified =
     .value = felëje

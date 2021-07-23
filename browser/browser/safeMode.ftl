@@ -7,4 +7,5 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Zrëszi w awariowim tribie
+
 safe-mode-description = Awariowi trib je specjalnym tribã programù { -brand-short-name } chtëren mòże bëc ùżëti do naprawë felów.

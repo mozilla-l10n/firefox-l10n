@@ -10,6 +10,7 @@
 
 opensearch-error-duplicate-title = Fela instalacje
 opensearch-error-duplicate-desc = { -brand-short-name } ni mòże winstalowac wtëkôcza szëkôcza z "{ $location-url }", dlôte że to dô ju wtëkôcza ò tim mionie.
+
 opensearch-error-download-title = Fela zladënkù
 opensearch-error-download-desc = { -brand-short-name } ni mòże zladowac wtëkôcza dlô szëkôcza z: { $location-url }
 
