@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Detalls interns de WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = anomena i guarda l'eixida d'about:webrtc
@@ -52,13 +53,7 @@ about-webrtc-ice-pair-bytes-sent = Bytes enviats:
 about-webrtc-ice-pair-bytes-received = Bytes rebuts:
 about-webrtc-ice-component-id = ID del component
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -70,13 +65,16 @@ about-webrtc-type-remote = Remot
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominat
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Seleccionat
+
 about-webrtc-save-page-label = Guarda la pàgina
 about-webrtc-debug-mode-msg-label = Mode de depuració
 about-webrtc-debug-mode-off-state-label = Inicia el mode de depuració
@@ -102,6 +100,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (tancat)
 
 ##
 
+
 about-webrtc-local-candidate = Candidat local
 about-webrtc-remote-candidate = Candidat remot
 about-webrtc-priority = Prioritat
@@ -117,7 +116,6 @@ about-webrtc-encoder-label = Codificador
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -127,6 +125,8 @@ about-webrtc-save-page-msg = la pàgina s'ha guardat a: { $path }
 about-webrtc-debug-mode-off-state-msg = el registre de traça es troba a: { $path }
 about-webrtc-debug-mode-on-state-msg = mode de depuració actiu; el registre de traça és a: { $path }
 about-webrtc-aec-logging-off-state-msg = els fitxers de registre capturats es troben a: { $path }
+
+##
 
 ##
 
@@ -141,4 +141,7 @@ about-webrtc-jitter-label = Jitter { $jitter }
 
 
 ##
+
+##
+
 

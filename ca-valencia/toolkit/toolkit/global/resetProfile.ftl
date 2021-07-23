@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Restableix el { -brand-short-name } a l'estat inicial
+
 refresh-profile-dialog-button =
     .label = Restableix el { -brand-short-name } a l'estat inicial
 refresh-profile-description = Comenceu des de zero per resoldre els problemes i restablir el rendiment.

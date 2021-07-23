@@ -7,3 +7,4 @@
 
 # Hint shown when the selected storage host does not contain any data
 storage-table-empty-text = No hi ha cap dada per a l'amfitrió seleccionat
+

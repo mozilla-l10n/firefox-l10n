@@ -4,3 +4,4 @@
 
 notification-learnmore-default-label =
     .value = Més informació
+

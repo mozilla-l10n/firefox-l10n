@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Ara no
     .secondarybuttonaccesskey = n
 appmenu-update-restart-message = Després d'un reinici ràpid, el { -brand-shorter-name } restaurarà totes les pestanyes i obertes i les finestres que no estiguen en mode de navegació privada.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Entesos
+    .buttonaccesskey = E
+appmenu-addon-post-install-message = Gestioneu els vostres complements fent clic a <image data-l10n-name='addon-install-icon'></image> al menú <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Actualització disponible
     .buttonlabel = Baixa
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ara no
     .secondarybuttonaccesskey = n
 appmenu-update-other-instance-message = Hi ha disponible una actualització del { -brand-shorter-name }, però no es pot instal·lar perquè hi ha una altra còpia del { -brand-shorter-name } en execució. Tanqueu-la per a continuar l'actualització, o trieu actualitzar-la igualment (és possible que l'altra còpia no funcione correctament fins que no la reinicieu).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Entesos
-    .buttonaccesskey = E
-appmenu-addon-post-install-message = Gestioneu els vostres complements fent clic a <image data-l10n-name='addon-install-icon'></image> al menú <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = D'acord
     .buttonaccesskey = D
-appmenu-addon-post-install-message2 = Gestioneu les vostres extensions i temes mitjançant el menú de l'aplicació.
 appmenu-addon-post-install-message3 = Gestioneu els vostres complements i temes mitjançant el menú de l'aplicació.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permet que esta extensió s'execute en finestres privades
     .accesskey = P
+    
 appmenu-new-tab-controlled =
     .label = La pàgina de «Pestanya nova» ha canviat.
     .buttonlabel = Mantén els canvis
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = M
     .secondarybuttonlabel = Inhabilita l'extensió
     .secondarybuttonaccesskey = I
+
 appmenu-new-tab-controlled-changes =
     .label = La pàgina de «Pestanya nova» ha canviat.
     .buttonlabel = Mantén els canvis

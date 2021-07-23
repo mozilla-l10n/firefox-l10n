@@ -51,9 +51,6 @@ bookmark-tab =
 reopen-in-container =
     .label = Torna a obrir en un contenidor
     .accesskey = e
-tab-context-open-in-container =
-    .label = Obri en un contenidor nou
-    .accesskey = e
 move-to-start =
     .label = Mou al principi
     .accesskey = p
@@ -66,15 +63,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Tanca diverses pestanyes
     .accesskey = a
-tab-context-share-url =
-    .label = Comparteix
-    .accesskey = x
-tab-context-share-more =
-    .label = Més…
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -94,6 +82,15 @@ move-tabs =
 move-tab =
     .label = Mou la pestanya
     .accesskey = u
+tab-context-share-url =
+    .label = Comparteix
+    .accesskey = x
+tab-context-share-more =
+    .label = Més…
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

@@ -129,6 +129,8 @@ security-site-data-only = Sí, { $value } { $unit } de dades del lloc
 security-site-data-cookies-only = Sí, galetes
 security-site-data-no = No
 
+##
+
 image-size-unknown = Desconegut
 page-info-not-specified =
     .value = Sense especificar

@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Inicia en mode segur
+
 troubleshoot-mode-window =
     .title = Voleu obrir el { -brand-short-name } en mode de resolució de problemes?
     .style = max-width: 400px
@@ -15,9 +16,9 @@ start-troubleshoot-mode =
 refresh-profile =
     .label = Restableix el { -brand-short-name } a l'estat inicial
 safe-mode-description = El mode segur és un mode especial del { -brand-short-name } que podeu utilitzar per a la resolució de problemes.
-troubleshoot-mode-description = Utilitzeu este mode especial del { -brand-short-name } per diagnosticar problemes. Les vostres extensions i personalitzacions es desactivaran temporalment.
 safe-mode-description-details = Els complements i els paràmetres personalitats s'inhabilitaran temporalment, i és possible que algunes característiques del { -brand-short-name } no funcionen com ho farien normalment.
 refresh-profile-instead = També podeu ometre la resolució de problemes i provar de restablir el { -brand-short-name } al seu estat inicial.
+troubleshoot-mode-description = Utilitzeu este mode especial del { -brand-short-name } per diagnosticar problemes. Les vostres extensions i personalitzacions es desactivaran temporalment.
 skip-troubleshoot-refresh-profile = També podeu ometre la resolució de problemes i restablir el { -brand-short-name } al seu estat inicial.
 # Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = El { -brand-short-name } s'ha tancat de forma inesperada. Pot ser a causa dels complements o altres problemes. Per intentar resoldre el problema, podeu reiniciar en mode segur.

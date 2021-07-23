@@ -5,53 +5,70 @@
 permissions-window =
     .title = Excepcions
     .style = width: 48em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adreça del lloc web
     .accesskey = d
+
 permissions-block =
     .label = Bloca
     .accesskey = B
+
 permissions-session =
     .label = Permet durant la sessió
     .accesskey = s
+
 permissions-allow =
     .label = Permet
     .accesskey = P
+
 permissions-site-name =
     .label = Lloc web
+
 permissions-status =
     .label = Estat
+
 permissions-remove =
     .label = Elimina el lloc web
     .accesskey = E
+
 permissions-remove-all =
     .label = Elimina tots els llocs web
     .accesskey = E
+
 permissions-button-cancel =
     .label = Cancel·la
     .accesskey = C
+
 permissions-button-ok =
     .label = Guarda els canvis
     .accesskey = s
+
 permission-dialog =
     .buttonlabelaccept = Guarda els canvis
     .buttonaccesskeyaccept = s
+
 permissions-autoplay-menu = Per defecte per a tots els llocs web:
+
 permissions-searchbox =
     .placeholder = Cerca el lloc web
+
 permissions-capabilities-autoplay-allow =
     .label = Permet àudio i vídeo
 permissions-capabilities-autoplay-block =
     .label = Bloca àudio
 permissions-capabilities-autoplay-blockall =
     .label = Bloca àudio i vídeo
+
 permissions-capabilities-allow =
     .label = Permet
 permissions-capabilities-block =
     .label = Bloca
 permissions-capabilities-prompt =
     .label = Demana-m'ho sempre
+
 permissions-capabilities-listitem-allow =
     .value = Permet
 permissions-capabilities-listitem-block =
@@ -77,6 +94,8 @@ permissions-exceptions-cookie-window =
     .title = Excepcions - Galetes i dades dels llocs
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Podeu especificar quins llocs web poden utilitzar galetes i dades dels llocs. Escriviu l'adreça exacta del lloc que voleu gestionar i feu clic a Bloca, Permet durant la sessió o Permet.
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

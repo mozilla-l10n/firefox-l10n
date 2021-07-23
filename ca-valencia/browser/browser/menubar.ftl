@@ -38,16 +38,20 @@ menu-quit =
             [windows] x
            *[other] x
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Ix del { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Ix del { -brand-shorter-name }
+
 menu-about =
     .label = Quant al { -brand-shorter-name }
     .accesskey = Q
@@ -215,6 +219,7 @@ menu-history-undo-menu =
     .label = Pestanyes tancades recentment
 menu-history-undo-window-menu =
     .label = Finestres tancades recentment
+
 menu-history-reopen-all-tabs = Torna a obrir totes les pestanyes
 menu-history-reopen-all-windows = Torna a obrir totes les finestres
 
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Inicia la sessió al { -brand-product-name }…
     .accesskey = F
+menu-tools-turn-on-sync =
+    .label = Activa el { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Complements i temes
     .accesskey = C
 menu-tools-fxa-sign-in2 =
     .label = Inicia la sessió
     .accesskey = I
-menu-tools-turn-on-sync =
-    .label = Activa el { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-turn-on-sync2 =
     .label = Activa la sincronització…
     .accesskey = s
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informació de la pàgina
     .accesskey = I
-menu-settings =
-    .label = Paràmetres
-    .accesskey =
-        { PLATFORM() ->
-            [windows] P
-           *[other] m
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] n
+        }
+menu-settings =
+    .label = Paràmetres
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] m
         }
 menu-tools-layout-debugger =
     .label = Depurador de disposició
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Dreceres de teclat
     .accesskey = D
-menu-get-help =
-    .label = Obteniu ajuda
-    .accesskey = j
 menu-help-troubleshooting-info =
     .label = Informació de resolució de problemes
     .accesskey = r
-menu-help-taskmanager =
-    .label = Gestor de tasques
+menu-get-help =
+    .label = Obteniu ajuda
+    .accesskey = j
 menu-help-more-troubleshooting-info =
     .label = Més informació de resolució de problemes
     .accesskey = i
