@@ -126,6 +126,8 @@ security-site-data-only = ဟုတ်တယ် ဆိုက်ဒေတာ { $v
 security-site-data-cookies-only = ဟုတ်ကဲ့၊ ကွတ်ကီးကို သိမ်းပါမည်
 security-site-data-no = မသိမ်းပါ
 
+##
+
 image-size-unknown = အမည်မသိ
 page-info-not-specified =
     .value = ဖော်ပြမထားပါ

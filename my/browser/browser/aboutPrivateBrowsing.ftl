@@ -10,8 +10,10 @@ about-private-browsing-info-myths = ကိုယ်ပိုင်ရှာဖ�
 about-private-browsing =
     .title = ဝဘ်တွင် ရှာဖွေပါ
 about-private-browsing-not-private = သင်သည် လက်ရှိတွင် သီးသန့်ဝင်းဒိုးတွင် ရှိမနေပါ။
+
 about-private-browsing-need-more-privacy = ကိုယ်ပိုင်အခွင့်အရေးပိုလိုအပ်ပါသလား။
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } စမ်းကြည့်ပါ
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

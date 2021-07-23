@@ -64,3 +64,4 @@ places-sortby-name =
 places-properties =
     .label = ဂုဏ်အင်္ဂါရပ်များ
     .accesskey = i
+

@@ -235,3 +235,7 @@ touch-warning = မထောက်ပံ့ထားသော အပြင်အ
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

@@ -42,6 +42,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = ပေါင်းထည့်ဆော့ဖ်ဝဲကို ပိတ်ပါ
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = ဝှက်ထားသည့်တပ်ဗ်များကို အသုံးပြုရန်
     .buttonlabel = တပ်ဗ်များကို ဆက်၍ဝှက်ထားပါ

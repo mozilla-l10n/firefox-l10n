@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = ဆေ့ဖ်မုဒ် မှစတင်ပါ
+
 refresh-profile =
     .label = { -brand-short-name } ကို ပြန်စပါ
 safe-mode-description = ဆေ့ဖ်မုဒ် ဆိုတာ ပြသနာတွေကို ဖြေရှင်းဖို့ အသုံးပြုနိုင်တဲ့ { -brand-short-name } ရဲ့ အထူးပုံစံတစ်ခု ဖြစ်ပါတယ်။

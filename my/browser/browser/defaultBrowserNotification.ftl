@@ -5,3 +5,8 @@
 default-browser-notification-button =
     .label = မူလအဖြစ်ထားပါ
     .accesskey = S
+
+## These strings are used for the default browser prompt. There are 2 variations
+## depending on the operating system (Windows vs other). The checkbox label and
+## secondary button are shared between the variants.
+

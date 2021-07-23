@@ -40,3 +40,4 @@ bookmark-overlay-tags-expander =
 bookmark-overlay-keyword =
     .value = အဓိက​ သော့ချက်၊
     .accesskey = K
+

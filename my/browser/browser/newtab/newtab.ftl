@@ -15,7 +15,9 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = ရှာ
     .aria-label = ရှာ
+
 newtab-search-box-search-the-web-text = ဝဘ်တွင် ရှာဖွေပါ
+
 newtab-search-box-search-the-web-input =
     .placeholder = ဝဘ်တွင် ရှာဖွေပါ
     .title = ဝဘ်တွင် ရှာဖွေပါ
@@ -29,10 +31,12 @@ newtab-topsites-edit-topsites-header = ထိပ်တန်းဆိုက်�
 newtab-topsites-title-label = ခေါင်းစဉ်
 newtab-topsites-title-input =
     .placeholder = ခေါင်းစဉ် ရေးပါ
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL ကို ရိုက်ပါ သို့မဟုတ် ပွားထည့်ပါ
 newtab-topsites-url-validation = URL အမှန် လိုအပ်သည်
+
 newtab-topsites-image-url-label = စိတ်ကြိုက်ပုံ URL
 newtab-topsites-use-image-link = စိတ်ကြိုက်ပုံတစ်ခုသုံးပါ…
 newtab-topsites-image-validation = ပုံတင်ရန် ပျက်ကွက်ခဲ့သည်။ မတူသော URL ကို စမ်းပါ။
@@ -51,12 +55,15 @@ newtab-confirm-delete-history-p1 = ယခုစာမျက်နှာနှင
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ယခုလုပ်ဆောင်မှုသည် နောက်ပြန်ဆုတ်၍မရသော လုပ်ဆောင်မှု ဖြစ်သည်။
 
+## Top Sites - Sponsored label
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = မီနူးကို ဖွင့်ပါ
     .aria-label = မီနူးကို ဖွင့်ပါ
+
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ဆိုက်အားပြင်မည်
@@ -147,3 +154,6 @@ newtab-pocket-cta-button = { -pocket-brand-name } ကို ရယူပါ
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-refresh-link = ထပ်ကြိုးစားရန် စာမျက်နှာကို ပြန်တင်ပါ
+
+## Customization Menu
+

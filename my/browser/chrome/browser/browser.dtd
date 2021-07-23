@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "မီနူးကို ဖွင့်ရန်">
+
 <!ENTITY navbarOverflow.label                "အခြားတန်ဆာပလာများ…">
 
 <!-- Tab context menu -->
@@ -123,18 +124,22 @@ in "Search through tabs". -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "မှတ်တမ်း">
+
 <!ENTITY historyUndoMenu.label "လတ်တလော ပိတ်ထားသည့် တပ်ဗ်များ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "လတ်​တလော ပိတ်ထားသည့် ၀င်းဒိုးများ">
 
 <!ENTITY appMenuHistory.showAll.label "မှတ်တမ်းအားလုံးကို ပြပါ">
+
 <!ENTITY appMenuHistory.clearRecent.label "လတ်တလော အသုံးပြုထားသည့် မှတ်တမ်းကို ရှင်းပါ…">
 <!ENTITY appMenuHistory.restoreSession.label "အရင်သုံးခဲ့သည့်အတိုင်း ပြန်ဖွင့်ရန်">
 <!ENTITY appMenuHistory.viewSidebar.label "အသုံးပြုမှတ်တမ်း ဘေးတန်းကို ဖွင့်ပါ">
 <!ENTITY appMenuHistory.recentHistory.label "လတ်တလော မှတ်တမ်း">
+
 <!ENTITY appMenuHelp.label "အကူအညီ">
 
 <!ENTITY appMenuRemoteTabs.label "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "ဖွင့်ထားသည့်တပ်ဗ်များ မရှိပါ">

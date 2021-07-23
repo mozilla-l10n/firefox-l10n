@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Google Play မှ ရယူရန်
 login-app-promo-apple =
     .alt = App Store မှ ဆွဲယူရန်
+
 login-filter =
     .placeholder = လော့ဂ်အင် များ ရှာရန်
+
 create-login-button = လော့ဂ်အင် အသစ် ဖန်တီးရန်
+
 fxaccounts-sign-in-text = သင် ၏ အခြား ကိရိယာ များမှ စကားဝှက်ကိုရယူပါ
 fxaccounts-sign-in-button = { -sync-brand-short-name } သို့ လက်မှတ်ထိုးဝင်ပါ
 fxaccounts-avatar-button =
@@ -67,6 +70,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = သိမ်းထားတဲ့ လော့အင်တွေ ရှာနေပါသလား? { -sync-brand-short-name } ကို စတင်လိုက်ပါ။
+
 about-logins-login-intro-heading-logged-in = ထပ်တူပွားထားသည့် လော့အင်များ မတွေ့ပါ။
 login-intro-description = အကယ်၍ သင် သည် အခြားစက်ကိရိယာ ၏ { -brand-product-name } တွင် လော့အင်များ သိမ်းထားလျှင် ၎င်း တို့ကို ဤနေရာသို့ မည်သို့ ရောက်အောင် ယူရမည်ကို ဤတွင် ရှု့း
 login-intro-instruction-fxa = သင် လော့အင်များ သိမ်းထားသော ကိရိယာပေါ်က { -fxaccount-brand-name } တွင် သင့်အကောင့်ကို တည်ဆောက်  ခြင်း သို့မဟုတ် ဝင်ရောက်ပါ
@@ -110,9 +114,11 @@ about-logins-edit-login-os-auth-dialog-message-win = သင်၏ ဝင်ရ�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = သိမ်းထားသော ဝင်ရောက်မှု ကိုပြင်ဆင်ရန်
+
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = သိမ်းဆည်းထားသောစကားဝှက်ကိုထုတ်ဖေါ်ပါ
+
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = သိမ်းဆည်းထားသောစကားဝှက်ကိုကူးယူပါ
@@ -120,6 +126,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = သိမ်းဆည
 ## Master Password notification
 
 master-password-notification-message = သိမ်းဆည်းထားသည့် လော့အင် နှင့် စကားဝှက်များ ကြည့်ရန် အဓိက စကားဝှက် ကိုရိုက်ထည့်ပါ
+
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = သိမ်းဆည်းထားသောဝင်ရောက်မှုများ နှင့် စကားဝှက်များကို ထုတ်ပို့ရန်
@@ -150,10 +157,13 @@ enable-password-sync-preferences-button =
 confirmation-dialog-cancel-button = ပယ်ဖျက်
 confirmation-dialog-dismiss-button =
     .title = ပယ်ဖျက်
+
 about-logins-confirm-remove-dialog-title = ဤ ဝင်ရောက်မှု ကို ဖယ်ရှားမှာလား။
 about-logins-confirm-remove-dialog-confirm-button = ဖယ်ရှားပါ
+
 about-logins-confirm-export-dialog-title = ဝင်ရောက်မှုများ နှင့် စကားဝှက်များကို ထုတ်ပို့ရန်
 about-logins-confirm-export-dialog-confirm-button = ထုတ်ပို့...
+
 confirm-discard-changes-dialog-title = မသိမ်းရသောသော ပြောင်းလဲမှုများကို ပယ်ဖျက်မှာလား?
 confirm-discard-changes-dialog-message = မသိမ်းဆည်းရသေးသော အပြောင်းအလဲများအားလုံး ပျောက်ဆုံးပါလိမ့်မည်။
 confirm-discard-changes-dialog-confirm-button = ပယ်ဖျက်
@@ -184,8 +194,10 @@ about-logins-vulnerable-alert-learn-more-link = ပိုမို လေ့လ�
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle } အတွက် ဖြည့်သွင်းမှု့ မှာ အသုံးပြုသူအမည် သည် ရှိပြီးသာဖြစ်သည်။ <a data-l10n-name="duplicate-link">ရှိပြီးသား ဖြည့်သွင်းမှု့ ဆီ သွားမလား?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = ဤ စကားဝှက်ကို သိမ်းရန် ကြိုးစားစဉ်အမှား ဖြစ်ခဲ့သည်။
+
 
 ## Login Export Dialog
 
@@ -215,3 +227,18 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV မှတ်တမ်းစာရွက်
        *[other] CSV ဖိုင်
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+## Logins import report page
+

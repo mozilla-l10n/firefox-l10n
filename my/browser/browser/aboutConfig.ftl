@@ -14,10 +14,13 @@ about-config-intro-warning-button = အန္တရာယ် ကို လက်
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = ဤ အပြင်အဆင်ကို ပြောင်းလဲခြင်းကြောင့် { -brand-short-name } ၏ စွမ်းဆောင်ရည် နှင့် လုံခြုံရေး ကို ထိခိုက် စေပါသည်။
+
 about-config-page-title = အဆင့်မြင့် အပြင်အဆင်များ
+
 about-config-search-input1 =
     .placeholder = အပြင်အဆင်၏ အမည် ဖြင့်ရှာပါ
 about-config-show-all = အားလုံးကို ပြပါ
+
 about-config-pref-add-button =
     .title = ထည့်ရန်
 about-config-pref-toggle-button =

@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } ကို ပြန်စပါ
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name } ကို ပြန်စပါ
 refresh-profile-description = ပြဿနာများကို ဖြေရှင်းရန်နှင့် စွမ်းရည်ကို ပြန်လည်မြှင့်တင်ရန် freshကို စတင်ပါ။

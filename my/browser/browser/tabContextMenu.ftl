@@ -51,11 +51,13 @@ move-to-new-window =
     .label = ဝင်းဒိုးအသစ်ဆီသို့ ရွှေ့ပါ
     .accesskey = W
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = တပ်ဗ်ကို ပိတ်ရန်
     .accesskey = C
 close-tabs =
     .label = တပ်ဗ်များကို ပိတ်ရန်
     .accesskey = S
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

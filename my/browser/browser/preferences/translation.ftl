@@ -38,3 +38,4 @@ translation-sites-button-remove-all =
 translation-button-close =
     .label = Cပိတ်ပါ
     .accesskey = C
+

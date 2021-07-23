@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC အတွင်းပိုင်းများ
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc အားသိမ်း
@@ -49,13 +50,7 @@ about-webrtc-ice-stats-heading = ICE အချက်အလက်များ
 about-webrtc-ice-restart-count-label = ICE ပြန်စတင်မှုများ:
 about-webrtc-ice-rollback-count-label = ICE မူလသို့ပြန်သွားမှုများ:
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -67,13 +62,16 @@ about-webrtc-type-remote = Remote
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = အဆိုပြုခံထားရသော
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ရွေးထားသော
+
 about-webrtc-save-page-label = စာမျက်နှာ အားသိမ်း
 about-webrtc-debug-mode-msg-label = အမှားရှာ စနစ်
 about-webrtc-debug-mode-off-state-label = အမှားရှာ စနစ်ကို စတင်ပါ
@@ -99,6 +97,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ပိ�
 
 ##
 
+
 about-webrtc-local-candidate = Local Candidate
 about-webrtc-remote-candidate = Remote Candidate
 about-webrtc-priority = ဦးစာပေး
@@ -114,7 +113,6 @@ about-webrtc-encoder-label = Encoder
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -124,6 +122,8 @@ about-webrtc-save-page-msg = စာမျက်နှာအားသိမ်း
 about-webrtc-debug-mode-off-state-msg = နောက်ယောင်ခံလိုက် မှတ်တမ်း - { $path }
 about-webrtc-debug-mode-on-state-msg = အမှားရှာ စနစ်ကို ဖွင့်ထားသည်၊ { $path } တွင် မှတ်တမ်းများကို ကြည့်ပါ
 about-webrtc-aec-logging-off-state-msg = မှတ်သားထားသည့် မှတ်တမ်းဖိုင်များကို { $path } ထဲတွင် တွေ့နိုင်သည်
+
+##
 
 ##
 
@@ -138,4 +138,7 @@ about-webrtc-jitter-label = Jitter { $jitter }
 
 
 ##
+
+##
+
 

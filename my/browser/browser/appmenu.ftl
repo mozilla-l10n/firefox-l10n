@@ -22,6 +22,7 @@ appmenuitem-zoom-enlarge =
     .label = ချဲ့ ကြည့်ရန်
 appmenuitem-zoom-reduce =
     .label = ချုံ့ကြည့်ရန်
+
 appmenuitem-fullscreen =
     .label = အပြည့်ကြည့်ရန်
 
@@ -29,6 +30,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ယခုပင် Sync ကို အသုံးပြုပါ
+
 appmenuitem-save-page =
     .label = စာမျက်နှာကို သိမ်းမည်…
 
@@ -49,22 +51,12 @@ whatsnew-panel-header = ဘာတွေ အသစ် ပါလဲ
 appmenu-about =
     .label = { -brand-shorter-name } အကြောင်း
     .accesskey = A
-appmenu-help-troubleshooting-info =
-    .label = အခက်အခဲဆိုင်ရာ ဖြေရှင်းခြင်းနည်းလမ်းများ
-    .accesskey = T
 appmenu-help-feedback-page =
     .label = အကြုံပြုချက်ကို ပေးပို့ရန်…
     .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = အတ်အွန်များကို ပိတ်ပြီး ပြန်စပါ…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = အတ်အွန်များဖွင့်ပြီး ပြန်စတင်ပါ
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

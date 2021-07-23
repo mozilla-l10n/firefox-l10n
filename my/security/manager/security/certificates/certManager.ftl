@@ -208,6 +208,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = ဒီဆာဗာ ချွင်းချက်များကို သင်တကယ် ပယ်ဖျက်လိုသလား။
 delete-ssl-cert-impact = ဆာဗာ ချွင်းချက်တခုကို သင်ပယ်ဖျက်လိုက်ရင်၊ အဲဒီ ​ဆာဗာအတွက် ပုံမှန် လုံခြုံရေး စစ်ဆေးမှုများကို ပြန်ထားပြီး ၄င်းက မှန်ကန်တဲ့ လက်မှတ်တခုကို သုံးစွဲဖို့ လိုအပ်တယ်။
 
+
 delete-ca-cert-title =
     .title = CA အသိအမှတ်ပြုလက်မှတ်အား ဖျက်ပါ(သို့)ပုံဖျက်ပါ
 delete-ca-cert-confirm = CAအသိအမှတ်ပြုလက်မှတ်အားဖျက်ပစ်ရန်သင်တောင်းဆိုခဲ့ပါသည်။မူရင်းအသိအမှတ်ပြုလက်မှတ်များထဲမှ သက်ရောက်မှူ တူညီသောယုံကြည်မှူအားလုံးကိုဖျက်ပစ်မည်ဖြစ်သည်။သင်ဖျက်မည်မှာသေချာပြီလား?
@@ -266,6 +267,8 @@ cert-not-verified-issuer-unknown = ဒီလက်မှတ်ဟာ သက်�
 cert-not-verified-ca-invalid = ဒီလက်မှတ်ကို CA လက်မှတ် မမှန်ကန်တဲ့အတွက် အတည်မပြုနိုင်ဘူး။
 cert-not-verified_algorithm-disabled = Could not verify this certificate because it was signed using a signature algorithm that was disabled because that algorithm is not secure.
 cert-not-verified-unknown = ဒီလက်မှတ်ကို မသိရတဲ့ အကြောင်းများကြောင့် အတည်မပြုနိုင်ဘူး။
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

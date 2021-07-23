@@ -5,43 +5,57 @@
 permissions-window =
     .title = ခြွင်းချက်များ
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ၀ဘ်ဆိုက်လိပ်စာ
     .accesskey = d
+
 permissions-block =
     .label = Bပိတ်ဆို့ပါ
     .accesskey = B
+
 permissions-session =
     .label = အသုံးပြုနေစဉ်အတွင်း ခွင့်ပြုပါ
     .accesskey = S
+
 permissions-allow =
     .label = ခွင့်ပြုပါ
     .accesskey = A
+
 permissions-site-name =
     .label = ဝဘ်ဆိုက်
+
 permissions-status =
     .label = လက်ရှိအခြေအနေ
+
 permissions-remove =
     .label = ဝဘ်ဆိုက်ကို ဖျက်
     .accesskey = R
+
 permissions-remove-all =
     .label = ဝဘ်ဆိုက်အားလုံးကို ဖယ်ရှားပါ
     .accesskey = e
+
 permissions-button-cancel =
     .label = မဆောင်ရွက်တော့ပါ C
     .accesskey = C
+
 permissions-button-ok =
     .label = ပြောင်းလဲမှုများကို သိမ်းပါ S
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = ဝဘ်ဆိုက်ကို ရှာဖွေရန်
+
 permissions-capabilities-allow =
     .label = ခွင့်ပြုပါ
 permissions-capabilities-block =
     .label = ပိတ်ဆို့ပါ
 permissions-capabilities-prompt =
     .label = အမြဲမေးပါ
+
 permissions-capabilities-listitem-allow =
     .value = ခွင့်ပြုပါ
 permissions-capabilities-listitem-block =
@@ -62,6 +76,8 @@ permissions-invalid-uri-label = အလုပ်လုပ်သောတည်ရ
 permissions-exceptions-cookie-window =
     .title = ခြွင်းချက်များ - ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်
     .style = { permissions-window.style }
+
+## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 

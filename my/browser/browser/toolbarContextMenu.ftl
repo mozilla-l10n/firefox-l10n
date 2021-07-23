@@ -28,3 +28,4 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = စိတ်ကြိုက်ပြင်ဆင်ရန်…
     .accesskey = C
+
