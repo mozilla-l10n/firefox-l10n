@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Byrja í öruggum ham
+
 refresh-profile =
     .label = Uppfæra { -brand-short-name }
 safe-mode-description = Öruggur hamur er sérstakkur hamur fyrir { -brand-short-name } sem hægt er að nota til að reyna að laga vandamál.

@@ -318,3 +318,8 @@ touch-warning = ósamstilltur snertiskjár óvirkur vegna óstuddar stillingar: 
 policies-inactive = Óvirkt
 policies-active = Virkt
 policies-error = Villa
+
+## Printing section
+
+## Normandy sections
+

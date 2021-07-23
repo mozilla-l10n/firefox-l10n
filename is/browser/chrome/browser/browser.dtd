@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Opna valmynd">
+
 <!ENTITY navbarOverflow.label                "Fleiri verkfæri…">
 
 <!-- Tab context menu -->
@@ -113,19 +114,23 @@ can reach it easily. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "S">
 
 <!ENTITY historyMenu.label "Ferill">
+
 <!ENTITY historyUndoMenu.label "Nýlega lokaðir flipar">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nýlega lokaðir gluggar">
 
 <!ENTITY appMenuHistory.showAll.label "Skoða alla ferla">
+
 <!ENTITY appMenuHistory.clearRecent.label "Hreinsa nýlega ferla…">
 <!ENTITY appMenuHistory.restoreSession.label "Sækja fyrri vafralotu">
 <!ENTITY appMenuHistory.viewSidebar.label "Birta feril í hliðslá">
 <!ENTITY appMenuHistory.hideSidebar.label "Fela hliðslá ferils">
 <!ENTITY appMenuHistory.recentHistory.label "Nýlegur ferill">
+
 <!ENTITY appMenuHelp.label "Hjálp">
 
 <!ENTITY appMenuRemoteTabs.label "Samstilltir flipar">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Engir opnir flipar">

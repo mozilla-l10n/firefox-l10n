@@ -126,6 +126,8 @@ security-site-data-only = Já, { $value } { $unit } af gögnum vefsvæðis
 security-site-data-cookies-only = Já, smákökur
 security-site-data-no = Nei
 
+##
+
 image-size-unknown = Óþekkt
 page-info-not-specified =
     .value = Ekki skilgreint

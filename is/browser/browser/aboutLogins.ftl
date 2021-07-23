@@ -75,3 +75,17 @@ master-password-reload-button =
 
 ## Login Import Dialog
 
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+## Logins import report page
+

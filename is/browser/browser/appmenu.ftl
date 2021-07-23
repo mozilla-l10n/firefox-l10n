@@ -26,6 +26,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Samstilla núna
+
 appmenuitem-save-page =
     .label = Vista síðu sem…
 
@@ -78,3 +79,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Verkefnisstjóri
+

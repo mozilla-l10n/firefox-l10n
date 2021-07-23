@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Uppfæra { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Uppfæra { -brand-short-name }
 refresh-profile-description = Byrja upp á nýtt til að laga vandamál og endurheimta afkastagetu.

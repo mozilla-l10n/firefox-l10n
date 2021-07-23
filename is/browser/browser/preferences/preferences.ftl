@@ -566,6 +566,7 @@ home-prefs-topsites-description = Mest heimsóttu vefsíður
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Með þessu mælir { $provider }
+
 ##
 
 home-prefs-recommended-by-learn-more = Hvernig það virkar
@@ -591,6 +592,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Bútar
 home-prefs-snippets-description = Uppfærslur frá { -vendor-short-name } og { -brand-product-name }
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -662,6 +664,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = Stillingar
+
 containers-remove-button =
     .label = Fjarlægja
 

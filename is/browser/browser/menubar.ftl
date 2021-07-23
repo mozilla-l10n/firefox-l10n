@@ -34,16 +34,20 @@ menu-quit =
             [windows] H
            *[other] H
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Hætta í { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Hætta í { -brand-shorter-name }
+
 menu-about =
     .label = Um { -brand-shorter-name }
     .accesskey = U
@@ -303,8 +307,6 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Upplýsingar fyrir úrræðaleit
     .accesskey = t
-menu-help-taskmanager =
-    .label = Verkefnisstjóri
 menu-help-report-site-issue =
     .label = Tilkynna vandamál á vefsvæði…
 menu-help-feedback-page =

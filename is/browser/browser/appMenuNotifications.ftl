@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Allt í lagi, ég skil
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Sýslaðu með viðbætur með því að smella á <image data-l10n-name='addon-install-icon'></image> í <image data-l10n-name='addon-menu-icon'></image> valmyndinni.
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = Leyfa þessari viðbót að keyra í huliðsgluggum
     .accesskey = L
@@ -52,6 +53,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = H
     .secondarybuttonlabel = Slökkva á viðbót
     .secondarybuttonaccesskey = ö
+
 appmenu-tab-hide-controlled =
     .label = Opna falda flipa
     .buttonlabel = Halda flipum földum
