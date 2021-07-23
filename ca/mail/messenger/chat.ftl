@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = S'està unint al xat
+
 chat-left-chat-icon2 =
     .alt = Ha sortit del xat
+
 chat-participant-owner-role-icon2 =
     .alt = Propietari
+
 chat-participant-administrator-role-icon2 =
     .alt = Administrator
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderador
+
 chat-participant-voiced-role-icon2 =
     .alt = El participant pot publicar missatges

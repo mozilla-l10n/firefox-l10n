@@ -27,7 +27,5 @@
 <!ENTITY appWeekly.accesskey                  "e">
 <!ENTITY appModeAutomatic.label               "Baixa i instal·la automàticament l'actualització">
 <!ENTITY appModeAutomatic.accesskey           "u">
-<!ENTITY appModeAutoAddonWarn.label           "Avisa'm si això faria que s'inhabilités algun dels meus complements">
-<!ENTITY appModeAutoAddonWarn.accesskey       "n">
 <!ENTITY updateHistoryButton.label            "Mostra l'historial d'actualitzacions…">
 <!ENTITY updateHistoryButton.accesskey        "s">

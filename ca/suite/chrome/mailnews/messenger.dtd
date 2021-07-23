@@ -16,6 +16,8 @@
 <!-- File menu items -->
 
 
+<!-- menu items: the . means that the menu item isn't implemented yet -->
+
 <!ENTITY newMessage.label "Missatge nou">
 <!ENTITY newMessage.accesskey "n">
 <!ENTITY newFolderCmd.label "Carpeta…">
@@ -47,7 +49,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "e">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Tots els comptes">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
-<!ENTITY getAllNewMsgCmd.label "Recupera tots els missatges nous">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Recupera els següents 500 missatges dels grups de discussió">
 <!ENTITY getNextNMsgCmd.accesskey "t">
@@ -238,6 +239,7 @@
      This is the key used to show the Lightning quick filter bar. -->
 
 <!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 
@@ -402,6 +404,7 @@
 <!-- Toolbar items -->
 
 <!ENTITY getMsgButton.label "Recupera">
+<!ENTITY getAllNewMsgCmd.label "Recupera tots els missatges nous">
 <!ENTITY newMsgButton.label "Redacta">
 <!ENTITY newHTMLMessageCmd.label "Redacta-ho en HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
@@ -441,7 +444,6 @@
 <!ENTITY undeleteButton.tooltip "Recupera el missatge suprimit seleccionat">
 <!ENTITY markButton.tooltip "Marca els missatges">
 <!ENTITY stopButton.tooltip "Atura la transferència actual">
-<!ENTITY throbber.tooltip "Vés a la pàgina inicial de &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marca els missatges seleccionats com a correu brossa">
 <!ENTITY notJunkButton.tooltip "Marca els missatges seleccionats com a correu legítim">
 <!-- Statusbar -->

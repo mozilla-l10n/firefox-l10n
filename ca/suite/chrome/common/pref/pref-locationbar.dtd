@@ -6,16 +6,12 @@
 <!ENTITY pref.locationBar.title                "Barra d'ubicació">
 
 <!ENTITY autoComplete.label                    "Autocompleció">
-<!ENTITY enableAutoComplete.label              "Autocompleció a partir del vostre historial de navegació a mesura que s'escriu">
-<!ENTITY enableAutoComplete.accesskey          "A">
 <!ENTITY autoCompleteAutoFill.label            "Ompliu-ho automàticament amb la millor coincidència">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Mostra una llista de resultats que hi coincideixen">
 <!ENTITY autoCompleteShowPopup.accesskey       "s">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Troba coincidències només amb els llocs web que hàgiu teclejat anteriorment">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "m">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Troba coincidències només amb les adreces, no amb els títols dels llocs web">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "a">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey

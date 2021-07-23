@@ -4,6 +4,8 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
 <!ENTITY MsgSynchronize.label "Baixa i sincronitza els missatges">
 <!ENTITY MsgSelect.label "Elements que voleu utilitzar fora de línia">
 <!ENTITY MsgSyncDesc.label "Si ja heu seleccionat les carpetes de correu o els grups de discussió que voleu utilitzar fora de línia, podeu baixar-los i/o sincronitzar-los ara. Si no, utilitzeu el botó «Seleccioneu» per seleccionar les carpetes de correu i els grups de discussió que voleu utilitzar fora de línia.">

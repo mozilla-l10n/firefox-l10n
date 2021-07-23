@@ -17,7 +17,6 @@
 
 <!ENTITY     search.placeholder             "Cerca galetes">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Nom:">
@@ -30,8 +29,6 @@
 <!ENTITY     treehead.sitename.label        "Lloc">
 <!ENTITY     treehead.status.label          "Estat">
 <!ENTITY     windowtitle.label              "Gestor de galetes">
-<!ENTITY     buttonaccept.label             "Tanca">
-<!ENTITY     buttonaccept.accesskey         "c">
 
 <!ENTITY     blockSite.label                "Bloca">
 <!ENTITY     blockSite.accesskey            "B">

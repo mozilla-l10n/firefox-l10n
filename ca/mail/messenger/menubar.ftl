@@ -16,6 +16,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Preferències
     .accesskey = P
+
 menu-addons-and-themes =
     .label = Complements i temes
     .accesskey = C
@@ -25,9 +26,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Mode de resolució de problemes…
     .accesskey = M
+
 menu-help-exit-troubleshoot-mode =
     .label = Desactiva el mode de resolució de problemes
     .accesskey = o
+
 menu-help-more-troubleshooting-info =
     .label = Més informació de resolució de problemes
     .accesskey = M
@@ -58,12 +61,15 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Densitat
     .accesskey = D
+
 mail-uidensity-compact =
     .label = Compacte
     .accesskey = C
+
 mail-uidensity-normal =
     .label = Normal
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Tàctil
     .accesskey = T

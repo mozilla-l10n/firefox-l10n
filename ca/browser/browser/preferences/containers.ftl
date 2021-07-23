@@ -10,13 +10,16 @@ containers-window-new =
 containers-window-update =
     .title = Preferències del contenidor { $name }
     .style = width: 45em
+
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings =
     .title = Paràmetres del contenidor { $name }
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -27,23 +30,30 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Nom
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Escriviu un nom de contenidor
+
 containers-icon-label = Icona
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Color
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = Fet
     .accesskey = F
+
 containers-dialog =
     .buttonlabelaccept = Fet
     .buttonaccesskeyaccept = F
+
 containers-color-blue =
     .label = Blau
 containers-color-turquoise =
@@ -62,6 +72,7 @@ containers-color-purple =
     .label = Porpra
 containers-color-toolbar =
     .label = Fes coincidir amb la barra d'eines
+
 containers-icon-fence =
     .label = Tanca
 containers-icon-fingerprint =

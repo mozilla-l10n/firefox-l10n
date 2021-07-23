@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Obre el menú">
+
 <!ENTITY navbarOverflow.label                "Més eines…">
 
 <!-- Tab context menu -->
@@ -142,19 +143,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Historial">
+
 <!ENTITY historyUndoMenu.label "Pestanyes tancades recentment">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Finestres tancades recentment">
 
 <!ENTITY appMenuHistory.showAll.label "Mostra tot l'historial">
+
 <!ENTITY appMenuHistory.clearRecent.label "Neteja l'historial recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaura la sessió anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Mostra la barra lateral de l'historial">
 <!ENTITY appMenuHistory.hideSidebar.label "Amaga la barra lateral de l'historial">
 <!ENTITY appMenuHistory.recentHistory.label "Historial recent">
+
 <!ENTITY appMenuHelp.label "Ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Pestanyes sincronitzades">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "No hi ha cap pestanya oberta">

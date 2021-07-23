@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
 
@@ -18,6 +19,7 @@
 <!ENTITY directories.label         "Utilitza un altre servidor LDAP:">
 <!ENTITY directories.accesskey     "d">
 <!ENTITY directoriesNone.label     "Cap">
+
 <!-- am-addressing.xul -->
 
 
@@ -27,9 +29,6 @@
 <!ENTITY useHtml.accesskey                    "H">
 <!ENTITY autoQuote.label                      "Cita automàticament el missatge original en respondre">
 <!ENTITY autoQuote.accesskey                  "a">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Llavors,">
-<!ENTITY then.accesskey                       "L">
 <!ENTITY aboveQuote.label                     "inicia la resposta abans del text citat">
 <!ENTITY belowQuote.label                     "inicia la resposta després del text citat">
 <!ENTITY selectAndQuote.label                 "selecciona el text citat">

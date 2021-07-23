@@ -4,6 +4,8 @@
 
 add-on-options-button =
     .title = Opcions del complement
+
 atn-addons-heading-search-input =
     .placeholder = Cerca a addons.thunderbird.net
+
 sidebar-preferences-button-title = Preferències del { -brand-short-name }

@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Restableix el { -brand-short-name } a l'estat inicial
+
 refresh-profile-dialog-title = Voleu restablir el { -brand-short-name } als paràmetres per defecte?
 refresh-profile-dialog-button =
     .label = Restableix el { -brand-short-name } a l'estat inicial

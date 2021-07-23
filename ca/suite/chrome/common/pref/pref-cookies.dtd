@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.cookies.title             "Galetes">
+
 <!-- cookies -->
 
 
@@ -31,11 +32,6 @@
 <!ENTITY acceptforNDays.label           "Accepta les galetes per a">
 <!ENTITY acceptforNDays.accesskey       "r">
 <!ENTITY days.label                     "dies">
-
-<!ENTITY warnAboutCookies.label         "Demana-ho per cada galeta">
-<!ENTITY warnAboutCookies.accesskey     "D">
-<!ENTITY forCurrentSession.label        "excepte per a les galetes de sessió">
-<!ENTITY forCurrentSession.accesskey    "e">
 
 <!ENTITY manageCookies.label            "Gestiona les galetes i els llocs">
 <!ENTITY manageCookiesDescription.label "Us permet visualitzar i gestionar les galetes emmagatzemades i els paràmetres d'acceptació i rebuig de galetes per cada lloc. Aquests paràmetres a nivell particular tindran preferència davant de la configuració anterior.">

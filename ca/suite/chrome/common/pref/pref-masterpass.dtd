@@ -3,15 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pref.masterpass.title                  "Contrasenyes mestres">
-<!ENTITY  managepassword.caption                 "Temps d'espera de la contrasenya mestra">
-<!ENTITY  managepassword.text                    "El &brandShortName; us demanarà una contrasenya mestra:">
-<!ENTITY  managepassword.askfirsttime            "La primera vegada que calgui">
-<!ENTITY  managepassword.askfirsttime.accesskey  "p">
-<!ENTITY  managepassword.askeverytime            "Cada vegada que calgui">
-<!ENTITY  managepassword.askeverytime.accesskey  "e">
-<!ENTITY  managepassword.asktimeout              "Si no s'ha utilitzat des de fa més de ">
-<!ENTITY  managepassword.asktimeout.accesskey    "n">
-<!ENTITY  managepassword.timeout.unit            "minuts">
 
 <!ENTITY  changepassword.caption                 "Canvi de la contrasenya mestra">
 <!ENTITY  changepassword.text                    "La vostra contrasenya mestra protegeix informació sensible com ara contrasenyes web i certificats.">

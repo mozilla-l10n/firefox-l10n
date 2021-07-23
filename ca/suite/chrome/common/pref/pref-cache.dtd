@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-cache.xul -->
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 
@@ -29,3 +30,4 @@
 <!ENTITY prefetchTitle.label             "Càrrega prèvia d'enllaços">
 <!ENTITY enablePrefetch.label            "Durant la inactivitat, prepara les pàgines web designades de manera que els enllaços que incloguin es carreguin més ràpidament.">
 <!ENTITY enablePrefetch.accesskey        "D">
+

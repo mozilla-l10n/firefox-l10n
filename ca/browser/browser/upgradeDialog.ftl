@@ -11,21 +11,13 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = Doneu la benvinguda al nou { -brand-short-name }
 upgrade-dialog-new-subtitle = Dissenyat per dur-vos on vulgueu a màxima velocitat
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
-# style to be automatically added to the text inside it. { -brand-short-name }
-# should stay inside the span.
-upgrade-dialog-new-alt-subtitle = Per començar, feu que el <span data-l10n-name="zap">{ -brand-short-name }</span> estigui a un sol clic
 upgrade-dialog-new-item-menu-title = Menús i barres d'eines optimitzats
 upgrade-dialog-new-item-menu-description = Prioritzeu les coses importants perquè trobeu allò que necessiteu.
 upgrade-dialog-new-item-tabs-title = Pestanyes modernes
 upgrade-dialog-new-item-tabs-description = Inclouen informació clara, es poden seleccionar i moure de forma flexible.
 upgrade-dialog-new-item-icons-title = Icones noves i missatges més clars
 upgrade-dialog-new-item-icons-description = Us ajudaran a trobar allò que cerqueu amb més agilitat.
-upgrade-dialog-new-primary-primary-button = Fes que el { -brand-short-name } sigui el meu navegador principal
-    .title = Defineix el { -brand-short-name } com a navegador per defecte i el fixa a la barra de tasques
 upgrade-dialog-new-primary-default-button = Fes que el { -brand-short-name } sigui el meu navegador per defecte
-upgrade-dialog-new-primary-pin-button = Fixa el { -brand-short-name } a la barra de tasques
-upgrade-dialog-new-primary-pin-alt-button = Fixa'l a la barra de tasques
 upgrade-dialog-new-primary-theme-button = Trieu un tema
 upgrade-dialog-new-secondary-button = Ara no
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -61,10 +53,6 @@ upgrade-dialog-pin-secondary-button = Ara no
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = Voleu que el { -brand-short-name } sigui el vostre navegador per defecte?
-upgrade-dialog-default-subtitle = Velocitat, seguretat i privadesa sempre que navegueu.
-upgrade-dialog-default-primary-button = Defineix com a navegador per defecte
-# This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Feu que el { -brand-short-name } sigui el navegador per defecte
 upgrade-dialog-default-subtitle-2 = Obteniu velocitat, seguretat i privadesa de forma automàtica.
 upgrade-dialog-default-primary-button-2 = Fes que sigui el navegador per defecte
@@ -72,10 +60,6 @@ upgrade-dialog-default-secondary-button = Ara no
 
 ## Theme selection screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title =
-    Comenceu des de zero
-    amb un tema actualitzat
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title-2 = Comenceu des de zero amb un tema més nítid
 upgrade-dialog-theme-system = Tema del sistema

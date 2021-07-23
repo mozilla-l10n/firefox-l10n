@@ -1,7 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/navigator.xul -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
@@ -54,8 +56,6 @@
 <!ENTITY printButton.label            "Imprimeix">
 <!ENTITY printButton.tooltip          "Imprimeix aquesta pàgina">
 
-<!ENTITY throbber.tooltip             "Vés a la pàgina inicial de &vendorShortName;">
-
 <!ENTITY locationBar.tooltip          "Introduïu el terme, paraula clau o adreça web per cercar">
 <!ENTITY locationBar.accesskey        "U">
 <!ENTITY locationBar.title            "Ubicació">
@@ -80,3 +80,4 @@
 <!ENTITY viewCertificate.accesskey   "c">
 <!ENTITY viewCertManager.label       "Obre el Gestor de certificats">
 <!ENTITY viewCertManager.accesskey   "G">
+
