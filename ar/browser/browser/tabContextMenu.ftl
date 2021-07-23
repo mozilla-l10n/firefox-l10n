@@ -66,15 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = أغلِق أكثر من لسان
     .accesskey = ك
-tab-context-share-url =
-    .label = شارِك
-    .accesskey = ش
-tab-context-share-more =
-    .label = أكثر
-
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -99,6 +90,15 @@ move-tabs =
 move-tab =
     .label = انقل اللسان
     .accesskey = ق
+tab-context-share-url =
+    .label = شارِك
+    .accesskey = ش
+tab-context-share-more =
+    .label = أكثر
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->

@@ -8,6 +8,7 @@ password-quality-meter = مقياس جودة كلمة السرّ
 
 change-password-window =
     .title = غيّر كلمة السرّ الرئيسيّة
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = جهاز الأمن: { $tokenName }
@@ -20,6 +21,7 @@ change-password-reenter = كلمة السرّ الجّديدة (مرّة ثان�
 reset-password-window =
     .title = صفّر كلمة السرّ الرّئيسية
     .style = width: 40em
+
 pippki-incorrect-pw = لم تُدخل كلمة السر الرئيسية الصحيحة. رجاءً أعِد المحاولة.
 
 ## Reset Primary Password dialog

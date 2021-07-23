@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = أنعش { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = أنعش { -brand-short-name }
 refresh-profile-description = ابدأ على نظافة لإصلاح المشاكل و استعادة الأداء.

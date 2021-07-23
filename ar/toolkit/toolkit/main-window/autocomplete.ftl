@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">استورِد جلسة الولوج من { $browser }</div>
     <div data-l10n-name="line2">لِ‍ { $host } وغيره من مواقع</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = اطّلع على المزيد
 

@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = ابحث عن التّواجد التّالي للعبارة
 findbar-previous =
     .tooltiptext = ابحث عن التّواجد السّابق للعبارة
+
 findbar-find-button-close =
     .tooltiptext = أغلق شريط البحث
+
 findbar-highlight-all2 =
     .label = أبرِز الكل
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] ك
         }
     .tooltiptext = أبرِز كل تطابقات العبارة
+
 findbar-case-sensitive =
     .label = طابق حالة الأحرف
     .accesskey = ط
     .tooltiptext = ابحث مع مطابقة حالة الأحرف
+
 findbar-match-diacritics =
     .label = طابِق الحركات
     .accesskey = ط
     .tooltiptext = فرّق بين الأحرف مع الحركات وبدون حركات (بتفعيل الخيار لن تتطابق ”مُدرّسة“ مع ”مدرسة“)
+
 findbar-entire-word =
     .label = كلمات كاملة
     .accesskey = ك

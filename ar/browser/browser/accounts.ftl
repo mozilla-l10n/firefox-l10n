@@ -5,12 +5,7 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = أنهِ إعداد الحساب
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-reconnect-to-fxa = فُصل الحساب
-# Used as the FxA toolbar menu item title when the user
-# needs to reconnect their account.
-account-disconnected = قُطع اتصالك
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = فُصل الحساب

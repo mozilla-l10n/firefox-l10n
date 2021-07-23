@@ -242,6 +242,7 @@
 <!ENTITY printButton.tooltip "اطبع هذه الرسالة">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "م">
 <!ENTITY subject.accesskey "م">
 <!ENTITY attachmentBucketCloseButton.tooltip "أخفِ لوحة المرفقات">

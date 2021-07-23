@@ -8,6 +8,7 @@
 newtab-page-title = لسان جديد
 newtab-settings-button =
     .title = خصص صفحة اللسان الجديد
+
 newtab-personalize-button-label = خصّص
     .title = خصّص صفحة اللسان الجديد
     .aria-label = خصّص صفحة اللسان الجديد
@@ -21,7 +22,9 @@ newtab-personalize-icon-label =
 newtab-search-box-search-button =
     .title = ابحث
     .aria-label = ابحث
+
 newtab-search-box-search-the-web-text = ابحث في الوِب
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
@@ -36,10 +39,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = ابحث أو أدخِل عنوانا
     .title = ابحث أو أدخِل عنوانا
     .aria-label = ابحث أو أدخِل عنوانا
+
 newtab-search-box-search-the-web-input =
     .placeholder = ابحث في الوِب
     .title = ابحث في الوِب
     .aria-label = ابحث في الوِب
+
 newtab-search-box-input =
     .placeholder = ابحث في الوِب
     .aria-label = ابحث في الوِب
@@ -54,10 +59,12 @@ newtab-topsites-edit-shortcut-header = حرّر الاختصار
 newtab-topsites-title-label = العنوان
 newtab-topsites-title-input =
     .placeholder = أدخل عنوانًا
+
 newtab-topsites-url-label = المسار
 newtab-topsites-url-input =
     .placeholder = اكتب أو ألصق مسارًا
 newtab-topsites-url-validation = مطلوب مسار صالح
+
 newtab-topsites-image-url-label = مسار الصورة المخصصة
 newtab-topsites-use-image-link = استخدم صورة مخصصة…
 newtab-topsites-image-validation = فشل تحميل الصورة. جرّب مسارا آخر.
@@ -86,10 +93,12 @@ newtab-topsite-sponsored = نتيجة مموّلة
 newtab-menu-section-tooltip =
     .title = افتح القائمة
     .aria-label = افتح القائمة
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = أزِل
     .aria-label = أزِل
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -158,10 +167,12 @@ newtab-label-removed-bookmark = أُزيلت العلامة
 newtab-label-recommended = مُتداول
 newtab-label-saved = حُفِظت في { -pocket-brand-name }
 newtab-label-download = نُزّل
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = برعاية · { $sponsorOrSource }
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -200,10 +211,12 @@ newtab-section-header-pocket = ينصح به { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ابدأ التصفح وسنعرض أمامك بعض المقالات والفيديوهات والمواقع الأخرى التي زرتها حديثا أو أضفتها إلى العلامات هنا.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = لا جديد. تحقق لاحقًا للحصول على مزيد من أهم الأخبار من { $provider }. لا يمكنك الانتظار؟ اختر موضوعًا شائعًا للعثور على المزيد من القصص الرائعة من جميع أنحاء الوِب.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -249,6 +262,7 @@ newtab-custom-pocket-sponsored = قصص مموّلة
 newtab-custom-recent-title = أحدث الأنشطة
 newtab-custom-recent-subtitle = مختارات من المواقع والمحتويات الحديثة
 newtab-custom-close-button = أغلِق
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

@@ -38,16 +38,20 @@ menu-quit =
             [windows] خ
            *[other] غ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = أغلق { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = أغلق { -brand-shorter-name }
+
 menu-about =
     .label = عن { -brand-shorter-name }
     .accesskey = ع
@@ -215,6 +219,7 @@ menu-history-undo-menu =
     .label = الألسنة المُغلقة مؤخرًا
 menu-history-undo-window-menu =
     .label = النوافذ المغلقة مؤخرًا
+
 menu-history-reopen-all-tabs = أعِد فتح كل الألسنة
 menu-history-reopen-all-windows = أعِد فتح كل النوافذ
 
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = لِج إلى { -brand-product-name }…
     .accesskey = ل
+menu-tools-turn-on-sync =
+    .label = فعّل { -sync-brand-short-name }…
+    .accesskey = ف
 menu-tools-addons-and-themes =
     .label = الإضافات والسمات
     .accesskey = ض
 menu-tools-fxa-sign-in2 =
     .label = لِج
     .accesskey = ل
-menu-tools-turn-on-sync =
-    .label = فعّل { -sync-brand-short-name }…
-    .accesskey = ف
 menu-tools-turn-on-sync2 =
     .label = فعّل المزامنة…
     .accesskey = ن
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = معلومات الصفحة
     .accesskey = م
-menu-settings =
-    .label = الإعدادات
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ع
-           *[other] ع
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] خ
            *[other] ف
+        }
+menu-settings =
+    .label = الإعدادات
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ع
+           *[other] ع
         }
 menu-tools-layout-debugger =
     .label = منقح تخطيط الصفحة
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = اختصارات لوحة المفاتيح
     .accesskey = خ
-menu-get-help =
-    .label = احصل على مُساعدة
-    .accesskey = ح
 menu-help-troubleshooting-info =
     .label = معلومات مواجهة الأعطال
     .accesskey = ط
-menu-help-taskmanager =
-    .label = مدير المهام
+menu-get-help =
+    .label = احصل على مُساعدة
+    .accesskey = ح
 menu-help-more-troubleshooting-info =
     .label = معلومات أكثر عن مواجهة الأعطال
     .accesskey = ط

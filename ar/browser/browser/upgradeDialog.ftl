@@ -8,16 +8,14 @@
 
 ## New changes screen
 
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
-# style to be automatically added to the text inside it. { -brand-short-name }
-# should stay inside the span.
-upgrade-dialog-new-alt-subtitle = ابدأ أولًا بتسهيل الوصول إلى <span data-l10n-name="zap">{ -brand-short-name }</span>
+## Pin Firefox screen
+##
+## These title, subtitle and button strings differ between platforms as they
+## match the OS' application context menu item action where Windows uses "pin"
+## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
 ## Default browser screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = أتريد ضبط { -brand-short-name } ليكون متصفّحك المبدئي؟
-upgrade-dialog-default-primary-button = اضبطه ليكون المتصفّح المبدئي
 upgrade-dialog-default-secondary-button = ليس الآن
 
 ## Theme selection screen
