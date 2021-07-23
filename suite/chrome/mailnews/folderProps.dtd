@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Propietats">
 
 <!ENTITY generalInfo.label                       "Informació general">
-<!ENTITY folderCharsetFallback.label             "Codificació de caràcters alternativa:">
-<!ENTITY folderCharsetFallback.accesskey         "e">
-<!ENTITY folderCharsetEnforce.label              "Aplica la codificació a tots els missatges de la carpeta (omet la detecció automàtica i la codificació de caràcters específica de cada missatge)">
-<!ENTITY folderCharsetEnforce.accesskey          "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstrueix l'índex del fitxer resum">
 <!ENTITY folderRebuildSummaryFile2.label         "Repara la carpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
@@ -30,8 +26,6 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Suprimeix-los tots excepte els més nous">
 <!ENTITY retentionKeepRecent.accesskey "x">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Suprimeix sempre els missatges llegits (sobreescriu els paràmetres d'antiguitat)">
 <!ENTITY retentionApplyToFlagged.label "Conserva sempre els missatges destacats">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
@@ -61,7 +55,6 @@
 <!ENTITY folderType.label                        "Tipus de carpeta:">
 
 <!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Arrel de la quota:">
 <!ENTITY folderQuotaUsage.label                  "Utilització:">
 <!ENTITY folderQuotaStatus.label                 "Estat:">
 

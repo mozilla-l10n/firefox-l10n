@@ -22,9 +22,6 @@
 <!ENTITY maxusers.label "Màxim d'usuaris:">
 <!ENTITY maxusers.accesskey "x">
 
-<!ENTITY refresh.label "Actualitza ara">
-<!ENTITY refresh.accesskey "">
-
 <!ENTITY network.hint.label "Introduïu una xarxa o nom de servidor (podeu incloure el port) i el canal a què unir-vos.">
 
 <!ENTITY col.network "Xarxa">

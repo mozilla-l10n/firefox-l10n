@@ -5,6 +5,7 @@
 <!ENTITY Menubar.tooltip "Menú principal">
 <!ENTITY Toolbar.tooltip "Barra principal">
 
+
 <!ENTITY multiline-expand.tooltip "Commuta a entrada de línia múltiple (Ctrl+Up)">
 <!ENTITY multiline-contract.tooltip "Commuta a entrada d'una sola línia (Ctrl+Avall)">
 <!ENTITY multiline-send.tooltip "Envia aquest text (Ctrl+tecla de retorn)">

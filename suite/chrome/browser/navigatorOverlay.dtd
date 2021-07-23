@@ -19,8 +19,6 @@
 <!ENTITY uploadFile.label "Puja un fitxer…">
 <!ENTITY uploadFile.accesskey "f">
 
-<!ENTITY printSetupCmd.label "Configuració de la pàgina…">
-<!ENTITY printSetupCmd.accesskey "g">
 <!-- Edit Menu -->
 
 <!ENTITY findOnCmd.label "Cerca en aquesta pàgina…">
@@ -122,17 +120,11 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Les imatges d'aquest lloc mai es baixaran.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Permet les finestres emergents d'aquest lloc">
-<!ENTITY cookieAllowPopupsCmd.accesskey "P">
-<!ENTITY cookieManagePopups.label "Gestiona les finestres emergents">
-<!ENTITY cookieManagePopups.accesskey "n">
-
 <!ENTITY cookieCookieManager.label "Gestor de les galetes">
 <!ENTITY cookieCookieManager.accesskey "G">
 <!ENTITY cookieImageManager.label "Gestor d'imatges">
 <!ENTITY cookieImageManager.accesskey "m">
-<!ENTITY cookiePopupManager.label "Gestor de les finestres emergents">
-<!ENTITY cookiePopupManager.accesskey "o">
 
 <!ENTITY clearPrivateDataCmd.label "Neteja les dades privades…">
 <!ENTITY clearPrivateDataCmd.accesskey "e">
+

@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-fonts.xul -->
 <!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
 
@@ -28,19 +29,13 @@
 <!ENTITY  cursive.label                           "Cursiva:">
 <!ENTITY  cursive.accesskey                       "C">
 
-<!ENTITY  font.langGroup.latin1                   "Occidental">
-<!ENTITY  font.langGroup.latin2                   "Centreeuropeu">
 <!ENTITY  font.langGroup.japanese                 "Japonès">
 <!ENTITY  font.langGroup.trad-chinese             "Xinès tradicional">
 <!ENTITY  font.langGroup.simpl-chinese            "Xinès simplificat">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Xinès tradicional (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreà">
 <!ENTITY  font.langGroup.cyrillic                 "Ciríl·lic">
-<!ENTITY  font.langGroup.baltic                   "Bàltic">
 <!ENTITY  font.langGroup.el                       "Grec">
-<!ENTITY  font.langGroup.turkish                  "Turc">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Definit per l'usuari">
 <!ENTITY  font.langGroup.thai                     "Tailandès">
 <!ENTITY  font.langGroup.hebrew                   "Hebreu">
 <!ENTITY  font.langGroup.arabic                   "Àrab">
@@ -66,6 +61,7 @@
 
 <!ENTITY  useDocumentFonts.label                  "Permet que els documents utilitzin altres tipus de lletra">
 <!ENTITY  useDocumentFonts.accesskey              "o">
+
 <!-- leaving this stuff in for now -->
 
 

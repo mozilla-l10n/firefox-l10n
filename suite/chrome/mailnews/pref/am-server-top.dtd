@@ -42,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "e">
 <!ENTITY downloadOnBiff.label "Baixa automàticament els missatges nous">
 <!ENTITY downloadOnBiff.accesskey "a">
-<!ENTITY username.label "El vostre nom d'entrada:">
 <!ENTITY deleteMessagePrefix.label "Quan suprimeixi un missatge:">
 <!ENTITY modelMoveToTrash.label "Mou-lo a aquesta carpeta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -73,7 +72,6 @@
 <!ENTITY abbreviateOn.label "Noms sencers (per exemple, «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Noms abreujats (per exemple, «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Avançat…">
-<!ENTITY serverDefaultCharset.label "Codificació de caràcters per defecte:">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY localPath.label "Directori local:">
 <!ENTITY localFolderPicker.label "Seleccioneu el directori local">

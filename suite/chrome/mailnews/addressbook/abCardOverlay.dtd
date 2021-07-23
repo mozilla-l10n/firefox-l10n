@@ -5,6 +5,7 @@
 <!ENTITY Contact.tab                     "Contacte">
 <!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Nom">
+
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -32,7 +33,6 @@
 <!ENTITY DisplayName.label              "Nom a mostrar:">
 <!ENTITY DisplayName.accesskey          "m">
 <!ENTITY preferDisplayName.label        "Es prefereix mostrar sempre el nom sobre la capçalera del missatge">
-<!ENTITY preferDisplayName.accesskey    "a">
 <!ENTITY NickName.label                 "Sobrenom:">
 <!ENTITY NickName.accesskey             "S">
 
@@ -45,16 +45,6 @@
 <!ENTITY PlainText.label                "Text net">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Desconegut">
-<!ENTITY ScreenName.label               "Nom en pantalla:">
-<!ENTITY ScreenName.accesskey           "p">
-
-<!ENTITY allowRemoteContent1.label      "Permet el contingut remot.">
-<!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "En els missatges HTML és possible 
-incrustar contingut d'un origen remot. En obrir-se un d'aquests missatges, s'establirà 
-una connexió amb la font externa. Això permet que es pugui detectar si es 
-llegeix el missatge. Si es marca aquesta opció, es permetrà mostrar aquest tipus 
-de contingut incrustat en els missatges HTML d'aquest contacte.">
 
 <!ENTITY WorkPhone.label                "Feina:">
 <!ENTITY WorkPhone.accesskey            "F">

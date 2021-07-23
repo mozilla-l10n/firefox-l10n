@@ -21,6 +21,7 @@
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Mida de la memòria intermèdia:
+
 perftools-devtools-interval-label = Interval:
 perftools-devtools-settings-label = Paràmetres
 

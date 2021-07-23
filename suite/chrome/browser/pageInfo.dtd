@@ -31,7 +31,6 @@
 <!ENTITY  generalReferrer       "URL referent:">
 <!ENTITY  generalSource         "Origen:">
 <!ENTITY  generalModified       "Modificat:">
-<!ENTITY  generalEncoding       "Codificació:">
 <!ENTITY  generalMetaName       "Nom">
 <!ENTITY  generalMetaContent    "Contingut">
 <!ENTITY  generalSecurityDetails           "Detalls">
@@ -60,16 +59,11 @@
 
 <!ENTITY  mediaTab              "Multimèdia">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaURL              "Adreça:">
-<!ENTITY  mediaAlt              "Text alternatiu:">
 <!ENTITY  mediaAltHeader        "Text alternatiu">
 <!ENTITY  mediaAddress          "Adreça">
 <!ENTITY  mediaType             "Tipus">
 <!ENTITY  mediaSize             "Mida">
 <!ENTITY  mediaCount            "Recompte">
-<!ENTITY  mediaDimensions       "Dimensions:">
-<!ENTITY  mediaPhysDimensions   "Dimensions reals:">
-<!ENTITY  mediaTitle            "Atribut títol:">
 <!ENTITY  mediaLongdesc         "Descripció llarga:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Anomena i desa…">
@@ -84,18 +78,7 @@
 
 <!ENTITY  permTab               "Permisos">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Utilitza el valor per defecte">
-<!ENTITY  permAskAlways         "Demana-m'ho sempre">
-<!ENTITY  permAllow             "Permet">
-<!ENTITY  permAllowSession      "Permet durant la sessió">
-<!ENTITY  permBlock             "Bloca">
 <!ENTITY  permissionsFor        "Permisos per:">
-<!ENTITY  permImage             "Carregar imatges">
-<!ENTITY  permPopup             "Obrir finestres emergents">
-<!ENTITY  permCookie            "Definir galetes">
-<!ENTITY  permNotifications     "Mostrar notificacions">
-<!ENTITY  permInstall           "Instal·lar extensions o temes">
-<!ENTITY  permGeo               "Compartir la ubicació">
 
 <!ENTITY  securityTab           "Seguretat">
 <!ENTITY  securityTab.accesskey "S">

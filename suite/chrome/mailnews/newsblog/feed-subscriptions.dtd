@@ -4,14 +4,15 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Subscripcions RSS">
-<!ENTITY subscriptionDesc.label      "Nota: Si se suprimeix o canvia la carpeta d'un canal, els articles que s'hagin baixat abans no se'n veuran afectats.">
 
 <!ENTITY feedTitle.label             "Títol:">
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "URL del canal:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Introduïu un URL de canal vàlid per afegir">
+
+<!ENTITY locationValidate.label      "Valida">
+<!ENTITY validateText.label          "Comprova la validació i recupera un URL vàlid.">
 
 <!ENTITY feedFolder.label            "Emmagatzema els articles en:">
 <!ENTITY feedFolder.accesskey        "g">
@@ -25,13 +26,8 @@
 <!ENTITY autotagUsePrefix.accesskey  "p">
 <!ENTITY autoTagPrefix.placeholder   "Introduïu un prefix per a l'etiqueta">
 
-<!ENTITY locationValidate.label      "Valida">
-<!ENTITY validateText.label          "Comprova la validació i recupera un URL vàlid.">
-
 <!ENTITY button.addFeed.label        "Afegeix">
 <!ENTITY button.addFeed.accesskey    "A">
-<!ENTITY button.editFeed.label       "Edita">
-<!ENTITY button.editFeed.accesskey   "E">
 <!ENTITY button.removeFeed.label     "Suprimeix">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label     "Importa">

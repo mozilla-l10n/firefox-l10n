@@ -22,9 +22,9 @@
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY printContactViewCmd.label                      "Imprimeix el contacte…">
 <!ENTITY printContactViewCmd.accesskey                  "I">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "Exemple d'impressió del contacte">
 <!ENTITY printPreviewContactViewCmd.accesskey           "t">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Imprimeix la llibreta d'adreces…"> 
 <!ENTITY printAddressBook.accesskey                     "a"> 
 <!ENTITY printPreviewAddressBook.label                  "Exemple d'impressió de la llibreta d'adreces"> 
@@ -92,11 +92,11 @@
 <!ENTITY newmsgButton.tooltip                           "Envia un missatge de correu"> 
 <!ENTITY newIM.tooltip                                  "Envia un missatge instantani o xat"> 
 <!ENTITY deleteItemButton.tooltip                       "Suprimeix l'element seleccionat">
-<!ENTITY throbber.tooltip                               "Vés a la pàgina inicial de &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Cerca avançada d'adreces">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Llibretes d'adreces">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
@@ -114,6 +114,7 @@
 <!-- Status Bar -->  
 
 <!ENTITY statusText.label                               "">
+
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 

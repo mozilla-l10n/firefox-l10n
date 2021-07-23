@@ -8,13 +8,6 @@
 <!ENTITY tracking.label                   "Seguiment de l'usuari">
 <!ENTITY trackingIntro.label              "Els llocs web poden fer seguiment de com els utilitzeu i afectar així a la vostra privadesa.">
 
-<!ENTITY dntTellSites.label               "Fes saber als llocs web les meves preferències de seguiment">
-<!ENTITY dntTellSites.accesskey           "F">
-<!ENTITY dntTrackingNotOkay.label         "No vull que se'm segueixi">
-<!ENTITY dntTrackingNotOkay.accesskey     "N">
-<!ENTITY dntTrackingOkay.label            "Accepto que se'm segueixi">
-<!ENTITY dntTrackingOkay.accesskey        "c">
-
 <!ENTITY geoLocation.label                "Navegació amb geolocalització">
 <!ENTITY geoIntro.label                   "Els llocs web poden sol·licitar més informació sobre la vostra ubicació actual.">
 

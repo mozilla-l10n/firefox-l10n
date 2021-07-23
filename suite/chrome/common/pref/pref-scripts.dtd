@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/pref-scripts.xul -->
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 
@@ -17,7 +18,6 @@
 <!ENTITY allowWindowMoveResize.label     "Moure o canviar la mida de finestres ja existents">
 <!ENTITY allowWindowFlip.label           "Posar finestres en primer o segon pla">
 <!ENTITY allowWindowStatusChange.label   "Canviar el text de la barra d'estat">
-<!ENTITY allowWindowImageSrcChange.label "Canviar les imatges">
 <!ENTITY allowContextmenuDisable.label   "Inhabilitar o reemplaçar menús contextuals">
 <!ENTITY allowHideStatusBar.label        "Amagar la barra d'estat">
 

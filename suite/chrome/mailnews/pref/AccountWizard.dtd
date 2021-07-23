@@ -1,11 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Entities for AccountWizard -->
 
 
 <!ENTITY windowTitle.label "Auxiliar de comptes">
 <!ENTITY accountWizard.size "width: 47em; height: 38em;">
+
 <!-- Entities for Account Type page -->
 
 
@@ -17,6 +19,7 @@
 <!ENTITY accountTypeMail.accesskey "e">
 <!ENTITY accountTypeNews.label "Compte de grups de discussió">
 <!ENTITY accountTypeNews.accesskey "g">
+
 <!-- Entities for Identity page -->
 
 
@@ -35,6 +38,7 @@
 
 <!ENTITY emailLabel.label "Adreça electrònica:">
 <!ENTITY emailLabel.accesskey "t">
+
 <!-- Entities for Incoming Server page -->
 
 
@@ -64,6 +68,7 @@
 <!ENTITY newsServerNameDesc.label "Introduïu el nom del servidor de grups de discussió (NNTP) (per exemple, «news.exemple.net»).">
 <!ENTITY newsServerLabel.label "Servidor de grups de discussió:">
 <!ENTITY newsServerLabel.accesskey "S">
+
 <!-- Entities for Outgoing Server page -->
 
 
@@ -98,6 +103,7 @@
 -->
 <!ENTITY haveSmtp3.prefix "El vostre servidor de sortida (SMTP), «">
 <!ENTITY haveSmtp3.suffix3 "», és idèntic al vostre servidor d'entrada; per tant, també s'utilitzarà el mateix usuari per accedir-hi.">
+
 <!-- Entities for Account name page -->
 
 
@@ -106,6 +112,7 @@
 <!ENTITY accnameDesc.label "Introduïu el nom que voleu utilitzar per referir-vos a aquest compte (per exemple, «Compte de la feina», «Compte de casa» o «Compte de grups de discussió»).">
 <!ENTITY accnameLabel.label "Nom del compte:">
 <!ENTITY accnameLabel.accesskey "N">
+
 <!-- Entities for Done (Congratulations) page -->
 
 

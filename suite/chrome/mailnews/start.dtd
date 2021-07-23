@@ -17,10 +17,6 @@
 <!ENTITY feat_integration.label "Estreta integració amb el conjunt d'aplicacions del &brandShortName;">
 <!ENTITY dict.title "Diccionaris">
 <!ENTITY dict_intro.label "Els diccionaris serveixen per comprovar l'ortografia dels vostres missatges.">
-<!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
-<!ENTITY dict_info.label 'Es poden instal·lar llengües addicionals de la secció de 
-<a id="dictURL" href="">diccionaris</a> del 
-<a href="https://addons.mozilla.org/seamonkey/">Mozilla Add-ons</a>.'>
 <!ENTITY info.title "Més informació">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/">Agraïm</a> informes sobre errors i sol·licituds de noves característiques, però abans de res llegiu les <a id="releaseNotesURL" href="">notes de la versió</a> i consulteu el 

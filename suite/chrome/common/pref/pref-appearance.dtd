@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
 
 
@@ -23,8 +24,4 @@
 
 <!ENTITY pref.locales.title                     "Llengua de la interfície d'usuari">
 <!ENTITY selectLocale.label                     "Seleccioneu la llengua que apareix en els quadres de diàleg, menús, barres d'eines, i etiquetes dels botons:">
-<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY restartOnLangChange.label              "Les preferències lingüístiques tindran efecte quan reinicieu el &brandShortName;.">
 

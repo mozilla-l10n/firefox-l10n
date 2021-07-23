@@ -6,6 +6,13 @@
      with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
+<!-- LOCALIZATION NOTE the following declarations were copied from
+     mozilla/toolkit/locales/en-US/chrome/global/about.dtd which was removed
+     by bug 1408044. -->
+
+<!-- LOCALIZATION NOTE end of declarations that were copied from
+     mozilla/toolkit/locales/en-US/chrome/global/about.dtd -->
+
 <!ENTITY channel.description.start  "Actualment esteu al canal ">
 <!ENTITY channel.description.end    " d'actualitzacions.">
 <!ENTITY about.userAgent            "Agent d'usuari: ">

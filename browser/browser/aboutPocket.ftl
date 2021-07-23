@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Afegeix etiquetes
+
 pocket-panel-saved-error-generic = S'ha produït un error en intentar desar al { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Les etiquetes tenen un límit de 25 caràcters
 pocket-panel-saved-error-only-links = Només es poden desar enllaços
