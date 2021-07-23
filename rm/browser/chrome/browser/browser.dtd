@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Avrir il menu">
+
 <!ENTITY navbarOverflow.label                "Dapli utensils…">
 
 <!-- Tab context menu -->
@@ -145,19 +146,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "M">
 
 <!ENTITY historyMenu.label "Cronologia">
+
 <!ENTITY historyUndoMenu.label "Tabs serrads dacurt">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Fanestras serradas dacurt">
 
 <!ENTITY appMenuHistory.showAll.label "Mussar l'entira cronologia">
+
 <!ENTITY appMenuHistory.clearRecent.label "Stizzar la cronologia la pli nova…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar l'ultima sesida">
 <!ENTITY appMenuHistory.viewSidebar.label "Vesair la trav laterala da la cronologia">
 <!ENTITY appMenuHistory.hideSidebar.label "Zuppentar la trav laterala da la cronologia">
 <!ENTITY appMenuHistory.recentHistory.label "Cronologia nova">
+
 <!ENTITY appMenuHelp.label "Agid">
 
 <!ENTITY appMenuRemoteTabs.label "Tabs sincronisads">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nagins tabs averts">

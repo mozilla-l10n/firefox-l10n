@@ -8,10 +8,6 @@ about-addressbook-title = Cudeschet d'adressas
 
 about-addressbook-toolbar-new-address-book =
     .label = Nov cudeschet d'adressas
-about-addressbook-toolbar-new-carddav-address-book =
-    .label = Nov cudeschet d'adressas CardDAV
-about-addressbook-toolbar-new-ldap-address-book =
-    .label = Nov cudeschet d'adressas LDAP
 about-addressbook-toolbar-new-contact =
     .label = Nov contact
 about-addressbook-toolbar-new-list =
@@ -20,6 +16,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Tut ils cudeschets d'adressas
+
 about-addressbook-books-context-properties =
     .label = Caracteristicas
 about-addressbook-books-context-synchronize =
@@ -30,6 +27,7 @@ about-addressbook-books-context-delete =
     .label = Stizzar
 about-addressbook-books-context-remove =
     .label = Allontanar
+
 about-addressbook-confirm-delete-book-title = Stizzar il cudeschet d'adressas
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -47,14 +45,17 @@ about-addressbook-search =
     .placeholder = Tschertgar { $name }
 about-addressbook-search-all =
     .placeholder = Tschertgar en tut ils cudeschets d'adressas
+
 about-addressbook-sort-button =
     .title = Midar la zavrada da la glista
+
 about-addressbook-name-format-display =
     .label = Num per mussar
 about-addressbook-name-format-firstlast =
     .label = Prenum Num
 about-addressbook-name-format-lastfirst =
     .label = Num, Prenum
+
 about-addressbook-sort-name-ascending =
     .label = Zavrar tenor num (A > Z)
 about-addressbook-sort-name-descending =
@@ -63,6 +64,7 @@ about-addressbook-sort-email-ascending =
     .label = Zavrar tenor l'adressa d'e-mail (A > Z)
 about-addressbook-sort-email-descending =
     .label = Zavrar tenor l'adressa d'e-mail (Z > A)
+
 about-addressbook-confirm-delete-mixed-title = Stizzar contacts e glistas
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -119,6 +121,7 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Modifitgar
 about-addressbook-cancel-edit-contact-button = Interrumper
 about-addressbook-save-edit-contact-button = Memorisar
+
 about-addressbook-details-email-addresses-header = Adressas dad e-mail
 about-addressbook-details-phone-numbers-header = Numers da telefon
 about-addressbook-details-home-address-header = Adressa privata

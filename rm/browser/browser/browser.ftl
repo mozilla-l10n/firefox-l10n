@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Modus privat)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Modus privat)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Modus privat)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Modus privat)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -109,6 +111,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tippar main e chattar dapli: Tschertga cun { $engineName } directamain en la trav d'adressas.
 urlbar-search-tips-redirect-2 = Cumenza tia tschertga en la trav d'adressas per laschar mussar propostas da { $engineName } e propostas ord tia cronologia.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Tscherna questa scursanida per chattar pli svelt quai che ta serva.
@@ -145,10 +148,12 @@ urlbar-midi-blocked =
     .tooltiptext = Ti has bloccà l'access a MIDI per questa pagina d'internet.
 urlbar-install-blocked =
     .tooltiptext = Ti has bloccà l'installaziun da supplements per questa website.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Modifitgar quest segnapagina ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -158,6 +163,7 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Agiuntar a la trav d'adressas
+
 page-action-manage-extension =
     .label = Administrar il supplement…
 page-action-remove-from-urlbar =
@@ -179,12 +185,15 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Per questa giada, tschertgar cun:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Midar parameters da tschertga
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Midar ils parameters per tschertgar
+
 search-one-offs-context-open-new-tab =
     .label = Tschertgar en in nov tab
     .accesskey = T
@@ -194,12 +203,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Definir sco maschina da tschertgar da standard per fanestras privatas
     .accesskey = p
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -246,10 +257,13 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Mussar l'editur cun memorisar
     .accesskey = s
+
 bookmark-panel-done-button =
     .label = Terminar
+
 bookmark-panel-save-button =
     .label = Memorisar
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -279,6 +293,7 @@ identity-weak-encryption = Questa pagina utilisescha in criptadi flaivel.
 identity-insecure-login-forms = Infurmaziuns d'annunzia endatadas sin questa pagina èn eventualmain periclitadas.
 identity-permissions =
     .value = Autorisaziuns
+
 identity-https-only-connection-upgraded = (actualisà a HTTPS)
 identity-https-only-label = Modus mo HTTPS
 identity-https-only-dropdown-on =
@@ -290,9 +305,11 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Activescha il modus mo HTTPS per questa website sche ti vuls che { -brand-short-name } midia sche pussaivel ad ina connexiun segira.
 identity-https-only-info-turn-off2 = Sche la pagina na funcziunescha betg endretg, pos ti empruvar da deactivar il modus mo HTTPS per questa website per rechargiar cun HTTP betg segirà.
 identity-https-only-info-no-upgrade = Impussibel da remplazzar la connexiun HTTP.
+
 identity-permissions-storage-access-header = Cookies interpaginals
 identity-permissions-storage-access-hint = Questas partidas pon utilisar cookies interpaginals e datas da website durant che ti ta chattas sin questa website.
 identity-permissions-storage-access-learn-more = Ulteriuras infurmaziuns
+
 identity-permissions-reload-hint = Forsa stos ti chargiar da nov questa pagina per applitgar las midadas.
 identity-permissions-empty = Ti n'has betg definì autorisaziuns spezialas per questa pagina.
 identity-clear-site-data =
@@ -356,11 +373,13 @@ browser-tab-mute =
         [1] DEACTIVAR IL TUN DAL TAB
        *[other] DEACTIVAR IL TUN DA { $count } TABS
     }
+
 browser-tab-unmute =
     { $count ->
         [1] REACTIVAR IL TUN DAL TAB
        *[other] REACTIVAR IL TUN DA { $count } TABS
     }
+
 browser-tab-unblock =
     { $count ->
         [1] REPRODUCIR IL TAB
@@ -372,6 +391,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Importar segnapaginas…
     .tooltiptext = Importar segnapaginas dad in auter navigatur en { -brand-short-name }.
+
 bookmarks-toolbar-empty-message = Per l'access direct, plazzescha tes segnapaginas qua en la trav da segnapaginas. <a data-l10n-name="manage-bookmarks">Administrar ils segnapaginas…</a>
 
 ## WebRTC Pop-up notifications
@@ -382,6 +402,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Microfon per cundivider:
     .accesskey = M
+
 popup-select-camera-device =
     .value = Camera:
     .accesskey = C
@@ -395,20 +416,26 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Boxas
 popup-all-windows-shared = Tut las fanestras visiblas sin tes visur vegnan cundivididas.
+
 popup-screen-sharing-not-now =
     .label = Betg ussa
     .accesskey = g
+
 popup-screen-sharing-never =
     .label = Mai permetter
     .accesskey = M
+
 popup-silence-notifications-checkbox = Deactivar las communicaziuns da { -brand-short-name } durant la cundivisiun
 popup-silence-notifications-checkbox-warning = { -brand-short-name } na mussa naginas communicaziuns durant la cundivisiun dal visur.
+
 popup-screen-sharing-block =
     .label = Bloccar
     .accesskey = B
+
 popup-screen-sharing-always-block =
     .label = Adina bloccar
     .accesskey = d
+
 popup-mute-notifications-checkbox = Deactivar las notificaziuns da websites durant la cundivisiun
 
 ## WebRTC window or screen share tab switch warning
@@ -424,16 +451,19 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Per utilisar la scursanida F12, l'emprim avrir ils utensils per sviluppaders via il menu Sviluppaders dal web.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Tschertgar u endatar in'adressa
+
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Tschertgar u endatar in'adressa
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Il navigatur vegn controllà a distanza
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -442,6 +472,7 @@ urlbar-remote-control-notification-anchor =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Tschertgar en il web
     .aria-label = Tschertgar cun { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -450,22 +481,27 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Endatar terms da tschertga
     .aria-label = Tschertgar tar { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Endatar terms da tschertga
     .aria-label = Tschertgar en ils segnapaginas
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Endatar terms da tschertga
     .aria-label = Tschertgar en la cronologia
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Endatar terms da tschertga
     .aria-label = Tschertgar tabs
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Tschertgar cun { $name } u endatar in'adressa
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -475,9 +511,11 @@ urlbar-permissions-granted =
     .tooltiptext = Ti has concedì dretgs supplementars a questa pagina.
 urlbar-switch-to-tab =
     .value = Midar al tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensiun:
+
 urlbar-go-button =
     .tooltiptext = Chargiar l'adressa endatada en la trav d'adressas
 urlbar-page-action-button =
@@ -547,9 +585,12 @@ urlbar-result-action-search-tabs = Tschertgar en ils tabs
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> è ussa en il modus da maletg entir
 fullscreen-warning-no-domain = Quest document è ussa en il modus da maletg entir
+
+
 fullscreen-exit-button = Bandunar il modus da maletg entir (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Bandunar il modus da maletg entir (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -559,6 +600,7 @@ pointerlock-warning-no-domain = Quest document controllescha il punctader. Smatg
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Ina part da questa pagina è collabada.</strong> Trametta per plaschair in rapport per infurmar { -brand-product-name } davart quest problem e gidar d'al schliar pli svelt.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -614,6 +656,7 @@ bookmarks-tools =
     .label = Utensils da segnapaginas
 bookmarks-bookmark-edit-panel =
     .label = Modifitgar quest segnapagina
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -627,6 +670,7 @@ bookmarks-toolbar-placeholder =
     .title = Simbols dals segnapaginas
 bookmarks-toolbar-placeholder-button =
     .label = Simbols dals segnapaginas
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Agiuntar in segnapagina per il tab actual
@@ -657,6 +701,7 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Supplements e designs
     .tooltiptext = Administrescha tes supplements e designs ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =

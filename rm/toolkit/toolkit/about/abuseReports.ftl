@@ -40,6 +40,11 @@ abuse-report-submit-button = Trametter
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Annullà il rapport per <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitting = Trametter il rapport per <span data-l10n-name="addon-name">{ $addon-name }</span>...
 abuse-report-messagebar-submitted = Grazia per trametter in rapport. Vuls ti allontanar <span data-l10n-name="addon-name">{ $addon-name }</span>?

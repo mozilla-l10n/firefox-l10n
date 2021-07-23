@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Betg ussa
     .secondarybuttonaccesskey = B
 appmenu-update-restart-message = Suenter reaviar restaurescha { -brand-shorter-name } tut tes tabs e tias fanestras avertas che n'èn betg en il modus privat.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Ok, chapì
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Administrescha tes supplements cun cliccar sin <image data-l10n-name='addon-install-icon'></image> en il menu <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Actualisaziun disponibla
     .buttonlabel = Telechargiar
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Betg ussa
     .secondarybuttonaccesskey = B
 appmenu-update-other-instance-message = Ina nova actualisaziun da { -brand-shorter-name } è disponibla, ma ella n'è betg vegnida installada perquai ch'ina autra copia da { -brand-shorter-name } vegn exequida. La serra per cuntinuar cun l'actualisaziun u tscherna da tuttina actualisar (tschella copia na funcziunescha eventualmain betg endretg enfin ch'ella vegn reaviada).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Ok, chapì
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Administrescha tes supplements cun cliccar sin <image data-l10n-name='addon-install-icon'></image> en il menu <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Administrescha tias extensiuns e tes designs via il menu da l'applicaziun.
 appmenu-addon-post-install-message3 = Administrescha tes supplements e designs via il menu da l'applicaziun.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permetter a questa extensiun dad esser activa en fanestras privatas
     .accesskey = a
+    
 appmenu-new-tab-controlled =
     .label = La pagina «Nov tab» è vegnida midada.
     .buttonlabel = Preservar las modificaziuns
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = v
     .secondarybuttonlabel = Deactivar l'extensiun
     .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = La pagina da novs tabs è vegnida midada.
     .buttonlabel = Mantegnair las midadas

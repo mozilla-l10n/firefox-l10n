@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Redefinir { -brand-short-name }
+
 refresh-profile-dialog-title = Reparar { -brand-short-name } cun restabilir ils parameters da standard?
 refresh-profile-dialog-button =
     .label = Redefinir { -brand-short-name }

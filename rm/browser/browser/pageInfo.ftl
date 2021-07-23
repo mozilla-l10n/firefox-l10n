@@ -129,6 +129,8 @@ security-site-data-only = Gea, { $value } { $unit } datas da websites
 security-site-data-cookies-only = Gea, cookies
 security-site-data-no = Na
 
+##
+
 image-size-unknown = Betg enconuschent
 page-info-not-specified =
     .value = Betg inditgà
