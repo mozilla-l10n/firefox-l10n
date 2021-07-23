@@ -17,12 +17,13 @@ otr-log =
     .label = Uključi neslužbeno šifrirane poruke u zapis razgovora
 otr-requireEncryption =
     .label = Zahtijevaj obostrano šifriranje za izravne razgovore
-otr-require-encryption-info =
-    Ukoliko zahtijevate potpuno kriptiranje, poruke u privatnim razgovorima
-    neće bit poslane ukoliko ih se ne bude moglo kriptirati. Primljene ne kriptirane poruke
-    neće biti prikazane kao dio redovnog razgovora i neće biti zabilježene.
 otr-verifyNudge =
     .label = Uvijek me podsjeti potvrditi neprovjereni kontakt
 
 otr-notYetAvailable = Još nije dostupno
+
+otr-require-encryption-info =
+    Ukoliko zahtijevate potpuno kriptiranje, poruke u privatnim razgovorima
+    neće bit poslane ukoliko ih se ne bude moglo kriptirati. Primljene ne kriptirane poruke
+    neće biti prikazane kao dio redovnog razgovora i neće biti zabilježene.
 

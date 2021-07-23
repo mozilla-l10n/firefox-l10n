@@ -15,18 +15,31 @@ learn-more = <span data-l10n-name="link">Saznaj više</span>
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije niti fleks-kontejner niti grid-kontejner.
+
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks-kontejner, grid-kontejner ili višestupčani kontejner.
+
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije mrežni ili fleks element.
+
 inactive-css-not-grid-item = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije mrežni element.
+
 inactive-css-not-grid-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije grid-kontejner.
+
 inactive-css-not-flex-item = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks element.
+
 inactive-css-not-flex-container = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije fleks-kontejner.
+
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije linijski element ili ćelija tablice.
+
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ne utječe na ovaj element, budući da sadrži prikaz <strong>{ $display }</strong>.
+
 inactive-css-not-display-block-on-floated = Vrijednost za <strong>display</strong> promijenjena je u <strong>block</strong> jer je element postavljen na <strong>float</strong>.
+
 inactive-css-property-is-impossible-to-override-in-visited = Zbog ograničenja <strong>:visited</strong> nije moguće nadjačati <strong>{ $property }</strong>.
+
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ne utječe na ovaj element, budući da nije pozicionirani element.
+
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ne utječe na ovaj element, budući da <strong>overflow:hidden</strong> nije postavljeno.
+
 inactive-outline-radius-when-outline-style-auto-or-none = Svojstvo <strong>{ $property }</strong> nema učinka na ovaj element, jer je svojstvo <strong>outline-style</strong> (stil obrisa) postavljeno na <strong>automatski</strong> ili <strong>bez</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -34,18 +47,31 @@ inactive-outline-radius-when-outline-style-auto-or-none = Svojstvo <strong>{ $pr
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Pokušaj dodati <strong>display:grid</strong> ili <strong>display:flex</strong>. { learn-more }
+
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Pokušaj dodati <strong>display:grid</strong>, <strong>display:flex</strong> ili <strong>columns:2</strong>. { learn-more }
+
 inactive-css-not-grid-or-flex-item-fix-2 = Pokušaj dodati <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ili <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-grid-item-fix-2 = Pokušaj dodati <strong>display:grid</strong> ili <strong>display:inline-grid</strong> nadređenom elementu stavke. { learn-more }
+
 inactive-css-not-grid-container-fix = Pokušaj dodati <strong>display:grid</strong> ili <strong>display:inline-grid</strong>. { learn-more }
+
 inactive-css-not-flex-item-fix-2 = Pokušaj dodati <strong>display:flex</strong> ili <strong>display:inline-flex</strong> nadređenom elementu stavke. { learn-more }
+
 inactive-css-not-flex-container-fix = Pokušaj dodati <strong>display:flex</strong> ili <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-inline-or-tablecell-fix = Pokušaj dodati <strong>display:inline</strong> ili <strong>display:table-cell</strong>. { learn-more }
+
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Pokušaj dodati <strong>display:inline-block</strong> ili <strong>display:block</strong>. { learn-more }
+
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Pokušaj dodati <strong>display:inline-block</strong>. { learn-more }
+
 inactive-css-not-display-block-on-floated-fix = Pokušaj ukloniti <strong>float</strong> ili dodati <strong>display:block</strong>. { learn-more }
+
 inactive-css-position-property-on-unpositioned-box-fix = Pokušaj postaviti svojstvo <strong>position</strong> na nešto što nije <strong>static</strong>. { learn-more }
+
 inactive-text-overflow-when-no-overflow-fix = Pokušaj dodati <strong>overflow:hidden</strong>. { learn-more }
+
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Pokušaj postaviti svojstvo <strong>outline-style</strong> (stil obrisa) na nešto drugo od <strong>automatski</strong> ili <strong>bez</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
@@ -56,5 +82,7 @@ inactive-outline-radius-when-outline-style-auto-or-none-fix = Pokušaj postaviti
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-experimental-message = <strong>{ $property }</strong> je eksperimentalno svojstvo. Nije podržano u sljedećim preglednicima:
+
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> je eksperimentalno svojstvo.
+
 css-compatibility-learn-more-message = <span data-l10n-name="link">Saznaj više</span> o <strong>{ $rootProperty }</strong>

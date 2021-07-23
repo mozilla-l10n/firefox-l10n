@@ -5,65 +5,85 @@
 permissions-window =
     .title = Iznimke
     .style = width: 41em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresa web stranice
     .accesskey = d
+
 permissions-block =
     .label = Blokiraj
     .accesskey = B
+
 permissions-session =
     .label = Dozvoli za sesiju
     .accesskey = s
+
 permissions-allow =
     .label = Dozvoli
     .accesskey = D
+
 permissions-button-off =
     .label = Isključi
     .accesskey = s
+
 permissions-button-off-temporarily =
     .label = Isključi privremeno
     .accesskey = I
+
 permissions-site-name =
     .label = Web stranica
+
 permissions-status =
     .label = Stanje
+
 permissions-remove =
     .label = Ukloni stranicu
     .accesskey = U
+
 permissions-remove-all =
     .label = Ukloni sve stranice
     .accesskey = e
+
 permissions-button-cancel =
     .label = Odustani
     .accesskey = O
+
 permissions-button-ok =
     .label = Spremi promjene
     .accesskey = S
+
 permission-dialog =
     .buttonlabelaccept = Spremi promjene
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = Standardno za sve web-stranice:
+
 permissions-searchbox =
     .placeholder = Traži web stranicu
+
 permissions-capabilities-autoplay-allow =
     .label = Dozvoli zvuk i video
 permissions-capabilities-autoplay-block =
     .label = Blokiraj zvuk
 permissions-capabilities-autoplay-blockall =
     .label = Blokiraj zvuk i video
+
 permissions-capabilities-allow =
     .label = Dozvoli
 permissions-capabilities-block =
     .label = Blokiraj
 permissions-capabilities-prompt =
     .label = Uvijek pitaj
+
 permissions-capabilities-listitem-allow =
     .value = Dozvoli
 permissions-capabilities-listitem-block =
     .value = Blokiraj
 permissions-capabilities-listitem-allow-session =
     .value = Dozvoli za sesiju
+
 permissions-capabilities-listitem-off =
     .value = Isključeno
 permissions-capabilities-listitem-off-temporarily =

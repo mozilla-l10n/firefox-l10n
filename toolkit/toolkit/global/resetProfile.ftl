@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Osvježi { -brand-short-name }
+
 refresh-profile-dialog-title = Osvježiti { -brand-short-name } na zadane postavke?
 refresh-profile-dialog-button =
     .label = Osvježi { -brand-short-name }
