@@ -60,6 +60,12 @@ browser-main-window-title = { -brand-full-name }
 browser-window-minimize-button =
     .tooltiptext = Nciphisa
 
+## Tab actions
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 ## Bookmarks toolbar items
 
 
@@ -87,10 +93,13 @@ browser-window-minimize-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-sidebar-content =
     .aria-label = Tibekiso
+
 bookmarks-toolbar-menu =
     .label = LiIthulusi-bha Letibekiso
 bookmarks-toolbar-placeholder =
@@ -101,5 +110,19 @@ bookmarks-toolbar-placeholder-button =
 ## Library Panel items
 
 
+## Pocket toolbar button
+
+## Repair text encoding toolbar button
+
+## Customize Toolbar Buttons
+
 ## More items
+
+## EME notification panel
+
+## Password save/update panel
+
+## Add-on removal warning
+
+## Remote / Synced tabs
 

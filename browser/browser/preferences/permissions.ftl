@@ -31,6 +31,8 @@ permissions-invalid-uri-label = Uyacelwa faka libito lalovakashelwe lelisemtsetf
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 
