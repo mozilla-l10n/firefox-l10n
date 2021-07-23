@@ -31,7 +31,6 @@ appmenuitem-exit2 =
             [linux] Դուրս գալ
            *[other] Փակել
         }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -43,7 +42,6 @@ appmenuitem-zoom-enlarge =
     .label = Խոշորացնել
 appmenuitem-zoom-reduce =
     .label = Փոքրացնել
-
 appmenuitem-fullscreen =
     .label = Լիաէկրան
 
@@ -51,19 +49,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Համաժամեցնել
-
 appmenuitem-fxa-toolbar-sync-now2 = Համաժամեցնել
 appmenuitem-fxa-manage-account = Կառավարել հաշիվը
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-fxa-sync-and-save-data2 = Համաժամեցնել և պահել տվյալները
 appmenu-fxa-signed-in-label = Մուտք գործել
-
 appmenuitem-save-page =
     .label = Պահպանել Էջը որպես…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ինչն է նոր
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -76,37 +72,27 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-learn-more = Իմանալ ավելին
-
 profiler-popup-settings =
     .value = Կարգավորումներ
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Խմբագրել կարգավորումները…
-
 profiler-popup-recording-screen = Գրանցում...
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Հարմարեցված
-
 profiler-popup-start-recording-button =
     .label = Սկսել
-
 profiler-popup-discard-button =
     .label = Մերժել
-
 profiler-popup-capture-button =
     .label = Կորզել
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -162,7 +148,6 @@ appmenu-customizetoolbar =
     .label = Հարմարեցնել Գործիքագոտին...
 appmenu-taskmanager =
     .label = Խնդիրների կառավար
-
 appmenu-developer-tools-subheader = Զննարկչի գործիքներ
 appmenu-developer-tools-extensions =
     .label = Ընդլայնումներ մշակողների համար
