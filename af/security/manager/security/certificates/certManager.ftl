@@ -208,6 +208,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Wil u definitief hierdie bedieneruitsonderings skrap?
 delete-ssl-cert-impact = Indien u 'n bedieneruitsondering skrap, sal dit die gewone sekuriteitstoetse vir daardie bediener teruglaai en vereis dat dit 'n geldige sertifikaat gebruik.
 
+
 delete-ca-cert-title =
     .title = Skrap of wantrou nie meer SO-sertifikate
 delete-ca-cert-confirm = U het versoek dat hierdie SO-sertifikate geskrap word. Vir ingeboude sertifikate sal alle vertroue verwyder word, wat dieselfde uitwerking het. Wil u definitief skrap of wantrou?
@@ -266,6 +267,8 @@ cert-not-verified-issuer-unknown = Die sertifikaat kon nie gestaaf word nie omda
 cert-not-verified-ca-invalid = Die sertifikaat kon nie gestaaf word nie omdat die SO-sertifikaat ongeldig is.
 cert-not-verified_algorithm-disabled = Kon nie dié sertifikaat verifieer nie omdat dit geteken is met 'n handtekeningalgoritme wat gedeaktiveer is omdat dit nie veilig is nie.
 cert-not-verified-unknown = Die sertifikaat kon om onbekende redes nie gestaaf word nie.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

@@ -433,6 +433,7 @@ home-prefs-topsites-description = Die webwerwe wat u die meeste besoek
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = Aanbeveel deur { $provider }
+
 ##
 
 home-prefs-recommended-by-learn-more = Hoe dit werk
@@ -490,6 +491,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = Voorkeure
+
 containers-remove-button =
     .label = Verwyder
 

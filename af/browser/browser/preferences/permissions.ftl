@@ -50,6 +50,8 @@ permissions-invalid-uri-label = Tik 'n geldige gasheernaam in
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = U kan spesifiseer watter webwerwe toegelaat word om opspringers te open. Tik die presiese webadres van die werf wat u wil toelaat en kliek dan Laat toe.

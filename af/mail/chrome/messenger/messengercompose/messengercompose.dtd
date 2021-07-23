@@ -213,6 +213,7 @@
 <!ENTITY printButton.tooltip "Druk hierdie boodskap">
 
 <!-- Headers -->
+<!-- Headers -->
 <!ENTITY fromAddr.accesskey "a">
 <!ENTITY subject.accesskey "O">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond

@@ -118,6 +118,8 @@ help-button =
 security-site-data-cookies-only = Ja, koekies
 security-site-data-no = Nee
 
+##
+
 image-size-unknown = Onbekend
 page-info-not-specified =
     .value = Nie gespesifiseer nie

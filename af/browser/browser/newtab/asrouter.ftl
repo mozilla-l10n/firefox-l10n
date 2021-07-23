@@ -75,3 +75,7 @@ cfr-doorhanger-extension-cancel-button = Nie nou nie
 
 ## What's new: Cookies message
 
+## Fission Experiment Message
+
+## Full Video Support CFR message
+

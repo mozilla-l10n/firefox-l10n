@@ -26,6 +26,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinkroniseer nou
+
 appmenuitem-save-page =
     .label = Stoor bladsy as…
 

@@ -8,6 +8,7 @@
 
 
 <!ENTITY appmenu.tooltip                     "Wys kieslys">
+
 <!ENTITY navbarOverflow.label                "Meer gereedskap…">
 
 <!-- Tab context menu -->
@@ -107,11 +108,13 @@ can reach it easily. -->
 
 
 <!ENTITY historyMenu.label "Geskiedenis">
+
 <!ENTITY historyUndoMenu.label "Onlangs gesluite oortjies">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Onlangs gesluite vensters">
 
 <!ENTITY appMenuHistory.showAll.label "Wys hele geskiedenis">
+
 <!ENTITY appMenuHistory.clearRecent.label "Maak onlangse geskiedenis skoon…">
 <!ENTITY appMenuHistory.restoreSession.label "Laai vorige sessie terug">
 <!ENTITY appMenuHistory.viewSidebar.label "Wys geskiedeniskantbalk">
@@ -119,6 +122,7 @@ can reach it easily. -->
 <!ENTITY appMenuHelp.label "Hulp">
 
 <!ENTITY appMenuRemoteTabs.label "Gesinkroniseerde oortjies">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Geen oop oortjies nie">
