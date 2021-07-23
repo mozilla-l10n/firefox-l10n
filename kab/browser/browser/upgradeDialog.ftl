@@ -14,6 +14,7 @@ upgrade-dialog-new-subtitle = Yettufeṣṣel i wakken ak·akem-yawi sani tebɣi
 upgrade-dialog-new-item-menu-title = Afeggag n yifecka d wumuɣen ttwasifssen
 upgrade-dialog-new-item-menu-description = Izeggir deg wayen yesεan azal i wakken ad tafeḍ ayen iɣef tettnadiḍ.
 upgrade-dialog-new-item-tabs-title = Accaren atraren
+upgrade-dialog-new-item-tabs-description = Deg-s talɣut leqqayen, yessefrak tarusi n ddehn d umbiwel afallaẓ.
 upgrade-dialog-new-item-icons-title = Tignitin timaynutin d yiznan ibanen ugar
 upgrade-dialog-new-item-icons-description = Ad ak·akem-iɛawen ad tafeḍ abrid-ik·im s sshala.
 upgrade-dialog-new-primary-default-button = Err { -brand-short-name } d iminig-iw amezwer
