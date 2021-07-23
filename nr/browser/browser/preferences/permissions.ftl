@@ -47,6 +47,8 @@ permissions-invalid-uri-label = Sibawa utlole igama elisebenzako likasokhaya
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Unganqophisa bona ngiziphi iindawo ze web ezivumeleke ukuvula amafasidere weposo ewelako. Tlola ikheli ekungilo lendawo ofuna ukuyivumela bese uqhwarhaza Vumela.
