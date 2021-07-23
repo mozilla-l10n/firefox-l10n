@@ -15,13 +15,21 @@ learn-more = <span data-l10n-name="link">Learn more</span>
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> has no effect on this element since it’s neither a flex container nor a grid container.
+
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> has no effect on this element since it’s not a flex container, a grid container, or a multi-column container.
+
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> has no effect on this element since it’s not a grid or flex item.
+
 inactive-css-not-grid-item = <strong>{ $property }</strong> has no effect on this element since it’s not a grid item.
+
 inactive-css-not-grid-container = <strong>{ $property }</strong> has no effect on this element since it’s not a grid container.
+
 inactive-css-not-flex-item = <strong>{ $property }</strong> has no effect on this element since it’s not a flex item.
+
 inactive-css-not-flex-container = <strong>{ $property }</strong> has no effect on this element since it’s not a flex container.
+
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> has no effect on this element since it’s not an inline or table-cell element.
+
 inactive-css-property-because-of-display = <strong>{ $property }</strong> has no effect on this element since it has a display of <strong>{ $display }</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -29,11 +37,17 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> has no
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Try adding <strong>display:grid</strong> or <strong>display:flex</strong>. { learn-more }
+
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Try adding either <strong>display:grid</strong>, <strong>display:flex</strong>, or <strong>columns:2</strong>. { learn-more }
+
 inactive-css-not-grid-container-fix = Try adding <strong>display:grid</strong> or <strong>display:inline-grid</strong>. { learn-more }
+
 inactive-css-not-flex-container-fix = Try adding <strong>display:flex</strong> or <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-inline-or-tablecell-fix = Try adding <strong>display:inline</strong> or <strong>display:table-cell</strong>. { learn-more }
+
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Try adding <strong>display:inline-block</strong> or <strong>display:block</strong>. { learn-more }
+
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Try adding <strong>display:inline-block</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
@@ -44,7 +58,11 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Try addin
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-deprecated-message = Својство <strong>{ $property }</strong> је застарело према W3C стандардима. Није подржано у следећим прегледачима:
+
 css-compatibility-deprecated-supported-message = Својство <strong>{ $property }</strong> је застарело према W3C стандардима.
+
 css-compatibility-experimental-message = <strong>{ $property }</strong> је експериментално својство. Није подржано у следећим прегледачима:
+
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> је експериментално својство.
+
 css-compatibility-learn-more-message = <span data-l10n-name="link">Сазнајте више</span> о <strong>{ $rootProperty }</strong>

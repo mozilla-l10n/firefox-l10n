@@ -5,65 +5,85 @@
 permissions-window =
     .title = Изузеци
     .style = width: 46em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Адреса веб-сајта:
     .accesskey = А
+
 permissions-block =
     .label = Блокирај
     .accesskey = Б
+
 permissions-session =
     .label = Дозволи док траје сесија
     .accesskey = о
+
 permissions-allow =
     .label = Дозволи
     .accesskey = Д
+
 permissions-button-off =
     .label = Искључи
     .accesskey = И
+
 permissions-button-off-temporarily =
     .label = Привремено искључи
     .accesskey = П
+
 permissions-site-name =
     .label = Веб-сајт
+
 permissions-status =
     .label = Статус
+
 permissions-remove =
     .label = Уклони
     .accesskey = У
+
 permissions-remove-all =
     .label = Уклони све
     .accesskey = с
+
 permissions-button-cancel =
     .label = Откажи
     .accesskey = О
+
 permissions-button-ok =
     .label = Сачувај
     .accesskey = С
+
 permission-dialog =
     .buttonlabelaccept = Сачувај
     .buttonaccesskeyaccept = С
+
 permissions-autoplay-menu = Подразумевано за све веб-сајтове:
+
 permissions-searchbox =
     .placeholder = Претражите
+
 permissions-capabilities-autoplay-allow =
     .label = Дозволи звук и видео
 permissions-capabilities-autoplay-block =
     .label = Блокирај звук
 permissions-capabilities-autoplay-blockall =
     .label = Блокирај звук и видео
+
 permissions-capabilities-allow =
     .label = Дозволи
 permissions-capabilities-block =
     .label = Блокирај
 permissions-capabilities-prompt =
     .label = Увек питај
+
 permissions-capabilities-listitem-allow =
     .value = Дозволи
 permissions-capabilities-listitem-block =
     .value = Блокирај
 permissions-capabilities-listitem-allow-session =
     .value = Дозволи док траје сесија
+
 permissions-capabilities-listitem-off =
     .value = Искључено
 permissions-capabilities-listitem-off-temporarily =

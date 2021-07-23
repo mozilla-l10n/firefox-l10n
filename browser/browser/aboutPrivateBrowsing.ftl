@@ -21,8 +21,10 @@ about-private-browsing-handoff-text = Претражите у претражив
 about-private-browsing-handoff-text-no-engine = Претражите или унесите адресу
 about-private-browsing-not-private = Тренутно нисте у приватном прозору.
 about-private-browsing-info-description = { -brand-short-name } чисти историју претраге и прегледања када изађете из програма или затворите све приватне картице и прозоре. Ово не штити вашу анонимност од веб-сајтова и интернет провајдера, али скрива ваше активности на интернету од других корисника овог рачунара.
+
 about-private-browsing-need-more-privacy = Треба вам више приватности?
 about-private-browsing-turn-on-vpn = Испробајте { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

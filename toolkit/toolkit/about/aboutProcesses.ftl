@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Менаџер процеса
+
 # The Actions column
 about-processes-column-action =
     .title = Радње
@@ -27,28 +28,6 @@ about-processes-column-cpu-total = CPU
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
-about-processes-browser-process-name = { -brand-short-name } (процес { $pid })
-about-processes-web-process-name = Веб (процес { $pid }, дељени)
-about-processes-web-isolated-process-name = Веб (процес { $pid }) за { $origin }
-about-processes-web-large-allocation = Веб (процес { $pid }, велики) за { $origin }
-about-processes-with-coop-coep-process-name = Веб (процес { $pid }, изолован од других извора) за { $origin }
-about-processes-file-process-name = Датотеке (процес { $pid })
-about-processes-extension-process-name = Додаци (процес { $pid })
-about-processes-privilegedabout-process-name = Странице About (процес { $pid })
-about-processes-plugin-process-name = Додатне компоненте (процес { $pid })
-about-processes-privilegedmozilla-process-name = Веб (процес { $pid }) за сајтове организације { -vendor-short-name }
-about-processes-gmp-plugin-process-name = Медијске компоненте Gecko (процес { $pid })
-about-processes-gpu-process-name = GPU (процес { $pid })
-about-processes-vr-process-name = VR (процес { $pid })
-about-processes-rdd-process-name = Декодер података (процес { $pid })
-about-processes-socket-process-name = Мрежа (процес { $pid })
-about-processes-unknown-process-name = Друго ({ $type }, процес { $pid })
-# Process
-# Variables:
-#   $name (String) The name assigned to the process.
-#   $pid (String) The process id of this process, assigned by the OS.
-about-processes-process-name = Процес { $pid }: { $name }
-
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
@@ -64,6 +43,7 @@ about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Декодер података ({ $pid })
 about-processes-socket-process = Мрежа ({ $pid })
 about-processes-preallocated-process = Унапред додељено ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -84,17 +64,6 @@ about-processes-with-coop-coep-process-private = { $origin } – приватн�
 
 ## Details within processes
 
-# Single-line summary of threads
-# Variables:
-#    $number (Number) The number of threads in the process. Typically larger
-#                     than 30. We don't expect to ever have processes with less
-#                     than 5 threads.
-about-processes-thread-summary = Нити ({ $number })
-# Thread details
-# Variables:
-#   $name (String) The name assigned to the thread.
-#   $tid (String) The thread id of this thread, assigned by the OS.
-about-processes-thread-name = Нит { $tid }: { $name }
 # Single-line summary of threads (non-idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -111,6 +80,7 @@ about-processes-active-threads =
         [few] { $active } активне нити од { $number }: { $list }
        *[other] { $active } активних нити од { $number }: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -123,21 +93,25 @@ about-processes-inactive-threads =
         [few] { $number } неактивне нити
        *[other] { $number } неактивних нити
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = ID нити: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Картица: { $name }
 about-processes-preloaded-tab = Унапред учитана нова картица
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Подоквир: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -154,14 +128,12 @@ about-processes-frame-name-many = Подоквири ({ $number }): { $shortUrl 
 ##                   of `duration-unit-*`.
 
 # Common case.
-about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
-# Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Укупно процесорско време: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (мерење)
-# Special case: process or thread is currently idle.
-about-processes-cpu-user-and-kernel-idle = неактиван ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = неактиван
     .title = Укупно процесорско време: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
@@ -178,10 +150,9 @@ about-processes-cpu-idle = неактиван
 ##                        of `memory-unit-*`.
 
 # Common case.
-about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
-# Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
     .title = Развој: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

@@ -5,6 +5,7 @@
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Непознато
+
 common-dialog-username =
     .value = Корисничко име
 common-dialog-password =

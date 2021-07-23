@@ -54,6 +54,7 @@ close-tab =
     .title = Затвори картицу
 show-addon =
     .title = Прикажи у менаџеру додатака
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

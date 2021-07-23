@@ -4,11 +4,10 @@
 
 about-rights-notification-text = { -brand-short-name } је слободан и отворен софтвер који је изградила заједница више хиљада особа из целог света.
 
+## Content tabs
+
 ## Toolbar
 
-addons-and-themes-button =
-    .label = Додаци и теме
-    .tooltip = Управљајте вашим додацима
 redirect-msg-button =
     .label = Преусмерење
     .tooltiptext = Преусмери изабрану поруку
@@ -31,8 +30,10 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Поставке
+
 appmenu-addons-and-themes =
     .label = Додаци и теме
+
 appmenu-redirect-msg =
     .label = Преусмери
 
@@ -53,4 +54,6 @@ other-action-redirect-msg =
 
 
 ## Add-on removal warning
+
+## no-reply handling
 

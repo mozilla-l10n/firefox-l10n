@@ -8,6 +8,7 @@
 newtab-page-title = Нова картица
 newtab-settings-button =
     .title = Прилагодите страницу нове картице
+
 newtab-personalize-button-label = Прилагоди
     .title = Промените изглед нове картице
     .aria-label = Промените изглед нове картице
@@ -23,7 +24,9 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Претражи
     .aria-label = Претражи
+
 newtab-search-box-search-the-web-text = Претражи интернет
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Претражите у претраживачу { $engine } или унесите адресу
@@ -38,10 +41,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Претражите или унесите адресу
     .title = Претражите или унесите адресу
     .aria-label = Претражите или унесите адресу
+
 newtab-search-box-search-the-web-input =
     .placeholder = Претражи веб
     .title = Претражи веб
     .aria-label = Претражи веб
+
 newtab-search-box-input =
     .placeholder = Претражите интернет
     .aria-label = Претражите интернет
@@ -56,10 +61,12 @@ newtab-topsites-edit-shortcut-header = Измени пречицу
 newtab-topsites-title-label = Наслов
 newtab-topsites-title-input =
     .placeholder = Унесите наслов
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Унесите или налепите URL
 newtab-topsites-url-validation = Исправан URL се захтева
+
 newtab-topsites-image-url-label = URL прилагођене слике
 newtab-topsites-use-image-link = Користи прилагођену слику…
 newtab-topsites-image-validation = Нисам успео да учитам слику. Пробајте са другим URL-ом.
@@ -88,10 +95,12 @@ newtab-topsite-sponsored = Спонзорисано
 newtab-menu-section-tooltip =
     .title = Отвори мени
     .aria-label = Отвори мени
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Уклони
     .aria-label = Уклони
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -160,10 +169,12 @@ newtab-label-removed-bookmark = Обележивач је уклоњен
 newtab-label-recommended = У тренду
 newtab-label-saved = Сачувано у { -pocket-brand-name(case: "loc") }
 newtab-label-download = Преузето
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Спонзорисано
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -202,10 +213,12 @@ newtab-section-header-pocket = Предложио { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Почните да претражујете интернет а ми ћемо вам овде приказати одличне чланке, видео-снимке и друге странице које сте недавно посетили или обележили.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Вратите се касније за нове вести { $provider }. Не можете дочекати? Изаберите популарну тему да пронађете још занимљивих вести из света.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -248,6 +261,7 @@ newtab-custom-pocket-sponsored = Спонзорисане приче
 newtab-custom-recent-title = Недавна активност
 newtab-custom-recent-subtitle = Избор недавних сајтова и садржаја
 newtab-custom-close-button = Затвори
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

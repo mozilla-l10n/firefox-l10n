@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Увезите податке за пријаву за { $host }</div>
     <div data-l10n-name="line2">и друге сајтове из прегледача { $browser }</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Сазнајте више
 

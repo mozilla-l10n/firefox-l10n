@@ -11,6 +11,7 @@
         [ins] Синхронизацијом
         [loc] Синхронизацији
     }
+
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name =
@@ -22,6 +23,7 @@
         [ins] Firefox синхронизацијом
         [loc] Firefox синхронизацији
     }
+
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name =

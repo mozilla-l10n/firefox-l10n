@@ -8,8 +8,10 @@ password-quality-meter = Ниво квалитета лозинке
 
 change-password-window =
     .title = Промена главне лозинке
+
 change-device-password-window =
     .title = Промени лозинку
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Безбедносни уређај: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = Нова лозинка (још једном):
 reset-password-window =
     .title = Ресетуј главну лозинку
     .style = width: 40em
+
 pippki-failed-pw-change = Није могуће променити лозинку.
 pippki-incorrect-pw = Нисте унели тачну тренутну лозинку. Покушајте поново.
 pippki-pw-change-ok = Лозинка је успешно промењена.
+
 pippki-pw-empty-warning = Ваше сачуване лозинке и приватни кључеви неће бити заштићени.
 pippki-pw-erased-ok = Избрисали сте вашу лозинку. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Пажња! Одлучили сте да не користите лозинку. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Тренутно сте у FIPS режиму. FIPS захтева лозинку која није празна.
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Ресетуј
 reset-password-text = Ако ресетујете главну лозинку, све сачуване лозинке за интернет и е-пошту, садржаји формулара, лични сертификати и кључеви биће "изгубљени". Да ли заиста желите ресетовати своју главну лозинку?
+
 reset-primary-password-text = Ако ресетујете главну лозинку, изгубиће се све сачуване лозинке са веб страница и е-поште, подаци образаца, лични сертификати и кључеви. Да ли и даље желите да ресетујете главну лозинку?
+
 pippki-reset-password-confirmation-title = Ресетуј главну лозинку
 pippki-reset-password-confirmation-message = Ваша главна лозинка је ресетована.
 
