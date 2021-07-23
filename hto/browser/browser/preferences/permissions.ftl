@@ -42,6 +42,8 @@ permissions-capabilities-block =
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 

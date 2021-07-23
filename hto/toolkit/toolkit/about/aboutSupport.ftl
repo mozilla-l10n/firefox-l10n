@@ -123,3 +123,7 @@ touch-enabled = Náze jétanua já bónoka
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

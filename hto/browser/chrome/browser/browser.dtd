@@ -190,12 +190,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY historyMenu.label "Jagaɨ">
+
 <!ENTITY historyUndoMenu.label "Kómo ɨ́baika úitɨraɨ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Kómo ɨ́baika éroraifo">
 
 
 <!ENTITY appMenuHistory.showAll.label "Nána jagaɨ éroita">
+
 <!ENTITY appMenuHistory.clearRecent.label "Kómue jagaɨ dono...">
 
 <!ENTITY appMenuHistory.viewSidebar.label "Jagaɨ radozi ákata">
@@ -204,6 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY appMenuRemoteTabs.label "Dáamakɨ úitɨraɨ">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Túide úitɨraɨ íñede">

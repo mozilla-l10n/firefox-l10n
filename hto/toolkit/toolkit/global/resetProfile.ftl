@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Ábɨdo taɨne { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Ábɨdo jóne { -brand-short-name }
 refresh-profile-description-details = Bíe:

@@ -23,6 +23,9 @@ verify-ssl-client =
 verify-ssl-server =
     .value = Ñúe rábe taɨjɨraɨma íe SSL
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 ## Certificate export "Save as" and error dialogs
+
