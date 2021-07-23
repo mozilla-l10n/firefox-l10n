@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Retamab'al Taqonel (AIA)
 certificate-viewer-certificate-policies = Taq Kina'ojil Ruwujil B'i'aj
 certificate-viewer-embedded-scts = Ronojel SCTs
 certificate-viewer-crl-endpoints = CRL K'isib'äl k'ojlemal
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Tiqasäx
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadena)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Re k'amal re' xya' retal achi'el chi k'ayew rik'in, ri nuq'ajuj chi ri ruwinaq k'o chi nikixutuj ri wujil we man niq'ax ta pa kiwi'.

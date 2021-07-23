@@ -5,65 +5,85 @@
 permissions-window =
     .title = Nuk'unel wachb'äl
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Rochochib'al ri ruxaq k'amaya'l
     .accesskey = o
+
 permissions-block =
     .label = Tiq'eleb'ëx
     .accesskey = T
+
 permissions-session =
     .label = Tiya' q'ij pa re molojri'ïl re'
     .accesskey = m
+
 permissions-allow =
     .label = Tiya' q'ij
     .accesskey = T
+
 permissions-button-off =
     .label = Tichup
     .accesskey = p
+
 permissions-button-off-temporarily =
     .label = Tichup Jumej
     .accesskey = T
+
 permissions-site-name =
     .label = Ruxaq Ajk'amaya'l
+
 permissions-status =
     .label = B'anikil:
+
 permissions-remove =
     .label = Tiyuj Ruxaq Ajk'amaya'l
     .accesskey = T
+
 permissions-remove-all =
     .label = Keyuj el Konojel ri taq Ruxaq Ajk'amaya'l
     .accesskey = y
+
 permissions-button-cancel =
     .label = Tiq'at
     .accesskey = T
+
 permissions-button-ok =
     .label = Keyak Jaloj
     .accesskey = K
+
 permission-dialog =
     .buttonlabelaccept = Keyak Jaloj
     .buttonaccesskeyaccept = K
+
 permissions-autoplay-menu = Kan k'o wi pa ronojel ajk'amaya'l:
+
 permissions-searchbox =
     .placeholder = Tikanöx K'amaya'l
+
 permissions-capabilities-autoplay-allow =
     .label = Tiya' q'ij chi ke ri K'oxom chuqa' Silowäch
 permissions-capabilities-autoplay-block =
     .label = Tiq'at K'oxom
 permissions-capabilities-autoplay-blockall =
     .label = Keq'at K'oxom chuqa' Silowäch
+
 permissions-capabilities-allow =
     .label = Tiya' q'ij
 permissions-capabilities-block =
     .label = Tiq'eleb'ëx
 permissions-capabilities-prompt =
     .label = Junelïk tik'utüx pe
+
 permissions-capabilities-listitem-allow =
     .value = Tiya' q'ij
 permissions-capabilities-listitem-block =
     .value = Tiq'eleb'ëx
 permissions-capabilities-listitem-allow-session =
     .value = Tiya' q'ij pa re molojri'ïl re'
+
 permissions-capabilities-listitem-off =
     .value = Tichup
 permissions-capabilities-listitem-off-temporarily =

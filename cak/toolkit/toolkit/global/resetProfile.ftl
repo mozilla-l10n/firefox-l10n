@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Titzolïx { -brand-short-name }
+
 refresh-profile-dialog-title = ¿La nitzolïx ri runuk'ulem k'o wi ri{ -brand-short-name }?
 refresh-profile-dialog-button =
     .label = Titzolïx { -brand-short-name }

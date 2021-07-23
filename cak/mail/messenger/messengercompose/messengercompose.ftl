@@ -8,15 +8,32 @@
 pill-action-edit =
     .label = Tinuk' Ochochib'äl
     .accesskey = i
+
 pill-action-move-to =
     .label = Tisilöx pa Chi RE
     .accesskey = C
+
 pill-action-move-cc =
     .label = Tisilöx pa Cc
     .accesskey = C
+
 pill-action-move-bcc =
     .label = Tisilöx pa Bcc
     .accesskey = B
+
+# Attachment widget
+
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+
+# Reorder Attachment Panel
+
+# Addressing Area
+
+## Notifications
+
+## Editing
+
+# Tools
+

@@ -8,3 +8,14 @@
 menu-view-charset =
     .label = Rucholajil Tz'ib'atzij
     .accesskey = c
+
+## Tools Menu
+
+## Help Menu
+
+## Mail Toolbar
+
+## View
+
+## View / Layout
+

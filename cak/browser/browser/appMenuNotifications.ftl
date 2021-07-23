@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ütz, Xq'ax pa nuwi'
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Ke'anuk'samajij ri taq achokoy rik'in napïtz' <image data-l10n-name='addon-install-icon'></image> pa ri <image data-l10n-name='addon-menu-icon'></image> k'utsamaj.
+
 appmenu-update-available2 =
     .label = Wachel ri K'exoj Ruwäch
     .buttonlabel = Tiqasäx
@@ -71,14 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Wakami Mani
     .secondarybuttonaccesskey = M
 appmenu-update-other-instance-message = K'o jun k'ak'a' ruk'exoj { -brand-shorter-name }, man tikirel ta nik'ëx ruma chi k'o chik jun ruwäch { -brand-shorter-name } nisamäj. Tatz'apij richin ri nik'ex o tacha' ri tik'ex (rik'in jub'a' ri jun chik man ütz ta nisamäj k'a jampe' xatatikirisaj chik).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Ütz
     .buttonaccesskey = z
-appmenu-addon-post-install-message2 = Ke'anuk'samajij ri taq ak'amal chuqa' taq wachinel pa kik'utsamaj taq chokoy.
 appmenu-addon-post-install-message3 = Ke'anuk'samajij ri taq atz'aqat chuqa' taq wachinel pa kik'utsamaj taq chokoy.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tiya' q'ij chi re k'amal re' nisamäj pan Ichinan Tzuwäch
     .accesskey = T
+    
 appmenu-new-tab-controlled =
     .label = Xjal ri K'ak'a' Ruwi'.
     .buttonlabel = Kek'oje' na ri taq Jaloj
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Tichup ri K'amal
     .secondarybuttonaccesskey = T
+
 appmenu-new-tab-controlled-changes =
     .label = Xjal ri k'ak'a' ruwi'.
     .buttonlabel = Kek'oje' ri Taq Jaloj

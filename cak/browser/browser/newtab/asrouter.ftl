@@ -13,27 +13,35 @@ cfr-doorhanger-pintab-heading = Tatojtob'ej rere': Pin Tab
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Aruma nintz'ët re'
+
 cfr-doorhanger-extension-cancel-button = Wakami Mani
     .accesskey = M
+
 cfr-doorhanger-extension-ok-button = Titz'aqatisäx Wakami
     .accesskey = T
 cfr-doorhanger-pintab-ok-button = Tinak'ab'äx Re Ruwi' Re'
     .accesskey = T
+
 cfr-doorhanger-extension-manage-settings-button = Kenuk'samajïx taq Kinuk'ulem Chilab'enïk
     .accesskey = K
+
 cfr-doorhanger-extension-never-show-recommendation = Man Tik'ut re Chilab'enïk re'
     .accesskey = T
+
 cfr-doorhanger-extension-learn-more-link = Tetamäx ch'aqa' chik
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ruma { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Chilab'enïk
 cfr-doorhanger-extension-notification2 = Chilab'enïk
     .tooltiptext = Ruchilab'exik k'amal
     .a11y-announcement = Ruchilab'exik k'amal k'o
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Chilab'enïk
@@ -59,6 +67,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } okisanel
        *[other] { $total } okisanela'
     }
+
 cfr-doorhanger-pintab-description = Katok anin pa ri ruxaq ak'amaya'l yalan nawokisaj. Ke'ajaqa' kan ri taq ruxaq k'amaya'l pa jun ruwi' (achi'el toq natikirisaj).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +75,10 @@ cfr-doorhanger-pintab-description = Katok anin pa ri ruxaq ak'amaya'l yalan nawo
 cfr-doorhanger-pintab-step1 = <b>Ajkiq'a'-pitz'oj</b> pa ri ruwi' nawajo' nanak'ab'a'.
 cfr-doorhanger-pintab-step2 = Ticha' <b>Nak'oj Ruwi'</b> pa ri k'utsamaj.
 cfr-doorhanger-pintab-step3 = We k'o jun ruk'exoj ri ruxaq k'amaya'l, xtatz'ët jun xar chuq' pa ri ruwi' nak'ab'an.
+
 cfr-doorhanger-pintab-animation-pause = Tiq'at
 cfr-doorhanger-pintab-animation-resume = Titikïr chik el
+
 
 ## Firefox Accounts Message
 
@@ -89,20 +100,26 @@ cfr-protections-panel-link-text = Tetamäx ch'aqa' chik
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = K'ak'a' samaj:
+
 cfr-whatsnew-button =
     .label = K'ak'a' Rutzijol
     .tooltiptext = K'ak'a' Rutzijol
+
 cfr-whatsnew-panel-header = Achike natzijoj
+
 cfr-whatsnew-release-notes-link-text = Tasik'ij ri k'ak'a' rutzijol
+
 cfr-whatsnew-fx70-title = { -brand-short-name } wakami nuya' rejqalem ri awichinanem
 cfr-whatsnew-fx70-body =
     Ri ruk'isib'äl k'exoj nrutzilaj ri Chajinïk chuwäch Ojqanem chuqa' nub'än
     chi man k'ayew ta ye'atz'ük ütz ewan taq tzij kichin ri taq ruxaq.
+
 cfr-whatsnew-tracking-protect-title = Tachajij awi' chi kiwäch ri ojqanela'
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } ke'aqata' k'ïy winäq ojqanela' chuqa' xoch'in taq ruxaq ri
     nikitzeqelb'ej ri asamaj pa k'amab'ey.
 cfr-whatsnew-tracking-protect-link-text = Tatz'eta' ri Atzijol.
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -113,9 +130,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Pa { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Titz'et ri Rutzijol
+
 cfr-whatsnew-lockwise-backup-title = Ke'awachib'ej ri ewan taq atzij
 cfr-whatsnew-lockwise-backup-body = Wakami yatikïr ye'atz'ük ütz ewan taq tzij, achoq kik'in yatikïr yatok xab'akuchi nawajo.
 cfr-whatsnew-lockwise-backup-link-text = Ketzij jikomal taq wachib'enïk
+
 cfr-whatsnew-lockwise-take-title = Ke'ak'waj ri ewan taq atzij awik'in
 cfr-whatsnew-lockwise-take-body =
     Ri { -lockwise-brand-short-name } oyonib'äl chokoy nuya' q'ij chawe ütz yatok pa ri
@@ -154,6 +173,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Xeq'at b'anöy ruwi' q'ab'aj
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } yeruq'ät k'ïy taq fingerprinter, ri yekimöl pan ewäl ri retamab'al awokisab'al chuqa' taq b'anoj richin ninuk' jun ruwäch ab'i' chi rij eltzijol.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } nitikïr yeruq'ät taq fingerprinter, ri yekimöl pan ewäl ri retamab'al awokisab'al chuqa' taq b'anoj richin ninuk' jun ruwäch ab'i' chi rij eltzijol.
@@ -212,6 +232,7 @@ cfr-doorhanger-milestone-heading =
         [one] ¡{ -brand-short-name } xeruq'ät k'ïy <b>{ $blockedCount }</b> taq ojqanela' pa { $date }!
        *[other] ¡{ -brand-short-name } xeruq'ät k'ïy <b>{ $blockedCount }</b> taq ojqanela' pa { $date }!
     }
+
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -246,12 +267,6 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ruwachib'al Picture-in-picture
 
 ## Protections Dashboard message
 
-cfr-doorhanger-milestone-close-button = Titz'apïx
-    .accesskey = t
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
-
 cfr-whatsnew-protections-header = Taq chajinïk wakami
 cfr-whatsnew-protections-body = Ri rupas chajinïk eruk'wan ko'öl taq kitzijol kitz'ilanem tzij chuqa' kinuk'samajixik ewan taq tzij. Wakami yatikïr natz'ët jarupe' taq tz'ilanem xesol richin natz'ët we jun chi ke ri ewan taq atzij ayakon xtz'iläx pa jun tz'ilanem tzij.
 cfr-whatsnew-protections-cta-link = Titz'et Kipas Chajinïk
@@ -261,6 +276,12 @@ cfr-whatsnew-protections-icon-alt = Ruwachib'al Pokob'
 
 cfr-whatsnew-better-pdf-header = Jeb'ël etamab'äl chi rij PDF
 cfr-whatsnew-better-pdf-body = Wakami ri aj PDF taq wuj jumul yejaq pa { -brand-short-name }, akuchi' k'o apon pan aq'a' ronojel ri asamaj.
+
+cfr-doorhanger-milestone-close-button = Titz'apïx
+    .accesskey = t
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
 
 ## DOH Message
 
@@ -282,35 +303,15 @@ cfr-doorhanger-fission-secondary-button = Tetamäx ch'aqa' chik
 
 ## What's new: Cookies message
 
-cfr-whatsnew-clear-cookies-header = Yonil taq chajinïk chuwäch q'olonel rub'eyal richin ojqanem
-cfr-whatsnew-clear-cookies-body = Jujun ojqanela' yatkik'waj pa juley taq ajk'amaya'l ruxaq ri nikib'än kinuk'ulem cookies pan ewäl. { -brand-short-name } ruyonil yeruyüj wakami ri cookies richin man katkojqaj ta.
-cfr-whatsnew-clear-cookies-image-alt = Ruwachib'al q'aton cookie
-
 ## What's new: Media controls message
-
-cfr-whatsnew-media-keys-header = Ch'aqa' chik kechajinik k'ïy k'oxom
-cfr-whatsnew-media-keys-body = Nitzij o niq'at k'oxom o silowäch rik'in ri pitz'b'äl o ak'axab'äl man k'ayew ta nub'än ye'achajij ri k'ïy taq k'oxom rik'in jun chik ruwi', cholkema' o toq q'aton ri akematz'ib'. Chuqa' k'o rub'eyal nib'yaj chi kikojol ri taq retal k'oxom rik'in ri b'inel chi rij o chuwäch pitz'b'äl.
-cfr-whatsnew-media-keys-button = Tetamäx achike rub'eyal
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Kekanöx chojokem pa kikatz'ik ochochib'äl
-cfr-whatsnew-search-shortcuts-body = Wakami toq natz'ib'aj jun kanob'äl o jun ruxaq pa ri kikajtz'ik ochochib'äl, xtiwachin pe jun xar chojokem pa ri rutzilab'exik ikim kanoxïk. Tacha' ri chojokem ri' richin natz'ët ri nakanoj pa ri kikajtz'ik ochochib'äl.
-
 ## What's new: Cookies protection
-
-cfr-whatsnew-supercookies-header = Chajinïk chuwäch itzel taq supercookie
-cfr-whatsnew-supercookies-body = Ri taq ajk'amaya'l ruxaq pan ewäl yetikïr nikitz'aqatisaj jun “supercookie” pa rokik'amaya'l, ri nitikïr yatrojqaj pan ajk'amaya'l, estape' ye'ajosq'ij ri taq cookie. { -brand-short-name } wakami nuya' jun nïm chajinïk chi kiwa ri taq supercookie richin chi man ke'okisäx richin nikojqaj ri taq asamaj pa k'amab'ey pa jun ruxaq o jun chik.
 
 ## What's new: Better bookmarking
 
-cfr-whatsnew-bookmarking-header = Utziläj taq yaketal
-cfr-whatsnew-bookmarking-body = Man k'ayew ta ye'oqäx ri jeb'ël taq ruxaq. { -brand-short-name } nunataj wakami ri jeb'ël kik'ojlib'al ri yakon taq ayaketal, yeruk'üt ri kikajtz'ik kisamajib'al yaketal pa ri k'ak'a' ruwi' chuqa' anin yatok pa ri ch'aqa' chik taq ayaketal rik'in jun rumolwuj rukajtz'ik samajib'äl.
-
 ## What's new: Cross-site cookie tracking
-
-cfr-whatsnew-cross-site-tracking-header = Tz'aqät chajinïk chuwäch kojqanem cookies chi kikojol taq ruxaq
-cfr-whatsnew-cross-site-tracking-body = Wakami yatikïr nacha' jun ütz chajinïk chuwäch kojqanem cookies. { -brand-short-name } nitikïr yerujech'ej ri taq asamaj chuqa' ri taq atzij pa ri ruxaq at k'o wi wakami richin chi man kekomonïx pa taq ruxaq ri taq tzij yakon pa ri okik'amaya'l.
 
 ## Full Video Support CFR message
 

@@ -129,6 +129,8 @@ security-site-data-only = Ja', { $value } { $unit } kitzij ruxaq k'amaya'l
 security-site-data-cookies-only = Ja', taq kaxlanwäy
 security-site-data-no = Mani
 
+##
+
 image-size-unknown = Man etaman ta ruwäch
 page-info-not-specified =
     .value = Man jikib'an ta

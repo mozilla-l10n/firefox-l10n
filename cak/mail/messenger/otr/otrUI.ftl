@@ -3,7 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 auth-cancel = Tiq'at
+
 finger-verify = Tinik'öx
 finger-verify-accessKey = T
+
 state-private-label = Ichinan
+
 error-title = Sachoj
+

@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = Ütz k'exoj — tiqasäx wakami
     .label-update-unsupported = Man ütz ta k'exoj —man k'amonel ta q'inoj
     .label-update-restart = Ütz k'exoj — titzolïx wakami
+
 appmenuitem-protection-dashboard-title = Rupas taq Chajinïk
 appmenuitem-customize-mode =
     .label = Tichinäx…
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Titz'apïx Ruk'utsamaj Chokoy
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = Tinaqajäx
 appmenuitem-zoom-reduce =
     .label = Tijech'äx
+
 appmenuitem-fullscreen =
     .label = Chijun ruwa kematz'ib'
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Tixim Wakami
+
 appmenu-remote-tabs-sign-into-sync =
     .label = Titikirisäx molojri'ïl pa Ximoj…
 appmenu-remote-tabs-turn-on-sync =
     .label = Titzij Ximoj…
+
 appmenuitem-fxa-toolbar-sync-now2 = Tixim Wakami
 appmenuitem-fxa-manage-account = Tinuk'samajïx Rub'i' Taqoya'l
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = Titikirisäx Molojri'ïl
 appmenu-fxa-setup-sync =
     .label = Titzij Ximoj…
 appmenu-fxa-show-more-tabs = Kek'ut pe ch'aqa' taq ruwi'
+
 appmenuitem-save-page =
     .label = Tiyak Ruxaq Achi'el…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Achike natzijoj
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,35 +103,49 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Ketz'et juley rutzijol
+
 profiler-popup-description-title =
     .value = Tiyak, tinik'öx, tikomonïx
+
 profiler-popup-description = Kato'on pa kik'ayewal rub'eyal nisamäj, akuchi' nataluj kitzijol ruwäch taq b'i'aj richin nakomonij rik'in ri amolaj.
+
 profiler-popup-learn-more = Tetamäx juley
+
 profiler-popup-settings =
     .value = Taq nuk'ulem
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Kenuk' taq Runuk'ulem…
+
 profiler-popup-disabled =
     Wakami chupül ri ya'öl ruwäch rub'i', rik'in jub'a' ruma jun ichinan rokem tzuwäch
     nijaq.
+
 profiler-popup-recording-screen = Niyak…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Ichinan
+
 profiler-popup-start-recording-button =
     .label = Titikïr Ruyakik
+
 profiler-popup-discard-button =
     .label = Tich'aqïx
+
 profiler-popup-capture-button =
     .label = Chapoj
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -137,6 +158,7 @@ appmenu-manage-history =
     .label = Tinuk'samajïx Natab'äl
 appmenu-reopen-all-tabs = Kejaq Chik Ronojel Ruwi'
 appmenu-reopen-all-windows = Kejaq Chik Ronojel Taq Tzuwäch
+
 appmenu-restore-session =
     .label = Titzolin pa ri molojri'ïl xik'o
 appmenu-clear-history =
@@ -192,6 +214,7 @@ appmenu-customizetoolbar =
     .label = Tichinäx Rukajtz'ik Samajib'äl…
 appmenu-taskmanager =
     .label = Kinuk'samajel taq Samaj
+
 appmenu-developer-tools-subheader = Rusamajib'al Okik'amaya'l
 appmenu-developer-tools-extensions =
     .label = Kik'amal B'anonela'

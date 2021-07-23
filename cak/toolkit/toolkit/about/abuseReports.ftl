@@ -41,6 +41,11 @@ abuse-report-submit-button = Titaq
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Xq'at ri rutzijol <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitting = Nitaq ri rutzijol richin <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Matyox ruma xatäq ri rutzijol. ¿La nawajo' nayüj el <span data-l10n-name="addon-name">{ $addon-name }</span>?

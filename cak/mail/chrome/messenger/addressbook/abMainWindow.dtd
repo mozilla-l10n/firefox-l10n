@@ -101,9 +101,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Taqoya'l &amp; Taq Rutzijol">
 <!ENTITY messengerCmd.accesskey                         "T">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Kiwujil Ochochib'äl">
-<!ENTITY addressBookCmd.accesskey                       "a">
-<!ENTITY addressBookCmd.key                             "O">
 <!ENTITY searchAddressesCmd.label                       "Kekanöx Ochochib'äl…">
 <!ENTITY searchAddressesCmd.accesskey                   "k">
 <!ENTITY importCmd.label                                "Tijik' pe…">

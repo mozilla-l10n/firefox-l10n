@@ -14,11 +14,15 @@ about-config-intro-warning-button = Xinwetamaj ri K'ayewal chuqa' Tinsamajij el
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Kejal re taq rajowaxik nitikir nutz'ila' rub'eyal nisamäj o ri rujikomal { -brand-short-name }.
+
 about-config-page-title = Q'axinäq taq Ajowanïk
+
 about-config-search-input1 =
     .placeholder = Rub'i' rajowaxik kanoxïk
 about-config-show-all = Tik'ut Ronojel
+
 about-config-show-only-modified = Kek'ut pe xa xe ri jalon taq runuk'ulem
+
 about-config-pref-add-button =
     .title = Titz'aqatisäx
 about-config-pref-toggle-button =

@@ -42,7 +42,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Runimile wuper:
+
 perftools-custom-threads-label = Ketz'aqatisäx ichinan taq chij chi kib'i':
+
 perftools-devtools-interval-label = Rukojol:
 perftools-devtools-threads-label = Taq chij:
 perftools-devtools-settings-label = Taq nuk'ulem
@@ -101,6 +103,7 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Ke'elesäx ri taq cha'oj ajsik chuqa' keyak ronojel ri taq chij etz'ib'an
+
 perftools-tools-threads-input-label =
     .title = Re taq kib'i' chik e jun rucholajem jachon chi chuq', ri ye'okisäx richin yetzij ri kitz'ukik kiwäch kib'i' taq chij pa ri ya'öl ruwäch b'i'aj. Ri rub'i' k'o chi xa xe jun peraj ruk'amon ri' rik'in ri rub'i' chij richin titz'aqatisäx. K'ayew nuna' rik'in ri k'ojlib'äl majun k' chupam.
 
@@ -108,9 +111,10 @@ perftools-tools-threads-input-label =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
--profiler-brand-name = Firefox Ruya'öl Ruwäch Rub'i'
 perftools-onboarding-message = <b>K'ak'a'</b>: { -profiler-brand-name } wakami k'o wi pe pa Kisamajib'al B'anonela'. <a>Tetamäx ch'aqa'</a> chi rij re nïm samajib'äl.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Jun ch'utiramaj yatikïr yatok pa ri rupas rub'eyal nisamäj rik'in ri <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Titz'apïx ri nab'ey rutzijol

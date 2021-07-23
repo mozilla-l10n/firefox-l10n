@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Tijaq k'utsamaj">
+
 <!ENTITY navbarOverflow.label                "Ch'aqa' chik Samajib'äl…">
 
 <!-- Tab context menu -->
@@ -141,19 +142,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "T">
 
 <!ENTITY historyMenu.label "Natab'äl">
+
 <!ENTITY historyUndoMenu.label "Taq Ruwi' k'a b'a' Ketz'apïx">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Taq k'ajtz'ib' k'a b'a' etz'apin">
 
 <!ENTITY appMenuHistory.showAll.label "Tik'ut pe ronojel ri natab'äl">
+
 <!ENTITY appMenuHistory.clearRecent.label "Tiyuj K'ak'a' Natab'äl…">
 <!ENTITY appMenuHistory.restoreSession.label "Titzolin pa ri molojri'ïl xik'o">
 <!ENTITY appMenuHistory.viewSidebar.label "Titz'et runatab'al Sidebar">
 <!ENTITY appMenuHistory.hideSidebar.label "Tewäx Runatab'al Sidebar">
 <!ENTITY appMenuHistory.recentHistory.label "K'ak'a' Natab'äl">
+
 <!ENTITY appMenuHelp.label "Tob'äl">
 
 <!ENTITY appMenuRemoteTabs.label "Ximon taq ruwi'">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Majun ruwi' ejaqon">

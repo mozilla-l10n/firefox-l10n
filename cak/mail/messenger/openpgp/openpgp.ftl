@@ -1,3 +1,4 @@
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
@@ -15,8 +16,10 @@ openpgp-key-gen-key-type-ecc =
     .label = ECC (curva elíptica)
 openpgp-advanced-prefs-button-label =
     .label = Taq Q'axinäq…
+
 openpgp-key-id-label =
     .label = ID ewan tzij
+
 openpgp-key-man-file-menu =
     .label = Yakb'äl
     .accesskey = Y
@@ -29,7 +32,9 @@ openpgp-key-man-view-menu =
 openpgp-key-man-generate-menu =
     .label = Titz'uk
     .accesskey = T
+
 openpgp-key-man-discover-progress = Nikanöx…
+
 openpgp-key-man-close =
     .label = Titz'apïx
 openpgp-key-man-key-props =
@@ -42,6 +47,7 @@ openpgp-key-man-user-id-label =
     .label = B'i'aj
 openpgp-key-man-fingerprint-label =
     .label = Retal ruwi' q'ab'aj
+
 openpgp-key-details-title =
     .title = Taq Richinil Ruk'u'x Tzij
 openpgp-key-details-id-label =
@@ -59,6 +65,7 @@ openpgp-key-details-usage-label =
 openpgp-key-details-fingerprint-label = Retal ruwi' q'ab'aj
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Titz'apïx
+
 openpgp-copy-cmd-label =
     .label = Tiwachib'ëx
 
@@ -69,4 +76,6 @@ openpgp-copy-cmd-label =
 
 
 ## Account settings export output
+
+# Strings used in enigmailMessengerOverlay.js
 

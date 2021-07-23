@@ -8,8 +8,10 @@ password-quality-meter = Retanel rutzil ri ewan tzij
 
 change-password-window =
     .title = Tijal ajtij ewan tzij
+
 change-device-password-window =
     .title = Tijal Ewan Tzij
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Okisaxel richin jikomal: { $tokenName }
@@ -22,12 +24,15 @@ change-password-reenter = K'ak'a' ewan tzij (tijikib'äx):
 reset-password-window =
     .title = Titzolïx ri ajtij ewan tzij
     .style = width: 40em
+
 pippki-failed-pw-change = Man tikirel ta xjal ri ewan tzij.
 pippki-incorrect-pw = Man ütz ta ri ewan tzij xatz'ib'aj. Tatojtob'ej chik.
 pippki-pw-change-ok = Ütz xjal ri nab'ey ewan tzij.
+
 pippki-pw-empty-warning = Man xkechajïx ta ri ewan taq atzij chuqa' ichinan ewan taq atzij e'ayakon.
 pippki-pw-erased-ok = Xayüj el ri nimaläj ewan tzij. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = ¡Tawak'axaj! Man xawajo' ta xawokisaj jun ewan tzij. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun ewan tzij ri man kowöl ta.
 
 ## Reset Primary Password dialog
@@ -38,7 +43,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Titzolïx
 reset-password-text = We natzolij ri ajtzij ewan atzij, xkeyujtäj el ri ewan taq tzij richin ajk'amaya'l chuqa' taqoya'l, ri taq kitzij nojwuj, ichinan ruwujil taq b'i'aj chuqa' ichinan ewan taq tzij. ¿La kan nawajo' natzolij ri ajtij ewan atzij?
+
 reset-primary-password-text = We natzolij ri Nab'ey Ewan Atzij, xkeyujtäj el ri nab'ey ewan taq tzij richin ajk'amaya'l chuqa' taqoya'l kichin tzij, ri taq kitzij nojwuj, ichinan ruwujil taq b'i'aj chuqa' ichinan ewan taq tzij. ¿La kan nawajo' natzolij ri nab'ey ewan atzij?
+
 pippki-reset-password-confirmation-title = Titzolïx Nab'ey Ewan Tzij
 pippki-reset-password-confirmation-message = Xtzolïx Nab'ey Ewan Atzij.
 

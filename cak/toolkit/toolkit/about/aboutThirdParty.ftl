@@ -5,14 +5,18 @@
 third-party-detail-version = Ruwäch yakb'äl
 third-party-detail-vendor = Retamab'al b'anonel
 third-party-detail-app = Chokoy
+
 third-party-th-process = Tajin
 third-party-th-duration = Ruramaj Rusamajixik (ms)
 third-party-th-status = B'anikil
+
 third-party-unsigned-icon =
     .title = Man juxun ta re peraj
+
 third-party-status-loaded = Xsamajïx
 third-party-status-blocked = Q'aton
 third-party-status-redirected = Xtaq chik
+
 third-party-button-copy-to-clipboard = Kewachib'ëx kikuta'm taq tzij pa molwuj
 third-party-button-open =
     .title = Tijaq ri ruk'ojlemal yakb'äl…

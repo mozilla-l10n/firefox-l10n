@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Tijaq rik'in { -brand-short-name }
     .accesskey = a
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
