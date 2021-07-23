@@ -9,7 +9,7 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY feedMessenger "News &amp; Blogs">
-<!ENTITY feedSubscribeNow "Subscribe Now">
-<!ENTITY feedLiveBookmarks "Live Bookmarks">
 <!ENTITY feedPage.title "Viewing Feed">
+<!ENTITY feedSubscribeNow "Subscribe Now">
+<!ENTITY feedMessenger "News &amp; Blogs">
+<!ENTITY feedLiveBookmarks "Live Bookmarks">

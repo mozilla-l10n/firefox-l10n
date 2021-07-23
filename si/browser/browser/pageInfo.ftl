@@ -117,6 +117,8 @@ help-button =
 
 security-site-data-no = නැත
 
+##
+
 image-size-unknown = නොදන්නා
 page-info-not-specified =
     .value = විශේෂිතව දක්වා නැත

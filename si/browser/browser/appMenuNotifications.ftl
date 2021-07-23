@@ -38,6 +38,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = දිගුව ක්‍රියා විරහිත කරන්න
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = ඔබගේ සැඟවුණු ටැබ් ප්‍රවේශ කරන්න
     .buttonlabel = ටැබ් සඟවා තබන්න

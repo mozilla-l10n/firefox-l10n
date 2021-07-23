@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ටැග් එක් කරන්න
+
 pocket-panel-saved-error-generic = { -pocket-brand-name } හි සුරැකීමට තැත් කිරීමේදී දෝෂයක් මතු විය.
 pocket-panel-saved-error-tag-length = ටැග් අක්ෂර 25 කට සීමා වේ
 pocket-panel-saved-error-only-links = සබැඳි පමණක් සුරැකීමට හැකි වේ

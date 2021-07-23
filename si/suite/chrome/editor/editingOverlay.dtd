@@ -15,8 +15,6 @@
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "සුරකින අයුර…">
 <!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY saveAsChangeEncodingCmd.label "අක්ෂර කේතනය වෙනස් කර සුරකින්න">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 <!ENTITY publishCmd.label "ප්‍රකාශනය කරන්න">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">

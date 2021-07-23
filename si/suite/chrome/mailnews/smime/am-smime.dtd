@@ -31,8 +31,7 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY manageDevices.accesskey "g">
-<!ENTITY manageCerts.accesskey "M">
-<!ENTITY manageDevices.label "Manage Security Devices…">
 <!ENTITY certificates.label "Certificates">
-<!ENTITY manageCerts.label "Manage Certificates…">
+<!ENTITY manageDevices.label "Manage Security Devices…">
+<!ENTITY manageDevices.accesskey "g">
+

@@ -13,6 +13,3 @@
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "සාපේක්ෂ හා නිරපේක්ෂ URL අතර මාරු වීම. මෙය වෙනස් කිරීම සඳහා, ඔබ පළමුව පිටුව සුරැකිය යුතුමය.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Enter a web page location, a local file, or select a Named Anchor or Heading from the popup list:">
-<!ENTITY LinkURLEditField.accessKey "l">

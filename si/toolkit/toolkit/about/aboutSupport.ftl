@@ -247,3 +247,8 @@ touch-warning = සහය නොදක්වන අභිප්‍රේයක�
 policies-inactive = අක්‍රීය
 policies-active = සක්‍රීය
 policies-error = දෝෂය
+
+## Printing section
+
+## Normandy sections
+

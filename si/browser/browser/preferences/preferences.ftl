@@ -465,6 +465,7 @@ home-prefs-topsites-description = ඔබ වැඩිපුරම පිවි�
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } විසින් නිර්දේශිතයි
+
 ##
 
 home-prefs-recommended-by-learn-more = එය ක්‍රියාත්මක වන්නේ කෙසේද
@@ -482,6 +483,7 @@ home-prefs-highlights-option-most-recent-download =
     .label = මෑතකාලීන බාගත
 
 home-prefs-snippets-description = { -vendor-short-name } සහ { -brand-product-name } වෙතින් යාවත්
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -539,6 +541,7 @@ containers-add-button =
 
 containers-preferences-button =
     .label = අභිප්‍රේත
+
 containers-remove-button =
     .label = ඉවත් කරන්න
 

@@ -6,6 +6,9 @@
 <!ENTITY newMessageCmd.accesskey         "M">
 <!ENTITY newMessageCmd.key               "M">
 
+<!ENTITY newContactCmd.label "Contact…">
+<!ENTITY newContactCmd.accesskey "C">
+
 <!ENTITY sendPage.label                  "Send Page…">
 <!ENTITY sendPage.accesskey              "S">
 
@@ -15,12 +18,6 @@
 <!ENTITY contextSendThisLink.accesskey   "k">
 <!ENTITY contextSendImage.label          "Send Image…">
 <!ENTITY contextSendImage.accesskey      "n">
-<!ENTITY contextSendFrame.label          "Send Frame…">
-<!ENTITY contextSendFrame.accesskey      "d">
-
-<!ENTITY sendLinkCmd.label               "Send Link…"> 
-<!ENTITY sendLinkCmd.accesskey           "d">
-
 <!ENTITY contextSendVideo.label          "Send Video…">
 <!ENTITY contextSendVideo.accesskey      "n">
 <!ENTITY contextSendAudio.label          "Send Audio…">
@@ -31,5 +28,9 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY newContactCmd.label "Contact…">
-<!ENTITY newContactCmd.accesskey "C">
+<!ENTITY contextSendFrame.label          "Send Frame…">
+<!ENTITY contextSendFrame.accesskey      "d">
+
+<!ENTITY sendLinkCmd.label               "Send Link…"> 
+<!ENTITY sendLinkCmd.accesskey           "d">
+

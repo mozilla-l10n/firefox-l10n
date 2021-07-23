@@ -12,8 +12,6 @@
 <!ENTITY pasteNoFormatting.label "හැඩගැසුම් නොමැතිව අලවන්න">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "අලවන අයුර">
-<!ENTITY pasteAs.accesskey "A">
 
 <!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
      Set to: "Table" or "Nested Table" depending on context 
@@ -21,7 +19,6 @@
 <!ENTITY pasteAsQuotationCmd.label "උපුටා ගැනීමක් සේ අලවන්න">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "සෙවීම සහ ප්‍රතිස්ථාපනය කිරීම...">
 <!ENTITY enableInlineSpellChecker.label "ලියන විටදීම අක්ෂර වින්‍යාස පරීක්ෂා කරන්න">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "අක්ෂර වින්‍යාස පරීක්ෂා කරන්න">
@@ -31,9 +28,6 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "ඇතුලත් කිරීම්">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "ඈඳුම්...">
-<!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "නම්කළ නැංගූරම (Named Anchor)...">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "රූප...">
@@ -84,20 +78,12 @@
 
 <!ENTITY fontSizeMenu.label "විශාලත්වය">
 <!ENTITY fontSizeMenu.accesskey "z">
-<!ENTITY size-xx-smallCmd.label "ඉතාම කුඩා (xx-small)">
-<!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "ඉතා කුඩා (x-small)">
-<!ENTITY size-x-smallCmd.accesskey "m">
 <!ENTITY size-smallCmd.label "කුඩා">
 <!ENTITY size-smallCmd.accesskey "s">
 <!ENTITY size-mediumCmd.label "මධ්‍යම">
 <!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "විශාල">
 <!ENTITY size-largeCmd.accesskey "l">
-<!ENTITY size-x-largeCmd.label "ඉතා විශාල (x-large)">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "ඉතාම විශාල (xx-large)">
-<!ENTITY size-xx-largeCmd.accesskey "e">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "පාඨ විලාසය">
@@ -219,11 +205,14 @@
 <!ENTITY decreaseIndent.label "එබුම (Indent) අඩු කරන්න">
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
+
 <!ENTITY colorsAndBackground.label "පිටු වර්ණ සහ පසුබිම...">
 <!ENTITY colorsAndBackground.accesskey "u">
+
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "වගු">
 <!ENTITY tableMenu.accesskey "b">
+
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "තෝරන්න">
 <!ENTITY tableSelectMenu.accesskey "S">
@@ -271,6 +260,7 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "මකන්න">
 <!ENTITY tableDeleteMenu.accesskey "D">
+
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -292,8 +282,6 @@
 <!ENTITY cutToolbarCmd.tooltip "කපන්න">
 <!ENTITY copyToolbarCmd.tooltip "පිටපත් කරන්න">
 <!ENTITY pasteToolbarCmd.tooltip "අලවන්න">
-<!ENTITY printToolbarCmd.label "මුද්‍රණය">
-<!ENTITY printToolbarCmd.tooltip "මෙම පිටුව මුද්‍රණය කිරීම">
 <!ENTITY findToolbarCmd.label "සෙයෙන්න">
 <!ENTITY findToolbarCmd.tooltip "පිටුවේ පාඨ සෙවීම">
 <!ENTITY spellToolbarCmd.label "අක්ෂර වින්‍යාසය">
@@ -310,7 +298,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "නව නම්කළ නැංගූරමක් (named anchor) ඇතුලත් කිරීම හෝ තෝරාගත් එකක ලක්ෂණ සැකසීම">
 <!ENTITY TextColorButton.tooltip "පාඨ සඳහා වර්ණ තේරීම">
 <!ENTITY BackgroundColorButton.tooltip "පසුබිම සඳහා වර්ණ තේරීම">
-<!ENTITY throbber.tooltip "&vendorShortName; මුල් පිටුවට යන්න">
 <!ENTITY HighlightColorButton.tooltip "පාඨ ඉස්මතු කිරීම සඳහා වර්ණ තේරීම">
 
 <!-- Editor toolbar -->

@@ -3,14 +3,30 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerWindow.title "තැපැල් සහ පුවත්සමූහ">
+<!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
 
+<!ENTITY tabmailClose.label "Close Tab">
+<!ENTITY tabmailClose.tooltip "Close tab">
+<!ENTITY tabmailNewButton.tooltip "Duplicate current tab">
+<!ENTITY tabmailCloseButton.tooltip "Close current tab">
+<!ENTITY tabmailAllTabs.tooltip "List all tabs">
+
+<!-- menu items: the . means that the menu item isn't implemented yet -->
+
+<!ENTITY newMessage.label "New Message">
+<!ENTITY newMessage.accesskey "N">
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "බලුමක්...">
 <!ENTITY newFolderCmd.accesskey "F">
 
 <!ENTITY newVirtualFolderCmd.label "සුරැකූ සෙවුමක්...">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
+<!ENTITY newTabCmd.label "Duplicate Tab">
+<!ENTITY newTabCmd.accesskey "T">
+<!ENTITY newTabCmd.key "t">
+<!ENTITY closeTabCmd.label "Close Tab">
+<!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newAccountCmd.label "ගිණුමක්...">
 <!ENTITY newAccountCmd.accesskey "A"> 
 <!ENTITY openMessageFileCmd.label "සුරැකූ ලිපියක් විවෘත කරන්න...">
@@ -24,11 +40,15 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "ආකෘතියක් ලෙස">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY getNewMsgCmd.label "Get New Messages">
+<!ENTITY getNewMsgCmd.accesskey "G">
+<!ENTITY getNewMsgCmd2.key "d">
 <!ENTITY getNewMsgForCmd.label "නව ලිපි ලබාගන්න">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "සියලු ගිණුම් සඳහා වූ">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 
+<!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "ඊළඟ නව ලිපි 500 ලබාගන්න">
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "නොයැවූ ලිපි යවන්න">
@@ -42,8 +62,6 @@
 <!ENTITY compactFolders.accesskey "F">
 <!ENTITY emptyTrashCmd.label "ලිපි මකන්න">
 <!ENTITY emptyTrashCmd.accesskey    "y">
-<!ENTITY importCmd.label "ආයාත කරන්න...">
-<!ENTITY importCmd.accesskey "I">
 <!ENTITY offlineMenu.label "අසම්බන්ධිත">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY synchronizeOfflineCmd.label "දැන් බාගන්න/සමකාලික කරන්න…">
@@ -53,13 +71,8 @@
 <!ENTITY downloadSelectedCmd.label "තෝරාගත් ලිපි ලබාගන්න">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 
-<!ENTITY printCmd.label "මුද්‍රණය...">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "මුද්‍රණ පෙරදැක්ම">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "පිටු සැකසුම්...">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY downloadFlaggedCmd.label "Get Flagged Messages">
+<!ENTITY downloadFlaggedCmd.accesskey "G">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "ලිපිය මකන්න">
@@ -72,16 +85,12 @@
 <!ENTITY deleteMsgsCmd.accesskey "D">
 <!ENTITY undeleteMsgsCmd.label "තෝරාගත් ලිපි මැකීම අහෝසි.">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY cancelNewsMsgsCmd.label "තෝරාගත් ලිපි අත්හැර දමන්න">
-<!ENTITY cancelNewsMsgsCmd.accesskey "n">
 <!ENTITY deleteFolderCmd.label "බහලුම මකන්න">
 <!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY unsubscribeNewsgroupCmd.label "දායකත්වය අත්හරින්න ">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
 <!ENTITY selectMenu.label "තෝරන්න">
 <!ENTITY selectMenu.accesskey "S">
-<!ENTITY all.label "සියල්ල">
-<!ENTITY all.accesskey "A">
 <!ENTITY selectThreadCmd.label "සබැඳි ලිපි (Thread)">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
@@ -100,6 +109,8 @@
 <!ENTITY redoMoveMsgCmd.label "ලිපි ගෙනයාම යළි කරන්න">
 <!ENTITY undoCopyMsgCmd.label "ලිපි කොපි කිරීම අහෝසි.">
 <!ENTITY redoCopyMsgCmd.label "ලිපි කොපි කිරීම යළි කරන්න">
+<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
+<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
 <!ENTITY undoDefaultCmd.label "අහෝසි.">
 <!ENTITY redoDefaultCmd.label "යළි කරන්න">
 
@@ -107,6 +118,10 @@
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "ලිපි මෙවලම් තීරුව">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
+<!-- showSearchToolbarCmd is also used by addressbook -->
+<!ENTITY showSearchToolbarCmd.label		"සෙවුම් පුවරුව">
+<!ENTITY showSearchToolbarCmd.accesskey	"e">
+
 <!ENTITY messagePaneLayoutStyle.label "ආකෘතිය">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
 <!ENTITY messagePaneClassic.label "Classic View">
@@ -117,15 +132,23 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 
 
+<!ENTITY showMessagePaneCmd.label "පණිවිඩ පුවරුව">
+<!ENTITY showMessagePaneCmd.accesskey "M">
+<!ENTITY showThreadPaneCmd.label "Thread Pane">
+<!ENTITY showThreadPaneCmd.accesskey "T">
+<!ENTITY showFolderPaneCmd.label "බහලුම් පුවරුව">
+<!ENTITY showFolderPaneCmd.accesskey "F">
+
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "පිළිවෙළ කරන අයුර">
 <!ENTITY sortMenu.accesskey "S">
+
 <!ENTITY sortByDateCmd.label "දිනය">
 <!ENTITY sortByDateCmd.accesskey "e">
 <!ENTITY sortByReceivedCmd.label "ලැබීම">
 <!ENTITY sortByReceivedCmd.accesskey "v">
-<!ENTITY sortByAttachmentsCmd.label "ඇමුණුම්">
-<!ENTITY sortByAttachmentsCmd.accesskey "A">
+<!ENTITY sortByFlagCmd.label "සංඥා">
+<!ENTITY sortByFlagCmd.accesskey "l">
 <!ENTITY sortByPriorityCmd.label "ප්‍රමුඛතාවය">
 <!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortBySizeCmd.label "විශාලත්වය">
@@ -146,6 +169,8 @@
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "ලැබුණු පිළිවෙළ">
 <!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortByAttachmentsCmd.label "ඇමුණුම්">
+<!ENTITY sortByAttachmentsCmd.accesskey "A">
 <!ENTITY sortAscending.label "ආරෝහණ">
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "අවරෝහණ">
@@ -176,6 +201,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
 <!ENTITY ignoredThreadsCmd.label "නොසලකා හැරි සබැඳුම්">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
+
 <!ENTITY headersMenu.label "ශීර්ෂ">
 <!ENTITY headersMenu.accesskey "H">
 <!ENTITY headersAllCmd.label "සියල්ල">
@@ -190,6 +216,16 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "සාමාන්‍ය පෙළ">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+
+<!ENTITY bodyMenuFeed.label "Feed Message Body As">
+<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY viewFeedWebPage.label "Web Page">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Summary">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Default Format">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
+
 <!ENTITY viewAttachmentsInlineCmd.label "ඇමුණුම් ලිපිය තුළම පෙන්වන්න">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
@@ -203,20 +239,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Search Menu -->
 
+<!ENTITY reloadCmd.label "Reload">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY stopCmd.label "නවතන්න">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY pageSourceCmd.label "පණිවිඩ මූලය">
+
+
+<!--
+Entities below were automatically added by compare-locales,
+ based on en-US entities.
+-->
+
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.key "u">
+
 <!ENTITY findCmd.label "මේ ලිපියේ සොයන්න...">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "නැවත සොයන්න">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "ලිපි සොයන්න...">
-<!ENTITY searchMailCmd.accesskey "M">
-<!ENTITY searchMailCmd.key "f">
-<!ENTITY searchAddressesCmd.label "ලිපින සොයන්න...">
-<!ENTITY searchAddressesCmd.accesskey "S">
+
+<!-- Go Menu -->
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "යන්න">
@@ -229,6 +269,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.label "නොකියවූ ලිපියට">
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextFlaggedMsgCmd.label "Flagged Message">
+<!ENTITY nextFlaggedMsgCmd.accesskey "F">
 <!ENTITY nextUnreadThread.label "නොකියවූ සබැඳි ලිපියට">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
@@ -240,13 +282,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevUnreadMsgCmd.label "නොකියවූ ලිපියට">
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goBackCmd.label "පසුපසට">
+<!ENTITY goBackCmd.accesskey "B">
+<!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "ඉදිරියට">
 
+<!ENTITY goForwardCmd.accesskey "F">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY goBackCmd.label "පසුපසට">
-<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY prevFlaggedMsgCmd.label "Flagged Message">
+<!ENTITY prevFlaggedMsgCmd.accesskey "F">
 <!ENTITY startPageCmd.label "ආරම්භක පිටුවට">
 <!ENTITY startPageCmd.accesskey "S">
+
 <!ENTITY msgMenu.label "ලිපි">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "නව ලිපි">
@@ -256,13 +303,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.label "පිළිතුරු">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key  "r">
-<!ENTITY replySenderCmd.label "එවූ තැනැත්තාට පිළිතුරු">
-<!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd.label "පුවත්සමූහයට පිළිතුරු">
 <!ENTITY replyNewsgroupCmd.accesskey  "y">
+<!ENTITY replySenderCmd.label "එවූ තැනැත්තාට පිළිතුරු">
+<!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyToAllMsgCmd.label "සැමට පිළිතුරු">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
+<!ENTITY replyToSenderAndNewsgroupCmd.label "Reply to Sender and Newsgroup">
+<!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
+<!ENTITY replyToAllRecipientsCmd.label "Reply to All Recipients">
+<!ENTITY replyToAllRecipientsCmd.accesskey "a">
 <!ENTITY forwardMsgCmd.label "යොමුව">
 <!ENTITY forwardMsgCmd.accesskey "F">
 <!ENTITY forwardMsgCmd.key  "l">
@@ -277,14 +328,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "පෙරහනක් සාදන්න...">
 <!ENTITY createFilter.accesskey "a">
+<!ENTITY archiveMsgCmd.label "Archive">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "ගෙන යන්න">
 <!ENTITY moveMsgToMenu.accesskey "M">
-<!ENTITY moveCopyMsgRecentMenu.label "මෑතකිලීන">
-<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "ලිපි ස්ථානය පිටපත් කරන්න">
 <!ENTITY copyMessageLocation.accesskey "M">
 <!ENTITY copyMsgToMenu.label "පිටපත් කරන්න">
 <!ENTITY copyMsgToMenu.accesskey "C">
+<!ENTITY moveCopyMsgRecentMenu.label "මෑතකිලීන">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY killThreadMenu.label "සබැඳුම නොසලකා හරින්න">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
@@ -300,21 +354,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "ටැග්">
 <!ENTITY tagMenu.accesskey "g">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "3">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
+<!ENTITY tagCustomize.label "රිසිකරණය…">
+<!ENTITY tagCustomize.accesskey "C">
 <!ENTITY markMenu.label "සළකුණු කරන්න">
 <!ENTITY markMenu.accesskey "k">
-<!ENTITY markAsReadCmd.label "කියවූ ලෙස">
-<!ENTITY markAsReadCmd.accesskey "R">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Thread As Read">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -332,18 +375,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "නිසරු ලිපි පාලක ක්‍රියා ක.">
 <!ENTITY recalculateJunkScoreCmd.accesskey "C">
-<!ENTITY openMessageWindowCmd.label "ලිපිය විවෘත කරන්න">
-<!ENTITY openMessageWindowCmd.accesskey "O">
-<!ENTITY openMessageWindowCmd.key "o">
 
 <!-- Windows Menu -->
 
 <!-- Tools Menu -->
 
-<!ENTITY runJunkControls.label "බහලුමේ නිසරු ලිපි පාලක ක්‍රියා කරන්න">
-<!ENTITY runJunkControls.accesskey "u">
-<!ENTITY deleteJunk.label "බහලුමේ නිසරු සේ සළකුණු කර ඇති ලිපි මකන්න">
-<!ENTITY deleteJunk.accesskey "l">
+<!ENTITY markAsShowRemoteCmd.label "Show Remote Content">
+<!ENTITY markAsShowRemoteCmd.accesskey "e">
+<!ENTITY markAsShowRemoteCmd.key "r">
+<!ENTITY markAsNotPhishCmd.label "As Not Scam">
+<!ENTITY markAsNotPhishCmd.accesskey "S">
+<!ENTITY markAsNotPhishCmd.key "p">
+<!ENTITY openFeedMessage.label "Open Feed Message">
+<!ENTITY openFeedMessage.accesskey "O">
+<!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Summary in New Window">
+<!ENTITY openFeedSummaryInWindow.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
+
+<!ENTITY searchMailCmd.label "ලිපි සොයන්න...">
+<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "ලිපින සොයන්න...">
+<!ENTITY searchAddressesCmd.accesskey "S">
 
 <!ENTITY filtersCmd.label "ලිපි පෙරණ...">
 <!ENTITY filtersCmd.accesskey "F">
@@ -354,36 +410,64 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToMessage.label "ලිපි මත පෙරහන ක්‍රියා කරන්න">
 <!ENTITY filtersApplyToMessage.accesskey "s">
 
+<!ENTITY runJunkControls.label "බහලුමේ නිසරු ලිපි පාලක ක්‍රියා කරන්න">
+<!ENTITY runJunkControls.accesskey "u">
+<!ENTITY deleteJunk.label "බහලුමේ නිසරු සේ සළකුණු කර ඇති ලිපි මකන්න">
+<!ENTITY deleteJunk.accesskey "l">
+
+<!ENTITY importCmd.label "ආයාත කරන්න...">
+<!ENTITY importCmd.accesskey "I">
+
+<!ENTITY nameColumn.label "නම">
+<!-- Thread Pane -->
+<!ENTITY unreadColumn.label "නොකියවූ">
+<!-- Quick Search Menu Bar -->
+<!ENTITY totalColumn.label "එකතුව">
+
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton.label "ලිපි ලබාගන්න">
+<!ENTITY getAllNewMsgCmd.label "සියළු නව ලිපි ලබා ගැනීමට">
 <!ENTITY newMsgButton.label "ලියන්න">
+<!ENTITY newHTMLMessageCmd.label "Compose in HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Compose in Plain Text">
+<!ENTITY newPlainTextMessageCmd.accesskey "P">
 <!ENTITY replyButton.label "පිළිතුරු යවන්න">
 <!ENTITY replyAllButton.label "සැමට පිළිතුරු">
 <!ENTITY forwardButton.label "යොමු කරන්න">
 <!ENTITY fileButton.label "ගොනු">
 <!ENTITY nextButton.label "ඊළඟ">
+<!ENTITY goBackButton.label "Go Back">
+<!ENTITY goForwardButton.label "Go Forward">
 <!ENTITY deleteButton.label "මකන්න">
+<!ENTITY undeleteButton.label "Undelete">
 <!ENTITY markButton.label "සළකුණු කරන්න">
 <!ENTITY printButton.label "මුද්‍රණය">
 <!ENTITY stopButton.label "නවතන්න">
 <!ENTITY junkButton.label "නිසරු ලිපි">
 <!ENTITY notJunkButton.label "නිසරු සේ නොගැනෙන ලිපි">
-<!ENTITY getAllNewMsgCmd.label "සියළු නව ලිපි ලබා ගැනීමට">
+<!ENTITY searchButton.title "Advanced Search">
+
+<!ENTITY menuBar.tooltip "Menu Bar">
+<!ENTITY mailToolbar.tooltip "Mail Toolbar">
+<!ENTITY searchToolbar.tooltip "Search Bar">
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY advancedButton.tooltip "Advanced message search">
 <!ENTITY getMsgButton.tooltip "නව ලිපි ලබා ගැනීමට">
-<!ENTITY goForwardButton.tooltip "ඉදිරි ලිපියට">
 <!ENTITY newMsgButton.tooltip "නව ලිපියක් ඇරඹීමට">
-<!ENTITY nextButton.tooltip "මීලඟ නොකියවූ ලිපියට">
 <!ENTITY replyButton.tooltip "ලිපියට පිළිතුරු ලිවීමට">
 <!ENTITY replyAllButton.tooltip "එවන්නා ඇතුළු සැමට පිළිතුරු සැපයීමට">
 <!-- Mail Toolbar Tooltips-->
 
-<!ENTITY deleteButton.tooltip "තෝරාගත් ලිපි හෝ බහලුම් මැකීමට">
-<!ENTITY fileButton.tooltip "තෝරාගත් ලිපිය ගොනුගත කරන්න">
+<!ENTITY replyAllButtonNews.tooltip "Reply to sender and newsgroup">
 <!ENTITY forwardButton.tooltip "තෝරාගත් ලිපිය යොමු කිරීමට">
+<!ENTITY fileButton.tooltip "තෝරාගත් ලිපිය ගොනුගත කරන්න">
+<!ENTITY nextButton.tooltip "මීලඟ නොකියවූ ලිපියට">
 <!ENTITY goBackButton.tooltip "පෙර ලිපියට">
-<!ENTITY junkButton.tooltip "තෝරාගත් ලිපි නිසරු සේ සළකුණු කිරීමට">
+<!ENTITY goForwardButton.tooltip "ඉදිරි ලිපියට">
+<!ENTITY deleteButton.tooltip "තෝරාගත් ලිපි හෝ බහලුම් මැකීමට">
+<!ENTITY undeleteButton.tooltip "Undelete selected message">
 <!ENTITY markButton.tooltip "ලිපි සළකුණු කිරීමට">
-<!ENTITY notJunkButton.tooltip "තෝරාගත් ලිපි නසරු ‍නොවන සේ සළකුණු කිරීමට">
 <!ENTITY printButton.tooltip "ලිපිය මුද්‍රණය කිරීමට">
 <!ENTITY stopButton.tooltip "ලිපි යැවීම/ලබාගැනීම නතර කිරීමට">
 <!-- Tags Menu Popup -->
@@ -391,14 +475,60 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Folder Pane -->
 
+<!ENTITY junkButton.tooltip "තෝරාගත් ලිපි නිසරු සේ සළකුණු කිරීමට">
+<!ENTITY notJunkButton.tooltip "තෝරාගත් ලිපි නසරු ‍නොවන සේ සළකුණු කිරීමට">
+
+<!-- Statusbar -->
+<!ENTITY statusText.label "කළා">
+
+<!--  Mac OS X Window Menu -->
+
+<!-- Thread Pane Context Menu -->
+<!ENTITY contextOpenNewWindow.label "ලිපිය නව කවුළුවක විවෘත කරන්න">
+<!ENTITY contextOpenNewWindow.accesskey "W">
+
+<!ENTITY contextOpenNewTab.label "Open Message in New Tab">
+<!ENTITY contextOpenNewTab.accesskey "T">
+<!ENTITY contextEditAsNew.label "නව ලිපියක් සේ සකසන්න...">
+<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextReplySender.label "එවූ තැනැත්තාට පිළිතුරු">
+<!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplyNewsgroup.label "පුවත්සමූහයට පිළිතුරු">
+<!ENTITY contextReplyNewsgroup.accesskey "y">
+<!ENTITY contextReplyAll.label "සැමට පිළිතුරු">
+<!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplySenderAndNewsgroup.label "Reply to Sender and Newsgroup">
+<!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
+<!ENTITY contextForward.label "යොමු කරන්න">
+<!ENTITY contextForward.accesskey "F">
+<!ENTITY contextForwardAsAttachment.label "ඇමුණුමක් ලෙස යොමු කරන්න">
+<!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextArchive.label "Archive">
+<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextMoveMsgMenu.label "ගෙන යන්න">
+<!ENTITY contextMoveMsgMenu.accesskey "M">
+<!ENTITY contextCopyMsgMenu.label "පිටපත් කරන්න">
+<!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "මෑතකාලීන">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextSaveAs.label "සුරකින අයුර...">
+<!ENTITY contextSaveAs.accesskey "S">
+<!ENTITY contextPrint.label "මුද්‍රණය...">
+<!ENTITY contextPrint.accesskey "P">
+<!ENTITY contextPrintPreview.label "මුද්‍රණය පෙර දැක්ම">
+<!ENTITY contextPrintPreview.accesskey "v">
+
+<!-- Junk Bar -->
+
+
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "ලිපි ලබාගන්න">
 <!ENTITY folderContextGetMessages.accesskey "G">
 <!ENTITY folderContextOpenNewWindow.label "විවෘත කරන්න">
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
 
-<!ENTITY folderContextNew.label "නව උප බහලුමක්...">
-<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextOpenNewTab.label "Open in New Tab">
+<!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextRename.label "යළි නම් කරන්න">
 <!ENTITY folderContextRename.accesskey "R">
 <!ENTITY folderContextRemove.label "මකන්න">
@@ -417,6 +547,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
 <!ENTITY folderContextMarkMailFolderRead.label "බහලුම කියවූ සේ ලකුණු කරන්න">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
+<!ENTITY folderContextNew.label "නව උප බහලුමක්...">
+<!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextSubscribe.label "දායකත්වය ලබාගන්න...">
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchMessages.label "ලිපි සොයන්න...">
@@ -428,175 +560,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSettings.accesskey "e">
 
 
-<!-- Quick Search Menu Bar -->
-<!ENTITY totalColumn.label "එකතුව">
-<!-- Thread Pane -->
-<!ENTITY unreadColumn.label "නොකියවූ">
-<!-- Thread Pane Context Menu -->
-<!ENTITY contextOpenNewWindow.label "ලිපිය නව කවුළුවක විවෘත කරන්න">
-<!ENTITY contextOpenNewWindow.accesskey "W">
-
-<!ENTITY contextEditAsNew.label "නව ලිපියක් සේ සකසන්න...">
-<!ENTITY contextEditAsNew.accesskey "E">
-<!ENTITY contextReplySender.label "එවූ තැනැත්තාට පිළිතුරු">
-<!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "පුවත්සමූහයට පිළිතුරු">
-<!ENTITY contextReplyNewsgroup.accesskey "y">
-<!ENTITY contextReplyAll.label "සැමට පිළිතුරු">
-<!ENTITY contextReplyAll.accesskey "A">
-<!ENTITY contextForward.label "යොමු කරන්න">
-<!ENTITY contextForward.accesskey "F">
-<!ENTITY contextForwardAsAttachment.label "ඇමුණුමක් ලෙස යොමු කරන්න">
-<!ENTITY contextForwardAsAttachment.accesskey "o">
-<!ENTITY contextMoveMsgMenu.label "ගෙන යන්න">
-<!ENTITY contextMoveMsgMenu.accesskey "M">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "මෑතකාලීන">
-<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY contextCopyMsgMenu.label "පිටපත් කරන්න">
-<!ENTITY contextCopyMsgMenu.accesskey "C">
-<!ENTITY contextSaveAs.label "සුරකින අයුර...">
-<!ENTITY contextSaveAs.accesskey "S">
-<!ENTITY contextPrint.label "මුද්‍රණය...">
-<!ENTITY contextPrint.accesskey "P">
-<!ENTITY contextPrintPreview.label "මුද්‍රණය පෙර දැක්ම">
-<!ENTITY contextPrintPreview.accesskey "v">
-
-<!-- Junk Bar -->
-
-<!ENTITY junkInfoButton.label "?">
-
-
-<!-- Statusbar -->
-<!ENTITY statusText.label "කළා">
-
-<!--  Mac OS X Window Menu -->
-
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY advancedButton.tooltip "Advanced message search">
+<!ENTITY focusSearchInput.key "k">
 <!ENTITY advancedButton.label "Advanced…">
 <!ENTITY advancedButton.accesskey "A">
-<!ENTITY contextReplySenderAndNewsgroup.label "Reply to Sender and Newsgroup">
-<!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
-<!ENTITY downloadFlaggedCmd.label "Get Flagged Messages">
-<!ENTITY downloadFlaggedCmd.accesskey "G">
-<!ENTITY findPrevCmd.label "Find Previous">
-<!ENTITY findPrevCmd.accesskey "v">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY getNewMsgCmd.label "Get New Messages">
-<!ENTITY getNewMsgCmd.accesskey "G">
-<!ENTITY goBackButton.label "Go Back">
-<!ENTITY goForwardButton.label "Go Forward">
-<!ENTITY junkBarButton.label "This is Not Junk">
-<!ENTITY loadRemoteContentButton.label "Show Remote Content">
-<!ENTITY mailToolbar.tooltip "Mail Toolbar">
-<!ENTITY markAsNotPhishCmd.label "As Not Scam">
-<!ENTITY markAsNotPhishCmd.accesskey "S">
-<!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY markAsShowRemoteCmd.label "Show Remote Content">
-<!ENTITY markAsShowRemoteCmd.accesskey "e">
-<!ENTITY markAsShowRemoteCmd.key "r">
-<!ENTITY markFlaggedCmd.label "Flag">
-<!ENTITY markFlaggedCmd.accesskey "F">
-<!ENTITY markFlaggedCmd.key "i">
-<!ENTITY menuBar.tooltip "Menu Bar">
-<!ENTITY nameColumn.label "නම">
-<!ENTITY newMessage.label "New Message">
-<!ENTITY newMessage.accesskey "N">
-<!ENTITY nextFlaggedMsgCmd.label "Flagged Message">
-<!ENTITY nextFlaggedMsgCmd.accesskey "F">
-<!ENTITY phishingBarMessage.label "&brandShortName; thinks this message might be an email scam.">
-<!ENTITY prevFlaggedMsgCmd.label "Flagged Message">
-<!ENTITY prevFlaggedMsgCmd.accesskey "F">
-<!ENTITY reloadCmd.label "Reload">
-<!ENTITY reloadCmd.accesskey "R">
-<!ENTITY remoteContentMessage.label "To protect your privacy, &brandShortName; has blocked remote content in this message.">
-<!ENTITY removePhishingBarButton.label "Not a Scam">
-<!ENTITY replyAllButtonNews.tooltip "Reply to sender and newsgroup">
-<!ENTITY replyToAllRecipientsCmd.label "Reply to All Recipients">
-<!ENTITY replyToAllRecipientsCmd.accesskey "a">
-<!ENTITY replyToSenderAndNewsgroupCmd.label "Reply to Sender and Newsgroup">
-<!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
-<!ENTITY showFolderPaneCmd.label "බහලුම් පුවරුව">
-<!ENTITY showFolderPaneCmd.accesskey "F">
-<!ENTITY showMessagePaneCmd.label "පණිවිඩ පුවරුව">
-<!ENTITY showMessagePaneCmd.accesskey "M">
-<!-- showSearchToolbarCmd is also used by addressbook -->
-<!ENTITY showSearchToolbarCmd.label		"සෙවුම් පුවරුව">
-<!ENTITY showSearchToolbarCmd.accesskey	"e">
-<!ENTITY sortByFlagCmd.label "සංඥා">
-<!ENTITY sortByFlagCmd.accesskey "l">
-<!ENTITY stopCmd.label "නවතන්න">
-<!ENTITY stopCmd.accesskey "S">
-<!ENTITY tagCustomize.label "රිසිකරණය…">
-<!ENTITY tagCustomize.accesskey "C">
-<!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">
-<!ENTITY titleModifier.label "&brandShortName;">
-<!ENTITY junkBarMessage.label "&brandShortName; මෙය නිසරු ලිපියක් සේ සලකයි.">
-<!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.key "u">
-<!ENTITY pageSourceCmd.label "පණිවිඩ මූලය">
-
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY goForwardCmd.accesskey "F">
-<!ENTITY openFeedMessage.label "Open Feed Message">
-<!ENTITY undoMarkAllCmd.label "Undo Mark All Read">
-<!ENTITY contextArchive.label "Archive">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY tabmailNewButton.tooltip "Duplicate current tab">
-<!ENTITY archiveMsgCmd.key "a">
-<!ENTITY viewFeedWebPage.label "Web Page">
-<!ENTITY viewFeedWebPage.accesskey "W">
-<!ENTITY bodyMenuFeed.accesskey "B">
-<!ENTITY goBackCmd.accesskey "B">
-<!ENTITY newTabCmd.label "Duplicate Tab">
-<!ENTITY newPlainTextMessageCmd.label "Compose in Plain Text">
-<!ENTITY openFeedSummaryInWindow.label "Summary in New Window">
-<!ENTITY closeTabCmd.accesskey "e">
-<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
-<!ENTITY focusSearchInput.key "k">
-<!ENTITY tabmailCloseButton.tooltip "Close current tab">
-<!ENTITY newHTMLMessageCmd.accesskey "H">
-<!ENTITY mdnBarIgnoreButton.label "Ignore Request">
-<!ENTITY newHTMLMessageCmd.label "Compose in HTML">
-<!ENTITY mdnBarSendButton.label "Send Receipt">
-<!ENTITY newPlainTextMessageCmd.accesskey "P">
-<!ENTITY newTabCmd.accesskey "T">
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
-<!ENTITY contextOpenNewTab.accesskey "T">
-<!ENTITY folderContextOpenNewTab.label "Open in New Tab">
-<!ENTITY archiveMsgCmd.label "Archive">
-<!ENTITY newTabCmd.key "t">
-<!ENTITY undeleteButton.label "Undelete">
-<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
-<!ENTITY bodyMenuFeed.label "Feed Message Body As">
-<!ENTITY showThreadPaneCmd.accesskey "T">
-<!ENTITY closeTabCmd.label "Close Tab">
-<!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
-<!ENTITY getAllNewMsgCmd2.key "d">
-<!ENTITY contextArchive.accesskey "A">
-<!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
-<!ENTITY getNewMsgCmd2.key "d">
-<!ENTITY searchToolbar.tooltip "Search Bar">
-<!ENTITY tabmailClose.label "Close Tab">
-<!ENTITY folderContextOpenNewTab.accesskey "T">
-<!ENTITY showThreadPaneCmd.label "Thread Pane">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "Default Format">
-<!ENTITY tabmailClose.tooltip "Close tab">
-<!ENTITY redoMarkAllCmd.label "Redo Mark All Read">
-<!ENTITY searchButton.title "Advanced Search">
-<!ENTITY openFeedWebPageInMP.accesskey "T">
-<!ENTITY undeleteButton.tooltip "Undelete selected message">
-<!ENTITY tabmailAllTabs.tooltip "List all tabs">
-<!ENTITY contextOpenNewTab.label "Open Message in New Tab">
-<!ENTITY viewFeedSummary.accesskey "m">
 <!ENTITY searchButton.label "Search Messages…">
-<!ENTITY viewFeedSummary.label "Summary">
-<!ENTITY openFeedMessage.accesskey "O">
 <!ENTITY searchButton.accesskey "S">
+
+<!ENTITY all.label "සියල්ල">
+<!ENTITY all.accesskey "A">

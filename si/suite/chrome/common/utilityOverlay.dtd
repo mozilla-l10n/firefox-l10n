@@ -42,6 +42,7 @@
 <!ENTITY pasteCmd.accesskey					"p"> 
 <!ENTITY pasteGoCmd.label					"Paste &amp; Go">
 <!ENTITY pasteGoCmd.accesskey				"G">
+
 <!ENTITY deleteCmd.label					"Delete">  
 <!ENTITY deleteCmd.accesskey				"d"> 
 <!ENTITY selectAllCmd.label					"Select All">  
@@ -118,3 +119,4 @@
 <!ENTITY showPopupManager.accesskey   "M">
 <!ENTITY dontShowMessage.label        "Don't show this message when popups are blocked">
 <!ENTITY dontShowMessage.accesskey    "D">
+

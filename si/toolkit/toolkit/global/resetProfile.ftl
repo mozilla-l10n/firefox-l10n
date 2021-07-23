@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } නැවුම්කරන්න
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name } නැවුම් කරන්න
 refresh-profile-description = දෝශ නිරාකරණයට හා කාර්ය්‍යක්ෂමතාව යළි පිහිටුවීමට අළුතෙන් අරඹන්න.

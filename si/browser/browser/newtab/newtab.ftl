@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = සොයන්න
 
 newtab-search-box-search-the-web-text = ජාලය තුළ සොයන්න
+
 newtab-search-box-search-the-web-input =
     .placeholder = ජාලය තුළ සොයන්න
     .title = ජාලය තුළ සොයන්න
@@ -53,6 +54,8 @@ newtab-topsites-add-button = එක් කරන්න
 newtab-confirm-delete-history-p1 = ඔබට මෙම පිටුවට අදාල සියලුම සිදුවීම් ඔබේ අතීතයන් මැකීමට අවශ්‍ය ද?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = මෙම ක්‍රියාව අහෝසි කළ නොහැක.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -152,3 +155,6 @@ newtab-pocket-more-recommendations = තවත් නිර්දේශ
 
 newtab-error-fallback-info = අහෝ, මෙම අන්තර්ගතය පූර්ණයෙදී යම් වරදක් සිදුවිය.
 newtab-error-fallback-refresh-link = යළි උත්සාහ කිරීමට පිටුව යාවත්කාලීන කරන්න.
+
+## Customization Menu
+
