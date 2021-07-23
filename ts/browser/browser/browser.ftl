@@ -62,6 +62,12 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Pfala
 
+## Tab actions
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 ## Bookmarks toolbar items
 
 
@@ -91,10 +97,13 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-sidebar-content =
     .aria-label = Timakara ta buku
+
 bookmarks-toolbar-menu =
     .label = Xo secha timakara ta buku
 bookmarks-toolbar-placeholder =
@@ -105,8 +114,23 @@ bookmarks-toolbar-placeholder-button =
 ## Library Panel items
 
 
+## Pocket toolbar button
+
+## Repair text encoding toolbar button
+
+## Customize Toolbar Buttons
+
 ## More items
 
 more-menu-go-offline =
     .label = Tirha u nga ri layinini
     .accesskey = t
+
+## EME notification panel
+
+## Password save/update panel
+
+## Add-on removal warning
+
+## Remote / Synced tabs
+

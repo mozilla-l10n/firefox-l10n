@@ -143,6 +143,8 @@ cert-not-verified-issuer-unknown = A swi kotekangi ku tiyisisa xitifiketi lexi h
 cert-not-verified-ca-invalid = A swi kotekangi ku tiyisisa xitifiketi lexi hikuva xitifiketi xa CA a hi xa ntiyiso.
 cert-not-verified-unknown = A swi kotekangi ku tiyisisa xitifiketi lexi hikwalaho ka swivangelo swo ka swi nga tiveki.
 
+## Used to show whether an override is temporary or permanent
+
 ## Add Security Exception dialog
 
 

@@ -40,6 +40,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fieldMapImport.title "Buku ya tiadirese leyi amukeriweke">
+
 <!ENTITY fieldMapImport.size "vuanami: 40em; vuleji: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Datha leyi amukeriweke yo rhekhodiwa: ">
 <!ENTITY fieldMapImport.next.accesskey "N">
