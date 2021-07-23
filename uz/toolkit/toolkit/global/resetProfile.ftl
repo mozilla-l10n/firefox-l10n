@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name }ni yangilash
+
 refresh-profile-dialog-button =
     .label = { -brand-short-name }ni yangilash
 refresh-profile-description = Muammolarni hal qilish va samaradorlikni tiklash uchun yangidan boshlang.

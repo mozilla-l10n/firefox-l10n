@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ichki xususiyatlari
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = saqlash haqida:webrtc kabi
@@ -47,13 +48,7 @@ about-webrtc-ice-state = ICE statistikasi
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE statistikasi
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -65,13 +60,16 @@ about-webrtc-type-remote = Masofadagi
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Belgilangan
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Tanlangan
+
 about-webrtc-save-page-label = Sahifani saqlash
 about-webrtc-debug-mode-msg-label = Tuzatish rejimi
 about-webrtc-debug-mode-off-state-label = Tuzatish rejimini ishga tushirish
@@ -95,6 +93,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (yopildi
 
 ##
 
+
 about-webrtc-local-candidate = Mahalliy nomzod
 about-webrtc-remote-candidate = Masofadagi nomzod
 about-webrtc-priority = Muhimlik darajasi
@@ -110,7 +109,6 @@ about-webrtc-encoder-label = Enkoder
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -120,6 +118,8 @@ about-webrtc-save-page-msg = sahifa saqlandi: { $path }
 about-webrtc-debug-mode-off-state-msg = kuzatish jurnalini bu yerdan topish mumkin: { $path }
 about-webrtc-debug-mode-on-state-msg = tuzatish rejimi faol, kuzatish jurnali: { $path }
 about-webrtc-aec-logging-off-state-msg = yozib olingan jurnal fayllarini bu yerda topish mumkin: { $path }
+
+##
 
 ##
 
@@ -134,4 +134,7 @@ about-webrtc-jitter-label = Asabiy { $jitter }
 
 
 ##
+
+##
+
 

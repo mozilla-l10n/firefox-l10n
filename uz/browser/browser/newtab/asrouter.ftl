@@ -218,6 +218,7 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } <b>{ $blockedCount }</b>dan ortiq kuzatuvchilarni { $date } sanasidan beri blokladi!
     }
+
 cfr-doorhanger-milestone-ok-button = Barchasini koʻrish
     .accesskey = k
 
@@ -247,4 +248,8 @@ cfr-whatsnew-pip-fullscreen-header = Rasm ichida rasm funksiyasini butun ekranga
 ## DOH Message
 
 ## What's new: Cookies message
+
+## Fission Experiment Message
+
+## Full Video Support CFR message
 

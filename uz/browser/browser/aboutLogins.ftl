@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Google Play orqali yuklab olish mumkin
 login-app-promo-apple =
     .alt = App Store orqali yuklab olish mumkin
+
 login-filter =
     .placeholder = Loginlarni qidirish
+
 create-login-button = Yangi login yaratish
+
 fxaccounts-sign-in-text = Boshqa qurilmalardagi parollaringizdan foydalaning
 fxaccounts-sign-in-button = { -sync-brand-short-name } hisobiga kiring
 fxaccounts-avatar-button =
@@ -66,6 +69,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Saqlangan parollaringizni qidiryapsizmi? { -sync-brand-short-name }ni sozlang.
+
 about-logins-login-intro-heading-logged-in = Sinxronlangan loginlar topilmadi
 login-intro-description = Loginlaringizni boshqa qurilmadagi { -brand-product-name } brauzeriga saqlagan boʻlsangiz, ularni olish haqida bu yerdan maʼlumot olish mumkin:
 login-intro-instruction-fxa = Yangi hisob yarating yoki loginlaringiz saqlangan qurilmadagi { -fxaccount-brand-name } hisobiga kiring
@@ -109,9 +113,11 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = saqlangan loginni tahrirlash
+
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = saqlangan parolni koʻrsatish
+
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = saqlangan paroldan nusxa olish
@@ -149,9 +155,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Bekor qilish
 confirmation-dialog-dismiss-button =
     .title = Bekor qilish
+
 about-logins-confirm-remove-dialog-title = Bu login olib tashlansinmi?
 confirm-delete-dialog-message = Bu amalni orqaga qaytarib boʻlmaydi.
 about-logins-confirm-remove-dialog-confirm-button = Olib tashlash
+
 confirm-discard-changes-dialog-title = Saqlanmagan oʻzgarishlar bekor qilinsinmi?
 confirm-discard-changes-dialog-message = Barcha saqlanmagan oʻzgarishlar yoʻqoladi.
 confirm-discard-changes-dialog-confirm-button = Rad etish
@@ -182,8 +190,10 @@ about-logins-vulnerable-alert-learn-more-link = Batafsil
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle } uchun kiritilgan foydalanuvchi nomi allaqachon mavjud. <a data-l10n-name="duplicate-link">Mavjud yozuv ochilsinmi?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Bu parolni saqlashda xatolik yuz berdi.
+
 
 ## Login Export Dialog
 
@@ -192,4 +202,18 @@ about-logins-error-message-default = Bu parolni saqlashda xatolik yuz berdi.
 about-logins-export-file-picker-default-filename = logins.csv
 
 ## Login Import Dialog
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+## Logins import report page
 

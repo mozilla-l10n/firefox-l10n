@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Xavfsiz usulda ishga tushirish
+
 refresh-profile =
     .label = { -brand-short-name }ni yangilash
 safe-mode-description = Xavfsiz usul - nosozliklarni to‘g‘rilash uchun ishlatiladigan { -brand-short-name } maxsus usuli.

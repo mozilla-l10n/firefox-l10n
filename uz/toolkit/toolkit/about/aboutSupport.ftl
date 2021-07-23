@@ -219,3 +219,7 @@ touch-warning = async teginib kiritish mos kelmadyigan qo‘shimcha tufayli o‘
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

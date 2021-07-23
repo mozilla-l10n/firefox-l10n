@@ -71,6 +71,8 @@ permissions-invalid-uri-label = Iltimos, toʻgʻri host nomini kiriting
 ## Exceptions - Cookies
 
 
+## Exceptions - HTTPS-Only Mode
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = Siz xohlagan vebsaytlaringizga paydo boʻluvchi oynalarni ochishiga ruxsat berishingiz mumkin. Ruxsat bermoqchi boʻlgan saytingiz manzilini yozing va "Ruxsat berish" tugmasini bosing.

@@ -54,8 +54,6 @@ move-to-new-window =
     .label = Yangi oynaga ko‘chirish
     .accesskey = y
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Varaqni yopish
     .accesskey = y
@@ -68,3 +66,7 @@ move-tabs =
 move-tab =
     .label = Varaqni koʻchirish
     .accesskey = o
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

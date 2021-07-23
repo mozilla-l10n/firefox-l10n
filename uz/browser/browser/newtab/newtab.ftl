@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Qidiruv
 
 newtab-search-box-search-the-web-text = Internetdan izlash
+
 newtab-search-box-search-the-web-input =
     .placeholder = Internetdan izlash
     .title = Internetdan izlash
@@ -53,6 +54,8 @@ newtab-topsites-add-button = Qoʻshish
 newtab-confirm-delete-history-p1 = Ushbu sahifaning har bir nusxasini tarixingizdan oʻchirmoqchimisiz?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Bu amalni ortga qaytarib boʻlmaydi.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -200,3 +203,6 @@ newtab-pocket-cta-text = Sizga yoqqan maqolalarni { -pocket-brand-name } xizmati
 
 newtab-error-fallback-info = Kontent yuklanayotganda qandaydir xatolik yuz berdi.
 newtab-error-fallback-refresh-link = Yana urinib ko‘rish uchun sahifani yangilang.
+
+## Customization Menu
+

@@ -27,3 +27,4 @@ policy-SearchEngines = Qidiruv tizimi sozlamalarini sozlaydi. Bu siyosat faqat "
 
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Kiriladigan saytlarni bloklaydi. Format haqida batafsil ma’lumot olish uchun qo‘llanmani o‘qib chiqing.
+

@@ -4,5 +4,6 @@
 
 fxa-menu-connect-another-device =
     .label = Boshqa qurilmani ulash
+
 fxa-menu-sign-out =
     .label = Chiqish…

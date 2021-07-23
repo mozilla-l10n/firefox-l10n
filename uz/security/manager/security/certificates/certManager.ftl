@@ -208,6 +208,7 @@ delete-ssl-cert-title =
 delete-ssl-cert-confirm = Ushbu server istisnolarini oʻchirmoqchi ekanligingizga ishonchingiz komilmi?
 delete-ssl-cert-impact = Agar server istisnosini oʻchirsangiz, ushbu server uchun odatdagi xavfsizlik tekshiruvlarini ham tiklaysiz va undan foydalanish yaroqli sertifikatni talab qiladi.
 
+
 delete-ca-cert-title =
     .title = CA sertifikatlarni o‘chirish yoki ishonishni to‘xtatish
 delete-ca-cert-confirm = Sizdan ushbu CA sertifikatlarni o‘chirish so‘raldi. Ichki sertifikatlar uchun xuddi shunday effekt bor barcha ishonchlar o‘chiriladi. O‘chirmoqchi ekanligingizga yoki ishonchni olib tashlashni xohlashingizga ishonchingiz komilmi?
@@ -252,6 +253,8 @@ cert-not-verified-issuer-unknown = Ushbu sertifikat tekshirilmadi, chunki sertif
 cert-not-verified-ca-invalid = Ushbu sertifikat tekshirilmadi, chunki CA sertifikati - xato.
 cert-not-verified_algorithm-disabled = Ushbu sertifikat tekshirilmadi, chunki  xavfsiz boʻlmagan algoritmdan foydalanib yozilgan imzo boʻlganligi uchun oʻchirib qoʻyilgan.
 cert-not-verified-unknown = Noma`lum sabablarga koʻra ushbu sertifikat tekshirilmadi.
+
+## Used to show whether an override is temporary or permanent
 
 ## Add Security Exception dialog
 

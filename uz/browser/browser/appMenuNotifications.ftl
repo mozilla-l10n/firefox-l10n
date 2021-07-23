@@ -36,6 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Tushundim
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Qoʻshimcha dasturlarni <image data-l10n-name='addon-menu-icon'></image> menyusidagi <image data-l10n-name='addon-install-icon'></image> ustiga bosib, boshqarish mumkin.
+
 appmenu-addon-post-install-incognito-checkbox =
     .label = Bu kengaytmani Maxfiy oynalarda ishga tushishiga ruxsat berish
     .accesskey = r
@@ -52,6 +53,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Kengaytmani o‘chirish
     .secondarybuttonaccesskey = D
+
 appmenu-tab-hide-controlled =
     .label = Yashirin varaqlarga kirish
     .buttonlabel = Varaqlarni yashirish

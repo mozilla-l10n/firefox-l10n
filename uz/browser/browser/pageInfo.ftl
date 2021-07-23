@@ -129,6 +129,8 @@ security-site-data-only = Ha, { $value } { $unit } sayti maʼlumotlari
 security-site-data-cookies-only = Ha, cookie fayllar
 security-site-data-no = Yoʻq
 
+##
+
 image-size-unknown = Noma’lum
 page-info-not-specified =
     .value = Ko‘rsatilmagan

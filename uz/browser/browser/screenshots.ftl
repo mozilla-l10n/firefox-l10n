@@ -5,6 +5,7 @@
 screenshots-context-menu = Skrinshot olish
 
 screenshots-my-shots-button = Men olgan skrinshotlar
+
 screenshots-instructions = Hududni belgilash uchun kerakli hududni tanlang va bosing. Chiqish uchun “ESC” tugmasidan foydalaning.
 screenshots-cancel-button = Bekor qilish
 screenshots-save-visible-button = Ko‘rinadiganini saqlash

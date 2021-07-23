@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Menyuni ochish">
+
 <!ENTITY navbarOverflow.label                "Ko‘proq asboblar…">
 
 <!-- Tab context menu -->
@@ -141,19 +142,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Tarix">
+
 <!ENTITY historyUndoMenu.label "Yaqinda yopilgan varaqlar">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Yaqinda yopilgan oynalar">
 
 <!ENTITY appMenuHistory.showAll.label "Barcha tarixni ko‘rsatish">
+
 <!ENTITY appMenuHistory.clearRecent.label "So‘nggi tarixni tozalash">
 <!ENTITY appMenuHistory.restoreSession.label "Oldingi seansni tiklash">
 <!ENTITY appMenuHistory.viewSidebar.label "Tarixni yon panelda ko‘rsatish">
 <!ENTITY appMenuHistory.hideSidebar.label "Tarix yon panelini yashirish">
 <!ENTITY appMenuHistory.recentHistory.label "Oxirgi tarix">
+
 <!ENTITY appMenuHelp.label "Yordam">
 
 <!ENTITY appMenuRemoteTabs.label "Sinxronlangan varaqlar">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ochiq varaqlar yoʻq">
