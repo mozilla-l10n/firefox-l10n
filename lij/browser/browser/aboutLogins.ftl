@@ -13,9 +13,12 @@ login-app-promo-android =
     .alt = Piggitelo in sce Google Play
 login-app-promo-apple =
     .alt = Descarega da l'App Store
+
 login-filter =
     .placeholder = Çerca inti login
+
 create-login-button = Crea neuvo login
+
 fxaccounts-sign-in-button = Intra in { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Acedi a sync
 fxaccounts-avatar-button =
@@ -104,6 +107,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = cangia l'acesso sarvou
+
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mostra e poule segrete
@@ -136,11 +140,14 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Anulla
 confirmation-dialog-dismiss-button =
     .title = Anulla
+
 about-logins-confirm-remove-dialog-title = Scancelâ st'acesso?
 confirm-delete-dialog-message = St'açion a no peu ese anula.
 about-logins-confirm-remove-dialog-confirm-button = Scancella
+
 about-logins-confirm-export-dialog-title = Espòrta acessi e poule segrete
 about-logins-confirm-export-dialog-confirm-button = Espòrta…
+
 confirm-discard-changes-dialog-confirm-button = Ignòra
 
 ## Breach Alert notification

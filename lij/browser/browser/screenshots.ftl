@@ -5,6 +5,7 @@
 screenshots-context-menu = Fanni 'na föto do schermo
 
 screenshots-my-shots-button = E mæ föto do schermo
+
 screenshots-instructions = Rebela ò sciacca in sciâ pagina pe seleçionâ 'na region. Sciacca ESC pe anulâ.
 screenshots-cancel-button = Anulla
 screenshots-save-visible-button = Sarva o vixibile

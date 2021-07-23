@@ -54,8 +54,6 @@ move-to-new-window =
     .label = Mescia inte 'n neuvo barcon
     .accesskey = M
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = Særa feuggio
     .accesskey = S
@@ -68,3 +66,7 @@ move-tabs =
 move-tab =
     .label = Mescia feuggio
     .accesskey = c
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+

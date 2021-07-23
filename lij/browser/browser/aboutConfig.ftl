@@ -12,9 +12,11 @@ about-config-intro-warning-button = Acetta o reizego e vanni avanti
 ##
 
 about-config-page-title = Preferense avansæ
+
 about-config-search-input1 =
     .placeholder = Çerca nomme preferensa
 about-config-show-all = Fanni vedde tutto
+
 about-config-pref-add-button =
     .title = Azonzi
 about-config-pref-toggle-button =

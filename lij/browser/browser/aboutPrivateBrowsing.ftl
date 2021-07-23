@@ -21,8 +21,10 @@ about-private-browsing-handoff-text = Çerca con { $engine } ò scrivi indirisso
 about-private-browsing-handoff-text-no-engine = Çerca ò scrivi indirisso
 about-private-browsing-not-private = Sto chi o no l'é 'n barcon privòu.
 about-private-browsing-info-description = { -brand-short-name } scancella a teu cronologia de navegaçion e de riçerche quande seri i feuggi e i barcoin de navegaçion privâ. Sciben che questo o no ti fa deventâ anònimo co-i sciti o co-o fornitô de Internet, o l'agiutta in ògni mòddo a mantegnî privòu da-i atri utenti de sto computer cöse ti fæ in linea.
+
 about-private-browsing-need-more-privacy = Te serve ciù privacy?
 about-private-browsing-turn-on-vpn = Preuva { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

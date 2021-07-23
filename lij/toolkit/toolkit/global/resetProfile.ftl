@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Repiggio de { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Repiggia { -brand-short-name }
 refresh-profile-description = Parti torna da zero pe risolve i problemi e avei torna e prestaçioin originali.

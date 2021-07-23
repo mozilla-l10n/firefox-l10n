@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Arvi menû">
+
 <!ENTITY navbarOverflow.label                "Atri atressi…">
 
 <!-- Tab context menu -->
@@ -129,18 +130,22 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Stöia">
+
 <!ENTITY historyUndoMenu.label "Feuggi seræ urtimamente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Barcoin seræ urtimamente">
 
 <!ENTITY appMenuHistory.showAll.label "Veddi a stöia">
+
 <!ENTITY appMenuHistory.clearRecent.label "Scancella a stöia ciù neuva…">
 <!ENTITY appMenuHistory.restoreSession.label "Repiggia a sescion primma">
 <!ENTITY appMenuHistory.viewSidebar.label "Veddi a bara de scianco da stöia">
 <!ENTITY appMenuHistory.recentHistory.label "Stöia recente">
+
 <!ENTITY appMenuHelp.label "Agiutto">
 
 <!ENTITY appMenuRemoteTabs.label "Feuggi scincronizæ">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nisciun feuggio averto">

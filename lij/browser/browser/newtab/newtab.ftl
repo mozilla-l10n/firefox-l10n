@@ -17,6 +17,7 @@ newtab-search-box-search-button =
     .aria-label = Çerca
 
 newtab-search-box-search-the-web-text = Çerca inta Ræ
+
 newtab-search-box-search-the-web-input =
     .placeholder = Çerca inta Ræ
     .title = Çerca inta Ræ
@@ -56,6 +57,8 @@ newtab-topsites-add-button = Azonzi
 newtab-confirm-delete-history-p1 = Te seguo de scancelâ tutte e ripetiçioin de sta pagina da stöia?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Sta açion a no se peu anulâ.
+
+## Top Sites - Sponsored label
 
 ## Context Menu - Action Tooltips.
 
@@ -188,3 +191,6 @@ newtab-pocket-cta-text = Sarva e stöie che te piaxan into { -pocket-brand-name 
 
 newtab-error-fallback-info = Ahime mi, gh'é quarche problema into caregamento de sto contegnuo.
 newtab-error-fallback-refresh-link = Agiorna pagina pe provâ torna.
+
+## Customization Menu
+

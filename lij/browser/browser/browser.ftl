@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navegaçion priva)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navegaçion priva)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navegaçion priva)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navegaçion priva)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -131,10 +133,12 @@ urlbar-canvas-blocked =
     .tooltiptext = Ti æ blocòu l'estaçion dæti canvas pe sto scito.
 urlbar-midi-blocked =
     .tooltiptext = Ti æ blocòu l'acesso MIDI pe sto scito.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Cangia sto segnalibbro ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -144,6 +148,7 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Azonzi a-a bara di indirissi
+
 page-action-manage-extension =
     .label = Gestisci estenscioin…
 page-action-remove-from-urlbar =
@@ -152,51 +157,6 @@ page-action-remove-extension =
     .label = Scancella estenscion
 
 ## Page Action menu
-
-# Variables
-# $tabCount (integer) - Number of tabs selected
-page-action-send-tabs-panel =
-    .label =
-        { $tabCount ->
-            [one] Manda feuggio a-o dispoxitivo
-           *[other] Mando { $tabCount } feuggi a-o dispoxitivo
-        }
-page-action-send-tabs-urlbar =
-    .tooltiptext =
-        { $tabCount ->
-            [one] Manda feuggio a-o dispoxitivo
-           *[other] Mando { $tabCount } feuggi a-o dispoxitivo
-        }
-page-action-pocket-panel =
-    .label = Sarva pagina in { -pocket-brand-name }
-page-action-copy-url-panel =
-    .label = Còpia colegamento
-page-action-copy-url-urlbar =
-    .tooltiptext = Còpia colegamento
-page-action-email-link-panel =
-    .label = Manda colegamento pe pòsta…
-page-action-email-link-urlbar =
-    .tooltiptext = Manda colegamento pe pòsta…
-page-action-share-url-panel =
-    .label = Condividdi
-page-action-share-url-urlbar =
-    .tooltiptext = Condividdi
-page-action-share-more-panel =
-    .label = Ciù…
-page-action-send-tab-not-ready =
-    .label = Scincronizzo dispoxitivi…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Apendi feuggio
-page-action-pin-tab-urlbar =
-    .tooltiptext = Apendi feuggio
-page-action-unpin-tab-panel =
-    .label = Tia zu feuggio
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Tia zu feuggio
 
 ## Auto-hide Context Menu
 
@@ -212,18 +172,22 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Sta vòtta çerca con:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Inpostaçioin da riçerca
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cangia inpostaçioin de riçerca
+
 search-one-offs-context-open-new-tab =
     .label = Çerca inte neuvo feuggio
     .accesskey = n
 search-one-offs-context-set-as-default =
     .label = Inpòsta comme motô de riçerca predefinio
     .accesskey = m
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -254,8 +218,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Fanni vedde l'editô quande sarvo
     .accesskey = F
+
 bookmark-panel-done-button =
     .label = Fæto
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -279,6 +245,7 @@ identity-weak-encryption = Sta pagina a deuvia na cifratua debole.
 identity-insecure-login-forms = I acessi a sta pagina porieivan ese vulnerabili.
 identity-permissions =
     .value = Permissi
+
 identity-permissions-reload-hint = Peu dase che ti devi arvî torna a pagina pe vedde i cangiamenti.
 identity-permissions-empty = Nisciun permisso speciale asociou a sto scito.
 identity-clear-site-data =
@@ -337,10 +304,13 @@ popup-select-camera =
 popup-select-microphone =
     .value = Micròfono da condividde:
     .accesskey = M
+
 popup-all-windows-shared = Tutti i barcoin vixibili into schermo saian condivizi.
+
 popup-screen-sharing-not-now =
     .label = Oua No
     .accesskey = O
+
 popup-screen-sharing-never =
     .label = No permette mai
     .accesskey = N
@@ -357,19 +327,24 @@ sharing-warning-proceed-to-tab =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Scrivi indirisso ò iniçia riçerca
+
 urlbar-placeholder =
     .placeholder = Scrivi indirisso ò iniçia riçerca
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Navegatô in contròllo remòtto
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Çerca con { $name } ò scrivi indirisso
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Navegatô in contròllo remòtto
+
 urlbar-switch-to-tab =
     .value = Vanni a-o feuggio:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estenscioin:
+
 urlbar-go-button =
     .tooltiptext = Vanni a l'indirisso in sciâ bara di indirissi
 urlbar-page-action-button =
@@ -400,9 +375,12 @@ urlbar-result-action-visit = Vixita
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> o l'é mostrou a tutto schermo
 fullscreen-warning-no-domain = Sto documento o l'é mostrou a tutto schermo
+
+
 fullscreen-exit-button = Sciòrti da a tutto schermo (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Sciòrti da sa tutto schermo (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -414,8 +392,6 @@ pointerlock-warning-no-domain = Sto documento o l'à o contròllo do teu pontat�
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Fanni vedde tutti i segnalibbri
 bookmarks-toolbar-chevron =
     .tooltiptext = Fanni vedde ciù segnalibbri
 bookmarks-sidebar-content =
@@ -450,6 +426,7 @@ bookmarks-tools =
     .label = Atressi di segnalibbri
 bookmarks-bookmark-edit-panel =
     .label = Cangia segnalibbro
+
 bookmarks-toolbar-menu =
     .label = Bara di segnalibbri
 bookmarks-toolbar-placeholder =
@@ -467,6 +444,8 @@ library-bookmarks-menu =
 save-to-pocket-button =
     .label = Sarva in { -pocket-brand-name }
     .tooltiptext = Sarva in { -pocket-brand-name }
+
+## Repair text encoding toolbar button
 
 ## Customize Toolbar Buttons
 

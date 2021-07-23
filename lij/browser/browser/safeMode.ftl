@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Vanni co-o Mòddo Seguo
+
 refresh-profile =
     .label = Repiggia { -brand-short-name }
 safe-mode-description = O Mòddo Seguo o l'é 'na speciale modalitæ de { -brand-short-name } ch'a peu ese utile pe risòlve di problemi.
