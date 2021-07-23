@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Begin in veilige modus
+
 refresh-profile =
     .label = Verfris { -brand-short-name }
 safe-mode-description = Veilige modus is 'n spesiale modus vir { -brand-short-name } wat gebruik kan word om foute op te spoor.

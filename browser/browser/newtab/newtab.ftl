@@ -19,6 +19,8 @@ newtab-page-title = Nuwe Oortjie
 ## Top Sites - Delete history confirmation dialog.
 
 
+## Top Sites - Sponsored label
+
 ## Context Menu - Action Tooltips.
 
 
@@ -79,3 +81,6 @@ newtab-pocket-cta-button = Kry { -pocket-brand-name }
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-refresh-link = Verfris bladsy om weer te probeer.
+
+## Customization Menu
+

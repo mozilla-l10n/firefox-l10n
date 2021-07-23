@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Verfris { -brand-short-name }
+
 refresh-profile-dialog-button =
     .label = Verfris { -brand-short-name }
 refresh-profile-description = Begin skoon vir minder foute en beter werkverrigting.
