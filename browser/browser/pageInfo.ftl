@@ -129,6 +129,8 @@ security-site-data-only = Po, { $value } { $unit } të dhëna sajti
 security-site-data-cookies-only = Po, cookies
 security-site-data-no = Jo
 
+##
+
 image-size-unknown = E panjohur
 page-info-not-specified =
     .value = E pacaktuar

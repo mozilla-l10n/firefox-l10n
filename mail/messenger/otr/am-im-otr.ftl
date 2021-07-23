@@ -17,6 +17,11 @@ otr-log =
     .label = Përfshi në regjistra bisedash mesazhe OTR të fshehtëzuar
 otr-requireEncryption =
     .label = Kërko doemos fshehtëzim skaj-më-skaj për biseda tek-për-tek
+otr-verifyNudge =
+    .label = Kujtomë përherë të verifikoj një kontakt të paverifikuar
+
+otr-notYetAvailable = ende jo gati
+
 otr-require-encryption =
     .label = Kërko doemos fshehtëzim skaj-më-skaj për biseda tek-për-tek
 otr-require-encryption-info =
@@ -24,9 +29,8 @@ otr-require-encryption-info =
     të dërgohen, veç nëse mund të fshehtëzohen. Mesazhet e pafshehtëzuar të marrë
     s’do të shfaqen si pjesë e bisedës së rregullt, dhe as do të bëhet regjistrim
     i tyre.
-otr-verifyNudge =
-    .label = Kujtomë përherë të verifikoj një kontakt të paverifikuar
-otr-notYetAvailable = ende jo gati
 otr-verify-nudge =
     .label = Kujtomë përherë të verifikoj një kontakt të paverifikuar
+
 otr-not-yet-available = ende jo gati
+

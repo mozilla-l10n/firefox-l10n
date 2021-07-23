@@ -11,6 +11,7 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Importoni kredencialet tuaja hyrjeje nga { $browser }</div>
     <div data-l10n-name="line2">për { $host } dhe sajte të tjerë</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Mësoni më tepër
 

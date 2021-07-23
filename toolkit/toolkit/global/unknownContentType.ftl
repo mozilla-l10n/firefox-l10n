@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Hape me { -brand-short-name }
     .accesskey = H
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

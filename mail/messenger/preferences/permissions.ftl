@@ -5,41 +5,55 @@
 permissions-reminder-window =
     .title = Përjashtime
     .style = width: 36em;
+
 window-close-key =
     .key = w
+
 permission-preferences-close-window =
     .key = w
+
 website-address-label =
     .value = Adresë sajti:
     .accesskey = A
+
 block-button =
     .label = Bllokoje
     .accesskey = B
+
 allow-session-button =
     .label = Lejoje për Sesionin
     .accesskey = S
+
 allow-button =
     .label = Lejoje
     .accesskey = L
+
 treehead-sitename-label =
     .label = Sajt
+
 treehead-status-label =
     .label = Gjendje
+
 remove-site-button =
     .label = Hiqe Sajtin
     .accesskey = H
+
 remove-all-site-button =
     .label = Hiqi Tërë Sajtet
     .accesskey = T
+
 cancel-button =
     .label = Anuloje
     .accesskey = A
+
 save-button =
     .label = Ruaji Ndryshimet
     .accesskey = R
+
 permission-can-label = Lejoje
 permission-can-access-first-party-label = Lejoje vetëm për palën e parë
 permission-can-session-label = Lejoje për Sesionin
 permission-cannot-label = Bllokoje
+
 invalid-uri-message = Ju lutemi, jepni një strehëemër të vlefshëm
 invalid-uri-title = U dha Strehëemër i Pavlefshëm

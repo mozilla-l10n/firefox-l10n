@@ -32,6 +32,11 @@ appmenu-update-restart =
     .secondarybuttonlabel = Jo Tani
     .secondarybuttonaccesskey = J
 appmenu-update-restart-message = Pas një rinisjeje të shpejtë, { -brand-shorter-name }-i do të rikthejë krejt skedat dhe dritaret tuaja të hapura që nuk gjenden nën mënyrën Shfletim Privat.
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = OK, e mora vesh
+    .buttonaccesskey = O
+appmenu-addon-post-install-message = Administroni shtesat tuaj duke klikuar <image data-l10n-name='addon-install-icon'></image> te menuja <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-update-available2 =
     .label = Ka përditësim gati
     .buttonlabel = Shkarkoje
@@ -67,18 +72,15 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Jo Tani
     .secondarybuttonaccesskey = J
 appmenu-update-other-instance-message = Ka gati një përditësim të ri të { -brand-shorter-name }-it, por s’mund të instalohet, ngaqë është në punë një kopje tjetër e { -brand-shorter-name }-it. Mbylleni, që të vazhdohet përditësimi, ose zgiidhni të përditësohet sido qoftë (kopja tjetër mund të mos punojë saktë, deri sa pa e rinisur).
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = OK, e mora vesh
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = Administroni shtesat tuaj duke klikuar <image data-l10n-name='addon-install-icon'></image> te menuja <image data-l10n-name='addon-menu-icon'></image>.
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
-appmenu-addon-post-install-message2 = Administroni zgjerimet dhe temat tuaja përmes menusë së aplikacionit
 appmenu-addon-post-install-message3 = Administroni shtesa dhe temat tuaja përmes menusë së aplikacionit
 appmenu-addon-post-install-incognito-checkbox =
     .label = Lejoje këtë zgjerim të xhirojë në Dritare Private
     .accesskey = L
+    
 appmenu-new-tab-controlled =
     .label = Rregullimet tuaja për Skedë të Re kanë ndryshuar.
     .buttonlabel = Mbaji Ndryshimet
@@ -91,6 +93,7 @@ appmenu-homepage-controlled =
     .buttonaccesskey = M
     .secondarybuttonlabel = Çaktivizoje Zgjerimin
     .secondarybuttonaccesskey = Ç
+
 appmenu-new-tab-controlled-changes =
     .label = Skeda juaj e re ka ndryshuar.
     .buttonlabel = Mbaji Ndryshimet

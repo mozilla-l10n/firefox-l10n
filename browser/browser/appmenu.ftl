@@ -11,6 +11,7 @@ appmenuitem-update-banner3 =
     .label-update-manual = Përditësim gati — shkarkojeni që tani
     .label-update-unsupported = S’arrihet të përditësohet — mospërputhje sistemi
     .label-update-restart = Përditësim gati — riniseni tani
+
 appmenuitem-protection-dashboard-title = Pult Mbrojtjesh
 appmenuitem-customize-mode =
     .label = Përshtateni…
@@ -43,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Mbyll Menu Aplikacioni
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -54,6 +56,7 @@ appmenuitem-zoom-enlarge =
     .label = Zmadhojeni
 appmenuitem-zoom-reduce =
     .label = Zvogëlojeni
+
 appmenuitem-fullscreen =
     .label = Sa Krejt Ekrani
 
@@ -61,10 +64,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Njëkohësohu Tani
+
 appmenu-remote-tabs-sign-into-sync =
     .label = Hyni në Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Aktivizoni Sync-un…
+
 appmenuitem-fxa-toolbar-sync-now2 = Njëkohësoji Tani
 appmenuitem-fxa-manage-account = Administroni Llogari
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -78,12 +83,14 @@ appmenu-fxa-signed-in-label = Hyni
 appmenu-fxa-setup-sync =
     .label = Aktivizoni Sync-un…
 appmenu-fxa-show-more-tabs = Shfaq Më Tepër Skeda
+
 appmenuitem-save-page =
     .label = Ruajeni Faqen Si…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ç’ka të Re
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -96,33 +103,47 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Shfaq më tepër informacion
+
 profiler-popup-description-title =
     .value = Regjistro, analizo, jep
+
 profiler-popup-description = Bashkëpunoni në probleme funksionimi, duke publikuar profile për t’i ndarë me ekipin tuaj.
+
 profiler-popup-learn-more = Mësoni më tepër
+
 profiler-popup-settings =
     .value = Rregullime
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Përpunoni Rregullime…
+
 profiler-popup-disabled = Profilizuesi aktualisht është i çaktivizuar, sipas gjasave për shkak të një dritareje Shfletimi Privat të hapur.
+
 profiler-popup-recording-screen = Po regjistron…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Vetjake
+
 profiler-popup-start-recording-button =
     .label = Fillo Regjistrimin
+
 profiler-popup-discard-button =
     .label = Hidhe tej
+
 profiler-popup-capture-button =
     .label = Regjistroje
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -135,6 +156,7 @@ appmenu-manage-history =
     .label = Administroni Historik
 appmenu-reopen-all-tabs = Rihapi Krejt Skedat
 appmenu-reopen-all-windows = Rihapi Krejt Dritaret
+
 appmenu-restore-session =
     .label = Riktheni Sesionin e Mëparshëm
 appmenu-clear-history =
@@ -190,6 +212,7 @@ appmenu-customizetoolbar =
     .label = Përshtateni Panelin…
 appmenu-taskmanager =
     .label = Përgjegjës Punësh
+
 appmenu-developer-tools-subheader = Mjete Shfletuesi
 appmenu-developer-tools-extensions =
     .label = Zgjerime për Zhvillues

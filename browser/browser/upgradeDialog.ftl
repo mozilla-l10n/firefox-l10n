@@ -11,21 +11,13 @@
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-new-title = I thoni njatjeta një { -brand-short-name }-i të ri
 upgrade-dialog-new-subtitle = I konceptuar për t’ju shpënë ku doni të shkoni, më shpejt
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline
-# style to be automatically added to the text inside it. { -brand-short-name }
-# should stay inside the span.
-upgrade-dialog-new-alt-subtitle = Nisjani duke e kaluar <span data-l10n-name="zap">{ -brand-short-name }</span> një klikim larg
 upgrade-dialog-new-item-menu-title = Panel dhe menu më të hajthme
 upgrade-dialog-new-item-menu-description = Jepuni përparësi gjërave të rëndësishme, që të gjeni ç’ju duhet.
 upgrade-dialog-new-item-tabs-title = Skeda moderne
 upgrade-dialog-new-item-tabs-description = Mbajtje të sistemuar të informacionit, duke përkrahur fokusin dhe lëvizje të zhdërvjellëta.
 upgrade-dialog-new-item-icons-title = Ikona të freskëta dhe mesazhe më të qartë
 upgrade-dialog-new-item-icons-description = Ju ndihmon të gjeni udhën më lehtë.
-upgrade-dialog-new-primary-primary-button = Bëje { -brand-short-name }-in shfletuesin tim parësor
-    .title = E vë { -brand-short-name }-in si shfletuesin parazgjedhje dhe e fikson te paneli
 upgrade-dialog-new-primary-default-button = Bëje { -brand-short-name }-in shfletuesin tim parazgjedhje
-upgrade-dialog-new-primary-pin-button = Fiksoje { -brand-short-name }-in te paneli im
-upgrade-dialog-new-primary-pin-alt-button = Fiksoje te paneli
 upgrade-dialog-new-primary-theme-button = Zgjidhni një temë
 upgrade-dialog-new-secondary-button = Jo tani
 # This string is only shown on Windows 7, where we intentionally suppress the
@@ -61,10 +53,6 @@ upgrade-dialog-pin-secondary-button = Jo tani
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title = Të bëhet { -brand-short-name }-i shfletuesi juaj parazgjedhje?
-upgrade-dialog-default-subtitle = Përfitoni shpejtësi, siguri dhe privatësi, sa herë që shfletoni.
-upgrade-dialog-default-primary-button = Vëre si shfletuesin parazgjedhje
-# This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Bëjeni { -brand-short-name }-in parazgjedhjen tuaj
 upgrade-dialog-default-subtitle-2 = Kalojeni shpejtësinë, sigurinë dhe privatësinë në autopilot.
 upgrade-dialog-default-primary-button-2 = Bëjeni shfletuesin parazgjedhje
@@ -72,10 +60,6 @@ upgrade-dialog-default-secondary-button = Jo tani
 
 ## Theme selection screen
 
-# This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-theme-title =
-    Fillojani kthjellët
-    me një temë të përditësuar
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-theme-title-2 = Kini një fillim të pastër, me një temë të kthjellët
 upgrade-dialog-theme-system = Temë sistemi

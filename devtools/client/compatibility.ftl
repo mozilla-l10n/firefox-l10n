@@ -42,6 +42,7 @@ compatibility-issue-occurrences =
         [one] { $number } hasje
        *[other] { $number } hasje
     }
+
 compatibility-no-issues-found = S’u gjetën çështje përputhshmërie.
 compatibility-close-settings-button =
     .title = Mbylli rregullimet

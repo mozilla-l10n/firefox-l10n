@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Rifreskoni { -brand-short-name }-in
+
 refresh-profile-dialog-title = Të kthehet { -brand-short-name } te rregullimet e veta parazgjedhje?
 refresh-profile-dialog-button =
     .label = Rifreskoje { -brand-short-name }-in

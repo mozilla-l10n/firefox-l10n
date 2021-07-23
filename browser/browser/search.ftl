@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Gabim Instalimi
 opensearch-error-duplicate-desc = { -brand-short-name }-i nuk instaloi dot shtojcën për kërkime prej "{ $location-url }", ngaqë ka tashmë një motor me të njëjtin emër.
+
 opensearch-error-format-title = Format i Pavlefshëm
 opensearch-error-format-desc = { -brand-short-name }-i s’instaloi dot motorin e kërkimeve prej: { $location-url }
+
 opensearch-error-download-title = Gabim Shkarkimi
 opensearch-error-download-desc = { -brand-short-name }-i nuk shkarkoi dot shtojcën për kërkime prej: { $location-url }
 

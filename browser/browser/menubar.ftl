@@ -38,16 +38,20 @@ menu-quit =
             [windows] D
            *[other] l
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Dilni prej { -brand-shorter-name }-it
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Dilni nga { -brand-shorter-name }-i
+
 menu-about =
     .label = Mbi { -brand-shorter-name }-in
     .accesskey = R
@@ -215,6 +219,7 @@ menu-history-undo-menu =
     .label = Skeda të Mbyllura Së Fundi
 menu-history-undo-window-menu =
     .label = Dritare të mbyllura Së Fundi
+
 menu-history-reopen-all-tabs = Rihapi Krejt Skedat
 menu-history-reopen-all-windows = Rihapi Krejt Dritaret
 
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Hyni Te Llogari { -brand-product-name }…
     .accesskey = H
+menu-tools-turn-on-sync =
+    .label = Aktivizoni { -sync-brand-short-name }…
+    .accesskey = A
 menu-tools-addons-and-themes =
     .label = Shtesa dhe Tema
     .accesskey = S
 menu-tools-fxa-sign-in2 =
     .label = Hyni
     .accesskey = H
-menu-tools-turn-on-sync =
-    .label = Aktivizoni { -sync-brand-short-name }…
-    .accesskey = A
 menu-tools-turn-on-sync2 =
     .label = Aktivizoni Sync-un…
     .accesskey = A
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Të dhëna Faqeje
     .accesskey = T
-menu-settings =
-    .label = Rregullime
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] R
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] M
            *[other] a
+        }
+menu-settings =
+    .label = Rregullime
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] R
         }
 menu-tools-layout-debugger =
     .label = Diagnostikues Skemash
@@ -342,14 +347,12 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Shkurtore Tastiere
     .accesskey = S
-menu-get-help =
-    .label = Merrni Ndihmë
-    .accesskey = M
 menu-help-troubleshooting-info =
     .label = Të dhëna Diagnostikimi
     .accesskey = D
-menu-help-taskmanager =
-    .label = Përgjegjës Punësh
+menu-get-help =
+    .label = Merrni Ndihmë
+    .accesskey = M
 menu-help-more-troubleshooting-info =
     .label = Më Tepër të Dhëna Diagnostikimi
     .accesskey = M

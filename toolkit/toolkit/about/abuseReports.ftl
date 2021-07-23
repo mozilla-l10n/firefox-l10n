@@ -42,6 +42,11 @@ abuse-report-submit-button = Parashtroje
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = Raportimi për <span data-l10n-name="addon-name">{ $addon-name }</span> u anulua.
 abuse-report-messagebar-submitting = Po dërgohet raportim për <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Faleminderit për parashtrimin e një raportimi. Doni të hiqet <span data-l10n-name="addon-name">{ $addon-name }</span>?

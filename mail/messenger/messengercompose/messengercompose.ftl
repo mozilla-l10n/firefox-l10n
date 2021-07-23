@@ -7,12 +7,11 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Hiqe fushën { $type }
-#   $type (String) - the type of the addressing row
-remove-address-row-type-label =
-    .tooltiptext = Hiqe fushën { $type }
+
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Hiqe fushën { $type }
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -21,6 +20,7 @@ address-input-type-aria-label =
         [one] { $type } me një adresë, përdorni tastin shigjetë. majtas që të fokusi të kalohet në të
        *[other] { $type } me { $count } adresa, përdorni tastin shigjetë majtas që të fokusi të kalohet në to.
     }
+
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -28,22 +28,29 @@ pill-aria-label =
         [one] { $email }: shtypni tastin Enter që ta përpunoni, tastin Delete që të hiqet.
        *[other] { $email }: 1 nga { $count }: shtypni tastin Enter që ta përpunoni, tastin Delete që të hiqet.
     }
+
 #   $email (String) - the email address
 pill-tooltip-invalid-address = { $email } s’është adresë email e vlefshme
+
 #   $email (String) - the email address
 pill-tooltip-not-in-address-book = { $email } s’gjendet në librin tuaj të adresave
+
 pill-action-edit =
     .label = Përpunoni Adresë
     .accesskey = P
+
 pill-action-move-to =
     .label = Shpjere te Për
     .accesskey = ë
+
 pill-action-move-cc =
     .label = Shpjere te Cc
     .accesskey = C
+
 pill-action-move-bcc =
     .label = Shpjere te Bcc
     .accesskey = B
+
 pill-action-expand-list =
     .label = Zgjeroje Listën
     .accesskey = Z
@@ -55,26 +62,33 @@ ctrl-cmd-shift-pretty-prefix =
         [macos] ⇧ ⌘{ " " }
        *[other] Ctrl+Shift+
     }
+
 trigger-attachment-picker-key = A
 toggle-attachment-pane-key = M
+
 menuitem-toggle-attachment-pane =
     .label = Kuadrat Bashkëngjitjesh
     .accesskey = K
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+
 toolbar-button-add-attachment =
     .label = Bashkëngjitni
     .tooltiptext = Shtoni një Bashkëngjitje ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+
 add-attachment-notification-reminder =
     .label = Shtoni Bashkëngjitje…
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+
 menuitem-attach-files =
     .label = Kartelë(a)…
     .accesskey = a
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+
 context-menuitem-attach-files =
     .label = Bashkëngjitni Kartelë(a)…
     .accesskey = B
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -83,6 +97,7 @@ attachment-bucket-count =
            *[other] { $count } Bashkëngjitje
         }
     .accesskey = B
+
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
@@ -91,18 +106,23 @@ attachments-placeholder-tooltip =
             [one] { $count } Bashkëngjitje
            *[other] { $count } Bashkëngjitje
         }
+
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+
 expand-attachment-pane-tooltip =
     .tooltiptext = Shfaqni kuadrat bashkëngjitjesh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+
 collapse-attachment-pane-tooltip =
     .tooltiptext = Fshihe kuadratin e bashkëngjitjeve ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+
 drop-file-label-attachment =
     { $count ->
         [one] Shtoje si Bashkëngjitje
        *[other] Shtojini si Bashkëngjitje
     }
+
 drop-file-label-inline =
     { $count ->
         [one] Shtoje brendazi
@@ -119,49 +139,59 @@ move-attachment-right-panel-button =
     .label = Shpjere Djathtas
 move-attachment-last-panel-button =
     .label = Vëre të Fundit
+
 button-return-receipt =
     .label = Dëftesë
     .tooltiptext = Kërko një dëftesë kthimi për këtë mesazh
-#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-consider-bcc-notification = { $count } marrësit te fushat Për dhe Cc mund të shohin adresën e njëri-tjetrit. Në vend të kësaj, duke përdorur fushën Bcc mund të shmangni nxjerrjen zbuluar të marrësve.
 
 # Addressing Area
 
 to-compose-address-row-label =
     .value = Për
+
 #   $key (String) - the shortcut key for this field
 to-compose-show-address-row-menuitem =
     .label = Fushë { to-compose-address-row-label.value }
     .accesskey = P
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 to-compose-show-address-row-label =
     .value = { to-compose-address-row-label.value }
     .tooltiptext = Shfaq Fushë { to-compose-address-row-label.value } ({ to-compose-show-address-row-menuitem.acceltext })
+
 cc-compose-address-row-label =
     .value = Cc
+
 #   $key (String) - the shortcut key for this field
 cc-compose-show-address-row-menuitem =
     .label = Fushë { cc-compose-address-row-label.value }
     .accesskey = C
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
     .tooltiptext = Shfaq Fushë { cc-compose-address-row-label.value } ({ cc-compose-show-address-row-menuitem.acceltext })
+
 bcc-compose-address-row-label =
     .value = Bcc
+
 #   $key (String) - the shortcut key for this field
 bcc-compose-show-address-row-menuitem =
     .label = Fushë { bcc-compose-address-row-label.value }
     .accesskey = B
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Shfaq Fushë { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
+
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = { $count } marrësit te fushat Për dhe Cc do të shohin adresën e njëri-tjetrit. Nxjerrjen zbuluar të marrësve mund të shmangni duke përdorur fushën Bcc.
+
 many-public-recipients-bcc =
     .label = Më mirë përdor Bcc
     .accesskey = M
+
 many-public-recipients-ignore =
     .label = Mbaji Publikë Marrësit
     .accesskey = b
@@ -171,3 +201,8 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Su gjet ndonjë identitet unik që përputhet me adresën Nga. Mesazhi do të dërgohet duke përdorur fushën e tanishme Nga dhe rregullimet nga identiteti { $identity }.
+
+## Editing
+
+# Tools
+

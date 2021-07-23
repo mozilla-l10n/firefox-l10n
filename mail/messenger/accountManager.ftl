@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 open-preferences-sidebar-button = Parapëlqime { -brand-short-name }-i
+
 open-addons-sidebar-button = Shtesa dhe Tema
