@@ -250,3 +250,7 @@ touch-warning = ಅಸಿಂಕ್ ಸ್ಪರ್ಷ ಊಡಿಕೆಯನ್�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

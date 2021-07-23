@@ -26,6 +26,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ಈಗಲೆ ಸಿಂಕ್ ಮಾಡು
+
 appmenuitem-save-page =
     .label = ಈ ಪುಟವನ್ನು ಹೀಗೆ ಉಳಿಸು...
 

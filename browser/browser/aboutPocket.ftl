@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ಟ್ಯಾಗ್‌ಗಳನ್ನು ಸೇರಿಸು
+
 pocket-panel-saved-error-generic = ಪಾಕೆಟ್‌ನಲ್ಲಿ ಉಳಿಸಲು ಪ್ರಯತ್ನಿಸಿದಾಗ ದೋಷ ಉಂಟಾಗಿದೆ.
 pocket-panel-saved-error-tag-length = ಟ್ಯಾಗ್‌ಗಳು 25 ಅಕ್ಷರಗಳಿಗೆ ಸೀಮಿತವಾಗಿವೆ
 pocket-panel-saved-error-only-links = ಕೇವಲ ಕೊಂಡಿಗಳನ್ನು ಮಾತ್ರ ಉಳಿಸಬಹುದು

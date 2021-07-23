@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ಇಂಟರ್ನಲ್ಸ್
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc ಅನ್ನು ಹೀಗೆ ಉಳಿಸು
@@ -50,13 +51,7 @@ about-webrtc-ice-restart-count-label = ICE ಮರುಪ್ರಾರಂಭವಾ�
 about-webrtc-ice-pair-bytes-sent = ಬೈಟ್ಸ್‌ಗಳನ್ನು ಕಳಿಸಲಾಗಿದೆ:
 about-webrtc-ice-pair-bytes-received = ಬೈಟ್ಸ್‌ಗಳನ್ನು ಪಡೆಯಲಾಗಿದೆ:
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -68,13 +63,16 @@ about-webrtc-type-remote = ದೂರಸ್ಥ
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = ಹೆಸರಿಸಲಾದ
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ಆರಿಸಲಾದ
+
 about-webrtc-save-page-label = ಪುಟ ಉಳಿಸು
 about-webrtc-debug-mode-msg-label = ದೋಷನಿದಾನ ಸ್ಥಿತಿ
 about-webrtc-debug-mode-off-state-label = ದೋಷನಿದಾನ ಸ್ಥಿತಿ ಪ್ರಾರಂಭಿಸು
@@ -100,6 +98,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ಮು�
 
 ##
 
+
 about-webrtc-local-candidate = ಸ್ಥಳೀಯ ಅಭ್ಯರ್ಥಿ
 about-webrtc-remote-candidate = ದೂರಸ್ಥ ಅಬ್ಯರ್ಥಿ
 about-webrtc-priority = ಆದ್ಯತೆ
@@ -115,7 +114,6 @@ about-webrtc-encoder-label = ಎನ್‌ಕೋಡರ್
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -125,6 +123,8 @@ about-webrtc-save-page-msg = ಪುಟವನ್ನು ಇಲ್ಲಿಗೆ ಉ�
 about-webrtc-debug-mode-off-state-msg = ಜಾಡುಹಿಡಿವ ದಿನಚರಿಯನ್ನು ಇಲ್ಲಿ ಕಾಣಬಹುದು: { $path }
 about-webrtc-debug-mode-on-state-msg = ದೋಷನಿದಾನ ಸ್ಥಿತಿ ಸಕ್ರಿಯ, ಜಾಡುಹಿಡಿವ ದಿನಚರಿ ಇಲ್ಲಿದೆ: { $path }
 about-webrtc-aec-logging-off-state-msg = ಸೆರೆಹಿಡಿದಿರುವ ದಿನಚರಿ ಕಡತಗಳನ್ನು ಇಲ್ಲಿ ಕಾಣು: { $path }
+
+##
 
 ##
 
@@ -139,4 +139,7 @@ about-webrtc-jitter-label = ಜಿಟ್ಟರ್ { $jitter }
 
 
 ##
+
+##
+
 

@@ -29,3 +29,4 @@ appmenu-new-tab-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = ಎಕ್ಸ್‌ಟೆನ್ಶನ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು
     .secondarybuttonaccesskey = D
+

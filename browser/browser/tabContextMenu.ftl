@@ -42,8 +42,6 @@ move-to-new-window =
     .label = ಹೊಸ Window ಗೆ ಜರುಗಿಸು
     .accesskey = W
 
-## Variables:
-##  $tabCount (Number): the number of tabs that are affected by the action.
 close-tab =
     .label = ಟ್ಯಾಬ್‌ ಅನ್ನು ಮುಚ್ಚು
     .accesskey = C
@@ -56,3 +54,7 @@ move-tabs =
 move-tab =
     .label = ಟ್ಯಾಬ್ ಸರಿಸಿ
     .accesskey = v
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
