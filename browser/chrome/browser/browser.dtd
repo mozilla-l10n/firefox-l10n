@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Buka menu">
+
 <!ENTITY navbarOverflow.label                "Alat lainnya…">
 
 <!-- Tab context menu -->
@@ -142,19 +143,23 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "U">
 
 <!ENTITY historyMenu.label "Riwayat">
+
 <!ENTITY historyUndoMenu.label "Tab yang Baru Saja Ditutup">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Jendela yang Baru Saja Ditutup">
 
 <!ENTITY appMenuHistory.showAll.label "Tampilkan Semua Riwayat">
+
 <!ENTITY appMenuHistory.clearRecent.label "Bersihkan Riwayat Terakhir">
 <!ENTITY appMenuHistory.restoreSession.label "Pulihkan Sesi Sebelumnya">
 <!ENTITY appMenuHistory.viewSidebar.label "Tampilkan Bilah Samping Riwayat">
 <!ENTITY appMenuHistory.hideSidebar.label "Sembunyikan Bilah Samping Riwayat">
 <!ENTITY appMenuHistory.recentHistory.label "Riwayat Terakhir">
+
 <!ENTITY appMenuHelp.label "Bantuan">
 
 <!ENTITY appMenuRemoteTabs.label "Tab yang Disinkronkan">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Tak ada tab terbuka">

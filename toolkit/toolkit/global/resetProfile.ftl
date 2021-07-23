@@ -4,6 +4,7 @@
 
 refresh-profile-dialog =
     .title = Segarkan { -brand-short-name }
+
 refresh-profile-dialog-title = Segarkan { -brand-short-name } ke pengaturan baku?
 refresh-profile-dialog-button =
     .label = Segarkan { -brand-short-name }

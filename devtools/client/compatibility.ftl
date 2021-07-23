@@ -41,6 +41,7 @@ compatibility-issue-occurrences =
     { $number ->
        *[other] { $number } kemunculan
     }
+
 compatibility-no-issues-found = Tidak ditemukan masalah kompatibilitas.
 compatibility-close-settings-button =
     .title = Pengaturan tertutup

@@ -8,3 +8,14 @@
 menu-view-charset =
     .label = Pengodean Teks
     .accesskey = g
+
+## Tools Menu
+
+## Help Menu
+
+## Mail Toolbar
+
+## View
+
+## View / Layout
+
