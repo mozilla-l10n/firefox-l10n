@@ -5,3 +5,4 @@
 compact-dialog-window =
     .title = Trinkotu karpetak
     .style = width: 50em;
+

@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Gehitu etiketak
+
 pocket-panel-saved-error-generic = Errorea gertatu da { -pocket-brand-name }-en gordetzen saiatzean.
 pocket-panel-saved-error-tag-length = Etiketak 25 karakterera daude mugatuta
 pocket-panel-saved-error-only-links = Loturak gorde daitezke soilik

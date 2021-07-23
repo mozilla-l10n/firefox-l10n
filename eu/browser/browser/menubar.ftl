@@ -38,16 +38,20 @@ menu-quit =
             [windows] I
            *[other] I
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Irten { -brand-shorter-name }(e)tik
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Irten { -brand-shorter-name }(e)tik
+
 menu-about =
     .label = { -brand-shorter-name }(r)i buruz
     .accesskey = b
@@ -215,6 +219,7 @@ menu-history-undo-menu =
     .label = Itxitako azken fitxak
 menu-history-undo-window-menu =
     .label = Itxitako azken leihoak
+
 menu-history-reopen-all-tabs = Ireki berriro fitxa guztiak
 menu-history-reopen-all-windows = Ireki berriro leiho guztiak
 
@@ -254,15 +259,15 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Hasi saioa { -brand-product-name }(e)n…
     .accesskey = H
+menu-tools-turn-on-sync =
+    .label = Aktibatu { -sync-brand-short-name }…
+    .accesskey = A
 menu-tools-addons-and-themes =
     .label = Gehigarriak eta itxurak
     .accesskey = G
 menu-tools-fxa-sign-in2 =
     .label = Hasi saioa
     .accesskey = H
-menu-tools-turn-on-sync =
-    .label = Aktibatu { -sync-brand-short-name }…
-    .accesskey = A
 menu-tools-turn-on-sync2 =
     .label = Gaitu sinkronizazioa…
     .accesskey = G
@@ -287,13 +292,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Orriaren informazioa
     .accesskey = i
-menu-settings =
-    .label = Ezarpenak
-    .accesskey =
-        { PLATFORM() ->
-            [windows] E
-           *[other] E
-        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -304,6 +302,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] A
            *[other] n
+        }
+menu-settings =
+    .label = Ezarpenak
+    .accesskey =
+        { PLATFORM() ->
+            [windows] E
+           *[other] E
         }
 menu-tools-layout-debugger =
     .label = Diseinuaren araztailea

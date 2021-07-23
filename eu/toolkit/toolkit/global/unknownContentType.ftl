@@ -5,6 +5,7 @@
 unknowncontenttype-handleinternally =
     .label = Ireki { -brand-short-name }(e)n
     .accesskey = e
+
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->

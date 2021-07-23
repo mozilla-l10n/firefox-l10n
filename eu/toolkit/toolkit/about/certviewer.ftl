@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Autoritatearen informazioa (AIA)
 certificate-viewer-certificate-policies = Ziurtagiri-politikak
 certificate-viewer-embedded-scts = Kapsulatutako SCTak
 certificate-viewer-crl-endpoints = CRL amaiera-puntuak
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Deskargatu
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (ziurtagiria)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (katea)
     .download = { $fileName }-katea.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Hedapen hau kritiko gisa markatu da, hau da, bezeroek ziurtagiria ulertzen ez badute, baztertu egin behar dute.

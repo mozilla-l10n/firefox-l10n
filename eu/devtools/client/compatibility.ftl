@@ -42,6 +42,7 @@ compatibility-issue-occurrences =
         [one] Bat-etortze { $number }
        *[other] { $number } bat-etortze
     }
+
 compatibility-no-issues-found = Ez da bateragarritasun-arazorik aurkitu.
 compatibility-close-settings-button =
     .title = Itxi ezarpenak

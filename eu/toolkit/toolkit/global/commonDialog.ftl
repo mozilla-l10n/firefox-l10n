@@ -6,6 +6,7 @@ common-dialog-title-null = Orriak dio:
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Ezezaguna
+
 common-dialog-username =
     .value = Erabiltzaile-izena
 common-dialog-password =

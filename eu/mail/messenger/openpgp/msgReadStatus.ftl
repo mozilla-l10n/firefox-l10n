@@ -6,6 +6,7 @@
 ## Message Header Encryption Button
 
 message-header-show-security-info-key = E
+
 #   $type (String) - the shortcut key defined in the message-header-show-security-info-key
 message-security-button =
     .title =
@@ -13,15 +14,18 @@ message-security-button =
             [macos] Erakutsi segurtasun mezua (⌃ ⌘ { message-header-show-security-info-key })
            *[other] Erakutsi segurtasun mezua (Ctrl+Alt+{ message-header-show-security-info-key })
         }
+
 openpgp-view-signer-key =
     .label = Ikusi gako sinatzailea
 openpgp-view-your-encryption-key =
     .label = ikusi zure gako deskribapena
 openpgp-openpgp = OpenPGP
+
 openpgp-no-sig = Sinadura digitalik ez
 openpgp-uncertain-sig = Zalantzazko sinadura digitala
 openpgp-invalid-sig = Sinadura digital baliogabea
 openpgp-good-sig = Sinadura digital ona
+
 openpgp-sig-uncertain-no-key = Mezu honek badauka sinadura digitala, baina zalantzazkoa da zuzena ote dan. Sinadura egiaztatzeko, igortzailearen gako publikoaren kopia bat lortu behar duzu.
 openpgp-sig-uncertain-uid-mismatch = Mezu honek sinadura digitala dauka, baina bat ez etortze bat detektatu da. Mezua bidali duen posta elektroniko helbidea ez dator bat gako publikoaren sinatzaileaz.
 openpgp-sig-uncertain-not-accepted = Mezu honek sinadura digitala dauka, baina zuk oraindik ez duzu erabaki sinatzailearen gakoa onartzen duzun.
@@ -30,17 +34,23 @@ openpgp-sig-invalid-technical-problem = Mezu honek sinadura digitala dauka, bain
 openpgp-sig-valid-unverified = Mezu honek badauka sinadura digital zuzen bat zuk aurrez onartutako gako batena. Edonola, oraindik egiaztatzeke daukazu benetan gakoa bidaltzailearena den.
 openpgp-sig-valid-verified = Mezu honek badauka sinadura digital zuzena egiaztatutako gako batena.
 openpgp-sig-valid-own-key = Mezu honek badauka sinadura digital zuzena zure gako pertsonal batena.
+
 openpgp-sig-key-id = Sinatzailearen gako ID: { $key }
 openpgp-sig-key-id-with-subkey-id = Sinatzailearen gako ID: { $key } (Azpi-gako ID: { $subkey })
+
 openpgp-enc-key-id = Zure deskribapen gako ID: { $key }
 openpgp-enc-key-with-subkey-id = Zure deskribapenaren gako ID: { $key } (Azpi-gako ID: { $subkey })
+
 openpgp-unknown-key-id = Gako ezezaguna
+
 openpgp-other-enc-additional-key-ids = Honez gain, mezua zifratuko da ondorengo gakoen jabeentzat:
 openpgp-other-enc-all-key-ids = Mezua zifratuko da ondorengo gakoen jabeentzat:
+
 openpgp-message-header-encrypted-ok-icon =
     .alt = Deszifratze zuzena
 openpgp-message-header-encrypted-notok-icon =
     .alt = Huts egin du deszifratzean
+
 openpgp-message-header-signed-ok-icon =
     .alt = Sinadura ona
 # Mismatch icon is used for notok state as well

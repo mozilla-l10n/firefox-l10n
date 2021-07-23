@@ -4,13 +4,18 @@
 
 chat-joining-chat-icon2 =
     .alt = Txatera batzen
+
 chat-left-chat-icon2 =
     .alt = Utzi txata
+
 chat-participant-owner-role-icon2 =
     .alt = Jabea
+
 chat-participant-administrator-role-icon2 =
     .alt = Administratzailea
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderatzailea
+
 chat-participant-voiced-role-icon2 =
     .alt = Partaideak mezuak bidal ditzake

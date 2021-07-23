@@ -14,11 +14,15 @@ about-config-intro-warning-button = Onartu arriskua eta jarraitu
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Hobespen hauek aldatzeak { -brand-short-name }(r)en errendimendu edo segurtasunean eragin lezake.
+
 about-config-page-title = Hobespen aurreratuak
+
 about-config-search-input1 =
     .placeholder = Bilatu hobespen-izena
 about-config-show-all = Erakutsi denak
+
 about-config-show-only-modified = Erakutsi soilik aldatutako hobespenak
+
 about-config-pref-add-button =
     .title = Gehitu
 about-config-pref-toggle-button =
