@@ -170,3 +170,7 @@ touch-warning = async टच इनपुट pref:{ $preferenceKey } द्व�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+## Printing section
+
+## Normandy sections
+

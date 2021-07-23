@@ -7,6 +7,7 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = सुरक्षित विधि मे आरंभ करू
+
 refresh-profile =
     .label = ताज़ा करू { -brand-short-name }
 safe-mode-description = सुरक्षित विधि { -brand-short-name } केर विशेष विधि अछि जे कोनो समस्या केर समाधान कलेल प्रयोग कएल जाए सकैत अछि.

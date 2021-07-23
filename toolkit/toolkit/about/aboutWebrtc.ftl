@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC आंतरिक
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = webrtc केर संबंध मे सहेजू: जहिना
@@ -47,13 +48,7 @@ about-webrtc-ice-state = ICE स्थिति
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE आँकड़ा
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
-
-
-##
 
 
 ## These adjectives are used to label a line of statistics collected for a peer
@@ -65,13 +60,16 @@ about-webrtc-type-remote = रिमोट
 
 ##
 
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = नामांकित
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = चुनल
+
 about-webrtc-save-page-label = पृष्ठ सहेजू
 about-webrtc-debug-mode-msg-label = डिबग मोड
 about-webrtc-debug-mode-off-state-label = डिबग मोड आरंभ करू
@@ -94,6 +92,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (बन�
 
 ##
 
+
 about-webrtc-local-candidate = स्थानीय कंडीडेट
 about-webrtc-remote-candidate = दूरस्थ उम्मीदवार
 about-webrtc-priority = प्राथमिकता
@@ -109,7 +108,6 @@ about-webrtc-encoder-label = एनकोडर
 
 ##
 
-
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -119,6 +117,8 @@ about-webrtc-save-page-msg = :{ $path } पर पृष्ठ सहेजल �
 about-webrtc-debug-mode-off-state-msg = ट्रेस लॉग{ $path } पर भेटल
 about-webrtc-debug-mode-on-state-msg = डिबग मोड सक्रिय, { $path } पर लॉग ट्रेस करू
 about-webrtc-aec-logging-off-state-msg = कैप्टर लॉग फाइल{ $path } मे भेटल
+
+##
 
 ##
 
@@ -133,4 +133,7 @@ about-webrtc-jitter-label = हैरान { $jitter }
 
 
 ##
+
+##
+
 

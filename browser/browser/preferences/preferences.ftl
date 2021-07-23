@@ -270,6 +270,7 @@ home-prefs-topsites-description = जे साइट अहाँ सबसँ 
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
     .label = { $provider } द्वारा अनुशंसित
+
 ##
 
 
@@ -293,6 +294,7 @@ home-prefs-highlights-option-most-recent-download =
 home-prefs-snippets-header =
     .label = अंश
 home-prefs-snippets-description = { -vendor-short-name } आओर { -brand-product-name } सँ अद्यतन
+
 home-prefs-sections-rows-option =
     .label =
         { $num ->

@@ -24,6 +24,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = आब तुल्यकालित करू
+
 appmenuitem-save-page =
     .label = पृष्ठ एहिना सहेजू…
 
@@ -43,22 +44,12 @@ appmenuitem-save-page =
 appmenu-about =
     .label = { -brand-shorter-name } क परिचय
     .accesskey = क
-appmenu-help-troubleshooting-info =
-    .label = विघ्ननिवारण सूचना
-    .accesskey = T
 appmenu-help-feedback-page =
     .label = प्रतिक्रिया दिअ…
     .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
-
-appmenu-help-safe-mode-without-addons =
-    .label = सहयुक्तिक सँग फेर आरंभ  कएनाइ  निष्क्रिय…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = ऐड-ऑन सक्षम केर सँग फेर आरंभ करू
-    .accesskey = R
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

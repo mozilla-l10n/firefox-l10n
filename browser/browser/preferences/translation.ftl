@@ -31,3 +31,4 @@ translation-sites-button-remove-all =
 translation-button-close =
     .label = बन्न करु (C)
     .accesskey = C
+
