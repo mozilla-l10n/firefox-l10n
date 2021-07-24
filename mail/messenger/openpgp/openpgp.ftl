@@ -1,12 +1,19 @@
-
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 e2e-intro-description = Per trametter messadis criptads u signads a moda digitala, stos ti configurar ina tecnologia da criptadi, u OpenPGP u S/MIME.
-
 e2e-intro-description-more = Tscherna tia clav persunala per pudair utilisar OpenPGP u tes certificat persunal per utilisar S/MIME. Ti stos avair la clav secreta associada cun la clav persunala u il certificat persunal.
-
+e2e-advanced-section = Parameters avanzads
+e2e-attach-key =
+    .label = Agiuntar mia clav publica sche ina signatura digitala OpenPGP vegn agiuntada
+    .accesskey = p
+e2e-encrypt-subject =
+    .label = Criptar l'object da messadis OpenPGP
+    .accesskey = b
+e2e-encrypt-drafts =
+    .label = Memorisar messadis da sboz en il format criptà
+    .accesskey = r
 openpgp-key-user-id-label = Conto / ID da l'utilisader
 openpgp-keygen-title-label =
     .title = Generar ina clav OpenPGP
@@ -37,15 +44,11 @@ openpgp-generate-key =
 openpgp-advanced-prefs-button-label =
     .label = Avanzà…
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">REMARTGA: La generaziun dad ina clav po durar pliras minutas.</a> Na terminescha betg l'applicaziun enfin che la generaziun da la clav n'è betg finida. Cun navigar activamain u exequir operaziuns exigentas per il disc dir durant la generaziun da la clav, pos ti augmentar il nivel da casualitad ed accelerar il process. Ti vegns infurmà uschespert ch'il process è terminà.
-
 openpgp-key-expiry-label =
     .label = Scadenza
-
 openpgp-key-id-label =
     .label = ID da clav
-
 openpgp-cannot-change-expiry = Quai è ina clav cun ina structura cumplexa. La midada da sia data da scadenza na vegn betg sustegnida.
-
 openpgp-key-man-title =
     .title = Administraziun da clavs OpenPGP
 openpgp-key-man-generate =
@@ -56,7 +59,6 @@ openpgp-key-man-gen-revoke =
     .accesskey = r
 openpgp-key-man-ctx-gen-revoke-label =
     .label = Generar e memorisar in certificat da revocaziun
-
 openpgp-key-man-file-menu =
     .label = Datoteca
     .accesskey = D
@@ -72,7 +74,6 @@ openpgp-key-man-generate-menu =
 openpgp-key-man-keyserver-menu =
     .label = Server da clavs
     .accesskey = v
-
 openpgp-key-man-import-public-from-file =
     .label = Importar clav(s) publica(s) dad ina datoteca
     .accesskey = I
@@ -95,33 +96,26 @@ openpgp-key-man-send-keys =
 openpgp-key-man-backup-secret-keys =
     .label = Far ina copia da segirezza dad ina u pliras clavs secretas en ina datoteca
     .accesskey = F
-
 openpgp-key-man-discover-cmd =
     .label = Tschertgar clavs online
     .accesskey = o
 openpgp-key-man-discover-prompt = Per tschertgar clavs OpenPGP online – sin servers da clavs u cun agid dal protocol WKD – endatar ina adressa d'e-mail u ina ID da clav.
 openpgp-key-man-discover-progress = Tschertgar…
-
 openpgp-key-copy-key =
     .label = Copiar la clav publica
     .accesskey = C
-
 openpgp-key-export-key =
     .label = Exportar la clav publica en ina datoteca
     .accesskey = E
-
 openpgp-key-backup-key =
     .label = Far ina copia da segirezza da la clav secreta
     .accesskey = F
-
 openpgp-key-send-key =
     .label = Trametter la clav publica via e-mail
     .accesskey = T
-
 openpgp-key-man-copy-to-clipbrd =
     .label = Copiar clav(s) publica(s) en l'archiv provisoric
     .accesskey = o
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -129,7 +123,6 @@ openpgp-key-man-copy-key-ids =
            *[other] Copiar las IDs da clav en l'archiv provisoric
         }
     .accesskey = I
-
 openpgp-key-man-copy-fprs =
     .label =
         { $count ->
@@ -137,7 +130,6 @@ openpgp-key-man-copy-fprs =
            *[other] Copiar las improntas en l'archiv provisoric
         }
     .accesskey = m
-
 openpgp-key-man-copy-to-clipboard =
     .label =
         { $count ->
@@ -145,16 +137,13 @@ openpgp-key-man-copy-to-clipboard =
            *[other] Copiar las clavs publicas en l'archiv provisoric
         }
     .accesskey = p
-
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportar las clav en ina datoteca
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Copiar las clavs publicas en l'archiv provisoric
-
 openpgp-key-man-ctx-copy =
     .label = Copiar
     .accesskey = C
-
 openpgp-key-man-ctx-copy-fprs =
     .label =
         { $count ->
@@ -162,7 +151,6 @@ openpgp-key-man-ctx-copy-fprs =
            *[other] Improntas dal det
         }
     .accesskey = d
-
 openpgp-key-man-ctx-copy-key-ids =
     .label =
         { $count ->
@@ -170,7 +158,6 @@ openpgp-key-man-ctx-copy-key-ids =
            *[other] IDs da clav
         }
     .accesskey = v
-
 openpgp-key-man-ctx-copy-public-keys =
     .label =
         { $count ->
@@ -178,7 +165,6 @@ openpgp-key-man-ctx-copy-public-keys =
            *[other] Clavs publicas
         }
     .accesskey = b
-
 openpgp-key-man-close =
     .label = Serrar
 openpgp-key-man-reload =
@@ -226,15 +212,12 @@ openpgp-key-man-nothing-found-tooltip =
     .label = Nagina clav na correspunda als terms tschertgads
 openpgp-key-man-please-wait-tooltip =
     .label = Spetga p.pl. durant che las clavs vegnan chargiadas…
-
 openpgp-key-man-filter-label =
     .placeholder = Tschertgar clavs
-
 openpgp-key-man-select-all-key =
     .key = A
 openpgp-key-man-key-details-key =
     .key = I
-
 openpgp-key-details-title =
     .title = Caracteristicas da la clav
 openpgp-key-details-signatures-tab =
@@ -286,7 +269,6 @@ openpgp-personal-no-label =
     .label = Na, betg l'utilisar sco mia clav persunala.
 openpgp-personal-yes-label =
     .label = Gea, considerar questa clav sco ina clav persunala.
-
 openpgp-copy-cmd-label =
     .label = Copiar
 
@@ -300,7 +282,6 @@ openpgp-description =
         [one] Thunderbird ha chattà { $count } clav persunala OpenPGP associada cun <b>{ $identity }</b>
        *[other] Thunderbird ha chattà { $count } clavs persunalas OpenPGP associadas cun <b>{ $identity }</b>
     }
-
 #   $count (Number) - the number of configured keys associated with the current identity
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status =
@@ -309,75 +290,51 @@ openpgp-selection-status =
         [one] Tia configuraziun actuala utilisescha la clav cun l'ID <b>{ $key }</b>
        *[other] Tia configuraziun actuala utilisescha la clav cun l'ID <b>{ $key }</b>
     }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Tia configuraziun actuala utilisescha la clav cun l'ID <b>{ $key }</b>
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Tia configuraziun actuala utilisescha la clav <b>{ $key }</b> ch'è scadida.
-
 openpgp-add-key-button =
     .label = Agiuntar ina clav…
     .accesskey = A
-
 e2e-learn-more = Ulteriuras infurmaziuns
-
 openpgp-keygen-success = La clav OpenPGP è vegnida creada cun success!
-
 openpgp-keygen-import-success = Las clavs OpenPGP èn vegnidas importadas cun success!
-
 openpgp-keygen-external-success = L'ID da la clav GnuPG externa è vegnida memorisada!
 
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
     .label = Nagina
-
 openpgp-radio-none-desc = Betg utilisar OpenPGP per questa identitad.
-
 openpgp-radio-key-not-usable = Questa clav na po betg vegnir duvrada sco clav persunala perquai che la clav secreta manca!
 openpgp-radio-key-not-accepted = Per utilisar questa clav, la stos ti approvar sco clav persunala!
 openpgp-radio-key-not-found = Impussibel da chattar questa clav! Sche ti la vuls utilisar, la stos ti importar en { -brand-short-name }.
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Scada ils: { $date }
-
 openpgp-key-expires-image =
     .tooltiptext = La clav scada en pli pauc che 6 mais
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = È scadì ils: { $date }
-
 openpgp-key-expired-image =
     .tooltiptext = Clav scadida
-
 openpgp-key-expires-within-6-months-icon =
     .title = La clav scada en pli pauc che 6 mais
-
 openpgp-key-has-expired-icon =
     .title = La clav è scadida
-
 openpgp-key-expand-section =
     .tooltiptext = Ulteriuras infurmaziuns
-
 openpgp-key-revoke-title = Revocar la clav
-
 openpgp-key-edit-title = Midar la clav OpenPGP
-
 openpgp-key-edit-date-title = Prolungar la data da scadenza
-
 openpgp-manager-description = Utilisescha l'administraziun da clavs OpenPGP per mussar ed administrar las clavs publicas da tes correspundents e tut tschellas clavs betg mussadas survart.
-
 openpgp-manager-button =
     .label = Administraziun da clavs OpenPGP
     .accesskey = c
-
 openpgp-key-remove-external =
     .label = Allontanar l'ID da clav externa
     .accesskey = e
-
 key-external-label = Clav GnuPG externa
-
 # Strings in keyDetailsDlg.xhtml
 key-type-public = clav publica
 key-type-primary = clav principala
@@ -394,16 +351,13 @@ key-expired-simple = La clav è scadida
 key-revoked-simple = La clav è vegnida revocada
 key-do-you-accept = Acceptas ti questa clav per verifitgar signaturas digitalas e per criptar messadis?
 key-accept-warning = Fa la segira che ti acceptas mo clavs autenticas. Utilisescha in auter chanal da communicaziun che e-mail per verifitgar l'impronta da la clav da tes partenari da correspundenza.
-
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Impussibel da trametter il messadi. I dat in problem cun tia clav persunala. { $problem }
 cannot-encrypt-because-missing = Impussibel da trametter quest messadi cun criptadi da fin a fin. I dat problems cun las clavs dals suandants destinaturs: { $problem }
 window-locked = La fanestra da rediger è bloccada; spediziun annullada
-
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Part criptada dal messadi
 mime-decrypt-encrypted-part-concealed-data = Quai è ina part criptada dal messadi. Ti stos l'avrir en ina fanestra separada cun cliccar sin l'agiunta.
-
 # Strings in keyserver.jsm
 keyserver-error-aborted = Interrut
 keyserver-error-unknown = Ina errur nunenconuschenta è succedida
@@ -413,7 +367,6 @@ keyserver-error-unavailable = Il server da clavs n'è betg disponibel.
 keyserver-error-security-error = Il server da clavs na sustegna betg l'access criptà.
 keyserver-error-certificate-error = Il certificat dal server da clavs n'è betg valid.
 keyserver-error-unsupported = Il server da clavs na vegn betg sustegnì.
-
 # Strings in mimeWkdHandler.jsm
 wkd-message-body-req =
     Tes purschider dad e-mail ha elavurà tia dumonda da transferir tia clav publica en il OpenPGP Web Key Directory.
@@ -421,17 +374,14 @@ wkd-message-body-req =
 wkd-message-body-process =
     Quest è in e-mail en connex cun l'elavuraziun automatica per transferir tia clav publica en il OpenPGP Web Key Directory.
     I na dovra naginas intervenziuns manualas per il mument.
-
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
     Impussibel da decriptar il messadi cun l'object
     { $subject }.
     Vuls ti empruvar anc ina giada cun in'autra frasa-clav u sursiglir il messadi?
-
 # Strings in gpg.jsm
 unknown-signing-alg = Algoritmus da signatura nunenconuschent (ID: { $id })
 unknown-hash-alg = Hash criptografic nunenconuschent (ID: { $id })
-
 # Strings in keyUsability.jsm
 expiry-key-expires-soon =
     Tia clav { $desc } scada en damain che { $days } dis.
@@ -448,7 +398,6 @@ expiry-keys-missing-owner-trust =
     Nus ta recumandain da drizzar la «Fidaivladad dals certificats» sin «absoluta» en las caracteristicas da questas clavs.
 expiry-open-key-manager = Avrir l'administraziun da clavs OpenPGP
 expiry-open-key-properties = Avrir las caracteristicas da la clav
-
 # Strings filters.jsm
 filter-folder-required = Ti stos tscherner in ordinatur da destinaziun.
 filter-decrypt-move-warn-experimental =
@@ -460,12 +409,10 @@ filter-key-not-found = Impussibel da chattar ina clav da criptadi per «{ $desc 
 filter-warn-key-not-secret =
     Attenziun! L'acziun dal filter «Criptar cun la clav» remplazza ils destinaturs.
     Sche ti na possedas betg la clav secreta per «{ $desc }», na vegns ti betg pli a pudair leger ils e-mails.
-
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Decriptar permanent (OpenPGP)
 filter-decrypt-copy-label = Crear ina copia decriptada (OpenPGP)
 filter-encrypt-label = Criptar cun la clav (OpenPGP)
-
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Importà las clavs cun success
@@ -474,7 +421,6 @@ import-info-created = Creà
 import-info-fpr = Impronta
 import-info-details = Mussar ils detagls ed administrar l'acceptaziun da las clavs
 import-info-no-keys = Importà naginas clavs.
-
 # Strings in enigmailKeyManager.js
 import-from-clip = Vuls ti importar (ina) tscherta(s) clav(s) da l'archiv provisoric?
 import-from-url = Telechargiar la clav publica da quest URL:
@@ -518,10 +464,8 @@ dlg-button-delete = &Stizzar
 
 openpgp-export-public-success = <b>Exportà cun success la clav publica!</b>
 openpgp-export-public-fail = <b>Impussibel dad exportar las clavs publicas tschernidas!</b>
-
 openpgp-export-secret-success = <b>Exportà cun success la clav secreta!</b>
 openpgp-export-secret-fail = <b>Impussibel dad exportar la clav secreta tschernida!</b>
-
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = La clav { $userId } (ID da clav { $keyId }) è vegnida revocada.
 key-ring-pub-key-expired = La clav { $userId } (ID da clav { $keyId }) è scadida.
@@ -532,67 +476,47 @@ key-ring-sign-sub-keys-revoked = Tut las sutclavs da signatura da la clav { $use
 key-ring-sign-sub-keys-expired = Tut las sutclavs da signatura da la clav { $userId } (ID da clav { $keyId }) èn scadidas.
 key-ring-enc-sub-keys-revoked = Tut las sutclavs da criptadi da la clav { $userId } (ID da clav { $keyId }) èn vegnidas revocadas.
 key-ring-enc-sub-keys-expired = Tut las sutclavs da criptadi da la clav { $userId } (ID da clav { $keyId }) èn scadidas.
-
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Attribut utilisader (maletg JPEG)
-
 # Strings in key.jsm
 already-revoked = Questa clav è gia vegnida revocada.
-
 #   $identity (String) - the id and associated user identity of the key being revoked
 revoke-key-question =
     Ti es londervi da revocar la clav «{ $identity }».
     Ti na vegns betg pli a pudair signar cun questa clav ed uschespert che la revocaziun è distribuida, na pon auters betg pli criptar cun questa clav. Igl è dentant era vinavant pussaivel da duvrar la clav per decriptar messadis vegls.
     Vuls ti cuntinuar?
-
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
     Ti n'has nagina clav (0x{ $keyId }) che correspunda a quest certificat da revocaziun!
     Sche ti has pers tia clav, la stos ti importar (p.ex. dad in server da clavs) avant che importar il certificat da revocaziun!
-
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = La clav 0x{ $keyId } è gia vegnida revocada.
-
 key-man-button-revoke-key = &Revocar la clav
-
 openpgp-key-revoke-success = Revocà la clav cun success.
-
 after-revoke-info =
     La clav è vegnida revocada.
     Cundivida danovamain questa clav publica, via e-mail u cun la transferir sin servers da clavs, per far a savair tuts che ti has revocà la clav.
     Uschespert che la software dad autras persunas vegn a savair da la revocaziun, na vegnan els betg pli a duvrar tia veglia clav.
     Sche ti utiliseschas ina nova clav per la medema adressa d'e-mail ed agiunteschas la nova clav publica als e-mails che ti tramettas, lura vegn l'infurmaziun davart tia clav veglia revocada includida automaticamain.
-
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
-
 delete-key-title = Stizzar la clav OpenPGP
-
 delete-external-key-title = Allontanar la clav externa GnuPG
-
 delete-external-key-description = Vuls ti allontanar questa ID da clav GnuPG externa?
-
 key-in-use-title = La clav OpenPGP vegn actualmain utilisada
-
 delete-key-in-use-description = Impussibel da cuntinuar! La clav che ti has tschernì per stizzar vegn actualmain utilisada da questa identitad. Tscherna in'autra clav u na tscherna nagina ed emprova anc ina giada.
-
 revoke-key-in-use-description = Impussibel da cuntinuar! La clav che ti has tschernì per la revocaziun vegn actualmain utilisada da questa identitad. Tscherna in'autra clav u na tscherna nagina ed emprova anc ina giada.
-
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = L'adressa d'e-mail «{ $keySpec }» na correspunda a nagina clav da tes rintg da clavs.
 key-error-key-id-not-found = L'ID da clav «{ $keySpec }» configurada na sa chatta betg en tes rintg da clavs.
 key-error-not-accepted-as-personal = Ti n'has betg confermà che la clav cun l'ID «{ $keySpec }» è tia clav persunala.
-
 # Strings used in enigmailKeyManager.js & windows.jsm
 need-online = La funcziunalitad tschernida na stat betg da disposiziun en il modus offline. Ta connectescha cun l'internet ed emprova anc ina giada.
-
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Impussibel da chattar ina clav che correspunda als criteris da tschertga inditgads.
-
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Errur – il cumond d'extracziun da la clav n'è betg reussì
-
 # Strings used in keyRing.jsm
 fail-cancel = Errur – recepziun da clav annullada da l'utilisader
 not-first-block = Errur – l'emprim bloc OpenPGP n'è betg in bloc da la clav publica
@@ -601,7 +525,6 @@ fail-key-import = Errur – l'import da la clav n'è betg reussì
 file-write-failed = Betg reussì da scriver en la datoteca { $output }
 no-pgp-block = Errur – Chattà nagin bloc da datas OpenPGP armored valid
 confirm-permissive-import = L'import n'è betg reussi. La clav che ti emprovas dad importar è eventualmain donnegiada u ch'ella utilisescha attributs nunenconuschents. Vuls ti empruvar dad importar las parts correctas? Quai po avair per consequenza che las clavs importadas èn nuncumplettas e betg utilisablas.
-
 # Strings used in trust.jsm
 key-valid-unknown = nunenconuschenta
 key-valid-invalid = nunvalida
@@ -613,7 +536,6 @@ key-trust-marginal = marginala
 key-trust-full = fidada
 key-trust-ultimate = absoluta
 key-trust-group = (gruppa)
-
 # Strings used in commonWorkflows.js
 import-key-file = Importar ina datoteca da clav OpenPGP
 import-rev-file = Importar ina datoteca da revocaziun OpenPGP
@@ -621,7 +543,6 @@ gnupg-file = Datotecas GnuPG
 import-keys-failed = L'import da las clavs n'è betg reussì
 passphrase-prompt = Endatescha per plaschair la frasa-clav che deblochescha la suandanta clav: { $key }
 file-to-big-to-import = Questa datoteca è memia gronda. N'importescha per plaschair betg memia bleras clavs en ina.
-
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Crear e memorisar in certificat da revocaziun
 revoke-cert-ok = Il certificat da revocaziun è vegnì creà. Ti pos l'utilisar per invalidar tia clav publica, p.ex. en cas che ti perdas tia clav secreta.
@@ -640,7 +561,6 @@ key-man-button-generate-key-continue = &Cuntinuar cun la generaziun da la clav
 
 failed-decrypt = Errur – decriptadi betg reussì
 fix-broken-exchange-msg-failed = I n'è betg reussì da reparar il messadi.
-
 attachment-no-match-from-signature = Impussibel d'associar la datoteca da signatura «{ $attachment }» cun ina agiunta
 attachment-no-match-to-signature = Impussibel d'associar l'agiunta «{ $attachment }» cun ina datoteca da signatura
 signature-verified-ok = La signatura per l'agiunta { $attachment } è vegnida verifitgada cun success
@@ -650,7 +570,6 @@ decrypt-ok-no-sig =
     Il decriptadi è gartegià, ma i n'è betg reussì da verifitgar correctamain la signatura
 msg-ovl-button-cont-anyway = Tuttina &cuntinuar
 enig-content-note = *Las agiuntas da quest messadi n'èn ni signadas ni criptadas*
-
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Trametter il messadi
 msg-compose-details-button-label = Detagls…
@@ -688,7 +607,12 @@ no-temp-dir =
 possibly-pgp-mime = Il messadi è probablamain criptà u signà cun PGP/MIME: utilisar la funcziun «Decriptar/verifitgar»
 cannot-send-sig-because-no-own-key = Impussibel da signar digitalmain quest messadi perquai che ti n'has anc betg configurà il criptadi da fin a fin per <{ $key }>
 cannot-send-enc-because-no-own-key = Impussibel da trametter quest messadi sco messadi criptà perquai che ti n'has anc betg configurà il criptadi da fin a fin per <{ $key }>
-
+compose-menu-attach-key =
+    .label = Agiuntar mia clav publica
+    .accesskey = A
+compose-menu-encrypt-subject =
+    .label = Criptar l'object
+    .accesskey = b
 # Strings used in decryption.jsm
 do-import-multiple =
     Importar las suandantas clavs?
@@ -703,18 +627,14 @@ attachment-pgp-key =
     L'agiunta «{ $name }» che ti avras, para dad esser ina datoteca da clav OpenPGP.
     Cliccar sin «Importar» per importar las clavs cuntegnidas u «Mussar» per mussar il cuntegn da la datoteca en ina fanestra dal navigatur
 dlg-button-view = &Mussar
-
 # Strings used in enigmailMsgHdrViewOverlay.js
 decrypted-msg-with-format-error = Messadi decriptà (restauraziun dad in format d'e-mail PGP donnegià, probablamain chaschunà dad in vegl Exchange server – il format n'è eventualmain betg cumplettamain legibel)
-
 # Strings used in encryption.jsm
 not-required = Errur – nagin criptadi necessari
-
 # Strings used in windows.jsm
 no-photo-available = Nagina foto disponibla
 error-photo-path-not-readable = L'ordinatur «{ $photo }» da la fotografia n'è betg legibel
 debug-log-title = Log da debugadi OpenPGP
-
 # Strings used in dialog.jsm
 repeat-prefix = Quest avertiment vegn repetì { $count }
 repeat-suffix-singular = giada.
@@ -729,14 +649,11 @@ enig-prompt = Dialog OpenPGP
 enig-confirm = Conferma OpenPGP
 enig-alert = Avertiment OpenPGP
 enig-info = Infurmaziun OpenPGP
-
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Reempruvar
 dlg-button-skip = &Sursiglir
-
 # Strings used in enigmailCommon.js
 enig-error = Errur OpenPGP
-
 # Strings used in enigmailMsgBox.js
 enig-alert-title =
     .title = Avertiment OpenPGP
