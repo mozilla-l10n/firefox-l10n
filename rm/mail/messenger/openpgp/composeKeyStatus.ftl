@@ -14,3 +14,11 @@ openpgp-compose-key-status-open-details = Administrar las clavs dal destinatur t
 openpgp-recip-good = ok
 openpgp-recip-missing = nagina clav disponibla
 openpgp-recip-none-accepted = nagina clav acceptada
+openpgp-compose-general-info-alias = { -brand-short-name } pretenda normalmain che la clav publica dal destinatur cuntegnia ina ID da l'utilisader cun ina adressa dad e-mail che correspunda. Quai po vegnir ignorà cun utilisar las reglas dad OpenPGP per ils alias dals destinaturs.
+openpgp-compose-general-info-alias-learn-more = Ulteriuras infurmaziuns
+openpgp-compose-alias-status-direct =
+    { $count ->
+        [one] attribuì ad ina clav alias
+       *[other] attribuì a { $count } clavs alias
+    }
+openpgp-compose-alias-status-error = clav alias nunutilisabla u betg disponibla

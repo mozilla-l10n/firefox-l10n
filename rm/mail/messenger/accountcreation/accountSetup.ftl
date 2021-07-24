@@ -226,6 +226,63 @@ account-setup-addon-no-protocol = Quest server dad e-mail na sustegna deplorabla
 
 account-setup-settings-button = Parameters dal conto
 account-setup-encryption-button = Criptadi da fin a fin
+account-setup-signature-button = Agiuntar ina signatura
+account-setup-dictionaries-button = Telechargiar dicziunaris
+account-setup-address-book-carddav-button = Connectar cun in cudeschet d'adressas CardDAV
+account-setup-address-book-ldap-button = Connectar cun in cudeschet d'adressas LDAP
+account-setup-calendar-button = Connectar cun in chalender lontan
+account-setup-linked-services-title = Connectar tes servetschs associads
+account-setup-linked-services-description = { -brand-short-name } ha chattà auters servetschs associads cun tes conto dad e-mail.
+account-setup-no-linked-description = Configurar auters servetschs per optimar tia experientscha cun { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } ha chattà in cudeschet d'adressas associà cun tes conto dad e-mail.
+       *[other] { -brand-short-name } ha chattà { $count } cudeschets d'adressas associads cun tes conto dad e-mail.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } ha chattà in chalender associà cun tes conto dad e-mail.
+       *[other] { -brand-short-name } ha chattà { $count } chalenders associads cun tes conto dad e-mail.
+    }
+account-setup-button-finish = Finir
+    .accesskey = F
+account-setup-looking-up-address-books = Tschertgar cudeschets d'adressas…
+account-setup-looking-up-calendars = Tschertgar chalenders…
+account-setup-address-books-button = Cudeschets d'adressas
+account-setup-calendars-button = Chalenders
+account-setup-connect-link = Connectar
+account-setup-existing-address-book = Connectà
+    .title = Il cudeschet d'adressas è gia connectà
+account-setup-existing-calendar = Connectà
+    .title = Il chalender è gia connectà
+account-setup-connect-all-calendars = Connectar tut ils chalenders
+account-setup-connect-all-address-books = Connectar tut ils cudeschets d'adressas
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Connectar il chalender
+calendar-dialog-cancel-button = Interrumper
+    .accesskey = I
+calendar-dialog-confirm-button = Connectar
+    .accesskey = C
+account-setup-calendar-name-label = Num
+account-setup-calendar-name-input =
+    .placeholder = Mes chalender
+account-setup-calendar-color-label = Colur
+account-setup-calendar-refresh-label = Actualisar
+account-setup-calendar-refresh-manual = Manualmain
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Mintga minuta
+       *[other] Mintga { $count } minutas
+    }
+account-setup-calendar-read-only = Mo per lectura
+    .accesskey = M
+account-setup-calendar-show-reminders = Mussar las promemorias
+    .accesskey = M
+account-setup-calendar-offline-support = Support dal modus senza connexiun
+    .accesskey = S
