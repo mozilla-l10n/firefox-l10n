@@ -115,7 +115,7 @@ tab-context-close-tabs =
 tab-context-move-tabs =
     .label =
         { $tabCount ->
-            [1] Mută filele
+            [1] Mută fila
             [one] Mută fila
             [few] Mută filele
            *[other] Mută filele
