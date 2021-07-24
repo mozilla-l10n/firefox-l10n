@@ -30,7 +30,7 @@ about-networking-messages-sent = Mesaje trimise
 about-networking-messages-received = Mesaje primite
 about-networking-bytes-sent = Byți trimiși
 about-networking-bytes-received = Byți primiți
-about-networking-logging = Înregistrare în jurnal
+about-networking-logging = Jurnalizare
 about-networking-log-tutorial = Vezi <a data-l10n-name="logging">înregistrarea în jurnal pentru HTTP</a> în ceea ce privește instrucțiunile de folosire a acestui instrument.
 about-networking-current-log-file = Fișierul actual pentru jurnal:
 about-networking-current-log-modules = Modulele actuale de înregistrare în jurnal:
