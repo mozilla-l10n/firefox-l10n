@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = Filă nouă
+    .accesskey = w
 reload-tab =
     .label = Reîncarcă fila
     .accesskey = R
@@ -14,6 +17,11 @@ duplicate-tab =
 duplicate-tabs =
     .label = Duplică filele
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Închide filele de la stânga
+    .accesskey = 
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
@@ -82,10 +90,24 @@ move-tabs =
 move-tab =
     .label = Mută fila
     .accesskey = v
+tab-context-share-url =
+    .label = Partajează
+    .accesskey = h
+tab-context-share-more =
+    .label = Mai multe…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Redeschide fila închisă
+            [one] Redeschide fila închisă
+            [few] Redeschide filele închise
+           *[other] Redeschide filele închise
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->
