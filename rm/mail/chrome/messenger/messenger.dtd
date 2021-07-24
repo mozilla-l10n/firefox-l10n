@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "m">
+<!ENTITY exportCmd.label "Exportar…">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "Stizzar la cronologia pli nova…">
 <!ENTITY clearRecentHistory.accesskey "c">
 <!ENTITY accountManagerCmd2.label "Configuraziun da contos">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Adressa">
 <!ENTITY idColumn.label "Successiun dad entrada">
 <!ENTITY attachmentColumn.label "Agiuntas">
-
 <!ENTITY deleteColumn.label "Stizzar">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Zavrar tenor lieu">
 <!ENTITY idColumn2.tooltip "Zavrar tenor successiun da retschavida">
 <!ENTITY attachmentColumn2.tooltip "Zavrar tenor agiuntas">
-
 <!ENTITY deleteColumn.tooltip "Stizzar in messadi">
 
 <!-- Thread Pane Context Menu -->
