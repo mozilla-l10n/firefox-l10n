@@ -26,10 +26,22 @@ upgrade-dialog-new-secondary-button = Nu acum
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-pin-title =
+    { PLATFORM() ->
+        [macos] Păstrează { -brand-short-name } în Dock
+       *[other] Fixează { -brand-short-name } în bara de activități
+    }
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Păstrează în Dock
+       *[other] Fixează în bara de activități
+    }
 upgrade-dialog-pin-secondary-button = Nu acum
 
 ## Default browser screen
 
+upgrade-dialog-default-subtitle-2 = Pune viteza, siguranța și confidențialitatea pe pilot automat.
 upgrade-dialog-default-secondary-button = Nu acum
 
 ## Theme selection screen
