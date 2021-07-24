@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Adaugă etichete
-
 pocket-panel-saved-error-generic = A apărut o eroare la încercarea de salvare în { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Etichetele sunt limitate la 25 de caractere
 pocket-panel-saved-error-only-links = Doar linkurile pot fi salvate
@@ -32,7 +31,7 @@ pocket-panel-signup-view-list = Vezi lista
 pocket-panel-signup-already-have = Ești deja un utilizator { -pocket-brand-name }?
 pocket-panel-signup-learn-more = Află mai multe
 pocket-panel-signup-login = Autentifică-te
-pocket-panel-signup-signup-email = Înregistrare cu e-mail
+pocket-panel-signup-signup-email = Înscrie-te cu un e-mail
 pocket-panel-signup-signup-cta = Înregistrează-te pentru { -pocket-brand-name }. Este gratuit.
 pocket-panel-signup-signup-firefox = Fă-ți un cont { -brand-product-name }
 pocket-panel-signup-tagline = Salvează articole și videoclipuri din { -brand-product-name } pentru a le vedea în { -pocket-brand-name } de pe orice dispozitiv, oricând.
