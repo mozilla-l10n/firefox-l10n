@@ -8,7 +8,6 @@
 newtab-page-title = Filă nouă
 newtab-settings-button =
     .title = Personalizează pagina pentru filă nouă
-
 newtab-personalize-button-label = Personalizează
     .title = Personalizează pagina pentru filă nouă
     .aria-label = Personalizează pagina pentru filă nouă
@@ -24,9 +23,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Caută
     .aria-label = Caută
-
 newtab-search-box-search-the-web-text = Caută pe web
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Caută cu { $engine } sau introdu adresa
@@ -41,7 +38,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Caută sau introdu adresa
     .title = Caută sau introdu adresa
     .aria-label = Caută sau introdu adresa
-
 newtab-search-box-search-the-web-input =
     .placeholder = Caută pe web
     .title = Caută pe web
@@ -55,12 +51,10 @@ newtab-topsites-edit-topsites-header = Editează site-ul de top
 newtab-topsites-title-label = Titlu
 newtab-topsites-title-input =
     .placeholder = Introdu un titlu
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tastează sau lipește un URL
 newtab-topsites-url-validation = URL valid necesar
-
 newtab-topsites-image-url-label = URL pentru imagine personalizată
 newtab-topsites-use-image-link = Folosește o imagine personalizată…
 newtab-topsites-image-validation = Imaginea nu s-a încărcat. Încearcă o altă adresă.
@@ -88,12 +82,10 @@ newtab-confirm-delete-history-p2 = Această acțiune este ireversibilă.
 newtab-menu-section-tooltip =
     .title = Deschide meniul
     .aria-label = Deschide meniul
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Elimină
     .aria-label = Elimină
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,12 +154,10 @@ newtab-label-removed-bookmark = Marcaj eliminat
 newtab-label-recommended = În tendințe
 newtab-label-saved = Salvat în { -pocket-brand-name }
 newtab-label-download = Descărcat
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsorizat
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -206,12 +196,10 @@ newtab-section-header-pocket = Recomandat de { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Începe să navighezi și noi îți vom arăta articole interesante, videouri sau alte pagini pe care le-ai vizitat sau marcat recent.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ai ajuns la capăt. Revino mai târziu pentru alte articole de la { $provider }. Nu mai vrei să aștepți? Selectează un subiect popular și găsește alte articole interesante de pe web.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -251,6 +239,10 @@ newtab-custom-sponsored-sites = Comenzi rapide sponsorizate
 newtab-custom-recent-title = Activitate recentă
 newtab-custom-recent-subtitle = O selecție de site-uri și conținut recente
 newtab-custom-close-button = Închide
-
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Fragmente
 newtab-custom-snippets-subtitle = Sfaturi și știri de la { -vendor-short-name } și { -brand-product-name }
 newtab-custom-settings = Gestionează mai multe setări
