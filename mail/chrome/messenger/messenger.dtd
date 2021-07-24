@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "P">
 <!ENTITY importCmd.label "Tuo toisista ohjelmista…">
 <!ENTITY importCmd.accesskey "T">
+<!ENTITY exportCmd.label "Vie…">
+<!ENTITY exportCmd.accesskey "V">
 <!ENTITY clearRecentHistory.label "Tyhjennä viimeaikaiset historiatiedot…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Tilien asetukset">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Sijainti">
 <!ENTITY idColumn.label "Saapumisjärjestys">
 <!ENTITY attachmentColumn.label "Liitteet">
-
 <!ENTITY deleteColumn.label "Poista">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Järjestä sijainnin mukaan">
 <!ENTITY idColumn2.tooltip "Järjestä saapumisjärjestyksen mukaan">
 <!ENTITY attachmentColumn2.tooltip "Järjestä liitteiden mukaan">
-
 <!ENTITY deleteColumn.tooltip "Poista viesti">
 
 <!-- Thread Pane Context Menu -->
