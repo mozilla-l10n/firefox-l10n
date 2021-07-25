@@ -195,3 +195,10 @@ compose-missing-identity-warning = Es wurde keine Identität gefunden, welche mi
 encrypted-bcc-warning = Beim Senden einer verschlüsselten Nachricht sind die Empfänger in der Blindkopie (BCC) nicht vollständig verborgen. Jeder Empfänger kann sie identifizieren.
 
 encrypted-bcc-ignore-button = OK
+
+## Editing
+
+# Tools
+
+compose-tool-button-remove-text-styling =
+  .tooltiptext = Textformatierung entfernen

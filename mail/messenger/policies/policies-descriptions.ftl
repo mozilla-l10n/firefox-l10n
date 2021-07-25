@@ -17,6 +17,8 @@ policy-AppUpdateURL = Anwendungsaktualisierung über benutzerdefinierte Adresse 
 
 policy-Authentication = Integrierte Authentifizierung für Websites, welche dies unterstützen, konfigurieren
 
+policy-BackgroundAppUpdate2 = Hintergrundaktualisierung aktivieren oder deaktivieren
+
 policy-BlockAboutAddons = Add-ons-Verwaltung-Seitenzugriff (about:addons) blockieren
 
 policy-BlockAboutConfig = about:config-Seitenzugriff (erweiterte Einstellungen ohne Dokumentation) blockieren
@@ -30,6 +32,8 @@ policy-CaptivePortal = Erkennung von Anmelde- oder Bestätigungspflicht für Int
 policy-CertificatesDescription = Zertifikate hinzufügen oder eingebaute Zertifikate verwenden
 
 policy-Cookies = Cookies setzen durch Websites erlauben oder verbieten
+
+policy-DisableBuiltinPDFViewer = Eingebauten PDF-Betrachter von { -brand-short-name } (PDF.js) deaktivieren
 
 policy-DisabledCiphers = Chiffren deaktivieren
 
@@ -84,6 +88,8 @@ policy-ExtensionSettings = Alle Einstellungen für die Erweiterungsinstallation 
 
 policy-ExtensionUpdate = Automatische Add-on-Updates aktivieren oder deaktivieren
 
+policy-Handlers = Standardanwendungen für das Öffnen von Dateien, Protokollen und MIME-Typen festlegen
+
 policy-HardwareAcceleration = Hardwarebeschleunigung deaktiviert, falls false
 
 policy-InstallAddonsPermission = Add-on-Installation von festgelegten Websites erlauben
@@ -99,6 +105,8 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Veraltetes Cookie-Verh
 ##
 
 policy-LocalFileLinks = Festgelegten Websites Zugriff auf lokale Dateien erlauben
+
+policy-ManualAppUpdateOnly = Nur manuelle Updates erlauben und den Benutzer nicht über Updates benachrichtigen.
 
 policy-NetworkPrediction = Spekulative DNS-Abfragen für noch nicht angeforderte Ressourcen ("DNS-Prefetching") aktivieren oder deaktivieren
 
@@ -118,6 +126,8 @@ policy-PDFjs = Eingebauten PDF-Betrachter von { -brand-short-name } (PDF.js) dea
 policy-Permissions2 = Berechtigungen für Kamera, Mikrofon, Standort, Benachrichtigungen und automatische Wiedergabe festlegen
 
 policy-Preferences = Werte von bestimmten Einstellungen festlegen und Änderungen daran verhindern
+
+policy-PrimaryPassword = Benutzung eines Hauptpassworts erfordern oder verhindern
 
 policy-PromptForDownloadLocation = Für gestartete Downloads nach Speicherort fragen
 
