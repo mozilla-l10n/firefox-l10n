@@ -10,20 +10,19 @@
 
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
-    .placeholder = Dagdag na Tab
-
-pocket-panel-saved-error-generic = May pagkakamali nung sinusubukang I-save sa { -pocket-brand-name }.
+    .placeholder = Magdagdag ng mga Tag
+pocket-panel-saved-error-generic = Nagkaroon ng error nung sinusubukang I-save sa { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Tags ay limitado sa 25 characters
 pocket-panel-saved-error-only-links = Tanging mga link lamang ay maaaring i-save
 pocket-panel-saved-error-not-saved = Pahina ay hindi na I-save
 pocket-panel-saved-error-no-internet = Kailangang konektado ka sa internet upang ito ay masave sa { -pocket-brand-name }. Pakitingnan ang iyong koneksyon at subukan uli.
-pocket-panel-saved-page-removed = Pahina ay na Tanggal
+pocket-panel-saved-page-removed = Inalis ang Pahina
 pocket-panel-saved-page-saved = I-save sa { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Inaalis ang Pahina…
 pocket-panel-saved-processing-tags = Dinadagdagan ang tanda...
 pocket-panel-saved-remove-page = Alisin ang Pahina
 pocket-panel-saved-save-tags = I-save
-pocket-panel-saved-saving-tags = Saving…
+pocket-panel-saved-saving-tags = Nagsasave…
 pocket-panel-saved-suggested-tags = Iminungkahing Tanda
 pocket-panel-saved-tags-saved = Tags Naidagdag
 pocket-panel-signup-view-list = Tingnan ang Listahan
