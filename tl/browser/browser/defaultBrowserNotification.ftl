@@ -12,5 +12,6 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
+default-browser-prompt-title-pin = Gawing pangunahing browser ang { -brand-short-name }?
 default-browser-prompt-button-primary-pin = Gawing pangunahing browser
 default-browser-prompt-button-secondary = Hindi ngayon
