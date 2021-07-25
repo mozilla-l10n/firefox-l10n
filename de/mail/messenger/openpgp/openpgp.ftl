@@ -7,6 +7,17 @@ e2e-intro-description = Um Nachrichten zu verschlüsseln oder digital zu untersc
 
 e2e-intro-description-more = Wählen Sie Ihren persönlichen Schlüssel für die Verwendung von OpenPGP oder Ihr persönliches Zertifikat für S/MIME. Für einen persönlichen Schlüssel oder ein persönliches Zertifikat verfügen Sie über den entsprechenden geheimen Schlüssel.
 
+e2e-advanced-section = Erweiterte Einstellungen
+e2e-attach-key =
+    .label = Automatisch meinen öffentlichen Schlüssel anhängen, wenn ich eine digitale Unterschrift für OpenPGP hinzufüge
+    .accesskey = A
+e2e-encrypt-subject =
+    .label = Betreff von OpenPGP-Nachrichten verschlüsseln
+    .accesskey = B
+e2e-encrypt-drafts =
+    .label = Nachrichtenentwürfe verschlüsselt speichern
+    .accesskey = N
+
 openpgp-key-user-id-label = Konto / Benutzerkennung
 openpgp-keygen-title-label =
     .title = OpenGPG-Schlüssel erzeugen

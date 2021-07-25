@@ -50,6 +50,10 @@
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Derzeit kann diese Einstellung nur aktiviert werden, nachdem der Kalender in seinen Einstellungen entsprechend konfiguriert wurde und der Kalenderserver das Versenden übernimmt.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Diese Einstellung ist nur verfügbar, falls der Kalenderserver das Versenden übernimmt. Das Aktivieren ermöglicht das normale Versenden von E-Mails anstatt dem Versenden durch den Server, falls es bei Letzterem zu Problemen kommt.">
 
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Benachrichtigungen">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Globale Benachrichtigungseinstellungen…">
+
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                        "Akzeptieren">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                 "Termineinladung akzeptieren">
