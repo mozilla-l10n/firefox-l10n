@@ -248,13 +248,25 @@ onboarding-multistage-theme-description-alpenglow =
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Pantilihin sa Dock
+       *[other] I-pin sa taskbar
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Magsimula
+mr1-onboarding-welcome-header = Maligayang pagdating sa { -brand-short-name }
+mr1-onboarding-sign-in-button-label = Mag-sign in
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-primary-button-label = Gawing default browser
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
