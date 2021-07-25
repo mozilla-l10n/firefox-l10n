@@ -149,3 +149,6 @@ repair-text-encoding-button =
 
 ## no-reply handling
 
+no-reply-title = Antwort nicht unterstützt
+no-reply-message = Nachrichten an die Antwortadresse ({ $email }) werden wahrscheinlich von niemandem gelesen.
+no-reply-reply-anyway-button = Trotzdem antworten

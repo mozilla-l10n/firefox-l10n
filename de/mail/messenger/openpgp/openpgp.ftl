@@ -695,6 +695,13 @@ possibly-pgp-mime = Eventuell mit PGP/MIME verschlüsselte oder unterschriebene 
 cannot-send-sig-because-no-own-key = Die Nachricht kann nicht digital unterschrieben werden, da Sie noch keine Ende-zu-Ende-Verschlüsselung für <{ $key }> eingerichtet haben.
 cannot-send-enc-because-no-own-key = Die Nachricht kann nicht verschlüsselt gesendet werden, da Sie noch keine Ende-zu-Ende-Verschlüsselung für <{ $key }> eingerichtet haben.
 
+compose-menu-attach-key =
+    .label = Meinen öffentlichen Schlüssel anhängen
+    .accesskey = M
+compose-menu-encrypt-subject =
+    .label = Betreff verschlüsseln
+    .accesskey = B
+
 # Strings used in decryption.jsm
 do-import-multiple =
     Sollen die folgenden Schlüssel importiert werden?

@@ -150,6 +150,8 @@ account-setup-step4-image =
 account-setup-step5-image =
     .title = Konto hinzugefügt
 
+account-setup-privacy-footnote2 = Ihre Zugangsdaten werden nur lokal auf Ihrem Computer gespeichert.
+
 account-setup-selection-help = Nicht sicher, was ausgewählt werden soll?
 
 account-setup-selection-error = Benötigen Sie Hilfe?
@@ -159,6 +161,8 @@ account-setup-success-help = Nicht sicher, was als Nächstes kommt?
 account-setup-documentation-help = Dokumentation zur Einrichtung
 
 account-setup-forum-help = Hilfeforum
+
+account-setup-privacy-help = Datenschutzerklärung
 
 account-setup-getting-started = Einführung
 
@@ -184,6 +188,9 @@ account-setup-result-pop-description = Ordner und E-Mails auf dem Computer speic
 
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
+
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Microsoft-Exchange-Server oder Office365-Cloud-Dienste verwenden
 
 account-setup-incoming-title = Posteingangs-Server
 
