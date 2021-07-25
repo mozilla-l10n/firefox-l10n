@@ -248,6 +248,12 @@ onboarding-multistage-theme-description-alpenglow =
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Panatilihin ang { -brand-short-name } sa iyong Dock para sa madaling pag-access
+       *[other] I-pin ang { -brand-short-name } sa iyong taskbar para sa madaling pag-access
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->

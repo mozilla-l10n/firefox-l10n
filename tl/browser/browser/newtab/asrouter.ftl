@@ -257,5 +257,6 @@ cfr-doorhanger-fission-secondary-button = Alamin
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-header = I-update ang { -brand-short-name } upang mapanood ang video
 cfr-doorhanger-video-support-primary-button = Mag-update Na
     .accesskey = u
