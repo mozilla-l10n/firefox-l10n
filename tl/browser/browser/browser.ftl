@@ -558,9 +558,15 @@ pointerlock-warning-no-domain = Ang dokumentong ito ay may kontrol sa iyong poin
 
 crashed-subframe-learnmore-link =
     .value = Alamin
+crashed-subframe-submit =
+    .label = Magsumite ng ulat
+    .accesskey = s
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = I-manage ang mga bookmark
+bookmarks-recent-bookmarks-panel-subheader = Mga bookmark kamakailan
 bookmarks-toolbar-chevron =
     .tooltiptext = Magpakita ng karagdagang mga bookmark
 bookmarks-sidebar-content =
@@ -660,6 +666,7 @@ more-menu-go-offline =
 eme-notifications-drm-content-playing = Ang ilang mga audio o video sa site na ito ay gumagamit ng software na DRM, na maaaring limitahan ang { -brand-short-name } sa kung ano ang maaaring mong gawin dito.
 eme-notifications-drm-content-playing-manage = I-manage ang mga setting
 eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Alisin
 eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel

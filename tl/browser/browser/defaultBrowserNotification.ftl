@@ -14,4 +14,5 @@ default-browser-notification-button =
 
 default-browser-prompt-title-pin = Gawing pangunahing browser ang { -brand-short-name }?
 default-browser-prompt-button-primary-pin = Gawing pangunahing browser
+default-browser-prompt-button-primary-alt = Itakda bilang default browser
 default-browser-prompt-button-secondary = Hindi ngayon

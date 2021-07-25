@@ -38,20 +38,16 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Isara ang { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Lumabas { -brand-shorter-name }
-
 menu-about =
     .label = Tungkol sa { -brand-shorter-name }
     .accesskey = A
@@ -219,7 +215,6 @@ menu-history-undo-menu =
     .label = Mga Naisarang Tab
 menu-history-undo-window-menu =
     .label = Mga Isinarang Window Kamakailan
-
 menu-history-reopen-all-tabs = Muling Buksan ang Lahat ng mga Tab
 menu-history-reopen-all-windows = Muling buksan ang Lahat ng mga Window
 
@@ -232,6 +227,8 @@ menu-bookmarks-show-all =
     .label = Ipakita Lahat ng mga Bookmark
 menu-bookmark-this-page =
     .label = i-Bookmark ang Pahinang Ito
+menu-bookmark-current-tab =
+    .label = I-bookmark ang Kasalukuyang Tab
 menu-bookmark-edit =
     .label = i-Edit ang bookmark na ito
 menu-bookmarks-all-tabs =
@@ -260,6 +257,15 @@ menu-tools-fxa-sign-in =
 menu-tools-turn-on-sync =
     .label = Buksan ang { -sync-brand-short-name }…
     .accesskey = n
+menu-tools-addons-and-themes =
+    .label = Mga Add-on at Tema
+    .accesskey = A
+menu-tools-fxa-sign-in2 =
+    .label = Mag-sign In
+    .accesskey = g
+menu-tools-turn-on-sync2 =
+    .label = Buksan ang Sync…
+    .accesskey = n
 menu-tools-sync-now =
     .label = Mag-sync Na
     .accesskey = S
@@ -269,6 +275,9 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Web Developer
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Mga Kagamitan ng Browser
+    .accesskey = B
 menu-tools-task-manager =
     .label = Task Manager
     .accesskey = M
@@ -287,6 +296,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = Mga setting
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -343,6 +359,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Mag-restart nang Naka-enable ang mga Add-on
     .accesskey = R
+menu-help-enter-troubleshoot-mode2 =
+    .label = Troubleshoot Mode…
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
