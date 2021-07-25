@@ -35,9 +35,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Tampon boyutu:
-
 perftools-custom-threads-label = Ada göre özel iş parçacığı ekle:
-
 perftools-devtools-interval-label = Aralık:
 perftools-devtools-threads-label = İş parçacıkları:
 perftools-devtools-settings-label = Ayarlar
@@ -92,11 +90,12 @@ perftools-thread-dns-resolver =
     .title = DNS çözümleme bu iş parçacığında gerçekleşir
 perftools-thread-js-helper =
     .title = JS engine background work such as off-main-thread compiles
+perftools-thread-task-controller =
+    .title = TaskController iş parçacığı havuzu iş parçacıkları
 
 ##
 
 perftools-record-all-registered-threads = Yukarıdaki seçimleri atla ve tüm kayıtlı iş parçacıklarını kaydet
-
 perftools-tools-threads-input-label =
     .title = Bu iş parçacığı adları, profilleyicide profili çıkarılacak iş parçacıklarının virgülle ayrılmış listesidir. İç parçacığı adının dahil edilmesi için kısmi eşleşme olması yeterlidir. Adlar boşluk karakterine duyarlıdır.
 
@@ -105,9 +104,7 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Yeni</b>: { -profiler-brand-name } artık geliştirici araçlarına entegre edildi. Bu güçlü yeni araç hakkında <a>daha fazla bilgi edinin</a>.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Sınırlı bir süre için <a>{ options-context-advanced-settings }</a> aracılığıyla eski Performans paneline erişebilirsiniz.)
-
 perftools-onboarding-close-button =
     .aria-label = Tanıtım mesajını kapat
