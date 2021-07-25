@@ -273,11 +273,20 @@ mr1-onboarding-sign-in-button-label = Mag-sign in
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = Gawin mong default ang { -brand-short-name }
 mr1-onboarding-default-primary-button-label = Gawing default browser
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Mag-import mula sa { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = Mag-import mula sa nakaraang browser
 mr1-onboarding-theme-primary-button-label = I-save ang tema
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Tema ng system
 mr1-onboarding-theme-label-light = Maliwanag
 mr1-onboarding-theme-label-dark = Madilim
 # "Alpenglow" here is the name of the theme, and should be kept in English.

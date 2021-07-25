@@ -28,6 +28,7 @@ search-input-box =
             [windows] Hanapin sa Mga Pagpipilian
            *[other] Hanapin sa Mga Kagustuhan
         }
+settings-page-title = Mga setting
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -57,6 +58,9 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-sync-title3 = Sync
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = Mga { -brand-short-name } Experiment
 category-experimental =
     .tooltiptext = Mga { -brand-short-name } Experiment
@@ -386,7 +390,7 @@ update-application-manual =
     .label = Huwag kailanman mag-check kung may mga update (hindi rekomendado)
     .accesskey = N
 update-application-background-enabled =
-    .label = Kapag ang { -brand-short-name } ay hindi nagrurun
+    .label = Kapag ang { -brand-short-name } ay hindi tumatakbo
     .accesskey = K
 update-application-warning-cross-user-setting = Ang setting na ito ay gagamitin sa lahat ng mga Windows account at { -brand-short-name } profile na gumagamit ng installation na ito ng { -brand-short-name }.
 update-application-use-service =
