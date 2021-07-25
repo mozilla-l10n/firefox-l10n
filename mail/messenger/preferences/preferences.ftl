@@ -351,6 +351,10 @@ offline-compact-folder =
 compact-folder-size =
     .value = MB
 
+offline-compact-folder-automatically =
+    .label = Nachfragen vor jedem Komprimieren
+    .accesskey = N
+    
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after

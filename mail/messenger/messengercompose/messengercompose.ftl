@@ -192,7 +192,6 @@ many-public-recipients-ignore =
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Es wurde keine Identität gefunden, welche mit der E-Mail-Adresse im "Von"-Feld übereinstimmt. Die Nachricht wird mit der derzeit im "Von"-Feld eingegebenen Adresse und den Einstellungen von { $identity } gesendet.
 
-## Editing
+encrypted-bcc-warning = Beim Senden einer verschlüsselten Nachricht sind die Empfänger in der Blindkopie (BCC) nicht vollständig verborgen. Jeder Empfänger kann sie identifizieren.
 
-# Tools
-
+encrypted-bcc-ignore-button = OK
