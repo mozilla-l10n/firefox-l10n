@@ -28,6 +28,17 @@ search-input-box =
             [windows] Hanapin sa Mga Pagpipilian
            *[other] Hanapin sa Mga Kagustuhan
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Hanapin sa Mga Setting
 managed-notice = Ang iyong browser ay mina-manage ng iyong organisasyon.
 category-list =
     .aria-label = Mga Kategorya
@@ -779,7 +790,7 @@ privacy-header = Browser Privacy
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Mga Login at mga Password
+pane-privacy-logins-and-passwords-header = Mga Login at Password
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
