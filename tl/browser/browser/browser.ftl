@@ -556,6 +556,8 @@ pointerlock-warning-no-domain = Ang dokumentong ito ay may kontrol sa iyong poin
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore-link =
+    .value = Alamin
 
 ## Bookmarks panels, menus and toolbar
 
@@ -580,6 +582,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
         { $isVisible ->
             [true] Itago ang Bookmark Toolbar
            *[other] Ipakita ang Bookmark Sidebar
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Itago ang bookmarks toolbar
+           *[other] Ipakita ang bookmarks toolbar
         }
 bookmarks-tools-menu-button-visibility =
     .label =
@@ -606,6 +614,9 @@ bookmarks-toolbar-placeholder =
     .title = Mga nakalagay sa Bookmark Toolbar
 bookmarks-toolbar-placeholder-button =
     .label = Mga nakalagay sa Bookmark Toolbar
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = I-bookmark ang kasalukuyang tab
 
 ## Library Panel items
 
@@ -623,6 +634,11 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open the add-ons manager
+toolbar-addons-themes-button =
+    .label = Mga add-on at tema
+    .tooltiptext = I-manage ang iyong mga add-on at tema ({ $shortcut })
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -642,6 +658,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Ang ilang mga audio o video sa site na ito ay gumagamit ng software na DRM, na maaaring limitahan ang { -brand-short-name } sa kung ano ang maaaring mong gawin dito.
+eme-notifications-drm-content-playing-manage = I-manage ang mga setting
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss-accesskey = D
 
