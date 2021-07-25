@@ -362,6 +362,9 @@ menu-help-safe-mode-with-addons =
 menu-help-enter-troubleshoot-mode2 =
     .label = Troubleshoot Mode…
     .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Isara ang Troubleshoot Mode
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

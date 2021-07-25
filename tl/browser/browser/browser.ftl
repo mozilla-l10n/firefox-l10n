@@ -343,6 +343,8 @@ browser-tab-audio-playing2 = TUMUTUGTOG
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = MUTED
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = HINARANG ANG AUTOPLAY
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
 
 ## These labels should be written in all capital letters if your locale supports them.
@@ -628,6 +630,8 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Mga bookmark
+library-recent-activity-title =
+    .value = Aktibidad Kamakailan
 
 ## Pocket toolbar button
 

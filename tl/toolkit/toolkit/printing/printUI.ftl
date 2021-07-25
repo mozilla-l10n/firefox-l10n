@@ -115,6 +115,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Ang sukatan ay dapat isang bilang sa pagitan ng 10 at 200.
 printui-error-invalid-margin = Pakilagyan ng wastong palugit para sa napiling laki ng papel.
+printui-error-invalid-copies = Ang mga kopya dapat ay isang bilang mula 1 at 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Ang saklaw ay dapat isang bilang sa pagitan ng 1 at { $numPages }.

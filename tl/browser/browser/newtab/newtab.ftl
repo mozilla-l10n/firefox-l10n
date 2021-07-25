@@ -228,6 +228,7 @@ newtab-error-fallback-refresh-link = I-refresh ang pahina para masubukan uli.
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Mga shortcut
+newtab-custom-shortcuts-subtitle = Mga site na nai-save o binibisita mo
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } row

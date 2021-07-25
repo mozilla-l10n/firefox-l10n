@@ -12,6 +12,7 @@
 pocket-panel-saved-add-tags =
     .placeholder = Magdagdag ng mga Tag
 pocket-panel-saved-error-generic = Nagkaroon ng error nung sinusubukang I-save sa { -pocket-brand-name }.
+pocket-panel-saved-error-tag-length = Limitado ang mga tag sa 25 character
 pocket-panel-saved-error-only-links = Tanging mga link lamang ay maaaring i-save
 pocket-panel-saved-error-not-saved = Pahina ay hindi na I-save
 pocket-panel-saved-error-no-internet = Kailangang konektado ka sa internet upang ito ay masave sa { -pocket-brand-name }. Pakitingnan ang iyong koneksyon at subukan uli.

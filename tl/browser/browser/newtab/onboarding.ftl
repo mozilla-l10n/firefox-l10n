@@ -167,6 +167,7 @@ onboarding-multistage-welcome-primary-button-label = Simulan ang Setup
 onboarding-multistage-welcome-secondary-button-label = Mag-sign in
 onboarding-multistage-welcome-secondary-button-text = May account na?
 onboarding-multistage-set-default-primary-button-label = Gawing Default
+onboarding-multistage-set-default-secondary-button-label = Hindi sa ngayon
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Mag-import ng iyong mga password, <br/>bookmark, at <span data-l10n-name="zap">marami pang iba</span>
@@ -276,9 +277,24 @@ mr1-onboarding-default-primary-button-label = Gawing default browser
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-theme-primary-button-label = I-save ang tema
+mr1-onboarding-theme-label-light = Maliwanag
+mr1-onboarding-theme-label-dark = Madilim
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        Sundin ang tema ng operating system
+        para sa mga pindutan, menu, at window.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        Sundin ang tema ng operating system
+        para sa mga pindutan, menu, at window.
