@@ -259,6 +259,28 @@ account-setup-existing-address-book = Conectada
     .title = Axenda de enderezos xa conectada
 account-setup-existing-calendar = Conectado
     .title = Calendario xa conectado
+account-setup-connect-all-calendars = Conectar todos os calendarios
+account-setup-connect-all-address-books = Conectar todas as axendas de enderezos
 
 ## Calendar synchronization dialog
 
+calendar-dialog-title = Conectar o calendario
+calendar-dialog-cancel-button = Cancelar
+    .accesskey = C
+calendar-dialog-confirm-button = Conectar
+    .accesskey = n
+account-setup-calendar-name-label = Nome
+account-setup-calendar-name-input =
+    .placeholder = Meu calendario
+account-setup-calendar-color-label = Cor
+account-setup-calendar-refresh-label = Actualizar
+account-setup-calendar-refresh-manual = Manualmente
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] A cada minuto
+       *[other] A cada { $count } minutos
+    }
+account-setup-calendar-read-only = Só de lectura
+    .accesskey = r
+account-setup-calendar-show-reminders = Amosar recordatorios
+    .accesskey = s
