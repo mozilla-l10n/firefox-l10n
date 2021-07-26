@@ -163,19 +163,35 @@ protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
 protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = Nome do servidor:
+account-setup-port-label = Porto:
+    .title = Defina o número do porto como 0 para a detección automática
+account-setup-auto-description = O { -brand-short-name } tentará detectar automaticamente os campos que deixe en branco.
+account-setup-ssl-label = Seguranza da conexión:
+account-setup-outgoing-server-legend = Servidor saínte
 
 ## Incoming/Outgoing SSL Authentication options
 
 ssl-autodetect-option = Detectar automaticamente
+ssl-no-authentication-option = Sen autenticación
+ssl-cleartext-password-option = Contrasinal normal
+ssl-encrypted-password-option = Contrasinal cifrado
 
 ## Incoming/Outgoing SSL options
 
 ssl-noencryption-option = Ningún
+account-setup-auth-label = Método de autenticación:
+account-setup-username-label = Nome de usuario:
 account-setup-advanced-setup-button = Configuración avanzada
     .accesskey = a
 
 ## Warning insecure server dialog
 
+account-setup-insecure-title = Aviso!
+account-setup-insecure-incoming-title = Configuración entrante:
+account-setup-insecure-outgoing-title = Configuración saínte:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> non usa cifraxe.
 account-setup-insecure-server-checkbox = Eu comprendo os riscos
     .accesskey = u
 
