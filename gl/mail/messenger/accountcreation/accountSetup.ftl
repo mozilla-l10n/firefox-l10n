@@ -284,3 +284,5 @@ account-setup-calendar-read-only = Só de lectura
     .accesskey = r
 account-setup-calendar-show-reminders = Amosar recordatorios
     .accesskey = s
+account-setup-calendar-offline-support = Compatíbel co modo sen conexión
+    .accesskey = o
