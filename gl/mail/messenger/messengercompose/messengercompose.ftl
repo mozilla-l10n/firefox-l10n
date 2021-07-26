@@ -163,6 +163,9 @@ many-public-recipients-ignore =
 
 ## Notifications
 
+# Variables:
+# $identity (string) - The name of the used identity, most likely an email address.
+compose-missing-identity-warning = Non se atopou unha identidade única que coincida co enderezo «De». A mensaxe enviarase usando o campo «De» actual e a configuración da identidade { $identidade }.
 
 ## Editing
 
