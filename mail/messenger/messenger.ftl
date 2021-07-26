@@ -15,9 +15,22 @@ about-rights-notification-text = O { -brand-short-name } é un software libre de
 
 content-tab-page-loading-icon =
     .alt = A páxina está cargándose
+content-tab-security-high-icon =
+    .alt = A conexión é segura
+content-tab-security-broken-icon =
+    .alt = A conexión non é segura
 
 ## Toolbar
 
+addons-and-themes-toolbarbutton =
+    .label = Complementos e temas
+    .tooltiptext = Xestionar os complementos e temas
+quick-filter-toolbarbutton =
+    .label = Filtro rápido
+    .tooltiptext = Filtrar mensaxes
+redirect-msg-button =
+    .label = Redirixir
+    .tooltiptext = Redirixir as mensaxes seleccionadas
 
 ## Folder Pane
 
@@ -54,6 +67,9 @@ folder-toolbar-toggle-folder-compact-view =
 
 ## Menu
 
+redirect-msg-menuitem =
+    .label = Redirixir
+    .accesskey = d
 
 ## AppMenu
 
@@ -69,12 +85,18 @@ appmenu-help-exit-troubleshoot-mode =
     .label = Desactivar o modo de resolución de problemas
 appmenu-help-more-troubleshooting-info =
     .label = Máis información para solucionar problemas
+appmenu-redirect-msg =
+    .label = Redirixir
 
 ## Context menu
 
+context-menu-redirect-msg =
+    .label = Redirixir
 
 ## Message header pane
 
+other-action-redirect-msg =
+    .label = Redirixir
 
 ## Action Button Context Menu
 
@@ -99,6 +121,13 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Retirar { $name }?
 addon-removal-confirmation-button = Retirar
 addon-removal-confirmation-message = Quere eliminar { $name } xunto coa súa configuración e datos do { -brand-short-name }?
+caret-browsing-prompt-title = Navegación co cursor do teclado
+caret-browsing-prompt-text = Premendo F7 activa ou desactiva a navegación co cursor do teclado. Esta funcionalidade coloca un cursor móbil dentro dalgún contido, permitíndolle seleccionar texto co teclado. Quere activar a navegación co cursor do teclado?
+caret-browsing-prompt-check-text = Non preguntar de novo.
+repair-text-encoding-button =
+    .label = Reparar a codificación do texto
+    .tooltiptext = Adiviñar a codificación de texto correcta a partir do contido da mensaxe
 
 ## no-reply handling
 
+no-reply-title = A resposta non é compatíbel
