@@ -196,18 +196,38 @@ account-setup-warning-cleartext-details = Os servidores de correo inseguros non 
 account-setup-insecure-server-checkbox = Eu comprendo os riscos
     .accesskey = u
 account-setup-insecure-description = { -brand-short-name } pode axudarlle a obter o seu correo coa configuración axeitada. No entanto, debería consultarlle ao seu administrador ou fornecedor de correo sobre estas conexións incorrectas. Consulte as <a data-l10n-name="thunderbird-faq-link">Preguntas frecuentes do Thunderbird</a> para máis información.
+insecure-dialog-cancel-button = Cambiar a configuración
+    .accesskey = f
+insecure-dialog-confirm-button = Confirmar
+    .accesskey = C
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = O { -brand-short-name } atopou a información de configuración da súa conta en { $domain }. Desexa continuar e enviar as súas credenciais?
+exchange-dialog-confirm-button = Identificarse
+exchange-dialog-cancel-button = Cancelar
 
 ## Alert dialogs
 
+account-setup-creation-error-title = Produciuse un erro ao crear a conta
+account-setup-error-server-exists = O servidor entrante xa existe.
+account-setup-confirm-advanced-title = Confirmar a configuración avanzada
+account-setup-confirm-advanced-description = Este diálogo pecharase e crearase unha conta coa configuración actual, mesmo que a configuración sexa incorrecta. Desexa continuar?
 
 ## Addon installation section
 
+account-setup-addon-install-title = Instalar
+account-setup-addon-install-intro = Un complemento de terceiros pode permitirlle acceder á súa conta de correo electrónico neste servidor:
+account-setup-addon-no-protocol = Por desgraza, este servidor de correo non admite protocolos abertos. { account-setup-addon-install-intro }
 
 ## Success view
 
+account-setup-settings-button = Configuración da conta
+account-setup-encryption-button = Cifraxe de extremo a extremo
+account-setup-signature-button = Engadir unha sinatura
+account-setup-dictionaries-button = Descargar dicionarios
 
 ## Calendar synchronization dialog
 
