@@ -192,8 +192,10 @@ account-setup-insecure-outgoing-title = Configuración saínte:
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = <b>{ $server }</b> non usa cifraxe.
+account-setup-warning-cleartext-details = Os servidores de correo inseguros non usan conexións cifradas que protexan o seu contrasinal e información privada. Se se conecta a este servidor podería expoñer o seu contrasinal e información privada.
 account-setup-insecure-server-checkbox = Eu comprendo os riscos
     .accesskey = u
+account-setup-insecure-description = { -brand-short-name } pode axudarlle a obter o seu correo coa configuración axeitada. No entanto, debería consultarlle ao seu administrador ou fornecedor de correo sobre estas conexións incorrectas. Consulte as <a data-l10n-name="thunderbird-faq-link">Preguntas frecuentes do Thunderbird</a> para máis información.
 
 ## Warning Exchange confirmation dialog
 
