@@ -131,3 +131,5 @@ repair-text-encoding-button =
 ## no-reply handling
 
 no-reply-title = A resposta non é compatíbel
+no-reply-message = O enderezo de resposta ({ $email }) parece non ser un enderezo atendido. É probábel que ninguén lea as mensaxes enviadas a este enderezo.
+no-reply-reply-anyway-button = Responder de todos os xeitos
