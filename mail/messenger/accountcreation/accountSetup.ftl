@@ -110,9 +110,18 @@ account-setup-selection-error = Precisa axuda?
 account-setup-success-help = Non sabe como continuar?
 account-setup-documentation-help = Documentación de configuración
 account-setup-forum-help = Foro de asistencia
+account-setup-privacy-help = Política de privacidade
+account-setup-getting-started = Primeiros pasos
 
 ## Results area
 
+# Variables:
+#  $count (Number) - Number of available protocols.
+account-setup-results-area-title =
+    { $count ->
+        [one] Configuración dispoñíbel
+       *[other] Configuracións dispoñíbeis
+    }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
 account-setup-result-imap-description = Gardar os seus cartafoles e correos electrónicos sincronizados co servidor
@@ -121,10 +130,21 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Gardar os seus cartafoles e correos electrónicos no seu computador
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Use o servidor Microsoft Exchange ou os servizos na nube do Office365
 account-setup-incoming-title = Entrante
 account-setup-outgoing-title = Saínte
 account-setup-username-title = Nome de usuario
 account-setup-exchange-title = Servidor
+account-setup-result-smtp = SMTP
+account-setup-result-no-encryption = Sen cifraxe
+account-setup-result-ssl = SSL/TLS
+account-setup-result-starttls = STARTTLS
+account-setup-result-outgoing-existing = Usar un servidor SMTP saínte existente
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Entrante: { $incoming }, saínte: { $outgoing }
 
 ## Error messages
 
@@ -137,8 +157,12 @@ account-setup-exchange-config-unverifiable = Non se puido verificar a configurac
 ## Manual configuration area
 
 account-setup-manual-config-title = Configuración do servidor
+account-setup-incoming-server-legend = Servidor entrante
+account-setup-protocol-label = Protocolo:
 protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
+protocol-exchange-option = { account-setup-result-exchange }
+account-setup-hostname-label = Nome do servidor:
 
 ## Incoming/Outgoing SSL Authentication options
 
