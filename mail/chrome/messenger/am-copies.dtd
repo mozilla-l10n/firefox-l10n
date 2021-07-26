@@ -15,7 +15,7 @@
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Separar os enderezos con vírgulas">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc para estes enderezos de correo:">
+<!ENTITY bccAddress.label "Cco para estes enderezos de correo:">
 <!ENTITY bccAddress.accesskey "e">
 <!ENTITY bccAddressList.placeholder "Separar os enderezos con vírgulas">
 <!ENTITY saveMessageDlg.label "Amosar unha caixa de diálogo de confirmación ao gardar mensaxes">
