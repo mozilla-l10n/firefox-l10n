@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ### The term "Service Workers" and "Workers" should not be translated
+
 
 ## These strings are for showing the information of workers.
 ##
@@ -10,3 +12,5 @@
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
+push-end-point-result = <strong>Push Endpynt:</strong> { $name }
+waiting = Waitin...
