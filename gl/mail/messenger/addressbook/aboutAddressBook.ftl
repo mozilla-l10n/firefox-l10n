@@ -64,6 +64,31 @@ about-addressbook-sort-email-ascending =
 about-addressbook-sort-email-descending =
     .label = Ordenar por enderezo de correo electrónico (Z > A)
 about-addressbook-confirm-delete-mixed-title = Eliminar os contactos e as listas
+# Variables:
+# $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
+about-addressbook-confirm-delete-mixed = Desexa realmente eliminar estes { $count } contactos e listas?
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+about-addressbook-confirm-delete-lists-title =
+    { $count ->
+        [one] Eliminar a lista
+       *[other] Eliminar as listas
+    }
+# Variables:
+# $count (Number) - The number of lists to be deleted.
+# $name (String) - The name of the list to be deleted, if $count is 1.
+about-addressbook-confirm-delete-lists =
+    { $count ->
+        [one] Desexa realmente eliminar a lista { $name }?
+       *[other] Desexa realmente eliminar estas { $count } listas?
+    }
+# Variables:
+# $count (Number) - The number of contacts to be removed.
+about-addressbook-confirm-remove-contacts-title =
+    { $count ->
+        [one] Retirar o contacto
+       *[other] Retirar os contactos
+    }
 
 ## Details
 
