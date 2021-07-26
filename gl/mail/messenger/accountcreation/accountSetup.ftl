@@ -228,6 +228,37 @@ account-setup-settings-button = Configuración da conta
 account-setup-encryption-button = Cifraxe de extremo a extremo
 account-setup-signature-button = Engadir unha sinatura
 account-setup-dictionaries-button = Descargar dicionarios
+account-setup-address-book-carddav-button = Conectarse a unha axenda de enderezos CardDAV
+account-setup-address-book-ldap-button = Conectarse a unha axenda de enderezos LDAP
+account-setup-calendar-button = Conectarse a un calendario remoto
+account-setup-linked-services-title = Conectar seus servizos ligados
+account-setup-linked-services-description = O { -brand-short-name } detectou outros servizos ligados á súa conta de correo electrónico.
+account-setup-no-linked-description = Configurar outros servizos para aproveitar ao máximo súa experiencia de uso do { -brand-short-name }.
+# Variables:
+# $count (Number) - The number of address books found during autoconfig.
+account-setup-found-address-books-description =
+    { $count ->
+        [one] { -brand-short-name } atopou unha axenda de enderezos ligada á súa conta de correo electrónico.
+       *[other] { -brand-short-name } atopou { $count } axendas de enderezos ligadas á súa conta de correo electrónico.
+    }
+# Variables:
+# $count (Number) - The number of calendars found during autoconfig.
+account-setup-found-calendars-description =
+    { $count ->
+        [one] { -brand-short-name } atopou un calendario ligado á súa conta de correo electrónico.
+       *[other] { -brand-short-name } atopou { $count } calendarios ligados á súa conta de correo electrónico.
+    }
+account-setup-button-finish = Finalizar
+    .accesskey = F
+account-setup-looking-up-address-books = Buscando axendas de enderezos ...
+account-setup-looking-up-calendars = Buscando calendarios ...
+account-setup-address-books-button = Axendas de enderezos
+account-setup-calendars-button = Calendarios
+account-setup-connect-link = Conectar
+account-setup-existing-address-book = Conectada
+    .title = Axenda de enderezos xa conectada
+account-setup-existing-calendar = Conectado
+    .title = Calendario xa conectado
 
 ## Calendar synchronization dialog
 
