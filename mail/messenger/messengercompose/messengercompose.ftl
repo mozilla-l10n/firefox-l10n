@@ -166,9 +166,13 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Non se atopou unha identidade única que coincida co enderezo «De». A mensaxe enviarase usando o campo «De» actual e a configuración da identidade { $identidade }.
+encrypted-bcc-warning = Ao enviar unha mensaxe cifrada, os destinatarios en «Cco» non están completamente ocultos. É posible que os outros destinatarios poidan identificalos.
+encrypted-bcc-ignore-button = Entendido
 
 ## Editing
 
 
 # Tools
 
+compose-tool-button-remove-text-styling =
+    .tooltiptext = Retirar o estilo do texto
