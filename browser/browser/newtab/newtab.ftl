@@ -47,6 +47,7 @@ newtab-search-box-search-the-web-input =
     .title = Cerca sul Web
     .aria-label = Cerca sul Web
 
+newtab-search-box-text = Cerca sul Web
 newtab-search-box-input =
     .placeholder = Cerca sul Web
     .aria-label = Cerca sul Web
