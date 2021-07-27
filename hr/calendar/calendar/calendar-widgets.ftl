@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Svi kalendari su trenutno onemogućeni. Omogućite postojeći kalendar ili dodajte novi za stvaranje i uređivanje događaja.
 calendar-deactivated-notification-tasks = Svi kalendari su trenutno onemogućeni. Omogućite postojeći kalendar ili dodajte novi za stvaranje i uređivanje zadataka.
+calendar-notifications-label = Prikaži obavijesti za nadolazeće događaje
+calendar-add-notification-button =
+    .label = Dodaj obavijest
