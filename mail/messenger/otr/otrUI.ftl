@@ -66,3 +66,11 @@ afterauth-unverified = Non se verificou a identidade de { $name }.
 verify-title = Verificar a identidade do seu contacto
 error-title = Erro
 success-title = Cifraxe de extremo a extremo
+successThem-title = Verificar a identidade do seu contacto
+success-them-title = Verificar a identidade do seu contacto
+fail-title = Non se puido verificar
+waiting-title = Enviouse a solicitude de verificación
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Non se puido xerar a chave privada OTR: { $error }
