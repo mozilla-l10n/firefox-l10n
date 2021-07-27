@@ -19,7 +19,7 @@ finger-verify = Verificar
 finger-verify-accessKey = V
 finger-verify-access-key = V
 # Do not translate 'OTR' (name of an encryption protocol)
-buddycontextmenu-label = Engadir unha pegada dixital dunha chave OTR
+buddycontextmenu-label = Engadir unha impresión dixital dunha chave OTR
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-start = Tentando iniciar unha conversa cifrada con { $name }.
