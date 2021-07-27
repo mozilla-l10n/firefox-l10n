@@ -5,85 +5,65 @@
 permissions-window =
     .title = Exceções
     .style = width: 45em
-
 permissions-close-key =
     .key = W
-
 permissions-address = Endereço do site
     .accesskey = e
-
 permissions-block =
     .label = Bloquear
     .accesskey = B
-
 permissions-session =
     .label = Permitir nesta sessão
     .accesskey = n
-
 permissions-allow =
     .label = Permitir
     .accesskey = P
-
 permissions-button-off =
     .label = Desativar
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Desativar temporariamente
     .accesskey = t
-
 permissions-site-name =
     .label = Site
-
 permissions-status =
     .label = Estado
-
 permissions-remove =
     .label = Remover site
     .accesskey = R
-
 permissions-remove-all =
     .label = Remover todos os sites
     .accesskey = t
-
 permissions-button-cancel =
     .label = Cancelar
     .accesskey = C
-
 permissions-button-ok =
     .label = Salvar alterações
     .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Salvar alterações
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Padrão em todos os sites:
-
 permissions-searchbox =
     .placeholder = Pesquisar sites
-
 permissions-capabilities-autoplay-allow =
     .label = Permitir áudio e vídeo
 permissions-capabilities-autoplay-block =
     .label = Bloquear áudio
 permissions-capabilities-autoplay-blockall =
     .label = Bloquear áudio e vídeo
-
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Sempre perguntar
-
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
 permissions-capabilities-listitem-allow-session =
     .value = Permitir nesta sessão
-
 permissions-capabilities-listitem-off =
     .value = Desativado
 permissions-capabilities-listitem-off-temporarily =
@@ -113,7 +93,7 @@ permissions-exceptions-cookie-desc = Você pode especificar que sites têm ou n�
 permissions-exceptions-https-only-window =
     .title = Exceções - Modo somente HTTPS
     .style = { permissions-window.style }
-permissions-exceptions-https-only-desc = Você pode desativar o modo somente HTTPS em sites específicos. O { -brand-short-name } não tentará promover a conexão para HTTPS seguro nesses sites. As exceções não se aplicam a janelas privativas.
+permissions-exceptions-https-only-desc = Você pode desativar o modo somente HTTPS em sites específicos. O { -brand-short-name } não tenta mudar a conexão para HTTPS seguro nesses sites. As exceções não se aplicam a janelas privativas.
 
 ## Exceptions - Pop-ups
 
