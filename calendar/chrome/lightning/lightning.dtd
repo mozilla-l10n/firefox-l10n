@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Otvori">
-<!ENTITY lightning.menupopup.open.accesskey           "O">
-<!ENTITY lightning.menupopup.open.message.label       "Spremljena poruka…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "m">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Datoteka kalendara…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
 
@@ -51,6 +45,10 @@
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Za sada, možete omogućiti ovo nakon što podesite ovaj kalendar unutar njegovih postavki ako se kalendarski poslužitelj pobrinuo za zakazivanje.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Ova mogućnost je dostupna samo ako je kalendarski poslužitelj zadužen za zakazivanje. Omogućavanjem ćete omogućiti povratak na uobičajeno zakazivanje preko e-pošte umjesto da to prepustite poslužitelju.">
+
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Obavijesti">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Postavke globalnih obavijesti …">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Prihvati">
