@@ -113,3 +113,20 @@ context-gone-secure-unverified = Iniciouse unha conversa cifrada pero non verifi
 #   $name (String) - the screen name of a chat contact person
 context-still-secure = Actualizouse correctamente a conversa cifrada con { $name }.
 error-enc = Produciuse un erro ao cifrar a mensaxe.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Enviou datos cifrados a { $name }, quen non o esperaba.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not-priv = Enviou datos cifrados a { $name }, quen non o esperaba.
+error-unreadable = Transmitiu unha mensaxe cifrada que non se pode ler.
+error-malformed = Transmitiu unha mensaxe de datos con formato incorrecto.
+resent = [reenviar]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } rematou a conversa cifrada con vostede; vostede debería facer o mesmo.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } solicitou unha conversa cifrada sen rexistro (OTR). Non obstante, non ten un complemento que o admita. Vexa https://en.wikipedia.org/wiki/Off-the-Record_Messaging para obter máis información.
