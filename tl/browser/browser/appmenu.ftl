@@ -11,7 +11,6 @@ appmenuitem-update-banner3 =
     .label-update-manual = Mayroong update — i-download na
     .label-update-unsupported = Hindi makapag-update — hindi tugma sa system
     .label-update-restart = Mayroong update — mag-restart na
-
 appmenuitem-protection-dashboard-title = Protections Dashboard
 appmenuitem-customize-mode =
     .label = I-customize...
@@ -27,7 +26,7 @@ appmenuitem-new-private-window =
 appmenuitem-passwords =
     .label = Mga Password
 appmenuitem-addons-and-themes =
-    .label = mga Add-on at Themes
+    .label = Mga Add-on at Tema
 appmenuitem-find-in-page =
     .label = Hanapin Sa Pahina...
 appmenuitem-more-tools =
@@ -44,7 +43,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Isara ang Application Menu
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,7 +54,6 @@ appmenuitem-zoom-enlarge =
     .label = i-Zoom in
 appmenuitem-zoom-reduce =
     .label = i-Zoom out
-
 appmenuitem-fullscreen =
     .label = Buong Screen
 
@@ -64,12 +61,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Mag-sync Na
-
 appmenu-remote-tabs-sign-into-sync =
     .label = Mag-sign in sa sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Buksan ang sync…
-
 appmenuitem-fxa-toolbar-sync-now2 = I-sync ngayon
 appmenuitem-fxa-manage-account = Pamahalaan ang account
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -83,14 +78,12 @@ appmenu-fxa-signed-in-label = Mag sign-in
 appmenu-fxa-setup-sync =
     .label = Buksan ang Pag-sync…
 appmenu-fxa-show-more-tabs = Magpakita ng Marami Pang Tab
-
 appmenuitem-save-page =
     .label = i-Save ang Pahina Bilang…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ano ang Bago
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -103,49 +96,35 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Magbunyag ng karagdagang impormasyon
-
 profiler-popup-description-title =
     .value = Itala, pag-aralan, ibahagi
-
 profiler-popup-description = Makipagtulungan sa mga isyu sa performance sa pamamagitan ng pag-publish ng mga profile upang ibahagi sa iyong team.
-
 profiler-popup-learn-more = Alamin
-
 profiler-popup-settings =
     .value = Mga Setting
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Baguhin ang Settings…
-
 profiler-popup-disabled =
     Ang profiler ay kasalukuyang nakapatay, malamang dahil nakabukas ang
     isang Private Browsing window.
-
 profiler-popup-recording-screen = Nagrerecord…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Custom
-
 profiler-popup-start-recording-button =
     .label = Magrecord na
-
 profiler-popup-discard-button =
     .label = Itapon
-
 profiler-popup-capture-button =
     .label = Kuhanan
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -158,7 +137,6 @@ appmenu-manage-history =
     .label = Pamahalaan ang Kasaysayan
 appmenu-reopen-all-tabs = Muling Buksan ang Lahat ng mga Tab
 appmenu-reopen-all-windows = Muling buksan ang Lahat ng mga Window
-
 appmenu-restore-session =
     .label = Ibalik ang Nakaraang Session
 appmenu-clear-history =
@@ -214,7 +192,6 @@ appmenu-customizetoolbar =
     .label = i-Customize ang Toolbar…
 appmenu-taskmanager =
     .label = Task Manager
-
 appmenu-developer-tools-subheader = Mga kagamitan ng browser
 appmenu-developer-tools-extensions =
     .label = Mga extension para sa mga developer
