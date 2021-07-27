@@ -43,3 +43,26 @@ state-not-private = A conversa actual non é privada.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-unverified = A conversa actual está cifrada pero non é privada, xa que a identidade de { $name } aínda non foi verificada.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Verificouse a identidade de { $name }. A conversa actual é privada e está cifrada.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } rematou a conversa cifrada con vostede; vostede debería facer o mesmo.
+state-not_private-label = Sen seguranza
+state-not-private-label = Sen seguranza
+state-unverified-label = Sen verificar
+state-private-label = Con privacidade
+state-finished-label = Finalizada
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } solicitou a verificación da súa identidade.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = Verificou a identidade de { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = Non se verificou a identidade de { $name }.
+verify-title = Verificar a identidade do seu contacto
+error-title = Erro
+success-title = Cifraxe de extremo a extremo
