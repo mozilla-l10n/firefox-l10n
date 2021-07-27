@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 otr-add-finger =
-    .title = Engadir a pegada dixital dunha chave OTR
+    .title = Engadir a impresión dixital dunha chave OTR
 # Variables:
 #   $name (String) - name of a chat contact person
 # Do not translate 'OTR' (name of an encryption protocol)
-otr-add-finger-description = Insira a pegada dixital da chave OTR para { $name }.
-otr-add-finger-fingerprint = Pegada dixital:
+otr-add-finger-description = Insira a impresión dixital da chave OTR para { $name }.
+otr-add-finger-fingerprint = Impresión dixital:
 otr-add-finger-tooltip-error = O carácter inserido non é válido. Só se permiten letras ABCDEF e números.
 otr-add-finger-input =
-    .placeholder = A pegada dixital da chave OTR de 40 caracteres
+    .placeholder = A impresión dixital da chave OTR de 40 caracteres
