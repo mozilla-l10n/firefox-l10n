@@ -132,5 +132,6 @@ repair-text-encoding-button =
 
 ## no-reply handling
 
+no-reply-title = Odgovori niso podprti
 no-reply-message = Naslov za odgovor ({ $email }) ni videti kot spremljan naslov. Sporočil, poslanih na ta naslov, verjetno ne bo nihče prebral.
 no-reply-reply-anyway-button = Vseeno odgovori
