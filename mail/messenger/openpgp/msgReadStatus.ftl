@@ -15,3 +15,7 @@ message-security-button =
         }
 openpgp-view-signer-key =
     .label = Ver a chave do asinante
+openpgp-view-your-encryption-key =
+    .label = Ver a súa chave de descifrado
+openpgp-openpgp = OpenPGP
+openpgp-no-sig = Sen sinatura dixital
