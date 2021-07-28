@@ -7,7 +7,7 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
-perftools-intro-title = Налаштування профайлера
+perftools-intro-title = Налаштування Profiler
 perftools-intro-description =
     Записи запускають profiler.firefox.com у новій вкладці. Усі дані зберігаються
     локально, але ви можете вивантажити їх для оприлюднення.
@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Розмір буфера:
-
 perftools-custom-threads-label = Додати власні потоки за назвою:
-
 perftools-devtools-interval-label = Інтервал:
 perftools-devtools-threads-label = Потоки:
 perftools-devtools-settings-label = Налаштування
@@ -52,8 +50,8 @@ perftools-devtools-settings-label = Налаштування
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
 perftools-status-private-browsing-notice =
-    Профайлер вимикається при увімкненні приватного перегляду.
-    Закрийте усі вікна приватного перегляду, щоб знову увімкнути профайлер
+    Profiler вимикається після увімкнення приватного перегляду.
+    Закрийте всі вікна приватного перегляду, щоб знову увімкнути Profiler
 perftools-status-recording-stopped-by-another-tool = Запис було зупинено іншим інструментом.
 perftools-status-restart-required = Щоб увімкнути цю функцію, потрібно перезапустити браузер.
 
@@ -99,25 +97,21 @@ perftools-thread-dns-resolver =
     .title = У цьому потоці відбувається визначення DNS
 perftools-thread-js-helper =
     .title = Робота JS engine на задньому плані, наприклад, компілювання off-main-thread
-
 perftools-thread-task-controller =
     .title = Потоки збірних потоків TaskController
 
 ##
 
 perftools-record-all-registered-threads = Обходити вибране вгорі й записувати всі зареєстровані потоки
-
 perftools-tools-threads-input-label =
-    .title = Назви потоків є розділеним комами списком, що використовується для увімкнення профілювання потоків у профайлері. Для включення, назва повинна мати лише частковий збіг з назвою потоку. Вони чутливі до пробілів.
+    .title = Назви потоків є розділеним комами списком, що використовується для увімкнення профілювання потоків у Profiler. Для включення, назва повинна мати лише частковий збіг з назвою потоку. Вони чутливі до пробілів.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
 perftools-onboarding-message = <b>Нове</b>: { -profiler-brand-name } тепер вбудовано в Інструменти розробника. <a>Дізнайтеся докладніше</a> про цей потужний новий інструмент.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Впродовж обмеженого часу ви можете отримати доступ до оригінальної панелі швидкодії через <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Закрити вітальне повідомлення
