@@ -29,7 +29,6 @@ appmenuitem-exit2 =
             [linux] Kene
            *[other] Kene
         }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -41,7 +40,6 @@ appmenuitem-zoom-enlarge =
     .label = Sá´á ka´nu
 appmenuitem-zoom-reduce =
     .label = Sá´á luli
-
 appmenuitem-fullscreen =
     .label = Pantalla ka'nu
 
@@ -49,17 +47,20 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ntañu´u
-
+appmenu-remote-tabs-sign-into-sync =
+    .label = Kajie´e sesión ji Sync...
+appmenu-remote-tabs-turn-on-sync =
+    .label = Tee Sync…
+appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ntañu´u
+appmenuitem-fxa-manage-account = Tetiñu cuenta
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = Kajie´e sesión
-
 appmenuitem-save-page =
     .label = Chuva´a kua...
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nakuvi a jíía íyo
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -72,18 +73,16 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-learn-more = Ka´vi kue´eka
-
 profiler-popup-settings =
     .value = Ke´i
-
+profiler-popup-start-recording-button =
+    .label = Kajie'e grabación
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -94,7 +93,6 @@ profiler-popup-capture-shortcut =
 
 appmenu-reopen-all-tabs = Nate kuaiyo da sukua
 appmenu-reopen-all-windows = Na síne kuaíyo da ventana
-
 appmenu-restore-session =
     .label = Nate tuku sesión yata
 appmenu-clear-history =
@@ -141,5 +139,4 @@ appmenu-customizetoolbar =
     .label = Sá´á vii barra ka̱a̱...
 appmenu-taskmanager =
     .label = Tetiñu da tareas
-
 appmenu-developer-tools-subheader = Da ka̱a̱ ka̱a̱ nánuku

@@ -303,6 +303,16 @@ about-logins-import-report-row-description-error-missing-field = Error: Kumani {
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">A jíía nuu kajie´e sesión nchiso</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">A jíía nuu kajie´e sesión nchiso</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Errores</div> <div data-l10n-name="not-imported">(no importados)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Errores</div> <div data-l10n-name="not-imported">(no importados)</div>
+    }
 
 ## Logins import report page
 
