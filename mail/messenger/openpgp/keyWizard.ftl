@@ -102,6 +102,21 @@ import-key-file = Importar o ficheiro de chave OpenPGP
 import-key-personal-checkbox =
     .label = Tratar esta chave como unha chave persoal
 gnupg-file = Ficheiros GnuPG
+import-error-file-size = <b>Erro:</b> non son admitidos os ficheiros cun tamaño maior a 5 MB.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Erro:</b> fallou ao importar o ficheiro. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Erro:</b> fallou ao importar as chaves. { $error }
+openpgp-import-identity-label = Identidade
+openpgp-import-fingerprint-label = Impresión dixital
+openpgp-import-created-label = Data de creación
+openpgp-import-bits-label = Bits
+openpgp-import-key-props =
+    .label = Propiedades da chave
+    .accesskey = c
 
 ## External Key section
 
+openpgp-external-key-title = Chave GnuPG externa
+openpgp-external-key-description = Configurar unha chave GnuPG externa inserindo o identificador da chave
+openpgp-external-key-info = Alen diso, debe usar o Xestor de chaves para importar e aceptar a chave pública correspondente.
