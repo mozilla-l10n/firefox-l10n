@@ -69,6 +69,14 @@ openpgp-keygen-missing-username = Non hai ningún nome especificado para a conta
 openpgp-keygen-long-expiry = Non pode crear unha chave que caduca en máis de 100 anos.
 openpgp-keygen-short-expiry = A súa chave debe ser válida polo menos durante un día.
 openpgp-keygen-ongoing = A xeración da chave xa está en curso.
+openpgp-keygen-error-core = Non se puido inicializar o servizo principal de OpenPGP
+openpgp-keygen-error-failed = A xeración de chaves OpenPGP fallou inesperadamente
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = A chave OpenPGP creouse correctamente, mais fallou a obtención da revogación da chave { $key }
+openpgp-keygen-abort-title = Quere abortar a xeración da chave?
+openpgp-keygen-abort = A xeración da chave OpenPGP está en curso, desexa realmente cancelala?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Quere xerar unha chave pública e secreta para { $identity }?
 
 ## Import Key section
 
