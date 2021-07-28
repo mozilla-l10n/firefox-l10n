@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
-<!ENTITY performanceUI.bufferStatusTooltip "Профайлер зберігає заміри в кільцевому буфері, і як тільки буфер досягає межі запису, новіші заміри починають перезаписувати заміри на початку запису.">
+<!ENTITY performanceUI.bufferStatusTooltip "Profiler зберігає заміри в кільцевому буфері, і як тільки буфер досягає межі запису, новіші заміри починають перезаписувати заміри на початку запису.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
@@ -24,7 +24,7 @@
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!ENTITY performanceUI.bufferStatusFull "Буфер заповнений. Старіші заміри тепер будуть перезаписуватись.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 <!ENTITY performanceUI.unavailableNoticePB "Запис профілю зараз недоступний. Закрийте всі вікна приватного перегляду й спробуйте знову.">
@@ -56,7 +56,7 @@
 <!ENTITY performanceUI.table.selfPercentage           "Власна витрата">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "Відсоток часу, витрачений лише в межах цієї функції.">
 <!ENTITY performanceUI.table.samples                  "Зразки">
-<!ENTITY performanceUI.table.samples.tooltip          "Кількість знаходжень цієї функції в стеку, коли профайлер зробив замір.">
+<!ENTITY performanceUI.table.samples.tooltip          "Кількість знаходжень цієї функції в стеку, коли Profiler зробив замір.">
 <!ENTITY performanceUI.table.function                 "Функція">
 <!ENTITY performanceUI.table.function.tooltip         "Назва і розташування джерела виміряної функції.">
 <!ENTITY performanceUI.table.totalAlloc               "Всього виміряних алокацій">
