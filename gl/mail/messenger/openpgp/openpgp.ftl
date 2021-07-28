@@ -8,6 +8,12 @@ e2e-advanced-section = Configuración avanzada
 e2e-attach-key =
     .label = Anexar a miña chave pública ao engadir unha sinatura dixital OpenPGP
     .accesskey = p
+e2e-encrypt-subject =
+    .label = Cifrar o asunto das mensaxes OpenPGP
+    .accesskey = C
+e2e-encrypt-drafts =
+    .label = Almacenar os borradores de mensaxes en formato cifrado
+    .accesskey = r
 
 ## e2e encryption settings
 
