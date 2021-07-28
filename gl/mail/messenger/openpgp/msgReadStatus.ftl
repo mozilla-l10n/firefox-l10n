@@ -19,3 +19,7 @@ openpgp-view-your-encryption-key =
     .label = Ver a súa chave de descifrado
 openpgp-openpgp = OpenPGP
 openpgp-no-sig = Sen sinatura dixital
+openpgp-uncertain-sig = Sinatura dixital incerta
+openpgp-invalid-sig = Sinatura dixital non válida
+openpgp-good-sig = Sinatura dixital válida
+openpgp-sig-uncertain-no-key = Esta mensaxe contén unha sinatura dixital, pero non se sabe se é correcta. Para verificar a sinatura, precisa obter unha copia da chave pública do remitente.
