@@ -23,3 +23,7 @@ openpgp-uncertain-sig = Sinatura dixital incerta
 openpgp-invalid-sig = Sinatura dixital non válida
 openpgp-good-sig = Sinatura dixital válida
 openpgp-sig-uncertain-no-key = Esta mensaxe contén unha sinatura dixital, pero non se sabe se é correcta. Para verificar a sinatura, precisa obter unha copia da chave pública do remitente.
+openpgp-sig-uncertain-uid-mismatch = Esta mensaxe contén unha sinatura dixital, pero detectouse un desaxuste. A mensaxe enviouse desde un enderezo de correo electrónico que non corresponde coa chave pública do asinante.
+openpgp-sig-uncertain-not-accepted = Esta mensaxe contén unha sinatura dixital, mais aínda non decidiu se a chave do asinante é aceptábel para vostede.
+openpgp-sig-invalid-rejected = Esta mensaxe contén unha sinatura dixital, mais previamente decidiu rexeitar a chave do asinante.
+openpgp-sig-invalid-technical-problem = Esta mensaxe contén unha sinatura dixital, mais detectouse un erro técnico. Ou a mensaxe foi corrompida ou a mensaxe foi modificada por outra persoa.
