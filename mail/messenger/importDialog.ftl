@@ -4,8 +4,7 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
-
 # Description of the import module
 thunderbird-import-description = E-mail út in Thunderbird-profylmap ymportearje.
-
+import-select-profile-dir-or-zip = Selektearje in profylmap of in komprimearre profylmap
 import-select-profile-zip = Selektearje in map mei ynpakte profilen
