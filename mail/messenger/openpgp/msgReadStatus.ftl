@@ -48,3 +48,7 @@ openpgp-message-header-signed-mismatch-icon =
     .alt = A sinatura é incorrecta
 openpgp-message-header-signed-unknown-icon =
     .alt = O estado da sinatura é descoñecido
+openpgp-message-header-signed-verified-icon =
+    .alt = A sinatura está verificada
+openpgp-message-header-signed-unverified-icon =
+    .alt = A sinatura non está verificada
