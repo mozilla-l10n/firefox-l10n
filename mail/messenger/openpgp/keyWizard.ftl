@@ -80,6 +80,10 @@ openpgp-key-confirm = Quere xerar unha chave pública e secreta para { $identity
 
 ## Import Key section
 
+openpgp-import-key-title = Importar unha chave persoal OpenPGP existente
+openpgp-import-key-legend = Seleccionar un ficheiro de copia de seguranza.
+openpgp-import-key-description = Pode importar chaves persoais que se crearon con outro software OpenPGP.
+openpgp-import-key-info = Outro software pode describir unha chave persoal usando termos alternativos como: chave propia, chave secreta, chave privada ou par de chaves.
 
 ## External Key section
 
