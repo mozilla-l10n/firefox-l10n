@@ -5,8 +5,9 @@
 carddav-url-label =
     .value = URL de CardDAV:
     .accesskey = V
-
 carddav-refreshinterval-label =
     .label = Sincronizar:
     .accesskey = S
-
+carddav-readonly-label =
+    .label = Sólo lectura
+    .accesskey = l
