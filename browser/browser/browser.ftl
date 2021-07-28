@@ -89,6 +89,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Gestisci l’utilizzo dei plugin
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Gestisci la condivisione di fotocamera e/o microfono con il sito
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Gestisci la condivisione di altri altoparlanti con il sito
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Apri il pannello relativo alla riproduzione automatica
 urlbar-persistent-storage-notification-anchor =
