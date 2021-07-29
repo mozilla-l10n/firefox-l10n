@@ -430,7 +430,14 @@ delete-secret-key =
     
     Se elimina a súa chave secreta, xa non poderá descifrar ningunha mensaxe cifrada para esa chave, nin poderá revogala.
     
-    De verdade quere eliminar AS DÚAS CHAVES, a chave secreta e a chave pública
+    Realmente desexa eliminar OS PARES DE CHAVES, a chave secreta e a chave pública
+    «{ $UserId }»?
+delete-mix =
+    AVISO: Está a piques de eliminar as chaves secretas!
+    Se elimina a súa chave secreta, xa non poderá descifrar ningunha mensaxe cifrada con esa chave.
+    Realmente desexa eliminar OS PARES DE CHAVES, a chave secreta e a chave pública, das chaves seleccionadas?
+delete-pub-key =
+    Quere eliminar a chave pública
     «{ $UserId }»?
 
 ## Account settings export output
