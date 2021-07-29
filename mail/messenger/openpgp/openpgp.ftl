@@ -462,6 +462,7 @@ dlg-button-delete = &Eliminar
 ## Account settings export output
 
 openpgp-export-public-success = <b>A chave pública exportouse correctamente!</b>
+openpgp-export-public-fail = <b>Non puido exportar a chave pública seleccionada.</b>
 
 # Strings used in enigmailMessengerOverlay.js
 
