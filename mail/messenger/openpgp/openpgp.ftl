@@ -296,6 +296,9 @@ openpgp-selection-status-error = A súa configuración actual utiliza a chave <b
 openpgp-add-key-button =
     .label = Engadir unha chave…
     .accesskey = a
+e2e-learn-more = Saber máis
+openpgp-keygen-success = A chave OpenPGP creouse correctamente.
+openpgp-keygen-import-success = A chave OpenPGP importouse correctamente.
 
 ## OpenPGP Key selection area
 
