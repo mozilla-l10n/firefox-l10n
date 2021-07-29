@@ -380,6 +380,14 @@ converter-decrypt-body-failed =
     Quere tentalo de novo cunha frase de contrasinal diferente ou quere ignorar a mensaxe?
 # Strings in gpg.jsm
 unknown-signing-alg = O algoritmo de sinatura é descoñecido (Identificador: { $id })
+unknown-hash-alg = A cadea de verificación criptográfica é descoñecida (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    A súa clave { $desc } caducará en menos de { $days } días.
+    Recomendámoslle que cree un novo par de chaves e configure as contas correspondentes para usalo.
+expiry-keys-expire-soon =
+    As seguintes chaves caducarán en menos de { $days } días: { $desc }.
+    Recomendámoslle crear novas chaves e configurar as contas correspondentes para usalas.
 
 ## Account settings export output
 
