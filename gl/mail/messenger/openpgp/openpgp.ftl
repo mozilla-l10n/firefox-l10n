@@ -282,6 +282,20 @@ openpgp-description =
         [one] Thunderbird atopou { $count } chave OpenPGP persoal asociada a <b>{ $identity }</b>
        *[other] Thunderbird atopou { $count } chaves OpenPGP persoais asociadas a <b>{ $identity }</b>
     }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Seleccione unha chave válida para activar o protocolo OpenPGP.
+       *[other] A súa configuración actual utiliza a chave co identificador <b>{ $key }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = A súa configuración actual utiliza a chave co identificador <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = A súa configuración actual utiliza a chave <b>{ $key }</b>, a cal xa caducou.
+openpgp-add-key-button =
+    .label = Engadir unha chave…
+    .accesskey = a
 
 ## OpenPGP Key selection area
 
