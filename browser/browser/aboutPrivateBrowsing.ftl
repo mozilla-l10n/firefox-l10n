@@ -9,6 +9,8 @@ about-private-browsing-info-title = Jste v anonymním okně
 about-private-browsing-info-myths = Časté omyly o fungování anonymního prohlížení
 about-private-browsing =
     .title = Vyhledat na webu
+about-private-browsing-search-btn =
+    .title = Vyhledat na webu
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -24,10 +26,8 @@ about-private-browsing-info-description =
     { -brand-short-name } vymaže vaši historii vyhledávání a navštívených stránek po ukončení aplikace nebo zavření všech anonymních panelů a oken.
     
     S touto funkcí nejste na internetu zcela neviditelní a např. poskytovatel připojení k internetu může stále zjistit, které stránky navštěvujete. Vaše aktivita na internetu ale zůstane utajena před dalšími uživateli tohoto počítače.
-
 about-private-browsing-need-more-privacy = Potřebujete více soukromí?
 about-private-browsing-turn-on-vpn = Vyzkoušejte { -mozilla-vpn-brand-name(case: "acc") }
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
