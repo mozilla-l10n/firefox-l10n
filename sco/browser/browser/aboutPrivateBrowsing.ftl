@@ -9,6 +9,8 @@ about-private-browsing-info-title = Ye're in a Private Windae
 about-private-browsing-info-myths = Common miskennins aboot private stravaigin
 about-private-browsing =
     .title = Sairch the Wab
+about-private-browsing-search-btn =
+    .title = Sairch the wab
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -21,10 +23,8 @@ about-private-browsing-handoff-text = Sairch wi { $engine } or inpit address
 about-private-browsing-handoff-text-no-engine = Sairch or inpit address
 about-private-browsing-not-private = Richt noo, ye're no in a private windae
 about-private-browsing-info-description = { -brand-short-name } dichts yer sairch and stravaigin historie aince ye feenish wi the app or sneck aw Private tabs and Windaes. Though this disnae mak ye anonymous tae wabsites or yer internet service provider, it maks it easier fur tae keep whit ye dae online private fae oniebodie else that yaises this computer.
-
 about-private-browsing-need-more-privacy = Wantin mair privacy?
 about-private-browsing-turn-on-vpn = Gie { -mozilla-vpn-brand-name } a shot
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
