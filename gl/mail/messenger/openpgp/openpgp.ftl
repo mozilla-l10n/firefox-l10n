@@ -388,6 +388,21 @@ expiry-key-expires-soon =
 expiry-keys-expire-soon =
     As seguintes chaves caducarán en menos de { $days } días: { $desc }.
     Recomendámoslle crear novas chaves e configurar as contas correspondentes para usalas.
+expiry-key-missing-owner-trust =
+    Falta a confianza da súa chave secreta { $desc }.
+    Recomendámoslle que configure «Confía nas certificacións» como «definitivo» nas propiedades chave.
+expiry-keys-missing-owner-trust =
+    Falta a confianza das seguintes chaves secretas.
+    { $desc }.
+    Recomendámoslle que configure "Confía nas certificacións" como "definitivo" nas propiedades chave.
+expiry-open-key-manager = Abrir o Xestor de chaves OpenPGP
+expiry-open-key-properties = Abrir as propiedades chave
+# Strings filters.jsm
+filter-folder-required = Debe seleccionar un cartafol de destino.
+filter-decrypt-move-warn-experimental =
+    Aviso: a acción de filtro "Descifrar permanentemente" pode provocar a destrución de mensaxes.
+    Recomendamos encarecidamente que probe primeiro o filtro "Crear copia descifrada", que probe o resultado coidadosamente e que empece a usar este filtro unha vez que estea satisfeito co resultado.
+filter-term-pgpencrypted-label = Cifrado con OpenPGP
 
 ## Account settings export output
 
