@@ -38,20 +38,16 @@ menu-quit =
             [windows] й
            *[other] В
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Вийти з { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Вийти з { -brand-shorter-name }
-
 menu-about =
     .label = Про { -brand-shorter-name }
     .accesskey = о
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Надіслати посилання е-поштою…
     .accesskey = с
+menu-file-share-url =
+    .label = Поділитися
+    .accesskey = л
 menu-file-print-setup =
     .label = Параметри сторінки…
     .accesskey = П
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Кодування символів
     .accesskey = К
-
 menu-view-repair-text-encoding =
     .label = Виправити кодування тексту
     .accesskey = к
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Недавно закриті вкладки
 menu-history-undo-window-menu =
     .label = Недавно закриті вікна
-
 menu-history-reopen-all-tabs = Знову відкрити всі вкладки
 menu-history-reopen-all-windows = Знову відкрити всі вікна
 
