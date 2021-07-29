@@ -8,7 +8,6 @@
 newtab-page-title = Neuer Tab
 newtab-settings-button =
     .title = Einstellungen für neue Tabs anpassen
-
 newtab-personalize-button-label = Anpassen
     .title = Neuen Tab anpassen
     .aria-label = Neuen Tab anpassen
@@ -24,9 +23,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Suchen
     .aria-label = Suchen
-
 newtab-search-box-search-the-web-text = Das Web durchsuchen
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Mit { $engine } suchen oder Adresse eingeben
@@ -41,12 +38,11 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Suche oder Adresse eingeben
     .title = Suche oder Adresse eingeben
     .aria-label = Suche oder Adresse eingeben
-
 newtab-search-box-search-the-web-input =
     .placeholder = Das Web durchsuchen
     .title = Das Web durchsuchen
     .aria-label = Das Web durchsuchen
-
+newtab-search-box-text = Das Web durchsuchen
 newtab-search-box-input =
     .placeholder = Das Web durchsuchen
     .aria-label = Das Web durchsuchen
@@ -61,12 +57,10 @@ newtab-topsites-edit-shortcut-header = Verknüpfung bearbeiten
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Name eingeben
-
 newtab-topsites-url-label = Adresse
 newtab-topsites-url-input =
     .placeholder = Eine Adresse eingeben oder einfügen
 newtab-topsites-url-validation = Gültige Adresse erforderlich
-
 newtab-topsites-image-url-label = Adresse von benutzerdefinierter Grafik
 newtab-topsites-use-image-link = Eine benutzerdefinierte Grafik verwenden…
 newtab-topsites-image-validation = Grafik konnte nicht geladen werden. Verwenden Sie eine andere Adresse.
@@ -95,12 +89,10 @@ newtab-topsite-sponsored = Gesponsert
 newtab-menu-section-tooltip =
     .title = Menü öffnen
     .aria-label = Menü öffnen
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Entfernen
     .aria-label = Entfernen
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -173,12 +165,10 @@ newtab-label-removed-bookmark = Lesezeichen entfernt
 newtab-label-recommended = Beliebt
 newtab-label-saved = Bei { -pocket-brand-name } gespeichert
 newtab-label-download = Heruntergeladen
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Gesponsert
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -217,12 +207,10 @@ newtab-section-header-pocket = Empfohlen von { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Surfen Sie los und wir zeigen Ihnen hier einige der interessanten Artikel, Videos und anderen Seiten, die Sie kürzlich besucht oder als Lesezeichen gespeichert haben.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Jetzt kennen Sie die Neuigkeiten. Schauen Sie später wieder vorbei, um neue Informationen von { $provider } zu erhalten. Können Sie nicht warten? Wählen Sie ein beliebtes Thema und lesen Sie weitere interessante Geschichten aus dem Internet.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -264,7 +252,6 @@ newtab-custom-pocket-sponsored = Gesponserte Inhalte
 newtab-custom-recent-title = Neueste Aktivität
 newtab-custom-recent-subtitle = Eine Auswahl kürzlich besuchter Websites und Inhalte
 newtab-custom-close-button = Schließen
-
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
