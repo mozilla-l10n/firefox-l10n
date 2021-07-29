@@ -105,7 +105,7 @@ openpgp-key-copy-key =
     .label = Copiar a chave pública
     .accesskey = C
 openpgp-key-export-key =
-    .label = Exportar chave pública para un ficheiro
+    .label = Exportar chave pública a un ficheiro
     .accesskey = E
 openpgp-key-backup-key =
     .label = Salvagardar a chave secreta nun ficheiro
@@ -123,6 +123,56 @@ openpgp-key-man-copy-key-ids =
            *[other] Copiar os identificadores das chaves no portapapeis
         }
     .accesskey = P
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Copiar a impresión dixital no portapapeis
+           *[other] Copiar as impresións dixitais no portapapeis
+        }
+    .accesskey = d
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Copiar a chave pública no portapapeis
+           *[other] Copiar as chaves públicas no portapapeis
+        }
+    .accesskey = p
+openpgp-key-man-ctx-expor-to-file-label =
+    .label = Exportar as chaves a un ficheiro
+openpgp-key-man-ctx-copy-to-clipbrd-label =
+    .label = Copiar as chaves públicas no portapapeis
+openpgp-key-man-ctx-copy =
+    .label = Copiar
+    .accesskey = C
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Impresión dixital
+           *[other] Impresións dixitais
+        }
+    .accesskey = I
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Identificador da chave
+           *[other] Identificadores das chaves
+        }
+    .accesskey = h
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Chave pública
+           *[other] Chaves públicas
+        }
+    .accesskey = p
+openpgp-key-man-close =
+    .label = Pechar
+openpgp-key-man-reload =
+    .label = Recargar a memoria tobo das chaves
+    .accesskey = R
+openpgp-key-man-change-expiry =
+    .label = Mudar data de caducidade
+    .accesskey = e
 
 ## e2e encryption settings
 
