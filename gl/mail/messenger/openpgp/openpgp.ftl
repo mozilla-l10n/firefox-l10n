@@ -257,6 +257,10 @@ openpgp-acceptance-rejected-label =
     .label = Non, rexeitar esta chave.
 openpgp-acceptance-undecided-label =
     .label = Agora non, poida que máis tarde.
+openpgp-acceptance-unverified-label =
+    .label = Si, mais non verifiquei se é a chave correcta.
+openpgp-acceptance-verified-label =
+    .label = Si, verifiquei persoalmente que esta chave ten a impresión dixital correcta.
 
 ## e2e encryption settings
 
