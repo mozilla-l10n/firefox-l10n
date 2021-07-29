@@ -463,6 +463,11 @@ dlg-button-delete = &Eliminar
 
 openpgp-export-public-success = <b>A chave pública exportouse correctamente!</b>
 openpgp-export-public-fail = <b>Non puido exportar a chave pública seleccionada.</b>
+openpgp-export-secret-success = <b>A chave secreta exportouse correctamente.</b>
+openpgp-export-secret-fail = <b>Non se puido exportar a chave secreta seleccionada.</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = A chave { $userId } (Identificador da chave { $keyId }) foi revogada.
+key-ring-pub-key-expired = A chave { $userId } (Identificador da chave { $keyId }) caducou.
 
 # Strings used in enigmailMessengerOverlay.js
 
