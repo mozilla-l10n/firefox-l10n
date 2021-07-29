@@ -4,7 +4,6 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
-
 # Description of the import module
 thunderbird-import-description = Importer le courrier d’un répertoire de profil de Thunderbird.
-
+import-select-profile-zip = Sélectionnez un répertoire de profil zippé
