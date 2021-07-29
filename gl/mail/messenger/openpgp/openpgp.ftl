@@ -299,9 +299,14 @@ openpgp-add-key-button =
 e2e-learn-more = Saber máis
 openpgp-keygen-success = A chave OpenPGP creouse correctamente.
 openpgp-keygen-import-success = A chave OpenPGP importouse correctamente.
+openpgp-keygen-external-success = Gardouse a identificación da chave externa GnuPG.
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Ningunha
+openpgp-radio-none-desc = Non usar OpenPGP para esta identidade.
+openpgp-radio-key-not-usable = Esta chave non se pode usar como chave persoal porque falta a chave secreta.
 
 ## Account settings export output
 
