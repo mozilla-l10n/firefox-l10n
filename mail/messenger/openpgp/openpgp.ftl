@@ -88,11 +88,17 @@ openpgp-key-man-import-from-url =
     .label = Importar unha ou máis chaves a partir do URL
     .accesskey = U
 openpgp-key-man-export-to-file =
-    .label = Exportar unha ou máis chaves públicas para un ficheiro
+    .label = Exportar unha ou máis chaves públicas nun ficheiro
     .accesskey = E
 openpgp-key-man-send-keys =
     .label = Enviar unha ou máis chaves públicas por correo electrónico
     .accesskey = s
+openpgp-key-man-backup-secret-keys =
+    .label = Salvagardar unha ou máis chaves secretas nun ficheiro
+    .accesskey = S
+openpgp-key-man-discover-cmd =
+    .label = Descubrir chaves en liña
+    .accesskey = D
 
 ## e2e encryption settings
 
