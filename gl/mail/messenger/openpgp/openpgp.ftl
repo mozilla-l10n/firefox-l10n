@@ -33,6 +33,19 @@ openpgp-key-gen-no-expiry-label =
     .label = A chave non caduca
 openpgp-key-gen-key-size-label = Tamaño da chave
 openpgp-key-gen-console-label = Xeración de chaves
+openpgp-key-gen-key-type-label = Tipo de chave
+openpgp-key-gen-key-type-rsa =
+    .label = RSA
+openpgp-key-gen-key-type-ecc =
+    .label = ECC (curva elíptica)
+openpgp-generate-key =
+    .label = Xerar unha chave
+    .tooltiptext = Xera unha nova chave compatíbel co OpenPGP para cifrar e/ou asinar
+openpgp-advanced-prefs-button-label =
+    .label = Avanzadas…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">Nota: a xeración de chaves pode tardar varios minutos en completarse.</a> Non saia da aplicación mentres a xeración de chaves estea en curso. Navegar activamente ou realizar operacións intensivas en disco durante a xeración de chaves reabastecerá o «cantidade de aleatoriedade» e acelerará o proceso. Recibirá un aviso cando remate a xeración de chaves.
+openpgp-key-expiry-label =
+    .label = Caducidade
 
 ## e2e encryption settings
 
