@@ -38,20 +38,16 @@ menu-quit =
             [windows] ξ
            *[other] ξ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Έξοδος από το { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Έξοδος από το { -brand-shorter-name }
-
 menu-about =
     .label = Σχετικά με το { -brand-shorter-name }
     .accesskey = τ
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Αποστολή συνδέσμου…
     .accesskey = λ
+menu-file-share-url =
+    .label = Κοινή χρήση
+    .accesskey = χ
 menu-file-print-setup =
     .label = Διαμόρφωση σελίδας…
     .accesskey = μ
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Κωδικοποίηση κειμένου
     .accesskey = κ
-
 menu-view-repair-text-encoding =
     .label = Επιδιόρθωση κωδικοποίησης κειμένου
     .accesskey = δ
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Πρόσφατα κλεισμένες καρτέλες
 menu-history-undo-window-menu =
     .label = Πρόσφατα κλεισμένα παράθυρα
-
 menu-history-reopen-all-tabs = Επαναφορά όλων των καρτελών
 menu-history-reopen-all-windows = Επαναφορά όλων των παραθύρων
 
