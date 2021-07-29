@@ -307,6 +307,23 @@ openpgp-radio-none =
     .label = Ningunha
 openpgp-radio-none-desc = Non usar OpenPGP para esta identidade.
 openpgp-radio-key-not-usable = Esta chave non se pode usar como chave persoal porque falta a chave secreta.
+openpgp-radio-key-not-accepted = Para usar esta chave, debe aprobala como chave persoal.
+openpgp-radio-key-not-found = Non se puido atopar esta chave. Para usala é preciso importala no { -brand-short-name }.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Caduca o: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = A chave caduca en menos de 6 meses
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Caducou o: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = A chave caducou
+openpgp-key-expires-within-6-months-icon =
+    .title = A chave caduca en menos de 6 meses
+openpgp-key-has-expired-icon =
+    .title = A chave caducou
+openpgp-key-expand-section =
+    .tooltiptext = Máis información
+openpgp-key-revoke-title = Revogar a chave
 
 ## Account settings export output
 
