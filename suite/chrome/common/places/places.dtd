@@ -81,3 +81,6 @@
 
 <!ENTITY view.label               "Pogled">
 <!ENTITY byDate.label             "Po datumu">
+<!ENTITY byMostVisited.label      "Po najpogosteje obiskanih">
+<!ENTITY byLastVisited.label      "Po nazadnje obiskanih">
+<!ENTITY byDayAndSite.label       "Po datumu in strani">
