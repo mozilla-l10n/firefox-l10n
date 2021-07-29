@@ -38,20 +38,16 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } 종료
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } 종료
-
 menu-about =
     .label = { -brand-shorter-name } 정보
     .accesskey = A
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = 메일로 링크 보내기…
     .accesskey = E
+menu-file-share-url =
+    .label = 공유
+    .accesskey = h
 menu-file-print-setup =
     .label = 페이지 설정…
     .accesskey = u
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = 텍스트 인코딩
     .accesskey = c
-
 menu-view-repair-text-encoding =
     .label = 텍스트 인코딩 복구
     .accesskey = c
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = 최근에 닫은 탭
 menu-history-undo-window-menu =
     .label = 최근에 닫은 창
-
 menu-history-reopen-all-tabs = 모든 탭 다시 열기
 menu-history-reopen-all-windows = 모든 창 다시 열기
 
