@@ -58,6 +58,7 @@ app-basics-enabled-plugins = Käytössä olevat liitännäiset
 app-basics-build-config = Koostamisasetukset
 app-basics-user-agent = Selaintunniste
 app-basics-os = Käyttöjärjestelmä
+app-basics-os-theme = Käyttöjärjestelmän teema
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = Rosetta-muunnettu
