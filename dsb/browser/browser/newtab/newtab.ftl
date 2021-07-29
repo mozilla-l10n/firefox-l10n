@@ -8,7 +8,6 @@
 newtab-page-title = Nowy rejtarik
 newtab-settings-button =
     .title = Bok wašogo nowego rejtarika pśiměriś
-
 newtab-personalize-button-label = Personalizěrowaś
     .title = Nowy rejtarik personalizěrowaś
     .aria-label = Nowy rejtarik personalizěrowaś
@@ -24,9 +23,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Pytaś
     .aria-label = Pytaś
-
 newtab-search-box-search-the-web-text = Web pśepytaś
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Pytajśo z { $engine } abo zapódajśo adresu
@@ -41,12 +38,11 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Pytaś abo adresu zapódaś
     .title = Pytaś abo adresu zapódaś
     .aria-label = Pytaś abo adresu zapódaś
-
 newtab-search-box-search-the-web-input =
     .placeholder = Web pśepytaś
     .title = Web pśepytaś
     .aria-label = Web pśepytaś
-
+newtab-search-box-text = Web pśepytaś
 newtab-search-box-input =
     .placeholder = Web pśepytaś
     .aria-label = Web pśepytaś
@@ -61,12 +57,10 @@ newtab-topsites-edit-shortcut-header = Zwězanje wobźěłaś
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Titel zapódaś
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL zapódaś abo zasajźiś
 newtab-topsites-url-validation = Płaśiwy URL trěbny
-
 newtab-topsites-image-url-label = URL swójskego wobraza
 newtab-topsites-use-image-link = Swójski wobraz wužywaś…
 newtab-topsites-image-validation = Wobraz njedajo se zacytaś. Wopytajśo drugi URL.
@@ -95,12 +89,10 @@ newtab-topsite-sponsored = Sponserowany
 newtab-menu-section-tooltip =
     .title = Meni wócyniś
     .aria-label = Meni wócyniś
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Wótwónoźeś
     .aria-label = Wótwónoźeś
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -173,12 +165,10 @@ newtab-label-removed-bookmark = Cytańske znamje jo wótwónoźone
 newtab-label-recommended = Popularny
 newtab-label-saved = Do { -pocket-brand-name } skłaźony
 newtab-label-download = Ześěgnjony
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } - sponserowane
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -217,12 +207,10 @@ newtab-section-header-pocket = Wót { $provider } dopórucony
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Zachopśo pśeglědowaś, a pokažomy někotare wjelicne nastawki, wideo a druge boki, kótarež sćo se njedawno woglědał abo how ako cytańske znamjenja składował.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = To jo nachylu wšykno. Wrośćo se pózdźej wjelicnych tšojeńkow dla wót { $provider }. Njamóžośo cakaś? Wubjeŕśo woblubowanu temu, aby dalšne wjelicne tšojeńka we webje namakał.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -266,7 +254,6 @@ newtab-custom-pocket-sponsored = Sponserowane tšojeńka
 newtab-custom-recent-title = Nejnowša aktiwita
 newtab-custom-recent-subtitle = Wuběrk nejnowšych sedłow a nejnowšego wopśimjeśa
 newtab-custom-close-button = Zacyniś
-
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

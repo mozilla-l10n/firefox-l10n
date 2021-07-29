@@ -9,6 +9,8 @@ about-private-browsing-info-title = Sćo w priwatnem woknje
 about-private-browsing-info-myths = Ceste myty wó priwatnem modusu
 about-private-browsing =
     .title = Web pśepytaś
+about-private-browsing-search-btn =
+    .title = Web pśepytaś
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -21,10 +23,8 @@ about-private-browsing-handoff-text = Pytajśo z { $engine } abo zapódajśo adr
 about-private-browsing-handoff-text-no-engine = Pytaś abo adresu zapódaś
 about-private-browsing-not-private = Tuchylu njejsćo w priwatnem woknje.
 about-private-browsing-info-description = { -brand-short-name } wašu pytańsku a pśeglědowańsku historjiu wuproznijo, gaž nałoženje spušćijośo abo wšykne rejtariki a wokna priwatnego modus zacynijośo. Pšez to se wólažcyjo, pśed drugimi, kótarež toś to licadło wužywaju, schowaś, což online gótujośo, lěcrownož to was za websedła abo wašogo póbitowarja internetneje słužby njeanonymizěrujo.
-
 about-private-browsing-need-more-privacy = Trjebaśo wěcej priwatnosći?
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } wopytaś
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
