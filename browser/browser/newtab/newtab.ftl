@@ -8,7 +8,6 @@
 newtab-page-title = Нова вкладка
 newtab-settings-button =
     .title = Налаштуйте свою сторінку нової вкладки
-
 newtab-personalize-button-label = Персоналізувати
     .title = Персоналізувати нову вкладку
     .aria-label = Персоналізувати нову вкладку
@@ -24,9 +23,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Пошук
     .aria-label = Пошук
-
 newtab-search-box-search-the-web-text = Пошук в Інтернеті
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Шукайте з { $engine } або введіть адресу
@@ -41,12 +38,11 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Введіть запит чи адресу
     .title = Введіть запит чи адресу
     .aria-label = Введіть запит чи адресу
-
 newtab-search-box-search-the-web-input =
     .placeholder = Пошук в Інтернеті
     .title = Пошук в Інтернеті
     .aria-label = Пошук в Інтернеті
-
+newtab-search-box-text = Пошук в Інтернеті
 newtab-search-box-input =
     .placeholder = Пошук в Інтернеті
     .aria-label = Пошук в Інтернеті
@@ -61,12 +57,10 @@ newtab-topsites-edit-shortcut-header = Редагувати ярлик
 newtab-topsites-title-label = Заголовок
 newtab-topsites-title-input =
     .placeholder = Введіть назву
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Введіть або вставте URL-адресу
 newtab-topsites-url-validation = Необхідна дійсна адреса URL
-
 newtab-topsites-image-url-label = URL власного зображення
 newtab-topsites-use-image-link = Використати власне зображення…
 newtab-topsites-image-validation = Не вдалося завантажити зображення. Спробуйте інший URL.
@@ -95,12 +89,10 @@ newtab-topsite-sponsored = Спонсоровано
 newtab-menu-section-tooltip =
     .title = Відкрити меню
     .aria-label = Відкрити меню
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Вилучити
     .aria-label = Вилучити
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -173,12 +165,10 @@ newtab-label-removed-bookmark = Закладку вилучено
 newtab-label-recommended = Популярне
 newtab-label-saved = Збережено в { -pocket-brand-name }
 newtab-label-download = Завантажено
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Спонсоровано
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -217,12 +207,10 @@ newtab-section-header-pocket = Рекомендовано { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Почніть перегляд, і тут відобразяться деякі цікаві статті, відео та інші сторінки, нещодавно відвідані чи збережені вами до закладок.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Готово. Перевірте згодом, щоб побачити більше матеріалів від { $provider }. Не хочете чекати? Оберіть популярну тему, щоб знайти більше цікавих матеріалів з усього Інтернету.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -265,7 +253,6 @@ newtab-custom-pocket-sponsored = Матеріали від спонсорів
 newtab-custom-recent-title = Недавня активність
 newtab-custom-recent-subtitle = Добірка недавніх сайтів та вмісту
 newtab-custom-close-button = Закрити
-
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
