@@ -447,10 +447,21 @@ key-man-button-refresh-all = &Actualizar todas as chaves
 key-man-loading-keys = Cargando as chaves, agarde…
 ascii-armor-file = Ficheiros ASCII blindados (*.asc)
 no-key-selected = Debería seleccionar polo menos unha chave para realizar a operación seleccionada
-export-to-file = Exportar chave pública a un ficheiro
+export-to-file = Exportar a chave pública a un ficheiro
+export-keypair-to-file = Exportar a chave pública e chave secreta a un ficheiro
+export-secret-key = Quere incluír a chave secreta no ficheiro de chaves OpenPGP gardado?
+save-keys-ok = As chaves gardáronse correctamente
+save-keys-failed = Produciuse un erro ao gardar as chaves
+default-pub-key-filename = chaves-publicas-exportadas
+default-pub-sec-key-filename = copia-das-chaves-secretas
+refresh-key-warn = Aviso: dependendo do número de chaves e da velocidade de conexión, actualizar todas as chaves pode ser un proceso que leve bastante tempo.
+preview-failed = Non se pode ler o ficheiro de chave pública.
+general-error = Erro: { $reason }
+dlg-button-delete = &Eliminar
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>A chave pública exportouse correctamente!</b>
 
 # Strings used in enigmailMessengerOverlay.js
 
