@@ -394,7 +394,7 @@ expiry-key-missing-owner-trust =
 expiry-keys-missing-owner-trust =
     Falta a confianza das seguintes chaves secretas.
     { $desc }.
-    Recomendámoslle que configure "Confía nas certificacións" como "definitivo" nas propiedades chave.
+    Recomendámoslle que configure «Confía nas certificacións» como «definitivo» nas propiedades chave.
 expiry-open-key-manager = Abrir o Xestor de chaves OpenPGP
 expiry-open-key-properties = Abrir as propiedades chave
 # Strings filters.jsm
@@ -408,6 +408,23 @@ filter-key-not-found = Non se puido atopar unha chave de cifrado para «{ $desc 
 filter-warn-key-not-secret =
     Aviso: a acción de filtro «Cifrar a chave» substitúe aos destinatarios.
     Se non ten a chave secreta para «{ $desc }» xa non poderá ler os correos electrónicos.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Descifrar permanentemente (OpenPGP)
+filter-decrypt-copy-label = Crear copia descifrada (OpenPGP)
+filter-encrypt-label = Cifrar coa chave (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = As chaves foron importadas correctamente
+import-info-bits = Bits
+import-info-created = Data de creación
+import-info-fpr = Impresión dixital
+import-info-details = Ver os detalles e xestionar a aceptación das chaves
+import-info-no-keys = Non se importaron chaves.
+# Strings in enigmailKeyManager.js
+import-from-clip = Quere importar unha ou máis chaves do portapapeis?
+import-from-url = Descargar a chave pública desde este URL:
+copy-to-clipbrd-failed = Non se puideron copiar as chaves seleccionadas no portapapeis.
+copy-to-clipbrd-ok = A ou as chaves copiáronse no portapapeis
 
 ## Account settings export output
 
