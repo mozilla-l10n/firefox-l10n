@@ -468,6 +468,7 @@ openpgp-export-secret-fail = <b>Non se puido exportar a chave secreta selecciona
 # Strings in keyObj.jsm
 key-ring-pub-key-revoked = A chave { $userId } (Identificador da chave { $keyId }) foi revogada.
 key-ring-pub-key-expired = A chave { $userId } (Identificador da chave { $keyId }) caducou.
+key-ring-no-secret-key = Semella que vostede non ten a chave secreta para { $userId } (Identificador da chave { $keyId }) no seu chaveiro; vostede non pode utilizar a chave para asinar.
 
 # Strings used in enigmailMessengerOverlay.js
 
