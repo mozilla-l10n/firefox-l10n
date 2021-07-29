@@ -38,20 +38,16 @@ menu-quit =
             [windows] A
            *[other] A
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } afsluiten
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } afsluiten
-
 menu-about =
     .label = Over { -brand-shorter-name }
     .accesskey = O
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Koppeling e-mailen…
     .accesskey = m
+menu-file-share-url =
+    .label = Delen
+    .accesskey = e
 menu-file-print-setup =
     .label = Pagina-instellingen…
     .accesskey = i
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Tekstcodering
     .accesskey = c
-
 menu-view-repair-text-encoding =
     .label = Tekstcodering repareren
     .accesskey = c
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Onlangs gesloten tabbladen
 menu-history-undo-window-menu =
     .label = Onlangs gesloten vensters
-
 menu-history-reopen-all-tabs = Alle tabbladen opnieuw openen
 menu-history-reopen-all-windows = Alle vensters opnieuw openen
 
