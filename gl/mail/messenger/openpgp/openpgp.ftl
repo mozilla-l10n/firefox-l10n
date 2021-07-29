@@ -357,6 +357,11 @@ window-locked = A xanela de redacción está bloqueada; cancelouse o envío
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Parte da mensaxe cifrada
 mime-decrypt-encrypted-part-concealed-data = Esta é unha parte da mensaxe cifrada. Debe abrila nunha xanela separada facendo clic no anexo.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Abortado
+keyserver-error-unknown = Produciuse un erro descoñecido
+keyserver-error-server-error = O servidor de chaves informou dun erro.
+keyserver-error-import-error = Produciuse un erro ao importar a chave descargada.
 
 ## Account settings export output
 
