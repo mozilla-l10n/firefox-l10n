@@ -5,7 +5,6 @@
 printui-title = הדפסה
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = שמירה בשם
-
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -13,7 +12,6 @@ printui-sheets-count =
         [one] גיליון אחד של נייר
        *[other] { $sheetCount } גיליונות נייר
     }
-
 printui-page-range-all = הכול
 printui-page-range-custom = התאמה אישית
 printui-page-range-label = עמודים
@@ -22,46 +20,41 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = נא להזין טווח עמודים מותאם אישית
     .placeholder = לדוגמה, 2-6, 9, 12-16
-
 # Section title for the number of copies to print
 printui-copies-label = עותקים
-
 printui-orientation = כיוון
 printui-landscape = לרוחב
 printui-portrait = לאורך
-
 # Section title for the printer or destination device to target
 printui-destination-label = יעד
 printui-destination-pdf-label = שמירה ל־PDF
-
 printui-more-settings = עוד הגדרות
 printui-less-settings = פחות הגדרות
-
 printui-paper-size-label = גודל נייר
-
 # Section title (noun) for the print scaling options
 printui-scale = קנה מידה
 printui-scale-fit-to-page-width = התאמה לרוחב העמוד
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = קנה מידה
-
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = הדפסה דו־צדדית
 printui-two-sided-printing-off = כבויה
-
 # Section title for miscellaneous print options
 printui-options = אפשרויות
 printui-headers-footers-checkbox = הדפסת כותרות עיליות ותחתיות
 printui-backgrounds-checkbox = הדפסת רקעים
-
 printui-selection-checkbox = הדפסת הקטע הנבחר בלבד
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+# The section title.
+printui-source-label = תבנית
 # Option for printing the original page.
 printui-source-radio = מקורי
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = קטע נבחר
 # Option for "simplifying" the page by printing the Reader View version.
 printui-simplify-page-radio = מפושט
 
@@ -70,7 +63,6 @@ printui-simplify-page-radio = מפושט
 printui-color-mode-label = מצב צבע
 printui-color-mode-color = צבע
 printui-color-mode-bw = שחור ולבן
-
 printui-margins = שוליים
 printui-margins-default = ברירת מחדל
 printui-margins-min = מינימום
@@ -89,23 +81,17 @@ printui-margins-custom-left-mm = משמאל (מ״מ)
 printui-margins-custom-right = מימין
 printui-margins-custom-right-inches = מימין (אינצ'ים)
 printui-margins-custom-right-mm = מימין (מ״מ)
-
 printui-system-dialog-link = הדפסה באמצעות תיבת הדו־שיח של המערכת…
-
 printui-primary-button = הדפסה
 printui-primary-button-save = שמירה
 printui-cancel-button = ביטול
 printui-close-button = סגירה
-
 printui-loading = בתהליך הכנת תצוגה מקדימה
-
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = תצוגה לפני הדפסה
-
 printui-pages-per-sheet = עמודים בכל גיליון
-
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = בהדפסה…
@@ -132,7 +118,6 @@ printui-paper-tabloid = Tabloid
 printui-error-invalid-scale = קנה המידה חייב להיות מספר בין 10 ל־200.
 printui-error-invalid-margin = נא להזין שוליים תקפים לגודל הנייר שנבחר.
 printui-error-invalid-copies = מספר העותקים חייב להיות בין 1 ל־10000.
-
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = הטווח חייב להיות מספר בין 1 ל־{ $numPages }.
