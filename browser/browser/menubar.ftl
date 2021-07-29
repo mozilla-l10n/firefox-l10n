@@ -38,20 +38,16 @@ menu-quit =
             [windows] S
            *[other] S
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sulje { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Sulje { -brand-shorter-name }
-
 menu-about =
     .label = Tietoja: { -brand-shorter-name }
     .accesskey = T
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Lähetä linkki…
     .accesskey = L
+menu-file-share-url =
+    .label = Jaa
+    .accesskey = J
 menu-file-print-setup =
     .label = Sivun asetukset…
     .accesskey = e
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Merkistökoodaus
     .accesskey = M
-
 menu-view-repair-text-encoding =
     .label = Korjaa merkistökoodaus
     .accesskey = m
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Suljetut välilehdet
 menu-history-undo-window-menu =
     .label = Suljetut ikkunat
-
 menu-history-reopen-all-tabs = Avaa uudelleen kaikki välilehdet
 menu-history-reopen-all-windows = Avaa uudelleen kaikki ikkunat
 
