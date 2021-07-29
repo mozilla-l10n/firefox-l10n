@@ -5,4 +5,13 @@
 compact-dialog-window =
     .title = Trinkotu karpetak
     .style = width: 50em;
-
+compact-dialog =
+    .buttonlabelaccept = Trinkotu orain
+    .buttonaccesskeyaccept = T
+    .buttonlabelcancel = Gogorarazi beranduago
+    .buttonaccesskeycancel = b
+    .buttonlabelextra1 = Argibide gehiago…
+    .buttonaccesskeyextra1 = A
+compact-dialog-never-ask-checkbox =
+    .label = Etorkizunean trinkotu karpetak automatikoki
+    .accesskey = a
