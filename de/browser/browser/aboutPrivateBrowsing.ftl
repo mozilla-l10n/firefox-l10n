@@ -9,6 +9,8 @@ about-private-browsing-info-title = Dies ist ein privates Fenster
 about-private-browsing-info-myths = Häufige Missverständnisse über das Surfen im Privaten Modus
 about-private-browsing =
     .title = Das Web durchsuchen
+about-private-browsing-search-btn =
+    .title = Das Web durchsuchen
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -21,10 +23,8 @@ about-private-browsing-handoff-text = Mit { $engine } suchen oder Adresse eingeb
 about-private-browsing-handoff-text-no-engine = Suche oder Adresse eingeben
 about-private-browsing-not-private = Sie befinden sich derzeit nicht in einem privaten Fenster.
 about-private-browsing-info-description = { -brand-short-name } leert die eingegebenen Suchbegriffe und besuchten Webseiten beim Beenden der Anwendung oder wenn alle privaten Tabs und Fenster geschlossen wurden. Das macht Sie gegenüber Website-Betreibern und Internetanbietern nicht anonym, aber erleichtert es Ihnen, dass andere Nutzer des Computers Ihre Aktivitäten nicht einsehen können.
-
 about-private-browsing-need-more-privacy = Benötigen Sie mehr Datenschutz?
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } ausprobieren
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
