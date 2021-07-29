@@ -362,6 +362,24 @@ keyserver-error-aborted = Abortado
 keyserver-error-unknown = Produciuse un erro descoñecido
 keyserver-error-server-error = O servidor de chaves informou dun erro.
 keyserver-error-import-error = Produciuse un erro ao importar a chave descargada.
+keyserver-error-unavailable = O servidor de chaves non está dispoñíbel.
+keyserver-error-security-error = O servidor de chaves non admite o acceso cifrado.
+keyserver-error-certificate-error = O certificado do servidor de chaves non é válido.
+keyserver-error-unsupported = O servidor de chaves non é compatíbel.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    O seu fornecedor de correo electrónico procesou a súa solicitude para cargar a súa chave pública no directorio de chaves web de OpenPGP.
+    Confirme para completar a publicación da súa chave pública.
+wkd-message-body-process =
+    Este é un correo electrónico relacionado co procesamento automático para cargar a súa chave pública no directorio de chaves web OpenPGP.
+    Non é preciso realizar ningunha acción manual neste momento.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Non se puido descifrar a mensaxe co asunto
+    { $subject }.
+    Quere tentalo de novo cunha frase de contrasinal diferente ou quere ignorar a mensaxe?
+# Strings in gpg.jsm
+unknown-signing-alg = O algoritmo de sinatura é descoñecido (Identificador: { $id })
 
 ## Account settings export output
 
