@@ -38,20 +38,16 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = 離開 { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = 結束 { -brand-shorter-name }
-
 menu-about =
     .label = 關於 { -brand-shorter-name }
     .accesskey = A
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = 郵寄鏈結…
     .accesskey = E
+menu-file-share-url =
+    .label = 分享
+    .accesskey = h
 menu-file-print-setup =
     .label = 頁面設定…
     .accesskey = u
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = 文字編碼
     .accesskey = c
-
 menu-view-repair-text-encoding =
     .label = 修復文字編碼
     .accesskey = c
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = 最近關閉的分頁
 menu-history-undo-window-menu =
     .label = 最近關閉的視窗
-
 menu-history-reopen-all-tabs = 回復所有分頁
 menu-history-reopen-all-windows = 回復所有視窗
 
