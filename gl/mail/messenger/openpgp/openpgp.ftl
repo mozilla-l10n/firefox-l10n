@@ -46,6 +46,22 @@ openpgp-advanced-prefs-button-label =
 openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">Nota: a xeración de chaves pode tardar varios minutos en completarse.</a> Non saia da aplicación mentres a xeración de chaves estea en curso. Navegar activamente ou realizar operacións intensivas en disco durante a xeración de chaves reabastecerá o «cantidade de aleatoriedade» e acelerará o proceso. Recibirá un aviso cando remate a xeración de chaves.
 openpgp-key-expiry-label =
     .label = Caducidade
+openpgp-key-id-label =
+    .label = Identificador da chave
+openpgp-cannot-change-expiry = Esta é unha chave cunha estrutura complexa; non se admite cambiar a súa data de caducidade.
+openpgp-key-man-title =
+    .title = Xestor de chaves OpenPGP
+openpgp-key-man-generate =
+    .label = Novo par de chaves
+    .accesskey = v
+openpgp-key-man-gen-revoke =
+    .label = Certificado de revogación
+    .accesskey = r
+openpgp-key-man-ctx-gen-revoke-label =
+    .label = Xerar e gardar o certificado de revogación
+openpgp-key-man-file-menu =
+    .label = Ficheiro
+    .accesskey = F
 
 ## e2e encryption settings
 
