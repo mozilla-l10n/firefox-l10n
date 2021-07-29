@@ -62,6 +62,37 @@ openpgp-key-man-ctx-gen-revoke-label =
 openpgp-key-man-file-menu =
     .label = Ficheiro
     .accesskey = F
+openpgp-key-man-edit-menu =
+    .label = Modificar
+    .accesskey = M
+openpgp-key-man-view-menu =
+    .label = Ver
+    .accesskey = V
+openpgp-key-man-generate-menu =
+    .label = Xerar
+    .accesskey = X
+openpgp-key-man-keyserver-menu =
+    .label = Servidor de chaves
+    .accesskey = S
+openpgp-key-man-import-public-from-file =
+    .label = Importar unha ou máis chaves públicas do ficheiro
+    .accesskey = I
+openpgp-key-man-import-secret-from-file =
+    .label = Importar unha ou máis chaves secretas do ficheiro
+openpgp-key-man-import-sig-from-file =
+    .label = Importar unha ou máis revogacións do ficheiro
+openpgp-key-man-import-from-clipbrd =
+    .label = Importar unha ou máis chaves do portapapeis
+    .accesskey = I
+openpgp-key-man-import-from-url =
+    .label = Importar unha ou máis chaves a partir do URL
+    .accesskey = U
+openpgp-key-man-export-to-file =
+    .label = Exportar unha ou máis chaves públicas para un ficheiro
+    .accesskey = E
+openpgp-key-man-send-keys =
+    .label = Enviar unha ou máis chaves públicas por correo electrónico
+    .accesskey = s
 
 ## e2e encryption settings
 
