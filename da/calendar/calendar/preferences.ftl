@@ -4,6 +4,7 @@
 
 calendar-title = Kalender
 calendar-title-reminder = Alarmer
+calendar-title-notification = Beskeder
 calendar-title-category = Kategorier
 dateformat-label =
     .value = Datoformat:
