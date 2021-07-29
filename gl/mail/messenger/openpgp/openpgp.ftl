@@ -400,9 +400,14 @@ expiry-open-key-properties = Abrir as propiedades chave
 # Strings filters.jsm
 filter-folder-required = Debe seleccionar un cartafol de destino.
 filter-decrypt-move-warn-experimental =
-    Aviso: a acción de filtro "Descifrar permanentemente" pode provocar a destrución de mensaxes.
-    Recomendamos encarecidamente que probe primeiro o filtro "Crear copia descifrada", que probe o resultado coidadosamente e que empece a usar este filtro unha vez que estea satisfeito co resultado.
+    Aviso: a acción de filtro «Descifrar permanentemente» pode provocar a destrución de mensaxes.
+    Recomendamos encarecidamente que probe primeiro o filtro «Crear copia descifrada», que probe o resultado coidadosamente e que empece a usar este filtro unha vez que estea satisfeito co resultado.
 filter-term-pgpencrypted-label = Cifrado con OpenPGP
+filter-key-required = Debe seleccionar unha chave de destinatario.
+filter-key-not-found = Non se puido atopar unha chave de cifrado para «{ $desc }».
+filter-warn-key-not-secret =
+    Aviso: a acción de filtro «Cifrar a chave» substitúe aos destinatarios.
+    Se non ten a chave secreta para «{ $desc }» xa non poderá ler os correos electrónicos.
 
 ## Account settings export output
 
