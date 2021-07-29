@@ -99,6 +99,30 @@ openpgp-key-man-backup-secret-keys =
 openpgp-key-man-discover-cmd =
     .label = Descubrir chaves en liña
     .accesskey = D
+openpgp-key-man-discover-prompt = Para descubrir as chaves OpenPGP en liña, nos servidores de chaves ou usando o protocolo WKD, insira un enderezo de correo electrónico ou un identificador de chave.
+openpgp-key-man-discover-progress = Buscando…
+openpgp-key-copy-key =
+    .label = Copiar a chave pública
+    .accesskey = C
+openpgp-key-export-key =
+    .label = Exportar chave pública para un ficheiro
+    .accesskey = E
+openpgp-key-backup-key =
+    .label = Salvagardar a chave secreta nun ficheiro
+    .accesskey = S
+openpgp-key-send-key =
+    .label = Enviar a chave pública por correo electrónico
+    .accesskey = E
+openpgp-key-man-copy-to-clipbrd =
+    .label = Copiar unha ou máis chaves públicas no portapapeis
+    .accesskey = C
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Copiar o identificador da chave no portapapeis
+           *[other] Copiar os identificadores das chaves no portapapeis
+        }
+    .accesskey = P
 
 ## e2e encryption settings
 
