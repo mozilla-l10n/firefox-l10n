@@ -8,7 +8,6 @@
 newtab-page-title = Yeni Sekme
 newtab-settings-button =
     .title = Yeni Sekme sayfanızı özelleştirin
-
 newtab-personalize-button-label = Kişiselleştir
     .title = Yeni sekmeyi kişiselleştir
     .aria-label = Yeni sekmeyi kişiselleştir
@@ -24,9 +23,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Ara
     .aria-label = Ara
-
 newtab-search-box-search-the-web-text = Web’de ara
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } ile arama yapın veya adres yazın
@@ -41,12 +38,11 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Arama yapın veya adres yazın
     .title = Arama yapın veya adres yazın
     .aria-label = Arama yapın veya adres yazın
-
 newtab-search-box-search-the-web-input =
     .placeholder = Web’de ara
     .title = Web’de ara
     .aria-label = Web’de ara
-
+newtab-search-box-text = Web’de ara
 newtab-search-box-input =
     .placeholder = Web’de ara
     .aria-label = Web’de ara
@@ -61,12 +57,10 @@ newtab-topsites-edit-shortcut-header = Kısayolu düzenle
 newtab-topsites-title-label = Başlık
 newtab-topsites-title-input =
     .placeholder = Başlık yazın
-
 newtab-topsites-url-label = Adres
 newtab-topsites-url-input =
     .placeholder = Adres yazın ve yapıştırın
 newtab-topsites-url-validation = Geçerli bir adres gerekli
-
 newtab-topsites-image-url-label = Özel resim adresi
 newtab-topsites-use-image-link = Özel resim kullan…
 newtab-topsites-image-validation = Resim yüklenemedi. Başka bir adres deneyin.
@@ -95,12 +89,10 @@ newtab-topsite-sponsored = Sponsorlu
 newtab-menu-section-tooltip =
     .title = Menüyü aç
     .aria-label = Menüyü aç
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Kaldır
     .aria-label = Kaldır
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -169,12 +161,10 @@ newtab-label-removed-bookmark = Yer imi silindi
 newtab-label-recommended = Popüler
 newtab-label-saved = { -pocket-brand-name }’a kaydedildi
 newtab-label-download = İndirildi
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsorlu
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -213,12 +203,10 @@ newtab-section-header-pocket = { $provider } öneriyor
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Gezinmeye başlayın. Son zamanlarda baktığınız veya yer imlerinize eklediğiniz bazı güzel makaleleri, videoları ve diğer sayfaları burada göstereceğiz.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Hepsini bitirdiniz. Yeni { $provider } haberleri için daha fazla yine gelin. Beklemek istemiyor musunuz? İlginç yazılara ulaşmak için popüler konulardan birini seçebilirsiniz.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -260,7 +248,6 @@ newtab-custom-pocket-sponsored = Sponsorlu haberler
 newtab-custom-recent-title = Son etkinlikler
 newtab-custom-recent-subtitle = Son kullanılan siteler ve içeriklerden bir seçki
 newtab-custom-close-button = Kapat
-
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

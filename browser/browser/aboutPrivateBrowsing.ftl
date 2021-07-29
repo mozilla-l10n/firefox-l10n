@@ -9,6 +9,8 @@ about-private-browsing-info-title = Gizli penceredesiniz
 about-private-browsing-info-myths = Gizli gezinti ile ilgili yaygın efsaneler
 about-private-browsing =
     .title = Web’de ara
+about-private-browsing-search-btn =
+    .title = Web’de ara
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -21,10 +23,8 @@ about-private-browsing-handoff-text = { $engine } ile arama yapın veya adres ya
 about-private-browsing-handoff-text-no-engine = Arama yapın veya adres yazın
 about-private-browsing-not-private = Şu anda gizli bir pencerede değilsiniz.
 about-private-browsing-info-description = { -brand-short-name } uygulamasından çıktığınızda veya tüm Gizli Gezinti sekmelerini ve pencerelerini kapattığınızda arama ve gezinti geçmişiniz temizlenir. Bu işlem, web sitelerinin ve internet servis sağlayıcınızın sizi tanımamasını sağlamaz ama bu bilgisayarı kullanan başkaları varsa internette yaptıklarınızı onlardan gizlemenizi sağlar.
-
 about-private-browsing-need-more-privacy = Daha fazla gizliliğe mi ihtiyacınız var?
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name }’i deneyin
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

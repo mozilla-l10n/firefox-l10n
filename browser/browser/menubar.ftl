@@ -38,20 +38,16 @@ menu-quit =
             [windows] k
            *[other] k
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } uygulamasından çık
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } tarayıcısından çık
-
 menu-about =
     .label = { -brand-shorter-name } hakkında
     .accesskey = h
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Bağlantıyı e-postayla gönder…
     .accesskey = e
+menu-file-share-url =
+    .label = Paylaş
+    .accesskey = a
 menu-file-print-setup =
     .label = Sayfa düzeni…
     .accesskey = ü
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Metin kodlaması
     .accesskey = k
-
 menu-view-repair-text-encoding =
     .label = Metin kodlamasını onar
     .accesskey = M
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Son kapatılan sekmeler
 menu-history-undo-window-menu =
     .label = Son kapatılan pencereler
-
 menu-history-reopen-all-tabs = Tüm sekmeleri yeniden aç
 menu-history-reopen-all-windows = Tüm pencereleri yeniden aç
 
