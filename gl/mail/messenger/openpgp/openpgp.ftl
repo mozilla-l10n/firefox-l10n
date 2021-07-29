@@ -324,6 +324,31 @@ openpgp-key-has-expired-icon =
 openpgp-key-expand-section =
     .tooltiptext = Máis información
 openpgp-key-revoke-title = Revogar a chave
+openpgp-key-edit-title = Mudar a chave OpenPGP
+openpgp-key-edit-date-title = Ampliar a data de caducidade
+openpgp-manager-description = Use o Xestor de chaves OpenPGP para ver e xestionar as chaves públicas dos seus correspondentes e todas as demais chaves non listadas anteriormente.
+openpgp-manager-button =
+    .label = Xestor de chaves OpenPGP
+    .accesskey = X
+openpgp-key-remove-external =
+    .label = Eliminar o identificador da chave externa
+    .accesskey = E
+key-external-label = Chave GnuPG externa
+# Strings in keyDetailsDlg.xhtml
+key-type-public = chave pública
+key-type-primary = chave primaria
+key-type-subkey = subchave
+key-type-pair = par de chaves (chave secreta e chave pública)
+key-expiry-never = nunca
+key-usage-encrypt = Cifrar
+key-usage-sign = Asinar
+key-usage-certify = Certificar
+key-usage-authentication = Autenticación
+key-does-not-expire = A chave non caduca
+key-expired-date = A chave caducou o { $keyExpiry }
+key-expired-simple = A chave caducou
+key-revoked-simple = A chave foi revogada
+key-do-you-accept = Acepta esta chave para verificar sinaturas dixitais e cifrar mensaxes?
 
 ## Account settings export output
 
