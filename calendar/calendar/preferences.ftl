@@ -4,6 +4,7 @@
 
 calendar-title = Kalender
 calendar-title-reminder = Påminnelser
+calendar-title-notification = Varsler
 calendar-title-category = Kategorier
 dateformat-label =
     .value = Datoformat:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Standard varslingstid før en oppgave:
     .accesskey = g
+calendar-notifications-customize-label = Varsler kan tilpasses for hver kalender i innstillingene for kalenderen.
 category-new-label = Ny kategori
 category-edit-label = Rediger kategori
 category-overwrite-title = Advarsel: Duplikatnavn

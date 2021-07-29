@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "K">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Åpne">
-<!ENTITY lightning.menupopup.open.accesskey           "p">
-<!ENTITY lightning.menupopup.open.message.label       "Lagrede meldinger …">
-<!ENTITY lightning.menupopup.open.message.accesskey   "L">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Kalenderfiler …">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
@@ -51,6 +45,10 @@
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Denne innstillingen kan for tiden bare endres, hvis du har opprettet en kalender, hvor det er kalenderserveren som håndterar utsending av e-post.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Denne innstillingen kan bare endres, hvis det er kalenderserveren som håndterer utsending av e-post. Velger du å aktivere innstillingen, har klienten mulighet for selv å sende ut e-post istedenfor å overlate det til serveren.">
+
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Varsler">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Globale varslingsinnstillinger…">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Aksepter">
