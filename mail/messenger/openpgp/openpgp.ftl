@@ -442,6 +442,12 @@ delete-pub-key =
 delete-selected-pub-key = Quere eliminar as chaves públicas?
 refresh-all-question = Non seleccionou ningunha chave. Quere actualizar TODAS as chaves?
 key-man-button-export-sec-key = Exportar as chaves &secretas
+key-man-button-export-pub-key = Exportar só as chaves &públicas
+key-man-button-refresh-all = &Actualizar todas as chaves
+key-man-loading-keys = Cargando as chaves, agarde…
+ascii-armor-file = Ficheiros ASCII blindados (*.asc)
+no-key-selected = Debería seleccionar polo menos unha chave para realizar a operación seleccionada
+export-to-file = Exportar chave pública a un ficheiro
 
 ## Account settings export output
 
