@@ -261,9 +261,27 @@ openpgp-acceptance-unverified-label =
     .label = Si, mais non verifiquei se é a chave correcta.
 openpgp-acceptance-verified-label =
     .label = Si, verifiquei persoalmente que esta chave ten a impresión dixital correcta.
+key-accept-personal =
+    Para esta chave, ten tanto a parte pública como a secreta. Pode usala como chave persoal.
+    Se alguén lle deu esta chave, entón non a use como chave persoal.
+key-personal-warning = Creou vostede esta chave e a propiedade da chave amosada refírese a si mesmo?
+openpgp-personal-no-label =
+    .label = Non, non usar como a miña chave persoal.
+openpgp-personal-yes-label =
+    .label = Si, tratar esta chave como unha chave persoal.
+openpgp-copy-cmd-label =
+    .label = Copiar
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird non atopou ningunha chave OpenPGP persoal asociada a <b>{ $identity }</b>
+        [one] Thunderbird atopou { $count } chave OpenPGP persoal asociada a <b>{ $identity }</b>
+       *[other] Thunderbird atopou { $count } chaves OpenPGP persoais asociadas a <b>{ $identity }</b>
+    }
 
 ## OpenPGP Key selection area
 
