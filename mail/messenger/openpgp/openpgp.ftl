@@ -349,6 +349,14 @@ key-expired-date = A chave caducou o { $keyExpiry }
 key-expired-simple = A chave caducou
 key-revoked-simple = A chave foi revogada
 key-do-you-accept = Acepta esta chave para verificar sinaturas dixitais e cifrar mensaxes?
+key-accept-warning = Evite aceptar unha chave falsa. Utilice unha canle de comunicación diferente do correo electrónico para verificar a impresión dixital da chave do seu correspondente.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Non se puido enviar a mensaxe porque hai un problema coa súa chave persoal. { $problema }
+cannot-encrypt-because-missing = Non se puido enviar esta mensaxe co cifrado de extremo a extremo porque hai problemas coas chaves dos seguintes destinatarios: { $problem }
+window-locked = A xanela de redacción está bloqueada; cancelouse o envío
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Parte da mensaxe cifrada
+mime-decrypt-encrypted-part-concealed-data = Esta é unha parte da mensaxe cifrada. Debe abrila nunha xanela separada facendo clic no anexo.
 
 ## Account settings export output
 
