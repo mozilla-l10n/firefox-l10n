@@ -131,4 +131,5 @@ repair-text-encoding-button =
 ## no-reply handling
 
 no-reply-title = Tiririt ur tettusefrak ara
+no-reply-message = Tansa n tririt ({ $email }) ur d-tban ara d tansa yettuɛassen. Iznan yettwaznen ɣer tensa-a ulac ahat win i ten-yeɣran.
 no-reply-reply-anyway-button = Err akken ibɣu yili
