@@ -4,7 +4,6 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
-
 # Description of the import module
 thunderbird-import-description = Inportatu postak Thunderbird profil karpeta batetik
-
+import-select-profile-zip = Hautatu zip formatuko profil karpeta
