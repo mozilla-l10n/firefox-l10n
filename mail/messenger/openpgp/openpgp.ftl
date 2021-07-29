@@ -425,6 +425,13 @@ import-from-clip = Quere importar unha ou máis chaves do portapapeis?
 import-from-url = Descargar a chave pública desde este URL:
 copy-to-clipbrd-failed = Non se puideron copiar as chaves seleccionadas no portapapeis.
 copy-to-clipbrd-ok = A ou as chaves copiáronse no portapapeis
+delete-secret-key =
+    AVISO: Está a piques de eliminar unha chave secreta.
+    
+    Se elimina a súa chave secreta, xa non poderá descifrar ningunha mensaxe cifrada para esa chave, nin poderá revogala.
+    
+    De verdade quere eliminar AS DÚAS CHAVES, a chave secreta e a chave pública
+    «{ $UserId }»?
 
 ## Account settings export output
 
