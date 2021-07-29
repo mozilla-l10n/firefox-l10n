@@ -858,6 +858,8 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Actualament, sètz en mòde FIPS. Lo mòde FIPS requerís un senhal principal pas void.
 forms-master-pw-fips-desc = La modificacion de senhal a pas capitat
+forms-windows-sso =
+    .label = Autorizar l’autentificacion unica de Windows per Microsoft, pel trabalh e los comptes escolars
 forms-windows-sso-learn-more-link = Ne saber mai
 
 ## OS Authentication dialog
