@@ -439,6 +439,9 @@ delete-mix =
 delete-pub-key =
     Quere eliminar a chave pública
     «{ $UserId }»?
+delete-selected-pub-key = Quere eliminar as chaves públicas?
+refresh-all-question = Non seleccionou ningunha chave. Quere actualizar TODAS as chaves?
+key-man-button-export-sec-key = Exportar as chaves &secretas
 
 ## Account settings export output
 
