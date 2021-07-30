@@ -9,6 +9,8 @@ about-private-browsing-info-title = თქვენ იმყოფებით 
 about-private-browsing-info-myths = არასწორი წარმოდგენები პირადი თვალიერების რეჟიმის შესახებ
 about-private-browsing =
     .title = ძიება ინტერნეტში
+about-private-browsing-search-btn =
+    .title = ძიება ინტერნეტში
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -21,10 +23,8 @@ about-private-browsing-handoff-text = მოძებნეთ { $engine } ს�
 about-private-browsing-handoff-text-no-engine = მოძებნეთ ან შეიყვანეთ მისამართი
 about-private-browsing-not-private = ამჟამად პირად ფანჯარაში არ იმყოფებით.
 about-private-browsing-info-description = { -brand-short-name } გაასუფთავებს თქვენ მიერ მოძიებული და მონახულებული გვერდების ისტორიას პროგრამიდან გამოსვლისას ან ყველა პირადი ჩანართისა და ფანჯრის დახურვისას. მართალია ეს არ ფარავს თქვენს ვინაობას საიტებისა და ინტერნეტმომსახურების მომწოდებლისგან, თუმცა დაგეხმარებათ დაიცვათ პირადი მონაცემები კომპიუტერის სხვა მომხმარებლებისგან.
-
 about-private-browsing-need-more-privacy = გესაჭიროებათ მეტი უსაფრთხოება?
 about-private-browsing-turn-on-vpn = გამოცადეთ { -mozilla-vpn-brand-name }
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

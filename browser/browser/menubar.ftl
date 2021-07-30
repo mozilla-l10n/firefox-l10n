@@ -38,20 +38,16 @@ menu-quit =
             [windows] ლ
            *[other] გ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = დაიხუროს { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = დატოვეთ { -brand-shorter-name }
-
 menu-about =
     .label = { -brand-shorter-name } შესახებ
     .accesskey = შ
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = ბმულის გაგზავნა ელფოსტით…
     .accesskey = ე
+menu-file-share-url =
+    .label = გაზიარება
+    .accesskey = ზ
 menu-file-print-setup =
     .label = გვერდის პარამეტრები...
     .accesskey = ტ
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = ტექსტის კოდირება
     .accesskey = კ
-
 menu-view-repair-text-encoding =
     .label = ტექსტის კოდირების გასწორება
     .accesskey = კ
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = ბოლოს დახურული ჩანართები
 menu-history-undo-window-menu =
     .label = ბოლოს დახურული ფანჯრები
-
 menu-history-reopen-all-tabs = ყველა ჩანართის ხელახლა გახსნა
 menu-history-reopen-all-windows = ყველა ფანჯრის ხელახლა გახსნა
 
