@@ -4,7 +4,6 @@
 
 refresh-profile-dialog =
     .title = Azbevaat { -brand-short-name }
-
 refresh-profile-dialog-button =
     .label = Azbevaat { -brand-short-name }
 refresh-profile-description = Kregiñ gant un aelad nevez evit reizhañ ar c'hudennoù ha gwellaat an digonusted.
@@ -13,3 +12,4 @@ refresh-profile-remove = dilamet hoc'h askouezhioù hag ho personeladurioù
 refresh-profile-restore = assavet arventennoù dre ziouer ho merdeer
 refresh-profile = Roit { -brand-short-name } un taol lañs nevez
 refresh-profile-button = Azbevaat { -brand-short-name }…
+refresh-profile-learn-more = Gouzout hiroc’h
