@@ -7,7 +7,6 @@ page-subtitle =
     Esta página contém informação técnica que pode ser útil para quando estiver
     a tentar resolver um problema. Se estiver à procura de respostas a questões comuns
     acerca do { -brand-short-name }, aceda ao nosso <a data-l10n-name="support-link">site de apoio</a>.
-
 crashes-title = Relatórios de falha
 crashes-id = ID do relatório
 crashes-send-date = Enviado
@@ -63,6 +62,7 @@ app-basics-enabled-plugins = Plugins ativados
 app-basics-build-config = Configuração da compilação
 app-basics-user-agent = Agente do utilizador
 app-basics-os = SO
+app-basics-os-theme = Tema do sistema operativo
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = Rosetta Translated
@@ -135,7 +135,6 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Tente o modo de segurança
 restart-in-safe-mode-label = Reiniciar com os extras desativados…
-
 troubleshoot-mode-title = Diagnosticar problemas
 restart-in-troubleshoot-mode-label = Modo de diagnóstico…
 clear-startup-cache-title = Tente limpar a cache de arranque
@@ -223,7 +222,6 @@ support-third-party-modules-down-icon =
     .title = Mostrar informações detalhadas
 support-third-party-modules-up-icon =
     .title = Recolher informações detalhadas
-
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -231,7 +229,6 @@ report-crash-for-days =
         [one] Relatórios de falha para { $days } dia
        *[other] Relatórios de falha para os últimos { $days } dias
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -239,7 +236,6 @@ crashes-time-minutes =
         [one] { $minutes } minuto atrás
        *[other] { $minutes } minutos atrás
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -247,7 +243,6 @@ crashes-time-hours =
         [one] { $hours } hora atrás
        *[other] { $hours } horas atrás
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -255,7 +250,6 @@ crashes-time-days =
         [one] { $days } dia atrás
        *[other] { $days } dias atrás
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -263,7 +257,6 @@ pending-reports =
         [one] Todos os relatórios de falha (incluindo { $reports } relatório pendente de um dado intervalo de tempo)
        *[other] Todos os relatórios de falha (incluindo { $reports } relatórios pendentes de um dado intervalo de tempo)
     }
-
 raw-data-copied = Dados em bruto copiados para a área de transferência
 text-copied = Texto copiado para a área de transferência
 
@@ -276,11 +269,9 @@ blocked-mismatched-version = Bloqueado por não correspondência do registo e DL
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloqueado para a sua versão do controlador gráfico. Tente atualizar o controlador da sua placa gráfica para a versão { $driverVersion } ou mais recente.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parâmetros ClearType
-
 compositing = Composição
 hardware-h264 = Descodificação H264 por hardware
 main-thread-no-omtc = thread principal, sem OMTC
@@ -295,7 +286,6 @@ virtual-monitor-disp = Ecrã virtual
 
 found = Encontrada
 missing = Em falta
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descrição
@@ -319,25 +309,20 @@ webgl2-version = Versão do controlador WebGL 2
 webgl2-driver-extensions = Extensões do controlador WebGL 2
 webgl2-extensions = Extensões WebGL 2
 blocklisted-bug = Na lista de bloqueio devido a problemas conhecidos
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = erro { $bugNumber }
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Bloqueado devido a problemas conhecidos: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Na lista de bloqueio; código de falha { $failureCode }
-
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Decodificador de vídeo D3D11
 d3d9video-crash-guard = Decodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Descodificador vídeo WMF VPX
-
 reset-on-next-restart = Repor no próximo reinício
 gpu-process-kill-button = Terminar processo GPU
 gpu-device-reset = Reposição do dispositivo
@@ -347,10 +332,8 @@ content-uses-tiling = Utiliza mosaicos (conteúdo)
 off-main-thread-paint-enabled = Pintura fora da thread principal ativada
 off-main-thread-paint-worker-count = Contagem de workers de pintura fora da thread principal
 target-frame-rate = Taxa de frames alvo
-
 min-lib-versions = Versão mínima esperada
 loaded-lib-versions = Versão em utilização
-
 has-seccomp-bpf = Seccomp-BPF (Filtro de chamada do sistema)
 has-seccomp-tsync = Sincronização de threads Seccomp
 has-user-namespaces = Espaço de nomes do utilizador
@@ -364,18 +347,15 @@ sandbox-proc-type-content = conteúdo
 sandbox-proc-type-file = conteúdo de ficheiro
 sandbox-proc-type-media-plugin = plugin multimédia
 sandbox-proc-type-data-decoder = descodificador de dados
-
 startup-cache-title = Cache de inicialização
 startup-cache-disk-cache-path = Caminho da cache em disco
 startup-cache-ignore-disk-cache = Ignorar cache em disco
 startup-cache-found-disk-cache-on-init = Encontrada cache em disco na inicialização
 startup-cache-wrote-to-disk-cache = Gravado na cache em disco
-
 launcher-process-status-0 = Ativado
 launcher-process-status-1 = Desativado devido a falha
 launcher-process-status-2 = Desativado forçadamente
 launcher-process-status-unknown = Estado desconhecido
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -388,7 +368,6 @@ multi-process-status-6 = Desativado pela introdução de texto não suportada
 multi-process-status-7 = Desativado pelos extras
 multi-process-status-8 = Desativado forçadamente
 multi-process-status-unknown = Estado desconhecido
-
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -403,9 +382,7 @@ fission-status-disabled-by-default = Desativado por predefinição
 fission-status-enabled-by-user-pref = Ativado pelo utilizador
 fission-status-disabled-by-user-pref = Desativado pelo utilizador
 fission-status-disabled-by-e10s-other = E10 desativados
-
 fission-status-enabled-by-rollout = Ativado para disponibilização por fases
-
 async-pan-zoom = Deslocamento panorâmico/zoom assíncronos
 apz-none = nenhum
 wheel-enabled = introdução com roda ativada
@@ -442,7 +419,6 @@ support-remote-experiments-title = Experiências remotas
 support-remote-experiments-name = Nome
 support-remote-experiments-branch = Ramo experimental
 support-remote-experiments-see-about-studies = Consulte <a data-l10n-name="support-about-studies-link">about:studies</a> para mais informações, incluindo como desativar experiências individuais ou impedir que o { -brand-short-name } execute este tipo de experiências no futuro.
-
 support-remote-features-title = Funcionalidades remotas
 support-remote-features-name = Nome
 support-remote-features-status = Estado
