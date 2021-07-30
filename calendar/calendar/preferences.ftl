@@ -4,6 +4,7 @@
 
 calendar-title = კალენდარი
 calendar-title-reminder = შეხსენებები
+calendar-title-notification = შეტყობინებები
 calendar-title-category = კატეგორიები
 dateformat-label =
     .value = თარიღის ტექსტური ფორმატი:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = შეხსენების ნაგულისხმევი დრო, დაყენებულია დავალებამდე:
     .accesskey = უ
+calendar-notifications-customize-label = შეტყობინებების მორგება შესაძლებელია თითოეული კალენდრისთვის, პარამეტრების ფანჯარაში.
 category-new-label = ახალი კატეგორია
 category-edit-label = კატეგორიის ჩასწორება
 category-overwrite-title = გაფრთხილება: ერთნაირი დასახელება
