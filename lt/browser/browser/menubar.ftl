@@ -38,20 +38,16 @@ menu-quit =
             [windows] B
            *[other] B
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Baigti „{ -brand-shorter-name }“ darbą
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Baigti „{ -brand-shorter-name }“ darbą
-
 menu-about =
     .label = Apie „{ -brand-shorter-name }“
     .accesskey = A
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Išsiųsti saitą el. paštu…
     .accesskey = ų
+menu-file-share-url =
+    .label = Dalintis
+    .accesskey = l
 menu-file-print-setup =
     .label = Puslapio nuostatos…
     .accesskey = n
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Teksto koduotė
     .accesskey = k
-
 menu-view-repair-text-encoding =
     .label = Sutvarkyti simbolių koduotę
     .accesskey = k
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Paskiausiai užvertos kortelės
 menu-history-undo-window-menu =
     .label = Paskiausiai užverti langai
-
 menu-history-reopen-all-tabs = Įkelti visas korteles
 menu-history-reopen-all-windows = Įkelti visus langus
 
