@@ -8,6 +8,10 @@ about-addressbook-title = მისამართების წიგნა�
 
 about-addressbook-toolbar-new-address-book =
     .label = ახალი წიგნაკი
+about-addressbook-toolbar-add-carddav-address-book =
+    .label = CardDAV-წიგნაკის დამატება
+about-addressbook-toolbar-add-ldap-address-book =
+    .label = LDAP-წიგნაკის დამატება
 about-addressbook-toolbar-new-contact =
     .label = ახალი პირი
 about-addressbook-toolbar-new-list =
@@ -16,7 +20,6 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = ყველა წიგნაკი
-
 about-addressbook-books-context-properties =
     .label = პარამეტრები
 about-addressbook-books-context-synchronize =
@@ -25,6 +28,16 @@ about-addressbook-books-context-print =
     .label = ამობეჭდვა…
 about-addressbook-books-context-delete =
     .label = წაშლა
+about-addressbook-books-context-remove =
+    .label = მოცილება
+about-addressbook-confirm-delete-book-title = წიგნაკის წაშლა
+# Variables:
+# $name (String) - Name of the address book to be deleted.
+about-addressbook-confirm-delete-book = ნამდვილად გსურთ წაიშალოს { $name } შიგთავსიანად?
+about-addressbook-confirm-remove-remote-book-title = მისამართების წიგნაკის მოცილება
+# Variables:
+# $name (String) - Name of the remote address book to be removed.
+about-addressbook-confirm-remove-remote-book = ნამდვილად გსურთ მოცილდეს { $name }?
 
 ## Cards
 
@@ -34,17 +47,14 @@ about-addressbook-search =
     .placeholder = მოიძებნოს { $name }
 about-addressbook-search-all =
     .placeholder = მოიძებნოს ყველა წიგნაკი
-
 about-addressbook-sort-button =
     .title = ჩამონათვალის რიგითობის შეცვლა
-
 about-addressbook-name-format-display =
     .label = გამოსაჩენი სახელი
 about-addressbook-name-format-firstlast =
     .label = სახელი, გვარი
 about-addressbook-name-format-lastfirst =
     .label = გვარი, სახელი
-
 about-addressbook-sort-name-ascending =
     .label = დალაგება სახელით (ანბანურად)
 about-addressbook-sort-name-descending =
@@ -53,13 +63,13 @@ about-addressbook-sort-email-ascending =
     .label = დალაგება ელფოსტის მისამართით (ანბანურად)
 about-addressbook-sort-email-descending =
     .label = დალაგება ელფოსტის მისამართით (უკუანბანურად)
+about-addressbook-confirm-delete-mixed-title = ხალხისა და სიების წაშლა
 
 ## Details
 
 about-addressbook-begin-edit-contact-button = ჩასწორება
 about-addressbook-cancel-edit-contact-button = გაუქმება
 about-addressbook-save-edit-contact-button = შენახვა
-
 about-addressbook-details-email-addresses-header = ელფოსტის მისამართები
 about-addressbook-details-phone-numbers-header = ტელეფონის ნომრები
 about-addressbook-details-home-address-header = ბინის მისამართი
