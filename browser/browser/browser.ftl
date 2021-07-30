@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (privatusis naršymas)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (privatusis naršymas)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (privatusis naršymas)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (privatusis naršymas)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -89,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Valdyti papildinių naudojimą
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Tvarkyti kameros ir mikrofono naudojimą svetainėje
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Tvarkyti kitų garsiakalbių naudojimą svetainėje
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Atverti automatinio grojimo polangį
 urlbar-persistent-storage-notification-anchor =
@@ -111,7 +113,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Rašykite mažiau, raskite daugiau: ieškokite per „{ $engineName }“ tiesiai iš savo adreso lauko.
 urlbar-search-tips-redirect-2 = Pradėkite savo paiešką adreso lauke, norėdami matyti žodžių siūlymus iš „{ $engineName }“ bei jūsų naršymo istorijos.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Pasirinkite šį leistuką, norėdami greičiau rasti tai, ko ieškote.
@@ -148,12 +149,10 @@ urlbar-midi-blocked =
     .tooltiptext = Šioje svetainėje esate užblokavę MIDI naudojimą.
 urlbar-install-blocked =
     .tooltiptext = Šioje svetainėje esate užblokavę priedų diegimą.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Taisyti šį adresyno įrašą ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -163,7 +162,6 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Pridėti į adreso lauką
-
 page-action-manage-extension =
     .label = Tvarkyti priedą…
 page-action-remove-from-urlbar =
@@ -185,15 +183,12 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Šįkart ieškokite su:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Keisti paieškos nuostatas
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Keisti paieškos nuostatas
-
 search-one-offs-context-open-new-tab =
     .label = Ieškoti naujoje kortelėje
     .accesskey = k
@@ -203,14 +198,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Skirti numatytąja ieškykle privačiojo naršymo langams
     .accesskey = p
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -258,13 +251,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Rodyti redagavimo formą įrašant
     .accesskey = R
-
 bookmark-panel-done-button =
     .label = Atlikta
-
 bookmark-panel-save-button =
     .label = Įrašyti
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -294,7 +284,6 @@ identity-weak-encryption = Šis tinklalapis naudoja silpną šifravimą.
 identity-insecure-login-forms = Šiame tinklalapyje įvesti prisijungimo duomenys gali būti perimti.
 identity-permissions =
     .value = Leidimai
-
 identity-https-only-connection-upgraded = (naudojamas HTTPS)
 identity-https-only-label = Tik HTTPS veiksena
 identity-https-only-dropdown-on =
@@ -306,11 +295,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Įjunkite tik HTTPS veikseną šiai svetainei, jei norite, kad „{ -brand-short-name }“ naudotų saugų ryšį kai tik įmanoma.
 identity-https-only-info-turn-off2 = Jei tinklalkapis veikia netinkamai, gali tekti išjungti tik HTTPS veikseną šiai svetainei, ir įkelti iš naujo naudojant nesaugų HTTP.
 identity-https-only-info-no-upgrade = Nepavyko perkelti ryšio iš HTTP.
-
 identity-permissions-storage-access-header = Tarp svetainių veikiantys slapukai
 identity-permissions-storage-access-hint = Šios šalys gali naudoti tarp svetainių veikiančius slapukus ir svetainių duomenis, kai esate šioje svetainėje.
 identity-permissions-storage-access-learn-more = Sužinoti daugiau
-
 identity-permissions-reload-hint = Kad būtų pritaikyti pakeitimai, tinklalapį galimai reikia atsiųsti iš naujo.
 identity-permissions-empty = Šiai svetainei nesate suteikę jokių ypatingų leidimų.
 identity-clear-site-data =
@@ -376,7 +363,6 @@ browser-tab-mute =
         [few] NUTILDYTI { $count } KORTELES
        *[other] NUTILDYTI { $count } KORTELIŲ
     }
-
 browser-tab-unmute =
     { $count ->
         [1] ĮJUNGTI GARSĄ KORTELĖJE
@@ -384,7 +370,6 @@ browser-tab-unmute =
         [few] ĮJUNGTI GARSĄ { $count } KORTELĖSE
        *[other] ĮJUNGTI GARSĄ { $count } KORTELIŲ
     }
-
 browser-tab-unblock =
     { $count ->
         [1] GROTI KORTELĖJE
@@ -398,7 +383,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Importuoti adresyną…
     .tooltiptext = Importuoti kitos naršyklės adresyną į „{ -brand-short-name }“.
-
 bookmarks-toolbar-empty-message = Spartesniam pasiekimui, patalpinkite savo adresyno įrašus šioje adresyno priemonių juostoje. <a data-l10n-name="manage-bookmarks">Tvarkyti adresyną…</a>
 
 ## WebRTC Pop-up notifications
@@ -409,7 +393,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofonas, kurį leisite pasiekti:
     .accesskey = M
-
 popup-select-camera-device =
     .value = Kamera:
     .accesskey = K
@@ -423,26 +406,20 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Garsiakalbiai
 popup-all-windows-shared = Bus leidžiama matyti visus jūsų ekrane matomus langus.
-
 popup-screen-sharing-not-now =
     .label = Ne dabar
     .accesskey = b
-
 popup-screen-sharing-never =
     .label = Niekada neleisti
     .accesskey = N
-
 popup-silence-notifications-checkbox = Išjungti „{ -brand-short-name }“ pranešimus dalinantis
 popup-silence-notifications-checkbox-warning = „{ -brand-short-name }“ nerodys pranešimų, kai jūs dalinatės.
-
 popup-screen-sharing-block =
     .label = Neleisti
     .accesskey = N
-
 popup-screen-sharing-always-block =
     .label = Visada neleisti
     .accesskey = V
-
 popup-mute-notifications-checkbox = Nutildyti svetainės pranešimus dalinantis
 
 ## WebRTC window or screen share tab switch warning
@@ -458,19 +435,16 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Norėdami naudoti spartųjį klavišą „F12“, pirma atverkite saityno kūrėjų priemones iš meniu „Saityno kūrėjams“.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Įveskite adresą arba paieškos žodžius
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Įveskite adresą arba paieškos žodžius
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Naršyklė valdoma per nuotolį
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -479,7 +453,6 @@ urlbar-remote-control-notification-anchor =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Ieškokite saityne
     .aria-label = Ieškoti per „{ $name }“
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -488,27 +461,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Įveskite ieškomą tekstą
     .aria-label = Ieškoti per „{ $name }“
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Įveskite ieškomą tekstą
     .aria-label = Ieškoti adresyne
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Įveskite ieškomą tekstą
     .aria-label = Ieškoti žurnale
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Įveskite ieškomą tekstą
     .aria-label = Ieškote kortelėse
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Ieškokite per „{ $name }“ arba įveskite adresą
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -518,11 +486,9 @@ urlbar-permissions-granted =
     .tooltiptext = Šiai svetainei esate suteikę papildomų leidimų.
 urlbar-switch-to-tab =
     .value = Pereiti į kortelę:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Priedas:
-
 urlbar-go-button =
     .tooltiptext = Eiti į adreso lauke surinktą adresą
 urlbar-page-action-button =
@@ -592,12 +558,9 @@ urlbar-result-action-search-tabs = Ieškoti kortelėse
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> dabar yra visame ekrane
 fullscreen-warning-no-domain = Šis dokumentas dabar yra visame ekrane
-
-
 fullscreen-exit-button = Grįžti iš viso ekrano (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Grįžti iš viso ekrano (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -607,7 +570,6 @@ pointerlock-warning-no-domain = Šis dokumentas valdo jūsų žymeklį. Spustel�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Dalis šio tinklalapio užstrigo.</strong> Norėdami pranešti apie šią problemą „{ -brand-product-name }“ ir greičiau ją išspręsti, nusiųskite pranešimą.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -663,7 +625,6 @@ bookmarks-tools =
     .label = Adresyno priemonės
 bookmarks-bookmark-edit-panel =
     .label = Taisyti adresyno įrašą
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -677,7 +638,6 @@ bookmarks-toolbar-placeholder =
     .title = Adresyno juostos elementai
 bookmarks-toolbar-placeholder-button =
     .label = Adresyno juostos elementai
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Įrašyti šią kortelę į adresyną
@@ -708,7 +668,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Priedai ir grafiniai apvalkalai
     .tooltiptext = Tvarkykite savo priedus ir grafinius apvalkalus ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -750,3 +709,9 @@ addon-removal-abuse-report-checkbox = Pranešti apie šį priedą į „{ -vendo
 remote-tabs-manage-account =
     .label = Tvarkyti paskyrą
 remote-tabs-sync-now = Sinchronizuoti dabar
+
+##
+
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Daugiau…
