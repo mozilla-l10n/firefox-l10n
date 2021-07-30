@@ -22,6 +22,9 @@
 <!ENTITY maxusers.label     "Máx. utilizadores:">
 <!ENTITY maxusers.accesskey "x">
 
+<!ENTITY refreshNow.label     "Recarregar agora">
+<!ENTITY refreshNow.accesskey "R">
+
 <!ENTITY network.hint.label "Escreva um nome de uma rede ou servidor (pode incluir uma porta) e um canal para se ligar.">
 
 <!ENTITY col.network "Rede">
