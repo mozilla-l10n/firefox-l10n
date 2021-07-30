@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = ამჟამად ყველა კალენდარი გამორთულია. ჩართეთ არსებული ან დაამატეთ ახალი, ღონისძიებების შექმნისა და ჩასწორებისთვის.
 calendar-deactivated-notification-tasks = ამჟამად ყველა კალენდარი გამორთულია. ჩართეთ არსებული ან დაამატეთ ახალი, დავალებების შექმნისა და ჩასწორებისთვის.
+calendar-notifications-label = შეტყობინებების ჩვენება, მომავალი ღონისძიებების
+calendar-add-notification-button =
+    .label = შეტყობინების დამატება
