@@ -180,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Forvalgt tidsrum for hvornår en  alarm aktiveres før en opgave:
     .accesskey = o
+calendar-notifications-customize-label = Beskeder kan tilpasses for hver kalender i kalenderens egenskaber.
 category-new-label = Ny kategori
 category-edit-label = Rediger kategori
 category-overwrite-title = Advarsel: Navnet findes allerede
