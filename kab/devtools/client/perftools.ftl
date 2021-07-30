@@ -38,9 +38,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Teɣzi n tkatut n uḥraz:
-
 perftools-custom-threads-label = Rnu asqerdec udmawan s yisem:
-
 perftools-devtools-interval-label = Azilal:
 perftools-devtools-threads-label = Asqerdec:
 perftools-devtools-settings-label = Iɣewwaṛen
@@ -81,6 +79,8 @@ perftools-thread-renderer =
     .title = Mi ara WebRender yetturmed, asqerdec i iselkamen isawalen OpenGL
 perftools-thread-render-backend =
     .title = Asqerdec n WebRender RenderBackend
+perftools-thread-style-thread =
+    .title = Asesfer n uɣanib yettwabḍa gar waṭas n yisqerdcen
 pref-thread-stream-trans =
     .title = Asiweḍ n usuddem n uzeṭṭa
 perftools-thread-img-decoder =
@@ -95,5 +95,6 @@ perftools-thread-dns-resolver =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+perftools-onboarding-message = <b>Amaynut</b>: { -profiler-brand-name } yettwasleɣ tura deg yifecka n tneflit. <a>Issin ugar</a> qef ufecku-a amaynut yelhan.
 perftools-onboarding-close-button =
     .aria-label = Mdel izen n uslaɣ

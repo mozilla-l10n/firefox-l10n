@@ -38,20 +38,16 @@ menu-quit =
             [windows] F
            *[other] F
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Anef { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Anef { -brand-shorter-name }
-
 menu-about =
     .label = Ɣef { -brand-shorter-name }
     .accesskey = Γ
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Azen s yimayl aseɣwen ɣeṛ usebter…
     .accesskey = A
+menu-file-share-url =
+    .label = Bḍu
+    .accesskey = ḍ
 menu-file-print-setup =
     .label = Tarusi n yisebtar…
     .accesskey = a
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Asettengel n uḍris
     .accesskey = s
-
 menu-view-repair-text-encoding =
     .label = Ṣeggem asettengel n uḍris
     .accesskey = g
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Accaren imedlen melmi kan
 menu-history-undo-window-menu =
     .label = Isfuyla imedlen melmi kan
-
 menu-history-reopen-all-tabs = Ales tawaledyawt n meṛṛa accaren
 menu-history-reopen-all-windows = Ales tawaledyawt n meṛṛa isfuyla
 

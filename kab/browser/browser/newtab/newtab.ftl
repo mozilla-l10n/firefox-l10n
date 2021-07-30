@@ -8,7 +8,6 @@
 newtab-page-title = Iccer amaynut
 newtab-settings-button =
     .title = Sagen asebter n yiccer-ik amaynut
-
 newtab-personalize-button-label = Sagen
     .title = Sagen iccer amaynut
     .aria-label = Sagen iccer amaynut
@@ -24,9 +23,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Nadi
     .aria-label = Nadi
-
 newtab-search-box-search-the-web-text = Nadi di Web
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Nadi s { $engine } neɣ sekcem tansa
@@ -41,12 +38,11 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Nadi neɣ sekcem tansa
     .title = Nadi neɣ sekcem tansa
     .aria-label = Nadi neɣ sekcem tansa
-
 newtab-search-box-search-the-web-input =
     .placeholder = Nadi di Web
     .title = Nadi di Web
     .aria-label = Nadi di Web
-
+newtab-search-box-text = Nadi di web
 newtab-search-box-input =
     .placeholder = Nadi di web
     .aria-label = Nadi di web
@@ -61,12 +57,10 @@ newtab-topsites-edit-shortcut-header = Ẓreg anegzum
 newtab-topsites-title-label = Azwel
 newtab-topsites-title-input =
     .placeholder = Sekcem azwel
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Aru neɣ sekcem tansa URL
 newtab-topsites-url-validation = Tansa URL tameɣtut tettwasra
-
 newtab-topsites-image-url-label = Tugna tudmawant URL
 newtab-topsites-use-image-link = Seqdec tugna tudmawant…
 newtab-topsites-image-validation = Tugna ur d-uli ara. Ɛreḍ tansa-nniḍen URL.
@@ -95,12 +89,10 @@ newtab-topsite-sponsored = S lmendad
 newtab-menu-section-tooltip =
     .title = Ldi umuɣ
     .aria-label = Ldi umuɣ
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Kkes
     .aria-label = Kkes
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -169,12 +161,10 @@ newtab-label-removed-bookmark = Tacreṭ n usebter tettwakkes
 newtab-label-recommended = Tiddin
 newtab-label-saved = Yettwakles ɣer { -pocket-brand-name }
 newtab-label-download = Yuli-d
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Yettwarfed
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -213,12 +203,10 @@ newtab-section-header-pocket = Iwelleh-it-id { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Bdu tuniginn sakin nekkni ad k-n-sken imagraden, tividyutin, akked isebtar nniḍen i γef terziḍ yakan neγ i tceṛḍeḍ dagi.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ulac wiyaḍ. Uɣal-d ticki s wugar n imagraden seg { $provider }. Ur tebɣiḍ ara ad terǧuḍ? Fren asentel seg wid yettwasnen akken ad twaliḍ imagraden yelhan di Web.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -260,7 +248,6 @@ newtab-custom-pocket-sponsored = Tiqṣidin yettwarefden
 newtab-custom-recent-title = Armud n melmi kan
 newtab-custom-recent-subtitle = Tafrant n yismal d ugbur n melmi kan
 newtab-custom-close-button = Mdel
-
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
