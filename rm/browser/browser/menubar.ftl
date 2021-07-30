@@ -38,20 +38,16 @@ menu-quit =
             [windows] T
            *[other] T
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Terminar { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Terminar { -brand-shorter-name }
-
 menu-about =
     .label = Davart { -brand-shorter-name }
     .accesskey = D
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Trametter la colliaziun via e-mail…
     .accesskey = E
+menu-file-share-url =
+    .label = Cundivider
+    .accesskey = u
 menu-file-print-setup =
     .label = Organisar la pagina…
     .accesskey = O
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Codaziun dal text
     .accesskey = C
-
 menu-view-repair-text-encoding =
     .label = Reparar la codaziun dal text
     .accesskey = c
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Tabs serrads dacurt
 menu-history-undo-window-menu =
     .label = Fanestras serradas dacurt
-
 menu-history-reopen-all-tabs = Reavrir tut ils tabs
 menu-history-reopen-all-windows = Reavrir tut las fanestras
 
