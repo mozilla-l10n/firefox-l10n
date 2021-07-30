@@ -8,7 +8,6 @@
 newtab-page-title = Nauja kortelė
 newtab-settings-button =
     .title = Tinkinkite savo naujos kortelės puslapį
-
 newtab-personalize-button-label = Tinkinti
     .title = Tinkinti naują kortelę
     .aria-label = Tinkinti naują kortelę
@@ -24,9 +23,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Ieškoti
     .aria-label = Ieškoti
-
 newtab-search-box-search-the-web-text = Ieškokite saityne
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Įveskite adresą arba ieškokite per „{ $engine }“
@@ -41,12 +38,11 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Įveskite adresą arba paieškos žodžius
     .title = Įveskite adresą arba paieškos žodžius
     .aria-label = Įveskite adresą arba paieškos žodžius
-
 newtab-search-box-search-the-web-input =
     .placeholder = Ieškokite saityne
     .title = Ieškokite saityne
     .aria-label = Ieškokite saityne
-
+newtab-search-box-text = Ieškokite saityne
 newtab-search-box-input =
     .placeholder = Ieškokite saityne
     .aria-label = Ieškokite saityne
@@ -61,12 +57,10 @@ newtab-topsites-edit-shortcut-header = Keisti leistuką
 newtab-topsites-title-label = Pavadinimas
 newtab-topsites-title-input =
     .placeholder = Įveskite pavadinimą
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Įveskite arba įklijuokite URL
 newtab-topsites-url-validation = Reikalingas tinkamas URL
-
 newtab-topsites-image-url-label = Kitoks paveikslo URL
 newtab-topsites-use-image-link = Naudoti kitą paveikslą…
 newtab-topsites-image-validation = Nepavyko įkelti paveikslo. Pabandykite kitokį URL.
@@ -95,12 +89,10 @@ newtab-topsite-sponsored = Remiama
 newtab-menu-section-tooltip =
     .title = Atverti meniu
     .aria-label = Atverti meniu
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Pašalinti
     .aria-label = Pašalinti
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -173,12 +165,10 @@ newtab-label-removed-bookmark = Adresyno įrašas pašalintas
 newtab-label-recommended = Populiaru
 newtab-label-saved = Įrašyta į „{ -pocket-brand-name }“
 newtab-label-download = Atsiųsta
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Rėmėjas
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -217,12 +207,10 @@ newtab-section-header-pocket = Rekomenduoja „{ $provider }“
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Pradėkite naršyti, o mes čia pateiksime puikių straipsnių, vaizdo įrašų bei kitų tinklalapių, kuriuose neseniai lankėtės ar įtraukėte į adresyną.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Viską perskaitėte. Užsukite vėliau, norėdami rasti daugiau gerų straipsnių iš „{ $provider }“. Nekantraujate? Pasirinkite populiarią temą, norėdami rasti daugiau puikių straipsnių saityne.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -265,7 +253,6 @@ newtab-custom-pocket-sponsored = Rėmėjų straipsniai
 newtab-custom-recent-title = Paskiausia veikla
 newtab-custom-recent-subtitle = Paskiausiai lankytos svetainės ir žiūrėtas turinys
 newtab-custom-close-button = Užverti
-
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
