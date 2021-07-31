@@ -44,8 +44,8 @@ newtab-search-box-search-the-web-input =
     .aria-label = 在网络上搜索
 newtab-search-box-text = 网上搜索
 newtab-search-box-input =
-    .placeholder = 在网上搜索
-    .aria-label = 在网上搜索
+    .placeholder = 网上搜索
+    .aria-label = 网上搜索
 
 ## Top Sites - General form dialog.
 
