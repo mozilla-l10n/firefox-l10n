@@ -19,7 +19,20 @@ appmenuitem-new-private-window =
     .label = नयी निजी विंडो
 appmenuitem-passwords =
     .label = पासवर्ड
-
+appmenuitem-addons-and-themes =
+    .label = ऐड-ऑन और थीम
+appmenuitem-exit2 =
+    .label =
+        { PLATFORM() ->
+            [linux] छोड़ें
+           *[other] बाहर निकलें
+        }
+appmenu-menu-button-closed2 =
+    .tooltiptext = एप्लिकेशन मेन्यू खोलें
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = एप्लिकेशन मेन्यू बंद करें
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -31,7 +44,6 @@ appmenuitem-zoom-enlarge =
     .label = बड़ा करें
 appmenuitem-zoom-reduce =
     .label = छोटा करें
-
 appmenuitem-fullscreen =
     .label = पूर्ण स्क्रीन
 
@@ -39,17 +51,19 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = अब तुल्यकालित करें
-
+appmenu-remote-tabs-sign-into-sync =
+    .label = सिंक करने के लिए साइन इन करें...
+appmenu-remote-tabs-turn-on-sync =
+    .label = सिंक चालू करें…
+appmenuitem-fxa-toolbar-sync-now2 = अभी सिंक करें
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = साइन इन
-
 appmenuitem-save-page =
     .label = पृष्ठ ऐसे सहेजें…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = क्या नया है
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -62,23 +76,19 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-learn-more = अधिक जानें
-
 profiler-popup-settings =
     .value = सेटिंग
-
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = सेटिंग संपादित करें…
 profiler-popup-recording-screen = रिकॉर्डिंग…
-
 profiler-popup-start-recording-button =
     .label = रिकॉर्डिंग शुरू करें
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -87,6 +97,8 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-reopen-all-tabs = सभी टैब फिर से खोलें
+appmenu-reopen-all-windows = सभी विंडो फिर से खोलें
 appmenu-restore-session =
     .label = पिछला सत्र पुनर्बहाल करें
 appmenu-clear-history =
@@ -99,6 +111,8 @@ appmenu-recently-closed-windows =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } मदद
 appmenu-about =
     .label = { -brand-shorter-name } का परिचय
     .accesskey = A
@@ -126,4 +140,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = कार्य प्रबंधक
-
