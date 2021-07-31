@@ -14,3 +14,4 @@ openpgp-compose-key-status-open-details = Administroni kyçe për marrësit e p�
 openpgp-recip-good = ok
 openpgp-recip-missing = s’ka kyçe
 openpgp-recip-none-accepted = s’ka kyç të pranuar
+openpgp-compose-general-info-alias-learn-more = Mësoni më tepër

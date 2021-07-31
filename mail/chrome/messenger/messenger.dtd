@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "v">
 <!ENTITY importCmd.label "Importoni…">
 <!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Eksportoni…">
+<!ENTITY exportCmd.accesskey "x">
 <!ENTITY clearRecentHistory.label "Spastroni Historikun Së Fundi…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Rregullime Llogarie">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Vendndodhje">
 <!ENTITY idColumn.label "Radhë sipas Marrjes">
 <!ENTITY attachmentColumn.label "Bashkëngjitje">
-
 <!ENTITY deleteColumn.label "Fshije">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Renditi sipas vendndodhjesh">
 <!ENTITY idColumn2.tooltip "Renditi sipas radhe marrjeje">
 <!ENTITY attachmentColumn2.tooltip "Renditi sipas bashkëngjitjesh">
-
 <!ENTITY deleteColumn.tooltip "Fshini një mesazh">
 
 <!-- Thread Pane Context Menu -->
