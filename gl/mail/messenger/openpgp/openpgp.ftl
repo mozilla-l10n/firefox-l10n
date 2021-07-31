@@ -478,6 +478,31 @@ key-ring-enc-sub-keys-expired = Caducaron todas as subchaves de cifrado da chave
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
 user-att-photo = Atributo de usuario (imaxe JPEG)
+# Strings in key.jsm
+already-revoked = Esta chave xa foi revogada.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Está a piques de revogar a chave «{ $identity }».
+    Xa non poderá asinar con esta chave e, unha vez distribuída, outras xa non poderán cifrar con dita chave. Aínda pode usar a clave para descifrar mensaxes antigas.
+    Quere continuar?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Non ten ningunha chave (0x { $keyId }) que coincida con este certificado de revogación.
+    Se perdeu a chave, debe importala (por exemplo, desde un servidor de chaves) antes de importar o certificado de revogación.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = A chave 0x{ $keyId } xa foi revogada.
+key-man-button-revoke-key = &Revogar chave
+openpgp-key-revoke-success = A chave revogouse correctamente.
+after-revoke-info =
+    A chave foi revogada.
+    Comparta esta chave pública de novo, enviándoa por correo electrónico ou subíndoa aos servidores de chaves, para que os demais saiban que revogou a súa chave.
+    En canto o software utilizado por outras persoas coñeza a revogación, deixará de usar a súa chave antiga.
+    Se está a usar unha nova chave para o mesmo enderezo de correo electrónico e anexa a nova chave pública aos correos electrónicos que envía, incluirase automaticamente a información sobre a súa chave antiga revogada.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importar
+delete-key-title = Eliminar a chave OpenPGP
+delete-external-key-title = Retirar a chave GnuPG externa
+delete-external-key-description = Quer retirar este identificador de chave GnuPG externa?
 
 # Strings used in enigmailMessengerOverlay.js
 
