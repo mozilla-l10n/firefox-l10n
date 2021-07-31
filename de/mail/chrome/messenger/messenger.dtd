@@ -493,7 +493,7 @@
 <!ENTITY filtersApply.label "Filter auf Ordner anwenden">
 <!ENTITY filtersApply.accesskey "O">
 <!ENTITY filtersApplyToSelection.label "Filter auf gewählte Nachrichten anwenden">
-<!ENTITY filtersApplyToSelection.accesskey "g">
+<!ENTITY filtersApplyToSelection.accesskey "N">
 <!ENTITY filtersApplyToMessage.label "Filter auf Nachricht anwenden">
 <!ENTITY filtersApplyToMessage.accesskey "N">
 <!ENTITY runJunkControls.label "Junk-Filter auf Ordner anwenden">
