@@ -38,20 +38,16 @@ menu-quit =
             [windows] ы
            *[other] В
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Выйсці з { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Выйсці з { -brand-shorter-name }
-
 menu-about =
     .label = Пра { -brand-shorter-name }
     .accesskey = П
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Даслаць спасылку эл.поштай…
     .accesskey = с
+menu-file-share-url =
+    .label = Падзялiцца
+    .accesskey = П
 menu-file-print-setup =
     .label = Наладзіць старонку…
     .accesskey = л
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Кадаванне тэксту
     .accesskey = к
-
 menu-view-repair-text-encoding =
     .label = Выправіць кадаванне тэксту
     .accesskey = В
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Нядаўна закрытыя карткі
 menu-history-undo-window-menu =
     .label = Нядаўна закрытыя вокны
-
 menu-history-reopen-all-tabs = Перааадкрыць усе карткі
 menu-history-reopen-all-windows = Перааадкрыць усе вокны
 
