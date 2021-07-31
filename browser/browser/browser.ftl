@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Кіраваць выкарыстаннем плагіна
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Кіраваць доступам сайта да вашай камеры і/або мікрафона
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Кіраваць доступам сайта да iншых дынамiкаў
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Адкрыць панэль аўтапрайгравання
 urlbar-persistent-storage-notification-anchor =
