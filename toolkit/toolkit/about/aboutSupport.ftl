@@ -7,7 +7,6 @@ page-subtitle =
     Denne side indeholder teknisk information som måske kan være brugbar når du forsøger 
     at løse et problem. Hvis du leder efter svar på ofte spurgte spørgsmål om { -brand-short-name }, 
     kan du besøge vores <a data-l10n-name="support-link">supportwebsted</a>
-
 crashes-title = Fejlrapporter
 crashes-id = Rapport-ID
 crashes-send-date = Sendt
@@ -63,6 +62,7 @@ app-basics-enabled-plugins = Aktive plugins
 app-basics-build-config = Byggekonfiguration
 app-basics-user-agent = User Agent
 app-basics-os = Styresystem
+app-basics-os-theme = Operativsystemets tema
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = Rosetta Translated
@@ -135,7 +135,6 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenter
 safe-mode-title = Prøv fejlsikret tilstand
 restart-in-safe-mode-label = Genstart med tilføjelser deaktiveret…
-
 troubleshoot-mode-title = Diagnosticer problemer
 restart-in-troubleshoot-mode-label = Fejlsøgnings-tilstand…
 clear-startup-cache-title = Prøv at rydde opstarts-cachen
@@ -223,7 +222,6 @@ support-third-party-modules-down-icon =
     .title = Vis detaljeret information
 support-third-party-modules-up-icon =
     .title = Skjul detaljeret information
-
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -231,7 +229,6 @@ report-crash-for-days =
         [one] Fejlrapporter for det seneste døgn
        *[other] Fejlrapporter for de seneste { $days } døgn
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -239,7 +236,6 @@ crashes-time-minutes =
         [one] { $minutes } minut siden
        *[other] { $minutes } minutter siden
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -247,7 +243,6 @@ crashes-time-hours =
         [one] { $hours } time siden
        *[other] { $hours } timer siden
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -255,7 +250,6 @@ crashes-time-days =
         [one] { $days } dag siden
        *[other] { $days } dage siden
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -263,7 +257,6 @@ pending-reports =
         [one] Alle fejlrapporter (inklusive { $reports } afventende fejl i den angivne tidsramme)
        *[other] Alle fejlrapporter (inklusive { $reports } afventende fejl i den angivne tidsramme)
     }
-
 raw-data-copied = Rå data blev kopieret til udklipsholderen
 text-copied = Tekst blev kopieret til udklipsholderen
 
@@ -276,11 +269,9 @@ blocked-mismatched-version = Ikke understøttet af driveren til dit grafikkort p
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Ikke understøttet i denne grafik-driver-version. Prøv at opgradere din grafik-driver til version { $driverVersion } eller nyere.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametre
-
 compositing = Komposition
 hardware-h264 = H264-afkodning i hardware
 main-thread-no-omtc = main thread, ingen OMTC
@@ -295,7 +286,6 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Fundet
 missing = Mangler
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Beskrivelse
@@ -319,25 +309,20 @@ webgl2-version = WebGL 2 Driver-version
 webgl2-driver-extensions = WebGL 2 Driver-udvidelser
 webgl2-extensions = WebGL 2-udvidelser
 blocklisted-bug = Blokeret på grund af kendte problemer
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Blokeret på grund af kendte problemer: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blokeret; fejlkode { $failureCode }
-
 d3d11layers-crash-guard = D3D11-kompositoren
 d3d11video-crash-guard = D3D11-videodekoder
 d3d9video-crash-guard = D3D9-videodekoder
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX-videodekoder
-
 reset-on-next-restart = Nulstil ved næste genstart
 gpu-process-kill-button = Afslut GPU-process
 gpu-device-reset = Device Reset
@@ -347,10 +332,8 @@ content-uses-tiling = Anvender tiling (indhold)
 off-main-thread-paint-enabled = Rasteriser sider i særskilt proces
 off-main-thread-paint-worker-count = Antal workers til rastering af sider i særskilt proces
 target-frame-rate = Mål for framerate
-
 min-lib-versions = Forventet minimumsversion
 loaded-lib-versions = Version i brug
-
 has-seccomp-bpf = Seccomp-BPF (filtrering af systemkald)
 has-seccomp-tsync = Seccomp tråd-synkronisering
 has-user-namespaces = Navneområder
@@ -364,18 +347,15 @@ sandbox-proc-type-content = indhold
 sandbox-proc-type-file = fil-indhold
 sandbox-proc-type-media-plugin = medie-plugin
 sandbox-proc-type-data-decoder = data-decoder
-
 startup-cache-title = Opstarts-cache
 startup-cache-disk-cache-path = Sti til disk-cache
 startup-cache-ignore-disk-cache = Ignorer disk-cache
 startup-cache-found-disk-cache-on-init = Fandt disk-cache på Init
 startup-cache-wrote-to-disk-cache = Skrev til disk-cache
-
 launcher-process-status-0 = Aktiveret
 launcher-process-status-1 = Deaktiveret på grund af en fejl
 launcher-process-status-2 = Deaktiveret
 launcher-process-status-unknown = Ukendt status
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -388,7 +368,6 @@ multi-process-status-6 = Deaktiveret på grund af ikke-understøttet indsætning
 multi-process-status-7 = Deaktiveret af tilføjelser
 multi-process-status-8 = Gennemtving deaktivering
 multi-process-status-unknown = Ukendt status
-
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -403,9 +382,7 @@ fission-status-disabled-by-default = Deaktiveret som standard
 fission-status-enabled-by-user-pref = Aktiveret af bruger
 fission-status-disabled-by-user-pref = Deaktiveret af bruger
 fission-status-disabled-by-e10s-other = E10s deaktiveret
-
 fission-status-enabled-by-rollout = Aktiveret af trinvis udrulning
-
 async-pan-zoom = Asynkron panorering/zoom
 apz-none = ingen
 wheel-enabled = input fra rullehjul
@@ -442,7 +419,6 @@ support-remote-experiments-title = Fjern-eksperimenter
 support-remote-experiments-name = Navn
 support-remote-experiments-branch = Eksperimental-gren
 support-remote-experiments-see-about-studies = Få mere information på siden <a data-l10n-name="support-about-studies-link">about:studies</a>. Hér kan du fx læse om at slå specifikke eksperimenter fra eller om, hvordan du beder { -brand-short-name } om ikke at køre denne slags eksperimenter i fremtiden.
-
 support-remote-features-title = Fjern-funktioner
 support-remote-features-name = Navn
 support-remote-features-status = Status
