@@ -471,6 +471,13 @@ key-ring-pub-key-expired = A chave { $userId } (Identificador da chave { $keyId 
 key-ring-no-secret-key = Semella que vostede non ten a chave secreta para { $userId } (Identificador da chave { $keyId }) no seu chaveiro; vostede non pode utilizar a chave para asinar.
 key-ring-pub-key-not-for-signing = A chave { $userId } (Identificador da chave { $keyId }) non se pode usar para asinar.
 key-ring-pub-key-not-for-encryption = A chave { $userId } (Identificador da chave { $keyId }) non se pode usar para cifrar.
+key-ring-sign-sub-keys-revoked = Revóganse todas as subchaves de sinatura da chave { $userId } (Identificador de chave { $keyId }).
+key-ring-sign-sub-keys-expired = Caducaron todas as subchaves de sinatura da chave { $userId } (Identificador de chave { $keyId }).
+key-ring-enc-sub-keys-revoked = Revóganse todas as subchaves de cifrado da chave { $userId } (Identificador de chave { $keyId }).
+key-ring-enc-sub-keys-expired = Caducaron todas as subchaves de cifrado da chave { $userId } (Identificador de chave { $keyId }).
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
+user-att-photo = Atributo de usuario (imaxe JPEG)
 
 # Strings used in enigmailMessengerOverlay.js
 
