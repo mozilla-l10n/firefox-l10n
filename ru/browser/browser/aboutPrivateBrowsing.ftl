@@ -10,7 +10,7 @@ about-private-browsing-info-myths = Распространённые мифы о
 about-private-browsing =
     .title = Поиск в Интернете
 about-private-browsing-search-btn =
-    .title = Поиск в Интернете
+    .title = Искать в Интернете
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
