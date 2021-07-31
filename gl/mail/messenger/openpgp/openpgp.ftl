@@ -469,6 +469,8 @@ openpgp-export-secret-fail = <b>Non se puido exportar a chave secreta selecciona
 key-ring-pub-key-revoked = A chave { $userId } (Identificador da chave { $keyId }) foi revogada.
 key-ring-pub-key-expired = A chave { $userId } (Identificador da chave { $keyId }) caducou.
 key-ring-no-secret-key = Semella que vostede non ten a chave secreta para { $userId } (Identificador da chave { $keyId }) no seu chaveiro; vostede non pode utilizar a chave para asinar.
+key-ring-pub-key-not-for-signing = A chave { $userId } (Identificador da chave { $keyId }) non se pode usar para asinar.
+key-ring-pub-key-not-for-encryption = A chave { $userId } (Identificador da chave { $keyId }) non se pode usar para cifrar.
 
 # Strings used in enigmailMessengerOverlay.js
 
