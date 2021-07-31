@@ -107,6 +107,13 @@ tab-context-close-tabs =
            *[other] Chiudi schede
         }
     .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Chiudi scheda
+           *[other] Chiudi { $tabCount } schede
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
