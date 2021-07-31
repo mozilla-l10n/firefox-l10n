@@ -503,6 +503,8 @@ key-man-button-import = &Importar
 delete-key-title = Eliminar a chave OpenPGP
 delete-external-key-title = Retirar a chave GnuPG externa
 delete-external-key-description = Quer retirar este identificador de chave GnuPG externa?
+key-in-use-title = A chave OpenPGP está a ser utilizada actualmente
+delete-key-in-use-description = Non se puido proceder. A chave que seleccionou para eliminar esta a ser utilizada por esta identidade. Seleccione unha chave diferente ou non seleccione ningunha e ténteo de novo.
 
 # Strings used in enigmailMessengerOverlay.js
 
