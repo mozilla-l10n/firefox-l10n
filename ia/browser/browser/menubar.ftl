@@ -38,20 +38,16 @@ menu-quit =
             [windows] E
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Quitar { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Exir de { -brand-shorter-name }
-
 menu-about =
     .label = A proposito de { -brand-shorter-name }
     .accesskey = p
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Inviar le ligamine per email…
     .accesskey = l
+menu-file-share-url =
+    .label = Compartir
+    .accesskey = C
 menu-file-print-setup =
     .label = Configurar le pagina…
     .accesskey = u
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Codification del texto
     .accesskey = C
-
 menu-view-repair-text-encoding =
     .label = Corriger le codification del texto:
     .accesskey = c
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Schedas claudite recentemente
 menu-history-undo-window-menu =
     .label = Fenestras claudite recentemente
-
 menu-history-reopen-all-tabs = Reaperir tote le schedas
 menu-history-reopen-all-windows = Reaperir tote le fenestras
 
