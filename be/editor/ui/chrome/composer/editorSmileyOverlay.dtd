@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Тварык">
 <!ENTITY insertSmiley.accesskey "Т">
+
 <!ENTITY smiley1Cmd.label "Усмешка">
 <!ENTITY smiley1Cmd.accesskey "У">
 <!ENTITY smiley1Cmd.tooltip "Уставіць тварык-усмешку">
@@ -52,4 +54,5 @@
 <!ENTITY smiley16Cmd.label "Надзьмуты">
 <!ENTITY smiley16Cmd.accesskey "Н">
 <!ENTITY smiley16Cmd.tooltip "Уставіць надзьмуты тварык">
+<!ENTITY SmileButton.label "Уставіць смайлік">
 <!ENTITY SmileButton.tooltip "Уставіць тварык-усмешку">
