@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 import-ab-csv-window =
-    .title = Importieren von Adressbuch aus Textdatei
+    .title = Import von Adressbuch aus Textdatei
 
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Vorschau für Datenimport von Eintrag { $recordNumber }
