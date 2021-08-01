@@ -4,6 +4,7 @@
 
 calendar-title = Күнтізбе
 calendar-title-reminder = Еске салулар
+calendar-title-notification = Ескертулер
 calendar-title-category = Санаттар
 dateformat-label =
     .value = Күнді көрсету пішімі:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Еске салудың тапсырма алдындағы бастапқы уақыты:
     .accesskey = ы
+calendar-notifications-customize-label = Ескертулерді күнтізбе баптаулары терезесінде әр күнтізбе үшін баптауға болады.
 category-new-label = Жаңа санат
 category-edit-label = Санатты түзету
 category-overwrite-title = Ескерту: Қосарланған атау
