@@ -22,6 +22,9 @@
 <!ENTITY maxusers.label     "Maximálny počet používateľov:">
 <!ENTITY maxusers.accesskey "x">
 
+<!ENTITY refreshNow.label     "Obnoviť">
+<!ENTITY refreshNow.accesskey "O">
+
 <!ENTITY network.hint.label "Zadajte názov servera alebo siete (môžete zadať aj port) a kanál, ku ktorému sa chcete pripojiť.">
 
 <!ENTITY col.network "Sieť">
