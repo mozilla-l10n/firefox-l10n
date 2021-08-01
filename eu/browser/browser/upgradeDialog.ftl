@@ -20,12 +20,17 @@ upgrade-dialog-new-item-icons-description = Zure bidea ukitu argiago batekin aur
 upgrade-dialog-new-primary-default-button = Egin { -brand-short-name } nire nabigatzaile lehenetsia
 upgrade-dialog-new-primary-theme-button = Aukeratu itxura
 upgrade-dialog-new-secondary-button = Une honetan ez
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = Ados, ulertuta!
 
 ## Pin Firefox screen
 ##
 ## These title, subtitle and button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
+
+upgrade-dialog-pin-secondary-button = Orain ez
 
 ## Default browser screen
 

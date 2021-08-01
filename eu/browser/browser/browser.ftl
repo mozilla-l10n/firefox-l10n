@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Nabigatze pribatua)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Nabigatze pribatua)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Nabigatze pribatua)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Nabigatze pribatua)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -111,7 +109,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Gutxiago idatzi, gehiago aurkitu: bilatu { $engineName } erabiliz helbide-barratik zuzenean.
 urlbar-search-tips-redirect-2 = Hasi zure bilaketa helbide-barran { $engineName } bilatzailearen eta zure nabigazio-historialeko proposamenak ikusteko
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Hautatu lasterbide hau behar duzuna azkarrago bilatzeko.
@@ -148,12 +145,10 @@ urlbar-midi-blocked =
     .tooltiptext = MIDI sarbidea blokeatuta daukazu webgune honetarako.
 urlbar-install-blocked =
     .tooltiptext = Gehigarrien instalazioa blokeatuta daukazu webgune honetarako.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Editatu laster-marka ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -163,15 +158,12 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Gehitu helbide-barran
-
 page-action-manage-extension =
     .label = Kudeatu hedapena…
 page-action-remove-from-urlbar =
     .label = Kendu helbide-barratik
 page-action-remove-extension =
     .label = Kendu hedapena
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -187,15 +179,12 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Oraingoan, bilatu honekin:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Aldatu bilaketa-ezarpenak
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Aldatu bilaketa-ezarpenak
-
 search-one-offs-context-open-new-tab =
     .label = Bilatu fitxa berrian
     .accesskey = f
@@ -205,14 +194,20 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ezarri leiho pribatuetarako bilaketa-motor lehenetsi gisa
     .accesskey = E
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Gehitu "{ $engineName }"
+    .tooltiptext = Gehitu "{ $engineName }" bilaketa-motorra
+    .aria-label = Gehitu "{ $engineName }" bilaketa-motorra
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -251,13 +246,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Erakutsi editorea gordetzean
     .accesskey = E
-
 bookmark-panel-done-button =
     .label = Eginda
-
 bookmark-panel-save-button =
     .label = Gorde
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -275,6 +267,7 @@ identity-header-security-with-host =
     .title = Konexioaren segurtasuna { $host } ostalarirako
 identity-connection-not-secure = Konexio ez-segurua
 identity-connection-secure = Konexio segurua
+identity-connection-failure = Konexioak huts egin du
 identity-connection-internal = { -brand-short-name } orri segurua da hau.
 identity-connection-file = Orri hau zure ordenagailuan biltegiratuta dago.
 identity-extension-page = Orri hau hedapen batetik kargatu da.
@@ -286,7 +279,6 @@ identity-weak-encryption = Orri honek zifraketa ahula erabiltzen du.
 identity-insecure-login-forms = Orri honetan sartutako saio-hasierak arriskuan egon litezke.
 identity-permissions =
     .value = Baimenak
-
 identity-https-only-connection-upgraded = (HTTPSra bihurtu da)
 identity-https-only-label = HTTPS-Only modua
 identity-https-only-dropdown-on =
@@ -298,11 +290,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Aktibatu gune honetarako HTTPS-Only modua, ahal denean { -brand-short-name }(e)k konexioa HTTPSra bihur dezan.
 identity-https-only-info-turn-off2 = Orriak hautsita badirudi, agian HTTPS-Only modua desgaitu nahi duzu gunea HTTP ez-segurua erabiliz berritzeko.
 identity-https-only-info-no-upgrade = Ezin da konexioa bihurtu HTTPtik.
-
 identity-permissions-storage-access-header = Guneen arteko cookieak
 identity-permissions-storage-access-hint = Ondorengo hauek guneen arteko cookie eta datuak erabil ditzakete gune honetan zauden bitartean.
 identity-permissions-storage-access-learn-more = Argibide gehiago
-
 identity-permissions-reload-hint = Agian orria berritu beharko duzu aldaketek eragina izan dezaten.
 identity-permissions-empty = Ez diozu gune honi baimen berezirik eman.
 identity-clear-site-data =
@@ -366,13 +356,11 @@ browser-tab-mute =
         [1] MUTUTU FITXA
        *[other] MUTUTU { $count } FITXA
     }
-
 browser-tab-unmute =
     { $count ->
         [1] EZ MUTUTU FITXA
        *[other] EZ MUTUTU { $count } FITXA
     }
-
 browser-tab-unblock =
     { $count ->
         [1] ERREPRODUZITU FITXA
@@ -384,7 +372,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Inportatu laster-markak…
     .tooltiptext = Inportatu laster-markak beste nabigatzaile batetik { -brand-short-name }(e)ra.
-
 bookmarks-toolbar-empty-message = Sarbide azkarra izateko, ipin itzazu laster-markak hementxe, laster-marken tresna-barran. <a data-l10n-name="manage-bookmarks">Kudeatu laster-markak…</a>
 
 ## WebRTC Pop-up notifications
@@ -395,7 +382,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = Partekatzeko mikrofonoa:
     .accesskey = m
-
 popup-select-camera-device =
     .value = Kamera:
     .accesskey = K
@@ -406,27 +392,23 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = Mikrofonoa
+popup-select-speaker-icon =
+    .tooltiptext = Bozgorailuak
 popup-all-windows-shared = Zure pantailan ikusgai dauden leiho guztiak partekatuko dira.
-
 popup-screen-sharing-not-now =
     .label = Une honetan ez
     .accesskey = z
-
 popup-screen-sharing-never =
     .label = Inoiz ez baimendu
     .accesskey = n
-
 popup-silence-notifications-checkbox = Partekatu bitartean, desgaitu { -brand-short-name }(r)en jakinarazpenak
 popup-silence-notifications-checkbox-warning = { -brand-short-name }(e)k ez du jakinarazpenik bistaratuko partekatzen ari zaren bitartean.
-
 popup-screen-sharing-block =
     .label = Blokeatu
     .accesskey = B
-
 popup-screen-sharing-always-block =
     .label = Blokeatu beti
     .accesskey = k
-
 popup-mute-notifications-checkbox = Mututu webgunearen jakinarazpenak partekatzea aktibo dagoenean
 
 ## WebRTC window or screen share tab switch warning
@@ -442,19 +424,16 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = F12 lasterbidea erabiltzeko, ireki lehenik garatzaile-tresnak 'Web garapena' menutik.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Idatzi bilaketa edo helbidea
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Idatzi bilaketa edo helbidea
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Nabigatzailea urruneko agintepean dago
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -463,7 +442,6 @@ urlbar-remote-control-notification-anchor =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Bilatu webean
     .aria-label = Bilatu { $name } erabiliz
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -472,36 +450,29 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Idatzi bilaketa-terminoak
     .aria-label = Bilatu { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Idatzi bilaketa-terminoak
     .aria-label = Bilatu laster-markak
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Idatzi bilaketa-terminoak
     .aria-label = Bilatu historia
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Idatzi bilaketa-terminoak
     .aria-label = Bilatu fitxak
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Bilatu { $name } erabiliz edo idatzi helbidea
-
 urlbar-permissions-granted =
     .tooltiptext = Baimen bereziak eman dizkiozu webgune honi.
 urlbar-switch-to-tab =
     .value = Aldatu fitxara:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Hedapena:
-
 urlbar-go-button =
     .tooltiptext = Joan kokapen-barrako helbidera
 urlbar-page-action-button =
@@ -571,12 +542,9 @@ urlbar-result-action-search-tabs = Bilatu fitxak
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> pantaila osoan dago orain
 fullscreen-warning-no-domain = Dokumentua pantaila osoan dago orain
-
-
 fullscreen-exit-button = Irten pantaila osotik (Esk)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Irten pantaila osotik (esk)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -586,7 +554,6 @@ pointerlock-warning-no-domain = Dokumentu honek zure erakuslearen kontrola dauka
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Orriaren zati batek huts egin du</strong>. Arazoaren berri eman eta ahalik eta azkarren konpontzeko, bidali mesedez txostena { -brand-product-name }(r)i.
-
 crashed-subframe-learnmore-link =
     .value = Argibide gehiago
 crashed-subframe-submit =
@@ -638,7 +605,6 @@ bookmarks-tools =
     .label = Laster-marken tresnak
 bookmarks-bookmark-edit-panel =
     .label = Editatu laster-marka
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -652,7 +618,6 @@ bookmarks-toolbar-placeholder =
     .title = Laster-marken tresna-barraren osagaiak
 bookmarks-toolbar-placeholder-button =
     .label = Laster-marken tresna-barraren osagaiak
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Egin uneko fitxaren laster-marka
@@ -672,6 +637,7 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -679,7 +645,6 @@ save-to-pocket-button =
 toolbar-addons-themes-button =
     .label = Gehigarriak eta itxurak
     .tooltiptext = Kudeatu zure gehigarriak eta itxurak ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -721,3 +686,6 @@ addon-removal-abuse-report-checkbox = Salatu hedapen hau { -vendor-short-name }(
 remote-tabs-manage-account =
     .label = Kudeatu kontua
 remote-tabs-sync-now = Sinkronizatu orain
+
+##
+
