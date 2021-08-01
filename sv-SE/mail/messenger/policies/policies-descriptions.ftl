@@ -52,6 +52,7 @@ policy-EncryptedMediaExtensions = Aktivera eller inaktivera krypterade medieutö
 policy-Extensions = Installera, avinstallera eller låsa tillägg. Installeringsalternativet tar webbadresser eller sökvägar som parametrar. Alternativen avinstallera och låst tar tilläggs-ID.
 policy-ExtensionSettings = Hantera alla aspekter av tilläggsinstallation.
 policy-ExtensionUpdate = Aktivera eller inaktivera automatiska tilläggsuppdateringar.
+policy-Handlers = Konfigurera standardprogramhanterare.
 policy-HardwareAcceleration = Om falsk, stängs hårdvaruacceleration av.
 policy-InstallAddonsPermission = Tillåt vissa webbplatser att installera tillägg.
 policy-LegacyProfiles = Inaktivera funktionen som framtvingar en separat profil för varje installation.
@@ -64,6 +65,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Återgå till föråld
 ##
 
 policy-LocalFileLinks = Tillåt specifika webbplatser att länka till lokala filer.
+policy-ManualAppUpdateOnly = Tillåt endast manuella uppdateringar och meddela inte användaren om uppdateringar.
 policy-NetworkPrediction = Aktivera eller inaktivera nätverksprediktning (DNS-förhämtning).
 policy-OfferToSaveLogins = Tvinga inställningen för att tillåta { -brand-short-name } att erbjuda att komma ihåg sparade inloggningar och lösenord. Både sanna och falska värden accepteras.
 policy-OfferToSaveLoginsDefault = Ange standardvärdet för att { -brand-short-name } ska erbjuda att komma ihåg sparade inloggningar och lösenord. Både sanna och falska värden accepteras.
@@ -74,6 +76,7 @@ policy-PasswordManagerEnabled = Aktivera att spara lösenord i lösenordshantera
 policy-PDFjs = Inaktivera eller konfigurera PDF.js, den inbyggda PDF-visaren i { -brand-short-name }.
 policy-Permissions2 = Konfigurera behörigheter för kamera, mikrofon, plats, aviseringar och autoplay.
 policy-Preferences = Ställ in och låsa värdet för en delmängd av inställningar.
+policy-PrimaryPassword = Kräv eller förhindra användning av ett huvudlösenord.
 policy-PromptForDownloadLocation = Fråga var du ska spara filer när du laddar ner.
 policy-Proxy = Konfigurera proxyinställningar.
 policy-RequestedLocales = Ange listan över begärda språk för programmet efter ordning i inställningar.
