@@ -8,6 +8,7 @@
 
 <!ENTITY markAsUnreadCmd.label     "Správu ako neprečítanú">
 <!ENTITY markAsUnreadCmd.accesskey "n">
+<!ENTITY markAsUnreadCmd2.key      "u">
 
 <!ENTITY markFlaggedCmd.label     "Správu vlajkou">
 <!ENTITY markFlaggedCmd.accesskey "o">
