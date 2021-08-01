@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "н">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Ашу">
-<!ENTITY lightning.menupopup.open.accesskey           "А">
-<!ENTITY lightning.menupopup.open.message.label       "Сақталған хабарлама…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "л">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Күнтізбе файлы…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "К">
 
@@ -51,6 +45,10 @@
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Әзірше, бұны тек күнтізбе баптауларында күнтізбе сервері жоспарлауды жасайтынын көрсеткеннен кейін іске қоса аласыз.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Бұл опция тек күнтізбе сервері жоспарлауды жасаған кезде қолжетерлік. Бұны іске қосу серверге қалдырмай, қалыпты эл. пошта негізінде жоспарлауға оралу мүмкіндігін береді.">
+
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Ескертулер">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Ескертулердің глобалды баптаулары…">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Қабылдау">
