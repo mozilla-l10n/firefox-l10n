@@ -44,5 +44,10 @@
 <!ENTITY serverPort.label             "Port:">
 <!ENTITY serverPort.accesskey         "P">
 <!ENTITY connectionSecurity.label     "Zabezpečenie pripojenia:">
+<!ENTITY connectionSecurity.accesskey "Z">
 
 <!-- Used in networks-server dialog -->
+<!ENTITY serverEditDialog.title       "IRC server">
+<!ENTITY settings.caption             "Nastavenia">
+<!ENTITY security.caption             "Zabezpečenie">
+<!ENTITY serverPortDefault.label      "Štandardný:">
