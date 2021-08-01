@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Used in networks-edit dialog -->
+<!ENTITY networksEditDialog.title     "Editor sietí">
+<!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
+
+<!ENTITY restoreButton.label          "Obnoviť predvolené nastavenia">
+<!ENTITY restoreButton.accesskey      "b">
+
+<!ENTITY networkListAdd.label         "Pridať sieť…">
+<!ENTITY networkListAdd.accesskey     "r">
+<!ENTITY networkListAdd.tooltip       "Pridať novú sieť">
+<!ENTITY networkListEdit.label        "Upraviť sieť…">
+<!ENTITY networkListEdit.accesskey    "U">
+<!ENTITY networkListEdit.tooltip      "Upraviť označenú sieť">
+<!ENTITY networkListRemove.label      "Odstrániť sieť">
+<!ENTITY networkListRemove.accesskey  "d">
+<!ENTITY networkListRemove.tooltip    "Odstrániť označenú sieť">
+
+<!ENTITY serverListUp.label           "Posunúť nahor">
+<!ENTITY serverListUp.accesskey       "h">
+<!ENTITY serverListUp.tooltip         "Posunúť označenú sieť vyššie v zozname">
+<!ENTITY serverListDown.label         "Posunúť nadol">
+<!ENTITY serverListDown.accesskey     "a">
+<!ENTITY serverListDown.tooltip       "Posunúť označenú sieť nižšie v zozname">
+<!ENTITY serverListAdd.label          "Pridať server…">
+<!ENTITY serverListAdd.accesskey      "s">
+<!ENTITY serverListAdd.tooltip        "Pridať nový server">
+<!ENTITY serverListEdit.label         "Upraviť server…">
+<!ENTITY serverListEdit.accesskey     "e">
+<!ENTITY serverListEdit.tooltip       "Upraviť označený server">
+<!ENTITY serverListRemove.label       "Odstrániť server">
+<!ENTITY serverListRemove.accesskey   "t">
+<!ENTITY serverListRemove.tooltip     "Odstrániť označený server">
+
+<!-- LOCALIZATION NOTE:
+   - *.label are shared between networks-edit and networks-server dialogs
+   - *.accesskey are only used in network-servers dialog -->
+<!ENTITY serverDetails.label          "Podrobnosti o zvolenom serveri:">
+<!ENTITY serverName.label             "Server:">
+<!ENTITY serverName.accesskey         "S">
+<!ENTITY serverPort.label             "Port:">
+<!ENTITY serverPort.accesskey         "P">
+<!ENTITY connectionSecurity.label     "Zabezpečenie pripojenia:">
+
+<!-- Used in networks-server dialog -->
