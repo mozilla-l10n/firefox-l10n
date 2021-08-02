@@ -145,6 +145,7 @@ bcc-compose-show-address-row-menuitem =
 
 ## Notifications
 
+encrypted-bcc-ignore-button = Yettwafham
 
 ## Editing
 
