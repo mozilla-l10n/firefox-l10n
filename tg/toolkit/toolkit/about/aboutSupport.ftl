@@ -40,14 +40,17 @@ support-third-party-modules-folder-icon =
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+yes = Ҳа
+no = Не
 unknown = Номаълум
+virtual-monitor-disp = Экрани монитори маҷозӣ
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+glcontext-crash-guard = OpenGL
 launcher-process-status-unknown = Вазъияти номаълум
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

@@ -39,7 +39,6 @@ about-webrtc-sdp-history-heading = Таърихи SDP
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Интихоб шуд
-
 about-webrtc-save-page-label = Нигоҳ доштани саҳифа
 about-webrtc-stats-clear = Пок кардани таърих
 
@@ -50,6 +49,8 @@ about-webrtc-stats-clear = Пок кардани таърих
 ##  $url (String) - The url of the site which opened the PeerConnection.
 ##  $now (Date) - The JavaScript timestamp at the time the report was generated.
 
+about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
+about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (пӯшида) { $now }
 
 ##
 
