@@ -76,6 +76,7 @@ policy-PasswordManagerEnabled = Galluogi cadw cyfrineiriau i'r rheolwr cyfrinair
 policy-PDFjs = Analluogi neu ffurfweddu PDF.js, darllenydd PDF mewnol { -brand-short-name }.
 policy-Permissions2 = Ffurfweddu caniatâd ar gyfer camera, meicroffon, lleoliad, hysbysiadau ac awtochwarae.
 policy-Preferences = Gosod a chloi'r gwerth ar gyfer is-set o ddewisiadau.
+policy-PrimaryPassword = Ei gwneud yn ofynnol neu i atal defnyddio Prif Gyfrinair.
 policy-PromptForDownloadLocation = Gofynnwch ble i arbed ffeiliau wrth eu llwytho i lawr.
 policy-Proxy = Ffurfweddi gosodiadau dirprwyol.
 policy-RequestedLocales = Gosod y rhestr o locales gofynnol ar gyfer y rhaglen yn ôl eich trefn dewis.
