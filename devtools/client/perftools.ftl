@@ -20,6 +20,8 @@ perftools-heading-features = Tính năng
 perftools-heading-features-default = Tính năng (Được khuyến nghị bật theo mặc định)
 perftools-heading-features-disabled = Tính năng đã tắt
 perftools-heading-features-experimental = Thử nghiệm
+perftools-heading-threads = Luồng
+perftools-heading-local-build = Bản dựng cục bộ
 
 ##
 
@@ -36,8 +38,8 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Kích thước đệm:
-
 perftools-devtools-interval-label = Khoảng thời gian
+perftools-devtools-threads-label = Luồng:
 perftools-devtools-settings-label = Cài đặt
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
@@ -64,6 +66,12 @@ perftools-button-edit-settings = Chỉnh sửa cài đặt…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-dom-worker =
+    .title = Chức năng này xử lý cả Web Workers và Service Workers
+perftools-thread-renderer =
+    .title = Khi WebRender được bật, luồng đó sẽ thực thi lệnh gọi OpenGL
+perftools-thread-render-backend =
+    .title = Luồng WebRender RenderBackend
 
 ##
 
@@ -73,7 +81,5 @@ perftools-button-edit-settings = Chỉnh sửa cài đặt…
 ## preferences are true.
 
 perftools-onboarding-message = <b>Mới</b>: { -profiler-brand-name } hiện được tích hợp vào Công cụ nhà phát triển. <a>Tìm hiểu thêm</a> về công cụ mới mạnh mẽ này.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Trong thời gian giới hạn, bạn có thể truy cập bảng hiệu suất ban đầu qua <a>{ options-context-advanced-settings }</a>)
-
