@@ -180,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Temps de déclenchement d’une alarme avant une tâche :
     .accesskey = s
+calendar-notifications-customize-label = Les notifications peuvent être personnalisées pour chaque agenda dans la fenêtre des propriétés de l’agenda.
 category-new-label = Nouvelle catégorie
 category-edit-label = Modifier la catégorie
 category-overwrite-title = Attention : nom en double
