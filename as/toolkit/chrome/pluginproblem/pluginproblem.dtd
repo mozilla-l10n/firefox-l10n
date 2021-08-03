@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "প্লাগিন সক্ৰিয় কৰিবলৈ ইয়াত টেপ কৰক।">
+<!ENTITY tapToPlayPlugin                                     "প্লাগিন সক্ৰিয় কৰিবলৈ ইয়াত স্পৰ্শ কৰক।">
 <!ENTITY clickToActivatePlugin                               "প্লাগিন সক্ৰিয় কৰক।">
 <!ENTITY checkForUpdates                                     "আপডেটৰ বাবে পৰীক্ষা কৰক…">
 <!ENTITY blockedPlugin.label                                 "আপোনাৰ সুৰক্ষাৰ বাবে এই প্লাগিন অৱৰোধ কৰা হৈছে।">
