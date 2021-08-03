@@ -38,20 +38,16 @@ menu-quit =
             [windows] F
            *[other] F
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Fini { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Fini { -brand-shorter-name }
-
 menu-about =
     .label = Pri { -brand-shorter-name }
     .accesskey = P
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Sendi ligilon retpoŝte…
     .accesskey = S
+menu-file-share-url =
+    .label = Dividi
+    .accesskey = D
 menu-file-print-setup =
     .label = Agordi paĝon…
     .accesskey = A
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Teksta enkodigo
     .accesskey = T
-
 menu-view-repair-text-encoding =
     .label = Ripari tekstan enkodigon
     .accesskey = R
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Antaŭ nelonge fermitaj langetoj
 menu-history-undo-window-menu =
     .label = Antaŭ nelonge fermitaj fenestroj
-
 menu-history-reopen-all-tabs = Remalfermi ĉiujn langetojn
 menu-history-reopen-all-windows = Remalfermi ĉiujn fenestrojn
 
