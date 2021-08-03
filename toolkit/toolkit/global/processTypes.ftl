@@ -8,30 +8,22 @@
 ##
 
 process-type-web = Contingut web
-
 process-type-browser = Principal
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Pàgines «about» privilegiades
-
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Contingut de Mozilla privilegiat
-
 process-type-extension = Extensió
-
 # process used to open file:// URLs
 process-type-file = Fitxer local
-
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Assignació gran
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Contingut web aïllat
-
 # process preallocated; may change to other types
 process-type-prealloc = Preassignat
 
@@ -41,15 +33,17 @@ process-type-prealloc = Preassignat
 
 process-type-default = Principal
 process-type-tab = Pestanya
-
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-
 # process used to perform network operations
 process-type-socket = Sòcol
+# process used to decode media
+process-type-rdd = RDD
 
 ##
 ## Other
 ##
 
+# fallback
+process-type-unknown = Desconegut
