@@ -20,6 +20,7 @@ deniedPortAccess-title = नोवा ठिका़ना दो कोहड�
 fileNotFound-title = ᱨᱮᱫ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ
 fileAccessDenied-title = ᱨᱮᱫ ᱨᱮ ᱫᱚᱠᱷᱚᱞ ᱫᱚ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
 generic-title = ᱮᱦᱮ ᱾
+captivePortal-title = ᱱᱮᱴᱣᱟᱨᱠ ᱨᱮ ᱵᱚᱞᱚ
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = ᱦᱢ ᱾ ᱚᱱᱟ ᱴᱷᱤᱠᱬᱟᱹ ᱫᱚ ᱴᱷᱤᱠ ᱵᱟᱝ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱠᱟᱱᱟ ᱾
