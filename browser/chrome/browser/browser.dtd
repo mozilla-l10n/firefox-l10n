@@ -118,7 +118,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY editMenu.label         "Edición">
 <!ENTITY preferencesCmd2.label       "Opciones">
 <!ENTITY preferencesCmdUnix.label       "Preferencies">
-<!ENTITY logins.label                           "Anicios de sesión y contraseñes">
+<!ENTITY logins.label                           "Cuentes y contraseñes">
 
 <!ENTITY overflowCustomizeToolbar.label       "Personalizar la barra de ferramientes…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">

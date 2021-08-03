@@ -14,11 +14,11 @@
 
 <!ENTITY searchTextBox.clear.label "Llimpiar">
 
-<!ENTITY fillLoginMenu.label          "Rellenar l'aniciu de sesión">
+<!ENTITY fillLoginMenu.label          "Rellenar la cuenta">
 <!ENTITY fillLoginMenu.accesskey      "R">
 <!ENTITY fillPasswordMenu.label       "Rellenar la contraseña">
 <!ENTITY fillPasswordMenu.accesskey   "R">
 <!ENTITY fillUsernameMenu.label       "Rellenar el nome d'usuariu">
 <!ENTITY fillUsernameMenu.accesskey   "R">
-<!ENTITY noLoginSuggestions.label     "(Nun hai anicios de sesión pa suxerír)">
-<!ENTITY viewSavedLogins.label        "Ver los anicios de sesión guardaos">
+<!ENTITY noLoginSuggestions.label     "(Nun hai cuentes pa suxerir)">
+<!ENTITY viewSavedLogins.label        "Ver les cuentes guardaes">
