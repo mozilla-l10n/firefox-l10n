@@ -294,13 +294,13 @@ about-logins-import-dialog-items-added =
     }
 about-logins-import-dialog-items-modified =
     { $count ->
-        [one] <span>Anicios de sesión anovaos:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Anicios de sesión anovaos:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Cuentes anovaes:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Cuentes anovaes:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-        [one] <span>Anicios de sesión duplicaos:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importó)</span>
-       *[other] <span>Anicios de sesión duplicaos:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importaron)</span>
+        [one] <span>Cuentes duplicaes:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importó)</span>
+       *[other] <span>Cuentes duplicaes:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importaron)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
@@ -321,7 +321,7 @@ about-logins-import-dialog-error-no-logins-imported = Nun s'importó nengún ani
 about-logins-import-dialog-error-learn-more = Lleer más
 about-logins-import-dialog-error-cancel = Encaboxar
 about-logins-import-report-title = Sumariu de la importación
-about-logins-import-report-description = Anicios de sesión y contraseñes importaos a { -brand-short-name }.
+about-logins-import-report-description = Cuentes y contraseñes importaes a { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -339,13 +339,13 @@ about-logins-import-report-row-description-error-missing-field = Fallu: Falta { 
 
 about-logins-import-report-added =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Aniciu de sesión nuevu</div>
-       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Anicios de sesión nuevos</div>
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Cuenta nueva</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Cuentes nueves</div>
     }
 about-logins-import-report-modified =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Aniciu de sesión anováu</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Anicios de sesión anovaos</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Cuenta anovada</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Cuentes anovaes</div>
     }
 
 ## Logins import report page
