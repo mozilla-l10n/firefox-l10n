@@ -923,7 +923,7 @@ sitedata-option-block-unvisited =
 sitedata-option-block-all-third-party =
     .label = Toles cookies de terceros (pue estropiar dalgunos sitios)
 sitedata-option-block-all =
-    .label = Toles cookies (va causar que los sitios web ruempan)
+    .label = Toles cookies (va facer que los sitios web s'estropien)
 sitedata-clear =
     .label = Llimpiar los datos…
     .accesskey = L
@@ -986,7 +986,7 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-standard-desc = Proteición y rindimientu equilibraos. Les páxines van cargar con normalidá.
-content-blocking-etp-strict-desc = Más proteición, mas pue romper dalgunos sitios o dalgún conteníu
+content-blocking-etp-strict-desc = Más proteición, mas pue estropiar dalgunos sitios o dalgún conteníu
 content-blocking-etp-custom-desc = Escueyi los rastrexadores y scripts a bloquiar
 content-blocking-etp-blocking-desc = { -brand-short-name } bloquia:
 content-blocking-private-windows = Conteníu que rastrexa nes llingüetes privaes
