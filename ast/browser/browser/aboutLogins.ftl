@@ -15,7 +15,7 @@ login-app-promo-apple =
     .alt = Baxar n'App Store
 login-filter =
     .placeholder = Buscar cuentes
-create-login-button = Crear un aniciu de sesión
+create-login-button = Crear una cuenta
 fxaccounts-sign-in-text = Consigui les tos contraseñes n'otros preseos
 fxaccounts-sign-in-button = Aniciar sesión en { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Aniciar sesión pa sincronizar
@@ -59,7 +59,7 @@ login-list-intro-title = Nun s'atoparon cuentes
 login-list-intro-description = Equí van amosase les contraseñes cuando les guardes en { -brand-product-name }.
 about-logins-login-list-empty-search-title = Nun s'atoparon cuentes
 about-logins-login-list-empty-search-description = Nun hai resultaos que concasen cola busca.
-login-list-item-title-new-login = Aniciu de sesión nuevu
+login-list-item-title-new-login = Cuenta nueva
 login-list-item-subtitle-new-login = Introduz los datos d'aniciu de sesión
 login-list-item-subtitle-missing-username = (ensin nome d'usuariu)
 about-logins-list-item-breach-icon =
@@ -84,7 +84,7 @@ about-logins-intro-import2 = Si les tos cuentes tán guardaes fuera de { -brand-
 
 ## Login
 
-login-item-new-login-title = Creación d'un aniciu de sesión
+login-item-new-login-title = Creación d'una cuenta
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Quitar
 login-item-origin-label = Direición del sitiu web
@@ -120,7 +120,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 about-logins-edit-login-os-auth-dialog-message-win = Pa editar l'aniciu de sesión, introduz los datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = editar l'aniciu de sesión guardáu
+about-logins-edit-login-os-auth-dialog-message-macosx = editar la cuenta guardada
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pa ver la contraseña, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -171,7 +171,7 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Encaboxar
 confirmation-dialog-dismiss-button =
     .title = Encaboxar
-about-logins-confirm-remove-dialog-title = ¿Quitar esti aniciu de sesión?
+about-logins-confirm-remove-dialog-title = ¿Quitar esta cuenta?
 confirm-delete-dialog-message = Esta aición nun pue desfacese.
 about-logins-confirm-remove-dialog-confirm-button = Quitar
 about-logins-confirm-remove-all-dialog-confirm-button-label =
@@ -309,15 +309,15 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Fecho
 about-logins-import-dialog-error-title = Fallu de la importación
-about-logins-import-dialog-error-conflicting-values-title = Un aniciu de sesión tien dellos valores en conflictu
-about-logins-import-dialog-error-conflicting-values-description = Por exemplu: nomes d'usuariu, contraseñes o URL múltiples pa un aniciu de sesión.
+about-logins-import-dialog-error-conflicting-values-title = Una cuenta tien dellos valores en conflictu
+about-logins-import-dialog-error-conflicting-values-description = Por exemplu: nomes d'usuariu, contraseñes o URL múltiples pa una cuenta.
 about-logins-import-dialog-error-file-format-title = Problemes col formatu del ficheru
 about-logins-import-dialog-error-file-format-description = Falten les testeres de les columnes o son incorreutes. Asegúrate de que'l ficheru inclúi les columnes pal nome d'usuariu, la contraseña y la URL.
 about-logins-import-dialog-error-file-permission-title = Nun ye posible lleer el ficheru
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nun tienes permisu pa lleer el ficheru. Prueba a camudar los sos permisos.
 about-logins-import-dialog-error-unable-to-read-title = Nun ye posible analizar el ficheru
 about-logins-import-dialog-error-unable-to-read-description = Asegúrate de qu'esbillesti un ficheru CSV o TSV.
-about-logins-import-dialog-error-no-logins-imported = Nun s'importó nengún aniciu de sesión
+about-logins-import-dialog-error-no-logins-imported = Nun s'importó nenguna cuenta
 about-logins-import-dialog-error-learn-more = Lleer más
 about-logins-import-dialog-error-cancel = Encaboxar
 about-logins-import-report-title = Sumariu de la importación
