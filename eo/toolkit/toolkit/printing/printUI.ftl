@@ -5,7 +5,6 @@
 printui-title = Presi
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Konservi kiel
-
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -13,7 +12,6 @@ printui-sheets-count =
         [one] { $sheetCount } folio papera
        *[other] { $sheetCount } folioj paperaj
     }
-
 printui-page-range-all = Ĉiuj
 printui-page-range-custom = Personecigite
 printui-page-range-label = Paĝoj
@@ -22,29 +20,22 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Difinu intervalon de paĝoj
     .placeholder = ekzemple 2-6, 9, 12-16
-
 # Section title for the number of copies to print
 printui-copies-label = Kopioj
-
 printui-orientation = Orientiĝo
 printui-landscape = Horizontala
 printui-portrait = Vertikala
-
 # Section title for the printer or destination device to target
 printui-destination-label = Celo
 printui-destination-pdf-label = Konservi kiel PDF
-
 printui-more-settings = Pli da agordoj
 printui-less-settings = Malpli da agordoj
-
 printui-paper-size-label = Grando de papero
-
 # Section title (noun) for the print scaling options
 printui-scale = Skalo
 printui-scale-fit-to-page-width = Alĝustigi al larĝo de paĝo
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalo
-
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Ambaŭflanka presado
 printui-two-sided-printing-off = Malŝaltita
@@ -52,24 +43,30 @@ printui-two-sided-printing-off = Malŝaltita
 printui-two-sided-printing-long-edge = Ambaŭflanke laŭ la longa rando
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Ambaŭflanke laŭ la mallonga rando
-
 # Section title for miscellaneous print options
 printui-options = Ebloj
 printui-headers-footers-checkbox = Presi paĝokapojn kaj paĝopiedojn
 printui-backgrounds-checkbox = Presi fonojn
-
 printui-selection-checkbox = Presi elektaĵon
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+# The section title.
+printui-source-label = Formo
+# Option for printing the original page.
+printui-source-radio = Originala
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Elektaĵo
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Simpligita
+
 ##
 
 printui-color-mode-label = Kolora reĝimo
 printui-color-mode-color = Koloro
 printui-color-mode-bw = Nigra kaj blanka
-
 printui-margins = Marĝenoj
 printui-margins-default = Normaj
 printui-margins-min = Minimuma
@@ -88,23 +85,17 @@ printui-margins-custom-left-mm = Maldekstre (mm)
 printui-margins-custom-right = Dekstre
 printui-margins-custom-right-inches = Dekstre (coloj)
 printui-margins-custom-right-mm = Dekstre (mm)
-
 printui-system-dialog-link = Presi per la sistema dialogo…
-
 printui-primary-button = Presi
 printui-primary-button-save = Konservi
 printui-cancel-button = Nuligi
 printui-close-button = Fermi
-
 printui-loading = Antaŭvido preparata
-
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Antaŭvidi presadon
-
 printui-pages-per-sheet = Paĝoj en ĉiu folio
-
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Preso…
@@ -131,7 +122,6 @@ printui-paper-tabloid = Duoble letera
 printui-error-invalid-scale = Skalo devas esti nombro inter 10 kaj 200.
 printui-error-invalid-margin = Bonvolu tajpi validan marĝenon por la elektita papergrando.
 printui-error-invalid-copies = Kopioj devas esti nombro inter 1 kaj 10000.
-
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Intervalo devas esti nombro inter 1 kaj { $numPages }.
