@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = Осыны көріңіз: Бетті бекіт
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Мен бұны неге көріп отырмын
-
 cfr-doorhanger-extension-cancel-button = Қазір емес
     .accesskey = м
-
 cfr-doorhanger-extension-ok-button = Қазір қосу
     .accesskey = а
 cfr-doorhanger-pintab-ok-button = Бұл бетті бекіту
     .accesskey = б
-
 cfr-doorhanger-extension-manage-settings-button = Ұсыныстар параметрлерін басқару
     .accesskey = б
-
 cfr-doorhanger-extension-never-show-recommendation = Бұл ұсынысты маған көрсетпеу
     .accesskey = к
-
 cfr-doorhanger-extension-learn-more-link = Көбірек білу
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } шығарған
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Ұсыныс
 cfr-doorhanger-extension-notification2 = Ұсыныс
     .tooltiptext = Кеңейту ұсынысы
     .a11y-announcement = Кеңейту ұсынысы қолжетімді
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Ұсыныс
@@ -65,7 +57,6 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } пайдаланушы
     }
-
 cfr-doorhanger-pintab-description = Жиі қолданатын сайттарыңызға ыңғайлы қатынаңыз. Сайттарды бетте ашық ұстаңыз (қайта қосылсаңыз да).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -73,10 +64,8 @@ cfr-doorhanger-pintab-description = Жиі қолданатын сайттары
 cfr-doorhanger-pintab-step1 = Бекіткіңіз келетін бетке <b>оң жақпен шертіңіз</b>.
 cfr-doorhanger-pintab-step2 = Мәзірден <b>Бетті бекітуді</b> таңдаңыз.
 cfr-doorhanger-pintab-step3 = Сайтта жаңарту болса, бекітілген бетте көк нүктені көретін боласыз.
-
 cfr-doorhanger-pintab-animation-pause = Аялдату
 cfr-doorhanger-pintab-animation-resume = Жалғастыру
-
 
 ## Firefox Accounts Message
 
@@ -98,26 +87,20 @@ cfr-protections-panel-link-text = Көбірек білу
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Жаңа мүмкіндік:
-
 cfr-whatsnew-button =
     .label = Не жаңалық
     .tooltiptext = Не жаңалық
-
 cfr-whatsnew-panel-header = Не жаңалық
-
 cfr-whatsnew-release-notes-link-text = Шығарылым ескертпесін оқу
-
 cfr-whatsnew-fx70-title = { -brand-short-name } сіздің жекелігіңіз үшін енді күштірек күреседі
 cfr-whatsnew-fx70-body =
     Соңғы жаңарту Бақылаудан Қорғанысты жақсартып, әр сайт үшін
     күштірек парольдерді жасауды оңайырақ қылады.
-
 cfr-whatsnew-tracking-protect-title = Өзіңізді трекерлерден қорғаңыз
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } желіде сіздің соңыңыздан еретін көптеген әлеуметтік
     және сайтаралық трекерлерді бұғаттайды.
 cfr-whatsnew-tracking-protect-link-text = Есепті қарау
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -127,11 +110,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } бастап
 cfr-whatsnew-tracking-blocked-link-text = Есептемені қарау
-
 cfr-whatsnew-lockwise-backup-title = Парольдеріңіздің қор көшірмесін жасаңыз
 cfr-whatsnew-lockwise-backup-body = Қайда кірсеңіз де. қолдана алатын қауіпсіз парольдерді жасаңыз.
 cfr-whatsnew-lockwise-backup-link-text = Қор көшірмелерді іске қосу
-
 cfr-whatsnew-lockwise-take-title = Парольдіріңізді өзіңізбен бірге ұстаңыз
 cfr-whatsnew-lockwise-take-body =
     { -lockwise-brand-short-name } мобильді қолданбасы әр жерден сіздің қор
@@ -142,9 +123,6 @@ cfr-whatsnew-lockwise-take-link-text = Қолданбаны алу
 
 cfr-whatsnew-searchbar-title = Адрестік жолақ көмегімен азырақ теріп, көбірек табыңыз.
 cfr-whatsnew-searchbar-body-topsites = Енді адрестік жолағын таңдасаңыз, ол топ сайттарыңыз бар сілтемелермен кеңейеді.
-
-## Search bar
-
 cfr-whatsnew-searchbar-icon-alt-text = Үлкейту әйнегі таңбашасы
 
 ## Picture-in-Picture
@@ -169,7 +147,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Цифрлық баспаны жинаушы бұғатталды
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } сіздің жарнамалық профиліңізді жасау мақсатында, құрылғыңыз және әрекеттеріңіз туралы ақпаратты жасырын жинайтын цифрлық баспаны жинаушылардың көбін бұғаттайды.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Баспаны жинаушылар
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } сіздің жарнамалық профиліңізді жасау мақсатында, құрылғыңыз және әрекеттеріңіз туралы ақпаратты жасырын жинайтын цифрлық баспаны жинаушыларды бұғаттай алады.
@@ -227,7 +204,6 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } { $date } <b>{ $blockedCount }</b> шамасынан көп трекерді бұғаттаған!
     }
-
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -270,12 +246,8 @@ cfr-whatsnew-protections-icon-alt = Қалқан таңбашасы
 
 cfr-whatsnew-better-pdf-header = PDF-пен жақсырақ жұмыс
 cfr-whatsnew-better-pdf-body = PDF құжаттары енді тікелей { -brand-short-name } ішінде ашылып, жұмыс үрдісіңізді жеңілдетеді.
-
 cfr-doorhanger-milestone-close-button = Жабу
     .accesskey = Ж
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -295,19 +267,9 @@ cfr-doorhanger-fission-primary-button = Жақсы, түсіндім
 cfr-doorhanger-fission-secondary-button = Көбірек білу
     .accesskey = л
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Бұл сайттағы видеолар { -brand-short-name } нұсқасында дұрыс ойнамауы мүмкін. Видеоны толық қолдау үшін { -brand-short-name } қазір жаңартыңыз.
+cfr-doorhanger-video-support-header = Видеоны ойнату үшін { -brand-short-name } жаңарту
 cfr-doorhanger-video-support-primary-button = Қазір жаңарту
     .accesskey = у
