@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Плагиндерді қолдануды басқару
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Камераңыз және/немесе микрофонмен бұл сайтпен бөлісуді басқару
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Бұл сайттың басқа динамиктерге қатынауды басқару
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Автоойнату панелін ашу
 urlbar-persistent-storage-notification-anchor =
@@ -559,6 +563,10 @@ pointerlock-warning-no-domain = Бұл құжат курсорыңызды ба�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Бұл парақтың бір бөлігі құлады.</strong> Бұл мәселе туралы { -brand-product-name } хабардар ету және оны тезірек шешу үшін есептеме жіберіңіз.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Бұл парақтың бір бөлігі құлады. Бұл мәселе туралы { -brand-product-name } хабардар ету және оны тезірек шешу үшін есептеме жіберіңіз.
 crashed-subframe-learnmore-link =
     .value = Көбірек білу
 crashed-subframe-submit =
