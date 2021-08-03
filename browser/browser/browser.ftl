@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privata retumo)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privata retumo)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privata retumo)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privata retumo)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -111,7 +109,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tajpu malpli, trovi pli: serĉi per { $engineName } rekte el via adresa strio.
 urlbar-search-tips-redirect-2 = Komencu vian serĉon en la adresa strio por vidi sugestojn el { $engineName } kaj el via retuma historio.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Elektu tiun ĉi ŝparvojon por pli rapide trovi kion vi bezonas.
@@ -148,12 +145,10 @@ urlbar-midi-blocked =
     .tooltiptext = Vi blokis la aliron MIDI por tiu ĉi retejo.
 urlbar-install-blocked =
     .tooltiptext = Vi blokis la instalon de aldonaĵoj por tiu ĉi retejo.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Redakti tiun ĉi legosignon ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -163,7 +158,6 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Aldoni al adresa strio
-
 page-action-manage-extension =
     .label = Administri etendaĵon…
 page-action-remove-from-urlbar =
@@ -185,15 +179,12 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ĉi foje serĉi per:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Ŝanĝi agordojn de serĉo
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ŝanĝi agordojn de serĉo
-
 search-one-offs-context-open-new-tab =
     .label = Serĉi en nova langeto
     .accesskey = l
@@ -203,14 +194,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Igi ĝin la norma serĉilo en privataj fenestroj
     .accesskey = n
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -257,13 +246,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Montri redaktilon dum konservo
     .accesskey = M
-
 bookmark-panel-done-button =
     .label = Preta
-
 bookmark-panel-save-button =
     .label = Konservi
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -293,7 +279,6 @@ identity-weak-encryption = Tiu ĉi paĝo uzas malfortan ĉifradon.
 identity-insecure-login-forms = Akreditiloj uzitaj en tiu ĉi paĝo povus esti riskitaj.
 identity-permissions =
     .value = Permesoj
-
 identity-https-only-connection-upgraded = (ŝanĝita al HTTPS)
 identity-https-only-label = HTTPS-nura reĝimo
 identity-https-only-dropdown-on =
@@ -305,11 +290,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Ŝaltu la HTTPS-nuran reĝimon por tiu ĉi retejo se vi volas ke { -brand-short-name } ŝanĝu la konekton, se tio eblas.
 identity-https-only-info-turn-off2 = Se la paĝo ne bone funkcias, vi povas malŝalti la HTTPS-nuran reĝimon por tiu ĉi retejo, por reŝargi ĝin per nesekura HTTP.
 identity-https-only-info-no-upgrade = Ne eblas ŝanĝi la konekton HTTP.
-
 identity-permissions-storage-access-header = Interretejaj kuketoj
 identity-permissions-storage-access-hint = Tiuj ĉi aliaj partoprenantoj povas uzi interretejajn kuketojn kaj retejajn datumojn dum vi estas en tiu ĉi retejo,
 identity-permissions-storage-access-learn-more = Pli da informo
-
 identity-permissions-reload-hint = Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.
 identity-permissions-empty = Vi ne donis iun ajn specialan permeson al tiu ĉi retejo.
 identity-clear-site-data =
@@ -373,13 +356,11 @@ browser-tab-mute =
         [1] SILENTIGI LANGETON
        *[other] SILENTIGI { $count } LANGETOJN
     }
-
 browser-tab-unmute =
     { $count ->
         [1] MALSILENTIGI LANGETON
        *[other] MALSILENTIGI { $count } LANGETOJN
     }
-
 browser-tab-unblock =
     { $count ->
         [1] LUDI LANGETON
@@ -391,7 +372,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Enporti legosignojn…
     .tooltiptext = Enporti legosignojn de alia retumilo en { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = Por rapida aliro, metu viajn legosignojn ĉi tien, en la strion de legosignoj. <a data-l10n-name="manage-bookmarks">Administri legosignojn…</a>
 
 ## WebRTC Pop-up notifications
@@ -402,7 +382,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = Dividota mikrofono:
     .accesskey = m
-
 popup-select-camera-device =
     .value = Filmilo:
     .accesskey = F
@@ -416,26 +395,20 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Laŭtparoliloj
 popup-all-windows-shared = Ĉiuj videblaj fenestroj en via ekrano estos dividitaj.
-
 popup-screen-sharing-not-now =
     .label = Ne nun
     .accesskey = N
-
 popup-screen-sharing-never =
     .label = Neniam permesi
     .accesskey = N
-
 popup-silence-notifications-checkbox = Malaktivigi sciigojn de { -brand-short-name } dum divido
 popup-silence-notifications-checkbox-warning = { -brand-short-name } ne montros sciigojn dum vi dividas.
-
 popup-screen-sharing-block =
     .label = Bloki
     .accesskey = B
-
 popup-screen-sharing-always-block =
     .label = Ĉiam bloki
     .accesskey = i
-
 popup-mute-notifications-checkbox = Malaktivigi retejejan sciigojn dum divido
 
 ## WebRTC window or screen share tab switch warning
@@ -451,19 +424,16 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Por uzi la ŝparvojon F12, unue malfermu la ilojn por programistoj el la menuo Teksaĵa programisto.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Serĉu ion aŭ tajpu adreson
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Serĉu ion aŭ tajpu adreson
 urlbar-remote-control-notification-anchor =
     .tooltiptext = La retumilo estas sub fora regado
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -472,7 +442,6 @@ urlbar-remote-control-notification-anchor =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Serĉi en la teksaĵo
     .aria-label = Serĉi per { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -481,27 +450,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Tajpu serĉan tekston
     .aria-label = Serĉi { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Tajpu serĉan tekston
     .aria-label = Serĉi legosignojn
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Tajpu serĉan tekston
     .aria-label = Serĉi historion
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Tajpu serĉan tekston
     .aria-label = Serĉi langetojn
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Serĉi per { $name } aŭ tajpi adreson
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -511,11 +475,9 @@ urlbar-permissions-granted =
     .tooltiptext = Vi aldonis permesojn al tiu ĉi retejo.
 urlbar-switch-to-tab =
     .value = Iri al langeto:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Etendaĵo:
-
 urlbar-go-button =
     .tooltiptext = Iri al la adreso en la retadresa strio
 urlbar-page-action-button =
@@ -585,12 +547,9 @@ urlbar-result-action-search-tabs = Serĉi en la langetoj
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> videblas nun plenekrane
 fullscreen-warning-no-domain = Tiu ĉi dokumento videbas nun plenekrane
-
-
 fullscreen-exit-button = Eliri el plenekrana reĝimo (Esk)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Eliri el plenekrana reĝimo (esk)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -600,7 +559,6 @@ pointerlock-warning-no-domain = Tiu ĉi dokumento regas vian musmontrilon. Premu
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Parto de tiu ĉi paĝo paneis.</strong> Por permesi al { -brand-product-name } scii pri tiu ĉi problemo kaj havi pli rapidan solvon, bonvolu sendi raporton.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -656,7 +614,6 @@ bookmarks-tools =
     .label = Iloj por legosignoj
 bookmarks-bookmark-edit-panel =
     .label = Redakti tiun ĉi legosignon
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -670,7 +627,6 @@ bookmarks-toolbar-placeholder =
     .title = Elementoj de ilaro de legosignoj
 bookmarks-toolbar-placeholder-button =
     .label = Elementoj de ilaro de legosignoj
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Aldoni legosignon por la nuna langeto
@@ -701,7 +657,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Aldonaĵoj kaj etosoj
     .tooltiptext = Administri viajn aldonaĵojn kaj etosojn ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -743,3 +698,9 @@ addon-removal-abuse-report-checkbox = Denunci tiun ĉi etendaĵon al { -vendor-s
 remote-tabs-manage-account =
     .label = Administri konton
 remote-tabs-sync-now = Speguli nun
+
+##
+
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Pli…
