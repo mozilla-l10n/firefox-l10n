@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Kundaha ñemi)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Kundaha ñemi)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Kundaha ñemi)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Kundaha ñemi)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -89,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Mba’ejoajurã jepuru ñangareko
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Eñangareko moherakuã nerovetã térã mba’erechaha ko tenda ndive
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Eñangareko ñe’ẽatãha moherakuãre ko tenda ndive
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Embojuruja ñemboheta ijeheguíva ra’angarupa
 urlbar-persistent-storage-notification-anchor =
@@ -111,7 +113,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Ehai sa’ive, ejuhuve: Eheka { $engineName } kundaharape rendaite guive.
 urlbar-search-tips-redirect-2 = Eñepyrũ eheka kundaharape rendápe ehecha hag̃ua { $engineName } ñe’ẽporã ha ikundaha rembiasakue.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Eiporavo ko jeike pya’eha ejuhu pya’eve hag̃ua ehekáva.
@@ -148,12 +149,10 @@ urlbar-midi-blocked =
     .tooltiptext = Ejokóma MIDI pe jeike ko ñanduti rendápe g̃uarã.
 urlbar-install-blocked =
     .tooltiptext = Ejokóma tembipuru’i ñemohenda ko ñandutípe g̃uarã.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Ko techaukaha mbosako’i ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -163,7 +162,6 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Embojuaju kundaharape rendáre
-
 page-action-manage-extension =
     .label = Moĩmbaháre Ñangareko…
 page-action-remove-from-urlbar =
@@ -185,15 +183,12 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ko’ág̃a, eheka hendive:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Jeheka mba’epytyvõrã moambue
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Jeheka mba’epytyvõrã moambue
-
 search-one-offs-context-open-new-tab =
     .label = Tendayke pyahúpe jeheka
     .accesskey = T
@@ -203,14 +198,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Emoĩ jehekaha mongu’eha ijypykuévaramo ovetã ñemíme
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -257,13 +250,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Ehechauka mbosako’iha eñongatúvo
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Mohu’ã
-
 bookmark-panel-save-button =
     .label = Ñongatu
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -293,7 +283,6 @@ identity-weak-encryption = Ko kuatiarogue oipuru ñangarekoha ikangýva.
 identity-insecure-login-forms = Ojehaiva’ekue jeike hag̃ua ko kuatiaroguépe oñemondakuaa.
 identity-permissions =
     .value = Moneĩ
-
 identity-https-only-connection-upgraded = (HTTPS hekopyahupyre)
 identity-https-only-label = HTTPS ayvúpe año
 identity-https-only-dropdown-on =
@@ -305,11 +294,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Emyandy HTTPS ayvu añoite ko tendápe g̃uarã eipotáramo { -brand-short-name } ombohekopyahu nde jeike ikatu vove.
 identity-https-only-info-turn-off2 = Pe tenda ndoikoporãirõ, ikatu emboguese pe HTTPS ayvu añoite emyanyhẽjey hag̃ua eipurúvo HTTP jeike hekorosã’ỹva.
 identity-https-only-info-no-upgrade = Ndaikatúi embohekopyahu jeike HTTP guive.
-
 identity-permissions-storage-access-header = Kookie tenda ojuasáva
 identity-permissions-storage-access-hint = Ko’ãva ikatu oipuru kookie ha tenda ojuasáva mba’ekuaarã eime aja ko tendápe.
 identity-permissions-storage-access-learn-more = Kuaave
-
 identity-permissions-reload-hint = Ikatu hína kuatiarogue emyanyhẽjey umi moambuepyre oñemboheko hag̃ua.
 identity-permissions-empty = Nome’ẽi ko tenda ñemoneĩ ha’etéva.
 identity-clear-site-data =
@@ -374,14 +361,12 @@ browser-tab-mute =
         [one] EMOKIRIRĨ TENDAYKE
        *[other] EMOKIRIRĨ { $count } TENDAYKEKUÉRA
     }
-
 browser-tab-unmute =
     { $count ->
         [1] EMYANDY TENDAYKE
         [one] EMYANDY TENDAYKE
        *[other] EMYANDY { $count } TENDAYKEKUÉRA
     }
-
 browser-tab-unblock =
     { $count ->
         [1] EMBOPU TENDAYKE
@@ -394,7 +379,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Techaukaha jegueru…
     .tooltiptext = Egueru techaukaha ambue kundaháragui { -brand-short-name }-pe.
-
 bookmarks-toolbar-empty-message = Eike pya’e hag̃ua, emoĩ nde rechaukaha techaukaha rembipuru rendápe. <a data-l10n-name="manage-bookmarks">Eñangareko techaukaháre…</a>
 
 ## WebRTC Pop-up notifications
@@ -405,7 +389,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = Ñe’ẽatãha hetápe g̃uarãva:
     .accesskey = M
-
 popup-select-camera-device =
     .value = Ta’ãnganohẽha:
     .accesskey = C
@@ -419,26 +402,20 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Ñe’ẽatãhakuéra
 popup-all-windows-shared = Oñemosarambíta opaite ovetã ojehecháva mba’erechahápe.
-
 popup-screen-sharing-not-now =
     .label = Ani ko’ág̃a
     .accesskey = w
-
 popup-screen-sharing-never =
     .label = Ani emoneĩ araka’eve
     .accesskey = N
-
 popup-silence-notifications-checkbox = Embogue momarandu’i { -brand-short-name } emoherakuã aja
 popup-silence-notifications-checkbox-warning = { -brand-short-name } ndohechaukamo’ãi momarandu’i oñemoherakuã aja.
-
 popup-screen-sharing-block =
     .label = Joko
     .accesskey = B
-
 popup-screen-sharing-always-block =
     .label = Ejoko tapiaite
     .accesskey = w
-
 popup-mute-notifications-checkbox = Emokirirĩ ñanduti renda marandu’i emoherakuã aja
 
 ## WebRTC window or screen share tab switch warning
@@ -454,19 +431,16 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Eipurútarõ mbopya’eha F12 embojurujaraẽ DevTools ñanduti Mboguatahára poravorãme.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Ñe’ẽreka ýrõ kundaharape
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Ñe’ẽreka ýrõ kundaharape
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Kundahára oĩ ñangarekoha okayguáva poguýpe
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -475,7 +449,6 @@ urlbar-remote-control-notification-anchor =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Eheka ñandutípe
     .aria-label = Eheka { $name } ndive
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -484,27 +457,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Emoinge ñe’ẽ ehekaséva
     .aria-label = Eheka { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Emoinge ñe’ẽ ehekaséva
     .aria-label = Eheka techaukahápe
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Emoinge ñe’ẽ ehekaséva
     .aria-label = Eheka tembiasakuépe
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Emoinge ñe’ẽ ehekaséva
     .aria-label = Eheka tendayképe
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Eheka { $name } ndive térã emoinge kundaharape
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -514,11 +482,9 @@ urlbar-permissions-granted =
     .tooltiptext = Oñeme’ẽ ko ñanduti rendápe ñemoneĩ jo’a.
 urlbar-switch-to-tab =
     .value = Tendayképe jeguerova:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Jepysokue:
-
 urlbar-go-button =
     .tooltiptext = Kundaharape renda URL-pe jeho
 urlbar-page-action-button =
@@ -588,12 +554,9 @@ urlbar-result-action-search-tabs = Eheka tendayke
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ha’e mba’erechaha henyhẽva ko’ág̃a
 fullscreen-warning-no-domain = Ko kuatia oĩ hína ko’ág̃a mba’erechaha tuichavévape
-
-
 fullscreen-exit-button = Esẽ mba’erechaha tuichavévagui (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Esẽ mba’erechaha tuichavévagui (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -603,7 +566,6 @@ pointerlock-warning-no-domain = Ko kuatia oñangareko nde hekaha rehe. Eikutu Es
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Peteĩva kuatiarogue pehẽ ndokói.</strong> Oikuaa hag̃ua { -brand-product-name } ko apañuãi ha omoĩporã pya’e hag̃ua, ikatúpa emondo marandu’i.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -659,7 +621,6 @@ bookmarks-tools =
     .label = Techaukaha Rembipuru
 bookmarks-bookmark-edit-panel =
     .label = Ko techaukaha mbosako’i
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -673,7 +634,6 @@ bookmarks-toolbar-placeholder =
     .title = Techaukaha rembipuru renda remimoĩ
 bookmarks-toolbar-placeholder-button =
     .label = Techaukaha rembipuru renda remimoĩ
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Embojuaju techaukaháre tendayke ag̃agua
@@ -704,7 +664,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Moĩmbaha ha téma
     .tooltiptext = Eñangareko ne moĩmbaha ha téma ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -746,3 +705,9 @@ addon-removal-abuse-report-checkbox = Emomarandu ko jepysokue rehegua { -vendor-
 remote-tabs-manage-account =
     .label = Mba’ete Ñangarekoha
 remote-tabs-sync-now = Embojuehe ko’ág̃a
+
+##
+
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Hetave…

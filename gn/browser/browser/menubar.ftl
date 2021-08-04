@@ -38,20 +38,16 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }-gui ñesẽ
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name }-gui ñesẽ
-
 menu-about =
     .label = { -brand-shorter-name } rehegua
     .accesskey = A
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Joajuha mondo…
     .accesskey = E
+menu-file-share-url =
+    .label = Moherakuã
+    .accesskey = t
 menu-file-print-setup =
     .label = Kuatiarogue moambue…
     .accesskey = u
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Moñe’ẽrã mbopapapy
     .accesskey = c
-
 menu-view-repair-text-encoding =
     .label = Emoĩporã moñe’ẽrã ayvu
     .accesskey = c
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Tendayke oñembotyramóva
 menu-history-undo-window-menu =
     .label = Ovetã oñembotyramóva
-
 menu-history-reopen-all-tabs = Embojurujajey opaite tendayke
 menu-history-reopen-all-windows = Embojurujajey opaite ovetã
 
