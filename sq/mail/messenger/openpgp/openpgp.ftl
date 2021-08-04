@@ -5,9 +5,15 @@
 e2e-intro-description = Që të dërgoni mesazhe të fshehtëzuar ose të nënshkruar në mënyrë dixhitale, ju duhet të formësoni një teknologji fshehtëzimi, OpenPGP ose S/MIME.
 e2e-intro-description-more = Që të aktivizohet përdorimi i OpenGPG-së, përzgjidhni kyçin tuaj personal, ose dëshminë tuaj personale që të aktivizohet përdorimi i S/MIME-s. Për një kyç apo dëshmi personale, zotëroni kyçin përkatës të fshehtë.
 e2e-advanced-section = Rregullime të mëtejshme
+e2e-attach-key =
+    .label = Bashkëngjit kyçin tim publik, kur shtohet një nënshkrim dixhital OpenPGP
+    .accesskey = B
 e2e-encrypt-subject =
     .label = Fshehtëzo subjektin e mesazheve OpenPGP
     .accesskey = F
+e2e-encrypt-drafts =
+    .label = Depozitoji Skicat e mesazheve depozitoji në format të fshehtëzuar
+    .accesskey = S
 openpgp-key-user-id-label = Llogari / ID Përdoruesi
 openpgp-keygen-title-label =
     .title = Prodho Kyç OpenPGP
