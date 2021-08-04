@@ -502,6 +502,8 @@
 <!ENTITY deleteJunk.accesskey "l">
 <!ENTITY importCmd.label "Importer…">
 <!ENTITY importCmd.accesskey "m">
+<!ENTITY exportCmd.label "Eksporter…">
+<!ENTITY exportCmd.accesskey "E">
 <!ENTITY clearRecentHistory.label "Ryd seneste historik…">
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Kontoindstillinger">
@@ -719,7 +721,6 @@
 <!ENTITY locationColumn.label "Placering">
 <!ENTITY idColumn.label "Modtagelsesorden">
 <!ENTITY attachmentColumn.label "Vedhæftede filer">
-
 <!ENTITY deleteColumn.label "Slet">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +746,6 @@
 <!ENTITY locationColumn2.tooltip "Sorter efter placering">
 <!ENTITY idColumn2.tooltip "Sorter efter modtagelsesorden">
 <!ENTITY attachmentColumn2.tooltip "Sorter efter vedhæftede filer">
-
 <!ENTITY deleteColumn.tooltip "Slet en meddelelse">
 
 <!-- Thread Pane Context Menu -->

@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "R">
 <!ENTITY deleteCmd.label                                "Slet">
 <!ENTITY deleteAbCmd.label                              "Slet adressebog">
+<!ENTITY deleteAbCmd.accesskey                          "d">
 <!ENTITY removeAbCmd.label                              "Fjern adressebog">
+<!ENTITY removeAbCmd.accesskey                          "d">
 <!ENTITY deleteContactCmd.label                         "Slet kontakt">
 <!ENTITY deleteContactsCmd.label                        "Slet kontakter">
 <!ENTITY deleteListCmd.label                            "Slet liste">
