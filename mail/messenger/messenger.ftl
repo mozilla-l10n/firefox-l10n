@@ -131,4 +131,5 @@ repair-text-encoding-button =
 ## no-reply handling
 
 no-reply-title = Svar understøttes ikke
+no-reply-message = Svaradressen ({ $email }) se ikke ud til at være en overvåget adresse. Meddelelser sendt til denne adresse bliver sandsynligvis ikke læst af nogen.
 no-reply-reply-anyway-button = Svar alligevel
