@@ -105,6 +105,7 @@ account-setup-step5-image =
 account-setup-privacy-footnote2 = Dine login-oplysninger vil kun blive gemt lokalt på din computer.
 account-setup-selection-help = Ved du ikke, hvad du skal vælge?
 account-setup-selection-error = Har du brug for hjælp?
+account-setup-success-help = Usikker på, hvad du skal nu?
 account-setup-documentation-help = Dokumentation om opsætning
 account-setup-forum-help = Supportforum
 account-setup-privacy-help = Privatlivspolitik
@@ -127,6 +128,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Hold dine mapper og meddelelser på din computer
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Brug Microsoft Exchange-serveren eller Office365-cloudtjenester
 account-setup-incoming-title = Indgående
 account-setup-outgoing-title = Udgående
 account-setup-username-title = Brugernavn
