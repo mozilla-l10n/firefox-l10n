@@ -48,6 +48,9 @@
 <!ENTITY editMenu.accesskey                             "P">
 <!ENTITY deleteCmd.label                                "Fshije">
 <!ENTITY deleteAbCmd.label                              "Fshi Libër Adresash">
+<!ENTITY deleteAbCmd.accesskey                          "F">
+<!ENTITY removeAbCmd.label                              "Hiqni Libër Adresash">
+<!ENTITY removeAbCmd.accesskey                          "d">
 <!ENTITY deleteContactCmd.label                         "Fshije Kontaktin">
 <!ENTITY deleteContactsCmd.label                        "Fshiji Kontaktet">
 <!ENTITY deleteListCmd.label                            "Fshije Listën">
@@ -140,6 +143,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.label                            "Fshije">
 <!ENTITY deleteButton2.accesskey                        "F">
 
+<!ENTITY removeButton.label                             "Hiqe">
+<!ENTITY removeButton.accesskey                         "H">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY columnChooser.tooltip                          "Përzgjidhni shtylla që të shfaqen">
 <!ENTITY newContactButton.tooltip                       "Krijoni një kontakt të ri libri adresash">
@@ -151,6 +157,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Dërgojini një mesazh poste">
 <!ENTITY newIM.tooltip                                  "Dërgojini një mesazh të atypëratyshëm ose fjalosuni me të">
 <!ENTITY deleteButton2.tooltip                          "Fshijeni objektin e përzgjedhur">
+
+<!ENTITY removeButton.tooltip                           "Hiq librin e përzgjedhur të adresave">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Emër ose Email">
