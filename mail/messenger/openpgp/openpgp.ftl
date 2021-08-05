@@ -545,6 +545,13 @@ file-to-big-to-import = Este ficheiro é demasiado grande. Non importe un conxun
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Crear e gardar un certificado de revogación
 revoke-cert-ok = O certificado de revogación creouse correctamente. Pode usalo para invalidar a túa chave pública, por exemplo, no caso de que perdese a súa chave secreta.
+revoke-cert-failed = Non se puido crear o certificado de revogación.
+gen-going = A xeración da chave xa está en curso.
+keygen-missing-user-name = Non hai ningún nome especificado para a conta/identidade seleccionada. Insira un valor no campo «O seu nome» na configuración da conta.
+expiry-too-short = A súa chave debe ser válida polo menos durante un día.
+expiry-too-long = Non pode crear unha chave que caduca en máis de 100 anos.
+key-confirm = Quere xerar unha chave pública e secreta para «{ $identity }»?
+key-man-button-generate-key = &Xerar unha chave
 
 # Strings used in enigmailMessengerOverlay.js
 
