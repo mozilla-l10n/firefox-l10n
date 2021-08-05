@@ -579,3 +579,9 @@ key-not-found = A chave «{ $key }» non se atopou
 key-revoked = A chave «{ $key }» foi revogada
 key-expired = A chave «{ $key }» caducou
 msg-compose-internal-error = Produciuse un erro interno.
+keys-to-export = Seleccione as chaves OpenPGP a inserir
+msg-compose-partially-encrypted-inlinePGP =
+    A mensaxe á que responde contiña partes cifradas e non cifradas. Se o remitente non foi capaz de descifrar orixinalmente algunhas partes da mensaxe, é posíbel que estea divulgando información confidencial que o remitente non foi quen de descifrar orixinalmente.
+    Considere eliminar todo o texto citado da súa resposta a este remitente.
+msg-compose-cannot-save-draft = Produciuse un erro ao gardar o borrador
+msg-compose-partially-encrypted-short = Coidado con divulgar información confidencial: o correo electrónico está parcialmente cifrado.
