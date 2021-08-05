@@ -38,20 +38,16 @@ menu-quit =
             [windows] c
            *[other] C
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Colar de { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Cola de { -brand-shorter-name }
-
 menu-about =
     .label = Tocante a { -brand-shorter-name }
     .accesskey = T
@@ -219,7 +215,6 @@ menu-history-undo-menu =
     .label = Llingüetes zarraes apocayá
 menu-history-undo-window-menu =
     .label = Ventanes zarraes apocayá
-
 menu-history-reopen-all-tabs = Volver abrir toles llingüetes
 menu-history-reopen-all-windows = Volver abrir toles ventanes
 
@@ -232,6 +227,8 @@ menu-bookmarks-show-all =
     .label = Amosar tolos marcadores
 menu-bookmark-this-page =
     .label = Amestar esta páxina a Marcadores
+menu-bookmarks-manage =
+    .label = Xestionar los marcadores
 menu-bookmark-current-tab =
     .label = Amestar esta llingüeta a Marcadores
 menu-bookmark-edit =
