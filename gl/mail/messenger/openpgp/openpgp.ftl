@@ -537,6 +537,14 @@ key-trust-ultimate = absoluta
 key-trust-group = (grupo)
 # Strings used in commonWorkflows.js
 import-key-file = Importar o ficheiro de chave OpenPGP
+import-rev-file = Importar ficheiro de revogación OpenPGP
+gnupg-file = Ficheiros GnuPG
+import-keys-failed = Fallou a importación das chaves
+passphrase-prompt = Insira a frase secreta que desbloquea a seguinte chave: { $key }
+file-to-big-to-import = Este ficheiro é demasiado grande. Non importe un conxunto grande de chaves á vez.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Crear e gardar un certificado de revogación
+revoke-cert-ok = O certificado de revogación creouse correctamente. Pode usalo para invalidar a túa chave pública, por exemplo, no caso de que perdese a súa chave secreta.
 
 # Strings used in enigmailMessengerOverlay.js
 
