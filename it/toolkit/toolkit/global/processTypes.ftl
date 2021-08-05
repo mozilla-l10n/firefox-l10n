@@ -8,8 +8,6 @@
 
 process-type-web = Contenuti web
 
-process-type-browser = Principale
-
 process-type-privilegedabout = Pagine “about” privilegiate
 
 process-type-privilegedmozilla = Contenuti Mozilla privilegiati

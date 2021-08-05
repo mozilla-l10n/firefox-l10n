@@ -10,9 +10,6 @@ third-party-intro =
     { -brand-short-name }. Qualsiasi modulo non firmato da Microsoft o
     { -vendor-short-name } viene considerato un modulo di terze parti.
 
-third-party-header-module-list = Elenco dei moduli
-third-party-header-loading-events = Caricamento eventi
-
 third-party-message-empty = Non è stato rilevato alcun modulo di terze parti.
 third-party-message-no-duration = Non registrato
 

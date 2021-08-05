@@ -60,8 +60,6 @@ printui-options = Opzioni
 printui-headers-footers-checkbox = Stampa intestazioni e piè di pagina
 printui-backgrounds-checkbox = Stampa sfondi
 
-printui-selection-checkbox = Stampa solo la selezione
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
