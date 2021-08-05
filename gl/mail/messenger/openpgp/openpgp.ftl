@@ -585,3 +585,9 @@ msg-compose-partially-encrypted-inlinePGP =
     Considere eliminar todo o texto citado da súa resposta a este remitente.
 msg-compose-cannot-save-draft = Produciuse un erro ao gardar o borrador
 msg-compose-partially-encrypted-short = Coidado con divulgar información confidencial: o correo electrónico está parcialmente cifrado.
+quoted-printable-warn =
+    Activou a codificación «quoted-printable» para o envío de mensaxes. Isto pode producir un descifrado e/ou verificación incorrecta da súa mensaxe.
+    Desexa desactivar o envío de mensaxes «quoted-printable» agora?
+minimal-line-wrapping =
+    Estabeleceu o axuste de liñas en { $width } caracteres. Para un cifrado e/ou sinatura correctos, este valor ten que ser polo menos de 68.
+    Desexa cambiar o axuste de liña a 68 caracteres?
