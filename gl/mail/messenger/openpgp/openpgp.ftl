@@ -591,3 +591,7 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Estabeleceu o axuste de liñas en { $width } caracteres. Para un cifrado e/ou sinatura correctos, este valor ten que ser polo menos de 68.
     Desexa cambiar o axuste de liña a 68 caracteres?
+sending-hidden-rcpt = Non se poden empregar destinatarios Cco (con copia oculta) ao enviar unha mensaxe cifrada. Para enviar esta mensaxe cifrada, elimine os destinatarios Cco ou móvaos ao campo Cc.
+sending-news =
+    Operación de envío cifrada foi abortada.
+    Esta mensaxe non se pode cifrar porque hai destinatarios dun grupo de novas. Envíe de novo a mensaxe sen cifrar.
