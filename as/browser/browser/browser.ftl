@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (ব্যক্তিগত ব্ৰাউছিং)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (ব্যক্তিগত ব্ৰাউছিং)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ব্যক্তিগত ব্ৰাউছিং)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ব্যক্তিগত ব্ৰাউছিং)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -89,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = প্লাগ-ইন ব্যৱহাৰ পৰিচালনা কৰক
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = ছাইটৰ সৈতে আপোনাৰ কেমেৰা আৰু/বা মাইক্ৰ'ফোন সহভাগ কৰাটো পৰিচালনা কৰক
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = ছাইটটোৰ সৈতে অন্যান্য স্পীকাৰ ভাগ-বতৰা কৰাটো পৰিচালনা কৰক
 urlbar-autoplay-notification-anchor =
     .tooltiptext = স্বয়ং-চলন পেনেল খোলক
 urlbar-persistent-storage-notification-anchor =
@@ -111,7 +113,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = কমকৈ টাইপ কৰক, বেছিকৈ বিচাৰক: আপোনাৰ ঠিকনা দণ্ডিকাৰে পৰা { $engineName } সন্ধান কৰক।
 urlbar-search-tips-redirect-2 = { $engineName }-ৰ পৰামৰ্শৱলী আৰু আপোনাৰ ব্ৰাউজিং ইতিহাস চাবলৈ ঠিকনা দণ্ডিকাত আপোনাৰ সন্ধান আৰম্ভ কৰক।
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = আপোনাক দ্ৰুততাৰে প্ৰয়োজন হোৱাটো বিচাৰিবলৈ এই চমুপথটো বাছনি কৰক।
@@ -148,12 +149,10 @@ urlbar-midi-blocked =
     .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি MIDI এক্সেছ অৱৰোধ কৰিছে।
 urlbar-install-blocked =
     .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি এড-অন ইনষ্টলেশ্যন অৱৰোধ কৰিছে।
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = এই পত্ৰচিহ্ন সম্পাদন কৰক ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -163,7 +162,6 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = ঠিকনা দণ্ডিকাত যোগ কৰক
-
 page-action-manage-extension =
     .label = এক্সটেনশ্যন পৰিচালনা…
 page-action-remove-from-urlbar =
@@ -185,15 +183,12 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = এইবাৰ এইটোৰে সন্ধান কৰক:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = সন্ধানৰ সংহতিসমূহ পৰিবৰ্তন কৰক
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = সন্ধান ছেটিংছ সলনি কৰক
-
 search-one-offs-context-open-new-tab =
     .label = নতুন টেবত সন্ধান কৰক
     .accesskey = T
@@ -203,14 +198,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = ব্যক্তিগত উইণ্ড'ৰ বাবে ডিফ'ল্ট ছাৰ্চ ইঞ্জিনৰূপে ছেট কৰক
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -258,13 +251,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = সঞ্চয় কৰোঁতে এডিটৰ দেখুৱাব
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = হৈ গ'ল
-
 bookmark-panel-save-button =
     .label = সাঁচি থওক
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -294,7 +284,6 @@ identity-weak-encryption = এই পৃষ্ঠাখনে দুৰ্বল
 identity-insecure-login-forms = এই পৃষ্ঠাখনত প্ৰৱিষ্ট কৰা লগিনসমূহ আপোচ কৰা হ'ব পাৰে।
 identity-permissions =
     .value = অনুমতিসমূহ
-
 identity-https-only-connection-upgraded = (HTTPSলৈ আপগ্ৰেড কৰা হৈছে)
 identity-https-only-label = কেৱল-HTTPS ম'ড
 identity-https-only-dropdown-on =
@@ -306,11 +295,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = যদি আপুনি সম্ভৱ হ'লে { -brand-short-name }-এ সংযোগ আপগ্ৰেড কৰাটো বিচাৰে তেন্তে এই ছাইটৰ বাবে কেৱল-HTTPS ম'ড চালু কৰক।
 identity-https-only-info-turn-off2 = যদি পৃষ্ঠাখন নষ্ট যেন লাগে তেন্তে আপুনি অসুৰক্ষিত HTTP ব্যৱহাৰ কৰি পুনৰ ল'ড কৰিবলৈ এই ছাইটৰ বাবে কেৱল-HTTPS ম'ড বন্ধ কৰিব বিচাৰিব পাৰে।
 identity-https-only-info-no-upgrade = HTTPৰ পৰা সংযোগ আপগ্ৰেড কৰিব পৰা নগ'ল।
-
 identity-permissions-storage-access-header = ক্ৰ'ছ-ছাইট কুকিজ
 identity-permissions-storage-access-hint = আপুনি এই ছাইটত থাকোঁতে এই পক্ষবোৰে ক্ৰছ-ছাইট কুকিজ আৰু ছাইট ডাটা ব্যৱহাৰ কৰিব পাৰে।
 identity-permissions-storage-access-learn-more = অধিক জানক
-
 identity-permissions-reload-hint = সাল-সলনি প্ৰয়োগ কৰিবলৈ আপুনি পৃষ্ঠাখন ৰিল'ড কৰিব লাগিব পাৰে।
 identity-permissions-empty = আপুনি এই ছাইটটোক কোনো বিশেষ অনুমতি প্ৰদান কৰা নাই।
 identity-clear-site-data =
@@ -349,6 +336,8 @@ browser-window-minimize-button =
     .tooltiptext = সৰু কৰক
 browser-window-maximize-button =
     .tooltiptext = মেক্সিমাইজ কৰক
+browser-window-restore-down-button =
+    .tooltiptext = পূৰ্বৰ অৱস্থালৈ নিয়ক
 browser-window-close-button =
     .tooltiptext = বন্ধ কৰক
 
@@ -373,14 +362,12 @@ browser-tab-mute =
         [one] { $count }টা টেব মিউট কৰক
        *[other] { $count }টা টেব মিউট কৰক
     }
-
 browser-tab-unmute =
     { $count ->
         [1] টেব আনমিউট কৰক
         [one] { $count }টা টেব আনমিউট কৰক
        *[other] { $count }টা টেব আনমিউট কৰক
     }
-
 browser-tab-unblock =
     { $count ->
         [1] টেব চলাওক
@@ -393,7 +380,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = বুকমাৰ্ক আমদানি কৰক…
     .tooltiptext = আন এটা ব্ৰাউজাৰৰ পৰা { -brand-short-name }-লৈ বুকমাৰ্ক আমদানি কৰক।
-
 bookmarks-toolbar-empty-message = আপোনাৰ বুকমাৰ্কবোৰ দ্ৰুতগতিত পাবলৈ সেইবোৰ ইয়াত থকা বুকমাৰ্ক টুলবাৰটোত ৰাখক। <a data-l10n-name="manage-bookmarks">বুকমাৰ্ক পৰিচালনা কৰক…</a>
 
 ## WebRTC Pop-up notifications
@@ -404,7 +390,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = অংশীদাৰী কৰিবলে মাইক্ৰফোন:
     .accesskey = M
-
 popup-select-camera-device =
     .value = কেমেৰা:
     .accesskey = C
@@ -418,26 +403,20 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = স্পীকাৰ
 popup-all-windows-shared = আপোনাৰ পৰ্দাত থকা সকলো দৃশ্যমান উইণ্ড'ক অংশীদাৰী কৰা হব।
-
 popup-screen-sharing-not-now =
     .label = এতিয়া নহয়
     .accesskey = w
-
 popup-screen-sharing-never =
     .label = কেতিয়াও অনুমতি নিদিব
     .accesskey = N
-
 popup-silence-notifications-checkbox = ভাগ-বতৰা কৰাৰ সময়ত { -brand-short-name }-ৰ জাননীবোৰ নিষ্ক্ৰিয় কৰিব
 popup-silence-notifications-checkbox-warning = আপুনি ভাগ-বতৰা কৰাৰ সময়ত { -brand-short-name }-এ জাননী নেদেখুৱায় ।
-
 popup-screen-sharing-block =
     .label = বাধা দিয়ক
     .accesskey = য়
-
 popup-screen-sharing-always-block =
     .label = সদায় বাধা দিব
     .accesskey = স
-
 popup-mute-notifications-checkbox = ভাগ-বতৰা কৰাৰ সময়ত ৱেবছাইটৰ জাননীবোৰ নিমাত কৰিব
 
 ## WebRTC window or screen share tab switch warning
@@ -446,24 +425,23 @@ sharing-warning-window = আপুনি { -brand-short-name } ভাগ-বত�
 sharing-warning-screen = আপুনি আপোনাৰ সমগ্ৰ স্ক্ৰীণ ভাগ-বতৰা কৰি আছে। আপুনি নতুন টেবলৈ সলনি কৰোঁতে অন্য লোকে চাব পাৰে।
 sharing-warning-proceed-to-tab =
     .label = টেবলৈ আগবাঢ়ক
+sharing-warning-disable-for-session =
+    .label = এই ছেশ্যনৰ বাবে ভাগ-বতৰা সুৰক্ষা নিষ্ক্ৰিয় কৰক
 
 ## DevTools F12 popup
 
 enable-devtools-popup-description = F12 চমুপথ ব্যৱহাৰ কৰিবলৈ প্ৰথমে ৱেব বিকাশকৰ্তা মেন্যুৰ জৰিয়তে DevTools খোলক।
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ঠিকনা সন্ধান কৰক অথবা সুমুৱাওক
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ঠিকনা সন্ধান কৰক অথবা সুমুৱাওক
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ব্ৰাউজাৰ ৰিম'ট কণ্ট্ৰ'লৰ আওতাত আছে
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -472,7 +450,6 @@ urlbar-remote-control-notification-anchor =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = ৱেবত সন্ধান কৰক
     .aria-label = { $name }-এৰে সন্ধান কৰক
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -481,27 +458,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = সন্ধানৰ পদ লিখক
     .aria-label = { $name }-ৰ সন্ধান কৰক
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = সন্ধানৰ পদ লিখক
     .aria-label = বুকমাৰ্কৰ সন্ধান কৰক
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = সন্ধানৰ পদ লিখক
     .aria-label = সন্ধানৰ ইতিহাস
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = সন্ধানৰ পদ লিখক
     .aria-label = টেবৰ সন্ধান কৰক
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name }-এৰে সন্ধান কৰক নাইবা ঠিকনা লিখক
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -511,11 +483,9 @@ urlbar-permissions-granted =
     .tooltiptext = আপুনি এই ছাইটটোক অতিৰিক্ত অনুমতি প্ৰদান কৰিছে।
 urlbar-switch-to-tab =
     .value = টেবলৈ যাওক:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = এক্সটেনশ্যন:
-
 urlbar-go-button =
     .tooltiptext = অৱস্থান বাৰত থকা ঠিকনালে যাওক
 urlbar-page-action-button =
@@ -585,12 +555,9 @@ urlbar-result-action-search-tabs = টেবসমূহত সন্ধান �
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> এতিয়া পূৰ্ণ স্ক্ৰীণত আছে
 fullscreen-warning-no-domain = এই নথিপত্ৰ এতিয়া পূৰ্ণ স্ক্ৰীণত আছে
-
-
 fullscreen-exit-button = ফুলস্ক্ৰীণৰ পৰা ওলাওক (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = ফুলস্ক্ৰীণৰ পৰা ওলাওক (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -600,7 +567,10 @@ pointerlock-warning-no-domain = এই নথিপত্ৰৰ হাতত আ
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>এই পৃষ্ঠাৰ কিছু অংশ ক্ৰেশ্ব হৈছে।</strong> { -brand-product-name }-ক এই সমস্যাটোৰ বিষয়ে জনাবলৈ আৰু ইয়াক দ্ৰুততাৰে ঠিক কৰিবলৈ, অনুগ্ৰহ কৰি এখন প্ৰতিবেদন দাখিল কৰক।
-
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = এই পৃষ্ঠাৰ কিছু অংশ ক্ৰেশ্ব হৈছে। { -brand-product-name }-ক এই সমস্যাটোৰ বিষয়ে জনাবলৈ আৰু ইয়াক দ্ৰুততাৰে ঠিক কৰিবলৈ, অনুগ্ৰহ কৰি এখন প্ৰতিবেদন দাখিল কৰক।
 crashed-subframe-learnmore-link =
     .value = অধিক জানক
 crashed-subframe-submit =
@@ -652,7 +622,6 @@ bookmarks-tools =
     .label = বুকমাৰ্ক কৰা সা-সঁজুলি
 bookmarks-bookmark-edit-panel =
     .label = এই পত্ৰচিহ্ন সম্পাদন কৰক
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -666,7 +635,6 @@ bookmarks-toolbar-placeholder =
     .title = পত্ৰচিহ্ন টুলবাৰৰ বস্তুবোৰ
 bookmarks-toolbar-placeholder-button =
     .label = পত্ৰচিহ্ন টুলবাৰৰ বস্তুবোৰ
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = বৰ্তমানৰ টেব বুকমাৰ্ক কৰক
@@ -697,7 +665,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = এড-অন আৰু থীমসমূহ
     .tooltiptext = আপোনাৰ এড-অন আৰু থীমসমূহ পৰিচালনা কৰক ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -732,9 +699,16 @@ panel-save-update-password = পাছৱৰ্ড
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name } আঁতৰাবনে?
+addon-removal-abuse-report-checkbox = { -vendor-short-name }-ক এই এক্সটেনশ্যনৰ প্ৰতিবেদন দিয়ক
 
 ## Remote / Synced tabs
 
 remote-tabs-manage-account =
     .label = একাউণ্ট পৰিচালনা কৰক
 remote-tabs-sync-now = এতিয়াই ছিংক কৰক
+
+##
+
+# "More" item in macOS share menu
+menu-share-more =
+    .label = অধিক…
