@@ -272,3 +272,17 @@ calendar-dialog-confirm-button = Connect
 account-setup-calendar-name-label = Name
 account-setup-calendar-name-input =
     .placeholder = My calendar
+account-setup-calendar-color-label = Colour
+account-setup-calendar-refresh-label = Refresh
+account-setup-calendar-refresh-manual = Manually
+account-setup-calendar-refresh-interval =
+    { $count ->
+        [one] Every minute
+       *[other] Every { $count } minutes
+    }
+account-setup-calendar-read-only = Read only
+    .accesskey = R
+account-setup-calendar-show-reminders = Show reminders
+    .accesskey = S
+account-setup-calendar-offline-support = Offline support
+    .accesskey = O
