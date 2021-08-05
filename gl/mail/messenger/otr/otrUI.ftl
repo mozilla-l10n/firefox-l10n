@@ -40,12 +40,15 @@ finger-unseen = A identidade de { $name } aínda non se verificou. Non se pode r
 finger-seen = { $name } está a poñerse en contacto con vostede desde un computador non recoñecido. Non se pode realizar unha interceptación pasiva das escoitas, pero con algún esforzo alguén podería escoitar. Evite a vixilancia verificando a identidade deste contacto.
 state-not_private = A conversa actual non é privada.
 state-not-private = A conversa actual non é privada.
+state-generic-not-private = A conversa actual non é privada.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-unverified = A conversa actual está cifrada pero non é privada, xa que a identidade de { $name } aínda non foi verificada.
+state-generic-unverified = A conversa actual está cifrada pero non é privada, xa que algunhas identidades aínda non foron verificadas.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-private = Verificouse a identidade de { $name }. A conversa actual é privada e está cifrada.
+state-generic-private = A conversa actual está cifrada e é privada.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-finished = { $name } rematou a conversa cifrada con vostede; vostede debería facer o mesmo.
