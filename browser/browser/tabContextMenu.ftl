@@ -113,6 +113,13 @@ tab-context-close-tabs =
            *[other] Stäng flikar
         }
     .accesskey = S
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Stäng flik
+           *[other] Stäng { $tabCount } flikar
+        }
+    .accesskey = S
 tab-context-move-tabs =
     .label =
         { $tabCount ->
