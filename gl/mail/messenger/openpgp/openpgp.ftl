@@ -618,3 +618,4 @@ do-import-multiple =
     { $key }
 do-import-one = Quere importar { $name } ({ $id })?
 cant-import = Produciuse un erro ao importar a chave pública
+unverified-reply = Probabelmente se modificou a parte da mensaxe con sangrado (resposta)
