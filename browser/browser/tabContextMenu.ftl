@@ -111,6 +111,13 @@ tab-context-close-tabs =
            *[other] 탭 닫기
         }
     .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] 탭 닫기
+           *[other] 탭 { $tabCount }개 닫기
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
