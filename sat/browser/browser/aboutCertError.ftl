@@ -15,8 +15,8 @@ cert-error-untrusted-default = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱯᱟᱹᱛ�
 
 ## Messages used for certificate error titles
 
-connectionFailure-title = जोड़ाव बाङ हुय केया.
-deniedPortAccess-title = नोवा ठिका़ना दो कोहड़ाव गेया.
+connectionFailure-title = ᱡᱩᱲᱟᱹᱣ ᱵᱟᱝ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ
+deniedPortAccess-title = ᱱᱚᱶᱟ ᱴᱷᱤᱠᱬᱟᱹ ᱫᱚ ᱠᱚᱦᱲᱟᱹᱣ ᱜᱮᱭᱟ
 fileNotFound-title = ᱨᱮᱫ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ
 fileAccessDenied-title = ᱨᱮᱫ ᱨᱮ ᱫᱚᱠᱷᱚᱞ ᱫᱚ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
 generic-title = ᱮᱦᱮ ᱾
