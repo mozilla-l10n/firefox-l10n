@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Správa používania zásuvných modulov
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Spravovať zdieľanie webkamery a/alebo mikrofónu so stránkou
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Spravovať zdieľanie zvukových zariadení so stránkou
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Otvorí panel automatického prehrávania
 urlbar-persistent-storage-notification-anchor =
