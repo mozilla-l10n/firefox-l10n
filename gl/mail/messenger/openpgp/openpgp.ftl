@@ -612,3 +612,9 @@ compose-menu-attach-key =
 compose-menu-encrypt-subject =
     .label = Cifraxe do asunto
     .accesskey = C
+# Strings used in decryption.jsm
+do-import-multiple =
+    Quere importar as seguintes chaves?
+    { $key }
+do-import-one = Quere importar { $name } ({ $id })?
+cant-import = Produciuse un erro ao importar a chave pública
