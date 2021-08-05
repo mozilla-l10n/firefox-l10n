@@ -110,6 +110,13 @@ tab-context-close-tabs =
            *[other] 關閉分頁
         }
     .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] 關閉分頁
+           *[other] 關閉 { $tabCount } 個分頁
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
