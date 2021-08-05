@@ -111,6 +111,14 @@ tab-context-close-tabs =
            *[other] Sneck Tabs
         }
     .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sneck Tab
+            [one] Sneck { $tabCount } Tab
+           *[other] Sneck { $tabCount } Tabs
+        }
+    .accesskey = S
 tab-context-move-tabs =
     .label =
         { $tabCount ->
