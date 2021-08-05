@@ -120,6 +120,16 @@ tab-context-close-tabs =
            *[other] { $tabCount } rajtarkow začinić
         }
     .accesskey = r
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Rajtark začinić
+            [one] Rajtark začinić
+            [two] { $tabCount } rajtarkaj začinić
+            [few] { $tabCount } rajtarki začinić
+           *[other] { $tabCount } rajtarkow začinić
+        }
+    .accesskey = z
 tab-context-move-tabs =
     .label =
         { $tabCount ->
