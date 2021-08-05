@@ -519,6 +519,10 @@ fail-key-extract = Erro: fallou a orde de extracción da chave
 # Strings used in keyRing.jsm
 fail-cancel = Erro: a recepción da chave foi cancelada polo usuario
 not-first-block = Erro: o primeiro bloque OpenPGP non é un bloque de chave pública
+import-key-confirm = Quere importar as chaves públicas incrustadas na mensaxe?
+fail-key-import = Erro: fallou a importación da chave
+file-write-failed = Produciuse un fallo ao escribir no ficheiro { $output }
+no-pgp-block = Erro: non se atopou ningún bloque de datos blindado OpenPGP válido
 
 # Strings used in enigmailMessengerOverlay.js
 
