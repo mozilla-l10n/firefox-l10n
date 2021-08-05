@@ -126,6 +126,18 @@ tab-context-close-tabs =
            *[other] Cau Tab
         }
     .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Cau'r Tab
+            [zero] Cau { $tabCount } Tabiau
+            [one] Cau { $tabCount } Tab
+            [two] Cau { $tabCount } Dab
+            [few] Cau { $tabCount } Thab
+            [many] Cau { $tabCount } Tab
+           *[other] Cau { $tabCount } Tab
+        }
+    .accesskey = T
 tab-context-move-tabs =
     .label =
         { $tabCount ->
