@@ -113,6 +113,13 @@ tab-context-close-tabs =
            *[other] Fechar abas
         }
     .accesskey = F
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Fechar aba
+           *[other] Fechar { $tabCount } abas
+        }
+    .accesskey = F
 tab-context-move-tabs =
     .label =
         { $tabCount ->
