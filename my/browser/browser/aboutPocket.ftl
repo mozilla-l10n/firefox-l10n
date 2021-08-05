@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = စာအမှတ်များ ထည့်ပါ
-
 pocket-panel-saved-error-generic = { -pocket-brand-name } သို့ သိမ်းရန်ကြိုးစားရာတွင် ပြဿနာတစ်ခု တွေ့ရှိခဲ့သည်။
 pocket-panel-saved-error-tag-length = စာမှတ်များ၏ စာလုံးရေကန့်သတ်ချက်သည် ၂၅ လုံးဖြစ်သည်
 pocket-panel-saved-error-only-links = လင်ခ့်များကိုသာ သိမ်းထားနိုင်သည်
@@ -34,7 +33,7 @@ pocket-panel-signup-learn-more = ဆက်လက်လေ့လာ
 pocket-panel-signup-login = ဝင်ပါ
 pocket-panel-signup-signup-email = အီးမေးလ်ဖြင့် မှတ်ပုံတင်ပါ
 pocket-panel-signup-signup-cta = { -pocket-brand-name } အတွက် မှတ်ပုံတင်ပါ။ အခမဲ့ဖြစ်ပါသည်။
-pocket-panel-signup-signup-firefox = မီးမြေခွေးအကောင့်ဖြင့် မှတ်ပုံတင်ပါ
+pocket-panel-signup-signup-firefox = { -brand-product-name } ဖြင့် မှတ်ပုံတင်ပါ
 pocket-panel-signup-tagline = မည်သည့်ကိရိယာ၊ မည်သည့်အချိန်တွင်မဆို { -pocket-brand-name } ထဲတွင် ကြည့်ရန် { -brand-product-name } ထဲမှ စာစုများနှင့် ဗွီဒီယိုများကို သိမ်းပါ။
 pocket-panel-signup-tagline-story-one = { -brand-product-name } ထဲမှ မည်သည့်စာစု၊ ဗွီဒီယို သို့မဟုတ် စာမျက်နှာကို သိမ်းရန် { -pocket-brand-name } ခလုတ်ကို နှိပ်ပါ။
 pocket-panel-signup-tagline-story-two = မည်သည့် ကိရိယာ၊ မည်သည့် အချိန်တွင်မဆို { -pocket-brand-name } ထဲတွင် ကြည့်ပါ။
