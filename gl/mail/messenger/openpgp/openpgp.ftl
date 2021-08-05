@@ -552,6 +552,30 @@ expiry-too-short = A súa chave debe ser válida polo menos durante un día.
 expiry-too-long = Non pode crear unha chave que caduca en máis de 100 anos.
 key-confirm = Quere xerar unha chave pública e secreta para «{ $identity }»?
 key-man-button-generate-key = &Xerar unha chave
+key-abort = Quere abortar a xeración da chave?
+key-man-button-generate-key-abort = &Abortar a xeración da chave
+key-man-button-generate-key-continue = &Continuar a xeración da chave
 
 # Strings used in enigmailMessengerOverlay.js
 
+failed-decrypt = Erro: fallou o descifrado
+fix-broken-exchange-msg-failed = Non se puido reparar esta mensaxe.
+attachment-no-match-from-signature = Non se puido facer coincidir o ficheiro da sinatura «{ $attachment }» cun anexo
+attachment-no-match-to-signature = Non se puido facer coincidir o anexo «{ $attachment }» cun ficheiro de sinatura
+signature-verified-ok = A sinatura do anexo { $attachment } verificouse correctamente
+signature-verify-failed = Non se puido verificar a sinatura do anexo { $attachment }
+decrypt-ok-no-sig =
+    Aviso
+    O descifrado foi correcto, pero a sinatura non se puido verificar correctamente
+msg-ovl-button-cont-anyway = &Continuar de todos os xeitos
+enig-content-note = *Os anexos desta mensaxe non foron asinados nin cifrados*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Enviar a mensaxe
+msg-compose-details-button-label = Detalles…
+msg-compose-details-button-access-key = D
+send-aborted = Abortouse a operación de envío.
+key-not-trusted = Non hai suficiente confianza para a chave «{ $key }»
+key-not-found = A chave «{ $key }» non se atopou
+key-revoked = A chave «{ $key }» foi revogada
+key-expired = A chave «{ $key }» caducou
+msg-compose-internal-error = Produciuse un erro interno.
