@@ -130,5 +130,6 @@ repair-text-encoding-button =
 
 ## no-reply handling
 
+no-reply-title = Répondre non pris en charge
 no-reply-message = L’adresse de réponse ({ $email }) n’apparaît pas être une adresse surveillée. Les messages envoyés à cette adresse ne seront probablement pas lus.
 no-reply-reply-anyway-button = Répondre quand même
