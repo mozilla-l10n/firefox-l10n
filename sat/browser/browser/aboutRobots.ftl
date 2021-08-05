@@ -9,11 +9,11 @@
 ### but well-known robots in movies and books. Be creative with translations!
 
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
-page-title = गोर्ट !क्लाट्र बाराडा निकटो!
+page-title = ᱜᱚᱴ !ᱠᱞᱟᱴᱩ ᱵᱟᱨᱟᱰᱟ ᱱᱤᱠᱴᱳ!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
-error-title-text = मानव को सा़गुन दाराम !
+error-title-text = ᱢᱟᱱᱟᱣ ᱠᱚ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
-error-short-desc-text = आले सानती आर बेस भावी सांव आम ञेल ले हिजुक् आ !
+error-short-desc-text = ᱟᱞᱮ ᱥᱟᱱᱛᱤ ᱟᱨ ᱵᱮᱥ ᱵᱷᱟᱵᱤ ᱥᱟᱶ ᱟᱢ ᱧᱮᱞ ᱞᱮ ᱦᱟᱹᱡᱩᱜᱼᱟ!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = रोबोर्ट होड़ होपोन बाय घा़ल दाड़ेयाको वा आर, बाङ फालतु सेत् ते, होड़ होपोन को खुती रे हेच् ला़गित् बाताव एमोक् आ.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."

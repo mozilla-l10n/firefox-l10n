@@ -3,12 +3,33 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
+about-logins-page-title = ᱵᱚᱞᱚᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱲ ᱥᱟᱵᱟᱫ ᱠᱚ
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱡᱟᱦᱟᱸ ᱨᱮᱜᱮ ᱤᱫᱤ ᱛᱟᱢ
+login-app-promo-subtitle = ᱟᱢᱟᱜ ᱯᱷᱨᱤ ᱮᱯᱯ { -lockwise-brand-name } ᱧᱟᱢ ᱢᱮ
+login-app-promo-android =
+    .alt = ᱜᱩᱜᱚᱞ ᱯᱞᱮ ᱨᱮ ᱧᱮᱞ ᱢᱮ
+login-app-promo-apple =
+    .alt = ᱮᱯ ᱥᱴᱚᱨ ᱨᱮ ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
+login-filter =
+    .placeholder = ᱞᱚᱜᱤᱱ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+create-login-button = ᱱᱟᱶᱟ ᱞᱚᱜᱤᱱ ᱛᱮᱭᱟᱨ ᱢᱮ
+fxaccounts-sign-in-button = { -sync-brand-short-name } ᱞᱟᱹᱜᱤᱫ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
+fxaccounts-sign-in-sync-button = ᱛᱷᱟᱨ ᱞᱟᱹᱜᱤᱛ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ
+fxaccounts-avatar-button =
+    .title = ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = ᱮᱴᱟᱜᱟᱜ ᱵᱨᱟᱩᱡᱽᱚᱮ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ …
+about-logins-menu-menuitem-import-from-a-file = ᱨᱮᱫ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ…
+about-logins-menu-menuitem-export-logins = ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱡᱟᱭ ᱢᱮ…
+about-logins-menu-menuitem-remove-all-logins = ᱡᱷᱚᱛᱚ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ…
 about-logins-menu-menuitem-help = ᱜᱚᱲᱚ
 
 ## Login List
