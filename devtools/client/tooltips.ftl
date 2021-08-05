@@ -45,8 +45,6 @@ inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</stro
 
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto <strong>overflow:hidden</strong> non è impostato.
 
-inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto il valore di <strong>outline-style</strong> è <strong>auto</strong> o <strong>none</strong>.
-
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> non ha effetto sugli elementi interni di una tabella.
 
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> non ha effetto sugli elementi interni di una tabella ad eccezione delle celle.
@@ -88,8 +86,6 @@ inactive-text-overflow-when-no-overflow-fix = Provare ad aggiungere <strong>over
 inactive-css-not-for-internal-table-elements-fix = Provare a impostare per la proprietà <strong>display</strong> un valore diverso da <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
 
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Provare a impostare per la proprietà <strong>display</strong> un valore diverso da <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
-
-inactive-outline-radius-when-outline-style-auto-or-none-fix = Provare a impostare per la proprietà <strong>outline-style</strong> un valore diverso da <strong>auto</strong> o <strong>none</strong>. { learn-more }
 
 inactive-css-not-table-fix = Provare ad aggiungere <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }
 

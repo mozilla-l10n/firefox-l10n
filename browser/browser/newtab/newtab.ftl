@@ -9,9 +9,6 @@ newtab-page-title = Nuova scheda
 newtab-settings-button =
     .title = Personalizza la pagina Nuova scheda
 
-newtab-personalize-button-label = Personalizza
-    .title = Personalizza Nuova scheda
-    .aria-label = Personalizza Nuova scheda
 newtab-personalize-icon-label =
     .title = Personalizza Nuova scheda
     .aria-label = Personalizza Nuova scheda
@@ -265,10 +262,4 @@ newtab-custom-recent-title = Attività recente
 newtab-custom-recent-subtitle = Una selezione di siti e contenuti visualizzati di recente
 newtab-custom-close-button = Chiudi
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Snippet
-newtab-custom-snippets-subtitle = Consigli e notizie da { -vendor-short-name } e { -brand-product-name }
 newtab-custom-settings = Gestisci altre impostazioni
