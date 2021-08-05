@@ -91,6 +91,7 @@
 <!ENTITY inadequateSecurityError.title "আপোনাৰ সংযোগ নিৰাপদ নহয়">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>-এ এনে সুৰক্ষা প্ৰযুক্তি ব্যৱহাৰ কৰে যি আওপুৰণি আৰু আক্ৰমণৰ প্ৰতি অসুৰক্ষিত। এগৰাকী আক্ৰমণকাৰীয়ে সহজে তথ্য প্ৰকাশ কৰিব পাৰে যি আপুনি সুৰক্ষিত বুলি ভাবিছিল। আপুনি ছাইটটো দৰ্শন কৰাৰ আগতে ৱেবছাইট কৰ্তৃপক্ষই প্ৰথমে ছাৰ্ভাৰটো ঠিক কৰিব লাগিব।</p><p>ত্ৰুটি ক'ড: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "অৱৰুদ্ধ পৃষ্ঠা">
 
