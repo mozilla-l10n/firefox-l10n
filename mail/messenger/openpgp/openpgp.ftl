@@ -648,3 +648,11 @@ enig-prompt = Solicitude de OpenPGP
 enig-confirm = Confirmación de OpenPGP
 enig-alert = Alerta de OpenPGP
 enig-info = Información de OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Tentar de novo
+dlg-button-skip = &Saltar
+# Strings used in enigmailCommon.js
+enig-error = Erro de OpenPGP
+# Strings used in enigmailMsgBox.js
+enig-alert-title =
+    .title = Alerta de OpenPGP
