@@ -61,8 +61,10 @@ app-basics-enabled-plugins = Plugins activaos
 app-basics-build-config = Configuración de la compilación
 app-basics-user-agent = Axente d'usuariu
 app-basics-os = SO
+app-basics-os-theme = Estilu del SO
 app-basics-memory-use = Usu de la memoria
 app-basics-performance = Rindimientu
+app-basics-third-party = Módulos de terceros
 app-basics-profiles = Perfiles
 app-basics-fission-support = Ventanes Fission
 app-basics-remote-processes-count = Procesos remotos
@@ -97,6 +99,7 @@ graphics-desktop-environment = Entornu d'escritoriu
 place-database-integrity = Integridá
 place-database-verify-integrity = Verificar la integridá
 a11y-title = Accesibilidá
+library-version-title = Versiones de biblioteques
 copy-text-to-clipboard-label = Copiar el testu al cartafueyu
 copy-raw-data-to-clipboard-label = Copiar los datos en bruto al cartafueyu
 sandbox-sys-call-index = #
@@ -104,6 +107,7 @@ sandbox-sys-call-age = Hai segundos
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-args = Argumentos
+troubleshoot-mode-title = Diagnostica problemes
 restart-in-troubleshoot-mode-label = Mou d'iguar problemes
 clear-startup-cache-title = Prueba a llimpiar la caché d'aniciu
 clear-startup-cache-label = Llimpiar la caché d'aniciu…
@@ -118,6 +122,7 @@ media-device-channels = Canales
 
 ##
 
+intl-title = Internacionalización y traducción
 intl-locales-requested = Locales solicitaes
 intl-locales-available = Locales disponibles
 intl-locales-supported = Locales de l'aplicación
@@ -186,10 +191,20 @@ no = Non
 found = Atopóse
 gpu-description = Descripción
 gpu-ram = RAM
+gpu-driver-version = Versión del controlador
+gpu-driver-date = Data del controlador
+webgl2-extensions = Estensiones de WebGL 2
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = fallu { $bugNumber }
+d3d11layers-crash-guard = Compositor D3D11
+d3d11video-crash-guard = Descodificador de videu D3D11
+d3d9video-crash-guard = Descodificador de videu D3D9
 glcontext-crash-guard = OpenGL
 min-lib-versions = Versión mínima que s'espera
 loaded-lib-versions = Versión n'usu
 sandbox-proc-type-content = conteníu
+startup-cache-title = Caché d'aniciu
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -214,6 +229,7 @@ policies-error = Fallu
 
 ## Printing section
 
+support-printing-title = Imprentación
 support-printing-troubleshoot = Igua de problemes
 support-printing-modified-settings = Axustes d'imprentación modificaos
 support-printing-prefs-name = Nome
