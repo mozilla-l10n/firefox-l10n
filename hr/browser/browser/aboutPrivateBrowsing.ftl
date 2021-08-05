@@ -9,6 +9,8 @@ about-private-browsing-info-title = Nalaziš se u privatnom prozoru
 about-private-browsing-info-myths = Česti mitovi o privatnom pregledavanju
 about-private-browsing =
     .title = Pretraži web
+about-private-browsing-search-btn =
+    .title = Pretraži web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -21,10 +23,8 @@ about-private-browsing-handoff-text = Traži pomoću { $engine } ili upiši adre
 about-private-browsing-handoff-text-no-engine = Traži ili upiši adresu
 about-private-browsing-not-private = Trenutačno nisi u privatnom prozoru.
 about-private-browsing-info-description = { -brand-short-name } čisti tvoju povijest pretraživanja i pregledavanja kad izađeš iz aplikacije ili kad zatvoriš sve kartice i prozore privatnog pregledavanja. Ovo te ne čini anonimnim prema web-stranicama ili tvom pružatelju internet usluga, ali znatno smanjuje mogućnost praćenja i olakšava da zadržiš privatnim ono što radiš na internetu od ostalih osoba koje koriste ovo računalo.
-
 about-private-browsing-need-more-privacy = Trebaš više privatnosti?
 about-private-browsing-turn-on-vpn = Isprobaj { -mozilla-vpn-brand-name }
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
