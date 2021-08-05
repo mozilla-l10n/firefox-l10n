@@ -114,6 +114,14 @@ tab-context-close-tabs =
            *[many] Закрити { $tabCount } вкладок
         }
     .accesskey = а
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [one] Закрити вкладку
+            [few] Закрити { $tabCount } вкладки
+           *[many] Закрити { $tabCount } вкладок
+        }
+    .accesskey = к
 tab-context-move-tabs =
     .label =
         { $tabCount ->
