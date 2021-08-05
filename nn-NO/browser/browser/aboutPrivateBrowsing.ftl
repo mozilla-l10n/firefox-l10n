@@ -9,6 +9,8 @@ about-private-browsing-info-title = Du er i eit privat vindauge
 about-private-browsing-info-myths = Vanlege mytar om privat surfing
 about-private-browsing =
     .title = Søk på nettet
+about-private-browsing-search-btn =
+    .title = Søk på nettet
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -21,10 +23,8 @@ about-private-browsing-handoff-text = Søk med { $engine } eller skriv inn ei ad
 about-private-browsing-handoff-text-no-engine = Søk eller skriv inn ei adresse
 about-private-browsing-not-private = Du er ikkje i eit privat vindauge no.
 about-private-browsing-info-description = { -brand-short-name } ryddar søke- og nettlesarhistorikken din, når du avsluttar programmet eller når du lèt at alle private faner og vindauge. Sjølv om dette ikkje gjer deg anonym for nettstadar eller internettleverandørar, vil det gjere det lettare å behalde det du gjer på nettet privat frå nokon annan som brukar denne datamaskina.
-
 about-private-browsing-need-more-privacy = Treng du meir personvern?
 about-private-browsing-turn-on-vpn = Prøv { -mozilla-vpn-brand-name }
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

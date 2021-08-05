@@ -8,7 +8,6 @@
 newtab-page-title = Ny fane
 newtab-settings-button =
     .title = Tilpass sida for Ny fane
-
 newtab-personalize-button-label = Tilpass
     .title = Tilpass ny fane-side
     .aria-label = Tilpass ny fane-side
@@ -24,9 +23,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Søk
     .aria-label = Søk
-
 newtab-search-box-search-the-web-text = Søk på nettet
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Søk med { $engine } eller skriv inn ei adresse
@@ -41,12 +38,11 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Søk eller skriv inn ei adresse
     .title = Søk eller skriv inn ei adresse
     .aria-label = Søk eller skriv inn ei adresse
-
 newtab-search-box-search-the-web-input =
     .placeholder = Søk på nettet
     .title = Søk på nettet
     .aria-label = Søk på nettet
-
+newtab-search-box-text = Søk på nettet
 newtab-search-box-input =
     .placeholder = Søk på nettet
     .aria-label = Søk på nettet
@@ -61,12 +57,10 @@ newtab-topsites-edit-shortcut-header = Rediger snarveg
 newtab-topsites-title-label = Tittel
 newtab-topsites-title-input =
     .placeholder = Skriv inn ein tittel
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Skriv eller lim inn ein URL
 newtab-topsites-url-validation = Gyldig URL er påkravd
-
 newtab-topsites-image-url-label = Tilpassa bilde-URL
 newtab-topsites-use-image-link = Bruk eit tilpassa bilde…
 newtab-topsites-image-validation = Klarte ikkje å lesa bildet. Prøv ein annan URL.
@@ -95,12 +89,10 @@ newtab-topsite-sponsored = Sponsa
 newtab-menu-section-tooltip =
     .title = Opne meny
     .aria-label = Opne meny
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Fjern
     .aria-label = Fjern
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -172,12 +164,10 @@ newtab-label-removed-bookmark = Bokmerke fjerna
 newtab-label-recommended = Trendar
 newtab-label-saved = Lagra til { -pocket-brand-name }
 newtab-label-download = Nedlasta
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsa
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -216,12 +206,10 @@ newtab-section-header-pocket = Tilrådd av { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Begynn å surfe, og vi vil vise deg nokre av dei beste artiklane, videoane og andre sider du nyleg har besøkt eller bokmerka her.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Det finst ikkje fleire. Kom tilbake seinare for fleire topphistoriar frå { $provider }. Kan du ikkje vente? Vel eit populært emne for å finne fleire gode artiklar frå heile nettet.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -263,7 +251,6 @@ newtab-custom-pocket-sponsored = Sponsa historier
 newtab-custom-recent-title = Nyleg aktivitet
 newtab-custom-recent-subtitle = Eit utval av nylege nettstadar og innhald
 newtab-custom-close-button = Lat att
-
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
