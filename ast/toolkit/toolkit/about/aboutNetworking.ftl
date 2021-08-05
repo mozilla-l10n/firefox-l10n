@@ -14,6 +14,7 @@ about-networking-hostname = Nome d'agospiador
 about-networking-port = Puertu
 about-networking-http-version = Versión de HTTP
 about-networking-ssl = SSL
+about-networking-active = Activación
 about-networking-host = Agospiador
 about-networking-tcp = TCP
 about-networking-sent = Unvióse
