@@ -98,7 +98,7 @@ urlbar-persistent-storage-notification-anchor =
 urlbar-addons-notification-anchor =
     .tooltiptext = Wobłuk zdźělenki přidatkoweje instalacije wočinić
 urlbar-tip-help-icon =
-    .title = Pomoc sej wobstarać
+    .title = Pomoc wobstarać
 urlbar-search-tips-confirm = W porjadku, sym zrozumił
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
