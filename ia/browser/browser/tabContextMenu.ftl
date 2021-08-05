@@ -114,6 +114,13 @@ tab-context-close-tabs =
            *[other] Clauder le schedas
         }
     .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Clauder scheda
+           *[other] Clauder { $tabCount } schedas
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
