@@ -111,6 +111,13 @@ tab-context-close-tabs =
            *[other] 关闭标签页
         }
     .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] 关闭标签页
+           *[other] 关闭 { $tabCount } 个标签页
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
