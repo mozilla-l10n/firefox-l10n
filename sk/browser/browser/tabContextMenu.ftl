@@ -115,6 +115,15 @@ tab-context-close-tabs =
            *[other] Zavrieť karty
         }
     .accesskey = Z
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Zavrieť kartu
+            [one] Zavrieť kartu
+            [few] Zavrieť { $tabCount } karty
+           *[other] Zavrieť { $tabCount } kariet
+        }
+    .accesskey = Z
 tab-context-move-tabs =
     .label =
         { $tabCount ->
