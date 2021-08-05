@@ -523,6 +523,20 @@ import-key-confirm = Quere importar as chaves públicas incrustadas na mensaxe?
 fail-key-import = Erro: fallou a importación da chave
 file-write-failed = Produciuse un fallo ao escribir no ficheiro { $output }
 no-pgp-block = Erro: non se atopou ningún bloque de datos blindado OpenPGP válido
+confirm-permissive-import = Fallou a importación. A chave que tenta importar pode estar corrompida ou usar atributos descoñecidos. Quere tentar importar as partes correctas? Isto pode resultar na importación de chaves incompletas e inutilizábeis.
+# Strings used in trust.jsm
+key-valid-unknown = descoñecida
+key-valid-invalid = non valida
+key-valid-disabled = desactivada
+key-valid-revoked = revogada
+key-valid-expired = caducada
+key-trust-untrusted = non fiábel
+key-trust-marginal = marxinal
+key-trust-full = fiábel
+key-trust-ultimate = absoluta
+key-trust-group = (grupo)
+# Strings used in commonWorkflows.js
+import-key-file = Importar o ficheiro de chave OpenPGP
 
 # Strings used in enigmailMessengerOverlay.js
 
