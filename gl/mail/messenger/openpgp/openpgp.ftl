@@ -595,3 +595,20 @@ sending-hidden-rcpt = Non se poden empregar destinatarios Cco (con copia oculta)
 sending-news =
     Operación de envío cifrada foi abortada.
     Esta mensaxe non se pode cifrar porque hai destinatarios dun grupo de novas. Envíe de novo a mensaxe sen cifrar.
+send-to-news-warning =
+    Aviso: está a piques de enviar un correo electrónico cifrado a un grupo de novas.
+    Isto desaconséllase porque só ten sentido se todos os membros do grupo poden descifrar a mensaxe, é dicir, a mensaxe debe cifrarse coas claves de todos os participantes do grupo. Envíe esta mensaxe só se sabe exactamente o que está a facer.
+    Quere continuar?
+save-attachment-header = Gardar o anexo descifrado
+no-temp-dir =
+    Non se puido atopar un directorio temporal no que escribir
+    Configure a variábel de contorno TEMP
+possibly-pgp-mime = Posibelmente a mensaxe está cifrada ou asinada PGP/MIME; use a función «Descifrar/Verificar» para verificar
+cannot-send-sig-because-no-own-key = Non se pode asinar dixitalmente esta mensaxe porque aínda non configurou o cifrado de extremo a extremo para <{ $key }>
+cannot-send-enc-because-no-own-key = Non se pode enviar esta mensaxe porque aínda non configurou o cifrado de extremo a extremo para <{ $key }>
+compose-menu-attach-key =
+    .label = Anexar a miña chave pública
+    .accesskey = A
+compose-menu-encrypt-subject =
+    .label = Cifraxe do asunto
+    .accesskey = C
