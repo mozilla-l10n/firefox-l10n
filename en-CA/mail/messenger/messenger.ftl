@@ -9,13 +9,25 @@ unread-messages-os-tooltip =
         [one] 1 unread message
        *[other] { $count } unread messages
     }
-
 about-rights-notification-text = { -brand-short-name } is free and open source software, built by a community of thousands from all over the world.
 
 ## Content tabs
 
+content-tab-page-loading-icon =
+    .alt = The page is loading
+content-tab-security-high-icon =
+    .alt = The connection is secure
+content-tab-security-broken-icon =
+    .alt = The connection is not secure
+
 ## Toolbar
 
+addons-and-themes-toolbarbutton =
+    .label = Add-ons and Themes
+    .tooltiptext = Manage your add-ons
+quick-filter-toolbarbutton =
+    .label = Quick Filter
+    .tooltiptext = Filter messages
 redirect-msg-button =
     .label = Redirect
     .tooltiptext = Redirect selected message
@@ -25,10 +37,8 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Folder Pane Toolbar
     .accesskey = F
-
 folder-pane-toolbar-options-button =
     .tooltiptext = Folder Pane Options
-
 folder-pane-header-label = Folders
 
 ## Folder Toolbar Header Popup
@@ -36,27 +46,21 @@ folder-pane-header-label = Folders
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Hide Toolbar
     .accesskey = H
-
 show-all-folders-label =
     .label = All Folders
     .accesskey = A
-
 show-unread-folders-label =
     .label = Unread Folders
     .accesskey = n
-
 show-favorite-folders-label =
     .label = Favourite Folders
     .accesskey = F
-
 show-smart-folders-label =
     .label = Unified Folders
     .accesskey = U
-
 show-recent-folders-label =
     .label = Recent Folders
     .accesskey = R
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Compact View
     .accesskey = C
@@ -73,19 +77,14 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Preferences
-
 appmenu-addons-and-themes =
     .label = Add-ons and Themes
-
 appmenu-help-enter-troubleshoot-mode =
     .label = Troubleshoot Mode…
-
 appmenu-help-exit-troubleshoot-mode =
     .label = Turn Troubleshoot Mode Off
-
 appmenu-help-more-troubleshooting-info =
     .label = More Troubleshooting Information
-
 appmenu-redirect-msg =
     .label = Redirect
 
@@ -112,7 +111,6 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Address is in the Address Book
-
 message-header-address-not-in-address-book-icon =
     .alt = Address is not in the Address Book
 
@@ -123,14 +121,15 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Remove { $name }?
 addon-removal-confirmation-button = Remove
 addon-removal-confirmation-message = Remove { $name } as well as its configuration and data from { -brand-short-name }?
-
 caret-browsing-prompt-title = Caret Browsing
 caret-browsing-prompt-text = Pressing F7 turns Caret Browsing on or off. This feature places a moveable cursor within some content, allowing you to select text with the keyboard. Do you want to turn Caret Browsing on?
 caret-browsing-prompt-check-text = Do not ask again.
-
 repair-text-encoding-button =
     .label = Repair Text Encoding
     .tooltiptext = Guess correct text encoding from message content
 
 ## no-reply handling
 
+no-reply-title = Reply Not Supported
+no-reply-message = The reply address ({ $email }) does not appear to be a monitored address. Messages to this address will likely not be read by anyone.
+no-reply-reply-anyway-button = Reply Anyway
