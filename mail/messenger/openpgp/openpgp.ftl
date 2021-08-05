@@ -619,3 +619,10 @@ do-import-multiple =
 do-import-one = Quere importar { $name } ({ $id })?
 cant-import = Produciuse un erro ao importar a chave pública
 unverified-reply = Probabelmente se modificou a parte da mensaxe con sangrado (resposta)
+key-in-message-body = Atopouse unha chave no corpo da mensaxe. Faga clic en «Importar a chave» para importar a chave
+sig-mismatch = Erro: a sinatura non concorda
+invalid-email = Erro: un ou máis enderezos de correo electrónico non son válidos
+attachment-pgp-key =
+    O anexo «{ $name }» que está a abrir parece ser un ficheiro de chave OpenPGP.
+    Faga clic en «Importar» para importar as chaves contidas ou en «Ver» para ver o contido do ficheiro nunha xanela do navegador
+dlg-button-view = &Ver
