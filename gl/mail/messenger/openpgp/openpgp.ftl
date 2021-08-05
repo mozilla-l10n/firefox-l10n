@@ -626,3 +626,25 @@ attachment-pgp-key =
     O anexo «{ $name }» que está a abrir parece ser un ficheiro de chave OpenPGP.
     Faga clic en «Importar» para importar as chaves contidas ou en «Ver» para ver o contido do ficheiro nunha xanela do navegador
 dlg-button-view = &Ver
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Mensaxe descifrada (o formato de correo electrónico PGP corrompido foi restaurado, probabelmente a causa foi un antigo servidor de Exchange, polo que o resultado pode non ser perfecto para ler)
+# Strings used in encryption.jsm
+not-required = Erro: non se precisa cifrado
+# Strings used in windows.jsm
+no-photo-available = Non hai unha foto dispoñíbel
+error-photo-path-not-readable = A ruta da foto «{ $photo }» non é lexíbel
+debug-log-title = Rexistro de depuración OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Esta alerta repetirase { $count }
+repeat-suffix-singular = vez máis.
+repeat-suffix-plural = veces máis.
+no-repeat = Esta alerta non se amosará de novo.
+dlg-keep-setting = Lembre a miña resposta e non me volva preguntar
+dlg-button-ok = &Vale
+dlg-button-close = &Pechar
+dlg-button-cancel = &Cancelar
+dlg-no-prompt = Non amosar esta xanela de novo.
+enig-prompt = Solicitude de OpenPGP
+enig-confirm = Confirmación de OpenPGP
+enig-alert = Alerta de OpenPGP
+enig-info = Información de OpenPGP
