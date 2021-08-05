@@ -7,7 +7,6 @@ page-subtitle =
     דף זה מכיל מידע טכני שאולי שימושי עבורך
     כשתנסה לפתור בעיות. אם אתה מחפש תשובות לשאלות נפוצות
     על { -brand-short-name }, עבור ל<a data-l10n-name="support-link">אתר התמיכה</a>.
-
 crashes-title = דיווחי קריסה
 crashes-id = מזהה דיווח
 crashes-send-date = נשלח
@@ -61,6 +60,7 @@ app-basics-enabled-plugins = תוספים חיצוניים פעילים
 app-basics-build-config = הגדרות בנייה
 app-basics-user-agent = סוכן משתמש
 app-basics-os = מערכת הפעלה
+app-basics-os-theme = ערכת נושא של מערכת ההפעלה
 app-basics-memory-use = שימוש בזכרון
 app-basics-performance = ביצועים
 app-basics-service-workers = Service Workers רשומים
@@ -126,7 +126,6 @@ sandbox-sys-call-number = קריאת מערכת
 sandbox-sys-call-args = ארגומנטים
 safe-mode-title = לנסות במצב בטוח
 restart-in-safe-mode-label = הפעלה מחדש עם תוספות מנוטרלות…
-
 troubleshoot-mode-title = אבחון בעיות
 restart-in-troubleshoot-mode-label = מצב לפתרון בעיות…
 clear-startup-cache-title = לנסות לנקות את מטמון ההפעלה
@@ -179,31 +178,6 @@ remote-debugging-url = כתובת
 
 ##
 
-support-third-party-modules-title = מודולים מצד־שלישי
-support-third-party-modules-module = קובץ המודול
-support-third-party-modules-version = גרסת קובץ
-support-third-party-modules-vendor = מידע על הספק
-support-third-party-modules-process = סוג ומזהה התהליך
-support-third-party-modules-base = כתובת תמונת בסיס
-support-third-party-modules-uptime = זמן פעילות של התהליך (מ״ש)
-support-third-party-modules-duration = משך טעינה (מ״ש)
-support-third-party-modules-empty = לא נטענו מודולים מצד־שלישי.
-support-third-party-modules-no-value = (אין ערך)
-support-third-party-modules-button-open =
-    .title = פתיחת מיקום הקובץ…
-support-third-party-modules-expand =
-    .title = הצגת מידע מפורט
-support-third-party-modules-collapse =
-    .title = צמצום מידע מפורט
-support-third-party-modules-unsigned-icon =
-    .title = מודול זה אינו חתום
-support-third-party-modules-folder-icon =
-    .title = פתיחת מיקום הקובץ…
-support-third-party-modules-down-icon =
-    .title = הצגת מידע מפורט
-support-third-party-modules-up-icon =
-    .title = צמצום מידע מפורט
-
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -211,7 +185,6 @@ report-crash-for-days =
         [one] דיווחי קריסה מהיום האחרון
        *[other] דיווחי קריסה מ־{ $days } הימים האחרונים
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -219,7 +192,6 @@ crashes-time-minutes =
         [one] לפני דקה אחת
        *[other] לפני { $minutes } דקות
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -227,7 +199,6 @@ crashes-time-hours =
         [one] לפני שעה אחת
        *[other] לפני { $hours } שעות
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -235,7 +206,6 @@ crashes-time-days =
         [one] לפני יום אחד
        *[other] לפני { $days } ימים
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -243,7 +213,6 @@ pending-reports =
         [one] כל דיווחי הקריסה (כולל קריסה נוספת בטווח הזמן הנתון)
        *[other] כל דיווחי הקריסה (כולל { $reports } קריסות נוספות בטווח הזמן הנתון)
     }
-
 raw-data-copied = מידע גולמי הועתק ללוח
 text-copied = הטקסט הועתק ללוח
 
@@ -256,11 +225,9 @@ blocked-mismatched-version = חסום עקב חוסר תאימות בין גרס
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = חסום עבור גרסת מנהל ההתקן הגרפי שברשותך. ניתן לנסות לעדכן את מנהל ההתקן לגרסה { $driverVersion } או חדשה יותר.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = פרמטרים של ClearType
-
 hardware-h264 = קידוד H264 באמצעות חומרה
 main-thread-no-omtc = תהליך ראשי, אין OMTC
 yes = כן
@@ -274,7 +241,6 @@ virtual-monitor-disp = תצוגת צג וירטואלי
 
 found = קיים
 missing = חסר
-
 gpu-description = תיאור
 gpu-vendor-id = מזהה הספק
 gpu-device-id = מזהה התקן
@@ -290,24 +256,19 @@ webgl2-version = גרסת מנהל התקן עבור WebGL 2
 webgl2-driver-extensions = הרחבות מנהל התקן עבור WebGL 2
 webgl2-extensions = הרחבות עבור WebGL 2
 blocklisted-bug = הוכנס לרשימה שחורה עקב בעיות ידועות
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = באג { $bugNumber }
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = נחסם עקב בעיות ידועות: <a data-l10n-name="bug-link">תקלה { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = הוכנס לרשימה השחורה, קוד כישלון { $failureCode }
-
 d3d11video-crash-guard = מפענח הווידאו D3D11
 d3d9video-crash-guard = מפענח הווידאו D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = מפענח הווידאו WMF VPX
-
 reset-on-next-restart = איפוס בהפעלה מחדש הבאה
 gpu-process-kill-button = סיום תהליך GPU
 gpu-device-reset = איפוס מכשיר
@@ -316,10 +277,8 @@ uses-tiling = שימוש בריצוף
 content-uses-tiling = שימוש בריצוף (תוכן)
 off-main-thread-paint-enabled = ציור מחוץ להליך הראשי מופעל
 target-frame-rate = קצב תמונות ייעודי
-
 min-lib-versions = גרסת מינימום מצופה
 loaded-lib-versions = גרסה שבשימוש
-
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-user-namespaces = מרחב שמות משתמש
 has-privileged-user-namespaces = מרחב שמות משתמש לתהליכים מורשים
@@ -328,17 +287,14 @@ can-sandbox-media = ארגז חול לתוספים חיצוניים עבור מ�
 sandbox-proc-type-content = תוכן
 sandbox-proc-type-file = תוכן קובץ
 sandbox-proc-type-media-plugin = תוסף מדיה
-
 startup-cache-title = מטמון הפעלה
 startup-cache-disk-cache-path = נתיב מטמון הכונן
 startup-cache-ignore-disk-cache = התעלמות ממטמון הכונן
 startup-cache-wrote-to-disk-cache = נכתב למטמון הכונן
-
 launcher-process-status-0 = מופעל
 launcher-process-status-1 = מושבת עקב כשל
 launcher-process-status-2 = מושבת בכוח
 launcher-process-status-unknown = מצב לא ידוע
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -351,7 +307,6 @@ multi-process-status-6 = נוטרל עקב קלט טקסט לא נתמך
 multi-process-status-7 = נוטרל על־ידי תוספות
 multi-process-status-8 = מושבת בכוח
 multi-process-status-unknown = מצב לא ידוע
-
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -366,9 +321,7 @@ fission-status-disabled-by-default = מושבת כברירת מחדל
 fission-status-enabled-by-user-pref = מופעל על־ידי המשתמש
 fission-status-disabled-by-user-pref = מושבת על־ידי המשתמש
 fission-status-disabled-by-e10s-other = ריבוי תהליכים מושבת
-
 fission-status-enabled-by-rollout = מופעל על־ידי השקה בשלבים
-
 apz-none = אין
 wheel-enabled = קלט גלגל מופעל
 touch-enabled = קלט מגע מופעל
@@ -401,7 +354,6 @@ support-remote-experiments-title = ניסויים מרוחקים
 support-remote-experiments-name = שם
 support-remote-experiments-branch = ענף ניסוי
 support-remote-experiments-see-about-studies = ניתן להיכנס ל־<a data-l10n-name="support-about-studies-link">about:studies</a> למידע נוסף, כולל האפשרות להשבית ניסויים או למנוע מ־{ -brand-short-name } להריץ את אותו הסוג של הניסוי בעתיד.
-
 support-remote-features-title = תכונות מרוחקות
 support-remote-features-name = שם
 support-remote-features-status = מצב

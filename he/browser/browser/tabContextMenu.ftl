@@ -112,6 +112,14 @@ tab-context-close-tabs =
            *[other] סגירת לשוניות
         }
     .accesskey = ס
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] סגירת לשונית
+            [one] סגירת לשונית
+           *[other] סגירת { $tabCount } לשוניות
+        }
+    .accesskey = ס
 tab-context-move-tabs =
     .label =
         { $tabCount ->
