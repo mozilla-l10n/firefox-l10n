@@ -510,6 +510,15 @@ revoke-key-in-use-description = Non se puido proceder. A chave que seleccionou p
 key-error-key-spec-not-found = O enderezo de correo electrónico «{ $keySpec }» non corresponde con ningunha chave do seu chaveiro.
 key-error-key-id-not-found = O identificador da chave configurada «{ $keySpec }» non foi atopado no seu chaveiro.
 key-error-not-accepted-as-personal = Non confirmou que a chave co identificador «{ $keySpec }» sexa a súa chave persoal.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = A función que seleccionou non está dispoñíbel no modo sen conexión. Conéctese e ténteo de novo.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Non puidemos atopar ningunha chave que coincida cos criterios de busca especificados.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Erro: fallou a orde de extracción da chave
+# Strings used in keyRing.jsm
+fail-cancel = Erro: a recepción da chave foi cancelada polo usuario
+not-first-block = Erro: o primeiro bloque OpenPGP non é un bloque de chave pública
 
 # Strings used in enigmailMessengerOverlay.js
 
