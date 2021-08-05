@@ -11,7 +11,6 @@ appmenuitem-update-banner3 =
     .label-update-manual = Aktualizacija k dispoziciji – něnto ześěgnuś
     .label-update-unsupported = Aktulaizacija njejo móžna – system jo inkompatibelny
     .label-update-restart = Aktualizacija k dispoziciji – něnto znowego startowaś
-
 appmenuitem-protection-dashboard-title = Pśeglěd šćitow
 appmenuitem-customize-mode =
     .label = Pśiměriś…
@@ -44,7 +43,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Nałožeński meni zacyniś
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,7 +54,6 @@ appmenuitem-zoom-enlarge =
     .label = Pówětšyś
 appmenuitem-zoom-reduce =
     .label = Pómjeńšyś
-
 appmenuitem-fullscreen =
     .label = Połna wobrazowka
 
@@ -64,12 +61,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Něnto synchronizěrowaś
-
 appmenu-remote-tabs-sign-into-sync =
     .label = Pla Sync pśizjawiś…
 appmenu-remote-tabs-turn-on-sync =
     .label = Sync zmóžniś…
-
 appmenuitem-fxa-toolbar-sync-now2 = Něnto synchronizěrowaś
 appmenuitem-fxa-manage-account = Konto zastojaś
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -83,14 +78,12 @@ appmenu-fxa-signed-in-label = Pśizjawiś
 appmenu-fxa-setup-sync =
     .label = Synchronizaciju zmóžniś…
 appmenu-fxa-show-more-tabs = Dalšne rejtariki pokazaś
-
 appmenuitem-save-page =
     .label = Bok składowaś ako…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nowe funkcije a změny
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -103,49 +96,35 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Dalšne informacije pokazaś
-
 profiler-popup-description-title =
     .value = Nagraś, analyzěrować, źěliś
-
 profiler-popup-description = Wózjawśo profile a źělśo je ze swójim teamom, aby na wugbaśowych problemach gromadue źěłali.
-
 profiler-popup-learn-more = Dalšne informacije
-
 profiler-popup-settings =
     .value = Nastajenja
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Nastajenja wobźěłaś…
-
 profiler-popup-disabled =
     Profilowak jo tuchylu znjemóžnjony, nejskerjej dokulaž priwatne wokno
     jo wócynjone.
-
 profiler-popup-recording-screen = Nagrawa se…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Swójski
-
 profiler-popup-start-recording-button =
     .label = Nagraśe startowaś
-
 profiler-popup-discard-button =
     .label = Zachyśiś
-
 profiler-popup-capture-button =
     .label = Registrěrowanje
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Strg+Umsch+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -158,7 +137,6 @@ appmenu-manage-history =
     .label = Historiju zastojaś
 appmenu-reopen-all-tabs = Wšykne rejtariki znowego wócyniś
 appmenu-reopen-all-windows = Wšykne wokna znowego wócyniś
-
 appmenu-restore-session =
     .label = Pjerwjejšne pósejźenje wótnowiś
 appmenu-clear-history =
@@ -177,7 +155,7 @@ appmenu-about =
     .label = Wó { -brand-shorter-name }
     .accesskey = W
 appmenu-get-help =
-    .label = Pomoc se wobstaraś
+    .label = Pomoc wobstaraś
     .accesskey = P
 appmenu-help-more-troubleshooting-info =
     .label = Dalšne informacije za rozwězowanje problemow
@@ -214,7 +192,6 @@ appmenu-customizetoolbar =
     .label = Symbolowu rědku pśiměriś…
 appmenu-taskmanager =
     .label = Zastojnik nadawkow
-
 appmenu-developer-tools-subheader = Rědy wobglědowaka
 appmenu-developer-tools-extensions =
     .label = Rozšyrjenja za wuwijarje
