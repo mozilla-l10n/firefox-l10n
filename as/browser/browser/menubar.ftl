@@ -38,20 +38,16 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }-ৰ পৰা ওলাওক
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name }-ৰ পৰা ওলাওক
-
 menu-about =
     .label = { -brand-shorter-name }-ৰ বিষয়ে
     .accesskey = A
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = লিংক ইমেইল কৰক…
     .accesskey = E
+menu-file-share-url =
+    .label = ভাগ-বতৰা কৰক
+    .accesskey = h
 menu-file-print-setup =
     .label = পৃষ্টা সংস্থাপন…
     .accesskey = u
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = পাঠ এনক'ডিং
     .accesskey = c
-
 menu-view-repair-text-encoding =
     .label = পাঠৰ এনক'ডিং মেৰামতি কৰক
     .accesskey = c
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = শেহতীয়াভাৱে বন্ধ কৰা টেবসমূহ
 menu-history-undo-window-menu =
     .label = শেহতীয়াভাৱে বন্ধ কৰা উইণ্ড'সমূহ
-
 menu-history-reopen-all-tabs = সকলো টেব পুনৰ খোলক
 menu-history-reopen-all-windows = সকলো ৱিণ্ড' পুনৰ খোলক
 
@@ -359,6 +356,9 @@ menu-help-troubleshooting-info =
 menu-get-help =
     .label = সহায় পাওক
     .accesskey = H
+menu-help-more-troubleshooting-info =
+    .label = সমস্যা-সমাধানৰ অধিক তথ্য
+    .accesskey = T
 menu-help-report-site-issue =
     .label = ছাইট সমস্যাৰ প্ৰতিবেদন দিয়ক…
 menu-help-feedback-page =
@@ -370,6 +370,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = এড-অনসমূহ সক্ৰিয় কৰি পুনৰাৰম্ভ কৰক
     .accesskey = R
+menu-help-enter-troubleshoot-mode2 =
+    .label = সমস্যা-সমাধান ম'ড
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = সমস্যা-সমাধান ম'ড বন্ধ কৰক
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
