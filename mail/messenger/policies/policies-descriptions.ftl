@@ -65,6 +65,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Reverter o comportamen
 ##
 
 policy-LocalFileLinks = Permitir que sitios web específicos liguen a ficheiros locais.
+policy-ManualAppUpdateOnly = Permitir só actualizacións manuais e non notificar ao usuario sobre as actualizacións.
 policy-NetworkPrediction = Activar ou desactivar a predición de rede (recuperación previa de DNS).
 policy-OfferToSaveLogins = Aplicar a configuración para permitir que o { -brand-short-name } ofreza lembrar as identificacións e os contrasinais gardados. Acéptanse os valores verdadeiro e falso.
 policy-OfferToSaveLoginsDefault = Definir o valor predeterminado para permitir que o { -brand-short-name } se ofreza para lembrar as identificacións e contrasinais gardados. Acéptanse os valores verdadeiro e falso.
@@ -75,6 +76,7 @@ policy-PasswordManagerEnabled = Activar o gardado de contrasinais no xestor de c
 policy-PDFjs = Desactivar ou configurar PDF.js, o visor de PDF integrado no { -brand-short-name }.
 policy-Permissions2 = Configurar os permisos para a cámara, o micrófono, a localización, as notificacións e a reprodución automática.
 policy-Preferences = Definir e bloquear o valor dun subconxunto de preferencias.
+policy-PrimaryPassword = Esixir ou evitar o uso dun contrasinal principal.
 policy-PromptForDownloadLocation = Preguntar onde gardar os ficheiros ao descargar.
 policy-Proxy = Configura os axustes do servidor mandatario.
 policy-RequestedLocales = Define a lista de idiomas solicitados para a aplicación por orde de preferencia.
