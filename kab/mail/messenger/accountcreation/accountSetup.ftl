@@ -134,6 +134,10 @@ account-setup-result-no-encryption = Ulac awgelhen
 account-setup-result-ssl = SSL/TLS
 account-setup-result-starttls = STARTTLS
 account-setup-result-outgoing-existing = Aqeddac SMTP yellan
+# Variables:
+#  $incoming (String): The email/username used to log into the incoming server
+#  $outgoing (String): The email/username used to log into the outgoing server
+account-setup-result-username-different = Ad d-iteddu: { $incoming }, ad iffeɣ: { $outgoing }
 
 ## Error messages
 
