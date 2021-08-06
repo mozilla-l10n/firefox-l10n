@@ -5,6 +5,10 @@
 styleeditor-save-button = Нигоҳ доштан
     .tooltiptext = Нигоҳ доштани ин варақаи услубҳо ба файл
     .accesskey = Н
+styleeditor-options-button =
+    .tooltiptext = Имконоти муҳаррири услубҳо
+styleeditor-editor-textbox =
+    .data-placeholder = Рамзи CSS-ро дар ин ҷо ворид кунед.
 styleeditor-open-link-new-tab =
     .label = Кушодани пайванд дар варақаи нав
 styleeditor-copy-url =
