@@ -120,8 +120,11 @@ account-setup-result-imap = IMAP
 account-setup-result-imap-description = Ḥrez ikaramen d yimaylen inek·inem mtawan ɣef uqeddac-inek·inem
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
+account-setup-result-pop-description = Eǧǧ ikaramen d yimaylen ɣef uselkim-inek·inem
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Seqdec aqeddac Microsoft Exange neɣ iqeddacen n tagut n Office365
 account-setup-incoming-title = Ad d-iteddu
 account-setup-outgoing-title = Ad yeffeɣ
 account-setup-username-title = Isem n useqdac
