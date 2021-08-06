@@ -96,6 +96,7 @@ account-setup-step4-image =
     .title = Yhteysvirhe
 account-setup-step5-image =
     .title = Tili luotu
+account-setup-privacy-footnote2 = Kirjautumistietosi tallennetaan vain paikallisesti tietokoneellesi.
 account-setup-selection-help = Etkö ole varma, mitä valita?
 account-setup-selection-error = Tarvitsetko apua?
 account-setup-success-help = Oletko epävarma seuraavista vaiheista?
@@ -112,6 +113,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = Säilytä kansiot ja sähköpostit tietokoneellasi
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Käytä Microsoft Exchange -palvelinta tai Office365-pilvipalveluja
 account-setup-incoming-title = Saapuva
 account-setup-outgoing-title = Lähtevä
 account-setup-username-title = Käyttäjätunnus
