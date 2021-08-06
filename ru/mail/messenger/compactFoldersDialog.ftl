@@ -12,6 +12,9 @@ compact-dialog =
     .buttonaccesskeycancel = п
     .buttonlabelextra1 = Подробнее…
     .buttonaccesskeyextra1 = о
+# Variables:
+#  $data (String): The amount of space to be freed, formatted byte, MB, GB, etc., based on the size.
+compact-dialog-message = { -brand-short-name } необходимо регулярно обслуживать файлы, чтобы повысить скорость работы с вашими почтовыми папками. Это позволит восстановить { $data } на диске и не изменит ваши сообщения. Чтобы { -brand-short-name } делал это в будущем автоматически, не выдавая запрос, установите флажок ниже, прежде чем выбрать «{ compact-dialog.buttonlabelaccept }».
 compact-dialog-never-ask-checkbox =
     .label = В будущем автоматически сжимать папки
     .accesskey = б
