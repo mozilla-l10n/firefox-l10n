@@ -125,14 +125,14 @@ account-setup-results-area-title =
     }
 # Note: IMAP is the name of a protocol.
 account-setup-result-imap = IMAP
-account-setup-result-imap-description = Синхронизируйте свои папки и электронную почту на вашем сервере
+account-setup-result-imap-description = Синхронизирует ваши папки и электронную почту на вашем сервере
 # Note: POP3 is the name of a protocol.
 account-setup-result-pop = POP3
-account-setup-result-pop-description = Храните свои папки и электронную почту на вашем компьютере
+account-setup-result-pop-description = Хранит ваши папки и электронную почту на вашем компьютере
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
 # Note: Exchange, Office365 are the name of products.
-account-setup-result-exchange2-description = Использовать сервер Microsoft Exchange или облачные службы Office365
+account-setup-result-exchange2-description = Использует сервер Microsoft Exchange или облачные службы Office365
 account-setup-incoming-title = Для получения
 account-setup-outgoing-title = Для отправки
 account-setup-username-title = Имя пользователя
@@ -141,7 +141,7 @@ account-setup-result-smtp = SMTP
 account-setup-result-no-encryption = Без шифрования
 account-setup-result-ssl = SSL/TLS
 account-setup-result-starttls = STARTTLS
-account-setup-result-outgoing-existing = Использовать существующий сервер исходящей почты (SMTP)
+account-setup-result-outgoing-existing = Использует существующий сервер исходящей почты (SMTP)
 # Variables:
 #  $incoming (String): The email/username used to log into the incoming server
 #  $outgoing (String): The email/username used to log into the outgoing server
