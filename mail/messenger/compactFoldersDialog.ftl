@@ -5,6 +5,13 @@
 compact-dialog-window =
     .title = Сжатие папок
     .style = width: 50em;
+compact-dialog =
+    .buttonlabelaccept = Сжать сейчас
+    .buttonaccesskeyaccept = а
+    .buttonlabelcancel = Напомнить позже
+    .buttonaccesskeycancel = п
+    .buttonlabelextra1 = Подробнее…
+    .buttonaccesskeyextra1 = о
 compact-dialog-never-ask-checkbox =
     .label = В будущем автоматически сжимать папки
     .accesskey = б
