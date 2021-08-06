@@ -156,6 +156,8 @@ protocol-imap-option = { account-setup-result-imap }
 protocol-pop-option = { account-setup-result-pop }
 protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = Asenneftaɣ:
+account-setup-port-label = Tawwurt:
+    .title = Sbadu amḍan n tewwurt ɣer 0 i tifin tawurmant
 account-setup-ssl-label = Taɣellist n tuqqna:
 account-setup-outgoing-server-legend = Aqeddac uffiɣen
 
