@@ -15,6 +15,10 @@ cert-error-untrusted-default = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱯᱟᱹᱛ�
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ᱵᱷᱩᱞ ᱠᱳᱰ: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = HTTP ᱯᱟᱹᱵᱞᱤᱠ ᱠᱤᱭ ᱯᱤᱱᱤᱝ: { $hasHPKP }
+cert-error-details-cert-chain-label = ᱯᱚᱨᱢᱟᱱ ᱪᱮᱱᱺ
 open-in-new-window-for-csp-or-xfo-error = ᱱᱟᱶᱟ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱥᱟᱭᱤᱴ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 
 ## Messages used for certificate error titles
@@ -40,5 +44,7 @@ proxyConnectFailure-title = ᱮᱲᱮ ᱥᱟᱹᱨᱣᱟᱹᱨ ᱫᱚ ᱡᱚᱱ�
 proxyResolveFailure-title = ᱮᱲᱮ ᱥᱟᱹᱨᱣᱟᱹᱨ ᱵᱟᱝ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ
 redirectLoop-title = ᱥᱟᱦᱴᱟ ᱣᱮᱵᱽ ᱞᱮᱠᱟ ᱛᱮ ᱵᱟᱭ ᱥᱮᱱ  ᱨᱩᱟᱹᱲᱚᱜ ᱠᱟᱱᱟ ᱾
 unknownSocketType-title = ᱥᱟᱹᱨᱣᱟᱹᱨ ᱠᱷᱚᱱ ᱵᱟᱝ ᱟᱝᱥᱟᱠ ᱨᱚᱲ ᱨᱩᱟᱹᱲ ᱾
+nssFailure2-title = ᱡᱟᱯᱛᱤ ᱡᱚᱱᱚᱲᱟᱣ ᱦᱩᱲᱟᱹᱜ
 corruptedContentError-title = ᱨᱟᱹᱯᱩᱫᱟᱜ ᱵᱤᱥᱚᱭ ᱵᱷᱩᱞ
 remoteXUL-title = ᱥᱟᱸᱜᱤᱧ ᱨᱮᱭᱟᱜ XUL
+networkProtocolError-title = ᱱᱮᱴᱣᱟᱨᱠ ᱯᱨᱚᱴᱚᱠᱚᱞ ᱦᱩᱲᱟᱹᱜ

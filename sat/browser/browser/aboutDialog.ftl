@@ -8,8 +8,12 @@ releaseNotes-link = ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
 update-checkForUpdatesButton =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮᱸᱝᱜᱷᱟᱱ
     .accesskey = ᱠ
+update-updateButton =
+    .label = ᱟᱹᱯᱰᱮᱴ ᱞᱟᱹᱜᱤᱫ ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵᱽ ᱢᱮ { -brand-shorter-name }
+    .accesskey = ᱟ
 update-checkingForUpdates = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱧᱮᱞᱮᱫ ᱟ …
 update-downloading = <img data-l10n-name="icon"/>ᱦᱟᱹᱞᱤᱭᱟᱜ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚᱜᱭᱮᱫᱼᱟ — <label data-l10n-name="download-status"/>
+update-downloading-message = ᱟᱹᱯᱰᱥᱮᱴ ᱰᱟᱩᱱᱞᱚᱰᱚᱜ ᱠᱟᱱᱟ — <label data-l10n-name="download-status"/>
 update-applying = ᱦᱟᱹᱞᱤ ᱵᱚᱦᱟᱞᱮᱫ ᱟ  …
 update-failed = ᱦᱟᱹᱞᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾ <label data-l10n-name="failed-link">ᱱᱟᱶᱟᱱᱟᱜ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚᱭ ᱢᱮ</label>
 update-failed-main = ᱦᱟᱹᱞᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ <a data-l10n-name="failed-link-main">ᱱᱟᱶᱟᱱᱟᱜ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚᱭ ᱢᱮ</a>
@@ -25,6 +29,7 @@ aboutdialog-help-user = { -brand-product-name } ᱜᱚᱲᱚ
 aboutdialog-submit-feedback = ᱯᱷᱤᱰᱵᱮᱠ ᱦᱟᱹᱴᱤᱧ ᱢᱮ
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>ᱫᱚ ᱢᱤᱫ<label data-l10n-name="community-exp-creditsLink">ᱫᱷᱟᱹᱨᱛᱤ ᱨᱤᱱ ᱦᱚᱲ ᱠᱚᱣᱟᱜ</label>ᱢᱤᱫ ᱫᱷᱟᱣ ᱛᱮ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱣᱮᱵᱽ ᱡᱷᱤᱡᱽ ᱦᱚᱲ ᱠᱚ ᱟᱨ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱟᱛᱩᱨ ᱫᱟᱲᱮ ᱦᱚᱪᱚ ᱾
 community-2 = { -brand-short-name } ᱫᱚ ᱥᱟᱡᱟᱣᱠᱟᱱᱟ ᱫᱟᱨᱟᱭᱛᱮ<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ᱢᱤᱫ<label data-l10n-name="community-creditsLink">ᱢᱤᱫ ᱫᱷᱟᱹᱨᱛᱤ ᱨᱤᱱ ᱦᱚᱲ ᱠᱚᱣᱟᱜ</label>ᱢᱤᱫ ᱫᱷᱟᱣ ᱛᱮ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱣᱮᱵᱽ ᱡᱷᱤᱡᱽ ᱦᱚᱲ ᱠᱚ ᱟᱨ ᱡᱷᱚᱛᱚ ᱦᱚᱲ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱛᱩᱨ ᱫᱟᱲᱮ ᱦᱚᱪᱚ ᱾
+helpus = ᱜᱚᱲᱚ ᱮᱢ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ? <label data-l10n-name="helpus-donateLink">ᱫᱟᱱ ᱢᱮ</label> ᱟᱨ ᱵᱟᱝ <label data-l10n-name="helpus-getInvolvedLink">ᱪᱷᱩᱴᱟᱣᱜ ᱢᱮ!</label>
 bottomLinks-license = ᱞᱟᱭᱥᱮᱱᱥ ᱮᱢ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
 bottomLinks-rights = ᱵᱮᱵᱷᱨᱤᱡ ᱦᱚᱠ ᱠᱚ ᱢᱩᱪᱟᱹᱫ
 bottomLinks-privacy = ᱩᱠᱩᱣᱟᱜ ᱱᱤᱛᱤ

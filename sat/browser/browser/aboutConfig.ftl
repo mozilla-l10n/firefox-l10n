@@ -8,6 +8,8 @@
 
 ##
 
+about-config-search-input1 =
+    .placeholder = ᱠᱩᱥᱤᱭᱟᱜ ᱧᱩᱛᱩᱢ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 about-config-show-all = ᱡᱷᱚᱛᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 about-config-pref-add-button =
     .title = ᱥᱮᱞᱮᱫᱽ ᱢᱮ
