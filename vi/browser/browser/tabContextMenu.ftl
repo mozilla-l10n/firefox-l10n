@@ -111,6 +111,13 @@ tab-context-close-tabs =
            *[other] Đóng các thẻ
         }
     .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Đóng thẻ
+           *[other] Đóng { $tabCount } thẻ
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
