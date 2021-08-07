@@ -16,15 +16,14 @@
 #  $content-title (String): the title of the web content.
 browser-main-window =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (निजेराक् ब्राउजिंग)
+    .data-title-private = { -brand-full-name } (ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱩᱡᱤᱝ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (निजेराक् ब्राउजिंग)
-
+    .data-content-title-private = { $content-title } - { -brand-full-name } (ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱩᱡᱤᱝ)
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -36,10 +35,9 @@ browser-main-window =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (निजेराक् ब्राउजिंग)
+    .data-title-private = { -brand-full-name } - (ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱩᱡᱤᱝ)
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (निजेराक् ब्राउजिंग)
-
+    .data-content-title-private = { $content-title } - (ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱩᱡᱤᱝ)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -66,26 +64,23 @@ browser-main-window-title = { -brand-full-name }
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
-    .tooltiptext = नोवा पुथी चिनहा़ सासापड़ाव मे  ({ $shortcut })
-
+    .tooltiptext = ᱱᱚᱶᱟ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = नोवा साहटा  ({ $shortcut }) पुथीचिवहा़य मे
+    .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ  ({ $shortcut }) ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱭ ᱢᱮ
 
 ## Page Action Context Menu
 
 
-## Page Action menu
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = टुलबार को उकुय मे
-    .accesskey = H
+    .label = ᱴᱩᱞᱵᱟᱨ ᱠᱚ ᱩᱫᱩᱜᱽ ᱢᱮ
+    .accesskey = ᱴ
 full-screen-exit =
-    .label = पुरा़ स्क्रिन ओबोसता खोन बाहरे
-    .accesskey = F
+    .label = ᱯᱩᱨᱟ ᱥᱠᱨᱤᱱ ᱚᱵᱚᱥᱛᱟ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ
+    .accesskey = ᱯ
 
 ## Search Engine selection buttons (one-offs)
 
@@ -104,15 +99,15 @@ full-screen-exit =
 ## Identity Panel
 
 identity-disable-mixed-content-blocking =
-    .label = नितोक् ला़गित् आ़ड बाङ हुय होचो आकाना
-    .accesskey = D
+    .label = ᱱᱤᱛᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱲ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚᱜ ᱠᱟᱱᱟ
+    .accesskey = ᱱ
 
 ## Window controls
 
 browser-window-minimize-button =
-    .tooltiptext = हुडिञ उता़र तेयार मित्
+    .tooltiptext = ᱦᱩᱲᱤᱧ ᱩᱛᱟᱹᱨ ᱛᱮᱭᱟᱨ ᱢᱤᱫ
 browser-window-close-button =
-    .tooltiptext = बोंद मे
+    .tooltiptext = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
 ## Tab actions
 
@@ -128,13 +123,12 @@ browser-window-close-button =
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
-    .value = हाटिञ ला़गित् कैमरा:
-    .accesskey = C
+    .value = ᱦᱟᱹᱴᱤᱧ ᱞᱟᱹᱜᱤᱫ ᱠᱮᱢᱨᱟ:
+    .accesskey = ᱦ
 popup-select-microphone =
-    .value = हा़टिञ ला़गित् माइक्रोपन:
-    .accesskey = M
-
-popup-all-windows-shared = आमाक्  स्क्रिंन रे जोतो ञेलोगाक् विंडो हा़टिञोक् आ .
+    .value = ᱦᱟᱹᱴᱤᱧ ᱞᱟᱹᱜᱤᱫ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ:
+    .accesskey = ᱢ
+popup-all-windows-shared = ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱨᱮ ᱡᱷᱚᱛᱚ ᱧᱮᱞᱚᱜᱟᱜ ᱣᱤᱱᱰᱚ ᱦᱟᱹᱴᱤᱧᱟᱜᱼᱟ ᱾
 
 ## WebRTC window or screen share tab switch warning
 
@@ -145,16 +139,15 @@ popup-all-windows-shared = आमाक्  स्क्रिंन रे ज�
 ## URL Bar
 
 urlbar-default-placeholder =
-    .defaultPlaceholder = ठिका़ना़ पानते आर बाङ पानते.
-
+    .defaultPlaceholder = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
-    .placeholder = ठिका़ना़ पानते आर बाङ पानते.
-
+    .placeholder = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
 urlbar-switch-to-tab =
-    .value = टेब रे ओता:
-
+    .value = ᱴᱮᱵᱽ ᱨᱮ ᱚᱛᱟ:
 urlbar-go-button =
-    .tooltiptext = ठांव बार ठिका़ना रे चालाव .
+    .tooltiptext = ᱴᱷᱟᱣ ᱵᱟᱨ ᱴᱷᱤᱠᱬᱟᱹ ᱨᱮ ᱪᱟᱞᱟᱣ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -163,7 +156,7 @@ urlbar-go-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-w-engine = { $engine } सांव पानते
+urlbar-result-action-search-w-engine = { $engine } ᱥᱟᱶ ᱯᱟᱱᱛᱮ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -179,16 +172,15 @@ urlbar-result-action-search-w-engine = { $engine } सांव पानते
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-toolbar-chevron =
-    .tooltiptext = ढेर पुथी चिनहा़ को उदुग मे.
+    .tooltiptext = ᱫᱷᱮᱨ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱩᱫᱩᱜᱽ ᱢᱮ
 bookmarks-bookmark-edit-panel =
-    .label = नोवा पुथी चिनहा़ सासापड़ाव में.
-
+    .label = ᱱᱚᱶᱟ ᱯᱩᱛᱷᱤ ᱪᱩᱤᱱᱟᱹ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱢᱮ
 bookmarks-toolbar-menu =
-    .label = टुलबार पुथी चिनहा़ को
+    .label = ᱴᱩᱞᱵᱟᱨ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ
 bookmarks-toolbar-placeholder =
-    .title = टुलबार जिनिस को पुथी चिनहा़ को.
+    .title = ᱴᱩᱞᱵᱟᱨ ᱡᱤᱱᱤᱥ ᱠᱚ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ
 bookmarks-toolbar-placeholder-button =
-    .label = टुलबार जिनिस को पुथी चिनहा़ को.
+    .label = ᱴᱩᱞᱵᱟᱨ ᱡᱤᱱᱤᱥ ᱠᱚ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ
 
 ## Library Panel items
 
@@ -198,17 +190,19 @@ bookmarks-toolbar-placeholder-button =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
+
 
 ## More items
 
 more-menu-go-offline =
-    .label = ऑफलाइन
-    .accesskey = k
+    .label = ᱚᱯᱷᱞᱟᱭᱤ ᱠᱟᱹᱢᱤ ᱢᱮ
+    .accesskey = ᱚ
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = नोवा साइट रे तिनाक् गान आंजोमाक्  आर बाङ बिडियो   DRM  सोफ्टवेयार बेभाराक् , ओका दो  ओका दो सिमा़ भितिर दाड़ेयाक् चेत् नोवा सांव आम का़मी होचो दाड़ेयामा { -brand-short-name } .
+eme-notifications-drm-content-playing = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱛᱤᱱᱟᱫᱜ ᱜᱟᱱ ᱟᱸᱡᱚᱢᱟᱜ ᱟᱨ ᱵᱟᱝ ᱣᱤᱰᱤᱭᱚ DRM ᱥᱚᱯᱷᱴᱣᱮᱨ ᱵᱮᱵᱷᱟᱨᱟᱭ, ᱚᱠᱟ ᱫᱚ ᱥᱤᱢᱟ ᱵᱷᱤᱛᱨᱭ ᱫᱟᱲᱮᱭᱟᱜ ᱪᱮᱫ ᱱᱚᱶᱟ ᱥᱟᱶ ᱟᱢ ᱠᱟᱹᱢᱤ ᱦᱚᱪᱚ ᱫᱟᱲᱮᱭᱟᱢᱟ { -brand-short-name } ᱾
 
 ## Password save/update panel
 
@@ -217,4 +211,7 @@ eme-notifications-drm-content-playing = नोवा साइट रे ति�
 
 
 ## Remote / Synced tabs
+
+
+##
 

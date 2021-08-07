@@ -15,15 +15,15 @@ error-title-text = ᱢᱟᱱᱟᱣ ᱠᱚ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = ᱟᱞᱮ ᱥᱟᱱᱛᱤ ᱟᱨ ᱵᱮᱥ ᱵᱷᱟᱵᱤ ᱥᱟᱶ ᱟᱢ ᱧᱮᱞ ᱞᱮ ᱦᱟᱹᱡᱩᱜᱼᱟ!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
-error-long-desc1 = रोबोर्ट होड़ होपोन बाय घा़ल दाड़ेयाको वा आर, बाङ फालतु सेत् ते, होड़ होपोन को खुती रे हेच् ला़गित् बाताव एमोक् आ.
+error-long-desc1 = ᱨᱚᱵᱚᱴ ᱦᱚᱲ ᱦᱚᱯᱚᱱ ᱵᱟᱠᱚ ᱜᱷᱟᱭᱟᱹᱞ ᱫᱟᱲᱮᱭᱟ ᱠᱚᱣᱟ ᱟᱨ, ᱵᱟᱝ ᱯᱷᱟᱞᱛᱩ ᱥᱮᱫ ᱛᱮ, ᱦᱚᱲ ᱦᱚᱯᱚᱱ ᱠᱚ ᱠᱷᱩᱛᱤ ᱨᱮ ᱦᱚᱡ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣ ᱮᱢᱚᱜᱼᱟ ᱾
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
-error-long-desc2 = रोबोटस जिनिस को ञेला आपे होड़ बापे पा़तया़वोक् आ .
+error-long-desc2 = ᱨᱚᱵᱚᱴᱥ ᱡᱤᱱᱤᱥ ᱠᱚ ᱧᱮᱞᱟ ᱟᱯᱮ ᱦᱚᱲ ᱵᱟᱯᱮ ᱯᱟᱹᱛᱤᱣᱟᱜᱼᱟ ᱾
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
-error-long-desc3 = रोबोट दो आमिच् प्लासटिक गाते काना ओकोयाक् सांव रा़स्का आ .
+error-long-desc3 = ᱨᱚᱵᱚᱴ ᱫᱚ ᱟᱢᱤᱡ ᱯᱞᱟᱥᱴᱤᱠ ᱜᱟᱛᱮ ᱠᱟᱱᱟ ᱚᱠᱚᱭᱟᱜ ᱥᱟᱶ ᱨᱟᱹᱥᱠᱟᱹᱜᱼᱟ ᱾
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
-error-long-desc4 = रोबोटस दो नाली मेड़हेद तायोम सेदाक् काना ओका दाल बाङ ला़कती या.
+error-long-desc4 = ᱨᱚᱵᱚᱴᱥ ᱫᱚ ᱱᱟᱞᱤ ᱢᱮᱲᱦᱮᱫ ᱛᱟᱭᱚᱢ ᱥᱮᱫᱟᱜ ᱠᱟᱱᱟ ᱚᱠᱟ ᱫᱟᱞ ᱵᱟᱝ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
 # TV: Battlestar Galactica (2004 series). From the opening text.
-error-trailer-desc-text = आर उनाकुवाक् मित् उयहा़र हुदिस मेनाके आ .
+error-trailer-desc-text = ᱟᱨ ᱩᱱᱠᱩᱣᱟᱜ ᱢᱤᱫ ᱩᱭᱦᱟᱹᱨ ᱦᱩᱥᱤᱫ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
-error-try-again = दोहड़ा कुरुमुटु
-    .label2 = नोवा बुता़म दोहड़ा आलोम ओताया .
+error-try-again = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ
+    .label2 = ᱱᱚᱶᱟ ᱵᱩᱛᱟᱹᱢ ᱫᱩᱦᱲᱟᱹ ᱟᱞᱚᱢ ᱚᱛᱟᱭᱟ ᱾

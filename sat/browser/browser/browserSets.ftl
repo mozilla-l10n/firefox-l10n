@@ -3,68 +3,50 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 window-minimize-command =
-    .label = हुड़िञ उता़र तेयार
-
+    .label = ᱦᱩᱲᱤᱧ ᱩᱛᱟᱹᱨ ᱛᱮᱭᱟᱨ
 window-zoom-command =
-    .label = हुडिञ ला़टु तेयार
-
+    .label = ᱦᱩᱲᱤᱧ ᱞᱟᱹᱴᱩ ᱛᱮᱭᱟᱨ
 window-new-shortcut =
-    .key = N
-
+    .key = ᱱ
 window-minimize-shortcut =
-    .key = m
-
+    .key = ᱢ
 close-shortcut =
-    .key = W
-
+    .key = ᱣ
 tab-new-shortcut =
-    .key = t
-
+    .key = ᱴ
 search-focus-shortcut =
-    .key = k
-
+    .key = ᱠ
 search-find-again-shortcut =
-    .key = g
-
+    .key = ᱜ
 search-find-again-shortcut-alt =
     .keycode = VK_F3
-
 save-page-shortcut =
-    .key = s
-
+    .key = ᱥ
 page-source-shortcut =
-    .key = u
-
+    .key = ᱩ
 nav-back-shortcut-alt =
     .key = [
-
 nav-fwd-shortcut-alt =
     .key = ]
-
 nav-reload-shortcut =
-    .key = r
-
+    .key = ᱨ
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
-
 history-show-all-shortcut =
-    .key = H
-
+    .key = ᱦ
 history-sidebar-shortcut =
-    .key = h
-
+    .key = ᱦ
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
-
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 bookmark-show-sidebar-shortcut =
-    .key = b
+    .key = ᱵ
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
@@ -72,39 +54,31 @@ bookmark-show-sidebar-shortcut =
 
 full-zoom-reduce-shortcut =
     .key = -
-
 # If in keyboard layouts popular for your locale you need to use the shift key
 # to access the original shortcuts, the following shortcuts can be used.
 # Otherwise their values should remain empty.
 full-zoom-reduce-shortcut-alt =
     .key = { "" }
-
 full-zoom-enlarge-shortcut =
     .key = +
-
 full-zoom-enlarge-shortcut-alt =
     .key = =
-
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
-
 full-zoom-reset-shortcut =
-    .key = 0
-
+    .key = ᱐
 full-zoom-reset-shortcut-alt =
     .key = { "" }
 
 ##
 
 private-browsing-shortcut =
-    .key = P
+    .key = ᱯ
 
 ## The shortcuts below are for Mac specific
 ## global menu.
 
 help-shortcut =
     .key = ?
-
 preferences-shortcut =
     .key = ,
-

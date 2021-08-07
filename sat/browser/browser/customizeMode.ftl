@@ -3,15 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-restore-defaults =
-    .label = हुड़ाक् को जोगाव दोहड़ा
+    .label = ᱦᱩᱲᱟᱹᱜ ᱠᱚ ᱡᱚᱜᱟᱣ ᱫᱚᱦᱲᱟᱹ
 customize-mode-titlebar =
-    .label = ञुतुम बार
+    .label = ᱧᱩᱛᱩᱢ ᱵᱟᱨ
 customize-mode-lwthemes =
-    .label = उयहा़र
+    .label = ᱩᱭᱦᱟᱹᱨ
 customize-mode-lwthemes-menu-get-more =
-    .label = ढेर उयहा़र को ञाम
-    .accesskey = G
+    .label = ᱰᱷᱮᱨ ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱧᱟᱢ
+    .accesskey = ᱰ
 customize-mode-undo-cmd =
-    .label = रुवा़ड़
+    .label = ᱨᱩᱟᱹᱲ
 customize-mode-lwthemes-my-themes =
-    .value = इञाक् उयहा़र
+    .value = ᱤᱧᱟᱜ ᱩᱭᱦᱟᱹᱨ

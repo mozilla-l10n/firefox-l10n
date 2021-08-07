@@ -6,14 +6,14 @@
 ## App Menu
 
 appmenuitem-customize-mode =
-    .label = कुसियाक् तेयार…
+    .label = ᱠᱩᱥᱤᱭᱟᱜ ᱛᱮᱭᱟᱨ…
 
 ## Zoom Controls
 
 appmenuitem-new-window =
-    .label = नावा विंडो
+    .label = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱚ
 appmenuitem-new-private-window =
-    .label = नावा निजेराक् विंडो
+    .label = ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱣᱤᱱᱰᱚ
 
 ## Zoom and Fullscreen Controls
 
@@ -21,10 +21,9 @@ appmenuitem-new-private-window =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
-    .label = नित् मित् ओकतो
-
+    .label = ᱱᱤᱛ ᱢᱤᱫ ᱚᱠᱛᱚ
 appmenuitem-save-page =
-    .label = लेका साहटा सांचाव...
+    .label = ᱞᱮᱠᱟ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ...
 
 ## What's New panel in App menu.
 
@@ -40,11 +39,8 @@ appmenuitem-save-page =
 ## Help panel
 
 appmenu-help-feedback-page =
-    .label = फिडबैक जोमा एम …
-    .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
+    .label = ᱯᱷᱤᱰᱵᱮᱠ ᱡᱚᱢᱟ ᱮᱢ …
+    .accesskey = ᱮ
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

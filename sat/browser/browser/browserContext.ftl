@@ -5,8 +5,8 @@
 navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
-            [macos] हिता़ल उदुक् ला़गित् लातार ओर आंड़गो .
-           *[other] जोजोम ओता आर बाङ हिता़ल उदुग ला़गित् लातार ओर आंड़गो .
+            [macos] ᱦᱤᱛᱟᱹᱞ ᱩᱫᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱛᱟᱨ ᱟᱨ ᱟᱬᱜᱚ
+           *[other] ᱡᱚᱡᱚᱢ ᱚᱛᱟ ᱟᱨ ᱵᱟᱝ ᱦᱤᱛᱟᱹᱞ ᱩᱫᱤᱜ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱛᱟᱨ ᱚᱨ ᱟᱬᱜᱚ
         }
 
 ## Back
@@ -52,31 +52,31 @@ toolbar-button-stop-reload =
 ## Save Page
 
 main-context-menu-page-save =
-    .label = लेका साहटा सांचाव...
-    .accesskey = P
+    .label = ᱞᱮᱠᱟ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ…
+    .accesskey = ᱞ
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
 main-context-menu-open-link =
-    .label = खोंजा झिज मे
-    .accesskey = O
+    .label = ᱠᱷᱚᱧᱡᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accesskey = ᱠ
 main-context-menu-open-link-new-tab =
-    .label = नावा टैब रे खोंजा झिज मे
-    .accesskey = T
+    .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱠᱷᱚᱧᱡᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accesskey = ᱡ
 main-context-menu-open-link-new-window =
-    .label = नावा विंडो रे खोंजा झिज मे
-    .accesskey = W
+    .label = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱚ ᱨᱮ ᱠᱷᱚᱧᱡᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accesskey = ᱡ
 main-context-menu-open-link-new-private-window =
-    .label = नावा निजेर  विंडो रे खोंजा झिज मे
-    .accesskey = P
+    .label = ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨ ᱣᱤᱱᱰᱚ ᱨᱮ ᱠᱷᱚᱧᱡᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accesskey = ᱡ
 main-context-menu-bookmark-this-link =
-    .label = नोवा खोंजा पुथी चिनहा़ मे .
-    .accesskey = L
+    .label = ᱱᱚᱶᱟ ᱠᱷᱚᱧᱡᱟ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹᱭ ᱢᱮ
+    .accesskey = ᱪ
 main-context-menu-save-link =
-    .label = लेका खोंजा सांचाव मे …
-    .accesskey = k
+    .label = ᱞᱮᱠᱷᱟ ᱠᱷᱚᱧᱡᱟ ᱥᱟᱺᱪᱟᱣ ᱢᱮ…
+    .accesskey = ᱪ
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -88,11 +88,11 @@ main-context-menu-save-link =
 ## are mutually exclusive.
 
 main-context-menu-copy-email =
-    .label = इमेल ठिका़ना नोकोल मे
-    .accesskey = E
+    .label = ᱤᱢᱮᱞ ᱴᱷᱤᱠᱬᱟᱹ ᱱᱚᱠᱚᱞ ᱢᱮ
+    .accesskey = ᱤ
 main-context-menu-copy-link =
-    .label = खोंजा ठांव नोकोल मे (& )
-    .accesskey = a
+    .label = ᱠᱷᱚᱧᱡᱟ ᱴᱷᱟᱶ ᱱᱚᱠᱚᱞ ᱢᱮ
+    .accesskey = ᱱ
 main-context-menu-copy-link-simple =
     .label = ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱢᱮ
     .accesskey = ᱱ
@@ -104,96 +104,96 @@ main-context-menu-copy-link-simple =
 ## mutually exclusive.
 
 main-context-menu-media-play =
-    .label = खेलोंड
-    .accesskey = P
+    .label = ᱠᱷᱮᱞᱮᱸᱱᱰ
+    .accesskey = ᱠ
 main-context-menu-media-pause =
-    .label = तिंगु
-    .accesskey = P
+    .label = ᱛᱤᱝᱜᱩ
+    .accesskey = ᱛ
 
 ##
 
 main-context-menu-media-mute =
-    .label = साडे थिर
-    .accesskey = M
+    .label = ᱥᱟᱲᱮ ᱛᱷᱤᱨ
+    .accesskey = ᱥ
 main-context-menu-media-unmute =
-    .label = साडे रुवा़ड़
-    .accesskey = m
+    .label = ᱥᱟᱲᱮ ᱨᱩᱟᱹᱲ
+    .accesskey = ᱥ
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = कोबोज को उदुग
-    .accesskey = C
+    .label = ᱠᱚᱵᱚᱡᱽ ᱠᱚ ᱩᱫᱩᱜ
+    .accesskey = ᱠ
 main-context-menu-media-hide-controls =
-    .label = कोबोज को उकु
-    .accesskey = C
+    .label = ᱠᱚᱵᱚᱡᱽ ᱠᱚ ᱩᱠᱩ
+    .accesskey = ᱠ
 
 ##
 
 main-context-menu-media-video-leave-fullscreen =
-    .label = पुरा़ स्क्रिंन खोन बाहरे ओडोक् .
-    .accesskey = u
+    .label = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ ᱾
+    .accesskey = ᱯ
 main-context-menu-image-reload =
-    .label = चिता़र लादे रुवा़ड़
-    .accesskey = R
+    .label = ᱪᱤᱛᱟᱹᱨ ᱞᱟᱫᱮ ᱨᱩᱟᱹᱲ
+    .accesskey = ᱪ
 main-context-menu-image-view =
-    .label = चिता़र ञेल में .
-    .accesskey = I
+    .label = ᱪᱤᱛᱟᱹᱨ ᱧᱮᱞ ᱢᱮ
+    .accesskey = ᱪ
 main-context-menu-video-view =
-    .label = विडियो ञेंल मे
-    .accesskey = i
+    .label = ᱣᱤᱰᱤᱭᱚ ᱧᱮᱞ ᱢᱮ
+    .accesskey = ᱣ
 main-context-menu-image-copy =
-    .label = चिता़र नोकोल मे
-    .accesskey = y
+    .label = ᱪᱤᱛᱟᱹᱨ ᱱᱚᱠᱚᱞ ᱢᱮ
+    .accesskey = ᱪ
 main-context-menu-image-copy-location =
-    .label = चिता़र ठांव नोकोल मे
-    .accesskey = o
+    .label = ᱪᱤᱛᱟᱹᱨ ᱴᱷᱟᱶ ᱱᱚᱠᱚᱞ ᱢᱮ
+    .accesskey = ᱪ
 main-context-menu-video-copy-location =
-    .label = बिडियो ठांव नोकोल मे
+    .label = ᱣᱤᱰᱤᱭᱚ ᱴᱷᱟᱶ ᱱᱚᱠᱚᱞ ᱢᱮ
     .accesskey = o
 main-context-menu-audio-copy-location =
-    .label = आंजोमाक् ठांव नोकोल मे
+    .label = ᱟᱺᱡᱚᱢᱟᱜ ᱴᱷᱟᱶ ᱱᱚᱠᱚᱞ ᱢᱮ
     .accesskey = o
 main-context-menu-image-save-as =
-    .label = लेका चिता़र सांचाव मे …
-    .accesskey = v
+    .label = ᱞᱮᱠᱟ ᱪᱤᱛᱟᱹᱨ ᱥᱟᱺᱪᱟᱣ ᱢᱮ …
+    .accesskey = ᱞ
 main-context-menu-image-email =
-    .label = इमेल चिता़र …
-    .accesskey = g
+    .label = ᱤᱢᱮᱞ ᱪᱤᱛᱟᱹᱨ …
+    .accesskey = ᱤ
 main-context-menu-image-set-as-background =
-    .label = डेस्क टॉप ओनोड़ लेका साजाव मे…
-    .accesskey = S
+    .label = ᱰᱮᱥᱠᱴᱚᱯ ᱚᱱᱚᱞ ᱞᱮᱠᱟ ᱥᱟᱡᱟᱣ ᱢᱮ…
+    .accesskey = ᱰ
 main-context-menu-image-info =
     .label = ᱪᱤᱛᱟᱹᱨ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱧᱮᱞ
-    .accesskey = f
+    .accesskey = ᱪ
 main-context-menu-image-desc =
-    .label = बोरनोन ञेल मे .
-    .accesskey = D
+    .label = ᱵᱚᱨᱱᱚᱱ ᱧᱮᱞ ᱢᱮ
+    .accesskey = ᱵ
 main-context-menu-video-save-as =
-    .label = लेका विडियो…
-    .accesskey = v
+    .label = ᱞᱮᱠᱟ ᱣᱤᱰᱤᱭᱚ…
+    .accesskey = ᱞ
 main-context-menu-audio-save-as =
-    .label = लेका आंजेमाक् सांचाव मे …
-    .accesskey = v
+    .label = ᱞᱮᱠᱟ ᱟᱺᱡᱚᱢ ᱥᱟᱺᱪᱟᱣ ᱢᱮ …
+    .accesskey = ᱞ
 main-context-menu-video-image-save-as =
-    .label = लेका स्नेपसोट सांचाव मे…
+    .label = ᱞᱮᱠᱟ ᱥᱱᱟᱯᱥᱚᱴ ᱥᱟᱺᱪᱟᱣ ᱢᱮ…
     .accesskey = S
 main-context-menu-video-email =
-    .label = इमेल बिडियो …
-    .accesskey = a
+    .label = ᱤᱢᱮᱞ ᱣᱤᱰᱤᱭᱚ …
+    .accesskey = ᱤ
 main-context-menu-audio-email =
-    .label = इमेल आंजोमाक् …
-    .accesskey = a
+    .label = ᱤᱢᱮᱞ ᱟᱺᱡᱚᱢᱟᱜ…
+    .accesskey = ᱤ
 main-context-menu-plugin-play =
-    .label = नोवा खोंजा आदेर चोगोड़ मे
-    .accesskey = c
+    .label = ᱱᱚᱶᱟ ᱠᱷᱚᱧᱡᱟ ᱟᱫᱮᱨ ᱪᱚᱜᱟᱲ ᱢᱮ
+    .accesskey = ᱱ
 main-context-menu-plugin-hide =
-    .label = नोवा खोंजा आदेर उकुय में
-    .accesskey = H
+    .label = ᱱᱚᱶᱟ ᱠᱷᱚᱧᱡᱟ ᱟᱫᱮᱨ ᱩᱠᱩᱭ ᱢᱮ
+    .accesskey = ᱱ
 main-context-menu-view-background-image =
-    .label = ओनोड़ चिता़र ञेंल में
-    .accesskey = w
+    .label = ᱚᱲᱚᱲ ᱪᱤᱛᱟᱹᱨ ᱧᱮᱞ ᱢᱮ
+    .accesskey = ᱚ
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -203,47 +203,47 @@ main-context-menu-view-background-image =
 ##
 
 main-context-menu-keyword =
-    .label = नोवा पानते ला़गित् मित् का़ठी बोर्ड सेलेद मे  …
-    .accesskey = K
+    .label = ᱱᱚᱶᱟ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫ ᱠᱟᱹᱴᱷᱤ ᱵᱚᱲ ᱥᱮᱞᱮᱫ ᱢᱮ …
+    .accesskey = ᱱ
 main-context-menu-frame =
-    .label = नोवा साज
-    .accesskey = h
+    .label = ᱱᱟᱶᱟ ᱥᱟᱡᱽ
+    .accesskey = ᱱ
 main-context-menu-frame-show-this =
-    .label = एकेन नोवा साज रे उदुग मे
-    .accesskey = S
+    .label = ᱮᱠᱷᱮᱱ ᱱᱚᱶᱟ ᱥᱟᱡᱽ ᱨᱮ ᱩᱫᱩᱜ ᱢᱮ
+    .accesskey = ᱮ
 main-context-menu-frame-open-tab =
-    .label = नावा विंडो रे साज झिज मे .
-    .accesskey = T
+    .label = ᱱᱚᱶᱟ ᱣᱤᱱᱰᱚ ᱨᱮ ᱥᱟᱡᱽ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accesskey = ᱱ
 main-context-menu-frame-open-window =
-    .label = नावा विंडो रे साज झिज मे.
-    .accesskey = W
+    .label = ᱱᱚᱶᱟ ᱣᱤᱱᱰᱚ ᱨᱮ ᱥᱟᱡᱽ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .accesskey = ᱱ
 main-context-menu-frame-reload =
-    .label = साज दोहड़ा लादे मे
-    .accesskey = R
+    .label = ᱥᱟᱡᱽ ᱫᱚᱦᱲᱟ ᱞᱟᱫᱮ ᱢᱮ
+    .accesskey = ᱥ
 main-context-menu-frame-bookmark =
-    .label = नोवा खोंजा पुथी चिनहा़ मे .
-    .accesskey = m
+    .label = ᱱᱚᱶᱟ ᱠᱷᱚᱡᱽ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱢᱮ
+    .accesskey = ᱱ
 main-context-menu-frame-save-as =
-    .label = लेका साज सांचाव  …
-    .accesskey = F
+    .label = ᱞᱮᱠᱷᱟ ᱥᱟᱡᱽ ᱥᱟᱺᱪᱟᱣ ᱢᱮ …
+    .accesskey = ᱞ
 main-context-menu-frame-print =
-    .label = साज छापाय में…
-    .accesskey = P
+    .label = ᱥᱟᱡᱽ ᱪᱷᱟᱯᱟᱭ ᱢᱮ…
+    .accesskey = ᱥ
 main-context-menu-frame-view-source =
-    .label = साज सोत ञेल मे
-    .accesskey = V
+    .label = ᱥᱟᱡᱽ ᱥᱚᱛ ᱧᱮᱞ ᱢᱮ
+    .accesskey = ᱥ
 main-context-menu-frame-view-info =
-    .label = साज ला़य सोदोर ञेंल मे
-    .accesskey = I
+    .label = ᱥᱟᱡᱽ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱧᱮᱞ ᱢᱮ
+    .accesskey = ᱥ
 main-context-menu-view-page-source =
-    .label = साहटा सोत् ञेंल मे
-    .accesskey = V
+    .label = ᱥᱟᱦᱴᱟ ᱧᱚᱛ ᱧᱮᱞ ᱢᱮ
+    .accesskey = ᱥ
 main-context-menu-view-page-info =
-    .label = साहटा ला़य सोदोर ञेंल मे
-    .accesskey = I
+    .label = ᱥᱟᱦᱴᱟ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱧᱮᱞ ᱢᱮ
+    .accesskey = ᱥ
 main-context-menu-bidi-switch-text =
-    .label = ओनोल नाखा ओताय मे
-    .accesskey = w
+    .label = ᱚᱱᱚᱞ ᱱᱟᱠᱷᱟ ᱚᱛᱟᱭ ᱢᱮ
+    .accesskey = ᱚ
 main-context-menu-bidi-switch-page =
-    .label = साहटा नाखा ओताय मे
-    .accesskey = D
+    .label = ᱥᱟᱦᱴᱟ ᱱᱟᱠᱷᱟ ᱚᱛᱟᱭ ᱢᱮ
+    .accesskey = ᱥ
