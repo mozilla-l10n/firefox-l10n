@@ -113,6 +113,13 @@ tab-context-close-tabs =
            *[other] Serrar ils tabs
         }
     .accesskey = S
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Serrar il tab
+           *[other] Serrar { $tabCount } tabs
+        }
+    .accesskey = S
 tab-context-move-tabs =
     .label =
         { $tabCount ->
