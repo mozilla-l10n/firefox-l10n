@@ -114,6 +114,14 @@ tab-context-close-tabs =
            *[other] Mdel Iccaren
         }
     .accesskey = M
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Mdel iccer
+            [one] Mdel icarren { $tabCount }
+           *[other] M
+        }
+    .accesskey = M
 tab-context-move-tabs =
     .label =
         { $tabCount ->
