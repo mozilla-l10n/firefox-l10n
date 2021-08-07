@@ -16,6 +16,7 @@ login-app-promo-apple =
 login-filter =
     .placeholder = ᱞᱚᱜᱤᱱ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 create-login-button = ᱱᱟᱶᱟ ᱞᱚᱜᱤᱱ ᱛᱮᱭᱟᱨ ᱢᱮ
+fxaccounts-sign-in-text = ᱵᱷᱮᱜᱟᱨ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱧᱟᱢ ᱛᱟᱢ
 fxaccounts-sign-in-button = { -sync-brand-short-name } ᱞᱟᱹᱜᱤᱫ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
 fxaccounts-sign-in-sync-button = ᱛᱷᱟᱨ ᱞᱟᱹᱜᱤᱛ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ
 fxaccounts-avatar-button =
@@ -30,7 +31,14 @@ about-logins-menu-menuitem-import-from-another-browser = ᱮᱴᱟᱜᱟᱜ ᱵ�
 about-logins-menu-menuitem-import-from-a-file = ᱨᱮᱫ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ…
 about-logins-menu-menuitem-export-logins = ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱡᱟᱭ ᱢᱮ…
 about-logins-menu-menuitem-remove-all-logins = ᱡᱷᱚᱛᱚ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ…
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] ᱚᱯᱥᱚᱱᱥ
+       *[other] ᱠᱩᱥᱤᱠᱚ
+    }
 about-logins-menu-menuitem-help = ᱜᱚᱲᱚ
+menu-menuitem-android-app = ᱮᱱᱰᱨᱚᱭᱮᱰ ᱞᱟᱹᱜᱤᱫ { -lockwise-brand-short-name }
+menu-menuitem-iphone-app = iPhone ᱟᱨ iPad ᱞᱟᱹᱜᱤᱫ { -lockwise-brand-short-name }
 
 ## Login List
 
