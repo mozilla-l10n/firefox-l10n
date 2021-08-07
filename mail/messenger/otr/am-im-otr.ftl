@@ -19,11 +19,13 @@ otr-requireEncryption =
     .label = Zahtijevaj obostrano šifriranje za izravne razgovore
 otr-verifyNudge =
     .label = Uvijek me podsjeti potvrditi neprovjereni kontakt
-
 otr-notYetAvailable = Još nije dostupno
-
+otr-require-encryption =
+    .label = Zahtijevaj obostrano šifriranje za izravne razgovore
 otr-require-encryption-info =
     Ukoliko zahtijevate potpuno kriptiranje, poruke u privatnim razgovorima
     neće bit poslane ukoliko ih se ne bude moglo kriptirati. Primljene ne kriptirane poruke
     neće biti prikazane kao dio redovnog razgovora i neće biti zabilježene.
-
+otr-verify-nudge =
+    .label = Uvijek me podsjeti potvrditi neprovjereni kontakt
+otr-not-yet-available = Još nije dostupno
