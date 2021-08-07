@@ -7,36 +7,32 @@
 ## the Downloads Panel.
 
 downloads-window =
-    .title = आ़तुर आंड़गो को
+    .title = ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ
 downloads-panel =
-    .aria-label = आ़तुर आंड़गो को
+    .aria-label = ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ
 
 ##
 
 downloads-cmd-pause =
-    .label = तिंगू
-    .accesskey = P
+    .label = ᱛᱤᱝᱜᱩ
+    .accesskey = ᱛ
 downloads-cmd-resume =
-    .label = दोहड़ा एहोब
-    .accesskey = R
-
+    .label = ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ
+    .accesskey = ᱫ
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
-    .label = मेनागाक् पोटोम झिज मे
-    .accesskey = F
-  
+    .label = ᱢᱮᱱᱟᱜ ᱯᱚᱴᱚᱢ ᱧᱮᱞ ᱢᱮ
+    .accesskey = ᱢ
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
-    .label = ञामयिच् रे उदुग
-    .accesskey = F
-
+    .label = ᱧᱟᱢᱤᱡ ᱨᱮ ᱩᱫᱩᱜ
+    .accesskey = ᱧ
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] ञामयिच् रे उदुग
            *[other] मेनागाक् पोटोम झिज मे
         }
-
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -49,7 +45,6 @@ downloads-cmd-show-description =
             [macos] ञामयिच् रे उदुग
            *[other] मेनागाक् पोटोम झिज मे
         }
-
 downloads-cmd-retry =
     .tooltiptext = दोहड़ा कुरुमुटु
 downloads-cmd-retry-panel =
@@ -75,6 +70,7 @@ downloads-cmd-clear-downloads =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+
 ##
 
 # This string is shown at the bottom of the Downloads Panel when all the
@@ -83,16 +79,13 @@ downloads-cmd-clear-downloads =
 downloads-history =
     .label = जोतो आ़तुर आंड़गो को उदुग मे .
     .accesskey = S
-
 downloads-clear-downloads-button =
     .label = आ़तुर आंड़गो को फा़रचा
     .tooltiptext = फा़रचा पुरा़व एना ,आ़तुर आंड़गो को बा़डरा आर डिगा़व एना .
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = जाहांन आ़तुर आंड़गो को बा़नुक आ.
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = नोवा का़मी ओकतो ला़गित् जाहान आ़तुर आंड़गो को बा़नुक् आ .
