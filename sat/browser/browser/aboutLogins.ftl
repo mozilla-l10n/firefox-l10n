@@ -42,12 +42,40 @@ menu-menuitem-iphone-app = iPhone ᱟᱨ iPad ᱞᱟᱹᱜᱤᱫ { -lockwise-bra
 
 ## Login List
 
+login-list-sort-label-text = ᱥᱚᱨᱴ ᱵᱭᱺ
+login-list-name-option = ᱧᱩᱛᱩᱢ(ᱚᱼᱷ)
+login-list-name-reverse-option = ᱧᱩᱛᱩᱢ(ᱚᱼᱷ)
+about-logins-login-list-alerts-option = ᱦᱚᱥᱤᱭᱟᱹᱨ
+login-list-last-changed-option = ᱢᱩᱪᱟᱹᱫ ᱨᱮ ᱵᱚᱫᱚᱞ ᱞᱮᱱ
+login-list-last-used-option = ᱢᱟᱲᱟᱝ ᱵᱮᱵᱷᱟᱨᱟᱜ
+login-list-intro-title = ᱵᱚᱞᱚ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ
+about-logins-login-list-empty-search-title = ᱵᱚᱞᱚ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ
+about-logins-login-list-empty-search-description = ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱥᱟᱞᱟᱜ ᱢᱮᱲᱟᱣᱜ ᱠᱟᱱ ᱛᱮᱞᱟ ᱵᱟᱭ ᱧᱟᱢ ᱞᱟᱱᱟ ᱾
+login-list-item-title-new-login = ᱱᱟᱶᱟ ᱵᱚᱞᱚ
+login-list-item-subtitle-new-login = ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱨᱮᱰᱮᱱᱥᱤᱟᱞᱥ ᱟᱫᱮᱨ ᱛᱟᱢ
+login-list-item-subtitle-missing-username = (ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ ᱵᱟᱹᱱᱩᱜᱼᱟ)
+about-logins-list-item-breach-icon =
+    .title = ᱵᱽᱨᱤᱪ ᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ
+about-logins-list-item-vulnerable-password-icon =
+    .title = ᱣᱟᱹᱞᱱᱟᱹᱨᱮᱵᱟᱹᱞ ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ
 
 ## Introduction screen
 
+login-intro-heading = ᱥᱟᱺᱪᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱯᱟᱱᱛᱮ ᱟᱢ? ᱥᱮᱴ ᱢᱮ { -sync-brand-short-name } ᱾
+about-logins-login-intro-heading-logged-out2 = ᱥᱟᱺᱪᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱯᱟᱱᱛᱮ ᱟᱢ? ᱟᱹᱜᱩᱭ ᱞᱟᱹᱜᱤᱫ ᱥᱭᱝᱠ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
+about-logins-login-intro-heading-logged-in = ᱥᱭᱝᱠ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ ᱾
+login-intro-description = ᱟᱢ ᱡᱩᱫᱤ ᱵᱷᱮᱜᱟᱨ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ { -brand-product-name } ᱨᱮ ᱥᱟᱺᱪᱟᱣ ᱟᱠᱟᱫᱟᱢ ᱢᱮᱱᱠᱷᱟᱱ, ᱱᱚᱰᱮ ᱧᱮᱞ ᱢᱮ ᱪᱮᱞᱠᱟ ᱠᱚ ᱟᱹᱜᱩ ᱪᱷᱚᱭᱟ:
+login-intro-instruction-fxa = ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱᱟ { -fxaccount-brand-name } ᱨᱮ ᱛᱮᱭᱟᱨ ᱟᱨ ᱵᱟᱝ ᱥᱩᱦᱤ ᱮᱢ ᱠᱟᱜ ᱢᱮ
+login-intro-instruction-fxa-settings = ᱢᱚᱱᱮ ᱠᱟᱜ ᱢᱮ { -sync-brand-short-name } ᱥᱟᱡᱟᱣ ᱠᱚᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱪᱮᱠᱵᱚᱠᱥ ᱪᱤᱱᱦᱟᱹ ᱟᱠᱟᱫᱟᱢ ᱢᱮᱱᱛᱮ
 
 ## Login
 
+login-item-new-login-title = ᱱᱟᱶᱟ ᱞᱚᱜᱤᱱ ᱛᱮᱭᱟᱨ ᱢᱮ
+login-item-edit-button = ᱥᱟᱯᱲᱟᱣ
+about-logins-login-item-remove-button = ᱚᱪᱚᱜᱽ
+login-item-origin-label = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱴᱷᱤᱠᱬᱟᱹ
+login-item-origin =
+    .placeholder = https://www.example.com
 login-item-copy-username-button-text = ᱱᱚᱠᱚᱞ
 login-item-copy-password-button-text = ᱱᱚᱠᱚᱞ
 
