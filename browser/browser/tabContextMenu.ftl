@@ -114,6 +114,14 @@ tab-context-close-tabs =
            *[other] Cerrar pestañas
         }
     .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Cerrar pestaña
+            [one] Cerrar { $tabCount } pestaña
+           *[other] Cerrar { $tabCount } pestañas
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
