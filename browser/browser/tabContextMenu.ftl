@@ -105,13 +105,21 @@ tab-context-reopen-closed-tabs =
             [one] Kapatılan sekmeyi yeniden aç
            *[other] Kapatılan sekmeleri yeniden aç
         }
-    .accesskey = K
+    .accesskey = d
 tab-context-close-tabs =
     .label =
         { $tabCount ->
             [1] Sekmeyi kapat
             [one] Sekmeyi kapat
            *[other] Sekmeleri kapat
+        }
+    .accesskey = e
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sekmeyi kapat
+            [one] { $tabCount } sekmeyi kapat
+           *[other] k
         }
     .accesskey = e
 tab-context-move-tabs =
