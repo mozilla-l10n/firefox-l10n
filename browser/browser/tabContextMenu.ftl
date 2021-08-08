@@ -117,6 +117,15 @@ tab-context-close-tabs =
            *[other] Užverti kortelių
         }
     .accesskey = U
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Užverti kortelę
+            [one] Užverti kortelę
+            [few] Užverti { $tabCount } korteles
+           *[other] Užverti { $tabCount } kortelių
+        }
+    .accesskey = v
 tab-context-move-tabs =
     .label =
         { $tabCount ->
