@@ -14,3 +14,4 @@ openpgp-compose-key-status-open-details = Hallitse avaimia valitun vastaanottaja
 openpgp-recip-good = ok
 openpgp-recip-missing = avainta ei ole saatavilla
 openpgp-recip-none-accepted = ei hyväksyttyä avainta
+openpgp-compose-general-info-alias-learn-more = Lue lisää
