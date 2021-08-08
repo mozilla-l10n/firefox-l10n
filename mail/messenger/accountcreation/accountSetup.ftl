@@ -10,8 +10,10 @@ account-setup-title = Määritä olemassa oleva sähköpostiosoite
 account-setup-description =
     Täytä kirjautumistietosi käyttääksesi nykyistä sähköpostiosoitettasi.<br/>
     { -brand-product-name } etsii automaattisesti toimivaa ja suositeltua palvelimen kokoonpanon määritystä.
+account-setup-secondary-description = { -brand-product-name } etsii automaattisesti toimivaa ja suositeltua palvelinkokoonpanoa.
 account-setup-success-title = Tili luotu onnistuneesti
 account-setup-success-description = Voit nyt käyttää tätä tiliä { -brand-short-name }in kanssa.
+account-setup-success-secondary-description = Voit parantaa käyttökokemusta yhdistämällä siihen liittyvät palvelut ja määrittämällä tilin lisäasetukset.
 
 ## Form fields
 
@@ -79,10 +81,16 @@ account-setup-looking-up-exchange = Etsitään kokoonpanon määritystä: Exchan
 account-setup-checking-password = Tarkistetaan salasanaa…
 account-setup-installing-addon = Ladataan ja asennetaan lisäosaa…
 account-setup-success-half-manual = Löydettiin seuraavat asetukset tutkimalla määritettyä palvelinta:
+account-setup-success-guess = Kokoonpanon määritykset löydettiin yrittämällä yleisiä palvelinten nimiä.
+account-setup-success-guess-offline = Verkkoyhteyttä ei ole muodostettu. Jotkin asetukset arvattiin, mutta sinun pitää täydentää asetukset.
 account-setup-success-password = Salasana OK
 account-setup-success-addon = Lisäosa asennettiin onnistuneesti
 # Note: Do not translate or replace Mozilla. It stands for the public project mozilla.org, not Mozilla Corporation. The database is a generic, public domain facility usable by any client.
 account-setup-success-settings-db = Kokoonpanon määritys löytyi Mozillan ISP-tietokannasta.
+account-setup-success-settings-disk = Kokoonpanon määritys löytyi { -brand-short-name }-asennuksesta.
+account-setup-success-settings-isp = Löydettiin kokoonpanon määritykset sähköpostipalveluntarjoajalta.
+# Note: Microsoft Exchange is a product name.
+account-setup-success-settings-exchange = Kokoonpanon määritykset löydettiin Microsoft Exchange -palvelimelle.
 
 ## Illustrations
 
@@ -102,6 +110,7 @@ account-setup-selection-error = Tarvitsetko apua?
 account-setup-success-help = Oletko epävarma seuraavista vaiheista?
 account-setup-forum-help = Tukipalsta
 account-setup-privacy-help = Tietosuojakäytäntö
+account-setup-getting-started = Alkuun pääsy
 
 ## Results area
 
@@ -131,8 +140,11 @@ account-setup-result-username-different = Saapuva: { $incoming }, Lähtevä: { $
 
 ## Error messages
 
+# Note: The reference to "janedoe" (Jane Doe) is the name of an example person. You will want to translate it to whatever example persons would be named in your language. In the example, AD is the name of the Windows domain, and this should usually not be translated.
+account-setup-credentials-incomplete = Tunnistautuminen epäonnistui. Joko annetut kirjautumistiedot ovat väärin tai kirjautumiseen vaaditaan toinen käyttäjänimi. Käyttäjänimi on yleensä Windows-toimialueen kirjautumistunnus toimialueen kanssa tai ilman (esimerkiksi kallekayttaja tai AD\\kallekayttaja)
 account-setup-credentials-wrong = Todennus epäonnistui. Tarkista käyttäjätunnus ja salasana
 account-setup-find-settings-failed = { -brand-short-name } ei löytänyt asetuksia sähköpostitilisi osalta
+account-setup-exchange-config-unverifiable = Kokoonpanoa ei voitu vahvistaa. Jos käyttäjätunnuksesi ja salasanasi ovat oikein, palvelimen järjestelmänvalvoja on todennäköisesti estänyt tilillesi valitsemasi kokoonpanon. Yritä uudelleen valitsemalla toinen yhteyskäytäntö.
 
 ## Manual configuration area
 
@@ -145,6 +157,7 @@ protocol-exchange-option = { account-setup-result-exchange }
 account-setup-hostname-label = Palvelin:
 account-setup-port-label = Portti:
     .title = Aseta porttinumeroksi 0 automaattista havaitsemista varten
+account-setup-auto-description = { -brand-short-name } yrittää tunnistaa tyhjiksi jätetyt kentät automaattisesti.
 account-setup-ssl-label = Yhteyden suojaus:
 account-setup-outgoing-server-legend = Lähtevän postin palvelin
 
@@ -179,6 +192,9 @@ insecure-dialog-confirm-button = Vahvista
 
 ## Warning Exchange confirmation dialog
 
+# Variables:
+#  $domain (String): The name of the server where the configuration was found, e.g. rackspace.com.
+exchange-dialog-question = { -brand-short-name } löysi tilisi asetustiedot toimialueesta { $domain }. Haluatko jatkaa ja lähettää kirjautumistietosi?
 exchange-dialog-confirm-button = Kirjaudu
 exchange-dialog-cancel-button = Peruuta
 
@@ -187,10 +203,12 @@ exchange-dialog-cancel-button = Peruuta
 account-setup-creation-error-title = Virhe luotaessa tiliä
 account-setup-error-server-exists = Saapuvan postin palvelin on jo olemassa.
 account-setup-confirm-advanced-title = Vahvista edistynyt määritys
+account-setup-confirm-advanced-description = Tämä ikkuna suljetaan ja tili luodaan annetuin asetuksin, vaikka asetukset olisivat väärin. Haluatko jatkaa?
 
 ## Addon installation section
 
 account-setup-addon-install-title = Asenna
+account-setup-addon-no-protocol = Valitettavasti tämä sähköpostipalvelin ei tue avoimia yhteyskäytäntöjä. { account-setup-addon-install-intro }
 
 ## Success view
 
