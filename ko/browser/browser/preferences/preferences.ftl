@@ -961,7 +961,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = 주소 표시줄
-addressbar-suggest = 주소 표시줄 사용시 제안할 항목
+addressbar-suggest = 주소 표시줄에서 제안할 항목
 addressbar-locbar-history-option =
     .label = 방문 기록
     .accesskey = H
@@ -1157,7 +1157,7 @@ security-block-downloads =
     .label = 위험한 다운로드 차단
     .accesskey = D
 security-block-uncommon-software =
-    .label = 원치 않거나 일반적이지 않은 소프트웨어에 대해 알림
+    .label = 원하지 않거나 일반적이지 않은 소프트웨어에 대해 알림
     .accesskey = C
 
 ## Privacy Section - Certificates
