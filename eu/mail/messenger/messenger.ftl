@@ -9,7 +9,6 @@ unread-messages-os-tooltip =
         [one] Irakurri gabeko mezu 1
        *[other] { $count } mezu irakurri gabe
     }
-
 about-rights-notification-text = { -brand-short-name } kode irekikoa eta software librea da, munduan zehar milaka kide dituen komunitateak egina.
 
 ## Content tabs
@@ -26,11 +25,9 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Gehigarriak eta itxurak
     .tooltiptext = Kudeatu zure gehigarriak
-
 quick-filter-toolbarbutton =
     .label = Iragazki bizkorra
     .tooltiptext = Iragazi mezuak
-
 redirect-msg-button =
     .label = Birbideratzea
     .tooltiptext = Birbideratu hautatutako mezua
@@ -40,10 +37,8 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Karpeten panelaren tresna-barra
     .accesskey = K
-
 folder-pane-toolbar-options-button =
     .tooltiptext = Karpeten panelaren aukerak
-
 folder-pane-header-label = Karpetak
 
 ## Folder Toolbar Header Popup
@@ -51,27 +46,21 @@ folder-pane-header-label = Karpetak
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Ezkutatu tresna-barra
     .accesskey = E
-
 show-all-folders-label =
     .label = Karpeta guztiak
     .accesskey = K
-
 show-unread-folders-label =
     .label = Irakurri gabeko karpetak
     .accesskey = I
-
 show-favorite-folders-label =
     .label = Gogoko karpetak
     .accesskey = G
-
 show-smart-folders-label =
     .label = Elkartutako karpetak
     .accesskey = E
-
 show-recent-folders-label =
     .label = Azken karpetak
     .accesskey = A
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Ikuspegi trinkoa
     .accesskey = t
@@ -88,19 +77,14 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Hobespenak
-
 appmenu-addons-and-themes =
     .label = Gehigarriak eta itxurak
-
 appmenu-help-enter-troubleshoot-mode =
     .label = Arazoak konpontzeko modua…
-
 appmenu-help-exit-troubleshoot-mode =
     .label = Desaktibatu arazoak konpontzeko modua
-
 appmenu-help-more-troubleshooting-info =
     .label = Arazoak konpontzeko informazio gehiago
-
 appmenu-redirect-msg =
     .label = Birbideratzea
 
@@ -127,7 +111,6 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Helbidea helbide-liburuan dago
-
 message-header-address-not-in-address-book-icon =
     .alt = Helbidea ez dago helbide-liburuan
 
@@ -138,14 +121,15 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = { $name } kendu?
 addon-removal-confirmation-button = Kendu
 addon-removal-confirmation-message = Kendu { $name } eta bere konfigurazio eta datuak { -brand-short-name }(e)tik?
-
 caret-browsing-prompt-title = Kurtsore bidezko nabigazioa
 caret-browsing-prompt-text = F7 zapaltzeak kurtsore bidezko nabigazioa gaitzen edo desgaitzen du. Eginbide honek zenbait edukitan kurtsore bat ezartzen du testua teklatuarekin aukeratzea baimenduz. Kurtsore bidezko nabigazioa gaitu nahi duzu?
 caret-browsing-prompt-check-text = Ez galdetu berriz.
-
 repair-text-encoding-button =
     .label = Konpondu testu kodeketa
     .tooltiptext = Testuaren kodeketa zuzena asmatu mezuaren edukian oinarrituz
 
 ## no-reply handling
 
+no-reply-title = Ezin da erantzun
+no-reply-message = Erantzuneko posta helbidea ({ $email }) ez dirudi inork kontrolatutakoa. Litekeena da bertara idatzitako mezuak inork ez irakurtzea.
+no-reply-reply-anyway-button = Erantzun hala ere
