@@ -566,7 +566,7 @@ crashed-subframe-message = <strong>Parte de iste pagina collabeva.</strong> Pro 
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
-    .title = Parte de iste pagina collabeva. Pro consentir que { -brand-product-name } sape re iste problema e on pote lo corriger plus velocemente, invia un reporto.
+    .title = Un parte de iste pagina ha collabite. Pro permitter que { -brand-product-name } sape de iste problema e lo corrige plus rapidemente, invia un reporto.
 crashed-subframe-learnmore-link =
     .value = Saper plus
 crashed-subframe-submit =
