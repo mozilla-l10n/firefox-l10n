@@ -58,7 +58,6 @@ printui-two-sided-printing-short-edge = 短辺とじ
 printui-options = オプション
 printui-headers-footers-checkbox = ヘッダーとフッターを印刷する
 printui-backgrounds-checkbox = 背景画像を印刷する
-printui-selection-checkbox = 選択範囲のみを印刷する
 
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
