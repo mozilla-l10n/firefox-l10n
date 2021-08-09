@@ -63,7 +63,7 @@ options-stylesheet-autocompletion-tooltip =
 ## Screenshot section
 
 # The heading
-options-screenshot-label = Opzioni per la cattura schermate
+options-screenshot-label = Opzioni per l’acquisizione di schermate
 
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Salva negli appunti
@@ -77,7 +77,7 @@ options-screenshot-clipboard-tooltip2 =
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Riproduci il suono dell’otturatore
 options-screenshot-audio-tooltip =
-    .title = Riproduci il suono dell’otturatore di una fotocamera quando si cattura una schermata
+    .title = Riproduci il suono dell’otturatore di una fotocamera quando si acquisisce una schermata
 
 ## Editor section
 

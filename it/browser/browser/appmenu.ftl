@@ -134,7 +134,7 @@ profiler-popup-discard-button =
     .label = Rimuovi
 
 profiler-popup-capture-button =
-    .label = Cattura
+    .label = Acquisisci
 
 profiler-popup-start-shortcut =
     { PLATFORM() ->
