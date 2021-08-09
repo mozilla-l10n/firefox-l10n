@@ -44,9 +44,11 @@ state-generic-not-private = La conversation actuelle n’est pas privée.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-unverified = La conversation en cours est chiffrée mais pas privée, car l’identité de { $name } n’a pas encore été vérifiée.
+state-generic-unverified = La conversation actuelle est chiffrée, mais non privée, car certaines identités ne sont pas encore vérifiées.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-private = L’identité de { $name } a été vérifiée. La conversation en cours est chiffrée et privée.
+state-generic-private = La conversation actuelle est chiffrée et privée.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-finished = { $name } a mis fin à sa conversation chiffrée avec vous ; vous devriez faire de même.
