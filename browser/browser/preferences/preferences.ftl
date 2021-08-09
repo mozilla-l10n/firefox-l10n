@@ -1157,7 +1157,7 @@ security-block-downloads =
     .label = 위험한 다운로드 차단
     .accesskey = D
 security-block-uncommon-software =
-    .label = 원하지 않거나 일반적이지 않은 소프트웨어에 대해 알림
+    .label = 사용자 동의 없이 설치되거나 흔하지 않은 소프트웨어에 대해 경고
     .accesskey = C
 
 ## Privacy Section - Certificates
