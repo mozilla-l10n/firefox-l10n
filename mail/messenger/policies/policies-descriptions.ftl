@@ -76,6 +76,7 @@ policy-PasswordManagerEnabled = Omogoči shranjevanje gesel v upravitelja gesel.
 policy-PDFjs = Onemogoči ali nastavi PDF.js, pregledovalnik PDF brskalnika { -brand-short-name }.
 policy-Permissions2 = Nastavi dovoljenja za kamero, mikrofon, lokacijo, obvestila in samodejno predvajanje.
 policy-Preferences = Nastavi in zakleni vrednost podnabora nastavitev.
+policy-PrimaryPassword = Zahtevaj ali prepreči uporabo glavnega gesla.
 policy-PromptForDownloadLocation = Pri prenosu vprašaj, kam shraniti datoteko.
 policy-Proxy = Nastavi posrednika.
 policy-RequestedLocales = Nastavi vrstni red zahtevanih jezikov za program.
