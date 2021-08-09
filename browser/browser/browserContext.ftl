@@ -405,7 +405,7 @@ main-context-menu-video-image-save-as =
     .accesskey = f
 
 main-context-menu-video-take-snapshot =
-    .label = Cattura istantanea…
+    .label = Acquisisci istantanea…
     .accesskey = s
 
 main-context-menu-video-email =
@@ -519,11 +519,11 @@ main-context-menu-view-selection-source =
     .accesskey = u
 
 main-context-menu-take-screenshot =
-    .label = Cattura schermata
+    .label = Acquisisci schermata
     .accesskey = e
 
 main-context-menu-take-frame-screenshot =
-    .label = Cattura schermata
+    .label = Acquisisci schermata
     .accesskey = e
 
 main-context-menu-view-page-source =
