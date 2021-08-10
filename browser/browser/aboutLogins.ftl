@@ -334,7 +334,7 @@ about-logins-import-report-row-description-error-missing-field = Lỗi: Thiếu 
 
 about-logins-import-report-added =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">thông tin đăng nhập mới được thêm vào</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">thông tin đăng nhập mới được thêm vào</div>
     }
 about-logins-import-report-modified =
     { $count ->
@@ -346,7 +346,7 @@ about-logins-import-report-no-change =
     }
 about-logins-import-report-error =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">lỗi</div> <div data-l10n-name="not-imported">(không nhập)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">lỗi</div> <div data-l10n-name="not-imported">(không nhập)</div>
     }
 
 ## Logins import report page
