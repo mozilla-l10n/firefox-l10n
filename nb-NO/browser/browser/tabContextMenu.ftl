@@ -111,6 +111,13 @@ tab-context-close-tabs =
            *[other] Lukk faner
         }
     .accesskey = L
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Lukk fane
+           *[other] Lukk { $tabCount } faner
+        }
+    .accesskey = L
 tab-context-move-tabs =
     .label =
         { $tabCount ->
