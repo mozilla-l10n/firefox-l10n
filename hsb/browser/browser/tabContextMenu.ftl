@@ -124,7 +124,7 @@ tab-context-close-n-tabs =
     .label =
         { $tabCount ->
             [1] Rajtark začinić
-            [one] Rajtark začinić
+            [one] { $tabCount } rajtark začinić
             [two] { $tabCount } rajtarkaj začinić
             [few] { $tabCount } rajtarki začinić
            *[other] { $tabCount } rajtarkow začinić
