@@ -1,10 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = लगिन & पासवर्डखौ
@@ -17,12 +13,9 @@ login-app-promo-android =
     .alt = Google Play निफ्राय ला
 login-app-promo-apple =
     .alt = App Store निफ्राय दावनलड खालाम
-
 login-filter =
     .placeholder = ल'गइनफोर नागिर
-
 create-login-button = गोदान ल'गइन खुलि
-
 fxaccounts-sign-in-text = नोंनि पासवर्दखौ गुबुन डिभाइस आव लाबो
 fxaccounts-sign-in-button = { -sync-brand-short-name } आव साइन-इन खालाम
 fxaccounts-avatar-button =
@@ -70,7 +63,6 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = नोंनि थिनानै दोन्ना लक इनफोरखौ नायगासिनो? थिनानै दोन { -sync-brand-short-name }.
-
 about-logins-intro-instruction-help = मदद होगा्  <a data-l10n-name="help-link">{ -lockwise-brand-short-name } जायगायाव थां रैखा </a> मोन्नो
 
 ## Login
@@ -128,11 +120,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = नेवसि
 confirmation-dialog-dismiss-button =
     .title = नेवसि
-
 about-logins-confirm-remove-dialog-title = बे ल'गइनखौ बोखारनो?
 confirm-delete-dialog-message = बे हाबाखौ मावनो हायै खालामनो हाया।
 about-logins-confirm-remove-dialog-confirm-button = बोखार
-
 confirm-discard-changes-dialog-title = थिनानै देनै सोलायनाफोरखौ बोखार
 confirm-discard-changes-dialog-message = गासिबो थिनानै दोनै सोलायनायफोरा गोमागोन
 confirm-discard-changes-dialog-confirm-button = नागार
@@ -152,27 +142,30 @@ about-logins-vulnerable-alert-learn-more-link = गोबां सोलों
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = बे { $loginTitle } इउजार नेमजों सोगा्या दंखायो,  <a data-l10n-name="duplicate-link"> थाखानाय सोनायाव थां
-
+about-logins-error-message-duplicate-login-with-link = बे { $loginTitle } इउजार नेमजों सोगा्या दंखायो,  <a data-l10n-name="duplicate-link"> थाखानाय सोनायाव थां</a>
 # This is a generic error message.
 about-logins-error-message-default = बे फासवाद खौ लाखिनो नाजानायाव गोरोनथि जादों
 
-
 ## Login Export Dialog
 
+
 ## Login Import Dialog
+
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
