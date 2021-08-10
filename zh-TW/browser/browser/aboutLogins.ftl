@@ -333,19 +333,19 @@ about-logins-import-report-row-description-error-missing-field = 錯誤: 缺少 
 
 about-logins-import-report-added =
     { $count ->
-       *[other] <div data-l10n-name="details">已新增</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">筆登入資訊</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">筆登入資訊已新增</div>
     }
 about-logins-import-report-modified =
     { $count ->
-       *[other] <div data-l10n-name="details">已更新</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">筆現有的登入資訊</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">筆現有的登入資訊已更新</div>
     }
 about-logins-import-report-no-change =
     { $count ->
-       *[other] <div data-l10n-name="details">發現</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">筆重複的登入資訊</div><div data-l10n-name="not-imported">（未匯入）</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">筆重複的登入資訊</div><div data-l10n-name="not-imported">（未匯入）</div>
     }
 about-logins-import-report-error =
     { $count ->
-       *[other] <div data-l10n-name="details">有</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">筆發生錯誤</div><div data-l10n-name="not-imported">（未匯入）</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">筆錯誤</div><div data-l10n-name="not-imported">（未匯入）</div>
     }
 
 ## Logins import report page
