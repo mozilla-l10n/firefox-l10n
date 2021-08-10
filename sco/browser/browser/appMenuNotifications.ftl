@@ -35,8 +35,7 @@ appmenu-update-restart-message = Efter a wee restert, { -brand-shorter-name } wi
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Awricht, Got Ye
     .buttonaccesskey = O
-appmenu-addon-post-install-message = Manage yer eik-ons by clickin <image data-l10n-name='addon-install-icon'></image> in the <image data-l10n-name='addon-menu-icon'><image data-l10n-name='addon-menu-icon'></image> menu.
-
+appmenu-addon-post-install-message = Manage yer eik-ons by clickin <image data-l10n-name='addon-install-icon'></image> in the <image data-l10n-name='addon-menu-icon'></image> menu.
 appmenu-update-available2 =
     .label = Update redd
     .buttonlabel = Doonload
@@ -72,7 +71,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = No Jist Noo
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = A new { -brand-shorter-name } update is redd, but ye'll no can instaw it the noo acause anither copy o { -brand-shorter-name } is rinnin. Sneck thon fur tae haud forrit wi the update, or gang aheid and update oniewey (the ither copy micht no wirk richt until ye restert).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Awricht
     .buttonaccesskey = O
@@ -80,7 +78,6 @@ appmenu-addon-post-install-message3 = Manage yer eik-ons and themes through the 
 appmenu-addon-post-install-incognito-checkbox =
     .label = Lat this extension rin in Private Windaes
     .accesskey = A
-    
 appmenu-new-tab-controlled =
     .label = Yer New Tab has chynged.
     .buttonlabel = Keep Chynges
@@ -93,7 +90,6 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Disable Extension
     .secondarybuttonaccesskey = D
-
 appmenu-new-tab-controlled-changes =
     .label = Yer new tab has chynged.
     .buttonlabel = Keep Chynges
