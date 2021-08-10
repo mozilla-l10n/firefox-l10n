@@ -8,9 +8,6 @@
 newtab-page-title = Tab Newydd
 newtab-settings-button =
     .title = Cyfaddasu eich tudalen Tab Newydd
-newtab-personalize-button-label = Personoli
-    .title = Personoli tab newydd
-    .aria-label = Personoli tab newydd
 newtab-personalize-icon-label =
     .title = Personoli tab newydd
     .aria-label = Personoli tab newydd
@@ -126,7 +123,7 @@ newtab-privacy-modal-header = Mae eich preifatrwydd yn bwysig.
 newtab-privacy-modal-paragraph-2 =
     Yn ogystal â rhannu straeon cyfareddol, rydyn hefyd yn dangos i chi
     gynnwys perthnasol wedi'i ddewis yn ofalus gan noddwyr dethol. Peidiwch â phoeni,
-    nid yw eich data pori byth yn gadael eich copi personol o { -brand-product-name } - nid ydym 
+    <strong>nid yw eich data pori byth yn gadael eich copi personol o { -brand-product-name }</strong> - nid ydym 
     yn ei weld, na'n
     noddwyr chwaith.
 newtab-privacy-modal-link = Dysgwch sut mae preifatrwydd yn gweithio ar y tab newydd
@@ -257,10 +254,4 @@ newtab-custom-pocket-sponsored = Straeon wedi'u noddi
 newtab-custom-recent-title = Gweithgaredd diweddar
 newtab-custom-recent-subtitle = Detholiad o wefannau a chynnwys diweddar
 newtab-custom-close-button = Cau
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Pytiau
-newtab-custom-snippets-subtitle = Awgrymiadau a newyddion gan { -vendor-short-name } a { -brand-product-name }
 newtab-custom-settings = Rheoli rhagor o osodiadau
