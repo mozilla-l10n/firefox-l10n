@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Colar sem formatação">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "v">
-<!ENTITY pasteAs.label "Colar como">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Colar como citação">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "O">
@@ -39,12 +37,12 @@
 <!ENTITY insertTableCmd.label "Tabela…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
-<!ENTITY insertHTMLCmd.accesskey "f">
+<!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertMathCmd.label "Fórmula matemática…">
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Caracteres e símbolos…">
 <!ENTITY insertCharsCmd.accesskey "C">
-<!ENTITY insertBreakAllCmd.label "Quebrar abaixo da(s) imagem(ns)">
+<!ENTITY insertBreakAllCmd.label "Quebra abaixo de imagens">
 <!ENTITY insertBreakAllCmd.accesskey "Q">
 
 <!-- Used just in context popup. -->
@@ -83,7 +81,7 @@
 <!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Tamanho">
-<!ENTITY fontSizeMenu.accesskey "x">
+<!ENTITY fontSizeMenu.accesskey "T">
 <!ENTITY size-tinyCmd.label "Minúsculo">
 <!ENTITY size-tinyCmd.accesskey "M">
 <!ENTITY size-smallCmd.label "Pequeno">
@@ -294,8 +292,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Recortar">
 <!ENTITY copyToolbarCmd.tooltip "Copiar">
 <!ENTITY pasteToolbarCmd.tooltip "Colar">
-<!ENTITY printToolbarCmd.label "Imprimir">
-<!ENTITY printToolbarCmd.tooltip "Imprimir esta página">
 <!ENTITY findToolbarCmd.label "Procurar">
 <!ENTITY findToolbarCmd.tooltip "Procurar texto na página">
 <!ENTITY spellToolbarCmd.label "Ortografia">
@@ -313,7 +309,6 @@
 <!ENTITY colorButtons.title "Cores">
 <!ENTITY TextColorButton.tooltip "Escolher a cor do texto">
 <!ENTITY BackgroundColorButton.tooltip "Escolher cor para o fundo">
-<!ENTITY throbber.tooltip "Ir para a página inicial de &vendorShortName;">
 <!ENTITY HighlightColorButton.label "Marca-texto">
 <!ENTITY HighlightColorButton.tooltip "Escolher cor para realçar o texto">
 

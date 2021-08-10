@@ -280,8 +280,8 @@
 <!ENTITY findCmd.label "Procurar nesta mensagem…">
 <!ENTITY findCmd.accesskey "o">
 <!ENTITY findCmd.key "F">
-<!ENTITY findAgainCmd.label "Procurar próxima">
-<!ENTITY findAgainCmd.accesskey "x">
+<!ENTITY findAgainCmd.label "Procurar novamente">
+<!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "G">
