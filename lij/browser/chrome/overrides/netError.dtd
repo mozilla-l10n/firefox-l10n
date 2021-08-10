@@ -28,7 +28,6 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.longDesc "<ul><li>Peu ese che l'ògetto o segge stæto rinominou, scancelou ò mesciou?</li><li>Gh'é quarche erô inte l'indirisso?</li><li>Ti ghe l'æ i permissi pe acede a l'ògetto?</li></ul>">
 
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
@@ -58,9 +57,9 @@
 </ul>  
 ">
 
-<!ENTITY contentEncodingError.longDesc "<p>A pagina che t'eu vedde a no se peu mostrâ perché a gh'à 'na conprescion ch'a no l'é soportâ.</p><ul><li>Pe piaxei ciamma o propietaio do scito pe informalo do problema.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<ul><li>Pe piaxei ciamma o propietaio do scito pe informalo do problema.</li></ul>">
 
-<!ENTITY unsafeContentType.longDesc "<p>A pagina che t'eu vedde a no se peu mostrâ perché a gh'à 'na conprescion ch'a no l'é soportâ.</p><ul><li>Pe piaxei ciamma o propietaio do scito pe informalo do problema.</li></ul>">
+<!ENTITY unsafeContentType.longDesc "<ul><li>Pe piaxei ciamma o propietaio do scito pe informalo do problema.</li></ul>">
 
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
@@ -72,7 +71,6 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.longDesc "<p>O navegatô o l'é inpostou pe uzâ un server proxy ma o proxy refua e conescioin.</p><ul><li>E inpostaçioin proxy do navegatô en giuste? Contròlla e preuva torna.</li><li>O proxy permette e conescioin da sta ræ?</li><li>Ti gh'æ ancon di problemi? Ciamma o teu aministratô da ræ ò fornitô de serviççi internet pe ascistensa.</li></ul>">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul>
   <li>Contròlla se e inpostaçioin do proxy son giuste.</li>
@@ -120,8 +118,8 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; o l'à blocòu o caregamento da pagina con sta modalitæ perché a gh'à di critei de seguessa di contegnui ch'òu inpediscian.</p>">
 
-<!ENTITY corruptedContentErrorv2.longDesc "<p>A pagina che ti veu vedde a no peu ese mostrâ perché gh'é 'n erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, ciamma o responsabile do scito pe informalo do problema.</li></ul>">
 
+<!ENTITY corruptedContentErrorv2.longDesc "<p>A pagina che ti veu vedde a no peu ese mostrâ perché gh'é 'n erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, ciamma o responsabile do scito pe informalo do problema.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Acetta o reizego e vanni avanti">
 
@@ -145,6 +143,8 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Pagina blocâ">
 
 
+
 <!ENTITY prefReset.longDesc "Pâ che segian e teu inpostaçioin de seguessa a caozâ questo. Ti veu repigiâ e inpostaçioin predefinie?">
 <!ENTITY prefReset.label "Repiggia inpostaçioin predefinie">
+
 
