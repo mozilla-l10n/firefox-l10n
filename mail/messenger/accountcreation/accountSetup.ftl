@@ -231,7 +231,7 @@ account-setup-address-book-ldap-button = Conectar a um catálogo de endereços L
 account-setup-calendar-button = Conectar a uma agenda remota
 account-setup-linked-services-title = Conectar seus serviços vinculados
 account-setup-linked-services-description = O { -brand-short-name } detectou outros serviços vinculados à sua conta de email.
-account-setup-no-linked-description = Configurar outros serviços para aproveitar ao máximo sua experiência de uso do { -brand-short-name }.
+account-setup-no-linked-description = Configure outros serviços para aproveitar ao máximo sua experiência de uso no { -brand-short-name }.
 # Variables:
 # $count (Number) - The number of address books found during autoconfig.
 account-setup-found-address-books-description =
