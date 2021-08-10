@@ -218,7 +218,7 @@ account-setup-confirm-advanced-description = Este diálogo será fechado e será
 
 account-setup-addon-install-title = Instalar
 account-setup-addon-install-intro = Uma extensão de terceiros pode permitir que você acesse sua conta de email neste servidor:
-account-setup-addon-no-protocol = Este servidor de email infelizmente não suporta protocolos abertos. { account-setup-addon-install-intro }
+account-setup-addon-no-protocol = Este servidor de email infelizmente não oferece suporte a protocolos abertos. { account-setup-addon-install-intro }
 
 ## Success view
 

@@ -364,7 +364,7 @@ keyserver-error-unknown = Ocorreu um erro desconhecido
 keyserver-error-server-error = O servidor de chaves relatou um erro.
 keyserver-error-import-error = Falha ao importar a chave baixada.
 keyserver-error-unavailable = O servidor de chaves não está disponível.
-keyserver-error-security-error = O servidor de chaves não suporta acesso criptografado.
+keyserver-error-security-error = O servidor de chaves não oferece suporte a acesso criptografado.
 keyserver-error-certificate-error = O certificado do servidor de chaves não é válido.
 keyserver-error-unsupported = O servidor de chaves não é suportado.
 # Strings in mimeWkdHandler.jsm
