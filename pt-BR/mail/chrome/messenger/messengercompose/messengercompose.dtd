@@ -89,10 +89,10 @@
 <!ENTITY findBarCmd.accesskey "P">
 <!ENTITY findBarCmd.key "P">
 <!ENTITY findReplaceCmd.label "Procurar e substituir…">
-<!ENTITY findReplaceCmd.accesskey "l">
-<!ENTITY findReplaceCmd.key "H">
-<!ENTITY findAgainCmd.label "Procurar próxima">
-<!ENTITY findAgainCmd.accesskey "L">
+<!ENTITY findReplaceCmd.accesskey "u">
+<!ENTITY findReplaceCmd.key "u">
+<!ENTITY findAgainCmd.label "Procurar novamente">
+<!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Procurar anterior">
