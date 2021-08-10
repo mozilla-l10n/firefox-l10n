@@ -28,7 +28,7 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Excluir tudo, exceto as últimas">
 <!ENTITY retentionKeepRecent.accesskey "E">
-<!ENTITY retentionApplyToFlagged.label "Sempre manter as mensagens com estrela">
+<!ENTITY retentionApplyToFlagged.label "Sempre manter mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "S">
 <!ENTITY nntpRemoveMsgBody.label "Excluir o conteúdo de mensagens com mais de">
 <!ENTITY nntpRemoveMsgBody.accesskey "i">

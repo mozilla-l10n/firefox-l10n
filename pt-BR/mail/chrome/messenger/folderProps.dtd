@@ -30,7 +30,7 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Excluir tudo, exceto as últimas">
 <!ENTITY retentionKeepRecent.accesskey "E">
-<!ENTITY retentionApplyToFlagged.label "Sempre manter as mensagens com estrela">
+<!ENTITY retentionApplyToFlagged.label "Sempre manter mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "S">
 
 <!ENTITY folderSynchronizationTab.label          "Sincronização">
@@ -53,7 +53,7 @@
 <!ENTITY folderProps.color.accesskey             "C">
 <!ENTITY folderProps.reset.tooltip               "Restaurar cor padrão">
 <!ENTITY folderProps.location.label              "Local:">
-<!ENTITY folderProps.location.accesskey          "E">
+<!ENTITY folderProps.location.accesskey          "L">
 
 <!ENTITY folderSharingTab.label                  "Compartilhamento">
 <!ENTITY privileges.button.label                 "Privilégios…">
