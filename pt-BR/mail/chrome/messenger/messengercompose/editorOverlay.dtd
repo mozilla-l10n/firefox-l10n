@@ -31,7 +31,7 @@
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Caracteres e símbolos…">
 <!ENTITY insertCharsCmd.accesskey "C">
-<!ENTITY insertBreakAllCmd.label "Quebrar abaixo da(s) imagem(ns)">
+<!ENTITY insertBreakAllCmd.label "Quebra abaixo de imagens">
 <!ENTITY insertBreakAllCmd.accesskey "Q">
 
 <!-- Used just in context popup. -->
@@ -219,21 +219,21 @@
 <!ENTITY tableTable.label "Tabela">
 <!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "Linha">
-<!ENTITY tableRows.label "Linha(s)">
+<!ENTITY tableRows.label "Linhas">
 <!ENTITY tableRow.accesskey "L">
 <!ENTITY tableRowAbove.label "Linha acima">
 <!ENTITY tableRowAbove.accesskey "L">
 <!ENTITY tableRowBelow.label "Linha abaixo">
-<!ENTITY tableRowBelow.accesskey "e">
+<!ENTITY tableRowBelow.accesskey "b">
 <!ENTITY tableColumn.label "Coluna">
-<!ENTITY tableColumns.label "Coluna(s)">
+<!ENTITY tableColumns.label "Colunas">
 <!ENTITY tableColumn.accesskey "C">
 <!ENTITY tableColumnBefore.label "Coluna antes">
 <!ENTITY tableColumnBefore.accesskey "o">
 <!ENTITY tableColumnAfter.label "Coluna depois">
 <!ENTITY tableColumnAfter.accesskey "o">
 <!ENTITY tableCell.label "Célula">
-<!ENTITY tableCells.label "Célula(s)">
+<!ENTITY tableCells.label "Células">
 <!ENTITY tableCell.accesskey "u">
 <!ENTITY tableCellContents.label "Conteúdos da célula">
 <!ENTITY tableCellContents.accesskey "o">
