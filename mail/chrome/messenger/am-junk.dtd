@@ -20,7 +20,7 @@
 <!ENTITY whitelistHeader.label "Não marcar automaticamente mensagens como spam se o remetente estiver em: ">
 <!ENTITY whitelistHeader.accesskey "N">
 
-<!ENTITY ispHeadersWarning.label "Se ativado, o &brandShortName; considerará automaticamente as mensagens marcadas por este classificador externo como spam.">
+<!ENTITY ispHeadersWarning.label "Se ativado, o &brandShortName; considera como spam automaticamente mensagens marcadas por este classificador externo.">
 <!ENTITY ispHeaders.label "Confiar em cabeçalhos de spam definidos por: ">
 <!ENTITY ispHeaders.accesskey "o">
 
