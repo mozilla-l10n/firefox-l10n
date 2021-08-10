@@ -8,9 +8,6 @@
 newtab-page-title = Nueva pestaña
 newtab-settings-button =
     .title = Personalizar la página nueva pestaña
-newtab-personalize-button-label = Personalizar
-    .title = Personalizar la nueva pestaña
-    .aria-label = Personalizar la nueva pestaña
 newtab-personalize-icon-label =
     .title = Personalizar la nueva pestaña
     .aria-label = Personalizar la nueva pestaña
@@ -126,7 +123,7 @@ newtab-privacy-modal-header = Su privacidad es importante.
 newtab-privacy-modal-paragraph-2 =
     Además de ofrecer historias cautivadoras, también le vamos a mostrar información relevante,
     contenido sumamente revisado de patrocinadores seleccionados. No se preocupe, <strong>la seguridad de los datos de su navegación
-     nunca dejan su copia personal de { -brand-product-name }: nosotros no la vemos y nuestros patrocinadores tampoco.
+     nunca dejan su copia personal de { -brand-product-name }</strong>: nosotros no la vemos y nuestros patrocinadores tampoco.
 newtab-privacy-modal-link = Aprenda cómo funciona la privacidad en la pestaña nueva
 
 ##
@@ -251,10 +248,4 @@ newtab-custom-pocket-sponsored = Historias patrocinadas
 newtab-custom-recent-title = Actividad reciente
 newtab-custom-recent-subtitle = Una selección de sitios y contenido recientes
 newtab-custom-close-button = Cerrar
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Recortes
-newtab-custom-snippets-subtitle = Consejos y noticias de { -vendor-short-name } y { -brand-product-name }
 newtab-custom-settings = Administrar más configuraciones
