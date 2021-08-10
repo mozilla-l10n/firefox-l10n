@@ -177,6 +177,9 @@ about-debugging-runtime-service-workers-not-compatible = A böngésző beállít
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = A csatlakoztatott böngésző régi verziójú ({ $runtimeVersion }). A minimális támogatott verzió: ({ $minVersion }). Ez egy nem támogatott összeállítás és a fejlesztői eszközök hibáját okozhatja. Frissítse a csatlakoztatott böngészőt. <a>Hibaelhárítás</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = A Firefox ezen verziója nem tud hibát keresni a Firefox for Androidban (68). Javasoljuk, hogy a teszteléshez telepítse a Firefox for Android Nightlyt a telefonjára. <a>További részletek</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
