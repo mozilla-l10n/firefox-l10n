@@ -8,9 +8,6 @@
 newtab-page-title = ახალი ჩანართი
 newtab-settings-button =
     .title = მოირგეთ ახალი ჩანართის გვერდი
-newtab-personalize-button-label = მორგება
-    .title = ახალი ჩანართის მორგება
-    .aria-label = ახალი ჩანართის მორგება
 newtab-personalize-icon-label =
     .title = ახალი ჩანართის მორგება
     .aria-label = ახალი ჩანართის მორგება
@@ -123,11 +120,6 @@ newtab-menu-show-privacy-info = ჩვენი დამფინანსე�
 newtab-privacy-modal-button-done = მზადაა
 newtab-privacy-modal-button-manage = შეკვეთილი მასალის პარამეტრების მართვა
 newtab-privacy-modal-header = თქვენი პირადულობა უმნიშვნელოვანესია.
-newtab-privacy-modal-paragraph-2 =
-    გარდა საინტერესო ამბებისა, ჩვენ ასევე გიჩვენებთ მნიშვნელოვან, ღირებულ
-    მასალას შერჩეული მხარდამჭერებისგან. შეგიძლიათ მშვიდად იყოთ, თქვენ მიერ ნანახ
-    მონაცემებს, მხოლოდ ინახავს თქვენი კუთვნილი { -brand-product-name }</strong>  — ვერც ჩვენ და ვერც
-    ჩვენი მხარდამჭერი კომპანიები ვერ იხილავს მათ.
 newtab-privacy-modal-link = იხილეთ, როგორ მუშაობს პირადი მონაცემების უსაფრთხოება ახალ ჩანართზე
 
 ##
@@ -252,10 +244,4 @@ newtab-custom-pocket-sponsored = დაფინანსებული ამ�
 newtab-custom-recent-title = ბოლო მოქმედებები
 newtab-custom-recent-subtitle = შერჩეული ბოლოს ნანახი საიტებისა და მასალებიდან
 newtab-custom-close-button = დახურვა
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = ცნობები
-newtab-custom-snippets-subtitle = რჩევები და სიახლეები, რომელთაც გთავაზობთ { -vendor-short-name } და { -brand-product-name }
 newtab-custom-settings = დამატებითი პარამეტრების მართვა
