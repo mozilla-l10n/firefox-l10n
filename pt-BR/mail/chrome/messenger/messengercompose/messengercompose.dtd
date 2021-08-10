@@ -86,8 +86,8 @@
 <!ENTITY toggleAttachmentPaneCmd.accesskey "x">
 <!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY findBarCmd.label "Procurar…">
-<!ENTITY findBarCmd.accesskey "z">
-<!ENTITY findBarCmd.key "F">
+<!ENTITY findBarCmd.accesskey "P">
+<!ENTITY findBarCmd.key "P">
 <!ENTITY findReplaceCmd.label "Procurar e substituir…">
 <!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findReplaceCmd.key "H">
