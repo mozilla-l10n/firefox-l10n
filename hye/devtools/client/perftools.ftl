@@ -26,7 +26,7 @@ perftools-heading-local-build = Տեղային կառոյց
 ##
 
 perftools-description-intro =
-    Գրանցումները profiler.firefox.com֊ը բացում են նոր ներդիրում։ բոլոր տուեալները պահուած են
+    Գրանցումները <a>profiler.firefox.com</a>֊ը բացում են նոր ներդիրում։ բոլոր տուեալները պահուած են
     տեղում, բայց կարող էք բեռնել եւ կիսուել։
 perftools-description-local-build =
     Եթե յատկագրում էք կառոյց, որ ինքներդ էք կազմարկել, այս 
@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Պահնակի չափը՝
-
 perftools-custom-threads-label = Աւելացնել կամայական շղթաներ ըստ անուան՝
-
 perftools-devtools-interval-label = Միջակայք՝
 perftools-devtools-threads-label = Շղթաներ՝
 perftools-devtools-settings-label = Կարգաւորումներ
@@ -97,13 +95,10 @@ perftools-thread-img-decoder =
     .title = Պատկերային այլագրման շղթաներ
 perftools-thread-dns-resolver =
     .title = Այս շղթայում տեղի է ունենում DNS տարլուծում
-perftools-thread-js-helper =
-    .title = JS սարքի յետնապատկերի աշխատանքը, աւրինակ, off-main-thread, կազմարկում է
 
 ##
 
 perftools-record-all-registered-threads = Շրջանցէք վերոնշեալ ընտրութիւնները եւ ձայնագրէք բոլոր գրանցուած շղթաները
-
 perftools-tools-threads-input-label =
     .title = Շղթաների անունների ցանկն առանձնացուած է ստորակէտով, որը յատկագրիչի վրայ միացնում է շղթաների յատկագրումը։ Շղթայի անուան հետ մասնակի համընկնման դէպքում անունը կը ներառուի։ Բացատը կարեւոր է։
 
@@ -112,9 +107,7 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b> Նոր </b>: { -profiler-brand-name }-ն այժմ ընդգրկուած է մշակողների գործիքներում: <a> Իմանալ աւելին </a> այս նոր հզաւր գործիքի մասին:
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Սահամանափակ ժամանակով կարող էք մուտք գործել ելակէտային կատարողականութեան վահանակ <a> { options-context-advanced-settings }-ի միջոցով </a>)
-
 perftools-onboarding-close-button =
     .aria-label = Փակէք անդամագրման ուղերձը
