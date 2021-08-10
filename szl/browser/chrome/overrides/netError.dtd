@@ -126,10 +126,6 @@ za pora chwil.</li>
 
 <!ENTITY xfoBlocked.longDesc "<p>Aplikacyjo &brandShortName; niy dała tyj strōnie sie zaladować w tym kōntekście,  skuli polityki X-Frame-Options strōny, co na to niy przizwolo.</p>">
 
-<!ENTITY corruptedContentErrorv2.longDesc "<ul>
-  <li>Niy idzie pokozać strōny, co jōm chcesz ôboczyć, bo znod sie feler przi transmisyje danych.</li>
-  <li>Dej znać ô tym problymie posiedzicielōm strōny.</li>
-</ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Akceptuj ryzyko i idź dalij">
 
