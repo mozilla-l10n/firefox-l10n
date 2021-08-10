@@ -112,6 +112,14 @@ tab-context-close-tabs =
            *[other] Fermer les onglets
         }
     .accesskey = F
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Fermer l’onglet
+            [one] Fermer l’onglet
+           *[other] Fermer { $tabCount } onglets
+        }
+    .accesskey = F
 tab-context-move-tabs =
     .label =
         { $tabCount ->
