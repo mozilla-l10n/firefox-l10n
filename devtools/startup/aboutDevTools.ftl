@@ -13,7 +13,6 @@ enable-common-message = As ferramentas de desenvolvemento de Firefox están desa
 enable-learn-more-link = Máis información sobre as ferramentas de desenvolvemento
 enable-enable-button = Activar as ferramentas de desenvolvemento
 enable-close-button = Pechar esta lapela
-
 welcome-title = Benvida as ferramentas de desenvolvemento de Firefox!
 newsletter-title = Boletín de información para desenvolvedores de Mozilla
 newsletter-message = Obteña novas, trucos e recursos para desenvolvedores enviadas directamente a súa caixa de entrada.
@@ -23,11 +22,9 @@ newsletter-privacy-label = Acepto que Mozilla use a miña información como se e
 newsletter-subscribe-button = Subscribirse
 newsletter-thanks-title = Grazas!
 newsletter-thanks-message = Se previamente non confirmou unha subscrición a un boletín relacionado con Mozilla, pode ter que facelo agora. Comprobe a súa caixa de entrada ou o seu filtro de correo lixo para atopar un correo noso.
-
 footer-title = Firefox Developer Edition
 footer-message = Busca algo máis que ferramentas de desenvolvemento? Probe o navegador Firefox deseñado especificamente para desenvolvedores e fluxos de traballo modernos.
 footer-learn-more-link = Máis información
-
 features-learn-more = Máis información
 features-inspector-title = Inspector
 features-inspector-desc = Inspeccione e refine o código para obter un deseño perfecto. <a data-l10n-name="learn-more">{ features-learn-more }</a>
@@ -46,7 +43,7 @@ features-visual-editing-desc = Axuste as animacións, a aliñación e as marxes 
 features-performance-title = Rendemento
 features-performance-desc = Elimine os problemas de rendemento, reestruture os procesos, optimice os recursos. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Memoria
-features-memory-desc = Detecte fugas de memoria e mellore o rendemento do seu aplicativo. <a data-l10n-name="learn-more"><a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-memory-desc = Detecte fugas de memoria e mellore o rendemento do seu aplicativo. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
 #   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
 newsletter-error-common = Fallou a solicitude de subscrición ({ $errorDescription }).
