@@ -35,15 +35,13 @@ appmenu-update-restart-message = Saa nakajie´e ñama { -brand-shorter-name } na
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Kuvi
     .buttonaccesskey = O
-appmenu-addon-post-install-message = Kuña´nu nuu da ka̱a̱ chunta´an kuaxin <image data-l10n-name='addon-install-icon'> nuu <image data-l10n-name='addon-menu-icon'> menú.
-
+appmenu-addon-post-install-message = Kuña´nu nuu da ka̱a̱ chunta´an kuaxin <image data-l10n-name='addon-install-icon'></image> nuu <image data-l10n-name='addon-menu-icon'></image> menú.
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Kuvi
     .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = Kua´a kuvi satiñu extensión nuu pestaña yu´u
     .accesskey = A
-    
 appmenu-new-tab-controlled =
     .label = Pestaña jíía nsama
     .buttonlabel = Kino a nsama
@@ -56,7 +54,6 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Xita extensión
     .secondarybuttonaccesskey = D
-
 appmenu-new-tab-controlled-changes =
     .label = Página jíía sukua nsama
     .buttonlabel = Kino da nsama
