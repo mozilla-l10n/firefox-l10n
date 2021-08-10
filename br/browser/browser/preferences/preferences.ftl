@@ -133,7 +133,7 @@ search-results-empty-message =
        *[other] Digarezit! N'eus disoc'h ebet er Gwellvezioù evit “<span data-l10n-name="query"></span>”.
     }
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message2 = Digarezit! N'eus disoc'h ebet en arventennoù evit “<span data-l10n-name="query"><span data-l10n-name="query"></span>”.
+search-results-empty-message2 = Digarezit! N'eus disoc'h ebet en arventennoù evit “<span data-l10n-name="query"></span>”.
 search-results-help-link = Ezhomm sikour? Gweladenniñ <a data-l10n-name="url">Skoazell { -brand-short-name }</a>
 
 ## General Section
