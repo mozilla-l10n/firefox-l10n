@@ -270,7 +270,7 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Nnɨ'ɨ nasia´a
 about-logins-import-dialog-items-added =
     { $count ->
-       *[other] <span>Ntee a jíía nuu kajie'e sesión:</span><span-data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ntee a jíía nuu kajie'e sesión:</span><span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified =
     { $count ->
