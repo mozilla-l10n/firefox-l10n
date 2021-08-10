@@ -59,7 +59,7 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.longDesc "<p>La pagina dumandada na po betg vegnir mussada, perquai ch'ella utilisescha ina furma da cumpressiun nunvalida u betg cumpatibla.</p><ul><li>Contactescha per plaschair l'administratur da la website per infurmar el davart quest problem.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<ul><li>Contactescha per plaschair l'administratur da la website per infurmar el davart quest problem.</li></ul>">
 
 <!ENTITY unsafeContentType.longDesc "<ul> 
 <li>Contactescha per plaschair ils administraturs da la website per infurmar els davart quest problem.</li> 
@@ -92,7 +92,6 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.longDesc "<p>L'emprova da connectar cun l'adressa dumandada è vegnida interrutta. La website dumandada sviescha la dumonda uschia ch'ella na po mai vegnir terminada.</p><ul><li>Has ti bloccà u deactivà cookies indispensabels per questa website?</li><li><em>AVIS</em>: Per cas ch'i na gida betg d'acceptar ils cookies ed ils problems cun l'adressa dumandada persistan, sa tracti probablamain d'ina configuraziun fallada dal server e betg d'in problem da tes computer.</li></ul>">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -102,7 +101,10 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.longDesc2 "<p>La pagina dumandada na po betg vegnir mussada, perquai che l'autenticitad da las datas na po betg vegnir verifitgada.</p><ul><li>Contactescha per plaschair ils administraturs da la website per infurmar els davart quest problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul>
+<li>La pagina dumandada na po betg vegnir mussada, perquai che l'autenticitad da las datas na po betg vegnir verifitgada.</li>
+<li>Contactescha per plaschair ils administraturs da la website per infurmar els davart quest problem.</li>
+</ul>">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
