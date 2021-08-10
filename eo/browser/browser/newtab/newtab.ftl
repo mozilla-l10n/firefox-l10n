@@ -8,9 +8,6 @@
 newtab-page-title = Nova langeto
 newtab-settings-button =
     .title = Personecigi la paĝon por novaj langetoj
-newtab-personalize-button-label = Personcecigi
-    .title = Personecigi novan langeton
-    .aria-label = Personecigi novan langeton
 newtab-personalize-icon-label =
     .title = Personecigi novan langeton
     .aria-label = Personecigi novan langeton
@@ -123,7 +120,7 @@ newtab-menu-show-privacy-info = Niaj patronoj kaj via privateco
 newtab-privacy-modal-button-done = Farita
 newtab-privacy-modal-button-manage = Administri agordojn de patronita enhavo
 newtab-privacy-modal-header = Via privateco gravas.
-newtab-privacy-modal-paragraph-2 = Krom allogajn artikolojn ni montras al vi ankaŭ gravajn, zorge reviziitan enhavon el elektitaj patronoj. Estu certa, viaj retumaj datumoj neniam foriras el via loka instalaĵo de { -brand-product-name } — ni ne vidas ilin, kaj ankaŭ ne niaj patronoj.
+newtab-privacy-modal-paragraph-2 = Krom allogajn artikolojn ni montras al vi ankaŭ gravajn, zorge reviziitan enhavon el elektitaj patronoj. Estu certa, <strong>viaj retumaj datumoj neniam foriras el via loka instalaĵo de { -brand-product-name }</strong> — ni ne vidas ilin, kaj ankaŭ ne niaj patronoj.
 newtab-privacy-modal-link = Pli da informo pri privateco en novaj folioj
 
 ##
@@ -248,10 +245,4 @@ newtab-custom-pocket-sponsored = Patronitaj artikoloj
 newtab-custom-recent-title = Ĵusa agado
 newtab-custom-recent-subtitle = Elekto de ĵusaj retejoj kaj enhavoj
 newtab-custom-close-button = Fermi
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Fragmentoj
-newtab-custom-snippets-subtitle = Konsiletoj kaj novaĵoj de { -vendor-short-name } kaj { -brand-product-name }
 newtab-custom-settings = Administri aliajn agordojn
