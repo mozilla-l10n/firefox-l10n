@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-default-browser-notification-message = <strong>កំណត់ { -brand-short-name } ជាកម្មវិធីរុករកលំនាំដើមរបស់អ្នក?</strong> ទទួលបានការរុករករហ័ស សុវត្ថិភាព និងភាពឯកជននៅពេលណាដែលអ្នកប្រើអ៊ីនធឺណិត <strong>
+default-browser-notification-message = <strong>កំណត់ { -brand-short-name } ជាកម្មវិធីរុករកលំនាំដើមរបស់អ្នក?</strong> ទទួលបានការរុករករហ័ស សុវត្ថិភាព និងភាពឯកជននៅពេលណាដែលអ្នកប្រើអ៊ីនធឺណិត
 default-browser-notification-button =
     .label = កំណត់ជាលំនាំដើម
     .accesskey = S
