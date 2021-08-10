@@ -1220,7 +1220,7 @@ space-alert-under-5gb-message = { -brand-short-name } a pas mai d'espaci disc. L
 space-alert-over-5gb-settings-button =
     .label = Dobrir los paramètres
     .accesskey = D
-space-alert-over-5gb-message2 = { -brand-short-name } manca d’espaci disc. Lo contengut dels sites web poiriá s’afichar mal. Podètz escafar las donadas de site enregistradas dins Paramètres > Vida privada e seguretat > Cookies e donadas de sites.
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } manca d’espaci disc.</strong> Lo contengut dels sites web poiriá s’afichar mal. Podètz escafar las donadas de site enregistradas dins Paramètres > Vida privada e seguretat > Cookies e donadas de sites.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } a pas mai d'espaci disc.</strong> Los contenguts del site web pòdon s'afichar pas coma cal. Clicatz « Ne saber mai » per optimizar l'utilizacion de vòstre disc per melhorar la navegacion.
 
 ## Privacy Section - HTTPS-Only
