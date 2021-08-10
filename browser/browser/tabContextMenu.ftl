@@ -111,6 +111,13 @@ tab-context-close-tabs =
            *[other] Tanca les pestanyes
         }
     .accesskey = c
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tanca la pestanya
+           *[other] Tanca { $tabCount } pestanyes
+        }
+    .accesskey = c
 tab-context-move-tabs =
     .label =
         { $tabCount ->
