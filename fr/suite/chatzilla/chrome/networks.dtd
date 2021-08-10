@@ -4,11 +4,14 @@
 
 <!-- Used in networks-edit dialog -->
 <!ENTITY networksEditDialog.title     "Éditeur de réseaux">
+<!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
 
 <!ENTITY restoreButton.label          "Configuration par défaut">
+<!ENTITY restoreButton.accesskey      "f">
 
 <!ENTITY networkListAdd.label         "Ajouter un réseau…">
 <!ENTITY networkListAdd.accesskey     "A">
+<!ENTITY networkListAdd.tooltip       "Ajouter un nouveau réseau">
 <!ENTITY networkListEdit.label        "Modifier le réseau…">
 <!ENTITY networkListEdit.accesskey    "M">
 <!ENTITY networkListEdit.tooltip      "Modifier le réseau sélectionné">
