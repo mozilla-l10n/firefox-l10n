@@ -13,12 +13,9 @@ login-app-promo-android =
     .alt = Mae ar gael yn Google Play
 login-app-promo-apple =
     .alt = Llwythwch i lawr o'r App Store
-
 login-filter =
     .placeholder = Chwilio Mewngofnodion
-
 create-login-button = Creu Mewngofnod Newydd
-
 fxaccounts-sign-in-text = Defnyddiwch eich cyfrineiriau ar eich dyfeisiau eraill
 fxaccounts-sign-in-button = Mewngofnodi i { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Mewngofnodi i gydweddu
@@ -77,7 +74,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Chwilio am eich mewngofnodi wedi'u cadw? Gosodwch { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = Yn chwilio am eich mewngofnodi wedi'u cadw? Trowch cydweddu ymlaen neu eu mewnforio.
 about-logins-login-intro-heading-logged-in = Heb ganfod mewngofnodion wedi'u cydweddu.
 login-intro-description = Os gwnaethoch gadw eich mewngofnodion i { -brand-product-name } ar ddyfais wahanol, dyma sut i'w cael yma:
@@ -88,7 +84,6 @@ login-intro-instructions-fxa = Crëwch neu fewngofnodwch i'ch cyfrif { -fxaccoun
 login-intro-instructions-fxa-settings = Ewch i Gosodiadau > Sync > Cychwyn cydweddu... Dewiswch y blwch ticio Mewngofnodi a chyfrineiriau.
 login-intro-instructions-fxa-help = Ewch i <a data-l10n-name="help-link">Gefnogaeth { -lockwise-brand-short-name }</a> i gael rhagor o gymorth
 about-logins-intro-import = Os yw eich mewngofnodion yn cael eu cadw mewn porwr arall, gallwch <a data-l10n-name="import-link">eu mewnforio i { -lockwise-brand-short-name }</a>
-
 about-logins-intro-import2 = Os yw eich mewngofnodion wedi'u cadw y tu allan i { -brand-product-name }, gallwch <a data-l10n-name="import-browser-link">eu mewnforio o borwr arall</a> neu <a data-l10n-name="import-file-link">o ffeil</a>
 
 ## Login
@@ -130,13 +125,11 @@ about-logins-edit-login-os-auth-dialog-message-win = I olygu eich mewngofnod, rh
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = golygu'r mewngofnod sydd wedi'i gadw
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = I weld eich cyfrinair, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = dadlennu'r cyfrinair sydd wedi'i gadw
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = I gopïo'ch cyfrinair, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
 # This message can be seen when attempting to copy a password in about:logins
@@ -146,7 +139,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copïo'r cyfrinair sy
 ## Master Password notification
 
 master-password-notification-message = Rhowch eich prif gyfrinair i weld mewngofnodi a chyfrineiriau wedi'u cadw
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = I allforio'ch mewngofnodion, nodwch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
 # This message can be seen when attempting to export a password in about:logins
@@ -183,11 +175,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Diddymu
 confirmation-dialog-dismiss-button =
     .title = Diddymu
-
 about-logins-confirm-remove-dialog-title = Tynnu'r mewngofnod?
 confirm-delete-dialog-message = Nid oes modd dadwneud y weithred hon.
 about-logins-confirm-remove-dialog-confirm-button = Tynnu
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Tynnu
@@ -198,7 +188,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [many] Tynnu
        *[other] Tynnu'r Cyfan
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ie, tynnu'r mewngofnod
@@ -209,7 +198,6 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [many] Ie, tynnu'r mewngofnodion
        *[other] Ie, tynnu'r mewngofnodion
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [zero] Tynnu { $count } mewngofnodion
@@ -229,7 +217,6 @@ about-logins-confirm-remove-all-dialog-message =
         [many] Bydd hyn yn dileu'r mewngofnodion rydych wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
        *[other] Bydd hyn yn dileu'r mewngofnodion rydych wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [zero] Tynnu'r { $count } mewngofnodion o'r holl ddyfeisiau?
@@ -249,14 +236,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [many] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -fxaccount-brand-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
        *[other] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -fxaccount-brand-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
     }
-
 about-logins-confirm-export-dialog-title = Allforio mewngofnodion a chyfrineiriau
 about-logins-confirm-export-dialog-message = Bydd eich cyfrineiriau'n cael eu cadw fel testun darllenadwy (e.e. BadP@ssw0rd) fel y gall unrhyw un sy'n gallu agor y ffeil a allforiwyd eu gweld.
 about-logins-confirm-export-dialog-confirm-button = Allforio…
-
 about-logins-alert-import-title = Wedi Cwblhau Mewnforio
 about-logins-alert-import-message = Gweld crynodeb mewnforio manwl
-
 confirm-discard-changes-dialog-title = Hepgor newidiadau heb eu cadw?
 confirm-discard-changes-dialog-message = Bydd yr holl newidiadau sydd heb eu cadw'n cael eu colli.
 confirm-discard-changes-dialog-confirm-button = Dileu
@@ -287,10 +271,8 @@ about-logins-vulnerable-alert-learn-more-link = Dysgu rhagor
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Mae cofnod ar gyfer { $loginTitle } gyda'r enw defnyddiwr hwnnw eisoes yn bodoli. <a data-l10n-name="duplicate-link"> Ewch i'r cofnod presennol? </a>
-
 # This is a generic error message.
 about-logins-error-message-default = Digwyddodd gwall wrth geisio gadw'r cyfrinair hwn.
-
 
 ## Login Export Dialog
 
@@ -342,7 +324,6 @@ about-logins-import-dialog-items-added =
         [many] <span>Ychwanegwyd mewngofnodion newydd:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Ychwanegwyd mewngofnodion newydd:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [zero] <span>Diweddarwyd mewngofnodi presennol:</span> <span data-l10n-name="count">{ $count }</span>
@@ -352,7 +333,6 @@ about-logins-import-dialog-items-modified =
         [many] <span>Diweddarwyd mewngofnodi presennol:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Diweddarwyd mewngofnodi presennol:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
         [zero] <span>Mewngofnodion dyblyg wedi'u darganfod: </span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(heb ei fewnforio)</span>
@@ -372,7 +352,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Gwallau:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(heb ei fewnforio)</span>
     }
 about-logins-import-dialog-done = Gorffen
-
 about-logins-import-dialog-error-title = Gwall Mewnforio
 about-logins-import-dialog-error-conflicting-values-title = Gwerthoedd Lluosog sy'n Gwrthdaro mewn Un Mewngofnod
 about-logins-import-dialog-error-conflicting-values-description = Er enghraifft: enwau defnyddwyr lluosog, cyfrineiriau, URLau, ac ati ar gyfer un mewngofnod.
@@ -386,10 +365,8 @@ about-logins-import-dialog-error-no-logins-imported = Heb fewnforio unrhyw fewng
 about-logins-import-dialog-error-learn-more = Dysgu rhagor
 about-logins-import-dialog-error-try-import-again = Ceisiwch Fewnforio Eto…
 about-logins-import-dialog-error-cancel = Diddymu
-
 about-logins-import-report-title = Crynodeb Mewnforio
 about-logins-import-report-description = Mewngofnodion a chyfrineiriau wedi'u mewnforio i { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -412,30 +389,30 @@ about-logins-import-report-row-description-error-missing-field = Gwall: { $field
 
 about-logins-import-report-added =
     { $count ->
-        [zero] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details"> Mewngofnodion newydd wedi'u hychwanegu</div>
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'i ychwanegu</div>
-        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Fewngofnod newydd wedi'u hychwanegu</div>
-        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'u hychwanegu</div>
-        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'u hychwanegu</div>
-       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'u hychwanegu</div>
+        [zero] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> Mewngofnodion newydd wedi'u hychwanegu</div>
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Mewngofnod newydd wedi'i ychwanegu</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Fewngofnod newydd wedi'u hychwanegu</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Mewngofnod newydd wedi'u hychwanegu</div>
+        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Mewngofnod newydd wedi'u hychwanegu</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Mewngofnod newydd wedi'u hychwanegu</div>
     }
 about-logins-import-report-modified =
     { $count ->
-        [zero] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnodion newydd wedi'u diweddaru</div>
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'i ddiweddaru</div>
-        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Fewngofnod newydd wedi'u diweddaru</div>
-        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'u diweddaru</div>
-        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'u diweddaru</div>
-       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'u diweddaru</div>
+        [zero] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Mewngofnodion newydd wedi'u diweddaru</div>
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Mewngofnod newydd wedi'i ddiweddaru</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Fewngofnod newydd wedi'u diweddaru</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Mewngofnod newydd wedi'u diweddaru</div>
+        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Mewngofnod newydd wedi'u diweddaru</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Mewngofnod newydd wedi'u diweddaru</div>
     }
 about-logins-import-report-no-change =
     { $count ->
-        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">Mewngofnodion dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb ei fewnforio)</div>
-        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
-        [many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mewngofnodion dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb ei fewnforio)</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
     }
 about-logins-import-report-error =
     { $count ->
