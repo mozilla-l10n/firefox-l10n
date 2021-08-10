@@ -24,7 +24,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identidade">
-<!ENTITY identityDesc.label "Cada conta tem sua própria identidade, que é a informação que identifica você aos destinatários das suas mensagens.">
+<!ENTITY identityDesc.label "Cada conta tem uma identidade, a informação que identifica você aos outros quando recebem suas mensagens.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Insira o nome que você quer que seja exibido no campo &quot;De&quot; das suas mensagens enviadas">
