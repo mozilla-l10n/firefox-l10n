@@ -89,7 +89,7 @@
 <!ENTITY Department.label               "Departamento:">
 <!ENTITY Department.accesskey           "D">
 <!ENTITY Company.label                  "Organização:">
-<!ENTITY Company.accesskey              "p">
+<!ENTITY Company.accesskey              "O">
 <!ENTITY WorkAddress.label              "Endereço:">
 <!ENTITY WorkAddress.accesskey          "E">
 <!ENTITY WorkAddress2.label             "(continuação do endereço)">
