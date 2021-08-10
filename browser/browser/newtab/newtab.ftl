@@ -8,9 +8,6 @@
 newtab-page-title = Nova aba
 newtab-settings-button =
     .title = Personalizar sua página de nova aba
-newtab-personalize-button-label = Personalizar
-    .title = Personalizar página de nova aba
-    .aria-label = Personalizar página de nova aba
 newtab-personalize-icon-label =
     .title = Personalizar página de nova aba
     .aria-label = Personalizar página de nova aba
@@ -123,7 +120,7 @@ newtab-menu-show-privacy-info = Nossos patrocinadores e sua privacidade
 newtab-privacy-modal-button-done = Concluído
 newtab-privacy-modal-button-manage = Gerenciar configurações de conteúdo patrocinado
 newtab-privacy-modal-header = Sua privacidade é importante.
-newtab-privacy-modal-paragraph-2 = Além de mostrar histórias cativantes, exibimos também conteúdos relevantes e altamente avaliados de patrocinadores selecionados. Fique tranquilo, strong>seus dados de navegação nunca saem da sua cópia pessoal do { -brand-product-name }</strong> — nós não vemos esses dados, nem nossos patrocinadores.
+newtab-privacy-modal-paragraph-2 = Além de mostrar histórias cativantes, exibimos também conteúdos relevantes e altamente avaliados de patrocinadores selecionados. Fique tranquilo, <strong>seus dados de navegação nunca saem da sua cópia pessoal do { -brand-product-name }</strong> — nós não vemos esses dados, nem nossos patrocinadores.
 newtab-privacy-modal-link = Saiba como a privacidade funciona na página de nova aba
 
 ##
@@ -248,10 +245,4 @@ newtab-custom-pocket-sponsored = Histórias patrocinadas
 newtab-custom-recent-title = Atividade recente
 newtab-custom-recent-subtitle = Uma seleção de sites e conteúdos recentes
 newtab-custom-close-button = Fechar
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Snippets
-newtab-custom-snippets-subtitle = Dicas e novidades da { -vendor-short-name } e do { -brand-product-name }
 newtab-custom-settings = Gerenciar mais configurações
