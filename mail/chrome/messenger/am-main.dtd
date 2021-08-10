@@ -8,7 +8,7 @@
 <!ENTITY accountName.label "Nome da conta:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Identidade padrão">
-<!ENTITY identityDesc.label "Cada conta tem uma identidade, a qual é a informação que as outras pessoas veem quando elas leem as suas mensagens.">
+<!ENTITY identityDesc.label "Cada conta tem uma identidade, a informação que aparece para outras pessoas ao ler suas mensagens.">
 <!ENTITY name.label "Seu nome:">
 <!ENTITY name.accesskey "m">
 <!ENTITY email.label "Endereço de email:">
@@ -17,12 +17,12 @@
 <!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Responder ao endereço:">
 <!ENTITY replyTo.accesskey "s">
-<!ENTITY replyTo.placeholder "Os destinatários responderão para este outro endereço">
+<!ENTITY replyTo.placeholder "Respostas de destinatários serão para este outro endereço">
 <!ENTITY organization.label "Organização:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Texto da assinatura:">
 <!ENTITY signatureText.accesskey "x">
-<!ENTITY signatureHtml.label "Usar HTML (ex.: &lt;b&gt;negrito&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "Usar HTML (por exemplo, &lt;b&gt;negrito&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "Anexar a assinatura a partir de um arquivo (texto, HTML ou imagem):">
 <!ENTITY signatureFile.accesskey "t">
