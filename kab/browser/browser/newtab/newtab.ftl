@@ -8,9 +8,6 @@
 newtab-page-title = Iccer amaynut
 newtab-settings-button =
     .title = Sagen asebter n yiccer-ik amaynut
-newtab-personalize-button-label = Sagen
-    .title = Sagen iccer amaynut
-    .aria-label = Sagen iccer amaynut
 newtab-personalize-icon-label =
     .title = Sagen iccer amaynut
     .aria-label = Sagen iccer amaynut
@@ -123,7 +120,7 @@ newtab-menu-show-privacy-info = Wid yettbeddan fell-aɣ akked tudert-ik tabaḍn
 newtab-privacy-modal-button-done = Immed
 newtab-privacy-modal-button-manage = Sefrek iɣewwaren n ugbur yettwarefden
 newtab-privacy-modal-header = Aqadeṛ n tudert-ik tabaḍnit yeɛna-aɣ.
-newtab-privacy-modal-paragraph-2 = Ɣer tama n beṭṭu n teqsiḍin ijebbden, ad ak-d-nesken daɣen igburen usdiden akked wid yettbeddan fell-ak i d-nefren s telqay. Kkes aɣilif imi isefka-ik n tunigin ur teffɣen ara segunqal i tḥerzeḍ n { -brand-product-name }— ur ten-nettwali ara, ula d wid i yettbeddan fell-aɣ.
+newtab-privacy-modal-paragraph-2 = Ɣer tama n beṭṭu n teqsiḍin ijebbden, ad ak-d-nesken daɣen igburen usdiden akked wid yettbeddan fell-ak i d-nefren s telqay. <strong>Kkes aɣilif imi isefka-ik n tunigin ur teffɣen ara segunqal i tḥerzeḍ n { -brand-product-name }</strong> — ur ten-nettwali ara, ula d wid i yettbeddan fell-aɣ.
 newtab-privacy-modal-link = Lmed amek tettedu tbaḍnit deg yiccer amaynut
 
 ##
@@ -248,10 +245,4 @@ newtab-custom-pocket-sponsored = Tiqṣidin yettwarefden
 newtab-custom-recent-title = Armud n melmi kan
 newtab-custom-recent-subtitle = Tafrant n yismal d ugbur n melmi kan
 newtab-custom-close-button = Mdel
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Tiwzillin
-newtab-custom-snippets-subtitle = Iwellihen d yisallen sɣur { -vendor-short-name } akked { -brand-product-name }
 newtab-custom-settings = Sefrek ugar n yiɣewwaṛen
