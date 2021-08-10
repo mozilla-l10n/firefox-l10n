@@ -13,12 +13,9 @@ login-app-promo-android =
     .alt = Obtela a través de Google Play
 login-app-promo-apple =
     .alt = Descárguea da App Store
-
 login-filter =
     .placeholder = Buscar sesións
-
 create-login-button = Crear novo inicio de sesión
-
 fxaccounts-sign-in-text = Obteña os seus contrasinais doutros dispositivos seus
 fxaccounts-sign-in-button = Conectarse a { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Inicie sesión para sincronizar
@@ -73,7 +70,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Busca os seus inicios de sesión gardados? Configure { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = Busca os teus inicios de sesión gardados? Active a sincronización ou impórteos.
 about-logins-login-intro-heading-logged-in = Non se atoparon outras sesións sincronizadas.
 login-intro-description = Se gardou os seus inicios de sesión en { -brand-product-name } noutro dispositivo, velaquí como conseguilos:
@@ -84,7 +80,6 @@ login-intro-instructions-fxa = Cree ou inicie sesión no seu { -fxaccount-brand-
 login-intro-instructions-fxa-settings = Vaia a Configuración > Sincronizar > Activar a sincronización… Seleccione a caixa de verificación Inicios de sesión e contrasinais.
 login-intro-instructions-fxa-help = Visite <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Asistencia </a> para obter máis axuda.
 about-logins-intro-import = Se os seus inicios de sesión están gardados noutro navegador, pode <a data-l10n-name="import-link"> importalos a { -lockwise-brand-short-name } </a>
-
 about-logins-intro-import2 = Se os seus inicios de sesión están gardados fóra de { -brand-product-name }, pode <a data-l10n-name="import-browser-link">importalos desde outro navegador</a> ou <a data-l10n-name="import-file-link">dun ficheiro</a>
 
 ## Login
@@ -126,13 +121,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Para editar o seu inicio de
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar o inicio de sesión gardado
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Para ver o seu contrasinal, insira as súas credenciais de inicio de sesión en Windows. Isto axuda a protexer a seguridade das súas contas.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = revelar o contrasinal gardado
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Para copiar o seu contrasinal, insira as súas credenciais de inicio de sesión en Windows. Isto axuda a protexer a seguridade das súas contas.
 # This message can be seen when attempting to copy a password in about:logins
@@ -142,7 +135,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copiar o contrasinal 
 ## Master Password notification
 
 master-password-notification-message = Introduza o seu contrasinal principal para ver as sesións e contrasinais gardados
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Para exportar os seus inicios de sesión, insira as súas credenciais de inicio de sesión en Windows. Isto axuda a protexer a seguridade das súas contas.
 # This message can be seen when attempting to export a password in about:logins
@@ -179,25 +171,21 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
-
 about-logins-confirm-remove-dialog-title = Eliminar esta identificación?
 confirm-delete-dialog-message = Non é posíbel desfacer esta acción.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Retirar
         [one] Retirar
        *[other] Retirar todo
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Si, retirar este inicio de sesión
         [one] Si, retirar este inicio de sesión
        *[other] Si, retirar estes inicios de sesión
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Retirar { $count } inicio de sesión?
@@ -209,7 +197,6 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Isto eliminará o inicio de sesión que gardou en { -brand-short-name } e as alertas de ataques que aparezan aquí. Non poderá desfacer esta acción.
        *[other] Isto eliminará os inicios de sesión que gardou en { -brand-short-name } e as alertas de ataques que aparezan aquí. Non poderá desfacer esta acción.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Retirar { $count } inicio de sesión de todos os dispositivos?
@@ -221,14 +208,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Isto elimina todos os inicios  de sesión que gardou en { -brand-short-name } en todos os dispositivos sincronizados co seu { -fxaccount-brand-name }. Isto tamén elimina as alertas de ataques que aparecen aquí. Non poderá desfacer esta acción.
        *[other] Isto elimina todos os inicios de sesión que gardou en { -brand-short-name } en todos os dispositivos sincronizados co seu { -fxaccount-brand-name }. Isto tamén elimina as alertas de ataques que aparecen aquí. Non poderá desfacer esta acción.
     }
-
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión e contrasinais
 about-logins-confirm-export-dialog-message = Os seus contrasinais gardaranse como texto lexible (por exemplo, ConTR@sinaLmaL0) para que calquera que poida abrir o ficheiro exportado poida velos.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
-
 about-logins-alert-import-title = Importación completada
 about-logins-alert-import-message = Ver o resumo detallado da importación
-
 confirm-discard-changes-dialog-title = Descartar os cambios non gardados?
 confirm-discard-changes-dialog-message = Perderanse todos os cambios non gardados.
 confirm-discard-changes-dialog-confirm-button = Descartar
@@ -259,10 +243,8 @@ about-logins-vulnerable-alert-learn-more-link = Máis información
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Xa existe unha entrada para { $loginTitle } con ese nome de usuario. <a data-l10n-name="duplicate-link">Ir á entrada existente? </a>
-
 # This is a generic error message.
 about-logins-error-message-default = Produciuse un erro ao intentar gardar este contrasinal.
-
 
 ## Login Export Dialog
 
@@ -310,13 +292,11 @@ about-logins-import-dialog-items-added =
         [one] <span>Engadiuse unha nova identificación:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Engadíronse novas identificacións:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Actualizada a identificación existente:</span><span data-l10n-name="count">{ $count }</span>
        *[other] <span>Actualizadas as identificacións existentes:</span><span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Duplicar a identificación atopada:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
@@ -328,7 +308,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Erros:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importadas)</span>
     }
 about-logins-import-dialog-done = Feito
-
 about-logins-import-dialog-error-title = Erro de importación
 about-logins-import-dialog-error-conflicting-values-title = Múltiplos valores en conflito para unha identificación
 about-logins-import-dialog-error-conflicting-values-description = Por exemplo: múltiplos nomes de usuario, contrasinais, URL, etc. para unha identificación.
@@ -342,10 +321,8 @@ about-logins-import-dialog-error-no-logins-imported = Non se importaron identifi
 about-logins-import-dialog-error-learn-more = Saber máis
 about-logins-import-dialog-error-try-import-again = Tente importar de novo…
 about-logins-import-dialog-error-cancel = Cancelar
-
 about-logins-import-report-title = Resumo da importación
 about-logins-import-report-description = Inicios de sesión e contrasinais importados ao { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -383,8 +360,8 @@ about-logins-import-report-no-change =
     }
 about-logins-import-report-error =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Erro</div> <div data-l10n-name="not-imported"><div data-l10n-name="not-imported">(non importado)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Erros</div> <div data-l10n-name="not-imported"><div data-l10n-name="not-imported">(non importados)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Erro</div> <div data-l10n-name="not-imported">(non importado)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Erros</div> <div data-l10n-name="not-imported">(non importados)</div>
     }
 
 ## Logins import report page
