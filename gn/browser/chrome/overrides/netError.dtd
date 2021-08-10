@@ -96,7 +96,7 @@ was trying to connect. -->
 <p>Eipurúramo ñanduti atyguáva térã software imba’echu’i’ỹva, ikatu emomarandu hína pytyvõha atýpe. Avei ikatu emomarandu ñanduti ñangarekohárape apañuãi rehegua.</p>">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
-Pe arapapaha ne mohendaha rehegua oĩporã <span id='wrongSystemTime_systemDate2'/>. Ehechajey ne mohendahápepa oĩporã arange, aravo ha avei aravo rendaguasu ag̃agua nde apopyvusy ñemoĩporãme, ha upéi emyenyhẽjey <span class='hostname'/>.
+<p>Pe arapapaha ne mohendaha rehegua oĩporã <span id='wrongSystemTime_systemDate2'/>. Ehechajey ne mohendahápepa oĩporã arange, aravo ha avei aravo rendaguasu ag̃agua nde apopyvusy ñemoĩporãme, ha upéi emyenyhẽjey <span class='hostname'/>.</p>
 <p>Pe nde aravopapaha oĩporãramo, ko ñanduti rendáma ikatu oñembohekovai, ha ndaikatúi mba’eve ejapo emoĩporã hag̃ua. Ikatu emomarandu pe tenda ñangarekohárape ko apañuãi rehegua.</p>
 ">
 

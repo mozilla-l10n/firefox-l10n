@@ -8,9 +8,6 @@
 newtab-page-title = Tendayke Pyahu
 newtab-settings-button =
     .title = Eñemomba’e ne Tendayke Pyahu roguére
-newtab-personalize-button-label = Ñemomba’e
-    .title = Eñemomba’e tendayke pyahúre
-    .aria-label = Eñemomba’e tendayke pyahúre
 newtab-personalize-icon-label =
     .title = Eñemomba’e tendayke pyahúre
     .aria-label = Eñemomba’e tendayke pyahúre
@@ -125,8 +122,8 @@ newtab-privacy-modal-button-manage = Ema’ẽ tetepy mboheko tepyme’ẽpyre
 newtab-privacy-modal-header = Ne ñemigua tuichamba’e.
 newtab-privacy-modal-paragraph-2 =
     Ome’ẽse avei tembiasakue oporombovy’áva, avei rohechauka marandu iporãva,
-    tetepy pytyvõhára poravopyre ohechajeypyre. Ani ejepy’apy, nde kundaha mba’ekuaarã tekorosã
-     araka’eve ndohejái mbohasarã mba’eteéva { -brand-product-name } rehegua: ore ndorohechái ha ore pytyvõhára avei.
+    tetepy pytyvõhára poravopyre ohechajeypyre. Ani ejepy’apy, <strong>nde kundaha mba’ekuaarã tekorosã
+     araka’eve ndohejái mbohasarã mba’eteéva { -brand-product-name } rehegua</strong>: ore ndorohechái ha ore pytyvõhára avei.
 newtab-privacy-modal-link = Eikuaa mba’éicha omba’apo ñemigua tendayke pyahúpe
 
 ##
@@ -251,10 +248,4 @@ newtab-custom-pocket-sponsored = Tembiasakue jehepyme’ẽguáva
 newtab-custom-recent-title = Tembiapo ramovegua
 newtab-custom-recent-subtitle = Tenda jeporavo ha tetepy ramovegua
 newtab-custom-close-button = Mboty
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Mba’epehẽ
-newtab-custom-snippets-subtitle = Ñemoñe’ẽ ha marandu { -vendor-short-name } ha { -brand-product-name } rehegua
 newtab-custom-settings = Eñangareko hetave ñembohekóre
