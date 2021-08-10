@@ -106,7 +106,7 @@
 
 <!ENTITY accnameTitle.label "Nome da conta">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Insira o nome pelo qual você gostaria de referir a esta conta (por exemplo, &quot;Conta do trabalho&quot;, &quot;Conta doméstica&quot; ou &quot;Conta de notícias&quot;).">
+<!ENTITY accnameDesc.label "Insira o nome pelo qual você quer se referir a esta conta (por exemplo, &quot;Trabalho&quot;, &quot;Casa&quot; ou &quot;Notícias&quot;).">
 <!ENTITY accnameLabel.label "Nome da conta:">
 <!ENTITY accnameLabel.accesskey "t">
 
