@@ -45,9 +45,9 @@
 <!ENTITY fontfaceMenu.label "Fonte">
 <!ENTITY fontfaceMenu.accesskey "F">
 <!ENTITY fontVarWidth.label "Largura variável">
-<!ENTITY fontVarWidth.accesskey "P">
+<!ENTITY fontVarWidth.accesskey "v">
 <!ENTITY fontFixedWidth.label "Largura fixa">
-<!ENTITY fontFixedWidth.accesskey "M">
+<!ENTITY fontFixedWidth.accesskey "f">
 <!ENTITY fontFixedWidth.key "t">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "H">
@@ -59,7 +59,7 @@
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Escolha um tamanho da fonte">
 <!ENTITY decreaseFontSize.label "Menor">
-<!ENTITY decreaseFontSize.accesskey "D">
+<!ENTITY decreaseFontSize.accesskey "n">
 <!ENTITY decrementFontSize.key "&lt;">
 <!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Maior">
@@ -95,13 +95,13 @@
 <!ENTITY styleUnderlineCmd.accesskey "S">
 <!ENTITY styleUnderlineCmd.key "u">
 <!ENTITY styleStrikeThruCmd.label "Riscado">
-<!ENTITY styleStrikeThruCmd.accesskey "T">
+<!ENTITY styleStrikeThruCmd.accesskey "R">
 <!ENTITY styleSuperscriptCmd.label "Sobrescrito">
 <!ENTITY styleSuperscriptCmd.accesskey "o">
 <!ENTITY styleSubscriptCmd.label "Subscrito">
 <!ENTITY styleSubscriptCmd.accesskey "u">
 <!ENTITY styleNonbreakingCmd.label "Sem quebra">
-<!ENTITY styleNonbreakingCmd.accesskey "l">
+<!ENTITY styleNonbreakingCmd.accesskey "b">
 <!ENTITY styleEm.label "Ênfase">
 <!ENTITY styleEm.accesskey "e">
 <!ENTITY styleStrong.label "Ênfase mais forte">
@@ -170,7 +170,7 @@
 <!ENTITY ParagraphSelect.tooltip "Escolher um formato de parágrafo">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Corpo do texto">
-<!ENTITY bodyTextCmd.accesskey "N">
+<!ENTITY bodyTextCmd.accesskey "C">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Alinhamento">
