@@ -9,15 +9,11 @@
 
 title = هەواڵی گرنگ
 heading = گۆڕانکاری کرا بەسەر زانیاری تاکەکەسییەکەت لە { -brand-short-name }
-
 changed-title = چی گۆڕاوە؟
-
 resources = سەرچاوەکان:
-
 sync-header = بچۆژوورەوە یان هەژماری { -fxaccount-brand-name } دروست بکە
 sync-label = پۆستی ئەلکترۆنی بنووسە
 sync-input =
     .placeholder = پۆستی ئەلکترۆنی
 sync-button = بەردەوام بە
-sync-terms = بە بەردەوامبوون، تۆ ڕازیت بە  <a data-l10n-name="terms"مەرجەکانی بەکارهێنان</a> و <a data-l10n-name="privacy">سەرنجدانی تایبەتێتی</a>.
 sync-learn = زیاتر بزانە
