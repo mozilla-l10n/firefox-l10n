@@ -35,9 +35,9 @@
 <!ENTITY place.accesskey                      "I">
 <!ENTITY belowText.label                      "abaixo da citação (recomendado)">
 <!ENTITY aboveText.label                      "abaixo da minha resposta (acima da citação)">
-<!ENTITY includeSigOnReply.label              "Incluir a assinatura nas respostas">
+<!ENTITY includeSigOnReply.label              "Incluir assinatura ao responder">
 <!ENTITY includeSigOnReply.accesskey          "o">
-<!ENTITY includeSigOnForward.label            "Incluir a assinatura nos encaminhamentos">
+<!ENTITY includeSigOnForward.label            "Incluir assinatura ao encaminhar">
 <!ENTITY includeSigOnForward.accesskey        "n">
 
 <!ENTITY globalComposingPrefs.label           "Preferências globais de edição…">
