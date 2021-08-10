@@ -15,8 +15,8 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-        [one] { $count } dewindotooɗo daaƴaama gila { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] { $count }rewindotooɓe ndaaƴaama gila { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [one] <b>{ $count }</b> dewindotooɗo daaƴaama gila { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> rewindotooɓe ndaaƴaama gila { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } ina jokki  daaƴde rewindotooɓe e kenorɗe cuuriiɗe, kono mooftataa ɓarakke ko daaƴaa koo.
