@@ -56,5 +56,5 @@ site-data-removing-header = 쿠키 및 사이트 데이터 삭제
 site-data-removing-desc = 쿠키와 사이트 데이터를 삭제하면 웹 사이트에서 로그아웃될 수 있습니다. 변경하시겠습니까?
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
-site-data-removing-single-desc = 쿠키와 사이트 데이터를 삭제하면 웹 사이트에서 로그아웃될 수 있습니다. <strong>{ $baseDomain }</strong>에 대해 쿠키와 사이트 데이터를 삭제하시겠습니까?
+site-data-removing-single-desc = 쿠키와 사이트 데이터를 삭제하면 웹 사이트에서 로그아웃될 수 있습니다. <strong>{ $baseDomain }</strong>의 쿠키와 사이트 데이터를 삭제하시겠습니까?
 site-data-removing-table = 다음 웹 사이트의 쿠키와 사이트 데이터가 삭제됨
