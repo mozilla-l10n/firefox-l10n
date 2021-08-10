@@ -88,9 +88,6 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ի՞նչ կարող եք անել դրա վերաբերյալ։">
 
-<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
-<p>Խնդիրը ամենայն հավանականությամբ, կայքի հետ է, այն լուծելու համար ոչինչ չկա</p>
-">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
 <p>Ձեր համակարգչի ժամացույցը սահմանված է <span id='wrongSystemTime_systemDate2'/>։ Համոզվեք, որ Ձեր համակարգիչում տվյալները, ժամանակը և ժամային գոտին Ձեր համակարգի կարգավորումներում ճիշտ են սահմանված և հետո թարմացրեք <span class='hostname'/>.</p>
