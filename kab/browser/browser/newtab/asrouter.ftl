@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = Ɛreḍ aya: senṭeḍ iccer
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Acuɣer i d-yettban waya
-
 cfr-doorhanger-extension-cancel-button = Mačči tura
     .accesskey = T
-
 cfr-doorhanger-extension-ok-button = Rnu Tura
     .accesskey = N
 cfr-doorhanger-pintab-ok-button = Senṭeḍ iccer-agi
     .accesskey = S
-
 cfr-doorhanger-extension-manage-settings-button = Sefrek Iɣewwaṛen n wahul
     .accesskey = S
-
 cfr-doorhanger-extension-never-show-recommendation = Ur yid-skan ara Ahul Agi
     .accesskey = U
-
 cfr-doorhanger-extension-learn-more-link = Issin ugar
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = S { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Awelleh
 cfr-doorhanger-extension-notification2 = Iwellihen
     .tooltiptext = Iseɣzaf ihulen
     .a11y-announcement = Iseɣzaf ihulen i yellan
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Iwellihen
@@ -67,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } aseqdac
        *[other] { $total } iseqdacen
     }
-
 cfr-doorhanger-pintab-description = Awi anekcum fessusen ɣer yismal-ik i tesseqdaceḍ aṭas. Eǧǧ ismal ldin deg yiccer (xas ma tulseḍ tanekra).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -75,10 +66,8 @@ cfr-doorhanger-pintab-description = Awi anekcum fessusen ɣer yismal-ik i tesseq
 cfr-doorhanger-pintab-step1 = <b>Si s tqeffalt tayeffust</ b> ɣef yiccer i tebɣiḍ ad ɛelqeḍ.
 cfr-doorhanger-pintab-step2 = Fren<b>Siggez iccer</b> seg umuɣ.
 cfr-doorhanger-pintab-step3 = Ma yella asmel yettwalqem ad twaliḍ aggaz anili yettban-d deg iccer-ik iɛelqen.
-
 cfr-doorhanger-pintab-animation-pause = Asteɛfu
 cfr-doorhanger-pintab-animation-resume = Kemmel
-
 
 ## Firefox Accounts Message
 
@@ -100,22 +89,16 @@ cfr-protections-panel-link-text = Issin ugar
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Timahilin timaynutin:
-
 cfr-whatsnew-button =
     .label = Amaynut
     .tooltiptext = Amaynut
-
 cfr-whatsnew-panel-header = Amaynut
-
 cfr-whatsnew-release-notes-link-text = Ɣer tizmilin n lqem.
-
 cfr-whatsnew-fx70-title = { -brand-short-name } yettnaḍaḥ tura ugar ɣef tudert-ik tabaḍnit
 cfr-whatsnew-fx70-body = Lqem aneggaru yesnerna tamahilt n ummesten mgal aḍfaṛ daɣen urǧin yella yessifses am akka, timerna n wawalen uffiren iɣelsanen i yal asmel.
-
 cfr-whatsnew-tracking-protect-title = Mmesten iman-ik seg yineḍfaren.
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } yessewḥal ddeqs n yineḍfaren inmettiyen akked igrismal yettwassnen i yeṭṭafaṛen ayen i txeddmeḍ srid.
 cfr-whatsnew-tracking-protect-link-text = Wali aneqqis-ik
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -126,11 +109,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Si { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Wali aneqqis
-
 cfr-whatsnew-lockwise-backup-title = Sekles awalen-ik uffiren
 cfr-whatsnew-lockwise-backup-body = Tura, sirew-d awalen-ik uffiren iɣelsanen aniɣer i tzemreḍ ad tkecmeḍ sekra wanida teqqneḍ.
 cfr-whatsnew-lockwise-backup-link-text = Rmed asekles
-
 cfr-whatsnew-lockwise-take-title = Awi yid-k awalen-ik uffiren
 cfr-whatsnew-lockwise-take-body = Asna aziraz { -lockwise-brand-short-name } ad k-yeǧǧ ad tkecmeḍ s wudem aɣelsan ɣer wawalen-ik uffiren yettwaskelsen seg yal amkan.
 cfr-whatsnew-lockwise-take-link-text = Awi asnas
@@ -139,9 +120,6 @@ cfr-whatsnew-lockwise-take-link-text = Awi asnas
 
 cfr-whatsnew-searchbar-title = Aru cwiṭ, aff aṭas s ufeggag n tansiwin
 cfr-whatsnew-searchbar-body-topsites = Tura, fren afeggag n tunigin, ad d-timɣur texxamt s iseɣwan ɣer ismal-ik ifazen.
-
-## Search bar
-
 cfr-whatsnew-searchbar-icon-alt-text = Tignit n lemri isimɣuren
 
 ## Picture-in-Picture
@@ -167,7 +145,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Imaṭṭaffen n yidsilen umḍinen weḥlen
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } yessewḥal ddeqs n yidsilen umḍinen i d-ileqḍen talɣut-ik s tuffra ɣef yibenk-ik akked tigawin akken ad ixeddem adellel s useqdec n umaɣnu-ik.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Idsilen umḍinen
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } izmer ad iseḥbes idsilen umḍinen i d-ileqḍen talɣut-ik s tuffra ɣef yibenk-ik akked tigawin akken ad ixeddem adellel s useqdec n umaɣnu-ik.
@@ -220,15 +197,6 @@ cfr-doorhanger-cryptominers-description = Aqadeṛ n tudert-ik tusligt d ayen me
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
-cfr-doorhanger-milestone-heading =
-    { $blockedCount ->
-        [one] { -brand-short-name } iwḥel i { $blockedCount }</b> uneḍfar seg
-       *[other] { $date }!
-    }
-
-# Variables:
-#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
@@ -270,12 +238,8 @@ cfr-whatsnew-protections-icon-alt = Tignit Shield
 
 cfr-whatsnew-better-pdf-header = Tirmit ifazen n PDF
 cfr-whatsnew-better-pdf-body = Imesliyen PDF ttaldayen-d tura srid deg { -brand-short-name }, eǧǧ tiddin n leqdic-ik ɣef wafus.
-
 cfr-doorhanger-milestone-close-button = Mdel
     .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -294,18 +258,6 @@ cfr-doorhanger-fission-primary-button = IH, awi-t
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Issin ugar
     .accesskey = L
-
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
 
 ## Full Video Support CFR message
 
