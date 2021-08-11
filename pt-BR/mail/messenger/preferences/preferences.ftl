@@ -238,8 +238,8 @@ automatic-updates-label =
     .label = Instalar atualizações automaticamente (recomendado: maior segurança)
     .accesskey = a
 check-updates-label =
-    .label = Verificar atualizações, mas permitir que eu escolha quando instalá-las
-    .accesskey = c
+    .label = Verificar atualizações, mas eu escolho quando instalar
+    .accesskey = V
 update-history-button =
     .label = Exibir histórico de atualizações
     .accesskey = l
@@ -393,8 +393,8 @@ close-move-delete =
 display-name-label =
     .value = Nome de exibição:
 condensed-addresses-label =
-    .label = Exibir somente o nome de pessoas em meu catálogo de endereços
-    .accesskey = s
+    .label = Só exibir o nome de exibição de pessoas do meu catálogo de endereços
+    .accesskey = S
 
 ## Compose Tab
 
