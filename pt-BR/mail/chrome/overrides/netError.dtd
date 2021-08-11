@@ -106,9 +106,8 @@ de cookies.</li>
 
 <!ENTITY unknownSocketType.title "Resposta não prevista do servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Certifique-se de que o seu sistema possui o Personal Security Manager 
-instalado.</li> 
-<li>Isto pode ser devido a uma configuração não padrão do servidor.</li> 
+<li>Certifique-se de que seu sistema tem o Personal Security Manager instalado.</li> 
+<li>Isso pode ser devido a uma configuração não padrão do servidor.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Falha na conexão segura">
