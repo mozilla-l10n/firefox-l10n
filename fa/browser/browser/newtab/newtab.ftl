@@ -8,10 +8,6 @@
 newtab-page-title = زبانهٔ جدید
 newtab-settings-button =
     .title = صفحهٔ زبانه جدید را سفارشی کنید
-
-newtab-personalize-button-label = شخصی‌سازی
-    .title = شحصی‌سازی زبانهٔ جدید
-    .aria-label = شحصی‌سازی زبانهٔ جدید
 newtab-personalize-icon-label =
     .title = شحصی‌سازی زبانهٔ جدید
     .aria-label = شحصی‌سازی زبانهٔ جدید
@@ -24,9 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = جستجو
     .aria-label = جستجو
-
 newtab-search-box-search-the-web-text = جستجوی وب
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = با { $engine } جستجو یا آدرسی وارد کنید
@@ -41,12 +35,10 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
     .title = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
     .aria-label = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
-
 newtab-search-box-search-the-web-input =
     .placeholder = جستجوی وب
     .title = جستجوی وب
     .aria-label = جستجوی وب
-
 newtab-search-box-input =
     .placeholder = جستجو در وب
     .aria-label = جستجو در وب
@@ -61,13 +53,11 @@ newtab-topsites-edit-shortcut-header = ویرایش میانبر
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = عنوان را وارد کنید
-
-newtab-topsites-url-label = آدرس
+newtab-topsites-url-label = نشانی
 newtab-topsites-url-input =
-    .placeholder = یک URL تایپ کنید یا بچسبانید
-newtab-topsites-url-validation = URL معتبر الزامی است
-
-newtab-topsites-image-url-label = آدرسِ سفارشی عکس
+    .placeholder = یک نشانی بنویسید یا بچسبانید
+newtab-topsites-url-validation = نشانی معتبر الزامی است
+newtab-topsites-image-url-label = نشانیِ سفارشی عکس
 newtab-topsites-use-image-link = استفاده از یک عکس سفارشی…
 newtab-topsites-image-validation = بارگیری عکس شکست خورد. آدرس دیگری امتحان کنید.
 
@@ -95,12 +85,10 @@ newtab-topsite-sponsored = حمایت شده
 newtab-menu-section-tooltip =
     .title = باز کردن منو
     .aria-label = باز کردن منو
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = حذف
     .aria-label = حذف
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -168,12 +156,10 @@ newtab-label-removed-bookmark = نشانک حذف شد
 newtab-label-recommended = موضوعات داغ
 newtab-label-saved = در { -pocket-brand-name } ذخیره شد
 newtab-label-download = دریافت شد
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · حمایت مالی شده
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -212,12 +198,10 @@ newtab-section-header-pocket = پیشنهاد شده توسط { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = مرور کردن را شروع کنید و شاهد تعداد زیادی مقاله، فیلم و صفحات خوبی باشید که اخیر مشاهده کرده اید یا نشانگ گذاری کرده اید.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = فعلاً تمام شد. بعداً دوباره سر بزن تا مطالب جدیدی از { $provider } ببینی. نمی‌توانی صبر کنی؟ یک موضوع محبوب را انتخاب کن تا مطالب جالب مرتبط از سراسر دنیا را پیدا کنی.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -259,11 +243,4 @@ newtab-custom-pocket-sponsored = محتواهایی از حامیان مالی
 newtab-custom-recent-title = فعالیت‌های اخیر
 newtab-custom-recent-subtitle = منتخبی از سایت‌ها و مطالب اخیر
 newtab-custom-close-button = بستن
-
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = تکه‌ها
-newtab-custom-snippets-subtitle = نکات و اخبار از { -vendor-short-name } و { -brand-product-name }
 newtab-custom-settings = مدیریت تنظیمات بیشتر
