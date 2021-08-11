@@ -29,7 +29,7 @@ que o &brandShortName; esteja autorizado a acessar a web.</li>
 
 <!ENTITY fileNotFound.title "Arquivo não encontrado">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>Verifique se o nome do arquivo possui erros de digitação, como uma letra maiúscula em vez de minúscula.</li> 
+<li>Verifique se o nome do arquivo tem erro de digitação, como uma letra maiúscula em vez de minúscula.</li> 
 <li>Verifique se o arquivo foi movido, renomeado ou excluído.</li> 
 </ul>">
 
