@@ -21,7 +21,7 @@
 <!ENTITY digitalSign.certificate_clear.button "Limpar">
 <!ENTITY digitalSign.certificate_clear.accesskey "L">
 <!ENTITY encryption.certificate.button "Selecionar…">
-<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate.accesskey "c">
 <!ENTITY encryption.certificate_clear.button "Limpar">
 <!ENTITY encryption.certificate_clear.accesskey "m">
 <!ENTITY signingGroupTitle.label "Assinatura digital">
