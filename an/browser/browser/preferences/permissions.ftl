@@ -5,76 +5,69 @@
 permissions-window =
     .title = Excepcions
     .style = width: 48em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adreza d'o puesto web
     .accesskey = a
-
 permissions-block =
     .label = Blocar
     .accesskey = B
-
 permissions-session =
     .label = Permitir por ista sesión
     .accesskey = s
-
 permissions-allow =
     .label = Permitir
     .accesskey = P
-
+permissions-button-off =
+    .label = Desactivar
+    .accesskey = D
+permissions-button-off-temporarily =
+    .label = Desactivar temporalment
+    .accesskey = t
 permissions-site-name =
     .label = Puesto web
-
 permissions-status =
     .label = Estau
-
 permissions-remove =
     .label = Borrar puesto web
     .accesskey = B
-
 permissions-remove-all =
     .label = Borrar totz los puestos web
     .accesskey = t
-
 permissions-button-cancel =
     .label = Cancelar
     .accesskey = C
-
 permissions-button-ok =
     .label = Alzar os cambios
     .accesskey = A
-
 permission-dialog =
     .buttonlabelaccept = Alzar os cambios
     .buttonaccesskeyaccept = A
-
 permissions-autoplay-menu = Per defecto pa totz los puestos web:
-
 permissions-searchbox =
     .placeholder = Mirar puesto web
-
 permissions-capabilities-autoplay-allow =
     .label = Permitir l'audio y lo video
 permissions-capabilities-autoplay-block =
     .label = Blocar l'audio
 permissions-capabilities-autoplay-blockall =
     .label = Blocar l'audio y lo video
-
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Preguntar-me-lo siempre
-
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Blocar
 permissions-capabilities-listitem-allow-session =
     .value = Permitir ta ista sesión
+permissions-capabilities-listitem-off =
+    .value = Desactivau
+permissions-capabilities-listitem-off-temporarily =
+    .value = Desactivau temporalment
 
 ## Invalid Hostname Dialog
 
@@ -96,6 +89,11 @@ permissions-exceptions-cookie-window =
 permissions-exceptions-cookie-desc = Puetz especificar los puestos web a qui se permite siempre u no se permite nunca usar cookies y datos d'o puesto.  Escribe l'adreza exacta d'o puesto que quiers chestionar y fe clic en Blocar, Permitir per esta sesión u Permitir.
 
 ## Exceptions - HTTPS-Only Mode
+
+permissions-exceptions-https-only-window =
+    .title = Excepcions - Modo HTTPS nomás
+    .style = { permissions-window.style }
+permissions-exceptions-https-only-desc = Puetz desactivar lo modo "HTTPS nomás" en pachinas web especificas. { -brand-short-name } no mirará de cambiar a una connexión HTTPS segura en ixes puestos. Las excepcions no s'aplican en as finestras privadas.
 
 ## Exceptions - Pop-ups
 
