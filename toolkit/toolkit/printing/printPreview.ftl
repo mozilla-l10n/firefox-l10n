@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Pachina:
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } de { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Zaguera pachina
-
+printpreview-homearrow-button =
+    .title = Primer pachina
+printpreview-previousarrow-button =
+    .title = Pachina anterior
+printpreview-nextarrow-button =
+    .title = Pachina siguient
+printpreview-endarrow-button =
+    .title = Zaguer pachina
