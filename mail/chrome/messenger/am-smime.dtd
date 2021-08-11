@@ -25,7 +25,7 @@
 <!ENTITY encryption.certificate_clear.button "Limpar">
 <!ENTITY encryption.certificate_clear.accesskey "m">
 <!ENTITY signingGroupTitle.label "Assinatura digital">
-<!ENTITY signMessage2.label "Adicionar minha assinatura digital por padrão">
+<!ENTITY signMessage2.label "Adicionar por padrão minha assinatura digital">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert2.message "Certificado pessoal de assinatura digital:">
 
