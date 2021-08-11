@@ -114,6 +114,14 @@ tab-context-close-tabs =
            *[other] Fechar separadores
         }
     .accesskey = c
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Fechar separador
+            [one] Fechar { $tabCount } separadores
+           *[other] Fechar { $tabCount } separadores
+        }
+    .accesskey = c
 tab-context-move-tabs =
     .label =
         { $tabCount ->
