@@ -16,3 +16,5 @@ calendar-editable-item-multiday-event-icon-continue =
     .alt = Continua evento de vários dias
 calendar-editable-item-multiday-event-icon-end =
     .alt = Termina evento de vários dias
+calendar-editable-item-reminder-icon-alarm =
+    .alt = Está agendado um lembrete de alerta
