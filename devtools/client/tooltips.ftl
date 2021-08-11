@@ -49,6 +49,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Pruebe a 
 inactive-css-not-display-block-on-floated-fix = Intente eliminar <strong>flotante</strong> o agregue<strong> display:block </strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Intente establecer la propiedad de<strong> posición </strong> en algo más que <strong>la estática </strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Intente agregar <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Pruebe  configurar su propiedad <strong>display</strong> a algo diferente de <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Pruebe establecer su propiedad <strong>mostrar</strong> a algo diferente de<strong>tabla-columna</strong>, <strong>table-fila</strong>, <strong>table-de gupo de-columnas</strong>, <strong>tabla-de grupo de-filas</strong> o <strong>tabla de grupo de pies de página</strong>. { learn-more }
 inactive-css-not-table-fix = Intente agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Intente agregar <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, o <strong>overflow:hidden</strong>. { learn-more }
