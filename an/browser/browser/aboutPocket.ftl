@@ -11,11 +11,11 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Anyader etiquetas
-
 pocket-panel-saved-error-generic = I ha habiu una error mirando d'alzar en { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Las etiquetas son limitadas a 25 caracters
 pocket-panel-saved-error-only-links = Nomás se puede alzar vinclos
 pocket-panel-saved-error-not-saved = La pachina no ye alzada
+pocket-panel-saved-error-no-internet = Has d'estar connectau a internet pa poder alzar en { -pocket-brand-name }. Compreba la tuya connexión y torna-lo a intentar.
 pocket-panel-saved-page-removed = Pachina eliminada
 pocket-panel-saved-page-saved = Alzau en { -pocket-brand-name }
 pocket-panel-saved-processing-remove = Borrando la pachina…
@@ -41,3 +41,9 @@ pocket-panel-signup-tagline-story-two = Visualizar en { -pocket-brand-name } qua
 
 ## about:pocket-home panel
 
+pocket-panel-home-my-list = La mía lista
+pocket-panel-home-welcome-back = Bienveniu atra vez!
+pocket-panel-home-paragraph = Puetz fer servir { -pocket-brand-name } pa explorar y alzar pachinas web, articlos, videos, podcasts u tornar ta lo has estau leyendo.
+pocket-panel-home-explore-popular-topics = Explorar los temas populars
+pocket-panel-home-discover-more = Descubrir-ne mas
+pocket-panel-home-explore-more = Explorar
