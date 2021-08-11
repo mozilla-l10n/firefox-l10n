@@ -112,6 +112,13 @@ tab-context-close-tabs =
            *[other] Κλείσιμο καρτελών
         }
     .accesskey = Κ
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Κλείσιμο καρτέλας
+           *[other] Κλείσιμο { $tabCount } καρτελών
+        }
+    .accesskey = Κ
 tab-context-move-tabs =
     .label =
         { $tabCount ->
