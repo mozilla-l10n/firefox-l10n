@@ -111,6 +111,13 @@ tab-context-close-tabs =
            *[other] Sulje välilehdet
         }
     .accesskey = S
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sulje välilehti
+           *[other] Sulje { $tabCount } välilehteä
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
