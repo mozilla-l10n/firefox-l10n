@@ -14,3 +14,9 @@ openpgp-compose-key-status-open-details = Kelola kunci untuk penerima yang dipil
 openpgp-recip-good = baik
 openpgp-recip-missing = tidak ada kunci yang tersedia
 openpgp-recip-none-accepted = tidak ada kunci yang diterima
+openpgp-compose-general-info-alias-learn-more = Pelajari lebih lanjut
+openpgp-compose-alias-status-direct =
+    { $count ->
+       *[other] dipetakan ke { $count } kunci alias
+    }
+openpgp-compose-alias-status-error = kunci alias tidak dapat digunakan/tidak tersedia
