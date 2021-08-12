@@ -14,6 +14,7 @@ openpgp-compose-key-status-open-details = Kelola kunci untuk penerima yang dipil
 openpgp-recip-good = baik
 openpgp-recip-missing = tidak ada kunci yang tersedia
 openpgp-recip-none-accepted = tidak ada kunci yang diterima
+openpgp-compose-general-info-alias = { -brand-short-name } biasanya mempersyaratkan bahwa kunci publik penerima memuat ID pengguna dengan alamat surel yang cocok. Hal ini dapat ditimpa dengan menggunakan aturan alias penerima OpenPGP.
 openpgp-compose-general-info-alias-learn-more = Pelajari lebih lanjut
 openpgp-compose-alias-status-direct =
     { $count ->
