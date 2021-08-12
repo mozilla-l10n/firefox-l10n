@@ -8,6 +8,7 @@
 
 <!ENTITY markAsUnreadCmd.label     "Ei luetuksi">
 <!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markAsUnreadCmd2.key      "u">
 
 <!ENTITY markFlaggedCmd.label     "Lipulla">
 <!ENTITY markFlaggedCmd.accesskey "i">
