@@ -19,11 +19,13 @@ otr-requireEncryption =
     .label = Memerlukan enkripsi ujung-ke-ujung untuk percakapan satu-lawan-satu
 otr-verifyNudge =
     .label = Selalu ingatkan saya untuk memverifikasi kontak yang tidak diverifikasi
-
 otr-notYetAvailable = belum tersedia
-
+otr-require-encryption =
+    .label = Persyaratkan enkripsi ujung ke ujung untuk percakapan satu lawan satu
 otr-require-encryption-info =
     Ketika membutuhkan enkripsi ujung ke ujung, pesan dalam percakapan satu-lawan-satu
     tidak akan dikirim kecuali jika dapat dienkripsi. Menerima pesan yang tidak dienkripsi
     tidak akan ditampilkan sebagai bagian dari percakapan reguler, dan tidak dicatat.
-
+otr-verify-nudge =
+    .label = Selalu ingatkan saya untuk memverifikasi kontak yang belum diverifikasi
+otr-not-yet-available = belum tersedia
