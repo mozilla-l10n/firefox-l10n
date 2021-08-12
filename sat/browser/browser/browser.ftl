@@ -95,6 +95,14 @@ full-screen-exit =
 
 ## Bookmark Panel
 
+bookmark-panel-cancel =
+    .label = ᱵᱟᱹᱰᱨᱟᱹ
+    .accesskey = ᱵ
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
 
 ## Identity Panel
 
@@ -206,6 +214,8 @@ eme-notifications-drm-content-playing = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱛ�
 
 ## Password save/update panel
 
+panel-save-update-username = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱜ ᱧᱩᱛᱩᱢ
+panel-save-update-password = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
 
 ## Add-on removal warning
 

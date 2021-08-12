@@ -19,6 +19,10 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ
     .accesskey = ᱫ
+downloads-cmd-cancel =
+    .tooltiptext = ᱵᱟᱹᱰᱨᱟᱹ
+downloads-cmd-cancel-panel =
+    .aria-label = ᱵᱟᱹᱰᱨᱟᱹ
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = ᱢᱮᱱᱟᱜ ᱯᱚᱴᱚᱢ ᱧᱮᱞ ᱢᱮ
@@ -73,6 +77,10 @@ downloads-cmd-clear-downloads =
 
 ##
 
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = ᱚᱛᱩᱨ ᱟᱲᱜᱩ ᱵᱟᱹᱰᱨᱟᱹᱭ ᱢᱮ
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
@@ -80,8 +88,8 @@ downloads-history =
     .label = जोतो आ़तुर आंड़गो को उदुग मे .
     .accesskey = S
 downloads-clear-downloads-button =
-    .label = आ़तुर आंड़गो को फा़रचा
-    .tooltiptext = फा़रचा पुरा़व एना ,आ़तुर आंड़गो को बा़डरा आर डिगा़व एना .
+    .label = ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
+    .tooltiptext = ᱯᱷᱟᱨᱪᱟ ᱯᱩᱨᱟᱹᱶ ᱮᱱᱟ , ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ ᱵᱟᱹᱰᱨᱟᱹ ᱟᱨ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =

@@ -4,31 +4,24 @@
 
 permissions-close-key =
     .key = w
-
 permissions-block =
     .label = आकोट
     .accesskey = B
-
 permissions-session =
     .label = का़मी ओकतो ला़गित् बाताव एम
     .accesskey = S
-
 permissions-allow =
     .label = बाताव एम
     .accesskey = A
-
 permissions-status =
     .label = दोसा
-
 permissions-button-cancel =
-    .label = बा़डरा़
-    .accesskey = C
-
+    .label = ᱵᱟᱹᱰᱨᱟᱹ
+    .accesskey = ᱵ
 permissions-capabilities-allow =
     .label = बाताव एम
 permissions-capabilities-block =
     .label = आकोट
-
 permissions-capabilities-listitem-allow =
     .value = बाताव एम
 permissions-capabilities-listitem-block =
@@ -49,6 +42,7 @@ permissions-invalid-uri-label = मित् बातावाक् हुय 
 
 ## Exceptions - HTTPS-Only Mode
 
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-desc = आम गोटा दाड़ेयाक् आम ओका वेब साइट को पॉप-ऑप विंडो झिज ला़गित् बाताव एमा.  आम बाताव एम सानाम कान साइट रेयाक् ओना उता़र टिका़ना आर इना़ तायोम बाताव एम ओताय मे.
@@ -60,10 +54,8 @@ permissions-exceptions-popup-desc = आम गोटा दाड़ेयाक
 
 permissions-exceptions-addons-desc = आम गोटा दाड़ेयाक् आ ओका वेब साइट को दो एड-ऑन बोहाल ला़गित् बातावे एमा. आम बाताव एम सानाम कान साइट रेयाक् ओना उता़र ठिका़ना टाइप मे आर इना़ तायोम बाताव एम ओताय मे.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -72,6 +64,7 @@ permissions-exceptions-addons-desc = आम गोटा दाड़ेया�
 
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 

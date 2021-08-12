@@ -5,9 +5,12 @@
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-title = ᱦᱩᱥᱤᱭᱟᱹᱨ ᱛᱮ ᱞᱟᱦᱟᱜ ᱢᱮ
+about-config-intro-warning-button = ᱡᱤᱢᱟ ᱦᱟᱛᱟᱣ ᱢᱮ ᱟᱨ ᱥᱮᱱᱚᱜ ᱢᱮ
 
 ##
 
+about-config-page-title = ᱮᱰᱵᱷᱟᱱᱥ ᱠᱩᱥᱤᱠᱚ
 about-config-search-input1 =
     .placeholder = ᱠᱩᱥᱤᱭᱟᱜ ᱧᱩᱛᱩᱢ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 about-config-show-all = ᱡᱷᱚᱛᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ

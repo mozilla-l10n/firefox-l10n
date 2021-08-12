@@ -49,6 +49,7 @@ about-logins-login-list-alerts-option = ᱦᱚᱥᱤᱭᱟᱹᱨ
 login-list-last-changed-option = ᱢᱩᱪᱟᱹᱫ ᱨᱮ ᱵᱚᱫᱚᱞ ᱞᱮᱱ
 login-list-last-used-option = ᱢᱟᱲᱟᱝ ᱵᱮᱵᱷᱟᱨᱟᱜ
 login-list-intro-title = ᱵᱚᱞᱚ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ
+login-list-intro-description = ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱥᱟᱺᱪᱟᱣ ᱟᱢ { -brand-product-name } ᱨᱮ, ᱚᱱᱟ ᱫᱚ ᱱᱚᱰᱮ ᱩᱫᱩᱜᱼᱚᱜ ᱟ᱾
 about-logins-login-list-empty-search-title = ᱵᱚᱞᱚ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ
 about-logins-login-list-empty-search-description = ᱟᱢᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱥᱟᱞᱟᱜ ᱢᱮᱲᱟᱣᱜ ᱠᱟᱱ ᱛᱮᱞᱟ ᱵᱟᱭ ᱧᱟᱢ ᱞᱟᱱᱟ ᱾
 login-list-item-title-new-login = ᱱᱟᱶᱟ ᱵᱚᱞᱚ
@@ -76,28 +77,68 @@ about-logins-login-item-remove-button = ᱚᱪᱚᱜᱽ
 login-item-origin-label = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱴᱷᱤᱠᱬᱟᱹ
 login-item-origin =
     .placeholder = https://www.example.com
+login-item-username-label = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ
+about-logins-login-item-username =
+    .placeholder = (ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ ᱵᱟᱹᱱᱩᱜᱼᱟ)
 login-item-copy-username-button-text = ᱱᱚᱠᱚᱞ
+login-item-copied-username-button-text = ᱱᱚᱠᱚᱞᱮᱱᱟ!
+login-item-password-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
+login-item-password-reveal-checkbox =
+    .aria-label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱫᱮᱠᱷᱟᱣ
 login-item-copy-password-button-text = ᱱᱚᱠᱚᱞ
+login-item-copied-password-button-text = ᱱᱚᱠᱚᱞᱮᱱᱟ!
+login-item-save-changes-button = ᱵᱚᱫᱚᱞ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+login-item-save-new-button = ᱥᱟᱪᱺᱟᱣ ᱢᱮ
+login-item-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
+login-item-time-changed = ᱢᱟᱲᱟᱝ ᱵᱚᱫᱚᱞᱟᱜ: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = ᱛᱮᱭᱟᱨᱮᱱᱟ: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = ᱢᱟᱲᱟᱝ ᱵᱮᱵᱷᱟᱨᱟᱜ: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ ᱱᱚᱠᱚᱞ ᱢᱮ
 
 ## Master Password notification
 
 
 ## Primary Password notification
 
+master-password-reload-button =
+    .label = ᱵᱚᱞᱚᱱ ᱢᱮ
+    .accesskey = ᱵ
 
 ## Password Sync notification
 
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] { -sync-brand-short-name } ᱚᱯᱥᱚᱱ ᱪᱟᱞᱟᱜ ᱢᱮ
+           *[other] { -sync-brand-short-name } ᱠᱩᱥᱤ ᱴᱷᱮᱱ ᱪᱟᱞᱟᱜ ᱢᱮ
+        }
+    .accesskey = ᱷ
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = ᱫᱩᱦᱲᱟᱹ ᱟᱞᱚᱢ ᱠᱩᱞᱤᱧᱟ
+    .accesskey = ᱫ
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
+confirmation-dialog-dismiss-button =
+    .title = ᱵᱟᱹᱰᱨᱟᱹ
+about-logins-confirm-remove-dialog-title = ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ?
+confirm-delete-dialog-message = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱥᱟᱹᱛ ᱵᱟᱝ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+about-logins-confirm-remove-dialog-confirm-button = ᱚᱪᱚᱜᱽ ᱢᱮ
 
 ## Breach Alert notification
 
@@ -110,6 +151,9 @@ login-item-copy-password-button-text = ᱱᱚᱠᱚᱞ
 
 ## Login Export Dialog
 
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
 
 ## Login Import Dialog
 
@@ -118,6 +162,7 @@ login-item-copy-password-button-text = ᱱᱚᱠᱚᱞ
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-error-cancel = ᱵᱟᱹᱰᱨᱟᱹ
 
 ##
 ## Variables:
