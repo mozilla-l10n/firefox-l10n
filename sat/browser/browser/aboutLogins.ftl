@@ -163,6 +163,7 @@ about-logins-export-file-picker-default-filename = logins.csv
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-error-cancel = ᱵᱟᱹᱰᱨᱟᱹ
+about-logins-import-report-row-description-added = ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 
 ##
 ## Variables:

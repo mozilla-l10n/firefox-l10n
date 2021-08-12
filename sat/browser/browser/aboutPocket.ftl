@@ -11,7 +11,9 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ᱥᱮᱞᱮᱫᱽ ᱢᱮ ᱴᱮᱜᱽ ᱠᱚ
+pocket-panel-saved-processing-tags = ᱴᱮᱜᱽ ᱥᱮᱞᱮᱫᱚᱜ ᱠᱟᱱᱟ…
 pocket-panel-saved-save-tags = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+pocket-panel-saved-tags-saved = ᱴᱮᱜᱽ ᱥᱮᱞᱮᱫ ᱦᱩᱭ
 
 ## about:pocket-signup panel
 
