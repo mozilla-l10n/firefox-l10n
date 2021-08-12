@@ -18,6 +18,12 @@ permissions-session =
 permissions-allow =
     .label = Payagan
     .accesskey = a
+permissions-button-off =
+    .label = Patayin
+    .accesskey = P
+permissions-button-off-temporarily =
+    .label = Pansamantalang patayin
+    .accesskey = P
 permissions-site-name =
     .label = Website
 permissions-status =
@@ -58,6 +64,10 @@ permissions-capabilities-listitem-block =
     .value = Harangin
 permissions-capabilities-listitem-allow-session =
     .value = Payagan ang Session
+permissions-capabilities-listitem-off =
+    .value = Nakapatay
+permissions-capabilities-listitem-off-temporarily =
+    .value = Pansamantalang nakapatay
 
 ## Invalid Hostname Dialog
 
