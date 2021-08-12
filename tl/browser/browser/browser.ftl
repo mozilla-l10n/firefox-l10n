@@ -676,9 +676,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 ## Password save/update panel
 
 panel-save-update-username = Username
+panel-save-update-password = Password
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Alisin { $name }?
 
 ## Remote / Synced tabs
 
+remote-tabs-sync-now = I-sync Ngayon
+
+##
+
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Higit pa...
