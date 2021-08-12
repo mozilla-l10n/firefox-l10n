@@ -14,6 +14,8 @@ appmenuitem-new-window =
     .label = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱚ
 appmenuitem-new-private-window =
     .label = ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱣᱤᱱᱰᱚ
+appmenuitem-addons-and-themes =
+    .label = ᱮᱰᱚᱱᱥ ᱟᱨ ᱛᱷᱮᱢᱥ
 
 ## Zoom and Fullscreen Controls
 
