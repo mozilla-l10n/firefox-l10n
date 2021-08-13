@@ -683,6 +683,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Atsijungti nuo tinklo
     .accesskey = t
+toolbar-overflow-customize-button =
+    .label = Tvarkyti priemonių juostą…
+    .accesskey = T
 
 ## EME notification panel
 
