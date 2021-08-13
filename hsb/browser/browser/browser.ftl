@@ -687,6 +687,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Offline dźěłać
     .accesskey = O
+toolbar-overflow-customize-button =
+    .label = Symbolowu lajstu přiměrić…
+    .accesskey = S
 
 ## EME notification panel
 
