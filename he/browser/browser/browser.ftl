@@ -674,6 +674,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = עבודה לא־מקוונת
     .accesskey = ל
+toolbar-overflow-customize-button =
+    .label = התאמה אישית של סרגל הכלים…
+    .accesskey = ס
 
 ## EME notification panel
 
