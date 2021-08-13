@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Yeny i mung)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Yeny i mung)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Yeny i mung)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Yeny i mung)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -101,7 +99,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Coo manok, nong mapol: Yeny { $engineName } atir ki ii lanyut me kanonge mamegi.
 urlbar-search-tips-redirect-2 = Cak yeny mamegi ki i lanyut me kanonge me neno tam amia ki bot { $engineName } ki yeny mamegi mukato.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Yer yoo macek man me nongo ngo ma imito oyot.
@@ -128,12 +125,10 @@ urlbar-midi-blocked =
     .tooltiptext = I gengo woko nongo MIDI pi kakube man.
 urlbar-install-blocked =
     .tooltiptext = Igengo woko keto med-ikome pi kakube man.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Yub alama buk man ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -143,13 +138,10 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Medi i Lanyut me kanonge
-
 page-action-manage-extension =
     .label = Lo Lamed…
 page-action-remove-from-urlbar =
     .label = Kwany ki i lanyut me kanonge
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -165,15 +157,12 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Iwangi, yeny ki:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Lok ter me yeny
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Lok ter me yeny
-
 search-one-offs-context-open-new-tab =
     .label = Yeny i dirica matidi manyen
     .accesskey = d
@@ -183,7 +172,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ter calo Injin Yeny Makwongo pi Dirica me Mung
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -211,10 +199,8 @@ bookmark-panel-remove =
            *[other] Kwany alama buk { $count }
         }
     .accesskey = K
-
 bookmark-panel-done-button =
     .label = Otum
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -243,7 +229,6 @@ identity-weak-encryption = Potbuk man tiyo ki loko ngec i kod ma goro.
 identity-insecure-login-forms = Donyo iyie ma kiketo gi i potbuk man twero bedo ki goro.
 identity-permissions =
     .value = Twero
-
 identity-permissions-reload-hint = Twero mite ni myero i nwo cano potbuk wek alokaloka otime.
 identity-permissions-empty = Pe imiyo ki kakube man kit twer madito mo keken.
 identity-clear-site-data =
@@ -301,7 +286,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikropon me anywaka:
     .accesskey = M
-
 popup-all-windows-shared = Ki binywako dirica weng ma nen i wang kompiuta ni.
 
 ## WebRTC window or screen share tab switch warning
@@ -317,28 +301,23 @@ sharing-warning-proceed-to-tab =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Yeny onyo ket kanonge
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Yeny onyo ket kanonge
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Ki tye ka loono layeny ki kama bor
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Yeny ki { $name } onyo ket kanonge
-
 urlbar-permissions-granted =
     .tooltiptext = Imiyo ki kakube man twero mukene.
 urlbar-switch-to-tab =
     .value = Lokke bot dirica matidi:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Lamed:
-
 urlbar-go-button =
     .tooltiptext = Cit i kanonge ma i lanyut me gintic kabedo
 urlbar-page-action-button =
@@ -392,12 +371,9 @@ urlbar-result-action-search-tabs = Yeny Dirica matino
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> dong opongo wang kio weng
 fullscreen-warning-no-domain = Gin acoya man dong opongo wang kio
-
-
 fullscreen-exit-button = Kat woko ki i wang kio ma opong (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Kat woko ki i wang kio ma opong (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -443,7 +419,6 @@ bookmarks-tools =
     .label = Gtic me keto alamabuk
 bookmarks-bookmark-edit-panel =
     .label = Yub alama buk man
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -471,6 +446,7 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
 
 
@@ -479,6 +455,9 @@ save-to-pocket-button =
 more-menu-go-offline =
     .label = Ti ma pe ikube iyamo
     .accesskey = T
+toolbar-overflow-customize-button =
+    .label = Yub gitic…
+    .accesskey = Y
 
 ## EME notification panel
 
@@ -491,4 +470,7 @@ eme-notifications-drm-content-playing = Dwon ki vidio mogo i kakube man tiyo ki 
 
 
 ## Remote / Synced tabs
+
+
+##
 
