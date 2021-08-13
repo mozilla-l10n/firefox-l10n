@@ -676,6 +676,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Дербес жұмыс істеу
     .accesskey = Д
+toolbar-overflow-customize-button =
+    .label = Құралдар панелін баптау…
+    .accesskey = б
 
 ## EME notification panel
 
