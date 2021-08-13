@@ -114,6 +114,14 @@ tab-context-close-tabs =
            *[other] Tampar los onglets
         }
     .accesskey = T
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tampar los onglets
+            [one] Tampar 1 onglet
+           *[other] Tampar { $tabCount } onglet
+        }
+    .accesskey = T
 tab-context-move-tabs =
     .label =
         { $tabCount ->
