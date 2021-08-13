@@ -664,6 +664,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Magtrabaho nang Offline
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = I-customize ang Toolbar...
+    .accesskey = C
 
 ## EME notification panel
 
