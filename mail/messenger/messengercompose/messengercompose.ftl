@@ -121,6 +121,13 @@ button-return-receipt =
     .label = Confirmação
     .tooltiptext = Solicitar uma confirmação de leitura desta mensagem
 
+# Encryption
+
+message-to-be-signed-icon =
+    .alt = Assinar mensagem
+message-to-be-encrypted-icon =
+    .alt = Criptografar mensagem
+
 # Addressing Area
 
 to-compose-address-row-label =
