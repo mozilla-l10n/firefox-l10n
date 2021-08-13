@@ -683,6 +683,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Праца па-за сеткаю
     .accesskey = з
+toolbar-overflow-customize-button =
+    .label = Уладкаванне паліцы прылад…
+    .accesskey = У
 
 ## EME notification panel
 
