@@ -327,7 +327,7 @@ identity-enable-mixed-content-blocking =
     .label = Enable protection
     .accesskey = E
 identity-more-info-link-text =
-    .label = More Information
+    .label = More information
 
 ## Window controls
 
