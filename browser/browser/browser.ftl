@@ -680,6 +680,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Працювати автономно
     .accesskey = ю
+toolbar-overflow-customize-button =
+    .label = Налаштувати панель інструментів…
+    .accesskey = Н
 
 ## EME notification panel
 
