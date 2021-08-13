@@ -672,6 +672,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = 脱机工作
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = 定制工具栏…
+    .accesskey = C
 
 ## EME notification panel
 
