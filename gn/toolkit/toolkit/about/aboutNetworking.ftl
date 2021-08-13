@@ -20,6 +20,7 @@ about-networking-active = Myandypyre
 about-networking-idle = okéva
 about-networking-host = Mohendahavusu
 about-networking-tcp = TCP
+about-networking-type = Peteĩchagua
 about-networking-sent = Mondopyre
 about-networking-received = Japyhypyre
 about-networking-family = Pehẽngue
