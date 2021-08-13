@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Hususiy Kezinüv)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Hususiy Kezinüv)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Hususiy Kezinüv)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Hususiy Kezinüv)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -126,12 +124,10 @@ urlbar-canvas-blocked =
     .tooltiptext = Bu sayt içün kanaviçe veriler istihracını bloklağan olasıñız.
 urlbar-midi-blocked =
     .tooltiptext = Bu sayt içün MİDİ irişimini bloklağan olasıñız.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Bu saifeimini tarir et ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -141,13 +137,10 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Adres Çubuğına Ekle
-
 page-action-manage-extension =
     .label = Eklentini İdare Et…
 page-action-remove-from-urlbar =
     .label = Adres Çubuğından Çetleştir
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -164,17 +157,14 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Qıdırma Ayarlarını Deñiştir
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Qıdırma ayarlarını deñiştir
-
 search-one-offs-context-open-new-tab =
     .label = Yañı İlmekte Qıdır
     .accesskey = l
 search-one-offs-context-set-as-default =
     .label = Ögbelgilengen Qıdırma Motorı Olaraq Tesbit Et
     .accesskey = b
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -205,10 +195,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Saqlağanda muarrirni köster
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Tamam
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -225,7 +213,6 @@ identity-passive-loaded = Bu saifeniñ bazı qısımları (meselâ, suretler) em
 identity-active-loaded = Bu saifede imayeni naqabilleştirdiñiz.
 identity-weak-encryption = Bu saife zayıf şifreleme qullana.
 identity-insecure-login-forms = Bu saifede kirsetilgen içeri imzalanışlarğa halel kelebilir.
-
 identity-permissions-reload-hint = Deñişikliklerniñ uyğulanması içün saifeni kene yüklemeñiz kerekebilir.
 identity-permissions-empty = Bu saytqa er angi mahsus ruhsetler bergen degilsiñiz.
 identity-clear-site-data =
@@ -280,7 +267,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = Üleşilecek mikrofon:
     .accesskey = m
-
 popup-all-windows-shared = Ekranıñız üzerindeki körünir pencerelerniñ episi üleşilecek.
 
 ## WebRTC window or screen share tab switch warning
@@ -293,24 +279,19 @@ popup-all-windows-shared = Ekranıñız üzerindeki körünir pencerelerniñ epi
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Qıdırıñız yaki adres kirsetiñiz
-
 urlbar-placeholder =
     .placeholder = Qıdırıñız yaki adres kirsetiñiz
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Kezici uzaqtan muraqabede
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } ile qıdır yaki adresni kirset
-
 urlbar-switch-to-tab =
     .value = İlmekke almaş:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uzantı:
-
 urlbar-go-button =
     .tooltiptext = Qonum Çubuğındaki adreske bar
 urlbar-page-action-button =
@@ -341,12 +322,9 @@ urlbar-result-action-visit = Ziyaret Et
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> şimdi tam-ekrandır
 fullscreen-warning-no-domain = Bu vesiqa şimdi tam-ekrandır
-
-
 fullscreen-exit-button = Tam-Ekrandan Çıq (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tam-Ekrandan Çıq (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -392,7 +370,6 @@ bookmarks-tools =
     .label = Saife-imleme Aletleri
 bookmarks-bookmark-edit-panel =
     .label = Bu Saifeimini Tarir Et
-
 bookmarks-toolbar-menu =
     .label = Saife-imleri Alet Çubuğı
 bookmarks-toolbar-placeholder =
@@ -413,6 +390,7 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
 
 
@@ -421,6 +399,9 @@ save-to-pocket-button =
 more-menu-go-offline =
     .label = Devre-tışı Çalış
     .accesskey = v
+toolbar-overflow-customize-button =
+    .label = Alet Çubuğını Şahsiyleştir…
+    .accesskey = s
 
 ## EME notification panel
 
@@ -433,4 +414,7 @@ eme-notifications-drm-content-playing = Bu sayttaki bazı audio yaki video DRM y
 
 
 ## Remote / Synced tabs
+
+
+##
 
