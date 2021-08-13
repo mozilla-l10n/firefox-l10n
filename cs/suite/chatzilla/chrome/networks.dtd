@@ -12,7 +12,19 @@
 <!ENTITY networkListAdd.tooltip       "Přidat novou síť">
 <!ENTITY networkListEdit.label        "Upravit síť…">
 <!ENTITY networkListEdit.accesskey    "U">
+<!ENTITY networkListEdit.tooltip      "Upravit vybranou síť">
+<!ENTITY networkListRemove.label      "Odebrat síť">
+<!ENTITY networkListRemove.tooltip    "Odebrat vybranou síť">
 
+<!ENTITY serverListUp.label           "Přesunout nahoru">
+<!ENTITY serverListUp.tooltip         "Přesunout vybraný server v seznamu nahoru">
+<!ENTITY serverListDown.label         "Přesunout dolů">
+<!ENTITY serverListDown.tooltip       "Přesunout vybraný server v seznamu dolů">
+<!ENTITY serverListAdd.label          "Přidat server…">
+<!ENTITY serverListAdd.tooltip        "Přidat nový server">
+<!ENTITY serverListEdit.label         "Upravit server…">
+<!ENTITY serverListEdit.accesskey     "">
+<!ENTITY serverListEdit.tooltip       "Upravit vybraný server">
 
 <!-- LOCALIZATION NOTE:
    - *.label are shared between networks-edit and networks-server dialogs
