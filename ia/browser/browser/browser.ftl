@@ -676,6 +676,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Travaliar disconnectite
     .accesskey = T
+toolbar-overflow-customize-button =
+    .label = Personalisar le barra de instrumentos…
+    .accesskey = P
 
 ## EME notification panel
 
