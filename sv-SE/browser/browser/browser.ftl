@@ -676,6 +676,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Arbeta nedkopplad
     .accesskey = b
+toolbar-overflow-customize-button =
+    .label = Anpassa verktygsfält…
+    .accesskey = n
 
 ## EME notification panel
 
