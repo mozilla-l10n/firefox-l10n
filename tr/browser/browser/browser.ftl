@@ -674,6 +674,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Çevrimdışı çalış
     .accesskey = d
+toolbar-overflow-customize-button =
+    .label = Araç çubuğunu özelleştir…
+    .accesskey = u
 
 ## EME notification panel
 
