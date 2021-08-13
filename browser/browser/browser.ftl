@@ -679,6 +679,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Arbejd offline
     .accesskey = o
+toolbar-overflow-customize-button =
+    .label = Tilpas værktøjslinje…
+    .accesskey = T
 
 ## EME notification panel
 
