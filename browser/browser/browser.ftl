@@ -528,6 +528,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Աշխատել անցանց
     .accesskey = տ
+toolbar-overflow-customize-button =
+    .label = Հարմարեցնել Գործիքագոտին...
+    .accesskey = C
 
 ## EME notification panel
 
@@ -546,3 +549,6 @@ panel-save-update-password = Գաղտնաբառ
 remote-tabs-manage-account =
     .label = Կառավարել հաշիվը
 remote-tabs-sync-now = Համաժամեցնել
+
+##
+
