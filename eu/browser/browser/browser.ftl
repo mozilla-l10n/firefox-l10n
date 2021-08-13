@@ -660,6 +660,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Lan egin lineaz kanpo
     .accesskey = o
+toolbar-overflow-customize-button =
+    .label = Pertsonalizatu tresna-barra…
+    .accesskey = P
 
 ## EME notification panel
 
