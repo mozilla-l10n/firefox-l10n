@@ -676,6 +676,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = კავშირგარეშე რეჟიმი
     .accesskey = კ
+toolbar-overflow-customize-button =
+    .label = ხელსაწყოთა ზოლის მორგება…
+    .accesskey = ზ
 
 ## EME notification panel
 
