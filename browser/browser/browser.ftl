@@ -721,6 +721,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Pracovat offline
     .accesskey = l
+toolbar-overflow-customize-button =
+    .label = Nastavení tlačítek a lišt…
+    .accesskey = V
 
 ## EME notification panel
 
