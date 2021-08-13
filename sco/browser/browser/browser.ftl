@@ -676,6 +676,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Wirk Affline
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = Mak Toolbaur Yer Ain…
+    .accesskey = M
 
 ## EME notification panel
 
