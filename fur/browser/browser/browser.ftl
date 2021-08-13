@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Navigazion privade)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Navigazion privade)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Navigazion privade)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Navigazion privade)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -111,7 +109,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Scrîf di mancul, cjate di plui: cîr daurman su { $engineName } doprant la sbare de direzion.
 urlbar-search-tips-redirect-2 = Scomence la tô ricercje inte sbare sbare de direzion par viodi sugjeriments di { $engineName } e de tô cronologjie di navigazion.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Selezione cheste scurte par cjatâ subite ce che ti covente.
@@ -148,12 +145,10 @@ urlbar-midi-blocked =
     .tooltiptext = Tu âs blocât l'acès MIDI par chest sît web.
 urlbar-install-blocked =
     .tooltiptext = Tu âs blocât la instalazion di zontis par chest sît web.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Modifiche chest segnelibri ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -163,15 +158,12 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Zonte ae sbare de direzion
-
 page-action-manage-extension =
     .label = Gjestìs estension…
 page-action-remove-from-urlbar =
     .label = Gjave de sbare de direzion
 page-action-remove-extension =
     .label = Gjave estension
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -187,15 +179,12 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Cheste volte cîr cun:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Impostazions di ricercje
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cambie impostazions di ricercje
-
 search-one-offs-context-open-new-tab =
     .label = Cîr intune gnove schede
     .accesskey = t
@@ -205,14 +194,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Met come motôr di ricercje predefinît pai barcons privâts
     .accesskey = v
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -251,13 +238,10 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Mostre editôr cuant che si salve
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Fat
-
 bookmark-panel-save-button =
     .label = Salve
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -286,7 +270,6 @@ identity-weak-encryption = Cheste pagjine e dopre une cifradure debile.
 identity-insecure-login-forms = Lis credenziâls inseridis in cheste pagjine a podaressin jessi comprometudis.
 identity-permissions =
     .value = Permès
-
 identity-https-only-connection-upgraded = (inzornât a HTTPS)
 identity-https-only-label = Modalitât Dome-HTTPS
 identity-https-only-dropdown-on =
@@ -298,10 +281,8 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Impie la modalitât Dome-HTTPS par chest sît se tu desideris che { -brand-short-name } al inzorni a pene pussibil la conession.
 identity-https-only-info-turn-off2 = Se la pagjine e somee ruvinade, tu podaressisdisativâ la modalitât Dome-HTTPS par chest sît cussì di podê tornâ a cjariâ ichest sît doprant il HTTP malsigûr.
 identity-https-only-info-no-upgrade = No si rive a inzornâ la conession dal HTTP.
-
 identity-permissions-storage-access-header = Cookies inter-sîts
 identity-permissions-storage-access-hint = Chestis parts a puedin doprâ cookies inter-sît e dâts di sît intant che tu stâs su chest sît.
-
 identity-permissions-reload-hint = Tu podaressis vê di tornâ a cjariâ la pagjine par aplicâ lis modifichis.
 identity-permissions-empty = No tu âs concedût a chest sît nissun permès speciâl.
 identity-clear-site-data =
@@ -366,13 +347,11 @@ browser-tab-mute =
         [one] CIDINE SCHEDE
        *[other] CIDINE { $count } SCHEDIS
     }
-
 browser-tab-unmute =
     { $count ->
         [1] ATIVE AUDIO DE SCHEDE
        *[other] ATIVE AUDIO DI { $count } SCHEDIS
     }
-
 browser-tab-unblock =
     { $count ->
         [1] RIPRODÛS SCHEDE
@@ -384,7 +363,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Impuarte segnelibris…
     .tooltiptext = Impuarte i segnelibris su { -brand-short-name } di un altri navigadôr.
-
 bookmarks-toolbar-empty-message = Par vê un acès rapit, met i tiei segnelibris achì te sbare dai segnelibris. <a data-l10n-name="manage-bookmarks">Gjestìs i segnelibris…</a>
 
 ## WebRTC Pop-up notifications
@@ -395,7 +373,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = Microfon di condividi:
     .accesskey = M
-
 popup-select-camera-device =
     .value = Fotocjamare:
     .accesskey = C
@@ -407,26 +384,20 @@ popup-select-microphone-device =
 popup-select-microphone-icon =
     .tooltiptext = Microfon
 popup-all-windows-shared = A vignaran condividûts ducj i barcons visibii sul to schermi.
-
 popup-screen-sharing-not-now =
     .label = No cumò
     .accesskey = c
-
 popup-screen-sharing-never =
     .label = No sta permeti mai
     .accesskey = N
-
 popup-silence-notifications-checkbox = Disabilite lis notifichis di { -brand-short-name } intant che si condivît
 popup-silence-notifications-checkbox-warning = { -brand-short-name } nol visualizarà lis notifichis intant che tu stâs condividint.
-
 popup-screen-sharing-block =
     .label = Bloche
     .accesskey = B
-
 popup-screen-sharing-always-block =
     .label = Bloche simpri
     .accesskey = s
-
 popup-mute-notifications-checkbox = Cidine lis notifichis dal sît web intant che tu condividis
 
 ## WebRTC window or screen share tab switch warning
@@ -442,19 +413,16 @@ sharing-warning-disable-for-session =
 
 enable-devtools-popup-description = Par doprâ lis scurtis F12, vierç prime i struments di disvilup cul menù “Svilupadôr Web”.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Cîr o inserìs une direzion
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Cîr o inserìs une direzion
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Il navigadôr al è controlât di lontan
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -463,7 +431,6 @@ urlbar-remote-control-notification-anchor =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Cîr sul web
     .aria-label = Cîr cun { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -472,36 +439,29 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Inserìs i tiermins di ricercje
     .aria-label = Cîr { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Inserìs i tiermins di ricercje
     .aria-label = Cîr tai segnelibris
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Inserìs i tiermins di ricercje
     .aria-label = Cîr te cronologjie
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Inserìs i tiermins di ricercje
     .aria-label = Cîr tes schedis
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Cîr cun { $name } o inserìs une direzion
-
 urlbar-permissions-granted =
     .tooltiptext = Tu âs dât permès adizionâi a chest sît web.
 urlbar-switch-to-tab =
     .value = Passe ae schede:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estension:
-
 urlbar-go-button =
     .tooltiptext = Va ae direzion specificade te sbare de direzion
 urlbar-page-action-button =
@@ -571,12 +531,9 @@ urlbar-result-action-search-tabs = Cîr tes schedis
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> al è cumò a plen visôr
 fullscreen-warning-no-domain = Chest document al è cumò a plen visôr
-
-
 fullscreen-exit-button = Jes de modalitât plen visôr (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Jes de modalitât plen visôr (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -586,7 +543,6 @@ pointerlock-warning-no-domain = Chest document al à il control dal to pontadôr
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Part di cheste pagjine e je colassade.</strong> Par permeti a { -brand-product-name } di cognossi il motîf di chest probleme e vê risolt prime il probleme, par plasê invie une segnalazion.
-
 crashed-subframe-learnmore-link =
     .value = Plui informazions
 crashed-subframe-submit =
@@ -638,7 +594,6 @@ bookmarks-tools =
     .label = Struments par meti tai segnelibris
 bookmarks-bookmark-edit-panel =
     .label = Modifiche chest segnelibri
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -652,7 +607,6 @@ bookmarks-toolbar-placeholder =
     .title = Elements de sbare dai Segnelibris
 bookmarks-toolbar-placeholder-button =
     .label = Elements de sbare dai segnelibris
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Met tai segnelibris cheste schede
@@ -672,6 +626,7 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -679,7 +634,6 @@ save-to-pocket-button =
 toolbar-addons-themes-button =
     .label = Zontis e temis
     .tooltiptext = Gjestìs lis tôs zontis e i tiei temis ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -695,6 +649,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Lavore fûr rêt
     .accesskey = v
+toolbar-overflow-customize-button =
+    .label = Personalize sbare dai struments…
+    .accesskey = P
 
 ## EME notification panel
 
@@ -721,3 +678,6 @@ addon-removal-abuse-report-checkbox = Segnale cheste estension a { -vendor-short
 remote-tabs-manage-account =
     .label = Gjestìs account
 remote-tabs-sync-now = Sincronize cumò
+
+##
+
