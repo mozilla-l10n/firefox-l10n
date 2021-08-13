@@ -683,6 +683,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Pracuj w trybie offline
     .accesskey = c
+toolbar-overflow-customize-button =
+    .label = Dostosuj pasek narzędzi…
+    .accesskey = D
 
 ## EME notification panel
 
