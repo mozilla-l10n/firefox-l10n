@@ -519,6 +519,9 @@ save-to-pocket-button =
 more-menu-go-offline =
     .label = ऑफ़लाइन काम करें
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = औज़ारपट्टी अनुकूलित करें...
+    .accesskey = C
 
 ## EME notification panel
 
