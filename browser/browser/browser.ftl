@@ -676,6 +676,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Trabalhar offline
     .accesskey = o
+toolbar-overflow-customize-button =
+    .label = Personalizar barra de ferramentas…
+    .accesskey = P
 
 ## EME notification panel
 
