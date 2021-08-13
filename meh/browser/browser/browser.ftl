@@ -589,6 +589,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Satiñu nko conexión
     .accesskey = S
+toolbar-overflow-customize-button =
+    .label = Sá´á vii barra ka̱a̱...
+    .accesskey = C
 
 ## EME notification panel
 
@@ -611,3 +614,6 @@ addon-removal-title = ¿Xina { $name }?
 remote-tabs-manage-account =
     .label = Tetiñu cuenta
 remote-tabs-sync-now = Sincronizar ntañu´u
+
+##
+
