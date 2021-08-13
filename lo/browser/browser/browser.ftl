@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (ການທ່ອງເວັບແບບສ່ວນຕົວ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (ການທ່ອງເວັບແບບສ່ວນຕົວ)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ການທ່ອງເວັບແບບສ່ວນຕົວ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ການທ່ອງເວັບແບບສ່ວນຕົວ)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -91,7 +89,6 @@ urlbar-addons-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ແກ້ໄຂບຸກມາກນີ້ ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -101,13 +98,10 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = ເພີ່ມລົງໃນແຖບທີຢູ່
-
 page-action-manage-extension =
     .label = ຈັດການສ່ວນຂະຫຍາຍ…
 page-action-remove-from-urlbar =
     .label = ລຶບອອກຈາກແຖບທີ່ຢູ່
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -124,17 +118,14 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = ປ່ຽນການຕັ້ງຄ່າການຊອກຫາ
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ປ່ຽນການຕັ້ງຄ່າການຊອກຫາ
-
 search-one-offs-context-open-new-tab =
     .label = ຊອກຫາໃນແທັບໃຫມ່
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = ຕັ້ງເປັນເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -158,10 +149,8 @@ bookmark-panel-cancel =
 bookmark-panel-remove =
     .label = ລຶບ { $count } ບຸກມາກ
     .accesskey = R
-
 bookmark-panel-done-button =
     .label = ສຳເລັດ
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -173,7 +162,6 @@ bookmark-panel =
 identity-connection-internal = ນີ້ເປັນຫນ້າ { -brand-short-name } ທີ່ປອດໄພ.
 identity-passive-loaded = ເນື້ອຫາບາງສ່ວນໃນຫນ້ານີ້ບໍ່ມີຄວາມປອດໄພ (ເຊັ່ນວ່າຮູບພາບ)
 identity-insecure-login-forms = ການປ້ອນຂໍ້ມູນການລັອກອິນທີ່ໃສ່ໄວ້ເທິງຫນ້ານີ້ອາດຈະຖືກບຸກລຸກໄດ້.
-
 identity-permissions-reload-hint = ທ່ານອາດຕ້ອງໂຫລດຫນ້າຄືນໃຫມ່ເພື່ອໃຫ້ການປ່ຽນແປງມີຜົນ.
 identity-permissions-empty = ທ່ານຍັງບໍ່ໄດ້ມອບການອະນຸຍາດພິເສດໃດໆໃຫ້ກັບເວັບໄຊນີ້.
 identity-clear-site-data =
@@ -229,22 +217,17 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
-
 urlbar-placeholder =
     .placeholder = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = ຊອກຫາດ້ວຍ { $name } ຫລື ປ້ອນທີ່ຢູ່ໃສ່
-
 urlbar-switch-to-tab =
     .value = ຍ້າຍໄປແທັບ:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ສ່ວນຂະຫຍາຍ:
-
 urlbar-go-button =
     .tooltiptext = ໄປຫາທີ່ຢູ່ໃນແຖບຕຳແຫນ່ງທີ່ຢູ່
 urlbar-page-action-button =
@@ -273,12 +256,9 @@ urlbar-result-action-visit = ຢ້ຽມຢາມ
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ເຕັມຈໍຢູ່
 fullscreen-warning-no-domain = ເອກະສານນີ້ເຕັມຈໍຢູ່
-
-
 fullscreen-exit-button = ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ (Esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -324,7 +304,6 @@ bookmarks-tools =
     .label = ເຄື່ອງມືບຸກມາກ
 bookmarks-bookmark-edit-panel =
     .label = ແກ້ໄຂບຸກມາກນີ້
-
 bookmarks-toolbar-menu =
     .label = ແຖບເຄື່ອງມືບຸກມາກ
 bookmarks-toolbar-placeholder =
@@ -342,6 +321,7 @@ library-bookmarks-menu =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
 
 
@@ -350,6 +330,9 @@ library-bookmarks-menu =
 more-menu-go-offline =
     .label = ເຮັດວຽກອອບໄລນ໌
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = ປັບແຕ່ງແຖບເຄື່ອງມື…
+    .accesskey = C
 
 ## EME notification panel
 
@@ -362,4 +345,7 @@ eme-notifications-drm-content-playing = ສຽງ ຫລື ວີດີໂອ�
 
 
 ## Remote / Synced tabs
+
+
+##
 
