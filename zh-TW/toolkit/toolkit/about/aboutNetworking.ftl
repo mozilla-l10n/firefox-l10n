@@ -20,6 +20,7 @@ about-networking-active = 使用中
 about-networking-idle = 閒置
 about-networking-host = 主機
 about-networking-tcp = TCP
+about-networking-type = 類型
 about-networking-sent = 已送出
 about-networking-received = 已接收
 about-networking-family = Family
