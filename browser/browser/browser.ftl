@@ -676,6 +676,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Lavurar offline
     .accesskey = o
+toolbar-overflow-customize-button =
+    .label = Modifitgar la trav da simbols…
+    .accesskey = M
 
 ## EME notification panel
 
