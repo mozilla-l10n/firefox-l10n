@@ -492,6 +492,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Trabayar ensin conexón
     .accesskey = T
+toolbar-overflow-customize-button =
+    .label = Personalizar la barra de ferramientes…
+    .accesskey = P
 
 ## EME notification panel
 
