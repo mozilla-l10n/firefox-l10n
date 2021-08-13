@@ -679,6 +679,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Mba’apo ñanduti’ỹre
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = Tembiporu rendáre ñemomba’e…
+    .accesskey = T
 
 ## EME notification panel
 
