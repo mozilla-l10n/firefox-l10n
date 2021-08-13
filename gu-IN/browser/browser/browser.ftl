@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (ખાનગી બ્રાઉઝીંગ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (ખાનગી બ્રાઉઝીંગ)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ખાનગી બ્રાઉઝીંગ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ખાનગી બ્રાઉઝીંગ)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -134,12 +132,10 @@ urlbar-canvas-blocked =
     .tooltiptext = તમે આ વેબસાઇટ માટે કેનવાસ ડેટા નિષ્કર્ષણને અવરોધિત કર્યો છે.
 urlbar-midi-blocked =
     .tooltiptext = તમે આ વેબસાઇટ માટે MIDI ઍક્સેસને અવરોધિત કરી છે.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = આ બુકમાર્ક ({ $shortcut }) માં ફેરફાર કરો
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -149,13 +145,10 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = સરનામાં બારમાં ઉમેરો
-
 page-action-manage-extension =
     .label = એક્સ્ટેંશનનો વહીવટ કરો…
 page-action-remove-from-urlbar =
     .label = સરનામાં બારમાંથી દૂર કરો
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -171,22 +164,18 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = આ સમયે, આની સાથે શોધો:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = શોધ ના સેટિંગ્સ બદલો
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = શોધ ના સેટિંગ્સ બદલો
-
 search-one-offs-context-open-new-tab =
     .label = નવી ટૅબમાં શોધો
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = મૂળભૂત શોધ એંજીન તરીકે સેટ કરો
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -217,10 +206,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = સંપાદક દર્શાવે છે કે જ્યારે બચત
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = પૂર્ણ થયું
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -237,7 +224,6 @@ identity-passive-loaded = આ પૃષ્ઠનાં ભાગો સુરક
 identity-active-loaded = તમે આ પૃષ્ઠ પર રક્ષણ અક્ષમ કર્યું છે.
 identity-weak-encryption = આ પાનું નબળા એન્ક્રિપ્શન વાપરે છે.
 identity-insecure-login-forms = આ પાનાં પર દાખલ લૉગિન્સ ચેડા થઈ શકે છે.
-
 identity-permissions-reload-hint = ફેરફારો લાગુ કરવા માટે તમને પૃષ્ઠને ફરીથી લોડ કરવાની જરૂર પડી શકે છે.
 identity-permissions-empty = તમે આ સાઇટને કોઈ વિશેષ મંજૂરીઓ આપ્યા નથી.
 identity-clear-site-data =
@@ -292,7 +278,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = વહેંચવા માટે માઇક્રોફોન:
     .accesskey = M
-
 popup-all-windows-shared = તમારી સ્ક્રીન પર બધી દૃશ્યમાન વિન્ડો વહેંચાયેલ હશે.
 
 ## WebRTC window or screen share tab switch warning
@@ -305,24 +290,19 @@ popup-all-windows-shared = તમારી સ્ક્રીન પર બધ�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = સરનામું શોધો અથવા દાખલ કરો
-
 urlbar-placeholder =
     .placeholder = સરનામું શોધો અથવા દાખલ કરો
 urlbar-remote-control-notification-anchor =
     .tooltiptext = બ્રાઉઝર રીમોટ કંટ્રોલ હેઠળ છે
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } સાથે શોધો અથવા સરનામું દાખલ કરો
-
 urlbar-switch-to-tab =
     .value = ટૅબને ખસેડો:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = એક્સ્ટેંન્શન:
-
 urlbar-go-button =
     .tooltiptext = સ્થાન પટ્ટીમાં સરનામા પર જાવ
 urlbar-page-action-button =
@@ -353,12 +333,9 @@ urlbar-result-action-visit = મુલાકાત
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> હવે પૂર્ણ સ્ક્રીન છે
 fullscreen-warning-no-domain = આ દસ્તાવેજ હવે પૂર્ણ સ્ક્રીન પર છે
-
-
 fullscreen-exit-button = પૂર્ણ સ્ક્રીનથી બહાર નીકળો (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = પૂર્ણ સ્ક્રીનથી બહાર નીકળો (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -404,7 +381,6 @@ bookmarks-tools =
     .label = બુકમાર્કિંગ સાધનો
 bookmarks-bookmark-edit-panel =
     .label = આ બુકમાર્કમાં ફેરફાર કરો
-
 bookmarks-toolbar-menu =
     .label = બુકમાર્ક્સ ટૂલબાર
 bookmarks-toolbar-placeholder =
@@ -425,6 +401,7 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
 
 
@@ -433,6 +410,9 @@ save-to-pocket-button =
 more-menu-go-offline =
     .label = ઓફલાઈન કામ કરો
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = પોતાની રીતની સાધનપટ્ટી…
+    .accesskey = C
 
 ## EME notification panel
 
@@ -445,4 +425,7 @@ eme-notifications-drm-content-playing = આ સાઇટ પરના કેટ�
 
 
 ## Remote / Synced tabs
+
+
+##
 
