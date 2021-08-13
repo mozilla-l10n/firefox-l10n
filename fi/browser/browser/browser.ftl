@@ -673,6 +673,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Työskentele yhteydettömässä tilassa
     .accesskey = y
+toolbar-overflow-customize-button =
+    .label = Muokkaa työkalupalkkia…
+    .accesskey = M
 
 ## EME notification panel
 
