@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (ಖಾಸಗಿ ವೀಕ್ಷಣೆ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (ಖಾಸಗಿ ವೀಕ್ಷಣೆ)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ಖಾಸಗಿ ವೀಕ್ಷಣೆ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ಖಾಸಗಿ ವೀಕ್ಷಣೆ)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -111,12 +109,10 @@ urlbar-popup-blocked =
     .tooltiptext = ನೀವು ಪಾಪ್-ಅಪ್ ಗಳನ್ನು ಈ ಜಾಲತಾಣದಲ್ಲಿ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.
 urlbar-canvas-blocked =
     .tooltiptext = ಕ್ಯಾನ್ವಸ್ ದತ್ತಾಂಶ ಶೇಖರಿಸುವುದನ್ನು ಈ ಜಾಲತಾಣಕ್ಕೆ ನೀವು ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ತಿದ್ದು ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -126,13 +122,10 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = ವಿಳಾಸದ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ
-
 page-action-manage-extension =
     .label = ವಿಸ್ತರಣೆಯನ್ನು ನಿರ್ವಹಿಸಿ…
 page-action-remove-from-urlbar =
     .label = ವಿಳಾಸದ ಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -149,17 +142,14 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = ಹುಡುಕು ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ‍ಹುಡುಕು ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು
-
 search-one-offs-context-open-new-tab =
     .label = ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ಹುಡುಕು
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್‌ ಆಗಿ ಹೊಂದಿಸು
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -187,7 +177,6 @@ identity-passive-loaded = ಪುಟದ ಕೆಲ ಭಾಗಗಳು ಸುರಕ
 identity-active-loaded = ಈ ಪುಟದಲ್ಲಿ ಸುರಕ್ಷತೆಯನ್ನು ನೀವು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ್ದೀರಿ.
 identity-weak-encryption = ಈ ಪುಟವು ದುರ್ಬಲ ಎನ್‌ಕ್ರಿಪ್ಷನ್‌ ಅನ್ನು ಬಳಸುತ್ತದೆ.
 identity-insecure-login-forms = ಈ ಪುಟದಲ್ಲಿ ನಮೂದಿಸಲಾದ ಲಾಗಿನ್‌ ವಿವರಗಳು ದುರ್ಬಳಕೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ.
-
 identity-permissions-reload-hint = ನಿಮ್ಮ ಬದಲಾವಣೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳಲು ನೀವು ಪುಟವನ್ನು ಪುನಃ ಲೋಡಮಾಡಬೇಕಾಗುತ್ತದೆ.
 identity-permissions-empty = ನೀವು ಈ ತಾಣಕ್ಕೆ ಯಾವುದೆ ಅನುಮತಿಗಳನ್ನು ನೀಡಿಲ್ಲ.
 identity-remove-cert-exception =
@@ -240,7 +229,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = ಹಂಚಲು ಮೈಕ್ರೊಫೋನ್:
     .accesskey = M
-
 popup-all-windows-shared = ನಿಮ್ಮ ತೆರೆಯಲ್ಲಿರುವ ಎಲ್ಲಾ ಗೋಚರಿಸುವ ಕಿಟಕಿಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತದೆ.
 
 ## WebRTC window or screen share tab switch warning
@@ -253,19 +241,15 @@ popup-all-windows-shared = ನಿಮ್ಮ ತೆರೆಯಲ್ಲಿರುವ 
 
 urlbar-default-placeholder =
     .defaultPlaceholder = ವಿಳಾಸವನ್ನು ಹುಡುಕು ಅಥವಾ ನಮೂದಿಸು
-
 urlbar-placeholder =
     .placeholder = ವಿಳಾಸವನ್ನು ಹುಡುಕು ಅಥವಾ ನಮೂದಿಸು
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ದೂರದಿಂದ ವೀಕ್ಷಕವು ನಿಮ್ಮ ಹಿಡಿತದಲ್ಲಿದೆ
-
 urlbar-switch-to-tab =
     .value = ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸು:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ವಿಸ್ತರಣೆ:‍
-
 urlbar-go-button =
     .tooltiptext = ಸ್ಥಿತಿ ಪಟ್ಟಿಯಲ್ಲಿನ ವಿಳಾಸಕ್ಕೆ ತೆರಳು
 urlbar-page-action-button =
@@ -294,12 +278,9 @@ urlbar-result-action-visit = ಬೇಟಿನೀಡಿ
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ಈಗ ಪೂರ್ಣ ತೆರೆಯಲ್ಲಿದೆ
 fullscreen-warning-no-domain = ಈ ದಸ್ತಾವೇಜು ಈಗ ಪೂರ್ಣ ತೆರೆಯಲ್ಲಿದೆ
-
-
 fullscreen-exit-button = ಪೂರ್ಣತೆರೆಯಿಂದ ನಿರ್ಗಮಿಸು (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = ಪೂರ್ಣತೆರೆಯಿಂದ ನಿರ್ಗಮಿಸು (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -345,7 +326,6 @@ bookmarks-tools =
     .label = ಬುಕ್‌ಮಾರ್ಕುಗಳ ಉಪಕರಣಗಳು
 bookmarks-bookmark-edit-panel =
     .label = ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ಸಂಪಾದಿಸು
-
 bookmarks-toolbar-menu =
     .label = ಪುಟಗುರುತುಗಳ ಉಪಕರಣ ಪಟ್ಟಿ
 bookmarks-toolbar-placeholder =
@@ -363,6 +343,7 @@ library-bookmarks-menu =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
 
 
@@ -371,6 +352,9 @@ library-bookmarks-menu =
 more-menu-go-offline =
     .label = ಆಫ್‍ಲೈನ್‍ನಲ್ಲಿ ಕೆಲಸ ಮಾಡು
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು…
+    .accesskey = C
 
 ## EME notification panel
 
@@ -383,4 +367,7 @@ eme-notifications-drm-content-playing = ಈ ತಾಣದಲ್ಲಿರುವ �
 
 
 ## Remote / Synced tabs
+
+
+##
 
