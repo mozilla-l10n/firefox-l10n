@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } ༼སྒེར་གྱི་དྲ་བ་ལྟ་བཤེར༽
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } ༼སྒེར་གྱི་དྲ་བ་ལྟ་བཤེར༽
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - ༼སྒེར་གྱི་དྲ་བ་ལྟ་བཤེར༽
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - ༼སྒེར་གྱི་དྲ་བ་ལྟ་བཤེར༽
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -126,12 +124,10 @@ urlbar-canvas-blocked =
     .tooltiptext = You have blocked canvas data extraction for this website.
 urlbar-midi-blocked =
     .tooltiptext = You have blocked MIDI access for this website.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -141,13 +137,10 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Add to Address Bar
-
 page-action-manage-extension =
     .label = Manage Extension…
 page-action-remove-from-urlbar =
     .label = Remove from Address Bar
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -164,10 +157,8 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = འཚོལ་བཤེར་གྱི་སྒྲིག་འགོད་སྒྱུར་བ
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = འཚོལ་བཤེར་གྱི་སྒྲིག་འགོད་སྒྱུར་བ
-
 search-one-offs-context-open-new-tab =
     .label = ཡན་ལག་ངོས་གསར་བའི་ནང་དུ་འཚོལ་བ
     .accesskey = T
@@ -196,10 +187,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Show editor when saving
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Done
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -216,7 +205,6 @@ identity-passive-loaded = Parts of this page are not secure (such as images).
 identity-active-loaded = You have disabled protection on this page.
 identity-weak-encryption = This page uses weak encryption.
 identity-insecure-login-forms = Logins entered on this page could be compromised.
-
 identity-permissions-reload-hint = You may need to reload the page for changes to apply.
 identity-permissions-empty = You have not granted this site any special permissions.
 identity-clear-site-data =
@@ -271,7 +259,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = Microphone to share:
     .accesskey = M
-
 popup-all-windows-shared = All visible windows on your screen will be shared.
 
 ## WebRTC window or screen share tab switch warning
@@ -284,24 +271,19 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = འཚོལ་བཤེར་དང་ཡང་ན་དྲ་གནས་འཇུག་དགོས
-
 urlbar-placeholder =
     .placeholder = འཚོལ་བཤེར་དང་ཡང་ན་དྲ་གནས་འཇུག་དགོས
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser is under remote control
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name }་ཐོག་ཏུ་འཚོལ་བ་དང་ཡང་ན་དྲ་གནས་བླུག་དགོས
-
 urlbar-switch-to-tab =
     .value = Switch to tab:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ཟུར་སྣོན:
-
 urlbar-go-button =
     .tooltiptext = གནས་ཁོངས་ངོས་ཀྱི་དྲ་གནས་ཐོག་ཏུ་སྐྱོད་པ
 urlbar-page-action-button =
@@ -330,12 +312,9 @@ urlbar-result-action-visit = སྐྱོད་པ།
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> is now full screen
 fullscreen-warning-no-domain = ཡིག་ཆ་འདི་ད་ལྟ་འཆར་ངོས་ཡོངས་ཀྱི་རྣམ་པ་ཡིན
-
-
 fullscreen-exit-button = འཆར་ངོས་ཡོངས་ནས་ཕྱིར་བུད (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = འཆར་ངོས་ཡོངས་ནས་ཕྱིར་བུད (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -381,7 +360,6 @@ bookmarks-tools =
     .label = ཡིག་རྟགས་ཀྱི་ལག་ཆ
 bookmarks-bookmark-edit-panel =
     .label = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག
-
 bookmarks-toolbar-menu =
     .label = ཡིག་རྟགས་ཀྱི་ལག་ཆ་ངོས
 bookmarks-toolbar-placeholder =
@@ -399,6 +377,7 @@ library-bookmarks-menu =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
 
 
@@ -407,6 +386,9 @@ library-bookmarks-menu =
 more-menu-go-offline =
     .label = Work Offline
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = ལག་ཆའི་ངོས་རང་མོས་སྒྲིག་འགོས…
+    .accesskey = C
 
 ## EME notification panel
 
@@ -419,4 +401,7 @@ eme-notifications-drm-content-playing = Some audio or video on this site uses DR
 
 
 ## Remote / Synced tabs
+
+
+##
 
