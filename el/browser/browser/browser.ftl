@@ -672,6 +672,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Εργασία χωρίς σύνδεση
     .accesskey = χ
+toolbar-overflow-customize-button =
+    .label = Προσαρμογή γραμμής εργαλείων…
+    .accesskey = ο
 
 ## EME notification panel
 
