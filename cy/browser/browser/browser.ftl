@@ -695,6 +695,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Gweithio All-lein
     .accesskey = w
+toolbar-overflow-customize-button =
+    .label = Cyfaddasu'r Bar Offer…
+    .accesskey = C
 
 ## EME notification panel
 
