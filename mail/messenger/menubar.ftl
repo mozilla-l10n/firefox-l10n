@@ -49,6 +49,21 @@ toolbar-undelete-button =
 
 ## View
 
+menu-view-repair-text-encoding =
+    .label = Ispravi kodiranje teksta
+    .accesskey = v
 
 ## View / Layout
 
+mail-uidensity-label =
+    .label = Zbijenost
+    .accesskey = Z
+mail-uidensity-compact =
+    .label = Kompaktno
+    .accesskey = K
+mail-uidensity-normal =
+    .label = Normalno
+    .accesskey = N
+mail-uidensity-touch =
+    .label = Za dodir
+    .accesskey = Z
