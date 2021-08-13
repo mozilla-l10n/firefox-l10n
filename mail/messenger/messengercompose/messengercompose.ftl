@@ -61,6 +61,12 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+drop-file-label-attachment =
+    { $count ->
+        [one] Dodaj kao privitak
+        [few] Dodaj kao privitke
+       *[other] Dodaj kao privitke
+    }
 
 # Reorder Attachment Panel
 
@@ -100,6 +106,9 @@ bcc-compose-show-address-row-menuitem =
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Prikaži { bcc-compose-address-row-label.value } polje ({ bcc-compose-show-address-row-menuitem.acceltext })
+many-public-recipients-bcc =
+    .label = Koristi Bcc umjesto toga
+    .accesskey = u
 
 ## Notifications
 
