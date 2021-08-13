@@ -4,6 +4,7 @@
 
 calendar-title = Am mìosachan
 calendar-title-reminder = Cuimhneachain
+calendar-title-notification = Brathan
 calendar-title-category = Roinnean-seòrsa
 dateformat-label =
     .value = Fòrmat teacs nan ceann-là:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = An t-àm bunaiteach ro ghnìomh nuair a sheirmeas caismeachd:
     .accesskey = o
+calendar-notifications-customize-label = Gabhaidh na brathan a ghnàthachadh do gach mìosachan ann an uinneag roghainnean a’ mhìosachain
 category-new-label = Roinn-seòrsa ùr
 category-edit-label = Deasaich roinn
 category-overwrite-title = Rabhadh: Ainm dùbailte

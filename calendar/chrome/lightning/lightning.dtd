@@ -46,6 +46,10 @@
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Chan urrainn dhut, aig an àm seo, seo a chur an comas an dèidh dhut am mìosachan seo a shuidheachadh ann an còmhradh nan roghainnean aige ma dhèiligeas frithealaiche a’ mhìosachain ris an sgeidealachadh.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Chan eil an roghainn seo ri làimh ach ma tha frithealaiche a’ mhìosachain a’ dèiligeadh ris an sgeidealachadh. Ma chuireas tu seo an comas, ceadaichidh seo tilleadh gu sgeidealachadh stannardach a tha stèidhichte air puist-d seach fhàgail aig an fhrithealaiche.">
 
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Brathan">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Roghainnean bhrathan uile-choitcheann…">
+
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Gabh ris">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Gabh ri cuireadh an tachartais">
