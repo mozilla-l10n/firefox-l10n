@@ -664,6 +664,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = ทำงานออฟไลน์
     .accesskey = ฟ
+toolbar-overflow-customize-button =
+    .label = ปรับแต่งแถบเครื่องมือ…
+    .accesskey = ป
 
 ## EME notification panel
 
