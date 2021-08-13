@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Used in networks-edit dialog -->
+<!ENTITY networksEditDialog.title     "Editor sítí">
+<!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
+
+<!ENTITY restoreButton.label          "Obnovit výchozí">
+
+<!ENTITY networkListAdd.label         "Přidat síť…">
+<!ENTITY networkListAdd.tooltip       "Přidat novou síť">
+<!ENTITY networkListEdit.label        "Upravit síť…">
+<!ENTITY networkListEdit.accesskey    "U">
+
+
+<!-- LOCALIZATION NOTE:
+   - *.label are shared between networks-edit and networks-server dialogs
+   - *.accesskey are only used in network-servers dialog -->
+
+<!-- Used in networks-server dialog -->
