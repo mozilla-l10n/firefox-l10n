@@ -675,6 +675,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Trabalhar fòra connexion
     .accesskey = T
+toolbar-overflow-customize-button =
+    .label = Personalizar la barra d'aisinas…
+    .accesskey = P
 
 ## EME notification panel
 
