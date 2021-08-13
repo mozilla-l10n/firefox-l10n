@@ -672,6 +672,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = 오프라인으로 작업
     .accesskey = w
+toolbar-overflow-customize-button =
+    .label = 도구 모음 사용자 지정…
+    .accesskey = C
 
 ## EME notification panel
 
