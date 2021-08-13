@@ -672,6 +672,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Làm việc ngoại tuyến
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = Tùy biến thanh công cụ…
+    .accesskey = C
 
 ## EME notification panel
 
