@@ -4,3 +4,6 @@
 
 calendar-deactivated-notification-events = Tha gach mìosachan à comas an-dràsta fhèin. Cuir mìosachan làithreach ris no cuir fear ùr ris airson tachartasan a chruthachadh is a dheasachadh.
 calendar-deactivated-notification-tasks = Tha gach mìosachan à comas an-dràsta fhèin. Cuir mìosachan làithreach ris no cuir fear ùr ris airson saothraichean a chruthachadh is a dheasachadh.
+calendar-notifications-label = Seall brathan airson tachartasan ri thighinn
+calendar-add-notification-button =
+    .label = Cuir brath ris
