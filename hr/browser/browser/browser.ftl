@@ -675,6 +675,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Izvanmrežni rad
     .accesskey = v
+toolbar-overflow-customize-button =
+    .label = Prilagodi alatnu traku…
+    .accesskey = a
 
 ## EME notification panel
 
