@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (கமுக்க உலாவல்)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (கமுக்க உலாவல்)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (கமுக்க உலாவல்)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (கமுக்க உலாவல்)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -123,12 +121,10 @@ urlbar-canvas-blocked =
     .tooltiptext = திரை தரவு எடுப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.
 urlbar-midi-blocked =
     .tooltiptext = இந்த தளத்தில் MIDI அணுகலை முடக்கியுள்ளீர்கள்.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = இப்புத்தகக்குறியைத் தொகு ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -138,13 +134,10 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = முகவரி பட்டையில் சேர்
-
 page-action-manage-extension =
     .label = நீட்சிகளை நிர்வகி…
 page-action-remove-from-urlbar =
     .label = முகவரி பட்டையிலிருந்து நீக்கு
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -161,17 +154,14 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = தேடல் அமைவுகளை மாற்று
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = தேடல் அமைவுகளை மாற்று
-
 search-one-offs-context-open-new-tab =
     .label = புதிய கீற்றில் தேடு
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = இயல்புநிலை தேடும் பொறியாக அமை
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -202,10 +192,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = சேமிக்கும்பொருட்டு தொகுப்பதைக் காண்பி
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = முடிந்தது
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -222,7 +210,6 @@ identity-passive-loaded = இந்த பக்கத்தின் சில 
 identity-active-loaded = நீங்கள் இப்பக்கத்தில் பாதுகாப்பை முடக்கிவிட்டீர்கள்.
 identity-weak-encryption = இப்பக்கம் பாதுகாப்பற்ற மறைகுறியாக்கத்தைப் பயன்படுத்துகிறது.
 identity-insecure-login-forms = இப்பக்கத்திற்கு வரும் உள்நுழைவுகள் தாக்கப்படலாம்.
-
 identity-permissions-reload-hint = மாற்றங்களைச் செயற்படுத்த பக்கத்தை மீளேற்று.
 identity-permissions-empty = நீங்கள் இத்தளத்துக்கு சிறப்பு அனுமதிகள் எதையும் வழங்கவில்லை.
 identity-clear-site-data =
@@ -277,7 +264,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = பகிர வேண்டிய ஒலிவாங்கி:
     .accesskey = M
-
 popup-all-windows-shared = திரையில் பார்வையிலுள்ள அனைத்து சாளரங்களும் பகிரப்படும்.
 
 ## WebRTC window or screen share tab switch warning
@@ -290,19 +276,15 @@ popup-all-windows-shared = திரையில் பார்வையில�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = சொல்லைத் தேடுங்கள் அல்லது முகவரியை உள்ளிடுங்கள்
-
 urlbar-placeholder =
     .placeholder = சொல்லைத் தேடுங்கள் அல்லது முகவரியை உள்ளிடுங்கள்
 urlbar-remote-control-notification-anchor =
     .tooltiptext = தொலை கட்டுப்பாட்டில் உலாவி
-
 urlbar-switch-to-tab =
     .value = கீற்றுக்கு மாற்று:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = நீட்சிகள்:
-
 urlbar-go-button =
     .tooltiptext = இடப் பட்டையில் முகவரிக்கு செல்லவும்
 urlbar-page-action-button =
@@ -331,12 +313,9 @@ urlbar-result-action-visit = பார்
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> தற்பொழுது முழுத்திரையில்
 fullscreen-warning-no-domain = இவ்வாணம் தற்பொழுது முழுத்திரையில் உள்ளது
-
-
 fullscreen-exit-button = முழுத்திரையிலிருந்து வெளியேறுக (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = முழுத்திரையிலிருந்து வெளியேறுக (Esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -382,7 +361,6 @@ bookmarks-tools =
     .label = புத்தக்குறியிடும் கருவிகள்
 bookmarks-bookmark-edit-panel =
     .label = புத்தகக்குறியைத் திருத்து
-
 bookmarks-toolbar-menu =
     .label = புத்தகக்குறி கருவிப்பட்டை
 bookmarks-toolbar-placeholder =
@@ -400,6 +378,7 @@ library-bookmarks-menu =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
 
 
@@ -408,6 +387,9 @@ library-bookmarks-menu =
 more-menu-go-offline =
     .label = முடக்க நிலை
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = கருவிப்பட்டையை விருப்பமை...
+    .accesskey = C
 
 ## EME notification panel
 
@@ -420,4 +402,7 @@ eme-notifications-drm-content-playing = இந்த தளத்தில் �
 
 
 ## Remote / Synced tabs
+
+
+##
 
