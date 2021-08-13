@@ -586,6 +586,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Lucrează offline
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = Personalizează bara de instrumente…
+    .accesskey = C
 
 ## EME notification panel
 
@@ -605,3 +608,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 remote-tabs-manage-account =
     .label = Gestionează contul
 remote-tabs-sync-now = Sincronizează acum
+
+##
+
