@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (निजी ब्राउजिङ्ग)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (निजी ब्राउजिङ्ग)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (निजी ब्राउजिङ्ग)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (निजी ब्राउजिङ्ग)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -117,12 +115,10 @@ urlbar-canvas-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि क्यानभस डाटाको निकास अवरुद्ध गर्नु भएको छ।
 urlbar-midi-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि MIDI अवरुद्ध गर्नु भएको छ।
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = यस ({ $shortcut }) पुस्तकचिनोलाई सम्पादन गर्नुहोस्
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -132,13 +128,10 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = ठेगानापट्टिमा थप्नुहोस्
-
 page-action-manage-extension =
     .label = एक्स्टेनसन व्यवस्थित गर्नुहोस्
 page-action-remove-from-urlbar =
     .label = ठेगानापट्टिबाट हटाउनुहोस्
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -155,17 +148,14 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = खोज सेटिङ परिवर्तन गर्नुहोस्
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = खोज सेटिङ परिवर्तन गर्नुहोस्
-
 search-one-offs-context-open-new-tab =
     .label = नयाँ ट्याबमा खोज्नुहोस्
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = पूर्वनिर्धारित खोजी इन्जिन बनाउनुहोस्
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -194,7 +184,6 @@ identity-passive-loaded = यो पृष्ठको भागहरू सु
 identity-active-loaded = तपाईँले यो पृष्ठमा संरक्षण अक्षम गर्नुभएको छ।
 identity-weak-encryption = यो पेजले कमजोर इन्क्रिप्सन प्रयोग गर्छ।
 identity-insecure-login-forms = यस पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।
-
 identity-permissions-reload-hint = परिवर्तनहरू लागू हुन पेज पुनः लोड गर्नुहोस्
 identity-permissions-empty = तपाईँले यस साइटलाई कुनै विशेष अनुमति दिनुभएको छैन।
 identity-remove-cert-exception =
@@ -247,7 +236,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = साझेदारी गर्नुपर्ने माइक्रोफोन:
     .accesskey = M
-
 popup-all-windows-shared = तपाईँको स्क्रिन मा सबै देखिने सञ्झ्यालहरू साझेदारी गरिनेछ।
 
 ## WebRTC window or screen share tab switch warning
@@ -260,24 +248,19 @@ popup-all-windows-shared = तपाईँको स्क्रिन मा �
 
 urlbar-default-placeholder =
     .defaultPlaceholder = खोज वा ठेगाना राखनुहोस्।
-
 urlbar-placeholder =
     .placeholder = खोज वा ठेगाना राखनुहोस्।
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ब्राउजर रिमोट कंट्रोल अन्तर्गत छ
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } सँग खोज्नुहोस् वा ठेगाना राखनुहोस्।
-
 urlbar-switch-to-tab =
     .value = यस ट्याबमा स्विच गर्नुहोस्:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = एक्सटेन्सन:
-
 urlbar-go-button =
     .tooltiptext = लोकेसन बारमा भएको स्थानमा जानुहोस्
 urlbar-page-action-button =
@@ -306,12 +289,9 @@ urlbar-result-action-visit = भ्रमण गर्नुहोस्
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> पुरा स्क्रिन अहिले भयो
 fullscreen-warning-no-domain = तपाईँको खाता पुरा पर्दाको भएको छ
-
-
 fullscreen-exit-button = पुरा पर्दाबाट निस्कनुहोस् (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = पुरा स्क्रिनबाट निस्कनुहोस (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -357,7 +337,6 @@ bookmarks-tools =
     .label = पुस्तकचिनो लगाउने उपकरणहरू
 bookmarks-bookmark-edit-panel =
     .label = यो पुस्तकचिनोलाई सम्पादन गर्नुहोस्
-
 bookmarks-toolbar-menu =
     .label = पुस्तकचिनो उपकरणपट्टि
 bookmarks-toolbar-placeholder =
@@ -375,6 +354,7 @@ library-bookmarks-menu =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
 
 
@@ -383,6 +363,9 @@ library-bookmarks-menu =
 more-menu-go-offline =
     .label = अफलाइन कार्य गर्नुहोस्
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = उपकरणपट्टि अनुकुलन गर्नुहोस्…
+    .accesskey = C
 
 ## EME notification panel
 
@@ -395,4 +378,7 @@ eme-notifications-drm-content-playing = यो साइटमा रहेक�
 
 
 ## Remote / Synced tabs
+
+
+##
 
