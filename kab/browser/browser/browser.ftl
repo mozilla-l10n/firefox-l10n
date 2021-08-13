@@ -675,6 +675,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Mahel war tuqqna
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = Sagen afeggag n yifecka…
+    .accesskey = M
 
 ## EME notification panel
 
