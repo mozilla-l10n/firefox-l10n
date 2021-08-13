@@ -687,6 +687,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Offline źěłaś
     .accesskey = O
+toolbar-overflow-customize-button =
+    .label = Symbolowu rědku pśiměriś…
+    .accesskey = S
 
 ## EME notification panel
 
