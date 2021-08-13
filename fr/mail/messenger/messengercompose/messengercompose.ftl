@@ -119,6 +119,13 @@ button-return-receipt =
     .label = Accusé de réception
     .tooltiptext = Demander un accusé de réception pour ce message
 
+# Encryption
+
+message-to-be-signed-icon =
+    .alt = Signer le message
+message-to-be-encrypted-icon =
+    .alt = Chiffrer le message
+
 # Addressing Area
 
 to-compose-address-row-label =
