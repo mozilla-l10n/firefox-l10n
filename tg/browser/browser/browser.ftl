@@ -668,6 +668,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Дар офлайн кор кардан
     .accesskey = Д
+toolbar-overflow-customize-button =
+    .label = Танзимоти навори абзорҳо…
+    .accesskey = C
 
 ## EME notification panel
 
