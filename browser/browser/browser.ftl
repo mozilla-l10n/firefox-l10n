@@ -679,6 +679,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Kapcsolat nélküli munka
     .accesskey = p
+toolbar-overflow-customize-button =
+    .label = Eszköztár testreszabása…
+    .accesskey = E
 
 ## EME notification panel
 
