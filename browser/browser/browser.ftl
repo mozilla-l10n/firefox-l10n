@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Приватно прелистување)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Приватно прелистување)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Приватно прелистување)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Приватно прелистување)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -106,11 +104,8 @@ urlbar-screen-blocked =
 
 page-action-add-to-urlbar =
     .label = Додај во Адресна летна
-
 page-action-remove-from-urlbar =
     .label = Отстрани од Адресна лента
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -127,10 +122,8 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Промени поставки за пребарување
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Промени поставки за пребарување
-
 search-one-offs-context-open-new-tab =
     .label = Пребарај во ново јазиче
     .accesskey = П
@@ -151,10 +144,8 @@ search-one-offs-context-set-as-default =
 bookmark-panel-cancel =
     .label = Откажи
     .accesskey = О
-
 bookmark-panel-done-button =
     .label = Во ред
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -175,7 +166,6 @@ identity-weak-encryption = Оваа страница користи слаба �
 identity-insecure-login-forms = Најавувањата на оваа страница можат да бидат злоупотребени.
 identity-permissions =
     .value = Дозволи
-
 identity-permissions-reload-hint = Можно е да треба да ја превчитате страницата за измените да имаат ефект.
 identity-permissions-empty = Немате активирано специфични дозволи за ова место.
 identity-clear-site-data =
@@ -232,7 +222,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = Микрофон што се споделува:
     .accesskey = м
-
 popup-all-windows-shared = Сите видливи прозорци на вашиот екран ќе бидат споделени.
 
 ## WebRTC window or screen share tab switch warning
@@ -245,21 +234,17 @@ popup-all-windows-shared = Сите видливи прозорци на ваш�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Барај или внеси адреса
-
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Барај или внеси адреса
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Прелистувачот е контролиран далечински
-
 urlbar-switch-to-tab =
     .value = Оди до јазиче:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Проширување:
-
 urlbar-go-button =
     .tooltiptext = Ја отвора адресата во локациската лента
 urlbar-page-action-button =
@@ -286,12 +271,9 @@ urlbar-result-action-search-w-engine = Пребарај со { $engine }
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> сега се прикажува на цел екран
 fullscreen-warning-no-domain = Овој документ сега се прикажува на цел екран
-
-
 fullscreen-exit-button = Излези од приказ на цел екран (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Излези од приказ на цел екран (Esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -337,7 +319,6 @@ bookmarks-tools =
     .label = Алатки за обележување
 bookmarks-bookmark-edit-panel =
     .label = Уреди го овој обележувач
-
 bookmarks-toolbar-menu =
     .label = Алатник со обележувачи
 bookmarks-toolbar-placeholder =
@@ -355,6 +336,7 @@ library-bookmarks-menu =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
 
 
@@ -363,6 +345,9 @@ library-bookmarks-menu =
 more-menu-go-offline =
     .label = Работи локално
     .accesskey = Р
+toolbar-overflow-customize-button =
+    .label = Прилагоди мени…
+    .accesskey = П
 
 ## EME notification panel
 
@@ -374,4 +359,7 @@ more-menu-go-offline =
 
 
 ## Remote / Synced tabs
+
+
+##
 
