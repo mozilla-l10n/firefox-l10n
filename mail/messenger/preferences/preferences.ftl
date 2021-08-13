@@ -47,16 +47,70 @@ privacy-junk-header = Truilleis
 collection-header = Cruinneachadh is cleachdadh dàta le { -brand-short-name }
 collection-description = Tha sinn ag obair gu cruaidh airson an dà chuid roghainnean a thoirt dhut agus dìreach an dàta a chruinneachadh a dh’fheumas sinn airson { -brand-short-name } a sholar dhan a h-uile duine agus airson a leasachadh. Iarraidh sinn cead ort uair sam bith ma bhios feum air dàta pearsanta.
 collection-privacy-notice = Sanas prìobhaideachd
+collection-health-report-telemetry-disabled = Chan eil thu a’ toirt cead dha { -vendor-short-name } tuilleadh airson dàta teicnigeach ’s nan eadar-ghnìomhan a ghlacadh. Thèid dàta sam bith a chaidh a chruinneachadh cheana a sguabadh às am broinn 30 latha.
+collection-health-report-telemetry-disabled-link = Barrachd fiosrachaidh
+collection-health-report =
+    .label = Leig le { -brand-short-name } dàta teicnigeach is dàta mu eadar-ghabhail a chur gu { -vendor-short-name }
+    .accesskey = r
+collection-health-report-link = Barrachd fiosrachaidh
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Tha aithriseadh dàta à comas airson rèiteachadh a’ bhuild seo
+collection-backlogged-crash-reports =
+    .label = Leig le { -brand-short-name } aithisgean tuislidh a chàirn roimhe a chur às do leth
+    .accesskey = c
+collection-backlogged-crash-reports-link = Barrachd fiosrachaidh
+privacy-security-header = Tèarainteachd
+privacy-scam-detection-title = Mothachadh do chleasan-meallaidh
+privacy-anti-virus-title = Bathar an aghaigh bhìorasan
+privacy-certificates-title = Teisteanasan
+chat-pane-header = Cabadaich
+chat-status-title = Staid
+chat-notifications-title = Brathan
+chat-pane-styling-header = Stoidhle
 choose-messenger-language-description = Tagh an cànan a chithear sna clàran-taice, teachdaireachd is brathan o { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Suidhich roghainnean eile...
     .accesskey = l
 confirm-messenger-language-change-description = Ath-thòisich { -brand-short-name } gus na h-atharraichean seo a chur an sàs
 confirm-messenger-language-change-button = Cuir an sàs is ath-thòisich
+update-setting-write-failure-title = Mearachd le sàbhaladh roghainnean an ùrachaidh
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    Thachair { -brand-short-name } ri mearachd agus cha deach an t-atharrachadh seo a shàbhaladh. Thoir an aire gu bheil suidheachadh roghainn an ùrachaidh seo feumach air cead sgrìobhaidh dhan fhaidhle gu h-ìosal. Feuch an càraich thu fhèin no rianaire an t-siostaim a’ mhearachd seo a’ toirt smachd slàn dhan bhuidheann “Users” air an fhaidhle seo.
+    
+    Cha b’ urrainn dhuinn sgrìobhadh dhan fhaidhle: { $path }
+update-in-progress-title = ’Ga ùrachadh
+update-in-progress-message = A bheil thu airson ’s gun cùm { -brand-short-name } a’ dol leis an ùrachadh seo?
+update-in-progress-ok-button = &Tilg air falbh
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Lean air adhart
 addons-button = Leudachain ⁊ ùrlaran
+account-button = Roghainnean a’ chunntais
+open-addons-sidebar-button = Tuilleadain ’s ùrlaran
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chruthachadh, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chruthachadh, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
@@ -75,6 +129,15 @@ restore-default-label =
     .label = Aisig na roghainnean bunaiteach
     .accesskey = r
 default-search-engine = An t-einnsean-luirg bunaiteach
+add-search-engine =
+    .label = Cuir ris o fhaidhle
+    .accesskey = a
+remove-search-engine =
+    .label = Thoir air falbh
+    .accesskey = r
+minimize-to-tray-label =
+    .label = Nuair a bhios { -brand-short-name } ’ga fhìor-lùghdachadh, gluais gun treidhe e
+    .accesskey = g
 new-message-arrival = Nuair a ruigeas teachdaireachd ùr:
 mail-play-sound-label =
     .label =
@@ -104,6 +167,15 @@ customize-alert-label =
 tray-icon-label =
     .label = Seall ìomhaigheag san treidhe
     .accesskey = t
+biff-use-system-alert =
+    .label = Cleachd brath an t-siostaim
+tray-icon-unread-label =
+    .label = Seall ìomhaigheag treidhe airson teachdaireachdan gun leughadh
+    .accesskey = t
+tray-icon-unread-description = Mholamaid seo nuair a chleachdas tu putanan beaga air bàr nan saothair
+mail-system-sound-label =
+    .label = Fuaim bhunaiteach an t-siostaim airson post ùr
+    .accesskey = b
 mail-custom-sound-label =
     .label = Cleachd an fhuaim a leanas
     .accesskey = u
@@ -189,6 +261,9 @@ diskspace-legend = Àite air an diosg
 offline-compact-folder =
     .label = CDùmhlaich na pasgain nan sàbhaladh seo barrachd air
     .accesskey = a
+offline-compact-folder-automatically =
+    .label = Faighnich gach turas ron dùmhlachadh
+    .accesskey = g
 compact-folder-size =
     .value = MB uile gu lèir
 
@@ -253,6 +328,8 @@ quoted-text-color =
     .accesskey = h
 search-input =
     .placeholder = Lorg
+search-handler-table =
+    .placeholder = Criathraich susbaint a-rèir seòrsaichean is gnìomhan
 type-column-label =
     .label = Seòrsa na susbaint
     .accesskey = t
@@ -317,6 +394,8 @@ open-msg-ex-window =
 close-move-delete =
     .label = Dùin uinneag/taba na teachdaireachd nuair a sguabas mi às fear no ma ghluaiseas mi fear
     .accesskey = c
+display-name-label =
+    .value = Ainm-taisbeanaidh:
 condensed-addresses-label =
     .label = Na seall ach an t-ainm-taisbeanaidh airson nan daoine ann an leabhar nan seòladh agam
     .accesskey = s
@@ -419,6 +498,8 @@ add-cloud-account =
 remove-cloud-account =
     .label = Thoir air falbh
     .accesskey = T
+find-cloud-providers =
+    .value = Lorg barrachd solaraichean…
 cloud-account-description = Cuir seirbheis stòrais Filelink ùr ris
 
 ## Privacy Tab
@@ -460,6 +541,11 @@ keep-ask =
 cookies-button =
     .label = Seall na briosgaidean…
     .accesskey = S
+do-not-track-label =
+    .label = Cuir sanas “Na dèan tracadh orm” gu làraichean-lìn a dh’innseas nach eil thu ag iarraidh gun dèanar tracadh ort
+    .accesskey = N
+learn-button =
+    .label = Barrachd fiosrachaidh
 passwords-description = 'S urrainn do { -brand-short-name } na faclan-faire airson gach cunntas agad a chumail 'na chuimhne.
 passwords-button =
     .label = Faclan-faire a chaidh a shàbhaladh…
@@ -471,6 +557,15 @@ master-password-label =
 master-password-button =
     .label = Atharraich am prìomh fhacal-faire…
     .accesskey = c
+primary-password-description = Dìonaidh am prìomh fhacal-faire na faclan-faire uile agad ach feumaidh tu a chur a-steach turas gach seisein.
+primary-password-label =
+    .label = Cleachd prìomh fhacal-faire
+    .accesskey = p
+primary-password-button =
+    .label = Atharraich am prìomh fhacal-faire…
+    .accesskey = c
+forms-primary-pw-fips-title = Tha thu ann am modh FIPS an-dràsta. Feumaidh FIPS prìomh fhacal-faire nach eil falamh.
+forms-master-pw-fips-desc = Dh’fhàillig atharrachadh an fhacail-fhaire
 junk-description = Suidhich na roghainnean bunaiteach agad airson post-truilleis. 'S urrainn dhut roghainnean a shònrachadh ann an "Roghainnean nan cunntasan" aig am bi buaidh air cunntasan fa leth.
 junk-label =
     .label = Nuair a chuireas mi comharra gu bheil teachdaireachd 'na phost-truilleis:
@@ -511,6 +606,12 @@ certificate-ask =
 ocsp-label =
     .label = Cuir ceist air OCSP Responder Servers airson dligheachd nan teisteanasan a dhearbhadh
     .accesskey = C
+certificate-button =
+    .label = Stiùirich na teisteanasan…
+    .accesskey = S
+security-devices-button =
+    .label = Uidheaman tèarainteachd...
+    .accesskey = d
 
 ## Chat Tab
 
@@ -599,6 +700,40 @@ chat-variant-label =
 chat-header-label =
     .label = Seall am bann-cinn
     .accesskey = H
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Lorg sna roghainnean
+           *[other] Lorg sna roghainnean
+        }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-preferences-input =
+    .style = width: 15.4em
+    .placeholder = Lorg sna roghainnean
 
 ## Preferences UI Search Results
 
+search-results-header = Toraidhean luirg
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span data-l10n-name="query"></span>”.
+       *[other] Tha sinn duilich ach chan eil toradh sam bith dhut sna roghainnean airson “<span data-l10n-name="query"></span>”.
+    }
+search-results-help-link = A bheil cobhair a dhìth ort? Tadhail air <a data-l10n-name="url">Taic { -brand-short-name }</a>
