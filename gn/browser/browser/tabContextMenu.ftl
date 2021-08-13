@@ -114,6 +114,14 @@ tab-context-close-tabs =
            *[other] Emboty tendaykekuéra
         }
     .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Emboty tendayke
+            [one] Emboty { $tabCount } tendayke
+           *[other] Emboty { $tabCount } tendaykekuéra
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->
