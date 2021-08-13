@@ -676,6 +676,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Labori malkonektite
     .accesskey = L
+toolbar-overflow-customize-button =
+    .label = Personecigi ilaron…
+    .accesskey = P
 
 ## EME notification panel
 
