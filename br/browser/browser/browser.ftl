@@ -655,6 +655,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Labourat ezlinenn
     .accesskey = z
+toolbar-overflow-customize-button =
+    .label = Personelaat ar varrenn ostilhoù…
+    .accesskey = P
 
 ## EME notification panel
 
