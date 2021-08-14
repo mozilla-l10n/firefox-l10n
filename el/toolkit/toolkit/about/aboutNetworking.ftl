@@ -20,6 +20,7 @@ about-networking-active = Ενεργό
 about-networking-idle = Αδρανές
 about-networking-host = Διακομιστής
 about-networking-tcp = TCP
+about-networking-type = Τύπος
 about-networking-sent = Απεσταλμένα
 about-networking-received = Ληφθέντα
 about-networking-family = Οικογένεια
