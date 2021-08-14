@@ -20,6 +20,7 @@ about-networking-active = פעיל
 about-networking-idle = בהמתנה
 about-networking-host = מארח
 about-networking-tcp = TCP
+about-networking-type = סוג
 about-networking-sent = נשלחו
 about-networking-received = התקבלו
 about-networking-family = משפחה
