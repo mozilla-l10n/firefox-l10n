@@ -71,6 +71,12 @@ about-logins-list-item-breach-icon =
     .title = Sito web coinvolto in violazioni di dati
 about-logins-list-item-vulnerable-password-icon =
   .title = Password vulnerabile
+about-logins-list-section-breach = Siti con violazioni
+about-logins-list-section-vulnerable = Password vulnerabili
+about-logins-list-section-nothing = Nessun avviso
+about-logins-list-section-today = Oggi
+about-logins-list-section-yesterday = Ieri
+about-logins-list-section-week = Ultimi 7 giorni
 
 ## Introduction screen
 
