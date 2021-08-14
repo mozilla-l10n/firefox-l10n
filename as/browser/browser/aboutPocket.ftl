@@ -11,8 +11,8 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = টেগ যোগ কৰক
-
 pocket-panel-saved-error-generic = { -pocket-brand-name }-ত সাঁচি থ'বলৈ চেষ্টা কৰোঁতে কিবা ত্ৰুটি ঘটিছে।
+pocket-panel-saved-error-tag-length = টেগসমূহ 25টা বৰ্ণত সীমাবদ্ধ
 pocket-panel-saved-error-only-links = কেৱল লিংক সাঁচি থ'ব পাৰি
 pocket-panel-saved-error-not-saved = পৃষ্ঠা সাঁচি থোৱা হোৱা নাই
 pocket-panel-saved-error-no-internet = { -pocket-brand-name }-ত সাঁচি থ'বলৈ আপুনি ইণ্টাৰনেটৰ সৈতে সংযোগ কৰিবই লাগিব। অনুগ্ৰহ কৰি ইণ্টাৰনেটৰ সৈতে সংযোগ কৰি পুনৰ চেষ্টা কৰক।
@@ -35,6 +35,7 @@ pocket-panel-signup-login = লগিন কৰক
 pocket-panel-signup-signup-email = ইমেইলেৰে ছাইন আপ কৰক
 pocket-panel-signup-signup-cta = { -pocket-brand-name }-ৰ বাবে ছাইন আপ কৰক। এয়া বিনামূলীয়া।
 pocket-panel-signup-signup-firefox = { -brand-product-name }-এৰে ছাইন আপ কৰক
+pocket-panel-signup-tagline = যিকোনো ডিভাইচত, যিকোনো সময়তেই { -pocket-brand-name }-ত চাবলৈ { -brand-product-name }-ৰ প্ৰবন্ধ আৰু ভিডিঅ'সমূহ সাঁচি থওক।
 pocket-panel-signup-tagline-story-two = { -pocket-brand-name }-ত যিকোনো ডিভাইচত, যেতিয়াই-তেতিয়াই চাওক।
 
 ## about:pocket-home panel
