@@ -83,6 +83,9 @@ serviceworker-empty-suggestions-aboutdebugging2 = View service workers from othe
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = App Manifest
 # Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = You need to add a web app manifest to inspect it here. <a>Learn more</a>
+# Header for the Manifest page when there's no manifest to inspect
 manifest-empty-intro2 = No web app manifest detected
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro-link = Learn how to add a manifest

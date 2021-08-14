@@ -92,6 +92,12 @@
 </ul>
 ">
 
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Quest problem po mintgatant vegnir causà entras deactivar u
+    refusar cookies.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.longDesc "
 <ul>
