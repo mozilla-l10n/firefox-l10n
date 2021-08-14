@@ -36,12 +36,14 @@ pocket-panel-signup-signup-email = ইমেইলেৰে ছাইন আপ 
 pocket-panel-signup-signup-cta = { -pocket-brand-name }-ৰ বাবে ছাইন আপ কৰক। এয়া বিনামূলীয়া।
 pocket-panel-signup-signup-firefox = { -brand-product-name }-এৰে ছাইন আপ কৰক
 pocket-panel-signup-tagline = যিকোনো ডিভাইচত, যিকোনো সময়তেই { -pocket-brand-name }-ত চাবলৈ { -brand-product-name }-ৰ প্ৰবন্ধ আৰু ভিডিঅ'সমূহ সাঁচি থওক।
+pocket-panel-signup-tagline-story-one = { -brand-product-name }-ৰ যিকোনো প্ৰবন্ধ, ভিডিঅ' বা পৃষ্ঠা সাঁচি থ'বলৈ { -pocket-brand-name } বুটামটোত ক্লিক কৰক।
 pocket-panel-signup-tagline-story-two = { -pocket-brand-name }-ত যিকোনো ডিভাইচত, যেতিয়াই-তেতিয়াই চাওক।
 
 ## about:pocket-home panel
 
 pocket-panel-home-my-list = মোৰ তালিকা
 pocket-panel-home-welcome-back = পুনৰ স্বাগতম জনাইছোঁ
+pocket-panel-home-paragraph = আপুনি ৱেবপৃষ্ঠা, প্ৰবন্ধ, ভিডিঅ', পড্‌কাষ্ট অন্বেষণ কৰিবলৈ আৰু সাঁচি থ'বলৈ বা আপুনি পঢ়ি থকাখিনিলৈ ঘূৰি যাবলৈ { -pocket-brand-name } ব্যৱহাৰ কৰিব পাৰে।
 pocket-panel-home-explore-popular-topics = জনপ্ৰিয় বিষয়বোৰ অন্বেষণ কৰক
 pocket-panel-home-discover-more = অধিক আৱিষ্কাৰ কৰক
 pocket-panel-home-explore-more = অন্বেষণ কৰক
