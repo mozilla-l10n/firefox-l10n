@@ -133,6 +133,13 @@ button-return-receipt =
     .label = Povratnica
     .tooltiptext = Zahtevaj potrdilo o prejemu za to sporočilo
 
+# Encryption
+
+message-to-be-signed-icon =
+    .alt = Podpiši sporočilo
+message-to-be-encrypted-icon =
+    .alt = Šifriraj sporočilo
+
 # Addressing Area
 
 to-compose-address-row-label =
