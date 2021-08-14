@@ -7,11 +7,9 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Вилучити поле { $type }
-
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Вилучити поле { $type }
-
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -21,7 +19,6 @@ address-input-type-aria-label =
         [few] { $type } з { $count } адресами. Використовуйте кнопку стрілки вліво для фокусування.
        *[many] { $type } з { $count } адресами. Використовуйте кнопку стрілки вліво для фокусування.
     }
-
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -30,29 +27,22 @@ pill-aria-label =
         [few] { $email }, 1 з { $count }: натисніть Enter для редагування, Delete для вилучення.
        *[many] { $email }, 1 з { $count }: натисніть Enter для редагування, Delete для вилучення.
     }
-
 #   $email (String) - the email address
 pill-tooltip-invalid-address = { $email } — недійсна електронна адреса
-
 #   $email (String) - the email address
 pill-tooltip-not-in-address-book = { $email } немає у вашій адресній книзі
-
 pill-action-edit =
     .label = Змінити адресу
     .accesskey = м
-
 pill-action-move-to =
     .label = Перемістити в поле Кому
     .accesskey = П
-
 pill-action-move-cc =
     .label = Перемістити в поле Копія
     .accesskey = е
-
 pill-action-move-bcc =
     .label = Перемістити в поле Прихована копія
     .accesskey = х
-
 pill-action-expand-list =
     .label = Розгорнути список
     .accesskey = з
@@ -64,33 +54,26 @@ ctrl-cmd-shift-pretty-prefix =
         [macos] ⇧ ⌘{ " " }
        *[other] Ctrl+Shift+
     }
-
 trigger-attachment-picker-key = A
 toggle-attachment-pane-key = M
-
 menuitem-toggle-attachment-pane =
     .label = Панель вкладень
     .accesskey = П
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
-
 toolbar-button-add-attachment =
     .label = Вкласти
     .tooltiptext = Додати вкладення ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
-
 add-attachment-notification-reminder =
     .label = Додати вкладення…
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
-
 menuitem-attach-files =
     .label = Файл(и)
     .accesskey = Ф
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-
 context-menuitem-attach-files =
     .label = Вкласти файл(и)
     .accesskey = л
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
-
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -101,7 +84,6 @@ attachment-bucket-count =
            *[many] { $count } вкладень
         }
     .accesskey = в
-
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
@@ -111,24 +93,19 @@ attachments-placeholder-tooltip =
             [few] { $count } вкладення
            *[many] { $count } вкладень
         }
-
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
-
 expand-attachment-pane-tooltip =
     .tooltiptext = Показати панель вкладень ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-
 collapse-attachment-pane-tooltip =
     .tooltiptext = Приховати панель вкладень ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
-
 drop-file-label-attachment =
     { $count ->
         [one] Додати як вкладення
         [few] Додати як вкладення
        *[many] Додати як вкладення
     }
-
 drop-file-label-inline =
     { $count ->
         [one] Додати всередині вмісту
@@ -146,59 +123,54 @@ move-attachment-right-panel-button =
     .label = Перемістити вправо
 move-attachment-last-panel-button =
     .label = Перемістити останнє
-
 button-return-receipt =
     .label = Підтвердження отримання
     .tooltiptext = Надсилати запит про підтвердження отримання цього повідомлення
+
+# Encryption
+
+message-to-be-signed-icon =
+    .alt = Підписати повідомлення
+message-to-be-encrypted-icon =
+    .alt = Зашифрувати повідомлення
 
 # Addressing Area
 
 to-compose-address-row-label =
     .value = Кому
-
 #   $key (String) - the shortcut key for this field
 to-compose-show-address-row-menuitem =
     .label = Поле { to-compose-address-row-label.value }
     .accesskey = К
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
 to-compose-show-address-row-label =
     .value = { to-compose-address-row-label.value }
     .tooltiptext = Показати { to-compose-address-row-label.value } Поле ({ to-compose-show-address-row-menuitem.acceltext })
-
 cc-compose-address-row-label =
     .value = Копія
-
 #   $key (String) - the shortcut key for this field
 cc-compose-show-address-row-menuitem =
     .label = Поле { cc-compose-address-row-label.value }
     .accesskey = я
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
     .tooltiptext = Показати { cc-compose-address-row-label.value } Поле ({ cc-compose-show-address-row-menuitem.acceltext })
-
 bcc-compose-address-row-label =
     .value = Прихована копія
-
 #   $key (String) - the shortcut key for this field
 bcc-compose-show-address-row-menuitem =
     .label = Поле { bcc-compose-address-row-label.value }
     .accesskey = х
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
-
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
     .tooltiptext = Показати { bcc-compose-address-row-label.value } Поле ({ bcc-compose-show-address-row-menuitem.acceltext })
-
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = { $count } одержувачі у Кому та Копія бачитимуть адресу одне одного. Ви можете уникнути розголошення одержувачів, використовуючи замість цього приховану копію.
-
 many-public-recipients-bcc =
     .label = Використовувати приховану копію натомість
     .accesskey = В
-
 many-public-recipients-ignore =
     .label = Залишити отримувачів видимими
     .accesskey = З
@@ -208,9 +180,7 @@ many-public-recipients-ignore =
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Адреса електронної пошти, що відповідає полю "Від" не знайдена. Повідомлення буде надіслано з використанням поточного поля "Від" і налаштувань адреси електронної пошти { $identity }.
-
 encrypted-bcc-warning = Під час надсилання зашифрованого повідомлення одержувачі прихованих копій не повністю приховані. Усі одержувачі можуть їх ідентифікувати.
-
 encrypted-bcc-ignore-button = Зрозуміло
 
 ## Editing
