@@ -20,6 +20,7 @@ about-networking-active = Дзейны
 about-networking-idle = Бяздзейны
 about-networking-host = Трымальнік
 about-networking-tcp = TCP
+about-networking-type = Тып
 about-networking-sent = Дасланыя
 about-networking-received = Атрыманыя
 about-networking-family = Сям'я
