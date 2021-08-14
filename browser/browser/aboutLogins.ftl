@@ -13,12 +13,9 @@ login-app-promo-android =
     .alt = Telechargiar da Google Play
 login-app-promo-apple =
     .alt = Telechargiar da l'App Store
-
 login-filter =
     .placeholder = Tschertgar datas d'annunzia
-
 create-login-button = Crear datas d'annunzia
-
 fxaccounts-sign-in-text = Acceda a tes pleds-clav cun tut tes apparats
 fxaccounts-sign-in-button = Connectar cun { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = S'annunziar per sincronisar
@@ -55,6 +52,8 @@ login-list-count =
 login-list-sort-label-text = Zavrar tenor:
 login-list-name-option = Num (A-Z)
 login-list-name-reverse-option = Num (Z-A)
+login-list-username-option = Num d'utilisader (A-Z)
+login-list-username-reverse-option = Num d'utilisader (Z-A)
 about-logins-login-list-alerts-option = Avertiments
 login-list-last-changed-option = Ultima midada
 login-list-last-used-option = Ultima utilisaziun
@@ -73,7 +72,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Tschertgas ti tias infurmaziuns d'annunzia memorisadas? Configurescha { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = Tschertgas ti tias infurmaziuns d'annunzia memorisadas? Activescha la sincronisaziun u las importescha.
 about-logins-login-intro-heading-logged-in = Chattà naginas infurmaziuns d'annunzia sincronisadas.
 login-intro-description = Sche ti has memorisà tias infurmaziuns d'annunzia en { -brand-product-name } sin in auter apparat, vegns ti a savair qua co acceder ad ellas:
@@ -84,7 +82,6 @@ login-intro-instructions-fxa = Acceda al u creescha in { -fxaccount-brand-name(c
 login-intro-instructions-fxa-settings = Acceder a Parameters > Sync > Activar la sincronisaziun… Activar la chaschetta da controlla Infurmaziuns d'annunzia e pleds-clav.
 login-intro-instructions-fxa-help = Per agid, visitar <a data-l10n-name="help-link">il support da { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = En cas che las infurmaziuns d'annunzia èn memorisadas en in auter navigatur èsi pussaivel da las <a data-l10n-name="import-link">importar en { -lockwise-brand-short-name }</a>
-
 about-logins-intro-import2 = Sche tias infurmaziuns d'annunzia èn memorisadas ordaifer { -brand-product-name }, pos ti <a data-l10n-name="import-browser-link">las importar dad in auter navigatur</a> u <a data-l10n-name="import-file-link">dad ina datoteca</a>
 
 ## Login
@@ -126,13 +123,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Per modifitgar tia infurmaz
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifitgar l'infurmaziun d'annunzia memorisada
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Per mussar tes pled-clav, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mussar il pled-clav memorisà
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Per copiar tes pled-clav, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
 # This message can be seen when attempting to copy a password in about:logins
@@ -142,7 +137,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copiar il pled-clav m
 ## Master Password notification
 
 master-password-notification-message = Per plaschair endatar tes pled-clav universal per vesair las infurmaziuns d'annunzia memorisadas & ils pleds-clav
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Per exportar tias infurmaziuns d'annunzia, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
 # This message can be seen when attempting to export a password in about:logins
@@ -179,24 +173,20 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Interrumper
 confirmation-dialog-dismiss-button =
     .title = Interrumper
-
 about-logins-confirm-remove-dialog-title = Allontanar questas infurmaziuns d'annunzia?
 confirm-delete-dialog-message = Questa acziun na po betg vegnir revocada.
 about-logins-confirm-remove-dialog-confirm-button = Allontanar
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Allontanar
         [one] Allontanar tut
        *[other] Allontanar tut
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Gea, allontanar questa data d'annunzia
        *[other] Gea, allontanar questas datas d'annunzia
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Allontanar { $count } data d'annunzia?
@@ -207,7 +197,6 @@ about-logins-confirm-remove-all-dialog-message =
         [1] Uschia vegn allontanà la data d'annunzia che ti has memorisà en { -brand-short-name } e tut ils avertiments da sperditas da datas che cumparan qua. Ti na vegns betg a pudair revocar questa acziun.
        *[other] Uschia vegnan allontanadas las datas d'annunzia che ti has memorisà en { -brand-short-name } e tut ils avertiments da sperditas da datas che cumparan qua. Ti na vegns betg a pudair revocar questa acziun.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Allontanar { $count } data d'annunzia da tut ils apparats?
@@ -218,14 +207,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Uschia vegn allontanada la data d'annunzia che ti has memorisà en { -brand-short-name } sin tut ils apparats sincronisads cun il { -fxaccount-brand-name }. Era avertiments da sperditas da datas che cumparan qua vegnan allontanadas. Ti na vegns betg a pudair revocar questa acziun.
        *[other] Uschia vegnan allontanadas tut las datas d'annunzia che ti has memorisà en { -brand-short-name } sin tut ils apparats sincronisads cun il { -fxaccount-brand-name }. Era avertiments da sperditas da datas che cumparan qua vegnan allontanadas. Ti na vegns betg a pudair revocar questa acziun.
     }
-
 about-logins-confirm-export-dialog-title = Exportar infurmaziuns d'annunzia e pleds-clav
 about-logins-confirm-export-dialog-message = Tes pleds-clav vegnan memorisads sco text legibel (p.ex. «M@lPledc1av»), uschia che mintgin che po avrir la datoteca exportada als po vesair.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
-
 about-logins-alert-import-title = L'import è cumplet
 about-logins-alert-import-message = Mussar ina resumaziun detagliada da l'import
-
 confirm-discard-changes-dialog-title = Ignorar las modificaziuns betg memorisadas?
 confirm-discard-changes-dialog-message = Tut las modificaziuns betg memorisadas van a perder.
 confirm-discard-changes-dialog-confirm-button = Ignorar
@@ -256,10 +242,8 @@ about-logins-vulnerable-alert-learn-more-link = Ulteriuras infurmaziuns
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Igl exista gia ina endataziun per { $loginTitle } cun quest num d'utilisader. <a data-l10n-name="duplicate-link">Ir a l'endataziun existenta?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Ina errur è succedida durant l'emprova da memorisar quest pled-clav.
-
 
 ## Login Export Dialog
 
@@ -306,12 +290,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Novas infurmaziuns d'annunzia agiuntadas:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Infurmaziuns d'annunzia existentas actualisadas:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Duplicats dad infurmaziuns d'annunzia:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(betg importà)</span>
@@ -321,7 +303,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Errurs:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(betg importà)</span>
     }
 about-logins-import-dialog-done = Finì
-
 about-logins-import-dialog-error-title = Errur d'import
 about-logins-import-dialog-error-conflicting-values-title = Pliras valurs divergentas per ina annunzia
 about-logins-import-dialog-error-conflicting-values-description = Per exempel: plirs nums d'utilisader, pleds-clav, URLs etc. per ina annunzia.
@@ -335,10 +316,8 @@ about-logins-import-dialog-error-no-logins-imported = N'importà naginas datas d
 about-logins-import-dialog-error-learn-more = Ulteriuras infurmaziuns
 about-logins-import-dialog-error-try-import-again = Reempruvar dad importar…
 about-logins-import-dialog-error-cancel = Interrumper
-
 about-logins-import-report-title = Resumaziun da l'import
 about-logins-import-report-description = Annunzias e pleds-clav importads en { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row
