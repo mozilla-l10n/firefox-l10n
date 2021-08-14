@@ -113,6 +113,15 @@ tab-context-close-tabs =
            *[other] Затвори картице
         }
     .accesskey = З
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Затвори картицу
+            [one] Затвори { $tabCount } картицу
+            [few] Затвори { $tabCount } картице
+           *[other] Затвори { $tabCount } картица
+        }
+    .accesskey = З
 tab-context-move-tabs =
     .label =
         { $tabCount ->
