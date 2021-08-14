@@ -11,7 +11,6 @@ appmenuitem-update-banner3 =
     .label-update-manual = আপডেট উপলব্ধ — এতিয়াই ডাউনল'ড কৰক
     .label-update-unsupported = আপডেট কৰিব পৰা নগ'ল — ছিষ্টেম অসংগত
     .label-update-restart = আপডেট উপলব্ধ — এতিয়াই পুনৰাৰম্ভ কৰক
-
 appmenuitem-protection-dashboard-title = সুৰক্ষা ডেশ্বব'ৰ্ড
 appmenuitem-customize-mode =
     .label = স্বনিৰ্বাচন…
@@ -44,7 +43,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = এপ্লিকেশ্যনৰ মেন্যু বন্ধ কৰক
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,7 +54,6 @@ appmenuitem-zoom-enlarge =
     .label = জুম ইন কৰক
 appmenuitem-zoom-reduce =
     .label = জুম আউট কৰক
-
 appmenuitem-fullscreen =
     .label = পূৰ্ণপৰ্দা
 
@@ -64,12 +61,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = এতিয়া সংমিহলি কৰক
-
 appmenu-remote-tabs-sign-into-sync =
     .label = ছিংক কৰিবলৈ ছাইন ইন কৰক…
 appmenu-remote-tabs-turn-on-sync =
     .label = ছিংক চালু কৰক…
-
 appmenuitem-fxa-toolbar-sync-now2 = এতিয়াই ছিংক কৰক
 appmenuitem-fxa-manage-account = একাউণ্ট পৰিচালনা কৰক
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -83,14 +78,12 @@ appmenu-fxa-signed-in-label = ছাইন ইন কৰক
 appmenu-fxa-setup-sync =
     .label = ছিংক কৰা চালু কৰক…
 appmenu-fxa-show-more-tabs = আৰু টেব দেখুৱাওক
-
 appmenuitem-save-page =
     .label = এই ধৰণে পৃষ্ঠা সংৰক্ষণ কৰক…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = নতুন কি আছে
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -103,40 +96,33 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = অধিক তথ্য প্ৰকাশ কৰক
-
 profiler-popup-description-title =
     .value = ৰেকৰ্ড কৰক, বিশ্লেষণ কৰক, ভাগ-বতৰা কৰক
-
+profiler-popup-description = আপোনাৰ দলৰ সৈতে ভাগ-বতৰা কৰিবলৈ প্ৰ'ফাইল প্ৰকাশ কৰি কাৰ্য্যকৰিতাৰ সমস্যাবোৰত সহযোগিতা কৰক।
 profiler-popup-learn-more = অধিক জানক
-
 profiler-popup-settings =
     .value = ছেটিংছ
-
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = ছেটিংছ সম্পাদনা কৰক…
+profiler-popup-disabled = প্ৰ'ফাইলাৰটো বৰ্তমানে নিষ্ক্ৰিয় কৰা আছে, সম্ভৱতঃ এটা ব্যক্তিগত ব্ৰাউজিং ৱিণ্ড'খোলা থকা।
 profiler-popup-recording-screen = ৰেকৰ্ড হৈ আছে…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = নিজৰ হিচাপে
-
 profiler-popup-start-recording-button =
     .label = ৰেকৰ্ডিং আৰম্ভ কৰক
-
 profiler-popup-discard-button =
     .label = নাকচ কৰক
-
 profiler-popup-capture-button =
     .label = কেপচাৰ
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -149,7 +135,6 @@ appmenu-manage-history =
     .label = ইতিহাস পৰিচালনা কৰক
 appmenu-reopen-all-tabs = সকলো টেব পুনৰ খোলক
 appmenu-reopen-all-windows = সকলো উইণ্ড' পুনৰ খোলক
-
 appmenu-clear-history =
     .label = শেহতীয়া ইতিহাস মচক…
 appmenu-recent-history-subheader = শেহতীয়া ইতিহাস
@@ -194,7 +179,6 @@ appmenu-customizetoolbar =
     .label = টুলবাৰ কাষ্টমাইজ কৰক...
 appmenu-taskmanager =
     .label = কাৰ্য্য ব্যৱস্থাপক
-
 appmenu-developer-tools-subheader = ব্ৰাউজাৰৰ সা-সঁজুলি
 appmenu-developer-tools-extensions =
     .label = বিকাশকাৰীৰ বাবে এক্সটেনশ্যন
