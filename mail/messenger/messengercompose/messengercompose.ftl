@@ -127,6 +127,13 @@ button-return-receipt =
     .label = Potvrdenka
     .tooltiptext = Požiadať o potvrdenie o prijatí tejto správy
 
+# Encryption
+
+message-to-be-signed-icon =
+    .alt = Podpísať správu
+message-to-be-encrypted-icon =
+    .alt = Zašifrovať správu
+
 # Addressing Area
 
 to-compose-address-row-label =
