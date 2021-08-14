@@ -106,7 +106,9 @@ profiler-popup-settings =
     .value = ছেটিংছ
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = ছেটিংছ সম্পাদনা কৰক…
-profiler-popup-disabled = প্ৰ'ফাইলাৰটো বৰ্তমানে নিষ্ক্ৰিয় কৰা আছে, সম্ভৱতঃ এটা ব্যক্তিগত ব্ৰাউজিং ৱিণ্ড'খোলা থকা।
+profiler-popup-disabled =
+    প্ৰ'ফাইলাৰটো বৰ্তমানে নিষ্ক্ৰিয় হৈ আছে, সম্ভৱতঃ এটা ব্যক্তিগত ব্ৰাউজিং ৱিণ্ড'
+    খোল খাই থকা কাৰণে।
 profiler-popup-recording-screen = ৰেকৰ্ড হৈ আছে…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -135,6 +137,8 @@ appmenu-manage-history =
     .label = ইতিহাস পৰিচালনা কৰক
 appmenu-reopen-all-tabs = সকলো টেব পুনৰ খোলক
 appmenu-reopen-all-windows = সকলো উইণ্ড' পুনৰ খোলক
+appmenu-restore-session =
+    .label = পুৰ্বৱৰ্তী অধিবেশন পুনৰুদ্ধাৰ কৰক
 appmenu-clear-history =
     .label = শেহতীয়া ইতিহাস মচক…
 appmenu-recent-history-subheader = শেহতীয়া ইতিহাস
@@ -153,6 +157,9 @@ appmenu-about =
 appmenu-get-help =
     .label = সহায় পাওক
     .accesskey = স
+appmenu-help-more-troubleshooting-info =
+    .label = সমস্যা-সমাধানৰ অধিক তথ্য
+    .accesskey = t
 appmenu-help-report-site-issue =
     .label = ছাইট সমস্যাৰ প্ৰতিবেদন দিয়ক…
 appmenu-help-feedback-page =
@@ -162,6 +169,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = সমস্যা-সমাধান ম'ড
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = সমস্যা-সমাধান ম'ড বন্ধ কৰক
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
