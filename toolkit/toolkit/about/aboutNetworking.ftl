@@ -20,6 +20,7 @@ about-networking-active = 活动
 about-networking-idle = 空闲
 about-networking-host = 主机
 about-networking-tcp = TCP
+about-networking-type = 类型
 about-networking-sent = 已发送
 about-networking-received = 已接收
 about-networking-family = 协议族
