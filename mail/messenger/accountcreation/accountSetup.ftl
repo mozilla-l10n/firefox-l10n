@@ -126,6 +126,8 @@ account-setup-result-pop = POP3
 account-setup-result-pop-description = E-pošta in mape naj bodo shranjene na računalniku
 # Note: Exchange is the name of a product.
 account-setup-result-exchange = Exchange
+# Note: Exchange, Office365 are the name of products.
+account-setup-result-exchange2-description = Uporabi strežnik Microsoft Exchange ali storitve v oblaku Office365
 account-setup-incoming-title = Dohodni
 account-setup-outgoing-title = Odhodni
 account-setup-username-title = Uporabniško ime
