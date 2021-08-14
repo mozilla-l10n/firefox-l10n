@@ -20,6 +20,7 @@ about-networking-active = Aktívny
 about-networking-idle = Nečinný
 about-networking-host = Server
 about-networking-tcp = TCP
+about-networking-type = Typ
 about-networking-sent = Odoslané
 about-networking-received = Prijaté
 about-networking-family = Rodina
