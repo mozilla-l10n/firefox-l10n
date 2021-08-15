@@ -20,6 +20,7 @@ about-networking-active = Aktív
 about-networking-idle = Tétlen
 about-networking-host = Gép
 about-networking-tcp = TCP
+about-networking-type = Típus
 about-networking-sent = Elküldve
 about-networking-received = Fogadva
 about-networking-family = Család
