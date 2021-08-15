@@ -333,9 +333,18 @@ browser-window-close-button =
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] ట్యాబును మౌనించు
+        [one] ట్యాబును మౌనించు
+       *[other] { $count } ట్యాబులను మౌనించు
+    }
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = ఇష్టాంశాలను దిగుమతిచేయి…
+    .tooltiptext = మరొక విహారిణి నుండి { -brand-short-name } లోనికి ఇష్టాంశాలను దిగుమతి చేసుకోండి.
 
 ## WebRTC Pop-up notifications
 
@@ -373,6 +382,10 @@ popup-screen-sharing-always-block =
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = మీరు { -brand-short-name }‌ను పంచుకొంటున్నారు. మీరు కొత్త ట్యాబుకు మారినప్పుడు ఇతరులు చూడగలరు.
+sharing-warning-screen = మీరు మీ తెరను మొత్తం పంచుకుంటున్నారు. మీరు కొత్త ట్యాబుకు మారినప్పుడు ఇతరులు చూడగలరు.
+sharing-warning-proceed-to-tab =
+    .label = ట్యాబుకు వెళ్ళు
 sharing-warning-disable-for-session =
     .label = ఈ సెషనుకి పంచుకోలు రక్షణను అచేతనంచేయి
 
