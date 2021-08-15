@@ -127,6 +127,13 @@ button-return-receipt =
     .label = Уведомление о прочтении
     .tooltiptext = Запросить уведомление о прочтении этого сообщения
 
+# Encryption
+
+message-to-be-signed-icon =
+    .alt = Подписать сообщение
+message-to-be-encrypted-icon =
+    .alt = Зашифровать сообщение
+
 # Addressing Area
 
 to-compose-address-row-label =
