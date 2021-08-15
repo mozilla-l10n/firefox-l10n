@@ -196,6 +196,14 @@ search-one-offs-context-set-as-default-private =
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = “{ $engineName }”ని చేర్చు
+    .tooltiptext = “{ $engineName }” సెర్చింజనును చేర్చు
+    .aria-label = “{ $engineName }” సెర్చింజనును చేర్చు
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -217,6 +225,8 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = ఇష్టాంశాన్ని చేర్చు
+bookmarks-edit-bookmark = ఇష్టాంశాన్ని సవరించు
 bookmark-panel-cancel =
     .label = రద్దుచేయి
     .accesskey = C
@@ -253,6 +263,7 @@ identity-header-security-with-host =
     .title = { $host }కి అనుసంధాన భద్రత
 identity-connection-not-secure = అనుసంధానం సురక్షితం కాదు
 identity-connection-secure = సురక్షిత అనుసంధానం
+identity-connection-failure = అనుసంధాన వైఫల్యం
 identity-connection-internal = ఇది సురక్షిత { -brand-short-name } పేజీ.
 identity-connection-file = ఈ పేజీ మీ కంప్యూటర్లో భద్రమైవుంది.
 identity-extension-page = ఈ పేజీ ఒక పొడగింత నుండి తెరవబడింది.
@@ -264,6 +275,7 @@ identity-weak-encryption = ఈ పేజీ బలహీనమైన ఎన్�
 identity-insecure-login-forms = ఈ పేజీలో మీరు ఇచ్చే లాగిన్లు రాజీపడవచ్చు.
 identity-permissions =
     .value = అనుమతులు
+identity-https-only-connection-upgraded = (HTTPSకి ఉన్నతీకరించబడింది)
 identity-https-only-label = HTTPS-మాత్రమే రీతి
 identity-https-only-dropdown-on =
     .label = చేతనం
@@ -343,6 +355,8 @@ popup-select-microphone-device =
     .accesskey = M
 popup-select-microphone-icon =
     .tooltiptext = మైక్రోఫోను
+popup-select-speaker-icon =
+    .tooltiptext = స్పీకర్లు
 popup-all-windows-shared = మీ తెర మీద కనిపించే అన్ని విండోలు పంచుకోబడతాయి.
 popup-screen-sharing-not-now =
     .label = ఇప్పుడు కాదు
@@ -424,6 +438,8 @@ urlbar-pocket-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = అంతరంగిక కిటికీలో వెతుకు
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
@@ -587,3 +603,6 @@ remote-tabs-sync-now = ఇప్పుడే సింక్ చేయి
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = మరిన్ని…
