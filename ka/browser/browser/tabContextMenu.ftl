@@ -111,6 +111,13 @@ tab-context-close-tabs =
            *[other] ჩანართების დახურვა
         }
     .accesskey = უ
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] ჩანართის დახურვა
+           *[other] { $tabCount } ჩანართის დახურვა
+        }
+    .accesskey = უ
 tab-context-move-tabs =
     .label =
         { $tabCount ->
