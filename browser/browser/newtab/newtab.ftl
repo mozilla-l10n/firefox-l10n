@@ -120,6 +120,10 @@ newtab-menu-show-privacy-info = ჩვენი დამფინანსე�
 newtab-privacy-modal-button-done = მზადაა
 newtab-privacy-modal-button-manage = შეკვეთილი მასალის პარამეტრების მართვა
 newtab-privacy-modal-header = თქვენი პირადულობა უმნიშვნელოვანესია.
+newtab-privacy-modal-paragraph-2 =
+    გარდა საინტერესო ამბებისა, ასევე მოგაწვდით მნიშვნელოვან, ღირებულ
+    მასალას, შერჩეული მხარდამჭერებისგან. ნუ იღელვებთ, რასაც ათვალიერებთ, ინახავს, მხოლოდ თქვენი კუთვნილი { -brand-product-name }</strong>  — ვერც ჩვენ და ვერც
+    ჩვენი მხარდამჭერი კომპანიები ვერაფერს იხილავს.
 newtab-privacy-modal-link = იხილეთ, როგორ მუშაობს პირადი მონაცემების უსაფრთხოება ახალ ჩანართზე
 
 ##
