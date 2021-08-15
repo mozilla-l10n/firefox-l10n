@@ -13,12 +13,9 @@ login-app-promo-android =
     .alt = Last ned fra Google Play
 login-app-promo-apple =
     .alt = Last ned fra App Store
-
 login-filter =
     .placeholder = Søk innlogginger
-
 create-login-button = Lag ny innlogging
-
 fxaccounts-sign-in-text = Få passordene dine på de andre enheter dine
 fxaccounts-sign-in-button = Logg inn på { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Logg inn for å synkronisere
@@ -55,6 +52,8 @@ login-list-count =
 login-list-sort-label-text = Sorter etter:
 login-list-name-option = Navn (A-Å)
 login-list-name-reverse-option = Navn (Å-A)
+login-list-username-option = Brukernavn (A-Å)
+login-list-username-reverse-option = Brukernavn (Å-A)
 about-logins-login-list-alerts-option = Varsler
 login-list-last-changed-option = Sist endret
 login-list-last-used-option = Sist brukt
@@ -73,7 +72,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Ser du etter lagrede innlogginger? Konfigurer { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = Ser du etter dine lagrede innlogginger? Slå på synkronisering eller importer dem.
 about-logins-login-intro-heading-logged-in = Ingen synkroniserte innlogginger funnet.
 login-intro-description = Slik kan du få dine { -brand-product-name } innlogginger hit, om du har lagret de på en annen enhet
@@ -84,7 +82,6 @@ login-intro-instructions-fxa = Lag eller logg inn på din { -fxaccount-brand-nam
 login-intro-instructions-fxa-settings = Gå til Innstillinger > Synkronisering > Slå på synkronisering … Merk av for innlogginger og passord.
 login-intro-instructions-fxa-help = Gå til <a data-l10n-name="help-link">{ -lockwise-brand-short-name }-brukerstøtte</a> for mer hjelp.
 about-logins-intro-import = Hvis innloggingene dine er lagret i en annen nettleser, kan du <a data-l10n-name="import-link">importere dem til { -lockwise-brand-short-name }</a>
-
 about-logins-intro-import2 = Hvis innloggingene dine er lagret utenfor { -brand-product-name }, kan du <a data-l10n-name="import-browser-link">importere dem fra en annen nettleser</a> eller <a data-l10n-name="import-file-link">fra en fil</a>
 
 ## Login
@@ -126,13 +123,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Skriv inn innloggingsinform
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = rediger lagret innlogging
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å vise passordet. Dette vil gjøre kontoene dine tryggere.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = vis det lagrede passordet
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å kopiere passordet. Dette vil gjøre kontoene dine tryggere.
 # This message can be seen when attempting to copy a password in about:logins
@@ -142,7 +137,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = kopier det lagrede pa
 ## Master Password notification
 
 master-password-notification-message = Skriv inn hovedpassordet ditt for å vise lagrede innlogginger og passord
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å eksportere innloggingene dine. Dette vil gjøre kontoene dine tryggere.
 # This message can be seen when attempting to export a password in about:logins
@@ -179,23 +173,19 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Avbryt
 confirmation-dialog-dismiss-button =
     .title = Avbryt
-
 about-logins-confirm-remove-dialog-title = Fjerne denne innloggingen?
 confirm-delete-dialog-message = Denne handlingen kan ikke angres.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Fjern
        *[other] Fjern alle
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ja, fjern denne innloggingen
        *[other] Ja, fjern disse innloggingene
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Fjerne { $count } innlogging?
@@ -206,7 +196,6 @@ about-logins-confirm-remove-all-dialog-message =
         [1] Dette fjerner innloggingen du har lagret i { -brand-short-name } og eventuelle varsler om datalekkasjer som vises her. Du kan ikke angre denne handlingen.
        *[other] Dette fjerner innloggingene du har lagret i { -brand-short-name } og eventuelle varsler om datalekkasjer som vises her. Du kan ikke angre denne handlingen.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Fjern { $count } innlogging fra alle enhetene?
@@ -217,14 +206,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Dette fjerner innloggingen du har lagret i { -brand-short-name } på alle enheter som er synkronisert med { -fxaccount-brand-name }. Dette vil også fjerne varsler om datalekkasjer som vises her. Du kan ikke angre denne handlingen.
        *[other] Dette fjerner alle innlogginger du har lagret i { -brand-short-name } på alle enheter som er synkronisert med { -fxaccount-brand-name }. Dette vil også fjerne varsler om datalekkasjer som vises her. Du kan ikke angre denne handlingen.
     }
-
 about-logins-confirm-export-dialog-title = Eksporter innlogginger og passord
 about-logins-confirm-export-dialog-message = Passordene dine blir lagret som lesbar tekst (f.eks. DårligP@ss0rd), slik at alle som kan åpne den eksporterte filen kan se dem.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
-
 about-logins-alert-import-title = Import fullført
 about-logins-alert-import-message = Se detaljert importoversikt
-
 confirm-discard-changes-dialog-title = Vil du forkaste endringer som ikke er lagret?
 confirm-discard-changes-dialog-message = Alle ikke-lagrede endringer vil gå tapt.
 confirm-discard-changes-dialog-confirm-button = Forkast
@@ -255,10 +241,8 @@ about-logins-vulnerable-alert-learn-more-link = Les mer
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = En oppføring for { $loginTitle } med dette brukernavnet finnes allerede. <a data-l10n-name="duplicate-link">Gå til eksisterende oppføring?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Det oppstod en feil ved forsøk på å lagre dette passordet.
-
 
 ## Login Export Dialog
 
@@ -305,12 +289,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Nye innloggninger lagt til: </span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Eksisterende innlogginger oppdatert:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Duplikate innlogginger funnet:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importert)</span>
@@ -320,7 +302,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Feil:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importert)</span>
     }
 about-logins-import-dialog-done = Ferdig
-
 about-logins-import-dialog-error-title = Importfeil
 about-logins-import-dialog-error-conflicting-values-title = Flere motstridende verdier for en innlogging
 about-logins-import-dialog-error-conflicting-values-description = For eksempel: flere brukernavn, passord, nettadresser, etc. for en innlogging.
@@ -334,10 +315,8 @@ about-logins-import-dialog-error-no-logins-imported = Ingen innlogginger er impo
 about-logins-import-dialog-error-learn-more = Les mer
 about-logins-import-dialog-error-try-import-again = Prøv å importere igjen …
 about-logins-import-dialog-error-cancel = Avbryt
-
 about-logins-import-report-title = Importsammendrag
 about-logins-import-report-description = Innlogginger og passord importert til { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row
