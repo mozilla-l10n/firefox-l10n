@@ -20,6 +20,7 @@ about-networking-active = Активен
 about-networking-idle = Простаивает
 about-networking-host = Узел
 about-networking-tcp = TCP
+about-networking-type = Тип
 about-networking-sent = Отправлено
 about-networking-received = Получено
 about-networking-family = Семейство

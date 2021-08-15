@@ -13,12 +13,9 @@ login-app-promo-android =
     .alt = Доступно в Google Play
 login-app-promo-apple =
     .alt = Загрузите в App Store
-
 login-filter =
     .placeholder = Поиск логинов
-
 create-login-button = Создать новый логин
-
 fxaccounts-sign-in-text = Получайте доступ к своим паролям на других устройствах
 fxaccounts-sign-in-button = Войти в { -sync-brand-short-name(case: "accusative") }
 fxaccounts-sign-in-sync-button = Войти в Синхронизацию
@@ -56,6 +53,8 @@ login-list-count =
 login-list-sort-label-text = Сортировать:
 login-list-name-option = По имени (А-Я)
 login-list-name-reverse-option = По имени (Я-А)
+login-list-username-option = По имени пользователя (А-Я)
+login-list-username-reverse-option = По имени пользователя (Я-А)
 about-logins-login-list-alerts-option = Уведомления
 login-list-last-changed-option = По последнему изменению
 login-list-last-used-option = По последнему использованию
@@ -74,7 +73,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Ищете сохранённые логины? Настройте { -sync-brand-short-name(case: "accusative") }.
-
 about-logins-login-intro-heading-logged-out2 = Ищете сохранённые логины? Включите синхронизацию или импортируйте их.
 about-logins-login-intro-heading-logged-in = Синхронизированных логинов не найдено.
 login-intro-description = Если вы сохранили ваши логины в { -brand-product-name } на другом устройстве, то вот как получить к ним доступ здесь:
@@ -85,7 +83,6 @@ login-intro-instructions-fxa = Создайте или войдите в ваш 
 login-intro-instructions-fxa-settings = Выберите «Настройки» > «Синхронизация» > «Включить синхронизацию…». Установите флажок «Логины и пароли».
 login-intro-instructions-fxa-help = Посетите <a data-l10n-name="help-link">Поддержку { -lockwise-brand-short-name }</a> для получения помощи.
 about-logins-intro-import = Если ваши логины сохранены в другом браузере, вы можете <a data-l10n-name="import-link">импортировать их в { -lockwise-brand-short-name }</a>
-
 about-logins-intro-import2 = Если ваши логины сохранены не в { -brand-product-name }, вы можете <a data-l10n-name="import-browser-link">импортировать их из другого браузера</a> или <a data-l10n-name="import-file-link">из файла</a>
 
 ## Login
@@ -127,13 +124,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Чтобы изменить
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = изменить сохранённый логин
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Чтобы просмотреть свой пароль, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = показать сохранённый пароль
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Чтобы скопировать свой пароль введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen when attempting to copy a password in about:logins
@@ -143,7 +138,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = скопироват�
 ## Master Password notification
 
 master-password-notification-message = Пожалуйста, введите ваш мастер-пароль для просмотра сохранённых логинов и паролей
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Чтобы экспортировать свои логины, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen when attempting to export a password in about:logins
@@ -180,11 +174,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Отмена
 confirmation-dialog-dismiss-button =
     .title = Отмена
-
 about-logins-confirm-remove-dialog-title = Удалить этот логин?
 confirm-delete-dialog-message = Это действие нельзя отменить.
 about-logins-confirm-remove-dialog-confirm-button = Удалить
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Удалить
@@ -192,7 +184,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Удалить все
        *[many] Удалить все
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Да, удалить этот логин
@@ -200,7 +191,6 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Да, удалить эти логины
        *[many] Да, удалить эти логины
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Сохранён { $count } логин. Удалить их все?
@@ -214,7 +204,6 @@ about-logins-confirm-remove-all-dialog-message =
         [few] Это приведет к удалению всех логинов, сохранённых вами в { -brand-short-name }, и всех предупреждений об утечках, появляющихся здесь. Вы не сможете отменить это действие.
        *[many] Это приведет к удалению всех логинов, сохранённых вами в { -brand-short-name }, и всех предупреждений об утечках, появляющихся здесь. Вы не сможете отменить это действие.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Сохранён { $count } логин. Удалить их все со всех устройств?
@@ -228,14 +217,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Это приведет к удалению всех логинов, сохранённых вами в { -brand-short-name } на всех устройствах, синхронизируемых с вашим { -fxaccount-brand-name(case: "instrumental") }. Также будут удалены появляющиеся здесь предупреждения об утечках. Вы не сможете отменить это действие.
        *[many] Это приведет к удалению всех логинов, сохранённых вами в { -brand-short-name } на всех устройствах, синхронизируемых с вашим { -fxaccount-brand-name(case: "instrumental") }. Также будут удалены появляющиеся здесь предупреждения об утечках. Вы не сможете отменить это действие.
     }
-
 about-logins-confirm-export-dialog-title = Экспорт логинов и паролей
 about-logins-confirm-export-dialog-message = Ваши пароли будут сохранены в виде читаемого текста (например, BadP@ssw0rd), поэтому любой, кто может открыть файл с ними, сможет их просмотреть.
 about-logins-confirm-export-dialog-confirm-button = Экспортировать…
-
 about-logins-alert-import-title = Импорт завершён
 about-logins-alert-import-message = Посмотреть подробную сводку импорта
-
 confirm-discard-changes-dialog-title = Отменить несохранённые изменения?
 confirm-discard-changes-dialog-message = Все несохранённые изменения будут потеряны.
 confirm-discard-changes-dialog-confirm-button = Отменить
@@ -266,10 +252,8 @@ about-logins-vulnerable-alert-learn-more-link = Подробнее
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Запись для { $loginTitle } с таким именем пользователя уже существует. <a data-l10n-name="duplicate-link">Перейти к существующей записи?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = При попытке сохранить этот пароль произошла ошибка.
-
 
 ## Login Export Dialog
 
@@ -318,14 +302,12 @@ about-logins-import-dialog-items-added =
         [few] <span>Добавлены новые логины:</span> <span data-l10n-name="count">{ $count }</span>
        *[many] <span>Добавлены новые логины:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Обновлены существующие логины:</span> <span data-l10n-name="count">{ $count }</span>
         [few] <span>Обновлены существующие логины:</span> <span data-l10n-name="count">{ $count }</span>
        *[many] <span>Обновлены существующие логины:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Найдены повторяющие логины:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортирован)</span>
@@ -339,7 +321,6 @@ about-logins-import-dialog-items-error =
        *[many] <span>Ошибки:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span>
     }
 about-logins-import-dialog-done = Готово
-
 about-logins-import-dialog-error-title = Ошибка импорта
 about-logins-import-dialog-error-conflicting-values-title = Несколько конфликтующих учётных данных для одного логина
 about-logins-import-dialog-error-conflicting-values-description = Например: несколько имён пользователей, паролей, URL для одного логина.
@@ -353,10 +334,8 @@ about-logins-import-dialog-error-no-logins-imported = Ни один логин �
 about-logins-import-dialog-error-learn-more = Подробнее
 about-logins-import-dialog-error-try-import-again = Повторить попытку импорта…
 about-logins-import-dialog-error-cancel = Отмена
-
 about-logins-import-report-title = Сводка импорта
 about-logins-import-report-description = Логины и пароли, импортированные в { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row
