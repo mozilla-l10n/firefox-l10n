@@ -20,6 +20,7 @@ about-networking-active = მოქმედი
 about-networking-idle = უქმი
 about-networking-host = ჰოსტი
 about-networking-tcp = TCP
+about-networking-type = სახეობა
 about-networking-sent = გაგზავნილია
 about-networking-received = მიღებულია
 about-networking-family = ოჯახი
