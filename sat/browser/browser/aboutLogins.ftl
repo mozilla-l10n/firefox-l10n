@@ -163,9 +163,19 @@ confirm-discard-changes-dialog-confirm-button = ᱵᱟᱹᱨᱜᱤᱞ
 ## Breach Alert notification
 
 about-logins-breach-alert-title = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱨᱚᱯᱩᱫᱮᱱᱟ
+about-logins-breach-alert-date = ᱵᱽᱨᱤᱪ ᱫᱚ { DATETIME($date, day: "numeric", month: "long", year: "numeric") } ᱨᱮ ᱦᱩᱭ ᱮᱱᱟ
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } ᱴᱷᱮᱱ ᱪᱟᱞᱟᱜ ᱢᱮ
+about-logins-breach-alert-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = ᱣᱟᱹᱞᱱᱟᱹᱨᱮᱵᱟᱹᱞ ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname } ᱴᱷᱮᱱ ᱪᱟᱞᱟᱜ ᱢᱮ
+about-logins-vulnerable-alert-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Error Messages
 
@@ -175,14 +185,41 @@ about-logins-breach-alert-title = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱨᱚᱯᱩᱫᱮᱱ
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = ᱵᱟᱦᱨᱮ ᱠᱩᱞ ᱢᱮ
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV  ᱫᱚᱞᱤᱞ
+       *[other] CSV  ᱨᱮᱫ
+    }
 
 ## Login Import Dialog
 
+about-logins-import-file-picker-import-button = ᱟᱹᱜᱩ
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV  ᱫᱚᱞᱤᱞ
+       *[other] CSV ᱨᱮᱫ
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV ᱫᱚᱞᱤᱞ
+       *[other] TSV ᱨᱮᱫ
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
+about-logins-import-dialog-done = ᱦᱩᱭᱮᱱᱟ
+about-logins-import-dialog-error-title = ᱟᱹᱜᱩ ᱵᱷᱩᱞ
+about-logins-import-dialog-error-file-permission-title = ᱨᱮᱫ ᱯᱟᱲᱦᱟᱣ ᱵᱟᱝ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ
 about-logins-import-dialog-error-cancel = ᱵᱟᱹᱰᱨᱟᱹ
 about-logins-import-report-row-description-added = ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 
