@@ -56,6 +56,9 @@ permissions-exceptions-addons-desc = आम गोटा दाड़ेया�
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = ᱥᱟᱡᱟᱣ ᱼ ᱟᱡ ᱛᱮ
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 

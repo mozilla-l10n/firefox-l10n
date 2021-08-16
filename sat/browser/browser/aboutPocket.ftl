@@ -17,6 +17,7 @@ pocket-panel-saved-tags-saved = ᱴᱮᱜᱽ ᱥᱮᱞᱮᱫ ᱦᱩᱭ
 
 ## about:pocket-signup panel
 
+pocket-panel-signup-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 pocket-panel-signup-login = ᱵᱚᱞᱚᱱ ᱢᱮ
 
 ## about:pocket-home panel

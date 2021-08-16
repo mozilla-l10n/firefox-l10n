@@ -33,5 +33,6 @@
 
 ##
 
+protections-panel-description-shim-allowed-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = ᱵᱟᱹᱰᱨᱟᱹ

@@ -10,6 +10,7 @@
 
 cfr-doorhanger-extension-cancel-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
     .accesskey = ᱱ
+cfr-doorhanger-extension-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -24,6 +25,7 @@ cfr-doorhanger-extension-cancel-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 ## Protections panel
 
+cfr-protections-panel-link-text = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## What's New toolbar button and panel
 
@@ -33,9 +35,11 @@ cfr-doorhanger-extension-cancel-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-cta = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-cta = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Fingerprinter Counter
 
@@ -66,6 +70,8 @@ cfr-doorhanger-extension-cancel-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = ᱣᱟᱹᱞᱱᱟᱹᱨᱮᱵᱟᱹᱞ ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ ᱵᱟᱵᱚᱛ ᱠᱷᱚᱵᱚᱨ ᱧᱟᱢ ᱢᱮ
+cfr-whatsnew-passwords-icon-alt = ᱣᱟᱹᱞᱱᱟᱹᱨᱮᱵᱟᱹᱞ ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ ᱪᱟᱹᱵᱤ ᱟᱭᱠᱚᱱ
 
 ## Picture-in-Picture fullscreen message
 
@@ -81,6 +87,8 @@ cfr-doorhanger-extension-cancel-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-secondary-button = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+    .accesskey = ᱥ
 
 ## Full Video Support CFR message
 

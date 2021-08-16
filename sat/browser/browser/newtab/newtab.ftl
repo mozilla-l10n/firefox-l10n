@@ -67,6 +67,7 @@ newtab-topsites-save-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 
 ## Pocket Content Section.
 
+newtab-pocket-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

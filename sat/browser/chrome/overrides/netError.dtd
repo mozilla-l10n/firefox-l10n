@@ -8,14 +8,13 @@
 <!ENTITY loadError.label "साहटा लादे रे दिगधा़ .">
 <!ENTITY retry.label "दोहड़ा कुरुमुटु">
 
-
 <!-- Specific error messages -->
 
 
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY fileNotFound.longDesc "<ul> <li>माराङ आखोर ते ओल आर बाङ एटाक् टाइप भुल को. </li> <li> ञेल ला़गित् तेंघान में जुदी रेत् लाड़ाव लेन ताहेंना, दोहड़ा ञुतुम आर बाङ मेटाव लेना.</li> </ul>">
 
+<!ENTITY fileNotFound.longDesc "<ul> <li>माराङ आखोर ते ओल आर बाङ एटाक् टाइप भुल को. </li> <li> ञेल ला़गित् तेंघान में जुदी रेत् लाड़ाव लेन ताहेंना, दोहड़ा ञुतुम आर बाङ मेटाव लेना.</li> </ul>">
 
 
 <!ENTITY generic.longDesc "<p>&brandShortName; तिना़क् गान कारोन ते नोवा साहटा बाय लादे दाड़ेयाक् आ .</p>">
@@ -23,9 +22,13 @@
 
 
 
+
 <!ENTITY notCached.longDesc "<p>नेहोराक् दोलिल दो  &brandShortName; माक् साब रे बाय ञामोक् आ .</p><ul><li>जा़पती होंसिया़र लेका,  &brandShortName; दोहड़ा नेहोर दोलिल  भेदावाक् आच् आच् ते बाय दाड़ेयाक् आ.</li><li> वेबसाइट खोन दोलिल ला़गित् दोहड़ा नेहोर दोहड़ा कुरुमुटु ओताय मे.</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "<ul> <li>ओताय मे  &quot;दोहड़ा कुरुमुटु &quot; ञनलाइनओबोसता रे चा़लु ला़गित् आर साहटा दोहड़ा लादे को.</li> </ul>">
+
+
+
 
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>आम नोवा ठिका़ना झिज ला़गित् एटाक् सोफ्टवेयार बोहाल ला़गित् ला़कती हुय दाड़ेया मा, .</li> </ul>">
@@ -40,31 +43,36 @@
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>साहटा आम ञेल ला़गित् एम कुरुमुटु बाङ उदुग दाड़ेयाक् आ चेदाक् जे ञामाक् डाटा रेयाक् पोरमान एम बाङ ञेल मिला़व दाड़ेयाक् आ.</li> <li>वेब साइट मा़लिक को सोमपोक कोम उनकू नोवा को दिगघा़ ला़य सोदोर ला़गित्.</li> </ul>">
 
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>साइट दो सुयदोम बाय ञामोक् आर बाङ आ़डी जोहोड़ हुय दाड़ेयाक् आ. दोहड़ा कुरुमुटु मे  मित् घा़ड़िक् रे .</li> <li>जुदी आम जाहान साहटा को बाम लादे केया, आमाक् काम्प्युटार रेयाक् नेटवार्क ञेल में जोनोड़ाव .</li> <li>जुदी आमाक् काम्प्युटार आर बाङ नेटर्वाक फायारवेल आर बाङ एड़े दाराय ते आ़ड आकाना, गोटाय मे  जे &brandShortName; दो वेब आ़तुर ला़गित् छा़ड एमाकाना .</li> </ul>">
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; नोवा होर लेका ते लादेराकाब खोन नोवा साहटा आकोटा चेदाक् जे साहटा रे बिसोय जा़पती निती मेनाक् आ ओका नोवा बाताव बाय एमाक् आ .</p>">
 
+
 <!ENTITY corruptedContentErrorv2.longDesc "<p>साहटा आम ञेल रेयाक् एम कुरुमुटु येत् आ बाय ञेल दाड़ेयाक् आ चेदाक् जे डाटा बोदोल रे मित् भुल पानते ञाम लेन ताहेना, .</p><ul><li> आम वेब साइट मालिक को सोमपोक काते उनकु नोवा दिगदा ला़य उदुक् आको मे .</li></ul>">
 
 
+<!ENTITY errorReporting.learnMore "ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ…">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>वेब साइट मा़लिक को सोमपोक कोम नोवा दिगधा उनकु ला़य सोदोर ला़गित् .</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-
-
-
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
+
+
 
 
