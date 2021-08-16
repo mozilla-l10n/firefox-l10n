@@ -263,6 +263,7 @@ identity-header-security-with-host =
     .title = أمن اتصال { $host }
 identity-connection-not-secure = الاتصال غير آمن
 identity-connection-secure = الاتصال آمن
+identity-connection-failure = فشل الاتصال
 identity-connection-internal = هذه صفحة { -brand-short-name } آمنة.
 identity-connection-file = هذه الصفحة مخزنة على حاسوبك.
 identity-extension-page = حمِّلت هذه الصفحة من امتداد.
@@ -474,6 +475,11 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = ‫ابحث مستعملًا { $name } أو أدخِل عنوانا
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = المتصفح في وضع التحكم عن بعد (السبب: { $component })
 urlbar-permissions-granted =
     .tooltiptext = منحت هذا الموقع صلاحيات أخرى.
 urlbar-switch-to-tab =
@@ -645,6 +651,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = أصلِح ترميز النص
+    .tooltiptext = خمّن ترميز النص الصحيح من محتوى الصفحة
 
 ## Customize Toolbar Buttons
 

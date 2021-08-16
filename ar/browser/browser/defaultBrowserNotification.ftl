@@ -13,6 +13,8 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = أتريد ضبط { -brand-short-name } ليكون متصفّحك الأساسي؟
+default-browser-prompt-message-pin = فليكن { -brand-short-name } في متناول يديك — اضبطه ليكون المتصفح المبدئي وثبّته في شريط المهام.
+default-browser-prompt-message-pin-mac = فليكن { -brand-short-name } في متناول يديك — اضبطه ليكون المتصفح المبدئي وضَعه في شريط Dock.
 default-browser-prompt-button-primary-pin = اضبطه ليكون المتصفّح الأساسي
 default-browser-prompt-title-alt = أتريد ضبط { -brand-short-name } ليكون متصفّحك المبدئي؟
 default-browser-prompt-button-primary-alt = اضبطه ليكون المتصفّح المبدئي
