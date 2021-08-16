@@ -5,85 +5,65 @@
 permissions-window =
     .title = Eisgeachdan
     .style = width: 49em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Seòladh na làraich-lìn
     .accesskey = d
-
 permissions-block =
     .label = Cuir bacadh air
     .accesskey = b
-
 permissions-session =
     .label = Ceadaich fad an t-seisein
     .accesskey = s
-
 permissions-allow =
     .label = Ceadaich
     .accesskey = a
-
 permissions-button-off =
     .label = Cuir dheth
     .accesskey = d
-
 permissions-button-off-temporarily =
     .label = Cuir dheth rè seal
     .accesskey = t
-
 permissions-site-name =
     .label = Làrach-lìn
-
 permissions-status =
     .label = Staid
-
 permissions-remove =
     .label = Thoir an làrach-lìn air falbh
     .accesskey = r
-
 permissions-remove-all =
     .label = Thoir air falbh a h-uile làrach-lìn
     .accesskey = e
-
 permissions-button-cancel =
     .label = Sguir dheth
     .accesskey = S
-
 permissions-button-ok =
     .label = Sàbhail na h-atharraichean
     .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Sàbhail na h-atharraichean
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Bun-roghainn dhan a h-uile làrach-lìn:
-
 permissions-searchbox =
     .placeholder = Lorg air an làrach-lìn
-
 permissions-capabilities-autoplay-allow =
     .label = Ceadaich fuaim is video
 permissions-capabilities-autoplay-block =
     .label = Bac fuaim
 permissions-capabilities-autoplay-blockall =
     .label = Bac fuaimean is videothan
-
 permissions-capabilities-allow =
     .label = Ceadaich
 permissions-capabilities-block =
     .label = Cuir bacadh air
 permissions-capabilities-prompt =
     .label = Faighnich dhìom an-còmhnaidh
-
 permissions-capabilities-listitem-allow =
     .value = Ceadaich
 permissions-capabilities-listitem-block =
     .value = Cuir bacadh air
 permissions-capabilities-listitem-allow-session =
     .value = Ceadaich fad an t-seisein
-
 permissions-capabilities-listitem-off =
     .value = Dheth
 permissions-capabilities-listitem-off-temporarily =
@@ -141,7 +121,7 @@ permissions-exceptions-addons-desc = 'S urrainn dhut sònrachadh dè na làraich
 permissions-site-autoplay-window =
     .title = Roghainnean – Fèin-chluich
     .style = { permissions-window.style }
-permissions-site-autoplay-desc = ’S urrainn dhut na làraichean nach cleachd na roghainnean fèin-chluich tùsail agad a stiùireadh an-seo.
+permissions-site-autoplay-desc = ’S urrainn dhut na làraichean nach cleachd na roghainnean fèin-chluich bunaiteach agad a stiùireadh an-seo.
 
 ## Site Permissions - Notifications
 
