@@ -321,9 +321,9 @@ applications-use-app-default =
 applications-use-os-default =
     .label =
         { PLATFORM() ->
-            [macos] Cleachd aplacaid thùsail macOS
-            [windows] Cleachd aplacaid thùsail Windows
-           *[other] Cleachd aplacaid thùsail an t-siostaim
+            [macos] Cleachd aplacaid bhunaiteach macOS
+            [windows] Cleachd aplacaid bhunaiteach Windows
+           *[other] Cleachd aplacaid bhunaiteach an t-siostaim
         }
 applications-use-other =
     .label = Cleachd fear eile…
