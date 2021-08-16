@@ -51,7 +51,7 @@
 <!ENTITY folderProps.name.accesskey              "n">
 <!ENTITY folderProps.color.label                 "Dath na h-ìomhaigheige:">
 <!ENTITY folderProps.color.accesskey             "I">
-<!ENTITY folderProps.reset.tooltip               "Aisig an dath tùsail">
+<!ENTITY folderProps.reset.tooltip               "Aisig an dath bunaiteach">
 <!ENTITY folderProps.location.label              "Seòladh:">
 <!ENTITY folderProps.location.accesskey          "l">
 
