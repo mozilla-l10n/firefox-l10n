@@ -20,6 +20,7 @@ about-networking-active = Đang hoạt động
 about-networking-idle = Đang nghỉ
 about-networking-host = Máy chủ
 about-networking-tcp = TCP
+about-networking-type = Kiểu
 about-networking-sent = Đã gửi
 about-networking-received = Đã nhận
 about-networking-family = Nhóm
