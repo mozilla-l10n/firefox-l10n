@@ -42,9 +42,13 @@ menu-menuitem-iphone-app = iPhone ᱟᱨ iPad ᱞᱟᱹᱜᱤᱫ { -lockwise-bra
 
 ## Login List
 
+login-list =
+    .aria-label = ᱥᱮᱸᱫᱽᱨᱟ ᱚᱞ ᱠᱚ ᱥᱟᱞᱟᱜ ᱢᱮᱲᱟᱣᱜ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ
 login-list-sort-label-text = ᱥᱚᱨᱴ ᱵᱭᱺ
 login-list-name-option = ᱧᱩᱛᱩᱢ(ᱚᱼᱷ)
 login-list-name-reverse-option = ᱧᱩᱛᱩᱢ(ᱚᱼᱷ)
+login-list-username-option = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ (ᱚ-ᱷ)
+login-list-username-reverse-option = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ (ᱷ-ᱚ)
 about-logins-login-list-alerts-option = ᱦᱚᱥᱤᱭᱟᱹᱨ
 login-list-last-changed-option = ᱢᱩᱪᱟᱹᱫ ᱨᱮ ᱵᱚᱫᱚᱞ ᱞᱮᱱ
 login-list-last-used-option = ᱢᱟᱲᱟᱝ ᱵᱮᱵᱷᱟᱨᱟᱜ
@@ -116,9 +120,13 @@ about-logins-copy-password-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ �
 ## Master Password notification
 
 master-password-notification-message = ᱟᱢᱟᱜ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱫᱮᱠᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱢᱟᱥᱴᱚᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱫᱮᱨ ᱛᱟᱢ
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱞᱚᱜᱤᱱ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = ᱟᱢᱟᱜ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱫᱮᱠᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱫᱮᱨ ᱛᱟᱢ
 master-password-reload-button =
     .label = ᱵᱚᱞᱚᱱ ᱢᱮ
     .accesskey = ᱵ
@@ -144,9 +152,17 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ?
 confirm-delete-dialog-message = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱥᱟᱹᱛ ᱵᱟᱝ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 about-logins-confirm-remove-dialog-confirm-button = ᱚᱪᱚᱜᱽ ᱢᱮ
+about-logins-confirm-export-dialog-title = ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
+about-logins-confirm-export-dialog-confirm-button = ᱵᱟᱦᱨᱮ ᱠᱩᱞ ᱢᱮ…
+about-logins-alert-import-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
+about-logins-alert-import-message = ᱠᱷᱟᱴᱚ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱵᱚᱛ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+confirm-discard-changes-dialog-title = ᱵᱟᱝ ᱥᱟᱺᱪᱟᱣ ᱵᱚᱫᱚᱞ ᱠᱚ ᱵᱟᱹᱨᱜᱤᱞ ᱜᱤᱰᱤ ᱟᱢ ᱢᱮ?
+confirm-discard-changes-dialog-message = ᱡᱷᱚᱛᱚ ᱵᱟᱝ ᱥᱟᱺᱪᱟᱣ ᱵᱚᱫᱚᱞ ᱠᱚ ᱟᱫᱚᱜ ᱛᱟᱢᱟ ᱾
+confirm-discard-changes-dialog-confirm-button = ᱵᱟᱹᱨᱜᱤᱞ
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱨᱚᱯᱩᱫᱮᱱᱟ
 
 ## Vulnerable Password notification
 
