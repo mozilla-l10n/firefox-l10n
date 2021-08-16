@@ -38,20 +38,16 @@ menu-quit =
             [windows] خ
            *[other] غ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = أغلق { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = أغلق { -brand-shorter-name }
-
 menu-about =
     .label = عن { -brand-shorter-name }
     .accesskey = ع
@@ -219,7 +215,6 @@ menu-history-undo-menu =
     .label = الألسنة المُغلقة مؤخرًا
 menu-history-undo-window-menu =
     .label = النوافذ المغلقة مؤخرًا
-
 menu-history-reopen-all-tabs = أعِد فتح كل الألسنة
 menu-history-reopen-all-windows = أعِد فتح كل النوافذ
 
@@ -232,6 +227,8 @@ menu-bookmarks-show-all =
     .label = أظهِر كل العلامات
 menu-bookmark-this-page =
     .label = علّم هذه الصفحة
+menu-bookmarks-manage =
+    .label = أدِر العلامات
 menu-bookmark-current-tab =
     .label = علّم اللسان الحالي
 menu-bookmark-edit =
