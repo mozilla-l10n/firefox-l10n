@@ -5,85 +5,65 @@
 permissions-window =
     .title = Εξαιρέσεις
     .style = width: 47em
-
 permissions-close-key =
     .key = w
-
-permissions-address = Διεύθυνση ιστοσελίδας
+permissions-address = Διεύθυνση ιστοτόπου
     .accesskey = ι
-
 permissions-block =
     .label = Φραγή
     .accesskey = Φ
-
 permissions-session =
     .label = Αποδοχή για τη συνεδρία
     .accesskey = σ
-
 permissions-allow =
     .label = Αποδοχή
     .accesskey = Α
-
 permissions-button-off =
     .label = Απενεργοποίηση
     .accesskey = ν
-
 permissions-button-off-temporarily =
     .label = Προσωρινή απενεργοποίηση
     .accesskey = α
-
 permissions-site-name =
-    .label = Ιστοσελίδα
-
+    .label = Ιστότοπος
 permissions-status =
     .label = Κατάσταση
-
 permissions-remove =
-    .label = Αφαίρεση ιστοσελίδας
+    .label = Αφαίρεση ιστοτόπου
     .accesskey = φ
-
 permissions-remove-all =
-    .label = Αφαίρεση όλων των ιστοσελίδων
+    .label = Αφαίρεση όλων των ιστοτόπων
     .accesskey = λ
-
 permissions-button-cancel =
     .label = Ακύρωση
     .accesskey = Κ
-
 permissions-button-ok =
     .label = Αποθήκευση αλλαγών
     .accesskey = Π
-
 permission-dialog =
     .buttonlabelaccept = Αποθήκευση αλλαγών
     .buttonaccesskeyaccept = Π
-
-permissions-autoplay-menu = Προεπιλογή για όλες τις ιστοσελίδες:
-
+permissions-autoplay-menu = Προεπιλογή για κάθε ιστότοπο:
 permissions-searchbox =
-    .placeholder = Αναζήτηση ιστοσελίδας
-
+    .placeholder = Αναζήτηση ιστοτόπου
 permissions-capabilities-autoplay-allow =
     .label = Αποδοχή ήχου και βίντεο
 permissions-capabilities-autoplay-block =
     .label = Φραγή ήχου
 permissions-capabilities-autoplay-blockall =
     .label = Φραγή ήχου και βίντεο
-
 permissions-capabilities-allow =
     .label = Αποδοχή
 permissions-capabilities-block =
     .label = Φραγή
 permissions-capabilities-prompt =
     .label = Πάντα ερώτηση
-
 permissions-capabilities-listitem-allow =
     .value = Αποδοχή
 permissions-capabilities-listitem-block =
     .value = Φραγή
 permissions-capabilities-listitem-allow-session =
     .value = Αποδοχή για τη συνεδρία
-
 permissions-capabilities-listitem-off =
     .value = Ανενεργό
 permissions-capabilities-listitem-off-temporarily =
@@ -99,12 +79,12 @@ permissions-invalid-uri-label = Παρακαλώ εισαγάγετε ένα έ�
 permissions-exceptions-etp-window =
     .title = Εξαιρέσεις για την Ενισχυμένη προστασία από καταγραφή
     .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Έχετε απενεργοποιήσει την προστασία σε αυτές τις ιστοσελίδες.
+permissions-exceptions-etp-desc = Έχετε απενεργοποιήσει την προστασία στους εξής ιστοτόπους.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = Εξαιρέσεις - Cookies και δεδομένα ιστοσελίδων
+    .title = Εξαιρέσεις - Cookie και δεδομένα ιστοτόπων
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες επιτρέπεται πάντα ή δεν επιτρέπεται ποτέ η χρήση των cookies και των δεδομένων ιστοσελίδων. Πληκτρολογήστε την ακριβή διεύθυνση της ιστοσελίδας που θέλετε να διαχειριστείτε και, στη συνέχεια, επιλέξτε "Φραγή", "Αποδοχή για αυτή τη συνεδρία, ή "Αποδοχή".
 
@@ -118,7 +98,7 @@ permissions-exceptions-https-only-desc = Μπορείτε να απενεργο�
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = Επιτρεπόμενες ιστοσελίδες - Αναδυόμενα
+    .title = Επιτρεπόμενοι ιστότοποι - Αναδυόμενα παράθυρα
     .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Μπορείτε να καθορίσετε ποιες ιστοσελίδες μπορούν να ανοίγουν αναδυόμενα παράθυρα. Πληκτρολογήστε την ακριβή διεύθυνση της ιστοσελίδας που θέλετε να διαχειριστείτε και, στη συνέχεια, κάντε κλικ στο "Αποδοχή".
 
@@ -132,7 +112,7 @@ permissions-exceptions-saved-logins-desc = Οι συνδέσεις για τις
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window =
-    .title = Επιτρεπόμενες ιστοσελίδες - Εγκατάσταση προσθέτων
+    .title = Επιτρεπόμενοι ιστότοποι - Εγκατάσταση προσθέτων
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες επιτρέπεται η εγκατάσταση προσθέτων. Πληκτρολογήστε την ακριβή διεύθυνση της ιστοσελίδας που θέλετε να επιτρέψετε και, στη συνέχεια, κάντε κλικ στο "Αποδοχή".
 

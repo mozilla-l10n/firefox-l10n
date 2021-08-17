@@ -59,7 +59,7 @@ experimental-features-abouthome-startup-cache-description = Κρυφή μνήμ�
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
-experimental-features-cookie-samesite-schemeful-description = Διαχείριση των cookies ίδιου τομέα αλλά διαφορετικού μοτίβου (π.χ. http://example.com και https://example.com) ως cookies πολλαπλών ιστοσελίδων αντί cookies ίδιας ιστοσελίδας. Βελτιώνει την ασφάλεια, αλλά ενδέχεται να προκαλέσει προβλήματα.
+experimental-features-cookie-samesite-schemeful-description = Διαχείριση των cookie ίδιου τομέα αλλά διαφορετικού μοτίβου (π.χ. http://example.com και https://example.com) ως cookie μεταξύ ιστοτόπων αντί για cookie ίδιου ιστοτόπου. Βελτιώνει την ασφάλεια, αλλά ενδέχεται να προκαλέσει προβλήματα.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Εργαλεία ανάπτυξης: Έλεγχος σφαλμάτων service worker
