@@ -76,6 +76,7 @@ urlbar-geolocation-notification-anchor =
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-history = ᱱᱟᱜᱟᱢ
 
 ##
 
@@ -116,6 +117,8 @@ search-one-offs-change-settings-compact-button =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-history =
+    .tooltiptext = ᱱᱟᱜᱟᱢ ({ $restrict })
 
 ## Bookmark Panel
 
@@ -197,6 +200,7 @@ urlbar-result-action-search-w-engine = { $engine } ᱥᱟᱶ ᱯᱟᱱᱛᱮ
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-history = ᱥᱮᱸᱫᱽᱨᱟ ᱱᱟᱜᱟᱢ ᱠᱚ
 
 ## Full Screen and Pointer Lock UI
 

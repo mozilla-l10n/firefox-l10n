@@ -20,45 +20,12 @@ menu-quit-button =
 
 ## File Menu
 
-menu-file-close =
-    .label = बोंद मे
-    .accesskey = C
 menu-file-close-window =
     .label = विंडो बोनदोय मे .
     .accesskey = d
-menu-file-save-page =
-    .label = लेका साहटा सांचाव...
-    .accesskey = A
-menu-file-email-link =
-    .label = इमेल खोंजा …
-    .accesskey = E
-menu-file-print-setup =
-    .label = साहटा  साजाव...
-    .accesskey = u
-menu-file-print-preview =
-    .label = माड़ाङ तेयाक् ञेल छापा
-    .accesskey = v
-menu-file-print =
-    .label = छापा…
-    .accesskey = P
-menu-file-go-offline =
-    .label = ऑफलाइन
-    .accesskey = k
 
 ## Edit Menu
 
-menu-edit =
-    .label = सासापड़ाव
-    .accesskey = E
-menu-edit-find-on =
-    .label = नोवा साहटा रे ञाम...
-    .accesskey = F
-menu-edit-find-again =
-    .label = दोहड़ा ञाम
-    .accesskey = g
-menu-edit-bidi-switch-text-direction =
-    .label = ओनोल नाखा ओताय मे
-    .accesskey = w
 
 ## View Menu
 

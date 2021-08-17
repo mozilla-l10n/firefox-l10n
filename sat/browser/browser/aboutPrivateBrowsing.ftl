@@ -4,6 +4,11 @@
 
 privatebrowsingpage-open-private-window-label = ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = ᱨ
+about-private-browsing-info-title = ᱟᱢ ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱨᱮ ᱢᱮᱱᱟᱢᱼᱟ
+about-private-browsing =
+    .title = ᱣᱮᱵ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+about-private-browsing-search-btn =
+    .title = ᱣᱮᱵ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

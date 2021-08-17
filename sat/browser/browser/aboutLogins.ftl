@@ -9,6 +9,8 @@ about-logins-page-title = ᱵᱚᱞᱚᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱲ ᱥᱟ�
 
 login-app-promo-title = ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱡᱟᱦᱟᱸ ᱨᱮᱜᱮ ᱤᱫᱤ ᱛᱟᱢ
 login-app-promo-subtitle = ᱟᱢᱟᱜ ᱯᱷᱨᱤ ᱮᱯᱯ { -lockwise-brand-name } ᱧᱟᱢ ᱢᱮ
+login-app-promo-android =
+    .alt = ᱜᱩᱜᱚᱞ ᱯᱞᱮ ᱨᱮ ᱧᱟᱢ ᱢᱮ
 login-app-promo-apple =
     .alt = ᱮᱯ ᱥᱴᱚᱨ ᱨᱮ ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
 login-filter =
@@ -180,6 +182,8 @@ about-logins-vulnerable-alert-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢ
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = ᱨᱮᱫ ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
@@ -219,6 +223,7 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
 about-logins-import-dialog-done = ᱦᱩᱭᱮᱱᱟ
 about-logins-import-dialog-error-title = ᱟᱹᱜᱩ ᱵᱷᱩᱞ
+about-logins-import-dialog-error-file-format-title = ᱨᱮᱫ ᱯᱷᱚᱨᱢᱟᱴ ᱤᱥᱩ
 about-logins-import-dialog-error-file-permission-title = ᱨᱮᱫ ᱯᱟᱲᱦᱟᱣ ᱵᱟᱝ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ
 about-logins-import-dialog-error-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 about-logins-import-dialog-error-cancel = ᱵᱟᱹᱰᱨᱟᱹ

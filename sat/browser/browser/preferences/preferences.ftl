@@ -269,8 +269,8 @@ sync-engine-bookmarks =
     .label = पुथी चिनहा़ को
     .accesskey = m
 sync-engine-history =
-    .label = हिता़ल
-    .accesskey = r
+    .label = ᱱᱟᱜᱟᱢ
+    .accesskey = ᱱ
 
 ## The device name controls.
 
@@ -309,7 +309,18 @@ forms-windows-sso-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Privacy Section - History
 
-history-header = हिता़ल
+history-header = ᱱᱟᱜᱟᱢ
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } ᱫᱚ
+    .accesskey = ᱫ
 history-remember-option-all =
     .label = हिताल उयहा़र दोहोय मे
 history-remember-option-never =
@@ -327,8 +338,8 @@ history-clear-on-close-option =
     .label = हिता़ल फारचाय मेतिन रे  { -brand-short-name } बोंदो आ
     .accesskey = r
 history-clear-on-close-settings =
-    .label = साजाव को …
-    .accesskey = t
+    .label = ᱥᱟᱡᱟᱣ ᱠᱚ
+    .accesskey = ᱥ
 
 ## Privacy Section - Site Data
 

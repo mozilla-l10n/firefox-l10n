@@ -10,10 +10,14 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-tab =
+    .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
 appmenuitem-new-window =
     .label = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱚ
 appmenuitem-new-private-window =
     .label = ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱣᱤᱱᱰᱚ
+appmenuitem-passwords =
+    .label = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
 appmenuitem-addons-and-themes =
     .label = ᱮᱰᱚᱱᱥ ᱟᱨ ᱛᱷᱮᱢᱥ
 # Settings is now used to access the browser settings across all platforms,
@@ -33,6 +37,7 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+whatsnew-panel-header = ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
