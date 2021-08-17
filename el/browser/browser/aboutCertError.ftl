@@ -29,10 +29,10 @@ cert-error-domain-mismatch-single = Οι ιστότοποι αποδεικνύο
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = Οι ιστοσελίδες αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτή την ιστοσελίδα, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }. Το πιστοποιητικό είναι έγκυρο μόνο για { $alt-name }.
+cert-error-domain-mismatch-single-nolink = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτό τον ιστότοπο, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }. Το πιστοποιητικό είναι έγκυρο μόνο για το { $alt-name }.
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = Οι ιστοσελίδες αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτή την ιστοσελίδα, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }. Το πιστοποιητικό είναι έγκυρο μόνο για τα ακόλουθα ονόματα: { $subject-alt-names }
+cert-error-domain-mismatch-multiple = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτό τον ιστότοπο, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }. Το πιστοποιητικό είναι έγκυρο μόνο για τα εξής ονόματα: { $subject-alt-names }
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
@@ -73,7 +73,7 @@ generic-title = Ωχ!
 captivePortal-title = Σύνδεση στο δίκτυο
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-malformedURI-title = Χμ. Η διεύθυνση δεν φαίνεται να είναι σωστή.
+malformedURI-title = Χμμ… Αυτή η διεύθυνση δεν φαίνεται σωστή.
 netInterrupt-title = Η σύνδεση διακόπηκε
 notCached-title = Το έγγραφο έληξε
 netOffline-title = Λειτουργία εκτός σύνδεσης
