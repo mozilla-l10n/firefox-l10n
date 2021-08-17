@@ -16,4 +16,5 @@ sync-label = پۆستی ئەلکترۆنی بنووسە
 sync-input =
     .placeholder = پۆستی ئەلکترۆنی
 sync-button = بەردەوام بە
+sync-terms = بە بەردەوامبوون، تۆ ڕازیت بە  <a data-l10n-name="terms"مەرجەکانی بەکارهێنان</a> و <a data-l10n-name="privacy">سەرنجدانی تایبەتێتی</a>.
 sync-learn = زیاتر بزانە
