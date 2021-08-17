@@ -43,7 +43,7 @@
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Εμφανίζει πως η μνήμη ήταν καταμερισμένη κατά την εγγραφή.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Γράφημα Φωτιάς JS">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Εμφανίζει τη στοίβα κλήσεων JavaScript από όλη τη διάρκεια της εγγραφής.">
-<!ENTITY performanceUI.toolbar.memory-flamegraph 'Γράφημα "flame" εκχωρήσεων'>
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Γράφημα εκχωρήσεων «flame»">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -77,7 +77,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
-<!ENTITY performanceUI.invertFlameGraph             'Αναστροφή γραφήματος "flame"'>
+<!ENTITY performanceUI.invertFlameGraph             "Αναστροφή γραφήματος «flame»">
 <!ENTITY performanceUI.invertFlameGraph.tooltiptext 'Η αναστροφή του γραφήματος "flame" εμφανίζει τις διαδρομές κλήσεων σε προφίλ, ξεκινώντας από τα νεώτερα πλαίσια έως και τα παλαιότερα.'>
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
