@@ -114,14 +114,14 @@ permissions-exceptions-saved-logins-desc = Οι συνδέσεις για τις
 permissions-exceptions-addons-window =
     .title = Επιτρεπόμενοι ιστότοποι - Εγκατάσταση προσθέτων
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες επιτρέπεται η εγκατάσταση προσθέτων. Πληκτρολογήστε την ακριβή διεύθυνση της ιστοσελίδας που θέλετε να επιτρέψετε και, στη συνέχεια, κάντε κλικ στο "Αποδοχή".
+permissions-exceptions-addons-desc = Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται η εγκατάσταση προσθέτων. Πληκτρολογήστε την ακριβή διεύθυνση του ιστοτόπου που θέλετε να επιτρέψετε και έπειτα, κάντε κλικ στο «Αποδοχή».
 
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window =
     .title = Ρυθμίσεις - Αυτόματη αναπαραγωγή
     .style = { permissions-window.style }
-permissions-site-autoplay-desc = Εδώ μπορείτε να διαχειριστείτε τις ιστοσελίδες που δεν ακολουθούν τις προεπιλεγμένες ρυθμίσεις αυτόματης αναπαραγωγής.
+permissions-site-autoplay-desc = Εδώ μπορείτε να διαχειριστείτε τους ιστοτόπους που δεν ακολουθούν τις προεπιλεγμένες ρυθμίσεις αυτόματης αναπαραγωγής.
 
 ## Site Permissions - Notifications
 
