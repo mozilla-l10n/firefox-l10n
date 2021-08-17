@@ -36,17 +36,17 @@ cert-error-domain-mismatch-multiple = Οι ιστότοποι αποδεικνύ
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = Οι ιστοσελίδες αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών, τα οποία είναι έγκυρα για ορισμένο χρονικό διάστημα. Το πιστοποιητικό για το { $hostname } έληξε στις { $not-after-local-time }.
+cert-error-expired-now = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών, τα οποία είναι έγκυρα για ορισμένο χρονικό διάστημα. Το πιστοποιητικό για το { $hostname } έληξε στις { $not-after-local-time }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = Οι ιστοσελίδες αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών, τα οποία είναι έγκυρα για ορισμένο χρονικό διάστημα. Το πιστοποιητικό για το { $hostname } δεν θα είναι έγκυρο μέχρι τις { $not-before-local-time }.
+cert-error-not-yet-valid-now = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών, τα οποία είναι έγκυρα για ορισμένο χρονικό διάστημα. Το πιστοποιητικό για το { $hostname } δεν θα είναι έγκυρο μέχρι τις { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Κωδικός σφάλματος: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Οι ιστοσελίδες αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών, τα οποία εκδίδονται από αρχές πιστοποιητικών. Τα περισσότερα προγράμματα περιήγησης δεν εμπιστεύονται πλέον πιστοποιητικά από τις GeoTrust, RapidSSL, Symantec, Thawte και VeriSign. Το { $hostname } χρησιμοποιεί ένα πιστοποιητικό από μία από αυτές τις αρχές και για το λόγο αυτό, η ταυτότητα της ιστοσελίδας δεν μπορεί να αποδειχθεί.
+cert-error-symantec-distrust-description = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών, τα οποία εκδίδονται από αρχές πιστοποιητικών. Τα περισσότερα προγράμματα περιήγησης δεν εμπιστεύονται πλέον πιστοποιητικά από τις GeoTrust, RapidSSL, Symantec, Thawte και VeriSign. Το { $hostname } χρησιμοποιεί ένα πιστοποιητικό από μία από αυτές τις αρχές και για τον λόγο αυτό, η ταυτότητα του ιστοτόπου δεν μπορεί να αποδειχθεί.
 cert-error-symantec-distrust-admin = Μπορείτε να ειδοποιήσετε τον διαχειριστή του ιστοτόπου σχετικά με αυτό το πρόβλημα.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -58,7 +58,7 @@ cert-error-details-cert-chain-label = Ακολουθία πιστοποιητι�
 open-in-new-window-for-csp-or-xfo-error = Άνοιγμα ιστοτόπου σε νέο παράθυρο
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
-csp-xfo-blocked-long-desc = Για τη δική σας ασφάλεια, το { $hostname } δεν θα επιτρέψει στο { -brand-short-name } την εμφάνιση της σελίδας αν κάποια άλλη ιστοσελίδα την έχει ενσωματώσει. Για να δείτε αυτή τη σελίδα, πρέπει να την ανοίξετε σε νέο παράθυρο.
+csp-xfo-blocked-long-desc = Για τη δική σας ασφάλεια, το { $hostname } δεν θα επιτρέψει στο { -brand-short-name } την εμφάνιση της σελίδας αν κάποιος άλλος ιστότοπος την έχει ενσωματώσει. Για να δείτε αυτή τη σελίδα, θα πρέπει να την ανοίξετε σε νέο παράθυρο.
 
 ## Messages used for certificate error titles
 
