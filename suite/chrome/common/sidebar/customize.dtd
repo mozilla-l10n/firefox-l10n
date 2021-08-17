@@ -10,8 +10,8 @@
 <!ENTITY sidebar.customize.current.label        "Καρτέλες στο &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey    "Κ">
 
-<!ENTITY sidebar.customize.title                "Προσαρμογή πλευρικής στήλης">
-<!ENTITY sidebar.customize.current2.label       "Καρτέλες στην πλευρική στήλη:">
+<!ENTITY sidebar.customize.title                "Προσαρμογή πλαϊνής γραμμής">
+<!ENTITY sidebar.customize.current2.label       "Καρτέλες στην πλαϊνή γραμμή:">
 <!ENTITY sidebar.customize.current2.accesskey   "Κ">
 <!ENTITY sidebar.customize.customize.label      "Προσαρμογή καρτέλας…">
 <!ENTITY sidebar.customize.customize.accesskey  "Π">
