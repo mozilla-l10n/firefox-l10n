@@ -196,6 +196,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = ᱵᱚᱞᱚ ᱨᱮᱫ ᱠᱚ ᱟᱹᱜᱩᱭ ᱢᱮ
 about-logins-import-file-picker-import-button = ᱟᱹᱜᱩ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
