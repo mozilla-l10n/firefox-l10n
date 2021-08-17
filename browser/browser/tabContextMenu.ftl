@@ -111,6 +111,13 @@ tab-context-close-tabs =
            *[other] Lat att faner
         }
     .accesskey = L
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Lat att fane
+           *[other] Lat att { $tabCount } faner
+        }
+    .accesskey = L
 tab-context-move-tabs =
     .label =
         { $tabCount ->
