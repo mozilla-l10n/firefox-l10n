@@ -7,9 +7,9 @@
 ## the Downloads Panel.
 
 downloads-window =
-    .title = ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ
+    .title = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
 downloads-panel =
-    .aria-label = ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ
+    .aria-label = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
 
 ##
 
@@ -52,16 +52,16 @@ downloads-cmd-show-description =
 downloads-cmd-retry =
     .tooltiptext = ᱫᱚᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩ
 downloads-cmd-retry-panel =
-    .aria-label = दोहड़ा कुरुमुटु
+    .aria-label = ᱫᱚᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩ
 downloads-cmd-go-to-download-page =
-    .label = आ़तुर आंड़गो साहटा रे चालाक् मे
-    .accesskey = G
+    .label = ᱰᱟᱩᱱᱞᱚᱰ ᱥᱟᱦᱴᱟ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
+    .accesskey = ᱜ
 downloads-cmd-copy-download-link =
-    .label = आ़तुर आंड़गो खोंजा नोकोल मे
-    .accesskey = L
+    .label = ᱰᱟᱩᱱᱞᱚᱰ ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱢᱮ
+    .accesskey = ᱰ
 downloads-cmd-remove-from-history =
-    .label = हितल खोन ओचोक् .
-    .accesskey = e
+    .label = ᱦᱤᱛᱟᱹᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
+    .accesskey = ᱦ
 downloads-cmd-clear-downloads =
     .label = आटुर आंड़गो को फारचाये मे .
     .accesskey = D
@@ -88,8 +88,8 @@ downloads-history =
     .label = जोतो आ़तुर आंड़गो को उदुग मे .
     .accesskey = S
 downloads-clear-downloads-button =
-    .label = ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
-    .tooltiptext = ᱯᱷᱟᱨᱪᱟ ᱯᱩᱨᱟᱹᱶ ᱮᱱᱟ , ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ ᱵᱟᱹᱰᱨᱟᱹ ᱟᱨ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ
+    .label = ᱰᱟᱩᱱᱞᱚᱰ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
+    .tooltiptext = ᱯᱷᱟᱨᱪᱟ ᱯᱩᱨᱟᱹᱶ ᱮᱱᱟ , ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ ᱵᱟᱹᱰᱨᱟᱹ ᱟᱨ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
