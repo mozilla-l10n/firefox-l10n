@@ -65,7 +65,7 @@ login-list-item-title-new-login = Νέα σύνδεση
 login-list-item-subtitle-new-login = Εισαγάγετε τα διαπιστευτήριά σας
 login-list-item-subtitle-missing-username = (χωρίς όνομα χρήστη)
 about-logins-list-item-breach-icon =
-    .title = Παραβιασμένη ιστοσελίδα
+    .title = Παραβιασμένος ιστότοπος
 about-logins-list-item-vulnerable-password-icon =
     .title = Ευάλωτος κωδικός πρόσβασης
 
@@ -89,7 +89,7 @@ about-logins-intro-import2 = Εάν οι συνδέσεις σας αποθηκ�
 login-item-new-login-title = Δημιουργία νέας σύνδεσης
 login-item-edit-button = Επεξεργασία
 about-logins-login-item-remove-button = Αφαίρεση
-login-item-origin-label = Διεύθυνση ιστοσελίδας
+login-item-origin-label = Διεύθυνση ιστοτόπου
 login-item-tooltip-message = Βεβαιωθείτε ότι ταιριάζει ακριβώς με τη διεύθυνση του ιστότοπου όπου συνδέεστε.
 login-item-origin =
     .placeholder = https://www.example.com
@@ -217,7 +217,7 @@ confirm-discard-changes-dialog-confirm-button = Απόρριψη
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = Παραβίαση ιστοσελίδας
+about-logins-breach-alert-title = Παραβίαση ιστοτόπου
 breach-alert-text = Από την τελευταία φορά που αλλάξατε τα στοιχεία σύνδεσής σας σε αυτόν τον ιστότοπο, έχουν υπάρξει περιπτώσεις διαρροής ή κλοπής κωδικών. Για να προστατεύσετε το λογαριασμό σας, αλλάξτε τον κωδικό σας.
 about-logins-breach-alert-date = Η παραβίαση συνέβη στις { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:

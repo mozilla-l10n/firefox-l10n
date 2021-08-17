@@ -47,7 +47,7 @@ cert-error-code-prefix-link = Κωδικός σφάλματος: <a data-l10n-na
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Οι ιστοσελίδες αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών, τα οποία εκδίδονται από αρχές πιστοποιητικών. Τα περισσότερα προγράμματα περιήγησης δεν εμπιστεύονται πλέον πιστοποιητικά από τις GeoTrust, RapidSSL, Symantec, Thawte και VeriSign. Το { $hostname } χρησιμοποιεί ένα πιστοποιητικό από μία από αυτές τις αρχές και για το λόγο αυτό, η ταυτότητα της ιστοσελίδας δεν μπορεί να αποδειχθεί.
-cert-error-symantec-distrust-admin = Μπορείτε να ειδοποιήσετε το διαχειριστή της ιστοσελίδας σχετικά με αυτό το πρόβλημα.
+cert-error-symantec-distrust-admin = Μπορείτε να ειδοποιήσετε τον διαχειριστή του ιστοτόπου σχετικά με αυτό το πρόβλημα.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
@@ -55,7 +55,7 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Ακολουθία πιστοποιητικού:
-open-in-new-window-for-csp-or-xfo-error = Άνοιγμα ιστοσελίδας σε νέο παράθυρο
+open-in-new-window-for-csp-or-xfo-error = Άνοιγμα ιστοτόπου σε νέο παράθυρο
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Για τη δική σας ασφάλεια, το { $hostname } δεν θα επιτρέψει στο { -brand-short-name } την εμφάνιση της σελίδας αν κάποια άλλη ιστοσελίδα την έχει ενσωματώσει. Για να δείτε αυτή τη σελίδα, πρέπει να την ανοίξετε σε νέο παράθυρο.
@@ -97,4 +97,4 @@ clockSkewError-title = Το ρολόι του υπολογιστή σας είν
 networkProtocolError-title = Σφάλμα πρωτοκόλλου δικτύου
 nssBadCert-title = Προειδοποίηση: Πιθανός κίνδυνος ασφαλείας
 nssBadCert-sts-title = Δεν έγινε σύνδεση: Πιθανό ζήτημα ασφαλείας
-certerror-mitm-title = Κάποιο λογισμικό εμποδίζει την ασφαλή σύνδεση του { -brand-short-name } με αυτή την ιστοσελίδα
+certerror-mitm-title = Κάποιο λογισμικό εμποδίζει την ασφαλή σύνδεση του { -brand-short-name } με αυτό τον ιστότοπο

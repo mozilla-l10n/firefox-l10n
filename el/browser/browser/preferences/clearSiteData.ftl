@@ -14,7 +14,7 @@ clear-site-data-close-key =
 #   $amount (Number) - Amount of site data currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cookies-with-data =
-    .label = Cookies και δεδομένα ιστοσελίδων ({ $amount } { $unit })
+    .label = Cookie και δεδομένα ιστοτόπων ({ $amount } { $unit })
     .accesskey = ι
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
@@ -22,9 +22,9 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = Cookie και δεδομένα ιστοσελίδων
+    .label = Cookie και δεδομένα ιστοτόπων
     .accesskey = ι
-clear-site-data-cookies-info = Ενδέχεται να αποσυνδεθείτε από τις ιστοσελίδες εάν γίνει εκκαθάριση
+clear-site-data-cookies-info = Ενδέχεται να αποσυνδεθείτε από τους ιστοτόπους εάν γίνει εκκαθάριση
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:
@@ -41,7 +41,7 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = Προσωρινό περιεχόμενο διαδικτύου
     .accesskey = Π
-clear-site-data-cache-info = Θα χρειαστεί εκ νέου φόρτωση εικόνων και δεδομένων σε ιστοσελίδες
+clear-site-data-cache-info = Θα χρειαστεί εκ νέου φόρτωση εικόνων και δεδομένων σε ιστοτόπους
 clear-site-data-cancel =
     .label = Ακύρωση
     .accesskey = Α
