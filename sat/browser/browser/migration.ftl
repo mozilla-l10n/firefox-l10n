@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-migration-wizard =
-    .title = विजार्ड आ़गू
 import-from =
     { PLATFORM() ->
         [windows] आपनार मोने तेयाक् आ़गू,  पुथी चिनहा़ को, हिता़ल, दानाङ साबाद को आर एटागाक् डाटा खोन
