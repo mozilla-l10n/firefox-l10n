@@ -50,7 +50,7 @@ downloads-cmd-show-description =
            *[other] मेनागाक् पोटोम झिज मे
         }
 downloads-cmd-retry =
-    .tooltiptext = दोहड़ा कुरुमुटु
+    .tooltiptext = ᱫᱚᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩ
 downloads-cmd-retry-panel =
     .aria-label = दोहड़ा कुरुमुटु
 downloads-cmd-go-to-download-page =
