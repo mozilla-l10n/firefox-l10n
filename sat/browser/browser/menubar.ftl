@@ -29,6 +29,11 @@ menu-quit-button =
 menu-view =
     .label = ᱧᱮᱞ
     .accesskey = ᱧ
+menu-view-history-button =
+    .label = ᱱᱟᱜᱟᱢ
+menu-view-full-zoom-reduce =
+    .label = ᱢᱟᱨᱟᱝ ᱠᱷᱚᱱ ᱦᱤᱲᱤᱧ ᱛᱮᱭᱟᱨ
+    .accesskey = ᱢ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -43,46 +48,15 @@ menu-history-show-all-history =
     .label = ᱡᱷᱚᱛᱚ ᱱᱟᱜᱟᱢᱠᱚ ᱫᱮᱠᱷᱟᱣᱢᱮ
 menu-history-clear-recent-history =
     .label = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱱᱟᱜᱟᱢ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ...
-menu-history-undo-window-menu =
-    .label = नितोक् बोनदोवाक् विंडोग.
 
 ## Bookmarks Menu
 
-menu-bookmarks-menu =
-    .label = पुथी चिनहा़ को
-    .accesskey = B
-menu-bookmarks-show-all =
-    .label = जोतो पुथी चिनहा़ को उदुगा मे.
-menu-bookmark-edit =
-    .label = नोवा पुथी चिनहा़ सासापड़ाव में.
-menu-bookmarks-all-tabs =
-    .label = जोतो टैब को पुथी चिनहा़य मे …
-menu-bookmarks-toolbar =
-    .label = टुलबार पुथी चिनहा़ को
 
 ## Tools Menu
 
-menu-tools =
-    .label = टुल्स
-    .accesskey = T
-menu-tools-downloads =
-    .label = आ़तुर आंड़गो
-    .accesskey = D
-menu-tools-addons =
-    .label = एड-ऑन्स
-    .accesskey = A
 menu-tools-sync-now =
-    .label = नित् मित् ओकतो
-    .accesskey = S
-menu-tools-web-developer =
-    .label = वेब लाहा होचोयिच्
-    .accesskey = W
-menu-tools-page-source =
-    .label = साहटा सोत
-    .accesskey = o
-menu-tools-page-info =
-    .label = साहटा ला़य सोदोर ( ) .
-    .accesskey = )
+    .label = ᱱᱤᱛᱚᱜ ᱥᱤᱝᱠ ᱢᱮ
+    .accesskey = ᱱ
 menu-preferences =
     .label =
         { PLATFORM() ->
