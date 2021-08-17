@@ -11,53 +11,15 @@
 
 ## Application Menu (macOS only)
 
-menu-application-services =
-    .label = का़मी को
-menu-application-hide-other =
-    .label = एटागाक् को उकुय मे.
-menu-application-show-all =
-    .label = जोतो उदुग मे.
 
 ##
 
-# These menu-quit strings are only used on Windows and Linux.
-menu-quit =
-    .label =
-        { PLATFORM() ->
-            [windows] बाहरे ओडोक्
-           *[other] थिर होचो
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] x
-           *[other] Q
-        }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
 
 ## File Menu
 
-menu-file =
-    .label = रेत्
-    .accesskey = F
-menu-file-new-tab =
-    .label = नावा टैब
-    .accesskey = T
-menu-file-new-window =
-    .label = नावा विंडो
-    .accesskey = N
-menu-file-new-private-window =
-    .label = नावा निजेराक् विंडो
-    .accesskey = W
-# "Open Location" is only displayed on macOS, and only on windows
-# that aren't main browser windows, or when there are no windows
-# but Firefox is still running.
-menu-file-open-location =
-    .label = ठांव झिज मे …
-menu-file-open-file =
-    .label = रेत् झिज मे…
-    .accesskey = O
 menu-file-close =
     .label = बोंद मे
     .accesskey = C
