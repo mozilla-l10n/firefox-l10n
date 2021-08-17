@@ -136,7 +136,7 @@
 <!ENTITY customizeToolbar.label "Προσαρμογή…">
 <!ENTITY customizeToolbar.accesskey "μ">
 
-<!ENTITY addressSidebar.label "Πλευρική στήλη επαφών">
+<!ENTITY addressSidebar.label "Πλαϊνή γραμμή επαφών">
 <!ENTITY addressSidebar.accesskey "λ">
 
 <!-- Format Menu -->
