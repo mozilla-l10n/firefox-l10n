@@ -31,24 +31,6 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = ᱧᱟᱢᱤᱡ ᱨᱮ ᱩᱫᱩᱜ
     .accesskey = ᱧ
-downloads-cmd-show-button =
-    .tooltiptext =
-        { PLATFORM() ->
-            [macos] ञामयिच् रे उदुग
-           *[other] मेनागाक् पोटोम झिज मे
-        }
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] ञामयिच् रे उदुग
-           *[other] मेनागाक् पोटोम झिज मे
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] ञामयिच् रे उदुग
-           *[other] मेनागाक् पोटोम झिज मे
-        }
 downloads-cmd-retry =
     .tooltiptext = ᱫᱚᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩ
 downloads-cmd-retry-panel =
@@ -62,9 +44,6 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = ᱦᱤᱛᱟᱹᱞ ᱠᱷᱚᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = ᱦ
-downloads-cmd-clear-downloads =
-    .label = आटुर आंड़गो को फारचाये मे .
-    .accesskey = D
 
 ## Displayed when the user clicked on a download in process. Indicates that the
 ## downloading file will be opened after certain amount of time using an app
@@ -81,19 +60,6 @@ downloads-cmd-clear-downloads =
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = ᱚᱛᱩᱨ ᱟᱲᱜᱩ ᱵᱟᱹᱰᱨᱟᱹᱭ ᱢᱮ
-# This string is shown at the bottom of the Downloads Panel when all the
-# downloads fit in the available space, or when there are no downloads in
-# the panel at all.
-downloads-history =
-    .label = जोतो आ़तुर आंड़गो को उदुग मे .
-    .accesskey = S
 downloads-clear-downloads-button =
     .label = ᱰᱟᱩᱱᱞᱚᱰ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
     .tooltiptext = ᱯᱷᱟᱨᱪᱟ ᱯᱩᱨᱟᱹᱶ ᱮᱱᱟ , ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ ᱵᱟᱹᱰᱨᱟᱹ ᱟᱨ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ
-# This string is shown when there are no items in the Downloads view, when it
-# is displayed inside a browser tab.
-downloads-list-empty =
-    .value = जाहांन आ़तुर आंड़गो को बा़नुक आ.
-# This string is shown when there are no items in the Downloads Panel.
-downloads-panel-empty =
-    .value = नोवा का़मी ओकतो ला़गित् जाहान आ़तुर आंड़गो को बा़नुक् आ .
