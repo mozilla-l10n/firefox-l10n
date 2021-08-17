@@ -71,13 +71,13 @@ policy-Handlers = Ρύθμιση παραμέτρων χειριστών προ�
 policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοποίηση επιτάχυνσης υλικού.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ορισμός και προαιρετικό κλείδωμα της αρχικής σελίδας.
-policy-InstallAddonsPermission = Αποδοχή εγκατάστασης προσθέτων από ορισμένες ιστοσελίδες.
+policy-InstallAddonsPermission = Αποδοχή εγκατάστασης προσθέτων από ορισμένους ιστοτόπους.
 policy-LegacyProfiles = Απενεργοποίηση της λειτουργίας που απαιτεί ξεχωριστό προφίλ για κάθε εγκατάσταση.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 policy-LegacySameSiteCookieBehaviorEnabled = Ενεργοποίηση προεπιλεγμένης ρύθμισης συμπεριφοράς του παλαιού SameSite cookie.
-policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Επαναφορά στην παλαιά συμπεριφορά SameSite για cookie σε καθορισμένες ιστοσελίδες.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Επαναφορά στην παλαιά συμπεριφορά SameSite για cookie σε καθορισμένους ιστοτόπους.
 
 ##
 
