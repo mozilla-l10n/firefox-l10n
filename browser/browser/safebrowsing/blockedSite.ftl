@@ -2,10 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-safeb-blocked-phishing-page-title = Παραπλανητική ιστοσελίδα
-safeb-blocked-malware-page-title = Η επίσκεψη σε αυτή την ιστοσελίδα μπορεί να βλάψει τον υπολογιστή σας
-safeb-blocked-unwanted-page-title = Η ακόλουθη ιστοσελίδα ενδέχεται να περιέχει επιβλαβή προγράμματα
-safeb-blocked-harmful-page-title = Η ιστοσελίδα αυτή ενδέχεται να περιέχει κακόβουλο λογισμικό
+safeb-blocked-phishing-page-title = Παραπλανητικός ιστότοπος
+safeb-blocked-malware-page-title = Η επίσκεψη σε αυτό τον ιστότοπο ενδέχεται να βλάψει τον υπολογιστή σας
+safeb-blocked-unwanted-page-title = Ο ιστότοπος ενδέχεται να περιέχει επιβλαβή προγράμματα
+safeb-blocked-harmful-page-title = Ο ιστότοπος ενδέχεται να περιέχει κακόβουλο λογισμικό
 safeb-blocked-phishing-page-short-desc = Το { -brand-short-name } απέκλεισε αυτή τη σελίδα, επειδή ενδέχεται να σας παραπλανήσει ώστε να κάνετε κάτι επικίνδυνο, όπως να εγκαταστήσετε λογισμικό ή να αποκαλύψετε προσωπικά δεδομένα, όπως κωδικούς πρόσβασης ή πιστωτικές κάρτες.
 safeb-blocked-malware-page-short-desc = Το { -brand-short-name } απέκλεισε αυτή τη σελίδα, επειδή ενδέχεται να επιχειρήσει να εγκαταστήσει κακόβουλο λογισμικό που μπορεί να υποκλέψει ή να διαγράψει προσωπικές πληροφορίες στον υπολογιστή σας.
 safeb-blocked-unwanted-page-short-desc = Το { -brand-short-name } απέκλεισε αυτή τη σελίδα, επειδή ενδέχεται να προσπαθήσει να σας παραπλανήσει ώστε να εγκαταστήσετε προγράμματα που βλάπτουν την εμπειρία περιήγησής σας (για παράδειγμα, αλλάζοντας την αρχική σας σελίδα ή εμφανίζοντας επιπλέον διαφημίσεις στις ιστοσελίδες που επισκέπτεστε).
@@ -29,5 +29,5 @@ safeb-blocked-harmful-page-error-desc-override = Το <span data-l10n-name='site
 safeb-blocked-harmful-page-error-desc-no-override = Το <span data-l10n-name='sitename'>{ $sitename }</span> έχει <a data-l10n-name='error_desc_link'>αναφερθεί ότι περιέχει πιθανώς επιβλαβή εφαρμογή</a>.
 safeb-blocked-harmful-page-learn-more = Μάθετε περισσότερα σχετικά με την προστασία από ηλεκτρονικό ψάρεμα και κακόβουλο λογισμικό του { -brand-short-name } στο <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
-    .label = Αυτή δεν είναι παραπλανητική ιστοσελίδα…
+    .label = Αυτός δεν είναι παραπλανητικός ιστότοπος…
     .accesskey = δ
