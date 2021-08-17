@@ -12,7 +12,7 @@ site-data-search-textbox =
     .placeholder = Αναζήτηση ιστοσελίδων
     .accesskey = Α
 site-data-column-host =
-    .label = Ιστοσελίδα
+    .label = Ιστότοπος
 site-data-column-cookies =
     .label = Cookies
 site-data-column-storage =
@@ -52,7 +52,7 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Αφαίρεση
-site-data-removing-header = Αφαίρεση cookies και δεδομένων ιστοσελίδας
+site-data-removing-header = Αφαίρεση cookie και δεδομένων ιστοτόπου
 site-data-removing-desc = Η αφαίρεση των cookies και των δεδομένων ιστοσελίδων ενδέχεται να σας αποσυνδέσει από ιστοσελίδες. Θέλετε σίγουρα να κάνετε τις αλλαγές;
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed

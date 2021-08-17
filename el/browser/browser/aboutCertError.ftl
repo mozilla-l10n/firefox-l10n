@@ -25,7 +25,7 @@ cert-error-domain-mismatch = Οι ιστότοποι αποδεικνύουν τ
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Οι ιστοσελίδες αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτή την ιστοσελίδα, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }. Το πιστοποιητικό είναι έγκυρο μόνο για <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+cert-error-domain-mismatch-single = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτό τον ιστότοπο, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }. Το πιστοποιητικό είναι έγκυρο μόνο για το <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
