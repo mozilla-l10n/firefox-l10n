@@ -8,9 +8,6 @@
 newtab-page-title = Νέα καρτέλα
 newtab-settings-button =
     .title = Προσαρμογή της σελίδας Νέας Καρτέλας
-newtab-personalize-button-label = Εξατομίκευση
-    .title = Εξατομίκευση νέας καρτέλας
-    .aria-label = Εξατομίκευση νέας καρτέλας
 newtab-personalize-icon-label =
     .title = Εξατομίκευση νέας καρτέλας
     .aria-label = Εξατομίκευση νέας καρτέλας
@@ -50,13 +47,13 @@ newtab-search-box-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Προσθήκη μηχανής αναζήτησης
-newtab-topsites-add-topsites-header = Νέα κορυφαία ιστοσελίδα
+newtab-topsites-add-topsites-header = Νέος κορυφαίος ιστότοπος
 newtab-topsites-add-shortcut-header = Νέα συντόμευση
-newtab-topsites-edit-topsites-header = Επεξεργασία κορυφαίας ιστοσελίδας
+newtab-topsites-edit-topsites-header = Επεξεργασία κορυφαίου ιστοτόπου
 newtab-topsites-edit-shortcut-header = Επεξεργασία συντόμευσης
 newtab-topsites-title-label = Τίτλος
 newtab-topsites-title-input =
-    .placeholder = Εισάγετε έναν τίτλο
+    .placeholder = Εισαγωγή τίτλου
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Εισαγωγή ή επικόλληση URL
@@ -101,8 +98,8 @@ newtab-menu-content-tooltip =
     .aria-label = Άνοιγμα μενού επιλογών για το { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Επεξεργασία ιστοσελίδας
-    .aria-label = Επεξεργασία ιστοσελίδας
+    .title = Επεξεργασία ιστοτόπου
+    .aria-label = Επεξεργασία ιστοτόπου
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -182,7 +179,7 @@ newtab-section-menu-collapse-section = Σύμπτυξη ενότητας
 newtab-section-menu-expand-section = Επέκταση ενότητας
 newtab-section-menu-manage-section = Διαχείριση ενότητας
 newtab-section-menu-manage-webext = Διαχείριση επέκτασης
-newtab-section-menu-add-topsite = Προσθήκη κορυφαίας ιστοσελίδας
+newtab-section-menu-add-topsite = Προσθήκη κορυφαίου ιστοτόπου
 newtab-section-menu-add-search-engine = Προσθήκη μηχανής αναζήτησης
 newtab-section-menu-move-up = Μετακίνηση πάνω
 newtab-section-menu-move-down = Μετακίνηση κάτω
@@ -197,7 +194,7 @@ newtab-section-expand-section-label =
 
 ## Section Headers.
 
-newtab-section-header-topsites = Κορυφαίες ιστοσελίδες
+newtab-section-header-topsites = Κορυφαίοι ιστότοποι
 newtab-section-header-highlights = Κορυφαίες στιγμές
 newtab-section-header-recent-activity = Πρόσφατη δραστηριότητα
 # Variables:
@@ -239,7 +236,7 @@ newtab-error-fallback-refresh-link = Ανανεώστε τη σελίδα για
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Συντομεύσεις
-newtab-custom-shortcuts-subtitle = Ιστοσελίδες από σελιδοδείκτες και ιστορικό
+newtab-custom-shortcuts-subtitle = Ιστότοποι από σελιδοδείκτες ή ιστορικό
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } σειρά
@@ -250,12 +247,6 @@ newtab-custom-pocket-title = Προτείνεται από το { -pocket-brand-
 newtab-custom-pocket-subtitle = Εξαιρετικό περιεχόμενο από το { -pocket-brand-name }, μέρος της οικογένειας του { -brand-product-name }
 newtab-custom-pocket-sponsored = Χορηγούμενα άρθρα
 newtab-custom-recent-title = Πρόσφατη δραστηριότητα
-newtab-custom-recent-subtitle = Συλλογή πρόσφατων σελίδων και περιεχομένου
+newtab-custom-recent-subtitle = Συλλογή πρόσφατων ιστοτόπων και περιεχομένου
 newtab-custom-close-button = Κλείσιμο
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Αποσπάσματα
-newtab-custom-snippets-subtitle = Συμβουλές και νέα από τη { -vendor-short-name } και το { -brand-product-name }
 newtab-custom-settings = Διαχείριση περισσότερων ρυθμίσεων
