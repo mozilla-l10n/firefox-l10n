@@ -310,10 +310,10 @@ identity-description-weak-cipher-intro = Η σύνδεση σας με αυτό 
 identity-description-weak-cipher-risk = Τρίτα άτομα μπορούν να δουν τις πληροφορίες σας ή να τροποποιήσουν τη συμπεριφορά αυτού του ιστοτόπου.
 identity-description-active-blocked = Το { -brand-short-name } έχει αποκλείσει επισφαλή τμήματα αυτής της σελίδας. <label data-l10n-name="link">Μάθετε περισσότερα</label>
 identity-description-passive-loaded = Η σύνδεσή σας δεν είναι ιδιωτική και οι πληροφορίες που μοιράζεστε με αυτό τον ιστότοπο μπορεί να προβληθούν από τρίτους.
-identity-description-passive-loaded-insecure = Αυτή η σελίδα έχει περιεχόμενο που δεν είναι ασφαλές (π.χ. εικόνες). <label data-l10n-name="link">Μάθετε περισσότερα</label>
+identity-description-passive-loaded-insecure = Αυτός ο ιστότοπος διαθέτει επισφαλές περιεχόμενο (όπως εικόνες). <label data-l10n-name="link">Μάθετε περισσότερα</label>
 identity-description-passive-loaded-mixed = Παρόλο που το { -brand-short-name } έχει αποκλείσει ορισμένο περιεχόμενο, υπάρχει ακόμη επισφαλές περιεχόμενο (π.χ. εικόνες). <label data-l10n-name="link">Μάθετε περισσότερα</label>
-identity-description-active-loaded = Αυτή η ιστοσελίδα έχει περιεχόμενο που δεν είναι ασφαλές (π.χ. scripts) και η σύνδεσή σας δεν είναι ασφαλής.
-identity-description-active-loaded-insecure = Πληροφορίες που μοιράζεστε με αυτή τη σελίδα μπορεί να είναι ορατές από τρίτους (όπως κωδικοί, μηνύματα, πιστωτικές κάρτες κ.α.).
+identity-description-active-loaded = Αυτός ο ιστότοπος διαθέτει επισφαλές περιεχόμενο (όπως σενάρια) και η σύνδεσή σας δεν είναι ιδιωτική.
+identity-description-active-loaded-insecure = Οι πληροφορίες που μοιράζεστε με αυτό τον ιστότοπο μπορεί να προβληθούν από τρίτους (όπως κωδικοί πρόσβασης, μηνύματα, πιστωτικές κάρτες κ.λπ.).
 identity-learn-more =
     .value = Μάθετε περισσότερα
 identity-disable-mixed-content-blocking =
@@ -409,7 +409,7 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = Πάντα φραγή
     .accesskey = τ
-popup-mute-notifications-checkbox = Σίγαση ειδοποιήσεων ιστοσελίδας κατά την κοινή χρήση
+popup-mute-notifications-checkbox = Σίγαση ειδοποιήσεων ιστοτόπου κατά την κοινή χρήση
 
 ## WebRTC window or screen share tab switch warning
 
@@ -448,7 +448,7 @@ urlbar-placeholder-search-mode-web-2 =
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Εισάγετε όρους αναζήτησης
+    .placeholder = Εισαγωγή όρων αναζήτησης
     .aria-label = Αναζήτηση { $name }
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
@@ -472,7 +472,7 @@ urlbar-placeholder-with-name =
 urlbar-remote-control-notification-anchor2 =
     .tooltiptext = Ο φυλλομετρητής βρίσκεται υπό απομακρυσμένο έλεγχο (αιτία: { $component })
 urlbar-permissions-granted =
-    .tooltiptext = Έχετε χορηγήσει πρόσθετα δικαιώματα σε αυτή την ιστοσελίδα.
+    .tooltiptext = Έχετε χορηγήσει επιπλέον άδειες σε αυτό τον ιστότοπο.
 urlbar-switch-to-tab =
     .value = Μετάβαση σε καρτέλα:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -515,7 +515,7 @@ urlbar-result-action-before-tabtosearch-web = Πατήστε Tab για αναζ
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
-urlbar-result-action-before-tabtosearch-other = Πατήστε Tab για αναζήτηση { $engine }
+urlbar-result-action-before-tabtosearch-other = Πατήστε το Tab για αναζήτηση με { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -678,7 +678,7 @@ toolbar-overflow-customize-button =
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = Κάποιοι ήχοι ή βίντεο σε αυτή την ιστοσελίδα χρησιμοποιούν λογισμικό DRM, που ενδέχεται να περιορίσει αυτά που μπορείτε να κάνετε με το { -brand-short-name }.
+eme-notifications-drm-content-playing = Κάποιοι ήχοι ή βίντεο σε αυτό τον ιστότοπο χρησιμοποιούν λογισμικό DRM, που ενδέχεται να περιορίσει αυτά που μπορείτε να κάνετε με το { -brand-short-name }.
 eme-notifications-drm-content-playing-manage = Διαχείριση ρυθμίσεων
 eme-notifications-drm-content-playing-manage-accesskey = Δ
 eme-notifications-drm-content-playing-dismiss = Απόρριψη
