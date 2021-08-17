@@ -107,7 +107,7 @@ permissions-exceptions-popup-desc = Μπορείτε να καθορίσετε �
 permissions-exceptions-saved-logins-window =
     .title = Εξαιρέσεις - Αποθηκευμένες συνδέσεις
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = Οι συνδέσεις για τις ακόλουθες ιστοσελίδες δεν θα αποθηκεύονται
+permissions-exceptions-saved-logins-desc = Οι συνδέσεις για τους εξής ιστοτόπους δεν θα αποθηκεύονται
 
 ## Exceptions - Add-ons
 
