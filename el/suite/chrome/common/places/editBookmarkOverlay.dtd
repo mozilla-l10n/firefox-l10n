@@ -21,7 +21,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Λέξη-κλειδί:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "Λ">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Εμφάνιση όλων των ετικετών">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Φόρτωση σελιδοδείκτη στην πλευρική στήλη">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Φόρτωση σελιδοδείκτη στην πλαϊνή γραμμή">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "δ">
 <!ENTITY editBookmarkOverlay.choose.label                    "Επιλογή…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Νέος φάκελος">
