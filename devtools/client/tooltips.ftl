@@ -39,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = Nid yw <strong>{ $property }
 inactive-css-not-grid-or-flex-container-fix = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Ceisiwch ychwanegu naill ai <strong>display:grid</strong>, <strong>display:flex</strong>, neu <strong>columns:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-2 = Ceisiwch ychwanegu <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> neu <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-3 = Ceisiwch ychwanegu <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> neu <strong>display:inline-flex</strong> i riant yr elfen. { learn-more }
 inactive-css-not-grid-item-fix-2 = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:inline-grid</strong> at riant yr elfen. { learn-more }
 inactive-css-not-grid-container-fix = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix-2 = Ceisiwch ychwanegu <strong>display:flex</strong> neu <strong>display:inline-flex</strong> i riant yr elfen. { learn-more }
