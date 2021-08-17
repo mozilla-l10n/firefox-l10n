@@ -119,6 +119,13 @@ button-return-receipt =
     .label = Ontvangstbevestiging
     .tooltiptext = Een ontvangstbevestiging voor dit bericht vragen
 
+# Encryption
+
+message-to-be-signed-icon =
+    .alt = Bericht ondertekenen
+message-to-be-encrypted-icon =
+    .alt = Bericht versleutelen
+
 # Addressing Area
 
 to-compose-address-row-label =
