@@ -231,6 +231,8 @@ choose-bookmark =
 
 ##
 
+home-prefs-highlights-options-bookmarks =
+    .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 
 ## Search Section
 
@@ -262,6 +264,7 @@ sync-signedin-login-failure = दोहड़ा जोड़ाव रे स�
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 sync-currently-syncing-history = ᱱᱟᱜᱟᱢ
 
 ## The "Choose what to sync" dialog.

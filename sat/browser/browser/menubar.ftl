@@ -11,26 +11,114 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = ᱠᱟᱹᱢᱤ ᱠᱚ
+menu-application-hide-other =
+    .label = ᱮᱴᱟᱜ ᱠᱚ ᱩᱠᱩᱭ ᱢᱮ
+menu-application-show-all =
+    .label = ᱡᱷᱚᱛᱚ ᱩᱫᱩᱜᱽ ᱢᱮ
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ
+           *[other] ᱛᱷᱤᱨ ᱦᱚᱪᱚ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ᱚ
+           *[other] ᱛ
+        }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
 
 ## File Menu
 
+menu-file =
+    .label = ᱨᱮᱫ
+    .accesskey = ᱨ
+menu-file-new-tab =
+    .label = ᱱᱟᱶᱟ ᱴᱮᱵ
+    .accesskey = ᱱ
+menu-file-new-window =
+    .label = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱚ
+    .accesskey = ᱱ
+menu-file-new-private-window =
+    .label = ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱣᱤᱱᱰᱚ
+    .accesskey = ᱱ
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = ᱴᱷᱟᱶ ᱡᱷᱤᱡᱽ ᱢᱮ …
+menu-file-open-file =
+    .label = ...ᱨᱮᱫ ᱡᱷᱤᱡ ᱢᱮ
+    .accesskey = ᱨ
+menu-file-close =
+    .label = ᱵᱚᱸᱫᱽ
+    .accesskey = ᱵ
+menu-file-close-window =
+    .label = ᱣᱤᱱᱰᱚ ᱵᱚᱱᱫᱚᱭ ᱢᱮ
+    .accesskey = ᱣ
+menu-file-save-page =
+    .label = ᱞᱮᱠᱟ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ...
+    .accesskey = ᱞ
+menu-file-email-link =
+    .label = ᱞᱤᱝᱠ ᱤᱢᱮᱞ ᱢᱮ ...
+    .accesskey = ᱞ
+menu-file-print-setup =
+    .label = ᱥᱟᱦᱴᱟ ᱥᱟᱡᱟᱣ...
+    .accesskey = ᱥ
+menu-file-print-preview =
+    .label = ᱢᱟᱲᱟᱝ ᱛᱚᱭᱟᱜ ᱧᱮᱞ ᱪᱷᱟᱯᱟ
+    .accesskey = ᱢ
+menu-file-print =
+    .label = ᱪᱷᱟᱯᱟ…
+    .accesskey = ᱪ
+menu-file-go-offline =
+    .label = ᱚᱯᱷᱞᱟᱭᱤ ᱠᱟᱹᱢᱤ ᱢᱮ
+    .accesskey = ᱚ
 
 ## Edit Menu
 
+menu-edit =
+    .label = ᱥᱟᱯᱲᱟᱣ
+    .accesskey = ᱥ
+menu-edit-find-on =
+    .label = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱧᱟᱢ...
+    .accesskey = ᱱ
+menu-edit-find-again =
+    .label = ᱫᱚᱦᱲᱟ ᱧᱟᱢ
+    .accesskey = ᱫ
+menu-edit-bidi-switch-text-direction =
+    .label = ᱚᱱᱚᱞ ᱱᱟᱠᱷᱟ ᱚᱛᱟᱭ ᱢᱮ
+    .accesskey = ᱚ
 
 ## View Menu
 
 menu-view =
     .label = ᱧᱮᱞ
     .accesskey = ᱧ
+menu-view-toolbars-menu =
+    .label = ᱴᱩᱞ ᱵᱟᱨ ᱞᱚ (ᱴᱩ)
+    .accesskey = ᱴ
+menu-view-customize-toolbar =
+    .label = ᱠᱩᱥᱤᱭᱟᱜ ᱛᱮᱭᱟᱨ
+    .accesskey = ᱠ
+menu-view-sidebar =
+    .label = ᱫᱷᱤᱨᱮ ᱵᱟᱨ
+    .accesskey = ᱫ
+menu-view-bookmarks =
+    .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 menu-view-history-button =
     .label = ᱱᱟᱜᱟᱢ
+menu-view-full-zoom =
+    .label = ᱦᱩᱲᱤᱧ ᱞᱟᱹᱴᱩ ᱛᱮᱭᱟᱨ
+    .accesskey = ᱦ
 menu-view-full-zoom-reduce =
     .label = ᱢᱟᱨᱟᱝ ᱠᱷᱚᱱ ᱦᱤᱲᱤᱧ ᱛᱮᱭᱟᱨ
     .accesskey = ᱢ
@@ -57,17 +145,9 @@ menu-history-clear-recent-history =
 menu-tools-sync-now =
     .label = ᱱᱤᱛᱚᱜ ᱥᱤᱝᱠ ᱢᱮ
     .accesskey = ᱱ
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] आपनार मोने तेयाक् को
-           *[other] कुसियाक् को
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
+menu-tools-web-developer =
+    .label = ᱣᱮᱵᱽ ᱞᱟᱦᱟ ᱦᱚᱪᱚᱭᱤᱡ
+    .accesskey = ᱣ
 menu-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ
     .accesskey =
@@ -78,10 +158,6 @@ menu-settings =
 
 ## Window Menu
 
-menu-window-menu =
-    .label = विंडो
-menu-window-bring-all-to-front =
-    .label = जोतो सामाङ रे आ़गु.
 
 ## Help Menu
 
@@ -94,15 +170,3 @@ menu-window-bring-all-to-front =
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.
 
-menu-help-keyboard-shortcuts =
-    .label = का़ठी बोर्ड काटो तेयार
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = दिगधा़ हुयुगाक् ला़य सोदोर
-    .accesskey = T
-menu-help-feedback-page =
-    .label = फिडबैक जोमा एम …
-    .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = एड-ऑन बाङ हुय होचो तेयार सांव दोहड़ा एहोब …
-    .accesskey = R

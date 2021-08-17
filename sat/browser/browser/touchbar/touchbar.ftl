@@ -5,6 +5,7 @@
 
 ## Various categories of shortcuts for search.
 
+search-bookmarks = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 search-history = ᱱᱟᱜᱟᱢ
 
 ##

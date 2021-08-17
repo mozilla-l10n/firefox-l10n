@@ -220,8 +220,15 @@ crashed-subframe-learnmore-link =
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-recent-bookmarks-panel-subheader = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 bookmarks-toolbar-chevron =
     .tooltiptext = ᱫᱷᱮᱨ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱩᱫᱩᱜᱽ ᱢᱮ
+bookmarks-sidebar-content =
+    .aria-label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+bookmarks-menu-button =
+    .label = ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮᱱᱩ
+bookmarks-mobile-bookmarks-menu =
+    .label = ᱢᱚᱵᱟᱤᱞ ᱵᱩᱠᱢᱟᱨᱠ
 bookmarks-bookmark-edit-panel =
     .label = ᱱᱚᱶᱟ ᱯᱩᱛᱷᱤ ᱪᱩᱤᱱᱟᱹ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱢᱮ
 bookmarks-toolbar-menu =
@@ -233,6 +240,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 
 ## Pocket toolbar button
 
