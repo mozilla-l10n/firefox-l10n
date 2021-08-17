@@ -12,11 +12,11 @@ update-updateButton =
     .label = ᱟᱹᱯᱰᱮᱴ ᱞᱟᱹᱜᱤᱫ ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵᱽ ᱢᱮ { -brand-shorter-name }
     .accesskey = ᱟ
 update-checkingForUpdates = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱧᱮᱞᱮᱫ ᱟ …
-update-downloading = <img data-l10n-name="icon"/>ᱦᱟᱹᱞᱤᱭᱟᱜ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚᱜᱭᱮᱫᱼᱟ — <label data-l10n-name="download-status"/>
+update-downloading = <img data-l10n-name="icon"/>ᱦᱟᱹᱞᱤᱭᱟᱜ ᱰᱟᱩᱱᱞᱚᱰᱜᱭᱮᱫᱼᱟ — <label data-l10n-name="download-status"/>
 update-downloading-message = ᱟᱹᱯᱰᱥᱮᱴ ᱰᱟᱩᱱᱞᱚᱰᱚᱜ ᱠᱟᱱᱟ — <label data-l10n-name="download-status"/>
 update-applying = ᱦᱟᱹᱞᱤ ᱵᱚᱦᱟᱞᱮᱫ ᱟ  …
-update-failed = ᱦᱟᱹᱞᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾ <label data-l10n-name="failed-link">ᱱᱟᱶᱟᱱᱟᱜ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚᱭ ᱢᱮ</label>
-update-failed-main = ᱦᱟᱹᱞᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ <a data-l10n-name="failed-link-main">ᱱᱟᱶᱟᱱᱟᱜ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚᱭ ᱢᱮ</a>
+update-failed = ᱦᱟᱹᱞᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾ <label data-l10n-name="failed-link">ᱱᱟᱶᱟᱱᱟᱜ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱰᱟᱩᱱᱞᱚᱰᱭ ᱢᱮ</label>
+update-failed-main = ᱦᱟᱹᱞᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ <a data-l10n-name="failed-link-main">ᱱᱟᱶᱟᱱᱟᱜ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱰᱟᱩᱱᱞᱚᱰᱭ ᱢᱮ</a>
 update-adminDisabled = ᱟᱢᱟᱜ ᱥᱭᱥᱴᱮᱢ ᱥᱟᱥᱚᱱᱤᱡ ᱫᱟᱥᱟᱸᱭ ᱛᱮ ᱵᱟᱝ ᱦᱟᱞᱤ ᱦᱚᱪᱚ ᱦᱩᱭ ᱟᱠᱟᱱᱟ ᱾
 update-noUpdatesFound = { -brand-short-name } ᱫᱚ ᱟᱹᱯ ᱴᱩ ᱰᱮᱴ ᱟᱠᱟᱱᱟ
 update-otherInstanceHandlingUpdates = { -brand-short-name } ᱮᱴᱟᱜᱤᱡ ᱡᱮᱞᱠᱟ ᱫᱟᱨᱟᱭ ᱛᱮ ᱦᱟᱹᱞᱤ ᱟᱠᱟᱱᱟ
