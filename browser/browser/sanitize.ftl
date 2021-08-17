@@ -82,6 +82,10 @@ item-site-preferences =
     .label = Preferenze dei siti web
     .accesskey = P
 
+item-site-settings =
+    .label = Impostazioni dei siti web
+    .accesskey = w
+
 item-offline-apps =
     .label = Dati non in linea dei siti web
     .accesskey = w
