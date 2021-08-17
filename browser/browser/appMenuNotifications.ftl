@@ -26,7 +26,7 @@ appmenu-update-unsupported =
     .secondarybuttonaccesskey = S
 appmenu-update-unsupported-message = De nieuwste versie van { -brand-shorter-name } wordt niet ondersteund op uw systeem.
 appmenu-update-restart =
-    .label = Herstart om { -brand-shorter-name } bij te werken.
+    .label = Herstarten om { -brand-shorter-name } bij te werken.
     .buttonlabel = Herstarten en herstellen
     .buttonaccesskey = H
     .secondarybuttonlabel = Niet nu
@@ -36,7 +36,6 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Oké, begrepen
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Beheer uw add-ons door op <image data-l10n-name='addon-install-icon'></image> in het menu <image data-l10n-name='addon-menu-icon'></image> te klikken.
-
 appmenu-update-available2 =
     .label = Update beschikbaar
     .buttonlabel = Downloaden
@@ -72,7 +71,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = j
     .secondarybuttonaccesskey = w
 appmenu-update-other-instance-message = Er is een nieuwe update voor { -brand-shorter-name } beschikbaar, maar deze kan niet worden geïnstalleerd omdat er een ander exemplaar van { -brand-shorter-name } wordt uitgevoerd. Sluit deze om de update door te voeren, of kies ervoor om toch bij te werken (het andere exemplaar werkt mogelijk niet goed totdat u dit opnieuw start).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Oké
     .buttonaccesskey = O
@@ -80,7 +78,6 @@ appmenu-addon-post-install-message3 = Beheer uw add-ons en thema’s via het toe
 appmenu-addon-post-install-incognito-checkbox =
     .label = Deze extensie in privévensters laten uitvoeren
     .accesskey = D
-    
 appmenu-new-tab-controlled =
     .label = Uw nieuwe tabblad is gewijzigd.
     .buttonlabel = Wijzigingen behouden
@@ -93,7 +90,6 @@ appmenu-homepage-controlled =
     .buttonaccesskey = b
     .secondarybuttonlabel = Extensie uitschakelen
     .secondarybuttonaccesskey = u
-
 appmenu-new-tab-controlled-changes =
     .label = Uw nieuwe tabblad is gewijzigd.
     .buttonlabel = Wijzigingen behouden
