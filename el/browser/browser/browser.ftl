@@ -47,7 +47,7 @@ browser-main-window-title = { -brand-full-name }
 ##
 
 urlbar-identity-button =
-    .aria-label = Προβολή πληροφοριών ιστοσελίδας
+    .aria-label = Προβολή πληροφοριών ιστοτόπου
 
 ## Tooltips for images appearing in the address bar
 
@@ -122,25 +122,25 @@ urlbar-search-mode-history = Ιστορικό
 ##
 
 urlbar-geolocation-blocked =
-    .tooltiptext = Έχετε αποκλείσει τις πληροφορίες τοποθεσίας για αυτή την ιστοσελίδα.
+    .tooltiptext = Έχετε αποκλείσει τις πληροφορίες τοποθεσίας για αυτό τον ιστότοπο.
 urlbar-xr-blocked =
-    .tooltiptext = Έχετε αποκλείσει την πρόσβαση συσκευών εικονικής πραγματικότητας για αυτή την ιστοσελίδα.
+    .tooltiptext = Έχετε αποκλείσει την πρόσβαση συσκευών εικονικής πραγματικότητας για αυτό τον ιστότοπο.
 urlbar-web-notifications-blocked =
-    .tooltiptext = Έχετε αποκλείσει τις ειδοποιήσεις για αυτή την ιστοσελίδα.
+    .tooltiptext = Έχετε αποκλείσει τις ειδοποιήσεις για αυτό τον ιστότοπο.
 urlbar-camera-blocked =
     .tooltiptext = Έχετε αποκλείσει την κάμερά σας για αυτό τον ιστότοπο.
 urlbar-microphone-blocked =
     .tooltiptext = Έχετε αποκλείσει το μικρόφωνό σας για αυτό τον ιστότοπο.
 urlbar-screen-blocked =
-    .tooltiptext = Έχετε αποκλείσει τον ιστοτόπο από το μοίρασμα της οθόνης σας.
+    .tooltiptext = Έχετε αποκλείσει την κοινή χρήση οθόνης σε αυτό τον ιστότοπο.
 urlbar-persistent-storage-blocked =
-    .tooltiptext = Έχετε αποκλείσει την επίμονη αποθήκευση για αυτή την ιστοσελίδα.
+    .tooltiptext = Έχετε αποκλείσει τη μόνιμη αποθήκευση για αυτό τον ιστότοπο.
 urlbar-popup-blocked =
-    .tooltiptext = Έχετε αποκλείσει τα αναδυόμενα παράθυρα για αυτή την ιστοσελίδα.
+    .tooltiptext = Έχετε αποκλείσει τα αναδυόμενα παράθυρα για αυτό τον ιστότοπο.
 urlbar-autoplay-media-blocked =
-    .tooltiptext = Έχετε αποκλείσει πολυμέσα αυτόματης αναπαραγωγής για αυτή την ιστοσελίδα.
+    .tooltiptext = Έχετε αποκλείσει την αυτόματη αναπαραγωγή πολυμέσων με ήχο για αυτό τον ιστότοπο.
 urlbar-canvas-blocked =
-    .tooltiptext = Έχετε αποκλείσει την εξαγωγή δεδομένων καμβά για αυτή την ιστοσελίδα.
+    .tooltiptext = Έχετε αποκλείσει την εξαγωγή δεδομένων καμβά για αυτό τον ιστότοπο.
 urlbar-midi-blocked =
     .tooltiptext = Έχετε αποκλείσει την πρόσβαση MIDI για αυτό τον ιστότοπο.
 urlbar-install-blocked =
@@ -298,7 +298,7 @@ identity-permissions-empty = Δεν έχετε χορηγήσει ειδικές
 identity-clear-site-data =
     .label = Διαγραφή cookie και δεδομένων ιστοτόπου…
 identity-connection-not-secure-security-view = Η σύνδεσή σας με αυτό τον ιστότοπο δεν είναι ασφαλής.
-identity-connection-verified = Η σύνδεσή σας με αυτή την ιστοσελίδα είναι ασφαλής.
+identity-connection-verified = Η σύνδεσή σας με αυτό τον ιστότοπο είναι ασφαλής.
 identity-ev-owner-label = Το πιστοποιητικό εκδόθηκε για:
 identity-description-custom-root = Η Mozilla δεν αναγνωρίζει αυτό τον εκδότη πιστοποιητικών. Ενδέχεται να έχει προστεθεί από το λειτουργικό σας σύστημα ή κάποιο διαχειριστή. <label data-l10n-name="link">Μάθετε περισσότερα</label>
 identity-remove-cert-exception =

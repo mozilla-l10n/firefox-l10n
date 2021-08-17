@@ -115,5 +115,5 @@ policy-SSLVersionMin = Ορισμός ελάχιστης έκδοσης SSL.
 policy-SupportMenu = Προσθήκη προσαρμοσμένου στοιχείου μενού υποστήριξης στο μενού βοήθειας.
 policy-UserMessaging = Απόκρυψη ορισμένων μηνυμάτων από τον χρήστη.
 # “format” refers to the format used for the value of this policy.
-policy-WebsiteFilter = Αποκλεισμός επίσκεψης σε ιστοσελίδες. Δείτε την τεκμηρίωση για περισσότερες λεπτομέρειες σχετικά με τη μορφή.
+policy-WebsiteFilter = Φραγή ιστοτόπων προς επίσκεψη. Δείτε την τεκμηρίωση για περισσότερες λεπτομέρειες σχετικά με τη μορφή.
 policy-Windows10SSO = Να επιτρέπεται η ενιαία είσοδος των Windows για λογαριασμούς Microsoft, εργασίας και σχολείου.
