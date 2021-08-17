@@ -262,6 +262,7 @@ sync-signedin-login-failure = दोहड़ा जोड़ाव रे स�
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-history = ᱱᱟᱜᱟᱢ
 
 ## The "Choose what to sync" dialog.
 

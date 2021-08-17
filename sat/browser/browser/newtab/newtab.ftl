@@ -15,6 +15,7 @@
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
+newtab-topsites-delete-history-button = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱢᱮᱴᱟᱣ ᱢᱮ
 newtab-topsites-save-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 
 ## Top Sites - Delete history confirmation dialog.
@@ -28,9 +29,11 @@ newtab-topsites-save-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-delete-history = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱢᱮᱴᱟᱣ ᱢᱮ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = ᱦᱩᱭᱮᱱᱟ
 
 ##
 
@@ -38,6 +41,7 @@ newtab-topsites-save-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-remove-download = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file

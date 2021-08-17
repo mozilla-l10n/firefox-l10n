@@ -20,9 +20,6 @@ menu-quit-button =
 
 ## File Menu
 
-menu-file-close-window =
-    .label = विंडो बोनदोय मे .
-    .accesskey = d
 
 ## Edit Menu
 
@@ -30,65 +27,22 @@ menu-file-close-window =
 ## View Menu
 
 menu-view =
-    .label = ञेंल
-    .accesskey = V
-menu-view-toolbars-menu =
-    .label = टुल बार को (To)
-    .accesskey = T
-menu-view-customize-toolbar =
-    .label = कुसियाक् तेयार…
-    .accesskey = C
-menu-view-sidebar =
-    .label = धारे बार
-    .accesskey = e
-menu-view-full-zoom =
-    .label = हुडिञ माराङ होचो
-    .accesskey = Z
-menu-view-full-zoom-enlarge =
-    .label = माड़ाङ तेयार
-    .accesskey = I
-menu-view-full-zoom-reduce =
-    .label = माड़ाङ खोन हुडिञ तेयार
-    .accesskey = O
-menu-view-full-zoom-toggle =
-    .label = एकेन ओनोल हुडिञ माराङ
-    .accesskey = T
-menu-view-page-style-menu =
-    .label = साहटा हुना़र
-    .accesskey = y
-menu-view-page-style-no-style =
-    .label = जाहान हुना़र बाङ
-    .accesskey = N
-menu-view-page-basic-style =
-    .label = मुल साहटा हुना़र
-    .accesskey = B
+    .label = ᱧᱮᱞ
+    .accesskey = ᱧ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
-menu-view-enter-full-screen =
-    .label = पुरा़ स्क्रिन बाहरे ओडोक .
-    .accesskey = F
-menu-view-exit-full-screen =
-    .label = पुरा़ स्क्रिन बाहरे ओडोक .
-    .accesskey = F
 
 ##
 
-menu-view-show-all-tabs =
-    .label = जोतो टैब को उदुक् मे
-    .accesskey = A
-menu-view-bidi-switch-page-direction =
-    .label = साहटा नाखा ओताय मे
-    .accesskey = D
 
 ## History Menu
 
-menu-history =
-    .label = हिता़ल
-    .accesskey = s
-menu-history-undo-menu =
-    .label = नितोक् बोनदोवाक् टैब को.
+menu-history-show-all-history =
+    .label = ᱡᱷᱚᱛᱚ ᱱᱟᱜᱟᱢᱠᱚ ᱫᱮᱠᱷᱟᱣᱢᱮ
+menu-history-clear-recent-history =
+    .label = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱱᱟᱜᱟᱢ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ...
 menu-history-undo-window-menu =
     .label = नितोक् बोनदोवाक् विंडोग.
 

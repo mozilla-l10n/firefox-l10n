@@ -15,3 +15,4 @@ panic-button-undo-warning = नोवा का़मी सा़त बाङ 
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
+panic-button-delete-history = ᱱᱤᱛᱚᱜᱼᱟᱜ <strong>ᱱᱟᱜᱟᱢ</strong> ᱢᱮᱴᱟᱣ ᱢᱮ
