@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Προέκυψε σφάλμα κατά την σύνδεση στο { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Κωδικός σφάλματος: { $error }
-
 psmerr-ssl-disabled = Αδυναμία ασφαλούς σύνδεσης λόγω απενεργοποίησης του πρωτοκόλλου SSL.
 psmerr-ssl2-disabled = Αδυναμία ασφαλούς σύνδεσης. επειδή η σελίδα χρησιμοποιεί μια παλαιότερη, μη ασφαλή έκδοση του πρωτοκόλλου SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Έχετε λάβει ένα μη έγκυρο πιστοποιητικό. Παρακαλώ επικοινωνήστε με το διαχειριστή του συστήματος ή με τον αποστολέα και δώστε του αυτές τις πληροφορίες:
     
     Το πιστοποιητικό σας περιέχει τον ίδιο σειριακό αριθμό με ένα άλλο πιστοποιητικό που εκδόθηκε από την αρχή πιστοποίησης.  Παρακαλώ αποκτήστε ένα νέο πιστοποιητικό που να περιέχει έναν μοναδικό σειριακό αριθμό.
-
 ssl-error-export-only-server = Αδύνατη η επικοινωνία με ασφάλεια. Ο κόμβος δεν υποστηρίζει κρυπτογράφηση υψηλού βαθμού.
 ssl-error-us-only-server = Αδύνατη η επικοινωνία με ασφάλεια. Ο κόμβος απαιτεί κρυπτογράφηση υψηλού βαθμού που δεν υποστηρίζεται.
 ssl-error-no-cypher-overlap = Δεν ήταν δυνατή η ασφαλής επικοινωνία με τον κόμβο: κανένας κοινός αλγόριθμος κρυπτογράφησης.
@@ -229,7 +225,7 @@ sec-error-need-random = βιβλιοθήκη ασφαλείας: χρειάζο�
 sec-error-no-module = βιβλιοθήκη ασφαλείας: καμία μονάδα ασφαλείας δεν μπορεί να εκτελέσει τη λειτουργία που ζητήθηκε.
 sec-error-no-token = Η κάρτα ή το διακριτικό ασφάλειας δεν υπάρχει, πρέπει να προετοιμαστεί, ή έχει αφαιρεθεί.
 sec-error-read-only = βιβλιοθήκη ασφάλειας: βάση δεδομένων μόνο για ανάγνωση.
-sec-error-no-slot-selected = Δεν επιλέχθηκε καμία υποδοχή ή σύμβολο.
+sec-error-no-slot-selected = Δεν επιλέχθηκε καμία υποδοχή ή διακριτικό.
 sec-error-cert-nickname-collision = Υπάρχει ήδη ένα πιστοποιητικό με το ίδιο ψευδώνυμο.
 sec-error-key-nickname-collision = Υπάρχει ήδη ένα κλειδί με το ίδιο ψευδώνυμο.
 sec-error-safe-not-created = σφάλμα κατά τη δημιουργία ασφαλούς αντικειμένου
