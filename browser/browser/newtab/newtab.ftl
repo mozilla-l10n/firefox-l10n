@@ -8,9 +8,6 @@
 newtab-page-title = 새 탭
 newtab-settings-button =
     .title = 새 탭 페이지 사용자 지정
-newtab-personalize-button-label = 개인화
-    .title = 새 탭 개인화
-    .aria-label = 새 탭 개인화
 newtab-personalize-icon-label =
     .title = 새 탭 개인화
     .aria-label = 새 탭 개인화
@@ -151,7 +148,7 @@ newtab-menu-remove-download = 기록에서 삭제
 newtab-menu-show-file =
     { PLATFORM() ->
         [macos] Finder에서 보기
-       *[other] 폴더 열기
+       *[other] 상위 폴더 열기
     }
 newtab-menu-open-file = 파일 열기
 
@@ -251,10 +248,4 @@ newtab-custom-pocket-sponsored = 스폰서 소식
 newtab-custom-recent-title = 최근 활동
 newtab-custom-recent-subtitle = 최근 사이트 및 콘텐츠 선택
 newtab-custom-close-button = 닫기
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = 짧은 소식
-newtab-custom-snippets-subtitle = { -vendor-short-name }와 { -brand-product-name }의 팁 및 뉴스
 newtab-custom-settings = 더 많은 설정 관리
