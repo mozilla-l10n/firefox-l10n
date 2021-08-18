@@ -46,6 +46,10 @@
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Al momento è possibile attivare questa opzione dopo aver impostato questo calendario attraverso la finestra delle proprietà se il server del calendario si occupa della pianificazione.">
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Questa opzione è disponibile solo se il server del calendario si occupa della pianificazione. Se attivata, consentirà la gestione della pianificazione attraverso email standard invece di lasciarla al server.">
 
+<!-- The notifications settings in the properties dialog -->
+<!ENTITY lightning.calendarproperties.notifications.label                   "Notifiche">
+<!ENTITY lightning.calendarproperties.globalNotifications.label             "Preferenze globali delle notifiche…">
+
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Accetta">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Accetta l'invito all'evento">

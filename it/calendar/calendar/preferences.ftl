@@ -4,6 +4,7 @@
 
 calendar-title = Calendario
 calendar-title-reminder = Promemoria
+calendar-title-notification = Notifiche
 calendar-title-category = Categorie
 dateformat-label =
     .value = Formato testo data:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Tempo di attivazione allarme prima di un'attività:
     .accesskey = o
+calendar-notifications-customize-label = Le notifiche possono essere personalizzate per ogni calendario nella finestra delle proprietà del calendario.
 category-new-label = Nuova categoria
 category-edit-label = Modifica categoria
 category-overwrite-title = Attenzione: nome duplicato
