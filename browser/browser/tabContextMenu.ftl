@@ -113,6 +113,14 @@ tab-context-close-tabs =
            *[other] Luk faneblade
         }
     .accesskey = u
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Luk faneblad
+            [one] Luk faneblad
+           *[other] Luk { $tabCount } faneblade
+        }
+    .accesskey = L
 tab-context-move-tabs =
     .label =
         { $tabCount ->
