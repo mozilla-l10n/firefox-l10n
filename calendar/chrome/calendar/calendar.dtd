@@ -398,7 +398,7 @@
 <!ENTITY calendar.error.detail "Detalles…">
 <!ENTITY calendar.error.code "Código de error:">
 <!ENTITY calendar.error.description "Descripción:">
-<!ENTITY calendar.error.title "Un error ha ocurrido">
+<!ENTITY calendar.error.title "Ha ocurrido un error">
 
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "Agregar como evento">
