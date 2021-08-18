@@ -20,5 +20,5 @@
 <!ENTITY fillPasswordMenu.accesskey   "L">
 <!ENTITY fillUsernameMenu.label       "Llenar nombre de usuario">
 <!ENTITY fillUsernameMenu.accesskey   "L">
-<!ENTITY noLoginSuggestions.label     "(Sin sugerencias de ingreso)">
+<!ENTITY noLoginSuggestions.label     "(Sin sugerencias de inicio de sesión)">
 <!ENTITY viewSavedLogins.label        "Ver ingresos guardados">
