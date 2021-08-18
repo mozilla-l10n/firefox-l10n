@@ -556,7 +556,7 @@
 <!ENTITY junkItem.title "Basura">
 <!ENTITY junkButton.label "Basura">
 <!ENTITY notJunkButton.label "No es basura">
-<!ENTITY addressBookButton.label "Direcciones">
+<!ENTITY addressBookButton.label "Libreta de direcciones">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Búsqueda global">
 <!ENTITY searchItem.title "Búsqueda rápida">
