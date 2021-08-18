@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Fuentes
-
 fonts-window-close =
     .key = w
 
@@ -12,9 +11,8 @@ fonts-window-close =
 
 fonts-langgroup-header = Fuentes para
     .accesskey = F
-
 fonts-langgroup-arabic =
-    .label = Arábigo
+    .label = Árabe
 fonts-langgroup-armenian =
     .label = Armenio
 fonts-langgroup-bengali =
@@ -77,33 +75,24 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Tamaño
     .accesskey = T
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monoespaciada
     .accesskey = M
-
 fonts-monospace-size = Tamaño
     .accesskey = a
-
 fonts-minsize = Tamaño mínimo de fuente
     .accesskey = o
-
 fonts-minsize-none =
     .label = Ninguno
-
 fonts-allow-own =
     .label = Permitir que las páginas elijan sus propias tipografías en lugar de las selecciones anteriores
     .accesskey = a
@@ -115,10 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificación de caracteres para contenido heredado
 fonts-languages-fallback-desc = Esta codificación de caracteres es usada para contenido heredado que falló en la declaración de su codificación.
-
 fonts-languages-fallback-label = Codificación de texto de emergencia
     .accesskey = t
-
 fonts-languages-fallback-name-auto =
     .label = Predeterminado de la localización actual
 fonts-languages-fallback-name-arabic =
@@ -151,7 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Otro (incl. europeo occidental)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
