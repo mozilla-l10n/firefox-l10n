@@ -326,7 +326,7 @@ applications-select-helper = Seleccionar aplicación
 applications-manage-app =
     .label = Detalles de la aplicación…
 applications-always-ask =
-    .label = Siempre preguntar
+    .label = Preguntar siempre
 applications-type-pdf = Formato de documento portable (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
