@@ -74,12 +74,10 @@ context-menuitem-attach-files =
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
-    .value =
-        { $count ->
-            [one] { $count } allegato
-           *[other] { $count } allegati
-        }
-    .accesskey = a
+    { $count ->
+        [1] { $count } allegato
+       *[other] { $count } allegati
+    }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
