@@ -4,48 +4,35 @@
 
 receipts-dialog-window =
     .title = Ricevute di ritorno
-
 return-receipt-checkbox =
     .label = Quando si spediscono i messaggi chiedere sempre la ricevuta di ritorno
-    .acceskey = u
-
+    .accesskey = u
 receipt-arrive-label = Quando arriva una ricevuta:
-
 receipt-leave-radio =
     .label = Lasciala nella posta in arrivo
-    .acceskey = i
-
+    .accesskey = i
 receipt-move-radio =
     .label = Spostala nella cartella “Posta inviata”
-    .acceskey = S
-
+    .accesskey = S
 receipt-request-label = Quando si riceve una richiesta per una ricevuta di ritorno:
-
 receipt-return-never-radio =
     .label = Non inviare mai una ricevuta di ritorno
-    .acceskey = n
-
+    .accesskey = n
 receipt-return-some-radio =
     .label = Consenti ricevuta di ritorno per alcuni messaggi
-    .acceskey = r
-
+    .accesskey = r
 receipt-not-to-cc =
     .value = Se il proprio indirizzo non è nel campo “A” o “Cc”:
-    .acceskey = e
-
+    .accesskey = e
 receipt-send-never-label =
     .label = Non inviare mai
-
 receipt-send-always-label =
     .label = Invia sempre
-
 receipt-send-ask-label =
     .label = Chiedi
-
 sender-outside-domain =
     .value = Se il mittente è esterno al proprio dominio:
-    .acceskey = t
-
+    .accesskey = t
 other-cases-label =
     .value = In tutti gli altri casi:
-    .acceskey = a
+    .accesskey = a
