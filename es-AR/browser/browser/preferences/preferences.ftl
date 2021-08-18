@@ -417,7 +417,7 @@ update-setting-write-failure-message2 =
     No se pudo escribir en el archivo: { $path }
 update-in-progress-title = Actualización en curso
 update-in-progress-message = ¿Quiere que { -brand-short-name } continúe con la actualización?
-update-in-progress-ok-button = &Ignorar
+update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
