@@ -116,6 +116,15 @@ tab-context-close-tabs =
            *[other] { $tabCount } panelů
         }
     .accesskey = Z
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Zavřít panel
+            [one] Zavřít panel
+            [few] Zavřít { $tabCount } panely
+           *[other] Zavřít { $tabCount } panelů
+        }
+    .accesskey = Z
 tab-context-move-tabs =
     .label =
         Přesunout { $tabCount ->
