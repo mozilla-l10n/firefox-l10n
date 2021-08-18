@@ -45,6 +45,8 @@
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
+
+<!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
@@ -324,7 +326,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Enero" >
 <!ENTITY event.recurrence.pattern.yearly.month.2.label       "Febrero" >
 <!ENTITY event.recurrence.pattern.yearly.month.3.label       "Marzo" >
-<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Anril" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Abril" >
 <!ENTITY event.recurrence.pattern.yearly.month.5.label       "Mayo" >
 <!ENTITY event.recurrence.pattern.yearly.month.6.label       "Junio" >
 <!ENTITY event.recurrence.pattern.yearly.month.7.label       "Julio" >
@@ -407,11 +409,6 @@
 <!ENTITY read.only.location.label        "Dirección:">
 <!ENTITY read.only.category.label        "Categoría:">
 <!ENTITY read.only.organizer.label       "Organizador:">
-<!ENTITY read.only.reply.label           "Responder:">
-<!ENTITY read.only.accept.label          "Participaré">
-<!ENTITY read.only.decline.label         "No participaré">
-<!ENTITY read.only.tentative.label       "Podría participar">
-<!ENTITY read.only.needs.action.label    "Confirmaré después">
 <!ENTITY read.only.reminder.label        "Recordatorio:">
 <!ENTITY read.only.attachments.label     "Adjuntos:">
 <!ENTITY read.only.attendees.label       "Participantes">
