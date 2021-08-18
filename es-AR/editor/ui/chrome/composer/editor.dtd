@@ -11,7 +11,7 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Barra de composición">
-<!ENTITY previewToolbarCmd.label "Navegar">
+<!ENTITY previewToolbarCmd.label "Examinar">
 <!ENTITY previewToolbarCmd.tooltip "Cargar esta página en el navegador">
 
 <!-- File menu items -->
