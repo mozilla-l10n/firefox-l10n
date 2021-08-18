@@ -65,7 +65,7 @@
 <!ENTITY setDesktopBackgroundCmd.accesskey "a">
 <!ENTITY bookmarkPageCmd.label        "Marcar esta página">
 <!ENTITY bookmarkPageCmd.accesskey    "M">
-<!ENTITY bookmarkLinkCmd.label        "Marcar este enlace">
+<!ENTITY bookmarkLinkCmd.label        "Marcar este enlace…">
 <!ENTITY bookmarkLinkCmd.accesskey    "l">
 <!ENTITY bookmarkFrameCmd.label       "Marcar este marco…">
 <!ENTITY bookmarkFrameCmd.accesskey   "M">
