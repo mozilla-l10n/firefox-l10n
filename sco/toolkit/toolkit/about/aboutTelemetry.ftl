@@ -11,6 +11,7 @@ about-telemetry-home-section = Hame
 about-telemetry-telemetry-ping-type-all = aw
 # button label to copy the histogram
 about-telemetry-histogram-copy = Copy
+about-telemetry-addon-table-details = Details
 about-telemetry-names-header = Nemme
 about-telemetry-object-header = objeck
 about-telemetry-origin-count = coont
