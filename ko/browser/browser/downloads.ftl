@@ -30,7 +30,7 @@ downloads-cmd-cancel-panel =
     .aria-label = 취소
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
-    .label = 폴더 열기
+    .label = 상위 폴더 열기
     .accesskey = F
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
@@ -46,19 +46,19 @@ downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Finder에서 보기
-           *[other] 폴더 열기
+           *[other] 상위 폴더 열기
         }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
             [macos] Finder에서 보기
-           *[other] 폴더 열기
+           *[other] 상위 폴더 열기
         }
 downloads-cmd-show-description =
     .value =
         { PLATFORM() ->
             [macos] Finder에서 보기
-           *[other] 폴더 열기
+           *[other] 상위 폴더 열기
         }
 downloads-cmd-show-downloads =
     .label = 다운로드 폴더 보기
