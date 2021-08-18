@@ -12,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ocurrió un error al conectarse a { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código de error: { $error }
-
 psmerr-ssl-disabled = No se puede conectar de forma segura porque el protocolo SSL fue deshabilitado.
 psmerr-ssl2-disabled = No se puede conectar de forma segura porque el sitio usa una versión antigua e insegura del protocolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Recibió un certificado no válido.  Contacte al administrador del servidor o correspondiente correo electrónico y envíeles la siguiente información:
     
     Su certificado contiene el mismo número de serie que otro certificado emitido por la autoridad de certificados.  Obtenga un nuevo certificado conteniendo un número de serie único.
-
 ssl-error-export-only-server = No es posible comunicarse de forma segura. La otra parte no admite cifrado de grado alto.
 ssl-error-us-only-server = No es posible comunicarse de forma segura. La otra parte requiere cifrado de grado alto que no es compatible.
 ssl-error-no-cypher-overlap = No se puede comunicar de forma segura con un compañero: no hay algoritmos de cifrado comunes.
@@ -211,7 +207,7 @@ sec-error-not-a-recipient = No se puede descrifrar: no es un destinatario o no s
 sec-error-pkcs7-keyalg-mismatch = No se puede descifrar: el algoritmo de cifrado de claves no coincide con el certificado.
 sec-error-pkcs7-bad-signature = Falló la verificación de la firma: no se ha encontrado firmante, se han encontrado demasiados firmantes o los datos son inadecuados o corruptos.
 sec-error-unsupported-keyalg = Algoritmo de clave no soportado o desconocido.
-sec-error-decryption-disallowed = No se puede descifrar: se cortó usando un algoritmo o tamaño de clave no permitidos.
+sec-error-decryption-disallowed = No se puede descifrar: se cifró usando un algoritmo o tamaño de clave no permitidos.
 xp-sec-fortezza-bad-card = Fortezza card has not been properly initialized.  Please remove it and return it to your issuer.
 xp-sec-fortezza-no-card = No se encontraron tarjetas Fortezza
 xp-sec-fortezza-none-selected = No se seleccionó ninguna tarjeta Fortezza
