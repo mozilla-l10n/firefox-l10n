@@ -13,12 +13,9 @@ login-app-promo-android =
     .alt = Барномаро аз Google Play гиред
 login-app-promo-apple =
     .alt = Барномаро аз App Store боргирӣ намоед
-
 login-filter =
     .placeholder = Ҷустуҷӯи воридшавиҳо
-
 create-login-button = Эҷод кардани воридшавии нав
-
 fxaccounts-sign-in-text = Ниҳонвожаҳои худро дар дастгоҳҳои дигари худ ба даст оред
 fxaccounts-sign-in-button = Ба { -sync-brand-short-name } ворид шавед
 fxaccounts-sign-in-sync-button = Барои ҳамоҳангсозӣ ворид шавед
@@ -55,6 +52,8 @@ login-list-count =
 login-list-sort-label-text = Мураттаб аз рӯи:
 login-list-name-option = Ном (А-Я)
 login-list-name-reverse-option = Ном (Я-А)
+login-list-username-option = Номи корбар (А-Я)
+login-list-username-reverse-option = Номи корбар (Я-А)
 about-logins-login-list-alerts-option = Огоҳиҳо
 login-list-last-changed-option = Санаи тағйири охирин
 login-list-last-used-option = Санаи истифодаи охирин
@@ -73,7 +72,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Воридшавиҳои нигоҳдошташударо меҷӯед? { -sync-brand-short-name }-ро танзим намоед.
-
 about-logins-login-intro-heading-logged-out2 = Воридшавиҳои нигоҳдошташударо меҷӯед? Ҳамоҳангсозиро фаъол кунед ё онҳоро ворид намоед.
 about-logins-login-intro-heading-logged-in = Ягон воридшавии ҳамоҳангшуда ёфт нашуд.
 login-intro-description = Агар шумо воридшавиҳои худро дар дастгоҳҳои гуногун ба { -brand-product-name } сабт карда бошед, дар он сурат шумо дар ин ҷо ба онҳо ҳамин тавр дастрасӣ пайдо мекунед:
@@ -84,7 +82,6 @@ login-intro-instructions-fxa = Эҷод кунед ё ба { -fxaccount-brand-na
 login-intro-instructions-fxa-settings = Ба Танзимот > Ҳамоҳангсозӣ > Фаъол кардани ҳамоҳангсозӣ гузаред… Ба «Воридшавиҳо ва ниҳонвожаҳо» аломати қайдро гузоред.
 login-intro-instructions-fxa-help = Барои гирифтани кумак ба <a data-l10n-name="help-link">Дастгирии { -lockwise-brand-short-name }</a> ташриф оред.
 about-logins-intro-import = Агар воридшавиҳои шумо дар браузери дигар нигоҳ дошта бошанд, шумо метавонед <a data-l10n-name="import-link">онҳоро ба { -lockwise-brand-short-name } ворид кунед</a>
-
 about-logins-intro-import2 = Агар воридшавиҳои шумо берун аз { -brand-product-name } нигоҳ дошта бошанд, шумо метавонед <a data-l10n-name="import-browser-link">онҳоро аз браузери дигар</a> ё <a data-l10n-name="import-file-link">аз файл ворид намоед</a>
 
 ## Login
@@ -126,13 +123,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Барои таҳрир к�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = воридшавии нигоҳдошташударо таҳрир кунад
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Барои дидани ниҳонвожаи худ, маълумоти корбари «Windows»-и худро ворид кунед. Ин амал барои муҳофизат кардани амнияти ҳисоби шумо кумак мерасонад.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ниҳонвожаи нигоҳдошташударо нишон диҳад
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Барои нусха бардоштани ниҳонвожаи худ, маълумоти корбари «Windows»-и худро ворид кунед. Ин амал барои муҳофизат кардани амнияти ҳисоби шумо кумак мерасонад.
 # This message can be seen when attempting to copy a password in about:logins
@@ -142,7 +137,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = ниҳонвожаи 
 ## Master Password notification
 
 master-password-notification-message = Лутфан, барои дидани воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда, ниҳонвожаи хусусии худро ворид намоед
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Барои содир кардани воридшавиҳои худ, маълумоти корбари «Windows»-и худро ворид кунед. Ин амал барои муҳофизат кардани амнияти ҳисоби шумо кумак мерасонад.
 # This message can be seen when attempting to export a password in about:logins
@@ -179,23 +173,19 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Бекор кардан
 confirmation-dialog-dismiss-button =
     .title = Бекор кардан
-
 about-logins-confirm-remove-dialog-title = Ин воридшавиро тоза мекунед?
 confirm-delete-dialog-message = Ин амал бекор карда намешавад.
 about-logins-confirm-remove-dialog-confirm-button = Тоза кардан
-
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Тоза кардан
        *[other] Ҳамаро тоза кардан
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ҳа, ин воридшавиро тоза намоед
        *[other] Ҳа, ин воридшавиҳоро тоза намоед
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Воридшавии { $count }-ро тоза мекунед?
@@ -206,7 +196,6 @@ about-logins-confirm-remove-all-dialog-message =
         [1] Ин амал воридшавиеро, ки шумо дар { -brand-short-name } нигоҳ доштед, тоза мекунад, аз он ҷумла, ҳамаи ҳушдорҳо оид ба вайронкуниҳое, ки дар ин ҷо пайдо мешаванд, тоза карда мешаванд. Шумо ин амалро пас аз иҷро бекор карда наметавонед.
        *[other] Ин амал воридшавиҳоеро, ки шумо дар { -brand-short-name } нигоҳ доштед, тоза мекунад, аз он ҷумла, ҳамаи ҳушдорҳо оид ба вайронкуниҳое, ки дар ин ҷо пайдо мешаванд, тоза карда мешаванд. Шумо ин амалро пас аз иҷро бекор карда наметавонед.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Воридшавии { $count }-ро аз ҳамаи дастгоҳҳо тоза мекунед?
@@ -217,14 +206,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Ин амал воридшавиеро, ки шумо дар { -brand-short-name } нигоҳ доштед, дар ҳамаи дастгоҳҳои бо { -fxaccount-brand-name } ҳамоҳангшуда тоза мекунад. Аз он ҷумла, ҳамаи ҳушдорҳо оид ба вайронкуниҳое, ки дар ин ҷо пайдо мешаванд, тоза карда мешаванд. Шумо ин амалро пас аз иҷро бекор карда наметавонед.
        *[other] Ин амал ҳамаи воридшавиҳоеро, ки шумо дар { -brand-short-name } нигоҳ доштед, дар ҳамаи дастгоҳҳои бо { -fxaccount-brand-name } ҳамоҳангшуда тоза мекунад. Аз он ҷумла, ҳамаи ҳушдорҳо оид ба вайронкуниҳое, ки дар ин ҷо пайдо мешаванд, тоза карда мешаванд. Шумо ин амалро пас аз иҷро бекор карда наметавонед.
     }
-
 about-logins-confirm-export-dialog-title = Содир кардани воридшавиҳо ва ниҳонвожаҳо
 about-logins-confirm-export-dialog-message = Ниҳонвожаҳои шумо дар шакли матни хондашаванда нигоҳ дошта мешаванд (масалан, BadP@ssw0rd), бинобар ин, ҳар касе, ки метавонад файлро кушояд, ҳам метавонад ниҳонвожаҳоро бинад.
 about-logins-confirm-export-dialog-confirm-button = Содирот…
-
 about-logins-alert-import-title = Воридот анҷом ёфт
 about-logins-alert-import-message = Дидани ҷамъбасти муфассал оид ба воридот
-
 confirm-discard-changes-dialog-title = Тағйироти захиранашударо бекор мекунед?
 confirm-discard-changes-dialog-message = Ҳамаи тағироти захиранашуда гум мешаванд.
 confirm-discard-changes-dialog-confirm-button = Рад кардан
@@ -255,10 +241,8 @@ about-logins-vulnerable-alert-learn-more-link = Маълумоти бештар
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Воридшавӣ барои { $loginTitle } бо ин номи корбар аллакай вуҷуд дорад. <a data-l10n-name="duplicate-link">Ба воридшавии мавҷудбуда мегузаред?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Ҳангоми кӯшиши нигоҳ доштани ин ниҳонвожа хато ба миён омад.
-
 
 ## Login Export Dialog
 
@@ -305,12 +289,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Воридшавиҳои нав илова шуданд:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Воридшавиҳои мавҷудбуда навсозӣ шудаанд:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Воридшавиҳои такрорӣ ёфт шуданд:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ворид нашудаанд)</span>
@@ -320,7 +302,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Хатоҳо:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ворид нашудаанд)</span>
     }
 about-logins-import-dialog-done = Тайёр
-
 about-logins-import-dialog-error-title = Хатои воридот
 about-logins-import-dialog-error-conflicting-values-title = Якчанд қимати ихтилофнок барои як воридшавӣ
 about-logins-import-dialog-error-conflicting-values-description = Барои мисол: якчанд номи корбар, ниҳонвожа, нишонии URL ва ғайра барои як воридшавӣ.
@@ -334,10 +315,8 @@ about-logins-import-dialog-error-no-logins-imported = Ягон воридшав�
 about-logins-import-dialog-error-learn-more = Маълумоти бештар
 about-logins-import-dialog-error-try-import-again = Кӯшиши воридкуниро аз нав такрор кунед…
 about-logins-import-dialog-error-cancel = Бекор кардан
-
 about-logins-import-report-title = Ҷамъбасти воридот
 about-logins-import-report-description = Воридшавиҳо ва ниҳонвожаҳо ба { -brand-short-name } ворид шудаанд.
-
 #
 # Variables:
 #  $number (number) - The number of the row

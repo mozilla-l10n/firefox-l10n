@@ -315,6 +315,7 @@ identity-description-weak-cipher-risk = Одамони дигар метавон
 identity-description-active-blocked = { -brand-short-name } қисмҳои ҳифзнашудаи саҳифаи ҷориро манъ кард. <label data-l10n-name="link">Маълумоти бештар</label>
 identity-description-passive-loaded = Пайвасти шумо хусусӣ нест ва иттилооте, ки шумо бо ин сомона мубодила мекунед, метавонад аз ҷониби одамони дигар дида шавад.
 identity-description-passive-loaded-insecure = Ин сомона дорои муҳтавои хатарнок мебошад (масалан, тасвирҳо). <label data-l10n-name="link">Маълумоти бештар</label>
+identity-description-passive-loaded-mixed = Гарчанде { -brand-short-name } баъзеи муҳтаворо манъ кард, дар ин саҳифа то ҳол муҳтавое (монанди тасвирҳо) вуҷуд дорад, ки бехатар намебошад. <label data-l10n-name="link">Маълумоти бештар</label>
 identity-description-active-loaded = Ин сомона дорои муҳтавои хатарнок мебошад (масалан, скриптҳо) ва пайвасти шумо ба он хусусӣ нест.
 identity-learn-more =
     .value = Маълумоти бештар
