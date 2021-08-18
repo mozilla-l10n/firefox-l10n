@@ -376,6 +376,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Ворид кардани хатбаракҳо…
     .tooltiptext = Ворид кардани хатбаракҳо аз браузери дигар ба { -brand-short-name }.
+bookmarks-toolbar-empty-message = Барои дастрасии зуд, хатбаракҳои худро дар ин ҷо дар навори абзорҳои хатбаракҳо гузоред. <a data-l10n-name="manage-bookmarks">Идоракунии хатбаракҳо…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -561,6 +562,11 @@ pointerlock-warning-no-domain = Ин ҳуҷҷат курсори муши шум
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Қисми ин саҳифа вайрон шуд.</strong> Барои ба { -brand-product-name } дар бораи ин масъала хабар додан ва зудтар ҳал кардани он, лутфан, гузориши худро пешниҳод намоед.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Қисми ин саҳифа вайрон шуд. Барои ба { -brand-product-name } дар бораи ин масъала хабар додан ва зудтар ҳал кардани он, лутфан, гузориши худро пешниҳод намоед.
 crashed-subframe-learnmore-link =
     .value = Маълумоти бештар
 crashed-subframe-submit =
