@@ -458,7 +458,7 @@ default-pub-sec-key-filename = Respaldo-de-claves-secretas
 refresh-key-warn = Advertencia: dependiendo de la cantidad de claves y la velocidad de conexión, actualizar todas las claves puede ser un proceso bastante largo.
 preview-failed = No se puede leer el archivo de la clave pública.
 general-error = Error: { $reason }
-dlg-button-delete = &Eliminar
+dlg-button-delete = &Borrar
 
 ## Account settings export output
 
