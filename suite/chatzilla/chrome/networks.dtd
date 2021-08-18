@@ -7,25 +7,32 @@
 <!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
 
 <!ENTITY restoreButton.label          "Obnovit výchozí">
+<!ENTITY restoreButton.accesskey      "v">
 
 <!ENTITY networkListAdd.label         "Přidat síť…">
+<!ENTITY networkListAdd.accesskey     "a">
 <!ENTITY networkListAdd.tooltip       "Přidat novou síť">
 <!ENTITY networkListEdit.label        "Upravit síť…">
 <!ENTITY networkListEdit.accesskey    "U">
 <!ENTITY networkListEdit.tooltip      "Upravit vybranou síť">
 <!ENTITY networkListRemove.label      "Odebrat síť">
+<!ENTITY networkListRemove.accesskey  "r">
 <!ENTITY networkListRemove.tooltip    "Odebrat vybranou síť">
 
 <!ENTITY serverListUp.label           "Přesunout nahoru">
+<!ENTITY serverListUp.accesskey       "u">
 <!ENTITY serverListUp.tooltip         "Přesunout vybraný server v seznamu nahoru">
 <!ENTITY serverListDown.label         "Přesunout dolů">
+<!ENTITY serverListDown.accesskey     "d">
 <!ENTITY serverListDown.tooltip       "Přesunout vybraný server v seznamu dolů">
 <!ENTITY serverListAdd.label          "Přidat server…">
+<!ENTITY serverListAdd.accesskey      "s">
 <!ENTITY serverListAdd.tooltip        "Přidat nový server">
 <!ENTITY serverListEdit.label         "Upravit server…">
 <!ENTITY serverListEdit.accesskey     "">
 <!ENTITY serverListEdit.tooltip       "Upravit vybraný server">
 <!ENTITY serverListRemove.label       "Odebrat server">
+<!ENTITY serverListRemove.accesskey   "d">
 <!ENTITY serverListRemove.tooltip     "Odebrat vybraný server">
 
 <!-- LOCALIZATION NOTE:
@@ -33,8 +40,11 @@
    - *.accesskey are only used in network-servers dialog -->
 <!ENTITY serverDetails.label          "Podrobnosti o vybraném serveru:">
 <!ENTITY serverName.label             "Server:">
+<!ENTITY serverName.accesskey         "S">
 <!ENTITY serverPort.label             "Port:">
+<!ENTITY serverPort.accesskey         "P">
 <!ENTITY connectionSecurity.label     "Zabezpečení připojení:">
+<!ENTITY connectionSecurity.accesskey "n">
 
 <!-- Used in networks-server dialog -->
 <!ENTITY serverEditDialog.title       "IRC server">
