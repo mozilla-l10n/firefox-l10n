@@ -27,6 +27,5 @@
 
 <!ENTITY backgroundImage.label      "Imagen de fondo:">
 <!ENTITY backgroundImage.accesskey  "m">
-<!ENTITY chooseFile.label           "Seleccionar archivo...">
+<!ENTITY chooseFile.label           "Seleccionar archivo…">
 <!ENTITY chooseFile.accesskey       "o">
-

@@ -21,7 +21,7 @@
 <!ENTITY findReplaceCmd.label "Buscar y reemplazar…">
 <!ENTITY enableInlineSpellChecker.label "Ortografía mientras tipea">
 <!ENTITY enableInlineSpellChecker.accesskey "O">
-<!ENTITY checkSpellingCmd2.label "Revisar ortografía">
+<!ENTITY checkSpellingCmd2.label "Revisar ortografía…">
 <!ENTITY checkSpellingCmd2.accesskey "g">
 <!ENTITY checkSpellingCmd2.key "p">
 
