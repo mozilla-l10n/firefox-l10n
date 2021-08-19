@@ -166,6 +166,7 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Mantener public le destinatarios
     .accesskey = M
+many-public-recipients-prompt-title = Troppo de destinatarios public
 many-public-recipients-prompt-cancel = Cancellar invio
 many-public-recipients-prompt-send = Inviar comocunque
 
