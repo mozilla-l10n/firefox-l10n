@@ -1190,11 +1190,11 @@ collection-privacy-notice = Обавештење о приватности
 collection-health-report-telemetry-disabled = Више не дозвољавате { -vendor-short-name }-у да снима техничке и интерактивне податке. Сви протекли подаци биће избрисани у року од 30 дана.
 collection-health-report-telemetry-disabled-link = Сазнајте више
 collection-health-report =
-    .label = Шаљи техничке податке и податке о интеракцији
+    .label = Дозволи да { -brand-short-name } шаље техничке податке и податке о интеракцији { -vendor-short-name }-и
     .accesskey = Ш
 collection-health-report-link = Сазнајте више
 collection-studies =
-    .label = Дозволи инсталацију студија
+    .label = Дозволи да { -brand-short-name } инсталира и покрене студије
 collection-studies-link = Погледајте { -brand-short-name } студије
 addon-recommendations =
     .label =
@@ -1209,10 +1209,10 @@ addon-recommendations-link = Сазнајте више
 # or builds with no Telemetry support available.
 collection-health-report-disabled = У овој верзији је слање података онемогућено.
 collection-backlogged-crash-reports =
-    .label = Шаљи заостале извештаје о отказивању у моје име
+    .label = Дозволи да { -brand-short-name } шаље заостале извештаје о отказивању у моје име
     .accesskey = љ
 collection-backlogged-crash-reports-link = Сазнајте више
-collection-backlogged-crash-reports-with-link = Шаљи заостале извештаје о отказивању у моје име <a data-l10n-name="crash-reports-link">Сазнајте више</a>
+collection-backlogged-crash-reports-with-link = Дозволи да { -brand-short-name } шаље заостале извештаје о отказивању у моје име <a data-l10n-name="crash-reports-link">Сазнајте више</a>
     .accesskey = љ
 
 ## Privacy Section - Security
