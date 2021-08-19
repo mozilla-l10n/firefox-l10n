@@ -10,3 +10,5 @@ account-finish-account-setup = Užbaigti paskyros kūrimą
 account-disconnected2 = Paskyra atjungta
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Siųsti į visus įrenginius
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = Tvarkyti įrenginius…
