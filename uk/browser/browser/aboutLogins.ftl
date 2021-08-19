@@ -69,6 +69,12 @@ about-logins-list-item-breach-icon =
     .title = Зламаний вебсайт
 about-logins-list-item-vulnerable-password-icon =
     .title = Ненадійний пароль
+about-logins-list-section-breach = Вебсайти з витоками
+about-logins-list-section-vulnerable = Вразливі паролі
+about-logins-list-section-nothing = Без попередження
+about-logins-list-section-today = Сьогодні
+about-logins-list-section-yesterday = Вчора
+about-logins-list-section-week = Останні 7 днів
 
 ## Introduction screen
 
