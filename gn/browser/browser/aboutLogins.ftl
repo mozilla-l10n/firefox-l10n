@@ -70,6 +70,10 @@ about-logins-list-item-vulnerable-password-icon =
     .title = Ñe’ẽñemi ivaikuaáva
 about-logins-list-section-breach = Ñanduti renda imarãva
 about-logins-list-section-vulnerable = Ñe’ẽñemi ivaikuaáva
+about-logins-list-section-nothing = Kyhyjerã’ỹre
+about-logins-list-section-today = Ko árape
+about-logins-list-section-yesterday = Kuehe
+about-logins-list-section-week = 7 ára ohasaramovéva
 
 ## Introduction screen
 
