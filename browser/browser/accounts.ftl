@@ -10,3 +10,5 @@ account-finish-account-setup = បញ្ចប់​ការរៀបចំ​�
 account-disconnected2 = គណនីត្រូវបានផ្តាច់
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = ផ្ញើ​ទៅ​ឧបករណ៍​ទាំងអស់
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = គ្រប់គ្រងឧបករណ៍…
