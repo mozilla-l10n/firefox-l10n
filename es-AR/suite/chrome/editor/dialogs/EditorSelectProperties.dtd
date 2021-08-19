@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Selection List Properties">
+<!ENTITY windowTitle.label "Propiedades de la lista de selección">
 
-<!ENTITY Select.label "Selection List">
+<!ENTITY Select.label "Lista de selección">
 <!ENTITY SelectName.label "List Name:">
 <!ENTITY SelectName.accesskey "N">
 <!ENTITY SelectSize.label "Height:">
@@ -38,7 +38,7 @@
 
 <!ENTITY AddOption.label "Add Option">
 <!ENTITY AddOption.accesskey "O">
-<!ENTITY AddOptGroup.label "Add Group">
+<!ENTITY AddOptGroup.label "Agregar grupo">
 <!ENTITY AddOptGroup.accesskey "G">
 <!ENTITY RemoveElement.label "Remove">
 <!ENTITY RemoveElement.accesskey "R">
