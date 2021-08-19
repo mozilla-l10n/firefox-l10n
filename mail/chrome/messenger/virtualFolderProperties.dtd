@@ -11,7 +11,7 @@
 <!ENTITY searchTermCaption.label "Configurar el criterio de busqueda usado para esta carpeta virtual:">
 
 <!ENTITY folderSelectionCaption.label "Seleccionar las carpetas en las que buscar:">
-<!ENTITY chooseFoldersButton.label "Elegir…">
+<!ENTITY chooseFoldersButton.label "Seleccionar…">
 <!ENTITY chooseFoldersButton.accesskey "E">
 
 <!ENTITY searchOnline.label "Buscar en línea (da resultados actualizados de carpetas IMAP y de noticias, pero aumenta el tiempo de apertura de la carpeta)">

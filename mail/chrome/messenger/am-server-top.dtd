@@ -50,7 +50,7 @@
 <!ENTITY modelDeleteImmediately.label "Eliminarlo inmediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Limpiar (&quot;Borrar el contenido&quot;) carpeta de entrada al salir">
+<!ENTITY expungeOnExit.label "Limpiar (&quot;Borrar el contenido&quot;) de la bandeja de entrada al salir">
 <!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Vaciar la papelera al salir">
 <!ENTITY emptyTrashOnExit.accesskey "V">
