@@ -677,7 +677,7 @@ more-menu-go-offline =
     .label = Work Offline
     .accesskey = k
 toolbar-overflow-customize-button =
-    .label = Customise Toolbar…
+    .label = Customise toolbar…
     .accesskey = C
 
 ## EME notification panel

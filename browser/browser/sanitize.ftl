@@ -34,13 +34,13 @@ clear-time-duration-prefix =
     .accesskey = T
 
 clear-time-duration-value-last-hour =
-    .label = Last Hour
+    .label = Last hour
 
 clear-time-duration-value-last-2-hours =
-    .label = Last Two Hours
+    .label = Last two hours
 
 clear-time-duration-value-last-4-hours =
-    .label = Last Four Hours
+    .label = Last four hours
 
 clear-time-duration-value-today =
     .label = Today
@@ -57,7 +57,7 @@ clear-time-duration-suffix =
 history-section-label = History
 
 item-history-and-downloads =
-    .label = Browsing & Download History
+    .label = Browsing & download history
     .accesskey = B
 
 item-cookies =
@@ -65,7 +65,7 @@ item-cookies =
     .accesskey = C
 
 item-active-logins =
-    .label = Active Logins
+    .label = Active logins
     .accesskey = L
 
 item-cache =
@@ -73,7 +73,7 @@ item-cache =
     .accesskey = a
 
 item-form-search-history =
-    .label = Form & Search History
+    .label = Form & search history
     .accesskey = F
 
 data-section-label = Data
@@ -83,7 +83,7 @@ item-site-preferences =
     .accesskey = S
 
 item-offline-apps =
-    .label = Offline Web Site Data
+    .label = Offline web site data
     .accesskey = O
 
 sanitize-everything-undo-warning = This action cannot be undone.
