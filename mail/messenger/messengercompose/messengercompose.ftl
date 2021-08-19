@@ -189,6 +189,14 @@ many-public-recipients-ignore =
     .label = Přijimarjow zjawnych dźeržeć
     .accesskey = P
 many-public-recipients-prompt-title = Přewjele zjawnych přijimarjow
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Waša powěsć ma zjawneho přijimarja. To móže priwatnosć wohrozyć. Přesuńće přijimarja wot pola Komu/Kopija do pola Schowana kopija.
+        [two] Waša powěsć ma { $count } zjawneju přijimarjow, kotrajž móžetaj mjez sobu swoje adresy widźeć. To móže priwatnosć wohrozyć. Přesuńće tohodla přijimarjow wot pola Komu/Kopija do pola Schowana kopija.
+        [few] Waša powěsć ma { $count } zjawnych přijimarjow, kotřiž móža mjez sobu swoje adresy widźeć. To móže priwatnosć wohrozyć. Přesuńće tohodla přijimarjow wot pola Komu/Kopija do pola Schowana kopija.
+       *[other] Waša powěsć ma { $count } zjawnych přijimarjow, kotřiž móža mjez sobu swoje adresy widźeć. To móže priwatnosć wohrozyć. Přesuńće tohodla přijimarjow wot pola Komu/Kopija do pola Schowana kopija.
+    }
 many-public-recipients-prompt-cancel = Słanje přetorhnyć
 many-public-recipients-prompt-send = Najebać toho słać
 
