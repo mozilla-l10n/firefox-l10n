@@ -5,4 +5,5 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = অ্যাকাউন্ট সেটআপ শেষ করুন
-
+# Menu item that sends a tab to all synced devices.
+account-send-to-all-devices = সকল ডিভাইসে পাঠাও
