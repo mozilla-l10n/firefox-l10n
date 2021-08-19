@@ -169,6 +169,12 @@ many-public-recipients-ignore =
     .label = 保持收件人公开
     .accesskey = K
 many-public-recipients-prompt-title = 太多公开收件人
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] 您的消息包含公开的收件人，可能会造成隐私顾虑。可以将它们改为“密件”以避免泄露收件人信息。
+       *[other] 您的消息中有 { $count } 位公开的收件人，他们都能看到彼此的邮箱，可能会造成隐私顾虑。可以将它们改为“密送”以避免泄露收件人信息。
+    }
 many-public-recipients-prompt-cancel = 取消发送
 many-public-recipients-prompt-send = 仍要发送
 
