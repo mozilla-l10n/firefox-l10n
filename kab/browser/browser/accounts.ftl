@@ -10,3 +10,5 @@ account-finish-account-setup = Fak asebded n umiḍan
 account-disconnected2 = Amiḍan yeffeɣ seg tuqqna
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Azen ɣer akk ibenkan
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = Sefrek ibenkan…
