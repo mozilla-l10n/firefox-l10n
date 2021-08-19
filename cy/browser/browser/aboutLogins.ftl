@@ -74,6 +74,10 @@ about-logins-list-item-vulnerable-password-icon =
     .title = Cyfrinair bregus
 about-logins-list-section-breach = Gwefannau wedi dioddef tor-data
 about-logins-list-section-vulnerable = Cyfrinair bregus
+about-logins-list-section-nothing = Dim rhybudd
+about-logins-list-section-today = Heddiw
+about-logins-list-section-yesterday = Ddoe
+about-logins-list-section-week = Y 7 diwrnod diwethaf
 
 ## Introduction screen
 
