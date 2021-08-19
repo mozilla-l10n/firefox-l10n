@@ -18,5 +18,5 @@
 <!ENTITY viewCustomViews.accesskey "V">
 <!ENTITY viewVirtualFolder.label "Salvar vista como una carpeta…">
 <!ENTITY viewVirtualFolder.accesskey "S">
-<!ENTITY viewCustomizeView.label "Personalizar">
+<!ENTITY viewCustomizeView.label "Personalizar…">
 <!ENTITY viewCustomizeView.accesskey "P">

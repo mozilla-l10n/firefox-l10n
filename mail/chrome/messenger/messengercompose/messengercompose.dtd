@@ -219,7 +219,7 @@
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Enviar">
 <!ENTITY quoteButton.label "Citar">
-<!ENTITY addressButton.label "Dirección">
+<!ENTITY addressButton.label "Contactos">
 <!ENTITY attachButton.label "Adjuntar">
 <!ENTITY spellingButton.label "Ortografía">
 <!ENTITY saveButton.label "Guardar">
