@@ -10,3 +10,5 @@ account-finish-account-setup = Viimeistele tilin käyttöönotto
 account-disconnected2 = Tilin yhteys katkaistu
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Lähetä kaikkiin laitteisiin
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = Hallitse laitteita…
