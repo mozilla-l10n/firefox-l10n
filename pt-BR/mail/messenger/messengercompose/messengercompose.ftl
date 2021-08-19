@@ -162,12 +162,21 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Exibir campo { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Os { $count } destinatários em Para e Cc irão ver os endereços uns dos outros. Você pode evitar revelar destinatários usando Cco.
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Sua mensagem tem um destinatário público. Você pode evitar revelar destinatários usando Cco em vez de Para ou Cc.
+       *[other] Os { $count } destinatários em Para e Cc irão ver os endereços uns dos outros. Você pode evitar revelar destinatários usando Cco.
+    }
 many-public-recipients-bcc =
     .label = Mudar para Cco (com cópia oculta)
     .accesskey = u
 many-public-recipients-ignore =
     .label = Manter públicos os destinatários
     .accesskey = M
+many-public-recipients-prompt-title = Destinatários públicos demais
+many-public-recipients-prompt-cancel = Cancelar envio
+many-public-recipients-prompt-send = Enviar assim mesmo
 
 ## Notifications
 
