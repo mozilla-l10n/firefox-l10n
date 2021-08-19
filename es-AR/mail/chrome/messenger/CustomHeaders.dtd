@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Personalizar encabezados">
-<!ENTITY addButton.label "Añadir">
+<!ENTITY addButton.label "Agregar">
 <!ENTITY addButton.accesskey "A">
 <!ENTITY removeButton.label "Eliminar">
 <!ENTITY removeButton.accesskey "r">
