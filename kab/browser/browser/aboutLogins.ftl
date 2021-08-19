@@ -53,6 +53,7 @@ login-list-sort-label-text = Smizzwer s:
 login-list-name-option = Isem (A-Z)
 login-list-name-reverse-option = Isem (Z-A)
 login-list-username-option = Isem n useqdac (A-Z)
+login-list-username-reverse-option = Isem n useqdac (Z-A)
 about-logins-login-list-alerts-option = Ilɣa
 login-list-last-changed-option = Asnifel aneggaru
 login-list-last-used-option = Aseqdec anneggaru
@@ -67,6 +68,10 @@ about-logins-list-item-breach-icon =
     .title = Asmel i tḥuza trewla n yisefka
 about-logins-list-item-vulnerable-password-icon =
     .title = Awal uffir ur iǧhid ara
+about-logins-list-section-breach = Ismal i tḥuza trewla n yisefka
+about-logins-list-section-vulnerable = Awalen uffiren ur ǧhiden ara
+about-logins-list-section-today = Ass-a
+about-logins-list-section-yesterday = Iḍelli
 
 ## Introduction screen
 
