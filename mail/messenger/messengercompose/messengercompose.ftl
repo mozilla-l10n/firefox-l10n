@@ -174,12 +174,23 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Pólo { bcc-compose-address-row-label.value } pokazaś ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Dostawarje w póloma Komu a Kopija budu adresu drugich wiźeś. Licba: { $count }. Wužywajśo město togo pólo Schowana kopija, aby tomu zajźował, až se dostawarje wótekšywaju.
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Waša powěsć ma zjawnego dostawarja. Wužywajśo město togo pólo Schowana kopija, aby tomu zajźował, až se dostawarje pśeraźuju.
+        [two] { $count } dostawarja w póloma Komu a Kopija buźotej adresu drugich wiźeś. Wužywajśo město togo pólo Schowana kopija, aby tomu zajźował, až se dostawarje wótekšywaju.
+        [few] { $count } dostawarje w póloma Komu a Kopija budu adresu drugich wiźeś. Wužywajśo město togo pólo Schowana kopija, aby tomu zajźował, až se dostawarje wótekšywaju.
+       *[other] { $count } dostawarjow w póloma Komu a Kopija buźo adresu drugich wiźeś. Wužywajśo město togo pólo Schowana kopija, aby tomu zajźował, až se dostawarje wótekšywaju.
+    }
 many-public-recipients-bcc =
     .label = Schowanu kopiju město togo wužywaś
     .accesskey = S
 many-public-recipients-ignore =
     .label = Dostawarje zjawne źaržaś
     .accesskey = D
+many-public-recipients-prompt-title = Pśewjele zjawnych dostawarjow
+many-public-recipients-prompt-cancel = Słanje pśetergnuś
+many-public-recipients-prompt-send = Weto słaś
 
 ## Notifications
 
