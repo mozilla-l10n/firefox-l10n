@@ -168,12 +168,27 @@ many-public-recipients-info =
         [few] Celkem { $count } adresáti v polích Komu a Kopie navzájem uvidí své adresy. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
        *[other] Celkem { $count } adresátů v polích Komu a Kopie navzájem uvidí své adresy. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
     }
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Příjemce této zprávy je uvedený veřejně. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
+        [few] Celkem { $count } adresáti v polích Komu a Kopie navzájem uvidí své adresy. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
+       *[other] Celkem { $count } adresátů v polích Komu a Kopie navzájem uvidí své adresy. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
+    }
 many-public-recipients-bcc =
     .label = Použít skrytou kopii
     .accesskey = u
 many-public-recipients-ignore =
     .label = Ponechat příjemce veřejně
     .accesskey = n
+many-public-recipients-prompt-title = Příliš mnoho veřejných příjemců
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Příjemce této zprávy je uvedený veřejně, což může ohrozit jeho soukromí. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
+        [few] Celkem { $count } adresáti v polích Komu a Kopie navzájem uvidí své adresy, což může ohrozit jeho soukromí. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
+       *[other] Celkem { $count } adresátů v polích Komu a Kopie navzájem uvidí své adresy, což může ohrozit jeho soukromí. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
+    }
 many-public-recipients-prompt-cancel = Zrušit odesílání
 many-public-recipients-prompt-send = Přesto odeslat
 
