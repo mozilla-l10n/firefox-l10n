@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = Website met datalek
 about-logins-list-item-vulnerable-password-icon =
     .title = Kwetsbaar wachtwoord
+about-logins-list-section-breach = Websites met datalek
+about-logins-list-section-vulnerable = Kwetsbare wachtwoorden
+about-logins-list-section-nothing = Geen waarschuwing
+about-logins-list-section-today = Vandaag
+about-logins-list-section-yesterday = Gisteren
+about-logins-list-section-week = Afgelopen 7 dagen
 
 ## Introduction screen
 
