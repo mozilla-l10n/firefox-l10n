@@ -67,6 +67,12 @@ about-logins-list-item-breach-icon =
     .title = 유출된 웹 사이트
 about-logins-list-item-vulnerable-password-icon =
     .title = 취약한 비밀번호
+about-logins-list-section-breach = 유출된 웹 사이트
+about-logins-list-section-vulnerable = 취약한 비밀번호
+about-logins-list-section-nothing = 알림 없음
+about-logins-list-section-today = 오늘
+about-logins-list-section-yesterday = 어제
+about-logins-list-section-week = 최근 7일
 
 ## Introduction screen
 
