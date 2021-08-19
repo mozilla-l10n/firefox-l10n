@@ -157,12 +157,20 @@ bcc-compose-show-address-row-label =
     .tooltiptext = 顯示「{ bcc-compose-address-row-label.value }」欄位（{ bcc-compose-show-address-row-menuitem.acceltext }）
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = 「給」與「副本」收件者共有 { $count } 位，都可看到彼此的收件信箱。您可以改用「密件副本」來避免揭露收件者資訊。
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] 您的訊息當中有公開的收件者，可以改用「密件副本」來避免揭露收件者資訊。
+       *[other] 「給」與「副本」收件者共有 { $count } 位，都可看到彼此的收件信箱。您可以改用「密件副本」來避免揭露收件者資訊。
+    }
 many-public-recipients-bcc =
     .label = 改為密件副本收件者
     .accesskey = U
 many-public-recipients-ignore =
     .label = 保持收件者名單公開
     .accesskey = K
+many-public-recipients-prompt-title = 太多公開收件者
+many-public-recipients-prompt-cancel = 取消傳送
 
 ## Notifications
 
