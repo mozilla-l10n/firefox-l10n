@@ -186,12 +186,35 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Dangos Maes { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Bydd y  { $count } derbyniwr yn At a Cc weld cyfeiriad ei gilydd. Gallwch osgoi datgelu derbynwyr trwy ddefnyddio Bcc yn lle.
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [zero] Nid oes gan eich neges unrhyw dderbynydd.
+        [one] osgoi datgelu derbynwyr trwy ddefnyddio Bcc yn lle.
+        [two] Bydd y  { $count } derbyniwr yn At a Cc yn gweld cyfeiriad ei gilydd. Gallwch osgoi datgelu derbynwyr trwy ddefnyddio Bcc yn lle.
+        [few] Bydd y  { $count } derbyniwr yn At a Cc yn gweld cyfeiriad ei gilydd. Gallwch osgoi datgelu derbynwyr trwy ddefnyddio Bcc yn lle.
+        [many] Bydd y  { $count } derbyniwr yn At a Cc yn gweld cyfeiriad ei gilydd. Gallwch osgoi datgelu derbynwyr trwy ddefnyddio Bcc yn lle.
+       *[other] Bydd y  { $count } derbyniwr yn At a Cc yn gweld cyfeiriad ei gilydd. Gallwch osgoi datgelu derbynwyr trwy ddefnyddio Bcc yn lle.
+    }
 many-public-recipients-bcc =
     .label = Defnyddio Bcc yn lle hynny
     .accesskey = D
 many-public-recipients-ignore =
     .label = Cadw Derbynwyr yn Gyhoeddus
     .accesskey = G
+many-public-recipients-prompt-title = Gormod o Dderbynwyr Cyhoeddus
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [zero] Nid oes gan eich neges unrhyw dderbyniwr.
+        [one] Mae gan eich neges dderbynwyr cyhoeddus. Gall hyn fod yn bryder preifatrwydd. Gallwch osgoi datgelu derbynwyr trwy symud derbynwyr o At /Cc i Bcc yn lle.
+        [two] Mae gan eich neges { $count } derbynwyr cyhoeddus, a fydd yn gallu gweld cyfeiriadau ei gilydd. Gall hyn fod yn bryder preifatrwydd. Gallwch osgoi datgelu derbynwyr trwy symud derbynwyr o At /Cc i Bcc yn lle.
+        [few] Mae gan eich neges { $count } derbynwyr cyhoeddus, a fydd yn gallu gweld cyfeiriadau ei gilydd. Gall hyn fod yn bryder preifatrwydd. Gallwch osgoi datgelu derbynwyr trwy symud derbynwyr o At /Cc i Bcc yn lle.
+        [many] Mae gan eich neges { $count } derbynwyr cyhoeddus, a fydd yn gallu gweld cyfeiriadau ei gilydd. Gall hyn fod yn bryder preifatrwydd. Gallwch osgoi datgelu derbynwyr trwy symud derbynwyr o At /Cc i Bcc yn lle.
+       *[other] Mae gan eich neges { $count } derbynwyr cyhoeddus, a fydd yn gallu gweld cyfeiriadau ei gilydd. Gall hyn fod yn bryder preifatrwydd. Gallwch osgoi datgelu derbynwyr trwy symud derbynwyr o At /Cc i Bcc yn lle.
+    }
+many-public-recipients-prompt-cancel = Diddymu Anfon
+many-public-recipients-prompt-send = Anfonwch Beth Bynnag
 
 ## Notifications
 
