@@ -10,3 +10,5 @@ account-finish-account-setup = Gorffen Creu Cyfrif
 account-disconnected2 = Datgysylltwyd y cyfrif
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Anfon i Bob Dyfais
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = Rheoli Dyfeisiadau…
