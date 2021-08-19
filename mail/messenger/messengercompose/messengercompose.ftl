@@ -170,6 +170,12 @@ many-public-recipients-ignore =
     .label = 保持收件者名單公開
     .accesskey = K
 many-public-recipients-prompt-title = 太多公開收件者
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] 您的訊息包含公開的收件者，可能會造成隱私權疑慮。可以將他們移到「密件副本」來避免揭露收件者資訊。
+       *[other] 您的訊息當中有 { $count } 位公開的收件者，他們都能看到彼此的信箱，可能會造成隱私權疑慮。可以將他們移到「密件副本」來避免揭露收件者資訊。
+    }
 many-public-recipients-prompt-cancel = 取消傳送
 many-public-recipients-prompt-send = 還是要寄出
 
