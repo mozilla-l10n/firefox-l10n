@@ -10,7 +10,7 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
-<!ENTITY compositionToolbar.tooltip "Barra de composición">
+<!ENTITY compositionToolbar.tooltip "Barra de redacción">
 <!ENTITY previewToolbarCmd.label "Examinar">
 <!ENTITY previewToolbarCmd.tooltip "Cargar esta página en el navegador">
 
@@ -23,7 +23,7 @@
 <!ENTITY sendPageCmd.accesskey "E">
 
 <!-- View menu items -->
-<!ENTITY compositionToolbarCmd.label "Barra de composición">
+<!ENTITY compositionToolbarCmd.label "Barra de redacción">
 <!ENTITY compositionToolbarCmd.accesskey "c">
 <!ENTITY formattingToolbarCmd.label "Barra de formato">
 <!ENTITY formattingToolbarCmd.accesskey "f">
