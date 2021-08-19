@@ -72,6 +72,8 @@ about-logins-list-item-breach-icon =
     .title = Gwefan wedi dioddef tor-data
 about-logins-list-item-vulnerable-password-icon =
     .title = Cyfrinair bregus
+about-logins-list-section-breach = Gwefannau wedi dioddef tor-data
+about-logins-list-section-vulnerable = Cyfrinair bregus
 
 ## Introduction screen
 
