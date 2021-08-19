@@ -70,6 +70,12 @@ about-logins-list-item-breach-icon =
     .title = Zranjone websedło
 about-logins-list-item-vulnerable-password-icon =
     .title = Napadojte gronidło
+about-logins-list-section-breach = Websedła z datowymi źěrami
+about-logins-list-section-vulnerable = Napadojte gronidła
+about-logins-list-section-nothing = Žedno warnowanje
+about-logins-list-section-today = Źinsa
+about-logins-list-section-yesterday = Cora
+about-logins-list-section-week = Zachadne 7 dnjow
 
 ## Introduction screen
 
