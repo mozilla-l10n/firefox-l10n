@@ -19,7 +19,7 @@
 <!ENTITY feedFolder.accesskey        "r">
 
 <!-- Account Settings and Subscription Dialog -->
-<!ENTITY biffStart.label             "Verificar por novos artigos a cada ">
+<!ENTITY biffStart.label             "Verificar se há novos artigos a cada ">
 <!ENTITY biffStart.accesskey         "k">
 <!ENTITY biffMinutes.label           "minutos">
 <!ENTITY biffMinutes.accesskey       "n">
