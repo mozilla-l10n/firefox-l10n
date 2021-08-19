@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = אתר שנפרץ
 about-logins-list-item-vulnerable-password-icon =
     .title = ססמה פגיעה
+about-logins-list-section-breach = אתרים שנפרצו
+about-logins-list-section-vulnerable = ססמאות פגיעות
+about-logins-list-section-nothing = אין התראה
+about-logins-list-section-today = היום
+about-logins-list-section-yesterday = אתמול
+about-logins-list-section-week = 7 הימים האחרונים
 
 ## Introduction screen
 
