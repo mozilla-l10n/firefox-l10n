@@ -5,7 +5,8 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Tik'is Runuk'ulem K'ak'a' Rub'i' Taqoya'l
-
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Chupun rub'i' taqoya'l
+# Menu item that sends a tab to all synced devices.
+account-send-to-all-devices = Titaq pa Ronojel taq Okisaxel
