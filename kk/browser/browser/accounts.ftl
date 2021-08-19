@@ -10,3 +10,5 @@ account-finish-account-setup = Тіркелгіні баптауды аяқта�
 account-disconnected2 = Тіркелгі байланыспаған
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Барлық құрылғыларға жіберу
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = Құрылғыларды басқару…
