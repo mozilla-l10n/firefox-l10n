@@ -67,6 +67,12 @@ about-logins-list-item-breach-icon =
     .title = 發生資料外洩事件的網站
 about-logins-list-item-vulnerable-password-icon =
     .title = 脆弱的密碼
+about-logins-list-section-breach = 發生資料外洩事件的網站
+about-logins-list-section-vulnerable = 脆弱的密碼
+about-logins-list-section-nothing = 沒有警報
+about-logins-list-section-today = 今天
+about-logins-list-section-yesterday = 昨天
+about-logins-list-section-week = 最近 7 天
 
 ## Introduction screen
 
