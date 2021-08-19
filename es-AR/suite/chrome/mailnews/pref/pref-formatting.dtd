@@ -30,7 +30,7 @@
 <!-- Add Domain Name -->
 <!ENTITY add.htmltitle                "Agregar un nombre de dominio HTML">
 <!ENTITY add.htmldomain               "Agregar un nombre de dominio HTML">
-<!ENTITY add.plaintexttitle           "Nombre de dominio HTML:">
+<!ENTITY add.plaintexttitle           "Agregar un nombre de dominio de texto plano">
 <!ENTITY add.plaintextdomain          "Nombre de dominio de texto plano:">
 
 <!ENTITY domainnameError.title        "Error en el nombre de dominio">
