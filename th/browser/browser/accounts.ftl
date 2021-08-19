@@ -5,7 +5,8 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = เสร็จสิ้นการตั้งค่าบัญชี
-
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = ตัดการเชื่อมต่อบัญชีแล้ว
+# Menu item that sends a tab to all synced devices.
+account-send-to-all-devices = ส่งไปยังอุปกรณ์ทั้งหมด
