@@ -162,12 +162,27 @@ bcc-compose-show-address-row-label =
     .tooltiptext = A { bcc-compose-address-row-label.value } mező megjelenítése ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = A címzett és másolatot kapó { $count } partner látni fogja egymás címét. Elkerülheti a címzettek közzétételét, ha helyette titkos másolatot használ.
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Az üzenetének nyilvános címzettje van. Elkerülheti a címzettek közzétételét, ha helyette titkos másolatot használ.
+       *[other] A címzett és másolatot kapó { $count } partner látni fogja egymás címét. Elkerülheti a címzettek közzétételét, ha helyette titkos másolatot használ.
+    }
 many-public-recipients-bcc =
     .label = Helyette titkos másolat használata
     .accesskey = H
 many-public-recipients-ignore =
     .label = A címzettek legyenek nyilvánosak
     .accesskey = l
+many-public-recipients-prompt-title = Túl sok nyilvános címzett
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Üzenetének nyilvános címzettje van. Ez adatvédelmi aggály lehet. Elkerülheti a címzettek közzétételét, ha áthelyezi a címzetteket a Címzett/Másolatot kap mezőból a Titkos másolatba.
+       *[other] Üzenetének { $count } nyilvános címzettje van, akik láthatják egymás címét. Ez adatvédelmi aggály lehet. Elkerülheti a címzettek közzétételét, ha áthelyezi a címzetteket a Címzett/Másolatot kap mezőből a Titkos másolatba.
+    }
+many-public-recipients-prompt-cancel = Küldés megszakítása
+many-public-recipients-prompt-send = Küldés mindenképp
 
 ## Notifications
 
