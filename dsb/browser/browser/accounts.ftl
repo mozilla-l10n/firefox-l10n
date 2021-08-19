@@ -10,3 +10,5 @@ account-finish-account-setup = Konfigurěrowanje konta dokóńcyś
 account-disconnected2 = Konto źělone
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Na wše rědy pósłaś
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = Rědy rědowaś…
