@@ -29,6 +29,9 @@ open-in-new-window-for-csp-or-xfo-error = ᱱᱟᱶᱟ ᱡᱷᱚᱨᱠᱟ ᱨᱮ
 
 connectionFailure-title = ᱡᱩᱲᱟᱹᱣ ᱵᱟᱝ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ
 deniedPortAccess-title = ᱱᱚᱶᱟ ᱴᱷᱤᱠᱬᱟᱹ ᱫᱚ ᱠᱚᱦᱲᱟᱹᱣ ᱜᱮᱭᱟ
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = ᱦᱢ ᱾ ᱚᱱᱟ ᱥᱟᱭᱤᱴ ᱯᱟᱱᱛᱮ ᱨᱮ ᱟᱞᱮ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱞᱮ ᱵᱩᱡᱷᱟᱹᱣᱮᱫᱼᱟ ᱾
 fileNotFound-title = ᱨᱮᱫ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ
 fileAccessDenied-title = ᱨᱮᱫ ᱨᱮ ᱫᱚᱠᱷᱚᱞ ᱫᱚ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
 generic-title = ᱮᱦᱮ ᱾

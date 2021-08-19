@@ -119,35 +119,98 @@ menu-view-history-button =
 menu-view-full-zoom =
     .label = ᱦᱩᱲᱤᱧ ᱞᱟᱹᱴᱩ ᱛᱮᱭᱟᱨ
     .accesskey = ᱦ
+menu-view-full-zoom-enlarge =
+    .label = ᱢᱟᱨᱟᱝ ᱛᱮᱭᱟᱨ
+    .accesskey = ᱢ
 menu-view-full-zoom-reduce =
     .label = ᱢᱟᱨᱟᱝ ᱠᱷᱚᱱ ᱦᱤᱲᱤᱧ ᱛᱮᱭᱟᱨ
+    .accesskey = ᱢ
+menu-view-full-zoom-toggle =
+    .label = ᱮᱠᱷᱮᱱ ᱚᱱᱚᱞ ᱦᱤᱲᱤᱧ ᱢᱟᱨᱟᱝ
+    .accesskey = ᱚ
+menu-view-page-style-menu =
+    .label = ᱥᱟᱦᱴᱟ ᱦᱩᱱᱟᱹᱨ
+    .accesskey = ᱥ
+menu-view-page-style-no-style =
+    .label = ᱡᱟᱦᱱᱟᱜ ᱦᱤᱱᱟᱹᱨ ᱵᱟᱝ
+    .accesskey = ᱡ
+menu-view-page-basic-style =
+    .label = ᱢᱩᱞ ᱥᱟᱦᱴᱟ ᱦᱩᱱᱟᱹᱨ
     .accesskey = ᱢ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ
+    .accesskey = ᱯ
+menu-view-exit-full-screen =
+    .label = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ
+    .accesskey = ᱯ
 
 ##
 
+menu-view-bidi-switch-page-direction =
+    .label = ᱥᱟᱦᱴᱟ ᱱᱟᱠᱷᱟ ᱚᱛᱟᱭ ᱢᱮ
+    .accesskey = ᱥ
 
 ## History Menu
 
+menu-history =
+    .label = ᱱᱟᱜᱟᱢ
+    .accesskey = ᱱ
 menu-history-show-all-history =
     .label = ᱡᱷᱚᱛᱚ ᱱᱟᱜᱟᱢᱠᱚ ᱫᱮᱠᱷᱟᱣᱢᱮ
 menu-history-clear-recent-history =
     .label = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱱᱟᱜᱟᱢ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ...
+menu-history-undo-menu =
+    .label = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵᱽ ᱠᱚ
+menu-history-undo-window-menu =
+    .label = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱣᱤᱱᱰᱚ ᱠᱚ
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = ᱵᱩᱠᱢᱟᱨᱠ
+    .accesskey = ᱵ
+menu-bookmarks-show-all =
+    .label = ᱡᱷᱚᱛᱚ ᱵᱩᱠᱢᱟᱨᱠ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+menu-bookmark-edit =
+    .label = ᱱᱚᱶᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+menu-bookmarks-all-tabs =
+    .label = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ…
 
 ## Tools Menu
 
+menu-tools-downloads =
+    .label = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
+    .accesskey = ᱰ
+menu-tools-addons =
+    .label = ᱮᱰ-ᱟᱸᱱᱥ
+    .accesskey = ᱮ
 menu-tools-sync-now =
     .label = ᱱᱤᱛᱚᱜ ᱥᱤᱝᱠ ᱢᱮ
     .accesskey = ᱱ
 menu-tools-web-developer =
     .label = ᱣᱮᱵᱽ ᱞᱟᱦᱟ ᱦᱚᱪᱚᱭᱤᱡ
     .accesskey = ᱣ
+menu-tools-page-source =
+    .label = ᱥᱟᱦᱴᱟ ᱥᱨᱚᱛ
+    .accesskey = ᱥ
+menu-tools-page-info =
+    .label = ᱥᱟᱦᱨᱟ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
+    .accesskey = ᱥ
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] ᱚᱯᱥᱚᱱ
+           *[other] ᱠᱩᱥᱤᱭᱟᱜ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ᱚ
+           *[other] ᱠ
+        }
 menu-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ
     .accesskey =
@@ -158,6 +221,10 @@ menu-settings =
 
 ## Window Menu
 
+menu-window-menu =
+    .label = ᱣᱤᱱᱰᱚ
+menu-window-bring-all-to-front =
+    .label = ᱡᱷᱚᱛᱚ ᱥᱟᱢᱟᱝ ᱨᱮ ᱟᱹᱜᱩ
 
 ## Help Menu
 
@@ -170,3 +237,15 @@ menu-settings =
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.
 
+menu-help-keyboard-shortcuts =
+    .label = ᱠᱟᱹᱴᱷᱤ ᱵᱚᱰ ᱠᱟᱴᱚ ᱛᱮᱭᱟᱨ
+    .accesskey = ᱠ
+menu-help-troubleshooting-info =
+    .label = ᱫᱤᱜᱫᱷᱟᱹ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
+    .accesskey = ᱫ
+menu-help-feedback-page =
+    .label = ᱯᱷᱤᱰᱵᱮᱠ ᱡᱚᱢᱟᱭ ᱢᱮ…
+    .accesskey = ᱯ
+menu-help-safe-mode-without-addons =
+    .label = ᱮᱰᱼᱟᱸᱱᱥ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱛᱨᱭᱟᱨ ᱥᱟᱶ ᱫᱚᱦᱲᱟᱹ ᱮᱦᱚᱵ…
+    .accesskey = ᱮ
