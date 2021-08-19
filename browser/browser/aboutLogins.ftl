@@ -70,6 +70,12 @@ about-logins-list-item-breach-icon =
     .title = Zranjene websydło
 about-logins-list-item-vulnerable-password-icon =
     .title = Zranite hesło
+about-logins-list-section-breach = Websydła z datowymi dźěrami
+about-logins-list-section-vulnerable = Zranite hesła
+about-logins-list-section-nothing = Žane warnowanje
+about-logins-list-section-today = Dźensa
+about-logins-list-section-yesterday = Wčera
+about-logins-list-section-week = Zańdźene 7 dnjow
 
 ## Introduction screen
 
