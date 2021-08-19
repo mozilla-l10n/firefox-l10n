@@ -81,7 +81,7 @@ policy-PromptForDownloadLocation = Preguntar dónde guardar los archivos al desc
 policy-Proxy = Configurar opciones de proxy.
 policy-RequestedLocales = Establezca la lista de localizaciones solicitadas para la aplicación ordenadas por preferencia.
 policy-SanitizeOnShutdown2 = Borrar datos de navegación al cerrar.
-policy-SearchEngines = Configure los ajustes del buscador. Esta política solo está disponible en la versión Extended Support Release (ESR).
+policy-SearchEngines = Configurar los ajustes del buscador. Esta política solo está disponible en la versión Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Habilitar o deshabilitar las sugerencias de búsqueda.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
