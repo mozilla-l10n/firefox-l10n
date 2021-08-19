@@ -52,6 +52,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "R">
 
+<!-- Edit menu items -->
 <!ENTITY accountManagerCmd.label "Opciones de cuentas de correo y noticias…">
 <!ENTITY accountManagerCmd.accesskey "O">
 
@@ -95,7 +96,7 @@
 
 <!ENTITY outputFormatMenu.label "Acuse de recibo">
 <!ENTITY outputFormatMenu.accesskey  "A">
-<!ENTITY autoFormatCmd.label "Formato">
+<!ENTITY autoFormatCmd.label "Autodetectar">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Sólo texto sin formato">
 <!ENTITY plainTextFormatCmd.accesskey "S">
@@ -121,12 +122,12 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "Barra de direcciones">
 <!ENTITY formatToolbar.tooltip "Barra de herramientas de formato">
-<!ENTITY sendButton.tooltip "Enviar este mensaje ahora"> 
-<!ENTITY sendlaterButton.tooltip "Enviar este mensaje más tarde"> 
-<!ENTITY addressButton.tooltip "Seleccionar un destinatario de una libreta de direcciones"> 
-<!ENTITY attachButton.tooltip "Incluir un adjunto"> 
-<!ENTITY saveButton.tooltip "Guardar este mensaje"> 
-<!ENTITY stopButton.tooltip "Detener la transferencia actual"> 
+<!ENTITY sendButton.tooltip "Enviar este mensaje ahora">
+<!ENTITY sendlaterButton.tooltip "Enviar este mensaje más tarde">
+<!ENTITY addressButton.tooltip "Seleccionar un destinatario de una libreta de direcciones">
+<!ENTITY attachButton.tooltip "Incluir un adjunto">
+<!ENTITY saveButton.tooltip "Guardar este mensaje">
+<!ENTITY stopButton.tooltip "Detener la transferencia actual">
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Abrir">
