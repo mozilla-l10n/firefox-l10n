@@ -222,7 +222,7 @@ account-setup-addon-no-protocol = Este servidor de email infelizmente não ofere
 
 ## Success view
 
-account-setup-settings-button = Configurações de contas
+account-setup-settings-button = Configurações da conta
 account-setup-encryption-button = Criptografia de ponta a ponta
 account-setup-signature-button = Adicionar uma assinatura
 account-setup-dictionaries-button = Baixar dicionários
