@@ -10,3 +10,5 @@ account-finish-account-setup = Završi postavljanje računa
 account-disconnected2 = Račun je odspojen
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Pošalji na sve uređaje
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = Upravljaj uređajima…
