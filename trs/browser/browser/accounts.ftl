@@ -5,4 +5,5 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Ganahuij riña nagi'iát si kuentât
-
+# Menu item that sends a tab to all synced devices.
+account-send-to-all-devices = Ga'ni' riña darān aga'a
