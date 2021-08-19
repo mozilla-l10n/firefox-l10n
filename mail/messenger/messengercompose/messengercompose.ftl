@@ -174,6 +174,8 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Ponechat příjemce veřejně
     .accesskey = n
+many-public-recipients-prompt-cancel = Zrušit odesílání
+many-public-recipients-prompt-send = Přesto odeslat
 
 ## Notifications
 
