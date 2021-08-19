@@ -152,4 +152,4 @@ policy-SupportMenu = Přidání vlastní položky nabídky s nápovědou.
 policy-UserMessaging = Nezobrazovat uživateli určité zprávy.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Blokování návštěvy webových stránek. Více informací o formátu najdete v dokumentaci.
-policy-Windows10SSO = Povolí jednotné přihlašování Windows pro pracovní a školní účty a účty Microsoftu.
+policy-Windows10SSO = Povolení jednotného přihlašování Windows pro pracovní a školní účty a účty Microsoft.
