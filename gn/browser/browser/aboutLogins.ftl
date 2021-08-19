@@ -68,6 +68,8 @@ about-logins-list-item-breach-icon =
     .title = Ñanduti renda imarãva
 about-logins-list-item-vulnerable-password-icon =
     .title = Ñe’ẽñemi ivaikuaáva
+about-logins-list-section-breach = Ñanduti renda imarãva
+about-logins-list-section-vulnerable = Ñe’ẽñemi ivaikuaáva
 
 ## Introduction screen
 
