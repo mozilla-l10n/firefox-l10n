@@ -335,7 +335,7 @@ about-logins-import-report-description = Inicios de sesión y contraseñas impor
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Fila { $number }
-about-logins-import-report-row-description-no-change = Duplicado: Coincidencia exacta del inicio de sesión existente
+about-logins-import-report-row-description-no-change = Duplicado: Coincidencia exacta con inicio de sesión existente
 about-logins-import-report-row-description-modified = Inicio de sesión actual actualizado
 about-logins-import-report-row-description-added = Se agregó nuevo inicio de sesión
 about-logins-import-report-row-description-error = Error: campo faltante
