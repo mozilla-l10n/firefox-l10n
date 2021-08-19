@@ -10,3 +10,5 @@ account-finish-account-setup = Selesaikan Pengaturan Akun
 account-disconnected2 = Akun terputus
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Kirim ke Semua Peranti
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = Kelola Perangkat…
