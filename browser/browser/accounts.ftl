@@ -5,4 +5,5 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Завршете го поставувањето сметка
-
+# Menu item that sends a tab to all synced devices.
+account-send-to-all-devices = Испрати на сите уреди
