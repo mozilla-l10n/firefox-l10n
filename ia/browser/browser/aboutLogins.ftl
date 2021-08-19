@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = Sito web violate
 about-logins-list-item-vulnerable-password-icon =
     .title = Contrasigno vulnerabile
+about-logins-list-section-breach = Sitos web violate
+about-logins-list-section-vulnerable = Contrasignos vulnerabile
+about-logins-list-section-nothing = Nulle aviso
+about-logins-list-section-today = Hodie
+about-logins-list-section-yesterday = Heri
+about-logins-list-section-week = Le ultime 7 dies
 
 ## Introduction screen
 
