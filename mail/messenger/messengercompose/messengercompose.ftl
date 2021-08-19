@@ -171,6 +171,7 @@ many-public-recipients-ignore =
     .accesskey = K
 many-public-recipients-prompt-title = 太多公開收件者
 many-public-recipients-prompt-cancel = 取消傳送
+many-public-recipients-prompt-send = 還是要寄出
 
 ## Notifications
 
