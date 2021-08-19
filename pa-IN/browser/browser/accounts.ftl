@@ -10,3 +10,5 @@ account-finish-account-setup = ਖਾਤਾ ਸੈਟਅੱਪ ਪੂਰਾ ਹ�
 account-disconnected2 = ਖਾਤਾ ਡਿਸ-ਕਨੈਕਟ ਹੈ
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਨੂੰ ਭੇਜੋ
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = …ਡਿਵਾਈਸਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
