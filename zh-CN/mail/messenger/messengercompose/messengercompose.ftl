@@ -157,12 +157,20 @@ bcc-compose-show-address-row-label =
     .tooltiptext = 显示“{ bcc-compose-address-row-label.value }”栏（{ bcc-compose-show-address-row-menuitem.acceltext }）
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = “收件人（To）”与“抄送（Cc）”共有 { $count } 位，他们可以看到彼此的邮箱地址。您可以改用“密送”来避免泄露收件人信息。
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+       *[other] “收件人（To）”与“抄送（Cc）”共有 { $count } 位，他们可以看到彼此的邮箱地址。您可以改用“密送”来避免泄露收件人信息。
+    }
 many-public-recipients-bcc =
     .label = 改用密送
     .accesskey = U
 many-public-recipients-ignore =
     .label = 保持收件人公开
     .accesskey = K
+many-public-recipients-prompt-title = 太多公开收件人
+many-public-recipients-prompt-cancel = 取消发送
+many-public-recipients-prompt-send = 仍要发送
 
 ## Notifications
 
