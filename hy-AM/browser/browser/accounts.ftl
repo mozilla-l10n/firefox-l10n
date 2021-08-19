@@ -7,3 +7,5 @@
 account-finish-account-setup = Ավարտել հաշվի տեղակայումը
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Ուղարկել բոլոր սարքերին
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = Կառավարել սարքերը…
