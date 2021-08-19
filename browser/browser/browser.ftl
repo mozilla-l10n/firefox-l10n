@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Управљајте коришћењем додатних компоненти
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Управљајте дељењем ваше камере и/или микрофона са сајтом
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Управљајте дељењем других звучника са сајтом
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Отвори панел за саморепродукцију
 urlbar-persistent-storage-notification-anchor =
@@ -578,6 +582,10 @@ pointerlock-warning-no-domain = Овај документ управља са в
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Део странице се срушио. </strong>Пошаљите извештај да би { -brand-product-name } сазнао за овај проблем и брже га решио.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Део странице се срушио. Пошаљите извештај да би { -brand-product-name } сазнао за овај проблем и брже га решио.
 crashed-subframe-learnmore-link =
     .value = Сазнајте више
 crashed-subframe-submit =
@@ -719,3 +727,6 @@ remote-tabs-sync-now = Синхронизуј
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Више…
