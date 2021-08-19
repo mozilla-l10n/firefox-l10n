@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = Site vazado
 about-logins-list-item-vulnerable-password-icon =
     .title = Senha vulnerável
+about-logins-list-section-breach = Sites com vazamento de dados
+about-logins-list-section-vulnerable = Senhas vulneráveis
+about-logins-list-section-nothing = Nenhum alerta
+about-logins-list-section-today = Hoje
+about-logins-list-section-yesterday = Ontem
+about-logins-list-section-week = Últimos 7 dias
 
 ## Introduction screen
 
