@@ -10,3 +10,5 @@ account-finish-account-setup = Tik'is Runuk'ulem K'ak'a' Rub'i' Taqoya'l
 account-disconnected2 = Chupun rub'i' taqoya'l
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Titaq pa Ronojel taq Okisaxel
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = Kenuk'samajïx taq Okisaxel…
