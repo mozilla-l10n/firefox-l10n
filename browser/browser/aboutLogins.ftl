@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = Adatsértésben érintett weboldal
 about-logins-list-item-vulnerable-password-icon =
     .title = Sebezhető jelszó
+about-logins-list-section-breach = Adatsértésben érintett weboldalak
+about-logins-list-section-vulnerable = Sebezhető jelszavak
+about-logins-list-section-nothing = Nincs riasztás
+about-logins-list-section-today = Ma
+about-logins-list-section-yesterday = Tegnap
+about-logins-list-section-week = Elmúlt 7 nap
 
 ## Introduction screen
 
