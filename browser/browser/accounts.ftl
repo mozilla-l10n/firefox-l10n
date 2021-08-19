@@ -10,3 +10,5 @@ account-finish-account-setup = アカウントのセットアップを完了
 account-disconnected2 = ログアウトしました
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = すべての端末に送信
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = 端末を管理...
