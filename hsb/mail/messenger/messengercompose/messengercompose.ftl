@@ -180,6 +180,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Přijimarjow zjawnych dźeržeć
     .accesskey = P
+many-public-recipients-prompt-title = Přewjele zjawnych přijimarjow
+many-public-recipients-prompt-cancel = Słanje přetorhnyć
+many-public-recipients-prompt-send = Najebać toho słać
 
 ## Notifications
 
