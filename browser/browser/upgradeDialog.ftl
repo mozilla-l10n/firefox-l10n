@@ -54,6 +54,13 @@ upgrade-dialog-pin-title =
                *[other] програм { -brand-short-name }
             } на траку задатака
     }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] Увек имајте најновији { -brand-short-name } при руци.
+       *[other] Увек имајте најновији { -brand-short-name } при руци.
+    }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
         [macos] Додај на док
