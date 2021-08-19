@@ -36,7 +36,6 @@ menu-application-touch-bar =
 menu-quit =
     .label = Изађи
     .accesskey = И
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
@@ -46,11 +45,9 @@ menu-quit-mac =
             [neuter] { -brand-shorter-name(case: "gen") }
            *[other] програма { -brand-shorter-name }
         }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
@@ -61,7 +58,6 @@ menu-quit-button-win =
             [neuter] { -brand-shorter-name(case: "gen") }
            *[other] програма { -brand-shorter-name }
         }
-
 menu-about =
     .label =
         О { -brand-shorter-name.gender ->
@@ -109,6 +105,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Пошаљи везу имејлом…
     .accesskey = м
+menu-file-share-url =
+    .label = Подели
+    .accesskey = h
 menu-file-print-setup =
     .label = Подеси страницу…
     .accesskey = u
@@ -193,7 +192,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Кодни распоред
     .accesskey = К
-
 menu-view-repair-text-encoding =
     .label = Исправи кодни распоред
     .accesskey = И
@@ -239,7 +237,6 @@ menu-history-undo-menu =
     .label = Недавно затворене картице
 menu-history-undo-window-menu =
     .label = Недавно затворени прозори
-
 menu-history-reopen-all-tabs = Поново отвори све картице
 menu-history-reopen-all-windows = Поново отвори све прозоре
 

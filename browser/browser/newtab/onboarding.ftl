@@ -331,6 +331,12 @@ mr1-onboarding-reduce-motion-button-label = Искључи анимације
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] Додајте { -brand-short-name } на траку задатака ради лакшег приступа
+       *[other] Закачите { -brand-short-name } на траку задатака ради лакшег приступа
+    }
 # Primary button string used on welcome page when Firefox is not pinned.
 mr1-onboarding-pin-primary-button-label =
     { PLATFORM() ->
