@@ -4,7 +4,7 @@
 
 <!ENTITY  pref.masterpass.title                  "Contraseña maestra">
 
-<!ENTITY  changepassword.caption                 "Cambiar Contraseña Maestra">
+<!ENTITY  changepassword.caption                 "Cambiar contraseña maestra">
 <!ENTITY  changepassword.text                    "La contraseña maestra protege información sensible, como múltiples contraseñas de acceso y certificados.">
 <!ENTITY  changepassword.button                  "Cambiar la contraseña…">
 <!ENTITY  changepassword.accesskey               "C">
