@@ -67,6 +67,12 @@ about-logins-list-item-breach-icon =
     .title = Trang web bị rò rỉ
 about-logins-list-item-vulnerable-password-icon =
     .title = Mật khẩu dễ bị tấn công
+about-logins-list-section-breach = Trang web bị rò rỉ
+about-logins-list-section-vulnerable = Mật khẩu dễ bị tấn công
+about-logins-list-section-nothing = Không có cảnh báo
+about-logins-list-section-today = Hôm nay
+about-logins-list-section-yesterday = Hôm qua
+about-logins-list-section-week = 7 ngày trước
 
 ## Introduction screen
 
