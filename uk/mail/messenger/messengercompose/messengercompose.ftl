@@ -168,12 +168,29 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Показати { bcc-compose-address-row-label.value } Поле ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = { $count } одержувачі у Кому та Копія бачитимуть адресу одне одного. Ви можете уникнути розголошення одержувачів, використовуючи замість цього приховану копію.
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Ваше повідомлення має публічного отримувача. Ви можете уникнути розкриття адрес отримувачів, скориставшись натомість полем ПК (прихована копія).
+        [few] { $count } отримувачі в полях Кому та Копія бачитимуть всіх адресатів. Ви можете уникнути розкриття адрес отримувачів, скориставшись натомість полем ПК (прихована копія).
+       *[many] { $count } отримувачів у полях Кому та Копія бачитимуть всіх адресатів. Ви можете уникнути розкриття адрес отримувачів, скориставшись натомість полем ПК (прихована копія).
+    }
 many-public-recipients-bcc =
     .label = Використовувати приховану копію натомість
     .accesskey = В
 many-public-recipients-ignore =
     .label = Залишити отримувачів видимими
     .accesskey = З
+many-public-recipients-prompt-title = Надто багато публічних отримувачів
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Ваше повідомлення має публічного отримувача. Це може бути проблемою приватності. Ви можете уникнути цього, перемістивши отримувача в поле ПК (прихована копія).
+        [few] Ваше повідомлення має { $count } публічні отримувачі. Це може бути проблемою приватності. Ви можете уникнути цього, перемістивши отримувачів у поле ПК (прихована копія).
+       *[many] Ваше повідомлення має { $count } публічних отримувачів. Це може бути проблемою приватності. Ви можете уникнути цього, перемістивши отримувачів у поле ПК (прихована копія).
+    }
+many-public-recipients-prompt-cancel = Скасувати надсилання
+many-public-recipients-prompt-send = Все одно надіслати
 
 ## Notifications
 
