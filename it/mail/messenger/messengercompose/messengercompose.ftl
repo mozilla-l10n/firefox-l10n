@@ -171,6 +171,12 @@ many-public-recipients-ignore =
     .label = Mantieni i destinatari visibili
     .accesskey = M
 many-public-recipients-prompt-title = Troppi destinatari pubblici
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Il tuo messaggio ha un destinatario pubblico. Questo potrebbe essere un problema di privacy. Puoi evitare di rivelare i destinatari spostando i destinatari da A/Cc a Ccn.
+       *[other] Il tuo messaggio ha { $count } destinatari pubblici che potranno vedere gli indirizzi degli altri. Questo potrebbe essere un problema di privacy. Puoi evitare di rivelare i destinatari spostando i destinatari da A/Cc a Ccn.
+    }
 many-public-recipients-prompt-cancel = Annulla invio
 many-public-recipients-prompt-send = Invia comunque
 
