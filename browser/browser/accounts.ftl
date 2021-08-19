@@ -10,3 +10,5 @@ account-finish-account-setup = ანგარიშის გამართვ
 account-disconnected2 = ანგარიში გამოთიშულია
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = ყველა მოწყობილობაზე გაგზავნა
+# Menu item that links to the Firefox Accounts settings for connected devices.
+account-manage-devices = მოწყობილობების მართვა…
