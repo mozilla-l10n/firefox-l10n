@@ -85,7 +85,7 @@ login-intro-instruction-fxa = Create or sign in to your { -fxaccount-brand-name 
 login-intro-instruction-fxa-settings = Make sure you’ve selected the Logins tickbox in { -sync-brand-short-name } Settings
 about-logins-intro-instruction-help = Visit <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> for more help
 login-intro-instructions-fxa = Create or sign in to your { -fxaccount-brand-name(capitalization: "sentence") } on the device where your logins are saved.
-login-intro-instructions-fxa-settings = Go to Settings > Sync > Turn on synchronisation… Select the Logins and passwords tickbox.
+login-intro-instructions-fxa-settings = Go to Settings > Sync > Turn on synchronisation… Select the Logins and passwords checkbox.
 login-intro-instructions-fxa-help = Visit <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> for more help.
 about-logins-intro-import = If your logins are saved in another browser, you can <a data-l10n-name="import-link">import them into { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = If your logins are saved outside of { -brand-product-name }, you can <a data-l10n-name="import-browser-link">import them from another browser</a> or <a data-l10n-name="import-file-link">from a file</a>
