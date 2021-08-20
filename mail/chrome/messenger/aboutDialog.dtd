@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 <!ENTITY warningDesc.version        "Το &brandShortName; είναι πειραματικό και ενδεχομένως ασταθές.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Στέλνει αυτόματα πληροφορίες σχετικά με επιδόσεις, υλικό, χρήση και προσαρμογές στη &vendorShortName; για τη βελτίωση του &brandShortName;.">
+<!ENTITY warningDesc.telemetryDesc  "Στέλνει αυτόματα πληροφορίες σχετικά με τις επιδόσεις, το υλικό, τη χρήση και τις προσαρμογές στη &vendorShortName; για τη βελτίωση του &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -67,7 +67,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Οι ενημερώσεις έχουν απενεργοποιηθεί από το διαχειριστή του συστήματός σας">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "Το &brandShortName; ενημερώνεται μέσω άλλης συνεδρίας">
+<!ENTITY update.otherInstanceHandlingUpdates "Το &brandShortName; ενημερώνεται από άλλη διεργασία">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
