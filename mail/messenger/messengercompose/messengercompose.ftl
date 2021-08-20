@@ -166,6 +166,9 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Διατήρηση ορατών παραληπτών
     .accesskey = Δ
+many-public-recipients-prompt-title = Πάρα πολλοί δημόσιοι παραλήπτες
+many-public-recipients-prompt-cancel = &Ακύρωση αποστολής
+many-public-recipients-prompt-send = Αποστολή ούτως ή άλλως
 
 ## Notifications
 
