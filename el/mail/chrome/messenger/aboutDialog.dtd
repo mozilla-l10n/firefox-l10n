@@ -61,7 +61,7 @@
 <!ENTITY bottomLinks.privacy        "Πολιτική απορρήτου">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Γίνεται έλεγχος για ενημερώσεις…">
+<!ENTITY update.checkingForUpdates  "Έλεγχος για ενημερώσεις…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "Το &brandShortName; είναι ενημερωμένο">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
