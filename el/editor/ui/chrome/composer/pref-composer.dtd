@@ -9,7 +9,7 @@
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Σύνθεση μηνυμάτων">
 <!ENTITY  recentFiles.title             "Μενού πρόσφατων σελίδων">
-<!ENTITY  documentsInMenu.label         "Μέγιστος αριθμός ιστορικού σελίδων:">
+<!ENTITY  documentsInMenu.label         "Μέγιστος αριθμός σελίδων:">
 <!ENTITY  documentsInMenu.accesskey     "γ">
 <!ENTITY  savingFiles.title             "Κατά την αποθήκευση ή δημοσίευση σελίδων">
 <!ENTITY  preserveExisting.label        "Διατήρηση μορφοποίησης αρχικού κώδικα">

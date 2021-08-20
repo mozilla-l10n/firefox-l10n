@@ -4,8 +4,8 @@
 
 <!-- Window title -->
 <!ENTITY siteUrl.label         "URL ιστοτόπου:">
-<!ENTITY docSubdir.label       "Υποκατάλογος σελίδας...">
-<!ENTITY otherSubdir.label     "Υποκατάλογος εικόνας...">
+<!ENTITY docSubdir.label       "Υποκατάλογος σελίδας:">
+<!ENTITY otherSubdir.label     "Υποκατάλογος εικόνας:">
 
 <!ENTITY status.label          "Δημοσίευση…">
 <!ENTITY fileList.label        "Κατάσταση δημοσίευσης">
