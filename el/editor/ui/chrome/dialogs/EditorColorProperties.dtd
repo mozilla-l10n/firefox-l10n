@@ -18,7 +18,7 @@
 <!ENTITY linkText.accessKey "δ">
 <!ENTITY activeLinkText.label "Χρώμα ενεργής διασύνδεσης">
 <!ENTITY activeLinkText.accessKey "ε">
-<!ENTITY visitedLinkText.label "Χρώμα αναγνωσμένης διασύνδεσης">
+<!ENTITY visitedLinkText.label "Κείμενο ανοιγμένου συνδέσμου">
 <!ENTITY visitedLinkText.accessKey "σ">
 <!ENTITY background.label "Φόντο:">
 <!ENTITY background.accessKey "Φ">

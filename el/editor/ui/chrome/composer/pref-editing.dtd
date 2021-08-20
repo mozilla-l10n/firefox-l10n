@@ -19,7 +19,7 @@
 <!ENTITY linkText.accesskey         "μ">
 <!ENTITY activeLinkText.label       "Χρώμα ενεργής διασύνδεσης">
 <!ENTITY activeLinkText.accesskey   "ν">
-<!ENTITY visitedLinkText.label      "Χρώμα αναγνωσμένης διασύνδεσης">
+<!ENTITY visitedLinkText.label      "Κείμενο ανοιγμένου συνδέσμου">
 <!ENTITY visitedLinkText.accesskey  "γ">
 <!ENTITY background.label           "Φόντο:">
 <!ENTITY background.accesskey       "Φ">
