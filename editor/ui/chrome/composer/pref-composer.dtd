@@ -15,15 +15,15 @@
 <!ENTITY  preserveExisting.label        "Διατήρηση μορφοποίησης αρχικού κώδικα">
 <!ENTITY  preserveExisting.accesskey    "τ">
 <!ENTITY  preserveExisting.tooltip      "Διατηρεί τις αλλαγές γραμμών και την αρχική μορφοποίηση της σελίδας">
-<!ENTITY  saveAssociatedFiles.label     "Να αποθηκεύονται εικόνες και άλλα σχετικά αρχεία κατά την αποθήκευση σελίδων">
+<!ENTITY  saveAssociatedFiles.label     "Αποθήκευση εικόνων και άλλων σχετικών αρχείων κατά την αποθήκευση σελίδων">
 <!ENTITY  saveAssociatedFiles.accesskey "θ">
 <!ENTITY  showPublishDialog.label       "Να εμφανίζεται πάντα ο διάλογος δημοσίευσης κατά τη δημοσίευση σελίδων">
 <!ENTITY  showPublishDialog.accesskey   "φ">
 <!ENTITY  composerEditing.label         "Επεξεργασία">
 <!ENTITY  maintainStructure.label       "Διατήρηση διάταξης πίνακα κατά την εισαγωγή ή διαγραφή κελιών">
-<!ENTITY  maintainStructure.tooltip     "Διατηρεί τη μορφοποίηση του πίνακα με το να εισάγει αυτόματα κελιά κατά την εισαγωγή ή διαγραφή κελιών">
+<!ENTITY  maintainStructure.tooltip     "Διατηρεί το ορθογώνιο σχήμα του πίνακα προσθέτοντας αυτόματα κελιά μετά την εισαγωγή ή διαγραφή κελιών">
 <!ENTITY  maintainStructure.accesskey   "Δ">
 <!ENTITY  useCSS.label                  "Χρήση στυλ CSS αντί για στοιχεία και ιδιότητες HTML">
 <!ENTITY  useCSS.accesskey              "Χ">
-<!ENTITY  crInPCreatesNewP.label        "Το πλήκτρο Return σε μια παράγραφο να δημιουργεί πάντα νέα παράγραφο">
+<!ENTITY  crInPCreatesNewP.label        "Το πλήκτρο Return σε μια παράγραφο δημιουργεί πάντα νέα παράγραφο">
 <!ENTITY  crInPCreatesNewP.accesskey    "ρ">

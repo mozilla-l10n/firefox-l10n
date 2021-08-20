@@ -13,10 +13,10 @@
 <!ENTITY default.accessKey "λ">
 <!ENTITY palette.label "Παλέτα:">
 <!ENTITY standardPalette.label "Κανονική">
-<!ENTITY webPalette.label "Όλα τα χρώματα web">
+<!ENTITY webPalette.label "Όλα τα χρώματα ιστού">
 <!ENTITY background.label "Φόντο για:">
 <!ENTITY background.accessKey "Φ">
 <!ENTITY table.label "Πίνακας">
-<!ENTITY table.accessKey "π">
+<!ENTITY table.accessKey "Π">
 <!ENTITY cell.label "Κελιά">
 <!ENTITY cell.accessKey "Κ">
