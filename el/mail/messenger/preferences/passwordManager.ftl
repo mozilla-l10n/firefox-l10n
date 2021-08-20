@@ -55,11 +55,9 @@ import =
 close-button =
     .label = Κλείσιμο
     .accesskey = Κ
-
 password-close-button =
     .label = Κλείσιμο
     .accesskey = Κ
-
 show-passwords =
     .label = Εμφάνιση κωδικών πρόσβασης
     .accesskey = κ
@@ -74,7 +72,7 @@ remove-all =
 remove-all-shown =
     .label = Αφαίρεση όλων των εμφανιζόμενων
     .accesskey = Α
-remove-all-passwords-prompt = Θέλετε σίγουρα να αφαιρέσετε όλους τους κωδικούς πρόσβασης;
+remove-all-passwords-prompt = Θέλετε σίγουρα να διαγράψετε όλους τους κωδικούς πρόσβασης;
 remove-all-passwords-title = Αφαίρεση όλων των κωδικών πρόσβασης
 no-master-password-prompt = Θέλετε σίγουρα να γίνει εμφάνιση των κωδικών πρόσβασής σας;
 
@@ -82,12 +80,10 @@ no-master-password-prompt = Θέλετε σίγουρα να γίνει εμφά
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Επαληθεύστε την ταυτότητά σας για αποκάλυψη των αποθηκευμένων κωδικών πρόσβασης.
-
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = αποκαλύψει τους αποθηκευμένους κωδικούς πρόσβασης
-
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }
