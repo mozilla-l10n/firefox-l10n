@@ -42,5 +42,5 @@
 <!ENTITY quitApplicationCmdUnix.label  "Έξοδος">
 <!ENTITY quitApplicationCmdUnix.accesskey  "Έ">
 
-<!ENTITY quitApplicationCmdMac.label  "Κλείσιμο &brandShortName;">
+<!ENTITY quitApplicationCmdMac.label  "Κλείσιμο του &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "λ">
