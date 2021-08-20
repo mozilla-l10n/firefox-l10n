@@ -78,7 +78,7 @@ about-logins-list-section-week = Últimos 7 días
 ## Introduction screen
 
 login-intro-heading = ¿Está buscando sus inicios de sesión guardados? Configure { -sync-brand-short-name }.
-about-logins-login-intro-heading-logged-out2 = ¿Buscando los ingresos guardados? Hay que habilitar la sincronización o importarlos.
+about-logins-login-intro-heading-logged-out2 = ¿Está buscando sus inicios de sesión guardados? Habilite la sincronización o impórtelos.
 about-logins-login-intro-heading-logged-in = No se encontraron inicios de sesión sincronizados.
 login-intro-description = Si guardó sus inicios de sesión en { -brand-product-name } en un dispositivo diferente, estos son los pasos a seguir para tenerlos aquí también:
 login-intro-instruction-fxa = Cree o inicie sesión en su { -fxaccount-brand-name } en el dispositivo donde guardó sus inicios de sesión
@@ -87,7 +87,7 @@ about-logins-intro-instruction-help = Vaya a <a data-l10n-name="help-link">Ayuda
 login-intro-instructions-fxa = Cree o inicie sesión en su { -fxaccount-brand-name } en el dispositivo donde guardó sus inicios de sesión.
 login-intro-instructions-fxa-settings = Ir a Ajustes > Sync > Activar la sincronización… Seleccionar la casilla Inicios de sesión y contraseñas.
 login-intro-instructions-fxa-help = Visite <a data-l10n-name="help-link">Soporte de { -lockwise-brand-short-name }</a> para más ayuda.
-about-logins-intro-import = Si sus inicios de sesión se guardan en otro navegador, puede <a data-l10n-name="import-link">importarlos a { -lockwise-brand-short-name }</a>
+about-logins-intro-import = Si sus inicios de sesión están guardados en otro navegador, puede <a data-l10n-name="import-link">importarlos a { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Si sus inicios de sesión están guardados fuera de { -brand-product-name }, puede <a data-l10n-name="import-browser-link">importarlos desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo</a>
 
 ## Login
