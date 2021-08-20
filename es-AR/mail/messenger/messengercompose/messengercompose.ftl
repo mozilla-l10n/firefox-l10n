@@ -168,6 +168,7 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Mantener públicos a los destinatarios
     .accesskey = p
+many-public-recipients-prompt-title = Demasiados destinatarios públicos
 
 ## Notifications
 
