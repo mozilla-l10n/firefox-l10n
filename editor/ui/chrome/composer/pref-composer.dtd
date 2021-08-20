@@ -23,7 +23,7 @@
 <!ENTITY  maintainStructure.label       "Διατήρηση διάταξης πίνακα κατά την εισαγωγή ή διαγραφή κελιών">
 <!ENTITY  maintainStructure.tooltip     "Διατηρεί τη μορφοποίηση του πίνακα με το να εισάγει αυτόματα κελιά κατά την εισαγωγή ή διαγραφή κελιών">
 <!ENTITY  maintainStructure.accesskey   "Δ">
-<!ENTITY  useCSS.label                  "Χρήση CSS styles αντί για γνωρίσματα HTML">
+<!ENTITY  useCSS.label                  "Χρήση στυλ CSS αντί για στοιχεία και ιδιότητες HTML">
 <!ENTITY  useCSS.accesskey              "Χ">
 <!ENTITY  crInPCreatesNewP.label        "Το πλήκτρο Return σε μια παράγραφο να δημιουργεί πάντα νέα παράγραφο">
 <!ENTITY  crInPCreatesNewP.accesskey    "ρ">
