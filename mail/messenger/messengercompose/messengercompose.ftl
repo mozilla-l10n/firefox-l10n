@@ -168,12 +168,29 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Zobraziť pole { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Príjemcovia (celkom { $count }) v poliach Komu a Kópia si navzájom uvidia adresy. Zverejňovaniu príjemcov sa môžete vyhnúť použitím Skrytej kópie.
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Vaša správa má viditeľného príjemcu. Zverejňovaniu príjemcov sa môžete vyhnúť použitím Skrytej kópie.
+        [few] Príjemcovia (celkom { $count }) v poliach Komu a Kópia si navzájom uvidia adresy. Zverejňovaniu príjemcov sa môžete vyhnúť použitím Skrytej kópie.
+       *[other] Príjemcovia (celkom { $count }) v poliach Komu a Kópia si navzájom uvidia adresy. Zverejňovaniu príjemcov sa môžete vyhnúť použitím Skrytej kópie.
+    }
 many-public-recipients-bcc =
     .label = Použiť Skrytú kópiu
     .accesskey = S
 many-public-recipients-ignore =
     .label = Ponechať príjemcov viditeľných
     .accesskey = P
+many-public-recipients-prompt-title = Príliš veľa verejných príjemcov
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Vaša správa má viditeľného príjemcu. Môže ísť o problém ochrany osobných údajov. Odhaleniu príjemcov sa môžete vyhnúť presunutím príjemcov z polí Komu/Kópia do poľa Skrytá kópia.
+        [few] Vaša správa má { $count } príjemcov, ktorí si budú navzájom vidieť adresy. Môže ísť o problém ochrany osobných údajov. Odhaleniu príjemcov sa môžete vyhnúť presunutím príjemcov z polí Komu/Kópia do poľa Skrytá kópia.
+       *[other] Vaša správa má { $count } príjemcov, ktorí si budú navzájom vidieť adresy. Môže ísť o problém ochrany osobných údajov. Odhaleniu príjemcov sa môžete vyhnúť presunutím príjemcov z polí Komu/Kópia do poľa Skrytá kópia.
+    }
+many-public-recipients-prompt-cancel = Zrušiť odoslanie
+many-public-recipients-prompt-send = Napriek tomu odoslať
 
 ## Notifications
 
