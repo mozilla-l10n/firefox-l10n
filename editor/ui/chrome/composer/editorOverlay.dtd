@@ -169,7 +169,7 @@
 <!ENTITY formatlistMenu.accesskey "Λ">
 <!ENTITY noneCmd.label "Κανένα">
 <!ENTITY noneCmd.accesskey "ν">
-<!ENTITY listBulletCmd.label "Κουκίδες">
+<!ENTITY listBulletCmd.label "Κουκκίδες">
 <!ENTITY listBulletCmd.accesskey "Κ">
 <!ENTITY listNumberedCmd.label "Αριθμημένη">
 <!ENTITY listNumberedCmd.accesskey "μ">
@@ -303,7 +303,7 @@
 <!ENTITY tableToolbarCmd.label "Πίνακας">
 <!ENTITY tableToolbarCmd.tooltip "Εισαγωγή νέου πίνακα ή επεξεργασία ιδιοτήτων επιλεγμένου πίνακα">
 <!ENTITY linkToolbarCmd.label "Σύνδεσμος">
-<!ENTITY linkToolbarCmd.tooltip "Εισαγωγή νέου ή επεξεργασία ιδιοτήτων επιλεγμένου δεσμού">
+<!ENTITY linkToolbarCmd.tooltip "Εισαγωγή νέου συνδέσμου ή επεξεργασία ιδιοτήτων επιλεγμένου">
 <!ENTITY anchorToolbarCmd.label "Άγκυρα">
 <!ENTITY anchorToolbarCmd.tooltip "Εισαγωγή νέας άγκυρας ή επεξεργασία ιδιοτήτων επιλεγμένης άγκυρας">
 <!ENTITY colorButtons.title "Χρώματα">
