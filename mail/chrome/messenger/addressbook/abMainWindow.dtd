@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Ευρετήριο">
-<!ENTITY blankResultsPaneMessage.label                  "Αυτό το ευρετήριο εμφανίζει επαφές μόνο μετά από μια αναζήτηση">
+<!ENTITY blankResultsPaneMessage.label                  "Αυτό το ευρετήριο εμφανίζει επαφές μόνο μετά από αναζήτηση">
 <!ENTITY localResultsOnlyMessage.label                  "Επαφές από απομακρυσμένα ευρετήρια δεν εμφανίζονται μέχρι να γίνει αναζήτηση">
 
 <!-- File Menu -->
@@ -74,7 +74,7 @@
 <!ENTITY viewToolbarsMenu.accesskey                     "γ">
 <!ENTITY menubarCmd.label                               "Γραμμή μενού">
 <!ENTITY menubarCmd.accesskey                           "μ">
-<!ENTITY showAbToolbarCmd.label                         "Γραμμή ευρετηρίων διευθύνσεων">
+<!ENTITY showAbToolbarCmd.label                         "Γραμμή ευρετηρίων">
 <!ENTITY showAbToolbarCmd.accesskey                     "ρ">
 <!ENTITY showTaskbarCmd.label                           "Γραμμή κατάστασης">
 <!ENTITY showTaskbarCmd.accesskey                       "μ">
@@ -151,7 +151,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Δημιουργία νέας επαφής στο ευρετήριο">
 <!ENTITY newlistButton.tooltip                          "Δημιουργία νέας λίστας">
 <!ENTITY editPropertiesButton.tooltip                   "Επεξεργασία επιλεγμένου στοιχείου">
-<!ENTITY editAbPropertiesButton.tooltip                 "Επεξεργασία ιδιοτήτων επιλεγμένου ευρετηρίου διευθύνσεων">
+<!ENTITY editAbPropertiesButton.tooltip                 "Επεξεργασία ιδιοτήτων επιλεγμένου ευρετηρίου">
 <!ENTITY editContactPropertiesButton.tooltip            "Επεξεργασία επιλεγμένης επαφής">
 <!ENTITY editMailingListPropertiesButton.tooltip        "Επεξεργασία επιλεγμένης λίστας αλληλογραφίας">
 <!ENTITY newmsgButton.tooltip                           "Αποστολή ενός μηνύματος αλληλογραφίας">
