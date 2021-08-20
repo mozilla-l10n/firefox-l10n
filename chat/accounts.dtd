@@ -32,9 +32,9 @@
 <!ENTITY account.movedown.label       "Μετακίνηση κάτω">
 <!ENTITY account.cancelReconnection.label         "Ακύρωση επανασύνδεσης">
 <!ENTITY account.cancelReconnection.accesskey     "Α">
-<!ENTITY account.copyDebugLog.label     "Αντιγραφή αρχείου εντοπισμού σφαλμάτων">
+<!ENTITY account.copyDebugLog.label     "Αντιγραφή αρχείου ελέγχου σφαλμάτων">
 <!ENTITY account.copyDebugLog.accesskey "Α">
-<!ENTITY account.showDebugLog.label     "Εμφάνιση αρχείου εντοπισμού σφαλμάτων">
+<!ENTITY account.showDebugLog.label     "Εμφάνιση αρχείου ελέγχου σφαλμάτων">
 <!ENTITY account.showDebugLog.accesskey "Μ">
 <!ENTITY account.connecting           "Σύνδεση…">
 <!ENTITY account.disconnecting        "Αποσύνδεση…">

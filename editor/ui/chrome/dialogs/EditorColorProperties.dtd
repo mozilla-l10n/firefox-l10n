@@ -14,9 +14,9 @@
 
 <!ENTITY normalText.label "Κανονικό κείμενο">
 <!ENTITY normalText.accessKey "ν">
-<!ENTITY linkText.label "Κείμενο διασύνδεσης">
+<!ENTITY linkText.label "Κείμενο συνδέσμου">
 <!ENTITY linkText.accessKey "δ">
-<!ENTITY activeLinkText.label "Χρώμα ενεργής διασύνδεσης">
+<!ENTITY activeLinkText.label "Κείμενο ενεργού συνδέσμου">
 <!ENTITY activeLinkText.accessKey "ε">
 <!ENTITY visitedLinkText.label "Κείμενο ανοιγμένου συνδέσμου">
 <!ENTITY visitedLinkText.accessKey "σ">

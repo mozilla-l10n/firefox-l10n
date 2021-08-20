@@ -12,7 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Ιδιότητες λίστας αλληλογραφίας">
 <!ENTITY mailingListPropertiesMenu.accesskey "ι">
 
-<!ENTITY abContextMenuButton.tooltip        "Προβολή μενού επιλογών ευρετηρίου διευθύνσεων">
+<!ENTITY abContextMenuButton.tooltip        "Προβολή μενού επιλογών ευρετηρίου">
 <!ENTITY addressbookPicker.label            "Ευρετήριο:">
 <!ENTITY addressbookPicker.accesskey        "υ">
 <!ENTITY searchContacts.label               "Αναζήτηση επαφών:">
