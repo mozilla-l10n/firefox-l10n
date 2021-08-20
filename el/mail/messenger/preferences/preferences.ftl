@@ -629,7 +629,7 @@ idle-time-label = λεπτά αδράνειας
 ##
 
 away-message-label =
-    .label = και να ορίζεται η κατάστασή μου σε "Εκτός υπολογιστή" με το εξής μήνυμα:
+    .label = και να ορίζεται η κατάστασή μου σε «Εκτός υπολογιστή» με το εξής μήνυμα:
     .accesskey = ζ
 send-typing-label =
     .label = Αποστολή ειδοποιήσεων πληκτρολόγησης στις συνομιλίες
@@ -725,7 +725,7 @@ search-results-header = Αποτελέσματα αναζήτησης
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
-        [windows] Συγγνώμη! Δεν υπάρχουν αποτελέσματα για το “<span data-l10n-name="query"></span>” στις Επιλογές.
-       *[other] Συγγνώμη! Δεν υπάρχουν αποτελέσματα για το “<span data-l10n-name="query"></span>” στις Προτιμήσεις.
+        [windows] Συγγνώμη! Δεν υπάρχουν αποτελέσματα για το «<span data-l10n-name="query"></span>» στις Επιλογές.
+       *[other] Συγγνώμη! Δεν υπάρχουν αποτελέσματα για το «<span data-l10n-name="query"></span>» στις Προτιμήσεις.
     }
 search-results-help-link = Χρειάζεστε βοήθεια; Επισκεφθείτε την <a data-l10n-name="url">Υποστήριξη { -brand-short-name }</a>

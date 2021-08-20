@@ -595,7 +595,7 @@
 <!ENTITY junkButton.tooltip "Επισήμανση επιλεγμένων μηνυμάτων ως ανεπιθύμητων">
 <!ENTITY notJunkButton.tooltip "Επισήμανση επιλεγμένων μηνυμάτων ως μη ανεπιθύμητων">
 <!ENTITY addressBookButton.tooltip "Μετάβαση στο ευρετήριο διευθύνσεων">
-<!ENTITY chatButton.tooltip 'Εμφάνιση καρτέλας "Συνομιλία"'>
+<!ENTITY chatButton.tooltip "Εμφάνιση καρτέλας «Συνομιλία»">
 <!ENTITY tagButton.tooltip "Ετικέτα σε μηνύματα">
 <!ENTITY compactButton.tooltip "Αφαίρεση διαγραμμένων μηνυμάτων από τον επιλεγμένο φάκελο">
 <!ENTITY appmenuButton1.tooltip "Προβολή του μενού του &brandShortName;">
