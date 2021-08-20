@@ -969,5 +969,5 @@
 <!ENTITY openAddressBookDock.label      "Άνοιγμα βιβλίου διευθύνσεων">
 
 <!-- Content tab Navigation buttons -->
-<!ENTITY browseBackButton.tooltip    "Μετάβαση μια σελίδα πίσω">
-<!ENTITY browseForwardButton.tooltip "Μετάβαση μια σελίδα μπροστά">
+<!ENTITY browseBackButton.tooltip    "Μετάβαση μία σελίδα πίσω">
+<!ENTITY browseForwardButton.tooltip "Μετάβαση μία σελίδα μπροστά">
