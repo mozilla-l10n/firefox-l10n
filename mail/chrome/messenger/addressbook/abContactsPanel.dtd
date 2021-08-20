@@ -41,7 +41,7 @@
 <!ENTITY newListAbContext.label             "Νέα λίστα">
 <!ENTITY newListAbContext.accesskey         "Λ">
 
-<!ENTITY toButton.label                     "Προσθήκη στο Πρός:">
+<!ENTITY toButton.label                     "Προσθήκη στο «Προς»:">
 <!ENTITY toButton.accesskey                 "Π">
 <!ENTITY ccButton.label                     "Προσθήκη στο «Κοιν.»:">
 <!ENTITY ccButton.accesskey                 "θ">

@@ -114,10 +114,10 @@
 
 <!ENTITY completionTitle.label "Συγχαρητήρια!">
 <!ENTITY completionText.label "Βεβαιωθείτε ότι οι παρακάτω πληροφορίες είναι σωστές.">
-<!ENTITY serverTypePrefix.label "Τύπος διακομιστή  εισερχομένων:">
+<!ENTITY serverTypePrefix.label "Τύπος διακομιστή εισερχομένων:">
 <!ENTITY serverNamePrefix.label "Όνομα διακομιστή εισερχομένων:">
 <!ENTITY smtpServerNamePrefix.label "Όνομα διακομιστή εξερχόμενων (SMTP):">
-<!ENTITY newsServerNamePrefix.label "Όνομα διακομιστή ομάδων συζήτησης (NNTP):">
+<!ENTITY newsServerNamePrefix.label "Όνομα διακομιστή συζητήσεων (NNTP):">
 <!ENTITY downloadOnLogin.label "Λήψη μηνυμάτων τώρα">
 <!ENTITY downloadOnLogin.accesskey "ψ">
 <!ENTITY deferStorageDesc.label "Αποεπιλέξτε αυτό το κουτί για να αποθηκεύετε αλληλογραφία για αυτόν το λογαριασμό στο δικό του κατάλογο. Αυτό θα εμφανίζει αυτόν το λογαριασμό στο πρώτο επίπεδο. Σε άλλη περίπτωση, θα είναι μέρος των Τοπικών φακέλων του λογαριασμού Γενικών Εισερχομένων.">
