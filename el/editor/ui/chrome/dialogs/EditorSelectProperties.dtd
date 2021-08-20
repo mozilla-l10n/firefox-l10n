@@ -29,7 +29,7 @@
 <!ENTITY OptionValue.accesskey "Τ">
 <!ENTITY OptionSelected.label "Αρχικά επιλεγμένο">
 <!ENTITY OptionSelected.accesskey "λ">
-<!ENTITY OptionDisabled.label "Απενεργοποιημένο">
+<!ENTITY OptionDisabled.label "Ανενεργό">
 <!ENTITY OptionDisabled.accesskey "γ">
 
 <!ENTITY TextHeader.label "Κείμενο">
