@@ -139,7 +139,7 @@
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveNamedAnchors.label "Αφαίρεση αγκυρών με όνομα">
+<!ENTITY formatRemoveNamedAnchors.label "Αφαίρεση επώνυμων αγκυρών">
 <!ENTITY formatRemoveNamedAnchors.accesskey "ρ">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
@@ -186,8 +186,8 @@
 <!ENTITY bodyTextCmd.label "Κύριο μέρος">
 <!ENTITY bodyTextCmd.accesskey "μ">
 <!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Προηγμένες ιδιότητες">
-<!ENTITY advancedPropertiesCmd.accesskey "γ">
+<!ENTITY advancedPropertiesCmd.label "Σύνθετες ιδιότητες">
+<!ENTITY advancedPropertiesCmd.accesskey "θ">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Στοίχιση">

@@ -59,7 +59,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "λ">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Τον τρέχοντα λογαριασμό">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "Τ">
-<!ENTITY getNextNMsgCmd2.label "Λήψη νέων μηνυμάτων ειδήσεων">
+<!ENTITY getNextNMsgCmd2.label "Λήψη επόμενων μηνυμάτων συζητήσεων">
 <!ENTITY getNextNMsgCmd2.accesskey "ω">
 <!ENTITY sendUnsentCmd.label "Αποστολή μη απεσταλμένων μηνυμάτων">
 <!ENTITY sendUnsentCmd.accesskey "π">
@@ -966,7 +966,7 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Επιλογές εικονιδίου εφαρμογής…">
 <!ENTITY writeNewMessageDock.label      "Σύνταξη νέου μηνύματος">
-<!ENTITY openAddressBookDock.label      "Άνοιγμα βιβλίου διευθύνσεων">
+<!ENTITY openAddressBookDock.label      "Άνοιγμα ευρετηρίου">
 
 <!-- Content tab Navigation buttons -->
 <!ENTITY browseBackButton.tooltip    "Μετάβαση μία σελίδα πίσω">
