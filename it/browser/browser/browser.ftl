@@ -706,3 +706,24 @@ remote-tabs-sync-now = Sincronizza adesso
 # "More" item in macOS share menu
 menu-share-more =
     .label = Altro…
+ui-tour-info-panel-close =
+    .tooltiptext = Chiudi
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Consentire a { $uriHost } di aprire finestre pop-up
+    .accesskey = P
+popups-infobar-block =
+    .label = Blocca finestre pop-up per { $uriHost }
+    .accesskey = P
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Non mostrare questo messaggio quando vengono bloccate delle finestre pop-up
+    .accesskey = N
+picture-in-picture-hide-toggle =
+    .label = Nascondi selettore Picture-in-Picture
+    .accesskey = N
