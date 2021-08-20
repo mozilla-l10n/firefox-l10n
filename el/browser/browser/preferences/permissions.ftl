@@ -91,9 +91,9 @@ permissions-exceptions-cookie-desc = Μπορείτε να καθορίσετε 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window =
-    .title = Εξαιρέσεις - Λειτουργία μόνο-HTTPS
+    .title = Εξαιρέσεις - Λειτουργία «Μόνο HTTPS»
     .style = { permissions-window.style }
-permissions-exceptions-https-only-desc = Μπορείτε να απενεργοποιήσετε τη λειτουργία μόνο-HTTPS για συγκεκριμένες ιστοσελίδες. Το { -brand-short-name } δεν θα επιχειρήσει να αναβαθμίσει τη σύνδεση, ώστε να εξασφαλίσει HTTPS για αυτές τις ιστοσελίδες. Οι εξαιρέσεις δεν ισχύουν για ιδιωτικά παράθυρα.
+permissions-exceptions-https-only-desc = Μπορείτε να απενεργοποιήσετε τη λειτουργία «Μόνο HTTPS» για συγκεκριμένες ιστοτόπους. Το { -brand-short-name } δεν θα επιχειρήσει να κάνει αναβάθμιση σε ασφαλή σύνδεση HTTPS στους ιστοτόπους αυτούς. Οι εξαιρέσεις δεν ισχύουν για ιδιωτικά παράθυρα.
 
 ## Exceptions - Pop-ups
 
