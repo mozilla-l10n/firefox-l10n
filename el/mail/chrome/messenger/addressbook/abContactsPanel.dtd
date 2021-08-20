@@ -21,9 +21,9 @@
 
 <!ENTITY addtoToFieldMenu.label             "Προσθήκη στο πεδίο Προς">
 <!ENTITY addtoToFieldMenu.accesskey         "Π">
-<!ENTITY addtoCcFieldMenu.label             'Προσθήκη στο πεδίο "Κοιν."'>
+<!ENTITY addtoCcFieldMenu.label             "Προσθήκη στο πεδίο «Κοιν.»">
 <!ENTITY addtoCcFieldMenu.accesskey         "Κ">
-<!ENTITY addtoBccFieldMenu.label            'Προσθήκη στο πεδίο "Κρυφή κοιν."'>
+<!ENTITY addtoBccFieldMenu.label            "Προσθήκη στο πεδίο «Κρυφή κοιν.»">
 <!ENTITY addtoBccFieldMenu.accesskey        "φ">
 <!ENTITY deleteAddrBookCard.label           "Διαγραφή">
 <!ENTITY deleteAddrBookCard.accesskey       "Δ">
@@ -43,7 +43,7 @@
 
 <!ENTITY toButton.label                     "Προσθήκη στο Πρός:">
 <!ENTITY toButton.accesskey                 "Π">
-<!ENTITY ccButton.label                     'Προσθήκη στο "Κοιν.":'>
+<!ENTITY ccButton.label                     "Προσθήκη στο «Κοιν.»:">
 <!ENTITY ccButton.accesskey                 "θ">
-<!ENTITY bccButton.label                    'Προσθήκη στο "Κρυφή κοιν.":'>
+<!ENTITY bccButton.label                    "Προσθήκη στο «Κρυφή κοιν.»:">
 <!ENTITY bccButton.accesskey                "φ">
