@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY siteUrl.label         " URL ιστοσελίδας:">
+<!ENTITY siteUrl.label         "URL ιστοτόπου:">
 <!ENTITY docSubdir.label       "Υποκατάλογος σελίδας...">
 <!ENTITY otherSubdir.label     "Υποκατάλογος εικόνας...">
 
