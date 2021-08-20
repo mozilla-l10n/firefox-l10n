@@ -31,11 +31,11 @@
 <!ENTITY pageTitle.label              "Όνομα σελίδας:">
 <!ENTITY pageTitle.accesskey          "μ">
 <!ENTITY pageTitle.tooltip            "Εισάγετε ένα τίτλο για να ονομάσετε τη σελίδα στο παράθυρο και τους σελιδοδείκτες.">
-<!ENTITY pageTitleExample.label       "π.χ.: &quot;Η σελίδα μου&quot;">
+<!ENTITY pageTitleExample.label       "π.χ.: «Η ιστοσελίδα μου»">
 <!ENTITY filename.label               "Όνομα αρχείου:">
 <!ENTITY filename.accesskey           "χ">
 <!ENTITY filename.tooltip             "Εισαγάγετε ένα όνομα για αυτό το αρχείο, μαζί με την κατάληξη '.html' για μια ιστοσελίδα">
-<!ENTITY filenameExample.label        "π.χ.: &quot;ησελίδαμου.html&quot;">
+<!ENTITY filenameExample.label        "π.χ.: «ησελίδαμου.html»">
 <!ENTITY setDefaultButton.label       "Ορισμός ως προεπιλογή">
 <!ENTITY setDefaultButton.accesskey   "π">
 <!ENTITY removeButton.label           "Αφαίρεση ιστοτόπου">
@@ -51,7 +51,7 @@
 <!ENTITY siteUrl.label                "Διεύθυνση δημοσίευσης (π.χ.: 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "δ">
 <!ENTITY siteUrl.tooltip              "Η διεύθυνση FTP:// ή HTTP:// που παρέχεται από τον ISP ή την υπηρεσία web hosting σας">
-<!ENTITY browseUrl.label              "Διεύθυνση HTTP της αρχικής σας σελίδας (π.χ.: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.label              "Διεύθυνση HTTP της αρχικής σας σελίδας (π.χ.: «http://www.myisp.com/myusername»):">
 <!ENTITY browseUrl.accesskey          "χ">
 <!ENTITY browseUrl.tooltip            "Η διεύθυνση HTTP:// του αρχικού καταλόγου (μην συμπεριλάβετε το όνομα αρχείου)">
 <!ENTITY username.label               "Όνομα χρήστη:">

@@ -5,7 +5,7 @@
 <!-- extracted from EdReplace.xhtml -->
 
 <!ENTITY replaceDialog.title "Εύρεση και αντικατάσταση">
-<!ENTITY findField.label "Εύρεση του κειμένου:">
+<!ENTITY findField.label "Εύρεση κειμένου:">
 <!ENTITY findField.accesskey "κ">
 <!ENTITY replaceField.label "Αντικατάσταση με:">
 <!ENTITY replaceField.accesskey "κ">
