@@ -162,6 +162,12 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Mostrar { bcc-compose-address-row-label.value } Campo { bcc-compose-show-address-row-menuitem.acceltext }
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Los destinatarios de { $count } en Para y Cc pueden ver la dirección de los demás. Puede evitar revelar destinatarios usando Cco en su lugar.
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Su mensaje tiene un destinatario público, Puede evitar  revelar destinatarios usando Cco en su lugar
+       *[other] Los destinatarios de { $count } en Para y Cc pueden ver la dirección de los demás. Puede evitar revelar destinatarios usando Cco en su lugar.
+    }
 many-public-recipients-bcc =
     .label = Usar Cco En Su Lugar
     .accesskey = U
@@ -169,6 +175,14 @@ many-public-recipients-ignore =
     .label = Mantener públicos a los destinatarios
     .accesskey = p
 many-public-recipients-prompt-title = Demasiados destinatarios públicos
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Su mensaje tiene un destinatario público. Esto puede ser un problema de privacidad. Puede evitar revelar destinatarios moviéndolos de A/Cc a Bcc en su lugar.
+       *[other] Su mensaje tiene { $count } destinatarios públicos, que podrán ver las direcciones de los otros. Esto puede ser un problema de privacidad. Puede evitar revelar destinatarios moviéndolos de A/Cc a Bcc en su lugar.
+    }
+many-public-recipients-prompt-cancel = Cancelar envío
+many-public-recipients-prompt-send = Enviar de todas formas
 
 ## Notifications
 
