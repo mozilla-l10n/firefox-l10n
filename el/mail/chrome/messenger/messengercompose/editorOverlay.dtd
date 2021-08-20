@@ -269,7 +269,7 @@
 <!ENTITY tableToolbarCmd.label "Πίνακας">
 <!ENTITY tableToolbarCmd.tooltip "Εισαγωγή νέου πίνακα ή επεξεργασία ιδιοτήτων επιλεγμένου πίνακα">
 <!ENTITY linkToolbarCmd.label "Σύνδεσμος">
-<!ENTITY linkToolbarCmd.tooltip "Εισαγωγή νέου ή επεξεργασία ιδιοτήτων επιλεγμένου δεσμού">
+<!ENTITY linkToolbarCmd.tooltip "Εισαγωγή νέου συνδέσμου ή επεξεργασία ιδιοτήτων επιλεγμένου">
 <!ENTITY anchorToolbarCmd.label "Άγκυρα">
 <!ENTITY anchorToolbarCmd.tooltip "Εισαγωγή νέας άγκυρας ή επεξεργασία ιδιοτήτων επιλεγμένης άγκυρας">
 <!ENTITY TextColorButton.tooltip "Επιλογή χρώματος κειμένου">
