@@ -10,7 +10,7 @@
 <!ENTITY text.value "Κείμενο">
 <!ENTITY password.value "Κωδικός">
 <!ENTITY checkbox.value "Πλαίσιο ελέγχου">
-<!ENTITY radio.value "Κουμπί Radio">
+<!ENTITY radio.value "Κουμπί επιλογής">
 <!ENTITY submit.value "Κουμπί υποβολής">
 <!ENTITY reset.value "Κουμπί επαναφοράς">
 <!ENTITY file.value "Αρχείο">
@@ -18,7 +18,7 @@
 <!ENTITY image.value "Εικόνα">
 <!ENTITY button.value "Κουμπί">
 
-<!ENTITY InputSettings.label "Ρυθμίσεις Πεδίου">
+<!ENTITY InputSettings.label "Ρυθμίσεις πεδίου">
 <!ENTITY InputName.label "Όνομα πεδίου:">
 <!ENTITY InputName.accesskey "δ">
 <!ENTITY GroupName.label "Όνομα ομάδας:">
@@ -27,14 +27,14 @@
 <!ENTITY InputValue.accesskey "μ">
 <!ENTITY InitialValue.label "Αρχική τιμή:">
 <!ENTITY InitialValue.accesskey "χ">
-<!ENTITY InputChecked.label "Αρχικά τσεκαρισμένο">
+<!ENTITY InputChecked.label "Αρχικά επιλεγμένο">
 <!ENTITY InputChecked.accesskey "τ">
 <!ENTITY InputSelected.label "Αρχικά επιλεγμένο">
 <!ENTITY InputSelected.accesskey "χ">
 <!ENTITY InputReadOnly.label "Μόνο για ανάγνωση">
 <!ENTITY InputReadOnly.accesskey "ν">
-<!ENTITY InputDisabled.label "Απενεργοποιημένο">
-<!ENTITY InputDisabled.accesskey "π">
+<!ENTITY InputDisabled.label "Ανενεργό">
+<!ENTITY InputDisabled.accesskey "Α">
 <!ENTITY tabIndex.label "Ευρετήριο καρτέλας:">
 <!ENTITY tabIndex.accesskey "σ">
 <!ENTITY TextSize.label "Μέγεθος πεδίου:">
