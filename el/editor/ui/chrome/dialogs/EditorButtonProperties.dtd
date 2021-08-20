@@ -18,7 +18,7 @@
 <!ENTITY ButtonValue.accesskey "μ">
 <!ENTITY tabIndex.label "Ευρετήριο καρτέλας:">
 <!ENTITY tabIndex.accesskey "λ">
-<!ENTITY ButtonDisabled.label "Απενεργοποιημένο">
+<!ENTITY ButtonDisabled.label "Ανενεργό">
 <!ENTITY ButtonDisabled.accesskey "ν">
 <!ENTITY AccessKey.label "Πλήκτρο συντόμευσης:">
 <!ENTITY AccessKey.accesskey "σ">

@@ -4,14 +4,14 @@
 
 <!ENTITY AdvancedEditButton.label "Σύνθετη επεξεργασία…">
 <!ENTITY AdvancedEditButton.accessKey "π">
-<!ENTITY AdvancedEditButton.tooltip "Προσθήκη ή μετατροπή HTML attributes, style attributes, και JavaScript">
+<!ENTITY AdvancedEditButton.tooltip "Προσθήκη ή μετατροπή ιδιοτήτων HTML, ιδιοτήτων στυλ και JavaScript">
 <!ENTITY chooseFileButton.label "Επιλογή αρχείου...">
 <!ENTITY chooseFileButton.accessKey "χ">
 <!ENTITY chooseFileLinkButton.label "Επιλογή αρχείου...">
 <!ENTITY chooseFileLinkButton.accessKey "λ">
 <!ENTITY makeUrlRelative.label "Το URL είναι σχετικό με την τοποθεσία της σελίδας">
 <!ENTITY makeUrlRelative.accessKey "χ">
-<!ENTITY makeUrlRelative.tooltip "Αλλαγή μεταξύ σχετικού και απόλυτου URL. Πρέπει να αποθηκεύσετε πρώτα τη σελίδα για να γίνουν οι αλλαγές.">
+<!ENTITY makeUrlRelative.tooltip "Αλλαγή μεταξύ σχετικού και απόλυτου URL. Πρέπει να αποθηκεύσετε πρώτα τη σελίδα για να το αλλάξετε αυτό.">
 
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField2.label "Εισαγάγετε μια ιστοσελίδα, ένα τοπικό αρχείο ή επιλέξτε μια επώνυμη άγκυρα ή κεφαλίδα από το μενού επιλογών του πεδίου:">
