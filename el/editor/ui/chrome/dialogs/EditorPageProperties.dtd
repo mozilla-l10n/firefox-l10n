@@ -13,5 +13,5 @@
 <!ENTITY descriptionInput.label "Περιγραφή:">
 <!ENTITY descriptionInput.accessKey "Π">
 <!ENTITY locationNewPage.label "[Νέα σελίδα, μη αποθηκευμένη ακόμα]">
-<!ENTITY EditHEADSource1.label "Προχωρημένοι χρήστες:">
+<!ENTITY EditHEADSource1.label "Έμπειροι χρήστες:">
 <!ENTITY EditHEADSource2.label "Για να επεξεργαστείτε τα άλλα περιεχόμενα της περιοχής &lt;head&gt;, χρησιμοποιήστε το «Πηγαίος κώδικας HTML» στο μενού «Προβολή» ή τη γραμμή λειτουργίας επεξεργασίας.">
