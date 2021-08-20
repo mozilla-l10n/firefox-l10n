@@ -22,7 +22,7 @@
 <!ENTITY returnSome.accesskey         "ε">
 <!ENTITY never.label                  "Να μην γίνεται ποτέ αποστολή αποδεικτικού προβολής">
 <!ENTITY never.accesskey              "Ν">
-<!ENTITY notInToCc.label              'Αν δεν είμαι στα πεδία "Προς" ή "Κοιν." του μηνύματος:'>
+<!ENTITY notInToCc.label              "Αν δεν είμαι στα πεδία «Προς» ή «Κοιν.» του μηνύματος:">
 <!ENTITY notInToCc.accesskey          "Α">
 <!ENTITY outsideDomain.label          "Αν ο αποστολέας είναι εκτός του τομέα μου:">
 <!ENTITY outsideDomain.accesskey      "τ">

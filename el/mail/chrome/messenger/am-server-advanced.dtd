@@ -13,7 +13,7 @@
 <!ENTITY maximumConnectionsNumber.label "Μέγιστος αριθμός συνδέσεων διακομιστή στην κρυφή μνήμη">
 <!ENTITY maximumConnectionsNumber.accesskey "Μ">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "Αυτές οι προτιμήσεις καθορίζουν τους χώρους ονομάτων στο διακομιστή IMAP">
+<!ENTITY namespaceDesc.label "Αυτές οι προτιμήσεις καθορίζουν τους χώρους ονομάτων στον διακομιστή IMAP σας">
 <!ENTITY personalNamespace.label "Προσωπικός χώρος ονόματος:">
 <!ENTITY personalNamespace.accesskey "ο">
 <!ENTITY publicNamespace.label "Δημόσιο (κοινόχρηστο):">
