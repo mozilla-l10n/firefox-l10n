@@ -50,7 +50,7 @@
 <!ENTITY siteName.tooltip             "Ένα ψευδώνυμο που ταυτοποιεί τον ιστότοπο δημοσίευσης (π.χ.: «Ο ιστότοπος μου»)">
 <!ENTITY siteUrl.label                "Διεύθυνση δημοσίευσης (π.χ.: 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "δ">
-<!ENTITY siteUrl.tooltip              "Η διεύθυνση  FTP:// ή  HTTP:// που παρέχεται από τον ISP σας ή την υπηρεσία φιλοξενίας σελίδων.">
+<!ENTITY siteUrl.tooltip              "Η διεύθυνση FTP:// ή HTTP:// που παρέχεται από τον ISP ή την υπηρεσία web hosting σας">
 <!ENTITY browseUrl.label              "Διεύθυνση HTTP της αρχικής σας σελίδας (π.χ.: 'http://www.myisp.com/myusername'):">
 <!ENTITY browseUrl.accesskey          "χ">
 <!ENTITY browseUrl.tooltip            "Η διεύθυνση HTTP:// του αρχικού καταλόγου (μην συμπεριλάβετε το όνομα αρχείου)">
