@@ -69,6 +69,12 @@ about-logins-list-item-breach-icon =
     .title = Únik dát
 about-logins-list-item-vulnerable-password-icon =
     .title = Zraniteľné heslo
+about-logins-list-section-breach = Stránky, na ktorých došlo k úniku dát
+about-logins-list-section-vulnerable = Zraniteľné heslá
+about-logins-list-section-nothing = Žiadne upozornenie
+about-logins-list-section-today = Dnes
+about-logins-list-section-yesterday = Včera
+about-logins-list-section-week = Posledných 7 dní
 
 ## Introduction screen
 
