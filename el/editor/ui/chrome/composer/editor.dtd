@@ -64,4 +64,4 @@
 <!ENTITY PreviewModeTab.label "Προεπισκόπηση">
 <!ENTITY PreviewMode.label "Προεπισκόπηση">
 <!ENTITY PreviewMode.accesskey "Π">
-<!ENTITY PreviewMode.tooltip "Προβολή ως WYSIWYG (όπως στο πρόγρ. περιήγησης)">
+<!ENTITY PreviewMode.tooltip "Προβολή ως WYSIWYG (όπως στον φυλλομετρητή)">
