@@ -4,7 +4,7 @@
 
 <!-- extracted from am-addressing.xhtml -->
 
-<!ENTITY addressing.label          "Σύνταξη &amp; διευθυνσιοδότηση">
+<!ENTITY addressing.label          "Σύνθεση &amp; διευθυνσιοδότηση">
 <!ENTITY addressingGroupTitle.label "Διευθυνσιοδότηση">
 <!ENTITY addressingText.label      "Κατά την αναζήτηση διευθύνσεων:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
