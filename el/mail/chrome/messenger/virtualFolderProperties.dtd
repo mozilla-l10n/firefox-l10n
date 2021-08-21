@@ -5,7 +5,7 @@
 <!ENTITY virtualFolderProperties.title "Νέος αποθηκευμένος φάκελος αναζήτησης">
 <!ENTITY name.label                 "Όνομα:">
 <!ENTITY name.accesskey             "ν">
-<!ENTITY description.label          "Δημιουργία υποφακέλου σε:">
+<!ENTITY description.label          "Δημιουργία ως υποφακέλου του:">
 <!ENTITY description.accesskey      "Δ">
 
 <!ENTITY searchTermCaption.label "Ρύθμιση κριτηρίων αναζήτησης για αυτόν τον αποθηκευμένο φάκελο αναζήτησης:">

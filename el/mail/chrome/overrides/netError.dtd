@@ -162,10 +162,10 @@
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Έχει φραγεί από την πολιτική προστασίας περιεχομένου">
+<!ENTITY cspBlocked.title "Αποκλείστηκε από την πολιτική ασφάλειας περιεχομένου">
 <!ENTITY cspBlocked.longDesc "<p>Το &brandShortName; εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν τον επιτρέπει.</p>">
 
-<!ENTITY xfoBlocked.title "Μπλοκαρίστηκε από την πολιτική X-Frame-Options">
+<!ENTITY xfoBlocked.title "Αποκλείστηκε από την πολιτική X-Frame-Options">
 <!ENTITY xfoBlocked.longDesc "<p>Το &brandShortName; εμπόδισε τη φόρτωση της σελίδας, επειδή η σελίδα έχει μια πολιτική X-Frame-Options που δεν το επιτρέπει.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Σφάλμα κατεστραμμένου περιεχομένου">
