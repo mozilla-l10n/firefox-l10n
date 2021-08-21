@@ -29,7 +29,7 @@ hovering over the video. -->
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
-<!ENTITY pictureInPictureExplainer "Reproduz vídeos en primer planu mentanto faes otres coses &brandShortName;">
+<!ENTITY pictureInPictureExplainer "Reproduz vídeos en primer planu mentanto faes otres coses en &brandShortName;">
 
 <!ENTITY error.aborted "Paró la carga del videu.">
 <!ENTITY error.network "Albortóse la reproducción de videu pola mor d'un fallu de la rede.">
