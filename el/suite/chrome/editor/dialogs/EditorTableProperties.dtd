@@ -44,7 +44,7 @@
 <!ENTITY cellSelectNext.accessKey         "Ν">
 <!ENTITY cellSelectPrevious.label         "Προηγούμενο">
 <!ENTITY cellSelectPrevious.accessKey     "Μ">
-<!ENTITY applyBeforeChange.label          "Οι τρέχουσες αλλαγές θα εφαρμοστούν πριν την αλλαγή επιλογής.">
+<!ENTITY applyBeforeChange.label          "Οι τρέχουσες αλλαγές θα εφαρμοστούν πριν από την αλλαγή της επιλογής.">
 <!ENTITY cellContentAlignment.label       "Στοίχιση περιεχομένου">
 <!ENTITY cellHorizontal.label             "Οριζόντια:">
 <!ENTITY cellHorizontal.accessKey         "Ο">
