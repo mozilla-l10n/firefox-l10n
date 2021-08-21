@@ -36,7 +36,6 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = باشه، فهمیدم
     .buttonaccesskey = O
 appmenu-addon-post-install-message = با کلیک بر روی <image data-l10n-name='addon-install-icon'></image> در منو <image data-l10n-name='addon-menu-icon'></image> افزونه‌های خود را مدیریت کنید.
-
 appmenu-update-available2 =
     .label = بروزرسانی موجود است
     .buttonlabel = دریافت
@@ -50,6 +49,7 @@ appmenu-update-manual2 =
     .buttonaccesskey = د
     .secondarybuttonlabel = رد
     .secondarybuttonaccesskey = ر
+appmenu-update-manual-message2 = امکان بروزرسانی خودکار { -brand-shorter-name } وجود نداشت. نسخه جدید را بارگیری کنید — اطلاعات ذخیره شده و سفارشی‌سازی‌های خود را از دست نخواهید داد.
 appmenu-update-unsupported2 =
     .label = بروزرسانی امکان‌پذیر نیست
     .buttonlabel = اطلاعات بیشتر
@@ -63,6 +63,7 @@ appmenu-update-restart2 =
     .buttonaccesskey = ب
     .secondarybuttonlabel = رد
     .secondarybuttonaccesskey = ر
+appmenu-update-restart-message2 = آخرین نسخه از { -brand-shorter-name } را دریافت کنید. زبانه‌ها و پنجره‌های باز، بازیابی خواهند شد.
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } نمی‌تواند بطور خودکار به آخرین نسخه بروزرسانی شود.
     .buttonlabel = به هر حال بروزرسانی { -brand-shorter-name } انجام شود
@@ -70,14 +71,13 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = هم‌اکنون نه
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = یک بروزرسانی جدید برای { -brand-shorter-name } در دسترس است، اما به دلیل اینکه نسخهٔ دیگری از { -brand-shorter-name } در حال اجراست، نمی‌توان آن را نصب کرد. برای ادامهٔ بروزرسانی آن را ببندید، یا «به هر حال بروزرسانی شود» را انتخاب کنید (نسخهٔ دیگر تا زمانی که آن را مجددا راه‌اندازی کنید ممکن است کار نکند).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = تایید
     .buttonaccesskey = ت
+appmenu-addon-post-install-message3 = افزونه‌ها و تم‌های خود را از طریق منو برنامه مدیریت کنید.
 appmenu-addon-post-install-incognito-checkbox =
     .label = به این افزونه اجازه‌ی اجرا در پنجره خصوصی را بده
     .accesskey = ب
-    
 appmenu-new-tab-controlled =
     .label = زبانه جدید شما دچار تغییر شده است.
     .buttonlabel = نگه‌داری تغییرات
@@ -90,7 +90,6 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = غیرفعال کردن افزودنی‌ها
     .secondarybuttonaccesskey = D
-
 appmenu-new-tab-controlled-changes =
     .label = زبانهٔ جدید شما تغیر کرده است.
     .buttonlabel = تغییرات حفظ شوند

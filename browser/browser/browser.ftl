@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = مدیریت استفاده از افزونه
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = مدیریت اینکه آیا دوربین و/یا میکروفون خود را با این سایت به اشتراک می‌گذارید یا خیر
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = مدیریت اشتراک‌گذاری سایر بلندگوها با سایت
 urlbar-autoplay-notification-anchor =
     .tooltiptext = بازکردن قطعه پخش خودکار
 urlbar-persistent-storage-notification-anchor =
@@ -559,6 +563,10 @@ pointerlock-warning-no-domain = این سند کنترل مکان‌نما شم�
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>بخشی از این صفحه خراب شد.</strong> برای اطلاع { -brand-product-name } از این مسئله و رفع سریعتر آن، لطفاً گزارشی ارسال کنید.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = بخشی از این صفحه خراب شد. لطفاً برای اطلاع { -brand-product-name } از این موضوع و رفع سریعتر آن، یک گزارش ارسال کنید.
 crashed-subframe-learnmore-link =
     .value = بیشتر بدانید
 crashed-subframe-submit =
@@ -700,3 +708,6 @@ remote-tabs-sync-now = انجام همگام‌سازی
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = بیشتر…
