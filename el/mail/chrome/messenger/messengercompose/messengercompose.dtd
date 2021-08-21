@@ -127,7 +127,7 @@
 <!ENTITY viewToolbarsMenuNew.accesskey "λ">
 <!ENTITY menubarCmd.label "Γραμμή μενού">
 <!ENTITY menubarCmd.accesskey "μ">
-<!ENTITY showCompositionToolbarCmd.label "Γραμμή εργαλείων σύνταξης">
+<!ENTITY showCompositionToolbarCmd.label "Γραμμή εργαλείων σύνθεσης">
 <!ENTITY showCompositionToolbarCmd.accesskey "ξ">
 <!ENTITY showFormattingBarCmd.label "Γραμμή εργαλείων μορφοποίησης">
 <!ENTITY showFormattingBarCmd.accesskey "φ">
