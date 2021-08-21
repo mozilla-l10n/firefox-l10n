@@ -42,6 +42,7 @@ upgrade-dialog-pin-secondary-button = Nu acum
 ## Default browser screen
 
 upgrade-dialog-default-subtitle-2 = Pune viteza, siguranța și confidențialitatea pe pilot automat.
+upgrade-dialog-default-primary-button-2 = Desemnează ca browser implicit
 upgrade-dialog-default-secondary-button = Nu acum
 
 ## Theme selection screen
