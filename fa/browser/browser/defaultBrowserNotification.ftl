@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-default-browser-notification-message = <strong>تنظیم { -brand-short-name } به عنوان مرورگر پیش‌فرض؟</strong> یک مرورگرِ سریع، امن و ناشناس در هنگام مرور وب داشته باشید.
+default-browser-notification-message = <strong>تنظیم { -brand-short-name } به عنوان مرورگر پیش‌فرض؟</strong> یک مرورگر سریع، امن و ناشناس در هنگام مرور وب داشته باشید.
 default-browser-notification-button =
     .label = تنظیم به عنوان پیش‌فرض
     .accesskey = S
@@ -13,6 +13,8 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = { -brand-short-name } را تبدیل به مرورگر پیش‌فرض خود می‌کنید؟
+default-browser-prompt-message-pin = { -brand-short-name } را در نوک انگشتان خود داشته باشید — آن را مرورگر پیش فرض خود و در نوار وظیفه‌تان پین کنید.
+default-browser-prompt-message-pin-mac = { -brand-short-name } را در نوک انگشتان خود داشته باشید — آن را مرورگر پیش فرض خود و در Dock پین کنید.
 default-browser-prompt-button-primary-pin = تبدیل کردن به مرورگر پیش‌فرض
 default-browser-prompt-title-alt = { -brand-short-name } را به مرورگر پیش‌فرض خود تبدیل می‌کنید؟
 default-browser-prompt-message-alt = در هر زمانی هنگام مرور اینترنت، سرعت، امنیت و حریم‌خصوصی را همراه داشته باشید.
