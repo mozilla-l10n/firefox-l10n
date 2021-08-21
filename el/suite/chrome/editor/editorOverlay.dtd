@@ -172,7 +172,7 @@
 <!ENTITY formatlistMenu.accesskey "Λ">
 <!ENTITY noneCmd.label "Κανένα">
 <!ENTITY noneCmd.accesskey "ν">
-<!ENTITY listBulletCmd.label "Κουκίδες">
+<!ENTITY listBulletCmd.label "Κουκκίδες">
 <!ENTITY listBulletCmd.accesskey "Κ">
 <!ENTITY listNumberedCmd.label "Αριθμημένη">
 <!ENTITY listNumberedCmd.accesskey "μ">
