@@ -20,7 +20,7 @@ perftools-heading-features = Λειτουργίες
 perftools-heading-features-default = Λειτουργίες (Προτείνεται ενεργοποίηση από προεπιλογή)
 perftools-heading-features-disabled = Ανενεργές λειτουργίες
 perftools-heading-features-experimental = Πειραματικό
-perftools-heading-threads = Threads
+perftools-heading-threads = Νήματα
 perftools-heading-local-build = Τοπική έκδοση δομής
 
 ##
