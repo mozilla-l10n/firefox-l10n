@@ -23,5 +23,5 @@
 <!ENTITY restoreSearch.label          "Επαναφορά προεπιλεγμένων μηχανών αναζήτησης">
 <!ENTITY restoreSearch.accesskey      "ζ">
 
-<!ENTITY changeAndRestartButton.label "Αποθήκευση αλλαγών και επανεκκίνηση">
+<!ENTITY changeAndRestartButton.label "Εφαρμογή αλλαγών και επανεκκίνηση">
 <!ENTITY continueButton.label         "Συνέχεια σε Ασφαλή λειτουργία">
