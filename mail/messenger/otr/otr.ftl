@@ -47,7 +47,7 @@ msgevent-rcvdmsg_unencrypted = Το ακόλουθο μήνυμα που ελή�
 msgevent-rcvdmsg_unrecognized = Λάβατε ένα μη αναγνωρισμένο μήνυμα OTR από τον/την { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-rcvdmsg_for_other_instance = Ο/Η { $name } έχει αποστείλει μήνυμα που προορίζεται για διαφορετική συνεδρία. Αν έχετε συνδεθεί πολλαπλές φορές, μια άλλη συνεδρία ίσως έχει λάβει το μήνυμα.
+msgevent-rcvdmsg_for_other_instance = Ο/Η { $name } έχει αποστείλει μήνυμα που προορίζεται για διαφορετική συνεδρία. Αν έχετε συνδεθεί πολλαπλές φορές, μια άλλη συνεδρία ενδέχεται να έχει λάβει το μήνυμα.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone_secure_private = Ξεκίνησε η ιδιωτική συνομιλία με τον/την { $name }.
@@ -102,7 +102,7 @@ msgevent-rcvdmsg-unencrypted = Το ακόλουθο μήνυμα που ελή�
 msgevent-rcvdmsg-unrecognized = Λάβατε ένα μη αναγνωρισμένο μήνυμα OTR από τον/την { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-rcvdmsg-for-other-instance = Ο/Η { $name } απέστειλε μήνυμα που προορίζεται για διαφορετική συνεδρία. Αν έχετε συνδεθεί πολλαπλές φορές, ενδέχεται μια άλλη συνεδρία να έλαβε το μήνυμα.
+msgevent-rcvdmsg-for-other-instance = Ο/Η { $name } έχει αποστείλει μήνυμα που προορίζεται για διαφορετική συνεδρία. Αν έχετε συνδεθεί πολλαπλές φορές, μια άλλη συνεδρία ενδέχεται να έχει λάβει το μήνυμα.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-gone-secure-private = Ξεκίνησε η ιδιωτική συνομιλία με τον/την { $name }.
