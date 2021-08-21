@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Γραμματοσειρές
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Γραμματοσειρές για
     .accesskey = Γ
-
 fonts-langgroup-arabic =
     .label = Αραβική
 fonts-langgroup-armenian =
@@ -36,7 +34,7 @@ fonts-langgroup-georgian =
 fonts-langgroup-el =
     .label = Ελληνική
 fonts-langgroup-gujarati =
-    .label = Γκουαρατί
+    .label = Γκουτζαράτι
 fonts-langgroup-gurmukhi =
     .label = Γκουρμούχι
 fonts-langgroup-japanese =
@@ -77,33 +75,24 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Μεταβλητού πλάτους
     .accesskey = Μ
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Μέγεθος
     .accesskey = γ
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Σταθερού πλάτους
     .accesskey = Σ
-
 fonts-monospace-size = Μέγεθος
     .accesskey = θ
-
 fonts-minsize = Ελάχιστο μέγεθος γραμματοσειράς
     .accesskey = ρ
-
 fonts-minsize-none =
     .label = Κανένα
-
 fonts-allow-own =
     .label = Να επιτρέπεται στις ιστοσελίδες να επιλέγουν τις δικές τους γραμματοσειρές, αντί για τις παραπάνω
     .accesskey = Ε
@@ -115,10 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Κωδικοποίηση κειμένου για συμβατότητα παλαιού περιεχόμενου
 fonts-languages-fallback-desc = Αυτή η κωδικοποίηση κειμένου χρησιμοποιείται για περιεχόμενο παλαιών σελίδων που δεν δηλώνουν την κωδικοποίηση τους.
-
 fonts-languages-fallback-label = Εφεδρική κωδικοποίηση κειμένου
     .accesskey = Κ
-
 fonts-languages-fallback-name-auto =
     .label = Προεπιλογή για την τρέχουσα γλώσσα
 fonts-languages-fallback-name-arabic =
@@ -151,7 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Βιετναμέζικη
 fonts-languages-fallback-name-other =
     .label = Άλλη (συμπ. Δυτικής Ευρωπαϊκής)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
