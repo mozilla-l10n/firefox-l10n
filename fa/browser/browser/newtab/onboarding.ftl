@@ -33,19 +33,16 @@ onboarding-welcome-modal-supercharge-body = محافظت از حریم شخصی�
 onboarding-welcome-modal-privacy-body = شما مرورگر را دارید. بیایید محافظت از حریم خصوصی را بیشتر کنیم.
 onboarding-welcome-modal-family-learn-more = درباره خانواده محصولات { -brand-product-name } بیاموزید.
 onboarding-welcome-form-header = از اینجا شروع کنید
-
 onboarding-join-form-body = برای شروع، آدرس ایمیل خود را وارد کنید.
 onboarding-join-form-email =
     .placeholder = ایمیل را وارد کنید
 onboarding-join-form-email-error = به ایمیل معتبر نیاز است
 onboarding-join-form-legal = با ادامه دادن، شما با <a data-l10n-name="terms">قوانین خدمات</a> و <a data-l10n-name="privacy">قواعد حفظ حریم شخصی</a>، موافقت می‌کنید.
 onboarding-join-form-continue = ادامه
-
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = از پیش حساب دارید؟
 # Text for link to submit the sign in form
 onboarding-join-form-signin = ورود
-
 onboarding-start-browsing-button-label = شروع وب‌گردی
 onboarding-cards-dismiss =
     .title = رد کردن
@@ -59,10 +56,8 @@ onboarding-cards-dismiss =
 onboarding-sync-welcome-header = { -brand-product-name } را همراه خود داشته باشید
 onboarding-sync-welcome-content = نشانک‌ها، تاریخچه، گذرواژه‌ها و تنظیمات دیگر خود را بر روی تمام دستگاه‌های خود همراه خود داشته باشید.
 onboarding-sync-welcome-learn-more-link = در مورد حساب‌های فایرفاکس بیشتر بدانید
-
 onboarding-sync-form-input =
     .placeholder = پست‌الکترونیکی
-
 onboarding-sync-form-continue-button = ادامه
 onboarding-sync-form-skip-login-button = پرش از این مرحله
 
@@ -71,19 +66,16 @@ onboarding-sync-form-skip-login-button = پرش از این مرحله
 onboarding-sync-form-header = پست‌الکترونیکی خود را وارد کنید
 onboarding-sync-form-sub-header = برای ادامه به { -sync-brand-name }.
 
-
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
 onboarding-benefit-products-text = به کمک گروهی از ابزارها که به حریم خصوصی شما بر روی دستگاه‌هایتان احترام می‌گذارند، کارها را انجام دهید.
-
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = هرکاری که ما انجام می‌دهیم به تعهد ما در مورد اطلاعات شخصی وفادار است: چیزهای کمتری بگیر، امن نگهداری کن، مخفی کاری وجود ندارد.
-
 
 ## These strings belong to the individual onboarding messages.
 
@@ -95,42 +87,33 @@ onboarding-benefit-privacy-text = هرکاری که ما انجام می‌ده�
 onboarding-tracking-protection-title2 = محافظت از ردگیری شدن
 onboarding-tracking-protection-text2 = { -brand-short-name } کمک می‌کند تا ردگیری آنلاین شما توسط وبسایت‌ها متوقف شود و آگهی‌ها نیز به سختی شما را در وب دنبال خواهند کرد.
 onboarding-tracking-protection-button2 = چطور کار می‌کند
-
 onboarding-data-sync-title = تنظیماتتان را با خود ببرید
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = هرجا که از { -brand-product-name } استفاده می‌کنید، نشانک‌ها، گذرواژه‌ها و بسیاری چیزهای دیگر را همگام‌سازی کنید.
 onboarding-data-sync-button2 = وارد { -sync-brand-short-name } شوید
-
 onboarding-firefox-monitor-title = نسبت به نشت اطلاعات آگاه باشید
 onboarding-firefox-monitor-button = برای دریافت اخطارها عضو شوید
-
 onboarding-browse-privately-title = مرور ناشناس
 onboarding-browse-privately-text = مرور ناشناس، سابقه جستجو و مرور شما را پاک می‌کند تا آن را از دید کسانی که از کامپیوتر شما استفاده می‌کنند مخفی نگه دارد.
 onboarding-browse-privately-button = یک پنجره ناشناس باز کنید
-
 onboarding-firefox-send-title = فایل‌های به اشتراک گذاشته شده خود را خصوصی نگه دارید
 onboarding-firefox-send-text2 = برای به اشتراک گذاشتن فایل‌های خود با رمز گذاری نقطه به نقطه و لینک دارای تاریخ انقضا، آن‌ها را در { -send-brand-name } بارگذاری کنید.
 onboarding-firefox-send-button = { -send-brand-name } را امتحان کنید
-
 onboarding-mobile-phone-title = { -brand-product-name } را بر روی تلفن خود داشته باشید
 onboarding-mobile-phone-text = { -brand-product-name } را برای iOS یا Android دریافت کنید و اطلاعات خود را بین دستگاه‌های مختلف همگام‌سازی کنید.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = مرورگر همراه را دریافت کنید
-
 onboarding-send-tabs-title = بلافاصله زبانه‌ها را برای خود بفرستید
 onboarding-send-tabs-button = استفاده از فرستادن زبانه‌ها را آغاز کنید
-
 onboarding-pocket-anywhere-title = هرجایی بخوانید و بشنوید
 onboarding-pocket-anywhere-text2 = محتوای مورد علاقه خود را با اپ { -pocket-brand-name } به صورت آفلاین ذخیره کنید و هر زمان که برایتان مناسب بود آن را بخوانید، بشنوید یا تماشا کنید.
 onboarding-pocket-anywhere-button = { -pocket-brand-name } را امتحان کنید
-
 onboarding-facebook-container-button = اضافه کردن افزونه
 
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = عالی است، شما { -brand-short-name } را دریافت کردید
-
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:
@@ -144,24 +127,51 @@ return-to-amo-get-started-button = شروع با { -brand-short-name }
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+onboarding-multistage-theme-primary-button-label2 = انجام شد
+onboarding-multistage-theme-secondary-button-label = اکنون نه
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = خودکار
+onboarding-multistage-theme-label-light = تاریک
+onboarding-multistage-theme-label-dark = روشن
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+
 ## Multistage MR1 onboarding strings (about:welcome pages)
+
+mr1-onboarding-set-default-secondary-button-label = اکنون نه
+mr1-onboarding-sign-in-button-label = ورود
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
+mr1-onboarding-default-header = { -brand-short-name } را پیش‌فرض خود قرار دهید
+mr1-onboarding-default-primary-button-label = تبدیل به مرورگر پیش‌فرض
+
 ## Multistage MR1 onboarding strings (about:welcome pages)
+
+mr1-onboarding-theme-subtitle = { -brand-short-name } را با یک تم شخصی کنید.
+mr1-onboarding-theme-primary-button-label = ذخیرهٔ تم
+mr1-onboarding-theme-secondary-button-label = اکنون نه
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = تم سیستم
+mr1-onboarding-theme-label-light = روشن
+mr1-onboarding-theme-label-dark = تاریک
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
