@@ -25,7 +25,7 @@
 
 <!ENTITY data.search.key "k">
 
-<!ENTITY tab.cookies.label "Cookies">
+<!ENTITY tab.cookies.label "Cookie">
 <!ENTITY tab.permissions.label "Δικαιώματα">
 <!ENTITY tab.preferences.label "Προτιμήσεις">
 <!ENTITY tab.passwords.label "Κωδικοί πρόσβασης">
@@ -139,7 +139,7 @@
 <!ENTITY fdata.button.remove.accesskey "Α">
 
 <!-- forget -->
-<!ENTITY forget.cookies.label "Cookies">
+<!ENTITY forget.cookies.label "Cookie">
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Δικαιώματα">
 <!ENTITY forget.permissions.accesskey "Δ">
