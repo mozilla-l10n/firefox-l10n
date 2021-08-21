@@ -20,6 +20,7 @@ about-networking-active = Urmid
 about-networking-idle = idle
 about-networking-host = Asenneftaɣ
 about-networking-tcp = TCP
+about-networking-type = Anaw
 about-networking-sent = Ţwaznen
 about-networking-received = Iţwarmes
 about-networking-family = Tawacult

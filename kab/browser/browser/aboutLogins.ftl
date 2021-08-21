@@ -70,8 +70,10 @@ about-logins-list-item-vulnerable-password-icon =
     .title = Awal uffir ur iǧhid ara
 about-logins-list-section-breach = Ismal i tḥuza trewla n yisefka
 about-logins-list-section-vulnerable = Awalen uffiren ur ǧhiden ara
+about-logins-list-section-nothing = Ulac alɣu
 about-logins-list-section-today = Ass-a
 about-logins-list-section-yesterday = Iḍelli
+about-logins-list-section-week = 7 wussan ineggura
 
 ## Introduction screen
 

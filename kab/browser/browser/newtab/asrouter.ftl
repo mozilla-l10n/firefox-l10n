@@ -197,6 +197,14 @@ cfr-doorhanger-cryptominers-description = Aqadeṛ n tudert-ik tusligt d ayen me
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } issewḥel u<b>{ $blockedCount }</b> yineḍfaren seg { $date }!
+       *[other] { -brand-short-name } issewḥel u<b>{ $blockedCount }</b> yineḍfaren seg { $date }!
+    }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->

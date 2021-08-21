@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Sefrek aseqdec n yizegrar
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Sefrek beṭṭu n tkamirat-ik d/neɣ asawaḍ-ik d usmel
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Sefrek beṭṭu n yimsemɣren n yimesli akked usmel-a
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Ldi agalis n urar awurman
 urlbar-persistent-storage-notification-anchor =
