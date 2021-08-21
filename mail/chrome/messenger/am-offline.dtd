@@ -19,7 +19,7 @@
 <!ENTITY nntpNotDownloadRead.accesskey "γ">
 <!ENTITY nntpDownloadMsg.label "Μηνύματα περισσότερο από">
 <!ENTITY nntpDownloadMsg.accesskey "σ">
-<!ENTITY retentionCleanup.label "Για να ανακτήσετε χώρο στο δίσκο, μπορείτε να διαγράψετε τα παλιά μηνύματα.">
+<!ENTITY retentionCleanup.label "Για να ανακτήσετε χώρο στον δίσκο, μπορείτε να διαγράψετε οριστικά τα παλιά μηνύματα.">
 <!ENTITY retentionCleanupImap.label "Για ανάκτηση χώρου, μπορείτε να διαγράψετε οριστικά τα παλιά σας μηνύματα (τοπικά αντίγραφα και πρωτότυπα απομακρυσμένου διακομιστή).">
 <!ENTITY retentionCleanupPop.label "Για εξοικονόμηση αποθηκευτικού χώρου, μπορείτε να διαγράψετε μόνιμα τα παλιά σας μηνύματα μαζί με τα αρχικά μηνύματα στον απομακρυσμένο διακομιστή.">
 <!ENTITY retentionKeepMsg.label "Διαγραφή μηνυμάτων, παλαιότερων από">

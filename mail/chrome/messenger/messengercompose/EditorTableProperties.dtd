@@ -24,7 +24,7 @@
 <!ENTITY tablePadding.label               "Γέμισμα:">
 <!ENTITY tablePadding.accessKey           "Γ">
 <!ENTITY tablePxBetwCells.label           "εικονοστοιχεία μεταξύ κελιών">
-<!ENTITY tablePxBetwBrdrCellContent.label "εικονοστοιχεία μεταξύ  πλαισίου κελιών και περιεχομένου">
+<!ENTITY tablePxBetwBrdrCellContent.label "pixel μεταξύ πλαισίου και περιεχομένου κελιού">
 <!ENTITY tableAlignment.label             "Στοίχιση πίνακα:">
 <!ENTITY tableAlignment.accessKey         "ο">
 <!ENTITY tableCaption.label               "Λεζάντα:">
