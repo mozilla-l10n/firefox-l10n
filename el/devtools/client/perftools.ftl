@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Μέγεθος buffer:
-
 perftools-custom-threads-label = Προσθήκη προσαρμοσμένων νημάτων ανά όνομα:
-
 perftools-devtools-interval-label = Διάστημα:
 perftools-devtools-threads-label = Νήματα:
 perftools-devtools-settings-label = Ρυθμίσεις
@@ -80,7 +78,7 @@ perftools-thread-gecko-main =
 perftools-thread-compositor =
     .title = Συνθέτει διαφορετικά, χρωματισμένα στοιχεία στη σελίδα
 perftools-thread-dom-worker =
-    .title = Αυτό διαχειρίζεται web workers και service workers
+    .title = Αυτό διαχειρίζεται web worker και service worker
 perftools-thread-renderer =
     .title = Το νήμα που εκτελεί κλήσεις OpenGL όταν είναι ενεργοποιημένο το WebRender
 perftools-thread-render-backend =
@@ -97,16 +95,12 @@ perftools-thread-img-decoder =
     .title = Νήματα αποκωδικοποίησης εικόνων
 perftools-thread-dns-resolver =
     .title = Η ανάλυση DNS συμβαίνει σε αυτό το thread
-perftools-thread-js-helper =
-    .title = Εργασία παρασκήνιου της μηχανής JS, όπως μεταγλωττίσεις εκτός του κύριου νήματος
-
 perftools-thread-task-controller =
     .title = Νήματα του TaskController pool
 
 ##
 
 perftools-record-all-registered-threads = Παράκαμψη των παραπάνω επιλογών και εγγραφή όλων των καταχωρημένων νημάτων
-
 perftools-tools-threads-input-label =
     .title = Αυτά τα ονόματα νημάτων είναι σε λίστα με διαχωρισμό με κόμματα όπου χρησιμοποιείται για την ενεργοποίηση της δημιουργίας προφίλ για νήματα στο εργαλείο προφίλ. Το όνομα θα πρέπει να περιέχει ένα μέρος του ονόματος του νήματος για αντιστοίχιση. Γίνεται διάκριση στο κενό διάστημα.
 
@@ -115,9 +109,7 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Νέο</b>: Το { -profiler-brand-name } έχει ενσωματωθεί στα Εργαλεία προγραμματιστών. <a>Μάθετε περισσότερα</a> σχετικά με αυτό το νέο ισχυρό εργαλείο.
-
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Για περιορισμένο χρονικό διάστημα, μπορείτε να ανοίξετε το αρχικό παράθυρο "Επιδόσεις" από τις <a>{ options-context-advanced-settings }</a>)
-
 perftools-onboarding-close-button =
     .aria-label = Κλείσιμο μηνύματος υποδοχής

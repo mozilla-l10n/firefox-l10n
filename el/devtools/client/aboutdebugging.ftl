@@ -83,7 +83,7 @@ about-debugging-setup-title = Ρύθμιση
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Ρυθμίστε τη μέθοδο σύνδεσης για απομακρυσμένο έλεγχο σφαλμάτων στη συσκευή σας.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = Χρησιμοποιήστε την επιλογή <a>{ about-debugging-this-firefox-runtime-name }</a> για να κάνετε έλεγχο σφαλμάτων στις επεκτάσεις και τα service workers σε αυτή την έκδοση του { -brand-shorter-name }.
+about-debugging-setup-this-firefox2 = Χρησιμοποιήστε την επιλογή <a>{ about-debugging-this-firefox-runtime-name }</a> για να κάνετε έλεγχο σφαλμάτων στις επεκτάσεις και τα service worker σε αυτή την έκδοση του { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Σύνδεση συσκευής
 # USB section of the Setup page
@@ -155,13 +155,13 @@ about-debugging-runtime-tabs =
     .name = Καρτέλες
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
-    .name = Service Workers
+    .name = Service worker
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
-    .name = Shared Workers
+    .name = Shared worker
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
-    .name = Άλλα workers
+    .name = Άλλα worker
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Διεργασίες
@@ -171,7 +171,7 @@ about-debugging-runtime-profile-button2 = Επιδόσεις προφίλ
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
-about-debugging-runtime-service-workers-not-compatible = Οι ρυθμίσεις του προγράμματος περιήγησής σας δεν είναι συμβατές με τα service workers. <a>Μάθετε περισσότερα</a>
+about-debugging-runtime-service-workers-not-compatible = Οι ρυθμίσεις του προγράμματος περιήγησής σας δεν είναι συμβατές με τα service worker. <a>Μάθετε περισσότερα</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
