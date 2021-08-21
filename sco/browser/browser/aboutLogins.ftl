@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = Breached wabsite
 about-logins-list-item-vulnerable-password-icon =
     .title = Unsiccar passwird
+about-logins-list-section-breach = Breached wabsites
+about-logins-list-section-vulnerable = Unsiccar passwirds
+about-logins-list-section-nothing = Nae alert
+about-logins-list-section-today = The day
+about-logins-list-section-yesterday = Yesterday
+about-logins-list-section-week = Last 7 days
 
 ## Introduction screen
 
