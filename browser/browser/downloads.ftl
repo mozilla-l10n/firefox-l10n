@@ -142,7 +142,7 @@ downloads-cancel-download =
 # the panel at all.
 downloads-history =
     .label = نمایش همهٔ دریافت‌ها
-    .accesskey = S
+    .accesskey = ن
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
@@ -156,4 +156,4 @@ downloads-list-empty =
     .value = هیچ دانلودی پیدا نشد.
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
-    .value = دریافت‌هایی برای این جلسه وجود ندارد.
+    .value = هیچ بارگیری‌ای در این نشست انجام نشده.
