@@ -593,7 +593,7 @@
 <!ENTITY printButton.tooltip "Εκτύπωση μηνύματος">
 <!ENTITY stopButton.tooltip "Διακοπή της τρέχουσας μεταφοράς">
 <!ENTITY junkButton.tooltip "Επισήμανση επιλεγμένων μηνυμάτων ως ανεπιθύμητων">
-<!ENTITY notJunkButton.tooltip "Επισήμανση επιλεγμένων μηνυμάτων ως μη ανεπιθύμητων">
+<!ENTITY notJunkButton.tooltip "Επισήμανση επιλεγμένων μηνυμάτων ως επιθυμητών">
 <!ENTITY addressBookButton.tooltip "Μετάβαση στο ευρετήριο διευθύνσεων">
 <!ENTITY chatButton.tooltip "Εμφάνιση καρτέλας «Συνομιλία»">
 <!ENTITY tagButton.tooltip "Ετικέτα σε μηνύματα">
