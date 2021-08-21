@@ -16,7 +16,7 @@
 <!ENTITY ignoreButton.accessKey "β">
 <!ENTITY ignoreAllButton.label "Παράβλεψη όλων">
 <!ENTITY ignoreAllButton.accessKey "λ">
-<!ENTITY replaceButton.label "Αντικατάσταση ">
+<!ENTITY replaceButton.label "Αντικατάσταση">
 <!ENTITY replaceButton.accessKey "ν">
 <!ENTITY replaceAllButton.label "Αντικατάσταση όλων">
 <!ENTITY replaceAllButton.accessKey "ω">

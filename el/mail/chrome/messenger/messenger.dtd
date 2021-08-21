@@ -202,7 +202,7 @@
 <!ENTITY sortByFromCmd.accesskey "π">
 <!ENTITY sortByRecipientCmd.label "Παραλήπτη">
 <!ENTITY sortByRecipientCmd.accesskey "ρ">
-<!ENTITY sortByCorrespondentCmd.label "Ανταποκριτές">
+<!ENTITY sortByCorrespondentCmd.label "Επιστολογράφοι">
 <!ENTITY sortByCorrespondentCmd.accesskey "ν">
 <!ENTITY sortByUnreadCmd.label "Αναγνωσμένα">
 <!ENTITY sortByUnreadCmd.accesskey "γ">
