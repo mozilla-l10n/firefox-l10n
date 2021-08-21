@@ -160,6 +160,12 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Εμφάνιση πεδίου "{ bcc-compose-address-row-label.value }" ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Οι { $count } παραλήπτες στα πεδία "Προς" και "Κοιν." θα βλέπουν τις διευθύνσεις των υπολοίπων. Μπορείτε να αποφύγετε την αποκάλυψη των παραληπτών με το πεδίο "Κρυφή κοιν.".
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Το μήνυμά σας έχει έναν δημόσιο παραλήπτη. Μπορείτε να αποφύγετε την αποκάλυψη των παραληπτών με το πεδίο «Κρυφή κοιν.».
+       *[other] Οι { $count } παραλήπτες στα πεδία «Προς» και «Κοιν.» θα βλέπουν τις διευθύνσεις των υπολοίπων. Μπορείτε να αποφύγετε την αποκάλυψη των παραληπτών με το πεδίο «Κρυφή κοιν.».
+    }
 many-public-recipients-bcc =
     .label = Χρήση "Κρυφή κοιν."
     .accesskey = Χ
