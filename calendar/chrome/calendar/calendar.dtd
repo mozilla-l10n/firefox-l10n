@@ -381,7 +381,7 @@
 <!ENTITY calendar.print.window.title "Εκτύπωση κάποιου ημερολογίου">
 <!ENTITY calendar.print.title.label "Τίτλος:">
 <!ENTITY calendar.print.layout.label "Διάταξη:">
-<!ENTITY calendar.print.range.label "Τι να εκτυπωθεί">
+<!ENTITY calendar.print.range.label "Στοιχεία προς εκτύπωση">
 <!ENTITY calendar.print.currentView2.label "Τρέχουσα προβολή">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Επιλεγμένες εκδηλώσεις/εργασίες">
 <!ENTITY calendar.print.tasks.label "Εργασίες">
