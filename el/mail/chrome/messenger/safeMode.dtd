@@ -14,7 +14,7 @@
 <!ENTITY resetToolbars.label              "Επαναφορά γραμμών εργαλείων και στοιχείων ελέγχου">
 <!ENTITY resetToolbars.accesskey          "φ">
 
-<!ENTITY changeAndRestartButton.label     "Αποθήκευση αλλαγών και επανεκκίνηση">
+<!ENTITY changeAndRestartButton.label     "Εφαρμογή αλλαγών και επανεκκίνηση">
 <!ENTITY changeAndRestartButton.accesskey "θ">
 
 <!ENTITY continueButton.label             "Συνέχεια σε Ασφαλή λειτουργία">
