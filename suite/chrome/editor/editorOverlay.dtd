@@ -31,7 +31,7 @@
 <!ENTITY insertLinkCmd2.label "Σύνδεσμος…">
 <!ENTITY insertLinkCmd2.accesskey "Σ">
 <!ENTITY insertLinkCmd2.key "K">
-<!ENTITY insertAnchorCmd.label "Άγκυρα με όνομα…">
+<!ENTITY insertAnchorCmd.label "Επώνυμη άγκυρα…">
 <!ENTITY insertAnchorCmd.accesskey "α">
 <!ENTITY insertImageCmd.label "Εικόνα…">
 <!ENTITY insertImageCmd.accesskey "Ε">
