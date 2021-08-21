@@ -40,7 +40,7 @@
 <!ENTITY widthEditField.accessKey "λ">
 <!ENTITY constrainCheckbox.label "Περιορισμός">
 <!ENTITY constrainCheckbox.accessKey "ε">
-<!ENTITY constrainCheckbox.tooltip "Διατήρηση των αναλογιών της εικόνας">
+<!ENTITY constrainCheckbox.tooltip "Διατήρηση αναλογιών εικόνας">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Χάρτης εικόνας">

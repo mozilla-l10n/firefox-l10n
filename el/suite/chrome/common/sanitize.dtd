@@ -49,7 +49,7 @@
 <!ENTITY itemCache.label                  "Κρυφή μνήμη">
 <!ENTITY itemCache.accesskey              "μ">
 <!ENTITY itemCacheS.accesskey             "ν">
-<!ENTITY itemCookies.label                "Cookies">
+<!ENTITY itemCookies.label                "Cookie">
 <!ENTITY itemCookies.accesskey            "C">
 <!ENTITY itemCookiesS.accesskey           "k">
 <!ENTITY itemOfflineApps.label            "Δεδομένα ιστοσελίδων εκτός σύνδεσης">
@@ -63,7 +63,6 @@
 
 <!ENTITY sanitizeButton.label            "Απαλοιφή ιδιωτικών δεδομένων">
 <!ENTITY itemSessionsS.accesskey          "δ">
-
 <!ENTITY itemSitePreferences.label        "Προτιμήσεις σελίδων">
 <!ENTITY itemSitePreferences.accesskey    "Π">
 <!ENTITY itemSitePreferencesS.accesskey   "λ">
