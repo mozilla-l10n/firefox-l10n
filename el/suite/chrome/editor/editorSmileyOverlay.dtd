@@ -55,4 +55,4 @@
 <!ENTITY smiley16Cmd.accesskey "ί">
 <!ENTITY smiley16Cmd.tooltip "Εισαγωγή προσώπου με σφραγισμένα χείλη">
 <!ENTITY SmileButton.label "Εισαγωγή Smiley">
-<!ENTITY SmileButton.tooltip "Εισαγωγή χαμογελαστού προσώπου">
+<!ENTITY SmileButton.tooltip "Εισαγωγή emoji">
