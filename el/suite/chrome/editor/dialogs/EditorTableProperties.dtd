@@ -50,7 +50,7 @@
 <!ENTITY cellHorizontal.accessKey         "Ο">
 <!ENTITY cellVertical.label               "Κάθετη:">
 <!ENTITY cellVertical.accessKey           "Θ">
-<!ENTITY cellStyle.label                  "Στυλ κελιού:">
+<!ENTITY cellStyle.label                  "Μορφή κελιού:">
 <!ENTITY cellStyle.accessKey              "Υ">
 <!ENTITY cellNormal.label                 "Κανονικό">
 <!ENTITY cellHeader.label                 "Κεφαλίδα">
