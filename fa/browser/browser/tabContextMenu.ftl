@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tab-context-new-tab =
+    .label = زبانهٔ جدید
+    .accesskey = ز
 reload-tab =
     .label = بازآوری زبانه
     .accesskey = ب
@@ -51,6 +54,9 @@ bookmark-tab =
 reopen-in-container =
     .label = باز کردن دوباره در محفظه
     .accesskey = e
+tab-context-open-in-new-container-tab =
+    .label = باز کردن در محفظهٔ جدید
+    .accesskey = ک
 move-to-start =
     .label = انتقال به ابتدا
     .accesskey = S
@@ -105,6 +111,13 @@ tab-context-close-tabs =
            *[other] بستن زبانه‌ها
         }
     .accesskey = C
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] بستن زبانه
+           *[other] بستن { $tabCount } زبانه
+        }
+    .accesskey = ز
 tab-context-move-tabs =
     .label =
         { $tabCount ->
