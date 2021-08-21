@@ -15,7 +15,7 @@
 <!ENTITY resetToolbars.accesskey          "φ">
 
 <!ENTITY changeAndRestartButton.label     "Εφαρμογή αλλαγών και επανεκκίνηση">
-<!ENTITY changeAndRestartButton.accesskey "θ">
+<!ENTITY changeAndRestartButton.accesskey "φ">
 
 <!ENTITY continueButton.label             "Συνέχεια σε Ασφαλή λειτουργία">
 <!ENTITY continueButton.accesskey         "χ">

@@ -30,7 +30,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Απαλοιφή λίστας">
 <!ENTITY cmd.clearList.tooltip            "Αφαιρεί ολοκληρωμένα, ακυρωμένα και αποτυχημένα στοιχεία από τη λίστα">
-<!ENTITY cmd.clearList.accesskey          "θ">
+<!ENTITY cmd.clearList.accesskey          "φ">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
 

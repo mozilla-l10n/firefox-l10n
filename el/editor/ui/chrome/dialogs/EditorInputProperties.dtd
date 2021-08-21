@@ -28,7 +28,7 @@
 <!ENTITY InitialValue.label "Αρχική τιμή:">
 <!ENTITY InitialValue.accesskey "χ">
 <!ENTITY InputChecked.label "Αρχικά επιλεγμένο">
-<!ENTITY InputChecked.accesskey "τ">
+<!ENTITY InputChecked.accesskey "γ">
 <!ENTITY InputSelected.label "Αρχικά επιλεγμένο">
 <!ENTITY InputSelected.accesskey "χ">
 <!ENTITY InputReadOnly.label "Μόνο για ανάγνωση">
