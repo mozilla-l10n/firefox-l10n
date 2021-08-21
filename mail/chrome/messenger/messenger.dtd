@@ -961,7 +961,7 @@
 <!ENTITY hideOtherAppsCmdMac.label      "Απόκρυψη άλλων">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Προβολή όλων">
+<!ENTITY showAllAppsCmdMac.label        "Εμφάνιση όλων">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Επιλογές εικονιδίου εφαρμογής…">

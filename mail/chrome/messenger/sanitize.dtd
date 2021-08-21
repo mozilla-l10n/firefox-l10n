@@ -29,7 +29,7 @@ that require it.  -->
 
 <!ENTITY itemHistory.label                 "Ιστορικό περιήγησης">
 <!ENTITY itemHistory.accesskey             "Ι">
-<!ENTITY itemCookies.label                 "Cookies">
+<!ENTITY itemCookies.label                 "Cookie">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Κρυφή μνήμη">
 <!ENTITY itemCache.accesskey               "Κ">

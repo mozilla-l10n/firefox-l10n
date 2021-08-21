@@ -6,7 +6,7 @@ account-setup-tab-title = Ρύθμιση λογαριασμού
 
 ## Header
 
-account-setup-title = Ρύθμιση της υπάρχουσας διεύθυνσης email σας
+account-setup-title = Ρύθμιση υπάρχουσας διεύθυνσης email
 account-setup-description = Για να χρησιμοποιήσετε την υπάρχουσα διεύθυνση email σας, συμπληρώστε τα διαπιστευτήριά σας.
 account-setup-secondary-description = Το { -brand-product-name } θα αναζητήσει αυτόματα για τις λειτουργικές και προτεινόμενες ρυθμίσεις διακομιστή.
 account-setup-success-title = Επιτυχής δημιουργία λογαριασμού
