@@ -50,6 +50,8 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-form-email =
+    .placeholder = نشانی رایانامه شما…
 
 ## Firefox Sync modal dialog strings.
 
@@ -76,6 +78,7 @@ onboarding-benefit-products-text = به کمک گروهی از ابزارها ک
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = هرکاری که ما انجام می‌دهیم به تعهد ما در مورد اطلاعات شخصی وفادار است: چیزهای کمتری بگیر، امن نگهداری کن، مخفی کاری وجود ندارد.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
@@ -109,6 +112,7 @@ onboarding-send-tabs-button = استفاده از فرستادن زبانه‌ه
 onboarding-pocket-anywhere-title = هرجایی بخوانید و بشنوید
 onboarding-pocket-anywhere-text2 = محتوای مورد علاقه خود را با اپ { -pocket-brand-name } به صورت آفلاین ذخیره کنید و هر زمان که برایتان مناسب بود آن را بخوانید، بشنوید یا تماشا کنید.
 onboarding-pocket-anywhere-button = { -pocket-brand-name } را امتحان کنید
+onboarding-lockwise-strong-passwords-button = مدیریت ورودهایتان
 onboarding-facebook-container-button = اضافه کردن افزونه
 
 ## Message strings belonging to the Return to AMO flow
@@ -121,12 +125,28 @@ return-to-amo-sub-header = عالی است، شما { -brand-short-name } را �
 return-to-amo-addon-header = حالا اجازه بدهید برایتان <icon></icon><b>{ $addon-name } را بگبریم.</b>
 return-to-amo-extension-button = اضافه کردن افزونه
 return-to-amo-get-started-button = شروع با { -brand-short-name }
+onboarding-not-now-button-label = اکنون نه
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-add-extension-label = اضافه کردن افزونه
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+onboarding-multistage-welcome-primary-button-label = شروع راه‌اندازی
+onboarding-multistage-welcome-secondary-button-label = ورود
+onboarding-multistage-welcome-secondary-button-text = حساب دارید؟
+onboarding-multistage-set-default-primary-button-label = تنظیم به عنوان پیش‌فرض
+onboarding-multistage-set-default-secondary-button-label = اکنون نه
+onboarding-multistage-import-primary-button-label = شروع وارد کردن
+onboarding-multistage-import-secondary-button-label = اکنون نه
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = راه‌اندازی: صفحهٔ { $current } از { $total }
+onboarding-multistage-theme-subtitle = { -brand-short-name } را با یک تم سفارشی کنید.
 onboarding-multistage-theme-primary-button-label2 = انجام شد
 onboarding-multistage-theme-secondary-button-label = اکنون نه
 # Automatic theme uses operating system color settings
@@ -144,6 +164,8 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = خاموش کردن انیمیشن‌ها
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -152,6 +174,10 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = شروع کنید
+mr1-onboarding-welcome-header = به { -brand-short-name } خوش آمدید
 mr1-onboarding-set-default-secondary-button-label = اکنون نه
 mr1-onboarding-sign-in-button-label = ورود
 
@@ -163,7 +189,14 @@ mr1-onboarding-default-primary-button-label = تبدیل به مرورگر پی�
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-theme-subtitle = { -brand-short-name } را با یک تم شخصی کنید.
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = وارد کردن از { $previous }
+# This string will be used in cases where we can't detect the previous browser name.
+mr1-onboarding-import-primary-button-label-no-attribution = وارد کردن از مرورگر قبلی
+mr1-onboarding-import-secondary-button-label = اکنون نه
+mr1-onboarding-theme-subtitle = { -brand-short-name } را با یک تم سفارشی کنید.
 mr1-onboarding-theme-primary-button-label = ذخیرهٔ تم
 mr1-onboarding-theme-secondary-button-label = اکنون نه
 # System theme uses operating system color settings
