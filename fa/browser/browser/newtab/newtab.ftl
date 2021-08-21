@@ -39,6 +39,7 @@ newtab-search-box-search-the-web-input =
     .placeholder = جستجوی وب
     .title = جستجوی وب
     .aria-label = جستجوی وب
+newtab-search-box-text = جست‌وجو در وب
 newtab-search-box-input =
     .placeholder = جستجو در وب
     .aria-label = جستجو در وب
