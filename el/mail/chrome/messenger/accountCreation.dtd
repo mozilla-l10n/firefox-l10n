@@ -6,7 +6,7 @@
 <!ENTITY emailWizard.caption             "Χρήση τρέχουσας διεύθυνσης email">
 <!ENTITY name.label                      "Το όνομά σας:">
 <!ENTITY name.accesskey                  "ν">
-<!ENTITY fullname.placeholder            "Το πλήρες όνομά σας">
+<!ENTITY fullname.placeholder            "Το ονοματεπώνυμό σας">
 <!ENTITY name.text                       "Το όνομά σας, όπως θα εμφανίζεται σε τρίτους">
 <!ENTITY name.error                      "Παρακαλώ εισαγάγετε το όνομά σας">
 <!ENTITY email.label                     "Διεύθυνση email:">
