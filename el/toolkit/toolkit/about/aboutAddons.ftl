@@ -135,7 +135,7 @@ detail-show-preferences =
            *[other] Αλλαγή των προτιμήσεων
         }
 detail-rating =
-    .value = Αξιολόγηση
+    .value = Βαθμολογία
 addon-restart-now =
     .label = Επανεκκίνηση τώρα
 disabled-unsigned-heading =
