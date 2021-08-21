@@ -6,7 +6,7 @@
 <!ENTITY mailListWindowAdd.title        "Νέα λίστα αλληλογραφίας">
 
 <!-- Labels and Access Keys -->
-<!ENTITY addToAddressBook.label         "Προσθήκη σε:">
+<!ENTITY addToAddressBook.label         "Προσθήκη σε: ">
 <!ENTITY addToAddressBook.accesskey     "θ">
 <!ENTITY ListName.label                 "Όνομα λίστας: ">
 <!ENTITY ListName.accesskey             "Λ">

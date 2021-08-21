@@ -188,12 +188,12 @@ functionality specific to thunderbird. -->
 ">
 
 <!ENTITY remoteXUL.title "Απομακρυσμένο XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για αυτό το πρόβλημα.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλώ επικοινωνήστε με τους ιδιοκτήτες του ιστοτόπου για να τους ενημερώσετε σχετικά με αυτό το πρόβλημα.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Η σύνδεσή σας δεν είναι ασφαλής">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "Το <p><span class='hostname'></span> χρησιμοποιεί τεχνολογία που είναι παρωχημένη και ευάλωτη σε επιθέσεις. Ένας εισβολέας θα μπορούσε εύκολα να αποκαλύψει πληροφορίες που πιστεύατε ότι ήταν ασφαλείς. Ο διαχειριστής του ιστοτόπου θα πρέπει να διορθώσει τον διακομιστή προτού επισκεφθείτε ξανά τον ιστοτόπο.</p><p>Κωδικός σφάλματος: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p>Το <span class='hostname'></span> χρησιμοποιεί παρωχημένη τεχνολογία ασφαλείας, ευάλωτη σε επιθέσεις. Ένας εισβολέας θα μπορούσε εύκολα να αποκαλύψει πληροφορίες που θεωρείτε ασφαλείς. Ο διαχειριστής του ιστοτόπου θα πρέπει να διορθώσει τον διακομιστή προτού μπορέσετε να επισκεφθείτε τον ιστότοπο.</p><p>Κωδικός σφάλματος: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Αποκλεισμένη σελίδα">
 
