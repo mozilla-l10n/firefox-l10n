@@ -173,6 +173,12 @@ many-public-recipients-ignore =
     .label = Διατήρηση ορατών παραληπτών
     .accesskey = Δ
 many-public-recipients-prompt-title = Πάρα πολλοί δημόσιοι παραλήπτες
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Το μήνυμά σας έχει έναν δημόσιο παραλήπτη. Αυτό ίσως βλάψει το απόρρητό σας. Μπορείτε να το αποφύγετε αυτό μετακινώντας τον παραλήπτη από το πεδίο «Προς»/«Κοιν.» στο «Κρυφή κοιν.».
+       *[other] Το μήνυμά σας έχει { $count } δημόσιους παραλήπτες, που θα μπορούν να δουν τις διευθύνσεις των υπολοίπων. Αυτό ίσως βλάψει το απόρρητό σας. Μπορείτε να αποφύγετε την αποκάλυψη των παραληπτών μετακινώντας τους από το το πεδίο «Προς»/«Κοιν.» στο «Κρυφή κοιν.».
+    }
 many-public-recipients-prompt-cancel = &Ακύρωση αποστολής
 many-public-recipients-prompt-send = Αποστολή ούτως ή άλλως
 
