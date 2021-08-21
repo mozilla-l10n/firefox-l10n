@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cookies-window-dialog =
-    .title = Cookies
+    .title = Cookie
     .style = width: 40em;
 window-close-key =
     .key = w

@@ -12,7 +12,7 @@
 <!ENTITY accountUsernameTitle.label   "Όνομα χρήστη">
 <!ENTITY accountUsernameDuplicate.label "Αυτός ο λογαριασμός έχει ήδη ρυθμιστεί!">
 
-<!ENTITY accountPasswordTitle.label   "Κωδικός">
+<!ENTITY accountPasswordTitle.label   "Κωδικός πρόσβασης">
 <!ENTITY accountPasswordInfo.label    "Παρακαλώ εισαγάγετε τον κωδικό πρόσβασής σας στο παρακάτω πλαίσιο.">
 <!ENTITY accountPasswordField.label   "Κωδικός πρόσβασης:">
 <!ENTITY accountPasswordManager.label "Ο καταχωρημένος κωδικός πρόσβασης θα αποθηκευτεί στη Διαχείριση κωδικών πρόσβασης. Αφήστε αυτό το πλαίσιο κενό αν θέλετε να εισάγετε τον κωδικό πρόσβασης σας κάθε φορά που θα συνδέεστε σε αυτόν τον λογαριασμό.">
