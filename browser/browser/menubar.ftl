@@ -38,20 +38,16 @@ menu-quit =
             [windows] خ
            *[other] ت
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = ترک { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = خروج از { -brand-shorter-name }
-
 menu-about =
     .label = دربارهٔ { -brand-shorter-name }
     .accesskey = د
@@ -92,6 +88,9 @@ menu-file-save-page =
     .accesskey = ص
 menu-file-email-link =
     .label = ایمیل کردن پیوند...
+    .accesskey = ا
+menu-file-share-url =
+    .label = اشتراک‌گذاری
     .accesskey = ا
 menu-file-print-setup =
     .label = تنظیم صفحه…
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = کدگذاری متن
     .accesskey = گ
-
 menu-view-repair-text-encoding =
     .label = تعمیر رمزگذاری متن
     .accesskey = ت
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = زبانه‌های تازه بسته شده
 menu-history-undo-window-menu =
     .label = پنجره‌های تازه بسته شده
-
 menu-history-reopen-all-tabs = بازآوری همهٔ زبانه‌ها
 menu-history-reopen-all-windows = بازآوری همهٔ پنجره‌ها
 
