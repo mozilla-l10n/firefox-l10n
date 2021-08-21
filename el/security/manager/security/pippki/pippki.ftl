@@ -20,7 +20,7 @@ change-password-reenter = Εισάγετε τον κωδικό ξανά
 ## Reset Password dialog
 
 reset-password-window =
-    .title = Επαναφορά κύριου κωδικού
+    .title = Επαναφορά κύριου κωδικού πρόσβασης
     .style = width: 40em
 pippki-failed-pw-change = Αδυναμία αλλαγής κωδικού πρόσβασης.
 pippki-incorrect-pw = Δεν εισήγατε το σωστό κωδικό πρόσβασης. Παρακαλούμε δοκιμάστε ξανά.
