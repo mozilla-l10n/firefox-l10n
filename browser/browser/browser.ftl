@@ -265,7 +265,7 @@ identity-site-information = Informacions pel site { $host }
 #  $host (String): the hostname of the site that is being displayed.
 identity-header-security-with-host =
     .title = Seguretat de la connexion per { $host }
-identity-connection-not-secure = La connexion pas segura
+identity-connection-not-secure = Connexion pas segura
 identity-connection-secure = Connexion segura
 identity-connection-failure = Fracàs de connexion
 identity-connection-internal = Aquò es una pagina segura de { -brand-short-name }.
