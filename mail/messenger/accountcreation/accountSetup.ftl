@@ -77,7 +77,7 @@ account-setup-looking-up-db = Αναζήτηση ρυθμίσεων: Βάση δ
 account-setup-looking-up-mx = Αναζήτηση ρυθμίσεων: Τομέας εισερχόμενης αλληλογραφίας…
 account-setup-looking-up-exchange = Αναζήτηση ρυθμίσεων: Διακομιστής Exchange…
 account-setup-checking-password = Έλεγχος κωδικού πρόσβασης…
-account-setup-installing-addon = Λήψη και εγκατάσταση του πρόσθετου…
+account-setup-installing-addon = Λήψη και εγκατάσταση του προσθέτου…
 account-setup-success-half-manual = Κατά τον έλεγχο του διακομιστή εντοπίστηκαν οι παρακάτω ρυθμίσεις:
 account-setup-success-guess = Ρυθμίσεις που βρέθηκαν κατά τη δοκιμή των κοινών ονομάτων.
 account-setup-success-guess-offline = Είστε εκτός σύνδεσης. Μαντέψαμε ορισμένες ρυθμίσεις αλλά θα χρειαστεί να εισαγάγετε τις σωστές.
@@ -190,7 +190,7 @@ account-setup-insecure-outgoing-title = Ρυθμίσεις εξερχομένω�
 # Variables:
 #  $server (String): The name of the hostname of the server the user was trying to connect to.
 account-setup-warning-cleartext = Το <b>{ $server }</b> δεν χρησιμοποιεί κρυπτογράφηση.
-account-setup-warning-cleartext-details = Οι μη-ασφαλείς διακομιστές email δεν χρησιμοποιούν κρυπτογραφημένες συνδέσεις για την προστασία των κωδικών πρόσβασης και των προσωπικών πληροφοριών σας. Αν συνδεθείτε σε αυτόν τον διακομιστή, οι κωδικοί πρόσβασης και οι προσωπικές σας πληροφορίες ενδέχεται να εκτεθούν.
+account-setup-warning-cleartext-details = Οι επισφαλείς διακομιστές αλληλογραφίας δεν χρησιμοποιούν κρυπτογραφημένες συνδέσεις για την προστασία των κωδικών πρόσβασης και των προσωπικών σας πληροφοριών. Αν συνδεθείτε σε αυτό τον διακομιστή, οι κωδικοί πρόσβασης και οι προσωπικές σας πληροφορίες ενδέχεται να εκτεθούν.
 account-setup-insecure-server-checkbox = Κατανοώ τους κινδύνους
     .accesskey = τ
 account-setup-insecure-description = Το { -brand-short-name } μπορεί να σας επιτρέψει να κάνετε λήψη των email σας με τις παρεχόμενες ρυθμίσεις. Ωστόσο, θα πρέπει να επικοινωνήσετε με τον διαχειριστή του συστήματος ή τον πάροχο ηλεκτρονικού ταχυδρομείου σας σχετικά με αυτές τις ασυνήθιστες συνδέσεις. Δείτε τις <a data-l10n-name="thunderbird-faq-link">συχνές ερωτήσεις του Thunderbird</a> για περισσότερες πληροφορίες.
