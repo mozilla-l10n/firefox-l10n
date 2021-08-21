@@ -660,7 +660,7 @@
 <!ENTITY folderContextRemove.accesskey "φ">
 <!ENTITY folderContextCompact.label "Σύμπτυξη">
 <!ENTITY folderContextCompact.accesskey "Σ">
-<!ENTITY folderContextEmptyTrash.label "Άδειασμα του κάδου απορριμμάτων">
+<!ENTITY folderContextEmptyTrash.label "Άδειασμα απορριμμάτων">
 <!ENTITY folderContextEmptyTrash.accesskey "μ">
 <!ENTITY folderContextEmptyJunk.label "Διαγραφή ανεπιθύμητων">
 <!ENTITY folderContextEmptyJunk.accesskey "θ">
