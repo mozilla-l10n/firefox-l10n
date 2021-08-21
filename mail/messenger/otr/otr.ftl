@@ -89,7 +89,7 @@ msgevent-log-heartbeat-rcvd = Ελήφθη μήνυμα heartbeat από τον/
 # A Heartbeat is a technical message used to keep a connection alive.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-log-heartbeat-sent = Aπεστάλη μήνυμα heartbeat στον/στην { $name }.
+msgevent-log-heartbeat-sent = Απεστάλη μήνυμα heartbeat στον/στην { $name }.
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-rcvdmsg-general-err = Προέκυψε απροσδόκητο σφάλμα κατά την προσπάθεια προστασίας της συνομιλίας σας με OTR.
 # Variables:

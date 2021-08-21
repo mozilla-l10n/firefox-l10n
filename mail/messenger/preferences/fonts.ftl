@@ -4,21 +4,17 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Προεπιλογή ({ $name })
 fonts-label-default-unnamed =
     .label = Προεπιλογή
-
 fonts-encoding-dialog-title =
     .title = Γραμματοσειρές & κωδικοποίηση
-
 fonts-language-legend =
     .value = Γραμματοσειρές για:
     .accesskey = τ
-
 fonts-proportional-label =
     .value = Μεταβλητές:
     .accesskey = β
@@ -65,7 +61,7 @@ font-language-group-ethiopic =
 font-language-group-georgian =
     .label = Γεωργιανή
 font-language-group-gujarati =
-    .label = Γκουαρατί
+    .label = Γκουτζαράτι
 font-language-group-gurmukhi =
     .label = Γκουρμούχι
 font-language-group-khmer =
@@ -89,49 +85,38 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = Serif
-
 default-font-sans-serif =
     .label = Sans Serif
-
 font-size-label =
     .value = Μέγεθος:
     .accesskey = θ
-
 font-size-proportional-label =
     .value = Μέγεθος:
     .accesskey = ε
-
 font-size-monospace-label =
     .value = Μέγεθος:
     .accesskey = ε
-
 font-serif-label =
     .value = Serif:
     .accesskey = S
-
 font-sans-serif-label =
     .value = Sans-serif:
     .accesskey = n
-
 font-monospace-label =
     .value = Monospace:
     .accesskey = M
-
 font-min-size-label =
     .value = Ελάχιστο μέγεθος γραμματοσειράς:
     .accesskey = χ
-
 min-size-none =
     .label = Κανένα
 
 ## Fonts in message
 
 font-control-legend = Χειρισμός γραμματοσειράς
-
 use-document-fonts-checkbox =
     .label = Να επιτρέπεται στα έγγραφα να χρησιμοποιούν άλλες γραμματοσειρές
     .accesskey = ο
-
 use-fixed-width-plain-checkbox =
     .label = Χρήση σταθερού πλάτους για μηνύματα απλού κειμένου
     .accesskey = ρ
@@ -139,17 +124,13 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = Κωδικοποίηση κειμένου
-
 text-encoding-description = Ρύθμιση της προεπιλεγμένης κωδικοποίησης χαρακτήρων για την αποστολή και λήψη αλληλογραφίας
-
 font-outgoing-email-label =
     .value = Εξερχόμενα:
     .accesskey = ξ
-
 font-incoming-email-label =
     .value = Εισερχόμενα:
     .accesskey = ι
-
 default-font-reply-checkbox =
     .label = Όταν είναι δυνατόν, να γίνεται χρήση της προεπιλεγμένης κωδικοποίησης στις απαντήσεις
     .accesskey = υ
