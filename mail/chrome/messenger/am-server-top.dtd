@@ -74,7 +74,7 @@
 <!ENTITY advancedButton.label "Σύνθετα…">
 <!ENTITY advancedButton.accesskey "θ">
 <!ENTITY serverDefaultCharset2.label "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">
-<!ENTITY localPath1.label "Τοπικός φάκελος:">
+<!ENTITY localPath1.label "Τοπικός κατάλογος:">
 <!ENTITY localFolderPicker.label "Επιλογή τοπικού καταλόγου">
 <!ENTITY browseFolder.label "Περιήγηση…">
 <!ENTITY browseFolder.accesskey "γ">
