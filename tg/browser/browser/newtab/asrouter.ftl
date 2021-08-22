@@ -112,6 +112,7 @@ cfr-whatsnew-searchbar-title = Ба воситаи навори нишонӣ ш�
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Ҳангоми баррасии сомонаҳо, видеоҳоро тамошо кунед
 cfr-whatsnew-pip-cta = Маълумоти бештар
 
 ## Permission Prompt
