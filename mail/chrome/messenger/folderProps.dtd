@@ -59,7 +59,7 @@
 <!ENTITY privileges.button.label                 "Προνόμια...">
 <!ENTITY privileges.button.accesskey             "ν">
 <!ENTITY permissionsDesc.label                   "Έχετε τα ακόλουθα δικαιώματα:">
-<!ENTITY folderOtherUsers.label                  "Άλλα άτομα με πρόσβαση σε αυτό το φάκελο:">
+<!ENTITY folderOtherUsers.label                  "Άλλα άτομα με πρόσβαση στον φάκελο:">
 <!ENTITY folderType.label                        "Τύπος φακέλου:">
 
 <!ENTITY folderQuotaTab.label                    "Όριο">
