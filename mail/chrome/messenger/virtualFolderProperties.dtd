@@ -8,7 +8,7 @@
 <!ENTITY description.label          "Δημιουργία ως υποφακέλου του:">
 <!ENTITY description.accesskey      "Δ">
 
-<!ENTITY searchTermCaption.label "Ρύθμιση κριτηρίων αναζήτησης για αυτόν τον αποθηκευμένο φάκελο αναζήτησης:">
+<!ENTITY searchTermCaption.label "Ρύθμιση κριτηρίων αναζήτησης για τον αποθηκευμένο φάκελο αναζήτησης:">
 
 <!ENTITY folderSelectionCaption.label "Επιλογή φακέλων για αναζήτηση:">
 <!ENTITY chooseFoldersButton.label "Επιλογή…">
