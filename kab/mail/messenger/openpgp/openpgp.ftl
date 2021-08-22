@@ -290,6 +290,10 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Temmut deg: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Tasarut temmut
+openpgp-key-expires-within-6-months-icon =
+    .title = Tasarut ad temmet sya ɣer 6 n wayyuren
+openpgp-key-has-expired-icon =
+    .title = Tasarut temmut
 openpgp-key-expand-section =
     .tooltiptext = Ugar n telɣut
 openpgp-key-revoke-title = Ḥwi tasarut
@@ -343,6 +347,9 @@ import-info-details = Sken talqayt daɣen sefrek aqbayl n tsura
 import-info-no-keys = Ulac tisura i d-yettwaketren.
 # Strings in enigmailKeyManager.js
 import-from-clip = Tebɣiḍ ad tketreḍ kra n tsura yellan ɣef afus?
+export-to-file = Sifeḍ tasarut tazayezt ɣer ufaylu
+general-error = Tuccḍa: { $reason }
+dlg-button-delete = &Kkes
 
 ## Account settings export output
 
