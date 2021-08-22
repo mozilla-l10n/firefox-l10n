@@ -92,7 +92,7 @@
 
 <!ENTITY openAttachment.tooltip "Άνοιγμα του επισυναπτόμενου αρχείου">
 
-<!ENTITY detachedAttachmentFolder.show.label        "Άνοιγμα φακέλου αποθήκευσης">
+<!ENTITY detachedAttachmentFolder.show.label        "Άνοιγμα φακέλου λήψης">
 <!ENTITY detachedAttachmentFolder.show.accesskey    "φ">
 <!ENTITY detachedAttachmentFolder.showMac.label     "Εμφάνιση στο Finder">
 <!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
