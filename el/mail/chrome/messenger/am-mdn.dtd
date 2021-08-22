@@ -15,7 +15,7 @@
 <!ENTITY leaveIt.label                "Παραμονή στα εισερχόμενα">
 <!ENTITY leaveIt.accesskey            "σ">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Μετακίνηση στο φάκελο &quot;Απεσταλμένα&quot;">
+<!ENTITY moveToSent.label             "Μετακίνηση στον φάκελο «Απεσταλμένα»">
 <!ENTITY moveToSent.accesskey         "Μ">
 <!ENTITY requestMDN.label             "Κατά τη λήψη αιτήματος για αποδεικτικό προβολής:">
 <!ENTITY returnSome.label             "Αποδοχή αποδεικτικών προβολής για ορισμένα μηνύματα">
