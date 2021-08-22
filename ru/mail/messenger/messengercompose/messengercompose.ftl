@@ -168,12 +168,29 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Показать поле { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = { $count } адресата(ов) в полях «Кому» и «Копия» увидят адреса друг друга. Вы можете избежать раскрытия адресата(ов), используя вместо этого «Скрытую копию».
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] В вашем сообщении есть публичный адресат. Вы можете избежать раскрытия адресата, используя вместо этого «Скрытую копию».
+        [few] { $count } адресата в полях «Кому» и «Копия» увидят адреса друг друга. Вы можете избежать раскрытия адресатов, используя вместо этого «Скрытую копию».
+       *[many] { $count } адресатов в полях «Кому» и «Копия» увидят адреса друг друга. Вы можете избежать раскрытия адресатов, используя вместо этого «Скрытую копию».
+    }
 many-public-recipients-bcc =
     .label = Использовать «Скрытую копию»
     .accesskey = п
 many-public-recipients-ignore =
     .label = Позволить адресатам видеть адреса друг друга
     .accesskey = в
+many-public-recipients-prompt-title = Слишком много публичных адресатов
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] У вашего сообщения есть публичный адресат. Это может вызвать проблему с приватностью. Вы можете избежать раскрытия адресата, переместив его из «Кому»/«Копия» в «Скрытую копию».
+        [few] У вашего сообщения есть { $count } публичных адресата, которые смогут видеть адреса друг друга. Это может вызвать проблему с приватностью. Вы можете избежать раскрытия адресатов, переместив их из «Кому»/«Копия» в «Скрытую копию».
+       *[many] У вашего сообщения есть { $count } публичных адресатов, которые смогут видеть адреса друг друга. Это может вызвать проблему с приватностью. Вы можете избежать раскрытия адресатов, переместив их из «Кому»/«Копия» в «Скрытую копию».
+    }
+many-public-recipients-prompt-cancel = Отменить отправку
+many-public-recipients-prompt-send = Всё равно отправить
 
 ## Notifications
 
