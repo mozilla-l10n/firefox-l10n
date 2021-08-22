@@ -237,7 +237,7 @@ cfr-whatsnew-passwords-icon-alt = Εικονίδιο ευάλωτου κωδικ
 
 cfr-whatsnew-pip-fullscreen-header = Επέκταση εικόνας-εντός-εικόνας σε πλήρη οθόνη
 cfr-whatsnew-pip-fullscreen-body = Όταν προβάλλετε βίντεο σε αναδυόμενο παράθυρο, μπορείτε πλέον να κάνετε διπλό κλικ σε αυτό το παράθυρο για να μεταβείτε σε πλήρη οθόνη.
-cfr-whatsnew-pip-fullscreen-icon-alt = Εικονίδιο εικόνας-εντός-εικόνας
+cfr-whatsnew-pip-fullscreen-icon-alt = Εικονίδιο «Εικόνα εντός εικόνας»
 
 ## Protections Dashboard message
 
