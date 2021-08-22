@@ -13,6 +13,7 @@ default-browser-notification-button =
 ## secondary button are shared between the variants.
 
 default-browser-prompt-title-pin = Браузери { -brand-short-name }-ро ҳамчун браузери асосӣ таъин мекунед?
+default-browser-prompt-button-primary-pin = Ҳамчун браузери асосӣ истифода бурда шавад
 default-browser-prompt-title-alt = Браузери { -brand-short-name }-ро ҳамчун браузери пешфарз таъин мекунед?
 default-browser-prompt-message-alt = Ҳар вақте ки шумо бо Интернет кор мекунед, суръат, амният ва махфиятро ба даст оред.
 default-browser-prompt-button-primary-alt = Гузоштан ҳамчун браузери пешфарз

@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = Сомонаи ҳамлашуда
 about-logins-list-item-vulnerable-password-icon =
     .title = Ниҳонвожаи камқувват
+about-logins-list-section-breach = Сомонаҳои ҳамлашуда
+about-logins-list-section-vulnerable = Ниҳонвожаҳои камқувват
+about-logins-list-section-nothing = Бе огоҳӣ
+about-logins-list-section-today = Имрӯз
+about-logins-list-section-yesterday = Дирӯз
+about-logins-list-section-week = 7 рӯзи охир
 
 ## Introduction screen
 
