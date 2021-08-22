@@ -12,13 +12,10 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ҳангоми пайвастшавӣ ба { $hostname } хато ба миён омад. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Рамзи хато: { $error }
-
 psmerr-ssl-disabled = Ба таври бехатар пайваст карда наметавонад, зеро ки протоколи SSL ғайрифаъол карда шуд.
-
 ssl-error-unsupported-certificate-type = Навъи ин гувоҳинома дастгирӣ намешавад.
 ssl-error-post-warning = Рамзи номаълуми хатои SSL.
 ssl-error-bad-mac-read = SSL сабтеро бо рамзи нодурусти паёми санҷиши ҳаққоният қабул кард.
@@ -66,6 +63,11 @@ ssl-error-rx-unexpected-hello-verify-request = SSL паёми ногаҳони �
 ssl-error-feature-not-supported-for-version = Хусусияти SSL барои ин силсилаи протокол дастгирӣ намешавад.
 ssl-error-rx-unexpected-cert-status = SSL паёми ногаҳони дастфишории «Вазъияти гувоҳинома»-ро қабул кард.
 sec-error-library-failure = хатои китобхонаи амният.
+sec-error-bad-password = Ниҳонвожаи амниятии воридшуда нодуруст аст.
+sec-error-retry-password = Ниҳонвожаи нав нодуруст ворид карда шуд. Лутфан, аз нав кӯшиш кунед.
+sec-error-duplicate-cert = Гувоҳинома аллакай дар пойгоҳи иттилоотии шумо вуҷуд дорад.
+sec-error-adding-cert = Хатои иловакунии гувоҳинома ба пойгоҳи иттилоотӣ.
+sec-error-filing-key = Хатои пуркунии дубораи калид барои ин гувоҳинома.
 sec-error-cert-valid = Ин гувоҳинома эътибор дорад.
 sec-error-cert-not-valid = Ин гувоҳинома эътибор надорад.
 sec-error-cert-no-response = Китобхонаи гувоҳиномаҳо: Ягон посух нест
@@ -92,6 +94,8 @@ sec-error-js-invalid-module-name = Номи модул нодуруст аст.
 sec-error-js-invalid-dll = Номи файл/масири модул нодуруст аст.
 sec-error-js-add-mod-failure = Модул илова карда намешавад
 sec-error-js-del-mod-failure = Модул нест карда намешавад
+sec-error-unknown-cert = Гувоҳиномаи дархостшуда ёфт нашуд.
+sec-error-unknown-signer = Гувоҳиномаи имзокунанда ёфт нашуд.
 sec-error-crl-already-exists = CRL аллакай вуҷуд дорад.
 sec-error-not-initialized = NSS оғоз нашудааст.
 sec-error-bad-http-response = Сервер посухи HTTP-и нодурустро баргардонид
