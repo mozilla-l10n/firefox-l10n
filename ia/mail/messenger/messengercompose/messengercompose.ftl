@@ -163,8 +163,8 @@ many-public-recipients-info = Le { $count } destinatarios in A e Cc videra lor l
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
-        [one] Tu message ha un destinatario public. Tu pote in vice impedir le divulgation del adresses del destinatarios per Ccn.
-       *[other] Le { $count } destinatarios in A e Cc videra le un le adresse del altere. Tu pote in vice impedir le divulgation del adresses del destinatarios per Ccn.
+        [one] Tu message ha un destinatario public. Tu in vice pote impedir de revelar le destinatarios  per Ccn.
+       *[other] Le { $count } destinatarios in A e Cc videra le un le adresse del altere. Tu in vice pote impedir de revelar le destinatarios per Ccn.
     }
 many-public-recipients-bcc =
     .label = Usar Bcc in vice
@@ -173,6 +173,12 @@ many-public-recipients-ignore =
     .label = Mantener public le destinatarios
     .accesskey = M
 many-public-recipients-prompt-title = Troppo de destinatarios public
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Tu message ha un destinatario public. Isto pote representar un problema de confidentialitate. Tu in vice pote impedir isto displaciante le destinatario ab A/Cc a Ccn.
+       *[other] Tu message ha { $count } public destinatarios, qui potera vider le un le adresses del alteres. Isto pote representar un problema de confidentialitate. Tu in vice pote impedir isto displaciante le destinatario ab A/Cc a Ccn.
+    }
 many-public-recipients-prompt-cancel = Cancellar invio
 many-public-recipients-prompt-send = Inviar comocunque
 
