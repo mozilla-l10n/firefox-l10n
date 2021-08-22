@@ -1,10 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = लॉगिन व संकेतशब्द
@@ -17,12 +13,9 @@ login-app-promo-android =
     .alt = Google Play वर मिळवा
 login-app-promo-apple =
     .alt = App Store वरुन डाउनलोड करा
-
 login-filter =
     .placeholder = लॉगिन शोधा
-
 create-login-button = नविन लॉगिन बनवा
-
 fxaccounts-sign-in-text = आपल्या इतर उपकरणांवर आपले पासवर्ड मिळवा
 fxaccounts-sign-in-button = { -sync-brand-short-name } मध्ये साइन इन करा
 fxaccounts-avatar-button =
@@ -32,6 +25,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = मेनू उघडा
+about-logins-menu-menuitem-import-from-a-file = फाईलमधून आयात करा…
+about-logins-menu-menuitem-export-logins = लॉगिन निर्यात करा…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] पर्याय
@@ -52,17 +47,23 @@ login-list-count =
     }
 login-list-sort-label-text = यानुसार क्रमवारी लावा:
 login-list-name-option = नाव (A-Z)
+login-list-name-reverse-option = नाव (Z-A)
 login-list-last-changed-option = शेवटचा बदल
 login-list-last-used-option = शेवटचा वापर
 login-list-intro-title = कुठलेही लॉगिन सापडले नाही
+login-list-intro-description = आपण जेव्हा { -brand-product-name } मध्ये पासवर्ड जतन करता तेव्हा तो येथे दर्शविला जाईल.
 about-logins-login-list-empty-search-title = कुठलेही लॉगिन सापडले नाही
 about-logins-login-list-empty-search-description = आपल्या शोधाशी जुळणारे कोणतेही परिणाम नाहीत.
 login-list-item-title-new-login = नविन लॉगीन
 login-list-item-subtitle-new-login = तुमचे लॉगीन संकेतशब्द टाका
 login-list-item-subtitle-missing-username = (कुठलेही वापरकर्तानाव नाही)
+about-logins-list-item-breach-icon =
+    .title = उल्लंघीत वेबसाईट
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-in = कोणतेही सिंक केलेले लॉगिन सापडले नाहीत.
+login-intro-description = आपले लॉगिन जर वेगळ्या { -brand-product-name } डिव्हाईस वर असतील तर ते कसे पाहायचे ते इथे आहे
 
 ## Login
 
@@ -115,9 +116,7 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = रद्द करा
 confirmation-dialog-dismiss-button =
     .title = रद्द करा
-
 confirm-delete-dialog-message = ही कृती बदलू शकत नाही
-
 confirm-discard-changes-dialog-title = जतन न केलेले बदल टाकून द्यायचे?
 confirm-discard-changes-dialog-message = सर्व जतन न केलेले बदल गमावले जातील.
 confirm-discard-changes-dialog-confirm-button = रद्द करा
@@ -137,22 +136,26 @@ about-logins-breach-alert-learn-more-link = अधिक जाणा
 # This is a generic error message.
 about-logins-error-message-default = हा पासवर्ड साठवताना त्रुटी आली.
 
-
 ## Login Export Dialog
 
+
 ## Login Import Dialog
+
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
