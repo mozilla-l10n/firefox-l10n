@@ -74,7 +74,7 @@ about-logins-list-section-vulnerable = Уязвимые пароли
 about-logins-list-section-nothing = Нет предупреждения
 about-logins-list-section-today = Сегодня
 about-logins-list-section-yesterday = Вчера
-about-logins-list-section-week = В последние 7 дней
+about-logins-list-section-week = За последние 7 дней
 
 ## Introduction screen
 
