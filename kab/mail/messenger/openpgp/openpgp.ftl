@@ -353,6 +353,12 @@ dlg-button-delete = &Kkes
 
 ## Account settings export output
 
+# Strings in gnupg-keylist.jsm
+keyring-photo = Tawlaft
+user-att-photo = Seqdec imyerr (tugna JPEG)
+key-man-button-revoke-key = &Ḥwi tasarut
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Kter
 # Strings used in trust.jsm
 key-valid-unknown = arussin
 key-valid-invalid = arameɣtu
@@ -360,6 +366,41 @@ key-valid-disabled = yensa
 key-valid-revoked = yettwaḥwi
 key-valid-expired = yemmut
 key-trust-untrusted = ur yettwaman ara
+key-trust-group = (agraw)
+# Strings used in commonWorkflows.js
+import-key-file = Kter afaylu n tsarut OpenPGP
+gnupg-file = Ifuyla GnuPG
+gen-going = Asirew n tsarut yebda yakan iteddu!
+expiry-too-short = Tasarut-ik·im ilaq ad tili d tameɣtut xerṣum yiwen wass.
+expiry-too-long = Ur tezmireḍ ara ad d-tesnulfuḍ tasarut ara yemmten deg wugar n 100 n yiseggasen.
+key-confirm = Sirew tasarut tazayezt tufurt i ‘{ $id }’?
+key-abort = Sefsex asirew n tsarut
 
 # Strings used in enigmailMessengerOverlay.js
 
+failed-decrypt = Tuccḍa - awgelhen yecceḍ
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Azen izen
+msg-compose-details-button-label = Talqayt…
+msg-compose-details-button-access-key = D
+compose-menu-attach-key =
+    .label = Seddu tasarut-iw tazayazt
+    .accesskey = S
+do-import-one = Kter { $name } ({ $id })?
+dlg-button-view = &Sken
+repeat-suffix-singular = ugar n wakud.
+repeat-suffix-plural = ugar n wakuden.
+dlg-button-ok = &IH
+dlg-button-close = &Mdel
+dlg-button-cancel = &Sefsex
+enig-confirm = Asentem OpenPGP
+enig-alert = Alɣu OpenPGP
+enig-info = Talɣut OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = Ɛ&reḍ tikelt nniḍen
+dlg-button-skip = &Zgel
+# Strings used in enigmailCommon.js
+enig-error = Tuccḍa OpenPGP
+# Strings used in enigmailMsgBox.js
+enig-alert-title =
+    .title = Alɣu OpenPGP
