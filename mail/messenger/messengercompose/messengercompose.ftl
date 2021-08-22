@@ -168,12 +168,29 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Pokaż pole „{ bcc-compose-address-row-label.value }” ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = { $count } odbiorców w polach Do i Kopia będzie widzieć swoje adresy. Można uniknąć ujawniania odbiorców, używając zamiast tego pola Ukryta kopia.
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Wiadomość ma publicznego odbiorcę. Można uniknąć ujawniania odbiorców, używając zamiast tego pola Ukryta kopia.
+        [few] { $count } odbiorców w polach Do i Kopia będzie widzieć swoje adresy. Można uniknąć ujawniania odbiorców, używając zamiast tego pola Ukryta kopia.
+       *[many] { $count } odbiorców w polach Do i Kopia będzie widzieć swoje adresy. Można uniknąć ujawniania odbiorców, używając zamiast tego pola Ukryta kopia.
+    }
 many-public-recipients-bcc =
     .label = Użyj pola Ukryta kopia
     .accesskey = U
 many-public-recipients-ignore =
     .label = Ujawnij odbiorców
     .accesskey = w
+many-public-recipients-prompt-title = Za dużo publicznych odbiorców
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Wiadomość ma publicznego odbiorcę. Może to budzić obawy dotyczące prywatności. Można tego uniknąć, przenosząc odbiorcę z pól Do/Kopia do pola Ukryta kopia.
+        [few] Wiadomość ma { $count } publicznych odbiorców, którzy będą mogli widzieć swoje adresy. Może to budzić obawy dotyczące prywatności. Można uniknąć ujawniania odbiorców, przenosząc ich z pól Do/Kopia do pola Ukryta kopia.
+       *[many] Wiadomość ma { $count } publicznych odbiorców, którzy będą mogli widzieć swoje adresy. Może to budzić obawy dotyczące prywatności. Można uniknąć ujawniania odbiorców, przenosząc ich z pól Do/Kopia do pola Ukryta kopia.
+    }
+many-public-recipients-prompt-cancel = Anuluj wysyłanie
+many-public-recipients-prompt-send = Wyślij mimo to
 
 ## Notifications
 
