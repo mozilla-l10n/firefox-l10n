@@ -682,6 +682,7 @@ toolbar-overflow-customize-button =
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing = Баъзе аудио ё видео дар ин сомона нармафзори DRM-ро истифода мебаранд, ки метавонад маҳдудияти он чизеро, ки { -brand-short-name } метавонад ба шумо иҷозат диҳад, маҳдуд кунад.
 eme-notifications-drm-content-playing-manage = Идоракунии танзимот
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Нодида гузарондан

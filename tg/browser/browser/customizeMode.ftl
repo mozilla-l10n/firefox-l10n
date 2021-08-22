@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Барқарор кардани пешфарзҳо
+customize-mode-menu-and-toolbars-header = Чизҳои дӯстдоштаи худро ба навори абзорҳо ё менюи саршор кашед.
 customize-mode-overflow-list-title = Менюи васеъшуда
 customize-mode-uidensity =
     .label = Зичӣ
