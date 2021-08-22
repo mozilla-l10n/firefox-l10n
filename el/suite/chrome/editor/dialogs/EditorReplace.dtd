@@ -13,7 +13,7 @@
 <!ENTITY caseSensitiveCheckbox.accesskey "Σ">
 <!ENTITY wrapCheckbox.label "Αναδίπλωση γύρω">
 <!ENTITY wrapCheckbox.accesskey "δ">
-<!ENTITY backwardsCheckbox.label "Αναζήτηση  προς τα πίσω">
+<!ENTITY backwardsCheckbox.label "Αναζήτηση προς τα πίσω">
 <!ENTITY backwardsCheckbox.accesskey "π">
 <!ENTITY findNextButton.label "Εύρεση επόμενου">
 <!ENTITY findNextButton.accesskey "π">
