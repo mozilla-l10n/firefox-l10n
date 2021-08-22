@@ -57,7 +57,7 @@
 <!ENTITY calendar.unifinder.close.tooltip                  "Κλείσιμο αναζήτησης και λίστας εκδηλώσεων">
 
 <!ENTITY calendar.today.button.tooltip          "Μετάβαση στη σημερινή ημέρα" >
-<!ENTITY calendar.todaypane.button.tooltip      "Εμφάνιση παραθύρου σημερινής ημέρας" >
+<!ENTITY calendar.todaypane.button.tooltip      "Εμφάνιση προβολής «Σήμερα»" >
 
 <!ENTITY calendar.day.button.tooltip            "Εναλλαγή σε ημερήσια προβολή" >
 <!ENTITY calendar.week.button.tooltip           "Εναλλαγή σε εβδομαδιαία προβολή" >

@@ -109,6 +109,6 @@
 <!ENTITY todaypane.showMiniday.accesskey  "η">
 <!ENTITY todaypane.showNone.label "Τίποτα από τα δύο">
 <!ENTITY todaypane.showNone.accesskey "Τ">
-<!ENTITY todaypane.showTodayPane.label "Εμφάνιση παραθύρου ημέρας">
+<!ENTITY todaypane.showTodayPane.label "Εμφάνιση προβολής «Σήμερα»">
 <!ENTITY todaypane.showTodayPane.accesskey "π">
 <!ENTITY todaypane.statusButton.label "Προβολή ημέρας">
