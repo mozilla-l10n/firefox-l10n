@@ -101,8 +101,8 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
-<!ENTITY reorderAttachmentsPanel.label "Ανακατάταξη συνημμένων">
-<!ENTITY moveAttachmentTopPanelBtn.label "Μετακίνηση στην κορυφή">
+<!ENTITY reorderAttachmentsPanel.label "Αναδιάταξη συνημμένων">
+<!ENTITY moveAttachmentTopPanelBtn.label "Μετακίνηση στο πάνω μέρος">
 <!ENTITY moveAttachmentUpPanelBtn.label "Μετακίνηση πάνω">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Μετακίνηση μαζί">
 <!ENTITY moveAttachmentDownPanelBtn.label "Μετακίνηση κάτω">
@@ -230,7 +230,7 @@
 <!ENTITY sendlaterButton.tooltip "Αποστολή του μηνύματος αργότερα">
 <!ENTITY quoteButton.tooltip "Παράθεση προηγούμενου μηνύματος">
 <!ENTITY addressButton.tooltip "Επιλογή παραλήπτη από το Ευρετήριο Διευθύνσεων">
-<!ENTITY attachButton.tooltip2 "Προσθήκη ενός συνημμένου">
+<!ENTITY attachButton.tooltip2 "Προσθήκη ενός συνημμένου αρχείου">
 <!ENTITY spellingButton.tooltip "Ορθογραφικός έλεγχος επιλογής ή ολόκληρου μηνύματος">
 <!ENTITY saveButton.tooltip "Αποθήκευση μηνύματος">
 <!ENTITY cutButton.tooltip              "Αποκοπή">
@@ -249,8 +249,8 @@
 <!ENTITY ccAddr2.label "Κοιν.">
 <!ENTITY bccAddr2.label "Κρυφή κοιν.">
 <!ENTITY replyAddr2.label "Απάντηση προς">
-<!ENTITY newsgroupsAddr2.label "Ομάδα ειδήσεων">
-<!ENTITY followupAddr2.label "Σε συνέχεια του ">
+<!ENTITY newsgroupsAddr2.label "Ομάδες συζήτησης">
+<!ENTITY followupAddr2.label "Σε συνέχεια του">
 <!ENTITY subject2.label "Θέμα">
 <!ENTITY subject.accesskey "Θ">
 <!ENTITY attachmentBucketCloseButton.tooltip "Απόκρυψη του πίνακα συνημμένων">
@@ -312,7 +312,7 @@
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Μετατροπή σε…">
 <!ENTITY convertCloud.accesskey "Μ">
-<!ENTITY cancelUpload.label "Ακύρωση αποστολής">
+<!ENTITY cancelUpload.label "Ακύρωση μεταφόρτωσης">
 <!ENTITY cancelUpload.accesskey "ρ">
 <!ENTITY convertRegularAttachment.label "Κανονικό συνημμένο">
 <!ENTITY convertRegularAttachment.accesskey "Κ">

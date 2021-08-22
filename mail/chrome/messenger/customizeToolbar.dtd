@@ -15,4 +15,4 @@
 <!ENTITY showTitlebar2.label      "Γραμμή τίτλου">
 <!ENTITY extraDragSpace2.label    "Χώρος μεταφοράς">
 <!ENTITY saveChanges.label        "Τέλος">
-<!ENTITY undoChanges.label        "Ακύρωση Αλλαγών">
+<!ENTITY undoChanges.label        "Αναίρεση αλλαγών">
