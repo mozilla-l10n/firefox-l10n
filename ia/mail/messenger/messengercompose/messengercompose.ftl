@@ -163,8 +163,8 @@ many-public-recipients-info = Le { $count } destinatarios in A e Cc videra lor l
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
-        [one] Tu message ha un destinatario public. Tu pote impedir le divulgation del adresses del destinatarios per Ccn.
-       *[other] Le { $count } destinatarios in A e Cc pote vider lor relative adresses. Tu pote impedir le divulgation del adresses del destinatarios per Ccn.
+        [one] Tu message ha un destinatario public. Tu pote in vice impedir le divulgation del adresses del destinatarios per Ccn.
+       *[other] Le { $count } destinatarios in A e Cc videra le un le adresse del altere. Tu pote in vice impedir le divulgation del adresses del destinatarios per Ccn.
     }
 many-public-recipients-bcc =
     .label = Usar Bcc in vice
