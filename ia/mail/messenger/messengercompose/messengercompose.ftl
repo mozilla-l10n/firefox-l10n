@@ -160,6 +160,12 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Monstrar campo { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Le { $count } destinatarios in A e Cc videra lor le un le altere lor adresses. Tu pote impedir le divulgation del adresses del destinatarios per Ccn.
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Tu message ha un destinatario public. Tu pote impedir le divulgation del adresses del destinatarios per Ccn.
+       *[other] Le { $count } destinatarios in A e Cc pote vider lor relative adresses. Tu pote impedir le divulgation del adresses del destinatarios per Ccn.
+    }
 many-public-recipients-bcc =
     .label = Usar Bcc in vice
     .accesskey = U
