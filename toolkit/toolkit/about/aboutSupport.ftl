@@ -26,7 +26,7 @@ support-addons-id = ID
 security-software-title = Λογισμικό ασφαλείας
 security-software-type = Τύπος
 security-software-name = Όνομα
-security-software-antivirus = Antivirus
+security-software-antivirus = Προστασία από ιούς
 security-software-antispyware = Antispyware
 security-software-firewall = Τείχος προστασίας
 features-title = Χαρακτηριστικά { -brand-short-name }
@@ -192,36 +192,6 @@ remote-debugging-url = URL
 
 ##
 
-support-third-party-modules-title = Λειτουργικές μονάδες τρίτων
-support-third-party-modules-module = Αρχείο μονάδας
-support-third-party-modules-version = Έκδοση αρχείου
-support-third-party-modules-vendor = Πληροφορίες κατασκευαστή
-support-third-party-modules-occurrence = Εμφάνιση
-support-third-party-modules-process = Τύπος & ID διεργασίας
-support-third-party-modules-thread = Νήμα
-support-third-party-modules-base = Διεύθυνση Imagebase
-support-third-party-modules-uptime = Χρόνος διεργασίας (ms)
-support-third-party-modules-duration = Διάρκεια φόρτωσης (ms)
-support-third-party-modules-status = Κατάσταση
-support-third-party-modules-status-loaded = Φορτώθηκε
-support-third-party-modules-status-blocked = Αποκλείστηκε
-support-third-party-modules-status-redirected = Ανακατευθύνθηκε
-support-third-party-modules-empty = Δεν φορτώθηκαν λειτουργικές μονάδες τρίτων.
-support-third-party-modules-no-value = (Καμία τιμή)
-support-third-party-modules-button-open =
-    .title = Άνοιγμα τοποθεσίας αρχείου…
-support-third-party-modules-expand =
-    .title = Εμφάνιση λεπτομερών πληροφοριών
-support-third-party-modules-collapse =
-    .title = Σύμπτυξη λεπτομερών πληροφοριών
-support-third-party-modules-unsigned-icon =
-    .title = Αυτή η μονάδα δεν έχει υπογραφεί
-support-third-party-modules-folder-icon =
-    .title = Άνοιγμα τοποθεσίας αρχείου…
-support-third-party-modules-down-icon =
-    .title = Εμφάνιση λεπτομερών πληροφοριών
-support-third-party-modules-up-icon =
-    .title = Σύμπτυξη λεπτομερών πληροφοριών
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
