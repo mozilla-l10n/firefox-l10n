@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = Sitio web vulnerado
 about-logins-list-item-vulnerable-password-icon =
     .title = Contraseña vulnerable
+about-logins-list-section-breach = Sitios webs vulnerados
+about-logins-list-section-vulnerable = Contraseñas vulnerables
+about-logins-list-section-nothing = Sin alertas
+about-logins-list-section-today = Hoy
+about-logins-list-section-yesterday = Ayer
+about-logins-list-section-week = Últimos 7 días
 
 ## Introduction screen
 
