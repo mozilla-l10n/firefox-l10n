@@ -21,8 +21,11 @@ upgrade-dialog-new-primary-win7-button = Хуб, фаҳмидам!
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+upgrade-dialog-pin-secondary-button = Ҳоло не
+
 ## Default browser screen
 
+upgrade-dialog-default-primary-button-2 = Гузоштан ҳамчун браузери пешфарз
 upgrade-dialog-default-secondary-button = Ҳоло не
 
 ## Theme selection screen

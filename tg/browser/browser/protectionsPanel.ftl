@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Ҳангоми фиристодани гузориш хато ба миён омад. Лутфан, баъдтар аз нав кӯшиш кунед.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Сомона ислоҳ шуд? Гузориш диҳед
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = Стандартӣ
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Маълумоти бештар оид ба муҳофизати такмилёфта аз пайгирӣ
-
 protections-panel-etp-on-header = Муҳофизати такмилёфта аз пайгирӣ барои ин сомона фаъол аст
 protections-panel-etp-off-header = Муҳофизати такмилёфта аз пайгирӣ барои ин сомона ғайрифаъол аст
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Сомона кор намекунад?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Сомона кор намекунад?
@@ -41,7 +37,6 @@ protections-panel-not-blocking-why-label = Чаро?
 ##
 
 protections-panel-content-blocking-tracking-protection = Муҳтавои пайгирикунанда
-
 protections-panel-content-blocking-socialblock = Васоити пайгирии шабакаҳои иҷтимоӣ
 protections-panel-content-blocking-cryptominers-label = Криптомайнерҳо
 protections-panel-content-blocking-fingerprinters-label = Хонандаи нақши ангушт
@@ -59,7 +54,6 @@ protections-panel-not-found-label = Ҳеҷ чиз муайян карда наш
 ##
 
 protections-panel-settings-label = Танзимоти муҳофизат
-# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Лавҳаи вазъияти муҳофизат
 
 ## In the Site Not Working? view, we suggest turning off protections if
@@ -67,18 +61,17 @@ protections-panel-protectionsdashboard-label = Лавҳаи вазъияти м�
 
 # The header of the list
 protections-panel-site-not-working-view-header = Агар шумо бо зерин мушкилӣ кашед, муҳофизатро ғайрифаъол кунед:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Майдонҳои воридшавӣ
 protections-panel-site-not-working-view-issue-list-forms = Шаклҳо
 protections-panel-site-not-working-view-issue-list-payments = Прадохтҳо
 protections-panel-site-not-working-view-issue-list-comments = Шарҳҳо
 protections-panel-site-not-working-view-issue-list-videos = Видеоҳо
-
 protections-panel-site-not-working-view-send-report = Фиристодани гузориш
 
 ##
 
+protections-panel-description-shim-allowed-learn-more = Маълумоти бештар
 protections-panel-content-blocking-breakage-report-view =
     .title = Гузориш дар бораи сомонаи вайроншуда
 protections-panel-content-blocking-breakage-report-view-collection-url = Нишонии URL

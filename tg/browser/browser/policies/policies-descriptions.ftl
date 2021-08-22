@@ -11,15 +11,11 @@
 ## in the documentation section in about:policies.
 
 policy-CertificatesDescription = Гувоҳиномаҳоро илова кунед ё гувоҳиномаҳои дарунсохтро истифода баред.
-
 policy-DisablePrivateBrowsing = Тамошокунии махфиро ғайрифаъол мекунад.
-
 policy-DisableTelemetry = Санҷиши дурдаст (телеметрия)-ро хомӯш мекунад.
-
 policy-DNSOverHTTPS = Танзим кардани DNS тавассути HTTPS.
-
+policy-ExtensionSettings = Ҳамаи тарафҳои насбкунии васеъшавиро идора мекунад.
 policy-FirefoxHome = Танзим кардани саҳифаи асосии Firefox.
-
 policy-HardwareAcceleration = Дар ҳолати «false» суръатафзои сахтафзор хомӯш карда мешавад.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -28,6 +24,4 @@ policy-HardwareAcceleration = Дар ҳолати «false» суръатафзо
 ##
 
 policy-NewTabPage = Саҳифаи варақаи навро фаъол ё ғайрифаъол мекунад.
-
 policy-Proxy = Хусусиятҳои проксиро танзим мекунад.
-

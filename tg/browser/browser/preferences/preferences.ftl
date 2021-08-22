@@ -211,6 +211,7 @@ confirm-browser-language-change-button = Татбиқ ва аз нав оғоз 
 translate-web-pages =
     .label = Тарҷума кардани муҳтавои сомона
     .accesskey = Т
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Тарҷумаҳо аз ҷониби <img data-l10n-name="logo"/>
@@ -283,6 +284,7 @@ applications-manage-app =
     .label = Тафсилоти барнома…
 applications-always-ask =
     .label = Ҳамеша пурсидан
+applications-type-pdf = Формати ҳуҷҷати ҳамлпазир (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -913,6 +915,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Истисноҳо…
     .accesskey = И
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Истисноҳо…
+    .accesskey = И
+    .searchkeywords = равзанаҳои пайдошаванда
 permissions-addon-exceptions =
     .label = Истисноҳо…
     .accesskey = И

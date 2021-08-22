@@ -114,6 +114,13 @@ tab-context-close-tabs =
            *[other] П
         }
     .accesskey = П
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Пӯшидани варақа
+           *[other] Пӯшидани { $tabCount } варақа
+        }
+    .accesskey = П
 tab-context-move-tabs =
     .label =
         { $tabCount ->

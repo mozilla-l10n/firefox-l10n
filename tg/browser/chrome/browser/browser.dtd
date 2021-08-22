@@ -25,6 +25,7 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Кушодани файл…">
 <!ENTITY printCmd.label "Чоп кардан ...">
 
+<!ENTITY taskManagerCmd.label "Мудири вазифаҳо">
 
 <!ENTITY menubarCmd.label "Навори меню">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
@@ -38,6 +39,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Хатбаракҳо">
 <!ENTITY bookmarksToolbarItem.label "Унсурҳои навори хатбаракҳо">
 
+<!ENTITY fullScreenCmd.label "Экрани пурра">
 
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -45,6 +47,7 @@ this container is a toolbar. This avoids double-speaking. -->
      followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings2.label "Танзимоти &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Пайваст кардани дастгоҳи дигар…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -52,8 +55,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.signin.label "Ворид шудан ба &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Фаъол кардани &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Хидматҳои &brandProductName;">
+<!ENTITY fxa.menu.account.label "Ҳисоб">
 <!ENTITY fxa.menu.settings.label "Танзимот">
 <!ENTITY fxa.menu.accountSettings.label "Танзимоти ҳисоб">
+<!ENTITY fxa.menu.manageAccount2.label "Идоракунии ҳисоб">
+<!ENTITY fxa.menu.signOut.label "Баромад…">
 <!ENTITY fxa.menu.setupSync.label "Танзим кардани &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -113,6 +119,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY libraryDownloads.label       "Боргириҳо">
 <!ENTITY addons.label                 "Ҷузъҳои иловагӣ">
 
+<!ENTITY webDeveloperMenu.label       "Барномарезии сомонаҳо">
 
 <!ENTITY newNavigatorCmd.label        "Равзанаи нав">
 <!ENTITY newPrivateWindow.label     "Равзанаи махфии нав">
@@ -126,13 +133,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Таърих">
-
 <!ENTITY historyUndoMenu.label "Варақаҳои ба наздикӣ пӯшидашуда">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Равзанаҳои ба наздикӣ пӯшидашуда">
 
 <!ENTITY appMenuHistory.showAll.label "Намоиш додани таърихи пурра">
-
 <!ENTITY appMenuHistory.clearRecent.label "Пок кардани таърихи охирин…">
 <!ENTITY appMenuHistory.restoreSession.label "Барқарор кардани ҷаласаи қаблӣ">
 <!ENTITY appMenuHistory.viewSidebar.label "Намоиш додани навори ҷонибии таърих">
