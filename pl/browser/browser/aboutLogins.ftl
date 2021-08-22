@@ -69,6 +69,12 @@ about-logins-list-item-breach-icon =
     .title = Witryna z wyciekiem haseł
 about-logins-list-item-vulnerable-password-icon =
     .title = Potencjalnie niebezpieczne hasło
+about-logins-list-section-breach = Witryny z wyciekami haseł
+about-logins-list-section-vulnerable = Potencjalnie niebezpieczne hasła
+about-logins-list-section-nothing = Brak powiadomienia
+about-logins-list-section-today = Dzisiaj
+about-logins-list-section-yesterday = Wczoraj
+about-logins-list-section-week = Ostatnie 7 dni
 
 ## Introduction screen
 
