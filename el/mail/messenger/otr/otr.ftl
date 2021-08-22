@@ -67,7 +67,7 @@ msgevent-encryption-error = Συνέβη ένα σφάλμα κατά την κ�
 msgevent-connection-ended = Ο/Η { $name } έχει ήδη κλείσει την κρυπτογραφημένη σύνδεση με εσάς. Για να μην στείλετε κατά λάθος κάποιο μήνυμα χωρίς κρυπτογράφηση, το μήνυμά σας δεν απεστάλη. Παρακαλώ τερματίστε ή επανεκκινήστε την κρυπτογραφημένη συνομιλία σας.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-setup-error = Συνέβη ένα σφάλμα κατά τη δημιουργία ιδιωτικής συνομιλίας με τον/την { $name }.
+msgevent-setup-error = Προέκυψε σφάλμα κατά τη δημιουργία ιδιωτικής συνομιλίας με τον/την { $name }.
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-msg-reflected = Λαμβάνετε τα δικά σας μηνύματα OTR. Είτε προσπαθείτε να μιλήσετε με τον εαυτό σας, είτε κάποιος αντανακλά τα μηνύματά σας πίσω σε εσάς.
 # Variables:
