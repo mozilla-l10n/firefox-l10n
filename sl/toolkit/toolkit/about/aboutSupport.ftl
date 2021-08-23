@@ -7,7 +7,6 @@ page-subtitle =
     Ta stran vsebuje tehnične podatke, ki jih boste morda potrebovali pri odpravljanju
     težav. Če iščete odgovore na splošna vprašanja o programu
     { -brand-short-name }, obiščite <a data-l10n-name="support-link">strani za podporo uporabnikom</a>.
-
 crashes-title = Poročila o sesutjih
 crashes-id = ID poročila
 crashes-send-date = Datum pošiljanja
@@ -63,6 +62,7 @@ app-basics-enabled-plugins = Omogočeni vtičniki
 app-basics-build-config = Nastavitev graditve
 app-basics-user-agent = Uporabniški agent
 app-basics-os = OS
+app-basics-os-theme = Tema operacijskega sistema
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = Prevedeno z Rosetto
@@ -135,7 +135,6 @@ sandbox-sys-call-number = Sistemski klic
 sandbox-sys-call-args = Argumenti
 safe-mode-title = Poskusite varni način
 restart-in-safe-mode-label = Ponovno zaženi z onemogočenimi dodatki …
-
 troubleshoot-mode-title = Odkrivanje težav
 restart-in-troubleshoot-mode-label = Način za odpravljanje težav …
 clear-startup-cache-title = Poskusite počistiti predpomnilnik zagona
@@ -193,37 +192,6 @@ remote-debugging-url = URL
 
 ##
 
-support-third-party-modules-title = Moduli drugih ponudnikov
-support-third-party-modules-module = Datoteka modula
-support-third-party-modules-version = Različica datoteke
-support-third-party-modules-vendor = Podatki o izdelovalcu
-support-third-party-modules-occurrence = Ponovitev
-support-third-party-modules-process = Vrsta in ID procesa
-support-third-party-modules-thread = Nit
-support-third-party-modules-base = Naslov Imagebase
-support-third-party-modules-uptime = Čas delovanja (ms)
-support-third-party-modules-duration = Trajanje nalaganja (ms)
-support-third-party-modules-status = Stanje
-support-third-party-modules-status-loaded = Naložen
-support-third-party-modules-status-blocked = Zavrnjen
-support-third-party-modules-status-redirected = Preusmerjen
-support-third-party-modules-empty = Ni naloženih modulov drugih ponudnikov.
-support-third-party-modules-no-value = (brez vrednosti)
-support-third-party-modules-button-open =
-    .title = Odpri mesto datoteke …
-support-third-party-modules-expand =
-    .title = Prikaži podrobne informacije
-support-third-party-modules-collapse =
-    .title = Skrij podrobne informacije
-support-third-party-modules-unsigned-icon =
-    .title = Ta modul ni podpisan
-support-third-party-modules-folder-icon =
-    .title = Odpri mesto datoteke …
-support-third-party-modules-down-icon =
-    .title = Prikaži podrobne informacije
-support-third-party-modules-up-icon =
-    .title = Skrij podrobne informacije
-
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -233,7 +201,6 @@ report-crash-for-days =
         [few] Poročila o sesutjih za zadnje { $days } dni
        *[other] Poročila o sesutjih za zadnjih { $days } dni
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -243,7 +210,6 @@ crashes-time-minutes =
         [few] Pred { $minutes } minutami
        *[other] Pred { $minutes } minutami
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -253,7 +219,6 @@ crashes-time-hours =
         [few] Pred { $hours } urami
        *[other] Pred { $hours } urami
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -263,7 +228,6 @@ crashes-time-days =
         [few] Pred { $days } dnevi
        *[other] Pred { $days } dnevi
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -273,7 +237,6 @@ pending-reports =
         [few] Vsa poročila o sesutjih, vključno s { $reports } čakajočimi sesutji v danem časovnem obsegu
        *[other] Vsa poročila o sesutjih, vključno s { $reports } čakajočimi sesutji v danem časovnem obsegu
     }
-
 raw-data-copied = Neobdelani podatki kopirani v odložišče
 text-copied = Besedilo kopirano v odložišče
 
@@ -286,11 +249,9 @@ blocked-mismatched-version = Onemogočeno zaradi neujemanja različice grafične
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Onemogočeno za vaš grafični gonilnik. Poskusite ga posodobiti na različico { $driverVersion } ali novejšo.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametri ClearType
-
 compositing = Sestavljanje
 hardware-h264 = Strojno dekodiranje H264
 main-thread-no-omtc = glavna nit, brez OMTC
@@ -305,7 +266,6 @@ virtual-monitor-disp = Navidezni zaslon
 
 found = Najdeno
 missing = Manjka
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Opis
@@ -329,25 +289,20 @@ webgl2-version = Različica gonilnika WebGL 2
 webgl2-driver-extensions = Razširitve gonilnika WebGL 2
 webgl2-extensions = Razširitve WebGL 2
 blocklisted-bug = Dodano na seznam zavrnjenih zaradi znanih težav
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = hrošč { $bugNumber }
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Dodano na seznam zavrnjenih zaradi znanih težav: <a data-l10n-name="bug-link">hrošč { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Dodano na seznam zavrnjenih; koda napake { $failureCode }
-
 d3d11layers-crash-guard = Sestavljalnik D3D11
 d3d11video-crash-guard = Videodekodirnik D3D11
 d3d9video-crash-guard = Videodekodirnik D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Videodekodirnik WMF VPX
-
 reset-on-next-restart = Ponastavi ob naslednjem zagonu
 gpu-process-kill-button = Prekini proces GPE
 gpu-device-reset = Ponastavitev naprave
@@ -357,10 +312,8 @@ content-uses-tiling = Uporablja razpostavljanje (vsebina)
 off-main-thread-paint-enabled = Izrisovanje izven glavne niti je omogočeno
 off-main-thread-paint-worker-count = Število workerjev za izrisovanje izven glavne niti
 target-frame-rate = Ciljna hitrost sličic
-
 min-lib-versions = Najnižja podprta različica
 loaded-lib-versions = Trenutna različica
-
 has-seccomp-bpf = Seccomp-BPF (Filtriranje sistemskih klicev)
 has-seccomp-tsync = Sinhronizacija niti Seccomp
 has-user-namespaces = Uporabniški imenski prostori
@@ -373,18 +326,15 @@ sandbox-proc-type-content = vsebina
 sandbox-proc-type-file = vsebina datoteke
 sandbox-proc-type-media-plugin = večpredstavni vtičnik
 sandbox-proc-type-data-decoder = podatkovni dekodirnik
-
 startup-cache-title = Predpomnilnik zagona
 startup-cache-disk-cache-path = Pot predpomnilnika diska
 startup-cache-ignore-disk-cache = Prezri predpomnilnik diska
 startup-cache-found-disk-cache-on-init = Najden predpomnilnik diska ob inicializaciji
 startup-cache-wrote-to-disk-cache = Zapisano v predpomnilnik diska
-
 launcher-process-status-0 = Omogočeno
 launcher-process-status-1 = Onemogočeno zaradi napake
 launcher-process-status-2 = Prisilno onemogočeno
 launcher-process-status-unknown = Neznano stanje
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -397,7 +347,6 @@ multi-process-status-6 = Onemogočeno zaradi nepodprtega vnosa besedila
 multi-process-status-7 = Onemogočili dodatki
 multi-process-status-8 = Prisilno onemogočeno
 multi-process-status-unknown = Neznano stanje
-
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -412,7 +361,6 @@ fission-status-disabled-by-default = Privzeto onemogočeno
 fission-status-enabled-by-user-pref = Omogočil uporabnik
 fission-status-disabled-by-user-pref = Onemogočil uporabnik
 fission-status-disabled-by-e10s-other = E10s Onemogočen
-
 async-pan-zoom = Asinhrono pomikanje/povečava
 apz-none = brez
 wheel-enabled = vnos s koleščkom omogočen
@@ -449,7 +397,6 @@ support-remote-experiments-title = Oddaljeni poskusi
 support-remote-experiments-name = Ime
 support-remote-experiments-branch = Področje poskusa
 support-remote-experiments-see-about-studies = Oglejte si <a data-l10n-name="support-about-studies-link">about:studies</a> za več informacij, med drugim o onemogočanju posameznih poskusov ali preprečevanju, da bi { -brand-short-name } izvajal poskuse te vrste v prihodnje.
-
 support-remote-features-title = Oddaljene zmogljivosti
 support-remote-features-name = Ime
 support-remote-features-status = Stanje

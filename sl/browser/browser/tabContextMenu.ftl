@@ -119,6 +119,16 @@ tab-context-close-tabs =
            *[other] Zapri zavihke
         }
     .accesskey = Z
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Zapri zavihek
+            [one] Zapri { $tabCount } zavihek
+            [two] Zapri { $tabCount } zavihka
+            [few] Zapri { $tabCount } zavihke
+           *[other] Zapri { $tabCount } zavihkov
+        }
+    .accesskey = Z
 tab-context-move-tabs =
     .label =
         { $tabCount ->

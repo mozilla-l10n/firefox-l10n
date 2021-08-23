@@ -257,6 +257,7 @@ confirm-browser-language-change-button = Uveljavi in ponovno zaženi
 translate-web-pages =
     .label = Prevajanje spletne vsebine
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Prevode zagotavlja <img data-l10n-name="logo"/>
@@ -1118,6 +1119,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = Izjeme …
     .accesskey = I
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Izjeme …
+    .accesskey = I
+    .searchkeywords = popup
 permissions-addon-install-warning =
     .label = Opozori, ko bodo spletne strani poskušale namestiti dodatke
     .accesskey = P

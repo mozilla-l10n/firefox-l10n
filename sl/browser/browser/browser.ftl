@@ -715,3 +715,6 @@ remote-tabs-sync-now = Sinhroniziraj zdaj
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Več …
