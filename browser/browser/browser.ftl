@@ -707,3 +707,6 @@ remote-tabs-sync-now = Sincronizar ahora
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Más…
