@@ -276,6 +276,9 @@ openpgp-add-key-button =
     .label = Rnu tasarut…
     .accesskey = A
 e2e-learn-more = Issin ugar
+openpgp-keygen-success = Tasarut n OpenPGP tettwarna akken iwata!
+openpgp-keygen-import-success = Tasarut n OpenPGP tettwakter akken iwata!
+openpgp-keygen-external-success = Asulay n tsarut GnuPG tazɣarayt tettwasekles!
 
 ## OpenPGP Key selection area
 
