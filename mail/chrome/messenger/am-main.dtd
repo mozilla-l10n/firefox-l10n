@@ -28,7 +28,7 @@
 <!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Editar…">
 <!ENTITY choose.label "Seleccionar…">
-<!ENTITY choose.accesskey "g">
+<!ENTITY choose.accesskey "c">
 <!ENTITY editVCard.label "Editar tarjeta…">
 <!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
