@@ -816,7 +816,7 @@ pane-privacy-logins-and-passwords-header = Συνδέσεις & κωδικοί �
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Ερώτηση για αποθήκευση συνδέσεων και κωδικών πρόσβασης
+    .label = Ερώτηση για αποθήκευση στοιχείων σύνδεσης για ιστοτόπους
     .accesskey = ρ
 forms-exceptions =
     .label = Εξαιρέσεις…
@@ -1063,12 +1063,12 @@ content-blocking-expand-section =
     .tooltiptext = Περισσότερες πληροφορίες
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Cryptominers
+    .label = Cryptominer
     .accesskey = y
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Fingerprinters
+    .label = Fingerprinter
     .accesskey = F
 
 ## Privacy Section - Tracking
