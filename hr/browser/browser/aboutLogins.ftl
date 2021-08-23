@@ -53,6 +53,8 @@ login-list-count =
 login-list-sort-label-text = Poredaj po:
 login-list-name-option = Naziv (A-Z)
 login-list-name-reverse-option = Naziv (Z-A)
+login-list-username-option = Korisničko ime (A-Z)
+login-list-username-reverse-option = Korisničko ime (Z-A)
 about-logins-login-list-alerts-option = Upozorenja
 login-list-last-changed-option = Zadnja promjena
 login-list-last-used-option = Zadnja upotreba
@@ -67,6 +69,12 @@ about-logins-list-item-breach-icon =
     .title = Hakirana web-stranica
 about-logins-list-item-vulnerable-password-icon =
     .title = Ranjiva lozinka
+about-logins-list-section-breach = Hakirane web-stranice
+about-logins-list-section-vulnerable = Ranjive lozinke
+about-logins-list-section-nothing = Bez upozorenja
+about-logins-list-section-today = Danas
+about-logins-list-section-yesterday = Jučer
+about-logins-list-section-week = Posljednjih 7 dana
 
 ## Introduction screen
 
