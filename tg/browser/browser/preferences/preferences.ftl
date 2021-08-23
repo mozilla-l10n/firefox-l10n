@@ -391,13 +391,29 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Ҳамеша истифода кардани тугмаҳои курсор барои паймоиш дар дохили саҳифаҳо
     .accesskey = Ҳ
+browsing-search-on-start-typing =
+    .label = Ҷустуҷӯи матн ҳангоми воридкунии калимаҳо
+    .accesskey = Ҷ
+browsing-picture-in-picture-toggle-enabled =
+    .label = Фаъол кардани унсурҳои идоракунии видеои расм-дар-расм
+    .accesskey = Ф
 browsing-picture-in-picture-learn-more = Маълумоти бештар
+browsing-media-control =
+    .label = Идора кардани медиа тавассути клавиатура, гӯшмонак ё интерфейси маҷозӣ
+    .accesskey = И
 browsing-media-control-learn-more = Маълумоти бештар
+browsing-cfr-recommendations =
+    .label = Тавсия додани васеъшавиҳо ҳангоми тамошокунӣ
+    .accesskey = Т
+browsing-cfr-features =
+    .label = Тавсия додани хусусиятҳо ҳангоми тамошокунӣ
+    .accesskey = Т
 browsing-cfr-recommendations-learn-more = Маълумоти бештар
 
 ## General Section - Proxy
 
 network-settings-title = Танзимоти шабака
+network-proxy-connection-description = Танзими тарзи пайвастшавии { -brand-short-name } ба интернет.
 network-proxy-connection-learn-more = Маълумоти бештар
 network-proxy-connection-settings =
     .label = Танзимот…

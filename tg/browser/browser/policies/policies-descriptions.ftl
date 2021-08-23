@@ -24,6 +24,7 @@ policy-HardwareAcceleration = Дар ҳолати «false» суръатафзо
 ##
 
 policy-NewTabPage = Саҳифаи варақаи навро фаъол ё ғайрифаъол мекунад.
+policy-PictureInPicture = Реҷаи «Расм-дар-расм»-ро фаъол ё хомӯш мекунад.
 policy-Proxy = Хусусиятҳои проксиро танзим мекунад.
 policy-ShowHomeButton = Намоиш додани тугмаи «Асосӣ» дар навори абзорҳо.
 policy-SSLVersionMax = Версия ҳадди аксари SSL-ро танзим мекунад.
