@@ -64,6 +64,12 @@ about-logins-list-item-breach-icon =
     .title = Tietovuodon kokenut sivusto
 about-logins-list-item-vulnerable-password-icon =
     .title = Vaarantunut salasana
+about-logins-list-section-breach = Tietovuodon kokeneet sivustot
+about-logins-list-section-vulnerable = Vaarantuneet salasanat
+about-logins-list-section-nothing = Ei hälytystä
+about-logins-list-section-today = Tänään
+about-logins-list-section-yesterday = Eilen
+about-logins-list-section-week = Viimeiset 7 päivää
 
 ## Introduction screen
 

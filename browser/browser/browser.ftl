@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Hallinnoi liitännäisen käyttöä
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Hallinnoi kameran tai mikrofonin jakamista sivustolle
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Hallinnoi muiden kaiuttimien jakamista sivuston kanssa
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Avaa automaattisen toiston paneeli
 urlbar-persistent-storage-notification-anchor =
