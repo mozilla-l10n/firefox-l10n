@@ -8,7 +8,7 @@ enable-inspect-element-title = Ενεργοποιήστε τα εργαλεία 
 enable-inspect-element-message = Εξετάστε και επεξεργαστείτε HTML και CSS με την Επιθεώρηση των εργαλείων ανάπτυξης.
 enable-about-debugging-message = Αναπτύξτε και διορθώστε WebExtensions, web worker, service worker και πολλά άλλα με τα εργαλεία ανάπτυξης του Firefox.
 enable-key-shortcut-message = Ενεργοποιήσατε μια συντόμευση των εργαλείων ανάπτυξης. Αν το κάνατε κατά λάθος, μπορείτε να κλείσετε αυτή την καρτέλα.
-enable-menu-message = Τελειοποιήστε τα HTML, CSS και JavaScript της ιστοσελίδας σας με εργαλεία όπως η Επιθεώρηση και ο Έλεγχος σφαλμάτων.
+enable-menu-message = Τελειοποιήστε τα HTML, CSS και JavaScript του ιστοτόπου σας με εργαλεία όπως η Επιθεώρηση και ο Έλεγχος σφαλμάτων.
 enable-common-message = Τα εργαλεία ανάπτυξης του Firefox είναι ανενεργά από προεπιλογή για να έχετε περισσότερο έλεγχο στο πρόγραμμα περιήγησής σας.
 enable-learn-more-link = Μάθετε περισσότερα για τα εργαλεία ανάπτυξης
 enable-enable-button = Ενεργοποίηση εργαλείων ανάπτυξης
@@ -33,7 +33,7 @@ features-console-desc = Καταγραφή προβλημάτων σε CSS, Java
 features-debugger-title = Έλεγχος σφαλμάτων
 features-debugger-desc = Ισχυρός έλεγχος σφαλμάτων JavaScript για το πλαίσιό σας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Δίκτυο
-features-network-desc = Εποπτεία των αιτημάτων δικτύου που ενδέχεται να καθυστερούν ή να αποκλείουν την ιστοσελίδα σας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-network-desc = Εποπτεία των αιτημάτων δικτύου που ενδέχεται να καθυστερούν ή να αποκλείουν τον ιστότοπό σας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Αποθήκευση
 features-storage-desc = Διαχείριση κρυφής μνήμης, cookies, βάσεων δεδομένων και δεδομένων συνεδρίας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Ευελιξία σχεδίου
