@@ -272,6 +272,10 @@ openpgp-description =
         [one] Thunderbird yufa-d { $count } tasarut OpenPGP tudmawant i icudden ɣer </b> { $identity } </b>
        *[other] Thunderbird yufa-d { $count } tisura OpenPGP tudmawanin i icudden ɣer <b> { $identity } </b>
     }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-have-key = Tawila-inek·inem tamirant tesseqdac asula n tsarut <b>{ $key }</b>
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Tawila-inek·inem tamirant tesseqdac tasarut <b>{ $key }</b>, i yemmuten.
 openpgp-add-key-button =
     .label = Rnu tasarut…
     .accesskey = A
@@ -285,6 +289,8 @@ openpgp-keygen-external-success = Asulay n tsarut GnuPG tazɣarayt tettwasekles!
 openpgp-radio-none =
     .label = Ula yiwen
 openpgp-radio-none-desc = Ur seqdac ara OpenPGP i tmagit-a.
+openpgp-radio-key-not-usable = Tasarut-a ur tezmir ara ad tettuseqdac am tsaraut tudmawant, acku tasarut tuffirt truḥ!
+openpgp-radio-key-not-accepted = I useqdec n tsarut-a, ilaq ad tt-tmuddeḍ am tsarut tudmawant!
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Azemz n taggara: { $date }
 openpgp-key-expires-image =
