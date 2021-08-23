@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = Site victime d’une fuite de données
 about-logins-list-item-vulnerable-password-icon =
     .title = Mot de passe vulnérable
+about-logins-list-section-breach = Sites web victimes de fuite de données
+about-logins-list-section-vulnerable = Mots de passe vulnérables
+about-logins-list-section-nothing = Aucune alerte
+about-logins-list-section-today = Aujourd’hui
+about-logins-list-section-yesterday = Hier
+about-logins-list-section-week = Ces 7 derniers jours
 
 ## Introduction screen
 
