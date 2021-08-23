@@ -181,6 +181,9 @@ account-setup-advanced-setup-button = Tawila leqqayen
 account-setup-insecure-title = Ɣur-k·m!
 account-setup-insecure-incoming-title = Tawila n unekcum:
 account-setup-insecure-outgoing-title = Tawila n tuffɣa:
+# Variables:
+#  $server (String): The name of the hostname of the server the user was trying to connect to.
+account-setup-warning-cleartext = <b>{ $server }</b> ur isseqdac ara awgelhen.
 account-setup-warning-cleartext-details = Iqeddacen n tirawt ur nelli ara d iɣalsanen ur seqdacen ara tuqqna tawgelhant akken ad mmestnen awalen-inek uffiren akked talɣut-inek tusligt.
 account-setup-insecure-server-checkbox = Gziɣ d acu ara d-yeḍrun
     .accesskey = G
@@ -208,8 +211,16 @@ account-setup-addon-install-intro = Azegrir wis tlata ad k-yeǧǧ ad tkecmeḍ �
 
 ## Success view
 
+account-setup-settings-button = Iɣewwaren n umiḍan
 account-setup-encryption-button = Awgelhen seg yixef ɣer wayeḍ
+account-setup-signature-button = Rnu azmul
 account-setup-dictionaries-button = Zdem n imawalen
+account-setup-address-book-carddav-button = Qqen ɣer umedlis n tansiwin CardDAV
+account-setup-address-book-ldap-button = Qqen ɣer umedlis n tansiwin LDAP
+account-setup-calendar-button = Qqen ɣer uwitay anmeggag
+account-setup-linked-services-title = Qqen ɣer yimeẓla-inek·inem yeqqnen
+account-setup-linked-services-description = { -brand-short-name } yufa-d imeɣla-nniḍen yeqqnen ɣer umiḍan-ik·im n yimayl.
+account-setup-no-linked-description = Sesteb imeẓla-nniḍen i wakken ad tfaṛseḍ ugar seg termit n { -brand-short-name }.
 account-setup-button-finish = Fak
     .accesskey = F
 account-setup-looking-up-address-books = Anadi n yimedlisen n tansiwin…
