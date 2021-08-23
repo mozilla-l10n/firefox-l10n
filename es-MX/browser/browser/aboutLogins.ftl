@@ -52,6 +52,8 @@ login-list-count =
 login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nombre (A-Z)
 login-list-name-reverse-option = Nombre (Z-A)
+login-list-username-option = Nombre de usuario (A-Z)
+login-list-username-reverse-option = Nombre de usuario (Z-A)
 about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Última modificación
 login-list-last-used-option = Último uso
@@ -66,6 +68,11 @@ about-logins-list-item-breach-icon =
     .title = Sitio web vulnerado
 about-logins-list-item-vulnerable-password-icon =
     .title = Contraseña vulnerable
+about-logins-list-section-vulnerable = Contraseñas vulnerables
+about-logins-list-section-nothing = Sin alerta
+about-logins-list-section-today = Hoy
+about-logins-list-section-yesterday = Ayer
+about-logins-list-section-week = Últimos 7 días
 
 ## Introduction screen
 
