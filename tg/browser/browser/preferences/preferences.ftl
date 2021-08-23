@@ -124,6 +124,10 @@ search-results-header = Натиҷаи ҷустуҷӯ
 ## General Section
 
 startup-header = Оғози кор
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Иҷозат диҳед, ки { -brand-short-name } ва Firefox дар як вақт кор кунанд
 get-started-not-logged-in = Ба { -sync-brand-short-name } ворид шавед…
 get-started-configured = Кушодани хусусиятҳои { -sync-brand-short-name }
 always-check-default =
@@ -365,6 +369,7 @@ performance-title = Самаранокӣ
 performance-use-recommended-settings-checkbox =
     .label = Истифодаи танзимоти самаранокии тавсияшуда
     .accesskey = И
+performance-use-recommended-settings-desc = Ин танзимот ба сахтафзори компютер ва низоми амалкунандаи шумо мувофиқат мекунад.
 performance-settings-learn-more = Маълумоти бештар
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.

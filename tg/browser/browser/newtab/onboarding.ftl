@@ -88,6 +88,8 @@ onboarding-mobile-phone-title = { -brand-product-name }-ро дар телефо
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Боргирӣ кардани браузери мобилӣ
+onboarding-send-tabs-button = Оғози истифодаи ирсоли варақаҳо
+onboarding-pocket-anywhere-title = Дар ҷои дилхоҳ хонед ва гӯш кунед
 onboarding-pocket-anywhere-button = { -pocket-brand-name }-ро озмоед
 onboarding-lockwise-strong-passwords-button = Идоракунии воридшавиҳои худ
 onboarding-facebook-container-button = Илова кардани васеъшавӣ
@@ -216,6 +218,9 @@ mr1-onboarding-reduce-motion-button-label = Хомӯш кардани анима
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Оғози кор
 mr1-onboarding-welcome-header = Хуш омадед ба { -brand-short-name }
 mr1-onboarding-set-default-secondary-button-label = Ҳоло не
 mr1-onboarding-sign-in-button-label = Ворид шудан

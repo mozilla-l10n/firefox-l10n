@@ -147,6 +147,8 @@ cfr-doorhanger-sync-logins-ok-button = Фаъол кардани { -sync-brand-s
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Дар роҳ хонед
+cfr-doorhanger-send-tab-ok-button = Ирсоли варақаро озмоед
+    .accesskey = И
 
 ## Firefox Send
 
