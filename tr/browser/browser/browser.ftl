@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Yan uygulama kullanımını yönet
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Siteyle kamera ve/veya mikrofonumu paylaşmayı yönet
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Siteyle diğer ses aygıtlarımı paylaşmayı yönet
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Otomatik oynatma panelini aç
 urlbar-persistent-storage-notification-anchor =

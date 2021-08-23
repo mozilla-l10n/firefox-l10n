@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = Bu site ihlale uğramış
 about-logins-list-item-vulnerable-password-icon =
     .title = Güvensiz parola
+about-logins-list-section-breach = Veri ihlaline uğrayan siteler
+about-logins-list-section-vulnerable = Güvensiz parolalar
+about-logins-list-section-nothing = Uyarı yok
+about-logins-list-section-today = Bugün
+about-logins-list-section-yesterday = Dün
+about-logins-list-section-week = Son 7 gün
 
 ## Introduction screen
 
