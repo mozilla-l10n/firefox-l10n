@@ -328,6 +328,10 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ఆటోప్లే నిరోధించబడింది
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = చిత్రంలో-చిత్రం
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
