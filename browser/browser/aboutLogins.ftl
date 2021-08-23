@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = Nettstad med datalekkasje
 about-logins-list-item-vulnerable-password-icon =
     .title = Sårbart passord
+about-logins-list-section-breach = Nettstadar med datalekkasjar
+about-logins-list-section-vulnerable = Sårbare passord
+about-logins-list-section-nothing = Ingen varsel
+about-logins-list-section-today = I dag
+about-logins-list-section-yesterday = I går
+about-logins-list-section-week = Siste 7 dagar
 
 ## Introduction screen
 
