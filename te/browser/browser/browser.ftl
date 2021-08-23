@@ -283,7 +283,9 @@ identity-https-only-dropdown-off =
     .label = అచేతనం
 identity-https-only-dropdown-off-temporarily =
     .label = తాత్కాలికంగా అచేతనం
+identity-https-only-info-no-upgrade = అనుసంధానాన్ని HTTP నుండి ఉన్నతించలేకున్నాం.
 identity-permissions-storage-access-header = క్రాస్-సైటు కుకీలు
+identity-permissions-storage-access-hint = మీరు ఈ సైటులో ఉన్నప్పుడు ఈ పార్టీలు క్రాస్-సైటు కుకీలను, సైట్ డేటాను ఉపయోగించవచ్చు.
 identity-permissions-storage-access-learn-more = ఇంకా తెలుసుకోండి
 identity-permissions-reload-hint = మార్పులు ప్రతిఫలించడానికి మీరు ఈ పేజీని మళ్ళీ లోడు చెయ్యాల్సిరావచ్చు.
 identity-permissions-empty = ఈ సైటుకి మీరు ఎటువంటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.
@@ -377,12 +379,15 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = ఎప్పటికీ అనుమతించవద్దు
     .accesskey = N
+popup-silence-notifications-checkbox = పంచుకుంటున్నప్పుడు { -brand-short-name } నుండి గమనింపులను నిలిపివేయి
+popup-silence-notifications-checkbox-warning = మీరు పంచుకుంటున్నప్పుడు { -brand-short-name } గమనింపులను చూపించదు.
 popup-screen-sharing-block =
     .label = నిరోధించు
     .accesskey = B
 popup-screen-sharing-always-block =
     .label = ఎల్లప్పుడూ నిరోధించు
     .accesskey = w
+popup-mute-notifications-checkbox = పంచుకుంటున్నప్పుడు వెబ్‌సైటు గమనింపులను మౌనించు
 
 ## WebRTC window or screen share tab switch warning
 
@@ -395,6 +400,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = F12 సత్వరమార్గాన్ని ఉపయోగించడానికి, మొదట వెబ్ డెవలపర్ మెనూ ద్వారా DevTools ని తెరవండి.
 
 ## URL Bar
 
@@ -438,6 +444,11 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = విహారిణి రిమోట్ నియంత్రణలో ఉంది: { $component }
 urlbar-permissions-granted =
     .tooltiptext = ఈ వెబ్‌సైటుకి మీరు అదనపు అనుమతులు ఇచ్చివున్నారు.
 urlbar-switch-to-tab =
