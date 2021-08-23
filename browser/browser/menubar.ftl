@@ -38,20 +38,16 @@ menu-quit =
             [windows] h
            *[other] I
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Izhod iz { -brand-shorter-name }a
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Izhod iz { -brand-shorter-name }a
-
 menu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Pošlji povezavo po e-pošti …
     .accesskey = P
+menu-file-share-url =
+    .label = Deli
+    .accesskey = D
 menu-file-print-setup =
     .label = Priprava strani …
     .accesskey = r
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Kodiranje znakov
     .accesskey = K
-
 menu-view-repair-text-encoding =
     .label = Popravi kodiranje besedila
     .accesskey = r
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Nedavno zaprti zavihki
 menu-history-undo-window-menu =
     .label = Nedavno zaprta okna
-
 menu-history-reopen-all-tabs = Ponovno odpri vse zavihke
 menu-history-reopen-all-windows = Ponovno odpri vsa okna
 
