@@ -72,6 +72,7 @@ experimental-features-webrtc-global-mute-toggles-description = Rnu senqaden ɣer
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
     .label = Asekkar Win32k
+experimental-features-win32k-lockdown-description = Sens aseqdec n Win32k APIs deg waccaren n yiminig. Itegg asnerni deg tɣellist, maca yezmer ur trekked ara akka tura neɣ ur tettemmed ara. (Windows kan)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
