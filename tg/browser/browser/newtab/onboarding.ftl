@@ -94,6 +94,7 @@ onboarding-pocket-anywhere-button = { -pocket-brand-name }-ро озмоед
 onboarding-lockwise-strong-passwords-button = Идоракунии воридшавиҳои худ
 onboarding-facebook-container-button = Илова кардани васеъшавӣ
 onboarding-import-browser-settings-button = Ворид кардани маълумоти Chrome
+onboarding-personal-data-promise-title = Хусусӣ аз рӯи тарҳ
 onboarding-personal-data-promise-button = Ваъдаи моро хонед
 
 ## Message strings belonging to the Return to AMO flow
@@ -215,6 +216,12 @@ mr1-onboarding-reduce-motion-button-label = Хомӯш кардани анима
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Васл кардан ба мустақар
+       *[other] Васл кардан ба навори вазифа
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
