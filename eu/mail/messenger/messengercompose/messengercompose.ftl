@@ -121,6 +121,13 @@ button-return-receipt =
     .label = Hartu-agiria
     .tooltiptext = Eskatu hartu-agiria mezu honetarako
 
+# Encryption
+
+message-to-be-signed-icon =
+    .alt = Sinatu mezua
+message-to-be-encrypted-icon =
+    .alt = Zifratu mezua
+
 # Addressing Area
 
 to-compose-address-row-label =
@@ -155,12 +162,21 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Erakutsi { bcc-compose-address-row-label.value } eremua { bcc-compose-show-address-row-menuitem.acceltext }
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Nori eta Ccko { $count } hartzailek besteen helbideak ikusiko dituzte. Hartzaileak erakustea saihestu dezakezu Bcc erabiliz.
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Zure mezuak hartzaile publikoa du. Hartzaileak erakustea saihestu dezakezu Bcc erabiliz.
+       *[other] Nori eta Ccko { $count } hartzailek besteen helbideak ikusiko dituzte. Hartzaileak erakustea saihestu dezakezu Bcc erabiliz.
+    }
 many-public-recipients-bcc =
     .label = Erabili Bcc horren ordez
     .accesskey = B
 many-public-recipients-ignore =
     .label = Mantendu hartzaileak ikusgai
     .accesskey = i
+many-public-recipients-prompt-title = Hartzaile publiko gehiegi
+many-public-recipients-prompt-cancel = Utzi bidalketa
+many-public-recipients-prompt-send = Jarraitu hala ere
 
 ## Notifications
 
