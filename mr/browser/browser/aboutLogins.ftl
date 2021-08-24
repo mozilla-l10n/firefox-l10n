@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = लॉगिन व संकेतशब्द
+about-logins-page-title = लॉगिन व पासवर्ड
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
@@ -18,6 +18,7 @@ login-filter =
 create-login-button = नविन लॉगिन बनवा
 fxaccounts-sign-in-text = आपल्या इतर उपकरणांवर आपले पासवर्ड मिळवा
 fxaccounts-sign-in-button = { -sync-brand-short-name } मध्ये साइन इन करा
+fxaccounts-sign-in-sync-button = सींक करण्यासाठी साइन इन करा
 fxaccounts-avatar-button =
     .title = खाते व्यवस्थापित करा
 
@@ -25,8 +26,11 @@ fxaccounts-avatar-button =
 
 menu =
     .title = मेनू उघडा
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = इतर ब्राउझरकडून आयात करा…
 about-logins-menu-menuitem-import-from-a-file = फाईलमधून आयात करा…
 about-logins-menu-menuitem-export-logins = लॉगिन निर्यात करा…
+about-logins-menu-menuitem-remove-all-logins = सर्व लॉगिन काढून टाका...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] पर्याय
@@ -48,6 +52,9 @@ login-list-count =
 login-list-sort-label-text = यानुसार क्रमवारी लावा:
 login-list-name-option = नाव (A-Z)
 login-list-name-reverse-option = नाव (Z-A)
+login-list-username-option = वापरकर्तानाव (A-Z)
+login-list-username-reverse-option = वापरकर्तानाव (Z-A)
+about-logins-login-list-alerts-option = सूचना
 login-list-last-changed-option = शेवटचा बदल
 login-list-last-used-option = शेवटचा वापर
 login-list-intro-title = कुठलेही लॉगिन सापडले नाही
@@ -59,6 +66,8 @@ login-list-item-subtitle-new-login = तुमचे लॉगीन संक�
 login-list-item-subtitle-missing-username = (कुठलेही वापरकर्तानाव नाही)
 about-logins-list-item-breach-icon =
     .title = उल्लंघीत वेबसाईट
+about-logins-list-item-vulnerable-password-icon =
+    .title = असुरक्षित पासवर्ड
 
 ## Introduction screen
 
