@@ -172,7 +172,7 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Compacte weergave">
 <!ENTITY compactVersion.accesskey "C">
-<!ENTITY folderPaneBar.label "Mappenvensterwerkbalk">
+<!ENTITY folderPaneBar.label "Mappenpaneelwerkbalk">
 <!ENTITY folderPaneBar.accesskey "v">
 
 <!-- Sort Menu -->
