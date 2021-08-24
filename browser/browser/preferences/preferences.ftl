@@ -1155,7 +1155,7 @@ collection-backlogged-crash-reports =
     .label = به { -brand-short-name } اجازه بده تا گزارش های پس زمینه خرابی را از طرف شما ارسال کند
     .accesskey = c
 collection-backlogged-crash-reports-link = بیشتر بدانید
-collection-backlogged-crash-reports-with-link = به { -brand-short-name } اجازه دهید گزارش‌های خرابی عقب مانده را از طرف شما ارذسال کند <a data-l10n-name="crash-reports-link">اطلاعات بیشتر</a>
+collection-backlogged-crash-reports-with-link = به { -brand-short-name } اجازه دهید گزارش‌های خرابی عقب مانده را از طرف شما ارسال کند <a data-l10n-name="crash-reports-link">اطلاعات بیشتر</a>
     .accesskey = ج
 
 ## Privacy Section - Security
