@@ -873,8 +873,8 @@ history-header = تاریخچه
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } will
-    .accesskey = w
+history-remember-label = مرورگر { -brand-short-name }
+    .accesskey = م
 history-remember-option-all =
     .label = تاریخچه را به خاطر خواهد داشت
 history-remember-option-never =
@@ -909,11 +909,11 @@ sitedata-total-size-calculating = در حال محاسبهٔ اطلاعات پا
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = کوکی‌ها، اطلاعات پایگاه‌ها و حافظهٔ نهانِ ذخیره شده در حال حاضر { $value } { $unit } از فضای دیسک شما استفاده می‌کنند.
+sitedata-total-size = کوکی‌ها، اطلاعات پایگاه‌ها و حافظهٔ نهانِ ذخیره شده در حال حاضر از { $value } { $unit } از فضای دیسک شما استفاده می‌کنند.
 sitedata-learn-more = بیشتر بدانید
 sitedata-delete-on-close =
-    .label = پاک کردن کوکی‌ها و داده‌های سایت هنگام بستن { -brand-short-name }.
-    .accesskey = c
+    .label = پاک کردن کوکی‌ها و داده‌های سایت هنگام بستن { -brand-short-name }
+    .accesskey = پ
 sitedata-delete-on-close-private-browsing = در حالتِ مرور ناشناسِ دائمی، پس از بستن { -brand-short-name }، کوکی‌ها و داده‌های سایت‌ها پاک می‌شوند.
 sitedata-allow-cookies-option =
     .label = پذیرفتن کوکی‌ها و داده‌های سایت
@@ -1189,6 +1189,11 @@ space-alert-over-5gb-pref-button =
             [windows] ب
            *[other] ب
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] فضای دیسک { -brand-short-name } در حال تمام شدن است. ممکن است محتوای پایگاه‌های وب به درستی نمایش داده نشوند. می‌توانید داده‌های ذخیره شده را در تنظیمات > حریم خصوصی و امنیت > کوکی‌ها و اطلاعات وب سایت پاک کنید.
+       *[other] فضای دیسک { -brand-short-name } در حال تمام شدن است. ممکن است محتوای پایگاه‌های وب به درستی نمایش داده نشوند. می‌توانید داده‌های ذخیره شده را در تنظیمات > حریم خصوصی و امنیت > کوکی‌ها و اطلاعات وب سایت پاک کنید.
+    }
 space-alert-under-5gb-ok-button =
     .label = باشه،‌ متوجه شدم
     .accesskey = ب
@@ -1196,6 +1201,8 @@ space-alert-under-5gb-message = فضای ذخیره سازی { -brand-short-name
 space-alert-over-5gb-settings-button =
     .label = باز کردن تنظیمات
     .accesskey = ب
+space-alert-over-5gb-message2 = <strong>فضای دیسک { -brand-short-name } در حال تمام شدن است.</strong> ممکن است محتوای پایگاه‌های وب به درستی نمایش داده نشوند. می‌توانید داده‌های ذخیره شده را در تنظیمات > حریم خصوصی و امنیت > کوکی‌ها و اطلاعات وب سایت پاک کنید.
+space-alert-under-5gb-message2 = <strong>فضای دیسک { -brand-short-name } در حال تمام شدن است.</strong> ممکن است محتوای پایگاه‌های وب به درستی نمایش داده نشوند. «بیشتر بدانید» را برای بهبود فضای ذخیره سازی خود در جهت کسب تجربه بهتری از مرور مشاهده کنید.
 
 ## Privacy Section - HTTPS-Only
 
