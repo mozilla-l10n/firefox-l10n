@@ -6,7 +6,7 @@
 
 <!ENTITY addressing.label          "Redacción y direcciones">
 <!ENTITY addressingGroupTitle.label "Direcciones">
-<!ENTITY autocompleteToMyDomain.label     "Añadir mi dominio a las direcciones automáticamente">
+<!ENTITY autocompleteToMyDomain.label     "Agregar mi dominio a las direcciones automáticamente">
 <!ENTITY autocompleteToMyDomain.accesskey "o">
 <!ENTITY addressingText.label      "Cuando se busquen direcciones:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->

@@ -6,7 +6,7 @@
 
 <!ENTITY accountManagerTitle.label "Configuración de cuentas de Correo y Grupos de noticias">
 
-<!ENTITY addAccountButton.label "Añadir cuenta…">
+<!ENTITY addAccountButton.label "Agregar cuenta…">
 <!ENTITY addAccountButton.accesskey "A">
 <!ENTITY setDefaultButton.label "Definir como predeterminada">
 <!ENTITY setDefaultButton.accesskey "f">
