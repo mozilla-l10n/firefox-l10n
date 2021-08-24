@@ -177,7 +177,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "Advertencia: Riesgo potencial de seguridad a continuación">
 <!ENTITY certerror.sts.pagetitle  "No se conectó: Posible problema de seguridad">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> tiene una política de seguridad llamada HTTP Strict Transport Security (HSTS), lo que significa que &brandShortName; solo puede conectarse de forma segura. No puede añadir una excepción para visitar este sitio.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> tiene una política de seguridad llamada HTTP Strict Transport Security (HSTS), lo que significa que &brandShortName; solo puede conectarse de forma segura. No puede agregar una excepción para visitar este sitio.">
 <!ENTITY certerror.copyToClipboard.label "Copiar texto al portapapeles">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
