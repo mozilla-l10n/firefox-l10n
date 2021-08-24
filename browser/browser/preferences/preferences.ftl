@@ -493,7 +493,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Uinneagan is tabaichean ùra
-home-new-windows-tabs-description2 = Tagh na chì thu nuair a dh’fhosglas tu an duilleag-dhachaidgh agad no uinneag no taba ùr.
+home-new-windows-tabs-description2 = Tagh na chì thu nuair a dh’fhosglas tu an duilleag-dhachaigh agad no uinneag no taba ùr.
 
 ## Home Section - Home Page Customization
 
