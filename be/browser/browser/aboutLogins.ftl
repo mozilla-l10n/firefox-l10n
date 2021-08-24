@@ -69,6 +69,10 @@ about-logins-list-item-breach-icon =
     .title = Узламаны сайт
 about-logins-list-item-vulnerable-password-icon =
     .title = Уразлівы пароль
+about-logins-list-section-breach = Узламаныя сайты
+about-logins-list-section-today = Сёння
+about-logins-list-section-yesterday = Учора
+about-logins-list-section-week = Апошнія 7 дзён
 
 ## Introduction screen
 
