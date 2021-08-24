@@ -4,6 +4,7 @@
 
 calendar-title = Календар
 calendar-title-reminder = Подсетници
+calendar-title-notification = Обавештења
 calendar-title-category = Категорије
 dateformat-label =
     .value = Формат текста датума:
@@ -179,6 +180,7 @@ event-alarm-time-label =
 task-alarm-time-label =
     .value = Подразумевано време у које се подсетник поставља пре задатка:
     .accesskey = о
+calendar-notifications-customize-label = Обавештења се могу прилагодити за сваки календар у прозору својстава календара.
 category-new-label = Нова категорија
 category-edit-label = Уреди категорију
 category-overwrite-title = Упозорење: Дупло име
