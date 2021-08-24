@@ -571,6 +571,8 @@ search-bar-hidden =
 search-bar-shown =
     .label = اضافه کردن نوار جستجو به نوار ابزار
 search-engine-default-header = موتور جستجو پیش‌فرض
+search-engine-default-desc-2 = این موتور جستجو پیش‌فرض شما در نوار آدرس و نوار جستجو است. می‌توانید آن را در هر زمانی تغییر دهید.
+search-engine-default-private-desc-2 = برای پنجره‌های ناشناس یک موتور جستجوی متفاوت انتخاب کنید
 search-separate-default-engine =
     .label = از این موتور جستجو در پنجره‌های ناشناس استفاده کنید
     .accesskey = U
@@ -589,6 +591,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = نمایش پیشنهاداتِ جستجو، پیش از تاریخچهٔ مرور در نوار آدرس
+search-show-suggestions-private-windows =
+    .label = نمایش پیشنهادات جستجو در پنجره‌های ناشناس
 search-suggestions-cant-show = پیشنهادهای جستجو در نوار مکان نمایش داده نخواهد شده زیرا شما { -brand-short-name } را به گونه‌ای تنظیم کرده‌اید که هیچ تاریخچه‌ای را نگه ندارد.
 search-one-click-header = موتورهای جستجوی تک-کلیکی
 search-one-click-header2 = میانبرهای جستجو
@@ -629,6 +633,9 @@ containers-header = زبانه‌های حامل
 containers-add-button =
     .label = افزودن حامل جدید
     .accesskey = ا
+containers-new-tab-check =
+    .label = برای هر زبانهٔ جدید یک محفظه انتخاب کنید
+    .accesskey = م
 containers-preferences-button =
     .label = ترجیحات
 containers-settings-button =
@@ -644,6 +651,7 @@ sync-signedout-description = نشانک‌ها، تاریخچه، زبانه‌�
 sync-signedout-account-signin2 =
     .label = ورود به { -sync-brand-short-name }…
     .accesskey = و
+sync-signedout-description2 = نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.
 sync-signedout-account-signin3 =
     .label = برای همگام‌سازی وارد شوید…
     .accesskey = و
@@ -689,6 +697,7 @@ prefs-sync-offer-setup-label = نشانک‌ها، تاریخچه، زبانه�
 prefs-sync-turn-on-syncing =
     .label = روشن کردن همگام‌سازی…
     .accesskey = ر
+prefs-sync-offer-setup-label2 = نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.
 prefs-sync-now =
     .labelnotsyncing = هم‌اکنون همگام‌سازی کنید
     .accesskeynotsyncing = N
@@ -829,6 +838,9 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = قبلاً با عنوان Master Password شناخته می‌شد
 forms-primary-pw-fips-title = شما در حال حاضر در حالت FIPS هستید. FIPS به گذرواژه اصلیِ خالی نیاز دارد.
 forms-master-pw-fips-desc = تغییر گذرواژه شکست خورد
+forms-windows-sso =
+    .label = به Windows single sign-on برای دسترسی به حساب‌های Microsoft، کاری و مدرسه اجازه دهید
+forms-windows-sso-learn-more-link = بیشتر بدانید
 
 ## OS Authentication dialog
 
