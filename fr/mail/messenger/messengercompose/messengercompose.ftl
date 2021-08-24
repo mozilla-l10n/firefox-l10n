@@ -160,12 +160,27 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Afficher le champ { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Les { $count } destinataires en « Pour » et « Copie à » verront les adresses des autres. Vous pouvez éviter de révéler les destinataires en utilisant plutôt « Copie cachée à ».
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Votre message a un destinataire public. Vous pouvez éviter de révéler les destinataires en utilisant plutôt « Copie cachée à ».
+       *[other] Les { $count } destinataires en « Pour » et « Copie à » verront les adresses des autres. Vous pouvez éviter de révéler les destinataires en utilisant plutôt « Copie cachée à ».
+    }
 many-public-recipients-bcc =
     .label = Utiliser plutôt la Copie cachée
     .accesskey = U
 many-public-recipients-ignore =
     .label = Garder les destinataires publics
     .accesskey = G
+many-public-recipients-prompt-title = Trop de destinataires publics
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Votre message a un destinataire public. Cela peut être un problème de confidentialité. Vous pouvez l’éviter en déplaçant plutôt le destinataire vers « Copie cachée à ».
+       *[other] Votre message a { $count } destinataires publics, qui pourront voir les adresses les uns des autres. Cela peut être un problème de confidentialité. Vous pouvez éviter de divulguer les destinataires en déplaçant plutôt ceux-ci vers « Copie cachée à ».
+    }
+many-public-recipients-prompt-cancel = Annuler l’envoi
+many-public-recipients-prompt-send = Envoyer quand même
 
 ## Notifications
 
