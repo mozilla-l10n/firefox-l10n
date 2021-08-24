@@ -74,6 +74,8 @@ protections-panel-site-not-working-view-send-report = ارسال گزارش
 
 ##
 
+protections-panel-tracking-content = وب سایت‌ها ممکن است تبلیغات خارجی، فیلم‌ها و سایر محتواها را با کد رهگیری بارگذاری کنند. مسدود کردن محتوای ردیابی می‌تواند به بارگیری سریعتر سایت‌ها کمک کند، اما برخی از دکمه‌ها، فرم‌ها و فیلدهای ورود به سیستم ممکن است کار نکنند.
+protections-panel-description-shim-allowed = برخی از ردیاب‌های مشخص شده در زیر، به دلیل تعامل شما با آنها در این صفحه تا حدودی رفع انسداد شده‌اند.
 protections-panel-description-shim-allowed-learn-more = بیشتر بدانید
 protections-panel-shim-allowed-indicator =
     .tooltiptext = ردیاب تا حدی مسدود شد
