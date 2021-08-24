@@ -398,7 +398,23 @@ update-application-use-service =
     .label = از سرویس پس‌زمینه برای نصب بروزرسانی ها استفاده شود
     .accesskey = پ
 update-setting-write-failure-title = خطا در ذخیره کردن ترجیحات بروزرسانی
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } با خطایی مواجه شد و این تغییر را ذخیره نکرد. توجه داشته باشید که ذخیرهٔ این تغییر نیاز به مجوز برای نوشتن روی پروندهٔ زیر را دارد. شما یا سرپرست سیستم ممکن است بتوانید با اعطای کنترل کامل گروه کاربران به این پرونده، خطا را برطرف کنید.
+    
+    نمی توان در فایل نوشت: { $path }
 update-setting-write-failure-title2 = خطا در هنگام ذخیرهٔ تنطیمات بروزرسانی
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } با خطایی مواجه شد و این تغییر را ذخیره نکرد. توجه داشته باشید که ذخیرهٔ این تغییر نیاز به مجوز برای نوشتن روی پروندهٔ زیر را دارد. شما یا سرپرست سیستم ممکن است بتوانید با اعطای کنترل کامل گروه کاربران به این پرونده، خطا را برطرف کنید.
+    
+    نمی توان در فایل نوشت: { $path }
 update-in-progress-title = در حال بروزرسانی
 update-in-progress-message = آیا می‌خواهید { -brand-short-name } به این بروزرسانی ادامه بدهد؟
 update-in-progress-ok-button = &نادیده گرفتن
@@ -528,6 +544,8 @@ home-prefs-shortcuts-by-option-sponsored =
 
 home-prefs-recommended-by-header =
     .label = پیشنهاد شده توسط { $provider }
+home-prefs-recommended-by-description-update = محتوای استثنایی از سراسر وب، جمع‌آوری شده توسط { $provider }
+home-prefs-recommended-by-description-new = محتوای استثنایی که توسط { $provider }، بخشی از خانواده { -brand-product-name }، جمع‌آوری شده‌اند.
 
 ##
 
@@ -593,6 +611,8 @@ search-show-suggestions-above-history-option =
     .label = نمایش پیشنهاداتِ جستجو، پیش از تاریخچهٔ مرور در نوار آدرس
 search-show-suggestions-private-windows =
     .label = نمایش پیشنهادات جستجو در پنجره‌های ناشناس
+suggestions-addressbar-settings-generic = تغییر ترجیحات برای سایر پیشنهادات در نوار آدرس
+suggestions-addressbar-settings-generic2 = تغییر تنظیمات برای سایر پیشنهادات در نوار آدرس
 search-suggestions-cant-show = پیشنهادهای جستجو در نوار مکان نمایش داده نخواهد شده زیرا شما { -brand-short-name } را به گونه‌ای تنظیم کرده‌اید که هیچ تاریخچه‌ای را نگه ندارد.
 search-one-click-header = موتورهای جستجوی تک-کلیکی
 search-one-click-header2 = میانبرهای جستجو
@@ -1207,6 +1227,7 @@ space-alert-under-5gb-message2 = <strong>فضای دیسک { -brand-short-name }
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = حالت فقط HTTPS
+httpsonly-description = HTTPS یک اتصال امن و رمزگذاری شده بین { -brand-short-name } و وب‌سایتهایی که بازدید می‌کنید، ارائه می‌دهد. اکثر وب‌سایت‌ها از HTTPS پشتیبانی می‌کنند و چناچه حالت فقط HTTPS فعال باشد، { -brand-short-name } تمام اتصال‌ها را به HTTPS ارتقا می‌دهد.
 httpsonly-learn-more = بیشتر بدانید
 httpsonly-radio-enabled =
     .label = فعال‌سازی حالت فقط-HTTPS در تمام پنجره‌ها

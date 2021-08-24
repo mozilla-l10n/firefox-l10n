@@ -7,7 +7,7 @@
 
 newtab-page-title = زبانهٔ جدید
 newtab-settings-button =
-    .title = صفحهٔ زبانه جدید را سفارشی کنید
+    .title = صفحهٔ زبانهٔ جدید را سفارشی کنید
 newtab-personalize-icon-label =
     .title = شحصی‌سازی زبانهٔ جدید
     .aria-label = شحصی‌سازی زبانهٔ جدید
