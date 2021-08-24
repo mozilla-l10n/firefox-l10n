@@ -68,9 +68,12 @@ about-logins-list-item-breach-icon =
     .title = Site invadido
 about-logins-list-item-vulnerable-password-icon =
     .title = Palavra-passe vulnerável
+about-logins-list-section-breach = Sites invadidos
 about-logins-list-section-vulnerable = Palavras-passe vulneráveis
+about-logins-list-section-nothing = Sem alertas
 about-logins-list-section-today = Hoje
 about-logins-list-section-yesterday = Ontem
+about-logins-list-section-week = Últimos 7 dias
 
 ## Introduction screen
 
