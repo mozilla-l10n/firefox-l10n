@@ -53,6 +53,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Connect Another Device…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Sign in to &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Turn on &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Services">
@@ -141,13 +144,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "History">
-
 <!ENTITY historyUndoMenu.label "Recently Closed Tabs">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Recently Closed Windows">
 
 <!ENTITY appMenuHistory.showAll.label "Show All History">
-
 <!ENTITY appMenuHistory.clearRecent.label "Clear Recent History…">
 <!ENTITY appMenuHistory.restoreSession.label "Restore Previous Session">
 <!ENTITY appMenuHistory.viewSidebar.label "View History Sidebar">
@@ -164,6 +165,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Show More">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Show more tabs from this device">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -222,9 +225,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Save Page to Pocket">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "View Pocket List">
 
 <!ENTITY emailPageCmd.label           "Email Link…">
@@ -279,7 +279,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY pageAction.shareUrl.label "Share">
 <!ENTITY pageAction.shareMore.label "More…">
 
-<!ENTITY libraryButton.tooltip "View history, saved bookmarks, and more">
+<!ENTITY libraryButton.tooltip "View history, saved bookmarks and more">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
