@@ -49,16 +49,22 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "تنظیمات &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "اتصال به دستگاه دیگر…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "ورود به &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "فعال‌سازی &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "خدمات &brandProductName;">
 <!ENTITY fxa.menu.account.label "حساب">
 <!ENTITY fxa.menu.settings.label "تنظیمات">
 <!ENTITY fxa.menu.accountSettings.label "تنظیمات حساب">
+<!ENTITY fxa.menu.manageAccount2.label "مدیریت حساب">
 <!ENTITY fxa.menu.signOut.label "خروج…">
+<!ENTITY fxa.menu.setupSync.label "برپاسازی &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -138,16 +144,15 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "س">
 
 <!ENTITY historyMenu.label "تاریخچه">
-
 <!ENTITY historyUndoMenu.label "زبانه‌های تازه بسته شده">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "پنجره‌های تازه بسته شده">
 
 <!ENTITY appMenuHistory.showAll.label "نمایش تمام تاریخچه">
-
 <!ENTITY appMenuHistory.clearRecent.label "پاک کردن تاریخچه اخیر…">
 <!ENTITY appMenuHistory.restoreSession.label "بازآوری نشست قبلی">
 <!ENTITY appMenuHistory.viewSidebar.label "نمایش ستون تاریخچه">
+<!ENTITY appMenuHistory.hideSidebar.label "مخفی کردن نوار کناری تاریخچه">
 <!ENTITY appMenuHistory.recentHistory.label "تاریخچهٔ اخیر">
 
 <!ENTITY appMenuHelp.label "راهنما">
@@ -175,9 +180,13 @@ this container is a toolbar. This avoids double-speaking. -->
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "می‌خواهید زبانه‌های خود را از سایر دستگاه‌ها اینجا ببینید؟">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "باز کردن ترجیحات همگام‌سازی">
+<!ENTITY appMenuRemoteTabs.welcome.label "نمایش فهرست زبانه‌های شما در سایر دستگاه‌ها.">
 <!ENTITY appMenuRemoteTabs.unverified.label "حساب‌کاربری شما باید تایید شود.">
+<!ENTITY appMenuRemoteTabs.signintosync.label "ورود به &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "روشن کردن &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "مدیریت دستگاه‌ها…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "نمایش نوار زبانه‌های همگام شده">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "پنهان کردن نوار کناری برگه‌های همگام‌سازی شده">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "اتصال به دستگاه دیگر">
 
 <!ENTITY appMenuRecentHighlights.label "برجسته‌سازی های اخیر">
@@ -216,9 +225,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "ذخیره صفحه در Pocket">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "نمایش فهرست Pocket">
 
 <!ENTITY emailPageCmd.label           "ایمیل کردن پیوند...">
