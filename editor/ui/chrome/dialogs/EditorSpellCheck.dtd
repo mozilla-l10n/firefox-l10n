@@ -24,7 +24,7 @@
 <!ENTITY stopButton.accessKey "t">
 <!ENTITY userDictionary.label "Diccionario personal:">
 <!ENTITY moreDictionaries.label "Descargar más diccionarios…">
-<!ENTITY addToUserDictionaryButton.label "Añadir palabra">
+<!ENTITY addToUserDictionaryButton.label "Agregar palabra">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "Editar…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
