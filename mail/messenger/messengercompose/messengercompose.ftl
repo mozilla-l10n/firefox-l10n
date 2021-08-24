@@ -174,12 +174,23 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Prikaži polje { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Prejemniki v poljih Za in Kp ({ $count }) bodo videli naslove drug drugega. Prejemnike lahko prikrijete tako, da uporabite polje Skp.
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Sporočilo ima javnega prejemnika.  Prejemnike lahko prikrijete tako, da uporabite polje Skp.
+        [two] Prejemnika v poljih Za in Kp bosta videla naslove drug drugega. Prejemnike lahko prikrijete tako, da uporabite polje Skp.
+        [few] { $count } prejemniki v poljih Za in Kp bodo videli naslove drug drugega. Prejemnike lahko prikrijete tako, da uporabite polje Skp.
+       *[other] { $count } prejemnikov v poljih Za in Kp bo videlo naslove drug drugega. Prejemnike lahko prikrijete tako, da uporabite polje Skp.
+    }
 many-public-recipients-bcc =
     .label = Raje uporabi Skp
     .accesskey = S
 many-public-recipients-ignore =
     .label = Naj bodo prejemniki javni
     .accesskey = N
+many-public-recipients-prompt-title = Preveč javnih prejemnikov
+many-public-recipients-prompt-cancel = Prekliči pošiljanje
+many-public-recipients-prompt-send = Vseeno pošlji
 
 ## Notifications
 
