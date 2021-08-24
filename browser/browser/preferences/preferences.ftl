@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = ارسال یک سیگنال “من را دنبال نکن ” برای پایگاه‌های اینترنتی که شما نمی‌خواهید توسط آن ها دنبال شوید
+do-not-track-description = ارسال یک سیگنال «من را دنبال نکن» برای پایگاه‌های اینترنتی که شما نمی‌خواهید توسط آن‌ها دنبال شوید
 do-not-track-learn-more = اطلاعات بیشتر
 do-not-track-option-default-content-blocking-known =
     .label = تنها وقتی که { -brand-short-name } برای مسدودسازی ردیاب‌های شناخته شده تنظیم شده است
@@ -751,8 +751,8 @@ sync-engine-addresses =
     .tooltiptext = آدرس پستی که شما ذخیره کرده‌ اید(تنها رومیزی)
     .accesskey = آ
 sync-engine-creditcards =
-    .label = کارت اعتباری
-    .tooltiptext = نام، اعداد و تاریخ انتقضا‌( رو میزی تنها)
+    .label = کارت‌های اعتباری
+    .tooltiptext = نام، اعداد و تاریخ انقضا (تنها رومیزی)
     .accesskey = ک
 sync-engine-addons =
     .label = افزودنی‌ها
@@ -841,9 +841,19 @@ forms-master-pw-fips-desc = تغییر گذرواژه شکست خورد
 forms-windows-sso =
     .label = به Windows single sign-on برای دسترسی به حساب‌های Microsoft، کاری و مدرسه اجازه دهید
 forms-windows-sso-learn-more-link = بیشتر بدانید
+forms-windows-sso-desc = حساب‌ها را در تنظیمات دستگاه خود مدیریت کنید
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = برای ایجاد گذرواژه اصلی، اطلاعات ورود به سیستم ویندوز خود را وارد کنید. این کار به حفاظت از امنیت حساب‌های شما کمک می‌کند.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = ایجاد یک گذرواژه اصلی
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = برای ایجاد گذرواژه اصلی، اطلاعات ورود به سیستم ویندوز خود را وارد کنید. این کار به حفاظت از امنیت حساب‌های شما کمک می‌کند.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -904,6 +914,7 @@ sitedata-learn-more = بیشتر بدانید
 sitedata-delete-on-close =
     .label = پاک کردن کوکی‌ها و داده‌های سایت هنگام بستن { -brand-short-name }.
     .accesskey = c
+sitedata-delete-on-close-private-browsing = در حالتِ مرور ناشناسِ دائمی، پس از بستن { -brand-short-name }، کوکی‌ها و داده‌های سایت‌ها پاک می‌شوند.
 sitedata-allow-cookies-option =
     .label = پذیرفتن کوکی‌ها و داده‌های سایت
     .accesskey = A
