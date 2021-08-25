@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = Webbplats med dataintrång
 about-logins-list-item-vulnerable-password-icon =
     .title = Sårbart lösenord
+about-logins-list-section-breach = Webbplatser med dataintrång
+about-logins-list-section-vulnerable = Sårbara lösenord
+about-logins-list-section-nothing = Ingen varning
+about-logins-list-section-today = Idag
+about-logins-list-section-yesterday = Igår
+about-logins-list-section-week = Senaste 7 dagarna
 
 ## Introduction screen
 
