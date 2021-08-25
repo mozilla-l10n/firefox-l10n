@@ -229,6 +229,9 @@ mr1-onboarding-pin-primary-button-label =
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Оғози кор
 mr1-onboarding-welcome-header = Хуш омадед ба { -brand-short-name }
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = Таъин кардани { -brand-short-name } ҳамчун браузери пешфарзи ман
 mr1-onboarding-set-default-secondary-button-label = Ҳоло не
 mr1-onboarding-sign-in-button-label = Ворид шудан
 
