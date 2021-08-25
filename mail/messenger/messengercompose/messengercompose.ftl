@@ -160,12 +160,27 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Veld { bcc-compose-address-row-label.value } tonen ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = De { $count } ontvangers in Aan en Cc zullen elkaars adres zien. U kunt voorkomen dat ontvangers worden onthuld door in plaats hiervan Bcc te gebruiken.
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] Uw bericht heeft een openbare ontvanger. U kunt voorkomen dat ontvangers worden onthuld door in plaats hiervan Bcc te gebruiken.
+       *[other] De { $count } ontvangers in Aan en Cc zullen elkaars adres zien. U kunt voorkomen dat ontvangers worden onthuld door in plaats hiervan Bcc te gebruiken.
+    }
 many-public-recipients-bcc =
     .label = In plaats hiervan Bcc gebruiken
     .accesskey = g
 many-public-recipients-ignore =
     .label = Ontvangers openbaar laten
     .accesskey = l
+many-public-recipients-prompt-title = Te veel openbare ontvangers
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Uw bericht heeft een openbare ontvanger. Dit kan een privacyprobleem zijn. U kunt dit voorkomen door de ontvanger in plaats van Aan/Cc naar Bcc te verplaatsen.
+       *[other] Uw bericht heeft { $count } openbare ontvangers, die elkaars adressen kunnen zien. Dit kan een privacyprobleem zijn. U kunt voorkomen dat ontvangers openbaar worden gemaakt door ontvangers in plaats van Aan/Cc naar Bcc te verplaatsen.
+    }
+many-public-recipients-prompt-cancel = Verzenden annuleren
+many-public-recipients-prompt-send = Toch verzenden
 
 ## Notifications
 
