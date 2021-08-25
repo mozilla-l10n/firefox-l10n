@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ট্যাগসমূহ যোগ করুন
-
 pocket-panel-saved-error-generic = { -pocket-brand-name } এ সংরক্ষণ করতে ত্রুটি ঘটেছে।
 pocket-panel-saved-error-tag-length = ট্যাগ সমূহ 25 অক্ষরের মধ্যে সীমাবদ্ধ
 pocket-panel-saved-error-only-links = শুধু লিঙ্ক সংরক্ষণ করা যাবে
@@ -34,7 +33,7 @@ pocket-panel-signup-learn-more = আরও জানুন
 pocket-panel-signup-login = লগ ইন
 pocket-panel-signup-signup-email = ইমেইল দিয়ে সাইন আপ করুন
 pocket-panel-signup-signup-cta = { -pocket-brand-name } সাইন আপ করুন। এটি মুফত।
-pocket-panel-signup-signup-firefox = ফায়ারফক্স দিয়ে সাইন আপ করুন
+pocket-panel-signup-signup-firefox = { -brand-product-name } দিয়ে প্রবেশ করুন
 pocket-panel-signup-tagline = { -pocket-brand-name } এর মাধ্যমে যেকোন সময়, যেকোন ডিভাইসে নিবন্ধ এবং ভিডিও দেখতে { -brand-product-name } থেকে সেগুলো সংরক্ষণ করুন।
 pocket-panel-signup-tagline-story-one = { -brand-product-name } থেকে আর্টিকেল, ভিডিও বা পৃষ্ঠা সংরক্ষণ করার জন্য { -pocket-brand-name } বাটন ক্লিক করুন।
 pocket-panel-signup-tagline-story-two = যেকোন সময়ে, যেকোন স্থানে { -pocket-brand-name } এ দেখুন।
