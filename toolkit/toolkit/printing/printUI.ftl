@@ -5,7 +5,6 @@
 printui-title = Штампање
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Чување
-
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -14,7 +13,6 @@ printui-sheets-count =
         [few] { $sheetCount } листа папира
        *[other] { $sheetCount } листова папира
     }
-
 printui-page-range-all = Све
 printui-page-range-custom = Прилагођено
 printui-page-range-label = Странице
@@ -23,50 +21,52 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Унеси прилагођени опсег страница
     .placeholder = нпр. 2-6, 9, 12-16
-
 # Section title for the number of copies to print
 printui-copies-label = Копије
-
 printui-orientation = Положај
 printui-landscape = Водоравно
 printui-portrait = Усправно
-
 # Section title for the printer or destination device to target
 printui-destination-label = Одредиште
 printui-destination-pdf-label = Сачувај као PDF
-
 printui-more-settings = Више подешавања
 printui-less-settings = Мање подешавања
-
 printui-paper-size-label = Величина папира
-
 # Section title (noun) for the print scaling options
 printui-scale = Размера
 printui-scale-fit-to-page-width = Прилагоди ширини странице
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Размера
-
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Двострано штампање
 printui-two-sided-printing-off = Искљ.
-
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Окрените на дужу ивицу
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Окрените на краћу ивицу
 # Section title for miscellaneous print options
 printui-options = Опције
 printui-headers-footers-checkbox = Штампај заглавља и подножја
 printui-backgrounds-checkbox = Штампај позадине
 
-printui-selection-checkbox = Штампај само изабрано
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Формат
+# Option for printing the original page.
+printui-source-radio = Оригинал
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Одабир
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Поједностављено
 
 ##
 
 printui-color-mode-label = Режим боје
 printui-color-mode-color = У боји
 printui-color-mode-bw = Црно-бело
-
 printui-margins = Маргине
 printui-margins-default = Подразумевано
 printui-margins-min = Минимално
@@ -85,23 +85,17 @@ printui-margins-custom-left-mm = Лево (mm)
 printui-margins-custom-right = Десно
 printui-margins-custom-right-inches = Десно (инчи)
 printui-margins-custom-right-mm = Десно (mm)
-
 printui-system-dialog-link = Штампај помоћу системског дијалога…
-
 printui-primary-button = Одштампај
 printui-primary-button-save = Сачувај
 printui-cancel-button = Откажи
 printui-close-button = Затвори
-
 printui-loading = Припрема прегледа
-
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Преглед пре штампе
-
 printui-pages-per-sheet = Страница по листу
-
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Штампам…
@@ -128,7 +122,6 @@ printui-paper-tabloid = Таблоид
 printui-error-invalid-scale = Мера мора бити број између 10 и 200.
 printui-error-invalid-margin = Унесите важећу маргину за изабрану величину папира.
 printui-error-invalid-copies = Број примерака мора бити између 1 и 10.000.
-
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Мера мора бити број између 1 и { $numPages }.
