@@ -55,6 +55,7 @@ ssl-error-rx-unexpected-application-data = SSL сабти ногаҳони «М�
 ssl-error-rx-unknown-record-type = SSL сабтеро бо навъи муҳтавои номаълум қабул кард.
 ssl-error-rx-unknown-handshake = SSL паёми дастфишориро бо навъи паёми номаълум қабул кард.
 ssl-error-close-notify-alert = Ҳамсони SSL ин пайвастро қатъ кард.
+ssl-error-mac-computation-failure = Хатои ҳисобкунии MAC.
 ssl-error-rx-unexpected-uncompressed-record = SSL сабти ногаҳони фишурданашударо қабул кард.
 ssl-error-feature-not-supported-for-servers = Хусусияти SSL барои серверҳо дастгирӣ намешавад.
 ssl-error-feature-not-supported-for-clients = Хусусияти SSL барои муштариён дастгирӣ намешавад.
