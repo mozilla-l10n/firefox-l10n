@@ -202,6 +202,8 @@ more-menu-go-offline =
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = To-mu
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
@@ -215,3 +217,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Ɛnnkyerɛ nkrato yi bio sɛ wɔsiw mpɔpap ano kwan a
+    .accesskey = D
