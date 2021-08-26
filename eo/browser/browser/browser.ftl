@@ -732,3 +732,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ne montri ĉiun ĉi mesaĝon kiam ŝprucfenestroj estas blokataj
     .accesskey = N
+picture-in-picture-hide-toggle =
+    .label = Kaŝi butonon de bildo en bildo
+    .accesskey = K
