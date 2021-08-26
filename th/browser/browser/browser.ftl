@@ -708,6 +708,18 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = อนุญาตป๊อปอัปสำหรับ { $uriHost }
+    .accesskey = ป
+popups-infobar-block =
+    .label = ปิดกั้นป๊อปอัปสำหรับ { $uriHost }
+    .accesskey = ป
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = ไม่แสดงข้อความนี้เมื่อป๊อปอัปถูกปิดกั้น
+    .accesskey = ข
+picture-in-picture-hide-toggle =
+    .label = ซ่อนสลับภาพที่เล่นควบคู่
+    .accesskey = อ
