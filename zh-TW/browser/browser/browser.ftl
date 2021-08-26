@@ -544,6 +544,9 @@ urlbar-result-action-search-bookmarks = 搜尋書籤
 urlbar-result-action-search-history = 搜尋瀏覽記錄
 urlbar-result-action-search-tabs = 搜尋分頁
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -711,3 +714,13 @@ remote-tabs-sync-now = 立刻同步
 # "More" item in macOS share menu
 menu-share-more =
     .label = 更多…
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
+##
+
+popups-infobar-dont-show-message =
+    .label = 擋下彈出型視窗時不顯示此訊息
+    .accesskey = D
