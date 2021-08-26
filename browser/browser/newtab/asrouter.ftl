@@ -250,6 +250,8 @@ cfr-doorhanger-milestone-close-button = Închide
 
 cfr-doorhanger-doh-body = Confidențialitatea ta contează. { -brand-short-name } îți rutează acum securizat cererile DNS ori de câte ori este posibil către un serviciu partener pentru a te proteja în timpul navigării.
 cfr-doorhanger-doh-header = Căutări DNS criptate, mai securizate
+cfr-doorhanger-doh-primary-button-2 = OK
+    .accesskey = O
 cfr-doorhanger-doh-secondary-button = Dezactivează
     .accesskey = D
 
