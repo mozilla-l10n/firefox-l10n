@@ -739,3 +739,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Не паказваць гэта паведамленне, калі выплыўныя вокны затрымліваюцца
     .accesskey = Н
+picture-in-picture-hide-toggle =
+    .label = Схаваць пераключальнік Выява ў выяве
+    .accesskey = р
