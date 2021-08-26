@@ -732,3 +732,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Visa inte det här meddelandet när popup-fönster blockeras
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Dölj bild-i-bild växling
+    .accesskey = D
