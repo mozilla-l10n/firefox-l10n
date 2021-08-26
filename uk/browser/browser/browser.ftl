@@ -548,6 +548,9 @@ urlbar-result-action-search-bookmarks = Шукати в закладках
 urlbar-result-action-search-history = Шукати в історії
 urlbar-result-action-search-tabs = Шукати у вкладках
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -715,3 +718,12 @@ remote-tabs-sync-now = Синхронізувати
 # "More" item in macOS share menu
 menu-share-more =
     .label = Більше…
+ui-tour-info-panel-close =
+    .tooltiptext = Закрити
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
+##
+
