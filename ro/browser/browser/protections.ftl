@@ -55,7 +55,7 @@ protections-close-button2 =
     .aria-label = Închide
     .title = Închide
 mobile-app-title = Blochează elementele de urmărire din reclame pe mai multe dispozitive
-mobile-app-card-content = Folosește browserul pentru dispozitive mobile cu protecție integrată împotriva elementelor de urmărire din reclame.
+mobile-app-card-content = Folosește browserul mobil cu protecție integrată împotriva urmăririi anunțurilor.
 mobile-app-links = { -brand-product-name } Browser pentru <a data-l10n-name="android-mobile-inline-link">Android</a> și <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Nu mai pierzi niciodată o parolă
 lockwise-title-logged-in2 = Gestionarea parolelor
