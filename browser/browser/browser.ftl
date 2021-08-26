@@ -728,3 +728,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = 当弹出式窗口被拦截时不显示此消息
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = 隐藏画中画切换按钮
+    .accesskey = H
