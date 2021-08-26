@@ -788,3 +788,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Při blokování vyskakovacích oken nezobrazovat tuto zprávu
+    .accesskey = N
