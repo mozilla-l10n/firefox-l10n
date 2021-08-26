@@ -718,6 +718,12 @@ menu-share-more =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Tillat sprettoppvindauge frå { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Blokker sprettoppvindauge frå { $uriHost }
+    .accesskey = p
 
 ##
 
