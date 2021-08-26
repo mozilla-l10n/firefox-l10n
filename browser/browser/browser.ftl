@@ -719,3 +719,6 @@ ui-tour-info-panel-close =
 
 ##
 
+picture-in-picture-hide-toggle =
+    .label = 화면 속 화면 토글 숨기기
+    .accesskey = H
