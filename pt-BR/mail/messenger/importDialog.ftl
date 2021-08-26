@@ -6,5 +6,16 @@
 thunderbird-import-name = Thunderbird
 # Description of the import module
 thunderbird-import-description = Importar emails de um diretório de perfil do Thunderbird.
-import-select-profile-dir-or-zip = Selecione um diretório de perfil ou um diretório de perfil compactado
+import-from-thunderbird-zip =
+    .label = Thunderbird (backup de perfil exportado; arquivo zip menor que 2GB)
+    .accesskey = z
+import-from-thunderbird-dir =
+    .label = Thunderbird (pasta de perfil)
+    .accesskey = T
 import-select-profile-zip = Selecionar um diretório de perfil compactado
+import-select-profile-dir = Selecionar um diretório de perfil
+zip-file-too-big-title = Arquivo zip grande demais
+zip-file-too-big-message = O arquivo zip selecionado tem mais de 2GB. Primeiro extraia o conteúdo, depois importe a partir da pasta onde foi extraído.
+wizardpage-failed =
+    .label = Falha na importação
+wizardpage-failed-message = A importação falhou inesperadamente; mais informações podem estar disponíveis no console de erro.
