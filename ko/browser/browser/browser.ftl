@@ -548,7 +548,7 @@ urlbar-result-action-search-tabs = 탭 검색
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
-fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 이 전체 화면 모드입니다
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 사이트가 전체 화면 모드입니다
 fullscreen-warning-no-domain = 이 문서는 전체 화면 모드입니다
 fullscreen-exit-button = 전체 화면 종료 (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
