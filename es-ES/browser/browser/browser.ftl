@@ -543,6 +543,9 @@ urlbar-result-action-search-bookmarks = Buscar marcadores
 urlbar-result-action-search-history = Buscar en el historial
 urlbar-result-action-search-tabs = Buscar pestañas
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -704,6 +707,15 @@ addon-removal-abuse-report-checkbox = Informar de esta extensión a { -vendor-sh
 remote-tabs-manage-account =
     .label = Administrar cuenta
 remote-tabs-sync-now = Sincronizar ahora
+
+##
+
+ui-tour-info-panel-close =
+    .tooltiptext = Cerrar
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
