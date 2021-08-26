@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (priwatné przezéranié)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (priwatné przezéranié)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (priwatné przezéranié)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (priwatné przezéranié)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -66,8 +64,6 @@ browser-main-window-title = { -brand-full-name }
 
 ## Page Action Context Menu
 
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -134,13 +130,10 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Szëkôj za, abò wpiszë adres
-
 urlbar-placeholder =
     .placeholder = Szëkôj za, abò wpiszë adres
-
 urlbar-switch-to-tab =
     .value = Przełączë na kôrtã:
-
 urlbar-go-button =
     .tooltiptext = Biéj do stronë z pòdónym adresã
 
@@ -151,6 +144,9 @@ urlbar-go-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Labels shown above groups of urlbar results
 
 
 ## Full Screen and Pointer Lock UI
@@ -165,7 +161,6 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Wëskrzëni wicy załóżków
 bookmarks-sidebar-content =
     .aria-label = Załóżczi
-
 bookmarks-toolbar-menu =
     .label = Lëstew załóżków
 bookmarks-toolbar-placeholder =
@@ -181,7 +176,9 @@ bookmarks-toolbar-placeholder-button =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
+
 
 ## More items
 
@@ -200,3 +197,22 @@ more-menu-go-offline =
 
 ## Remote / Synced tabs
 
+
+##
+
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Zezwòlë na wëskakùjącé òkna ze stronë { $uriHost }
+    .accesskey = w
+popups-infobar-block =
+    .label = Blokùjë wëskakùjącé òkna ze stronë { $uriHost }
+    .accesskey = w
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Nie wëskrzëniwôj wëdowiédzë ò blokòwónëch wëskakùjącëch òknach
+    .accesskey = N
