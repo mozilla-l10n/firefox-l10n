@@ -480,6 +480,9 @@ urlbar-result-action-search-bookmarks = Փնտրել էջանիշներում
 urlbar-result-action-search-history = Փնտրել Պատմութեան գրանցումներում
 urlbar-result-action-search-tabs = Փնտրել ներդիրներում
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -608,3 +611,24 @@ eme-notifications-drm-content-playing = Այս կայքում որոշ ձայն�
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Փակել
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Թոյլատրել ելնող պատուհաններ { $uriHost }-ից
+    .accesskey = p
+popups-infobar-block =
+    .label = Արգելել ինքնաելիցներ { $uriHost }-ից
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Չցուցադրել այս հաղորդագրութիւնը, երբ ելնող պատուհնները արգելափակուած են
+    .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Թաքցնել նկարը նկարի փոխարկիչում
+    .accesskey = H
