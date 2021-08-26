@@ -520,6 +520,7 @@ search-bar-hidden =
 search-bar-shown =
     .label = Илова кардани навори ҷустуҷӯ ба навори абзорҳо
 search-engine-default-header = Низоми ҷустуҷӯии пешфарз
+search-engine-default-desc-2 = Ин низоми ҷустуҷӯии пешфарзи шумо мебошад, ки дар навори нишонӣ ва навори ҷустуҷӯ истифода мешавад. Шумо метавонед онро дар вақти дилхоҳ иваз намоед.
 search-separate-default-engine =
     .label = Истифодаи ин низоми ҷустуҷӯӣ дар равзанаҳои махфӣ
     .accesskey = И
@@ -531,6 +532,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Намоиш додани пешниҳодҳои ҷустуҷӯ дар натиҷаҳои навори нишонӣ
     .accesskey = Н
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Намоиш додани пешниҳодҳои ҷустуҷӯ дар натиҷаҳо пеш аз таърихи тамошокунӣ ҳангоми истифодаи навори нишонӣ.
 search-show-suggestions-private-windows =
     .label = Намоиш додани пешниҳодҳои ҷустуҷӯ дар равзанаҳои махфӣ
 suggestions-addressbar-settings-generic = Иваз кардани хусусиятҳо барои пешниҳодҳои дигар дар навори нишонӣ
