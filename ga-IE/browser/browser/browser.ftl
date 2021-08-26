@@ -377,6 +377,8 @@ eme-notifications-drm-content-playing = Baineann roinnt comhad fuaime nó físe 
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Dún
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
@@ -390,3 +392,9 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Ná taispeáin an teachtaireacht seo nuair a bhíonn cosc ar phreabfhuinneoga
+    .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Folaigh an Scoránú Pictiúr-i-bPictiúr
+    .accesskey = F
