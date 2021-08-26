@@ -313,6 +313,9 @@ urlbar-result-action-visit = পরিদর্শন করুন
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -413,3 +416,21 @@ eme-notifications-drm-content-playing = এই সাইটের কিছু �
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = বন্ধ
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Allow popups for { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Block popups for { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = পপ-আপ প্রদর্শনে বাধা প্রদান করা হলে এই বার্তাটি প্রদর্শন করা হবে না
+    .accesskey = D
