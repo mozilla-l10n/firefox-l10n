@@ -524,6 +524,9 @@ urlbar-result-action-search-bookmarks = Cîr tai segnelibris
 urlbar-result-action-search-history = Cîr te cronologjie
 urlbar-result-action-search-tabs = Cîr tes schedis
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -678,6 +681,15 @@ addon-removal-abuse-report-checkbox = Segnale cheste estension a { -vendor-short
 remote-tabs-manage-account =
     .label = Gjestìs account
 remote-tabs-sync-now = Sincronize cumò
+
+##
+
+ui-tour-info-panel-close =
+    .tooltiptext = Siere
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
