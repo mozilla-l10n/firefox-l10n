@@ -321,6 +321,9 @@ urlbar-result-action-visit = Posjeti
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -442,6 +445,19 @@ eme-notifications-drm-content-playing = Neki audio ili video sadržaji na ovoj s
 
 ## Remote / Synced tabs
 
+
+##
+
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Dozvoli pop-upe za { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Blokiraj pop-upe za { $uriHost }
+    .accesskey = p
 
 ##
 
