@@ -716,9 +716,18 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = { $uriHost }의 팝업 허용
+    .accesskey = p
+popups-infobar-block =
+    .label = { $uriHost }의 팝업 차단
+    .accesskey = p
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = 팝업이 차단될 때 이 메시지를 표시하지 않음
+    .accesskey = D
 picture-in-picture-hide-toggle =
     .label = 화면 속 화면 토글 숨기기
     .accesskey = H
