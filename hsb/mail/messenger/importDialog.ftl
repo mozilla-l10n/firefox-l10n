@@ -15,5 +15,6 @@ import-from-thunderbird-dir =
 import-select-profile-zip = Wubjerće skomprimowany profilowy zapis
 import-select-profile-dir = Wubjerće profilowy zapis
 zip-file-too-big-title = Zip-dataja je přewulka
+zip-file-too-big-message = Wubrana zip-dataja je wjetša hač 2 GB. Prošu wubalće ju najprjedy, a importujće wobsah z wubaleneho rjadowaka město toho.
 wizardpage-failed =
     .label = Importowanje njeje so poradźiło
