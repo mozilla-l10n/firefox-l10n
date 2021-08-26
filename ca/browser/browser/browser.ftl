@@ -721,3 +721,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No mostris aquest missatge quan es bloquin finestres emergents
     .accesskey = n
+picture-in-picture-hide-toggle =
+    .label = Amaga el botó d'Imatge sobre imatge
+    .accesskey = m
