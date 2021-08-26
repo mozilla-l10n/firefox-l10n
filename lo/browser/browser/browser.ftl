@@ -352,6 +352,8 @@ eme-notifications-drm-content-playing = ສຽງ ຫລື ວີດີໂອ�
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = ປິດ
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
