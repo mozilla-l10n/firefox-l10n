@@ -723,6 +723,18 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Permitir ventanas emergentes para { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Bloquear ventanas emergentes para { $uriHost }
+    .accesskey = p
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = No mostrar este mensaje cuando se bloqueen ventanas emergentes
+    .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Ocultar botón de Picture-in-Picture (PIP)
+    .accesskey = H
