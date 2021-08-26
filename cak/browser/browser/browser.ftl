@@ -728,3 +728,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Man tel pe re rutzijol re' toq xkeq'at taq silon wachib'äl
     .accesskey = N
+picture-in-picture-hide-toggle =
+    .label = Tewäx Rupitz'b'al Picture-in-Picture
+    .accesskey = T
