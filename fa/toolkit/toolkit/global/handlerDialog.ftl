@@ -9,11 +9,19 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = به این سایت اجازه می‌دهید پیوند { $scheme } را باز کند؟
+permission-dialog-description-file = اجازه می‌دهید این پرونده پیوند { $scheme } را باز کند؟
+permission-dialog-description-host = به { $host } اجازه می‌دهید پیوند { $scheme } را باز کند؟
+permission-dialog-description-app = به این سایت اجازه می‌دهید پیوند { $scheme } را با { $appName } باز کند؟
+permission-dialog-description-host-app = به { $host } اجازه می‌دهید پیوند { $scheme } را با { $appName } باز کند؟
+permission-dialog-description-file-app = به این پرونده اجازه می‌دهید پیوند { $scheme } را با { $appName } باز کند؟
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
+permission-dialog-remember = همیشه به <strong>{ $host }</strong> اجازه دهید پیوندهای <strong>{ $scheme }</strong> را باز کند
+permission-dialog-remember-file = همیشه به این پرونده اجازه دهید پیوندهای <strong>{ $scheme }</strong> را باز کند
 
 ##
 
