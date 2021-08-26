@@ -7,6 +7,10 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = Profiler подешавања
+perftools-intro-description =
+    Регистрације покрећу profiler.firefox.com у новом језичку. Сви подаци су сачувани
+    локално, али можете изабрати да их пошаљете за дељење.
 
 ## All of the headings for the various sections.
 
@@ -21,6 +25,9 @@ perftools-heading-local-build = Локална верзија
 
 ##
 
+perftools-description-intro =
+    Регистрације покрећу <a>profiler.firefox.com</a> у новом језичку. Сви подаци су сачувани
+    локално, али можете изабрати да их пошаљете за дељење.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -31,7 +38,6 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Величина бафера:
-
 perftools-devtools-interval-label = Интервал:
 perftools-devtools-threads-label = Нити:
 perftools-devtools-settings-label = Подешавања
