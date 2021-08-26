@@ -59,15 +59,24 @@ experimental-features-abouthome-startup-cache-description = Кеш мемори�
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Колачићи: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Третирајте колачиће са истог домена, али са другачијим шемама (нпр.: http://example.com и https://example.com) као cross-site. Ово повећава сигурност, али може довести и до грешака.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Алатке за програмере: отклањање грешака сервис воркера
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Омогућава експерименталну подршку за сервис воркере у панелу за отклањање грешака. Ова функција може успорити алатке за програмере и повећати потрошњу меморије.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Глобална контрола WebRTC искључивања
+experimental-features-webrtc-global-mute-toggles-description = Додаје контроле глобалном WebRTC индикатору за дељење које корисницима омогућавају да искључе микрофоне и камере.
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
     .label = Win32k блокада
+experimental-features-win32k-lockdown-description = Онемогућава употребу Win32k APIs у језичцима прегледача. Повећава сигурност, али тренутно може бити нестабилна или неисправна. (Само за Windows)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Омогућите Warp, што побољшава JavaScript перформансе и употребу меморије.
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (изолација сајтова)
