@@ -219,3 +219,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Ойон тахсар түннүгү боборго бу сэрэтиини көрдөрүмэ
+    .accesskey = D
