@@ -7,7 +7,6 @@ page-subtitle =
     Ова страница садржи техничке податке који могу бити корисни када
     покушавате да решите неки проблем. Ако вам требају одговори на често постављана питања
     о програму { -brand-short-name }, прегледајте наш <a data-l10n-name="support-link">веб сајт за подршку</a>.
-
 crashes-title = Извештаји о отказивању
 crashes-id = ID извештаја
 crashes-send-date = Послато
@@ -61,12 +60,14 @@ app-basics-enabled-plugins = Омогућене додатне компонен�
 app-basics-build-config = Конфигурација изградње
 app-basics-user-agent = Корисник
 app-basics-os = ОС
+app-basics-os-theme = Системска тема
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = Rosetta Translated
 app-basics-memory-use = Меморија
 app-basics-performance = Перформансе
 app-basics-service-workers = Регистровани сервис воркери
+app-basics-third-party = Модули других произвођача
 app-basics-profiles = Профили
 app-basics-launcher-process-status = Покретачки процес
 app-basics-multi-process-support = Вишепроцесорски прозори
@@ -127,7 +128,6 @@ sandbox-sys-call-number = Системски позив
 sandbox-sys-call-args = Аргументи
 safe-mode-title = Покушај безбедни режим
 restart-in-safe-mode-label = Рестартуј са онемогућеним додацима…
-
 troubleshoot-mode-title = Дијагностика проблема
 restart-in-troubleshoot-mode-label = Режим за решавање проблема…
 clear-startup-cache-title = Покушајте да избришете предмеморију покретања
@@ -185,37 +185,6 @@ remote-debugging-url = URL
 
 ##
 
-support-third-party-modules-title = Модули независних произвођача
-support-third-party-modules-module = Датотека модула
-support-third-party-modules-version = Верзија датотеке
-support-third-party-modules-vendor = Информације о добављачу
-support-third-party-modules-occurrence = Учесталост
-support-third-party-modules-process = Тип процеса и ID
-support-third-party-modules-thread = Нит
-support-third-party-modules-base = Imagebase адреса
-support-third-party-modules-uptime = Трајање процеса (ms)
-support-third-party-modules-duration = Трајање учитавања (ms)
-support-third-party-modules-status = Статус
-support-third-party-modules-status-loaded = Учитано
-support-third-party-modules-status-blocked = Блокирано
-support-third-party-modules-status-redirected = Преусмерено
-support-third-party-modules-empty = Нису учитани модули независних произвођача.
-support-third-party-modules-no-value = (Без вредности)
-support-third-party-modules-button-open =
-    .title = Отвори локацију датотеке…
-support-third-party-modules-expand =
-    .title = Прикажи детаљне информације
-support-third-party-modules-collapse =
-    .title = Сакриј детаљне информације
-support-third-party-modules-unsigned-icon =
-    .title = Овај модул није потписан
-support-third-party-modules-folder-icon =
-    .title = Отвори локацију датотеке…
-support-third-party-modules-down-icon =
-    .title = Прикажи детаљне информације
-support-third-party-modules-up-icon =
-    .title = Сакриј детаљне информације
-
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -224,7 +193,6 @@ report-crash-for-days =
         [few] Извештаји о отказивању за протекла { $days } дана
        *[other] Извештаји о отказивању за протеклих { $days } дана
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -233,7 +201,6 @@ crashes-time-minutes =
         [few] Пре { $minutes } минута
        *[other] Пре { $minutes } минута
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -242,7 +209,6 @@ crashes-time-hours =
         [few] Пре { $hours } сата
        *[other] Пре { $hours } сати
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -251,7 +217,6 @@ crashes-time-days =
         [few] Пре { $days } дана
        *[other] Пре { $days } дана
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -260,7 +225,6 @@ pending-reports =
         [few] Сви извештаји о отказивању (укључујући { $reports } нерешена случаја у датом периоду)
        *[other] Сви извештаји о отказивању (укључујући { $reports } нерешених случаја у датом периоду)
     }
-
 raw-data-copied = Подаци копирани у бележницу
 text-copied = Текст копиран у бележницу
 
@@ -273,11 +237,9 @@ blocked-mismatched-version = Блокирана верзија драјвера 
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Блокирано за верзију драјвера графике коју имате. Покушајте да ажурирате управљачки програм на верзију { $driverVersion } или новију.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType параметри
-
 compositing = Састављање
 hardware-h264 = Hardware H264 декодирање
 main-thread-no-omtc = главна нит, без OMTC
@@ -292,7 +254,6 @@ virtual-monitor-disp = Приказ виртуелног монитора
 
 found = Пронађено
 missing = Недостаје
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Опис
@@ -316,25 +277,20 @@ webgl2-version = WebGL 2 верзија драјвера
 webgl2-driver-extensions = WebGL 2 – проширења драјвера
 webgl2-extensions = WebGL 2 – проширења
 blocklisted-bug = На црној листи због познатих проблема
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = грешка { $bugNumber }
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Блокирано због познатих проблема: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = На црној листи; код грешке { $failureCode }
-
 d3d11layers-crash-guard = D3D11 композитор
 d3d11video-crash-guard = D3D11 видео декодер
 d3d9video-crash-guard = D3D9 видео декодер
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX видео декодер
-
 reset-on-next-restart = Ресетуј при следећем покретању
 gpu-process-kill-button = Угаси GPU процес
 gpu-device-reset = Поновно покретање уређаја
@@ -344,10 +300,8 @@ content-uses-tiling = Користи плочице (садржај)
 off-main-thread-paint-enabled = Нит за сликање омогућена
 off-main-thread-paint-worker-count = Thread Painting Worker бројач
 target-frame-rate = Циљана брзина освежавања тј. Framerate
-
 min-lib-versions = Очекивана минимална верзија
 loaded-lib-versions = Верзија у употреби
-
 has-seccomp-bpf = Seccomp-BPF (Системско филтрирање позива)
 has-seccomp-tsync = Seccomp синхронизација нити
 has-user-namespaces = Именски простори корисника
@@ -356,22 +310,20 @@ can-sandbox-content = Sandboxing процеса садржаја
 can-sandbox-media = Медијска компонента Sandboxing
 content-sandbox-level = Ниво Sandbox процеса садржаја
 effective-content-sandbox-level = Ефективни ниво Sandbox процеса садржаја
+content-win32k-lockdown-state = Стање закључавања Win32k за процес садржаја
 sandbox-proc-type-content = садржај
 sandbox-proc-type-file = садржај дадотеке
 sandbox-proc-type-media-plugin = медијска компонента
 sandbox-proc-type-data-decoder = декодер података
-
 startup-cache-title = Кеш покретања
 startup-cache-disk-cache-path = Путања до дисковног кеша
 startup-cache-ignore-disk-cache = Игноришите дисковни кеш
 startup-cache-found-disk-cache-on-init = Дисковни кеш пронађен током иницијализације
 startup-cache-wrote-to-disk-cache = Записано у дисковни кеш
-
 launcher-process-status-0 = Омогућено
 launcher-process-status-1 = Онемогућено због грешке
 launcher-process-status-2 = Онемогућен силом
 launcher-process-status-unknown = Непознат статус
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -384,7 +336,6 @@ multi-process-status-6 = Онемогућио неподржани метод у
 multi-process-status-7 = Онемогућили додаци
 multi-process-status-8 = Присилно онемогућено
 multi-process-status-unknown = Непознат статус
-
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -399,7 +350,7 @@ fission-status-disabled-by-default = Подразумевано онемогућ
 fission-status-enabled-by-user-pref = Омогућио корисник
 fission-status-disabled-by-user-pref = Онемогућио корисник
 fission-status-disabled-by-e10s-other = E10s онемогућен
-
+fission-status-enabled-by-rollout = Омогућено фазним распоређивањем
 async-pan-zoom = Асинхроно кретање/увеличавање
 apz-none = нема
 wheel-enabled = унос точкића омогућен
@@ -435,7 +386,7 @@ support-printing-prefs-value = Вредност
 support-remote-experiments-title = Удаљени експерименти
 support-remote-experiments-name = Назив
 support-remote-experiments-branch = Експериментална грана
-
+support-remote-experiments-see-about-studies = За више информација погледајте <a data-l10n-name="support-about-studies-link">about:studies</a>, укључујући како онемогућити појединачне експерименте или како да забранитите да их { -brand-short-name } покреће у будућности.
 support-remote-features-title = Удаљене функције
 support-remote-features-name = Назив
 support-remote-features-status = Статус
