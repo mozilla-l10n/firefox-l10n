@@ -715,6 +715,8 @@ remote-tabs-sync-now = এতিয়াই ছিংক কৰক
 # "More" item in macOS share menu
 menu-share-more =
     .label = অধিক…
+ui-tour-info-panel-close =
+    .tooltiptext = বন্ধ কৰক
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
@@ -728,3 +730,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = যেতিয়া পপ-আপসমূহ প্ৰতিৰোধিত তেতিয়া এই বাৰ্তা নেদেখাব
+    .accesskey = D
