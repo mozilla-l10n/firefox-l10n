@@ -211,3 +211,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = முன்னெழும் சாளரங்கள் தடைசெய்யப்பட்டிருக்கும்போது இந்த செய்தியைக் காட்டதே.
+    .accesskey = D
