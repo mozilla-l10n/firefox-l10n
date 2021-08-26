@@ -271,6 +271,9 @@ urlbar-result-action-visit = ಬೇಟಿನೀಡಿ
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -368,6 +371,19 @@ eme-notifications-drm-content-playing = ಈ ತಾಣದಲ್ಲಿರುವ �
 
 ## Remote / Synced tabs
 
+
+##
+
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = { $uriHost } ಕ್ಕೆ ಪುಟಿಕೆಗಳನ್ನು ಅನುಮತಿಸು
+    .accesskey = p
+popups-infobar-block =
+    .label = { $uriHost } ಕ್ಕೆ ಪುಟಿಕೆಗಳನ್ನು ಪ್ರತಿಬಂಧಿಸು
+    .accesskey = p
 
 ##
 
