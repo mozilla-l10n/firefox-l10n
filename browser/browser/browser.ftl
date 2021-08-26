@@ -728,3 +728,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Dit berjocht net toane as pop-upfinsters blokkearre wurde
     .accesskey = b
+picture-in-picture-hide-toggle =
+    .label = Ofbylding-yn-ôfbylding-skeakeler ferstopje
+    .accesskey = O
