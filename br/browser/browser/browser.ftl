@@ -527,6 +527,9 @@ urlbar-result-action-search-bookmarks = Klask er sinedoù
 urlbar-result-action-search-history = Klask er roll istor
 urlbar-result-action-search-tabs = Klask ivinelloù
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -687,3 +690,21 @@ remote-tabs-sync-now = Goubredañ bremañ
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Serriñ
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Aotren an diflugelloù evit { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Diflugelloù harzet evit { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Na ziskouez ar gemennadenn-mañ pa vez harzet an diflugelloù
+    .accesskey = D
