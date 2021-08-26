@@ -739,3 +739,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Nezobrazovať túto správu v prípade blokovania vyskakovacích okien
     .accesskey = N
+picture-in-picture-hide-toggle =
+    .label = Skryť prepínanie obrazu v obraze
+    .accesskey = S
