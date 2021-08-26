@@ -174,6 +174,43 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Polo { bcc-compose-address-row-label.value } pokazać ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Přijimarjo budu w polomaj Komu a Kopija adresu druhich widźeć. Ličba: { $count }. Wužiwajće město toho polo Schowana kopija, zo byšće tomu zadźěwał, zo so přijimarjo přeradźuja.
+to-address-row-label =
+    .value = Komu
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Polo Komu
+    .accesskey = K
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Komu
+    .accesskey = K
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Komu
+    .title = Polo Komu pokazać ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Kopija
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Polo Kopija
+    .accesskey = P
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Kopija
+    .accesskey = K
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Kopija
+    .title = Polo Kopija pokazać ({ ctrl-cmd-shift-pretty-prefix })
+bcc-address-row-label =
+    .value = Schowana kopija
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Polo Schowana kopija
+    .accesskey = S
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
