@@ -708,3 +708,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Na ziskouez ar gemennadenn-mañ pa vez harzet an diflugelloù
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Kuzhat an afell skeudenn-ouzh-skeudenn
+    .accesskey = K
