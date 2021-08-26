@@ -540,6 +540,9 @@ urlbar-result-action-search-bookmarks = Tìm kiếm dấu trang
 urlbar-result-action-search-history = Tìm kiếm lịch sử
 urlbar-result-action-search-tabs = Tìm kiếm thẻ
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -707,3 +710,12 @@ remote-tabs-sync-now = Đồng bộ ngay
 # "More" item in macOS share menu
 menu-share-more =
     .label = Xem thêm…
+ui-tour-info-panel-close =
+    .tooltiptext = Đóng
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
+##
+
