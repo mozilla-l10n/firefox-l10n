@@ -739,3 +739,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Užblokavus iškylančiuosius langus nerodyti šio pranešimo
     .accesskey = n
+picture-in-picture-hide-toggle =
+    .label = Slėpti vaizdo-vaizde perjungimą
+    .accesskey = S
