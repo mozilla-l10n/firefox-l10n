@@ -162,11 +162,19 @@ bcc-compose-show-address-row-label =
 many-public-recipients-info = Le { $count } destinatarios in A e Cc videra lor le un le altere lor adresses. Tu pote impedir le divulgation del adresses del destinatarios per Ccn.
 to-address-row-label =
     .value = A
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Campo A
+    .accesskey = A
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
 # The label should match the show-to-row-button text.
 show-to-row-extra-menuitem =
     .label = A
     .accesskey = A
+#   $key (String) - the shortcut key for this field
+show-to-row-button = A
+    .title = Monstrar campo A { ctrl-cmd-shift-pretty-prefix }{ $key }
 cc-address-row-label =
     .value = CC
 # No acceltext should be shown.
