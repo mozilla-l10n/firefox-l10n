@@ -721,6 +721,15 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Salli ponnahdusikkunat osoitteesta { $uriHost }
+    .accesskey = S
+popups-infobar-block =
+    .label = Estä ponnahdusikkunat osoitteesta { $uriHost }
+    .accesskey = S
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Älä näytä tätä viestiä kun ponnahdusikkuna estetään
+    .accesskey = Ä
