@@ -547,6 +547,9 @@ urlbar-result-action-search-bookmarks = Eheka techaukahápe
 urlbar-result-action-search-history = Eheka tembiasakuépe
 urlbar-result-action-search-tabs = Eheka tendayke
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -714,3 +717,18 @@ remote-tabs-sync-now = Embojuehe ko’ág̃a
 # "More" item in macOS share menu
 menu-share-more =
     .label = Hetave…
+ui-tour-info-panel-close =
+    .tooltiptext = Mboty
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Ovetã apysẽ { $uriHost }-pe g̃uarã ñemoneĩ
+    .accesskey = p
+popups-infobar-block =
+    .label = Ovetã apysẽ { $uriHost }-pe g̃uarã joko
+    .accesskey = p
+
+##
+
