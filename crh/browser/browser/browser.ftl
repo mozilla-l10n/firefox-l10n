@@ -427,6 +427,15 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = { $uriHost } içün peyda pencerelerge izin ber
+    .accesskey = P
+popups-infobar-block =
+    .label = { $uriHost } içün peyda pencerelerni blokla
+    .accesskey = P
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Peydalar bloklanğanda bu mesajnı kösterme
+    .accesskey = d
