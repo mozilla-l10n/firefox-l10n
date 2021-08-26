@@ -53,6 +53,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "다른 기기 연결…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -76,7 +77,7 @@ this container is a toolbar. This avoids double-speaking. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "이 전체 화면 모드입니다">
+<!ENTITY fullscreenWarning.afterDomain.label "사이트가 전체 화면 모드입니다">
 <!ENTITY fullscreenWarning.generic.label "이 문서는 전체 화면 모드입니다">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -144,13 +145,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "기록">
-
 <!ENTITY historyUndoMenu.label "최근에 닫은 탭">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "최근에 닫은 창">
 
 <!ENTITY appMenuHistory.showAll.label "모든 기록 보기">
-
 <!ENTITY appMenuHistory.clearRecent.label "최근 기록 지우기…">
 <!ENTITY appMenuHistory.restoreSession.label "이전 세션 복원">
 <!ENTITY appMenuHistory.viewSidebar.label "기록 탐색창 보기">
@@ -243,6 +242,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; 종료">
 
 <!ENTITY allowPopups.accesskey "p">
+
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
@@ -266,6 +266,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 
 <!ENTITY uiTour.infoPanel.close "닫기">
+
 
 <!ENTITY panicButton.thankyou.msg1                "최근 기록이 지워졌습니다.">
 <!ENTITY panicButton.thankyou.msg2                "안전한 탐색!">
