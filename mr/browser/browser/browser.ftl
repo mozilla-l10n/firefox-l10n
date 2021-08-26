@@ -461,3 +461,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = पॉपअप्स् अवरेधीत केलेले असताना हा संदेश दाखवू नये
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = पिक्चर-इन-पिक्चर टॉगल लपवा
+    .accesskey = H
