@@ -732,3 +732,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Ur d-skan ara izen-a ticki isfuyla udhimen weḥlen
+    .accesskey = D
