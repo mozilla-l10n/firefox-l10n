@@ -364,6 +364,9 @@ urlbar-result-action-search-bookmarks = Yeny Alama buk
 urlbar-result-action-search-history = Yeny Gin mukato
 urlbar-result-action-search-tabs = Yeny Dirica matino
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -474,3 +477,21 @@ eme-notifications-drm-content-playing = Dwon ki vidio mogo i kakube man tiyo ki 
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Lor
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Ye pye-malo pi { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Geng pye-malo pi { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Pe inyut kwena man kace kigengo pye-malo woko
+    .accesskey = D
