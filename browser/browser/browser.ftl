@@ -726,3 +726,6 @@ ui-tour-info-panel-close =
 
 ##
 
+picture-in-picture-hide-toggle =
+    .label = Ocultar o comutador de vídeo em janela flutuante
+    .accesskey = O
