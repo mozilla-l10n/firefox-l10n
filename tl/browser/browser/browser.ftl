@@ -708,6 +708,15 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Payagan ang mga pop-up para sa { $uriHost }
     .accesskey = p
+popups-infobar-block =
+    .label = Harangin ang mga pop-up para sa { $uriHost }
+    .accesskey = p
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Huwag ipakita ang mensaheng ito kapag hinaharang ang mga pop-up
+    .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Itago ang Toggle para sa Picture-in-Picture
+    .accesskey = H
