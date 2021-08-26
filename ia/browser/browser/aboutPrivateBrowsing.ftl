@@ -26,6 +26,7 @@ about-private-browsing-info-description = { -brand-short-name } cancella tu chro
 about-private-browsing-need-more-privacy = Require plus confidentialitate?
 about-private-browsing-turn-on-vpn = Prova { -mozilla-vpn-brand-name }
 about-private-browsing-learn-more-link = Saper plus
+about-private-browsing-prominent-cta = Resta private con { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
