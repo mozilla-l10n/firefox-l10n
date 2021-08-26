@@ -384,6 +384,9 @@ urlbar-result-action-visit = Külasta
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -494,3 +497,21 @@ eme-notifications-drm-content-playing = Osa sellel lehel olevast audiost või vi
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Sulge
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Luba hüpikaknad aadressilt { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Bloki hüpikaknad aadressilt { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Seda teadet ei näidata, kui hüpikaknad blokitakse
+    .accesskey = d
