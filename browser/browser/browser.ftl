@@ -551,6 +551,9 @@ urlbar-result-action-search-bookmarks = Ieškoti adresyne
 urlbar-result-action-search-history = Ieškoti žurnale
 urlbar-result-action-search-tabs = Ieškoti kortelėse
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -718,3 +721,21 @@ remote-tabs-sync-now = Sinchronizuoti dabar
 # "More" item in macOS share menu
 menu-share-more =
     .label = Daugiau…
+ui-tour-info-panel-close =
+    .tooltiptext = Užverti
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Leisti iškylančiuosius langus iš { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Blokuoti iškylančiuosius langus iš { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Užblokavus iškylančiuosius langus nerodyti šio pranešimo
+    .accesskey = n
