@@ -721,6 +721,9 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = אפשר חלונות קופצים עבור { $uriHost }
     .accesskey = ח
+popups-infobar-block =
+    .label = חסימת חלונות קופצים עבור { $uriHost }
+    .accesskey = ח
 
 ##
 
