@@ -454,6 +454,9 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } avtomatik açılan pəncərələrinə icazə ver
     .accesskey = p
+popups-infobar-block =
+    .label = { $uriHost } üçün peyda olan pəncərələri əngəllə
+    .accesskey = p
 
 ##
 
