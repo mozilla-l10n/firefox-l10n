@@ -735,3 +735,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Dit bericht niet tonen wanneer pop-ups worden geblokkeerd
     .accesskey = n
+picture-in-picture-hide-toggle =
+    .label = Picture-in-Picture-knop verbergen
+    .accesskey = V
