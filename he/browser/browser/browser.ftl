@@ -542,6 +542,9 @@ urlbar-result-action-search-bookmarks = חיפוש בסימניות
 urlbar-result-action-search-history = חיפוש בהיסטוריה
 urlbar-result-action-search-tabs = חיפוש לשוניות
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -709,3 +712,18 @@ remote-tabs-sync-now = סנכרון כעת
 # "More" item in macOS share menu
 menu-share-more =
     .label = עוד…
+ui-tour-info-panel-close =
+    .tooltiptext = סגירה
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = אפשר חלונות קופצים עבור { $uriHost }
+    .accesskey = ח
+
+##
+
+popups-infobar-dont-show-message =
+    .label = אל תראה הודעה זו בעת חסימת חלונות קופצים
+    .accesskey = א
