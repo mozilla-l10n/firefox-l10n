@@ -366,6 +366,8 @@ toolbar-overflow-customize-button =
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Затвори
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
