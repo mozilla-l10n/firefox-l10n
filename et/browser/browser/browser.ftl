@@ -515,3 +515,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Seda teadet ei näidata, kui hüpikaknad blokitakse
     .accesskey = d
+picture-in-picture-hide-toggle =
+    .label = Peida pilt-pildis lüliti
+    .accesskey = p
