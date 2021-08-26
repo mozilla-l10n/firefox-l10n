@@ -563,6 +563,9 @@ urlbar-result-action-search-bookmarks = Chwilio'r Nodau Tudalen
 urlbar-result-action-search-history = Chwilio'r Hanes
 urlbar-result-action-search-tabs = Chwilio'r Tabiau
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -730,3 +733,21 @@ remote-tabs-sync-now = Cydweddu Nawr
 # "More" item in macOS share menu
 menu-share-more =
     .label = Rhagor…
+ui-tour-info-panel-close =
+    .tooltiptext = Cau
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Caniatáu llamlenni ar gyfer { $uriHost }
+    .accesskey = l
+popups-infobar-block =
+    .label = Rhwystro llamlenni ar gyfer { $uriHost }
+    .accesskey = l
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Peidio dangos y neges pan mae llamlenni wedi eu rhwystro
+    .accesskey = P
