@@ -346,6 +346,9 @@ urlbar-result-action-visit = Vixita
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -449,3 +452,19 @@ eme-notifications-drm-content-playing = Quarche contegnuo aodio ò video in sto 
 
 ##
 
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Permetti i pop-up pe { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Blòcca i pop-up pe { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = No fâ vedde sta notiçia quande i pop-up son blocæ
+    .accesskey = N
