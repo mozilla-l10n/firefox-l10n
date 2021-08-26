@@ -735,3 +735,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ne pas afficher ce message lorsque des popups sont bloqués
     .accesskey = u
+picture-in-picture-hide-toggle =
+    .label = Masquer le bouton pour l’incrustation vidéo
+    .accesskey = M
