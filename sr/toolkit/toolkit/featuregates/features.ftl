@@ -26,12 +26,16 @@ experimental-features-media-jxl-description = Омогућавањем ове ф
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
     .label = Web API: inputmode
+# "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
+experimental-features-web-api-inputmode-description = Имплементација глобалног <a data-l10n-name="mdn-inputmode">inputmode</a> атрибута ажурирана је на основу <a data-l10n-name="whatwg">WHATWG спецификације</a>, али и даље морамо да уведемо друге промене, на пример да га учинимо доступним на „прихватљивом“ садржају. За више детаља погледајте <a data-l10n-name="bugzilla">грешку 1205133</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
+experimental-features-css-constructable-stylesheets-description = Додавање конструктора интерфејсу <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> и сродне промене омогућавају вам да креирате нове стилове без додавања стила у HTML. Ово увелико олакшава стварање стилова који се могу рециклирати за употребу са <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. За више детаља погледајте <a data-l10n-name="bugzilla">грешку 1520690</a>.
 experimental-features-devtools-color-scheme-simulation =
     .label = Алатке за програмере: симулација шеме боја
+experimental-features-devtools-color-scheme-simulation-description = Додаје могућност симулације различитих шема боја за тестирање <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> медијских упита. Користећи медијски упит, ваш стил може одговорити да ли корисник више воли светли или тамни кориснички интерфејс. Помоћу ове функције можете тестирати ваш код без потребе за променом подешавања прегледача (или оперативног система ако прегледач прати шему боја за цео систем). За више детаља погледајте <a data-l10n-name="bugzilla1">грешку 1550804</a> и <a data-l10n-name="bugzilla2">грешку 1137699</a>.
 experimental-features-devtools-execution-context-selector =
     .label = Алатке за програмере: селектор контекста извршавања
 experimental-features-devtools-compatibility-panel =
