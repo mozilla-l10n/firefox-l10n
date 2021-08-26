@@ -540,6 +540,9 @@ urlbar-result-action-search-bookmarks = Търсене в отметките
 urlbar-result-action-search-history = Търсене в историята
 urlbar-result-action-search-tabs = Търсене на раздели
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -700,3 +703,18 @@ remote-tabs-sync-now = Синхронизиране
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Затваряне
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Разрешаване на изскачащи прозорци от { $uriHost }
+    .accesskey = Р
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Без съобщение при блокиране на изскачащи прозорци
+    .accesskey = Б
