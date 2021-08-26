@@ -712,9 +712,15 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Разрешаване на изскачащи прозорци от { $uriHost }
     .accesskey = Р
+popups-infobar-block =
+    .label = Спиране на изскачащите прозорци от { $uriHost }
+    .accesskey = Р
 
 ##
 
 popups-infobar-dont-show-message =
     .label = Без съобщение при блокиране на изскачащи прозорци
     .accesskey = Б
+picture-in-picture-hide-toggle =
+    .label = Скриване на бутона за превключване на картина в картината
+    .accesskey = с
