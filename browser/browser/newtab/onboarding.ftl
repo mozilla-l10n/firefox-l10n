@@ -113,7 +113,7 @@ onboarding-mobile-phone-title = Instalează { -brand-product-name } pe telefon
 onboarding-mobile-phone-text = Descarcă { -brand-product-name } pentru iOS sau pentru Android și sincronizează-ți datele pe dispozitive.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
-onboarding-mobile-phone-button = Descarcă browserul pentru dispozitive mobile
+onboarding-mobile-phone-button = Descarcă browserul mobil
 onboarding-send-tabs-title = Trimite-ți instant file
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
