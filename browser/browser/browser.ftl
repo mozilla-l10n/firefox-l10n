@@ -732,3 +732,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = 擋下彈出型視窗時不顯示此訊息
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = 隱藏子母畫面切換按鈕
+    .accesskey = H
