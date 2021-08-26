@@ -283,6 +283,9 @@ urlbar-result-action-visit = സന്ദര്‍ശിക്കുക
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -383,3 +386,21 @@ eme-notifications-drm-content-playing = ഈ സൈറ്റിലുള്ള �
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = അടയ്ക്കുക
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = { $uriHost } ന്‌ പോപ്പപ്പുകള്‍ അനുവദിക്കുക
+    .accesskey = p
+popups-infobar-block =
+    .label = { $uriHost } ന്‌ പോപ്പപ്പുകള്‍ തടയുക
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = പോപ്പപ്പുകള്‍ തടയുമ്പോള്‍ ഇനി ഈ സന്ദേശം കാണിക്കരുതു്
+    .accesskey = D
