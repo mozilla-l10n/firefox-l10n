@@ -547,6 +547,9 @@ urlbar-result-action-search-bookmarks = Szukej we zokłodkach
 urlbar-result-action-search-history = Szukej w historyji
 urlbar-result-action-search-tabs = Szukej po kartach
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -707,3 +710,24 @@ remote-tabs-sync-now = Synchrōnizuj teroz
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Zawrzij
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Przizwōl na wyskakujōnce ôkna ze { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Zaszperuj wyskakujōnce ôkna ze { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Niy pokazuj tyj wiadōmości, jak wyskakujōnce ôkna sōm zaszperowane
+    .accesskey = N
+picture-in-picture-hide-toggle =
+    .label = Skryj szalter ôbrazu we ôbrozie
+    .accesskey = S
