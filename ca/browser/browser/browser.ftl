@@ -540,6 +540,9 @@ urlbar-result-action-search-bookmarks = Cerca en les adreces d'interès
 urlbar-result-action-search-history = Cerca en l'historial
 urlbar-result-action-search-tabs = Cerca en les pestanyes
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -700,3 +703,21 @@ remote-tabs-sync-now = Sincronitza ara
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Tanca
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Permet les finestres emergents per a { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Bloca les finestres emergents per a { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = No mostris aquest missatge quan es bloquin finestres emergents
+    .accesskey = n
