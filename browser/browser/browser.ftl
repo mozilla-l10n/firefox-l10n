@@ -32,9 +32,6 @@ browser-main-window-title = { -brand-full-name }
 ## Page Action Context Menu
 
 
-## Page Action menu
-
-
 ## Auto-hide Context Menu
 
 
@@ -62,9 +59,11 @@ browser-window-minimize-button =
 
 ## Tab actions
 
+
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -92,16 +91,19 @@ urlbar-go-button =
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 
 ## Subframe crash notification
 
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-sidebar-content =
     .aria-label = Utumenyetso
-
 bookmarks-toolbar-menu =
     .label = Umwanyabikoresho w'Utumenyetso
 bookmarks-toolbar-placeholder =
@@ -114,9 +116,12 @@ bookmarks-toolbar-placeholder-button =
 
 ## Pocket toolbar button
 
+
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
+
 
 ## More items
 
@@ -126,9 +131,31 @@ more-menu-go-offline =
 
 ## EME notification panel
 
+
 ## Password save/update panel
+
 
 ## Add-on removal warning
 
+
 ## Remote / Synced tabs
 
+
+##
+
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Gutuma Ibyirambura Bikoreshwa kuri { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Guhagarika Ibyirambura kuri { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Kuterekana ubu butumwa iyo ibyirambura byahagaritswe
+    .accesskey = D
