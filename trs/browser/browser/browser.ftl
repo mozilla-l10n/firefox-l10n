@@ -476,3 +476,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Si gà ra'nga ventana 'ngà narran' riña ventana râ'ñanj an
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Ga'nïnj huì sa ni'io' riña sa ni'io' Naduna
+    .accesskey = H
