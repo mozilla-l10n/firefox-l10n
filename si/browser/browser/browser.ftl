@@ -294,6 +294,9 @@ urlbar-result-action-visit = පිවිසෙන්න
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -393,3 +396,21 @@ toolbar-overflow-customize-button =
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = වසන්න
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Allow popups for { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Block popups for { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = පොප්-අප් අවහිර කර ඇතිවිට මෙම පණිවිඩය පෙන්වන්න එපා
+    .accesskey = D
