@@ -26,6 +26,8 @@ about-private-browsing-info-description = A { -brand-short-name } törli a keres
 about-private-browsing-need-more-privacy = Több adatvédelemre van szüksége?
 about-private-browsing-turn-on-vpn = Próbálja ki a { -mozilla-vpn-brand-name }-t
 about-private-browsing-learn-more-link = További tudnivalók
+about-private-browsing-hide-activity = Rejtse el tevékenységét és tartózkodási helyét, bárhol is böngésszen
+about-private-browsing-prominent-cta = Maradjon privát a { -mozilla-vpn-brand-name } használatával
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
