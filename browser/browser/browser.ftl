@@ -739,6 +739,18 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Дозволи искачуће прозоре за { $uriHost }
+    .accesskey = Д
+popups-infobar-block =
+    .label = Блокирај искачуће прозоре за { $uriHost }
+    .accesskey = Д
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Не приказуј ову поруку када су искачући прозори блокирани
+    .accesskey = Н
+picture-in-picture-hide-toggle =
+    .label = Сакриј прекидач „Слика у слици”
+    .accesskey = С
