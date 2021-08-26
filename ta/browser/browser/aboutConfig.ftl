@@ -2,12 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = எச்சரிக்கையுடன் தொடரவும்
+about-config-intro-warning-text = கூடுதல் உள்ளமைவு விருப்பங்களை மாற்றுவது { -brand-short-name } செயல்திறன் அல்லது பாதுகாப்பை பாதிக்கும்.
+about-config-intro-warning-checkbox = இந்த விருப்பங்களை அணுக முயற்சிக்கும்போது என்னை எச்சரிக்கவும்
+about-config-intro-warning-button = அபாயத்தை ஏற்றுக்கொண்டு தொடரவும்
 
 ##
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = இந்த விருப்பங்களை மாற்றுவது { -brand-short-name } செயல்திறன் அல்லது பாதுகாப்பை பாதிக்கும்.
+about-config-page-title = கூடுதல் விருப்பத்தேர்வுகள்
+about-config-search-input1 =
+    .placeholder = விருப்பத்தேர்வு பெயரைத் தேடு
 about-config-show-all = அனைத்தையும் காட்டு
-
 about-config-pref-add-button =
     .title = சேர்
 about-config-pref-toggle-button =

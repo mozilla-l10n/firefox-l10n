@@ -41,7 +41,7 @@ menu-menuitem-iphone-app = ஐபோன் மற்றம் ஐபேட்
 ## Login List
 
 login-list =
-    .aria-label = தேடல் வினவலுடன் பொருந்தக்கூடிய உள்நுழைவுகள்
+    .aria-label = தேடல் வினவலுடன் பொருந்தக்கூடிய புகுபதிகைகள்
 login-list-count =
     { $count ->
         [one] { $count } நுழைவு
