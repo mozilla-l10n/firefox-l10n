@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Саһан көрөөһүн)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Саһан көрөөһүн)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Саһан көрөөһүн)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Саһан көрөөһүн)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -67,7 +65,6 @@ browser-main-window-title = { -brand-full-name }
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Бу бэлиэни уларытыы ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -75,8 +72,6 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -139,13 +134,10 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Көрдөт эбэтэр аадырыһы ук
-
 urlbar-placeholder =
     .placeholder = Көрдөт эбэтэр аадырыһы ук
-
 urlbar-switch-to-tab =
     .value = Кыбытыгы арый:
-
 urlbar-go-button =
     .tooltiptext = Аадырыс устуруокатын аадырыһыгар киир
 
@@ -156,6 +148,9 @@ urlbar-go-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Labels shown above groups of urlbar results
 
 
 ## Full Screen and Pointer Lock UI
@@ -172,7 +167,6 @@ bookmarks-sidebar-content =
     .aria-label = Бэлиэлэр
 bookmarks-bookmark-edit-panel =
     .label = Бэлиэни уларытыы
-
 bookmarks-toolbar-menu =
     .label = Бэлиэтиир үстүрүмүөн
 bookmarks-toolbar-placeholder =
@@ -188,7 +182,9 @@ bookmarks-toolbar-placeholder-button =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
+
 
 ## More items
 
@@ -206,4 +202,20 @@ more-menu-go-offline =
 
 
 ## Remote / Synced tabs
+
+
+##
+
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = { $uriHost } ойон тахсар түннүктэрин көҥүллээ
+    .accesskey = p
+popups-infobar-block =
+    .label = { $uriHost } ойон тахсар түннүктэрин боп
+    .accesskey = p
+
+##
 
