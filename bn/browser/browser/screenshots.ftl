@@ -24,7 +24,7 @@ screenshots-notification-image-copied-details = আপনার শট ক্ল
 screenshots-request-error-title = বিকল।
 screenshots-request-error-details = দুঃখিত! আমরা আপনার সট সংরক্ষণ করতে পারিনি। অনুগ্রহ পুনরায় চেষ্টা করুন।
 screenshots-connection-error-title = আমরা আপনার স্ক্রিটসটসমূহ সংযোগ করতে পারছি না।
-screenshots-connection-error-details = screenshots-connection-error-details = অনুগ্রহ করে আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন। যদি আপনার ইন্টারনেট সংযোগ ঠিক থাকে, তাহলে { -screenshots-brand-name } সেবাটিতে সাময়িক সমস্যা দেখা দিয়েছে।
+screenshots-connection-error-details = অনুগ্রহ করে আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন। যদি আপনার ইন্টারনেট সংযোগ ঠিক থাকে, তাহলে { -screenshots-brand-name } সেবাটিতে সাময়িক সমস্যা দেখা দিয়েছে।
 screenshots-login-error-details = আমরা আপনার স্ক্রিনশট সংরক্ষণ করতে পারিনি কারণ { -screenshots-brand-name } সেবার সমস্যা আছে। অনুগ্রহ করে আবার চেষ্টা করুন।
 screenshots-unshootable-page-error-title = আমরা এই পাতার স্ক্রিনশট নিতে পারব না।
 screenshots-unshootable-page-error-details = এটা কোন আদর্শ ওয়েব পাতা না, তাই আপনি এটার স্ক্রিনশট নিতে পারবেন না।
