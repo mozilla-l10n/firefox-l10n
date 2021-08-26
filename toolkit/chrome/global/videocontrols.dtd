@@ -29,6 +29,7 @@ hovering over the video. -->
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "هنگام انجام کارهای دیگر در &brandShortName; ویدئوها را در پیش‌زمینه پخش کنید">
 
 <!ENTITY error.aborted "بارگیری فیلم متوقف شد.">
 <!ENTITY error.network "پخش ویدئو به دلیل خطای شبکه متوقف گردید.">
