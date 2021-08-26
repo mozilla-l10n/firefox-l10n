@@ -719,3 +719,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Non amosar esta mensaxe se as xanelas emerxentes están bloqueadas
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Agochar «Alternar imaxe en imaxe»
+    .accesskey = H
