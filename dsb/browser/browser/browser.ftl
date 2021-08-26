@@ -743,3 +743,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Toś tu powěsć njepokazaś, gaž wuskokujuce wokna se blokěruju
     .accesskey = n
+picture-in-picture-hide-toggle =
+    .label = Pśešaltowanje wobraz-we-wobrazu schowaś
+    .accesskey = P
