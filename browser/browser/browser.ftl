@@ -710,6 +710,8 @@ remote-tabs-sync-now = No syngronisearje
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Slute
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
@@ -723,3 +725,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Dit berjocht net toane as pop-upfinsters blokkearre wurde
+    .accesskey = b
