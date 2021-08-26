@@ -549,6 +549,9 @@ urlbar-result-action-search-bookmarks = ابحث في العلامات
 urlbar-result-action-search-history = ابحث في التأريخ
 urlbar-result-action-search-tabs = ابحث في الألسنة
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -709,3 +712,21 @@ remote-tabs-sync-now = زامِن الآن
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = أغلق
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = اسمح بالنوافذ المنبثقة من { $uriHost }
+    .accesskey = ن
+popups-infobar-block =
+    .label = احجب النوافذ المنبثقة من { $uriHost }
+    .accesskey = ن
+
+##
+
+popups-infobar-dont-show-message =
+    .label = لا تعرض هذه الرسالة عند حجب النوافذ المنبثقة
+    .accesskey = ت
