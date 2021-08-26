@@ -208,6 +208,8 @@ more-menu-go-offline =
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Bigire
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
@@ -221,3 +223,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Dema ku pop-up bê astenkirin, min hişyar neke
+    .accesskey = ê
