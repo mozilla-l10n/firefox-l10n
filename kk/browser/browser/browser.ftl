@@ -732,3 +732,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = "Атып шығатын" терезелерді болдырмау мүмкіндігі қосулы кезінде осы хабарламаны көрсетпеу
     .accesskey = п
+picture-in-picture-hide-toggle =
+    .label = Суреттегі сурет қосқышын жасыру
+    .accesskey = ы
