@@ -416,6 +416,15 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Izinkan popup untuk { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Sekat popup untuk { $uriHost }
+    .accesskey = p
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Jangan papar mesej ini apabila popup telah disekat
+    .accesskey = J
