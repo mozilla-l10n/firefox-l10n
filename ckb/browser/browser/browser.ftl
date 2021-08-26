@@ -392,6 +392,9 @@ urlbar-result-action-search-bookmarks = گەڕان لە دڵخوازەکان
 urlbar-result-action-search-history = گەڕان لە ناو مێژووی کاردا
 urlbar-result-action-search-tabs = گەڕان لە بازدەرەکان
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -501,3 +504,15 @@ toolbar-overflow-customize-button =
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = داخستن
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
+##
+
+picture-in-picture-hide-toggle =
+    .label = هێمادانانی وێنە-لەناو-وێنە بشارەوە
+    .accesskey = H
