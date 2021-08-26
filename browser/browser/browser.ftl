@@ -725,3 +725,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = 当弹出式窗口被拦截时不显示此消息
+    .accesskey = D
