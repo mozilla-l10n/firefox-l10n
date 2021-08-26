@@ -733,3 +733,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Älä näytä tätä viestiä kun ponnahdusikkuna estetään
     .accesskey = Ä
+picture-in-picture-hide-toggle =
+    .label = Piilota kuva kuvassa -kytkin
+    .accesskey = P
