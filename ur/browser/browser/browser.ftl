@@ -608,3 +608,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = جب پاپ اپ بلاک ہوں تو یہ پیغام نہ دکھائیں
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = تصویر میں تصویر ٹوگل چھپائیں
+    .accesskey = H
