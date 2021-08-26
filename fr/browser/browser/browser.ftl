@@ -717,6 +717,8 @@ remote-tabs-sync-now = Synchroniser maintenant
 # "More" item in macOS share menu
 menu-share-more =
     .label = Plus…
+ui-tour-info-panel-close =
+    .tooltiptext = Fermer
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
