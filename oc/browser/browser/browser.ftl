@@ -717,6 +717,8 @@ remote-tabs-sync-now = Sincronizar ara
 # "More" item in macOS share menu
 menu-share-more =
     .label = Mai…
+ui-tour-info-panel-close =
+    .tooltiptext = Tampar
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
@@ -730,3 +732,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Afichar pas aqueste messatge quand se blòcan de fenèstras sorgissentas
+    .accesskey = u
