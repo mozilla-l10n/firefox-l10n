@@ -428,6 +428,9 @@ urlbar-result-action-visit = Vesitar
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -534,6 +537,15 @@ eme-notifications-drm-content-playing = Bell audio u video d'iste puesto fan ser
 
 
 ## Remote / Synced tabs
+
+
+##
+
+ui-tour-info-panel-close =
+    .tooltiptext = Zarrar
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
 
 ##
