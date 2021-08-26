@@ -12,6 +12,13 @@ account-setup-description =
     { -brand-product-name } se pokusí automaticky najít funkční a doporučené nastavení serveru.
 account-setup-secondary-description = { -brand-product-name } automaticky vyhledá funkční a doporučenou konfiguraci serveru.
 account-setup-success-title = Účet byl úspěšně vytvořen
+account-setup-success-description =
+    Nyní můžete tento účet používat používat v { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "loc") }
+        [feminine] { -brand-short-name(case: "loc") }
+        [neuter] { -brand-short-name(case: "loc") }
+       *[other] aplikaci { -brand-short-name }
+    }.
 account-setup-success-secondary-description = Připojení souvisejících služeb a konfigurace pokročilého nastavení účtu vám může usnadnit další práci.
 
 ## Form fields
