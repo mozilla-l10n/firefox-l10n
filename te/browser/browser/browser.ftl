@@ -492,6 +492,9 @@ urlbar-result-action-search-bookmarks = ఇష్టాంశాలను వె
 urlbar-result-action-search-history = చరిత్రలో వెతకండి
 urlbar-result-action-search-tabs = ట్యాబులలో వెతకండి
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -634,3 +637,19 @@ remote-tabs-sync-now = ఇప్పుడే సింక్ చేయి
 # "More" item in macOS share menu
 menu-share-more =
     .label = మరిన్ని…
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = { $uriHost } కొరకు పాప్-అప్‌లను అనుమతించు
+    .accesskey = p
+popups-infobar-block =
+    .label = { $uriHost } కొరకు పాప్-అప్‌లను నిరోధించు
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = పాప్-అప్‌లు నిరోధించబడినప్పుడు ఈ సందేశాన్ని చూపించవద్దు
+    .accesskey = D
