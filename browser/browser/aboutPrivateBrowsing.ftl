@@ -25,6 +25,10 @@ about-private-browsing-not-private = 您目前不在隱私瀏覽視窗當中。
 about-private-browsing-info-description = { -brand-short-name } 會在結束或關閉所有隱私瀏覽分頁與視窗時，清除您的搜尋與上網紀錄。雖然這樣做不會讓您對網站或電信業者匿名，但還是可以更簡單就讓與您使用相同電腦的人無法得知您在線上做了什麼事。
 about-private-browsing-need-more-privacy = 需要更多隱私嗎？
 about-private-browsing-turn-on-vpn = 請試用 { -mozilla-vpn-brand-name }
+about-private-browsing-info-description-simplified = { -brand-short-name } 會在您關閉所有隱私視窗後清除搜尋與瀏覽紀錄，但這麼做還無法使您匿名。
+about-private-browsing-learn-more-link = 了解更多
+about-private-browsing-hide-activity = 隨處上網，隱藏行為活動與位置紀錄
+about-private-browsing-prominent-cta = 使用 { -mozilla-vpn-brand-name } 保持隱私
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
