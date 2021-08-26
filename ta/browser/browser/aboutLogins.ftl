@@ -7,18 +7,15 @@ about-logins-page-title = புகுபதிகைககளும் கட�
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = உங்கள் கடவுச்சொற்களை உங்களுடன் எடுத்துச் செல்லுங்கள்
+login-app-promo-title = உமது கடவுச்சொற்களை எங்கும் எடுத்துச்செல்க
 login-app-promo-subtitle = இலவசமாக { -lockwise-brand-name } செயிலியைப் பெறுக
 login-app-promo-android =
     .alt = Google Play இல் பெற
 login-app-promo-apple =
-    .alt = செயலி கடையிலிந்து பதிவிறக்குக
-
+    .alt = App Store-இல் தரவிறக்குக
 login-filter =
     .placeholder = புகுபதிகைகளைத் தேடு
-
 create-login-button = புதிய புகுபதிகையை உருவாக்கு
-
 fxaccounts-sign-in-text = உங்கள் கடவுச்சொற்களை மற்ற சாதனங்களில் பெறுங்கள்
 fxaccounts-sign-in-button = { -sync-brand-short-name } உள்நுழைக
 fxaccounts-avatar-button =
@@ -30,6 +27,7 @@ menu =
     .title = பட்டியைத் திற
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = மற்றொரு உலாவியிலிருந்து இறக்குமதி செய்க…
+about-logins-menu-menuitem-import-from-a-file = கோப்பிலிருந்து இறக்குமதி செய்க…
 about-logins-menu-menuitem-export-logins = உள்நுழைவுகளை ஏற்றுமதிச்செய் …
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -66,7 +64,6 @@ login-list-item-subtitle-missing-username = (பயனர் பெயர் இ
 ## Introduction screen
 
 login-intro-heading = உங்கள் சேமித்த உள்நுழைவுகளைத் தேடுகிறீர்களா? { -sync-brand-short-name } அமை
-
 about-logins-login-intro-heading-logged-in = ஒத்திசைக்கப்பட்ட உள்நுழைவுகள் எதுமில்லை.
 
 ## Login
@@ -128,14 +125,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = இரத்து
 confirmation-dialog-dismiss-button =
     .title = இரத்து
-
 about-logins-confirm-remove-dialog-title = இந்த உள்நுழைவை நீக்கவா?
 confirm-delete-dialog-message = இச்செயலை மீட்க முடியாது.
 about-logins-confirm-remove-dialog-confirm-button = நீக்கு
-
 about-logins-confirm-export-dialog-title = உள்நுழைவுகளையும் கடவுச்சொற்களையும் ஏற்றுமதி செய்
 about-logins-confirm-export-dialog-confirm-button = ஏற்றுமதி...
-
 confirm-discard-changes-dialog-title = சேமிக்காத மாற்றங்களை நிராகரிக்கவா?
 confirm-discard-changes-dialog-message = சேமிக்கப்படாத அனைத்து மாற்றங்களும் இழக்கப்படும்.
 confirm-discard-changes-dialog-confirm-button = நிராகரி
@@ -178,17 +172,21 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
