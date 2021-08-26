@@ -543,6 +543,9 @@ urlbar-result-action-search-bookmarks = Blêdwizers trochsykje
 urlbar-result-action-search-history = Skiednis trochsykje
 urlbar-result-action-search-tabs = Ljepblêden trochsykje
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -704,6 +707,19 @@ addon-removal-abuse-report-checkbox = Dizze útwreiding rapportearje oan { -vend
 remote-tabs-manage-account =
     .label = Account beheare
 remote-tabs-sync-now = No syngronisearje
+
+##
+
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Pop-upfinsters fan { $uriHost } tastean
+    .accesskey = P
+popups-infobar-block =
+    .label = Pop-upfinsters fan { $uriHost } blokkearje
+    .accesskey = P
 
 ##
 
