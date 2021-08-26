@@ -288,6 +288,8 @@ eme-notifications-drm-content-playing = Some audio or video on this site uses DR
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Close
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
@@ -301,3 +303,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Don’t show this message when pop-ups are blocked
+    .accesskey = D
