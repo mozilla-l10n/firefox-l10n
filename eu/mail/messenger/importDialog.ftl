@@ -6,4 +6,14 @@
 thunderbird-import-name = Thunderbird
 # Description of the import module
 thunderbird-import-description = Inportatu postak Thunderbird profil karpeta batetik
+import-from-thunderbird-zip =
+    .label = Thunderbird (Esportatutako profil babeskopia; zip fitxategia 2GB baino txikiagoa)
+    .accesskey = Z
+import-from-thunderbird-dir =
+    .label = Thunderbird (profil karpeta)
+    .accesskey = T
 import-select-profile-zip = Hautatu zip formatuko profil karpeta
+import-select-profile-dir = Hautatu profil karpeta
+zip-file-too-big-title = Zip fitxategia handiegia
+wizardpage-failed =
+    .label = Inportazioak huts egin du
