@@ -690,6 +690,18 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Permet i barcons a comparse par { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Bloche i barcons a comparse par { $uriHost }
+    .accesskey = p
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = No sta mostrâmi chest messaç cuant che i barcons a comparse a vegnin blocâts
+    .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Plate seletôr pal Picture-in-Picture
+    .accesskey = H
