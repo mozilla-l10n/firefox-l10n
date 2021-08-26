@@ -555,6 +555,9 @@ urlbar-result-action-search-bookmarks = Zapołožki přepytać
 urlbar-result-action-search-history = Historiju přepytać
 urlbar-result-action-search-tabs = Rajtarki přepytać
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -722,3 +725,21 @@ remote-tabs-sync-now = Nětko synchronizować
 # "More" item in macOS share menu
 menu-share-more =
     .label = Wjace…
+ui-tour-info-panel-close =
+    .tooltiptext = Začinić
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Wuskakowace wokna za { $uriHost } dowolić
+    .accesskey = u
+popups-infobar-block =
+    .label = Wuskakowace wokna za { $uriHost } blokować
+    .accesskey = u
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Tutu powěsć njepokazać, hdyž wuskakowace wokna so blokuja
+    .accesskey = n
