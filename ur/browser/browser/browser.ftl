@@ -590,6 +590,8 @@ remote-tabs-sync-now = ابھی سنک کریں
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = بند کریں
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
@@ -600,3 +602,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = جب پاپ اپ بلاک ہوں تو یہ پیغام نہ دکھائیں
+    .accesskey = D
