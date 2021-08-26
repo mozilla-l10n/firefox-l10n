@@ -544,6 +544,9 @@ urlbar-result-action-search-bookmarks = სანიშნების ძიე
 urlbar-result-action-search-history = ისტორიის ძიება
 urlbar-result-action-search-tabs = ჩანართების ძიება
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -711,3 +714,12 @@ remote-tabs-sync-now = დასინქრონება ახლავე
 # "More" item in macOS share menu
 menu-share-more =
     .label = სხვა…
+ui-tour-info-panel-close =
+    .tooltiptext = დახურვა
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
+##
+
