@@ -736,3 +736,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Na seall an teachdaireachd seo ma tha bacadh air priob-uinneagan
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Falaich toglachadh dealbh am broinn deilbh
+    .accesskey = h
