@@ -727,6 +727,15 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Дазволіць выплыўныя вокны з { $uriHost }
+    .accesskey = Д
+popups-infobar-block =
+    .label = Блакаваць выплыўныя вокны з { $uriHost }
+    .accesskey = Д
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Не паказваць гэта паведамленне, калі выплыўныя вокны затрымліваюцца
+    .accesskey = Н
