@@ -19,6 +19,9 @@ upgrade-dialog-new-item-icons-title = Pictograme proaspete și mesaje mai clare
 upgrade-dialog-new-item-icons-description = Te ajută să îți găsești drumul cu o atingere mai ușoară.
 upgrade-dialog-new-primary-default-button = Desemnează { -brand-short-name } ca browserul meu implicit
 upgrade-dialog-new-secondary-button = Nu acum
+# This string is only shown on Windows 7, where we intentionally suppress the
+# theme selection screen.
+upgrade-dialog-new-primary-win7-button = OK, am înțeles!
 
 ## Pin Firefox screen
 ##

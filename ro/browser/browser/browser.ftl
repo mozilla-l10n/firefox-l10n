@@ -462,10 +462,15 @@ urlbar-result-action-tabtosearch-web = Caută cu { $engine } direct din bara de 
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Caută în marcaje
 urlbar-result-action-search-tabs = Caută file
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
 
 ## Full Screen and Pointer Lock UI
 
@@ -528,7 +533,7 @@ bookmarks-tools-menu-button-visibility =
            *[other] Adaugă meniul de marcaje în bara de instrumente
         }
 bookmarks-search =
-    .label = Caută marcaje
+    .label = Caută în marcaje
 bookmarks-tools =
     .label = Instrumente pentru marcaje
 bookmarks-bookmark-edit-panel =

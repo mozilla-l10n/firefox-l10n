@@ -53,6 +53,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectează alt dispozitiv…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -117,7 +118,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY hideBookmarksSidebar.label         "Ascunde bara laterală de marcaje">
 <!ENTITY viewBookmarksToolbar.label         "Vezi bara de marcaje">
 <!ENTITY hideBookmarksToolbar.label         "Ascunde bara de marcaje">
-<!ENTITY searchBookmarks.label              "Caută marcaje">
+<!ENTITY searchBookmarks.label              "Caută în marcaje">
 <!ENTITY bookmarkingTools.label             "Instrumente pentru marcaje">
 <!ENTITY addBookmarksMenu.label             "Adaugă meniul de marcaje în bara de instrumente">
 <!ENTITY removeBookmarksMenu.label          "Elimină meniul de marcaje din bara de unstrumente">
@@ -144,13 +145,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Istoric">
-
 <!ENTITY historyUndoMenu.label "File închise recent">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ferestre închise recent">
 
 <!ENTITY appMenuHistory.showAll.label "Afișează tot istoricul">
-
 <!ENTITY appMenuHistory.clearRecent.label "Șterge istoricul recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurează sesiunea anterioară">
 <!ENTITY appMenuHistory.viewSidebar.label "Vezi bara laterală cu istoricul">
@@ -243,6 +242,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY quitApplicationCmdMac2.label   "Ieși din &brandShorterName;">
 
 <!ENTITY allowPopups.accesskey "p">
+
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
@@ -266,6 +266,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 
 <!ENTITY uiTour.infoPanel.close "Închide">
+
 
 <!ENTITY panicButton.thankyou.msg1                "Istoricul tău recent a fost șters.">
 <!ENTITY panicButton.thankyou.msg2                "Navigare în siguranță!">
