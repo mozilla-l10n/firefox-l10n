@@ -729,3 +729,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = ਜਦੋਂ ਪੋਪਅੱਪ ਬਲਾਕ ਕੀਤੇ ਹੋਣ ਤਾਂ ਇਹ ਸੁਨੇਹਾ ਨਾ ਵੇਖਾਓ
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਬਦਲਣ ਨੂੰ ਲੁਕਾਓ
+    .accesskey = H
