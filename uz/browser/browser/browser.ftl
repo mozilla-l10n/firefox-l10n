@@ -499,3 +499,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Paydo bo‘luvchi oynalar bloklanganda ushbu xabar ko‘rsatilmasin
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Rasm ichida rasm rejimini yashirish
+    .accesskey = H
