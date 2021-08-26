@@ -38,18 +38,27 @@ experimental-features-devtools-color-scheme-simulation =
 experimental-features-devtools-color-scheme-simulation-description = Додаје могућност симулације различитих шема боја за тестирање <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> медијских упита. Користећи медијски упит, ваш стил може одговорити да ли корисник више воли светли или тамни кориснички интерфејс. Помоћу ове функције можете тестирати ваш код без потребе за променом подешавања прегледача (или оперативног система ако прегледач прати шему боја за цео систем). За више детаља погледајте <a data-l10n-name="bugzilla1">грешку 1550804</a> и <a data-l10n-name="bugzilla2">грешку 1137699</a>.
 experimental-features-devtools-execution-context-selector =
     .label = Алатке за програмере: селектор контекста извршавања
+experimental-features-devtools-execution-context-selector-description = Ова функција приказује дугме на командној линији конзоле које вам омогућава да промените окружење у којем се извршава унети израз. За више детаља погледајте <a data-l10n-name="bugzilla1">грешку 1605154</a> и <a data-l10n-name="bugzilla2">грешку 1605153</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Алатке за програмере: панел компатибилности
+experimental-features-devtools-compatibility-panel-description = Бочна трака за прегледа страница која приказује информације о статусу компатибилности апликација међу прегледачима. За више детаља погледајте <a data-l10n-name="bugzilla">грешку 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Колачићи: SameSite=Lax по подразумеваном
+experimental-features-cookie-samesite-lax-by-default2-description = Подразумевано третирајте колачиће као “SameSite=Lax” ако атрибут “SameSite” није наведен. Програмери морају изричито захтевати тренутну неограничену употребу навођењем “SameSite=None”.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Колачићи: SameSite=None захтева атрибут secure
+experimental-features-cookie-samesite-none-requires-secure2-description = Колачић са “SameSite=None” атрибутом захтева атрибут secure. Ова функција захтева “Колачићи: SameSite=Lax по подразумеваном”.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = Кеш покретања странице about:home
+experimental-features-abouthome-startup-cache-description = Кеш меморија за почетни about:home документ, који се подразумевано учитава при покретању. Сврха кеша је побољшање перформанси покретања.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Колачићи: Schemeful SameSite
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Алатке за програмере: отклањање грешака сервис воркера
