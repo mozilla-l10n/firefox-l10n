@@ -739,3 +739,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ne prikazuj tega sporočila, ko so pojavna okna zavrnjena
     .accesskey = N
+picture-in-picture-hide-toggle =
+    .label = Skrij preklop slike v sliki
+    .accesskey = p
