@@ -184,6 +184,26 @@ show-cc-row-main-menuitem =
 show-cc-row-extra-menuitem =
     .label = 副本
     .accesskey = C
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = 副本
+    .title = 顯示「副本」欄位（{ ctrl-cmd-shift-pretty-prefix }{ $key }）
+bcc-address-row-label =
+    .value = 密件副本
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = 「密件副本」欄位
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = 密件副本
+    .accesskey = B
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = 密件副本
+    .title = 顯示「密件副本」欄位（{ ctrl-cmd-shift-pretty-prefix }{ $key }）
+extra-address-rows-menu-button =
+    .title = 其他要顯示的地址欄位
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
