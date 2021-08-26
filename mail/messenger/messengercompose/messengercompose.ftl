@@ -168,6 +168,53 @@ many-public-recipients-info =
         [few] Celkem { $count } adresáti v polích Komu a Kopie navzájem uvidí své adresy. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
        *[other] Celkem { $count } adresátů v polích Komu a Kopie navzájem uvidí své adresy. Pokud se tomu chcete vyhnout, použijte pole Skrytá kopie.
     }
+to-address-row-label =
+    .value = Komu
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Pole Komu
+    .accesskey = K
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Komu
+    .accesskey = K
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Komu
+    .title = Zobrazit pole Komu ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Kopie
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Pole Kopie
+    .accesskey = i
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Kopie
+    .accesskey = i
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Kopie
+    .title = Zobrazit pole Kopie ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Skrytá kopie
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Pole Skrytá kopie
+    .accesskey = S
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Skrytá kopie
+    .accesskey = S
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Skrytá kopie
+    .title = Zobrazit pole Skrytá kopie ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Další pole adresátů k zobrazení
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
