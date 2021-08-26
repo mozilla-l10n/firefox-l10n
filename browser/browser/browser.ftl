@@ -728,3 +728,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No mostrar este mensaje cuando se bloqueen ventanas emergentes
     .accesskey = N
+picture-in-picture-hide-toggle =
+    .label = Ocultar botón de Picture-in-Picture
+    .accesskey = H
