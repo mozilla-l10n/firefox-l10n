@@ -547,6 +547,9 @@ urlbar-result-action-search-bookmarks = Bladwijzers doorzoeken
 urlbar-result-action-search-history = Geschiedenis doorzoeken
 urlbar-result-action-search-tabs = Tabbladen doorzoeken
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -714,3 +717,21 @@ remote-tabs-sync-now = Nu synchroniseren
 # "More" item in macOS share menu
 menu-share-more =
     .label = Meer…
+ui-tour-info-panel-close =
+    .tooltiptext = Sluiten
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Pop-ups van { $uriHost } toestaan
+    .accesskey = P
+popups-infobar-block =
+    .label = Pop-ups van { $uriHost } blokkeren
+    .accesskey = P
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Dit bericht niet tonen wanneer pop-ups worden geblokkeerd
+    .accesskey = n
