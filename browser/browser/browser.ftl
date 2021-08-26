@@ -570,6 +570,9 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Չցուցադրել սա, երբ ելնող պատուհնները արգելափակված են
+    .accesskey = D
 picture-in-picture-hide-toggle =
     .label = Թաքցնել նկարը նկարի փոխարկիչում
     .accesskey = H
