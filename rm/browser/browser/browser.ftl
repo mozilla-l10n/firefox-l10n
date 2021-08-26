@@ -732,3 +732,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Betg mussar quest messadi sche fanestras popup vegnan bloccadas
     .accesskey = I
+picture-in-picture-hide-toggle =
+    .label = Zuppentar il buttun per activar/deactivar maletg-en-maletg
+    .accesskey = Z
