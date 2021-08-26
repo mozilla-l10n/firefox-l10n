@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Gera Nepen)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Gera Nepen)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Gera Nepen)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Gera Nepen)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -70,8 +68,6 @@ urlbar-star-edit-bookmark =
 
 ## Page Action Context Menu
 
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -140,13 +136,10 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Peyveke lêgerînê yan jî navnîşanek
-
 urlbar-placeholder =
     .placeholder = Peyveke lêgerînê yan jî navnîşanek
-
 urlbar-switch-to-tab =
     .value = Derbasî hilpekînê bibe:
-
 urlbar-go-button =
     .tooltiptext = Here navnîşana di Darikê Cihî de
 
@@ -157,6 +150,9 @@ urlbar-go-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Labels shown above groups of urlbar results
 
 
 ## Full Screen and Pointer Lock UI
@@ -173,7 +169,6 @@ bookmarks-sidebar-content =
     .aria-label = Bijare
 bookmarks-bookmark-edit-panel =
     .label = Vê bijareyê serast bike
-
 bookmarks-toolbar-menu =
     .label = Darikê Amûran a Bijareyan
 bookmarks-toolbar-placeholder =
@@ -189,7 +184,9 @@ bookmarks-toolbar-placeholder-button =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
+
 
 ## More items
 
@@ -207,4 +204,20 @@ more-menu-go-offline =
 
 
 ## Remote / Synced tabs
+
+
+##
+
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Ji bo { $uriHost }ê destûrê bide pencereyên pop-up
+    .accesskey = P
+popups-infobar-block =
+    .label = Ji bo { $uriHost }ê pop-upan asteng bike
+    .accesskey = P
+
+##
 
