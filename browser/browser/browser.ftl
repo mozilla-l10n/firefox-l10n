@@ -497,3 +497,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = পপ-আপ রোধ করা হলে এই বার্তাটি প্রদর্শন করা হবে না
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = পিকচার-ইন-পিকচার টগল লুকান
+    .accesskey = H
