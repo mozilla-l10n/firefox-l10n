@@ -423,6 +423,9 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = बुकमार्क खोजें
 urlbar-result-action-search-history = खोज इतिहास
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -542,3 +545,21 @@ remote-tabs-sync-now = अभी सिंक करें
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = बन्द करें
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = { $uriHost } के लिए पॉप-अप स्वीकारें
+    .accesskey = P
+popups-infobar-block =
+    .label = { $uriHost } के लिए पॉप-अप रोकें
+    .accesskey = P
+
+##
+
+popups-infobar-dont-show-message =
+    .label = इस संदेश को मत दिखाएँ जब पॉप-अप रोके जाते हैं
+    .accesskey = डी
