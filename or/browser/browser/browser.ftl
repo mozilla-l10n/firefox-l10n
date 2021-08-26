@@ -312,6 +312,8 @@ more-menu-go-offline =
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = ବନ୍ଦକରନ୍ତୁ
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
@@ -325,3 +327,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = ପପ୍-ଅପ୍ ଗୁଡ଼ିକୁ ଅଟକାଯାଇଥିବା ସମୟରେ ଏହି ସନ୍ଦେଶକୁ ଦର୍ଶାନ୍ତୁ ନାହିଁ
+    .accesskey = D
