@@ -732,3 +732,9 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Ani rehechauka ko ñe’ẽmondo ojejokóramo ovetã apysẽ
+    .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Emokañy votõ Picture-in-Picture (PIP)
+    .accesskey = H
