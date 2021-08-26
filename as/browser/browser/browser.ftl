@@ -548,6 +548,9 @@ urlbar-result-action-search-bookmarks = বুকমাৰ্কসমূহত 
 urlbar-result-action-search-history = ইতিহাসত সন্ধান কৰক
 urlbar-result-action-search-tabs = টেবসমূহত সন্ধান কৰক
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -712,3 +715,16 @@ remote-tabs-sync-now = এতিয়াই ছিংক কৰক
 # "More" item in macOS share menu
 menu-share-more =
     .label = অধিক…
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = { $uriHost } ৰ বাবে পপ-আপসমূহৰ অনুমতি দিয়ক
+    .accesskey = p
+popups-infobar-block =
+    .label = { $uriHost } ৰ বাবে পপ-আপসমূহ প্ৰতিৰোধ কৰক
+    .accesskey = p
+
+##
+
