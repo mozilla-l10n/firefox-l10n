@@ -551,6 +551,9 @@ urlbar-result-action-search-bookmarks = Iskanje po zaznamkih
 urlbar-result-action-search-history = Iskanje po zgodovini
 urlbar-result-action-search-tabs = Išči zavihke
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -718,3 +721,21 @@ remote-tabs-sync-now = Sinhroniziraj zdaj
 # "More" item in macOS share menu
 menu-share-more =
     .label = Več …
+ui-tour-info-panel-close =
+    .tooltiptext = Zapri
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Dovoli strani { $uriHost } odpiranje pojavnih oken
+    .accesskey = d
+popups-infobar-block =
+    .label = Prepovej strani { $uriHost } odpiranje pojavnih oken
+    .accesskey = d
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Ne prikazuj tega sporočila, ko so pojavna okna zavrnjena
+    .accesskey = N
