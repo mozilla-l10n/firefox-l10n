@@ -29,7 +29,7 @@
 <!ENTITY serverListAdd.accesskey      "s">
 <!ENTITY serverListAdd.tooltip        "Přidat nový server">
 <!ENTITY serverListEdit.label         "Upravit server…">
-<!ENTITY serverListEdit.accesskey     "">
+<!ENTITY serverListEdit.accesskey     "i">
 <!ENTITY serverListEdit.tooltip       "Upravit vybraný server">
 <!ENTITY serverListRemove.label       "Odebrat server">
 <!ENTITY serverListRemove.accesskey   "d">
