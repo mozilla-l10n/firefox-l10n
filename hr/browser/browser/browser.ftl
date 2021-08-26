@@ -719,6 +719,9 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Dozvoli skočne prozore za { $uriHost }
+    .accesskey = p
 popups-infobar-block =
     .label = Blokiraj skočne prozore za { $uriHost }
     .accesskey = p
