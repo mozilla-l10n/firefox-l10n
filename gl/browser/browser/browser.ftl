@@ -701,6 +701,8 @@ remote-tabs-sync-now = Sincronizar agora
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Pechar
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
@@ -714,3 +716,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Non amosar esta mensaxe se as xanelas emerxentes están bloqueadas
+    .accesskey = D
