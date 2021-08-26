@@ -548,6 +548,9 @@ urlbar-result-action-search-bookmarks = ਬੁੱਕਮਾਰਕ ਖੋਜੋ
 urlbar-result-action-search-history = ਅਤੀਤ ਖੋਜੋ
 urlbar-result-action-search-tabs = ਟੈਬਾਂ ਖੋਜੋ
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -705,6 +708,15 @@ addon-removal-abuse-report-checkbox = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਬਾਰ�
 remote-tabs-manage-account =
     .label = ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 remote-tabs-sync-now = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+
+##
+
+ui-tour-info-panel-close =
+    .tooltiptext = ਬੰਦ ਕਰੋ
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
