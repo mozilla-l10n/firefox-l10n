@@ -9,6 +9,7 @@
 ## - Transliterated.
 ## - Translated.
 
+
 ## The following feature names must be treated as a brand.
 ##
 ## They cannot be:
@@ -99,6 +100,56 @@
     }
     .gender = masculine
 -screenshots-brand-name = Firefox Screenshots
--mozilla-vpn-brand-name = Mozilla VPN
+-mozilla-vpn-brand-name =
+    { $case ->
+       *[nom] Mozilla VPN
+        [gen] Mozilly VPN
+        [dat] Mozille VPN
+        [acc] Mozillu VPN
+        [voc] Mozillo VPN
+        [loc] Mozille VPN
+        [ins] Mozillou VPN
+    }
+    .gender = feminine
 -profiler-brand-name = Firefox Profiler
 -translations-brand-name = Firefox Translations
+# “Suggest” can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefox-suggest-brand-name =
+    { $case ->
+       *[nom]
+            { $capitalization ->
+               *[upper] Návrhy Firefoxu
+                [lower] návrhy Firefoxu
+            }
+        [gen]
+            { $capitalization ->
+               *[upper] Návrhů Firefoxu
+                [lower] návrhů Firefoxu
+            }
+        [dat]
+            { $capitalization ->
+               *[upper] Návrhům Firefoxu
+                [lower] návrhům Firefoxu
+            }
+        [acc]
+            { $capitalization ->
+               *[upper] Návrhy Firefoxu
+                [lower] návrhy Firefoxu
+            }
+        [voc]
+            { $capitalization ->
+               *[upper] Návrhy Firefoxu
+                [lower] návrhy Firefoxu
+            }
+        [loc]
+            { $capitalization ->
+               *[upper] Návrzích Firefoxu
+                [lower] návrzích Firefoxu
+            }
+        [ins]
+            { $capitalization ->
+               *[upper] Návrhy Firefoxu
+                [lower] návrhy Firefoxu
+            }
+    }
