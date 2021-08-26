@@ -720,6 +720,18 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Alloo lowp-ups fur { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Block lowp-ups fur { $uriHost }
+    .accesskey = p
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Dinnae kythe this message whan lowp-ups are blockit
+    .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Hide Pictur-in-Pictur Toggle
+    .accesskey = H
