@@ -570,3 +570,6 @@ popups-infobar-block =
 
 ##
 
+picture-in-picture-hide-toggle =
+    .label = Թաքցնել նկարը նկարի փոխարկիչում
+    .accesskey = H
