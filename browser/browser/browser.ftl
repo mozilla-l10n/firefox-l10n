@@ -536,6 +536,9 @@ urlbar-result-action-search-bookmarks = Cari Markah
 urlbar-result-action-search-history = Cari di Riwayat
 urlbar-result-action-search-tabs = Cari Tab
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -696,3 +699,21 @@ remote-tabs-sync-now = Sinkronkan Sekarang
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Tutup
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Izinkan pop-up untuk { $uriHost }
+    .accesskey = i
+popups-infobar-block =
+    .label = Blokir pop-up untuk { $uriHost }
+    .accesskey = i
+
+##
+
+picture-in-picture-hide-toggle =
+    .label = Sembunyikan Sakelar Gambar-dalam-Gambar
+    .accesskey = S
