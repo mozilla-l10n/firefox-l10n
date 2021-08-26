@@ -544,6 +544,9 @@ urlbar-result-action-search-bookmarks = Бетбелгілерден іздеу
 urlbar-result-action-search-history = Тарихтан іздеу
 urlbar-result-action-search-tabs = Беттерден іздеу
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -711,3 +714,21 @@ remote-tabs-sync-now = Қазір синхрондау
 # "More" item in macOS share menu
 menu-share-more =
     .label = Көбірек…
+ui-tour-info-panel-close =
+    .tooltiptext = Жабу
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = { $uriHost } үшін "атып шығатын" терезелерді болдыру
+    .accesskey = т
+popups-infobar-block =
+    .label = { $uriHost } үшін "атып шығатын" терезелерді болдырмау
+    .accesskey = т
+
+##
+
+popups-infobar-dont-show-message =
+    .label = "Атып шығатын" терезелерді болдырмау мүмкіндігі қосулы кезінде осы хабарламаны көрсетпеу
+    .accesskey = п
