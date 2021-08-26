@@ -547,6 +547,9 @@ urlbar-result-action-search-bookmarks = Nadi ticraḍ n yisebtar
 urlbar-result-action-search-history = Nadi deg umazray
 urlbar-result-action-search-tabs = Nadi deg waccaren
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -714,3 +717,18 @@ remote-tabs-sync-now = Mtawi tura
 # "More" item in macOS share menu
 menu-share-more =
     .label = Ugar…
+ui-tour-info-panel-close =
+    .tooltiptext = Mdel
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Sireg isfuyla udhimen i { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Sewḥel isfuyla udhimen i { $uriHost }
+    .accesskey = p
+
+##
+
