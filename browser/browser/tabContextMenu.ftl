@@ -105,7 +105,7 @@ tab-context-close-n-tabs =
             [1] タブを閉じる
            *[other] { $tabCount } 個のタブを閉じる
         }
-    .accesskey = C		
+    .accesskey = C
 tab-context-move-tabs =
     .label = タブを移動
     .accesskey = v
