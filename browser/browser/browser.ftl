@@ -213,3 +213,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = O se ke wa laetša molaetša wo ge dirunyi di thibetšwe
+    .accesskey = D
