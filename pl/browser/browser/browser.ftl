@@ -739,3 +739,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Nie pokazuj tej wiadomości, kiedy wyskakujące okna są blokowane
     .accesskey = N
+picture-in-picture-hide-toggle =
+    .label = Ukryj przycisk „Obraz w obrazie”
+    .accesskey = U
