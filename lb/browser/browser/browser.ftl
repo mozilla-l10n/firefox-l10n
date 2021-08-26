@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Private Modus)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Private Modus)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Private Modus)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Private Modus)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -89,7 +87,6 @@ urlbar-microphone-blocked =
     .tooltiptext = Du hues Däi Mikro fir dësen Internetsite gespaart.
 urlbar-screen-blocked =
     .tooltiptext = Du hues den Zougrëff op Däin Ecran fir dësen Internetsite gespaart.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -97,8 +94,6 @@ urlbar-star-edit-bookmark =
 
 ## Page Action Context Menu
 
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -115,14 +110,11 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Sichastellungen änneren
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sichastellungen änneren
-
 search-one-offs-context-set-as-default =
     .label = Als Standard-Sichmaschinn festleeën
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -145,7 +137,6 @@ bookmark-panel-done-button =
 
 identity-connection-file = Dës Säit ass op Dengem Computer gespäichert.
 identity-weak-encryption = Dës Säit benotzt eng schwaach Verschlësselung.
-
 identity-learn-more =
     .value = Fir méi ze wëssen
 identity-more-info-link-text =
@@ -182,14 +173,11 @@ browser-window-close-button =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Sichen oder Adress aginn
-
 urlbar-placeholder =
     .placeholder = Sichen oder Adress aginn
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Erweiderung:
-
 urlbar-go-button =
     .tooltiptext = D'Adress aus der Leescht lueden
 
@@ -203,6 +191,9 @@ urlbar-result-action-visit = Besichen
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -210,12 +201,9 @@ urlbar-result-action-visit = Besichen
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ass elo am Vollbildmodus
 fullscreen-warning-no-domain = Dëst Dokument ass elo am Vollbildmodus
-
-
 fullscreen-exit-button = Vollbild zoumaachen (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Vollbild zoumaachen (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -241,7 +229,6 @@ bookmarks-search =
     .label = An de Lieszeeche sichen
 bookmarks-bookmark-edit-panel =
     .label = Dëst Lieszeechen änneren
-
 bookmarks-toolbar-menu =
     .label = Lieszeechensymbolleescht
 bookmarks-toolbar-placeholder =
@@ -258,6 +245,7 @@ library-bookmarks-menu =
 
 
 ## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 
@@ -278,4 +266,16 @@ more-menu-go-offline =
 
 
 ## Remote / Synced tabs
+
+
+##
+
+ui-tour-info-panel-close =
+    .tooltiptext = Zoumaachen
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
+##
 
