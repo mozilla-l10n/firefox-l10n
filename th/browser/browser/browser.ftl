@@ -536,6 +536,9 @@ urlbar-result-action-search-bookmarks = ค้นหาที่คั่นห�
 urlbar-result-action-search-history = ค้นหาประวัติ
 urlbar-result-action-search-tabs = ค้นหาแท็บ
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -699,3 +702,12 @@ remote-tabs-sync-now = ซิงค์ตอนนี้
 # "More" item in macOS share menu
 menu-share-more =
     .label = เพิ่มเติม…
+ui-tour-info-panel-close =
+    .tooltiptext = ปิด
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
+##
+
