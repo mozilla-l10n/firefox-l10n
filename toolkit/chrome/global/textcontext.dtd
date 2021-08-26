@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY spellAddToDictionary.label "사전 추가">
+<!ENTITY spellAddToDictionary.label "사전에 추가">
 <!ENTITY spellAddToDictionary.accesskey "o">
-<!ENTITY spellUndoAddToDictionary.label "맞춤법 검사 사전 추가 실행 취소">
+<!ENTITY spellUndoAddToDictionary.label "사전에 추가 취소">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "맞춤법 검사">
 <!ENTITY spellCheckToggle.accesskey "g">
