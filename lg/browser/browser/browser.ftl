@@ -209,3 +209,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Tolaga bubaka buno nga bukyeleeta buzibiridwa
+    .accesskey = D
