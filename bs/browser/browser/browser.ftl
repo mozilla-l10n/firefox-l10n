@@ -466,3 +466,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ne prikazuj ovu poruku kada su pop-upi blokirani
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Sakrij preklop sa slike u sliku
+    .accesskey = H
