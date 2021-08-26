@@ -540,6 +540,9 @@ urlbar-result-action-search-bookmarks = Hanapin sa mga Bookmark
 urlbar-result-action-search-history = Hanapin sa Kasaysayan
 urlbar-result-action-search-tabs = Hanapin sa mga Tab
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -696,3 +699,13 @@ remote-tabs-sync-now = I-sync Ngayon
 # "More" item in macOS share menu
 menu-share-more =
     .label = Higit pa...
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Payagan ang mga pop-up para sa { $uriHost }
+    .accesskey = p
+
+##
+
