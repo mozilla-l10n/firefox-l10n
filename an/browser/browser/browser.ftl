@@ -559,3 +559,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No amostrar iste mensache quan se bloquen las finestras emerchents
     .accesskey = N
+picture-in-picture-hide-toggle =
+    .label = Amaga lo commutador d'imachen incrustada
+    .accesskey = A
