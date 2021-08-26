@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Okunoonya Okutongozeddwa)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Okunoonya Okutongozeddwa)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Okunoonya Okutongozeddwa)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Okunoonya Okutongozeddwa)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -66,8 +64,6 @@ browser-main-window-title = { -brand-full-name }
 
 ## Page Action Context Menu
 
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -130,7 +126,6 @@ popup-select-microphone =
 
 urlbar-switch-to-tab =
     .value = Kyuusa ku Mapeesa
-
 urlbar-go-button =
     .tooltiptext = Genda ku Ndagiriro eri mu Kabawo Akalagirira
 
@@ -141,6 +136,9 @@ urlbar-go-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Labels shown above groups of urlbar results
 
 
 ## Full Screen and Pointer Lock UI
@@ -159,7 +157,6 @@ bookmarks-search =
     .label = Noonya Obulambe
 bookmarks-bookmark-edit-panel =
     .label = Longoosa Akalambe Kano
-
 bookmarks-toolbar-menu =
     .label = Akabawo Kobulambe
 bookmarks-toolbar-placeholder =
@@ -175,7 +172,9 @@ bookmarks-toolbar-placeholder-button =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
+
 
 ## More items
 
@@ -193,4 +192,20 @@ more-menu-go-offline =
 
 
 ## Remote / Synced tabs
+
+
+##
+
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Kkiriza bukyeleeta bwa { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Zibikira bukyeleeta bwa { $uriHost }
+    .accesskey = p
+
+##
 
