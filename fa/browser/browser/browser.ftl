@@ -732,3 +732,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = این پیام را هر زمان که بالاپرها مسدود می‌شوند نمایش نده
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = مخفی کردن تصویر-در-تصویر
+    .accesskey = H
