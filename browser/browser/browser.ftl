@@ -547,6 +547,9 @@ urlbar-result-action-search-bookmarks = Könyvjelzők keresése
 urlbar-result-action-search-history = Előzmények keresése
 urlbar-result-action-search-tabs = Lapok keresése
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -714,3 +717,21 @@ remote-tabs-sync-now = Szinkronizálás most
 # "More" item in macOS share menu
 menu-share-more =
     .label = Továbbiak…
+ui-tour-info-panel-close =
+    .tooltiptext = Bezárás
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Felugró ablakok engedélyezése innen: { $uriHost }
+    .accesskey = m
+popups-infobar-block =
+    .label = Felugró ablakok tiltása innen: { $uriHost }
+    .accesskey = m
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Ne jelenjen meg ez az üzenet a felugró ablakok blokkolásakor.
+    .accesskey = n
