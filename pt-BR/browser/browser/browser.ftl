@@ -729,3 +729,9 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Não mostrar esta mensagem ao bloquear popups
+    .accesskey = N
+picture-in-picture-hide-toggle =
+    .label = Ocultar seletor de picture-in-picture
+    .accesskey = O
