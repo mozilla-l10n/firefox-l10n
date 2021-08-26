@@ -452,6 +452,8 @@ eme-notifications-drm-content-playing = Quarche contegnuo aodio ò video in sto 
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Særa
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
