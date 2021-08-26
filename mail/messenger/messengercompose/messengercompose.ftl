@@ -195,7 +195,7 @@ cc-address-row-label =
 show-cc-row-main-menuitem =
     .label = Polo Kopija
     .accesskey = P
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
 # The label should match the show-cc-row-button text.
 show-cc-row-extra-menuitem =
@@ -203,14 +203,24 @@ show-cc-row-extra-menuitem =
     .accesskey = K
 #   $key (String) - the shortcut key for this field
 show-cc-row-button = Kopija
-    .title = Polo Kopija pokazać ({ ctrl-cmd-shift-pretty-prefix })
+    .title = Polo Kopija pokazać ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 bcc-address-row-label =
     .value = Schowana kopija
 #   $key (String) - the shortcut key for this field
 show-bcc-row-main-menuitem =
     .label = Polo Schowana kopija
     .accesskey = S
-    .acceltext = { ctrl-cmd-shift-pretty-prefix }
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Schowana kopija
+    .accesskey = S
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Schowana kopija
+    .title = Polo Schowana kopija pokazać ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Druhe adresowe pola, kotrež so maja pokazać
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
