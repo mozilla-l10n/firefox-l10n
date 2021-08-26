@@ -725,6 +725,12 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } açılır pencerelerine izin ver
     .accesskey = p
+popups-infobar-block =
+    .label = { $uriHost } açılır pencerelerini engelle
+    .accesskey = p
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Açılır pencereler engellendiğinde bu iletiyi gösterme
+    .accesskey = m
