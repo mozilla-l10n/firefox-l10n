@@ -554,7 +554,7 @@
 <!ENTITY junkItem.title "Nesolicitat">
 <!ENTITY junkButton.label "Nesolicitat">
 <!ENTITY notJunkButton.label "Nu e nesolicitat">
-<!ENTITY addressBookButton.label "Contacte">
+<!ENTITY addressBookButton.label "Agendă de contacte">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Căutare globală">
 <!ENTITY searchItem.title "Căutare rapidă">
