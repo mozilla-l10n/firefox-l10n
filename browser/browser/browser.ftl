@@ -734,3 +734,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Açılır pencereler engellendiğinde bu iletiyi gösterme
     .accesskey = m
+picture-in-picture-hide-toggle =
+    .label = Görüntü içinde görüntü düğmesini gizle
+    .accesskey = G
