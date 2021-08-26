@@ -464,6 +464,9 @@ urlbar-result-action-tabtosearch-web = Caută cu { $engine } direct din bara de 
 
 urlbar-result-action-search-tabs = Caută file
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -611,3 +614,21 @@ remote-tabs-sync-now = Sincronizează acum
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Închide
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Permite ferestre pop-up pentru { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Blochează ferestrele pop-up pentru { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Nu afișa acest mesaj când sunt blocate ferestre pop-up
+    .accesskey = D
