@@ -732,3 +732,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Non monstrar iste message quando le fenestras emergente es blocate
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Celar le commutator imagine-in-imagine
+    .accesskey = C
