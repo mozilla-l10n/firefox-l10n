@@ -620,6 +620,8 @@ remote-tabs-sync-now = Sincronizar ntañu´u
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Nakasɨ
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
