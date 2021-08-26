@@ -540,6 +540,9 @@ urlbar-result-action-search-bookmarks = 북마크 검색
 urlbar-result-action-search-history = 기록 검색
 urlbar-result-action-search-tabs = 탭 검색
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -707,3 +710,12 @@ remote-tabs-sync-now = 지금 동기화
 # "More" item in macOS share menu
 menu-share-more =
     .label = 더보기…
+ui-tour-info-panel-close =
+    .tooltiptext = 닫기
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
+##
+
