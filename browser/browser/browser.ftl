@@ -264,6 +264,9 @@ urlbar-result-action-search-w-engine = Пребарај со { $engine }
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -363,3 +366,19 @@ toolbar-overflow-customize-button =
 
 ##
 
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Дозволи скокачки прозорци од { $uriHost }
+    .accesskey = с
+popups-infobar-block =
+    .label = Блокирај скокачки прозорци од { $uriHost }
+    .accesskey = с
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Не ја покажувај оваа порака кога се блокираат скокачки прозорци
+    .accesskey = Н
