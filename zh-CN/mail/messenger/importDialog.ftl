@@ -18,3 +18,4 @@ zip-file-too-big-title = Zip 文件太大
 zip-file-too-big-message = 所选的 Zip 文件大于 2GB。请先解压缩，然后从解压缩的文件夹中导入。
 wizardpage-failed =
     .label = 导入失败
+wizardpage-failed-message = 导入意外失败，错误控制台中可能提供有更多信息。
