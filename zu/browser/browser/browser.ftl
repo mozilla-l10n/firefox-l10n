@@ -211,3 +211,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Ungawuvezi lo myalezi uma okuqhamuka esikhaleni kuvinjelwe
+    .accesskey = D
