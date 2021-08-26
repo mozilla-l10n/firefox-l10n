@@ -718,6 +718,12 @@ menu-share-more =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = 允許 { $uriHost } 的彈出型視窗
+    .accesskey = p
+popups-infobar-block =
+    .label = 封鎖 { $uriHost } 的彈出型視窗
+    .accesskey = p
 
 ##
 
