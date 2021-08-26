@@ -751,3 +751,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Peidio dangos y neges pan mae llamlenni wedi eu rhwystro
     .accesskey = P
+picture-in-picture-hide-toggle =
+    .label = Cuddio'r Togl Llun mewn Llun
+    .accesskey = L
