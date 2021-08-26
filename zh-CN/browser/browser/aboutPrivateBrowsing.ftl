@@ -28,6 +28,7 @@ about-private-browsing-turn-on-vpn = 请试用 { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-simplified = { -brand-short-name } 会在关闭所有隐私窗口时清除搜索记录与浏览历史，但这样并不能让您匿名。
 about-private-browsing-learn-more-link = 详细了解
 about-private-browsing-hide-activity = 隐藏您的浏览活动和位置
+about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } 可提供隐私保护
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
