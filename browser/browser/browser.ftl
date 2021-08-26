@@ -551,6 +551,9 @@ urlbar-result-action-search-bookmarks = Lorg sna comharran-lìn
 urlbar-result-action-search-history = Lorg san eachdraidh
 urlbar-result-action-search-tabs = Lorg sna tabaichean
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -715,3 +718,21 @@ remote-tabs-sync-now = Sioncronaich an-dràsta
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Dùin
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Ceadaich priob-uinneagan do { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Cuir bacadh air priob-uinneagan o { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Na seall an teachdaireachd seo ma tha bacadh air priob-uinneagan
+    .accesskey = D
