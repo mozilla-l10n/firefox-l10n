@@ -547,6 +547,9 @@ urlbar-result-action-search-bookmarks = Cercar dins los marcapaginas
 urlbar-result-action-search-history = Cercar dins l’istoric
 urlbar-result-action-search-tabs = Cercar pels onglets
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -714,3 +717,16 @@ remote-tabs-sync-now = Sincronizar ara
 # "More" item in macOS share menu
 menu-share-more =
     .label = Mai…
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Autorizar las fenèstras sorgissentas de { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Blocar las fenèstras sorgissentas de { $uriHost }
+    .accesskey = p
+
+##
+
