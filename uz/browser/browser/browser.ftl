@@ -368,6 +368,9 @@ urlbar-result-action-visit = Kirish
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -478,3 +481,21 @@ eme-notifications-drm-content-playing = Ushbu saytdagi bir nechta audio yoki vid
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Yopish
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = { $uriHost } uchun paydo bo‘luvchi oynalarga ruxsat berish
+    .accesskey = p
+popups-infobar-block =
+    .label = { $uriHost } uchun paydo bo‘luvchi oynalarni bloklash
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Paydo bo‘luvchi oynalar bloklanganda ushbu xabar ko‘rsatilmasin
+    .accesskey = D
