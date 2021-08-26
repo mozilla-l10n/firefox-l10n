@@ -18,3 +18,4 @@ zip-file-too-big-title = ZIP 檔太大
 zip-file-too-big-message = 選擇的 ZIP 檔案大小超過 2GB。請先解壓縮，然後改匯入解壓縮的資料匣。
 wizardpage-failed =
     .label = 匯入失敗
+wizardpage-failed-message = 發生未預期的匯入失敗，錯誤主控台中可能有更多資訊。
