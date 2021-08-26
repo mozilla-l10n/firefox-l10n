@@ -9,13 +9,10 @@
 
 title = Ахбори муҳим
 heading = Тағйирот ба профили { -brand-short-name }-и шумо
-
 changed-title = Чӣ тағйир ёфт?
-
+changed-desc-profiles = Ин насби { -brand-short-name } профили нав дорад. Профил маҷмӯи файлҳоест, ки Firefox дар он иттилоотро ба монанди хатбаракҳо, ниҳонвожаҳо ва афзалиятҳои корбар нигоҳ медорад.
 options-title = Имконоти ман кадоманд?
-
 resources = Манбаъҳо:
-
 sync-header = Ворид шавед ё { -fxaccount-brand-name }-ро эҷод намоед
 sync-label = Почтаи электронии худро ворид кунед
 sync-input =

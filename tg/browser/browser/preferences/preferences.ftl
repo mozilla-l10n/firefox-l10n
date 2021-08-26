@@ -422,6 +422,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Равзанаҳо ва варақаҳои нав
+home-new-windows-tabs-description2 = Интихоб кунед, ки чӣ бояд нишон дода шавад, вақте ки шумо саҳифаи асосӣ, равзанаҳои нав ва варақаҳои навро мекушоед.
 
 ## Home Section - Home Page Customization
 
@@ -458,6 +459,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Муҳтавои саҳифаи асосии Firefox
+home-prefs-content-description = Интихоб кунед, ки кадом мавод бояд дар саҳифаи асосии Firefox нишон дода шавад.
 home-prefs-search-header =
     .label = Ҷустуҷӯ дар Интернет
 home-prefs-topsites-header =
