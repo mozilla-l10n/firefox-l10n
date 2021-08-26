@@ -716,6 +716,18 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Cho phép { $uriHost } mở cửa sổ bật lên
+    .accesskey = p
+popups-infobar-block =
+    .label = Chặn cửa sổ bật lên từ { $uriHost }
+    .accesskey = p
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Không hiện thông báo này khi có cửa sổ bật lên bị chặn
+    .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Ẩn nút hình trong hình
+    .accesskey = H
