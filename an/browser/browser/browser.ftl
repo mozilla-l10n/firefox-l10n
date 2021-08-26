@@ -547,6 +547,15 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Permitir as finestras emerchents ta { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Blocar as finestras emerchents ta { $uriHost }
+    .accesskey = p
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = No amostrar iste mensache quan se bloquen las finestras emerchents
+    .accesskey = N
