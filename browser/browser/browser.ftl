@@ -724,6 +724,18 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Дозволити спливні вікна для { $uriHost }
+    .accesskey = о
+popups-infobar-block =
+    .label = Блокувати спливні вікна для { $uriHost }
+    .accesskey = о
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Не показувати це повідомлення при блокуванні спливних вікон
+    .accesskey = е
+picture-in-picture-hide-toggle =
+    .label = Приховати перемикач Зображення в зображенні
+    .accesskey = х
