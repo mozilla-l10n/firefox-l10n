@@ -541,6 +541,9 @@ urlbar-result-action-search-bookmarks = Buscar nos marcadores
 urlbar-result-action-search-history = Buscar no historial
 urlbar-result-action-search-tabs = Buscar nas lapelas
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -695,6 +698,19 @@ addon-removal-abuse-report-checkbox = Denunciar esta extensión a { -vendor-shor
 remote-tabs-manage-account =
     .label = Xestionar conta
 remote-tabs-sync-now = Sincronizar agora
+
+##
+
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Permitir xanelas emerxentes de { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Bloquear xanelas emerxentes de { $uriHost }
+    .accesskey = p
 
 ##
 
