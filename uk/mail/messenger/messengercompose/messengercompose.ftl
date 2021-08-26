@@ -168,6 +168,48 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Показати { bcc-compose-address-row-label.value } Поле ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = { $count } одержувачі у Кому та Копія бачитимуть адресу одне одного. Ви можете уникнути розголошення одержувачів, використовуючи замість цього приховану копію.
+to-address-row-label =
+    .value = Кому
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Поле кому
+    .accesskey = П
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Кому
+    .accesskey = К
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Кому
+    .title = Показати поле кому ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Копія
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Поле копія
+    .accesskey = к
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Копія
+    .accesskey = о
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Копія
+    .title = Показати поле копія ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Прихована копія
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Поле прихована копія
+    .accesskey = л
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Прихована копія
+    .accesskey = и
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
