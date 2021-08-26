@@ -157,6 +157,51 @@ bcc-compose-show-address-row-label =
     .tooltiptext = 显示“{ bcc-compose-address-row-label.value }”栏（{ bcc-compose-show-address-row-menuitem.acceltext }）
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = “收件人（To）”与“抄送（Cc）”共有 { $count } 位，他们可以看到彼此的邮箱地址。您可以改用“密送”来避免泄露收件人信息。
+to-address-row-label =
+    .value = 收件人
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = 收件人栏
+    .accesskey = T
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = 收件人
+    .accesskey = T
+#   $key (String) - the shortcut key for this field
+show-to-row-button = 收件人
+    .title = 显示收件人栏（{ ctrl-cmd-shift-pretty-prefix }{ $key }）
+cc-address-row-label =
+    .value = 抄送
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = 抄送栏
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = 抄送
+    .accesskey = C
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = 抄送
+    .title = 显示抄送栏（{ ctrl-cmd-shift-pretty-prefix }{ $key }）
+bcc-address-row-label =
+    .value = 密送
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = 密送栏
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = 密送
+    .accesskey = B
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = 密送
+    .title = 显示密送栏（{ ctrl-cmd-shift-pretty-prefix }{ $key }）
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->

@@ -6,5 +6,15 @@
 thunderbird-import-name = Thunderbird
 # Description of the import module
 thunderbird-import-description = 从 Thunderbird 配置文件夹目录导入邮件。
-import-select-profile-dir-or-zip = 选择配置文件的目录，或其压缩文件所在目录
+import-from-thunderbird-zip =
+    .label = Thunderbird（导出的配置文件备份；小于 2GB 的 Zip 文件）
+    .accesskey = Z
+import-from-thunderbird-dir =
+    .label = Thunderbird（配置文件夹）
+    .accesskey = T
 import-select-profile-zip = 选择压缩过的配置文件目录
+import-select-profile-dir = 选择配置文件目录
+zip-file-too-big-title = Zip 文件太大
+zip-file-too-big-message = 所选的 Zip 文件大于 2GB。请先解压缩，然后从解压缩的文件夹中导入。
+wizardpage-failed =
+    .label = 导入失败
