@@ -583,6 +583,16 @@ urlbar-result-action-search-tabs = Najít panel
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Návrhy vyhledávače { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -786,13 +796,13 @@ popups-infobar-allow =
     .accesskey = P
 popups-infobar-block =
     .label = Blokovat vyskakovací okna pro { $uriHost }
-    .accesskey = P
+    .accesskey = p
 
 ##
 
 popups-infobar-dont-show-message =
     .label = Při blokování vyskakovacích oken nezobrazovat tuto zprávu
-    .accesskey = N
+    .accesskey = e
 picture-in-picture-hide-toggle =
     .label = Skrýt přepínač obrazu v obraze
     .accesskey = v
