@@ -6,6 +6,7 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = О Glean-у
+about-glean-description = <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> је библиотека која се користи у Mozilla производима за прикупљање података. Ова страница је за програмере и тестере који треба да <a data-l10n-name="fog-debug-doc-link">подесе стање отклањања грешака и евиденције у Glean SDK</a>.
 about-glean-warning =
     Погрешно коришћење овог интерфејса може да проузрокује отказивање { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -13,7 +14,7 @@ about-glean-warning =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] програма { -brand-short-name }
     }.
-
 tag-pings-label = Додели ову ознаку свим послатим пинговима
+log-pings-label = Снимити пинг садржај пре слања?
 send-pings-label = Пошаљи именовани пинг
 controls-button-label = Пошаљи подешавања
