@@ -4,7 +4,6 @@
 
 refresh-profile-dialog =
     .title = Освежи { -brand-short-name }
-
 refresh-profile-dialog-title =
     Вратити подразумевана подешавања { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -18,6 +17,7 @@ refresh-profile-description = Започните са свежом верзиј�
 refresh-profile-description-details = Ово ће:
 refresh-profile-remove = Уклонити додатке и прилагођавања
 refresh-profile-restore = Враћање подразумеваних подешавања
+refresh-profile-dialog-description = Вратите се у почетно стање и решите проблем перформанси. Ово ће уклонити ваша проширења и прилагођавања. Нећете изгубити основне податке попут обележивача и лозинки.
 refresh-profile = Подеси { -brand-short-name }
 refresh-profile-button = Освежи { -brand-short-name }…
 refresh-profile-learn-more = Сазнајте више
