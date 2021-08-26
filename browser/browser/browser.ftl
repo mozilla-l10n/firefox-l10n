@@ -555,6 +555,9 @@ urlbar-result-action-search-bookmarks = Cytańske znamjenja pśepytaś
 urlbar-result-action-search-history = Historiju pśepytaś
 urlbar-result-action-search-tabs = Rejtariki pśepytaś
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -722,3 +725,21 @@ remote-tabs-sync-now = Něnto synchronizěrowaś
 # "More" item in macOS share menu
 menu-share-more =
     .label = Wěcej…
+ui-tour-info-panel-close =
+    .tooltiptext = Zacyniś
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Wuskokujuce wokna za { $uriHost } dowóliś
+    .accesskey = u
+popups-infobar-block =
+    .label = Wuskokujuce wokna za { $uriHost } blokěrowaś
+    .accesskey = u
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Toś tu powěsć njepokazaś, gaž wuskokujuce wokna se blokěruju
+    .accesskey = n
