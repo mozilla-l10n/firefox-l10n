@@ -802,7 +802,7 @@ popups-infobar-block =
 
 popups-infobar-dont-show-message =
     .label = Při blokování vyskakovacích oken nezobrazovat tuto zprávu
-    .accesskey = e
+    .accesskey = n
 picture-in-picture-hide-toggle =
     .label = Skrýt přepínač obrazu v obraze
     .accesskey = v
