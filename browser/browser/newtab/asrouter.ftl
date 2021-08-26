@@ -255,6 +255,8 @@ cfr-doorhanger-doh-secondary-button = Dezactivează
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-primary-button = OK, am înțeles!
+    .accesskey = K
 cfr-doorhanger-fission-secondary-button = Află mai multe
     .accesskey = L
 
