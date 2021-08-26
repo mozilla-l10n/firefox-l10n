@@ -732,3 +732,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Να μην εμφανίζεται αυτό το μήνυμα όταν γίνεται φραγή
     .accesskey = Ν
+picture-in-picture-hide-toggle =
+    .label = Απόκρυψη διακόπτη εικόνας εντός εικόνας
+    .accesskey = Α
