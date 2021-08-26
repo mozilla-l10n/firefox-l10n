@@ -543,6 +543,9 @@ urlbar-result-action-search-bookmarks = Kekanöx taq Yaketal
 urlbar-result-action-search-history = Tikanöx Natab'äl
 urlbar-result-action-search-tabs = Kekanöx taq Ruwi'
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -707,3 +710,18 @@ remote-tabs-sync-now = Tixim Wakami
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Titz'apïx
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-block =
+    .label = Ruya'ik q'ij richin nijaq taq silon wachib'äl chi re { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Man tel pe re rutzijol re' toq xkeq'at taq silon wachib'äl
+    .accesskey = N
