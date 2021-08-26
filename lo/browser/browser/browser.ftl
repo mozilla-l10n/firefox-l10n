@@ -249,6 +249,9 @@ urlbar-result-action-visit = ຢ້ຽມຢາມ
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -349,3 +352,13 @@ eme-notifications-drm-content-playing = ສຽງ ຫລື ວີດີໂອ�
 
 ##
 
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
+##
+
+popups-infobar-dont-show-message =
+    .label = ບໍສະແດງຂໍ້ຄວາມນີ້ເມື່ອປັອບອັບບໍໄດ້ຮັບການບັອກ
+    .accesskey = D
