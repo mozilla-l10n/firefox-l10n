@@ -339,6 +339,9 @@ urlbar-result-action-visit = လည်ပတ်ရန်
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -442,3 +445,15 @@ eme-notifications-drm-content-playing = ဒီဆိုက်ရှိ အော
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = ပိတ်ပါ
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
+##
+
+popups-infobar-dont-show-message =
+    .label = ဤစာတန်းအား pop-ups ဝင်းဒိုးများပိတ်ထားပါက ထပ်မပြပါနှင့်။
+    .accesskey = D
