@@ -157,6 +157,33 @@ bcc-compose-show-address-row-label =
     .tooltiptext = 顯示「{ bcc-compose-address-row-label.value }」欄位（{ bcc-compose-show-address-row-menuitem.acceltext }）
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = 「給」與「副本」收件者共有 { $count } 位，都可看到彼此的收件信箱。您可以改用「密件副本」來避免揭露收件者資訊。
+to-address-row-label =
+    .value = 給
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = 「給」欄位
+    .accesskey = T
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = 給
+    .accesskey = T
+#   $key (String) - the shortcut key for this field
+show-to-row-button = 給
+    .title = 顯示「給」欄位（{ ctrl-cmd-shift-pretty-prefix }{ $key }）
+cc-address-row-label =
+    .value = 副本
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = 「副本」欄位
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = 副本
+    .accesskey = C
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
