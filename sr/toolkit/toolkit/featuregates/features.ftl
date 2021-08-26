@@ -80,6 +80,11 @@ experimental-features-js-warp-description = Омогућите Warp, што по
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (изолација сајтова)
+experimental-features-fission-description = Fission (изолација сајтова) је експериментална { -brand-short-name } функција која пружа додатни слој заштите од безбедносних пропуста. Одвајањем сваког сајта у посебан процес, Fission отежава злонамерним сајтовима приступ подацима са осталих сајтова које посећујете. Ово је велика архитектонска промена у { -brand-short-name }-у, и ценили бисмо да испробате и пријавите грешке. За више детаља погледајте <a data-l10n-name="wiki">вики</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Подршка за вишеструки слика-у-слици приказ
+experimental-features-multi-pip-description = Експериментална подршка за истовремено отварање више слика-у-слици видео приказа.
 # Search during IME
 experimental-features-ime-search =
     .label = Трака за адресу: приказуј резултате током IME уноса
