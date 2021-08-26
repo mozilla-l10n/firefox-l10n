@@ -544,6 +544,9 @@ urlbar-result-action-search-bookmarks = Cercar in le marcapaginas
 urlbar-result-action-search-history = Cercar in le chronologia
 urlbar-result-action-search-tabs = Cercar in schedas
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -711,3 +714,21 @@ remote-tabs-sync-now = Synchronisar ora
 # "More" item in macOS share menu
 menu-share-more =
     .label = Plus…
+ui-tour-info-panel-close =
+    .tooltiptext = Clauder
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Permitter le fenestras emergente de { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Blocar le quadros emergente de { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Non monstrar iste message quando le fenestras emergente es blocate
+    .accesskey = D
