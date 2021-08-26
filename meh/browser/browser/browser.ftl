@@ -482,6 +482,9 @@ urlbar-result-action-search-bookmarks = Nánuku a ta´a ini noo´o
 urlbar-result-action-search-history = Nánuku historial
 urlbar-result-action-search-tabs = Nánuku sukua
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -614,6 +617,19 @@ addon-removal-title = ¿Xina { $name }?
 remote-tabs-manage-account =
     .label = Tetiñu cuenta
 remote-tabs-sync-now = Sincronizar ntañu´u
+
+##
+
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Kuvi kene da ventanas nava { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Kasɨ nkene da ventanas nava { $uriHost }
+    .accesskey = p
 
 ##
 
