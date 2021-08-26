@@ -32,9 +32,6 @@ browser-main-window-title = { -brand-full-name }
 ## Page Action Context Menu
 
 
-## Page Action menu
-
-
 ## Auto-hide Context Menu
 
 
@@ -64,9 +61,11 @@ browser-window-close-button =
 
 ## Tab actions
 
+
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -94,16 +93,19 @@ urlbar-go-button =
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 
 ## Subframe crash notification
 
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-sidebar-content =
     .aria-label = Ditshwayabuka
-
 bookmarks-toolbar-menu =
     .label = Thulebara ya Ditshwayabuka
 bookmarks-toolbar-placeholder =
@@ -116,9 +118,12 @@ bookmarks-toolbar-placeholder-button =
 
 ## Pocket toolbar button
 
+
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
+
 
 ## More items
 
@@ -128,9 +133,31 @@ more-menu-go-offline =
 
 ## EME notification panel
 
+
 ## Password save/update panel
+
 
 ## Add-on removal warning
 
+
 ## Remote / Synced tabs
 
+
+##
+
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Dumella di-popup tsa { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Thibela di-popup tsa { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Se bontshe molaetsa ona ha di-popup di thibetswe
+    .accesskey = D
