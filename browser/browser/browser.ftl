@@ -432,6 +432,8 @@ eme-notifications-drm-content-playing = આ સાઇટ પરના કેટ�
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = બંધ કરો
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
@@ -445,3 +447,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = જ્યારે પોપઅપ અટકાવાયેલ હોય ત્યારે આ સંદેશો બતાવશો નહિં
+    .accesskey = D
