@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Paçte kẽsejna)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Paçte kẽsejna)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Paçte kẽsejna)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Paçte kẽsejna)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -87,8 +85,6 @@ urlbar-star-add-bookmark =
 ## Page Action Context Menu
 
 
-## Page Action menu
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -104,14 +100,12 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Nxu'pthena wẽdxnxisatx pakwenxisa's
-
 search-one-offs-context-open-new-tab =
     .label = U'se pakwen phadenxisatx
     .accesskey = U
 search-one-offs-context-set-as-default =
     .label = Txãa bubnxi's nawe pakwen jxanyah
     .accesskey = j
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -137,7 +131,6 @@ identity-passive-loaded = Naa kxtee web-te jiphunime's pa'yakx (piisanisa).
 identity-active-loaded = Ayte ktudujmeta payatx na paynxite.
 identity-weak-encryption = Naa fxi'jhnxisa mej tudkwe ũ'sa'
 identity-insecure-login-forms = Putxna na'we u'kan nate nanxu pa'yatxinega.
-
 identity-permissions-empty = Ji'meig ayte webte dxihj mawẽ yuhpa.
 identity-remove-cert-exception =
     .label = Khukhn yahtxn
@@ -189,7 +182,6 @@ popup-select-camera =
 popup-select-microphone =
     .value = Çxaçxa kapthuse'sa's katxuhdena:
     .accesskey = Ç
-
 popup-all-windows-shared = Vxitx le'çxkwe vxiasa çehk thegnxisate ya' katxuden.
 
 ## WebRTC window or screen share tab switch warning
@@ -202,13 +194,10 @@ popup-all-windows-shared = Vxitx le'çxkwe vxiasa çehk thegnxisate ya' katxuden
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Pakweya kĩimeeçxa takhnxi's u'kaya
-
 urlbar-placeholder =
     .placeholder = Pakweya kĩimeeçxa takhnxi's u'kaya
-
 urlbar-switch-to-tab =
     .value = Yu'pteni's nxithni
-
 urlbar-go-button =
     .tooltiptext = Txtee uhya URL nate kuhjwednxa´kh dxijasanxakh
 
@@ -227,6 +216,9 @@ urlbar-result-action-switch-tab = Yu'pthẽn txhudeya'
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -234,8 +226,6 @@ urlbar-result-action-switch-tab = Yu'pthẽn txhudeya'
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> Ãçx jxukate theguna'w
 fullscreen-warning-no-domain = Naa eç pejxinxi' ãçxa'h jxukate ũsa'
-
-
 fullscreen-exit-button = Kasehn txãa jxuka thegnxisate (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Kasehn txãa jxuka thegnxisate (Esc)
@@ -251,7 +241,6 @@ bookmarks-sidebar-content =
     .aria-label = Ki'phwa'ja's
 bookmarks-bookmark-edit-panel =
     .label = Ki'phni kase'k
-
 bookmarks-toolbar-menu =
     .label = Pheu'çx mjinxi's txi'khnxisa' txe txi'pupnxa'çxa
 bookmarks-toolbar-placeholder =
@@ -266,6 +255,7 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 
@@ -287,3 +277,24 @@ more-menu-go-offline =
 
 ## Remote / Synced tabs
 
+
+##
+
+ui-tour-info-panel-close =
+    .tooltiptext = Aphna
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Kakahna vxite vxitx le'çxkwe tudte txãpaka { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Aphna vxitx le'çxkwe tudteh { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Naa yuwe tu'sus tasxmen nawẽ aphnxii vxitx le'çxkwe tudteh nenxute
+    .accesskey = D
