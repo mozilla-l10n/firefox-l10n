@@ -551,6 +551,9 @@ urlbar-result-action-search-bookmarks = Искать в закладках
 urlbar-result-action-search-history = Искать в журнале
 urlbar-result-action-search-tabs = Искать во вкладках
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -718,3 +721,15 @@ remote-tabs-sync-now = Синхронизировать
 # "More" item in macOS share menu
 menu-share-more =
     .label = Ещё…
+ui-tour-info-panel-close =
+    .tooltiptext = Закрыть
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
+##
+
+picture-in-picture-hide-toggle =
+    .label = Скрыть переключатель «Картинка в картинке»
+    .accesskey = ы
