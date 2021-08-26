@@ -40,8 +40,6 @@ urlbar-translated-notification-anchor =
 ## Page Action Context Menu
 
 
-## Page Action menu
-
 ## Auto-hide Context Menu
 
 
@@ -51,7 +49,6 @@ urlbar-translated-notification-anchor =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Jenóyena jɨaɨena jóne
-
 search-one-offs-context-open-new-tab =
     .label = Kómue úitɨraɨ jéno
     .accesskey = ú
@@ -70,7 +67,6 @@ search-one-offs-context-open-new-tab =
 ## Identity Panel
 
 identity-passive-loaded = Bíe rábe afenedo ñúe íñede (jána izoi).
-
 identity-learn-more =
     .value = Aiyo onóde
 identity-enable-mixed-content-blocking =
@@ -86,9 +82,11 @@ browser-window-close-button =
 
 ## Tab actions
 
+
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -112,10 +110,8 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Jéno íe kúeno bíe íyano
-
 urlbar-placeholder =
     .placeholder = Jéno íe kúeno bíe íyano
-
 urlbar-switch-to-tab =
     .value = Jɨaɨe úitɨraɨ jóne:
 
@@ -133,10 +129,14 @@ urlbar-result-action-search-w-engine = Biedo jéno { $engine }
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 
 ## Subframe crash notification
+
 
 ## Bookmarks panels, menus and toolbar
 
@@ -148,17 +148,36 @@ bookmarks-sidebar-content =
 
 ## Pocket toolbar button
 
+
 ## Repair text encoding toolbar button
+
 
 ## Customize Toolbar Buttons
 
+
 ## More items
+
 
 ## EME notification panel
 
+
 ## Password save/update panel
+
 
 ## Add-on removal warning
 
+
 ## Remote / Synced tabs
+
+
+##
+
+ui-tour-info-panel-close =
+    .tooltiptext = Ɨ́baide
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
+##
 
