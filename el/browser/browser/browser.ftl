@@ -720,6 +720,15 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Αποδοχή αναδυόμενων από { $uriHost }
+    .accesskey = ν
+popups-infobar-block =
+    .label = Φραγή αναδυόμενων από { $uriHost }
+    .accesskey = ν
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Να μην εμφανίζεται αυτό το μήνυμα όταν γίνεται φραγή
+    .accesskey = Ν
