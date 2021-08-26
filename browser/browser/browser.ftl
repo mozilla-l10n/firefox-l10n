@@ -731,3 +731,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ne prikazuj ovu poruku kod blokiranja skočnih prozora
     .accesskey = v
+picture-in-picture-hide-toggle =
+    .label = Sakrij prekidač za slika-u-sliku
+    .accesskey = S
