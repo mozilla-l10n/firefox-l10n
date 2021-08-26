@@ -421,6 +421,9 @@ urlbar-result-action-visit = Այցելել
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -549,6 +552,21 @@ panel-save-update-password = Գաղտնաբառ
 remote-tabs-manage-account =
     .label = Կառավարել հաշիվը
 remote-tabs-sync-now = Համաժամեցնել
+
+##
+
+ui-tour-info-panel-close =
+    .tooltiptext = Փակել
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Թույլատրել ելնող պատուհաններ { $uriHost }-ից
+    .accesskey = p
+popups-infobar-block =
+    .label = Արգելել ինքնաելիցներ { $uriHost }-ից
+    .accesskey = p
 
 ##
 
