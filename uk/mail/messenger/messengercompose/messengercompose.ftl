@@ -210,6 +210,11 @@ show-bcc-row-main-menuitem =
 show-bcc-row-extra-menuitem =
     .label = Прихована копія
     .accesskey = и
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Прихована копія
+    .title = Показати поле прихована копія ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Інші поля адресування для показу
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
