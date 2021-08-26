@@ -713,3 +713,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ez erakutsi mezu hau popup leihoak blokeatzerakoan
     .accesskey = z
+picture-in-picture-hide-toggle =
+    .label = Ezkutatu bideoa beste leiho batean txandakatzeko botoia
+    .accesskey = E
