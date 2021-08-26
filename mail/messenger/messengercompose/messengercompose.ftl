@@ -202,6 +202,8 @@ show-bcc-row-extra-menuitem =
 #   $key (String) - the shortcut key for this field
 show-bcc-row-button = 密送
     .title = 显示密送栏（{ ctrl-cmd-shift-pretty-prefix }{ $key }）
+extra-address-rows-menu-button =
+    .title = 显示其他收件人相关栏
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
