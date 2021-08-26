@@ -345,6 +345,9 @@ urlbar-result-action-visit = Gatu gan'anj ni'iajt
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -455,3 +458,21 @@ eme-notifications-drm-content-playing = Hua 'ngo sa achráa nej si video ni rajs
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Narán
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Ga'nïn' gi'iaj sun ventana ra'ñanj an { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Si gi'iaj sun ventana ra'ñanj an { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Si gà ra'nga ventana 'ngà narran' riña ventana râ'ñanj an
+    .accesskey = D
