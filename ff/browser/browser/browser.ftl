@@ -348,6 +348,9 @@ urlbar-result-action-visit = Yillo
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -451,3 +454,21 @@ eme-notifications-drm-content-playing = Yoga e ojooji e widewooji ndee lowre ena
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Uddu
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Yamir cuppitte e { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Falo cuppitte e { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Hoto hollir nduu ɓatakuru so cuppitte palaama
+    .accesskey = D
