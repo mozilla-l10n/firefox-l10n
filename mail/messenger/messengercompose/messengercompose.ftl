@@ -174,6 +174,53 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Pólo { bcc-compose-address-row-label.value } pokazaś ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Dostawarje w póloma Komu a Kopija budu adresu drugich wiźeś. Licba: { $count }. Wužywajśo město togo pólo Schowana kopija, aby tomu zajźował, až se dostawarje wótekšywaju.
+to-address-row-label =
+    .value = Komu
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Pólo Komu
+    .accesskey = K
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Komu
+    .accesskey = K
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Komu
+    .title = Pólo Komu pokazaś ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Kopija
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Pólo Kopija
+    .accesskey = P
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Kopija
+    .accesskey = K
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Kopija
+    .title = Pólo Kopija pokazaś ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Schowana kopija
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Pólo Schowana kopija
+    .accesskey = S
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Schowana kopija
+    .accesskey = S
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Schowana kopija
+    .title = Pólo Schowana kopija pokazaś ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Druge adresowe póla, kótarež se maju pokazaś
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
