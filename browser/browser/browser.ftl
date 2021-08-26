@@ -730,3 +730,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = لا تعرض هذه الرسالة عند حجب النوافذ المنبثقة
     .accesskey = ت
+picture-in-picture-hide-toggle =
+    .label = أخفِ زر تفعيل/تعطيل الڤديوهات المعترِضة
+    .accesskey = خ
