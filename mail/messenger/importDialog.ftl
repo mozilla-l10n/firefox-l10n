@@ -18,3 +18,4 @@ zip-file-too-big-title = Zip-dataja je přewulka
 zip-file-too-big-message = Wubrana zip-dataja je wjetša hač 2 GB. Prošu wubalće ju najprjedy, a importujće wobsah z wubaleneho rjadowaka město toho.
 wizardpage-failed =
     .label = Importowanje njeje so poradźiło
+wizardpage-failed-message = Importowanje je so njenadźicy nimokuliło, dalše informacije namakaće snano w zmylkowej konsoli.
