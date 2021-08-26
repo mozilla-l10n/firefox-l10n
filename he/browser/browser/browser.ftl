@@ -730,3 +730,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = אל תראה הודעה זו בעת חסימת חלונות קופצים
     .accesskey = א
+picture-in-picture-hide-toggle =
+    .label = הסתרת הכפתור של תמונה בתוך תמונה
+    .accesskey = ה
