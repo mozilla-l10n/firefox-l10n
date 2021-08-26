@@ -318,6 +318,9 @@ urlbar-result-action-visit = Heimsækja
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -421,3 +424,21 @@ eme-notifications-drm-content-playing = Sumar hljóðskrár eða myndbönd á þ
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Loka
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Leyfa sprettiglugga frá { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Loka sprettigluggum frá { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Ekki sýna þessi skilaboð þegar sprettigluggum er lokað
+    .accesskey = D
