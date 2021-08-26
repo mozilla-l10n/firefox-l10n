@@ -632,3 +632,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Nu afișa acest mesaj când sunt blocate ferestre pop-up
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Ascunde comutatorul Picture-in-Picture
+    .accesskey = H
