@@ -18,3 +18,4 @@ zip-file-too-big-title = A ZIP-fájl túl nagy
 zip-file-too-big-message = A kiválasztott ZIP-fájl nagyobb, mint 2 GB. Először bontsa ki, majd importálja a kibontott mappából.
 wizardpage-failed =
     .label = Az importálás nem sikerült
+wizardpage-failed-message = Az importálás váratlanul meghiúsult, további információ lehet elérhető a Hibakonzolban.

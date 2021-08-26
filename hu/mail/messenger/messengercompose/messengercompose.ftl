@@ -162,6 +162,53 @@ bcc-compose-show-address-row-label =
     .tooltiptext = A { bcc-compose-address-row-label.value } mező megjelenítése ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = A címzett és másolatot kapó { $count } partner látni fogja egymás címét. Elkerülheti a címzettek közzétételét, ha helyette titkos másolatot használ.
+to-address-row-label =
+    .value = Címzett
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Címzett mező
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Címzett
+    .accesskey = C
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Címzett
+    .title = Címzett mező megjelenítése ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Másolatot kap
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Másolatot kap mező
+    .accesskey = M
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Másolatot kap
+    .accesskey = M
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Másolatot kap
+    .title = Másolatot kap mező megjelenítése ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Rejtett másolatot kap
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Rejtett másolatot kap
+    .accesskey = R
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Rejtett másolatot kap
+    .accesskey = R
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Rejtett másolatot kap
+    .title = Rejtett másolatot kap mező megjelenítése ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = További megjelenítendő címzési mezők
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
