@@ -581,6 +581,9 @@ urlbar-result-action-search-bookmarks = Hledat v záložkách
 urlbar-result-action-search-history = Hledat v historii
 urlbar-result-action-search-tabs = Najít panel
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -772,3 +775,16 @@ remote-tabs-sync-now = Synchronizovat
 # "More" item in macOS share menu
 menu-share-more =
     .label = Více…
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Povolit vyskakovací okna pro { $uriHost }
+    .accesskey = P
+popups-infobar-block =
+    .label = Blokovat vyskakovací okna pro { $uriHost }
+    .accesskey = P
+
+##
+
