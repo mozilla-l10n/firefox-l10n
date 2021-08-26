@@ -735,3 +735,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Afichar pas aqueste messatge quand se blòcan de fenèstras sorgissentas
     .accesskey = u
+picture-in-picture-hide-toggle =
+    .label = Amagar lo boton Imatge incrustada
+    .accesskey = A
