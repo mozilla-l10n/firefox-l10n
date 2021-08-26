@@ -544,6 +544,9 @@ urlbar-result-action-search-bookmarks = جست‌وجو نشانک‌ها
 urlbar-result-action-search-history = جست‌وجو تاریخچه
 urlbar-result-action-search-tabs = جست‌وجو زبانه‌ها
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -711,3 +714,21 @@ remote-tabs-sync-now = انجام همگام‌سازی
 # "More" item in macOS share menu
 menu-share-more =
     .label = بیشتر…
+ui-tour-info-panel-close =
+    .tooltiptext = بستن
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = اجازه دادن به پنجره‌های بازشوها برای ‎‪{ $uriHost }‬
+    .accesskey = p
+popups-infobar-block =
+    .label = مسدود کردن پنجره‌های بازشو برای ‎‪{ $uriHost }‬
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = این پیام را هر زمان که بالاپرها مسدود می‌شوند نمایش نده
+    .accesskey = D
