@@ -721,12 +721,17 @@ remote-tabs-sync-now = Synchronizuj teraz
 # "More" item in macOS share menu
 menu-share-more =
     .label = Więcej…
+ui-tour-info-panel-close =
+    .tooltiptext = Zamknij
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
 popups-infobar-allow =
     .label = Pozwól { $uriHost } otwierać wyskakujące okna
+    .accesskey = w
+popups-infobar-block =
+    .label = Blokuj wyskakujące okna z { $uriHost }
     .accesskey = w
 
 ##
