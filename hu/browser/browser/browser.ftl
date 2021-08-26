@@ -735,3 +735,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ne jelenjen meg ez az üzenet a felugró ablakok blokkolásakor.
     .accesskey = n
+picture-in-picture-hide-toggle =
+    .label = Kép a képben kapcsoló elrejtése
+    .accesskey = r
