@@ -729,3 +729,6 @@ popups-infobar-block =
 
 ##
 
+picture-in-picture-hide-toggle =
+    .label = Hide Picture-in-Picture Toggle
+    .accesskey = H
