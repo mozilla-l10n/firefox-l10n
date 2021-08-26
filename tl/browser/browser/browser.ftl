@@ -699,6 +699,8 @@ remote-tabs-sync-now = I-sync Ngayon
 # "More" item in macOS share menu
 menu-share-more =
     .label = Higit pa...
+ui-tour-info-panel-close =
+    .tooltiptext = Isarado
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
