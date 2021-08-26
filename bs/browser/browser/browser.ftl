@@ -448,6 +448,8 @@ eme-notifications-drm-content-playing = Neki audio ili video sadržaji na ovoj s
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Zatvori
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
@@ -461,3 +463,6 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Ne prikazuj ovu poruku kada su pop-upi blokirani
+    .accesskey = D
