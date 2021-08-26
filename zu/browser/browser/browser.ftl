@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Ukuphequlula okuyimfihlo)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Ukuphequlula okuyimfihlo)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Ukuphequlula okuyimfihlo)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Ukuphequlula okuyimfihlo)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -66,8 +64,6 @@ browser-main-window-title = { -brand-full-name }
 
 ## Page Action Context Menu
 
-
-## Page Action menu
 
 ## Auto-hide Context Menu
 
@@ -130,13 +126,10 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Sesha noma faka ikheli
-
 urlbar-placeholder =
     .placeholder = Sesha noma faka ikheli
-
 urlbar-switch-to-tab =
     .value = Shintshela kumaki:
-
 urlbar-go-button =
     .tooltiptext = Yiya ku kheli kubha yendawo
 
@@ -147,6 +140,9 @@ urlbar-go-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Labels shown above groups of urlbar results
 
 
 ## Full Screen and Pointer Lock UI
@@ -163,7 +159,6 @@ bookmarks-sidebar-content =
     .aria-label = Izimpawu zokubekisa
 bookmarks-bookmark-edit-panel =
     .label = Hlela lolu phawu lokubekisa
-
 bookmarks-toolbar-menu =
     .label = Ibha yamathuluzi ezimpawu zokubekisa
 bookmarks-toolbar-placeholder =
@@ -179,7 +174,9 @@ bookmarks-toolbar-placeholder-button =
 
 ## Repair text encoding toolbar button
 
+
 ## Customize Toolbar Buttons
+
 
 ## More items
 
@@ -197,4 +194,20 @@ more-menu-go-offline =
 
 
 ## Remote / Synced tabs
+
+
+##
+
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Vumela okuzivelelayo ku-{ $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Vimbela okuqhamuka esikhaleni { $uriHost }
+    .accesskey = p
+
+##
 
