@@ -305,6 +305,9 @@ urlbar-result-action-visit = སྐྱོད་པ།
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -405,3 +408,21 @@ eme-notifications-drm-content-playing = Some audio or video on this site uses DR
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Close
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Allow pop-ups for { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Block pop-ups for { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Don’t show this message when pop-ups are blocked
+    .accesskey = D
