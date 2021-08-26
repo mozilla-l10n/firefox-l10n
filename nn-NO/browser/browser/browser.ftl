@@ -732,3 +732,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ikkje vis denne meldinga når sprettoppvindauge vert blokkerte
     .accesskey = I
+picture-in-picture-hide-toggle =
+    .label = Gøym bilde-i-bilde-veksleknapp
+    .accesskey = G
