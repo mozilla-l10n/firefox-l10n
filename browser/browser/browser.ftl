@@ -727,9 +727,18 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Разрешить всплывающие окна для { $uriHost }
+    .accesskey = Р
+popups-infobar-block =
+    .label = Заблокировать всплывающие окна для { $uriHost }
+    .accesskey = Р
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Не показывать это сообщение при блокировке всплывающих окон
+    .accesskey = н
 picture-in-picture-hide-toggle =
     .label = Скрыть переключатель «Картинка в картинке»
     .accesskey = ы
