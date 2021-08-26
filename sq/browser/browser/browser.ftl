@@ -540,6 +540,9 @@ urlbar-result-action-search-bookmarks = Kërkoni Te Faqerojtësit
 urlbar-result-action-search-history = Kërkoni te Historiku
 urlbar-result-action-search-tabs = Kërkoni Në Skeda
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -700,3 +703,24 @@ remote-tabs-sync-now = Njëkohësoji Tani
 
 ##
 
+ui-tour-info-panel-close =
+    .tooltiptext = Mbylleni
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Lejo flluska nga { $uriHost }
+    .accesskey = L
+popups-infobar-block =
+    .label = Blloko flluska nga { $uriHost }
+    .accesskey = L
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Mos e shfaq këtë mesazh kur bllokohen flluska
+    .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = Fshih Buton Picture-in-Picture
+    .accesskey = F
