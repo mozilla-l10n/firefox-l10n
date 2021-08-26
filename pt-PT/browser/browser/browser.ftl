@@ -723,9 +723,18 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
+popups-infobar-allow =
+    .label = Permitir janelas de { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Bloquear pop-ups de { $uriHost }
+    .accesskey = p
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Não mostrar esta mensagem quando os pop-ups são bloqueados
+    .accesskey = D
 picture-in-picture-hide-toggle =
     .label = Ocultar o comutador de vídeo em janela flutuante
     .accesskey = O
