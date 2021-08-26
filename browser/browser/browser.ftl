@@ -544,6 +544,9 @@ urlbar-result-action-search-bookmarks = Serĉi en legosignoj
 urlbar-result-action-search-history = Serĉi en historio
 urlbar-result-action-search-tabs = Serĉi en la langetoj
 
+## Labels shown above groups of urlbar results
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -711,3 +714,21 @@ remote-tabs-sync-now = Speguli nun
 # "More" item in macOS share menu
 menu-share-more =
     .label = Pli…
+ui-tour-info-panel-close =
+    .tooltiptext = Fermi
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Permesi ŝprucfenestrojn por { $uriHost }
+    .accesskey = p
+popups-infobar-block =
+    .label = Bloki ŝprucfenestrojn por { $uriHost }
+    .accesskey = p
+
+##
+
+popups-infobar-dont-show-message =
+    .label = Ne montri ĉiun ĉi mesaĝon kiam ŝprucfenestroj estas blokataj
+    .accesskey = N
