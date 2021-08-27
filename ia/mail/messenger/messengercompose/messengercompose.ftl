@@ -177,18 +177,36 @@ show-to-row-button = A
     .title = Monstrar campo A { ctrl-cmd-shift-pretty-prefix }{ $key }
 cc-address-row-label =
     .value = CC
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Campo CC
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
 # The label should match the show-cc-row-button text.
 show-cc-row-extra-menuitem =
     .label = CC
     .accesskey = C
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = CC
+    .title = Monstrar campo CC ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 bcc-address-row-label =
     .value = Ccn
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Campo Ccn
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
 # The label should match the show-bcc-row-button text.
 show-bcc-row-extra-menuitem =
     .label = Ccn
     .accesskey = C
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Ccn
+    .title = Mostrar campo Ccn ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Altere campos adresse a monstrar
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
