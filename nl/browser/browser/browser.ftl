@@ -741,4 +741,4 @@ popups-infobar-dont-show-message =
     .accesskey = n
 picture-in-picture-hide-toggle =
     .label = Picture-in-Picture-knop verbergen
-    .accesskey = V
+    .accesskey = v
