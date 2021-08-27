@@ -25,6 +25,10 @@ about-private-browsing-not-private = Αυτή τη στιγμή, δεν βρίσ
 about-private-browsing-info-description = Το { -brand-short-name } διαγράφει το ιστορικό αναζήτησης και περιήγησής σας όταν κλείνετε την εφαρμογή ή όλα τα παράθυρα και τις καρτέλες ιδιωτικής περιήγησης. Αν και δεν έχετε πλήρη ανωνυμία στις ιστοσελίδες ή τον πάροχο υπηρεσίας διαδικτύου, μπορείτε να διατηρείτε τις δραστηριότητές σας ιδιωτικές από τους άλλους χρήστες αυτού του υπολογιστή πιο εύκολα.
 about-private-browsing-need-more-privacy = Χρειάζεστε περισσότερη ιδιωτικότητα;
 about-private-browsing-turn-on-vpn = Δοκιμή του { -mozilla-vpn-brand-name }
+about-private-browsing-info-description-simplified = Το { -brand-short-name } διαγράφει το ιστορικό αναζητήσεων και περιήγησής σας όταν κλείνετε όλα τα ιδιωτικά παράθυρα, αλλά δεν σας καθιστά ανώνυμους.
+about-private-browsing-learn-more-link = Μάθετε περισσότερα
+about-private-browsing-hide-activity = Αποκρύψτε τη δραστηριότητα και την τοποθεσία σας, όπου κι αν περιηγείστε
+about-private-browsing-prominent-cta = Προστατέψτε το απόρρητό σας με το { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
