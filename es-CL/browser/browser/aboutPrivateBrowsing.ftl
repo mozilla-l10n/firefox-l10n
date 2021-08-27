@@ -25,6 +25,7 @@ about-private-browsing-not-private = Actualmente no estás en una ventana privad
 about-private-browsing-info-description = { -brand-short-name } limpia tu historial de búsqueda y navegación cuando sales de la aplicación o cierras todas las pestañas y ventanas de navegación privada. Si bien esto no te deja en el anonimato ante los sitios web o tu proveedor de servicios de internet, hace que sea más fácil mantener privado lo que haces en línea para todos los otros que usen este computador.
 about-private-browsing-need-more-privacy = ¿Necesitas más privacidad?
 about-private-browsing-turn-on-vpn = Prueba { -mozilla-vpn-brand-name }
+about-private-browsing-info-description-simplified = { -brand-short-name } elimina tu historial de búsqueda y navegación cuando cierras todas las ventanas privadas, pero esto no te hace anónimo.
 about-private-browsing-learn-more-link = Aprender más
 about-private-browsing-hide-activity = Oculta tu actividad y ubicación, donde sea que navegues
 about-private-browsing-prominent-cta = Mantente en privado con { -mozilla-vpn-brand-name }
