@@ -21,18 +21,18 @@ cert-error-trust-symantec = Τα πιστοποιητικά που εκδίδο�
 cert-error-untrusted-default = Το πιστοποιητικό δεν προέρχεται από αξιόπιστη πηγή.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-domain-mismatch = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτό τον ιστότοπο, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }.
+cert-error-domain-mismatch = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτό τον ιστότοπο, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }. Το πιστοποιητικό είναι έγκυρο μόνο για το <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+cert-error-domain-mismatch-single = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }. Το πιστοποιητικό είναι έγκυρο μόνο για το <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτό τον ιστότοπο, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }. Το πιστοποιητικό είναι έγκυρο μόνο για το { $alt-name }.
+cert-error-domain-mismatch-single-nolink = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }. Το πιστοποιητικό είναι έγκυρο μόνο για το { $alt-name }.
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτό τον ιστότοπο, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }. Το πιστοποιητικό είναι έγκυρο μόνο για τα εξής ονόματα: { $subject-alt-names }
+cert-error-domain-mismatch-multiple = Οι ιστότοποι αποδεικνύουν την ταυτότητά τους μέσω πιστοποιητικών. Το { -brand-short-name } δεν εμπιστεύεται αυτόν τον ιστότοπο, επειδή χρησιμοποιεί ένα πιστοποιητικό που δεν είναι έγκυρο για το { $hostname }. Το πιστοποιητικό είναι έγκυρο μόνο για τα εξής ονόματα: { $subject-alt-names }
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
@@ -58,7 +58,7 @@ cert-error-details-cert-chain-label = Ακολουθία πιστοποιητι�
 open-in-new-window-for-csp-or-xfo-error = Άνοιγμα ιστοτόπου σε νέο παράθυρο
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
-csp-xfo-blocked-long-desc = Για τη δική σας ασφάλεια, το { $hostname } δεν θα επιτρέψει στο { -brand-short-name } την εμφάνιση της σελίδας αν κάποιος άλλος ιστότοπος την έχει ενσωματώσει. Για να δείτε αυτή τη σελίδα, θα πρέπει να την ανοίξετε σε νέο παράθυρο.
+csp-xfo-blocked-long-desc = Για τη δική σας ασφάλεια, το { $hostname } δεν θα επιτρέψει στο { -brand-short-name } την εμφάνιση της σελίδας αν κάποιος άλλος ιστότοπος την έχει ενσωματώσει. Για να δείτε αυτήν τη σελίδα, θα πρέπει να την ανοίξετε σε νέο παράθυρο.
 
 ## Messages used for certificate error titles
 
@@ -97,4 +97,4 @@ clockSkewError-title = Το ρολόι του υπολογιστή σας είν
 networkProtocolError-title = Σφάλμα πρωτοκόλλου δικτύου
 nssBadCert-title = Προειδοποίηση: Πιθανός κίνδυνος ασφαλείας
 nssBadCert-sts-title = Δεν έγινε σύνδεση: Πιθανό ζήτημα ασφαλείας
-certerror-mitm-title = Κάποιο λογισμικό εμποδίζει την ασφαλή σύνδεση του { -brand-short-name } με αυτό τον ιστότοπο
+certerror-mitm-title = Κάποιο λογισμικό εμποδίζει την ασφαλή σύνδεση του { -brand-short-name } με αυτόν τον ιστότοπο
