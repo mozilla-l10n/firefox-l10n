@@ -25,6 +25,8 @@ about-private-browsing-not-private = Vous ne vous trouvez pas dans une fenêtre 
 about-private-browsing-info-description = { -brand-short-name } efface vos historiques de recherche et de navigation lorsque vous quittez l’application ou fermez tous les onglets et fenêtres de navigation privée. Bien que cela ne vous rende pas anonyme auprès des sites web ou de votre fournisseur d’accès à Internet, cela vous aide à garder confidentielles vos activités en ligne auprès de toute autre personne utilisant cet ordinateur.
 about-private-browsing-need-more-privacy = Besoin de plus d’intimité ?
 about-private-browsing-turn-on-vpn = Essayez { -mozilla-vpn-brand-name }
+about-private-browsing-info-description-simplified = { -brand-short-name } efface l’historique de vos recherches et de votre navigation à la fermeture des fenêtres privées, mais cela ne vous rend pas pour autant anonyme.
+about-private-browsing-learn-more-link = En savoir plus
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
