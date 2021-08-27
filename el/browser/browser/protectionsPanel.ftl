@@ -21,8 +21,8 @@ protections-popup-footer-protection-label-standard = Τυπική
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Περισσότερες πληροφορίες σχετικά με την Ενισχυμένη προστασία από καταγραφή
-protections-panel-etp-on-header = Η Ενισχυμένη προστασία από καταγραφή είναι ΕΝΕΡΓΗ για αυτό τον ιστότοπο
-protections-panel-etp-off-header = Η Ενισχυμένη προστασία από καταγραφή είναι ΑΝΕΝΕΡΓΗ για αυτό τον ιστότοπο
+protections-panel-etp-on-header = Η Ενισχυμένη προστασία από καταγραφή είναι ΕΝΕΡΓΗ σε αυτόν τον ιστότοπο
+protections-panel-etp-off-header = Η Ενισχυμένη προστασία από καταγραφή είναι ΑΝΕΝΕΡΓΗ σε αυτόν τον ιστότοπο
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Δεν λειτουργεί ο ιστότοπος;
 # The heading/title of the sub-panel view

@@ -173,7 +173,7 @@ cfr-doorhanger-sync-logins-ok-button = Ενεργοποίηση { -sync-brand-sh
 
 cfr-doorhanger-send-tab-header = Διαβάστε το εν κινήσει
 cfr-doorhanger-send-tab-recipe-header = Πάρτε αυτή τη συνταγή στην κουζίνα
-cfr-doorhanger-send-tab-body = Η Αποστολή καρτέλας σας επιτρέπει να μοιραστείτε εύκολα αυτό το σύνδεσμο με το τηλέφωνό σας ή οπουδήποτε έχετε συνδεθεί στο { -brand-product-name }.
+cfr-doorhanger-send-tab-body = Η Αποστολή καρτέλας σάς επιτρέπει να μοιραστείτε εύκολα αυτόν τον σύνδεσμο με το τηλέφωνό σας ή οπουδήποτε έχετε συνδεθεί στο { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Δοκιμάστε την καρτέλα "Αποστολή"
     .accesskey = Δ
 
