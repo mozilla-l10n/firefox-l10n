@@ -5,48 +5,50 @@
 text-action-undo =
     .label = Rückgängig
     .accesskey = R
-
 text-action-undo-shortcut =
     .key = Z
-
 text-action-redo =
     .label = Wiederherstellen
     .accesskey = W
-
 text-action-redo-shortcut =
     .key = Y
-
 text-action-cut =
     .label = Ausschneiden
     .accesskey = A
-
 text-action-cut-shortcut =
     .key = X
-
 text-action-copy =
     .label = Kopieren
     .accesskey = K
-
 text-action-copy-shortcut =
     .key = C
-
 text-action-paste =
     .label = Einfügen
     .accesskey = E
-
 text-action-paste-shortcut =
     .key = V
-
 text-action-delete =
     .label = Löschen
     .accesskey = L
-
 text-action-select-all =
     .label = Alles auswählen
     .accesskey = u
-
 text-action-select-all-shortcut =
     .key = A
-
 text-action-spell-no-suggestions =
     .label = Keine Korrekturvorschläge
+text-action-spell-add-to-dictionary =
+    .label = Zu Wörterbuch hinzufügen
+    .accesskey = u
+text-action-spell-undo-add-to-dictionary =
+    .label = Wörterbuch-Eintrag zurücknehmen
+    .accesskey = r
+text-action-spell-check-toggle =
+    .label = Rechtschreibung prüfen
+    .accesskey = g
+text-action-spell-add-dictionaries =
+    .label = Wörterbücher hinzufügen…
+    .accesskey = h
+text-action-spell-dictionaries =
+    .label = Sprachen
+    .accesskey = S
