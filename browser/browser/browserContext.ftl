@@ -450,3 +450,8 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Conocer más sobre DRM…
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = Abrir enlace en nueva pestaña { $containerName }
+    .accesskey = t
