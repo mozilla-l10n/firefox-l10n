@@ -27,6 +27,8 @@ about-private-browsing-need-more-privacy = Trenger du mer personvern?
 about-private-browsing-turn-on-vpn = Prøv { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-simplified = { -brand-short-name } sletter søke- og nettleserloggen din når du lukker alle private vinduer, men dette gjør deg ikke anonym.
 about-private-browsing-learn-more-link = Les mer
+about-private-browsing-hide-activity = Skjul aktiviteten og plasseringen din, hvor enn du surfer
+about-private-browsing-prominent-cta = Hold deg privat med { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
