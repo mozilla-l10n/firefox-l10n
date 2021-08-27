@@ -174,6 +174,37 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Prikaži polje { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Prejemniki v poljih Za in Kp ({ $count }) bodo videli naslove drug drugega. Prejemnike lahko prikrijete tako, da uporabite polje Skp.
+to-address-row-label =
+    .value = Za
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Polje Za
+    .accesskey = Z
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Za
+    .accesskey = Z
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Za
+    .title = Prikaži polje Za ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Kp
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Kp
+    .accesskey = K
+bcc-address-row-label =
+    .value = Skp
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Skp
+    .accesskey = S
+extra-address-rows-menu-button =
+    .title = Druga polja za naslavljanje, ki naj bodo prikazana
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
