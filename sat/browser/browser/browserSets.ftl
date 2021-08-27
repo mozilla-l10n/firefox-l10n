@@ -7,36 +7,36 @@ window-minimize-command =
 window-zoom-command =
     .label = ᱦᱩᱲᱤᱧ ᱞᱟᱹᱴᱩ ᱛᱮᱭᱟᱨ
 window-new-shortcut =
-    .key = ᱱ
+    .key = N
 window-minimize-shortcut =
-    .key = ᱢ
+    .key = M
 close-shortcut =
-    .key = ᱣ
+    .key = W
 tab-new-shortcut =
-    .key = ᱴ
+    .key = T
 search-focus-shortcut =
-    .key = ᱠ
+    .key = K
 search-find-again-shortcut =
-    .key = ᱜ
+    .key = G
 search-find-again-shortcut-alt =
     .keycode = VK_F3
 save-page-shortcut =
-    .key = ᱥ
+    .key = S
 page-source-shortcut =
-    .key = ᱩ
+    .key = U
 nav-back-shortcut-alt =
     .key = [
 nav-fwd-shortcut-alt =
     .key = ]
 nav-reload-shortcut =
-    .key = ᱨ
+    .key = R
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
 history-show-all-shortcut =
-    .key = ᱦ
+    .key = H
 history-sidebar-shortcut =
-    .key = ᱦ
+    .key = H
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
@@ -46,7 +46,7 @@ picture-in-picture-toggle-shortcut-alt =
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 bookmark-show-sidebar-shortcut =
-    .key = ᱵ
+    .key = B
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
@@ -66,14 +66,14 @@ full-zoom-enlarge-shortcut-alt =
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
 full-zoom-reset-shortcut =
-    .key = ᱐
+    .key = 0
 full-zoom-reset-shortcut-alt =
     .key = { "" }
 
 ##
 
 private-browsing-shortcut =
-    .key = ᱯ
+    .key = P
 
 ## The shortcuts below are for Mac specific
 ## global menu.

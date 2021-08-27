@@ -289,7 +289,7 @@ panel-save-update-password = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
 ##
 
 ui-tour-info-panel-close =
-    .tooltiptext = बोंद मे
+    .tooltiptext = ᱵᱚᱸᱫ ᱢᱮ
 
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
