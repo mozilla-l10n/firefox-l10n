@@ -15,5 +15,7 @@ import-from-thunderbird-dir =
 import-select-profile-zip = Hautatu zip formatuko profil karpeta
 import-select-profile-dir = Hautatu profil karpeta
 zip-file-too-big-title = Zip fitxategia handiegia
+zip-file-too-big-message = Hautatutako Zip fitxategia 2GB baino handiagoa da. Mesedez, erauzi lehenengo eta gero inportatu erauzitako karpeta.
 wizardpage-failed =
     .label = Inportazioak huts egin du
+wizardpage-failed-message = Huts egin du inportazioak ustekabean, informazio gehiago eskuragarri errore kontsolan.
