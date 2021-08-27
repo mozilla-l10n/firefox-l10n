@@ -450,3 +450,8 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Μάθετε περισσότερα για το DRM…
     .accesskey = μ
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = Άνοιγμα συνδέσμου σε νέα καρτέλα «{ $containerName }»
+    .accesskey = κ
