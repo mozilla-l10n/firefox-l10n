@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = იერიშმიტანილი საიტი
 about-logins-list-item-vulnerable-password-icon =
     .title = დაუცველი პაროლი
+about-logins-list-section-breach = იერიშმიტანილი საიტები
+about-logins-list-section-vulnerable = დაუცველი პაროლები
+about-logins-list-section-nothing = ცნობები არაა
+about-logins-list-section-today = დღეს
+about-logins-list-section-yesterday = გუშინ
+about-logins-list-section-week = ბოლო 7 დღე
 
 ## Introduction screen
 
