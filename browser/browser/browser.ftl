@@ -550,6 +550,12 @@ urlbar-result-action-search-tabs = 搜尋分頁
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } 建議
 
 ## Full Screen and Pointer Lock UI
 
