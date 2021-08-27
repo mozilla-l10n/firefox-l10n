@@ -107,7 +107,7 @@ profiler-popup-settings =
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Επεξεργασία ρυθμίσεων…
 profiler-popup-disabled =
-    Το profiler είναι ανενεργό αυτή τη στιγμή, πιθανότατα επειδή είναι ανοικτό ένα παράθυρο
+    Το εργαλείο προφίλ είναι ανενεργό αυτήν τη στιγμή, πιθανότατα επειδή είναι ανοικτό ένα παράθυρο
     ιδιωτικής περιήγησης.
 profiler-popup-recording-screen = Εγγραφή…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
