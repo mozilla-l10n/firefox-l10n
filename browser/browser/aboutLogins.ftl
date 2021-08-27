@@ -68,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = Website che ha pers datas
 about-logins-list-item-vulnerable-password-icon =
     .title = Pled-clav periclità
+about-logins-list-section-breach = Websites che han pers datas
+about-logins-list-section-vulnerable = Pleds-clav periclitads
+about-logins-list-section-nothing = Nagin avertiment
+about-logins-list-section-today = Oz
+about-logins-list-section-yesterday = Ier
+about-logins-list-section-week = Ultims 7 dis
 
 ## Introduction screen
 
