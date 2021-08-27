@@ -544,6 +544,19 @@ urlbar-result-action-search-bookmarks = Ҷустуҷӯ дар хатбаракҳ
 urlbar-result-action-search-history = Ҷустуҷӯ дар таърих
 urlbar-result-action-search-tabs = Ҷустуҷӯ дар варақаҳо
 
+## Labels shown above groups of urlbar results
+
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Пешниҳодҳои { $engine }
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -711,3 +724,18 @@ remote-tabs-sync-now = Ҳозир ҳамоҳанг кунед
 # "More" item in macOS share menu
 menu-share-more =
     .label = Бештар…
+ui-tour-info-panel-close =
+    .tooltiptext = Пӯшидан
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow =
+    .label = Иҷозат додани равзанаҳои зоҳиршаванда барои { $uriHost }
+    .accesskey = И
+popups-infobar-block =
+    .label = Манъ кардани равзанаҳои зоҳиршаванда барои { $uriHost }
+    .accesskey = М
+
+##
+

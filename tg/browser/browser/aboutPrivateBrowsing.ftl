@@ -28,6 +28,7 @@ about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name }-ро озмое
 about-private-browsing-info-description-simplified = Ҳангоми пӯшидани ҳамаи равзанаҳои махфӣ { -brand-short-name } таърихи ҷустуҷӯ ва тамошокунии шуморо тоза мекунад, аммо ин амал шуморо беном намегузорад.
 about-private-browsing-learn-more-link = Маълумоти бештар
 about-private-browsing-hide-activity = Фаъолият ва макони худро дар ҳамаи ҷойҳое, ки паймоиш мекунед, пинҳон намоед
+about-private-browsing-prominent-cta = Бо { -mozilla-vpn-brand-name } махфӣ бошед
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
