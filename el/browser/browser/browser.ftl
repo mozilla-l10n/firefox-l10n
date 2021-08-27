@@ -126,29 +126,29 @@ urlbar-search-mode-history = Ιστορικό
 ##
 
 urlbar-geolocation-blocked =
-    .tooltiptext = Έχετε αποκλείσει τις πληροφορίες τοποθεσίας για αυτό τον ιστότοπο.
+    .tooltiptext = Έχετε αποκλείσει τις πληροφορίες τοποθεσίας σε αυτόν τον ιστότοπο.
 urlbar-xr-blocked =
-    .tooltiptext = Έχετε αποκλείσει την πρόσβαση συσκευών εικονικής πραγματικότητας για αυτό τον ιστότοπο.
+    .tooltiptext = Έχετε αποκλείσει την πρόσβαση συσκευών εικονικής πραγματικότητας σε αυτόν τον ιστότοπο.
 urlbar-web-notifications-blocked =
-    .tooltiptext = Έχετε αποκλείσει τις ειδοποιήσεις για αυτό τον ιστότοπο.
+    .tooltiptext = Έχετε αποκλείσει τις ειδοποιήσεις σε αυτόν τον ιστότοπο.
 urlbar-camera-blocked =
-    .tooltiptext = Έχετε αποκλείσει την κάμερά σας για αυτό τον ιστότοπο.
+    .tooltiptext = Έχετε αποκλείσει την κάμερά σας σε αυτόν τον ιστότοπο.
 urlbar-microphone-blocked =
-    .tooltiptext = Έχετε αποκλείσει το μικρόφωνό σας για αυτό τον ιστότοπο.
+    .tooltiptext = Έχετε αποκλείσει το μικρόφωνό σας σε αυτόν τον ιστότοπο.
 urlbar-screen-blocked =
-    .tooltiptext = Έχετε αποκλείσει την κοινή χρήση οθόνης σε αυτό τον ιστότοπο.
+    .tooltiptext = Έχετε αποκλείσει την κοινή χρήση οθόνης σε αυτόν τον ιστότοπο.
 urlbar-persistent-storage-blocked =
-    .tooltiptext = Έχετε αποκλείσει τη μόνιμη αποθήκευση για αυτό τον ιστότοπο.
+    .tooltiptext = Έχετε αποκλείσει τη μόνιμη αποθήκευση σε αυτόν τον ιστότοπο.
 urlbar-popup-blocked =
-    .tooltiptext = Έχετε αποκλείσει τα αναδυόμενα παράθυρα για αυτό τον ιστότοπο.
+    .tooltiptext = Έχετε αποκλείσει τα αναδυόμενα παράθυρα σε αυτόν τον ιστότοπο.
 urlbar-autoplay-media-blocked =
-    .tooltiptext = Έχετε αποκλείσει την αυτόματη αναπαραγωγή πολυμέσων με ήχο για αυτό τον ιστότοπο.
+    .tooltiptext = Έχετε αποκλείσει την αυτόματη αναπαραγωγή πολυμέσων με ήχο σε αυτόν τον ιστότοπο.
 urlbar-canvas-blocked =
-    .tooltiptext = Έχετε αποκλείσει την εξαγωγή δεδομένων καμβά για αυτό τον ιστότοπο.
+    .tooltiptext = Έχετε αποκλείσει την εξαγωγή δεδομένων καμβά σε αυτόν τον ιστότοπο.
 urlbar-midi-blocked =
-    .tooltiptext = Έχετε αποκλείσει την πρόσβαση MIDI για αυτό τον ιστότοπο.
+    .tooltiptext = Έχετε αποκλείσει την πρόσβαση MIDI σε αυτόν τον ιστότοπο.
 urlbar-install-blocked =
-    .tooltiptext = Έχετε αποκλείσει την εγκατάσταση προσθέτων για αυτό τον ιστότοπο.
+    .tooltiptext = Έχετε αποκλείσει την εγκατάσταση προσθέτων σε αυτόν τον ιστότοπο.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -156,7 +156,7 @@ urlbar-star-edit-bookmark =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
-    .tooltiptext = Δημιουργία σελιδοδείκτη για αυτή τη σελίδα ({ $shortcut })
+    .tooltiptext = Δημιουργία σελιδοδείκτη για αυτήν τη σελίδα ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -182,7 +182,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = Αυτή τη φορά, αναζήτηση με:
+search-one-offs-with-title = Αυτήν τη φορά, αναζήτηση με:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -274,12 +274,12 @@ identity-connection-secure = Ασφαλής σύνδεση
 identity-connection-failure = Αποτυχία σύνδεσης
 identity-connection-internal = Αυτή είναι μια ασφαλής σελίδα του { -brand-short-name }.
 identity-connection-file = Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.
-identity-extension-page = Αυτή η σελίδα φορτώθηκε από μια επέκταση.
+identity-extension-page = Αυτή η σελίδα έχει φορτωθεί από μια επέκταση.
 identity-active-blocked = Το { -brand-short-name } έχει αποκλείσει επισφαλή τμήματα αυτής της σελίδας.
 identity-custom-root = Η σύνδεση επαληθεύτηκε από έναν εκδότη πιστοποιητικών που δεν αναγνωρίζεται από τη Mozilla.
-identity-passive-loaded = Κάποια τμήματα αυτής της σελίδας δεν είναι ασφαλή (π.χ. κάποιες εικόνες).
-identity-active-loaded = Έχετε απενεργοποιήσει την προστασία σε αυτή τη σελίδα.
-identity-weak-encryption = Αυτή η σελίδα χρησιμοποιεί μη ισχυρή κρυπτογράφηση.
+identity-passive-loaded = Κάποια τμήματα αυτής της σελίδας δεν είναι ασφαλή (όπως οι εικόνες).
+identity-active-loaded = Έχετε απενεργοποιήσει την προστασία σε αυτήν τη σελίδα.
+identity-weak-encryption = Αυτή η σελίδα δεν χρησιμοποιεί ισχυρή κρυπτογράφηση.
 identity-insecure-login-forms = Τα στοιχεία σύνδεσης που πληκτρολογήσατε σε αυτή την σελίδα μπορεί να διαρεύσουν.
 identity-permissions =
     .value = Δικαιώματα

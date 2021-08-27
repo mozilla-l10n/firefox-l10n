@@ -107,7 +107,7 @@ toolbar-button-page-save =
 main-context-menu-bookmark-add =
     .aria-label = Δημιουργία σελιδοδείκτη
     .accesskey = δ
-    .tooltiptext = Δημιουργία σελιδοδείκτη για αυτή τη σελίδα
+    .tooltiptext = Δημιουργία σελιδοδείκτη για αυτήν τη σελίδα
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
 # so should probably have the same access key if possible.
@@ -125,7 +125,7 @@ main-context-menu-bookmark-edit-mac =
 main-context-menu-bookmark-add-with-shortcut =
     .aria-label = Δημιουργία σελιδοδείκτη
     .accesskey = δ
-    .tooltiptext = Δημιουργία σελιδοδείκτη για αυτή τη σελίδα ({ $shortcut })
+    .tooltiptext = Δημιουργία σελιδοδείκτη για αυτήν τη σελίδα ({ $shortcut })
 main-context-menu-bookmark-change =
     .aria-label = Επεξεργασία σελιδοδείκτη
     .accesskey = δ
@@ -380,7 +380,7 @@ main-context-menu-manage-logins2 =
     .label = Διαχείριση συνδέσεων
     .accesskey = Δ
 main-context-menu-keyword =
-    .label = Προσθήκη λέξης-κλειδιού για αυτή την αναζήτηση…
+    .label = Προσθήκη λέξης-κλειδιού για αυτήν την αναζήτηση…
     .accesskey = Π
 main-context-menu-link-send-to-device =
     .label = Αποστολή συνδέσμου σε συσκευή

@@ -21,7 +21,7 @@ about-private-browsing-handoff-no-engine =
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff-text = Αναζήτηση με { $engine } ή εισαγωγή διεύθυνσης
 about-private-browsing-handoff-text-no-engine = Αναζήτηση ή εισαγωγή διεύθυνσης
-about-private-browsing-not-private = Αυτή τη στιγμή, δεν βρίσκεστε σε κάποιο ιδιωτικό παράθυρο.
+about-private-browsing-not-private = Αυτήν τη στιγμή, δεν βρίσκεστε σε ιδιωτικό παράθυρο.
 about-private-browsing-info-description = Το { -brand-short-name } διαγράφει το ιστορικό αναζήτησης και περιήγησής σας όταν κλείνετε την εφαρμογή ή όλα τα παράθυρα και τις καρτέλες ιδιωτικής περιήγησης. Αν και δεν έχετε πλήρη ανωνυμία στις ιστοσελίδες ή τον πάροχο υπηρεσίας διαδικτύου, μπορείτε να διατηρείτε τις δραστηριότητές σας ιδιωτικές από τους άλλους χρήστες αυτού του υπολογιστή πιο εύκολα.
 about-private-browsing-need-more-privacy = Χρειάζεστε περισσότερη ιδιωτικότητα;
 about-private-browsing-turn-on-vpn = Δοκιμή του { -mozilla-vpn-brand-name }

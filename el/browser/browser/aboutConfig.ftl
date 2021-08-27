@@ -13,14 +13,11 @@ about-config-intro-warning-button = Αποδοχή κινδύνου και συ�
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
-about-config-caution-text = Η αλλαγή αυτών των προτιμήσεων μπορεί να επηρεάσει την απόδοση ή την ασφάλεια του { -brand-short-name }.
-
+about-config-caution-text = Η αλλαγή αυτών των προτιμήσεων μπορεί να επηρεάσει τις επιδόσεις ή την ασφάλεια του { -brand-short-name }.
 about-config-page-title = Σύνθετες προτιμήσεις
-
 about-config-search-input1 =
     .placeholder = Αναζήτηση ονόματος προτίμησης
 about-config-show-all = Εμφάνιση όλων
-
 about-config-pref-add-button =
     .title = Προσθήκη
 about-config-pref-toggle-button =
