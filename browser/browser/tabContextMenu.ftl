@@ -119,7 +119,7 @@ tab-context-close-n-tabs =
         { $tabCount ->
             [1] Sekmeyi kapat
             [one] { $tabCount } sekmeyi kapat
-           *[other] k
+           *[other] { $tabCount } sekmeyi kapat
         }
     .accesskey = e
 tab-context-move-tabs =
