@@ -2,11 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## The following feature names must be treated as a brand, and kept in English.
 ## They cannot be:
 ## - Declined to adapt to grammatical case.
 ## - Transliterated.
 ## - Translated.
+
 
 ## The following feature names must be treated as a brand.
 ##
@@ -31,3 +33,6 @@
 -mozilla-vpn-brand-name = Mozilla VPN
 -profiler-brand-name = Firefox Profiler
 -translations-brand-name = Firefox Translations
+# “Suggest” can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefox-suggest-brand-name = Sugestões Firefox
