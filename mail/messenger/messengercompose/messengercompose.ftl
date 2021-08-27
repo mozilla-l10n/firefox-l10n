@@ -160,6 +160,53 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Afficher le champ { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Les { $count } destinataires en « Pour » et « Copie à » verront les adresses des autres. Vous pouvez éviter de révéler les destinataires en utilisant plutôt « Copie cachée à ».
+to-address-row-label =
+    .value = Pour
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Champ Pour
+    .accesskey = P
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Pour
+    .accesskey = P
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Pour
+    .title = Afficher le champ Pour ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Copie à
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Champ Copie à
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Copie à
+    .accesskey = C
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Copie à
+    .title = Afficher le champ Copie à ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Copie cachée à
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Champ Copie cachée à
+    .accesskey = h
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Copie cachée à
+    .accesskey = h
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Copie cachée à
+    .title = Afficher le champ Copie cachée à ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Autres champs d’adressage à afficher
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
