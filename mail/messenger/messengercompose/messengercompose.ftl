@@ -160,6 +160,53 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Show { bcc-compose-address-row-label.value } Field ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = The { $count } recipients in To and Cc will see each other’s address. You can avoid disclosing recipients by using Bcc instead.
+to-address-row-label =
+    .value = To
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = To Field
+    .accesskey = T
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = To
+    .accesskey = T
+#   $key (String) - the shortcut key for this field
+show-to-row-button = To
+    .title = Show To Field ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Cc
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Cc Field
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Cc
+    .accesskey = C
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Cc
+    .title = Show Cc Field ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Bcc
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Bcc Field
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Bcc
+    .accesskey = B
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Bcc
+    .title = Show Bcc Field ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Other addressing fields to show
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
