@@ -26,6 +26,8 @@ about-private-browsing-info-description = { -brand-short-name } ombogue jeheka h
 about-private-browsing-need-more-privacy = ¿Eikotevẽvépa ñemigua?
 about-private-browsing-turn-on-vpn = Eipuru { -mozilla-vpn-brand-name }
 about-private-browsing-learn-more-link = Kuaave
+about-private-browsing-hide-activity = Eñomi tembiapo ha tendaite, oimeraẽva tenda eikundahahápe
+about-private-browsing-prominent-cta = Eiko tekoñemíme { -mozilla-vpn-brand-name } ndive
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
