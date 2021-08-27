@@ -68,6 +68,9 @@ about-logins-list-item-breach-icon =
     .title = ভগা ৱেবছাইট
 about-logins-list-item-vulnerable-password-icon =
     .title = অসুৰক্ষিত পাছৱৰ্ড
+about-logins-list-section-today = আজি
+about-logins-list-section-yesterday = কালি
+about-logins-list-section-week = বিগত %S দিন
 
 ## Introduction screen
 
