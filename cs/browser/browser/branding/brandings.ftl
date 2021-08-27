@@ -119,37 +119,37 @@
     { $case ->
        *[nom]
             { $capitalization ->
-               *[upper] Návrhy Firefoxu
-                [lower] návrhy Firefoxu
+               *[upper] Návrhy od Firefoxu
+                [lower] návrhy od Firefoxu
             }
         [gen]
             { $capitalization ->
-               *[upper] Návrhů Firefoxu
-                [lower] návrhů Firefoxu
+               *[upper] Návrhů od Firefoxu
+                [lower] návrhů od Firefoxu
             }
         [dat]
             { $capitalization ->
-               *[upper] Návrhům Firefoxu
-                [lower] návrhům Firefoxu
+               *[upper] Návrhům od Firefoxu
+                [lower] návrhům od Firefoxu
             }
         [acc]
             { $capitalization ->
-               *[upper] Návrhy Firefoxu
-                [lower] návrhy Firefoxu
+               *[upper] Návrhy od Firefoxu
+                [lower] návrhy od Firefoxu
             }
         [voc]
             { $capitalization ->
-               *[upper] Návrhy Firefoxu
-                [lower] návrhy Firefoxu
+               *[upper] Návrhy od Firefoxu
+                [lower] návrhy od Firefoxu
             }
         [loc]
             { $capitalization ->
-               *[upper] Návrzích Firefoxu
-                [lower] návrzích Firefoxu
+               *[upper] Návrzích od Firefoxu
+                [lower] návrzích od Firefoxu
             }
         [ins]
             { $capitalization ->
-               *[upper] Návrhy Firefoxu
-                [lower] návrhy Firefoxu
+               *[upper] Návrhy od Firefoxu
+                [lower] návrhy od Firefoxu
             }
     }
