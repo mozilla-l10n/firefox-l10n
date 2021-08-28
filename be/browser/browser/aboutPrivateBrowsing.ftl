@@ -25,6 +25,10 @@ about-private-browsing-not-private = Вы зараз не ў прыватным 
 about-private-browsing-info-description = { -brand-short-name } ачышчае вашу гісторыю пошуку і аглядання, калі вы выходзіце з праграмы або закрываеце ўсе карткі і вокны прыватнага аглядання. У той час як гэта не робіць вас ананімным для вэб-сайтаў і інтэрнэт-правайдара, гэта дазваляе лягчэй трымаць у сакрэце тое, што вы робіце ў сеціве, ад астатніх карыстальнікаў гэтага камп'ютара.
 about-private-browsing-need-more-privacy = Трэба больш прыватнасці?
 about-private-browsing-turn-on-vpn = Паспрабуйце { -mozilla-vpn-brand-name }
+about-private-browsing-info-description-simplified = { -brand-short-name } ачышчае гісторыю пошуку і аглядання, калі вы закрываеце ўсе прыватныя вокны, але гэта не робіць вас ананімным.
+about-private-browsing-learn-more-link = Даведацца больш
+about-private-browsing-hide-activity = Хавайце сваю актыўнасць і месцазнаходжанне ўсюды, дзе аглядаеце
+about-private-browsing-prominent-cta = Заставайцеся прыватным з { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
