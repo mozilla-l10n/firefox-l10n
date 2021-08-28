@@ -16,6 +16,7 @@ upgrade-dialog-new-item-menu-description = موارد مهم را در اولو�
 upgrade-dialog-new-item-tabs-title = زبانه‌های مدرن
 upgrade-dialog-new-item-tabs-description = حاوی اطلاعات دقیق، پشتیبانی از تمرکز و انعطاف‌پذیری.
 upgrade-dialog-new-item-icons-title = آیکن‌های تازه و پیام‌های واضح‌تر
+upgrade-dialog-new-item-icons-description = راه خود را کمی ساده‌تر پیدا کنید.
 upgrade-dialog-new-primary-default-button = { -brand-short-name } را مرورگر پیش فرض من کن
 upgrade-dialog-new-primary-theme-button = یک تم انتخاب کنید
 upgrade-dialog-new-secondary-button = اکنون نه
@@ -34,6 +35,13 @@ upgrade-dialog-pin-title =
     { PLATFORM() ->
         [macos] { -brand-short-name } را به Dock خود سنجاق کنید
        *[other] { -brand-short-name } را به نوار وظیفه خود سنجاق کنید
+    }
+# The English macOS string avoids repeating "Keep" a third time, so if your
+# translations don't repeat anyway, the same string can be used cross-platform.
+upgrade-dialog-pin-subtitle =
+    { PLATFORM() ->
+        [macos] دسترسی سریع به تازه‌ترین { -brand-short-name } داشته باشید.
+       *[other] تازه‌ترین { -brand-short-name } تا کنون را در دسترس نگه دارید.
     }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
