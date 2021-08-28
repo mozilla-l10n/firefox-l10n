@@ -8,7 +8,7 @@
 <!ENTITY linkToolbar.tooltip "Γραμμή πλοήγησης ιστοσελίδας">
 
 <!-- Link Toolbar visibility options -->
-<!ENTITY linkToolbarAlways.label "Πάντα εμφάνιση">
+<!ENTITY linkToolbarAlways.label "Εμφάνιση πάντα">
 <!ENTITY linkToolbarAlways.accesskey "ε">
 <!ENTITY linkToolbarAsNeeded.label "Εμφάνιση μόνο αν χρειάζεται">
 <!ENTITY linkToolbarAsNeeded.accesskey "μ">
