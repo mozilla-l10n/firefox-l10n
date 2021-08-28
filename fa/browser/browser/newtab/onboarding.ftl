@@ -181,6 +181,8 @@ onboarding-multistage-set-default-secondary-button-label = اکنون نه
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-pin-default-header = با <span data-l10n-name="zap">{ -brand-short-name }</span> فقط یک کلیک فاصله داشته باشید
 onboarding-multistage-pin-default-subtitle = مرور سریع، ایمن و خصوصی هر بار که از وب استفاده می‌کنید.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = پس از باز شدن تنظیمات، { -brand-short-name } را در قسمت Web browser انتخاب کنید
 onboarding-multistage-import-primary-button-label = شروع وارد کردن
 onboarding-multistage-import-secondary-button-label = اکنون نه
 
