@@ -713,7 +713,7 @@ sync-currently-syncing-heading = Bạn hiện đang đồng bộ hóa các mục
 sync-currently-syncing-bookmarks = Dấu trang
 sync-currently-syncing-history = Lịch sử
 sync-currently-syncing-tabs = Các thẻ đang mở
-sync-currently-syncing-logins-passwords = Đăng nhập và mật khẩu
+sync-currently-syncing-logins-passwords = Thông tin đăng nhập và mật khẩu
 sync-currently-syncing-addresses = Địa chỉ
 sync-currently-syncing-creditcards = Thẻ tín dụng
 sync-currently-syncing-addons = Tiện ích
@@ -747,7 +747,7 @@ sync-engine-tabs =
     .tooltiptext = Danh sách những trang web đang mở trên các thiết bị được đồng bộ
     .accesskey = t
 sync-engine-logins-passwords =
-    .label = Đăng nhập và mật khẩu
+    .label = Thông tin đăng nhập và mật khẩu
     .tooltiptext = Tên đăng nhập và mật khẩu bạn đã lưu
     .accesskey = L
 sync-engine-addresses =
@@ -796,7 +796,7 @@ privacy-header = Duyệt web riêng tư
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Đăng nhập & mật khẩu
+pane-privacy-logins-and-passwords-header = Thông tin đăng nhập & mật khẩu
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
