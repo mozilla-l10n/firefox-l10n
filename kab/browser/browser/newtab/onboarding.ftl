@@ -23,6 +23,11 @@ onboarding-button-label-get-started = Bdu
 ### widowed word, so test on various window sizes if you also want this.
 
 
+### UI strings for the MR1 onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
 ## Welcome page strings
 
 onboarding-welcome-header = Ansuf γer { -brand-short-name }
@@ -190,6 +195,9 @@ onboarding-multistage-import-secondary-button-label = Mačči tura
 # Info displayed in the footer of import settings screen during onboarding flow.
 # This supports welcome screen showing top sites imported from the user's default browser.
 onboarding-import-sites-disclaimer = Ismal i d-yettwabedren dagi ttwafen deg yibenk-a.{ -brand-short-name } ur isseklas isefka, ur ten-issestab seg yiming-nniḍen ala ma yella tferneḍ kter-it.
+
+## Multistage onboarding strings (about:welcome pages)
+
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
@@ -208,55 +216,6 @@ onboarding-multistage-theme-label-light = Aceɛlal
 onboarding-multistage-theme-label-dark = Aberkan
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic-2 =
-    .title =
-        Ṭṭef arwes n unagraw-ik·im
-        n wammud i tqeffalin, i wumuɣen d yisfuyla.
-# Input description for automatic theme
-onboarding-multistage-theme-description-automatic-2 =
-    .aria-description =
-        Ṭṭef arwes n unagraw-ik·im
-        n wammud i tqeffalin, i wumuɣen d yisfuyla.
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light-2 =
-    .title =
-        Seqdec arwes aceεlal i tqeffalin,
-        i wumuɣen d yisfuyla.
-# Input description for light theme
-onboarding-multistage-theme-description-light =
-    .aria-description =
-        Seqdec arwes aceεlal i tqeffalin,
-        i wumuɣen d yisfuyla.
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark-2 =
-    .title =
-        Seqdec arwes aberkan i tqeffalin,
-        i wumuɣen d yisfuyla.
-# Input description for dark theme
-onboarding-multistage-theme-description-dark =
-    .aria-description =
-        Seqdec arwes aberkan i tqeffalin,
-        i wumuɣen d yisfuyla.
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow-2 =
-    .title =
-        Seqdec arwes s yiniten i tqeffalin,
-        i wumuɣen d yisfuyla.
-# Input description for Alpenglow theme
-onboarding-multistage-theme-description-alpenglow =
-    .aria-description =
-        Seqdec arwes s yiniten i tqeffalin,
-        i wumuɣen d yisfuyla.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -265,6 +224,11 @@ onboarding-multistage-theme-description-alpenglow =
 # An alternative title for localization is: "It starts here".
 # This text can be formatted to span multiple lines as needed.
 mr1-welcome-screen-hero-text = Syagi ara yebdu kullec
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = Soraya Osorio — Aseɣnaw n yiruka, tḥemmel aṭas Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Sens imrayen
 
@@ -332,6 +296,55 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
+
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Ṭṭef arwes n unagraw-ik·im
+        n wammud i tqeffalin, i wumuɣen d yisfuyla.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Ṭṭef arwes n unagraw-ik·im
+        n wammud i tqeffalin, i wumuɣen d yisfuyla.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Seqdec arwes aceεlal i tqeffalin,
+        i wumuɣen d yisfuyla.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Seqdec arwes aceεlal i tqeffalin,
+        i wumuɣen d yisfuyla.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Seqdec arwes aberkan i tqeffalin,
+        i wumuɣen d yisfuyla.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Seqdec arwes aberkan i tqeffalin,
+        i wumuɣen d yisfuyla.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Seqdec arwes s yiniten i tqeffalin,
+        i wumuɣen d yisfuyla.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Seqdec arwes s yiniten i tqeffalin,
+        i wumuɣen d yisfuyla.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
