@@ -127,7 +127,9 @@ onboarding-pocket-anywhere-title = هرجایی بخوانید و بشنوید
 onboarding-pocket-anywhere-text2 = محتوای مورد علاقه خود را با اپ { -pocket-brand-name } به صورت آفلاین ذخیره کنید و هر زمان که برایتان مناسب بود آن را بخوانید، بشنوید یا تماشا کنید.
 onboarding-pocket-anywhere-button = { -pocket-brand-name } را امتحان کنید
 onboarding-lockwise-strong-passwords-title = ساخت و ذخیرهٔ گذرواژه‌های قوی
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } گذرواژه‌هایی قوی‌ای در محل ایجاد می‌کند و همهٔ آنها را در یک جا ذخیره می‌کند.
 onboarding-lockwise-strong-passwords-button = مدیریت ورودهایتان
+onboarding-facebook-container-title = یک مرز برای فیس‌بوک تعیین کنید.
 onboarding-facebook-container-button = اضافه کردن افزونه
 
 ## Message strings belonging to the Return to AMO flow
