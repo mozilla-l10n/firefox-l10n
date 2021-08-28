@@ -25,6 +25,10 @@ about-private-browsing-not-private = Hiện tại bạn không sử dụng cửa
 about-private-browsing-info-description = { -brand-short-name } xóa lịch sử tìm kiếm và duyệt web của bạn khi bạn thoát khỏi ứng dụng hoặc đóng tất cả các thẻ và cửa sổ duyệt web riêng tư. Mặc dù điều này không làm cho bạn ẩn danh với các trang web hoặc nhà cung cấp dịch vụ internet của bạn, nhưng việc giữ kín những gì bạn làm trực tuyến với mọi người sử dụng máy tính này sẽ dễ dàng hơn.
 about-private-browsing-need-more-privacy = Cần thêm quyền riêng tư?
 about-private-browsing-turn-on-vpn = Hãy thử { -mozilla-vpn-brand-name }
+about-private-browsing-info-description-simplified = { -brand-short-name } xóa lịch sử tìm kiếm và duyệt web của bạn khi bạn đóng tất cả các cửa sổ riêng tư, nhưng điều này không khiến bạn ẩn danh.
+about-private-browsing-learn-more-link = Tìm hiểu thêm
+about-private-browsing-hide-activity = Ẩn hoạt động và vị trí của bạn, ở mọi nơi bạn duyệt
+about-private-browsing-prominent-cta = Giữ riêng tư với { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
