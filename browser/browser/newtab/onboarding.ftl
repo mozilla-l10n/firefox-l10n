@@ -137,6 +137,7 @@ onboarding-import-browser-settings-title = نشانک‌ها، گذرواژه‌
 onboarding-import-browser-settings-text = راحت شروع کنید — به راحتی سایت‌ها و تنظیمات Chrome را با خود بیاورید.
 onboarding-import-browser-settings-button = درون‌ریزی داده‌های Chrome
 onboarding-personal-data-promise-title = ساختاراً محرمانه
+onboarding-personal-data-promise-text = { -brand-product-name } با نگه‌داری داده‌هایی کمتر، محافظت از آنها و روشن کردن نحوهٔ استفادهٔ ما از آنها، به شما و اطلاعاتتان احترام می‌گذارد.
 onboarding-personal-data-promise-button = وعده‌هایمان را بخوانید
 
 ## Message strings belonging to the Return to AMO flow
