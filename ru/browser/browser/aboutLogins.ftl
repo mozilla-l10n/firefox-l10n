@@ -212,9 +212,9 @@ about-logins-confirm-remove-all-dialog-message =
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
-        [one] Сохранён { $count } логин. Удалить их все со всех устройств?
-        [few] Сохранено { $count } логина. Удалить их все со всех устройств?
-       *[many] Сохранено { $count } логинов. Удалить их все со всех устройств?
+        [one] Удалить { $count } логин со всех устройств?
+        [few] Удалить { $count } логина со всех устройств?
+       *[many] Удалить { $count } логинов со всех устройств?
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
