@@ -155,10 +155,19 @@ onboarding-not-now-button-label = اکنون نه
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = بسیار عالی، { -brand-short-name } را دریافت کردید
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = حالا اجازه بدهید برایتان <img data-l10n-name="icon"/><b>{ $addon-name }</b> را بگیریم.
 return-to-amo-add-extension-label = اضافه کردن افزونه
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = به <span data-l10n-name="zap">{ -brand-short-name }</span> خوش آمدید
+onboarding-multistage-welcome-subtitle = مرورگر سریع، ایمن و خصوصی که توسط یک سازمان غیرانتفاعی پشتیبانی می‌شود.
 onboarding-multistage-welcome-primary-button-label = شروع راه‌اندازی
 onboarding-multistage-welcome-secondary-button-label = ورود
 onboarding-multistage-welcome-secondary-button-text = حساب دارید؟
