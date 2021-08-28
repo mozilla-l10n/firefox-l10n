@@ -27,6 +27,7 @@
 <!ENTITY goBackCmd.accesskey          "N">
 <!ENTITY goForwardCmd.label           "Naprej">
 <!ENTITY goForwardCmd.accesskey       "p">
+<!ENTITY reloadCmd.label              "Ponovno naloži">
 <!ENTITY stopCmd.label                "Ustavi">
 <!ENTITY stopCmd.accesskey            "s">
 <!ENTITY reloadFrameCmd.label         "Ponovno naloži okvir">
