@@ -16,6 +16,7 @@ cert-error-untrusted-default = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱯᱟᱹᱛ�
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ᱵᱷᱩᱞ ᱠᱳᱰ: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-symantec-distrust-admin = ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱵᱟᱵᱚᱛ ᱟᱢ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱮᱰᱢᱤᱱᱤᱥᱴᱨᱮᱴᱚᱨ ᱮᱢ ᱮᱛᱞᱟ ᱫᱟᱲᱮᱟᱭᱟ ᱾
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP ᱥᱴᱨᱤᱠᱴ ᱴᱨᱟᱱᱥᱯᱚᱴ ᱥᱮᱠᱭᱚᱨᱤᱴᱭ: { $hasHSTS }
