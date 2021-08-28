@@ -171,8 +171,16 @@ onboarding-multistage-welcome-subtitle = مرورگر سریع، ایمن و خ�
 onboarding-multistage-welcome-primary-button-label = شروع راه‌اندازی
 onboarding-multistage-welcome-secondary-button-label = ورود
 onboarding-multistage-welcome-secondary-button-text = حساب دارید؟
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = { -brand-short-name } را <span data-l10n-name="zap">پیش‌فرض</span> خود قرار دهید
+onboarding-multistage-set-default-subtitle = سرعت، ایمنی و حریم خصوصی هر بار که وب را مرور می‌کنید.
 onboarding-multistage-set-default-primary-button-label = تنظیم به عنوان پیش‌فرض
 onboarding-multistage-set-default-secondary-button-label = اکنون نه
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = با <span data-l10n-name="zap">{ -brand-short-name }</span> فقط یک کلیک فاصله داشته باشید
+onboarding-multistage-pin-default-subtitle = مرور سریع، ایمن و خصوصی هر بار که از وب استفاده می‌کنید.
 onboarding-multistage-import-primary-button-label = شروع وارد کردن
 onboarding-multistage-import-secondary-button-label = اکنون نه
 
