@@ -116,4 +116,4 @@ policy-SupportMenu = Προσθήκη προσαρμοσμένου στοιχε�
 policy-UserMessaging = Απόκρυψη ορισμένων μηνυμάτων από τον χρήστη.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Φραγή ιστοτόπων προς επίσκεψη. Δείτε την τεκμηρίωση για περισσότερες λεπτομέρειες σχετικά με τη μορφή.
-policy-Windows10SSO = Να επιτρέπεται η ενιαία είσοδος των Windows για λογαριασμούς Microsoft, εργασίας και σχολείου.
+policy-Windows10SSO = Να επιτρέπεται η καθολική σύνδεση των Windows για λογαριασμούς Microsoft, εργασίας και σχολείου.
