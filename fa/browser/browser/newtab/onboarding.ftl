@@ -131,7 +131,13 @@ onboarding-lockwise-strong-passwords-title = ساخت و ذخیرهٔ گذروا
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } گذرواژه‌هایی قوی‌ای در محل ایجاد می‌کند و همهٔ آنها را در یک جا ذخیره می‌کند.
 onboarding-lockwise-strong-passwords-button = مدیریت ورودهایتان
 onboarding-facebook-container-title = یک مرز برای فیس‌بوک تعیین کنید.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } نمایهٔ شما از هر چیز دیگری جدا نگه می‌دارد تا فیس‌بوک شما را سخت‌تر برای تبلیغاتش هدف قرار دهد.
 onboarding-facebook-container-button = اضافه کردن افزونه
+onboarding-import-browser-settings-title = نشانک‌ها، گذرواژه‌ها و غیره را درون‌ریزی کنید
+onboarding-import-browser-settings-text = راحت شروع کنید — به راحتی سایت‌ها و تنظیمات Chrome را با خود بیاورید.
+onboarding-import-browser-settings-button = درون‌ریزی داده‌های Chrome
+onboarding-personal-data-promise-title = ساختاراً محرمانه
+onboarding-personal-data-promise-button = وعده‌هایمان را بخوانید
 
 ## Message strings belonging to the Return to AMO flow
 
@@ -147,6 +153,7 @@ onboarding-not-now-button-label = اکنون نه
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = بسیار عالی، { -brand-short-name } را دریافت کردید
 return-to-amo-add-extension-label = اضافه کردن افزونه
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
