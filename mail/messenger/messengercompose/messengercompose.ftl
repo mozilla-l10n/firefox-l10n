@@ -168,6 +168,48 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Zobraziť pole { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Príjemcovia (celkom { $count }) v poliach Komu a Kópia si navzájom uvidia adresy. Zverejňovaniu príjemcov sa môžete vyhnúť použitím Skrytej kópie.
+to-address-row-label =
+    .value = Komu
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Pole Komu
+    .accesskey = m
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Komu
+    .accesskey = m
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Komu
+    .title = Zobraziť pole Komu ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Kópia
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Pole Kópia
+    .accesskey = K
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Kópia
+    .accesskey = K
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Kópia
+    .title = Zobraziť pole Kópia ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Skrytá kópia
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Pole Skrytá kópia
+    .accesskey = S
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Skrytá kópia
+    .accesskey = S
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
