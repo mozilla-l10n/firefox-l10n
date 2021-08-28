@@ -33,3 +33,6 @@
 -mozilla-vpn-brand-name = Mozilla VPN
 -profiler-brand-name = Профайлер Firefox
 -translations-brand-name = Firefox Translations
+# “Suggest” can be localized, “Firefox” must be treated as a brand
+# and kept in English.
+-firefox-suggest-brand-name = Firefox Suggest
