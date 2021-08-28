@@ -106,6 +106,7 @@ onboarding-data-sync-title = تنظیماتتان را با خود ببرید
 onboarding-data-sync-text2 = هرجا که از { -brand-product-name } استفاده می‌کنید، نشانک‌ها، گذرواژه‌ها و بسیاری چیزهای دیگر را همگام‌سازی کنید.
 onboarding-data-sync-button2 = وارد { -sync-brand-short-name } شوید
 onboarding-firefox-monitor-title = نسبت به نشت اطلاعات آگاه باشید
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } مراقب است چنانچه رایانامهٔ شما در یک نشت اطلاعات درز کرده باشد، به شما اطلاع‌رسانی خواهد کرد.
 onboarding-firefox-monitor-button = برای دریافت اخطارها عضو شوید
 onboarding-browse-privately-title = مرور ناشناس
 onboarding-browse-privately-text = مرور ناشناس، سابقه جستجو و مرور شما را پاک می‌کند تا آن را از دید کسانی که از کامپیوتر شما استفاده می‌کنند مخفی نگه دارد.
