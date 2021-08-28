@@ -119,6 +119,9 @@ onboarding-mobile-phone-text = { -brand-product-name } را برای iOS یا An
 # browser.
 onboarding-mobile-phone-button = مرورگر همراه را دریافت کنید
 onboarding-send-tabs-title = بلافاصله زبانه‌ها را برای خود بفرستید
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = به راحتی صفحات را بین دستگاه‌های خود بدون نیاز به رونوشت از پیوندها یا خروج از مرورگر به اشتراک بگذارید.
 onboarding-send-tabs-button = استفاده از فرستادن زبانه‌ها را آغاز کنید
 onboarding-pocket-anywhere-title = هرجایی بخوانید و بشنوید
 onboarding-pocket-anywhere-text2 = محتوای مورد علاقه خود را با اپ { -pocket-brand-name } به صورت آفلاین ذخیره کنید و هر زمان که برایتان مناسب بود آن را بخوانید، بشنوید یا تماشا کنید.
