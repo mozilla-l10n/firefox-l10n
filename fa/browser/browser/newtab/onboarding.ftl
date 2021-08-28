@@ -85,6 +85,11 @@ onboarding-benefit-products-text = به کمک گروهی از ابزارها ک
 # transparent about how we use it."
 onboarding-benefit-privacy-text = هرکاری که ما انجام می‌دهیم به تعهد ما در مورد اطلاعات شخصی وفادار است: چیزهای کمتری بگیر، امن نگهداری کن، مخفی کاری وجود ندارد.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = نشانک‌ها، گذرواژه‌ها، تاریخچه و هر چیز دیگر را هر جا که از { -brand-product-name } استفاده می‌کنید،‌ با خود ببرید.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = اگر اطلاعات خصوصی شما در یک درز اطلاعاتی شناخته‌شده شناسایی شد، از آن آگاه شوید.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = گذرواژه‌هایی که محافظت‌شده و قابل جابجایی هستند را مدیریت کنید.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -118,6 +123,7 @@ onboarding-send-tabs-button = استفاده از فرستادن زبانه‌ه
 onboarding-pocket-anywhere-title = هرجایی بخوانید و بشنوید
 onboarding-pocket-anywhere-text2 = محتوای مورد علاقه خود را با اپ { -pocket-brand-name } به صورت آفلاین ذخیره کنید و هر زمان که برایتان مناسب بود آن را بخوانید، بشنوید یا تماشا کنید.
 onboarding-pocket-anywhere-button = { -pocket-brand-name } را امتحان کنید
+onboarding-lockwise-strong-passwords-title = ساخت و ذخیرهٔ گذرواژه‌های قوی
 onboarding-lockwise-strong-passwords-button = مدیریت ورودهایتان
 onboarding-facebook-container-button = اضافه کردن افزونه
 
