@@ -4,7 +4,7 @@
 
 <!ENTITY spellAddToDictionary.label "Thêm vào từ điển">
 <!ENTITY spellAddToDictionary.accesskey "v">
-<!ENTITY spellUndoAddToDictionary.label "Hoàn tác việc thêm vào từ điển">
+<!ENTITY spellUndoAddToDictionary.label "Hoàn tác thêm vào từ điển">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "Kiểm tra chính tả">
 <!ENTITY spellCheckToggle.accesskey "K">
