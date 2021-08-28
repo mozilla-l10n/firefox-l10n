@@ -210,6 +210,11 @@ show-bcc-row-main-menuitem =
 show-bcc-row-extra-menuitem =
     .label = Skrytá kópia
     .accesskey = S
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Skrytá kópia
+    .title = Zobraziť pole Skrytá kópia ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Ostatné polia s adresou, ktoré sa majú zobraziť
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
