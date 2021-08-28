@@ -168,6 +168,53 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Pokaż pole „{ bcc-compose-address-row-label.value }” ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = { $count } odbiorców w polach Do i Kopia będzie widzieć swoje adresy. Można uniknąć ujawniania odbiorców, używając zamiast tego pola Ukryta kopia.
+to-address-row-label =
+    .value = Do
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Pole „Do”
+    .accesskey = D
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Do
+    .accesskey = D
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Do
+    .title = Pokaż pole „Do” ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Kopia
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Pole „Kopia”
+    .accesskey = K
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Kopia
+    .accesskey = K
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Kopia
+    .title = Pokaż pole „Kopia” ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Ukryta kopia
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Pole „Ukryta kopia”
+    .accesskey = U
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Ukryta kopia
+    .accesskey = U
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Ukryta kopia
+    .title = Pokaż pole „Ukryta kopia” ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Pozostałe pola adresowania
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
