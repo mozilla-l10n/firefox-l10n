@@ -625,6 +625,9 @@ prefs-syncing-off = Ҳамоҳангсозӣ: Ғайрифаъол
 prefs-sync-setup =
     .label = Танзимоти { -sync-brand-short-name }…
     .accesskey = Т
+prefs-sync-turn-on-syncing =
+    .label = Фаъол кардани ҳамоҳангсозӣ…
+    .accesskey = Ф
 prefs-sync-now =
     .labelnotsyncing = Ҳозир ҳамоҳанг кунед
     .accesskeynotsyncing = Ҳ
@@ -735,6 +738,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Истифода кардани ниҳонвожаи хусусӣ
     .accesskey = И
+forms-primary-pw-use =
+    .label = Истифода кардани ниҳонвожаи ибтидоӣ
+    .accesskey = И
 forms-primary-pw-learn-more-link = Маълумоти бештар
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -742,11 +748,15 @@ forms-primary-pw-learn-more-link = Маълумоти бештар
 forms-master-pw-change =
     .label = Тағйир додани ниҳонвожаи хусусӣ…
     .accesskey = Т
+forms-primary-pw-change =
+    .label = Тағйир додани ниҳонвожаи ибтидоӣ…
+    .accesskey = Т
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = Пештар бо номи «ниҳонвожаи хусусӣ» номида мешуд
 forms-master-pw-fips-desc = Ниҳонвожа тағйир дода нашуд
+forms-windows-sso-learn-more-link = Маълумоти бештар
 
 ## OS Authentication dialog
 
@@ -806,6 +816,10 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = Манъ кардани кукиҳо ва иттилооти сомона
     .accesskey = М
+sitedata-option-block-cross-site-trackers =
+    .label = Васоити пайгирии байнисомонавӣ
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Васоити пайгирии шабакаҳои иҷтимоӣ ва байни сомонаҳо
 sitedata-clear =
     .label = Пок кардани маълумот…
     .accesskey = П
@@ -866,6 +880,7 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-private-windows = Муҳтавои пайгирикунанда дар равзанаҳои махфӣ
 content-blocking-cross-site-tracking-cookies = Кукиҳои васоити пайгирӣ байни сомонаҳо
+content-blocking-social-media-trackers = Васоити пайгирии шабакаҳои иҷтимоӣ
 content-blocking-all-cookies = Ҳамаи кукиҳо
 content-blocking-unvisited-cookies = Кукиҳо аз сомонаҳои боқимонда
 content-blocking-all-windows-tracking-content = Муҳтавои пайгирикунанда дар ҳамаи равзанаҳо
