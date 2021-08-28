@@ -183,6 +183,9 @@ onboarding-multistage-pin-default-header = با <span data-l10n-name="zap">{ -br
 onboarding-multistage-pin-default-subtitle = مرور سریع، ایمن و خصوصی هر بار که از وب استفاده می‌کنید.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = پس از باز شدن تنظیمات، { -brand-short-name } را در قسمت Web browser انتخاب کنید
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = این کار { -brand-short-name } را به نوار وظیفه سنجاق و تنظیمات را باز می‌کند
+onboarding-multistage-pin-default-primary-button-label = { -brand-short-name } مرورگر اصلی من شود
 onboarding-multistage-import-primary-button-label = شروع وارد کردن
 onboarding-multistage-import-secondary-button-label = اکنون نه
 
