@@ -90,6 +90,7 @@ perftools-thread-dns-resolver =
 
 ##
 
+perftools-record-all-registered-threads = Zgel afranen-a nnig, teskelseḍ akk isqerdcen
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
