@@ -27,6 +27,8 @@ about-private-browsing-need-more-privacy = Wantin mair privacy?
 about-private-browsing-turn-on-vpn = Gie { -mozilla-vpn-brand-name } a shot
 about-private-browsing-info-description-simplified = { -brand-short-name } dichts yer sairch and stravaigin historie aince ye sneck aw private windaes, but this disnae mak ye anonymous.
 about-private-browsing-learn-more-link = Lairn mair
+about-private-browsing-hide-activity = Hide yer activity and airtin, awwhaur ye stravaig
+about-private-browsing-prominent-cta = Stey private wi { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
