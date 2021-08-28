@@ -186,6 +186,10 @@ onboarding-multistage-pin-default-waiting-subtitle = پس از باز شدن ت�
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = این کار { -brand-short-name } را به نوار وظیفه سنجاق و تنظیمات را باز می‌کند
 onboarding-multistage-pin-default-primary-button-label = { -brand-short-name } مرورگر اصلی من شود
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = گذرواژه‌ها، <br/>نشانک‌ها و <span data-l10n-name="zap">بیشتر</span> را درون‌ریزی کنید
+onboarding-multistage-import-subtitle = از مرورگر دیگری می‌آیید؟ به سادگی تمام اطلاعات خود را به { -brand-short-name } بیاورید.
 onboarding-multistage-import-primary-button-label = شروع وارد کردن
 onboarding-multistage-import-secondary-button-label = اکنون نه
 
