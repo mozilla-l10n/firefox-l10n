@@ -6,5 +6,15 @@
 thunderbird-import-name = Thunderbird
 # Description of the import module
 thunderbird-import-description = Импорт почты из каталога профиля Thunderbird.
-import-select-profile-dir-or-zip = Выберите каталог профиля или zip-архив с каталогом профиля
+import-from-thunderbird-zip =
+    .label = Thunderbird (резервная копия экспортированного профиля; zip-файл размером менее 2 ГБ)
+    .accesskey = з
+import-from-thunderbird-dir =
+    .label = Thunderbird (папка профиля)
+    .accesskey = T
 import-select-profile-zip = Выберите zip-архив с каталогом профиля
+import-select-profile-dir = Выберите каталог профиля
+zip-file-too-big-title = Размер zip-файла слишком велик
+zip-file-too-big-message = Размер выбранного zip-файла превышает 2 ГБ. Пожалуйста, сначала распакуйте его, а затем импортируйте из распакованной папки.
+wizardpage-failed =
+    .label = Импорт не удался
