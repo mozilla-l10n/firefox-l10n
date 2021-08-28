@@ -546,6 +546,12 @@ urlbar-result-action-search-tabs = Serĉi en la langetoj
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Sugestoj de { $engine }
 
 ## Full Screen and Pointer Lock UI
 

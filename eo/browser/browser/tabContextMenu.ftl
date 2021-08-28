@@ -114,6 +114,14 @@ tab-context-close-tabs =
            *[other] Fermi langetojn
         }
     .accesskey = l
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Fermi langeton
+            [one] Fermi { $tabCount } langeton
+           *[other] Fermi { $tabCount } langetojn
+        }
+    .accesskey = l
 tab-context-move-tabs =
     .label =
         { $tabCount ->
