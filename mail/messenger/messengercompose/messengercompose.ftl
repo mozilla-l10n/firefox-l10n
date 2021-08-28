@@ -168,6 +168,53 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Показать поле { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = { $count } адресата(ов) в полях «Кому» и «Копия» увидят адреса друг друга. Вы можете избежать раскрытия адресата(ов), используя вместо этого «Скрытую копию».
+to-address-row-label =
+    .value = Кому
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Поле «Кому»
+    .accesskey = м
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Кому
+    .accesskey = м
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Кому
+    .title = Показать поле «Кому» ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Копия
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Поле «Копия»
+    .accesskey = п
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Копия
+    .accesskey = п
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Копия
+    .title = Показать поле «Копия» ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Скрытая копия
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Поле «Скрытая копия»
+    .accesskey = ы
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Скрытая копия
+    .accesskey = ы
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Скрытая копия
+    .title = Показать поле «Скрытая копия» ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Другие отображаемые поля для адреса
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
