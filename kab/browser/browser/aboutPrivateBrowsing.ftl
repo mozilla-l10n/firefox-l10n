@@ -26,6 +26,9 @@ about-private-browsing-info-description = { -brand-short-name } iseffeḍ azray 
 about-private-browsing-need-more-privacy = Tesriḍ ugar n tbaḍnit?
 about-private-browsing-turn-on-vpn = Ɛreḍ { -mozilla-vpn-brand-name }
 about-private-browsing-info-description-simplified = { -brand-short-name } iseffeḍ anadi-inek·inem d uzray n tunigin mi ara tmedleḍ akk isfuyla usligen, maca aya ur ak·akem-yettarra ara d t·udrig·t.
+about-private-browsing-learn-more-link = Issin ugar
+about-private-browsing-hide-activity = Ffer armud-ik·im d wadig, anida akk i tettinigeḍ
+about-private-browsing-prominent-cta = Qqim d uslig s { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
