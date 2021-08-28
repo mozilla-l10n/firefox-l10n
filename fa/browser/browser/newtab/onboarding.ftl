@@ -23,6 +23,11 @@ onboarding-button-label-get-started = شروع کنید
 ### widowed word, so test on various window sizes if you also want this.
 
 
+### UI strings for the MR1 onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
 ## Welcome page strings
 
 onboarding-welcome-header = به { -brand-short-name } خوش آمدید
@@ -50,6 +55,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = بیایید شروع به کاوش در مورد همه چیزهایی که می‌توانید انجام دهید، کنیم.
 onboarding-fullpage-form-email =
     .placeholder = نشانی رایانامه شما…
 
@@ -140,6 +146,9 @@ onboarding-multistage-set-default-primary-button-label = تنظیم به عنو�
 onboarding-multistage-set-default-secondary-button-label = اکنون نه
 onboarding-multistage-import-primary-button-label = شروع وارد کردن
 onboarding-multistage-import-secondary-button-label = اکنون نه
+
+## Multistage onboarding strings (about:welcome pages)
+
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
@@ -155,15 +164,6 @@ onboarding-multistage-theme-label-light = تاریک
 onboarding-multistage-theme-label-dark = روشن
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = خاموش کردن انیمیشن‌ها
 
@@ -210,4 +210,13 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
+
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
