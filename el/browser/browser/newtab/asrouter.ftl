@@ -72,7 +72,7 @@ cfr-doorhanger-pintab-animation-resume = Συνέχιση
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Συγχρονίστε παντού τους σελιδοδείκτες σας.
-cfr-doorhanger-bookmark-fxa-body = Εξαιρετική ανακάλυψη! Μην ξεχάσετε να αποθηκεύσετε αυτό τον σελιδοδείκτη στις κινητές συσκευές σας. Ξεκινήστε με έναν { -fxaccount-brand-name(case: "acc", capitalization: "lower") }.
+cfr-doorhanger-bookmark-fxa-body = Εξαιρετική ανακάλυψη! Μην ξεχάσετε να αποθηκεύσετε αυτόν τον σελιδοδείκτη στις κινητές συσκευές σας. Ξεκινήστε με έναν { -fxaccount-brand-name(case: "acc", capitalization: "lower") }.
 cfr-doorhanger-bookmark-fxa-link-text = Συγχρονισμός σελιδοδεικτών τώρα…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Κουμπί κλεισίματος
@@ -157,7 +157,7 @@ cfr-whatsnew-fingerprinter-counter-body-alt = Το { -brand-shorter-name } μπ�
 
 ## Bookmark Sync
 
-cfr-doorhanger-sync-bookmarks-header = Λάβετε αυτό το σελιδοδείκτη στο τηλέφωνό σας
+cfr-doorhanger-sync-bookmarks-header = Λάβετε αυτόν τον σελιδοδείκτη στο τηλέφωνό σας
 cfr-doorhanger-sync-bookmarks-body = Πάρτε τους σελιδοδείκτες, τους κωδικούς πρόσβασης, το ιστορικό σας και πολλά άλλα, σε όποια συσκευή έχετε συνδεθεί στο { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Ενεργοποίηση { -sync-brand-short-name }
     .accesskey = Ε
