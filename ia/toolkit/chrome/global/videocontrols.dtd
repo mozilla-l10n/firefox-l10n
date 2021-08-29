@@ -35,7 +35,7 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.network "Reproduction del video abortate per un error de rete.">
 <!ENTITY error.decode "Le video non pote ser reproducite perque le file es corrumpite.">
 <!ENTITY error.srcNotSupported "Formato video o typo MIME non supportate.">
-<!ENTITY error.noSource2 "Nulle formato video supportate e typo MIME trovate.">
+<!ENTITY error.noSource2 "Nulle video con formato e typo MIME supportate ha essite trovate.">
 <!ENTITY error.generic "Le lectura del video ha essite interrumpite a causa de un error incognite.">
 
 <!ENTITY status.pictureInPicture "Iste video se reproduce in modo imagine-in-imagine.">
