@@ -140,7 +140,7 @@ appmenu-reopen-all-windows = Επαναφορά όλων των παραθύρω
 appmenu-restore-session =
     .label = Επαναφορά προηγούμενης συνεδρίας
 appmenu-clear-history =
-    .label = Εκκαθάριση πρόσφατου ιστορικού…
+    .label = Απαλοιφή πρόσφατου ιστορικού…
 appmenu-recent-history-subheader = Πρόσφατο ιστορικό
 appmenu-recently-closed-tabs =
     .label = Πρόσφατα κλεισμένες καρτέλες
@@ -164,7 +164,7 @@ appmenu-help-report-site-issue =
     .label = Αναφορά ζητήματος ιστοτόπου…
 appmenu-help-feedback-page =
     .label = Υποβολή σχολίων…
-    .accesskey = λ
+    .accesskey = β
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -180,8 +180,8 @@ appmenu-help-exit-troubleshoot-mode =
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-report-deceptive-site =
-    .label = Αναφορά παραπλανητικής σελίδας…
-    .accesskey = Α
+    .label = Αναφορά παραπλανητικού ιστοτόπου…
+    .accesskey = λ
 appmenu-help-not-deceptive =
     .label = Αυτός δεν είναι παραπλανητικός ιστότοπος…
     .accesskey = δ
