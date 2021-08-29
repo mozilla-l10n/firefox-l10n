@@ -142,7 +142,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = αντιγράψει 
 
 ## Master Password notification
 
-master-password-notification-message = Παρακαλώ εισάγετε τον κύριο κωδικό πρόσβασής σας για να δείτε τις αποθηκευμένες συνδέσεις.
+master-password-notification-message = Παρακαλώ εισαγάγετε τον κύριο κωδικό πρόσβασής σας για να δείτε τις αποθηκευμένες συνδέσεις & κωδικούς πρόσβασης
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Για να εξαγάγετε τις συνδέσεις σας, εισαγάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
 # This message can be seen when attempting to export a password in about:logins
@@ -151,7 +151,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = εξαγάγει α
 
 ## Primary Password notification
 
-about-logins-primary-password-notification-message = Παρακαλώ εισάγετε τον κύριο κωδικό πρόσβασής σας για να δείτε τις αποθηκευμένες συνδέσεις & κωδικούς πρόσβασης.
+about-logins-primary-password-notification-message = Παρακαλώ εισαγάγετε τον κύριο κωδικό πρόσβασής σας για να δείτε τις αποθηκευμένες συνδέσεις & κωδικούς πρόσβασης
 master-password-reload-button =
     .label = Σύνδεση
     .accesskey = Σ
@@ -171,7 +171,7 @@ enable-password-sync-preferences-button =
         }
     .accesskey = Ά
 about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Να μην γίνει ξανά ερώτηση
+    .label = Να μην ερωτηθώ ξανά
     .accesskey = Ν
 
 ## Dialogs
