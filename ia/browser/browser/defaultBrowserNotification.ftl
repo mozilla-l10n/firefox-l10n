@@ -12,11 +12,11 @@ default-browser-notification-button =
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
-default-browser-prompt-title-pin = Render { -brand-short-name } tu navigator primari?
-default-browser-prompt-message-pin = Tene { -brand-short-name } sempre a portata de mano: predefini lo como navigator e adde lo al barra del applicationes.
+default-browser-prompt-title-pin = Facer de { -brand-short-name } tu navigator primari?
+default-browser-prompt-message-pin = Tene { -brand-short-name } sempre a portata de mano: face lo tu navigator predefinite e adde lo al barra de applicationes.
 default-browser-prompt-message-pin-mac = Mantene { -brand-short-name }  a portata de manos: face lo tu navigator predefinite e mantene lo in tu Dock.
-default-browser-prompt-button-primary-pin = Render navigator primari
-default-browser-prompt-title-alt = Render { -brand-short-name } tu navigator primari?
+default-browser-prompt-button-primary-pin = Facer navigator primari
+default-browser-prompt-title-alt = Facer de { -brand-short-name } tu navigator predefinite?
 default-browser-prompt-message-alt = Obtene velocitate, securitate e confidentialitate cata vice que tu naviga.
 default-browser-prompt-button-primary-alt = Eliger como navigator predefinite
 default-browser-prompt-checkbox-not-again-label = Non monstrar me iste message de novo

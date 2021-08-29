@@ -575,7 +575,7 @@ pointerlock-warning-no-domain = Iste documento controla tu punctator. Preme Esc 
 
 ## Subframe crash notification
 
-crashed-subframe-message = <strong>Parte de iste pagina collabeva.</strong> Pro consentir que { -brand-product-name } sape re iste problema e on pote lo corriger plus velocemente, invia un reporto.
+crashed-subframe-message = <strong>Un parte de iste pagina ha collabite.</strong> Pro permitter que { -brand-product-name } sape de iste problema e lo corrige plus rapidemente, invia un reporto.
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
