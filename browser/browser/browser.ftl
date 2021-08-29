@@ -741,7 +741,7 @@ popups-infobar-block =
 
 popups-infobar-dont-show-message =
     .label = Diese Nachricht nicht mehr einblenden, wenn Pop-ups blockiert wurden
-    .accesskey = I
+    .accesskey = n
 picture-in-picture-hide-toggle =
     .label = Schalter für Bild-im-Bild (PiP) ausblenden
     .accesskey = B
