@@ -12,4 +12,4 @@
 <!ENTITY sync "Για να συγχρονίσετε τις πληροφορίες που έχετε ήδη αποθηκεύσει στο Firefox με αυτή την εγκατάσταση του &brandShortName;, συνδεθείτε στο &syncBrand.fxAccount.label; σας.">
 <!ENTITY continue-button "Συνέχεια">
 
-<!ENTITY mainText "Αυτή η εγκατάσταση του &brandShortName; έχει ένα νέο προφίλ. Δεν μοιράζεται σελιδοδείκτες, κωδικούς πρόσβασης και προτιμήσεις χρήστη με άλλες εγκαταστάσεις του Firefox (συμπεριλαμβανομένων των Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition και Firefox Nightly) σε αυτό τον υπολογιστή.">
+<!ENTITY mainText "Αυτή η εγκατάσταση του &brandShortName; έχει ένα νέο προφίλ. Δεν μοιράζεται σελιδοδείκτες, κωδικούς πρόσβασης και προτιμήσεις χρήστη με άλλες εγκαταστάσεις του Firefox (συμπεριλαμβανομένων των Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition και Firefox Nightly) σε αυτόν τον υπολογιστή.">
