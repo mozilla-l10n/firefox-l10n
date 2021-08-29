@@ -57,7 +57,7 @@ permissions-capabilities-allow =
 permissions-capabilities-block =
     .label = Φραγή
 permissions-capabilities-prompt =
-    .label = Πάντα ερώτηση
+    .label = Ερώτηση πάντα
 permissions-capabilities-listitem-allow =
     .value = Αποδοχή
 permissions-capabilities-listitem-block =
@@ -71,22 +71,22 @@ permissions-capabilities-listitem-off-temporarily =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = Άκυρο όνομα συστήματος
-permissions-invalid-uri-label = Παρακαλώ εισαγάγετε ένα έγκυρο όνομα υπολογιστή
+permissions-invalid-uri-title = Μη έγκυρο όνομα κεντρικού υπολογιστή
+permissions-invalid-uri-label = Παρακαλώ εισαγάγετε ένα έγκυρο όνομα κεντρικού υπολογιστή
 
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window =
     .title = Εξαιρέσεις για την Ενισχυμένη προστασία από καταγραφή
     .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Έχετε απενεργοποιήσει την προστασία στους εξής ιστοτόπους.
+permissions-exceptions-etp-desc = Έχετε απενεργοποιήσει την προστασία σε αυτούς τους ιστοτόπους.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
     .title = Εξαιρέσεις - Cookie και δεδομένα ιστοτόπων
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται πάντα ή δεν επιτρέπεται ποτέ η χρήση των cookie και των δεδομένων ιστοτόπων. Πληκτρολογήστε την ακριβή διεύθυνση του ιστοτόπου που θέλετε να διαχειριστείτε και, στη συνέχεια, επιλέξτε «Φραγή», «Αποδοχή για τη συνεδρία» ή «Αποδοχή».
+permissions-exceptions-cookie-desc = Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται πάντα ή δεν επιτρέπεται ποτέ η χρήση των cookie και των δεδομένων ιστοτόπων. Πληκτρολογήστε την ακριβή διεύθυνση του ιστοτόπου που θέλετε να διαχειριστείτε και έπειτα, επιλέξτε «Φραγή», «Αποδοχή για τη συνεδρία» ή «Αποδοχή».
 
 ## Exceptions - HTTPS-Only Mode
 
@@ -126,37 +126,37 @@ permissions-site-autoplay-desc = Εδώ μπορείτε να διαχειρισ
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
-    .title = Ρυθμίσεις - Άδειες ειδοποιήσεων
+    .title = Ρυθμίσεις - Δικαιώματα ειδοποιήσεων
     .style = { permissions-window.style }
 permissions-site-notification-desc = Οι ακόλουθοι ιστότοποι έχουν ζητήσει το δικαίωμα αποστολής ειδοποιήσεων. Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται η αποστολή ειδοποιήσεων. Μπορείτε επίσης να αποκλείσετε τα νέα αιτήματα ειδοποιήσεων.
 permissions-site-notification-disable-label =
-    .label = Αποκλεισμός νέων αιτημάτων για αποδοχή ειδοποιήσεων
+    .label = Αποκλεισμός νέων αιτημάτων για την αποδοχή ειδοποιήσεων
 permissions-site-notification-disable-desc = Αυτό θα εμποδίσει τα αιτήματα αποστολής ειδοποιήσεων από όλους τους ιστοτόπους που δεν αναγράφονται παραπάνω. Η φραγή ειδοποιήσεων ενδέχεται να προκαλέσει δυσλειτουργία σε ορισμένους ιστοτόπους.
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
-    .title = Ρυθμίσεις - Άδειες τοποθεσίας
+    .title = Ρυθμίσεις - Δικαιώματα τοποθεσίας
     .style = { permissions-window.style }
 permissions-site-location-desc = Οι ακόλουθοι ιστότοποι έχουν ζητήσει πρόσβαση στην τοποθεσία σας. Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται η πρόσβαση στην τοποθεσία σας. Μπορείτε επίσης να αποκλείσετε τα νέα αιτήματα πρόσβασης στην τοποθεσία σας.
 permissions-site-location-disable-label =
-    .label = Αποκλεισμός νέων αιτημάτων για πρόσβαση στην τοποθεσία σας
+    .label = Αποκλεισμός νέων αιτημάτων για την πρόσβαση στην τοποθεσία σας
 permissions-site-location-disable-desc = Αυτό θα εμποδίσει τα αιτήματα πρόσβασης στην τοποθεσία σας από όλους τους ιστοτόπους που δεν αναγράφονται παραπάνω. Η φραγή πρόσβασης στην τοποθεσία σας ενδέχεται να προκαλέσει δυσλειτουργία σε ορισμένους ιστοτόπους.
 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window =
-    .title = Ρυθμίσεις - Άδειες εικονικής πραγματικότητας
+    .title = Ρυθμίσεις - Δικαιώματα εικονικής πραγματικότητας
     .style = { permissions-window.style }
 permissions-site-xr-desc = Οι ακόλουθοι ιστότοποι έχουν ζητήσει πρόσβαση στις συσκευές εικονικής πραγματικότητάς σας. Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται η πρόσβαση στις συσκευές εικονικής πραγματικότητάς σας. Μπορείτε επίσης να αποκλείσετε τα νέα αιτήματα πρόσβασης στις συσκευές εικονικής πραγματικότητάς σας.
 permissions-site-xr-disable-label =
-    .label = Αποκλεισμός νέων αιτημάτων για πρόσβαση στις συσκευές εικονικής πραγματικότητάς σας
+    .label = Αποκλεισμός νέων αιτημάτων για την πρόσβαση σε συσκευές εικονικής πραγματικότητας
 permissions-site-xr-disable-desc = Αυτό θα εμποδίσει τα αιτήματα πρόσβασης στις συσκευές εικονικής πραγματικότητάς σας από όλους τους ιστοτόπους που δεν αναγράφονται παραπάνω. Ο αποκλεισμός πρόσβασης στις συσκευές εικονικής πραγματικότητάς σας ενδέχεται να προκαλέσει δυσλειτουργία σε ορισμένους ιστοτόπους.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
-    .title = Ρυθμίσεις - Άδειες κάμερας
+    .title = Ρυθμίσεις - Δικαιώματα κάμερας
     .style = { permissions-window.style }
 permissions-site-camera-desc = Οι ακόλουθες ιστοσελίδες έχουν αιτηθεί πρόσβαση στην κάμερά σας. Μπορείτε να καθορίσετε σε ποιες ιστοσελίδες επιτρέπεται η πρόσβαση στην κάμερά σας. Μπορείτε επίσης να αποκλείσετε νέα αιτήματα για πρόσβαση στην κάμερά σας.
 permissions-site-camera-disable-label =
