@@ -453,5 +453,5 @@ main-context-menu-eme-learn-more =
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
-    .label = Aperir un ligamine in nove scheda { $containerName }
+    .label = Aperir ligamine in nove scheda { $containerName }
     .accesskey = s

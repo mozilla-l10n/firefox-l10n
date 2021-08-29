@@ -343,13 +343,13 @@ browser-window-close-button =
 ## Tab actions
 
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = In reproduction
+browser-tab-audio-playing2 = REPRODUCTION IN CURSO
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = Silentiate
+browser-tab-audio-muted2 = SILENTIATE
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = Auto-reproduction blocate
+browser-tab-audio-blocked = AUTOREPRODUCTION BLOCATE
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = Imagine-in-imagine
+browser-tab-audio-pip = IMAGINE-IN-IMAGINE
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -413,7 +413,7 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = Blocar sempre
     .accesskey = s
-popup-mute-notifications-checkbox = Silentiar avisos del sito web durante le compartimento
+popup-mute-notifications-checkbox = Silentiar notificationes del sito web durante le compartimento
 
 ## WebRTC window or screen share tab switch warning
 
@@ -555,7 +555,7 @@ urlbar-group-firefox-suggest =
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
-    .label = { $engine } Suggestiones
+    .label = Suggestiones de { $engine }
 
 ## Full Screen and Pointer Lock UI
 
