@@ -19,4 +19,4 @@ state-header = ᱫᱚᱥᱟ
 update-full-build-name = { $name } ({ $buildID })
 update-details = ᱵᱤᱵᱨᱚᱱ ᱠᱚ
 update-installed-on = ᱨᱮ ᱵᱚᱦᱟᱞᱮᱱᱟ : { $date }
-update-status = दोसार : { $status }
+update-status = ᱫᱚᱥᱟ : { $status }
