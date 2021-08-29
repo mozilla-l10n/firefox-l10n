@@ -53,6 +53,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Σύνδεση άλλης συσκευής…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -144,13 +145,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "ο">
 
 <!ENTITY historyMenu.label "Ιστορικό">
-
 <!ENTITY historyUndoMenu.label "Πρόσφατα κλεισμένες καρτέλες">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Πρόσφατα κλεισμένα παράθυρα">
 
 <!ENTITY appMenuHistory.showAll.label "Προβολή όλου του ιστορικού">
-
 <!ENTITY appMenuHistory.clearRecent.label "Εκκαθάριση πρόσφατου ιστορικού…">
 <!ENTITY appMenuHistory.restoreSession.label "Επαναφορά προηγούμενης συνεδρίας">
 <!ENTITY appMenuHistory.viewSidebar.label "Προβολή στήλης ιστορικού">
@@ -243,6 +242,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY quitApplicationCmdMac2.label   "Έξοδος από το &brandShorterName;">
 
 <!ENTITY allowPopups.accesskey "ν">
+
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
@@ -267,12 +267,13 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY uiTour.infoPanel.close "Κλείσιμο">
 
+
 <!ENTITY panicButton.thankyou.msg1                "Έγινε εκκαθάριση του πρόσφατου ιστορικού σας.">
 <!ENTITY panicButton.thankyou.msg2                "Καλή και ασφαλή περιήγηση!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Ευχαριστώ!">
 
 <!ENTITY updateAvailable.panelUI.label "Λήψη ενημέρωσης για το &brandShorterName;">
-<!ENTITY updateManual.panelUI.label "Λήψη μιας φρέσκιας έκδοσης του &brandShorterName;">
+<!ENTITY updateManual.panelUI.label "Λήψη νέου αντιγράφου του &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "Δεν μπορείτε να εκτελέσετε περαιτέρω ενημερώσεις">
 <!ENTITY updateRestart.panelUI.label2 "Επανεκκίνηση για ενημέρωση του &brandShorterName;">
 
