@@ -264,7 +264,7 @@ cfr-doorhanger-doh-secondary-button = Απενεργοποίηση
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Το απόρρητό σας έχει σημασία. Το { -brand-short-name } πλέον απομονώνει, ή βάζει σε sandbox, κάθε ιστοσελίδα, κάνοντας πιο δύσκολη την πρόσβαση των hackers για υποκλοπή κωδικών πρόσβασης, αριθμών πιστωτικών καρτών και άλλων ευαίσθητων πληροφοριών.
+cfr-doorhanger-fission-body-approved = Το απόρρητό σας έχει σημασία. Το { -brand-short-name } πλέον απομονώνει, ή βάζει σε sandbox, κάθε ιστότοπο, κάνοντας πιο δύσκολη την πρόσβαση των hacker για υποκλοπή κωδικών πρόσβασης, αριθμών πιστωτικών καρτών και άλλων ευαίσθητων πληροφοριών.
 cfr-doorhanger-fission-header = Απομόνωση ιστοτόπου
 cfr-doorhanger-fission-primary-button = Το κατάλαβα
     .accesskey = Τ
