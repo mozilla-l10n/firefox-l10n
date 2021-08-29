@@ -201,6 +201,9 @@ onboarding-multistage-import-secondary-button-label = اکنون نه
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
     .aria-label = راه‌اندازی: صفحهٔ { $current } از { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = <span data-l10n-name="zap">ظاهر</span> را انتخاب کنید
 onboarding-multistage-theme-subtitle = { -brand-short-name } را با یک تم سفارشی کنید.
 onboarding-multistage-theme-primary-button-label2 = انجام شد
 onboarding-multistage-theme-secondary-button-label = اکنون نه
@@ -210,6 +213,21 @@ onboarding-multistage-theme-label-light = تاریک
 onboarding-multistage-theme-label-dark = روشن
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+# "Hero Text" displayed on left side of welcome screen.
+# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
+# It also signals the passion users bring to Firefox, how they use
+# Firefox to pursue those passions, as well as the boldness in their
+# choice to use Firefox over a larger competitor browser.
+# An alternative title for localization is: "It starts here".
+# This text can be formatted to span multiple lines as needed.
+mr1-welcome-screen-hero-text =
+    آتش اینجا
+    شروع می‌شود
+# Caption for background image in about:welcome. "Soraya Osorio" is the name
+# of the person and shouldn't be translated.
+# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
+# You can see the picture in about:welcome in Nightly 90.
+mr1-onboarding-welcome-image-caption = ثریا اوزوریو — طراح مبلمان، طرفدار Firefox
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = خاموش کردن انیمیشن‌ها
 
@@ -217,6 +235,18 @@ mr1-onboarding-reduce-motion-button-label = خاموش کردن انیمیشن�
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+# Title used on welcome page when Firefox is not pinned
+mr1-onboarding-pin-header =
+    { PLATFORM() ->
+        [macos] برای دسترسی آسان، { -brand-short-name } را به در Dock نگه دارید
+       *[other] برای دسترسی آسان، { -brand-short-name } را به نوار وظیفه خود سنجاق کنید
+    }
+# Primary button string used on welcome page when Firefox is not pinned.
+mr1-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] نگه داشتن در Dock
+       *[other] سنجاق کردن به نوار وظیفه
+    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -224,6 +254,11 @@ mr1-onboarding-reduce-motion-button-label = خاموش کردن انیمیشن�
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = شروع کنید
 mr1-onboarding-welcome-header = به { -brand-short-name } خوش آمدید
+mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } مرورگر اصلی من شود
+    .title = { -brand-short-name } رو مرورگر پیش‌فرض و به نوار وظیفه سنجاق می‌کند
+# This string will be used on welcome page primary button label
+# when Firefox is not default but already pinned
+mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } را مرورگر پیش فرض من کن
 mr1-onboarding-set-default-secondary-button-label = اکنون نه
 mr1-onboarding-sign-in-button-label = ورود
 
@@ -231,10 +266,13 @@ mr1-onboarding-sign-in-button-label = ورود
 ## when Firefox is not default browser
 
 mr1-onboarding-default-header = { -brand-short-name } را پیش‌فرض خود قرار دهید
+mr1-onboarding-default-subtitle = سرعت، ایمنی و حریم‌خصوصی را همیشه همراه داشته باشید.
 mr1-onboarding-default-primary-button-label = تبدیل به مرورگر پیش‌فرض
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
+mr1-onboarding-import-header = همه را با خودت بیار
+mr1-onboarding-import-subtitle = گذرواژه‌ها، <br/>نشانک‌ها و موارد دیگر را درون‌ریزی کنید.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
@@ -242,6 +280,7 @@ mr1-onboarding-import-primary-button-label-attribution = وارد کردن از 
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = وارد کردن از مرورگر قبلی
 mr1-onboarding-import-secondary-button-label = اکنون نه
+mr1-onboarding-theme-header = مختص خودتان سفارشی کنید
 mr1-onboarding-theme-subtitle = { -brand-short-name } را با یک تم سفارشی کنید.
 mr1-onboarding-theme-primary-button-label = ذخیرهٔ تم
 mr1-onboarding-theme-secondary-button-label = اکنون نه
