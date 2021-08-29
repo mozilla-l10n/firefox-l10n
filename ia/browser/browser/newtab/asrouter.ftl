@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = Prova isto: Clavar le scheda
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Proque vide io isto?
-
 cfr-doorhanger-extension-cancel-button = Non ora
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Adder ora
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Clavar iste scheda
     .accesskey = C
-
 cfr-doorhanger-extension-manage-settings-button = Gerer le configurationes de recommendation
     .accesskey = G
-
 cfr-doorhanger-extension-never-show-recommendation = Non monstrar me iste recommendation
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Saper plus
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = per { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recommendation
 cfr-doorhanger-extension-notification2 = Recommendation
     .tooltiptext = Extension recommendate
     .a11y-announcement = Un recommendation pro un extension es disponibile
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recommendation
@@ -67,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usator
        *[other] { $total } usatores
     }
-
 cfr-doorhanger-pintab-description = Accede facilemente al sitos web que tu usa le plus frequentemente. Mantene le sitos aperte in un scheda (mesmo quando tu reinitia).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -75,10 +66,8 @@ cfr-doorhanger-pintab-description = Accede facilemente al sitos web que tu usa l
 cfr-doorhanger-pintab-step1 = <b>Face clic dextre</b> sur le scheda que tu vole clavar.
 cfr-doorhanger-pintab-step2 = Elige <b>Clavar le scheda</b> in le menu.
 cfr-doorhanger-pintab-step3 = Si le sito se actualisa, un puncto blau apparera sur le scheda fixate.
-
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Reprender
-
 
 ## Firefox Accounts Message
 
@@ -100,22 +89,16 @@ cfr-protections-panel-link-text = Saper plus
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nove function:
-
 cfr-whatsnew-button =
     .label = Novas
     .tooltiptext = Novas
-
 cfr-whatsnew-panel-header = Novas
-
 cfr-whatsnew-release-notes-link-text = Leger le notas de version
-
 cfr-whatsnew-fx70-title = { -brand-short-name } lucta ora plus forte pro tu vita private
 cfr-whatsnew-fx70-body = Le ultime actualisation meliora le protection contra le traciamento e rende plus facile que jammais crear contrasignos secur pro cata sito.
-
 cfr-whatsnew-tracking-protect-title = Protege te ab le traciatores
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } bloca multe traciatores commun social e inter sitos que seque lo que tu face in linea.
 cfr-whatsnew-tracking-protect-link-text = Vider tu reporto
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -126,11 +109,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Vider reporto
-
 cfr-whatsnew-lockwise-backup-title = Face un copia de reserva de tu contrasignos
 cfr-whatsnew-lockwise-backup-body = Ora genera contrasignos secur al quales tu pote acceder non importa ab ubi tu te connecte.
 cfr-whatsnew-lockwise-backup-link-text = Activar le copias de reserva
-
 cfr-whatsnew-lockwise-take-title = Porta tu contrasignos con te
 cfr-whatsnew-lockwise-take-body = Le application mobile { -lockwise-brand-short-name } te permitte acceder con securitate al copia de reserva de tu contrasignos, non importa ubi tu te trova.
 cfr-whatsnew-lockwise-take-link-text = Obtener le application
@@ -139,9 +120,6 @@ cfr-whatsnew-lockwise-take-link-text = Obtener le application
 
 cfr-whatsnew-searchbar-title = Scribe minus, trova plus con le barra de adresse
 cfr-whatsnew-searchbar-body-topsites = Ora, selige le barra de adresse, e un quadro apparera con un lista de ligamines a tu sitos principal.
-
-## Search bar
-
 cfr-whatsnew-searchbar-icon-alt-text = Icone de lupa
 
 ## Picture-in-Picture
@@ -167,7 +145,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Dactylogrammatores blocate
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } bloca multe dactylogrammatores que collige secretemente informationes re tu apparato e tu actiones pro crear de te un profilo publicitari.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Dactylogrammatores
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } pote blocar dactylogrammatores que collige secretemente informationes re tu apparato e tu actiones pro crear de te un profilo publicitari.
@@ -225,14 +202,13 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } ha blocate plus de <b>{ $blockedCount }</b> traciatores desde { $date }!
     }
-
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-        [one] { -brand-short-name } ha blocate ultra <b>{ $blockedCount }</b> traciatores desde { DATETIME($date, month: "long", year: "numeric") }!
-       *[other] { -brand-short-name } ha blocate ultra <b>{ $blockedCount }</b> traciatores desde { DATETIME($date, month: "long", year: "numeric") }!
+        [one] { -brand-short-name } ha blocate plus de <b>{ $blockedCount }</b> traciator desde { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } ha blocate plus de <b>{ $blockedCount }</b> traciatores desde { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Vider toto
     .accesskey = t
@@ -269,12 +245,8 @@ cfr-whatsnew-protections-icon-alt = Icone escudo
 
 cfr-whatsnew-better-pdf-header = Melior experientia PDF
 cfr-whatsnew-better-pdf-body = Le documentos PDF ora aperi directemente in { -brand-short-name }, sin molestar tu fluxo de labor.
-
 cfr-doorhanger-milestone-close-button = Clauder
     .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -293,18 +265,6 @@ cfr-doorhanger-fission-primary-button = De accordo
     .accesskey = a
 cfr-doorhanger-fission-secondary-button = Saper plus
     .accesskey = S
-
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
 
 ## Full Video Support CFR message
 
