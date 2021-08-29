@@ -267,7 +267,7 @@ main-context-menu-media-pip =
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
-    .label = Spectar in Imagine annidate
+    .label = Spectar in imagine-in-imagine
     .accesskey = a
 main-context-menu-image-reload =
     .label = Recargar le imagine
@@ -282,7 +282,7 @@ main-context-menu-image-view-new-tab =
     .label = Aperir imagine in nove scheda
     .accesskey = i
 main-context-menu-video-view-new-tab =
-    .label = Aperir video in un nove scheda
+    .label = Aperir video in nove scheda
     .accesskey = v
 main-context-menu-image-copy =
     .label = Copiar le imagine
@@ -300,7 +300,7 @@ main-context-menu-image-copy-link =
     .label = Copiar le ligamine del imagine
     .accesskey = o
 main-context-menu-video-copy-link =
-    .label = Copiar ligamine del video
+    .label = Copiar le ligamine del video
     .accesskey = o
 main-context-menu-audio-copy-link =
     .label = Copiar le ligamine del audio
