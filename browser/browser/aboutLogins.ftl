@@ -143,7 +143,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = скопироват�
 
 ## Master Password notification
 
-master-password-notification-message = Пожалуйста, введите ваш мастер-пароль для просмотра сохранённых логинов и паролей
+master-password-notification-message = Введите ваш мастер-пароль для просмотра сохранённых логинов и паролей
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Чтобы экспортировать свои логины, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen when attempting to export a password in about:logins
@@ -152,7 +152,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = экспортир�
 
 ## Primary Password notification
 
-about-logins-primary-password-notification-message = Пожалуйста, введите ваш мастер-пароль для просмотра сохранённых логинов и паролей
+about-logins-primary-password-notification-message = Введите ваш мастер-пароль для просмотра сохранённых логинов и паролей
 master-password-reload-button =
     .label = Войти
     .accesskey = В
@@ -245,7 +245,7 @@ about-logins-breach-alert-learn-more-link = Подробнее
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Уязвимый пароль
-about-logins-vulnerable-alert-text2 = Этот пароль был использован в другом аккаунте, который, вероятно, подвергся утечке данных. Дальнейшее использование этих учетных данных ставит все ваши аккаунты под угрозу. Смените этот пароль.
+about-logins-vulnerable-alert-text2 = Этот пароль был использован в другом аккаунте, который, вероятно, подвергся утечке данных. Дальнейшее использование этих учётных данных ставит все ваши аккаунты под угрозу. Смените этот пароль.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Перейти на { $hostname }

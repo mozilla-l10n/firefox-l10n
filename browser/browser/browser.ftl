@@ -16,9 +16,9 @@
 #  $content-title (String): the title of the web content.
 browser-main-window =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Приватный просмотр)
+    .data-title-private = { -brand-full-name } (Приватный режим)
     .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } (Приватный просмотр)
+    .data-content-title-private = { $content-title } — { -brand-full-name } (Приватный режим)
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -35,9 +35,9 @@ browser-main-window =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — (Приватный просмотр)
+    .data-title-private = { -brand-full-name } — (Приватный режим)
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — (Приватный просмотр)
+    .data-content-title-private = { $content-title } — (Приватный режим)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -196,7 +196,7 @@ search-one-offs-context-set-as-default =
     .label = Установить как поисковую систему по умолчанию
     .accesskey = о
 search-one-offs-context-set-as-default-private =
-    .label = Использовать данную поисковую систему по умолчанию в Приватных окнах
+    .label = Использовать как поисковую систему по умолчанию в приватных окнах
     .accesskey = З
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
@@ -582,11 +582,11 @@ pointerlock-warning-no-domain = Этот документ контролируе
 
 ## Subframe crash notification
 
-crashed-subframe-message = <strong>Часть этой страницы упала.</strong> Чтобы сообщить { -brand-product-name } об этой проблеме и ускорить её исправление, пожалуйста, отправьте сообщение.
+crashed-subframe-message = <strong>Часть этой страницы потерпела сбой.</strong> Чтобы сообщить { -brand-product-name } об этой проблеме и ускорить её исправление, отправьте отчёт.
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
-    .title = Часть этой страницы упала. Чтобы сообщить { -brand-product-name } об этой проблеме и ускорить её исправление, пожалуйста, отправьте сообщение.
+    .title = Часть этой страницы потерпела сбой. Чтобы сообщить { -brand-product-name } об этой проблеме и ускорить её исправление, отправьте отчёт.
 crashed-subframe-learnmore-link =
     .value = Узнать больше
 crashed-subframe-submit =
