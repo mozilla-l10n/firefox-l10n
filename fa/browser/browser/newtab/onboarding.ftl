@@ -192,6 +192,9 @@ onboarding-multistage-import-header = گذرواژه‌ها، <br/>نشانک‌
 onboarding-multistage-import-subtitle = از مرورگر دیگری می‌آیید؟ به سادگی تمام اطلاعات خود را به { -brand-short-name } بیاورید.
 onboarding-multistage-import-primary-button-label = شروع وارد کردن
 onboarding-multistage-import-secondary-button-label = اکنون نه
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = سایتهای ذکر شده در اینجا در این دستگاه یافت شدند. { -brand-short-name } داده‌ها را از مرورگرهای دیگر ذخیره یا همگام‌سازی نمی‌کند مگر اینکه این اطلاعات را درون‌ریزی کنید.
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -302,6 +305,86 @@ mr1-onboarding-theme-label-alpenglow = Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        استفاده از ظاهر سیستم‌عامل
+        برای دکمه‌ها، منوها و پنجره‌ها.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        استفاده از ظاهر سیستم‌عامل
+        برای دکمه‌ها، منوها و پنجره‌ها.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        استفاده از تم روشن برای
+        دکمه‌ها، منوها و پنجره‌ها.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        استفاده از تم روشن برای
+        دکمه‌ها، منوها و پنجره‌ها.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        استفاده از تم تاریک برای
+        دکمه‌ها، منوها و پنجره‌ها.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        استفاده از تم تاریک برای
+        دکمه‌ها، منوها و پنجره‌ها.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        استفاده از تم رنگی برای
+        دکمه‌ها، منوها و پنجره‌ها.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        استفاده از تم رنگی برای
+        دکمه‌ها، منوها و پنجره‌ها.
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title =
+        استفاده از ظاهر سیستم‌عامل
+        برای دکمه‌ها، منوها و پنجره‌ها.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description =
+        استفاده از ظاهر سیستم‌عامل
+        برای دکمه‌ها، منوها و پنجره‌ها.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title =
+        استفاده از تم روشن برای
+        دکمه‌ها، منوها و پنجره‌ها.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description =
+        استفاده از تم روشن برای
+        دکمه‌ها، منوها و پنجره‌ها.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title =
+        استفاده از تم تاریک برای
+        دکمه‌ها، منوها و پنجره‌ها.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description =
+        استفاده از تم تاریک برای
+        دکمه‌ها، منوها و پنجره‌ها.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title =
+        استفاده از تم پویا و رنگی
+        برای دکمه‌ها، منوها و پنجره‌ها.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description =
+        استفاده از تم پویا و رنگی
+        برای دکمه‌ها، منوها و پنجره‌ها.
