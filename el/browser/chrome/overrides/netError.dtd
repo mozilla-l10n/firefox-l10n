@@ -128,7 +128,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara2 "Το &brandShortName; ανίχνευσε μια πιθανή απειλή ασφαλείας και δεν συνέχισε στο <span class='hostname'/>. Αν επισκεφθείτε αυτή την ιστοσελίδα, οι επιτιθέμενοι ίσως προσπαθήσουν να υποκλέψουν πληροφορίες, όπως κωδικούς πρόσβασης, email ή στοιχεία πιστωτικών καρτών.">
-<!ENTITY certerror.sts.introPara "Το &brandShortName; ανίχνευσε μια πιθανή απειλή ασφαλείας και δεν συνέχισε στο <span class='hostname'/>, επειδή αυτή η ιστοσελίδα απαιτεί μια ασφαλή σύνδεση.">
+<!ENTITY certerror.sts.introPara "Το &brandShortName; ανίχνευσε μια πιθανή απειλή ασφαλείας και δεν συνέχισε στο <span class='hostname'/> επειδή αυτός ο ιστότοπος απαιτεί ασφαλή σύνδεση.">
 
 <!ENTITY certerror.expiredCert.introPara "Το &brandShortName; ανίχνευσε ένα ζήτημα και δεν συνέχισε στο <span class='hostname'/>. Είτε η ιστοσελίδα έχει ρυθμιστεί με λάθος τρόπο είτε το ρολόι του υπολογιστή σας έχει οριστεί σε λάθος ώρα.">
 <!ENTITY certerror.expiredCert.secondPara2 "Το πιστοποιητικό της ιστοσελίδας έχει πιθανώς λήξει, εμποδίζοντας την ασφαλή σύνδεση του &brandShortName;. Αν επισκεφθείτε αυτή την ιστοσελίδα, οι επιτιθέμενοι ενδέχεται να αποπειραθούν να υποκλέψουν πληροφορίες, όπως τους κωδικούς πρόσβασης, τα email ή τα στοιχεία των πιστωτικών καρτών σας.">
@@ -179,7 +179,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "Προειδοποίηση: Πιθανός κίνδυνος ασφαλείας">
 <!ENTITY certerror.sts.pagetitle  "Δεν έγινε σύνδεση: Πιθανό ζήτημα ασφαλείας">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Το <span class='hostname'></span> έχει μια πολιτική ασφαλείας, που ονομάζεται HTTP Strict Transport Security (HSTS) και σημαίνει ότι το &brandShortName; μπορεί να συνδεθεί μόνο με ασφαλή τρόπο. Δεν μπορείτε να προσθέσετε μια εξαίρεση για να επισκεφθείτε αυτή την ιστοσελίδα.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Το <span class='hostname'></span> έχει μια πολιτική ασφαλείας, που ονομάζεται HTTP Strict Transport Security (HSTS) και σημαίνει ότι το &brandShortName; μπορεί να συνδεθεί μόνο με ασφαλή τρόπο. Δεν μπορείτε να προσθέσετε μια εξαίρεση για να επισκεφθείτε αυτό τον ιστότοπο.">
 <!ENTITY certerror.copyToClipboard.label "Αντιγραφή κειμένου στο πρόχειρο">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
