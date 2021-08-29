@@ -11,7 +11,6 @@ appmenuitem-update-banner3 =
     .label-update-manual = Доступно обновление — загрузить сейчас
     .label-update-unsupported = Не удалось выполнить обновление — несовместимая система
     .label-update-restart = Доступно обновление — перезапустить сейчас
-
 appmenuitem-protection-dashboard-title = Панель состояния защиты
 appmenuitem-customize-mode =
     .label = Настройка…
@@ -44,7 +43,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Закрыть меню приложения
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,7 +54,6 @@ appmenuitem-zoom-enlarge =
     .label = Увеличить
 appmenuitem-zoom-reduce =
     .label = Уменьшить
-
 appmenuitem-fullscreen =
     .label = Полный экран
 
@@ -64,12 +61,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронизировать
-
 appmenu-remote-tabs-sign-into-sync =
     .label = Войти в Синхронизацию…
 appmenu-remote-tabs-turn-on-sync =
     .label = Включить синхронизацию…
-
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизировать
 appmenuitem-fxa-manage-account = Управление аккаунтом
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -83,14 +78,12 @@ appmenu-fxa-signed-in-label = Войти
 appmenu-fxa-setup-sync =
     .label = Включить синхронизацию…
 appmenu-fxa-show-more-tabs = Показать больше вкладок
-
 appmenuitem-save-page =
     .label = Сохранить как…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Что нового
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -103,49 +96,33 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Показать дополнительную информацию
-
 profiler-popup-description-title =
     .value = Записывайте, анализируйте, делитесь
-
 profiler-popup-description = Совместная работа над производительностью с помощью публикации профилей, которыми можно поделиться со своей командой.
-
 profiler-popup-learn-more = Подробнее
-
 profiler-popup-settings =
     .value = Настройки
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Изменить настройки…
-
-profiler-popup-disabled =
-    Профайлер в настоящее время отключён, скорее всего, из-за того, что открыто
-    окно приватного просмотра.
-
+profiler-popup-disabled = Профайлер в настоящее время отключён, скорее всего, из-за того, что открыто приватное окно.
 profiler-popup-recording-screen = Запись…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Пользовательские
-
 profiler-popup-start-recording-button =
     .label = Начать запись
-
 profiler-popup-discard-button =
     .label = Отменить
-
 profiler-popup-capture-button =
     .label = Захватить
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -158,7 +135,6 @@ appmenu-manage-history =
     .label = Управление журналом
 appmenu-reopen-all-tabs = Снова открыть все вкладки
 appmenu-reopen-all-windows = Снова открыть все окна
-
 appmenu-restore-session =
     .label = Восстановить предыдущую сессию
 appmenu-clear-history =
@@ -214,7 +190,6 @@ appmenu-customizetoolbar =
     .label = Настройка панели инструментов…
 appmenu-taskmanager =
     .label = Диспетчер задач
-
 appmenu-developer-tools-subheader = Инструменты браузера
 appmenu-developer-tools-extensions =
     .label = Расширения для разработчиков

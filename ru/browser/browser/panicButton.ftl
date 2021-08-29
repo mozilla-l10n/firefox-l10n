@@ -27,5 +27,5 @@ panic-button-day =
 
 panic-button-action-desc = При этом будут:
 panic-button-delete-cookies = Удалены последние <strong>Куки</strong>
-panic-button-delete-history = Удалена недавняя <strong>История</strong>
+panic-button-delete-history = Удалена недавняя <strong>история</strong>
 panic-button-delete-tabs-and-windows = Закрыты все <strong>Вкладки</strong> и <strong>Окна</strong>

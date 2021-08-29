@@ -26,4 +26,4 @@ error-long-desc4 = Не кусайте роботов за их блестящи
 error-trailer-desc-text = И у них есть план.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
 error-try-again = Попробовать снова
-    .label2 = Пожалуйста, больше не нажимайте эту кнопку.
+    .label2 = Больше не нажимайте эту кнопку.
