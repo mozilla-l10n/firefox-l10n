@@ -34,7 +34,7 @@ protections-panel-site-not-working-view =
 
 protections-panel-not-blocking-why-label = Γιατί;
 protections-panel-not-blocking-why-etp-on-tooltip = Ο αποκλεισμός αυτών θα μπορούσε να καταστρέψει τα στοιχεία μερικών ιστοσελίδων. Χωρίς τους ιχνηλάτες, μερικά κουμπιά, φόρμες και πεδία σύνδεσης ενδέχεται να μην λειτουργούν.
-protections-panel-not-blocking-why-etp-off-tooltip = Όλοι οι ιχνηλάτες σε αυτή την ιστοσελίδα έχουν φορτωθεί επειδή η προστασία είναι ανενεργή.
+protections-panel-not-blocking-why-etp-off-tooltip = Έχουν φορτωθεί όλοι οι ιχνηλάτες του ιστοτόπου επειδή η προστασία είναι ανενεργή.
 
 ##
 
