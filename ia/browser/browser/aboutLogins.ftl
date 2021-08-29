@@ -309,25 +309,25 @@ about-logins-import-dialog-items-no-change =
 about-logins-import-dialog-items-error = <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
 about-logins-import-dialog-done = Facite
 about-logins-import-dialog-error-title = Error de importation
-about-logins-import-dialog-error-conflicting-values-title = Plure valores in conflicto pro un accesso
-about-logins-import-dialog-error-conflicting-values-description = Per exemplo: plure nomines de usator, contrasignos, URLs, etc. pro un accesso.
+about-logins-import-dialog-error-conflicting-values-title = Plure valores in conflicto pro un sol credential
+about-logins-import-dialog-error-conflicting-values-description = Per exemplo: plure nomines de usator, contrasignos, URLs, etc. pro un sol credential.
 about-logins-import-dialog-error-file-format-title = Problema de formato de file
-about-logins-import-dialog-error-file-format-description = Titulos non correcte o carente de columna. Verifica que le file include columnas pro nomine de usator, contrasigno e URL.
+about-logins-import-dialog-error-file-format-description = Titulos de columna incorrecte o mancante. Verifica que le file include columnas pro nomine de usator, contrasigno e URL.
 about-logins-import-dialog-error-file-permission-title = Impossibile leger le file
-about-logins-import-dialog-error-file-permission-description = { -brand-short-name } non ha permisso pro leger le file. Prova cambiar le permissos de file.
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } non ha le permission de leger le file. Prova cambiar le permissiones del file.
 about-logins-import-dialog-error-unable-to-read-title = Impossibile analysar le file
 about-logins-import-dialog-error-unable-to-read-description = Verifica que tu ha seligite un file CSV o TSV.
 about-logins-import-dialog-error-no-logins-imported = Nulle credentiales ha essite importate
 about-logins-import-dialog-error-learn-more = Saper plus
 about-logins-import-dialog-error-try-import-again = Probar importar de novo…
 about-logins-import-dialog-error-cancel = Cancellar
-about-logins-import-report-title = Importar summario
+about-logins-import-report-title = Summario del importation
 about-logins-import-report-description = Credentiales e contrasignos importate in { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
-about-logins-import-report-row-index = Rango { $number }
-about-logins-import-report-row-description-no-change = Duplicate: exacte concordantia con existente credential
+about-logins-import-report-row-index = Linea { $number }
+about-logins-import-report-row-description-no-change = Duplicato: correspondentia exacte con un credential existente
 about-logins-import-report-row-description-modified = Credential existente actualisate
 about-logins-import-report-row-description-added = Nove credential addite
 about-logins-import-report-row-description-error = Error: campo mancante
@@ -336,7 +336,7 @@ about-logins-import-report-row-description-error = Error: campo mancante
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
-about-logins-import-report-row-description-error-multiple-values = Error: valores multiple per le campo “{ $field }”
+about-logins-import-report-row-description-error-multiple-values = Error: valores multiple pro “{ $field }”
 about-logins-import-report-row-description-error-missing-field = Error: { $field } mancante
 
 ##
