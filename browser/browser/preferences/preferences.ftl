@@ -858,7 +858,10 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Vi estas nun en FIPSa reĝimo. FIPS postulas nemalplenan ĉefan pasvorton.
 forms-master-pw-fips-desc = Pasvorto malsukcese ŝanĝita
+forms-windows-sso =
+    .label = Permesi nurfojan komencon de seancon de Windows por kontoj laboraj, lernejaj aŭ de Microsoft
 forms-windows-sso-learn-more-link = Pli da informo
+forms-windows-sso-desc = Administri kontojn en la agordoj de via aparato
 
 ## OS Authentication dialog
 
