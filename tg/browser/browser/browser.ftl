@@ -739,3 +739,9 @@ popups-infobar-block =
 
 ##
 
+popups-infobar-dont-show-message =
+    .label = Ҳангоми баста шудани равзанаҳои зоҳиршаванда, ин паём нишон дода нашавад
+    .accesskey = Ҳ
+picture-in-picture-hide-toggle =
+    .label = Пинҳон кардани васлаки реҷаи «Расм-дар-расм»
+    .accesskey = П
