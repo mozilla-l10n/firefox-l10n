@@ -9,7 +9,7 @@
 
 <!ENTITY servicesMenuMac.label          "Υπηρεσίες">
 
-<!ENTITY hideThisAppCmdMac2.label       "Απόκρυψη &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.label       "Απόκρυψη του &brandShorterName;">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Απόκρυψη άλλων">
 

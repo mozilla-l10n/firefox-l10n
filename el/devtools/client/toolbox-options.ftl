@@ -94,7 +94,7 @@ options-context-advanced-settings = Σύνθετες ρυθμίσεις
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Απενεργοποίηση κρυφής μνήμης HTTP (όταν είναι ανοικτή η εργαλειοθήκη)
 options-disable-http-cache-tooltip =
-    .title = Η ενεργοποίηση αυτής της επιλογής θα απενεργοποιήσει την κρυφή μνήμη HTTP για όλες τις καρτέλες που έχουν ανοικτή την εργαλειοθήκη. Τα service worker δεν επηρεάζονται από αυτή την επιλογή.
+    .title = Η ενεργοποίηση αυτής της επιλογής θα απενεργοποιήσει την κρυφή μνήμη HTTP για όλες τις καρτέλες που έχουν ανοικτή την εργαλειοθήκη. Τα service worker δεν επηρεάζονται από αυτήν την επιλογή.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Απενεργοποίηση JavaScript *
 options-disable-javascript-tooltip =
