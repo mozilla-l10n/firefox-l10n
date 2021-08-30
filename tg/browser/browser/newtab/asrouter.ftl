@@ -152,6 +152,7 @@ cfr-doorhanger-send-tab-ok-button = Ирсоли варақаро озмоед
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Мубодила кардани ин PDF ба таври бехатар
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }-ро озмоед
     .accesskey = р
 
