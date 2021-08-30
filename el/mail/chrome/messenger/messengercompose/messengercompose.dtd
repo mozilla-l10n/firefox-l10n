@@ -21,7 +21,7 @@
 <!ENTITY attachFileCmd.label "Αρχεία…">
 <!ENTITY attachFileCmd.accesskey "Α">
 <!ENTITY attachFileCmd.key "A">
-<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.label "FileLink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Ιστοσελίδα…">
 <!ENTITY attachPageCmd.accesskey "σ">
@@ -308,7 +308,7 @@
 <!ENTITY selectAll.accesskey "λ">
 <!ENTITY attachFile.label "Επισύναψη αρχείων…">
 <!ENTITY attachFile.accesskey "σ">
-<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.label "FileLink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Μετατροπή σε…">
 <!ENTITY convertCloud.accesskey "Μ">
