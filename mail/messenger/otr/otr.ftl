@@ -40,7 +40,7 @@ msgevent-rcvdmsg_general_err = Προέκυψε απρόσμενο σφάλμα 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 #   $msg (string) - the message that was received.
-msgevent-rcvdmsg_unencrypted = Το ακόλουθο μήνυμα που ελήφθη από τον/την { $name } δεν κρυπτογραφήθηκε: { $msg }
+msgevent-rcvdmsg_unencrypted = Το ακόλουθο μήνυμα που ελήφθη από τον/την { $name } δεν ήταν κρυπτογραφημένο: { $msg }
 # Do not translate 'OTR' (name of an encryption protocol)
 # Variables:
 #   $name (String) - the screen name of a chat contact person
