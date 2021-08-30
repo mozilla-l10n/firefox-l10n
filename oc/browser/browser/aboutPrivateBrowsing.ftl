@@ -26,6 +26,8 @@ about-private-browsing-info-description = { -brand-short-name } escafa vòstre i
 about-private-browsing-need-more-privacy = Volètz mai de confidencialitat ?
 about-private-browsing-turn-on-vpn = Ensajatz { -mozilla-vpn-brand-name }
 about-private-browsing-learn-more-link = Ne saber mai
+about-private-browsing-hide-activity = Amagatz vòstras activitats e vòstres emplaçaments, pertot ont navigatz
+about-private-browsing-prominent-cta = Demoratz privat amb { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
