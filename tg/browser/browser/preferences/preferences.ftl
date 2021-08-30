@@ -544,6 +544,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Иваз кардани хусусиятҳо барои пешниҳодҳои дигар дар навори нишонӣ
 suggestions-addressbar-settings-generic2 = Иваз кардани танзимот барои пешниҳодҳои дигар дар навори нишонӣ
 search-one-click-header2 = Миёнбурҳои низомҳои ҷустуҷӯӣ
+search-one-click-desc = Низомҳои ҷустуҷӯии иловагиеро интихоб намоед, ки ҳангоми воридкунии калимаи калидӣ дар зери навори нишонӣ ва навори ҷустуҷӯ пайдо мешаванд.
 search-choose-engine-column =
     .label = Низоми ҷустуҷӯӣ
 search-choose-keyword-column =
