@@ -70,6 +70,10 @@ about-logins-list-item-breach-icon =
     .title = Ogrožena spletna stran
 about-logins-list-item-vulnerable-password-icon =
     .title = Ranljivo geslo
+about-logins-list-section-vulnerable = Ranljiva gesla
+about-logins-list-section-today = Danes
+about-logins-list-section-yesterday = Včeraj
+about-logins-list-section-week = Zadnjih 7 dni
 
 ## Introduction screen
 
