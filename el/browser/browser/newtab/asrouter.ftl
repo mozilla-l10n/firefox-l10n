@@ -172,7 +172,7 @@ cfr-doorhanger-sync-logins-ok-button = Ενεργοποίηση { -sync-brand-sh
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Διαβάστε το εν κινήσει
-cfr-doorhanger-send-tab-recipe-header = Πάρτε αυτή τη συνταγή στην κουζίνα
+cfr-doorhanger-send-tab-recipe-header = Πάρτε αυτήν τη συνταγή στην κουζίνα
 cfr-doorhanger-send-tab-body = Η Αποστολή καρτέλας σάς επιτρέπει να μοιραστείτε εύκολα αυτόν τον σύνδεσμο με το τηλέφωνό σας ή οπουδήποτε έχετε συνδεθεί στο { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Δοκιμάστε την καρτέλα "Αποστολή"
     .accesskey = Δ
@@ -194,9 +194,9 @@ cfr-doorhanger-socialtracking-dont-show-again = Να μην εμφανιστού
     .accesskey = Ν
 cfr-doorhanger-socialtracking-heading = Το { -brand-short-name } εμπόδισε την καταγραφή σας από ένα κοινωνικό δίκτυο
 cfr-doorhanger-socialtracking-description = Η ιδιωτηκότητα σας έχει σημασία. Το { -brand-short-name } αποκλείει πλέον τους συνηθισμένους ιχνηλάτες κοινωνικών δικτύων, περιορίζοντας πόσα δεδομένα συλλέγουν για το τι κάνετε στο διαδίκτυο.
-cfr-doorhanger-fingerprinters-heading = Το { -brand-short-name } απέκλεισε ένα fingerprinter σε αυτή τη σελίδα
+cfr-doorhanger-fingerprinters-heading = Το { -brand-short-name } απέκλεισε ένα fingerprinter σε αυτήν τη σελίδα
 cfr-doorhanger-fingerprinters-description = Το απόρρητό σας έχει σημασία. Το { -brand-short-name } αποκλείει πλέον τα fingerprinters, τα οποία συλλέγουν προσωπικές πληροφορίες σχετικά με τη συσκευή σας για να σας παρακολουθούν.
-cfr-doorhanger-cryptominers-heading = Το { -brand-short-name } απέκλεισε ένα cryptominer σε αυτή τη σελίδα
+cfr-doorhanger-cryptominers-heading = Το { -brand-short-name } απέκλεισε ένα cryptominer σε αυτήν τη σελίδα
 cfr-doorhanger-cryptominers-description = Το απόρρητό σας έχει σημασία. Το { -brand-short-name } αποκλείει πλέον τα cryptominers, τα οποία χρησιμοποιούν την υπολογιστική ισχύ του συστήματός σας για να εξορύξουν ψηφιακό χρήμα.
 
 ## Enhanced Tracking Protection Milestones
@@ -273,7 +273,7 @@ cfr-doorhanger-fission-secondary-button = Μάθετε περισσότερα
 
 ## Full Video Support CFR message
 
-cfr-doorhanger-video-support-body = Τα βίντεο αυτού του ιστοτόπου ενδέχεται να μην αναπαράγονται σωστά σε αυτή την έκδοση του { -brand-short-name }. Για πλήρη υποστήριξη βίντεο, ενημερώστε το { -brand-short-name } τώρα.
+cfr-doorhanger-video-support-body = Τα βίντεο αυτού του ιστοτόπου ενδέχεται να μην αναπαράγονται σωστά σε αυτήν την έκδοση του { -brand-short-name }. Για πλήρη υποστήριξη βίντεο, ενημερώστε το { -brand-short-name } τώρα.
 cfr-doorhanger-video-support-header = Ενημερώστε το { -brand-short-name } για αναπαραγωγή του βίντεο
 cfr-doorhanger-video-support-primary-button = Ενημέρωση τώρα
     .accesskey = Ε
