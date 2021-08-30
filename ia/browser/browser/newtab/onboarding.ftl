@@ -266,9 +266,9 @@ mr1-onboarding-sign-in-button-label = Aperir session
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Rende { -brand-short-name } tu predefinite
-mr1-onboarding-default-subtitle = Pone in autopilota velocitate, securitate e confidentialitate.
-mr1-onboarding-default-primary-button-label = Render predefinite le navigator
+mr1-onboarding-default-header = Facer de { -brand-short-name } tu navigator predefinite
+mr1-onboarding-default-subtitle = Optimisation automatic de velocitate, securitate e confidentialitate.
+mr1-onboarding-default-primary-button-label = Marcar como navigator predefinite
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -277,12 +277,12 @@ mr1-onboarding-import-subtitle = Importa tu contrasignos, <br/>marcapaginas e mu
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
-mr1-onboarding-import-primary-button-label-attribution = Importar ex { $previous }
+mr1-onboarding-import-primary-button-label-attribution = Importar de { $previous }
 # This string will be used in cases where we can't detect the previous browser name.
 mr1-onboarding-import-primary-button-label-no-attribution = Importar del previe navigator
 mr1-onboarding-import-secondary-button-label = Non ora
 mr1-onboarding-theme-header = Personalisa lo
-mr1-onboarding-theme-subtitle = Personalisa { -brand-short-name } per un thema.
+mr1-onboarding-theme-subtitle = Personalisa { -brand-short-name } con un thema.
 mr1-onboarding-theme-primary-button-label = Salvar le thema
 mr1-onboarding-theme-secondary-button-label = Non ora
 # System theme uses operating system color settings
