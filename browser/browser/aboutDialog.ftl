@@ -7,7 +7,7 @@ aboutDialog-title =
 releaseNotes-link = Τι νέο υπάρχει
 update-checkForUpdatesButton =
     .label = Έλεγχος για ενημερώσεις
-    .accesskey = Ε
+    .accesskey = Έ
 update-updateButton =
     .label = Επανεκκίνηση για ενημέρωση του { -brand-shorter-name }
     .accesskey = Ε
@@ -19,7 +19,7 @@ update-failed = Αποτυχία ενημέρωσης. <label data-l10n-name="fa
 update-failed-main = Αποτυχία ενημέρωσης. <a data-l10n-name="failed-link-main">Λήψη της πιο πρόσφατης έκδοσης</a>
 update-adminDisabled = Οι ενημερώσεις έχουν απενεργοποιηθεί από τον διαχειριστή του συστήματος σας
 update-noUpdatesFound = Το { -brand-short-name } είναι ενημερωμένο
-update-otherInstanceHandlingUpdates = Το { -brand-short-name } ενημερώνεται από μια άλλη συνεδρία
+update-otherInstanceHandlingUpdates = Το { -brand-short-name } ενημερώνεται από μια άλλη διεργασία
 update-manual = Διαθέσιμες ενημερώσεις στο <label data-l10n-name="manual-link"/>
 update-unsupported = Δεν μπορείτε να εκτελέσετε περαιτέρω ενημερώσεις σε αυτό το σύστημα. <label data-l10n-name="unsupported-link">Μάθετε περισσότερα</label>
 update-restarting = Επανεκκίνηση…

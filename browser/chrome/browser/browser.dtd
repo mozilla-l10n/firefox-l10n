@@ -19,7 +19,7 @@ can reach it easily. -->
 <!ENTITY  pinTab.label                       "Καρφίτσωμα καρτέλας">
 <!ENTITY  unpinTab.label                     "Ξεκαρφίτσωμα καρτέλας">
 
-<!ENTITY  listAllTabs.label      "Προβολή καρτελών σε λίστα">
+<!ENTITY  listAllTabs.label      "Παράθεση όλων των καρτελών">
 
 <!ENTITY tabCmd.label "Νέα καρτέλα">
 <!ENTITY openFileCmd.label "Άνοιγμα αρχείου…">
@@ -97,7 +97,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY showAllBookmarks2.label "Προβολή όλων των σελιδοδεικτών">
 <!ENTITY recentBookmarks.label "Πρόσφατοι σελιδοδείκτες">
-<!ENTITY bookmarksToolbarChevron.tooltip "Προβολή περισσότερων σελιδοδεικτών">
+<!ENTITY bookmarksToolbarChevron.tooltip "Εμφάνιση περισσότερων σελιδοδεικτών">
 
 <!ENTITY printButton.label            "Εκτύπωση">
 <!ENTITY printButton.tooltip          "Εκτύπωση σελίδας">
@@ -114,7 +114,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksMenuButton2.label         "Μενού σελιδοδεικτών">
 <!ENTITY bookmarksMenuButton.other.label    "Άλλοι σελιδοδείκτες">
 <!ENTITY bookmarksMenuButton.mobile.label   "Σελιδοδείκτες κινητού">
-<!ENTITY viewBookmarksSidebar2.label        "Προβολή στήλης σελιδοδεικτών">
+<!ENTITY viewBookmarksSidebar2.label        "Προβολή πλαϊνής γραμμής σελιδοδεικτών">
 <!ENTITY hideBookmarksSidebar.label         "Απόκρυψη στήλης σελιδοδεικτών">
 <!ENTITY viewBookmarksToolbar.label         "Προβολή γραμμής σελιδοδεικτών">
 <!ENTITY hideBookmarksToolbar.label         "Απόκρυψη γραμμής σελιδοδεικτών">
@@ -149,10 +149,10 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Πρόσφατα κλεισμένα παράθυρα">
 
-<!ENTITY appMenuHistory.showAll.label "Προβολή όλου του ιστορικού">
-<!ENTITY appMenuHistory.clearRecent.label "Εκκαθάριση πρόσφατου ιστορικού…">
+<!ENTITY appMenuHistory.showAll.label "Εμφάνιση πλήρους ιστορικού">
+<!ENTITY appMenuHistory.clearRecent.label "Απαλοιφή πρόσφατου ιστορικού…">
 <!ENTITY appMenuHistory.restoreSession.label "Επαναφορά προηγούμενης συνεδρίας">
-<!ENTITY appMenuHistory.viewSidebar.label "Προβολή στήλης ιστορικού">
+<!ENTITY appMenuHistory.viewSidebar.label "Προβολή πλαϊνής γραμμής ιστορικού">
 <!ENTITY appMenuHistory.hideSidebar.label "Απόκρυψη στήλης ιστορικού">
 <!ENTITY appMenuHistory.recentHistory.label "Πρόσφατο ιστορικό">
 
@@ -204,7 +204,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "Ξ">
 <!ENTITY customizeMenu.removeFromToolbar.label "Αφαίρεση από τη γραμμή εργαλείων">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Α">
-<!ENTITY customizeMenu.addMoreItems.label "Προσθήκη περισσότερων αντικειμένων…">
+<!ENTITY customizeMenu.addMoreItems.label "Προσθήκη περισσότερων στοιχείων…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "α">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -232,7 +232,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullZoom.label                 "Ζουμ">
 
-<!ENTITY sidebarCloseButton.tooltip     "Κλείσιμο πλευρικής στήλης">
+<!ENTITY sidebarCloseButton.tooltip     "Κλείσιμο πλαϊνής γραμμής">
 
 <!ENTITY quitApplicationCmdWin2.label       "Έξοδος">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ξ">
@@ -258,7 +258,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Καρτέλα προγράμματος περιήγησης">
+<!ENTITY tabsToolbar.label "Καρτέλες φυλλομετρητή">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -268,7 +268,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY uiTour.infoPanel.close "Κλείσιμο">
 
 
-<!ENTITY panicButton.thankyou.msg1                "Έγινε εκκαθάριση του πρόσφατου ιστορικού σας.">
+<!ENTITY panicButton.thankyou.msg1                "Το πρόσφατο ιστορικό σας έχει διαγραφτεί.">
 <!ENTITY panicButton.thankyou.msg2                "Καλή και ασφαλή περιήγηση!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Ευχαριστώ!">
 
