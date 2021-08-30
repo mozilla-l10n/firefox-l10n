@@ -67,6 +67,9 @@ about-logins-list-item-breach-icon =
     .title = ఉల్లంఘిత వెబ్‌సైటు
 about-logins-list-item-vulnerable-password-icon =
     .title = బలహీనమైన సంకేతపదం
+about-logins-list-section-today = ఈరోజు
+about-logins-list-section-yesterday = నిన్న
+about-logins-list-section-week = గత 7 రోజులు
 
 ## Introduction screen
 
