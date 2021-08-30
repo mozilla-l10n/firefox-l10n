@@ -205,7 +205,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.removeFromToolbar.label "Αφαίρεση από τη γραμμή εργαλείων">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Α">
 <!ENTITY customizeMenu.addMoreItems.label "Προσθήκη περισσότερων στοιχείων…">
-<!ENTITY customizeMenu.addMoreItems.accesskey "α">
+<!ENTITY customizeMenu.addMoreItems.accesskey "Π">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
