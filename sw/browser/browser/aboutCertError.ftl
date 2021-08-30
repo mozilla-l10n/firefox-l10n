@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-intro = { $hostname } inatumia cheti batili cha usalama
 cert-error-trust-unknown-issuer-intro = Mtu anaweza kuwa anajaribu kuiga tovuti na haufai kuendelea.
 
 ## Messages used for certificate error titles
