@@ -22,6 +22,9 @@
 <!ENTITY maxusers.label     "Maks brukere:">
 <!ENTITY maxusers.accesskey "k">
 
+<!ENTITY refreshNow.label     "Oppdater nå">
+<!ENTITY refreshNow.accesskey "O">
+
 <!ENTITY network.hint.label "Skriv inn et nettverks- eller servernavn (du kan ta med portnummer) og en kanal for å koble til.">
 
 <!ENTITY col.network "Nettverk">
