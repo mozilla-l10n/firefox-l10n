@@ -16,7 +16,7 @@
 <!ENTITY importFromEdgeLegacy.accesskey "L">
 <!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
 <!ENTITY importFromEdgeBeta.accesskey   "d">
-<!ENTITY importFromNothing.label        "Να μην εισαχθεί τίποτα">
+<!ENTITY importFromNothing.label        "Χωρίς εισαγωγή">
 <!ENTITY importFromNothing.accesskey    "Ν">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
@@ -35,11 +35,11 @@
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Δεν βρέθηκαν προγράμματα τα οποία περιέχουν σελιδοδείκτες, ιστορικό ή δεδομένα κωδικών.">
+<!ENTITY noMigrationSources.label       "Δεν βρέθηκαν προγράμματα που να περιέχουν σελιδοδείκτες, ιστορικό ή δεδομένα κωδικών πρόσβασης.">
 
 <!ENTITY importSource.title             "Εισαγωγή ρυθμίσεων και δεδομένων">
 <!ENTITY importItems.title              "Στοιχεία προς εισαγωγή">
-<!ENTITY importItems.label              "Επιλέξτε στοιχεία προς εισαγωγή:">
+<!ENTITY importItems.label              "Επιλέξτε στοιχεία για εισαγωγή:">
 
 <!ENTITY migrating.title                "Εισαγωγή…">
 <!ENTITY migrating.label                "Αυτήν τη στιγμή, εισάγονται τα παρακάτω στοιχεία…">
@@ -48,6 +48,6 @@
 <!ENTITY selectProfile.label            "Τα ακόλουθα προφίλ είναι διαθέσιμα για εισαγωγή από:">
 
 <!ENTITY done.title                     "Η εισαγωγή ολοκληρώθηκε">
-<!ENTITY done.label                     "Τα ακόλουθα στοιχεία εισήχθησαν επιτυχώς:">
+<!ENTITY done.label                     "Έγινε επιτυχής εισαγωγή των παρακάτω στοιχείων:">
 
 <!ENTITY closeSourceBrowser.label       "Παρακαλώ βεβαιωθείτε ότι το επιλεγμένο πρόγραμμα περιήγησης είναι κλειστό πριν συνεχίσετε.">
