@@ -62,6 +62,7 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = Варақаеро, ки мехоҳед васл кунед, <b>бо тугмаи рости муш зер намоед</b>.
 cfr-doorhanger-pintab-step2 = Аз меню <b>Васл кардани варақа</b>-ро интихоб намоед.
 cfr-doorhanger-pintab-animation-pause = Таваққуф кардан
 cfr-doorhanger-pintab-animation-resume = Давом додан
