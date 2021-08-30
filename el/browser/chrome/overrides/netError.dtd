@@ -42,7 +42,7 @@
 ">
 
 <!ENTITY generic.longDesc "
-<p>Για κάποιο λόγο, το &brandShortName; δεν μπορεί να φορτώσει αυτή τη σελίδα.</p>
+<p>Το &brandShortName; δεν μπορεί να φορτώσει αυτήν τη σελίδα για κάποιο λόγο.</p>
 ">
 
 <!ENTITY captivePortal.title "Σύνδεση στο δίκτυο">
@@ -82,7 +82,7 @@
 
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>Ίσως να χρειάζεται να εγκαταστήσετε κάποιο άλλο λογισμικό για το άνοιγμα αυτής της διεύθυνσης.</li>
+  <li>Ίσως χρειαστεί να εγκαταστήσετε κάποιο άλλο λογισμικό για να ανοίξετε αυτήν τη διεύθυνση.</li>
 </ul>
 ">
 
@@ -127,7 +127,7 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara2 "Το &brandShortName; ανίχνευσε μια πιθανή απειλή ασφαλείας και δεν συνέχισε στο <span class='hostname'/>. Αν επισκεφθείτε αυτή την ιστοσελίδα, οι επιτιθέμενοι ίσως προσπαθήσουν να υποκλέψουν πληροφορίες, όπως κωδικούς πρόσβασης, email ή στοιχεία πιστωτικών καρτών.">
+<!ENTITY certerror.introPara2 "Το &brandShortName; ανίχνευσε μια πιθανή απειλή ασφαλείας και δεν συνέχισε στο <span class='hostname'/>. Αν επισκεφθείτε αυτόν τον ιστότοπο, οι εισβολείς ενδέχεται να προσπαθήσουν να υποκλέψουν πληροφορίες, όπως τους κωδικούς πρόσβασης, τα email ή τα στοιχεία των πιστωτικών καρτών σας.">
 <!ENTITY certerror.sts.introPara "Το &brandShortName; ανίχνευσε μια πιθανή απειλή ασφαλείας και δεν συνέχισε στο <span class='hostname'/> επειδή αυτός ο ιστότοπος απαιτεί ασφαλή σύνδεση.">
 
 <!ENTITY certerror.expiredCert.introPara "Το &brandShortName; ανίχνευσε ένα ζήτημα και δεν συνέχισε στο <span class='hostname'/>. Είτε η ιστοσελίδα έχει ρυθμιστεί με λάθος τρόπο είτε το ρολόι του υπολογιστή σας έχει οριστεί σε λάθος ώρα.">
