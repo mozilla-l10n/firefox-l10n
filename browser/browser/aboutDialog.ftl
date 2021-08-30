@@ -25,6 +25,7 @@ update-unsupported = आपण या सिस्टीमवर आणखी �
 update-restarting = पुनःसुरु होत आहे…
 channel-description = आपण सध्या <label data-l10n-name="current-channel"></label> सुधारणा वाहिनीवर आहात.
 warningDesc-version = { -brand-short-name } प्रायोगिक आहे व अस्थिर असू शकते.
+aboutdialog-help-user = { -brand-product-name } मदत
 aboutdialog-submit-feedback = अभिप्राय सादर करा
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> आहे <label data-l10n-name="community-exp-creditsLink">जागतिक समुदाय</label> सर्वांसाठी वेब ओपन, सार्वजनिक व उपलब्ध करण्यासाठी एकत्र कार्यरत आहोत.
 community-2 = { -brand-short-name } ची रचना<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, एक   <label data-l10n-name="community-creditsLink">जागतिक समुदाय</label> सर्वांसाठी वेब ओपन, सार्वजनिक व उपलब्ध करण्यासाठी एकत्र कार्यरत आहोत.
