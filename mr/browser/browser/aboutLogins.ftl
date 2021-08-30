@@ -68,11 +68,20 @@ about-logins-list-item-breach-icon =
     .title = उल्लंघीत वेबसाईट
 about-logins-list-item-vulnerable-password-icon =
     .title = असुरक्षित पासवर्ड
+about-logins-list-section-breach = ब्रीच झालेल्या वेबसाइट्स
+about-logins-list-section-vulnerable = असुरक्षित पासवर्ड
+about-logins-list-section-nothing = कोणताही अलर्ट नाही
+about-logins-list-section-today = आज
+about-logins-list-section-yesterday = काल
+about-logins-list-section-week = गेल्या 7 दिवसांत
 
 ## Introduction screen
 
+login-intro-heading = आपले जतन केलेले लॉगिन शोधत आहात? { -sync-brand-short-name } सेट करा.
+about-logins-login-intro-heading-logged-out2 = आपले जतन केलेले लॉगिन शोधत आहात? सिंक चालू करा किंवा त्यांना आयात करा.
 about-logins-login-intro-heading-logged-in = कोणतेही सिंक केलेले लॉगिन सापडले नाहीत.
 login-intro-description = आपले लॉगिन जर वेगळ्या { -brand-product-name } डिव्हाईस वर असतील तर ते कसे पाहायचे ते इथे आहे
+login-intro-instruction-fxa = आपले लॉगिन जतन केलेल्या डिव्हाइसवर तुमचे { -fxaccount-brand-name } तयार करा किंवा साइन इन करा.
 about-logins-intro-instruction-help = अधिक मदतीसाठी<a data-l10n-name="help-link">{ -lockwise-brand-short-name } समर्थन </a> ला भेट द्या
 
 ## Login
@@ -108,6 +117,15 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = जतन केलेले लॉगिन संपादित करा
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = जतन केलेला पासवर्ड दाखवा.
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = जतन केलेला पासवर्ड कॉपी करा
 
 ## Master Password notification
 
@@ -133,6 +151,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = लॉगिन मिटवायचे?
 confirm-delete-dialog-message = ही कृती बदलू शकत नाही
 about-logins-confirm-remove-dialog-confirm-button = काढा
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] { $count } लॉगिन काढायचे का?
+       *[other] सर्व { $count } लॉगिन काढायचे का?
+    }
 about-logins-confirm-export-dialog-confirm-button = निर्यात…
 confirm-discard-changes-dialog-title = जतन न केलेले बदल टाकून द्यायचे?
 confirm-discard-changes-dialog-message = सर्व जतन न केलेले बदल गमावले जातील.
