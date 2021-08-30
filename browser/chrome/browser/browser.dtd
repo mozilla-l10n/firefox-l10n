@@ -168,11 +168,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Εμφάνιση περισσότερων">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.tooltip "Εμφάνιση περισσότερων καρτελών από αυτή τη συσκευή">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Εμφάνιση περισσότερων καρτελών αυτής της συσκευής">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Εμφάνιση όλων">
-<!ENTITY appMenuRemoteTabs.showAll.tooltip "Εμφάνιση όλων των καρτελών από αυτή τη συσκευή">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Εμφάνιση όλων των καρτελών αυτής της συσκευής">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ενεργοποιήστε τον συγχρονισμό καρτελών για να δείτε μια λίστα από καρτέλες από τις άλλες σας συσκευές.">
