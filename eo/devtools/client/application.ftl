@@ -83,9 +83,6 @@ serviceworker-empty-suggestions-aboutdebugging2 = Vidi service worker en aliaj n
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifesto de programo
 # Header for the Manifest page when there's no manifest to inspect
-# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = Vi devas aldoni manifeston de teksaĵa programo por povi inspekti ĝin ĉi tie.
-# Header for the Manifest page when there's no manifest to inspect
 manifest-empty-intro2 = Neniu manifesto de tekstaĵa programo detektita
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro-link = Pli da informo pri kreado de manifesto
