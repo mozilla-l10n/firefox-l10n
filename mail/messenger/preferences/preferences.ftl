@@ -492,7 +492,7 @@ remove-cloud-account =
     .accesskey = Α
 find-cloud-providers =
     .value = Εύρεση περισσότερων παρόχων…
-cloud-account-description = Προσθήκη νέας υπηρεσίας αποθηκευτικού χώρου Filelink
+cloud-account-description = Προσθήκη νέας υπηρεσίας αποθηκευτικού χώρου FileLink
 
 ## Privacy Tab
 
