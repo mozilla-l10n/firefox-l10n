@@ -85,7 +85,7 @@
 <!ENTITY size-tinyCmd.label "Μικροσκοπικά">
 <!ENTITY size-tinyCmd.accesskey "ι">
 <!ENTITY size-smallCmd.label "Μικρά">
-<!ENTITY size-smallCmd.accesskey "μ">
+<!ENTITY size-smallCmd.accesskey "Μ">
 <!ENTITY size-mediumCmd.label "Μεσαία">
 <!ENTITY size-mediumCmd.accesskey "σ">
 <!ENTITY size-largeCmd.label "Μεγάλα">
@@ -96,8 +96,8 @@
 <!ENTITY size-hugeCmd.accesskey "ρ">
 
 <!-- Font Style SubMenu -->
-<!ENTITY fontStyleMenu.label "Στυλ κειμένου">
-<!ENTITY fontStyleMenu.accesskey "Σ">
+<!ENTITY fontStyleMenu.label "Μορφή κειμένου">
+<!ENTITY fontStyleMenu.accesskey "Μ">
 <!ENTITY styleBoldCmd.label "Έντονα">
 <!ENTITY styleBoldCmd.accesskey "ν">
 <!ENTITY styleBoldCmd.key "B">
@@ -108,7 +108,7 @@
 <!ENTITY styleUnderlineCmd.accesskey "Υ">
 <!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Διαγράμμιση">
-<!ENTITY styleStrikeThruCmd.accesskey "Δ">
+<!ENTITY styleStrikeThruCmd.accesskey "μ">
 <!ENTITY styleSuperscriptCmd.label "Εκθέτης">
 <!ENTITY styleSuperscriptCmd.accesskey "θ">
 <!ENTITY styleSubscriptCmd.label "Δείκτης">
