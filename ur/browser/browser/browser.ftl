@@ -389,6 +389,10 @@ urlbar-remote-control-notification-anchor =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = ویب پر تلاش کریں
     .aria-label = { $name } کے ساتھ تلاش کریں
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = تلاش کی شرائط درج کریں
+    .aria-label = ٹیب  تلاش کریں
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -444,6 +448,16 @@ urlbar-result-action-search-tabs = تلاش ٹیبس
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } تجاویز
 
 ## Full Screen and Pointer Lock UI
 
@@ -590,6 +604,9 @@ remote-tabs-sync-now = ابھی سنک کریں
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = مزید…
 ui-tour-info-panel-close =
     .tooltiptext = بند کریں
 
