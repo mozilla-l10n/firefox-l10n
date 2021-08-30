@@ -38,7 +38,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = همهٔ ردیاب‌ها�
 
 ##
 
-protections-panel-no-trackers-found = هیچ ردیابی که برای { -brand-short-name } آشنا باشد در این صفحه شناسایی شدند.
+protections-panel-no-trackers-found = هیچ ردیابی که برای { -brand-short-name } آشنا باشد در این صفحه شناسایی نشده است.
 protections-panel-content-blocking-tracking-protection = محتوای ردیابی
 protections-panel-content-blocking-socialblock = ردیاب‌های شبکه‌های اجتماعی
 protections-panel-content-blocking-cryptominers-label = استخراج کننده‌های رمزارزها
