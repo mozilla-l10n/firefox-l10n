@@ -76,6 +76,14 @@ tab-context-share-more =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] بند ٹیب کو دوبارہ کھولیں
+            [one] بند ٹیب کو دوبارہ کھولیں
+           *[other] o
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->
