@@ -8,6 +8,7 @@
 
 <!ENTITY markAsUnreadCmd.label     "Som ulest">
 <!ENTITY markAsUnreadCmd.accesskey "u">
+<!ENTITY markAsUnreadCmd2.key      "u">
 
 <!ENTITY markFlaggedCmd.label     "Flagg">
 <!ENTITY markFlaggedCmd.accesskey "F">
