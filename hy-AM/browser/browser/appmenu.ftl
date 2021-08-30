@@ -5,6 +5,12 @@
 
 ## App Menu
 
+appmenuitem-update-banner3 =
+    .label-update-downloading = Ներբեռնվում է { -brand-shorter-name }-ի արդիացումը
+    .label-update-available = Արդիացում է մատչելի՝ ներբեռնեք հիմա
+    .label-update-manual = Արդիացում է մատչելի՝ ներբեռնեք հիմա
+    .label-update-unsupported = Անհնար է արդիացնել՝ համակարգը անհամատեղելի է
+    .label-update-restart = Մատչելի է արդիացում՝ վերագործարկեք
 appmenuitem-protection-dashboard-title = Պաշտպանության վահանակ
 appmenuitem-customize-mode =
     .label = Հարմարեցնել…
