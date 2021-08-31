@@ -23,7 +23,6 @@ appmenuitem-zoom-enlarge =
     .label = Yaxınlaşdır
 appmenuitem-zoom-reduce =
     .label = Uzaqlaşdır
-
 appmenuitem-fullscreen =
     .label = Tam ekran
 
@@ -31,7 +30,13 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = İndi Sinxronizə et
-
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Açıq vərəq yoxdur
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün vərəq sinxronizasiyasını aktivləşdirin.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Digər cihazlarınızda olan vərəqləri burada görmək istərdiniz?
 appmenuitem-save-page =
     .label = Fərqli saxla…
 
@@ -84,4 +89,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Tapşırıq idarə edicisi
-
