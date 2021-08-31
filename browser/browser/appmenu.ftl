@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Buscar en la página…
 appmenuitem-more-tools =
     .label = Más herramientas
+appmenuitem-help =
+    .label = Ayuda
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
