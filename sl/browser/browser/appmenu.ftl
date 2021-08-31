@@ -84,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Vključite sinhronizacijo zavihkov za ogled
 appmenu-remote-tabs-noclients = Želite tukaj videti zavihke drugih naprav?
 appmenu-remote-tabs-connectdevice =
     .label = Poveži drugo napravo
+appmenu-remote-tabs-welcome = Oglejte si seznam zavihkov drugih naprav.
 appmenu-remote-tabs-unverified = Svoj račun morate potrditi.
 appmenuitem-fxa-toolbar-sync-now2 = Sinhroniziraj zdaj
 appmenuitem-fxa-manage-account = Upravljanje računa
