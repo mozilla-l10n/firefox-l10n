@@ -65,6 +65,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Sync에 로그인…
 appmenu-remote-tabs-turn-on-sync =
     .label = Sync 켜기…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = 모두 보기
+    .tooltiptext = 이 기기의 탭 모두 보기
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = 열린 탭이 없음
 # This is shown when Sync is configured but this appears to be the only device attached to
