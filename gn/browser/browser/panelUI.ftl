@@ -5,6 +5,10 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Eipe’a poravorã hembypáva
+    .accesskey = U
 customize-menu-add-to-toolbar =
     .label = Tembipuru rendáre mbojoapy
     .accesskey = A
