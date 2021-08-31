@@ -5,6 +5,9 @@
 
 ## Customization Menu
 
+customize-menu-add-to-toolbar =
+    .label = Legg til i verktøylinje
+    .accesskey = L
 
 ## Forget Button
 
