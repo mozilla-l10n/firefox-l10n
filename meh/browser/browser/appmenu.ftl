@@ -23,6 +23,8 @@ appmenuitem-find-in-page =
     .label = Nánuku nu página
 appmenuitem-more-tools =
     .label = Kue'eka ka̱a̱
+appmenuitem-help =
+    .label = Chinei
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -51,6 +53,19 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Kajie´e sesión ji Sync...
 appmenu-remote-tabs-turn-on-sync =
     .label = Tee Sync…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Kune´yá kuaiyo
+    .tooltiptext = Xituvi kue'eka sukua nuu ka̱a̱ ya'a
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Ntu nune pestañas
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = ¿Kuvinu kune´yanu da pestañas inka dispositvos nuu ya´a?
+appmenu-remote-tabs-connectdevice =
+    .label = Chu´un inka ka̱a̱
+appmenu-remote-tabs-welcome = Kune´ya iin lista da pestañas da inka dispositivos.
+appmenu-remote-tabs-unverified = Cuenta noo´o nejika koo verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ntañu´u
 appmenuitem-fxa-manage-account = Tetiñu cuenta
 appmenu-fxa-header2 = { -fxaccount-brand-name }
