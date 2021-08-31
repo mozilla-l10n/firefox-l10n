@@ -12,6 +12,9 @@ customize-menu-unpin-from-overflowmenu =
 customize-menu-add-to-toolbar =
     .label = Apondre a la barra d'aisinas
     .accesskey = A
+customize-menu-add-to-overflowmenu =
+    .label = Apondre al menú desbordament
+    .accesskey = M
 
 ## Forget Button
 
