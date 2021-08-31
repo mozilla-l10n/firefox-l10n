@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = 페이지에서 찾기…
 appmenuitem-more-tools =
     .label = 더 많은 도구
+appmenuitem-help =
+    .label = 도움말
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
