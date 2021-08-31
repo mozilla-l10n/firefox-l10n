@@ -78,6 +78,10 @@ appmenu-remote-tabs-tabsnotsyncing = Gweredekait goubredañ an ivinelloù evit g
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Fellout a ra deoc'h gwelout ivinelloù ho trevnadoù all amañ?
+appmenu-remote-tabs-connectdevice =
+    .label = Kennaskañ un trevnad all
+appmenu-remote-tabs-welcome = Gwelout ur roll ivinelloù eus ho trevnadoù all.
+appmenu-remote-tabs-unverified = Ret eo gwiriekaat ho kont.
 appmenuitem-fxa-toolbar-sync-now2 = Goubredañ bremañ
 appmenuitem-fxa-manage-account = Merañ ar gont
 appmenu-fxa-header2 = { -fxaccount-brand-name }
