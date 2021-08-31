@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Finn på siden …
 appmenuitem-more-tools =
     .label = Flere verktøy …
+appmenuitem-help =
+    .label = Hjelp
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,6 +67,14 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Logg inn for å synkronisere …
 appmenu-remote-tabs-turn-on-sync =
     .label = Slå på synkronisering …
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Vis alle
+    .tooltiptext = Vis alle faner fra denne enheten
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Vis flere faner
+    .tooltiptext = Vis flere faner fra denne enheten
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ingen åpne faner
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -72,6 +82,10 @@ appmenu-remote-tabs-tabsnotsyncing = Skru på fane-synkronisering for å se en l
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vil du se faner fra de andre enhetene dine her?
+appmenu-remote-tabs-connectdevice =
+    .label = Koble til en annen enhet
+appmenu-remote-tabs-welcome = Vis en liste over faner fra andre enheter.
+appmenu-remote-tabs-unverified = Kontoen din må bekrefts.
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser nå
 appmenuitem-fxa-manage-account = Behandle konto
 appmenu-fxa-header2 = { -fxaccount-brand-name }
