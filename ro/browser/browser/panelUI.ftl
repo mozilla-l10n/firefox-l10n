@@ -5,9 +5,14 @@
 
 ## Customization Menu
 
+customize-menu-add-to-toolbar =
+    .label = Adaugă în bara de instrumente
+    .accesskey = A
 
 ## Forget Button
 
 # The forget button can be added to the toolbar or overflow menu via the cutomization menu.
 panic-button-thankyou-msg1 = Istoricul tău recent a fost șters.
 panic-button-thankyou-msg2 = Navigare în siguranță!
+panic-button-thankyou-button =
+    .label = Îți mulțumim!
