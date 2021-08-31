@@ -18,6 +18,8 @@ customize-menu-add-to-overflowmenu =
 
 ## Forget Button
 
+# The forget button can be added to the toolbar or overflow menu via the cutomization menu.
+panic-button-thankyou-msg1 = Azray-ik n melmi kan yesfeḍ.
 panic-button-thankyou-msg2 = Tunigin igerrzen!
 panic-button-thankyou-button =
     .label = Tanemmirt!
