@@ -71,10 +71,18 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Wyświetl wszystkie
     .tooltiptext = Wyświetl wszystkie karty z tego urządzenia
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Wyświetl więcej kart
+    .tooltiptext = Wyświetl więcej kart z tego urządzenia
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Brak otwartych kart
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Włącz synchronizację kart, aby wyświetlić ich listę z innych urządzeń.
+appmenu-remote-tabs-connectdevice =
+    .label = Połącz inne urządzenie
+appmenu-remote-tabs-welcome = Wyświetl listę kart z innych urządzeń.
+appmenu-remote-tabs-unverified = Konto musi zostać zweryfikowane.
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizuj teraz
 appmenuitem-fxa-manage-account = Zarządzaj kontem
 appmenu-fxa-header2 = { -fxaccount-brand-name }
