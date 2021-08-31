@@ -11,3 +11,8 @@ customize-menu-add-to-toolbar =
 
 ## Forget Button
 
+# The forget button can be added to the toolbar or overflow menu via the cutomization menu.
+panic-button-thankyou-msg1 = Din senaste historik har rensats.
+panic-button-thankyou-msg2 = Säker webbläsning!
+panic-button-thankyou-button =
+    .label = Tack!
