@@ -1,3 +1,19 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Strings for a dialog that may open on macOS before the app's main window
+## opens. The dialog prompts the user to allow the app to install itself in an
+## appropriate location before relaunching itself from that location if the
+## user accepts.
+
+prompt-to-install-title = { -brand-short-name }-ynstallaasje foltôgje?
+prompt-to-install-message = Foltôgje dizze ien-stap-ynstallaasje om { -brand-short-name } by de tiid te hâlden en gegevensfelies foar te kommen. { -brand-short-name } sil oan jo applikaasjemap en Dock tafoege wurde.
+prompt-to-install-yes-button = Ynstallearje
+prompt-to-install-no-button = Net ynstallearje
+
+## Strings for a dialog that opens if the installation failed.
+
+install-failed-title = { -brand-short-name }-ynstallaasje mislearre.
+install-failed-message = { -brand-short-name }-ysntallaasje is mislearre, mar sil wurkje bliuwe.

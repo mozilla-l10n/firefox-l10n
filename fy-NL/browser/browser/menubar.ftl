@@ -38,20 +38,16 @@ menu-quit =
             [windows] O
            *[other] O
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } ôfslute
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } ôfslute
-
 menu-about =
     .label = Oer { -brand-shorter-name }
     .accesskey = O
@@ -92,6 +88,9 @@ menu-file-save-page =
     .accesskey = a
 menu-file-email-link =
     .label = Keppeling e-maile…
+    .accesskey = e
+menu-file-share-url =
+    .label = Diele
     .accesskey = e
 menu-file-print-setup =
     .label = Side-ynstellingen…
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Tekenkodearring
     .accesskey = T
-
 menu-view-repair-text-encoding =
     .label = Tekstkodearring reparearje
     .accesskey = r
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Koartlyn sluten ljepblêden
 menu-history-undo-window-menu =
     .label = Koartlyn sluten skermen
-
 menu-history-reopen-all-tabs = Alle ljepblêden opnij iepenje
 menu-history-reopen-all-windows = Alle finsters opnij iepenje
 

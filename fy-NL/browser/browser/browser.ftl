@@ -87,6 +87,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Gebrûk ynstekker beheare
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Dielen fan jo kamera en/of mikrofoan mei de website beheare
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Dielen fan jo oare lûdsprekkers mei de website beheare
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Paniel automatysk ôfspylje iepenje
 urlbar-persistent-storage-notification-anchor =
@@ -545,6 +549,16 @@ urlbar-result-action-search-tabs = Ljepblêden trochsykje
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine }-suggestjes
 
 ## Full Screen and Pointer Lock UI
 
@@ -710,6 +724,9 @@ remote-tabs-sync-now = No syngronisearje
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Mear…
 ui-tour-info-panel-close =
     .tooltiptext = Slute
 

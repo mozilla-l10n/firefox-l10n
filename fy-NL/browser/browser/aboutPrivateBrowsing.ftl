@@ -9,6 +9,8 @@ about-private-browsing-info-title = Jo binne yn in priveefinster
 about-private-browsing-info-myths = Faaks hearde myten oer priveenavigaasje
 about-private-browsing =
     .title = Sykje op it web
+about-private-browsing-search-btn =
+    .title = Sykje op it web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -21,10 +23,12 @@ about-private-browsing-handoff-text = Mei { $engine } sykje of fier adres yn
 about-private-browsing-handoff-text-no-engine = Fier sykterm of adres yn
 about-private-browsing-not-private = Jo binne op dit stuit net yn in priveefinster.
 about-private-browsing-info-description = { -brand-short-name } wisket jo syk- en browserskiednis sa gau as jo de tapassing ôfslute of alle priveenavigaasjeljepblêden en -finsters slute. Hoewol priveenavigaasje jo net anonym makket foar websites of jo ynternetprovider, makket dit it makliker om wat jo online dogge privee te hâlden tsjinoer oaren dy't dizze kompjûter brûke.
-
 about-private-browsing-need-more-privacy = Mear privacy nedich?
 about-private-browsing-turn-on-vpn = Probearje { -mozilla-vpn-brand-name }
-
+about-private-browsing-info-description-simplified = { -brand-short-name } wisket jo syk- en navigaasjeskiednis wannear't jo alle priveefinsters slute, mar dit makket jo net anonym.
+about-private-browsing-learn-more-link = Mear ynfo
+about-private-browsing-hide-activity = Ferbergje jo aktiviteit en lokaasje, oeral wêr't jo sneupe
+about-private-browsing-prominent-cta = Bliuw privee mei { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
