@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Alle anzeigen
     .tooltiptext = Alle Tabs von diesem Gerät anzeigen
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Weitere Tabs anzeigen
+    .tooltiptext = Mehr Tabs von diesem Gerät anzeigen
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Keine offenen Tabs
 # This is shown when Sync is configured but syncing tabs is disabled.
