@@ -65,6 +65,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Prijava v sinhronizacijo …
 appmenu-remote-tabs-turn-on-sync =
     .label = Vklopi sinhronizacijo …
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Prikaži vse
+    .tooltiptext = Prikaži vse zavihke iz te naprave
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Vključite sinhronizacijo zavihkov za ogled seznama zavihkov drugih naprav.
 # This is shown when Sync is configured but this appears to be the only device attached to
