@@ -75,6 +75,13 @@ appmenu-remote-tabs-showall =
 appmenu-remote-tabs-showmore =
     .label = Daha fazla sekme göster
     .tooltiptext = Bu cihazdan daha fazla sekme göster
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Açık sekme yok
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Diğer cihazlardaki sekmeleri görmek için sekme eşitlemeyi açın.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?
 appmenu-remote-tabs-connectdevice =
     .label = Başka bir cihaz bağla
 appmenu-remote-tabs-welcome = Diğer cihazlarınızdaki sekmelerin listesini görün.
