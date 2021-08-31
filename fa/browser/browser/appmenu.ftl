@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = نمایش همه
     .tooltiptext = نمایش تمام زبانه‌ها در این دستگاه
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = نمایش زبانه‌های بیشتر
+    .tooltiptext = نمایش زبانه‌های بیشتر از این دستگاه
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = بدون زبانهٔ باز
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -80,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = همگام‌سازی زبانه‌ها ر�
 appmenu-remote-tabs-noclients = می‌خواهید زبانه‌های خود را از سایر دستگاه‌ها اینجا ببینید؟
 appmenu-remote-tabs-connectdevice =
     .label = اتصال به دستگاه دیگر
+appmenu-remote-tabs-welcome = نمایش فهرست زبانه‌های شما در سایر دستگاه‌ها.
 appmenu-remote-tabs-unverified = حساب‌کاربری شما باید تایید شود.
 appmenuitem-fxa-toolbar-sync-now2 = انجام همگام‌سازی
 appmenuitem-fxa-manage-account = مدیریت حساب
