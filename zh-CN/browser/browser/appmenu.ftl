@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = 显示全部
     .tooltiptext = 显示此设备的所有标签页
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = 显示更多标签页
+    .tooltiptext = 显示此设备的更多标签页
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = 没有打开的标签页
 # This is shown when Sync is configured but syncing tabs is disabled.
