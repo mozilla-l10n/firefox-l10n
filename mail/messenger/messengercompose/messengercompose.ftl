@@ -64,6 +64,10 @@ toolbar-button-add-attachment =
 add-attachment-notification-reminder =
     .label = Προσθήκη συνημμένου…
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+add-attachment-notification-reminder2 =
+    .label = Προσθήκη συνημμένου…
+    .accesskey = Π
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
 menuitem-attach-files =
     .label = Αρχεία…
     .accesskey = Α
@@ -160,6 +164,18 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Εμφάνιση πεδίου "{ bcc-compose-address-row-label.value }" ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Οι { $count } παραλήπτες στα πεδία "Προς" και "Κοιν." θα βλέπουν τις διευθύνσεις των υπολοίπων. Μπορείτε να αποφύγετε την αποκάλυψη των παραληπτών με το πεδίο "Κρυφή κοιν.".
+to-address-row-label =
+    .value = Προς
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Πεδίο «Προς»
+    .accesskey = Π
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Προς
+    .accesskey = Π
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
