@@ -67,8 +67,25 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Eike embojuehe hag̃ua…
 appmenu-remote-tabs-turn-on-sync =
     .label = Emyandy Ñembojuehe…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Techaukapa
+    .tooltiptext = Ehechauka opaite tendayke ko mba’e’oka pegua
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Ehechaukave tendayke
+    .tooltiptext = Ehechaukave tendayke ko mba’e’oka pegua
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ndaipóri tendayke ijurujáva
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Emyendy tendayke mbojueheha ehecha hag̃ua peteĩ tendayke rysýi ambue ne mba’e’oka peguáva.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Ehechasépa tendaykekuéra ambue mba’e’okaguáva ko’ápe?
+appmenu-remote-tabs-connectdevice =
+    .label = Embojoaju Ambue Mba’e’oka
+appmenu-remote-tabs-welcome = Ehecha tendayke rysýi ambue ne mba’e’okagua.
+appmenu-remote-tabs-unverified = Tekotevẽ ñemboaje ne mba’ete.
 appmenuitem-fxa-toolbar-sync-now2 = Embojuehe ko’ág̃a
 appmenuitem-fxa-manage-account = Mba’ete Ñangarekoha
 appmenu-fxa-header2 = { -fxaccount-brand-name }
