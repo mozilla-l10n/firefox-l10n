@@ -71,11 +71,15 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Tampilkan Semua
     .tooltiptext = Tampilkan semua tab dari perangkat ini
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Tak ada tab terbuka
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Aktifkan sinkronisasi tab untuk melihat daftar tab dari perangkat Anda lainnya.
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ingin melihat tab dari perangkat Anda yang lain di sini?
+appmenu-remote-tabs-connectdevice =
+    .label = Sambungkan Perangkat Lainnya
 appmenu-remote-tabs-welcome = Lihat daftar tab dari perangkat Anda lainnya.
 appmenuitem-fxa-toolbar-sync-now2 = Sinkronkan Sekarang
 appmenuitem-fxa-manage-account = Kelola Akun
