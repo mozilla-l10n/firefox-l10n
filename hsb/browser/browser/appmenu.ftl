@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Wšě pokazać
     .tooltiptext = Wšě rajtarki z tutoho grata pokazać
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Dalše rajtarki pokazać
+    .tooltiptext = Dalše rajtarki z tutoho grata pokazać
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Žane wočinjene rajtarki
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -78,6 +82,10 @@ appmenu-remote-tabs-tabsnotsyncing = Synchronizowanje rajtarkow zapinać, zo by 
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Chceće tu swoje rajtarki z druhich gratow widźeć?
+appmenu-remote-tabs-connectdevice =
+    .label = Druhi grat zwjazać
+appmenu-remote-tabs-welcome = Wobhladajće sej lisćinu rajtarkow ze swojich gratow.
+appmenu-remote-tabs-unverified = Waše konto dyrbi so wobkrućić.
 appmenuitem-fxa-toolbar-sync-now2 = Nětko synchronizować
 appmenuitem-fxa-manage-account = Konto rjadować
 appmenu-fxa-header2 = { -fxaccount-brand-name }
