@@ -39,6 +39,9 @@ appmenu-remote-tabs-tabsnotsyncing = Kveiktu á samstillingu flipa til að skoð
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Viltu sjá hérna þína flipa frá öðrum tækjum?
+appmenu-remote-tabs-connectdevice =
+    .label = Tengja annað tæki
+appmenu-remote-tabs-unverified = Nauðsynlegt er að staðfesta reikning.
 appmenuitem-save-page =
     .label = Vista síðu sem…
 
