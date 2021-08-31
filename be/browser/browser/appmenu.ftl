@@ -69,6 +69,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Паказаць усе
     .tooltiptext = Паказаць усе карткі з гэтай прылады
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Паказаць больш картак
+    .tooltiptext = Паказаць больш картак з гэтай прылады
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Няма адкрытых картак
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -76,6 +80,10 @@ appmenu-remote-tabs-tabsnotsyncing = Уключыце сінхранізацыю
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Хочаце пабачыць свае карткі з іншых прылад?
+appmenu-remote-tabs-connectdevice =
+    .label = Злучыць іншую прыладу
+appmenu-remote-tabs-welcome = Пабачыць спіс картак з іншых сваіх прылад.
+appmenu-remote-tabs-unverified = Ваш уліковы запіс патрабуе пацвярджэння.
 appmenuitem-fxa-toolbar-sync-now2 = Сінхранізаваць зараз
 appmenuitem-fxa-manage-account = Кіраванне ўліковым запісам
 appmenu-fxa-header2 = { -fxaccount-brand-name }
