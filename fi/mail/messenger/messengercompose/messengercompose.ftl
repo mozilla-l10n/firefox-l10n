@@ -128,6 +128,7 @@ many-public-recipients-bcc =
 many-public-recipients-ignore =
     .label = Pidä vastaanottajat julkisina
     .accesskey = P
+many-public-recipients-prompt-title = Liian monta julkista vastaanottajaa
 many-public-recipients-prompt-cancel = Peruuta lähettäminen
 many-public-recipients-prompt-send = Lähetä silti
 
