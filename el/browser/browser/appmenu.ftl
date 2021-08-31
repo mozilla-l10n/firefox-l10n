@@ -67,6 +67,14 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Σύνδεση στο Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ενεργοποίηση Sync…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Εμφάνιση όλων
+    .tooltiptext = Εμφάνιση όλων των καρτελών αυτής της συσκευής
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Εμφάνιση περισσότερων καρτελών
+    .tooltiptext = Εμφάνιση περισσότερων καρτελών αυτής της συσκευής
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Δεν υπάρχουν ανοικτές καρτέλες
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -76,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Ενεργοποιήστε τον συγχ�
 appmenu-remote-tabs-noclients = Θέλετε να δείτε τις καρτέλες από τις άλλες σας συσκευές εδώ;
 appmenu-remote-tabs-connectdevice =
     .label = Σύνδεση άλλης συσκευής
+appmenu-remote-tabs-welcome = Δείτε μια λίστα με καρτέλες από τις άλλες σας συσκευές.
 appmenu-remote-tabs-unverified = Ο λογαριασμός σας πρέπει να επαληθευτεί.
 appmenuitem-fxa-toolbar-sync-now2 = Συγχρονισμός τώρα
 appmenuitem-fxa-manage-account = Διαχείριση λογαριασμού
