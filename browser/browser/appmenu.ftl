@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = הצגת הכל
     .tooltiptext = הצגת כל הלשוניות ממכשיר זה
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = הצגת לשוניות נוספות
+    .tooltiptext = הצגת לשוניות נוספות ממכשיר זה
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = אין לשוניות פתוחות
 # This is shown when Sync is configured but syncing tabs is disabled.
