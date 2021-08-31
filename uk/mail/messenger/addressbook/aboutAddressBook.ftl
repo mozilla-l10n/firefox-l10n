@@ -20,7 +20,6 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Усі адресні книги
-
 about-addressbook-books-context-properties =
     .label = Властивості
 about-addressbook-books-context-synchronize =
@@ -31,7 +30,6 @@ about-addressbook-books-context-delete =
     .label = Видалити
 about-addressbook-books-context-remove =
     .label = Вилучити
-
 about-addressbook-confirm-delete-book-title = Видалити адресну книгу
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -49,17 +47,14 @@ about-addressbook-search =
     .placeholder = Пошук { $name }
 about-addressbook-search-all =
     .placeholder = Пошук у всіх адресних книгах
-
 about-addressbook-sort-button =
     .title = Змінити порядок списку
-
 about-addressbook-name-format-display =
     .label = Ім'я для показу
 about-addressbook-name-format-firstlast =
     .label = Ім’я Прізвище
 about-addressbook-name-format-lastfirst =
     .label = Прізвище, ім’я
-
 about-addressbook-sort-name-ascending =
     .label = Впорядкувати за іменем (А > Я)
 about-addressbook-sort-name-descending =
@@ -68,7 +63,8 @@ about-addressbook-sort-email-ascending =
     .label = Впорядкувати за адресою електронної пошти (А > Я)
 about-addressbook-sort-email-descending =
     .label = Впорядкувати за адресою електронної пошти (Я > А)
-
+about-addressbook-cards-context-write =
+    .label = Записати
 about-addressbook-confirm-delete-mixed-title = Видалити контакти та списки
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -131,7 +127,6 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Редагувати
 about-addressbook-cancel-edit-contact-button = Скасувати
 about-addressbook-save-edit-contact-button = Зберегти
-
 about-addressbook-details-email-addresses-header = Адреси електронної пошти
 about-addressbook-details-phone-numbers-header = Номери телефону
 about-addressbook-details-home-address-header = Домашня адреса
