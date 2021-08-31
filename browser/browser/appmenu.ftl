@@ -79,6 +79,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = 열린 탭이 없음
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = 다른 기기의 탭 목록을 보려면 탭 동기화를 켜세요.
+appmenu-remote-tabs-opensettings =
+    .label = 설정
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = 다른 기기에서도 여기에서 열린 탭을 사용하시겠습니까?
