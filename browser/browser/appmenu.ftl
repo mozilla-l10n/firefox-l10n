@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = ಹೊಸ ಕಿಟಕಿ
 appmenuitem-new-private-window =
     .label = ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿ
+appmenuitem-help =
+    .label = ಸಹಾಯ
 
 ## Zoom and Fullscreen Controls
 
