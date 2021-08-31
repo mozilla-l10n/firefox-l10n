@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Serĉi en la paĝo…
 appmenuitem-more-tools =
     .label = Pli da iloj
+appmenuitem-help =
+    .label = Helpo
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
