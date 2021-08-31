@@ -18,3 +18,5 @@ customize-menu-add-to-overflowmenu =
 
 ## Forget Button
 
+panic-button-thankyou-button =
+    .label = Teşekkürler!
