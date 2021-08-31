@@ -37,4 +37,11 @@ calendar-delete-item-prompt-title =
         [few] Izbriši predmete
        *[other] Izbriši predmete
     }
+calendar-delete-item-prompt-message =
+    { $count ->
+        [one] Ali res želite izbrisati ta predmet?
+        [two] Ali res želite izbrisati ta { $count } predmeta?
+        [few] Ali res želite izbrisati te { $count } predmete?
+       *[other] Ali res želite izbrisati teh { $count } predmetov?
+    }
 calendar-delete-prompt-disable-message = Ne sprašuj več.
