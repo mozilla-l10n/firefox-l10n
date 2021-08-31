@@ -79,6 +79,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = 没有打开的标签页
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = 打开标签页同步功能，就能看到其他设备上打开的标签页。
+appmenu-remote-tabs-opensettings =
+    .label = 设置
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = 想查看您在其他设备上的标签页吗？
