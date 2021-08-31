@@ -67,6 +67,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = لِج كي تبدأ المزامنة…
 appmenu-remote-tabs-turn-on-sync =
     .label = فعّل المزامنة…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = أظهر الكل
+    .tooltiptext = اعرض كل الألسنة من هذا الجهاز
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = أظهِر ألسنة أكثر
@@ -81,6 +85,7 @@ appmenu-remote-tabs-noclients = أتريد رؤية ألسنتك من الأجه
 appmenu-remote-tabs-connectdevice =
     .label = صِلْ جهازا آخر
 appmenu-remote-tabs-welcome = اعرض قائمة بالألسنة من أجهزتك الأخرى.
+appmenu-remote-tabs-unverified = يجب تأكيد حسابك.
 appmenuitem-fxa-toolbar-sync-now2 = زامِن الآن
 appmenuitem-fxa-manage-account = أدِر الحساب
 appmenu-fxa-header2 = { -fxaccount-brand-name }
