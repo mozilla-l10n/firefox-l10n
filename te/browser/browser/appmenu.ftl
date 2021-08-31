@@ -25,6 +25,8 @@ appmenuitem-find-in-page =
     .label = పేజీలో వెతుకు…
 appmenuitem-more-tools =
     .label = మరిన్ని పనిముట్లు
+appmenuitem-help =
+    .label = సహాయం
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
