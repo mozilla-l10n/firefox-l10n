@@ -8,8 +8,10 @@
 ## appropriate location before relaunching itself from that location if the
 ## user accepts.
 
+prompt-to-install-title = Installation von { -brand-short-name } abschließen?
 prompt-to-install-yes-button = Installieren
 prompt-to-install-no-button = Nicht installieren
 
 ## Strings for a dialog that opens if the installation failed.
 
+install-failed-title = Installation von { -brand-short-name } fehlgeschlagen.
