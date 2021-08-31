@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Montri ĉiujn
     .tooltiptext = Montri ĉiujn langetojn el tiu ĉi aparato
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Montri pli da langetoj
+    .tooltiptext = Montri pli da langetoj el tiu ĉi aparato
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Neniu spegulita langeto
 # This is shown when Sync is configured but syncing tabs is disabled.
