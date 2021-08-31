@@ -9,6 +9,12 @@
 customize-menu-unpin-from-overflowmenu =
     .label = ถอนหมุดจากเมนูล้น
     .accesskey = ถ
+customize-menu-add-to-toolbar =
+    .label = เพิ่มลงในแถบเครื่องมือ
+    .accesskey = พ
+customize-menu-add-to-overflowmenu =
+    .label = เพิ่มลงในเมนูล้น
+    .accesskey = พ
 
 ## Forget Button
 
