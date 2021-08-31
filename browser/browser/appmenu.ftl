@@ -79,6 +79,9 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Cap d’onglet pas dobèrt
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Activatz la sincronizacion dels onglets per afichar la lista dels onglets dels vòstres autres periferics.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Volètz veire aquí los onglets dels vòstres autres periferics ?
 appmenu-remote-tabs-connectdevice =
     .label = Connectar un autre periferic
 appmenu-remote-tabs-welcome = Mostrar la lista dels onglets de vòstres autres periferics.
