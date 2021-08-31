@@ -224,6 +224,14 @@ many-public-recipients-ignore =
     .label = Untfangers iepenbier litte
     .accesskey = i
 many-public-recipients-prompt-title = Te folle iepenbiere ûntfangers
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] Jo berjocht hat in iepenbiere ûntfanger. Dit kin in privacyprobleem wêze. Jo kinne dit foarkomme troch de ûntfanger yn stee fan Oan/Cc nei Bcc te ferpleatsen.
+       *[other] Jo berjocht hat { $count } iepenbiere ûntfangers, dy't inoars adressen sjen kinne. Dit kin in privacyprobleem wêze. Jo kinne dit foarkomme troch de ûntfanger yn stee fan Oan/Cc nei Bcc te ferpleatsen.
+    }
+many-public-recipients-prompt-cancel = Ferstjoeren annulearje
+many-public-recipients-prompt-send = Dochs ferstjoere
 
 ## Notifications
 
