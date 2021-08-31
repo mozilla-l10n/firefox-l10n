@@ -80,6 +80,7 @@ appmenu-remote-tabs-tabsnotsyncing = Active la sincronización de pestañas para
 appmenu-remote-tabs-noclients = ¿Quiere ver sus pestañas de otros dispositivos aquí?
 appmenu-remote-tabs-connectdevice =
     .label = Conectar otro dispositivo
+appmenu-remote-tabs-welcome = Ver una lista de pestañas de sus otros dispositivos.
 appmenu-remote-tabs-unverified = Su cuenta debe ser verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ahora
 appmenuitem-fxa-manage-account = Administrar cuenta
