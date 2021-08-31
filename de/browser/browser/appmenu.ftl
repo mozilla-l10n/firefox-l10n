@@ -84,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Aktivieren Sie das Synchronisieren von Tabs
 appmenu-remote-tabs-noclients = Wollen Sie Ihre Tabs von Ihren anderen Geräten hier angezeigt bekommen?
 appmenu-remote-tabs-connectdevice =
     .label = Weiteres Gerät verbinden
+appmenu-remote-tabs-welcome = Zeigt eine Liste der Tabs von Ihren anderen Geräten an.
 appmenu-remote-tabs-unverified = Ihr Konto muss verifiziert werden.
 appmenuitem-fxa-toolbar-sync-now2 = Jetzt synchronisieren
 appmenuitem-fxa-manage-account = Konto verwalten
