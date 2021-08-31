@@ -14,15 +14,11 @@ about-config-intro-warning-button = Chấp nhận rủi ro và tiếp tục
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Thay đổi các tùy chọn này có thể ảnh hưởng đến hiệu suất hoặc bảo mật { -brand-short-name }.
-
 about-config-page-title = Tùy chọn nâng cao
-
 about-config-search-input1 =
-    .placeholder = Tìm kiếm tên tùy chọn
+    .placeholder = Tìm kiếm tên tùy chỉnh
 about-config-show-all = Hiển thị tất cả
-
 about-config-show-only-modified = Chỉ hiển thị các tùy chọn đã sửa đổi
-
 about-config-pref-add-button =
     .title = Thêm
 about-config-pref-toggle-button =
