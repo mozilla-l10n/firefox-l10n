@@ -73,6 +73,13 @@ appmenu-remote-tabs-showall =
     .tooltiptext = 显示此设备的所有标签页
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = 没有打开的标签页
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = 打开标签页同步功能，就能看到其他设备上打开的标签页。
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = 想查看您在其他设备上的标签页吗？
+appmenu-remote-tabs-connectdevice =
+    .label = 关联其他设备
 appmenu-remote-tabs-unverified = 您的账号需要验证。
 appmenuitem-fxa-toolbar-sync-now2 = 立即同步
 appmenuitem-fxa-manage-account = 管理账户
