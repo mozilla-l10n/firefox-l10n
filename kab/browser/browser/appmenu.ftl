@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Af deg usebter…
 appmenuitem-more-tools =
     .label = Ugar n yifecka
+appmenuitem-help =
+    .label = Tallelt
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
