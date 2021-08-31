@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Mostrar todos
     .tooltiptext = Mostrar todos os separadores deste dispositivo
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Mostrar mais separadores
+    .tooltiptext = Mostrar mais separadores deste dispositivo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nenhum separador aberto
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -80,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Ative a sincronização de separadores para
 appmenu-remote-tabs-noclients = Pretende ver os seus separadores de outros dispositivos aqui?
 appmenu-remote-tabs-connectdevice =
     .label = Ligar outro dispositivo
+appmenu-remote-tabs-welcome = Veja uma lista de separadores dos seus outros dispositivos.
 appmenu-remote-tabs-unverified = A sua conta necessita de ser verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-manage-account = Gerir conta
