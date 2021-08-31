@@ -53,8 +53,8 @@ upgrade-dialog-pin-secondary-button = Non ora
 ## Default browser screen
 
 # This title can be explicitly wrapped to control which words are on which line.
-upgrade-dialog-default-title-2 = Rende { -brand-short-name } tu predefinite
-upgrade-dialog-default-subtitle-2 = Pone in autopilota velocitate, securitate e confidentialitate.
+upgrade-dialog-default-title-2 = Facer de { -brand-short-name } tu navigator predefinite
+upgrade-dialog-default-subtitle-2 = Optimisation automatic de velocitate, securitate e confidentialitate.
 upgrade-dialog-default-primary-button-2 = Facer navigator predefinite
 upgrade-dialog-default-secondary-button = Non ora
 
