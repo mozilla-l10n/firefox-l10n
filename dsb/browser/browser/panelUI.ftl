@@ -5,9 +5,16 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Z woběžkowego menija wótpěś
+    .accesskey = t
 customize-menu-add-to-toolbar =
     .label = Symbolowej rědce pśidaś
     .accesskey = S
+customize-menu-add-to-overflowmenu =
+    .label = Woběžkowemu menijoju pśidás
+    .accesskey = m
 
 ## Forget Button
 
