@@ -43,6 +43,9 @@ appmenu-remote-tabs-tabsnotsyncing = Cak ribo dirica matidi me neno nying dirica
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = imito neno dirica matino ki nyonyo mukene?
+appmenu-remote-tabs-connectdevice =
+    .label = Kub Nyonyo Mukene
+appmenu-remote-tabs-unverified = Myero ki mok ada pa akaunt mamegi.
 appmenuitem-save-page =
     .label = Gwok pot buk calo…
 
