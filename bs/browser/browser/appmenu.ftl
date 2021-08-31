@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Pronađi na stranici…
 appmenuitem-more-tools =
     .label = Više alata
+appmenuitem-help =
+    .label = Pomoć
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
