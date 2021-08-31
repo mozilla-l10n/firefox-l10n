@@ -37,6 +37,13 @@ fxa-toolbar-sync-now =
 appmenu-remote-tabs-showall =
     .label = Kuva kõiki
     .tooltiptext = Kuva kõiki selle seadme kaarte
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Avatud kaarte pole
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Teistes seadmetes avatud kaartide nägemiseks lülita sisse kaartide sünkroniseerimine.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Soovid näha teistes seadmetes avatud kaarte?
 appmenu-remote-tabs-connectdevice =
     .label = Ühenda teine seade
 appmenu-remote-tabs-welcome = Vaata teistes seadmetes avatud kaartide nimekirja.
