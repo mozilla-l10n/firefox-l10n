@@ -17,6 +17,8 @@ appmenuitem-new-window =
     .label = Ventana nakàa
 appmenuitem-new-private-window =
     .label = Nànin' 'ngo ventana huìi
+appmenuitem-help =
+    .label = Sa ruguñu'unj un
 
 ## Zoom and Fullscreen Controls
 
@@ -24,7 +26,6 @@ appmenuitem-zoom-enlarge =
     .label = Nāgi’iaj nichrùn’
 appmenuitem-zoom-reduce =
     .label = Nāgi’iaj gùn’
-
 appmenuitem-fullscreen =
     .label = Nagi'iaj gachrò' riña aga' sikà' ràa
 
@@ -32,14 +33,26 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Gi'iaj sun nugua'ān ma
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Nadigân daran'anj
+    .tooltiptext = Nadigun' daran' rakïj ñaj asij riña aga'a na
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Si na'nï' rakij ñanj
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Nachrūn si sinkronisasion rakïj ñaj da' ni'iaj nej rakïj ñaj asij riña a'ngo si agat.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Ni'iaj rakïj ñaj nū riña a'ngo si aga' asij ñuna ànj
+appmenu-remote-tabs-connectdevice =
+    .label = Ganachun' 'ngà a'ngo aga'a...
+appmenu-remote-tabs-unverified = Da'ui' ma ganatsij ma si kuentat
 appmenuitem-save-page =
     .label = Na'nïnj sà' Pâjina Gù'na…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nù huin sa nakà hua
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -92,4 +105,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Sa nikaj ñu'unj nej suun
-
