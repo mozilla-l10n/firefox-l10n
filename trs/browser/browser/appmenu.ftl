@@ -46,6 +46,7 @@ appmenu-remote-tabs-tabsnotsyncing = Nachrūn si sinkronisasion rakïj ñaj da' 
 appmenu-remote-tabs-noclients = Ni'iaj rakïj ñaj nū riña a'ngo si aga' asij ñuna ànj
 appmenu-remote-tabs-connectdevice =
     .label = Ganachun' 'ngà a'ngo aga'a...
+appmenu-remote-tabs-welcome = Ni’iāj nej rakïj ñaj āsìj riña a'ngô nej si agâ’t.
 appmenu-remote-tabs-unverified = Da'ui' ma ganatsij ma si kuentat
 appmenuitem-save-page =
     .label = Na'nïnj sà' Pâjina Gù'na…
