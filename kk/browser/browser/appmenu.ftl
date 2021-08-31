@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Барлығын көрсету
     .tooltiptext = Бұл құрылғыдан барлық беттерді көрсету
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Көбірек беттерді көрсету
+    .tooltiptext = Бұл құрылғыдан көбірек беттерді көрсету
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ашық беттер жоқ
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -78,6 +82,10 @@ appmenu-remote-tabs-tabsnotsyncing = Басқа құрылғыларыңызда
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Басқа құрылғыларыңыздан беттерді осында көргіңіз келе ме?
+appmenu-remote-tabs-connectdevice =
+    .label = Басқа құрылғыны байланыстыру
+appmenu-remote-tabs-welcome = Басқа құрылғыларыңыздан беттер тізімін қарау.
+appmenu-remote-tabs-unverified = Тіркелгіңіз расталуы тиіс.
 appmenuitem-fxa-toolbar-sync-now2 = Қазір синхрондау
 appmenuitem-fxa-manage-account = Тіркелгіні басқару
 appmenu-fxa-header2 = { -fxaccount-brand-name }
