@@ -78,7 +78,10 @@ appmenu-remote-tabs-tabsnotsyncing = Activez la synchronisation des onglets pour
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vous souhaitez afficher ici les onglets de vos autres appareils ?
+appmenu-remote-tabs-connectdevice =
+    .label = Connecter un autre appareil
 appmenu-remote-tabs-welcome = Afficher la liste des onglets de vos autres appareils.
+appmenu-remote-tabs-unverified = Votre compte doit être vérifié.
 appmenuitem-fxa-toolbar-sync-now2 = Synchroniser maintenant
 appmenuitem-fxa-manage-account = Gestion du compte
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "uppercase") }
