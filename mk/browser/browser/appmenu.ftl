@@ -23,7 +23,6 @@ appmenuitem-zoom-enlarge =
     .label = Зголеми
 appmenuitem-zoom-reduce =
     .label = Намали
-
 appmenuitem-fullscreen =
     .label = На цел екран
 
@@ -31,7 +30,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронизирај сега
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Прикажи ги сите
+    .tooltiptext = Прикажи ги сите јазичиња од овој уред
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Нема отворени јазичиња
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Вклучете синхронизација на јазичиња за да видите листа на јазичињата од вашите други уреди.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Сакате да ги видите вашите јазичиња од други уреди овде?
 appmenuitem-save-page =
     .label = Сними страница како…
 
