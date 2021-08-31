@@ -79,6 +79,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Ingen åpne faner
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Skru på fane-synkronisering for å se en liste over faner fra de andre enhetene dine.
+appmenu-remote-tabs-opensettings =
+    .label = Innstillinger
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vil du se faner fra de andre enhetene dine her?
