@@ -17,6 +17,8 @@ appmenuitem-new-window =
     .label = Nueva finestra
 appmenuitem-new-private-window =
     .label = Nueva finestra privada
+appmenuitem-help =
+    .label = Aduya
 
 ## Zoom and Fullscreen Controls
 
@@ -42,6 +44,10 @@ appmenu-remote-tabs-tabsnotsyncing = Activar la sincronización de pestanyas pa 
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Quiere veyer aquí las pestanyas d'os atros dispositivos?
+appmenu-remote-tabs-connectdevice =
+    .label = Connectar belatro dispositivo
+appmenu-remote-tabs-welcome = Veyer una lista d'as pestanyas d'os atros dispositivos.
+appmenu-remote-tabs-unverified = Fa falta verificar lo tuyo conto.
 appmenuitem-save-page =
     .label = Alzar a pachina como…
 
