@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Seall na h-uile
     .tooltiptext = Seall gach taba on uidheam seo
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Seall barrachd tabaichean
+    .tooltiptext = Seall barrachd thabaichean on uidheam seo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Chan eil taba fosgailte
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -80,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Cuir air sioncronachadh nan tabaichean airs
 appmenu-remote-tabs-noclients = A bheil thu airson na tabaichean a tha agad air uidheaman eile fhaicinn an-seo?
 appmenu-remote-tabs-connectdevice =
     .label = Ceangail uidheam eile ris
+appmenu-remote-tabs-welcome = Seall liosta nan tabaichean a tha agad air uidheaman eile.
 appmenu-remote-tabs-unverified = Tha an cunntas agad feumach air dearbhadh.
 appmenuitem-fxa-toolbar-sync-now2 = Sioncronaich an-dràsta
 appmenuitem-fxa-manage-account = Stiùirich an cunntas
