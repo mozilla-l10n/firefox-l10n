@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Знайти на сторінці…
 appmenuitem-more-tools =
     .label = Інші інструменти
+appmenuitem-help =
+    .label = Довідка
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,6 +67,9 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Увійти до Синхронізації…
 appmenu-remote-tabs-turn-on-sync =
     .label = Увімкнути синхронізацію…
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Хочете побачити тут свої вкладки з інших пристроїв?
 appmenuitem-fxa-toolbar-sync-now2 = Синхронізувати
 appmenuitem-fxa-manage-account = Керувати обліковим записом
 appmenu-fxa-header2 = { -fxaccount-brand-name }
