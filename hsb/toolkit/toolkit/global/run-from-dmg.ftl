@@ -9,6 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = { -brand-short-name } doinstalować?
+prompt-to-install-message = Dokónčće tutu jednokročelowu instalaciju, zo byšće { -brand-short-name } aktualny dźeržał a stratu datow wobešoł. { -brand-short-name } so rjadowakej „Programme“ a dokej přida.
 prompt-to-install-yes-button = Instalować
 prompt-to-install-no-button = Njeinstalować
 
