@@ -28,6 +28,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = දැන් සම්මුහුර්ත කරන්න
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = සියල්ල පෙන්වන්න
+    .tooltiptext = මෙම මෙවලමෙන් සියළු ටැබ් පෙන්වන්න
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = විවෘත ටැබ නොමැත
 # This is shown when Sync is configured but syncing tabs is disabled.
