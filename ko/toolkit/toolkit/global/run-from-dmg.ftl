@@ -8,6 +8,8 @@
 ## appropriate location before relaunching itself from that location if the
 ## user accepts.
 
+prompt-to-install-title = { -brand-short-name } 설치를 마치시겠습니까?
+prompt-to-install-message = 이 한 단계 설치를 완료하면 { -brand-short-name }를 최신 상태로 유지하고 데이터 손실을 방지할 수 있습니다. { -brand-short-name }가 애플리케이션 폴더와 Dock에 추가됩니다.
 prompt-to-install-yes-button = 설치
 prompt-to-install-no-button = 설치 안 함
 
