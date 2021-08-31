@@ -54,6 +54,8 @@ appmenu-remote-tabs-tabsnotsyncing = Միացրէք ներդիրների համ�
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ցանկանու՞մ եք տեսնել Ձեր այլ սարքերի ներդիրները։
+appmenu-remote-tabs-connectdevice =
+    .label = Կապակցել այլ սարքի
 appmenu-remote-tabs-welcome = Դիտել Ձեր միւս սարքերի ներդիրների ցուցակը։
 appmenu-remote-tabs-unverified = Ձեր հաշիւը պէտք է ստուգուի։
 appmenuitem-save-page =
