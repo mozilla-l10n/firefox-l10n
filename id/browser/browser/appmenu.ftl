@@ -11,7 +11,6 @@ appmenuitem-update-banner3 =
     .label-update-manual = Pembaruan tersedia — unduh sekarang
     .label-update-unsupported = Pembaruan tersedia — sistem tidak kompatibel
     .label-update-restart = Pembaruan tersedia — mulai ulang sekarang
-
 appmenuitem-protection-dashboard-title = Dasbor Perlindungan
 appmenuitem-customize-mode =
     .label = Ubahsuai…
@@ -44,7 +43,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Tutup Menu Aplikasi
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,7 +54,6 @@ appmenuitem-zoom-enlarge =
     .label = Perbesar
 appmenuitem-zoom-reduce =
     .label = Perkecil
-
 appmenuitem-fullscreen =
     .label = Layar Penuh
 
@@ -64,12 +61,13 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinkronkan Sekarang
-
 appmenu-remote-tabs-sign-into-sync =
     .label = Masuk ke Sinkronisasi…
 appmenu-remote-tabs-turn-on-sync =
     .label = Aktifkan Sinkronisasi…
-
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Aktifkan sinkronisasi tab untuk melihat daftar tab dari perangkat Anda lainnya.
+appmenu-remote-tabs-welcome = Lihat daftar tab dari perangkat Anda lainnya.
 appmenuitem-fxa-toolbar-sync-now2 = Sinkronkan Sekarang
 appmenuitem-fxa-manage-account = Kelola Akun
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -83,14 +81,12 @@ appmenu-fxa-signed-in-label = Masuk
 appmenu-fxa-setup-sync =
     .label = Aktifkan Sinkronisasi…
 appmenu-fxa-show-more-tabs = Tampilkan Tab Lainnya
-
 appmenuitem-save-page =
     .label = Simpan Laman dengan Nama…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Yang Baru
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -103,47 +99,33 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Tampilkan informasi lebih lanjut
-
 profiler-popup-description-title =
     .value = Rekam, analisis, bagikan
-
 profiler-popup-description = Berkolaborasi dalam masalah kinerja dengan mempublikasikan profil untuk dibagikan dengan tim Anda.
-
 profiler-popup-learn-more = Pelajari lebih lanjut
-
 profiler-popup-settings =
     .value = Pengaturan
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Edit Pengaturan…
-
 profiler-popup-disabled = Profiler saat ini dimatikan, kemungkinan besar karena jendela Penjelajahan Pribadi terbuka.
-
 profiler-popup-recording-screen = Merekam…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Khusus
-
 profiler-popup-start-recording-button =
     .label = Mulai Rekam
-
 profiler-popup-discard-button =
     .label = Buang
-
 profiler-popup-capture-button =
     .label = Tangkap
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -156,7 +138,6 @@ appmenu-manage-history =
     .label = Kelola Riwayat
 appmenu-reopen-all-tabs = Buka Ulang Semua Tab
 appmenu-reopen-all-windows = Buka Ulang Semua Jendela
-
 appmenu-restore-session =
     .label = Pulihkan Sesi Sebelumnya
 appmenu-clear-history =
@@ -212,7 +193,6 @@ appmenu-customizetoolbar =
     .label = Ubahsuai Bilah Alat…
 appmenu-taskmanager =
     .label = Pengelola Tugas
-
 appmenu-developer-tools-subheader = Alat Peramban
 appmenu-developer-tools-extensions =
     .label = Ekstensi untuk Pengembang
