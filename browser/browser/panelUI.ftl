@@ -5,9 +5,16 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Desainguratu gainezkatzearen menutik
+    .accesskey = D
 customize-menu-add-to-toolbar =
     .label = Gehitu tresna-barran
     .accesskey = G
+customize-menu-add-to-overflowmenu =
+    .label = Gehitu gainezkatzearen menuan
+    .accesskey = m
 
 ## Forget Button
 
