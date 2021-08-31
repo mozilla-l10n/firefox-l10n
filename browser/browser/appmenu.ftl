@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Prikaži sve
     .tooltiptext = Prikaži sve kartice s ovoga uređaja
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Prikaži više kartica
+    .tooltiptext = Prikaz više kartica s ovoga uređaja
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nema otvorenih kartica
 # This is shown when Sync is configured but syncing tabs is disabled.
