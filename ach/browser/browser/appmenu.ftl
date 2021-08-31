@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = Dirica manyen
 appmenuitem-new-private-window =
     .label = Dirica manyen me mung
+appmenuitem-help =
+    .label = Kony
 
 ## Zoom and Fullscreen Controls
 
@@ -23,7 +25,6 @@ appmenuitem-zoom-enlarge =
     .label = Kwot madit
 appmenuitem-zoom-reduce =
     .label = Jwik matidi
-
 appmenuitem-fullscreen =
     .label = Wang komputa ma opong
 
@@ -31,14 +32,23 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Rib Kombedi
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Nyut weng
+    .tooltiptext = Nyut dirica matino weng ki i nyonyo man
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Dirica matino pe ayaba
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Cak ribo dirica matidi me neno nying dirica matino ki i nyonyo ni mukene.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = imito neno dirica matino ki nyonyo mukene?
 appmenuitem-save-page =
     .label = Gwok pot buk calo…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ngo Manyen
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
