@@ -11,5 +11,6 @@ customize-menu-add-to-toolbar =
 
 ## Forget Button
 
+panic-button-thankyou-msg2 = Navegação segura!
 panic-button-thankyou-button =
     .label = Obrigado!
