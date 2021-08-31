@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Գտնել էջում…
 appmenuitem-more-tools =
     .label = Լրացուցիչ գործիքներ
+appmenuitem-help =
+    .label = Օգնություն
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -55,6 +57,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Համաժամեցնել
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Ցուցադրել բոլորը
+    .tooltiptext = Ցուցադրել բոլոր ներդիրները այս սարքից
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Չկան բաց ներդիրներ
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Միացրեք ներդիրների համաժամեցումը՝ տեսնելու այլ սարքերից ձեր ներդիրների ցանկը։
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Ցանկանու՞մ եք տեսնել ձեր այլ սարքերի ներդիրները:
 appmenuitem-fxa-toolbar-sync-now2 = Համաժամեցնել
 appmenuitem-fxa-manage-account = Կառավարել հաշիվը
 appmenu-fxa-header2 = { -fxaccount-brand-name }
