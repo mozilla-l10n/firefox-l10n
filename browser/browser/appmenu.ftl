@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Alle tonen
     .tooltiptext = Alle tabbladen van dit apparaat tonen
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Meer tabbladen tonen
+    .tooltiptext = Meer tabbladen van dit apparaat tonen
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Geen open tabbladen
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -80,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Zet tabbladsynchronisatie aan om een lijst 
 appmenu-remote-tabs-noclients = Wilt u hier uw tabbladen van andere apparaten zien?
 appmenu-remote-tabs-connectdevice =
     .label = Een ander apparaat verbinden
+appmenu-remote-tabs-welcome = Bekijk een lijst met tabbladen van uw overige apparaten.
 appmenu-remote-tabs-unverified = Uw account moet worden geverifieerd.
 appmenuitem-fxa-toolbar-sync-now2 = Nu synchroniseren
 appmenuitem-fxa-manage-account = Account beheren
