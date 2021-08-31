@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = Jauns lūgs
 appmenuitem-new-private-window =
     .label = Jauns privatais lūgs
+appmenuitem-help =
+    .label = Paleidzeiba
 
 ## Zoom and Fullscreen Controls
 
@@ -26,7 +28,13 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinhronizeit
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Ruodeit vysu
+    .tooltiptext = Ruodeit vysys cilnes nu ituos īrīces
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Grybot redzeit cilnes nu cytom sovom īreičom?
 appmenuitem-save-page =
     .label = Saglobōt lopu kai…
 
