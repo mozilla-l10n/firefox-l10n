@@ -5,9 +5,19 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Відкріпити від розширеного меню
+    .accesskey = п
 customize-menu-add-to-toolbar =
     .label = Додати на панель
     .accesskey = Д
+customize-menu-add-to-overflowmenu =
+    .label = Додати до розширеного меню
+    .accesskey = ш
 
 ## Forget Button
 
+panic-button-thankyou-msg2 = Безпечний перегляд!
+panic-button-thankyou-button =
+    .label = Дякую!
