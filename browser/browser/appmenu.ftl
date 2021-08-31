@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = নতুন উইন্ডো
 appmenuitem-new-private-window =
     .label = নতুন ব্যক্তিগত উইন্ডো
+appmenuitem-help =
+    .label = সাহায্য
 
 ## Zoom and Fullscreen Controls
 
@@ -26,6 +28,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = অবিলম্বে সুসংগত করুন
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = সমস্ত প্রদর্শন করা হবে
+    .tooltiptext = এই ডিভাইস থেকে সব ট্যাব দেখান
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = কোনো খোলা ট্যাব নেই
 # This is shown when Sync is configured but syncing tabs is disabled.
