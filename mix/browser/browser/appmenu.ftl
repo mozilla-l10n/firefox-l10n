@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Ventana tsaá
+appmenuitem-help =
+    .label = Chincheyu
 
 ## Zoom and Fullscreen Controls
 
@@ -38,10 +40,6 @@ whatsnew-panel-header = Nchi yee ña tsaa
 
 
 ## Help panel
-
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
