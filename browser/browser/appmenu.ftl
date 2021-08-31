@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = …ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ
 appmenuitem-more-tools =
     .label = ਹੋਰ ਟੂਲ
+appmenuitem-help =
+    .label = ਮਦਦ
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -76,6 +78,9 @@ appmenu-remote-tabs-tabsnotsyncing = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸ�
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਦੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+appmenu-remote-tabs-connectdevice =
+    .label = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
+appmenu-remote-tabs-unverified = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
 appmenuitem-fxa-toolbar-sync-now2 = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
 appmenuitem-fxa-manage-account = ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 appmenu-fxa-header2 = { -fxaccount-brand-name }
