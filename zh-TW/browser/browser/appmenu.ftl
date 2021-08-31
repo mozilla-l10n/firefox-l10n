@@ -11,7 +11,6 @@ appmenuitem-update-banner3 =
     .label-update-manual = 已推出更新 — 立即下載
     .label-update-unsupported = 無法更新 — 系統不相容
     .label-update-restart = 已推出更新 — 立即重新啟動
-
 appmenuitem-protection-dashboard-title = 保護資訊儀錶板
 appmenuitem-customize-mode =
     .label = 自訂…
@@ -44,7 +43,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = 關閉應用程式選單
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,7 +54,6 @@ appmenuitem-zoom-enlarge =
     .label = 放大
 appmenuitem-zoom-reduce =
     .label = 縮小
-
 appmenuitem-fullscreen =
     .label = 全螢幕
 
@@ -64,12 +61,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = 立刻同步
-
 appmenu-remote-tabs-sign-into-sync =
     .label = 登入進行同步…
 appmenu-remote-tabs-turn-on-sync =
     .label = 開啟同步…
-
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = 無已開啟的分頁
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = 開啟分頁同步功能以檢視您其他裝置中的分頁清單。
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = 想在這裡看到您其他裝置上開啟的分頁嗎？
 appmenuitem-fxa-toolbar-sync-now2 = 立刻同步
 appmenuitem-fxa-manage-account = 管理帳號
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -83,14 +85,12 @@ appmenu-fxa-signed-in-label = 登入
 appmenu-fxa-setup-sync =
     .label = 開啟同步…
 appmenu-fxa-show-more-tabs = 顯示更多分頁
-
 appmenuitem-save-page =
     .label = 另存新檔…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = 有什麼新鮮事
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -103,47 +103,33 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = 揭露更多資訊
-
 profiler-popup-description-title =
     .value = 紀錄、分析、分享
-
 profiler-popup-description = 與您的團隊分享效能測量資訊，一同解決效能問題。
-
 profiler-popup-learn-more = 了解更多
-
 profiler-popup-settings =
     .value = 設定
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = 編輯設定值…
-
 profiler-popup-disabled = Profiler 目前已停用，可能是因為開啟了隱私瀏覽視窗。
-
 profiler-popup-recording-screen = 記錄中…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = 自訂
-
 profiler-popup-start-recording-button =
     .label = 開始記錄
-
 profiler-popup-discard-button =
     .label = 捨棄
-
 profiler-popup-capture-button =
     .label = 捕捉
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -156,7 +142,6 @@ appmenu-manage-history =
     .label = 管理歷史
 appmenu-reopen-all-tabs = 回復所有分頁
 appmenu-reopen-all-windows = 回復所有視窗
-
 appmenu-restore-session =
     .label = 回復先前的瀏覽狀態
 appmenu-clear-history =
@@ -212,7 +197,6 @@ appmenu-customizetoolbar =
     .label = 自訂工具列…
 appmenu-taskmanager =
     .label = 工作管理員
-
 appmenu-developer-tools-subheader = 瀏覽器工具
 appmenu-developer-tools-extensions =
     .label = 開發者專用的擴充套件
