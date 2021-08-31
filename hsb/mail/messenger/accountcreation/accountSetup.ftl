@@ -218,6 +218,7 @@ exchange-dialog-cancel-button = Přetorhnyć
 ## Dismiss account creation dialog
 
 exit-dialog-title = E-mejlowe konto skonfigurowane njeje
+exit-dialog-description = Chceće woprawdźe konfigurowanski proces přetorhnyć? { -brand-short-name } da so hišće bjez e-mejloweho konta wužiwać, ale wjele funkcijow k dispoziciji njebudźe.
 account-setup-no-account-checkbox = { -brand-short-name } bjez e-mejloweho konta wužiwać
     .accesskey = b
 exit-dialog-cancel-button = Dale konfigurować
