@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Hitta på sidan…
 appmenuitem-more-tools =
     .label = Fler verktyg
+appmenuitem-help =
+    .label = Hjälp
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,6 +67,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Logga in för att synkronisera…
 appmenu-remote-tabs-turn-on-sync =
     .label = Aktivera synkronisering…
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Visa fler flikar
+    .tooltiptext = Visa flikar från denna enhet
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Inga öppna flikar
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -72,6 +78,10 @@ appmenu-remote-tabs-tabsnotsyncing = Slå på fliksynkronisering för att visa e
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vill du se dina flikar från andra enheter här?
+appmenu-remote-tabs-connectdevice =
+    .label = Anslut en annan enhet
+appmenu-remote-tabs-welcome = Se en lista med flikar från dina andra enheter.
+appmenu-remote-tabs-unverified = Ditt konto behöver verifieras.
 appmenuitem-fxa-toolbar-sync-now2 = Synkronisera nu
 appmenuitem-fxa-manage-account = Hantera konto
 appmenu-fxa-header2 = { -fxaccount-brand-name }
