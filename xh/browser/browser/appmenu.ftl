@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = Ifestile entsha
 appmenuitem-new-private-window =
     .label = Ifestile yangasese entsha
+appmenuitem-help =
+    .label = Uncedo
 
 ## Zoom and Fullscreen Controls
 
@@ -26,7 +28,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Ngqamanisa ngoku
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Bonisa Konke
+    .tooltiptext = Bonisa zonke iithebhu kwesi sixhobo
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Azikho iithebhu ezivuliweyo
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Layita ungqamaniso lwethebhu ukuze ujonge uludwe lweethebhu kwezinye izixhobo zakho.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Ufuna ukubona iithebhu kwezinye izixhobo apha?
 appmenuitem-save-page =
     .label = Gcina iphepha njenge…
 
