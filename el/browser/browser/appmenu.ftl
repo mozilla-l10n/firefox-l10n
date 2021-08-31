@@ -65,6 +65,13 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Σύνδεση στο Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ενεργοποίηση Sync…
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Δεν υπάρχουν ανοικτές καρτέλες
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Ενεργοποιήστε τον συγχρονισμό καρτελών για να δείτε μια λίστα από καρτέλες από τις άλλες σας συσκευές.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Θέλετε να δείτε τις καρτέλες από τις άλλες σας συσκευές εδώ;
 appmenuitem-fxa-toolbar-sync-now2 = Συγχρονισμός τώρα
 appmenuitem-fxa-manage-account = Διαχείριση λογαριασμού
 appmenu-fxa-header2 = { -fxaccount-brand-name }
