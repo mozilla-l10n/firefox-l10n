@@ -18,3 +18,8 @@ customize-menu-add-to-overflowmenu =
 
 ## Forget Button
 
+# The forget button can be added to the toolbar or overflow menu via the cutomization menu.
+panic-button-thankyou-msg1 = Ang mga nakaraan mong kasaysayan ay sadyang natanggal na.
+panic-button-thankyou-msg2 = Ligtas na pag-browse!
+panic-button-thankyou-button =
+    .label = Salamat!
