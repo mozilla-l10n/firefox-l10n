@@ -11,7 +11,6 @@ appmenuitem-update-banner3 =
     .label-update-manual = Mesa a jorn disponibla — telecargar ara
     .label-update-unsupported = Mesa a jorn impossibla — sistèma incompatible
     .label-update-restart = Mesa a jorn disponibla — reaviar ara
-
 appmenuitem-protection-dashboard-title = Taula de bòrd de las proteccions
 appmenuitem-customize-mode =
     .label = Personalizar…
@@ -32,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Recercar dins la pagina…
 appmenuitem-more-tools =
     .label = Mai d’aisinas…
+appmenuitem-help =
+    .label = Ajuda
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -44,7 +45,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Tampar lo menú d’aplicacion
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,7 +56,6 @@ appmenuitem-zoom-enlarge =
     .label = Zoom avant
 appmenuitem-zoom-reduce =
     .label = Zoom arrièr
-
 appmenuitem-fullscreen =
     .label = Ecran complet
 
@@ -64,12 +63,14 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ara
-
 appmenu-remote-tabs-sign-into-sync =
     .label = Se connectar a la sincronizacion…
 appmenu-remote-tabs-turn-on-sync =
     .label = Activar la sincronizacion…
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Tot mostrar
+    .tooltiptext = Mostrar totes los onglets d’aqueste periferic
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ara
 appmenuitem-fxa-manage-account = Gestion del compte
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -83,14 +84,12 @@ appmenu-fxa-signed-in-label = Connexion
 appmenu-fxa-setup-sync =
     .label = Activar la sincronizacion…
 appmenu-fxa-show-more-tabs = Afichar mai d’onglets
-
 appmenuitem-save-page =
     .label = Enregistrar jos…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Qué de nòu
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -103,49 +102,35 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Mostrar mai d‘informacions
-
 profiler-popup-description-title =
     .value = Enregistrar, analisar, partejar
-
 profiler-popup-description = Collaboratz a la resolucion de problèmas de performanças en publicant de perfils a partejar amb vòstra còla.
-
 profiler-popup-learn-more = Ne saber mai
-
 profiler-popup-settings =
     .value = Paramètres
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Modificar los paramètres…
-
 profiler-popup-disabled =
     Lo perfilador es actualament desactivat, probablament a causa d’una fenèstra de navegacion privada
     dobèrta
-
 profiler-popup-recording-screen = Enregistrament...
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Personalizat
-
 profiler-popup-start-recording-button =
     .label = Començar l’enregistrament
-
 profiler-popup-discard-button =
     .label = Ignorar
-
 profiler-popup-capture-button =
     .label = Capturar
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Maj.+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -158,7 +143,6 @@ appmenu-manage-history =
     .label = Gerir l’istoric
 appmenu-reopen-all-tabs = Tornar dobrir totes los onglets
 appmenu-reopen-all-windows = Tornar dobrir totas las fenèstras
-
 appmenu-restore-session =
     .label = Restablir la session precedenta
 appmenu-clear-history =
@@ -214,7 +198,6 @@ appmenu-customizetoolbar =
     .label = Personalizar la barra d‘aisinas…
 appmenu-taskmanager =
     .label = Gestionari de tascas
-
 appmenu-developer-tools-subheader = Aisinas del navegador
 appmenu-developer-tools-extensions =
     .label = Extensions pels desvolopaires
