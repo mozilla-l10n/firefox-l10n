@@ -78,6 +78,9 @@ appmenu-remote-tabs-tabsnotsyncing = Aktibatu fitxak sinkronizatzea zure beste g
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Beste gailuetako zure fitxak hemen ikusi nahi dituzu?
+appmenu-remote-tabs-connectdevice =
+    .label = Konektatu beste gailu bat
+appmenu-remote-tabs-unverified = Zure kontua egiaztatu egin behar da.
 appmenuitem-fxa-toolbar-sync-now2 = Sinkronizatu orain
 appmenuitem-fxa-manage-account = Kudeatu kontua
 appmenu-fxa-header2 = { -fxaccount-brand-name }
