@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = Fuinneog Nua
 appmenuitem-new-private-window =
     .label = Fuinneog Nua Phríobháideach
+appmenuitem-help =
+    .label = Cabhair
 
 ## Zoom and Fullscreen Controls
 
@@ -30,6 +32,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sioncronaigh Anois
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Taispeáin Uile
+    .tooltiptext = Taispeáin gach cluaisín ón ghléas seo
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Níl aon chluaisín ar oscailt
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Las sioncronú cluaisíní chun liosta cluaisíní ó do ghléasanna eile a fheiceáil.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Ar mhaith leat cluaisíní ó ghléasanna eile a fheiceáil anseo?
 appmenu-remote-tabs-connectdevice =
     .label = Ceangail Gléas Eile
 appmenu-remote-tabs-welcome = Amharc ar liosta cluaisíní ó do ghléasanna eile.
