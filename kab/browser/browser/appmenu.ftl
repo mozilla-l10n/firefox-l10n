@@ -78,6 +78,7 @@ appmenu-remote-tabs-tabsnotsyncing = Rmed amtawi n yiccer akken ad d-tsekneḍ t
 appmenu-remote-tabs-noclients = Tebɣid ad twaliḍ da accaren-ik seg yibenkan-nniḍen?
 appmenu-remote-tabs-connectdevice =
     .label = Qqen ibenk-nniḍen
+appmenu-remote-tabs-welcome = Wali tabdart n waccaren seg yibenkan-ik-nniḍen.
 appmenu-remote-tabs-unverified = Amiḍan-ik yeḥwaǧ ad ittusenqed.
 appmenuitem-fxa-toolbar-sync-now2 = Mtawi tura
 appmenuitem-fxa-manage-account = Sefrek amiḍan
