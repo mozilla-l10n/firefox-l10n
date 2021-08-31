@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Tilitäj Pa Ruxaq…
 appmenuitem-more-tools =
     .label = Ch'aqa' Samajib'äl
+appmenuitem-help =
+    .label = Tob'äl
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -72,6 +74,9 @@ appmenu-remote-tabs-tabsnotsyncing = Tatzija' ri kiximoj taq ruwi' richin natz'�
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?
+appmenu-remote-tabs-connectdevice =
+    .label = Tokisäx Jun Chik Okisaxel
+appmenu-remote-tabs-unverified = K'atzinel nijikib'äx ri rub'i' ataqoya'l.
 appmenuitem-fxa-toolbar-sync-now2 = Tixim Wakami
 appmenuitem-fxa-manage-account = Tinuk'samajïx Rub'i' Taqoya'l
 appmenu-fxa-header2 = { -fxaccount-brand-name }
