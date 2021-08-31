@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = નવી વિન્ડો
 appmenuitem-new-private-window =
     .label = નવી ખાનગી વિન્ડો
+appmenuitem-help =
+    .label = મદદ
 
 ## Zoom and Fullscreen Controls
 
@@ -23,7 +25,6 @@ appmenuitem-zoom-enlarge =
     .label = મોટું કરો
 appmenuitem-zoom-reduce =
     .label = નાનુ કરો
-
 appmenuitem-fullscreen =
     .label = પૂર્ણ સ્ક્રીન
 
@@ -31,7 +32,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = હમણાં સમન્વયિત કરો
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = બધું બતાવો
+    .tooltiptext = આ ઉપકરણમાંથી તમામ ટેબ્સ બતાવો
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = કોઈ ખુલ્લા ટૅબ્સ નથી
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = તમારા અન્ય ઉપકરણોમાંથી ટેબ્સની સૂચિ જોવા માટે ટેબ સમન્વયન ચાલુ કરો.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = અહીં અન્ય ઉપકરણોથી તમારા ટેબ્સ જોવા માંગો છો?
 appmenuitem-save-page =
     .label = આ રીતે પૃષ્ઠ સાચવો ...
 
@@ -85,4 +96,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = કાર્ય વ્યવસ્થાપક
-
