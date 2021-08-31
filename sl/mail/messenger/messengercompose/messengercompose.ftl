@@ -68,6 +68,10 @@ toolbar-button-add-attachment =
 add-attachment-notification-reminder =
     .label = Dodaj priponko …
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+add-attachment-notification-reminder2 =
+    .label = Dodaj priponko …
+    .accesskey = p
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
 menuitem-attach-files =
     .label = Datoteke …
     .accesskey = D
@@ -191,18 +195,34 @@ show-to-row-button = Za
     .title = Prikaži polje Za ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 cc-address-row-label =
     .value = Kp
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Polje Kp
+    .accesskey = K
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
 # The label should match the show-cc-row-button text.
 show-cc-row-extra-menuitem =
     .label = Kp
     .accesskey = K
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Kp
+    .title = Prikaži polje Kp ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 bcc-address-row-label =
     .value = Skp
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Polje Skp
+    .accesskey = S
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
 # The label should match the show-bcc-row-button text.
 show-bcc-row-extra-menuitem =
     .label = Skp
     .accesskey = S
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Skp
+    .title = Prikaži polje Skp ({ ctrl-cmd-shift-pretty-prefix }{ $key })
 extra-address-rows-menu-button =
     .title = Druga polja za naslavljanje, ki naj bodo prikazana
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.

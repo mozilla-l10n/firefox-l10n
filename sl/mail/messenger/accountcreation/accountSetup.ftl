@@ -38,6 +38,10 @@ account-provisioner-button = Pridobite nov e-poštni naslov
     .accesskey = n
 account-setup-password-toggle =
     .title = Pokaži/skrij geslo
+account-setup-password-toggle-show =
+    .title = Pokaži geslo kot čisto besedilo
+account-setup-password-toggle-hide =
+    .title = Skrij geslo
 account-setup-remember-password = Zapomni si geslo
     .accesskey = Z
 account-setup-exchange-label = Vaša prijava
@@ -204,6 +208,13 @@ insecure-dialog-confirm-button = Potrdi
 exchange-dialog-question = { -brand-short-name } je našel podatke za nastavitev računa na { $domain }. Ali želite nadaljevati in vnesti svoje prijavne podatke?
 exchange-dialog-confirm-button = Prijava
 exchange-dialog-cancel-button = Prekliči
+
+## Dismiss account creation dialog
+
+account-setup-no-account-checkbox = Uporabljaj { -brand-short-name } brez e-poštnega računa
+    .accesskey = U
+exit-dialog-cancel-button = Nadaljuj nastavitev
+    .accesskey = N
 
 ## Alert dialogs
 
