@@ -67,6 +67,25 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Pla Sync pśizjawiś…
 appmenu-remote-tabs-turn-on-sync =
     .label = Sync zmóžniś…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Wšykno pokazaś
+    .tooltiptext = Wše rejtariki z toś togo rěda pokazaś
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Dalšne rejtariki pokazaś
+    .tooltiptext = Dalšne rejtariki z toś togo rěda pokazaś
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Žedne wócynjone rejtariki
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Synchronizěrowanje rejtarikow zašaltowaś, aby se lisćina rejtarikow z drugich rědow pokazała.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Cośo how swóje rejtariki z drugich rědow wiźeś?
+appmenu-remote-tabs-connectdevice =
+    .label = Drugi rěd zwězaś
+appmenu-remote-tabs-welcome = Woglědajśo se lisćinu rejtarikow ze swójich rědow.
+appmenu-remote-tabs-unverified = Wašo konto musy se wobkšuśiś.
 appmenuitem-fxa-toolbar-sync-now2 = Něnto synchronizěrowaś
 appmenuitem-fxa-manage-account = Konto zastojaś
 appmenu-fxa-header2 = { -fxaccount-brand-name }
