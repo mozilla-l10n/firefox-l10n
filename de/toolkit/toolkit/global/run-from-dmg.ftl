@@ -9,9 +9,11 @@
 ## user accepts.
 
 prompt-to-install-title = Installation von { -brand-short-name } abschließen?
+prompt-to-install-message = Schließen Sie diese einstufige Installation ab, um { -brand-short-name } auf dem neuesten Stand zu halten und Datenverlust zu vermeiden. { -brand-short-name } wird zum Ordner "Programme" und zum Dock hinzugefügt.
 prompt-to-install-yes-button = Installieren
 prompt-to-install-no-button = Nicht installieren
 
 ## Strings for a dialog that opens if the installation failed.
 
 install-failed-title = Installation von { -brand-short-name } fehlgeschlagen.
+install-failed-message = { -brand-short-name } konnte nicht installiert werden, wird aber weiterhin funktionieren.
