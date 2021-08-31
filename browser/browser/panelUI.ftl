@@ -9,6 +9,9 @@
 customize-menu-unpin-from-overflowmenu =
     .label = Eemalda nurgatagusest menüüst
     .accesskey = m
+customize-menu-add-to-toolbar =
+    .label = Lisa tööriistaribale
+    .accesskey = L
 customize-menu-add-to-overflowmenu =
     .label = Lisa nurgatagusesse menüüsse
     .accesskey = n
