@@ -4,4 +4,4 @@
 
 category-name-label = Tên
 category-color-label =
-    .label = Dùng Màu
+    .label = Sử dụng màu
