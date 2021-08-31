@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Vis alle
     .tooltiptext = Vis alle faneblade fra denne enhed
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Vis flere faneblade
+    .tooltiptext = Vis flere faneblade fra denne enhed
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ingen åbne faneblade
 # This is shown when Sync is configured but syncing tabs is disabled.
