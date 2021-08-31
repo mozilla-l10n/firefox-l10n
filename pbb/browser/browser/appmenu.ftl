@@ -24,7 +24,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Ãçxh kãjãdan
-
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Phadenxii meeta
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Phewujnxisa ki'tanxi ũsa' na' thegya ewuna yasetxih vxite vxisnxijuy.
 appmenuitem-save-page =
     .label = Ma'h jxawnah…
 
@@ -47,9 +50,6 @@ appmenu-about =
 appmenu-help-feedback-page =
     .label = Yatxnxi's kahwa'
     .accesskey = Y
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
