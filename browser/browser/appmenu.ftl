@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Sykje op side…
 appmenuitem-more-tools =
     .label = Mear ark
+appmenuitem-help =
+    .label = Help
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,6 +67,14 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Oanmelde by Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Syngronisaasje ynskeakelje…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Alle toane
+    .tooltiptext = Alle ljepblêden fan dit apparaat toane
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Mear ljepblêden toane
+    .tooltiptext = Mear ljepblêden fan dit apparaat toane
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Gjin iepen ljepblêden
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -72,6 +82,10 @@ appmenu-remote-tabs-tabsnotsyncing = Set ljepblêdsyngronisaasje oan om in list 
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Wolle jo hjir jo ljepblêden fan oare apparaten sjen?
+appmenu-remote-tabs-connectdevice =
+    .label = Noch in apparaat keppelje
+appmenu-remote-tabs-welcome = Besjoch in list mei ljepblêden fan jo oare apparaten.
+appmenu-remote-tabs-unverified = Jo account moat ferifiearre wurde.
 appmenuitem-fxa-toolbar-sync-now2 = No syngronisearje
 appmenuitem-fxa-manage-account = Account beheare
 appmenu-fxa-header2 = { -fxaccount-brand-name }
