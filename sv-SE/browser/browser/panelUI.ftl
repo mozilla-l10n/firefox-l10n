@@ -5,8 +5,15 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Ta bort från spillmeny
+    .accesskey = T
 customize-menu-add-to-toolbar =
     .label = Lägg till i verktygsfält
+    .accesskey = L
+customize-menu-add-to-overflowmenu =
+    .label = Lägg till i spillmeny
     .accesskey = L
 
 ## Forget Button
