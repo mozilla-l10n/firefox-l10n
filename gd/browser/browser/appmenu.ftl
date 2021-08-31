@@ -78,6 +78,9 @@ appmenu-remote-tabs-tabsnotsyncing = Cuir air sioncronachadh nan tabaichean airs
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = A bheil thu airson na tabaichean a tha agad air uidheaman eile fhaicinn an-seo?
+appmenu-remote-tabs-connectdevice =
+    .label = Ceangail uidheam eile ris
+appmenu-remote-tabs-unverified = Tha an cunntas agad feumach air dearbhadh.
 appmenuitem-fxa-toolbar-sync-now2 = Sioncronaich an-dràsta
 appmenuitem-fxa-manage-account = Stiùirich an cunntas
 appmenu-fxa-header2 = { -fxaccount-brand-name }
