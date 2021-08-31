@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Erakutsi denak
     .tooltiptext = Erakutsi gailu honetako fitxa guztiak
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Erakutsi fitxa gehiago
+    .tooltiptext = Erakutsi gailu honetako fitxa gehiago
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Irekitako fitxarik ez
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -80,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Aktibatu fitxak sinkronizatzea zure beste g
 appmenu-remote-tabs-noclients = Beste gailuetako zure fitxak hemen ikusi nahi dituzu?
 appmenu-remote-tabs-connectdevice =
     .label = Konektatu beste gailu bat
+appmenu-remote-tabs-welcome = Ikusi zure beste gailuetako fitxen zerrenda.
 appmenu-remote-tabs-unverified = Zure kontua egiaztatu egin behar da.
 appmenuitem-fxa-toolbar-sync-now2 = Sinkronizatu orain
 appmenuitem-fxa-manage-account = Kudeatu kontua
