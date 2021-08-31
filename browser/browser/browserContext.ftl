@@ -453,5 +453,5 @@ main-context-menu-eme-learn-more =
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
-    .label = Avaa linkki uudessa "{ $containerName }"-välilehdessä
+    .label = Avaa linkki uudessa ”{ $containerName }”-välilehdessä
     .accesskey = v
