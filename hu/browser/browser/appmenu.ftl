@@ -78,6 +78,10 @@ appmenu-remote-tabs-tabsnotsyncing = Kapcsolja be a lapszinkronizálást a más 
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Szeretné a más eszközein megnyitott lapjait itt látni?
+appmenu-remote-tabs-connectdevice =
+    .label = Másik eszköz csatlakoztatása
+appmenu-remote-tabs-welcome = Tekintse meg a más eszközökről származó lapok listáját.
+appmenu-remote-tabs-unverified = A fiókját ellenőrizni kell.
 appmenuitem-fxa-toolbar-sync-now2 = Szinkronizálás most
 appmenuitem-fxa-manage-account = Fiók kezelése
 appmenu-fxa-header2 = { -fxaccount-brand-name }
