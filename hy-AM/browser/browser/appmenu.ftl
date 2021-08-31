@@ -68,6 +68,9 @@ appmenu-remote-tabs-tabsnotsyncing = Միացրեք ներդիրների համ�
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ցանկանու՞մ եք տեսնել ձեր այլ սարքերի ներդիրները:
+appmenu-remote-tabs-connectdevice =
+    .label = Կապակցվել այլ սարքի
+appmenu-remote-tabs-unverified = Ձեր հաշիվը պետք է ստուգվի:
 appmenuitem-fxa-toolbar-sync-now2 = Համաժամեցնել
 appmenuitem-fxa-manage-account = Կառավարել հաշիվը
 appmenu-fxa-header2 = { -fxaccount-brand-name }
