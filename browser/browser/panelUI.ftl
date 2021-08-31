@@ -5,13 +5,21 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Losmeitsje fan oerrinmenu
+    .accesskey = L
 customize-menu-add-to-toolbar =
     .label = Tafoegje oan arkbalke
     .accesskey = a
+customize-menu-add-to-overflowmenu =
+    .label = Tafoegje oan oerrinmenu
+    .accesskey = m
 
 ## Forget Button
 
 # The forget button can be added to the toolbar or overflow menu via the cutomization menu.
 panic-button-thankyou-msg1 = Jo resinte skiednis is wiskje.
+panic-button-thankyou-msg2 = Feilich sneupje!
 panic-button-thankyou-button =
     .label = Tankewol!
