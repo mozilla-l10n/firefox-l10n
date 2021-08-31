@@ -5,6 +5,16 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Leva da-o menû de straripo
+    .accesskey = L
+customize-menu-add-to-toolbar =
+    .label = Azonzi a-a bara di atressi
+    .accesskey = A
+customize-menu-add-to-overflowmenu =
+    .label = Azonzi a-o menû de straripo
+    .accesskey = m
 
 ## Forget Button
 
