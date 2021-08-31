@@ -11,7 +11,6 @@ appmenuitem-update-banner3 =
     .label-update-manual = Nadogradnja dostupna — preuzmite odmah
     .label-update-unsupported = Ne mogu nadograditi — sistem nekompatibilan
     .label-update-restart = Nadogradnja dostupna — restartujte odmah
-
 appmenuitem-protection-dashboard-title = Dashboard zaštite
 appmenuitem-customize-mode =
     .label = Prilagođavanje…
@@ -44,7 +43,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Zatvori aplikacijski meni
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,7 +54,6 @@ appmenuitem-zoom-enlarge =
     .label = Uvećaj
 appmenuitem-zoom-reduce =
     .label = Umanji
-
 appmenuitem-fullscreen =
     .label = Prikaz preko cijelog ekrana
 
@@ -64,12 +61,21 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinhronizuj sada
-
 appmenu-remote-tabs-sign-into-sync =
     .label = Prijavite se za sinhronizaciju…
 appmenu-remote-tabs-turn-on-sync =
     .label = Uključi sinhronizaciju…
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Prikaži sve
+    .tooltiptext = Prikaži sve tabove s ovog uređaja
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Nema otvorenih tabova
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Uključite sinhronizaciju tabova da biste vidjeli listu tabova s vaših ostalih uređaja.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Želite li vidjeti vaše tabove s drugih uređaja ovdje?
 appmenuitem-fxa-toolbar-sync-now2 = Sinhronizuj odmah
 appmenuitem-fxa-manage-account = Upravljanje računom
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
@@ -82,14 +88,12 @@ appmenu-fxa-signed-in-label = Prijava
 appmenu-fxa-setup-sync =
     .label = Uključi sinhronizaciju…
 appmenu-fxa-show-more-tabs = Prikaži više tabova
-
 appmenuitem-save-page =
     .label = Spasi stranicu kao…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Šta je novo
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -102,49 +106,35 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Prikaži više informacija
-
 profiler-popup-description-title =
     .value = Snimite, analizirajte, dijelite
-
 profiler-popup-description = Sarađujte na problemima performansi objavljivanjem profila koje ćete podijeliti sa svojim timom.
-
 profiler-popup-learn-more = Saznajte više
-
 profiler-popup-settings =
     .value = Postavke
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Uredi postavke…
-
 profiler-popup-disabled =
     Profiler je trenutno onemogućen, najvjerovatnije zbog otvorenog prozora
     Privatnog surfanja.
-
 profiler-popup-recording-screen = Snimam…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Prilagođeno
-
 profiler-popup-start-recording-button =
     .label = Započni snimanje
-
 profiler-popup-discard-button =
     .label = Odbaci
-
 profiler-popup-capture-button =
     .label = Snimaj
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -157,7 +147,6 @@ appmenu-manage-history =
     .label = Upravljanje historijom
 appmenu-reopen-all-tabs = Otvori sve tabove
 appmenu-reopen-all-windows = Otvori sve prozore
-
 appmenu-restore-session =
     .label = Vrati prethodnu sesiju
 appmenu-clear-history =
@@ -204,7 +193,6 @@ appmenu-customizetoolbar =
     .label = Prilagodi alatnu traku…
 appmenu-taskmanager =
     .label = Task Manager
-
 appmenu-developer-tools-subheader = Alati browsera
 appmenu-developer-tools-extensions =
     .label = Ekstenzije za developere
