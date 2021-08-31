@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = 在页面中查找…
 appmenuitem-more-tools =
     .label = 更多工具
+appmenuitem-help =
+    .label = 帮助
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,8 +67,13 @@ appmenu-remote-tabs-sign-into-sync =
     .label = 登录以同步…
 appmenu-remote-tabs-turn-on-sync =
     .label = 开启同步…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = 显示全部
+    .tooltiptext = 显示此设备的所有标签页
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = 没有打开的标签页
+appmenu-remote-tabs-unverified = 您的账号需要验证。
 appmenuitem-fxa-toolbar-sync-now2 = 立即同步
 appmenuitem-fxa-manage-account = 管理账户
 appmenu-fxa-header2 = { -fxaccount-brand-name }
