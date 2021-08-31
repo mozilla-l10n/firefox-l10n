@@ -24,7 +24,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Rulaganya ka tsamaisano gone Jaana
-
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Ga gona dithebe tse di butsweng
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Tobetsa go dirisa thulaganyo ka tsamaisano ya thebe go leba lenaane la dithebe go tsweng mo didirisweng tse dingwe tsa gago.
 appmenuitem-save-page =
     .label = Boloka Tsebe Jaaka…
 
@@ -47,9 +50,6 @@ appmenu-about =
 appmenu-help-feedback-page =
     .label = Romela tshwaelo ka maitemogelo...
     .accesskey = R
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
