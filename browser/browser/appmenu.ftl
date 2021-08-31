@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = ابحث في الصفحة…
 appmenuitem-more-tools =
     .label = أدوات أكثر
+appmenuitem-help =
+    .label = مساعدة
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,6 +67,13 @@ appmenu-remote-tabs-sign-into-sync =
     .label = لِج كي تبدأ المزامنة…
 appmenu-remote-tabs-turn-on-sync =
     .label = فعّل المزامنة…
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = لا ألسنة مفتوحة
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = فعّل مزامنة الألسنة لعرض قائمة بالألسنة من أجهزتك الأخرى.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = أتريد رؤية ألسنتك من الأجهزة الأخرى هنا؟
 appmenuitem-fxa-toolbar-sync-now2 = زامِن الآن
 appmenuitem-fxa-manage-account = أدِر الحساب
 appmenu-fxa-header2 = { -fxaccount-brand-name }
