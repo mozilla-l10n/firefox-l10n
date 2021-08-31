@@ -5,6 +5,16 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = 더보기 메뉴에서 고정 해제
+    .accesskey = U
+customize-menu-add-to-toolbar =
+    .label = 도구 모음에 추가
+    .accesskey = A
+customize-menu-add-to-overflowmenu =
+    .label = 더보기 메뉴에 추가
+    .accesskey = M
 
 ## Forget Button
 
