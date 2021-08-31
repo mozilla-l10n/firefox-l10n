@@ -39,6 +39,10 @@ account-provisioner-button = Obter um novo endereço de email
     .accesskey = O
 account-setup-password-toggle =
     .title = Exibir/ocultar senha
+account-setup-password-toggle-show =
+    .title = Exibir senha
+account-setup-password-toggle-hide =
+    .title = Ocultar senha
 account-setup-remember-password = Memorizar senha
     .accesskey = M
 account-setup-exchange-label = Sua conta
@@ -206,6 +210,17 @@ insecure-dialog-confirm-button = Confirmar
 exchange-dialog-question = O { -brand-short-name } encontrou informações de configuração da sua conta em { $domain }. Quer continuar e enviar suas credenciais?
 exchange-dialog-confirm-button = Entrar
 exchange-dialog-cancel-button = Cancelar
+
+## Dismiss account creation dialog
+
+exit-dialog-title = Nenhuma conta de email configurada
+exit-dialog-description = Tem certeza que quer cancelar o processo de configuração? O { -brand-short-name } ainda pode ser usado sem nenhuma conta de email, mas muitos recursos não estarão disponíveis.
+account-setup-no-account-checkbox = Usar o { -brand-short-name } sem contas de email
+    .accesskey = U
+exit-dialog-cancel-button = Continuar a configuração
+    .accesskey = C
+exit-dialog-confirm-button = Sair da configuração
+    .accesskey = S
 
 ## Alert dialogs
 
