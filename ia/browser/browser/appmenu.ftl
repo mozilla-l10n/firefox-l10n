@@ -71,6 +71,12 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Monstrar totes
     .tooltiptext = Monstrar tote le schedas de iste apparato
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Monstrar plus schedas
+    .tooltiptext = Monstrar plus schedas de iste apparato
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Activa le synchronisation de schedas pro vider un lista de schedas de tu altere apparatos.
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Desira tu vider le schedas de altere apparatos hic?
