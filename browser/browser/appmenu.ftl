@@ -80,6 +80,7 @@ appmenu-remote-tabs-tabsnotsyncing = 打开标签页同步功能，就能看到�
 appmenu-remote-tabs-noclients = 想查看您在其他设备上的标签页吗？
 appmenu-remote-tabs-connectdevice =
     .label = 关联其他设备
+appmenu-remote-tabs-welcome = 查看您的其他设备上的标签页列表。
 appmenu-remote-tabs-unverified = 您的账号需要验证。
 appmenuitem-fxa-toolbar-sync-now2 = 立即同步
 appmenuitem-fxa-manage-account = 管理账户
