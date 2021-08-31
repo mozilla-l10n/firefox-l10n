@@ -18,6 +18,8 @@ customize-menu-add-to-overflowmenu =
 
 ## Forget Button
 
+# The forget button can be added to the toolbar or overflow menu via the cutomization menu.
+panic-button-thankyou-msg1 = Lịch sử gần đây đã bị xóa.
 panic-button-thankyou-msg2 = Duyệt web an toàn!
 panic-button-thankyou-button =
     .label = Cảm ơn!
