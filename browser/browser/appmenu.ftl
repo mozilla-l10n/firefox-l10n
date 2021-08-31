@@ -78,6 +78,9 @@ appmenu-remote-tabs-tabsnotsyncing = Ative a sincronização de separadores para
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Pretende ver os seus separadores de outros dispositivos aqui?
+appmenu-remote-tabs-connectdevice =
+    .label = Ligar outro dispositivo
+appmenu-remote-tabs-unverified = A sua conta necessita de ser verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-manage-account = Gerir conta
 appmenu-fxa-header2 = { -fxaccount-brand-name }
