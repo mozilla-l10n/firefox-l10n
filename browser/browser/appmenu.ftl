@@ -23,7 +23,6 @@ appmenuitem-zoom-enlarge =
     .label = Zúmáil isteach
 appmenuitem-zoom-reduce =
     .label = Zúmáil amach
-
 appmenuitem-fullscreen =
     .label = Lánscáileán
 
@@ -31,7 +30,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sioncronaigh Anois
-
+appmenu-remote-tabs-connectdevice =
+    .label = Ceangail Gléas Eile
+appmenu-remote-tabs-welcome = Amharc ar liosta cluaisíní ó do ghléasanna eile.
+appmenu-remote-tabs-unverified = Ní mór duit do chuntas a dheimhniú.
 appmenuitem-save-page =
     .label = Sábháil an Leathanach Mar…
 
@@ -85,4 +87,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Bainisteoir Tascanna
-
