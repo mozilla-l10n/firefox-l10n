@@ -67,6 +67,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Logga in för att synkronisera…
 appmenu-remote-tabs-turn-on-sync =
     .label = Aktivera synkronisering…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Visa alla
+    .tooltiptext = Visa alla flikar från denna enhet
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Visa fler flikar
