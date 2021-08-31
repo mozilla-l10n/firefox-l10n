@@ -65,6 +65,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = تمام دکھائیں
     .tooltiptext = اس آلہ سے تَمام ٹیبس دکھائیں
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = مزید ٹیبز دکھائیں
+    .tooltiptext = اس آلہ سے مزید َٹیبس دکھائیں
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = کوئی کھولی ہوئی ٹیب نہیں
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -72,6 +76,7 @@ appmenu-remote-tabs-tabsnotsyncing = اپنے دیگر آلات پر ٹیب کی
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟
+appmenu-remote-tabs-welcome = دیگر آلات سے ٹیبیں کی فہرست دیکھنیں۔
 appmenu-remote-tabs-unverified = آپ کے اکائونٹ کو توژیکاری کی ظرورت ہے۔
 appmenuitem-fxa-toolbar-sync-now2 = ابھی سنک کریں
 appmenuitem-fxa-manage-account = اکاؤنٹ منظم کریں
