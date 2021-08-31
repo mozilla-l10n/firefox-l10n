@@ -14,6 +14,8 @@ appmenuitem-new-window =
     .label = Tingkap Barô
 appmenuitem-new-private-window =
     .label = Tingkap Rahsia Barô
+appmenuitem-help =
+    .label = Beunatu
 
 ## Zoom and Fullscreen Controls
 
@@ -22,6 +24,8 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Hana teuhah tabs
 
 ## What's New panel in App menu.
 
