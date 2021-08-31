@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-help =
+    .label = Lochb'al
 
 ## Zoom and Fullscreen Controls
 
@@ -22,7 +24,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Ik'ultib' skaajayil
-
 appmenuitem-save-page =
     .label = Jup u U'uje' Eche' uva'…
 
@@ -43,9 +44,6 @@ whatsnew-panel-header = Kam ak' at ve'te'
 appmenu-help-feedback-page =
     .label = Aq'b'en ayol
     .accesskey = A
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
