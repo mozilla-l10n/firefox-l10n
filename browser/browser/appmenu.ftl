@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Mussar tuts
     .tooltiptext = Mussar tut ils tabs da quest apparat
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Mussar dapli tabs
+    .tooltiptext = Mussar ulteriurs tabs da quest apparat
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nagins tabs averts
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -80,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Activescha la sincronisaziun da tabs per ve
 appmenu-remote-tabs-noclients = Vuls ti vesair qua tes tabs dad auters apparats?
 appmenu-remote-tabs-connectdevice =
     .label = Colliar in auter apparat
+appmenu-remote-tabs-welcome = Mussar ina glista dals tabs da tes auters apparats.
 appmenu-remote-tabs-unverified = Tes conto sto vegnir verifitgà.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronisar ussa
 appmenuitem-fxa-manage-account = Administrar il conto
