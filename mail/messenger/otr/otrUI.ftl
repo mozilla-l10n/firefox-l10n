@@ -11,6 +11,7 @@ auth-cancelAccessKey = P
 auth-error = Yhteyshenkilön henkilöllisyyden varmistamisessa tapahtui virhe.
 auth-success = Yhteyshenkilösi henkilöllisyyden varmistaminen onnistui.
 auth-successThem = Yhteyshenkilösi on vahvistanut henkilöllisyytesi. Voit myös varmistaa heidän henkilöllisyytensä esittämällä oman kysymyksesi.
+auth-success-them = Yhteyshenkilösi on vahvistanut henkilöllisyytesi. Voit myös varmistaa heidän henkilöllisyytensä esittämällä oman kysymyksesi.
 auth-fail = Yhteyshenkilösi henkilöllisyyden varmistaminen epäonnistui.
 auth-waiting = Odotetaan yhteyshenkilön varmistuksen suorittamista ...
 finger-verify = Varmista
@@ -67,6 +68,7 @@ verify-title = Varmista yhteyshenkilösi henkilöllisyys
 error-title = Virhe
 success-title = Päästä päähän -salaus
 successThem-title = Varmista yhteyshenkilösi henkilöllisyys
+success-them-title = Varmista yhteyshenkilösi henkilöllisyys
 fail-title = Ei voida varmistaa
 waiting-title = Varmistuspyyntö lähetettiin
 # Do not translate 'OTR' (name of an encryption protocol)
