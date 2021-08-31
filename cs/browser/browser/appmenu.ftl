@@ -67,6 +67,14 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Přihlásit se k synchronizaci…
 appmenu-remote-tabs-turn-on-sync =
     .label = Zapnout synchronizaci…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Zobrazit vše
+    .tooltiptext = Zobrazí všechny panely z tohoto zařízení
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Zobrazit další panely
+    .tooltiptext = Zobrazí panely z tohoto zařízení
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Žádné otevřené panely
 # This is shown when Sync is configured but syncing tabs is disabled.
