@@ -5,6 +5,10 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Ukloni iz dodatnog izbornika
+    .accesskey = I
 customize-menu-add-to-toolbar =
     .label = Dodaj na alatnu traku
     .accesskey = a
@@ -14,5 +18,8 @@ customize-menu-add-to-overflowmenu =
 
 ## Forget Button
 
+# The forget button can be added to the toolbar or overflow menu via the cutomization menu.
+panic-button-thankyou-msg1 = Tvoja nedavna povijest je izbrisana.
+panic-button-thankyou-msg2 = Sigurno pregledavanje!
 panic-button-thankyou-button =
     .label = Hvala!
