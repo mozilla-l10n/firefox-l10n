@@ -14,13 +14,10 @@ about-config-intro-warning-button = Chấp nhận rủi ro và tiếp tục
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Thay đổi các tùy chọn này có thể ảnh hưởng đến hiệu suất hoặc bảo mật { -brand-short-name }.
-
 about-config-page-title = Tùy chọn nâng cao
-
 about-config-search-input1 =
     .placeholder = Tìm kiếm tên tùy chọn
 about-config-show-all = Hiển thị tất cả
-
 about-config-pref-add-button =
     .title = Thêm
 about-config-pref-toggle-button =
@@ -36,7 +33,7 @@ about-config-pref-delete-button =
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
-about-config-pref-add-type-boolean = Luận lí
+about-config-pref-add-type-boolean = Logic
 about-config-pref-add-type-number = Số
 about-config-pref-add-type-string = Chuỗi
 
