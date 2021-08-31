@@ -69,6 +69,8 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Activează sincronizarea…
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nicio filă deschisă
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Activează sincronizarea filelor pentru a vedea o listă cu file de pe celelalte dispozitive.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizează acum
 appmenuitem-fxa-manage-account = Gestionează contul
 appmenu-fxa-header2 = { -fxaccount-brand-name(case: "indefinite-article", capitalization: "upper") }
