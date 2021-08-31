@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = חיפוש בדף…
 appmenuitem-more-tools =
     .label = כלים נוספים
+appmenuitem-help =
+    .label = עזרה
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
