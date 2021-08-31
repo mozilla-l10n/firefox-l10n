@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = නව කවුළුවක්
 appmenuitem-new-private-window =
     .label = නව පුද්ගලික කවුළුව
+appmenuitem-help =
+    .label = උදව්
 
 ## Zoom and Fullscreen Controls
 
@@ -26,7 +28,11 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = දැන් සම්මුහුර්ත කරන්න
-
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = විවෘත ටැබ නොමැත
+appmenu-remote-tabs-connectdevice =
+    .label = තවත් උපාංගයක් සබඳ කරන්න
+appmenu-remote-tabs-unverified = ඔබේ ගිනුම තහවුරු කල යුතුයි.
 appmenuitem-save-page =
     .label = පිටුව සුරකින්න...
 
