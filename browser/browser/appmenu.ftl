@@ -65,6 +65,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម…
 appmenu-remote-tabs-turn-on-sync =
     .label = បើកសមកាលកម្ម...
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = បង្ហាញ​ទាំងអស់
+    .tooltiptext = បង្ហាញ​ផ្ទាំង​ទាំងអស់​ពី​ឧបករណ៍​នេះ
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = គ្មានផ្ទាំងបើកទេ
 # This is shown when Sync is configured but syncing tabs is disabled.
