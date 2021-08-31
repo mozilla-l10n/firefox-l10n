@@ -39,6 +39,9 @@ appmenu-remote-tabs-tabsnotsyncing = ট্যাব সিঙ্কিং খ�
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = এখানে আপনার অন্যান্য ডিভাইসের ট্যাব দেখতে চান?
+appmenu-remote-tabs-connectdevice =
+    .label = অন্য ডিভাইসকে সংযোগ করুন
+appmenu-remote-tabs-unverified = আপনার অ্যাকাউন্টকে যাচাই করা প্রয়োজন।
 appmenuitem-save-page =
     .label = নতুন নামে পৃষ্ঠা সংরক্ষণ করুন…
 
