@@ -550,6 +550,16 @@ urlbar-result-action-search-tabs = ਟੈਬਾਂ ਖੋਜੋ
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } ਸੁਝਾਅ
 
 ## Full Screen and Pointer Lock UI
 
@@ -711,6 +721,9 @@ remote-tabs-sync-now = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = …ਹੋਰ
 ui-tour-info-panel-close =
     .tooltiptext = ਬੰਦ ਕਰੋ
 
