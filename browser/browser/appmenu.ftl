@@ -17,6 +17,8 @@ appmenuitem-new-window =
     .label = Uus aken
 appmenuitem-new-private-window =
     .label = Uus privaatne aken
+appmenuitem-help =
+    .label = Abi
 
 ## Zoom and Fullscreen Controls
 
@@ -24,7 +26,6 @@ appmenuitem-zoom-enlarge =
     .label = Suurenda
 appmenuitem-zoom-reduce =
     .label = Vähenda
-
 appmenuitem-fullscreen =
     .label = Täisekraani režiim
 
@@ -32,14 +33,20 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sünkroniseeri kohe
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Kuva kõiki
+    .tooltiptext = Kuva kõiki selle seadme kaarte
+appmenu-remote-tabs-connectdevice =
+    .label = Ühenda teine seade
+appmenu-remote-tabs-welcome = Vaata teistes seadmetes avatud kaartide nimekirja.
+appmenu-remote-tabs-unverified = Sinu konto vajab kinnitamist.
 appmenuitem-save-page =
     .label = Salvesta veebileht kui…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Mis on uut?
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -92,4 +99,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Tegumihaldur
-
