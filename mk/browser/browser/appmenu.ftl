@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = Нов прозорец
 appmenuitem-new-private-window =
     .label = Нов приватен прозорец
+appmenuitem-help =
+    .label = Помош
 
 ## Zoom and Fullscreen Controls
 
