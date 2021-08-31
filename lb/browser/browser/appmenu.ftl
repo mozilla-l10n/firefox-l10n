@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = Nei Fënster
 appmenuitem-new-private-window =
     .label = Nei privat Fënster
+appmenuitem-help =
+    .label = Hëllef
 
 ## Zoom and Fullscreen Controls
 
@@ -26,7 +28,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Elo synchroniséieren
-
 appmenuitem-save-page =
     .label = Säit späicheren ënner…
 
