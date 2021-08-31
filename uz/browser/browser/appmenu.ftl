@@ -32,6 +32,9 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinxronlash
+appmenu-remote-tabs-connectdevice =
+    .label = Boshqa qurilmaga ulanish
+appmenu-remote-tabs-unverified = Hisobingiz tasdiqlanishi kerak.
 appmenuitem-save-page =
     .label = Sahifani saqlash…
 
