@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Näytä kaikki
     .tooltiptext = Näytä kaikki välilehdet tältä laitteelta
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Näytä lisää välilehtiä
+    .tooltiptext = Näytä lisää välilehtiä tältä laitteelta
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ei avoimia välilehtiä
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -80,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Ota välilehtien synkronointi käyttöön, 
 appmenu-remote-tabs-noclients = Haluatko nähdä muiden laitteiden välilehdet tässä?
 appmenu-remote-tabs-connectdevice =
     .label = Yhdistä toinen laite
+appmenu-remote-tabs-welcome = Näytä lista välilehdistä muilta laitteiltasi.
 appmenu-remote-tabs-unverified = Tilisi tarvitsee vahvistaa.
 appmenuitem-fxa-toolbar-sync-now2 = Synkronoi nyt
 appmenuitem-fxa-manage-account = Hallinnoi tiliä
