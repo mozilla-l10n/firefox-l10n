@@ -39,6 +39,9 @@ appmenu-remote-tabs-tabsnotsyncing = Diger cihazlardaki ilmeklerni körmek içü
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Diger cihazlardan ilmekleriñizni mında köresiñiz kile?
+appmenu-remote-tabs-connectdevice =
+    .label = Başqa bir Cihaznı Bağla
+appmenu-remote-tabs-unverified = Esabıñız doğrulanmağa muhtac.
 appmenuitem-save-page =
     .label = Saifeni Şöyle Saqla…
 
