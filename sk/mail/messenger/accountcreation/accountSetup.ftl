@@ -41,6 +41,10 @@ account-provisioner-button = Získať novú e-mailovú adresu
     .accesskey = n
 account-setup-password-toggle =
     .title = Zobraziť/skryť heslo
+account-setup-password-toggle-show =
+    .title = Zobraziť heslo ako čistý text
+account-setup-password-toggle-hide =
+    .title = Skryť heslo
 account-setup-remember-password = Zapamätať si heslo
     .accesskey = Z
 account-setup-exchange-label = Vaše prihlasovacie údaje
@@ -209,6 +213,17 @@ insecure-dialog-confirm-button = Potvrdiť
 exchange-dialog-question = { -brand-short-name } našiel informácie o nastavení vášho účtu na serveri { $domain }. Chcete pokračovať a odoslať svoje prihlasovacie údaje?
 exchange-dialog-confirm-button = Prihlásiť sa
 exchange-dialog-cancel-button = Zrušiť
+
+## Dismiss account creation dialog
+
+exit-dialog-title = Nie je nakonfigurovaný žiadny e-mailový účet
+exit-dialog-description = Naozaj chcete zrušiť proces nastavenia? { -brand-short-name } je stále možné používať aj bez e-mailového účtu, ale mnohé funkcie nebudú k dispozícii.
+account-setup-no-account-checkbox = Používať { -brand-short-name } bez e-mailového účtu
+    .accesskey = u
+exit-dialog-cancel-button = Pokračovať v nastavení
+    .accesskey = P
+exit-dialog-confirm-button = Ukončiť nastavenie
+    .accesskey = U
 
 ## Alert dialogs
 
