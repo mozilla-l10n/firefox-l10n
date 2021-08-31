@@ -9,6 +9,9 @@
 customize-menu-unpin-from-overflowmenu =
     .label = ওভারফ্লো মেনু হতে আনপিন করুন
     .accesskey = U
+customize-menu-add-to-toolbar =
+    .label = টুলবারে যোগ করুন
+    .accesskey = A
 customize-menu-add-to-overflowmenu =
     .label = ওভারফ্লো মেনুতে যোগ করুন
     .accesskey = M
