@@ -139,7 +139,7 @@ troubleshoot-mode-title = Diagnosticar problemas
 restart-in-troubleshoot-mode-label = Modo diagnostic…
 clear-startup-cache-title = Prova vacuar le cache de initio
 clear-startup-cache-label = Vacuar le cache de initio…
-startup-cache-dialog-title2 = Reinitiar { -brand-short-name } pro clarar le cache initial?
+startup-cache-dialog-title2 = Reinitiar { -brand-short-name } pro rader le cache de initio?
 startup-cache-dialog-body2 = Isto non cambiara tu parametros ni removera extensiones.
 restart-button-label = Reinitiar
 
@@ -312,7 +312,7 @@ can-sandbox-content = Sandbox pro le processo de contento
 can-sandbox-media = Sandbox pro le plugin de media
 content-sandbox-level = Nivello de sandbox del processo de contento
 effective-content-sandbox-level = Nivello de sandbox del contento effective
-content-win32k-lockdown-state = Stato Reclusion de Win32k pro le processo de contento
+content-win32k-lockdown-state = Stato de blocamento de Win32k pro le processo de contento
 sandbox-proc-type-content = contento
 sandbox-proc-type-file = contento del file
 sandbox-proc-type-media-plugin = plugin de media
