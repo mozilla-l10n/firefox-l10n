@@ -43,6 +43,9 @@ appmenu-remote-tabs-tabsnotsyncing = आपल्या इतर उपकर�
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = आपल्या इतर उपकरणांवरील आपले टॅब्स् येथे पाहू इच्छिता?
+appmenu-remote-tabs-connectdevice =
+    .label = अन्य उपकरण जोडा
+appmenu-remote-tabs-unverified = आपले खाते सत्यापित करणे आवश्यक आहे.
 appmenuitem-save-page =
     .label = पृष्ठ असे साठवा…
 
