@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Atopar na páxina…
 appmenuitem-more-tools =
     .label = Máis ferramentas
+appmenuitem-help =
+    .label = Axuda
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,6 +67,12 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Acceda para sincronizar…
 appmenu-remote-tabs-turn-on-sync =
     .label = Activar a sincronización ...
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Amosar todo
+    .tooltiptext = Amosar todas as lapelas deste dispositivo
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Ningunha lapela aberta
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Active a sincronización de lapelas para ver a lista de lapelas dos outros dispositivos.
 # This is shown when Sync is configured but this appears to be the only device attached to
