@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Összes megjelenítése
     .tooltiptext = Összes lap megjelenítése erről a készülékről
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Több lap megjelenítése
+    .tooltiptext = Több lap megjelenítése erről az eszközről
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nincsenek nyitott lapok
 # This is shown when Sync is configured but syncing tabs is disabled.
