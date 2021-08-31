@@ -39,6 +39,10 @@ account-provisioner-button = Ottieni un nuovo indirizzo email
     .accesskey = O
 account-setup-password-toggle =
     .title = Mostra/nascondi password
+account-setup-password-toggle-show =
+    .title = Mostra la password in chiaro
+account-setup-password-toggle-hide =
+    .title = Nascondi password
 account-setup-remember-password = Ricorda password
     .accesskey = w
 account-setup-exchange-label = Le tue credenziali
@@ -206,6 +210,16 @@ insecure-dialog-confirm-button = Conferma
 exchange-dialog-question = { -brand-short-name } ha trovato le informazioni per la configurazione dell’account su { $domain }. Procedere comunque e inviare le tue credenziali?
 exchange-dialog-confirm-button = Accedi
 exchange-dialog-cancel-button = Annulla
+
+## Dismiss account creation dialog
+
+exit-dialog-title = Nessun account email configurato
+account-setup-no-account-checkbox = Utilizza { -brand-short-name } senza un account di posta elettronica
+    .accesskey = a
+exit-dialog-cancel-button = Continua configurazione
+    .accesskey = c
+exit-dialog-confirm-button = Esci dalla configurazione
+    .accesskey = s
 
 ## Alert dialogs
 
