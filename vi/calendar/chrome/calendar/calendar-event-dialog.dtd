@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY event.title.label                  "Chỉnh sửa Mục" >
+<!ENTITY event.title.label                  "Chỉnh sửa mục" >
 
 <!ENTITY event.dialog.keepDurationButton.tooltip   "Giữ thời lượng khi thay đổi ngày kết thúc">
 <!ENTITY event.dialog.keepDurationButton.accesskey "K">
@@ -45,6 +45,8 @@
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
+
+<!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
@@ -85,13 +87,13 @@
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
-<!ENTITY  event.menu.item.saveandclose.label              "Lưu và Đóng">
+<!ENTITY  event.menu.item.saveandclose.label              "Lưu và đóng">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "v">
 <!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
 
 <!ENTITY  event.menu.item.delete.label                    "Xóa…">
 <!ENTITY  event.menu.item.delete.accesskey                "X">
-<!ENTITY  event.menu.item.page.setup.label                "Thiết lập Trang">
+<!ENTITY  event.menu.item.page.setup.label                "Thiết lập trang">
 <!ENTITY  event.menu.item.page.setup.accesskey            "p">
 <!ENTITY  event.menu.item.print.label                     "In">
 <!ENTITY  event.menu.item.print.accesskey                 "I">
@@ -108,23 +110,23 @@
 <!ENTITY  event.menu.edit.copy.accesskey                  "C">
 <!ENTITY  event.menu.edit.paste.label                     "Dán">
 <!ENTITY  event.menu.edit.paste.accesskey                 "D">
-<!ENTITY  event.menu.edit.select.all.label                "Chọn Toàn Bộ">
+<!ENTITY  event.menu.edit.select.all.label                "Chọn toàn bộ">
 <!ENTITY  event.menu.edit.select.all.accesskey            "B">
 
 <!ENTITY  event.menu.view.label                           "Hiển thị">
 <!ENTITY  event.menu.view.accesskey                       "H">
-<!ENTITY  event.menu.view.toolbars.label                  "Thanh Công Cụ">
+<!ENTITY  event.menu.view.toolbars.label                  "Thanh công cụ">
 <!ENTITY  event.menu.view.toolbars.accesskey              "C">
-<!ENTITY  event.menu.view.toolbars.event.label            "Thanh Sự Kiện">
+<!ENTITY  event.menu.view.toolbars.event.label            "Thanh sự kiện">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "S">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Tùy biến…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "y">
-<!ENTITY  event.menu.view.showlink.label                  "Hiển thị Liên kết Liên quan">
+<!ENTITY  event.menu.view.showlink.label                  "Hiển thị liên kết liên quan">
 <!ENTITY  event.menu.view.showlink.accesskey              "H">
 
 <!ENTITY  event.menu.options.label                            "Tùy chọn">
 <!ENTITY  event.menu.options.accesskey                        "y">
-<!ENTITY  event.menu.options.attendees.label                  "Mời khách Tham dự…">
+<!ENTITY  event.menu.options.attendees.label                  "Mời người tham dự…">
 <!ENTITY  event.menu.options.attendees.accesskey              "M">
 <!ENTITY  event.menu.options.timezone2.label                  "Hiển thị múi giờ">
 <!ENTITY  event.menu.options.timezone2.accesskey              "z">
@@ -140,11 +142,11 @@
 <!ENTITY  event.menu.options.priority.high.accesskey          "C">
 <!ENTITY  event.menu.options.privacy.label                    "Riêng tư">
 <!ENTITY  event.menu.options.privacy.accesskey                "R">
-<!ENTITY  event.menu.options.privacy.public.label             "Sự kiện Công khai">
+<!ENTITY  event.menu.options.privacy.public.label             "Sự kiện công khai">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "S">
-<!ENTITY  event.menu.options.privacy.confidential.label       "Chỉ hiện Ngày và Giờ">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Chỉ hiện ngày và giờ">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "N">
-<!ENTITY  event.menu.options.privacy.private.label            "Sự kiện Cá nhân">
+<!ENTITY  event.menu.options.privacy.private.label            "Sự kiện riêng tư">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "C">
 <!ENTITY  event.menu.options.show.time.label                  "Hiện tình trạng lịch trình là">
 <!ENTITY  event.menu.options.show.time.accesskey              "t">
@@ -153,9 +155,9 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Rảnh">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "F">
 
-<!ENTITY event.invite.attendees.label                     "Mời khách Tham dự…">
+<!ENTITY event.invite.attendees.label                     "Mời người tham dự…">
 <!ENTITY event.invite.attendees.accesskey                 "M">
-<!ENTITY event.email.attendees.label                      "Gửi Email cho Tất cả Khách tham dự…">
+<!ENTITY event.email.attendees.label                      "Soạn E-Mail cho tất cả người tham dự…">
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Gửi Email cho các Khách tham dự Chưa quyết định…">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
