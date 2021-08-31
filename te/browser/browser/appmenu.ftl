@@ -55,8 +55,24 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ఇప్పుడు సింక్ చేయి
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = అన్నీ చూపించు
+    .tooltiptext = ఈ పరికరం నుండి అన్ని ట్యాబులను చూపించు
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = మరిన్ని ట్యాబులను చూపించు
+    .tooltiptext = ఈ పరికరం నుండి మరిన్ని ట్యాబులను చూపించు
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = తెరిచివున్న ట్యాబులు లేవు
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = మీ ఇతర పరికరాల లోని ట్యాబుల జాబితాను చూడడానికి ట్యాబ్ సింక్ ను ప్రారంభించండి.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = ఇతర పరికరాలలో తెరిచివున్న మీ ట్యాబులను ఇక్కడ చూడాలనుకుంటున్నారా?
+appmenu-remote-tabs-connectdevice =
+    .label = మరొక పరికరాన్ని అనుసంధానించండి
+appmenu-remote-tabs-unverified = మీ ఖాతాను తనిఖీ చెయ్యాలి.
 appmenuitem-fxa-manage-account = ఖాతా నిర్వహణ
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-show-more-tabs = మరిన్ని ట్యాబులను చూపించు
