@@ -32,6 +32,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = സമന്വയിപ്പിക്കുക
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = എല്ലാം കാണിയ്ക്കുക
+    .tooltiptext = ഈ ഡിവൈസിലെ എല്ലാ ടാബ്‌കളും പ്രദർശിപ്പിക്കുക
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ടാബൊന്നും തുറന്നിരിക്കുന്നില്ല
 # This is shown when Sync is configured but syncing tabs is disabled.
