@@ -50,10 +50,10 @@ perftools-devtools-settings-label = Parametros
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
 perftools-status-private-browsing-notice =
-    Le profilator es disactivate quando Navigation anonyme es activate.
-    Claude tote le Fenestras anonyme pro re-activar le profilator
-perftools-status-recording-stopped-by-another-tool = Le registration ha essite cessate per un altere instrumento.
-perftools-status-restart-required = Le navigator debe esser re-initiate pro activar iste functionalitate.
+    Le profilator es disactivate quando le navigation private es active.
+    Claude tote le fenestras private pro reactivar le profilator.
+perftools-status-recording-stopped-by-another-tool = Le registration ha essite interrumpite per un altere instrumento.
+perftools-status-restart-required = Le navigator debe esser reinitiate pro activar iste function.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
@@ -68,7 +68,7 @@ perftools-button-cancel-recording = Cancellar registration
 perftools-button-save-settings = Salvar parametros e retornar
 perftools-button-restart = Reinitiar
 perftools-button-add-directory = Adder un directorio
-perftools-button-remove-directory = Remover le seligites
+perftools-button-remove-directory = Remover le selection
 perftools-button-edit-settings = Modificar parametros...
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
