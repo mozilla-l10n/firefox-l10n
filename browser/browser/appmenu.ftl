@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Temukan di Halaman…
 appmenuitem-more-tools =
     .label = Alat Lainnya
+appmenuitem-help =
+    .label = Bantuan
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,6 +67,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Masuk ke Sinkronisasi…
 appmenu-remote-tabs-turn-on-sync =
     .label = Aktifkan Sinkronisasi…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Tampilkan Semua
+    .tooltiptext = Tampilkan semua tab dari perangkat ini
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Aktifkan sinkronisasi tab untuk melihat daftar tab dari perangkat Anda lainnya.
 # This is shown when Sync is configured but this appears to be the only device attached to
