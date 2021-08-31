@@ -8,4 +8,6 @@
 
 ## Forget Button
 
+# The forget button can be added to the toolbar or overflow menu via the cutomization menu.
+panic-button-thankyou-msg1 = మీ ఇటీవలి చరిత్ర తుడిచివేయబడింది.
 panic-button-thankyou-msg2 = సురక్షిత విహారణ!
