@@ -78,6 +78,8 @@ appmenu-remote-tabs-tabsnotsyncing = Activeu la sincronització de pestanyes per
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Voleu veure aquí les pestanyes d'altres dispositius?
+appmenu-remote-tabs-connectdevice =
+    .label = Connecta un altre dispositiu
 appmenu-remote-tabs-welcome = Vegeu una llista de les pestanyes que teniu obertes en altres dispositius.
 appmenu-remote-tabs-unverified = Cal que verifiqueu el compte.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronitza ara
