@@ -34,7 +34,7 @@ about-config-pref-delete-button =
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
-about-config-pref-add-type-boolean = Luận lí
+about-config-pref-add-type-boolean = Logic
 about-config-pref-add-type-number = Số
 about-config-pref-add-type-string = Chuỗi
 
