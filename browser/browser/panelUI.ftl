@@ -5,9 +5,16 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Eltávolítás a túlcsorduló menüből
+    .accesskey = E
 customize-menu-add-to-toolbar =
     .label = Hozzáadás az eszköztárhoz
     .accesskey = H
+customize-menu-add-to-overflowmenu =
+    .label = Hozzáadás a túlcsorduló menühöz
+    .accesskey = M
 
 ## Forget Button
 
