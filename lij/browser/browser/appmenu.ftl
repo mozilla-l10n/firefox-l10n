@@ -45,6 +45,7 @@ appmenu-remote-tabs-tabsnotsyncing = Ativâ a scincronizaçion di feuggi pe vedd
 appmenu-remote-tabs-noclients = T'eu amiâ chi i teu feuggi da atri dipoxitivi?
 appmenu-remote-tabs-connectdevice =
     .label = Conetti 'n atro dispoxitivo
+appmenu-remote-tabs-unverified = O teu conto o deve ese verificou.
 appmenuitem-save-page =
     .label = Sarva pagina co-o nomme…
 
