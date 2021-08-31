@@ -73,8 +73,15 @@ appmenu-remote-tabs-showall =
     .tooltiptext = Prikaži sve kartice s ovoga uređaja
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nema otvorenih kartica
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Uključi sinkronizaciju kartica za prikaz kartica s tvojih ostalih uređaja.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Želiš li ovdje vidjeti tvoje kartice s drugih uređaja?
 appmenu-remote-tabs-connectdevice =
     .label = Poveži dodatni uređaj
+appmenu-remote-tabs-welcome = Pogledaj popis kartica s tvojih ostalih uređaja.
+appmenu-remote-tabs-unverified = Tvoj račun mora biti potvrđen.
 appmenuitem-fxa-toolbar-sync-now2 = Sinkroniziraj sada
 appmenuitem-fxa-manage-account = Upravljaj računom
 appmenu-fxa-header2 = { -fxaccount-brand-name }
