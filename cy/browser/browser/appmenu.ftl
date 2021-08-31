@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Canfod ar Dudalen…
 appmenuitem-more-tools =
     .label = Rhagor o Offer
+appmenuitem-help =
+    .label = Cymorth
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
