@@ -69,6 +69,9 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-notabs = Ingen åpne faner
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Skru på fane-synkronisering for å se en liste over faner fra de andre enhetene dine.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Vil du se faner fra de andre enhetene dine her?
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser nå
 appmenuitem-fxa-manage-account = Behandle konto
 appmenu-fxa-header2 = { -fxaccount-brand-name }
