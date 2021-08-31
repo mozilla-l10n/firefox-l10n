@@ -73,6 +73,8 @@ appmenu-remote-tabs-showall =
     .tooltiptext = Prikaži sve kartice s ovoga uređaja
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nema otvorenih kartica
+appmenu-remote-tabs-connectdevice =
+    .label = Poveži dodatni uređaj
 appmenuitem-fxa-toolbar-sync-now2 = Sinkroniziraj sada
 appmenuitem-fxa-manage-account = Upravljaj računom
 appmenu-fxa-header2 = { -fxaccount-brand-name }
