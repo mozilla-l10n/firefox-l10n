@@ -192,36 +192,6 @@ remote-debugging-url = Adresse URL
 
 ##
 
-support-third-party-modules-title = Modulos de tertios
-support-third-party-modules-module = File del modulo
-support-third-party-modules-version = Version de file
-support-third-party-modules-vendor = Info del venditor
-support-third-party-modules-occurrence = Occurrentia
-support-third-party-modules-process = Typo e ID del processo
-support-third-party-modules-thread = Argumento
-support-third-party-modules-base = Adresse imagebase
-support-third-party-modules-uptime = Tempore de activitate del processo (ms)
-support-third-party-modules-duration = Duration del cargamento (ms)
-support-third-party-modules-status = Stato
-support-third-party-modules-status-loaded = Cargate
-support-third-party-modules-status-blocked = Blocate
-support-third-party-modules-status-redirected = Re-dirigite
-support-third-party-modules-empty = Nulle modulo de tertios ha essite cargate.
-support-third-party-modules-no-value = (Sin valor)
-support-third-party-modules-button-open =
-    .title = Aperir position del file…
-support-third-party-modules-expand =
-    .title = Monstrar informationes detaliate
-support-third-party-modules-collapse =
-    .title = Collaber informationes detaliate
-support-third-party-modules-unsigned-icon =
-    .title = Iste modulo non es signate
-support-third-party-modules-folder-icon =
-    .title = Aperir position del file…
-support-third-party-modules-down-icon =
-    .title = Monstrar informationes detaliate
-support-third-party-modules-up-icon =
-    .title = Collaber informationes detaliate
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -418,7 +388,7 @@ support-printing-prefs-value = Valor
 support-remote-experiments-title = Experimentos remote
 support-remote-experiments-name = Nomine
 support-remote-experiments-branch = Ramo experimental
-support-remote-experiments-see-about-studies = Vider <a data-l10n-name="support-about-studies-link">about:studies</a> pro altere informationes, includite como disactivar experimentos individual o impedir a { -brand-short-name } de exequer iste typo de experimento in le futuro.
+support-remote-experiments-see-about-studies = Vide <a data-l10n-name="support-about-studies-link">about:studies</a> pro plus informationes, p.ex. como disactivar experimentos individual o impedir a { -brand-short-name } de exequer iste typo de experimento in le futuro.
 support-remote-features-title = Functiones remote
 support-remote-features-name = Nomine
 support-remote-features-status = Stato
