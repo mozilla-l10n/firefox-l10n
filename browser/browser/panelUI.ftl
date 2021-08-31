@@ -5,9 +5,16 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Fjern fra overflytsmenyen
+    .accesskey = e
 customize-menu-add-to-toolbar =
     .label = Legg til i verktøylinje
     .accesskey = L
+customize-menu-add-to-overflowmenu =
+    .label = Legg til i overflytsmenyen
+    .accesskey = m
 
 ## Forget Button
 
