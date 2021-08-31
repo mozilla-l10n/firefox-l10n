@@ -26,7 +26,11 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sync Sekarang
-
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Tiada tab terbuka
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Mahu melihat tab anda daripada peranti lain di sini?
 appmenuitem-save-page =
     .label = Simpan Halaman Sebagai…
 
@@ -79,4 +83,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Pengurus Tugasan
-
