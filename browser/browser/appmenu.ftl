@@ -71,8 +71,21 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Rodyti visas
     .tooltiptext = Rodyti visas korteles iš šio įrenginio
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Rodyti daugiau kortelių
+    .tooltiptext = Rodyti daugiau kortelių iš šio įrenginio
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Nėra atvirų kortelių
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Įjunkite kortelių sinchronizavimą, norėdami peržiūrėti kituose įrenginiuose esančias korteles.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Norite čia matyti savo korteles iš kitų įrenginių?
+appmenu-remote-tabs-connectdevice =
+    .label = Susieti kitą įrenginį
+appmenu-remote-tabs-welcome = Peržiūrėkite kituose įrenginiuose esančias korteles.
+appmenu-remote-tabs-unverified = Jūsų paskyra turi būti patvirtinta.
 appmenuitem-fxa-toolbar-sync-now2 = Sinchronizuoti dabar
 appmenuitem-fxa-manage-account = Tvarkyti paskyrą
 appmenu-fxa-header2 = „{ -fxaccount-brand-name }“ paskyra
