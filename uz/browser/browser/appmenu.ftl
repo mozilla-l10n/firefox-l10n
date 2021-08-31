@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = Yangi oyna
 appmenuitem-new-private-window =
     .label = Yangi maxfiy oyna
+appmenuitem-help =
+    .label = Yordam
 
 ## Zoom and Fullscreen Controls
 
@@ -23,7 +25,6 @@ appmenuitem-zoom-enlarge =
     .label = Kattalashtirish
 appmenuitem-zoom-reduce =
     .label = Kichiklashtirish
-
 appmenuitem-fullscreen =
     .label = Butun ekran
 
@@ -31,7 +32,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinxronlash
-
 appmenuitem-save-page =
     .label = Sahifani saqlash…
 
@@ -85,4 +85,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Vazifa menejeri
-
