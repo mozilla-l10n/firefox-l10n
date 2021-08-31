@@ -70,6 +70,7 @@ appmenu-remote-tabs-tabsnotsyncing = Միացրեք ներդիրների համ�
 appmenu-remote-tabs-noclients = Ցանկանու՞մ եք տեսնել ձեր այլ սարքերի ներդիրները:
 appmenu-remote-tabs-connectdevice =
     .label = Կապակցվել այլ սարքի
+appmenu-remote-tabs-welcome = Դիտել ձեր մյուս սարքերի ներդիրների ցուցակը:
 appmenu-remote-tabs-unverified = Ձեր հաշիվը պետք է ստուգվի:
 appmenuitem-fxa-toolbar-sync-now2 = Համաժամեցնել
 appmenuitem-fxa-manage-account = Կառավարել հաշիվը
