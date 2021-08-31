@@ -5,9 +5,16 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Dadbinio o'r Ddewislen Ychwanegol
+    .accesskey = D
 customize-menu-add-to-toolbar =
     .label = Ychwanegu i'r Bar Offer
     .accesskey = Y
+customize-menu-add-to-overflowmenu =
+    .label = Ychwanegu at y Ddewislen Ychwanegol
+    .accesskey = D
 
 ## Forget Button
 
