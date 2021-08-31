@@ -4,7 +4,6 @@
 
 refresh-profile-dialog =
     .title = { -brand-short-name } жаңғырту
-
 refresh-profile-dialog-button =
     .label = { -brand-short-name } жаңғырту
 refresh-profile-description = Мәселелерді шешу және өнімділікті қалпына келтіру үшін жаңадан бастау.
@@ -13,3 +12,4 @@ refresh-profile-remove = Кеңейтулер және баптаулар өші
 refresh-profile-restore = Браузер баптаулары бастапқы мәндеріне тасталады
 refresh-profile = { -brand-short-name } үдетіп жіберу
 refresh-profile-button = { -brand-short-name } жұмысын жаңғырту…
+refresh-profile-learn-more = Көбірек білу

@@ -159,6 +159,7 @@ language-name-ru = Орыс
 language-name-rw = Киньяруанда
 language-name-sa = Санскрит
 language-name-sc = Сардин
+language-name-sco = Шотланд
 language-name-sd = Синдхи
 language-name-se = Солтүстік Сами
 language-name-sg = Санго

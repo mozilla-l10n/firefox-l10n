@@ -20,6 +20,7 @@ about-networking-active = Белсенді
 about-networking-idle = Іссіз
 about-networking-host = Хост
 about-networking-tcp = TCP
+about-networking-type = Түрі
 about-networking-sent = Жіберілген
 about-networking-received = Алынған
 about-networking-family = Отбасы

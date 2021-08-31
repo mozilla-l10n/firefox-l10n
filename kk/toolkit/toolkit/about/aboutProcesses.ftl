@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Үрдістер басқарушысы
-
 # The Actions column
 about-processes-column-action =
     .title = Әрекеттер
@@ -25,17 +24,25 @@ about-processes-column-cpu-total = Процессор
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
 
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Ортақ веб-процессі ({ $pid })
+about-processes-file-process = Файлдар ({ $pid })
+about-processes-extension-process = Кеңейтулер ({ $pid })
+about-processes-privilegedabout-process = About беттері ({ $pid })
+about-processes-plugin-process = Плагиндер ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name } сайттары ({ $pid })
+about-processes-gmp-plugin-process = Gecko медиа плагиндері ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Деректер декодтаушы ({ $pid })
+about-processes-socket-process = Желі ({ $pid })
 
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
+
 
 ## Details within processes
 
@@ -44,12 +51,10 @@ about-processes-column-cpu-total = Процессор
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Бет: { $name }
 about-processes-preloaded-tab = Алдын-ала жүктелген жаңа бет
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Ішкі фрейм: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
