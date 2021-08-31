@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Найти на странице…
 appmenuitem-more-tools =
     .label = Другие инструменты
+appmenuitem-help =
+    .label = Справка
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -69,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Показать все
     .tooltiptext = Показать все вкладки с этого устройства
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Показать больше вкладок
+    .tooltiptext = Показать больше вкладок с этого устройства
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Нет открытых вкладок
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -78,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Включите синхронизацию
 appmenu-remote-tabs-noclients = Хотите увидеть здесь ваши вкладки с других устройств?
 appmenu-remote-tabs-connectdevice =
     .label = Подключить другое устройство
+appmenu-remote-tabs-welcome = Просмотрите список вкладок с других устройств.
 appmenu-remote-tabs-unverified = Ваш аккаунт должен быть подтверждён.
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизировать
 appmenuitem-fxa-manage-account = Управление аккаунтом
