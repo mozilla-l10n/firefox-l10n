@@ -14,6 +14,8 @@ appmenuitem-new-window =
     .label = Loo gib kuub
 appmenuitem-new-private-window =
     .label = Loo gib kuub chan taa luu
+appmenuitem-help =
+    .label = M-ta thib yá
 
 ## Zoom and Fullscreen Controls
 
@@ -21,7 +23,6 @@ appmenuitem-zoom-enlarge =
     .label = Let Zoom
 appmenuitem-zoom-reduce =
     .label = Xis Zoom
-
 appmenuitem-fullscreen =
     .label = Loo maach
 
@@ -29,7 +30,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ahora
-
 appmenuitem-save-page =
     .label = Loo xhog kue
 
@@ -52,9 +52,6 @@ appmenu-about =
 appmenu-help-feedback-page =
     .label = Taal diif dizh
     .accesskey = h
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
