@@ -65,6 +65,20 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Войти в Синхронизацию…
 appmenu-remote-tabs-turn-on-sync =
     .label = Включить синхронизацию…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Показать все
+    .tooltiptext = Показать все вкладки с этого устройства
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Нет открытых вкладок
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Включите синхронизацию вкладок, чтобы увидеть список вкладок с других устройств.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Хотите увидеть здесь ваши вкладки с других устройств?
+appmenu-remote-tabs-connectdevice =
+    .label = Подключить другое устройство
+appmenu-remote-tabs-unverified = Ваш аккаунт должен быть подтверждён.
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизировать
 appmenuitem-fxa-manage-account = Управление аккаунтом
 appmenu-fxa-header2 = { -fxaccount-brand-name }
