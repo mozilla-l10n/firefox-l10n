@@ -78,6 +78,9 @@ appmenu-remote-tabs-tabsnotsyncing = Bật đồng bộ thẻ để xem danh sá
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Muốn xem thẻ từ các thiết bị khác của bạn ở đây?
+appmenu-remote-tabs-connectdevice =
+    .label = Kết nối thiết bị khác
+appmenu-remote-tabs-unverified = Tài khoản của bạn cần phải xác thực.
 appmenuitem-fxa-toolbar-sync-now2 = Đồng bộ ngay
 appmenuitem-fxa-manage-account = Quản lý tài khoản
 appmenu-fxa-header2 = { -fxaccount-brand-name }
