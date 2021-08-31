@@ -71,10 +71,20 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Mostrar tudo
     .tooltiptext = Mostrar todas as abas deste dispositivo
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Mostrar mais abas
+    .tooltiptext = Mostrar mais abas deste dispositivo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nenhuma aba aberta
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Ative a sincronização de abas para ver uma lista de abas de seus outros dispositivos.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Quer ver aqui suas abas de outros dispositivos?
 appmenu-remote-tabs-connectdevice =
     .label = Conectar outro dispositivo
+appmenu-remote-tabs-welcome = Veja uma lista de abas de seus outros dispositivos.
 appmenu-remote-tabs-unverified = Sua conta precisa ser verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-manage-account = Gerenciar conta
