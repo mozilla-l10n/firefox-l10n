@@ -11,7 +11,6 @@ appmenuitem-update-banner3 =
     .label-update-manual = Actualización disponible — bajar ahora
     .label-update-unsupported = No se pudo actualizar — sistema incompatible
     .label-update-restart = Actualización disponible — reiniciar ahora
-
 appmenuitem-protection-dashboard-title = Panel de protecciones
 appmenuitem-customize-mode =
     .label = Personalizar…
@@ -44,7 +43,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Cerrar menú de la aplicación
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,7 +54,6 @@ appmenuitem-zoom-enlarge =
     .label = Acercar
 appmenuitem-zoom-reduce =
     .label = Alejar
-
 appmenuitem-fullscreen =
     .label = Pantalla completa
 
@@ -64,12 +61,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ahora
-
 appmenu-remote-tabs-sign-into-sync =
     .label = Conectarse para sincronizar…
 appmenu-remote-tabs-turn-on-sync =
     .label = Activar la sincronización…
-
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = No hay pestañas abiertas
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ahora
 appmenuitem-fxa-manage-account = Administrar cuenta
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -83,14 +80,12 @@ appmenu-fxa-signed-in-label = Conectarse
 appmenu-fxa-setup-sync =
     .label = Activar la sincronización…
 appmenu-fxa-show-more-tabs = Mostrar más pestañas
-
 appmenuitem-save-page =
     .label = Guardar página como…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Qué hay de nuevo
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -103,47 +98,33 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Revelar más información
-
 profiler-popup-description-title =
     .value = Grabar, analizar, compartir
-
 profiler-popup-description = Colabora en problemas de rendimiento publicando perfiles para compartir con tu equipo.
-
 profiler-popup-learn-more = Aprender más
-
 profiler-popup-settings =
     .value = Ajustes
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editar ajustes…
-
 profiler-popup-disabled = El perfilador está actualmente deshabilitado, probablemente debido a una ventana de navegación privada que se encuentra abierta.
-
 profiler-popup-recording-screen = Grabando…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Personalizado
-
 profiler-popup-start-recording-button =
     .label = Guardar grabación
-
 profiler-popup-discard-button =
     .label = Descartar
-
 profiler-popup-capture-button =
     .label = Capturar
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -156,7 +137,6 @@ appmenu-manage-history =
     .label = Gestionar historial
 appmenu-reopen-all-tabs = Reabrir todas las pestañas
 appmenu-reopen-all-windows = Reabrir todas las ventanas
-
 appmenu-restore-session =
     .label = Restaurar sesión anterior
 appmenu-clear-history =
@@ -212,7 +192,6 @@ appmenu-customizetoolbar =
     .label = Personalizar barra de herramientas…
 appmenu-taskmanager =
     .label = Administrador de tareas
-
 appmenu-developer-tools-subheader = Herramientas del navegador
 appmenu-developer-tools-extensions =
     .label = Extensiones para desarrolladores
