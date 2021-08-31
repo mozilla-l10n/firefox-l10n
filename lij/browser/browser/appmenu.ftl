@@ -23,7 +23,6 @@ appmenuitem-zoom-enlarge =
     .label = Aomenta zoom
 appmenuitem-zoom-reduce =
     .label = Riduci zoom
-
 appmenuitem-fullscreen =
     .label = A tutto schermo
 
@@ -31,7 +30,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Scincronizza òua
-
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Nisciun feuggio averto
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Ativâ a scincronizaçion di feuggi pe vedde i feuggi averti inti atri dispoxitivi.
 appmenuitem-save-page =
     .label = Sarva pagina co-o nomme…
 
@@ -85,4 +87,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Gestion ativitæ
-
