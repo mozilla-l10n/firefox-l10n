@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = 在頁面中搜尋…
 appmenuitem-more-tools =
     .label = 更多工具
+appmenuitem-help =
+    .label = 說明
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,6 +67,14 @@ appmenu-remote-tabs-sign-into-sync =
     .label = 登入進行同步…
 appmenu-remote-tabs-turn-on-sync =
     .label = 開啟同步…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = 全部顯示
+    .tooltiptext = 顯示來自此裝置的所有分頁
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = 顯示更多分頁
+    .tooltiptext = 顯示來自此裝置的更多分頁
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = 無已開啟的分頁
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -72,6 +82,10 @@ appmenu-remote-tabs-tabsnotsyncing = 開啟分頁同步功能以檢視您其他�
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = 想在這裡看到您其他裝置上開啟的分頁嗎？
+appmenu-remote-tabs-connectdevice =
+    .label = 連結其他裝置
+appmenu-remote-tabs-welcome = 檢視您其他裝置中的分頁清單。
+appmenu-remote-tabs-unverified = 需要驗證您的帳號。
 appmenuitem-fxa-toolbar-sync-now2 = 立刻同步
 appmenuitem-fxa-manage-account = 管理帳號
 appmenu-fxa-header2 = { -fxaccount-brand-name }
