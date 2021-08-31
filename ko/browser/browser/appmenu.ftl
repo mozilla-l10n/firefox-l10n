@@ -73,9 +73,14 @@ appmenu-remote-tabs-showall =
     .tooltiptext = 이 기기의 탭 모두 보기
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = 열린 탭이 없음
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = 다른 기기의 탭 목록을 보려면 탭 동기화를 켜세요.
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = 다른 기기에서도 여기에서 열린 탭을 사용하시겠습니까?
+appmenu-remote-tabs-connectdevice =
+    .label = 다른 기기 연결
+appmenu-remote-tabs-welcome = 다른 기기의 탭 목록을 봅니다.
 appmenu-remote-tabs-unverified = 계정 확인이 필요합니다.
 appmenuitem-fxa-toolbar-sync-now2 = 지금 동기화
 appmenuitem-fxa-manage-account = 계정 관리
