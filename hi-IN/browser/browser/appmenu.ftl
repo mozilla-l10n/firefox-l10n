@@ -68,6 +68,8 @@ appmenu-remote-tabs-tabsnotsyncing = टैब्स की सूची दे�
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?
+appmenu-remote-tabs-connectdevice =
+    .label = अन्य उपकरण जोड़ें
 appmenuitem-fxa-toolbar-sync-now2 = अभी सिंक करें
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = साइन इन
