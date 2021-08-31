@@ -75,11 +75,17 @@ appmenu-remote-tabs-showall =
 appmenu-remote-tabs-showmore =
     .label = Monstrar plus schedas
     .tooltiptext = Monstrar plus schedas de iste apparato
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Nulle schedas aperte
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Activa le synchronisation de schedas pro vider un lista de schedas de tu altere apparatos.
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Desira tu vider le schedas de altere apparatos hic?
+appmenu-remote-tabs-connectdevice =
+    .label = Connecter un altere apparato
+appmenu-remote-tabs-welcome = Vider un lista de schedas de tu altere apparatos.
+appmenu-remote-tabs-unverified = Il necesse verificar tu conto.
 appmenuitem-fxa-toolbar-sync-now2 = Synchronisar ora
 appmenuitem-fxa-manage-account = Gerer conto
 appmenu-fxa-header2 = { -fxaccount-brand-name }
