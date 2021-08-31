@@ -17,3 +17,19 @@ calendar-delete-task-prompt-title =
         [one] Ta bort uppgift
        *[other] Ta bort uppgifter
     }
+calendar-delete-task-prompt-message =
+    { $count ->
+        [one] Är du säker på att du vill ta bort denna uppgift?
+       *[other] Är du säker på att du vill ta bort dessa { $count } uppgifter?
+    }
+calendar-delete-item-prompt-title =
+    { $count ->
+        [one] Ta bort objekt
+       *[other] Ta bort objekt
+    }
+calendar-delete-item-prompt-message =
+    { $count ->
+        [one] Är du säker på att du vill ta bort detta objekt?
+       *[other] Är du säker på att du vill ta bort dessa { $count } objekt?
+    }
+calendar-delete-prompt-disable-message = Fråga mig inte igen.
