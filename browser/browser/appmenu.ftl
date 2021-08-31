@@ -78,7 +78,10 @@ appmenu-remote-tabs-tabsnotsyncing = Ŝaltu la dividon de langetoj por vidi list
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?
+appmenu-remote-tabs-connectdevice =
+    .label = Konekti alian aparaton
 appmenu-remote-tabs-welcome = Vidi liston de langetoj en viaj aliaj aparatoj.
+appmenu-remote-tabs-unverified = Via konto bezonas esti kontrolita.
 appmenuitem-fxa-toolbar-sync-now2 = Speguli nun
 appmenuitem-fxa-manage-account = Administri konton
 appmenu-fxa-header2 = { -fxaccount-brand-name }
