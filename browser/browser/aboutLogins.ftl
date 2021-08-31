@@ -67,6 +67,9 @@ about-logins-list-item-breach-icon =
     .title = Шабуылданған сайт
 about-logins-list-item-vulnerable-password-icon =
     .title = Осал пароль
+about-logins-list-section-today = Бүгін
+about-logins-list-section-yesterday = Кеше
+about-logins-list-section-week = Соңғы 7 күн
 
 ## Introduction screen
 

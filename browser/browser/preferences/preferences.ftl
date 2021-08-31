@@ -66,6 +66,7 @@ category-experimental =
     .tooltiptext = { -brand-short-name } Тәжірибелері
 pane-experimental-subtitle = Абайлап жалғастырыңыз
 pane-experimental-search-results-header = { -brand-short-name } тәжірибелері: Абайлап жалғастырыңыз
+pane-experimental-description2 = Кеңейтілген баптауларды өзгерту { -brand-short-name } өнімділік немесе қауіпсіздігіне әсерін тигізуі мүмкін.
 pane-experimental-reset =
     .label = Бастапқы мәндерін қайтару
     .accesskey = р
@@ -178,6 +179,9 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = Сілтеме жаңа бетте ашылған кезде ол бетке ауысу
     .accesskey = ы
+switch-to-new-tabs =
+    .label = Сілтеме, сурет немесе мультимеди жаңа бетте ашылған кезде ол бетке ауысу
+    .accesskey = ы
 show-tabs-in-taskbar =
     .label = Windows тапсырмалар панелінде беттер көріністерін көрсету
     .accesskey = п
@@ -248,6 +252,7 @@ confirm-browser-language-change-button = Іске асыру және қайта
 translate-web-pages =
     .label = Веб құрамасын аудару
     .accesskey = а
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Аударманы ұсынған <img data-l10n-name="logo"/>
@@ -383,6 +388,9 @@ update-application-check-choose =
 update-application-manual =
     .label = Жаңартуларды тексермеу (ұсынылмайды)
     .accesskey = р
+update-application-background-enabled =
+    .label = { -brand-short-name } орындалмайтын кезінде
+    .accesskey = р
 update-application-warning-cross-user-setting = Бұл баптау бұл { -brand-short-name } орнатуын қолдатын барлық Windows тіркелгілері және { -brand-short-name } профильдері үшін іске асады.
 update-application-use-service =
     .label = Жаңартуларды орнату үшін фон қызметін қолдану
@@ -393,6 +401,15 @@ update-setting-write-failure-title = Жаңарту баптауларын са�
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
+    { -brand-short-name } қатеге тап болып, бұл өзгерісті сақтамады. Бұл жаңарту баптауын өзгерту төмендегі файлға жазу құқығын талап ететінің ескеріңіз. Сіз немесе жүйелік әкімші бұл мәселені Пайдаланушылар тобына бұл файлға толық қатынау құқығын беру арқылы шеше алады.
+    
+    Файлға жазу қатесі: { $path }
+update-setting-write-failure-title2 = Жаңарту баптауларын сақтау қатемен аяқталды
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
     { -brand-short-name } қатеге тап болып, бұл өзгерісті сақтамады. Бұл жаңарту баптауын өзгерту төмендегі файлға жазу құқығын талап ететінің ескеріңіз. Сіз немесе жүйелік әкімші бұл мәселені Пайдаланушылар тобына бұл файлға толық қатынау құқығын беру арқылы шеше алады.
     
     Файлға жазу қатесі: { $path }
@@ -593,6 +610,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Іздеу жүйелерінің ұсыныстарын жекелік терезелерінде көрсету
 suggestions-addressbar-settings-generic = Адрестік жолақ үшін басқа ұсыныстар баптауларын өзгерту
+suggestions-addressbar-settings-generic2 = Басқа адрестік жолақ ұсыныстарының баптауларын өзгерту
 search-suggestions-cant-show = Орналасу жолағынан іздеу нәтижелерінде іздеу ұсыныстары көрсетілмейді, өйткені сіз { -brand-short-name } өнімін тарихты есте сақтамайтындай етіп баптадыңыз.
 search-one-click-header = Бірлік шертумен іздеу қызметтері
 search-one-click-header2 = Жарлықтардан іздеу
@@ -652,6 +670,9 @@ sync-signedout-account-signin2 =
     .label = { -sync-brand-short-name } ішіне кіру…
     .accesskey = у
 sync-signedout-description2 = Бетбелгілер, шолу тарихы, беттер, парольдер, қосымшалар және баптауларды барлық құрылғыларыңыз арасында синхрондаңыз.
+sync-signedout-account-signin3 =
+    .label = Синхрондау ішіне кіру…
+    .accesskey = и
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -691,6 +712,10 @@ prefs-sync-setup =
     .label = { -sync-brand-short-name } баптау…
     .accesskey = п
 prefs-sync-offer-setup-label = Өзіңіздің бетбелгілер, тарих, беттер, парольдер және қосымшаларыңызды барлық құрылғыларыңыз арасында синхрондаңыз.
+prefs-sync-turn-on-syncing =
+    .label = Синхрондауды іске қосу…
+    .accesskey = С
+prefs-sync-offer-setup-label2 = Бетбелгілер, шолу тарихы, беттер, парольдер, қосымшалар және баптауларды барлық құрылғыларыңыз арасында синхрондаңыз.
 prefs-sync-now =
     .labelnotsyncing = Қазір синхрондау
     .accesskeynotsyncing = н
@@ -759,6 +784,10 @@ sync-engine-prefs =
         }
     .tooltiptext = Сіз өзгерткен негізгі, жекелік және қауіпсіздік баптаулары
     .accesskey = а
+sync-engine-settings =
+    .label = Баптаулар
+    .tooltiptext = Сіз өзгерткен Жалпы, Жекелік және Қауіпсіздік баптаулары
+    .accesskey = п
 
 ## The device name controls.
 
@@ -827,6 +856,8 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = Бұрын мастер пароль ретінде белгілі болған
 forms-primary-pw-fips-title = Сіз FIPS-ке сәйкестеу режимінде жұмыс істеп отырсыз. Бұл режим бос емес басты парольді талап етеді.
 forms-master-pw-fips-desc = Парольді өзгерту сәтсіз аяқталды
+forms-windows-sso =
+    .label = Microsoft, жұмыс және мектеп есептік жазбаларына Windows дара кіруін рұқсат ету
 forms-windows-sso-learn-more-link = Көбірек білу
 
 ## OS Authentication dialog
