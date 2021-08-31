@@ -14,6 +14,8 @@ appmenuitem-new-window =
     .label = Nova finestra
 appmenuitem-new-private-window =
     .label = Nova finestra privata
+appmenuitem-help =
+    .label = Ajutu
 
 ## Zoom and Fullscreen Controls
 
@@ -21,7 +23,6 @@ appmenuitem-zoom-enlarge =
     .label = Cchiù granni
 appmenuitem-zoom-reduce =
     .label = Cchiù nicu
-
 appmenuitem-fullscreen =
     .label = Tuttu schirmu
 
@@ -29,7 +30,21 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincrunizza ora
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Mustra tuttu
+    .tooltiptext = Mustra tutti i schedi di stu dispusitivu
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Nuḍḍa scheda raputa
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Attiva a sincrunizzazziuni dî schedi pi vìdiri na lista dî schedi di l'autri dispusitivi toi.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Vo' vìdiri cca i to schedi di l'autri dispusitivi?
+appmenu-remote-tabs-connectdevice =
+    .label = Cunnetti n'autru dispusitivu
+appmenu-remote-tabs-welcome = Vidi na lista dî schedi di l'autri dispusitivi toi.
+appmenu-remote-tabs-unverified = U to cuntu àvi a èssiri virificatu.
 appmenuitem-save-page =
     .label = Sarba pàggina comu…
 
@@ -54,9 +69,6 @@ appmenu-help-feedback-page =
     .label = Manna riscontru…
     .accesskey = r
 
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -75,4 +87,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Gisturi attività
-
