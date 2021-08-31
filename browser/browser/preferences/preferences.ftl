@@ -254,6 +254,7 @@ confirm-browser-language-change-button = ਲਾਗੂ ਕਰਕੇ ਮੁੜ ਚ
 translate-web-pages =
     .label = ਵੈੱਬ ਸਮੱਗਰੀ ਦਾ ਉਲੱਥਾ ਕਰੋ
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = ਉਲੱਥਾ ਕੀਤਾ <img data-l10n-name="logo"/>
@@ -857,6 +858,8 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = ਪਹਿਲਾਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਜੋਂ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ
 forms-primary-pw-fips-title = ਤੁਸੀਂ ਇਸ ਵੇਲੇ FIPS ਮੋਡ ਵਿੱਚ ਹੋ। FIPS ਨੂੰ ਨਾ ਖਾਲੀ ਪਾਸਵਰਡ ਚਾਹੀਦਾ ਹੈ।
 forms-master-pw-fips-desc = ਪਾਸਵਰਡ ਨੂੰ ਬਦਲਣਾ ਫੇਲ੍ਹ ਹੋਇਆ
+forms-windows-sso-learn-more-link = ਹੋਰ ਸਿੱਖੋ
+forms-windows-sso-desc = ਆਪਣੀਆਂ ਡਿਵਾਈਸ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਖਾਤਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 
 ## OS Authentication dialog
 
@@ -1114,6 +1117,12 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = …ਛੋਟਾਂ
     .accesskey = E
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = ਛੋਟ…
+    .accesskey = E
+    .searchkeywords = ਪੌਪ-ਅੱਪ
 permissions-addon-install-warning =
     .label = ਜਦੋਂ ਵੈੱਬਸਾਈਟਾਂ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ਾਂ ਕਰਨ ਤਾਂ ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਕਰੋ
     .accesskey = W

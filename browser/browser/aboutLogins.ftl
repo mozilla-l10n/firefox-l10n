@@ -52,6 +52,8 @@ login-list-count =
 login-list-sort-label-text = ਲੜੀਬੱਧ:
 login-list-name-option = ਨਾਂ (A-Z)
 login-list-name-reverse-option = ਨਾਂ (Z-A)
+login-list-username-option = ਵਰਤੋੰਕਾਰ ਨਾਂ (A-Z)
+login-list-username-reverse-option = ਵਰਤੋੰਕਾਰ ਨਾਂ (Z-A)
 about-logins-login-list-alerts-option = ਚੇਤਾਵਨੀ
 login-list-last-changed-option = ਆਖਰੀ ਵਾਰ ਸੋਧੇ
 login-list-last-used-option = ਆਖਰੀ ਵਾਰ ਵਰਤੇ
@@ -66,6 +68,12 @@ about-logins-list-item-breach-icon =
     .title = ਉਲੰਘਣ ਕਰਨ ਵਾਲੀ ਵੈੱਬਸਾਈਟ
 about-logins-list-item-vulnerable-password-icon =
     .title = ਕਮਜ਼ੋਰ ਪਾਸਵਰਡ
+about-logins-list-section-breach = ਉਲੰਘਣ ਕੀਤੀਆਂ ਵੈੱਬਸਾਈਟ
+about-logins-list-section-vulnerable = ਕਮਜ਼ੋਰ ਪਾਸਵਰਡ
+about-logins-list-section-nothing = ਕੋਈ ਚੌਕਸੀ ਨਹੀਂ
+about-logins-list-section-today = ਅੱਜ
+about-logins-list-section-yesterday = ਕੱਲ੍ਹ
+about-logins-list-section-week = ਪਿਛਲੇ 7 ਦਿਨ
 
 ## Introduction screen
 
