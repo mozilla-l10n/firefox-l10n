@@ -55,7 +55,7 @@ upgrade-dialog-pin-secondary-button = Non ora
 # This title can be explicitly wrapped to control which words are on which line.
 upgrade-dialog-default-title-2 = Rende { -brand-short-name } tu predefinite
 upgrade-dialog-default-subtitle-2 = Pone in autopilota velocitate, securitate e confidentialitate.
-upgrade-dialog-default-primary-button-2 = Predefinir navigator
+upgrade-dialog-default-primary-button-2 = Facer navigator predefinite
 upgrade-dialog-default-secondary-button = Non ora
 
 ## Theme selection screen
@@ -65,12 +65,12 @@ upgrade-dialog-theme-title-2 = Initia ben con un thema nitide
 upgrade-dialog-theme-system = Thema del systema
     .title = Sequer le themas del systema operative pro buttones, menus e fenestras
 upgrade-dialog-theme-light = Clar
-    .title = Usar le thema clar pro buttones, menus e fenestras
+    .title = Usar un thema clar pro buttones, menus e fenestras
 upgrade-dialog-theme-dark = Obscur
-    .title = Usar le thema obscur pro buttones, menus e fenestras
+    .title = Usar un thema obscur pro buttones, menus e fenestras
 upgrade-dialog-theme-alpenglow = Alpenglow
     .title = Usar un thema dynamic e colorate pro buttones, menus e fenestras
-upgrade-dialog-theme-keep = Mantener existente
-    .title = Continuar a utilisar le thema jam installate ante le actualisation de { -brand-short-name }
+upgrade-dialog-theme-keep = Mantener le previe
+    .title = Continuar a usar le thema jam installate ante le actualisation de { -brand-short-name }
 upgrade-dialog-theme-primary-button = Salvar le thema
 upgrade-dialog-theme-secondary-button = Non ora
