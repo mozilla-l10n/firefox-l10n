@@ -82,6 +82,10 @@ appmenu-remote-tabs-tabsnotsyncing = Увімкнути синхронізаці
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Хочете побачити тут свої вкладки з інших пристроїв?
+appmenu-remote-tabs-connectdevice =
+    .label = Під'єднати інший пристрій
+appmenu-remote-tabs-welcome = Переглядайте список вкладок з ваших інших пристроїв.
+appmenu-remote-tabs-unverified = Ваш обліковий запис потребує підтвердження.
 appmenuitem-fxa-toolbar-sync-now2 = Синхронізувати
 appmenuitem-fxa-manage-account = Керувати обліковим записом
 appmenu-fxa-header2 = { -fxaccount-brand-name }
