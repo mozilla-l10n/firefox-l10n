@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Prikaži sve
     .tooltiptext = Prikaži sve tabove s ovog uređaja
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Prikaži više tabova
+    .tooltiptext = Prikaži više tabova s ovog uređaja
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nema otvorenih tabova
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -78,6 +82,9 @@ appmenu-remote-tabs-tabsnotsyncing = Uključite sinhronizaciju tabova da biste v
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Želite li vidjeti vaše tabove s drugih uređaja ovdje?
+appmenu-remote-tabs-connectdevice =
+    .label = Poveži dodatni uređaj
+appmenu-remote-tabs-unverified = Vaš račun mora biti verifikovan.
 appmenuitem-fxa-toolbar-sync-now2 = Sinhronizuj odmah
 appmenuitem-fxa-manage-account = Upravljanje računom
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
