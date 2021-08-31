@@ -79,6 +79,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Açık sekme yok
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Diğer cihazlardaki sekmeleri görmek için sekme eşitlemeyi açın.
+appmenu-remote-tabs-opensettings =
+    .label = Ayarlar
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?
