@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = ყველას ჩვენება
     .tooltiptext = ყველა ჩანართის ჩვენება ამ მოწყობილობიდან
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = მეტი ჩანართის ჩვენება
+    .tooltiptext = სხვა ჩანართების ჩვენებაც, ამ მოწყობილობიდან
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = გახსნილი ჩანართები არაა
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -80,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = ჩართეთ ჩანართებ
 appmenu-remote-tabs-noclients = გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?
 appmenu-remote-tabs-connectdevice =
     .label = სხვა მოწყობილობის დაკავშირება
+appmenu-remote-tabs-welcome = იხილეთ ჩანართების სია თქვენი სხვა მოწყობილობებიდან.
 appmenu-remote-tabs-unverified = თქვენი ანგარიში საჭიროებს დამოწმებას.
 appmenuitem-fxa-toolbar-sync-now2 = დასინქრონება ახლავე
 appmenuitem-fxa-manage-account = ანგარიშის მართვა
