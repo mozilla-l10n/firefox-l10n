@@ -48,7 +48,9 @@
 <!ENTITY editMenu.accesskey                             "ü">
 <!ENTITY deleteCmd.label                                "Sil">
 <!ENTITY deleteAbCmd.label                              "Adres defterini sil">
+<!ENTITY deleteAbCmd.accesskey                          "S">
 <!ENTITY removeAbCmd.label                              "Adres defterini kaldır">
+<!ENTITY removeAbCmd.accesskey                          "k">
 <!ENTITY deleteContactCmd.label                         "Kişiyi sil">
 <!ENTITY deleteContactsCmd.label                        "Kişileri Sil">
 <!ENTITY deleteListCmd.label                            "Listeyi Sil">
