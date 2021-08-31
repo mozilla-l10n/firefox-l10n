@@ -23,7 +23,6 @@ appmenuitem-zoom-enlarge =
     .label = വലുതാക്കുക
 appmenuitem-zoom-reduce =
     .label = ചെറുതാക്കുക
-
 appmenuitem-fullscreen =
     .label = സ്കീന്‍ പൂര്‍ണ്ണ വലിപ്പത്തില്‍
 
@@ -31,7 +30,13 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = സമന്വയിപ്പിക്കുക
-
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = ടാബൊന്നും തുറന്നിരിക്കുന്നില്ല
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഇവിടെ കാണിക്കണോ?
 appmenuitem-save-page =
     .label = താള്‍ ഇങ്ങനെ സൂക്ഷിക്കുക
 
