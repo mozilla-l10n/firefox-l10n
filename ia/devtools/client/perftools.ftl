@@ -44,7 +44,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 perftools-range-entries-label = Dimension del buffer:
 perftools-custom-threads-label = Adder argumentos personalisate per nomine:
 perftools-devtools-interval-label = Intervallo:
-perftools-devtools-threads-label = Argumentos:
+perftools-devtools-threads-label = Filos:
 perftools-devtools-settings-label = Parametros
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
@@ -68,33 +68,33 @@ perftools-button-cancel-recording = Cancellar registration
 perftools-button-save-settings = Salvar parametros e retornar
 perftools-button-restart = Reinitiar
 perftools-button-add-directory = Adder un directorio
-perftools-button-remove-directory = Remover los selecte
-perftools-button-edit-settings = Rediger parametros...
+perftools-button-remove-directory = Remover le seligites
+perftools-button-edit-settings = Modificar parametros...
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =
-    .title = Le principal processos sia pro le processo parente que pro le processos contento
+    .title = Le processos principal pro tanto le processo genitor como le processos de contento
 perftools-thread-compositor =
-    .title = Combina insimul differente elementos pingite sur le pagina
+    .title = Combina differente elementos pingite sur le pagina
 perftools-thread-dom-worker =
-    .title = Isto gere sia obreros de web que obreros de servicio
+    .title = Isto gere tanto le obreros de web como le obreros de servicio
 perftools-thread-renderer =
-    .title = Quando WebRender es activate, le discussion que exeque appellos OpenGL
+    .title = Quando WebRender es activate, le filo que executa le appellos a OpenGL
 perftools-thread-render-backend =
-    .title = Le discussion WebRender RenderBackend
+    .title = Le filo WebRender RenderBackend
 perftools-thread-paint-worker =
-    .title = Le argumento sur le qual on pinge, quando es activate le pictura extra argumento principal
+    .title = Quando es activate le pictura foras del filo principal, le filo sur le qual le pictura eveni
 perftools-thread-style-thread =
-    .title = Computation de stilos es scindite in plure argumentos
+    .title = Le computation de stilos es dividite in plure filos
 pref-thread-stream-trans =
-    .title = Transporto diffusion de rete
+    .title = Transporto de fluxo de rete
 perftools-thread-socket-thread =
-    .title = Le argumento ubi le codice de rete exeque ulle appellos blocante cavos
+    .title = Le filo ubi le codice de rete executa omne appellos de socket blocante
 perftools-thread-img-decoder =
-    .title = Argumentos de decodification de imagine
+    .title = Filos de decodification de imagines
 perftools-thread-dns-resolver =
-    .title = Le resolution de DNS eveni sur iste argumento
+    .title = Le resolution de DNS eveni sur iste filo
 perftools-thread-task-controller =
     .title = Filos del fundo commun de TaskController
 
