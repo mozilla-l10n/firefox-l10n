@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = Yeni Pəncərə
 appmenuitem-new-private-window =
     .label = Yeni Məxfi Pəncərə
+appmenuitem-help =
+    .label = Kömək
 
 ## Zoom and Fullscreen Controls
 
@@ -37,6 +39,9 @@ appmenu-remote-tabs-tabsnotsyncing = Digər cihazlarınızdakı vərəqlərin si
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Digər cihazlarınızda olan vərəqləri burada görmək istərdiniz?
+appmenu-remote-tabs-connectdevice =
+    .label = Başqa Cihazı Qoş
+appmenu-remote-tabs-unverified = Hesabınız təsdiqlənməlidir.
 appmenuitem-save-page =
     .label = Fərqli saxla…
 
