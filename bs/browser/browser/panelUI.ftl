@@ -5,9 +5,16 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Otkači iz dodatnog menija
+    .accesskey = O
 customize-menu-add-to-toolbar =
     .label = Dodaj u alatnu traku
     .accesskey = a
+customize-menu-add-to-overflowmenu =
+    .label = Dodaj u dodatni meni
+    .accesskey = M
 
 ## Forget Button
 
