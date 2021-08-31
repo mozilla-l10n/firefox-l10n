@@ -39,6 +39,8 @@ account-provisioner-button = Obtenir une nouvelle adresse électronique
     .accesskey = b
 account-setup-password-toggle =
     .title = Afficher/masquer le mot de passe
+account-setup-password-toggle-hide =
+    .title = Masquer le mot de passe
 account-setup-remember-password = Retenir le mot de passe
     .accesskey = m
 account-setup-exchange-label = Votre identifiant
@@ -206,6 +208,16 @@ insecure-dialog-confirm-button = Confirmer
 exchange-dialog-question = { -brand-short-name } a trouvé les informations de configuration de votre compte sur { $domain }. Voulez-vous continuer et soumettre vos informations d’identification ?
 exchange-dialog-confirm-button = Connexion
 exchange-dialog-cancel-button = Annuler
+
+## Dismiss account creation dialog
+
+exit-dialog-title = Aucun compte de messagerie configuré
+account-setup-no-account-checkbox = Utiliser { -brand-short-name } sans compte de messagerie
+    .accesskey = s
+exit-dialog-cancel-button = Continuer la configuration
+    .accesskey = C
+exit-dialog-confirm-button = Quitter la configuration
+    .accesskey = Q
 
 ## Alert dialogs
 
