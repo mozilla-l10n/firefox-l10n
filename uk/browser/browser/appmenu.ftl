@@ -67,6 +67,14 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Увійти до Синхронізації…
 appmenu-remote-tabs-turn-on-sync =
     .label = Увімкнути синхронізацію…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Показати всі
+    .tooltiptext = Показати всі вкладки з цього пристрою
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Показати більше вкладок
+    .tooltiptext = Показати більше вкладок з цього пристрою
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Немає відкритих вкладок
 # This is shown when Sync is configured but syncing tabs is disabled.
