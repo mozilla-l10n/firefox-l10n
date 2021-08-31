@@ -23,6 +23,11 @@ upgrade-dialog-new-primary-win7-button = Жақсы, түсіндім!
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
+upgrade-dialog-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Dock-та қалдыру
+       *[other] Тапсырмалар панеліне бекіту
+    }
 upgrade-dialog-pin-secondary-button = Қазір емес
 
 ## Default browser screen
