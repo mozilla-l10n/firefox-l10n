@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Hiện tất cả
     .tooltiptext = Hiển thị các thẻ từ thiết bị này
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Hiển thị thêm các thẻ
+    .tooltiptext = Hiển thị các thẻ từ thiết bị này
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Không có thẻ đang mở
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -80,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Bật đồng bộ thẻ để xem danh sá
 appmenu-remote-tabs-noclients = Muốn xem thẻ từ các thiết bị khác của bạn ở đây?
 appmenu-remote-tabs-connectdevice =
     .label = Kết nối thiết bị khác
+appmenu-remote-tabs-welcome = Xem danh sách các thẻ từ các thiết bị khác của bạn.
 appmenu-remote-tabs-unverified = Tài khoản của bạn cần phải xác thực.
 appmenuitem-fxa-toolbar-sync-now2 = Đồng bộ ngay
 appmenuitem-fxa-manage-account = Quản lý tài khoản
