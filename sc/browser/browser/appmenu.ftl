@@ -14,6 +14,8 @@ appmenuitem-new-window =
     .label = Ventana noa
 appmenuitem-new-private-window =
     .label = Ventana privada noa
+appmenuitem-help =
+    .label = Agiudu
 
 ## Zoom and Fullscreen Controls
 
@@ -22,6 +24,12 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Ammustra totu
+    .tooltiptext = Ammustra totu sas ischedas dae custu dispositivu
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Peruna ischeda aberta
 
 ## What's New panel in App menu.
 
@@ -39,10 +47,6 @@ appmenuitem-fullscreen =
 appmenu-about =
     .label = Informatziones de { -brand-shorter-name }
     .accesskey = I
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
-
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
