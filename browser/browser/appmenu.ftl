@@ -69,6 +69,25 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Пријавите се ради синхронизације…
 appmenu-remote-tabs-turn-on-sync =
     .label = Укључи синхронизацију
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Прикажи све
+    .tooltiptext = Прикажи све картице са овог уређаја
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Прикажи још картица
+    .tooltiptext = Прикажи више картица са овог уређаја
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Нема отворених картица
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Укључите синхронизацију да бисте видели листу картица са других уређаја.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Желите ли да овде видите картице са других уређаја?
+appmenu-remote-tabs-connectdevice =
+    .label = Повежи други уређај
+appmenu-remote-tabs-welcome = Погледајте листу картица са других уређаја.
+appmenu-remote-tabs-unverified = Потребно је да потврдите налог.
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизуј
 appmenuitem-fxa-manage-account = Управљај налогом
 appmenu-fxa-header2 = { -fxaccount-brand-name }
