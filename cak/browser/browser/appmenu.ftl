@@ -67,6 +67,14 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Titikirisäx molojri'ïl pa Ximoj…
 appmenu-remote-tabs-turn-on-sync =
     .label = Titzij Ximoj…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Tik'ut Ronojel
+    .tooltiptext = Kek'ut pe ronojel ri taq ruwi' e k'o pa re okisaxel re'
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Kek'ut pe ch'aqa' taq ruwi'
+    .tooltiptext = Kek'ut pe ri taq ruwi' e k'o pa re okisaxel re'
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Majun ruwi' ejaqon
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -76,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Tatzija' ri kiximoj taq ruwi' richin natz'�
 appmenu-remote-tabs-noclients = ¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?
 appmenu-remote-tabs-connectdevice =
     .label = Tokisäx Jun Chik Okisaxel
+appmenu-remote-tabs-welcome = Titz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.
 appmenu-remote-tabs-unverified = K'atzinel nijikib'äx ri rub'i' ataqoya'l.
 appmenuitem-fxa-toolbar-sync-now2 = Tixim Wakami
 appmenuitem-fxa-manage-account = Tinuk'samajïx Rub'i' Taqoya'l
