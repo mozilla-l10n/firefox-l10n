@@ -18,5 +18,8 @@ customize-menu-add-to-overflowmenu =
 
 ## Forget Button
 
+# The forget button can be added to the toolbar or overflow menu via the cutomization menu.
+panic-button-thankyou-msg1 = 최근 기록이 지워졌습니다.
+panic-button-thankyou-msg2 = 안전한 탐색!
 panic-button-thankyou-button =
     .label = 감사합니다!
