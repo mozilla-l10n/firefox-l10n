@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Procurar na página…
 appmenuitem-more-tools =
     .label = Mais ferramentas
+appmenuitem-help =
+    .label = Ajuda
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,8 +67,15 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Entrar no Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ativar o Sync…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Mostrar tudo
+    .tooltiptext = Mostrar todas as abas deste dispositivo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nenhuma aba aberta
+appmenu-remote-tabs-connectdevice =
+    .label = Conectar outro dispositivo
+appmenu-remote-tabs-unverified = Sua conta precisa ser verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-manage-account = Gerenciar conta
 appmenu-fxa-header2 = { -fxaccount-brand-name }
