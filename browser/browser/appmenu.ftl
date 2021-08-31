@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Vis alle
     .tooltiptext = Vis alle faner frå denne eininga
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Vis fleire faner
+    .tooltiptext = Vis fleire faner frå denne eininga
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ingen opne faner
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -80,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Slå på fane-synkronisering for å sjå ei
 appmenu-remote-tabs-noclients = Vil du sjå faner frå dei andre einingane dine her?
 appmenu-remote-tabs-connectdevice =
     .label = Kople til ei anna eining
+appmenu-remote-tabs-welcome = Vis ei liste over faner frå dei andre einingane dine.
 appmenu-remote-tabs-unverified = Kontoen din må stadfestast.
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser no
 appmenuitem-fxa-manage-account = Handter kontoen
