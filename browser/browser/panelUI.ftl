@@ -5,9 +5,14 @@
 
 ## Customization Menu
 
+customize-menu-add-to-toolbar =
+    .label = Pievienot rīkjoslai
+    .accesskey = a
 
 ## Forget Button
 
 # The forget button can be added to the toolbar or overflow menu via the cutomization menu.
 panic-button-thankyou-msg1 = Jūsu nesenā vēsture ir notīrīta.
 panic-button-thankyou-msg2 = Sērfojiet droši!
+panic-button-thankyou-button =
+    .label = Paldies!
