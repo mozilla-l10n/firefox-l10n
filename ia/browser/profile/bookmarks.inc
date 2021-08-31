@@ -27,7 +27,7 @@
 
 # LOCALIZATION NOTE (firefox_get_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
-#define firefox_get_help Obtener auxilio
+#define firefox_get_help Obtener adjuta
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
