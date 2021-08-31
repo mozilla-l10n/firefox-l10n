@@ -81,6 +81,7 @@ appmenu-remote-tabs-noclients = Ingin melihat tab dari perangkat Anda yang lain 
 appmenu-remote-tabs-connectdevice =
     .label = Sambungkan Perangkat Lainnya
 appmenu-remote-tabs-welcome = Lihat daftar tab dari perangkat Anda lainnya.
+appmenu-remote-tabs-unverified = Akun Anda perlu diverifikasi.
 appmenuitem-fxa-toolbar-sync-now2 = Sinkronkan Sekarang
 appmenuitem-fxa-manage-account = Kelola Akun
 appmenu-fxa-header2 = { -fxaccount-brand-name }
