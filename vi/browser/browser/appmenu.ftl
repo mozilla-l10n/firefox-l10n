@@ -79,6 +79,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Không có thẻ đang mở
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Bật đồng bộ thẻ để xem danh sách thẻ từ các thiết bị khác của bạn.
+appmenu-remote-tabs-opensettings =
+    .label = Cài đặt
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Muốn xem thẻ từ các thiết bị khác của bạn ở đây?
