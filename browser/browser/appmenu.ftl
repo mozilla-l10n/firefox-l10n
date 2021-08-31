@@ -11,7 +11,6 @@ appmenuitem-update-banner3 =
     .label-update-manual = Oppdatering tilgjengelig — last ned nå
     .label-update-unsupported = Kan ikke oppdatere — systemet er inkompatibelt
     .label-update-restart = Oppdatering tilgjengelig — start på nytt
-
 appmenuitem-protection-dashboard-title = Sikkerhetsoversikt
 appmenuitem-customize-mode =
     .label = Tilpass …
@@ -44,7 +43,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Lukk program-meny
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,7 +54,6 @@ appmenuitem-zoom-enlarge =
     .label = Forstørre
 appmenuitem-zoom-reduce =
     .label = Forminske
-
 appmenuitem-fullscreen =
     .label = Fullskjerm
 
@@ -64,12 +61,14 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synkroniser nå
-
 appmenu-remote-tabs-sign-into-sync =
     .label = Logg inn for å synkronisere …
 appmenu-remote-tabs-turn-on-sync =
     .label = Slå på synkronisering …
-
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Ingen åpne faner
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Skru på fane-synkronisering for å se en liste over faner fra de andre enhetene dine.
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser nå
 appmenuitem-fxa-manage-account = Behandle konto
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -83,14 +82,12 @@ appmenu-fxa-signed-in-label = Logg inn
 appmenu-fxa-setup-sync =
     .label = Slå på synkronisering …
 appmenu-fxa-show-more-tabs = Vis flere faner
-
 appmenuitem-save-page =
     .label = Lagre side som …
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Hva er nytt
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -103,49 +100,35 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Avslør mer informasjon
-
 profiler-popup-description-title =
     .value = Registrer, analyser, del
-
 profiler-popup-description = Samarbeid om ytelsesproblemer ved å publisere profiler for å dele med teamet ditt.
-
 profiler-popup-learn-more = Les mer
-
 profiler-popup-settings =
     .value = Innstillinger
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Rediger innstillinger …
-
 profiler-popup-disabled =
     Profilering er for øyeblikket deaktivert, sannsynligvis på grunn av et privat nettleservindu
     er åpen.
-
 profiler-popup-recording-screen = Registrerer …
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Tilpasset
-
 profiler-popup-start-recording-button =
     .label = Start registrering
-
 profiler-popup-discard-button =
     .label = Forkast
-
 profiler-popup-capture-button =
     .label = Fang
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -158,7 +141,6 @@ appmenu-manage-history =
     .label = Behandle historikk
 appmenu-reopen-all-tabs = Åpne alle faner på nytt
 appmenu-reopen-all-windows = Åpne alle vinduer på nytt
-
 appmenu-restore-session =
     .label = Gjenopprett forrige programøkt
 appmenu-clear-history =
@@ -214,7 +196,6 @@ appmenu-customizetoolbar =
     .label = Tilpass verktøylinje …
 appmenu-taskmanager =
     .label = Aktivitetsbehandler
-
 appmenu-developer-tools-subheader = Nettleserverktøy
 appmenu-developer-tools-extensions =
     .label = Extensions for Developers
