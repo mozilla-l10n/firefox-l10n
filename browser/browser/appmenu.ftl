@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Na boku pytaś…
 appmenuitem-more-tools =
     .label = Dalšne rědy
+appmenuitem-help =
+    .label = Pomoc
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
