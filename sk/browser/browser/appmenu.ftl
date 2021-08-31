@@ -79,6 +79,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Žiadne otvorené karty
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Zapnutím synchronizácie kariet zobrazíte zoznam kariet z vašich ostatných zariadení.
+appmenu-remote-tabs-opensettings =
+    .label = Nastavenia
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Chceli by ste tu vidieť vaše karty z ostatných zariadení?
