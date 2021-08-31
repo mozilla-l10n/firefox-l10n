@@ -5,8 +5,15 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = War ki ii Jami ayera ma okane
+    .accesskey = W
 customize-menu-add-to-toolbar =
     .label = Med bot gintic
+    .accesskey = M
+customize-menu-add-to-overflowmenu =
+    .label = Medi i Jami ayera ma okane
     .accesskey = M
 
 ## Forget Button
