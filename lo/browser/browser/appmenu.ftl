@@ -24,7 +24,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ເລີ່ມການເຊື່ອມຕໍ່ດຽວນີ້
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = ສະແດງທັງໝົດ
+    .tooltiptext = ສະແດງແທັບທັງໝົດຈາກອຸປະກອນນີ້
 appmenuitem-save-page =
     .label = ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...
 
@@ -49,9 +52,6 @@ appmenu-help-report-site-issue =
 appmenu-help-feedback-page =
     .label = ສົ່ງຄຳຕຳນິຕິສົມ...
     .accesskey = S
-
-## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
-## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
