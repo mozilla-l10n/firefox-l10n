@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Hľadať na stránke…
 appmenuitem-more-tools =
     .label = Ďalšie nástroje
+appmenuitem-help =
+    .label = Pomocník
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,10 +67,25 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Prihlásiť sa a synchronizovať
 appmenu-remote-tabs-turn-on-sync =
     .label = Zapnúť synchronizáciu…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Zobraziť všetky
+    .tooltiptext = Zobrazí všetky karty z tohto zariadenia
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Zobraziť ďalšie karty
+    .tooltiptext = Zobrazí ďalšie karty z tohto zariadenia
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Žiadne otvorené karty
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Zapnutím synchronizácie kariet zobrazíte zoznam kariet z vašich ostatných zariadení.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Chceli by ste tu vidieť vaše karty z ostatných zariadení?
+appmenu-remote-tabs-connectdevice =
+    .label = Pripojiť ďalšie zariadenie
+appmenu-remote-tabs-welcome = Zobraziť zoznam kariet z ostatných zariadení.
+appmenu-remote-tabs-unverified = Váš účet musí byť overený.
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizovať teraz
 appmenuitem-fxa-manage-account = Spravovať účet
 appmenu-fxa-header2 = { -fxaccount-brand-name }
