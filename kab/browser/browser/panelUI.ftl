@@ -5,8 +5,19 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Kkes seg wumuɣ n tfuli
+    .accesskey = S
+customize-menu-add-to-toolbar =
+    .label = Rnu ɣer ufeggag n yifecka
+    .accesskey = R
+customize-menu-add-to-overflowmenu =
+    .label = Rnu ɣer wumuɣ n tfuli
+    .accesskey = F
 
 ## Forget Button
 
+panic-button-thankyou-msg2 = Tunigin igerrzen!
 panic-button-thankyou-button =
     .label = Tanemmirt!
