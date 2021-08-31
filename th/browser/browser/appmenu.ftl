@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = ค้นหาในหน้า…
 appmenuitem-more-tools =
     .label = เครื่องมือเพิ่มเติม
+appmenuitem-help =
+    .label = ช่วยเหลือ
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,6 +67,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = ลงชื่อเข้า Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = เปิด Sync…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = แสดงทั้งหมด
+    .tooltiptext = แสดงแท็บทั้งหมดจากอุปกรณ์นี้
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ไม่มีแท็บที่เปิดอยู่
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -72,6 +78,9 @@ appmenu-remote-tabs-tabsnotsyncing = เปิดการซิงค์แท�
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?
+appmenu-remote-tabs-connectdevice =
+    .label = เชื่อมต่ออุปกรณ์อื่น
+appmenu-remote-tabs-unverified = บัญชีของคุณจำเป็นต้องได้รับการยืนยัน
 appmenuitem-fxa-toolbar-sync-now2 = ซิงค์ตอนนี้
 appmenuitem-fxa-manage-account = จัดการบัญชี
 appmenu-fxa-header2 = { -fxaccount-brand-name }
