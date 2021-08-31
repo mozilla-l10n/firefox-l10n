@@ -215,6 +215,9 @@ exchange-dialog-cancel-button = 取消
 ## Dismiss account creation dialog
 
 exit-dialog-title = 未配置电子邮件账户
+exit-dialog-description = 您确定要取消设置过程吗？无电子邮件账户仍可使用 { -brand-short-name }，但会缺少许多功能。
+account-setup-no-account-checkbox = 无电子邮件账户使用 { -brand-short-name }
+    .accesskey = U
 exit-dialog-cancel-button = 继续设置
     .accesskey = C
 exit-dialog-confirm-button = 退出设置
