@@ -5,6 +5,16 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Daşma Menyusundan çıxart
+    .accesskey = U
+customize-menu-add-to-toolbar =
+    .label = Alət Sətrinə Əlavə et
+    .accesskey = A
+customize-menu-add-to-overflowmenu =
+    .label = Daşma Menyusuna əlavə et
+    .accesskey = M
 
 ## Forget Button
 
