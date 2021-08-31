@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Najdi na strani …
 appmenuitem-more-tools =
     .label = Več orodij
+appmenuitem-help =
+    .label = Pomoč
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -80,6 +82,9 @@ appmenu-remote-tabs-tabsnotsyncing = Vključite sinhronizacijo zavihkov za ogled
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Želite tukaj videti zavihke drugih naprav?
+appmenu-remote-tabs-connectdevice =
+    .label = Poveži drugo napravo
+appmenu-remote-tabs-unverified = Svoj račun morate potrditi.
 appmenuitem-fxa-toolbar-sync-now2 = Sinhroniziraj zdaj
 appmenuitem-fxa-manage-account = Upravljanje računa
 appmenu-fxa-header2 = { -fxaccount-brand-name }
