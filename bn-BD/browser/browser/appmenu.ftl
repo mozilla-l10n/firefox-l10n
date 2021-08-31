@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = নতুন উইন্ডো
 appmenuitem-new-private-window =
     .label = নতুন ব্যক্তিগত উইন্ডো
+appmenuitem-help =
+    .label = সাহায্য
 
 ## Zoom and Fullscreen Controls
 
@@ -26,7 +28,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = এখন সিঙ্ক
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = সব প্রদর্শন
+    .tooltiptext = এই ডিভাইস থেকে সব ট্যাব দেখাও
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = কোন ট্যাব খোলা নেই
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = আপনার অন্যান্য ডিভাইসের ট্যাবসমূহের তালিকা দেখতে, ট্যাব সিঙ্ক চালু করুন।
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = আপনি কি আপনার অন্যান্য ডিভাইসের ট্যাবসমূহ এখানে দেখতে চান?
 appmenuitem-save-page =
     .label = পাতা নতুনভাবে সংরক্ষণ…
 
@@ -79,4 +91,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = কাজ ব্যবস্থাপক
-
