@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Знайсці на старонцы…
 appmenuitem-more-tools =
     .label = Іншыя прылады
+appmenuitem-help =
+    .label = Даведка
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
