@@ -79,6 +79,9 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Brak otwartych kart
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Włącz synchronizację kart, aby wyświetlić ich listę z innych urządzeń.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Czy wyświetlić tutaj listę kart otwartych na innych urządzeniach?
 appmenu-remote-tabs-connectdevice =
     .label = Połącz inne urządzenie
 appmenu-remote-tabs-welcome = Wyświetl listę kart z innych urządzeń.
