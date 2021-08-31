@@ -11,7 +11,6 @@ appmenuitem-update-banner3 =
     .label-update-manual = Ĝisdatigo disponebla — elŝuti nun
     .label-update-unsupported = Ne eblas ĝisdatigi — nekongrua sistemo
     .label-update-restart = Ĝisdatigo disponebla — restartigi nun
-
 appmenuitem-protection-dashboard-title = Panelo de protektoj
 appmenuitem-customize-mode =
     .label = Personecigi…
@@ -44,7 +43,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Fermi menuon de programo
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,7 +54,6 @@ appmenuitem-zoom-enlarge =
     .label = Alproksimiĝi
 appmenuitem-zoom-reduce =
     .label = Malproksimiĝi
-
 appmenuitem-fullscreen =
     .label = Plenekrane
 
@@ -64,12 +61,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Speguli nun
-
 appmenu-remote-tabs-sign-into-sync =
     .label = Komenci seancon en Spegulado…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ŝalti Speguladon…
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Montri ĉiujn
+    .tooltiptext = Montri ĉiujn langetojn el tiu ĉi aparato
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Neniu spegulita langeto
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Ŝaltu la dividon de langetoj por vidi liston de langetoj en viaj aliaj aparatoj.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?
+appmenu-remote-tabs-welcome = Vidi liston de langetoj en viaj aliaj aparatoj.
 appmenuitem-fxa-toolbar-sync-now2 = Speguli nun
 appmenuitem-fxa-manage-account = Administri konton
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -83,14 +90,12 @@ appmenu-fxa-signed-in-label = Komenci seancon
 appmenu-fxa-setup-sync =
     .label = Ŝalti speguladon…
 appmenu-fxa-show-more-tabs = Montri pli da langetoj
-
 appmenuitem-save-page =
     .label = Konservi paĝon kiel…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novaĵoj
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -103,47 +108,33 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Montri pli da informo
-
 profiler-popup-description-title =
     .value = Registri, analizi, dividi
-
 profiler-popup-description = Kunlaboru pri efikecaj problemoj per publikigo de profiloj dividotaj kun via teamo.
-
 profiler-popup-learn-more = Pli da informo
-
 profiler-popup-settings =
     .value = Agordoj
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Modifi agordojn…
-
 profiler-popup-disabled = La rulanalizilo estas nuntempe malaktiva, tre verŝajne pro tio ke fenestro de privata retumo estas malfermita.
-
 profiler-popup-recording-screen = Registrado…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Personecigita
-
 profiler-popup-start-recording-button =
     .label = Komenci registri
-
 profiler-popup-discard-button =
     .label = Forlasi
-
 profiler-popup-capture-button =
     .label = Kapti
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Stir+Maj+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -156,7 +147,6 @@ appmenu-manage-history =
     .label = Administri historion
 appmenu-reopen-all-tabs = Remalfermi ĉiujn langetojn
 appmenu-reopen-all-windows = Remalfermi ĉiujn fenestrojn
-
 appmenu-restore-session =
     .label = Restarigi antaŭan seancon
 appmenu-clear-history =
@@ -212,7 +202,6 @@ appmenu-customizetoolbar =
     .label = Personecigi ilaron…
 appmenu-taskmanager =
     .label = Administrilo de taskoj
-
 appmenu-developer-tools-subheader = Iloj de retumilo
 appmenu-developer-tools-extensions =
     .label = Etendaĵoj por programistoj
