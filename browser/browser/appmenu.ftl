@@ -71,6 +71,8 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Tot mostrar
     .tooltiptext = Mostrar totes los onglets d’aqueste periferic
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Activatz la sincronizacion dels onglets per afichar la lista dels onglets dels vòstres autres periferics.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ara
 appmenuitem-fxa-manage-account = Gestion del compte
 appmenu-fxa-header2 = { -fxaccount-brand-name }
