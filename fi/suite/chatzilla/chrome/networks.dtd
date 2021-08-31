@@ -7,23 +7,32 @@
 <!ENTITY networksEditDialog.size      "width: 75ch; height: 28em;">
 
 <!ENTITY restoreButton.label          "Palauta oletukset">
+<!ENTITY restoreButton.accesskey      "t">
 
 <!ENTITY networkListAdd.label         "Lisää verkko…">
+<!ENTITY networkListAdd.accesskey     "L">
 <!ENTITY networkListAdd.tooltip       "Lisää uusi verkko">
 <!ENTITY networkListEdit.label        "Muokkaa verkkoa…">
+<!ENTITY networkListEdit.accesskey    "M">
 <!ENTITY networkListEdit.tooltip      "Muokkaa valittua verkkoa">
 <!ENTITY networkListRemove.label      "Poista verkko">
+<!ENTITY networkListRemove.accesskey  "v">
 <!ENTITY networkListRemove.tooltip    "Poista valittu verkko">
 
 <!ENTITY serverListUp.label           "Siirrä ylös">
+<!ENTITY serverListUp.accesskey       "y">
 <!ENTITY serverListUp.tooltip         "Siirrä valittu palvelin listassa ylöspäin">
 <!ENTITY serverListDown.label         "Siirrä alas">
+<!ENTITY serverListDown.accesskey     "a">
 <!ENTITY serverListDown.tooltip       "Siirrä valittu palvelin listassa alaspäin">
 <!ENTITY serverListAdd.label          "Lisää palvelin…">
+<!ENTITY serverListAdd.accesskey      "i">
 <!ENTITY serverListAdd.tooltip        "Lisää uusi palvelin">
 <!ENTITY serverListEdit.label         "Muokkaa palvelinta…">
+<!ENTITY serverListEdit.accesskey     "u">
 <!ENTITY serverListEdit.tooltip       "Muokkaa valittua palvelinta">
 <!ENTITY serverListRemove.label       "Poista palvelin">
+<!ENTITY serverListRemove.accesskey   "o">
 <!ENTITY serverListRemove.tooltip     "Poista valittu palvelin">
 
 <!-- LOCALIZATION NOTE:
