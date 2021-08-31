@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Dangos Popeth
     .tooltiptext = Dangos pob tab o'r ddyfais hon
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Dangos Rhagor o Dabiau
+    .tooltiptext = Dangos rhagor o dabiau o'r ddyfais hon
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Dim tabiau agored
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -80,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Cychwynnwch gydweddu tabiau er mwyn gweld r
 appmenu-remote-tabs-noclients = Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?
 appmenu-remote-tabs-connectdevice =
     .label = Cysylltu Dyfais Arall
+appmenu-remote-tabs-welcome = Gweld rhestr o dabiau o'ch dyfeisiau eraill.
 appmenu-remote-tabs-unverified = Mae angen i'ch cyfrif cael ei gwirio.
 appmenuitem-fxa-toolbar-sync-now2 = Cydweddu Nawr
 appmenuitem-fxa-manage-account = Rheoli Cyfrif
