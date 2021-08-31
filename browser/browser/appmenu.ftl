@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Mostrar todo
     .tooltiptext = Mostrar todas las pestañas de este dispositivo
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Mostrar más pestañas
+    .tooltiptext = Mostrar más pestañas de este dispositivo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = No hay pestañas abiertas
 # This is shown when Sync is configured but syncing tabs is disabled.
