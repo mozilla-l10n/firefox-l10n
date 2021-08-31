@@ -5,9 +5,16 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Overflow మెనూ నుంచి పిన్‌ తీయండి
+    .accesskey = U
 customize-menu-add-to-toolbar =
     .label = పనిముట్ల పట్టీకి చేర్చు
     .accesskey = A
+customize-menu-add-to-overflowmenu =
+    .label = Overflow మెనూకు జోడించు
+    .accesskey = M
 
 ## Forget Button
 
