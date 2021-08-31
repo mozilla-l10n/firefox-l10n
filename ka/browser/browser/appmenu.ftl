@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = პოვნა გვერდზე...
 appmenuitem-more-tools =
     .label = სხვა ხელსაწყოები
+appmenuitem-help =
+    .label = დახმარება
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,6 +67,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = სინქრონიზაციაში შესვლა…
 appmenu-remote-tabs-turn-on-sync =
     .label = დასინქრონების ჩართვა…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = ყველას ჩვენება
+    .tooltiptext = ყველა ჩანართის ჩვენება ამ მოწყობილობიდან
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = გახსნილი ჩანართები არაა
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -72,6 +78,9 @@ appmenu-remote-tabs-tabsnotsyncing = ჩართეთ ჩანართებ
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?
+appmenu-remote-tabs-connectdevice =
+    .label = სხვა მოწყობილობის დაკავშირება
+appmenu-remote-tabs-unverified = თქვენი ანგარიში საჭიროებს დამოწმებას.
 appmenuitem-fxa-toolbar-sync-now2 = დასინქრონება ახლავე
 appmenuitem-fxa-manage-account = ანგარიშის მართვა
 appmenu-fxa-header2 = { -fxaccount-brand-name }
