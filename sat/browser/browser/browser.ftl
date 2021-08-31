@@ -224,6 +224,8 @@ crashed-subframe-learnmore-link =
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-recent-bookmarks-panel-subheader = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+bookmarks-toolbar-chevron =
+    .tooltiptext = ᱫᱷᱮᱨ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ ᱩᱫᱩᱜᱽ ᱢᱮ
 bookmarks-sidebar-content =
     .aria-label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 bookmarks-menu-button =
