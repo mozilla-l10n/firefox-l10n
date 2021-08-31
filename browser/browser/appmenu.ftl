@@ -80,6 +80,7 @@ appmenu-remote-tabs-tabsnotsyncing = Active a sincronización de lapelas para ve
 appmenu-remote-tabs-noclients = Quere ver aquí as lapelas dos outros dispositivos?
 appmenu-remote-tabs-connectdevice =
     .label = Conectar outro dispositivo
+appmenu-remote-tabs-welcome = Ver unha lista de lapelas doutros dispositivos.
 appmenu-remote-tabs-unverified = Necesita comprobar a súa conta.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-manage-account = Xestionar conta
