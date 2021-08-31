@@ -76,6 +76,8 @@ appmenu-remote-tabs-tabsnotsyncing = اپنے دیگر آلات پر ٹیب کی
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟
+appmenu-remote-tabs-connectdevice =
+    .label = ایک اور آلہ جوڑیں
 appmenu-remote-tabs-welcome = دیگر آلات سے ٹیبیں کی فہرست دیکھنیں۔
 appmenu-remote-tabs-unverified = آپ کے اکائونٹ کو توژیکاری کی ظرورت ہے۔
 appmenuitem-fxa-toolbar-sync-now2 = ابھی سنک کریں
