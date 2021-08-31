@@ -78,6 +78,9 @@ appmenu-remote-tabs-tabsnotsyncing = همگام‌سازی زبانه‌ها ر�
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = می‌خواهید زبانه‌های خود را از سایر دستگاه‌ها اینجا ببینید؟
+appmenu-remote-tabs-connectdevice =
+    .label = اتصال به دستگاه دیگر
+appmenu-remote-tabs-unverified = حساب‌کاربری شما باید تایید شود.
 appmenuitem-fxa-toolbar-sync-now2 = انجام همگام‌سازی
 appmenuitem-fxa-manage-account = مدیریت حساب
 appmenu-fxa-header2 = { -fxaccount-brand-name }
