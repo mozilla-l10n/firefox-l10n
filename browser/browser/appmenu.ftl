@@ -21,6 +21,8 @@ appmenuitem-passwords =
     .label = पासवर्ड
 appmenuitem-addons-and-themes =
     .label = ऐड-ऑन और थीम
+appmenuitem-help =
+    .label = मदद
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -55,6 +57,17 @@ appmenu-remote-tabs-sign-into-sync =
     .label = सिंक करने के लिए साइन इन करें...
 appmenu-remote-tabs-turn-on-sync =
     .label = सिंक चालू करें…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = सभी दिखाएँ
+    .tooltiptext = इस उपकरण से और टैब दिखाएँ
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = कोई टैब खुला नहीं
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से टैब संकलन खोले.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?
 appmenuitem-fxa-toolbar-sync-now2 = अभी सिंक करें
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = साइन इन
