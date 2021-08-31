@@ -43,6 +43,9 @@ appmenu-remote-tabs-tabsnotsyncing = Hurmin cynkugol tabbe ngam yiyde tabbe iwɗ
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Aɗa yiyde tabbe maa iwɗe e kaɓirɗi goɗɗi?
+appmenu-remote-tabs-connectdevice =
+    .label = Seŋ Masiŋ Goɗɗo
+appmenu-remote-tabs-unverified = Konte maa ina cokli ƴeewteede.
 appmenuitem-save-page =
     .label = Danndu Hello e Innde…
 
