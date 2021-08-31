@@ -67,12 +67,20 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Autentifică-te pentru sincronizare…
 appmenu-remote-tabs-turn-on-sync =
     .label = Activează sincronizarea…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Afișează tot
+    .tooltiptext = Afișează toate filele de pe acest dispozitiv
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nicio filă deschisă
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Activează sincronizarea filelor pentru a vedea o listă cu file de pe celelalte dispozitive.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Vrei să vezi aici filele de pe celelalte dispozitive?
 appmenu-remote-tabs-connectdevice =
     .label = Conectează alt dispozitiv
+appmenu-remote-tabs-welcome = Afișează o listă cu filele de pe celelalte dispozitive.
 appmenu-remote-tabs-unverified = Contul tău trebuie verificat.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizează acum
 appmenuitem-fxa-manage-account = Gestionează contul
