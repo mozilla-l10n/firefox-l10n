@@ -17,7 +17,6 @@ appmenuitem-update-banner3 =
     .label-update-manual = Доступно је ажурирање – преузмите га
     .label-update-unsupported = Ажурирање није могуће – некомпатибилан систем
     .label-update-restart = Доступно је ажурирање – рестартујте прегледач
-
 appmenuitem-protection-dashboard-title = Контролна табла заштите
 appmenuitem-customize-mode =
     .label = Прилагоди…
@@ -38,6 +37,8 @@ appmenuitem-find-in-page =
     .label = Пронађи на страници…
 appmenuitem-more-tools =
     .label = Више алатки
+appmenuitem-help =
+    .label = Помоћ
 appmenuitem-exit2 =
     .label = Изађи
 appmenu-menu-button-closed2 =
@@ -46,7 +47,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Затвори мени програма
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -58,7 +58,6 @@ appmenuitem-zoom-enlarge =
     .label = Увећај
 appmenuitem-zoom-reduce =
     .label = Смањите
-
 appmenuitem-fullscreen =
     .label = Преко целог екрана
 
@@ -66,12 +65,10 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронизуј
-
 appmenu-remote-tabs-sign-into-sync =
     .label = Пријавите се ради синхронизације…
 appmenu-remote-tabs-turn-on-sync =
     .label = Укључи синхронизацију
-
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизуј
 appmenuitem-fxa-manage-account = Управљај налогом
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -85,14 +82,12 @@ appmenu-fxa-signed-in-label = Пријава
 appmenu-fxa-setup-sync =
     .label = Укључи синхронизацију
 appmenu-fxa-show-more-tabs = Прикажи још картица
-
 appmenuitem-save-page =
     .label = Сачувај страницу као…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Шта је ново
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -105,47 +100,33 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Откриј више информација
-
 profiler-popup-description-title =
     .value = Снимите, анализирајте и делите
-
 profiler-popup-description = Сарађујте на решавању проблема са перформансама дељењем профила са својим тимом.
-
 profiler-popup-learn-more = Сазнајте више
-
 profiler-popup-settings =
     .value = Подешавања
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Уреди подешавања…
-
 profiler-popup-disabled = Profiler је тренутно онемогућен, највероватније због отвореног прозора за приватно прегледање
-
 profiler-popup-recording-screen = Снимање…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Прилагођено
-
 profiler-popup-start-recording-button =
     .label = Почни снимање
-
 profiler-popup-discard-button =
     .label = Одбаци
-
 profiler-popup-capture-button =
     .label = Capture
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -158,7 +139,6 @@ appmenu-manage-history =
     .label = Управљај историјом
 appmenu-reopen-all-tabs = Поново отвори све картице
 appmenu-reopen-all-windows = Поново отвори све прозоре
-
 appmenu-restore-session =
     .label = Врати претходну сесију
 appmenu-clear-history =
@@ -226,7 +206,6 @@ appmenu-customizetoolbar =
     .label = Прилагоди траку са алаткама…
 appmenu-taskmanager =
     .label = Менаџер задатака
-
 appmenu-developer-tools-subheader = Алатке прегледача
 appmenu-developer-tools-extensions =
     .label = Додаци за програмере
