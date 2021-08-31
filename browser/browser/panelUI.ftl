@@ -9,6 +9,9 @@
 customize-menu-unpin-from-overflowmenu =
     .label = පිටාර මෙනුවෙන් ඉවත් කරන්න
     .accesskey = U
+customize-menu-add-to-toolbar =
+    .label = මෙවලම් තීරුවට එක් කරන්න
+    .accesskey = A
 customize-menu-add-to-overflowmenu =
     .label = පිටාර මෙනුවට එක් කරන්න
     .accesskey = M
