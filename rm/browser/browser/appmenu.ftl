@@ -78,6 +78,9 @@ appmenu-remote-tabs-tabsnotsyncing = Activescha la sincronisaziun da tabs per ve
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vuls ti vesair qua tes tabs dad auters apparats?
+appmenu-remote-tabs-connectdevice =
+    .label = Colliar in auter apparat
+appmenu-remote-tabs-unverified = Tes conto sto vegnir verifitgà.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronisar ussa
 appmenuitem-fxa-manage-account = Administrar il conto
 appmenu-fxa-header2 = { -fxaccount-brand-name }
