@@ -10,28 +10,28 @@
 perftools-intro-title = Parametros de profilator
 perftools-intro-description =
     Le registrationes lancea profiler.firefox.com in un nove scheda. Tote le datos es
-    immagazinate localmente, ma tu pote eliger cargar los pro compartir los.
+    immagazinate localmente, ma tu pote optar pro incargar los pro compartir los.
 
 ## All of the headings for the various sections.
 
 perftools-heading-settings = Parametros complete
 perftools-heading-buffer = Parametros de buffer
-perftools-heading-features = Functionalitates
-perftools-heading-features-default = Functionalitates (Recommendate de ordinario)
-perftools-heading-features-disabled = Functionalitates disactivate
+perftools-heading-features = Functiones
+perftools-heading-features-default = Functiones (es recommendate mantener los active)
+perftools-heading-features-disabled = Functiones disactivate
 perftools-heading-features-experimental = Experimental
-perftools-heading-threads = Argumentos
-perftools-heading-local-build = Construction local
+perftools-heading-threads = Filos
+perftools-heading-local-build = Compilation local
 
 ##
 
 perftools-description-intro =
-    Le registrationes lancea <a>profiler.firefox.com</a> in un nove scheda. Tote le datos es 
-    immagazinate localmente, ma tu pote eliger cargar los pro compartir los.
+    Le registrationes lancea <a>profiler.firefox.com</a> in un nove scheda. Tote le datos
+    es immagazinate localmente, ma tu pote optar pro incargar los pro compartir los.
 perftools-description-local-build =
-    Si tu profila un construction que tu mesme ha compilate, sur iste machina,
-     adde tu plica objdir del construction al lista infra de maniera que
-     illo pote esser usate pro cercar informationes de symbolo.
+    Si tu profila un version que tu mesme ha compilate, sur iste machina,
+     adde le directorio 'objdir' de tu compilation al lista sequente a fin que
+     illo pote esser usate pro cercar informationes sur le symbolos.
 
 ## The controls for the interval at which the profiler samples the code.
 
