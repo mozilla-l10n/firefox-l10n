@@ -71,6 +71,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = Mostrar todas
     .tooltiptext = Mostrar todas las pestañas de este dispositivo
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Mostrar más pestañas
+    .tooltiptext = Mostrar más pestañas de este dispositivo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Sin pestañas abiertas
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -80,6 +84,7 @@ appmenu-remote-tabs-tabsnotsyncing = Habilitar sincronización de pestañas para
 appmenu-remote-tabs-noclients = ¿Desea ver las pestañas de sus otros dispositivos acá?
 appmenu-remote-tabs-connectdevice =
     .label = Conectar otro dispositivo
+appmenu-remote-tabs-welcome = Ver una lista de pestañas de sus otros dispositivos.
 appmenu-remote-tabs-unverified = La cuenta necesita ser verificada.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ahora
 appmenuitem-fxa-manage-account = Administrar cuenta
