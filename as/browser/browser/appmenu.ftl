@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = পৃষ্ঠাত বিচাৰক…
 appmenuitem-more-tools =
     .label = আৰু সা-সঁজুলি
+appmenuitem-help =
+    .label = সহায়
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
