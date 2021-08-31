@@ -76,6 +76,9 @@ appmenu-remote-tabs-notabs = No open tabs
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Want to see your tabs from other devices here?
+appmenu-remote-tabs-connectdevice =
+    .label = Connect Another Device
+appmenu-remote-tabs-unverified = Your account needs to be verified.
 appmenuitem-fxa-toolbar-sync-now2 = Sync now
 appmenuitem-fxa-manage-account = Manage account
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
