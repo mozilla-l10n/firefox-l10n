@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Hanapin Sa Pahina...
 appmenuitem-more-tools =
     .label = Marami pang mga kagamitan
+appmenuitem-help =
+    .label = Tulong
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
