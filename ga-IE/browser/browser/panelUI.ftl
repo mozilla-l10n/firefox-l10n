@@ -5,9 +5,16 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Díphionnáil ón Roghchlár Fuílligh
+    .accesskey = D
 customize-menu-add-to-toolbar =
     .label = Cuir leis an mBarra Uirlisí
     .accesskey = C
+customize-menu-add-to-overflowmenu =
+    .label = Cuir leis an Roghchlár Fuílligh
+    .accesskey = R
 
 ## Forget Button
 
