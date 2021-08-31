@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = Henorde Hesere
 appmenuitem-new-private-window =
     .label = Henorde Suturo Hesere
+appmenuitem-help =
+    .label = &Ballal
 
 ## Zoom and Fullscreen Controls
 
@@ -23,7 +25,6 @@ appmenuitem-zoom-enlarge =
     .label = Lonngo ara
 appmenuitem-zoom-reduce =
     .label = Lonngo woɗɗa
-
 appmenuitem-fullscreen =
     .label = Njaajeendi Yaynirde
 
@@ -31,7 +32,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sanngoɗin Jooni
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Hollu Fof
+    .tooltiptext = Hollu tabbe fof iwɗe e ngol kaɓirgol
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Alaa tabbe udditiiɗe
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Hurmin cynkugol tabbe ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Aɗa yiyde tabbe maa iwɗe e kaɓirɗi goɗɗi?
 appmenuitem-save-page =
     .label = Danndu Hello e Innde…
 
@@ -85,4 +96,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Yiilorde golle
-
