@@ -5,6 +5,9 @@
 
 ## Customization Menu
 
+customize-menu-add-to-overflowmenu =
+    .label = Ավելացնել Գերլցված ցանկ
+    .accesskey = M
 
 ## Forget Button
 
