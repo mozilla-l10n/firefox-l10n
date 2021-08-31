@@ -26,7 +26,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = अहिले सिङ्क गर्नुहोस्
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = सबै देखाउनुहोस्
+    .tooltiptext = यस यन्त्रमा भएका सबै टयाबहरू देखाउनुहोस्
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = खुला ट्याबहरू छैनन्
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न ट्याब Sync सुरु गर्नुहोस्।
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = अन्य यन्त्रहरूको ट्याबहरू तपाईँ यहाँ हेर्न चाहनुहुन्छ?
 appmenuitem-save-page =
     .label = यस रूपमा पृष्ठ सङ्ग्रह गर्नुहोस्...
 
