@@ -65,6 +65,8 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Prihlásiť sa a synchronizovať
 appmenu-remote-tabs-turn-on-sync =
     .label = Zapnúť synchronizáciu…
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Žiadne otvorené karty
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Zapnutím synchronizácie kariet zobrazíte zoznam kariet z vašich ostatných zariadení.
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizovať teraz
