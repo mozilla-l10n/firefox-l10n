@@ -5,6 +5,9 @@
 
 ## Customization Menu
 
+customize-menu-add-to-toolbar =
+    .label = Add ಉಪಕರಣಪಟ್ಟಿಗೆ
+    .accesskey = A
 
 ## Forget Button
 
