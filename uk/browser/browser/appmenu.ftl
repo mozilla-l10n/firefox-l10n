@@ -67,6 +67,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Увійти до Синхронізації…
 appmenu-remote-tabs-turn-on-sync =
     .label = Увімкнути синхронізацію…
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Немає відкритих вкладок
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Увімкнути синхронізацію вкладок для можливості перегляду вашого списку вкладок з інших пристроїв.
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Хочете побачити тут свої вкладки з інших пристроїв?
