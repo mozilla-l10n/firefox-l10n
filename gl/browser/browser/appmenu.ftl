@@ -78,6 +78,9 @@ appmenu-remote-tabs-tabsnotsyncing = Active a sincronización de lapelas para ve
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Quere ver aquí as lapelas dos outros dispositivos?
+appmenu-remote-tabs-connectdevice =
+    .label = Conectar outro dispositivo
+appmenu-remote-tabs-unverified = Necesita comprobar a súa conta.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-manage-account = Xestionar conta
 appmenu-fxa-header2 = { -fxaccount-brand-name }
