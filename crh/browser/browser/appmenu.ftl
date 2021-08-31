@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = Yañı Pencere
 appmenuitem-new-private-window =
     .label = Yañı Hususiy Pencere
+appmenuitem-help =
+    .label = Yardım
 
 ## Zoom and Fullscreen Controls
 
@@ -26,7 +28,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Şimdi Aynılaştır
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Episini Köster
+    .tooltiptext = Bu cihazdan episi ilmeklerni köster
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Açıq ilmekler yoq
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Diger cihazlardaki ilmeklerni körmek içün ilmek aynılaştırmasını açıq yapıñız.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Diger cihazlardan ilmekleriñizni mında köresiñiz kile?
 appmenuitem-save-page =
     .label = Saifeni Şöyle Saqla…
 
@@ -79,4 +91,3 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Uhde İdareçisi
-
