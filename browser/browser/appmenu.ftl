@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Tìm trong trang…
 appmenuitem-more-tools =
     .label = Thêm công cụ
+appmenuitem-help =
+    .label = Trợ giúp
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,6 +67,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Đăng nhập để đồng bộ hóa…
 appmenu-remote-tabs-turn-on-sync =
     .label = Bật đồng bộ hóa…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Hiện tất cả
+    .tooltiptext = Hiển thị các thẻ từ thiết bị này
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Không có thẻ đang mở
 # This is shown when Sync is configured but syncing tabs is disabled.
