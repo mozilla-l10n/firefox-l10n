@@ -39,6 +39,8 @@ account-provisioner-button = Απόκτηση νέας διεύθυνσης emai
     .accesskey = Α
 account-setup-password-toggle =
     .title = Εμφάνιση/απόκρυψη του κωδικού πρόσβασης
+account-setup-password-toggle-hide =
+    .title = Απόκρυψη κωδικού πρόσβασης
 account-setup-remember-password = Απομνημόνευση κωδικού πρόσβασης
     .accesskey = Α
 account-setup-exchange-label = Η σύνδεσή σας
@@ -206,6 +208,12 @@ insecure-dialog-confirm-button = Επιβεβαίωση
 exchange-dialog-question = Το { -brand-short-name } βρήκε τις πληροφορίες ρύθμισης του λογαριασμού σας στο { $domain }. Θέλετε να συνεχίσετε και να υποβάλετε τα διαπιστευτήριά σας;
 exchange-dialog-confirm-button = Σύνδεση
 exchange-dialog-cancel-button = Ακύρωση
+
+## Dismiss account creation dialog
+
+exit-dialog-title = Δεν έχουν ρυθμιστεί λογαριασμοί email
+exit-dialog-cancel-button = Συνέχεια ρύθμισης
+    .accesskey = Σ
 
 ## Alert dialogs
 
