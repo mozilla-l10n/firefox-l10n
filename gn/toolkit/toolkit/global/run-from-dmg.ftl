@@ -15,3 +15,4 @@ prompt-to-install-no-button = Ani emohenda
 ## Strings for a dialog that opens if the installation failed.
 
 install-failed-title = { -brand-short-name } ojavy ñemohenda.
+install-failed-message = { -brand-short-name } ndaikatúi emohenda hákatu omba’apóta gueteri.
