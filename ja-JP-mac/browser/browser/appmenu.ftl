@@ -67,6 +67,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showall =
     .label = すべて表示
     .tooltiptext = この端末からのタブをすべて表示します
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = タブがありません
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = タブの同期をオンにすると、あなたの他の端末のタブ一覧が表示されます。
 appmenuitem-fxa-toolbar-sync-now2 = 今すぐ同期
 appmenuitem-fxa-manage-account = アカウントを管理
 appmenu-fxa-header2 = { -fxaccount-brand-name }
