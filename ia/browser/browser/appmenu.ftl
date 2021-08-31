@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Trovar in pagina…
 appmenuitem-more-tools =
     .label = Altere utensiles
+appmenuitem-help =
+    .label = Adjuta
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,6 +67,13 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Aperir session in Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Activar Sync…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Monstrar totes
+    .tooltiptext = Monstrar tote le schedas de iste apparato
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Desira tu vider le schedas de altere apparatos hic?
 appmenuitem-fxa-toolbar-sync-now2 = Synchronisar ora
 appmenuitem-fxa-manage-account = Gerer conto
 appmenu-fxa-header2 = { -fxaccount-brand-name }
