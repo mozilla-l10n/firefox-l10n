@@ -67,6 +67,16 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Mag-sign in sa sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Buksan ang sync…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Ipakita ang Lahat
+    .tooltiptext = Ipakita ang lahat ng mga tab mula sa device na ito
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Walang bukas na tabs
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?
+appmenu-remote-tabs-unverified = Ang iyong account ay kailangang ma-verify.
 appmenuitem-fxa-toolbar-sync-now2 = I-sync ngayon
 appmenuitem-fxa-manage-account = Pamahalaan ang account
 appmenu-fxa-header2 = { -fxaccount-brand-name }
