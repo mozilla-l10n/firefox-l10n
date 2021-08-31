@@ -78,6 +78,9 @@ appmenu-remote-tabs-tabsnotsyncing = Cychwynnwch gydweddu tabiau er mwyn gweld r
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?
+appmenu-remote-tabs-connectdevice =
+    .label = Cysylltu Dyfais Arall
+appmenu-remote-tabs-unverified = Mae angen i'ch cyfrif cael ei gwirio.
 appmenuitem-fxa-toolbar-sync-now2 = Cydweddu Nawr
 appmenuitem-fxa-manage-account = Rheoli Cyfrif
 appmenu-fxa-header2 = { -fxaccount-brand-name }
