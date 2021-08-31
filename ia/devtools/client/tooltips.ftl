@@ -29,8 +29,8 @@ inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</stro
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> non ha effecto sur iste elemento perque <strong>overflow:hidden</strong> non es definite.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> non ha effecto sur le elementos interne de tabellas.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> non ha effecto sur le elementos interne de tabellas, excepte le cellulas.
-inactive-css-not-table = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un tabula.
-inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non rola.
+inactive-css-not-table = <strong>{ $property }</strong> non ha effecto sur iste elemento perque non es un tabella.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> non ha effecto sur iste elemento perque illo non rola.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
