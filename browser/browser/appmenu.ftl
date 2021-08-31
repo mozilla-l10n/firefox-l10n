@@ -31,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Търсене в страницата
 appmenuitem-more-tools =
     .label = Още инструменти
+appmenuitem-help =
+    .label = Помощ
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -65,6 +67,14 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Вписване в Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Включване на Sync…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Показване на всички
+    .tooltiptext = Всички раздели от други устройства
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Показване на повече раздели
+    .tooltiptext = Повече раздели от други устройства
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Няма отворени раздели
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -72,6 +82,10 @@ appmenu-remote-tabs-tabsnotsyncing = Включете синхронизиран
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Искате ли да видите свои раздели от други устройства тук?
+appmenu-remote-tabs-connectdevice =
+    .label = Добавяне на устройство
+appmenu-remote-tabs-welcome = Вижте списък с разделите от другите ваши устройства.
+appmenu-remote-tabs-unverified = Сметката ви трябва да бъде потвърдена.
 appmenuitem-fxa-toolbar-sync-now2 = Синхронизиране
 appmenuitem-fxa-manage-account = Управление на сметка
 appmenu-fxa-header2 = { -fxaccount-brand-name }
