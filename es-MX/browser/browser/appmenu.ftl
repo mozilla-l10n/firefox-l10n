@@ -65,10 +65,22 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Iniciar sesión en Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Activar Sync…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Mostrar todo
+    .tooltiptext = Mostrar todas las pestañas desde este dispositivo
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Mostrar más pestañas
+    .tooltiptext = Mostrar más pestañas desde este dispositivo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = No hay pestañas abiertas
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Activa la sincronización de pestañas para ver una lista de pestañas desde tus otros dispositivos.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = ¿Quieres ver las pestañas de tus otros dispositivos aquí?
+appmenu-remote-tabs-welcome = Ver una lista de pestañas de sus otros dispositivos.
 appmenuitem-fxa-toolbar-sync-now2 = Sincronizar ahora
 appmenuitem-fxa-manage-account = Administrar cuenta
 appmenu-fxa-header2 = { -fxaccount-brand-name }
