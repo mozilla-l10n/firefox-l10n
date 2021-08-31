@@ -74,6 +74,8 @@ appmenu-remote-tabs-tabsnotsyncing = Ενεργοποιήστε τον συγχ�
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Θέλετε να δείτε τις καρτέλες από τις άλλες σας συσκευές εδώ;
+appmenu-remote-tabs-connectdevice =
+    .label = Σύνδεση άλλης συσκευής
 appmenu-remote-tabs-unverified = Ο λογαριασμός σας πρέπει να επαληθευτεί.
 appmenuitem-fxa-toolbar-sync-now2 = Συγχρονισμός τώρα
 appmenuitem-fxa-manage-account = Διαχείριση λογαριασμού
