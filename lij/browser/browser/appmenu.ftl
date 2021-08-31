@@ -34,6 +34,9 @@ fxa-toolbar-sync-now =
 appmenu-remote-tabs-notabs = Nisciun feuggio averto
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ativâ a scincronizaçion di feuggi pe vedde i feuggi averti inti atri dispoxitivi.
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = T'eu amiâ chi i teu feuggi da atri dipoxitivi?
 appmenuitem-save-page =
     .label = Sarva pagina co-o nomme…
 
