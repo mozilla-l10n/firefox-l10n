@@ -5,9 +5,16 @@
 
 ## Customization Menu
 
+# The overflow menu is the menu that appears if you click the chevron (>> button) in the location bar.
+customize-menu-unpin-from-overflowmenu =
+    .label = Dispilhennañ eus al lañser dic'hlann
+    .accesskey = i
 customize-menu-add-to-toolbar =
     .label = Ouzhpennañ d'ar varrenn ostilhoù
     .accesskey = O
+customize-menu-add-to-overflowmenu =
+    .label = Ouzhpennañ d'al lañser dic'hlann
+    .accesskey = d
 
 ## Forget Button
 
