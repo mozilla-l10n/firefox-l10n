@@ -72,6 +72,9 @@ appmenu-remote-tabs-tabsnotsyncing = បើកសមកាលកម្មផ្�
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ចង់​មើល​ផ្ទាំង​របស់​អ្នក​ពី​ឧបករណ៍​ផ្សេង​នៅ​ទីនេះ​មែន​ទេ?
+appmenu-remote-tabs-connectdevice =
+    .label = ភ្ជាប់​ឧបករណ៍​ផ្សេង
+appmenu-remote-tabs-unverified = គណនី​របស់​អ្នក​ត្រូវធ្វើការ​​ផ្ទៀងផ្ទាត់។
 appmenuitem-fxa-toolbar-sync-now2 = ធ្វើសមកាលកម្មឥឡូវនេះ
 appmenuitem-fxa-manage-account = គ្រប់គ្រង​គណនី
 appmenu-fxa-header2 = { -fxaccount-brand-name }
