@@ -67,6 +67,9 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Sync 켜기…
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = 열린 탭이 없음
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = 다른 기기에서도 여기에서 열린 탭을 사용하시겠습니까?
 appmenuitem-fxa-toolbar-sync-now2 = 지금 동기화
 appmenuitem-fxa-manage-account = 계정 관리
 appmenu-fxa-header2 = { -fxaccount-brand-name }
