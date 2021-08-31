@@ -11,7 +11,6 @@ appmenuitem-update-banner3 =
     .label-update-manual = Aktualizacja jest dostępna — pobierz teraz
     .label-update-unsupported = Nie można uaktualnić — system jest niezgodny
     .label-update-restart = Aktualizacja jest dostępna — uruchom ponownie
-
 appmenuitem-protection-dashboard-title = Panel ochrony
 appmenuitem-customize-mode =
     .label = Dostosuj…
@@ -32,6 +31,8 @@ appmenuitem-find-in-page =
     .label = Znajdź na stronie…
 appmenuitem-more-tools =
     .label = Więcej narzędzi
+appmenuitem-help =
+    .label = Pomoc
 appmenuitem-exit2 =
     .label =
         { PLATFORM() ->
@@ -44,7 +45,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Zamknij menu aplikacji
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,7 +56,6 @@ appmenuitem-zoom-enlarge =
     .label = Powiększ
 appmenuitem-zoom-reduce =
     .label = Pomniejsz
-
 appmenuitem-fullscreen =
     .label = Tryb pełnoekranowy
 
@@ -64,12 +63,18 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronizuj teraz
-
 appmenu-remote-tabs-sign-into-sync =
     .label = Zaloguj się do synchronizacji…
 appmenu-remote-tabs-turn-on-sync =
     .label = Włącz synchronizację…
-
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = Wyświetl wszystkie
+    .tooltiptext = Wyświetl wszystkie karty z tego urządzenia
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = Brak otwartych kart
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Włącz synchronizację kart, aby wyświetlić ich listę z innych urządzeń.
 appmenuitem-fxa-toolbar-sync-now2 = Synchronizuj teraz
 appmenuitem-fxa-manage-account = Zarządzaj kontem
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -83,14 +88,12 @@ appmenu-fxa-signed-in-label = Zaloguj się
 appmenu-fxa-setup-sync =
     .label = Włącz synchronizację…
 appmenu-fxa-show-more-tabs = Wyświetl więcej kart
-
 appmenuitem-save-page =
     .label = Zapisz stronę jako…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Co nowego
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -103,49 +106,35 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Odkryj więcej informacji
-
 profiler-popup-description-title =
     .value = Nagrywaj, analizuj, udostępniaj
-
 profiler-popup-description = Współpracuj nad problemami z wydajnością, publikując profile do udostępnienia zespołowi.
-
 profiler-popup-learn-more = Więcej informacji
-
 profiler-popup-settings =
     .value = Ustawienia
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Zmień ustawienia…
-
 profiler-popup-disabled =
     Profiler jest obecnie wyłączony, najprawdopodobniej z powodu otwarcia okna
     w trybie prywatnym.
-
 profiler-popup-recording-screen = Nagrywanie…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Własne
-
 profiler-popup-start-recording-button =
     .label = Rozpocznij nagrywanie
-
 profiler-popup-discard-button =
     .label = Odrzuć
-
 profiler-popup-capture-button =
     .label = Przechwyć
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -158,7 +147,6 @@ appmenu-manage-history =
     .label = Zarządzaj historią
 appmenu-reopen-all-tabs = Przywróć wszystkie karty
 appmenu-reopen-all-windows = Przywróć wszystkie okna
-
 appmenu-restore-session =
     .label = Przywróć poprzednią sesję
 appmenu-clear-history =
@@ -214,7 +202,6 @@ appmenu-customizetoolbar =
     .label = Dostosuj pasek narzędzi…
 appmenu-taskmanager =
     .label = Menedżer zadań
-
 appmenu-developer-tools-subheader = Narzędzia przeglądarki
 appmenu-developer-tools-extensions =
     .label = Rozszerzenia dla twórców witryn
