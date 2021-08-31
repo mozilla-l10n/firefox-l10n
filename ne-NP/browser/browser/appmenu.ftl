@@ -16,6 +16,8 @@ appmenuitem-new-window =
     .label = नयाँ सञ्झ्याल
 appmenuitem-new-private-window =
     .label = नयाँ निजी सञ्झ्याल
+appmenuitem-help =
+    .label = मद्दत
 
 ## Zoom and Fullscreen Controls
 
