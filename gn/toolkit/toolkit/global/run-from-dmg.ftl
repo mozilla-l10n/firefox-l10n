@@ -9,6 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = Emboguejypa { -brand-short-name }?
+prompt-to-install-message = Emohendapaite peteĩ jeýpe eipytyvõ hag̃ua { -brand-short-name } hekopyahu tapiávo ha péicha nokañymo’ãi ne mba’ekuaarãnguéra. { -brand-short-name } ojuajúta ne rembipuru ñongatuha ha Dock rehe.
 prompt-to-install-yes-button = Mohenda
 prompt-to-install-no-button = Ani emohenda
 
