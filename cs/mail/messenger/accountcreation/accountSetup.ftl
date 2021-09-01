@@ -47,6 +47,10 @@ account-provisioner-button = Získat novou e-mailovou adresu
     .accesskey = Z
 account-setup-password-toggle =
     .title = Zobrazit/Skrýt heslo
+account-setup-password-toggle-show =
+    .title = Zobrazit heslo viditelně
+account-setup-password-toggle-hide =
+    .title = Skrýt heslo
 account-setup-remember-password = Pamatovat si heslo
     .accesskey = m
 account-setup-exchange-label = Vaše přihlašovací jméno
@@ -239,6 +243,29 @@ exchange-dialog-question =
     } informace pro nastavení vašeho účtu v na doméně { $domain }. Chcete pokračovat a odeslat své přihlašovací údaje?
 exchange-dialog-confirm-button = Přihlašovací údaje
 exchange-dialog-cancel-button = Zrušit
+
+## Dismiss account creation dialog
+
+exit-dialog-title = Není nastaven žádný e-mailový účet
+exit-dialog-description =
+    Opravdu chcete zrušit proces nastavení? { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] Aplikaci { -brand-short-name }
+    } můžete používat i bez e-mailového účtu, ale mnoho funkcí pak nebude dostupných.
+account-setup-no-account-checkbox =
+    Používat { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } bez e-mailového účtu
+    .accesskey = u
+exit-dialog-cancel-button = Pokračovat v nastavení
+    .accesskey = P
+exit-dialog-confirm-button = Zrušit nastavení
+    .accesskey = Z
 
 ## Alert dialogs
 
