@@ -214,6 +214,7 @@ exchange-dialog-cancel-button = Annuler
 ## Dismiss account creation dialog
 
 exit-dialog-title = Aucun compte de messagerie configuré
+exit-dialog-description = Voulez-vous vraiment annuler le processus de configuration ? { -brand-short-name } peut toujours être utilisé sans compte de messagerie, mais de nombreuses fonctionnalités ne seront pas disponibles.
 account-setup-no-account-checkbox = Utiliser { -brand-short-name } sans compte de messagerie
     .accesskey = s
 exit-dialog-cancel-button = Continuer la configuration
