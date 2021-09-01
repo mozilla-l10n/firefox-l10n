@@ -783,7 +783,10 @@ forms-primary-pw-change =
 # use { "" } as the value.
 forms-primary-pw-former-name = Пештар бо номи «ниҳонвожаи хусусӣ» номида мешуд
 forms-master-pw-fips-desc = Ниҳонвожа тағйир дода нашуд
+forms-windows-sso =
+    .label = Иҷозат додани воридшавии ягонаи Windows барои ҳисобҳои Microsoft, корӣ ва мактабӣ
 forms-windows-sso-learn-more-link = Маълумоти бештар
+forms-windows-sso-desc = Ҳисобҳоро дар танзимоти дастгоҳи худ идора кунед
 
 ## OS Authentication dialog
 
@@ -814,6 +817,7 @@ history-remember-option-never =
     .label = Таърих ҳеҷ гоҳ дар хотир дошта нашавад
 history-remember-option-custom =
     .label = Истифодаи танзимоти фармоишӣ барои таърих
+history-remember-description = Браузери { -brand-short-name } таърихи тамошокунӣ, боргирӣ, шаклҳо ва ҷустуҷӯи шуморо дар хотир медорад.
 history-private-browsing-permanent =
     .label = Ҳамеша истифода кардани реҷаи тамошокунии махфӣ
     .accesskey = Ҳ
