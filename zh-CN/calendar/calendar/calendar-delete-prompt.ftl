@@ -8,7 +8,7 @@ calendar-delete-event-prompt-title =
     }
 calendar-delete-event-prompt-message =
     { $count ->
-       *[one] 您确定要删除此事件吗?
+       *[one] 您确定要删除此事件吗？
         [other] 您确定要删除这 { $count } 项事件吗？
     }
 calendar-delete-task-prompt-title =
