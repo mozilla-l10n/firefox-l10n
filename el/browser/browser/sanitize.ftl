@@ -3,17 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs =
-    .title = Ρυθμίσεις εκκαθάρισης ιστορικού
+    .title = Ρυθμίσεις απαλοιφής ιστορικού
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
-    .title = Εκκαθάριση πρόσφατου ιστορικού
+    .title = Απαλοιφή πρόσφατου ιστορικού
     .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
-    .title = Εκκαθάριση όλου του ιστορικού
+    .title = Απαλοιφή όλου του ιστορικού
     .style = width: 34em
 clear-data-settings-label = Όταν κλείνει, το { -brand-short-name } να κάνει αυτόματη εκκαθάριση των παρακάτω
 
