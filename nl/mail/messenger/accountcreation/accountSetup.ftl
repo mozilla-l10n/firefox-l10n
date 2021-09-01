@@ -41,6 +41,10 @@ account-provisioner-button = Een nieuw e-mailadres aanvragen
     .accesskey = v
 account-setup-password-toggle =
     .title = Wachtwoord tonen/verbergen
+account-setup-password-toggle-show =
+    .title = Wachtwoord in leesbare tekst tonen
+account-setup-password-toggle-hide =
+    .title = Wachtwoorden verbergen
 account-setup-remember-password = Wachtwoord onthouden
     .accesskey = h
 account-setup-exchange-label = Uw aanmelding
@@ -208,6 +212,17 @@ insecure-dialog-confirm-button = Bevestigen
 exchange-dialog-question = { -brand-short-name } heeft uw accountinstellingen op { $domain } gevonden. Wilt u doorgaan en uw aanmeldgegevens versturen?
 exchange-dialog-confirm-button = Aanmelden
 exchange-dialog-cancel-button = Annuleren
+
+## Dismiss account creation dialog
+
+exit-dialog-title = Geen e-mailaccount geconfigureerd
+exit-dialog-description = Weet u zeker dat u het installatieproces wilt annuleren? { -brand-short-name } kan nog steeds worden gebruikt zonder een e-mailaccount, maar veel functies zijn niet beschikbaar.
+account-setup-no-account-checkbox = { -brand-short-name } zonder e-mailaccount gebruiken
+    .accesskey = z
+exit-dialog-cancel-button = Doorgaan met instellen
+    .accesskey = D
+exit-dialog-confirm-button = Instellen afsluiten
+    .accesskey = I
 
 ## Alert dialogs
 
