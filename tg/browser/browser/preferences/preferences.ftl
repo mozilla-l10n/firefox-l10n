@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = Ба сомонаҳо сигнали “Пайгирӣ карда нашавад”-ро фиристонед, то ки шуморо пайгирӣ накунанд
 do-not-track-learn-more = Маълумоти бештар
 do-not-track-option-always =
     .label = Ҳамеша
@@ -881,9 +882,13 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-standard-desc = Барои муҳофизат ва кори самаранок мутаносиб мебошад. Саҳифаҳо ба таври оддӣ бор карда мешаванд.
+content-blocking-etp-strict-desc = Муҳофизати қавитар, аммо метавонад боиси вайрон шудани баъзеи сомонаҳо ё муҳтаво гардад.
+content-blocking-etp-custom-desc = Интихоб кунед, ки кадом васоити пайгирӣ ва скриптҳо бояд баста шаванд.
 content-blocking-etp-blocking-desc = { -brand-short-name } зеринро манъ мекунад:
 content-blocking-private-windows = Муҳтавои пайгирикунанда дар равзанаҳои махфӣ
+content-blocking-cross-site-cookies-in-all-windows = Кукиҳои байнисомонавӣ дар ҳамаи равзанаҳо (аз ҷумла кукиҳои пайгирикунанда)
 content-blocking-cross-site-tracking-cookies = Кукиҳои васоити пайгирӣ байни сомонаҳо
+content-blocking-all-cross-site-cookies-private-windows = Кукиҳои байнисомонавӣ дар равзанаҳои махфӣ
 content-blocking-social-media-trackers = Васоити пайгирии шабакаҳои иҷтимоӣ
 content-blocking-all-cookies = Ҳамаи кукиҳо
 content-blocking-unvisited-cookies = Кукиҳо аз сомонаҳои боқимонда
