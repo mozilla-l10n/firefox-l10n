@@ -741,9 +741,19 @@ privacy-header = Махфияти тамошокунӣ
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Воридшавиҳо ва ниҳонвожаҳо
     .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-logins =
+    .label = Пурсидани имкони нигоҳ доштани воридшавиҳо ва ниҳонвожаҳо барои сомонаҳо
+    .accesskey = П
 forms-exceptions =
     .label = Истисноҳо…
     .accesskey = И
+forms-generate-passwords =
+    .label = Пешниҳод ва эҷод кардани ниҳонвожаҳои қавӣ
+    .accesskey = П
+forms-breach-alerts =
+    .label = Намоиш додани огоҳиҳо оид ба ниҳонвожаҳо барои сомонаҳои вайронкардашуда
+    .accesskey = Н
 forms-breach-alerts-learn-more-link = Маълумоти бештар
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -826,7 +836,14 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Кукиҳо ва иттилооти сомона
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Айни замон кукиҳои нигоҳдошташуда, маълумоти сомона ва зерҳофиза { $value } { $unit } фазои дискро истифода мебаранд.
 sitedata-learn-more = Маълумоти бештар
+sitedata-delete-on-close =
+    .label = Нест кардани кукиҳо ва маълумоти сомона ҳангоми пӯшидани браузери { -brand-short-name }
+    .accesskey = Н
 sitedata-allow-cookies-option =
     .label = Қабул кардани кукиҳо ва иттилооти сомона
     .accesskey = Қ
@@ -853,6 +870,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = Навори нишонӣ
+addressbar-suggest = Ҳангоми истифодаи навори нишонӣ, имконоти зерин пешниҳод карда мешавад
 addressbar-locbar-history-option =
     .label = Таърихи тамошо
     .accesskey = Т
