@@ -861,6 +861,7 @@ addressbar-suggestions-settings = Иваз кардани хусусиятҳо �
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Муҳофизати такмилёфта аз пайгирӣ
+content-blocking-section-top-level-description = Васоити пайгирӣ барои ҷамъ кардани маълумот дар бораи одатҳои тамошокунӣ ва манфиатҳои шумо дар Интернет шуморо пайгирӣ мекунанд. { -brand-short-name } бисёр аз чунин васоити пайгирӣ ва дигар скриптҳои зарароварро манъ мекунад.
 content-blocking-learn-more = Маълумоти бештар
 
 ## These strings are used to define the different levels of
@@ -879,6 +880,8 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = Барои муҳофизат ва кори самаранок мутаносиб мебошад. Саҳифаҳо ба таври оддӣ бор карда мешаванд.
+content-blocking-etp-blocking-desc = { -brand-short-name } зеринро манъ мекунад:
 content-blocking-private-windows = Муҳтавои пайгирикунанда дар равзанаҳои махфӣ
 content-blocking-cross-site-tracking-cookies = Кукиҳои васоити пайгирӣ байни сомонаҳо
 content-blocking-social-media-trackers = Васоити пайгирии шабакаҳои иҷтимоӣ
