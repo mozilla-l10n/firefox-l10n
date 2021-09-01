@@ -4,7 +4,7 @@
 
 <!ENTITY event.title.label                  "Editar item" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip   "Mantenha a duração ao alterar a data final">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Manter a duração ao alterar a data de término">
 <!ENTITY event.dialog.keepDurationButton.accesskey "M">
 
 <!ENTITY newevent.from.label                "De" >
@@ -274,7 +274,7 @@
 <!ENTITY event.repeat.bi.weekly.label                   "A cada duas semanas">
 <!ENTITY event.repeat.monthly.label                     "Mensalmente">
 <!ENTITY event.repeat.yearly.label                      "Anualmente">
-<!ENTITY event.repeat.custom.label                      "Personalizada…">
+<!ENTITY event.repeat.custom.label                      "Personalizado…">
 
 <!ENTITY event.recurrence.pattern.label                 "Padrão de recorrência">
 <!ENTITY event.recurrence.occurs.label                  "Repetir" >
