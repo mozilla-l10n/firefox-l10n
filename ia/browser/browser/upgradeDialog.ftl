@@ -40,8 +40,8 @@ upgrade-dialog-pin-title =
 # translations don't repeat anyway, the same string can be used cross-platform.
 upgrade-dialog-pin-subtitle =
     { PLATFORM() ->
-        [macos] Obtene jam facile accesso al plus fresc { -brand-short-name }.
-       *[other] Mantene jam le plus fresc { -brand-short-name } a portata de mano.
+        [macos] Accede facilemente al ultimissime { -brand-short-name }.
+       *[other] Guarda le ultimissime { -brand-short-name } a portata de mano.
     }
 upgrade-dialog-pin-primary-button =
     { PLATFORM() ->
