@@ -24,4 +24,5 @@ sync-input =
     .placeholder = Почтаи электронӣ
 sync-button = Давом додан
 sync-terms = Бо идома додан, шумо бо <a data-l10n-name="terms">Шартҳои хизматрасонӣ</a> ва <a data-l10n-name="privacy">Огоҳиномаи махфият</a> розӣ мешавед.
+sync-first = { -sync-brand-name }-ро якум бор истифода мебаред? Барои ҳамоҳанг кардани иттилооти худ, шумо бояд ба ҳар як насби Firefox-и худ ворид шавед.
 sync-learn = Маълумоти бештар

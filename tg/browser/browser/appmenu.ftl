@@ -77,11 +77,16 @@ appmenu-remote-tabs-showmore =
     .tooltiptext = Намоиш додани варақаҳои бештар аз ин дастгоҳ
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ягон варақаи кушодашуда нест
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = Барои дидани рӯйхати варақаҳо аз дастгоҳҳои дигари худ, ҳамоҳангсозии варақаҳоро фаъол созед.
+appmenu-remote-tabs-opensettings =
+    .label = Танзимот
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Мохоҳед, ки варақаҳоро аз дастгоҳҳои дигар дар ин ҷо бинед?
 appmenu-remote-tabs-connectdevice =
     .label = Пайваст кардани дастгоҳи дигар
+appmenu-remote-tabs-welcome = Дидани рӯйхати варақаҳо аз дастгоҳҳои дигар.
 appmenu-remote-tabs-unverified = Ҳисоби шумо бояд тасдиқ карда шавад.
 appmenuitem-fxa-toolbar-sync-now2 = Ҳозир ҳамоҳанг кунед
 appmenuitem-fxa-manage-account = Идоракунии ҳисоб
