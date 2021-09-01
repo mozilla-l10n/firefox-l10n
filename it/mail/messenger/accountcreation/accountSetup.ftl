@@ -214,6 +214,7 @@ exchange-dialog-cancel-button = Annulla
 ## Dismiss account creation dialog
 
 exit-dialog-title = Nessun account email configurato
+exit-dialog-description = Annullare il processo di configurazione? { -brand-short-name } può anche essere utilizzato senza un account email, ma molte funzioni non saranno disponibili.
 account-setup-no-account-checkbox = Utilizza { -brand-short-name } senza un account di posta elettronica
     .accesskey = a
 exit-dialog-cancel-button = Continua configurazione
