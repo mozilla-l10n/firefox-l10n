@@ -103,9 +103,9 @@ fonts-allow-own =
 ## of the language.
 
 fonts-languages-fallback-header = Κωδικοποίηση κειμένου για περιεχόμενο παλαιού τύπου
-fonts-languages-fallback-desc = Αυτή η κωδικοποίηση κειμένου χρησιμοποιείται για περιεχόμενο παλαιών σελίδων που δεν δηλώνουν την κωδικοποίηση τους.
+fonts-languages-fallback-desc = Αυτή η κωδικοποίηση κειμένου χρησιμοποιείται για περιεχόμενο παλαιού τύπου που δεν δηλώνει την κωδικοποίηση του.
 fonts-languages-fallback-label = Εφεδρική κωδικοποίηση κειμένου
-    .accesskey = Κ
+    .accesskey = κ
 fonts-languages-fallback-name-auto =
     .label = Προεπιλογή για την τρέχουσα γλώσσα
 fonts-languages-fallback-name-arabic =
