@@ -81,6 +81,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Žádné otevřené panely
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Zapněte synchronizaci panelů pro zobrazení seznamu panelů z vašich ostatních zařízení.
+appmenu-remote-tabs-opensettings =
+    .label = Nastavení
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Chcete zde vidět své panely z ostatních zařízení?
