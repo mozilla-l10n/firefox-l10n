@@ -79,6 +79,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = No hay pestañas abiertas
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Activa la sincronización de pestañas para ver una lista de las pestañas de tus otros dispositivos.
+appmenu-remote-tabs-opensettings =
+    .label = Ajustes
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ¿Te gustaría ver las pestañas de tus otros dispositivos aquí?
