@@ -12,6 +12,16 @@ calendar-delete-event-prompt-message =
         [one] Vole tu vermente deler iste evento?
        *[other] Vole tu vermente deler iste { $count } eventos?
     }
+calendar-delete-task-prompt-title =
+    { $count ->
+        [one] Deler activitate
+       *[other] Deler activitates
+    }
+calendar-delete-task-prompt-message =
+    { $count ->
+        [one] Vole tu vermente deler iste activitate?
+       *[other] Vole tu vermente deler iste { $count } activitates?
+    }
 calendar-delete-item-prompt-title =
     { $count ->
         [one] Deler elemento
