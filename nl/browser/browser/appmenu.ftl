@@ -79,6 +79,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Geen open tabbladen
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Zet tabbladsynchronisatie aan om een lijst van tabbladen van uw andere apparaten weer te geven.
+appmenu-remote-tabs-opensettings =
+    .label = Instellingen
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Wilt u hier uw tabbladen van andere apparaten zien?
