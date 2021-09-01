@@ -248,7 +248,7 @@
 <!ENTITY bodyMenu.label "Formatar mensagens como">
 <!ENTITY bodyMenu.accesskey "o">
 <!ENTITY bodyAllowHTML.label "HTML original">
-<!ENTITY bodyAllowHTML.accesskey "F">
+<!ENTITY bodyAllowHTML.accesskey "o">
 <!ENTITY bodySanitized.label "HTML simples">
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Sem formatação">
@@ -478,7 +478,7 @@
 <!ENTITY activitymanager.label "Gerenciador de atividade">
 <!ENTITY activitymanager.accesskey "G">
 <!ENTITY imAccountsStatus.label "Status em conversas">
-<!ENTITY imAccountsStatus.accesskey "b">
+<!ENTITY imAccountsStatus.accesskey "v">
 <!ENTITY imStatus.available          "Disponível">
 <!ENTITY imStatus.unavailable        "Ocupado">
 <!ENTITY imStatus.offline            "Desconectado">
