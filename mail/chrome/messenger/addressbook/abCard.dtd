@@ -119,7 +119,7 @@
 <!ENTITY Notes.accesskey                "N">
 
 <!ENTITY Chat.tab                       "Conversa">
-<!ENTITY Chat.accesskey                 "B">
+<!ENTITY Chat.accesskey                 "v">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
@@ -153,4 +153,4 @@
 <!ENTITY PhotoURL.placeholder           "Digite ou cole o endereço web de uma foto">
 <!ENTITY UpdatePhoto.label              "Atualizar">
 <!ENTITY UpdatePhoto.accesskey          "u">
-<!ENTITY PhotoDropTarget.label          "Arraste para cá uma nova foto">
+<!ENTITY PhotoDropTarget.label          "Arraste uma foto para cá">
