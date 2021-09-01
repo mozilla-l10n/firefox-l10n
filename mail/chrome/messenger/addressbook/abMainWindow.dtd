@@ -175,13 +175,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY PrimaryEmail.label                             "Email">
 <!ENTITY PrimaryEmail.accesskey                         "E">
 <!ENTITY ChatName.label                                 "Nome da conversa">
-<!ENTITY ChatName.accesskey                             "B">
+<!ENTITY ChatName.accesskey                             "c">
 <!ENTITY Company.label                                  "Organização">
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Apelido">
 <!ENTITY NickName.accesskey                             "A">
 <!ENTITY SecondEmail.label                              "Email adicional">
-<!ENTITY SecondEmail.accesskey                          "v">
+<!ENTITY SecondEmail.accesskey                          "d">
 <!ENTITY Department.label                               "Setor">
 <!ENTITY Department.accesskey                           "S">
 <!ENTITY JobTitle.label                                 "Cargo">

@@ -15,7 +15,7 @@
 <!ENTITY NickName.label                        "Apelido">
 <!ENTITY NickName.accesskey                    "i">
 <!ENTITY SecondEmail.label                     "Email adicional">
-<!ENTITY SecondEmail.accesskey                 "l">
+<!ENTITY SecondEmail.accesskey                 "d">
 <!ENTITY Department.label                      "Setor">
 <!ENTITY Department.accesskey                  "r">
 <!ENTITY JobTitle.label                        "Cargo">
@@ -31,7 +31,7 @@
 <!ENTITY WorkPhone.label                       "Telefone comercial">
 <!ENTITY WorkPhone.accesskey                   "c">
 <!ENTITY ChatName.label                        "Nome da conversa">
-<!ENTITY ChatName.accesskey                    "b">
+<!ENTITY ChatName.accesskey                    "c">
 <!ENTITY sortAscending.label                   "Ordem crescente">
 <!ENTITY sortAscending.accesskey               "c">
 <!ENTITY sortDescending.label                  "Ordem decrescente">
