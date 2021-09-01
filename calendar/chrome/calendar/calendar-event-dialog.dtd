@@ -204,7 +204,7 @@
 <!ENTITY event.location.accesskey                         "L">
 <!ENTITY event.categories.label                           "Categoria:">
 <!ENTITY event.categories.accesskey                       "g">
-<!ENTITY event.categories.textbox.label                   "Adicionar uma nova categoria" >
+<!ENTITY event.categories.textbox.label                   "Adicionar nova categoria" >
 <!ENTITY event.calendar.label                             "Agenda:" >
 <!ENTITY event.calendar.accesskey                         "A">
 <!ENTITY event.attendees.label                            "Participantes:" >
@@ -284,7 +284,7 @@
 <!ENTITY event.recurrence.year.label                    "anualmente" >
 
 <!ENTITY event.recurrence.pattern.every.label           "A cada" >
-<!ENTITY repeat.units.days.both                         "Dia(s)" >
+<!ENTITY repeat.units.days.both                         "dia(s)" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "A cada dia útil" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "A cada" >
@@ -367,9 +367,9 @@
 <!ENTITY event.recurrence.range.label                   "Período de recorrência">
 <!ENTITY event.recurrence.forever.label                 "Indefinidamente" >
 <!ENTITY event.recurrence.repeat.for.label              "Criar" >
-<!ENTITY event.recurrence.appointments.label            "Compromissos(s)" >
+<!ENTITY event.recurrence.appointments.label            "compromisso(s)" >
 <!ENTITY event.repeat.until.label                       "Repetir até" >
-<!ENTITY event.recurrence.preview.label                 "Visualizar">
+<!ENTITY event.recurrence.preview.label                 "Visão prévia">
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Convidar participantes">
