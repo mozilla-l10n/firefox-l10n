@@ -4,6 +4,8 @@
 
 do-not-track-description = Ба сомонаҳо сигнали “Пайгирӣ карда нашавад”-ро фиристонед, то ки шуморо пайгирӣ накунанд
 do-not-track-learn-more = Маълумоти бештар
+do-not-track-option-default-content-blocking-known =
+    .label = Танҳо вақте ки { -brand-short-name } барои манъ кардани васоити пайгирии маълум танзим шудааст
 do-not-track-option-always =
     .label = Ҳамеша
 pref-page-title =
@@ -592,9 +594,11 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Сомонаҳои худро бо худ гиред
+sync-signedout-description = Хатбаракҳо, таърих, варақаҳо, ниҳонвожаҳо, ҷузъҳои иловагӣ ва афзалиятҳои худро дар ҳамаи дастгоҳҳои худ ҳамоҳанг созед.
 sync-signedout-account-signin2 =
     .label = Ба { -sync-brand-short-name } ворид шавед…
     .accesskey = Б
+sync-signedout-description2 = Хатбаракҳо, таърих, варақаҳо, ниҳонвожаҳо, ҷузъҳои иловагӣ ва танзимоти худро дар ҳамаи дастгоҳҳои худ ҳамоҳанг созед.
 sync-signedout-account-signin3 =
     .label = Барои ҳамоҳангсозӣ ворид шавед…
     .accesskey = Б
@@ -627,9 +631,11 @@ prefs-syncing-off = Ҳамоҳангсозӣ: Ғайрифаъол
 prefs-sync-setup =
     .label = Танзимоти { -sync-brand-short-name }…
     .accesskey = Т
+prefs-sync-offer-setup-label = Хатбаракҳо, таърих, варақаҳо, ниҳонвожаҳо, ҷузъҳои иловагӣ ва афзалиятҳои худро дар ҳамаи дастгоҳҳои худ ҳамоҳанг созед.
 prefs-sync-turn-on-syncing =
     .label = Фаъол кардани ҳамоҳангсозӣ…
     .accesskey = Ф
+prefs-sync-offer-setup-label2 = Хатбаракҳо, таърих, варақаҳо, ниҳонвожаҳо, ҷузъҳои иловагӣ ва танзимоти худро дар ҳамаи дастгоҳҳои худ ҳамоҳанг созед.
 prefs-sync-now =
     .labelnotsyncing = Ҳозир ҳамоҳанг кунед
     .accesskeynotsyncing = Ҳ

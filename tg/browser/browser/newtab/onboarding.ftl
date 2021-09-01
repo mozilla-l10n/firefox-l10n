@@ -23,6 +23,11 @@ onboarding-button-label-get-started = Оғози кор
 ### widowed word, so test on various window sizes if you also want this.
 
 
+### UI strings for the MR1 onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
 ## Welcome page strings
 
 onboarding-welcome-header = Хуш омадед ба { -brand-short-name }
@@ -79,6 +84,8 @@ onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-tracking-protection-title2 = Муҳофизат аз пайгирӣ
 onboarding-tracking-protection-button2 = Чӣ тавр кор мекунад
 onboarding-data-sync-title = Танзимоти худро бо худ гиред
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Хатбаракҳо, ниҳонвожаҳо ва чизҳои бештарро дар ҳама ҷое, ки шумо аз { -brand-product-name } истифода мебаред, ҳамоҳанг созед.
 onboarding-data-sync-button2 = Ба { -sync-brand-short-name } ворид шавед
 onboarding-firefox-monitor-button = Барои огоҳиҳо обуна шавед
 onboarding-browse-privately-title = Тамошокунии махфӣ
@@ -132,6 +139,9 @@ onboarding-multistage-set-default-secondary-button-label = Ҳоло не
 onboarding-multistage-pin-default-primary-button-label = Таъин кардани { -brand-short-name } ҳамчун браузери асосии ман
 onboarding-multistage-import-primary-button-label = Оғоз кардани воридкунӣ
 onboarding-multistage-import-secondary-button-label = Ҳоло не
+
+## Multistage onboarding strings (about:welcome pages)
+
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
@@ -150,55 +160,6 @@ onboarding-multistage-theme-label-light = Равшан
 onboarding-multistage-theme-label-dark = Торик
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
 onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic-2 =
-    .title =
-        Барои намуди зоҳирии тугмаҳо, менюҳо ва равзанаҳо
-        мавзӯи низоми амалкунандаи шуморо истифода мебарад.
-# Input description for automatic theme
-onboarding-multistage-theme-description-automatic-2 =
-    .aria-description =
-        Барои намуди зоҳирии тугмаҳо, менюҳо ва равзанаҳо
-        мавзӯи низоми амалкунандаи шуморо истифода мебарад.
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light-2 =
-    .title =
-        Барои тугмаҳо, менюҳо ва равзанаҳо
-        намуди зоҳирии равшанро истифода мебарад.
-# Input description for light theme
-onboarding-multistage-theme-description-light =
-    .aria-description =
-        Барои тугмаҳо, менюҳо ва равзанаҳо
-        намуди зоҳирии равшанро истифода мебарад.
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark-2 =
-    .title =
-        Барои тугмаҳо, менюҳо ва равзанаҳо
-        намуди зоҳирии торикро истифода мебарад.
-# Input description for dark theme
-onboarding-multistage-theme-description-dark =
-    .aria-description =
-        Барои тугмаҳо, менюҳо ва равзанаҳо
-        намуди зоҳирии торикро истифода мебарад.
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow-2 =
-    .title =
-        Барои тугмаҳо, менюҳо ва равзанаҳо
-        намуди зоҳирии рангинро истифода мебарад.
-# Input description for Alpenglow theme
-onboarding-multistage-theme-description-alpenglow =
-    .aria-description =
-        Барои тугмаҳо, менюҳо ва равзанаҳо
-        намуди зоҳирии рангинро истифода мебарад.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
-
 # "Hero Text" displayed on left side of welcome screen.
 # The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
 # It also signals the passion users bring to Firefox, how they use
@@ -266,6 +227,55 @@ mr1-onboarding-theme-label-alpenglow = Нури алпӣ
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
+
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Барои намуди зоҳирии тугмаҳо, менюҳо ва равзанаҳо
+        мавзӯи низоми амалкунандаи шуморо истифода мебарад.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Барои намуди зоҳирии тугмаҳо, менюҳо ва равзанаҳо
+        мавзӯи низоми амалкунандаи шуморо истифода мебарад.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Барои тугмаҳо, менюҳо ва равзанаҳо
+        намуди зоҳирии равшанро истифода мебарад.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Барои тугмаҳо, менюҳо ва равзанаҳо
+        намуди зоҳирии равшанро истифода мебарад.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Барои тугмаҳо, менюҳо ва равзанаҳо
+        намуди зоҳирии торикро истифода мебарад.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Барои тугмаҳо, менюҳо ва равзанаҳо
+        намуди зоҳирии торикро истифода мебарад.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Барои тугмаҳо, менюҳо ва равзанаҳо
+        намуди зоҳирии рангинро истифода мебарад.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Барои тугмаҳо, менюҳо ва равзанаҳо
+        намуди зоҳирии рангинро истифода мебарад.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
