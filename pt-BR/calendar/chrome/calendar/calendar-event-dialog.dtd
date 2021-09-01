@@ -36,9 +36,9 @@
 <!ENTITY event.attendees.notify.label                "Notificar participantes">
 <!ENTITY event.attendees.notify.accesskey            "f">
 <!ENTITY event.attendees.notifyundisclosed.label     "Convite separado por participante">
-<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
-<!ENTITY event.attendees.notifyundisclosed.tooltip   "Esta opção envia um email de convite por participante. Cada convite contém apenas o participante destinatário para que as identidades dos participantes não sejam divulgadas.">
-<!ENTITY event.attendees.disallowcounter.label       "Anular o contador">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "s">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Esta opção envia um email de convite por participante. Cada convite contém apenas o destinatário do participante, para que a identidade dos outros participantes não seja revelada.">
+<!ENTITY event.attendees.disallowcounter.label       "Não permitir propostas de alteração">
 <!ENTITY event.attendees.disallowcounter.accesskey   "a">
 <!ENTITY event.attendees.disallowcounter.tooltip     "Indica que você não aceitará contrapropostas">
 
@@ -261,13 +261,13 @@
 
 <!ENTITY event.reminder.multiple.label                    "Lembretes múltiplos…" >
 
-<!ENTITY event.statusbarpanel.freebusy.label              "Duração:">
+<!ENTITY event.statusbarpanel.freebusy.label              "Disponibilidade:">
 <!ENTITY event.statusbarpanel.privacy.label               "Privacidade:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Editar recorrência">
 
-<!ENTITY event.repeat.does.not.repeat.label             "Não repete">
+<!ENTITY event.repeat.does.not.repeat.label             "Não repetir">
 <!ENTITY event.repeat.daily.label                       "Diariamente">
 <!ENTITY event.repeat.weekly.label                      "Semanalmente">
 <!ENTITY event.repeat.every.weekday.label               "A cada dia útil">
@@ -277,7 +277,7 @@
 <!ENTITY event.repeat.custom.label                      "Personalizada…">
 
 <!ENTITY event.recurrence.pattern.label                 "Padrão de recorrência">
-<!ENTITY event.recurrence.occurs.label                  "Repete" >
+<!ENTITY event.recurrence.occurs.label                  "Repetir" >
 <!ENTITY event.recurrence.day.label                     "diariamente" >
 <!ENTITY event.recurrence.week.label                    "semanalmente" >
 <!ENTITY event.recurrence.month.label                   "mensalmente" >
@@ -289,10 +289,10 @@
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "A cada" >
 <!ENTITY repeat.units.weeks.both                        "Semana(s)" >
-<!ENTITY event.recurrence.on.label                      "No:" >
+<!ENTITY event.recurrence.on.label                      "Em:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "A cada" >
-<!ENTITY repeat.units.months.both                       "Mês(es)" >
+<!ENTITY repeat.units.months.both                       "mês(meses)" >
 <!ENTITY event.recurrence.monthly.every.label           "A cada" >
 <!ENTITY event.recurrence.monthly.first.label           "No(a) primeiro(a)">
 <!ENTITY event.recurrence.monthly.second.label          "No(a) segundo(a)">
@@ -308,10 +308,10 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "Sexta-feira" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "Sábado" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "Dia do mês">
-<!ENTITY event.recurrence.repeat.recur.label            "Repete nos dia(s)">
+<!ENTITY event.recurrence.repeat.recur.label            "Repetir no(s) dia(s)">
 
 <!ENTITY event.recurrence.every.label                        "A cada:" >
-<!ENTITY repeat.units.years.both                             "Ano(s)" >
+<!ENTITY repeat.units.years.both                             "ano(s)" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "A cada" >
 
 <!-- LOCALIZATON NOTE
