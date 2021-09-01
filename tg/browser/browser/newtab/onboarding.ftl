@@ -71,6 +71,7 @@ onboarding-sync-form-header = Почтаи электронии худро во�
 ## description.
 
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Хатбаракҳо, ниҳонвожаҳо ва чизҳои бештарро дар ҳама ҷое, ки шумо аз { -brand-product-name } истифода мебаред, ба даст оред.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 

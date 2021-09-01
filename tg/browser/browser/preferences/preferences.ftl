@@ -602,6 +602,15 @@ sync-signedout-description2 = Хатбаракҳо, таърих, варақаҳ
 sync-signedout-account-signin3 =
     .label = Барои ҳамоҳангсозӣ ворид шавед…
     .accesskey = Б
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Firefox-ро барои <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ё <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> боргирӣ кунед ва бо дастгоҳи мобилии худ ҳамоҳанг созед.
 
 ## Firefox Account - Signed in
 
