@@ -2,6 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-delete-event-prompt-title =
+    { $count ->
+        [one] Deler evento
+       *[other] Deler eventos
+    }
+calendar-delete-event-prompt-message =
+    { $count ->
+        [one] Vole tu vermente deler iste evento?
+       *[other] Vole tu vermente deler iste { $count } eventos?
+    }
 calendar-delete-item-prompt-title =
     { $count ->
         [one] Deler elemento
