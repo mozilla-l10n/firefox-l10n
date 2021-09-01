@@ -67,6 +67,7 @@ about-logins-list-item-breach-icon =
     .title = بریچڈ ویب سائٹیں
 about-logins-list-item-vulnerable-password-icon =
     .title = کمزور پاسورڈ
+about-logins-list-section-breach = خلاف ورزی کرنے والی ویب سائٹیں
 about-logins-list-section-vulnerable = کمزور پاسورڈ
 about-logins-list-section-nothing = کوئی انتباہ نہیں۔
 about-logins-list-section-today = آج

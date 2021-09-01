@@ -73,6 +73,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = کوئی کھولی ہوئی ٹیب نہیں
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = اپنے دیگر آلات پر ٹیب کی فہرست دیکھنے کے لئے ٹیب ہم سازی آن کر دیں۔
+appmenu-remote-tabs-opensettings =
+    .label = ترتیبات
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟
