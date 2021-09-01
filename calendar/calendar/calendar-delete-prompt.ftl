@@ -32,3 +32,10 @@ calendar-delete-item-prompt-title =
         [few] Избриши ставке
        *[other] Избриши ставки
     }
+calendar-delete-item-prompt-message =
+    { $count ->
+        [one] Да ли стварно желите да избришете ову ставку?
+        [few] Да ли стварно желите да избришете ове { $count } ставке?
+       *[other] Да ли стварно желите да избришете ових { $count } ставки?
+    }
+calendar-delete-prompt-disable-message = Не питај поново.
