@@ -17,5 +17,5 @@ all-tabs-menu-new-user-context =
 all-tabs-menu-hidden-tabs =
     .label = Κρυμμένες καρτέλες
 all-tabs-menu-manage-user-context =
-    .label = Διαχείριση θεματικών καρτελών
+    .label = Διαχείριση θεματικών ενοτήτων
     .accesskey = Θ

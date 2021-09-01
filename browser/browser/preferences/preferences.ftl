@@ -206,16 +206,16 @@ containers-disable-alert-ok-button =
        *[other] Κλείσιμο { $tabCount } θεματικών καρτελών
     }
 containers-disable-alert-cancel-button = Να παραμείνουν ενεργές
-containers-remove-alert-title = Αφαίρεση θεματικής κατηγορίας;
+containers-remove-alert-title = Αφαίρεση θεματικής καρτέλας;
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Αν αφαιρέσετε αυτή τη θεματική κατηγορία τώρα, θα κλείσει { $count } θεματική καρτέλα. Θέλετε σίγουρα να αφαιρέσετε αυτή τη θεματική κατηγορία;
-       *[other] Αν αφαιρέσετε αυτή τη θεματική κατηγορία τώρα, θα κλείσουν { $count } θεματικές καρτέλες. Θέλετε σίγουρα να αφαιρέσετε αυτή τη θεματική κατηγορία;
+        [one] Αν αφαιρέσετε αυτήν τη θεματική ενότητα τώρα, θα κλείσει { $count } θεματική καρτέλα. Θέλετε σίγουρα να αφαιρέσετε αυτήν τη θεματική ενότητα;
+       *[other] Αν αφαιρέσετε αυτήν τη θεματική ενότητα τώρα, θα κλείσουν { $count } θεματικές καρτέλες. Θέλετε σίγουρα να αφαιρέσετε αυτήν τη θεματική ενότητα;
     }
-containers-remove-ok-button = Αφαίρεση θεματικής κατηγορίας
-containers-remove-cancel-button = Διατήρηση θεματικής κατηγορίας
+containers-remove-ok-button = Αφαίρεση θεματικής ενότητας
+containers-remove-cancel-button = Διατήρηση θεματικής ενότητας
 
 ## General Section - Language & Appearance
 
@@ -654,7 +654,7 @@ containers-add-button =
     .label = Προσθήκη νέας θεματικής ενότητας
     .accesskey = Π
 containers-new-tab-check =
-    .label = Επιλογή κατηγορίας για κάθε νέα καρτέλα
+    .label = Επιλογή ενότητας για κάθε νέα καρτέλα
     .accesskey = Ε
 containers-preferences-button =
     .label = Προτιμήσεις
