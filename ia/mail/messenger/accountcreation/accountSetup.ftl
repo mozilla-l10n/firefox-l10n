@@ -39,6 +39,8 @@ account-provisioner-button = Obtene un nove adresse e-mail
     .accesskey = O
 account-setup-password-toggle =
     .title = Monstrar/celar le contrasigno
+account-setup-password-toggle-show =
+    .title = Monstrar le contrasigno in texto simple
 account-setup-password-toggle-hide =
     .title = Celar contrasigno
 account-setup-remember-password = Rememorar le contrasigno
@@ -211,6 +213,7 @@ exchange-dialog-cancel-button = Cancellar
 
 ## Dismiss account creation dialog
 
+exit-dialog-title = Nulle conto email configurate
 exit-dialog-cancel-button = Continuar le configuration
     .accesskey = C
 exit-dialog-confirm-button = Quitar le configuration
