@@ -1023,6 +1023,7 @@ permissions-a11y-privacy-link = Маълумоти бештар
 
 ## Privacy Section - Data Collection
 
+collection-header = Ҷамъоварӣ ва истифодаи маълумот аз ҷониби { -brand-short-name }
 collection-privacy-notice = Огоҳиномаи махфият
 collection-health-report-telemetry-disabled-link = Маълумоти бештар
 collection-health-report-link = Маълумоти бештар
@@ -1043,6 +1044,9 @@ security-enable-safe-browsing-link = Маълумоти бештар
 security-block-downloads =
     .label = Манъ кардани боргириҳои зараровар
     .accesskey = М
+security-block-uncommon-software =
+    .label = Огоҳ кардан дар бораи нармафзори номатлуб ва ғайриоддӣ
+    .accesskey = О
 
 ## Privacy Section - Certificates
 
