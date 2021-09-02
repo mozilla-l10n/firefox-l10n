@@ -9,10 +9,11 @@
 ## user accepts.
 
 prompt-to-install-title = { -brand-short-name } ইনষ্টল কৰা শেষ কৰিবনে?
-prompt-to-install-message = { -brand-short-name } আপ টু ডেট ৰখাত আৰু ডাটা হেৰুওৱা প্ৰতিহত কৰিবলৈ এই এটা পদক্ষেপযুক্ত ইনষ্টলেশ্যন সম্পূৰ্ণ কৰক। আপোনাৰ এপ্লিকেশ্যন ফ'ল্ডাৰ আৰু ডকত { -brand-short-name } যোগ কৰা হ'ব।
+prompt-to-install-message = { -brand-short-name } আপ-টু-ডেট ৰখাত সহায় কৰিবলৈ আৰু ডাটা হেৰুওৱা ৰোধ কৰিবলৈ এই এটা পদক্ষেপযুক্ত ইনষ্টলেশ্যন সম্পূৰ্ণ কৰক। আপোনাৰ এপ্লিকেশ্যন ফ'ল্ডাৰ আৰু ডকত { -brand-short-name } যোগ কৰা হ'ব।
 prompt-to-install-yes-button = ইনষ্টল কৰক
 prompt-to-install-no-button = ইনষ্টল নকৰিব
 
 ## Strings for a dialog that opens if the installation failed.
 
 install-failed-title = { -brand-short-name } ইনষ্টলেশ্যন বিফল হ'ল।
+install-failed-message = { -brand-short-name } ইনষ্টল হোৱাত বিফল হ'ল যদিও চলি থাকিব।
