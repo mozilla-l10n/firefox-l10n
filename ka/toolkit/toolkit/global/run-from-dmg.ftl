@@ -8,9 +8,12 @@
 ## appropriate location before relaunching itself from that location if the
 ## user accepts.
 
+prompt-to-install-title = გსურთ, სრულად დააყენოთ { -brand-short-name }?
+prompt-to-install-message = ამ ერთსაფეხურიანი დაყენების დასრულებით, { -brand-short-name } განახლდება, მონაცემების შენარჩუნებით. { -brand-short-name } დაემატება თქვენი პროგრამების საქაღალდეში და გამოჩნდება Dock-ზოლზე.
 prompt-to-install-yes-button = დაყენება
 prompt-to-install-no-button = დაყენების გარეშე
 
 ## Strings for a dialog that opens if the installation failed.
 
 install-failed-title = { -brand-short-name } ვერ დაყენდა.
+install-failed-message = { -brand-short-name } ვერ დაყენდა, მაგრამ განაგრძობს მუშაობას.
