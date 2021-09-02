@@ -102,6 +102,9 @@ places-edit-generic =
 places-edit-folder =
   .label = Rinomina cartella…
   .accesskey = e
+places-edit-folder2 =
+  .label = Modifica cartella…
+  .accesskey = M
 places-remove-folder =
   .label =
       { $count ->
@@ -109,6 +112,13 @@ places-remove-folder =
          *[other] Rimuovi cartelle
       }
   .accesskey = v
+places-delete-folder =
+  .label =
+      { $count ->
+          [1] Elimina cartella
+         *[other] Elimina cartelle
+      }
+  .accesskey = n
 
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
@@ -124,6 +134,13 @@ other-bookmarks-folder =
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
+    .label =
+      { $count ->
+          [1] Elimina segnalibro
+         *[other] Elimina segnalibri
+      }
+    .accesskey = E
+places-delete-bookmark =
     .label =
       { $count ->
           [1] Elimina segnalibro
