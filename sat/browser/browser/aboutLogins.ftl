@@ -241,11 +241,13 @@ about-logins-import-dialog-error-file-permission-title = ᱨᱮᱫ ᱯᱟᱲᱦ�
 about-logins-import-dialog-error-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 about-logins-import-dialog-error-cancel = ᱵᱟᱹᱰᱨᱟᱹ
 about-logins-import-report-row-description-added = ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ
+about-logins-import-report-row-description-error = ᱵᱷᱩᱞ: ᱟᱫ ᱡᱟᱭᱜᱟ
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = ᱦᱩᱰᱟᱹᱜᱺ { $field } ᱞᱟᱹᱜᱤᱫ ᱟᱭᱢᱟ ᱜᱚᱱᱚᱝ
 about-logins-import-report-row-description-error-missing-field = ᱵᱷᱩᱞ: ᱟᱫ{ $field }
 
 ##
