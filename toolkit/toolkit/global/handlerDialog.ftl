@@ -47,6 +47,11 @@ chooser-dialog =
 chooser-dialog-description = { $scheme } লিংক খুলিবলৈ এটা এপ্লিকেশ্যন বাছি লওক।
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = <strong>{ $scheme }</strong> লিংক খুলিবলৈ সদায় এই এপ্লিকেশ্যনটো ব্যৱহাৰ কৰিব
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] এয়া { -brand-short-name }-ৰ বিকল্পসমূহত সলনি কৰিব পাৰি।
+       *[other] এয়া { -brand-short-name }-ৰ পছন্দসমূহত সলনি কৰিব পাৰি।
+    }
 choose-other-app-description = আন এপ্লিকেশ্যন বাছি লওক
 choose-app-btn =
     .label = বাছক…
