@@ -1024,11 +1024,24 @@ permissions-a11y-privacy-link = Маълумоти бештар
 ## Privacy Section - Data Collection
 
 collection-header = Ҷамъоварӣ ва истифодаи маълумот аз ҷониби { -brand-short-name }
+collection-description = Мо мекӯшем, ки ба шумо имконотро пешниҳод намоем ва танҳо он чизеро ҷамъ кунем, ки барои таъмин ва такмил додани { -brand-short-name } барои ҳамаи мо лозим мебошад. Мо ҳамеша пеш аз гирифтани маълумоти шахсӣ иҷозат мепурсем.
 collection-privacy-notice = Огоҳиномаи махфият
 collection-health-report-telemetry-disabled-link = Маълумоти бештар
+collection-health-report =
+    .label = Иҷозат додан ба { -brand-short-name } барои фиристодани маълумоти техникӣ ва якҷояамалкунӣ ба { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Маълумоти бештар
+collection-studies =
+    .label = Иҷозат додан ба { -brand-short-name } барои насб ва иҷро кардани таҳқиқот
+addon-recommendations =
+    .label = Иҷозат додан ба { -brand-short-name } барои пешниҳод кардани тавсияҳои шахсӣ оид ба васеъшавиҳо
 addon-recommendations-link = Маълумоти бештар
+collection-backlogged-crash-reports =
+    .label = Иҷозат додан ба { -brand-short-name } барои фиристодани аз номи шумо гузоришҳо бо сабтҳои вайроншавӣ ва корҳои иҷронашуда
+    .accesskey = И
 collection-backlogged-crash-reports-link = Маълумоти бештар
+collection-backlogged-crash-reports-with-link = Иҷозат додан ба { -brand-short-name } барои фиристодани аз номи шумо гузоришҳо бо сабтҳои вайроншавӣ ва корҳои иҷронашуда <a data-l10n-name="crash-reports-link">Маълумоти бештар</a>
+    .accesskey = И
 
 ## Privacy Section - Security
 ##
