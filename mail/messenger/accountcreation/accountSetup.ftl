@@ -218,6 +218,10 @@ exchange-dialog-cancel-button = Utzi
 exit-dialog-title = Ez dago posta helbiderik konfiguratua
 account-setup-no-account-checkbox = Erabili { -brand-short-name } posta elektroniko kontu gabe
     .accesskey = E
+exit-dialog-cancel-button = Jarraitu konfigurazioa
+    .accesskey = J
+exit-dialog-confirm-button = Irten konfiguraziotik
+    .accesskey = I
 
 ## Alert dialogs
 
