@@ -41,6 +41,10 @@ account-provisioner-button = Eskuratu posta elektroniko berri bat
     .accesskey = p
 account-setup-password-toggle =
     .title = Erakutsi/ezkutatu pasahitza
+account-setup-password-toggle-show =
+    .title = Erakutsi pasahitza testu garbian
+account-setup-password-toggle-hide =
+    .title = Ezkutatu pasahitza
 account-setup-remember-password = Gogoratu pasahitza
     .accesskey = G
 account-setup-exchange-label = Zure saio hasiera:
@@ -208,6 +212,12 @@ insecure-dialog-confirm-button = Berretsi
 exchange-dialog-question = { -brand-short-name } zure kontuko ezarpenak aurkitu ditu hemen: { $domain }. Jarraitu nahi duzu eta zure kredentzialak aurkeztu?
 exchange-dialog-confirm-button = Saio-hasiera
 exchange-dialog-cancel-button = Utzi
+
+## Dismiss account creation dialog
+
+exit-dialog-title = Ez dago posta helbiderik konfiguratua
+account-setup-no-account-checkbox = Erabili { -brand-short-name } posta elektroniko kontu gabe
+    .accesskey = E
 
 ## Alert dialogs
 
