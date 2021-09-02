@@ -554,6 +554,12 @@ urlbar-result-action-search-tabs = টেবসমূহত সন্ধান �
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine }-ৰ পৰামৰ্শাৱলী
 
 ## Full Screen and Pointer Lock UI
 
@@ -687,6 +693,9 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = অফলাইন কাম কৰক
     .accesskey = k
+toolbar-overflow-customize-button =
+    .label = টুলবাৰ কাষ্টমাইজ কৰক...
+    .accesskey = C
 
 ## EME notification panel
 
@@ -737,3 +746,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = যেতিয়া পপ-আপসমূহ প্ৰতিৰোধিত তেতিয়া এই বাৰ্তা নেদেখাব
     .accesskey = D
+picture-in-picture-hide-toggle =
+    .label = "ছবিৰ-ওপৰত-ছবি"ৰ ট'গল লুকুৱাওক
+    .accesskey = H
