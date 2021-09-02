@@ -4,7 +4,13 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
-
 # Description of the import module
 thunderbird-import-description = Thunderbird profil dizininden postaları içe aktar.
-
+import-from-thunderbird-dir =
+    .label = Thunderbird (profil klasörü)
+    .accesskey = T
+import-select-profile-zip = Sıkıştırılmış bir profil dizini seçin
+import-select-profile-dir = Bir profil dizini seçin
+zip-file-too-big-title = Zip dosyası çok büyük
+wizardpage-failed =
+    .label = İçe aktarma başarısız

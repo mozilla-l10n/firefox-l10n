@@ -5,6 +5,8 @@
 export-dialog-brand-name = { -brand-product-name }
 export-dialog-window =
     .title = Dışa aktar
+export-dialog =
+    .buttonlabelaccept = İleri
 export-dialog-button-finish = Bitir
 export-dialog-file-picker = Zip dosyasına aktar
 export-dialog-desc1 = Posta hesaplarını, posta iletilerini, adres defterlerini, tercihleri bir zip dosyasına aktarın.

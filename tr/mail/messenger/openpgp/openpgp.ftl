@@ -295,6 +295,8 @@ openpgp-keygen-external-success = Harici GnuPG anahtar kimliği kaydedildi!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Hiçbiri
 openpgp-radio-none-desc = Bu kimlik için OpenPGP kullanma.
 openpgp-radio-key-not-usable = Gizli anahtar eksik olduğu için bu anahtar kişisel anahtar olarak kullanılamaz.
 openpgp-radio-key-not-accepted = Bu anahtarı kullanmak için kişisel anahtar olarak onaylamanız gerekiyor.
@@ -307,6 +309,8 @@ openpgp-key-expires-image =
 openpgp-radio-key-expired = Son geçerlilik tarihi: { $date }
 openpgp-key-expired-image =
     .tooltiptext = Anahtarın süresi doldu
+openpgp-key-expires-within-6-months-icon =
+    .title = Anahtarın süresi 6 aydan kısa bir süre içinde dolacak
 openpgp-key-has-expired-icon =
     .title = Anahtarın süresi doldu
 openpgp-key-expand-section =

@@ -158,6 +158,28 @@ bcc-compose-show-address-row-label =
     .tooltiptext = { bcc-compose-address-row-label.value } alanını göster ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Kime ve Cc alanlarındaki { $count } alıcı birbirlerinin adresini görebilecek. Bunun yerine Bcc kullanarak alıcıları göstermekten kaçınabilirsiniz.
+to-address-row-label =
+    .value = Kime
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Kime alanı
+    .accesskey = K
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Kime
+    .accesskey = K
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Kime
+    .title = Kime alanını göster ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Cc
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Cc alanı
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
 # The label should match the show-cc-row-button text.
 show-cc-row-extra-menuitem =
@@ -181,6 +203,8 @@ show-bcc-row-extra-menuitem =
 #   $key (String) - the shortcut key for this field
 show-bcc-row-button = Bcc
     .title = Bcc alanını göster ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Gösterilecek diğer adres alanları
 many-public-recipients-bcc =
     .label = Bcc kullan
     .accesskey = B
