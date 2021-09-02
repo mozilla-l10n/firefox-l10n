@@ -1064,6 +1064,9 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Гувоҳиномаҳо
+certs-enable-ocsp =
+    .label = Фиристодани дархостҳо ба серверҳои OCSP барои тасдиқ кардани эътиборнокии ҷории гувоҳиномаҳо
+    .accesskey = Ф
 certs-view =
     .label = Дидани гувоҳиномаҳо…
     .accesskey = Д
@@ -1094,6 +1097,7 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Реҷаи «Танҳо HTTPS»
+httpsonly-description = HTTPS байни { -brand-short-name } ва сомонаҳое, ки шумо истифода мебаред, пайвастшавии бехатар ва рамзгузоришударо таъмин менамояд. Бисёр сомонаҳо HTTPS-ро дастгирӣ менамоянд, ва агар Реҷаи «Танҳо HTTPS» фаъол шуда бошад, он гоҳ браузери { -brand-short-name } ҳамаи пайвастҳоро ба HTTPS такмил медиҳад.
 httpsonly-learn-more = Маълумоти бештар
 httpsonly-radio-enabled =
     .label = Фаъол кардани реҷаи «Танҳо HTTPS» дар ҳамаи равзанаҳо
