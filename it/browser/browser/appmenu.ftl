@@ -63,10 +63,6 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Accedi per sincronizzare…
 appmenu-remote-tabs-turn-on-sync =
     .label = Attiva sincronizzazione…
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Visualizza tutte
-    .tooltiptext = Visualizza tutte le schede da questo dispositivo
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Mostra più schede
