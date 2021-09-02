@@ -4,28 +4,20 @@
 
 set-desktop-background-window =
     .title = ডেস্কটপৰ পৃষ্ঠভুমি নিৰ্দ্দিষ্ট কৰক
-
 set-desktop-background-accept =
     .label = ডেস্কটপৰ পৃষ্ঠভুমি নিৰ্দ্দিষ্ট কৰক
-
 open-desktop-prefs =
     .label = ডেস্কটপৰ পছন্দসমূহ খোলক
-
+set-background-preview-unavailable = পূৰ্বদৰ্শন অনুপলব্ধ
 set-background-color = ৰং:
-
 set-background-position = স্থান:
-
 set-background-tile =
     .label = টাইল
-
 set-background-center =
     .label = মাজত
-
 set-background-stretch =
     .label = দীঘল কৰক
-
 set-background-fill =
     .label = পূৰ্ণ কৰক
-
 set-background-fit =
     .label = খাপ খুৱাওক
