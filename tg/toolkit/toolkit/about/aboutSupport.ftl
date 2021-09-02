@@ -33,10 +33,27 @@ remote-debugging-url = Нишонии URL
 
 ##
 
-support-third-party-modules-button-open =
-    .title = Кушодани ҷойгиршавии файл…
-support-third-party-modules-folder-icon =
-    .title = Кушодани ҷойгиршавии файл…
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] { $minutes } дақиқа пеш
+       *[other] { $minutes } дақиқа пеш
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] { $hours } соат пеш
+       *[other] { $hours } соат пеш
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] { $days } рӯз пеш
+       *[other] { $days } рӯз пеш
+    }
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
