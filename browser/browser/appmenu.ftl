@@ -67,6 +67,27 @@ appmenu-remote-tabs-sign-into-sync =
     .label = ছিংক কৰিবলৈ ছাইন ইন কৰক…
 appmenu-remote-tabs-turn-on-sync =
     .label = ছিংক চালু কৰক…
+# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
+appmenu-remote-tabs-showall =
+    .label = সকলো দেখুৱাওক
+    .tooltiptext = এই ডিভাইচৰ সকলো টেব দেখুৱাওক
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = অধিক টেব দেখুৱাওক
+    .tooltiptext = এই ডিভাইচৰ অধিক টেব দেখুৱাওক
+# This is shown beneath the name of a device when that device has no open tabs
+appmenu-remote-tabs-notabs = কোনো খোলা টেব নাই
+# This is shown when Sync is configured but syncing tabs is disabled.
+appmenu-remote-tabs-tabsnotsyncing = আপোনাৰ আনবোৰ ডিভাইচৰ টেবৰ তালিকা চাবলৈ টেব ছিংকিং চালু কৰক।
+appmenu-remote-tabs-opensettings =
+    .label = ছেটিংছ
+# This is shown when Sync is configured but this appears to be the only device attached to
+# the account. We also show links to download Firefox for android/ios.
+appmenu-remote-tabs-noclients = ইয়াত আপোনাৰ আনবোৰ ডিভাইচৰ টেবসমূহ চাব বিচাৰেনে?
+appmenu-remote-tabs-connectdevice =
+    .label = আন এটা ডিভাইচ সংযোগ কৰক
+appmenu-remote-tabs-welcome = আপোনাৰ আনবোৰ ডিভাইচৰ টেবৰ তালিকা এখন চাওক।
+appmenu-remote-tabs-unverified = আপোনাৰ একাউণ্টটো প্ৰমাণিত কৰাৰ প্ৰয়োজন আছে।
 appmenuitem-fxa-toolbar-sync-now2 = এতিয়াই ছিংক কৰক
 appmenuitem-fxa-manage-account = একাউণ্ট পৰিচালনা কৰক
 appmenu-fxa-header2 = { -fxaccount-brand-name }
