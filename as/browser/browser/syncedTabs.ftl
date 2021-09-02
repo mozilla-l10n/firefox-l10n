@@ -4,6 +4,9 @@
 
 synced-tabs-sidebar-title = ছিংক কৰা টেবসমূহ
 synced-tabs-sidebar-noclients-subtitle = ইয়াত আপোনাৰ আনবোৰ ডিভাইচৰ টেবসমূহ চাব বিচাৰেনে?
+synced-tabs-sidebar-intro = আপোনাৰ আনবোৰ ডিভাইচৰ টেবৰ তালিকা এখন চাওক।
+synced-tabs-sidebar-unverified = আপোনাৰ একাউণ্টটো প্ৰমাণিত কৰাৰ প্ৰয়োজন আছে।
+synced-tabs-sidebar-notabs = কোনো খোলা টেব নাই
 synced-tabs-context-sync-now =
     .label = এতিয়া সংমিহলি কৰক
     .accesskey = S
