@@ -44,6 +44,12 @@ menu-menuitem-iphone-app = iPhone ᱟᱨ iPad ᱞᱟᱹᱜᱤᱫ { -lockwise-bra
 
 login-list =
     .aria-label = ᱥᱮᱸᱫᱽᱨᱟ ᱚᱞ ᱠᱚ ᱥᱟᱞᱟᱜ ᱢᱮᱲᱟᱣᱜ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ
+login-list-count =
+    { $count ->
+        [one] { $count } ᱵᱚᱞᱚ
+        [two] { $count } ᱵᱚᱞᱚ ᱠᱤᱱ
+       *[other] { $count } ᱵᱚᱞᱚ ᱠᱩᱜ
+    }
 login-list-sort-label-text = ᱥᱚᱨᱴ ᱵᱭᱺ
 login-list-name-option = ᱧᱩᱛᱩᱢ(ᱚᱼᱷ)
 login-list-name-reverse-option = ᱧᱩᱛᱩᱢ(ᱚᱼᱷ)
@@ -63,6 +69,12 @@ about-logins-list-item-breach-icon =
     .title = ᱵᱽᱨᱤᱪ ᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ
 about-logins-list-item-vulnerable-password-icon =
     .title = ᱣᱟᱹᱞᱱᱟᱹᱨᱮᱵᱟᱹᱞ ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ
+about-logins-list-section-breach = ᱵᱽᱨᱤᱪ ᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ
+about-logins-list-section-vulnerable = ᱣᱟᱹᱞᱱᱟᱹᱨᱮᱵᱟᱹᱞ ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ ᱠᱚ
+about-logins-list-section-nothing = ᱪᱮᱫ ᱟᱹᱞᱟᱹᱴ ᱵᱟᱹᱱᱩᱜᱼᱟ
+about-logins-list-section-today = ᱛᱮᱦᱮᱸᱧ
+about-logins-list-section-yesterday = ᱦᱚᱞᱟ
+about-logins-list-section-week = 7 ᱫᱤᱱ ᱢᱟᱲᱟᱝ
 
 ## Introduction screen
 
