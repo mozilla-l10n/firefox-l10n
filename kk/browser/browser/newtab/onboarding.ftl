@@ -177,6 +177,7 @@ onboarding-multistage-set-default-header = { -brand-short-name } өнімін ө
 onboarding-multistage-set-default-subtitle = Әр шолудағы жылдамдық, қауіпсіздік және жекелік.
 onboarding-multistage-set-default-primary-button-label = Негізгі етіп қылу
 onboarding-multistage-set-default-secondary-button-label = Қазір емес
+onboarding-multistage-pin-default-subtitle = Сіз интернетті пайдаланатын әр кездегі жылдам, қауіпсіз және жекелік шолу.
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Парольдер, бетбелгілер және <br/><span data-l10n-name="zap">көптеген басқаны</span> импорттаңыз
