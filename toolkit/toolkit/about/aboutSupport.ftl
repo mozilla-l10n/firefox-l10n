@@ -189,36 +189,6 @@ remote-debugging-url = URL
 
 ##
 
-support-third-party-modules-title = Moduls tèrces
-support-third-party-modules-module = Fichièr del modul
-support-third-party-modules-version = Version del fichièr
-support-third-party-modules-vendor = ID del vendeire
-support-third-party-modules-occurrence = Ocuréncia
-support-third-party-modules-process = Tipe et ID de procediment
-support-third-party-modules-thread = Fil d’execucion
-support-third-party-modules-base = Adreça imagebase
-support-third-party-modules-uptime = Durada de foncionament del processús (ms)
-support-third-party-modules-duration = Durada de cargament (ms)
-support-third-party-modules-status = Estat
-support-third-party-modules-status-loaded = Cargat
-support-third-party-modules-status-blocked = Blocat
-support-third-party-modules-status-redirected = Desviat
-support-third-party-modules-empty = Cap de module tèrç pas cargat.
-support-third-party-modules-no-value = (Cap de valor)
-support-third-party-modules-button-open =
-    .title = Dobrir l’emplaçament del fichièr…
-support-third-party-modules-expand =
-    .title = Mostrar las informacions detalhadas
-support-third-party-modules-collapse =
-    .title = Amagar las informacions detalhadas
-support-third-party-modules-unsigned-icon =
-    .title = Aqueste modul es pas signat
-support-third-party-modules-folder-icon =
-    .title = Dobrir l’emplaçament del fichièr…
-support-third-party-modules-down-icon =
-    .title = Mostrar las informacions detalhadas
-support-third-party-modules-up-icon =
-    .title = Amagar las informacions detalhadas
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -379,6 +349,7 @@ fission-status-disabled-by-default = Desactivada per defaut
 fission-status-enabled-by-user-pref = Activada per l’utilizaire
 fission-status-disabled-by-user-pref = Desactivada per l’utilizaire
 fission-status-disabled-by-e10s-other = E10s desactivat
+fission-status-enabled-by-rollout = Activat per desplegament progressiu
 async-pan-zoom = Zoom/Panoramic asincròns
 apz-none = pas cap
 wheel-enabled = entrada rodeta activada

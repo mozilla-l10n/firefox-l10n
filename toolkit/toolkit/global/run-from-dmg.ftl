@@ -8,6 +8,8 @@
 ## appropriate location before relaunching itself from that location if the
 ## user accepts.
 
+prompt-to-install-title = Acabar l’installacion de { -brand-short-name } ?
+prompt-to-install-message = Terminar aquesta installacion en una etapa per manténer { -brand-short-name } a jorn e evitar la pèrda de donadas. { -brand-short-name } serà apondut a vòstre dossièr Aplicacions e a vòstre Dock.
 prompt-to-install-yes-button = Installar
 prompt-to-install-no-button = Installar pas
 
