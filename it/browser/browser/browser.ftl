@@ -738,6 +738,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Non mostrare questo messaggio quando vengono bloccate delle finestre pop-up
     .accesskey = N
+
+edit-popup-settings =
+    .label = Gestisci impostazioni pop-up…
+    .accesskey = G
+
 picture-in-picture-hide-toggle =
     .label = Nascondi selettore Picture-in-Picture
     .accesskey = N
