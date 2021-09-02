@@ -27,3 +27,9 @@ calendar-delete-item-prompt-title =
         [one] Ezabatu elementua
        *[other] Ezabatu elementuak
     }
+calendar-delete-item-prompt-message =
+    { $count ->
+        [one] Ziur zaude elementu hau ezabatu nahi duzula?
+       *[other] Ziur zaude { $count } elementu hauek ezabatu nahi dituzula?
+    }
+calendar-delete-prompt-disable-message = Ez galdetu berriz.
