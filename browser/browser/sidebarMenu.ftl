@@ -4,4 +4,5 @@
 
 sidebar-menu-bookmarks =
     .label = Dipukutshwayo
-
+sidebar-close-button =
+    .tooltiptext = Tswalela para ya ka thoko
