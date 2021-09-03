@@ -130,3 +130,11 @@ tab-context-move-tabs =
            *[many] Перемістити { $tabCount } вкладок
         }
     .accesskey = м
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Надіслати вкладку на пристрій
+            [few] Надіслати { $tabCount } вкладки на пристрій
+           *[many] Надіслати { $tabCount } вкладок на пристрій
+        }
+    .accesskey = с
