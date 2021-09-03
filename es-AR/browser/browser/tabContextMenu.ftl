@@ -134,6 +134,6 @@ tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
             [one] Enviar la Pestaña al dispositivo
-           *[other] { " " }Enviar las Pestañas { $tabCount } al dispositivo
+           *[other] Enviar las Pestañas { $tabCount } al dispositivo
         }
     .accesskey = n
