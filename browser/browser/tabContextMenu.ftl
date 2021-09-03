@@ -53,7 +53,6 @@ move-to-end =
 move-to-new-window =
     .label = নতুন উইন্ডোতে স্থানান্তর W
     .accesskey = W
-
 close-tab =
     .label = ট্যাব বন্ধ C
     .accesskey = C
@@ -70,3 +69,10 @@ move-tab =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] ডিভাইসে ট্যাব পাঠান
+           *[other] { " " }ডিভাইসে { $tabCount } ট্যাব পাঠান
+        }
+    .accesskey = n
