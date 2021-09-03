@@ -130,7 +130,17 @@ places-remove-bookmark =
            *[other] Remover marcapaginas
         }
     .accesskey = e
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Deler marcapagina
+           *[other] Deler marcapaginas
+        }
+    .accesskey = D
 places-manage-bookmarks =
     .label = Gerer marcapaginas
     .accesskey = G
+places-forget-about-this-site-confirmation-title = Oblidante iste sito
 places-forget-about-this-site-forget = Oblidar

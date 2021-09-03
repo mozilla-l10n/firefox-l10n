@@ -279,5 +279,8 @@ cfr-doorhanger-video-support-primary-button = Actualisar ora
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = Il pare que tu usa un rete Wi-Fi public
+spotlight-public-wifi-vpn-primary-button = Resta private con { -mozilla-vpn-brand-name }
+    .accesskey = R
 spotlight-public-wifi-vpn-link = Non ora
     .accesskey = N
