@@ -1204,6 +1204,9 @@ space-alert-under-5gb-ok-button =
     .label = Жақсы, түсіндім
     .accesskey = а
 space-alert-under-5gb-message = { -brand-short-name } үшін бос орын аяқталуда. Вебсайттар құрамасы дұрыс көрсетілмеуі мүмкін. "Көбірек білу" сілтемесін ашып, интернетті ыңғайлы шолу үшін диск қолданылуын қалай баптау керек екенін білуіңізге болады.
+space-alert-over-5gb-settings-button =
+    .label = Баптаулары ашу
+    .accesskey = Б
 
 ## Privacy Section - HTTPS-Only
 
