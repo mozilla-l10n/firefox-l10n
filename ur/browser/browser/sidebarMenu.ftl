@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = بک مارک
-
 sidebar-menu-history =
     .label = سابقات
-
 sidebar-menu-synced-tabs =
     .label = سینک ہو چکے ٹیبز
-
 sidebar-menu-close =
     .label = بغلی بار بند کریں
+sidebar-close-button =
+    .tooltiptext = بغلی بار بند کریں
