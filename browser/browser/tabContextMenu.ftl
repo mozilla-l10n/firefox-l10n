@@ -135,3 +135,14 @@ tab-context-move-tabs =
            *[other] انقل الألسنة
         }
     .accesskey = ن
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [zero] لا تُرسل شيئا إلى الجهاز
+            [one] أرسِل اللسان إلى الجهاز
+            [two] أرسِل اللسانين إلى الجهاز
+            [few] أرسِل { $tabCount } ألسنة إلى الجهاز
+            [many] أرسِل { $tabCount } لسانا إلى الجهاز
+           *[other] أرسِل { $tabCount } لسان إلى الجهاز
+        }
+    .accesskey = س
