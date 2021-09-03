@@ -53,7 +53,6 @@ move-to-end =
 move-to-new-window =
     .label = Pindah ke Tetingkap Baru
     .accesskey = T
-
 close-tab =
     .label = Tutup Tab
     .accesskey = b
@@ -70,3 +69,6 @@ move-tab =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-send-tabs-to-device =
+    .label = Hantar { $tabCount } Tab ke Peranti
+    .accesskey = n
