@@ -121,3 +121,10 @@ tab-context-move-tabs =
            *[other] Mugitu fitxak
         }
     .accesskey = M
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Bidali fitxa gailura
+           *[other] Bidali { $tabCount } fitxa gailura
+        }
+    .accesskey = d
