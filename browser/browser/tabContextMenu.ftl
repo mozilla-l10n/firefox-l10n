@@ -128,3 +128,10 @@ tab-context-move-tabs =
            *[other] Mover abas
         }
     .accesskey = v
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Enviar aba para dispositivo
+           *[other] Enviar { $tabCount } abas para dispositivo
+        }
+    .accesskey = n
