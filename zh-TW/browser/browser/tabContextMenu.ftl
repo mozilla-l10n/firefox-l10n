@@ -123,3 +123,6 @@ tab-context-move-tabs =
            *[other] 移動分頁
         }
     .accesskey = v
+tab-context-send-tabs-to-device =
+    .label = 傳送 { $tabCount } 個分頁到裝置
+    .accesskey = n
