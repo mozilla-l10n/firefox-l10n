@@ -143,9 +143,10 @@ tab-context-move-tabs =
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
+            [1] { $tabCount } rajtark na grat pósłać
             [one] { $tabCount } rajtark na grat pósłać
             [two] { $tabCount } rajtarkaj na grat pósłać
             [few] { $tabCount } rajtarki na grat pósłać
            *[other] { $tabCount } rajtarkow na grat pósłać
         }
-    .accesskey = t
+    .accesskey = r
