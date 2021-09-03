@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = Marcaje
-
 sidebar-menu-history =
     .label = Istoric
-
 sidebar-menu-synced-tabs =
     .label = File sincronizate
-
 sidebar-menu-close =
     .label = Închide bara laterală
+sidebar-close-button =
+    .tooltiptext = Închide bara laterală
