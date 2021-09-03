@@ -128,3 +128,10 @@ tab-context-move-tabs =
            *[other] Spustar ils tabs
         }
     .accesskey = p
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Trametter il tab ad in apparat
+           *[other] Trametter { $tabCount } tabs ad in apparat
+        }
+    .accesskey = n
