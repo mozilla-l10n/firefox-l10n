@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = ចំណាំ
-
 sidebar-menu-history =
     .label = ប្រវត្តិ
-
 sidebar-menu-synced-tabs =
     .label = ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម
-
 sidebar-menu-close =
     .label = បិទ​របារ​ចំហៀង
+sidebar-close-button =
+    .tooltiptext = បិទ​របារ​ចំហៀង
