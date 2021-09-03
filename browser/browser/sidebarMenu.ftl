@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = पुस्तकचिनोहरू
-
 sidebar-menu-history =
     .label = इतिहास
-
 sidebar-menu-synced-tabs =
     .label = Sync गरिएका ट्याबहरू
-
 sidebar-menu-close =
     .label = साइडबार बन्द गर्नुहोस्
+sidebar-close-button =
+    .tooltiptext = छेउपट्टी बन्द गर्नुहोस्
