@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = Nodau Tudalen
-
 sidebar-menu-history =
     .label = Hanes
-
 sidebar-menu-synced-tabs =
     .label = Tabiau wedi'u Cydweddu
-
 sidebar-menu-close =
     .label = Cau'r Bar Ochr
+sidebar-close-button =
+    .tooltiptext = Cau'r bar ochr
