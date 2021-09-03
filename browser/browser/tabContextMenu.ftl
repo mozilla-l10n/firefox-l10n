@@ -130,3 +130,10 @@ tab-context-move-tabs =
            *[other] Mover separadores
         }
     .accesskey = v
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Enviar separador para dispositivo
+           *[other] Enviar { $tabCount } separadores para dispositivo
+        }
+    .accesskey = n
