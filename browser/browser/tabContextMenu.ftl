@@ -115,3 +115,10 @@ tab-context-move-tabs =
            *[other] Беттерді жылжыту
         }
     .accesskey = ы
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Бетті құрылғыға жіберу
+           *[other] Бетті { $tabCount } құрылғыға жіберу
+        }
+    .accesskey = ы
