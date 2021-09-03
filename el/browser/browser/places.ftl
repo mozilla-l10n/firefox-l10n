@@ -141,3 +141,4 @@ places-delete-bookmark =
 places-manage-bookmarks =
     .label = Διαχείριση σελιδοδεικτών
     .accesskey = Δ
+places-forget-about-this-site-forget = Εξάλειψη

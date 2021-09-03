@@ -8,6 +8,7 @@
 ## appropriate location before relaunching itself from that location if the
 ## user accepts.
 
+prompt-to-install-title = Ολοκλήρωση εγκατάστασης του { -brand-short-name };
 prompt-to-install-yes-button = Εγκατάσταση
 prompt-to-install-no-button = Χωρίς εγκατάσταση
 
