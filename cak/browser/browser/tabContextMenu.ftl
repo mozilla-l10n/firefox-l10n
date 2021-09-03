@@ -122,3 +122,10 @@ tab-context-move-tabs =
            *[other] Kesilöx Ruwi'
         }
     .accesskey = s
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Titaq Ruwi' pan Okisab'äl
+           *[other] Ketaq { $tabCount } taq Ruwi' pan Okisab'äl
+        }
+    .accesskey = t
