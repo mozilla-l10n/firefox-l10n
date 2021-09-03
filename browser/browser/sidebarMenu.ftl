@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = Faqerojtës
-
 sidebar-menu-history =
     .label = Historik
-
 sidebar-menu-synced-tabs =
     .label = Skeda të Njëkohësuara
-
 sidebar-menu-close =
     .label = Mbylle Anështyllën
+sidebar-close-button =
+    .tooltiptext = Mbylleni anështyllën
