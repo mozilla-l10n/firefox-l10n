@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = ཡིག་རྟགས
-
 sidebar-menu-history =
     .label = ཟིན་ཐོ
-
 sidebar-menu-synced-tabs =
     .label = Synced Tabs
-
 sidebar-menu-close =
     .label = ཟུར་པར་ཁ་རྒྱག
+sidebar-close-button =
+    .tooltiptext = ཟུར་པར་ཁ་རྒྱག
