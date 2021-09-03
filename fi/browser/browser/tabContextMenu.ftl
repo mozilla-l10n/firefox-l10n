@@ -125,3 +125,10 @@ tab-context-move-tabs =
            *[other] Siirrä välilehdet
         }
     .accesskey = r
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Lähetä välilehti laitteeseen
+           *[other] Lähetä { $tabCount } välilehteä laitteeseen
+        }
+    .accesskey = L
