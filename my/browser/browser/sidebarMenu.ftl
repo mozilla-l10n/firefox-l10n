@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = မှတ်သားချက်များ
-
 sidebar-menu-history =
     .label = မှတ်တမ်း
-
 sidebar-menu-synced-tabs =
     .label = ချိတ်ဆက်ထားသော တပ်ဗ်များ
-
 sidebar-menu-close =
     .label = ဘေးတန်းကို ပိတ်ရန်
+sidebar-close-button =
+    .tooltiptext = ဘေးတန်းကို ပိတ်ပါ
