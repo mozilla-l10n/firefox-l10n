@@ -129,6 +129,6 @@ tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
             [one] ჩანართის მოწყობილობაზე გაგზავნა
-           *[other] { " " }{ $tabCount } ჩანართის მოწყობილობაზე გაგზავნა
+           *[other] { $tabCount } ჩანართის მოწყობილობაზე გაგზავნა
         }
     .accesskey = ნ
