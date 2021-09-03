@@ -133,6 +133,7 @@ tab-context-move-tabs =
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
+            [1] Lap küldése az eszközre
             [one] Lap küldése az eszközre
            *[other] { $tabCount } lap küldése az eszközre
         }
