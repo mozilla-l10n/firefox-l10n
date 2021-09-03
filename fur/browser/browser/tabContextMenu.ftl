@@ -119,3 +119,10 @@ tab-context-move-tabs =
            *[other] Sposte schedis
         }
     .accesskey = h
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Mande la schede al dispositîf
+           *[other] Mande { $tabCount } schedis al dispositîf
+        }
+    .accesskey = n
