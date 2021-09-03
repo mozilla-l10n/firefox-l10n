@@ -28,8 +28,8 @@ about-private-browsing-info-description = { -brand-short-name } cancella la cron
 about-private-browsing-info-description-simplified = { -brand-short-name } cancella la cronologia di ricerca e navigazione quando vengono chiuse tutte le finestre anonime, ma questo non ti rende completamente anonimo.
 about-private-browsing-learn-more-link = Ulteriori informazioni
 
-about-private-browsing-hide-activity = Nascondi le tue attività e la tua posizione, ovunque navighi
-about-private-browsing-prominent-cta = Massima riservatezza con { -mozilla-vpn-brand-name }
+about-private-browsing-hide-activity = Nascondi la tua posizione e le tue attività online, ovunque navighi
+about-private-browsing-prominent-cta = Proteggi la tua privacy con { -mozilla-vpn-brand-name }
 
 about-private-browsing-need-more-privacy = Vuoi ancora più privacy?
 about-private-browsing-turn-on-vpn = Prova { -mozilla-vpn-brand-name }
