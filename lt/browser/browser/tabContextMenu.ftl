@@ -135,3 +135,11 @@ tab-context-move-tabs =
            *[other] Perkelti kortelių
         }
     .accesskey = k
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Siųsti kortelę į įrenginį
+            [few] Siųsti { $tabCount } kortelių į įrenginį
+           *[other] Siųsti { $tabCount } korteles į įrenginį
+        }
+    .accesskey = t
