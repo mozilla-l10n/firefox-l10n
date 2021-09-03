@@ -135,3 +135,11 @@ tab-context-move-tabs =
            *[other] Premjesti kartice
         }
     .accesskey = m
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Pošalji { $tabCount } karticu na uređaj
+            [few] Pošalji { $tabCount } kartice na uređaj
+           *[other] Pošalji { $tabCount } kartica na uređaj
+        }
+    .accesskey = o
