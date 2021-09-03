@@ -28,7 +28,7 @@ about-private-browsing-turn-on-vpn = Спробуйте { -mozilla-vpn-brand-nam
 about-private-browsing-info-description-simplified = { -brand-short-name } очищує історію пошуку та перегляду, коли ви закриваєте усі приватні вікна, але це не робить вас анонімними.
 about-private-browsing-learn-more-link = Докладніше
 about-private-browsing-hide-activity = Приховуйте свою активність і місцеперебування де б ви не переглядали щось в інтернеті
-about-private-browsing-prominent-cta = Залишайтеся приватним із { -mozilla-vpn-brand-name }
+about-private-browsing-prominent-cta = Зберігайте приватність з { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
