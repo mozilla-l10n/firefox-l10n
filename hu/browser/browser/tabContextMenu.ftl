@@ -130,3 +130,10 @@ tab-context-move-tabs =
            *[other] Lapok áthelyezése
         }
     .accesskey = h
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Lap küldése az eszközre
+           *[other] { $tabCount } lap küldése az eszközre
+        }
+    .accesskey = k
