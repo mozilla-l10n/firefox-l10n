@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = Обележивачи
-
 sidebar-menu-history =
     .label = Историја
-
 sidebar-menu-synced-tabs =
     .label = Синхронизоване картице
-
 sidebar-menu-close =
     .label = Затвори бочну палету
+sidebar-close-button =
+    .tooltiptext = Затвори бочни панел
