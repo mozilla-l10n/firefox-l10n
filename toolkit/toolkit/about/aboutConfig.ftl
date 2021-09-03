@@ -15,14 +15,11 @@ config-about-warning-button =
     .label = Я приймаю ризик!
 config-about-warning-checkbox =
     .label = Показувати це попередження наступного разу
-
 config-search-prefs =
     .value = Пошук:
     .accesskey = ш
-
 config-focus-search =
     .key = r
-
 config-focus-search-2 =
     .key = f
 
@@ -42,7 +39,7 @@ config-value-column =
 config-pref-column-header =
     .tooltip = Натисніть для впорядкування
 config-column-chooser =
-    .tooltip = Натисніть, щоб вибрати колонки для відображення
+    .tooltip = Натисніть, щоб вибрати колонки для показу
 
 ## These strings are used for the context menu
 
@@ -50,60 +47,45 @@ config-copy-pref =
     .key = C
     .label = Копіювати
     .accesskey = К
-
 config-copy-name =
     .label = Копіювати назву
     .accesskey = о
-
 config-copy-value =
     .label = Копіювати значення
     .accesskey = о
-
 config-modify =
     .label = Змінити
     .accesskey = і
-
 config-toggle =
     .label = Перемкнути
     .accesskey = е
-
 config-reset =
     .label = Скинути
     .accesskey = и
-
 config-new =
     .label = Створити
     .accesskey = о
-
 config-string =
     .label = Рядок
     .accesskey = я
-
 config-integer =
     .label = Ціле
     .accesskey = і
-
 config-boolean =
     .label = Логічне
     .accesskey = о
-
 config-default = типове
 config-modified = змінено
 config-locked = заблоковано
-
 config-property-string = рядок
 config-property-int = ціле
 config-property-bool = логічне
-
 config-new-prompt = Введіть назву налаштування
-
 config-nan-title = Недійсне значення
 config-nan-text = Текст, що ви ввели, не є числом
-
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Нове значення ({ $type })
-
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Введіть значення ({ $type })
