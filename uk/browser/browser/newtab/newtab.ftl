@@ -8,9 +8,6 @@
 newtab-page-title = Нова вкладка
 newtab-settings-button =
     .title = Налаштуйте свою сторінку нової вкладки
-newtab-personalize-button-label = Персоналізувати
-    .title = Персоналізувати нову вкладку
-    .aria-label = Персоналізувати нову вкладку
 newtab-personalize-icon-label =
     .title = Персоналізувати нову вкладку
     .aria-label = Персоналізувати нову вкладку
@@ -26,14 +23,14 @@ newtab-search-box-search-button =
 newtab-search-box-search-the-web-text = Пошук в Інтернеті
 # Variables
 #  $engine (String): the name of the user's default search engine
-newtab-search-box-handoff-text = Шукайте з { $engine } або введіть адресу
+newtab-search-box-handoff-text = Шукайте за допомогою { $engine } або введіть адресу
 newtab-search-box-handoff-text-no-engine = Введіть запит чи адресу
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-input =
-    .placeholder = Шукайте з { $engine } або введіть адресу
-    .title = Шукайте з { $engine } або введіть адресу
-    .aria-label = Шукайте з { $engine } або введіть адресу
+    .placeholder = Шукайте за допомогою { $engine } або введіть адресу
+    .title = Шукайте за допомогою { $engine } або введіть адресу
+    .aria-label = Шукайте за допомогою { $engine } або введіть адресу
 newtab-search-box-handoff-input-no-engine =
     .placeholder = Введіть запит чи адресу
     .title = Введіть запит чи адресу
@@ -253,10 +250,4 @@ newtab-custom-pocket-sponsored = Матеріали від спонсорів
 newtab-custom-recent-title = Недавня активність
 newtab-custom-recent-subtitle = Добірка недавніх сайтів та вмісту
 newtab-custom-close-button = Закрити
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Фрагменти
-newtab-custom-snippets-subtitle = Поради та новини від { -vendor-short-name } та { -brand-product-name }
 newtab-custom-settings = Керувати іншими налаштуваннями
