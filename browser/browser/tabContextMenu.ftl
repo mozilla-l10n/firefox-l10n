@@ -127,3 +127,10 @@ tab-context-move-tabs =
            *[other] העברת לשוניות
         }
     .accesskey = ע
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] שליחת לשונית למכשיר
+           *[other] שליחת { $tabCount } לשוניות למכשיר
+        }
+    .accesskey = ש
