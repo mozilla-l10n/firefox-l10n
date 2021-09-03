@@ -142,4 +142,7 @@ places-manage-bookmarks =
     .label = სანიშნების მართვა
     .accesskey = მ
 places-forget-about-this-site-confirmation-title = ამ საიტის დავიწყება
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = ამ ქმედებით მოცილდება ყველა მონაცემი, რომლებიც უკავშირდება { $hostOrBaseDomain }-ს, მათ შორის ისტორია, პაროლები, ფუნთუშები, დროებითი ფაილები და შიგთავსის პარამეტრები. ნამდვილად გსურთ, განაგრძოთ?
 places-forget-about-this-site-forget = დავიწყება
