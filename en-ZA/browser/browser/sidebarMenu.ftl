@@ -4,10 +4,9 @@
 
 sidebar-menu-bookmarks =
     .label = Bookmarks
-
 sidebar-menu-history =
     .label = History
-
 sidebar-menu-synced-tabs =
     .label = Synced Tabs
-
+sidebar-close-button =
+    .tooltiptext = Close sidebar
