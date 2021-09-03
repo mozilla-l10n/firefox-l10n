@@ -4,7 +4,7 @@
 
 <!ENTITY safeb.palm.accept.label "Θέλω να φύγω από εδώ!">
 <!ENTITY safeb.palm.decline.label "Αγνόηση προειδοποίησης">
-<!ENTITY safeb.palm.reportPage.label "Γιατί αποκλείστηκε αυτή η ιστοσελίδα;">
+<!ENTITY safeb.palm.reportPage.label "Γιατί αποκλείστηκε αυτή η σελίδα;">
 
 <!ENTITY safeb.blocked.malwarePage.title "Αναφέρθηκε σελίδα επιθέσεων!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

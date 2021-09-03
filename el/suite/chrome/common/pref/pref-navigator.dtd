@@ -31,7 +31,7 @@
 <!ENTITY restoreDeferred.label          "Επαναφορά καρτελών μόνο όταν τις χρειάζομαι">
 <!ENTITY restoreDeferred.accesskey      "μ">
 
-<!ENTITY homePageIntro.label            'Μετάβαση σε αυτή την ομάδα σελίδων με κλικ στο κουμπί "Αρχική σελίδα":'>
+<!ENTITY homePageIntro.label            "Μετάβαση σε αυτήν την ομάδα σελίδων με κλικ στο κουμπί «Αρχική σελίδα»:">
 <!ENTITY useCurrent.label               "Χρήση τρέχουσας σελίδας">
 <!ENTITY useCurrent.accesskey           "Χ">
 <!ENTITY useCurrentGroup.label          "Χρήση τρέχουσας ομάδας">
