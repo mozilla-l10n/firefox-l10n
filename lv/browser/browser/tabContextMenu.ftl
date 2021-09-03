@@ -53,7 +53,6 @@ move-to-end =
 move-to-new-window =
     .label = Pāriet uz jaunu logu
     .accesskey = P
-
 close-tab =
     .label = Aizvērt cilni
     .accesskey = c
@@ -79,3 +78,11 @@ tab-context-move-tabs =
            *[other] Pārvietot cilnes
         }
     .accesskey = c
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [zero] Sūtīt { $tabCount } cilne uz ierīci
+            [one] Sūtīt { $tabCount } cilni uz ierīci
+           *[other] Sūtīt { $tabCount } cilnes uz ierīci
+        }
+    .accesskey = n
