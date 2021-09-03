@@ -291,8 +291,8 @@ cfr-doorhanger-video-support-primary-button = Aggiorna adesso
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 spotlight-public-wifi-vpn-header = Sembra che ti trovi su una rete Wi-Fi pubblica
-spotlight-public-wifi-vpn-body = Hai mai pensato di utilizzare una VPN per proteggere la tua posizione e le tue attività online? Questo ti manterrà al sicuro quando navighi in luoghi pubblici come aeroporti e bar.
-spotlight-public-wifi-vpn-primary-button = Massima riservatezza con { -mozilla-vpn-brand-name }
+spotlight-public-wifi-vpn-body = Hai mai pensato di utilizzare una VPN per nascondere la tua posizione e le tue attività online? Questo ti manterrà al sicuro quando navighi in luoghi pubblici come aeroporti e bar.
+spotlight-public-wifi-vpn-primary-button = Proteggi la tua privacy con { -mozilla-vpn-brand-name }
   .accesskey = M
 spotlight-public-wifi-vpn-link = Non adesso
   .accesskey = N
