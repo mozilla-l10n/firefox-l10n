@@ -125,3 +125,10 @@ tab-context-move-tabs =
            *[other] ჩანართების გადატანა
         }
     .accesskey = ტ
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] ჩანართის მოწყობილობაზე გაგზავნა
+           *[other] { " " }{ $tabCount } ჩანართის მოწყობილობაზე გაგზავნა
+        }
+    .accesskey = ნ
