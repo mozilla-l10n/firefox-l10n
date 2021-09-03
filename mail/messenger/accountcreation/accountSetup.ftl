@@ -214,6 +214,8 @@ exchange-dialog-cancel-button = Ακύρωση
 exit-dialog-title = Δεν έχουν ρυθμιστεί λογαριασμοί email
 exit-dialog-cancel-button = Συνέχεια ρύθμισης
     .accesskey = Σ
+exit-dialog-confirm-button = Κλείσιμο ρύθμισης
+    .accesskey = Κ
 
 ## Alert dialogs
 
