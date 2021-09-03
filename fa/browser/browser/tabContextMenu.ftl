@@ -125,3 +125,10 @@ tab-context-move-tabs =
            *[other] جابجایی زبانه‌ها
         }
     .accesskey = v
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] ارسال به دستگاه
+           *[other] ارسال { $tabCount } زبانه به دستگاه
+        }
+    .accesskey = n
