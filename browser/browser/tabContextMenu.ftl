@@ -150,3 +150,14 @@ tab-context-move-tabs =
            *[other] Symud Tab
         }
     .accesskey = S
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [zero] Anfon Tab i Ddyfais
+            [one] Anfon { $tabCount } Tab i Ddyfais
+            [two] Anfon { $tabCount } Dab i Ddyfais
+            [few] Anfon { $tabCount } Thab i Ddyfais
+            [many] Anfon { $tabCount } Tab i Ddyfais
+           *[other] Anfon { $tabCount } Thab i Ddyfais
+        }
+    .accesskey = n
