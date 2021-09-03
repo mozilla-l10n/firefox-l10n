@@ -8,7 +8,7 @@
 <!ENTITY systemPref.caption               "Προτιμήσεις συστήματος">
 <!ENTITY systemPrefCheck.label            "Χρήση προτιμήσεων από το σύστημα">
 <!ENTITY systemPrefCheck.accesskey        "Χ">
-<!ENTITY systemPref.desc                  "Με αυτή την επιλογή, το &brandShortName; κληρονομεί προτιμήσεις από το σύστημα. Αυτές οι ρυθμίσεις συστήματος θα αντικαταστήσουν τις προτιμήσεις του &brandShortName;.">
+<!ENTITY systemPref.desc                  "Με αυτήν την επιλογή, το &brandShortName; κληρονομεί προτιμήσεις από το σύστημα. Αυτές οι ρυθμίσεις συστήματος θα αντικαταστήσουν τις προτιμήσεις του &brandShortName;.">
 
 <!ENTITY prefCheckDefault.caption         "Ενσωμάτωση συστήματος">
 <!ENTITY prefCheckDefaultClient.label     "Έλεγχος ρυθμίσεων προεπιλεγμένης εφαρμογής κατά την εκκίνησης">

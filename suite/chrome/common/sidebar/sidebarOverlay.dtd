@@ -28,7 +28,7 @@
 <!ENTITY sidebar.no-panels.hide      'Αν θέλετε να αποκρύψετε εντελώς την πλαϊνή γραμμή, κάντε κλικ στο μενού «Προβολή» παραπάνω και επιλέξτε «Πλαϊνή γραμμή» από το υπομενού «Εμφάνιση/Απόκρυψη».'>
 <!ENTITY sidebar.sbDirectory.label   "Κατάλογος πλαϊνής γραμμής…">
 
-<!ENTITY sidebar.pagenotfound.label  "Αυτή η καρτέλα δεν είναι διαθέσιμη αυτή τη στιγμή.">
+<!ENTITY sidebar.pagenotfound.label  "Αυτή η καρτέλα δεν είναι διαθέσιμη αυτήν τη στιγμή.">
 <!ENTITY sidebar.close.tooltip       "Κλείσιμο πλαϊνής γραμμής">
 <!ENTITY sidebar.open.tooltip        "Άνοιγμα πλαϊνής γραμμής">
 

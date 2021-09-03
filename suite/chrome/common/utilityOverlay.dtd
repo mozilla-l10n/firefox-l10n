@@ -181,7 +181,7 @@
 <!ENTITY customizeToolbarContext.label            "Προσαρμογή…">
 <!ENTITY customizeToolbarContext.accesskey        "Π">
 
-<!ENTITY customizeToolbar.toolbarmode.label       "Ρυθμίσεις για αυτήν τη γραμμή">
+<!ENTITY customizeToolbar.toolbarmode.label       "Ρυθμίσεις γραμμής εργαλείων">
 <!ENTITY customizeToolbar.toolbarmode.accesskey   "θ">
 <!ENTITY customizeToolbar.iconsAndText.label      "Εικονίδια και κείμενο">
 <!ENTITY customizeToolbar.iconsAndText.accesskey  "α">
