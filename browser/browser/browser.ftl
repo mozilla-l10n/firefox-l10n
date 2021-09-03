@@ -111,7 +111,7 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Вводьте менше, знаходьте більше: Шукайте з { $engineName } прямо з панелі адреси.
+urlbar-search-tips-onboard = Вводьте менше, знаходьте більше: Шукайте за допомогою { $engineName } прямо з панелі адреси.
 urlbar-search-tips-redirect-2 = Розпочніть пошук з адресного рядка, щоб побачити пропозиції від { $engineName } та історії перегляду.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
@@ -182,7 +182,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = Цього разу шукати з:
+search-one-offs-with-title = Цього разу шукати за допомогою:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -448,7 +448,7 @@ urlbar-remote-control-notification-anchor =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Пошук в Інтернеті
+    .placeholder = Пошук в інтернеті
     .aria-label = Шукати за допомогою { $name }
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
@@ -473,7 +473,7 @@ urlbar-placeholder-search-mode-other-tabs =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Шукайте з { $name } або введіть адресу
+    .placeholder = Шукайте за допомогою { $name } або введіть адресу
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -508,7 +508,7 @@ urlbar-result-action-search-in-private = Пошук у приватному ві
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-w-engine = Шукати з { $engine }
+urlbar-result-action-search-w-engine = Шукати за допомогою { $engine }
 urlbar-result-action-sponsored = Спонсоровано
 urlbar-result-action-switch-tab = Перейти на вкладку
 urlbar-result-action-visit = Відвідати
@@ -531,7 +531,7 @@ urlbar-result-action-tabtosearch-web = Шукати за допомогою { $e
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
-urlbar-result-action-tabtosearch-other-engine = Шукати з { $engine } безпосередньо в панелі адреси
+urlbar-result-action-tabtosearch-other-engine = Шукати за допомогою { $engine } безпосередньо в панелі адреси
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Копіювати
 # Shows the result of a formula expression being calculated, the last = sign will be shown
