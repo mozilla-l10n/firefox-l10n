@@ -130,3 +130,10 @@ tab-context-move-tabs =
            *[other] Sekmeleri taşı
         }
     .accesskey = t
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Sekmeyi cihaza gönder
+           *[other] { $tabCount } sekmeyi cihaza gönder
+        }
+    .accesskey = n
