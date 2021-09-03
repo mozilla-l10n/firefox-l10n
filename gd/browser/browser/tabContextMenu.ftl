@@ -130,3 +130,12 @@ tab-context-move-tabs =
            *[other] Gluais na tabaichean
         }
     .accesskey = G
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Cuir { $tabCount } taba gun uidheam
+            [two] Cuir { $tabCount } thaba gun uidheam
+            [few] Cuir { $tabCount } tabaichean gun uidheam
+           *[other] Cuir { $tabCount } taba gun uidheam
+        }
+    .accesskey = n
