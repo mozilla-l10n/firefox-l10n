@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = Закладкі
-
 sidebar-menu-history =
     .label = Гісторыя
-
 sidebar-menu-synced-tabs =
     .label = Сінхранізаваныя карткі
-
 sidebar-menu-close =
     .label = Закрыць бакавую панэль
+sidebar-close-button =
+    .tooltiptext = Закрыць бакавую панэль
