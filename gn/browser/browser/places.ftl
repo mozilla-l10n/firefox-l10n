@@ -23,7 +23,6 @@ places-open-window =
 places-open-private-window =
     .label = Ovetã ñemi pyahúpe jeike
     .accesskey = P
-
 places-new-bookmark =
     .label = Techaukaha pyahu...
     .accesskey = p
@@ -36,14 +35,12 @@ places-new-folder =
 places-new-separator =
     .label = Mopa’ũha pyahu
     .accesskey = S
-
 places-open-in-window =
     .label = Eike Ovetã Pyahúpe
     .accesskey = N
 places-open-in-private-window =
     .label = Eike Ovetã Ñemigua Pyahúpe
     .accesskey = P
-
 places-add-bookmark =
     .label = Embojuaju techaukaha…
     .accesskey = B
@@ -56,7 +53,6 @@ places-add-folder =
 places-add-separator =
     .label = Embojuaju mopa’ũha
     .accesskey = S
-
 places-view =
     .label = Hecha
     .accesskey = w
@@ -75,12 +71,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Arange ha tenda rupi
     .accesskey = t
-
 places-history-search =
     .placeholder = Tembiasakuépe jeheka
 places-bookmarks-search =
     .placeholder = Techaukahápe jeheka
-
 places-delete-domain-data =
     .label = Ko Ñanduti Rendágui Tesarái
     .accesskey = T
@@ -90,7 +84,6 @@ places-sortby-name =
 places-properties =
     .label = Mba’ejára
     .accesskey = i
-
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Embosako’i techaukaha…
@@ -109,18 +102,18 @@ places-remove-folder =
            *[other] Emboguete ñongatuhakuéra
         }
     .accesskey = m
-
+places-edit-folder2 =
+    .label = Embosako’i ñongatuha…
+    .accesskey = i
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Techaukaha ñangarekopyre
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Marandurenda’i
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Ambuekuéra Techaukaha
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -131,7 +124,6 @@ places-remove-bookmark =
            *[other] Emboguete techaukahakuéra
         }
     .accesskey = e
-
 places-manage-bookmarks =
     .label = Eñangareko Techaukaháre
     .accesskey = M
