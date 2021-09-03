@@ -29,7 +29,7 @@ pocket-panel-signup-view-list = Перегляд списку
 
 ## about:pocket-signup panel
 
-pocket-panel-signup-already-have = Уже користуєтесь { -pocket-brand-name }?
+pocket-panel-signup-already-have = Вже користуєтесь { -pocket-brand-name }?
 pocket-panel-signup-learn-more = Докладніше
 pocket-panel-signup-login = Увійти
 pocket-panel-signup-signup-email = Реєстрація за адресою електронної пошти
