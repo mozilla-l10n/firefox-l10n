@@ -147,7 +147,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY removeButton.accesskey                         "В">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY columnChooser.tooltip                          "Оберіть стовпці для відображення">
+<!ENTITY columnChooser.tooltip                          "Оберіть стовпці для показу">
 <!ENTITY newContactButton.tooltip                       "Створити нову картку в адресній книзі">
 <!ENTITY newlistButton.tooltip                          "Створити новий список розсилки">
 <!ENTITY editPropertiesButton.tooltip                   "Змінити вибраний елемент">

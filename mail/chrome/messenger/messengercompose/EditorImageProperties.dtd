@@ -16,7 +16,7 @@
 <!ENTITY locationEditField.shortenedDataURI "Скорочений URI даних (копія помістить в буфер обміну повний URI)">
 <!ENTITY title.label "Спливаюча підказка:">
 <!ENTITY title.accessKey "С">
-<!ENTITY title.tooltip "Атрибут «title», що відображається як спливаюча підказка">
+<!ENTITY title.tooltip "Атрибут 'title', що показується спливною підказкою">
 <!ENTITY altText.label "Альтернативний текст:">
 <!ENTITY altText.accessKey "л">
 <!ENTITY altTextEditField.tooltip "Введіть текст, що показується на місці зображення">
