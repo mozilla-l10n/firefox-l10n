@@ -128,3 +128,10 @@ tab-context-move-tabs =
            *[other] Mover las pestanyas
         }
     .accesskey = v
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Ninviar pestanya ta lo dispostivo
+           *[other] Ninviar { $tabCount } pestanyas ta lo dispositivo
+        }
+    .accesskey = n
