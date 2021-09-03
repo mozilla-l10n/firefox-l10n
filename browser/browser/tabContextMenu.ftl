@@ -130,3 +130,10 @@ tab-context-move-tabs =
            *[other] Desplaçar los onglets
         }
     .accesskey = D
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Enviar l’onglet a un periferic
+           *[other] Enviar { $tabCount } onglets al periferic
+        }
+    .accesskey = n
