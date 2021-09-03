@@ -53,7 +53,6 @@ move-to-end =
 move-to-new-window =
     .label = Dirtin to Henorde Hesere
     .accesskey = H
-
 close-tab =
     .label = Uddu Tabbere
     .accesskey = U
@@ -70,3 +69,10 @@ move-tab =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Neldu tabbere to Device
+           *[other] Send{ $tabCount } Tabbe to masiŋel
+        }
+    .accesskey = n
