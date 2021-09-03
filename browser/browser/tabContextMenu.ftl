@@ -118,3 +118,6 @@ tab-context-move-tabs =
            *[other] Pindahkan Tab
         }
     .accesskey = P
+tab-context-send-tabs-to-device =
+    .label = Kirim Tab ke { $tabCount } Peranti
+    .accesskey = k
