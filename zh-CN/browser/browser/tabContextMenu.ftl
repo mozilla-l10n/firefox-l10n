@@ -126,5 +126,9 @@ tab-context-move-tabs =
         }
     .accesskey = v
 tab-context-send-tabs-to-device =
-    .label = 发送 { $tabCount } 个标签页到设备
+    .label =
+        { $tabCount ->
+            [1] 发送标签页至设备
+           *[other] 发送 { $tabCount } 个标签页至设备
+        }
     .accesskey = n
