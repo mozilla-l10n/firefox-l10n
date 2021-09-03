@@ -275,6 +275,7 @@ cfr-doorhanger-video-support-primary-button = 立即更新
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 spotlight-public-wifi-vpn-header = 您似乎在使用公共 Wi-Fi
+spotlight-public-wifi-vpn-body = VPN 可帮助您在机场、咖啡厅等公共场所上网时，隐藏您的位置和浏览活动，请考虑使用。
 spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } 可提供隐私保护
     .accesskey = S
 spotlight-public-wifi-vpn-link = 暂时不要
