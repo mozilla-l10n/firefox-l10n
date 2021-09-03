@@ -53,7 +53,6 @@ move-to-end =
 move-to-new-window =
     .label = Yeni pəncərəyə daşı
     .accesskey = p
-
 close-tab =
     .label = Vərəqi qapat
     .accesskey = Q
@@ -70,3 +69,10 @@ move-tab =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Vərəqi cihaza göndər
+           *[other] { $tabCount } vərəqi cihaza göndər
+        }
+    .accesskey = n
