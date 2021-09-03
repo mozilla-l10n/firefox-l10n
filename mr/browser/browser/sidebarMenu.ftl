@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = वाचनखूणा
-
 sidebar-menu-history =
     .label = इतिहास
-
 sidebar-menu-synced-tabs =
     .label = ताळमेळीत टॅब्स
-
 sidebar-menu-close =
     .label = बाजूची पट्टी बंद करा
+sidebar-close-button =
+    .tooltiptext = बाजुचीपट्टी बंद करा
