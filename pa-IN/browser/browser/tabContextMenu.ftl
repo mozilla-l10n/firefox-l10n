@@ -121,3 +121,10 @@ tab-context-move-tabs =
            *[other] ਟੈਬਾਂ ਭੇਜੋ
         }
     .accesskey = v
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] ਟੈਬ ਡਿਵਾਈਸ 'ਤੇ ਭੇਜੋ
+           *[other] { $tabCount } ਟੈਬਾਂ ਡਿਵਾਈਸ 'ਤੇ ਭੇਜੋ
+        }
+    .accesskey = n
