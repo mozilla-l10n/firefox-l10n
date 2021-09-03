@@ -151,3 +151,13 @@ places-delete-bookmark =
 places-manage-bookmarks =
     .label = Gestisci segnalibri
     .accesskey = G
+
+places-forget-about-this-site-confirmation-title =
+  Dimentica questo sito
+
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message =
+  Questa operazione eliminerà tutti i dati relativi a { $hostOrBaseDomain }, inclusi cronologia, password, cookie, cache e preferenze relative ai contenuti. Dimenticare questo sito?
+
+places-forget-about-this-site-forget = Dimentica
