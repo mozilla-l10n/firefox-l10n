@@ -4,4 +4,5 @@
 
 sidebar-menu-bookmarks =
     .label = புத்தகக்குறிகள்
-
+sidebar-close-button =
+    .tooltiptext = பக்கப்பட்டையை மூடு
