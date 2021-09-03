@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = 试试看：固定标签页
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 为什么我会看到这个？
-
 cfr-doorhanger-extension-cancel-button = 暂时不要
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = 立刻添加
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = 固定此标签页
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = 管理推荐设置
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = 不再显示此推荐
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = 详细了解
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = 由 { $name } 开发
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = 推荐
 cfr-doorhanger-extension-notification2 = 推荐
     .tooltiptext = 推荐扩展
     .a11y-announcement = 有推荐扩展可用
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = 推荐
@@ -65,7 +57,6 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } 个用户
     }
-
 cfr-doorhanger-pintab-description = 固定常用的网站，就算重启也能快捷打开。
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -73,10 +64,8 @@ cfr-doorhanger-pintab-description = 固定常用的网站，就算重启也能�
 cfr-doorhanger-pintab-step1 = <b>右键点击</b>您想要固定的标签页。
 cfr-doorhanger-pintab-step2 = 在菜单中选择<b>固定标签页</b>。
 cfr-doorhanger-pintab-step3 = 若网站有新动向，固定的标签页上会出现蓝色小点。
-
 cfr-doorhanger-pintab-animation-pause = 暂停
 cfr-doorhanger-pintab-animation-resume = 恢复
-
 
 ## Firefox Accounts Message
 
@@ -98,22 +87,16 @@ cfr-protections-panel-link-text = 详细了解
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = 新功能
-
 cfr-whatsnew-button =
     .label = 新版变化
     .tooltiptext = 新版变化
-
 cfr-whatsnew-panel-header = 新版变化
-
 cfr-whatsnew-release-notes-link-text = 阅读发行说明
-
 cfr-whatsnew-fx70-title = { -brand-short-name } 为您的隐私而战
 cfr-whatsnew-fx70-body = 最新的更新增强了跟踪保护功能，并可比以往更容易地让为每个站点创建安全密码。
-
 cfr-whatsnew-tracking-protect-title = 保护自己远离跟踪器
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } 拦截了许多会窥视您浏览活动的常见社交和跨网站型跟踪器。
 cfr-whatsnew-tracking-protect-link-text = 查看您的报告
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -123,11 +106,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = 自{ DATETIME($earliestDate, month: "long", year: "numeric") }起
 cfr-whatsnew-tracking-blocked-link-text = 查看报告
-
 cfr-whatsnew-lockwise-backup-title = 备份您的密码
 cfr-whatsnew-lockwise-backup-body = 立即生成安全密码，并可在您登录的任何设备访问。
 cfr-whatsnew-lockwise-backup-link-text = 开启备份
-
 cfr-whatsnew-lockwise-take-title = 随身携带密码
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 移动端应用可让您安全地访问在所有设备中备份的密码。
 cfr-whatsnew-lockwise-take-link-text = 获取应用
@@ -136,9 +117,6 @@ cfr-whatsnew-lockwise-take-link-text = 获取应用
 
 cfr-whatsnew-searchbar-title = 使用地址栏，输入寥寥，搜遍万千
 cfr-whatsnew-searchbar-body-topsites = 现在只需选择地址栏，就会显示包含常用网站链接的下拉框。
-
-## Search bar
-
 cfr-whatsnew-searchbar-icon-alt-text = 放大镜图标
 
 ## Picture-in-Picture
@@ -163,7 +141,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] 已拦截数字指纹跟踪程序
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } 会拦截许多偷偷收集设备信息和操作行为，以针对您投放定向广告的数字指纹跟踪程序。
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = 数字指纹跟踪程序
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } 可拦截偷偷收集设备信息和操作行为，以针对您投放定向广告的数字指纹跟踪程序。
@@ -221,7 +198,6 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] 自{ $date }起，{ -brand-short-name } 已拦截超过 <b>{ $blockedCount }</b> 个跟踪器！
     }
-
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -264,12 +240,8 @@ cfr-whatsnew-protections-icon-alt = 盾牌图标
 
 cfr-whatsnew-better-pdf-header = 更佳的 PDF 体验
 cfr-whatsnew-better-pdf-body = PDF 文档现可直接在 { -brand-short-name } 中打开，让您的工作流程更顺畅。
-
 cfr-doorhanger-milestone-close-button = 关闭
     .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -289,21 +261,21 @@ cfr-doorhanger-fission-primary-button = 好，知道了
 cfr-doorhanger-fission-secondary-button = 详细了解
     .accesskey = L
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = 该网站上的视频可能无法在此版本的 { -brand-short-name } 正常播放。若需完整的视频支持，请更新 { -brand-short-name }。
 cfr-doorhanger-video-support-header = 更新 { -brand-short-name } 以播放视频
 cfr-doorhanger-video-support-primary-button = 立即更新
     .accesskey = U
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
+spotlight-public-wifi-vpn-header = 您似乎在使用公共 Wi-Fi
+spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } 可提供隐私保护
+    .accesskey = S
+spotlight-public-wifi-vpn-link = 暂时不要
+    .accesskey = N
