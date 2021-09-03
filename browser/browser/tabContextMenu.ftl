@@ -125,3 +125,10 @@ tab-context-move-tabs =
            *[other] Flytt faner
         }
     .accesskey = F
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Send fane til enhet
+           *[other] Send { $tabCount } faner til enhet
+        }
+    .accesskey = n
