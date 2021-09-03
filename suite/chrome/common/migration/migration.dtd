@@ -22,7 +22,7 @@
 <!ENTITY selectProfile.label             "Τα ακόλουθα προφίλ είναι διαθέσιμα για εισαγωγή από:">
 
 <!ENTITY migrating.title                 "Εισαγωγή…">
-<!ENTITY migrating.label                 "Γίνεται εισαγωγή των εξής στοιχείων αυτή τη στιγμή…">
+<!ENTITY migrating.label                 "Αυτήν τη στιγμή, εισάγονται τα παρακάτω στοιχεία…">
 
 <!ENTITY done.title                      "Η εισαγωγή ολοκληρώθηκε">
 <!ENTITY done.label                      "Τα ακόλουθα στοιχεία εισήχθησαν επιτυχώς:">

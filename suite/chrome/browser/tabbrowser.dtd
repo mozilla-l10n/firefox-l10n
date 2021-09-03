@@ -18,7 +18,7 @@ left instead of right. -->
 <!ENTITY  reloadAllTabs.accesskey         "Α">
 <!ENTITY  reloadTab.label        "Ανανέωση καρτέλας">
 <!ENTITY  reloadTab.accesskey         "Α">
-<!ENTITY  bookmarkGroup.label    "Προσθήκη σελιδοδείκτη σε αυτή την ομάδα καρτελών">
+<!ENTITY  bookmarkGroup.label    "Προσθήκη σελιδοδείκτη σε αυτήν την ομάδα καρτελών">
 <!ENTITY  bookmarkGroup.accesskey  "Π">
 <!ENTITY  closeTabButton.tooltip   "Κλείσιμο τρέχουσας καρτέλας">
 <!ENTITY  newTabButton.tooltip   "Άνοιγμα νέας καρτέλας">

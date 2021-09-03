@@ -139,7 +139,7 @@ left instead of right. -->
 <!ENTITY popupDefaultMsg.label "Τα αναδυόμενα παράθυρα από αυτόν τον ιστότοπο θα εμφανίζονται βάσει των προεπιλεγμένων ρυθμίσεων.">
 <!ENTITY popupBlockCmd.label "Φραγή αναδυόμενων από την ιστοσελίδα">
 <!ENTITY popupBlockCmd.accesskey "Φ">
-<!ENTITY popupBlockMsg.label "Δεν θα εμφανίζονται αναδυόμενα από αυτή την ιστοσελίδα.">
+<!ENTITY popupBlockMsg.label "Δεν θα εμφανίζονται αναδυόμενα παράθυρα από αυτόν τον ιστότοπο.">
 <!ENTITY popupsManage.label "Διαχείριση αναδυόμενων παραθύρων">
 <!ENTITY popupsManage.accesskey "Δ">
 
