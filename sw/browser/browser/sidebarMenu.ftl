@@ -4,4 +4,5 @@
 
 sidebar-menu-bookmarks =
     .label = Vialamisho
-
+sidebar-close-button =
+    .tooltiptext = Funga mwambaa wa upande
