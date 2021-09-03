@@ -295,6 +295,7 @@ cfr-doorhanger-video-support-primary-button = Nětko aktualizować
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 spotlight-public-wifi-vpn-header = Zda zo, zo zjawny WLAN wužiwaće
+spotlight-public-wifi-vpn-body = Zo byšće swoje stejnišćo a přehladowansku aktiwitu schował a, rozwažće wirtuelnu priwatnu syć (VPN). Budźe wam pomhać, was škitać, hdyž na zjawnych městnach kaž na přikład na lětanišćach a w kofejownjach přehladujeće.
 spotlight-public-wifi-vpn-primary-button = Škitajće swoju priwatnosć z { -mozilla-vpn-brand-name }
     .accesskey = k
 spotlight-public-wifi-vpn-link = Nic nětko
