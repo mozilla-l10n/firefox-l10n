@@ -4,7 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
-
 sidebar-menu-history =
     .label = ପୁରୁଣା ତଥ୍ୟ
-
+sidebar-close-button =
+    .tooltiptext = ପାର୍ଶ୍ୱପଟି ବନ୍ଦକରନ୍ତୁ
