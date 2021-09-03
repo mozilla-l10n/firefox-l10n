@@ -4,7 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Mbukmaak
-
 sidebar-menu-history =
     .label = Abakɔsɛm
-
+sidebar-close-button =
+    .tooltiptext = To saedbaa mu
