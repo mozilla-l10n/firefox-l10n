@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = Kirjanmerkit
-
 sidebar-menu-history =
     .label = Sivuhistoria
-
 sidebar-menu-synced-tabs =
     .label = Synkronoidut välilehdet
-
 sidebar-menu-close =
     .label = Sulje sivupaneeli
+sidebar-close-button =
+    .tooltiptext = Sulje sivupaneeli
