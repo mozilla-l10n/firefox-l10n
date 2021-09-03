@@ -56,7 +56,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Sulge mitu kaarti
     .accesskey = m
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -94,3 +93,10 @@ tab-context-move-tabs =
            *[other] Liiguta kaarte
         }
     .accesskey = L
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Saada kaart seadmesse
+           *[other] Saada { $tabCount } kaarti seadmesse
+        }
+    .accesskey = k
