@@ -53,7 +53,6 @@ move-to-end =
 move-to-new-window =
     .label = Mescia inte 'n neuvo barcon
     .accesskey = M
-
 close-tab =
     .label = Særa feuggio
     .accesskey = S
@@ -70,3 +69,10 @@ move-tab =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Manda feuggio a-o dispoxitivo
+           *[other] Mando { $tabCount } feuggi a-o dispoxitivo
+        }
+    .accesskey = n
