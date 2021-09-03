@@ -135,3 +135,11 @@ tab-context-move-tabs =
            *[other] Mută filele
         }
     .accesskey = v
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Trimite fila către un dispozitiv
+            [few] Trimite { $tabCount } file către un dispozitiv
+           *[other] Trimite { $tabCount } de file către un dispozitiv
+        }
+    .accesskey = n
