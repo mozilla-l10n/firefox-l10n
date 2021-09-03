@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = Maantore
-
 sidebar-menu-history =
     .label = Aslol
-
 sidebar-menu-synced-tabs =
     .label = Tabbe synckaaɗe
-
 sidebar-menu-close =
     .label = Uddu palal sawndo
+sidebar-close-button =
+    .tooltiptext = Uddu palal sawndo
