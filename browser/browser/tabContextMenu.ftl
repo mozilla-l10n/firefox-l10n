@@ -122,3 +122,10 @@ tab-context-move-tabs =
            *[other] Lëvizni Skeda
         }
     .accesskey = L
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Dërgoje Skedën te Pajisje
+           *[other] Dërgo { $tabCount } Skedë te Pajisje
+        }
+    .accesskey = D
