@@ -130,3 +130,10 @@ tab-context-move-tabs =
            *[other] Senkez iccaren
         }
     .accesskey = S
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Azen iccer ɣer yibenk
+           *[other] Azen { $tabCount } waccaren ɣer yibenk
+        }
+    .accesskey = n
