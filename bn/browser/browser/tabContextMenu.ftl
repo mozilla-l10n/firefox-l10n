@@ -14,6 +14,8 @@ duplicate-tab =
 duplicate-tabs =
     .label = অনুরূপ ট্যাব
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = ডানদিকের ট্যাব বন্ধ করুন
     .accesskey = i
@@ -73,6 +75,6 @@ tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
             [one] ডিভাইসে ট্যাব পাঠান
-           *[other] { " " }ডিভাইসে { $tabCount } ট্যাব পাঠান
+           *[other] ডিভাইসে { $tabCount } ট্যাব পাঠান
         }
     .accesskey = n
