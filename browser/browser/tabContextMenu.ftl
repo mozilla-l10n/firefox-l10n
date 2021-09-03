@@ -131,3 +131,11 @@ tab-context-move-tabs =
            *[other] Presunúť karty
         }
     .accesskey = s
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Odoslať kartu do zariadenia
+            [few] Odoslať { $tabCount } karty do zariadenia
+           *[other] Odoslať { $tabCount } kariet do zariadenia
+        }
+    .accesskey = n
