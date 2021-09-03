@@ -23,7 +23,6 @@ places-open-window =
 places-open-private-window =
     .label = Åpne i nytt privat vindu
     .accesskey = n
-
 places-new-bookmark =
     .label = Nytt bokmerke …
     .accesskey = b
@@ -36,14 +35,12 @@ places-new-folder =
 places-new-separator =
     .label = Ny skillelinje
     .accesskey = s
-
 places-open-in-window =
     .label = Åpne i nytt vindu
     .accesskey = e
 places-open-in-private-window =
     .label = Åpne i nytt privat vindu
     .accesskey = r
-
 places-add-bookmark =
     .label = Legg til bokmerke …
     .accesskey = b
@@ -56,7 +53,6 @@ places-add-folder =
 places-add-separator =
     .label = Legg til skillelinje
     .accesskey = s
-
 places-view =
     .label = Vis
     .accesskey = i
@@ -75,12 +71,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Etter dato og nettsted
     .accesskey = d
-
 places-history-search =
     .placeholder = Søk historikk
 places-bookmarks-search =
     .placeholder = Søk bokmerker
-
 places-delete-domain-data =
     .label = Glem dette nettstedet
     .accesskey = G
@@ -90,7 +84,6 @@ places-sortby-name =
 places-properties =
     .label = Egenskaper
     .accesskey = E
-
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Rediger bokmerke …
@@ -108,18 +101,25 @@ places-remove-folder =
            *[other] Fjern mapper
         }
     .accesskey = m
-
+places-edit-folder2 =
+    .label = Rediger mappe
+    .accesskey = R
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Slett mappe
+           *[other] Slett mapper
+        }
+    .accesskey = S
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrerte bokmerker
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Undermappe
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Andre bokmerker
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -129,7 +129,20 @@ places-remove-bookmark =
            *[other] Fjern bokmerker
         }
     .accesskey = F
-
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Slett bokmerke
+           *[other] Slett bokmerker
+        }
+    .accesskey = S
 places-manage-bookmarks =
     .label = Behandle bokmerker
     .accesskey = m
+places-forget-about-this-site-confirmation-title = Glemmer dette nettstedet
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Denne handlingen fjerner alle data relatert til { $hostOrBaseDomain }, inkludert historikk, passord, infokapsler, hurtigbuffer og innholds-innstillinger. Er du sikker på at du vil fortsette?
+places-forget-about-this-site-forget = Glem
