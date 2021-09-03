@@ -111,7 +111,7 @@ detail-home =
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
-    .label = Προφίλ πρόσθετου
+    .label = Προφίλ προσθέτου
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
@@ -221,7 +221,7 @@ addon-updates-manual-updates-found = Εμφάνιση διαθέσιμων εν�
 
 ## Add-on install/debug strings for page options menu
 
-addon-install-from-file = Εγκατάσταση πρόσθετου από αρχείο…
+addon-install-from-file = Εγκατάσταση προσθέτου από αρχείο…
     .accesskey = γ
 addon-install-from-file-dialog-title = Επιλέξτε πρόσθετο για εγκατάσταση
 addon-install-from-file-filter-name = Πρόσθετα
