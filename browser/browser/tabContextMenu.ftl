@@ -130,3 +130,10 @@ tab-context-move-tabs =
            *[other] Ljepblêden ferpleatse
         }
     .accesskey = f
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Ljepblêd nei apparaat ferstjoere
+           *[other] { $tabCount } ljepblêden nei apparaat ferstjoere
+        }
+    .accesskey = s
