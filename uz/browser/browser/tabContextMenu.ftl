@@ -53,7 +53,6 @@ move-to-end =
 move-to-new-window =
     .label = Yangi oynaga ko‘chirish
     .accesskey = y
-
 close-tab =
     .label = Varaqni yopish
     .accesskey = y
@@ -70,3 +69,10 @@ move-tab =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Varaqni qurilmaga joʻnatish
+           *[other] { $tabCount } ta varaqni qurilmaga joʻnatish
+        }
+    .accesskey = n
