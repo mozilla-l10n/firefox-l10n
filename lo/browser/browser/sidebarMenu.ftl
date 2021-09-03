@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = ບຸກມາກ
-
 sidebar-menu-history =
     .label = ປະຫວັດ
-
 sidebar-menu-synced-tabs =
     .label = ແທັບທີ່ຊິງຄ໌ແລ້ວ
-
 sidebar-menu-close =
     .label = ປິດແຖບຂ້າງ
+sidebar-close-button =
+    .tooltiptext = ປິດແຖບຂ້າງ
