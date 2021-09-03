@@ -53,7 +53,6 @@ move-to-end =
 move-to-new-window =
     .label = Færa yfir í nýjan glugga
     .accesskey = g
-
 close-tab =
     .label = Loka flipa
     .accesskey = L
@@ -70,3 +69,10 @@ move-tab =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Senda flipa í tæki
+           *[other] { " " }senda { $tabCount } flipa í tæki
+        }
+    .accesskey = n
