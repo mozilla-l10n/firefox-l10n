@@ -105,6 +105,14 @@ places-remove-folder =
 places-edit-folder2 =
     .label = Embosako’i ñongatuha…
     .accesskey = i
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Emboguete ñongatuha
+            [one] Emboguete ñongatuhakuéra
+           *[other] Emboguete ñongatuhakuéra
+        }
+    .accesskey = D
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Techaukaha ñangarekopyre
@@ -124,6 +132,18 @@ places-remove-bookmark =
            *[other] Emboguete techaukahakuéra
         }
     .accesskey = e
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Emboguete techaukaha
+            [one] Emboguete techaukahakuéra
+           *[other] Emboguete techaukahakuéra
+        }
+    .accesskey = D
 places-manage-bookmarks =
     .label = Eñangareko Techaukaháre
     .accesskey = M
+places-forget-about-this-site-confirmation-title = Eñembyesarái ko tendágui
+places-forget-about-this-site-forget = Tesarái

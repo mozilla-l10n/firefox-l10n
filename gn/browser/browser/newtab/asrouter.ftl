@@ -280,6 +280,7 @@ cfr-doorhanger-video-support-primary-button = Embohekopyahu ko’ág̃a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = Eipurúvaicha peteĩ Wi-Fi opavaveguáva
 spotlight-public-wifi-vpn-primary-button = Eiko tekoñemíme { -mozilla-vpn-brand-name } ndive
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ani ko’ág̃a
