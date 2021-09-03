@@ -154,4 +154,7 @@ places-manage-bookmarks =
     .label = Zapołožki rjadować
     .accesskey = r
 places-forget-about-this-site-confirmation-title = Na tute sydło zabyć
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Tuta akcija wšě daty nastupajo { $hostOrBaseDomain }, mjez druhimi historiju, hesła, placki, pufrowak a nastajenja wobsaha, wotstroni. Chceće woprawdźe pokročować?
 places-forget-about-this-site-forget = Zabyć
