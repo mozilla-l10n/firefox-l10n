@@ -56,7 +56,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Serriñ meur a ivinell
     .accesskey = S
-
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
@@ -106,3 +105,13 @@ tab-context-move-tabs =
            *[other] Dilec'hiañ an ivinelloù
         }
     .accesskey = D
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Kas an ivinell d'an trevnad
+            [two] Kas { $tabCount } ivinell d'an trevnad
+            [few] Kas { $tabCount } ivinell d'an trevnad
+            [many] Kas { $tabCount } a ivinelloù d'an trevnad
+           *[other] Kas { $tabCount } ivinell d'an trevnad
+        }
+    .accesskey = n
