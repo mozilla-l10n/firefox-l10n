@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = Bókamerki
-
 sidebar-menu-history =
     .label = Ferill
-
 sidebar-menu-synced-tabs =
     .label = Samstilltir flipar
-
 sidebar-menu-close =
     .label = Loka hliðslá
+sidebar-close-button =
+    .tooltiptext = Loka hliðslá
