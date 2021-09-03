@@ -101,6 +101,16 @@ places-remove-folder =
            *[other] Αφαίρεση φακέλων
         }
     .accesskey = φ
+places-edit-folder2 =
+    .label = Επεξεργασία φακέλου…
+    .accesskey = ί
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Διαγραφή φακέλου
+           *[other] Διαγραφή φακέλων
+        }
+    .accesskey = Δ
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Διαχειριζόμενοι σελιδοδείκτες
@@ -119,6 +129,15 @@ places-remove-bookmark =
            *[other] Αφαίρεση σελιδοδεικτών
         }
     .accesskey = λ
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Διαγραφή σελιδοδείκτη
+           *[other] Διαγραφή σελιδοδεικτών
+        }
+    .accesskey = Δ
 places-manage-bookmarks =
     .label = Διαχείριση σελιδοδεικτών
     .accesskey = Δ

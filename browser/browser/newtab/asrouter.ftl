@@ -277,3 +277,13 @@ cfr-doorhanger-video-support-body = Τα βίντεο αυτού του ιστο
 cfr-doorhanger-video-support-header = Ενημερώστε το { -brand-short-name } για αναπαραγωγή του βίντεο
 cfr-doorhanger-video-support-primary-button = Ενημέρωση τώρα
     .accesskey = Ε
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
+spotlight-public-wifi-vpn-header = Φαίνεται πως χρησιμοποιείτε δημόσιο Wi-Fi
+spotlight-public-wifi-vpn-link = Όχι τώρα
+    .accesskey = Ό
