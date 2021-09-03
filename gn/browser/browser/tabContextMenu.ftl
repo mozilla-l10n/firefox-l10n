@@ -130,3 +130,10 @@ tab-context-move-tabs =
            *[other] Eguerova tendaykekuéra
         }
     .accesskey = v
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Emondo tendayke mba’e’okápe
+           *[other] { " " }Emondo umi tendayke { $tabCount } mba’e’okápe
+        }
+    .accesskey = n
