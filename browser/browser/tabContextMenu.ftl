@@ -128,3 +128,10 @@ tab-context-move-tabs =
            *[other] Flytta flikar
         }
     .accesskey = t
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Skicka flik till enhet
+           *[other] Skicka { $tabCount } flikar till enhet
+        }
+    .accesskey = n
