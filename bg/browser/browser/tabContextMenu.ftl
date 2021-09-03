@@ -118,3 +118,10 @@ tab-context-move-tabs =
            *[other] Преместване на раздели
         }
     .accesskey = П
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Изпращане на раздела до устройство
+           *[other] Изпращане на { $tabCount } раздела до устройство
+        }
+    .accesskey = у
