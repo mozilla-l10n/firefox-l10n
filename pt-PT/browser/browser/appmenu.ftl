@@ -67,10 +67,6 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Iniciar sessão para sincronizar…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ativar a sincronização…
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Mostrar todos
-    .tooltiptext = Mostrar todos os separadores deste dispositivo
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Mostrar mais separadores
@@ -79,6 +75,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Nenhum separador aberto
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ative a sincronização de separadores para ver uma lista de separadores dos seus outros dispositivos.
+appmenu-remote-tabs-opensettings =
+    .label = Definições
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Pretende ver os seus separadores de outros dispositivos aqui?
