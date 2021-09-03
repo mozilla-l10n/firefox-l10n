@@ -21,7 +21,7 @@ graph-total-tracker-summary =
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = Το { -brand-short-name } συνεχίζει να αποκλείει τους ιχνηλάτες στα ιδιωτικά παράθυρα, αλλά δεν διατηρείται αρχείο καταγραφής των αποκλεισμένων στοιχείων.
 # Weekly summary of the graph when the graph is empty in Private Mode
-graph-week-summary-private-window = Αποκλεισμένοι ιχνηλάτες του { -brand-short-name } αυτή την εβδομάδα
+graph-week-summary-private-window = Αποκλεισμένοι ιχνηλάτες στο { -brand-short-name } αυτήν την εβδομάδα
 protection-report-webpage-title = Πίνακας προστασίας
 protection-report-page-content-title = Πίνακας προστασίας
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
