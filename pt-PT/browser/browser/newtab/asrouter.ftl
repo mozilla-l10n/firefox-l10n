@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = Experimente isto: Fixar separador
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Porque é que estou a ver isto
-
 cfr-doorhanger-extension-cancel-button = Agora não
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Adicionar agora
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Fixar este separador
     .accesskey = p
-
 cfr-doorhanger-extension-manage-settings-button = Gerir definições de recomendações
     .accesskey = m
-
 cfr-doorhanger-extension-never-show-recommendation = Não me mostrar esta recomendação
     .accesskey = s
-
 cfr-doorhanger-extension-learn-more-link = Saber mais
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = por { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendação
 cfr-doorhanger-extension-notification2 = Recomendação
     .tooltiptext = Recomendação de extensão
     .a11y-announcement = Recomendação de extensão disponível
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomendação
@@ -67,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utilizador
        *[other] { $total } utilizadores
     }
-
 cfr-doorhanger-pintab-description = Obtenha acesso fácil aos seus sites mais utilizados. Mantenha sites abertos num separador (mesmo quando reinicia).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -75,10 +66,8 @@ cfr-doorhanger-pintab-description = Obtenha acesso fácil aos seus sites mais ut
 cfr-doorhanger-pintab-step1 = <b>Clique com o botão direito</ b> no separador que pretende fixar.
 cfr-doorhanger-pintab-step2 = Selecione <b>Fixar separador</ b> a partir do menu.
 cfr-doorhanger-pintab-step3 = Se o site tiver uma atualização irá ver um ponto azul no separador fixado.
-
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Retomar
-
 
 ## Firefox Accounts Message
 
@@ -100,26 +89,20 @@ cfr-protections-panel-link-text = Saber mais
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova funcionalidade:
-
 cfr-whatsnew-button =
     .label = Novidades
     .tooltiptext = Novidades
-
 cfr-whatsnew-panel-header = Novidades
-
 cfr-whatsnew-release-notes-link-text = Leia as notas de lançamento
-
 cfr-whatsnew-fx70-title = O { -brand-short-name } agora luta mais pela sua privacidade
 cfr-whatsnew-fx70-body =
     A atualização mais recente melhora a funcionalidade de Proteção contra a monitorização e torna
     mais fácil do que nunca a criação de palavras-passe seguras para cada site.
-
 cfr-whatsnew-tracking-protect-title = Proteja-se contra os rastreadores
 cfr-whatsnew-tracking-protect-body =
     O { -brand-short-name } bloqueia muitos dos rastreadores mais comuns entre sites e de 
     redes sociais que monitorizam o que faz na Internet.
 cfr-whatsnew-tracking-protect-link-text = Ver o seu relatório
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -130,11 +113,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Ver relatório
-
 cfr-whatsnew-lockwise-backup-title = Faça uma cópia das suas palavras-passe
 cfr-whatsnew-lockwise-backup-body = Agora, crie palavras-passe seguras que pode aceder em qualquer lugar onde inicie a sessão.
 cfr-whatsnew-lockwise-backup-link-text = Ative as cópias de segurança
-
 cfr-whatsnew-lockwise-take-title = Leve as suas palavras-passe consigo
 cfr-whatsnew-lockwise-take-body =
     A aplicação móvel { -lockwise-brand-short-name } permite-lhe aceder com segurança e em  
@@ -145,9 +126,6 @@ cfr-whatsnew-lockwise-take-link-text = Obter a aplicação
 
 cfr-whatsnew-searchbar-title = Escreva menos e encontre mais, com a barra de endereço
 cfr-whatsnew-searchbar-body-topsites = Agora, basta selecionar a barra de endereço e será expandida uma caixa com ligações para os principais sites.
-
-## Search bar
-
 cfr-whatsnew-searchbar-icon-alt-text = Ícone de lupa
 
 ## Picture-in-Picture
@@ -173,7 +151,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Identificadores bloqueados
     }
 cfr-whatsnew-fingerprinter-counter-body = O { -brand-shorter-name } bloqueia muitos identificadores que recolhem, em segredo, informações sobre o seu dispositivo e ações para criar um perfil publicitário de si.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Identificadores
 cfr-whatsnew-fingerprinter-counter-body-alt = O { -brand-shorter-name } pode bloquear muitos identificadores que recolhem, em segredo, informações sobre o seu dispositivo e ações para criar um perfil publicitário de si.
@@ -232,7 +209,6 @@ cfr-doorhanger-milestone-heading =
         [one] { -brand-short-name } bloqueou mais de <b>{ $blockedCount }</b> rastreadores desde { $date }!
        *[other] { -brand-short-name } bloqueou mais de <b>{ $blockedCount }</b> rastreadores desde { $date }!
     }
-
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -276,12 +252,8 @@ cfr-whatsnew-protections-icon-alt = Ícone de um escudo
 
 cfr-whatsnew-better-pdf-header = Melhor experiência com PDF
 cfr-whatsnew-better-pdf-body = Os documentos PDF são agora abertos diretamente no { -brand-short-name }, mantendo e facilitando o seu fluxo de trabalho.
-
 cfr-doorhanger-milestone-close-button = Fechar
     .accesskey = F
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -301,21 +273,22 @@ cfr-doorhanger-fission-primary-button = OK, percebi
 cfr-doorhanger-fission-secondary-button = Saber mais
     .accesskey = b
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Os vídeos neste site podem não ser reproduzidos corretamente nesta versão do { -brand-short-name }. Para uma maior compatibilidade vídeo, atualize agora o { -brand-short-name }.
 cfr-doorhanger-video-support-header = Atualizar o { -brand-short-name } para reproduzir o vídeo
 cfr-doorhanger-video-support-primary-button = Atualizar agora
     .accesskey = u
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
+spotlight-public-wifi-vpn-header = Parece que está a utilizar uma rede Wi-Fi pública
+spotlight-public-wifi-vpn-body = Para ocultar a sua localização e atividade de navegação, considere uma Rede Privada Virtual. Isto irá melhorar a sua proteção ao navegar em locais públicos, como aeroportos e cafés.
+spotlight-public-wifi-vpn-primary-button = Mantenha a sua privacidade com a { -mozilla-vpn-brand-name }
+    .accesskey = M
+spotlight-public-wifi-vpn-link = Agora não
+    .accesskey = n
