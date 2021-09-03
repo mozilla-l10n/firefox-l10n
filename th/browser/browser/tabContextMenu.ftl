@@ -118,3 +118,6 @@ tab-context-move-tabs =
            *[other] ย้ายแท็บ
         }
     .accesskey = ย
+tab-context-send-tabs-to-device =
+    .label = ส่ง { $tabCount } แท็บไปยังอุปกรณ์
+    .accesskey = ส
