@@ -274,6 +274,8 @@ cfr-doorhanger-video-support-primary-button = 지금 업데이트
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = 공용 Wi-Fi를 사용 중인 것 같습니다
+spotlight-public-wifi-vpn-body = 위치 및 탐색 활동을 숨기려면 가상 사설망 (VPN)을 고려하세요. 공항 및 커피숍과 같은 공공 장소에서 탐색할 때 보호를 유지하는 데 도움이 됩니다.
 spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name }으로 사생활 보호 유지
     .accesskey = S
 spotlight-public-wifi-vpn-link = 나중에
