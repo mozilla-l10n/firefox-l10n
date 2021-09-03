@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = Bladwijzers
-
 sidebar-menu-history =
     .label = Geschiedenis
-
 sidebar-menu-synced-tabs =
     .label = Gesynchroniseerde tabbladen
-
 sidebar-menu-close =
     .label = Zijbalk sluiten
+sidebar-close-button =
+    .tooltiptext = Zijbalk sluiten
