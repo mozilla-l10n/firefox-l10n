@@ -4,7 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Timakara ta buku
-
 sidebar-menu-history =
     .label = Matimu
-
+sidebar-close-button =
+    .tooltiptext = Pfala bara ya le thlelo
