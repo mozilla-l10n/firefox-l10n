@@ -9,6 +9,8 @@
 ## user accepts.
 
 prompt-to-install-yes-button = Εγκατάσταση
+prompt-to-install-no-button = Χωρίς εγκατάσταση
 
 ## Strings for a dialog that opens if the installation failed.
 
+install-failed-title = Αποτυχία εγκατάστασης του { -brand-short-name }.
