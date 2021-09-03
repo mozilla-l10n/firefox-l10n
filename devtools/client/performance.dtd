@@ -64,7 +64,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
-<!ENTITY performanceUI.options.filter.tooltiptext "Виберіть дані для відображення на часовій шкалі">
+<!ENTITY performanceUI.options.filter.tooltiptext "Виберіть дані для показу на часовій шкалі">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
