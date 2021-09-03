@@ -4,7 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = बुकमार्क
-
 sidebar-menu-history =
     .label = इतिहास
-
+sidebar-close-button =
+    .tooltiptext = समासपट्टी बंद करात
