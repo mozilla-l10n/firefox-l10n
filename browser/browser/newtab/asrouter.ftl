@@ -285,3 +285,16 @@ cfr-doorhanger-video-support-body = Відео на цьому сайті мож
 cfr-doorhanger-video-support-header = Оновіть { -brand-short-name } для відтворення відео
 cfr-doorhanger-video-support-primary-button = Оновити
     .accesskey = н
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
+spotlight-public-wifi-vpn-header = Схоже, ви використовуєте загальнодоступний Wi-Fi
+spotlight-public-wifi-vpn-body = Щоб приховати своє розташування та діяльність в Інтернеті, розгляньте можливість використання віртуальної приватної мережі (VPN). Вона допоможе захистити вас під час користування загальнодоступним Інтернетом в громадських місцях, наприклад, в аеропортах та кав'ярнях.
+spotlight-public-wifi-vpn-primary-button = Зберігайте приватність з { -mozilla-vpn-brand-name }
+    .accesskey = п
+spotlight-public-wifi-vpn-link = Не зараз
+    .accesskey = е
