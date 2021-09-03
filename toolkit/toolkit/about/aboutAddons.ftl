@@ -207,9 +207,9 @@ addon-updates-update-addons-automatically = Αυτόματη ενημέρωση 
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-addon-updates-reset-updates-to-automatic = Ρύθμιση όλων των προσθέτων σε αυτόματη ενημέρωση
-    .accesskey = Ρ
-addon-updates-reset-updates-to-manual = Ρύθμιση όλων των προσθέτων σε χειροκίνητη ενημέρωση
+addon-updates-reset-updates-to-automatic = Επαναφορά αυτόματης ενημέρωσης για όλα τα πρόσθετα
+    .accesskey = Ε
+addon-updates-reset-updates-to-manual = Επαναφορά χειροκίνητης ενημέρωσης για όλα τα πρόσθετα
     .accesskey = χ
 
 ## Status messages displayed when updating add-ons
