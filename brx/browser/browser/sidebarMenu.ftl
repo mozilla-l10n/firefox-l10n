@@ -4,9 +4,9 @@
 
 sidebar-menu-bookmarks =
     .label = बुकमार्क
-
 sidebar-menu-history =
     .label = जारिमिन
-
 sidebar-menu-close =
     .label = साइड बारखौ बन्द खालाम
+sidebar-close-button =
+    .tooltiptext = साइड बारखौ बन्द खालाम
