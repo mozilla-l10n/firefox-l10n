@@ -133,3 +133,11 @@ tab-context-move-tabs =
            *[other] { $tabCount } panelů
         }
     .accesskey = s
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Poslat panel do zařízení
+            [few] Poslat { $tabCount } panely do zařízení
+           *[other] Poslat { $tabCount } panelů do zařízení
+        }
+    .accesskey = n
