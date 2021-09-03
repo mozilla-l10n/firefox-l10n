@@ -1150,7 +1150,7 @@ addon-recommendations =
 addon-recommendations-link = Μάθετε περισσότερα
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = Η αναφορά δεδομένων είναι ανενεργή για αυτή την έκδοση
+collection-health-report-disabled = Η αναφορά δεδομένων είναι ανενεργή για αυτήν τη ρύθμιση δομής
 collection-backlogged-crash-reports =
     .label = Να επιτρέπεται στο { -brand-short-name } η αποστολή εκκρεμουσών αναφορών σφαλμάτων
     .accesskey = σ

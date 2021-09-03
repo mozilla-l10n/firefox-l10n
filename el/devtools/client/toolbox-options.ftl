@@ -114,7 +114,7 @@ options-enable-service-workers-http-tooltip =
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Ενεργοποίηση χαρτών πηγής
 options-source-maps-tooltip =
-    .title = Αν ενεργοποιήσετε αυτή την επιλογή, οι πηγές θα αντιστοιχιστούν στα εργαλεία.
+    .title = Αν ενεργοποιήσετε αυτήν την επιλογή, οι πηγές θα αντιστοιχηθούν στα εργαλεία.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Τρέχουσα συνεδρία μόνο, επαναφορτώνει τη σελίδα
 # The label for the checkbox that toggles the display of the platform data in the
