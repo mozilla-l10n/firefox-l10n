@@ -6,3 +6,5 @@ sidebar-menu-bookmarks =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 sidebar-menu-history =
     .label = ᱱᱟᱜᱟᱢ
+sidebar-close-button =
+    .tooltiptext = धारे बार बोनदोय मे.
