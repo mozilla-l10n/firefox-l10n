@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = 사용해보기: 탭 고정
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 왜 이게 나왔나요
-
 cfr-doorhanger-extension-cancel-button = 나중에
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = 지금 추가
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = 이 탭 고정
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = 추천 설정 관리
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = 이 추천을 표시하지 않음
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = 더 알아보기
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } 제작
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = 추천
 cfr-doorhanger-extension-notification2 = 추천
     .tooltiptext = 확장 기능 추천
     .a11y-announcement = 확장 기능 추천 사용 가능
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = 추천
@@ -65,7 +57,6 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } 사용자
     }
-
 cfr-doorhanger-pintab-description = 가장 많이 사용하는 사이트에 쉽게 접근하세요. 사이트를 탭으로 열어 둡니다(다시 시작할 때에도).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -73,10 +64,8 @@ cfr-doorhanger-pintab-description = 가장 많이 사용하는 사이트에 쉽�
 cfr-doorhanger-pintab-step1 = 고정하려는 탭에서 <b>마우스 오른쪽 버튼을 클릭</b>하세요.
 cfr-doorhanger-pintab-step2 = 메뉴에서 <b>탭 고정</b>을 선택하세요.
 cfr-doorhanger-pintab-step3 = 사이트에 업데이트가 있으면 고정된 탭에 파란색 점이 표시됩니다.
-
 cfr-doorhanger-pintab-animation-pause = 일시 중지
 cfr-doorhanger-pintab-animation-resume = 계속
-
 
 ## Firefox Accounts Message
 
@@ -98,22 +87,16 @@ cfr-protections-panel-link-text = 더 알아보기
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = 새 기능:
-
 cfr-whatsnew-button =
     .label = 새 기능
     .tooltiptext = 새 기능
-
 cfr-whatsnew-panel-header = 새 기능
-
 cfr-whatsnew-release-notes-link-text = 출시 정보 읽기
-
 cfr-whatsnew-fx70-title = { -brand-short-name }는 이제 사용자의 개인 정보 보호를 위해 더 열심히 싸웁니다
 cfr-whatsnew-fx70-body = 최신 업데이트는 추적 방지 기능을 향상시키고 모든 사이트에 대해 안전한 비밀번호를 만드는 것이 그 어느때보다 쉬워졌습니다.
-
 cfr-whatsnew-tracking-protect-title = 추적기로부터 보호
 cfr-whatsnew-tracking-protect-body = { -brand-short-name }는 온라인에서 사용자를 따라다니는 많은 일반적인 소셜 및 교차 사이트 추적기를 차단합니다.
 cfr-whatsnew-tracking-protect-link-text = 보고서 보기
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -123,11 +106,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } 이후
 cfr-whatsnew-tracking-blocked-link-text = 보고서 보기
-
 cfr-whatsnew-lockwise-backup-title = 비밀번호 백업
 cfr-whatsnew-lockwise-backup-body = 이제 로그인하는 곳 어디에서나 접근할 수 있는 안전한 비밀번호를 생성하세요.
 cfr-whatsnew-lockwise-backup-link-text = 백업 켜기
-
 cfr-whatsnew-lockwise-take-title = 비밀번호를 가지고 다니세요
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 모바일 앱을 사용하면 어디서든 백업된 비밀번호에 안전하게 접근할 수 있습니다.
 cfr-whatsnew-lockwise-take-link-text = 앱 받기
@@ -136,9 +117,6 @@ cfr-whatsnew-lockwise-take-link-text = 앱 받기
 
 cfr-whatsnew-searchbar-title = 주소 표시줄에서 입력은 더 적게하고 더 많이 찾기
 cfr-whatsnew-searchbar-body-topsites = 이제 주소 표시줄을 선택하면, 상자가 확장되어 상위 사이트에 대한 링크가 표시됩니다.
-
-## Search bar
-
 cfr-whatsnew-searchbar-icon-alt-text = 돋보기 아이콘
 
 ## Picture-in-Picture
@@ -163,7 +141,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] 디지털 지문 차단됨
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name }는 기기와 동작에 대한 정보를 몰래 수집하여 사용자의 광고 프로필을 만드는 많은 디지털 지문을 차단합니다.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = 디지털 지문
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name }는 기기와 동작에 대한 정보를 몰래 수집하여 사용자의 광고 프로필을 만드는 디지털 지문을 차단할 수 있습니다.
@@ -221,7 +198,6 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name }가 { $date } 이후 <b>{ $blockedCount }</b>개 이상의 추적기를 차단했습니다!
     }
-
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -264,12 +240,8 @@ cfr-whatsnew-protections-icon-alt = 방패 아이콘
 
 cfr-whatsnew-better-pdf-header = 더 나은 PDF 경험
 cfr-whatsnew-better-pdf-body = 이제 PDF 문서가 { -brand-short-name }에서 직접 열리므로 워크플로에 쉽게 접근할 수 있습니다.
-
 cfr-doorhanger-milestone-close-button = 닫기
     .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -289,21 +261,20 @@ cfr-doorhanger-fission-primary-button = 확인
 cfr-doorhanger-fission-secondary-button = 더 알아보기
     .accesskey = L
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = 이 사이트의 동영상은 이 버전의 { -brand-short-name }에서 제대로 재생되지 않을 수 있습니다. 전체 동영상 지원을 받으려면, 지금 { -brand-short-name }를 업데이트하세요.
 cfr-doorhanger-video-support-header = 동영상을 재생하려면 { -brand-short-name } 업데이트
 cfr-doorhanger-video-support-primary-button = 지금 업데이트
     .accesskey = U
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
+spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name }으로 사생활 보호 유지
+    .accesskey = S
+spotlight-public-wifi-vpn-link = 나중에
+    .accesskey = N
