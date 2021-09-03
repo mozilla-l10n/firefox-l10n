@@ -731,17 +731,20 @@ ui-tour-info-panel-close =
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
 popups-infobar-allow =
-    .label = Permitir popups de { $uriHost }
-    .accesskey = p
+    .label = Permitir abertura de janelas de { $uriHost }
+    .accesskey = P
 popups-infobar-block =
-    .label = Bloquear popups de { $uriHost }
-    .accesskey = p
+    .label = Bloquear abertura de janelas de { $uriHost }
+    .accesskey = B
 
 ##
 
 popups-infobar-dont-show-message =
-    .label = Não mostrar esta mensagem ao bloquear popups
+    .label = Não mostrar esta mensagem ao bloquear abertura de janelas
     .accesskey = N
+edit-popup-settings =
+    .label = Gerenciar configurações de abertura de janelas…
+    .accesskey = G
 picture-in-picture-hide-toggle =
     .label = Ocultar seletor de picture-in-picture
     .accesskey = O

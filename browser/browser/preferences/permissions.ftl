@@ -98,9 +98,9 @@ permissions-exceptions-https-only-desc = Você pode desativar o modo somente HTT
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = Sites permitidos - Popups
+    .title = Sites permitidos - Abertura de janelas
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Você pode especificar que sites têm permissão para abrir janelas popup. Digite o endereço exato de um site e clique em Permitir.
+permissions-exceptions-popup-desc = Você pode especificar que sites têm permissão para abrir janelas. Digite o endereço exato de um site e clique em Permitir.
 
 ## Exceptions - Saved Logins
 
