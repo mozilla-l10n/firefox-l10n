@@ -4,4 +4,5 @@
 
 sidebar-menu-bookmarks =
     .label = Ndó~làz=ná
-
+sidebar-close-button =
+    .tooltiptext = Toog kue
