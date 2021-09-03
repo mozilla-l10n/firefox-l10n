@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = Järjehoidjad
-
 sidebar-menu-history =
     .label = Ajalugu
-
 sidebar-menu-synced-tabs =
     .label = Sünkroniseeritud kaardid
-
 sidebar-menu-close =
     .label = Sulge külgriba
+sidebar-close-button =
+    .tooltiptext = Sulge külgriba
