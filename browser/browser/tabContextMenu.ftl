@@ -109,3 +109,10 @@ tab-context-move-tabs =
            *[other] Տեղափոխել ներդիրները
         }
     .accesskey = v
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Ուղարկել ներդիրը սարքին
+           *[other] Ուղարկել { $tabCount } ներդիրները սարքին
+        }
+    .accesskey = n
