@@ -139,3 +139,12 @@ tab-context-move-tabs =
            *[other] Premakni zavihke
         }
     .accesskey = m
+tab-context-send-tabs-to-device =
+    .label =
+        { $tabCount ->
+            [one] Pošlji zavihek na napravo
+            [two] Pošlji { $tabCount } zavihka na napravo
+            [few] Pošlji { $tabCount } zavihke na napravo
+           *[other] Pošlji { $tabCount } zavihkov na napravo
+        }
+    .accesskey = š
