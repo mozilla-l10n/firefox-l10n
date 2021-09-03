@@ -4,12 +4,11 @@
 
 sidebar-menu-bookmarks =
     .label = סימניות
-
 sidebar-menu-history =
     .label = היסטוריה
-
 sidebar-menu-synced-tabs =
     .label = לשוניות מסונכרנות
-
 sidebar-menu-close =
     .label = סגירת סרגל הצד
+sidebar-close-button =
+    .tooltiptext = סגירת סרגל הצד
