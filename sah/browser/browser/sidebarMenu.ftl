@@ -4,4 +4,5 @@
 
 sidebar-menu-bookmarks =
     .label = Бэлиэлэр
-
+sidebar-close-button =
+    .tooltiptext = Ойоҕос хапталы көстүбэт гын
