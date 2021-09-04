@@ -6,9 +6,16 @@
 thunderbird-import-name = Thunderbird
 # Description of the import module
 thunderbird-import-description = Εισαγωγή email από έναν κατάλογο προφίλ του Thunderbird.
+import-from-thunderbird-zip =
+    .label = Thunderbird (αντίγραφο ασφαλείας προφίλ· αρχείο zip κάτω από 2GB)
+    .accesskey = z
 import-from-thunderbird-dir =
     .label = Thunderbird (φάκελος προφίλ)
     .accesskey = T
 import-select-profile-zip = Επιλέξτε έναν συμπιεσμένο κατάλογο προφίλ
+import-select-profile-dir = Επιλέξτε κατάλογο προφίλ
+zip-file-too-big-title = Πολύ μεγάλο αρχείο zip
+zip-file-too-big-message = Το επιλεγμένο αρχείο zip είναι μεγαλύτερο από 2 GB. Παρακαλώ εξαγάγετέ το πρώτα και έπειτα, κάντε εισαγωγή από τον εξαγόμενο φάκελο.
 wizardpage-failed =
     .label = Αποτυχία εισαγωγής
+wizardpage-failed-message = Απρόσμενη αποτυχία εισαγωγής, περισσότερες πληροφορίες θα βρείτε στην κονσόλα σφαλμάτων.

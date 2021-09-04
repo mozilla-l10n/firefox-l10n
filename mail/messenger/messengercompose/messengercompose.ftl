@@ -176,6 +176,41 @@ show-to-row-main-menuitem =
 show-to-row-extra-menuitem =
     .label = Προς
     .accesskey = Π
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Προς
+    .title = Εμφάνιση πεδίου «Προς» ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Κοιν.
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Πεδίο «Κοιν.»
+    .accesskey = Κ
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Κοιν.
+    .accesskey = Κ
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Κοιν.
+    .title = Εμφάνιση πεδίου «Κοιν.» ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Κρυφή κοιν.
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Κρυφή κοιν.
+    .accesskey = ρ
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Κρυφή κοιν.
+    .accesskey = ρ
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Κρυφή κοιν.
+    .title = Εμφάνιση πεδίου «Κρυφή κοιν.» ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Άλλα πεδία διευθυνσιοδότησης για εμφάνιση
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->

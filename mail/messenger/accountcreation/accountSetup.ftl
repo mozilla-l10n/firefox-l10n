@@ -39,6 +39,8 @@ account-provisioner-button = Απόκτηση νέας διεύθυνσης emai
     .accesskey = Α
 account-setup-password-toggle =
     .title = Εμφάνιση/απόκρυψη του κωδικού πρόσβασης
+account-setup-password-toggle-show =
+    .title = Εμφάνιση κωδικού πρόσβασης σε κείμενο
 account-setup-password-toggle-hide =
     .title = Απόκρυψη κωδικού πρόσβασης
 account-setup-remember-password = Απομνημόνευση κωδικού πρόσβασης
@@ -212,6 +214,9 @@ exchange-dialog-cancel-button = Ακύρωση
 ## Dismiss account creation dialog
 
 exit-dialog-title = Δεν έχουν ρυθμιστεί λογαριασμοί email
+exit-dialog-description = Θέλετε σίγουρα να ακυρώσετε τη διαδικασία ρύθμισης; Το { -brand-short-name } μπορεί να χρησιμοποιηθεί ακόμα και χωρίς λογαριασμό email, αλλά πολλές λειτουργίες δεν θα είναι διαθέσιμες.
+account-setup-no-account-checkbox = Χρήση του { -brand-short-name } χωρίς λογαριασμό email
+    .accesskey = Χ
 exit-dialog-cancel-button = Συνέχεια ρύθμισης
     .accesskey = Σ
 exit-dialog-confirm-button = Κλείσιμο ρύθμισης
