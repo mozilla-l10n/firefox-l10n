@@ -60,6 +60,6 @@ imported-safari-reading-list = ᱯᱟᱲᱦᱟᱣ ᱥᱩᱪᱤ  (Safari ᱠᱷ�
 ## normalized to just "edge" and "chrome" for these strings.
 
 browser-data-session-checkbox =
-    .label = विंडो आर टैब को
+    .label = ᱣᱤᱱᱰᱚ ᱟᱨ ᱴᱮᱵᱥ ᱠᱚ
 browser-data-session-label =
-    .value = विंडो आर टैब को
+    .value = ᱣᱤᱱᱰᱚ ᱟᱨ ᱴᱮᱵᱥ ᱠᱚ
