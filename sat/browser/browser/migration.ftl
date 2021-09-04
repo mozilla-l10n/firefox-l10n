@@ -40,9 +40,16 @@ import-done-description = ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱮᱥ ᱞᱮ�
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = ᱠᱷᱚᱱ { $source }
 source-name-ie = Internet Explorer
+source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
+source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
+source-name-chrome-beta = Google Chrome Beta
+source-name-chrome-dev = Google Chrome Dev
+source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
+source-name-360se = 360 Secure Browser
 imported-safari-reading-list = ᱯᱟᱲᱦᱟᱣ ᱥᱩᱪᱤ  (Safari ᱠᱷᱚᱱ)
 
 ## Browser data types
@@ -59,6 +66,22 @@ imported-safari-reading-list = ᱯᱟᱲᱦᱟᱣ ᱥᱩᱪᱤ  (Safari ᱠᱷ�
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = ᱠᱩᱠᱤ ᱠᱚ
+browser-data-cookies-label =
+    .value = ᱠᱩᱠᱤᱡᱠᱚ
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+           *[other] ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+           *[other] ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ
+        }
 browser-data-session-checkbox =
     .label = ᱣᱤᱱᱰᱚ ᱟᱨ ᱴᱮᱵᱥ ᱠᱚ
 browser-data-session-label =
