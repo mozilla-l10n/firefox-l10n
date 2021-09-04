@@ -549,6 +549,16 @@ urlbar-result-action-search-tabs = Buscar pestañas
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Sugerencias de { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -735,6 +745,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = No mostrar este mensaje cuando se bloqueen ventanas emergentes
     .accesskey = N
+edit-popup-settings =
+    .label = Administrar ajustes de ventanas emergentes…
+    .accesskey = m
 picture-in-picture-hide-toggle =
     .label = Ocultar botón de Picture-in-Picture
     .accesskey = H
