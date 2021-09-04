@@ -44,6 +44,7 @@ this container is a toolbar. This avoids double-speaking. -->
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -155,7 +156,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY sidebarCloseButton.tooltip     "धारे बार बोनदोय मे.">
 
-<!ENTITY quitApplicationCmdWin2.label       "बाहरे ओडोक्">
+<!ENTITY quitApplicationCmdWin2.label       "ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmd.label       "थिर होचो">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
