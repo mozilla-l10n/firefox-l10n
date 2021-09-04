@@ -67,10 +67,6 @@ appmenu-remote-tabs-sign-into-sync =
     .label = ลงชื่อเข้า Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = เปิด Sync…
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = แสดงทั้งหมด
-    .tooltiptext = แสดงแท็บทั้งหมดจากอุปกรณ์นี้
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = แสดงแท็บเพิ่มเติม
@@ -79,6 +75,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = ไม่มีแท็บที่เปิดอยู่
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = เปิดการซิงค์แท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ
+appmenu-remote-tabs-opensettings =
+    .label = การตั้งค่า
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?

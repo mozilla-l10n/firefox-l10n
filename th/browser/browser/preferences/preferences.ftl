@@ -242,6 +242,7 @@ confirm-browser-language-change-button = นำไปใช้แล้วเร
 translate-web-pages =
     .label = แปลเนื้อหาเว็บ
     .accesskey = ป
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = แปลโดย <img data-l10n-name="logo"/>
@@ -842,6 +843,7 @@ forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = คุณกำลังอยู่ในโหมด FIPS ซึ่ง FIPS จำเป็นต้องมีรหัสผ่านหลักที่ไม่ว่างเปล่า
 forms-master-pw-fips-desc = การเปลี่ยนรหัสผ่านล้มเหลว
 forms-windows-sso-learn-more-link = เรียนรู้เพิ่มเติม
+forms-windows-sso-desc = จัดการบัญชีในการตั้งค่าอุปกรณ์ของคุณ
 
 ## OS Authentication dialog
 

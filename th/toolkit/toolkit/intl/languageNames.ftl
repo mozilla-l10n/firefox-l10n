@@ -159,6 +159,7 @@ language-name-ru = รัสเซีย
 language-name-rw = คินยาร์วานดา
 language-name-sa = สันสกฤต
 language-name-sc = ซาดิเนีย
+language-name-sco = สก็อตส์
 language-name-sd = สินธิ
 language-name-se = เซมีเหนือ
 language-name-sg = แซงโก

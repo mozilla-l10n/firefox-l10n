@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = ลองนี่: ปักหมุดแท�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ทำไมฉันจึงเห็นสิ่งนี้
-
 cfr-doorhanger-extension-cancel-button = ไม่ใช่ตอนนี้
     .accesskey = ม
-
 cfr-doorhanger-extension-ok-button = เพิ่มตอนนี้
     .accesskey = พ
 cfr-doorhanger-pintab-ok-button = ปักหมุดแท็บนี้
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = จัดการการตั้งค่าคำแนะนำ
     .accesskey = จ
-
 cfr-doorhanger-extension-never-show-recommendation = ไม่ต้องแสดงคำแนะนำนี้ให้ฉัน
     .accesskey = ส
-
 cfr-doorhanger-extension-learn-more-link = เรียนรู้เพิ่มเติม
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = โดย { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = คำแนะนำ
 cfr-doorhanger-extension-notification2 = แนะนำ
     .tooltiptext = ส่วนขยายที่แนะนำ
     .a11y-announcement = ส่วนขยายแนะนำที่มีอยู่
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = แนะนำ
@@ -65,7 +57,6 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } ผู้ใช้
     }
-
 cfr-doorhanger-pintab-description = เข้าถึงเว็บที่คุณใช้บ่อยได้อย่างง่ายดาย เปิดเว็บไว้ในแท็บตลอดเวลา (แม้ว่าคุณจะเปิดปิดใหม่ก็ตาม)
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -73,10 +64,8 @@ cfr-doorhanger-pintab-description = เข้าถึงเว็บที่�
 cfr-doorhanger-pintab-step1 = <b>คลิกขวา</b> บนแท็บที่คุณต้องการจะปัก
 cfr-doorhanger-pintab-step2 = เลือก <b>ปักหมุดแท็บ</b> จากเมนู
 cfr-doorhanger-pintab-step3 = หากเว็บไซต์มีการเปลี่ยนแปลง คุณจะได้เห็นจุดสีฟ้าบนแท็บที่ถูกปัก
-
 cfr-doorhanger-pintab-animation-pause = หยุดชั่วคราว
 cfr-doorhanger-pintab-animation-resume = ทำต่อ
-
 
 ## Firefox Accounts Message
 
@@ -98,26 +87,20 @@ cfr-protections-panel-link-text = เรียนรู้เพิ่มเต�
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = คุณสมบัติใหม่:
-
 cfr-whatsnew-button =
     .label = มีอะไรใหม่
     .tooltiptext = มีอะไรใหม่
-
 cfr-whatsnew-panel-header = มีอะไรใหม่
-
 cfr-whatsnew-release-notes-link-text = อ่านบันทึกประจำรุ่น
-
 cfr-whatsnew-fx70-title = ตอนนี้ { -brand-short-name } ต่อสู้อย่างหนักขึ้นเพื่อความเป็นส่วนตัวของคุณ
 cfr-whatsnew-fx70-body =
     การอัปเดตล่าสุดเพิ่มคุณลักษณะการป้องกันการติดตามและทำให้
     สร้างรหัสผ่านที่ปลอดภัยสำหรับทุกไซต์ได้ง่ายขึ้นกว่าที่เคย
-
 cfr-whatsnew-tracking-protect-title = ป้องกันตัวคุณเองจากตัวติดตาม
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } บล็อกตัวติดตามสังคมออนไลน์และข้ามไซต์ทั่วไปจำนวนมากที่
     ติดตามสิ่งที่คุณทำออนไลน์
 cfr-whatsnew-tracking-protect-link-text = ดูรายงานของคุณ
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -127,11 +110,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = ตั้งแต่ { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = ดูรายงาน
-
 cfr-whatsnew-lockwise-backup-title = สำรองรหัสผ่านของคุณ
 cfr-whatsnew-lockwise-backup-body = คุณสามารถสร้างรหัสผ่านที่ปลอดภัยซึ่งสามารถเข้าถึงได้ทุกที่ที่คุณลงชื่อเข้าได้แล้วตอนนี้
 cfr-whatsnew-lockwise-backup-link-text = เปิดการสำรองข้อมูล
-
 cfr-whatsnew-lockwise-take-title = นำรหัสผ่านของคุณไปกับคุณ
 cfr-whatsnew-lockwise-take-body = แอปมือถือ { -lockwise-brand-short-name } ช่วยให้คุณเข้าถึงรหัสผ่านที่สำรองไว้ของคุณจากทุกที่ได้อย่างปลอดภัย
 cfr-whatsnew-lockwise-take-link-text = รับแอป
@@ -140,9 +121,6 @@ cfr-whatsnew-lockwise-take-link-text = รับแอป
 
 cfr-whatsnew-searchbar-title = ค้นหาได้มากขึ้นโดยพิมพ์น้อยลงในแถบที่อยู่
 cfr-whatsnew-searchbar-body-topsites = เพียงเลือกแถบที่อยู่แล้วกล่องจะขยายออกพร้อมลิงก์ไปยังไซต์เด่นของคุณ
-
-## Search bar
-
 cfr-whatsnew-searchbar-icon-alt-text = ไอคอนรูปแว่นขยาย
 
 ## Picture-in-Picture
@@ -167,7 +145,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] ลายนิ้วมือดิจิทัลถูกปิดกั้น
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } ปิดกั้นลายนิ้วมือดิจิทัลจำนวนมากที่แอบรวบรวมข้อมูลเกี่ยวกับอุปกรณ์และการใช้งานของคุณอย่างลับ ๆ เพื่อสร้างโปรไฟล์โฆษณาของคุณ
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = ลายนิ้วมือดิจิทัล
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } สามารถปิดกั้นลายนิ้วมือดิจิทัลจำนวนมากที่แอบรวบรวมข้อมูลเกี่ยวกับอุปกรณ์และการใช้งานของคุณอย่างลับ ๆ เพื่อสร้างโปรไฟล์โฆษณาของคุณได้
@@ -225,7 +202,6 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } ปิดกั้นตัวติดตามไปแล้ว <b>{ $blockedCount }</b> ตัวตั้งแต่ { $date }!
     }
-
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -268,12 +244,8 @@ cfr-whatsnew-protections-icon-alt = ไอคอนโล่
 
 cfr-whatsnew-better-pdf-header = ประสบการณ์ PDF ที่ดีขึ้น
 cfr-whatsnew-better-pdf-body = ตอนนี้คุณสามารถเปิดเอกสาร PDF ได้โดยตรงใน { -brand-short-name } ช่วยให้คุณทำงานได้อย่างง่ายดาย
-
 cfr-doorhanger-milestone-close-button = ปิด
     .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -293,21 +265,18 @@ cfr-doorhanger-fission-primary-button = ตกลง เข้าใจแล้
 cfr-doorhanger-fission-secondary-button = เรียนรู้เพิ่มเติม
     .accesskey = L
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = วิดีโอบนไซต์นี้อาจเล่นไม่ถูกต้องใน { -brand-short-name } เวอร์ชันนี้ สำหรับการสนับสนุนวิดีโอเต็มรูปแบบ อัปเดต { -brand-short-name } ทันที
 cfr-doorhanger-video-support-header = อัปเดต { -brand-short-name } เพื่อเล่นวิดีโอ
 cfr-doorhanger-video-support-primary-button = อัปเดตตอนนี้
     .accesskey = U
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
+spotlight-public-wifi-vpn-link = ไม่ใช่ตอนนี้
+    .accesskey = N
