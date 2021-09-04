@@ -63,7 +63,7 @@
 
 <!-- permissions -->
 <!ENTITY perm.UseDefault "Χρήση προεπιλογής">
-<!ENTITY perm.AskAlways "Πάντα ερώτηση">
+<!ENTITY perm.AskAlways "Ερώτηση πάντα">
 <!ENTITY perm.NeverSave "Ποτέ αποθήκευση">
 <!ENTITY perm.Allow "Αποδοχή">
 <!ENTITY perm.AllowSameDomain "Αποδοχή για τον ίδιο τομέα">
