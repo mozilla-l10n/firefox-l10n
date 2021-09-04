@@ -23,7 +23,6 @@ places-open-window =
 places-open-private-window =
     .label = เปิดในหน้าต่างส่วนตัวใหม่
     .accesskey = ส
-
 places-new-bookmark =
     .label = ที่คั่นหน้าใหม่…
     .accesskey = ม
@@ -36,14 +35,12 @@ places-new-folder =
 places-new-separator =
     .label = ตัวแบ่งใหม่
     .accesskey = บ
-
 places-open-in-window =
     .label = เปิดในหน้าต่างใหม่
     .accesskey = N
 places-open-in-private-window =
     .label = เปิดในหน้าต่างส่วนตัวใหม่
     .accesskey = P
-
 places-add-bookmark =
     .label = เพิ่มที่คั่นหน้า…
     .accesskey = B
@@ -56,7 +53,6 @@ places-add-folder =
 places-add-separator =
     .label = เพิ่มตัวแบ่ง
     .accesskey = S
-
 places-view =
     .label = มุมมอง
     .accesskey = ม
@@ -75,12 +71,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = ตามวันที่และไซต์
     .accesskey = ต
-
 places-history-search =
     .placeholder = ค้นหาประวัติ
 places-bookmarks-search =
     .placeholder = ค้นหาที่คั่นหน้า
-
 places-delete-domain-data =
     .label = ลืมเกี่ยวกับไซต์นี้
     .accesskey = ม
@@ -90,7 +84,6 @@ places-sortby-name =
 places-properties =
     .label = คุณสมบัติ
     .accesskey = ส
-
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = แก้ไขที่คั่นหน้า…
@@ -108,18 +101,18 @@ places-remove-folder =
            *[other] ลบโฟลเดอร์
         }
     .accesskey = m
-
+places-edit-folder2 =
+    .label = แก้ไขโฟลเดอร์
+    .accesskey = i
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = ที่คั่นหน้าที่ถูกจัดการ
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = โฟลเดอร์ย่อย
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = ที่คั่นหน้าอื่น ๆ
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -129,7 +122,6 @@ places-remove-bookmark =
            *[other] เอาที่คั่นหน้าออก
         }
     .accesskey = e
-
 places-manage-bookmarks =
     .label = จัดการที่คั่นหน้า
     .accesskey = M
