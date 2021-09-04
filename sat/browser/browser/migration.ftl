@@ -27,23 +27,23 @@ import-from-firefox =
     .accesskey = ᱯ
 no-migration-sources = ᱡᱟᱦᱱᱟᱜ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱵᱟᱝ ᱚᱠᱟ ᱨᱮ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱢᱮᱱᱟᱜ ᱟ ᱦᱤᱛᱟᱹᱞ ᱟᱨ ᱵᱟᱝ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱰᱟᱴᱟ ᱵᱟᱭ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 import-items-page-title = ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱡᱱᱤᱥ ᱠᱚ
-import-items-description = बाछाव मे ओका जिनिस को आ़गुय ला़गित्:
-import-migrating-page-title = आ़गुयेत् आ…
-import-migrating-description = नोवा जिनिस को दो नितोक् आ़गु ला़गित् …
-import-select-profile-page-title = प्रोफाइल बाछाव मे
-import-select-profile-description = नोवा फ्रोफाइय को दो आ़गु ला़गित् ञामोक् आ खोन :
-import-done-page-title = आ़गु पुरा़व एना
-import-done-description = नोवा जिनिस को बेस लेकाते आ़गु लेन ताहेना:
+import-items-description = ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱚᱞᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱟᱹᱜᱩᱭ ᱞᱟᱹᱜᱤᱫ:
+import-migrating-page-title = ᱟᱹᱜᱩᱭᱮᱫ ᱟ…
+import-migrating-description = ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱫᱚ ᱱᱤᱛᱚᱜ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ…
+import-select-profile-page-title = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+import-select-profile-description = ᱱᱚᱶᱟ ᱯᱨᱚᱯᱷᱟᱩᱤᱞ ᱠᱚ ᱫᱚ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱧᱟᱢᱚᱜᱼᱟ ᱠᱷᱚᱱ:
+import-done-page-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
+import-done-description = ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱮᱥ ᱞᱮᱠᱟᱛᱮ ᱟᱹᱜᱩ ᱠᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ:
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
-imported-bookmarks-source = खोन { $source }
-source-name-ie = इनटारनेट एक्सपोलोरार
-source-name-safari = साफरी
-source-name-chrome = गुगाल क्रोम
-source-name-firefox = मोजिला फायारफॉक्स
-imported-safari-reading-list = पाड़हाव सुची   (साफारीखोन)
+imported-bookmarks-source = ᱠᱷᱚᱱ { $source }
+source-name-ie = Internet Explorer
+source-name-safari = Safari
+source-name-chrome = Google Chrome
+source-name-firefox = Mozilla Firefox
+imported-safari-reading-list = ᱯᱟᱲᱦᱟᱣ ᱥᱩᱪᱤ  (Safari ᱠᱷᱚᱱ)
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
