@@ -11,12 +11,18 @@
 
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = ᱠᱩᱥᱤᱠᱚ
 menu-application-services =
     .label = ᱠᱟᱹᱢᱤ ᱠᱚ
+menu-application-hide-this =
+    .label = { -brand-shorter-name } ᱩᱠᱩᱭ ᱢᱮ
 menu-application-hide-other =
     .label = ᱮᱴᱟᱜ ᱠᱚ ᱩᱠᱩᱭ ᱢᱮ
 menu-application-show-all =
     .label = ᱡᱷᱚᱛᱚ ᱩᱫᱩᱜᱽ ᱢᱮ
+menu-application-touch-bar =
+    .label = ᱴᱚᱪ ᱵᱟᱨ ᱠᱚᱥᱴᱚᱢᱟᱭᱤᱡᱽ ᱢᱮ…
 
 ##
 
@@ -35,6 +41,13 @@ menu-quit =
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name } ᱪᱟᱞᱟᱜ ᱢᱮ
+menu-about =
+    .label = { -brand-shorter-name } ᱵᱟᱵᱚᱛ
+    .accesskey = ᱵ
 
 ## File Menu
 
@@ -43,6 +56,9 @@ menu-file =
     .accesskey = ᱨ
 menu-file-new-tab =
     .label = ᱱᱟᱶᱟ ᱴᱮᱵᱽ
+    .accesskey = ᱱ
+menu-file-new-container-tab =
+    .label = ᱱᱟᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ
     .accesskey = ᱱ
 menu-file-new-window =
     .label = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱚ
@@ -70,6 +86,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = ᱞᱤᱝᱠ ᱤᱢᱮᱞ ᱢᱮ ...
     .accesskey = ᱞ
+menu-file-share-url =
+    .label = ᱦᱟᱹᱴᱤᱧ
+    .accesskey = ᱦ
 menu-file-print-setup =
     .label = ᱥᱟᱦᱴᱟ ᱥᱟᱡᱟᱣ...
     .accesskey = ᱥ
@@ -79,6 +98,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = ᱪᱷᱟᱯᱟ…
     .accesskey = ᱪ
+menu-file-import-from-another-browser =
+    .label = ᱮᱴᱟᱜᱟᱜ ᱵᱨᱟᱩᱡᱽᱚᱮ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ …
+    .accesskey = ᱵ
 menu-file-go-offline =
     .label = ᱚᱯᱷᱞᱟᱭᱤ ᱠᱟᱹᱢᱤ ᱢᱮ
     .accesskey = ᱚ
@@ -91,6 +113,9 @@ menu-edit =
 menu-edit-find-on =
     .label = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱧᱟᱢ...
     .accesskey = ᱱ
+menu-edit-find-in-page =
+    .label = ᱥᱟᱠᱟᱢ ᱨᱮ ᱯᱟᱱᱛᱮ ᱢᱮ
+    .accesskey = ᱥ
 menu-edit-find-again =
     .label = ᱫᱚᱦᱲᱟ ᱧᱟᱢ
     .accesskey = ᱫ
@@ -109,6 +134,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = ᱠᱩᱥᱤᱭᱟᱜ ᱛᱮᱭᱟᱨ
     .accesskey = ᱠ
+menu-view-customize-toolbar2 =
+    .label = ᱴᱩᱞᱵᱟᱨ ᱠᱚᱥᱴᱚᱢᱟᱭᱤᱡᱽ ᱢᱮ…
+    .accesskey = ᱴ
 menu-view-sidebar =
     .label = ᱫᱷᱤᱨᱮ ᱵᱟᱨ
     .accesskey = ᱫ
@@ -116,6 +144,8 @@ menu-view-bookmarks =
     .label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
 menu-view-history-button =
     .label = ᱱᱟᱜᱟᱢ
+menu-view-synced-tabs-sidebar =
+    .label = ᱛᱷᱟᱨ ᱦᱚᱪᱚ ᱴᱮᱵ ᱠᱚ
 menu-view-full-zoom =
     .label = ᱦᱩᱲᱤᱧ ᱞᱟᱹᱴᱩ ᱛᱮᱭᱟᱨ
     .accesskey = ᱦ

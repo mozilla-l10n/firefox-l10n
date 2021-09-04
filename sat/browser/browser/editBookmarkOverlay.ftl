@@ -10,6 +10,17 @@ bookmark-overlay-location =
     .accesskey = ᱴ
 bookmark-overlay-folder =
     .value = ᱯᱚᱨᱢᱟᱱ :
+bookmark-overlay-name-2 =
+    .value = ᱧᱩᱛᱩᱢ
+    .accesskey = ᱧ
+bookmark-overlay-url =
+    .value = URL
+    .accesskey = U
+# Location refers to the position of the bookmark within the browser's
+# bookmarks, not to its URL or address.
+bookmark-overlay-location-2 =
+    .value = ᱡᱟᱭᱜᱟ
+    .accesskey = ᱡ
 bookmark-overlay-choose =
     .label = ᱵᱟᱪᱷᱟᱣ ᱢᱮ…
 bookmark-overlay-folders-expander =
@@ -22,6 +33,9 @@ bookmark-overlay-new-folder-button =
 bookmark-overlay-tags =
     .value = ᱛᱚᱞ ᱠᱚ:
     .accesskey = ᱛ
+bookmark-overlay-tags-2 =
+    .value = ᱴᱮᱜᱥ
+    .accesskey = ᱴ
 bookmark-overlay-tags-empty-description =
     .placeholder = ᱠᱚᱢᱟ ᱥᱟᱶ ᱵᱷᱮᱜᱟᱨᱟᱜ ᱛᱚᱞ ᱠᱚ
 bookmark-overlay-tags-expander =

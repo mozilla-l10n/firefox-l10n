@@ -14,12 +14,32 @@ close-shortcut =
     .key = W
 tab-new-shortcut =
     .key = T
+location-open-shortcut =
+    .key = L
+location-open-shortcut-alt =
+    .key = D
 search-focus-shortcut =
     .key = K
+# This shortcut is used in two contexts:
+#   - web search
+#   - find in page
+find-shortcut =
+    .key = F
 search-find-again-shortcut =
     .key = G
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+search-find-selection-shortcut =
+    .key = E
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+search-focus-shortcut-alt =
+    .key =
+        { PLATFORM() ->
+            [linux] J
+           *[other] E
+        }
 save-page-shortcut =
     .key = S
 page-source-shortcut =
@@ -72,13 +92,21 @@ full-zoom-reset-shortcut-alt =
 
 ##
 
+bidi-switch-direction-shortcut =
+    .key = X
 private-browsing-shortcut =
     .key = P
 
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+quit-app-shortcut =
+    .key = Q
 help-shortcut =
     .key = ?
 preferences-shortcut =
     .key = ,
+hide-app-shortcut =
+    .key = H
+hide-other-apps-shortcut =
+    .key = H

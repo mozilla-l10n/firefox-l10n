@@ -140,6 +140,16 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = ᱥᱟᱲᱮ ᱨᱩᱟᱹᱲ
     .accesskey = ᱥ
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
