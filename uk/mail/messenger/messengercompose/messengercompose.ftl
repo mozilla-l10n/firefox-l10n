@@ -145,7 +145,7 @@ to-compose-address-row-label =
 #   $key (String) - the shortcut key for this field
 to-compose-show-address-row-menuitem =
     .label = Поле { to-compose-address-row-label.value }
-    .accesskey = К
+    .accesskey = е
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 to-compose-show-address-row-label =
     .value = { to-compose-address-row-label.value }
@@ -155,7 +155,7 @@ cc-compose-address-row-label =
 #   $key (String) - the shortcut key for this field
 cc-compose-show-address-row-menuitem =
     .label = Поле { cc-compose-address-row-label.value }
-    .accesskey = я
+    .accesskey = л
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
@@ -165,7 +165,7 @@ bcc-compose-address-row-label =
 #   $key (String) - the shortcut key for this field
 bcc-compose-show-address-row-menuitem =
     .label = Поле { bcc-compose-address-row-label.value }
-    .accesskey = х
+    .accesskey = о
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
