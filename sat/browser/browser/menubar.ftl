@@ -155,6 +155,9 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = ᱢᱟᱨᱟᱝ ᱠᱷᱚᱱ ᱦᱤᱲᱤᱧ ᱛᱮᱭᱟᱨ
     .accesskey = ᱢ
+menu-view-full-zoom-actual-size =
+    .label = ᱴᱷᱤᱠ ᱢᱟᱨᱟᱝ ᱛᱮᱫ
+    .accesskey = ᱴ
 menu-view-full-zoom-toggle =
     .label = ᱮᱠᱷᱮᱱ ᱚᱱᱚᱞ ᱦᱤᱲᱤᱧ ᱢᱟᱨᱟᱝ
     .accesskey = ᱚ
@@ -167,6 +170,12 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = ᱢᱩᱞ ᱥᱟᱦᱴᱟ ᱦᱩᱱᱟᱹᱨ
     .accesskey = ᱢ
+menu-view-charset =
+    .label = ᱚᱞ ᱮᱱᱠᱚᱰᱤᱝ
+    .accesskey = ᱚ
+menu-view-repair-text-encoding =
+    .label = ᱚᱞ ᱮᱱᱠᱚᱰᱤᱝ ᱥᱟᱡᱟᱣ ᱢᱮ
+    .accesskey = ᱚ
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -177,9 +186,15 @@ menu-view-enter-full-screen =
 menu-view-exit-full-screen =
     .label = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ
     .accesskey = ᱯ
+menu-view-full-screen =
+    .label = ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ
+    .accesskey = ᱯ
 
 ##
 
+menu-view-show-all-tabs =
+    .label = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ  ᱢᱮ
+    .accesskey = ᱴ
 menu-view-bidi-switch-page-direction =
     .label = ᱥᱟᱦᱴᱟ ᱱᱟᱠᱷᱟ ᱚᱛᱟᱭ ᱢᱮ
     .accesskey = ᱥ
@@ -193,10 +208,14 @@ menu-history-show-all-history =
     .label = ᱡᱷᱚᱛᱚ ᱱᱟᱜᱟᱢᱠᱚ ᱫᱮᱠᱷᱟᱣᱢᱮ
 menu-history-clear-recent-history =
     .label = ᱱᱤᱛᱚᱜᱼᱟᱜ ᱱᱟᱜᱟᱢ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ...
+menu-history-hidden-tabs =
+    .label = ᱩᱠᱩ ᱴᱮᱵᱽ ᱠᱚ
 menu-history-undo-menu =
     .label = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵᱽ ᱠᱚ
 menu-history-undo-window-menu =
     .label = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱣᱤᱱᱰᱚ ᱠᱚ
+menu-history-reopen-all-tabs = ᱡᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
+menu-history-reopen-all-windows = ᱡᱚᱛᱚ ᱣᱤᱱᱰᱚᱡᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱡᱷᱤᱡᱽ ᱢᱮ
 
 ## Bookmarks Menu
 
