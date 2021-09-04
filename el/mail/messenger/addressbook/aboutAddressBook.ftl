@@ -63,6 +63,8 @@ about-addressbook-sort-email-ascending =
     .label = Ταξινόμηση κατά διεύθυνση email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ταξινόμηση κατά διεύθυνση email (Z > A)
+about-addressbook-cards-context-write =
+    .label = Σύνταξη
 about-addressbook-confirm-delete-mixed-title = Διαγραφή επαφών και λιστών
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.

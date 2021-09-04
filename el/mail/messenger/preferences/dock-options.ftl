@@ -5,6 +5,9 @@
 dock-options-window-dialog =
     .title = Επιλογές εικονιδίου εφαρμογής
     .style = width: 35em;
+dock-options-show-badge =
+    .label = Εμφάνιση εικονιδίου εμβλήματος
+    .accesskey = μ
 bounce-system-dock-icon =
     .label = Κίνηση του εικονιδίου κατά την άφιξη νέων μηνυμάτων
     .accesskey = Κ
