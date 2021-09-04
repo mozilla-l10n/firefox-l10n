@@ -21,10 +21,9 @@
 <!ENTITY newWindowGroupWindow.accesskey "n">
 <!ENTITY externalGroupWindow.accesskey "v">
 
-<!ENTITY divertAll.label "Siempre desviar ventanas en pestañas">
+<!ENTITY divertAll.label "Siempre convertir ventanas en pestañas">
 <!ENTITY divertAll.accesskey "d">
-<!ENTITY divertNoFeatures.label "No desviar ventanas personalizadas en pestañas">
+<!ENTITY divertNoFeatures.label "No convertir ventanas personalizadas en pestañas">
 <!ENTITY divertNoFeatures.accesskey "s">
 <!ENTITY dontDivert.label "Siempre abrir nuevas ventanas">
 <!ENTITY dontDivert.accesskey "e">
-
