@@ -26,7 +26,7 @@
 <!ENTITY moreDictionaries.label "Descargar más diccionarios…">
 <!ENTITY addToUserDictionaryButton.label "Agregar palabra">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
-<!ENTITY editUserDictionaryButton.label "Editar...">
+<!ENTITY editUserDictionaryButton.label "Editar…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
 <!ENTITY recheckButton2.label "Volver a revisar texto">
 <!ENTITY recheckButton2.accessKey "T">
