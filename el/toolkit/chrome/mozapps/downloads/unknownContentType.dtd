@@ -13,7 +13,7 @@
 <!ENTITY  saveFile.label              "Αποθήκευση αρχείου">
 <!ENTITY  saveFile.accesskey          "σ">
 
-<!ENTITY  rememberChoice.label        "Να γίνεται αυτόματα από εδώ και πέρα για αρχεία αυτού του είδους.">
+<!ENTITY  rememberChoice.label        "Να γίνεται αυτόματα από εδώ και πέρα για τέτοια αρχεία.">
 <!ENTITY  rememberChoice.accesskey    "π">
 
 <!ENTITY  whichIs.label              "που είναι:">

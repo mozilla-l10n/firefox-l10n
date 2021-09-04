@@ -326,7 +326,7 @@ applications-select-helper = Επιλογή βοηθητικής εφαρμογ�
 applications-manage-app =
     .label = Λεπτομέρειες εφαρμογής…
 applications-always-ask =
-    .label = Πάντα ερώτηση
+    .label = Ερώτηση πάντα
 applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
