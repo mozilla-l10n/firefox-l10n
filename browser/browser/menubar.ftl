@@ -38,20 +38,16 @@ menu-quit =
             [windows] S
            *[other] S
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Salir de { -brand-shorter-name }
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Salir de { -brand-shorter-name }
-
 menu-about =
     .label = Acerca de { -brand-shorter-name }
     .accesskey = A
@@ -93,6 +89,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Enviar enlace…
     .accesskey = E
+menu-file-share-url =
+    .label = Compartir
+    .accesskey = C
 menu-file-print-setup =
     .label = Configurar página…
     .accesskey = u
@@ -177,7 +176,6 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Codificación de texto
     .accesskey = C
-
 menu-view-repair-text-encoding =
     .label = Reparar la codificación de texto
     .accesskey = c
@@ -223,7 +221,6 @@ menu-history-undo-menu =
     .label = Pestañas cerradas recientemente
 menu-history-undo-window-menu =
     .label = Ventanas cerradas recientemente
-
 menu-history-reopen-all-tabs = Reabrir todas las pestañas
 menu-history-reopen-all-windows = Reabrir todas las ventanas
 
