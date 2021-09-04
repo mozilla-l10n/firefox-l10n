@@ -15,3 +15,4 @@ prompt-to-install-no-button = Yükleme
 ## Strings for a dialog that opens if the installation failed.
 
 install-failed-title = { -brand-short-name } yüklemesi başarısız oldu.
+install-failed-message = { -brand-short-name } yüklenemedi ama çalışmaya devam edecek.
