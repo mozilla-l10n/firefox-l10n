@@ -9,6 +9,8 @@
 <!ENTITY autoHide.accesskey2 "e">
 <!ENTITY background.label "Cambiar a las nuevas pestañas abiertas desde enlaces">
 <!ENTITY background.accesskey "s">
+<!ENTITY browserFocus.label "Enfocar la ventana del navegador para los enlaces abiertos en pestañas de otras aplicaciones">
+<!ENTITY browserFocus.accesskey "f">
 <!ENTITY warnOnClose.label "Avisarme cuando cierre una ventana con múltiples pestañas">
 <!ENTITY warnOnClose.accesskey "n">
 <!ENTITY relatedAfterCurrent.label "Abrir pestañas relacionadas después de la pestaña actual">
