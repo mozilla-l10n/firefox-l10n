@@ -466,6 +466,11 @@ urlbar-placeholder-search-mode-other-tabs =
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Bilatu { $name } erabiliz edo idatzi helbidea
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Nabigatzailea urruneko kontrolpean dago (arrazoia: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Baimen bereziak eman dizkiozu webgune honi.
 urlbar-switch-to-tab =
@@ -537,6 +542,10 @@ urlbar-result-action-search-tabs = Bilatu fitxak
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
 
 ## Full Screen and Pointer Lock UI
 
@@ -640,6 +649,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Konpondu testu-kodeketa
+    .tooltiptext = Antzeman testuaren kodeketa zuzena orriaren edukitik
 
 ## Customize Toolbar Buttons
 
@@ -695,6 +707,9 @@ remote-tabs-sync-now = Sinkronizatu orain
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Gehiago…
 ui-tour-info-panel-close =
     .tooltiptext = Itxi
 

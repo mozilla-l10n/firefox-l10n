@@ -67,10 +67,6 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Hasi saioa sinkronizatzeko…
 appmenu-remote-tabs-turn-on-sync =
     .label = Gaitu sinkronizazioa…
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Erakutsi denak
-    .tooltiptext = Erakutsi gailu honetako fitxa guztiak
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Erakutsi fitxa gehiago
@@ -79,6 +75,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Irekitako fitxarik ez
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Aktibatu fitxak sinkronizatzea zure beste gailuetako fitxen zerrenda ikusteko.
+appmenu-remote-tabs-opensettings =
+    .label = Ezarpenak
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Beste gailuetako zure fitxak hemen ikusi nahi dituzu?

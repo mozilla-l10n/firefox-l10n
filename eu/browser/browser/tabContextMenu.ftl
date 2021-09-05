@@ -113,6 +113,13 @@ tab-context-close-tabs =
            *[other] Itxi fitxak
         }
     .accesskey = x
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Itxi fitxa
+           *[other] Itxi { $tabCount } fitxa
+        }
+    .accesskey = x
 tab-context-move-tabs =
     .label =
         { $tabCount ->

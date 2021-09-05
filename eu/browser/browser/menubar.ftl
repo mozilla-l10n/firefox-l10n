@@ -38,20 +38,16 @@ menu-quit =
             [windows] I
            *[other] I
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Irten { -brand-shorter-name }(e)tik
-
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
-
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Irten { -brand-shorter-name }(e)tik
-
 menu-about =
     .label = { -brand-shorter-name }(r)i buruz
     .accesskey = b
@@ -177,6 +173,9 @@ menu-view-page-basic-style =
 menu-view-charset =
     .label = Testuaren kodeketa
     .accesskey = k
+menu-view-repair-text-encoding =
+    .label = Konpondu testu-kodeketa
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -219,7 +218,6 @@ menu-history-undo-menu =
     .label = Itxitako azken fitxak
 menu-history-undo-window-menu =
     .label = Itxitako azken leihoak
-
 menu-history-reopen-all-tabs = Ireki berriro fitxa guztiak
 menu-history-reopen-all-windows = Ireki berriro leiho guztiak
 
@@ -232,6 +230,8 @@ menu-bookmarks-show-all =
     .label = Erakutsi laster-marka guztiak
 menu-bookmark-this-page =
     .label = Egin orriaren laster-marka
+menu-bookmarks-manage =
+    .label = Kudeatu laster-markak
 menu-bookmark-current-tab =
     .label = Egin uneko fitxaren laster-marka
 menu-bookmark-edit =
