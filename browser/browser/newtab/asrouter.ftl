@@ -285,6 +285,7 @@ cfr-doorhanger-video-support-primary-button = Frissítés most
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 spotlight-public-wifi-vpn-header = Úgy néz ki, hogy nyilvános Wi-Fi-t használ
+spotlight-public-wifi-vpn-body = A tartózkodási helye és a böngészési tevékenysége elrejtéséhez fontolja meg egy virtuális magánhálózat használatát. Ez segít megvédeni Önt, ha nyilvános helyen, például repülőtéren és kávézóban böngészik.
 spotlight-public-wifi-vpn-primary-button = Maradjon privát a { -mozilla-vpn-brand-name } használatával
     .accesskey = M
 spotlight-public-wifi-vpn-link = Most nem
