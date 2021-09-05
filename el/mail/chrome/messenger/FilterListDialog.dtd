@@ -12,7 +12,7 @@
 <!ENTITY editButton.label "Επεξεργασία…">
 <!ENTITY editButton.accesskey "Ε">
 <!ENTITY deleteButton.label "Διαγραφή">
-<!ENTITY deleteButton.accesskey "Δ">
+<!ENTITY deleteButton.accesskey "φ">
 <!ENTITY reorderTopButton "Μετακίνηση στο πάνω μέρος">
 <!ENTITY reorderTopButton.accessKey "ο">
 <!ENTITY reorderTopButton.toolTip "Αναδιατάξτε το φίλτρο ώστε να εκτελείται πριν από τα άλλα">
@@ -23,7 +23,7 @@
 <!ENTITY reorderBottomButton "Μετακίνηση στο κάτω μέρος">
 <!ENTITY reorderBottomButton.accessKey "μ">
 <!ENTITY reorderBottomButton.toolTip "Αναδιατάξτε το φίλτρο ώστε να εκτελείται μετά τα άλλα">
-<!ENTITY filterHeader.label "Τα ενεργοποιημένα φίλτρα θα εκτελούνται με την παρακάτω σειρά.">
+<!ENTITY filterHeader.label "Τα ενεργά φίλτρα θα εκτελούνται αυτόματα με την παρακάτω σειρά.">
 <!ENTITY filtersForPrefix.label "Φίλτρα για:">
 <!ENTITY filtersForPrefix.accesskey "Φ">
 <!ENTITY viewLogButton.label "Αρχείο καταγραφής φίλτρου">

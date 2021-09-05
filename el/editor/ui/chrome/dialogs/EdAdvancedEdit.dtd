@@ -5,8 +5,8 @@
 <!ENTITY WindowTitle.label              "Επεξεργασία σύνθετων ιδιοτήτων">
 <!ENTITY AttName.label                  "Όνομα: ">
 <!ENTITY AttValue.label                 "Τιμή: ">
-<!ENTITY PropertyName.label             "Ιδιότητα:">
-<!ENTITY currentattributesfor.label     "Τρέχουσες ιδιότητες για:">
+<!ENTITY PropertyName.label             "Ιδιότητα: ">
+<!ENTITY currentattributesfor.label     "Τρέχουσες ιδιότητες για: ">
 <!ENTITY tree.attributeHeader.label     "Ιδιότητα">
 <!ENTITY tree.propertyHeader.label      "Ιδιότητα">
 <!ENTITY tree.valueHeader.label         "Τιμή">
