@@ -64,8 +64,8 @@ show-passwords =
 hide-passwords =
     .label = Απόκρυψη κωδικών πρόσβασης
     .accesskey = κ
-logins-description-all = Τα διαπιστευτήρια για τους παρακάτω παρόχους είναι αποθηκευμένα στον υπολογιστή σας
-logins-description-filtered = Τα παρακάτω διαπιστευτήρια ταιριάζουν με την αναζήτησή σας:
+logins-description-all = Οι συνδέσεις για τους εξής παρόχους αποθηκεύονται στον υπολογιστή σας
+logins-description-filtered = Οι εξής συνδέσεις ταιριάζουν με την αναζήτησή σας:
 remove-all =
     .label = Αφαίρεση όλων
     .accesskey = Α
@@ -79,7 +79,7 @@ no-master-password-prompt = Θέλετε σίγουρα να γίνει εμφά
 ## OS Authentication dialog
 
 # This message can be seen by trying to show or copy the passwords.
-password-os-auth-dialog-message = Επαληθεύστε την ταυτότητά σας για αποκάλυψη των αποθηκευμένων κωδικών πρόσβασης.
+password-os-auth-dialog-message = Επαληθεύστε την ταυτότητά σας για την αποκάλυψη των αποθηκευμένων κωδικών πρόσβασης.
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
