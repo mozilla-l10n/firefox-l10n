@@ -67,10 +67,6 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Zaloguj się do synchronizacji…
 appmenu-remote-tabs-turn-on-sync =
     .label = Włącz synchronizację…
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Wyświetl wszystkie
-    .tooltiptext = Wyświetl wszystkie karty z tego urządzenia
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Wyświetl więcej kart
@@ -79,6 +75,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Brak otwartych kart
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Włącz synchronizację kart, aby wyświetlić ich listę z innych urządzeń.
+appmenu-remote-tabs-opensettings =
+    .label = Ustawienia
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Czy wyświetlić tutaj listę kart otwartych na innych urządzeniach?
