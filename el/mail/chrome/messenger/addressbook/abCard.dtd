@@ -144,11 +144,11 @@
 <!ENTITY GenericPhoto.label             "Γενική φωτογραφία">
 <!ENTITY GenericPhoto.accesskey         "Γ">
 <!ENTITY DefaultPhoto.label             "Προεπιλογή">
-<!ENTITY PhotoFile.label                "Από αυτό τον υπολογιστή">
+<!ENTITY PhotoFile.label                "Στον υπολογιστή">
 <!ENTITY PhotoFile.accesskey            "υ">
 <!ENTITY BrowsePhoto.label              "Περιήγηση">
 <!ENTITY BrowsePhoto.accesskey          "γ">
-<!ENTITY PhotoURL.label                 "Από το διαδίκτυο">
+<!ENTITY PhotoURL.label                 "Στο διαδίκτυο">
 <!ENTITY PhotoURL.accesskey             "κ">
 <!ENTITY PhotoURL.placeholder           "Επικολλήστε ή εισαγάγετε τη διεύθυνση web μιας φωτογραφίας">
 <!ENTITY UpdatePhoto.label              "Ενημέρωση">
