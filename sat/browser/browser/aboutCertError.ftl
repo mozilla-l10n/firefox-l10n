@@ -64,3 +64,4 @@ clockSkewError-title = ᱟᱢᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱜᱷᱚᱰᱤ ᱵ
 networkProtocolError-title = ᱱᱮᱴᱣᱟᱨᱠ ᱯᱨᱚᱴᱚᱠᱚᱞ ᱦᱩᱲᱟᱹᱜ
 nssBadCert-title = ᱦᱩᱥᱤᱭᱟᱹᱨ: ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱮ ᱰᱤᱜᱟᱹᱣ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
 nssBadCert-sts-title = ᱵᱟᱝ ᱡᱩᱲᱟᱹᱣ ᱞᱮᱱᱟ: ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱮ ᱰᱤᱜᱟᱹᱣ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
+certerror-mitm-title = ᱥᱚᱯᱷᱴᱣᱮᱨ ᱫᱚ { -brand-short-name } ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱥᱟᱞᱟᱜ ᱵᱟᱭ ᱡᱩᱲᱟᱹᱣ ᱪᱷᱚᱣᱟᱜ ᱠᱟᱱᱟᱭ
