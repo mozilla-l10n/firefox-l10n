@@ -4,10 +4,10 @@
 # This is temporary until bug 1521632 is fixed
 
 elevation-update-wizard =
-    .title = सोफ्टवेयार हा़ली मे
+    .title = ᱥᱚᱯᱷᱴᱣᱮᱨ ᱦᱟᱹᱞᱤ ᱢᱮ
 elevation-details-link-label =
-    .value = बिवरोन को
-elevation-error-manual = You can update { -brand-short-name } नोवा खोंजा ञेल दाराय ते आम ती तेम हा़ली दाड़ेयाक् आ आर नावा उता़र बार्सान आ़तुर आंड़गोयेत् आ:
-elevation-finished-page = बोहाल ला़गित् हा़ली सापड़ावाकाना .
-elevation-finished-background-page = { -brand-short-name } ला़गित् जा़पती आर तिंगु थिर   दो आ़तुर आंड़गो होचोवाकाना आर बोहाल ला़गित् सापड़ावा काना.
-elevation-finished-background = हा़ली :
+    .value = ᱵᱤᱵᱨᱚᱬ ᱠᱚ
+elevation-error-manual = { -brand-short-name } ᱠᱷᱚᱧᱡᱟ ᱧᱮᱞ ᱫᱟᱨᱟᱭ ᱛᱮ ᱟᱢ ᱛᱤ ᱛᱮ ᱦᱟᱹᱞᱤ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱟᱨ ᱱᱟᱣᱟ ᱩᱛᱟᱹᱨ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚᱭᱮᱫ ᱟ:
+elevation-finished-page = ᱵᱚᱦᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱞᱤ ᱥᱟᱯᱲᱟᱣ ᱠᱟᱱᱟ ᱾
+elevation-finished-background-page = { -brand-short-name } ᱞᱟᱹᱜᱤᱫ ᱡᱟᱹᱯᱛᱤ ᱟᱨ ᱛᱤᱝᱜᱩ ᱛᱷᱤᱨ ᱫᱚ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱦᱚᱪᱚᱣᱟᱠᱟᱱᱟ ᱟᱨ ᱵᱚᱦᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱯᱲᱟᱣ ᱠᱟᱱᱟ ᱾
+elevation-finished-background = ᱦᱟᱹᱞᱤ:
