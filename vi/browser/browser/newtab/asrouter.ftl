@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = Hãy thử cái này: Ghim thẻ
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Tại sao tôi thấy cái này
-
 cfr-doorhanger-extension-cancel-button = Không phải bây giờ
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Thêm vào ngay
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Ghim thẻ này
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Quản lý các thiết lập được đề xuất
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Không hiển thị cho tôi đề xuất này
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Tìm hiểu thêm
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = bởi { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Đề xuất
 cfr-doorhanger-extension-notification2 = Đề xuất
     .tooltiptext = Tiện ích được đề xuất
     .a11y-announcement = Tiện ích được đề xuất có sẵn
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Đề xuất
@@ -65,7 +57,6 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] { $total } người dùng
     }
-
 cfr-doorhanger-pintab-description = Dễ dàng truy cập vào các trang web được sử dụng nhiều nhất của bạn. Giữ các trang web mở trong một thẻ (ngay cả khi bạn khởi động lại).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -73,10 +64,8 @@ cfr-doorhanger-pintab-description = Dễ dàng truy cập vào các trang web đ
 cfr-doorhanger-pintab-step1 = <b>Nhấp chuột phải</b> trên thẻ bạn muốn ghim.
 cfr-doorhanger-pintab-step2 = Chọn <b>Ghim thẻ</b> từ menu.
 cfr-doorhanger-pintab-step3 = Nếu trang web có bản cập nhật, bạn sẽ thấy một chấm màu xanh trên thẻ được ghim.
-
 cfr-doorhanger-pintab-animation-pause = Tạm dừng
 cfr-doorhanger-pintab-animation-resume = Tiếp tục
-
 
 ## Firefox Accounts Message
 
@@ -98,26 +87,20 @@ cfr-protections-panel-link-text = Tìm hiểu thêm
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Tính năng mới:
-
 cfr-whatsnew-button =
     .label = Có gì mới
     .tooltiptext = Có gì mới
-
 cfr-whatsnew-panel-header = Có gì mới
-
 cfr-whatsnew-release-notes-link-text = Đọc ghi chú phát hành
-
 cfr-whatsnew-fx70-title = { -brand-short-name } bây giờ chiến đấu mạnh mẽ hơn cho quyền riêng tư của bạn
 cfr-whatsnew-fx70-body =
     Bản cập nhật mới nhất nâng cao tính năng chống theo dõi và làm cho nó
     dễ dàng hơn bao giờ hết để tạo mật khẩu an toàn cho mọi trang web.
-
 cfr-whatsnew-tracking-protect-title = Bảo vệ bạn khỏi trình theo dõi
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } chặn nhiều trình theo dõi xã hội và trang web phổ biến mà
     nó theo dõi những gì bạn làm trực tuyến
 cfr-whatsnew-tracking-protect-link-text = Xem báo cáo của bạn
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -127,11 +110,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Từ { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Xem báo cáo
-
 cfr-whatsnew-lockwise-backup-title = Sao lưu mật khẩu của bạn
 cfr-whatsnew-lockwise-backup-body = Bây giờ tạo mật khẩu an toàn, bạn có thể truy cập bất cứ nơi nào bạn đăng nhập.
 cfr-whatsnew-lockwise-backup-link-text = Bật sao lưu
-
 cfr-whatsnew-lockwise-take-title = Mang mật khẩu theo bên bạn
 cfr-whatsnew-lockwise-take-body =
     Ứng dụng di động { -lockwise-brand-short-name } cho phép bạn truy cập an toàn
@@ -142,9 +123,6 @@ cfr-whatsnew-lockwise-take-link-text = Tải ứng dụng
 
 cfr-whatsnew-searchbar-title = Nhập ít hơn, tìm nhiều hơn với thanh địa chỉ
 cfr-whatsnew-searchbar-body-topsites = Bây giờ, chỉ cần chọn thanh địa chỉ và một hộp sẽ mở rộng với các liên kết đến các trang web hàng đầu của bạn.
-
-## Search bar
-
 cfr-whatsnew-searchbar-icon-alt-text = Biểu tượng kính lúp
 
 ## Picture-in-Picture
@@ -169,7 +147,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Dấu vết bị chặn
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } chặn nhiều trang lấy dấu vết để bí mật thu thập thông tin về thiết bị và hành động của bạn để tạo hồ sơ quảng cáo về bạn.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Dấu vết
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } có thể chặn những trang lấy dấu vết để bí mật thu thập thông tin về thiết bị và hành động của bạn để tạo hồ sơ quảng cáo về bạn.
@@ -227,7 +204,6 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } đã chặn hơn <b>{ $blockedCount }</b> trình theo dõi từ { $date }!
     }
-
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -270,12 +246,8 @@ cfr-whatsnew-protections-icon-alt = Biểu tượng khiên
 
 cfr-whatsnew-better-pdf-header = Trải nghiệm PDF tốt hơn
 cfr-whatsnew-better-pdf-body = Tài liệu PDF hiện mở trực tiếp bằng { -brand-short-name }, giữ cho công việc của bạn trong tầm tay dễ dàng.
-
 cfr-doorhanger-milestone-close-button = Đóng
     .accesskey = C
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -295,21 +267,22 @@ cfr-doorhanger-fission-primary-button = OK, đã hiểu
 cfr-doorhanger-fission-secondary-button = Tìm hiểu thêm
     .accesskey = T
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Các video trên trang web này có thể phát không đúng trên phiên bản { -brand-short-name } này. Để được hỗ trợ đầy đủ về video, hãy cập nhật { -brand-short-name } ngay bây giờ.
 cfr-doorhanger-video-support-header = Cập nhật { -brand-short-name } để phát video
 cfr-doorhanger-video-support-primary-button = Cập nhật bây giờ
     .accesskey = U
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
+spotlight-public-wifi-vpn-header = Có vẻ như bạn đang sử dụng Wi-Fi công cộng
+spotlight-public-wifi-vpn-body = Để ẩn vị trí và hoạt động duyệt web của bạn, hãy xem xét đến VPN. Nó sẽ giúp bạn được bảo vệ khi duyệt web ở những nơi công cộng như sân bay và quán cà phê.
+spotlight-public-wifi-vpn-primary-button = Giữ riêng tư với { -mozilla-vpn-brand-name }
+    .accesskey = S
+spotlight-public-wifi-vpn-link = Không phải bây giờ
+    .accesskey = N
