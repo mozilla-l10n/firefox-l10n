@@ -742,13 +742,16 @@ popups-infobar-allow =
     .accesskey = w
 popups-infobar-block =
     .label = Blokuj wyskakujące okna z { $uriHost }
-    .accesskey = w
+    .accesskey = B
 
 ##
 
 popups-infobar-dont-show-message =
     .label = Nie pokazuj tej wiadomości, kiedy wyskakujące okna są blokowane
     .accesskey = N
+edit-popup-settings =
+    .label = Zarządzaj ustawieniami wyskakujących okien…
+    .accesskey = Z
 picture-in-picture-hide-toggle =
     .label = Ukryj przycisk „Obraz w obrazie”
     .accesskey = U
