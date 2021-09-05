@@ -59,6 +59,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } корбар
        *[other] { $total } корбар
     }
+cfr-doorhanger-pintab-description = Ба сомонаҳои аз ҳама бештар истифодашаванда дастрасии осон ба даст оред. Сомонаҳоро дар варақаҳо кушода монед (ҳатто баъд аз дубора оғоз кардани браузер).
 
 ## These messages are steps on how to use the feature and are shown together.
 
@@ -218,3 +219,10 @@ cfr-doorhanger-fission-secondary-button = Маълумоти бештар
 
 cfr-doorhanger-video-support-primary-button = Ҳозир навсозӣ кунед
     .accesskey = Ҳ
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
