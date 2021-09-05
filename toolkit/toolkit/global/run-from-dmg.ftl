@@ -15,3 +15,4 @@ prompt-to-install-no-button = Χωρίς εγκατάσταση
 ## Strings for a dialog that opens if the installation failed.
 
 install-failed-title = Αποτυχία εγκατάστασης του { -brand-short-name }.
+install-failed-message = Η εγκατάσταση του { -brand-short-name } απέτυχε, αλλά θα συνεχίσει να εκτελείται.
