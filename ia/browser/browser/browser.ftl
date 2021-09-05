@@ -664,8 +664,8 @@ save-to-pocket-button =
 ## Repair text encoding toolbar button
 
 repair-text-encoding-button =
-    .label = Corriger le codification del texto:
-    .tooltiptext = Divina le correcte codification del texto ab le contento del pagina
+    .label = Corriger le codification del texto
+    .tooltiptext = Divinar le correcte codification del texto ab le contento del pagina
 
 ## Customize Toolbar Buttons
 

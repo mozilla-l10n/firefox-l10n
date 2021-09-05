@@ -177,7 +177,7 @@ menu-view-charset =
     .label = Codification del texto
     .accesskey = C
 menu-view-repair-text-encoding =
-    .label = Corriger le codification del texto:
+    .label = Corriger le codification del texto
     .accesskey = c
 
 ## These should match what Safari and other Apple applications
