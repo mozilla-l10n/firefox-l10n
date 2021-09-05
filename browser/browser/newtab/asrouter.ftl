@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = התנסות בתכונה: נעיצת לשוני
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = למה אני רואה את זה
-
 cfr-doorhanger-extension-cancel-button = לא עכשיו
     .accesskey = ע
-
 cfr-doorhanger-extension-ok-button = הוספה כעת
     .accesskey = ס
 cfr-doorhanger-pintab-ok-button = נעיצת לשונית זו
     .accesskey = נ
-
 cfr-doorhanger-extension-manage-settings-button = ניהול הגדרות המלצות
     .accesskey = ג
-
 cfr-doorhanger-extension-never-show-recommendation = לא להציג לי המלצה זו
     .accesskey = ל
-
 cfr-doorhanger-extension-learn-more-link = מידע נוסף
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = מאת { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = המלצה
 cfr-doorhanger-extension-notification2 = המלצה
     .tooltiptext = המלצה על הרחבה
     .a11y-announcement = זמינה המלצה על הרחבה
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = המלצה
@@ -67,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] משתמש אחד
        *[other] { $total } משתמשים
     }
-
 cfr-doorhanger-pintab-description = קבלת גישה פשוטה לאתרים שהכי משמשים אותך. להשאיר אתרים פתוחים בלשונית (אפילו לאחר הפעלה מחדש).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -75,10 +66,8 @@ cfr-doorhanger-pintab-description = קבלת גישה פשוטה לאתרים ש
 cfr-doorhanger-pintab-step1 = יש ללחוץ עם <b>הכפתור הימני</b> על הלשונית שברצונך לנעוץ.
 cfr-doorhanger-pintab-step2 = יש לבחור ב<b>נעיצת לשונית</b> מהתפריט.
 cfr-doorhanger-pintab-step3 = אם לאתר זה יהיה עדכון, תופיע נקודה כחולה על הלשונית הנעוצה שלך.
-
 cfr-doorhanger-pintab-animation-pause = השהיה
 cfr-doorhanger-pintab-animation-resume = המשך
-
 
 ## Firefox Accounts Message
 
@@ -99,22 +88,16 @@ cfr-protections-panel-link-text = מידע נוסף
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = תכונה חדשה:
-
 cfr-whatsnew-button =
     .label = מה חדש
     .tooltiptext = מה חדש
-
 cfr-whatsnew-panel-header = מה חדש
-
 cfr-whatsnew-release-notes-link-text = קריאת הערור השחרור
-
 cfr-whatsnew-fx70-title = { -brand-short-name } כעת נלחם יותר למען הפרטיות שלך
 cfr-whatsnew-fx70-body = העדכון האחרון משפר את תכונת הגנת המעקב והופך את האפשרות ליצור ססמאות מאובטחות לכל אתר קלה מאי פעם.
-
 cfr-whatsnew-tracking-protect-title = הגנה מפני רכיבי מעקב
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } חוסם  הרבה רכיבי מעקב מוכרים של רשתות חברתיות ורכיבי מעקב חוצי אתרים שעוקבים אחרי הפעילויות המקוונות שלך.
 cfr-whatsnew-tracking-protect-link-text = הצגת הדוח שלך
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -125,10 +108,8 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = מאז { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = הצגת דוח
-
 cfr-whatsnew-lockwise-backup-title = גיבוי הססמאות שלך
 cfr-whatsnew-lockwise-backup-link-text = הפעלת גיבויים
-
 cfr-whatsnew-lockwise-take-title = לקחת את הססמאות שלך לכל מקום
 cfr-whatsnew-lockwise-take-body = היישומון לנייד { -lockwise-brand-short-name } מאפשר לך לגשת באופן מאובטח לססמאות המגובות שלך מכל מקום.
 cfr-whatsnew-lockwise-take-link-text = הורדת היישומון
@@ -137,9 +118,6 @@ cfr-whatsnew-lockwise-take-link-text = הורדת היישומון
 
 cfr-whatsnew-searchbar-title = להקליד פחות ולמצוא יותר עם שורת הכתובת
 cfr-whatsnew-searchbar-body-topsites = מעכשיו, אפשר ללחוץ על שורת הכתובת והיא תתרחב עם קישורים לאתרים המובילים שלך.
-
-## Search bar
-
 cfr-whatsnew-searchbar-icon-alt-text = סמל זכוכית מגדלת
 
 ## Picture-in-Picture
@@ -205,7 +183,6 @@ cfr-doorhanger-milestone-heading =
         [one] ‏{ -brand-short-name } חסם יותר מרכיב מעקב אחד מאז { $date }!
        *[other] ‏{ -brand-short-name } חסם למעלה מ־<b>{ $blockedCount }</b> רכיבי מעקב מאז { $date }!
     }
-
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -246,12 +223,8 @@ cfr-whatsnew-protections-icon-alt = סמל מגן
 
 cfr-whatsnew-better-pdf-header = חוויית PDF טובה יותר
 cfr-whatsnew-better-pdf-body = מסמכי PDF נפתחים כעת ישירות ב־{ -brand-short-name }, תוך שמירה על זרימת העבודה.
-
 cfr-doorhanger-milestone-close-button = סגירה
     .accesskey = ס
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -270,21 +243,18 @@ cfr-doorhanger-fission-primary-button = בסדר, הבנתי
 cfr-doorhanger-fission-secondary-button = מידע נוסף
     .accesskey = מ
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = ייתכן שסרטונים באתר זה לא יעבדו כראוי בגרסה זו של { -brand-short-name }. לקבלת תמיכה מלאה בווידאו, יש לעדכן את { -brand-short-name } כעת.
 cfr-doorhanger-video-support-header = עדכון { -brand-short-name } להפעלת הסרטונים
 cfr-doorhanger-video-support-primary-button = עדכון כעת
     .accesskey = ע
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
+spotlight-public-wifi-vpn-link = לא כעת
+    .accesskey = ל
