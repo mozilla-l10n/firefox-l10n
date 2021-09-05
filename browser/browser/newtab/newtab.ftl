@@ -8,9 +8,6 @@
 newtab-page-title = Fitxa berria
 newtab-settings-button =
     .title = Pertsonalizatu fitxa berriaren orria
-newtab-personalize-button-label = Pertsonalizatu
-    .title = Pertsonalizatu fitxa berria
-    .aria-label = Pertsonalizatu fitxa berria
 newtab-personalize-icon-label =
     .title = Pertsonalizatu fitxa berria
     .aria-label = Pertsonalizatu fitxa berria
@@ -42,6 +39,7 @@ newtab-search-box-search-the-web-input =
     .placeholder = Bilatu webean
     .title = Bilatu webean
     .aria-label = Bilatu webean
+newtab-search-box-text = Bilatu webean
 newtab-search-box-input =
     .placeholder = Bilatu webean
     .aria-label = Bilatu webean
@@ -250,10 +248,4 @@ newtab-custom-pocket-sponsored = Babesleen istorioak
 newtab-custom-recent-title = Azken jarduera
 newtab-custom-recent-subtitle = Azken gune eta edukien hautapena
 newtab-custom-close-button = Itxi
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Mezu-zatiak
-newtab-custom-snippets-subtitle = { -vendor-short-name } eta { -brand-product-name }(r)en aholku eta albisteak
 newtab-custom-settings = Kudeatu ezarpen gehiago
