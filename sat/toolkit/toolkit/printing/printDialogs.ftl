@@ -102,10 +102,10 @@ print-progress =
 print-window =
     .title = ᱪᱷᱟᱯᱟᱜ ᱠᱷᱟᱱᱟ
 print-complete =
-    .value = छापा दो पुरा़वेना.
+    .value = ᱪᱷᱟᱯᱟ ᱫᱚ ᱯᱩᱨᱟᱹᱣᱮᱱᱟ
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
     .value = { $percent }%
-dialog-cancel-label = बा़डरा़
-dialog-close-label = बोंद मे
+dialog-cancel-label = ᱵᱟᱹᱰᱨᱟᱹ
+dialog-close-label = ᱵᱚᱸᱫ ᱢᱮ
