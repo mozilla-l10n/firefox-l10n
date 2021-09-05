@@ -9,6 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = Ολοκλήρωση εγκατάστασης του { -brand-short-name };
+prompt-to-install-message = Ολοκληρώστε αυτήν την εγκατάσταση σε ένα βήμα για να διατηρείτε το { -brand-short-name } ενημερωμένο και να αποτρέψετε την απώλεια δεδομένων. Το { -brand-short-name } θα προστεθεί στον φάκελο «Εφαρμογές» και στο Dock σας.
 prompt-to-install-yes-button = Εγκατάσταση
 prompt-to-install-no-button = Χωρίς εγκατάσταση
 
