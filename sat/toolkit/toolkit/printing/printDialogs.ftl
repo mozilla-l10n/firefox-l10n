@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 print-setup =
-    .title = साहटा साजाव
-custom-prompt-title = कुसियाक् तेयार …
-custom-prompt-prompt = आमक कुसियाक्  तेयार चेतान /लातार ञुतुम  ओनो ल आदेर मे
+    .title = ᱥᱟᱦᱴᱟ ᱥᱟᱡᱟᱣ
+custom-prompt-title = ᱠᱩᱥᱤᱭᱟᱜ ᱛᱮᱭᱟᱨ…
+custom-prompt-prompt = ᱟᱢᱟᱜ ᱠᱩᱥᱤᱭᱟᱜ ᱛᱮᱭᱟᱨ ᱪᱮᱛᱱᱟ/ᱞᱟᱛᱟᱨ ᱧᱩᱛᱩᱢ ᱚᱱᱚᱞ ᱟᱫᱮᱨ ᱢᱮ
 basic-tab =
     .label = तेयार आपनार मोने तेयाक्.
 advanced-tab =
