@@ -146,4 +146,7 @@ places-manage-bookmarks =
     .label = Könyvjelzők kezelése
     .accesskey = K
 places-forget-about-this-site-confirmation-title = Webhely elfelejtése
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-message = Ez a művelet eltávolítja a(z) { $hostOrBaseDomain } domainhez kapcsolódó összes adatot, beleértve az előzményeket, a jelszavakat, a sütiket, a gyorsítótárat és a tartalmi beállításokat. Biztos, hogy folytatja?
 places-forget-about-this-site-forget = Elfelejtés
