@@ -80,7 +80,7 @@ policy-PrimaryPassword = Να απαιτείται ή να μην επιτρέπ
 policy-PromptForDownloadLocation = Ερώτηση για την τοποθεσία αποθήκευσης αρχείων κατά τη λήψη.
 policy-Proxy = Ρύθμιση παραμέτρων διακομιστή μεσολάβησης.
 policy-RequestedLocales = Ορισμός λίστας απαιτούμενων γλωσσών για την εφαρμογή σε σειρά προτίμησης.
-policy-SanitizeOnShutdown2 = Εκκαθάριση δεδομένων πλοήγησης κατά το κλείσιμο.
+policy-SanitizeOnShutdown2 = Απαλοιφή δεδομένων πλοήγησης κατά το κλείσιμο.
 policy-SearchEngines = Διαμόρφωση ρυθμίσεων μηχανής αναζήτησης. Αυτή η πολιτική είναι διαθέσιμη μόνο στην έκδοση εκτεταμένης υποστήριξης (ESR).
 policy-SearchSuggestEnabled = Ενεργοποίηση ή απενεργοποίηση προτάσεων αναζήτησης.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
