@@ -560,7 +560,7 @@
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Búsqueda global">
 <!ENTITY searchItem.title "Búsqueda rápida">
-<!ENTITY mailViewsToolbarItem.title "Vistas">
+<!ENTITY mailViewsToolbarItem.title "Vistas de correo">
 <!ENTITY folderLocationToolbarItem.title "Dirección de la carpeta">
 <!ENTITY tagButton.label "Etiquetar">
 <!ENTITY compactButton.label "Compactar">

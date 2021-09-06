@@ -10,8 +10,8 @@ compact-dialog =
     .buttonaccesskeyaccept = C
     .buttonlabelcancel = Recordarme más tarde
     .buttonaccesskeycancel = R
-    .buttonlabelextra1 = Conocer más...
-    .buttonaccesskeyextra1 = L
+    .buttonlabelextra1 = Conocer más…
+    .buttonaccesskeyextra1 = o
 # Variables:
 #  $data (String): The amount of space to be freed, formatted byte, MB, GB, etc., based on the size.
 compact-dialog-message = { -brand-short-name } necesita hacer un mantenimiento regular de archivos para mejorar el rendimiento de sus carpetas de correo. Esto recuperará { $data } de espacio en el disco sin cambiar sus mensajes. Para que { -brand-short-name } lo haga automáticamente en el futuro sin preguntar, marque la casilla de debajo antes de elegir { compact-dialog.buttonlabelaccept }.

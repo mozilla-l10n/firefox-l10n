@@ -223,7 +223,7 @@ because displayed names don't have the comma in between. -->
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Ventana">
-<!ENTITY minimizeWindow.label                           "Minimizar ventana">
+<!ENTITY minimizeWindow.label                           "Minimizar">
 <!ENTITY minimizeWindow.key                             "m">
 <!ENTITY bringAllToFront.label                          "Traer todo al frente">
 <!ENTITY zoomWindow.label                               "Acercar ventana">
