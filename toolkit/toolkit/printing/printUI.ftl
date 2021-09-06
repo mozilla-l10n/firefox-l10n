@@ -43,7 +43,7 @@ printui-backgrounds-checkbox = পটভূমি প্ৰিণ্ট কৰ�
 ## where the page is processed with "Reader View".
 
 # The section title.
-printui-source-label = প্ৰতিৰূপ
+printui-source-label = সজ্জা
 # Option for printing the original page.
 printui-source-radio = মূল
 # Option for printing just the content a user selected prior to printing.
@@ -62,8 +62,13 @@ printui-margins-min = সৰ্বনিম্ন
 printui-margins-none = একো নাই
 printui-margins-custom-top = ওপৰত
 printui-margins-custom-bottom = তলত
+printui-margins-custom-bottom-mm = তলফালে (মিঃমিঃ)
 printui-margins-custom-left = বাওঁফালে
+printui-margins-custom-left-inches = বাঁওফালে (ইঞ্চি)
+printui-margins-custom-left-mm = বাঁওফালে (মিঃমিঃ)
 printui-margins-custom-right = সোঁফালে
+printui-margins-custom-right-inches = সোঁফালে (ইঞ্চি)
+printui-margins-custom-right-mm = সোঁফালে (মিঃমিঃ)
 printui-system-dialog-link = ছিষ্টেমৰ সংলাপ ব্যৱহাৰ কৰি প্ৰিণ্ট কৰক…
 printui-primary-button = প্ৰিণ্ট কৰক
 printui-primary-button-save = সাঁচি থওক
@@ -74,6 +79,7 @@ printui-loading = পূৰ্বদৰ্শন তৈয়াৰ হৈ আছ�
 # the print preview has focus.
 printui-preview-label =
     .aria-label = প্ৰিণ্ট পূৰ্বদৰ্শন
+printui-print-progress-indicator-saving = সাঁচি থকা হৈছে…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
