@@ -140,4 +140,5 @@ places-delete-bookmark =
 places-manage-bookmarks =
     .label = Organiser les marque-pages
     .accesskey = m
+places-forget-about-this-site-confirmation-title = Oublier ce site
 places-forget-about-this-site-forget = Oublier
