@@ -28,6 +28,6 @@
 <!ENTITY outsideDomain.accesskey      "τ">
 <!ENTITY otherCases.label             "Σε όλες τις άλλες περιπτώσεις:">
 <!ENTITY otherCases.accesskey         "λ">
-<!ENTITY askMe.label                  "Να γίνεται ερώτηση">
-<!ENTITY alwaysSend.label             "Να γίνεται αποστολή">
+<!ENTITY askMe.label                  "Ερώτηση">
+<!ENTITY alwaysSend.label             "Αποστολή πάντα">
 <!ENTITY neverSend.label              "Να μην γίνεται αποστολή">
