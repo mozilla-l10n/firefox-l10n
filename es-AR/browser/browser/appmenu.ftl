@@ -67,10 +67,6 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Ingresar a Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Habilitar Sync…
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Mostrar todas
-    .tooltiptext = Mostrar todas las pestañas de este dispositivo
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Mostrar más pestañas
@@ -212,7 +208,7 @@ appmenu-help-not-deceptive =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Personalizar la barra de herramientas…
+    .label = Personalizar barra de herramientas…
 appmenu-taskmanager =
     .label = Administrador de tareas
 appmenu-developer-tools-subheader = Herramientas del navegador
