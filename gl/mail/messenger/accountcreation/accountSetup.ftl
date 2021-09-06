@@ -41,6 +41,10 @@ account-provisioner-button = Obter un novo enderezo de correo electrónico
     .accesskey = n
 account-setup-password-toggle =
     .title = Amosar/Agochar o contrasinal
+account-setup-password-toggle-show =
+    .title = Amosar o contrasinal
+account-setup-password-toggle-hide =
+    .title = Agochar o contrasinal
 account-setup-remember-password = Lembrar o contrasinal
     .accesskey = m
 account-setup-exchange-label = Seus datos de acceso
@@ -208,6 +212,10 @@ insecure-dialog-confirm-button = Confirmar
 exchange-dialog-question = O { -brand-short-name } atopou a información de configuración da súa conta en { $domain }. Desexa continuar e enviar as súas credenciais?
 exchange-dialog-confirm-button = Identificarse
 exchange-dialog-cancel-button = Cancelar
+
+## Dismiss account creation dialog
+
+exit-dialog-title = Non hai ningunha conta de correo electrónico configurada
 
 ## Alert dialogs
 
