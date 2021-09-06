@@ -146,7 +146,7 @@ disabled-unsigned-devinfo = Los desarrolladores interesados en conseguir que sus
 plugin-deprecation-description = ¿Falta algo? Algunos plugins ya no son compatibles con { -brand-short-name }. <label data-l10n-name="learn-more">Conocer más.</label>
 legacy-warning-show-legacy = Mostrar complementos heredados
 legacy-extensions =
-    .value = Complementos heredados
+    .value = Extensiones heredadas
 legacy-extensions-description = Estos complementos no cumplen los estándares actuales de { -brand-short-name } por lo que se desactivaron. <label data-l10n-name="legacy-learn-more">Conocer sobre los cambios en los complementos</label>
 private-browsing-description2 =
     { -brand-short-name } está cambiando la forma en la que funcionan los complementos en la navegación privada. Cualquier nuevo complemento que agregue a
