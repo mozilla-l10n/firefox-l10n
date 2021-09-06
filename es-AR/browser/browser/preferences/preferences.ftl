@@ -1074,7 +1074,7 @@ content-blocking-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Administrar excepciones ...
+    .label = Administrar excepciones…
     .accesskey = x
 
 ## Privacy Section - Permissions
