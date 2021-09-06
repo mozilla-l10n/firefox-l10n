@@ -929,17 +929,17 @@ sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδ
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Αυτή τη στιγμή, τα αποθηκευμένα cookie, τα δεδομένα ιστοτόπων και η προσωρινή μνήμη καταλαμβάνουν { $value } { $unit } χώρου στον δίσκο.
+sitedata-total-size = Αυτή τη στιγμή, τα αποθηκευμένα cookies, τα δεδομένα ιστοτόπων και η κρυφή μνήμη καταλαμβάνουν { $value } { $unit } χώρου στον δίσκο.
 sitedata-learn-more = Μάθετε περισσότερα
 sitedata-delete-on-close =
-    .label = Διαγραφή cookie και δεδομένων ιστοτόπων όταν κλείνει το { -brand-short-name }
+    .label = Διαγραφή cookies και δεδομένων ιστοτόπων όταν κλείνει το { -brand-short-name }
     .accesskey = c
-sitedata-delete-on-close-private-browsing = Στη λειτουργία μόνιμης ιδιωτικής περιήγησης, τα cookie και τα δεδομένα ιστοτόπων θα διαγράφονται πάντα όταν κλείνει το { -brand-short-name }.
+sitedata-delete-on-close-private-browsing = Στη λειτουργία μόνιμης ιδιωτικής περιήγησης, τα cookies και τα δεδομένα ιστοτόπων θα διαγράφονται πάντα όταν κλείνει το { -brand-short-name }.
 sitedata-allow-cookies-option =
-    .label = Αποδοχή cookie και δεδομένων ιστοτόπων
+    .label = Αποδοχή cookies και δεδομένων ιστοτόπων
     .accesskey = Α
 sitedata-disallow-cookies-option =
-    .label = Φραγή cookie και δεδομένων ιστοτόπων
+    .label = Φραγή cookies και δεδομένων ιστοτόπων
     .accesskey = Φ
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
@@ -950,17 +950,17 @@ sitedata-option-block-cross-site-trackers =
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Ιχνηλάτες μεταξύ ιστοτόπων και κοινωνικών δικτύων
 sitedata-option-block-cross-site-tracking-cookies-including-social-media =
-    .label = Cookie καταγραφής μεταξύ ιστοτόπων (και cookie κοινωνικών δικτύων)
+    .label = Cookies καταγραφής μεταξύ ιστοτόπων (και cookies κοινωνικών δικτύων)
 sitedata-option-block-cross-site-cookies-including-social-media =
-    .label = Cookies μεταξύ ιστοτόπων (και cookie κοινωνικών δικτύων)
+    .label = Cookies μεταξύ ιστοτόπων (και cookies κοινωνικών δικτύων)
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
-    .label = Ιχνηλάτες κοινωνικών δικτύων μεταξύ ιστοτόπων και απομόνωση υπόλοιπων cookie
+    .label = Ιχνηλάτες κοινωνικών δικτύων μεταξύ ιστοτόπων και απομόνωση υπόλοιπων cookies
 sitedata-option-block-unvisited =
-    .label = Cookie από ιστοτόπους που δεν έχετε επισκεφθεί
+    .label = Cookies από ιστοτόπους που δεν έχετε επισκεφθεί
 sitedata-option-block-all-third-party =
-    .label = Όλα τα cookie τρίτων (πιθανή δυσλειτουργία ιστοτόπων)
+    .label = Όλα τα cookies τρίτων (πιθανή δυσλειτουργία ιστοτόπων)
 sitedata-option-block-all =
-    .label = Όλα τα cookie (προκαλεί δυσλειτουργία ιστοτόπων)
+    .label = Όλα τα cookies (προκαλεί δυσλειτουργία ιστοτόπων)
 sitedata-clear =
     .label = Απαλοιφή δεδομένων…
     .accesskey = ι
@@ -1004,7 +1004,7 @@ addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τ�
 content-blocking-enhanced-tracking-protection = Ενισχυμένη προστασία από καταγραφή
 content-blocking-section-top-level-description = Οι ιχνηλάτες σάς ακολουθούν στο διαδίκτυο ώστε να συλλέξουν δεδομένα για τις συνήθειες και τα ενδιαφέροντά σας. Το { -brand-short-name } αποκλείει πολλούς από αυτούς, καθώς και άλλα κακόβουλα σενάρια.
 content-blocking-learn-more = Μάθετε περισσότερα
-content-blocking-fpi-incompatibility-warning = Χρησιμοποιείτε τη λειτουργία First Party Isolation (FPI), που παρακάμπτει ορισμένες ρυθμίσεις του { -brand-short-name } σχετικά με τα cookies.
+content-blocking-fpi-incompatibility-warning = Χρησιμοποιείτε τη λειτουργία First Party Isolation (FPI), που παρακάμπτει ορισμένες ρυθμίσεις cookie του { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1027,19 +1027,19 @@ content-blocking-etp-strict-desc = Ισχυρότερη προστασία, αλ
 content-blocking-etp-custom-desc = Επιλέξτε ιχνηλάτες και σενάρια για αποκλεισμό.
 content-blocking-etp-blocking-desc = Το { -brand-short-name } αποκλείει τα εξής:
 content-blocking-private-windows = Περιεχόμενο καταγραφής σε ιδιωτικά παράθυρα
-content-blocking-cross-site-cookies-in-all-windows = Cookie μεταξύ ιστοτόπων σε όλα τα παράθυρα (και cookie καταγραφής)
-content-blocking-cross-site-tracking-cookies = Cookie καταγραφής μεταξύ ιστοτόπων
-content-blocking-all-cross-site-cookies-private-windows = Cookie μεταξύ ιστοτόπων σε ιδιωτικά παράθυρα
-content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie καταγραφής μεταξύ ιστοτόπων και απομόνωση των υπόλοιπων
+content-blocking-cross-site-cookies-in-all-windows = Cookies μεταξύ ιστοτόπων σε όλα τα παράθυρα (και cookies καταγραφής)
+content-blocking-cross-site-tracking-cookies = Cookies καταγραφής μεταξύ ιστοτόπων
+content-blocking-all-cross-site-cookies-private-windows = Cookies μεταξύ ιστοτόπων σε ιδιωτικά παράθυρα
+content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies καταγραφής μεταξύ ιστοτόπων και απομόνωση των υπόλοιπων
 content-blocking-social-media-trackers = Ιχνηλάτες κοινωνικών δικτύων
 content-blocking-all-cookies = Όλα τα cookies
-content-blocking-unvisited-cookies = Cookie από ιστοτόπους που δεν έχετε επισκεφθεί
+content-blocking-unvisited-cookies = Cookies από ιστοτόπους που δεν έχετε επισκεφθεί
 content-blocking-all-windows-tracking-content = Περιεχόμενο καταγραφής σε όλα τα παράθυρα
 content-blocking-all-third-party-cookies = Όλα τα cookies τρίτων
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Προσοχή!
-content-blocking-and-isolating-etp-warning-description = Η φραγή ιχνηλατών και η απομόνωση cookie μπορούν να επηρεάσουν τη λειτουργικότητα ορισμένων ιστοτόπων. Φορτώστε εκ νέου μια σελίδα με ιχνηλάτες για να εμφανιστεί όλο το περιεχόμενο.
+content-blocking-and-isolating-etp-warning-description = Η φραγή ιχνηλατών και η απομόνωση cookies μπορούν να επηρεάσουν τη λειτουργικότητα ορισμένων ιστοτόπων. Ανανεώστε μια σελίδα με ιχνηλάτες για να φορτωθεί όλο το περιεχόμενο.
 content-blocking-and-isolating-etp-warning-description-2 = Αυτή η ρύθμιση ενδέχεται να εμποδίσει την εμφάνιση περιεχομένου ή τη σωστή λειτουργία ορισμένων ιστοτόπων. Αν κάποιος ιστότοπος δεν λειτουργεί σωστά, μπορείτε να απενεργοποιήσετε την προστασία από καταγραφή για να γίνει φόρτωση όλου του περιεχομένου.
 content-blocking-warning-learn-how = Μάθετε πώς
 content-blocking-reload-description = Θα πρέπει να φορτώσετε ξανά τις καρτέλες σας για εφαρμογή των αλλαγών αυτών.
@@ -1057,7 +1057,7 @@ content-blocking-option-private =
     .accesskey = ι
 content-blocking-tracking-protection-change-block-list = Αλλαγή λίστας φραγής
 content-blocking-cookies-label =
-    .label = Cookie
+    .label = Cookies
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = Περισσότερες πληροφορίες
@@ -1068,7 +1068,7 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Fingerprinter
+    .label = Fingerprinters
     .accesskey = F
 
 ## Privacy Section - Tracking
