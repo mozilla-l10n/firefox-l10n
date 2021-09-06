@@ -120,7 +120,7 @@
 <!ENTITY menuFavoriteFolder.accesskey "γ">
 <!ENTITY folderPropsCmd2.label "Ιδιότητες">
 <!ENTITY folderPropsFolderCmd2.label "Ιδιότητες φακέλου">
-<!ENTITY folderPropsNewsgroupCmd2.label "Ιδιότητες ομάδας ειδήσεων">
+<!ENTITY folderPropsNewsgroupCmd2.label "Ιδιότητες ομάδας συζητήσεων">
 <!ENTITY folderPropsCmd.accesskey "δ">
 <!ENTITY undoDeleteMsgCmd.label "Αναίρεση διαγραφής μηνύματος">
 <!ENTITY redoDeleteMsgCmd.label "Επανάληψη διαγραφής μηνύματος">
@@ -353,7 +353,7 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Απάντηση μόνο στον αποστολέα">
 <!ENTITY replySenderCmd.accesskey "μ">
-<!ENTITY replyNewsgroupCmd2.label "Απάντηση στην ομάδα συζήτησης">
+<!ENTITY replyNewsgroupCmd2.label "Απάντηση στην ομάδα συζητήσεων">
 <!ENTITY replyNewsgroupCmd2.accesskey "ζ">
 <!ENTITY replyToAllMsgCmd.label "Απάντηση σε όλους">
 <!ENTITY replyToAllMsgCmd.accesskey "λ">
@@ -463,7 +463,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Εργαλεία">
 <!ENTITY tasksMenu.accesskey "γ">
-<!ENTITY messengerCmd.label "Αλληλογραφία &amp; ομάδες συζήτησης">
+<!ENTITY messengerCmd.label "Ταχυδρομείο &amp; ομάδες συζητήσεων">
 <!ENTITY messengerCmd.accesskey "Α">
 <!ENTITY addressBookCmd.label "Ευρετήριο">
 <!ENTITY addressBookCmd.accesskey "ρ">
@@ -771,7 +771,7 @@
 <!ENTITY contextArchive.accesskey "χ">
 <!ENTITY contextReplySender.label "Απάντηση μόνο στον αποστολέα">
 <!ENTITY contextReplySender.accesskey "ο">
-<!ENTITY contextReplyNewsgroup2.label "Απάντηση στην ομάδα συζήτησης">
+<!ENTITY contextReplyNewsgroup2.label "Απάντηση στην ομάδα συζητήσεων">
 <!ENTITY contextReplyNewsgroup2.accesskey "ζ">
 <!ENTITY contextReplyAll.label "Απάντηση σε όλους">
 <!ENTITY contextReplyAll.accesskey "υ">
@@ -900,7 +900,7 @@
 <!ENTITY EditContact1.accesskey "Ε">
 <!ENTITY ViewContact.label "Προβολή επαφής">
 <!ENTITY ViewContact.accesskey "β">
-<!ENTITY SubscribeToNewsgroup.label "Συνδρομή στην ομάδα συζήτησης">
+<!ENTITY SubscribeToNewsgroup.label "Συνδρομή στην ομάδα συζητήσεων">
 <!ENTITY SubscribeToNewsgroup.accesskey "δ">
 <!ENTITY SendMessageTo.label "Σύνταξη μηνύματος προς">
 <!ENTITY SendMessageTo.accesskey "Σ">
@@ -908,10 +908,10 @@
 <!ENTITY CopyEmailAddress.accesskey "γ">
 <!ENTITY CopyNameAndEmailAddress.label "Αντιγραφή ονόματος και διεύθυνσης email">
 <!ENTITY CopyNameAndEmailAddress.accesskey "ο">
-<!ENTITY CopyNewsgroupName.label "Αντιγραφή ονόματος ομάδας">
+<!ENTITY CopyNewsgroupName.label "Αντιγραφή ονόματος ομάδας συζητήσεων">
 <!ENTITY CopyNewsgroupName.accesskey "γ">
 <!ENTITY CopyNewsgroupURL.label "Αντιγραφή URL ομάδας συζητήσεων">
-<!ENTITY CopyNewsgroupURL.accesskey "Τ">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Δημιουργία φίλτρου από…">
 <!ENTITY CreateFilterFrom.accesskey "φ">
 <!ENTITY reportPhishingURL.label "Αναφορά απάτης μέσω email">

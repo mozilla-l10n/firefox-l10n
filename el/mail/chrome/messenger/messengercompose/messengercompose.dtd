@@ -195,7 +195,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Εργαλεία">
 <!ENTITY tasksMenu.accesskey "γ">
-<!ENTITY messengerCmd.label "Αλληλογραφία &amp; ομάδες συζήτησης">
+<!ENTITY messengerCmd.label "Ταχυδρομείο &amp; ομάδες συζητήσεων">
 <!ENTITY messengerCmd.accesskey "γ">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Ευρετήριο">
@@ -249,7 +249,7 @@
 <!ENTITY ccAddr2.label "Κοιν.">
 <!ENTITY bccAddr2.label "Κρυφή κοιν.">
 <!ENTITY replyAddr2.label "Απάντηση προς">
-<!ENTITY newsgroupsAddr2.label "Ομάδες συζήτησης">
+<!ENTITY newsgroupsAddr2.label "Ομάδα συζητήσεων">
 <!ENTITY followupAddr2.label "Σε συνέχεια του">
 <!ENTITY subject2.label "Θέμα">
 <!ENTITY subject.accesskey "Θ">

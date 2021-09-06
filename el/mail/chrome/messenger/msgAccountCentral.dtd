@@ -6,8 +6,8 @@
 <!ENTITY readMsgsLink.label           "Ανάγνωση μηνυμάτων">
 <!ENTITY composeMsgLink.label         "Σύνταξη νέου μηνύματος">
 
-<!ENTITY newsSectionHdr.label         "Ομάδες συζήτησης">
-<!ENTITY subscribeNewsLink.label      "Διαχείριση συνδρομών ομάδων συζήτησης">
+<!ENTITY newsSectionHdr.label         "Ομάδες συζητήσεων">
+<!ENTITY subscribeNewsLink.label      "Διαχείριση συνδρομών ομάδων συζητήσεων">
 
 <!ENTITY feedsSectionHdr.label        "Ροές">
 <!ENTITY subscribeFeeds.label         "Διαχείριση συνδρομών">
