@@ -16,7 +16,7 @@ menu-application-preferences =
 menu-application-services =
     .label = Υπηρεσίες
 menu-application-hide-this =
-    .label = Απόκρυψη { -brand-shorter-name }
+    .label = Απόκρυψη του { -brand-shorter-name }
 menu-application-hide-other =
     .label = Απόκρυψη άλλων
 menu-application-show-all =
@@ -61,8 +61,8 @@ menu-file-new-tab =
     .label = Νέα καρτέλα
     .accesskey = τ
 menu-file-new-container-tab =
-    .label = Νέα καρτέλα εντός περιβάλλοντος
-    .accesskey = β
+    .label = Νέα θεματική καρτέλα
+    .accesskey = θ
 menu-file-new-window =
     .label = Νέο παράθυρο
     .accesskey = Ν
@@ -105,8 +105,8 @@ menu-file-import-from-another-browser =
     .label = Εισαγωγή από άλλο φυλλομετρητή…
     .accesskey = Ε
 menu-file-go-offline =
-    .label = Εργασία χωρίς σύνδεση
-    .accesskey = χ
+    .label = Εργασία εκτός σύνδεσης
+    .accesskey = τ
 
 ## Edit Menu
 
@@ -141,8 +141,8 @@ menu-view-customize-toolbar2 =
     .label = Προσαρμογή γραμμής εργαλείων…
     .accesskey = Π
 menu-view-sidebar =
-    .label = Πλευρική στήλη
-    .accesskey = ε
+    .label = Πλαϊνή γραμμή
+    .accesskey = ν
 menu-view-bookmarks =
     .label = Σελιδοδείκτες
 menu-view-history-button =
@@ -196,7 +196,7 @@ menu-view-full-screen =
 ##
 
 menu-view-show-all-tabs =
-    .label = Προβολή όλων των καρτελών
+    .label = Εμφάνιση όλων των καρτελών
     .accesskey = λ
 menu-view-bidi-switch-page-direction =
     .label = Αλλαγή κατεύθυνσης σελίδας
