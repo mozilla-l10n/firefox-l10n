@@ -230,8 +230,8 @@ addon-open-about-debugging = Depurar complementos
 ## Extension shortcut management
 
 # This is displayed in the page options menu
-addon-manage-extensions-shortcuts = Administrar los accesos directos del complemento
-    .accesskey = S
+addon-manage-extensions-shortcuts = Administrar accesos directos de extensión
+    .accesskey = s
 shortcuts-no-addons = No tiene ningún complemento habilitado.
 shortcuts-no-commands = Los siguientes complementos no tienen atajos de teclado:
 shortcuts-input =
@@ -416,7 +416,7 @@ dictionary-heading = Administrar diccionarios
 locale-heading = Administrar idiomas
 updates-heading = Administrar sus actualizaciones
 discover-heading = Personalice su { -brand-short-name }
-shortcuts-heading = Administrar Accesos directos de extensión
+shortcuts-heading = Administrar accesos directos de extensión
 default-heading-search-label = Buscar más complementos
 addons-heading-search-input =
     .placeholder = Buscar en addons.mozilla.org

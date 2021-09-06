@@ -53,6 +53,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar otro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -144,13 +145,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "h">
 
 <!ENTITY historyMenu.label "Historial">
-
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Ventanas cerradas recientemente">
 
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
-
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión previa">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral de historial">
@@ -186,7 +185,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.unverified.label "La cuenta necesita ser verificada.">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Iniciar sesión en &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Habilitar &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Administrar dispositivos...">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Administrar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver barra lateral de pestañas sincronizadas">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Ocultar la Barra lateral de Pestañas sincronizadas">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar otro dispositivo">
