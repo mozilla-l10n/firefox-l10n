@@ -45,11 +45,11 @@ experimental-features-devtools-compatibility-panel-description = Ένας πλε
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookies: SameSite=Lax από προεπιλογή
-experimental-features-cookie-samesite-lax-by-default2-description = Αντιμετώπιση των cookies ως “SameSite=Lax” από προεπιλογή αν δεν καθορίζεται ιδιότητα “SameSite”. Οι προγραμματιστές πρέπει να επιλέξουν στο τρέχον status quo της απεριόριστης χρήσης, δηλώνοντας ρητά ότι “SameSite=None”.
+experimental-features-cookie-samesite-lax-by-default2-description = Αντιμετώπιση των cookies ως «SameSite=Lax» από προεπιλογή αν δεν καθορίζεται η ιδιότητα «SameSite». Οι προγραμματιστές πρέπει να εγγραφούν στο τρέχον status quo της απεριόριστης χρήσης, δηλώνοντας ρητά ότι «SameSite=None».
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
-    .label = Cookies: Το SameSite=None απαιτεί την ιδιότητα "secure"
-experimental-features-cookie-samesite-none-requires-secure2-description = Τα cookies με την ιδιότητα “SameSite=None” απαιτούν την ιδιότητα "secure". Αυτή η λειτουργία απαιτεί το “Cookies: SameSite=Lax από προεπιλογή”.
+    .label = Cookies: Το SameSite=None απαιτεί την ιδιότητα «secure»
+experimental-features-cookie-samesite-none-requires-secure2-description = Τα cookies με την ιδιότητα «SameSite=None» απαιτούν την ιδιότητα «secure». Αυτή η λειτουργία απαιτεί το «Cookies: SameSite=Lax από προεπιλογή».
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
@@ -59,7 +59,7 @@ experimental-features-abouthome-startup-cache-description = Κρυφή μνήμ�
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
-experimental-features-cookie-samesite-schemeful-description = Διαχείριση των cookie ίδιου τομέα αλλά διαφορετικού μοτίβου (π.χ. http://example.com και https://example.com) ως cookie μεταξύ ιστοτόπων αντί για cookie ίδιου ιστοτόπου. Βελτιώνει την ασφάλεια, αλλά ενδέχεται να προκαλέσει προβλήματα.
+experimental-features-cookie-samesite-schemeful-description = Διαχείριση των cookies ίδιου τομέα αλλά διαφορετικού μοτίβου (π.χ. http://example.com και https://example.com) ως cookie μεταξύ ιστοτόπων αντί για cookies ίδιου ιστοτόπου. Βελτιώνει την ασφάλεια, αλλά ενδέχεται να προκαλέσει προβλήματα.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Εργαλεία ανάπτυξης: Έλεγχος σφαλμάτων service worker
