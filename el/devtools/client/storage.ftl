@@ -9,7 +9,7 @@
 storage-table-empty-text = Δεν υπάρχουν δεδομένα για τον επιλεγμένο host
 # Hint shown when the cookies storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cookies
-storage-table-type-cookies-hint = Δείτε και επεξεργαστείτε cookie επιλέγοντας ένα host. <a data-l10n-name="learn-more-link">Μάθετε περισσότερα</a>
+storage-table-type-cookies-hint = Δείτε και επεξεργαστείτε cookies επιλέγοντας έναν κεντρικό υπολογιστή. <a data-l10n-name="learn-more-link">Μάθετε περισσότερα</a>
 # Hint shown when the local storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Local_Storage_Session_Storage
 storage-table-type-localstorage-hint = Δείτε και επεξεργαστείτε την τοπική αποθήκευση επιλέγοντας ένα host. <a data-l10n-name="learn-more-link">Μάθετε περισσότερα</a>
