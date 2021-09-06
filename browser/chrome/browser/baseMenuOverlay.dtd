@@ -2,15 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
+<!ENTITY aboutProduct2.label      "&brandShorterName;-ৰ বিষয়ে">
+<!ENTITY aboutProduct2.accesskey  "A">
 
 <!ENTITY preferencesCmdMac.label        "পছন্দসমূহ…">
 
 <!ENTITY servicesMenuMac.label          "সেৱাসমূহ">
 
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; লুকুৱাওক">
+
 <!ENTITY hideOtherAppsCmdMac.label      "অন্য লুকাওক">
 
 <!ENTITY showAllAppsCmdMac.label        "সকলো দেখুৱাওক">
 
+<!ENTITY touchBarCmdMac.label           "স্পৰ্শ-দণ্ডিকা কাষ্টমাইজ কৰক…">
