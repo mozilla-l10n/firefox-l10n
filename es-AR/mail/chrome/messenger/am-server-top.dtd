@@ -35,7 +35,7 @@
 <!ENTITY leaveOnServer.accesskey "a">
 <!ENTITY headersOnly.label "Descargar sólo los encabezados">
 <!ENTITY headersOnly.accesskey "z">
-<!ENTITY deleteByAgeFromServer.label "Borrar mensajes del servidor tras">
+<!ENTITY deleteByAgeFromServer.label "Por al menos">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "días">
 <!ENTITY deleteOnServer2.label "Hasta que los borre">
