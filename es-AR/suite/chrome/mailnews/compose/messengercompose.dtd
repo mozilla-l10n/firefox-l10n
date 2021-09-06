@@ -94,7 +94,7 @@
 <!ENTITY dsnMenu.label "Notificación de estado de entrega">
 <!ENTITY dsnMenu.accesskey "N">
 
-<!ENTITY outputFormatMenu.label "Acuse de recibo">
+<!ENTITY outputFormatMenu.label "Formato">
 <!ENTITY outputFormatMenu.accesskey  "A">
 <!ENTITY autoFormatCmd.label "Autodetectar">
 <!ENTITY autoFormatCmd.accesskey "a">
