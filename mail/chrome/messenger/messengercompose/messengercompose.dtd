@@ -10,7 +10,7 @@
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newMenu.label "Nuevo">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newMessage.label "Nuevo mensaje">
+<!ENTITY newMessage.label "Mensaje">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "m">
@@ -211,7 +211,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Minimizar ventana">
+<!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY bringAllToFront.label "Traer todo al frente">
 <!ENTITY zoomWindow.label "Acercar ventana">
 <!ENTITY windowMenu.label "Ventana">
