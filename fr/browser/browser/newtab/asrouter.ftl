@@ -278,5 +278,6 @@ cfr-doorhanger-video-support-primary-button = Mettre à jour
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
 spotlight-public-wifi-vpn-header = Vous semblez utiliser un Wi-Fi public
+spotlight-public-wifi-vpn-body = Afin de masquer votre emplacement et votre activité de navigation, envisagez l’usage d’un réseau privé virtuel (VPN). Il vous aidera à vous protéger lorsque vous naviguerez dans des lieux publics comme les aéroports et les cafés.
 spotlight-public-wifi-vpn-link = Plus tard
     .accesskey = t
