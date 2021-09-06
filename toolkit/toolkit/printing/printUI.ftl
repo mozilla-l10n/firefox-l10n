@@ -17,6 +17,9 @@ printui-page-range-custom = নিজৰ হিচাপে
 printui-page-range-label = পৃষ্ঠা
 printui-page-range-picker =
     .aria-label = পৃষ্ঠাৰ পৰিসৰ বাছি লওক
+printui-page-custom-range-input =
+    .aria-label = নিজৰ হিচাপে পৃষ্ঠাৰ পৰিসৰ লিখক
+    .placeholder = যেনে- 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = কপি
 printui-orientation = অৰিয়েণ্টেশ্যন
@@ -33,6 +36,11 @@ printui-scale = স্কেল
 printui-scale-fit-to-page-width = পৃষ্ঠাৰ প্ৰস্থত খাপ খাওক
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = স্কেল
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = দুপিঠিত ছপোৱা
+printui-two-sided-printing-off = বন্ধ
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = দীঘল দাঁতিত লুটিয়াওক
 # Section title for miscellaneous print options
 printui-options = বিকল্পসমূহ
 printui-headers-footers-checkbox = শিৰোশাৰী আৰু পাদশাৰী প্ৰিণ্ট কৰক
@@ -61,7 +69,10 @@ printui-margins-default = ডিফ'ল্ট
 printui-margins-min = সৰ্বনিম্ন
 printui-margins-none = একো নাই
 printui-margins-custom-top = ওপৰত
+printui-margins-custom-top-inches = ওপৰফালে (ইঞ্চি)
+printui-margins-custom-top-mm = ওপৰফালে (মিঃমিঃ)
 printui-margins-custom-bottom = তলত
+printui-margins-custom-bottom-inches = তলফালে (ইঞ্চি)
 printui-margins-custom-bottom-mm = তলফালে (মিঃমিঃ)
 printui-margins-custom-left = বাওঁফালে
 printui-margins-custom-left-inches = বাঁওফালে (ইঞ্চি)
