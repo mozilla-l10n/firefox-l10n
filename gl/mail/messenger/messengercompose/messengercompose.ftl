@@ -192,12 +192,39 @@ show-cc-row-main-menuitem =
 show-cc-row-extra-menuitem =
     .label = Cc
     .accesskey = C
+#   $key (String) - the shortcut key for this field
+show-cc-row-button = Cc
+    .title = Amosar o campo Cc ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+bcc-address-row-label =
+    .value = Cco
+#   $key (String) - the shortcut key for this field
+show-bcc-row-main-menuitem =
+    .label = Campo Cco
+    .accesskey = o
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-bcc-row-button text.
+show-bcc-row-extra-menuitem =
+    .label = Cco
+    .accesskey = o
+#   $key (String) - the shortcut key for this field
+show-bcc-row-button = Cco
+    .title = Amosar o campo Cco ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Outros campos de dirección a amosar
+#   $count (Number) - the count of addresses in the "To" and "Cc" fields.
+many-public-recipients-notice =
+    { $count ->
+        [one] A súa mensaxe ten un destinatario público. Pode agochar os destinatarios usando en troques o campo Cco.
+       *[other] Os { $count } destinatarios en Para e Cc poden ver os enderezos uns dos outros. Pode evitar divulgar os destinatarios usando no seu lugar Cco.
+    }
 many-public-recipients-bcc =
     .label = Mudar para Cco (con copia oculta)
     .accesskey = u
 many-public-recipients-ignore =
     .label = Manter os destinatarios visíbeis
     .accesskey = M
+many-public-recipients-prompt-title = Hai demasiados destinatarios públicos
 
 ## Notifications
 
