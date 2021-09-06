@@ -15,3 +15,7 @@ import-from-thunderbird-dir =
 import-select-profile-zip = Seleccione un directorio de perfil comprimido
 import-select-profile-dir = Seleccione un cartafol de perfil
 zip-file-too-big-title = O ficheiro Zip é grande de máis
+zip-file-too-big-message = Escolleu un ficheiro zip de máis de 2GB. Primeiro extraia o contido e despois importe do cartafol extraído.
+wizardpage-failed =
+    .label = Fallou a importación
+wizardpage-failed-message = A importación fallou inesperadamente; é posíbel que haxa máis información na consola de erros.
