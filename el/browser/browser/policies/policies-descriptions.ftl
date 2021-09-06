@@ -24,7 +24,7 @@ policy-BlockAboutSupport = Αποκλεισμός πρόσβασης στη σε
 policy-Bookmarks = Δημιουργία σελιδοδεικτών στη γραμμή σελιδοδεικτών, στο μενού σελιδοδεικτών ή σε ένα συγκεκριμένο φάκελο μέσα τους.
 policy-CaptivePortal = Ενεργοποίηση ή απενεργοποίηση υποστήριξης πυλών υποδοχής.
 policy-CertificatesDescription = Προσθήκη πιστοποιητικών ή χρήση ενσωματωμένων πιστοποιητικών.
-policy-Cookies = Αποδοχή ή άρνηση αιτημάτων αποθήκευσης cookie.
+policy-Cookies = Αποδοχή ή άρνηση αιτημάτων αποθήκευσης cookies.
 policy-DisabledCiphers = Απενεργοποίηση κρυπτογράφησης.
 policy-DefaultDownloadDirectory = Ορισμός προεπιλεγμένου καταλόγου λήψης.
 policy-DisableAppUpdate = Αποτροπή ενημέρωσης προγράμματος περιήγησης.
@@ -77,7 +77,7 @@ policy-LegacyProfiles = Απενεργοποίηση της λειτουργία
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 policy-LegacySameSiteCookieBehaviorEnabled = Ενεργοποίηση προεπιλεγμένης ρύθμισης συμπεριφοράς του παλαιού SameSite cookie.
-policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Επαναφορά στην παλαιά συμπεριφορά SameSite για cookie σε καθορισμένους ιστοτόπους.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Επαναφορά στην παλαιά συμπεριφορά SameSite για cookies σε καθορισμένους ιστοτόπους.
 
 ##
 
