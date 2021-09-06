@@ -161,7 +161,7 @@
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Nueva tarea…">
 <!ENTITY calendar.context.newtodo.accesskey           "t">
-<!ENTITY calendar.context.deletetask.label            "Eliminar tarea">
+<!ENTITY calendar.context.deletetask.label            "Borrar tarea">
 <!ENTITY calendar.context.deletetask.accesskey        "l">
 <!ENTITY calendar.context.deleteevent.label           "Borrar evento">
 <!ENTITY calendar.context.deleteevent.accesskey       "B">
