@@ -21,7 +21,7 @@ policy-BlockAboutProfiles = Αποκλεισμός πρόσβασης στη σ�
 policy-BlockAboutSupport = Αποκλεισμός πρόσβασης στη σελίδα about:support.
 policy-CaptivePortal = Ενεργοποίηση ή απενεργοποίηση υποστήριξης πυλών υποδοχής.
 policy-CertificatesDescription = Προσθήκη πιστοποιητικών ή χρήση ενσωματωμένων πιστοποιητικών.
-policy-Cookies = Αποδοχή ή απόρριψη τοποθέτησης cookie από ιστοτόπους.
+policy-Cookies = Αποδοχή ή απόρριψη τοποθέτησης cookies από ιστοτόπους.
 policy-DisableBuiltinPDFViewer = Απενεργοποίηση του PDF.js, του ενσωματωμένου προγράμματος προβολής PDF στο { -brand-short-name }.
 policy-DisabledCiphers = Απενεργοποίηση κρυπτογράφησης.
 policy-DefaultDownloadDirectory = Ορισμός προεπιλεγμένου καταλόγου λήψης.
@@ -60,7 +60,7 @@ policy-LegacyProfiles = Απενεργοποίηση της λειτουργία
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 policy-LegacySameSiteCookieBehaviorEnabled = Ενεργοποίηση προεπιλεγμένης ρύθμισης συμπεριφοράς του παλαιού SameSite cookie.
-policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Επαναφορά στην παλαιά συμπεριφορά SameSite για cookie σε καθορισμένους ιστοτόπους.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Επαναφορά στην παλαιά συμπεριφορά SameSite για cookies σε καθορισμένους ιστοτόπους.
 
 ##
 
