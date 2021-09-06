@@ -29,6 +29,7 @@ hovering over the video. -->
 <!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
 a variation of the Picture-in-Picture video toggle button. When using this variation,
 this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "আপুনি &brandShortName;-ত অন্য কাম কৰি থকা অৱস্থাত আগফালে ভিডিঅ' চলাওক">
 
 <!ENTITY error.aborted "ভিডিঅ' ল'ড হোৱাটো ৰৈ গ'ল।">
 <!ENTITY error.network "এটা নেটৱৰ্ক ত্ৰুটিৰ বাবে ভিডিঅ' প্লে'বেক ৰখোৱা হ'ল।">
