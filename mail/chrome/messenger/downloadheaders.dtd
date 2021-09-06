@@ -14,7 +14,7 @@
 <!ENTITY download.label     "Λήψη">
 <!ENTITY download.accesskey "ψ">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label      "Κεφαλίδες">
+<!ENTITY headers.label      "κεφαλίδων">
 <!ENTITY headers.accesskey  "φ">
 <!ENTITY mark.label         "Επισήμανση υπολειπόμενων κεφαλίδων ως αναγνωσμένων">
 <!ENTITY mark.accesskey     "μ">
