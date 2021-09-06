@@ -245,8 +245,8 @@
 <!ENTITY headersAllCmd.accesskey "λ">
 <!ENTITY headersNormalCmd.label "Κανονικές">
 <!ENTITY headersNormalCmd.accesskey "ν">
-<!ENTITY bodyMenu.label "Κυρίως κείμενο μηνύματος ως">
-<!ENTITY bodyMenu.accesskey "ρ">
+<!ENTITY bodyMenu.label "Σώμα μηνύματος ως">
+<!ENTITY bodyMenu.accesskey "Σ">
 <!ENTITY bodyAllowHTML.label "Πρωτότυπο HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "Απλό HTML">
@@ -256,7 +256,7 @@
 <!ENTITY bodyAllParts.label "Όλα τα μέρη σώματος">
 <!ENTITY bodyAllParts.accesskey "λ">
 
-<!ENTITY bodyMenuFeed.label "Σώμα μηνύματος αρχείου ροής ως">
+<!ENTITY bodyMenuFeed.label "Σώμα μηνύματος ροής ως">
 <!ENTITY bodyMenuFeed.accesskey "η">
 <!ENTITY viewFeedWebPage.label "Ιστοσελίδα">
 <!ENTITY viewFeedWebPage.accesskey "σ">
@@ -265,7 +265,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Προεπιλεγμένη μορφή">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "μ">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Εμφάνιση συνημμένων στο κυρίως κείμενο">
+<!ENTITY viewAttachmentsInlineCmd.label "Προβολή συνημμένων εντός μηνύματος">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "φ">
 
 <!ENTITY pageSourceCmd.label "Κώδικας μηνύματος">
