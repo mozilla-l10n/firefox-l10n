@@ -13,7 +13,7 @@
 <!ENTITY email.accesskey                 "l">
 <!ENTITY email3.placeholder              "Dirección de correo electrónico">
 <!ENTITY email.text                      "Direccione de correo electrónico existente">
-<!ENTITY email.error                     "Dirección de correo electrónica no válida">
+<!ENTITY email.error                     "Dirección de correo electrónico no válida">
 <!ENTITY password.label                  "Contraseña:">
 <!ENTITY password.accesskey              "C">
 <!ENTITY password.placeholder            "Contraseña">
