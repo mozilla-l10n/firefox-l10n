@@ -216,7 +216,7 @@ extra-address-rows-menu-button =
 many-public-recipients-notice =
     { $count ->
         [one] A súa mensaxe ten un destinatario público. Pode agochar os destinatarios usando en troques o campo Cco.
-       *[other] Os { $count } destinatarios en Para e Cc poden ver os enderezos uns dos outros. Pode evitar divulgar os destinatarios usando no seu lugar Cco.
+       *[other] Os { $count } destinatarios en Para e Cc poden ver os enderezos uns dos outros. Pode evitar revelar os destinatarios usando no seu lugar Cco.
     }
 many-public-recipients-bcc =
     .label = Mudar para Cco (con copia oculta)
@@ -225,6 +225,14 @@ many-public-recipients-ignore =
     .label = Manter os destinatarios visíbeis
     .accesskey = M
 many-public-recipients-prompt-title = Hai demasiados destinatarios públicos
+#   $count (Number) - the count of addresses in the public recipients fields.
+many-public-recipients-prompt-msg =
+    { $count ->
+        [one] A súa mensaxe ten un destinatario público. Isto pode ser un problema de privacidade. Pode evitar revelar o destinatario movendo o destinatario do campo Para/Cc ao campo Cco.
+       *[other] A súa mensaxe ten { $count } destinatarios públicos. Isto pode ser un problema de privacidade. Pode evitar revelar os destinatarios movendo o destinatario do campo Para/Cc ao campo Cco.
+    }
+many-public-recipients-prompt-cancel = Cancelar o envío
+many-public-recipients-prompt-send = Enviar de todos os xeitos
 
 ## Notifications
 
