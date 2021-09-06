@@ -12,7 +12,7 @@
 
 policy-3rdparty = Establezca políticas de manera que las WebExtensions puedan acceder mediante chrome.storage.managed.
 policy-AllowedDomainsForApps = Definir dominios autorizados para acceder a Google Workspace.
-policy-AppAutoUpdate = Habilitar o deshabilitar las actualizaciones automáticas de las extensiones.
+policy-AppAutoUpdate = Habilitar o deshabilitar la actualización automática de la aplicación.
 policy-AppUpdateURL = Establecer la dirección URL de actualización personalizada de la aplicación.
 policy-Authentication = Configurar la autenticación integrada para los sitios web que la permiten.
 policy-AutoLaunchProtocolsFromOrigins = Defina una lista de protocolos externos que se puedan utilizar desde los orígenes enumerados sin avisarle al usuario.
@@ -58,7 +58,7 @@ policy-DownloadDirectory = Establecer y bloquear la carpeta de descargas.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Habilitar o deshabilitar el bloqueo de contenido y bloquearlo opcionalmente.
 # “lock” means that the user won’t be able to change this setting
-policy-EncryptedMediaExtensions = Activar o desactivar extensiones de medios cifrados y, opcionalmente, bloquearlos.
+policy-EncryptedMediaExtensions = Habilitar o deshabilitar extensiones de medios cifrados y, opcionalmente, bloquearlos.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -76,8 +76,8 @@ policy-LegacyProfiles = Deshabilitar la función que impone un perfil separado p
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
-policy-LegacySameSiteCookieBehaviorEnabled = Habilite la configuración predeterminada de comportamiento de cookies de SameSite heredado.
-policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Vuelva al comportamiento heredado de SameSite para cookies en sitios específicos.
+policy-LegacySameSiteCookieBehaviorEnabled = Habilitar la configuración predeterminada de comportamiento de cookies de SameSite heredado.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Volver al comportamiento heredado de SameSite para cookies en sitios específicos.
 
 ##
 
