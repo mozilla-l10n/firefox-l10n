@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cookies-window-dialog =
-    .title = Cookie
+    .title = Cookies
     .style = width: 40em;
 window-close-key =
     .key = w
@@ -14,7 +14,7 @@ window-focus-search-alt-key =
 filter-search-label =
     .value = Αναζήτηση:
     .accesskey = ζ
-cookies-on-system-label = Τα ακόλουθα cookie αποθηκεύονται στον υπολογιστή σας:
+cookies-on-system-label = Τα ακόλουθα cookies αποθηκεύονται στον υπολογιστή σας:
 treecol-site-header =
     .label = Ιστότοπος
 treecol-name-header =
@@ -37,7 +37,7 @@ remove-cookie-button =
     .label = Αφαίρεση cookie
     .accesskey = φ
 remove-all-cookies-button =
-    .label = Αφαίρεση όλων των cookie
+    .label = Αφαίρεση όλων των cookies
     .accesskey = σ
 cookie-close-button =
     .label = Κλείσιμο
