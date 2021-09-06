@@ -117,7 +117,7 @@
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.tooltip
-         "Προβολή μόνο των μηνυμάτων με συνημμένα">
+         "Εμφάνιση μόνο των μηνυμάτων με συνημμένα">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the

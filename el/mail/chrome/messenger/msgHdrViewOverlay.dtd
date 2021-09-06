@@ -90,7 +90,7 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Διαγραφή όλων…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "φ">
 
-<!ENTITY openAttachment.tooltip "Άνοιγμα του επισυναπτόμενου αρχείου">
+<!ENTITY openAttachment.tooltip "Άνοιγμα του συνημμένου αρχείου">
 
 <!ENTITY detachedAttachmentFolder.show.label        "Άνοιγμα φακέλου λήψης">
 <!ENTITY detachedAttachmentFolder.show.accesskey    "φ">
