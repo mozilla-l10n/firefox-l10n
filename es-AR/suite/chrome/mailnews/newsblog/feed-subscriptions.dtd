@@ -11,7 +11,7 @@
 
 <!ENTITY feedLocation.label          "URL del canal:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation2.placeholder   "Ingrese una dirección de canal válida">
+<!ENTITY feedLocation2.placeholder   "Ingresar una dirección de canal válida">
 <!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Verificar validación y recuperar una dirección válida.">
 
