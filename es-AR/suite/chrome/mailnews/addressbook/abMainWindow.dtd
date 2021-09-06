@@ -4,9 +4,6 @@
 
 <!-- Title -->
 <!ENTITY addressbookWindow.title                        "Libreta de direcciones">
-
-<!-- Menus:  the . means that the menu item isn't implemented yet -->
-
 <!ENTITY blankResultsPaneMessage.label                  "Esta libreta de direcciones muestra contactos solamente después de una búsqueda">
 <!ENTITY localResultsOnlyMessage.label                  "Los contactos de libretas de direcciones remotas no se muestran hasta que los busque">
 <!-- File Menu -->
@@ -54,13 +51,12 @@
 <!ENTITY showContactPane2.accesskey                     "c">
 <!ENTITY menu_ShowNameAs.label                          "Mostrar nombre como">
 <!ENTITY menu_ShowNameAs.accesskey                      "s">
-<!ENTITY firstLastCmd.label                             "Nombre Apellido">
+<!ENTITY firstLastCmd.label                             "Nombre y apellido">
 <!ENTITY firstLastCmd.accesskey                         "N">
 <!ENTITY lastFirstCmd.label                             "Apellidos, nombre">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "Nombre mostrado">
 <!ENTITY displayNameCmd.accesskey                       "d">
-
 <!-- LOCALIZATION NOTE (toggleDirectoryPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
 <!ENTITY toggleDirectoryPaneCmd.key                     "S">
