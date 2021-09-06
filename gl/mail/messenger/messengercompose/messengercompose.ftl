@@ -64,6 +64,10 @@ toolbar-button-add-attachment =
 add-attachment-notification-reminder =
     .label = Engadir un anexo…
     .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+add-attachment-notification-reminder2 =
+    .label = Engadir un anexo…
+    .accesskey = a
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
 menuitem-attach-files =
     .label = Ficheiro(s)…
     .accesskey = F
@@ -120,6 +124,13 @@ button-return-receipt =
     .label = Aviso de recepción
     .tooltiptext = Solicita un aviso de recepción desta mensaxe
 
+# Encryption
+
+message-to-be-signed-icon =
+    .alt = Asinar a mensaxe
+message-to-be-encrypted-icon =
+    .alt = Cifrar a mensaxe
+
 # Addressing Area
 
 to-compose-address-row-label =
@@ -154,6 +165,13 @@ bcc-compose-show-address-row-label =
     .tooltiptext = Amosar o campo { bcc-compose-address-row-label.value } ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Os { $count } destinatarios en Para e Cc poden ver os enderezos uns dos outros. Pode evitar divulgar os destinatarios usando no seu lugar Cco.
+to-address-row-label =
+    .value = Para
+#   $key (String) - the shortcut key for this field
+show-to-row-main-menuitem =
+    .label = Campo Para
+    .accesskey = a
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 many-public-recipients-bcc =
     .label = Mudar para Cco (con copia oculta)
     .accesskey = u
