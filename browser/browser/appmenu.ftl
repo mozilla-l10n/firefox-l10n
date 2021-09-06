@@ -67,10 +67,6 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Logg inn for å synkronisere…
 appmenu-remote-tabs-turn-on-sync =
     .label = Slå på Sync…
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Vis alle
-    .tooltiptext = Vis alle faner frå denne eininga
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Vis fleire faner
@@ -79,6 +75,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Ingen opne faner
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Slå på fane-synkronisering for å sjå ei liste over faner frå dei andre einingane dine.
+appmenu-remote-tabs-opensettings =
+    .label = Innstillingar
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vil du sjå faner frå dei andre einingane dine her?
