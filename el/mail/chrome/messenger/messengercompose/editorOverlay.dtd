@@ -169,7 +169,7 @@
 
 <!ENTITY ParagraphSelect.tooltip "Επιλέξτε μια μορφή λίστας">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "Κύριο μέρος">
+<!ENTITY bodyTextCmd.label "Κείμενο σώματος">
 <!ENTITY bodyTextCmd.accesskey "μ">
 
 <!-- Align menu items -->

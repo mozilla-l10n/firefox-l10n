@@ -338,7 +338,7 @@
 <!ENTITY customizeFromAddress.accesskey "δ">
 
 <!-- Accessibility name for the document -->
-<!ENTITY aria.message.bodyName "Κύριο μέρος μηνύματος">
+<!ENTITY aria.message.bodyName "Σώμα μηνύματος">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Γλώσσα ορθογραφικού ελέγχου">
