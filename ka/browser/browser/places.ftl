@@ -134,8 +134,8 @@ places-remove-bookmark =
 places-delete-bookmark =
     .label =
         { $count ->
-            [1] საქაღალდის წაშლა
-           *[other] საქაღალდეების წაშლა
+            [1] სანიშნის წაშლა
+           *[other] სანიშნების წაშლა
         }
     .accesskey = წ
 places-manage-bookmarks =
