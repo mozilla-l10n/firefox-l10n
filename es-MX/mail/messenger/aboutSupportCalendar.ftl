@@ -17,3 +17,5 @@ calendars-table-cache-enabled = Caché habilitado
 calendars-table-imip-identity = Identidad iMIP
 calendars-table-imip-identity-disabled = iMIP deshabilitado
 calendars-table-imip-identity-account = Cuenta iMIP
+calendars-table-capabilities-categories-maxcount = Categorías máximas
+calendars-table-capabilities-privacy-supported = Estado de privacidad soportado
