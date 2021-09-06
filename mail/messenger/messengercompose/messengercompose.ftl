@@ -170,8 +170,28 @@ to-address-row-label =
 #   $key (String) - the shortcut key for this field
 show-to-row-main-menuitem =
     .label = Campo Para
-    .accesskey = a
+    .accesskey = P
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-to-row-button text.
+show-to-row-extra-menuitem =
+    .label = Para
+    .accesskey = P
+#   $key (String) - the shortcut key for this field
+show-to-row-button = Para
+    .title = Amosar o campo Para ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+cc-address-row-label =
+    .value = Cc
+#   $key (String) - the shortcut key for this field
+show-cc-row-main-menuitem =
+    .label = Campo Cc
+    .accesskey = C
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
+# No acceltext should be shown.
+# The label should match the show-cc-row-button text.
+show-cc-row-extra-menuitem =
+    .label = Cc
+    .accesskey = C
 many-public-recipients-bcc =
     .label = Mudar para Cco (con copia oculta)
     .accesskey = u
