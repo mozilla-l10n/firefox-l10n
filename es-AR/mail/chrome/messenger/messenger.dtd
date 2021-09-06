@@ -529,7 +529,7 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton1.label "Recibir mensajes">
+<!ENTITY getMsgButton1.label "Obtener mensajes">
 <!ENTITY newMsgButton.label "Redactar">
 <!ENTITY replyButton.label "Responder">
 <!ENTITY replyAllButton.label "Resp. a todos">
@@ -642,7 +642,7 @@
 <!ENTITY folderSizeColumn.label "Tamaño">
 
 <!-- Folder Pane Context Menu -->
-<!ENTITY folderContextGetMessages.label "Recibir mensajes de la cuenta">
+<!ENTITY folderContextGetMessages.label "Obtener mensajes">
 <!ENTITY folderContextGetMessages.accesskey "j">
 <!ENTITY folderContextMarkAllFoldersRead.label "Marcar todas las carpetas como leídas">
 <!ENTITY folderContextPauseAllUpdates.label "Pausar todas las actualizaciones">
