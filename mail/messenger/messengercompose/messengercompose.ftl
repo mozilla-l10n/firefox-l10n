@@ -235,6 +235,8 @@ show-bcc-row-extra-menuitem =
 #   $key (String) - the shortcut key for this field
 show-bcc-row-button = Bcc
     .title = Dangos Maes Bcc ({ ctrl-cmd-shift-pretty-prefix }{ $key })
+extra-address-rows-menu-button =
+    .title = Meysydd cyfeiriadau eraill i'w dangos
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-notice =
     { $count ->
