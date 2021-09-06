@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY e2eTitle.label "Cifrado de punta a punta">
+<!ENTITY e2eTitle.label "Cifrado de extremo a extremo">
 <!ENTITY e2eLearnMore.label "Conocer más">
 
 <!ENTITY e2eEnc.description "Sin cifrado de punta a punta, el contenido de los mensajes se expone fácilmente a su proveedor de correo electrónico y a la vigilancia masiva.">

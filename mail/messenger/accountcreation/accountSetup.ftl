@@ -240,7 +240,7 @@ account-setup-addon-no-protocol = Este servidor de correo desafortunadamente no 
 ## Success view
 
 account-setup-settings-button = Configuración de la cuenta
-account-setup-encryption-button = Cifrado de punta a punta
+account-setup-encryption-button = Cifrado de extremo a extremo
 account-setup-signature-button = Agregar una firma
 account-setup-dictionaries-button = Descargar diccionarios
 account-setup-address-book-carddav-button = Conectar a una libreta de direcciones CardDAV
