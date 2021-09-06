@@ -97,9 +97,9 @@ imported-edge-reading-list = Λίστα ανάγνωσης (Από Edge)
 ## normalized to just "edge" and "chrome" for these strings.
 
 browser-data-cookies-checkbox =
-    .label = Cookie
+    .label = Cookies
 browser-data-cookies-label =
-    .value = Cookie
+    .value = Cookies
 browser-data-history-checkbox =
     .label =
         { $browser ->

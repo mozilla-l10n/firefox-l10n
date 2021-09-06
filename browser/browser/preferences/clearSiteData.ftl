@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Απαλοιφή δεδομένων
     .style = width: 35em
-clear-site-data-description = Η απαλοιφή όλων των cookie και των δεδομένων ιστοτόπων που αποθηκεύει το { -brand-short-name } ίσως σας αποσυνδέσει από ιστοτόπους και ενδέχεται να αφαιρέσει το περιεχόμενο web εκτός σύνδεσης. Η εκκαθάριση της προσωρινής μνήμης δεν θα επηρεάσει τις συνδέσεις σας.
+clear-site-data-description = Η απαλοιφή όλων των cookies και των δεδομένων ιστοτόπων που αποθηκεύει το { -brand-short-name } ίσως σας αποσυνδέσει από ιστοτόπους και ενδέχεται να αφαιρέσει το περιεχόμενο web εκτός σύνδεσης. Η διαγραφή της κρυφής μνήμης δεν θα επηρεάσει τις συνδέσεις σας.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -14,7 +14,7 @@ clear-site-data-close-key =
 #   $amount (Number) - Amount of site data currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cookies-with-data =
-    .label = Cookie και δεδομένα ιστοτόπων ({ $amount } { $unit })
+    .label = Cookies και δεδομένα ιστοτόπων ({ $amount } { $unit })
     .accesskey = ι
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
@@ -22,7 +22,7 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = Cookie και δεδομένα ιστοτόπων
+    .label = Cookies και δεδομένα ιστοτόπων
     .accesskey = ι
 clear-site-data-cookies-info = Ενδέχεται να αποσυνδεθείτε από τους ιστοτόπους εάν γίνει εκκαθάριση
 # The parameters in parentheses in this string describe disk usage
