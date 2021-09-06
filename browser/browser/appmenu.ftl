@@ -67,23 +67,19 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Σύνδεση στο Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ενεργοποίηση Sync…
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Εμφάνιση όλων
-    .tooltiptext = Εμφάνιση όλων των καρτελών αυτής της συσκευής
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Εμφάνιση περισσότερων καρτελών
     .tooltiptext = Εμφάνιση περισσότερων καρτελών αυτής της συσκευής
 # This is shown beneath the name of a device when that device has no open tabs
-appmenu-remote-tabs-notabs = Δεν υπάρχουν ανοικτές καρτέλες
+appmenu-remote-tabs-notabs = Καμία ανοικτή καρτέλα
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ενεργοποιήστε τον συγχρονισμό καρτελών για να δείτε μια λίστα από καρτέλες από τις άλλες σας συσκευές.
 appmenu-remote-tabs-opensettings =
     .label = Ρυθμίσεις
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
-appmenu-remote-tabs-noclients = Θέλετε να δείτε τις καρτέλες από τις άλλες σας συσκευές εδώ;
+appmenu-remote-tabs-noclients = Θέλετε να δείτε εδώ τις καρτέλες σας από άλλες συσκευές;
 appmenu-remote-tabs-connectdevice =
     .label = Σύνδεση άλλης συσκευής
 appmenu-remote-tabs-welcome = Δείτε μια λίστα με καρτέλες από τις άλλες σας συσκευές.
@@ -176,7 +172,7 @@ appmenu-help-header =
     .title = Βοήθεια { -brand-shorter-name }
 appmenu-about =
     .label = Σχετικά με το { -brand-shorter-name }
-    .accesskey = τ
+    .accesskey = Σ
 appmenu-get-help =
     .label = Λήψη βοήθειας
     .accesskey = β

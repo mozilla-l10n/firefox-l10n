@@ -34,8 +34,8 @@ downloads-cmd-show-menuitem =
     .accesskey = φ
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
-    .label = Προβολή στο Finder
-    .accesskey = ρ
+    .label = Εμφάνιση στο Finder
+    .accesskey = μ
 downloads-cmd-use-system-default =
     .label = Άνοιγμα με το πρόγραμμα προβολής συστήματος
     .accesskey = π
@@ -76,10 +76,10 @@ downloads-cmd-remove-from-history =
     .label = Αφαίρεση από το ιστορικό
     .accesskey = ι
 downloads-cmd-clear-list =
-    .label = Απαλοιφή πλαισίου προεπισκόπησης
+    .label = Απαλοιφή περιοχής προεπισκόπησης
     .accesskey = κ
 downloads-cmd-clear-downloads =
-    .label = Εκκαθάριση λήψεων
+    .label = Απαλοιφή λήψεων
     .accesskey = θ
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
@@ -101,9 +101,9 @@ downloads-cmd-choose-unblock-panel =
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
-    .tooltiptext = Άνοιγμα ή διαγραφή του αρχείου
+    .tooltiptext = Άνοιγμα ή αφαίρεση αρχείου
 downloads-cmd-choose-open-panel =
-    .aria-label = Άνοιγμα ή διαγραφή του αρχείου
+    .aria-label = Άνοιγμα ή αφαίρεση αρχείου
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
@@ -141,15 +141,15 @@ downloads-cancel-download =
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
-    .label = Προβολή όλων των λήψεων
-    .accesskey = Π
+    .label = Εμφάνιση όλων των λήψεων
+    .accesskey = Ε
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Λεπτομέρειες λήψης
 downloads-clear-downloads-button =
-    .label = Εκκαθάριση λήψεων
-    .tooltiptext = Απομακρύνει από τη λίστα τις ολοκληρωμένες, ακυρωμένες και αποτυχημένες λήψεις
+    .label = Απαλοιφή λήψεων
+    .tooltiptext = Διαγράφει τις ολοκληρωμένες, ακυρωμένες και αποτυχημένες λήψεις
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =

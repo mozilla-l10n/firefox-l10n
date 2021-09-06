@@ -196,7 +196,7 @@ search-one-offs-context-set-as-default =
     .label = Ορισμός ως προεπιλεγμένη μηχανή αναζήτησης
     .accesskey = Ο
 search-one-offs-context-set-as-default-private =
-    .label = Ορίστε ως προεπιλεγμένη μηχανή αναζήτησης για ιδιωτικά παράθυρα
+    .label = Ορισμός ως προεπιλεγμένη μηχανή αναζήτησης ιδιωτικών παραθύρων
     .accesskey = ι
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
@@ -592,7 +592,7 @@ bookmarks-manage-bookmarks =
     .label = Διαχείριση σελιδοδεικτών
 bookmarks-recent-bookmarks-panel-subheader = Πρόσφατοι σελιδοδείκτες
 bookmarks-toolbar-chevron =
-    .tooltiptext = Προβολή περισσότερων σελιδοδεικτών
+    .tooltiptext = Εμφάνιση περισσότερων σελιδοδεικτών
 bookmarks-sidebar-content =
     .aria-label = Σελιδοδείκτες
 bookmarks-menu-button =
@@ -604,8 +604,8 @@ bookmarks-mobile-bookmarks-menu =
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] Απόκρυψη στήλης σελιδοδεικτών
-           *[other] Προβολή στήλης σελιδοδεικτών
+            [true] Απόκρυψη πλαϊνής γραμμής σελιδοδεικτών
+           *[other] Προβολή πλαϊνής γραμμής σελιδοδεικτών
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -636,7 +636,7 @@ bookmarks-bookmark-edit-panel =
 # This avoids double-speaking.
 bookmarks-toolbar =
     .toolbarname = Γραμμή σελιδοδεικτών
-    .accesskey = γ
+    .accesskey = Γ
     .aria-label = Σελιδοδείκτες
 bookmarks-toolbar-menu =
     .label = Γραμμή σελιδοδεικτών
@@ -687,8 +687,8 @@ toolbar-settings-button =
 ## More items
 
 more-menu-go-offline =
-    .label = Εργασία χωρίς σύνδεση
-    .accesskey = χ
+    .label = Εργασία εκτός σύνδεσης
+    .accesskey = κ
 toolbar-overflow-customize-button =
     .label = Προσαρμογή γραμμής εργαλείων…
     .accesskey = ο
@@ -731,11 +731,11 @@ ui-tour-info-panel-close =
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
 popups-infobar-allow =
-    .label = Αποδοχή αναδυόμενων από { $uriHost }
+    .label = Αποδοχή αναδυόμενων παραθύρων στο { $uriHost }
     .accesskey = ν
 popups-infobar-block =
-    .label = Φραγή αναδυόμενων από { $uriHost }
-    .accesskey = ν
+    .label = Φραγή αναδυόμενων παραθύρων στο { $uriHost }
+    .accesskey = δ
 
 ##
 

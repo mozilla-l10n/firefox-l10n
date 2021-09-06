@@ -5,7 +5,7 @@
 privatebrowsingpage-open-private-window-label = Άνοιγμα ιδιωτικού παραθύρου
     .accesskey = ι
 about-private-browsing-search-placeholder = Αναζήτηση στο διαδίκτυο
-about-private-browsing-info-title = Βρίσκεστε σε ένα ιδιωτικό παράθυρο
+about-private-browsing-info-title = Βρίσκεστε σε ιδιωτικό παράθυρο
 about-private-browsing-info-myths = Συνήθεις παρανοήσεις για την Ιδιωτική περιήγηση
 about-private-browsing =
     .title = Αναζήτηση στο διαδίκτυο
