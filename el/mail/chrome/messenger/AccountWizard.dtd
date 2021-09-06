@@ -15,7 +15,7 @@
 <!ENTITY accountTypeDirections.label "Επιλέξτε το είδος του λογαριασμού που θέλετε να ρυθμίσετε:">
 <!ENTITY accountTypeMail.label "Λογαριασμός email">
 <!ENTITY accountTypeMail.accesskey "ρ">
-<!ENTITY accountTypeNews.label "Λογαριασμός ομάδας συζήτησης">
+<!ENTITY accountTypeNews.label "Λογαριασμός ομάδας συζητήσεων">
 <!ENTITY accountTypeNews.accesskey "δ">
 <!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
 <!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
@@ -65,7 +65,7 @@
 <!ENTITY incomingUsername.accesskey "χ">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Εισαγάγετε το όνομα του διακομιστή συζητήσεών σας (NNTP) (για παράδειγμα, «news.example.net»).">
-<!ENTITY newsServerLabel.label "Διακομιστής ομάδας συζήτησης:">
+<!ENTITY newsServerLabel.label "Διακομιστής ομάδας συζητήσεων:">
 <!ENTITY newsServerLabel.accesskey "σ">
 
 <!-- Entities for Outgoing Server page -->

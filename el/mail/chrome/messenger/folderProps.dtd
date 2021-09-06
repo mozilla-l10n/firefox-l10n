@@ -42,7 +42,7 @@
 <!ENTITY offlineFolder.button.label              "Λήψη τώρα">
 <!ENTITY offlineFolder.button.accesskey          "ψ">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Επιλογή αυτής της ομάδας συζητήσεων για εργασία χωρίς σύνδεση">
+<!ENTITY selectofflineNewsgroup.check.label      "Επιλογή ομάδας συζητήσεων για χρήση εκτός σύνδεσης">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "τ">
 <!ENTITY offlineNewsgroup.button.label           "Λήψη τώρα">
 <!ENTITY offlineNewsgroup.button.accesskey       "ψ">
