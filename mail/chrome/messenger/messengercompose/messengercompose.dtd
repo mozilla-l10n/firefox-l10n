@@ -250,7 +250,7 @@
 <!ENTITY bccAddr2.label "Cco">
 <!ENTITY replyAddr2.label "Responder a">
 <!ENTITY newsgroupsAddr2.label "Grupos de noticias">
-<!ENTITY followupAddr2.label "Seguimiento a">
+<!ENTITY followupAddr2.label "Reenviado-a">
 <!ENTITY subject2.label "Asunto">
 <!ENTITY subject.accesskey "s">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ocultar la vista de adjuntos">
