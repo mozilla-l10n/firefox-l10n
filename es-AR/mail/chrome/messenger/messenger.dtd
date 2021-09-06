@@ -721,7 +721,7 @@
 <!ENTITY locationColumn.label "Ubicación">
 <!ENTITY idColumn.label "Orden de recepción">
 <!ENTITY attachmentColumn.label "Adjuntos">
-<!ENTITY deleteColumn.label "Eliminar">
+<!ENTITY deleteColumn.label "Borrar">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Seleccionar las columnas a mostrar">

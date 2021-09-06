@@ -269,7 +269,7 @@
 <!ENTITY tableCellAfter.label "Celda siguiente">
 <!ENTITY tableCellAfter.accesskey "t">
 <!-- Delete SubMenu -->
-<!ENTITY tableDeleteMenu.label "Eliminar">
+<!ENTITY tableDeleteMenu.label "Borrar">
 <!ENTITY tableDeleteMenu.accesskey "E">
 
 <!-- text for "Join Cells" is in editor.properties
