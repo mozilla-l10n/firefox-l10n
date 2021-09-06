@@ -31,7 +31,7 @@
 <!ENTITY PhoneticField2.label           "Φωνητικό:">
 <!ENTITY DisplayName.label              "Εμφάνιση:">
 <!ENTITY DisplayName.accesskey          "Ε">
-<!ENTITY preferDisplayName.label        "Να προτιμάται πάντα το εμφανιζόμενο όνομα αντί της κεφαλίδας μηνύματος">
+<!ENTITY preferDisplayName.label        "Να προτιμάται το εμφανιζόμενο όνομα αντί της κεφαλίδας μηνύματος">
 <!ENTITY preferDisplayName2.accesskey   "η">
 <!ENTITY NickName.label                 "Ψευδώνυμο:">
 <!ENTITY NickName.accesskey             "Ψ">
