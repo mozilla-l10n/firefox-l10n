@@ -89,7 +89,7 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
-addons-button = Extensiones & Temas
+addons-button = Extensiones y temas
 account-button = Configuración de la cuenta
 open-addons-sidebar-button = Complementos y temas
 
