@@ -36,7 +36,6 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ঠিক আছে, বুজিছোঁ
     .buttonaccesskey = O
 appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></image> মেন্যুত <image data-l10n-name='addon-install-icon'></image>-ত ক্লিক কৰি আপোনাৰ এড-অ'নবোৰ পৰিচালনা কৰক।
-
 appmenu-update-available2 =
     .label = আপডেট উপলব্ধ
     .buttonlabel = ডাউনল'ড কৰক
@@ -71,7 +70,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = U
     .secondarybuttonlabel = এতিয়া নহয়
     .secondarybuttonaccesskey = N
-
+appmenu-update-other-instance-message = এটা নতুন { -brand-shorter-name } আপডেট উপলব্ধ যদিও ইনষ্টল কৰিব নোৱাৰি কিয়নো { -brand-shorter-name }-ৰ আন এটা প্ৰতিলিপি চলি আছে। আপডেটটো অব্যাহত ৰাখিবলৈ সেইটো বন্ধ কৰক নাইবা যিকোনো প্ৰকাৰে আপডেট কৰাটো বাছি লওক (আপুনি ইয়াক পুনৰাৰম্ভ নকৰালৈকে আনটো প্ৰতিলিপি সঠিকভাৱে কাম নকৰিবও পাৰে)।
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ঠিক আছে
     .buttonaccesskey = আ
@@ -79,7 +78,6 @@ appmenu-addon-post-install-message3 = এপ্লিকেশ্যন মে�
 appmenu-addon-post-install-incognito-checkbox =
     .label = এই এক্সটেনশ্যনক ব্যক্তিগত উইণ্ড'বোৰত চলাৰ অনুমতি দিয়ক
     .accesskey = A
-    
 appmenu-new-tab-controlled =
     .label = আপোনাৰ নতুন টেব সলনি হৈছে।
     .buttonlabel = সালসলনি ৰাখক
@@ -92,7 +90,6 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = এক্সটেনশ্যন নিষ্ক্ৰিয় কৰক
     .secondarybuttonaccesskey = D
-
 appmenu-new-tab-controlled-changes =
     .label = আপোনাৰ নতুন টেব সলনি হৈছে।
     .buttonlabel = সাল-সলনি ৰাখক
