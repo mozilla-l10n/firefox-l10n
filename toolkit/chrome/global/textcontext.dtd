@@ -14,7 +14,7 @@
 
 <!ENTITY searchTextBox.clear.label "Limpiar">
 
-<!ENTITY fillLoginMenu.label          "Llenar ingreso">
+<!ENTITY fillLoginMenu.label          "Llenar con inicio de sesión">
 <!ENTITY fillLoginMenu.accesskey      "L">
 <!ENTITY fillPasswordMenu.label       "Llenar contraseña">
 <!ENTITY fillPasswordMenu.accesskey   "L">
