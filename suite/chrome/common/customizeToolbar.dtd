@@ -4,7 +4,7 @@
 
 <!-- LOCALIZATION NOTE: Strings below used to be in mozilla-central's
   toolkit/locales/en-US/chrome/global/customizeToolbar.dtd -->
-<!ENTITY dialog.title             "Personalizar la Barra de herramientas">
+<!ENTITY dialog.title             "Personalizar barra de herramientas">
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "Puede agregar o quitar elementos arrastrándolos hacia o desde las barras de herramientas.">
 <!ENTITY show.label               "Mostrar:">
