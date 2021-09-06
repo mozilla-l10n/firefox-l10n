@@ -132,7 +132,7 @@
 <!ENTITY showMessagePaneCmd.accesskey "m">
 <!ENTITY showThreadPaneCmd.label "Vista de conversaciones">
 <!ENTITY showThreadPaneCmd.accesskey "t">
-<!ENTITY showFolderPaneCmd.label "Panel carpetas">
+<!ENTITY showFolderPaneCmd.label "Vista de carpetas">
 <!ENTITY showFolderPaneCmd.accesskey "P">
 <!-- LOCALIZATION NOTE (toggleFolderPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
@@ -482,7 +482,7 @@
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "p">
 <!ENTITY contextForward.label "Reenviar">
 <!ENTITY contextForward.accesskey "v">
-<!ENTITY contextForwardAsAttachment.label "Reenviar como adjunto">
+<!ENTITY contextForwardAsAttachment.label "Reenviar como adjuntos">
 <!ENTITY contextForwardAsAttachment.accesskey "o">
 <!ENTITY contextArchive.label "Archivar">
 <!ENTITY contextArchive.accesskey "A">
