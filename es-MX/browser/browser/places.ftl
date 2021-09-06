@@ -23,7 +23,6 @@ places-open-window =
 places-open-private-window =
     .label = Abrir en una nueva ventana privada
     .accesskey = p
-
 places-new-bookmark =
     .label = Nuevo marcador…
     .accesskey = N
@@ -36,14 +35,12 @@ places-new-folder =
 places-new-separator =
     .label = Nuevo separador
     .accesskey = v
-
 places-open-in-window =
     .label = Abrir en una ventana nueva
     .accesskey = v
 places-open-in-private-window =
     .label = Abrir en una nueva ventana privada
     .accesskey = p
-
 places-add-bookmark =
     .label = Agregar marcador...
     .accesskey = m
@@ -56,7 +53,6 @@ places-add-folder =
 places-add-separator =
     .label = Agregar separador
     .accesskey = s
-
 places-view =
     .label = Ver
     .accesskey = V
@@ -75,12 +71,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Por Fecha y Sitio
     .accesskey = t
-
 places-history-search =
     .placeholder = Buscar historial
 places-bookmarks-search =
     .placeholder = Buscar marcadores
-
 places-delete-domain-data =
     .label = Olvida a este Sitio
     .accesskey = O
@@ -90,7 +84,6 @@ places-sortby-name =
 places-properties =
     .label = Propiedades
     .accesskey = a
-
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Editar marcador...
@@ -109,18 +102,26 @@ places-remove-folder =
            *[other] Eliminar carpetas
         }
     .accesskey = m
-
+places-edit-folder2 =
+    .label = Editar carpeta…
+    .accesskey = i
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Eliminar carpeta
+            [one] Eliminar carpetas
+           *[other] Eliminar carpetas
+        }
+    .accesskey = E
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcadores administrados
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subcarpeta
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Otros marcadores
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -131,7 +132,16 @@ places-remove-bookmark =
            *[other] Eliminar marcadores
         }
     .accesskey = e
-
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Eliminar marcador
+            [one] Eliminar marcadores
+           *[other] Eliminar marcadores
+        }
+    .accesskey = E
 places-manage-bookmarks =
     .label = Administrar marcadores
     .accesskey = M
