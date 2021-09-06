@@ -29,7 +29,7 @@ about-config-pref-save-button =
 about-config-pref-reset-button =
     .title = Restablecer
 about-config-pref-delete-button =
-    .title = Eliminar
+    .title = Borrar
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
