@@ -156,7 +156,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editMailingListPropertiesButton.tooltip        "Editar la lista de correo seleccionada">
 <!ENTITY newmsgButton.tooltip                           "Enviar un mensaje de correo">
 <!ENTITY newIM.tooltip                                  "Enviar un mensaje o conversación instantáneos">
-<!ENTITY deleteButton2.tooltip                          "Borar el ítem seleccionado">
+<!ENTITY deleteButton2.tooltip                          "Borrar el ítem seleccionado">
 
 <!ENTITY removeButton.tooltip                           "Eliminar la libreta de direcciones seleccionada">
 
