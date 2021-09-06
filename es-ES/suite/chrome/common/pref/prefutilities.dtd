@@ -16,5 +16,6 @@
 <!ENTITY FallbackCharset.korean "Coreano">
 <!ENTITY FallbackCharset.thai "Tailandés">
 <!ENTITY FallbackCharset.turkish "Turco">
+<!ENTITY FallbackCharset.unicode "Unicode (UTF-8)">
 <!ENTITY FallbackCharset.vietnamese "Vietnamita">
 <!ENTITY FallbackCharset.other "Otro (incluyendo europeo occidental)">
