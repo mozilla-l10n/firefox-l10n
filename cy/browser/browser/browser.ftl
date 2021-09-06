@@ -565,6 +565,16 @@ urlbar-result-action-search-tabs = Chwilio'r Tabiau
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use title case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Awgrymiadau { $engine }
 
 ## Full Screen and Pointer Lock UI
 
@@ -751,6 +761,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Peidio dangos y neges pan mae llamlenni wedi eu rhwystro
     .accesskey = P
+edit-popup-settings =
+    .label = Rheoli gosodiadau llamlenni…
+    .accesskey = l
 picture-in-picture-hide-toggle =
     .label = Cuddio'r Togl Llun mewn Llun
     .accesskey = L

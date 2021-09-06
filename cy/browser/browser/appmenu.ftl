@@ -67,10 +67,6 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Mewngofnodi i Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Cychwyn Sync…
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Dangos Popeth
-    .tooltiptext = Dangos pob tab o'r ddyfais hon
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Dangos Rhagor o Dabiau
@@ -79,6 +75,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Dim tabiau agored
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Cychwynnwch gydweddu tabiau er mwyn gweld rhestr o dabiau o'ch dyfeisiau eraill.
+appmenu-remote-tabs-opensettings =
+    .label = Gosodiadau
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?
