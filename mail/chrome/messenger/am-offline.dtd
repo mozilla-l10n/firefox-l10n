@@ -30,7 +30,7 @@
 <!ENTITY retentionKeepRecent.accesskey "κ">
 <!ENTITY retentionApplyToFlagged.label "Διατήρηση μηνυμάτων με αστέρι">
 <!ENTITY retentionApplyToFlagged.accesskey "σ">
-<!ENTITY nntpRemoveMsgBody.label "Διαγραφή σώματος από μηνύματα μεγαλύτερα από">
+<!ENTITY nntpRemoveMsgBody.label "Διαγραφή σωμάτων από μηνύματα μεγαλύτερα των">
 <!ENTITY nntpRemoveMsgBody.accesskey "φ">
 <!ENTITY offlineSelectNntp.label "Επιλογή ομάδων συζήτησης για χρήση εκτός σύνδεσης…">
 <!ENTITY offlineSelectNntp.accesskey "λ">

@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label            "Βοηθός λογαριασμών συνομιλίας">
+<!ENTITY windowTitle.label            "Βοηθός λογαριασμών συνομιλιών">
 
 <!ENTITY accountProtocolTitle.label   "Δίκτυο συνομιλιών">
-<!ENTITY accountProtocolInfo.label    "Παρακαλώ επιλέξτε το δίκτυο του λογαριασμού συνομιλίας σας.">
+<!ENTITY accountProtocolInfo.label    "Παρακαλώ επιλέξτε το δίκτυο του λογαριασμού συνομιλιών σας.">
 <!ENTITY accountProtocolField.label   "Δίκτυο:">
 <!ENTITY accountProtocolGetMore.label "Περισσότερα…">
 
