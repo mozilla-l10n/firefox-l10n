@@ -5,22 +5,19 @@
 dock-options-window-dialog =
     .title = Programmasymboolopties
     .style = width: 35em;
-
+dock-options-show-badge =
+    .label = Badgepictogram tonen
+    .accesskey = B
 bounce-system-dock-icon =
     .label = Het programmasymbool laten bewegen als een nieuw bericht binnenkomt
     .accesskey = b
-
 dock-icon-legend = Programmasymboolbadge
-
 dock-icon-show-label =
     .value = Programmasymbool markeren met:
-
 count-unread-messages-radio =
     .label = Aantal ongelezen berichten
     .accesskey = o
-
 count-new-messages-radio =
     .label = Aantal nieuwe berichten
     .accesskey = n
-
 notification-settings-info = U kunt de badge uitschakelen via het paneel Berichtgeving in Systeemvoorkeuren.
