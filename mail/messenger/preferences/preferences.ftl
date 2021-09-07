@@ -343,8 +343,8 @@ choose-folder-label =
            *[other] γ
         }
 always-ask-label =
-    .label = Πάντα ερώτηση για την τοποθεσία αποθήκευσης
-    .accesskey = Π
+    .label = Να γίνεται πάντα ερώτηση για την τοποθεσία αποθήκευσης αρχείων
+    .accesskey = Ν
 display-tags-text = Οι ετικέτες μπορούν να χρησιμοποιηθούν για την ταξινόμηση και τον καθορισμό προτεραιότητας των μηνυμάτων σας.
 new-tag-button =
     .label = Νέα…
@@ -538,7 +538,7 @@ do-not-track-label =
     .accesskey = λ
 learn-button =
     .label = Μάθετε περισσότερα
-passwords-description = Το { -brand-short-name } μπορεί να απομνημονεύσει τους κωδικούς πρόσβασης όλων των λογαριασμών σας.
+passwords-description = Το { -brand-short-name } μπορεί να αποθηκεύει τους κωδικούς πρόσβασης όλων των λογαριασμών σας.
 passwords-button =
     .label = Αποθηκευμένοι κωδικοί πρόσβασης…
     .accesskey = θ
