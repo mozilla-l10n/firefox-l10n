@@ -67,10 +67,6 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Kirjaudu synkronoidaksesi…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ota synkronointi käyttöön…
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Näytä kaikki
-    .tooltiptext = Näytä kaikki välilehdet tältä laitteelta
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Näytä lisää välilehtiä
@@ -79,6 +75,8 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-notabs = Ei avoimia välilehtiä
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ota välilehtien synkronointi käyttöön, jotta voit katsella listaa muiden laitteidesi välilehdistä.
+appmenu-remote-tabs-opensettings =
+    .label = Asetukset
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Haluatko nähdä muiden laitteiden välilehdet tässä?
