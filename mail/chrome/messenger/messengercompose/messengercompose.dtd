@@ -218,7 +218,7 @@
 
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Αποστολή">
-<!ENTITY quoteButton.label "Σε παράθεση">
+<!ENTITY quoteButton.label "Παράθεση">
 <!ENTITY addressButton.label "Επαφές">
 <!ENTITY attachButton.label "Επισύναψη">
 <!ENTITY spellingButton.label "Ορθογραφία">
@@ -226,13 +226,13 @@
 <!ENTITY printButton.label "Εκτύπωση">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Άμεση αποστολή μηνύματος">
-<!ENTITY sendlaterButton.tooltip "Αποστολή του μηνύματος αργότερα">
+<!ENTITY sendButton.tooltip "Αποστολή μηνύματος τώρα">
+<!ENTITY sendlaterButton.tooltip "Αποστολή μηνύματος αργότερα">
 <!ENTITY quoteButton.tooltip "Παράθεση προηγούμενου μηνύματος">
-<!ENTITY addressButton.tooltip "Επιλογή παραλήπτη από το Ευρετήριο Διευθύνσεων">
+<!ENTITY addressButton.tooltip "Επιλογή παραλήπτη από ευρετήριο">
 <!ENTITY attachButton.tooltip2 "Προσθήκη ενός συνημμένου αρχείου">
 <!ENTITY spellingButton.tooltip "Ορθογραφικός έλεγχος επιλογής ή ολόκληρου μηνύματος">
-<!ENTITY saveButton.tooltip "Αποθήκευση μηνύματος">
+<!ENTITY saveButton.tooltip "Αποθήκευση του μηνύματος">
 <!ENTITY cutButton.tooltip              "Αποκοπή">
 <!ENTITY copyButton.tooltip             "Αντιγραφή">
 <!ENTITY pasteButton.tooltip            "Επικόλληση">
