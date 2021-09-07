@@ -17,7 +17,7 @@
 <!ENTITY catchAll.accesskey "π">
 <!ENTITY replyTo.label "Διεύθυνση απάντησης:">
 <!ENTITY replyTo.accesskey "σ">
-<!ENTITY replyTo.placeholder "Οι παραλήπτες θα απαντούν σε αυτή τη διεύθυνση">
+<!ENTITY replyTo.placeholder "Οι παραλήπτες θα απαντούν σε αυτήν τη διεύθυνση">
 <!ENTITY organization.label "Οργανισμός:">
 <!ENTITY organization.accesskey "Ο">
 <!ENTITY signatureText.label "Κείμενο υπογραφής:">
