@@ -113,7 +113,7 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Συγχαρητήρια!">
-<!ENTITY completionText.label "Βεβαιωθείτε ότι οι παρακάτω πληροφορίες είναι σωστές.">
+<!ENTITY completionText.label "Παρακαλώ βεβαιωθείτε ότι οι εξής πληροφορίες είναι σωστές.">
 <!ENTITY serverTypePrefix.label "Τύπος διακομιστή εισερχομένων:">
 <!ENTITY serverNamePrefix.label "Όνομα διακομιστή εισερχομένων:">
 <!ENTITY smtpServerNamePrefix.label "Όνομα διακομιστή εξερχόμενων (SMTP):">
@@ -121,7 +121,7 @@
 <!ENTITY downloadOnLogin.label "Λήψη μηνυμάτων τώρα">
 <!ENTITY downloadOnLogin.accesskey "ψ">
 <!ENTITY deferStorageDesc.label "Αποεπιλέξτε αυτό το κουτί για να αποθηκεύετε αλληλογραφία για αυτόν το λογαριασμό στο δικό του κατάλογο. Αυτό θα εμφανίζει αυτόν το λογαριασμό στο πρώτο επίπεδο. Σε άλλη περίπτωση, θα είναι μέρος των Τοπικών φακέλων του λογαριασμού Γενικών Εισερχομένων.">
-<!ENTITY deferStorage.label "Χρήση  Γενικών Εισερχομένων (αποθήκευση αλληλογραφίας στους Τοπικούς Φακέλους)">
-<!ENTITY deferStorage.accesskey "Γ">
+<!ENTITY deferStorage.label "Χρήση γενικών εισερχομένων (αποθήκευση email σε τοπικούς φακέλους)">
+<!ENTITY deferStorage.accesskey "γ">
 <!ENTITY clickFinish.label "Κάντε κλικ στο «Τέλος» για αποθήκευση των ρυθμίσεων και κλείσιμο του βοηθού λογαριασμών.">
 <!ENTITY clickFinish.labelMac "Κάντε κλικ στο «Τέλος» για αποθήκευση των ρυθμίσεων και κλείσιμο του βοηθού λογαριασμών.">
