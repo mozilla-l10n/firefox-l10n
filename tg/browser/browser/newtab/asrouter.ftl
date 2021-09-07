@@ -65,6 +65,7 @@ cfr-doorhanger-pintab-description = Ба сомонаҳои аз ҳама беш
 
 cfr-doorhanger-pintab-step1 = Варақаеро, ки мехоҳед васл кунед, <b>бо тугмаи рости муш зер намоед</b>.
 cfr-doorhanger-pintab-step2 = Аз меню <b>Васл кардани варақа</b>-ро интихоб намоед.
+cfr-doorhanger-pintab-step3 = Агар сомона навсозӣ дошта бошад, шумо дар варақаи пайвастшудаи худ нуқтаи кабудро мебинед.
 cfr-doorhanger-pintab-animation-pause = Таваққуф кардан
 cfr-doorhanger-pintab-animation-resume = Давом додан
 
