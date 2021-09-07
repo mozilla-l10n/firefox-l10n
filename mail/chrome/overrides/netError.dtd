@@ -89,7 +89,7 @@
 <!ENTITY netReset.title "Έγινε επαναφορά της σύνδεσης">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Υπέρβαση ορίου χρόνου της σύνδεσης">
+<!ENTITY netTimeout.title "Υπέρβαση ορίου χρόνου σύνδεσης">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Δεν έγινε κατανοητή η διεύθυνση">
@@ -108,7 +108,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title "Δεν ήταν δυνατή η εύρεση διακομιστή μεσολάβησης">
+<!ENTITY proxyResolveFailure.title "Αδυναμία εύρεσης διακομιστή μεσολάβησης">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Ελέγξτε τις ρυθμίσεις διακομιστή μεσολάβησης για να επιβεβαιώσετε ότι είναι σωστές.</li>
