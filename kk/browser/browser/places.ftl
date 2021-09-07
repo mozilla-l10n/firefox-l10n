@@ -104,6 +104,13 @@ places-remove-folder =
 places-edit-folder2 =
     .label = Буманы түзету…
     .accesskey = е
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Буманы өшіру
+           *[other] Бумаларды өшіру
+        }
+    .accesskey = ш
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Басқарылатын бетбелгілер
@@ -122,6 +129,15 @@ places-remove-bookmark =
            *[other] Бетбелгілерді өшіру
         }
     .accesskey = р
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Бетбелгіні өшіру
+           *[other] Бетбелгілерді өшіру
+        }
+    .accesskey = ш
 places-manage-bookmarks =
     .label = Бетбелгілерді басқару
     .accesskey = с
