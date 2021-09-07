@@ -22,7 +22,7 @@
 <!ENTITY otherUsersNamespace.accesskey "λ">
 <!ENTITY overrideNamespaces.label "Να επιτρέπεται στο διακομιστή η παράκαμψη αυτών των χώρων ονομάτων">
 <!ENTITY overrideNamespaces.accesskey "ρ">
-<!ENTITY pop3DeferringDesc.label "Κατά τη λήψη των μηνυμάτων από τον διακομιστή του λογαριασμού, να γίνεται χρήση του παρακάτω φακέλου για την αποθήκευση των νέων μηνυμάτων:">
+<!ENTITY pop3DeferringDesc.label "Κατά τη λήψη των μηνυμάτων από τον διακομιστή του λογαριασμού, να γίνεται χρήση του εξής φακέλου για την αποθήκευση των νέων μηνυμάτων:">
 <!ENTITY accountInbox.label "Εισερχόμενα για τον λογαριασμό">
 <!ENTITY accountInbox.accesskey "ε">
 <!ENTITY deferToServer.label "Εισερχόμενα για διαφορετικό λογαριασμό">
