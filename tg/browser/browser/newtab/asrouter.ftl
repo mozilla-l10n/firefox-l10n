@@ -227,3 +227,5 @@ cfr-doorhanger-video-support-primary-button = Ҳозир навсозӣ куне
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-link = Ҳоло не
+    .accesskey = Ҳ
