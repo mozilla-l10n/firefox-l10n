@@ -102,11 +102,11 @@ import-key-file = Εισαγωγή αρχείου κλειδιού OpenPGP
 import-key-personal-checkbox =
     .label = Αυτό το κλειδί να αντιμετωπίζεται ως Προσωπικό Κλειδί
 gnupg-file = Αρχεία GnuPG
-import-error-file-size = <b>Σφάλμα!</b> Αρχεία μεγαλύτερα των 5MB δεν υποστηρίζονται.
+import-error-file-size = <b>Σφάλμα!</b> Δεν υποστηρίζονται αρχεία άνω των 5MB.
 #   $error (String) - the reported error from the failed key import method
-import-error-failed = <b>Σφάλμα!</b> Αδύνατη η εισαγωγή του αρχείου. { $error }
+import-error-failed = <b>Σφάλμα!</b> Αποτυχία εισαγωγής αρχείου. { $error }
 #   $error (String) - the reported error from the failed key import method
-openpgp-import-keys-failed = <b>Σφάλμα!</b> Αδύνατη η εισαγωγή των κλειδιών. { $error }
+openpgp-import-keys-failed = <b>Σφάλμα!</b> Αποτυχία εισαγωγής κλειδιών. { $error }
 openpgp-import-identity-label = Ταυτότητα
 openpgp-import-fingerprint-label = Αποτύπωμα
 openpgp-import-created-label = Δημιουργήθηκε
@@ -118,8 +118,8 @@ openpgp-import-key-props =
 ## External Key section
 
 openpgp-external-key-title = Εξωτερικό κλειδί GnuPG
-openpgp-external-key-description = Διαμόρφωση ενό εξωτερικού κλειδιού GnuPG με εισαγωγή του αναγνωριστικού κλειδιού
-openpgp-external-key-info = Επιπλέον, πρέπει να χρησιμοποιήσετε τη Διαχείριση Κλειδιών για εισαγωγή και αποδοχή του αντίστοιχου Δημόσιου Κλειδιού.
+openpgp-external-key-description = Διαμόρφωση εξωτερικού κλειδιού GnuPG με εισαγωγή του ID κλειδιού
+openpgp-external-key-info = Επιπλέον, πρέπει να χρησιμοποιήσετε τη Διαχείριση κλειδιών για την εισαγωγή και αποδοχή του αντίστοιχου δημόσιου κλειδιού.
 openpgp-external-key-warning = <b>Μπορείτε να ρυθμίσετε μόνο ένα εξωτερικό κλειδί GnuPG.</b> Η προηγούμενή σας καταχώρηση θα αντικατασταθεί.
 openpgp-save-external-button = Αποθήκευση ID κλειδιού
 openpgp-external-key-label = ID μυστικού κλειδιού:
