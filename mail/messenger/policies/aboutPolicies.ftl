@@ -3,15 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Πολιτικές επιχειρήσεων
-
 # 'Active' is used to describe the policies that are currently active
-active-policies-tab = Ενεργό
+active-policies-tab = Ενεργές
 errors-tab = Σφάλματα
 documentation-tab = Τεκμηρίωση
-
-no-specified-policies-message = Η υπηρεσία Πολιτικές επιχειρήσεων είναι ενεργή, αλλά δεν υπάρχουν ενεργοποιημένες πολιτικές.
-inactive-message = Η υπηρεσία Πολιτικές επιχειρήσεων είναι ανενεργή.
-
+no-specified-policies-message = Η υπηρεσία «Πολιτικές επιχειρήσεων» είναι ενεργή, αλλά δεν υπάρχουν ενεργοποιημένες πολιτικές.
+inactive-message = Η υπηρεσία «Πολιτικές επιχειρήσεων» είναι ανενεργή.
 policy-name = Όνομα πολιτικής
 policy-value = Τιμή πολιτικής
 policy-errors = Σφάλματα πολιτικής
