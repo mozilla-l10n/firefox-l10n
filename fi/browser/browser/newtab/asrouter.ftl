@@ -13,35 +13,27 @@ cfr-doorhanger-pintab-heading = Kokeile tätä: Kiinnitä välilehti
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miksi näen tämän
-
 cfr-doorhanger-extension-cancel-button = Ei nyt
     .accesskey = E
-
 cfr-doorhanger-extension-ok-button = Lisää nyt
     .accesskey = L
 cfr-doorhanger-pintab-ok-button = Kiinnitä tämä välilehti
     .accesskey = ä
-
 cfr-doorhanger-extension-manage-settings-button = Hallitse suositteluasetuksia
     .accesskey = H
-
 cfr-doorhanger-extension-never-show-recommendation = Älä näytä tätä suositusta minulle
     .accesskey = n
-
 cfr-doorhanger-extension-learn-more-link = Lue lisää
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = tekijältä { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Suositus
 cfr-doorhanger-extension-notification2 = Suositus
     .tooltiptext = Laajennussuositus
     .a11y-announcement = Laajennussuositus saatavilla
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Suositus
@@ -67,7 +59,6 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } käyttäjä
        *[other] { $total } käyttäjää
     }
-
 cfr-doorhanger-pintab-description = Nopea pääsy suosikkisivustoillesi. Pidä sivustot avoinna välilehdissä jopa uudelleenkäynnistysten välillä.
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -75,10 +66,8 @@ cfr-doorhanger-pintab-description = Nopea pääsy suosikkisivustoillesi. Pidä s
 cfr-doorhanger-pintab-step1 = <b>Napsauta hiiren oikealla</b> välilehteä, jonka haluat kiinnittää.
 cfr-doorhanger-pintab-step2 = Valitse <b>Kiinnitä välilehti</b> valikosta.
 cfr-doorhanger-pintab-step3 = Jos sivustolla on tapahtunut päivitys, näet sinisen pisteen kiinnitetyssä välilehdessä.
-
 cfr-doorhanger-pintab-animation-pause = Tauko
 cfr-doorhanger-pintab-animation-resume = Jatka
-
 
 ## Firefox Accounts Message
 
@@ -100,26 +89,20 @@ cfr-protections-panel-link-text = Lue lisää
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Uusi ominaisuus:
-
 cfr-whatsnew-button =
     .label = Mitä uutta
     .tooltiptext = Mitä uutta
-
 cfr-whatsnew-panel-header = Mitä uutta
-
 cfr-whatsnew-release-notes-link-text = Lue julkaisutiedote
-
 cfr-whatsnew-fx70-title = { -brand-short-name } taistelee nyt entistä lujemmin yksityisyytesi puolesta
 cfr-whatsnew-fx70-body =
     Viimeisin päivitys parantaa seurannan suojausta ja tekee entistä
     helpommaksi luoda turvallisen salasanan jokaiselle sivustolle.
-
 cfr-whatsnew-tracking-protect-title = Suojaa itsesi seuraimilta
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } estää monet yleisimmistä sosiaalisen median ja sivustorajat
     ylittävistä seuraimista, jotka seuraavat tekemisiäsi verkossa.
 cfr-whatsnew-tracking-protect-link-text = Näytä raportti
-
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -130,11 +113,9 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } lähtien
 cfr-whatsnew-tracking-blocked-link-text = Näytä raportti
-
 cfr-whatsnew-lockwise-backup-title = Varmuuskopioi salasanasi
 cfr-whatsnew-lockwise-backup-body = Luo turvallisia salasanoja ja käytä niitä mistä hyvänsä kirjaudut sisään.
 cfr-whatsnew-lockwise-backup-link-text = Ota varmuuskopiot käyttöön
-
 cfr-whatsnew-lockwise-take-title = Ota salasanat mukaasi
 cfr-whatsnew-lockwise-take-body =
     { -lockwise-brand-short-name }-mobiilisovellus mahdollistaa salasanojesi
@@ -145,9 +126,6 @@ cfr-whatsnew-lockwise-take-link-text = Hanki sovellus
 
 cfr-whatsnew-searchbar-title = Kirjoita vähemmän, löydä enemmän osoitepalkilla
 cfr-whatsnew-searchbar-body-topsites = Nyt vain valitse osoitepalkki, niin se näyttää linkkejä ykkössivustoihin.
-
-## Search bar
-
 cfr-whatsnew-searchbar-icon-alt-text = Suurennuslasin kuvake
 
 ## Picture-in-Picture
@@ -173,7 +151,6 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Yksilöijiä estetty
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } estää monia yksilöijiä, jotka keräävät salaa tietoja laitteestasi ja toiminnastasi profiloidakseen sinua mainostustarkoituksiin.
-
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Yksilöijät
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } voi estää yksilöijiä, jotka keräävät salaa tietoja laitteestasi ja toiminnastasi profiloidakseen sinua mainostustarkoituksiin.
@@ -231,7 +208,6 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } on estänyt yli <b>{ $blockedCount }</b> seurainta { $date } lähtien!
     }
-
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (Datetime) - The date we began recording the count of blocked trackers
@@ -274,12 +250,8 @@ cfr-whatsnew-protections-icon-alt = Kilpikuvake
 
 cfr-whatsnew-better-pdf-header = Parempi PDF-kokemus
 cfr-whatsnew-better-pdf-body = PDF-tiedostot avautuvat nyt suoraan { -brand-short-name(case: "inessive") }, mikä saattaa helpottaa työskentelyäsi.
-
 cfr-doorhanger-milestone-close-button = Sulje
     .accesskey = S
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -299,21 +271,21 @@ cfr-doorhanger-fission-primary-button = Selvä
 cfr-doorhanger-fission-secondary-button = Lue lisää
     .accesskey = L
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videot tällä sivustolla eivät välttämättä toimi kunnolla tällä { -brand-short-name }in versiolla. Päivitä { -brand-short-name } nyt saadaksesi täyden videotuen.
 cfr-doorhanger-video-support-header = Päivitä { -brand-short-name } toistaaksesi videon
 cfr-doorhanger-video-support-primary-button = Päivitä nyt
     .accesskey = P
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
+spotlight-public-wifi-vpn-header = Vaikuttaa siltä, että käytät julkista Wi-Fi-yhteyttä
+spotlight-public-wifi-vpn-primary-button = Pysy yksityisenä { -mozilla-vpn-brand-name }:n avulla
+    .accesskey = S
+spotlight-public-wifi-vpn-link = Ei nyt
+    .accesskey = E
