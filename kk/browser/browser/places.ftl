@@ -101,6 +101,9 @@ places-remove-folder =
            *[other] Бумаларды өшіру
         }
     .accesskey = ш
+places-edit-folder2 =
+    .label = Буманы түзету…
+    .accesskey = е
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Басқарылатын бетбелгілер

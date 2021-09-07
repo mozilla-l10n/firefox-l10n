@@ -9,6 +9,9 @@
 ## user accepts.
 
 prompt-to-install-yes-button = Орнату
+prompt-to-install-no-button = Орнатпау
 
 ## Strings for a dialog that opens if the installation failed.
 
+install-failed-title = { -brand-short-name } орнатуы сәтсіз аяқталды.
+install-failed-message = { -brand-short-name } орнатуы сәтсіз аяқталды, бірақ ол жұмысын жалғастырады.
