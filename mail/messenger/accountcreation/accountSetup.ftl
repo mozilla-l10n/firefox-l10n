@@ -41,6 +41,10 @@ account-provisioner-button = Hanki uusi sähköpostiosoite
     .accesskey = H
 account-setup-password-toggle =
     .title = Näytä/piilota salasana
+account-setup-password-toggle-show =
+    .title = Näytä salasana selkokielisenä tekstinä
+account-setup-password-toggle-hide =
+    .title = Piilota salasana
 account-setup-remember-password = Muista salasana
     .accesskey = M
 account-setup-exchange-label = Kirjautumistietosi
@@ -197,6 +201,12 @@ insecure-dialog-confirm-button = Vahvista
 exchange-dialog-question = { -brand-short-name } löysi tilisi asetustiedot toimialueesta { $domain }. Haluatko jatkaa ja lähettää kirjautumistietosi?
 exchange-dialog-confirm-button = Kirjaudu
 exchange-dialog-cancel-button = Peruuta
+
+## Dismiss account creation dialog
+
+exit-dialog-title = Sähköpostitiliä ei ole määritetty
+account-setup-no-account-checkbox = Käytä { -brand-short-name }iä ilman sähköpostitiliä
+    .accesskey = ö
 
 ## Alert dialogs
 
