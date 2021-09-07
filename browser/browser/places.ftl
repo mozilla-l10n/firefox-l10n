@@ -125,3 +125,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Бетбелгілерді басқару
     .accesskey = с
+places-forget-about-this-site-forget = Ұмыту
