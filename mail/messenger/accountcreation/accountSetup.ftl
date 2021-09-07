@@ -216,6 +216,7 @@ exchange-dialog-cancel-button = Utzi
 ## Dismiss account creation dialog
 
 exit-dialog-title = Ez dago posta helbiderik konfiguratua
+exit-dialog-description = Ziur zaude konfigurazioa prozesua bertan behera utzi nahi duzula? { -brand-short-name } posta elektroniko helbide gabe erabili daiteke, baina hainbat eginbide ez dira eskuragarri egongo.
 account-setup-no-account-checkbox = Erabili { -brand-short-name } posta elektroniko kontu gabe
     .accesskey = E
 exit-dialog-cancel-button = Jarraitu konfigurazioa
