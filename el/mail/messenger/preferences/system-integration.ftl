@@ -11,13 +11,13 @@ system-integration-dialog =
 default-client-intro = Ορισμός του { -brand-short-name } ως προεπιλογής για:
 unset-default-tooltip = Δεν είναι δυνατή η αναίρεση ορισμού του { -brand-short-name } ως προεπιλεγμένου προγράμματος μέσα από το { -brand-short-name }. Για να ορίσετε άλλη εφαρμογή ως προεπιλογή, πρέπει να χρησιμοποιήσετε τον δικό της διάλογο «Ορισμός ως προεπιλογή».
 checkbox-email-label =
-    .label = Email
+    .label = Ηλεκτρονικό ταχυδρομείο
     .tooltiptext = { unset-default-tooltip }
 checkbox-newsgroups-label =
     .label = Ομάδες συζητήσεων
     .tooltiptext = { unset-default-tooltip }
 checkbox-feeds-label =
-    .label = Ροές
+    .label = Ροές ειδήσεων
     .tooltiptext = { unset-default-tooltip }
 checkbox-calendar-label =
     .label = Ημερολόγιο
@@ -26,7 +26,7 @@ checkbox-calendar-label =
 # Platforms that don't support it should be left blank.
 system-search-engine-name =
     { PLATFORM() ->
-        [macos] Spotlight
+        [macos] Αναζήτηση Spotlight
         [windows] Αναζήτηση των Windows
        *[other] { "" }
     }
@@ -34,5 +34,5 @@ system-search-integration-label =
     .label = Να επιτρέπεται στην { system-search-engine-name } η αναζήτηση μηνυμάτων
     .accesskey = ε
 check-on-startup-label =
-    .label = Να γίνεται πάντα έλεγχος κατά την εκκίνηση του { -brand-short-name }
-    .accesskey = π
+    .label = Εκτέλεση ελέγχου σε κάθε εκκίνηση του { -brand-short-name }
+    .accesskey = τ

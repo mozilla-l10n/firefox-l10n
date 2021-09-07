@@ -5,7 +5,7 @@
 <!ENTITY biffAll.label                 "Ενεργοποίηση ενημερώσεων για όλες τις ροές">
 <!ENTITY biffAll.accesskey             "Ε">
 
-<!ENTITY newFeedSettings.label         "Προεπιλεγμένες ρυθμίσεις για ροές ειδήσεων">
+<!ENTITY newFeedSettings.label         "Προεπιλεγμένες ρυθμίσεις ροών ειδήσεων">
 
 <!ENTITY manageSubscriptions.label     "Διαχείριση συνδρομών…">
 <!ENTITY manageSubscriptions.accesskey "Δ">
