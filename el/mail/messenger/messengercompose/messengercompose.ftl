@@ -6,10 +6,10 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = Αφαίρεση πεδίου "{ $type }"
+remove-address-row-type = Αφαίρεση πεδίου «{ $type }»
 #   $type (String) - the type of the addressing row
 remove-address-row-button =
-    .title = Αφαίρεση πεδίου "{ $type }"
+    .title = Αφαίρεση πεδίου «{ $type }»
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -33,7 +33,7 @@ pill-action-edit =
     .label = Επεξεργασία διεύθυνσης
     .accesskey = ε
 pill-action-move-to =
-    .label = Μετακίνηση στο Προς
+    .label = Μετακίνηση σε «Προς»
     .accesskey = τ
 pill-action-move-cc =
     .label = Μετακίνηση σε «Κοιν.»
@@ -103,20 +103,20 @@ drop-file-label-attachment =
     }
 drop-file-label-inline =
     { $count ->
-        [one] Προσθήκη ένθετα
-       *[other] Προσθήκη ένθετα
+        [one] Εισαγωγή εντός μηνύματος
+       *[other] Εισαγωγή εντός μηνύματος
     }
 
 # Reorder Attachment Panel
 
 move-attachment-first-panel-button =
-    .label = Μετακίνηση στο Πρώτο
+    .label = Μετακίνηση στην αρχή
 move-attachment-left-panel-button =
-    .label = Μετακίνηση Αριστερά
+    .label = Μετακίνηση αριστερά
 move-attachment-right-panel-button =
-    .label = Μετακίνηση Δεξιά
+    .label = Μετακίνηση δεξιά
 move-attachment-last-panel-button =
-    .label = Μετακίνηση στο Τελευταίο
+    .label = Μετακίνηση στο τέλος
 button-return-receipt =
     .label = Αποδεικτικό
     .tooltiptext = Απαίτηση αποδεικτικού προβολής για αυτό το μήνυμα
@@ -134,34 +134,34 @@ to-compose-address-row-label =
     .value = Προς
 #   $key (String) - the shortcut key for this field
 to-compose-show-address-row-menuitem =
-    .label = Πεδίο "{ to-compose-address-row-label.value }"
+    .label = Πεδίο «{ to-compose-address-row-label.value }»
     .accesskey = Π
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 to-compose-show-address-row-label =
     .value = { to-compose-address-row-label.value }
-    .tooltiptext = Εμφάνιση πεδίου "{ to-compose-address-row-label.value }" ({ to-compose-show-address-row-menuitem.acceltext })
+    .tooltiptext = Εμφάνιση πεδίου «{ to-compose-address-row-label.value }» ({ to-compose-show-address-row-menuitem.acceltext })
 cc-compose-address-row-label =
     .value = Κοιν.
 #   $key (String) - the shortcut key for this field
 cc-compose-show-address-row-menuitem =
-    .label = Πεδίο "{ cc-compose-address-row-label.value }"
+    .label = Πεδίο «{ cc-compose-address-row-label.value }»
     .accesskey = δ
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 cc-compose-show-address-row-label =
     .value = { cc-compose-address-row-label.value }
-    .tooltiptext = Εμφάνιση πεδίου "{ cc-compose-address-row-label.value }" ({ cc-compose-show-address-row-menuitem.acceltext })
+    .tooltiptext = Εμφάνιση πεδίου «{ cc-compose-address-row-label.value }» ({ cc-compose-show-address-row-menuitem.acceltext })
 bcc-compose-address-row-label =
     .value = Κρυφή κοιν.
 #   $key (String) - the shortcut key for this field
 bcc-compose-show-address-row-menuitem =
-    .label = Πεδίο "{ bcc-compose-address-row-label.value }"
+    .label = Πεδίο «{ bcc-compose-address-row-label.value }»
     .accesskey = ο
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 bcc-compose-show-address-row-label =
     .value = { bcc-compose-address-row-label.value }
-    .tooltiptext = Εμφάνιση πεδίου "{ bcc-compose-address-row-label.value }" ({ bcc-compose-show-address-row-menuitem.acceltext })
+    .tooltiptext = Εμφάνιση πεδίου «{ bcc-compose-address-row-label.value }» ({ bcc-compose-show-address-row-menuitem.acceltext })
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
-many-public-recipients-info = Οι { $count } παραλήπτες στα πεδία "Προς" και "Κοιν." θα βλέπουν τις διευθύνσεις των υπολοίπων. Μπορείτε να αποφύγετε την αποκάλυψη των παραληπτών με το πεδίο "Κρυφή κοιν.".
+many-public-recipients-info = Οι { $count } παραλήπτες στα πεδία «Προς» και «Κοιν.» θα βλέπουν τις διευθύνσεις των υπολοίπων. Μπορείτε να αποφύγετε την αποκάλυψη των παραληπτών με το πεδίο «Κρυφή κοιν.».
 to-address-row-label =
     .value = Προς
 #   $key (String) - the shortcut key for this field
@@ -196,7 +196,7 @@ bcc-address-row-label =
     .value = Κρυφή κοιν.
 #   $key (String) - the shortcut key for this field
 show-bcc-row-main-menuitem =
-    .label = Κρυφή κοιν.
+    .label = Πεδίο «Κρυφή κοιν.»
     .accesskey = ρ
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ $key }
 # No acceltext should be shown.
@@ -216,7 +216,7 @@ many-public-recipients-notice =
        *[other] Οι { $count } παραλήπτες στα πεδία «Προς» και «Κοιν.» θα βλέπουν τις διευθύνσεις των υπολοίπων. Μπορείτε να αποφύγετε την αποκάλυψη των παραληπτών με το πεδίο «Κρυφή κοιν.».
     }
 many-public-recipients-bcc =
-    .label = Χρήση "Κρυφή κοιν."
+    .label = Χρήση «Κρυφή κοιν.»
     .accesskey = Χ
 many-public-recipients-ignore =
     .label = Διατήρηση ορατών παραληπτών
@@ -228,7 +228,7 @@ many-public-recipients-prompt-msg =
         [one] Το μήνυμά σας έχει έναν δημόσιο παραλήπτη. Αυτό ίσως βλάψει το απόρρητό σας. Μπορείτε να το αποφύγετε αυτό μετακινώντας τον παραλήπτη από το πεδίο «Προς»/«Κοιν.» στο «Κρυφή κοιν.».
        *[other] Το μήνυμά σας έχει { $count } δημόσιους παραλήπτες, που θα μπορούν να δουν τις διευθύνσεις των υπολοίπων. Αυτό ίσως βλάψει το απόρρητό σας. Μπορείτε να αποφύγετε την αποκάλυψη των παραληπτών μετακινώντας τους από το το πεδίο «Προς»/«Κοιν.» στο «Κρυφή κοιν.».
     }
-many-public-recipients-prompt-cancel = &Ακύρωση αποστολής
+many-public-recipients-prompt-cancel = Ακύρωση αποστολής
 many-public-recipients-prompt-send = Αποστολή ούτως ή άλλως
 
 ## Notifications
@@ -236,7 +236,7 @@ many-public-recipients-prompt-send = Αποστολή ούτως ή άλλως
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
 compose-missing-identity-warning = Δεν βρέθηκε μοναδική ταυτότητα που να αντιστοιχεί στη διεύθυνση «Από». Το μήνυμα θα αποσταλεί με το τρέχον πεδίο «Από» και τις ρυθμίσεις της ταυτότητας «{ $identity }».
-encrypted-bcc-warning = Κατά την αποστολή ενός κρυπτογραφημένου μηνύματος, οι παραλήπτες στο πεδίο "Κρυφή Κοιν." δεν αποκρύπτονται πλήρως. Όλοι οι παραλήπτες ενδέχεται να μπορέσουν να τους αναγνωρίσουν.
+encrypted-bcc-warning = Κατά την αποστολή ενός κρυπτογραφημένου μηνύματος, οι παραλήπτες στο πεδίο «Κρυφή Κοιν.» δεν αποκρύπτονται πλήρως. Όλοι οι παραλήπτες ενδέχεται να μπορέσουν να τους αναγνωρίσουν.
 encrypted-bcc-ignore-button = Κατάλαβα
 
 ## Editing
