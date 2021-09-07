@@ -4,7 +4,7 @@
 
 <!ENTITY dialog.title             "Προσαρμογή γραμμής εργαλείων">
 <!ENTITY dialog.dimensions        "width: 100ch; height: 36em;">
-<!ENTITY instructions.description "Προσθέστε ή αφαιρέστε στοιχεία σύροντάς τα σε ή από γραμμές εργαλείων.">
+<!ENTITY instructions.description "Προσθέστε ή αφαιρέστε στοιχεία σύροντάς τα εντός ή εκτός των γραμμών εργαλείων.">
 <!ENTITY show.label               "Εμφάνιση:">
 <!ENTITY iconsAndText.label       "Εικονίδια και κείμενο">
 <!ENTITY icons.label              "Εικονίδια">

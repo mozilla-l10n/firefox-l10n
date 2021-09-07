@@ -126,7 +126,7 @@
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveNamedAnchors.label "Αφαίρεση αγκυρών με όνομα">
+<!ENTITY formatRemoveNamedAnchors.label "Αφαίρεση επώνυμων αγκυρών">
 <!ENTITY formatRemoveNamedAnchors.accesskey "ρ">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 

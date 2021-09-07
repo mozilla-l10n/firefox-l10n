@@ -20,7 +20,7 @@
 <!ENTITY altText.label "Εναλλακτικό κείμενο:">
 <!ENTITY altText.accessKey "Ε">
 <!ENTITY altTextEditField.tooltip "Πληκτρολογήστε το κείμενο που θα εμφανίζεται αντί της εικόνας">
-<!ENTITY noAltText.label "Να μην γίνεται χρήση εναλλακτικού κειμένου">
+<!ENTITY noAltText.label "Χωρίς χρήση εναλλακτικού κειμένου">
 <!ENTITY noAltText.accessKey "Ν">
 
 <!ENTITY previewBox.label "Προεπισκόπηση εικόνας">

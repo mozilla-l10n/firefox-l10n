@@ -39,7 +39,7 @@ pill-action-move-cc =
     .label = Μετακίνηση σε «Κοιν.»
     .accesskey = κ
 pill-action-move-bcc =
-    .label = Μετακίνηση σε "Κρυφή κοιν."
+    .label = Μετακίνηση σε «Κρυφή κοιν.»
     .accesskey = ν
 pill-action-expand-list =
     .label = Ανάπτυξη λίστας
@@ -235,7 +235,7 @@ many-public-recipients-prompt-send = Αποστολή ούτως ή άλλως
 
 # Variables:
 # $identity (string) - The name of the used identity, most likely an email address.
-compose-missing-identity-warning = Δεν βρέθηκε μοναδική ταυτότητα που να αντιστοιχεί στη διεύθυνση "Από". Το μήνυμα θα αποσταλεί με το τρέχον πεδίο "Από" και τις ρυθμίσεις της ταυτότητας "{ $identity }".
+compose-missing-identity-warning = Δεν βρέθηκε μοναδική ταυτότητα που να αντιστοιχεί στη διεύθυνση «Από». Το μήνυμα θα αποσταλεί με το τρέχον πεδίο «Από» και τις ρυθμίσεις της ταυτότητας «{ $identity }».
 encrypted-bcc-warning = Κατά την αποστολή ενός κρυπτογραφημένου μηνύματος, οι παραλήπτες στο πεδίο "Κρυφή Κοιν." δεν αποκρύπτονται πλήρως. Όλοι οι παραλήπτες ενδέχεται να μπορέσουν να τους αναγνωρίσουν.
 encrypted-bcc-ignore-button = Κατάλαβα
 
