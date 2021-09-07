@@ -9,7 +9,7 @@
 <!ENTITY importFromNonWin.label         "Εισαγωγή προτιμήσεων, ρυθμίσεων, ευρετηρίων, φίλτρων και άλλων δεδομένων από:">
 <!ENTITY importSourceNotFound.label     "Δεν βρέθηκε εφαρμογή από την οποία να μπορεί να γίνει εισαγωγή δεδομένων.">
 
-<!ENTITY importFromNothing.label        "Να μην εισαχθεί τίποτα">
+<!ENTITY importFromNothing.label        "Χωρίς εισαγωγή">
 <!ENTITY importFromNothing.accesskey    "τ">
 <!ENTITY importFromThunderbird.label     "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
