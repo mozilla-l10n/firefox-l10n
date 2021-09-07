@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-accounts-title = Λογαριασμοί ταχυδρομείου και ειδήσεων
+accounts-title = Λογαριασμοί ταχυδρομείου και συζητήσεων
 show-private-data-main-text = Συμπερίληψη ονομάτων λογαριασμών
 show-private-data-explanation-text = (πιθανή αναγνώριση πληροφοριών)
 accounts-ID = ID
@@ -14,7 +14,5 @@ accounts-conn-security = Ασφάλεια σύνδεσης
 accounts-auth-method = Μέθοδος ταυτοποίησης
 accounts-default = Προεπιλογή;
 identity-name = Ταυτότητα
-
 send-via-email = Αποστολή μέσω email
-
 app-basics-telemetry = Δεδομένα τηλεμετρίας

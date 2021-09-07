@@ -50,7 +50,7 @@
 <!ENTITY autodetect.label                "Αυτόματος εντοπισμός">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
-<!ENTITY noEncryption.label              "Κανένα">
+<!ENTITY noEncryption.label              "Καμία">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 

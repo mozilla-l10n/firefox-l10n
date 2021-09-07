@@ -88,19 +88,19 @@
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Ο υπάρχων διακομιστής εξερχομένων σας (SMTP), «">
-<!ENTITY haveSmtp1.suffix3 "&quot;,  θα χρησιμοποιηθεί.">
+<!ENTITY haveSmtp1.suffix3 "», θα χρησιμοποιηθεί.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Το υπάρχον όνομα χρήστη εξερχομένων σας (SMTP), «">
-<!ENTITY haveSmtp2.suffix3 "&quot;,  θα χρησιμοποιηθεί.">
+<!ENTITY haveSmtp2.suffix3 "», θα χρησιμοποιηθεί.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Ο διακομιστής εξερχομένων σας (SMTP), «">
-<!ENTITY haveSmtp3.suffix3 "Ο &quot;, είναι όμοιος με το διακομιστή εισερχομένων σας, το όνομα χρήστη εισερχομένων θα χρησιμοποιηθεί για την πρόσβαση σε αυτόν.">
+<!ENTITY haveSmtp3.suffix3 "», είναι ίδιο με τον διακομιστή εισερχομένων σας, θα χρησιμοποιηθεί το όνομα χρήστη εισερχομένων σας για την πρόσβαση.">
 
 <!-- Entities for Account name page -->
 
