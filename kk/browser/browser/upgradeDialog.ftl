@@ -8,6 +8,9 @@
 
 ## New changes screen
 
+# This title can be explicitly wrapped to control which words are on which line.
+upgrade-dialog-new-title = Жаңа { -brand-short-name } өніміне сәлем айтыңыз
+upgrade-dialog-new-subtitle = Сізді барғыңыз келетін жерге тезірек жеткізу үшін жасалған
 upgrade-dialog-new-item-tabs-title = Заманауи беттер
 upgrade-dialog-new-item-tabs-description = Фокусты және оңай навигацияны қолдайтын ақпараттың икемді көрінісі
 upgrade-dialog-new-item-icons-title = Жаңартылған таңбалашалар және айқын хабарламалар

@@ -54,6 +54,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Контейнерде қайтадан ашу
     .accesskey = а
+tab-context-open-in-new-container-tab =
+    .label = Жаңа контейнерлік бетте ашу
+    .accesskey = е
 move-to-start =
     .label = Басына жылжыту
     .accesskey = с
@@ -106,6 +109,13 @@ tab-context-close-tabs =
         { $tabCount ->
             [1] Бетті жабу
            *[other] Беттерді жабу
+        }
+    .accesskey = ж
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Бетті жабу
+           *[other] { $tabCount } бетті жабу
         }
     .accesskey = ж
 tab-context-move-tabs =

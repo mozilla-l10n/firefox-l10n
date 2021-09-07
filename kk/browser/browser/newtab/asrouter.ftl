@@ -280,5 +280,8 @@ cfr-doorhanger-video-support-primary-button = Қазір жаңарту
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = Жалпыға ортақ Wi-Fi қолданып жатқан сияқтысыз
+spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } көмегімен жекелікті сақтаңыз
+    .accesskey = с
 spotlight-public-wifi-vpn-link = Қазір емес
     .accesskey = м
