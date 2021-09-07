@@ -50,7 +50,7 @@ policy-EncryptedMediaExtensions = Ενεργοποίηση ή απενεργοπ
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Εγκατάσταση, απεγκατάσταση ή κλείδωμα επεκτάσεων. Η επιλογή εγκατάστασης λαμβάνει τα URLs ή τις διαδρομές ως παραμέτρους. Οι επιλογές απεγκατάστασης και κλειδώματος λαμβάνουν IDs επεκτάσεων.
-policy-ExtensionSettings = Διαχειριστείτε όλες τις πτυχές εγκατάστασης μιας επέκτασης.
+policy-ExtensionSettings = Διαχείριση όλων των πτυχών της εγκατάστασης μιας επέκτασης.
 policy-ExtensionUpdate = Ενεργοποίηση ή απενεργοποίηση αυτόματων ενημερώσεων επεκτάσεων.
 policy-Handlers = Ρύθμιση προκαθορισμένων χειριστών εφαρμογών.
 policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοποίηση επιτάχυνσης υλικού.
@@ -76,7 +76,7 @@ policy-PasswordManagerEnabled = Ενεργοποίηση αποθήκευσης 
 policy-PDFjs = Απενεργοποίηση ή ρύθμιση του PDF.js, του ενσωματωμένου προγράμματος προβολής PDF στο { -brand-short-name }.
 policy-Permissions2 = Ρύθμιση δικαιωμάτων για κάμερα, μικρόφωνο, τοποθεσία, ειδοποιήσεις και αυτόματη αναπαραγωγή.
 policy-Preferences = Ορισμός και κλείδωμα τιμής ενός υποσυνόλου προτιμήσεων.
-policy-PrimaryPassword = Να απαιτείται ή να μην επιτρέπεται η χρήση Κύριου Κωδικού.
+policy-PrimaryPassword = Απαίτηση ή αποτροπή χρήσης κύριου κωδικού πρόσβασης.
 policy-PromptForDownloadLocation = Ερώτηση για την τοποθεσία αποθήκευσης αρχείων κατά τη λήψη.
 policy-Proxy = Ρύθμιση παραμέτρων διακομιστή μεσολάβησης.
 policy-RequestedLocales = Ορισμός λίστας απαιτούμενων γλωσσών για την εφαρμογή σε σειρά προτίμησης.
@@ -84,10 +84,10 @@ policy-SanitizeOnShutdown2 = Απαλοιφή δεδομένων πλοήγησ�
 policy-SearchEngines = Διαμόρφωση ρυθμίσεων μηχανής αναζήτησης. Αυτή η πολιτική είναι διαθέσιμη μόνο στην έκδοση εκτεταμένης υποστήριξης (ESR).
 policy-SearchSuggestEnabled = Ενεργοποίηση ή απενεργοποίηση προτάσεων αναζήτησης.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
-policy-SecurityDevices = Εγκατάσταση λειτουργικών μονάδων PKCS #11.
+policy-SecurityDevices = Εγκατάσταση μονάδων PKCS #11.
 policy-SSLVersionMax = Ορισμός μέγιστης έκδοσης SSL.
 policy-SSLVersionMin = Ορισμός ελάχιστης έκδοσης SSL.
 policy-SupportMenu = Προσθήκη προσαρμοσμένου στοιχείου μενού υποστήριξης στο μενού βοήθειας.
-policy-UserMessaging = Να μην εμφανίζονται ορισμένα μηνύματα στο χρήστη.
+policy-UserMessaging = Απόκρυψη ορισμένων μηνυμάτων από τον χρήστη.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Αποκλεισμός επίσκεψης σε ιστοτόπους. Δείτε την τεκμηρίωση για περισσότερες λεπτομέρειες σχετικά με τη μορφή.
