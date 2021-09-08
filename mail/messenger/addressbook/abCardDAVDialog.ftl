@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = 继续
     .buttonaccesskeyaccept = C
 
-carddav-experimental-warning = 对 CardDAV 通讯录的支持是实验性的，可能会永久损坏您的数据。若要使用风险请自负。
-
-carddav-provider-label =
-    .value = CardDAV 提供商：
-    .accesskey = P
-
-carddav-provider-option-other = 其他提供商…
-
-carddav-url-label =
-    .value = CardDAV URL：
-    .accesskey = V
-
 carddav-username-label =
     .value = 用户名：
     .accesskey = U
-carddav-username-input =
-    .placeholder = you@example.com
-
-carddav-password-label =
-    .value = 密码：
-    .accesskey = w
-carddav-password-input =
-    .placeholder = 密码
-
-carddav-remember-password =
-    .label = 记住密码
-    .accesskey = m
 
 carddav-location-label =
     .value = 地址：

@@ -5,13 +5,6 @@
 close-button =
     .aria-label = 关闭
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] 选项
-           *[other] 首选项
-        }
-
 preferences-doc-title = 首选项
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = 放弃
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
 
-addons-button = 扩展和主题
-
 account-button = 账户设置
 open-addons-sidebar-button = 扩展和主题
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以创建主密码。这有助于保护您的账户安全。
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = 创建主密码
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以创建主密码。这有助于保护您的账户安全。
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = 自定义…
     .accesskey = C
-
-tray-icon-label =
-    .label = 显示托盘图标
-    .accesskey = t
 
 biff-use-system-alert =
     .label = 使用系统通知
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = 颜色:
     .accesskey = o
-
-search-input =
-    .placeholder = 搜索
 
 search-handler-table =
     .placeholder = 过滤内容类型和操作
@@ -721,16 +696,6 @@ passwords-button =
     .label = 已保存密码…
     .accesskey = S
 
-master-password-description = 设置主密码可以保护您所有的密码 - 但是您必须对每次会话输入一次主密码。
-
-master-password-label =
-    .label = 使用主密码
-    .accesskey = U
-
-master-password-button =
-    .label = 更换主密码…
-    .accesskey = C
-
 
 primary-password-description = 设置主密码可以保护您所有的密码 - 但是您必须对每次会话输入一次主密码。
 
@@ -913,26 +878,6 @@ no-preview-description = 此主题无效或目前不可用（原因例如：已�
 chat-variant-label =
     .value = 变体：
     .accesskey = V
-
-chat-header-label =
-    .label = 显示报头
-    .accesskey = H
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] 搜索选项
-           *[other] 搜索首选项
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

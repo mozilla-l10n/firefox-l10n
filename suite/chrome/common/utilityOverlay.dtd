@@ -141,9 +141,6 @@
 <!ENTITY openHelpCmd.accesskey            "H">
 <!ENTITY openHelpCmd.key                  "VK_F1">
 
-<!ENTITY helpForIEUsers.label               "致IE浏览器用户">
-<!ENTITY helpForIEUsers.accesskey           "I">
-
 <!ENTITY helpTroubleshootingInfo.label      "疑难排解信息">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 <!ENTITY releaseCmd.label                   "版本注释">

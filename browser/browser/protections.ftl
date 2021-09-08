@@ -97,9 +97,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = 工作原理
 
-turn-on-sync = 开启{ -sync-brand-short-name }…
-    .title = 前往“同步”首选项
-
 monitor-title = 帮您关心数据泄露事故
 monitor-link = 工作原理
 monitor-header-content-no-account = 到 { -monitor-brand-name } 检测您是否处于已知数据外泄事件之中，并在有新外泄事件时收到警报。

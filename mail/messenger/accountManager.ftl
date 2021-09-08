@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = { -brand-short-name } 首选项
 
 open-addons-sidebar-button = 扩展和主题
+

@@ -8,9 +8,6 @@
 newtab-page-title = 新标签页
 newtab-settings-button =
     .title = 定制您的新标签页
-newtab-personalize-button-label = 个性化
-    .title = 个性化标签页
-    .aria-label = 个性化标签页
 newtab-personalize-icon-label =
     .title = 个性化标签页
     .aria-label = 个性化标签页
@@ -23,7 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = 搜索
     .aria-label = 搜索
-newtab-search-box-search-the-web-text = 在网络上搜索
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = 使用 { $engine } 搜索，或者输入网址
@@ -38,10 +35,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = 搜索或输入网址
     .title = 搜索或输入网址
     .aria-label = 搜索或输入网址
+
 newtab-search-box-search-the-web-input =
     .placeholder = 在网络上搜索
     .title = 在网络上搜索
     .aria-label = 在网络上搜索
+
 newtab-search-box-text = 网上搜索
 newtab-search-box-input =
     .placeholder = 网上搜索
@@ -57,10 +56,12 @@ newtab-topsites-edit-shortcut-header = 编辑快捷方式
 newtab-topsites-title-label = 标题
 newtab-topsites-title-input =
     .placeholder = 输入标题
+
 newtab-topsites-url-label = 网址
 newtab-topsites-url-input =
     .placeholder = 输入或粘贴网址
 newtab-topsites-url-validation = 需要有效的网址
+
 newtab-topsites-image-url-label = 自定义图像网址
 newtab-topsites-use-image-link = 使用自定义图像…
 newtab-topsites-image-validation = 图像载入失败。请尝试其他网址。
@@ -89,10 +90,12 @@ newtab-topsite-sponsored = 赞助项目
 newtab-menu-section-tooltip =
     .title = 打开菜单
     .aria-label = 打开菜单
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = 移除
     .aria-label = 移除
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -161,10 +164,12 @@ newtab-label-removed-bookmark = 书签已移除
 newtab-label-recommended = 趋势
 newtab-label-saved = 已保存到 { -pocket-brand-name }
 newtab-label-download = 已下载
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · 赞助
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -203,6 +208,7 @@ newtab-section-header-pocket = { $provider } 推荐
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = 开始网上冲浪之旅吧，之后这里会显示您最近看过或加了书签的精彩文章、视频与其他页面。
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -247,10 +253,4 @@ newtab-custom-pocket-sponsored = 赞助内容
 newtab-custom-recent-title = 近期动态
 newtab-custom-recent-subtitle = 近期访问的网站与内容精选
 newtab-custom-close-button = 关闭
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = 只言片语
-newtab-custom-snippets-subtitle = 来自 { -vendor-short-name } 和 { -brand-product-name } 的使用窍门与快讯
 newtab-custom-settings = 管理更多设置

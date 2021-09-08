@@ -38,16 +38,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = 退出 { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = 退出 { -brand-shorter-name }
+
 menu-about =
     .label = 关于 { -brand-shorter-name }
     .accesskey = A
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = 编辑
     .accesskey = E
-menu-edit-find-on =
-    .label = 在此页面中查找…
-    .accesskey = F
 menu-edit-find-in-page =
     .label = 在页面中查找…
     .accesskey = F
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = 工具栏
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = 定制…
-    .accesskey = C
 menu-view-customize-toolbar2 =
     .label = 定制工具栏…
     .accesskey = C
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = 基本页面样式
     .accesskey = B
-menu-view-charset =
-    .label = 文字编码
-    .accesskey = c
 menu-view-repair-text-encoding =
     .label = 修复文字编码
     .accesskey = c
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = 重新打开所有窗口
 menu-bookmarks-menu =
     .label = 书签
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = 管理所有书签
-menu-bookmark-this-page =
-    .label = 为此页添加书签
 menu-bookmarks-manage =
     .label = 管理书签
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = 下载
     .accesskey = D
-menu-tools-addons =
-    .label = 附加组件
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = 登录到 { -brand-product-name }…
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = 开启{ -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-addons-and-themes =
     .label = 扩展和主题
     .accesskey = A
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = 重新连接 { -brand-product-name }…
     .accesskey = R
-menu-tools-web-developer =
-    .label = Web 开发者
-    .accesskey = W
 menu-tools-browser-tools =
     .label = 浏览器工具
     .accesskey = B
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = 页面信息
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] 选项
-           *[other] 首选项
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-settings =
     .label = 设置
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = 帮助
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } 帮助
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } 导览
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = 从其他浏览器导入…
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = 键盘快捷键
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = 故障排除信息
-    .accesskey = T
 menu-get-help =
     .label = 获取帮助
     .accesskey = H
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = 提交反馈…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = 以安全模式重启浏览器…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = 重启浏览器并启用附加组件
-    .accesskey = R
 menu-help-enter-troubleshoot-mode2 =
     .label = 排障模式…
     .accesskey = M

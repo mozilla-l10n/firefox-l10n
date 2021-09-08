@@ -13,7 +13,6 @@
 <!ENTITY subscribeFeeds.label         "管理订阅">
 
 <!ENTITY chat.label                   "聊天">
-<!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "账户">
 <!ENTITY subscribeImapFolders.label   "管理文件夹订阅">

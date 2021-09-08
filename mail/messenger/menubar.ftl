@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = 文字编码
-    .accesskey = c
-
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -73,3 +69,6 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = 触控
     .accesskey = T
+
+## File
+

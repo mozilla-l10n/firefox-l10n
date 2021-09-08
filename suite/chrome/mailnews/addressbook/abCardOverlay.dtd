@@ -142,7 +142,6 @@
 
 <!ENTITY Photo.tab                      "照片">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "从下面的挑选一个：">
 <!ENTITY GenericPhoto.label             "一般照片">
 <!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY DefaultPhoto.label             "默认值">
