@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "ო">
 <!ENTITY deleteCmd.label          "წაშლა">
 <!ENTITY deleteCmd.accesskey        "წ">
-<!ENTITY preferencesCmd2.label "პარამეტრები">
-<!ENTITY preferencesCmd2.accesskey "პ">
-<!ENTITY preferencesCmdUnix.label       "პარამეტრები">
-<!ENTITY preferencesCmdUnix.accesskey     "რ">
 
 <!ENTITY customizeCmd.label "მორგება">
 <!ENTITY customizeCmd.accesskey "რ">

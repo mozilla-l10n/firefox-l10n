@@ -38,16 +38,20 @@ menu-quit =
             [windows] ლ
            *[other] გ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = დაიხუროს { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = დატოვეთ { -brand-shorter-name }
+
 menu-about =
     .label = { -brand-shorter-name } შესახებ
     .accesskey = შ
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = ჩასწორება
     .accesskey = რ
-menu-edit-find-on =
-    .label = პოვნა გვერდზე…
-    .accesskey = პ
 menu-edit-find-in-page =
     .label = პოვნა გვერდზე…
     .accesskey = პ
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = ხელსაწყოთა ზოლები
     .accesskey = ხ
-menu-view-customize-toolbar =
-    .label = მორგება…
-    .accesskey = მ
 menu-view-customize-toolbar2 =
     .label = ხელსაწყოთა ზოლის მორგება…
     .accesskey = რ
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = გვერდის ძირითადი სტილი
     .accesskey = ძ
-menu-view-charset =
-    .label = ტექსტის კოდირება
-    .accesskey = კ
 menu-view-repair-text-encoding =
     .label = ტექსტის კოდირების გასწორება
     .accesskey = კ
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = ყველა ფანჯრის ხე�
 menu-bookmarks-menu =
     .label = სანიშნები
     .accesskey = ს
-menu-bookmarks-show-all =
-    .label = ყველა სანიშნის ჩვენება
-menu-bookmark-this-page =
-    .label = გვერდის ჩანიშვნა
 menu-bookmarks-manage =
     .label = სანიშნების მართვა
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = ჩამოტვირთვები
     .accesskey = ჩ
-menu-tools-addons =
-    .label = დამატებები
-    .accesskey = დ
-menu-tools-fxa-sign-in =
-    .label = { -brand-product-name } – შესვლა...
-    .accesskey = ვ
-menu-tools-turn-on-sync =
-    .label = ჩართეთ { -sync-brand-short-name }...
-    .accesskey = ჩ
 menu-tools-addons-and-themes =
     .label = დამატებები და თემები
     .accesskey = დ
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name } – ხელახლა დაკავშირება...
     .accesskey = ლ
-menu-tools-web-developer =
-    .label = ვებშემუშავება
-    .accesskey = ვ
 menu-tools-browser-tools =
     .label = ბრაუზერის ხელსაწყოები
     .accesskey = ბ
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = გვერდის მონაცემები
     .accesskey = ი
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] პარამეტრები
-           *[other] პარამეტრები
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] პ
-           *[other] ტ
-        }
 menu-settings =
     .label = პარამეტრები
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = დახმარება
     .accesskey = დ
-menu-help-product =
-    .label = { -brand-shorter-name } დახმარება
-    .accesskey = დ
-menu-help-show-tour =
-    .label = { -brand-shorter-name } გზამკვლევი
-    .accesskey = ზ
-menu-help-import-from-another-browser =
-    .label = გადმოტანა სხვა ბრაუზერიდან…
-    .accesskey = ტ
-menu-help-keyboard-shortcuts =
-    .label = კლავიატურის მალსახმობები
-    .accesskey = კ
-menu-help-troubleshooting-info =
-    .label = ხარვეზის აღმოფხვრის მონაცემები
-    .accesskey = ფ
 menu-get-help =
     .label = მხარდაჭერის მიღება
     .accesskey = ხ
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = გამოგვეხმაურეთ…
     .accesskey = უ
-menu-help-safe-mode-without-addons =
-    .label = გამორთული დამატებებით გაშვება...
-    .accesskey = გ
-menu-help-safe-mode-with-addons =
-    .label = ჩართული დამატებებით გაშვება
-    .accesskey = ჩ
 menu-help-enter-troubleshoot-mode2 =
     .label = ხარვეზის აღმოფხვრის რეჟიმი…
     .accesskey = ხ

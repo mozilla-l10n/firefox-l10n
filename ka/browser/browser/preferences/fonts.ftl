@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = ტექსტის კოდირება მოძველებული შიგთავსითვის
-fonts-languages-fallback-desc = ეს კოდირება გამოიყენება მოძველებული შიგთავსისთვის, რომელიც თავის კოდირებას ვერ უთითებს.
-
-fonts-languages-fallback-label = ტექსტის სათადარიგო კოდირება
-    .accesskey = თ
-
-fonts-languages-fallback-name-auto =
-    .label = არჩეული ენისთვის ნაგულისხმევი
-fonts-languages-fallback-name-arabic =
-    .label = არაბული
-fonts-languages-fallback-name-baltic =
-    .label = ბალტიისპირული
-fonts-languages-fallback-name-ceiso =
-    .label = ცენტრალურ ევროპული, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = ცენტრალურ ევროპული, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = ჩინური, გამარტივებული
-fonts-languages-fallback-name-traditional =
-    .label = ჩინური, ტრადიციული
-fonts-languages-fallback-name-cyrillic =
-    .label = კირილიცა
-fonts-languages-fallback-name-greek =
-    .label = ბერძნული
-fonts-languages-fallback-name-hebrew =
-    .label = ებრაული
-fonts-languages-fallback-name-japanese =
-    .label = იაპონური
-fonts-languages-fallback-name-korean =
-    .label = კორეული
-fonts-languages-fallback-name-thai =
-    .label = ტაილანდური
-fonts-languages-fallback-name-turkish =
-    .label = თურქული
-fonts-languages-fallback-name-vietnamese =
-    .label = ვიეტნამური
-fonts-languages-fallback-name-other =
-    .label = სხვა (მათ შორის დასავლეთ ევროპული)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

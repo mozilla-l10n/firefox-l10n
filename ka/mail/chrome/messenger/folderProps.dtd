@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "პარამეტრები">
 
 <!ENTITY generalInfo.label                       "ზოგადი ინფორმაცია">
-<!ENTITY folderCharsetFallback2.label            "ტექსტის სათადარიგო კოდირება:">
-<!ENTITY folderCharsetFallback2.accesskey        "თ">
-<!ENTITY folderCharsetEnforce2.label             "კოდირების მითითება, საქაღალდეში არსებული ყველა შეტყობინებისთვის (თითეული შეტყობინების ტექსტის კოდირების პარამეტრები და თვითდადგენა, უგულებელყოფილი იქნება)">
-<!ENTITY folderCharsetEnforce2.accesskey         "მ">
 <!ENTITY folderRebuildSummaryFileTip2.label      "შეჯამების ფაილის ხელახლა ინდექსაცია">
 <!ENTITY folderRebuildSummaryFile2.label         "საქაღალდის აღდგენა">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">

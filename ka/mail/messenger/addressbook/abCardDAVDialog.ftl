@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = განაგრძეთ
     .buttonaccesskeyaccept = გ
 
-carddav-experimental-warning = CardDAV წიგნაკის მხარდაჭერა საცდელია და შეიძლება სამუდამოდ გააფუჭოს თქვენი მონაცემები. გამოიყენეთ საკუთარი პასუხისმგებლობით ზიანზე.
-
-carddav-provider-label =
-    .value = CardDAV მომწოდებელი:
-    .accesskey = წ
-
-carddav-provider-option-other = სხვა მომწოდებელი…
-
-carddav-url-label =
-    .value = CardDAV URL:
-    .accesskey = V
-
 carddav-username-label =
     .value = მომხმარებელი:
     .accesskey = ხ
-carddav-username-input =
-    .placeholder = tqven@example.com
-
-carddav-password-label =
-    .value = პაროლი:
-    .accesskey = რ
-carddav-password-input =
-    .placeholder = პაროლი
-
-carddav-remember-password =
-    .label = პაროლის დამახსოვრება
-    .accesskey = დ
 
 carddav-location-label =
     .value = მდებარეობა:

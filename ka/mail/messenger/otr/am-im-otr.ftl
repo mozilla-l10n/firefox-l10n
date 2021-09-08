@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR-პარამეტრები
 otr-log =
     .label = OTR-დაშიფვრის მქონე წერილის ჩართვა საუბრის ჩანაწერებში
-otr-requireEncryption =
-    .label = საჭიროა გამჭოლი დაშიფვრა ერთი-ერთზე საუბრებისთვის
-otr-verifyNudge =
-    .label = დამოწმების შეხსენება ყოველთვის, დაუმოწმებელი პირების შემთხვევაში.
-
-otr-notYetAvailable = ჯერ არაა ხელმისაწვდომი
 
 otr-require-encryption =
     .label = საჭიროა გამჭოლი დაშიფვრა ერთი-ერთზე საუბრებისთვის

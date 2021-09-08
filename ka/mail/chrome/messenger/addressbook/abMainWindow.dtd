@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "დახურვა">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "ხ">
-<!ENTITY printSetupCmd.label                            "გვერდის გამართვა…">
-<!ENTITY printSetupCmd.accesskey                        "მ">
-<!ENTITY printPreviewContactCmd.label                   "პირის მონაცემების შეთვალიერება ამობეჭდვამდე">
-<!ENTITY printPreviewContactCmd.accesskey               "ჭ">
-<!ENTITY printPreviewAddressBook.label                  "წიგნაკის შეთვალიერება ამობეჭდვამდე">
-<!ENTITY printPreviewAddressBook.accesskey              "გ">
 <!ENTITY printContactCmd.label                          "პირის მონაცემების ამობეჭდვა…">
 <!ENTITY printContactCmd.accesskey                      "კ">
 <!ENTITY printContactCmd.key                            "P">
@@ -108,10 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "გ">
 <!ENTITY exportCmd.label                                "გატანა…">
 <!ENTITY exportCmd.accesskey                            "ტ">
-<!ENTITY preferencesCmd2.label                          "პარამეტრები">
-<!ENTITY preferencesCmd2.accesskey                      "მ">
-<!ENTITY preferencesCmdUnix.label                       "პარამეტრები">
-<!ENTITY preferencesCmdUnix.accesskey                   "პ">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "ახალი პირი">

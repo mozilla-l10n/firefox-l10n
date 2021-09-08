@@ -5,11 +5,6 @@
 containers-window-new =
     .title = ახალი სათავსის დამატება
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } სათავსის პარამეტრები
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = ხატულა
 containers-color-label = ფერი
     .accesskey = ფ
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = მზადაა
-    .accesskey = მ
 
 containers-dialog =
     .buttonlabelaccept = მზადაა

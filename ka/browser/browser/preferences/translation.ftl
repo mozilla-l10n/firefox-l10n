@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = ყველა საიტის მოცილება
     .accesskey = ყ
 
-translation-button-close =
-    .label = დახურვა
-    .accesskey = დ
-
 translation-dialog =
     .buttonlabelaccept = დახურვა
     .buttonaccesskeyaccept = დ

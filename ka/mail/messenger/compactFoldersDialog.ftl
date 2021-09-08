@@ -5,6 +5,7 @@
 compact-dialog-window =
     .title = შეკუმშული საქაღალდეები
     .style = width: 50em;
+
 compact-dialog =
     .buttonlabelaccept = შეკუმშვა ახლავე
     .buttonaccesskeyaccept = ხ
@@ -12,9 +13,12 @@ compact-dialog =
     .buttonaccesskeycancel = ო
     .buttonlabelextra1 = ვრცლად…
     .buttonaccesskeyextra1 = ც
+
 # Variables:
 #  $data (String): The amount of space to be freed, formatted byte, MB, GB, etc., based on the size.
 compact-dialog-message = { -brand-short-name } საჭიროებს დროდადრო მოწესრიგებას, ფოსტის საქაღალდეების წარმადობისთვის. შედეგად, { $data } ადგილი დისკზე გამოთავისუფლდება წერილების ხელშეუხებლად. თუ გსურთ, { -brand-short-name } თავად უზრუნველყოფდეს ამას მომავალში შეკითხვის გარეშე, მონიშნეთ ქვემოთ უჯრა და შემდეგ აირჩიეთ „{ compact-dialog.buttonlabelaccept }“.
+
 compact-dialog-never-ask-checkbox =
     .label = საქაღალდეების თვითშეკუმშვა მომავალში
     .accesskey = უ
+

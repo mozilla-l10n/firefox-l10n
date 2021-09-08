@@ -4,6 +4,9 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
+
 # Description of the import module
 thunderbird-import-description = წერილების გადმოტანა Thunderbird-ის პროფილის საქაღალდიდან
+
 import-select-profile-zip = აირჩიეთ zip-ფაილად შენახული პროფილის საქაღალდე
+

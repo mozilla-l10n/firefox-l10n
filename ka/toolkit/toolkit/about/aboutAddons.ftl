@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = დამატებების მმართველი
-
 addons-page-title = დამატებების მმართველი
 
 search-header =
@@ -35,18 +32,6 @@ help-button = დამატებების მხარდაჭერა
 sidebar-help-button-title =
     .title = დამატებების მხარდაჭერა
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } პარამეტრები
-       *[other] { -brand-short-name } პარამეტრები
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } პარამეტრები
-           *[other] { -brand-short-name } პარამეტრები
-        }
-
 addons-settings-button = { -brand-short-name } – პარამეტრები
 sidebar-settings-button-title =
     .title = { -brand-short-name } – პარამეტრები
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = ყველა გაფართოების ჩვენება
-
-cmd-show-details =
-    .label = დამატებითი ინფორმაციის ჩვენება
-    .accesskey = მ
-
-cmd-find-updates =
-    .label = განახლებების პოვნა
-    .accesskey = პ
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] პარამეტრები
-           *[other] მითითებები
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] პ
-           *[other] თ
-        }
-
-cmd-enable-theme =
-    .label = თემის მორგება
-    .accesskey = გ
-
-cmd-disable-theme =
-    .label = თემის მორგების შეჩერება
-    .accesskey = გ
-
-cmd-install-addon =
-    .label = ჩადგმა
-    .accesskey = ი
-
-cmd-contribute =
-    .label = შემოწირულობა
-    .accesskey = წ
-    .tooltiptext = შეიტანეთ წვლილი ამ დამატების შემუშავებაში
 
 detail-version =
     .label = ვერსია
@@ -401,8 +349,6 @@ dictionary-disabled-heading = ამორთულია
 
 locale-enabled-heading = ჩართულია
 locale-disabled-heading = ამორთულია
-
-ask-to-activate-button = ნებართვა გასაშვებად
 
 always-activate-button = ყოველთვის გაეშვას
 never-activate-button = არასდროს გაეშვას
