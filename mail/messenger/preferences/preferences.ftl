@@ -5,13 +5,6 @@
 close-button =
     .aria-label = סגירה
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] אפשרויות
-           *[other] העדפות
-        }
-
 pane-compose-title = חיבור הודעה
 category-compose =
     .tooltiptext = חיבור הודעה
@@ -72,10 +65,6 @@ animated-alert-label =
 customize-alert-label =
     .label = התאמה אישית…
     .accesskey = ה
-
-tray-icon-label =
-    .label = הצגת סמל במגש המערכת
-    .accesskey = ג
 
 mail-custom-sound-label =
     .label = השתמש בקובץ צליל הבא
@@ -258,9 +247,6 @@ smaller-size-item =
 quoted-text-color =
     .label = צבע:
     .accesskey = ב
-
-search-input =
-    .placeholder = חיפוש
 
 type-column-label =
     .label = סיווג תוכן
@@ -522,16 +508,6 @@ passwords-button =
     .label = ססמאות שמורות…
     .accesskey = מ
 
-master-password-description = כאשר נקבעה, הססמה הראשית מגינה על כל ססמאותיך - אולם תצטרך להקליד אותה פעם אחת בכל הפעלה.
-
-master-password-label =
-    .label = השתמש בססמה ראשית
-    .accesskey = ר
-
-master-password-button =
-    .label = שינוי ססמה ראשית…
-    .accesskey = ש
-
 
 junk-description = קבע את הגדרות ברירת המחדל שלך לדואר זבל. הגדרות דואר זבל יחודיות לכל חשבון ניתנות להגדרה בהגדרות החשבון.
 
@@ -685,10 +661,6 @@ no-preview-label = אין תצוגה מקדימה זמינה
 chat-variant-label =
     .value = הגוון:
     .accesskey = ג
-
-chat-header-label =
-    .label = הצגת כותרת
-    .accesskey = כ
 
 ## Preferences UI Search Results
 

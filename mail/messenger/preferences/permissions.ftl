@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = חריגות
     .style = width: 36em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = כתובת אתר:
     .accesskey = d

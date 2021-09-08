@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = מנהל התוספות
-
 addons-page-title = מנהל התוספות
 
 search-header =
@@ -35,18 +32,6 @@ help-button = תמיכה בתוספות
 sidebar-help-button-title =
     .title = תמיכה בתוספות
 
-preferences =
-    { PLATFORM() ->
-        [windows] אפשרויות של { -brand-short-name }
-       *[other] העדפות של { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] אפשרויות של { -brand-short-name }
-           *[other] העדפות של { -brand-short-name }
-        }
-
 addons-settings-button = הגדרות של { -brand-short-name }
 sidebar-settings-button-title =
     .title = הגדרות של { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = הצגת כל ההרחבות
-
-cmd-show-details =
-    .label = הצגת מידע נוסף
-    .accesskey = ה
-
-cmd-find-updates =
-    .label = בדיקת עדכונים
-    .accesskey = מ
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] אפשרויות
-           *[other] העדפות
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] א
-           *[other] ה
-        }
-
-cmd-enable-theme =
-    .label = לבש ערכת נושא
-    .accesskey = ל
-
-cmd-disable-theme =
-    .label = הפסק ללבוש ערכת נושא
-    .accesskey = ה
-
-cmd-install-addon =
-    .label = התקנה
-    .accesskey = ה
-
-cmd-contribute =
-    .label = תרומה
-    .accesskey = ת
-    .tooltiptext = מתן תרומה לפיתוח תוספת זו
 
 detail-version =
     .label = גרסה
@@ -376,8 +324,6 @@ preferences-addon-button =
 details-addon-button = פרטים
 release-notes-addon-button = הערות שחרור
 permissions-addon-button = הרשאות
-
-ask-to-activate-button = בקשת אישור להפעלה
 
 always-activate-button = הפעלה תמיד
 never-activate-button = לא להפעיל לעולם

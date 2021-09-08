@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = בחירת כל הלשוניות
     .accesskey = ב
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] ביטול סגירת לשונית
-            [one] ביטול סגירת לשונית
-           *[other] ביטול סגירת לשוניות
-        }
-    .accesskey = י
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -57,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = הצמדה לתפריט הצף
     .accesskey = צ
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = הסתרה אוטומטית בסרגל הכלים
-    .accesskey = א
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = הסתרת הכפתור כשהרשימה ריקה
     .accesskey = כ

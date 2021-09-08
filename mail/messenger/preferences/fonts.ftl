@@ -90,10 +90,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = סאן־סריף
 
-font-size-label =
-    .value = גודל:
-    .accesskey = ח
-
 font-size-monospace-label =
     .value = גודל:
     .accesskey = ק

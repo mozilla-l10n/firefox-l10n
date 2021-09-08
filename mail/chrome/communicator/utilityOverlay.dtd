@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "צ">
 <!ENTITY deleteCmd.label          "מחק">
 <!ENTITY deleteCmd.accesskey        "ח">
-<!ENTITY preferencesCmd2.label "אפשרויות">
-<!ENTITY preferencesCmd2.accesskey "ע">
-<!ENTITY preferencesCmdUnix.label       "העדפות">
-<!ENTITY preferencesCmdUnix.accesskey     "ע">
 
 <!ENTITY viewMenu.label          "תצוגה">
 <!ENTITY viewMenu.accesskey        "ת">

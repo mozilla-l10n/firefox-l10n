@@ -149,8 +149,6 @@ about-webrtc-aec-logging-off-state-msg = captured log files can be found in: { $
 
 ##
 
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
@@ -165,6 +163,8 @@ about-webrtc-trickle-caption-msg = מועמדים שהסתננו (הגיעו ל�
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+
+##
 
 ##
 

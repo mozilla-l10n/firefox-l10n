@@ -83,10 +83,6 @@
 <!ENTITY printCmd.label "הדפסה…">
 <!ENTITY printCmd.accesskey "ד">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "תצוגה לפני הדפסה">
-<!ENTITY printPreviewCmd.accesskey "נ">
-<!ENTITY printSetupCmd.label "הגדרת עמוד…">
-<!ENTITY printSetupCmd.accesskey "ה">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "מחק הודעה">
@@ -166,8 +162,6 @@
 <!ENTITY recentFolders.accesskey "א">
 <!ENTITY compactVersion.label "תצוגה חסכונית">
 <!ENTITY compactVersion.accesskey "ח">
-<!ENTITY folderPaneBar.label "סרגל כלים של חלונית תיקיות">
-<!ENTITY folderPaneBar.accesskey "ס">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "סדר לפי">
@@ -450,12 +444,6 @@
 <!ENTITY addressBookCmd.label "ספר כתובות">
 <!ENTITY addressBookCmd.accesskey "כ">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "תוספות">
-<!ENTITY addons.accesskey "ת">
-<!ENTITY addonPrefs.label "אפשרויות תוספות">
-<!ENTITY addonPrefs.accesskey "ת">
-<!ENTITY addonPrefsUnix.label "העדפות תוספת">
-<!ENTITY addonPrefsUnix.accesskey "ע">
 <!ENTITY addonNoPrefs.label "לא נמצאו הגדרות לתוסף.">
 <!ENTITY activitymanager.label "מנהל פעילויות">
 <!ENTITY activitymanager.accesskey "פ">
@@ -523,15 +511,11 @@
 <!ENTITY backButton1.label "אחורה">
 <!ENTITY goForwardButton1.label "קדימה">
 <!ENTITY deleteItem.title "מחיקה">
-<!ENTITY deleteButton.label "מחק">
-<!ENTITY undeleteButton.label "בטל מחיקה">
 <!ENTITY markButton.label "סמן">
 <!ENTITY printButton.label "הדפסה">
 <!ENTITY stopButton.label "עצור">
 <!ENTITY throbberItem.title "מחוון פעילות">
 <!ENTITY junkItem.title "זבל">
-<!ENTITY junkButton.label "דואר זבל">
-<!ENTITY notJunkButton.label "לא זבל">
 <!ENTITY addressBookButton.label "ספר כתובות">
 <!ENTITY chatButton.label "צ׳אט">
 <!ENTITY glodaSearch.title "חיפוש גלובלי">
@@ -561,13 +545,9 @@
 <!ENTITY previousMsgButton.tooltip "מעבר להודעה הקודמת">
 <!ENTITY goForwardButton.tooltip "עבור קדימה הודעה אחת">
 <!ENTITY goBackButton.tooltip "עבור אחורה הודעה אחת">
-<!ENTITY deleteButton.tooltip "מחק הודעה או תיקייה נבחרות">
-<!ENTITY undeleteButton.tooltip "בטל מחיקה של ההודעה הנבחרת">
 <!ENTITY markButton.tooltip "סמן הודעות">
 <!ENTITY printButton.tooltip "הדפס הודעה זו">
 <!ENTITY stopButton.tooltip "הפסק העברה נוכחית">
-<!ENTITY junkButton.tooltip "סמן את ההודעות הנבחרות כזבל">
-<!ENTITY notJunkButton.tooltip "סמן את ההודעות הנבחרות כלא זבל">
 <!ENTITY addressBookButton.tooltip "עבור לפנקס כתובות">
 <!ENTITY chatButton.tooltip "הצגת לשונית הצ׳אט">
 <!ENTITY tagButton.tooltip "סמן הודעות בתוויות">

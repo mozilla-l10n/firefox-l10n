@@ -8,9 +8,6 @@
 newtab-page-title = לשונית חדשה
 newtab-settings-button =
     .title = התאמה אישית של דף הלשונית החדשה שלך
-newtab-personalize-button-label = התאמה אישית
-    .title = התאמה אישית של דף הלשונית החדשה
-    .aria-label = התאמה אישית של דף הלשונית החדשה
 newtab-personalize-icon-label =
     .title = התאמה אישית של דף הלשונית החדשה
     .aria-label = התאמה אישית של דף הלשונית החדשה
@@ -23,7 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = חיפוש
     .aria-label = חיפוש
-newtab-search-box-search-the-web-text = חיפוש ברשת
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = ‏ניתן לחפש עם { $engine } או להקליד כתובת
@@ -38,10 +35,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = חיפוש או הכנסת כתובת
     .title = חיפוש או הכנסת כתובת
     .aria-label = חיפוש או הכנסת כתובת
+
 newtab-search-box-search-the-web-input =
     .placeholder = חיפוש ברשת
     .title = חיפוש ברשת
     .aria-label = חיפוש ברשת
+
 newtab-search-box-text = חיפוש ברשת
 newtab-search-box-input =
     .placeholder = חיפוש ברשת
@@ -57,10 +56,12 @@ newtab-topsites-edit-shortcut-header = עריכת קיצור דרך
 newtab-topsites-title-label = כותרת
 newtab-topsites-title-input =
     .placeholder = נא להזין כותרת
+
 newtab-topsites-url-label = כתובת
 newtab-topsites-url-input =
     .placeholder = נא להקליד או להזין כתובת
 newtab-topsites-url-validation = נדרשת כתובת תקינה
+
 newtab-topsites-image-url-label = כתובת תמונה מותאמת אישית
 newtab-topsites-use-image-link = שימוש בתמונה מותאמת אישית…
 newtab-topsites-image-validation = טעינת התמונה נכשלה. נא לנסות כתובת שונה.
@@ -89,10 +90,12 @@ newtab-topsite-sponsored = ממומן
 newtab-menu-section-tooltip =
     .title = פתיחת תפריט
     .aria-label = פתיחת תפריט
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = הסרה
     .aria-label = הסרה
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -159,10 +162,12 @@ newtab-label-removed-bookmark = הסימנייה הוסרה
 newtab-label-recommended = פופולרי
 newtab-label-saved = נשמר ל־{ -pocket-brand-name }
 newtab-label-download = התקבל
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · ממומן
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -201,6 +206,7 @@ newtab-section-header-pocket = מומלץ על־ידי { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ניתן להתחיל בגלישה ואנו נציג בפניך מספר כתבות, סרטונים ועמודים שונים מעולים בהם ביקרת לאחרונה או שהוספת לסימניות.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -242,10 +248,4 @@ newtab-custom-pocket-sponsored = סיפורים ממומנים
 newtab-custom-recent-title = פעילות אחרונה
 newtab-custom-recent-subtitle = מבחר של אתרים ותכנים אחרונים
 newtab-custom-close-button = סגירה
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = פתקיות
-newtab-custom-snippets-subtitle = עצות וחדשות מ־{ -vendor-short-name } ו־{ -brand-product-name }
 newtab-custom-settings = ניהול הגדרות נוספות

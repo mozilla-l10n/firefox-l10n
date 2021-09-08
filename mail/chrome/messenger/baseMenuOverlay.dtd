@@ -9,8 +9,4 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "עזרה">
 <!ENTITY helpMenuWin.accesskey "ע">
-<!ENTITY helpTroubleshootingInfo.label     "מידע לפתרון בעיות">
-<!ENTITY helpTroubleshootingInfo.accesskey "מ">
-<!ENTITY helpSafeMode.label     "הפעלה מחדש עם תוספות מנוטרלות…">
-<!ENTITY helpSafeMode.accesskey "מ">
 

@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = לעקוב אוטומטית אחר המצב המקוון שהתגלה
     .accesskey = ג
 
-startup-label = מצב ידני עם ההתחלה:
-
 status-radio-remember =
     .label = זכור מצב מקוון קודם
     .accesskey = ז

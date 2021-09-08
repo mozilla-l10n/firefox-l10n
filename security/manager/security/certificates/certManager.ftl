@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = יש לך אישורים מהארגונים האלה שמעידים על זהותך
 certmgr-remembered = אישורים אלה משמשים לזהות אותך לאתרים.
 certmgr-people = יש לך אישורים בקובץ שמעידים על זהותם של אנשים אלה
-certmgr-servers = יש לך אישורים בקובץ שמעידים על זהותם של שרתים אלה
 certmgr-server = רשומות אלו מייצגות חריגות של שגיאות אישורי שרתים
 certmgr-ca = יש לך אישורים בקובץ שמעידים על זהותן של רשויות אישורים אלו
-
-certmgr-detail-general-tab-title =
-    .label = כללי
-    .accesskey = כ
-
-certmgr-detail-pretty-print-tab-title =
-    .label = פרטים
-    .accesskey = פ
-
-certmgr-pending-label =
-    .value = בודק אישורים…
-
-certmgr-subject-label = הונפק עבור
-
-certmgr-issuer-label = הונפק על־ידי
-
-certmgr-period-of-validity = תקופת תוקף
-
-certmgr-fingerprints = טביעות אצבע
-
-certmgr-cert-detail =
-    .title = פרטי אישור
-    .buttonlabelaccept = סגירה
-    .buttonaccesskeyaccept = ס
-
-certmgr-cert-detail-commonname = שם משותף
-
-certmgr-cert-detail-org = ארגון
-
-certmgr-cert-detail-orgunit = יחידה ארגונית
-
-certmgr-cert-detail-serial-number = מספר סידורי
-
-certmgr-cert-detail-sha-256-fingerprint = טביעת אצבע SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = טביעת אצבע SHA1
 
 certmgr-edit-ca-cert =
     .title = עריכת הגדרות אמון באישור של רשות אישורים
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = התקן אבטחה
 
-certmgr-begins-on = תאריך תחילת תוקף
-
 certmgr-begins-label =
     .label = תאריך תחילת תוקף
-
-certmgr-expires-on = תוקפו פג בתאריך
 
 certmgr-expires-label =
     .label = תוקפו פג בתאריך
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = ייבוא…
     .accesskey = י
-
-certmgr-details =
-    .value = שדות האישור
-    .accesskey = א
-
-certmgr-fields =
-    .value = ערך השדה
-    .accesskey = ש
-
-certmgr-hierarchy =
-    .value = היררכיית אישור
-    .accesskey = ה
 
 certmgr-add-exception =
     .label = הוספת חריגה…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = האם ברצונך למחוק אישורים אלה?
 delete-user-cert-impact = אם אישורי האבטחה שלך ימחקו, לא יהיה ניתן עוד להשתמש בה כדי להזדהות.
 
 
-delete-ssl-cert-title =
-    .title = מחיקת חריגות אישורים
-delete-ssl-cert-confirm = האם אתה בטוח שברצונך למחוק את חריגות אלו?
-delete-ssl-cert-impact = אם החריגות תמחקנה, ישוחזרו בדיקות האבטחה הרגילות עבור האתר ויידרש עבורו אישור תקף.
-
-
 delete-ssl-override-title =
     .title = מחיקת חריגת אישור שרת
 delete-ssl-override-confirm = האם ברצונך למחוק את חריגת השרת הזו?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = אישור עם מספר סידורי: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = מציג האישורים: “{ $certName }”
-
-not-present =
-    .value = <לא חלק מהאישור>
-
-# Cert verification
-cert-verified = אישור זה אומת עבור השימושים הבאים:
-
-# Add usage
-verify-ssl-client =
-    .value = אישור SSL של לקוח
-
-verify-ssl-server =
-    .value = אישור SSL של שרת
-
-verify-ssl-ca =
-    .value = רשות אישורי SSL
-
-verify-email-signer =
-    .value = אישור חותם דוא״ל
-
-verify-email-recip =
-    .value = אישור נמען דוא״ל
-
-# Cert verification
-cert-not-verified-cert-revoked = לא ניתו לאמת אישור זה משום שהוא בוטל.
-cert-not-verified-cert-expired = לא ניתן לאמת אישור זה משום שתוקפו פג.
-cert-not-verified-cert-not-trusted = לא ניתן לאמת אישור זה מכיוון שאינו מהימן.
-cert-not-verified-issuer-not-trusted = לא ניתן לאמת אישור זה מכיוון שהמנפיק אינו מהימן.
-cert-not-verified-issuer-unknown = לא ניתן לאמת אישור זה משום שהמנפיק לא מוכר.
-cert-not-verified-ca-invalid = לא ניתן לאמת אישור זה משום שאישור רשות האישורים אינו בתוקף.
-cert-not-verified_algorithm-disabled = לא ניתן לאמת את אישור האבטחה הזה כי הוא נחתם על־ידי אלגוריתם חתימה שנוטרל מכיוון שאינו מאובטח.
-cert-not-verified-unknown = לא ניתן לאמת אישור זה מסיבות לא מוכרות.
 
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (לא מאוחסן)

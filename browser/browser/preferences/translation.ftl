@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = הסרת כל האתרים
     .accesskey = ל
 
-translation-button-close =
-    .label = סגירה
-    .accesskey = ג
-
 translation-dialog =
     .buttonlabelaccept = סגירה
     .buttonaccesskeyaccept = ג

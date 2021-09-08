@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = יצירת סימנייה ללשונית
     .accesskey = צ
-reopen-in-container =
-    .label = פתיחה מחדש במגירה
-    .accesskey = פ
 tab-context-open-in-new-container-tab =
     .label = פתיחה במגירת לשוניות חדשה
     .accesskey = ג
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = סגירת לשוניות מרובות
     .accesskey = מ
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] ביטול סגירת לשונית
-            [one] ביטול סגירת לשונית
-           *[other] ביטול סגירת לשוניות
-        }
-    .accesskey = י
-close-tab =
-    .label = סגירת לשונית
-    .accesskey = ס
-close-tabs =
-    .label = סגירת לשוניות
-    .accesskey = ס
-move-tabs =
-    .label = העברת לשוניות
-    .accesskey = ע
-move-tab =
-    .label = העברת לשונית
-    .accesskey = ע
 tab-context-share-url =
     .label = שיתוף
     .accesskey = ש
@@ -127,6 +104,7 @@ tab-context-move-tabs =
            *[other] העברת לשוניות
         }
     .accesskey = ע
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
