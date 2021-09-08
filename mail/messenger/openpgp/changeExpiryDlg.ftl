@@ -4,11 +4,15 @@
 
 openpgp-change-key-expiry-title =
     .title = Alterar validade da chave
+
 info-will-expire = Esta chave está no momento configurada para expirar em { $date }.
 info-already-expired = Esta chave já expirou.
 info-does-not-expire = Esta chave está configurada para nunca expirar.
+
 info-explanation-1 = <b>Depois que uma chave expira</b>, não é mais possível usar para criptografar ou assinar digitalmente.
+
 info-explanation-2 = Para usar esta chave por mais tempo, altere a data de validade e compartilhe novamente a chave pública com quem você conversa.
+
 expire-dont-change =
     .label = Não alterar a data de validade
 expire-never-label =

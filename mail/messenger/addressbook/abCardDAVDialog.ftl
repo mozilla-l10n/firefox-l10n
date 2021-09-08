@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Continuar
     .buttonaccesskeyaccept = C
 
-carddav-experimental-warning = O suporte a catálogo de endereços CardDAV é experimental e pode danificar permanentemente seus dados. Use por sua conta e risco.
-
-carddav-provider-label =
-    .value = Provedor de CardDAV:
-    .accesskey = P
-
-carddav-provider-option-other = Outro provedor…
-
-carddav-url-label =
-    .value = URL do CardDAV:
-    .accesskey = V
-
 carddav-username-label =
     .value = Nome de usuário:
     .accesskey = U
-carddav-username-input =
-    .placeholder = voce@example.com
-
-carddav-password-label =
-    .value = Senha:
-    .accesskey = S
-carddav-password-input =
-    .placeholder = Senha
-
-carddav-remember-password =
-    .label = Memorizar senha
-    .accesskey = m
 
 carddav-location-label =
     .value = Local:

@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = Preferências do { -brand-short-name }
 
 open-addons-sidebar-button = Extensões e temas
+

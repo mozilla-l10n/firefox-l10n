@@ -5,11 +5,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title              "Avançado">
 
-<!ENTITY systemPref.caption               "Preferências do Sistema">
-<!ENTITY systemPrefCheck.label            "Usar preferências do sistema">
-<!ENTITY systemPrefCheck.accesskey        "s">
-<!ENTITY systemPref.desc                  "Com esta opção, o &brandShortName; utiliza as preferências do sistema. Estas definições do sistema sobrepõem-se às preferências do &brandShortName;.">
-
 <!ENTITY prefCheckDefault.caption         "Integração com o sistema">
 <!ENTITY prefCheckDefaultClient.label     "Verificar configurações de aplicativos padrão ao iniciar">
 <!ENTITY prefCheckDefaultClient.accesskey "s">

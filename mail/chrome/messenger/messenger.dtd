@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "P">
-<!ENTITY printPreviewCmd.label "Visualizar impressão">
-<!ENTITY printPreviewCmd.accesskey "z">
-<!ENTITY printSetupCmd.label "Configurar página…">
-<!ENTITY printSetupCmd.accesskey "C">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Excluir mensagem">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Visão compacta">
 <!ENTITY compactVersion.accesskey "c">
-<!ENTITY folderPaneBar.label "Barra de ferramentas do painel de pastas">
-<!ENTITY folderPaneBar.accesskey "F">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Catálogo de endereços">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "b">
-<!ENTITY addons.label "Extensões">
-<!ENTITY addons.accesskey "E">
-<!ENTITY addonPrefs.label "Opções da extensão">
-<!ENTITY addonPrefs.accesskey "O">
-<!ENTITY addonPrefsUnix.label "Preferências de extensões">
-<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Nenhuma extensão configurada.">
 <!ENTITY activitymanager.label "Gerenciador de atividade">
 <!ENTITY activitymanager.accesskey "G">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Depurar extensões">
 <!ENTITY debugAddonsCmd.accesskey "e">
-<!ENTITY tabsDebugCmd.label "Depurador de conteúdo">
-<!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Console de erros">
 <!ENTITY errorConsoleCmd.accesskey "s">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Voltar">
 <!ENTITY goForwardButton1.label "Avançar">
 <!ENTITY deleteItem.title "Excluir">
-<!ENTITY deleteButton.label "Excluir">
-<!ENTITY undeleteButton.label "Restaurar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Parar">
 <!ENTITY throbberItem.title "Indicador de atividade">
 <!ENTITY junkItem.title "Spam">
-<!ENTITY junkButton.label "Spam">
-<!ENTITY notJunkButton.label "Não é spam">
 <!ENTITY addressBookButton.label "Catálogo">
 <!ENTITY chatButton.label "Conversa">
 <!ENTITY glodaSearch.title "Pesquisa global">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Mover para mensagem anterior">
 <!ENTITY goForwardButton.tooltip "Próxima mensagem">
 <!ENTITY goBackButton.tooltip "Mensagem anterior">
-<!ENTITY deleteButton.tooltip "Excluir mensagens/pastas selecionadas">
-<!ENTITY undeleteButton.tooltip "Restaurar mensagem selecionada">
 <!ENTITY markButton.tooltip "Marcar mensagens">
 <!ENTITY printButton.tooltip "Imprimir a mensagem">
 <!ENTITY stopButton.tooltip "Interromper a transferência atual">
-<!ENTITY junkButton.tooltip "Marcar mensagens selecionadas como spam">
-<!ENTITY notJunkButton.tooltip "Marcar mensagens selecionadas como não spam">
 <!ENTITY addressBookButton.tooltip "Catálogo de endereços">
 <!ENTITY chatButton.tooltip "Mostrar a aba de conversa">
 <!ENTITY tagButton.tooltip "Aplicar etiquetas em mensagens">
 <!ENTITY compactButton.tooltip "Remover as mensagens excluídas da pasta selecionada">
 <!ENTITY appmenuButton1.tooltip "Exibir o menu do &brandShortName;">
-<!ENTITY addonsButton.tooltip "Gerenciar suas extensões">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Reencaminhar como texto">

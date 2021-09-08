@@ -7,16 +7,12 @@ page-subtitle =
     Esta página contém informações técnicas que podem ser úteis se você estiver
     tentando solucionar um problema. Se estiver procurando respostas para as dúvidas mais comuns
     do { -brand-short-name }, confira o <a data-l10n-name="support-link">site de suporte</a>.
+
 crashes-title = Relatórios de travamento
 crashes-id = ID do relatório
 crashes-send-date = Envio
 crashes-all-reports = Todos os relatórios de travamento
 crashes-no-config = Este aplicativo não foi configurado para exibir relatórios de travamento.
-extensions-title = Extensões
-extensions-name = Nome
-extensions-enabled = Ativado
-extensions-version = Versão
-extensions-id = ID
 support-addons-title = Extensões
 support-addons-name = Nome
 support-addons-type = Tipo
@@ -133,8 +129,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tipo de processo
 sandbox-sys-call-number = Chamadas de sistema
 sandbox-sys-call-args = Argumentos
-safe-mode-title = Experimente o modo de segurança
-restart-in-safe-mode-label = Reiniciar com extensões desativadas…
 troubleshoot-mode-title = Diagnosticar problemas
 restart-in-troubleshoot-mode-label = Modo de solução de problemas…
 clear-startup-cache-title = Experimente limpar o cache de inicialização
@@ -192,36 +186,6 @@ remote-debugging-url = URL
 
 ##
 
-support-third-party-modules-title = Módulos de terceiros
-support-third-party-modules-module = Arquivo do módulo
-support-third-party-modules-version = Versão do arquivo
-support-third-party-modules-vendor = Informações do fornecedor
-support-third-party-modules-occurrence = Ocorrência
-support-third-party-modules-process = Tipo e ID do processo
-support-third-party-modules-thread = Thread
-support-third-party-modules-base = Endereço do imagebase
-support-third-party-modules-uptime = Tempo de atividade do processo (ms)
-support-third-party-modules-duration = Duração do carregamento (ms)
-support-third-party-modules-status = Status
-support-third-party-modules-status-loaded = Carregado
-support-third-party-modules-status-blocked = Bloqueado
-support-third-party-modules-status-redirected = Redirecionado
-support-third-party-modules-empty = Nenhum módulo de terceiros foi carregado.
-support-third-party-modules-no-value = (sem valor)
-support-third-party-modules-button-open =
-    .title = Abrir local do arquivo…
-support-third-party-modules-expand =
-    .title = Mostrar informações detalhadas
-support-third-party-modules-collapse =
-    .title = Recolher informações detalhadas
-support-third-party-modules-unsigned-icon =
-    .title = Este módulo não está assinado
-support-third-party-modules-folder-icon =
-    .title = Abrir local do arquivo…
-support-third-party-modules-down-icon =
-    .title = Mostrar informações detalhadas
-support-third-party-modules-up-icon =
-    .title = Recolher informações detalhadas
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -229,6 +193,7 @@ report-crash-for-days =
         [one] Relatórios de travamentos do último dia
        *[other] Relatórios de travamento dos últimos { $days } dias
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -236,6 +201,7 @@ crashes-time-minutes =
         [one] há { $minutes } minuto
        *[other] há { $minutes } minutos
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -243,6 +209,7 @@ crashes-time-hours =
         [one] há { $hours } hora
        *[other] há { $hours } horas
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -250,6 +217,7 @@ crashes-time-days =
         [one] há { $days } dia
        *[other] há { $days } dias
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -257,6 +225,7 @@ pending-reports =
         [one] Todos os relatórios de travamento (incluindo { $reports } travamento pendente na faixa de tempo indicada)
        *[other] Todos os relatórios de travamento (incluindo { $reports } travamentos pendentes na faixa de tempo indicada)
     }
+
 raw-data-copied = Dados copiados para a área de transferência
 text-copied = Texto copiado para a área de transferência
 
@@ -269,9 +238,11 @@ blocked-mismatched-version = Bloqueado para a sua versão incompatível do drive
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloqueado na versão do seu driver gráfico. Tente atualizar seu driver gráfico para a versão { $driverVersion } ou mais recente.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parâmetros ClearType
+
 compositing = Composição
 hardware-h264 = Decodificação H264 por hardware
 main-thread-no-omtc = thread principal, sem OMTC
@@ -286,6 +257,7 @@ virtual-monitor-disp = Exibição do monitor virtual
 
 found = Encontrado
 missing = Faltando
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descrição
@@ -308,21 +280,19 @@ webgl2-renderer = Renderizador do driver WebGL 2
 webgl2-version = Versão do driver WebGL 2
 webgl2-driver-extensions = Extensões do driver WebGL 2
 webgl2-extensions = Extensões WebGL 2
-blocklisted-bug = Bloqueado devido a problemas conhecidos
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Incluído na lista de bloqueio devido a problemas conhecidos: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Bloqueado; código de erro { $failureCode }
+
 d3d11layers-crash-guard = Compositor D3D11
-d3d11video-crash-guard = Decodificador de vídeo D3D11
-d3d9video-crash-guard = Decodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Decodificador de vídeo WMF VPX
+
 reset-on-next-restart = Redefinir na próxima reinicialização
 gpu-process-kill-button = Finalizar processo GPU
 gpu-device-reset = Redefinir dispositivo
@@ -332,8 +302,10 @@ content-uses-tiling = Usa mosaicos (conteúdo)
 off-main-thread-paint-enabled = Ativado o desenho fora do processo principal
 off-main-thread-paint-worker-count = Contagem de desenho fora do thread principal
 target-frame-rate = Alvo de taxa de atualização
+
 min-lib-versions = Versão mínima esperada
 loaded-lib-versions = Versão em uso
+
 has-seccomp-bpf = Seccomp-BPF (Sistema de filtragem de chamadas)
 has-seccomp-tsync = Sincronização do thread Seccomp
 has-user-namespaces = Espaço de nomes do usuário
@@ -347,27 +319,22 @@ sandbox-proc-type-content = conteúdo
 sandbox-proc-type-file = conteúdo do arquivo
 sandbox-proc-type-media-plugin = plugin de mídia
 sandbox-proc-type-data-decoder = decodificador de dados
+
 startup-cache-title = Cache ao iniciar
 startup-cache-disk-cache-path = Caminho do cache em disco
 startup-cache-ignore-disk-cache = Ignorar cache em disco
 startup-cache-found-disk-cache-on-init = Cache em disco encontrado ao iniciar
 startup-cache-wrote-to-disk-cache = Gravado no cache em disco
+
 launcher-process-status-0 = Ativado
 launcher-process-status-1 = Desativado devido a falha
 launcher-process-status-2 = Desativado à força
 launcher-process-status-unknown = Status desconhecido
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Ativado pelo usuário
-multi-process-status-1 = Ativado por padrão
-multi-process-status-2 = Desativado
-multi-process-status-4 = Desativado por ferramentas de acessibilidade
-multi-process-status-6 = Desativado por entrada de texto não suportada
-multi-process-status-7 = Desativado por extensões
-multi-process-status-8 = Desativado à força
-multi-process-status-unknown = Status desconhecido
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -383,6 +350,7 @@ fission-status-enabled-by-user-pref = Ativado pelo usuário
 fission-status-disabled-by-user-pref = Desativado pelo usuário
 fission-status-disabled-by-e10s-other = E10s desativado
 fission-status-enabled-by-rollout = Ativado para liberação em implementação gradual
+
 async-pan-zoom = Deslocamento/Zoom assíncrono
 apz-none = nenhum
 wheel-enabled = entrada com roda do mouse ativada
@@ -419,6 +387,7 @@ support-remote-experiments-title = Experimentos remotos
 support-remote-experiments-name = Nome
 support-remote-experiments-branch = Branch do experimento
 support-remote-experiments-see-about-studies = Consulte mais informações em <a data-l10n-name="support-about-studies-link">about:studies</a>, inclusive como desativar experimentos individuais ou desativar a execução deste tipo de experimento pelo { -brand-short-name } no futuro.
+
 support-remote-features-title = Recursos remotos
 support-remote-features-name = Nome
 support-remote-features-status = Status

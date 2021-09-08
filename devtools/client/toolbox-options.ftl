@@ -66,11 +66,6 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = Comportamento da captura de tela
 
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Capturar tela para área de transferência
-options-screenshot-clipboard-tooltip =
-    .title = Copiar capturas de tela diretamente para a área de transferência
-
-# Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Capturar tela para apenas para a área de transferência
 options-screenshot-clipboard-tooltip2 =
     .title = Salva a captura de tela diretamente na área de transferência

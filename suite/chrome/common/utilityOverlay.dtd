@@ -141,9 +141,6 @@
 <!ENTITY openHelpCmd.accesskey            "T">
 <!ENTITY openHelpCmd.key                  "VK_F1">
 
-<!ENTITY helpForIEUsers.label               "Para usuários do Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey           "I">
-
 <!ENTITY helpTroubleshootingInfo.label      "Informações para resolver problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey  "t">
 <!ENTITY releaseCmd.label                   "Notas de atualização">
