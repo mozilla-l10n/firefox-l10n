@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = जा़पती लेकाते बाय जोड़ाव दाड़ेयाक् आ चेदाक् जे  SSL गापते बाङ हुय होचोवाकाना .
 psmerr-ssl2-disabled = जा़पती लेकाते बाय जोड़ाव दाड़ेयाक् आ चेदाक् जे साइट SSL गापाते रेयाक् बाङ जापती हा़लियाक्, खोन मारेयाक् बेभारेत् आ .
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     आम मित् बाङ बाताव पोरमान सामाप एम ञाम आकाता आ. सार्बार सासोनिच् आर बाङ इ-मेल रोड़ रुवा़ड़िच् सोमपोक एम आर  उनुक् नोवा ला़य सोदोर को एमाकोम :
     
     आमाक् पोरमान साकाम रे पोरमान साकाम एमोगिच् दाराय ते एटागाक् पोरमान साकाम एम लेकाते सोमान तिरया़व लेखा मेनाक् आ. मित् भेगार तिरया़व लेखा ताहेंन मित् नावा पोरमान साकाम ञाम में .
-
 ssl-error-no-cypher-overlap = जोड़ सांव जा़पती लेकाते रोड़ -रोपोड़ बाय दाड़ेयाक् आ: जाहान सोमान दानाङाक् हुडिञ एलख (को) बा़नुक् आ .
 ssl-error-no-certificate = पोरमान एम ला़गित् पोरमान साकाम आर बाङ का़ठी ञाम बाय हुय दाड़ेयाक् आ.
 ssl-error-bad-certificate = जोड़ सांव जा़पती लेकान रोड़ रोपोड़ बाय हुय दाड़ेयाक् आ: जोड़ रेयाक् पोरमान साकाम बा़डरा़ आकान ताहेना .
@@ -24,7 +23,6 @@ ssl-error-bad-server = मुकेल सार्वार ठेनाक् 
 ssl-error-unsupported-certificate-type = बाङ गोड़ोवाक् पोरमान साकाम लेकान .
 ssl-error-unsupported-version = जोड़ जा़पती गापाते रेयाक् बाङ गोड़ोवाक् बार्सान बेभारेक् आ
 ssl-error-wrong-certificate = मुकेल पोरमान एम ए डिगा़वेना: का़ठी डाटाबेस रे निजेराक् का़ठी पोरमान एम डाटाबेस रे होड़ कोवाक् का़ठी बाय मिला़क् आ.
-ssl-error-bad-cert-domain = जोड़ सांव जा़पती लेकाते रोड़ रोपोड़ बाह हुय दाड़ेयाक् आ:नेहोरिजाक् जायगा ञुतुम सार्वराक् पोरमान साकाम सांव बाय मिला़क् आ
 ssl-error-ssl2-disabled = जोड़ एकेन SSL बार्सान 2,गोड़ोवाक् आ ओका नोडे बाय हुय होचोकवाक् आ .
 ssl-error-bad-mac-read = SSL मित् बाङ सुही खोबोर पोरमान एम चिनहा़ सांव रिकोर्ड हातावाकात् आ .
 ssl-error-bad-mac-alert = SSLजोड़ बाङ सुही खोबोर पोरमान एम चिनहा़ रिपोर्ट .
@@ -117,7 +115,6 @@ ssl-error-no-renegotiation-alert = जोड़ SSL जा़पती पार
 ssl-error-server-cache-not-configured = SSL सर्वर साप नोवा खायपोक् ला़गित् बाङ तेयार आर बाय हुय होचोया .
 ssl-error-unsupported-extension-alert = SSL जोड़ नेहोराक TLS जोहार पासनाव बाय गोड़ोवाक् आ .
 ssl-error-certificate-unobtainable-alert = SSL जोड़ एमाक् URL खोन आमाक पोरमान साकाम बाय ञाम दाड़ेयाक् आ.
-ssl-error-unrecognized-name-alert = SSL जोड़ नेहोराक्  DNS ञुतुम ला़गित् पोरमान साकाम बा़नुक् आ .
 ssl-error-bad-cert-status-response-alert = SSLजोड़ आजाक पोरमान साकाम ला़गित् OCSP रोड़ रुवाड़ बाय ञाम दाड़ेयाक् ताहेना .
 ssl-error-bad-cert-hash-value-alert = SSL जोड़ बाङठिक पोरमान साकामाक् हुडिञ घांडिच गोनोङ रिपोटाय .
 ssl-error-rx-unexpected-new-session-ticket = SSLमित् बाङ आंसाक् नावा का़मी टिकिट ती सापाप खोबोर काना .
@@ -285,7 +282,6 @@ sec-error-expired-password = दानाङ साबाद ओकतो पा
 sec-error-locked-password = दानाङ साबाद कुलुप लेना
 sec-error-unknown-pkcs11-error = बाङ बाडाय  PKCS #11 भुल.
 sec-error-bad-crl-dp-url = बाङ बाताव आर बाङ बाङ गोड़ो  URL  CRL हा़टिञ टुडा़क ञुतुम रे .
-sec-error-cert-signature-algorithm-disabled = पोरमान साकाम मित् गेलाक हुडा़क एलेख सुही बेभाराते सुही लेन ताहेंना ओना दो बाङ हिय होचो लेना चेदाक् जे ओना जा़पती बा़नुक् आ .
 mozilla-pkix-error-key-pinning-failure = सार्बार का़ठी गुतु बेभाराक्  (HPKP)  मेन खान बाङ पा़तिया़व पोरमान साकाम सिकड़ी  बाङ तेयार दाड़ेयाक् ओका पिन सेट जोड़ोवाक्.का़ठी गुतु बाङ बाताव ओल चेतान ओलबाङ दाड़ेयाक् आ.
 mozilla-pkix-error-ca-cert-used-as-end-entity = सार्बार मित् बा़यसा़व ओता पासनाव नोवा मित् पोरमान साकाम एमोगिच् लेका चिनहा़वेया. बेस ओकोच् तेयाक् -पोरमान साकाम एम ला़गित्, नोवा दो काथा बाङ ला़कती काना.
 mozilla-pkix-error-inadequate-key-size = सार्बार मित् का़ठी माराङ तेत् सांव मित् पोरमान साकामे उदुगा ओका दो जा़पती जोनोड़ाव थापोन ला़गित् आ़डी हुडिञा.
