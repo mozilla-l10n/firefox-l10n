@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title "Archivos guardados">
-<!ENTITY aboutDownloads.empty "No hay archivos guardados">
 <!ENTITY cmd.show.label "Abrir carpeta contenedora">
 <!ENTITY cmd.show.accesskey "A">
 <!ENTITY cmd.showMac.label "Mostrar en Finder">

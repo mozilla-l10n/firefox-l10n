@@ -17,8 +17,6 @@
 <!ENTITY accountTypeMail.accesskey "c">
 <!ENTITY accountTypeNews.label "Cuenta de noticias">
 <!ENTITY accountTypeNews.accesskey "n">
-<!ENTITY accountTypeMovemail.label "Archivo de correo Unix (Movemail)">
-<!ENTITY accountTypeMovemail.accesskey "A">
 
 <!-- Entities for Identity page -->
 

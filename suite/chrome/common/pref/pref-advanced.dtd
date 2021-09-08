@@ -4,11 +4,6 @@
 
 <!ENTITY pref.advanced.title "Avanzadas">
 
-<!ENTITY systemPref.caption "Preferencias de sistema">
-<!ENTITY systemPrefCheck.label "Usar las preferencias del sistema">
-<!ENTITY systemPrefCheck.accesskey "U">
-<!ENTITY systemPref.desc "Con esta opción, &brandShortName; hereda las preferencias del sistema. Los valores globales del sistema prevalecerán sobre las preferencias de &brandShortName;.">
-
 <!ENTITY prefCheckDefault.caption "Integración con el sistema">
 <!ENTITY prefCheckDefaultClient.label "Comprobar la condición de aplicación predeterminada al iniciar">
 <!ENTITY prefCheckDefaultClient.accesskey "C">

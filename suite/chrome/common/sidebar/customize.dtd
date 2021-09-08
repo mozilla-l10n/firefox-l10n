@@ -4,10 +4,6 @@
 
 <!-- extracted from ./customize.xul -->
 
-<!ENTITY sidebar.customize.title.label "Personalizar &sidebarName;">
-<!ENTITY sidebar.customize.current.label "Pestañas en &sidebarName;:">
-<!ENTITY sidebar.customize.current.accesskey "T">
-
 <!ENTITY sidebar.customize.title "Personalizar el panel lateral">
 <!ENTITY sidebar.customize.current2.label "Pestañas en el panel lateral:">
 <!ENTITY sidebar.customize.current2.accesskey "T">

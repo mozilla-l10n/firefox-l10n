@@ -4,10 +4,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Codificación de texto
-    .accesskey = c
-
 ## Tools Menu
 
 ## Help Menu
@@ -17,4 +13,6 @@ menu-view-charset =
 ## View
 
 ## View / Layout
+
+## File
 
