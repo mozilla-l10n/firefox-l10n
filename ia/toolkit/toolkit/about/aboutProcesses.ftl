@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Gestor de processo
+
 # The Actions column
 about-processes-column-action =
     .title = Actiones
@@ -40,6 +41,7 @@ about-processes-socket-process = Rete ({ $pid })
 about-processes-remote-sandbox-broker-process = Agente de spatio isolate remote ({ $pid })
 about-processes-fork-server-process = Servitor de bifurcation ({ $pid })
 about-processes-preallocated-process = Pre-allocate ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -75,6 +77,7 @@ about-processes-active-threads =
         [one] { $active } filo active de { $number }: { $list }
        *[other] { $active } filos active de { $number }: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -86,21 +89,25 @@ about-processes-inactive-threads =
         [one] { $number } filo inactive
        *[other] { $number } filos inactive
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = ID del filo: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Scheda: { $name }
 about-processes-preloaded-tab = Nove scheda pre-cargate
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Sub-quadro: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -119,8 +126,10 @@ about-processes-frame-name-many = Sub-quadros ({ $number }): { $shortUrl }
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Tempore de CPU total: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (mesurante)
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-idle = inactive
     .title = Tempore de CPU total: { NUMBER($total, maximumFractionDigits: 2) }{ $unit }
@@ -139,6 +148,7 @@ about-processes-cpu-idle = inactive
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Evolution: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

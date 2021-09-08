@@ -5,6 +5,7 @@
 printui-title = Imprimer
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Salvar como
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -12,6 +13,7 @@ printui-sheets-count =
         [one] { $sheetCount } folio de papiro
        *[other] { $sheetCount } folios de papiro
     }
+
 printui-page-range-all = Toto
 printui-page-range-custom = Personalisate
 printui-page-range-label = Paginas
@@ -20,22 +22,29 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Insere un intervallo de paginas personalisate
     .placeholder = p.ex. 2-6, 9, 12-16
+
 # Section title for the number of copies to print
 printui-copies-label = Copias
+
 printui-orientation = Orientation:
 printui-landscape = Horizontal
 printui-portrait = Vertical
+
 # Section title for the printer or destination device to target
 printui-destination-label = Destination
 printui-destination-pdf-label = Salvar a PDF
+
 printui-more-settings = Altere parametros
 printui-less-settings = Minus parametros
+
 printui-paper-size-label = Dimension del papiro
+
 # Section title (noun) for the print scaling options
 printui-scale = Scala
 printui-scale-fit-to-page-width = Adaptar al largor del pagina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Scala
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Impression recto e verso
 printui-two-sided-printing-off = Disactivate
@@ -43,6 +52,7 @@ printui-two-sided-printing-off = Disactivate
 printui-two-sided-printing-long-edge = Volver sur margine longe
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Volver sur margine curte
+
 # Section title for miscellaneous print options
 printui-options = Optiones
 printui-headers-footers-checkbox = Imprimer capites e pedes de pagina
@@ -66,6 +76,7 @@ printui-simplify-page-radio = Simplificate
 printui-color-mode-label = Modo color
 printui-color-mode-color = Color
 printui-color-mode-bw = Nigre e blanc
+
 printui-margins = Margines
 printui-margins-default = Predefinite
 printui-margins-min = Minimo
@@ -84,17 +95,23 @@ printui-margins-custom-left-mm = Sinistra (mm)
 printui-margins-custom-right = Dextra
 printui-margins-custom-right-inches = Dextere (pollices)
 printui-margins-custom-right-mm = Dextra (mm)
+
 printui-system-dialog-link = Imprimer usante le fenestra de dialogo del systema…
+
 printui-primary-button = Imprimer
 printui-primary-button-save = Salvar
 printui-cancel-button = Cancellar
 printui-close-button = Clauder
+
 printui-loading = Preparation del vista preliminar
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Vista preliminar del impression
+
 printui-pages-per-sheet = Paginas per folio
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Impression…
@@ -121,6 +138,7 @@ printui-paper-tabloid = Tabloid
 printui-error-invalid-scale = Le scala debe esser un numero inter 10 e 200.
 printui-error-invalid-margin = Insere un margine valide pro le dimension de papiro seligite.
 printui-error-invalid-copies = Copias debe esser un numero inter 1 e 10000.
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Le intervallo debe esser un numero inter 1 e { $numPages }.

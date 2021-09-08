@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Remover tote le sitos
     .accesskey = i
 
-translation-button-close =
-    .label = Clauder
-    .accesskey = C
-
 translation-dialog =
     .buttonlabelaccept = Clauder
     .buttonaccesskeyaccept = C

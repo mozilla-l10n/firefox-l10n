@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Dactylogrammas clave OTR de previe conversationes cryptate end-to-end.
 
-finger-screenName =
-    .label = Contacto
-
 finger-screen-name =
     .label = Contacto
 finger-verified =

@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = Marcapaginas
+
 sidebar-menu-history =
     .label = Chronologia
+
 sidebar-menu-synced-tabs =
     .label = Schedas synchronisate
+
 sidebar-menu-close =
     .label = Clauder barra lateral
+
 sidebar-close-button =
     .tooltiptext = Clauder barra lateral

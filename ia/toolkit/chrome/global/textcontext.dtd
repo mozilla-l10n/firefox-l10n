@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Vacuar">
 
-<!ENTITY fillLoginMenu.label          "Insere le authentication">
-<!ENTITY fillLoginMenu.accesskey      "I">
-<!ENTITY fillPasswordMenu.label       "Insere le contrasigno">
-<!ENTITY fillPasswordMenu.accesskey   "I">
-<!ENTITY fillUsernameMenu.label       "Insere le nomine de usator">
-<!ENTITY fillUsernameMenu.accesskey   "I">
-<!ENTITY noLoginSuggestions.label     "(Nulle suggestiones de authentication)">
-<!ENTITY viewSavedLogins.label        "Vider le authenticationes salvate">

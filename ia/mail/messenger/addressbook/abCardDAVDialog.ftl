@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Continuar
     .buttonaccesskeyaccept = C
 
-carddav-experimental-warning = Le supporto pro le libro del adresses es exsperimental e poterea damificar permanentemente tu datos. Utilisar con cautela.
-
-carddav-provider-label =
-    .value = Fornitor de CardDAV
-    .accesskey = F
-
-carddav-provider-option-other = Altere fornitor…
-
-carddav-url-label =
-    .value = URL de CardDAV:
-    .accesskey = U
-
 carddav-username-label =
     .value = Nomine de usator:
     .accesskey = u
-carddav-username-input =
-    .placeholder = you@example.com
-
-carddav-password-label =
-    .value = Contrasigno:
-    .accesskey = C
-carddav-password-input =
-    .placeholder = Contrasigno
-
-carddav-remember-password =
-    .label = Rememorar le contrasigno
-    .accesskey = m
 
 carddav-location-label =
     .value = Adresse:

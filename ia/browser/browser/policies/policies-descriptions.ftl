@@ -65,8 +65,6 @@ policy-DisableForgetButton = Impedir accesso al button Oblidar.
 
 policy-DisableFormHistory = Non rememorar le chronologia de recercas e formularios.
 
-policy-DisableMasterPasswordCreation = Si ver, non pote esser create un contrasigno maestro.
-
 policy-DisablePrimaryPasswordCreation = Si ver, non pote esser create un contrasigno primari.
 
 policy-DisablePasswordReveal = Non permitter de monstrar le contrasignos in le credentiales salvate.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Usar le comportamento 
 policy-LocalFileLinks = Permitter a sitos web specific de ligar a files local.
 
 policy-ManagedBookmarks = Configura un lista de marcapaginas, gerite per un administrator, que non pote esser cambiate per le usator.
-
-policy-MasterPassword = Require o impedi usar un contrasigno maestro.
 
 policy-ManualAppUpdateOnly = Solo consentir actualisationes manual e non allertar le usator re actualisationes.
 

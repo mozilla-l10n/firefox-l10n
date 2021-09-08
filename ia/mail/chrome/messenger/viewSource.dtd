@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Salvar le pagina como…">
 <!ENTITY savePageCmd.accesskey "C">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Configurar le pagina…">
-<!ENTITY pageSetupCmd.accesskey "o">
-<!ENTITY printPreviewCmd.label "Vista preliminar del impression">
-<!ENTITY printPreviewCmd.accesskey "V">
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "P">

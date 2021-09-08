@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Clauder
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Optiones
-           *[other] Preferentias
-        }
-
 preferences-doc-title = Preferentias
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Discartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
-addons-button = Extensiones e themas
-
 account-button = Parametros de contos
 open-addons-sidebar-button = Additivos e themas
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Pro crear un contrasigno principal, insere tu credentiales de accesso a Windows. Isto permitte de garantir le securitate de tu contos.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = crea un contrasigno principal
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Pro crear un contrasigno primari, insere tu credentiales de accesso a Windows. Isto permitte de garantir le securitate de tu contos.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Personalisar…
     .accesskey = P
-
-tray-icon-label =
-    .label = Monstrar un icone del zona del avisos
-    .accesskey = a
 
 biff-use-system-alert =
     .label = Usar le the notification de systema
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Color:
     .accesskey = o
-
-search-input =
-    .placeholder = Cercar
 
 search-handler-table =
     .placeholder = Filtra typos e actiones de contento
@@ -723,16 +698,6 @@ passwords-button =
     .label = Contrasignos salvate
     .accesskey = s
 
-master-password-description = Un Contrasigno maestro protege tote tu contrasignos, ma tu debe inserer lo un vice per session.
-
-master-password-label =
-    .label = Usar un contrasigno maestro
-    .accesskey = m
-
-master-password-button =
-    .label = Modificar le contrasigno maestro…
-    .accesskey = m
-
 
 primary-password-description = Un Contrasigno primari protege tote tu contrasignos, ma tu debe inserer lo un vice per session.
 
@@ -913,26 +878,6 @@ no-preview-description = Iste thema non es valide o es actualmente indisponibile
 chat-variant-label =
     .value = Variante:
     .accesskey = V
-
-chat-header-label =
-    .label = Monstrar capite
-    .accesskey = c
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Cercar in optiones
-           *[other] Cercar in preferentias
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

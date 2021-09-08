@@ -129,10 +129,6 @@ openpgp-key-send-key =
     .label = Inviar un clave public per email
     .accesskey = I
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Copiar un clave public al area de transferentia
-    .accesskey = C
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -159,8 +155,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportar claves a file
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Copiar un clave public al area de transferentia
 
 openpgp-key-man-ctx-copy =
     .label = Copiar
@@ -312,15 +306,6 @@ openpgp-description =
        *[other] Thunderbird ha trovate { $count } claves personal OpenPGP associate con <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Eliger un clave valide pro activar le protocollo OpenPGP.
-        [one] Tu actual configuration usa ID clave <b>{ $key }</b>
-       *[other] Tu actual configuration usa ID clave <b>{ $key }</b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Tu actual configuration usa ID clave <b>{ $key }</b>
 
@@ -353,14 +338,8 @@ openpgp-radio-key-not-found = Impossibile trovar iste clave! Si tu vole usar lo,
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Expira le: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Le clave expira in minus de 6 menses
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Expirate le: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Clave expirate
 
 openpgp-key-expires-within-6-months-icon =
     .title = Le clave expira in minus de 6 menses
@@ -686,7 +665,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Tu ha configurate le ruptura e inveloppamento del lineas a { $width } characteres. Pro correcte cryptation o signatura, iste valor debe esser al minus 68.
     Vole tu cambiar ora le ruptura e inveloppamento del lineas a 68 characteres
-sending-hidden-rcpt = Le destinatarios CCN (cec copia) non pote esser usate inviante un message cryptate. Pro inviar iste message cryptate, remove le destinatarios Ccn o move illes in le campo CC.
 sending-news =
     Invio cryptate abortate.¶ 
     Iste message non pote esser cryptate perque il ha como destinatarios gruppos de discussion.
@@ -755,9 +733,6 @@ enig-info = Information OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Retentar
 dlg-button-skip = &Saltar
-
-# Strings used in enigmailCommon.js
-enig-error = Error OpenPGP
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

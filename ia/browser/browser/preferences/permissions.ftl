@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Remover tote le sitos web
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Cancellar
-    .accesskey = C
-
-permissions-button-ok =
-    .label = Salvar le cambios
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Salvar le cambios
     .buttonaccesskeyaccept = S

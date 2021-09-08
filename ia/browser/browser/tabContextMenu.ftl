@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Marcar le scheda
     .accesskey = M
-reopen-in-container =
-    .label = Reaperir in un scheda contentor
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Aperir in un nove scheda contentor
     .accesskey = e
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Clauder plure schedas
     .accesskey = p
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Reaperir scheda claudite
-            [one] Reaperi scheda claudite
-           *[other] Reaperi schedas claudite
-        }
-    .accesskey = R
-close-tab =
-    .label = Clauder le scheda
-    .accesskey = C
-close-tabs =
-    .label = Clauder le schedas
-    .accesskey = S
-move-tabs =
-    .label = Displaciar schedas
-    .accesskey = D
-move-tab =
-    .label = Mover le scheda
-    .accesskey = v
 tab-context-share-url =
     .label = Compartir
     .accesskey = o
@@ -129,6 +106,7 @@ tab-context-move-tabs =
            *[other] Displaciar schedas
         }
     .accesskey = M
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

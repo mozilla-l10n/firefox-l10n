@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Signar digitalmente iste message">
 <!ENTITY menu_securitySign.accesskey "m">
 
-<!ENTITY menu_securityAttachMyKey.label "Attachar mi clave public">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "Technologia de cryptation">
 <!ENTITY menu_securityTech.accesskey "T">
 

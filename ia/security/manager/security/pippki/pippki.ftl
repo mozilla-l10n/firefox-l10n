@@ -6,9 +6,6 @@ password-quality-meter = Mensurator de qualitate del contrasigno
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Modificar le contrasigno maestro
-
 change-device-password-window =
     .title = Cambiar contrasigno
 
@@ -20,10 +17,6 @@ change-password-new = Nove contrasigno:
 change-password-reenter = Nove contrasigno (novemente):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Reinitialisar le contrasigno maestro
-    .style = width: 40em
 
 pippki-failed-pw-change = Impossibile cambiar contrasigno.
 pippki-incorrect-pw = Tu non insereva le actual contrasigno correcte. Prova ancora.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Reinitialisar
-reset-password-text = Si tu reinitialisa tu contrasigno maestro, tote tu contrasignos email e web, tu datos de formularios e claves private essera oblidate. Desira tu vermente reinitialisar tu contrasigno maestro?
 
 reset-primary-password-text = Si tu reinitialisa tu contrasigno primari, tote tu contrasignos web e email, tu certificatos personal e claves private essera oblidate. Desira tu vermente reinitialisar tu contrasigno primari?
 

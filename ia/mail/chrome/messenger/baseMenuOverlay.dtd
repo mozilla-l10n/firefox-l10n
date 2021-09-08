@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "A">
 <!ENTITY aboutProduct2.label "A proposito de &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "A">
-<!ENTITY helpTroubleshootingInfo.label     "Informationes de diagnostico">
-<!ENTITY helpTroubleshootingInfo.accesskey "d">
-<!ENTITY helpSafeMode.label     "Reinitiar con le additivos inactive…">
-<!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY helpSafeMode.stop.label     "Reinitiar con le additivos active">
-<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Adjuta de &brandShortName;">
 <!ENTITY productHelp.accesskey "A">
 <!ENTITY productHelp.commandkey "VK_F1">

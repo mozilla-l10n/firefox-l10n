@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seliger tote le schedas
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Reaperir scheda claudite
-            [one] Reaperi scheda claudite
-           *[other] Reaperi schedas claudite
-        }
-    .accesskey = R
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Clavar al menu disbordante
     .accesskey = C
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Auto-celar in le barra de instrumentos
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Celar le button quando vacue
     .accesskey = C

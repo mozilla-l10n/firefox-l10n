@@ -42,7 +42,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Dimension del buffer:
+
 perftools-custom-threads-label = Adder filos personalisate per nomine:
+
 perftools-devtools-interval-label = Intervallo:
 perftools-devtools-threads-label = Filos:
 perftools-devtools-settings-label = Parametros
@@ -101,6 +103,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Ignorar selectiones supra e memorar tote le filos registrate
+
 perftools-tools-threads-input-label =
     .title = Iste nomines de filo forma un lista separate per commas que es usate pro activar le profilation del filos in le profilator. Es sufficiente un correspondentia partial con le nomine del filo a includer. Le spatios es significative.
 
@@ -109,7 +112,9 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nove</b>: { -profiler-brand-name } es ora integrate in Utensiles de disveloppator. <a>Saper plus</a> re iste potente nove instrumento.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Pro un tempore limitate, tu pote acceder al quadro original Prestation via <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Clauder le message introductive

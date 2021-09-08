@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Gestor de additivos
-
 addons-page-title = Gestor de additivos
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Assistentia del additivos
 sidebar-help-button-title =
     .title = Assistentia del additivos
 
-preferences =
-    { PLATFORM() ->
-        [windows] Optiones de { -brand-short-name }
-       *[other] Preferentias de { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Optiones de { -brand-short-name }
-           *[other] Preferentias de { -brand-short-name }
-        }
-
 addons-settings-button = Parametros de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Parametros de { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Monstrar tote le extensiones
-
-cmd-show-details =
-    .label = Monstrar plus informationes
-    .accesskey = S
-
-cmd-find-updates =
-    .label = Cercar actualisationes
-    .accesskey = C
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Optiones
-           *[other] Preferentias
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Applicar le thema
-    .accesskey = A
-
-cmd-disable-theme =
-    .label = Cessar le uso del thema
-    .accesskey = C
-
-cmd-install-addon =
-    .label = Installar
-    .accesskey = I
-
-cmd-contribute =
-    .label = Contribuer
-    .accesskey = C
-    .tooltiptext = Contribuer al disveloppamento de iste additivo
 
 detail-version =
     .label = Version
@@ -389,8 +337,6 @@ dictionary-disabled-heading = Disactivate
 
 locale-enabled-heading = Activate
 locale-disabled-heading = Disactivate
-
-ask-to-activate-button = Demandar ante de activar
 
 always-activate-button = Sempre activar
 never-activate-button = Non activar jammais

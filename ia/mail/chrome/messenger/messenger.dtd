@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Vista preliminar del impression">
-<!ENTITY printPreviewCmd.accesskey "V">
-<!ENTITY printSetupCmd.label "Configurar le pagina…">
-<!ENTITY printSetupCmd.accesskey "p">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Deler message">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Visualisation compacte">
 <!ENTITY compactVersion.accesskey "c">
-<!ENTITY folderPaneBar.label "Barra del pannello de dossiers">
-<!ENTITY folderPaneBar.accesskey "B">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordinar per">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Libro del adresses">
 <!ENTITY addressBookCmd.accesskey "l">
 <!ENTITY addressBookCmd.key "l">
-<!ENTITY addons.label "Additivos">
-<!ENTITY addons.accesskey "A">
-<!ENTITY addonPrefs.label "Optiones de additivo">
-<!ENTITY addonPrefs.accesskey "O">
-<!ENTITY addonPrefsUnix.label "Preferentias de additivo">
-<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Nulle parametros de additivo trovate.">
 <!ENTITY activitymanager.label "Gestor de activitate">
 <!ENTITY activitymanager.accesskey "v">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Depurar le additivos">
 <!ENTITY debugAddonsCmd.accesskey "a">
-<!ENTITY tabsDebugCmd.label "Depurator de quadro del contento">
-<!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Retro">
 <!ENTITY goForwardButton1.label "Inviar ultra">
 <!ENTITY deleteItem.title "Deler">
-<!ENTITY deleteButton.label "Deler">
-<!ENTITY undeleteButton.label "Restabilir">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimer">
 <!ENTITY stopButton.label "Stoppar">
 <!ENTITY throbberItem.title "Indicator de activitate">
 <!ENTITY junkItem.title "Indesirate">
-<!ENTITY junkButton.label "Indesirate">
-<!ENTITY notJunkButton.label "Non indesirate">
 <!ENTITY addressBookButton.label "Libro del adresses">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Recerca global">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Mover al message precedente">
 <!ENTITY goForwardButton.tooltip "Inviar ultra un message">
 <!ENTITY goBackButton.tooltip "Receder de un message">
-<!ENTITY deleteButton.tooltip "Deler le message o dossier seligite">
-<!ENTITY undeleteButton.tooltip "Recuperar message selecte">
 <!ENTITY markButton.tooltip "Marcar messages">
 <!ENTITY printButton.tooltip "Imprimer iste message">
 <!ENTITY stopButton.tooltip "Interrumper le transferentia actual">
-<!ENTITY junkButton.tooltip "Marcar le message seligite como indesirate">
-<!ENTITY notJunkButton.tooltip "Marcar le message seligite como non indesirate">
 <!ENTITY addressBookButton.tooltip "Va al libro del adresses">
 <!ENTITY chatButton.tooltip "Monstrar le scheda Chat">
 <!ENTITY tagButton.tooltip "Messages de tags">
 <!ENTITY compactButton.tooltip "Remover le messages delite del dossier seligite">
 <!ENTITY appmenuButton1.tooltip "Monstrar le menu de &brandShortName;">
-<!ENTITY addonsButton.tooltip "Gere tu additivos">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Inviar ultra in linea">

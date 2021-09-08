@@ -17,9 +17,6 @@
 <!ENTITY accountTypeMail.accesskey "C">
 <!ENTITY accountTypeNews.label "Gruppos de discussion">
 <!ENTITY accountTypeNews.accesskey "d">
-<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
-<!ENTITY accountTypeMovemail.label "Spool de posta Unix (Movemail)">
-<!ENTITY accountTypeMovemail.accesskey "U">
 
 <!-- Entities for Identity page -->
 

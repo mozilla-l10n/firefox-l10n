@@ -54,9 +54,6 @@ import-label = Importar
 
 about-paragraph = Thunderbird es le principal application de codice libere e multi-platteforma pro le gestion de emails e agendas, gratuite pro uso personal e commercial. Nos vole mantener lo secur e continuar a meliorar lo. Un donation nos permittera de pagar le programmatores e infrastructura necessari.
 
-about-paragraph-2 = <b>Thunderbird es financiate per usatores como te! Si tu ama Thunderbird, considera facer un donation.</b> Le melior maniera pro esser certe que Thunderbird resta disponibile es de
-about-donation = face un donation
-
 about-paragraph-consider-donation = <b>Thunderbird es financiate per usatores como te! Si tu ama Thunderbird, considera facer un donation.</b> Le melior maniera pro esser certe que Thunderbird resta disponibile es de <a data-l10n-name="donation-link"> facer un donation</a>.
 
 explore-link = Discoperi le functionalitates

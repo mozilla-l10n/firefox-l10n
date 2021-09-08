@@ -5,16 +5,6 @@
 
 ## Import Logins Autocomplete
 
-# Variables:
-#   $browser (String) - Browser name to import logins from.
-#   $host (String) - Host name of the current site.
-autocomplete-import-logins =
-    <div data-l10n-name="line1">Importa tu credentiales de { $browser }</div>
-    <div data-l10n-name="line2">pro { $host } e altere sitos</div>
-
-autocomplete-import-logins-info =
-    .tooltiptext = Saper plus
-
 ## Variables:
 ##   $host (String) - Host name of the current site.
 

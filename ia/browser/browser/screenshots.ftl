@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Capturar un instantaneo de schermo
-
-screenshots-my-shots-button = Mi instantaneos
-
 screenshot-toolbarbutton =
     .label = Instantaneo de schermo
     .tooltiptext = Prende un instantaneo
@@ -40,8 +36,6 @@ screenshots-login-error-details = Nos non pote salvar tu instantaneo perque il h
 
 screenshots-unshootable-page-error-title = Impossibile capturar iste pagina.
 screenshots-unshootable-page-error-details = Isto non es un pagina Web normal, assi que tu non pote prender un captura de schermo de illo.
-
-screenshots-self-screenshot-error-title = Tu non pote prender un instantaneo de un pagina de { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Tu selection es troppo micre
 
