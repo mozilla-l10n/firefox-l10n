@@ -11,13 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "დ">
 <!ENTITY aboutProduct2.label "&brandShorterName; – შესახებ">
 <!ENTITY aboutProduct2.accesskey "შ">
-<!ENTITY helpTroubleshootingInfo.label     "მონაცემები გაუმართაობის მოსაგვარებლად">
-<!ENTITY helpTroubleshootingInfo.accesskey "მ">
-<!ENTITY helpSafeMode.label     "ხელახლა გაშვება გამორთული დამატებებით...">
-<!ENTITY helpSafeMode.accesskey "ხ">
 
-<!ENTITY helpSafeMode.stop.label     "ხელახლა გაშვება ჩართული დამატებებით">
-<!ENTITY helpSafeMode.stop.accesskey "ხ">
 <!ENTITY productHelp.label "&brandShortName; – დახმარება">
 <!ENTITY productHelp.accesskey "დ">
 <!ENTITY productHelp.commandkey "VK_F1">

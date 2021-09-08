@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = { -brand-short-name } პარამეტრები
 
 open-addons-sidebar-button = დანამატები და თემები
+

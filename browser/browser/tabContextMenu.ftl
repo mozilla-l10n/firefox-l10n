@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = ჩანართის ჩანიშვნა
     .accesskey = ვ
-reopen-in-container =
-    .label = ხელახლა გახსნა სათავსში
-    .accesskey = ე
 tab-context-open-in-new-container-tab =
     .label = გახსნა ახალ სათავს ჩანართში
     .accesskey = თ
@@ -69,25 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = რამდენიმე ჩანართის დახურვა
     .accesskey = რ
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] დახურული ჩანართის დაბრუნება
-           *[other] დახურული ჩანართების დაბრუნება
-        }
-    .accesskey = ბ
-close-tab =
-    .label = ჩანართის დახურვა
-    .accesskey = ხ
-close-tabs =
-    .label = ჩანართების დახურვა
-    .accesskey = ბ
-move-tabs =
-    .label = ჩანართების გადატანა
-    .accesskey = ტ
-move-tab =
-    .label = ჩანართის გადატანა
-    .accesskey = ტ
 tab-context-share-url =
     .label = გაზიარება
     .accesskey = ზ
@@ -125,6 +103,7 @@ tab-context-move-tabs =
            *[other] ჩანართების გადატანა
         }
     .accesskey = ტ
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

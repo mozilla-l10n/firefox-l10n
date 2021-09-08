@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = OTR-გასაღების ანაბეჭდები ადრინდელი გამჭოლად დაშიფრული საუბრებიდან.
 
-finger-screenName =
-    .label = პირი
-
 finger-screen-name =
     .label = პირი
 finger-verified =

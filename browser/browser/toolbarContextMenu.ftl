@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = ყველა ჩანართის შერჩევა
     .accesskey = შ
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] დახურული ჩანართის დაბრუნება
-           *[other] დახურული ჩანართების დაბრუნება
-        }
-    .accesskey = ბ
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = ჩამოსაშლელ მენიუში მიმაგრება
     .accesskey = გ
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = ხელსაწყოთა ზოლის თვითდამალვა
-    .accesskey = ვ
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = ღილაკის დამალვა როცა ცარიელია
     .accesskey = დ

@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "გასუფთავება">
 
-<!ENTITY fillLoginMenu.label          "შესვლის მონაცემების შევსება">
-<!ENTITY fillLoginMenu.accesskey      "მ">
-<!ENTITY fillPasswordMenu.label       "პაროლის შევსება">
-<!ENTITY fillPasswordMenu.accesskey   "პ">
-<!ENTITY fillUsernameMenu.label       "მომხმარებლის სახელის შევსება">
-<!ENTITY fillUsernameMenu.accesskey   "შ">
-<!ENTITY noLoginSuggestions.label     "(შესვლის შემოთავაზებები არაა)">
-<!ENTITY viewSavedLogins.label        "შენახული შესვლების ნახვა">

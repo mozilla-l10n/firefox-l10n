@@ -5,13 +5,6 @@
 close-button =
     .aria-label = დახურვა
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] პარამეტრები
-           *[other] პარამეტრები
-        }
-
 preferences-doc-title = პარამეტრები
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &გაუქმება
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
 
-addons-button = გაფართოებები და თემები
-
 account-button = ანგარიშის პარამეტრები
 open-addons-sidebar-button = დამატებები და თემები
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = მთავარი პაროლის შესაქმნელად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ დაიცვათ თქვენი ანგარიშების უსაფრთხოება.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = მთავარი პაროლის დასაყენებლად
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = მთავარი პაროლის შესაქმნელად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ დაიცვათ თქვენი ანგარიშების უსაფრთხოება.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = მორგება…
     .accesskey = გ
-
-tray-icon-label =
-    .label = ხატულას ჩვენება სიტემურ ქვედა ზოლზე
-    .accesskey = t
 
 biff-use-system-alert =
     .label = სისტემის შეტყობინებების გამოყენება
@@ -425,9 +403,6 @@ smaller-size-item =
 quoted-text-color =
     .label = ფერი:
     .accesskey = ფ
-
-search-input =
-    .placeholder = ძიება
 
 search-handler-table =
     .placeholder = შიგთავსის სახეობებისა და მოქმედებების გაფილტვრა
@@ -719,16 +694,6 @@ passwords-button =
     .label = შენახული პაროლები…
     .accesskey = შ
 
-master-password-description = მთავარი პაროლი იცავს ყველა თქვენს პაროლს და მისი მითითება სეანსზე ერთხელ მოგიწევთ.
-
-master-password-label =
-    .label = მთავარი პაროლის გამოყენება
-    .accesskey = მ
-
-master-password-button =
-    .label = მთავარი პაროლის შეცვლა…
-    .accesskey = ც
-
 
 primary-password-description = მთავარი პაროლი იცავს ყველა თქვენს პაროლს და მისი მითითება სეანსზე ერთხელ მოგიწევთ.
 
@@ -909,26 +874,6 @@ no-preview-description = ეს თემა არათავსებად�
 chat-variant-label =
     .value = ვარიანტი:
     .accesskey = ვ
-
-chat-header-label =
-    .label = ზედა ნაწილის ჩვენება
-    .accesskey = ჩ
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] პარამეტრებში მონახვა
-           *[other] პარამეტრებში მონახვა
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

@@ -6,9 +6,6 @@ password-quality-meter = პაროლის ხარისხმზომი
 
 ## Change Password dialog
 
-change-password-window =
-    .title = მთავარი პაროლის შეცვლა
-
 change-device-password-window =
     .title = პაროლის შეცვლა
 
@@ -20,10 +17,6 @@ change-password-new = ახალი პაროლი:
 change-password-reenter = ახალი პაროლი (კვლავ):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = მთავარი პაროლის განულება
-    .style = width: 40em
 
 pippki-failed-pw-change = პაროლის შეცვლა, ვერ ხერხდება.
 pippki-incorrect-pw = თქვენ მიერ მითითებული მიმდინარე პაროლი მცდარია. სცადეთ ხელახლა.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = განულება
-reset-password-text = მთავარი პაროლის განულებით, დაიკარგება თქვენ მიერ შენახული ყველა ანგარიშისა და ელფოსტის პაროლი, შევსებული ველების მონაცემები, პირადი სერტიფიკატები. ნამდვილად გსურთ გაანულოთ მთავარი პაროლი?
 
 reset-primary-password-text = მთავარი პაროლის განულებით, დაიკარგება თქვენ მიერ შენახული ყველა ანგარიშისა და ელფოსტის პაროლი, შევსებული ველების მონაცემები, პირადი სერტიფიკატები. ნამდვილად გსურთ გაანულოთ მთავარი პაროლი?
 

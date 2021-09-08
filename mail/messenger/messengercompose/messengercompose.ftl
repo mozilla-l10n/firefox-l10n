@@ -6,9 +6,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = { $type } ველის მოცილება
-
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = { $type } ველის მოცილება
 
@@ -94,18 +91,6 @@ attachment-bucket-count =
         }
     .accesskey = ნ
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext =
-        { $count ->
-            [1] { $count } დანართი
-           *[other] { $count } დანართი
-        }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 expand-attachment-pane-tooltip =
     .tooltiptext = დანართის არის გამოჩენა ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
@@ -138,6 +123,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = ქვითარი
     .tooltiptext = ქვითრის მოთხოვნა ამ წერილისთვის
+
+# Encryption
 
 # Addressing Area
 
@@ -182,6 +169,7 @@ bcc-compose-show-address-row-label =
 
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = ველებში მითითებული { $count } მიმღები იხილავს ერთმანეთის მისამართს. ამის ასარიდებლად, შეგიძლიათ გამოიყენოთ ფარული (Bcc) ველი.
+
 
 many-public-recipients-bcc =
     .label = ფარული ასლებით შეცვლა

@@ -47,11 +47,6 @@
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
 
-<!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "გადაფორმატება">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "w">
-
 <!ENTITY accountManagerCmd.label "ფოსტისა და ჯგუფების ანგარიშთა პარამეტრები…">
 <!ENTITY accountManagerCmd.accesskey "m">
 

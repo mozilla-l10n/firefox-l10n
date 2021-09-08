@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = უნაჭდევო
 
-font-size-label =
-    .value = ზომა:
-    .accesskey = გ
-
 font-size-proportional-label =
     .value = ზომა:
     .accesskey = ო

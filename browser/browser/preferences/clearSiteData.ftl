@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = ვებსაიტები საჭიროებს სურათების და მონაცემების განსაახლებლად
 
-clear-site-data-cancel =
-    .label = გაუქმება
-    .accesskey = ქ
-
-clear-site-data-clear =
-    .label = გასუფთავება
-    .accesskey = ფ
-
 clear-site-data-dialog =
     .buttonlabelaccept = გასუფთავება
     .buttonaccesskeyaccept = ფ

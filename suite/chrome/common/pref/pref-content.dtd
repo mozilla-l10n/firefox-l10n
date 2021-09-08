@@ -33,10 +33,11 @@
 <!ENTITY defaultZoom.label                      "ნაგულისხმევი ზომა">
 <!ENTITY defaultZoom.accesskey                  "გ">
 
-<!ENTITY siteSpecific.label                     "მასშტაბების დამახსოვრება ცალკეული საიტებისათვის">
-<!ENTITY siteSpecific.accesskey                 "მ">
 <!ENTITY textZoomOnly.label                     "მხოლოდ ტექსტის მასშტაბირება ნაცვლად გვერდისა">
 <!ENTITY textZoomOnly.accesskey                 "ხ">
+<!ENTITY siteSpecific.label                     "მასშტაბების დამახსოვრება ცალკეული საიტებისათვის">
+<!ENTITY siteSpecific.accesskey                 "მ">
+<!ENTITY showZoomStatusPanel.label              "ზომის სამართავის ჩვენება მდგომარეობის ზოლში">
 <!ENTITY enableAutomaticImageResizing.label     "დიდი ზომის გამოსახულებათა ბრაუზერის ფანჯრის ზომაზე მორგება">
 <!ENTITY enableAutomaticImageResizing.accesskey "ო">
 
@@ -45,4 +46,3 @@
 <!ENTITY blockAutoRefresh.label                 "გაფრთხილება საიტის მიერ გადამისამართების ან გვერდის განახლების მცდელობისას">
 <!ENTITY blockAutoRefresh.accesskey             "ფ">
 
-<!ENTITY showZoomStatusPanel.label              "ზომის სამართავის ჩვენება მდგომარეობის ზოლში">

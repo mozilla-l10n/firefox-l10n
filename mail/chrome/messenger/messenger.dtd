@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "ამობეჭდვა…">
 <!ENTITY printCmd.accesskey "ო">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "შეთვალიერება ამობეჭდვამდე">
-<!ENTITY printPreviewCmd.accesskey "ე">
-<!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
-<!ENTITY printSetupCmd.accesskey "გ">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "წერილის წაშლა">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "ბ">
 <!ENTITY compactVersion.label "შემჭიდროებული ჩვენება">
 <!ENTITY compactVersion.accesskey "შ">
-<!ENTITY folderPaneBar.label "ხელსაწყოები საქაღალდის არეში">
-<!ENTITY folderPaneBar.accesskey "ს">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "დალაგება">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "წიგნაკი">
 <!ENTITY addressBookCmd.accesskey "წ">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "დამატებები">
-<!ENTITY addons.accesskey "ა">
-<!ENTITY addonPrefs.label "დამატების პარამეტრები">
-<!ENTITY addonPrefs.accesskey "რ">
-<!ENTITY addonPrefsUnix.label "დამატების პარამეტრები">
-<!ENTITY addonPrefsUnix.accesskey "პ">
 <!ENTITY addonNoPrefs.label "დამატებების პარამეტრები ვერ მოიძებნა.">
 <!ENTITY activitymanager.label "მოქმედებების მმართველი">
 <!ENTITY activitymanager.accesskey "რ">
@@ -520,8 +508,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "დამატებების გამართვა">
 <!ENTITY debugAddonsCmd.accesskey "დ">
-<!ENTITY tabsDebugCmd.label "შიგთავსის კადრის გამმართველი">
-<!ENTITY tabsDebugCmd.accesskey "შ">
 <!ENTITY errorConsoleCmd.label "შეცდომების კონსოლი">
 <!ENTITY errorConsoleCmd.accesskey "ე">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -545,15 +531,11 @@
 <!ENTITY backButton1.label "უკან დაბრუნება">
 <!ENTITY goForwardButton1.label "წინ გადასვლა">
 <!ENTITY deleteItem.title "წაშლა">
-<!ENTITY deleteButton.label "წაშლა">
-<!ENTITY undeleteButton.label "აღდგენა">
 <!ENTITY markButton.label "მონიშვნა">
 <!ENTITY printButton.label "ბეჭდვა">
 <!ENTITY stopButton.label "შეჩერება">
 <!ENTITY throbberItem.title "აქტიობის მაჩვენებელი">
 <!ENTITY junkItem.title "ჯართი">
-<!ENTITY junkButton.label "ჯართი">
-<!ENTITY notJunkButton.label "არა ჯართი">
 <!ENTITY addressBookButton.label "წიგნაკი">
 <!ENTITY chatButton.label "სასაუბრო">
 <!ENTITY glodaSearch.title "გლობალური ძიება">
@@ -585,19 +567,14 @@
 <!ENTITY previousMsgButton.tooltip "გადასვლა წინა წერილზე">
 <!ENTITY goForwardButton.tooltip "მომდევნო წერილზე გადასვლა">
 <!ENTITY goBackButton.tooltip "წინა წერილზე დაბრუნება">
-<!ENTITY deleteButton.tooltip "მონიშნული წერილის ან საქაღალდის წაშლა">
-<!ENTITY undeleteButton.tooltip "მონიშნული წერილის აღდგენა">
 <!ENTITY markButton.tooltip "წერილების მონიშვნა">
 <!ENTITY printButton.tooltip "წერილის დაბეჭდვა">
 <!ENTITY stopButton.tooltip "მიმდინარე გაგზავნის შეჩერება">
-<!ENTITY junkButton.tooltip "შერჩეული წერილების ჯართად მონიშვნა">
-<!ENTITY notJunkButton.tooltip "შერჩეული წერილების გამოსადეგად ჩათვლა">
 <!ENTITY addressBookButton.tooltip "წიგნაკზე გადასვლა">
 <!ENTITY chatButton.tooltip "სასაუბრო არეს ჩვენება">
 <!ENTITY tagButton.tooltip "წერილების დაჭდევება">
 <!ENTITY compactButton.tooltip "წაშლილი წერილების მოცილება შერჩეული საქაღალდიდან">
 <!ENTITY appmenuButton1.tooltip "&brandShortName; მენიუს ჩვენება">
-<!ENTITY addonsButton.tooltip "მართეთ თქვენი დამატებები">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "გადაგზავნა შიდა ტექსტის სახით">

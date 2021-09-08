@@ -4,12 +4,6 @@
 
 <!-- extracted from ./customize.xul -->
 
-<!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "&sidebarName; - მორგება">
-<!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "&sidebarName; - ჩანართები:">
-<!ENTITY sidebar.customize.current.accesskey    "ა">
-
 <!ENTITY sidebar.customize.title                "გვერდითი ზოლის მორგება">
 <!ENTITY sidebar.customize.current2.label       "ჩანართები გვერდით ზოლზე:">
 <!ENTITY sidebar.customize.current2.accesskey   "გ">

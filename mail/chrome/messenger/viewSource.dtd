@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "გვერდის შენახვა როგორც…">
 <!ENTITY savePageCmd.accesskey "ო">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "გვერდის პარამეტრები…">
-<!ENTITY pageSetupCmd.accesskey "პ">
-<!ENTITY printPreviewCmd.label "შეთვალიერება ამობეჭდვამდე">
-<!ENTITY printPreviewCmd.accesskey "მ">
 <!ENTITY printCmd.label "ამობეჭდვა…">
 <!ENTITY printCmd.accesskey "ბ">
 <!ENTITY printCmd.commandkey "P">

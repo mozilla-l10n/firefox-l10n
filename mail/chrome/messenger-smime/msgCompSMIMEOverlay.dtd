@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "წერილის ციფრულად ხელმოწერა">
 <!ENTITY menu_securitySign.accesskey "ც">
 
-<!ENTITY menu_securityAttachMyKey.label "ჩემი საჯაროს გასაღების დართვა">
-<!ENTITY menu_securityAttachMyKey.accesskey "დ">
-
 <!ENTITY menu_securityTech.label "დაშიფვრის საშუალება">
 <!ENTITY menu_securityTech.accesskey "უ">
 

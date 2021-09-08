@@ -35,9 +35,6 @@ connection-proxy-http = HTTP პროქსი
     .accesskey = H
 connection-proxy-http-port = პორტი
     .accesskey = პ
-connection-proxy-http-sharing =
-    .label = აგრეთვე, ამ პროქსის გამოყენება FTP-სა და HTTPS-ისთვის
-    .accesskey = გ
 
 connection-proxy-https-sharing =
     .label = აგრეთვე, ამ პროქსის გამოყენება HTTPS-ისთვის
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS-პროქსი
     .accesskey = H
 connection-proxy-ssl-port = პორტი
     .accesskey = ო
-
-connection-proxy-ftp = FTP პროქსი
-    .accesskey = F
-connection-proxy-ftp-port = პორტი
-    .accesskey = რ
 
 connection-proxy-socks = SOCKS ჰოსტი
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = არ იქნება გამოყენებ
     .accesskey = ა
 
 connection-proxy-noproxy-desc = მაგალითი: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = ადგილობრივი კავშირები, 127.0.0.1 და ::1 არასდროს გამოიყენებს პროქსის.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = ადგილობრივი კავშირები, 127.0.0.1/8, ამასთან ::1 არასდროს გამოიყენებს პროქსის.

@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = ქსელის მდგომარეობის ავტომატური დადგენა
     .accesskey = ვ
 
-startup-label = მდგომარეობის ხელით დადგენა გაშვებისას:
-
 offline-preference-startup-label = მდგომარეობის ხელით დადგენა გაშვებისას:
 
 status-radio-remember =

@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = ყველა საიტის მოცილება
     .accesskey = ყ
 
-permissions-button-cancel =
-    .label = გაუქმება
-    .accesskey = გ
-
-permissions-button-ok =
-    .label = ცვლილებების შენახვა
-    .accesskey = შ
-
 permission-dialog =
     .buttonlabelaccept = ცვლილებების შენახვა
     .buttonaccesskeyaccept = შ

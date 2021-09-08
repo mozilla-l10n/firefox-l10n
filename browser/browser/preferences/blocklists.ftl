@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = სია
 
-blocklist-button-cancel =
-    .label = გაუქმება
-    .accesskey = გ
-
-blocklist-button-ok =
-    .label = ცვლილებების შენახვა
-    .accesskey = შ
-
 blocklist-dialog =
     .buttonlabelaccept = ცვლილებების შენახვა
     .buttonaccesskeyaccept = შ

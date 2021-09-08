@@ -279,6 +279,8 @@ exchange-dialog-confirm-button = შესვლა
 
 exchange-dialog-cancel-button = გაუქმება
 
+## Dismiss account creation dialog
+
 ## Alert dialogs
 
 account-setup-creation-error-title = შეცდომა ანგარიშის შექმნისას

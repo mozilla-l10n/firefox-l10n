@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = როგორ მუშაობს
 
-turn-on-sync = ჩართეთ { -sync-brand-short-name }…
-    .title = იხილეთ სინქრონიზაციის პარამეტრები
-
 monitor-title = თვალი ადევნეთ მონაცემების მიტაცების შემთხვევებს
 monitor-link = როგორ მუშაობს
 monitor-header-content-no-account = გამოცადეთ { -monitor-brand-name } და ნახეთ, თქვენი ინფორმაცია აღმოჩენილია თუ არა ცნობილ მიტაცებულ მონაცემებს შორის და მიიღეთ შეტყობინებები, ახალი შემთხვევების შესახებ.

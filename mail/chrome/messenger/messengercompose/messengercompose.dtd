@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "ახალი">
 <!ENTITY newMenu.accesskey "ა">
 <!ENTITY newMessage.label "წერილი">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "წ">
 <!ENTITY newContact.label "პირი წიგნაკიდან…">
 <!ENTITY newContact.accesskey "კ">
 <!ENTITY attachMenu.label "მიმაგრება">
 <!ENTITY attachMenu.accesskey "მ">
-<!ENTITY attachFileCmd.label "ფაილ(ებ)ი…">
-<!ENTITY attachFileCmd.accesskey "ფ">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "ფაილის ბმული">
 <!ENTITY attachCloudCmd.accesskey "ბ">
 <!ENTITY attachPageCmd.label "ვებგვერდი…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "გაგზავნა მოგვიანებით">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "მ">
-<!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
-<!ENTITY printSetupCmd.accesskey "პ">
-<!ENTITY printPreviewCmd.label "შეთვალიერება ამობეჭდვამდე">
-<!ENTITY printPreviewCmd.accesskey "შ">
 <!ENTITY printCmd.label "ბეჭდვა…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "ბ">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "დანართების გადალაგება…">
 <!ENTITY reorderAttachmentsCmd.accesskey "ლ">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "დანართის არე">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "დ">
 <!ENTITY selectAllCmd.accesskey "შ">
 <!ENTITY findBarCmd.label "პოვნა…">
 <!ENTITY findBarCmd.accesskey "ო">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "დანართების გადალაგება">
-<!ENTITY moveAttachmentTopPanelBtn.label "დასაწყისში გადატანა">
-<!ENTITY moveAttachmentUpPanelBtn.label "აწევა">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "ერთად გადატანა">
-<!ENTITY moveAttachmentDownPanelBtn.label "ჩამოწევა">
-<!ENTITY moveAttachmentBottomPanelBtn.label "ბოლოში გადატანა">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "ანგარიშის პარამეტრები">
 <!ENTITY accountManagerCmd2.accesskey "პ">
 <!ENTITY accountManagerCmdUnix2.accesskey "რ">
-<!ENTITY preferencesCmd2.label "პარამეტრები">
-<!ENTITY preferencesCmd2.accesskey "მ">
-<!ENTITY preferencesCmdUnix.label "პარამეტრები">
-<!ENTITY preferencesCmdUnix.accesskey "ტ">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "გაგზავნა">
 <!ENTITY quoteButton.label "ციტირება">
 <!ENTITY addressButton.label "მისამართი">
-<!ENTITY attachButton.label "მიმაგრება">
 <!ENTITY spellingButton.label "მართლწერა">
 <!ENTITY saveButton.label "ჩაწერა">
 <!ENTITY printButton.label "ბეჭდვა">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "წერილის მოგვიანებით გაგზავნა">
 <!ENTITY quoteButton.tooltip "საწყისი წერილის ციტირება">
 <!ENTITY addressButton.tooltip "მიმღების არჩევა წიგნაკიდან">
-<!ENTITY attachButton.tooltip2 "დანართის მიმაგრება">
 <!ENTITY spellingButton.tooltip "მონიშნულის ან მთელი წერილის მართლწერის შემოწმება">
 <!ENTITY saveButton.tooltip "წერილის შენახვა">
 <!ENTITY cutButton.tooltip              "ამოჭრა">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "სხვა სახის მისამართების ველები">
 <!ENTITY fromAddr2.label "ვისგან">
 <!ENTITY fromAddr.accesskey "ვ">
-<!ENTITY toAddr2.label "ვის">
-<!ENTITY ccAddr2.label "ასლი">
-<!ENTITY bccAddr2.label "ფარული ასლი">
 <!ENTITY replyAddr2.label "პასუხი ვის">
 <!ENTITY newsgroupsAddr2.label "სიახლეთა ჯგუფი">
 <!ENTITY followupAddr2.label "კრებას:">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "ყ">
 <!ENTITY selectAll.label "ყველას მონიშვნა">
 <!ENTITY selectAll.accesskey "ს">
-<!ENTITY attachFile.label "ფაილ(ებ)ის მიმაგრება…">
-<!ENTITY attachFile.accesskey "ფ">
 <!ENTITY attachCloud.label "ფაილის ბმული…">
 <!ENTITY attachCloud.accesskey "ი">
 <!ENTITY convertCloud.label "გარდაქმნა…">
