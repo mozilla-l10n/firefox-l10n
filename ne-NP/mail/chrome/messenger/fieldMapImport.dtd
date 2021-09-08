@@ -39,10 +39,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "ठेगाना पुस्तिका आयात गर्नुहोस्">
-
 <!ENTITY fieldMapImport.size "चौडाइ: 40em; उचाइ: 30em;">
-<!ENTITY fieldMapImport.recordNumber "रेकर्डका लागि आयात गरिएका डेटा:">
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "दायाँपट्टि आयातका लागि सही डेटा सुधार गर्न बायाँपट्टिका ठेगाना पुस्तिका मिलाउन 'माथि सार्नुहोस्' र 'तल सार्नुहोस्' प्रयोग गर्नुहोस् । तपाईँले आयात गर्न नचाहनुभएका वस्तुहरू जाँचबाट हटाउनुहोस् ।">

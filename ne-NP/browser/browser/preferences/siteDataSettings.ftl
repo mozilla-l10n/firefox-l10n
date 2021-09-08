@@ -20,14 +20,6 @@ site-data-remove-selected =
     .label = चयन गरिएको हटाउनुहोस्
     .accesskey = r
 
-site-data-button-cancel =
-    .label = रद्द गर्नुहोस्
-    .accesskey = C
-
-site-data-button-save =
-    .label = परिवर्तनहरू संग्रह गर्नुहोस्
-    .accesskey = a
-
 site-data-remove-all =
     .label = सबै हटाउनुहोस्
     .accesskey = e

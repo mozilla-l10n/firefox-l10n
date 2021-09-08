@@ -24,10 +24,6 @@ move-to-new-window =
     .label = नयाँ सञ्झ्यालमा सार्नुहोस्
     .accesskey = W
 
-close-tab =
-    .label = ट्याब बन्द गर्नुहोस्
-    .accesskey = C
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 

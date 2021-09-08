@@ -11,13 +11,9 @@
 <!ENTITY newMenu.label "नयाँ">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "सन्देश">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY attachMenu.label "सङ्लग्न गर्नुहोस्">
 <!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "फाइल (हरू)...">
-<!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "वेब पृष्ठ...">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -43,8 +39,6 @@
 <!ENTITY sendLaterCmd.label "पछि पठाउनुहोस्">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "पृष्ठ सेटअप...">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "मुद्रण गर्नुहोस्...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
@@ -140,8 +134,6 @@
 <!ENTITY messengerCmd.commandkey "१">
 <!ENTITY addressBookCmd.label "ठेगाना पुस्तिका">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY preferencesCmdUnix.label "प्राथमिकता">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
@@ -156,7 +148,6 @@
 <!ENTITY sendButton.label "पठाउनुहोस्">
 <!ENTITY quoteButton.label "उद्धरण">
 <!ENTITY addressButton.label "सम्पर्क">
-<!ENTITY attachButton.label "सङ्लग्न गर्नुहोस्">
 <!ENTITY spellingButton.label "हिज्जे">
 <!ENTITY saveButton.label "बचत गर्नुहोस्">
 <!-- Mail Toolbar Tooltips -->
@@ -218,8 +209,6 @@
 <!ENTITY delete.accesskey "D">
 <!ENTITY selectAll.label "सबै चयन गर्नुहोस्">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "फाइल(हरू) सङ्लग्न गर्नुहोस्...">
-<!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "वेब पृष्ठ सङ्लग्न गर्नुहोस्...">
 <!ENTITY attachPage.accesskey "W">
 <!-- Title for the address picker panel -->

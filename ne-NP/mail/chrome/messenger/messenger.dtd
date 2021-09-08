@@ -46,10 +46,6 @@
 <!ENTITY printCmd.label "मुद्रण गर्नुहोस्...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "पूर्वावलोकन मुद्रण गर्नुहोस्">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "पृष्ठ सेटअप...">
-<!ENTITY printSetupCmd.accesskey "u">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "सन्देश मेट्नुहोस्">
@@ -334,8 +330,6 @@
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY addressBookCmd.label "ठेगाना पुस्तिका">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addons.label "एड-अन्स">
-<!ENTITY addons.accesskey "d">
 <!ENTITY filtersApply.label "फोल्डरमा फिल्टर चलाउनुहोस्">
 <!ENTITY filtersApply.accesskey "R">
 <!-- Help Menu -->
@@ -361,13 +355,10 @@
 <!ENTITY previousButton.label "अघिल्लो">
 <!ENTITY backButton1.label "पछाडि">
 <!ENTITY goForwardButton1.label "अगाडि">
-<!ENTITY deleteButton.label "मेट्नुहोस्">
 <!ENTITY markButton.label "चिनो">
 <!ENTITY printButton.label "मुद्रण गर्नुहोस्">
 <!ENTITY stopButton.label "रोक्नुहोस्">
 <!ENTITY throbberItem.title "क्रियाकलाप सूचक">
-<!ENTITY junkButton.label "जङ्क">
-<!ENTITY notJunkButton.label "जङ्क होइन">
 <!ENTITY addressBookButton.label "ठेगाना पुस्तिका">
 <!ENTITY searchItem.title "द्रुत खोजी">
 <!ENTITY mailViewsToolbarItem.title "मेल दृश्य">
@@ -387,12 +378,9 @@
 <!ENTITY previousButton.tooltip "अघिल्लो नपढेका सन्देशमा सार्नुहोस्">
 <!ENTITY goForwardButton.tooltip "एक सन्देश अगाडि जानुहोस्">
 <!ENTITY goBackButton.tooltip "एक सन्देश पछाडि जानुहोस्">
-<!ENTITY deleteButton.tooltip "चयन गरिएका सन्देश वा फोल्डर मेट्नुहोस्">
 <!ENTITY markButton.tooltip "सन्देशलाई चिनो लगाउनुहोस्">
 <!ENTITY printButton.tooltip "यो सन्देश मुद्रण गर्नुहोस्">
 <!ENTITY stopButton.tooltip "हालको स्थानान्तरण रोक्नुहोस्">
-<!ENTITY junkButton.tooltip "चयन गरिएका सन्देश जङ्कका रूपमा चिनो लगाउनुहोस्">
-<!ENTITY notJunkButton.tooltip "चयन गरिएका सन्देशलाई जङ्क नभएको रूपमा चिनो लगाउनुहोस्">
 <!ENTITY addressBookButton.tooltip "ठेगाना पुस्तिकामा जानुहोस्">
 <!ENTITY tagButton.tooltip "ट्याग सन्देश">
 <!-- Tags Menu Popup -->

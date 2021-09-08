@@ -107,9 +107,6 @@ menu-file-go-offline =
 menu-edit =
     .label = सम्पादन गर्नुहोस्
     .accesskey = E
-menu-edit-find-on =
-    .label = यो पृष्ठमा फेला पार्नुहोस्
-    .accesskey = F
 menu-edit-find-again =
     .label = फेरि फेला पार्नुहोस्
     .accesskey = g
@@ -125,9 +122,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = टुलबारहरू
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = अनुकुलित बनाउनुहोस्...
-    .accesskey = C
 menu-view-sidebar =
     .label = साइडबार
     .accesskey = e
@@ -158,9 +152,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = आधारभूत पृष्ठ शैली
     .accesskey = B
-menu-view-charset =
-    .label = टेक्स्ट इन्कोडिङ
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -207,10 +198,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = पुस्तकचिनोहरू
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = सबै पुस्तकचिनोहरू देखाउनुहोस्
-menu-bookmark-this-page =
-    .label = यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्
 menu-bookmark-edit =
     .label = यो पुस्तकचिनोलाई सम्पादन गर्नुहोस्
 menu-bookmarks-all-tabs =
@@ -230,32 +217,15 @@ menu-tools =
 menu-tools-downloads =
     .label = डाउनलोडहरू
     .accesskey = D
-menu-tools-addons =
-    .label = एडअनहरू
-    .accesskey = A
 menu-tools-sync-now =
     .label = अहिले सिङ्क गर्नुहोस्
     .accesskey = S
-menu-tools-web-developer =
-    .label = वेब डेभेलोपर
-    .accesskey = W
 menu-tools-page-source =
     .label = पृष्ठ स्रोत
     .accesskey = o
 menu-tools-page-info =
     .label = पृष्ठ जानकारी
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] विकल्पहरू
-           *[other] प्राथमिकताहरू…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = सजावट त्रुटिमोचक
     .accesskey = L
@@ -290,29 +260,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = सहयोग
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } सहयोग
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Tour
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = कुञ्जीपाटी सर्टकटहरू
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = समस्या समाधानको सूचना
-    .accesskey = T
 menu-help-report-site-issue =
     .label = साइटको समस्या दर्ता गर्नुहोस्‌…
 menu-help-feedback-page =
     .label = प्रतिक्रिया दिनुहोस्…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = एडअनहरू अक्षम पारेर पुनःसुरु गर्नुहोस् …
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = एडअनहरू सक्षम पारेर पुनःसुरु गर्नुहोस्
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

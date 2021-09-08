@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = सबै साइट हटाउनुहोस्
     .accesskey = e
 
-permissions-button-cancel =
-    .label = रद्द गर्नुहोस्
-    .accesskey = C
-
-permissions-button-ok =
-    .label = परिवर्तनहरू सङ्ग्रह गर्नुहोस्
-    .accesskey = S
-
 permissions-searchbox =
     .placeholder = वेबसाइट खोज्नुहोस्
 
