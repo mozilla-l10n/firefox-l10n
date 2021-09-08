@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Tekotevẽ ñanduti renda omyenyhẽjey ta’ãnga ha mba’ekuaarã
 
-clear-site-data-cancel =
-    .label = Heja
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Mopotĩ
-    .accesskey = I
-
 clear-site-data-dialog =
     .buttonlabelaccept = Mopotĩ
     .buttonaccesskeyaccept = I

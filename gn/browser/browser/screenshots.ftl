@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Ejapo mba’erechaha japyhypy
-
-screenshots-my-shots-button = Che japyhypy
-
 screenshot-toolbarbutton =
     .label = Mba’erechaha japyhy
     .tooltiptext = Ejapyhy mba’erechaha
@@ -40,8 +36,6 @@ screenshots-login-error-details = Ndaikatúi roñongatu pe japyhypy oĩ rupi apa
 
 screenshots-unshootable-page-error-title = Ndaikatúi rojapyhy ko kuatiarogue.
 screenshots-unshootable-page-error-details = Kóva ndaha’éi ñanduti kuatiarogue ypykuéva, péicha rupi ndaikatúi roñongatu japyhypy.
-
-screenshots-self-screenshot-error-title = Ndaikatúi jajapo peteĩ japyhypy { -screenshots-brand-name } kuatiaroguépe!
 
 screenshots-empty-selection-error-title = Pe jeporavo michĩeterei
 

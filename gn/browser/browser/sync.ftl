@@ -2,19 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxa-toolbar-sync-syncing =
-    .label = Embojuehehína…
-fxa-toolbar-sync-syncing-tabs =
-    .label = Embojuehe Tendayke…
-
-sync-disconnect-dialog-title = ¿ Ñesẽte { -sync-brand-short-name }?
-
 fxa-toolbar-sync-syncing2 = Embojuehehína…
 
 sync-disconnect-dialog-title2 = ¿Esẽtépa?
 sync-disconnect-dialog-body = { -brand-product-name } osẽta ne mba’etégui, hákatu nomboguemo’ãi kundaha mba’ekuaarã ko mba’e’oka pegua.
-fxa-disconnect-dialog-title = Esẽte { -brand-product-name }?
-fxa-disconnect-dialog-body = { -brand-product-name } osẽta ne mba’etégui, hákatu nomboguemo’ãi kundaha mba’ekuaarã ko mba’e’oka pegua.
 sync-disconnect-dialog-button = Ñesẽte
 
 fxa-signout-dialog2-title = ¿Emboty tembiapo { -fxaccount-brand-name }-pe?

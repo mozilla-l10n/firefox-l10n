@@ -6,9 +6,6 @@ password-quality-meter = Ñe’ẽñemi rekoporã ra’ãha
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Ñe’ẽñemi ha’etéva moambue
-
 change-device-password-window =
     .title = Emoambue ñe’ẽñemi
 
@@ -20,10 +17,6 @@ change-password-new = Ñe’ẽñemi pyahu:
 change-password-reenter = Ñe’ẽñemi pyahu: (ñemoneĩ):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Ñe’ẽñemi ha’etéva jeguerujey
-    .style = width: 40em
 
 pippki-failed-pw-change = Ndaikatúi emoambue ne’ẽñemi.
 pippki-incorrect-pw = Neremoingeporãi ne’ẽñemi ha’etéva ag̃aguáva. Eha’ãjey upe rire.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Mbojevyjey
-reset-password-text = Emoañete jeýramo neñe’ẽñemi ha’etéva, umi ñanduti neñe’ẽñemi ha ñanduti veve embyatypyre, umi myanyhẽha mba’ekuaarã, mboajepyréva avamba’etéva ha ñe’ẽñemi ñemiguáva hesaraipáta. ¿Añetehápe eguerusejey neñe’ẽñemi ha’etéva?
 
 reset-primary-password-text = Eguerujeýramo ne ñe’ẽñemi ha’etéva, opaite ñanduti ñe’ẽñemi ha ñandutiveve, mboajepyre nemba’éva, ha pe’aha ñemigua mbyatypyre ojehejareíta. ¿Añetehápe reguerusejey ne Ñe’ẽñemi Ha’etéva?
 

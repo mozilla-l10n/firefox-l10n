@@ -38,16 +38,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }-gui ñesẽ
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name }-gui ñesẽ
+
 menu-about =
     .label = { -brand-shorter-name } rehegua
     .accesskey = A
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Mbosako’i
     .accesskey = E
-menu-edit-find-on =
-    .label = Ko kuatiaroguépe jeheka…
-    .accesskey = F
 menu-edit-find-in-page =
     .label = Ejuhúta Kuatiaroguépe…
     .accesskey = F
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Tembiporu renda
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = Ñemomba’e…
-    .accesskey = C
 menu-view-customize-toolbar2 =
     .label = Emboava tembipuru renda…
     .accesskey = C
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Kuatiarogue mbohekoha ypygua
     .accesskey = B
-menu-view-charset =
-    .label = Moñe’ẽrã mbopapapy
-    .accesskey = c
 menu-view-repair-text-encoding =
     .label = Emoĩporã moñe’ẽrã ayvu
     .accesskey = c
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Embojurujajey opaite ovetã
 menu-bookmarks-menu =
     .label = Techaukaha
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = Opaite techaukaha jehechauka
-menu-bookmark-this-page =
-    .label = Kuatiarogue mbojoapy
 menu-bookmarks-manage =
     .label = Eñangareko Techaukaháre
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Ñemboguejy
     .accesskey = D
-menu-tools-addons =
-    .label = Moĩmbaha
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = Eñepyrũ tembiapo { -brand-product-name }-pe…
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = Emyandy { -sync-brand-short-name }...
-    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Moĩmbaha ha Téma
     .accesskey = A
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Eikejey { -brand-product-name }-pe...
     .accesskey = E
-menu-tools-web-developer =
-    .label = Ñanduti mboguatahára
-    .accesskey = W
 menu-tools-browser-tools =
     .label = Kundahára Rembipuru
     .accesskey = B
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Kuatiarogue rehegua marandu
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Jeporavorã
-           *[other] Jerohoryvéva
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-settings =
     .label = Ñemboheko
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Pytyvõ
     .accesskey = P
-menu-help-product =
-    .label = { -brand-shorter-name } Oipytyvõ
-    .accesskey = O
-menu-help-show-tour =
-    .label = { -brand-shorter-name } rehe jeguata
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = Egueru ambue kundahára guive…
-    .accesskey = l
-menu-help-keyboard-shortcuts =
-    .label = Tairenda mbopya’eha
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Marandu apañuãi myatyrõrã
-    .accesskey = T
 menu-get-help =
     .label = Eguereko pytyvõ
     .accesskey = H
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Temiandu mondo…
     .accesskey = T
-menu-help-safe-mode-without-addons =
-    .label = Moĩmbaha oguepyréva moñepyrũjey…
-    .accesskey = M
-menu-help-safe-mode-with-addons =
-    .label = Moĩmbaha oguepyréva moñepyrũjey
-    .accesskey = R
 menu-help-enter-troubleshoot-mode2 =
     .label = Mba’éicha emyatyrõta apañuãi…
     .accesskey = M

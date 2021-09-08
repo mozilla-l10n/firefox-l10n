@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Oguereko mboajepyréva ko’ã atyguasúpe omoha’eñóva
 certmgr-remembered = Ko’ã mboajepyréva ojepuru ojehecha hag̃ua ñanduti rendápe
 certmgr-people = Eguereko mboajepyréva marandurendápe oikuaaporãva ko’ã tapicha
-certmgr-servers = Eguereko mboajepyréva marandurendápe oikuaaporãva ko’ã mohendahavusúpe
 certmgr-server = Ko’ã jeikeha ohechakuaa jejavy mohendahavusu mboajepyréva rehegua
 certmgr-ca = Oreko mboajepyréva marandurendápe omoha’eñóva ko’ã moakãhára mboajehára
-
-certmgr-detail-general-tab-title =
-    .label = Opavavetépe
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Mba’emimi
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Ohechajeyhína ko’ág̃a pe mboajepyréva…
-
-certmgr-subject-label = Ojejapo chupe
-
-certmgr-issuer-label = Ojapóva pe
-
-certmgr-period-of-validity = Pa’ũ jepurukuaaha
-
-certmgr-fingerprints = Kuã rapykuere
-
-certmgr-cert-detail =
-    .title = Mboajepyréva mba’emimi
-    .buttonlabelaccept = Mboty
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = Téra heta oĩva (CN)
-
-certmgr-cert-detail-org = Atyguasu (O)
-
-certmgr-cert-detail-orgunit = Joaju ñembohekokatu (OU)
-
-certmgr-cert-detail-serial-number = Papapy syryry
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 kuã rapykuere
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 kuã rapykuere
 
 certmgr-edit-ca-cert =
     .title = Embosako’i ñemboheko jeroviaha CA mba’éva
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Mba’e’oka rekorasãrã
 
-certmgr-begins-on = Oñepyrũ amo
-
 certmgr-begins-label =
     .label = Oñepyrũ amo
-
-certmgr-expires-on = Oikóta ko’a peve
 
 certmgr-expires-label =
     .label = Oikóta ko’a peve
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Mba’egueru…
     .accesskey = m
-
-certmgr-details =
-    .value = Mboajepyréva reheguaite
-    .accesskey = F
-
-certmgr-fields =
-    .value = Ñu repy
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = Mboajepyréva Sãmbyhyhareko
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Oĩ’ỹva mbojoapy…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = ¿Añetehápepa emboguetese ko’ã mboajepyréva?
 delete-user-cert-impact = Emboguetéramo peteĩva umi nemboajepyréva, ndaikatumo’ãi eipuru ejehechauka hag̃ua ndete voi.
 
 
-delete-ssl-cert-title =
-    .title = Mohendahavusu mboajepyréva oĩ’ỹva mboguete
-delete-ssl-cert-confirm = ¿Añetehápepa remboguese ko’ã mohendahavusúpe oĩ’ỹva.
-delete-ssl-cert-impact = Emboguetéramo mohendahavusúpe oĩ’ỹva, ombojevýta umi tekorosãrã ñangarekoha tapiaguáva pe mohendahavusúpe g̃uarã ha oikotevẽta oipuru peteĩ mboajepyréva oikóva.
-
-
 delete-ssl-override-title =
     .title = Eliminar mohendahavusu mboajepyréva ykepegua
 delete-ssl-override-confirm = ¿Añetehápe emboguesete ko mohendahavusu ykepeguáva?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Mboajepyre papapy syryrýva: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Mboajepyréva rechaha: “{ $certName }”
-
-not-present =
-    .value = <Ndaha’eihína mboajepyréva rehegua>
-
-# Cert verification
-cert-verified = Ko mboajepyréva ojehechajeýma ko’ã jepurúpe g̃uarã:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL ñemuhára mboajepyréva
-
-verify-ssl-server =
-    .value = SSL mohendahavusu mboajepyréva
-
-verify-ssl-ca =
-    .value = SSP moakãhára mboajeha
-
-verify-email-signer =
-    .value = Oñemboheraguapýva ñanduti veve mboajepyréva
-
-verify-email-recip =
-    .value = Ñanduti veve g̃uahẽha mboajepyréva
-
-# Cert verification
-cert-not-verified-cert-revoked = Ndaikatúi ehechajey ko mboajepyréva ojejokóma rupi.
-cert-not-verified-cert-expired = Ndaikatúi ehechajey ko mboajepyréva ndoikovéima rupi.
-cert-not-verified-cert-not-trusted = Ndaikatuí ojehechajey ko mboajepyréva ndojejeroviái rupi hese.
-cert-not-verified-issuer-not-trusted = Ndaikatúi ehechajey ko mboajepyréva ndojejeroviái rupi pe apoháre.
-cert-not-verified-issuer-unknown = Ndaikatúi ehechajey ko mboajepyréva pe apoháre ndojeikuaái rupi.
-cert-not-verified-ca-invalid = Ndaikatúi ojehechajey ko mboajepyréva pe mboajepyréva CA mba’éva ndoikói rupi.
-cert-not-verified_algorithm-disabled = Ndaikatúi ojehechajey ko mboajepyréva oñemboheraguapy rupi oipurukuévo peteĩ algoritmo mboheraguapy rehegua ojehejapyréva nahekorosãi haguére.
-cert-not-verified-unknown = Ndaikatuí ojehechajey ko mboajepyréva ha ndojekuaái mba’éicha rupi.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Ani emondo ñemuhára mboajepyréva

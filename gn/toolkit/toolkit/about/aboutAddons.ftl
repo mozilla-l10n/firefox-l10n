@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Moĩmbaha ñangarekohára
-
 addons-page-title = Moĩmbaha ñangarekohára
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Moĩmbaha jokoha
 sidebar-help-button-title =
     .title = Moĩmbaha jokoha
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } Poravopyrã
-       *[other] { -brand-short-name } Jerohoryvéva
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } Poravopyrã
-           *[other] { -brand-short-name } Jerohoryvéva
-        }
-
 addons-settings-button = { -brand-short-name } Ñemboheko
 sidebar-settings-button-title =
     .title = { -brand-short-name } Ñemboheko
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Opaite mba’ejoapyrã jehecha
-
-cmd-show-details =
-    .label = Maranduve jehechauka
-    .accesskey = S
-
-cmd-find-updates =
-    .label = Ñembohekopyahu jeheka
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Jeporavorã
-           *[other] Jerohoryvéva
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Mbojeguaha Puru
-    .accesskey = M
-
-cmd-disable-theme =
-    .label = Anive eipuru ko Mbojeguaha
-    .accesskey = W
-
-cmd-install-addon =
-    .label = Mohenda
-    .accesskey = I
-
-cmd-contribute =
-    .label = Pytyvõ
-    .accesskey = C
-    .tooltiptext = Eipytyvõ moĩmbaha ñemboguatápe
 
 detail-version =
     .label = Peteĩchagua
@@ -393,8 +341,6 @@ dictionary-disabled-heading = Ojepuruve’ỹva
 
 locale-enabled-heading = Myandypyre
 locale-disabled-heading = Ojepuruve’ỹva
-
-ask-to-activate-button = Eporandu emyandy hag̃ua
 
 always-activate-button = Emyandy tapia
 never-activate-button = Ani emyandy araka’eve

@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Techaukaha rendayke
     .accesskey = B
-reopen-in-container =
-    .label = Embojurujajey guerekohápe
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Ijuruja guerekoha rendayke pyahúpe
     .accesskey = e
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Emboty tendaykeita
     .accesskey = M
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Emboguevi tendayke mboty
-            [one] Emboguevi tendayke mboty
-           *[other] Emboguevi tendayke mboty
-        }
-    .accesskey = U
-close-tab =
-    .label = Tendayke mboty
-    .accesskey = C
-close-tabs =
-    .label = Emboty tendayke
-    .accesskey = S
-move-tabs =
-    .label = Eguerova tendayke
-    .accesskey = v
-move-tab =
-    .label = Eguerova tendayke
-    .accesskey = v
 tab-context-share-url =
     .label = Moherakuã
     .accesskey = h
@@ -130,6 +107,7 @@ tab-context-move-tabs =
            *[other] Eguerova tendaykekuéra
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

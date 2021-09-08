@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Emboguete opavave ñanduti renda
     .accesskey = E
 
-permissions-button-cancel =
-    .label = Heja
-    .accesskey = H
-
-permissions-button-ok =
-    .label = Moambue ñongatu
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Moambue ñongatu
     .buttonaccesskeyaccept = S

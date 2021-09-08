@@ -66,11 +66,6 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = Mba’erechaha japyhypyre reko
 
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Mba’erechaha japyhypyre kuatiajokohápe
-options-screenshot-clipboard-tooltip =
-    .title = Eñongatu mba’erechaha japyhypyre kuatiajokohaitépe
-
-# Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Mba’erechaha japyhypyre kuatiajokohápe
 options-screenshot-clipboard-tooltip2 =
     .title = Eñongatu mba’erechaha japyhypyre kuatiajokohápe

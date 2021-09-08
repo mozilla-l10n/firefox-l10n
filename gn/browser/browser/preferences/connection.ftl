@@ -35,9 +35,6 @@ connection-proxy-http = HTTP Proxy
     .accesskey = x
 connection-proxy-http-port = Mbojuajuhaite
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Eipuru avei ko proxy FTP ha HTTPS peg̃uarã
-    .accesskey = s
 
 connection-proxy-https-sharing =
     .label = Eipuru avei ko proxy HTTPS peg̃uarã
@@ -47,11 +44,6 @@ connection-proxy-https = HTTP Proxy
     .accesskey = H
 connection-proxy-ssl-port = Mbojuajuhaite
     .accesskey = o
-
-connection-proxy-ftp = FTP Proxy
-    .accesskey = F
-connection-proxy-ftp-port = Mbojuajuhaite
-    .accesskey = r
 
 connection-proxy-socks = SOCKS mohendahavusu
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Ani eipuru proxy ejapo hag̃ua
     .accesskey = N
 
 connection-proxy-noproxy-desc = Techapyrã: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Umi jeike localhost-gua, 127.0.0.1 ha ::1 ndohasái proxy rupi.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Umi localhost-pe jeike, 127.0.0.1/8, ha ::1 araka’eve ndohasái proxy rupi.

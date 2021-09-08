@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = Techaukaha
+
 sidebar-menu-history =
     .label = Tembiasakue
+
 sidebar-menu-synced-tabs =
     .label = Tendayke ñembojuehepyre
+
 sidebar-menu-close =
     .label = Ta’ãngarupa yke mboty
+
 sidebar-close-button =
     .tooltiptext = Ta’ãngarupa yke mboty

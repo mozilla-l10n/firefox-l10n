@@ -65,8 +65,6 @@ policy-DisableForgetButton = Ani eheja votõ Tesaráipe jeike.
 
 policy-DisableFormHistory = Ani nemandu’a jeheka ha tembiasakue myanyhẽha rehe.
 
-policy-DisableMasterPasswordCreation = Ojepurúrõ true, ndaikatúi emoheñói ñe’ẽñemi ha’etéva.
-
 policy-DisablePrimaryPasswordCreation = Añetérõ, ndaikatúi emoheñói Ñe’ẽñemi ha’etéva.
 
 policy-DisablePasswordReveal = Ani emoneĩ ojehecha ñe’ẽñemi tembiapo ñepyrũ ñongatupyrépe.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Ejevy SameSite reko gu
 policy-LocalFileLinks = Emoneĩ ñanduti renda moha’eñopyrépe ojuajúvo marandurenda pypeguáva.
 
 policy-ManagedBookmarks = Emboheko peteĩ techaukaha rysýi iñangarekohára omoneĩ’ỹva puruhápe ñemoambue.
-
-policy-MasterPassword = Ejerure térã emboyke ñe’ẽñemi ha’etéva jepuru.
 
 policy-ManualAppUpdateOnly = Emoneĩ ñembohekopyahu po rupigua añoite ha ani emomarandu puruhárape ñembohekopyahu rehegua.
 

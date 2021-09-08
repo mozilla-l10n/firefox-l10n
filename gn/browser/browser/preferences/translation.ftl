@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Eipe’a opaite tenda
     .accesskey = i
 
-translation-button-close =
-    .label = Emboty
-    .accesskey = E
-
 translation-dialog =
     .buttonlabelaccept = Emboty
     .buttonaccesskeyaccept = E

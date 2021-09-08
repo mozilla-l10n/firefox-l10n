@@ -10,9 +10,6 @@ third-party-intro =
     { -brand-short-name }-pe. Oimeraẽva ta’ãha omboheraguapy’ỹva Microsoft térã
     { -vendor-short-name } oje’e ha’eha ta’ãha mbohapyháva.
 
-third-party-header-module-list = Ta’ãha rysýi
-third-party-header-loading-events = Emyanyhẽ tembiaporã
-
 third-party-message-empty = Ndojejuhúi mbohapyháva ra’ãha.
 third-party-message-no-duration = Oñemboheraguapy’ỹva
 

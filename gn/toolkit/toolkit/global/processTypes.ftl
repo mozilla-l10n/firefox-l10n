@@ -9,8 +9,6 @@
 
 process-type-web = Ñanduti retepy
 
-process-type-browser = Tuichavéva
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Ojehecharamovéva

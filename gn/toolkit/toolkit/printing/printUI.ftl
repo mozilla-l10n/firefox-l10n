@@ -58,8 +58,6 @@ printui-options = Poravorã
 printui-headers-footers-checkbox = Emongutia myakãha ha kuatiarogue guy gotyo
 printui-backgrounds-checkbox = Tugua ñembokuatia
 
-printui-selection-checkbox = Embokuatia jeporavo
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

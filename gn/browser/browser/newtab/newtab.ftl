@@ -20,7 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Eheka
     .aria-label = Eheka
-newtab-search-box-search-the-web-text = Ñandutivevépe Jeheka
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Eheka { $engine } ndive térã emoinge kundaharape
@@ -35,10 +35,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Eheka térã ehai kundaharape
     .title = Eheka térã ehai kundaharape
     .aria-label = Eheka térã ehai kundaharape
+
 newtab-search-box-search-the-web-input =
     .placeholder = Ñandutivevépe Jeheka
     .title = Ñandutivevépe Jeheka
     .aria-label = Ñandutivevépe Jeheka
+
 newtab-search-box-text = Eheka ñandutípe
 newtab-search-box-input =
     .placeholder = Eheka ñandutípe
@@ -54,10 +56,12 @@ newtab-topsites-edit-shortcut-header = Mbopya’eha mbosako’i
 newtab-topsites-title-label = Teratee
 newtab-topsites-title-input =
     .placeholder = Ehai herarã
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Ehai térã emboja peteĩ URL
 newtab-topsites-url-validation = Oñeikotevẽ URL oiko porãva
+
 newtab-topsites-image-url-label = URL ra’anga ñemomba’etepyre
 newtab-topsites-use-image-link = Ta’anga ñemomba’etepyre…
 newtab-topsites-image-validation = Ta’anga nehenyhẽkuái. Eipuru peteĩ URL iñambuéva.
@@ -86,10 +90,12 @@ newtab-topsite-sponsored = Pytyvõpyréva
 newtab-menu-section-tooltip =
     .title = Eike poravorãme
     .aria-label = Eike poravorãme
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Mboguete
     .aria-label = Mboguete
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -161,10 +167,12 @@ newtab-label-removed-bookmark = Techaukaha mboguepyre
 newtab-label-recommended = Ojehechajepíva
 newtab-label-saved = { -pocket-brand-name }-pe ñongatupyre
 newtab-label-download = Mboguejypyre
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Tepyme’ẽmbyre
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -203,6 +211,7 @@ newtab-section-header-pocket = { $provider } he’i ndéve reike hag̃ua
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Eñepyrũ eikundaha ha rohechaukáta ndéve mba’ehai, mba’erecharã oĩva ha ambue ñandutirenda reikeva’ekue ýrõ rembotechaukava’ekue.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".

@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Eiporavo opaite tendayke
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Emboguevi tendayke mboty
-            [one] Emboguevi tendayke mboty
-           *[other] Emboguevi tendayke mboty
-        }
-    .accesskey = U
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Pin poravorã hembypáva pegua
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Emokañy ijehegui tembipuru rendápe
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Eñomi votõ inandi jave
     .accesskey = H

@@ -2,16 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-httpsonly-insecure-title = Jeikekatu eipurukuaa’ỹva
-
-# Variables:
-#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-insecure-explanation-unavailable = Eikundahahína HTTPS ayvu añoitépe, ha ndaipóri peteĩva HTTPS hekorosãva <em>{ $websiteUrl }</em> rehegua.
-about-httpsonly-insecure-explanation-reasons = Ikatuvevahína pe ñanduti renda ndojokupytýi HTTPS ndive, hákatu avei ikatu peteĩ mba’evaiapoha ojoko peteĩva HTTPS.
-about-httpsonly-insecure-explanation-exception = Tekorosã hasýramo jepe imarãvo, eikesérõ peteĩva HTTP ñanduti rendápe, aníke eme’ẽ marandu kañyguáva avavépe, ãva ha’e ñe’ẽñemi, ñanduti veve térã mba’emimi kuatia’atã ñemurã rehegua.
-
-about-httpsonly-button-make-exception = Emoneĩ jekyhyje ha eho tendápe
-
 about-httpsonly-title-alert = HTTPS ayvúpe kyhyjerã
 about-httpsonly-title-connection-not-available = Jeikekatu eipurukuaa’ỹva
 

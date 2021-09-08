@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Embojuaju guerekoha pyahu
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } Guerekoha jeguerohoryvéva
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Ta’ãngachu’i
 containers-color-label = Sa’y
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Apopyre
-    .accesskey = A
 
 containers-dialog =
     .buttonlabelaccept = Apopyre

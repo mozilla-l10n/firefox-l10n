@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Tysýi
 
-blocklist-button-cancel =
-    .label = Heja
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = Moambue ñongatu
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Moambue ñongatu
     .buttonaccesskeyaccept = S

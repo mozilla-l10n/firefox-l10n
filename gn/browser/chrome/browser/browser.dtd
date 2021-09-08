@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Poravorãme jeike">
-
 <!ENTITY navbarOverflow.label                "Tembipuruve…">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Tendayke mombytapy">
-<!ENTITY  unpinTab.label                     "Tendayke mombytapy mbogue">
 
 <!ENTITY  listAllTabs.label      "Opaite tendayke jehechauka">
 
@@ -25,21 +15,12 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Marandurendápe jeike…">
 <!ENTITY printCmd.label "Mbokuatia…">
 
-<!ENTITY taskManagerCmd.label "Tembiapo ñangarekohára">
-
 <!ENTITY menubarCmd.label "Poravorã renda">
 <!ENTITY menubarCmd.accesskey "M">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Ñekundaha">
-<!ENTITY personalbarCmd.label "Techaukaha rembipuru renda">
-<!ENTITY personalbarCmd.accesskey "B">
-<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
-include the word "toolbar" or such, because screen readers already know that
-this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbar.accessibleLabel "Techaukaha">
-<!ENTITY bookmarksToolbarItem.label "Techaukaha rembipuru renda remimoĩ">
 
 <!ENTITY fullScreenCmd.label "Mba’erechaha tuichavéva">
 
@@ -47,54 +28,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY pictureInPictureHideToggle.label "Emokañy votõ Picture-in-Picture (PIP)">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Ñemboheko">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "Embojuaju ambue mba’e’oka…">
-<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Eike &brandProductName;">
-<!ENTITY fxa.menu.turnOnSync.label "Emyandy &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Mba’epuru">
-<!ENTITY fxa.menu.account.label "Mba’ete">
-<!ENTITY fxa.menu.settings.label "Ñemboheko">
-<!ENTITY fxa.menu.accountSettings.label "Mba’ete ñemboheko">
-<!ENTITY fxa.menu.manageAccount2.label "Mba’ete Ñangarekoha">
-<!ENTITY fxa.menu.signOut.label "Ñesẽ…">
-<!ENTITY fxa.menu.setupSync.label "Emboheko &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 <!ENTITY fxa.service.sendTab.description "Emondo tendayke oimeraẽva mba’e’oka emoñepyrũ haguépe tembiapo.">
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "ha’e mba’erechaha henyhẽva ko’ág̃a">
-<!ENTITY fullscreenWarning.generic.label "Ko kuatia oĩ hína ko’ág̃a mba’erechaha tuichavévape">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Esẽ mba’erechaha tuichavévagui (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Esẽ mba’erechaha tuichavévagui (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "eñangarekópa nde hekaha rehe. Eikutu Esc eguerujey hag̃ua hekaha.">
-<!ENTITY pointerlockWarning.generic.label "Ko kuatia oñangareko nde hekaha rehe. Eikutu Esc eguerujey hag̃ua hekaha.">
-
-<!ENTITY showAllBookmarks2.label "Opaite techaukaha jehechauka">
-<!ENTITY recentBookmarks.label "Oñembokurusu ramóva">
-<!ENTITY bookmarksToolbarChevron.tooltip "Techaukaha jehechaukave">
 
 <!ENTITY printButton.label            "Mbokuatia">
 <!ENTITY printButton.tooltip          "Ko kuatiarogue mbokuatia">
@@ -105,28 +44,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY homeButton.label             "Ñepyrũ">
 <!ENTITY homeButton.defaultPage.tooltip "Kuatiarogue ñepyrũ &brandShortName; mba’éva">
 
-<!ENTITY bookmarksButton.label          "Techaukaha">
-
-<!ENTITY bookmarksSubview.label             "Techaukaha">
-<!ENTITY bookmarksMenuButton2.label         "Techaukaha Rysýi">
-<!ENTITY bookmarksMenuButton.other.label    "Ambue Techaukahakuéra">
-<!ENTITY bookmarksMenuButton.mobile.label   "Pumbyry Rechaukaha">
-<!ENTITY viewBookmarksSidebar2.label        "Techaukaha ra’ãngarupa yke recha">
-<!ENTITY hideBookmarksSidebar.label         "Eñomi Techaukaha Renda Yke">
-<!ENTITY viewBookmarksToolbar.label         "Techaukaha renda jehecha">
-<!ENTITY hideBookmarksToolbar.label         "Eñomi Techaukaha Rembipuru Renda">
-<!ENTITY searchBookmarks.label              "Techaukaha jeheka">
-<!ENTITY bookmarkingTools.label             "Techaukaha Rembipuru">
-<!ENTITY addBookmarksMenu.label             "Embojoapy Techaukaharysýi Tembipuru rendápe">
-<!ENTITY removeBookmarksMenu.label          "Eipe’a Techaukaharysýi Tembipuru rendágui">
-
 <!ENTITY historyButton.label            "Tembiasakue">
 
 <!ENTITY downloads.label              "Ñemboguejy">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Ñemboguejy">
-<!ENTITY addons.label                 "Moĩmbaha">
 
 <!ENTITY webDeveloperMenu.label       "Ñanduti mboguatahára">
 
@@ -143,28 +66,11 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY historyMenu.label "Tembiasakue">
 
-<!ENTITY historyUndoMenu.label "Tendayke oñembotyramóva">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Ovetã oñembotyramóva">
-
-<!ENTITY appMenuHistory.showAll.label "Tembiasakue jehechaukapa">
-
-<!ENTITY appMenuHistory.clearRecent.label "Tembiasakue ramovéva ñemopotĩ…">
-<!ENTITY appMenuHistory.restoreSession.label "Tembiapopa’ũ ramovéva ñembojevy">
-<!ENTITY appMenuHistory.viewSidebar.label "Tembiasakue renda yke jehechauka">
-<!ENTITY appMenuHistory.hideSidebar.label "Emokañy tembiasakue renda yke">
-<!ENTITY appMenuHistory.recentHistory.label "Tembiasakue ramovéva">
-
 <!ENTITY appMenuHelp.label "Pytyvõ">
-
-<!ENTITY appMenuRemoteTabs.label "Tendayke oñembojuehepyre">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ndaipóri tendayke ijurujáva">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Ehechaukave">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Ehechaukave tendayke ko mba’e’oka pegua">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -180,14 +86,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Eike Sync jerohoryvévape">
 <!ENTITY appMenuRemoteTabs.welcome.label "Ehecha tendayke rysýi ambue ne mba’e’okagua.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tekotevẽ ñemboaje ne mba’ete.">
-<!ENTITY appMenuRemoteTabs.signintosync.label "Eñepyrũ tembiapo &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.turnonsync.label "Emyandy &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Mba’e’oka ñangarekoha…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Ehecha mbojuehepyre tenda yképe">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "Emokañy tenda yke tendayke mbojuehepyrére">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Embojoaju Ambue Mba’e’oka">
-
-<!ENTITY appMenuRecentHighlights.label "Aje’i Ojehecharamoitéva">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tembipuru rendáre mbojoapy">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -199,8 +98,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Eipe’a poravorã hembypáva">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "Tembipuru rendágui mboguete">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Mba’epuruve mbojoapy…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
@@ -218,15 +115,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
-<!ENTITY pageAction.copyLink.label    "Link Mbohasarã">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY saveToPocketCmd.label        "Eñongatu kuatiarogue Pocket-pe">
-<!ENTITY pocketMenuitem.label         "Ehecha tysýi Pocket-pe">
-
-<!ENTITY emailPageCmd.label           "Joajuha mondo…">
-
 <!-- Media (video/audio) controls -->
 
 <!-- LOCALIZATION NOTE :
@@ -238,13 +126,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Tuichakue">
 
 <!ENTITY sidebarCloseButton.tooltip     "Ta’ãngarupa yke mboty">
-
-<!ENTITY quitApplicationCmdWin2.label       "Ñesẽ">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName;-gui ñesẽ">
-<!ENTITY quitApplicationCmd.label       "Ñesẽ">
-<!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName;-gui ñesẽ">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -265,10 +146,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Kundahára rendayke">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "Toñemi-ijeheguirei">
-
 
 <!ENTITY uiTour.infoPanel.close "Mboty">
 
@@ -276,15 +153,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "¡Jeikekatu!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Aguyje">
 
-<!ENTITY updateAvailable.panelUI.label "Emboguejy &brandShorterName; mbohekopyahu">
-<!ENTITY updateManual.panelUI.label "Emboguejy &brandShorterName; osẽramovéva.">
-<!ENTITY updateUnsupported.panelUI.label "Ndaikatuvéima embohekopyahu">
-<!ENTITY updateRestart.panelUI.label2 "Emoñepyrũjey embohekopyahu hag̃ua &brandShorterName;">
-
 <!ENTITY sendToDevice.syncNotReady.label "Mba’e’oka ñembojuehe…">
-
-<!ENTITY pageAction.shareUrl.label "Moherakuã">
-<!ENTITY pageAction.shareMore.label "Hetave…">
 
 <!ENTITY libraryButton.tooltip "Ehecha tembiasakue, ñongatupyre ha ambueve">
 
