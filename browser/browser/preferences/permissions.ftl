@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Odstrániť všetky stránky
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Zrušiť
-    .accesskey = Z
-
-permissions-button-ok =
-    .label = Uložiť zmeny
-    .accesskey = U
-
 permission-dialog =
     .buttonlabelaccept = Uložiť zmeny
     .buttonaccesskeyaccept = U

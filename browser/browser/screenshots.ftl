@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Urobiť snímku obrazovky
-
-screenshots-my-shots-button = Moje snímky
-
 screenshot-toolbarbutton =
     .label = Snímka obrazovky
     .tooltiptext = Vytvorí snímku obrazovky
@@ -40,8 +36,6 @@ screenshots-login-error-details = Nemohli sme uložiť vašu snímku, pretože n
 
 screenshots-unshootable-page-error-title = Túto stránku nemôžeme zachytiť.
 screenshots-unshootable-page-error-details = Toto nie je štandardná webová stránka, takže z nej nemôžeme vytvoriť snímku obrazovky.
-
-screenshots-self-screenshot-error-title = Nemôžete vytvoriť snímku obrazovky stránky { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Váš výber je príliš malý
 

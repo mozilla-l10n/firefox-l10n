@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Pripojenie ďalšieho zariadenia
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Ak ste tak ešte neurobili, <a data-l10n-name="connect-another-device">nainštalujte si Firefox na svoje mobilné zariadenie</a>.
-
-fxa-qrcode-heading-phase2 = 2. Potom sa prihláste ku službe { -sync-brand-short-name }, alebo v Androide naskenujte párovací kód z nastavení služby { -sync-brand-short-name }.
-
 fxa-qrcode-heading-step1 = 1. Ak ste tak ešte neurobili, <a data-l10n-name="connect-another-device">nainštalujte si Firefox na svoje mobilné zariadenie</a>.
 
 fxa-qrcode-heading-step2 = 2. Spustite Firefox na svojom mobilnom zariadení.

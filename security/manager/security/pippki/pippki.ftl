@@ -6,9 +6,6 @@ password-quality-meter = Ukazovateľ kvality hesla:
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Zmena hlavného hesla
-
 change-device-password-window =
     .title = Zmena hesla
 
@@ -20,10 +17,6 @@ change-password-new = Nové heslo:
 change-password-reenter = Nové heslo (znova):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Vymazať hlavné heslo
-    .style = width: 40em
 
 pippki-failed-pw-change = Nie je možné zmeniť heslo.
 pippki-incorrect-pw = Aktuálne heslo nebolo zadané správne. Skúste to znova.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Obnoviť
-reset-password-text = Ak obnovíte svoje hlavné heslo, všetky uložené heslá, údaje formulárov, osobné certifikáty a súkromné kľúče budú vymazané. Naozaj chcete obnoviť svoje hlavné heslo?
 
 reset-primary-password-text = Ak obnovíte svoje hlavné heslo, všetky uložené heslá, údaje formulárov, osobné certifikáty a súkromné kľúče budú vymazané. Naozaj chcete obnoviť svoje hlavné heslo?
 

@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Odstrániť všetky stránky
     .accesskey = v
 
-translation-button-close =
-    .label = Zavrieť
-    .accesskey = Z
-
 translation-dialog =
     .buttonlabelaccept = Zavrieť
     .buttonaccesskeyaccept = Z

@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Digitálne podpísať túto správu">
 <!ENTITY menu_securitySign.accesskey "D">
 
-<!ENTITY menu_securityAttachMyKey.label "Priložiť môj verejný kľúč">
-<!ENTITY menu_securityAttachMyKey.accesskey "v">
-
 <!ENTITY menu_securityTech.label "Technológia šifrovania">
 <!ENTITY menu_securityTech.accesskey "T">
 

@@ -142,7 +142,6 @@
 
 <!ENTITY Photo.tab                      "Fotografia">
 <!ENTITY Photo.accesskey                "F">
-<!ENTITY PhotoDesc.label                "Zvoľte jednu z možností:">
 <!ENTITY GenericPhoto.label             "Predvolený obrázok">
 <!ENTITY GenericPhoto.accesskey         "e">
 <!ENTITY DefaultPhoto.label             "Predvolený">

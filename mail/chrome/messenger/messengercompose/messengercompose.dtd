@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Nová">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Správa">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "S">
 <!ENTITY newContact.label "Kontakt adresára…">
 <!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Priložiť">
 <!ENTITY attachMenu.accesskey "P">
-<!ENTITY attachFileCmd.label "Súbor…">
-<!ENTITY attachFileCmd.accesskey "S">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Odkaz na súbor">
 <!ENTITY attachCloudCmd.accesskey "O">
 <!ENTITY attachPageCmd.label "Webovú stránku…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Odoslať neskôr">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "d">
-<!ENTITY printSetupCmd.label "Nastavenie tlače…">
-<!ENTITY printSetupCmd.accesskey "a">
-<!ENTITY printPreviewCmd.label "Ukážka pred tlačou">
-<!ENTITY printPreviewCmd.accesskey "e">
 <!ENTITY printCmd.label "Tlačiť…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "T">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Zmeniť usporiadanie príloh…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Panel príloh">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "p">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY findBarCmd.label "Hľadať…">
 <!ENTITY findBarCmd.accesskey "H">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Zmeniť usporiadanie príloh">
-<!ENTITY moveAttachmentTopPanelBtn.label "Presunúť nahor">
-<!ENTITY moveAttachmentUpPanelBtn.label "Presunúť vyššie">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Presunúť spolu">
-<!ENTITY moveAttachmentDownPanelBtn.label "Presunúť nižšie">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Presunúť nadol">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Nastavenie účtov">
 <!ENTITY accountManagerCmd2.accesskey "N">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
-<!ENTITY preferencesCmd2.label "Možnosti">
-<!ENTITY preferencesCmd2.accesskey "M">
-<!ENTITY preferencesCmdUnix.label "Možnosti">
-<!ENTITY preferencesCmdUnix.accesskey "M">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Odoslať">
 <!ENTITY quoteButton.label "Citovať">
 <!ENTITY addressButton.label "Adresa">
-<!ENTITY attachButton.label "Priložiť">
 <!ENTITY spellingButton.label "Pravopis">
 <!ENTITY saveButton.label "Uložiť">
 <!ENTITY printButton.label "Tlačiť">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Odoslať túto správu neskôr">
 <!ENTITY quoteButton.tooltip "Citovať predchádzajúcu správu">
 <!ENTITY addressButton.tooltip "Vybrať adresáta z Adresára">
-<!ENTITY attachButton.tooltip2 "Pripojiť prílohu">
 <!ENTITY spellingButton.tooltip "Skontrolovať pravopis označeného textu alebo celej stránky">
 <!ENTITY saveButton.tooltip "Uložiť túto správu">
 <!ENTITY cutButton.tooltip              "Vystrihnúť">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Iné typy polí adries">
 <!ENTITY fromAddr2.label "Od">
 <!ENTITY fromAddr.accesskey "O">
-<!ENTITY toAddr2.label "Komu">
-<!ENTITY ccAddr2.label "Kópia">
-<!ENTITY bccAddr2.label "Skrytá kópia">
 <!ENTITY replyAddr2.label "Odpoveď komu">
 <!ENTITY newsgroupsAddr2.label "Diskusná skupina">
 <!ENTITY followupAddr2.label "Pokračovať na">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Vybrať všetko">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Priložiť súbor…">
-<!ENTITY attachFile.accesskey "s">
 <!ENTITY attachCloud.label "Odkaz na súbor…">
 <!ENTITY attachCloud.accesskey "O">
 <!ENTITY convertCloud.label "Skonvertovať na…">

@@ -65,8 +65,6 @@ policy-DisableForgetButton = Zablokuje prístup ku tlačidlu Zabudnúť.
 
 policy-DisableFormHistory = Vypne ukladanie histórie vyhľadávania a formulárov.
 
-policy-DisableMasterPasswordCreation = Hodnota true znemožní nastavenie hlavného hesla.
-
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavenie hlavného hesla.
 
 policy-DisablePasswordReveal = Zablokuje zobrazovanie hesiel v správcovi prihlasovacích údajov.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Povolí zastarané pre
 policy-LocalFileLinks = Povolí určitým webovým stránkam odkazovať na súbory uložené na pevnom disku.
 
 policy-ManagedBookmarks = Konfiguruje zoznam záložiek spravovaný správcom, ktoré používateľ nemôže zmeniť.
-
-policy-MasterPassword = Vyžadovanie alebo zabránenie používania hlavného hesla.
 
 policy-ManualAppUpdateOnly = Povolí iba manuálne aktualizácie a neinformuje používateľa o aktualizáciách.
 

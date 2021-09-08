@@ -35,9 +35,6 @@ connection-proxy-http = Server proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = t
-connection-proxy-http-sharing =
-    .label = Použiť tento server proxy pre FTP aj pre HTTPS
-    .accesskey = s
 
 connection-proxy-https-sharing =
     .label = Použiť tento server proxy aj pre HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = Server proxy HTTPS
     .accesskey = H
 connection-proxy-ssl-port = Port
     .accesskey = o
-
-connection-proxy-ftp = Server proxy pre FTP
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = r
 
 connection-proxy-socks = Server SOCKS
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Nepoužívať proxy pre
     .accesskey = N
 
 connection-proxy-noproxy-desc = Príklad: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Pripojenie na localhost, 127.0.0.1, a ::1 nikdy nepoužíva proxy server.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Pripojenie na localhost, 127.0.0.1/8, a ::1 nikdy nepoužíva proxy server.

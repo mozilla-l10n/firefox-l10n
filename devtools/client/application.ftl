@@ -28,16 +28,6 @@ serviceworker-worker-unregister = Zrušiť registráciu
 serviceworker-worker-debug = Ladiť
     .title = Iba spustené service workery môžu byť ladené
 
-# Text for the debug link displayed for an already started Service Worker, when we
-# are in multi e10s mode, which effectively disables this link.
-serviceworker-worker-debug-forbidden = Ladiť
-    .title = Ladenie Service Workerov je možné len so zapnutým e10s
-
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start2 = Spustiť
-    .title = Service Workery možno spustiť len s vypnutým e10s
-
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Preskúmať
@@ -50,12 +40,6 @@ serviceworker-worker-start3 = Spustiť
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Aktualizované <time>{ DATETIME($date, day: "numeric", month: "long", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = Zdroj
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = Stav
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -65,26 +49,6 @@ serviceworker-worker-status-running = Spustený
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Zastavený
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Ak chcete skript typu worker preskúmať, musíte ho najskôr zaregistrovať. <a>Ďalšie informácie</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = Ak by stránka mala mať skript typu worker, môžete skúsiť nasledujúce veci:
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = Nájsť chybu pomocou konzoly. <a> Otvoriť konzolu</a>
-
-# Suggestion to use the debugger to investigate why a service worker is not registered.
-# Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Prezrite si registráciu skriptu typu worker a hľadajte výnimky. <a>Otvoriť ladenie</a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Preskúmajte skripty typu worker z iných domén. <a>Otvoriť about:debugging</a>
 
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = Neboli nájdené žiadne skripty typu worker
@@ -103,10 +67,6 @@ serviceworker-empty-suggestions-aboutdebugging2 = Zobraziť skripty typu worker 
 
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest aplikácie
-
-# Header for the Manifest page when there's no manifest to inspect
-# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = Manifest musíte vložiť sem na kontrolu. <a>Ďalšie informácie</a>
 
 # Header for the Manifest page when there's no manifest to inspect
 manifest-empty-intro2 = Nebol nájdený manifest webovej aplikácie

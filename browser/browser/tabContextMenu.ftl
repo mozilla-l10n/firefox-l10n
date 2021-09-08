@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Pridať kartu medzi záložky
     .accesskey = a
-reopen-in-container =
-    .label = Otvoriť v kontajneri
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Otvoriť na novej kontajnerovej karte
     .accesskey = k
@@ -69,27 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Zavrieť viaceré karty
     .accesskey = c
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Obnoviť zatvorenú kartu
-            [one] Obnoviť zatvorenú kartu
-            [few] Obnoviť zatvorené karty
-           *[other] Obnoviť zatvorené karty
-        }
-    .accesskey = O
-close-tab =
-    .label = Zavrieť kartu
-    .accesskey = Z
-close-tabs =
-    .label = Zavrieť karty
-    .accesskey = Z
-move-tabs =
-    .label = Presunúť karty
-    .accesskey = s
-move-tab =
-    .label = Presunúť kartu
-    .accesskey = s
 tab-context-share-url =
     .label = Zdieľať
     .accesskey = e
@@ -131,6 +107,7 @@ tab-context-move-tabs =
            *[other] Presunúť karty
         }
     .accesskey = s
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

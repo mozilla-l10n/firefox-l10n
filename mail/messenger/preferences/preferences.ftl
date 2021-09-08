@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Zavrieť
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Možnosti
-           *[other] Možnosti
-        }
-
 preferences-doc-title = Nastavenia
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Zrušiť
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovať
 
-addons-button = Rozšírenia a témy vzhľadu
-
 account-button = Nastavenia účtov
 open-addons-sidebar-button = Doplnky a témy
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Ak chcete vytvoriť hlavné heslo, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vášho účtu.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = vytvoriť hlavné heslo
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Ak chcete vytvoriť hlavné heslo, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vášho účtu.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Prispôsobiť…
     .accesskey = o
-
-tray-icon-label =
-    .label = Zobraziť ikonu v oblasti oznámení systémového panela úloh
-    .accesskey = k
 
 biff-use-system-alert =
     .label = Použiť systémové upozornenia
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Farba:
     .accesskey = a
-
-search-input =
-    .placeholder = Hľadať
 
 search-handler-table =
     .placeholder = Filtrovať typy obsahu a akcie
@@ -723,16 +698,6 @@ passwords-button =
     .label = Uložené heslá…
     .accesskey = U
 
-master-password-description = Hlavné heslo slúži na ochranu všetkých vašich hesiel, musíte ho však zadať počas každej relácie.
-
-master-password-label =
-    .label = Používať hlavné heslo
-    .accesskey = P
-
-master-password-button =
-    .label = Zmeniť hlavné heslo…
-    .accesskey = Z
-
 
 primary-password-description = Hlavné heslo slúži na ochranu všetkých vašich hesiel, musíte ho však zadať počas každej relácie.
 
@@ -913,26 +878,6 @@ no-preview-description = Táto téma vzhľadu nie je platná alebo je momentáln
 chat-variant-label =
     .value = Varianta:
     .accesskey = V
-
-chat-header-label =
-    .label = Zobraziť hlavičku
-    .accesskey = h
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Nájsť v možnostiach
-           *[other] Nájsť v možnostiach
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

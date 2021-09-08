@@ -105,9 +105,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Ako to funguje
 
-turn-on-sync = Zapnúť { -sync-brand-short-name }…
-    .title = Prejsť na nastavenie synchronizácie
-
 monitor-title = Pozor na úniky dát
 monitor-link = Ako to funguje
 monitor-header-content-no-account = { -monitor-brand-name } skontroluje, či boli vaše údaje súčasťou nejakého známeho úniku dát a upozorní vás, ak sa vyskytnú v nejakom novom.
