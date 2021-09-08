@@ -5,28 +5,9 @@
 places-open =
     .label = Ubbi
     .accesskey = U
-places-open-tab =
-    .label = Ubbi koñ bu bees
-    .accesskey = k
 places-open-all-in-tabs =
     .label = Ubbi lépp ci ay koñ
     .accesskey = l
-places-open-window =
-    .label = Ubbi palanteer bu bees
-    .accesskey = p
-
-places-new-bookmark =
-    .label = Mandarga xët bu bees…
-    .accesskey = M
-places-new-folder-contextmenu =
-    .label = Wayndare bu bees…
-    .accesskey = F
-places-new-folder =
-    .label = Wayndare bu bees…
-    .accesskey = W
-places-new-separator =
-    .label = Teqalekat bu bees
-    .accesskey = T
 
 places-view =
     .label = Tànn
@@ -53,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Toftale ci ay tur
     .accesskey = r
-places-properties =
-    .label = Jikko yi
-    .accesskey = J
 

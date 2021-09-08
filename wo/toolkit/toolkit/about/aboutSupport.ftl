@@ -13,11 +13,6 @@ crashes-id = ID bu xibaar bi
 crashes-send-date = Yónnees
 crashes-all-reports = Xibaari Taxaw yépp
 crashes-no-config = Bii jëfekaay kenn jekk-jekkaluñ ko ngir mu man di wone xibaari taxaw.
-extensions-title = Lawal
-extensions-name = Tur
-extensions-enabled = Doxalees
-extensions-version = Sumb
-extensions-id = ID
 support-addons-name = Tur
 support-addons-version = Sumb
 support-addons-id = ID
@@ -90,8 +85,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Xeetu jëfiin
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Joxaale
-safe-mode-title = Jéem ci Anamu Kaaraange
-restart-in-safe-mode-label = Doxadil Lawal yi te Tàmbaliwaat...
 
 ## Media titles
 
@@ -187,19 +180,12 @@ webgl2-renderer = Pilote WebGL 2 - Rendu
 webgl2-version = Sumbu Doxalukaay WebGL 2
 webgl2-driver-extensions = Lawali Doxalukaay WebGL 2
 webgl2-extensions = Lawali WebGL 2
-blocklisted-bug = Duggalees cib limu ñiñ téye ndax jafe-jafe yees xam
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bogue { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Mis sur liste de blocage ; code d’erreur { $failureCode }
 
 d3d11layers-crash-guard = Compositeur D3D11
-d3d11video-crash-guard = Décodeur vidéo D3D11
-d3d9video-crash-guard = Décodeur vidéo D3D9
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Dooraat soo fay-taalaatee
@@ -224,14 +210,6 @@ sandbox-proc-type-media-plugin = lawal gu xibaarukaay
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Jëfandikukat bee ko doxal
-multi-process-status-1 = Dees koo doxal cig wàccale
-multi-process-status-2 = Doxadilees
-multi-process-status-4 = Jumtukaayi jotiin yee ko doxadil
-multi-process-status-6 = Anamu dugaliinu mbind gees nangul moo ko doxadil
-multi-process-status-7 = Lawal yee ko doxadil
-multi-process-status-8 = Doxadilees ak doole
-multi-process-status-unknown = Nekkiin gees xamul
 
 async-pan-zoom = Zoom/Panoramique asynchrones
 apz-none = lenn

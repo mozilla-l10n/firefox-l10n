@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Saytukatu modili mottali yi
-
 addons-page-title = Saytukatu modili mottali yi
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = Gënati jàngaat ci modili mottali yi
-
-cmd-show-details =
-    .label = Wone xibaar yi
-    .accesskey = W
-
-cmd-find-updates =
-    .label = Wut yeesal yi
-    .accesskey = y
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Tannéef yi
-           *[other] Taamu yi
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] T
-           *[other] T
-        }
-
-cmd-enable-theme =
-    .label = Def tem bi
-    .accesskey = D
-
-cmd-disable-theme =
-    .label = Dindi tem bi
-    .accesskey = D
-
-cmd-install-addon =
-    .label = Samp
-    .accesskey = S
-
-cmd-contribute =
-    .label = Wàll si
-    .accesskey = W
-    .tooltiptext = Wàll si ci yokkute modilu mottali bi
 
 detail-version =
     .label = Sumb

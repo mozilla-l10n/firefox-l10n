@@ -6,19 +6,12 @@ password-quality-meter = Nataayu baaxaayu caabi baat bi
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Soppi caabi baat bi ëpp solo
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Wër ndombo kaarange: { $tokenName }
 change-password-old = Caabi baat bi teew:
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Far baatu jàll bi gëna am solo
-    .style = width: 40em
 
 ## Reset Primary Password dialog
 

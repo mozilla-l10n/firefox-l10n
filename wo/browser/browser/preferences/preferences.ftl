@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Tànneef
-       *[other] Taamu yi
-    }
-
 pane-general-title = Ëmb lépp
 category-general =
     .tooltiptext = { pane-general-title }
@@ -124,11 +118,6 @@ applications-manage-app =
     .label = Benn bennali jëfekaay bi…
 applications-always-ask =
     .label = Laaj saa su ne
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -285,14 +274,9 @@ forms-exceptions =
     .label = Seppi yi…
     .accesskey = S
 
-forms-master-pw-use =
-    .label = Jëfandikoo baatu jàll bi gëna am solo
-    .accesskey = m
 forms-master-pw-change =
     .label = Soppi baatu jàll bi gëna am solo…
     .accesskey = o
-
-forms-master-pw-fips-title = Yaa ngi leegi ci anamu FIPS. Anam bii dafay laaj baatu jàll bi gëna am solo.
 
 forms-master-pw-fips-desc = Baatu jàll bi lajj na
 

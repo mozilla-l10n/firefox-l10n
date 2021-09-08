@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
-<!ENTITY appmenu.tooltip                     "Ubbi njël li">
-
 <!ENTITY navbarOverflow.label                "Yeneeni jumtukaay...">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Caabi Làcc wi">
-<!ENTITY  unpinTab.label                     "Caabeedi Làcc wi">
 
 <!ENTITY  listAllTabs.label      "Lim Làcc yépp">
 
@@ -27,21 +17,11 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Banqaasu njël yi">
 <!ENTITY menubarCmd.accesskey "B">
-<!ENTITY personalbarCmd.label "Sa banqaasu bopp">
-<!ENTITY personalbarCmd.accesskey "b">
-<!ENTITY bookmarksToolbarItem.label "Mbiri banqaasu bopp">
 
 
 <!ENTITY fullScreenCmd.label "Seetukaay bu yambalaŋ">
 
 
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -53,8 +33,6 @@ can reach it easily. -->
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 
-<!ENTITY showAllBookmarks2.label "Wone mandarga xët yépp">
-<!ENTITY bookmarksToolbarChevron.tooltip "Wone mandarga xët yu gën bari">
 
 <!ENTITY printButton.label            "Móol">
 <!ENTITY printButton.tooltip          "Móol xët bii">
@@ -69,13 +47,8 @@ can reach it easily. -->
 
 <!-- Toolbar items -->
 
-<!ENTITY bookmarksButton.label          "Mandarga xët yi">
-
-<!ENTITY viewBookmarksToolbar.label         "Sa banqaasu bopp">
-
 
 <!ENTITY downloads.label              "Yeb yi">
-<!ENTITY addons.label                 "Modilu mottali">
 
 <!ENTITY webDeveloperMenu.label       "Tàllalkatu web">
 
@@ -89,10 +62,6 @@ can reach it easily. -->
 
 
 <!ENTITY historyMenu.label "Jaar jaar">
-
-<!ENTITY historyUndoMenu.label "Koñ yi tëju leegi">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Palanteer yi ñu tëj léegi">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -143,7 +112,6 @@ can reach it easily. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "k">
 
-<!ENTITY emailPageCmd.label           "Buumu imeel…"> 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
@@ -158,10 +126,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Yambalaŋ">
 
 
-<!ENTITY quitApplicationCmdWin2.label       "Génn">
-<!ENTITY quitApplicationCmdWin2.accesskey   "G">
-<!ENTITY quitApplicationCmd.label       "Génn"> 
-<!ENTITY quitApplicationCmd.accesskey   "G">  
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -197,10 +161,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
-
-
-
-<!ENTITY syncBrand.shortName.label    "Jàppante">
 
 
 

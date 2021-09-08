@@ -5,16 +5,6 @@
 certmgr-tab-servers =
     .label = Serwëër yi
 
-certmgr-detail-general-tab-title =
-    .label = Ëmb lépp
-    .accesskey = p
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Detaay yi
-    .accesskey = D
-
-certmgr-cert-detail-org = Mbootaay
-
 certmgr-delete-cert =
     .title = Màbb benn sarsifikaa
     .style = width: 48em; height: 24em;
@@ -73,30 +63,11 @@ delete-user-cert-title =
 delete-user-cert-confirm = Ndax bëgg dëgg far sasifikaa yii?
 
 
-delete-ssl-cert-confirm = Ndax bëgg nga dëgg màbb serwëër yi kenn tëggaalewul woon?
-
-
 delete-email-cert-title =
     .title = Màbb sarsifikaa imeel
 delete-email-cert-confirm = Ndax bëgg nga dëgg màbb sarsifikaa imeel yu nit ñii?
 
 ## Cert Viewer
-
-# Add usage
-verify-ssl-client =
-    .value = Sarsifika kiliyaŋ SSL
-
-verify-ssl-server =
-    .value = Sarsifika serwëër SSL
-
-verify-ssl-ca =
-    .value = Kelifa dëggal SSL
-
-verify-email-signer =
-    .value = Sarsifikaa xaatim bataaxal
-
-verify-email-recip =
-    .value = Sarsifikaa jot bataaxal
 
 ## Used to show whether an override is temporary or permanent
 

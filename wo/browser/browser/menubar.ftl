@@ -95,9 +95,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Jagal
     .accesskey = J
-menu-edit-find-on =
-    .label = Wut ci biir xët wi…
-    .accesskey = c
 menu-edit-find-again =
     .label = Wut bi ci topp
     .accesskey = W
@@ -113,9 +110,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Banqaasu jumtukaay yi
     .accesskey = t
-menu-view-customize-toolbar =
-    .label = Solal…
-    .accesskey = S
 menu-view-sidebar =
     .label = Pano wet
     .accesskey = e
@@ -180,8 +174,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Mandarga xët yi
     .accesskey = M
-menu-bookmarks-show-all =
-    .label = Wone mandarga xët yépp
 menu-bookmark-edit =
     .label = Soppali mandarga xët wile
 menu-bookmarks-all-tabs =
@@ -197,32 +189,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Yeb yi
     .accesskey = Y
-menu-tools-addons =
-    .label = Modilu mottali
-    .accesskey = M
 menu-tools-sync-now =
     .label = Jàppanteel léegi
     .accesskey = J
-menu-tools-web-developer =
-    .label = Tàllalkatu web
-    .accesskey = w
 menu-tools-page-source =
     .label = Suulaale cosaan bu xët wi
     .accesskey = o
 menu-tools-page-info =
     .label = Bataaxal ci xët wi
     .accesskey = i
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Tànneef yi
-           *[other] Taamu yi
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] T
-           *[other] u
-        }
 
 ## Window Menu
 
@@ -253,24 +228,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Ndimbal
     .accesskey = H
-menu-help-product =
-    .label = Ndimbal ci { -brand-shorter-name }
-    .accesskey = H
-menu-help-show-tour =
-    .label = Wëraalu ci { -brand-shorter-name }
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = Ñalli arafukaay bi
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Xibaari dëng-dëng
-    .accesskey = T
 menu-help-feedback-page =
     .label = Joxe sa xalaat…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = Tambaliwaat te doxadil yokkéef yi …
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = Tambaliwaat te doxal yokkéef yi…
-    .accesskey = R

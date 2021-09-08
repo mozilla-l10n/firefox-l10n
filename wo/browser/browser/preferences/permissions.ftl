@@ -20,10 +20,6 @@ permissions-allow =
 permissions-status =
     .label = Nekkin
 
-permissions-button-cancel =
-    .label = Neenal
-    .accesskey = N
-
 permissions-capabilities-allow =
     .label = May
 permissions-capabilities-block =

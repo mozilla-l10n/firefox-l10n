@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,9 +48,6 @@ main-context-menu-page-save =
     .label = Aar ci…
     .accesskey = E
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -75,10 +60,6 @@ main-context-menu-open-link-new-tab =
 
 main-context-menu-open-link-new-window =
     .label = Ubbi buum bi ci palanteer bu bees
-    .accesskey = b
-
-main-context-menu-bookmark-this-link =
-    .label = Mandarga xët ci buum bi
     .accesskey = b
 
 main-context-menu-save-link =
@@ -95,10 +76,6 @@ main-context-menu-save-link =
 
 main-context-menu-copy-email =
     .label = Duppi màkkaanu i meel
-    .accesskey = m
-
-main-context-menu-copy-link =
-    .label = Duppi màkkaanu buum bi
     .accesskey = m
 
 ## Media (video/audio) controls
@@ -150,29 +127,9 @@ main-context-menu-image-reload =
     .label = Yeesalaat nataal bi
     .accesskey = Y
 
-main-context-menu-image-view =
-    .label = Wone nataal bi
-    .accesskey = n
-
-main-context-menu-video-view =
-    .label = Wone videyoo bi
-    .accesskey = v
-
 main-context-menu-image-copy =
     .label = Duppi nataal bi
     .accesskey = D
-
-main-context-menu-image-copy-location =
-    .label = Duppi màkkaanu nataal bi
-    .accesskey = n
-
-main-context-menu-video-copy-location =
-    .label = Duppi URL bu wideyoo bi
-    .accesskey = w
-
-main-context-menu-audio-copy-location =
-    .label = Duppi URL bu jibin wi
-    .accesskey = j
 
 main-context-menu-image-save-as =
     .label = Aar nataal bi ci…
@@ -182,10 +139,6 @@ main-context-menu-image-email =
     .label = NataaIu imeel…
     .accesskey = t
 
-main-context-menu-image-set-as-background =
-    .label = Tànn nataal bi niki laltu seetukaay…
-    .accesskey = T
-
 main-context-menu-image-info =
     .label = Bataaxal ci xët bi
     .accesskey = i
@@ -194,10 +147,6 @@ main-context-menu-audio-save-as =
     .label = Aar jibin wi niki…
     .accesskey = r
 
-main-context-menu-video-image-save-as =
-    .label = Aar benn Snapshot ci…
-    .accesskey = A
-
 main-context-menu-video-email =
     .label = Imeel Wideyo…
     .accesskey = e
@@ -205,10 +154,6 @@ main-context-menu-video-email =
 main-context-menu-send-to-device =
     .label = Yónnee Xët wi ab jumtukaay
     .accesskey = D
-
-main-context-menu-view-background-image =
-    .label = Wone nataal bi lalu
-    .accesskey = l
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -272,10 +217,6 @@ main-context-menu-view-page-source =
     .label = Suulaale cosaan bu xët wi
     .accesskey = o
 
-main-context-menu-view-page-info =
-    .label = Bataaxal ci xët bi
-    .accesskey = i
-
 main-context-menu-bidi-switch-text =
     .label = Soppi jublu mbind mi
     .accesskey = m
@@ -283,8 +224,4 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Soppi jublu xët wi
     .accesskey = x
-
-main-context-menu-inspect-element =
-    .label = Seetal mbir mii
-    .accesskey = Q
 

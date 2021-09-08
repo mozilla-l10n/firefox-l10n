@@ -5,7 +5,3 @@
 translation-languages-column =
     .label = Lammiñ yi
 
-translation-button-close =
-    .label = Tëj
-    .accesskey = T
-
