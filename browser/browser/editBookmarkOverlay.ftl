@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-bookmark-overlay-name =
-    .value = नाम:
-    .accesskey = N
-
-bookmark-overlay-location =
-    .value = स्थान:
-    .accesskey = L
-
-bookmark-overlay-folder =
-    .value = फ़ोल्डर‌:
-
 bookmark-overlay-name-2 =
     .value = नाम
     .accesskey = N
@@ -33,10 +22,6 @@ bookmark-overlay-new-folder-button =
     .label = नया फ़ोल्डर
     .accesskey = o
 
-bookmark-overlay-tags =
-    .value = टैग:
-    .accesskey = T
-
 bookmark-overlay-tags-empty-description =
     .placeholder = अल्पविराम से टैग अलग करें
 
@@ -44,8 +29,4 @@ bookmark-overlay-tags-expander =
     .tooltiptext = सभी टैग दिखाएँ‌
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = छिपाएँ‌
-
-bookmark-overlay-keyword =
-    .value = बीजशब्द:
-    .accesskey = K
 

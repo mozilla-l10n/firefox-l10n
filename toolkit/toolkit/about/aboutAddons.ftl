@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = ऐड-ऑन्स प्रबंधक
-
 addons-page-title = ऐड-ऑन्स प्रबंधक
 
 search-header =
@@ -33,18 +30,6 @@ help-button = ऐड-ऑन समर्थन
 sidebar-help-button-title =
     .title = ऐड-ऑन समर्थन
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } विकल्प
-       *[other] { -brand-short-name } प्राथमिकताएं
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } विकल्प
-           *[other] { -brand-short-name } प्राथमिकताएं
-        }
-
 addons-settings-button = { -brand-short-name } सेटिंग
 sidebar-settings-button-title =
     .title = { -brand-short-name } सेटिंग
@@ -54,43 +39,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = सभी विस्तार दिखाएँ
-
-cmd-show-details =
-    .label = अधिक सूचना दिखाएँ
-    .accesskey = S
-
-cmd-find-updates =
-    .label = अद्यतन ढूँढ़ें
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] विकल्प
-           *[other] वरीयताएँ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = प्रसंग पहनें
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = प्रसंग पहनना बंद करें
-    .accesskey = W
-
-cmd-install-addon =
-    .label = संस्थापित करें
-    .accesskey = I
-
-cmd-contribute =
-    .label = योगदान करें
-    .accesskey = C
-    .tooltiptext = इस सहयुक्ति के विकास में अपना योगदान दें
 
 detail-version =
     .label = संस्करण

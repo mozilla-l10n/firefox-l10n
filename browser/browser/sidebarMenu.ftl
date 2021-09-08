@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = बुकमार्क
+
 sidebar-menu-history =
     .label = इतिहास
+
 sidebar-menu-synced-tabs =
     .label = संकलित टैब्स
+
 sidebar-menu-close =
     .label = बाज़ू पट्टी बंद करें
+
 sidebar-close-button =
     .tooltiptext = बाज़ू पट्टी बंद करें

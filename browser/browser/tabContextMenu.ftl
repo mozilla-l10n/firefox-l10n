@@ -46,9 +46,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = टैब बुकमार्क करें
     .accesskey = B
-reopen-in-container =
-    .label = कंटेनर में दुबारा से खोलें
-    .accesskey = e
 move-to-start =
     .label = शुरू करने के लिए ले जाएँ
     .accesskey = S
@@ -58,18 +55,6 @@ move-to-end =
 move-to-new-window =
     .label = नए विंडो में खिसकाएँ
     .accesskey = W
-close-tab =
-    .label = टैब बंद करें
-    .accesskey = C
-close-tabs =
-    .label = टैब बंद करें
-    .accesskey = S
-move-tabs =
-    .label = टैब हटाएँ
-    .accesskey = v
-move-tab =
-    .label = टैब हटाएँ
-    .accesskey = v
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

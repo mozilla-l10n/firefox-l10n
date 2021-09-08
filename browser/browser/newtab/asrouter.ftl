@@ -7,7 +7,6 @@
 
 cfr-doorhanger-extension-heading = अनुशंसित एक्सटेंशन
 cfr-doorhanger-feature-heading = अनुशंसित विशेषता
-cfr-doorhanger-pintab-heading = इसे आज़माएं: पिन टैब
 
 ##
 
@@ -19,8 +18,6 @@ cfr-doorhanger-extension-cancel-button = अभी नहीं
 
 cfr-doorhanger-extension-ok-button = अभी जोड़ें
     .accesskey = A
-cfr-doorhanger-pintab-ok-button = इस टैब को पिन करें
-    .accesskey = P
 
 cfr-doorhanger-extension-manage-settings-button = अनुशंसा सेटिंग प्रबंधित करें|
     .accesskey = म
@@ -68,16 +65,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } उपयोग्कत्तायें
     }
 
-cfr-doorhanger-pintab-description = अपनी सबसे अधिक उपयोग की जाने वाली साइटों तक आसान पहुंच प्राप्त करें। साइटों को एक टैब में खुला रखें (यहां तक कि जब आप फिर से खोलें)।
-
 ## These messages are steps on how to use the feature and are shown together.
-
-cfr-doorhanger-pintab-step1 = उस टैब के ऊपर <b>राइट-क्लिक करें</b> जिसे आप पिन करना चाहते हैं।
-cfr-doorhanger-pintab-step2 = मेन्यू से <b>पिन टैब</b> चुनें।
-cfr-doorhanger-pintab-step3 = अगर साइट पर कोई अपडेट हो तो आपको पिन किए गए टैब पर एक नीला डॉट दिखाई देगा।
-
-cfr-doorhanger-pintab-animation-pause = ठहरें
-cfr-doorhanger-pintab-animation-resume = फिर से शुरू करें
 
 
 ## Firefox Accounts Message
@@ -104,30 +92,7 @@ cfr-whatsnew-button =
     .label = क्या नया है
     .tooltiptext = क्या नया है
 
-cfr-whatsnew-panel-header = क्या नया है
-
 cfr-whatsnew-release-notes-link-text = रिलीज नोट्स पढ़ें
-
-cfr-whatsnew-tracking-protect-title = ट्रैकर्स से खुद को बचाएं
-cfr-whatsnew-tracking-protect-link-text = अपनी रिपोर्ट देखें
-
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $blockedCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-tracking-blocked-title =
-    { $blockedCount ->
-        [one] ट्रैकर अवरुद्ध
-       *[other] ट्रैकर्स अवरुद्ध
-    }
-cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } से
-cfr-whatsnew-tracking-blocked-link-text = रिपोर्ट देखें
-
-cfr-whatsnew-lockwise-backup-title = अपने पासवर्ड का बैकअप लें
-cfr-whatsnew-lockwise-backup-body = अब एक सुरक्षित पासवर्ड बनाएं जिसका उपयोग आप कहीं भी साइन इन करने के लिए कर सकते हैं।
-cfr-whatsnew-lockwise-backup-link-text = बैकअप चालू करें
-
-cfr-whatsnew-lockwise-take-title = अपना पासवर्ड अपने साथ रखें
-cfr-whatsnew-lockwise-take-link-text = एप्प प्राप्त करें
 
 ## Search Bar
 
@@ -137,65 +102,19 @@ cfr-whatsnew-lockwise-take-link-text = एप्प प्राप्त कर
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-header = ब्राउज़ करते समय वीडियो देखें
-cfr-whatsnew-pip-cta = और अधिक जानें
-
 ## Permission Prompt
-
-cfr-whatsnew-permission-prompt-header = कुछ खीझ दिलाने वाली साइट पॉप-अप
-cfr-whatsnew-permission-prompt-cta = और अधिक जानें
 
 ## Fingerprinter Counter
 
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $fingerprinterCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-fingerprinter-counter-header =
-    { $fingerprinterCount ->
-        [one] फ़िंगरप्रिंटर अवरूद्ध किया गया
-       *[other] फ़िंगरप्रिंटर अवरूद्ध किए गए
-    }
-
-# Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = फिंगरप्रिंटर
-
 ## Bookmark Sync
-
-cfr-doorhanger-sync-bookmarks-header = इस बुकमार्क को अपने फ़ोन पर प्राप्त करें
-cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } चालू करें
-    .accesskey = T
 
 ## Login Sync
 
-cfr-doorhanger-sync-logins-header = पासवर्ड को फिर कभी न खोएं
-cfr-doorhanger-sync-logins-body = अपने पासवर्ड को अपने सभी उपकरणों पर सुरक्षापूर्ण तरीके से रखें और सिंक करें।
-cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } चालू करें
-    .accesskey = T
-
 ## Send Tab
-
-cfr-doorhanger-send-tab-header = इस पर पढ़ें
-cfr-doorhanger-send-tab-recipe-header = इस रेसिपी को किचन तक ले जाएं
-cfr-doorhanger-send-tab-ok-button = टैब भेजने का प्रयास करें
-    .accesskey = ट
 
 ## Firefox Send
 
-cfr-doorhanger-firefox-send-header = सुरक्षापूर्वक इस PDF को साझा करें
-cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } आज़माएं
-    .accesskey = T
-
 ## Social Tracking Protection
-
-cfr-doorhanger-socialtracking-ok-button = सुरक्षा देखें
-    .accesskey = स
-cfr-doorhanger-socialtracking-close-button = बंद करें
-    .accesskey = C
-cfr-doorhanger-socialtracking-dont-show-again = इस तरह के संदेश मुझे दोबारा ना दिखाएं
-    .accesskey = D
-cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ने इस पृष्ठ पर एक फिंगरप्रिंटर को अवरुद्ध किया
-cfr-doorhanger-fingerprinters-description = आपकी गोपनीयता मायने रखती है। { -brand-short-name } अब फिंगरप्रिंटर को अवरुद्ध करता है, जो आपको ट्रैक करने के लिए आपके उपकरण के बारे में विशिष्ट पहचान योग्य कुछ जानकारी एकत्र करता है।
-cfr-doorhanger-cryptominers-heading = { -brand-short-name } ने इस पृष्ठ पर एक क्रिप्टोमाइनर को अवरुद्ध किया
 
 ## Enhanced Tracking Protection Milestones
 
@@ -207,9 +126,6 @@ cfr-doorhanger-milestone-ok-button = सभी देखें
 
 ## Lockwise message
 
-cfr-whatsnew-lockwise-header = आसानी से सुरक्षित पासवर्ड बनाएं
-cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } आइकॉन
-
 ## Vulnerable Passwords message
 
 
@@ -220,8 +136,6 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } आइकॉन
 
 
 ## Better PDF message
-
-cfr-whatsnew-better-pdf-header = बेहतर PDF अनुभव
 
 cfr-doorhanger-milestone-close-button = बंद करें
     .accesskey = C
@@ -249,4 +163,10 @@ cfr-doorhanger-fission-secondary-button = अधिक जानें
 ## What's new: Better bookmarking
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

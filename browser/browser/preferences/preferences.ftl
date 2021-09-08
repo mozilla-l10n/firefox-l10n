@@ -7,28 +7,6 @@ do-not-track-learn-more = और अधिक जानें
 do-not-track-option-always =
     .label = हमेशा
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] विकल्प
-       *[other] वरीयता
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] विकल्पों में खोजें
-           *[other] वरियताओं में खोजें
-        }
-
 managed-notice = आपके ब्राउज़र को आपके संगठन द्वारा प्रबंधित किया जा रहा है।
 
 pane-general-title = सामान्य
@@ -46,10 +24,6 @@ category-search =
 pane-privacy-title = गोपनीयता व सुरक्षा
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
@@ -82,21 +56,9 @@ restart-later = कुछ देर से पुनर्प्रारंभ 
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, आपके होम पेज को नियंत्रित कर रहा है.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, आपके नये टैब के पृष्ठ को नियंत्रित कर रहा है.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = एक एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, इस सेटिंग को नियंत्रित कर रहा है।
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = एक्सटेंशन, <img data-l10n-name="icon"/> { $name }, आपके डिफ़ॉल्ट खोज इंजन को नियंत्रित कर रहा है.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -121,26 +83,11 @@ extension-controlled-enable = एक्सटेंशन को सक्षम
 
 search-results-header = खोज परिणाम
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] क्षमा करें! "<span data-l10n-name="query"></span>" हेतु विकल्पों में कोई परिणाम नहीं हैं.
-       *[other] क्षमा करें! "<span data-l10n-name="query"></span>" हेतु वरीयताओं में कोई परिणाम नहीं हैं.
-    }
-
 search-results-help-link = मदद चाहिए? <a data-l10n-name="url">{ -brand-short-name } सपोर्ट</a>देखें
 
 ## General Section
 
 startup-header = आरंभन
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = { -brand-short-name } और Firefox को एक ही समय में चलने के लिए स्वीकारें
-use-firefox-sync = सलाह: यह अलग प्रोफाइल का उपयोग करता है। उनके बीच डेटा साझा करने के लिए { -sync-brand-short-name } का उपयोग करें।
-get-started-not-logged-in = { -sync-brand-short-name } में साइन इन करें…
-get-started-configured = { -sync-brand-short-name } वरीयताएँ खोलें
 
 always-check-default =
     .label = जाँच कीजिए { -brand-short-name } आपका तयशुदा ब्राउज़र है
@@ -180,10 +127,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = आपको चेताएँ जब कई टैब का खोला जाना { -brand-short-name } को धीमा कर सकता हैं;
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = जब आप नये टैब में कड़ी खोलते हैं, इसमें तुरंत जाएँ
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = विंडो कार्यपट्टी में टैब पूर्वावलोकन दिखाएँ
@@ -351,11 +294,6 @@ applications-manage-app =
     .label = अनुप्रयोग विवरण…
 applications-always-ask =
     .label = हमेशा पूछें
-applications-type-pdf = पोर्टेबल दस्तावेज़ फॉर्मेट (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -439,8 +377,6 @@ update-application-manual =
 update-application-use-service =
     .label = अद्यतन संस्थापित करने के लिए पृष्ठभूमि सेवा का उपयोग करें
     .accesskey = b
-
-update-setting-write-failure-title = अद्यतन वरीयताओं को सहेजने में गलती
 
 update-in-progress-title = अद्यतन जारी है
 
@@ -658,8 +594,6 @@ search-show-suggestions-private-windows =
 
 search-suggestions-cant-show = खोज सुझाव स्थान पट्टी में दिखाएँ नहीं जायेंगे क्योंकी आपने { -brand-short-name } को कभी भी इतिहास याद न रखने क लिए कॉन्फ़िगर करा है
 
-search-one-click-header = एकल-क्लिक सर्च इंजन
-
 search-one-click-desc = खोजशब्द दर्ज करना प्रारंभ करते समय वैकल्पिक खोज इंजिन चुने जोकि पता पट्टी और खोज पट्टी के नीचे प्रकट होते हैं.
 
 search-choose-engine-column =
@@ -687,13 +621,6 @@ search-keyword-warning-bookmark = आपने एक बीजशब्द च�
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] वापस विकल्प पर जाएं
-           *[other] वापस वरीयताएं पर जाएं
-        }
-
 containers-header = पात्र टैब
 containers-add-button =
     .label = नया पात्र जोड़े
@@ -703,9 +630,6 @@ containers-new-tab-check =
     .label = प्रत्येक नए टैब के लिए एक कंटेनर का चयन करें
     .accesskey = S
 
-containers-preferences-button =
-    .label = प्राथमिकताएँ
-
 containers-remove-button =
     .label = हटायें
 
@@ -713,11 +637,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = अपना वेब अपने साथ रखें
-sync-signedout-description = अपने सभी उपकरणों पर अपने बुकमार्क, इतिहास, टैब, पासवर्ड, ऐड-ऑन, और वरीयताओं को समकालित करें.
-
-sync-signedout-account-signin2 =
-    .label = { -sync-brand-short-name } में साइन इन करें...
-    .accesskey = i
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -774,11 +693,6 @@ sync-currently-syncing-logins-passwords = लॉगिन और पासवर
 sync-currently-syncing-addresses = पते
 sync-currently-syncing-creditcards = क्रेडिट कार्ड्स
 sync-currently-syncing-addons = ऐड-ऑन
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] विकल्प
-       *[other] वरीयताएँ
-    }
 
 sync-currently-syncing-settings = सेटिंग
 
@@ -820,15 +734,6 @@ sync-engine-addons =
     .label = ऐड-ऑन्स
     .tooltiptext = Firefox डेस्कटॉप के लिए एक्सटेंशन और थीम
     .accesskey = A
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] विकल्प
-           *[other] वरीयताएँ
-        }
-    .tooltiptext = आपके द्वारा परिवर्तित की गई सामान्य, गोपनीयता और सुरक्षा सेटिंग्स
-    .accesskey = s
 
 ## The device name controls.
 
@@ -873,9 +778,6 @@ forms-breach-alerts-learn-more-link = अधिक जानें
 forms-saved-logins =
     .label = सहेजें गए लॉगइन देखें...
     .accesskey = L
-forms-master-pw-use =
-    .label = मुख्य कूटशब्द का प्रयोग करें
-    .accesskey = U
 forms-primary-pw-learn-more-link = अधिक जानें
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -884,17 +786,9 @@ forms-master-pw-change =
     .label = मुख्य कूटशब्द बदलें…
     .accesskey = M
 
-forms-master-pw-fips-title = आप अभी FIPS मोड में हैं. FIPS के लिये गैर रिक्त मुख्य कूटशब्द चाहिए.
-
 forms-master-pw-fips-desc = कूटशब्द बदलाव विफल
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = एक मास्टर पासवर्ड बनाएं
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
@@ -983,10 +877,6 @@ sitedata-clear =
 sitedata-settings =
     .label = डेटा प्रबंधित करें...
     .accesskey = M
-
-sitedata-cookies-permissions =
-    .label = अनुमतियाँ प्रबंधित करें…
-    .accesskey = P
 
 sitedata-cookies-exceptions =
     .label = अपवादों को प्रबंधित करें...
@@ -1144,12 +1034,6 @@ permissions-addon-exceptions =
     .label = अपवाद…
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = एक्सेसरीबिलिटी सेवाओं को अपने ब्राउज़र तक पहुंचने से रोकें
-    .accesskey = a
-
-permissions-a11y-privacy-link = और अधिक जानें
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } डेटा संकलन और उपयोग
@@ -1170,11 +1054,6 @@ addon-recommendations-link = और जानें
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = इस निर्मित विन्यास के लिए डेटा रिपोर्टिंग को असक्रिय किया हैं
-
-collection-backlogged-crash-reports =
-    .label = अनुमति दें { -brand-short-name } को संचित कार्यों के क्रैश रिपोर्ट को आपके ओर से भेजने के लिए
-    .accesskey = c
-collection-backlogged-crash-reports-link = अधिक जानें
 
 ## Privacy Section - Security
 ##
@@ -1202,16 +1081,6 @@ security-block-uncommon-software =
 
 certs-header = प्रमाणपत्र
 
-certs-personal-label = जब एक सर्वर आपके निजी प्रमाणपत्र का आग्रह करता है
-
-certs-select-auto-option =
-    .label = कोई एक स्वतः चुनें
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = आपसे हमेशा पूछें
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
@@ -1223,34 +1092,6 @@ certs-view =
 certs-devices =
     .label = सुरक्षा उपकरण…
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = अधिक जानें
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] विकल्प खोलें
-           *[other] वरीयताएँ खोलें
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } डिस्क में जगह कम हो रही है. वेबसाइट सामग्रियाँ संभवतः ढंग से प्रदर्शित ना हो पायें. आप संग्रहित साइट डेटा में विकल्प > गोपनीयता एवं सुरक्षा > कूकीज़ तथा साइट डेटा में से हटा सकते हैं.
-       *[other] { -brand-short-name } डिस्क में जगह कम हो रही है. वेबसाइट सामग्रियाँ संभवतः ढंग से प्रदर्शित ना हो पायें. आप संग्रहित साइट डेटा में वरीयताएँ > गोपनीयता एवं सुरक्षा > कूकीज़ तथा साइट डेटा में से हटा सकते हैं.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = अच्छा, समझ गया
-    .accesskey = K
-
-space-alert-under-5gb-message = { -brand-short-name } के लिए डिस्क में जगह कम हो रही है. वेबसाइट सामग्री संभवत: ढंग से प्रदर्शित ना हो पाए. आपके डिस्क उपयोग को बेहतर ब्राउज़िंग अनुभव हेतु अनुकूलित करने के लिए “और जानें” पर जाएं.
 
 ## Privacy Section - HTTPS-Only
 

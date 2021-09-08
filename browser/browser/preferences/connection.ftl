@@ -36,19 +36,10 @@ connection-proxy-http = HTTP प्रॉक्सी
 connection-proxy-http-port = पोर्ट
     .accesskey = P
 
-connection-proxy-http-sharing =
-    .label = FTP और HTTPS के लिए इस प्रॉक्सी का भी उपयोग करें
-    .accesskey = s
-
 connection-proxy-https = HTTPS प्रॉक्सी
     .accesskey = H
 connection-proxy-ssl-port = पोर्ट
     .accesskey = o
-
-connection-proxy-ftp = FTP प्रॉक्सी
-    .accesskey = F
-connection-proxy-ftp-port = पोर्ट
-    .accesskey = r
 
 connection-proxy-socks = SOCKS होस्ट
     .accesskey = C

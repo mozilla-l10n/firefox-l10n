@@ -7,20 +7,12 @@ about-logins-page-title = लॉगिन और पासवर्ड
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = हर जगह अपना पासवर्ड लेकर चलें
-login-app-promo-subtitle = मुफ्त { -lockwise-brand-name } ऐप प्राप्त करें
-login-app-promo-android =
-    .alt = इसे Google Play पर पायें
-login-app-promo-apple =
-    .alt = App Store पर डाउनलोड करें
-
 login-filter =
     .placeholder = लॉगिन खोजें
 
 create-login-button = नई लॉगिन बनाएँ
 
 fxaccounts-sign-in-text = अपने पासवर्ड को अपने अन्य उपकरणों पर प्राप्त करें
-fxaccounts-sign-in-button = { -sync-brand-short-name } में साइन इन करें
 fxaccounts-sign-in-sync-button = सिंक करने के लिए साइन इन करें
 fxaccounts-avatar-button =
     .title = खाता प्रबंधित करें
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] प्राथमिकताएँ
     }
 about-logins-menu-menuitem-help = सहायता
-menu-menuitem-android-app = Android के लिए { -lockwise-brand-short-name }
-menu-menuitem-iphone-app = iPhone और iPad के लिए { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -72,14 +62,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = अपने सहेजे गए लॉगिन की खोज़ है? { -sync-brand-short-name } सेट करें।
-
 about-logins-login-intro-heading-logged-out2 = अपने सहेजे गए लॉगिन खोज रहे हैं? सिंक को चालू करें या उन्हें आयात करें।
 about-logins-login-intro-heading-logged-in = कोई संकलित लॉगिन नहीं मिला।
 login-intro-description = यदि आपने अपने लॉगिन को एक अलग डिवाइस पर { -brand-product-name } में सहेजा है, तो उन्हें यहां ऐसे प्राप्त करें:
-login-intro-instruction-fxa = उस उपकरण पर अपना { -fxaccount-brand-name } बनाएं या साइन इन करें जिसपर आपके लॉगिन सहेजे गए हैं
-login-intro-instruction-fxa-settings = सुनिश्चित करें कि आपने { -sync-brand-short-name } सेटिंग्स में लॉगिन चेकबॉक्स का चयन किया है
-about-logins-intro-instruction-help = अधिक मदद के लिए <a data-l10n-name="help-link">{ -lockwise-brand-short-name } सहायता </a> पर जाएं
 about-logins-intro-import = यदि आपके लॉगिन किसी अन्य ब्राउज़र में सहेजे गए हैं, तो आप उन्हें { -lockwise-brand-short-name } में <a data-l10n-name="import-link"> आयात </a> कर सकते हैं
 
 about-logins-intro-import2 = अगर आपके लॉगिन { -brand-product-name } के बाहर सहेजे गए हैं, तो आप उन्हें <a data-l10n-name="import-browser-link">किसी दूसरे ब्राउज़र से</a> या <a data-l10n-name="import-file-link"> फ़ाइल से आयात करें</a>
@@ -137,8 +122,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = सहेजे ग�
 
 ## Master Password notification
 
-master-password-notification-message = सहेजे गए लॉगिन और पासवर्ड देखने के लिए कृपया अपना मास्टर पासवर्ड दर्ज करें
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = अपने लॉगिंस को निर्यात करने के लिए, अपनी Windows लॉगिन क्रेडेंशियल्स दर्ज करें। यह आपके खातों की सुरक्षा को बनाए रखने में मदद करता है।
 # This message can be seen when attempting to export a password in about:logins
@@ -153,17 +136,6 @@ master-password-reload-button =
     .accesskey = L
 
 ## Password Sync notification
-
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] { -sync-brand-short-name } विकल्प पर जाएँ
-           *[other] { -sync-brand-short-name } वरीयताएँ पर जाएँ
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = मुझसे फिर न पूछें
-    .accesskey = न
 
 ## Dialogs
 
