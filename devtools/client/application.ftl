@@ -40,12 +40,6 @@ serviceworker-worker-start3 = ابدأ
 # display the last update time of the service worker script.
 serviceworker-worker-updated = حُدّث في <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = المصدر
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = الحالة
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -55,22 +49,6 @@ serviceworker-worker-status-running = يعمل
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = متوقف
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = عليك تسجيل عامل خدمة لتقدر على فحصه هنا. <a>اطّلع على المزيد</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = إن كان ولا بد أن الصفحة الحالية تحتاج عامل خدمة، فهذه بعض الأمور التي يمكنك تجربتها
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = طالع الأخطاء في المِعراض. <a>افتح المِعراض</a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = افحص عمّال الخدمة من النطاقات الأخرى. <a>افتح about:debugging</a>
 
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = لم يوجد عمّال خدمة

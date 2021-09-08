@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = قائمة
 
-blocklist-button-cancel =
-    .label = ألغِ
-    .accesskey = ل
-
-blocklist-button-ok =
-    .label = احفظ التغييرات
-    .accesskey = ح
-
 blocklist-dialog =
     .buttonlabelaccept = احفظ التغييرات
     .buttonaccesskeyaccept = ح

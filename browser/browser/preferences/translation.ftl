@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = احذف كل المواقع
     .accesskey = ذ
 
-translation-button-close =
-    .label = أغلق
-    .accesskey = غ
-
 translation-dialog =
     .buttonlabelaccept = أغلق
     .buttonaccesskeyaccept = غ

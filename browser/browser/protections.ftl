@@ -117,9 +117,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = كيف تعمل
 
-turn-on-sync = فعّل { -sync-brand-short-name }…
-    .title = انتقل إلى تفضيلات المزامنة
-
 monitor-title = تنبّه وتيقّظ متى ما تسرّبت البيانات
 monitor-link = آلية العمل
 monitor-header-content-no-account = انقر { -monitor-brand-name } لتعرف لو كانت بياناتك جزءًا من تسرّب معروف للبيانات، ولتستلم التنبيهات عن التسريبات الجديدة.

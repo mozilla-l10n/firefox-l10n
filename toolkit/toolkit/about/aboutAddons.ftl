@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = مدير الإضافات
-
 addons-page-title = مدير الإضافات
 
 search-header =
@@ -33,60 +30,11 @@ help-button = دعم الإضافات
 sidebar-help-button-title =
     .title = دعم الإضافات
 
-preferences =
-    { PLATFORM() ->
-        [windows] خيارات { -brand-short-name }
-       *[other] تفضيلات { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] خيارات { -brand-short-name }
-           *[other] تفضيلات { -brand-short-name }
-        }
-
 show-unsigned-extensions-button =
     .label = تعذّر التحقق من بعض الامتدادات
 
 show-all-extensions-button =
     .label = اعرض كل الامتدادات
-
-cmd-show-details =
-    .label = أظهر المزيد من المعلومات
-    .accesskey = ظ
-
-cmd-find-updates =
-    .label = ابحث عن التحديثات
-    .accesskey = ح
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] خيارات
-           *[other] تفضيلات
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] خ
-           *[other] ف
-        }
-
-cmd-enable-theme =
-    .label = طبّق السمة
-    .accesskey = س
-
-cmd-disable-theme =
-    .label = انزع السمة
-    .accesskey = س
-
-cmd-install-addon =
-    .label = نصّب
-    .accesskey = ن
-
-cmd-contribute =
-    .label = ساهِم
-    .accesskey = س
-    .tooltiptext = ساهِم في تطوير هذه الإضافة
 
 detail-version =
     .label = النسخة
@@ -383,8 +331,6 @@ dictionary-disabled-heading = معطّل
 
 locale-enabled-heading = مفعّلة
 locale-disabled-heading = معطّلة
-
-ask-to-activate-button = اسأل قبل التفعيل
 
 always-activate-button = فعّل دائمًا
 never-activate-button = لا تُفعّل أبدًا

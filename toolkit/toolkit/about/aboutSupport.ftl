@@ -10,11 +10,6 @@ crashes-id = معرّف البلاغ
 crashes-send-date = أُرسلَ
 crashes-all-reports = كل بلاغات الانهيار
 crashes-no-config = لم يُضبط التطبيق لعرض بلاغات الانهيار.
-extensions-title = الامتدادات
-extensions-name = الاسم
-extensions-enabled = مفعّل
-extensions-version = النسخة
-extensions-id = المعرّف
 support-addons-title = الإضافات
 support-addons-name = الاسم
 support-addons-type = النوع
@@ -125,8 +120,6 @@ sandbox-sys-call-tid = معرف الخيط
 sandbox-sys-call-proc-type = نوع السيرورة
 sandbox-sys-call-number = نداء النظام
 sandbox-sys-call-args = المعطيات
-safe-mode-title = جرّب الوضع الآمن
-restart-in-safe-mode-label = أعِد التشغيل مع تعطيل الإضافات…
 
 clear-startup-cache-title = جرّب مسح خبيئة البدء
 clear-startup-cache-label = امسح خبيئة البدء…
@@ -284,11 +277,6 @@ webgl2-renderer = مصيّر مشغّل WebGL 2
 webgl2-version = إصدارة مشغّل WebGL 2
 webgl2-driver-extensions = امتدادات مشغّل WebGL 2
 webgl2-extensions = امتدادات WebGL 2
-blocklisted-bug = على قائمة الحجب بسبب مشاكل معروفة معه
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = العلة { $bugNumber }
 
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
@@ -299,8 +287,6 @@ support-blocklisted-bug = على قائمة الحجب بسبب المشاكل �
 unknown-failure = على قائمة الحجب؛ رمز العطل { $failureCode }
 
 d3d11layers-crash-guard = مركّب D3D11
-d3d11video-crash-guard = فاكك ترميز D3D11 للڤديو
-d3d9video-crash-guard = فاكك ترميز D3D9 للڤديو
 glcontext-crash-guard = أوپن‌جي‌إل
 
 reset-on-next-restart = صفّر عند التشغيل التالي
@@ -331,14 +317,6 @@ sandbox-proc-type-media-plugin = ملحقة وسائط
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = فعّله المستخدم
-multi-process-status-1 = مفعّل مبدئيًا
-multi-process-status-2 = معطّل
-multi-process-status-4 = عطّلته أدوات الإتاحة
-multi-process-status-6 = عطّله إدخال النصوص غير المدعوم
-multi-process-status-7 = عطّلته الإضافات
-multi-process-status-8 = عطّل إجبارًا
-multi-process-status-unknown = الحالة غير معروفة
 
 # Variables
 # $fissionWindows (integer) - Number of remote windows

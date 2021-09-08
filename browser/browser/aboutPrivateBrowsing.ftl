@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = افتح نافذة خاصة
 about-private-browsing-search-placeholder = ابحث في الوِب
 about-private-browsing-info-title = أنت في نافذة خاصة
 about-private-browsing-info-myths = الخرافات الشائعة بخصوص التصفح الخاص
-about-private-browsing =
-    .title = ابحث في الوِب
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

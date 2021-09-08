@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = عُد للخلف صفحة واحدة
-    .aria-label = السابق
-    .accesskey = س
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = انتقل للأمام صفحة واحدة
-    .aria-label = التالي
-    .accesskey = ت
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -116,9 +94,6 @@ main-context-menu-page-save =
     .label = احفظ الصفحة باسم…
     .accesskey = س
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -179,10 +154,6 @@ main-context-menu-open-link-new-private-window =
     .label = افتح الرابط في نافذة خاصة جديدة
     .accesskey = خ
 
-main-context-menu-bookmark-this-link =
-    .label = علِّم هذا الرابط
-    .accesskey = ر
-
 main-context-menu-bookmark-link =
     .label = علّم الرابط
     .accesskey = ع
@@ -207,10 +178,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = انسخ عنوان البريد الإلكتروني
     .accesskey = خ
-
-main-context-menu-copy-link =
-    .label = انسخ مكان الرابط
-    .accesskey = م
 
 main-context-menu-copy-link-simple =
     .label = انسخ الرابط
@@ -239,32 +206,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = أطلِق الصوت
     .accesskey = ط
-
-main-context-menu-media-play-speed =
-    .label = سرعة التشغيل
-    .accesskey = ت
-
-main-context-menu-media-play-speed-slow =
-    .label = بطيئة (نصف السرعة)
-    .accesskey = ط
-
-main-context-menu-media-play-speed-normal =
-    .label = عادية
-    .accesskey = ع
-
-main-context-menu-media-play-speed-fast =
-    .label = سريعة (١٫٢٥ ضعف)
-    .accesskey = س
-
-main-context-menu-media-play-speed-faster =
-    .label = أسرع (١٫٥ ضعف)
-    .accesskey = ع
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = سريعة جدًا (ضعفي السرعة)
-    .accesskey = د
 
 main-context-menu-media-play-speed-2 =
     .label = السرعة
@@ -312,12 +253,6 @@ main-context-menu-media-video-leave-fullscreen =
 
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = ڤديو معترِض
-    .accesskey = ع
-
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
     .label = شاهِده بوضع الڤديو المعترِض
     .accesskey = ش
@@ -325,14 +260,6 @@ main-context-menu-media-watch-pip =
 main-context-menu-image-reload =
     .label = أعِد تحميل الصورة
     .accesskey = ع
-
-main-context-menu-image-view =
-    .label = اعرض الصورة
-    .accesskey = ص
-
-main-context-menu-video-view =
-    .label = اعرض الفديو
-    .accesskey = ف
 
 main-context-menu-image-view-new-tab =
     .label = افتح الصورة في لسان جديد
@@ -345,18 +272,6 @@ main-context-menu-video-view-new-tab =
 main-context-menu-image-copy =
     .label = انسخ الصورة
     .accesskey = خ
-
-main-context-menu-image-copy-location =
-    .label = انسخ مكان الصورة
-    .accesskey = س
-
-main-context-menu-video-copy-location =
-    .label = انسخ مكان الفديو
-    .accesskey = ف
-
-main-context-menu-audio-copy-location =
-    .label = انسخ مكان الصوت
-    .accesskey = و
 
 main-context-menu-image-copy-link =
     .label = انسخ رابط الصورة
@@ -378,10 +293,6 @@ main-context-menu-image-email =
     .label = أرسل الصورة بالبريد…
     .accesskey = ص
 
-main-context-menu-image-set-as-background =
-    .label = اجعلها خلفية سطح المكتب…
-    .accesskey = ج
-
 main-context-menu-image-set-image-as-background =
     .label = اضبط الصورة لتكون خلفية سطح المكتب…
     .accesskey = ض
@@ -401,10 +312,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = احفظ الصوت باسم…
     .accesskey = ت
-
-main-context-menu-video-image-save-as =
-    .label = احفظ لقطة شاشة باسم…
-    .accesskey = ط
 
 main-context-menu-video-take-snapshot =
     .label = خُذ لقطة…
@@ -433,14 +340,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = أرسِل الصفحة إلى جهاز
     .accesskey = ه
-
-main-context-menu-view-background-image =
-    .label = اعرض صورة الخلفية
-    .accesskey = خ
-
-main-context-menu-generate-new-password =
-    .label = استعمل كلمة سرّ مولّدة…
-    .accesskey = د
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -528,10 +427,6 @@ main-context-menu-view-page-source =
     .label = اعرض مصدر هذه الصفحة
     .accesskey = ص
 
-main-context-menu-view-page-info =
-    .label = اعرض معلومات الصفحة
-    .accesskey = ص
-
 main-context-menu-bidi-switch-text =
     .label = اعكس اتجاه النص
     .accesskey = ن
@@ -539,10 +434,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = اعكس اتجاه الصفحة
     .accesskey = ك
-
-main-context-menu-inspect-element =
-    .label = افحص العنصر
-    .accesskey = ح
 
 main-context-menu-inspect =
     .label = افحص
@@ -554,3 +445,4 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = اطلع أكثر عن إدارة الحقوق الرقمية…
     .accesskey = د
+

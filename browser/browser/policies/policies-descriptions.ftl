@@ -59,8 +59,6 @@ policy-DisableForgetButton = منع الوصول إلى زر النسيان.
 
 policy-DisableFormHistory = عدم تذكّر تأريخ الاستمارات والبحث.
 
-policy-DisableMasterPasswordCreation = إن كان ”صحيح“، فلا يمكن إنشاء كلمة سر رئيسية.
-
 policy-DisablePrimaryPasswordCreation = إن كان ”صحيح“، فلا يمكن إنشاء كلمة سر رئيسية.
 
 policy-DisablePasswordReveal = لا تسمح بكشف كلمات السر في جلسات الولوج المحفوظة.
@@ -134,8 +132,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = العودة إلى س
 policy-LocalFileLinks = السماح لمواقع بعينها أن تصنع روابط إلى ملفات محلية.
 
 policy-ManagedBookmarks = ضبط قائمة من العلامات المُدارة من الإدارة بحيث لا يمكن للمستخدم تغييرها.
-
-policy-MasterPassword = طلب استعمال كلمة سر رئيسية، أو منع ذلك.
 
 policy-ManualAppUpdateOnly = السماح بالتحديثات اليدوية فقط وعدم إعلام المستخدم بالتحديثات.
 

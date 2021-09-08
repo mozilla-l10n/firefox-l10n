@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = أزل المحدد
     .accesskey = م
 
-site-data-button-cancel =
-    .label = ألغِ
-    .accesskey = ل
-
-site-data-button-save =
-    .label = احفظ التغييرات
-    .accesskey = ظ
-
 site-data-settings-dialog =
     .buttonlabelaccept = احفظ التغييرات
     .buttonaccesskeyaccept = ظ

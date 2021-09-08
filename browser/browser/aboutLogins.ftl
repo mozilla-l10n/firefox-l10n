@@ -7,20 +7,12 @@ about-logins-page-title = جلسات الولوج وكلمات السر
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = خُذ معك كلمات السر أينما ذهبت
-login-app-promo-subtitle = نزّل مجانًا تطبيق { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = نزّله من متجر غوغل
-login-app-promo-apple =
-    .alt = نزّله من متجر آبل
-
 login-filter =
     .placeholder = ابحث في جلسات الولوج
 
 create-login-button = أنشئ جلسة ولوج جديدة
 
 fxaccounts-sign-in-text = استعمل كلمات السر لحساباتك في أجهزتك الأخرى
-fxaccounts-sign-in-button = لِج إلى { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = لِج كي تبدأ المزامنة
 fxaccounts-avatar-button =
     .title = أدِر الحساب
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] التفضيلات
     }
 about-logins-menu-menuitem-help = مساعدة
-menu-menuitem-android-app = { -lockwise-brand-short-name } على أندرويد
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } على آيفون وآيباد
 
 ## Login List
 
@@ -76,14 +66,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = أتبحث عن جلسات ولوجك المحفوظة؟ إذًا اضبط { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = أتبحث عن جلسات ولوجك المحفوظة؟ فعّل المزامنة أو استورِدها.
 about-logins-login-intro-heading-logged-in = لم نجد أيّ جلسة ولوج متزامنة.
 login-intro-description = إن حفظت جلسات ولوجك في { -brand-product-name } على جهاز آخر، فهكذا يمكنك أن تزامنها هنا:
-login-intro-instruction-fxa = أنشِئ أو لِج إلى { -fxaccount-brand-name } على الأجهزة التي لديك عليها جلسات ولوج محفوظة
-login-intro-instruction-fxa-settings = تحقّق من تحديد مربع ”جلسات الولوج“ في إعدادات { -sync-brand-short-name }
-about-logins-intro-instruction-help = زُر <a data-l10n-name="help-link">دعم { -lockwise-brand-short-name }</a> لمزيد من المساعدة
 login-intro-instructions-fxa = أنشِئ أو لِج إلى { -fxaccount-brand-name } على الأجهزة التي لديك عليها جلسات ولوج محفوظة
 login-intro-instructions-fxa-settings = انتقل إلى ”الإعدادات > المزامنة > فعّل المزامنة…“ وضَع علامة على ”جلسات الولوج وكلمات السر“.
 login-intro-instructions-fxa-help = زُر <a data-l10n-name="help-link">دعم { -lockwise-brand-short-name }</a> لمزيد من المساعدة.
@@ -145,8 +130,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = نسخ كلمة ال�
 
 ## Master Password notification
 
-master-password-notification-message = من فضلك أدخِل كلمة السر الرئيسية لعرض جلسات الولوج وكلمات السر المحفوظة
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = أدخِل معلومات ولوج وِندوز لتُصدّر جلسات الولوجج. يساعد هذا الأمر على حماية أمن حساباتك.
 # This message can be seen when attempting to export a password in about:logins
@@ -161,22 +144,6 @@ master-password-reload-button =
     .accesskey = ل
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] أتودّ أن تكون جلسات الولوج التي بدأتها أينما استخدمت { -brand-product-name }؟ افتح خيارات { -sync-brand-short-name } وحدّد مربع ”جلسات الولوج“.
-       *[other] أتودّ أن تكون جلسات الولوج التي بدأتها أينما استخدمت { -brand-product-name }؟ افتح تفضيلات { -sync-brand-short-name } وحدّد مربع ”جلسات الولوج“.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] افتح خيارات { -sync-brand-short-name }
-           *[other] افتح تفضيلات { -sync-brand-short-name }
-        }
-    .accesskey = ف
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = لا تسألني ثانيةً
-    .accesskey = ت
 
 ## Dialogs
 

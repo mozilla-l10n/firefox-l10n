@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = سيتطلب أن تعيد المواقع تحميل الصور و البيانات
 
-clear-site-data-cancel =
-    .label = ألغِ
-    .accesskey = ل
-
-clear-site-data-clear =
-    .label = امسح
-    .accesskey = س
-
 clear-site-data-dialog =
     .buttonlabelaccept = امسح
     .buttonaccesskeyaccept = س

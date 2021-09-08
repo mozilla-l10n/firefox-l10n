@@ -29,12 +29,6 @@
 <!ENTITY closeCmd.label                                 "أغلق">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "غ">
-<!ENTITY printSetupCmd.label                            "إعداد الصفحة…">
-<!ENTITY printSetupCmd.accesskey                        "ع">
-<!ENTITY printPreviewContactCmd.label                   "عاين طباعة جهة الاتصال">
-<!ENTITY printPreviewContactCmd.accesskey               "ط">
-<!ENTITY printPreviewAddressBook.label                  "عاين طباعة دفتر العناوين">
-<!ENTITY printPreviewAddressBook.accesskey              "و">
 <!ENTITY printContactCmd.label                          "اطبع جهة الاتصال…">
 <!ENTITY printContactCmd.accesskey                      "ت">
 <!ENTITY printContactCmd.key                            "P">
@@ -107,10 +101,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "س">
 <!ENTITY exportCmd.label                                "صدِّر…">
 <!ENTITY exportCmd.accesskey                            "ص">
-<!ENTITY preferencesCmd2.label                          "الخيارات">
-<!ENTITY preferencesCmd2.accesskey                      "خ">
-<!ENTITY preferencesCmdUnix.label                       "التفضيلات">
-<!ENTITY preferencesCmdUnix.accesskey                   "ف">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "جهة اتصال جديدة">

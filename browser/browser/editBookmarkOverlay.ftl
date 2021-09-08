@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-bookmark-overlay-name =
-    .value = الاسم:
-    .accesskey = س
-
-bookmark-overlay-location =
-    .value = المكان:
-    .accesskey = م
-
-bookmark-overlay-folder =
-    .value = المجلد:
-
 bookmark-overlay-name-2 =
     .value = الاسم
     .accesskey = س
@@ -39,10 +28,6 @@ bookmark-overlay-new-folder-button =
     .label = مجلد جديد
     .accesskey = ج
 
-bookmark-overlay-tags =
-    .value = الوسوم:
-    .accesskey = و
-
 bookmark-overlay-tags-2 =
     .value = الوسوم
     .accesskey = و
@@ -54,10 +39,6 @@ bookmark-overlay-tags-expander =
     .tooltiptext = أظهر كل الوسوم
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = أخفِ
-
-bookmark-overlay-keyword =
-    .value = الكلمة المفتاحيّة:
-    .accesskey = ك
 
 bookmark-overlay-keyword-2 =
     .value = الكلمة المفتاحية

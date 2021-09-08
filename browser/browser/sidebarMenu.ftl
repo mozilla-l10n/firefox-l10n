@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = العلامات
+
 sidebar-menu-history =
     .label = التأريخ
+
 sidebar-menu-synced-tabs =
     .label = الألسنة المُزامنة
+
 sidebar-menu-close =
     .label = أغلِق الشريط الجانبي
+
 sidebar-close-button =
     .tooltiptext = أغلِق الشريط الجانبي

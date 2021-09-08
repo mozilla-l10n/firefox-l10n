@@ -61,11 +61,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = سلوك اللقطات
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = خُذ اللقطات إلى الحافظة
-options-screenshot-clipboard-tooltip =
-    .title = لحفظ اللقطات مباشرة في الحافظة
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = شغّل صوت غالِق الكمرة
 options-screenshot-audio-tooltip =

@@ -9,9 +9,6 @@ newtab-page-title = لسان جديد
 newtab-settings-button =
     .title = خصص صفحة اللسان الجديد
 
-newtab-personalize-button-label = خصّص
-    .title = خصّص صفحة اللسان الجديد
-    .aria-label = خصّص صفحة اللسان الجديد
 newtab-personalize-icon-label =
     .title = خصّص صفحة اللسان الجديد
     .aria-label = خصّص صفحة اللسان الجديد
@@ -22,8 +19,6 @@ newtab-personalize-icon-label =
 newtab-search-box-search-button =
     .title = ابحث
     .aria-label = ابحث
-
-newtab-search-box-search-the-web-text = ابحث في الوِب
 
 # Variables
 #  $engine (String): the name of the user's default search engine
@@ -263,10 +258,4 @@ newtab-custom-recent-title = أحدث الأنشطة
 newtab-custom-recent-subtitle = مختارات من المواقع والمحتويات الحديثة
 newtab-custom-close-button = أغلِق
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = المقتطفات
-newtab-custom-snippets-subtitle = فوائد وأخبار من { -vendor-short-name } و{ -brand-product-name }
 newtab-custom-settings = أدِر المزيد من الإعدادات

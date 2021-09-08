@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = اتبع تلقائيا حالة الاتصال المكتشفة
     .accesskey = م
 
-startup-label = الحالة يدويا عند بدء التشغيل:
-
 status-radio-remember =
     .label = تذكر حالة الاتصال السابقة
     .accesskey = ذ
