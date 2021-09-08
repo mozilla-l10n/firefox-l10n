@@ -10,11 +10,6 @@ crashes-id = ID nisqa willaymanta.
 crashes-send-date = Apachisqa
 crashes-all-reports = Pantaykunata taripaspa willaq
 crashes-no-config = Kay churaq siqinchasqapiqa manan  churasqaraqchu pantaykuna qawarichinanpaq.
-extensions-title = Taripachinakuna
-extensions-name = Suti
-extensions-enabled = Kichasqa.
-extensions-version = Imaninan
-extensions-id = ID
 support-addons-name = Suti
 support-addons-version = Imaninan
 support-addons-id = ID
@@ -67,8 +62,6 @@ library-version-title = Taqipatarakunaq imaninankuna
 copy-text-to-clipboard-label = rapikunaq allchanapatamanta qilqaytaqi.
 copy-raw-data-to-clipboard-label = Rapikunaq  hanku allchanapatamanta qilqaytaqi.
 sandbox-title = Aqupata
-safe-mode-title = Qaqakaqta tantiyaspa
-restart-in-safe-mode-label = Kaqmantaqallariy sikisqa huntaypakunawan.
 
 ## Media titles
 
@@ -160,19 +153,12 @@ gpu-ram = RAM nisqa
 gpu-driver-version = Imaninanpa tukuyrikuq
 gpu-driver-date = Tukuyrikuqpaima punchay kasqan
 gpu-active = Utqaq, kichaq,
-blocklisted-bug = Blocklisted due to known issues nisqa
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber } nisqa
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocklisted; failure code { $failureCode } nisqa
 
 d3d11layers-crash-guard = D3D11 Compositor nisqa
-d3d11video-crash-guard = D3D11 nisqapi tawqachaq qawanapata
-d3d9video-crash-guard = D3D9 nisqapi tawqachaq pata
 glcontext-crash-guard = GL nisqa kichasqa
 
 reset-on-next-restart = Kaqmanta qatiq qallariy
@@ -191,14 +177,6 @@ can-sandbox-media = Aqopatapi qawanaq aysapakuqkuna.
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Haykuqpaq kichasqa
-multi-process-status-1 = Manaraqtaripaqpaq  kichasqa
-multi-process-status-2 = Sikisqa
-multi-process-status-4 = Allchanakunaq yaykunapaq sikisqa
-multi-process-status-6 = Manataqyachiq patarata  yaykunanpi sikisqa
-multi-process-status-7 = Tupanasqakunaq sikisqa
-multi-process-status-8 = Disabled forcibly nisqa
-multi-process-status-unknown = Manariqsisqa kasqan
 
 async-pan-zoom = Encuadro/zoom asíncrono nisqa
 apz-none = mayqinpas
