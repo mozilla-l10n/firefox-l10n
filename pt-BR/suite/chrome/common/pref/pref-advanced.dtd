@@ -16,6 +16,8 @@
 <!ENTITY setDefaultMail.accesskey         "E">
 <!ENTITY setDefaultNews.label             "Notícias">
 <!ENTITY setDefaultNews.accesskey         "N">
+<!ENTITY setDefaultFeed.label             "Feeds">
+<!ENTITY setDefaultFeed.accesskey         "F">
 <!ENTITY useInternalSettings.description  "Usar email e grupos de notícias do &brandShortName; ao abrir no navegador links de:">
 <!ENTITY useInternalMail.label            "Email (mailto:)">
 <!ENTITY useInternalMail.accesskey        "a">
