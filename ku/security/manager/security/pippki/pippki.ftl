@@ -6,9 +6,6 @@ password-quality-meter = Kalîteya nasnavê diguhere
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Nasnavê Rêvebiriyê Biguherîne
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Amûrê Ewlekariyê: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Nasnavê nû (dubare):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Şîfreya Bingehîn Vala Bike
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Reset Bike
-reset-password-text = Heke nasnavê xwe yê rêvebiriyê vala bihêlî, nasnavên te yên Web û E-Peyamê, agahiyên te yên Formê, sertîfîkayên te yên kesane û kilîta te ya taybet dê winda bibin. Dixwazî nasnavê xwe yê rêvebiriyê vala bikî?
 
 ## Downloading cert dialog
 

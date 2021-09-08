@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,9 +48,6 @@ main-context-menu-page-save =
     .label = Cuda Tomar Bike...
     .accesskey = H
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -81,10 +66,6 @@ main-context-menu-open-link-new-private-window =
     .label = Girêdanê di Pencereyeke Nepen ya nû de veke
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = Vê Girêdanê Têxe Nava Bijareyan...
-    .accesskey = e
-
 main-context-menu-save-link =
     .label = Cuda Tomar Bike...
     .accesskey = C
@@ -100,10 +81,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Navnîşana E-Peyamê Ji Ber Bigire
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = Ciyê Girêdanê Ji Ber Bigire
-    .accesskey = B
 
 ## Media (video/audio) controls
 ##
@@ -154,29 +131,9 @@ main-context-menu-image-reload =
     .label = Wêneyê Dîsa Bar Bike
     .accesskey = r
 
-main-context-menu-image-view =
-    .label = Wêneyê Nîşan Bide
-    .accesskey = W
-
-main-context-menu-video-view =
-    .label = Vîdeoyê Nîşan Bide
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = Wêneyê Ji Ber Bigire
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = Ciyê Wêneyê Ji Ber Bigire
-    .accesskey = C
-
-main-context-menu-video-copy-location =
-    .label = Navnîşana Vîdeoyê Ji Ber Bigire
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Navnîşana Audîoyê Ji Ber Bigire
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = Wêneyê Cuda Tomar Bike...
@@ -185,10 +142,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Wêneyî bi epeyamê bişîne…
     .accesskey = n
-
-main-context-menu-image-set-as-background =
-    .label = Wekî Rûerda Sermaseyê Mîheng Bike...
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = Agahiyên Wêneyî Nîşan Bide
@@ -206,10 +159,6 @@ main-context-menu-audio-save-as =
     .label = Audîoyê Cuda Tomar Bike…
     .accesskey = A
 
-main-context-menu-video-image-save-as =
-    .label = Wênekranê cuda tomar bike…
-    .accesskey = t
-
 main-context-menu-video-email =
     .label = Vîdeoyê bi epeyamê bişîne…
     .accesskey = y
@@ -225,10 +174,6 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Vê pêvekê veşêre
     .accesskey = v
-
-main-context-menu-view-background-image =
-    .label = Wêneyê Rûerdê Nîşan Bide
-    .accesskey = W
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -288,10 +233,6 @@ main-context-menu-view-page-source =
     .label = Çavkaniya Rûpelê Nîşan Bide
     .accesskey = a
 
-main-context-menu-view-page-info =
-    .label = Agahiyên Rûpelê Nîşan Bide
-    .accesskey = A
-
 main-context-menu-bidi-switch-text =
     .label = Bibore Rêveberiya Deqan
     .accesskey = q
@@ -299,8 +240,4 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Bibore Rêveberiya Rûpelê
     .accesskey = R
-
-main-context-menu-inspect-element =
-    .label = Hêmanê vekole
-    .accesskey = Q
 

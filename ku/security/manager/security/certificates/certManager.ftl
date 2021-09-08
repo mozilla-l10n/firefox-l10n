@@ -17,38 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Peywirdar
 
-certmgr-detail-general-tab-title =
-    .label = Giştî
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Kitekit
-    .accesskey = K
-
-certmgr-pending-label =
-    .value = Niha sertîfîka tê rastandin...
-
-certmgr-subject-label = Yê pejirî
-
-certmgr-issuer-label = Ristkar
-
-certmgr-fingerprints = Rêçtilî
-
-certmgr-cert-detail =
-    .title = Hûragahiyên Sertîfîkayê
-    .buttonlabelaccept = Girtin
-    .buttonaccesskeyaccept = G
-
-certmgr-cert-detail-commonname = Navên giştî (CN)
-
-certmgr-cert-detail-org = Sazî (S)
-
-certmgr-cert-detail-orgunit = Yekîneya Saziyan (YS)
-
-certmgr-cert-detail-serial-number = Hejmara Rêzeyî
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 Rêçtilî
-
 certmgr-edit-ca-cert =
     .title = CA Mîhengên Sertîfîkayê yên Ewlekariyê rist bike
     .style = width: 48em;
@@ -76,8 +44,6 @@ certmgr-override-lifetime =
 
 certmgr-token-name =
     .label = Amûrê Ewlekariyê
-
-certmgr-expires-on = Dema bidawîbûnê
 
 certmgr-expires-label =
     .label = Dema bidawîbûnê
@@ -119,14 +85,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Têxê…
     .accesskey = T
-
-certmgr-details =
-    .value = Qada Sertîfîkayê
-    .accesskey = f
-
-certmgr-fields =
-    .value = Nirxa qadê
-    .accesskey = N
 
 certmgr-add-exception =
     .label = Zêdebariyê Bidê…
@@ -190,12 +148,6 @@ delete-user-cert-confirm = Ji dixwazî ku vê sertîfîkayê jê bibî?
 delete-user-cert-impact = Heke sertîfîkaya xwe jê bibî, di xwebinasnamekirinê de nikarî vê bikar bînî.
 
 
-delete-ssl-cert-title =
-    .title = Sertîfîkayên malperan jê bibe
-delete-ssl-cert-confirm = Ji dil dixwazî sertîfîkaya vê malperê jê bibî?
-delete-ssl-cert-impact = Heke sertîfîkaya malperekê jê bibî, dema ku dîsa wê malperê vekî, dê dîsa ji bo pejirandina sertîfîkayê ji te pirs bike.
-
-
 delete-ca-cert-title =
     .title = Sertîfîkayên CAê jê bibe an jî pê ne bawer be
 delete-ca-cert-confirm = te xwest ku sertîfîkaya CAê jê bibî. Ji bo vesazkirina sertîfîkayan dê hemû sertîfîkayên pêbawer bên rakirin. Dixwazî jê bibî an jî pê ne bawer bî?
@@ -208,38 +160,6 @@ delete-email-cert-confirm = Ji dixwazî ku sertîfîkayê E-Peyaman ên van kesa
 delete-email-cert-impact = Heke sertîfîkayên E-postayan jê bibî, êdî nikarî E-Peyamên binasnav ji van kesan re bişînî.
 
 ## Cert Viewer
-
-not-present =
-    .value = <Ne Parçeyeke Sertîfîkayê Ye>
-
-# Cert verification
-cert-verified = Ev sertîfîka ji bo van armancan hat erêkirin:
-
-# Add usage
-verify-ssl-client =
-    .value = Sertîfîkaya Daxwazkar a SSL
-
-verify-ssl-server =
-    .value = Sertîfîkaya Pêşkêşkar a SSL
-
-verify-ssl-ca =
-    .value = Rayedarê Sertîfîkayê SSL
-
-verify-email-signer =
-    .value = Sertîfîkaya Şanenavkara E-Peyamê
-
-verify-email-recip =
-    .value = Sertîfîkaya Bikir a E-Peyam
-
-# Cert verification
-cert-not-verified-cert-revoked = Ji ber ku ev sertîfîka betal e, nehat kontrolkirin.
-cert-not-verified-cert-expired = Ji ber ku dema wê tije bû, ev sertîfîka nehat kontrolkirin.
-cert-not-verified-cert-not-trusted = Ji ber ku ne ewle ye kontrolkirina sertîfîkayê nehat kirin.
-cert-not-verified-issuer-not-trusted = Ji ber ku weşankar ewle nehat dîdit, sertîfîka nehat kontrolkirin.
-cert-not-verified-issuer-unknown = Ji ber ku weşankar nayê zanîn, sertîfîka nehat kontrolkirin.
-cert-not-verified-ca-invalid = Ji ber ku sertîfîkaya CA 'ê betal e, ev sertîfîka nehat kontrolkirin.
-cert-not-verified_algorithm-disabled = Ji ber ku ev belgeya erêkirinê bi algorîtmayeke îzmeyê ya ne ewle hatiye îmzekirin, nehate esehîkirin.
-cert-not-verified-unknown = Ev sertîfîka ji ber sedemên nayên zanîn, nehat kontrolkirin.
 
 ## Used to show whether an override is temporary or permanent
 

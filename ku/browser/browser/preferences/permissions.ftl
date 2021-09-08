@@ -20,10 +20,6 @@ permissions-allow =
 permissions-status =
     .label = Rewş
 
-permissions-button-cancel =
-    .label = Betal
-    .accesskey = B
-
 permissions-capabilities-allow =
     .label = Destûrê bide
 permissions-capabilities-block =

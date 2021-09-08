@@ -5,4 +5,3 @@
 synced-tabs-context-sync-now =
     .label = Niha senkronîze bike
     .accesskey = s
-fxa-sign-in = Danişîna { -sync-brand-short-name }ê veke

@@ -5,28 +5,9 @@
 places-open =
     .label = Veke
     .accesskey = V
-places-open-tab =
-    .label = Di Hilpekîneke Nû de Veke
-    .accesskey = D
 places-open-all-in-tabs =
     .label = Hemûyan di Hilpekînan de Veke
     .accesskey = H
-places-open-window =
-    .label = Di pencereyeke nû de veke
-    .accesskey = n
-
-places-new-bookmark =
-    .label = Bijareya Nû...
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = Peldanka Nû...
-    .accesskey = F
-places-new-folder =
-    .label = Peldanka Nû...
-    .accesskey = P
-places-new-separator =
-    .label = Navbeynkara Nû
-    .accesskey = N
 
 places-view =
     .label = Bibîne
@@ -53,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = li Gorî Navan Rêz Bike
     .accesskey = R
-places-properties =
-    .label = Taybetmendî
-    .accesskey = T
 
