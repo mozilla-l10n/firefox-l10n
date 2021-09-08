@@ -95,7 +95,9 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Чӣ нав аст
 cfr-whatsnew-release-notes-link-text = Қайдҳои бароришро хонед
 cfr-whatsnew-fx70-title = Акнун { -brand-short-name } барои махфияти шумо сахттар мубориза мекунад
+cfr-whatsnew-fx70-body = Навсозии охирин хусусияти «Муҳофизат аз пайгирӣ»-ро беҳтар мекунад ва барои ҳар як сомона раванди эҷодкунии ниҳонвожаҳои бехатарро осонтар менамояд.
 cfr-whatsnew-tracking-protect-title = Худро аз васоити пайгирӣ муҳофизат намоед
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } бисёр васоити пайгириеро, ки фаъолияти шуморо дар онлайн пайгирӣ мекунанд, манъ менамояд.
 cfr-whatsnew-tracking-protect-link-text = Намоиш додани гузориши ман
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
