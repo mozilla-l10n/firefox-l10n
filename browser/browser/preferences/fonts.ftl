@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = సంక్రమిత కాంటెంట్ కొరకు పాఠ్యపు ఎన్‌కోడింగు
-fonts-languages-fallback-desc = ఏదైనా సంక్రమిత పాఠ్యం దాని ఎన్‌కోడింగును వెల్లడిచేయనప్పుడు ఈ ఎన్‌కోడింగు వాడబడుతుంది.
-
-fonts-languages-fallback-label = ఆసరా పాఠ్యపు ఎన్‌కోడింగు
-    .accesskey = క
-
-fonts-languages-fallback-name-auto =
-    .label = ప్రస్తుత స్థానికపు అప్రమేయం
-fonts-languages-fallback-name-arabic =
-    .label = అరబిక్
-fonts-languages-fallback-name-baltic =
-    .label = బాల్టిక్
-fonts-languages-fallback-name-ceiso =
-    .label = సెంట్రల్ యూరోపియన్, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = సెంట్రల్ యూరోపియన్, మైక్రోసాఫ్ట్
-fonts-languages-fallback-name-simplified =
-    .label = చైనీస్, సింప్లిఫైడ్
-fonts-languages-fallback-name-traditional =
-    .label = చైనీస్, ట్రెడిషనల్
-fonts-languages-fallback-name-cyrillic =
-    .label = సిరిల్లిక్
-fonts-languages-fallback-name-greek =
-    .label = గ్రీకు
-fonts-languages-fallback-name-hebrew =
-    .label = హీబ్రూ
-fonts-languages-fallback-name-japanese =
-    .label = జపనీ
-fonts-languages-fallback-name-korean =
-    .label = కొరియన్
-fonts-languages-fallback-name-thai =
-    .label = థాయి
-fonts-languages-fallback-name-turkish =
-    .label = టర్కిష్
-fonts-languages-fallback-name-vietnamese =
-    .label = వియత్నామీస్
-fonts-languages-fallback-name-other =
-    .label = ఇతర (పశ్చిమ యూరోపియనుతో కలిపి)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

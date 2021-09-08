@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = వెతకండి
     .aria-label = వెతకండి
 
-newtab-search-box-search-the-web-text = జాలంలో వెతకండి
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = { $engine }‌తో వెతకండి లేదా చిరునామాను ఇవ్వండి
@@ -241,8 +239,3 @@ newtab-custom-pocket-sponsored = ప్రాయోజిక కథనాలు
 newtab-custom-recent-title = ఇటీవలి కార్యకలాపం
 newtab-custom-close-button = మూసివేయి
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = సంగతులు

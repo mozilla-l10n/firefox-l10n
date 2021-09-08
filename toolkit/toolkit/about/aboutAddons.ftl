@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = పొడిగింతల నిర్వాహకి
-
 addons-page-title = పొడిగింతల నిర్వాహకి
 
 search-header =
@@ -29,60 +26,11 @@ list-empty-find-updates =
 list-empty-button =
     .label = పొడిగింతలు గురించి మరింత తెలుసుకొనండి
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } ఎంపికలు
-       *[other] { -brand-short-name } అభిరుచులు
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } ఎంపికలు
-           *[other] { -brand-short-name } అభిరుచులు
-        }
-
 show-unsigned-extensions-button =
     .label = కొన్ని పొడగింతలను తనిఖీ చేయలేకపోయాం
 
 show-all-extensions-button =
     .label = అన్ని పొడగింతలను చూపించు
-
-cmd-show-details =
-    .label = మరింత సమాచారం చూపించు
-    .accesskey = S
-
-cmd-find-updates =
-    .label = నవీకరణలను కనుగొను
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ఎంపికలు
-           *[other] అభిరుచులు
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = ఐచ్ఛిక ధీముని దరించు
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = ఎంపిక శైలిని దరించుటను ఆపు
-    .accesskey = W
-
-cmd-install-addon =
-    .label = స్థాపించు
-    .accesskey = I
-
-cmd-contribute =
-    .label = తోడ్పడండి
-    .accesskey = C
-    .tooltiptext = ఈ పొడిగింత అభివృద్దిలో పాల్గొనుము
 
 detail-version =
     .label = వెర్షను

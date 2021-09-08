@@ -43,9 +43,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = ఇష్టాంశముల ట్యాబు
     .accesskey = B
-reopen-in-container =
-    .label = కంటెయినర్లో తెరువు
-    .accesskey = e
 move-to-start =
     .label = ప్రారంభించడానికి తరలించండి
     .accesskey = S
@@ -55,18 +52,6 @@ move-to-end =
 move-to-new-window =
     .label = కొత్త విండోకి తరలించు
     .accesskey = W
-close-tab =
-    .label = ట్యాబుని మూసివేయి
-    .accesskey = C
-close-tabs =
-    .label = ట్యాబులను మూసివేయి
-    .accesskey = S
-move-tabs =
-    .label = ట్యాబులను తరలించండి
-    .accesskey = v
-move-tab =
-    .label = ట్యాబును తరలించండి
-    .accesskey = v
 tab-context-share-more =
     .label = మరిన్ని…
 
@@ -81,3 +66,4 @@ tab-context-close-tabs =
            *[other] ట్యాబులను మూసివేయి
         }
     .accesskey = C
+

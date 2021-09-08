@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "శుభ్రం">
 
-<!ENTITY fillLoginMenu.label          "ప్రవేశాన్ని పూరించు">
-<!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "సంకేతపదాన్ని పూరించు">
-<!ENTITY fillPasswordMenu.accesskey   "F">
-<!ENTITY fillUsernameMenu.label       "వాడుకరి పేరును పూరించు">
-<!ENTITY fillUsernameMenu.accesskey   "F">
-<!ENTITY noLoginSuggestions.label     "(ప్రవేశ సలహాలు ఏమీ లేవు)">
-<!ENTITY viewSavedLogins.label        "భద్రపరిచిన ప్రవేశాలను చూడండి">

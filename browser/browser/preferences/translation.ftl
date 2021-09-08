@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = అన్ని సైట్లను తీసివేయి
     .accesskey = i
 
-translation-button-close =
-    .label = మూసివేయి
-    .accesskey = C
-
 translation-dialog =
     .buttonlabelaccept = మూసివేయి
     .buttonaccesskeyaccept = C

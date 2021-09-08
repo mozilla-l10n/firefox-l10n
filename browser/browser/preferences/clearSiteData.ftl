@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = జాలగూళ్ళు చిత్రాలను, దత్తాంశాన్ని తిరిగి తెచ్చుకోవాల్సిఉంటుంది
 
-clear-site-data-cancel =
-    .label = రద్దుచేయి
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = తుడిచివేయి
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = తుడిచివేయి
     .buttonaccesskeyaccept = l
