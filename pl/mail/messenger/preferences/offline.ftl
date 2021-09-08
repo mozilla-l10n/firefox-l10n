@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Automatycznie wykrywanie stanu połączenia
     .accesskey = A
 
-startup-label = Podczas uruchamiania:
-
 offline-preference-startup-label = Podczas uruchamiania:
 
 status-radio-remember =

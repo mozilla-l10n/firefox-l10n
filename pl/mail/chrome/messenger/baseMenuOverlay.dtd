@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "c">
 <!ENTITY aboutProduct2.label "O programie &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "O">
-<!ENTITY helpTroubleshootingInfo.label     "Informacje do rozwiązywania problemów">
-<!ENTITY helpTroubleshootingInfo.accesskey "n">
-<!ENTITY helpSafeMode.label     "Uruchom ponownie z wyłączonymi dodatkami…">
-<!ENTITY helpSafeMode.accesskey "U">
-<!ENTITY helpSafeMode.stop.label     "Uruchom ponownie z włączonymi dodatkami">
-<!ENTITY helpSafeMode.stop.accesskey "U">
 <!ENTITY productHelp.label "Pomoc programu &brandShortName;">
 <!ENTITY productHelp.accesskey "c">
 <!ENTITY productHelp.commandkey "VK_F1">

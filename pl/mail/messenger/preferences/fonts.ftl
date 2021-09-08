@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Bezszeryfowa
 
-font-size-label =
-    .value = Rozmiar:
-    .accesskey = R
-
 font-size-proportional-label =
     .value = Rozmiar:
     .accesskey = R

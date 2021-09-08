@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = Ustawienia OTR
 otr-log =
     .label = Umieszczaj rozmowy zaszyfrowane za pomocą OTR w dziennikach rozmów
-otr-requireEncryption =
-    .label = Wymagaj szyfrowania typu „end-to-end” dla rozmów między dwoma osobami
-otr-verifyNudge =
-    .label = Zawsze przypominaj o zweryfikowaniu niezweryfikowanego kontaktu
-
-otr-notYetAvailable = jeszcze niedostępne
 
 otr-require-encryption =
     .label = Wymagaj szyfrowania typu „end-to-end” dla rozmów między dwoma osobami

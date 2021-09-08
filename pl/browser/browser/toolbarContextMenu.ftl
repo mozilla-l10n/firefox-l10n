@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Zaznacz wszystkie karty
     .accesskey = Z
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Przywróć zamkniętą kartę
-           *[other] Przywróć zamknięte karty
-        }
-    .accesskey = P
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Przypnij do menu ukrywania
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Automatyczne ukrywanie na pasku narzędzi
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Ukrywaj przycisk, kiedy lista jest pusta
     .accesskey = U

@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Podpisz cyfrowo tę wiadomość">
 <!ENTITY menu_securitySign.accesskey "P">
 
-<!ENTITY menu_securityAttachMyKey.label "Dołącz mój klucz publiczny">
-<!ENTITY menu_securityAttachMyKey.accesskey "D">
-
 <!ENTITY menu_securityTech.label "Technologia szyfrowania">
 <!ENTITY menu_securityTech.accesskey "T">
 

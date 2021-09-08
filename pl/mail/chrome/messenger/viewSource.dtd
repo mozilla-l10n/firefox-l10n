@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Zapisz stronę jako…">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Ustawienia strony…">
-<!ENTITY pageSetupCmd.accesskey "U">
-<!ENTITY printPreviewCmd.label "Podgląd wydruku">
-<!ENTITY printPreviewCmd.accesskey "P">
 <!ENTITY printCmd.label "Drukuj…">
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.commandkey "P">

@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Odciski kluczy OTR z poprzednich rozmów zaszyfrowanych metodą „end-to-end”.
 
-finger-screenName =
-    .label = Kontakt
-
 finger-screen-name =
     .label = Kontakt
 finger-verified =

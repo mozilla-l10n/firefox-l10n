@@ -105,9 +105,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Jak to działa
 
-turn-on-sync = Włącz { -sync-brand-short-name(case: "acc", capitalization: "lower") }…
-    .title = Otwórz preferencje synchronizacji
-
 monitor-title = Miej oko na wycieki danych
 monitor-link = Jak to działa
 monitor-header-content-no-account = Wypróbuj { -monitor-brand-name }, aby sprawdzić, czy Twoje dane nie wyciekły i otrzymywać powiadomienia o nowych wyciekach danych.

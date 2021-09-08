@@ -14,9 +14,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Opuść tryb pełnoekranowy">
 <!ENTITY castingButton.castingLabel "Wyślij na inne urządzenie">
 <!ENTITY closedCaption.off "Wyłączone">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Suwak regulacji głośności">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->

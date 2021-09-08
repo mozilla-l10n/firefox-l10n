@@ -53,9 +53,6 @@ import-label = Importuj
 
 about-paragraph = Thunderbird to wiodący międzyplatformowy klient poczty i kalendarza open source, bezpłatny dla przedsiębiorstw i użytku osobistego. Chcemy, aby nadal był bezpieczny i stał się jeszcze lepszy. Datek umożliwi nam zatrudnienie programistów, opłacenie infrastruktury i kontynuowanie ulepszania programu.
 
-about-paragraph-2 = <b>Thunderbird jest finansowany przez użytkowników takich jak Ty! Jeśli lubisz Thunderbirda, to prosimy rozważyć jego wsparcie.</b> Najlepszym sposobem na zapewnienie, aby Thunderbird był zawsze dostępny jest
-about-donation = przekazanie datku
-
 about-paragraph-consider-donation = <b>Thunderbird jest finansowany przez użytkowników takich jak Ty! Jeśli lubisz Thunderbirda, to prosimy rozważyć jego wsparcie.</b> Najlepszym sposobem na zapewnienie, aby Thunderbird był zawsze dostępny jest <a data-l10n-name="donation-link">przekazanie datku</a>.
 
 explore-link = Odkrywaj możliwości

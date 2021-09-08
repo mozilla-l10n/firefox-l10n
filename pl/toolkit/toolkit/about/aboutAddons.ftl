@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Dodatki
-
 addons-page-title = Dodatki
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Wsparcie dla dodatków
 sidebar-help-button-title =
     .title = Wsparcie dla dodatków
 
-preferences =
-    { PLATFORM() ->
-        [windows] Opcje programu
-       *[other] Preferencje programu
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opcje programu
-           *[other] Preferencje programu
-        }
-
 addons-settings-button = Ustawienia programu
 sidebar-settings-button-title =
     .title = Ustawienia programu
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Pokaż wszystkie rozszerzenia
-
-cmd-show-details =
-    .label = Wyświetl więcej informacji
-    .accesskey = W
-
-cmd-find-updates =
-    .label = Znajdź aktualizacje
-    .accesskey = n
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opcje
-           *[other] Preferencje
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Używaj motywu
-    .accesskey = a
-
-cmd-disable-theme =
-    .label = Przestań używać motywu
-    .accesskey = a
-
-cmd-install-addon =
-    .label = Zainstaluj
-    .accesskey = Z
-
-cmd-contribute =
-    .label = Wspomóż
-    .accesskey = s
-    .tooltiptext = Wspomóż rozwój tego dodatku
 
 detail-version =
     .label = Wersja
@@ -401,8 +349,6 @@ dictionary-disabled-heading = Wyłączone
 
 locale-enabled-heading = Włączone
 locale-disabled-heading = Wyłączone
-
-ask-to-activate-button = Pytaj o aktywację
 
 always-activate-button = Zawsze aktywuj
 never-activate-button = Nigdy nie aktywuj

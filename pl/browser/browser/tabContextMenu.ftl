@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Dodaj zakładkę do karty
     .accesskey = D
-reopen-in-container =
-    .label = Otwórz ponownie w karcie z kontekstem
-    .accesskey = k
 tab-context-open-in-new-container-tab =
     .label = Otwórz w nowej karcie z kontekstem
     .accesskey = k
@@ -69,25 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Zamknij wiele kart
     .accesskey = w
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Przywróć zamkniętą kartę
-           *[other] Przywróć zamknięte karty
-        }
-    .accesskey = a
-close-tab =
-    .label = Zamknij kartę
-    .accesskey = Z
-close-tabs =
-    .label = Zamknij karty
-    .accesskey = Z
-move-tabs =
-    .label = Przenieś karty
-    .accesskey = r
-move-tab =
-    .label = Przenieś kartę
-    .accesskey = r
 tab-context-share-url =
     .label = Udostępnij
     .accesskey = U
@@ -127,6 +105,7 @@ tab-context-move-tabs =
            *[other] Przenieś karty
         }
     .accesskey = r
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
