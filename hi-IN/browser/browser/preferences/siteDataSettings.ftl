@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = चयनित हटाएँ
     .accesskey = r
 
-site-data-button-cancel =
-    .label = रद्द करें
-    .accesskey = C
-
-site-data-button-save =
-    .label = परिवर्तन सहेजें
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = परिवर्तन सहेजें
     .buttonaccesskeyaccept = a

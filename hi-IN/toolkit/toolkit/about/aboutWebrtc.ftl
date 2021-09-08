@@ -148,8 +148,6 @@ about-webrtc-aec-logging-off-state-msg = कैप्चर लॉग फ़ा�
 
 ##
 
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
@@ -179,6 +177,8 @@ about-webrtc-sdp-set-at-timestamp-remote = दूरस्थ SDP को टा�
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = टाइमस्टैम्प { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
+
+##
 
 ##
 

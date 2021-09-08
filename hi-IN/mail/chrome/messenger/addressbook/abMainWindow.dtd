@@ -23,10 +23,6 @@
 <!ENTITY closeCmd.label                                 "बंद करें">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "c">
-<!ENTITY printSetupCmd.label                            "पेज सेटअप...">
-<!ENTITY printSetupCmd.accesskey                        "u">
-<!ENTITY printPreviewAddressBook.label                  "छपाई पूर्वावलोकन पता पुस्तिका">
-<!ENTITY printPreviewAddressBook.accesskey              "B">
 <!ENTITY printAddressBook.label                         "पता पुस्तिका छापें...">
 <!ENTITY printAddressBook.accesskey                     "A">
 
@@ -70,9 +66,7 @@
 <!ENTITY importCmd.label                                "आयात...">
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "निर्यात...">
-<!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmdUnix.label                       "वरीयता">
-<!ENTITY preferencesCmdUnix.accesskey                   "n"> 
+<!ENTITY exportCmd.accesskey                            "E"> 
 
 <!ENTITY newlistButton.label                            "नयी सूची">
 <!ENTITY newlistButton.accesskey                        "L">

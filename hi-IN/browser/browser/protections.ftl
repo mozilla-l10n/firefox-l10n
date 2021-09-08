@@ -61,9 +61,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = यह कैसे काम करता है
 
-turn-on-sync = { -sync-brand-short-name } चालू करें…
-    .title = सिंक वरीयताओं पर जाएँ
-
 monitor-title = डेटा उल्लंघनों की तलाश करें
 monitor-link = यह किस प्रकार काम करता है
 auto-scan = आज स्वचालित रूप से स्कैन किया गया

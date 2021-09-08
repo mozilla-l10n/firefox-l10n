@@ -35,10 +35,6 @@
 <!ENTITY printCmd.label "छापें...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "छपाई पूर्वावलोकन">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "पेज सेटअप...">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "संदेश मिटायें">
@@ -291,13 +287,10 @@
 <!ENTITY fileButton.label "फाइल">
 <!ENTITY nextButton.label "अगला">
 <!ENTITY previousButton.label "पिछला">
-<!ENTITY deleteButton.label "मिटाएँ">
 <!ENTITY markButton.label "चिह्नित करें">
 <!ENTITY printButton.label "छापें">
 <!ENTITY stopButton.label "रोकें">
 <!ENTITY throbberItem.title "क्रियाकलाप संकेतक">
-<!ENTITY junkButton.label "जंक">
-<!ENTITY notJunkButton.label "जंक नहीं">
 <!ENTITY addressBookButton.label "पता पुस्तिका">
 
 <!-- Mail Toolbar Tooltips-->
@@ -311,12 +304,9 @@
 <!ENTITY fileButton.tooltip "चयनित संदेश फाइल करें">
 <!ENTITY nextButton.tooltip "अगले अपठित संदेश को खिसकायें">
 <!ENTITY previousButton.tooltip "पिछले अपठित संदेश को खिसकायें">
-<!ENTITY deleteButton.tooltip "चयनित संदेश या फोल्डर को मिटायें">
 <!ENTITY markButton.tooltip "संदेश चिह्नित करें">
 <!ENTITY printButton.tooltip "इस संदेश को मुद्रित करें">
 <!ENTITY stopButton.tooltip "मौजूदा हस्तांतरण को रोकें">
-<!ENTITY junkButton.tooltip "चिह्नित संदेश जंक रूप में चिह्नित करें">
-<!ENTITY notJunkButton.tooltip "चिह्नित संदेश जंक रूप में चिह्नित न करें">
 <!ENTITY addressBookButton.tooltip "पता पुस्तिका में जायें">
 
 <!ENTITY folderSizeColumn.label "आकार">

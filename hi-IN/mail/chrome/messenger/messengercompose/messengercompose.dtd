@@ -11,13 +11,9 @@
 <!ENTITY newMenu.label "नया">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "संदेश">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY attachMenu.label "संलग्न">
 <!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "फाइल...">
-<!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "वेब पेज...">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -43,8 +39,6 @@
 <!ENTITY sendLaterCmd.label "बाद में भेजें">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "पेज सेटअप...">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "छापें...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P"> 
@@ -139,9 +133,7 @@
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "पता पुस्तिका">
-<!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY preferencesCmdUnix.label       "वरीयता">
-<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+<!ENTITY addressBookCmd.accesskey "a"> 
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -154,7 +146,6 @@
 <!ENTITY sendButton.label "भेजें">
 <!ENTITY quoteButton.label "उद्धरण">
 <!ENTITY addressButton.label "संपर्क">
-<!ENTITY attachButton.label "संलग्र">
 <!ENTITY spellingButton.label "वर्तनी">
 <!ENTITY saveButton.label "सहेजें">
 
@@ -216,8 +207,6 @@
 <!ENTITY delete.accesskey "D">
 <!ENTITY selectAll.label "सबको चुनें">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "फाइल संलग्न करें...">
-<!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "वेबपेज संलग्न करें...">
 <!ENTITY attachPage.accesskey "W">
 

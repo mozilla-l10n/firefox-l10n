@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "साफ करें|">
 
-<!ENTITY fillLoginMenu.label          "लॉगइन भरें">
-<!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "पासवर्ड भरें">
-<!ENTITY fillPasswordMenu.accesskey   "F">
-<!ENTITY fillUsernameMenu.label       "उपयोक्तानाम भरें">
-<!ENTITY fillUsernameMenu.accesskey   "उ">
-<!ENTITY noLoginSuggestions.label     "(कोई लॉगइन सुझाव नहीं)">
-<!ENTITY viewSavedLogins.label        "सहेजें गए लॉगइन देखें">

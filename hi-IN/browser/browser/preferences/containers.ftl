@@ -5,11 +5,6 @@
 containers-window-new =
     .title = नया पात्र जोड़े
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } पात्र प्राथमिकताएँ
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = प्रती‌क
 containers-color-label = रंग
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = कर दिया है
-    .accesskey = D
 
 containers-dialog =
     .buttonlabelaccept = कर दिया है

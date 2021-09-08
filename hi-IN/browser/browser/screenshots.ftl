@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = स्क्रीनशॉट लें
-
-screenshots-my-shots-button = मेरे चित्र
-
 screenshots-instructions = किसी क्षेत्र को चुनने के लिए पृष्ठ पर खींचें या क्लिक करें. रद्द करने के लिए ESC दबाएँ.
 screenshots-cancel-button = रद्द करें
 screenshots-save-visible-button = दृश्यमान सहेजें
@@ -36,8 +32,6 @@ screenshots-login-error-details = हम आपका शॉट सहेज न
 
 screenshots-unshootable-page-error-title = हम इस पृष्ठ का स्क्रीनशॉट नहीं ले सकते.
 screenshots-unshootable-page-error-details = यह एक मानक वेब पेज नहीं है, इसलिए आप इसका स्क्रीनशॉट नहीं ले सकते.
-
-screenshots-self-screenshot-error-title = आप एक Firefox स्क्रीनशॉट पृष्ठ का शॉट नहीं ले सकते!
 
 screenshots-empty-selection-error-title = आपका चयन बहुत छोटा है
 

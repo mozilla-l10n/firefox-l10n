@@ -17,9 +17,6 @@
 <!ENTITY redoCmd.accesskey					"r">  
 <!ENTITY deleteCmd.label					"मिटायें">  
 <!ENTITY deleteCmd.accesskey				"d">  
-<!ENTITY preferencesCmdUnix.label       "प्राथमिकता">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
-
 <!ENTITY viewMenu.label					"देखें"> 
 <!ENTITY viewMenu.accesskey				"v"> 
 <!ENTITY viewToolbarsMenu.label				"टूलबार"> 

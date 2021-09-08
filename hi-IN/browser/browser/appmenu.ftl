@@ -6,8 +6,6 @@
 ## App Menu
 
 appmenuitem-protection-dashboard-title = सुरक्षा डैशबोर्ड
-appmenuitem-customize-mode =
-    .label = मनपसंद बनाएँ…
 
 ## Zoom Controls
 
@@ -35,6 +33,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = एप्लिकेशन मेन्यू बंद करें
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -51,36 +50,37 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = अब तुल्यकालित करें
 appmenu-remote-tabs-sign-into-sync =
     .label = सिंक करने के लिए साइन इन करें...
 appmenu-remote-tabs-turn-on-sync =
     .label = सिंक चालू करें…
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = सभी दिखाएँ
-    .tooltiptext = इस उपकरण से और टैब दिखाएँ
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = कोई टैब खुला नहीं
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से टैब संकलन खोले.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = यहाँ अन्य डिवाइस से अपना टैब देखना चाहते हैं?
+
 appmenu-remote-tabs-connectdevice =
     .label = अन्य उपकरण जोड़ें
 appmenu-remote-tabs-welcome = अपने अन्य उपकरणों से टैब की एक सूची दिखाएं।
 appmenu-remote-tabs-unverified = आपके खाते की पृष्टि करने की आवश्यकता है.
+
 appmenuitem-fxa-toolbar-sync-now2 = अभी सिंक करें
 appmenu-fxa-header2 = { -fxaccount-brand-name }
 appmenu-fxa-signed-in-label = साइन इन
+
 appmenuitem-save-page =
     .label = पृष्ठ ऐसे सहेजें…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = क्या नया है
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -93,19 +93,26 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-learn-more = अधिक जानें
+
 profiler-popup-settings =
     .value = सेटिंग
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = सेटिंग संपादित करें…
+
 profiler-popup-recording-screen = रिकॉर्डिंग…
+
 profiler-popup-start-recording-button =
     .label = रिकॉर्डिंग शुरू करें
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -157,3 +164,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = कार्य प्रबंधक
+

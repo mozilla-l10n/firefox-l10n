@@ -28,12 +28,6 @@ serviceworker-worker-debug = दोषशोधन करे
 # display the last update time of the service worker script.
 serviceworker-worker-updated = <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time> को अपडेट हुआ
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = स्रोत
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = स्थिति
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
