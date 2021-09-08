@@ -270,7 +270,7 @@
 <!ENTITY tableCellAfter.accesskey "t">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Borrar">
-<!ENTITY tableDeleteMenu.accesskey "E">
+<!ENTITY tableDeleteMenu.accesskey "B">
 
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")

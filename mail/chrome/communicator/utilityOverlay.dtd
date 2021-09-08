@@ -16,7 +16,7 @@
 <!ENTITY redoCmd.label            "Repetir">
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY deleteCmd.label          "Borrar">
-<!ENTITY deleteCmd.accesskey        "E">
+<!ENTITY deleteCmd.accesskey        "B">
 <!ENTITY preferencesCmd2.label "Opciones">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Preferencias">
