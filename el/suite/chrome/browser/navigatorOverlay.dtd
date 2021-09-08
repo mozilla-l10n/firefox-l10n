@@ -104,9 +104,9 @@ left instead of right. -->
 <!ENTITY cookieMessageTitle.label "Τα δικαιώματα cookies άλλαξαν">
 <!ENTITY cookieDisplayCookiesCmd.label "Διαχείριση αποθηκευμένων cookies">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "Δ">
-<!ENTITY cookieAllowCookiesCmd.label "Αποδοχή cookies από την ιστοσελίδα">
+<!ENTITY cookieAllowCookiesCmd.label "Αποδοχή cookies από τον ιστότοπο">
 <!ENTITY cookieAllowCookiesCmd.accesskey "Α">
-<!ENTITY cookieAllowCookiesMsg.label "Τα cookie από αυτόν τον ιστότοπο θα επιτρέπονται πάντα.">
+<!ENTITY cookieAllowCookiesMsg.label "Θα επιτρέπονται πάντα τα cookies από αυτόν τον ιστότοπο.">
 <!ENTITY cookieAllowSessionCookiesCmd.label "Αποδοχή cookie συνεδρίας από τον ιστότοπο">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "σ">
 <!ENTITY cookieAllowSessionCookiesMsg.label "Αυτός ο ιστότοπος θα μπορεί να τοποθετεί cookie μόνο στην τρέχουσα συνεδρία.">

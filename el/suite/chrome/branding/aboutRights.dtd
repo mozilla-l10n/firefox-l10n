@@ -37,7 +37,7 @@
 <!ENTITY rights.intro-point4b "όρους υπηρεσίας">
 <!ENTITY rights.intro-point4c ".">
 
-<!ENTITY rights.webservices-header "Υπηρεσίες ιστοσελίδας &brandFullName;">
+<!ENTITY rights.webservices-header "Υπηρεσίες ιστοτόπων του &brandFullName;">
 
 <!-- Note that this paragraph references entities from extensions.dtd,
      preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
