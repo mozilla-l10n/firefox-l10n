@@ -30,10 +30,10 @@
 <!ENTITY maxZoom.accesskey "o">
 <!ENTITY percent.label "&#37;">
 
-<!ENTITY siteSpecific.label "Zapamiętaj rozmiary ustawione dla każdej strony">
-<!ENTITY siteSpecific.accesskey "Z">
 <!ENTITY textZoomOnly.label "Powiększaj tylko tekst zamiast całych stron">
 <!ENTITY textZoomOnly.accesskey "t">
+<!ENTITY siteSpecific.label "Zapamiętaj rozmiary ustawione dla każdej strony">
+<!ENTITY siteSpecific.accesskey "Z">
 <!ENTITY enableAutomaticImageResizing.label "Dostosuj rozmiar dużych obrazów do okna przeglądarki">
 <!ENTITY enableAutomaticImageResizing.accesskey "d">
 

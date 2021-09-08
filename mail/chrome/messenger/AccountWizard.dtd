@@ -17,8 +17,6 @@
 <!ENTITY accountTypeMail.accesskey "p">
 <!ENTITY accountTypeNews.label "Konto grup dyskusyjnych">
 <!ENTITY accountTypeNews.accesskey "g">
-<!ENTITY accountTypeMovemail.label "Skrzynka systemu UNIX (Movemail)">
-<!ENTITY accountTypeMovemail.accesskey "U">
 
 <!-- Entities for Identity page -->
 

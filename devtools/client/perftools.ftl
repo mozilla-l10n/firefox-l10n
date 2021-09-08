@@ -97,8 +97,6 @@ perftools-thread-img-decoder =
     .title = Wątki dekodowania obrazów
 perftools-thread-dns-resolver =
     .title = Rozwiązywanie DNS odbywa się w tym wątku
-perftools-thread-js-helper =
-    .title = Praca silnika JS w tle, taka jak kompilacje poza wątkiem głównym
 
 perftools-thread-task-controller =
     .title = Wątki puli wątków TaskController

@@ -9,8 +9,6 @@
 
 process-type-web = Strony
 
-process-type-browser = Główny
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Uprzywilejowane strony about:

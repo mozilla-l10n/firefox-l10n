@@ -129,10 +129,6 @@ openpgp-key-send-key =
     .label = Wyślij klucz publiczny pocztą e-mail
     .accesskey = W
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Kopiuj klucze publiczne do schowka
-    .accesskey = K
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -162,8 +158,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Eksportuj klucze do pliku
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Kopiuj klucze publiczne do schowka
 
 openpgp-key-man-ctx-copy =
     .label = Kopiuj
@@ -319,16 +313,6 @@ openpgp-description =
        *[many] Thunderbird odnalazł { $count } kluczy osobistych OpenPGP powiązanych z tożsamością <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Wybierz prawidłowy klucz, aby włączyć protokół OpenPGP.
-        [one] Bieżąca konfiguracja wykorzystuje klucz o identyfikatorze <b>{ $key }</b>
-        [few] Bieżąca konfiguracja wykorzystuje klucz o identyfikatorze <b>{ $key }</b>
-       *[many] Bieżąca konfiguracja wykorzystuje klucz o identyfikatorze <b>{ $key }</b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Bieżąca konfiguracja wykorzystuje klucz o identyfikatorze <b>{ $key }</b>
 
@@ -361,14 +345,8 @@ openpgp-radio-key-not-found = Nie można odnaleźć tego klucza. Jeśli chcesz g
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Wygasa: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Klucz wygasa za mniej niż 6 miesięcy
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Wygasł: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Klucz wygasł
 
 openpgp-key-expires-within-6-months-icon =
     .title = Klucz wygasa za mniej niż 6 miesięcy
@@ -692,7 +670,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Ustawiono zawijanie wierszy na taką liczbę znaków: { $width }. Aby zapewnić poprawne szyfrowanie i podpisywanie, ta wartość musi wynosić co najmniej 68.
     Czy zmienić teraz zawijanie wierszy na 68 znaków?
-sending-hidden-rcpt = Podczas wysyłania zaszyfrowanej wiadomości nie można używać odbiorców ukrytej kopii. Aby wysłać tę zaszyfrowaną wiadomość, usuń odbiorców ukrytej kopii lub przenieś ich do pola odbiorców kopii.
 sending-news =
     Przerwano zaszyfrowane działanie wysyłania.
     Nie można zaszyfrować tej wiadomości, ponieważ ma ona odbiorców będących grupami dyskusyjnymi. Wyślij wiadomość ponownie bez szyfrowania.
@@ -759,9 +736,6 @@ enig-info = Informacje OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Ponów
 dlg-button-skip = Po&miń
-
-# Strings used in enigmailCommon.js
-enig-error = Błąd OpenPGP
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

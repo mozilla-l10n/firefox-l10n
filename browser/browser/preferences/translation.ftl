@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Usuń wszystkie strony
     .accesskey = e
 
-translation-button-close =
-    .label = Zamknij
-    .accesskey = Z
-
 translation-dialog =
     .buttonlabelaccept = Zamknij
     .buttonaccesskeyaccept = Z

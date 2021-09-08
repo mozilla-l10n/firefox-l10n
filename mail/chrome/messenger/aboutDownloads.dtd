@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title "Zapisane pliki">
-<!ENTITY aboutDownloads.empty "Brak zapisanych plików">
 
 <!ENTITY cmd.show.label "Otwórz folder nadrzędny">
 <!ENTITY cmd.show.accesskey "f">

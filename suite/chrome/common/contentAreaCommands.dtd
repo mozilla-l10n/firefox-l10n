@@ -2,12 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label "Blokuj wyświetlanie wyskakujących okien przez tę witrynę">
-<!ENTITY popupWindowRejectCmd.accesskey "o">
-<!ENTITY popupWindowAllowCmd.label "Zezwalaj na wyświetlanie wyskakujących okien przez tę witrynę">
-<!ENTITY popupWindowAllowCmd.accesskey "o">
-
 <!ENTITY openLinkCmdInTab.label "Otwórz odnośnik w nowej karcie">
 <!ENTITY openLinkCmdInTab.accesskey "k">
 <!ENTITY openLinkCmd.label "Otwórz odnośnik w nowym oknie">

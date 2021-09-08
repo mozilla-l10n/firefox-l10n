@@ -10,9 +10,6 @@ third-party-intro =
     programu { -brand-short-name }. Każdy moduł niepodpisany przez firmę Microsoft lub
     organizację { -vendor-short-name } jest uważany za moduł zewnętrzny.
 
-third-party-header-module-list = Lista modułów
-third-party-header-loading-events = Wczytywanie zdarzeń
-
 third-party-message-empty = Nie wykryto żadnych modułów zewnętrznych.
 third-party-message-no-duration = Nie nagrano
 

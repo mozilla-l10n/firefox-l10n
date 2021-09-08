@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Wykonaj zrzut ekranu
-
-screenshots-my-shots-button = Moje zrzuty
-
 screenshot-toolbarbutton =
     .label = Zrzut ekranu
     .tooltiptext = Wykonaj zrzut ekranu
@@ -40,8 +36,6 @@ screenshots-login-error-details = Nie można zapisać zrzutu, ponieważ występu
 
 screenshots-unshootable-page-error-title = Nie można wykonać zrzutu tej strony.
 screenshots-unshootable-page-error-details = To nie jest standardowa strona internetowa, więc nie można wykonać jej zrzutu.
-
-screenshots-self-screenshot-error-title = Nie można wykonać zrzutu strony { -screenshots-brand-name }.
 
 screenshots-empty-selection-error-title = Zaznaczenie jest za małe
 

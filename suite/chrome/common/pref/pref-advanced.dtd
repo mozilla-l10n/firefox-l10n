@@ -4,11 +4,6 @@
 
 <!ENTITY pref.advanced.title "Zaawansowane">
 
-<!ENTITY systemPref.caption "Preferencje systemowe">
-<!ENTITY systemPrefCheck.label "Pobieraj preferencje z systemu">
-<!ENTITY systemPrefCheck.accesskey "s">
-<!ENTITY systemPref.desc "Po włączeniu tej opcji program &brandShortName; pobiera z systemu preferencje, które zastępują dotychczasowe ustawienia.">
-
 <!ENTITY prefCheckDefault.caption "Integracja z systemem">
 <!ENTITY prefCheckDefaultClient.label "Sprawdzaj ustawienia domyślnych aplikacji podczas uruchamiania">
 <!ENTITY prefCheckDefaultClient.accesskey "c">

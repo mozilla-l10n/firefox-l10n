@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Masz identyfikujące certyfikaty z następujących organizacji:
 certmgr-remembered = Następujące certyfikaty są używane do identyfikowania użytkownika przez witryny:
 certmgr-people = Masz certyfikaty, które identyfikują następujące osoby:
-certmgr-servers = Masz certyfikaty, które identyfikują następujące serwery:
 certmgr-server = Następujące wpisy identyfikują wyjątki błędów certyfikatów serwera:
 certmgr-ca = Masz certyfikaty, które identyfikują następujące organy certyfikacji:
-
-certmgr-detail-general-tab-title =
-    .label = Ogólne
-    .accesskey = O
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Szczegóły
-    .accesskey = S
-
-certmgr-pending-label =
-    .value = Trwa weryfikacja certyfikatu…
-
-certmgr-subject-label = Wystawiony dla
-
-certmgr-issuer-label = Wystawiony przez
-
-certmgr-period-of-validity = Okres ważności
-
-certmgr-fingerprints = Odciski
-
-certmgr-cert-detail =
-    .title = Szczegóły certyfikatu
-    .buttonlabelaccept = Zamknij
-    .buttonaccesskeyaccept = Z
-
-certmgr-cert-detail-commonname = Nazwa pospolita (CN)
-
-certmgr-cert-detail-org = Organizacja (O)
-
-certmgr-cert-detail-orgunit = Jednostka organizacyjna (OU)
-
-certmgr-cert-detail-serial-number = Numer seryjny
-
-certmgr-cert-detail-sha-256-fingerprint = Odcisk SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Odcisk SHA1
 
 certmgr-edit-ca-cert =
     .title = Edycja ustawień zaufania certyfikatu CA
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Urządzenie zabezpieczające
 
-certmgr-begins-on = Ważny od dnia
-
 certmgr-begins-label =
     .label = Ważny od dnia:
-
-certmgr-expires-on = Wygasa dnia
 
 certmgr-expires-label =
     .label = Wygasa dnia
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Importuj…
     .accesskey = m
-
-certmgr-details =
-    .value = Pola certyfikatu
-    .accesskey = P
-
-certmgr-fields =
-    .value = Wartość pola
-    .accesskey = a
-
-certmgr-hierarchy =
-    .value = Hierarchia certyfikatu
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Dodaj wyjątek…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Czy na pewno usunąć wybrane certyfikaty?
 delete-user-cert-impact = Usunięcie jednego z certyfikatów użytkownika spowoduje, że ponowne wykorzystanie go do potwierdzenia tożsamości użytkownika będzie niemożliwe.
 
 
-delete-ssl-cert-title =
-    .title = Usuń wyjątki dotyczące certyfikatów serwerów
-delete-ssl-cert-confirm = Czy na pewno usunąć te wyjątki dotyczące certyfikatów serwerów?
-delete-ssl-cert-impact = Jeżeli wyjątek dotyczący certyfikatu serwera zostanie usunięty, przywrócone zostaną zwykłe procedury bezpieczeństwa dla tego serwera, w tym wymóg stosowania przez niego poprawnego certyfikatu.
-
-
 delete-ssl-override-title =
     .title = Usuń wyjątek dotyczący certyfikatu serwera
 delete-ssl-override-confirm = Czy na pewno usunąć ten wyjątek dotyczący certyfikatu serwera?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Certyfikat o numerze seryjnym { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Podgląd certyfikatu: „{ $certName }”
-
-not-present =
-    .value = <Nie jest częścią certyfikatu>
-
-# Cert verification
-cert-verified = Niniejszy certyfikat został zweryfikowany do wykorzystania przez:
-
-# Add usage
-verify-ssl-client =
-    .value = Certyfikat SSL klienta
-
-verify-ssl-server =
-    .value = Certyfikat SSL serwera
-
-verify-ssl-ca =
-    .value = Organ certyfikacji SSL
-
-verify-email-signer =
-    .value = Certyfikat osoby podpisującej wiadomość
-
-verify-email-recip =
-    .value = Certyfikat adresata wiadomości
-
-# Cert verification
-cert-not-verified-cert-revoked = Nie można sprawdzić tego certyfikatu, ponieważ został on unieważniony.
-cert-not-verified-cert-expired = Nie można sprawdzić tego certyfikatu, ponieważ stracił on ważność.
-cert-not-verified-cert-not-trusted = Nie można sprawdzić tego certyfikatu, ponieważ nie ma go na liście zaufanych.
-cert-not-verified-issuer-not-trusted = Nie można sprawdzić tego certyfikatu: wystawcy nie ma na liście zaufanych.
-cert-not-verified-issuer-unknown = Nie można sprawdzić tego certyfikatu, ponieważ jego wystawca jest nieznany.
-cert-not-verified-ca-invalid = Nie można sprawdzić tego certyfikatu, ponieważ jego CA jest nieprawidłowy.
-cert-not-verified_algorithm-disabled = Nie można sprawdzić tego certyfikatu, ponieważ został podpisany algorytmem, który został zablokowany, ponieważ nie jest bezpieczny.
-cert-not-verified-unknown = Nie można sprawdzić tego certyfikatu z nieznanych przyczyn.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Nie wysyłaj certyfikatu klienta

@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Skutkuje koniecznością ponownego pobrania obrazów i innych danych przez strony
 
-clear-site-data-cancel =
-    .label = Anuluj
-    .accesskey = A
-
-clear-site-data-clear =
-    .label = Wyczyść
-    .accesskey = W
-
 clear-site-data-dialog =
     .buttonlabelaccept = Wyczyść
     .buttonaccesskeyaccept = W

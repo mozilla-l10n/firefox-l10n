@@ -65,8 +65,6 @@ policy-DisableForgetButton = Wyłączenie dostępu do przycisku „Wyczyść”.
 
 policy-DisableFormHistory = Wyłączenie zachowywania historii wyszukiwania i formularzy.
 
-policy-DisableMasterPasswordCreation = Wartość „prawda” powoduje, że nie można utworzyć hasła głównego.
-
 policy-DisablePrimaryPasswordCreation = Wartość „prawda” powoduje, że nie można utworzyć hasła głównego.
 
 policy-DisablePasswordReveal = Wyłączenie możliwości wyświetlania haseł w zachowanych danych logowania.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Wracanie do starego za
 policy-LocalFileLinks = Zezwalanie podanym witrynom na odnośniki do lokalnych plików.
 
 policy-ManagedBookmarks = Ustawienie listy zakładek zarządzanych przez administratora, których użytkownik nie może zmieniać.
-
-policy-MasterPassword = Wymaganie lub uniemożliwienie używania hasła głównego.
 
 policy-ManualAppUpdateOnly = Zezwalanie tylko na aktualizacje ręczne i wyłączenie powiadamiania użytkownika o aktualizacjach.
 

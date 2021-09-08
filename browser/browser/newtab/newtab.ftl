@@ -8,9 +8,6 @@
 newtab-page-title = Nowa karta
 newtab-settings-button =
     .title = Dostosuj stronę nowej karty
-newtab-personalize-button-label = Personalizuj
-    .title = Personalizuj nową kartę
-    .aria-label = Personalizuj nową kartę
 newtab-personalize-icon-label =
     .title = Personalizuj nową kartę
     .aria-label = Personalizuj nową kartę
@@ -23,7 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Szukaj
     .aria-label = Szukaj
-newtab-search-box-search-the-web-text = Szukaj w Internecie
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Wprowadź adres lub szukaj w { $engine }
@@ -38,10 +35,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Wprowadź adres lub szukaj
     .title = Wprowadź adres lub szukaj
     .aria-label = Wprowadź adres lub szukaj
+
 newtab-search-box-search-the-web-input =
     .placeholder = Szukaj w Internecie
     .title = Szukaj w Internecie
     .aria-label = Szukaj w Internecie
+
 newtab-search-box-text = Szukaj w Internecie
 newtab-search-box-input =
     .placeholder = Szukaj w Internecie
@@ -57,10 +56,12 @@ newtab-topsites-edit-shortcut-header = Edycja skrótu
 newtab-topsites-title-label = Tytuł
 newtab-topsites-title-input =
     .placeholder = Wpisz tytuł
+
 newtab-topsites-url-label = Adres URL
 newtab-topsites-url-input =
     .placeholder = Wpisz lub wklej adres
 newtab-topsites-url-validation = Wymagany jest prawidłowy adres URL
+
 newtab-topsites-image-url-label = Własny obraz
 newtab-topsites-use-image-link = Użyj własnego obrazu…
 newtab-topsites-image-validation = Wczytanie obrazu się nie powiodło. Spróbuj innego adresu.
@@ -89,10 +90,12 @@ newtab-topsite-sponsored = Sponsorowane
 newtab-menu-section-tooltip =
     .title = Otwórz menu
     .aria-label = Otwórz menu
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Zamknij
     .aria-label = Zamknij
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -165,10 +168,12 @@ newtab-label-removed-bookmark = Usunięto zakładkę
 newtab-label-recommended = Na czasie
 newtab-label-saved = Z { -pocket-brand-name }
 newtab-label-download = Z pobranych
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsorowane
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -207,6 +212,7 @@ newtab-section-header-pocket = Polecane przez { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Zacznij przeglądać Internet, a pojawią się tutaj świetne artykuły, filmy oraz inne ostatnio odwiedzane strony i dodane zakładki.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -253,10 +259,4 @@ newtab-custom-pocket-sponsored = Sponsorowane artykuły
 newtab-custom-recent-title = Ostatnia aktywność
 newtab-custom-recent-subtitle = Wybierane z ostatnio odwiedzanych stron i treści.
 newtab-custom-close-button = Zamknij
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Od Mozilli
-newtab-custom-snippets-subtitle = Wskazówki i aktualności od organizacji { -vendor-short-name } i przeglądarki { -brand-product-name }.
 newtab-custom-settings = Więcej ustawień

@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Dodawanie kontekstu
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Preferencje kontekstu „{ $name }”
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Ikona:
 containers-color-label = Kolor:
     .accesskey = K
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Gotowe
-    .accesskey = G
 
 containers-dialog =
     .buttonlabelaccept = Gotowe

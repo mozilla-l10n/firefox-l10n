@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = Preferencje programu
 
 open-addons-sidebar-button = Dodatki i motywy
+
