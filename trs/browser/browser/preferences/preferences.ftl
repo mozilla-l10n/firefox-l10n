@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Nigànj chre
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Nagui’iaj
-       *[other] Nagui’iaj
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Find in Options
-           *[other] Find in Preferences
-        }
-
 managed-notice = Yi'nïn' nikòt ni huej dugumi dàj 'iaj sun riña nana'uît nuguan'an.
 
 pane-general-title = Da'ua nguéj
@@ -48,10 +26,6 @@ category-search =
 pane-privacy-title = Sa huìi 'ngà sa hua ran
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = Sa nikaj ñu'ūnj { -brand-short-name }
 addons-button-label = Ekstensiûn ni Têma
@@ -81,21 +55,9 @@ restart-later = Nayi'i ñun' ne' rukú doj
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = 'Ngo extensión, <img data-l10n-name="icon"/> { $name }, dugumi riña ayi'ì si pajinat.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = 'Ngo extension, <img data-l10n-name="icon"/> { $name }, dugumi guenda girit a'ngò rakïj ñanj.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = 'Ngo ekstensiûn, <img data-l10n-name="icon"/> { $name }, nikaj ñu'unj sa nahuin nan.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = 'Ngo extensión, <img data-l10n-name="icon"/> { $name }, huin sa nana'ui' sa huin ruhuat.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -120,26 +82,11 @@ extension-controlled-enable = Da' garasut extension nī <img data-l10n-name="add
 
 search-results-header = Nana'ui'
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] ¡Si ga'man ruhuat! Nitaj sa nana'ui't <span data-l10n-name="query"> <span data-l10n-name="query">
-       *[other] ¡Si ga'man ruhuat! Nitaj sa nana'ui't <span data-l10n-name="query"> l10n-name="query"></span>”.
-    }
-
 search-results-help-link = Ni'ñanj sa rugujñu'unj so' aj? huij ñuna <a data-l10n-name="url">{ -brand-short-name } Support</a>
 
 ## General Section
 
 startup-header = Gayi'ì
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Ga'nì' da' ni { -brand-short-name } 'ngà Firefox gi'iaj sun nugua'ān
-use-firefox-sync = 'Ngò chrej e: nitaj si 'iaj sun nugua'ān ma. Garasun { -sync-brand-short-name } da' duguchint datos.
-get-started-not-logged-in = Gaui'i' sesión riña { -sync-brand-short-name }…
-get-started-configured = Na'nïn' preferensia { -sync-brand-short-name }
 
 always-check-default =
     .label = Natsi' si { -brand-short-name } huin raj sun' da' gaché nu'.
@@ -179,10 +126,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Gataj guní 'ngà nayi'nin ga'ì rakïj ñanj{ -brand-short-name } { -brand-short-name } dadin' ga'ue gi'iaj sun nananj ma
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = 'Ngà na'nint a'ngo rakïj ñanj, nī nadunat ma arrī chre
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = Ni'io' daj ga rakïj ñanj
@@ -341,11 +284,6 @@ applications-manage-app =
     .label = Daj hua aplikasiôn...
 applications-always-ask =
     .label = Yitïnj gachinj nu'un'
-applications-type-pdf = Nej yi'ni' ñanj gato' (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -423,17 +361,6 @@ update-application-warning-cross-user-setting = Sa nagi'iát nan ni gi'iaj sun r
 update-application-use-service =
     .label = Garasun' a'ngo servidor da' dugout' sa nakà doj
     .accesskey = b
-
-update-setting-write-failure-title = Gire' guendâ na'nïnj sà'aj nej sa nihià' doj uhuât nagi'iaj nakàt
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    { -brand-short-name } nari'ij 'ngo sa hua a'nan'an ni ni na'nïnj sà'aj sa nadunât. Ginu ruhuâ sisi dunâjt nej sa nihià' ruhuât nagi'iaj nakàt ni da'uît gachìnj ni'iát da' gachrunt riña archibô 'na' nan. Ga'ue si sò asi sû' nikaj ñu'unj sistêma ga'ue nagi'iaj sa gire' e sani da'uît dunaj daran'anj riña nej Usuârio archibô nan.
-    
-    Nu ga'ue gachrunj riña archibô: { $path }
 
 update-in-progress-title = Hiaj nahuin nakà man
 
@@ -660,8 +587,6 @@ search-show-suggestions-private-windows =
 
 search-suggestions-cant-show = Nej sa nana'uit nī se si nadiganj riña dukuán direksion dàdin' dàdanj nagi'iât { -brand-short-name } da' si nachra sa'aj.
 
-search-one-click-header = Nana'ui' 'ngà gurin klik
-
 search-one-click-desc = Ganahui' ahuin 'nga si ruhuo' nana'ui', 'ngà gayi'ìt gachrunt nī nachi nità ma daki dukuán direksion.
 
 search-choose-engine-column =
@@ -694,9 +619,6 @@ containers-add-button =
     .label = Nuto' sa nakàa
     .accesskey = A
 
-containers-preferences-button =
-    .label = Sa arajsun' doj
-
 containers-remove-button =
     .label = Dure'
 
@@ -707,11 +629,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Ganikaj web ga'ant
-sync-signedout-description = Gi'iaj sun ma 'ngà markador, riña sa gaché nu't, da'ngà huìi riña da'ua si aga't.
-
-sync-signedout-account-signin2 =
-    .label = Gaui'i' sesión riña { -sync-brand-short-name }…
-    .accesskey = i
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -759,12 +676,6 @@ prefs-syncing-on = Sa nagi'iaj nuguàn'àn: Nachrūn
 
 prefs-syncing-off = Sa nagi'iaj nuguàn'àn: OFF
 
-prefs-sync-setup =
-    .label = Gi'iaj Yugui{ -sync-brand-short-name }…
-    .accesskey = S
-
-prefs-sync-offer-setup-label = Nāgi'iaj nuguàn'àn nej si markadôt, Sa gini'iājt, da'nga' huìi nī a'ngô gà' nej sa huā riña si agâ't.
-
 prefs-sync-now =
     .labelnotsyncing = Nagi'iaj nuguàn'àn hīaj
     .accesskeynotsyncing = N
@@ -781,11 +692,6 @@ sync-currently-syncing-logins-passwords = Nej riña gayi'ìt sesiûn nī nej da'
 sync-currently-syncing-addresses = Nej direksiûn
 sync-currently-syncing-creditcards = Tarjetâ san'ānj an
 sync-currently-syncing-addons = Sa ga'ue nutò'
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Sa ga'ue gi'iát
-       *[other] Sa arajsunt doj
-    }
 
 sync-change-options =
     .label = Nadunā…
@@ -833,15 +739,6 @@ sync-engine-addons =
     .label = Sa ga'ue nutò'
     .tooltiptext = Nej sa nuto' guenda Firefox escritório
     .accesskey = A
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Sa nahui'
-           *[other] Sa arajsunt doj
-        }
-    .tooltiptext = Daj sugumi' nej sa rajsun'
-    .accesskey = s
 
 ## The device name controls.
 
@@ -896,14 +793,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Sa gayi'ìt sesión ngà naginu sà'
     .accesskey = S
-forms-master-pw-use =
-    .label = Garasun da'nga niko
-    .accesskey = G
 forms-master-pw-change =
     .label = Nadunā Da’nga’ Huì A’nïn’ïn
     .accesskey = N
-
-forms-master-pw-fips-title = Akuan’ nïn nī nunt ngà modô FIPS. FIPS nī ni’ñan ‘ngō Da’nga’ Huì a’nïn’ïn.
 
 forms-master-pw-fips-desc = Nu ga’ue nādunaj Da’nga’ Huìi
 
@@ -1010,10 +902,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Dugumi' datos
     .accesskey = M
-
-sitedata-cookies-permissions =
-    .label = Ganikaj ñu'unj nej sa achín ni'iaj nej si
-    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -1166,12 +1054,6 @@ permissions-addon-exceptions =
     .label = Sa ga'ue
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = Dugumi' da' si gatuj ahuin nanj si ma'an riña navegador
-    .accesskey = a
-
-permissions-a11y-privacy-link = Gahuin chrun doj
-
 ## Privacy Section - Data Collection
 
 collection-header = Nej sa nachra sa' datos { -brand-short-name }
@@ -1195,11 +1077,6 @@ addon-recommendations-link = Gahuin chrūn doj
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Nej sa ataj na'anj nej datos nitaj si 'iaj sun 'ngà nej kopilacion
-
-collection-backlogged-crash-reports =
-    .label = Ga'ni' da' { -brand-short-name } ga'ninj ma nej sa gire' riña si yuguit
-    .accesskey = c
-collection-backlogged-crash-reports-link = Gahuin chrūn doj
 
 ## Privacy Section - Security
 ##
@@ -1227,16 +1104,6 @@ security-block-uncommon-software =
 
 certs-header = Sertifikado
 
-certs-personal-label = 'Ngà achín ma si sertifikadot
-
-certs-select-auto-option =
-    .label = Ganahui ma'an ma 'ngoj
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Gachinj yitin'
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = Ni'io' nej servidor riki nuguan'an OCSP da' ni'io' si 'iaj sun sertifikado
     .accesskey = Q
@@ -1248,34 +1115,6 @@ certs-view =
 certs-devices =
     .label = Nej sa dugumi...
     .accesskey = N
-
-space-alert-learn-more-button =
-    .label = Gahuin chrūn doj
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Na'nïnt sa ga'ue Nagi'át
-           *[other] Na'nï' preferensia
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } da'ui gani'ninj riña disko. Gahuin ni si gurui' hue'e nej sa ma riña sitio web. Ruguñu'unj na'nïn't nej sa ma riña preferensia > sa huìi > cookies ni dato sitio.
-       *[other] { -brand-short-name } da'ui gani'ninj riña disko. Gahuin ni si gurus' hue'e nej sa ma riña sitio web. Ruguñu'unj na'nïn't nej sa ma riña preferensia > sa huìi > cookies ni dato sitio.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = Garaj, da'ngà rua aj
-    .accesskey = K
-
-space-alert-under-5gb-message = { -brand-short-name } doj sîna' hua ni'nïnj riña disko. Gahuin ni si gurui' hue'ê sa ma riña sitio na. Huij riña "Gahuin chrūn doj" da' nagi'îat si diskot ni gache nut.
 
 ## Privacy Section - HTTPS-Only
 

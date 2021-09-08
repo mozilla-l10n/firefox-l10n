@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Lista
 
-blocklist-button-cancel =
-    .label = Duyichin'
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = Na'ninj so' sa nagi'io'
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Na'ninj so' sa nagi'io'
     .buttonaccesskeyaccept = S

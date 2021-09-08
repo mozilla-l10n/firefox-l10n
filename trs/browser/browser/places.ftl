@@ -5,31 +5,9 @@
 places-open =
     .label = Na'nïn
     .accesskey = O
-places-open-tab =
-    .label = Na'nïn' riña a'ngô rakïj ñaj nakàa
-    .accesskey = w
 places-open-all-in-tabs =
     .label = Na'nïn' dara'anj 'ngà rakïj ñanj
     .accesskey = O
-places-open-window =
-    .label = Na'nïn' riña a'ngô rakïj ñaj nakàa
-    .accesskey = N
-places-open-private-window =
-    .label = Na'nïn' riña a'ngô rakïj ñaj huìi
-    .accesskey = P
-
-places-new-bookmark =
-    .label = Markador nakàa…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = Karpetâ nakàa…
-    .accesskey = F
-places-new-folder =
-    .label = Karpetâ nakàa…
-    .accesskey = o
-places-new-separator =
-    .label = Sa 'iaj ninin
-    .accesskey = S
 
 places-view =
     .label = Gini'iaj
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Nagi'iaj chre' daj si yugui ma
     .accesskey = r
-places-properties =
-    .label = Sa nikaj ñu'un ma
-    .accesskey = i
 

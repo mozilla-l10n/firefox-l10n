@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Da'ui a'ngo nej sitio web ni nachra ma datos
 
-clear-site-data-cancel =
-    .label = Duyichin'
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Na'nïn'
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = Na'nïn'
     .buttonaccesskeyaccept = l

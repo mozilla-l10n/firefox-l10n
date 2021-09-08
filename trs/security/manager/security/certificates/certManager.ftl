@@ -19,44 +19,7 @@ certmgr-tab-ca =
 
 certmgr-mine = Nikajt si sertificadô nej yi'nïn' nan nata' dàj huat
 certmgr-people = Màn sertifikâdo riña archîbo nata' dà hua nej guì nan
-certmgr-servers = Màn sertifikâdo riña archîbo nata' dàj hua nej serbidôr nan
 certmgr-ca = Màn nej sertifikâdo riña archîbo nata' dàj hua nej sa a'nïn' nan
-
-certmgr-detail-general-tab-title =
-    .label = Da'ua nguéj
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = A'ngô nej sa nika
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Sertifikadô hìaj natsij man...
-
-certmgr-subject-label = Nadigân Guendâ
-
-certmgr-issuer-label = Sa giri
-
-certmgr-period-of-validity = Diû gini'ñanj rasun nan
-
-certmgr-fingerprints = Da'nga' ra'a
-
-certmgr-cert-detail =
-    .title = Sa nikaj Sertifikâdo
-    .buttonlabelaccept = Narán
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = Si yugui (CN)
-
-certmgr-cert-detail-org = Yi'nïn' (O)
-
-certmgr-cert-detail-orgunit = Yi'nï' hua chre'e (OU)
-
-certmgr-cert-detail-serial-number = Da'nga' nikaj Serie
-
-certmgr-cert-detail-sha-256-fingerprint = Da'nga' ra'a SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Da'nga' ra'a SHA1
 
 certmgr-edit-ca-cert =
     .title = Nagi'iaj ni nachrunt dàj huin ruhuât riña sertifikadô CA
@@ -86,12 +49,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Sa dugumîn sò'
 
-certmgr-begins-on = Hiuj nan gayì'ij
-
 certmgr-begins-label =
     .label = Hiuj nan gayi'ij
-
-certmgr-expires-on = Gui nahuij ma huin
 
 certmgr-expires-label =
     .label = Gui nahuij ma huin
@@ -133,18 +92,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Ga’nïnj gan’an a’ngô hiūj u…
     .accesskey = m
-
-certmgr-details =
-    .value = Riña màn sertifikâdo
-    .accesskey = F
-
-certmgr-fields =
-    .value = Riña mà sa du'uee
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = Dàj du'ue sertifikâdo
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Nitaj ama na'nìn' na ma...
@@ -208,12 +155,6 @@ delete-user-cert-confirm = Huin hia ruhuât nadurê't nej sertifikadô nan anj.
 delete-user-cert-impact = Sisi nadurê't go'ngo si sertifikadôt ni, si ga'ue garasunt man guendâ nadigânt man'ânt ngà'.
 
 
-delete-ssl-cert-title =
-    .title = Nadure' nej si esepsiûn sertifikadô serbidôr
-delete-ssl-cert-confirm = Huin hia ruhuât nadurê't nej si esepsiûn serbidôr aj.
-delete-ssl-cert-impact = Sisi nadurê't 'ngo esepsiûn serbidôr, ni nanikàj ñunj garasunj sa araj sun niña serbidô dan sani ni'ñan 'ngo sertifikadô ni'ñanj an.
-
-
 delete-ca-cert-title =
     .title = Nadure' asi si gi'iaj guendât nej sertifikadô CA
 delete-ca-cert-confirm = Gachín ni'iát guendâ nadurê't nej sertifikadô CA. Guendâ nej sertifikadô hìaj ga'nïnt ni, sê sa ga nùkuaj ruhuô' gahuin ngà'. Huin ruhuâ yangà't nadurê' raj asi nitaj si yumân ruhuât ni'înt man sà'.
@@ -233,45 +174,6 @@ cert-with-serial =
     .value = Ñanj nù da'nga' seriê: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Sa ni'iaj nej sertifikâdo: "{ $certName }"
-
-not-present =
-    .value = <Not Part Of Certificate>
-
-# Cert verification
-cert-verified = Nani'in sisi sertifikadô nan ni ni'ñan guendâ nej sun nan:
-
-# Add usage
-verify-ssl-client =
-    .value = Si sertifikadô Klientê SSL
-
-verify-ssl-server =
-    .value = Si sertifikadô sun SSL
-
-verify-ssl-ca =
-    .value = Sa a'nïn' riña sertifikasiûn SSL
-
-verify-email-signer =
-    .value = Si sertifikadô sa a'hui' da'nga'a riña korrêo
-
-verify-email-recip =
-    .value = Si sertifikadô sa nahuin ra'a korrêo
-
-# Cert verification
-cert-not-verified-cert-revoked = Nu ga'ue natsi sertificadô nan dadin' ngà nare'ej rû' huaj.
-cert-not-verified-cert-expired = Nu ga'ue natsi sertificadô nan dadin' ngà gisîj nahuij si diûj.
-cert-not-verified-cert-not-trusted = Nu ga'ue natsi sertificadô nan dadin' sê sa hua yitïnj ín hui man.
-cert-not-verified-issuer-not-trusted = Nu ga'ue natsi sertificadô nan dadin' sa giri ma nu ni'in si sa yitïnj ïn huin.
-cert-not-verified-issuer-unknown = Nu ga'ue natsi sertificadô nan dadin' nu ni'in ahuin si giri man.
-cert-not-verified-ca-invalid = Nu ga'ue natsi sertificadô nan dadin' nitaj si hua hue'ê sertifikado CA.
-cert-not-verified_algorithm-disabled = Nu ga'ue natsi sertifikadô nan dadin' da'nga' ga'ui' si riñanj nu ni'în si 'ngo da'nga' hia huin man.
-cert-not-verified-unknown = Nu ni'în' nuhuin saj na'ue natsi sertiifikadô nan.
 
 ## Used to show whether an override is temporary or permanent
 

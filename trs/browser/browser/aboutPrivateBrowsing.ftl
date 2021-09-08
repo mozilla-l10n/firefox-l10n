@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Ga'nin riña 'ngo ventanahuìi
 about-private-browsing-search-placeholder = Nanà'uì' Web
 about-private-browsing-info-title = Riña 'ngo bentanâ huìi nunt
 about-private-browsing-info-myths = Nuguan' ne hua rayi'î riña aché nu huì'
-about-private-browsing =
-    .title = Nana'ui' riña Web
 about-private-browsing-not-private = Se riña ventana hua huìi nut akuan' nï
 about-private-browsing-info-description = { -brand-short-name } Nadure'ej ne sa nana'uî't nga gaché nunt ni naran riña daran' nej bentâna ni nej rakïj ñanj riña gaché nu huì'. Nan ni sê si gata ruhuaj sisi à'ngo nadure'e sò' riña nej sîtio asi riña duguî' du'uej internet, sani rugûñu'un da' 'ngorïnt gini'in sa 'iát ngà aché nunt ni si ga'ue gini'in a'ngô guìi gà'.
 

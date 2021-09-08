@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Guyun daran sitio web
     .accesskey = G
 
-permissions-button-cancel =
-    .label = Duyichin'
-    .accesskey = D
-
-permissions-button-ok =
-    .label = Na’nïnj sà’ sa nadunat
-    .accesskey = s
-
 permission-dialog =
     .buttonlabelaccept = Na’nïnj sà’ sa nadunat
     .buttonaccesskeyaccept = s

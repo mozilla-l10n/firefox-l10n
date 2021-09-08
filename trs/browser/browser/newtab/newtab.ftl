@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Nana'uì'
     .aria-label = Nana'uì'
 
-newtab-search-box-search-the-web-text = Nana'ui'  riña web
-
 newtab-search-box-search-the-web-input =
     .placeholder = Nana'ui'  riña web
     .title = Nana'ui'  riña web

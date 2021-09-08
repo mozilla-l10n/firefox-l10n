@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Na'nïn'">
 
-<!ENTITY fillLoginMenu.label          "Dusîj sesiûn">
-<!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "Nachra riña da'nga' huìi">
-<!ENTITY fillPasswordMenu.accesskey   "F">
-<!ENTITY fillUsernameMenu.label       "Nachra riña si yugui Usuario">
-<!ENTITY fillUsernameMenu.accesskey   "F">
-<!ENTITY noLoginSuggestions.label     "(Nitaj nuhuìn sa Hua Gini'iajt)">
-<!ENTITY viewSavedLogins.label        "Ni'iaj nej Sesiûn gayi'ìt Na'nín sà't">

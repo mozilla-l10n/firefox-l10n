@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Sa dugumîn nej extensiûn
-
 addons-page-title = Sa dugumîn nej extensiûn
 
 search-header =
@@ -34,61 +31,11 @@ help-button = Nej sa hua doj riña sopôrte
 sidebar-help-button-title =
     .title = Nej sa hua doj riña sopôrte
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } Sa huaa
-       *[other] { -brand-short-name } Sa arâj sun yitïnjt
-    }
-
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } Sa huaa
-           *[other] { -brand-short-name } Sa arâj sun yitïnjt
-        }
-
 show-unsigned-extensions-button =
     .label = Nu ga'ue nana'in da'aj nej extensiôn
 
 show-all-extensions-button =
     .label = Ni'iaj daran' extensiôn
-
-cmd-show-details =
-    .label = Ni'iaj doj nuguan' a'min rayi'î nan
-    .accesskey = S
-
-cmd-find-updates =
-    .label = Nana'uì' nej sa ga'ue nahuin nakà
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Sa huā gi'iát
-           *[other] Sa arajsunt doj
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Garasun têma
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = Ga'nïn' ruhuâ si garasunt têma
-    .accesskey = W
-
-cmd-install-addon =
-    .label = Ga'nìn'
-    .accesskey = I
-
-cmd-contribute =
-    .label = Rugûñu'unj
-    .accesskey = C
-    .tooltiptext = Rugûñu'unj da' nahuin hue'ê doj komplementô nan
 
 detail-version =
     .label = Versión
@@ -381,8 +328,6 @@ dictionary-disabled-heading = Nitāj si 'iaj sunj
 
 locale-enabled-heading = Ngà 'iaj sunj
 locale-disabled-heading = Nitāj si 'iaj sunj
-
-ask-to-activate-button = Gachinj nì'iaj dugi'iaj sunt man
 
 always-activate-button = Dugi'iaj sun yitïnj man
 never-activate-button = Nitaj aman dugi'iaj sunt man

@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Naniko' 'ngo pagina
-    .aria-label = Ne' rukuu
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Gachin' a'ngo pagina
-    .aria-label = Ne'ñaan
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = Na'nïnj sà' Pâjina Gù'na…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = Ga'nïn' riña a'ngô rakïj ñaj huìi
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = Na'ni' enlace na riñ markador
-    .accesskey = L
-
 main-context-menu-save-link =
     .label = Na'ninj so' enlase...
     .accesskey = k
@@ -185,10 +156,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Guxun' dirección korreo da' nachrun' a'ngô hiuj u
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = Guxun ña nù link da' nachrunt ané
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -213,32 +180,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Naduyingo´nanee
     .accesskey = m
-
-main-context-menu-media-play-speed =
-    .label = Daj hio gachra ma
-    .accesskey = d
-
-main-context-menu-media-play-speed-slow =
-    .label = Nà'naj (0.5×)
-    .accesskey = S
-
-main-context-menu-media-play-speed-normal =
-    .label = Da'nga' gaj
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = Hìo (1.25×)
-    .accesskey = F
-
-main-context-menu-media-play-speed-faster =
-    .label = Hìo doj (1.5×)
-    .accesskey = a
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Hìo ta'u (2×)
-    .accesskey = L
 
 main-context-menu-media-loop =
     .label = A'ngo ñu
@@ -265,39 +206,13 @@ main-context-menu-media-video-leave-fullscreen =
     .label = Nagi'iaj lij riña aga' sikà' ràa
     .accesskey = u
 
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Picture-in-Picture
-    .accesskey = u
-
 main-context-menu-image-reload =
     .label = Nagi'aj da'nga'a
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = Ni'iaj ñadu'ua
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = Ni'io' bideo
-    .accesskey = I
-
 main-context-menu-image-copy =
     .label = Guxun ña du'ua ma
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = Nana'uì' ñan du'ua
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Guxun ña nù si link video na
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Guxun ña nù si link nanè na
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = Na'nïnj sà' ña du'ua Gù'na…
@@ -306,10 +221,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Ga'ni' ña du'ua...
     .accesskey = g
-
-main-context-menu-image-set-as-background =
-    .label = Gagrun' ma riña pantayâ si ago'...
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = Ni'io' si nuguan' ñadu'ua
@@ -326,10 +237,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Na'ninj sa' nanèe 'ngà...
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = Na'nïnj so' ña du'ua pantayâ 'ngà...
-    .accesskey = S
 
 main-context-menu-video-email =
     .label = Ga'ni' video...
@@ -354,10 +261,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Ga'nïnj pâgina gan'anj aga'
     .accesskey = a
-
-main-context-menu-view-background-image =
-    .label = Ni'io' ñadu'ua Fôndo
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -422,10 +325,6 @@ main-context-menu-view-page-source =
     .label = Gini'iaj Da'nga' Ñaan
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = Ni'io' si nuguan' pagina
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = Naduno' daj ginū dukuán na
     .accesskey = w
@@ -434,13 +333,10 @@ main-context-menu-bidi-switch-page =
     .label = Naduno' daj ginū pagina na
     .accesskey = D
 
-main-context-menu-inspect-element =
-    .label = Natsi' elemento
-    .accesskey = Q
-
 main-context-menu-inspect-a11y-properties =
     .label = Natsi' nej sa a'nïn gatu'
 
 main-context-menu-eme-learn-more =
     .label = Gahuin chrūn doj rayi'ì DRM…
     .accesskey = D
+

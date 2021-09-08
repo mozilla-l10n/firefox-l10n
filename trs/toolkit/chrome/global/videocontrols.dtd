@@ -10,9 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Nagi'iaj lij riña aga' sikà' ràa">
 <!ENTITY castingButton.castingLabel "Duguachîn' riña aga' sikà' ràa ané">
 <!ENTITY closedCaption.off "Duna'àj">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Sa natsij nanèj">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->

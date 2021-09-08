@@ -43,9 +43,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Nuto' a'ngo rakïj ñanj
     .accesskey = B
-reopen-in-container =
-    .label = Na'nïn' riña kontenedor
-    .accesskey = e
 move-to-start =
     .label = Dusikï' riña ayi'ij
     .accesskey = S
@@ -55,18 +52,6 @@ move-to-end =
 move-to-new-window =
     .label = Dusiki' 'ngo Bendâna
     .accesskey = B
-close-tab =
-    .label = Ganarán riñanj
-    .accesskey = c
-close-tabs =
-    .label = Narán Rakïj ñanj
-    .accesskey = S
-move-tabs =
-    .label = Dusikï' rakïj ñanj
-    .accesskey = v
-move-tab =
-    .label = Dusikï' rakïj ñanj
-    .accesskey = v
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

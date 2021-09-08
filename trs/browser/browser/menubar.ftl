@@ -112,9 +112,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Nagi'iô'
     .accesskey = E
-menu-edit-find-on =
-    .label = Narì' Riña Pajinà nan…
-    .accesskey = F
 menu-edit-find-again =
     .label = Nana'uì' Ñûn
     .accesskey = g
@@ -130,9 +127,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Riña ma sa raj sun'
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = Nagi'iô' daj huin ruhuô'...
-    .accesskey = C
 menu-view-sidebar =
     .label = Dukuán nū yi'ní ma
     .accesskey = e
@@ -163,9 +157,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Si estilo pagina na
     .accesskey = b
-menu-view-charset =
-    .label = Si kodifikasiôn texto:
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -214,10 +205,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Sa raj sun nichrò' doj
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = Ni'io' sa raj sun nichro' doj
-menu-bookmark-this-page =
-    .label = Sa raj sun nichrà' doj pagina na
 menu-bookmark-edit =
     .label = Nagi'io' sa arajsun nichrò' doj
 menu-bookmarks-all-tabs =
@@ -237,41 +224,18 @@ menu-tools =
 menu-tools-downloads =
     .label = Nadunïnj
     .accesskey = D
-menu-tools-addons =
-    .label = Sa ga'ue nùtat doj
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = Nutà' si yuguît riña { -brand-product-name }...
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = Nachrun { -sync-brand-short-name }...
-    .accesskey = n
 menu-tools-sync-now =
     .label = Gi'iaj sun nugua'ān ma
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = Natu ñû riña { -brand-product-name }...
     .accesskey = R
-menu-tools-web-developer =
-    .label = Desarroyador web
-    .accesskey = W
 menu-tools-page-source =
     .label = Si kodigo pagina
     .accesskey = o
 menu-tools-page-info =
     .label = Rayi'ì pagina na
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Sa huā gi'iát
-           *[other] Sa arajsunt doj
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = Sa nagi'iaj hue'è diseño
     .accesskey = L
@@ -306,29 +270,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Sa ruguñu'unj un
     .accesskey = H
-menu-help-product =
-    .label = Sa ruguñu'unj un { -brand-shorter-name }
-    .accesskey = S
-menu-help-show-tour =
-    .label = gache nu' riña { -brand-shorter-name }
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = Sa hìo doj gà' da' si garasun' teklâdo
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Nuguan' garasun' dàj nagi'iô' sa hua a'nan'an
-    .accesskey = N
 menu-help-report-site-issue =
     .label = Natà' si huā sa huā a'na' riña sitiô…
 menu-help-feedback-page =
     .label = Ga'nïnj 'ngo si nuguàn't
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = Nayi'ì ñû' ngà nej sa ga'ue nutò' giyichin'
-    .accesskey = N
-menu-help-safe-mode-with-addons =
-    .label = Nayi'ì ñû' ngà nej sa ga'ue nutò' hua yugui
-    .accesskey = N
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

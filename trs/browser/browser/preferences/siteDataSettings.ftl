@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Guxun sa ganahui'
     .accesskey = G
 
-site-data-button-cancel =
-    .label = Duyichîn'
-    .accesskey = D
-
-site-data-button-save =
-    .label = Nadunïnj nī na’nïnj sà’t
-    .accesskey = N
-
 site-data-settings-dialog =
     .buttonlabelaccept = Nadunïnj nī na’nïnj sà’t
     .buttonaccesskeyaccept = N

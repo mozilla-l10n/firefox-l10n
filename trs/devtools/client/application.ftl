@@ -28,12 +28,6 @@ serviceworker-worker-debug = Nagi'iaj hue'e'
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Nahuin nàkaj <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = Riña gahuij
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = Dàj hua riñaj
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 

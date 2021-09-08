@@ -49,9 +49,6 @@ lockwise-title = Si gini'ñûnt da'nga' huì nikajt a'ngô ñû
 lockwise-header-content = { -lockwise-brand-name } na'nïn sà' hue'ej nej da'nga' huì nikajt riña aché nunt
 lockwise-header-content-logged-in = Nachra sà' ni nagi'iaj guña nej da'nga' huì nikajt riña daran nej si aga't.
 
-turn-on-sync = Na'nïn riña{ -sync-brand-short-name }...
-    .title = Guij riña nej si preferencia sa nagi'iaj guñant
-
 monitor-title = Sasà' ni'iajt sisi nadunâ nej si sa hua riña nej dâto
 monitor-link = Dàj 'iaj sunj
 monitor-header-content-no-account = Nātsij ni'iajt { -monitor-brand-name } da' gini'înt sisī gi'iaj yi'ì nej si si datôt nī ga'ue nahuin ra'at nej nuguan' natà' snan'anj sisī ruhuâ nej si gi'iaj yi'ì ñû nej si.

@@ -53,8 +53,6 @@ policy-DisableForgetButton = Si ga'nïnjt gi'iaj sun butûn Gini'ñun'.
 
 policy-DisableFormHistory = Nu nigi'ijt sa nana'uî't ni sa gahuin riña formulârio.
 
-policy-DisableMasterPasswordCreation = Si yangà' ni, si ga'ue girit 'ngo dan'ga' huì a'nïn'ïn.
-
 policy-DisablePocket = Duyichin' sun guendâ na'nínj sà't nej pâjina riña Pocket.
 
 policy-DisablePrivateBrowsing = Duyichin' si sun nabegadôr huìi.

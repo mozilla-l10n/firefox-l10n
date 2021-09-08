@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Guxun' daran sitio
     .accesskey = G
 
-translation-button-close =
-    .label = Ganarrûn'
-    .accesskey = G
-
 translation-dialog =
     .buttonlabelaccept = Ganarrûn'
     .buttonaccesskeyaccept = G

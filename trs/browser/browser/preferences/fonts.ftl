@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Nagi'iaj chre' da'nga'a ma riña sa narikij gà' nà
-fonts-languages-fallback-desc = Sa nagi'iaj chre' nej nuguan' na ni rajsun' ma guenda nej sa gà' na doj.
-
-fonts-languages-fallback-label = Nagi'iaj chre' nuguan' rugujñu'nunj
-    .accesskey = T
-
-fonts-languages-fallback-name-auto =
-    .label = Ga'ue nahui' nanj garasun'
-fonts-languages-fallback-name-arabic =
-    .label = Arâbiko
-fonts-languages-fallback-name-baltic =
-    .label = Bâltiko
-fonts-languages-fallback-name-ceiso =
-    .label = Ruku Nee, (ISO)
-fonts-languages-fallback-name-cewindows =
-    .label = Ruku Nee, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Chîno, Sa nitaj si chì'
-fonts-languages-fallback-name-traditional =
-    .label = Chîno, sa yitïnj niñaa
-fonts-languages-fallback-name-cyrillic =
-    .label = Siriliko
-fonts-languages-fallback-name-greek =
-    .label = Griêgoj o
-fonts-languages-fallback-name-hebrew =
-    .label = Ebrêo
-fonts-languages-fallback-name-japanese =
-    .label = Japonês
-fonts-languages-fallback-name-korean =
-    .label = Koreâno
-fonts-languages-fallback-name-thai =
-    .label = Tailandês
-fonts-languages-fallback-name-turkish =
-    .label = Tûrko
-fonts-languages-fallback-name-vietnamese =
-    .label = Vietnamîta
-fonts-languages-fallback-name-other =
-    .label = A'ngoj (daj ru' ruku nee)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

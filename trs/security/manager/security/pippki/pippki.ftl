@@ -6,9 +6,6 @@ password-quality-meter = Sa ni’iāj si huā hue’ê da’nga’ huìi
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Nadunā Da’nga’ Huì A’nïn’ïn
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Sa dugumîn sò': { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Da'nga' huìi (gachrun ñû):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Nagi'iaj da'nga' huì ñaa
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Nagi'iaj ñû
-reset-password-text = Si nachrūn ñûnt da'nga' huì a'nïn' nikājt, nī narè' daran' nej da'nga' huì nū sà' riña si korreôt ni roña web, si nuguàn' formulârio, si sertifikadôt nī nej da'nga' huì hua 'iát. Anïn hia ruhuât nachrūnt da'nga' huì a'nïn' nikāj raj?
 
 ## Downloading cert dialog
 

@@ -10,11 +10,6 @@ crashes-id = ID nata'
 crashes-send-date = Nga ga'an
 crashes-all-reports = nataj daran' sa guire'e
 crashes-no-config = Nitaj si huaj nata' ma nej sa guire'e.
-extensions-title = A'ngô ra'a
-extensions-name = Si yuguit
-extensions-enabled = Ngà 'iaj sunj
-extensions-version = Versión
-extensions-id = ID
 support-addons-name = Si yuguit
 support-addons-version = Versión
 support-addons-id = ID
@@ -113,8 +108,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = daj 'iaj sun ma
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Nuin saj
-safe-mode-title = Garahue' modo seguro
-restart-in-safe-mode-label = Nayi'í ñun' nga nej sa nitaj si 'iaj sun
 
 ## Media titles
 
@@ -258,19 +251,12 @@ webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = WebGL 2 Driver Version
 webgl2-driver-extensions = WebGL 1 Driver Extensión
 webgl2-extensions = WebGL 1 Driver Extensión
-blocklisted-bug = Si ga'ue gi'iaj sunj dadin' hua ngo sa gire'
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = guire'ej { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Nej sa gire'e; daj hua ma { $failureCode }
 
 d3d11layers-crash-guard = D3D11 Nikaj ñu'unj
-d3d11video-crash-guard = D3D11 Sa Ni'io'
-d3d9video-crash-guard = D3D11 Sa Ni'io'
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Nayi'i' Ne'ña an Doj
@@ -308,14 +294,6 @@ launcher-process-status-unknown = Nuni'in nuin saj
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Nga huaj garasut
-multi-process-status-1 = Nga huaj gi'iaj sunj
-multi-process-status-2 = Ganikinj
-multi-process-status-4 = Nitaj si huaj gatu' ña ma sa raj sun'
-multi-process-status-6 = Nitaj si 'iaj sun dadin sê gachun' sa nitaj si hua
-multi-process-status-7 = Nitaj si 'iaj sunj rayi'i sa nuto'
-multi-process-status-8 = Nitaj si 'iaj sunj
-multi-process-status-unknown = Nuni'in nuin saj
 
 async-pan-zoom = Encuadro/zoom asíncrono
 apz-none = a'ngoj
