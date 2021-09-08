@@ -107,11 +107,6 @@ applications-manage-app =
     .label = செயலி விவரங்கள்…
 applications-always-ask =
     .label = எப்போதும் கேட்க
-applications-type-pdf = PDF
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")

@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,9 +48,6 @@ main-context-menu-page-save =
     .label = பக்கத்தை இப்படிச் சேமி…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -80,10 +65,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = புதிய பிரத்தியேக உலாவுதல் சாளரத்தில் இணைப்பைத் திற
     .accesskey = P
-
-main-context-menu-bookmark-this-link =
-    .label = இந்த இணைப்பைப் புத்தகக்குறியிடுக
-    .accesskey = L
 
 main-context-menu-save-link =
     .label = இணைப்பை இப்படிச் சேமி…
@@ -142,29 +123,9 @@ main-context-menu-image-reload =
     .label = படத்தை மீளேற்று
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = படத்தை நோக்குக
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = வீடியோவை நோக்குக
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = படத்தை நகலெடு
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = பட இடத்தை நகலெடு
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = வீடியோ இடத்தை நகலெடு
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = ஓடியோ இடத்தை நகலெடு
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = படத்தை இப்படிச் சேமி…
@@ -173,10 +134,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = படத்தை மின்னஞ்சல் செய்...
     .accesskey = g
-
-main-context-menu-image-set-as-background =
-    .label = பணிமேடையின் பின்னணியாக அமை…
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = படத் தகவலைப் பார்
@@ -197,10 +154,6 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = இந்தச் செருகலை மறைக்கவும்
     .accesskey = H
-
-main-context-menu-view-background-image =
-    .label = பின்னணி படத்தினைக் காட்டுக
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -267,8 +220,4 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = பக்கத் திசையை மாற்று
     .accesskey = D
-
-main-context-menu-inspect-element =
-    .label = உறுப்பாய்வு செய்க
-    .accesskey = Q
 

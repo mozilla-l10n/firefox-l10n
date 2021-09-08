@@ -63,10 +63,6 @@
 <!ENTITY printCmd.label "அச்சிடுக…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "அச்சிடல் முன்னோக்கு">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "பக்க அமைப்பு…">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "செய்தியை நீக்குக">
@@ -408,8 +404,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookCmd.label "முகவரிப்புத்தகம்">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "செருகல்கள்">
-<!ENTITY addons.accesskey "d">
 <!ENTITY activitymanager.label "செயற்பாட்டு முகாமையாளர்">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY savedFiles.label "கோப்பு செமிக்கப்பட்டது">
@@ -444,15 +438,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backButton1.label "பின்">
 <!ENTITY goForwardButton1.label "முன்னோக்குக">
 <!ENTITY deleteItem.title "Delete">
-<!ENTITY deleteButton.label "நீக்குக">
-<!ENTITY undeleteButton.label "நீக்காத">
 <!ENTITY markButton.label "குறியிடுக">
 <!ENTITY printButton.label "அச்சிடுக">
 <!ENTITY stopButton.label "நிறுத்துக">
 <!ENTITY throbberItem.title "செயல் அடையாளப்படுத்தி">
 <!ENTITY junkItem.title "Junk">
-<!ENTITY junkButton.label "௯ளம்">
-<!ENTITY notJunkButton.label "௯ளம் அல்ல">
 <!ENTITY addressBookButton.label "முகவரிப்புத்தகம்">
 <!ENTITY glodaSearch.title "அகிலத் தேடல்">
 <!ENTITY searchItem.title "விரைவான தேடல்">
@@ -477,13 +467,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.tooltip "வாசிக்கப்படாத முந்தைய செய்திக்கு நகர்க">
 <!ENTITY goForwardButton.tooltip "ஒரு செய்தி முன்னோக்கிச் செல்க">
 <!ENTITY goBackButton.tooltip "ஒரு செய்தி பின்னோக்கிச் செல்க">
-<!ENTITY deleteButton.tooltip "தெரிவுசெய்யப்பட்ட செய்தியை அல்லது கோப்புறையினை நீக்குக">
-<!ENTITY undeleteButton.tooltip "தெரிவுசெய்யப்பட்ட செய்திகளை நீக்காது விடுக">
 <!ENTITY markButton.tooltip "குறியிடப்பட்ட செய்திகள்">
 <!ENTITY printButton.tooltip "இந்தச் செய்தியை அச்சிடுக">
 <!ENTITY stopButton.tooltip "நடப்பு பரிமாற்றத்தினை நிறுத்துக">
-<!ENTITY junkButton.tooltip "தெரிவுசெய்யப்பட்ட செய்தியை கூளமாக குறியிடுக">
-<!ENTITY notJunkButton.tooltip "தெரிவுசெய்யப்பட்ட செய்தியை கூளமாக குறியிடாது விடுக">
 <!ENTITY addressBookButton.tooltip "முகவரிப்புத்தகத்துக்குச் செல்க">
 <!ENTITY tagButton.tooltip "அடையாள ஒட்டுச் செய்திகள்">
 <!ENTITY compactButton.tooltip "தெரிவு செய்யப்பட்ட கோப்புறையிலிருந்து நீக்கப்பட்ட செய்திகளை அகற்றுக">

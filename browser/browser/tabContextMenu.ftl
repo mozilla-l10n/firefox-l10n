@@ -15,10 +15,6 @@ move-to-new-window =
     .label = புதிய சாளரத்திற்கு செல்க
     .accesskey = W
 
-close-tab =
-    .label = தத்தலை மூடவும்
-    .accesskey = C
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 

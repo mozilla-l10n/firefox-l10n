@@ -96,9 +96,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = கருவிப்பட்டைகள்
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = தனிப்பயனாக்குக
-    .accesskey = C
 menu-view-sidebar =
     .label = பக்கப்பட்டை
     .accesskey = e
@@ -163,8 +160,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = புத்தகக்குறிகள்
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = அனைத்துப் புத்தகக்குறிகளையும் காட்டுக
 menu-bookmark-edit =
     .label = இந்தப் புத்தகக்குறியைச் செவ்வையாக்குக
 menu-bookmarks-all-tabs =
@@ -177,32 +172,15 @@ menu-bookmarks-toolbar =
 menu-tools =
     .label = கருவிகள்
     .accesskey = T
-menu-tools-addons =
-    .label = செருகல்கள்
-    .accesskey = A
 menu-tools-sync-now =
     .label = இப்போது ஒத்திசை
     .accesskey = S
-menu-tools-web-developer =
-    .label = இணையத்தள அபிவிருத்தியாளர்
-    .accesskey = W
 menu-tools-page-source =
     .label = பக்க மூலம்
     .accesskey = o
 menu-tools-page-info =
     .label = பக்க தகவல்
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] தேர்வுகள்
-           *[other] விருப்பத்தேர்வுகள்
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -233,6 +211,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = உதவி
     .accesskey = H
-menu-help-safe-mode-without-addons =
-    .label = செருகல்களை இயலாமைப்படுத்தி மீள் ஆரம்பிக்க
-    .accesskey = R

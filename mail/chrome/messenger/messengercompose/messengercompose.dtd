@@ -11,15 +11,11 @@
 <!ENTITY newMenu.label "புதிய">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "அஞ்சல்">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "முகவரிப்புத்தக தொடர்பு…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "உடனிணை">
 <!ENTITY attachMenu.accesskey "T">
-<!ENTITY attachFileCmd.label "கோப்பு(க்கள்)...">
-<!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "இணையப் பக்கம்">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -45,8 +41,6 @@
 <!ENTITY sendLaterCmd.label "பின்னர் அனுப்பு...">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "பக்க அமைப்பு...">
-<!ENTITY printSetupCmd.accesskey "U">
 <!ENTITY printCmd.label "அச்சிடு..">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
@@ -159,8 +153,6 @@
 <!ENTITY addressBookCmd.label "முகவரிப் புத்தகம்">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY preferencesCmdUnix.label "விருப்பத்தேர்வுகள்">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -173,7 +165,6 @@
 <!ENTITY sendButton.label "அனுப்பு">
 <!ENTITY quoteButton.label "மேற்கோள்">
 <!ENTITY addressButton.label "தொடர்புகள்">
-<!ENTITY attachButton.label "உடனிணை">
 <!ENTITY spellingButton.label "எழுத்துக்கூட்டு">
 <!ENTITY saveButton.label "சேமி">
 
@@ -241,8 +232,6 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "அனைத்தையும் தேர்ந்தெடு">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label " கோப்பு(க்களை) உடனிணை...">
-<!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "இணையப் பக்கத்தை உடனிணை...">
 <!ENTITY attachPage.accesskey "W">
 
