@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = সকলো টেব বাছনি কৰক
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] বন্ধ কৰা টেব আকৌ খোলক
-           *[other] বন্ধ কৰা টেববোৰ আকৌ খোলক
-        }
-    .accesskey = U
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = অভাৰফ্ল' মেন্যুত পিন কৰক
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = টুলবাৰত স্বয়ং-লুকুৱাওক
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = খালী থাকিলে বুটাম লুকুৱাওক
     .accesskey = H

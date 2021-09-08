@@ -4,12 +4,6 @@
 
 do-not-track-learn-more = অধিক জানক
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] বিকল্প
-       *[other] পছন্দসমূহ
-    }
-
 pane-general-title = সাধাৰণ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -145,11 +139,6 @@ applications-manage-app =
     .label = এপ্লিকেচনৰ বিৱৰণ…
 applications-always-ask =
     .label = সদায়ে সোধিব
-applications-type-pdf = সংবাহ্য দস্তাবেজ বিন্যাস (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -331,9 +320,6 @@ forms-exceptions =
     .accesskey = x
 forms-breach-alerts-learn-more-link = অধিক জানক
 
-forms-master-pw-use =
-    .label = এটা মুখ্য পাছৱৰ্ড ব্যৱহাৰ কৰক
-    .accesskey = U
 forms-primary-pw-learn-more-link = অধিক জানক
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -341,8 +327,6 @@ forms-primary-pw-learn-more-link = অধিক জানক
 forms-master-pw-change =
     .label = প্ৰমুখ পাছৱাৰ্ড সলনি কৰক…
     .accesskey = M
-
-forms-master-pw-fips-title = আপুনি বৰ্ত্তমানে FIPS ধৰণত আছে। FIPS ক এটা ৰিক্ত নোহোৱা মূখ্য পাছৱৰ্ড লাগে।
 
 forms-master-pw-fips-desc = পাছৱৰ্ডৰ পৰিবৰ্তন ব্যৰ্থ হল
 
@@ -413,8 +397,6 @@ permissions-addon-exceptions =
     .label = ব্যতিক্ৰমসমূহ…
     .accesskey = E
 
-permissions-a11y-privacy-link = অধিক জানক
-
 ## Privacy Section - Data Collection
 
 collection-health-report-telemetry-disabled-link = অধিক জানক
@@ -422,8 +404,6 @@ collection-health-report-telemetry-disabled-link = অধিক জানক
 collection-health-report-link = অধিক জানক
 
 addon-recommendations-link = অধিক জানক
-
-collection-backlogged-crash-reports-link = অধিক জানক
 
 ## Privacy Section - Security
 ##
@@ -439,10 +419,6 @@ certs-header = প্ৰমাণপত্ৰসমূহ
 certs-enable-ocsp =
     .label = প্ৰমাণপত্ৰসমূহৰ বৰ্তমান বৈধতা সুনিশ্চিত কৰিবলে OCSP ৰেস্পণ্ডাৰক প্ৰশ্ন কৰক
     .accesskey = Q
-
-space-alert-learn-more-button =
-    .label = অধিক জানক
-    .accesskey = ন
 
 ## Privacy Section - HTTPS-Only
 

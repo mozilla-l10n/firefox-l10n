@@ -38,16 +38,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }-ৰ পৰা ওলাওক
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name }-ৰ পৰা ওলাওক
+
 menu-about =
     .label = { -brand-shorter-name }-ৰ বিষয়ে
     .accesskey = A
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = সম্পাদন কৰক
     .accesskey = E
-menu-edit-find-on =
-    .label = এই পৃষ্ঠাত সন্ধান কৰক…
-    .accesskey = F
 menu-edit-find-in-page =
     .label = পৃষ্ঠাত বিচাৰক…
     .accesskey = F
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = টুলবাৰসমূহ
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = স্বনিৰ্বাচন…
-    .accesskey = C
 menu-view-customize-toolbar2 =
     .label = টুলবাৰ কাষ্টমাইজ কৰক...
     .accesskey = C
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = সাধাৰণ পৃষ্টা শৈলী
     .accesskey = B
-menu-view-charset =
-    .label = পাঠ এনক'ডিং
-    .accesskey = c
 menu-view-repair-text-encoding =
     .label = পাঠৰ এনক'ডিং মেৰামতি কৰক
     .accesskey = c
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = সকলো ৱিণ্ড' পুনৰ খ
 menu-bookmarks-menu =
     .label = পত্ৰচিহ্নসমূহ
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = সকলো পত্ৰচিহ্ন দেখুৱাওক
-menu-bookmark-this-page =
-    .label = এই পৃষ্ঠা পত্ৰচিহ্নিত কৰক
 menu-bookmarks-manage =
     .label = বুকমাৰ্ক পৰিচালনা কৰক
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = ডাউনল'ডসমূহ
     .accesskey = D
-menu-tools-addons =
-    .label = এড-অন সমূহ
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = { -brand-product-name }-ত ছাইন ইন কৰক…
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } চালু কৰক…
-    .accesskey = n
 menu-tools-addons-and-themes =
     .label = এড-অন আৰু থীম
     .accesskey = A
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name }-লৈ আকৌ সংযোগ কৰক…
     .accesskey = R
-menu-tools-web-developer =
-    .label = ৱেব উন্নয়নকাৰী
-    .accesskey = W
 menu-tools-browser-tools =
     .label = ব্ৰাউজাৰৰ সা-সঁজুলি
     .accesskey = B
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = পৃষ্ঠা তথ্য
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] বিকল্পসমূহ
-           *[other] পছন্দসমূহ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-settings =
     .label = ছেটিংছ
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = সহায়
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name }-ৰ সহায়
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } ভ্ৰমণ
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = আন এটা ব্ৰাউজাৰৰ পৰা আমদানি কৰক…
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = কিবৰ্ড চৰ্টকাটসমূহ
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = সমস্যামুক্তিৰ তথ্য
-    .accesskey = T
 menu-get-help =
     .label = সহায় পাওক
     .accesskey = H
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = সঁহাৰি জমা দিয়ক…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = এড-অন সমূহ অসামৰ্থবান থকাকে পুনৰাম্ভ কৰক…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = এড-অনসমূহ সক্ৰিয় কৰি পুনৰাৰম্ভ কৰক
-    .accesskey = R
 menu-help-enter-troubleshoot-mode2 =
     .label = সমস্যা-সমাধান ম'ড
     .accesskey = M

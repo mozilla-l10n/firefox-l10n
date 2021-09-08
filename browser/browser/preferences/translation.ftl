@@ -28,10 +28,6 @@ translation-sites-button-remove-all =
     .label = সকলো ছাইট আঁতৰাওক
     .accesskey = i
 
-translation-button-close =
-    .label = বন্ধ কৰক
-    .accesskey = C
-
 translation-dialog =
     .buttonlabelaccept = বন্ধ কৰক
     .buttonaccesskeyaccept = C

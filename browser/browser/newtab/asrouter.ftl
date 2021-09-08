@@ -7,7 +7,6 @@
 
 cfr-doorhanger-extension-heading = পৰামৰ্শমূলক এক্সটেনশ্যন
 cfr-doorhanger-feature-heading = পৰামৰ্শমূলক সুবিধা
-cfr-doorhanger-pintab-heading = এয়া কৰি চাওক: টেব পিন কৰক
 
 ##
 
@@ -19,8 +18,6 @@ cfr-doorhanger-extension-cancel-button = এতিয়া নহয়
 
 cfr-doorhanger-extension-ok-button = এতিয়াই যোগ কৰক
     .accesskey = য
-cfr-doorhanger-pintab-ok-button = এই টেব পিন কৰক
-    .accesskey = প
 
 cfr-doorhanger-extension-never-show-recommendation = মোক এই পৰামৰ্শ নেদেখুৱাব
     .accesskey = দ
@@ -58,13 +55,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = আপুনি পিন কৰিবলৈ বিচৰা টেবত <b>সোঁ-ক্লিক কৰক</b>।
-cfr-doorhanger-pintab-step2 = মেন্যুৰ পৰা <b>টেব পিন কৰক</b> বাছি লওক।
-cfr-doorhanger-pintab-step3 = ছাইটৰ কিবা আপডেট থাকিলে আপুনি আপোনাৰ পিন কৰা টেবত এটা নীলা বিন্দু দেখা পাব।
-
-cfr-doorhanger-pintab-animation-pause = ৰখাওক
-cfr-doorhanger-pintab-animation-resume = পুনৰাৰম্ভ
-
 
 ## Firefox Accounts Message
 
@@ -85,93 +75,25 @@ cfr-whatsnew-button =
     .label = নতুন কি আছে
     .tooltiptext = নতুন কি আছে
 
-cfr-whatsnew-panel-header = নতুন কি আছে
-
 cfr-whatsnew-release-notes-link-text = ৰিলীজ ন'টসমূহ পঢ়ক
-
-cfr-whatsnew-fx70-title = { -brand-short-name }-এ এতিয়া আপোনাৰ গোপনিয়তাৰ বাবে আৰু কঠোৰভাৱে যুঁজ দিয়ে
-
-cfr-whatsnew-tracking-protect-title = ট্ৰেকাৰসমূহৰ পৰা নিজকে ৰক্ষা কৰক
-cfr-whatsnew-tracking-protect-link-text = আপোনাৰ ৰিপ'ৰ্ট চাওক
-
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $blockedCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-tracking-blocked-title =
-    { $blockedCount ->
-        [one] ট্ৰেকাৰ অৱৰুদ্ধ হ'ল
-       *[other] ট্ৰেকাৰসমূহ অৱৰুদ্ধ হ'ল
-    }
-cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } তাৰিখৰে পৰা
-cfr-whatsnew-tracking-blocked-link-text = ৰিপ'ৰ্ট চাওক
-
-cfr-whatsnew-lockwise-backup-title = আপোনাৰ পাছৱৰ্ডসমূহৰ বেক আপ লওক
-cfr-whatsnew-lockwise-backup-link-text = বেকআপ চালু কৰক
-
-cfr-whatsnew-lockwise-take-title = আপোনাৰ পাছৱৰ্ডসমূহ নিজৰ লগত লৈ ফুৰক
-cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } ম'বাইল এপে আপোনাক সুৰক্ষিতভাৱে আপোনাৰ পাছৱৰ্ডসমূহ যিকোনো ঠাইৰ পৰা এক্সেছ কৰিবলৈ দিয়ে।
-cfr-whatsnew-lockwise-take-link-text = এপ লাভ কৰক
 
 ## Search Bar
 
-cfr-whatsnew-searchbar-title = কমাই টাইপ কৰক, ঠিকনা দণ্ডিকাৰে অধিক বিচাৰি পাওক
-cfr-whatsnew-searchbar-icon-alt-text = মেগনিফাইং গ্লাছ আইকন
-
 ## Picture-in-Picture
-
-cfr-whatsnew-pip-header = আপুনি ব্ৰাউজ কৰোঁতে ভিডিঅ' চাওক
-cfr-whatsnew-pip-cta = অধিক জানক
 
 ## Permission Prompt
 
-cfr-whatsnew-permission-prompt-header = আগতকৈ কম বিৰক্তিকৰ ছাইট প'প-আপ
-cfr-whatsnew-permission-prompt-cta = অধিক জানক
-
 ## Fingerprinter Counter
-
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $fingerprinterCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-fingerprinter-counter-header =
-    { $fingerprinterCount ->
-        [one] ফিংগাৰপ্ৰিণ্টাৰ অৱৰুদ্ধ হ'ল
-       *[other] ফিংগাৰপ্ৰিণ্টাৰ অৱৰুদ্ধ হ'ল
-    }
-cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name }-এ বহুতো ফিংগাৰপ্ৰিণ্টাৰ অৱৰোধ কৰে যিয়ে আপোনাৰ বিজ্ঞাপন প্ৰ'ফাইল তৈয়াৰ কৰিবলৈ গোপনে আপোনাৰ ডিভাইচ আৰু কাৰ্য্যসমূহৰ বিষয়ে তথ্য গোটায়।
-
-# Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = ফিংগাৰপ্ৰিণ্টাৰ
-cfr-whatsnew-fingerprinter-counter-body-alt = আপোনাৰ বিজ্ঞাপন প্ৰ'ফাইল তৈয়াৰ কৰিবলৈ গোপনে আপোনাৰ ডিভাইচ আৰু কাৰ্য্যসমূহৰ বিষয়ে তথ্য গোটোৱা ফিংগাৰপ্ৰিণ্টাৰসমূহ { -brand-shorter-name }-এ অৱৰোধ কৰিব পাৰে।
 
 ## Bookmark Sync
 
-cfr-doorhanger-sync-bookmarks-header = আপোনাৰ ফোনত এই বুকমাৰ্ক লাভ কৰক
-cfr-doorhanger-sync-bookmarks-body = আপুনি { -brand-product-name }-ত ছাইন ইন হৈ থকা যিকোনো ঠাইলৈ আপোনাৰ বুকমাৰ্ক, পাছৱৰ্ড, ইতিহাস আৰু বহুতো লৈ যাওক।
-cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } চালু কৰক
-    .accesskey = T
-
 ## Login Sync
-
-cfr-doorhanger-sync-logins-header = আৰু কেতিয়াও পাছৱৰ্ড নেহেৰুৱাব
-cfr-doorhanger-sync-logins-body = আপোনাৰ পাছৱৰ্ডসমূহ আপোনাৰ সকলো ডিভাইচত সুৰক্ষিতভাৱে সংৰক্ষণ আৰু চিংক কৰক।
-cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } চালু কৰক
-    .accesskey = T
 
 ## Send Tab
 
-cfr-doorhanger-send-tab-header = এইটো ফুৰি ফুৰি পঢ়ক
-cfr-doorhanger-send-tab-recipe-header = এই ৰেচিপীটো পাকঘৰলৈ লৈ যাওক
-
 ## Firefox Send
 
-cfr-doorhanger-firefox-send-header = এই PDF নিৰাপদে ভাগ-বতৰা কৰক
-
 ## Social Tracking Protection
-
-cfr-doorhanger-socialtracking-close-button = বন্ধ কৰক
-    .accesskey = C
-cfr-doorhanger-socialtracking-dont-show-again = এনেকুৱা বাৰ্তা মোক আকৌ নেদেখুৱাব
-    .accesskey = D
 
 ## Enhanced Tracking Protection Milestones
 
@@ -182,9 +104,6 @@ cfr-doorhanger-milestone-ok-button = সকলো চাওক
 
 
 ## Lockwise message
-
-cfr-whatsnew-lockwise-header = সহজে সুৰক্ষিত পাছৱৰ্ড সৃষ্টি কৰক
-cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } আইকন
 
 ## Vulnerable Passwords message
 
@@ -211,3 +130,10 @@ cfr-doorhanger-fission-secondary-button = অধিক জানক
 cfr-doorhanger-video-support-header = ভিডিঅ' চলাবলৈ { -brand-short-name } আপডেট কৰক
 cfr-doorhanger-video-support-primary-button = এতিয়াই আপডেট কৰক
     .accesskey = U
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+
