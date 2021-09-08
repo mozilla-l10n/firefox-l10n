@@ -74,6 +74,6 @@
 
 <!-- leaving this stuff in for now -->
 
-<!ENTITY  header2                                 "Όταν μια ιστοσελίδα επιλέγει τις δικές της γραμματοσειρές">
+<!ENTITY  header2                                 "Όταν μια ιστοσελίδα επιλέγει δικές της γραμματοσειρές">
 <!ENTITY  useDefaultFont.label                    "Χρήση προεπιλεγμένων γραμματοσειρών, αγνοώντας τις γραμματοσειρές της σελίδας">
 <!ENTITY  useDefaultFont.accesskey                "Χ">
