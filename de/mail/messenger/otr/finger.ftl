@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Fingerabdrücke von OTR-Schlüsseln, welche für die letzten Ende-zu-Ende-Verschlüsselungen verwendet wurden.
 
-finger-screenName =
-    .label = Kontakt
-
 finger-screen-name =
     .label = Kontakt
 finger-verified =

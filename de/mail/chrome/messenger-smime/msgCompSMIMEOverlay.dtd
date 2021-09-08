@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Nachricht unterschreiben">
 <!ENTITY menu_securitySign.accesskey "u">
 
-<!ENTITY menu_securityAttachMyKey.label "Meinen öffentlichen Schlüssel anhängen">
-<!ENTITY menu_securityAttachMyKey.accesskey "a">
-
 <!ENTITY menu_securityTech.label "Verschlüsselungs-Technologie">
 <!ENTITY menu_securityTech.accesskey "T">
 

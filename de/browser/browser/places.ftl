@@ -5,9 +5,6 @@
 places-open =
     .label = Öffnen
     .accesskey = Ö
-places-open-tab =
-    .label = In neuem Tab öffnen
-    .accesskey = T
 places-open-in-tab =
     .label = In neuem Tab öffnen
     .accesskey = T
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Alle in Tabs öffnen
     .accesskey = ö
-places-open-window =
-    .label = In neuem Fenster öffnen
-    .accesskey = F
-places-open-private-window =
-    .label = In neuem privaten Fenster öffnen
-    .accesskey = p
-
-places-new-bookmark =
-    .label = Neues Lesezeichen…
-    .accesskey = N
-places-new-folder-contextmenu =
-    .label = Neuer Ordner…
-    .accesskey = O
-places-new-folder =
-    .label = Neuer Ordner…
-    .accesskey = O
-places-new-separator =
-    .label = Neue Trennlinie
-    .accesskey = T
 
 places-open-in-window =
     .label = In neuem Fenster öffnen
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Nach Name sortieren
     .accesskey = r
-places-properties =
-    .label = Eigenschaften
-    .accesskey = g
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -133,3 +108,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Lesezeichen verwalten
     .accesskey = v
+

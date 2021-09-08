@@ -5,9 +5,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = { $type }-Eingabefeld entfernen
-
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = { $type }-Eingabefeld entfernen
 
@@ -92,17 +89,6 @@ attachment-bucket-count = { $count ->
     *[other] { $count } Anhänge
 }
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext = { $count ->
-        [1]      { $count } Anhang
-        *[other] { $count } Anhänge
-    }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 expand-attachment-pane-tooltip =
     .tooltiptext = Anhangbereich anzeigen ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
@@ -133,6 +119,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Empfangsbestätigung
     .tooltiptext = Eine Empfangsbestätigung für diese Nachricht anfordern
+
+# Encryption
 
 # Addressing Area
 
@@ -177,6 +165,7 @@ bcc-compose-show-address-row-label =
 
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Die {$count} Empfänger in den Feldern "An" und "Kopie (CC)" können die Adressen aller Beteiligten in diesen Feldern sehen. Das Veröffentlichen der Empfänger kann durch Verwenden des Feldes "Blindkopie (BCC)" verhindert werden.
+
 
 many-public-recipients-bcc =
   .label = Blindkopie (BCC) stattdessen verwenden

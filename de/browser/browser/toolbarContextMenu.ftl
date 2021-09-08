@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Alle Tabs auswählen
     .accesskey = u
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Geschlossenen Tab wiederherstellen
-           *[other] Geschlossene Tabs wiederherstellen
-        }
-    .accesskey = G
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = In Überhangmenü verschieben
     .accesskey = b
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Automatisch aus Symbolleiste ausblenden
-    .accesskey = u
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Schaltfläche nur bei vorhandenen Downloads anzeigen
     .accesskey = D

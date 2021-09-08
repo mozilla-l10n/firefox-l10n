@@ -118,7 +118,6 @@
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
-<!ENTITY PhotoDesc.label                "Wählen Sie eine der folgenden Optionen:">
 <!ENTITY GenericPhoto.label             "Generisches Foto">
 <!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY DefaultPhoto.label             "Standard">

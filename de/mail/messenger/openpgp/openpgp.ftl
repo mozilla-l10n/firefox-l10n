@@ -129,10 +129,6 @@ openpgp-key-send-key =
     .label = Öffentlichen Schlüssel per E-Mail senden
     .accesskey = S
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Öffentliche(n) Schlüssel in Zwischenablage kopieren
-    .accesskey = b
-
 openpgp-key-man-copy-key-ids =
     .label = { $count ->
                [one] Schlüssel-ID in Zwischenablage kopieren
@@ -156,8 +152,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Schlüssel in Datei exportieren
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Öffentliche Schlüssel in Zwischenablage kopieren
 
 openpgp-key-man-ctx-copy =
     .label = Kopieren
@@ -305,13 +299,6 @@ openpgp-description = { $count ->
    *[other] Thunderbird verfügt über { $count } persönliche OpenPGP-Schlüssel für <b>{ $identity }</b>.
 }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status = { $count ->
-    [0]     Wählen Sie einen gültigen Schlüssel aus, um das OpenPGP-Protokoll zu aktivieren.
-   *[other] Derzeit ist die Verwendung der Schlüssel-ID <b>{ $key }</b> festgelegt.
-}
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Derzeit ist die Verwendung der Schlüssel-ID <b>{ $key }</b> festgelegt.
 
@@ -344,14 +331,8 @@ openpgp-radio-key-not-found = Dieser Schlüssel wurde nicht gefunden. Falls er v
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Läuft ab: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Schlüssel läuft in weniger als 6 Monaten ab
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Abgelaufen am: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Schlüssel abgelaufen
 
 openpgp-key-expires-within-6-months-icon =
     .title = Schlüssel läuft in weniger als 6 Monaten ab
@@ -679,7 +660,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Sie haben die Zeilenbreite auf { $width } Zeichen festgelegt. Für korrektes Verschlüsseln und Unterschreiben muss die Zeilenbreite mindestens 68 Zeichen weit sein.
     Soll die Zeilenbreite jetzt auf 68 Zeichen geändert werden?
-sending-hidden-rcpt = Empfänger in Blindkopie (BCC) werden beim Senden einer verschlüsselten Nachricht nicht unterstützt. Entfernen Sie die Empfänger in Blindkopie oder verschieben Sie diese in Kopie (CC), um diese Nachricht verschlüsselt zu senden.
 sending-news =
     Senden verschlüsselter Nachricht abgebrochen.
     Die Nachricht kann nicht verschlüsselt werden, da einige Empfänger Newsgruppen sind. Bitte senden Sie die Nachricht erneut, aber ohne Verschlüsselung.
@@ -746,9 +726,6 @@ enig-info = OpenPGP-Information
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Wiederholen
 dlg-button-skip = Ü&berspringen
-
-# Strings used in enigmailCommon.js
-enig-error = OpenPGP - Fehler
 
 enig-alert-title =
     .title = OpenPGP - Alarm

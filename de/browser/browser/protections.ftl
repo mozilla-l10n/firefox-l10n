@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Wie es funktioniert
 
-turn-on-sync = { -sync-brand-short-name } aktivieren…
-    .title = Sync-Einstellungen öffnen
-
 monitor-title = Nach Datenlecks Ausschau halten
 monitor-link = So funktioniert's
 monitor-header-content-no-account = Testen Sie mit { -monitor-brand-name }, ob Sie von einem Datenleck betroffen sind, und lassen Sie sich bei zukünftigen Datenlecks benachrichtigen.

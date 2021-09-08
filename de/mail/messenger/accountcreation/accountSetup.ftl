@@ -307,6 +307,8 @@ exchange-dialog-confirm-button = Senden
 
 exchange-dialog-cancel-button = Abbrechen
 
+## Dismiss account creation dialog
+
 ## Alert dialogs
 
 account-setup-creation-error-title = Konteneinrichtung fehlgeschlagen

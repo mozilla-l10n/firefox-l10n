@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Automatisch erkannten Online-/Offline-Status verwenden
     .accesskey = u
 
-startup-label = Benutzerdefinierter Zustand beim Programmstart:
-
 offline-preference-startup-label = Benutzerdefinierter Zustand beim Programmstart:
 
 status-radio-remember =

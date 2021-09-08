@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Bildschirmfoto aufnehmen
-
-screenshots-my-shots-button = Meine Bildschirmfotos
-
 screenshot-toolbarbutton =
     .label = Bildschirmfoto
     .tooltiptext = Bildschirmfoto aufnehmen
@@ -40,8 +36,6 @@ screenshots-login-error-details = Ihr Bildschirmfoto konnte nicht gespeichert we
 
 screenshots-unshootable-page-error-title = Ein Bildschirmfoto dieser Seite ist nicht möglich.
 screenshots-unshootable-page-error-details = Dies ist keine Standard-Webseite, deshalb sind keine Bildschirmfotos von ihr möglich.
-
-screenshots-self-screenshot-error-title = Sie können kein Bildschirmfoto einer { -screenshots-brand-name }-Seite machen!
 
 screenshots-empty-selection-error-title = Ihr Auswahlbereich ist zu klein
 

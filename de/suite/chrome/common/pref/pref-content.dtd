@@ -30,10 +30,10 @@
 <!ENTITY maxZoom.accesskey                      "b">
 <!ENTITY percent.label                          "&#037;">
 
-<!ENTITY siteSpecific.label                     "Zoom-Tiefe auf Website-Ebene merken">
-<!ENTITY siteSpecific.accesskey                 "Z">
 <!ENTITY textZoomOnly.label                     "Nur Text anstatt ganzen Seiten zoomen">
 <!ENTITY textZoomOnly.accesskey                 "T">
+<!ENTITY siteSpecific.label                     "Zoom-Tiefe auf Website-Ebene merken">
+<!ENTITY siteSpecific.accesskey                 "Z">
 <!ENTITY enableAutomaticImageResizing.label     "Große Grafiken verkleinern, damit sie ins Browser-Fenster passen">
 <!ENTITY enableAutomaticImageResizing.accesskey "G">
 

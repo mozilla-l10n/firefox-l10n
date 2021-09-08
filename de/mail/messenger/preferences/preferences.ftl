@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Schließen
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Einstellungen
-           *[other] Einstellungen
-        }
-
 preferences-doc-title = Einstellungen
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Verwerfen
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortfahren
 
-addons-button = Erweiterungen & Themes
-
 account-button = Konten-Einstellungen
 open-addons-sidebar-button = Erweiterungen und Themes
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Um ein Master-Passwort festzulegen, müssen die Anmeldedaten des Windows-Benutzerkontos eingegeben werden. Dies dient dem Schutz Ihrer Zugangsdaten.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = ein Master-Passwort festlegen
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Um ein Hauptpasswort zu erstellen, müssen die Anmeldedaten des Windows-Benutzerkontos eingegeben werden. Dies dient dem Schutz Ihrer Zugangsdaten.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Anpassen…
     .accesskey = A
-
-tray-icon-label =
-    .label = Im Infobereich anzeigen
-    .accesskey = n
 
 biff-use-system-alert =
     .label = Systembenachrichtigung verwenden
@@ -348,13 +326,13 @@ offline-compact-folder =
     .label = Alle Ordner komprimieren, wenn dies insgesamt mehr Platz spart als
     .accesskey = A
 
-compact-folder-size =
-    .value = MB
-
 offline-compact-folder-automatically =
     .label = Nachfragen vor jedem Komprimieren
     .accesskey = N
     
+compact-folder-size =
+    .value = MB
+
 ## Note: The entities use-cache-before and use-cache-after appear on a single
 ## line in preferences as follows:
 ## use-cache-before [ textbox for cache size in MB ] use-cache-after
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Farbe:
     .accesskey = a
-
-search-input =
-    .placeholder = Suchen
 
 search-handler-table =
     .placeholder = Dateitypen und Aktionen suchen
@@ -719,16 +694,6 @@ passwords-button =
     .label = Gespeicherte Passwörter…
     .accesskey = G
 
-master-password-description = Ein Master-Passwort schützt alle gespeicherten Passwörter, Sie müssen es aber einmal pro Sitzung eingeben.
-
-master-password-label =
-    .label = Master-Passwort verwenden
-    .accesskey = M
-
-master-password-button =
-    .label = Master-Passwort ändern…
-    .accesskey = a
-
 
 primary-password-description = Ein Hauptpasswort schützt alle Ihre Passworte. Es muss einmal pro Sitzung eingegeben werden.
 
@@ -909,25 +874,6 @@ no-preview-description = Dieses Erscheinungsbild ist ungültig oder derzeit nich
 chat-variant-label =
     .value = Variante:
     .accesskey = V
-
-chat-header-label =
-    .label = Kopfzeilen anzeigen
-    .accesskey = K
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder = { PLATFORM() ->
-        [windows] In Einstellungen suchen
-        *[other] In Einstellungen suchen
-    }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

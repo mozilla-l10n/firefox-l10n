@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Weiteres Gerät verbinden
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Falls Sie es noch nicht durchgeführt haben, so installieren Sie <a data-l10n-name="connect-another-device">Firefox auf einem Mobilgerät</a>.
-
-fxa-qrcode-heading-phase2 = 2. Melden Sie sich mit { -sync-brand-short-name } an oder - falls Sie Android nutzen - scannen Sie den Code zum Verbinden aus den Einstellungen für { -sync-brand-short-name } heraus.
-
 fxa-qrcode-heading-step1 = 1. Falls Sie es noch nicht durchgeführt haben, so installieren Sie <a data-l10n-name="connect-another-device">Firefox auf einem Mobilgerät</a>.
 
 fxa-qrcode-heading-step2 = 2. Öffnen Sie Firefox auf Ihrem Mobilgerät.

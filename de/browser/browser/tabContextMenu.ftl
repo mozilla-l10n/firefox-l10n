@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Tab als Lesezeichen hinzufügen
     .accesskey = L
-reopen-in-container =
-    .label = In Tab-Umgebung öffnen
-    .accesskey = U
 tab-context-open-in-new-container-tab =
     .label = In neuem Tab in Umgebung öffnen
     .accesskey = U
@@ -69,25 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Mehrere Tabs schließen
     .accesskey = M
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Geschlossenen Tab wiederherstellen
-           *[other] Geschlossene Tabs wiederherstellen
-        }
-    .accesskey = G
-close-tab =
-    .label = Tab schließen
-    .accesskey = c
-close-tabs =
-    .label = Tabs schließen
-    .accesskey = c
-move-tabs =
-    .label = Tabs verschieben
-    .accesskey = v
-move-tab =
-    .label = Tab verschieben
-    .accesskey = v
 tab-context-share-url =
     .label = Teilen
     .accesskey = T
@@ -128,6 +106,7 @@ tab-context-move-tabs =
            *[other] Tabs verschieben
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

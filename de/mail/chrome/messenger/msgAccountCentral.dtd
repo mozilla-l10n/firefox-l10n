@@ -13,7 +13,6 @@
 <!ENTITY subscribeFeeds.label         "Abonnements verwalten">
 
 <!ENTITY chat.label                   "Chat">
-<!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "Konten">
 <!ENTITY subscribeImapFolders.label   "IMAP-Ordner abonnieren">

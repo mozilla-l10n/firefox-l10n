@@ -10,9 +10,6 @@ third-party-intro =
     installiert wurden. Jedes Modul, das nicht von Microsoft oder
     { -vendor-short-name } signiert wurde, gilt als Modul von Drittanbietern.
 
-third-party-header-module-list = Modulliste
-third-party-header-loading-events = Ereignisse werden geladen
-
 third-party-message-empty = Es wurden keine Module von Drittanbietern erkannt.
 third-party-message-no-duration = Nicht aufgezeichnet
 

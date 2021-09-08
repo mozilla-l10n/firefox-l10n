@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR-Einstellungen
 otr-log =
     .label = Mit OTR verschlüsselte Nachrichten ebenfalls in Gesprächsprotokoll aufnehmen
-otr-requireEncryption =
-    .label = Ende-zu-Ende-Verschlüsselung für Gespräche mit einer Person verlangen
-otr-verifyNudge =
-    .label = Immer erinnern, neue Kontakte zu bestätigen
-
-otr-notYetAvailable = noch nicht verfügbar
 
 otr-require-encryption =
     .label = Ende-zu-Ende-Verschlüsselung für Gespräche mit einer Person verlangen
