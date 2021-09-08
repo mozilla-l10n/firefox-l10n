@@ -5,12 +5,6 @@
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }{ main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -18,12 +12,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -72,9 +60,6 @@ main-context-menu-page-save =
     .label = Jup u U'uje' Eche' uva'…
     .accesskey = U
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }{ main-context-menu-page-save.label }
-
 ## Simple menu items
 
 
@@ -108,18 +93,6 @@ main-context-menu-media-mute =
     .label = Tzasa tuul ivi'
     .accesskey = T
 
-main-context-menu-media-play-speed-slow =
-    .label = K'otzkin
-    .accesskey = K
-
-main-context-menu-media-play-speed-normal =
-    .label = Jik kuxhtu'
-    .accesskey = J
-
-main-context-menu-media-play-speed-fast =
-    .label = Oora kuxhtu
-    .accesskey = O
-
 main-context-menu-media-loop =
     .label = Lakapuli
     .accesskey = L
@@ -132,16 +105,6 @@ main-context-menu-media-loop =
 
 main-context-menu-media-video-fullscreen =
     .label = Ivatz Kaajayil
-    .accesskey = I
-
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Picture-in-Picture
-    .accesskey = u
-
-main-context-menu-image-view =
-    .label = Il u vatzib'ale'
     .accesskey = I
 
 main-context-menu-image-copy =

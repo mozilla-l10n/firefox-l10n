@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Chuka
     .aria-label = Chuka
 
-newtab-search-box-search-the-web-text = La chuk tu web
-
 newtab-search-box-search-the-web-input =
     .placeholder = La chuk tu web
     .title = La chuk tu web

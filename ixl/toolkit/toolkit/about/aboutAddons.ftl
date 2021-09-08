@@ -5,31 +5,6 @@
 search-header-shortcut =
     .key = f
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } Unka'te
-       *[other] { -brand-short-name } Uve' ni chit asa'
-    }
-
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } Unka'te
-           *[other] { -brand-short-name } Uve' ni chit asa'
-        }
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Unka'te
-           *[other] Uve' ni chit asa'
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
 detail-version =
     .label = Tilax ivatz
 

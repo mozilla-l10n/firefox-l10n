@@ -78,9 +78,6 @@ menu-file-go-offline =
 menu-edit =
     .label = B'an tuche'
     .accesskey = B
-menu-edit-find-on =
-    .label = Chuk tu U'uja' Vaa'
-    .accesskey = C
 menu-edit-find-again =
     .label = Chuk unpajte
     .accesskey = n
@@ -96,9 +93,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Q'e'lich tatinb'al aq'on
     .accesskey = Q
-menu-view-customize-toolbar =
-    .label = Ib'anax tuche'
-    .accesskey = I
 menu-view-sidebar =
     .label = Q'e'lich s-txala
     .accesskey = Q
@@ -129,9 +123,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Kam chit Tilon Ika'y u U'uje'
     .accesskey = K
-menu-view-charset =
-    .label = Taq'ax  texhlal u Tz'ib'e'
-    .accesskey = T
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -180,8 +171,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = K'uchb'al tetz
     .accesskey = K
-menu-bookmarks-show-all =
-    .label = K'uch Kaajayil unq'a K'uchb'al tetze'
 menu-bookmarks-all-tabs =
     .label = Aq' texhlal unq'a K'uchb'al tetze'
 menu-bookmarks-toolbar =
@@ -199,41 +188,18 @@ menu-tools =
 menu-tools-downloads =
     .label = Eq'omal ku'tzan
     .accesskey = E
-menu-tools-addons =
-    .label = Tz'ajsab' tetz
-    .accesskey = T
-menu-tools-fxa-sign-in =
-    .label = Xe'tisa aq'on tu { -brand-product-name }…
-    .accesskey = e
-menu-tools-turn-on-sync =
-    .label = Oypisa kan { -sync-brand-short-name }...
-    .accesskey = n
 menu-tools-sync-now =
     .label = Kol kaajayil cheel chitu'
     .accesskey = K
 menu-tools-fxa-re-auth =
     .label = Okso'k tu { -brand-product-name }…
     .accesskey = O
-menu-tools-web-developer =
-    .label = B'anol tuch Web
-    .accesskey = B
 menu-tools-page-source =
     .label = Texhlal u U'uje'
     .accesskey = T
 menu-tools-page-info =
     .label = Yol ti' u U'uje'
     .accesskey = Y
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Unka'te
-           *[other] Uve' ni chit asa'
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = Uve' oora kuxh ni b'anon tuch tilone'
     .accesskey = U
@@ -267,27 +233,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Lochb'al
     .accesskey = L
-menu-help-product =
-    .label = Lochb'al tetz { -brand-shorter-name }
-    .accesskey = L
-menu-help-show-tour =
-    .label = La xaan axh tu { -brand-shorter-name }
-    .accesskey = L
-menu-help-keyboard-shortcuts =
-    .label = Majb'al tetz unq'a itz'ib'b'ale'
-    .accesskey = M
-menu-help-troubleshooting-info =
-    .label = Yol aq'al uva' la eel isuuchil unq'a vee' yannajle
-    .accesskey = Y
 menu-help-feedback-page =
     .label = Aq'b'en ayol
     .accesskey = A
-menu-help-safe-mode-without-addons =
-    .label = Xe'tisa tuk' unq'a tz'ajsab' tetze' uve' majel kan ivatz
-    .accesskey = X
-menu-help-safe-mode-with-addons =
-    .label = Xe'tisa tuk' unq'a tz'ajsab' tetze' uve' jajlu kan kuxhtu'
-    .accesskey = X
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

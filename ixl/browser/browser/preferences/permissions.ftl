@@ -9,14 +9,6 @@ permissions-block =
     .label = Maja
     .accesskey = M
 
-permissions-button-cancel =
-    .label = Ya'sakan
-    .accesskey = C
-
-permissions-button-ok =
-    .label = K'ol unq'a vee' b'anel tu ve't a'n
-    .accesskey = S
-
 permissions-capabilities-block =
     .label = Maja
 

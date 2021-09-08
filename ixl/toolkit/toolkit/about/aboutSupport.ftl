@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-extensions-name = B'ii
-extensions-version = Tilax ivatz
 support-addons-name = B'ii
 support-addons-version = Tilax ivatz
 security-software-name = B'ii
@@ -48,10 +46,6 @@ unknown = Ye' ootzimal
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-active = Ile' b'a'n ve'te'
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber }
 
 d3d11layers-crash-guard = Compositor D3D11
 glcontext-crash-guard = OpenGL

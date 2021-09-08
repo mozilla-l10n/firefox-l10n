@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Ib'anax tuche'…
-
 ## Zoom Controls
 
 appmenuitem-help =
@@ -22,8 +19,6 @@ appmenuitem-zoom-reduce =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Ik'ultib' skaajayil
 appmenuitem-save-page =
     .label = Jup u U'uje' Eche' uva'…
 

@@ -7,20 +7,12 @@ about-logins-page-title = Ixe't aq'on as Iku' texhla uva' axh kuxh ootzin tetz
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Eq'on chit kach'ub' jajb'al tetze' katilaj kuxhtu'
-login-app-promo-subtitle = Eq'o ku'tzan u aplicación as oy kuxhtu'{ -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Eq'oku'tzan tu Google Play
-login-app-promo-apple =
-    .alt = Eq'oku'tzan tu App Store
-
 login-filter =
     .placeholder = Ichukpu ixe't aq'on
 
 create-login-button = Cheesa uma't Ak' Ixe'tisal aq'on
 
 fxaccounts-sign-in-text = La lej unq'a texhlal kach'ub' tetze' tu ka'taj unq'a aq'onb'ale' uve' nab'anb'e
-fxaccounts-sign-in-button = Xe'tisa tzitza' { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = La eel isuuchil u atinb'ale'
 
@@ -39,8 +31,6 @@ menu-menuitem-preferences =
        *[other] Uve' ni chit asa'
     }
 about-logins-menu-menuitem-help = Lochb'al
-menu-menuitem-android-app = { -lockwise-brand-short-name } tetz Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } tetz iPhone as iPad
 
 ## Login List
 
@@ -71,13 +61,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Nachuk unq'a kach'ub'al texhlale' uve' kolel kan? B'antuche' { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-in = Ye'l tu'aal lejpo aq'al uva' la ilej tib'
 login-intro-description = Kat ikol unq'a xe'tisab' aq'one' tu { -brand-product-name } tu uma't ch'ich kat ab'anb'e, a' unq'a vi'la la b'ane' aq'al uva' at tzitza' la ib'an unpajte:
-login-intro-instruction-fxa = Axh la b'anon moj la uch axe't tzitza' { -fxaccount-brand-name } tu vach'ich'e' uve' kolel kat kan ixe't aq'on s-a'n
-login-intro-instruction-fxa-settings = Il chit ti jikil ti' atxaat kan unq'a texhlale' tu vee' uve' ni b'anax kat tuche' { -sync-brand-short-name }
-about-logins-intro-instruction-help = La saji<a data-l10n-name="help-link">{ -lockwise-brand-short-name } lochb'al tetz </a> aq'al uva' la lej ka't lochb'al
 about-logins-intro-import = Asoj kolel kan ixe't unq'a aaq'one' tu uma't chukb'al tetz, la ib'ane' <a data-l10n-name="import-link"> la eeq'o kutzan tzitza' { -lockwise-brand-short-name }</a>
 
 about-logins-intro-import2 = Asoj kat ikolkan ixe'teb'al unq'a aq'one' ti'e'le { -brand-product-name }, la ib'ane' <a data-l10n-name="import-browser-link"> uva' la eq'oltzan tu' uma't chukb'al tetz</a> moj tu <a data-l10n-name="import-file-link"> tu uma'l kolb'al tetz</a>
@@ -136,8 +121,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = Eesa ivatz i kach'ub'
 
 ## Master Password notification
 
-master-password-notification-message = B'an b'a'nil, aq'ku' u eexhlale' uve' axh kuxh ootzin tetz aq'al uva' la eele' kat xe'tisamal kat aq'on s-a'n as unq'a exhlale' uve' kolel kan s-a'n unpajte
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Aq'al uva' la eeq'otzan unq'a xe'teb'al aq'one', aq'o'k u texhlale' ti' ixe't aq'on tu Windows. A' u vaa' la lochoni ti' tilpu isuuchil unq'a tatinb'al aq'one'.
 # This message can be seen when attempting to export a password in about:logins
@@ -152,22 +135,6 @@ master-password-reload-button =
     .accesskey = x
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Nasa' la eele' kat xe'tisamal kat aq'on s-a'n kat kuxh at kat axh { -brand-product-name }? jaj unq'a vee' uve' ni chit ab'anb'e { -sync-brand-short-name } As la txaae' ab'iste unq'a vee' xe'tisamal kat aq'on s-a'n.
-       *[other] Nasa' la eele' kat xe'tisamal kat aq'on s-a'n kat kuxh at kat axh { -brand-product-name }? jaj unq'a vee' uve' ni chit ab'anb'e { -sync-brand-short-name } Jaj unq'a vee' uve' ni chit ab'anb'e
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Ila' ab'iste nasa' { -sync-brand-short-name }
-           *[other] Ila' ab'iste chit nasa' { -sync-brand-short-name }
-        }
-    .accesskey = I
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Ye'xh kam la ch'otil unpajte
-    .accesskey = Y
 
 ## Dialogs
 

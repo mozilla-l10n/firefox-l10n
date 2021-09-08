@@ -64,14 +64,14 @@ about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 ##
 
 
-##
-
-
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 
 ##
+
+##
+
 
 ##
 

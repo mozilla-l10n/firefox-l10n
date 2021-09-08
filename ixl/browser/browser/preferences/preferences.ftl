@@ -4,12 +4,6 @@
 
 do-not-track-learn-more = Ootzi ka'te
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Unka'te
-       *[other] Uve' ni chit asa'
-    }
-
 pane-home-title = Ixe´te'ba'l
 category-home =
     .tooltiptext = { pane-home-title }
@@ -17,8 +11,6 @@ category-home =
 pane-search-title = Chuka
 category-search =
     .tooltiptext = { pane-search-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
 
 help-button-label = { -brand-short-name }locho'm
 
@@ -50,8 +42,6 @@ restart-later = Xamtel la xe'tisal
 search-results-header = ichukax tok'eb'al
 
 ## General Section
-
-get-started-not-logged-in = chupoke{ -sync-brand-short-name }
 
 browser-containers-learn-more = Ootzi ka'te
 
@@ -91,10 +81,6 @@ applications-select-helper = Txa uma't  aplicador auxiliar
 
 applications-always-ask =
     .label = Meresteel la ch'oti.
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -187,9 +173,6 @@ search-remove-engine =
 
 ## Containers Section
 
-containers-preferences-button =
-    .label = Uve' ni chit asa'
-
 containers-remove-button =
     .label = Sojsa el
 
@@ -247,10 +230,6 @@ history-clear-on-close-settings =
 
 sitedata-learn-more = Ootzi ka'te
 
-sitedata-cookies-permissions =
-    .label = Tilpu unq'a aq'b'al okeb'al…
-    .accesskey = T
-
 ## Privacy Section - Address Bar
 
 addressbar-locbar-bookmarks-option =
@@ -306,8 +285,6 @@ permissions-autoplay-settings =
     .label = Ib'anax tuche'…
     .accesskey = I
 
-permissions-a11y-privacy-link = Ootzi ka'te
-
 ## Privacy Section - Data Collection
 
 collection-health-report-telemetry-disabled-link = Ootzi ka'te
@@ -315,8 +292,6 @@ collection-health-report-telemetry-disabled-link = Ootzi ka'te
 collection-health-report-link = Ootzi ka'te
 
 addon-recommendations-link = Ootzi ka'te
-
-collection-backlogged-crash-reports-link = Ootzi ka'te
 
 ## Privacy Section - Security
 ##
@@ -326,10 +301,6 @@ collection-backlogged-crash-reports-link = Ootzi ka'te
 security-enable-safe-browsing-link = Ootzi ka'te
 
 ## Privacy Section - Certificates
-
-space-alert-learn-more-button =
-    .label = Ootzi ka'te
-    .accesskey = L
 
 ## Privacy Section - HTTPS-Only
 

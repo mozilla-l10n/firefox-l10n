@@ -20,10 +20,6 @@ containers-name-label = B'ii
     .accesskey = N
     .style = { -containers-labels-style }
 
-containers-button-done =
-    .label = Tzojpiya
-    .accesskey = T
-
 containers-color-blue =
     .label = Tixay
 containers-color-green =
