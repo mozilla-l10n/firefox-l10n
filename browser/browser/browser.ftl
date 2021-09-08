@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Gera Nepen)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Gera Nepen)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Gera Nepen)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Gera Nepen)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -80,11 +82,6 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string won't wrap, so if the translated string is longer,
-# consider translating it as if it said only "Search Settings".
-search-one-offs-change-settings-button =
-    .label = Eyarên lêgerînê biguherîne
-
 ## Local search mode one-off buttons
 ## Variables:
 ##  $restrict (String): The restriction token corresponding to the search mode.
@@ -119,13 +116,6 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = Kameraya parvekirinê:
-    .accesskey = K
-popup-select-microphone =
-    .value = Mîkrofona parvekirinê:
-    .accesskey = M
-
 ## WebRTC window or screen share tab switch warning
 
 
@@ -134,12 +124,12 @@ popup-select-microphone =
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = Peyveke lêgerînê yan jî navnîşanek
 urlbar-placeholder =
     .placeholder = Peyveke lêgerînê yan jî navnîşanek
+
 urlbar-switch-to-tab =
     .value = Derbasî hilpekînê bibe:
+
 urlbar-go-button =
     .tooltiptext = Here navnîşana di Darikê Cihî de
 
@@ -169,6 +159,7 @@ bookmarks-sidebar-content =
     .aria-label = Bijare
 bookmarks-bookmark-edit-panel =
     .label = Vê bijareyê serast bike
+
 bookmarks-toolbar-menu =
     .label = Darikê Amûran a Bijareyan
 bookmarks-toolbar-placeholder =
@@ -217,6 +208,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Ji bo { $uriHost }ê destûrê bide pencereyên pop-up
     .accesskey = P
+
 popups-infobar-block =
     .label = Ji bo { $uriHost }ê pop-upan asteng bike
     .accesskey = P
@@ -226,3 +218,4 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Dema ku pop-up bê astenkirin, min hişyar neke
     .accesskey = ê
+

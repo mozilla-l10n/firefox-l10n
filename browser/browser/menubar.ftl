@@ -99,9 +99,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Serastkirin
     .accesskey = S
-menu-edit-find-on =
-    .label = Di vê rûpelê de bibîne...
-    .accesskey = D
 menu-edit-find-again =
     .label = Ji nû ve lê bigere
     .accesskey = J
@@ -117,9 +114,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Darikê Amûran
     .accesskey = A
-menu-view-customize-toolbar =
-    .label = Taybet Bike
-    .accesskey = T
 menu-view-sidebar =
     .label = Darikê Quncikê
     .accesskey = Q
@@ -192,8 +186,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Bijare
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = Hemû bijareyan nîşan bide
 menu-bookmark-edit =
     .label = Vê bijareyê serast bike
 menu-bookmarks-all-tabs =
@@ -209,32 +201,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Yên hatine daxistin
     .accesskey = d
-menu-tools-addons =
-    .label = Add-on
-    .accesskey = A
 menu-tools-sync-now =
     .label = Niha senkronîze bike
     .accesskey = s
-menu-tools-web-developer =
-    .label = Pêşvebira Webê
-    .accesskey = W
 menu-tools-page-source =
     .label = Çavkaniya Rûpelê
     .accesskey = a
 menu-tools-page-info =
     .label = Agahiyên Rûpelê
     .accesskey = A
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Vebijêrk
-           *[other] Vebijêrk
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] V
-           *[other] V
-        }
 
 ## Window Menu
 
@@ -265,21 +240,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Alîkarî
     .accesskey = A
-menu-help-product =
-    .label = Alîkariya { -brand-shorter-name }ê
-    .accesskey = A
-menu-help-show-tour =
-    .label = Tura { -brand-shorter-name }ê
-    .accesskey = T
-menu-help-keyboard-shortcuts =
-    .label = Kurteriyên klavyeyê
-    .accesskey = k
-menu-help-troubleshooting-info =
-    .label = Agahiyên tamîrkirinê
-    .accesskey = t
 menu-help-feedback-page =
     .label = Ramanan Bişîne…
     .accesskey = R
-menu-help-safe-mode-without-addons =
-    .label = Dîsdestpêkirina bi Add-onan hate neçalakirin…
-    .accesskey = r

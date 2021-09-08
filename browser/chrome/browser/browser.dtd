@@ -7,8 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY appmenu.tooltip                     "Menuyê veke">
-
 <!ENTITY navbarOverflow.label                "Amûrên din…">
 
 <!-- Tab context menu -->
@@ -19,9 +17,6 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
-<!ENTITY  pinTab.label                       "Hilpekînê sabît bike">
-<!ENTITY  unpinTab.label                     "Hilpekînê nesabît bike">
 
 
 
@@ -40,10 +35,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Darikê Pêşekê">
 <!ENTITY menubarCmd.accesskey "D">
 
-<!ENTITY personalbarCmd.label "Darikê Amûran a Bijareyan">
-<!ENTITY personalbarCmd.accesskey "A">
-<!ENTITY bookmarksToolbarItem.label "Nîşaneyên Bijareyan">
-
 
 
 
@@ -60,10 +51,7 @@ when there are no windows but Firefox is still running. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
@@ -72,16 +60,6 @@ when there are no windows but Firefox is still running. -->
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
-
-<!ENTITY showAllBookmarks2.label "Hemû bijareyan nîşan bide">
-
-
-
-<!ENTITY bookmarksToolbarChevron.tooltip "Zêdetir bijare nîşan bide">
 
 
 
@@ -120,13 +98,6 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY homeButton.label             "Serûpel">
 
-<!ENTITY bookmarksButton.label          "Bijare">
-
-
-<!ENTITY viewBookmarksSidebar2.label        "Di darikê dijareyan de nîşan bide">
-
-<!ENTITY viewBookmarksToolbar.label         "Di Darikê Bijareyan de Nîşan Bide">
-
 
 
 
@@ -139,8 +110,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY historyButton.label            "Raborî">
 
 <!ENTITY downloads.label              "Yên hatine daxistin">
-
-<!ENTITY addons.label                 "Add-on">
 
 <!ENTITY webDeveloperMenu.label       "Pêşvebira Webê">
 
@@ -159,16 +128,6 @@ when there are no windows but Firefox is still running. -->
 
 
 <!ENTITY historyMenu.label "Raborî">
-
-<!ENTITY historyUndoMenu.label "Hilpekînên di nêzîk de hatine girtin">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Pencereyên di nêzîk de hatine girtin">
-
-<!ENTITY appMenuHistory.showAll.label "Hemû Raboriyê nîşan bide">
-
-<!ENTITY appMenuHistory.clearRecent.label "Raboriya nêzîk paqij bike…">
-<!ENTITY appMenuHistory.restoreSession.label "Danişîna berê veava bike">
-<!ENTITY appMenuHistory.viewSidebar.label "Darika kêlekê ya Raboriyê nîşan bide">
 
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -202,8 +161,6 @@ when there are no windows but Firefox is still running. -->
 
 
 
-<!ENTITY customizeMenu.removeFromToolbar.label "Ji darikê amûran rake">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Zêdetir hêmanan têxê…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "t">
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -263,9 +220,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openLinkCmdInTab.accesskey   "H">
 
 
-<!ENTITY emailPageCmd.label           "Girêdankê bi epeyamê bişîne…">
-
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -296,14 +250,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Nêzîk Bike">
 
 <!ENTITY sidebarCloseButton.tooltip     "Darikê quncikê bigire">
-
-
-<!ENTITY quitApplicationCmdWin2.label       "Derkeve">
-<!ENTITY quitApplicationCmdWin2.accesskey   "k">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Ji &brandShorterName;ê derkeve">
-<!ENTITY quitApplicationCmd.label       "Derkeve">
-<!ENTITY quitApplicationCmd.accesskey   "k">
-<!ENTITY quitApplicationCmdMac2.label   "Ji &brandShorterName;ê derkeve">
 
 
 <!ENTITY allowPopups.accesskey "P">
@@ -377,17 +323,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
-
-
-
-
-
-
-<!ENTITY syncBrand.shortName.label    "Sync">
 
 
 

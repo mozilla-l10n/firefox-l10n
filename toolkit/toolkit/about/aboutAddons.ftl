@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Rêveberiya Add-onan
-
 addons-page-title = Rêveberiya Add-onan
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = Derbarê add-onan de zêdetir agahiyan bistîne
-
-cmd-show-details =
-    .label = Zêdetir agahî nîşan bide
-    .accesskey = Z
-
-cmd-find-updates =
-    .label = Rojanekirinan bibîne
-    .accesskey = R
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Vebijêrk
-           *[other] Vebijêrk
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] V
-           *[other] V
-        }
-
-cmd-enable-theme =
-    .label = Dirbekê li xwe bike
-    .accesskey = w
-
-cmd-disable-theme =
-    .label = Lixwekirina dirbê rawestîne
-    .accesskey = w
-
-cmd-install-addon =
-    .label = Sazkirin
-    .accesskey = i
-
-cmd-contribute =
-    .label = Hevpar
-    .accesskey = H
-    .tooltiptext = Ji bo pêşdebirina vê add-onê hevkariyê bike
 
 detail-version =
     .label = Guherto
