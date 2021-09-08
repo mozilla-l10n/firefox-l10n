@@ -5,5 +5,4 @@
 crashed-restore-tab-button = Ripristina custa ischeda
 crashed-request-help = Nos cheres agiudare?
 crashed-request-report-title = Signala custa ischeda
-crashed-email-placeholder = Inserta·nche s'indiritzu tuo
 crashed-request-auto-submit-title = Signala ischedas in segundu pranu

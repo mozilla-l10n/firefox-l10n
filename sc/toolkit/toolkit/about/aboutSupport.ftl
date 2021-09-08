@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-extensions-title = Agiuntas
-extensions-name = Nùmene
-extensions-enabled = Ativadu
 support-addons-name = Nùmene
 features-name = Nùmene
 app-basics-name = Nùmene
@@ -47,7 +44,6 @@ gpu-description = Descritzione
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-2 = Disativadu
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

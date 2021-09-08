@@ -71,9 +71,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Barras de istrumentos
     .accesskey = B
-menu-view-customize-toolbar =
-    .label = Personaliza
-    .accesskey = P
 menu-view-bookmarks =
     .label = Signa-libros
 menu-view-history-button =
@@ -117,10 +114,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Signa-libros
     .accesskey = S
-menu-bookmarks-show-all =
-    .label = Ammustra totu sos signa-libros
-menu-bookmark-this-page =
-    .label = Pone custa pàgina in sos signa-libros
 menu-bookmark-edit =
     .label = Modìfica custu signa-libru
 menu-bookmarks-all-tabs =
@@ -140,23 +133,9 @@ menu-tools =
 menu-tools-downloads =
     .label = Iscarrigamentos
     .accesskey = I
-menu-tools-web-developer =
-    .label = Isvilupadore web
-    .accesskey = w
 menu-tools-page-info =
     .label = Informatziones de sa pàgina
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Optziones
-           *[other] Preferèntzias
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
 
 ## Window Menu
 
@@ -186,7 +165,4 @@ menu-window-bring-all-to-front =
 
 menu-help =
     .label = Agiudu
-    .accesskey = A
-menu-help-product =
-    .label = Agiudu de { -brand-shorter-name }
     .accesskey = A

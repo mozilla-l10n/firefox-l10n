@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Optziones
-       *[other] Preferèntzias
-    }
-
 pane-general-title = Generale
 category-general =
     .tooltiptext = { pane-general-title }
@@ -54,10 +48,6 @@ browser-containers-learn-more = Leghe àteru
 ## General Section - Files and Applications
 
 download-header = Iscarrigamentos
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -120,9 +110,6 @@ performance-settings-learn-more = Leghe àteru
 search-engine-default-header = Pone su primu chircadore chi b'est istadu
 
 ## Containers Section
-
-containers-preferences-button =
-    .label = Preferèntzias
 
 containers-remove-button =
     .label = Boga
@@ -191,8 +178,6 @@ permissions-notification = Notìficas
 ## Privacy Section - Data Collection
 
 collection-health-report-link = Leghe àteru
-
-collection-backlogged-crash-reports-link = Leghe àteru
 
 ## Privacy Section - Security
 ##

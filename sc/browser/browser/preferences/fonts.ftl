@@ -35,16 +35,3 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-name-arabic =
-    .label = Àrabu
-fonts-languages-fallback-name-greek =
-    .label = Grecu
-fonts-languages-fallback-name-japanese =
-    .label = Giaponesu
-fonts-languages-fallback-name-korean =
-    .label = Coreanu
-fonts-languages-fallback-name-turkish =
-    .label = Turcu
-fonts-languages-fallback-name-vietnamese =
-    .label = Vietnamita
-
