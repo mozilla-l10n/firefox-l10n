@@ -38,16 +38,20 @@ menu-quit =
             [windows] й
            *[other] В
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Вийти з { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Вийти з { -brand-shorter-name }
+
 menu-about =
     .label = Про { -brand-shorter-name }
     .accesskey = о
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Редагувати
     .accesskey = Р
-menu-edit-find-on =
-    .label = Знайти на цій сторінці…
-    .accesskey = ц
 menu-edit-find-in-page =
     .label = Знайти на сторінці…
     .accesskey = З
@@ -133,9 +134,6 @@ menu-view =
     .accesskey = В
 menu-view-toolbars-menu =
     .label = Панелі інструментів
-    .accesskey = П
-menu-view-customize-toolbar =
-    .label = Пристосування…
     .accesskey = П
 menu-view-customize-toolbar2 =
     .label = Налаштувати панель інструментів…
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Основний стиль сторінки
     .accesskey = О
-menu-view-charset =
-    .label = Кодування символів
-    .accesskey = К
 menu-view-repair-text-encoding =
     .label = Виправити кодування тексту
     .accesskey = к
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Знову відкрити всі вікна
 menu-bookmarks-menu =
     .label = Закладки
     .accesskey = З
-menu-bookmarks-show-all =
-    .label = Показати всі закладки
-menu-bookmark-this-page =
-    .label = Закласти цю сторінку
 menu-bookmarks-manage =
     .label = Керувати закладками
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Завантаження
     .accesskey = З
-menu-tools-addons =
-    .label = Додатки
-    .accesskey = Д
-menu-tools-fxa-sign-in =
-    .label = Увійти в { -brand-product-name }…
-    .accesskey = в
-menu-tools-turn-on-sync =
-    .label = Увімкнути { -sync-brand-short-name(case: "acc") }…
-    .accesskey = м
 menu-tools-addons-and-themes =
     .label = Додатки й теми
     .accesskey = к
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Повторно під'єднатися до { -brand-product-name }…
     .accesskey = т
-menu-tools-web-developer =
-    .label = Веб розробка
-    .accesskey = В
 menu-tools-browser-tools =
     .label = Інструменти браузера
     .accesskey = м
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Інформація про сторінку
     .accesskey = І
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Налаштування
-           *[other] Налаштування
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Н
-           *[other] Н
-        }
 menu-settings =
     .label = Налаштування
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Довідка
     .accesskey = о
-menu-help-product =
-    .label = Довідка { -brand-shorter-name }
-    .accesskey = о
-menu-help-show-tour =
-    .label = Знайомство з { -brand-shorter-name }
-    .accesskey = й
-menu-help-import-from-another-browser =
-    .label = Імпорт даних з іншого браузера…
-    .accesskey = м
-menu-help-keyboard-shortcuts =
-    .label = Комбінації клавіш
-    .accesskey = К
-menu-help-troubleshooting-info =
-    .label = Усунення проблем
-    .accesskey = У
 menu-get-help =
     .label = Отримати допомогу
     .accesskey = д
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Надіслати відгук…
     .accesskey = Н
-menu-help-safe-mode-without-addons =
-    .label = Перезапуск з вимкненими додатками…
-    .accesskey = П
-menu-help-safe-mode-with-addons =
-    .label = Перезапуск з увімкненими додатками
-    .accesskey = у
 menu-help-enter-troubleshoot-mode2 =
     .label = Режим усунення проблем…
     .accesskey = б

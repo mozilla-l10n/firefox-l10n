@@ -66,11 +66,6 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = Поведінка при знімку екрана
 
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Знімок в буфер обміну
-options-screenshot-clipboard-tooltip =
-    .title = Збереження знімку безпосередньо в буфер обміну
-
-# Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Знімок тільки в буфер обміну
 options-screenshot-clipboard-tooltip2 =
     .title = Збереження знімка екрана безпосередньо в буфер обміну

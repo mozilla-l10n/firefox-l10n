@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = У вас є сертифікати від цих організацій, що ідентифікують вас
 certmgr-remembered = Ці сертифікати використовуються для розпізнавання вас на вебсайтах
 certmgr-people = У вас є сертифікати, що ідентифікують цих людей
-certmgr-servers = У вас є сертифікати, що ідентифікують ці сервери
 certmgr-server = Ці записи визначають винятки для помилок сертифікатів серверів
 certmgr-ca = У вас є сертифікати, що ідентифікують ці центри сертифікації
-
-certmgr-detail-general-tab-title =
-    .label = Основне
-    .accesskey = в
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Подробиці
-    .accesskey = П
-
-certmgr-pending-label =
-    .value = Триває перевірка сертифіката…
-
-certmgr-subject-label = Кому видано
-
-certmgr-issuer-label = Видавець
-
-certmgr-period-of-validity = Термін дії
-
-certmgr-fingerprints = Відбитки
-
-certmgr-cert-detail =
-    .title = Подробиці сертифіката
-    .buttonlabelaccept = Закрити
-    .buttonaccesskeyaccept = а
-
-certmgr-cert-detail-commonname = Загальне ім’я (CN)
-
-certmgr-cert-detail-org = Організація (O)
-
-certmgr-cert-detail-orgunit = Організаційний підрозділ (OU)
-
-certmgr-cert-detail-serial-number = Серійний номер
-
-certmgr-cert-detail-sha-256-fingerprint = Відбиток SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Відбиток SHA1
 
 certmgr-edit-ca-cert =
     .title = Змінити налаштування довіри CA сертифіката
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Пристрій захисту
 
-certmgr-begins-on = Починається
-
 certmgr-begins-label =
     .label = Починається
-
-certmgr-expires-on = Дійсний до
 
 certmgr-expires-label =
     .label = Дійсний до
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Імпорт…
     .accesskey = І
-
-certmgr-details =
-    .value = Поля сертифікатів
-    .accesskey = о
-
-certmgr-fields =
-    .value = Значення поля
-    .accesskey = а
-
-certmgr-hierarchy =
-    .value = Ієрархія сертифікатів
-    .accesskey = є
 
 certmgr-add-exception =
     .label = Додати виняток…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Ви дійсно хочете вилучити ці 
 delete-user-cert-impact = Якщо ви вилучите один з власних сертифікатів, ви не зможете більше використовувати його, щоб ідентифікувати себе.
 
 
-delete-ssl-cert-title =
-    .title = Видалити винятки для сертифіката сервера
-delete-ssl-cert-confirm = Ви дійсно хочете видалити винятки для цього сервера?
-delete-ssl-cert-impact = Якщо ви видалите виняток для сервера, до нього будуть застосовані стандартні вимоги безпеки й для цього сайту буде потрібен дійсний сертифікат.
-
-
 delete-ssl-override-title =
     .title = Видалити виняток для сертифіката сервера
 delete-ssl-override-confirm = Ви дійсно хочете видалити виняток для цього сервера?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Сертифікат з серійним номером: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Переглядач сертифіката: “{ $certName }”
-
-not-present =
-    .value = <Не є частиною сертифіката>
-
-# Cert verification
-cert-verified = Цей сертифікат був підтверджений для наступних цілей:
-
-# Add usage
-verify-ssl-client =
-    .value = Сертифікат клієнта SSL
-
-verify-ssl-server =
-    .value = Сертифікат сервера SSL
-
-verify-ssl-ca =
-    .value = Центр сертифікації SSL
-
-verify-email-signer =
-    .value = Сертифікат електронної пошти
-
-verify-email-recip =
-    .value = Сертифікат адресата електронної пошти
-
-# Cert verification
-cert-not-verified-cert-revoked = Верифікація сертифіката неможлива, оскільки його було анульовано.
-cert-not-verified-cert-expired = Верифікація сертифіката неможлива, оскільки термін його дії закінчився.
-cert-not-verified-cert-not-trusted = Верифікація сертифіката неможлива, тому що він ненадійний.
-cert-not-verified-issuer-not-trusted = Верифікація сертифіката неможлива, тому що сторона, що видала його, ненадійна.
-cert-not-verified-issuer-unknown = Верифікація сертифіката неможлива, тому що сторона, що видала його, невідома.
-cert-not-verified-ca-invalid = Верифікація сертифіката неможлива, тому що сертифікат центру недійсний.
-cert-not-verified_algorithm-disabled = Вирифікація сертифіката неможлива, тому що він був підписаний алгоритмом підпису, котрий відтоді був вимкнений через небезпечність.
-cert-not-verified-unknown = Верифікація сертифіката неможлива.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Не надсилати сертифікат клієнта

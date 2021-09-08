@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Прибрати всі сайти
     .accesskey = і
 
-translation-button-close =
-    .label = Закрити
-    .accesskey = З
-
 translation-dialog =
     .buttonlabelaccept = Закрити
     .buttonaccesskeyaccept = З

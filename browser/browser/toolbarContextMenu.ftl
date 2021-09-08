@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Вибрати всі вкладки
     .accesskey = б
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [one] Відновити закриту вкладку
-            [few] Відновити { $tabCount } закриті вкладки
-           *[many] Відновити { $tabCount } закритих вкладок
-        }
-    .accesskey = і
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Прикріпити до розширеного меню
     .accesskey = к
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Автоматично приховувати в панелі інструментів
-    .accesskey = п
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Ховати кнопку, якщо немає завантажень
     .accesskey = Х

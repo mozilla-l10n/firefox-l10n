@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Вебсайтам доведеться повторно завантажувати зображення і дані
 
-clear-site-data-cancel =
-    .label = Скасувати
-    .accesskey = С
-
-clear-site-data-clear =
-    .label = Стерти
-    .accesskey = т
-
 clear-site-data-dialog =
     .buttonlabelaccept = Стерти
     .buttonaccesskeyaccept = т

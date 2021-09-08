@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Додатки
-
 addons-page-title = Додатки
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Підтримка додатків
 sidebar-help-button-title =
     .title = Підтримка додатків
 
-preferences =
-    { PLATFORM() ->
-        [windows] Налаштування { -brand-short-name }
-       *[other] Налаштування { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Налаштування { -brand-short-name }
-           *[other] Налаштування { -brand-short-name }
-        }
-
 addons-settings-button = Налаштування { -brand-short-name }
 sidebar-settings-button-title =
     .title = Налаштування { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Показати всі розширення
-
-cmd-show-details =
-    .label = Показати більше інформації
-    .accesskey = і
-
-cmd-find-updates =
-    .label = Знайти оновлення
-    .accesskey = о
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Налаштування
-           *[other] Налаштування
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Н
-           *[other] Н
-        }
-
-cmd-enable-theme =
-    .label = Вдягнути тему
-    .accesskey = В
-
-cmd-disable-theme =
-    .label = Зняти тему
-    .accesskey = З
-
-cmd-install-addon =
-    .label = Встановити
-    .accesskey = В
-
-cmd-contribute =
-    .label = Посприяти
-    .accesskey = П
-    .tooltiptext = Посприяти розвитку цього додатка
 
 detail-version =
     .label = Версія
@@ -400,8 +348,6 @@ dictionary-disabled-heading = Вимкнено
 
 locale-enabled-heading = Увімкнено
 locale-disabled-heading = Вимкнено
-
-ask-to-activate-button = Питати про активацію
 
 always-activate-button = Завжди активувати
 never-activate-button = Ніколи не активувати

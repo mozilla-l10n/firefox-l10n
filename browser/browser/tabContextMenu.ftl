@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Закласти вкладку
     .accesskey = л
-reopen-in-container =
-    .label = Відкрити в контейнері
-    .accesskey = й
 tab-context-open-in-new-container-tab =
     .label = Відкрити в новій вкладці контейнера
     .accesskey = й
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Закрити кілька вкладок
     .accesskey = к
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [one] Відновити закриту вкладку
-            [few] Відновити { $tabCount } закриті вкладки
-           *[many] Відновити { $tabCount } закритих вкладок
-        }
-    .accesskey = В
-close-tab =
-    .label = Закрити вкладку
-    .accesskey = к
-close-tabs =
-    .label = Закрити вкладки
-    .accesskey = к
-move-tabs =
-    .label = Перемістити вкладки
-    .accesskey = м
-move-tab =
-    .label = Перемістити вкладку
-    .accesskey = м
 tab-context-share-url =
     .label = Поділитися
     .accesskey = я
@@ -130,6 +107,7 @@ tab-context-move-tabs =
            *[many] Перемістити { $tabCount } вкладок
         }
     .accesskey = м
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

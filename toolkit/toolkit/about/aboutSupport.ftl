@@ -7,16 +7,12 @@ page-subtitle =
     Ця сторінка містить технічну інформацію, що може стати в пригоді під час усунення проблем.
     Якщо ж вам потрібні відповіді на поширені питання про { -brand-short-name },
     відвідайте наш <a data-l10n-name="support-link">сайт підтримки</a>.
+
 crashes-title = Звіти про збої
 crashes-id = ID звіту
 crashes-send-date = Надіслано
 crashes-all-reports = Всі звіти про збої
 crashes-no-config = Ця програма не була налаштована показувати звіти про збої.
-extensions-title = Розширення
-extensions-name = Назва
-extensions-enabled = Увімкнено
-extensions-version = Версія
-extensions-id = ID
 support-addons-title = Додатки
 support-addons-name = Назва
 support-addons-type = Тип
@@ -133,8 +129,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Тип процесу
 sandbox-sys-call-number = Системний виклик
 sandbox-sys-call-args = Аргументи
-safe-mode-title = Спробувати безпечний режим
-restart-in-safe-mode-label = Перезапустити з вимкненими додатками…
 troubleshoot-mode-title = Визначення проблем
 restart-in-troubleshoot-mode-label = Режим усунення проблем…
 clear-startup-cache-title = Спробуйте очистити кеш запуску
@@ -192,36 +186,6 @@ remote-debugging-url = URL
 
 ##
 
-support-third-party-modules-title = Сторонні модулі
-support-third-party-modules-module = Файл модуля
-support-third-party-modules-version = Версія файлу
-support-third-party-modules-vendor = Інформація про постачальника
-support-third-party-modules-occurrence = Повторення
-support-third-party-modules-process = Тип процесу та ID
-support-third-party-modules-thread = Гілка
-support-third-party-modules-base = Адреса бази зображень
-support-third-party-modules-uptime = Час роботи процесу (мс)
-support-third-party-modules-duration = Тривалість завантаження (мс)
-support-third-party-modules-status = Стан
-support-third-party-modules-status-loaded = Завантажено
-support-third-party-modules-status-blocked = Заблоковано
-support-third-party-modules-status-redirected = Перенаправлено
-support-third-party-modules-empty = Не завантажено сторонніх модулів.
-support-third-party-modules-no-value = (Немає значення)
-support-third-party-modules-button-open =
-    .title = Відкрити розташування файлу…
-support-third-party-modules-expand =
-    .title = Показати подробиці
-support-third-party-modules-collapse =
-    .title = Згорнути подробиці
-support-third-party-modules-unsigned-icon =
-    .title = Цей модуль не підписаний
-support-third-party-modules-folder-icon =
-    .title = Відкрити розташування файлу…
-support-third-party-modules-down-icon =
-    .title = Показати подробиці
-support-third-party-modules-up-icon =
-    .title = Згорнути подробиці
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -230,6 +194,7 @@ report-crash-for-days =
         [few] Звіти за минулі { $days } дні
        *[many] Звіти за минулі { $days } днів
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -238,6 +203,7 @@ crashes-time-minutes =
         [few] { $minutes } хвилини тому
        *[many] { $minutes } хвилин тому
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -246,6 +212,7 @@ crashes-time-hours =
         [few] { $hours } години тому
        *[many] { $hours } годин тому
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -254,6 +221,7 @@ crashes-time-days =
         [few] { $days } дні тому
        *[many] { $days } днів тому
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -262,6 +230,7 @@ pending-reports =
         [few] Всі звіти про збої (за вказаний проміжок часу, включно з { $reports }, що очікує надсилання)
        *[many] Всі звіти про збої (за вказаний проміжок часу, включно з { $reports }, що очікують надсилання)
     }
+
 raw-data-copied = Необроблені дані скопійовано в буфер
 text-copied = Текст скопійовано в буфер
 
@@ -274,9 +243,11 @@ blocked-mismatched-version = Заблоковано через невідпов�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Заблоковано для вашого графічного драйвера. Спробуйте оновити графічний драйвер до версії { $driverVersion } чи новішої.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Параметри ClearType
+
 compositing = Композиція
 hardware-h264 = Апаратне декодування H264
 main-thread-no-omtc = головний потік, не OMTC
@@ -291,6 +262,7 @@ virtual-monitor-disp = Відображення віртуального мон�
 
 found = Знайдено
 missing = Відсутнє
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Опис
@@ -313,21 +285,19 @@ webgl2-renderer = Засіб візуалізації WebGL2
 webgl2-version = WebGL 2 - Версія драйвера
 webgl2-driver-extensions = WebGL 2 - Розширення драйвера
 webgl2-extensions = WebGL 2 - Розширення
-blocklisted-bug = Заблоковано через відомі проблеми
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = вада { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Заблоковано, у зв'язку з відомими проблемами: <a data-l10n-name="bug-link">звіт { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Заблоковано; код помилки { $failureCode }
+
 d3d11layers-crash-guard = Композитор D3D11
-d3d11video-crash-guard = Відео декодер D3D11
-d3d9video-crash-guard = Відео декодер D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Відео декодер WMF VPX
+
 reset-on-next-restart = Скинути за наступного перезапуску
 gpu-process-kill-button = Завершити GPU процес
 gpu-device-reset = Скидання пристрою
@@ -337,8 +307,10 @@ content-uses-tiling = Використовує тайлінг (вміст)
 off-main-thread-paint-enabled = Вимальовування поза основним потоком увімкнено
 off-main-thread-paint-worker-count = Число воркерів вимальовування поза основним потоком
 target-frame-rate = Цільова частота кадрів
+
 min-lib-versions = Очікувана мінімальна версія
 loaded-lib-versions = Поточна версія
+
 has-seccomp-bpf = Seccomp-BPF (Фільтрування системних викликів)
 has-seccomp-tsync = Синхронізація потоку Seccomp
 has-user-namespaces = Користувацькі простори імен
@@ -352,27 +324,22 @@ sandbox-proc-type-content = вміст
 sandbox-proc-type-file = вміст файлу
 sandbox-proc-type-media-plugin = медіаплагін
 sandbox-proc-type-data-decoder = декодер даних
+
 startup-cache-title = Кеш запуску
 startup-cache-disk-cache-path = Шлях дискового кешу
 startup-cache-ignore-disk-cache = Ігнорувати дисковий кеш
 startup-cache-found-disk-cache-on-init = Знайдено дисковий кеш в Init
 startup-cache-wrote-to-disk-cache = Записано в дисковий кеш
+
 launcher-process-status-0 = Увімкнено
 launcher-process-status-1 = Вимкнено через збій
 launcher-process-status-2 = Примусово вимкнено
 launcher-process-status-unknown = Невідомий стан
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Увімкнено користувачем
-multi-process-status-1 = Типово увімкнено
-multi-process-status-2 = Вимкнено
-multi-process-status-4 = Вимкнено інструментами доступності
-multi-process-status-6 = Вимкнено через непідтримуване введення тексту
-multi-process-status-7 = Вимкнено додатками
-multi-process-status-8 = Примусово вимкнені
-multi-process-status-unknown = Невідомий стан
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -388,6 +355,7 @@ fission-status-enabled-by-user-pref = Увімкнено користуваче�
 fission-status-disabled-by-user-pref = Вимкнено користувачем
 fission-status-disabled-by-e10s-other = E10s вимкнено
 fission-status-enabled-by-rollout = Увімкнено поетапним випуском
+
 async-pan-zoom = Асинхронне панорамування/зум
 apz-none = немає
 wheel-enabled = введення коліщатком увімкнено
@@ -424,6 +392,7 @@ support-remote-experiments-title = Віддалені експерименти
 support-remote-experiments-name = Назва
 support-remote-experiments-branch = Гілка експерименту
 support-remote-experiments-see-about-studies = Перегляньте <a data-l10n-name="support-about-studies-link">about:studies</a> для докладнішої інформації, включаючи інструкції про те, як вимкнути певні експерименти, або як вимкнути для { -brand-short-name } виконання експериментів такого типу в майбутньому.
+
 support-remote-features-title = Віддалені функції
 support-remote-features-name = Назва
 support-remote-features-status = Стан

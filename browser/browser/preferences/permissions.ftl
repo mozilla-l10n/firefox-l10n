@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Вилучити всі вебсайти
     .accesskey = с
 
-permissions-button-cancel =
-    .label = Скасувати
-    .accesskey = С
-
-permissions-button-ok =
-    .label = Зберегти зміни
-    .accesskey = З
-
 permission-dialog =
     .buttonlabelaccept = Зберегти зміни
     .buttonaccesskeyaccept = З

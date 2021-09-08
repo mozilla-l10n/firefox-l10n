@@ -35,9 +35,6 @@ connection-proxy-http = Проксі по HTTP
     .accesskey = H
 connection-proxy-http-port = Порт
     .accesskey = о
-connection-proxy-http-sharing =
-    .label = Також використовувати цей проксі для FTP та HTTPS
-    .accesskey = ж
 
 connection-proxy-https-sharing =
     .label = Також застосувати цей проксі для HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS-проксі
     .accesskey = H
 connection-proxy-ssl-port = Порт
     .accesskey = р
-
-connection-proxy-ftp = Проксі по FTP
-    .accesskey = F
-connection-proxy-ftp-port = Порт
-    .accesskey = п
 
 connection-proxy-socks = Проксі по SOCKS
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Без проксі для
     .accesskey = Б
 
 connection-proxy-noproxy-desc = Приклад: .mozilla.org.ua, localhost, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = З'єднання з локальним вузлом (localhost), 127.0.0.1, та ::1 ніколи не проходять через проксі.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = З'єднання з localhost, 127.0.0.1/8, та ::1 ніколи не використовує проксі.

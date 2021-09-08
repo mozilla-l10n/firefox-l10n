@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Новий">
 <!ENTITY newMenu.accesskey "Н">
 <!ENTITY newMessage.label "Повідомлення">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "Л">
 <!ENTITY newContact.label "Контакт адресної книги…">
 <!ENTITY newContact.accesskey "К">
 <!ENTITY attachMenu.label "Вкласти">
 <!ENTITY attachMenu.accesskey "с">
-<!ENTITY attachFileCmd.label "Файл(и)…">
-<!ENTITY attachFileCmd.accesskey "л">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Вебсторінку…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Надіслати пізніше">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "з">
-<!ENTITY printSetupCmd.label "Параметри сторінки…">
-<!ENTITY printSetupCmd.accesskey "а">
-<!ENTITY printPreviewCmd.label "Перегляд перед друком">
-<!ENTITY printPreviewCmd.accesskey "д">
 <!ENTITY printCmd.label "Друк…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "Д">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Пересортувати вкладення…">
 <!ENTITY reorderAttachmentsCmd.accesskey "е">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Панель вкладень">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "в">
 <!ENTITY selectAllCmd.accesskey "с">
 <!ENTITY findBarCmd.label "Знайти…">
 <!ENTITY findBarCmd.accesskey "З">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Пересортувати вкладення">
-<!ENTITY moveAttachmentTopPanelBtn.label "Перемістити вгору">
-<!ENTITY moveAttachmentUpPanelBtn.label "Вгору">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Перемістити разом">
-<!ENTITY moveAttachmentDownPanelBtn.label "Вниз">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Перемістити донизу">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Налаштування облікового запису">
 <!ENTITY accountManagerCmd2.accesskey "Н">
 <!ENTITY accountManagerCmdUnix2.accesskey "м">
-<!ENTITY preferencesCmd2.label "Налаштування…">
-<!ENTITY preferencesCmd2.accesskey "Н">
-<!ENTITY preferencesCmdUnix.label "Налаштування">
-<!ENTITY preferencesCmdUnix.accesskey "Н">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Надіслати">
 <!ENTITY quoteButton.label "Цитата">
 <!ENTITY addressButton.label "Адреса">
-<!ENTITY attachButton.label "Вкладення">
 <!ENTITY spellingButton.label "Орфографія">
 <!ENTITY saveButton.label "Зберегти">
 <!ENTITY printButton.label "Друк">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Надіслати це повідомлення пізніше">
 <!ENTITY quoteButton.tooltip "Цитувати попереднє повідомлення">
 <!ENTITY addressButton.tooltip "Вибрати адресата з адресної книги">
-<!ENTITY attachButton.tooltip2 "Додати вкладення">
 <!ENTITY spellingButton.tooltip "Перевірити правопис вибраного чи всього повідомлення">
 <!ENTITY saveButton.tooltip "Зберегти це повідомлення">
 <!ENTITY cutButton.tooltip              "Вирізати">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Інші типи адресних полів">
 <!ENTITY fromAddr2.label "Від">
 <!ENTITY fromAddr.accesskey "д">
-<!ENTITY toAddr2.label "Кому">
-<!ENTITY ccAddr2.label "Копія">
-<!ENTITY bccAddr2.label "Прихована копія">
 <!ENTITY replyAddr2.label "Відповісти">
 <!ENTITY newsgroupsAddr2.label "Група новин">
 <!ENTITY followupAddr2.label "Продовжити в">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "ч">
 <!ENTITY selectAll.label "Виділити все">
 <!ENTITY selectAll.accesskey "с">
-<!ENTITY attachFile.label "Вкласти файл(и)…">
-<!ENTITY attachFile.accesskey "ф">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Перетворити на…">

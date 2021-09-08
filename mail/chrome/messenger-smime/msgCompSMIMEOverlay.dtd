@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Цифровий підпис">
 <!ENTITY menu_securitySign.accesskey "Ц">
 
-<!ENTITY menu_securityAttachMyKey.label "Приєднати мій відкритий ключ">
-<!ENTITY menu_securityAttachMyKey.accesskey "П">
-
 <!ENTITY menu_securityTech.label "Технологія шифрування">
 <!ENTITY menu_securityTech.accesskey "Т">
 
