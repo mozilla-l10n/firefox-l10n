@@ -10,11 +10,6 @@ crashes-id = Հաղորդագրության Համարը
 crashes-send-date = Ուղարկված
 crashes-all-reports = Վթարի բոլոր զեկույցները
 crashes-no-config = Ծրագիրը կարգավորված չէ ցուցադրելու վթարի զեկույցները:
-extensions-title = Ընդլայնումներ
-extensions-name = Անուն
-extensions-enabled = Միացված է
-extensions-version = Տարբերակ
-extensions-id = ID
 support-addons-title = Հավելումներ
 support-addons-name = Անուն
 support-addons-type = Տեսակ
@@ -122,8 +117,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Ընթացքի տեսակը
 sandbox-sys-call-number = Համզանգ
 sandbox-sys-call-args = Փաստարկներ
-safe-mode-title = Օգտ. Ապահով կերպը
-restart-in-safe-mode-label = Վերամեկնարկել՝ անջատելով հավելումները...
 
 restart-in-troubleshoot-mode-label = Խափանաշտկման կերպ…
 clear-startup-cache-title = Փորձեք մաքրել ինքնամեկնարկի շտեմը
@@ -273,19 +266,12 @@ webgl2-renderer = WebGL 2 սարքավարի նյութավորիչ
 webgl2-version = WebGL 2 սարքավարի տարբերակ
 webgl2-driver-extensions = WebGL 2 սարքավարի ընդլայնումներ
 webgl2-extensions = WebGL 2 ընդլայնումներ
-blocklisted-bug = Սև ցուցակում՝ հայտնի խնդիրների պատճառով
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = խնդիր { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Սև ցուցակում, վթարի կոդը՝ { $failureCode }
 
 d3d11layers-crash-guard = D3D11 կազմարկիչ
-d3d11video-crash-guard = D3D11 տեսանյութի ապակոդավորիչ
-d3d9video-crash-guard = D3D9 տեսանյութի ապակոդավորիչ
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX  տեսանյութի ապակոդավորիչ
 
@@ -330,14 +316,6 @@ launcher-process-status-unknown = Անհայտ իրավիճակ
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Միացված օգտվողի կողմից
-multi-process-status-1 = Միացված՝ ըստ լռելյայնի
-multi-process-status-2 = Անջատված
-multi-process-status-4 = Անջատված հասանելիության գործիքներով
-multi-process-status-6 = Անջատված է չաջակցվող տեքստի ներածումը
-multi-process-status-7 = Անջատված է հավելումների կողմից
-multi-process-status-8 = Ուժով անջատված
-multi-process-status-unknown = Անյայտ վիճակ
 
 async-pan-zoom = Չհամաժամված շեղում/Դիտափոխում
 apz-none = նշում

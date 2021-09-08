@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Հեռացնել Բոլոր Կայքերը
     .accesskey = ա
 
-translation-button-close =
-    .label = Փակել
-    .accesskey = Փ
-
 translation-dialog =
     .buttonlabelaccept = Փակել
     .buttonaccesskeyaccept = Փ

@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Ընտրել բոլոր ներդիրները
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Հետարկել փակված ներդիրը
-            [one] Հետարկել փակված ներդիրները
-           *[other] Հետարկել փակված ներդիրները
-        }
-    .accesskey = U
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Ամրացնել Գերլցված ցանկում
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Ինքնուրույն թաքցվող գործիքագոտի
-    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Հեռացնել Գործիքավահանակից
     .accesskey = R

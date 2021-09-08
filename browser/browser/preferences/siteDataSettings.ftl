@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Հեռացնել ընտրվածը
     .accesskey = Հ
 
-site-data-button-cancel =
-    .label = Չեղարկել
-    .accesskey = Չ
-
-site-data-button-save =
-    .label = Պահպանել փոփոխությունները
-    .accesskey = ա
-
 site-data-settings-dialog =
     .buttonlabelaccept = Պահպանել փոփոխությունները
     .buttonaccesskeyaccept = ա

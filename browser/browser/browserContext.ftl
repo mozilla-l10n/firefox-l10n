@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Գնալ Նախորդ Էջ
-    .aria-label = Նախորդը
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Գնալ Հաջորդ Էջ
-    .aria-label = Հաջորդը
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -113,9 +91,6 @@ main-context-menu-page-save =
     .label = Պահպանել Էջը որպես…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -176,10 +151,6 @@ main-context-menu-open-link-new-private-window =
     .label = Բացել հղումը Գաղտնի Դիտարկմամբ
     .accesskey = Դ
 
-main-context-menu-bookmark-this-link =
-    .label = էջանշել Այս Հղումը
-    .accesskey = Հ
-
 main-context-menu-bookmark-link =
     .label = Էջանշել հղումը
     .accesskey = B
@@ -204,10 +175,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Պատճենել Էլ. փոստի հասցեն
     .accesskey = Է
-
-main-context-menu-copy-link =
-    .label = Պատճենել Հղման Հասցեն
-    .accesskey = ց
 
 main-context-menu-copy-link-simple =
     .label = Պատճենել հղումը
@@ -236,32 +203,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Ձայնով
     .accesskey = ա
-
-main-context-menu-media-play-speed =
-    .label = Նվագարկելու արագություն
-    .accesskey = ն
-
-main-context-menu-media-play-speed-slow =
-    .label = Դանդաղ (0.5×)
-    .accesskey = Դ
-
-main-context-menu-media-play-speed-normal =
-    .label = Նորմալ
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = Արագ (1.25×)
-    .accesskey = Ա
-
-main-context-menu-media-play-speed-faster =
-    .label = Ավելի արագ (1,5×)
-    .accesskey = ա
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Անհավանական (2x)
-    .accesskey = Ա
 
 main-context-menu-media-play-speed-2 =
     .label = Արագություն
@@ -307,23 +248,9 @@ main-context-menu-media-video-leave-fullscreen =
     .label = Դուրս գալ Լիաէկրան վիճակից
     .accesskey = Լ
 
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Նկար նկարում
-    .accesskey = u
-
 main-context-menu-image-reload =
     .label = Կրկին բեռնել Նկարը
     .accesskey = Կ
-
-main-context-menu-image-view =
-    .label = Նայել Նկարը
-    .accesskey = Ն
-
-main-context-menu-video-view =
-    .label = Դիտել Հոլովակը
-    .accesskey = Դ
 
 main-context-menu-image-view-new-tab =
     .label = Բացել պատկերը նոր ներդիրում
@@ -332,18 +259,6 @@ main-context-menu-image-view-new-tab =
 main-context-menu-image-copy =
     .label = Կրկնօրինակել Նկարը
     .accesskey = ր
-
-main-context-menu-image-copy-location =
-    .label = Պատճենել Նկարի Հասցեն
-    .accesskey = ա
-
-main-context-menu-video-copy-location =
-    .label = Պատճենել Հոլովակի Հասցեն
-    .accesskey = ա
-
-main-context-menu-audio-copy-location =
-    .label = Պատճենել Ձայնագրության Հասցեն
-    .accesskey = ա
 
 main-context-menu-image-copy-link =
     .label = Պատճենել պատկերի հղումը
@@ -356,10 +271,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Նկարը ուղարկել էլ. փոստով...
     .accesskey = ա
-
-main-context-menu-image-set-as-background =
-    .label = Տեղադրել Աշխատասեղանին…
-    .accesskey = Տ
 
 main-context-menu-image-set-image-as-background =
     .label = Պահպանել պատկերը որպես Աշխատասեղանի նկար…
@@ -380,10 +291,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Պահպանել ձայնանյութը որպես...
     .accesskey = պ
-
-main-context-menu-video-image-save-as =
-    .label = Պահպանել էկրանի պատկերը որպես...
-    .accesskey = Պ
 
 main-context-menu-video-take-snapshot =
     .label = Ստանալ էկրանի պատկերը…
@@ -412,14 +319,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Ուղարկել էջը սարքին
     .accesskey = ս
-
-main-context-menu-view-background-image =
-    .label = Նայել Խորապատկերի Նկարը
-    .accesskey = յ
-
-main-context-menu-generate-new-password =
-    .label = Օգտագործել ստեղծված գաղտնաբառը…
-    .accesskey = G
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -492,10 +391,6 @@ main-context-menu-view-page-source =
     .label = Դիտել Էջի Կոդը
     .accesskey = Դ
 
-main-context-menu-view-page-info =
-    .label = Էջի Մասին Տվյալներ
-    .accesskey = Տ
-
 main-context-menu-bidi-switch-text =
     .label = Փոխել Տեքստի Ուղղությունը
     .accesskey = ո
@@ -503,10 +398,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Փոխել Էջի Ուղղությունը
     .accesskey = Ո
-
-main-context-menu-inspect-element =
-    .label = Զննել տարրը
-    .accesskey = Q
 
 main-context-menu-inspect =
     .label = Զննել
@@ -518,3 +409,4 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Իմանալ ավելին DRM-ի մասին...
     .accesskey = D
+

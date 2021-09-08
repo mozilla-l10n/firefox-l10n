@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Նոր">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Նամակ">
-<!ENTITY newMessage.key "Ն">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Հասցեագրքի Կոնտակտ...">
 <!ENTITY newContact.accesskey "Կ">
 <!ENTITY attachMenu.label "Կցել">
 <!ENTITY attachMenu.accesskey "լ">
-<!ENTITY attachFileCmd.label "Ֆայլեր...">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Ֆայլի հղումը">
 <!ENTITY attachCloudCmd.accesskey "Ֆ">
 <!ENTITY attachPageCmd.label "Վեբ էջ...">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Հետո ուղարկել">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "Էջի կարգավորումներ…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Տպելու նախադիտում">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Տպել…">
 <!ENTITY printCmd.key "Տ">
 <!ENTITY printCmd.accesskey "P">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Վերադասավորել կցորդները…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Կցորդի փեղկ">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
 <!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY findBarCmd.label "Գտնել...">
 <!ENTITY findBarCmd.accesskey "Գ">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Վերադասավորել կցորդները">
-<!ENTITY moveAttachmentTopPanelBtn.label "Տեղափոխել վեր">
-<!ENTITY moveAttachmentUpPanelBtn.label "Վեր">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Տեղափոխել միասին">
-<!ENTITY moveAttachmentDownPanelBtn.label "Վար">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Տեղափոխել ներքև">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Փոստարկղի կարգավորումներ">
 <!ENTITY accountManagerCmd2.accesskey "կ">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
-<!ENTITY preferencesCmd2.label "Ընտրանքներ">
-<!ENTITY preferencesCmd2.accesskey "Կ">
-<!ENTITY preferencesCmdUnix.label "Նախապատվություններ">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "Թ">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Ուղարկել">
 <!ENTITY quoteButton.label "Մեջբերում">
 <!ENTITY addressButton.label "Կոնտակտներ">
-<!ENTITY attachButton.label "Կցել">
 <!ENTITY spellingButton.label "Ուղղագրությունը">
 <!ENTITY saveButton.label "Պահպանել">
 <!ENTITY printButton.label "Տպել">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Նամակը հետո ուղարկել">
 <!ENTITY quoteButton.tooltip "Մեջբերել նախորդ նամակը">
 <!ENTITY addressButton.tooltip "Հասցեատերին ընտրել Հասցեագրքից">
-<!ENTITY attachButton.tooltip2 "Ավելացնել կցորդ">
 <!ENTITY spellingButton.tooltip "Ստուգել ընտրվածի ուղղագրությունը">
 <!ENTITY saveButton.tooltip "Պահպանել նամակը">
 <!ENTITY cutButton.tooltip              "Կտրել">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Հասցեագրման դաշտերի այլ տեսակներ">
 <!ENTITY fromAddr2.label "Ումից">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr2.label "Ում">
-<!ENTITY ccAddr2.label "Պճ">
-<!ENTITY bccAddr2.label "Ծպճ">
 <!ENTITY replyAddr2.label "Պատասխանել՝">
 <!ENTITY newsgroupsAddr2.label "Լուրախումբ">
 <!ENTITY followupAddr2.label "Հետևել՝">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Ընտրել բոլորը">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "Կցել ֆայլեր...">
-<!ENTITY attachFile.accesskey "F">
 <!ENTITY attachCloud.label "Ֆայլի հղումը...">
 <!ENTITY attachCloud.accesskey "Ֆ">
 <!ENTITY convertCloud.label "Փոխարկել՝">

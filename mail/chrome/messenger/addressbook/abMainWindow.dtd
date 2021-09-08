@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Փակել">
 <!ENTITY closeCmd.key                                   "Փ">
 <!ENTITY closeCmd.accesskey                             "C">
-<!ENTITY printSetupCmd.label                            "Էջի կարգավորումներ…">
-<!ENTITY printSetupCmd.accesskey                        "u">
-<!ENTITY printPreviewContactCmd.label                   "Տպելու նախադիտում">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "Տպելու նախադիտում">
-<!ENTITY printPreviewAddressBook.accesskey              "B">
 <!ENTITY printContactCmd.label                          "Տպել կոնտակտը...">
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "Տ">
@@ -109,10 +103,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Արտահանել...">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                          "Ընտրանքներ">
-<!ENTITY preferencesCmd2.accesskey                      "Կ">
-<!ENTITY preferencesCmdUnix.label                       "Նախապատվություններ">
-<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Նոր կոնտակտ">

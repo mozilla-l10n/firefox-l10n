@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Տպել…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "Տ">
-<!ENTITY printPreviewCmd.label "Տպելու նախադիտում">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Էջի կարգավորումներ…">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Ջնջել նամակը">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Հավաք տեսք">
 <!ENTITY compactVersion.accesskey "Հ">
-<!ENTITY folderPaneBar.label "Թղթապանակի գործիքագոտի">
-<!ENTITY folderPaneBar.accesskey "Թ">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Տեսակավորել ըստ">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Հասցեագիրք">
 <!ENTITY addressBookCmd.accesskey "B">
 <!ENTITY addressBookCmd.key "Հ">
-<!ENTITY addons.label "Հավելումներ">
-<!ENTITY addons.accesskey "A">
-<!ENTITY addonPrefs.label "Լրացուցիչ ընտրանքներ">
-<!ENTITY addonPrefs.accesskey "O">
-<!ENTITY addonPrefsUnix.label "Հավելումների նախապատվություններ">
-<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Լրացուցիչ կարգավորումներ չեն գտնվել:">
 <!ENTITY activitymanager.label "Ակտիվության կառավարիչ">
 <!ENTITY activitymanager.accesskey "v">
@@ -520,8 +508,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Վրիպազերծել հավելումները">
 <!ENTITY debugAddonsCmd.accesskey "A">
-<!ENTITY tabsDebugCmd.label "Բովանդակության շրջանակի կարգաբերիչ">
-<!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Սխալների ցանկ">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -545,15 +531,11 @@
 <!ENTITY backButton1.label "Նախորդը">
 <!ENTITY goForwardButton1.label "Փոխանցել">
 <!ENTITY deleteItem.title "Ջնջել">
-<!ENTITY deleteButton.label "Ջնջել">
-<!ENTITY undeleteButton.label "Չջնջել">
 <!ENTITY markButton.label "Նշել">
 <!ENTITY printButton.label "Տպել">
 <!ENTITY stopButton.label "Կանգնեցնել">
 <!ENTITY throbberItem.title "Ակտիվության ինդիկատոր">
 <!ENTITY junkItem.title "Փոստաղբ">
-<!ENTITY junkButton.label "Թափոն">
-<!ENTITY notJunkButton.label "Թափոն չէ">
 <!ENTITY addressBookButton.label "Հասցեագիրք">
 <!ENTITY chatButton.label "Զրույց">
 <!ENTITY glodaSearch.title "Գլոբալ որոնում">
@@ -585,19 +567,14 @@
 <!ENTITY previousMsgButton.tooltip "Նախորդ գրությունը">
 <!ENTITY goForwardButton.tooltip "Մեկ նամակ հետ">
 <!ENTITY goBackButton.tooltip "Նախորդ նամակը">
-<!ENTITY deleteButton.tooltip "Ջնջել ընտրված նամակը կամ թղթպ.">
-<!ENTITY undeleteButton.tooltip "Չջնջել ընտրված նամակը">
 <!ENTITY markButton.tooltip "Նշել նամակներ">
 <!ENTITY printButton.tooltip "Տպել այս նամակը">
 <!ENTITY stopButton.tooltip "Կանգնեցնել փոխանցումը">
-<!ENTITY junkButton.tooltip "Նշել ընտրված նամակները որպես թափոն">
-<!ENTITY notJunkButton.tooltip "Նշել ընտրված նամակները որպես պիտանի">
 <!ENTITY addressBookButton.tooltip "Անցնել Հասցեագրքին">
 <!ENTITY chatButton.tooltip "Ցուցադրել Զրույցի էջը">
 <!ENTITY tagButton.tooltip "Կցագրել նամակները">
 <!ENTITY compactButton.tooltip "Հեռացնել ջնջված նամակները ընտրված թղթ-ից">
 <!ENTITY appmenuButton1.tooltip "Ցուցադրել &brandShortName;-ի Ընտրացանկը">
-<!ENTITY addonsButton.tooltip "Կառավարել հավելումները">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Փոխանցել ներտող">

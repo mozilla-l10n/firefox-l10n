@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Թվային ստորագրություն այս նամակի համար">
 <!ENTITY menu_securitySign.accesskey "ն">
 
-<!ENTITY menu_securityAttachMyKey.label "Կցեք իմ հանրային բանալին">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "Գաղտնագրման տեխնոլոգիա">
 <!ENTITY menu_securityTech.accesskey "T">
 

@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Միանգամից հետևել հայտնաբերված առցանց վիճակին
     .accesskey = հ
 
-startup-label = Ձեռքով վիճակ՝ մեկնարկի ժամանակ.
-
 status-radio-remember =
     .label = Հիշել նախորդ առցանց վիճակը
     .accesskey = R

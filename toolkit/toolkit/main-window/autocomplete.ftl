@@ -5,16 +5,6 @@
 
 ## Import Logins Autocomplete
 
-# Variables:
-#   $browser (String) - Browser name to import logins from.
-#   $host (String) - Host name of the current site.
-autocomplete-import-logins =
-    <div data-l10n-name="line1">Ներմուծեք Ձեր մուտքագրումը { $browser }</div>
-    <div data-l10n-name="line2">{ $host }֊ի համար և այլ կայքերի</div>
-
-autocomplete-import-logins-info =
-    .tooltiptext = Իմանալ ավելին
-
 ## Variables:
 ##   $host (String) - Host name of the current site.
 

@@ -16,10 +16,6 @@ webrtc-sharing-window = Դուք համօգտագործում եք մեկ այլ
 webrtc-sharing-browser-window = Դուք համօգտագործում եք { -brand-short-name }-ը:
 webrtc-sharing-screen = Դուք համօգտագործում եք ամբողջ էկրանը:
 webrtc-stop-sharing-button = Չհամօգտագործել
-webrtc-microphone-button =
-    .title = Ձեր խոսափողը համօգտագործվում է: Սեղմեք՝ կառավարելու համար:
-webrtc-camera-button =
-    .title = Ձեր տեսախցիկը համօգտագործվում է: Սեղմեք՝ կառավարելու համար:
 webrtc-minimize =
     .title = Նվազեցնել ցուցիչը
 

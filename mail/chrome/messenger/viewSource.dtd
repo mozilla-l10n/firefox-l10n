@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Պահպանել Էջը որպես…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Էջի կարգավորումներ…">
-<!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Տպման նախադիտում">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Տպել…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">

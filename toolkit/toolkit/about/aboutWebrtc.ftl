@@ -152,8 +152,6 @@ about-webrtc-aec-logging-off-state-msg = մատյանի կորզված ֆայլ�
 
 ##
 
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
@@ -182,4 +180,6 @@ about-webrtc-sdp-set-at-timestamp-remote = Կայել Հեռակա SDP-ը { NUMB
 
 ##
 
+
+##
 

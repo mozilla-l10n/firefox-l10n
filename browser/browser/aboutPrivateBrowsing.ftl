@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Բացել Գաղտնի պատո
 about-private-browsing-search-placeholder = Որոնել առցանց
 about-private-browsing-info-title = Դուք Գաղտնի դիտարկման մեջ եք
 about-private-browsing-info-myths = Տարածված առասպելներ գաղտնի դիտարկման մասին
-about-private-browsing =
-    .title = Որոնել առցանց
 about-private-browsing-not-private = Այժմ դուք Գաղտնի դիտարկման էջում չեք։
 about-private-browsing-info-description = { -brand-short-name }֊ը մաքրում է ձեր որոնման և զննարկման պատմությունը, երբ դուրս եք գալիս ծրագրից կամ փակում եք անձնական դիտման բոլոր ներդիրներն ու պատուհանները: Չնայած դա ձեզ անանուն չի դարձնում կայքէջերի կամ ձեր ինտերնետային ծառայություններ մատուցողի համար, այն ավելի հեշտացնում է այն, ինչ անում եք առցանց, անհատական պահելով այս համակարգչից օգտվող ցանկացած այլ անձի կողմից:
 
