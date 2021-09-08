@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Sempre
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Opcións
-       *[other] Preferencias
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 19em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Atopar nas opcións
-           *[other] Atopar nas preferencias
-        }
-
 settings-page-title = Configuración
 
 # This is used to determine the width of the search field in about:preferences,
@@ -65,10 +43,6 @@ category-search =
 pane-privacy-title = Privacidade e seguranza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 pane-sync-title3 = Sincronizar
 category-sync3 =
@@ -113,14 +87,6 @@ restart-later = Reiniciar máis tarde
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Unha extensión, <img data-l10n-name="icon"/> { $name }, está controlando a súa páxina de inicio.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Unha extensión, <img data-l10n-name="icon"/> { $name }, controla a páxina «Nova lapela».
-
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = Unha extensión, <img data-l10n-name="icon"/> { $name }, está a controlar esta opción.
@@ -128,10 +94,6 @@ extension-controlled-password-saving = Unha extensión, <img data-l10n-name="ico
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Unha extensión, <img data-l10n-name="icon"/> { $name }, controla esta configuración.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Unha extensión, <img data-l10n-name="icon"/> { $name }, estabeleceu o buscador predeterminado.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -157,13 +119,6 @@ extension-controlled-enable = Para activar a extensión vaia aos <img data-l10n-
 search-results-header = Resultados da busca
 
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Sentímolo! Non hai resultados nas Opcións para «<span data-l10n-name="query"></span>».
-       *[other] Sentímolo! Non hai resultados nas Preferencias para «<span data-l10n-name="query"></span>».
-    }
-
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Sentímolo! Non hai resultados na Configuración para «<span data-l10n-name="query"></span>».
 
 search-results-help-link = Precisa axuda? Visite a <a data-l10n-name="url">Asistencia do { -brand-short-name }</a>
@@ -171,14 +126,6 @@ search-results-help-link = Precisa axuda? Visite a <a data-l10n-name="url">Asist
 ## General Section
 
 startup-header = Inicio
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Permitir a { -brand-short-name } e Firefox executarse ao mesmo tempo
-use-firefox-sync = Consello: Isto usa perfiles separados. Use { -sync-brand-short-name } para compartir datos entre eles.
-get-started-not-logged-in = Identifíquese no { -sync-brand-short-name }…
-get-started-configured = Abrir as preferencias do { -sync-brand-short-name }
 
 always-check-default =
     .label = Comprobar sempre se { -brand-short-name } é o seu navegador predeterminado
@@ -218,10 +165,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Avisar cando abrir varias lapelas diminúa a velocidade de { -brand-short-name }
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = Ao abrir unha ligazón nunha nova lapela, cambiar a ela inmediatamente
-    .accesskey = z
 
 switch-to-new-tabs =
     .label = Ao abrir unha ligazón, imaxe ou recurso nunha lapela nova, pasar a ela inmediatamente
@@ -410,11 +353,6 @@ applications-manage-app =
     .label = Detalles do aplicativo…
 applications-always-ask =
     .label = Preguntar sempre
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -504,17 +442,6 @@ update-application-warning-cross-user-setting = Esta configuración aplicarase a
 update-application-use-service =
     .label = Usar un servizo en segundo plano para instalar as actualizacións
     .accesskey = g
-
-update-setting-write-failure-title = Erro ao gardar as preferencias da actualización
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    { -brand-short-name } atopou un erro e non gardou este cambio. Teña en conta que para establecer esta preferencia de actualización é necesario o permiso para escribir no seguinte ficheiro. Vostede ou a administración do sistema poden resolver o erro concedendo o grupo de usuarios o control total sobre este ficheiro.
-    
-    Non foi posíbel escribir no ficheiro: { $path }
 
 update-setting-write-failure-title2 = Produciuse un erro ao gardar a configuración da actualización
 
@@ -769,13 +696,9 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Amosar suxestións de busca nas xanelas privadas
 
-suggestions-addressbar-settings-generic = Cambiar preferencias para outras suxestións na barra de enderezos
-
 suggestions-addressbar-settings-generic2 = Cambiar a configuración para outras suxestións na barra de enderezos
 
 search-suggestions-cant-show = As suxestións de busca non se amosarán nos resultados da barra de localización porque configurou { -brand-short-name } para que non lembre o historial.
-
-search-one-click-header = Buscadores nun clic
 
 search-one-click-header2 = Atallos de busca
 
@@ -810,13 +733,6 @@ search-keyword-warning-bookmark = A palabra clave que escolleu está a ser utili
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Volver a Opcións
-           *[other] Volver a Preferencias
-        }
-
 containers-back-button2 =
     .aria-label = Volver a Configuración
 containers-header = Lapelas contedor
@@ -828,9 +744,6 @@ containers-new-tab-check =
     .label = Seleccionar un contedor para cada lapela nova
     .accesskey = S
 
-containers-preferences-button =
-    .label = Preferencias
-
 containers-settings-button =
     .label = Configuración
 containers-remove-button =
@@ -840,11 +753,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Leve a Web con vostede
-sync-signedout-description = Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e as preferencias en todos os seus dispositivos.
-
-sync-signedout-account-signin2 =
-    .label = Identifíquese no { -sync-brand-short-name }…
-    .accesskey = i
 
 sync-signedout-description2 = Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e a configuración en todos os seus dispositivos.
 
@@ -895,12 +803,6 @@ prefs-syncing-on = Sincronización: Activada
 
 prefs-syncing-off = Sincronización: Desactivada
 
-prefs-sync-setup =
-    .label = Configurar { -sync-brand-short-name } ...
-    .accesskey = C
-
-prefs-sync-offer-setup-label = Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e as preferencias en todos os seus dispositivos.
-
 prefs-sync-turn-on-syncing =
     .label = Activar a sincronización ...
     .accesskey = s
@@ -923,11 +825,6 @@ sync-currently-syncing-logins-passwords = Identificacións e contrasinais
 sync-currently-syncing-addresses = Enderezos
 sync-currently-syncing-creditcards = Tarxetas de crédito
 sync-currently-syncing-addons = Complementos
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Opcións
-       *[other] Preferencias
-    }
 
 sync-currently-syncing-settings = Configuración
 
@@ -977,15 +874,6 @@ sync-engine-addons =
     .label = Complementos
     .tooltiptext = Extensións e temas para o Firefox de escritorio
     .accesskey = p
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Opcións
-           *[other] Preferencias
-        }
-    .tooltiptext = Axustes xerais, de privacidade e seguranza que vostede cambiou
-    .accesskey = s
 
 sync-engine-settings =
     .label = Configuración
@@ -1042,9 +930,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Identificacións gardadas…
     .accesskey = G
-forms-master-pw-use =
-    .label = Usar un contrasinal principal
-    .accesskey = U
 forms-primary-pw-use =
     .label = Utilizar un contrasinal principal
     .accesskey = U
@@ -1056,7 +941,6 @@ forms-master-pw-change =
     .label = Modificar o contrasinal principal…
     .accesskey = M
 
-forms-master-pw-fips-title = Está en modo FIPS, que require un contrasinal principal que non estea baleiro.
 forms-primary-pw-change =
     .label = Cambiar o contrasinal principal...
     .accesskey = P
@@ -1069,15 +953,6 @@ forms-primary-pw-fips-title = Actualmente está en modo FIPS. FIPS require un co
 forms-master-pw-fips-desc = Erro ao modificar o contrasinal
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Para crear un contrasinal principal, introduza as súas credenciais de inicio de sesión en Windows. Isto axuda a protexer a seguridade das súas contas.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = Crear un contrasinal principal
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Para crear un contrasinal principal, insira as súas credenciais de inicio de sesión en Windows. Isto axuda a protexer a seguridade das súas contas.
@@ -1195,10 +1070,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Xestionar datos...
     .accesskey = X
-
-sitedata-cookies-permissions =
-    .label = Xestionar permisos…
-    .accesskey = p
 
 sitedata-cookies-exceptions =
     .label = Xestionar as excepcións…
@@ -1379,12 +1250,6 @@ permissions-addon-exceptions =
     .label = Excepcións…
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = Impedir aos servizos de accesibilidade o acceso ao seu navegador
-    .accesskey = a
-
-permissions-a11y-privacy-link = Máis información
-
 ## Privacy Section - Data Collection
 
 collection-header = Recolección e uso de datos do { -brand-short-name }
@@ -1411,11 +1276,6 @@ addon-recommendations-link = Máis información
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O envío de informes está desactivado nesta configuración de compilación
-
-collection-backlogged-crash-reports =
-    .label = Permitir que { -brand-short-name } envíe informes de erros pendentes no seu nome
-    .accesskey = m
-collection-backlogged-crash-reports-link = Obter máis información
 
 collection-backlogged-crash-reports-with-link = Permitir que o { -brand-short-name } envíe informes de fallo atrasados no seu nome <a data-l10n-name="crash-reports-link">Máis información</a>
     .accesskey = P
@@ -1446,16 +1306,6 @@ security-block-uncommon-software =
 
 certs-header = Certificados
 
-certs-personal-label = Cando un servidor lle solicita un certificado persoal
-
-certs-select-auto-option =
-    .label = Seleccionar un automaticamente
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Preguntarlle cada vez
-    .accesskey = a
-
 certs-enable-ocsp =
     .label = Consultar aos servidores OCSP responder para confirmar a validez dos certificados
     .accesskey = u
@@ -1467,34 +1317,6 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguranza...
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = Máis información
-    .accesskey = M
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Abrir opcións
-           *[other] Abrir preferencias
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] o
-           *[other] b
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } xa non ten suficiente espazo en disco. É posíbel que o contido dos sitios web non se amose correctamente. Pode borrar os datos gardados dende as Opcións > Privacidade e seguranza > Cookies e datos do sitio.
-       *[other] { -brand-short-name } xa non ten suficiente espazo en disco. É posíbel que o contido dos sitios web non se amose correctamente. Pode borrar os datos gardados dende as Preferencias > Privacidade e seguranza > Cookies e datos do sitio.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = Entendín
-    .accesskey = d
-
-space-alert-under-5gb-message = { -brand-short-name } xa non ten suficiente espazo en disco. É posíbel que o contido dos sitios web non se amose correctamente. Visite a ligazón «Máis información» para optimizar o seu uso de disco para mellorar a experiencia de navegación.
 
 space-alert-over-5gb-settings-button =
     .label = Abrir configuración

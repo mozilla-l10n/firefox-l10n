@@ -6,9 +6,6 @@ password-quality-meter = Medidor de calidade de contrasinais
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Mudar o contrasinal principal
-
 change-device-password-window =
     .title = Cambiar o contrasinal
 
@@ -20,10 +17,6 @@ change-password-new = Novo contrasinal:
 change-password-reenter = Novo contrasinal (outra vez):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Restabelecer o contrasinal principal
-    .style = width: 40em
 
 pippki-failed-pw-change = Non foi posíbel cambiar o contrasinal.
 pippki-incorrect-pw = Non introduciu o contrasinal actual correcto. Por favor, inténteo de novo.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Restabelecer
-reset-password-text = Se restabelece o contrasinal principal esqueceranse os contrasinais de web e correo electrónico, os datos dos formularios, os certificados persoais e as chaves privadas que estean almacenados. Confirma que quere restabelecelo?
 
 reset-primary-password-text = Se restablece o seu contrasinal principal, esqueceranse todos os seus contrasinais de correo electrónico e correo electrónico, certificados persoais e chaves privadas. Confirma que desexa restablecer o seu contrasinal principal?
 

@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Como funciona
 
-turn-on-sync = Active { -sync-brand-short-name } ...
-    .title = Ir ás preferencias sincronizadas
-
 monitor-title = Coidado cos roubos de datos
 monitor-link = Como funciona
 monitor-header-content-no-account = Comprobe { -monitor-brand-name } para ver se puido ser vítima dun roubo de datos coñecido e obteña alertas sobre novas violacións.

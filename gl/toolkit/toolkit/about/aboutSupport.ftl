@@ -10,11 +10,6 @@ crashes-id = ID do informe
 crashes-send-date = Data de envío
 crashes-all-reports = Todos os informes de erro
 crashes-no-config = Este aplicativo non está configurado para amosar informes de erro.
-extensions-title = Extensións
-extensions-name = Nome
-extensions-enabled = Activado
-extensions-version = Versión
-extensions-id = ID
 support-addons-title = Complementos
 support-addons-name = Nome
 support-addons-type = Tipo
@@ -129,8 +124,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tipo de proceso
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
-safe-mode-title = Probar modo seguro
-restart-in-safe-mode-label = Reiniciar cos complementos desactivados…
 
 troubleshoot-mode-title = Diagnosticar problemas
 restart-in-troubleshoot-mode-label = Modo de resolución de problemas…
@@ -188,37 +181,6 @@ remote-debugging-accepting-connections = Aceptando conexións
 remote-debugging-url = URL
 
 ##
-
-support-third-party-modules-title = Módulos de terceiros
-support-third-party-modules-module = Ficheiro de módulo
-support-third-party-modules-version = Versión do ficheiro
-support-third-party-modules-vendor = Info do vendedor
-support-third-party-modules-occurrence = Aparicións
-support-third-party-modules-process = Tipo de proceso e identificador
-support-third-party-modules-thread = Fío
-support-third-party-modules-base = Enderezo da imagebase
-support-third-party-modules-uptime = Tempo de actividade do proceso (ms)
-support-third-party-modules-duration = Duración de carga (ms)
-support-third-party-modules-status = Estado
-support-third-party-modules-status-loaded = Cargado
-support-third-party-modules-status-blocked = Bloqueado
-support-third-party-modules-status-redirected = Redirixido
-support-third-party-modules-empty = Non se cargaron módulos de terceiros.
-support-third-party-modules-no-value = (Sen valor)
-support-third-party-modules-button-open =
-    .title = Abrir a localización do ficheiro ...
-support-third-party-modules-expand =
-    .title = Mostrar información detallada
-support-third-party-modules-collapse =
-    .title = Contraer información detallada
-support-third-party-modules-unsigned-icon =
-    .title = Este módulo non está asinado
-support-third-party-modules-folder-icon =
-    .title = Abrir a localización do ficheiro ...
-support-third-party-modules-down-icon =
-    .title = Mostrar información detallada
-support-third-party-modules-up-icon =
-    .title = Contraer información detallada
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -314,11 +276,6 @@ webgl2-renderer = Renderizador do controlador WebGL 2
 webgl2-version = Versión do controlador WebGL 2
 webgl2-driver-extensions = Extensións do controlador WebGL 2
 webgl2-extensions = Extensións WebGL 2
-blocklisted-bug = Pór na lista de bloqueos debido a problemas coñecidos
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber }
 
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
@@ -329,8 +286,6 @@ support-blocklisted-bug = Lista bloqueada por problemas coñecidos: <a data-l10n
 unknown-failure = Pór na lista de bloqueos; código do erro { $failureCode }
 
 d3d11layers-crash-guard = Compositor D3D11
-d3d11video-crash-guard = Descodificador de vídeo D3D11
-d3d9video-crash-guard = Descodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Descodificador de vídeo WMF VPX
 
@@ -376,14 +331,6 @@ launcher-process-status-unknown = Estado descoñecido
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Activado polo usuario
-multi-process-status-1 = Activado de forma predeterminado
-multi-process-status-2 = Desactivado
-multi-process-status-4 = Desactivado polas ferramentas de accesibilidade
-multi-process-status-6 = Desactivado porque a entrada de texto é incompatíbel
-multi-process-status-7 = Desactivado polos complementos
-multi-process-status-8 = Desactivado forzosamente
-multi-process-status-unknown = Estado descoñecido
 
 # Variables
 # $fissionWindows (integer) - Number of remote windows

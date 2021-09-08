@@ -8,8 +8,6 @@
 
 process-type-web = Contido web
 
-process-type-browser = Principal
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Privilexiado sobre

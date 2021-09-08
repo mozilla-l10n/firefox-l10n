@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Abrir unha xanela privada
 about-private-browsing-search-placeholder = Buscar na Rede
 about-private-browsing-info-title = Está nunha xanela privada
 about-private-browsing-info-myths = Mitos comúns sobre a navegación privada
-about-private-browsing =
-    .title = Buscar na Rede
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

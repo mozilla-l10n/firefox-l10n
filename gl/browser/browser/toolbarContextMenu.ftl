@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seleccionar todas as lapelas
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Desfacer peche de lapela
-            [one] Desfacer o peche da lapela
-           *[other] Desfacer o peche da lapelas
-        }
-    .accesskey = U
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fixar ao menú adicional (»)
     .accesskey = F
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Agochar automaticamente na barra de ferramentas
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Agochar botón ao estar baleiro
     .accesskey = h

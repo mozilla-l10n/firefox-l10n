@@ -14,10 +14,10 @@
 <!ENTITY useSmoothScroll.label                  "Utilizar desprazamento suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
 
-<!ENTITY siteSpecific.label                     "Lembrar os niveis de ampliación para cada sitio">
-<!ENTITY siteSpecific.accesskey                 "m">
 <!ENTITY textZoomOnly.label                     "Só ampliar o texto no lugar da páxina completa">
 <!ENTITY textZoomOnly.accesskey                 "x">
+<!ENTITY siteSpecific.label                     "Lembrar os niveis de ampliación para cada sitio">
+<!ENTITY siteSpecific.accesskey                 "m">
 <!ENTITY enableAutomaticImageResizing.label     "Redimensiona as imaxes grandes para axustalas á xanela do navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 

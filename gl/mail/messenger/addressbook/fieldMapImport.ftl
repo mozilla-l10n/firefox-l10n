@@ -4,8 +4,10 @@
 
 import-ab-csv-window =
     .title = Importar axenda de enderezos desde un ficheiro de texto
+
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Vista previa da importación de datos para o rexistro { $recordNumber }
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Importar
     .buttonaccesskeyaccept = I

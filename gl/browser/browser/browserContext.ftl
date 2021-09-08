@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Retroceder unha páxina
-    .aria-label = Atrás
-    .accesskey = A
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Avanzar unha páxina
-    .aria-label = Adiante
-    .accesskey = d
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -116,9 +94,6 @@ main-context-menu-page-save =
     .label = Gardar páxina como…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -179,10 +154,6 @@ main-context-menu-open-link-new-private-window =
     .label = Abrir a ligazón nunha nova xanela privada
     .accesskey = p
 
-main-context-menu-bookmark-this-link =
-    .label = Marcar esta ligazón
-    .accesskey = l
-
 main-context-menu-bookmark-link =
     .label = Marcar ligazón
     .accesskey = M
@@ -207,10 +178,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Copiar correo electrónico
     .accesskey = e
-
-main-context-menu-copy-link =
-    .label = Copiar a localización da ligazón
-    .accesskey = z
 
 main-context-menu-copy-link-simple =
     .label = Copiar ligazón
@@ -239,32 +206,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Desenmudecer
     .accesskey = m
-
-main-context-menu-media-play-speed =
-    .label = Velocidade de reprodución
-    .accesskey = d
-
-main-context-menu-media-play-speed-slow =
-    .label = Lenta (0.5×)
-    .accesskey = L
-
-main-context-menu-media-play-speed-normal =
-    .label = Normal
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = Rápida (1.25×)
-    .accesskey = R
-
-main-context-menu-media-play-speed-faster =
-    .label = Máis rápida (1.5×)
-    .accesskey = a
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Máxima velocidade (2x)
-    .accesskey = l
 
 main-context-menu-media-play-speed-2 =
     .label = Velocidade
@@ -312,12 +253,6 @@ main-context-menu-media-video-leave-fullscreen =
 
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Imaxe en imaxe
-    .accesskey = I
-
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
     .label = Ver en imaxe-a-imaxe
     .accesskey = V
@@ -325,14 +260,6 @@ main-context-menu-media-watch-pip =
 main-context-menu-image-reload =
     .label = Recargar imaxe
     .accesskey = R
-
-main-context-menu-image-view =
-    .label = Ver a imaxe
-    .accesskey = V
-
-main-context-menu-video-view =
-    .label = Ver vídeo
-    .accesskey = d
 
 main-context-menu-image-view-new-tab =
     .label = Abrir imaxe nunha lapela nova
@@ -345,18 +272,6 @@ main-context-menu-video-view-new-tab =
 main-context-menu-image-copy =
     .label = Copiar a imaxe
     .accesskey = C
-
-main-context-menu-image-copy-location =
-    .label = Copiar a localización da imaxe
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Copiar a localización do vídeo
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Copiar a localización do audio
-    .accesskey = o
 
 main-context-menu-image-copy-link =
     .label = Copiar ligazón da imaxe
@@ -378,10 +293,6 @@ main-context-menu-image-email =
     .label = Enviar a imaxe por correo…
     .accesskey = a
 
-main-context-menu-image-set-as-background =
-    .label = Estabelecer como fondo do escritorio…
-    .accesskey = E
-
 main-context-menu-image-set-image-as-background =
     .label = Estabelecer imaxe como fondo do escritorio…
     .accesskey = s
@@ -401,10 +312,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Gardar son como…
     .accesskey = a
-
-main-context-menu-video-image-save-as =
-    .label = Gardar a captura como…
-    .accesskey = G
 
 main-context-menu-video-take-snapshot =
     .label = Tomar instantánea
@@ -433,14 +340,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Enviar a páxina ao dispositivo
     .accesskey = n
-
-main-context-menu-view-background-image =
-    .label = Ver a imaxe de fondo
-    .accesskey = r
-
-main-context-menu-generate-new-password =
-    .label = Usar contrasinal xerado...
-    .accesskey = U
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -528,10 +427,6 @@ main-context-menu-view-page-source =
     .label = Ver o código da páxina
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = Ver a información da páxina
-    .accesskey = f
-
 main-context-menu-bidi-switch-text =
     .label = Cambiar a orientación do texto
     .accesskey = b
@@ -539,10 +434,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Cambiar a orientación da páxina
     .accesskey = x
-
-main-context-menu-inspect-element =
-    .label = Inspeccionar elemento
-    .accesskey = I
 
 main-context-menu-inspect =
     .label = Inspeccionar
@@ -554,3 +445,4 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Obteña máis información sobre DRM…
     .accesskey = D
+

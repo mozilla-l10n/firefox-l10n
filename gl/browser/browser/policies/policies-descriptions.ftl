@@ -65,8 +65,6 @@ policy-DisableForgetButton = Evita o acceso ao botón Esquecer.
 
 policy-DisableFormHistory = Non lembra o historial de formularios e buscas.
 
-policy-DisableMasterPasswordCreation = Se se activa, non é posíbel crear un contrasinal principal.
-
 policy-DisablePrimaryPasswordCreation = Se é certo, non se pode crear un contrasinal principal.
 
 policy-DisablePasswordReveal = Non permitir que os contrasinais se revelen nos inicios de sesión gardados.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Volver ao comportament
 policy-LocalFileLinks = Permitir ligazóns de sitios web determinados con ficheiros locais.
 
 policy-ManagedBookmarks = Configura unha lista de marcadores xestionados por un administrador que non poden ser cambiados polo usuarios.
-
-policy-MasterPassword = Esixir ou evitar o uso dun contrasinal principal.
 
 policy-ManualAppUpdateOnly = Permitir só actualizacións manuais e non notificarlle ao ao usuario sobre as actualizacións.
 

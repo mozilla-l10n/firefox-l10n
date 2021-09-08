@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Xestor de complementos
-
 addons-page-title = Xestor de complementos
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Asistencia dos módulos
 sidebar-help-button-title =
     .title = Asistencia dos módulos
 
-preferences =
-    { PLATFORM() ->
-        [windows] Opcións de { -brand-short-name }
-       *[other] Preferencias de { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opcións de { -brand-short-name }
-           *[other] Preferencias de { -brand-short-name }
-        }
-
 addons-settings-button = Configuración de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Configuración de { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Amosar todas as extensións
-
-cmd-show-details =
-    .label = Amosar máis información
-    .accesskey = s
-
-cmd-find-updates =
-    .label = Buscar actualizacións
-    .accesskey = B
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opcións
-           *[other] Preferencias
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Pór o tema
-    .accesskey = P
-
-cmd-disable-theme =
-    .label = Quitar o tema
-    .accesskey = Q
-
-cmd-install-addon =
-    .label = Instalar
-    .accesskey = I
-
-cmd-contribute =
-    .label = Colabore
-    .accesskey = C
-    .tooltiptext = Colabore co desenvolvemento deste complemento
 
 detail-version =
     .label = Versión
@@ -402,8 +350,6 @@ dictionary-disabled-heading = Desactivado
 
 locale-enabled-heading = Activado
 locale-disabled-heading = Desactivado
-
-ask-to-activate-button = Preguntar para activar
 
 always-activate-button = Activar sempre
 never-activate-button = Non activar nunca

@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Requirirá que os sitios web recarguen imaxes e datos
 
-clear-site-data-cancel =
-    .label = Cancelar
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Borrar
-    .accesskey = B
-
 clear-site-data-dialog =
     .buttonlabelaccept = Borrar
     .buttonaccesskeyaccept = B
