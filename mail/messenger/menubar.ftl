@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## View Menu
-
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -12,7 +10,6 @@
 menu-tools-preferences =
     .label = Beállítások
     .accesskey = B
-
 menu-addons-and-themes =
     .label = Kiegészítők és témák
     .accesskey = K
@@ -22,11 +19,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Hibakeresési mód…
     .accesskey = H
-
 menu-help-exit-troubleshoot-mode =
     .label = Hibakeresési mód kikapcsolása
     .accesskey = k
-
 menu-help-more-troubleshooting-info =
     .label = Több hibakeresési információ
     .accesskey = T
@@ -57,18 +52,18 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Sűrűség
     .accesskey = S
-
 mail-uidensity-compact =
     .label = Kompakt
     .accesskey = K
-
 mail-uidensity-normal =
     .label = Normál
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Érintőképernyős
     .accesskey = r
 
 ## File
 
+file-new-newsgroup-account =
+    .label = Hírcsoportfiók…
+    .accesskey = H
