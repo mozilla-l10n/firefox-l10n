@@ -25,14 +25,6 @@ site-data-remove-selected =
     .label = চয়ন কৰাবোৰ আঁতৰাওক
     .accesskey = R
 
-site-data-button-cancel =
-    .label = বাতিল
-    .accesskey = C
-
-site-data-button-save =
-    .label = সাল-সলনি সাঁচি থওক
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = সাল-সলনি সাঁচি থওক
     .buttonaccesskeyaccept = a

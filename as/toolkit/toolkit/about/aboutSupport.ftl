@@ -10,11 +10,6 @@ crashes-id = সংবাদ ID
 crashes-send-date = জমা দিয়া হল
 crashes-all-reports = সকলো স্খলন সংবাদ
 crashes-no-config = এই এপ্লিকেচনক স্খলন সংবাদসমূহ প্ৰদৰ্শন কৰিবলৈ সংৰূপণ কৰা হোৱা নাই।
-extensions-title = প্ৰসাৰনসমূহ
-extensions-name = নাম
-extensions-enabled = সামৰ্থবান কৰা আছে
-extensions-version = সংস্কৰণ
-extensions-id = ID
 support-addons-name = নাম
 support-addons-version = সংস্কৰণ
 support-addons-id = ID
@@ -78,7 +73,6 @@ sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = প্ৰক্ৰিয়াৰ প্ৰকাৰ
 sandbox-sys-call-args = দৃষ্টিভংগী
-safe-mode-title = নিৰাপদ ম'ড চেষ্টা কৰক
 
 ## Media titles
 

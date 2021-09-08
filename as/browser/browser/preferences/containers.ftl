@@ -7,16 +7,13 @@ containers-window-new =
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } কণ্টেইনাৰৰ পচন্দবোৰ
-    .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
 containers-window-update-settings =
     .title = { $name } কণ্টেইনাৰ ছেটিংছ
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -27,23 +24,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = নাম
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = কণ্টেইনাৰৰ নাম প্ৰবিষ্ট কৰক
+
 containers-icon-label = আইকন
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = ৰং
     .accesskey = O
     .style = { -containers-labels-style }
-containers-button-done =
-    .label = হৈ গ'ল
-    .accesskey = D
+
 containers-dialog =
     .buttonlabelaccept = হৈ গ'ল
     .buttonaccesskeyaccept = D
+
 containers-color-blue =
     .label = নীলা
 containers-color-turquoise =
@@ -62,6 +62,7 @@ containers-color-purple =
     .label = জামুৰং
 containers-color-toolbar =
     .label = টুলবাৰৰ সৈতে মিলাওক
+
 containers-icon-fence =
     .label = জেওৰা
 containers-icon-fingerprint =

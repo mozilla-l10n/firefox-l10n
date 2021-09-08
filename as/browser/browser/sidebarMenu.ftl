@@ -4,7 +4,9 @@
 
 sidebar-menu-bookmarks =
     .label = পত্ৰচিহ্নসমূহ
+
 sidebar-menu-history =
     .label = ইতিহাস
+
 sidebar-close-button =
     .tooltiptext = কাষবাৰ বন্ধ কৰক

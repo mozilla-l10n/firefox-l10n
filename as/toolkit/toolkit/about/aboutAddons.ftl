@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = এড-অনসমূহৰ ব্যৱস্থাপক
-
 addons-page-title = এড-অনসমূহৰ ব্যৱস্থাপক
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = এড-অন সমূহুৰ বিষয়ে অধিক জানক
-
-cmd-show-details =
-    .label = অধিক তথ্য দেখুৱাওক
-    .accesskey = S
-
-cmd-find-updates =
-    .label = আপডেইটসমূহ বিচাৰক
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] বিকল্পসমূহ
-           *[other] পছন্দসমূহ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = থীম পিন্ধাওক
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = থীম পিন্ধোৱা বন্ধ কৰক
-    .accesskey = W
-
-cmd-install-addon =
-    .label = ইনস্টল কৰক
-    .accesskey = I
-
-cmd-contribute =
-    .label = অৱদান দিয়ক
-    .accesskey = C
-    .tooltiptext = এই এড-অনৰ উন্নয়নৰ বাবে অৱদান কৰক
 
 detail-version =
     .label = সংস্কৰণ

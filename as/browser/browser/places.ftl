@@ -5,31 +5,9 @@
 places-open =
     .label = খোলক
     .accesskey = O
-places-open-tab =
-    .label = এটা নতুন টেবত খোলক
-    .accesskey = w
 places-open-all-in-tabs =
     .label = সকলোক টেবত খোলক
     .accesskey = O
-places-open-window =
-    .label = এটা নতুন উইণ্ড'ত খোলক
-    .accesskey = N
-places-open-private-window =
-    .label = নতুন ব্যক্তিগত উইণ্ড' এটাত খোলক
-    .accesskey = P
-
-places-new-bookmark =
-    .label = নতুন পত্ৰচিহ্ন…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = নতুন ফোল্ডাৰ…
-    .accesskey = F
-places-new-folder =
-    .label = নতুন ফোল্ডাৰ…
-    .accesskey = o
-places-new-separator =
-    .label = নতুন বিভাজক
-    .accesskey = S
 
 places-view =
     .label = দৰ্শন কৰক
@@ -61,9 +39,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = নামেৰে সজাঁওক
     .accesskey = r
-places-properties =
-    .label = বৈশিষ্ট্যসমূহ
-    .accesskey = i
 
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =

@@ -14,9 +14,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "পূৰ্ণ স্ক্ৰীণৰ পৰা ওলাওক">
 <!ENTITY castingButton.castingLabel "স্ক্ৰীণত কাষ্ট কৰক">
 <!ENTITY closedCaption.off "বন্ধ">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "ভলিউম শ্লাইডাৰ">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
