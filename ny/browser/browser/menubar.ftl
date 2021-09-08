@@ -54,20 +54,6 @@ menu-bookmarks-menu =
 menu-tools-downloads =
     .label = Zotsitsidwa
     .accesskey = d
-menu-tools-addons =
-    .label = Ophatikizira
-    .accesskey = a
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Zochita kusankha
-           *[other] Makonda
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] o
-           *[other] n
-        }
 
 ## Window Menu
 

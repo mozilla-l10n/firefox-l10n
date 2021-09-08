@@ -5,18 +5,6 @@
 list-empty-find-updates =
     .label = Kuona zobwera kumene
 
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Zochita kusankha
-           *[other] Makonda
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] o
-           *[other] M
-        }
-
 detail-home-value =
     .value = { detail-home.label }
 
