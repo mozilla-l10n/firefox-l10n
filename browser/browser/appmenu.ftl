@@ -11,9 +11,8 @@ appmenuitem-update-banner3 =
     .label-update-manual = Actualisaziun disponibla – ussa telechargiar
     .label-update-unsupported = Impussibel dad actualisar – sistem incumpatibel
     .label-update-restart = Actualisaziun disponibla – ussa reaviar
+
 appmenuitem-protection-dashboard-title = Survista da las protecziuns
-appmenuitem-customize-mode =
-    .label = Persunalisar…
 
 ## Zoom Controls
 
@@ -45,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Serrar il menu d'applicaziun
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,31 +61,31 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Sincronisar ussa
 appmenu-remote-tabs-sign-into-sync =
     .label = S'annunziar per sincronisar…
 appmenu-remote-tabs-turn-on-sync =
     .label = Activar la sincronisaziun…
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Mussar tuts
-    .tooltiptext = Mussar tut ils tabs da quest apparat
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Mussar dapli tabs
     .tooltiptext = Mussar ulteriurs tabs da quest apparat
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nagins tabs averts
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Activescha la sincronisaziun da tabs per vesair ina glista dals tabs da tes auters apparats.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vuls ti vesair qua tes tabs dad auters apparats?
+
 appmenu-remote-tabs-connectdevice =
     .label = Colliar in auter apparat
 appmenu-remote-tabs-welcome = Mussar ina glista dals tabs da tes auters apparats.
 appmenu-remote-tabs-unverified = Tes conto sto vegnir verifitgà.
+
 appmenuitem-fxa-toolbar-sync-now2 = Sincronisar ussa
 appmenuitem-fxa-manage-account = Administrar il conto
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -99,12 +99,14 @@ appmenu-fxa-signed-in-label = S'annunziar
 appmenu-fxa-setup-sync =
     .label = Activar la sincronisaziun…
 appmenu-fxa-show-more-tabs = Mussar dapli tabs
+
 appmenuitem-save-page =
     .label = Memorisar la pagina sut…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novaziuns
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -117,35 +119,49 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Mussar ulteriuras infurmaziuns
+
 profiler-popup-description-title =
     .value = Registrar, analisar, cundivider
+
 profiler-popup-description = Collavurar en cas da problems da prestaziun cun publitgar profils per als cundivider cun tes team.
+
 profiler-popup-learn-more = Ulteriuras infurmaziuns
+
 profiler-popup-settings =
     .value = Parameters
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Modifitgar ils parameters…
+
 profiler-popup-disabled =
     Il profiler è actualmain deactivà, probablamain pervia dad ina fanestra da
     navigaziun privata ch'è averta.
+
 profiler-popup-recording-screen = Registraziun…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Persunalisà
+
 profiler-popup-start-recording-button =
     .label = Cumenzar a registrar
+
 profiler-popup-discard-button =
     .label = Sbittar
+
 profiler-popup-capture-button =
     .label = Registrar
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -213,6 +229,7 @@ appmenu-customizetoolbar =
     .label = Persunalisar la trav d'utensils…
 appmenu-taskmanager =
     .label = Task Manager
+
 appmenu-developer-tools-subheader = Utensils dal navigatur
 appmenu-developer-tools-extensions =
     .label = Extensions for Developers

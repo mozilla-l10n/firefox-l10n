@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Co ch'i funcziuna
 
-turn-on-sync = Activar { -sync-brand-short-name }…
-    .title = Acceder a las preferenzas da sync
-
 monitor-title = Tegna en egl las sperditas da datas
 monitor-link = Co ch'i funcziuna
 monitor-header-content-no-account = Consultescha { -monitor-brand-name } per verifitgar sche ti es pertutgà dad ina sperdita da datas e per retschaiver avertiments en cas da novas sperditas.

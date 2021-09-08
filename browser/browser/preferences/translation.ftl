@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Allontanar tut las paginas
     .accesskey = i
 
-translation-button-close =
-    .label = Serrar
-    .accesskey = r
-
 translation-dialog =
     .buttonlabelaccept = Serrar
     .buttonaccesskeyaccept = r

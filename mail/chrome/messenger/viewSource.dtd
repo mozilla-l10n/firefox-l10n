@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Memorisar la pagina sut…">
 <!ENTITY savePageCmd.accesskey "s">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Organisar la pagina…">
-<!ENTITY pageSetupCmd.accesskey "O">
-<!ENTITY printPreviewCmd.label "Prevista da stampa">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Stampar…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "P">

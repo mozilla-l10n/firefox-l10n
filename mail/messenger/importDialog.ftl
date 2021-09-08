@@ -4,7 +4,9 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
+
 # Description of the import module
 thunderbird-import-description = Importar e-mails dad in ordinatur da profil da Thunderbird.
-import-select-profile-dir-or-zip = Tscherner in ordinatur da profil u in ordinatur da profil cumprimì cun zip
+
 import-select-profile-zip = Tscherner in ordinatur da profil cumprimì cun zip
+

@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Codaziun da text per cuntegn nundefinì
-fonts-languages-fallback-desc = Questa codaziun da text vegn utilisada per cuntegn nundefinì (legacy content) che n'ha betg definì la codaziun.
-
-fonts-languages-fallback-label = Alternativa per la codaziun dal text
-    .accesskey = v
-
-fonts-languages-fallback-name-auto =
-    .label = Standard per la lingua actuala
-fonts-languages-fallback-name-arabic =
-    .label = Arab
-fonts-languages-fallback-name-baltic =
-    .label = Baltic
-fonts-languages-fallback-name-ceiso =
-    .label = Europa Centrala, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Europa Centrala, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Chinais, simplifitgà
-fonts-languages-fallback-name-traditional =
-    .label = Chinais, tradiziunal
-fonts-languages-fallback-name-cyrillic =
-    .label = Cirillic
-fonts-languages-fallback-name-greek =
-    .label = Grec
-fonts-languages-fallback-name-hebrew =
-    .label = Ebraic
-fonts-languages-fallback-name-japanese =
-    .label = Giapunais
-fonts-languages-fallback-name-korean =
-    .label = Corean
-fonts-languages-fallback-name-thai =
-    .label = Tailandais
-fonts-languages-fallback-name-turkish =
-    .label = Tirc
-fonts-languages-fallback-name-vietnamese =
-    .label = Vietnamais
-fonts-languages-fallback-name-other =
-    .label = Auter (incl. Europa Occidentala)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -10,9 +10,6 @@ third-party-intro =
     { -brand-short-name }. Mintga modul che n'è betg signà da Microsoft u
     { -vendor-short-name } vegn considerà sco modul da terzas partidas.
 
-third-party-header-module-list = Glista da moduls
-third-party-header-loading-events = Chargiar ils eveniments
-
 third-party-message-empty = Na chattà nagins moduls da terzas partidas.
 third-party-message-no-duration = Betg registrà
 

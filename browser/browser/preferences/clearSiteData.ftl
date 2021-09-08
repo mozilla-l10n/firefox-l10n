@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Las paginas web vegnan a stuair rechargiar ils maletgs e las datas
 
-clear-site-data-cancel =
-    .label = Interrumper
-    .accesskey = I
-
-clear-site-data-clear =
-    .label = Stizzar
-    .accesskey = z
-
 clear-site-data-dialog =
     .buttonlabelaccept = Stizzar
     .buttonaccesskeyaccept = z

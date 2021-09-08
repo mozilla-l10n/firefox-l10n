@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Avrir ina fanestra privata
 about-private-browsing-search-placeholder = Tschertgar en il web
 about-private-browsing-info-title = Ti ta chattas en ina fanestra privata
 about-private-browsing-info-myths = Mitus frequents areguard il modus privat
-about-private-browsing =
-    .title = Tschertgar en il web
 about-private-browsing-search-btn =
     .title = Tschertgar en il web
 # Variables
@@ -23,12 +21,16 @@ about-private-browsing-handoff-text = Tschertgar cun { $engine } u endatar in'ad
 about-private-browsing-handoff-text-no-engine = Tschertgar u endatar in'adressa
 about-private-browsing-not-private = Ti n'es actualmain betg en ina fanestra privata.
 about-private-browsing-info-description = { -brand-short-name } stizza tia cronologia da tschertga e navigaziun cura che ti termineschas l'applicaziun u serras tut las fanestras e tut ils tabs privats. Cumbain che quai na ta renda betg anonim visavi websites u tes purschider dad internet, èsi in instrument util per impedir che autras persunas che utiliseschan quest computer vegnian ad infurmaziuns davart tias activitads online.
+
 about-private-browsing-need-more-privacy = Vuls proteger meglier tias datas?
 about-private-browsing-turn-on-vpn = Emprova { -mozilla-vpn-brand-name }
+
 about-private-browsing-info-description-simplified = { -brand-short-name } stizza tia cronologia da tschertga e navigaziun cura che ti serras tut las fanestras privatas, ma quai na ta renda betg anonim.
 about-private-browsing-learn-more-link = Ulteriuras infurmaziuns
+
 about-private-browsing-hide-activity = Zuppenta tias activitads e tia posiziun, dapertut nua che ti navigheschas
 about-private-browsing-prominent-cta = Salva tia sfera privata cun { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

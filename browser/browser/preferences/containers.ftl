@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Agiuntar in nov container
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Preferenzas dal container { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Simbol
 containers-color-label = Colur
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Finì
-    .accesskey = F
 
 containers-dialog =
     .buttonlabelaccept = Finì

@@ -65,8 +65,6 @@ policy-DisableForgetButton = Impedir l'access al buttun «Emblidar».
 
 policy-DisableFormHistory = Betg memorisar las endataziuns en champs da tschertgar ed en formulars.
 
-policy-DisableMasterPasswordCreation = Sche activà èsi impussibel da crear in pled-clav universal.
-
 policy-DisablePrimaryPasswordCreation = Sche activà, èsi impussibel da crear in pled-clav universal.
 
 policy-DisablePasswordReveal = Betg permetter da mussar pleds-clav en las infurmaziuns d'annunzia memorisadas.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revegnir al cumportame
 policy-LocalFileLinks = Permetter a websites specificas dad utilisar colliaziuns a datotecas localas.
 
 policy-ManagedBookmarks = Configurescha ina glista da segnapaginas gestida dad in administratur. Ella na po betg vegnir midada da l'utilisader.
-
-policy-MasterPassword = Pretender u impedir l'utilisaziun dad in pled-clav universal.
 
 policy-ManualAppUpdateOnly = Mo permetter actualisaziuns manualas e betg infurmar l'utilisader davart actualisaziuns.
 

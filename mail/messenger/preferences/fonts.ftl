@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Senza serifas
 
-font-size-label =
-    .value = Grondezza
-    .accesskey = e
-
 font-size-proportional-label =
     .value = Grondezza:
     .accesskey = e
