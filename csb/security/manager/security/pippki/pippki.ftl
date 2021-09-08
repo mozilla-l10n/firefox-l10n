@@ -6,9 +6,6 @@ password-quality-meter = Wskôzôwôcz krôftu parolë
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Zmieni przédną parolã
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Zabezpieczającé ùrządzenié: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Nowô parola (jesz rôz):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Resetëje przédną parolã
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Doprowadzë nazôd
-reset-password-text = Jeżlë zrecetëjesz przédną parolã, wszëtczé Internetowé i e-mailowé parolë, pòdôwczi z fòrmów, priwatné cetifikatë i priwatné klucze bãdą rëmniąté. Jes gwës że chcesz zrecetowac przédną parolã?
 
 ## Downloading cert dialog
 

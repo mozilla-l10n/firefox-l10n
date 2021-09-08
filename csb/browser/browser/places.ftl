@@ -5,28 +5,9 @@
 places-open =
     .label = Òtemkni
     .accesskey = t
-places-open-tab =
-    .label = Òtemkni w nowi kôrce
-    .accesskey = k
 places-open-all-in-tabs =
     .label = Òtemkni wszëtkò w kôrtach
     .accesskey = Ò
-places-open-window =
-    .label = Òtemkni w nowim òknie
-    .accesskey = n
-
-places-new-bookmark =
-    .label = Nowô załóżka
-    .accesskey = z
-places-new-folder-contextmenu =
-    .label = Nowi katalog…
-    .accesskey = N
-places-new-folder =
-    .label = Nowi katalog…
-    .accesskey = k
-places-new-separator =
-    .label = Nowi rozdzelnik
-    .accesskey = r
 
 places-view =
     .label = Wëzdrzatk
@@ -53,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Zortëjë wedle miona
     .accesskey = r
-places-properties =
-    .label = Swòjiznë
-    .accesskey = i
 

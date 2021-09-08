@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Menadżer dodôwków
-
 addons-page-title = Menadżer dodôwków
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = Wicy wëdowiédzë ò dodôwkach
-
-cmd-show-details =
-    .label = Wëskrzëni wicy wëdowiédzë
-    .accesskey = w
-
-cmd-find-updates =
-    .label = Nalezë zaktualnienia
-    .accesskey = N
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Òptacje
-           *[other] Preferencje
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Ò
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Ùżëti mòtiw
-    .accesskey = w
-
-cmd-disable-theme =
-    .label = Nie ùżëwôj mòtiwów
-    .accesskey = w
-
-cmd-install-addon =
-    .label = winstalëjë
-    .accesskey = i
-
-cmd-contribute =
-    .label = Dołożë sã
-    .accesskey = D
-    .tooltiptext = Dołożë sã do rozwòju negò dodôwka
 
 detail-version =
     .label = Wersjô

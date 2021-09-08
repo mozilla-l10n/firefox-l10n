@@ -119,11 +119,6 @@ applications-manage-app =
     .label = Detale aplikacje…
 applications-always-ask =
     .label = Wiedno pëtôj
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -270,14 +265,9 @@ forms-exceptions =
     .label = Wëjimczi…
     .accesskey = m
 
-forms-master-pw-use =
-    .label = Ùżëjë przédny parolë
-    .accesskey = p
 forms-master-pw-change =
     .label = Zmieni przédną parolã…
     .accesskey = Z
-
-forms-master-pw-fips-title = Robisz w tribie FIPS. Tribòwi FIPS je nót niepùsti przédny parolë.
 
 forms-master-pw-fips-desc = Zmiana parolë nie darziła sã.
 
@@ -347,8 +337,6 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-health-report-link = Wicy wëdowiedzë
-
-collection-backlogged-crash-reports-link = Wëdowiedzë sã wicy
 
 ## Privacy Section - Security
 ##

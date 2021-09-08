@@ -4,7 +4,9 @@
 
 sidebar-menu-bookmarks =
     .label = Załóżczi
+
 sidebar-menu-history =
     .label = Historiô
+
 sidebar-close-button =
     .tooltiptext = Zamkni bòcznã lëstew

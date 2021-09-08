@@ -76,9 +76,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Edicjô
     .accesskey = E
-menu-edit-find-on =
-    .label = Nalezë na ti stronie…
-    .accesskey = N
 menu-edit-find-again =
     .label = Nalezë znowa
     .accesskey = n
@@ -94,9 +91,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Lëstew nôrzãdłów
     .accesskey = ë
-menu-view-customize-toolbar =
-    .label = Dopasëjë…
-    .accesskey = D
 menu-view-sidebar =
     .label = Bòcznô lëstew
     .accesskey = B
@@ -169,10 +163,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Załóżczi
     .accesskey = Z
-menu-bookmarks-show-all =
-    .label = Wëskrzëni wszëtczé załóżczi
-menu-bookmark-this-page =
-    .label = Dodôj do załóżków
 menu-bookmarks-all-tabs =
     .label = Dodôj wszëtczé kôrtë do załóżków…
 menu-bookmarks-toolbar =
@@ -186,32 +176,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Zladënczi
     .accesskey = k
-menu-tools-addons =
-    .label = Dodôwczi
-    .accesskey = D
 menu-tools-sync-now =
     .label = Synchronizëjë terô
     .accesskey = S
-menu-tools-web-developer =
-    .label = Deweloper
-    .accesskey = r
 menu-tools-page-source =
     .label = Zdrój stronë
     .accesskey = d
 menu-tools-page-info =
     .label = Wëdowiédzô ò stronie
     .accesskey = ë
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Òptacje
-           *[other] Preferencje
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Ò
-           *[other] r
-        }
 
 ## Window Menu
 
@@ -242,15 +215,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Pòmòc
     .accesskey = m
-menu-help-keyboard-shortcuts =
-    .label = Skródzënë klawiaturë
-    .accesskey = k
-menu-help-troubleshooting-info =
-    .label = Wëdowiédzô ò felach
-    .accesskey = W
 menu-help-feedback-page =
     .label = Wëslë òpiniã…
     .accesskey = s
-menu-help-safe-mode-without-addons =
-    .label = Zrëszë znowa z wëłączonyma dodôwkama…
-    .accesskey = ë
