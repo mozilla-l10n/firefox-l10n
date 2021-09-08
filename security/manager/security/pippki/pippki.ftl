@@ -6,24 +6,16 @@ password-quality-meter = Umlinganiselo womgangatho wegama lokugqithisa
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Guqula Igama Lokugqithisa Elingumalathindlela
-
 change-password-old = Igama lokugqithisa langoku:
 change-password-new = Igama lokugqithisa elitsha:
 change-password-reenter = Igama lokugqithisa (kwakhona):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Phinda Umisele Igama Lokugqithisa Elingumalathindlela
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Phinda umisele
-reset-password-text = Ukuba uphinda umisele igama lokugqithisa elingumalathindlela, onke amagama akho okugqithisa othungelwano nawemeyile alondoloziweyo, enza iinkcukacha, izatifikethi zobuqu bomntu, namaqhosha abucala aya kulityalwa. Uqinisekile ufuna ukuphinda umisele igama lakho lokugqithisa elingumalathindlela?
 
 ## Downloading cert dialog
 

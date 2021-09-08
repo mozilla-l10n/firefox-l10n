@@ -121,8 +121,6 @@ about-webrtc-aec-logging-off-state-msg = ifayile zokuloga ezibhaliweyo zinokufun
 
 ##
 
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
@@ -137,4 +135,6 @@ about-webrtc-jitter-label = Jita { $jitter }
 
 ##
 
+
+##
 

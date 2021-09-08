@@ -5,31 +5,9 @@
 places-open =
     .label = Vula
     .accesskey = V
-places-open-tab =
-    .label = Vula kwiThebhu eNtsha
-    .accesskey = t
 places-open-all-in-tabs =
     .label = Vula zonke iithebhu
     .accesskey = V
-places-open-window =
-    .label = Vula kwiWindow entsha
-    .accesskey = k
-places-open-private-window =
-    .label = Vula kwiWindow yaBucala eNtsha
-    .accesskey = k
-
-places-new-bookmark =
-    .label = Isalathisi Esiphawulayo Esitsha…
-    .accesskey = E
-places-new-folder-contextmenu =
-    .label = Isiqulathi Seefayili Esitsha…
-    .accesskey = F
-places-new-folder =
-    .label = Isiqulathi Seefayili Esitsha…
-    .accesskey = i
-places-new-separator =
-    .label = Isihlukanisi esitsha
-    .accesskey = I
 
 places-view =
     .label = Jonga
@@ -56,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Lungisa ngeGama
     .accesskey = r
-places-properties =
-    .label = Iinkcazelo ngeempawu
-    .accesskey = w
 

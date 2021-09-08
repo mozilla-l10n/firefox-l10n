@@ -11,26 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Oogunyaziwe
 
-certmgr-subject-label = Zinikelwa Ku
-
-certmgr-issuer-label = Zinikelwa Ngu
-
-certmgr-period-of-validity = Ithuba Lokusebenza
-
-certmgr-fingerprints = Izishicilelo zeminwe
-
-certmgr-cert-detail-commonname = Igama Eliqhelekileyo (CN)
-
-certmgr-cert-detail-org = Umbutho (O)
-
-certmgr-cert-detail-orgunit = Icandelo Lombutho (OU)
-
-certmgr-cert-detail-serial-number = Inombolo Yolandelelwano
-
-certmgr-cert-detail-sha-256-fingerprint = Ushicilelo lweminwe lwe-SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Ushicileleo lweminwe lwe-SHA1
-
 certmgr-edit-ca-cert =
     .title = Hlela Imimiselo yentembeko yesatifikethi se-CA
     .style = width: 48em;
@@ -50,12 +30,8 @@ certmgr-cert-name =
 certmgr-token-name =
     .label = Isixhobo Sokhuseleko
 
-certmgr-begins-on = Iqala Ngo
-
 certmgr-begins-label =
     .label = Iqala Ngo
-
-certmgr-expires-on = Iphelelwa Ngeli Xesha
 
 certmgr-expires-label =
     .label = Iphelelwa Ngeli Xesha
@@ -89,18 +65,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Okuthathwa ngaphandle…
     .accesskey = t
-
-certmgr-details =
-    .value = IsatifikethiImimandla
-    .accesskey = I
-
-certmgr-fields =
-    .value = IfildiIxabiso
-    .accesskey = I
-
-certmgr-hierarchy =
-    .value = Amabakala Ezatifikethi
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Yongeza ieksepshini…
@@ -139,9 +103,6 @@ delete-user-cert-confirm = Uqinisekile ufuna ukucima ezi zatifikethi?
 delete-user-cert-impact = Ukuba ucima esinye sezatifikethi ezizezakho, akunakukwazi ukuphinga usisebenzisele ukuzichonga.
 
 
-delete-ssl-cert-confirm = Uqinisekile ufuna ukucima ezi zikhethekileyo zeseva?
-
-
 delete-ca-cert-impact = Ukuba ucima okanye akuthembanga igunya (CA), le aplikheyishini ayisayi kuthemba naziphi na izatifikethi ezinikezelwe lelo gunya (CA).
 
 
@@ -151,37 +112,6 @@ delete-email-cert-confirm = Uqinisekile ufuna ukucima izatifikethi zemeyile zaba
 delete-email-cert-impact = Ukuba ucima isatifikethi semeyile, akusayi kuphinda ukwazi ukuthumela imeyile yoguqulelo oluntsonkothileyo kwabo bantu.
 
 ## Cert Viewer
-
-not-present =
-    .value = <Asiyonxalenye Yesatifikethi>
-
-# Cert verification
-cert-verified = Esi satifikethi sinyanisekiselwe ukusetyenziswa kokulandelayo:
-
-# Add usage
-verify-ssl-client =
-    .value = Isatifikethi se-SSL Somxumi
-
-verify-ssl-server =
-    .value = Isatifikethi se-SSL seSeva
-
-verify-ssl-ca =
-    .value = Igunya Lesatifikethi se-SSL
-
-verify-email-signer =
-    .value = Isatifikethi Somsayini Wemeyile
-
-verify-email-recip =
-    .value = Isatifikethi Somamkeli Wemeyile
-
-# Cert verification
-cert-not-verified-cert-revoked = Asikwazanga kuqinisekiswa esi satifikethi kuba asikabuyiswa.
-cert-not-verified-cert-expired = Asikwazanga kuqinisekiswa esi satifikethi kuba sesiphelelwe lixesha.
-cert-not-verified-cert-not-trusted = Asikwazanga kuqinisekiswa esi satifikethi kuba asithenjwa.
-cert-not-verified-issuer-not-trusted = Asikwazanga kuqinisekiswa esi satifikethi kuba umnikeli akathenjwa.
-cert-not-verified-issuer-unknown = Asikwazanga kuqinisekiswa esi satifikethi kuba umnikeli akaziwa.
-cert-not-verified-ca-invalid = Asikwazanga kuqinisekiswa esi satifikethi kuba isatifikethi se-CA asisebenzi.
-cert-not-verified-unknown = Asikwazanga kuqinisekiswa esi satifikethi ngenxa yesizathu ezingaziwayo.
 
 ## Used to show whether an override is temporary or permanent
 

@@ -79,10 +79,6 @@
 <!ENTITY printCmd.label "Shicilela...">
 <!ENTITY printCmd.accesskey "S">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Ukujonga Phambi Koshicilelo">
-<!ENTITY printPreviewCmd.accesskey "m">
-<!ENTITY printSetupCmd.label "Ukumiselwa Kwekhasi...">
-<!ENTITY printSetupCmd.accesskey "l">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Cima Umyalezo">
@@ -444,8 +440,6 @@
 <!ENTITY addressBookCmd.label "Incwadi Yeedilesi">
 <!ENTITY addressBookCmd.accesskey "I">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "Activity Manager">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Chat status">
@@ -503,15 +497,11 @@
 <!ENTITY backButton1.label "Back">
 <!ENTITY goForwardButton1.label "Forward">
 <!ENTITY deleteItem.title "Delete">
-<!ENTITY deleteButton.label "Cima">
-<!ENTITY undeleteButton.label "Undelete">
 <!ENTITY markButton.label "Phawula">
 <!ENTITY printButton.label "Shicilela">
 <!ENTITY stopButton.label "Nqumama">
 <!ENTITY throbberItem.title "Umalathisi Womsebenzi">
 <!ENTITY junkItem.title "Junk">
-<!ENTITY junkButton.label "Ingxubevange">
-<!ENTITY notJunkButton.label "Asiyongxubevange">
 <!ENTITY addressBookButton.label "Incwadi Yeedilesi">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Global Search">
@@ -542,13 +532,9 @@
 <!ENTITY previousMsgButton.tooltip "Move to the previous message">
 <!ENTITY goForwardButton.tooltip "Go forward one message">
 <!ENTITY goBackButton.tooltip "Go back one message">
-<!ENTITY deleteButton.tooltip "Cima umyalezo okhethiweyo okanye isiqulathi seefayili">
-<!ENTITY undeleteButton.tooltip "Undelete selected message">
 <!ENTITY markButton.tooltip "Phawula imiyalezo">
 <!ENTITY printButton.tooltip "Shicilela lo myalezo">
 <!ENTITY stopButton.tooltip "Nqumamisa uthutho lwangoku">
-<!ENTITY junkButton.tooltip "Phawula imiyalezo ekhethiweyo njengengxubevange">
-<!ENTITY notJunkButton.tooltip "Phawula imiyalezo ekhethiweyo njengeyongxubevange">
 <!ENTITY addressBookButton.tooltip "Yiya kwincwadi yeedilesi">
 <!ENTITY chatButton.tooltip "Show the Chat tab">
 <!ENTITY tagButton.tooltip "Tag messages">

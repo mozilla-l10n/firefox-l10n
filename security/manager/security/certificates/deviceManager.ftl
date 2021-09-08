@@ -69,8 +69,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Inombolo Yolandelelwano
 
-fips-nonempty-password-required = Imo yokusebenza ye-FIPS ifuna ukuba umiselwe Igama Lokugqithisa Elingumalathindlela ngesixhobo ngasinye sokhuseleko. Nceda misela igama lokugqithisa phambi kokuzama ukwenza isakhono semo yokusebenza ye-FIPS.
-
 add-module-failure = Ayikwazi kufakela imodyuli
 del-module-warning = Uqinisekile ufuna ukucima le modyuli yokhuseleko?
 del-module-error = Ayikwazi kucimeka imodyuli

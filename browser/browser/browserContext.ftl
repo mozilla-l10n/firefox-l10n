@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,9 +48,6 @@ main-context-menu-page-save =
     .label = Gcina iphepha njenge…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -85,10 +70,6 @@ main-context-menu-open-link-new-private-window =
     .label = Vula iKhonkco kwiWindow yaBucala eNtsha
     .accesskey = k
 
-main-context-menu-bookmark-this-link =
-    .label = Faka Ibhukhmakhi Kweli Khonkco
-    .accesskey = K
-
 main-context-menu-save-link =
     .label = Gcina ikhonkco njenge…
     .accesskey = c
@@ -104,10 +85,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Kopa idilesi yeimeyile
     .accesskey = y
-
-main-context-menu-copy-link =
-    .label = Kopa iNdawo yeKhonkco
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -132,32 +109,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Buyisela isandi
     .accesskey = y
-
-main-context-menu-media-play-speed =
-    .label = Dlala Isantya
-    .accesskey = a
-
-main-context-menu-media-play-speed-slow =
-    .label = Ecothayo (0.5×)
-    .accesskey = E
-
-main-context-menu-media-play-speed-normal =
-    .label = Okuqhelekileyo
-    .accesskey = O
-
-main-context-menu-media-play-speed-fast =
-    .label = Ekhawulezayo (1.25×)
-    .accesskey = E
-
-main-context-menu-media-play-speed-faster =
-    .label = Ebukhawuleza (1.5×)
-    .accesskey = b
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Ehlekisayo (2×)
-    .accesskey = E
 
 main-context-menu-media-loop =
     .label = Isiqhoboshi
@@ -188,29 +139,9 @@ main-context-menu-image-reload =
     .label = Layisha ngokutsha uMfanekiso
     .accesskey = L
 
-main-context-menu-image-view =
-    .label = Jonga umfanekiso
-    .accesskey = u
-
-main-context-menu-video-view =
-    .label = Jonga ividiyo
-    .accesskey = o
-
 main-context-menu-image-copy =
     .label = Kopa umfanekiso
     .accesskey = a
-
-main-context-menu-image-copy-location =
-    .label = Kopa indawo yomfanekiso
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Kopa iNdawo yeVidiyo
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Kopa iNdawo yeSandi
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = Gcina umfanekiso njenge…
@@ -219,10 +150,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Thumela Umfanekiso ngeimeyile…
     .accesskey = k
-
-main-context-menu-image-set-as-background =
-    .label = Seta Njengokungasemva eskrinini…
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = Bona iNkcukacha yoMfanekiso
@@ -239,10 +166,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Gcina okunesandi njenge…
     .accesskey = n
-
-main-context-menu-video-image-save-as =
-    .label = Gcina isnepshothi njenge…
-    .accesskey = G
 
 main-context-menu-video-email =
     .label = Thumela Ividiyo ngeimeyile…
@@ -263,10 +186,6 @@ main-context-menu-plugin-hide =
 main-context-menu-send-to-device =
     .label = Thumela iPhepha kwiSixhobo
     .accesskey = k
-
-main-context-menu-view-background-image =
-    .label = Jonga umfuziselo ongasemva eskrinini
-    .accesskey = g
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -330,10 +249,6 @@ main-context-menu-view-page-source =
     .label = Jonga umthombo wephepha
     .accesskey = J
 
-main-context-menu-view-page-info =
-    .label = Jonga Inkcazelo yephepha
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = Tshintsha icala lombhalo
     .accesskey = s
@@ -342,10 +257,7 @@ main-context-menu-bidi-switch-page =
     .label = Tshintsha iNdawo eliya kulo iPhepha
     .accesskey = i
 
-main-context-menu-inspect-element =
-    .label = Hlola ielementi
-    .accesskey = Q
-
 main-context-menu-eme-learn-more =
     .label = Funda ngakumbi malunga neDRM...
     .accesskey = D
+

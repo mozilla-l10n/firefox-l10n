@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = UMphathi wezongezelelo
-
 addons-page-title = UMphathi wezongezelelo
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Bonisa zonke izandiso
-
-cmd-show-details =
-    .label = Bonisa inkcazelo engaphezulu
-    .accesskey = B
-
-cmd-find-updates =
-    .label = Fumana iZihlaziyi
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Ekunokukhethwa kuko
-           *[other] Izikhethwa
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] E
-           *[other] I
-        }
-
-cmd-enable-theme =
-    .label = Umxholo wokuguga
-    .accesskey = w
-
-cmd-disable-theme =
-    .label = Nqumamisa umxholo wokuguga
-    .accesskey = w
-
-cmd-install-addon =
-    .label = Fakela
-    .accesskey = F
-
-cmd-contribute =
-    .label = Yenza igalelo
-    .accesskey = Y
-    .tooltiptext = Yenza igalelo kuphuhliso lwesi songezelelo
 
 detail-version =
     .label = Uguqulelo
