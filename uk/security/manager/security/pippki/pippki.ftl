@@ -6,9 +6,6 @@ password-quality-meter = Рівень якості пароля
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Зміна головного пароля
-
 change-device-password-window =
     .title = Змінити пароль
 
@@ -20,10 +17,6 @@ change-password-new = Новий пароль:
 change-password-reenter = Новий пароль (ще раз):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Скидання головного пароля
-    .style = width: 40em
 
 pippki-failed-pw-change = Не вдається змінити пароль.
 pippki-incorrect-pw = Ви ввели неправильний поточний головний пароль. Спробуйте ще раз.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Скинути
-reset-password-text = Якщо ви скинете свій головний пароль, всі збережені паролі для інтернету і електронної пошти, дані форм, особисті сертифікати і закриті ключі будуть втрачені. Ви дійсно хочете скинути свій головний пароль?
 
 reset-primary-password-text = Якщо ви скинете свій головний пароль, всі збережені паролі для мережі та електронної пошти, особисті сертифікати та приватні ключі буде втрачено. Ви справді хочете скинути свій головний пароль?
 

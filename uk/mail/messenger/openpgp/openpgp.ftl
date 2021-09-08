@@ -129,10 +129,6 @@ openpgp-key-send-key =
     .label = Надіслати відкритий ключ електронною поштою
     .accesskey = п
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Скопіювати відкриті ключі до буфера обміну
-    .accesskey = м
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -162,8 +158,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Експорт ключів до файлу
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Скопіювати відкриті ключі до буфера обміну
 
 openpgp-key-man-ctx-copy =
     .label = Копіювати
@@ -319,16 +313,6 @@ openpgp-description =
        *[many] Thunderbird знайшов { $count } особистих ключів OpenPGP, пов’язаних з <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Виберіть чинний ключ для увімкнення протоколу OpenPGP.
-        [one] Ваші поточні налаштування використовують ID ключа <b>{ $key }</b>
-        [few] Ваші поточні налаштування використовують ID ключів <b>{ $key }</b>
-       *[many] Ваші поточні налаштування використовують ID ключів <b>{ $key }</b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Ваші поточні налаштування використовують ID ключів <b>{ $key }</b>
 
@@ -361,14 +345,8 @@ openpgp-radio-key-not-found = Не вдалося знайти цей ключ! 
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Чинний до: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Термін дії ключа закінчується менш ніж за 6 місяців
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Не чинний від: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Ключ не чинний
 
 openpgp-key-expires-within-6-months-icon =
     .title = Термін дії ключа завершується менш ніж за 6 місяців
@@ -692,7 +670,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Ви налаштували загортання рядків понад { $width } символів. Для правильного шифрування та/або підписання це значення повинно бути не менше 68.
     Бажаєте змінити згортання рядків на 68 символів зараз?
-sending-hidden-rcpt = Не можна додавати одержувачів BCC (сліпих копій) для надсилання захищеного повідомлення. Щоб надіслати це захищене повідомлення, видаліть одержувачів BCC або перемістіть їх до поля CC.
 sending-news =
     Захищене надсилання скасовано.
     Це повідомлення не можна зашифрувати, оскільки є одержувачі у групі новин. Будь ласка, повторно надішліть незахищене повідомлення.
@@ -759,9 +736,6 @@ enig-info = Відомості OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Повторити
 dlg-button-skip = &Пропустити
-
-# Strings used in enigmailCommon.js
-enig-error = Помилка OpenPGP
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

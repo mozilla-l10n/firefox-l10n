@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Кодування для застарілих вебсторінок
-fonts-languages-fallback-desc = Це кодування використовується для застарілих вебсторінок, в яких не вказано кодування.
-
-fonts-languages-fallback-label = Резервне кодування тексту
-    .accesskey = Р
-
-fonts-languages-fallback-name-auto =
-    .label = Типове для поточної локалі
-fonts-languages-fallback-name-arabic =
-    .label = Арабське
-fonts-languages-fallback-name-baltic =
-    .label = Балтійське
-fonts-languages-fallback-name-ceiso =
-    .label = Центральноєвропейське, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Центральноєвропейське, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Китайське, спрощене
-fonts-languages-fallback-name-traditional =
-    .label = Китайське, традиційне
-fonts-languages-fallback-name-cyrillic =
-    .label = Кириличне
-fonts-languages-fallback-name-greek =
-    .label = Грецьке
-fonts-languages-fallback-name-hebrew =
-    .label = Єврейське
-fonts-languages-fallback-name-japanese =
-    .label = Японське
-fonts-languages-fallback-name-korean =
-    .label = Корейське
-fonts-languages-fallback-name-thai =
-    .label = Тайське
-fonts-languages-fallback-name-turkish =
-    .label = Турецьке
-fonts-languages-fallback-name-vietnamese =
-    .label = В’єтнамське
-fonts-languages-fallback-name-other =
-    .label = Інше (вкл. Західноєвропейське)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

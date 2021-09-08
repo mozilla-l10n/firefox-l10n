@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "Д">
 <!ENTITY aboutProduct2.label "Про &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "П">
-<!ENTITY helpTroubleshootingInfo.label     "Вирішення проблем">
-<!ENTITY helpTroubleshootingInfo.accesskey "В">
-<!ENTITY helpSafeMode.label     "Перезапуск з вимкненими додатками…">
-<!ENTITY helpSafeMode.accesskey "П">
-<!ENTITY helpSafeMode.stop.label     "Перезапустити з увімкненими додатками">
-<!ENTITY helpSafeMode.stop.accesskey "К">
 <!ENTITY productHelp.label "Довідка &brandShortName;">
 <!ENTITY productHelp.accesskey "в">
 <!ENTITY productHelp.commandkey "VK_F1">

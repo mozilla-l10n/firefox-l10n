@@ -17,9 +17,6 @@
 <!ENTITY accountTypeMail.accesskey "п">
 <!ENTITY accountTypeNews.label "Новини (Newsgroup)">
 <!ENTITY accountTypeNews.accesskey "н">
-<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
-<!ENTITY accountTypeMovemail.label "Локальна пошта Unix (Movemail)">
-<!ENTITY accountTypeMovemail.accesskey "к">
 
 <!-- Entities for Identity page -->
 

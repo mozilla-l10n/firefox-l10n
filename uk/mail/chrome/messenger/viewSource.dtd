@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Зберегти сторінку як…">
 <!ENTITY savePageCmd.accesskey "З">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Параметри сторінки…">
-<!ENTITY pageSetupCmd.accesskey "П">
-<!ENTITY printPreviewCmd.label "Попередній перегляд">
-<!ENTITY printPreviewCmd.accesskey "о">
 <!ENTITY printCmd.label "Друк…">
 <!ENTITY printCmd.accesskey "к">
 <!ENTITY printCmd.commandkey "P">

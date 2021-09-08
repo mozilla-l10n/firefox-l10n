@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = Налаштування OTR
 otr-log =
     .label = Включати захищені повідомлення OTR до журналів розмов
-otr-requireEncryption =
-    .label = Вимагає наскрізного шифрування для розмов віч-на-віч
-otr-verifyNudge =
-    .label = Завжди нагадувати мені підтверджувати ще неперевірений контакт
-
-otr-notYetAvailable = поки що недоступно
 
 otr-require-encryption =
     .label = Вимагає наскрізного шифрування для бесід віч-на-віч

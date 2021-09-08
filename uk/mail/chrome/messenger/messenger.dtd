@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Друк…">
 <!ENTITY printCmd.accesskey "у">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Попередній перегляд">
-<!ENTITY printPreviewCmd.accesskey "г">
-<!ENTITY printSetupCmd.label "Параметри сторінки…">
-<!ENTITY printSetupCmd.accesskey "П">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Видалити повідомлення">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "д">
 <!ENTITY compactVersion.label "Компактний вигляд">
 <!ENTITY compactVersion.accesskey "м">
-<!ENTITY folderPaneBar.label "Панель інструментів теки">
-<!ENTITY folderPaneBar.accesskey "П">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Сортування">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Адресна книга">
 <!ENTITY addressBookCmd.accesskey "А">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Додатки">
-<!ENTITY addons.accesskey "Д">
-<!ENTITY addonPrefs.label "Налаштування додатків">
-<!ENTITY addonPrefs.accesskey "ш">
-<!ENTITY addonPrefsUnix.label "Налаштування додатків">
-<!ENTITY addonPrefsUnix.accesskey "ш">
 <!ENTITY addonNoPrefs.label "Не знайдено налаштувань додатків.">
 <!ENTITY activitymanager.label "Менеджер діяльності">
 <!ENTITY activitymanager.accesskey "д">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Зневадження додатків">
 <!ENTITY debugAddonsCmd.accesskey "З">
-<!ENTITY tabsDebugCmd.label "Зневаджувач фрейму вмісту">
-<!ENTITY tabsDebugCmd.accesskey "ж">
 <!ENTITY errorConsoleCmd.label "Консоль помилок">
 <!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Вперед">
 <!ENTITY deleteItem.title "Видалити">
-<!ENTITY deleteButton.label "Видалити">
-<!ENTITY undeleteButton.label "Відновити">
 <!ENTITY markButton.label "Позначити">
 <!ENTITY printButton.label "Друк">
 <!ENTITY stopButton.label "Стоп">
 <!ENTITY throbberItem.title "Індикатор активності">
 <!ENTITY junkItem.title "Спам">
-<!ENTITY junkButton.label "Спам">
-<!ENTITY notJunkButton.label "Не спам">
 <!ENTITY addressBookButton.label "Адресна книга">
 <!ENTITY chatButton.label "Чат">
 <!ENTITY glodaSearch.title "Глобальний пошук">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Перейти до попереднього повідомлення">
 <!ENTITY goForwardButton.tooltip "Вперед на одне повідомлення">
 <!ENTITY goBackButton.tooltip "Назад на одне повідомлення">
-<!ENTITY deleteButton.tooltip "Видалити вибране повідомлення або теку">
-<!ENTITY undeleteButton.tooltip "Відновити виділене повідомлення">
 <!ENTITY markButton.tooltip "Позначити повідомлення">
 <!ENTITY printButton.tooltip "Надрукувати це повідомлення">
 <!ENTITY stopButton.tooltip "Зупинити поточну передачу даних">
-<!ENTITY junkButton.tooltip "Позначити обрані повідомлення як спам">
-<!ENTITY notJunkButton.tooltip "Позначити вибрані повідомлення як не спам">
 <!ENTITY addressBookButton.tooltip "Відкрити адресну книгу">
 <!ENTITY chatButton.tooltip "Показати вкладку чату">
 <!ENTITY tagButton.tooltip "Помітити повідомлення">
 <!ENTITY compactButton.tooltip "Вилучити видалені повідомлення з вибраної теки">
 <!ENTITY appmenuButton1.tooltip "Відкрити меню &brandShortName;">
-<!ENTITY addonsButton.tooltip "Керуйте своїми додатками">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Переслати всередині повідомлення">

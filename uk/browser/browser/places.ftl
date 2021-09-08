@@ -5,9 +5,6 @@
 places-open =
     .label = Відкрити
     .accesskey = В
-places-open-tab =
-    .label = Відкрити в новій вкладці
-    .accesskey = ц
 places-open-in-tab =
     .label = Відкрити в новій вкладці
     .accesskey = н
@@ -17,30 +14,13 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Відкрити все у вкладках
     .accesskey = і
-places-open-window =
-    .label = Відкрити в новому вікні
-    .accesskey = н
-places-open-private-window =
-    .label = Відкрити в новому приватному вікні
-    .accesskey = п
-places-new-bookmark =
-    .label = Нова закладка…
-    .accesskey = з
-places-new-folder-contextmenu =
-    .label = Створити теку…
-    .accesskey = т
-places-new-folder =
-    .label = Створити теку…
-    .accesskey = т
-places-new-separator =
-    .label = Створити розділювач
-    .accesskey = ю
 places-open-in-window =
     .label = Відкрити в новому вікні
     .accesskey = о
 places-open-in-private-window =
     .label = Відкрити в приватному вікні
     .accesskey = п
+
 places-add-bookmark =
     .label = Додати закладку…
     .accesskey = з
@@ -53,6 +33,7 @@ places-add-folder =
 places-add-separator =
     .label = Додати роздільник
     .accesskey = ь
+
 places-view =
     .label = Перегляд
     .accesskey = е
@@ -71,19 +52,18 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = За датою і сайтом
     .accesskey = й
+
 places-history-search =
     .placeholder = Шукати в історії
 places-bookmarks-search =
     .placeholder = Шукати закладки
+
 places-delete-domain-data =
     .label = Забути про цей сайт
     .accesskey = З
 places-sortby-name =
     .label = Впорядкувати за назвою
     .accesskey = н
-places-properties =
-    .label = Властивості
-    .accesskey = і
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Редагувати закладку…
@@ -103,6 +83,7 @@ places-remove-folder =
            *[many] Вилучити теки
         }
     .accesskey = и
+
 places-edit-folder2 =
     .label = Редагувати теку…
     .accesskey = г
@@ -114,15 +95,18 @@ places-delete-folder =
            *[many] Видалити теки
         }
     .accesskey = л
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Керовані закладки
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Підтека
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Інші закладки
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -133,6 +117,7 @@ places-remove-bookmark =
            *[many] Вилучити { $count } закладок
         }
     .accesskey = ч
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -143,11 +128,15 @@ places-delete-bookmark =
            *[many] Видалити закладки
         }
     .accesskey = з
+
 places-manage-bookmarks =
     .label = Керувати закладками
     .accesskey = К
+
 places-forget-about-this-site-confirmation-title = Забути цей сайт
+
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Ця дія вилучить усі дані, пов'язані з { $hostOrBaseDomain }, включно з історією, паролями, куками, кешем та налаштуваннями вмісту. Ви дійсно хочете продовжити?
+
 places-forget-about-this-site-forget = Забути

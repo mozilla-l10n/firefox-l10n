@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Закрити">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "З">
-<!ENTITY printSetupCmd.label                            "Параметри сторінки…">
-<!ENTITY printSetupCmd.accesskey                        "м">
-<!ENTITY printPreviewContactCmd.label                   "Попередній перегляд картки">
-<!ENTITY printPreviewContactCmd.accesskey               "П">
-<!ENTITY printPreviewAddressBook.label                  "Попередній перегляд адресної книги">
-<!ENTITY printPreviewAddressBook.accesskey              "а">
 <!ENTITY printContactCmd.label                          "Роздрукувати картку…">
 <!ENTITY printContactCmd.accesskey                      "Д">
 <!ENTITY printContactCmd.key                            "P">
@@ -111,10 +105,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "І">
 <!ENTITY exportCmd.label                                "Експорт…">
 <!ENTITY exportCmd.accesskey                            "Е">
-<!ENTITY preferencesCmd2.label                          "Налаштування…">
-<!ENTITY preferencesCmd2.accesskey                      "Н">
-<!ENTITY preferencesCmdUnix.label                       "Налаштування">
-<!ENTITY preferencesCmdUnix.accesskey                   "Н">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Створити картку">

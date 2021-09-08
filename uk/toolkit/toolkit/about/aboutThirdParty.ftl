@@ -10,9 +10,6 @@ third-party-intro =
     { -brand-short-name }. Будь-який модуль, який не підписаний
     Microsoft чи { -vendor-short-name }, вважається стороннім.
 
-third-party-header-module-list = Список модулів
-third-party-header-loading-events = Завантаження подій
-
 third-party-message-empty = Сторонніх модулів не виявлено.
 third-party-message-no-duration = Не записано
 
