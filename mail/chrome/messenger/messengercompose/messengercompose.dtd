@@ -11,13 +11,9 @@
 <!ENTITY newMenu.label "Шинэ">
 <!ENTITY newMenu.accesskey "н">
 <!ENTITY newMessage.label "Захиа">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "и">
 <!ENTITY attachMenu.label "Хавсарга">
 <!ENTITY attachMenu.accesskey "р">
-<!ENTITY attachFileCmd.label "Файл(ууд)…">
-<!ENTITY attachFileCmd.accesskey "й">
 <!ENTITY attachPageCmd.label "Вэб хуудас…">
 <!ENTITY attachPageCmd.accesskey "с">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -43,8 +39,6 @@
 <!ENTITY sendLaterCmd.label "Сүүлд илгээ">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "л">
-<!ENTITY printSetupCmd.label "Хуудасны тохиргоо…">
-<!ENTITY printSetupCmd.accesskey "с">
 <!ENTITY printCmd.label "Хэвлэ…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "э"> 
@@ -142,9 +136,7 @@
 <!ENTITY messengerCmd.accesskey "З">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Хаягийн тэмдэглэл">
-<!ENTITY addressBookCmd.accesskey "т">
-<!ENTITY preferencesCmdUnix.label       "Тохируулга">
-<!ENTITY preferencesCmdUnix.accesskey   "л"> 
+<!ENTITY addressBookCmd.accesskey "т"> 
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -157,7 +149,6 @@
 <!ENTITY sendButton.label "Илгээ">
 <!ENTITY quoteButton.label "Хашилтанд хий">
 <!ENTITY addressButton.label "Холбоо барих">
-<!ENTITY attachButton.label "Хавсарга">
 <!ENTITY spellingButton.label "Үгийн алдаа шалга">
 <!ENTITY saveButton.label "Хадгал">
 
@@ -221,8 +212,6 @@
 <!ENTITY renameAttachment.accesskey "р">
 <!ENTITY selectAll.label "Бүгдийг сонго">
 <!ENTITY selectAll.accesskey "д">
-<!ENTITY attachFile.label "Файл(ууд) хавсарга…">
-<!ENTITY attachFile.accesskey "Ф">
 <!ENTITY attachPage.label "Вэб хуудас хавсарга…">
 <!ENTITY attachPage.accesskey "в">
 

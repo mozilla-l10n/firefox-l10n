@@ -98,8 +98,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Цуврал дугаар
 
-fips-nonempty-password-required = FIPS горим нь нууцлалын төхөөрөмж бүрт мастер нууц үг суулгахыг шаарддаг. Та FIPS горимыг зөвшөөрөхөөсөө өмнө нууц үгийг суулгана уу.
-
 add-module-failure = Модуль нэмэх боломжгүй
 del-module-warning = Та энэ нууцлалын модулийг устгахдаа итгэлтэй байна уу?
 del-module-error = Модулийг устгаж чадахгүй байна

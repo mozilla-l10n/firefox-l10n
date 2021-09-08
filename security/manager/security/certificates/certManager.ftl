@@ -17,34 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Эрх
 
-certmgr-detail-general-tab-title =
-    .label = Ердийн
-    .accesskey = р
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Нарийвчилсан мэдээлэл
-    .accesskey = й
-
-certmgr-pending-label =
-    .value = Шалгаж байгаа гэрчилгээнүүд…
-
-certmgr-subject-label = Зориулагдсан
-
-certmgr-issuer-label = Зохиогч
-
-certmgr-fingerprints = Fingerprints
-
-certmgr-cert-detail =
-    .title = Гэрчилгээний нарийн мэдээлэл
-    .buttonlabelaccept = Хаа
-    .buttonaccesskeyaccept = Х
-
-certmgr-cert-detail-commonname = Энгийн нэр (ЭН)
-
-certmgr-cert-detail-serial-number = Цуврал дугаар
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 Fingerprint
-
 certmgr-edit-ca-cert =
     .title = ГЭ гэрчилгээнд итгэх тохиргоог засварлах
     .style = width: 48em;
@@ -69,8 +41,6 @@ certmgr-override-lifetime =
 
 certmgr-token-name =
     .label = Нууцлалын төхөөрөмж
-
-certmgr-expires-on = Дуусах хугацаа
 
 certmgr-expires-label =
     .label = Дуусах хугацаа
@@ -101,14 +71,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Импорт…
     .accesskey = м
-
-certmgr-details =
-    .value = Гэрчилгээний талбар
-    .accesskey = т
-
-certmgr-fields =
-    .value = Утгын талбар
-    .accesskey = г
 
 certmgr-add-exception =
     .label = Тодорхой зааж өгөх…
@@ -167,47 +129,10 @@ delete-user-cert-confirm = Та эдгээр гэрчилгээг устгахд
 delete-user-cert-impact = Та хэрэв өөрийнхөө нэг гэрчилгээг устгавал цаашид өөрийгөө танихдаа хэрэглэж чадахгүй болно.
 
 
-delete-ssl-cert-title =
-    .title = Серверийн зааж өгсөн гэрчилгээг устга
-delete-ssl-cert-confirm = Та эдгээр зааж өгсөн серверүүдийг устгах гэж буйдаа итгэлтэй байна уу?
-delete-ssl-cert-impact = Хэрэв та тохируулсан серверийн тохиргоог устгавал ердийн нууцлалын тохиргоог сэргээх бөгөөд серверийг шалгахдаа зөв гэрчилгээтэй эсэхийг үргэлж шалгах болно.
-
-
 delete-email-cert-confirm = Та энэ хүмүүсийн захианы гэрчилгээг устгахдаа итгэлтэй байна уу?
 delete-email-cert-impact = Та хэрэв захианы гэрчилгээг устгавал та тэр хүмүүст цаашид нууцалсан захиа илгээж чадахгүй болно.
 
 ## Cert Viewer
-
-not-present =
-    .value = <Гэрчилгээний хэсэг биш>
-
-# Cert verification
-cert-verified = Дараах хэрэглээний зорилгоор энэ гэрчилгээг шалгасан:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL Хэрэглэгчийн гэрчилгээ
-
-verify-ssl-server =
-    .value = SSL серверийн гэрчилгээ
-
-verify-ssl-ca =
-    .value = SSL Гэрчилгээний эрх
-
-verify-email-signer =
-    .value = Захианы гарын үсэг зурагчийн гэрчилгээ
-
-verify-email-recip =
-    .value = Захиа хүлээн авагчийн гэрчилгээ
-
-# Cert verification
-cert-not-verified-cert-revoked = Дахин дуудагдсан гэрчилгээ учраас энэ гэрчилгээг шалгаж чадахгүй байна.
-cert-not-verified-cert-expired = Хүчинтэй огноо нь дууссан учраас энэ гэрчилгээг шалгаж чадахгүй байна.
-cert-not-verified-cert-not-trusted = Итгэгдээгүй шалтгаанаар энэ гэрчилгээг шалгаж чадахгүй байна.
-cert-not-verified-issuer-not-trusted = Зохиогч нь итгэгдээгүй учраас энэ гэрчилгээг шалгаж чадахгүй байна.
-cert-not-verified-issuer-unknown = Зохиогч нь үл мэдэгдэх шалтгаанаар энэ гэрчилгээг шалгаж чадахгүй байна.
-cert-not-verified-ca-invalid = ГЭ гэрчилгээ зөв биш учраас энэ гэрчилгээг шалгаж чадахгүй байна.
-cert-not-verified-unknown = Үл мэдэгдэх шалтгаанаар энэ гэрчилгээг шалгаж чадахгүй байна.
 
 ## Used to show whether an override is temporary or permanent
 

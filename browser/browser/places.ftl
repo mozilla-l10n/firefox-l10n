@@ -5,25 +5,9 @@
 places-open =
     .label = Нээ
     .accesskey = Н
-places-open-tab =
-    .label = Шинэ самбарт нээ
-    .accesskey = с
 places-open-all-in-tabs =
     .label = Бүгдийг нь самбарт нээ
     .accesskey = н
-places-open-window =
-    .label = Шинэ цонхонд нээ
-    .accesskey = Ш
-
-places-new-bookmark =
-    .label = Шинэ хаяг…
-    .accesskey = Ш
-places-new-folder =
-    .label = Шинэ сан…
-    .accesskey = с
-places-new-separator =
-    .label = Шинэ тусгаарлагч
-    .accesskey = т
 
 places-view =
     .label = Харах
@@ -50,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Нэрээр эрэмбэл
     .accesskey = э
-places-properties =
-    .label = Шинж чанар
-    .accesskey = и
 

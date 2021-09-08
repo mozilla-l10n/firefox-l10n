@@ -20,10 +20,6 @@ permissions-allow =
 permissions-status =
     .label = Төлөв байдал
 
-permissions-button-cancel =
-    .label = Цуцал
-    .accesskey = Ц
-
 permissions-capabilities-allow =
     .label = Зөвшөөр
 permissions-capabilities-block =

@@ -21,10 +21,6 @@
 <!ENTITY closeCmd.label                                 "Хаа">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "Х">
-<!ENTITY printSetupCmd.label                            "Хуудасны тохиргоо…">
-<!ENTITY printSetupCmd.accesskey                        "с">
-<!ENTITY printPreviewAddressBook.label                  "Хаягийн тэмдэглэлийн хэвлэх харагдац">
-<!ENTITY printPreviewAddressBook.accesskey              "я">
 <!ENTITY printAddressBook.label                         "Хаягийн тэмдэглэлийг хэвлэ…">
 <!ENTITY printAddressBook.accesskey                     "г">
 
@@ -69,9 +65,7 @@
 <!ENTITY importCmd.label                                "Импортол…">
 <!ENTITY importCmd.accesskey                            "И">
 <!ENTITY exportCmd.label                                "Экспортол…">
-<!ENTITY exportCmd.accesskey                            "Э">
-<!ENTITY preferencesCmdUnix.label                       "Тохируулга">
-<!ENTITY preferencesCmdUnix.accesskey                   "и"> 
+<!ENTITY exportCmd.accesskey                            "Э"> 
 
 <!ENTITY newlistButton.label                            "Шинэ жагсаалт">
 <!ENTITY newlistButton.accesskey                        "ж">

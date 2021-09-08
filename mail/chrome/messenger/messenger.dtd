@@ -46,10 +46,6 @@
 <!ENTITY printCmd.label "Хэвлэ…">
 <!ENTITY printCmd.accesskey "л">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Хэвлэх харагдац">
-<!ENTITY printPreviewCmd.accesskey "р">
-<!ENTITY printSetupCmd.label "Хуудасны тохиргоо">
-<!ENTITY printSetupCmd.accesskey "и">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Захиаг устга">
@@ -338,8 +334,6 @@
 <!ENTITY messengerCmd.accesskey "х">
 <!ENTITY addressBookCmd.label "Хаягийн тэмдэглэл">  
 <!ENTITY addressBookCmd.accesskey "м">
-<!ENTITY addons.label "Нэмэгдлүүд">
-<!ENTITY addons.accesskey "Н">
 <!ENTITY filtersApply.label "Санд шүүлт ажиллуулах">
 <!ENTITY filtersApply.accesskey "а">
 
@@ -362,13 +356,10 @@
 <!ENTITY previousButton.label "Өмнөх">
 <!ENTITY backButton1.label "Буцаад">
 <!ENTITY goForwardButton1.label "Урагшаа">
-<!ENTITY deleteButton.label "Устга">
 <!ENTITY markButton.label "Тэмдэг">
 <!ENTITY printButton.label "Хэвлэ">
 <!ENTITY stopButton.label "Зогс">
 <!ENTITY throbberItem.title "Идэвхижлийн заалт">
-<!ENTITY junkButton.label "Тэнэмэл">
-<!ENTITY notJunkButton.label "Тэнэмэл биш">
 <!ENTITY addressBookButton.label "Хаягийн тэмдэглэл">
 <!ENTITY searchItem.title "Түргэн хайгч">
 <!ENTITY mailViewsToolbarItem.title "Захианы харагдац">
@@ -388,12 +379,9 @@
 <!ENTITY previousButton.tooltip "Өмнөх уншигдаагүй захианд оч">
 <!ENTITY goForwardButton.tooltip "Нэг захиагаар урагшил">
 <!ENTITY goBackButton.tooltip "Нэг захиагаар ухар">
-<!ENTITY deleteButton.tooltip "Сонгосон захиа эсвэл санг устга">
 <!ENTITY markButton.tooltip "Захиаг тэмдэглэ">
 <!ENTITY printButton.tooltip "Энэ захиаг хэвлэ">
 <!ENTITY stopButton.tooltip "Одоогийн дамжуулалтыг зогсоо">
-<!ENTITY junkButton.tooltip "Сонгосон захиаг тэнэмэл захиа гэж тэмдэглэ">
-<!ENTITY notJunkButton.tooltip "Сонгосон захиаг тэнэмэл захиа биш гэж тэмдэглэ">
 <!ENTITY addressBookButton.tooltip "Хаягийн тэмдэглэлд оч">
 <!ENTITY tagButton.tooltip "Захианд таг нэмэх">
 

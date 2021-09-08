@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Хувийн зорчилт)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Хувийн зорчилт)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Хувийн зорчилт)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Хувийн зорчилт)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -145,6 +147,7 @@ bookmarks-search =
     .label = Хадгалсан хаяганд хайх
 bookmarks-bookmark-edit-panel =
     .label = Хадгалсан хаяганд засвар хийх
+
 bookmarks-toolbar-menu =
     .label = Хаягийн Багажит самбар
 bookmarks-toolbar-placeholder =
@@ -191,3 +194,4 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-dont-show-message =
     .label = Жижиг цонх хоригдсон үед энэ мэдээг бүү харуул
     .accesskey = D
+

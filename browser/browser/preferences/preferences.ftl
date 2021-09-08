@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Сонголт
-       *[other] Тохируулга
-    }
-
 pane-general-title = Ердийн
 category-general =
     .tooltiptext = { pane-general-title }
@@ -122,10 +116,6 @@ applications-manage-app =
     .label = Програмын нарийвчилсан мэдээлэл…
 applications-always-ask =
     .label = Үргэлж асуу
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -265,14 +255,9 @@ forms-exceptions =
     .label = Зөвшөөрөгдсөн хуудас…
     .accesskey = ш
 
-forms-master-pw-use =
-    .label = Мастер нууц үг хэрэглэ
-    .accesskey = М
 forms-master-pw-change =
     .label = Мастер нууц үгийг өөрчил…
     .accesskey = с
-
-forms-master-pw-fips-title = Та одоогоор FIPS горимд байна. Энэ горимд мастер нууц үг хоосон байх ёсгүй.
 
 ## OS Authentication dialog
 
