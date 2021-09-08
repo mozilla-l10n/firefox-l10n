@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Serial Number
 
-fips-nonempty-password-required = Kinakailangan ng FIPS mode na mayroon kang Master Password sa bawat security device. Pakitakda ang password bago subukang mag-enable ng FIPS mode.
-
 fips-nonempty-primary-password-required = Nag-oobliga ang FIPS mode na mayroon ka dapat na Primary Password para sa bawat security device. Pakitakda ang password bago subukang i-enable ang FIPS mode.
 unable-to-toggle-fips = Hindi kayang baguhin ang FIPS mode para sa security device. Minumungkahing isara mo at i-restart itong application.
 load-pk11-module-file-picker-title = Pumili ng PKCS#11 device driver na ilo-load

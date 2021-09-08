@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Kakailanganing i-reload ng mga website ang mga larawan at data
 
-clear-site-data-cancel =
-    .label = Kanselahin
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Burahin
-    .accesskey = B
-
 clear-site-data-dialog =
     .buttonlabelaccept = Burahin
     .buttonaccesskeyaccept = B

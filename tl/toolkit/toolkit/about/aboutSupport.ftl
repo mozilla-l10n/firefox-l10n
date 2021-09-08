@@ -10,11 +10,6 @@ crashes-id = Report ID
 crashes-send-date = Nai-sumite
 crashes-all-reports = Lahat ng Ulat ng Pag-crash
 crashes-no-config = Ang application na ito ay hindi pa na i-configure para ipakita ang mga crash reports.
-extensions-title = Mga Extension
-extensions-name = Pangalan
-extensions-enabled = Naka-enable
-extensions-version = Bersyon
-extensions-id = ID
 support-addons-title = Mga Add-on
 support-addons-name = Pangalan
 support-addons-type = Uri
@@ -125,8 +120,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tipo ng Proseso
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
-safe-mode-title = Subukan mag-safe mode
-restart-in-safe-mode-label = Mag-restart na Naka-Disable ang mga Add-on…
 
 clear-startup-cache-title = Subukang burahin ang startup cache
 clear-startup-cache-label = Burahin ang startup cache…
@@ -275,11 +268,6 @@ webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = WebGL 2 Bersyon ng Driver
 webgl2-driver-extensions = WebGL 2 Mga Extensyon ng Driver
 webgl2-extensions = WebGL 2 Mga Extensyon
-blocklisted-bug = Naka-blocklist dahil sa mga kilalang problema
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber }
 
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
@@ -290,8 +278,6 @@ support-blocklisted-bug = Naka-blocklist dahil sa mga kilalang isyu: <a data-l10
 unknown-failure = Nakablocklist; failure code { $failureCode }
 
 d3d11layers-crash-guard = D3D11 Compositor
-d3d11video-crash-guard = D3D11 Video Decoder
-d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video Decoder
 
@@ -336,14 +322,6 @@ launcher-process-status-unknown = Di-kilalang status
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Pinagana ng gumagamit
-multi-process-status-1 = Pinapagana ayon sa default
-multi-process-status-2 = Naka-disable
-multi-process-status-4 = Na-disable ng mga accessibility tool
-multi-process-status-6 = Hindi pinagana ng hindi suportadong text input
-multi-process-status-7 = Hindi pinagana ng mga add-on
-multi-process-status-8 = Sapilitang hindi pinagana
-multi-process-status-unknown = Hindi alam na katayuan
 
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = wala

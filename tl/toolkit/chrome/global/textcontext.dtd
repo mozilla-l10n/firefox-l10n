@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Burahin">
 
-<!ENTITY fillLoginMenu.label          "Maglagay ng Login">
-<!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "Maglagay ng Password">
-<!ENTITY fillPasswordMenu.accesskey   "F">
-<!ENTITY fillUsernameMenu.label       "Maglagay ng Username">
-<!ENTITY fillUsernameMenu.accesskey   "F">
-<!ENTITY noLoginSuggestions.label     "(Walang Iminumungkahing Login)">
-<!ENTITY viewSavedLogins.label        "Tingnan ang mga Naka-save na Login">

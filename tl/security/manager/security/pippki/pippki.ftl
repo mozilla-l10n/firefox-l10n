@@ -6,9 +6,6 @@ password-quality-meter = Pangsukat ng kalidad ng password
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Palitan ang Master Password
-
 change-device-password-window =
     .title = Baguhin ang Password
 
@@ -20,10 +17,6 @@ change-password-new = Bagong password:
 change-password-reenter = Bagong password (ulit):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Ireset ang Master Password
-    .style = width: 40em
 
 pippki-failed-pw-change = Hindi kayang magpalit ng password.
 pippki-incorrect-pw = Hindi ka nagpasok ng tamang kasalukuyang password. Subukan uli.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = I-reset
-reset-password-text = Pag nireset mo ang master password, makakalimutan lahat ng nakatagong web at email passwords, form data, personal certificates, at private keys. Gusto mo ba talagang ireset ang master password mo?
 
 reset-primary-password-text = Kapag nag-reset ka ng iyong Primary Password, lahat ng iyong nakaimbak na web at e-mail password, personal certificate, at private key ay makakalimutan. Sigurado ka bang gusto mong i-reset ang iyong Primary Password?
 

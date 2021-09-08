@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Listahan
 
-blocklist-button-cancel =
-    .label = Kanselahin
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = i-Save ang mga Pagbabago
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = i-Save ang mga Pagbabago
     .buttonaccesskeyaccept = S

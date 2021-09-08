@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Alisin ang mga Napili
     .accesskey = r
 
-site-data-button-cancel =
-    .label = Kanselahin
-    .accesskey = C
-
-site-data-button-save =
-    .label = i-Save ang mga Pagbabago
-    .accesskey = S
-
 site-data-settings-dialog =
     .buttonlabelaccept = i-Save ang mga Pagbabago
     .buttonaccesskeyaccept = S

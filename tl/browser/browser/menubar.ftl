@@ -38,16 +38,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Isara ang { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Lumabas { -brand-shorter-name }
+
 menu-about =
     .label = Tungkol sa { -brand-shorter-name }
     .accesskey = A
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Edit
     .accesskey = E
-menu-edit-find-on =
-    .label = Hanapin sa Pahinang Ito...
-    .accesskey = F
 menu-edit-find-in-page =
     .label = Hanapin sa Pahina…
     .accesskey = H
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Mga Toolbar
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = i-Customize...
-    .accesskey = c
 menu-view-customize-toolbar2 =
     .label = i-Customize ang Toolbar…
     .accesskey = C
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Basic na Estilo ng Pahina
     .accesskey = b
-menu-view-charset =
-    .label = Pag-encode ng Teksto
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -226,10 +221,6 @@ menu-history-reopen-all-windows = Muling buksan ang Lahat ng mga Window
 menu-bookmarks-menu =
     .label = Mga Bookmark
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = Ipakita Lahat ng mga Bookmark
-menu-bookmark-this-page =
-    .label = i-Bookmark ang Pahinang Ito
 menu-bookmark-current-tab =
     .label = I-bookmark ang Kasalukuyang Tab
 menu-bookmark-edit =
@@ -251,15 +242,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Mga Download
     .accesskey = D
-menu-tools-addons =
-    .label = Mga Add-on
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = Mag-Sign In sa { -brand-product-name }...
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = Buksan ang { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Mga Add-on at Tema
     .accesskey = A
@@ -275,9 +257,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Kumunektang muli sa { -brand-product-name }…
     .accesskey = R
-menu-tools-web-developer =
-    .label = Web Developer
-    .accesskey = W
 menu-tools-browser-tools =
     .label = Mga Kagamitan ng Browser
     .accesskey = B
@@ -290,17 +269,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Impormasyon tungkol sa Pahina
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Options
-           *[other] Mga Kagustuhan
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-settings =
     .label = Mga setting
     .accesskey =
@@ -333,21 +301,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Tulong
     .accesskey = T
-menu-help-product =
-    .label = Tulong sa { -brand-shorter-name }
-    .accesskey = H
-menu-help-show-tour =
-    .label = Libutin ang { -brand-shorter-name }
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = Mag-import mula sa Ibang Browser…
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = Mga Keyboard Shortcut
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Impormasyon para sa Troubleshooting
-    .accesskey = T
 menu-get-help =
     .label = Humingi ng Tulong
     .accesskey = T
@@ -356,12 +309,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Magbigay ng Katugunan...
     .accesskey = s
-menu-help-safe-mode-without-addons =
-    .label = Mag-restart na Naka-disable ang mga Add-on...
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = Mag-restart nang Naka-enable ang mga Add-on
-    .accesskey = R
 menu-help-enter-troubleshoot-mode2 =
     .label = Troubleshoot Mode…
     .accesskey = M

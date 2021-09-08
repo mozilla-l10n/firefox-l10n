@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Private Browsing)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Private Browsing)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Private Browsing)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Private Browsing)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -109,6 +111,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Shortcut: Hanapin ang { $engineName } direkta mula sa iyong address bar.
 urlbar-search-tips-redirect-2 = Simulan ang iyong paghahanap sa address bar para makakita ng mga mungkahi mula sa { $engineName } at sa iyong browsing history.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Piliin ang shortcut na ito upang makita kung ano ang iyong kinakailangan nang mas mabilis.
@@ -145,10 +148,12 @@ urlbar-midi-blocked =
     .tooltiptext = Na-block mo ang access sa MIDI para sa website na ito.
 urlbar-install-blocked =
     .tooltiptext = Hinarang mo ang pagkabit ng mga add-on sa website na ito.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Baguhin itong bookmark ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -156,12 +161,8 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
-page-action-add-to-urlbar =
-    .label = Idagdag sa Address Bar
 page-action-manage-extension =
     .label = Manage Extension…
-page-action-remove-from-urlbar =
-    .label = Tanggalin sa Address Bar
 page-action-remove-extension =
     .label = Tanggalin ang Extension
 
@@ -179,12 +180,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ngayon naman, maghanap gamit ang:
-# This string won't wrap, so if the translated string is longer,
-# consider translating it as if it said only "Search Settings".
-search-one-offs-change-settings-button =
-    .label = Baguhin ang mga Search Setting
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Baguhin ang mga search setting
+
 search-one-offs-context-open-new-tab =
     .label = Hanapin sa Bagong Tab
     .accesskey = T
@@ -194,12 +193,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Itakda bilang Default Search Engine sa mga Private Window
     .accesskey = P
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -246,10 +247,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Ipakita ang editor kapag nagse-save
     .accesskey = S
-bookmark-panel-done-button =
-    .label = Tapos na
 bookmark-panel-save-button =
     .label = i-Save
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -277,8 +277,7 @@ identity-passive-loaded = Ang mga bahagi ng pahinang ito ay hindi ligtas (tulad 
 identity-active-loaded = Hindi mo pinagana ang proteksyon sa pahinang ito.
 identity-weak-encryption = Ang pahinang ito ay gumagamit ng mahina na pag-encrypt.
 identity-insecure-login-forms = Ang mga pag-login na ipinasok sa pahinang ito ay maaaring makompromiso.
-identity-permissions =
-    .value = Mga Pahintulot
+
 identity-https-only-connection-upgraded = (inupgrade na sa HTTPS)
 identity-https-only-label = HTTPS-Only Mode
 identity-https-only-dropdown-on =
@@ -290,11 +289,12 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Buksan ang HTTPS-Only Mode para sa site na ito kung nais mong i-upgrade ng { -brand-short-name } ang koneksyon kung posible.
 identity-https-only-info-turn-off2 = Kung mukhang sira ang pahina, maaari mong patayin ang HTTPS-Only Mode para mag-reload ang site gamit ang walang katiyakang HTTP.
 identity-https-only-info-no-upgrade = Hindi kayang mag-upgrade ng koneksyon mula sa HTTP.
+
 identity-permissions-storage-access-header = Mga cross-site cookie
 identity-permissions-storage-access-hint = Ang mga partidong ito ay maaaring gumamit ng mga cross-site cookie at site data habang ikaw ay nasa site na ito.
 identity-permissions-storage-access-learn-more = Alamin
+
 identity-permissions-reload-hint = Maaaring kailangan mong i-reload ang pahina para mag-aplay ang mga pagbabago.
-identity-permissions-empty = Hindi mo ipinagkaloob ang site na ito anumang espesyal na pahintulot.
 identity-clear-site-data =
     .label = Burahin ang mga Cookie at Site Data…
 identity-connection-not-secure-security-view = Ikaw ay hindi ligtas na nakakonekta sa site na ito.
@@ -356,11 +356,13 @@ browser-tab-mute =
         [1] I-MUTE ANG TAB
        *[other] I-MUTE ANG MGA { $count } TAB
     }
+
 browser-tab-unmute =
     { $count ->
         [1] I-UNMUTE TAB
        *[other] I-UNMUTE ANG MGA { $count } TAB
     }
+
 browser-tab-unblock =
     { $count ->
         [1] i-PLAY ANG TAB
@@ -372,16 +374,11 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Mag-import ng mga bookmark…
     .tooltiptext = Mag-import ng mga bookmark mula sa ibang browser papuntang { -brand-short-name }.
+
 bookmarks-toolbar-empty-message = Para sa mabilis na pag-access, ilagay ang iyong mga bookmark dito sa bookmarks toolbar. <a data-l10n-name="manage-bookmarks">I-manage ang mga bookmark…</a>
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = Camera na ibabahagi:
-    .accesskey = C
-popup-select-microphone =
-    .value = Mga mikropono na pwedeng ibahagi:
-    .accesskey = M
 popup-select-camera-device =
     .value = Camera:
     .accesskey = C
@@ -395,20 +392,15 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Mga Speaker
 popup-all-windows-shared = Lahat ng nakikitang window sa iyong screen ay ibabahagi.
-popup-screen-sharing-not-now =
-    .label = Hindi Ngayon
-    .accesskey = H
-popup-screen-sharing-never =
-    .label = Huwag Payagan
-    .accesskey = H
-popup-silence-notifications-checkbox = I-disable ang mga notification mula sa { -brand-short-name } habang nagbabahagi
-popup-silence-notifications-checkbox-warning = Hindi magpapakita ng mga notification ang { -brand-short-name } habang ikaw ay nagbabahagi.
+
 popup-screen-sharing-block =
     .label = Harangin
     .accesskey = H
+
 popup-screen-sharing-always-block =
     .label = Palaging harangin
     .accesskey = w
+
 popup-mute-notifications-checkbox = I-mute ang mga abiso sa website habang nagbabahagi
 
 ## WebRTC window or screen share tab switch warning
@@ -426,14 +418,11 @@ enable-devtools-popup-description = Para gamitin ang F1 2 shortcut, unang buksan
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = Hanapin o ilagay ang address
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Hanapin o ilagay ang address
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Browser ay kasalukuyang nire-remote kontrol
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -442,6 +431,7 @@ urlbar-remote-control-notification-anchor =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Hanapin sa Web
     .aria-label = Maghanap gamit ang { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -450,22 +440,27 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Ipasok ang mga search term
     .aria-label = Hanapin { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Ipasok ang mga search term
     .aria-label = Hanapin sa mga bookmark
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Ipasok ang mga search term
     .aria-label = Hanapin sa kasaysayan
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Ipasok ang mga search term
     .aria-label = Hanapin sa mga tab
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Maghanap gamit ang { $name } o ipasok ang address
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -475,15 +470,15 @@ urlbar-permissions-granted =
     .tooltiptext = Ipinagkaloob mo sa website na ito ang mga karagdagang pahintulot.
 urlbar-switch-to-tab =
     .value = Lumipat sa tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension:
+
 urlbar-go-button =
     .tooltiptext = Pumunta sa lokasyon na nasa Location Bar
 urlbar-page-action-button =
     .tooltiptext = Page actions
-urlbar-pocket-button =
-    .tooltiptext = i-Save sa { -pocket-brand-name }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -550,9 +545,12 @@ urlbar-result-action-search-tabs = Hanapin sa mga Tab
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = Ang <span data-l10n-name="domain">{ $domain }</span> ay naka-full screen na ngayon
 fullscreen-warning-no-domain = Ang dokument na ito ay naka full screen
+
+
 fullscreen-exit-button = Umalis sa Full Screen (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Umalis sa Full Screen (Esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -612,6 +610,7 @@ bookmarks-tools =
     .label = Mga Gamit sa Pag-bookmark
 bookmarks-bookmark-edit-panel =
     .label = i-Edit ang bookmark na ito
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -625,6 +624,7 @@ bookmarks-toolbar-placeholder =
     .title = Mga nakalagay sa Bookmark Toolbar
 bookmarks-toolbar-placeholder-button =
     .label = Mga nakalagay sa Bookmark Toolbar
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = I-bookmark ang kasalukuyang tab
@@ -652,6 +652,7 @@ save-to-pocket-button =
 toolbar-addons-themes-button =
     .label = Mga add-on at tema
     .tooltiptext = I-manage ang iyong mga add-on at tema ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -667,6 +668,7 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Magtrabaho nang Offline
     .accesskey = k
+
 toolbar-overflow-customize-button =
     .label = I-customize ang Toolbar...
     .accesskey = C
@@ -708,6 +710,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Payagan ang mga pop-up para sa { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Harangin ang mga pop-up para sa { $uriHost }
     .accesskey = p
@@ -717,6 +720,7 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Huwag ipakita ang mensaheng ito kapag hinaharang ang mga pop-up
     .accesskey = D
+
 picture-in-picture-hide-toggle =
     .label = Itago ang Toggle para sa Picture-in-Picture
     .accesskey = H

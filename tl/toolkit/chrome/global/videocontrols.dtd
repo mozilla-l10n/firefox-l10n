@@ -14,9 +14,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Umalis sa Full Screen">
 <!ENTITY castingButton.castingLabel "Isalin sa Screen">
 <!ENTITY closedCaption.off "Nakapatay">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Slider ng volume">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->

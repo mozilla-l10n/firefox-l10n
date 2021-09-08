@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Paano ito gumagana
 
-turn-on-sync = Buksan ang { -sync-brand-short-name }...
-    .title = Pumunta sa sync preferences
-
 monitor-title = Maging alisto sa mga data breach
 monitor-link = Paano ito gumagana
 monitor-header-content-no-account = Tingnan ang { -monitor-brand-name } para malaman kung ikaw ay naging parte ng isang naiulat na data breach, at maalerto sa mga bagong breach.

@@ -46,9 +46,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = i-Bookmark ang Tab
     .accesskey = B
-reopen-in-container =
-    .label = Muling buksan sa Lalagyan
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Buksan sa Panibagong Container Tab
     .accesskey = B
@@ -64,26 +61,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Magsara ng Mga Tab
     .accesskey = M
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Buksang Muli ang Isinarang Tab
-            [one] Buksang Muli ang Isinarang Tab
-           *[other] Buksang Muli ang mga Isinarang Tab
-        }
-    .accesskey = U
-close-tab =
-    .label = Isara ang Tab
-    .accesskey = c
-close-tabs =
-    .label = Isara ang mga Tab
-    .accesskey = S
-move-tabs =
-    .label = Ilipat ang mga Tab
-    .accesskey = v
-move-tab =
-    .label = Ilipat ang Tab
-    .accesskey = v
 tab-context-share-url =
     .label = Ibahagi
     .accesskey = b
@@ -115,6 +92,7 @@ tab-context-move-tabs =
            *[other] Ilipat ang mga Tab
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

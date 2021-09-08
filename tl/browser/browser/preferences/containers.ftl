@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Magdagdag ng Bagong Container
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } Container Preferences
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Icon
 containers-color-label = Kulay
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Tapusin
-    .accesskey = D
 
 containers-dialog =
     .buttonlabelaccept = Tapusin

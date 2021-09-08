@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Alisin ang lahat na mga Site
     .accesskey = i
 
-translation-button-close =
-    .label = Isara
-    .accesskey = C
-
 translation-dialog =
     .buttonlabelaccept = Isara
     .buttonaccesskeyaccept = C

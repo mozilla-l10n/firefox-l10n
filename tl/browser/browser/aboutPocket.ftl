@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Magdagdag ng mga Tag
+
 pocket-panel-saved-error-generic = Nagkaroon ng error nung sinusubukang I-save sa { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Limitado ang mga tag sa 25 character
 pocket-panel-saved-error-only-links = Tanging mga link lamang ay maaaring i-save

@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Kumuha ng Screenshot
-
-screenshots-my-shots-button = Mga Shot Ko
-
 screenshot-toolbarbutton =
     .label = Screenshot
     .tooltiptext = Kumuha ng screenshot
@@ -40,8 +36,6 @@ screenshots-login-error-details = Hindi namin mai-save ang iyong shot dahil may 
 
 screenshots-unshootable-page-error-title = Hindi namin kayang mai-screenshot pahinang ito.
 screenshots-unshootable-page-error-details = Hindi ito standard na Web page, kaya hindi ka makakakuha ng screenshot nito.
-
-screenshots-self-screenshot-error-title = Hindi ka maaaring kumuha ng shot sa pahina ng { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Masyadong maliit ang iyong pinili
 

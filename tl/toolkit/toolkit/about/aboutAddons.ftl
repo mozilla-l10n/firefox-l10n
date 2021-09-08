@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Add-on Manager
-
 addons-page-title = Add-on Manager
 
 search-header =
@@ -33,60 +30,11 @@ help-button = Suporta sa mga Add-on
 sidebar-help-button-title =
     .title = Suporta sa mga Add-on
 
-preferences =
-    { PLATFORM() ->
-        [windows] Mga pagpipilian sa { -brand-short-name }
-       *[other] Mga kagustuhan sa { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Mga pagpipilian sa { -brand-short-name }
-           *[other] Mga kagustuhan sa { -brand-short-name }
-        }
-
 show-unsigned-extensions-button =
     .label = Ang ibang mga extension ay hindi kayang ma-verify
 
 show-all-extensions-button =
     .label = Ipakita ang lahat ng mga extension
-
-cmd-show-details =
-    .label = Magpakita ng Karagdagang Impormasyon
-    .accesskey = s
-
-cmd-find-updates =
-    .label = Hanapin ang mga Update
-    .accesskey = H
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Mga Pagpipilian
-           *[other] Mga Kagustuhan
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Isuot ang Theme
-    .accesskey = I
-
-cmd-disable-theme =
-    .label = Tigilan ang pagsuot ng Theme
-    .accesskey = W
-
-cmd-install-addon =
-    .label = I-install
-    .accesskey = I
-
-cmd-contribute =
-    .label = Tumulong
-    .accesskey = S
-    .tooltiptext = Tumulong sa pagpapaunlad ng add-on na ito
 
 detail-version =
     .label = Bersyon
@@ -383,8 +331,6 @@ dictionary-disabled-heading = Naka-disable
 
 locale-enabled-heading = Naka-enable
 locale-disabled-heading = Naka-disable
-
-ask-to-activate-button = Magtanong para i-activate
 
 always-activate-button = Palaging i-activate
 never-activate-button = Wag kailanman i-activate

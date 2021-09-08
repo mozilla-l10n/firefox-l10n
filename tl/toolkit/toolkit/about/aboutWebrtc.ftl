@@ -151,8 +151,6 @@ about-webrtc-aec-logging-off-state-msg = ang nakuhang mga log file ay makikita s
 
 ##
 
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
@@ -177,4 +175,6 @@ about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "fa
 
 ##
 
+
+##
 
