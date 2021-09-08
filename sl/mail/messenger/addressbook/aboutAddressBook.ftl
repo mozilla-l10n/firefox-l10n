@@ -20,6 +20,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Vsi imeniki
+
 about-addressbook-books-context-properties =
     .label = Lastnosti
 about-addressbook-books-context-synchronize =
@@ -30,6 +31,7 @@ about-addressbook-books-context-delete =
     .label = Izbriši
 about-addressbook-books-context-remove =
     .label = Odstrani
+
 about-addressbook-confirm-delete-book-title = Izbriši imenik
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -47,14 +49,17 @@ about-addressbook-search =
     .placeholder = Išči v imeniku { $name }
 about-addressbook-search-all =
     .placeholder = Išči v vseh imenikih
+
 about-addressbook-sort-button =
     .title = Spremeni vrstni red seznama
+
 about-addressbook-name-format-display =
     .label = Prikazno ime
 about-addressbook-name-format-firstlast =
     .label = Ime Priimek
 about-addressbook-name-format-lastfirst =
     .label = Priimek, Ime
+
 about-addressbook-sort-name-ascending =
     .label = Razvrsti po imenu (A > Ž)
 about-addressbook-sort-name-descending =
@@ -63,8 +68,10 @@ about-addressbook-sort-email-ascending =
     .label = Razvrsti po e-poštnem naslovu (A > Ž)
 about-addressbook-sort-email-descending =
     .label = Razvrsti po e-poštnem naslovu (Ž > A)
+
 about-addressbook-cards-context-write =
     .label = Sestavi
+
 about-addressbook-confirm-delete-mixed-title = Izbriši stike in sezname
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -133,6 +140,7 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Uredi
 about-addressbook-cancel-edit-contact-button = Prekliči
 about-addressbook-save-edit-contact-button = Shrani
+
 about-addressbook-details-email-addresses-header = E-poštni naslovi
 about-addressbook-details-phone-numbers-header = Telefonske številke
 about-addressbook-details-home-address-header = Domači naslov

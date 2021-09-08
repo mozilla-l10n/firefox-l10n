@@ -20,16 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Izberi vse zavihke
     .accesskey = b
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Ponovno odpri zavihek
-            [one] Ponovno odpri zavihek
-            [two] Ponovno odpri zavihka
-            [few] Ponovno odpri zavihke
-           *[other] Ponovno odpri zavihke
-        }
-    .accesskey = P
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -61,9 +51,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Pripni v meni prekoračitve
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Samodejno skrij v orodni vrstici
-    .accesskey = S
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Skrij gumb, ko je seznam prazen
     .accesskey = S

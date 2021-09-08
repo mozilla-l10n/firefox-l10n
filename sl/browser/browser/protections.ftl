@@ -109,9 +109,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Kako deluje
 
-turn-on-sync = Vklopi { -sync-brand-short-name } ...
-    .title = Pojdi na nastavitve Synca
-
 monitor-title = Bodite obveščeni o krajah podatkov
 monitor-link = Kako deluje
 monitor-header-content-no-account = Preverite s { -monitor-brand-name }jem, ali ste bili vpleteni v znano krajo podatkov, ter prejemajte opozorila o novih krajah.

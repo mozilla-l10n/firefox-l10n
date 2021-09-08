@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Pojdi na prejšnjo stran
-    .aria-label = Nazaj
-    .accesskey = z
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Pojdi na naslednjo stran
-    .aria-label = Naprej
-    .accesskey = r
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -116,9 +94,6 @@ main-context-menu-page-save =
     .label = Shrani stran kot …
     .accesskey = s
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -179,10 +154,6 @@ main-context-menu-open-link-new-private-window =
     .label = Odpri povezavo v novem zasebnem oknu
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = Dodaj povezavo med zaznamke
-    .accesskey = M
-
 main-context-menu-bookmark-link =
     .label = Dodaj povezavo med zaznamke
     .accesskey = m
@@ -207,10 +178,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Kopiraj e-poštni naslov
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = Kopiraj mesto povezave
-    .accesskey = i
 
 main-context-menu-copy-link-simple =
     .label = Kopiraj povezavo
@@ -239,32 +206,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Glasno
     .accesskey = n
-
-main-context-menu-media-play-speed =
-    .label = Hitrost predvajanja
-    .accesskey = r
-
-main-context-menu-media-play-speed-slow =
-    .label = Počasno (0,5 ×)
-    .accesskey = P
-
-main-context-menu-media-play-speed-normal =
-    .label = Običajno
-    .accesskey = O
-
-main-context-menu-media-play-speed-fast =
-    .label = Hitro (1,25 x)
-    .accesskey = H
-
-main-context-menu-media-play-speed-faster =
-    .label = Hitreje (1,5 x)
-    .accesskey = e
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Komično (2 x)
-    .accesskey = K
 
 main-context-menu-media-play-speed-2 =
     .label = Hitrost
@@ -312,12 +253,6 @@ main-context-menu-media-video-leave-fullscreen =
 
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Slika v sliki
-    .accesskey = v
-
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
     .label = Glejte sliko v sliki
     .accesskey = s
@@ -325,14 +260,6 @@ main-context-menu-media-watch-pip =
 main-context-menu-image-reload =
     .label = Ponovno naloži sliko
     .accesskey = P
-
-main-context-menu-image-view =
-    .label = Pokaži sliko
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = Pokaži video
-    .accesskey = I
 
 main-context-menu-image-view-new-tab =
     .label = Odpri sliko v novem zavihku
@@ -345,18 +272,6 @@ main-context-menu-video-view-new-tab =
 main-context-menu-image-copy =
     .label = Kopiraj sliko
     .accesskey = a
-
-main-context-menu-image-copy-location =
-    .label = Kopiraj mesto slike
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Kopiraj mesto videa
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Kopiraj mesto zvoka
-    .accesskey = o
 
 main-context-menu-image-copy-link =
     .label = Kopiraj povezavo do slike
@@ -378,10 +293,6 @@ main-context-menu-image-email =
     .label = Pošlji sliko po e-pošti …
     .accesskey = o
 
-main-context-menu-image-set-as-background =
-    .label = Nastavi za sliko ozadja namizja
-    .accesskey = S
-
 main-context-menu-image-set-image-as-background =
     .label = Nastavi sliko kot ozadje namizja …
     .accesskey = s
@@ -401,10 +312,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Shrani zvok kot …
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = Shrani sličico videa kot …
-    .accesskey = S
 
 main-context-menu-video-take-snapshot =
     .label = Zajemi sličico …
@@ -433,14 +340,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Pošlji stran na napravo
     .accesskey = N
-
-main-context-menu-view-background-image =
-    .label = Pokaži sliko ozadja
-    .accesskey = o
-
-main-context-menu-generate-new-password =
-    .label = Uporabi ustvarjeno geslo …
-    .accesskey = g
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -532,10 +431,6 @@ main-context-menu-view-page-source =
     .label = Pokaži izvorno kodo strani
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = Pokaži podatke o strani
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = Spremeni smer besedila
     .accesskey = b
@@ -543,10 +438,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Spremeni smer strani
     .accesskey = s
-
-main-context-menu-inspect-element =
-    .label = Preglej element
-    .accesskey = j
 
 main-context-menu-inspect =
     .label = Preglej
@@ -558,3 +449,4 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Več o DRM …
     .accesskey = D
+

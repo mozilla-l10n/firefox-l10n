@@ -135,7 +135,6 @@
 
 <!ENTITY Photo.tab                      "Slika">
 <!ENTITY Photo.accesskey                "i">
-<!ENTITY PhotoDesc.label                "Izberite eno od naslednjih možnosti:">
 <!ENTITY GenericPhoto.label             "Splošna slika">
 <!ENTITY GenericPhoto.accesskey         "p">
 <!ENTITY DefaultPhoto.label             "Privzeta">

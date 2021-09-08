@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Upravitelj dodatkov
-
 addons-page-title = Upravitelj dodatkov
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Podpora za dodatke
 sidebar-help-button-title =
     .title = Podpora za dodatke
 
-preferences =
-    { PLATFORM() ->
-        [windows] Možnosti { -brand-short-name }a
-       *[other] Nastavitve { -brand-short-name }a
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Možnosti { -brand-short-name }a
-           *[other] Nastavitve { -brand-short-name }a
-        }
-
 addons-settings-button = Nastavitve { -brand-short-name(sklon: "rodilnik") }
 sidebar-settings-button-title =
     .title = Nastavitve { -brand-short-name(sklon: "rodilnik") }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Prikaži vse razširitve
-
-cmd-show-details =
-    .label = Več informacij
-    .accesskey = V
-
-cmd-find-updates =
-    .label = Poišči posodobitve
-    .accesskey = P
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Možnosti
-           *[other] Nastavitve
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] M
-           *[other] N
-        }
-
-cmd-enable-theme =
-    .label = Obleci temo
-    .accesskey = t
-
-cmd-disable-theme =
-    .label = Sleci temo
-    .accesskey = t
-
-cmd-install-addon =
-    .label = Namesti
-    .accesskey = i
-
-cmd-contribute =
-    .label = Prispevaj
-    .accesskey = P
-    .tooltiptext = Sodelujte pri razvoju dodatkov
 
 detail-version =
     .label = Različica
@@ -401,8 +349,6 @@ dictionary-disabled-heading = Onemogočeno
 
 locale-enabled-heading = Omogočeno
 locale-disabled-heading = Onemogočeno
-
-ask-to-activate-button = Vprašaj pred uporabo
 
 always-activate-button = Vedno omogoči
 never-activate-button = Nikoli ne omogoči

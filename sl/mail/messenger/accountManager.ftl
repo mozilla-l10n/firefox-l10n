@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = Nastavitve { -brand-short-name(sklon: "rodilnik") }
 
 open-addons-sidebar-button = Dodatki in teme
+

@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Serijska številka
 
-fips-nonempty-password-required = Način FIPS zahteva, da imate nastavljeno glavno geslo za vsako varnostno napravo. Prosim, nastavite geslo, preden omogočite način FIPS.
-
 fips-nonempty-primary-password-required = Način FIPS zahteva, da imate nastavljeno glavno geslo za vsako varnostno napravo. Prosim, nastavite geslo, preden omogočite način FIPS.
 unable-to-toggle-fips = Sprememba načina FIPS za varnostno napravo ni mogoče. Priporočamo vam, da zaključite in ponovno začenete program.
 load-pk11-module-file-picker-title = Izberite gonilnik naprave PKCS#11 za nalaganje

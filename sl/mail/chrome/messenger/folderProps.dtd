@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Lastnosti">
 
 <!ENTITY generalInfo.label                       "Splošni podatki">
-<!ENTITY folderCharsetFallback2.label            "Rezervno kodiranje besedila:">
-<!ENTITY folderCharsetFallback2.accesskey        "k">
-<!ENTITY folderCharsetEnforce2.label             "Uporabi kodiranje za vsa sporočila v mapi (nastavitve kodiranja besedila posameznih sporočil in samodejno zaznavanje bo prezrto)">
-<!ENTITY folderCharsetEnforce2.accesskey         "U">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Obnovi kazalo za datoteko povzetkov">
 <!ENTITY folderRebuildSummaryFile2.label         "Popravi mapo">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "P">

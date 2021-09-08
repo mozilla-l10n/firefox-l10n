@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Natisni …">
 <!ENTITY printCmd.accesskey "t">
 <!ENTITY printCmd.key "P">
-<!ENTITY printPreviewCmd.label "Predogled tiskanja">
-<!ENTITY printPreviewCmd.accesskey "d">
-<!ENTITY printSetupCmd.label "Priprava strani …">
-<!ENTITY printSetupCmd.accesskey "P">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Izbriši sporočilo">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "e">
 <!ENTITY compactVersion.label "Zgoščen pogled">
 <!ENTITY compactVersion.accesskey "Z">
-<!ENTITY folderPaneBar.label "Orodna vrstica podokna map">
-<!ENTITY folderPaneBar.accesskey "M">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Razvrsti po">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Imenik">
 <!ENTITY addressBookCmd.accesskey "m">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Dodatki">
-<!ENTITY addons.accesskey "D">
-<!ENTITY addonPrefs.label "Možnosti dodatka">
-<!ENTITY addonPrefs.accesskey "M">
-<!ENTITY addonPrefsUnix.label "Nastavitve dodatka">
-<!ENTITY addonPrefsUnix.accesskey "N">
 <!ENTITY addonNoPrefs.label "Ni najdenih nastavitev dodatka.">
 <!ENTITY activitymanager.label "Upravitelj dejavnosti">
 <!ENTITY activitymanager.accesskey "v">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Razhrošči dodatke">
 <!ENTITY debugAddonsCmd.accesskey "R">
-<!ENTITY tabsDebugCmd.label "Razhroščevalnik vsebinskega okvirja">
-<!ENTITY tabsDebugCmd.accesskey "v">
 <!ENTITY errorConsoleCmd.label "Konzola napak">
 <!ENTITY errorConsoleCmd.accesskey "K">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Nazaj">
 <!ENTITY goForwardButton1.label "Naprej">
 <!ENTITY deleteItem.title "Izbriši">
-<!ENTITY deleteButton.label "Izbriši">
-<!ENTITY undeleteButton.label "Obnovi">
 <!ENTITY markButton.label "Označi">
 <!ENTITY printButton.label "Natisni">
 <!ENTITY stopButton.label "Ustavi">
 <!ENTITY throbberItem.title "Merilnik dejavnosti">
 <!ENTITY junkItem.title "Neželeno">
-<!ENTITY junkButton.label "Neželeno">
-<!ENTITY notJunkButton.label "Ni neželeno">
 <!ENTITY addressBookButton.label "Imenik">
 <!ENTITY chatButton.label "Klepet">
 <!ENTITY glodaSearch.title "Splošno iskanje">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Pojdi na prejšnje sporočilo">
 <!ENTITY goForwardButton.tooltip "Pojdi naprej za eno sporočilo">
 <!ENTITY goBackButton.tooltip "Pojdi nazaj za eno sporočilo">
-<!ENTITY deleteButton.tooltip "Izbriši izbrano sporočilo ali mapo">
-<!ENTITY undeleteButton.tooltip "Obnovi izbrano sporočilo">
 <!ENTITY markButton.tooltip "Označi sporočila">
 <!ENTITY printButton.tooltip "Natisni to sporočilo">
 <!ENTITY stopButton.tooltip "Ustavi trenutni prenos">
-<!ENTITY junkButton.tooltip "Označi izbrana sporočila kot neželena">
-<!ENTITY notJunkButton.tooltip "Odznači izbrana sporočila kot neželena">
 <!ENTITY addressBookButton.tooltip "Pojdi v imenik">
 <!ENTITY chatButton.tooltip "Pokaži zavihek za klepet">
 <!ENTITY tagButton.tooltip "Označi sporočila">
 <!ENTITY compactButton.tooltip "Odstrani izbrisana sporočila iz izbrane mape">
 <!ENTITY appmenuButton1.tooltip "Prikaži &brandShortName;ov meni">
-<!ENTITY addonsButton.tooltip "Upravljajte svoje dodatke">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Posreduj v besedilu">

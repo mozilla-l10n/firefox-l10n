@@ -9,9 +9,6 @@ newtab-page-title = Nov zavihek
 newtab-settings-button =
     .title = Prilagodite stran novega zavihka
 
-newtab-personalize-button-label = Prilagodi
-    .title = Prilagodite nov zavihek
-    .aria-label = Prilagodite nov zacihek
 newtab-personalize-icon-label =
     .title = Prilagodite nov zavihek
     .aria-label = Prilagodite nov zacihek
@@ -24,8 +21,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Iskanje
     .aria-label = Iskanje
-
-newtab-search-box-search-the-web-text = Iskanje po spletu
 
 # Variables
 #  $engine (String): the name of the user's default search engine
@@ -266,10 +261,4 @@ newtab-custom-recent-title = Nedavna dejavnost
 newtab-custom-recent-subtitle = Izbor nedavnih spletnih mest in vsebin
 newtab-custom-close-button = Zapri
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Izrezki
-newtab-custom-snippets-subtitle = Nasveti in novice organizacije { -vendor-short-name } in { -brand-product-name }a
 newtab-custom-settings = Več nastavitev

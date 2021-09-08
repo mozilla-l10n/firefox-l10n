@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Odpri zasebno okno
 about-private-browsing-search-placeholder = Iskanje po spletu
 about-private-browsing-info-title = Ste v zasebnem oknu
 about-private-browsing-info-myths = Pogoste zmote o zasebnem brskanju
-about-private-browsing =
-    .title = Iskanje po spletu
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -21,9 +19,12 @@ about-private-browsing-handoff-text = Iščite z iskalnikom { $engine } ali vnes
 about-private-browsing-handoff-text-no-engine = Iskanje ali naslov strani
 about-private-browsing-not-private = Trenutno niste v zasebnem oknu.
 about-private-browsing-info-description = { -brand-short-name } izbriše zgodovino iskanja in brskanja, ko zaprete program ali ko zaprete vse zavihke in okna zasebnega brskanja. Čeprav to ne pomeni, da ste za spletna mesta ali ponudnike internetnih storitev anonimni, vam omogoča preprostejše ohranjanje zasebnosti na spletu pred ostalimi uporabniki tega računalnika.
+
 about-private-browsing-need-more-privacy = Potrebujete še več zasebnosti?
 about-private-browsing-turn-on-vpn = Preizkusite { -mozilla-vpn-brand-name }
+
 about-private-browsing-learn-more-link = Več o tem
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

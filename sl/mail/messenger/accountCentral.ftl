@@ -49,9 +49,6 @@ import-label = Uvozi
 
 about-paragraph = Thunderbird je vodilni odprtokodni odjemalec za e-pošto in koledar, ki deluje v več okoljih ter je brezplačen tako za poslovno kot za osebno uporabo. Želimo, da ostane varen in postane še boljši. Donacija nam bo omogočala najeti razvijalce, plačati stroške infrastrukture in nadaljevati izboljševanje.
 
-about-paragraph-2 = <b>Thunderbird financirajo uporabniki, kot ste vi! Če vam je Thunderbird všeč, bi bila vaša donacija dobrodošla.</b> Najboljši način, da podprete nadaljnji razvoj Thunderbirda, je z
-about-donation = donacijo
-
 about-paragraph-consider-donation = <b>Thunderbird financirajo uporabniki, kot ste vi! Če imate radi Thunderbird, nam lahko namenite donacijo.</b> Najboljši način, da pomagate ohraniti Thunderbird pri življenju, je <a data-l10n-name="donation-link">donacija</a>.
 
 explore-link = Raziščite možnosti

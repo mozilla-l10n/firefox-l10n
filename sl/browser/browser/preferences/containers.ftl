@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Dodaj nov vsebnik
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Nastavitve vsebnika { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Ikona
 containers-color-label = Barva
     .accesskey = B
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Končaj
-    .accesskey = K
 
 containers-dialog =
     .buttonlabelaccept = Končaj

@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Shrani stran kot …">
 <!ENTITY savePageCmd.accesskey "k">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Priprava strani …">
-<!ENTITY pageSetupCmd.accesskey "r">
-<!ENTITY printPreviewCmd.label "Predogled tiskanja">
-<!ENTITY printPreviewCmd.accesskey "d">
 <!ENTITY printCmd.label "Natisni …">
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.commandkey "P">

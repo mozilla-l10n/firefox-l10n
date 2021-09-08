@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Odstrani vse spletne strani
     .accesskey = v
 
-permissions-button-cancel =
-    .label = Prekliči
-    .accesskey = P
-
-permissions-button-ok =
-    .label = Shrani spremembe
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Shrani spremembe
     .buttonaccesskeyaccept = S

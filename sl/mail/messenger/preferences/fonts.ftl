@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Sans Serif
 
-font-size-label =
-    .value = Velikost:
-    .accesskey = V
-
 font-size-proportional-label =
     .value = Velikost:
     .accesskey = e
