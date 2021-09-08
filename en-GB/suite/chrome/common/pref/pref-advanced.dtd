@@ -18,6 +18,11 @@
 <!ENTITY setDefaultNews.accesskey         "N">
 <!ENTITY setDefaultFeed.label             "Feeds">
 <!ENTITY setDefaultFeed.accesskey         "F">
+<!ENTITY useInternalSettings.description  "Use &brandShortName; Mail &amp; News when opening browser links for:">
+<!ENTITY useInternalMail.label            "Mail (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "News (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "e">
 
 <!ENTITY printing.label                   "Printing">
 <!ENTITY useNativePrintDialog.label       "Use Native Print Dialogue (where supported)">
