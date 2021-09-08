@@ -3,12 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label     "Rechazar ventanas emergentes de este sitio">
-<!ENTITY popupWindowRejectCmd.accesskey "R">
-<!ENTITY popupWindowAllowCmd.label      "Permitir ventanas emergentes de este sitio">
-<!ENTITY popupWindowAllowCmd.accesskey  "a">
-
-<!-- Context Menu -->
 <!ENTITY openLinkCmdInTab.label       "Abrir enlace en nueva pestaña">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Abrir enlace en nueva ventana">

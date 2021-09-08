@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Limpiar">
 
-<!ENTITY fillLoginMenu.label          "Llenar con inicio de sesión">
-<!ENTITY fillLoginMenu.accesskey      "L">
-<!ENTITY fillPasswordMenu.label       "Llenar contraseña">
-<!ENTITY fillPasswordMenu.accesskey   "L">
-<!ENTITY fillUsernameMenu.label       "Llenar nombre de usuario">
-<!ENTITY fillUsernameMenu.accesskey   "L">
-<!ENTITY noLoginSuggestions.label     "(Sin sugerencias de inicio de sesión)">
-<!ENTITY viewSavedLogins.label        "Ver ingresos guardados">

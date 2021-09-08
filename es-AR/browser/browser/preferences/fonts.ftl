@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fuentes
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fuentes para
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Tamaño
     .accesskey = T
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monoespaciada
     .accesskey = M
+
 fonts-monospace-size = Tamaño
     .accesskey = a
+
 fonts-minsize = Tamaño mínimo de fuente
     .accesskey = o
+
 fonts-minsize-none =
     .label = Ninguno
+
 fonts-allow-own =
     .label = Permitir que las páginas elijan sus propias tipografías en lugar de las selecciones anteriores
     .accesskey = a
@@ -102,42 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Codificación de caracteres para contenido heredado
-fonts-languages-fallback-desc = Esta codificación de caracteres es usada para contenido heredado que falló en la declaración de su codificación.
-fonts-languages-fallback-label = Codificación de texto de emergencia
-    .accesskey = t
-fonts-languages-fallback-name-auto =
-    .label = Predeterminado de la localización actual
-fonts-languages-fallback-name-arabic =
-    .label = Árabe
-fonts-languages-fallback-name-baltic =
-    .label = Báltico
-fonts-languages-fallback-name-ceiso =
-    .label = Europeo central, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Europeo central, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Chino, simplificado
-fonts-languages-fallback-name-traditional =
-    .label = Chino, tradicional
-fonts-languages-fallback-name-cyrillic =
-    .label = Cirílico
-fonts-languages-fallback-name-greek =
-    .label = Griego
-fonts-languages-fallback-name-hebrew =
-    .label = Hebreo
-fonts-languages-fallback-name-japanese =
-    .label = Japonés
-fonts-languages-fallback-name-korean =
-    .label = Coreano
-fonts-languages-fallback-name-thai =
-    .label = Tailandés
-fonts-languages-fallback-name-turkish =
-    .label = Turco
-fonts-languages-fallback-name-vietnamese =
-    .label = Vietnamita
-fonts-languages-fallback-name-other =
-    .label = Otro (incl. europeo occidental)
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
