@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Zacyniś
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Nastajenja
-           *[other] Nastajenja
-        }
-
 preferences-doc-title = Nastajenja
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Zachyśiś
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Dalej
 
-addons-button = Rozšyrjenja a drastwy
-
 account-button = Kontowe nastajenja
 open-addons-sidebar-button = Dodanki a drastwy
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby głowne gronidło napórał. To wěstotu wašych kontow šćita.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = głowne gronidło napóraś
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby głowne gronidło napórał. To wěstotu wašych kontow šćita.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Pśiměriś…
     .accesskey = m
-
-tray-icon-label =
-    .label = Symbol we wótkładnicy pokazaś
-    .accesskey = t
 
 biff-use-system-alert =
     .label = Systemowu powěźeńku wužywaś
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Barwa:
     .accesskey = B
-
-search-input =
-    .placeholder = Pytać
 
 search-handler-table =
     .placeholder = Wopśimjeśowe typy a akcije filtrowaś
@@ -723,16 +698,6 @@ passwords-button =
     .label = Składowane gronidła…
     .accesskey = S
 
-master-password-description = Głowne gronidło šćita wšykne waše gronidła, ale musyśo jo jaden raz na pósejźenje zapódaś.
-
-master-password-label =
-    .label = Głowne gronidło wužywaś
-    .accesskey = G
-
-master-password-button =
-    .label = Głowne gronidło změniś…
-    .accesskey = o
-
 
 primary-password-description = Głowne gronidło šćita wšykne waše gronidła, ale musyśo jo jaden raz na pósejźenje zapódaś.
 
@@ -913,26 +878,6 @@ no-preview-description = Toś ta drastwa njejo płaśiwa abo njejo tuchylu k dis
 chat-variant-label =
     .value = Warianta:
     .accesskey = W
-
-chat-header-label =
-    .label = Głowu pokazaś
-    .accesskey = G
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] W nastajenjach pytaś
-           *[other] W nastajenjach pytaś
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

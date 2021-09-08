@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Wšykne websedła wótwónoźeś
     .accesskey = s
 
-permissions-button-cancel =
-    .label = Pśetergnuś
-    .accesskey = P
-
-permissions-button-ok =
-    .label = Změny składowaś
-    .accesskey = s
-
 permission-dialog =
     .buttonlabelaccept = Změny składowaś
     .buttonaccesskeyaccept = s

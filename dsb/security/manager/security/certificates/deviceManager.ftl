@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Serijowy numer
 
-fips-nonempty-password-required = Modus FIPS se pomina, až nastajaśo głowne gronidło za kuždy wěstotny rěd. Pšosym nastajśo gronidło, pjerwjej až wopytajośo, modus FIPS zmóžniś.
-
 fips-nonempty-primary-password-required = Modus FIPS se pomina, až nastajaśo głowne gronidło za kuždy wěstotny rěd. Pšosym nastajśo gronidło, pjerwjej až wopytajośo, modus FIPS zmóžniś.
 unable-to-toggle-fips = Njejo móžno, FIPS-modus za wěstotny rěd změniś. Pśiraźujo se, až kóńcyśo toś to nałozenje a startujośo jo znowego.
 load-pk11-module-file-picker-title = Wubjeŕśo rědowy gónjak PKCS#11, kótaryž ma se zacytaś

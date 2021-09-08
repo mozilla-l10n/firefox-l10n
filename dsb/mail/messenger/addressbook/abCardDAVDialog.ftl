@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Dalej
     .buttonaccesskeyaccept = D
 
-carddav-experimental-warning = Pódpěra za CardDAV-adresnik jo eksperimentelny a mógła waše daty na pśecej wobškóźiś. Wužywajśo jen na swójo riziko.
-
-carddav-provider-label =
-    .value = CardDAV-póbitowaŕ
-    .accesskey = C
-
-carddav-provider-option-other = Drugi póbitowaŕ…
-
-carddav-url-label =
-    .value = CardDAV-URL:
-    .accesskey = V
-
 carddav-username-label =
     .value = Wužywarske mě:
     .accesskey = u
-carddav-username-input =
-    .placeholder = wy@example.com
-
-carddav-password-label =
-    .value = Gronidło:
-    .accesskey = G
-carddav-password-input =
-    .placeholder = Gronidło
-
-carddav-remember-password =
-    .label = Gronidło se spomniś
-    .accesskey = o
 
 carddav-location-label =
     .value = Městno:

@@ -35,9 +35,6 @@ connection-proxy-http = HTTP-proksy
     .accesskey = H
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Teke toś ten proksy za FTP a HTTPS wužywaś
-    .accesskey = t
 
 connection-proxy-https-sharing =
     .label = Teke toś ten proksy za HTTPS wužywaś
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS-proksy
     .accesskey = H
 connection-proxy-ssl-port = Port
     .accesskey = o
-
-connection-proxy-ftp = FTP-proksy
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = r
 
 connection-proxy-socks = SOCKS Host
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Žeden proksy za
     .accesskey = d
 
 connection-proxy-noproxy-desc = Pśikład: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Zwiski z localhost, 127.0.0.1 a ::1 nigda pśez proksy njejdu.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Zwiski z localhost, 127.0.0.1/8 a ::1 nigda pśez proksy njejdu.

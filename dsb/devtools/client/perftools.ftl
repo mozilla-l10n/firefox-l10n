@@ -96,8 +96,6 @@ perftools-thread-img-decoder =
     .title = Nitki dekoděrowanja wobrazow
 perftools-thread-dns-resolver =
     .title = Na toś tej nitce se DNS-rozeznaśe stawa
-perftools-thread-js-helper =
-    .title = Slězynowe źěło JS-pógónjenje ako na pś. kompilěrowanja zwenka głowneje nitki
 
 perftools-thread-task-controller =
     .title = Nitki nitkowego poola TaskController

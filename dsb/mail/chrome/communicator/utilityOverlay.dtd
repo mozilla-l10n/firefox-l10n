@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "W">
 <!ENTITY deleteCmd.label          "Wulašowaś">
 <!ENTITY deleteCmd.accesskey        "l">
-<!ENTITY preferencesCmd2.label "Nastajenja">
-<!ENTITY preferencesCmd2.accesskey "N">
-<!ENTITY preferencesCmdUnix.label       "Nastajenja">
-<!ENTITY preferencesCmdUnix.accesskey     "t">
 
 <!ENTITY customizeCmd.label "Pśiměriś">
 <!ENTITY customizeCmd.accesskey "m">

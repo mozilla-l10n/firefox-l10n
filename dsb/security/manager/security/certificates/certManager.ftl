@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Maśo certifikaty wót toś tych organizacijow, kótarež was identificěruju
 certmgr-remembered = Toś te certifikaty se wužywaju, aby was na websedłach identificěrowali.
 certmgr-people = Maśo certifikaty wó dataji, kótarež identificěruju toś tych luźi
-certmgr-servers = Maśo certifikaty w dataji, kótarež identificěruju toś te serwery
 certmgr-server = Toś te zapiski zmólkowe wuwześa serwerowego certifikata identificěruju
 certmgr-ca = Maśo certifikaty w dataji, kótarež identificěruju toś te certifikatowe awtority
-
-certmgr-detail-general-tab-title =
-    .label = Powšykne
-    .accesskey = P
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Drobnostki
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Certifikat se tuchylu pśespytujo…
-
-certmgr-subject-label = Wudany za
-
-certmgr-issuer-label = Wudany wót
-
-certmgr-period-of-validity = Cas płaśiwosći
-
-certmgr-fingerprints = Palcowe wótśišće
-
-certmgr-cert-detail =
-    .title = Drobnostka certifikata
-    .buttonlabelaccept = Zacyniś
-    .buttonaccesskeyaccept = Z
-
-certmgr-cert-detail-commonname = Powšykne mě (CN)
-
-certmgr-cert-detail-org = Organizacija (O)
-
-certmgr-cert-detail-orgunit = Organizaciska jadnotka (OU)
-
-certmgr-cert-detail-serial-number = Serijowy numer
-
-certmgr-cert-detail-sha-256-fingerprint = Palcowy wótśišć SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Palcowy wótśišć SHA1
 
 certmgr-edit-ca-cert =
     .title = Nastajenja dowěrygódnosći certifikata certifikatoweje awtority wobźěłaś
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Wěstotny rěd
 
-certmgr-begins-on = Zachopijo se
-
 certmgr-begins-label =
     .label = Zachopijo se
-
-certmgr-expires-on = Płaśiwy do
 
 certmgr-expires-label =
     .label = Płaśiwy do
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Importěrowaś…
     .accesskey = I
-
-certmgr-details =
-    .value = Póla certifikata
-    .accesskey = c
-
-certmgr-fields =
-    .value = Gódnota póla
-    .accesskey = G
-
-certmgr-hierarchy =
-    .value = Certifikatowa hierarchija
-    .accesskey = h
 
 certmgr-add-exception =
     .label = Wuwześe pśidaś…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Cośo napšawdu toś te certifikaty wulašowaś?
 delete-user-cert-impact = Jolic wulašujośo jaden ze swójich certifikatow, njamóžośo wěcej jen wužywaś, aby was identificěrował.
 
 
-delete-ssl-cert-title =
-    .title = Serwerowe wuwześa certifikata wulašowaś
-delete-ssl-cert-confirm = Cośo napšawdu toś te serwerowe wuwześa lašowaś?
-delete-ssl-cert-impact = Jolic wulašujośo serwerowe wuwześe, wóbnowijośo zwucone kontrole wěstoty za ten serwer a jo trěbne, až wón wužywa płaśiwy certifikat.
-
-
 delete-ssl-override-title =
     .title = Serwerowe wuwześe certifikata wulašowaś
 delete-ssl-override-confirm = Cośo napšawdu toś to serwerowe wuwześe lašowaś?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Certifikat ze serijowym numerom: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Certifikatowy wobglědowak: “{ $certName }”
-
-not-present =
-    .value = <Njejo źěl certifikata>
-
-# Cert verification
-cert-verified = Toś ten certifikat jo se za slědujuce wužyśa pśespytał:
-
-# Add usage
-verify-ssl-client =
-    .value = Klientowy certifikat SSL
-
-verify-ssl-server =
-    .value = Serwerowy certifikat SSL
-
-verify-ssl-ca =
-    .value = Certifikatowa awtorita SSL
-
-verify-email-signer =
-    .value = Certifikat e-mailowego pódpisanego
-
-verify-email-recip =
-    .value = Certifikat e-mailowego dostawarja
-
-# Cert verification
-cert-not-verified-cert-revoked = Toś ten certifikat njedajo se pśespytaś, dokulaž jo se wótwołał.
-cert-not-verified-cert-expired = Toś ten certifikat njedajo se pśespytaś, dokulaž jo pśepadnjony.
-cert-not-verified-cert-not-trusted = Toś ten certifikat njedajo se pśespytaś, dokulaž njejo dowěry gódny.
-cert-not-verified-issuer-not-trusted = Toś ten certifikat njedajo se pśespytaś, dokulaž wudawaŕ njejo dowěry gódny.
-cert-not-verified-issuer-unknown = Toś ten certifikat njedajo se pśespytaś, dokulaž wudawaŕ jo njeznaty.
-cert-not-verified-ca-invalid = Toś ten certifikat njedajo se pśespytaś, dokulaž certifikat certifikatoweje awtority jo njepłaśiwy.
-cert-not-verified_algorithm-disabled = Toś ten certifikat njedajo se pśespytaś, dokulaž jo se ze signěrowańskim algoritmom signěrował, kótaryž jo se znjemóžnił, dokulaž algoritmus njejo wěsty.
-cert-not-verified-unknown = Toś ten certifikat njedajo se z njeznatych pśicynow pśespytaś.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Žeden klientowy certifikat pósłaś

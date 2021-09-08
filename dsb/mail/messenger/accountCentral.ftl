@@ -49,9 +49,6 @@ import-label = Importěrowaś
 
 about-paragraph = Thunderbird jo wjeducy program wótwórjonego žrědła za e-mail a źěło z kalendrami na někotarych platformach a jo dermotny za komercielne a priwatne wužyśe. Comy, až wóstanjo wěsty a se samo pólěpša. Pósćiwanka nam zmóžnja, wuwijarje pśistajiś, infrastruktura płaśiś a jen dalej pólěpšyś.
 
-about-paragraph-2 = <b>Thudnerbird se wót wužywarjow kaž wy financěrujo! Jolic Thunderbird lubujośo, pósććo pšosym!</b> Nejlěpša móžnosć za was, aby Thunderbird k dispoziciji wóstał, jo
-about-donation = pósćiś
-
 about-paragraph-consider-donation = <b>Thunderbird se pśez pósćiwanki financěrujo! Jolic se Thunderbird wam spódoba, rozwažćo pósćiwanku.</b> Aby zawěsćił, až Thunderbird dalej eksistěrujo, <a data-l10n-name="donation-link"> pósććo pšosym.</a>
 
 explore-link = Funkcije wuslěźiś

@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Wšykne sedła wótwónoźeś
     .accesskey = t
 
-translation-button-close =
-    .label = Zacyniś
-    .accesskey = Z
-
 translation-dialog =
     .buttonlabelaccept = Zacyniś
     .buttonaccesskeyaccept = Z

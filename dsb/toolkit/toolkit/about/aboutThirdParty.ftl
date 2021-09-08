@@ -10,9 +10,6 @@ third-party-intro =
     { -brand-short-name } injicěrowali. Kuždy modul, kótaryž njejo signěrowany wót Microsoft abo
     { -vendor-short-name }, maju za modul tśeśego póbitowarja.
 
-third-party-header-module-list = Lisćina modulow
-third-party-header-loading-events = Zacytanje tšojenjow
-
 third-party-message-empty = Žedne module tśeśich póbitowarjow namakane.
 third-party-message-no-duration = Njenagraty
 

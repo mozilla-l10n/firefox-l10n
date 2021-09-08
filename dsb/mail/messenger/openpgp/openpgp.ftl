@@ -129,10 +129,6 @@ openpgp-key-send-key =
     .label = Zjawny kluc pśez e-mail pósłaś
     .accesskey = l
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Zjawne kluce do mjazywótkłada kopěrowaś
-    .accesskey = Z
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -165,8 +161,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Kluce do dataje eksportěrowaś
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Zjawne kluce do mjazywótkłada kopěrowaś
 
 openpgp-key-man-ctx-copy =
     .label = Kopěrowaś
@@ -326,17 +320,6 @@ openpgp-description =
        *[other] Thunderbird ma { $count } wósobinskich OpenPGP-klucow za <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Wubjeŕśo płaśiwy kluc, aby OpenPGP-protokol zmóžnił.
-        [one] Waša aktualna konfiguracija klucowy ID <b>{ $key }</b> wužywa
-        [two] Waša aktualna konfiguracija klucowej ID <b>{ $key }</b> wužywa
-        [few] Waša aktualna konfiguracija klucowe ID <b>{ $key }</b> wužywa
-       *[other] Waša aktualna konfiguracija klucowe ID <b>{ $key }</b> wužywa
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Waša aktualna konfiguracija klucowe ID <b>{ $key }</b> wužywa
 
@@ -369,14 +352,8 @@ openpgp-radio-key-not-found = Toś ten kluc njedajo se namakaś! Jolic cośo jen
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Spadnjo: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Kluc za mjenjej ako 6 mjasecow spadnjo
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Jo spadnuł: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Kluč jo spadnuł
 
 openpgp-key-expires-within-6-months-icon =
     .title = Kluc za mjenjej ako 6 mjasecow spadnjo
@@ -700,7 +677,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Sćo nastajił smužkowe łamanje pla { $width } znamuškow. Za korektne koděrowanje a/abo signěrowanje, musy toś ta gódnota nanejmjenjej 68 byś.
     Cośo něnto smužkowe łamanje do 68 znamuškow změniś?
-sending-hidden-rcpt = Dostawarje schowanych kopijow (BCC) njedaju se wužywaś, gaž se skoděrowana powěsć sćelo. Aby toś tu skoděrowanu powěsć pósłał, wótwónoźćo pak dostawarje schowanych kopijow pak pśesuńśo jich do póla Kopija.
 sending-news =
     Skoděrowane słanje jo se pśetergnuło.
     Toś ta powěsć njedajo se koděrowaś, dokulaž njedaju dostowarje diskusijneje kupki. Pšosym sćelśo powěsć znowego bźez skoděrowanja.
@@ -767,9 +743,6 @@ enig-info = OpenPGP-informacije
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Hyšći raz wopytaś
 dlg-button-skip = &Pśeskócyś
-
-# Strings used in enigmailCommon.js
-enig-error = OpenPGP-zmólka
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

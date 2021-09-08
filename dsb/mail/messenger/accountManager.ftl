@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = Nastajenja { -brand-short-name }
 
 open-addons-sidebar-button = Dodanki a drastwy
+
