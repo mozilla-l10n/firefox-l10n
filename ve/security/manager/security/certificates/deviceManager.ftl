@@ -101,8 +101,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Nomboro ya Seriala
 
-fips-nonempty-password-required = Moudu wa FIPS u toda zwauri ni vhe na Phasiwede Khulwane yo dzudzanyelwaho tshishumiswa tsha tsireledzo tshinwe na tshinwe. Ni khou humbelwa uri ni dzudzanye phasiwede musi ni saathu u tendela moudu wa FIPS.
-
 add-module-failure = A thi koni u engedza modzhulu
 del-module-warning = Ni na vhutanzi ho fhelelaho ha uri ni khou toda u thutha uyu modzhulu wa tsireledzo?
 del-module-error = A thi koni u thutha modzhulu

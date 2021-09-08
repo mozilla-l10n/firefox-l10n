@@ -11,27 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Vhahulwane
 
-certmgr-subject-label = I Bviselwa
-
-certmgr-issuer-label = Yo Bviswa Nga
-
-certmgr-fingerprints = Khanḓiso dza minwe
-
-certmgr-cert-detail =
-    .title = Zwidodombedzwa zwa Ṱhanziela
-    .buttonlabelaccept = Close
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = Dzina ḽo Ḓoweleaho (CN)
-
-certmgr-cert-detail-org = Dzangano (O)
-
-certmgr-cert-detail-orgunit = Tshipiḓa tsha Dzangano (OU)
-
-certmgr-cert-detail-serial-number = Nomboro ya nga u londa
-
-certmgr-cert-detail-sha-1-fingerprint = Khanḓiso dza minwe dza SHA1
-
 certmgr-edit-ca-cert =
     .title = Lulamisani nzudzanyo ya ṱhanziela dza fulufhelo kha CA
     .style = width: 48em;
@@ -54,8 +33,6 @@ certmgr-cert-name =
 certmgr-token-name =
     .label = Tshishumswa tsha Tsireledzo
 
-certmgr-expires-on = I Khou Fhelelwa Nga
-
 certmgr-expires-label =
     .label = I Khou Fhelelwa Nga
 
@@ -64,14 +41,6 @@ certmgr-email =
 
 certmgr-serial =
     .label = Nomboro ya u Londa
-
-certmgr-details =
-    .value = Certificate Fields
-    .accesskey = F
-
-certmgr-fields =
-    .value = Field Value
-    .accesskey = V
 
 pk11-bad-password = Phasiwedo yo dzheniswaho yo khakhea.
 pkcs12-decode-err = Yo kundelwa u talutshedza faela.  Khamusi ha i ho kha maitele a PKCS #12, kana yo tshinyadzwa, kana phasiwede ye na dzhenisa yone yo khakhea.
@@ -111,37 +80,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = Ni na vhuṱanzi ho fhelelaho ha uri ni khou ṱoḓa u thutha ṱhanziela dza e-meili dza avha vhathu?
 
 ## Cert Viewer
-
-not-present =
-    .value = <A Si Tshipida tsha Thanziela>
-
-# Cert verification
-cert-verified = Thanziela yo khwathisedzwa u itela u shumisa kha mishumo i tevhelaho:
-
-# Add usage
-verify-ssl-client =
-    .value = Thanziela ya Khasitama ya SSL
-
-verify-ssl-server =
-    .value = Thanziela ya Seva ya SSL
-
-verify-ssl-ca =
-    .value = Mulayo wa Thanziela ya SSL
-
-verify-email-signer =
-    .value = Thanziela ya u Saina Emeili
-
-verify-email-recip =
-    .value = Thanziela ya Mutanganedzi wa Emeili
-
-# Cert verification
-cert-not-verified-cert-revoked = A yo ngo kona u khwathisedza hei ṱhanziela ngauri yo dzivhiswa.
-cert-not-verified-cert-expired = A yo ngo kona u khwathisedza hei ṱhanziela ngauri yo fhelelwa nga tshifhinga.
-cert-not-verified-cert-not-trusted = A yo ngo kona u khwathisedza hei ṱhanziela ngauri a i fulufhelwi.
-cert-not-verified-issuer-not-trusted = A yo ngo kona u khwathisedza hei ṱhanziela ngauri mushumisi ha fulufhelwi.
-cert-not-verified-issuer-unknown = A yo ngo kona u khwaṱhisedza hei thanziela ngauri mushumisi ha divhei.
-cert-not-verified-ca-invalid = A yo ngo kona u khwaṱhisedza hei thanziela ngauri thanziela ya CA a i ho mulayoni.
-cert-not-verified-unknown = A yo ngo kona u khwaṱthisedza hei ṱhanziela nga ndivho dzi sa divheiho.
 
 ## Used to show whether an override is temporary or permanent
 

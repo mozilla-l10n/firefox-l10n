@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Khwinifhadzani...
-
 ## Zoom Controls
 
 appmenuitem-new-window =

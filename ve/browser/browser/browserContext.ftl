@@ -5,17 +5,6 @@
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Humelani murahu siaṱari ḽithihi
-    .aria-label = Murahu
-    .accesskey = M
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -35,17 +24,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Iyani phanḓa siaṱari ḽithihi
-    .aria-label = Phanḓa
-    .accesskey = P
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -106,9 +84,6 @@ main-context-menu-page-save =
     .label = Vhulungani Siaṱari Sa...
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link-new-tab =
@@ -136,10 +111,6 @@ main-context-menu-copy-email =
     .label = Kopani Ḓiresi ya Emeiḽi
     .accesskey = Ḓ
 
-main-context-menu-copy-link =
-    .label = Kopani Fhethu ha Ṱhumanyo
-    .accesskey = K
-
 ## Media (video/audio) controls
 ##
 ## The accesskey for "Play" and "Pause" are the
@@ -156,29 +127,13 @@ main-context-menu-copy-link =
 
 ##
 
-main-context-menu-image-view =
-    .label = Lavhelesani Tshivhumbeo
-    .accesskey = T
-
 main-context-menu-image-copy =
     .label = Kopani Tshivhumbeo
-    .accesskey = k
-
-main-context-menu-image-copy-location =
-    .label = Kopani Fhethu ha Tshivhumbeo
     .accesskey = k
 
 main-context-menu-image-save-as =
     .label = Vhulungani Tshivhumbeo Sa...
     .accesskey = v
-
-main-context-menu-image-set-as-background =
-    .label = Vheani sa Siangene ya Desikethopho...
-    .accesskey = V
-
-main-context-menu-view-background-image =
-    .label = Lavhelesani Tshivhumbeo tsha Siangane
-    .accesskey = l
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -230,10 +185,6 @@ main-context-menu-view-selection-source =
 main-context-menu-view-page-source =
     .label = Tshiko tsha u Lavhelesa Siaṱari
     .accesskey = T
-
-main-context-menu-view-page-info =
-    .label = Lavhelesani Siaṱari Vhuṱanzi
-    .accesskey = V
 
 main-context-menu-bidi-switch-text =
     .label = Shandukisani Tsumbavhuyo ha Ḽiṅwalwa

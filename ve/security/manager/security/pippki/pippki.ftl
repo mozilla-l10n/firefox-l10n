@@ -6,9 +6,6 @@ password-quality-meter = Mitha wa ndeme ya phasiwede
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Shandukisani Phasiwede Khulwane
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Tshiimiswa tsha Tsireledzo: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Phasiwde Ntswa (hafhu):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Dzudzanyani Hafhu Phasiwede Khulwane
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = U dzudzanya hafhu
-reset-password-text = Arali na dzudzanya hafhu phasiwede khulwane, web na meiḽi dzaṋu dzoṱhe dzo vhulungwaho, vhuṱanzi ha fomo, ṱhanziela dzaṋu inwi muṋe, na khii dza phuraivethe dzo ḓo hangwiwa. Ni na vhuṱanzi ho fhelelaho ha uri ni khou ṱoḓa u dzudzanya hafhu phasiwede yaṋu?
 
 ## Downloading cert dialog
 

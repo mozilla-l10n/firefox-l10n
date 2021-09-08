@@ -106,6 +106,7 @@ urlbar-go-button =
 
 bookmarks-sidebar-content =
     .aria-label = Tswayo dza Bugu
+
 bookmarks-toolbar-menu =
     .label = Tshibuḽoko tsha Zwishumiswa tsha Tswayo dza Bugu
 bookmarks-toolbar-placeholder =
@@ -152,6 +153,7 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = Tendelani zwithuthubi kha { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Thivhelani zwithuthubi kha { $uriHost }
     .accesskey = p
@@ -161,3 +163,4 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ni songo sumbedza hoyu mulaedza musi zwithuthubi zwo thivhelwa
     .accesskey = D
+
