@@ -5,11 +5,6 @@
 containers-window-new =
     .title = ಹೊಸ ಕಂಟೈನರ್ ಸೇರಿಸಿ
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } ಕಂಟೈನರ್ ಆದ್ಯತೆಗಳು
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = ಲಾಂಛನ
 containers-color-label = ಬಣ್ಣ
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = ಆಯಿತು
-    .accesskey = D
 
 containers-color-blue =
     .label = ನೀಲಿ

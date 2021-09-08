@@ -27,11 +27,3 @@ clear-site-data-cache-empty =
     .label = ಕ್ಯಾಶ್ ಮಾಡಲಾದ ಜಾಲದ ವಿಷಯಗಳು
     .accesskey = W
 
-clear-site-data-cancel =
-    .label = ರದ್ದು ಮಾಡು
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = ಅಳಿಸು
-    .accesskey = l
-

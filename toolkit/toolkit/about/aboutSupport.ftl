@@ -10,11 +10,6 @@ crashes-id = ವರದಿ ID
 crashes-send-date = ಸಲ್ಲಿಸಲಾಗಿದೆ
 crashes-all-reports = ಎಲ್ಲ ಕ್ರಿಯಾವೈಫಲ್ಯಗಳ ವರದಿಗಾರ
 crashes-no-config = ಈ ಅನ್ವಯವನ್ನು ಕ್ರಿಯಾವೈಫಲ್ಯ ವರದಿಗಳನ್ನು ಪ್ರದರ್ಶಿಸುವಂತೆ ಸಂರಚಿಸಲಾಗಿಲ್ಲ.
-extensions-title = ವಿಸ್ತರಣೆಗಳು
-extensions-name = ಹೆಸರು
-extensions-enabled = ಶಕ್ತಗೊಳಿಸಲಾದ
-extensions-version = ಆವೃತ್ತಿ
-extensions-id = ID
 support-addons-name = ಹೆಸರು
 support-addons-version = ಆವೃತ್ತಿ
 support-addons-id = ID
@@ -83,8 +78,6 @@ sandbox-sys-call-age = ಸೆಕೆಂಡುಗಳ ಮುನ್ನ
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-args = ವಾದಗಳು
-safe-mode-title = ಸುರಕ್ಷಾ ಸ್ಥಿತಿ ಪ್ರಯತ್ನಿಸಿ
-restart-in-safe-mode-label = ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿ ಆರಂಭಿಸು…
 
 ## Media titles
 
@@ -194,19 +187,12 @@ gpu-ram = RAM
 gpu-driver-version = ಚಾಲಕ ಆವೃತ್ತಿ
 gpu-driver-date = ಚಾಲಕ ದಿನಾಂಕ
 gpu-active = ಸಕ್ರಿಯ
-blocklisted-bug = ಗೊತ್ತಿರುವ ಸಮಸ್ಯೆಗಳಿಂದಾಗಿ ಪಟ್ಟಿಸಲಾಗಿದೆ
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = ದೋಷ { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ; ವಿಫಲತೆ ಸಂಕೇತ { $failureCode }
 
 d3d11layers-crash-guard = D3D11 ಸಂರಚಕ
-d3d11video-crash-guard = D3D11 ವೀಡಿಯೊ ಡೀಕೋಡರ್
-d3d9video-crash-guard = D3D9 ವೀಡಿಯೊ ಡೀಕೋಡರ್
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = ಮತ್ತೆ ಶುರುಮಾಡಿದಾಗ ಹಿಂದಿನ ಸ್ಥಿತಿಗೆ ಸ್ಥಾಪಿಸು
@@ -227,14 +213,6 @@ sandbox-proc-type-media-plugin = ಮೀಡಿಯ ಪ್ಲಗಿನ್
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = ಬಳಕೆದಾರರಿಂದ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ
-multi-process-status-1 = ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ
-multi-process-status-2 = ನಿಷ್ಕ್ರಿಯಗೊಂಡ
-multi-process-status-4 = ಎಕ್ಸೆಬಿಲಿಟಿ ಉಪಕರಣಗಳಿಂದ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ
-multi-process-status-6 = ಬೆಂಬಲವಿರದ ಪಠ್ಯ ಇನ್‌ಪುಟ್‌ ಪಠ್ಯದಿಂದ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ
-multi-process-status-7 = ಆಡ್-ಆನ್‍ಗಳಿಂದ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ
-multi-process-status-8 = ಬಲವಂತವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ
-multi-process-status-unknown = ಅಜ್ಞಾತ ಸ್ಥಿತಿ
 
 async-pan-zoom = ಅಸಮಕಾಲೀನ Pan/Zoom
 apz-none = ಯಾವುದೂ ಇಲ್ಲ

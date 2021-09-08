@@ -7,28 +7,6 @@ do-not-track-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 do-not-track-option-always =
     .label = ಯಾವಾಗಲೂ
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] ಆಯ್ಕೆಗಳು
-       *[other] ಆದ್ಯತೆಗಳು
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] ಆಯ್ಕೆಗಳಲ್ಲಿ ಹುಡುಕು
-           *[other] ಆದ್ಯತೆಗಳಲ್ಲಿ ಹುಡುಕು
-        }
-
 pane-general-title = ಸಾಮಾನ್ಯ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -83,14 +61,6 @@ search-results-help-link = ಸಹಾಯ ಬೇಕೆ? ಭೇಟಿ ಮಾಡಿ 
 
 startup-header = ಆರಂಭಿಕ
 
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = { -brand-short-name } ಅನ್ನು ಮತ್ತು Firefox ಅನ್ನು ಏಕಕಾಲಕ್ಕೆ ಚಲಾಯಿತಗೊಳ್ಳಲು ಅನುಮತಿಸಿ
-use-firefox-sync = ಸೂಚನೆ: ಇದು ಪ್ರತ್ಯೇಕ ಪ್ರೊಫೈಲ್‌ಗಳನ್ನು ಬಳಸುತ್ತದೆ. ಅವುಗಳ ನಡುವೆ ದತ್ತಾಂಶವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು { -sync-brand-short-name } ಬಳಸಿ.
-get-started-not-logged-in = { -sync-brand-short-name }ಗೆ ಸೈನ್-ಇನ್ ಆಗು…
-get-started-configured = { -sync-brand-short-name } ಆದ್ಯತೆಗಳನ್ನು ತೆರೆ
-
 always-check-default =
     .label = ಯಾವಾಗಲೂ { -brand-short-name } ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವಾಗಿದೆಯೆ ಎಂದು ಪರೀಕ್ಷಿಸಿ
     .accesskey = y
@@ -126,10 +96,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = ಅನೇಕ ಹಾಳೆಗಳನ್ನು ತೆರೆಯುವುದಾಗ { -brand-short-name }ವನ್ನು ನಿಧಾನಗೊಂಡರೆ ನನ್ನನ್ನು ಎಚ್ಚರಿಸು
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ನಾನು ಒಂದು ಕೊಂಡಿಯನ್ನು ತೆರೆದಾಗ, ತಕ್ಷಣ ಅದಕ್ಕೆ ಬದಲಾಯಿಸು
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = ಹಾಳೆಗಳ ಮುನ್ನೋಟವನ್ನು ವಿಂಡೋಸ್ ಕಾರ್ಯಪಟ್ಟಿಕೆಯಲ್ಲಿ ತೋರಿಸು
@@ -259,11 +225,6 @@ applications-manage-app =
     .label = ಅನ್ವಯ ವಿವರಗಳು…
 applications-always-ask =
     .label = ಪ್ರತಿ ಬಾರಿಯೂ ಕೇಳು
-applications-type-pdf = ಪೋರ್ಟೆಬಲ್ ಡಾಕ್ಯುಮೆಂಟ್ ಫಾರ್ಮ್ಯಾಟ್ (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -452,8 +413,6 @@ search-suggestions-option =
 
 search-suggestions-cant-show = ಎಂದಿಗೂ ಸಹ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಡ ಎಂದು ನೀವು { -brand-short-name } ಅನ್ನು ಸಂರಚಿಸಿರುವುದರಿಂದ ಹುಡುಕುವಾಗ ಸ್ಥಳದ ಪಟ್ಟಿಯ ಫಲಿತಾಂಶಗಳಲ್ಲಿ ಯಾವುದೆ ಸಲಹೆಗಳನ್ನು ತೋರಿಸಲಾಗುವುದಿಲ್ಲ.
 
-search-one-click-header = ಏಕ-ಕ್ಲಿಕ್ ಹುಡುಕು ಎಂಜಿನ್‌ಗಳು
-
 search-choose-engine-column =
     .label = ಹುಡುಕು ಎಂಜಿನ್‌
 search-choose-keyword-column =
@@ -484,9 +443,6 @@ containers-add-button =
     .label = ಹೊಸ ಕಂಟೈನರ್ ಸೇರಿಸಿ
     .accesskey = A
 
-containers-preferences-button =
-    .label = ಆದ್ಯತೆಗಳು
-
 containers-remove-button =
     .label = ತೆಗೆದುಹಾಕು
 
@@ -497,7 +453,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = ಜಾಲವನ್ನು ನಿಮ್ಮೊಂದಿಗೆ ಒಯ್ಯಿರಿ
-sync-signedout-description = ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ ಜೊತೆ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು, ಇತಿಹಾಸ, ಹಾಳೆ, ಪ್ರವೇಶ ಪದ, ಆಡ್-ಆನ್‌ಗಳು, ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -584,14 +539,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = ಉಳಿಸಿದ ಲಾಗಿನ್‌ಗಳು...
     .accesskey = L
-forms-master-pw-use =
-    .label = ಒಂದು ಮಾಸ್ಟರ್ ಗುಪ್ತಪದವನ್ನು ಬಳಸು
-    .accesskey = U
 forms-master-pw-change =
     .label = ಮಾಸ್ಟರ್ ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸು...
     .accesskey = M
-
-forms-master-pw-fips-title = ನೀವು ಸದ್ಯಕ್ಕೆ FIPS ವಿಧಾನದಲ್ಲಿದ್ದೀರಿ. FIPS ಗೆ ಒಂದು ಖಾಲಿ ಇರದ ಮಾಸ್ಟರ್ ಗುಪ್ತಪದದ ಅಗತ್ಯವಿದೆ.
 
 forms-master-pw-fips-desc = ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸುವಲ್ಲಿ ವಿಫಲಗೊಂಡಿದೆ
 
@@ -720,8 +670,6 @@ permissions-addon-exceptions =
     .label = ವಿನಾಯಿತಿಗಳು...
     .accesskey = E
 
-permissions-a11y-privacy-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } ದತ್ತಾಂಶ ಸಂಗ್ರಹಣೆ ಮತ್ತು ಬಳಕೆ
@@ -729,8 +677,6 @@ collection-header = { -brand-short-name } ದತ್ತಾಂಶ ಸಂಗ್ರ�
 collection-privacy-notice = ಗೌಪ್ಯತಾ ಸೂಚನೆ
 
 collection-health-report-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-
-collection-backlogged-crash-reports-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 
 ## Privacy Section - Security
 ##
@@ -756,16 +702,6 @@ security-block-uncommon-software =
 
 certs-header = ಪ್ರಮಾಣಪತ್ರಗಳು
 
-certs-personal-label = ಒಂದು ಪರಿಚಾರಕವು ನನ್ನ ಖಾಸಗಿ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಪೇಕ್ಷಿಸಿದಾಗ
-
-certs-select-auto-option =
-    .label = ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಒಂದನ್ನು ಆರಿಸು
-    .accesskey = S‍
-
-certs-select-ask-option =
-    .label = ಪ್ರತಿ ಬಾರಿಯೂ ನನ್ನನ್ನು ಕೇಳು
-    .accesskey = A‍
-
 certs-enable-ocsp =
     .label = ಪ್ರಮಾಣಪತ್ರಗಳ ಪ್ರಸಕ್ತ ಮಾನ್ಯತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು OCSP ರೆಸ್ಪಾಂಡರ್ ಪೂರೈಕೆಗಣಕಗಳಿಗೆ ಮನವಿ ಮಾಡಿ
     .accesskey = Q
@@ -777,26 +713,6 @@ certs-view =
 certs-devices =
     .label = ಸುರಕ್ಷತಾ ಸಾಧನಗಳು…
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] ಆಯ್ಕೆಗಳನ್ನು ತೆರೆ
-           *[other] ಆದ್ಯತೆಗಳನ್ನು ತೆರೆ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-under-5gb-ok-button =
-    .label = OK ಸರಿ, ಗೊತ್ತಾಯಿತು
-    .accesskey = K
 
 ## Privacy Section - HTTPS-Only
 

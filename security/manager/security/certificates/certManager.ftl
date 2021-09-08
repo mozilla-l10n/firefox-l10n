@@ -17,42 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = ಅಥಾರಿಟಿಗಳು
 
-certmgr-detail-general-tab-title =
-    .label = ಸಾಮಾನ್ಯ
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = ವಿವರಣೆಗಳು
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = ಪ್ರಸ್ತುತ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ…
-
-certmgr-subject-label = ಇವರಿಗೆ ಒದಗಿಸಲಾಗಿದೆ
-
-certmgr-issuer-label = ಒದಗಿಸಿದವರು
-
-certmgr-period-of-validity = ಸಿಂಧುವಾಗಿರುವ ಅವಧಿ
-
-certmgr-fingerprints = ಬೆರಳಚ್ಚುಗಳು
-
-certmgr-cert-detail =
-    .title = ಪ್ರಮಾಣಪತ್ರದ ವಿವರಗಳು
-    .buttonlabelaccept = ಮುಚ್ಚು
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = ಸಾಮಾನ್ಯ ಹೆಸರು (CN)
-
-certmgr-cert-detail-org = ಸಂಸ್ಥೆ (O)
-
-certmgr-cert-detail-orgunit = ಸಂಸ್ಥೆಯ ಘಟಕ (OU)
-
-certmgr-cert-detail-serial-number = ಅನುಕ್ರಮ ಸಂಖ್ಯೆ
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 ಬೆರಳಚ್ಚು
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 ಬೆರಳಚ್ಚು
-
 certmgr-edit-ca-cert =
     .title = CA ಪ್ರಮಾಣಪತ್ರ ನಂಬಿಕಾ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು
     .style = width: 48em;
@@ -81,12 +45,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = ಸುರಕ್ಷತಾ ಸಾಧನ
 
-certmgr-begins-on = ಆರಂಭಗೊಳ್ಳುವುದು
-
 certmgr-begins-label =
     .label = ಆರಂಭಗೊಳ್ಳುವುದು
-
-certmgr-expires-on = ಅವಧಿ ಮುಗಿಯುವ ದಿನಾಂಕ
 
 certmgr-expires-label =
     .label = ಅವಧಿ ಮುಗಿಯುವ ದಿನಾಂಕ
@@ -128,18 +88,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = ಆಮದು ಮಾಡಿಕೊ…
     .accesskey = m
-
-certmgr-details =
-    .value = ಪ್ರಮಾಣಪತ್ರ ಕ್ಷೇತ್ರಗಳು
-    .accesskey = F
-
-certmgr-fields =
-    .value = ಕ್ಷೇತ್ರದ ಮೌಲ್ಯ
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = ಪ್ರಮಾಣಪತ್ರದ ಕ್ರಮ
-    .accesskey = H
 
 certmgr-add-exception =
     .label = ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸು…
@@ -203,12 +151,6 @@ delete-user-cert-confirm = ಈ ಜಾಲತಾಣದ ಪ್ರಮಾಣಪತ್
 delete-user-cert-impact = ನೀವು  ನಿಮ್ಮದೆ ಸ್ವಂತ ಪ್ರಮಾಣಪತ್ರಗಳಲ್ಲಿ ಒಂದನ್ನು ಅಳಿಸಿದರೆ,ನಂತರ ನೀವು ಅದನ್ನು ನಿಮ್ಮನ್ನು ನೀವು ಗುರುತಿಸಿಕೊಳ್ಳಲು ಬಳಸಲಾಗುವುದಿಲ್ಲ.
 
 
-delete-ssl-cert-title =
-    .title = ಪರಿಚಾರಕ  ಪ್ರಮಾಣಪತ್ರ ವಿನಾಯಿತಿಗಳನ್ನು ಅಳಿಸು
-delete-ssl-cert-confirm = ನೀವು ಈ ಪರಿಚಾರಕ ವಿನಾಯಿತಿಗಳನ್ನು ಅಳಿಸಲು ಖಚಿತವಾಗಿ ಬಯಸುತ್ತೀರೆ?
-delete-ssl-cert-impact = ನೀವು ಒಂದು ಪರಿಚಾರಕ ವಿನಾಯಿತಿಯನ್ನು ಅಳಿಸದರೆ, ಆ ಪರಿಚಾರಕಕ್ಕಾಗಿನ ಮಾಮೂಲಿ ಸುರಕ್ಷತಾ ಪರಿಶೀಲನೆಯನ್ನು ಮರಳಿ ಜಾರಿಗೆ ತಂದಂತಾಗುತ್ತದೆ ಹಾಗು ಅದು ಒಂದು ಮಾನ್ಯವಾದ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಬಳಸಬೇಕಾಗುತ್ತದೆ.
-
-
 delete-ca-cert-title =
     .title = CA ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಅಳಿಸು ಅಥವ ನಂಬಿಕೆಗೆ ಅನರ್ಹಗೊಳಿಸು
 delete-ca-cert-confirm = ನೀವು ಈ CA ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಅಳಿಸಲು ಆಯ್ಕೆ ಮಾಡಿದ್ದೀರಿ. ಒಳನಿರ್ಮಿತ ಪ್ರಮಾಣಪತ್ರಗಳಿಗಾಗಿ ಎಲ್ಲಾ ನಂಬಿಕೆಗಳನ್ನು ಅಳಿಸಿಹಾಕಲಾಗುತ್ತದೆ, ಇದರ ಪರಿಣಾಮವೂ ಸಹ ಅದೆ ಆಗಿರುತ್ತದೆ. ನೀವು ಅಳಿಸಲು ಅಥವ ನಂಬಿಕೆಗಳನ್ನು ಅನರ್ಹಗೊಳಿಸಲು ಬಯಸುತ್ತೀರೆ?
@@ -221,38 +163,6 @@ delete-email-cert-confirm = ನೀವು ಈ ಎಲ್ಲಾ ವಿ-ಅಂಚೆ
 delete-email-cert-impact = ನೀವು ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಇ-ಮೈಲ್‌ ಅಳಿಸಿದರೆ, ಆ ವ್ಯಕ್ತಿಗೆ ಮುಂದೆ ಗೂಢಲಿಪೀಕರಣಗೊಂಡ(ಎನ್‌ಕ್ರಿಪ್ಟ್‍ ) ಇ-ಮೈಲ್ ಅನ್ನು ಕಳುಹಿಸಲು ಸಾಧ್ಯವಿರುವುದಿಲ್ಲ.
 
 ## Cert Viewer
-
-not-present =
-    .value = <ಪ್ರಮಾಣಪತ್ರದ ಒಂದು ಭಾಗವಾಗಿಲ್ಲ>
-
-# Cert verification
-cert-verified = ಈ  ಪ್ರಮಾಣಪತ್ರವು ಈ ಕೆಳಗಿನ ಬಳಕೆಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸಲ್ಪಟ್ಟಿದೆ :
-
-# Add usage
-verify-ssl-client =
-    .value = SSL ಕ್ಲೈಂಟ್ ಪ್ರಮಾಣ ಪತ್ರ
-
-verify-ssl-server =
-    .value = SSL ಪರಿಚಾರಕ ಪ್ರಮಾಣ ಪತ್ರ
-
-verify-ssl-ca =
-    .value = SSL ಪ್ರಮಾಣಪತ್ರ ಅಥಾರಿಟಿ
-
-verify-email-signer =
-    .value = ಇಮೇಲ್ ಸೈನರ್ ಪ್ರಮಾಣಪತ್ರ
-
-verify-email-recip =
-    .value = ಇಮೇಲ್ ಸ್ವೀಕರಿಸುವ ಪ್ರಮಾಣಪತ್ರ
-
-# Cert verification
-cert-not-verified-cert-revoked = ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಇದನ್ನು ರದ್ದು ಮಾಡಲಾಗಿದೆ.
-cert-not-verified-cert-expired = ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಇದರ ಕಾಲಾವಧಿ ಅಂತ್ಯಗೊಂಡಿದೆ.
-cert-not-verified-cert-not-trusted = ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಇದನ್ನು ನಂಬಲಾಗಿಲ್ಲ.
-cert-not-verified-issuer-not-trusted = ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಇದನ್ನು ಒದಗಿಸಿದವರನ್ನು ನಂಬಲಾಗಿಲ್ಲ.
-cert-not-verified-issuer-unknown = ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಇದನ್ನು ಒದಗಿಸಿದವರು ಅಜ್ಞಾತವಾಗಿದ್ದಾರೆ.
-cert-not-verified-ca-invalid = ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ ಏಕೆಂದರೆ  CA ಪ್ರಮಾಣಪತ್ರವು ಅಮಾನ್ಯವಾಗಿದೆ.
-cert-not-verified_algorithm-disabled = ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ನಂಬಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ ಏಕೆಂದರೆ ಸಿಗ್ನೇಚರ್ ಅಲ್ಗಾರಿತಮ್ ಅನ್ನು ಬಳಸಿಕೊಂಡು ಇದನ್ನು ಸಹಿಮಾಡಲಾಗಿದೆ, ಮತ್ತು ಅದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ ಏಕೆಂದರೆ ಆ ಅಲ್ಗಾರಿತಮ್ ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ.
-cert-not-verified-unknown = ಈ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಜ್ಞಾತ ಕಾರಣಗಳಿಂದಾಗಿ ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ.
 
 ## Used to show whether an override is temporary or permanent
 

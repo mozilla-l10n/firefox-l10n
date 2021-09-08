@@ -107,9 +107,6 @@ menu-file-go-offline =
 menu-edit =
     .label = ಸಂಪಾದನೆ
     .accesskey = E
-menu-edit-find-on =
-    .label = ಈ ಪುಟದಲ್ಲಿ ಹುಡುಕು...
-    .accesskey = F
 menu-edit-find-again =
     .label = ಮತ್ತೊಮ್ಮೆ ಹುಡುಕು
     .accesskey = g
@@ -125,9 +122,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = ಉಪಕರಣ ಪಟ್ಟಿಗಳು
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು...
-    .accesskey = C
 menu-view-sidebar =
     .label = ಬದಿಯ ಪಟ್ಟಿ
     .accesskey = e
@@ -158,9 +152,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = ಮೂಲ  ಪುಟದ ಶೈಲಿ
     .accesskey = B
-menu-view-charset =
-    .label = ಪಠ್ಯ Encoding
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -207,10 +198,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = ಪುಟಗುರುತುಗಳು
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = ಎಲ್ಲಾ ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸು
-menu-bookmark-this-page =
-    .label = ಈ ಪುಟವನ್ನು ಪುಟಗುರುತು ಮಾಡು
 menu-bookmark-edit =
     .label = ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ಸಂಪಾದಿಸು
 menu-bookmarks-all-tabs =
@@ -230,32 +217,15 @@ menu-tools =
 menu-tools-downloads =
     .label = ಡೌನ್‍ಲೋಡ್‍ಗಳು
     .accesskey = D
-menu-tools-addons =
-    .label = ಆಡ್-ಆನ್‍ಗಳು
-    .accesskey = A
 menu-tools-sync-now =
     .label = ಈಗಲೆ ಸಿಂಕ್ ಮಾಡು
     .accesskey = S
-menu-tools-web-developer =
-    .label = ಜಾಲ ವಿಕಸನೆಗಾರ
-    .accesskey = W
 menu-tools-page-source =
     .label = ಪುಟದ ಮೂಲ
     .accesskey = o
 menu-tools-page-info =
     .label = ಪುಟದ ಮಾಹಿತಿ
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ಆಯ್ಕೆಗಳು
-           *[other] ಆದ್ಯತೆಗಳು
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -287,29 +257,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Help
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } Help
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Tour
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = Keyboard ಸಮೀಪಮಾರ್ಗಗಳು
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Troubleshooting ಮಾಹಿತಿ
-    .accesskey = T
 menu-help-report-site-issue =
     .label = ಜಾಲದ ತೊಂದರೆ ವರದಿ ಮಾಡಿ…
 menu-help-feedback-page =
     .label = Submit ಅಭಿಪ್ರಾಯ…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = Restart ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿದ ನಂತರ…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = Restart ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿದ ನಂತರ
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

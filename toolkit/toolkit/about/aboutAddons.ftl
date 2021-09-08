@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = ಆಡ್‌-ಆನ್‌ಗಳ ವ್ಯವಸ್ಥಾಪಕ
-
 addons-page-title = ಆಡ್‌-ಆನ್‌ಗಳ ವ್ಯವಸ್ಥಾಪಕ
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = ಎಲ್ಲ ವಿಸ್ತರಣಗಳನ್ನು ತೋರಿಸು
-
-cmd-show-details =
-    .label = ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು Show
-    .accesskey = S
-
-cmd-find-updates =
-    .label = ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ Find
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Options
-           *[other] Preferences
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = ಥೀಮ್ ಅನ್ನು Wear
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = ಥೀಮ್ ಅನ್ನು Wearing ನಿಲ್ಲಿಸು
-    .accesskey = W
-
-cmd-install-addon =
-    .label = Install
-    .accesskey = I
-
-cmd-contribute =
-    .label = Contribute
-    .accesskey = C
-    .tooltiptext = ಈ ಆಡ್‌-ಆನ್‌ನ ವಿಕಸನೆಗೆ ನೆರವಾಗಿ
 
 detail-version =
     .label = ಆವೃತ್ತಿ
