@@ -110,9 +110,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Taƴto
     .accesskey = T
-menu-edit-find-on =
-    .label = Yiylo e Ngoo Hello…
-    .accesskey = Y
 menu-edit-find-again =
     .label = Yiylo Kadi
     .accesskey = d
@@ -128,9 +125,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Pale kuutorɗe
     .accesskey = P
-menu-view-customize-toolbar =
-    .label = Heertin…
-    .accesskey = H
 menu-view-sidebar =
     .label = Palal sawndo
     .accesskey = s
@@ -164,9 +158,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Pannol Hello Jaddol
     .accesskey = P
-menu-view-charset =
-    .label = Dokkitannde Binndi
-    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -215,10 +206,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Maantore
     .accesskey = M
-menu-bookmarks-show-all =
-    .label = Hollu Maantore Fof
-menu-bookmark-this-page =
-    .label = Maantoro Ngoo Hello
 menu-bookmark-edit =
     .label = Taƴto Ngol Maantorol
 menu-bookmarks-all-tabs =
@@ -238,41 +225,18 @@ menu-tools =
 menu-tools-downloads =
     .label = Gaawte
     .accesskey = G
-menu-tools-addons =
-    .label = Ɓeyditte
-    .accesskey = Ɓ
-menu-tools-fxa-sign-in =
-    .label = Seŋo e { -brand-product-name }…
-    .accesskey = ŋ
-menu-tools-turn-on-sync =
-    .label = Huɓɓu { -sync-brand-short-name }…
-    .accesskey = u
 menu-tools-sync-now =
     .label = Sanngoɗin Jooni
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = Sŋo kadi e { -brand-product-name }…
     .accesskey = R
-menu-tools-web-developer =
-    .label = Topagol Geese
-    .accesskey = T
 menu-tools-page-source =
     .label = Dokkol Ɗaɗol Hello
     .accesskey = a
 menu-tools-page-info =
     .label = Humpito Hello
     .accesskey = H
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Cuɓe
-           *[other] Cuɓoraaɗe
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] C
-           *[other] ɗ
-        }
 menu-tools-layout-debugger =
     .label = Buggitorde Lelngo
     .accesskey = L
@@ -307,32 +271,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Ballal
     .accesskey = B
-menu-help-product =
-    .label = Ballal { -brand-shorter-name }
-    .accesskey = B
-menu-help-show-tour =
-    .label = Njillu { -brand-shorter-name }
-    .accesskey = N
-menu-help-import-from-another-browser =
-    .label = Jiggo Keɓe iwde e Wanngorde Woɗnde…
-    .accesskey = J
-menu-help-keyboard-shortcuts =
-    .label = Codorɗe Tappirde
-    .accesskey = C
-menu-help-troubleshooting-info =
-    .label = Humpito Ñawndugol Caɗeele
-    .accesskey = H
 menu-help-report-site-issue =
     .label = Jaŋto Caɗeele Lowre…
 menu-help-feedback-page =
     .label = Neldu Duttinal…
     .accesskey = N
-menu-help-safe-mode-without-addons =
-    .label = Hurmitin tawa Ɓeyditte ena Ndaaƴaa…
-    .accesskey = H
-menu-help-safe-mode-with-addons =
-    .label = Hurmitin tawa Ɓeyditte ena Ndaaƴtaa…
-    .accesskey = H
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

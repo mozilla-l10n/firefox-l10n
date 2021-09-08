@@ -41,9 +41,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Tabbere maantol
     .accesskey = B
-reopen-in-container =
-    .label = Udditgol goɗngol nder mbootu
-    .accesskey = e
 move-to-start =
     .label = Dirtin to fokkit
     .accesskey = S
@@ -53,18 +50,6 @@ move-to-end =
 move-to-new-window =
     .label = Dirtin to Henorde Hesere
     .accesskey = H
-close-tab =
-    .label = Uddu Tabbere
-    .accesskey = U
-close-tabs =
-    .label = Uddu tabbe
-    .accesskey = S
-move-tabs =
-    .label = Dirtin tabbe
-    .accesskey = v
-move-tab =
-    .label = Dirtin tabbe
-    .accesskey = v
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

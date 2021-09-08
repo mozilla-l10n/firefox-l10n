@@ -6,9 +6,6 @@ password-quality-meter = Ɓetirɗe moƴƴugol finnde
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Waylu Finnde Baabaare
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Kaɓirɗi Kisal: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Finnde hesere (goɗngol):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Finnde maa waklitaama
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Firlit
-reset-password-text = So a waklitii finnde maa baabaare, finndeeji maa geese e iimeel, porme keɓe, seedamfaaje keeriiɗe, e kele suturo maa njejjite. Aɗa yenanaa yiɗde waklitde finnde baabaare maa?
 
 ## Downloading cert dialog
 

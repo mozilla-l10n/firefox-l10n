@@ -32,12 +32,6 @@ serviceworker-worker-debug = Tannu
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Hesɗitinaa <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = Sewnde
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = Ngonka
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -47,24 +41,4 @@ serviceworker-worker-status-running = Ina golloo
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Dartinaa
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Aɗa foti winnditaade karallo sarwiis ngam yuurnitaade mo ɗoo. <a> Ɓeydu humpito</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = So hello wonaango ngoo ina foti dañde karallo, ɗumɗoo ko geɗe ɗe mbaaw-ɗaa enndude
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = Yiylo juume nder ginorde ndee. <a>Uddit ginorde ndee</a>
-
-# Suggestion to use the debugger to investigate why a service worker is not registered.
-# Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Ƴeewto ko ndannduno-ɗaa e Service Worker maa, cunno-ɗaa juume. <a>Uddit Buggitorde ndee</a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Ƴeewto gollotooɓe e sarwisaaji fannuuji goɗɗi. <a>Uddit ko faati e tannugol</a>
 

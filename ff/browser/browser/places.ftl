@@ -5,31 +5,9 @@
 places-open =
     .label = Uddit
     .accesskey = U
-places-open-tab =
-    .label = Uddit e Tabbere Hesere
-    .accesskey = T
 places-open-all-in-tabs =
     .label = Uddit Fof e Tabbe
     .accesskey = U
-places-open-window =
-    .label = Uddit e Henorde Hesere
-    .accesskey = H
-places-open-private-window =
-    .label = Uddit e Henorde Suuriinde Hesere
-    .accesskey = H
-
-places-new-bookmark =
-    .label = Maantorol Kesol…
-    .accesskey = K
-places-new-folder-contextmenu =
-    .label = Runngere Hesere…
-    .accesskey = F
-places-new-folder =
-    .label = Runngere Hesere…
-    .accesskey = R
-places-new-separator =
-    .label = Ceerndirgol Kesol
-    .accesskey = C
 
 places-view =
     .label = Hollir
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Leemtir Innde
     .accesskey = r
-places-properties =
-    .label = Keeroraaɗi
-    .accesskey = a
 

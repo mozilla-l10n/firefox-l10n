@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Jikkorde Nokitol Yaynirde
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Nokitol yaynirde to ɗakkitorde
-options-screenshot-clipboard-tooltip =
-    .title = Danndat nokitol yaynirde bec to ɗakkitorde
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Taro hito guddirgel kameraa
 options-screenshot-audio-tooltip =

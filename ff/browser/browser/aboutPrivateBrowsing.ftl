@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Uddit Henorde Suuriinde
 about-private-browsing-search-placeholder = Yiylo geese ɗee
 about-private-browsing-info-title = Ngonɗaa ko e Henorde Suuriinde
 about-private-browsing-info-myths = Tinndi goowaaɗi baɗte banngogol suturo
-about-private-browsing =
-    .title = Yiylo geese ɗee
 about-private-browsing-not-private = A wonaani e henorde suuriinde e oo sahaa.
 
 # This string is the title for the banner for search engine selection

@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Momtu Lowe Fof
     .accesskey = o
 
-translation-button-close =
-    .label = Uddu
-    .accesskey = U
-
 translation-dialog =
     .buttonlabelaccept = Uddu
     .buttonaccesskeyaccept = U

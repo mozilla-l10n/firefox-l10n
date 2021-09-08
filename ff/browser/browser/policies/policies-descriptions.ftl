@@ -47,8 +47,6 @@ policy-DisableForgetButton = Haɗ jettagol butoŋ Forget
 
 policy-DisableFormHistory = Hoto tesko kewol njiylawu kam e ɗaɓɓirɗe.
 
-policy-DisableMasterPasswordCreation = So wonii goonga, finnde rowrowre waawaa soseede.
-
 policy-DisablePasswordReveal = Hoto yamir pinle caaktee e ceŋorɗe danndaaɗe.
 
 policy-DisablePocket = Ñif gollirde kisnugol kelle geese nder Pocket.

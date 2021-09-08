@@ -11,20 +11,12 @@ about-logins-page-title = Ceŋorɗe e pinle
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Nawor ceŋorɗe e pinle maa kala nokku.
-login-app-promo-subtitle = Heɓ jaaɓnirgal ngal yoɓetaake { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Heɓ ɗum e Google Play
-login-app-promo-apple =
-    .alt = Aawto to App Store
-
 login-filter =
     .placeholder = Yiylo Ceŋorɗe
 
 create-login-button = Sos Seŋorde Hesere
 
 fxaccounts-sign-in-text = Heɓ pinle maa e kaɓirɗe maa goɗɗe
-fxaccounts-sign-in-button = Seŋo to { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Yiil konte
 
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Cuɓoraaɗe
     }
 about-logins-menu-menuitem-help = Ballal
-menu-menuitem-android-app = { -lockwise-brand-short-name } mo Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } mo iPhone kam e iPad
 
 ## Login List
 
@@ -72,13 +62,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Njiilotoɗaa ko ceŋorɗe maa danndaaɗe? Teelto { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-in = Alaa ceŋorɗe jahdinaaɗe njiytaa.
 login-intro-description = So a danndii ceŋorɗe maa e { -brand-product-name } e kaɓirgal goɗngal, ko nii keɓirtaaɗe ɗoo:
-login-intro-instruction-fxa = Sos walla seŋo e { -fxaccount-brand-name } maa e kaɓirgal ngal ɗo ceŋorɗe maa ndanndaa
-login-intro-instruction-fxa-settings = Yanane a suɓiima boyet ceŋorɗe ɗee nder teelte { -sync-brand-short-name }
-about-logins-intro-instruction-help = Ngam heɓde ballal goɗngal, yillo <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Wallitorde</a>
 about-logins-intro-import = So ceŋorɗe maa ndanndaama e wanngorde woɗnde, aɗa waawi  <a data-l10n-name="import-link">jiggaade-ɗe nder { -lockwise-brand-short-name }</a>
 
 ## Login
@@ -134,8 +119,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = Natto finnde danndaan
 
 ## Master Password notification
 
-master-password-notification-message = Tiiɗno naatnu finnde maa dowrowre ngam yiyde ceŋorɗe danndaaɗe & pinle
-
 ## Primary Password notification
 
 master-password-reload-button =
@@ -143,22 +126,6 @@ master-password-reload-button =
     .accesskey = S
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Aɗa yiɗi ceŋoɗe maa kala ɗo kuutoriɗaa { -brand-product-name }? Yah to cuɓe { -sync-brand-short-name } e labo boyet ceŋorɗe ɗee.
-       *[other] Aɗa yiɗi ceŋoɗe maa kala ɗo kuutoriɗaa { -brand-product-name }? Yah to cuɓoraaɗe { -sync-brand-short-name } e labo boyet ceŋorɗe ɗee.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Yillo cuɓoraaɗe { -sync-brand-short-name }
-           *[other] Y
-        }
-    .accesskey = Y
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Hoto naamnito-mi goɗngol
-    .accesskey = H
 
 ## Dialogs
 

@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Momtu Lowe Fof
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Haaytu
-    .accesskey = H
-
-permissions-button-ok =
-    .label = Danndu Bayle
-    .accesskey = D
-
 permission-dialog =
     .buttonlabelaccept = Danndu Bayle
     .buttonaccesskeyaccept = D

@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Yiylo
     .aria-label = Yiylo
 
-newtab-search-box-search-the-web-text = Yiylo geese
-
 newtab-search-box-search-the-web-input =
     .placeholder = Yiylo geese
     .title = Yiylo geese

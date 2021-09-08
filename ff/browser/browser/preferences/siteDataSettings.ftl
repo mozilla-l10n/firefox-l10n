@@ -27,14 +27,6 @@ site-data-remove-selected =
     .label = Momtu cuɓaaɗe
     .accesskey = M
 
-site-data-button-cancel =
-    .label = Haaytu
-    .accesskey = H
-
-site-data-button-save =
-    .label = Daɗndu mbaliigaaji
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = Daɗndu mbaliigaaji
     .buttonaccesskeyaccept = a

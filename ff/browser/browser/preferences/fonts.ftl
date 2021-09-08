@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Dokkitannde binndol Loowdi Gaadanteeri
-fonts-languages-fallback-desc = Ndee dokkitannde binndol huutortee ko e loowdi gaadanteeri korotoondi hollitde dokkitannde mum.
-
-fonts-languages-fallback-label = Yantirde Dokkitannde Binndi
-    .accesskey = B
-
-fonts-languages-fallback-name-auto =
-    .label = Goowaaɗo Lokaalde Wonaande
-fonts-languages-fallback-name-arabic =
-    .label = Aarabeere
-fonts-languages-fallback-name-baltic =
-    .label = Baltiire
-fonts-languages-fallback-name-ceiso =
-    .label = Orop Hakkndeewo
-fonts-languages-fallback-name-cewindows =
-    .label = Orop Hakkundeewo, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Sinuwaare Weeɓtinaande
-fonts-languages-fallback-name-traditional =
-    .label = Sinuwaare Ganniire
-fonts-languages-fallback-name-cyrillic =
-    .label = Sirillik
-fonts-languages-fallback-name-greek =
-    .label = Gerek
-fonts-languages-fallback-name-hebrew =
-    .label = Hebruŋkoore
-fonts-languages-fallback-name-japanese =
-    .label = Saponeere
-fonts-languages-fallback-name-korean =
-    .label = Koreyaŋkoore
-fonts-languages-fallback-name-thai =
-    .label = Taayiŋkoore
-fonts-languages-fallback-name-turkish =
-    .label = Turkeere
-fonts-languages-fallback-name-vietnamese =
-    .label = Wiyetnamiire
-fonts-languages-fallback-name-other =
-    .label = Goɗɗe (wonndude e Orop Hirnaange)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

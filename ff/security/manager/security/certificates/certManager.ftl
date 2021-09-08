@@ -19,44 +19,7 @@ certmgr-tab-ca =
 
 certmgr-mine = Aɗa jogii seedamfaaji ɗee pelle kebtinooji ma
 certmgr-people = Aɗa jogii seedamfaaji e fiilde kebtinooji ɓee yimɓe
-certmgr-servers = Aɗa jogii seedamfaaji e fiilde kebtinooji ɗee carworɗe
 certmgr-ca = Aɗa jogii seedamfaaji e fiilde kebtinooji ɗee pelle kalfinaaɗe seedamfaaji
-
-certmgr-detail-general-tab-title =
-    .label = Kuuɓal
-    .accesskey = K
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Cariiɗe
-    .accesskey = C
-
-certmgr-pending-label =
-    .value = Woni jooni ko e ƴeewtaade seedamfaaje…
-
-certmgr-subject-label = Hucci ko e
-
-certmgr-issuer-label = Feewni ko
-
-certmgr-period-of-validity = Dumunna Moƴƴugol
-
-certmgr-fingerprints = Temmbelle
-
-certmgr-cert-detail =
-    .title = Cariiɗe Seedamfaagu
-    .buttonlabelaccept = Uddu
-    .buttonaccesskeyaccept = U
-
-certmgr-cert-detail-commonname = Innde (CN)
-
-certmgr-cert-detail-org = Fedde (O)
-
-certmgr-cert-detail-orgunit = Goomu Yuɓɓinirgu (OU)
-
-certmgr-cert-detail-serial-number = Tonngoode dewindol
-
-certmgr-cert-detail-sha-256-fingerprint = Temmbelol SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Temmbelol SHA1
 
 certmgr-edit-ca-cert =
     .title = Taƴto teelte koolnol seedamfaagu CA
@@ -86,12 +49,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Kaɓirgol Kisal
 
-certmgr-begins-on = Fuɗɗotoo ko Ñalnde
-
 certmgr-begins-label =
     .label = Fuɗɗotoo ko Ñalnde
-
-certmgr-expires-on = Gasata ko ñalnde
 
 certmgr-expires-label =
     .label = Gasata ko ñalnde
@@ -133,18 +92,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Jiggo…
     .accesskey = g
-
-certmgr-details =
-    .value = Galli Seedamfaagu
-    .accesskey = G
-
-certmgr-fields =
-    .value = Kiisol Gallol
-    .accesskey = K
-
-certmgr-hierarchy =
-    .value = Leemto sertifikaaji
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Ɓeydu Faltoore…
@@ -208,12 +155,6 @@ delete-user-cert-confirm = Aɗa yenanaa yiɗde momtude ɗee seedamfaaje?
 delete-user-cert-impact = So a momtii ngootu e seedamfaaje maa keeriiɗe, a waawataa haŋkadi huutoraade ngu ngam innitaade.
 
 
-delete-ssl-cert-title =
-    .title = Momtu Paltooje Seedamfaagu Sarworde
-delete-ssl-cert-confirm = Aɗa yenanaa yiɗde momtude ɗee paltooje sarworde?
-delete-ssl-cert-impact = So a momtii faltoore sarworde, a artirtu ƴeewnde kisal goowaaɗe ɗee e ndeen sarworde tee naamno-ɗaa yo o huutoro seedamfaagu moƴƴuru.
-
-
 delete-ca-cert-title =
     .title = Momtu walla Hoolkiso Seedamfaaje CA
 delete-ca-cert-confirm = A naamniima yoo ɗee seedamfaaje CA momte. Koolaaje seedamfaaje asliije fof maa momte, ɗum ena wufta e pilte nannduɗe heen. Aɗa yenanaa yiɗde momtude walla hoolkisaade?
@@ -233,45 +174,6 @@ cert-with-serial =
     .value = Seedamfaagu kame tonngoode looso: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Yiytorde seedamfaagu: “{ $certName }”
-
-not-present =
-    .value = <Jeyaaka e Seedamfaagu>
-
-# Cert verification
-cert-verified = Nguu seedamfaagu ƴeewtanaama ɗee-ɗoo golle:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL Client Certificate
-
-verify-ssl-server =
-    .value = SSL Server Certificate
-
-verify-ssl-ca =
-    .value = SSL Certificate Authority
-
-verify-email-signer =
-    .value = Email Signer Certificate
-
-verify-email-recip =
-    .value = Email Recipient Certificate
-
-# Cert verification
-cert-not-verified-cert-revoked = Horiima ƴeewtaade nguu seedamfaagu sabu ngu saltaama.
-cert-not-verified-cert-expired = Horiima ƴeewtaade nguu seedamfaagu sabu ngu hiiɗitii.
-cert-not-verified-cert-not-trusted = Horiima ƴeewtaade nguu seedamfaagu sabu ngu hoolaaka.
-cert-not-verified-issuer-not-trusted = Horiima ƴeewtaade nguu seedamfaagu sabu bayyinɗo oo hoolaaka.
-cert-not-verified-issuer-unknown = Horiima ƴeewtaade nguu seedamfaagu sabu bayyinɗo oo anndaaka.
-cert-not-verified-ca-invalid = Horiima ƴeewtaade nguu seedamfaagu sabu CA ngu moƴƴaani.
-cert-not-verified_algorithm-disabled = Horiima ƴeewtaade nguu seedamfaagu sabu ngu siiforaa ko huutoraade algoritmol daaƴangol sabu nol hisaani.
-cert-not-verified-unknown = Horiima ƴeewtaade nguu seedamfaagu ngam daliilu mo anndaaka.
 
 ## Used to show whether an override is temporary or permanent
 
