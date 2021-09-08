@@ -5,34 +5,12 @@
 places-open =
     .label = తెరువు
     .accesskey = O
-places-open-tab =
-    .label = కొత్త ట్యాబులో తెరువు
-    .accesskey = w
 places-open-in-tab =
     .label = కొత్త ట్యాబులో తెరువు
     .accesskey = w
 places-open-all-in-tabs =
     .label = అన్నింటినీ ట్యాబులలో తెరువు
     .accesskey = O
-places-open-window =
-    .label = కొత్త విండోలో తెరువు
-    .accesskey = N
-places-open-private-window =
-    .label = కొత్త ఆంతరంగిక విండోలో తెరువు
-    .accesskey = P
-
-places-new-bookmark =
-    .label = కొత్త ఇష్టాంశము…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = కొత్త సంచయం…
-    .accesskey = F
-places-new-folder =
-    .label = కొత్త సంచయం…
-    .accesskey = o
-places-new-separator =
-    .label = కొత్త సెపరేటర్
-    .accesskey = S
 
 places-view =
     .label = చూడండి
@@ -64,9 +42,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = పేరు ద్వారా క్రమపరచు
     .accesskey = r
-places-properties =
-    .label = లక్షణములు
-    .accesskey = i
 
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =

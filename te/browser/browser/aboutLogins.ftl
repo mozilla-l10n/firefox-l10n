@@ -7,17 +7,12 @@ about-logins-page-title = ప్రవేశాలు & సంకేతపదా
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = మీ సంకేతపదాలను ఎక్కడికైనా తీసుకెళ్ళండి
-login-app-promo-subtitle = ఉచిత { -lockwise-brand-name } అనువర్తనాన్ని పొందండి
-login-app-promo-android =
-    .alt = దీన్ని గూగుల్ ప్లే నుండి పొందండి
-login-app-promo-apple =
-    .alt = App Store నుండి దింపుకోండి
 login-filter =
     .placeholder = ప్రవేశాలను వెతకండి
+
 create-login-button = కొత్త ప్రవేశాన్ని సృష్టించు
+
 fxaccounts-sign-in-text = మీ సంకేతపదాలను ఇతర పరికరాల్లో పొందండి
-fxaccounts-sign-in-button = { -sync-brand-short-name } లోనికి ప్రవేశించండి
 fxaccounts-avatar-button =
     .title = ఖాతా నిర్వహించు
 
@@ -36,8 +31,6 @@ menu-menuitem-preferences =
        *[other] అభిరుచులు
     }
 about-logins-menu-menuitem-help = సహాయం
-menu-menuitem-android-app = ఆండ్రాయిడ్ కొరకు { -lockwise-brand-short-name }
-menu-menuitem-iphone-app = iPhone, iPad కొరకు { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -67,18 +60,15 @@ about-logins-list-item-breach-icon =
     .title = ఉల్లంఘిత వెబ్‌సైటు
 about-logins-list-item-vulnerable-password-icon =
     .title = బలహీనమైన సంకేతపదం
+
 about-logins-list-section-today = ఈరోజు
 about-logins-list-section-yesterday = నిన్న
 about-logins-list-section-week = గత 7 రోజులు
 
 ## Introduction screen
 
-login-intro-heading = మీరు భద్రపరుచుకొన్న ప్రవేశాల కోసం వెతుకుతున్నారా? { -sync-brand-short-name } అమర్చుకోండి.
 about-logins-login-intro-heading-logged-in = సింక్రనిత ప్రవేశాలేమీ కనబడలేదు.
 login-intro-description = మరో పరికరంలో మీ ప్రవేశాలను { -brand-product-name }‌లో భద్రపరచుకొని ఉంటే, వాటిని ఇక్కడకు తెచ్చుకోవడం ఇలా:
-login-intro-instruction-fxa = మీ ప్రవేశాలు ఉన్న పరికరంలో { -fxaccount-brand-name } సృష్టించుకోండి లేదా మీ ఖాతా లోనికి ప్రవేశించండి
-login-intro-instruction-fxa-settings = { -sync-brand-short-name } అమరికలలో మీరు ప్రవేశాలు ఎంపిక వద్ద టిక్కు పెట్టారని నిర్ధారించుకోండి
-about-logins-intro-instruction-help = మరింత సహాయం కోసం <a data-l10n-name="help-link">{ -lockwise-brand-short-name } తోడ్పాటు</a>‌ని చూడండి
 about-logins-intro-import = మీ ప్రవేశాలు వేరే విహారిణిలో భద్రమైవుంటే, వాటిని <a data-l10n-name="import-link">{ -lockwise-brand-short-name } లోనికి దిగుమతి చేసుకోండి</a>
 
 ## Login
@@ -117,6 +107,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = భద్రపరచిన సంకేతపదాన్ని చూపించడానికి
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = మీ సంకేతపదాన్ని కాపీ చేసుకోడానికి, మీ విండోస్ ప్రవేశ వివరాలను ఇవ్వండి. ఇది మీ ఖాతాల భద్రతను సంరక్షించడానికి తోడ్పడుతుంది.
 # This message can be seen when attempting to copy a password in about:logins
@@ -135,56 +126,48 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] మీరు { -brand-product-name } వాడుతున్న చోటల్లా మీ ప్రవేశాలు కావాలనుకుంటున్నారా? మీ { -sync-brand-short-name } ఎంపికలకు వెళ్ళి, ప్రవేశాలు అనేచోట టిక్కుపెట్టండి.
-       *[other] మీరు { -brand-product-name } వాడుతున్న చోటల్లా మీ ప్రవేశాలు కావాలనుకుంటున్నారా? మీ { -sync-brand-short-name } అభిరుచులకు వెళ్ళి, ప్రవేశాలు అనేచోట టిక్కుపెట్టండి.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] { -sync-brand-short-name } ఎంపికలను చూడండి
-           *[other] { -sync-brand-short-name } అభిరుచులను చూడండి
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = నన్ను మళ్లీ అడగవద్దు
-    .accesskey = D
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = రద్దుచేయి
 confirmation-dialog-dismiss-button =
     .title = రద్దుచేయి
+
 about-logins-confirm-remove-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
 confirm-delete-dialog-message = ఈ చర్యను రద్దు చేయలేరు.
 about-logins-confirm-remove-dialog-confirm-button = తొలగించు
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] తొలగించు
         [one] తొలగించు
        *[other] అన్నీ తొలగించు
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] అవును, ఈ ప్రవేశాన్ని తొలగించు
         [one] అవును, ఈ ప్రవేశాన్ని తొలగించు
        *[other] అవును, ఈ ప్రవేశాలను తొలగించు
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] ఒక { $count } ప్రవేశాన్ని తొలగించాలా?
        *[other] { $count } ప్రవేశాలనూ తొలగించాలా?
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } ప్రవేశాన్ని అన్ని పరికరాల నుండి తొలగించాలా?
        *[other] { $count } ప్రవేశాలనూ అన్ని పరికరాల నుండి తొలగించాలా?
     }
+
 about-logins-confirm-export-dialog-title = ప్రవేశాలను, సంకేతపదాలను ఎగుమతిచేయి
 about-logins-confirm-export-dialog-confirm-button = ఎగుమతించు…
+
 about-logins-alert-import-title = దిగుమతి పూర్తయింది
 about-logins-alert-import-message = వివరణాత్మక దిగుమతి సారాంశాన్ని చూడండి
+
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
 confirm-discard-changes-dialog-message = భద్రపరచని మార్పులన్నీ కోల్పోతారు.
 confirm-discard-changes-dialog-confirm-button = విస్మరించు
@@ -251,7 +234,9 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = దిగుమతి పూర్తయింది
+
 about-logins-import-dialog-done = పూర్తయింది
+
 about-logins-import-dialog-error-title = దిగుమతి లోపం
 about-logins-import-dialog-error-file-format-title = ఫైలు ఫార్మాటు సమస్య
 about-logins-import-dialog-error-file-permission-title = ఫైలును చదవలేకపోతున్నాం
@@ -259,7 +244,9 @@ about-logins-import-dialog-error-no-logins-imported = ప్రవేశాల�
 about-logins-import-dialog-error-learn-more = ఇంకా తెలుసుకోండి
 about-logins-import-dialog-error-try-import-again = దిగుమతిని మళ్ళీ ప్రయత్నించండి…
 about-logins-import-dialog-error-cancel = రద్దుచేయి
+
 about-logins-import-report-title = దిగుమతి సారాంశం
+
 #
 # Variables:
 #  $number (number) - The number of the row

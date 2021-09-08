@@ -35,19 +35,11 @@ connection-proxy-http = HTTP ప్రాక్సీ
     .accesskey = x
 connection-proxy-http-port = పోర్టు
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = FTP, HTTPSల కోసం కూడా ఈ ప్రాక్సీని వాడు
-    .accesskey = s
 
 connection-proxy-https = HTTPS ప్రాక్సీ
     .accesskey = H
 connection-proxy-ssl-port = పోర్టు
     .accesskey = o
-
-connection-proxy-ftp = FTP ప్రాక్సీ
-    .accesskey = F
-connection-proxy-ftp-port = పోర్టు
-    .accesskey = r
 
 connection-proxy-socks = SOCKS హోస్టు
     .accesskey = C

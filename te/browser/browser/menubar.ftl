@@ -112,9 +112,6 @@ menu-file-go-offline =
 menu-edit =
     .label = సవరణ
     .accesskey = E
-menu-edit-find-on =
-    .label = ఈ పేజీలో వెతకండి…
-    .accesskey = F
 menu-edit-find-again =
     .label = మళ్ళీ వెతుకు
     .accesskey = g
@@ -130,9 +127,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = పనిముట్ల పట్టీలు
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = అభిమతీకరించు…
-    .accesskey = C
 menu-view-sidebar =
     .label = పక్క పట్టీ
     .accesskey = e
@@ -166,9 +160,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = ప్రాధమిక పేజీ శైలి
     .accesskey = B
-menu-view-charset =
-    .label = పాఠ్యపు ఎన్‌కోడింగు
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -217,10 +208,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = ఇష్టాంశాలు
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = ఇష్టాంశాలన్నింటినీ చూపించు
-menu-bookmark-this-page =
-    .label = ఈ పేజీని ఇష్టాంశంగా చేయి
 menu-bookmark-edit =
     .label = ఈ ఇష్టాంశాన్ని సరిదిద్దు
 menu-bookmarks-all-tabs =
@@ -240,24 +227,12 @@ menu-tools =
 menu-tools-downloads =
     .label = దింపుకోళ్ళు
     .accesskey = D
-menu-tools-addons =
-    .label = పొడగింతలు
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = { -brand-product-name } లోనికి ప్రవేశించు…
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name }ను చేతనించు…
-    .accesskey = n
 menu-tools-sync-now =
     .label = ఇప్పుడు సింక్ చేయి
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name }కు మళ్ళీ అనుసంధానించు…
     .accesskey = R
-menu-tools-web-developer =
-    .label = వెబ్ అభివృద్దికారి
-    .accesskey = W
 menu-tools-browser-tools =
     .label = విహారిణి పనిముట్లు
     .accesskey = B
@@ -267,17 +242,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = పేజీ సమాచారం
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ఎంపికలు
-           *[other] అభిరుచులు
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-settings =
     .label = అమరికలు
     .accesskey =
@@ -310,21 +274,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = సహాయం
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } సహాయం
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } పర్యటన
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = మరో విహారిణి నుండి దిగుమతిచేయి…
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = కీబోర్డు షార్టుకట్లు
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = సమస్యాపరిష్కారపు సమాచారం
-    .accesskey = T
 menu-get-help =
     .label = సహాయం పొందండి
     .accesskey = H
@@ -333,12 +282,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = ప్రతిస్పందనను తెలియజేయండి…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = యాడ్-ఆన్స్ అచేతనపరచి పునఃప్రారంభించు…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = యాడ్-ఆన్స్ చేతనపరచి పునఃప్రారంభించు
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

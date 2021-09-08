@@ -5,11 +5,6 @@
 containers-window-new =
     .title = కొత్త కంటెయినరు చేర్చు
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } కంటెయినరు అభిరుచులు
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = ప్రతీకం
 containers-color-label = రంగు
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = పూర్తయింది
-    .accesskey = D
 
 containers-dialog =
     .buttonlabelaccept = పూర్తయింది

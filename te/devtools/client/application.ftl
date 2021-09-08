@@ -21,12 +21,6 @@ serviceworker-list-header = సర్వీస్ వర్కర్లు
 serviceworker-worker-debug = డీబగ్
     .title = నడుస్తూన్న సర్వీస్ వర్కర్లను మాత్రమే డిబగ్ చేయగలరు
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = మూలం
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = స్థితి
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 

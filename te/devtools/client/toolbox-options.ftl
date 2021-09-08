@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = తెరపట్టు ప్రవర్తన
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = క్లిప్‌బోర్డు లోనికి తీయి
-options-screenshot-clipboard-tooltip =
-    .title = తెరపట్టుని నేరుగా క్లిప్‌బోర్డులో భద్రపరుస్తుంది
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = కామెరా యొక్క షట్టర్ ధ్వనిని ప్లే చేయండి
 options-screenshot-audio-tooltip =

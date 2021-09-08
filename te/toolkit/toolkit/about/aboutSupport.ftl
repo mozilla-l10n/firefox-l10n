@@ -10,11 +10,6 @@ crashes-id = నివేదిక ID
 crashes-send-date = సమర్పించినది
 crashes-all-reports = అన్ని క్రాష్ నివేదికలు
 crashes-no-config = క్రాష్ నివేదికలను ప్రదర్శించుటకు ఈ అనువర్తనం ఆకృతీకరించలేదు.
-extensions-title = పొడిగింపులు
-extensions-name = పేరు
-extensions-enabled = చేతనం
-extensions-version = వెర్షను
-extensions-id = ID
 support-addons-name = పేరు
 support-addons-enabled = చేతనం
 support-addons-version = వెర్షను
@@ -100,8 +95,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = ప్రాసెస్ రకం
 sandbox-sys-call-number = సిస్‌కాల్
 sandbox-sys-call-args = చర్చలు
-safe-mode-title = సేఫ్ మోడ్ ప్రయత్నించండి
-restart-in-safe-mode-label = పొడిగింతలను అచేతనించి పునఃప్రారంభించు…
 
 ## Media titles
 
@@ -232,19 +225,12 @@ webgl2-renderer = WebGL2 రెండరర్
 webgl2-version = WebGL 2 డ్రైవ్వర్ వెర్షన్
 webgl2-driver-extensions = WebGL 2 డ్రైవ్వర్ పొడిగింతలు
 webgl2-extensions = WebGL 2 పొడిగింతలు
-blocklisted-bug = తెలిసిన సమస్యలు కారణంగా జాబితా బ్లాక్
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = బగ్ { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = బ్లాక్ జాబితా ; వైఫల్యం కోడ్ { $failureCode }
 
 d3d11layers-crash-guard = D3D11 కూర్చే
-d3d11video-crash-guard = D3D11 వీడియో డికోడర్
-d3d9video-crash-guard = D3D11 వీడియో డికోడర్
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = తదుపరి పునఃప్రారంభించు రీసెట్
@@ -272,14 +258,6 @@ launcher-process-status-0 = చేతనం
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = యూజర్ ప్రారంభించబడింది
-multi-process-status-1 = అప్రమేయంగా చేతనం
-multi-process-status-2 = అచేతనంచేయబడిన
-multi-process-status-4 = సౌలభ్యాన్ని టూల్స్ నిలిపివెయ్యబడింది
-multi-process-status-6 = మద్దతివ్వని టెక్స్ట్ ఇన్పుట్ ద్వారా నిలిపివెయ్యబడింది
-multi-process-status-7 = ఈ పొడిగింత అచేతనము చేయి
-multi-process-status-8 = బలవంతంగా నిలిపివెయ్యబడింది
-multi-process-status-unknown = తెలియని స్థితి
 
 async-pan-zoom = అసమకాలిక పాన్ / జూమ్
 apz-none = ఏమీలేవు

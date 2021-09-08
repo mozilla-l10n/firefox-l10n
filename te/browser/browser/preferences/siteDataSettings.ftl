@@ -28,14 +28,6 @@ site-data-remove-selected =
     .label = ఎంచుకున్నవి తొలగించు
     .accesskey = r
 
-site-data-button-cancel =
-    .label = రద్దుచేయి
-    .accesskey = C
-
-site-data-button-save =
-    .label = మార్పులను భద్రపరచు
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = మార్పులను భద్రపరచు
     .buttonaccesskeyaccept = a

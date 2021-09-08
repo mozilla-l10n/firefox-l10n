@@ -5,9 +5,6 @@
 
 ## Import Logins Autocomplete
 
-autocomplete-import-logins-info =
-    .tooltiptext = ఇంకా తెలుసుకోండి
-
 ## Variables:
 ##   $host (String) - Host name of the current site.
 
