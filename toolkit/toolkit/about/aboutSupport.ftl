@@ -10,11 +10,6 @@ crashes-id = প্রতিবেদন আইডি
 crashes-send-date = প্রেরিত
 crashes-all-reports = সমস্ত ক্র্যাশ রিপোর্ট
 crashes-no-config = এই এপ্লিকেশনটি ক্র্যাশ রিপোর্ট প্রদর্শন এর জন্য কনফিগার করা হয় নি।
-extensions-title = এক্সটেনশন
-extensions-name = নাম
-extensions-enabled = সক্রিয়
-extensions-version = সংস্করণ
-extensions-id = ID
 support-addons-name = নাম
 support-addons-version = সংস্করণ
 support-addons-id = ID
@@ -113,8 +108,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = প্রক্রিয়া প্রকার
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = আর্গুমেন্ট
-safe-mode-title = সুরক্ষিত মোডে চেষ্টা করুন
-restart-in-safe-mode-label = অ্যাড-অন নিস্ক্রিয় করে রিস্টার্ট করুন…
 
 ## Media titles
 
@@ -258,19 +251,12 @@ webgl2-renderer = WebGL 2 ড্রাইভার Renderer
 webgl2-version = WebGL 2 ড্রাইভার সংষ্করণ
 webgl2-driver-extensions = WebGL 2 ড্রাইভার এক্সটেনসন
 webgl2-extensions = WebGL 2 এক্সটেনশন
-blocklisted-bug = জ্ঞাত সমস্যার কারণে ব্লকতালিকাভুক্ত
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = বাগ { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ব্লকতালিকাভুক্ত; ব্যর্থ কোড { $failureCode }
 
 d3d11layers-crash-guard = D3D11 কম্পোজিটর
-d3d11video-crash-guard = D3D11 ভিডিও ডিকোডার
-d3d9video-crash-guard = D3D9 ভিডিও ডিকোডার
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = পুনরায় শুরু করার সময় রিসেট করুন
@@ -308,14 +294,6 @@ launcher-process-status-unknown = অজ্ঞাত অবস্থা
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = ব্যবহারকারী দ্বারা সক্রিয়
-multi-process-status-1 = বাই ডিফল্ট সক্রিয় রয়েছে
-multi-process-status-2 = নিষ্ক্রিয় রয়েছে
-multi-process-status-4 = অ্যাক্সেসেবিলিটি তুল দ্বারা নিষ্ক্রিয় রয়েছে
-multi-process-status-6 = অসমর্থিত টেক্সট ইনপুটের কারনে নিষ্ক্রিয় হয়েছে
-multi-process-status-7 = অ্যান্ড-অন দ্বারা নিষ্ক্রিয় হয়েছে
-multi-process-status-8 = বলপূর্বক নিষ্ক্রিয় করা হয়েছে
-multi-process-status-unknown = অজানা অবস্থা
 
 async-pan-zoom = অ্যাসিংক্রোনাস প্যান/জুম
 apz-none = কোনোটি নয়

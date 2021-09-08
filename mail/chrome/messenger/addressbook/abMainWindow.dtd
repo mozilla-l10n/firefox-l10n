@@ -27,12 +27,6 @@
 <!ENTITY closeCmd.label "বন্ধ (C)">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
-<!ENTITY printSetupCmd.label "পৃষ্ঠা সেটআপ... (u)">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewContactCmd.label "পরিচিতি মুদ্রণের প্রাকদর্শন (v)">
-<!ENTITY printPreviewContactCmd.accesskey "v">
-<!ENTITY printPreviewAddressBook.label "ঠিকানা বই মুদ্রণের প্রাকদর্শন (B)">
-<!ENTITY printPreviewAddressBook.accesskey "B">
 <!ENTITY printContactCmd.label "পরিচিতি মুদ্রণ… (P)">
 <!ENTITY printContactCmd.accesskey "P">
 <!ENTITY printContactCmd.key "P">
@@ -85,8 +79,6 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "এক্সপোর্ট… (E)">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmdUnix.label "পছন্দসমূহ... (n)">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 <!-- Address Book Toolbar and Context Menus -->  
 
 <!ENTITY newContactButton.label "নতুন পরিচিতি (C)">

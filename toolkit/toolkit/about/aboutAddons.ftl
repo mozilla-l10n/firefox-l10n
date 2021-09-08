@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = অ্যাড-অন ব্যবস্থাপক
-
 addons-page-title = অ্যাড-অন ব্যবস্থাপক
 
 search-header =
@@ -34,61 +31,11 @@ help-button = অ্যাড-অন সহযোগীতা
 sidebar-help-button-title =
     .title = অ্যাড-অন সহযোগীতা
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } অপশন
-       *[other] { -brand-short-name } পছন্দসমূহ
-    }
-
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } অপশন
-           *[other] { -brand-short-name } পছন্দসমূহ
-        }
-
 show-unsigned-extensions-button =
     .label = কিছু এক্সটেনশন ভ্যারিফাই করা হয়নি
 
 show-all-extensions-button =
     .label = সব এক্সটেনশন দেখাও
-
-cmd-show-details =
-    .label = আরও তথ্য প্রদর্শন করা হবে S
-    .accesskey = S
-
-cmd-find-updates =
-    .label = হালনাগাদ অনুসন্ধান
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] অপশন
-           *[other] পছন্দসমূহ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = থীম যোগ W
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = থীম যোগ বন্ধ W
-    .accesskey = W
-
-cmd-install-addon =
-    .label = ইনস্টল করুন I
-    .accesskey = I
-
-cmd-contribute =
-    .label = অবদান রাখুন C
-    .accesskey = C
-    .tooltiptext = অ্যাড-অন উন্নয়নে অবদান রাখুন
 
 detail-version =
     .label = সংস্করণ
@@ -387,8 +334,6 @@ dictionary-disabled-heading = নিষ্ক্রিয়
 
 locale-enabled-heading = সক্রিয়
 locale-disabled-heading = নিষ্ক্রিয়
-
-ask-to-activate-button = সক্রিয় করতে জিজ্ঞাসা করুন
 
 always-activate-button = সর্বদা সক্রিয়
 never-activate-button = কখনোই সক্রিয় নয়

@@ -53,8 +53,6 @@ policy-DisableForgetButton = Forget বাটন ব্যবহারে বি
 
 policy-DisableFormHistory = অনুসন্ধান ও ফরম ইতিহাস মনে রাখবে না।
 
-policy-DisableMasterPasswordCreation = সত্য হলে, মাস্টার পাসওয়ার্ড তৈরি করা সম্ভব নয়।
-
 policy-DisablePasswordReveal = সংরক্ষিত লগইনে পাসওয়ার্ড প্রকাশ করার অনুমতি দেবেন না।
 
 policy-DisablePocket = Pocket এ ওয়েবপেজ সংরক্ষণ করার বৈশিষ্ট্য নিস্ক্রিয় করুন।

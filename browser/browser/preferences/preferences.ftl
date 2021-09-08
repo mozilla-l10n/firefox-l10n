@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = সর্বদা
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] অপশন
-       *[other] পছন্দসমূহ
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] অপশনে অনুসন্ধান
-           *[other] পছন্দসমূহে অনুসন্ধান
-        }
-
 managed-notice = আপনার ব্রাউজার আপনার প্রতিষ্ঠান দ্বারা পরিচালিত হচ্ছে।
 
 pane-general-title = সাধারণ
@@ -48,10 +26,6 @@ category-search =
 pane-privacy-title = গোপনীয়তা ও নিরাপত্তা
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = { -brand-short-name } সাপোর্ট
 addons-button-label = এক্সটেনশন ও থিম
@@ -81,21 +55,9 @@ restart-later = পরে রিস্টার্ট করা হবে
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = একটি এক্সটেনসন, <img data-l10n-name="icon"/> { $name }, আপনার নীড় পাতা নিয়ন্ত্রণ করছে।
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = একটি এক্সটেনসন, <img data-l10n-name="icon"/> { $name }, আপনার নতুন ট্যাব পাতা নিয়ন্ত্রণ করছে।
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = এক্সটেনশন, <img data-l10n-name="icon"/> { $name }, এই সেটিং নিয়ন্ত্রণ করছে।
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = একটি এক্সটেনশন, <img data-l10n-name="icon"/> { $name }, আপনার ডিফল্ট সার্চ ইঞ্জিন সেট করে দিয়েছে।
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -120,26 +82,11 @@ extension-controlled-enable = এক্সটেনশনটি সক্রি�
 
 search-results-header = অনুসন্ধানের ফলাফল
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] দুঃখিত! “<span data-l10n-name="query"></span>”-র জন্য অপশনে কোন ফলাফল নেই।
-       *[other] দুঃখিত! “<span data-l10n-name="query"></span>”-র জন্য পছন্দসমূহে কোন ফলাফল নেই।
-    }
-
 search-results-help-link = সাহায্য প্রয়োজন? <a data-l10n-name="url">{ -brand-short-name } সাপোর্ট</a> দেখুন
 
 ## General Section
 
 startup-header = শুরুতে
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = অনুমতি দিন { -brand-short-name } এবং ফায়ারফক্স একই সময়ে চালানোর জন্য
-use-firefox-sync = টিপ: এটি পৃথক প্রোফাইল ব্যাবহার করে। তাদের মধ্যে তথ্য শেয়ার করার জন্য { -sync-brand-short-name } ব্যবহার করুন।
-get-started-not-logged-in = { -sync-brand-short-name } এ সাইন ইন করুন…
-get-started-configured = { -sync-brand-short-name } এর পছন্দসমূহ খুলুন
 
 always-check-default =
     .label = সর্বদা যাচাই করবে { -brand-short-name } আপনার ডিফল্ট ব্রাউজার কি না
@@ -179,10 +126,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = একাধিক ট্যাব খোলার ফলে { -brand-short-name } ধীর হয়ে যাবার সম্ভবনা থাকলে সতর্ক করা হবে।
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = নতুন ট্যাবে লিঙ্ক খোলার পর তাতে তাৎক্ষণিকভাবে পরিবর্তিত হবে
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = উইন্ডোর টাস্কবারে ট্যাবের প্রাকদর্শন প্রদর্শিত হবে k
@@ -344,11 +287,6 @@ applications-manage-app =
     .label = অ্যাপ্লিকেশনের বিবরণ…
 applications-always-ask =
     .label = সর্বদা জিজ্ঞাসা কর
-applications-type-pdf = বহনযোগ্য ডকুমেন্ট ফরম্যাট (পিডিএফ)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -426,17 +364,6 @@ update-application-warning-cross-user-setting = এই সেটিংটি স
 update-application-use-service =
     .label = হালনাগাদ ইনস্টলের জন্য একটি পটভূমির সার্ভিস ব্যবহার করুন b
     .accesskey = b
-
-update-setting-write-failure-title = পছন্দগুলোর হালনাগাদ সংরক্ষণ করার সময় ত্রূটি
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    { -brand-short-name } একটি ত্রুটির সম্মুখীন হয়েছে এবং এই পরিবর্তনটি সংরক্ষণ করেনি। নোট করুন যে এই হালনাগাদ পছন্দটি সেট করার জন্য নীচের ফাইলটিতে লেখার অনুমতি প্রয়োজন। আপনি বা কোনও সিস্টেম প্রশাসক এই ফাইলটিতে ব্যবহারকারীদের পুরো নিয়ন্ত্রণ মঞ্জুর করে ত্রুটিটি সমাধান করতে সক্ষম হতে পারেন।
-    
-    ফাইলটিতে লিখতে পারেনি: { $path }
 
 update-in-progress-title = হালনাগাদের অগ্রগতি
 
@@ -663,8 +590,6 @@ search-show-suggestions-private-windows =
 
 search-suggestions-cant-show = { -brand-short-name } এর কনফিগারেশনে ইতিহাস মনে না রাখতে বলার কারনে লোকেশন বারে অনুসন্ধান পরামর্শ দেখাবে না।
 
-search-one-click-header = এক-ক্লিক অনুসন্ধান ইঞ্জিন
-
 search-one-click-desc = আপনি কীওয়ার্ড লিখতে শুরু করার সময় ঠিকানা বার এবং অনুসন্ধান বারের নীচে প্রদর্শিত বিকল্প অনুসন্ধান ইঞ্জিনগুলো নির্বাচন করুন।
 
 search-choose-engine-column =
@@ -692,20 +617,10 @@ search-keyword-warning-bookmark = আপনার দেয়া কীওয়া�
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] অপশনে ফিরে যান
-           *[other] পছন্দগুলিতে ফিরে যান
-        }
-
 containers-header = কন্টেইনার ট্যাব
 containers-add-button =
     .label = নতুন কন্টেইনার যোগ
     .accesskey = A
-
-containers-preferences-button =
-    .label = পছন্দসমূহ
 
 containers-remove-button =
     .label = অপসারণ
@@ -717,7 +632,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = আপনার ওয়েব আপনার সঙ্গে নিন
-sync-signedout-description = আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দ সিংক্রোনাইজ করুন.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -765,12 +679,6 @@ prefs-syncing-on = সিঙ্ক: চালু
 
 prefs-syncing-off = সিঙ্ক: বন্ধ
 
-prefs-sync-setup =
-    .label = { -sync-brand-short-name } সেটাপ করুন…
-    .accesskey = S
-
-prefs-sync-offer-setup-label = আপনার সব ডিভাইসে আপনার সব বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড-অন এবং পছন্দসমূহ সিঙ্ক করুন।
-
 prefs-sync-now =
     .labelnotsyncing = এখনই সিঙ্ক করুন
     .accesskeynotsyncing = N
@@ -787,11 +695,6 @@ sync-currently-syncing-logins-passwords = লগইন ও পাসওয়ার
 sync-currently-syncing-addresses = ঠিকানা
 sync-currently-syncing-creditcards = ক্রেডিট কার্ড
 sync-currently-syncing-addons = অ্যাড-অন
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] অপশন
-       *[other] পছন্দসমূহ
-    }
 
 sync-change-options =
     .label = পরিবর্তন করুন...
@@ -839,15 +742,6 @@ sync-engine-addons =
     .label = অ্যাড-অন
     .tooltiptext = Firefox ডেস্কটপের জন্য এক্সটেনশন ও থিম
     .accesskey = A
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] অপশন
-           *[other] পছন্দসমূহ
-        }
-    .tooltiptext = সাধারণ, গোপনীয়তা এবং নিরাপত্তা সেটিং এ আপনি যা পরিবর্তন করেছেন
-    .accesskey = s
 
 ## The device name controls.
 
@@ -902,14 +796,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = সংরক্ষিত লগইন L…
     .accesskey = L
-forms-master-pw-use =
-    .label = মাস্টার পাসওয়ার্ড ব্যবহার করা হবে
-    .accesskey = U
 forms-master-pw-change =
     .label = মাস্টার পাসওয়ার্ড পরিবর্তন...
     .accesskey = M
-
-forms-master-pw-fips-title = আপনি বর্তমানে FIPS মোড ব্যবহার করছেন। FIPS-এর ক্ষেত্রে মাস্টার পাসওয়ার্ড ফাঁকা রাখা যাবে না।
 
 forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন করতে ব্যর্থ
 
@@ -1016,10 +905,6 @@ sitedata-clear =
 sitedata-settings =
     .label = ডাটা ব্যবস্থাপনা…
     .accesskey = M
-
-sitedata-cookies-permissions =
-    .label = অনুমতি ব্যবস্থাপনা...
-    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -1177,12 +1062,6 @@ permissions-addon-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = অভিগম্যতা সেবা ব্রাউজার ব্যবহার করবে না
-    .accesskey = a
-
-permissions-a11y-privacy-link = আরও জানুন
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } ডাটা সংগ্রহ ও ব্যবহার
@@ -1208,11 +1087,6 @@ addon-recommendations-link = আরও জানুন
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে ডাটা রিপোর্টিং নিস্ক্রিয় করা হয়েছে
-
-collection-backlogged-crash-reports =
-    .label = আপনার পক্ষে থেকে ব্যাকলগকৃত ক্রাশ রিপোর্টগুলি পাঠাতে { -brand-short-name } কে অনুমোদন করুন
-    .accesskey = c
-collection-backlogged-crash-reports-link = আরও জানুন
 
 ## Privacy Section - Security
 ##
@@ -1240,16 +1114,6 @@ security-block-uncommon-software =
 
 certs-header = সনদপত্র
 
-certs-personal-label = যখন কোনো সার্ভার আপনার ব্যক্তিগত সার্টিফিকেট অনুরোধ করে
-
-certs-select-auto-option =
-    .label = স্বয়ংক্রিয়ভাবে নির্বাচন করা হবে
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = আপনাকে প্রতিবার জিজ্ঞেস করা
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = ইস্যুকারীর OCSP উত্তরের রিপোর্ট সার্টিফিকেটের যোগ্যতা বাতিল করা হয়েছে।
     .accesskey = Q
@@ -1261,34 +1125,6 @@ certs-view =
 certs-devices =
     .label = নিরাপত্তা ডিভাইস…
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = আরও জানুন
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] অপশন খুলুন
-           *[other] পছন্দসমূহ খুলুন
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } এ যথেষ্ট পরিমাণে ডিস্ক স্পেস নাই। ওয়েবসাইট কন্টেন্ট ঠিকভাবে নাও দেখাতে পারে। সংরক্ষিত সাইট ডাটা পরিষ্কার করতে অপশন> গোপনীয়তা ও নিরাপত্তা> কুকি ও সাইট ডাটা যান।
-       *[other] { -brand-short-name } এ যথেষ্ট পরিমাণে ডিস্ক স্পেস নাই। ওয়েবসাইট কন্টেন্ট ঠিকভাবে নাও দেখাতে পারে। সংরক্ষিত সাইট ডাটা পরিষ্কার করতে পছন্দ > গোপনীয়তা ও নিরাপত্তা> কুকি ও সাইট ডাটা যান।
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = ঠিক আছে, বুঝেছি
-    .accesskey = K
-
-space-alert-under-5gb-message = { -brand-short-name } এ যথেষ্ট পরিমাণে ডিস্ক স্পেস নাই। ওয়েবসাইট কন্টেন্ট ঠিকভাবে নাও দেখাতে পারে। আরও ভাল ব্রাউজিং অভিজ্ঞতা পেতে ডিস্ক ব্যবহার অপটিমাইজ করুন কিভাবে করবেন জানতে  “আরও জানুন” এ ক্লিক করুন।
 
 ## Privacy Section - HTTPS-Only
 

@@ -49,9 +49,6 @@ lockwise-title = আবার কখনো পাসওয়ার্ড ভু
 lockwise-header-content = { -lockwise-brand-name } নিরাপদভাবে ব্রাউজারে আপনার পাসওয়ার্ড সংরক্ষণ করে।
 lockwise-header-content-logged-in = নিরাপদভাবে আপনার সকল ডিভাইসে আপনার পাসওয়ার্ড সংরক্ষণ করুন এবং সিঙ্ক করুন।
 
-turn-on-sync = { -sync-brand-short-name } চালু করুন...
-    .title = সিঙ্ক পছন্দগুলোতে যান
-
 monitor-title = ডাটা ফাটল সন্ধান করুন
 monitor-link = কিভাবে এটি কাজ করে
 monitor-header-content-no-account = যাচাই করে দেখুন { -monitor-brand-name } জানা ডাটা লঙ্ঘনের অংশ হয়েছে কিনা এবং নতুন লঙ্ঘন সম্পর্কে সঙ্কেত পান।

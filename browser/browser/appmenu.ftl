@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = নিজের পছন্দানুযায়ী নির্বাচন…
-
 ## Zoom Controls
 
 appmenuitem-new-tab =
@@ -30,23 +27,21 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = এখনই সিঙ্ক করুন
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = সব প্রদর্শন
-    .tooltiptext = এই ডিভাইস থেকে সব ট্যাব দেখাও
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = কোন ট্যাব খোলা নেই
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = আপনার অন্যান্য ডিভাইসের ট্যাবসমূহের তালিকা দেখতে, ট্যাব সিঙ্ক চালু করুন।
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = আপনি কি আপনার অন্যান্য ডিভাইসের ট্যাবসমূহ এখানে দেখতে চান?
+
 appmenu-remote-tabs-connectdevice =
     .label = অন্য ডিভাইস সংযুক্ত করুন
 appmenu-remote-tabs-welcome = আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখুন।
 appmenu-remote-tabs-unverified = আপনার অ্যাকাউন্ট যাচাই করা প্রয়োজন।
+
 appmenuitem-save-page =
     .label = পাতা নতুনভাবে সংরক্ষণ…
 
@@ -100,3 +95,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = কাজ ব্যবস্থাপক
+

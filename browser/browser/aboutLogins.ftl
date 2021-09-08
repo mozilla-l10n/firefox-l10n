@@ -7,17 +7,12 @@ about-logins-page-title = লগইন ও পাসওয়ার্ড
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = আপনার পাসওয়ার্ড সর্বত্র নিন
-login-app-promo-subtitle = বিনামূল্যে { -lockwise-brand-name } অ্যাপ্লিকেশন পান
-login-app-promo-android =
-    .alt = Google Play তে পান
-login-app-promo-apple =
-    .alt = App Store থেকে ডাউনলোড করুন
 login-filter =
     .placeholder = লগইন অনুসন্ধান
+
 create-login-button = নতুন লগইন তৈরি করুন
+
 fxaccounts-sign-in-text = আপনার অন্যান্য ডিভাইসে আপনার পাসওয়ার্ড পান
-fxaccounts-sign-in-button = { -sync-brand-short-name } এ সাইন ইন করুন
 fxaccounts-avatar-button =
     .title = অ্যাকাউন্ট ব্যবস্থাপনা
 
@@ -33,8 +28,6 @@ menu-menuitem-preferences =
        *[other] পছন্দসমূহ
     }
 about-logins-menu-menuitem-help = সহায়তা
-menu-menuitem-android-app = Android জন্য { -lockwise-brand-short-name }
-menu-menuitem-iphone-app = iPhone ও iPad এর জন্য { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -65,12 +58,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = আপনার সংরক্ষিত লগইন সন্ধান করছেন? { -sync-brand-short-name } সেট আপ করুন।
 about-logins-login-intro-heading-logged-in = সিংক হওয়া কোনো লগইন পাওয়া যায়নি।
 login-intro-description = আপনি যদি ভিন্ন কোন ডিভাইসের { -brand-product-name } এ আপনার লগইন সমূহ সংরক্ষণ করে থাকেন, তাহলে সেগুলো এখানে কিভাবে পাবেন, সেটি রয়েছে এখানে:
-login-intro-instruction-fxa = আপনার লগইন সমূহ সংরক্ষিত রয়েছে এমন ডিভাইসে আপনার { -fxaccount-brand-name } সাইন ইন করুন বা তৈরী করুন।
-login-intro-instruction-fxa-settings = নিশ্চিত করুন যে আপনি { -sync-brand-short-name } সেটিং এ লগইন চেকবক্সটি নির্বাচন করেছেন
-about-logins-intro-instruction-help = আরও সহায়তার জন্য <a data-l10n-name="help-link">{ -lockwise-brand-short-name }</a> দেখুন
 about-logins-intro-import = আপনার লগিন সমূহ যদি আরেকটি ব্রাউজারে সংরক্ষিত থাকে, আপনি  <a data-l10n-name="import-link"> সেইসব লগিন { -lockwise-brand-short-name } এ নিয়ে আসতে পারবেন </a>
 
 ## Login
@@ -109,16 +98,16 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = সংরক্ষিত লগইন সম্পাদনা করুন
+
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = সংরক্ষিত পাসওয়ার্ড দেখাও
+
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = সংরক্ষিত পাসওয়ার্ড অনুলিপি করুন
 
 ## Master Password notification
-
-master-password-notification-message = সংরক্ষিত লগইন এবং পাসওয়ার্ড দেখতে দয়া করে আপনার মাস্টার পাসওয়ার্ড দিন
 
 ## Primary Password notification
 
@@ -128,30 +117,16 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] যেখানে আপনি { -brand-product-name } ব্যবহার করেন সেসব জায়গাগুলোতে আপনার লগইন ব্যবহার করতে চান ? আপনার { -sync-brand-short-name } অপশনে যান এবং লগইন চেকবক্স নির্বাচন করুন ।
-       *[other] যেখানে আপনি { -brand-product-name } ব্যবহার করেন সেসব জায়গাগুলোতে আপনার লগইন ব্যবহার করতে চান ? আপনার { -sync-brand-short-name } অপশনে যান এবং লগইন চেকবক্স নির্বাচন করুন ।
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] অপশনের জন্য { -sync-brand-short-name } দেখুন
-           *[other] পছন্দসমূহের জন্য { -sync-brand-short-name } দেখুন
-        }
-    .accesskey = v
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = আমাকে আবার জিজ্ঞেস করবেন না
-    .accesskey = D
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = বাতিল
 confirmation-dialog-dismiss-button =
     .title = বাতিল
+
 about-logins-confirm-remove-dialog-title = লগইনটি মুছে ফেলবেন?
 confirm-delete-dialog-message = এই পরিবর্তনটি অপরিবর্তনীয়!
 about-logins-confirm-remove-dialog-confirm-button = অপসারণ
+
 confirm-discard-changes-dialog-title = সংরক্ষিত পরিবর্তনগুলো বাতিল করতে চান?
 confirm-discard-changes-dialog-message = সংরক্ষিত সকল পরিবর্তনগুলো হারিয়ে যাবে।
 confirm-discard-changes-dialog-confirm-button = বাতিল
@@ -179,6 +154,7 @@ about-logins-vulnerable-alert-learn-more-link = আরও জানুন
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle } নামের ইউজার পূর্বের থেকেই আছে। <a data-l10n-name="duplicate-link">পূর্বে থাকা ইউজারটিতে যেতে চান?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = এই পাসওয়ার্ডটি সংরক্ষণ করার চেষ্টা করার সময় একটি ত্রুটি ঘটেছে।
 

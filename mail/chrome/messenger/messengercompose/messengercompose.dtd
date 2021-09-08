@@ -11,15 +11,11 @@
 <!ENTITY newMenu.label "নতুন (N)">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "বার্তা (M)">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "ঠিকানা বইয়ের পরিচিতি… (C)">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "সংযুক্ত করা হবে (t)">
 <!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "ফাইল… (F)">
-<!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "ওয়েব পেজ… (W)">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -45,8 +41,6 @@
 <!ENTITY sendLaterCmd.label "পরে পাঠানো হবে (L)">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "পৃষ্ঠার সেটআপ… (u)">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "মুদ্রণ… (P)">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
@@ -156,8 +150,6 @@
 <!ENTITY addressBookCmd.label "ঠিকানা বই (A)">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY preferencesCmdUnix.label "পছন্দসমূহ (n)">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
@@ -170,7 +162,6 @@
 <!ENTITY sendButton.label "পাঠান">
 <!ENTITY quoteButton.label "উদ্ধৃতি">
 <!ENTITY addressButton.label "পরিচিতি">
-<!ENTITY attachButton.label "সংযুক্তি যোগ">
 <!ENTITY spellingButton.label "বানান">
 <!ENTITY saveButton.label "সংরক্ষণ">
 <!-- Mail Toolbar Tooltips -->
@@ -235,8 +226,6 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "সব নির্বাচন (A)">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "ফাইল সংযুক্ত করুন… (F)">
-<!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "ওয়েব পেজ সংযুক্ত করুন… (W)">
 <!ENTITY attachPage.accesskey "W">
 <!-- Title for the address picker panel -->

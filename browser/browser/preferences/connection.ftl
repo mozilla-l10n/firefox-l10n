@@ -36,19 +36,10 @@ connection-proxy-http = HTTP প্রক্সি
 connection-proxy-http-port = পোর্ট
     .accesskey = P
 
-connection-proxy-http-sharing =
-    .label = FTP ও HTTPS এর জন্যও এই প্রক্সি ব্যবহার করুন
-    .accesskey = s
-
 connection-proxy-https = HTTPS প্রক্সি
     .accesskey = H
 connection-proxy-ssl-port = পোর্ট
     .accesskey = o
-
-connection-proxy-ftp = FTP প্রক্সি
-    .accesskey = F
-connection-proxy-ftp-port = পোর্ট
-    .accesskey = r
 
 connection-proxy-socks = SOCKS হোস্ট
     .accesskey = C
@@ -65,9 +56,6 @@ connection-proxy-noproxy = কোনো প্রক্সি নেই
     .accesskey = n
 
 connection-proxy-noproxy-desc = উদাহরণ: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = localhost এ সংযোগ, 127.0.0.1, এবং ::1 কখনো প্রক্সি করা হয় নাই।
 
 connection-proxy-autotype =
     .label = স্বয়ংক্রিয় প্রক্সি কনফিগারেশন URL

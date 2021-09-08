@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = সব ওয়েবসাইট অপসারণ কর
     .accesskey = e
 
-permissions-button-cancel =
-    .label = বাতিল
-    .accesskey = C
-
-permissions-button-ok =
-    .label = পরিবর্তন সংরক্ষণ
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = পরিবর্তন সংরক্ষণ
     .buttonaccesskeyaccept = S

@@ -28,25 +28,9 @@ serviceworker-worker-unregister = Unregister
 serviceworker-worker-debug = ডিবাগ
     .title = কেবলমাত্র চলন্ত সার্ভিস ওয়ার্কার ডিবাগ করা যাবে
 
-# Text for the debug link displayed for an already started Service Worker, when we
-# are in multi e10s mode, which effectively disables this link.
-serviceworker-worker-debug-forbidden = ডিবাগ করুন
-    .title = যদি মাল্টি e10s নিষ্ক্রিয় থাকে তাহলে শুধুমাত্র সার্ভিস ওয়ার্কার্স ডিবাগ করতে পারেন
-
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start2 = শুরু
-    .title = কেবল তখনই সেবাকর্মীরা শুরু করবে যদি  e10s নিষ্ক্রিয় থাকে
-
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = হালনাগাদ হয়েছে <time> { DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") } </time>
-
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = উৎস
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = অবস্থা
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
@@ -57,10 +41,6 @@ serviceworker-worker-status-running = চলছে
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = থেমে গেছে
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = কনসোলে ত্রুটি সন্ধান করুন। <a> কনসোল খুলুন </a>
 
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = অ্যাপ ম্যানিফেস্ট

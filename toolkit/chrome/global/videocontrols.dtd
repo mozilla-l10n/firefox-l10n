@@ -10,9 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "পূর্ণ পর্দা হতে প্রস্থান করুন">
 <!ENTITY castingButton.castingLabel "স্ক্রিনে কাস্ট করুন">
 <!ENTITY closedCaption.off "বন্ধ">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "ভলিউম স্লাইডার">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
