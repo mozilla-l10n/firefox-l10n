@@ -100,7 +100,7 @@
 <!ENTITY folderPropsNewsgroupCmd.label "Propiedades del grupo…">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY accountManagerCmd.label "Opciones de cuentas de correo y noticias…">
-<!ENTITY accountManagerCmd.accesskey "f">
+<!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY undoDeleteMsgCmd.label "Deshacer Borrar mensaje">
 <!ENTITY redoDeleteMsgCmd.label "Rehacer Borrar mensaje">
 <!ENTITY undoMoveMsgCmd.label "Deshacer Mover mensaje">
