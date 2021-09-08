@@ -31,6 +31,10 @@
 <!ENTITY restoreDeferred.label          "Επαναφορά καρτελών μόνο όταν τις χρειάζομαι">
 <!ENTITY restoreDeferred.accesskey      "μ">
 
+<!ENTITY siteIcons.label                "Εικονίδια ιστοτόπων">
+<!ENTITY useSiteIcons.label             "Εμφάνιση εικονιδίων ιστοτόπων">
+<!ENTITY useSiteIcons.accesskey         "ι">
+
 <!ENTITY homePageIntro.label            "Μετάβαση σε αυτήν την ομάδα σελίδων με κλικ στο κουμπί «Αρχική σελίδα»:">
 <!ENTITY useCurrent.label               "Χρήση τρέχουσας σελίδας">
 <!ENTITY useCurrent.accesskey           "Χ">

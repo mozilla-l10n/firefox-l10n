@@ -38,3 +38,5 @@
 <!ENTITY blockWebForgeries.label          "Φραγή σελίδων με αναφορές για πλαστογραφία (Ηλεκτρονικό ψάρεμα)">
 <!ENTITY blockWebForgeries.accesskey      "Η">
 
+<!ENTITY blockAutoRefresh.label           "Προειδοποίηση όταν οι ιστότοποι προσπαθούν να ανακατευθύνουν ή να φορτώσουν ξανά τη σελίδα">
+<!ENTITY blockAutoRefresh.accesskey       "δ">
