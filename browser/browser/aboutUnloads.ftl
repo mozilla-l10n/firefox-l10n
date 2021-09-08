@@ -7,6 +7,7 @@
 ### feature.
 
 about-unloads-column-priority = Priorité
+about-unloads-column-host = Hôte
 about-unloads-column-last-accessed = Dernier accès
 about-unloads-column-memory = Mémoire
     .title = Utilisation de mémoire par l’onglet estimée
