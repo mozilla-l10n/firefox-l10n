@@ -4,8 +4,10 @@
 
 import-ab-csv-window =
     .title = Importer un carnet d’adresses depuis un fichier texte
+
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Aperçu des données importées pour l’enregistrement { $recordNumber }
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Importer
     .buttonaccesskeyaccept = I

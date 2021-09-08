@@ -6,9 +6,6 @@ password-quality-meter = Mesure de la qualité du mot de passe :
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Définir le mot de passe principal
-
 change-device-password-window =
     .title = Changer le mot de passe
 
@@ -20,10 +17,6 @@ change-password-new = Saisissez le nouveau mot de passe
 change-password-reenter = Saisissez-le à nouveau
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Effacer le mot de passe principal
-    .style = width: 40em
 
 pippki-failed-pw-change = Impossible de changer le mot de passe.
 pippki-incorrect-pw = Vous n’avez pas saisi correctement le mot de passe actuel. Veuillez réessayer.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Effacer
-reset-password-text = Si vous effacez votre mot de passe principal, tous vos mots de passe web et courrier, vos données de formulaires, vos certificats personnels et vos clés privées seront oubliés. Voulez-vous vraiment supprimer le mot de passe principal ?
 
 reset-primary-password-text = Si vous effacez votre mot de passe principal, tous vos mots de passe web et courrier, vos certificats personnels et vos clés privées seront oubliés. Voulez-vous vraiment supprimer le mot de passe principal ?
 

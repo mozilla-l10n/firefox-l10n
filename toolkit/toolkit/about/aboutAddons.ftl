@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Gestionnaire de modules complémentaires
-
 addons-page-title = Gestionnaire de modules complémentaires
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Assistance des modules
 sidebar-help-button-title =
     .title = Assistance des modules
 
-preferences =
-    { PLATFORM() ->
-        [windows] Options de { -brand-short-name }
-       *[other] Préférences de { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Options de { -brand-short-name }
-           *[other] Préférences de { -brand-short-name }
-        }
-
 addons-settings-button = Paramètres de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Paramètres de { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Afficher toutes les extensions
-
-cmd-show-details =
-    .label = Afficher plus d’informations
-    .accesskey = A
-
-cmd-find-updates =
-    .label = Rechercher des mises à jour
-    .accesskey = R
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Options
-           *[other] Préférences
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Appliquer le thème
-    .accesskey = A
-
-cmd-disable-theme =
-    .label = Enlever le thème
-    .accesskey = E
-
-cmd-install-addon =
-    .label = Installer
-    .accesskey = I
-
-cmd-contribute =
-    .label = Contribuer
-    .accesskey = C
-    .tooltiptext = Contribuer au développement de ce module complémentaire
 
 detail-version =
     .label = Version
@@ -394,8 +342,6 @@ dictionary-disabled-heading = Désactivés
 
 locale-enabled-heading = Activées
 locale-disabled-heading = Désactivées
-
-ask-to-activate-button = Demander pour activer
 
 always-activate-button = Toujours activer
 never-activate-button = Ne jamais activer

@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Principes de fonctionnement
 
-turn-on-sync = Activer { -sync-brand-short-name }…
-    .title = Ouvrir les préférences de synchronisation
-
 monitor-title = Gardez un œil sur les fuites de données
 monitor-link = Principes de fonctionnement
 monitor-header-content-no-account = Consultez { -monitor-brand-name } pour vérifier si une fuite de données vous concerne et pour recevoir des alertes en cas de nouvelles fuites.

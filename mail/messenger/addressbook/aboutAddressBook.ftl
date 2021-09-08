@@ -20,6 +20,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Tous les carnets d’adresses
+
 about-addressbook-books-context-properties =
     .label = Propriétés
 about-addressbook-books-context-synchronize =
@@ -30,6 +31,7 @@ about-addressbook-books-context-delete =
     .label = Supprimer
 about-addressbook-books-context-remove =
     .label = Supprimer
+
 about-addressbook-confirm-delete-book-title = Supprimer le carnet d’adresses
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -47,14 +49,17 @@ about-addressbook-search =
     .placeholder = Rechercher { $name }
 about-addressbook-search-all =
     .placeholder = Rechercher dans tous les carnets d’adresses
+
 about-addressbook-sort-button =
     .title = Modifier l’ordre de la liste
+
 about-addressbook-name-format-display =
     .label = Nom à afficher
 about-addressbook-name-format-firstlast =
     .label = Prénom Nom
 about-addressbook-name-format-lastfirst =
     .label = Nom, Prénom
+
 about-addressbook-sort-name-ascending =
     .label = Trier par nom (A > Z)
 about-addressbook-sort-name-descending =
@@ -63,8 +68,10 @@ about-addressbook-sort-email-ascending =
     .label = Trier par adresse électronique (A > Z)
 about-addressbook-sort-email-descending =
     .label = Trier par adresse électronique (Z > A)
+
 about-addressbook-cards-context-write =
     .label = Écrire
+
 about-addressbook-confirm-delete-mixed-title = Supprimer des contacts et des listes
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -121,6 +128,7 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Modifier
 about-addressbook-cancel-edit-contact-button = Annuler
 about-addressbook-save-edit-contact-button = Enregistrer
+
 about-addressbook-details-email-addresses-header = Adresses électroniques
 about-addressbook-details-phone-numbers-header = Numéros de téléphone
 about-addressbook-details-home-address-header = Adresse personnelle

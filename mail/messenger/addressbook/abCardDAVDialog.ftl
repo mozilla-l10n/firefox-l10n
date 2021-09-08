@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Continuer
     .buttonaccesskeyaccept = C
 
-carddav-experimental-warning = La prise en charge des carnets d’adresses CardDAV est expérimentale et pourrait endommager définitivement vos données. À utiliser à vos risques et périls.
-
-carddav-provider-label =
-    .value = Fournisseur CardDAV :
-    .accesskey = F
-
-carddav-provider-option-other = Autre fournisseur…
-
-carddav-url-label =
-    .value = URL CardDAV :
-    .accesskey = V
-
 carddav-username-label =
     .value = Nom d’utilisateur :
     .accesskey = N
-carddav-username-input =
-    .placeholder = adresse@example.com
-
-carddav-password-label =
-    .value = Mot de passe :
-    .accesskey = M
-carddav-password-input =
-    .placeholder = Mot de passe
-
-carddav-remember-password =
-    .label = Retenir le mot de passe
-    .accesskey = R
 
 carddav-location-label =
     .value = Adresse :

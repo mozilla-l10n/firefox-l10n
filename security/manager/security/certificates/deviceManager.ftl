@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Numéro de série
 
-fips-nonempty-password-required = Le mode FIPS exige que vous ayez défini un mot de passe principal pour chaque périphérique de sécurité. Veuillez définir le mot de passe principal avant d’activer le mode FIPS.
-
 fips-nonempty-primary-password-required = Le mode FIPS exige que vous ayez défini un mot de passe principal pour chaque périphérique de sécurité. Veuillez définir le mot de passe principal avant d’activer le mode FIPS.
 unable-to-toggle-fips = Impossible de modifier le mode FIPS pour le périphérique de sécurité. Nous vous recommandons de quitter et de redémarrer cette application.
 load-pk11-module-file-picker-title = Sélectionner un pilote de périphérique PKCS#11 à charger

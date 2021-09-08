@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Ouvrir une fenêtre de navigatio
 about-private-browsing-search-placeholder = Rechercher sur le Web
 about-private-browsing-info-title = Cette fenêtre de navigation est privée
 about-private-browsing-info-myths = Principales idées reçues sur la navigation privée
-about-private-browsing =
-    .title = Rechercher sur le Web
 about-private-browsing-search-btn =
     .title = Rechercher sur le Web
 # Variables
@@ -23,12 +21,16 @@ about-private-browsing-handoff-text = Rechercher avec { $engine } ou saisir une 
 about-private-browsing-handoff-text-no-engine = Rechercher ou saisir une adresse
 about-private-browsing-not-private = Vous ne vous trouvez pas dans une fenêtre de navigation privée.
 about-private-browsing-info-description = { -brand-short-name } efface vos historiques de recherche et de navigation lorsque vous quittez l’application ou fermez tous les onglets et fenêtres de navigation privée. Bien que cela ne vous rende pas anonyme auprès des sites web ou de votre fournisseur d’accès à Internet, cela vous aide à garder confidentielles vos activités en ligne auprès de toute autre personne utilisant cet ordinateur.
+
 about-private-browsing-need-more-privacy = Besoin de plus d’intimité ?
 about-private-browsing-turn-on-vpn = Essayez { -mozilla-vpn-brand-name }
+
 about-private-browsing-info-description-simplified = { -brand-short-name } efface l’historique de vos recherches et de votre navigation à la fermeture des fenêtres privées, mais cela ne vous rend pas pour autant anonyme.
 about-private-browsing-learn-more-link = En savoir plus
+
 about-private-browsing-hide-activity = Cachez vos activités et votre emplacement, partout où vous mène votre navigation
 about-private-browsing-prominent-cta = Gardez votre vie privée avec { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

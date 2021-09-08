@@ -11,8 +11,6 @@
 
 <!ENTITY importFromNothing.label        "Ne rien importer">
 <!ENTITY importFromNothing.accesskey    "N">
-<!ENTITY importFromThunderbird.label     "Thunderbird">
-<!ENTITY importFromThunderbird.accesskey "I">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 ou supérieur">
 <!ENTITY importFromSeamonkey3.accesskey "n">
 <!ENTITY importFromOutlook.label        "Outlook">
