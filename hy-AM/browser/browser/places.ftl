@@ -5,34 +5,12 @@
 places-open =
     .label = Բացել
     .accesskey = O
-places-open-tab =
-    .label = Բացել նոր ներդիրում
-    .accesskey = Բ
 places-open-in-tab =
     .label = Բացել նոր ներդիրում
     .accesskey = w
 places-open-all-in-tabs =
     .label = Բացել Բոլորը Ներդիրներում
     .accesskey = O
-places-open-window =
-    .label = Բացել նոր պատուհանում
-    .accesskey = ն
-places-open-private-window =
-    .label = Բացել հղումը Գաղտնի Դիտարկմամբ
-    .accesskey = Դ
-
-places-new-bookmark =
-    .label = Նոր էջանիշ…
-    .accesskey = Ն
-places-new-folder-contextmenu =
-    .label = Նոր թղթապանակ...
-    .accesskey = F
-places-new-folder =
-    .label = Նոր թղթապանակ...
-    .accesskey = o
-places-new-separator =
-    .label = Նոր բաժանիչ
-    .accesskey = S
 
 places-view =
     .label = Տեսք
@@ -64,7 +42,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Խմբավորել ըստ անունների
     .accesskey = r
-places-properties =
-    .label = Հատկությունները
-    .accesskey = թ
 

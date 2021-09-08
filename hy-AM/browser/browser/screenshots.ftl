@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Ստանալ էկրանի հանույթը
-
-screenshots-my-shots-button = Իմ պատկերները
-
 screenshot-toolbarbutton =
     .label = Էկրանի հանույթ
     .tooltiptext = Ստանալ էկրանի հանույթը
@@ -40,8 +36,6 @@ screenshots-login-error-details = Մենք չենք կարող պահպանել 
 
 screenshots-unshootable-page-error-title = Հնարավոր չէ ստանալ էկրանի հանույթը:
 screenshots-unshootable-page-error-details = Սա ստանդարտ վեբ էջ չէ, ուստի դուք չեք կարող ստանալ դրա հանույթը:
-
-screenshots-self-screenshot-error-title = Դուք չեք կարող ստանալ { -screenshots-brand-name }-ի էջի հանույթը:
 
 screenshots-empty-selection-error-title = Ընտրվածը քիչ է
 

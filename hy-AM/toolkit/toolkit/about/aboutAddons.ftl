@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Հավելումների կառավարում
-
 addons-page-title = Հավելումների կառավարում
 
 search-header =
@@ -33,60 +30,11 @@ help-button = Լրացուցիչ աջակցություն
 sidebar-help-button-title =
     .title = Լրացուցիչ աջակցություն
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } Ընտրանքներ
-       *[other] { -brand-short-name } Նախընտրություններ
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } Ընտրանքներ
-           *[other] { -brand-short-name } Նախընտրություններ
-        }
-
 show-unsigned-extensions-button =
     .label = Որոշ ընդլայնումներ չեն կարող ստուգվել:
 
 show-all-extensions-button =
     .label = Ցուցադրել բոլորը
-
-cmd-show-details =
-    .label = Ցուցադրել մանրամասն տեղեկություն
-    .accesskey = Ց
-
-cmd-find-updates =
-    .label = Գտնել թարմացումներ
-    .accesskey = Գ
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Կարգավորումներ
-           *[other] Նախըտրանքներ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Կ
-           *[other] Ն
-        }
-
-cmd-enable-theme =
-    .label = Հագնել թեմա
-    .accesskey = Հ
-
-cmd-disable-theme =
-    .label = Դադարեցնել թեմայի օգտագործումը
-    .accesskey = թ
-
-cmd-install-addon =
-    .label = Տեղադրել
-    .accesskey = Տ
-
-cmd-contribute =
-    .label = Ներդրում
-    .accesskey = Ն
-    .tooltiptext = Օգնել այս հավելման զարգացմանը
 
 detail-version =
     .label = Տարբերակ
@@ -394,8 +342,6 @@ dictionary-disabled-heading = Անջատված
 
 locale-enabled-heading = Միացված
 locale-disabled-heading = Անջատված
-
-ask-to-activate-button = Ակտիվացման հարցում
 
 always-activate-button = Միշտ ակտիվացնել
 never-activate-button = Երբեք չակտիվացնել

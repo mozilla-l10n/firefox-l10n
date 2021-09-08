@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Գրանշանի կոդավորումը տարբերանշանի բովանդակության համար
-fonts-languages-fallback-desc = Գրանշանի կոդավորումը օգտագործվում է այն տարբերանշանի բովանդակության համար, որը չի կարողանում որոշել իր կոդավորումը:
-
-fonts-languages-fallback-label = Գրվածքի պահոստային կոդավորում
-    .accesskey = T
-
-fonts-languages-fallback-name-auto =
-    .label = Ծրագրայինը տվյալ լեզվի համար
-fonts-languages-fallback-name-arabic =
-    .label = Արաբերեն
-fonts-languages-fallback-name-baltic =
-    .label = Բալթյան
-fonts-languages-fallback-name-ceiso =
-    .label = Կենտրոնաեվրոպական, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Կենտրոնաեվրոպական, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Չինարեն, Պարզեցված
-fonts-languages-fallback-name-traditional =
-    .label = Չիներեն, Պարզեցված
-fonts-languages-fallback-name-cyrillic =
-    .label = Կիրիլյան
-fonts-languages-fallback-name-greek =
-    .label = Հունարեն
-fonts-languages-fallback-name-hebrew =
-    .label = Եբրայերեն
-fonts-languages-fallback-name-japanese =
-    .label = Ճապոներեն
-fonts-languages-fallback-name-korean =
-    .label = Կորեերեն
-fonts-languages-fallback-name-thai =
-    .label = Թայլանդերեն
-fonts-languages-fallback-name-turkish =
-    .label = Թրքերեն
-fonts-languages-fallback-name-vietnamese =
-    .label = Վիետնամերեն
-fonts-languages-fallback-name-other =
-    .label = Այլ (ներ. Արևմտաեվրոպականը)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

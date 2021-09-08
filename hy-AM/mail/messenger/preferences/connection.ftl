@@ -94,9 +94,6 @@ no-proxy-label =
 
 no-proxy-example = Օրինակ՝ .mozilla.org, .net.nz, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = Միացումները localhost- ին ՝ 127.0.0.1 և :: 1-ին, երբեք չեն միջնորդվում:
-
 proxy-password-prompt =
     .label = Իսկորոշում չհարցնել, եթե գաղտնաբառը պահպանվա է
     .accesskey = i

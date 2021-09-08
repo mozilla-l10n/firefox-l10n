@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY deleteCmd.label          "Ջնջել">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY preferencesCmd2.label "Ընտրանքներ">
-<!ENTITY preferencesCmd2.accesskey "Կ">
-<!ENTITY preferencesCmdUnix.label       "Նախապատվություններ">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY customizeCmd.label "Հարմարեցնել">
 <!ENTITY customizeCmd.accesskey "t">

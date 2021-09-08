@@ -7,20 +7,12 @@ about-logins-page-title = Մուտքագրումներ և գաղտնաբառեր
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Վերցրեք ձեր գաղտնաբառերը ամենուր
-login-app-promo-subtitle = Ձեռք բերել անվճար{ -lockwise-brand-name } հավելվածը
-login-app-promo-android =
-    .alt = Ձեռք բերել Google Play-ից
-login-app-promo-apple =
-    .alt = Ներբեռնել App Store-ից
-
 login-filter =
     .placeholder = Որոնել մուտքագրումներ
 
 create-login-button = Ստեղծել նոր մուտքագրում
 
 fxaccounts-sign-in-text = Ստացեք ձեր գաղտնաբառերը ձեր մյուս սարքերում
-fxaccounts-sign-in-button = Մուտք գործել { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Կառավարել հաշիվը
 
@@ -39,8 +31,6 @@ menu-menuitem-preferences =
        *[other] Նախապատվություններ
     }
 about-logins-menu-menuitem-help = Օգնություն
-menu-menuitem-android-app = { -lockwise-brand-short-name }-ը Android-ի համար
-menu-menuitem-iphone-app = { -lockwise-brand-short-name }-ը iPhone-ի և iPad-ի համար
 
 ## Login List
 
@@ -71,13 +61,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Փնտրո՞ւմ եք ձեր պահպանված մուտքագրումները: Տեղակայեք { -sync-brand-short-name }-ը:
-
 about-logins-login-intro-heading-logged-in = Համաժամեցված մուտք չի գտնվել:
 login-intro-description = Եթե պահպանել եք ձեր մուտքագրումները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպես կարող եք ստանալ դրանք.
-login-intro-instruction-fxa = Ստեղծեք կամ մուտք գործեք { -fxaccount-brand-name } այն սարքում, որտեղ ձեր մուտքագրումները պահպանված են
-login-intro-instruction-fxa-settings = Համոզվեք, որ ընտրել եք ձեր Մուտքագրումների նշատուփը { -sync-brand-short-name }-ի կարգավորումներում:
-about-logins-intro-instruction-help = Լրացուցիչ օգնության համար այցելեք <a data-l10n-name="help-link">{ -lockwise-brand-short-name } աջակցել</a>։
 about-logins-intro-import = Եթե ձեր մուտքանունները այլ զննարկիչում են պահպանված, դուք կարող եք <a data-l10n-name="import-link">դրանք ներածել { -lockwise-brand-short-name }</a>-ում
 
 ## Login
@@ -133,8 +118,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = պատճենեք պա
 
 ## Master Password notification
 
-master-password-notification-message = Խնդրում ենք մուտքագրել ձեր գլխավոր գաղտնաբառը ՝ պահպանված մուտքերը և գաղտնաբառերը դիտելու համար
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Ձեր մուտքագրումը արտահանելու համար մուտքագրեք ձեր Windows մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
 # This message can be seen when attempting to export a password in about:logins
@@ -149,22 +132,6 @@ master-password-reload-button =
     .accesskey = L
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Ձեզ պետք են ձեր գաղտնաբառերը, որտեղ որ օգտագործում եք { -brand-product-name }-ը: Անցեք ձեր { -sync-brand-short-name }-ի ընտրանքներին և ընտրեք Մուտքագրումներ նշատուփը:
-       *[other] Ձեզ պետք են ձեր գաղտնաբառերը, որտեղ որ օգտագործում եք { -brand-product-name }-ը: Անցեք ձեր { -sync-brand-short-name }-ի նախապատվություններ և ընտրեք Մուտքագրումներ նշատուփը:
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Այցելեք { -sync-brand-short-name }-ի ընտրանքները
-           *[other] Այցելեք { -sync-brand-short-name }-ի նախապատվությունները
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Այլևս չհարցնել
-    .accesskey = D
 
 ## Dialogs
 

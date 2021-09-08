@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Բացառություններ
     .style = width: 45em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = Վեբ կայքի հասցեն.
     .accesskey = բ

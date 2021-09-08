@@ -15,10 +15,4 @@ view-fingerprint-button =
 otr-settings-title = OTR կարգավորումներ
 otr-log =
     .label = Ներառել OTR գաղտնագրված հաղորդագրույունները երկխոսության մատյաններում
-otr-requireEncryption =
-    .label = Պահանջել վերաջոր գաղտնագրում՝ մեկը մյուսին զրույցներում
-otr-verifyNudge =
-    .label = Միշտ հիշեցնել ինձ`ստուգել չվավերացված կոնտակը
-
-otr-notYetAvailable = Դեռևս մատչելի չէ
 

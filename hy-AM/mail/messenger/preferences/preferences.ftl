@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Փակել
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Կարգավորումներ
-           *[other] Կարգավորումներ…
-        }
-
 pane-general-title = Գլխավոր
 category-general =
     .tooltiptext = { pane-general-title }
@@ -126,18 +119,7 @@ update-in-progress-ok-button = &Հրաժարվել
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
 
-addons-button = Ընդլայնումներ և Ոճեր
-
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Գլխավոր գաղտնաբառ ստեղծելու համար մուտքագրեք ձեր Windows-ի մուտքի հավատարմագրերը: Սա օգնում է պաշտպանել ձեր հաշիվների անվտանգությունը:
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = Ստեղծել Գլխավոր գաղտնաբառ
 
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
@@ -203,10 +185,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Կարգավորել…
     .accesskey = C
-
-tray-icon-label =
-    .label = Ցուցադրել էկրանի ներքևի պատկերը
-    .accesskey = t
 
 mail-system-sound-label =
     .label = Համակարգային ձայնը՝ նոր նամակի դեպքում
@@ -396,9 +374,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Գույնը.
     .accesskey = o
-
-search-input =
-    .placeholder = Որոնում
 
 type-column-label =
     .label = Պարունակությունը
@@ -687,16 +662,6 @@ passwords-button =
     .label = Պահպանված գաղտնաբառեր…
     .accesskey = S
 
-master-password-description = Գաղտնաբառի կառավարիչը կպաշտպանի Ձեր բոլոր գաղտնաբառերը, բայց պետք է գոնե մեկ անգամ մուտքագրեք։
-
-master-password-label =
-    .label = Օգտագործել գաղտնաբառ վարպետին
-    .accesskey = U
-
-master-password-button =
-    .label = Փոխել գաղտնաբառ վարպետին…
-    .accesskey = C
-
 
 junk-description = Նշեք փոստաղբի հիմնական կարգավորումները փոստարկղի կարգավորումներում։
 
@@ -863,26 +828,6 @@ no-preview-description = Այս թեման վավեր չէ կամ ներկայո
 chat-variant-label =
     .value = Տարբերակ․
     .accesskey = V
-
-chat-header-label =
-    .label = Ցուցադրել վերնագիրը
-    .accesskey = H
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Գտնել Ընտրանքներում
-           *[other] Գտնել Նախապատվություններում
-        }
 
 ## Preferences UI Search Results
 

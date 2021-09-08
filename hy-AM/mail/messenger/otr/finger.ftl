@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = OTR ստեղնաշարի մատնահետքեր նախորդ վերջավոր գաղտնագրված զրույցներից:
 
-finger-screenName =
-    .label = Կոնտակտ
-
 finger-verified =
     .label = Ստուգման վիճակը
 finger-fingerprint =

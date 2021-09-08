@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Ինչպես է այն աշխատում
 
-turn-on-sync = Միացնել { -sync-brand-short-name }
-    .title = Անցնել համաժամեցման հատկություններին
-
 monitor-title = Փնտրել տվյալների խախտումներ
 monitor-link = Ինչպես է դա աշխատում
 monitor-header-content-no-account = Ստուգեք { -monitor-brand-name }՝իմանալու համար, թե արդյոք դուք եղել եք հայտնի տվյալների խախտման մաս, և ահազանգեր ստացեք նոր խախտումների մասին։

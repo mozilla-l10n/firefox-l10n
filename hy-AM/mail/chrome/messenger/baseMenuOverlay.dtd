@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY aboutProduct2.label "&brandShorterName;-ի մասին">
 <!ENTITY aboutProduct2.accesskey "A">
-<!ENTITY helpTroubleshootingInfo.label     "Անսարքության տեղեկություններ">
-<!ENTITY helpTroubleshootingInfo.accesskey "Ա">
-<!ENTITY helpSafeMode.label     "Վերամեկնարկել հավելումներն անջատված…">
-<!ENTITY helpSafeMode.accesskey "Վ">
-<!ENTITY helpSafeMode.stop.label     "Վերագործարկել՝ միացնելով հավելումները">
-<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "&brandShortName; Օգնություն">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">

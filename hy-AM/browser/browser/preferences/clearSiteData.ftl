@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Կպահանջի կայքերից կրկին բեռնել պատկերները և տվյալները
 
-clear-site-data-cancel =
-    .label = Չեղարկել
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Մաքրել
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = Մաքրել
     .buttonaccesskeyaccept = l

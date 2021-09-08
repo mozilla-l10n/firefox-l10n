@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Գծիկավոր
 
-font-size-label =
-    .value = Չափը.
-    .accesskey = e
-
 font-size-monospace-label =
     .value = Չափը.
     .accesskey = i
