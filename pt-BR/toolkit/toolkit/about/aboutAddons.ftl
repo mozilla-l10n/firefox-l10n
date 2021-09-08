@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Gerenciador de extensões
-
 addons-page-title = Gerenciador de extensões
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Suporte para extensões
 sidebar-help-button-title =
     .title = Suporte para extensões
 
-preferences =
-    { PLATFORM() ->
-        [windows] Opções do { -brand-short-name }
-       *[other] Preferências do { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opções do { -brand-short-name }
-           *[other] Preferências do { -brand-short-name }
-        }
-
 addons-settings-button = Configurações do { -brand-short-name }
 sidebar-settings-button-title =
     .title = Configurações do { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Mostrar todas as extensões
-
-cmd-show-details =
-    .label = Mostrar mais informações
-    .accesskey = E
-
-cmd-find-updates =
-    .label = Procurar atualizações
-    .accesskey = P
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opções
-           *[other] Preferências
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Aplicar tema
-    .accesskey = A
-
-cmd-disable-theme =
-    .label = Stop Wearing Theme
-    .accesskey = W
-
-cmd-install-addon =
-    .label = Instalar
-    .accesskey = I
-
-cmd-contribute =
-    .label = Contribuir
-    .accesskey = C
-    .tooltiptext = Contribuir para o desenvolvimento desta extensão
 
 detail-version =
     .label = Versão
@@ -401,8 +349,6 @@ dictionary-disabled-heading = Desativado
 
 locale-enabled-heading = Ativado
 locale-disabled-heading = Desativado
-
-ask-to-activate-button = Perguntar para ativar
 
 always-activate-button = Sempre ativar
 never-activate-button = Nunca ativar

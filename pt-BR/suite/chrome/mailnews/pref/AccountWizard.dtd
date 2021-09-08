@@ -18,10 +18,6 @@
 <!ENTITY accountTypeNews.label "Conta de grupos de notícias">
 <!ENTITY accountTypeNews.accesskey "n">
 
-<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
-<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
-<!ENTITY accountTypeMovemail.accesskey "U">
-
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identidade">

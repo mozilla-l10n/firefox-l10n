@@ -61,7 +61,6 @@
 <!ENTITY itemSessions.label               "Sessões autenticadas">
 <!ENTITY itemSessions.accesskey           "S">
 
-<!ENTITY sanitizeButton.label            "Limpar dados pessoais agora">
 <!ENTITY itemSessionsS.accesskey          "u">
 
 <!ENTITY itemSitePreferences.label        "Preferências de sites">

@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Adicionar aba aos favoritos
     .accesskey = A
-reopen-in-container =
-    .label = Reabrir em um contêiner
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Abrir em nova aba contêiner
     .accesskey = e
@@ -68,26 +65,6 @@ move-to-new-window =
     .accesskey = v
 tab-context-close-multiple-tabs =
     .label = Fechar várias abas
-    .accesskey = v
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Reabrir aba
-            [one] Reabrir aba
-           *[other] Reabrir abas
-        }
-    .accesskey = b
-close-tab =
-    .label = Fechar aba
-    .accesskey = F
-close-tabs =
-    .label = Fechar abas
-    .accesskey = h
-move-tabs =
-    .label = Mover abas
-    .accesskey = v
-move-tab =
-    .label = Mover aba
     .accesskey = v
 tab-context-share-url =
     .label = Compartilhar
@@ -128,6 +105,7 @@ tab-context-move-tabs =
            *[other] Mover abas
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

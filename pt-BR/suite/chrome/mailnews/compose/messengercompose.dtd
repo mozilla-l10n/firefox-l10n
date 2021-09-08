@@ -47,11 +47,6 @@
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "d">
 
-<!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "Reformatar quebras de linha">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "b">
-
 <!ENTITY accountManagerCmd.label "Configurações de contas...">
 <!ENTITY accountManagerCmd.accesskey "t">
 

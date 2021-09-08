@@ -6,9 +6,6 @@ password-quality-meter = Medidor de qualidade da senha
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Alterar senha mestra
-
 change-device-password-window =
     .title = Alterar senha
 
@@ -20,10 +17,6 @@ change-password-new = Nova senha:
 change-password-reenter = Confirmar a nova senha:
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Redefinir senha mestra
-    .style = width: 40em
 
 pippki-failed-pw-change = Não foi possível alterar a senha.
 pippki-incorrect-pw = Você não digitou corretamente a senha atual. Tente novamente.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Redefinir
-reset-password-text = Se redefinir a senha mestra, todas as suas senhas de contas e emails, dados de formulários, certificados pessoais e chaves privadas serão esquecidas. Tem certeza que quer redefinir sua senha mestra?
 
 reset-primary-password-text = Se você redefinir a senha principal, todas as suas senhas de contas e emails, chaves privadas e certificados pessoais armazenados serão esquecidos. Tem certeza que quer redefinir sua senha principal?
 

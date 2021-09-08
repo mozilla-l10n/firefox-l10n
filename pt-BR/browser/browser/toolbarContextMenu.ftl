@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Selecionar todas as abas
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Reabrir aba
-            [one] Reabrir aba
-           *[other] Reabrir abas
-        }
-    .accesskey = b
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -57,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fixar no menu
     .accesskey = F
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Ocultar automaticamente na barra de ferramentas
-    .accesskey = O
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Ocultar botão quando estiver vazio
     .accesskey = O

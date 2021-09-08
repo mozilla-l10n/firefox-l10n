@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Adicionar novo contêiner
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Preferências do contêiner { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Ícone
 containers-color-label = Cor
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Concluído
-    .accesskey = C
 
 containers-dialog =
     .buttonlabelaccept = Concluído

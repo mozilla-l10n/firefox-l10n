@@ -38,16 +38,20 @@ menu-quit =
             [windows] S
            *[other] S
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Encerrar { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Sair do { -brand-shorter-name }
+
 menu-about =
     .label = Sobre o { -brand-shorter-name }
     .accesskey = S
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Editar
     .accesskey = E
-menu-edit-find-on =
-    .label = Procurar nesta página…
-    .accesskey = n
 menu-edit-find-in-page =
     .label = Procurar na página…
     .accesskey = P
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Barras de ferramentas
     .accesskey = B
-menu-view-customize-toolbar =
-    .label = Personalizar…
-    .accesskey = P
 menu-view-customize-toolbar2 =
     .label = Personalizar barra de ferramentas…
     .accesskey = P
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Estilo de página básico
     .accesskey = b
-menu-view-charset =
-    .label = Codificação de texto
-    .accesskey = c
 menu-view-repair-text-encoding =
     .label = Reparar codificação de texto
     .accesskey = c
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Reabrir todas as janelas
 menu-bookmarks-menu =
     .label = Favoritos
     .accesskey = v
-menu-bookmarks-show-all =
-    .label = Mostrar todos os favoritos
-menu-bookmark-this-page =
-    .label = Adicionar página aos favoritos
 menu-bookmarks-manage =
     .label = Gerenciar favoritos
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Downloads
     .accesskey = D
-menu-tools-addons =
-    .label = Extensões
-    .accesskey = E
-menu-tools-fxa-sign-in =
-    .label = Entrar no { -brand-product-name }…
-    .accesskey = E
-menu-tools-turn-on-sync =
-    .label = Ativar o { -sync-brand-short-name }…
-    .accesskey = A
 menu-tools-addons-and-themes =
     .label = Extensões e temas
     .accesskey = E
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Reconectar ao { -brand-product-name }…
     .accesskey = R
-menu-tools-web-developer =
-    .label = Desenvolvimento web
-    .accesskey = w
 menu-tools-browser-tools =
     .label = Ferramentas do navegador
     .accesskey = F
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Informações da página
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opções
-           *[other] Preferências
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
 menu-settings =
     .label = Configurações
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Ajuda
     .accesskey = u
-menu-help-product =
-    .label = Ajuda do { -brand-shorter-name }
-    .accesskey = u
-menu-help-show-tour =
-    .label = Tutorial do { -brand-shorter-name }
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = Importar de outro navegador…
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = Atalhos de teclado
-    .accesskey = h
-menu-help-troubleshooting-info =
-    .label = Informações para resolver problemas
-    .accesskey = I
 menu-get-help =
     .label = Obter ajuda
     .accesskey = a
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Enviar opinião…
     .accesskey = n
-menu-help-safe-mode-without-addons =
-    .label = Reiniciar com extensões desativadas…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = Reiniciar com extensões ativadas
-    .accesskey = R
 menu-help-enter-troubleshoot-mode2 =
     .label = Modo de solução de problemas…
     .accesskey = M
