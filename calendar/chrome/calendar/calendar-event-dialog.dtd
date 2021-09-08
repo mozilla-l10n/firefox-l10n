@@ -146,9 +146,9 @@
 
 <!ENTITY event.invite.attendees.label                     "Πρόσκληση συμμετεχόντων…">
 <!ENTITY event.invite.attendees.accesskey                 "σ">
-<!ENTITY event.email.attendees.label                      "Σύνταξη email προς κάθε συμμετέχοντα…">
+<!ENTITY event.email.attendees.label                      "Σύνθεση email προς κάθε συμμετέχοντα…">
 <!ENTITY event.email.attendees.accesskey                  "χ">
-<!ENTITY event.email.tentative.attendees.label            "Σύνταξη email προς τους αναποφάσιστους συμμετέχοντες…">
+<!ENTITY event.email.tentative.attendees.label            "Σύνθεση email προς αναποφάσιστους συμμετέχοντες…">
 <!ENTITY event.email.tentative.attendees.accesskey        "φ">
 <!ENTITY event.remove.attendees.label2                    "Αφαίρεση όλων των συμμετεχόντων">
 <!ENTITY event.remove.attendees.accesskey                 "r">
