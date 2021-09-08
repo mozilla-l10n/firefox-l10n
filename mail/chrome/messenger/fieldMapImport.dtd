@@ -39,10 +39,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "Romela-kahare Buka ya Diaterese">
-
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
-<!ENTITY fieldMapImport.recordNumber "Data e Rometsweng-kahare bakeng sa Rekoto: ">
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "Sebedisa Eya Hodimo le Eya Tlase ho fumana tse tshwanang bakeng sa buka ya diaterese ka leqeleng bakeng sa data e rometsweng-kahare ho le letona. Tshwaolla diaetheme tseo o sa batleng ho di romela-kahare.">

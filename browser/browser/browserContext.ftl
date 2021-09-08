@@ -5,17 +5,6 @@
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Kgutlela morao ka leqephe le le leng
-    .aria-label = Morao
-    .accesskey = M
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -35,17 +24,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Eya pele ka leqephe le le leng
-    .aria-label = Pele
-    .accesskey = P
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -106,9 +84,6 @@ main-context-menu-page-save =
     .label = Boloka Leqephe E le...
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link-new-tab =
@@ -136,10 +111,6 @@ main-context-menu-copy-email =
     .label = Kopitsa Aterese ya Imeili
     .accesskey = A
 
-main-context-menu-copy-link =
-    .label = Kopitsa Tulo ya Lehokela
-    .accesskey = K
-
 ## Media (video/audio) controls
 ##
 ## The accesskey for "Play" and "Pause" are the
@@ -156,29 +127,13 @@ main-context-menu-copy-link =
 
 ##
 
-main-context-menu-image-view =
-    .label = Sheba Setshwantsho
-    .accesskey = S
-
 main-context-menu-image-copy =
     .label = Kopitsa Setshwantsho
     .accesskey = i
 
-main-context-menu-image-copy-location =
-    .label = Kopitsa Tulo ya Setshwantsho
-    .accesskey = o
-
 main-context-menu-image-save-as =
     .label = Boloka Setshwantsho E le...
     .accesskey = l
-
-main-context-menu-image-set-as-background =
-    .label = Seta Jwalo ka Bomorao ba Deskethopo...
-    .accesskey = S
-
-main-context-menu-view-background-image =
-    .label = Sheba Bomorao ba Setshwantsho
-    .accesskey = a
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -230,10 +185,6 @@ main-context-menu-view-selection-source =
 main-context-menu-view-page-source =
     .label = Sheba Mohlodi wa Leqephe
     .accesskey = S
-
-main-context-menu-view-page-info =
-    .label = Sheba Lesedi ka Leqephe
-    .accesskey = L
 
 main-context-menu-bidi-switch-text =
     .label = Fetola Tsela ya Mongolo

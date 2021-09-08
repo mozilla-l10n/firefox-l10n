@@ -75,10 +75,6 @@ applications-file-ending = Faele ya { $extension }
 applications-select-helper = Kgetha Tshebetso ya Sethusi
 
 # Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
-
-# Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
@@ -190,8 +186,6 @@ use-current-pages =
 ## Privacy Section - Forms
 
 ## Privacy Section - Logins and Passwords
-
-forms-master-pw-fips-title = Hajwale o mokgweng wa FIPS. FIPS e hloka Phasewete e Kgolo e seng lephaka.
 
 forms-master-pw-fips-desc = Phetolo ya Phasewete e Hlolehile
 

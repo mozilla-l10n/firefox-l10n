@@ -19,8 +19,6 @@
 <!ENTITY redoCmd.accesskey "p">
 <!ENTITY deleteCmd.label "Phumula">
 <!ENTITY deleteCmd.accesskey "p">
-<!ENTITY preferencesCmdUnix.label "Boikgethelo">
-<!ENTITY preferencesCmdUnix.accesskey "t">
 
 <!ENTITY viewMenu.label "Sheba">
 <!ENTITY viewMenu.accesskey "s">

@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Khastomaesa...
-
 ## Zoom Controls
 
 appmenuitem-new-window =

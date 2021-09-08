@@ -36,10 +36,6 @@
 <!ENTITY printCmd.label "Printa...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Tekolopele ya Ho printa">
-<!ENTITY printPreviewCmd.accesskey "l">
-<!ENTITY printSetupCmd.label "Tlhopiso ya Leqephe...">
-<!ENTITY printSetupCmd.accesskey "i">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Phumula Melaetsa">
@@ -322,8 +318,6 @@
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY addressBookCmd.label "Buka ya Diaterese">
 <!ENTITY addressBookCmd.accesskey "b">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "d">
 <!ENTITY filtersApply.label "Mathisa Difiltara tse Foldareng">
 <!ENTITY filtersApply.accesskey "M">
 <!-- Help Menu -->
@@ -347,13 +341,10 @@
 <!ENTITY fileButton.label "Faele">
 <!ENTITY nextButton.label "E latelang">
 <!ENTITY previousButton.label "E fetileng">
-<!ENTITY deleteButton.label "Phumula">
 <!ENTITY markButton.label "Tshwaya">
 <!ENTITY printButton.label "Printa">
 <!ENTITY stopButton.label "Emisa">
 <!ENTITY throbberItem.title "Sesupa Tshebetso">
-<!ENTITY junkButton.label "Se seng Bohlokwa">
-<!ENTITY notJunkButton.label "Ha se Se seng Bohlokwa">
 <!ENTITY addressBookButton.label "Buka ya Diaterese">
 <!ENTITY searchItem.title "Quick Search">
 <!ENTITY mailViewsToolbarItem.title "Mail Views">
@@ -373,12 +364,9 @@
 <!ENTITY previousButton.tooltip "Kgutlela molaetseng o ka morao o sa balwang">
 <!ENTITY goForwardButton.tooltip "Go forward one message">
 <!ENTITY goBackButton.tooltip "Go back one message">
-<!ENTITY deleteButton.tooltip "Phumula molaetsa o kgethilweng kapa foldara">
 <!ENTITY markButton.tooltip "Tshwaya melaetsa">
 <!ENTITY printButton.tooltip "Printa molaetsa ona">
 <!ENTITY stopButton.tooltip "Emisa phetiso ya jwale">
-<!ENTITY junkButton.tooltip "Tshwaya melaetsa e kgethilweng e le e seng bohlokwa">
-<!ENTITY notJunkButton.tooltip "Tshwaya melaetsa e kgethilweng e se e seng bohlokwa">
 <!ENTITY addressBookButton.tooltip "Eya bukeng ya diaterese">
 <!ENTITY tagButton.tooltip "Tag messages">
 <!-- Tags Menu Popup -->
