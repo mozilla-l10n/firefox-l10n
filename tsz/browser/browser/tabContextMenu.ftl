@@ -18,10 +18,6 @@ move-to-new-window =
     .label = Mátarhu Eranharikuarhu mósku
     .accesskey = E
 
-close-tab =
-    .label = Míkani iorhukua
-    .accesskey = M
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 

@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,18 +48,11 @@ main-context-menu-page-save =
     .label = Patsani esïka…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
     .label = Mítani parhijtsïkutarakua
     .accesskey = M
-
-main-context-menu-bookmark-this-link =
-    .label = kuparatani ini ch'unkutaramakuani
-    .accesskey = L
 
 main-context-menu-save-link =
     .label = Patsani parhijtsïkutarakua esïka…
@@ -113,17 +94,9 @@ main-context-menu-image-reload =
     .label = Eratikuani uininharhitantsï
     .accesskey = E
 
-main-context-menu-image-view =
-    .label = Eratekua exe
-    .accesskey = E
-
 main-context-menu-image-save-as =
     .label = Arisï patsani p´itakatani…
     .accesskey = A
-
-main-context-menu-image-set-as-background =
-    .label = Jimini tatsunharitantsï…
-    .accesskey = J
 
 main-context-menu-image-info =
     .label = Arhintsï í eratikueri ampe
@@ -182,12 +155,4 @@ main-context-menu-view-selection-source =
 main-context-menu-view-page-source =
     .label = Nanina karakata jarhaski i
     .accesskey = V
-
-main-context-menu-view-page-info =
-    .label = Arhintsï iri ampe
-    .accesskey = A
-
-main-context-menu-inspect-element =
-    .label = Miyunharikuntsï orheta
-    .accesskey = Q
 

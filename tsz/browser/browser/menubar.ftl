@@ -93,9 +93,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Anchitakua marhuatakueecha
     .accesskey = m
-menu-view-customize-toolbar =
-    .label = Peerakurhini…
-    .accesskey = P
 menu-view-sidebar =
     .label = Mananharitarakua
     .accesskey = M
@@ -134,8 +131,6 @@ menu-history-undo-menu =
 menu-bookmarks-menu =
     .label = Kuirunharitarakuecha
     .accesskey = K
-menu-bookmarks-show-all =
-    .label = Xarhatani iámenduecha kuirunharitarakuecha
 menu-bookmarks-all-tabs =
     .label = &Arhukutarhakuechani kúparata arhistakuecharhu…
 menu-bookmarks-toolbar =
@@ -149,26 +144,12 @@ menu-tools =
 menu-tools-downloads =
     .label = Anchitarakua keskukuecha
     .accesskey = A
-menu-tools-addons =
-    .label = Jukajtakuecha
-    .accesskey = J
 menu-tools-page-source =
     .label = Iri eranharhikuakarakata
     .accesskey = I
 menu-tools-page-info =
     .label = Arhintsï ampenkari exeni jaka
     .accesskey = A
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Erakuani
-           *[other] Sánteru xénchakuecha
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] E
-           *[other] S
-        }
 
 ## Window Menu
 
@@ -199,15 +180,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Jarhuajpikua
     .accesskey = a
-menu-help-keyboard-shortcuts =
-    .label = Sóntku Anchitarakuaecha
-    .accesskey = S
-menu-help-troubleshooting-info =
-    .label = Arhintsï axu enkari no kurhankujka
-    .accesskey = A
 menu-help-feedback-page =
     .label = Arhístatsperakua axá…
     .accesskey = A
-menu-help-safe-mode-without-addons =
-    .label = menteru uentani urani anchitarakuechani
-    .accesskey = m

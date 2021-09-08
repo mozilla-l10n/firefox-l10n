@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Peerakurhini…
-
 ## Zoom Controls
 
 appmenuitem-new-window =

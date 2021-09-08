@@ -9,10 +9,6 @@ permissions-block =
     .label = Uraperantani
     .accesskey = U
 
-permissions-button-cancel =
-    .label = No uétarisïtia
-    .accesskey = N
-
 permissions-capabilities-allow =
     .label = Jierata
 permissions-capabilities-block =

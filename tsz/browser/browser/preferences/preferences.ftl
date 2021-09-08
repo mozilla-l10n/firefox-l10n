@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Erakuani
-       *[other] Sánteru xénchakuecha
-    }
-
 pane-general-title = Iamu ampe
 category-general =
     .tooltiptext = { pane-general-title }
@@ -85,10 +79,6 @@ applications-manage-app =
     .label = Mamaru úrani…
 applications-always-ask =
     .label = k'urhamarhini
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
