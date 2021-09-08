@@ -5,65 +5,77 @@
 permissions-window =
     .title = Excepcions
     .style = width: 48em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adreza d'o puesto web
     .accesskey = a
+
 permissions-block =
     .label = Blocar
     .accesskey = B
+
 permissions-session =
     .label = Permitir por ista sesión
     .accesskey = s
+
 permissions-allow =
     .label = Permitir
     .accesskey = P
+
 permissions-button-off =
     .label = Desactivar
     .accesskey = D
+
 permissions-button-off-temporarily =
     .label = Desactivar temporalment
     .accesskey = t
+
 permissions-site-name =
     .label = Puesto web
+
 permissions-status =
     .label = Estau
+
 permissions-remove =
     .label = Borrar puesto web
     .accesskey = B
+
 permissions-remove-all =
     .label = Borrar totz los puestos web
     .accesskey = t
-permissions-button-cancel =
-    .label = Cancelar
-    .accesskey = C
-permissions-button-ok =
-    .label = Alzar os cambios
-    .accesskey = A
+
 permission-dialog =
     .buttonlabelaccept = Alzar os cambios
     .buttonaccesskeyaccept = A
+
 permissions-autoplay-menu = Per defecto pa totz los puestos web:
+
 permissions-searchbox =
     .placeholder = Mirar puesto web
+
 permissions-capabilities-autoplay-allow =
     .label = Permitir l'audio y lo video
 permissions-capabilities-autoplay-block =
     .label = Blocar l'audio
 permissions-capabilities-autoplay-blockall =
     .label = Blocar l'audio y lo video
+
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Preguntar-me-lo siempre
+
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Blocar
 permissions-capabilities-listitem-allow-session =
     .value = Permitir ta ista sesión
+
 permissions-capabilities-listitem-off =
     .value = Desactivau
 permissions-capabilities-listitem-off-temporarily =

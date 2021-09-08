@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Cómo funciona
 
-turn-on-sync = Activar { -sync-brand-short-name }...
-    .title = Ir a las preferencias de sincronización
-
 monitor-title = Buscar filtracions de datos
 monitor-link = Cómo funciona
 monitor-header-content-no-account = Consulta { -monitor-brand-name } pa veyer si los tuyos datos amaneixen en garra filtración de datos y recibe alertas sobre nuevas filtracions.

@@ -59,8 +59,6 @@ policy-DisableForgetButton = Priva l'acceso a lo botón Oblidar.
 
 policy-DisableFormHistory = No remerar lo historial de buquedas y formularios.
 
-policy-DisableMasterPasswordCreation = Si ye activau, no se podrá crear una clau mayestra.
-
 policy-DisablePrimaryPasswordCreation = Si ye activau, no se podrá crear una clau primaria.
 
 policy-DisablePasswordReveal = No permitir de revelar claus en inicios de sesión alzaus.
@@ -132,8 +130,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Restaurar la conducta 
 ##
 
 policy-LocalFileLinks = Permitir a pachinas web usar vinclos a fichers locals.
-
-policy-MasterPassword = Requerir u privar l'uso d'una clau mayestra.
 
 policy-PrimaryPassword = Requerir u privar l'uso d'una clau principal.
 

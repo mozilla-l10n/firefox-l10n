@@ -5,31 +5,9 @@
 places-open =
     .label = Ubrir
     .accesskey = U
-places-open-tab =
-    .label = Ubrir en una pestanya nueva
-    .accesskey = v
 places-open-all-in-tabs =
     .label = Ubrir tot en pestanyas
     .accesskey = o
-places-open-window =
-    .label = Ubrir en una finestra nueva
-    .accesskey = b
-places-open-private-window =
-    .label = Ubrir en una nueva finestra privada
-    .accesskey = p
-
-places-new-bookmark =
-    .label = Adhibir un nuevo marcapachinas…
-    .accesskey = n
-places-new-folder-contextmenu =
-    .label = Creyar una nueva carpeta…
-    .accesskey = c
-places-new-folder =
-    .label = Creyar una nueva carpeta…
-    .accesskey = u
-places-new-separator =
-    .label = Adhibir un nuevo separador
-    .accesskey = v
 
 places-view =
     .label = Veyer
@@ -61,9 +39,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Ordenar por nombre
     .accesskey = r
-places-properties =
-    .label = Propiedatz
-    .accesskey = i
 
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =

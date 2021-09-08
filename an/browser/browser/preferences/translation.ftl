@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Borrar totz os puestos
     .accesskey = B
 
-translation-button-close =
-    .label = Zarrar
-    .accesskey = Z
-
 translation-dialog =
     .buttonlabelaccept = Zarrar
     .buttonaccesskeyaccept = Z

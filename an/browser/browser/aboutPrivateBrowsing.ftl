@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Ubrir una finestra privada
 about-private-browsing-search-placeholder = Buscar en o web
 about-private-browsing-info-title = Yes en una finestra privada
 about-private-browsing-info-myths = Mitos comuns alredor d'a navegación privada
-about-private-browsing =
-    .title = Mirar en o Web
 about-private-browsing-search-btn =
     .title = Mirar en o web
 # Variables
@@ -23,8 +21,10 @@ about-private-browsing-handoff-text = Mira con { $engine } u escribe una adreza
 about-private-browsing-handoff-text-no-engine = Mirar u escribir adreza
 about-private-browsing-not-private = Agora no ye en una finestra privada.
 about-private-browsing-info-description = { -brand-short-name } borra lo tuyo historia de busquedas y de navegación quan sales de l'aplicación u zarras totas las pestanyas y finestras de navegacion privada. Encara que ixo no fa que sigas anonimo pa los puestos webs u pa lo tuyo proveyedor de servicios d'Internet, ye mas facil mantener en privau lo que fas en línea debant de qualsequier atra persona que emplegue este ordinador.
+
 about-private-browsing-need-more-privacy = Te cal mas privacidat?
 about-private-browsing-turn-on-vpn = Preba { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

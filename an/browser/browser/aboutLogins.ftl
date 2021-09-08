@@ -7,20 +7,12 @@ about-logins-page-title = Inicios de sesión y claus
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Leva-te las tuyas claus ta qualsequier cabo
-login-app-promo-subtitle = Instala l'aplicación gratuita { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Baixa-te-la de Google Play
-login-app-promo-apple =
-    .alt = Baixa-te-la de l'App Store
-
 login-filter =
     .placeholder = Buscar nombres d'usuario
 
 create-login-button = Creyar un nuevo nombre d'usuario
 
 fxaccounts-sign-in-text = Acceder a las claus dende totz los tuyos dispositivos
-fxaccounts-sign-in-button = Inicia la sesión en { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Chestionar la cuenta
 
@@ -38,8 +30,6 @@ menu-menuitem-preferences =
        *[other] Preferencias
     }
 about-logins-menu-menuitem-help = Aduya
-menu-menuitem-android-app = { -lockwise-brand-short-name } pa Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } pa iPhone y iPad
 
 ## Login List
 
@@ -70,13 +60,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Yes mirando los inicios de sesión que has alzaus? Configura { -sync-brand-short-name }
-
 about-logins-login-intro-heading-logged-in = No s'ha trobau garra inicio de sesión sincronizau.
 login-intro-description = Si has alzau inicios de sesión en { -brand-product-name } en belatro dispositivo, esta ye la manera de tener-los tamién aquí:
-login-intro-instruction-fxa = Crea un { -fxaccount-brand-name } u inicia-ie la sesión dende lo dispositivo an que tiens alzaus los inicios de sesión
-login-intro-instruction-fxa-settings = Asegura-te de que has triau la casilla de selección Inicios de sesión en os achustes de { -sync-brand-short-name }
-about-logins-intro-instruction-help = Pa obtener mas aduya, visita l' <a data-l10n-name="help-link">asistencia de { -lockwise-brand-short-name }</a>.
 about-logins-intro-import = Si los inicios de sesión s'han alzau en belatro ordinador, puetz <a data-l10n-name="import-link">importar-los en { -lockwise-brand-short-name }</a>
 
 about-logins-intro-import2 = Si os tuyos inicios de sesión son guardaus defuera de { -brand-product-name }, puetz <a data-l10n-name="import-browser-link"> importar-los dende atro navegador</a> u <a data-l10n-name="import-file-link"> dende un archivo</a>
@@ -134,8 +119,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copia la clau alzada
 
 ## Master Password notification
 
-master-password-notification-message = Escribe la clau mayestra pa veyer los inicios de sesión y claus alzaus
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pa exportar los tuyos inicios de sesión, escribe las tuyas credencials d'acceso a Windows. Esto t'aduya a protecher la seguranza d'as tuyas cuentas.
 # This message can be seen when attempting to export a password in about:logins
@@ -150,22 +133,6 @@ master-password-reload-button =
     .accesskey = I
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Quiers acceder a los tuyos inicios de sesión astí an que usas { -brand-product-name }? Ves ta las Opcions de { -sync-brand-short-name } y marca la caixeta de selección Inicios de sesión.
-       *[other] Quiers acceder a los tuyos inicios de sesión astí an que usas { -brand-product-name }? Ves ta las Preferencias de { -sync-brand-short-name } y marca la caixeta de selección Inicios de sesión.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Visitar las opcions de { -sync-brand-short-name }
-           *[other] Visitar las preferencias de { -sync-brand-short-name }
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = No tornar a preguntar-me-lo
-    .accesskey = N
 
 ## Dialogs
 

@@ -14,9 +14,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Salir d'a pantalla completa">
 <!ENTITY castingButton.castingLabel "Transmitir a la pantalla">
 <!ENTITY closedCaption.off "Desactivau">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Control de volumen">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->

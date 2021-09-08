@@ -3,11 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Context Menu -->
 
-<!ENTITY popupWindowRejectCmd.label     "Refusar finestras emerchents d'iste puesto web">
-<!ENTITY popupWindowRejectCmd.accesskey "R">
-<!ENTITY popupWindowAllowCmd.label      "Permitir finestras emerchents d'iste puesto web">
-<!ENTITY popupWindowAllowCmd.accesskey  "P">
-
 <!ENTITY openLinkCmdInTab.label       "Ubrir vinclo en una pestaña nueva">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Ubrir vinclo en una finestra nueva">
