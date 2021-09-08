@@ -10,11 +10,6 @@ crashes-id = شناخت رپورٹ کریں
 crashes-send-date = ارسال کردہ
 crashes-all-reports = تمام کریش رپورٹیں
 crashes-no-config = یہ ایپلی کیشن کریش رپورٹیں دکھانے کے لیے تشکیل کردہ نہیں ہے۔
-extensions-title = ایکسٹینشن
-extensions-name = نام
-extensions-enabled = اہل بنایا گیا
-extensions-version = ورژن
-extensions-id = ID
 support-addons-title = ایڈ اون
 support-addons-name = نام
 support-addons-type = قسم
@@ -110,8 +105,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = پروسیسنگ کی قسم
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = دلائل
-safe-mode-title = محفوظ موڈ آزمائیں
-restart-in-safe-mode-label = ایڈز آن نا اہل کر کے دوبارہ شروع کریں...
 
 restart-button-label = دوبارہ شروع کریں
 
@@ -159,9 +152,6 @@ remote-debugging-accepting-connections = روابط قبول کرہا  ھے
 remote-debugging-url = URL
 
 ##
-
-support-third-party-modules-thread = تھریڈ
-support-third-party-modules-no-value = (کوئی قدر نہیں)
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -257,19 +247,12 @@ webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = WebGL 2 Driver Version
 webgl2-driver-extensions = WebGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
-blocklisted-bug = معلوم مسائل کی وجہ سے بلاک لسٹ
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = گڑبڑ { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = بلیک لسٹ؛ ناکامی کوڈ { $failureCode }
 
 d3d11layers-crash-guard = D3D11 کمپوزیٹر
-d3d11video-crash-guard = D3D11 ویڈیو کوٹواچک
-d3d9video-crash-guard = D3D9 ویڈیو کوٹواچک
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = اگلی بار دوبارہ شروع کرنے پر پھر سیٹ  کریں
@@ -308,14 +291,6 @@ launcher-process-status-unknown = نامعلوم اسٹیٹس
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = صارف کی جانپ سے چالو کیا گیا
-multi-process-status-1 = پہلے سے طے شدہ اہل بنایا گیا
-multi-process-status-2 = نااہل
-multi-process-status-4 = رسائی پذیری، فورم کے اوزار کیحانب سے نااہل بنایا گیا
-multi-process-status-6 = غیر تعاون یافتہ متن کی ان پٹ کے باعث نااہل بنایا گیا
-multi-process-status-7 = add-ons کی طرف سے غیر فعال
-multi-process-status-8 = زبردستی نا اہل بنائیں
-multi-process-status-unknown = نامعلوم اسٹیٹس
 
 # Variables
 # $fissionWindows (integer) - Number of remote windows

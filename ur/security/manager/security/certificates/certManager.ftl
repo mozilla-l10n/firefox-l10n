@@ -17,42 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = مقتدرات
 
-certmgr-detail-general-tab-title =
-    .label = عمومی
-    .accesskey = ع
-
-certmgr-detail-pretty-print-tab-title =
-    .label = تفصیلات
-    .accesskey = ت
-
-certmgr-pending-label =
-    .value = فی الحال تصدیق نامے کی توثیق کر رہا ہے…
-
-certmgr-subject-label = جاری شدہ بنام
-
-certmgr-issuer-label = جاری شدہ بمطابق
-
-certmgr-period-of-validity = جواز کا عرصہ
-
-certmgr-fingerprints = انگلیوں کے نشان
-
-certmgr-cert-detail =
-    .title = تصدیق نامہ تفصیل
-    .buttonlabelaccept = بند کریں
-    .buttonaccesskeyaccept = ب
-
-certmgr-cert-detail-commonname = کامن نیم (CN)
-
-certmgr-cert-detail-org = تنظیم (O)
-
-certmgr-cert-detail-orgunit = تنظیمی یونٹ (OU)
-
-certmgr-cert-detail-serial-number = تسلسلی نمبر
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 انگلی کے نشان
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 انگلیوں کے نشان
-
 certmgr-edit-ca-cert =
     .title = CA تصدیق نامہ بھروسا سیٹنگز تدوین کریں
     .style = width: 48em;
@@ -81,12 +45,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = سلامتی آلہ
 
-certmgr-begins-on = شروع ہوتا ہے
-
 certmgr-begins-label =
     .label = شروع ہوتا ہے
-
-certmgr-expires-on = مدت ختم ہوتی ہے بر
 
 certmgr-expires-label =
     .label = مدت ختم ہوتی ہے بر
@@ -128,18 +88,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = درآمد کریں...
     .accesskey = د
-
-certmgr-details =
-    .value = قطعات تصدیق نامہ
-    .accesskey = ق
-
-certmgr-fields =
-    .value = قطعہ قدر
-    .accesskey = ق
-
-certmgr-hierarchy =
-    .value = تصدیق نامہ درجہ بندی
-    .accesskey = H
 
 certmgr-add-exception =
     .label = اکسیپشن اضافہ کریں…
@@ -203,12 +151,6 @@ delete-user-cert-confirm = کیا آپ واقعی یہ تصدیق نامے حذ�
 delete-user-cert-impact = اگر آپ اپنا کوئی تصدیق نامہ حذف کرتے ہیں تو آپ آئندہ سے اسے اپنی شناخت کے لیے استعمال نہیں کر سکتے۔
 
 
-delete-ssl-cert-title =
-    .title = پیش کار تصدیق نامہ استثنیات حذف کریں
-delete-ssl-cert-confirm = کیا آپ واقعی یہ پیش کار استثنیات حذف کرنا چاہتے ہیں؟
-delete-ssl-cert-impact = اگر آپ پیش کار کی استثنا کو حذف کریں گے، آپ اس پیش کار کے لیئے عام سلامتی پڑتال کو بحال کریں گے اور اسکا استعمال کرنا طلب کرے گا ایک جائز تصدیق نامہ کی۔
-
-
 delete-ca-cert-title =
     .title = CA تصدیق نامے کی بے اعتمادی کریں یا حذف کریں
 delete-ca-cert-confirm = آپ نے یہ CA تصدیق ناموں کو حذف کرنے کی درخواست کی پے۔ در ساختہ تصدیق ناموں میں تمام بھروسا حذف کر لیا جائے گا، جس کا ایک حیسا اثر ہے۔ کیا آپکو یقین ہے کے آپ حذف یا بد اعتمادی کرنا چاہتے ہیں؟
@@ -228,45 +170,6 @@ cert-with-serial =
     .value = تصدیق نامہ مع سیریل نمبر: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = تصدیق نامہ ناظرین: “{ $certName }”
-
-not-present =
-    .value = <Not Part Of Certificate>
-
-# Cert verification
-cert-verified = یہ تصدیق نامہ مندرجہ ذیل استعمالات کےلیے توثیق کیا جا چکا ہے:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL وصول کار تصدیق نامہ
-
-verify-ssl-server =
-    .value = SSL پیش کار تصدیق نامہ
-
-verify-ssl-ca =
-    .value = SSL مقتدرہ تصدیق نامہ
-
-verify-email-signer =
-    .value = ای میل دستخط کنندہ تصدیق نامہ
-
-verify-email-recip =
-    .value = ای میل وصولندہ تصدیق نامہ
-
-# Cert verification
-cert-not-verified-cert-revoked = اس تصدیق نامے کی توثیق نہیں کر سکا کیوں کہ یہ باطل قرار دیا گیا ہے۔
-cert-not-verified-cert-expired = اس تصدیق نامے کی توثیق نہیں کر سکا کیوں کہ اس کی مدت ختم ہو چکی ہے۔
-cert-not-verified-cert-not-trusted = اس تصدیق نامے کی توثیق نہیں کر سکا کیوں کہ یہ قابل بھروسہ نہیں ہے۔
-cert-not-verified-issuer-not-trusted = اس تصدیق نامے کی توثیق نہیں کر سکا کیوں کہ جاری کنندہ قابل بھروسہ نہیں ہے۔
-cert-not-verified-issuer-unknown = اس تصدیق نامے کی توثیق نہیں کر سکا کیوں کہ جاری کنندہ نامعلوم ہے۔
-cert-not-verified-ca-invalid = اس تصدیق نامے کی توثیق نہیں کر سکا کیوں کہ سی اے تصدیق نامہ ناجائز ہے۔
-cert-not-verified_algorithm-disabled = اس تصدیق نامہ کی توثیق نہیں کی جا سکتی کیونکہ اس پر اس دستخط الگورزم سے دستخط کئے گئے ہے جو کی نا اہل ہیں کیونکہ وہ الگورزم قابل بھروسا نہیں ہے۔
-cert-not-verified-unknown = نامعلوم دلائل کی وجہ سے اس تصدیق نامے کی توثیق نہیں کر سکا۔
 
 ## Used to show whether an override is temporary or permanent
 

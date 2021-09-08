@@ -5,9 +5,6 @@
 places-open =
     .label = کھولیں
     .accesskey = ک
-places-open-tab =
-    .label = نئی ٹیب میں کھولیں
-    .accesskey = ن
 places-open-in-tab =
     .label = نئی ٹیب میں کھولیں
     .accesskey = w
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = تمام ٹیبوں میں کھولیں
     .accesskey = ت
-places-open-window =
-    .label = نئے دریچے میں کھولیں
-    .accesskey = N
-places-open-private-window =
-    .label = ربط نئے نجی دریچے میں کھولیں
-    .accesskey = P
-
-places-new-bookmark =
-    .label = نئی بک مارک…
-    .accesskey = ن
-places-new-folder-contextmenu =
-    .label = نیا پوشہ…
-    .accesskey = پ
-places-new-folder =
-    .label = نیا پوشہ…
-    .accesskey = پ
-places-new-separator =
-    .label = نیا جداکار
-    .accesskey = ج
 
 places-open-in-window =
     .label = نئی ونڈوں میں کھولیں
@@ -78,9 +56,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = چھانٹیں بمطابق نام
     .accesskey = ن
-places-properties =
-    .label = خواص
-    .accesskey = خ
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -115,3 +90,4 @@ other-bookmarks-folder =
 places-manage-bookmarks =
     .label = بک مارکس منظم کریں
     .accesskey = M
+

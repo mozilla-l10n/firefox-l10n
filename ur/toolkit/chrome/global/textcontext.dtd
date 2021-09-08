@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "صاف کریں">
 
-<!ENTITY fillLoginMenu.label          "لاگ ان بھریں">
-<!ENTITY fillLoginMenu.accesskey      "ب">
-<!ENTITY fillPasswordMenu.label       "پاس ورڈ بھریں">
-<!ENTITY fillPasswordMenu.accesskey   "ب">
-<!ENTITY fillUsernameMenu.label       "صارف بھریں">
-<!ENTITY fillUsernameMenu.accesskey   "ب">
-<!ENTITY noLoginSuggestions.label     "(کوئی ہجے کی تجاویز نہیں)">
-<!ENTITY viewSavedLogins.label        "محفوظ شدہ لاگ ان دکھائے">

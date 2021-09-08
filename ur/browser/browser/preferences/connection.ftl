@@ -41,11 +41,6 @@ connection-proxy-https = HTTPS پراکسی
 connection-proxy-ssl-port = پورٹ
     .accesskey = o
 
-connection-proxy-ftp = FTP  پراکسی
-    .accesskey = F
-connection-proxy-ftp-port = پورٹ
-    .accesskey = r
-
 connection-proxy-socks = SOCKS ھوسٹ
     .accesskey = C
 connection-proxy-socks-port = پورٹ

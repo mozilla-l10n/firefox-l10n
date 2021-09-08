@@ -46,27 +46,12 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = ٹیب بک مارک کریں
     .accesskey = B
-reopen-in-container =
-    .label = کنٹینر میں پھر کھولیں
-    .accesskey = e
 move-to-new-window =
     .label = نئے دریچے میں بڑھائیں
     .accesskey = W
 tab-context-close-multiple-tabs =
     .label = تمام ٹیب بند کریں
     .accesskey = M
-close-tab =
-    .label = ٹیب بند کریں
-    .accesskey = c
-close-tabs =
-    .label = ٹیب بند کریں
-    .accesskey = S
-move-tabs =
-    .label = ٹیب منتقل کریں
-    .accesskey = v
-move-tab =
-    .label = ٹیب منتقل کریں
-    .accesskey = v
 tab-context-share-url =
     .label = شیئر کریں
     .accesskey = h
@@ -100,3 +85,4 @@ tab-context-move-tabs =
            *[other] ٹیب منتقل کریں
         }
     .accesskey = v
+

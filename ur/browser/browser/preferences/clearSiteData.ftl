@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = ویب سائٹس کو تصاویر اور ڈیٹا دوبارہ لوڈ کرنے کی ضرورت ہوگی
 
-clear-site-data-cancel =
-    .label = منسوخ کریں
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = صاف کریں
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = صاف کریں
     .buttonaccesskeyaccept = l

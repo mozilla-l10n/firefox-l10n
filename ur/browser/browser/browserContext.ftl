@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = ایک صفحہ واپس جائیں
-    .aria-label = واپس
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = ایک صفحہ آگے جائیں
-    .aria-label = آگے
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -116,9 +94,6 @@ main-context-menu-page-save =
     .label = صفحہ محفوظ کریں بطور…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -179,10 +154,6 @@ main-context-menu-open-link-new-private-window =
     .label = ربط نئے نجی دریچے میں کھولیں
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = یہ ربط نشان زد کریں
-    .accesskey = L
-
 main-context-menu-bookmark-link =
     .label = بک مارک ربط
     .accesskey = B
@@ -207,10 +178,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = ای میل پتہ نقل کریں
     .accesskey = A
-
-main-context-menu-copy-link =
-    .label = ربط محل وقوع نقل کریں
-    .accesskey = a
 
 main-context-menu-copy-link-simple =
     .label = ربط نقل کریں
@@ -239,32 +206,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = انمیوٹ
     .accesskey = m
-
-main-context-menu-media-play-speed =
-    .label = چلنے کی رفتار
-    .accesskey = d
-
-main-context-menu-media-play-speed-slow =
-    .label = (0.5×) گنا اہستہ
-    .accesskey = S
-
-main-context-menu-media-play-speed-normal =
-    .label = عام
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = (1.25×) گنا تیز
-    .accesskey = F
-
-main-context-menu-media-play-speed-faster =
-    .label = تیز تر (1.5×)
-    .accesskey = a
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Ludicrous (2×)
-    .accesskey = L
 
 main-context-menu-media-play-speed-2 =
     .label = رفتار
@@ -310,23 +251,9 @@ main-context-menu-media-video-leave-fullscreen =
     .label = پوری سکرین سے باہر نکلیں
     .accesskey = u
 
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = تصویر-میں-تصویر
-    .accesskey = u
-
 main-context-menu-image-reload =
     .label = نقش پھر لوڈ کریں
     .accesskey = R
-
-main-context-menu-image-view =
-    .label = نقش نظارہ کریں
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = وڈیو دیکھیں
-    .accesskey = I
 
 main-context-menu-image-view-new-tab =
     .label = تصویر نئی ٹیب میں کھولیں
@@ -339,18 +266,6 @@ main-context-menu-video-view-new-tab =
 main-context-menu-image-copy =
     .label = نقش نقل کریں
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = نقش محل وقوع نقل کریں
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = وڈیو محل وقوع نقل کریں
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = سمعی محل وقوع نقل کریں
-    .accesskey = o
 
 main-context-menu-image-copy-link =
     .label = نقش کے رببط کی نقل کریں
@@ -367,10 +282,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = نقش ای میل کریں…
     .accesskey = g
-
-main-context-menu-image-set-as-background =
-    .label = ڈیسک ٹاپ پس منظر کے طور پر سیٹ کریں ...
-    .accesskey = S
 
 main-context-menu-image-set-image-as-background =
     .label = نقش کو ڈیسک ٹاپ پس منظر کے طور پر سیٹ کریں ...
@@ -391,10 +302,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = آڈیو محفوظ کریں بطور…
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = سنیپ شاٹ محفوظ کریں بطور…
-    .accesskey = S
 
 main-context-menu-video-take-snapshot =
     .label = اسنیپ شاٹ لیں…
@@ -423,14 +330,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = صفحہ کو آلہ پر ارسال کریں
     .accesskey = n
-
-main-context-menu-view-background-image =
-    .label = پس منظر نقش نظارہ کریں
-    .accesskey = w
-
-main-context-menu-generate-new-password =
-    .label = تیار کردہ پاس ورڈ کا استعمال کریں…
-    .accesskey = G
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -522,10 +421,6 @@ main-context-menu-view-page-source =
     .label = صفحہ ماخذ نظارہ کریں
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = صفحہ معلومات نظارہ کریں
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = متن کی سمت بدلیں کریں
     .accesskey = w
@@ -533,10 +428,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = صفحے کی سمت تبدیل کریں
     .accesskey = D
-
-main-context-menu-inspect-element =
-    .label = عناصر چیک کریں
-    .accesskey = Q
 
 main-context-menu-inspect =
     .label = تحقیق
@@ -548,3 +439,4 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = DRM کے بارے میں مزید سیکھیں
     .accesskey = D
+

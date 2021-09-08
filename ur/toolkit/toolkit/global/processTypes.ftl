@@ -9,8 +9,6 @@
 
 process-type-web = ویب مواد
 
-process-type-browser = اہم
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = امتیاز شدہ کے بارے میں

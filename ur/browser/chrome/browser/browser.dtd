@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "مینیو کھولیں">
-
 <!ENTITY navbarOverflow.label                "مزید ٹول…">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "ٹیب پن کریں">
-<!ENTITY  unpinTab.label                     "ٹیب انپن کریں">
 
 <!ENTITY  listAllTabs.label      "تمام ٹیب دکھائیں">
 
@@ -25,75 +15,24 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "فائل کھولیں…">
 <!ENTITY printCmd.label "چھاپیں…">
 
-<!ENTITY taskManagerCmd.label "ٹاسک مینیجر">
-
 <!ENTITY menubarCmd.label "مینوبار">
 <!ENTITY menubarCmd.accesskey "M">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "نیویگیشن">
-<!ENTITY personalbarCmd.label "بک مارک ٹولبار">
-<!ENTITY personalbarCmd.accesskey "B">
-<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
-include the word "toolbar" or such, because screen readers already know that
-this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbar.accessibleLabel "بک مارکس">
-<!ENTITY bookmarksToolbarItem.label "ٹولبار اشیاہ کو بک مارک کگاتا ہے">
 
 <!ENTITY fullScreenCmd.label "پوری اسکرین">
 
 <!ENTITY pictureInPictureHideToggle.label "تصویر میں تصویر ٹوگل چھپائیں">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; سیٹنگز">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "ایک اور آلہ جوڑیں…">
-<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "&brandProductName; میں سائن ان کریں">
-<!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; چالو  کریں ">
-<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; خدمات">
-<!ENTITY fxa.menu.account.label "اکائونٹ">
-<!ENTITY fxa.menu.settings.label "سیٹنگز">
-<!ENTITY fxa.menu.accountSettings.label "اکاؤنٹ کی سیٹنگز">
-<!ENTITY fxa.menu.manageAccount2.label "اکاؤنٹ بندوبست کریں">
-<!ENTITY fxa.menu.signOut.label "سائن آؤٹ…">
-<!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label;… سیٹ اپ کریں">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 <!ENTITY fxa.service.sendTab.description "کسی بھی آلے پر فوری طور پر ایک ٹیب بھیجیں جس پر آپ نے سائن ان کیا ہے۔">
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "اب پوری اسکرین پر ہے">
-<!ENTITY fullscreenWarning.generic.label "یہ دستاویز اب پوری اسکرین پر ہے">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "پوری سکرین سے باہر نکلیں (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "پوری سکرین سے باہر نکلیں (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "آپ کے نشان کار کا کنٹرول ہے۔ Esc دبا کر کنٹرول واپس لیں">
-<!ENTITY pointerlockWarning.generic.label "اس دستاویز کہ پاس آپ کہ نشان کار کا کنٹرول ہے ۔ کنٹرول واپس حاصل کرنے کے لیے Esc دبائیں ۔">
-
-<!ENTITY showAllBookmarks2.label "تمام بک مارک دکھائیں">
-<!ENTITY recentBookmarks.label "حالیہ بک مارک کردہ">
-<!ENTITY bookmarksToolbarChevron.tooltip "مزید بک مارک دکھائیں">
 
 <!ENTITY printButton.label            "چھاپیں">
 <!ENTITY printButton.tooltip          "اس صفحہ کو چھاپیں">
@@ -104,28 +43,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY homeButton.label             "گھر">
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; ابتدائی صفحہ">
 
-<!ENTITY bookmarksButton.label          "بک مارک">
-
-<!ENTITY bookmarksSubview.label             "بک مارک">
-<!ENTITY bookmarksMenuButton2.label         "بک مارک مینیو">
-<!ENTITY bookmarksMenuButton.other.label    "دیگر بک مارک">
-<!ENTITY bookmarksMenuButton.mobile.label   "موبائل بک مارک">
-<!ENTITY viewBookmarksSidebar2.label        "بغلی بار میں بک مارک دیکھیں">
-<!ENTITY hideBookmarksSidebar.label         "بک مارک سائڈبار چھپائیں">
-<!ENTITY viewBookmarksToolbar.label         "بک مارک ٹولبار دیکھیں">
-<!ENTITY hideBookmarksToolbar.label         "بک مارک ٹولبار چھپائیں">
-<!ENTITY searchBookmarks.label              "بک مارک تلاش کریں">
-<!ENTITY bookmarkingTools.label             "بک مارک ٹول">
-<!ENTITY addBookmarksMenu.label             "بک مارک مینو کو ٹولبار میں شامل کریں">
-<!ENTITY removeBookmarksMenu.label          "بک مارک مینو کو ٹولبار سے ہٹائے">
-
 <!ENTITY historyButton.label            "سابقات">
 
 <!ENTITY downloads.label              "ڈاؤن لوڈ">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "ڈاؤن لوڈ">
-<!ENTITY addons.label                 "ایڈ اون">
 
 <!ENTITY webDeveloperMenu.label       "ویب تکمیل کار">
 
@@ -142,28 +65,11 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY historyMenu.label "سابقات">
 
-<!ENTITY historyUndoMenu.label "حالیہ بند کیے گئے ٹیب">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "حالیہ بند کیے گئے دریچے">
-
-<!ENTITY appMenuHistory.showAll.label "تمام سابقات دکھائیں">
-
-<!ENTITY appMenuHistory.clearRecent.label "حالیہ سابقات خالی کریں…">
-<!ENTITY appMenuHistory.restoreSession.label "پچھلا سیشن بحال کریں">
-<!ENTITY appMenuHistory.viewSidebar.label "بغلی بار میں سابقات دیکھیں">
-<!ENTITY appMenuHistory.hideSidebar.label "بغلی بار میں سابقات چھپائیں">
-<!ENTITY appMenuHistory.recentHistory.label "حالیہ سابقات">
-
 <!ENTITY appMenuHelp.label "مدد">
-
-<!ENTITY appMenuRemoteTabs.label "سینک ہو چکے ٹیبز">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "کوئی کھولی ہوئی ٹیب نہیں">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "مزید دکھائیں">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "اس آلہ سے مزید َٹیبس دکھائیں">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -179,14 +85,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "ہمہ وقت ساز ترجیحات کھولیں">
 <!ENTITY appMenuRemoteTabs.welcome.label "دیگر آلات سے ٹیبیں کی فہرست دیکھنیں۔">
 <!ENTITY appMenuRemoteTabs.unverified.label "آپ کے اکائونٹ کو توژیکاری کی ظرورت ہے۔">
-<!ENTITY appMenuRemoteTabs.signintosync.label "&syncBrand.shortName.label;… میں سائن ان کریں">
-<!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label;… چالو کریں">
-<!ENTITY appMenuRemoteTabs.managedevices.label "آلات کو بندرست کریں…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "ہمہ وقت ساز ٹیبس کے بغلی بار کا نظارہ کریں">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "سنکشدہ ٹبس بغلی بار چھپائں">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "ایک اور آلہ جوڑیں">
-
-<!ENTITY appMenuRecentHighlights.label "حالیہ خاص بات">
 
 <!ENTITY customizeMenu.addToToolbar.label "ٹولبار میں ڈالیں">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -198,8 +97,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "اورفلوں مینو سے ان پن کرے">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "ٹولبار سے ہٹائیں">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "مزید اشیا ڈالیں…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
@@ -217,25 +114,9 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
-<!ENTITY pageAction.copyLink.label    "ربط نقل کریں">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY saveToPocketCmd.label        "Pocket میں صفحات محوظ کریں">
-<!ENTITY pocketMenuitem.label         "Pocket فہرست دیکھیں">
-
-<!ENTITY emailPageCmd.label           "ای میل ربط…">
-
 <!ENTITY fullZoom.label                 "زوم">
 
 <!ENTITY sidebarCloseButton.tooltip     "بغلی بار بند کریں">
-
-<!ENTITY quitApplicationCmdWin2.label       "باہر نکلیں">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; سے باہر نکلیں">
-<!ENTITY quitApplicationCmd.label       "کنارہ کریں">
-<!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; برخاست کریں">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -255,10 +136,6 @@ this container is a toolbar. This avoids double-speaking. -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "براؤزر ٹیبز">
 
-<!ENTITY syncBrand.shortName.label    "ہمہ وقت سازی">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "خودکار-چھپائيں">
-
 
 <!ENTITY uiTour.infoPanel.close "بند کریں">
 
@@ -266,15 +143,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY panicButton.thankyou.msg2                "محفوظ براؤزنگ">
 <!ENTITY panicButton.thankyou.buttonlabel         "شکریہ">
 
-<!ENTITY updateAvailable.panelUI.label "&brandShorterName; تازہ کاری کو ڈاؤن لوڈ کریں">
-<!ENTITY updateManual.panelUI.label "&brandShorterName; کی تازہ کاپی ڈاون لوڈ کرے">
-<!ENTITY updateUnsupported.panelUI.label "آپ مزید تازہ کاری نہیں کرسکتے ہیں">
-<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; کی تازہ کاری کرنے کے لیئے دوبارہ شروع کریں">
-
 <!ENTITY sendToDevice.syncNotReady.label "آلات کی ہمہ وقت سازی کر رہے ہے…">
-
-<!ENTITY pageAction.shareUrl.label "شیئر کریں">
-<!ENTITY pageAction.shareMore.label "مزید…">
 
 <!ENTITY libraryButton.tooltip "سابقاتیں، محفوظ شدہ بک مارک، اور بھی مزید دکھائے">
 

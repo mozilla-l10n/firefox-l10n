@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = نجی ونڈو کھولیں
 about-private-browsing-search-placeholder = ويب پر تلاش کريں
 about-private-browsing-info-title = آپ ایک نجی ونڈوں میں ہیں
 about-private-browsing-info-myths = نجی براؤزنگ کے بارے میں عمومی خرافات
-about-private-browsing =
-    .title = ويب پر تلاش کريں
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
@@ -17,9 +15,12 @@ about-private-browsing-handoff-no-engine =
     .title = پتہ تلاش یا داخل کریں
 about-private-browsing-handoff-text-no-engine = تلاش کریں یا پتہ  کا اندراج کریں
 about-private-browsing-not-private = آپ فی الحال نجی دریچے میں نہیں۔
+
 about-private-browsing-need-more-privacy = مزید رازداری کی ضرورت ہے؟
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name } آزمائیں
+
 about-private-browsing-learn-more-link = مزید سیکھیں
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

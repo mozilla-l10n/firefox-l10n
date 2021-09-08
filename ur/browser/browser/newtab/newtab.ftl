@@ -19,8 +19,6 @@ newtab-search-box-search-button =
     .title = تلاش
     .aria-label = تلاش
 
-newtab-search-box-search-the-web-text = ويب پر تلاش کريں
-
 newtab-search-box-handoff-text-no-engine = پتہ تلاش یا داخل کریں
 newtab-search-box-handoff-input-no-engine =
     .placeholder = تلاش کریں یا پتہ داخل کریں
@@ -228,9 +226,4 @@ newtab-custom-row-selector =
 newtab-custom-recent-title = حالیہ سرگرمی
 newtab-custom-close-button = بند کریں
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = سنپیٹ
 newtab-custom-settings = مزید سیٹنگز کو نظم کریں

@@ -56,9 +56,6 @@ lockwise-no-logins-card-content = کسی بھی ڈیوائس پر { -brand-short
 
 lockwise-how-it-works-link = یہ کیسے کام کرتا ہے
 
-turn-on-sync = { -sync-brand-short-name } چالو کریں
-    .title = سنک ترجیحات  پر جائے
-
 monitor-title = ڈیٹا کی خلاف ورزیوں کو تلاش کریں
 monitor-link = یہ کیسے کام کرتا ہے
 monitor-sign-up-link = خلاف ورزی کے انتباہات کیلئے سائن اپ کریں

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = ایڈ اون مینیجر
-
 addons-page-title = ایڈ اون مینیجر
 
 search-header =
@@ -33,60 +30,11 @@ help-button = ایڈ اون ہمایت کردہ
 sidebar-help-button-title =
     .title = ایڈ اون ہمایت کردہ
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } اختیارات
-       *[other] { -brand-short-name } ترجیحات
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } اختیارات
-           *[other] { -brand-short-name } ترجیحات
-        }
-
 show-unsigned-extensions-button =
     .label = کچھ ایکسٹِنشنز کی تصدیق نہیں ہو سکی
 
 show-all-extensions-button =
     .label = تمام ایکسٹینشنز دکھائیں
-
-cmd-show-details =
-    .label = مزید معلومات دکھائیں
-    .accesskey = د
-
-cmd-find-updates =
-    .label = تازہ کاریاں ڈھونڈیں
-    .accesskey = ڈ
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] اختیارات
-           *[other] ترجیحات
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ا
-           *[other] ت
-        }
-
-cmd-enable-theme =
-    .label = خیالیہ پہنیں
-    .accesskey = خ
-
-cmd-disable-theme =
-    .label = خیالیہ پہننا بند کر دیں
-    .accesskey = پ
-
-cmd-install-addon =
-    .label = تنصیب کریں
-    .accesskey = ت
-
-cmd-contribute =
-    .label = حصہ لیں
-    .accesskey = ح
-    .tooltiptext = اس ایڈ اون کی تکمیل کاری میں حصہ لیں
 
 detail-version =
     .label = ورژن
@@ -345,8 +293,6 @@ dictionary-disabled-heading = نااہل
 
 locale-enabled-heading = اہل
 locale-disabled-heading = نااہل
-
-ask-to-activate-button = عمل میں لانے کے لیے پوچھیں
 
 always-activate-button = ہمیشہ متحرک کریں
 never-activate-button = کبھی متحرک نہ کریں

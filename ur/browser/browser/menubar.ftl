@@ -38,16 +38,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } برخاست کریں
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } سے باہر نکلیں
+
 menu-about =
     .label = { -brand-shorter-name } کے بارے میں
     .accesskey = A
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = تدوین کریں
     .accesskey = E
-menu-edit-find-on =
-    .label = اس صفحے میں ڈھونڈیں…
-    .accesskey = F
 menu-edit-find-in-page =
     .label = صفحے میں ڈھونڈیں…
     .accesskey = F
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = ٹولبار
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = تخصیص کریں…
-    .accesskey = C
 menu-view-customize-toolbar2 =
     .label = ٹولبار تخصیص کریں…
     .accesskey = C
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = سادہ پیج طرز
     .accesskey = b
-menu-view-charset =
-    .label = متن خفیہکاری
-    .accesskey = ک
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -226,10 +221,6 @@ menu-history-reopen-all-windows = تمام ونڈوز کو دوبارہ کھول
 menu-bookmarks-menu =
     .label = بک مارک
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = تمام بک مارک دکھائیں
-menu-bookmark-this-page =
-    .label = یہ صفحہ نشان زد کریں
 menu-bookmarks-manage =
     .label = بک مارکس منظم کریں
 menu-bookmark-current-tab =
@@ -253,15 +244,6 @@ menu-tools =
 menu-tools-downloads =
     .label = ڈاؤن لوڈ
     .accesskey = D
-menu-tools-addons =
-    .label = ایڈ اون
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = { -brand-product-name } میں سائن ان کریں
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name }…  چالو  کریں
-    .accesskey = n
 menu-tools-addons-and-themes =
     .label = ایڈ آنز اور تھیمز
     .accesskey = A
@@ -277,9 +259,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name } سے دوبارہ جڑیں
     .accesskey = R
-menu-tools-web-developer =
-    .label = ویب تکمیل کار
-    .accesskey = W
 menu-tools-browser-tools =
     .label = براؤزر ٹولز
     .accesskey = B
@@ -292,17 +271,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = صفحہ معلومات
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] اختیارات
-           *[other] ترجیحات
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-settings =
     .label = سیٹنگز
     .accesskey =
@@ -335,21 +303,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = مدد
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } مدد
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } جائزہ
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = دوسرے براؤزر سے درآمد کریں…
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = کلیدی تختہ تیز راہیں
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = ازالہ کاری معلومات
-    .accesskey = T
 menu-get-help =
     .label = مدد حاصل کریں
     .accesskey = H
@@ -358,12 +311,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = اپنی رائے بھیجیں...
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = ایڈ اون نا اہل کر کے دوباره شروع کریں
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = ایڈ اون اہل کر کے دوباره شروع کریں
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

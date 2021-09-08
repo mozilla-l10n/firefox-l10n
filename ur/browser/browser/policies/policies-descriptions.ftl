@@ -57,8 +57,6 @@ policy-DisableForgetButton = فارگیٹ بٹن تک رسائی کو روکیں
 
 policy-DisableFormHistory = تلاش اور فارم کی سابقات یاد نا رکھیں۔
 
-policy-DisableMasterPasswordCreation = اگر سچ ہے تو، ایک ماسٹر پاس ورڈ بنائی نہی جا سکتی۔
-
 policy-DisablePrimaryPasswordCreation = اگر درست ہے تو ، بنیادی پاس ورڈ نہیں بنایا جاسکتا۔
 
 policy-DisablePasswordReveal = پاس ورڈز کو محفوظ لاگ ان میں ظاہر ہونے کی اجازت نہ دیں۔

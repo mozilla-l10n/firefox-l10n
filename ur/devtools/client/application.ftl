@@ -24,11 +24,6 @@ serviceworker-worker-unregister = ریجسٹریشن ختم کریں
 serviceworker-worker-debug = ٹھیک کریں
     .title = فعال خدت کارکنان کو ٹھیک کیا جا سکتا ہے
 
-# Text for the debug link displayed for an already started Service Worker, when we
-# are in multi e10s mode, which effectively disables this link.
-serviceworker-worker-debug-forbidden = ڈیبگ
-    .title = ہوخدمت کارکنان کو ڈیبگ کر سکتا ہے اگرmulti e10s غیر فعال
-
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = معائنہ کریں
@@ -41,12 +36,6 @@ serviceworker-worker-start3 = شروع کریں
 # display the last update time of the service worker script.
 serviceworker-worker-updated = تذکاری <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = ماخذ
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = حالت
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -56,18 +45,6 @@ serviceworker-worker-status-running = چلائے
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = رکا ہوا
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = یہاں معائنہ کرنے کیلئے آپ کو سروس ورکر کو رجسٹر کرنے کی ضرورت ہے۔ <a> مزید جانیں </a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = اگر موجودہ صفحے میں خدمت کا کارکن ہنے تو ، یہاں کچھ چیزیں ہیں جن کی آپ کوشش کرسکتے ہیں
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = کنسول میں غلطیاں تلاش کریں۔ <a> کنسول کھولیں </a>
 
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = کوئی خدمتگار نہیں ملا

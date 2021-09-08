@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = تمام ویب سائٹیں ہٹائیں
     .accesskey = e
 
-permissions-button-cancel =
-    .label = منسوخ کریں
-    .accesskey = C
-
-permissions-button-ok =
-    .label = تبدیلیاں محفوظ کریں
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = تبدیلیاں محفوظ کریں
     .buttonaccesskeyaccept = S

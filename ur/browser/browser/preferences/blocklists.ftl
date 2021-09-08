@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = فہرست
 
-blocklist-button-cancel =
-    .label = منسوخ کریں
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = تبدیلیاں محفوظ کریں
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = تبدیلیاں محفوظ کریں
     .buttonaccesskeyaccept = S
