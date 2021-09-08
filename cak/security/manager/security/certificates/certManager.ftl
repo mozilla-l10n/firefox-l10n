@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = E k'o taq ruwujil kib'i' re taq moloj re', ri nikiya' awetal
 certmgr-remembered = Re taq iqitzijib'äl re' ye'okisäx richin niya' retal pa re taq ajk'amaya'l ruxaq re'
 certmgr-people = K'o taq ruwujil b'i'aj ri eyakon, ri nikiya' ketal re taq winaqi' re'
-certmgr-servers = K'o taq ruwujil b'i'aj ri eyakon, ri nikiya' ketal re ruk'u'x taq samaj
 certmgr-server = Re taq okitz'ib' nikiya' retal ri taq rucha'oj rusachoj ruwujil k'uxasamaj
 certmgr-ca = K'o taq ruwujil b'i'aj ri eyakon, ri nikiya' ketal re taqanel taq ya'öl ruwujil b'i'aj
-
-certmgr-detail-general-tab-title =
-    .label = Chijun
-    .accesskey = C
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Taq b'anikil
-    .accesskey = K
-
-certmgr-pending-label =
-    .value = Tajin ninik'öx wakami ri ruwujil b'i'aj…
-
-certmgr-subject-label = Elesan richin
-
-certmgr-issuer-label = Elesan ruma
-
-certmgr-period-of-validity = Ruq'ijul ruk'aslem
-
-certmgr-fingerprints = Retal taq ruwi' q'ab'aj
-
-certmgr-cert-detail =
-    .title = Rub'anikil ruwujil b'i'aj
-    .buttonlabelaccept = Titz'apïx
-    .buttonaccesskeyaccept = T
-
-certmgr-cert-detail-commonname = Relik b'i'aj (CN)
-
-certmgr-cert-detail-org = Moloj (MO)
-
-certmgr-cert-detail-orgunit = Ruq'a' moloj (OU)
-
-certmgr-cert-detail-serial-number = Rucholajem rajilab'al
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 Retal ruwi' q'ab'aj
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 Retal ruwi' q'ab'aj
 
 certmgr-edit-ca-cert =
     .title = Tinuk' runuk'ulem qukub'äl k'u'x richin CA
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Okisaxel richin jikomal
 
-certmgr-begins-on = Tatikirisaj pa
-
 certmgr-begins-label =
     .label = Tatikirisaj pa
-
-certmgr-expires-on = Nik'is ruq'ijul pa
 
 certmgr-expires-label =
     .label = Nik'is ruq'ijul pa
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Tijik' pe…
     .accesskey = i
-
-certmgr-details =
-    .value = Taq ruk'ojlib'al ruwujil b'i'aj
-    .accesskey = r
-
-certmgr-fields =
-    .value = Rejqalem k'ojlib'äl
-    .accesskey = R
-
-certmgr-hierarchy =
-    .value = Ruwujil b'i'aj ach'alanïk
-    .accesskey = O
 
 certmgr-add-exception =
     .label = Titz'aqtisäx Man Relik Ta…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = ¿La kan nawajo' ye'ayüj el re taq ruwujil b'i'aj re
 delete-user-cert-impact = Niyuj el jun chi ke ri taq ruwujil b'i'aj, man xkatikïr ta xtawokisaj nixata richin nawïl qa awi'.
 
 
-delete-ssl-cert-title =
-    .title = Tiyuj el ri man relik ta taq kiwujil rub'i' ruk'u'x samaj
-delete-ssl-cert-confirm = ¿La kan nawajo' ye'ayüj el re taq me'elïk re' pa ruk'u'x samaj?
-delete-ssl-cert-impact = Niyuj el jun man relik ta pa ruk'u'x samaj, xkerutzolij ri junelïk taq ruchajixik jikonem richin ri ruk'u'x samaj ri' chuqa' xtuk'utuj chi tawokisaj jun okel ruwujil b'i'aj.
-
-
 delete-ssl-override-title =
     .title = Tiyuj ri man Relik ta Ruwujil Rub'i' K'uxasamaj
 delete-ssl-override-confirm = ¿La kan nawajo' nayüj re man relik ta pa re k'uxasamaj?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Ruwujil b'i'aj rik'in retal rajilab'al: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Ruwujil b'i'aj Tz'etb'äl: “{ $certName }”
-
-not-present =
-    .value = <Man ruch'akulal ta ruwujil b'i'aj>
-
-# Cert verification
-cert-verified = Re ruwujil b'i'aj jikib'an richin re ka'i' oxi' taq okisaxik re':
-
-# Add usage
-verify-ssl-client =
-    .value = Ruwujil rub'i' SSL winäq
-
-verify-ssl-server =
-    .value = Ruwujil rub'i' SSL ruk'u'x samaj
-
-verify-ssl-ca =
-    .value = SSL Taqonel taqöy ruwujil b'i'aj
-
-verify-email-signer =
-    .value = Rutaqoya'l ri juch'unel richin ri ruwujil b'i'aj
-
-verify-email-recip =
-    .value = Rutaqoya'l ruk'ulunel ruwujil b'i'aj
-
-# Cert verification
-cert-not-verified-cert-revoked = Man tikirel ta xnik'öx re ruwujil b'i'aj re', ruma chi xtzolïx pe.
-cert-not-verified-cert-expired = Man tikirel ta xnik'öx re ruwujil b'i'aj re', ruma xik'o yan ruq'ijul.
-cert-not-verified-cert-not-trusted = Man tikirel ta xnik'öx re jun ruwujil b'i'aj re' ruma man nikuqub'äx ta k'u'x chi rij.
-cert-not-verified-issuer-not-trusted = Man tikirel ta xnik'öx re ruwujil b'i'aj re' ruma man nikuqub'äx ta k'u'x chi rij ri tikirisanel tzij.
-cert-not-verified-issuer-unknown = Man xnik'öx ta re jun ruwujil b'i'aj re' ruma chi man etaman ta ruwäch ri tikirisanel tzij.
-cert-not-verified-ca-invalid = Man xnik'öx ta re jun ruwujil b'i'aj ruma chi man ütz ta ri ruwujil b'i'aj CA.
-cert-not-verified_algorithm-disabled = Man tikirel ta xnik'öx re ruwujil b'i'aj re' ruma chi xjuch' rik'in jun rub'eyal rujik'oj juch'b'i'aj, ri xchup ruma nitzelan.
-cert-not-verified-unknown = Man tikirel ta nijikib'äx re ruwujil b'i'aj re', man etaman ta achoq uma.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Man titaq ri riqitz'ijob'al winäq

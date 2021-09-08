@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Kinuk'samajel taq tz'aqat
-
 addons-page-title = Kinuk'samajel taq tz'aqat
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Kitob'al Tz'aqat
 sidebar-help-button-title =
     .title = Kitob'al Tz'aqat
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } Taq Cha'oj
-       *[other] { -brand-short-name } Taq Ajowab'äl
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } Taq Cha'oj
-           *[other] { -brand-short-name } Taq Ajowab'äl
-        }
-
 addons-settings-button = { -brand-short-name } Taq Runuk'ulem
 sidebar-settings-button-title =
     .title = { -brand-short-name } Taq Runuk'ulem
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Kek'ut pe konojel ri taq ruk'amal
-
-cmd-show-details =
-    .label = Kek'ut pe ch'aqa' chik rutzijol
-    .accesskey = K
-
-cmd-find-updates =
-    .label = Kekanöx taq k'exoj
-    .accesskey = K
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Taq cha'oj
-           *[other] Taq ajowab'äl
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] c
-           *[other] a
-        }
-
-cmd-enable-theme =
-    .label = Tokisäx wachinel
-    .accesskey = T
-
-cmd-disable-theme =
-    .label = Tiq'at rokisaxik wachinel
-    .accesskey = r
-
-cmd-install-addon =
-    .label = Tiyak
-    .accesskey = T
-
-cmd-contribute =
-    .label = Kato'on
-    .accesskey = K
-    .tooltiptext = Kato'on chi nisamajïx re tz'aqat re'
 
 detail-version =
     .label = Ruwäch
@@ -399,8 +347,6 @@ dictionary-disabled-heading = Chupun
 
 locale-enabled-heading = Tzijon
 locale-disabled-heading = Chupun
-
-ask-to-activate-button = Tik'utüx chi Nitzij
 
 always-activate-button = Junelïk Tzijïl
 never-activate-button = Majub'ey Titzij

@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Xtrajo' chi ri ajk'amaya'l taq ruxaq kekisamajib'ej taq wachib'äl chuqa' tzij
 
-clear-site-data-cancel =
-    .label = Tiq'at
-    .accesskey = T
-
-clear-site-data-clear =
-    .label = Tijosq'ïx
-    .accesskey = j
-
 clear-site-data-dialog =
     .buttonlabelaccept = Tijosq'ïx
     .buttonaccesskeyaccept = j

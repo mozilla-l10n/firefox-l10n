@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Titz'aqatisäx k'ak'a' k'wayöl
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } taq rajowab'al k'wayöl
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Wachib'äl
 containers-color-label = B'onil
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Xk'is
-    .accesskey = X
 
 containers-dialog =
     .buttonlabelaccept = Xk'is

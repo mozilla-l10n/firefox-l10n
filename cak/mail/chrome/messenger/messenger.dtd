@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Titz'ajb'äx…">
 <!ENTITY printCmd.accesskey "b">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">
-<!ENTITY printPreviewCmd.accesskey "b">
-<!ENTITY printSetupCmd.label "Tib'an Runuk'ulem Ruxaq…">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Tiyuj Tzijol">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "K">
 <!ENTITY compactVersion.label "Molk'ïy Tz'etoj">
 <!ENTITY compactVersion.accesskey "M">
-<!ENTITY folderPaneBar.label "Rukajtz'ik Rusamajib'al Ruyakwuj Pas">
-<!ENTITY folderPaneBar.accesskey "R">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Tichol chi">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Kiwujil Ochochib'äl">
 <!ENTITY addressBookCmd.accesskey "K">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Taq tz'aqat">
-<!ENTITY addons.accesskey "t">
-<!ENTITY addonPrefs.label "Kicha'oj Tz'aqat">
-<!ENTITY addonPrefs.accesskey "K">
-<!ENTITY addonPrefsUnix.label "Kajowab'al Tz'aqat">
-<!ENTITY addonPrefsUnix.accesskey "K">
 <!ENTITY addonNoPrefs.label "Majun runuk'ulem Tz'aqat nilitäj.">
 <!ENTITY activitymanager.label "Runuk'samajel Samaj">
 <!ENTITY activitymanager.accesskey "j">
@@ -520,8 +508,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Kechojmirisäx taq Tz'aqat">
 <!ENTITY debugAddonsCmd.accesskey "T">
-<!ENTITY tabsDebugCmd.label "Ruchojmirisanel Rupam Ruchi'">
-<!ENTITY tabsDebugCmd.accesskey "R">
 <!ENTITY errorConsoleCmd.label "Kitemeb'al Sachoj">
 <!ENTITY errorConsoleCmd.accesskey "S">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -545,15 +531,11 @@
 <!ENTITY backButton1.label "Chi rij">
 <!ENTITY goForwardButton1.label "Jun chik">
 <!ENTITY deleteItem.title "Tiyuj">
-<!ENTITY deleteButton.label "Tiyuj">
-<!ENTITY undeleteButton.label "Man tiyuj">
 <!ENTITY markButton.label "Tiya' retal">
 <!ENTITY printButton.label "Titz'ajb'äx">
 <!ENTITY stopButton.label "Tiq'at">
 <!ENTITY throbberItem.title "K'utunel Samaj">
 <!ENTITY junkItem.title "Seq'">
-<!ENTITY junkButton.label "Seq'">
-<!ENTITY notJunkButton.label "Man Seq' Ta">
 <!ENTITY addressBookButton.label "Kiwujil Ochochib'äl">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Chijun Kanoxïk">
@@ -585,19 +567,14 @@
 <!ENTITY previousMsgButton.tooltip "Tisilöx pa ri jun kan rutzijol">
 <!ENTITY goForwardButton.tooltip "Jun chik rutzijol">
 <!ENTITY goBackButton.tooltip "Titzolïx jun rutzijol">
-<!ENTITY deleteButton.tooltip "Tiyuj cha'on tzijol o yakwuj">
-<!ENTITY undeleteButton.tooltip "Man tiyuj cha'on tzijol">
 <!ENTITY markButton.tooltip "Tiya' ketal taq tzijol">
 <!ENTITY printButton.tooltip "Titz'ajb'äx re rutzijol re'">
 <!ENTITY stopButton.tooltip "Tiq'at ri q'axanïk wakami">
-<!ENTITY junkButton.tooltip "Tiya' ketal re cha'on taq rutzijol re' achi'el seq'">
-<!ENTITY notJunkButton.tooltip "Tiya' ketal re cha'on taq rutzijol re' achi'el man seq' ta">
 <!ENTITY addressBookButton.tooltip "Tib'e pa ri kiwujil ochochib'äl">
 <!ENTITY chatButton.tooltip "Tik'ut ri Chat tab">
 <!ENTITY tagButton.tooltip "Ketal taq rutzijol">
 <!ENTITY compactButton.tooltip "Keyuj yujun taq tzijol pa ri ruyakwuj xcha'">
 <!ENTITY appmenuButton1.tooltip "Tik'ut ri &brandShortName; K'utsamaj">
-<!ENTITY addonsButton.tooltip "Ke'anuk'samajij taq Atz'aqat">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Titaq chik Tz'aqatisan">

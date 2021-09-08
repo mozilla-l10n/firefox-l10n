@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "T">
 <!ENTITY aboutProduct2.label "Chi rij ri &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "C">
-<!ENTITY helpTroubleshootingInfo.label     "Etamab'äl richin yesol taq k'ayewal">
-<!ENTITY helpTroubleshootingInfo.accesskey "Y">
-<!ENTITY helpSafeMode.label     "Titikirisäx chik kik'in ri chupül taq tz'aqat…">
-<!ENTITY helpSafeMode.accesskey "T">
-<!ENTITY helpSafeMode.stop.label     "Titikirisäx chik rik'in Tzijïl taq Tz'aqat">
-<!ENTITY helpSafeMode.stop.accesskey "c">
 <!ENTITY productHelp.label "&brandShortName; To'ïk">
 <!ENTITY productHelp.accesskey "T">
 <!ENTITY productHelp.commandkey "VK_F1">

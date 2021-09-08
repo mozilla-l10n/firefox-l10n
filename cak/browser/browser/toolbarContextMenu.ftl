@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Kecha' Ronojel Ruwi'
     .accesskey = h
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Titzolïx Nitz'apïx Ruwi'
-            [one] Titzolïx Nitz'apïx Ruwi'
-           *[other] Titzolïx Yetz'apïx Taq Ruwi'
-        }
-    .accesskey = z
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Tiya' pa Ruxik'oj K'utsamaj
     .accesskey = T
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Ruyon-Tewüx pa Molsamajib'äl
-    .accesskey = R
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Tewäx Pitz'b'äl Toq Kowöl
     .accesskey = w

@@ -5,9 +5,6 @@
 places-open =
     .label = Tijaq
     .accesskey = T
-places-open-tab =
-    .label = Tijaq pa jun K'ak'a' Ruwi'
-    .accesskey = k
 places-open-in-tab =
     .label = Tijaq pa jun k'ak'a' ruwi'
     .accesskey = k
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Tiqaj Ronojel rik'in taq Ruwi'
     .accesskey = q
-places-open-window =
-    .label = Tijaq pa jun K'ak'a' Tzuwäch
-    .accesskey = k
-places-open-private-window =
-    .label = Tijaq pa jun K'ak'a' Ichinan Tzuwäch
-    .accesskey = c
-
-places-new-bookmark =
-    .label = K'ak'a' yaketal…
-    .accesskey = y
-places-new-folder-contextmenu =
-    .label = K'ak'a' Yakwuj…
-    .accesskey = Y
-places-new-folder =
-    .label = K'ak'a' yakwuj…
-    .accesskey = w
-places-new-separator =
-    .label = K'ak'a'  jachöy
-    .accesskey = j
 
 places-open-in-window =
     .label = Tijaq pa K'ak'a' Tzuwäch
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Tinuk' Chi B'i'aj
     .accesskey = n
-places-properties =
-    .label = Taq ichinil
-    .accesskey = i
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -135,3 +110,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Kenuk'samajïx Taq Yaketal
     .accesskey = K
+

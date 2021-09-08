@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Tijaq jun Ichinan Tzuwäch
 about-private-browsing-search-placeholder = Tikanöx pan Ajk'amaya'l
 about-private-browsing-info-title = At k'o pa jun Ichinan Tzuwäch
 about-private-browsing-info-myths = Ch'ob'on taq tzij chi rij ri ichinan okem pa k'amaya'l
-about-private-browsing =
-    .title = Tikanöx pan Ajk'amaya'l
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

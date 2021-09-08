@@ -28,16 +28,6 @@ serviceworker-worker-unregister = Telesäx rutz'ib'axik b'i'aj
 serviceworker-worker-debug = Tichojmirisäx
     .title = Xa xe ri service workers yesamajïx tikirel yechojmirisäx
 
-# Text for the debug link displayed for an already started Service Worker, when we
-# are in multi e10s mode, which effectively disables this link.
-serviceworker-worker-debug-forbidden = Tichojmirisäx
-    .title = Xa xe yatikir ye'achojmirisaj ri service workers we chupül ri k'ïy e10s.
-
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start2 = Titikirisäx
-    .title = Xa xe tikirel yetikirisäx taq service worker we chupül ri k'ïy e10s.
-
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Tinik'öx
@@ -50,12 +40,6 @@ serviceworker-worker-start3 = Titikirisäx
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Xk'ex <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = Ruxe'el
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = B'anikil
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -65,26 +49,6 @@ serviceworker-worker-status-running = Nib'an
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Q'aton
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = K'atzinel natz'ib'aj rub'i' jun Service Worker richin ninik'öx wawe'. <a>Tetamäx ch'aqa' chik</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = We ri ruxaq k'o wakami k'o ta chi ruk'wan jun service worker, wawe' k'o jun taq rub'eyal yatikïr natojtob'ej.
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = Ke'akanoj taq sachoj pa Temeb'äl. <a>Tijaq ri Temeb'äl</a>
-
-# Suggestion to use the debugger to investigate why a service worker is not registered.
-# Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Tatz'eta' rutz'ib'axik ri Service Worker pa rub'eyal chuqa' ke'akanoj taq man relik ta. <a>Tijaq ri Chojmirisanel</a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Ke'anik'oj ri Service Workers kichin ch'aqa' chik taq ajk'amal. <a>Tijaq about:debugging</a>
 
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = Majun service workers xe'ilitäj
@@ -103,10 +67,6 @@ serviceworker-empty-suggestions-aboutdebugging2 = Ketz'et ch'aqa' service worker
 
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Rutzijoxik Chokoy
-
-# Header for the Manifest page when there's no manifest to inspect
-# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = K'o chi nitz'aqatisäx jun Rutzijoxik ajk'amaya'l chokoy richin ninik'öx wawe'. <a>Tetamäx ch'aqa' chik</a>
 
 # Header for the Manifest page when there's no manifest to inspect
 manifest-empty-intro2 = Majun rutzijoxik ajk'amaya'l chokoy xilitäj

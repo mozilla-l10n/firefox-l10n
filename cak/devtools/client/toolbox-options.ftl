@@ -66,11 +66,6 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = Rub'anikil ri chapoj ruwa
 
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Chapoj ruwa pa yakwuj
-options-screenshot-clipboard-tooltip =
-    .title = Tayaka' ri chapoj ruwa jumul pa yakwuj
-
-# Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Xa xe chapoj ruwa pa yakwuj
 options-screenshot-clipboard-tooltip2 =
     .title = Tiyak ri chapoj ruwa pa molwuj

@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Titzolïx jun ruxaq
-    .aria-label = Chi rij
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Jun chik ruxaq
-    .aria-label = Jun chik
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -116,9 +94,6 @@ main-context-menu-page-save =
     .label = Tiyak Ruxaq Achi'el…
     .accesskey = R
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -179,10 +154,6 @@ main-context-menu-open-link-new-private-window =
     .label = Tijaq ximon tzij pa jun k'ak'a' ichinan kajtz'ïk
     .accesskey = i
 
-main-context-menu-bookmark-this-link =
-    .label = Titzaqatisäx re jun ximonel re' pa taq yaketal
-    .accesskey = x
-
 main-context-menu-bookmark-link =
     .label = Ruximoj Yaketal
     .accesskey = Y
@@ -207,10 +178,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Tiwachib'ëx rochochib'al taqoya'l
     .accesskey = t
-
-main-context-menu-copy-link =
-    .label = Tiwachib'ëx Ruk'ojlib'al Ximonel
-    .accesskey = i
 
 main-context-menu-copy-link-simple =
     .label = Tiwachib'ëx Ximoj
@@ -239,32 +206,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Tak'axäx
     .accesskey = a
-
-main-context-menu-media-play-speed =
-    .label = Chanin Rutzijik
-    .accesskey = t
-
-main-context-menu-media-play-speed-slow =
-    .label = Eqal (0.5×)
-    .accesskey = E
-
-main-context-menu-media-play-speed-normal =
-    .label = Relik
-    .accesskey = R
-
-main-context-menu-media-play-speed-fast =
-    .label = Aninäq (1.25×)
-    .accesskey = A
-
-main-context-menu-media-play-speed-faster =
-    .label = Yalan aninäq (1.5×)
-    .accesskey = n
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Ya'öl tze'n (2×)
-    .accesskey = Y
 
 main-context-menu-media-play-speed-2 =
     .label = Ranin
@@ -312,12 +253,6 @@ main-context-menu-media-video-leave-fullscreen =
 
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Picture-in-Picture
-    .accesskey = u
-
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
     .label = Titz'et pa Picture-in-Picture
     .accesskey = u
@@ -325,14 +260,6 @@ main-context-menu-media-watch-pip =
 main-context-menu-image-reload =
     .label = Rukamulokem wachib'äl
     .accesskey = R
-
-main-context-menu-image-view =
-    .label = Titz'et Wachib'äl
-    .accesskey = W
-
-main-context-menu-video-view =
-    .label = Titz'et silowachib'äl
-    .accesskey = t
 
 main-context-menu-image-view-new-tab =
     .label = Tijaq Wachib'äl pa jun K'ak'a' Ruwi'
@@ -344,18 +271,6 @@ main-context-menu-video-view-new-tab =
 
 main-context-menu-image-copy =
     .label = Tiwachib'ëx Wachib'äl
-    .accesskey = w
-
-main-context-menu-image-copy-location =
-    .label = Tiwachib'ëx Rub'ey Wachib'äl
-    .accesskey = w
-
-main-context-menu-video-copy-location =
-    .label = Ruwachib'exik rub'ey silowachib'äl
-    .accesskey = w
-
-main-context-menu-audio-copy-location =
-    .label = Ruwachib'exik rub'ey q'ojom
     .accesskey = w
 
 main-context-menu-image-copy-link =
@@ -378,10 +293,6 @@ main-context-menu-image-email =
     .label = Titaq Wachib'äl…
     .accesskey = i
 
-main-context-menu-image-set-as-background =
-    .label = Ticha' achi'el richin rupam ch'atal…
-    .accesskey = T
-
 main-context-menu-image-set-image-as-background =
     .label = Ticha' Wachib'äl achi'el richin Rupam Ch'atal…
     .accesskey = c
@@ -400,10 +311,6 @@ main-context-menu-video-save-as =
 
 main-context-menu-audio-save-as =
     .label = Ruyakik q'ojom achi'el…
-    .accesskey = R
-
-main-context-menu-video-image-save-as =
-    .label = Ruyakik ruwachib'al rutzub'al achi'el…
     .accesskey = R
 
 main-context-menu-video-take-snapshot =
@@ -433,14 +340,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Titaq ruxaq pa Okisaxel
     .accesskey = O
-
-main-context-menu-view-background-image =
-    .label = Titz'et wachib'äl chupam
-    .accesskey = c
-
-main-context-menu-generate-new-password =
-    .label = Tokisäx Tz'ukun Ewan Tzij…
-    .accesskey = z
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -532,10 +431,6 @@ main-context-menu-view-page-source =
     .label = Rutz'etik runuk tz'ib' re ruxaq re'
     .accesskey = R
 
-main-context-menu-view-page-info =
-    .label = Rutz'etik na'oj chi rij re ruxaq re'
-    .accesskey = n
-
 main-context-menu-bidi-switch-text =
     .label = Tijal Rub'eyal ri Tz'ib'
     .accesskey = j
@@ -543,10 +438,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Rujalik rub'eyal re ruxaq re'
     .accesskey = r
-
-main-context-menu-inspect-element =
-    .label = Rutz'etik atuxtäq
-    .accesskey = Q
 
 main-context-menu-inspect =
     .label = Tinik'öx
@@ -558,3 +449,4 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Tetamäx ch'aqa' chik chi rij ri DRM…
     .accesskey = D
+

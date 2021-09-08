@@ -9,9 +9,6 @@ newtab-page-title = K'ak'a' Ruwi'
 newtab-settings-button =
     .title = Tawichinaj ri ruxaq richin K'ak'a' Ruwi'
 
-newtab-personalize-button-label = Tichinäx
-    .title = Tichinäx k'ak'a' ruwi'
-    .aria-label = Tichinäx k'ak'a' ruwi'
 newtab-personalize-icon-label =
     .title = Tichinäx k'ak'a' ruwi'
     .aria-label = Tichinäx k'ak'a' ruwi'
@@ -24,8 +21,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Tikanöx
     .aria-label = Tikanöx
-
-newtab-search-box-search-the-web-text = Tikanöx pan Ajk'amaya'l
 
 # Variables
 #  $engine (String): the name of the user's default search engine
@@ -264,10 +259,4 @@ newtab-custom-recent-title = K'ak'a' samaj
 newtab-custom-recent-subtitle = Jun cha'on taq ruxaq chuqa' k'ak'a' rupam
 newtab-custom-close-button = Titz'apïx
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Taq pir
-newtab-custom-snippets-subtitle = Taq runa'oj chuqa' taq rutzijol { -vendor-short-name } chuqa' { -brand-product-name }
 newtab-custom-settings = Tinuk'samajïx ch'aqa' runuk'ulem

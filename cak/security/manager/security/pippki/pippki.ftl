@@ -6,9 +6,6 @@ password-quality-meter = Retanel rutzil ri ewan tzij
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Tijal ajtij ewan tzij
-
 change-device-password-window =
     .title = Tijal Ewan Tzij
 
@@ -20,10 +17,6 @@ change-password-new = K'ak'a' ewan tzij:
 change-password-reenter = K'ak'a' ewan tzij (tijikib'äx):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Titzolïx ri ajtij ewan tzij
-    .style = width: 40em
 
 pippki-failed-pw-change = Man tikirel ta xjal ri ewan tzij.
 pippki-incorrect-pw = Man ütz ta ri ewan tzij xatz'ib'aj. Tatojtob'ej chik.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Titzolïx
-reset-password-text = We natzolij ri ajtzij ewan atzij, xkeyujtäj el ri ewan taq tzij richin ajk'amaya'l chuqa' taqoya'l, ri taq kitzij nojwuj, ichinan ruwujil taq b'i'aj chuqa' ichinan ewan taq tzij. ¿La kan nawajo' natzolij ri ajtij ewan atzij?
 
 reset-primary-password-text = We natzolij ri Nab'ey Ewan Atzij, xkeyujtäj el ri nab'ey ewan taq tzij richin ajk'amaya'l chuqa' taqoya'l kichin tzij, ri taq kitzij nojwuj, ichinan ruwujil taq b'i'aj chuqa' ichinan ewan taq tzij. ¿La kan nawajo' natzolij ri nab'ey ewan atzij?
 

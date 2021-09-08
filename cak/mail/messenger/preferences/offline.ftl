@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Ruyonil trojqaj ri rub'anikil okem xilitäj
     .accesskey = x
 
-startup-label = Rub'anikil chi q'ab'aj toq nitikirisäx el:
-
 status-radio-remember =
     .label = Tinatäx ri jun kan rub'anikil okem
     .accesskey = T

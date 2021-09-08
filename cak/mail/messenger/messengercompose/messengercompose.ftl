@@ -23,13 +23,12 @@ pill-action-move-bcc =
 
 # Attachment widget
 
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 # Reorder Attachment Panel
 
+# Encryption
+
 # Addressing Area
+
 
 ## Notifications
 

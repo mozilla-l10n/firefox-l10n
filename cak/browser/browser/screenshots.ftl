@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Tichap jun Chapoj Wachib'äl
-
-screenshots-my-shots-button = Taq Nuwachib'al
-
 screenshot-toolbarbutton =
     .label = Chapoj ruwäch
     .tooltiptext = Tichap jun chapoj ruwäch
@@ -40,8 +36,6 @@ screenshots-login-error-details = Man xkatikïr ta xtayäk ri awachib'al ruma ju
 
 screenshots-unshootable-page-error-title = Man yojtikïr ta nichap ruwachib'al re ruxaq re'.
 screenshots-unshootable-page-error-details = Re re' man pa rub'eyal ta chi ruxaq Ajk'amaya'l, ruma ri' man yojtikïr ta niqachäp ruwachib'al.
-
-screenshots-self-screenshot-error-title = ¡Man yatikïr ta nawelesaj ruwachib'al jun ruxaq { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Yalan ko'öl ri acha'oj
 

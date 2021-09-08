@@ -65,8 +65,6 @@ policy-DisableForgetButton = Tiq'at okem pa ri rupitz'b'al Timestäx.
 
 policy-DisableFormHistory = Man tinatäx ri runatab'al kanob'äl chuqa' taq nojwuj
 
-policy-DisableMasterPasswordCreation = We nitzij, man nitikïr ta nitz'uk jun ajtij ewan tzij.
-
 policy-DisablePrimaryPasswordCreation = We qitzij, man nitikïr ta nitz'uk jun aNab'ey Ewan Tzij.
 
 policy-DisablePasswordReveal = Man tiya' q'ij chi kek'ut ri ewan taq tzij pa yakon taq tikirib'äl molojri'ïl.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Titzolin rik'in ri rub
 policy-LocalFileLinks = Tiya' q'ij chi ri ajk'amaya'l ruxaq tikixima' ki' kik'in ri aj wawe' taq yakb'äl.
 
 policy-ManagedBookmarks = Tab'ab'ana' kinuk'ulem jun kicholajem taq yaketal nuk'samajin ruma jun nuk'samajel, ri man nitikïr ta nujäl ri okisanel.
-
-policy-MasterPassword = Tik'utüx o man tokisäx jun ajtij ewan tzij.
 
 policy-ManualAppUpdateOnly = Tiya' q'ij chi ke ri taq kexoj chi q'ab'aj chuqa' man tiya' rutzijol chi re ri okisanel.
 

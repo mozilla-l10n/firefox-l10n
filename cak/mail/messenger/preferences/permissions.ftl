@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Taq man relik ta
     .style = width: 45em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = Rochochib'al ri ajk'amaya'l ruxaq:
     .accesskey = c

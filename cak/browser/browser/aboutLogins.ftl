@@ -7,20 +7,12 @@ about-logins-page-title = Kitikirisaxik molojri'ïl & Ewan taq Tzij
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Xab'akuchi' ke'ak'waj ri ewan taq atzij
-login-app-promo-subtitle = Tak'ulu' ri sipan { -lockwise-brand-name } chokoy
-login-app-promo-android =
-    .alt = Tak'ulu' pa Google Play
-login-app-promo-apple =
-    .alt = Taqasaj pa ri App Store
-
 login-filter =
     .placeholder = Kekanöx Tikirib'äl taq Molojri'ïl
 
 create-login-button = Titz'uk K'ak'a' Tikirib'äl Molojri'ïl
 
 fxaccounts-sign-in-text = Ke'ak'ulu' ewan taq kitzij ru ch'aqa' chik taq okisab'äl
-fxaccounts-sign-in-button = Titikirisäx molojri'ïl pa { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Tatikirisaj molojri'ïl pa yaximon
 fxaccounts-avatar-button =
     .title = Tinuk'samajïx rub'i' taqoya'l
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Taq ajowab'äl
     }
 about-logins-menu-menuitem-help = To'ïk
-menu-menuitem-android-app = { -lockwise-brand-short-name } richin Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } richin iPhone chuqa' iPad
 
 ## Login List
 
@@ -72,14 +62,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = ¿La ye'akanoj rutikirib'al taq amolojri'ïl e'ayakon kan? Tab'ana' runuk'ulem { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = ¿La ye'akanoj ri taq awujil e'ayakon? Tatzija' ri ximoj o tajik'a'.
 about-logins-login-intro-heading-logged-in = Majun ximon taq tikirib'äl molojri'ïl xe'ilitäj.
 login-intro-description = We xe'ayäk ri rutikirib'al amolojri'ïl pa { -brand-product-name } pa jun chik wi okisab'äl, wawe' nik'ut pe richin nak'ul wawe' chuqa':
-login-intro-instruction-fxa = Tatz'uku' o tatikirisaj molojri'ïl pa { -fxaccount-brand-name } chupam ri okisab'äl, akuchi' e yakäl ri tikirib'äl amolojri'ïl
-login-intro-instruction-fxa-settings = Tatz'eta' chi xacha' ri k'ojlib'äl richin kitikitib'al molojri'ïl pa ri runuk'ulem { -sync-brand-short-name }.
-about-logins-intro-instruction-help = Tatz'eta' <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Tob'äl</a> richin ch'aqa' chik to'ïk.
 login-intro-instructions-fxa = Tatz'uku' o tatikirisaj molojri'ïl pa { -fxaccount-brand-name } chupam ri okisab'äl, akuchi' e yakäl ri tikirib'äl amolojri'ïl.
 login-intro-instructions-fxa-settings = Jät pa runuk'ulem > Sync > Titzij ri ximoj… Tacha' ri ruk'ojlem Ruwujil chuqa' ewan taq tzij.
 login-intro-instructions-fxa-help = Tatz'eta' <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Tob'äl</a> richin ch'aqa' chik to'ïk.
@@ -141,8 +126,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = tiwachib'ëx ri yakon
 
 ## Master Password notification
 
-master-password-notification-message = Tatz'ib'aj ri ajtij ewan atzij richin ye'atz'ët ri rutikirib'al taq amolojri'ïl & ri ewan taq tzij
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Richin ye'ak'waj ri rutikirib'al taq amolojri'ïl, tatz'ib'aj ri ruwujil rutikirisaxik molojri'ïl richin Windows. Re re' nuto' richin nuchajij rujikomal ri rub'i' ataqoya'l.
 # This message can be seen when attempting to export a password in about:logins
@@ -157,22 +140,6 @@ master-password-reload-button =
     .accesskey = m
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] ¿La nawajo' ye'atz'ët rutikirib'al taq amolojri'ïl xab'akuchi' nawokisaj { -brand-product-name } { -brand-product-name }? Tajaqa' Taq Rucha'oj { -sync-brand-short-name } richin nacha' ri peraj rujikib'axik rutikirib'al taq molojri'ïl.
-       *[other] ¿La nawajo' ye'atz'ët rutikirib'al taq amolojri'ïl xab'akuchi' nawokisaj { -brand-product-name } { -brand-product-name }? Tajaqa' Taq Rajowab'al{ -sync-brand-short-name } richin nacha' ri peraj rujikib'axik rutikirib'al taq molojri'ïl.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Titz'et { -sync-brand-short-name } Taq Cha'oj
-           *[other] Titz'et { -sync-brand-short-name } Taq Ajowab'äl
-        }
-    .accesskey = t
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Mani nik'utüx chik pe chwe
-    .accesskey = M
 
 ## Dialogs
 

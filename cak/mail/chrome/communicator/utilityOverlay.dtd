@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "T">
 <!ENTITY deleteCmd.label          "Tiyuj">
 <!ENTITY deleteCmd.accesskey        "y">
-<!ENTITY preferencesCmd2.label "Taq cha'oj">
-<!ENTITY preferencesCmd2.accesskey "o">
-<!ENTITY preferencesCmdUnix.label       "Taq ajowab'äl">
-<!ENTITY preferencesCmdUnix.accesskey     "w">
 
 <!ENTITY customizeCmd.label "Tichinäx">
 <!ENTITY customizeCmd.accesskey "c">

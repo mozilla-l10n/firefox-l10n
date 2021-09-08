@@ -29,12 +29,6 @@
 <!ENTITY closeCmd.label                                 "Titz'apïx">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "t">
-<!ENTITY printSetupCmd.label                            "Tib'an Runuk'ulem Ruxaq…">
-<!ENTITY printSetupCmd.accesskey                        "m">
-<!ENTITY printPreviewContactCmd.label                   "Nab'ey Rutz'etik Rub'i' Achib'il">
-<!ENTITY printPreviewContactCmd.accesskey               "b">
-<!ENTITY printPreviewAddressBook.label                  "Nab'ey Rutz'etik ri Kitz'ib'awuj Ochochib'äl">
-<!ENTITY printPreviewAddressBook.accesskey              "K">
 <!ENTITY printContactCmd.label                          "Titz'ajb'äx Rub'i' Achib'il…">
 <!ENTITY printContactCmd.accesskey                      "z">
 <!ENTITY printContactCmd.key                            "P">
@@ -107,10 +101,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "j">
 <!ENTITY exportCmd.label                                "Tik'wäx el…">
 <!ENTITY exportCmd.accesskey                            "k">
-<!ENTITY preferencesCmd2.label                          "Taq cha'oj">
-<!ENTITY preferencesCmd2.accesskey                      "o">
-<!ENTITY preferencesCmdUnix.label                       "Taq ajowab'äl">
-<!ENTITY preferencesCmdUnix.accesskey                   "w">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "K'ak'a' Rub'i' Achib'il">

@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Cholajem
 
-blocklist-button-cancel =
-    .label = Tiq'at
-    .accesskey = T
-
-blocklist-button-ok =
-    .label = Keyak Jaloj
-    .accesskey = K
-
 blocklist-dialog =
     .buttonlabelaccept = Keyak Jaloj
     .buttonaccesskeyaccept = K

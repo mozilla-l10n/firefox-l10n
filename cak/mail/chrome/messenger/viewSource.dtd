@@ -19,10 +19,6 @@
 <!ENTITY savePageCmd.label "Tiyak Ruxaq Achi'el…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "T">
-<!ENTITY pageSetupCmd.label "Tib'an Runuk'ulem Ruxaq…">
-<!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">
-<!ENTITY printPreviewCmd.accesskey "y">
 <!ENTITY printCmd.label "Titz'ajb'äx…">
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.commandkey "P">

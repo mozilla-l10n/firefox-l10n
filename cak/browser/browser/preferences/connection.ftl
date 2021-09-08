@@ -35,9 +35,6 @@ connection-proxy-http = HTTP Proxi
     .accesskey = x
 connection-proxy-http-port = B'ey
     .accesskey = B
-connection-proxy-http-sharing =
-    .label = Tawokisaj re proxi re' richin FTP chuqa' HTTPS
-    .accesskey = o
 
 connection-proxy-https-sharing =
     .label = Tawokisaj re proxi re' richin HTTPS
@@ -46,11 +43,6 @@ connection-proxy-https-sharing =
 connection-proxy-https = HTTPS Proxi
     .accesskey = H
 connection-proxy-ssl-port = B'ey
-    .accesskey = y
-
-connection-proxy-ftp = FTP Proxi
-    .accesskey = F
-connection-proxy-ftp-port = B'ey
     .accesskey = y
 
 connection-proxy-socks = SOCKS Ula'om
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Majun Proxi richin
     .accesskey = m
 
 connection-proxy-noproxy-desc = Tz'eteb'äl: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Taq okem pa localhost, 127.0.0.1, chuqa' ::1 majub'ey nik'o pa proxi.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Ri okem pa localhost, 127.0.0.1/8, chuqa' ::1 majub'ey nik'o pa proxi.

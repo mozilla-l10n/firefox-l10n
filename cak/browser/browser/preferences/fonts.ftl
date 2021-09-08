@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Rucholajil ruwäch tzij richin rupam sipan kan
-fonts-languages-fallback-desc = Re rucholajil rucholajem tz'ib' nokisäx richin ojer rupam, ri man nuya' ta rutzijol ri rucholajil.
-
-fonts-languages-fallback-label = Rucholajil rucholajem tzij, ri kan k'o wi
-    .accesskey = R
-
-fonts-languages-fallback-name-auto =
-    .label = Ri jikib'an kan richin ri ch'ab'äl re re'
-fonts-languages-fallback-name-arabic =
-    .label = Aj Arabia
-fonts-languages-fallback-name-baltic =
-    .label = Báltic
-fonts-languages-fallback-name-ceiso =
-    .label = Centroeuropeo, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Central European, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Ch'uti Chino
-fonts-languages-fallback-name-traditional =
-    .label = Kan Chino wi
-fonts-languages-fallback-name-cyrillic =
-    .label = Siriliko
-fonts-languages-fallback-name-greek =
-    .label = aj Grecia
-fonts-languages-fallback-name-hebrew =
-    .label = Aj Heb'reya
-fonts-languages-fallback-name-japanese =
-    .label = Japones
-fonts-languages-fallback-name-korean =
-    .label = KORYANO
-fonts-languages-fallback-name-thai =
-    .label = Taylanes
-fonts-languages-fallback-name-turkish =
-    .label = Aj Turquia
-fonts-languages-fallback-name-vietnamese =
-    .label = aj BYETNAM
-fonts-languages-fallback-name-other =
-    .label = Ch'aqa' chik (incl. aj Europa occidental)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -5,7 +5,6 @@
 auth-cancel = Tiq'at
 
 finger-verify = Tinik'öx
-finger-verify-accessKey = T
 
 state-private-label = Ichinan
 

@@ -35,8 +35,6 @@ import-paragraph = { -brand-short-name } nuya' q'ij chi yejik' taq kitaqoya'l, k
 import-label = Tijik' pe
     .aria-label = Kejik' taq tzij pa ch'aqa' chik taq solkema'
 
-about-donation = taya' jun sipanïk
-
 explore-link = Ke'anik'oj ri taq Rub'anikil
 support-link = Tob'äl
 involved-link = Kato'on

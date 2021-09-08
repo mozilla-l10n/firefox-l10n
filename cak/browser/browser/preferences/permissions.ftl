@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Keyuj el Konojel ri taq Ruxaq Ajk'amaya'l
     .accesskey = y
 
-permissions-button-cancel =
-    .label = Tiq'at
-    .accesskey = T
-
-permissions-button-ok =
-    .label = Keyak Jaloj
-    .accesskey = K
-
 permission-dialog =
     .buttonlabelaccept = Keyak Jaloj
     .buttonaccesskeyaccept = K

@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Keyuj Ronojel ri Ruxaq K'amaya'l
     .accesskey = x
 
-translation-button-close =
-    .label = Titz'apïx
-    .accesskey = T
-
 translation-dialog =
     .buttonlabelaccept = Titz'apïx
     .buttonaccesskeyaccept = T

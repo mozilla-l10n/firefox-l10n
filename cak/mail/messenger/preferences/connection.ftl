@@ -86,9 +86,6 @@ no-proxy-label =
 
 no-proxy-example = Tz'eteb'äl: .mozilla.org, .net.nz, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = Taq okem pa localhost, 127.0.0.1, chuqa' ::1 majub'ey nik'o pa proxi.
-
 proxy-password-prompt =
     .label = Mani tik'utüx rujikib'axik we yakon ri ewan tzij
     .accesskey = j

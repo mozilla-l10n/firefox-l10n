@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Taq ichinil">
 
 <!ENTITY generalInfo.label                       "Chijun Etamab'äl">
-<!ENTITY folderCharsetFallback2.label            "Rucholajil rucholajem tzij, ri kan k'o wi:">
-<!ENTITY folderCharsetFallback2.accesskey        "R">
-<!ENTITY folderCharsetEnforce2.label             "Tokisäx ri b'itz'ib' pa konojel ri taq rutzijol yakwuj (ri rub'itz'ib' cholan kitzij yonil taq tzijol chuqa' ri ruyonil nitz'et choj xkerepüx kan)">
-<!ENTITY folderCharsetEnforce2.accesskey         "T">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Tinuk' chik Rucholajem Yakb'äl Ch'utitzijol">
 <!ENTITY folderRebuildSummaryFile2.label         "Tichojmirisäx Yakwuj">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "T">

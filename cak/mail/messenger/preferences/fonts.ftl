@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Sans Serif
 
-font-size-label =
-    .value = Nimilem:
-    .accesskey = e
-
 font-size-monospace-label =
     .value = Nimilem:
     .accesskey = i

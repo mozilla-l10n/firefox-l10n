@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Titz'apïx
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Taq cha'oj
-           *[other] Taq ajowab'äl
-        }
-
 pane-general-title = Chijun
 category-general =
     .tooltiptext = { pane-general-title }
@@ -99,8 +92,6 @@ update-in-progress-ok-button = &Tich'aqïx
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Titikïr chik el
 
-addons-button = Taq k'amal & taq Wachinel
-
 ## OS Authentication dialog
 
 
@@ -161,10 +152,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Tichinäx…
     .accesskey = c
-
-tray-icon-label =
-    .label = Tik'ut jun wachaj pa nuk'ulem
-    .accesskey = n
 
 mail-custom-sound-label =
     .label = Tokisäx re ruyakb'al k'oxom re'
@@ -349,9 +336,6 @@ smaller-size-item =
 quoted-text-color =
     .label = B'onil:
     .accesskey = o
-
-search-input =
-    .placeholder = Tikanöx
 
 type-column-label =
     .label = Ruwäch Rupam
@@ -640,16 +624,6 @@ passwords-button =
     .label = Xeyak taq Ewan Tzij…
     .accesskey = X
 
-master-password-description = Jun Ajtij Ewan Tzij yeruchajij konojel ri ewan taq atzij, xa xe chi k'o chi natz'ib'aj jub'ey chi jujun molojri'ïl.
-
-master-password-label =
-    .label = Tokisäx ri ajtïj ewan tzij
-    .accesskey = o
-
-master-password-button =
-    .label = Tijal Ajtij Ewan Tzij…
-    .accesskey = j
-
 
 junk-description = Runuk'ulem k'o wi pa seq' taqoya'l. Ri taq runuk'ulem chi kijujunal ri taq taqoya'l k'o chi yeb'an pa Kinuk'ulem Rub'i' Taqoya'l.
 
@@ -816,10 +790,6 @@ no-preview-description = Man okel ta re wachinïk re' o man wachel ta wakami (ch
 chat-variant-label =
     .value = Rujalik:
     .accesskey = R
-
-chat-header-label =
-    .label = Tik'ut Jub'i'aj
-    .accesskey = J
 
 ## Preferences UI Search Results
 

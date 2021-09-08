@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Tiyuj ri cha'on
     .accesskey = T
 
-site-data-button-cancel =
-    .label = Tiq'at
-    .accesskey = T
-
-site-data-button-save =
-    .label = Keyak Jaloj
-    .accesskey = y
-
 site-data-settings-dialog =
     .buttonlabelaccept = Keyak Jaloj
     .buttonaccesskeyaccept = y

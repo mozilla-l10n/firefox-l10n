@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Tiyaketalïx Ruwi'
     .accesskey = T
-reopen-in-container =
-    .label = Tijaq chik pa K'wayöl
-    .accesskey = c
 tab-context-open-in-new-container-tab =
     .label = Tijaq pa K'ak'a' Ruwi' Ajk'wayöl
     .accesskey = K
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Ketz'apïx K'ïy Taq Ruwi'
     .accesskey = y
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Titzolïx Nitz'apïx Ruwi'
-            [one] Titzolïx Nitz'apïx Ruwi'
-           *[other] Titzolïx Yetz'apïx Ruwi'
-        }
-    .accesskey = T
-close-tab =
-    .label = Titz'apïx ruwi’
-    .accesskey = T
-close-tabs =
-    .label = Ketz'apïx Ruwi'
-    .accesskey = K
-move-tabs =
-    .label = Kesilöx taq Ruwi'
-    .accesskey = x
-move-tab =
-    .label = Tisilöx Ruwi'
-    .accesskey = x
 tab-context-share-url =
     .label = Tikomonïx
     .accesskey = k
@@ -122,6 +99,7 @@ tab-context-move-tabs =
            *[other] Kesilöx Ruwi'
         }
     .accesskey = s
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

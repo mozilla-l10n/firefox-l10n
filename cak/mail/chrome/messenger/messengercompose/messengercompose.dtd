@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "K'ak'a'">
 <!ENTITY newMenu.accesskey "K">
 <!ENTITY newMessage.label "Tzijol">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "T">
 <!ENTITY newContact.label "Kib'i' Achib'il pa Kitz'ib'awuj Ochochib'äl…">
 <!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Titz'aqatisäx">
 <!ENTITY attachMenu.accesskey "x">
-<!ENTITY attachFileCmd.label "Yakb'äl(taq)…">
-<!ENTITY attachFileCmd.accesskey "Y">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Ajk'amaya'l Ruxaq…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Titaq Na">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "t">
-<!ENTITY printSetupCmd.label "Tib'an Runuk'ulem Ruxaq…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">
-<!ENTITY printPreviewCmd.accesskey "b">
 <!ENTITY printCmd.label "Titz'ajb'äx…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "b">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Kecholajïx chik taq Taqoj…">
 <!ENTITY reorderAttachmentsCmd.accesskey "a">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Rupas Taqoj">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "q">
 <!ENTITY selectAllCmd.accesskey "r">
 <!ENTITY findBarCmd.label "Tikanöx…">
 <!ENTITY findBarCmd.accesskey "k">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Kecholajïx chik taq Taqoj">
-<!ENTITY moveAttachmentTopPanelBtn.label "Tisilöx pa Rutikirib'al">
-<!ENTITY moveAttachmentUpPanelBtn.label "Tijotob'äx">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Kesilöx junam">
-<!ENTITY moveAttachmentDownPanelBtn.label "Tiqasäx Qa">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Tisilöx pa Ruk'isib'al">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Kinuk'ulem Rub'i' Taqoya'l">
 <!ENTITY accountManagerCmd2.accesskey "K">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
-<!ENTITY preferencesCmd2.label "Taq cha'oj">
-<!ENTITY preferencesCmd2.accesskey "o">
-<!ENTITY preferencesCmdUnix.label "Taq ajowab'äl">
-<!ENTITY preferencesCmdUnix.accesskey "w">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Titaq">
 <!ENTITY quoteButton.label "Tisik'ïx">
 <!ENTITY addressButton.label "Kib'i' achib'il">
-<!ENTITY attachButton.label "Titz'aqatisäx">
 <!ENTITY spellingButton.label "Tz'ib'anikil">
 <!ENTITY saveButton.label "Tiyak">
 <!ENTITY printButton.label "Titz'ajb'äx">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Titaq re rutzijol re' b'a' chik na">
 <!ENTITY quoteButton.tooltip "Tisik'ïx ri jun kan rutzijol">
 <!ENTITY addressButton.tooltip "Ticha' jun k'ulunel pa Kitz'ib'awuj Ochochib'äl">
-<!ENTITY attachButton.tooltip2 "Titz'aqatisäx jun taqoj">
 <!ENTITY spellingButton.tooltip "Tinik'ox rutz'ib'axik cha'oj o chijun ri rutzijol">
 <!ENTITY saveButton.tooltip "Titaq re rutzijol re'">
 <!ENTITY cutButton.tooltip              "Tiqupïx">
@@ -244,9 +223,6 @@
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY fromAddr2.label "Richin">
 <!ENTITY fromAddr.accesskey "c">
-<!ENTITY toAddr2.label "Chi re">
-<!ENTITY ccAddr2.label "Cc">
-<!ENTITY bccAddr2.label "Bcc">
 <!ENTITY replyAddr2.label "Titzolïx Tzij Chi Re">
 <!ENTITY newsgroupsAddr2.label "Rumolaj tzijol">
 <!ENTITY followupAddr2.label "Titaq chik Chi Re">
@@ -305,8 +281,6 @@
 <!ENTITY removeAllAttachments.accesskey "y">
 <!ENTITY selectAll.label "Ticha' Ronojel">
 <!ENTITY selectAll.accesskey "R">
-<!ENTITY attachFile.label "Ti(ke)tz'aqatisäx Yakb'äl…">
-<!ENTITY attachFile.accesskey "Y">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Tik'ex pa…">

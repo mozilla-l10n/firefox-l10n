@@ -40,8 +40,6 @@ inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</stro
 
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> majun nub'än pa re ch'akulal re' ruma chi ri <strong>overflow:hidden</strong> man jikib'an ta.
 
-inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> majun achike nub'än chi re re ch'akulal re', ruma chi ri <strong>ruchib'al-b'anikil</strong> ja ri <strong>auto</strong> o <strong>none</strong>.
-
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> majun nub'än pa ri taq rupam ri kajtz'ik.
 
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> majun nub'än pa ri taq rupam ri kajtz'ik we man e ruselta' ri kajtz'ik.
@@ -83,8 +81,6 @@ inactive-text-overflow-when-no-overflow-fix = Tatojtob'ej natz'aqatisaj <strong>
 inactive-css-not-for-internal-table-elements-fix = Tatojtob'ej nab'än runuk'ulem richinil <strong>tik'ut</strong> junwi chuwäch <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, o <strong>table-footer-group</strong>. { learn-more }
 
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Tatojtob'ej nab'än runuk'ulem richinil <strong>tik'ut</strong> junwi chuwäch <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, o <strong>table-footer-group</strong>. { learn-more }
-
-inactive-outline-radius-when-outline-style-auto-or-none-fix = Tatojtob'ej najäl ri rub'anikil <strong>outline-style</strong> rik'in jun chik chuwa ri <strong>auto</strong> o <strong>none</strong>. { learn-more }
 
 inactive-css-not-table-fix = Titojtob'ëx nitz'aqatisäx <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }
 

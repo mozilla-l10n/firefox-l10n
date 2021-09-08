@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-bookmark-overlay-name =
-    .value = B'i'aj:
-    .accesskey = B
-
-bookmark-overlay-location =
-    .value = Ochochib'äl
-    .accesskey = O
-
-bookmark-overlay-folder =
-    .value = Yakwuj:
-
 bookmark-overlay-name-2 =
     .value = B'i'aj
     .accesskey = B
@@ -39,10 +28,6 @@ bookmark-overlay-new-folder-button =
     .label = K'ak'a' yakwuj
     .accesskey = w
 
-bookmark-overlay-tags =
-    .value = Etal:
-    .accesskey = a
-
 bookmark-overlay-tags-2 =
     .value = Taq etal
     .accesskey = T
@@ -54,10 +39,6 @@ bookmark-overlay-tags-expander =
     .tooltiptext = Kek'ut ronojel ri taq etal
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Tewäx
-
-bookmark-overlay-keyword =
-    .value = Ruk'u'x tzij:
-    .accesskey = k
 
 bookmark-overlay-keyword-2 =
     .value = Ruk'u'x tzij

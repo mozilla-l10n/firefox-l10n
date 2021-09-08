@@ -9,8 +9,6 @@
 
 process-type-web = Ajk'amaya'l Rupam
 
-process-type-browser = Nimaläj
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Chi rij Ichinanem

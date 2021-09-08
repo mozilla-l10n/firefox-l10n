@@ -14,9 +14,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Tel pa chijun ruwa kematz'ib'">
 <!ENTITY castingButton.castingLabel "Titaq el pa ruwäch">
 <!ENTITY closedCaption.off "Chupül">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Pajonel ch'ab'äl">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->

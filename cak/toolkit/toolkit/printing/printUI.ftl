@@ -58,8 +58,6 @@ printui-options = Taq cha'oj
 printui-headers-footers-checkbox = Titz'ajb'äl taq nab'ey chuqa' ruxe' rub'i' ruxaq
 printui-backgrounds-checkbox = Ketz'ajb'äx taq rupam
 
-printui-selection-checkbox = Titz'ajb'äx xa xe ri cha'oj
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
