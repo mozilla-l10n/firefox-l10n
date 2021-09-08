@@ -20,12 +20,6 @@
 #
 -->
 
-<!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label     "Nu deschide ferestre popup de la acest sait">
-<!ENTITY popupWindowRejectCmd.accesskey "r">
-<!ENTITY popupWindowAllowCmd.label      "Permite ferestre popup de la acest sait">
-<!ENTITY popupWindowAllowCmd.accesskey  "a">
-
 <!ENTITY openLinkCmdInTab.label       "Deschide legătura în filă nouă">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Deschide legătura în fereastră nouă">

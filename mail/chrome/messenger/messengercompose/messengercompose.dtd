@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Creează">
 <!ENTITY newMenu.accesskey "C">
 <!ENTITY newMessage.label "Mesaj">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Contact în agendă…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Atașează">
 <!ENTITY attachMenu.accesskey "x">
-<!ENTITY attachFileCmd.label "Fișier(e)…">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Pagină web…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Trimite mai târziu">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "r">
-<!ENTITY printSetupCmd.label "Aranjare în pagină…">
-<!ENTITY printSetupCmd.accesskey "j">
-<!ENTITY printPreviewCmd.label "Previzualizează pentru tipărire">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Rearanjează atașamentele…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Panou de atașamente">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY findBarCmd.label "Caută…">
 <!ENTITY findBarCmd.accesskey "G">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Rearanjează atașamentele">
-<!ENTITY moveAttachmentTopPanelBtn.label "Mută în cea mai de sus poziție">
-<!ENTITY moveAttachmentUpPanelBtn.label "Mută în sus">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Mută împreună">
-<!ENTITY moveAttachmentDownPanelBtn.label "Mută în jos">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Mută în cea mai de jos poziție">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Setări pentru conturi">
 <!ENTITY accountManagerCmd2.accesskey "c">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
-<!ENTITY preferencesCmd2.label "Opțiuni">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Preferințe">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "M">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Trimite">
 <!ENTITY quoteButton.label "Citează">
 <!ENTITY addressButton.label "Adrese">
-<!ENTITY attachButton.label "Atașează">
 <!ENTITY spellingButton.label "Ortografie">
 <!ENTITY saveButton.label "Salvează">
 <!ENTITY printButton.label "Tipărește">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Trimite acest mesaj mai târziu">
 <!ENTITY quoteButton.tooltip "Citează din mesajul anterior">
 <!ENTITY addressButton.tooltip "Selectează destinatarul din agenda de contacte">
-<!ENTITY attachButton.tooltip2 "Adaugă un atașament">
 <!ENTITY spellingButton.tooltip "Verifică ortografia pentru zona selectată sau pentru întregul mesaj">
 <!ENTITY saveButton.tooltip "Salvează acest mesaj">
 <!ENTITY cutButton.tooltip              "Taie">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Alte tipuri de câmpuri de adresare">
 <!ENTITY fromAddr2.label "De la">
 <!ENTITY fromAddr.accesskey "D">
-<!ENTITY toAddr2.label "Către">
-<!ENTITY ccAddr2.label "Cc">
-<!ENTITY bccAddr2.label "Bcc">
 <!ENTITY replyAddr2.label "Răspuns către">
 <!ENTITY newsgroupsAddr2.label "Grup de știri">
 <!ENTITY followupAddr2.label "Mesaj de revenire">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Selectează tot">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Atașează fișier(e)…">
-<!ENTITY attachFile.accesskey "f">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "k">
 <!ENTITY convertCloud.label "Convertire la…">

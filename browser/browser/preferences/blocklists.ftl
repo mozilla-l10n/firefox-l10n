@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Listă
 
-blocklist-button-cancel =
-    .label = Renunță
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = Salvează schimbările
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Salvează schimbările
     .buttonaccesskeyaccept = S

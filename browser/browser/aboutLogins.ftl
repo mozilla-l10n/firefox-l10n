@@ -7,20 +7,12 @@ about-logins-page-title = Date de autentificare și parole
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Ia-ți cu tine parolele oriunde
-login-app-promo-subtitle = Obține aplicația gratuită { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Acum pe Google Play
-login-app-promo-apple =
-    .alt = Descarcă de pe App Store
-
 login-filter =
     .placeholder = Caută date de autentificare
 
 create-login-button = Creează o autentificare nouă
 
 fxaccounts-sign-in-text = Obține parolele de pe celelalte dispozitive
-fxaccounts-sign-in-button = Intră în contul de { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Autentifică-te pentru a sincroniza
 fxaccounts-avatar-button =
     .title = Gestionează contul
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Preferințe
     }
 about-logins-menu-menuitem-help = Ajutor
-menu-menuitem-android-app = { -lockwise-brand-short-name } pentru Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } pentru iPhone și iPad
 
 ## Login List
 
@@ -73,14 +63,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Îți cauți datele de autentificare salvate? Configurează { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = Cauți datele de autentificare salvate? Activează sincronizarea sau importează-le.
 about-logins-login-intro-heading-logged-in = Nu am găsit date de autentificare sincronizate.
 login-intro-description = Dacă ți-ai salvat datele de autentificare în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
-login-intro-instruction-fxa = Creează un cont sau autentifică-te în { -fxaccount-brand-name(case: "definite-article") } de pe dispozitivul pe care ai salvat datele de autentificare
-login-intro-instruction-fxa-settings = Asigură-te că ai bifat caseta de selectare Date de autentificare în Setările { -sync-brand-short-name }
-about-logins-intro-instruction-help = Intră pe <a data-l10n-name="help-link">asistență { -lockwise-brand-short-name }</a> pentru ajutor suplimentar
 login-intro-instructions-fxa = Creează un cont sau autentifică-te în { -fxaccount-brand-name(case: "definite-article") } de pe dispozitivul pe care ai salvat datele de autentificare.
 about-logins-intro-import = Dacă datele tale de autentificare sunt salvate în alt browser, le poți <a data-l10n-name="import-link">importa în{ -lockwise-brand-short-name }</a>
 
@@ -140,8 +125,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copiază parola salva
 
 ## Master Password notification
 
-master-password-notification-message = Te rugăm să introduci parola principală ca să vezi datele de autentificare și parolele salvate
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pentru a exporta datele de autentificare, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
 # This message can be seen when attempting to export a password in about:logins
@@ -156,22 +139,6 @@ master-password-reload-button =
     .accesskey = L
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Vrei să ai datele de autentificare oriunde folosești { -brand-product-name }? Intră în { -sync-brand-short-name } Opțiuni și selectează caseta Date de autentificare.
-       *[other] Vrei să ai datele de autentificare oriunde folosești { -brand-product-name }? Intră în { -sync-brand-short-name } Preferințe și selectează caseta Date de autentificare.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Vizitează opțiunile { -sync-brand-short-name }
-           *[other] Vizitează preferințele { -sync-brand-short-name }
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Nu mă mai întreba
-    .accesskey = D
 
 ## Dialogs
 

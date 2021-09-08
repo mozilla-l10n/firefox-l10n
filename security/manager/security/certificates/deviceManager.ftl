@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Număr de serie
 
-fips-nonempty-password-required = În modul FIPS trebuie să ai o parolă generală pentru fiecare dispozitiv de securitate. Te rugăm să setezi parola înainte de a încerca activarea modului FIPS.
-
 fips-nonempty-primary-password-required = Modul FIPS impune existența unei parole primare setate pentru fiecare dispozitiv de securitate. Te rugăm să setezi parola înainte de a încerca să activezi modul FIPS.
 unable-to-toggle-fips = Imposibil de schimbat modul FIPS pentru dispozitivul de securitate. Este recomandat să ieși și să repornești această aplicație.
 load-pk11-module-file-picker-title = Alege un driver al dispozitivului PKCS#11 pentru încărcare

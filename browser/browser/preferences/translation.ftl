@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Elimină toate site-urile
     .accesskey = i
 
-translation-button-close =
-    .label = Închide
-    .accesskey = c
-
 translation-dialog =
     .buttonlabelaccept = Închide
     .buttonaccesskeyaccept = c

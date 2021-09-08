@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Marchează fila
     .accesskey = B
-reopen-in-container =
-    .label = Redeschide într-un container
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Deschide într-o filă container nouă
     .accesskey = e
@@ -69,27 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Închide mai multe file
     .accesskey = M
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Anulează închiderea filelor
-            [one] Anulează închiderea filei
-            [few] Anulează închiderea filelor
-           *[other] Anulează închiderea filelor
-        }
-    .accesskey = U
-close-tab =
-    .label = Închide fila
-    .accesskey = c
-close-tabs =
-    .label = Închide filele
-    .accesskey = S
-move-tabs =
-    .label = Mută filele
-    .accesskey = v
-move-tab =
-    .label = Mută fila
-    .accesskey = v
 tab-context-share-url =
     .label = Partajează
     .accesskey = h
@@ -135,6 +111,7 @@ tab-context-move-tabs =
            *[other] Mută filele
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

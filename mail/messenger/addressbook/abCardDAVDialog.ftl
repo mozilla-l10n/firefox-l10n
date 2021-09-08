@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Continuă
     .buttonaccesskeyaccept = C
 
-carddav-experimental-warning = Suportul pentru agenda de adrese CardDAV este experimental și ți-ar putea deteriora permanent datele. Folosește pe propria răspundere.
-
-carddav-provider-label =
-    .value = Furnizor CardDAV:
-    .accesskey = P
-
-carddav-provider-option-other = Alt furnizor ...
-
-carddav-url-label =
-    .value = URL CardDAV:
-    .accesskey = V
-
 carddav-username-label =
     .value = Nume de utilizator:
     .accesskey = u
-carddav-username-input =
-    .placeholder = tu@exemplu.com
-
-carddav-password-label =
-    .value = Parolă:
-    .accesskey = w
-carddav-password-input =
-    .placeholder = Parolă
-
-carddav-remember-password =
-    .label = Memorează parola
-    .accesskey = m
 
 carddav-loading = Se caută configurația…
 carddav-connection-error = Conectare eșuată.

@@ -16,10 +16,6 @@ webrtc-sharing-window = Partajezi o altă fereastră a aplicației.
 webrtc-sharing-browser-window = Partajezi { -brand-short-name }.
 webrtc-sharing-screen = Îți partajezi tot ecranul.
 webrtc-stop-sharing-button = Oprește partajarea
-webrtc-microphone-button =
-    .title = Microfonul este partajat. Dă clic pentru controlul partajării.
-webrtc-camera-button =
-    .title = Camera este partajată. Dă clic pentru controlul partajării.
 webrtc-minimize =
     .title = Minimalizează indicatorul
 

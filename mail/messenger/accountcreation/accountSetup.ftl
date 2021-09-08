@@ -43,6 +43,8 @@ account-setup-name-input =
 ## Warning Exchange confirmation dialog
 
 
+## Dismiss account creation dialog
+
 ## Alert dialogs
 
 

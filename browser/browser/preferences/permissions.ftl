@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Elimină toate site-urile web
     .accesskey = E
 
-permissions-button-cancel =
-    .label = Renunță
-    .accesskey = C
-
-permissions-button-ok =
-    .label = Salvează schimbările
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Salvează schimbările
     .buttonaccesskeyaccept = S

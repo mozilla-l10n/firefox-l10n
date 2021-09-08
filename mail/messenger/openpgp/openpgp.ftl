@@ -118,14 +118,8 @@ openpgp-key-send-key =
     .label = Trimite cheia publică prin e-mail
     .accesskey = S
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Copiază chei publice în clipboard
-    .accesskey = C
-
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportă cheile într-un fișier
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Copiază cheile publice în clipboard
 
 openpgp-key-man-close =
     .label = Închide
@@ -250,16 +244,6 @@ openpgp-description =
        *[other] Thunderbird a găsit { $count } de chei personale OpenPGP asociate cu <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Selectează o cheie validă pentru activarea protocolului OpenPGP.
-        [one] Configurația curentă folosește cheia cu ID-ul <b>{ $key }</b>
-        [few] Configurația curentă folosește cheile cu ID-ul <b>{ $key }</b>
-       *[other] Configurația curentă folosește cheile cu ID-ul <b>{ $key }</b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Configurația ta curentă folosește cheia <b>{ $key }</b>, care a expirat.
 
@@ -285,14 +269,8 @@ openpgp-radio-none-desc = Nu folosi OpenPGP pentru această identitate.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Expiră la: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Cheia expiră în mai puțin de 6 luni
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Expiră la: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Cheia a expirat
 
 openpgp-key-expand-section =
     .tooltiptext = Mai multe informații
@@ -611,7 +589,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Ai setat încadrarea rândurilor la o lățime de { $width } (de) caractere. Pentru criptare și/sau semnare corectă(e), valoarea trebuie să fie de cel puțin 68.
     Vrei să modifici încadrarea rândurilor pe 68 de caractere acum?
-sending-hidden-rcpt = Nu se poate folosi BCC (copie carbon cu destinatar ascuns) la transmiterea unui mesaj criptat. Pentru a trimite acest mesaj criptat, fie elimini destinatarii din BCC, fie îi muți în câmpul CC.
 sending-news =
     Operație de trimitere criptată abandonată.
     Mesajul nu poate fi criptat deoarece sunt destinatari ai grupului de discuții. Retrimite mesajul fără criptare.
@@ -671,9 +648,6 @@ enig-info = Informații OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Reîncearcă
 dlg-button-skip = &Sari peste
-
-# Strings used in enigmailCommon.js
-enig-error = Eroare OpenPGP
 
 enig-alert-title =
     .title = Alertă OpenPGP
