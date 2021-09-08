@@ -108,7 +108,7 @@ policy-SearchBar = Configurar la ubicación predeterminada de la barra de búsqu
 policy-SearchEngines = Configurar los ajustes del buscador. Esta política solo está disponible en la versión Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Habilitar o deshabilitar las sugerencias de búsqueda.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
-policy-SecurityDevices = Instale los módulos PKCS #11.
+policy-SecurityDevices = Instalar módulos PKCS #11.
 policy-ShowHomeButton = Mostrar el botón de inicio en la barra de herramientas.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
 policy-SSLVersionMin = Establecer la versión mínima de SSL.
