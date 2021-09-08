@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Take a Screenshot
-
-screenshots-my-shots-button = My Shots
-
 screenshot-toolbarbutton =
     .label = Screenshot
     .tooltiptext = Take a screenshot
@@ -40,8 +36,6 @@ screenshots-login-error-details = We couldn’t save your shot because there is 
 
 screenshots-unshootable-page-error-title = We can’t screenshot this page.
 screenshots-unshootable-page-error-details = This isn’t a standard Web page, so you can’t take a screenshot of it.
-
-screenshots-self-screenshot-error-title = You can’t take a shot of a { -screenshots-brand-name } page!
 
 screenshots-empty-selection-error-title = Your selection is too small
 

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Add-ons Manager
-
 addons-page-title = Add-ons Manager
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Add-ons Support
 sidebar-help-button-title =
     .title = Add-ons Support
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } Options
-       *[other] { -brand-short-name } Preferences
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } Options
-           *[other] { -brand-short-name } Preferences
-        }
-
 addons-settings-button = { -brand-short-name } Settings
 sidebar-settings-button-title =
     .title = { -brand-short-name } Settings
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Show all extensions
-
-cmd-show-details =
-    .label = Show More Information
-    .accesskey = S
-
-cmd-find-updates =
-    .label = Find Updates
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Options
-           *[other] Preferences
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Wear Theme
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = Stop Wearing Theme
-    .accesskey = W
-
-cmd-install-addon =
-    .label = Install
-    .accesskey = I
-
-cmd-contribute =
-    .label = Contribute
-    .accesskey = C
-    .tooltiptext = Contribute to the development of this add-on
 
 detail-version =
     .label = Version
@@ -401,8 +349,6 @@ dictionary-disabled-heading = Disabled
 
 locale-enabled-heading = Enabled
 locale-disabled-heading = Disabled
-
-ask-to-activate-button = Ask to Activate
 
 always-activate-button = Always Activate
 never-activate-button = Never Activate

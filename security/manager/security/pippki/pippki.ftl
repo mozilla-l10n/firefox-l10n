@@ -6,9 +6,6 @@ password-quality-meter = Password quality meter
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Change Master Password
-
 change-device-password-window =
     .title = Change Password
 
@@ -20,10 +17,6 @@ change-password-new = New password:
 change-password-reenter = New password (again):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Reset Master Password
-    .style = width: 40em
 
 pippki-failed-pw-change = Unable to change password.
 pippki-incorrect-pw = You did not enter the correct current password. Please try again.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Reset
-reset-password-text = If you reset your master password, all your stored web and email passwords, form data, personal certificates, and private keys will be forgotten. Are you sure you want to reset your master password?
 
 reset-primary-password-text = If you reset your Primary Password, all your stored web and e-mail passwords, personal certificates, and private keys will be forgotten. Are you sure you want to reset your Primary Password?
 
