@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = កម្មវិធី​គ្រប់គ្រង​កម្មវិធី​បន្ថែម
-
 addons-page-title = កម្មវិធី​គ្រប់គ្រង​កម្មវិធី​បន្ថែម
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = បង្ហាញ​ផ្នែក​បន្ថែម​ទាំងអស់
-
-cmd-show-details =
-    .label = បង្ហាញ​ព័ត៌មាន​បន្ថែម
-    .accesskey = S
-
-cmd-find-updates =
-    .label = រក​បច្ចុប្បន្នភាព
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ជម្រើស
-           *[other] ចំណូលចិត្ត
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = ដាក់​ស្បែក
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = បញ្ឈប់​ការ​ដាក់​ស្បែក
-    .accesskey = ប
-
-cmd-install-addon =
-    .label = ដំឡើង
-    .accesskey = I
-
-cmd-contribute =
-    .label = រួមចំណែក
-    .accesskey = C
-    .tooltiptext = ចូលរួម​ក្នុង​ការ​អភិវឌ្ឍ​កម្មវិធី​បន្ថែម​នេះ
 
 detail-version =
     .label = កំណែ

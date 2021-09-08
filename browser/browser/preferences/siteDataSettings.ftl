@@ -28,14 +28,6 @@ site-data-remove-selected =
     .label = លុប​អ្វី​ដែល​បាន​ជ្រើស
     .accesskey = r
 
-site-data-button-cancel =
-    .label = បោះបង់
-    .accesskey = C
-
-site-data-button-save =
-    .label = រក្សាទុក​ការ​ផ្លាស់ប្ដូរ
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = រក្សាទុក​ការ​ផ្លាស់ប្ដូរ
     .buttonaccesskeyaccept = a

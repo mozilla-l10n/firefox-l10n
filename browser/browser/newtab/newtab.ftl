@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = ស្វែងរក
     .aria-label = ស្វែងរក
 
-newtab-search-box-search-the-web-text = ស្វែងរក​បណ្ដាញ
-
 newtab-search-box-search-the-web-input =
     .placeholder = ស្វែងរក​បណ្ដាញ
     .title = ស្វែងរក​បណ្ដាញ

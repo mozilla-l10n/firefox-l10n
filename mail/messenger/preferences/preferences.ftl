@@ -3,13 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Options
-           *[other] ចំណូល​ចិត្ត
-        }
-
 pane-compose-title = Composition
 category-compose =
     .tooltiptext = Composition
@@ -59,10 +52,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Customize…
     .accesskey = C
-
-tray-icon-label =
-    .label = បង្ហាញ​រូបតំណាង​ថាស
-    .accesskey = t
 
 mail-custom-sound-label =
     .label = Use the following sound file
@@ -233,9 +222,6 @@ smaller-size-item =
 quoted-text-color =
     .label = ពណ៌៖
     .accesskey = o
-
-search-input =
-    .placeholder = Search
 
 type-column-label =
     .label = Պարունակության տեսակը
@@ -478,16 +464,6 @@ passwords-description = { -brand-short-name } can remember passwords for all of 
 passwords-button =
     .label = Saved Passwords…
     .accesskey = S
-
-master-password-description = A Master Password protects all your passwords, but you must enter it once per session.
-
-master-password-label =
-    .label = Use a master password
-    .accesskey = U
-
-master-password-button =
-    .label = Change Master Password…
-    .accesskey = C
 
 
 junk-description = Set your default junk mail settings. Account-specific junk mail settings can be configured in Account Settings.

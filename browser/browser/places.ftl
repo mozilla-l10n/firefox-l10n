@@ -5,31 +5,9 @@
 places-open =
     .label = បើក
     .accesskey = ប
-places-open-tab =
-    .label = បើក​ក្នុង​ផ្ទាំង​ថ្មី
-    .accesskey = ផ
 places-open-all-in-tabs =
     .label = បើក​ក្នុង​ផ្ទាំង​ទាំងអស់
     .accesskey = ប
-places-open-window =
-    .label = បើក​ក្នុង​បង្អួច​ថ្មី
-    .accesskey = ប
-places-open-private-window =
-    .label = បើក​ក្នុង​បង្អួចឯក​ជន​ថ្មី
-    .accesskey = ឯ
-
-places-new-bookmark =
-    .label = ចំណាំ​ថ្មី
-    .accesskey = ច
-places-new-folder-contextmenu =
-    .label = ថត​ថ្មី...
-    .accesskey = F
-places-new-folder =
-    .label = ថត​ថ្មី...
-    .accesskey = ថ
-places-new-separator =
-    .label = សញ្ញា​បំបែក​ថ្មី
-    .accesskey = ស
 
 places-view =
     .label = មើល
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = តម្រៀប​តាម​ឈ្មោះ
     .accesskey = r
-places-properties =
-    .label = លក្ខណសម្បត្តិ
-    .accesskey = ស
 

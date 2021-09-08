@@ -6,9 +6,6 @@ password-quality-meter = ឧបករណ៍​​វាស់​​​គុណ�
 
 ## Change Password dialog
 
-change-password-window =
-    .title = ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់​មេ
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = ឧបករណ៍​សុវត្ថិភាព: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = ពាក្យ​សម្ងាត់​ថ្មី
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = កំណត់​ពាក្យ​សម្ងាត់​មេ​ឡើង​​វិញ
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = កំណត់​ឡើង​វិញ
-reset-password-text = ប្រសិន​បើ​អ្នក​កំណត់​ពាក្យ​សម្ងាត់​មេ​របស់​អ្នក​ឡើង​វិញ ពាក្យសម្ងាត់​បណ្ដាញ និង​អ៊ីមែល​ ទិន្នន័យ​ទ្រង់ទ្រាយ វិញ្ញាបនបត្រ​ផ្ទាល់ខ្លួន​ និង​សោ​ឯកជន​ទាំងអស់​របស់​អ្នក នឹង​ត្រូវ​បាន​បំភ្លេច​ចោល​ ។ តើ​អ្នក​ពិត​ជា​ចង់​កំណត់​ពាក្យ​សម្ងាត់​មេ​របស់​អ្នក​ឡើង​វិញ​ឬ ?
 
 ## Downloading cert dialog
 

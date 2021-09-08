@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = ការ​អ៊ិនកូដ​​អត្ថបទ​សម្រាប់​មាតិកា​ចាស់ៗ
-fonts-languages-fallback-desc = ការ​អ៊ិនកូដ​​អត្ថបទ​នេះ​ ត្រូវ​បាន​ប្រើ​សម្រាប់​​មាតិកា​ចាស់ៗ​ ដែល​បរាជ័យ​ក្នុង​ប្រកាស​ការ​អ៊ិនកូដ។
-
-fonts-languages-fallback-label = ការ​អ៊ិនកូដ​អត្ថបទ​ Fallback
-    .accesskey = T
-
-fonts-languages-fallback-name-auto =
-    .label = លំនាំដើម​សម្រាប់​មូលដ្ឋាន​បច្ចុប្បន្ន
-fonts-languages-fallback-name-arabic =
-    .label = អារ៉ាប់
-fonts-languages-fallback-name-baltic =
-    .label = បាល់ទិក
-fonts-languages-fallback-name-ceiso =
-    .label = អឺរ៉ុប​កណ្ដាល ISO
-fonts-languages-fallback-name-cewindows =
-    .label = អឺរ៉ុប​កណ្ដាល ម៉ៃក្រូសូហ្វ
-fonts-languages-fallback-name-simplified =
-    .label = អក្សរ​ចិន​កាត់
-fonts-languages-fallback-name-traditional =
-    .label = អក្សរ​ចិន​ពេញ
-fonts-languages-fallback-name-cyrillic =
-    .label = ស៊ីរីលីក
-fonts-languages-fallback-name-greek =
-    .label = ក្រិក
-fonts-languages-fallback-name-hebrew =
-    .label = ហេប្រូ
-fonts-languages-fallback-name-japanese =
-    .label = ជប៉ុន
-fonts-languages-fallback-name-korean =
-    .label = កូរ៉េ
-fonts-languages-fallback-name-thai =
-    .label = ថៃ
-fonts-languages-fallback-name-turkish =
-    .label = តួកគី
-fonts-languages-fallback-name-vietnamese =
-    .label = វៀតណាម
-fonts-languages-fallback-name-other =
-    .label = ផ្សេង​ទៀត (អឺរ៉ុប​ខាងលិច incl.)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

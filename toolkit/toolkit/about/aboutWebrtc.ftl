@@ -119,8 +119,6 @@ about-webrtc-aec-logging-off-state-msg = ឯកសារ​កំណត់​ហ
 
 ##
 
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
@@ -135,4 +133,6 @@ about-webrtc-jitter-label = ម៉ឺងម៉ាត់ { $jitter }
 
 ##
 
+
+##
 

@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = ថយក្រោយ​មួយ​ទំព័រ
-    .aria-label = ថយក្រោយ
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = ទៅមុខ​មួយ​ទំព័រ
-    .aria-label = ទៅមុខ
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = រក្សា​ទុក​ទំព័រជា...
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = បើក​តំណ​ក្នុង​បង្អួចឯក​ជន​ថ្មី
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = ចំណាំ​តំណ​នេះ
-    .accesskey = L
-
 main-context-menu-save-link =
     .label = រក្សាទុក​តំណជា...
     .accesskey = k
@@ -185,10 +156,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = ចម្លង​អាសយដ្ឋានអ៊ីមែល
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = ចម្លង​ទីតាំង​តំណ
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -213,32 +180,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = បើក​សំឡេង
     .accesskey = m
-
-main-context-menu-media-play-speed =
-    .label = ល្បឿន​លេង
-    .accesskey = d
-
-main-context-menu-media-play-speed-slow =
-    .label = យឺត (0.5×)
-    .accesskey = S
-
-main-context-menu-media-play-speed-normal =
-    .label = ធម្មតា
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = លឿន (1.25×)
-    .accesskey = F
-
-main-context-menu-media-play-speed-faster =
-    .label = លឿន (1.5×)
-    .accesskey = a
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Ludicrous (2×)
-    .accesskey = L
 
 main-context-menu-media-loop =
     .label = រង្វិល​ជុំ
@@ -269,29 +210,9 @@ main-context-menu-image-reload =
     .label = ផ្ទុក​រូបភាព​ឡើង​វិញ
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = មើល​រូបភាព
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = មើល​វីដេអូ
-    .accesskey = I
-
 main-context-menu-image-copy =
     .label = ចម្លង​រូបភាព
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = ចម្លង​ទីតាំង​រូបភាព
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = ចម្លង​ទីតាំង​វីដេអូ
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = ចម្លង​ទីតាំង​អូឌីយ៉ូ
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = រក្សាទុក​រូបភាព​ជា...
@@ -300,10 +221,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = អ៊ីមែលរូបភាព...
     .accesskey = g
-
-main-context-menu-image-set-as-background =
-    .label = កំណត់​ជា​ផ្ទៃ​ខាងក្រោយ​របស់​​ផ្ទៃតុ...
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = មើល​ព័ត៌មាន​របស់​រូបភាព
@@ -320,10 +237,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = រក្សា​ទុក​អូឌីយ៉ូ​ជា...
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = រក្សាទុក​រូបថត​ជា...
-    .accesskey = S
 
 main-context-menu-video-email =
     .label = អ៊ីមែល​វីដេអូ...
@@ -344,10 +257,6 @@ main-context-menu-plugin-hide =
 main-context-menu-send-to-device =
     .label = ផ្ញើ​ទំព័រ​ទៅ​ឧបករណ៍
     .accesskey = D
-
-main-context-menu-view-background-image =
-    .label = មើល​រូបភាព​ផ្ទៃ​ខាងក្រោយ
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -412,10 +321,6 @@ main-context-menu-view-page-source =
     .label = មើល​កូដ​ទំព័រ
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = មើល​ព័ត៌មាន​ទំព័រ
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = ប្ដូរ​​ទិស​អត្ថបទ
     .accesskey = w
@@ -424,13 +329,10 @@ main-context-menu-bidi-switch-page =
     .label = ប្ដូរទិស​ទំព័រ
     .accesskey = D
 
-main-context-menu-inspect-element =
-    .label = ត្រួតពិនិត្យ​ធាតុ
-    .accesskey = Q
-
 main-context-menu-inspect-a11y-properties =
     .label = ពិនិត្យលក្ខណៈសម្បត្តិភាពងាយស្រួល
 
 main-context-menu-eme-learn-more =
     .label = ស្វែងយល់​បន្ថែម​អំពី DRM…
     .accesskey = D
+

@@ -38,9 +38,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = ផ្ទាំង​ចំណាំ
     .accesskey = B
-reopen-in-container =
-    .label = បើក​ឡើង​វិញ​នៅ​ក្នុង​ប្រអប់
-    .accesskey = e
 move-to-start =
     .label = ផ្លាស់ទី​ទៅ​ចាប់ផ្ដើម
     .accesskey = S
@@ -50,19 +47,6 @@ move-to-end =
 move-to-new-window =
     .label = ផ្លាស់ទី​ទៅកាន់​បង្អួច​ថ្មី
     .accesskey = W
-
-close-tab =
-    .label = បិទ​​ផ្ទាំង
-    .accesskey = c
-close-tabs =
-    .label = បិទ​ផ្ទាំង
-    .accesskey = S
-move-tabs =
-    .label = ផ្លាស់ទី​ផ្ទាំង
-    .accesskey = v
-move-tab =
-    .label = ផ្លាស់ទី​ផ្ទាំង
-    .accesskey = v
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

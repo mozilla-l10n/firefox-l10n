@@ -7,7 +7,6 @@
 
 cfr-doorhanger-extension-heading = ផ្នែកបន្ថែមដែលបានណែនាំ
 cfr-doorhanger-feature-heading = មុខងារ​ដែលបានណែនាំ
-cfr-doorhanger-pintab-heading = សាកល្បងមួយនេះ៖ ខ្ទាស់ផ្ទាំង
 
 ##
 
@@ -19,8 +18,6 @@ cfr-doorhanger-extension-cancel-button = កុំ​ទាន់អាល
 
 cfr-doorhanger-extension-ok-button = បន្ថែម​ឥឡូវ
     .accesskey = A
-cfr-doorhanger-pintab-ok-button = ខ្ទាស់ផ្ទាំងនេះ
-    .accesskey = P
 
 cfr-doorhanger-extension-manage-settings-button = គ្រប់គ្រង​ការកំណត់​ការណែនាំ
     .accesskey = M
@@ -66,14 +63,7 @@ cfr-doorhanger-extension-total-users =
        *[other] អ្នកប្រើ { $total }
     }
 
-cfr-doorhanger-pintab-description = ងាយស្រួលចូលទៅកាន់គេហទំព័រដែលប្រើច្រើនបំផុតរបស់អ្នក។ បន្ត​បើក​គេហទំព័រ​ក្នុងផ្ទាំង (ទោះបីនៅពេល​អ្នក​ចាប់ផ្ដើម​ឡើងវិញ)។
-
 ## These messages are steps on how to use the feature and are shown together.
-
-cfr-doorhanger-pintab-step1 = <b>ចុចខាងស្តាំ </b> លើផ្ទាំងដែលអ្នកចង់ខ្ទាស់។
-
-cfr-doorhanger-pintab-animation-pause = ផ្អាក
-cfr-doorhanger-pintab-animation-resume = បន្ត
 
 
 ## Firefox Accounts Message
@@ -164,4 +154,10 @@ cfr-doorhanger-pintab-animation-resume = បន្ត
 ## What's new: Cross-site cookie tracking
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

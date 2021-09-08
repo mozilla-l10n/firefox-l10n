@@ -5,11 +5,6 @@
 containers-window-new =
     .title = បន្ថែម​ប្រអប់​ផ្ទុក​ថ្មី
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = ចំណូលចិត្ត​ប្រអប់​ផ្ទុក { $name }
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = រូបតំណាង
 containers-color-label = ពណ៌
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = ធ្វើ​រួច
-    .accesskey = D
 
 containers-color-blue =
     .label = ខៀវ

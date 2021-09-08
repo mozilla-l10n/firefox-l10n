@@ -17,42 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = អាជ្ញាធរ
 
-certmgr-detail-general-tab-title =
-    .label = ទូទៅ
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = សេចក្ដី​លម្អិត
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = កំពុង​ផ្ទៀងផ្ទាត់​វិញ្ញាបនបត្រ…
-
-certmgr-subject-label = ចេញ​ឲ្យ
-
-certmgr-issuer-label = ​ចេញ​ដោយ
-
-certmgr-period-of-validity = រយៈពេល​សុពលភាព
-
-certmgr-fingerprints = ស្នាម​ផ្តិត​មេ​ដៃ
-
-certmgr-cert-detail =
-    .title = សេចក្ដី​លម្អិត​អំពី​វិញ្ញាបនបត្រ
-    .buttonlabelaccept = បិទ
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = ឈ្មោះ​ទូ​ទៅ (CN)
-
-certmgr-cert-detail-org = អង្គការ​ (O)
-
-certmgr-cert-detail-orgunit = ផ្នែក​នៃ​អង្គការ​ (OU)
-
-certmgr-cert-detail-serial-number = លេខ​សម្គាល់
-
-certmgr-cert-detail-sha-256-fingerprint = ស្នាម​ផ្ដិត​មេដៃ SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = ស្នាម​ផ្ដិត​មេ​ដៃ SHA1
-
 certmgr-edit-ca-cert =
     .title = កែសម្រួល​ការ​កំណត់​ទំនុកចិត្ត​លើ​វិញ្ញាបនបត្រ CA
     .style = width: 48em;
@@ -81,12 +45,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = ឧបករណ៍​សុវត្ថិភាព
 
-certmgr-begins-on = ចាប់ផ្ដើម​នៅ
-
 certmgr-begins-label =
     .label = ចាប់ផ្ដើម​នៅ
-
-certmgr-expires-on = ផុត​កំណត់​នៅ​​ថ្ងៃ
 
 certmgr-expires-label =
     .label = ផុត​កំណត់​នៅ​​ថ្ងៃ
@@ -128,18 +88,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = នាំចូល...
     .accesskey = m
-
-certmgr-details =
-    .value = វាល​វិញ្ញាបនបត្រ
-    .accesskey = F
-
-certmgr-fields =
-    .value = តម្លៃ​វាល
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = ឋានានុក្រម​វិញ្ញាបនបត្រ
-    .accesskey = H
 
 certmgr-add-exception =
     .label = បន្ថែម​ករណី​លើកលែង…
@@ -203,12 +151,6 @@ delete-user-cert-confirm = តើ​អ្នក​ពិតជា​ចង់�
 delete-user-cert-impact = ប្រសិនបើ អ្នក​លុប​វិញ្ញាបនបត្រ​ណាមួយ​របស់​អ្នក អ្នក​ប្រាកដជា​នឹង​មិន​អាច​ប្រើ​វា​ដើម្បី​កំណត់​អត្តសញ្ញាណ​អំពី​ខ្លួន​អ្នក​បាន​ទៀត​ទេ ។
 
 
-delete-ssl-cert-title =
-    .title = លុប​ករណី​លើកលែង​វិញ្ញាបនបត្រ​របស់​ម៉ាស៊ីន​បម្រើ
-delete-ssl-cert-confirm = តើ​អ្នក​ពិត​ជា​ចង់​លុប​ករណី​លើកលែង​របស់​ម៉ាស៊ីន​បម្រើ​ទាំងនេះ​ឬ ?
-delete-ssl-cert-impact = ប្រសិនបើ អ្នក​លុប​ករណី​លើកលែង​របស់​ម៉ាស៊ីន​បម្រើ អ្នក​នឹង​ស្ដារ​ការ​ត្រួតពិនិត្យ​សុវត្ថិភាព​ធម្មតា​សម្រាប់​ម៉ាស៊ីន​បម្រើ​នោះ ព្រមទាំង​ទាមទារ​ឲ្យ​វា​ប្រើ​វិញ្ញាបនបត្រ​ត្រឹមត្រូវ ។
-
-
 delete-ca-cert-title =
     .title = លុប ឬ​មិន​ទុកចិត្ត​លើ​វិញ្ញាបនបត្រ CA
 delete-ca-cert-confirm = អ្នក​បាន​ស្នើ​ឲ្យ​លុប​វិញ្ញាបនបត្រ CA ទាំងនេះ ។ សម្រាប់​វិញ្ញាបនបត្រ​ដែល​ទុកចិត្ត​ទាំងអស់ នឹង​ត្រូវ​បាន​យក​ចេញ ដោយ​មាន​បែបផែន​តែមួយ ។ តើ​អ្នក​ពិតជា​មិន​ទុកចិត្ត ឬ​ចង់​លុប​ពួកវា​ឬ ?
@@ -221,38 +163,6 @@ delete-email-cert-confirm = តើ​អ្នក​ពិតជា​ចង់�
 delete-email-cert-impact = ប្រសិនបើ អ្នក​លុប​វិញ្ញាបនបត្រ​អ៊ីមែល​របស់​មនុស្ស​ណា​ម្នាក់ អ្នក​ក៏​នឹង​មិន​អាច​ផ្ញើ​អ៊ីមែល​ដែល​បាន​អ៊ិនគ្រីប​ទៅកាន់​មនុស្ស​ម្នាក់​នោះ​បាន​ទៀត​ដែរ ។
 
 ## Cert Viewer
-
-not-present =
-    .value = <មិនមែន​ជា​ផ្នែក​នៃ​វិញ្ញាបនបត្រ>
-
-# Cert verification
-cert-verified = វិញ្ញាបនបត្រ​នេះ​ត្រូវ​បាន​ផ្ទៀងផ្ទាត់​សម្រាប់​ការ​ប្រើប្រាស់​ដូច​ខាងក្រោម ៖
-
-# Add usage
-verify-ssl-client =
-    .value = SSL Client Certificate
-
-verify-ssl-server =
-    .value = វិញ្ញាបនបត្រ​ម៉ាស៊ីន​ប្រើ SSL
-
-verify-ssl-ca =
-    .value = ប្រភព​វិញ្ញាបនបត្រ​របស់ SSL
-
-verify-email-signer =
-    .value = វិញ្ញាបនបត្រ​អ្នក​ចុះហត្ថលេខា​អ៊ីមែល
-
-verify-email-recip =
-    .value = វិញ្ញាបនបត្រ​អ្នក​ទទួល​អ៊ីមែល
-
-# Cert verification
-cert-not-verified-cert-revoked = មិន​អាច​ផ្ទៀងផ្ទាត់​វិញ្ញាបនបត្រ​នេះ​បាន​ទេ ពីព្រោះ​វា​ត្រូវ​បាន​ដកហូត ​។
-cert-not-verified-cert-expired = មិន​អាច​ផ្ទៀងផ្ទាត់​វិញ្ញាបនបត្រ​នេះ​បាន​ទេ ពីព្រោះ​វា​បាន​ផុត​កំណត់ ។
-cert-not-verified-cert-not-trusted = មិន​អាច​ផ្ទៀងផ្ទាត់​វិញ្ញាបនបត្រ​នេះ​បាន​ទេ ពីព្រោះ​វា​មិន​គួរឲ្យ​ទុកចិត្ត ។
-cert-not-verified-issuer-not-trusted = មិន​អាច​ផ្ទៀងផ្ទាត់​វិញ្ញាបនបត្រ​នេះ​បាន​ទេ ពីព្រោះ​មិន​ទុកចិត្ត​លើ​អ្នក​ចេញ​វិញ្ញាបនបត្រ​នេះ ។
-cert-not-verified-issuer-unknown = មិន​អាច​ផ្ទៀងផ្ទាត់​វិញ្ញាបនបត្រ​នេះ​បាន​ទេ ពីព្រោះ​មិន​ស្គាល់​អ្នក​ចេញ​វិញ្ញាបនបត្រ​នេះ ។
-cert-not-verified-ca-invalid = មិន​អាច​ផ្ទៀងផ្ទាត់​វិញ្ញាបនបត្រ​នេះ​បាន​ទេ ពីព្រោះ​វិញ្ញាបនបត្រ CA មិន​ត្រឹមត្រូវ ។
-cert-not-verified_algorithm-disabled = មិន​អាច​ផ្ទៀងផ្ទាត់​វិញ្ញាបនបត្រ​បាន​ទេ ពីព្រោះ​វា​ត្រូ​វបាន​ចុះហត្ថលេខា​ ដោយ​ប្រើ​ក្បួន​ហត្ថលេខា​ ដែលត្រូវ​បានបិទ ពីព្រោះ​ក្បួន​នោះ​មិនមាន​សុវត្ថិភាព​ទេ ។
-cert-not-verified-unknown = មិន​អាច​ផ្ទៀងផ្ទាត់​វិញ្ញាបនបត្រ​នេះ​បាន​ទេ ដោយសារតែ​មិន​ស្គាល់​មូលហេតុ ។
 
 ## Used to show whether an override is temporary or permanent
 
