@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Gestô di conponenti azonti
-
 addons-page-title = Gestô di conponenti azonti
 
 search-header =
@@ -39,43 +36,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Amia tutte e estenscioin
-
-cmd-show-details =
-    .label = Fanni vedde ciù informaçioin
-    .accesskey = F
-
-cmd-find-updates =
-    .label = Treuva agiornamento
-    .accesskey = T
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Inpostaçioin
-           *[other] Preferense
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] o
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Metti o Tema
-    .accesskey = M
-
-cmd-disable-theme =
-    .label = Leva o Tema
-    .accesskey = L
-
-cmd-install-addon =
-    .label = Installa
-    .accesskey = I
-
-cmd-contribute =
-    .label = Agiutta
-    .accesskey = A
-    .tooltiptext = Agiutta a svilupâ sto conponente azonto
 
 detail-version =
     .label = Verscion

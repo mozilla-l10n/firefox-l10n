@@ -19,44 +19,7 @@ certmgr-tab-ca =
 
 certmgr-mine = Ti gh'é sti certificati da ste organizaçioin che te identifican
 certmgr-people = Ti gh'é sti certificati che identifican ste personn-e
-certmgr-servers = Ti gh'é sti certificati che identifican sti server
 certmgr-ca = Ti gh'é sti certificati inti schedai che identifican ste aotoritæ
-
-certmgr-detail-general-tab-title =
-    .label = Generale
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Detalli
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Verifico o certificato…
-
-certmgr-subject-label = Rilasciòu a
-
-certmgr-issuer-label = Publicou da
-
-certmgr-period-of-validity = Periodo de validitæ
-
-certmgr-fingerprints = Inpronte digitali
-
-certmgr-cert-detail =
-    .title = Detalli do certificato
-    .buttonlabelaccept = Særa
-    .buttonaccesskeyaccept = S
-
-certmgr-cert-detail-commonname = Nomme Comune (CN)
-
-certmgr-cert-detail-org = Organizaçion (O)
-
-certmgr-cert-detail-orgunit = Unitæ de Organizaçion (OU)
-
-certmgr-cert-detail-serial-number = Numero de serie
-
-certmgr-cert-detail-sha-256-fingerprint = Inpronta digitale SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Inpronta digitale SHA1
 
 certmgr-edit-ca-cert =
     .title = Cangia e inpostaçioin de fiduccia do certificato CA
@@ -86,12 +49,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Aparato de seguessa
 
-certmgr-begins-on = L'iniçia o
-
 certmgr-begins-label =
     .label = L'iniçia o
-
-certmgr-expires-on = Scazze o
 
 certmgr-expires-label =
     .label = Scazze o
@@ -133,18 +92,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Inpòrta…
     .accesskey = I
-
-certmgr-details =
-    .value = Canpi do certificato
-    .accesskey = f
-
-certmgr-fields =
-    .value = Valô do canpo
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = Gerarchia di certificati
-    .accesskey = t
 
 certmgr-add-exception =
     .label = Azonzi 'na eceçion…
@@ -208,12 +155,6 @@ delete-user-cert-confirm = T'ê seguo de scancelâ sti certificati?
 delete-user-cert-impact = Se ti ti scancelli un di teu certificati, ti no poriæ ciù deuvialo pe identificate.
 
 
-delete-ssl-cert-title =
-    .title = Scancella e eceçioin di certificati di server
-delete-ssl-cert-confirm = T'ê seguo de scancelâ i teu mòdoli de seguessa?
-delete-ssl-cert-impact = Se ti ti scancelli sta eceçion do server, ghe saian i mæximi contròlli de seguessa pe sto server o quæ o doviâ mostrâ 'n certificato bon.
-
-
 delete-ca-cert-title =
     .title = Scancella ò leva a fiduccia a-i certificati CA
 delete-ca-cert-confirm = T'æ domandou de scancelâ sti cerficati CA. Mia che saiâ scancelâ anche a fiduccia di cerficati relativi a questa CA. T'ê seguo de scancelâ ò levâ a fiduccia?
@@ -233,45 +174,6 @@ cert-with-serial =
     .value = Cartificato con numero seriale: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Vizolizatô de certificati: “{ $certName }”
-
-not-present =
-    .value = <No l'é parte do certificato>
-
-# Cert verification
-cert-verified = Sto certificato o l'é stæto verificou pe ste raxoin:
-
-# Add usage
-verify-ssl-client =
-    .value = Certificato SSL do Client
-
-verify-ssl-server =
-    .value = Certificato SSL do Server
-
-verify-ssl-ca =
-    .value = Aotoritæ de certificaçion SSL
-
-verify-email-signer =
-    .value = Certificato do mitente e-mail
-
-verify-email-recip =
-    .value = Certificato de destin e-mail
-
-# Cert verification
-cert-not-verified-cert-revoked = No pòsso verificâ sto certificato perché o l'é stæto revocou.
-cert-not-verified-cert-expired = No pòsso verificâ sto certificato perché o scazze.
-cert-not-verified-cert-not-trusted = No pòsso verificâ sto certificato perché o no l'é fidou.
-cert-not-verified-issuer-not-trusted = No pòsso verificâ sto certificato perché l'à fæto un aotô no fidou.
-cert-not-verified-issuer-unknown = No pòsso verificâ sto certificato perché n'ou sò chi o l'à fæto.
-cert-not-verified-ca-invalid = No pòsso verificâ sto certificato CA perché o no l'é valido.
-cert-not-verified_algorithm-disabled = Inposcibile verificâ sto certificato perché o l'é firmou co-in algoritmo de firma dizativou perché no seguo.
-cert-not-verified-unknown = No pòsso verificâ sto certificato e sò asæ perche.
 
 ## Used to show whether an override is temporary or permanent
 

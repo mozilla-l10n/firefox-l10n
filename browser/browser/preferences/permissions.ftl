@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Scancella tutti i sciti
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Anulla
-    .accesskey = A
-
-permissions-button-ok =
-    .label = Sarva cangiamenti
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Sarva cangiamenti
     .buttonaccesskeyaccept = S

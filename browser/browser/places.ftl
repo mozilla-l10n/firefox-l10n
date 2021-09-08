@@ -5,31 +5,9 @@
 places-open =
     .label = Arvi
     .accesskey = v
-places-open-tab =
-    .label = Arvi inte 'n atro feuggio
-    .accesskey = v
 places-open-all-in-tabs =
     .label = Arvi tutto inti feuggi
     .accesskey = o
-places-open-window =
-    .label = Arvi inte 'n atro barcon
-    .accesskey = n
-places-open-private-window =
-    .label = Arvi inte 'n neuva barcon privòu
-    .accesskey = m
-
-places-new-bookmark =
-    .label = Neuvo segnalibbro…
-    .accesskey = b
-places-new-folder-contextmenu =
-    .label = Neuva cartella…
-    .accesskey = F
-places-new-folder =
-    .label = Neuva cartella…
-    .accesskey = N
-places-new-separator =
-    .label = Neuvo separatô
-    .accesskey = s
 
 places-view =
     .label = Fanni vedde
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Ordina pe nomme
     .accesskey = r
-places-properties =
-    .label = Propietæ
-    .accesskey = i
 

@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Codifica do testo pe contegui vegi
-fonts-languages-fallback-desc = Sta codifica do testo a vegne adeuviâ pe contegnui vegi che no gh'an na pròpria codifica.
-
-fonts-languages-fallback-label = Codifica do testo da deuviâ
-    .accesskey = t
-
-fonts-languages-fallback-name-auto =
-    .label = Predefinia pe-a lengoa corente
-fonts-languages-fallback-name-arabic =
-    .label = Arabo
-fonts-languages-fallback-name-baltic =
-    .label = Baltico
-fonts-languages-fallback-name-ceiso =
-    .label = Ouröpa centra, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Ouröpa centra, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Cineize senplificou
-fonts-languages-fallback-name-traditional =
-    .label = Cineize tradiçionâ
-fonts-languages-fallback-name-cyrillic =
-    .label = Cirilico
-fonts-languages-fallback-name-greek =
-    .label = Grego
-fonts-languages-fallback-name-hebrew =
-    .label = Ebraico
-fonts-languages-fallback-name-japanese =
-    .label = Giaponeize
-fonts-languages-fallback-name-korean =
-    .label = Corean
-fonts-languages-fallback-name-thai =
-    .label = Tailandeize
-fonts-languages-fallback-name-turkish =
-    .label = Turco
-fonts-languages-fallback-name-vietnamese =
-    .label = Vietnamitto
-fonts-languages-fallback-name-other =
-    .label = Atro (incl. Ouröpa ponentinn-a)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

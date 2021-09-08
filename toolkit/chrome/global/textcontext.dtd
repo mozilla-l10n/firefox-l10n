@@ -16,11 +16,3 @@
 
 <!ENTITY searchTextBox.clear.label "Scancella">
 
-<!ENTITY fillLoginMenu.label "Conpila dæti d'acesso">
-<!ENTITY fillLoginMenu.accesskey "n">
-<!ENTITY fillPasswordMenu.label "Conpila paròlle segrete">
-<!ENTITY fillPasswordMenu.accesskey "n">
-<!ENTITY fillUsernameMenu.label "Conpila nomme utente">
-<!ENTITY fillUsernameMenu.accesskey "m">
-<!ENTITY noLoginSuggestions.label "(nesciun conseggio)">
-<!ENTITY viewSavedLogins.label "Amia acessi sarvæ">

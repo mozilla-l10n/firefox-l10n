@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = De longo
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Inpostaçioin
-       *[other] Preferense
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Treuva in Inpostaçioin
-           *[other] Treuva in Preferense
-        }
-
 pane-general-title = Generale
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +24,6 @@ category-search =
 pane-privacy-title = Privacy e seguessa
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = Sopòrto de { -brand-short-name }
 addons-button-label = Estenscioin e Temi
@@ -79,21 +53,9 @@ restart-later = Arvi torna Dòppo
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = 'Na estenscion, <img data-l10n-name="icon"/> { $name }, a contròlla a teu pagina prinçipâ.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = 'Na estenscion, <img data-l10n-name="icon"/> { $name }, a contròlla a teu pagina neuvo feuggio.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = 'Na estencion, <img data-l10n-name="icon"/> { $name }, a contròlla sta inpostaçion.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = 'Na estenscion, <img data-l10n-name="icon"/> { $name }, a l'à inpostou o teu motô de riçerca.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -118,26 +80,11 @@ extension-controlled-enable = Pe abilitâ l'estenscion vanni into conponente azo
 
 search-results-header = Exiti da riçerca
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Me spiaxe! No emmo trovou ninte inte Inpostaçioin pe “<span data-l10n-name="query"></span>”.
-       *[other] Me spiaxe! No emmo trovou ninte inte Preferense pe “<span data-l10n-name="query"></span>”.
-    }
-
 search-results-help-link = Serve agiutto? Vixita <a data-l10n-name="url">Sopòrto de { -brand-short-name }</a>
 
 ## General Section
 
 startup-header = Iniçio
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Consenti l’ezegoçion de { -brand-short-name } e Firefox a-o mæximo tenpo
-use-firefox-sync = Conseggio: coscì ti devi adeuviâ di profî diversci. Ti peu adeuviâ { -sync-brand-short-name } pe-a scincronizaçion di dæti.
-get-started-not-logged-in = Intra in{ -sync-brand-short-name }…
-get-started-configured = Arvi e inpostaçioin de { -sync-brand-short-name }
 
 always-check-default =
     .label = Contròlla de longo se { -brand-short-name } o l'é o navegatô predefinio
@@ -177,10 +124,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Avertime quando l'arvetua de ciù feuggi a peu fâ anâ ciù lento { -brand-short-name }
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = Quando arvo un colegamento inte un neuvo feuggio ti devi pasâ subito a st'urtimo
-    .accesskey = s
 
 show-tabs-in-taskbar =
     .label = Fanni vedde l'anteprimma inta bara di task do Windows
@@ -339,11 +282,6 @@ applications-manage-app =
     .label = Detalli da aplicaçion…
 applications-always-ask =
     .label = Domanda de longo
-applications-type-pdf = PDF (Portable Document Format)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -615,8 +553,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = I conseggi de riçerca no saian mostræ tra i exiti da-a bara di indirissi perché { -brand-short-name } o l'é inpostou pe no sarvâ a stöia.
 
-search-one-click-header = Motoî de riçerca in un sciacco
-
 search-one-click-desc = Çerni i motoî de riçerca alternativi che saian mostræ sotta a bara di indirissi e bara de riçerca quande ti iniçi a scrive.
 
 search-choose-engine-column =
@@ -649,9 +585,6 @@ containers-add-button =
     .label = Azonzi neuvo contegnitô
     .accesskey = A
 
-containers-preferences-button =
-    .label = Preferense
-
 containers-remove-button =
     .label = Scancella
 
@@ -662,7 +595,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = A teu Ræ, de longo con ti
-sync-signedout-description = Scincronizza segnalibbri, stöia, feuggi, paròlle segrete, conponenti azonti e inpostaçioin con tutti i teu dispoxitivi.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -736,15 +668,6 @@ sync-engine-addons =
     .tooltiptext = Estenscioin e temi pe Firefox desktop
     .accesskey = a
 
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Opçioin
-           *[other] Preferense
-        }
-    .tooltiptext = Inpostaçioin genarali, de privaçy e seguessa che t'æ cangiou
-    .accesskey = P
-
 ## The device name controls.
 
 sync-device-name-header = Nomme dispoxitivo
@@ -786,14 +709,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Acessi sarvæ…
     .accesskey = s
-forms-master-pw-use =
-    .label = Adeuvia 'na paròlla segreta prinçipâ
-    .accesskey = p
 forms-master-pw-change =
     .label = Cangia a paròlla segreta prinçipâ…
     .accesskey = C
-
-forms-master-pw-fips-title = Òua t'ê into mòddo FIPS. A-o FIPS serve 'na paròlla segreta prinçipâ che a no segge veua.
 
 forms-master-pw-fips-desc = Cangio de paròlla segreta no riescio
 
@@ -890,10 +808,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Gestisci dæti…
     .accesskey = G
-
-sitedata-cookies-permissions =
-    .label = Gestisci permissi...
-    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -1025,12 +939,6 @@ permissions-addon-exceptions =
     .label = Eceçioin…
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = O blòcca i serviççi de acesibiliæ
-    .accesskey = a
-
-permissions-a11y-privacy-link = Atre informaçioin
-
 ## Privacy Section - Data Collection
 
 collection-header = Acugeita dæti e uzo de { -brand-short-name }
@@ -1052,11 +960,6 @@ addon-recommendations-link = Atre informaçioin
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O report di dæti o l'é dizabilitou pe sta configuraçion
-
-collection-backlogged-crash-reports =
-    .label = Permetti a { -brand-short-name } de mandâ report di cianti in background pe conto teu
-    .accesskey = c
-collection-backlogged-crash-reports-link = Atre informaçioin
 
 ## Privacy Section - Security
 ##
@@ -1084,16 +987,6 @@ security-block-uncommon-software =
 
 certs-header = Certificati
 
-certs-personal-label = Quande 'n server o domanda o teu certificato personale
-
-certs-select-auto-option =
-    .label = Seleçionn-a un in aotomatico
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Domandimòu tutte e vòtte
-    .accesskey = D
-
 certs-enable-ocsp =
     .label = Domanda a-i risponditoî OCSP pe confermâ a validitæ di certificati òua
     .accesskey = o
@@ -1105,34 +998,6 @@ certs-view =
 certs-devices =
     .label = Aparati de Seguessa…
     .accesskey = S
-
-space-alert-learn-more-button =
-    .label = Atre informaçioin
-    .accesskey = A
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Arvi inpostaçioin
-           *[other] Arvi preferense
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] A
-           *[other] A
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } o sta pe finî o spaçio in sciô disco. I contegnui do scito no peuan mostrase ben. Ti peu scancelâ i dæti sarvæ di sciti inte Preferense > Privacy e Seguessa > Cookie e Dæti di sciti.
-       *[other] { -brand-short-name } o sta pe finî o spaçio in sciô disco. I contegnui do scito no peuan mostrase ben. Ti peu scancelâ i dæti sarvæ di sciti inte Preferense > Privacy e Seguessa > Cookie e Dæti di sciti.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = Va ben, ò capio
-    .accesskey = b
-
-space-alert-under-5gb-message = { -brand-short-name } o sta pe finî o spaçio in sciô disco. I contegnui do scito no se peuan mostrase ben. Vixita “Atre informaçioin” pe otimizâ l'uzo do disco pe avei 'na megio esperiensa de navegaçion.
 
 ## Privacy Section - HTTPS-Only
 

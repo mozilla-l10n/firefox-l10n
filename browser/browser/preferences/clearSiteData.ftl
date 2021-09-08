@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Te saiâ domandou de recaregâ inmagini e dæti
 
-clear-site-data-cancel =
-    .label = Anulla
-    .accesskey = A
-
-clear-site-data-clear =
-    .label = Scancella
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = Scancella
     .buttonaccesskeyaccept = l

@@ -49,8 +49,6 @@ policy-DisableForgetButton = No fâ acede a-o pomello Ascòrda.
 
 policy-DisableFormHistory = No aregordâ e riçerche e a stöia di mòdoli
 
-policy-DisableMasterPasswordCreation = Se true, no se peu creâ 'na paròlla segreta prinçipâ.
-
 policy-DisablePocket = Dizabilita a fonçion sarva pagina in Pocket.
 
 policy-DisablePrivateBrowsing = Dizabilita a Navegaçion Privâ

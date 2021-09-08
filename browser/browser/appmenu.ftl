@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Personalizza…
-
 ## Zoom Controls
 
 appmenuitem-new-tab =
@@ -30,22 +27,20 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Scincronizza òua
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Fanni vedde tutto
-    .tooltiptext = Fanni vedde tùtti i feuggi da sto dispoxitivo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nisciun feuggio averto
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ativâ a scincronizaçion di feuggi pe vedde i feuggi averti inti atri dispoxitivi.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = T'eu amiâ chi i teu feuggi da atri dipoxitivi?
+
 appmenu-remote-tabs-connectdevice =
     .label = Conetti 'n atro dispoxitivo
 appmenu-remote-tabs-unverified = O teu conto o deve ese verificou.
+
 appmenuitem-save-page =
     .label = Sarva pagina co-o nomme…
 
@@ -99,3 +94,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Gestion ativitæ
+
