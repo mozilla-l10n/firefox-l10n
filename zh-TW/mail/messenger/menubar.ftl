@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## View Menu
-
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -12,7 +10,6 @@
 menu-tools-preferences =
     .label = 偏好設定
     .accesskey = P
-
 menu-addons-and-themes =
     .label = 附加元件與佈景主題
     .accesskey = A
@@ -22,11 +19,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = 疑難排解模式…
     .accesskey = T
-
 menu-help-exit-troubleshoot-mode =
     .label = 關閉疑難排解模式
     .accesskey = O
-
 menu-help-more-troubleshooting-info =
     .label = 更多疑難排解資訊
     .accesskey = M
@@ -57,18 +52,18 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = 密度
     .accesskey = D
-
 mail-uidensity-compact =
     .label = 緊密
     .accesskey = C
-
 mail-uidensity-normal =
     .label = 標準
     .accesskey = N
-
 mail-uidensity-touch =
     .label = 觸控
     .accesskey = T
 
 ## File
 
+file-new-newsgroup-account =
+    .label = 新聞群組帳號…
+    .accesskey = N
