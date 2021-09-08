@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,9 +48,6 @@ main-context-menu-page-save =
     .label = Save Page As…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -81,10 +66,6 @@ main-context-menu-open-link-new-private-window =
     .label = Open Link in New Private Window
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = Bookmark This Link
-    .accesskey = L
-
 main-context-menu-save-link =
     .label = Save Link As…
     .accesskey = k
@@ -100,10 +81,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Copy Email Address
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = Copy Link Location
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -154,29 +131,9 @@ main-context-menu-image-reload =
     .label = Reload Image
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = View Image
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = View Video
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = Copy Image
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = Copy Image Location
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Copy Video Location
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Copy Audio Location
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = Save Image As…
@@ -185,10 +142,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Email Image…
     .accesskey = g
-
-main-context-menu-image-set-as-background =
-    .label = Set As Desktop Background…
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = View Image Info
@@ -205,10 +158,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Save Audio As…
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = Save Snapshot As…
-    .accesskey = S
 
 main-context-menu-video-email =
     .label = Email Video…
@@ -229,10 +178,6 @@ main-context-menu-plugin-hide =
 main-context-menu-send-to-device =
     .label = Send Page to Device
     .accesskey = D
-
-main-context-menu-view-background-image =
-    .label = View Background Image
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -296,10 +241,6 @@ main-context-menu-view-page-source =
     .label = View Page Source
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = View Page Info
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = Switch Text Direction
     .accesskey = w
@@ -308,10 +249,7 @@ main-context-menu-bidi-switch-page =
     .label = Switch Page Direction
     .accesskey = D
 
-main-context-menu-inspect-element =
-    .label = Inspect Element
-    .accesskey = Q
-
 main-context-menu-eme-learn-more =
     .label = Learn more about DRM…
     .accesskey = D
+

@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Private Browsing)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Private Browsing)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Private Browsing)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Private Browsing)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -81,6 +83,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit this bookmark ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -100,16 +103,13 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string won't wrap, so if the translated string is longer,
-# consider translating it as if it said only "Search Settings".
-search-one-offs-change-settings-button =
-    .label = Change Search Settings
 search-one-offs-context-open-new-tab =
     .label = Search in New Tab
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = Set As Default Search Engine
     .accesskey = D
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -135,7 +135,7 @@ identity-passive-loaded = Parts of this page are not secure (such as images).
 identity-active-loaded = You have disabled protection on this page.
 identity-weak-encryption = This page uses weak encryption.
 identity-insecure-login-forms = Logins entered on this page could be compromised.
-identity-permissions-empty = You have not granted this site any special permissions.
+
 identity-remove-cert-exception =
     .label = Remove Exception
     .accesskey = R
@@ -180,12 +180,6 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = Camera to share:
-    .accesskey = C
-popup-select-microphone =
-    .value = Microphone to share:
-    .accesskey = M
 popup-all-windows-shared = All visible windows on your screen will be shared.
 
 ## WebRTC window or screen share tab switch warning
@@ -196,12 +190,12 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = Search or enter address
 urlbar-placeholder =
     .placeholder = Search or enter address
+
 urlbar-switch-to-tab =
     .value = Switch to tab:
+
 urlbar-go-button =
     .tooltiptext = Go to the address in the Location Bar
 
@@ -231,6 +225,8 @@ urlbar-result-action-visit = Visit
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> is now full screen
 fullscreen-warning-no-domain = This document is now full screen
+
+
 fullscreen-exit-button = Exit Full Screen (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Exit Full Screen (esc)
@@ -248,6 +244,7 @@ bookmarks-other-bookmarks-menu =
     .label = Other Bookmarks
 bookmarks-bookmark-edit-panel =
     .label = Edit This Bookmark
+
 bookmarks-toolbar-menu =
     .label = Bookmarks Toolbar
 bookmarks-toolbar-placeholder =
@@ -297,6 +294,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Allow pop-ups for { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Block pop-ups for { $uriHost }
     .accesskey = p
@@ -306,3 +304,4 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Don’t show this message when pop-ups are blocked
     .accesskey = D
+
