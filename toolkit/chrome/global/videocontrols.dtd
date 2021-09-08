@@ -31,8 +31,8 @@ this string appears below the toggle when the mouse hovers the toggle. -->
 <!ENTITY error.aborted "טעינת הווידאו הופסקה.">
 <!ENTITY error.network "נגינת הוידאו הופסקה בעקבות שגיאת רשת.">
 <!ENTITY error.decode "לא ניתן לנגן את הוידאו מכיוון שהקובץ פגום.">
-<!ENTITY error.srcNotSupported "תסדיר הווידאו או סוג ה־MIME אינו נתמך.">
-<!ENTITY error.noSource2 "לא נמצא וידאו עם תסדיר וסוג MIME נתמכים.">
+<!ENTITY error.srcNotSupported "תבנית הווידאו או סוג ה־MIME אינו נתמך.">
+<!ENTITY error.noSource2 "לא נמצא וידאו עם תבנית וסוג MIME נתמכים.">
 <!ENTITY error.generic "נגינת הוידאו הופסקה בעקבות שגיאה לא ידועה.">
 
 <!ENTITY status.pictureInPicture "סרטון זה מתנגן במצב תמונה בתוך תמונה.">
@@ -46,4 +46,3 @@ unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
-
