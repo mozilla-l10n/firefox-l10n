@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (ব্যক্তিগত ব্রাউজিং ব্যবস্থা)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (ব্যক্তিগত ব্রাউজিং ব্যবস্থা)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (ব্যক্তিগত ব্রাউজিং ব্যবস্থা)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (ব্যক্তিগত ব্রাউজিং ব্যবস্থা)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -124,10 +126,12 @@ urlbar-canvas-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের জন্য ক্যানভাস ডেটা নিষ্কাশন ব্লক করেছেন।
 urlbar-midi-blocked =
     .tooltiptext = আপনি ওয়েবসাইটটির জন্য MIDI এর প্রবেশ ব্লক করেছেন।
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = চিহ্নিত বুকমার্ক পরিবর্তন করুন ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -135,12 +139,8 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
-page-action-add-to-urlbar =
-    .label = ঠিকানা বারে যোগ করুন
 page-action-manage-extension =
     .label = এক্সট্রেনশান ম্যানেজ করুন…
-page-action-remove-from-urlbar =
-    .label = ঠিকানা বার থেকে অপসারণ করুন
 
 ## Auto-hide Context Menu
 
@@ -153,18 +153,16 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string won't wrap, so if the translated string is longer,
-# consider translating it as if it said only "Search Settings".
-search-one-offs-change-settings-button =
-    .label = সার্চ সেটিংস বদল করুন
 search-one-offs-change-settings-compact-button =
     .tooltiptext = সার্চ সেটিংস বদল করুন
+
 search-one-offs-context-open-new-tab =
     .label = নতুন ট্যাবের মধ্যে খুলুন
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = অনুসন্ধান ইঞ্জিনকে ডিফল্ট হিসাবে সংকলন করুন
     .accesskey = D
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -195,8 +193,7 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = সংরক্ষণ করার সময় এডিটর দেখান
     .accesskey = S
-bookmark-panel-done-button =
-    .label = সমাপ্ত
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -213,8 +210,8 @@ identity-passive-loaded = এই পাতাটির অংশ নিরাপ
 identity-active-loaded = আপনি নিরাপদ নয় এমন উপাদানের থেকে সুরক্ষা নিষ্ক্রিয় করে রেখেছেন।
 identity-weak-encryption = এই পৃষ্ঠাটি দুর্বল এনক্রিপশন ব্যবহার করে।
 identity-insecure-login-forms = এই পেজে হওয়া লগইন সংকটাপন্ন হতে পারে।
+
 identity-permissions-reload-hint = আপনাকে হয়তো বদলগুলো দেখবার জন্য পেজটা রিলোড করতে হতে পারে।
-identity-permissions-empty = আপনি বর্তমান সাইটটিকে কোনও বিশেষ অনুমতি দেননি।
 identity-clear-site-data =
     .label = কুকি এবং সাইটের ডেটা পরিষ্কার করুন…
 identity-remove-cert-exception =
@@ -261,12 +258,6 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = শেয়ার করার ক্যামেরা:
-    .accesskey = C
-popup-select-microphone =
-    .value = শেয়ার করার মাইক্রোফোন :
-    .accesskey = M
 popup-all-windows-shared = আপনার স্ক্রিনে সব দৃশ্যমান উইন্ডো শেয়ার করা হবে।
 
 ## WebRTC window or screen share tab switch warning
@@ -277,21 +268,21 @@ popup-all-windows-shared = আপনার স্ক্রিনে সব দ�
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = অনুসন্ধান করুন অথবা ঠিকানা প্রবেশ করুন
 urlbar-placeholder =
     .placeholder = অনুসন্ধান করুন অথবা ঠিকানা প্রবেশ করুন
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = ব্রাউজার রিমোট কন্ট্রোলের অধীনে আছে
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
+
 urlbar-switch-to-tab =
     .value = চিহ্নিত ট্যাবে পরিবর্তন করুন:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = এক্সটেনশন:
+
 urlbar-go-button =
     .tooltiptext = ঠিকানার ক্ষেত্রর মধ্যে লেখা অবস্থান প্রদর্শন করা হবে
 urlbar-page-action-button =
@@ -323,9 +314,12 @@ urlbar-result-action-visit = পরিদর্শন করুন
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> স্ক্রিন পূর্ণভাবে ব্যবহৃত হচ্ছে
 fullscreen-warning-no-domain = নথিটি পূর্ণ স্ক্রিনে স্থাপিত হয়েছে
+
+
 fullscreen-exit-button = সম্পূর্ণ স্ক্রীন হইতে প্রস্থান করুন
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = পূর্ণ স্ক্রিন প্রস্থান করুন (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -371,6 +365,7 @@ bookmarks-tools =
     .label = বুকমার্ক করার টুল
 bookmarks-bookmark-edit-panel =
     .label = চিহ্নিত বুকমার্ক পরিবর্তন করুন
+
 bookmarks-toolbar-menu =
     .label = বুকমার্কের টুলবার
 bookmarks-toolbar-placeholder =
@@ -397,6 +392,7 @@ library-bookmarks-menu =
 more-menu-go-offline =
     .label = অফলাইন অবস্থায় কর্ম
     .accesskey = k
+
 toolbar-overflow-customize-button =
     .label = টুলবারের পছন্দসই বিন্যাস…
     .accesskey = C
@@ -425,6 +421,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Allow popups for { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Block popups for { $uriHost }
     .accesskey = p
@@ -434,3 +431,4 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = পপ-আপ প্রদর্শনে বাধা প্রদান করা হলে এই বার্তাটি প্রদর্শন করা হবে না
     .accesskey = D
+

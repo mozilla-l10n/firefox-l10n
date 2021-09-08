@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = অতিরিক্ত সামগ্রী পরিচালন ব্যবস্থা
-
 addons-page-title = অতিরিক্ত সামগ্রী পরিচালন ব্যবস্থা
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = সব এক্সটেনশন প্রদর্শন করুন
-
-cmd-show-details =
-    .label = অতিরিক্ত তথ্য প্রদর্শন
-    .accesskey = S
-
-cmd-find-updates =
-    .label = আপডেট অনুসন্ধান করুন
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] বিকল্প
-           *[other] পছন্দ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = থিম প্রয়োগ করা হবে
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = থিম প্রয়োগ করা হবে না
-    .accesskey = W
-
-cmd-install-addon =
-    .label = ইনস্টল
-    .accesskey = I
-
-cmd-contribute =
-    .label = যোগদান করুন
-    .accesskey = C
-    .tooltiptext = এই অতিরিক্ত সামগ্রী নির্মাণের কাজে যোগদান করুন
 
 detail-version =
     .label = সংস্করণ

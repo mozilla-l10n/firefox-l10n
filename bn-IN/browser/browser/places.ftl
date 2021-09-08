@@ -5,31 +5,9 @@
 places-open =
     .label = খুলুন
     .accesskey = O
-places-open-tab =
-    .label = নতুন ট্যাবের মধ্যে খোলা হবে
-    .accesskey = ন
 places-open-all-in-tabs =
     .label = ট্যাবের মধ্যে সকল প্রদর্শন করা হবে
     .accesskey = O
-places-open-window =
-    .label = নতুন উইন্ডোর মধ্যে খোলা হবে
-    .accesskey = N
-places-open-private-window =
-    .label = নতুন এবং গোপন উইন্ডোর মধ্যে খুলুন
-    .accesskey = P
-
-places-new-bookmark =
-    .label = নতুন বুকমার্ক…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = নতুন ফোল্ডার…
-    .accesskey = F
-places-new-folder =
-    .label = নতুন ফোল্ডার…
-    .accesskey = ন
-places-new-separator =
-    .label = নতুন বিভাজনরেখা
-    .accesskey = S
 
 places-view =
     .label = প্রদর্শন
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = নাম অনুসারে সুবিন্যস্ত করুন
     .accesskey = r
-places-properties =
-    .label = বিবিধ বৈশিষ্ট্য
-    .accesskey = ব
 
