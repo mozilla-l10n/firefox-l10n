@@ -75,10 +75,6 @@ applications-file-ending = { $extension } faela
 applications-select-helper = Nangani Nyito ya Muthusi
 
 # Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
-
-# Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
@@ -190,8 +186,6 @@ use-current-pages =
 ## Privacy Section - Forms
 
 ## Privacy Section - Logins and Passwords
-
-forms-master-pw-fips-title = Zwa zwino ni kha moudu wa FIPS. FIPS i toda Phasiwede Khulwane ire na tshithu.
 
 forms-master-pw-fips-desc = U Shandukiswa ha Phasiwede ho Kundelwa
 

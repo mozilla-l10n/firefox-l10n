@@ -11,13 +11,9 @@
 <!ENTITY newMenu.label "Ntswa">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Mulaedza">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY attachMenu.label "Ṱumani">
 <!ENTITY attachMenu.accesskey "Ṱ">
-<!ENTITY attachFileCmd.label "Dzifaela...">
-<!ENTITY attachFileCmd.accesskey "D">
 <!ENTITY attachPageCmd.label "Siaṱari la Web...">
 <!ENTITY attachPageCmd.accesskey "S">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -43,8 +39,6 @@
 <!ENTITY sendLaterCmd.label "Rumelani Nga Murahu">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "N">
-<!ENTITY printSetupCmd.label "Nzudzanyo ya Siaṱari...">
-<!ENTITY printSetupCmd.accesskey "n">
 <!ENTITY printCmd.label "Ganḓisani...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "G">
@@ -140,8 +134,6 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Bugu ya Ḓiresi">
 <!ENTITY addressBookCmd.accesskey "b">
-<!ENTITY preferencesCmdUnix.label "Zwitakalelwa">
-<!ENTITY preferencesCmdUnix.accesskey "z">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
@@ -156,7 +148,6 @@
 <!ENTITY sendButton.label "Rumelani">
 <!ENTITY quoteButton.label "Khouthu">
 <!ENTITY addressButton.label "Vhukwamani">
-<!ENTITY attachButton.label "Ṱumani">
 <!ENTITY spellingButton.label "Mupeṱeto">
 <!ENTITY saveButton.label "Vhulungani">
 <!-- Mail Toolbar Tooltips -->
@@ -218,8 +209,6 @@
 <!ENTITY delete.accesskey "T">
 <!ENTITY selectAll.label "Nangani Zwothe">
 <!ENTITY selectAll.accesskey "Z">
-<!ENTITY attachFile.label "Tumani Dzifaela...">
-<!ENTITY attachFile.accesskey "D">
 <!ENTITY attachPage.label "Tumani Siatari la Web...">
 <!ENTITY attachPage.accesskey "S">
 <!-- Title for the address picker panel -->

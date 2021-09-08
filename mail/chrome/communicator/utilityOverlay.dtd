@@ -19,8 +19,6 @@
 <!ENTITY redoCmd.accesskey "i">
 <!ENTITY deleteCmd.label "Thuthani">
 <!ENTITY deleteCmd.accesskey "t">
-<!ENTITY preferencesCmdUnix.label "Zwitakalelwa">
-<!ENTITY preferencesCmdUnix.accesskey "z">
 
 <!ENTITY viewMenu.label "Lavhelesani">
 <!ENTITY viewMenu.accesskey "l">

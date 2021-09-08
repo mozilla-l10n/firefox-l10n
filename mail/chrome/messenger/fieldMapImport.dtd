@@ -39,10 +39,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "Ṱunḓani Bugu ya Ḓiresi">
-
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
-<!ENTITY fieldMapImport.recordNumber "Vhuṱanzi ho ṱunḓiwaho ha Rekhodo: ">
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "Shumisani Iyani Nṱha na Iyani Fhasi u vhambedza mabuḓo a bugu ya ḓiresi kha tsha monde u itela u lulamisa vhuṱanzi ha zwiṱunḓwa kha tsha u la. Ṱolululani zwiteṅwa zwine na sa ṱoḓa u zwi ṱunḓa.">

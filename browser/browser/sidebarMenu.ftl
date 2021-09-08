@@ -4,7 +4,9 @@
 
 sidebar-menu-bookmarks =
     .label = Tswayo dza Bugu
+
 sidebar-menu-history =
     .label = Ḓivhazwakale
+
 sidebar-close-button =
     .tooltiptext = Valani baa ya matungo
