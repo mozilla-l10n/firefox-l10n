@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Seçiləni Sil
     .accesskey = S
 
-site-data-button-cancel =
-    .label = Ləğv et
-    .accesskey = L
-
-site-data-button-save =
-    .label = Dəyişiklikləri Yadda Saxla
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = Dəyişiklikləri Yadda Saxla
     .buttonaccesskeyaccept = a

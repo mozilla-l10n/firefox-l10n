@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = Əlfəcinlər
+
 sidebar-menu-history =
     .label = Tarixçə
+
 sidebar-menu-synced-tabs =
     .label = Sinxron Vərəqlər
+
 sidebar-menu-close =
     .label = Yan paneli qapat
+
 sidebar-close-button =
     .tooltiptext = Yan paneli qapa

@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Əvvəlki səhifəyə qayıt
-    .aria-label = Geri
-    .accesskey = G
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Sonrakı səhifəyə keç
-    .aria-label = İrəli
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = Fərqli saxla…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = Keçidi Yeni Məxfi Pəncərədə Aç
     .accesskey = M
 
-main-context-menu-bookmark-this-link =
-    .label = Bu Keçidi Əlfəcinlə
-    .accesskey = K
-
 main-context-menu-save-link =
     .label = Bağlantını fərqli saxla…
     .accesskey = f
@@ -185,10 +156,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = E-poçt ünvanını köçür
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = Keçid ünvanını köçür
-    .accesskey = K
 
 ## Media (video/audio) controls
 ##
@@ -213,32 +180,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Səsi aç
     .accesskey = ə
-
-main-context-menu-media-play-speed =
-    .label = Oxutma Sürəti
-    .accesskey = S
-
-main-context-menu-media-play-speed-slow =
-    .label = Yavaş (0,5×)
-    .accesskey = Y
-
-main-context-menu-media-play-speed-normal =
-    .label = Normal
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = Sürətli (1,25×)
-    .accesskey = S
-
-main-context-menu-media-play-speed-faster =
-    .label = Daha sürətli (1,5×)
-    .accesskey = D
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Çox sürətli (2×)
-    .accesskey = l
 
 main-context-menu-media-loop =
     .label = Dövr
@@ -265,39 +206,13 @@ main-context-menu-media-video-leave-fullscreen =
     .label = Tam ekrandan çıx
     .accesskey = e
 
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Şəkildə-Şəkil
-    .accesskey = u
-
 main-context-menu-image-reload =
     .label = Şəkli Yenilə
     .accesskey = Y
 
-main-context-menu-image-view =
-    .label = Şəkli Göstər
-    .accesskey = Ş
-
-main-context-menu-video-view =
-    .label = Videoya bax
-    .accesskey = V
-
 main-context-menu-image-copy =
     .label = Şəkli Köçür
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = Şəkil Ünvanını Köçür
-    .accesskey = k
-
-main-context-menu-video-copy-location =
-    .label = Video Ünvanını Köçür
-    .accesskey = V
-
-main-context-menu-audio-copy-location =
-    .label = Səs Ünvanını Köçür
-    .accesskey = S
 
 main-context-menu-image-save-as =
     .label = Şəkili fərqli saxla…
@@ -306,10 +221,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Rəsmi e-poçt ilə göndər…
     .accesskey = R
-
-main-context-menu-image-set-as-background =
-    .label = İşçi stolu arxa fonu et…
-    .accesskey = s
 
 main-context-menu-image-info =
     .label = Şəkil məlumatlarını göstər
@@ -326,10 +237,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Səsi fərqli saxla…
     .accesskey = f
-
-main-context-menu-video-image-save-as =
-    .label = Ekran görüntüsünü fərqli saxla…
-    .accesskey = E
 
 main-context-menu-video-email =
     .label = Videonu e-poçt ilə göndər…
@@ -354,14 +261,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Səhifəni cihaza göndər
     .accesskey = d
-
-main-context-menu-view-background-image =
-    .label = Arxa fon şəklini göstər
-    .accesskey = r
-
-main-context-menu-generate-new-password =
-    .label = Törədilən parolu işlət…
-    .accesskey = G
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -430,10 +329,6 @@ main-context-menu-view-page-source =
     .label = Səhifə qaynağını göstər
     .accesskey = a
 
-main-context-menu-view-page-info =
-    .label = Səhifə məlumatlarını göstər
-    .accesskey = S
-
 main-context-menu-bidi-switch-text =
     .label = Mətnin səmtini dəyiş
     .accesskey = M
@@ -442,13 +337,10 @@ main-context-menu-bidi-switch-page =
     .label = Səhifənin səmtini dəyiş
     .accesskey = d
 
-main-context-menu-inspect-element =
-    .label = Obyekti araşdır
-    .accesskey = Q
-
 main-context-menu-inspect-a11y-properties =
     .label = Əlverişlilik özəlliklərini yoxla
 
 main-context-menu-eme-learn-more =
     .label = DRM haqqında ətraflı öyrən…
     .accesskey = D
+

@@ -12,8 +12,6 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-get-started = Başla
-
 ## Welcome modal dialog strings
 
 
@@ -22,34 +20,22 @@ onboarding-button-label-get-started = Başla
 ### widowed word, so test on various window sizes if you also want this.
 
 
+### UI strings for the MR1 onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
 ## Welcome page strings
 
 onboarding-welcome-header = { -brand-short-name } səyyahına xoş gəlmisiniz
 
 onboarding-start-browsing-button-label = Səyahətə Başla
-onboarding-cards-dismiss =
-    .title = Rədd et
-    .aria-label = Rədd et
 
 ## Welcome full page string
 
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-header = { -brand-product-name }-u özünüzlə gəzdirin
-onboarding-sync-welcome-content = Əlfəcin, tarixçə, parol və digər tənzimləmələrinizi bütün cihazlarınızda əldə edin.
-onboarding-sync-welcome-learn-more-link = Firefox Hesabları haqqında ətraflı öyrənin
-
-onboarding-sync-form-input =
-    .placeholder = E-poçt
-
-onboarding-sync-form-continue-button = Davam et
-onboarding-sync-form-skip-login-button = Bu addımı keç
-
 ## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = E-poçtunuzu daxil edin
-onboarding-sync-form-sub-header = və { -sync-brand-name } ilə davam edin.
 
 
 ## These are individual benefit messages shown with an image, title and
@@ -63,21 +49,7 @@ onboarding-sync-form-sub-header = və { -sync-brand-name } ilə davam edin.
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Mobil Səyyahı Endir
-
 ## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Super, { -brand-short-name } quruldu
-
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = İndi də <icon></icon><b>{ $addon-name }</b> uzantısına baxaq.
-return-to-amo-extension-button = Uzantını əlavə et
-return-to-amo-get-started-button = { -brand-short-name } səyyahını işlətməyə başla
 
 ## Custom Return To AMO onboarding strings
 
@@ -85,13 +57,7 @@ return-to-amo-get-started-button = { -brand-short-name } səyyahını işlətmə
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
 
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+## Multistage onboarding strings (about:welcome pages)
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -108,4 +74,12 @@ return-to-amo-get-started-button = { -brand-short-name } səyyahını işlətmə
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
+
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 

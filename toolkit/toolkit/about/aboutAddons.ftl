@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Əlavə idarəçisi
-
 addons-page-title = Əlavə idarəçisi
 
 search-header =
@@ -34,61 +31,11 @@ help-button = Əlavə Dəstəyi
 sidebar-help-button-title =
     .title = Əlavə Dəstəyi
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } Seçimləri
-       *[other] { -brand-short-name } Nizamlamaları
-    }
-
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } Seçimləri
-           *[other] { -brand-short-name } Nizamlamaları
-        }
-
 show-unsigned-extensions-button =
     .label = Bəzi uzantılar təsdiqlənə bilmirlər
 
 show-all-extensions-button =
     .label = Bütün uzantıları göstər
-
-cmd-show-details =
-    .label = Əlavə məlumat ver
-    .accesskey = v
-
-cmd-find-updates =
-    .label = Yeniləmələrə bax
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Nizamlar
-           *[other] Nizamlamalar
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Temadan istifadə elə
-    .accesskey = T
-
-cmd-disable-theme =
-    .label = Tema istifadə etmə
-    .accesskey = e
-
-cmd-install-addon =
-    .label = Qur
-    .accesskey = u
-
-cmd-contribute =
-    .label = Kömək
-    .accesskey = C
-    .tooltiptext = Bu əlavənin inkişaf etdirilməsinə kömək et
 
 detail-version =
     .label = Buraxılış

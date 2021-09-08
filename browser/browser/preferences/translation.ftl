@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Bütün Saytları Sil
     .accesskey = t
 
-translation-button-close =
-    .label = Qapat
-    .accesskey = p
-
 translation-dialog =
     .buttonlabelaccept = Qapat
     .buttonaccesskeyaccept = p

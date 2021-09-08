@@ -7,28 +7,6 @@ do-not-track-learn-more = Ətraflı öyrən
 do-not-track-option-always =
     .label = Həmişə
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Seçimlər
-       *[other] Nizamlamalar
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Seçimlərdə tap
-           *[other] Nizamlamalarda tap
-        }
-
 pane-general-title = Ümumi
 category-general =
     .tooltiptext = { pane-general-title }
@@ -44,10 +22,6 @@ category-search =
 pane-privacy-title = Məxfilik və Təhlükəsizlik
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = { -brand-short-name } Dəstək
 addons-button-label = Uzantılar və Mövzular
@@ -77,21 +51,9 @@ restart-later = Sonra yenidən başlat
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Uzantı, <img data-l10n-name="icon"/> { $name }, ana səhifənizi idarə edir.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Uzantı, <img data-l10n-name="icon"/> { $name }, Yeni Vərəq səhifənizi idarə edir.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = <img data-l10n-name="icon"/> { $name } adlı uzantı bu tənzimləməni idarə edir.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } uzantısı əsas axtarış mühərriyinizi dəyişdirdi.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -116,26 +78,11 @@ extension-controlled-enable = Uzantını aktivləşdirmək üçün <img data-l10
 
 search-results-header = Axtarış Nəticələri
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Bağışlayın! Seçimlərdə “<span data-l10n-name="query"></span>” üçün nəticə yoxdur.
-       *[other] Bağışlayın! Nizamlamalarda “<span data-l10n-name="query"></span>” üçün nəticə yoxdur.
-    }
-
 search-results-help-link = Kömək lazımdır? <a data-l10n-name="url">{ -brand-short-name } Dəstək</a> ziyarət edin
 
 ## General Section
 
 startup-header = Başlanğıc
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = { -brand-short-name } və Firefox-un eyni anda işləməsinə icazə ver
-use-firefox-sync = Məsləhət: Bu fərqli profillər işlədir. Aralarında məlumatları paylaşmaq üçün { -sync-brand-short-name } işlət.
-get-started-not-logged-in = { -sync-brand-short-name } üçün daxil ol…
-get-started-configured = { -sync-brand-short-name } nizamlamalarını aç
 
 always-check-default =
     .label = { -brand-short-name } səyyahının əsas səyyahınız olub olmadığını hər dəfə yoxla
@@ -172,10 +119,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Çoxlu vərəq açmağın { -brand-short-name } səyyahını yavaşlada biləcəyindən xəbərdar olun
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = Keçidi yeni vərəqdə açdığımda, dərhal o vərəqə keç
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = Vərəqlərə ön baxışı Windows tapşırıq panelində göstər
@@ -334,11 +277,6 @@ applications-manage-app =
     .label = Proqram detalları…
 applications-always-ask =
     .label = Həmişə soruş
-applications-type-pdf = Daşına bilən sənəd formatı (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -605,8 +543,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = { -brand-short-name } səyyahını tarixçəni xatırlamayacaq şəkildə nizamladığınız üçün ünvan sətri nəticələrində axtarış təklifləri göstərilməyəcək.
 
-search-one-click-header = Tək klikli axtarış mühərrikləri
-
 search-one-click-desc = Ünvan və axtarış sətrinə söz daxil etdiyinizdə gələn axtarış mühərriklərini seçin.
 
 search-choose-engine-column =
@@ -639,9 +575,6 @@ containers-add-button =
     .label = Yeni konteyner əlavə et
     .accesskey = A
 
-containers-preferences-button =
-    .label = Nizamlamalar
-
 containers-remove-button =
     .label = Sil
 
@@ -652,7 +585,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Web-inizi özünüzlə gəzdirin
-sync-signedout-description = Əlfəçin, keçmiş, vərəq, parol, əlavə və nizamlamalarınızı bütün cihazlarınız arasında sinxronlaşdırın.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -726,15 +658,6 @@ sync-engine-addons =
     .tooltiptext = Firefox masaüstü üçün uzantı və mövzular
     .accesskey = Ə
 
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Seçimlər
-           *[other] Nizamlamalar
-        }
-    .tooltiptext = Dəyişdirdiyiniz Ümumi, Məxfilik və Təhlükəsizlik tənzimləmələri
-    .accesskey = l
-
 ## The device name controls.
 
 sync-device-name-header = Cihaz Adı
@@ -776,14 +699,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Saxlanmış Daxil olmalar…
     .accesskey = D
-forms-master-pw-use =
-    .label = Ana parol istifadə et
-    .accesskey = i
 forms-master-pw-change =
     .label = Ana parolu dəyişdir…
     .accesskey = d
-
-forms-master-pw-fips-title = Hazırda FIPS rejimindəsiniz. FIPS rejimi üçün ana parol lazımdır.
 
 forms-master-pw-fips-desc = Parolu dəyişdirmək mümkün olmadı.
 
@@ -879,10 +797,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Məlumatları idarə et…
     .accesskey = M
-
-sitedata-cookies-permissions =
-    .label = İcazələri idarə et…
-    .accesskey = i
 
 ## Privacy Section - Address Bar
 
@@ -994,12 +908,6 @@ permissions-addon-exceptions =
     .label = İstisnalar…
     .accesskey = s
 
-permissions-a11y-privacy-checkbox =
-    .label = Əlçatanlıq xidmətlərinin səyyahınıza girişə icazə verilməsinin qabağın al
-    .accesskey = a
-
-permissions-a11y-privacy-link = Ətraflı öyrən
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } məlumat toplama və istifadəsi
@@ -1021,11 +929,6 @@ addon-recommendations-link = Ətraflı öyrən
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb
-
-collection-backlogged-crash-reports =
-    .label = { -brand-short-name } səyyahına sizin adınıza yığılmış çəkmə hesabatlarını göndərməyə icazə ver
-    .accesskey = c
-collection-backlogged-crash-reports-link = Daha Ətraflı
 
 ## Privacy Section - Security
 ##
@@ -1053,16 +956,6 @@ security-block-uncommon-software =
 
 certs-header = Sertifikatlar
 
-certs-personal-label = Hər hansı bir server şəxsi sertifikatınızı istədikdə
-
-certs-select-auto-option =
-    .label = Birini avtomatik seç
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Hər dəfə soruş
-    .accesskey = H
-
 certs-enable-ocsp =
     .label = Sertifikatların keçərliliyini təsdiqləmək üçün OCSP cavabdehlik serverlərinə Sorğu göndər
     .accesskey = S
@@ -1074,34 +967,6 @@ certs-view =
 certs-devices =
     .label = Təhlükəsizlik cihazları…
     .accesskey = T
-
-space-alert-learn-more-button =
-    .label = Ətraflı öyrən
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Seçimləri aç
-           *[other] Nizamlamaları aç
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } səyyahının diskdə yaddaşı dolur. Sayt məzmunları səhv göstərilə bilər. Saxlanılmış məlumatları Seçimlər > Məxfilik və Təhlükəsizlik > Çərəzlər və Sayt Məlumatları bölümündə silə bilərsiz.
-       *[other] { -brand-short-name } səyyahının diskdə yaddaşı dolur. Sayt məzmunları səhv göstərilə bilər. Saxlanılmış məlumatları Nizamlamalar > Məxfilik və Təhlükəsizlik > Çərəzlər və Sayt Məlumatları bölümündə silə bilərsiz.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = Tamam, başa düşdüm
-    .accesskey = T
-
-space-alert-under-5gb-message = { -brand-short-name } səyyahının diskdə yaddaşı dolur. Sayt məzmunları səhv göstərilə bilər. Daha yaxşı internet səyahəti təcrübəsi üçün “Ətraflı Öyrən”-i ziyarət edərək disk istifadənizi optimallaşdıra bilərsiz.
 
 ## Privacy Section - HTTPS-Only
 

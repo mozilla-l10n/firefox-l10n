@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Ekran görüntüsü al
-
-screenshots-my-shots-button = Ekran Görüntülərim
-
 screenshots-instructions = Səhifədə hər hansı bir yerdə sürüşdürərək və ya basaraq ərazini seçin. Ləğv etmək üçün ESC basın.
 screenshots-cancel-button = Ləğv et
 screenshots-save-visible-button = Görünən ərazini saxla
@@ -36,8 +32,6 @@ screenshots-login-error-details = { -screenshots-brand-name } xidmətindəki mü
 
 screenshots-unshootable-page-error-title = Bu səhifənin ekran görüntüsü alına bilmir.
 screenshots-unshootable-page-error-details = Bu normal Web səhifəsi deyil, bu səbəbdən ekran görüntüsünü almaq mümkün olmur.
-
-screenshots-self-screenshot-error-title = { -screenshots-brand-name } səhifəsinin ekran görüntüsünü ala bilməzsiz!
 
 screenshots-empty-selection-error-title = Seçiminiz çox balacadır
 

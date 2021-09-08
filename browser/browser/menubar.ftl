@@ -112,9 +112,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Düzəlt
     .accesskey = D
-menu-edit-find-on =
-    .label = Bu Səhifədə Axtar…
-    .accesskey = S
 menu-edit-find-again =
     .label = Yenidən Tap
     .accesskey = Y
@@ -130,9 +127,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Alət sətirləri
     .accesskey = A
-menu-view-customize-toolbar =
-    .label = Fərdiləşdir…
-    .accesskey = C
 menu-view-sidebar =
     .label = Kənar sətir
     .accesskey = K
@@ -166,9 +160,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Əsas Səhifə Stili
     .accesskey = t
-menu-view-charset =
-    .label = Mətn Kodlaması
-    .accesskey = K
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -217,10 +208,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Əlfəcinlər
     .accesskey = Ə
-menu-bookmarks-show-all =
-    .label = Bütün əlfəcinləri göstər
-menu-bookmark-this-page =
-    .label = Səhifəni əlfəcinlə
 menu-bookmark-edit =
     .label = Bu əlfəcini düzəlt
 menu-bookmarks-all-tabs =
@@ -240,41 +227,18 @@ menu-tools =
 menu-tools-downloads =
     .label = Endirilənlər
     .accesskey = E
-menu-tools-addons =
-    .label = Əlavələr
-    .accesskey = Ə
-menu-tools-fxa-sign-in =
-    .label = { -brand-product-name } giriş…
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } aktivləşdir…
-    .accesskey = v
 menu-tools-sync-now =
     .label = İndi Sinxronizə et
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name } ilə yenidən bağlan…
     .accesskey = y
-menu-tools-web-developer =
-    .label = Web Tərtibatçısı
-    .accesskey = W
 menu-tools-page-source =
     .label = Səhifə qaynağı
     .accesskey = a
 menu-tools-page-info =
     .label = Səhifə məlumatları
     .accesskey = S
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Seçimlər
-           *[other] Seçimlər
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] i
-        }
 menu-tools-layout-debugger =
     .label = Düzüm Sazlayıcısı
     .accesskey = L
@@ -309,32 +273,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Kömək
     .accesskey = K
-menu-help-product =
-    .label = { -brand-shorter-name } Kömək
-    .accesskey = K
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Tur
-    .accesskey = T
-menu-help-import-from-another-browser =
-    .label = Başqa səyyahdan idxal et…
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = Qısa Düymələr
-    .accesskey = Q
-menu-help-troubleshooting-info =
-    .label = Problemlərin aradan qaldırılması üzrə məlumatlar
-    .accesskey = P
 menu-help-report-site-issue =
     .label = Sayt Problemini Bildir…
 menu-help-feedback-page =
     .label = Əks əlaqə göndər…
     .accesskey = g
-menu-help-safe-mode-without-addons =
-    .label = Əlavələri deaktiv edərək Yenidən başla…
-    .accesskey = Y
-menu-help-safe-mode-with-addons =
-    .label = Əlavələri aktiv edərək Yenidən başla
-    .accesskey = Y
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
