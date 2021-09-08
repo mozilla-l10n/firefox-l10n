@@ -97,8 +97,6 @@ perftools-thread-img-decoder =
     .title = Bildavkodningstrådar
 perftools-thread-dns-resolver =
     .title = DNS-upplösning sker på den här tråden
-perftools-thread-js-helper =
-    .title = JS-motorns bakgrundsarbete som kompileringar utanför huvudtråden
 
 perftools-thread-task-controller =
     .title = TaskController trådpoolstrådar

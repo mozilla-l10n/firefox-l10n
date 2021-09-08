@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Hur det fungerar
 
-turn-on-sync = Slå på { -sync-brand-short-name }…
-    .title = Gå till inställningar för sync
-
 monitor-title = Håll koll på dataintrång
 monitor-link = Hur fungerar det
 monitor-header-content-no-account = Kontrollera { -monitor-brand-name } för att se om du har varit en del av ett känt dataintrång och få varningar om nya intrång.

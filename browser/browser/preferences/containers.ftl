@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Lägg till ny behållare
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Behållarinställningar för { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Ikon
 containers-color-label = Färg
     .accesskey = F
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Klar
-    .accesskey = K
 
 containers-dialog =
     .buttonlabelaccept = Klar

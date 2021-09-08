@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Välj alla flikar
     .accesskey = V
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Ångra Stäng flik
-            [one] Ångra Stäng flik
-           *[other] Ångra Stäng flikar
-        }
-    .accesskey = U
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -57,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fäst på spillmeny
     .accesskey = F
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Dölj automatiskt i verktygsfältet
-    .accesskey = a
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Dölj knapp när den är tom
     .accesskey = D

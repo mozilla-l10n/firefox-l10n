@@ -129,10 +129,6 @@ openpgp-key-send-key =
     .label = Skicka publik nyckel via e-post
     .accesskey = S
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Kopiera publika nycklar till Urklipp
-    .accesskey = K
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -159,8 +155,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportera nycklar till fil
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Kopiera publika nycklar till Urklipp
 
 openpgp-key-man-ctx-copy =
     .label = Kopiera
@@ -312,15 +306,6 @@ openpgp-description =
        *[other] Thunderbird hittade { $count } personliga OpenPGP-nycklar associerade med <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Välj en giltig nyckel för att aktivera OpenPGP-protokollet
-        [one] Din nuvarande konfiguration använder nyckel-ID <b>{ $key }</b>
-       *[other] Din nuvarande konfiguration använder nyckel-ID <b>{ $key }</b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Din nuvarande konfiguration använder nyckel-ID <b>{ $key }</b>
 
@@ -353,14 +338,8 @@ openpgp-radio-key-not-found = Den här nyckeln kunde inte hittas! Om du vill anv
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Upphör: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Nyckeln upphör om mindre än sex månader
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Upphört: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Nyckeln har upphört
 
 openpgp-key-expires-within-6-months-icon =
     .title = Nyckeln upphör om mindre än sex månader
@@ -684,7 +663,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Du har ställt in radomslag till { $width } tecken. För korrekt kryptering och/eller signering måste detta värde vara minst 68.
     Vill du ändra radomslag till 68 tecken nu?
-sending-hidden-rcpt = BCC-mottagare (dold kopia) kan inte användas när du skickar ett krypterat meddelande. För att skicka det krypterade meddelandet, antingen ta bort BCC-mottagarna eller flytta dem till CC-fältet.
 sending-news =
     Krypterad skickaoperation avbröts.
     Det här meddelandet kan inte krypteras eftersom det finns nyhetsgruppsmottagare. Skicka meddelandet igen utan kryptering.
@@ -751,9 +729,6 @@ enig-info = OpenPGP Information
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Försök igen
 dlg-button-skip = &Hoppa över
-
-# Strings used in enigmailCommon.js
-enig-error = OpenPGP-fel
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

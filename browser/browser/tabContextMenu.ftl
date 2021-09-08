@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Bokmärk flik
     .accesskey = B
-reopen-in-container =
-    .label = Återöppna i innehållsflik
-    .accesskey = i
 tab-context-open-in-new-container-tab =
     .label = Öppna i ny innehållsflik
     .accesskey = n
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Stäng flera flikar
     .accesskey = f
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Ångra Stäng flik
-            [one] Ångra Stäng flik
-           *[other] Ångra Stäng flikar
-        }
-    .accesskey = n
-close-tab =
-    .label = Stäng flik
-    .accesskey = S
-close-tabs =
-    .label = Stäng flikar
-    .accesskey = S
-move-tabs =
-    .label = Flytta flikar
-    .accesskey = t
-move-tab =
-    .label = Flytta flik
-    .accesskey = t
 tab-context-share-url =
     .label = Dela
     .accesskey = D
@@ -128,6 +105,7 @@ tab-context-move-tabs =
            *[other] Flytta flikar
         }
     .accesskey = t
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

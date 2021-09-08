@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Ta bort alla webbplatser
     .accesskey = a
 
-permissions-button-cancel =
-    .label = Avbryt
-    .accesskey = A
-
-permissions-button-ok =
-    .label = Spara ändringar
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Spara ändringar
     .buttonaccesskeyaccept = S

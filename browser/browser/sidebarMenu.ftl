@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = Bokmärken
+
 sidebar-menu-history =
     .label = Historik
+
 sidebar-menu-synced-tabs =
     .label = Synkade flikar
+
 sidebar-menu-close =
     .label = Stäng sidofält
+
 sidebar-close-button =
     .tooltiptext = Stäng sidofält

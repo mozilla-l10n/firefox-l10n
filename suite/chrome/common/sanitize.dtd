@@ -61,7 +61,6 @@
 <!ENTITY itemSessions.label               "Autentiserade sessioner">
 <!ENTITY itemSessions.accesskey           "A">
 
-<!ENTITY sanitizeButton.label            "Rensa personliga data nu">
 <!ENTITY itemSessionsS.accesskey          "s">
 
 <!ENTITY itemSitePreferences.label        "Platsspecifika inställningar">

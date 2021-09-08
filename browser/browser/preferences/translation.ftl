@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Ta bort alla webbplatser
     .accesskey = a
 
-translation-button-close =
-    .label = Stäng
-    .accesskey = t
-
 translation-dialog =
     .buttonlabelaccept = Stäng
     .buttonaccesskeyaccept = t
