@@ -78,7 +78,7 @@
 <!ENTITY newmsgButton.accesskey                         "c">
 <!ENTITY deleteItemButton.label                         "Borrar">
 <!ENTITY deleteItemButton.accesskey                     "B">
-<!ENTITY newimButton.label                              "IM">
+<!ENTITY newimButton.label                              "Mensaje instantáneo">
 <!ENTITY newimButton.accesskey                          "I">
 <!ENTITY printButton.label                              "Imprimir">
 <!ENTITY printButton.accesskey                          "r">
