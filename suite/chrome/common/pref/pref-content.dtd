@@ -29,10 +29,10 @@
 
 
 
-<!ENTITY siteSpecific.label                     "Remember zoom levels on per-site basis">
-<!ENTITY siteSpecific.accesskey                 "m">
 <!ENTITY textZoomOnly.label                     "Zoom only text instead of full pages">
 <!ENTITY textZoomOnly.accesskey                 "Z">
+<!ENTITY siteSpecific.label                     "Remember zoom levels on per-site basis">
+<!ENTITY siteSpecific.accesskey                 "m">
 <!ENTITY enableAutomaticImageResizing.label     "Resize large images to fit in the browser window">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 

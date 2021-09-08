@@ -18,10 +18,6 @@
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY deleteCmd.label          "Delete">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY preferencesCmd2.label "Options">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "Preferences">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY viewMenu.label          "View">
 <!ENTITY viewMenu.accesskey        "V">

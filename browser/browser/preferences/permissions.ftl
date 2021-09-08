@@ -24,14 +24,6 @@ permissions-allow =
 permissions-status =
     .label = Status
 
-permissions-button-cancel =
-    .label = Cancel
-    .accesskey = C
-
-permissions-button-ok =
-    .label = Save Changes
-    .accesskey = S
-
 permissions-capabilities-allow =
     .label = Allow
 permissions-capabilities-block =

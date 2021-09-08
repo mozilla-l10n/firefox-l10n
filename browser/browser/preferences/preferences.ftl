@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Options
-       *[other] Preferences
-    }
-
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -49,12 +43,6 @@ restart-later = Restart Later
 ## General Section
 
 startup-header = Startup
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Allow { -brand-short-name } and Firefox to run at the same time
-use-firefox-sync = Tip: This uses separate profiles. Use { -sync-brand-short-name } to share data between them.
 
 always-check-default =
     .label = Always check if { -brand-short-name } is your default browser
@@ -162,11 +150,6 @@ applications-manage-app =
     .label = Application Details…
 applications-always-ask =
     .label = Always ask
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -310,8 +293,6 @@ search-keyword-warning-bookmark = You have chosen a keyword that is currently in
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-description = Synchronise your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -368,14 +349,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Saved Logins…
     .accesskey = L
-forms-master-pw-use =
-    .label = Use a master password
-    .accesskey = U
 forms-master-pw-change =
     .label = Change Master Password…
     .accesskey = M
-
-forms-master-pw-fips-title = You are currently in FIPS mode. FIPS requires a non-empty Master Password.
 
 forms-master-pw-fips-desc = Password Change Failed
 

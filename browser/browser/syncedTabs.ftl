@@ -5,7 +5,6 @@
 synced-tabs-sidebar-title = Synced Tabs
 synced-tabs-sidebar-noclients-subtitle = Want to see your tabs from other devices here?
 synced-tabs-sidebar-notabs = No open tabs
-synced-tabs-sidebar-openprefs = Open { -sync-brand-short-name } Preferences
 synced-tabs-sidebar-tabsnotsyncing = Turn on tab syncing to view a list of tabs from your other devices.
 synced-tabs-context-open =
     .label = Open
@@ -28,4 +27,3 @@ synced-tabs-context-copy =
 synced-tabs-context-sync-now =
     .label = Sync Now
     .accesskey = S
-fxa-sign-in = Sign in to { -sync-brand-short-name }

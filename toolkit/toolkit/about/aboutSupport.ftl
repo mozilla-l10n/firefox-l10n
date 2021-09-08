@@ -10,11 +10,6 @@ crashes-id = Report ID
 crashes-send-date = Submitted
 crashes-all-reports = All Crash Reports
 crashes-no-config = This application has not been configured to display crash reports.
-extensions-title = Extensions
-extensions-name = Name
-extensions-enabled = Enabled
-extensions-version = Version
-extensions-id = ID
 support-addons-name = Name
 support-addons-version = Version
 support-addons-id = ID
@@ -60,8 +55,6 @@ library-version-title = Library Versions
 copy-text-to-clipboard-label = Copy text to clipboard
 copy-raw-data-to-clipboard-label = Copy raw data to clipboard
 sandbox-title = Sandbox
-safe-mode-title = Try Safe Mode
-restart-in-safe-mode-label = Restart with Add-ons Disabled…
 
 ## Media titles
 
@@ -172,14 +165,6 @@ can-sandbox-media = Media Plugin Sandboxing
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Enabled by user
-multi-process-status-1 = Enabled by default
-multi-process-status-2 = Disabled
-multi-process-status-4 = Disabled by accessibility tools
-multi-process-status-6 = Disabled by unsupported text input
-multi-process-status-7 = Disabled by add-ons
-multi-process-status-8 = Disabled forcibly
-multi-process-status-unknown = Unknown status
 
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = none

@@ -7,8 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY appmenu.tooltip                     "Open menu">
-
 <!ENTITY navbarOverflow.label                "More tools…">
 
 <!-- Tab context menu -->
@@ -19,9 +17,6 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Pin Tab">
-<!ENTITY  unpinTab.label                     "Unpin Tab">
-
 <!ENTITY  listAllTabs.label      "List all tabs">
 
 <!ENTITY tabCmd.label "New Tab">
@@ -30,9 +25,6 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Menu Bar">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY personalbarCmd.label "Bookmarks Toolbar">
-<!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Bookmarks Toolbar Items">
 
 <!ENTITY fullScreenCmd.label "Full Screen">
 
@@ -43,29 +35,15 @@ can reach it easily. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "is now full screen">
-<!ENTITY fullscreenWarning.generic.label "This document is now full screen">
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
-<!ENTITY exitDOMFullscreen.button "Exit Full Screen (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Exit Full Screen (esc)">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
-
-<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
-<!ENTITY recentBookmarks.label "Recently Bookmarked">
-
-<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
 
 
 
@@ -86,14 +64,6 @@ can reach it easily. -->
 
 <!ENTITY homeButton.label             "Home">
 
-<!ENTITY bookmarksButton.label          "Bookmarks">
-
-<!ENTITY bookmarksMenuButton.other.label    "Other Bookmarks">
-
-<!ENTITY viewBookmarksSidebar2.label        "View Bookmarks Sidebar">
-
-<!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
-
 
 
 
@@ -106,7 +76,6 @@ can reach it easily. -->
 <!ENTITY historyButton.label            "History">
 
 <!ENTITY downloads.label              "Downloads">
-<!ENTITY addons.label                 "Add-ons">
 
 <!ENTITY webDeveloperMenu.label       "Web Developer">
 
@@ -123,19 +92,7 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "History">
 
-<!ENTITY historyUndoMenu.label "Recently Closed Tabs">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Recently Closed Windows">
-
-<!ENTITY appMenuHistory.showAll.label "Show All History">
-
-<!ENTITY appMenuHistory.clearRecent.label "Clear Recent History…">
-<!ENTITY appMenuHistory.restoreSession.label "Restore Previous Session">
-<!ENTITY appMenuHistory.viewSidebar.label "View History Sidebar">
-
 <!ENTITY appMenuHelp.label "Help">
-
-<!ENTITY appMenuRemoteTabs.label "Synced Tabs">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -151,8 +108,6 @@ can reach it easily. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab syncing to view a list of tabs from your other devices.">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Want to see your tabs from other devices here?">
 
-<!ENTITY appMenuRemoteTabs.sidebar.label "View Synced Tabs Sidebar">
-
 <!ENTITY customizeMenu.addToToolbar.label "Add to Toolbar">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
@@ -164,8 +119,6 @@ can reach it easily. -->
 
 
 
-<!ENTITY customizeMenu.removeFromToolbar.label "Remove from Toolbar">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Add More Items…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -227,8 +180,6 @@ can reach it easily. -->
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
 
-<!ENTITY emailPageCmd.label           "Email Link…">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -259,14 +210,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 
 <!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
-
-
-<!ENTITY quitApplicationCmdWin2.label       "Exit">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Exit &brandShorterName;">
-<!ENTITY quitApplicationCmd.label       "Quit">
-<!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "Quit &brandShorterName;">
 
 
 <!ENTITY allowPopups.accesskey "p">
@@ -304,9 +247,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-<!ENTITY syncBrand.shortName.label    "Sync">
 
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):

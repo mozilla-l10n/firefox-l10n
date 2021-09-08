@@ -104,9 +104,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Edit
     .accesskey = E
-menu-edit-find-on =
-    .label = Find in This Page…
-    .accesskey = F
 menu-edit-find-again =
     .label = Find Again
     .accesskey = g
@@ -122,9 +119,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Toolbars
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = Customise…
-    .accesskey = C
 menu-view-sidebar =
     .label = Sidebar
     .accesskey = e
@@ -155,9 +149,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Basic Page Style
     .accesskey = B
-menu-view-charset =
-    .label = Text Encoding
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -204,10 +195,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Bookmarks
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = Show All Bookmarks
-menu-bookmark-this-page =
-    .label = Bookmark This Page
 menu-bookmark-edit =
     .label = Edit This Bookmark
 menu-bookmarks-all-tabs =
@@ -225,32 +212,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Downloads
     .accesskey = D
-menu-tools-addons =
-    .label = Add-ons
-    .accesskey = A
 menu-tools-sync-now =
     .label = Sync Now
     .accesskey = S
-menu-tools-web-developer =
-    .label = Web Developer
-    .accesskey = W
 menu-tools-page-source =
     .label = Page Source
     .accesskey = o
 menu-tools-page-info =
     .label = Page Info
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Options
-           *[other] Preferences
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -281,27 +251,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Help
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } Help
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Tour
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = Keyboard Shortcuts
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Troubleshooting Information
-    .accesskey = T
 menu-help-feedback-page =
     .label = Submit Feedback…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = Restart with Add-ons Disabled…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = Restart with Add-ons Enabled
-    .accesskey = R
 menu-help-not-deceptive =
     .label = This isn’t a deceptive site…
     .accesskey = d
