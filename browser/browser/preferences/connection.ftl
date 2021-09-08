@@ -35,9 +35,6 @@ connection-proxy-http = Διακομιστής μεσολάβησης HTTP
     .accesskey = λ
 connection-proxy-http-port = Θύρα
     .accesskey = Θ
-connection-proxy-http-sharing =
-    .label = Χρήση αυτού του διακομιστή μεσολάβησης για FTP και HTTPS
-    .accesskey = σ
 
 connection-proxy-https-sharing =
     .label = Να χρησιμοποιείται ο διακομιστής μεσολάβησης και για HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = Διακομιστής μεσολάβησης HTTPS
     .accesskey = H
 connection-proxy-ssl-port = Θύρα
     .accesskey = ύ
-
-connection-proxy-ftp = Διακομιστής μεσολάβησης FTP
-    .accesskey = F
-connection-proxy-ftp-port = Θύρα
-    .accesskey = ρ
 
 connection-proxy-socks = Σύστημα SOCKS
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Χωρίς διακομιστή μεσολάβηση�
     .accesskey = κ
 
 connection-proxy-noproxy-desc = Για παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Οι συνδέσεις στο localhost, το 127.0.0.1 και το ::1 δεν προωθούνται ποτέ μέσω διακομιστή μεσολάβησης.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Οι συνδέσεις στο localhost, 127.0.0.1/8 και ::1, δεν γίνονται ποτέ μέσω διακομιστή μεσολάβησης.

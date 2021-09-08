@@ -7,16 +7,13 @@ containers-window-new =
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
-containers-window-update =
-    .title = Προτιμήσεις θεματικής ενότητας «{ $name }»
-    .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
 containers-window-update-settings =
     .title = Ρυθμίσεις θεματικής ενότητας «{ $name }»
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -27,23 +24,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Όνομα
     .accesskey = Ο
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Εισαγάγετε το όνομα θεματικής ενότητας
+
 containers-icon-label = Εικονίδιο
     .accesskey = Ε
     .style = { -containers-labels-style }
+
 containers-color-label = Χρώμα
     .accesskey = ρ
     .style = { -containers-labels-style }
-containers-button-done =
-    .label = Τέλος
-    .accesskey = Τ
+
 containers-dialog =
     .buttonlabelaccept = Τέλος
     .buttonaccesskeyaccept = Τ
+
 containers-color-blue =
     .label = Μπλε
 containers-color-turquoise =
@@ -62,6 +62,7 @@ containers-color-purple =
     .label = Μοβ
 containers-color-toolbar =
     .label = Αντιστοίχιση με γραμμή εργαλείων
+
 containers-icon-fence =
     .label = Περίφραξη
 containers-icon-fingerprint =

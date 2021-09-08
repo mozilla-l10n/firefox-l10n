@@ -141,7 +141,6 @@
 
 <!ENTITY Photo.tab                      "Φωτογραφία">
 <!ENTITY Photo.accesskey                "ο">
-<!ENTITY PhotoDesc.label                "Επιλέξτε ένα από τα παρακάτω:">
 <!ENTITY GenericPhoto.label             "Γενική φωτογραφία">
 <!ENTITY GenericPhoto.accesskey         "Γ">
 <!ENTITY DefaultPhoto.label             "Προεπιλογή">

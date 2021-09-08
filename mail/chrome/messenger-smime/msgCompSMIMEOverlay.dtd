@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Ψηφιακή υπογραφή μηνύματος">
 <!ENTITY menu_securitySign.accesskey "Ψ">
 
-<!ENTITY menu_securityAttachMyKey.label "Επισύναψη δημόσιου κλειδιού">
-<!ENTITY menu_securityAttachMyKey.accesskey "Ε">
-
 <!ENTITY menu_securityTech.label "Τεχνολογία κρυπτογράφησης">
 <!ENTITY menu_securityTech.accesskey "Τ">
 

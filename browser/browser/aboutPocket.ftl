@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Προσθήκη ετικετών
+
 pocket-panel-saved-error-generic = Προέκυψε σφάλμα κατά την προσπάθεια αποθήκευσης στο { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Οι ετικέτες έχουν όριο 25 χαρακτήρες
 pocket-panel-saved-error-only-links = Μόνο οι σύνδεσμοι μπορούν να αποθηκευτούν

@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Αποτυπώματα κλειδιού OTR από προηγούμενες συζητήσεις με διατερματική κρυπτογράφηση.
 
-finger-screenName =
-    .label = Επαφή
-
 finger-screen-name =
     .label = Επαφή
 finger-verified =

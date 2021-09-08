@@ -17,9 +17,6 @@
 <!ENTITY accountTypeMail.accesskey "ρ">
 <!ENTITY accountTypeNews.label "Λογαριασμός ομάδας συζητήσεων">
 <!ENTITY accountTypeNews.accesskey "δ">
-<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
-<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
-<!ENTITY accountTypeMovemail.accesskey "U">
 
 <!-- Entities for Identity page -->
 

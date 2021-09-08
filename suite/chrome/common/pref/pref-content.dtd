@@ -33,10 +33,11 @@
 <!ENTITY defaultZoom.label                      "Προεπιλεγμένο ζουμ">
 <!ENTITY defaultZoom.accesskey                  "Π">
 
-<!ENTITY siteSpecific.label                     "Αποθήκευση επιπέδων ζουμ για κάθε ιστοσελίδα">
-<!ENTITY siteSpecific.accesskey                 "μ">
 <!ENTITY textZoomOnly.label                     "Ζουμ μόνο στο κείμενο αντί για την πλήρη σελίδα">
 <!ENTITY textZoomOnly.accesskey                 "Ζ">
+<!ENTITY siteSpecific.label                     "Αποθήκευση επιπέδων ζουμ για κάθε ιστοσελίδα">
+<!ENTITY siteSpecific.accesskey                 "μ">
+<!ENTITY showZoomStatusPanel.label              "Εμφάνιση κουμπιών ζουμ στη γραμμή κατάστασης">
 <!ENTITY enableAutomaticImageResizing.label     "Προσαρμογή μεγέθους μεγάλων εικόνων στο παράθυρο προγράμματος περιήγησης">
 <!ENTITY enableAutomaticImageResizing.accesskey "Π">
 
@@ -45,4 +46,3 @@
 <!ENTITY blockAutoRefresh.label                 "Προειδοποίηση όταν οι ιστοσελίδες προσπαθούν να ανακατευθύνουν ή να φορτώσουν ξανά τη σελίδα">
 <!ENTITY blockAutoRefresh.accesskey             "Π">
 
-<!ENTITY showZoomStatusPanel.label              "Εμφάνιση κουμπιών ζουμ στη γραμμή κατάστασης">

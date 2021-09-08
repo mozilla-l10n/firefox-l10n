@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "Ε">
 <!ENTITY deleteCmd.label          "Διαγραφή">
 <!ENTITY deleteCmd.accesskey        "Δ">
-<!ENTITY preferencesCmd2.label "Επιλογές">
-<!ENTITY preferencesCmd2.accesskey "ο">
-<!ENTITY preferencesCmdUnix.label       "Προτιμήσεις">
-<!ENTITY preferencesCmdUnix.accesskey     "ρ">
 <!ENTITY customizeCmd.label "Προσαρμογή">
 <!ENTITY customizeCmd.accesskey "σ">
 

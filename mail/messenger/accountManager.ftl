@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = Προτιμήσεις { -brand-short-name }
 
 open-addons-sidebar-button = Πρόσθετα και θέματα
+
