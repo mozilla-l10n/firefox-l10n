@@ -29,12 +29,6 @@
 <!ENTITY closeCmd.label                                 "Sulge">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "S">
-<!ENTITY printSetupCmd.label                            "Lehe sätted...">
-<!ENTITY printSetupCmd.accesskey                        "l">
-<!ENTITY printPreviewContactCmd.label                   "Kontakti printimise eelvaade">
-<!ENTITY printPreviewContactCmd.accesskey               "e">
-<!ENTITY printPreviewAddressBook.label                  "Aadressiraamatu printimise eelvaade">
-<!ENTITY printPreviewAddressBook.accesskey              "A">
 <!ENTITY printContactCmd.label                          "Prindi kontakt...">
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "P">
@@ -107,10 +101,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Ekspordi...">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                          "Valikud">
-<!ENTITY preferencesCmd2.accesskey                      "V">
-<!ENTITY preferencesCmdUnix.label                       "Eelistused">
-<!ENTITY preferencesCmdUnix.accesskey                   "E">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Uus kontakt">

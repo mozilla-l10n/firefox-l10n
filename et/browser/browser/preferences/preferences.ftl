@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = alati
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Sätted
-       *[other] Eelistused
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Otsi sätetest
-           *[other] Otsi eelistustest
-        }
-
 managed-notice = Brauserit haldab sinu organisatsioon.
 
 pane-general-title = Üldine
@@ -48,10 +26,6 @@ category-search =
 pane-privacy-title = Privaatsus ja turvalisus
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = { -brand-short-name }i abi
 addons-button-label = Laiendused ja teemad
@@ -81,21 +55,9 @@ restart-later = Taaskäivita hiljem
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Avalehe sisu haldab laiendus <img data-l10n-name="icon"/> { $name }.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Uue kaardi sisu haldab laiendus <img data-l10n-name="icon"/> { $name }.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Seda sätet haldab laiendus <img data-l10n-name="icon"/> { $name }.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Vaikeotsingumootori on määranud laiendus <img data-l10n-name="icon"/> { $name }.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -120,26 +82,11 @@ extension-controlled-enable = Laienduse lubamiseks ava <img data-l10n-name="addo
 
 search-results-header = Otsingutulemused
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Vabandust! Sätete seast ei leitud vastet otsingule “<span data-l10n-name="query"></span>”.
-       *[other] Vabandust! Eelistuste seast ei leitud vastet otsingule “<span data-l10n-name="query"></span>”.
-    }
-
 search-results-help-link = Vajad abi? Külasta lehte <a data-l10n-name="url">{ -brand-short-name }i abi</a>
 
 ## General Section
 
 startup-header = Käivitamine
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Lubatakse { -brand-short-name }i ja Firefoxi samaaegne töötamine
-use-firefox-sync = Vihje: kasutatakse erinevaid profiile. Andmete jagamiseks nende profiilide vahel kasuta { -sync-brand-short-name }i.
-get-started-not-logged-in = Logi { -sync-brand-short-name }i sisse…
-get-started-configured = Ava { -sync-brand-short-name }i sätted
 
 always-check-default =
     .label = Alati kontrollitakse, kas { -brand-short-name } on vaikebrauser
@@ -179,10 +126,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Hoiatus, kui mitme kaardi avamine võib aeglustada { -brand-short-name }i tööd
     .accesskey = i
-
-switch-links-to-new-tabs =
-    .label = Uue kaardi avamisel lülitutakse sellele koheselt
-    .accesskey = U
 
 show-tabs-in-taskbar =
     .label = Kaartide eelvaateid näidatakse Windowsi tegumiribal
@@ -341,11 +284,6 @@ applications-manage-app =
     .label = Rakenduse üksikasjad...
 applications-always-ask =
     .label = küsitakse alati
-applications-type-pdf = Porditav dokumendiformaat (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -418,17 +356,6 @@ update-application-warning-cross-user-setting = See säte rakendub kõigile Wind
 update-application-use-service =
     .label = Uuenduste paigaldamiseks kasutatakse taustateenust
     .accesskey = d
-
-update-setting-write-failure-title = Uuendamise sätete salvestamisel esines viga
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    { -brand-short-name }il esines viga ja muudatust ei salvestatud. Antud sätte muutmiseks on vajalikud õigused alloleva faili muutmiseks. Probleem võib laheneda, kui sina või sinu süsteemiadministraator annab Users grupile täielikud muutmise õigused sellele failile.
-    
-    Järgmist faili polnud võimalik muuta: { $path }
 
 update-in-progress-title = Uuendamine
 
@@ -650,8 +577,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = Otsingusoovitusi asukohariba tulemuste seas ei kuvata, sest { -brand-short-name } ei ole häälestatud ajalugu säilitama.
 
-search-one-click-header = Ühe klõpsu otsingumootorid
-
 search-one-click-desc = Vali alternatiivsed otsingumootorid, mida kuvatakse aadressi- ja otsinguriba all, kui alustad märksõna sisestamist.
 
 search-choose-engine-column =
@@ -684,9 +609,6 @@ containers-add-button =
     .label = Lisa uus konteiner
     .accesskey = L
 
-containers-preferences-button =
-    .label = Eelistused
-
 containers-remove-button =
     .label = Eemalda
 
@@ -697,7 +619,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Võta oma veeb endaga kaasa
-sync-signedout-description = Sync võimaldab sul sünkroniseerida järjehoidjad, ajaloo, kaardid, paroolid, lisad ja sätted kõigis sinu seadmetes.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -745,12 +666,6 @@ prefs-syncing-on = Sünkroniseerimine: SEES
 
 prefs-syncing-off = Sünkroniseerimine: VÄLJAS
 
-prefs-sync-setup =
-    .label = Seadista { -sync-brand-short-name }…
-    .accesskey = d
-
-prefs-sync-offer-setup-label = Sync võimaldab sul sünkroniseerida järjehoidjad, ajaloo, kaardid, paroolid, lisad ja sätted kõigis sinu seadmetes.
-
 prefs-sync-now =
     .labelnotsyncing = Sünkroniseeri kohe
     .accesskeynotsyncing = S
@@ -767,11 +682,6 @@ sync-currently-syncing-logins-passwords = Kasutajatunnused ja paroolid
 sync-currently-syncing-addresses = Aadressid
 sync-currently-syncing-creditcards = Krediitkaardid
 sync-currently-syncing-addons = Lisad
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Sätted
-       *[other] Eelistused
-    }
 
 sync-change-options =
     .label = Muuda…
@@ -819,15 +729,6 @@ sync-engine-addons =
     .label = Lisad
     .tooltiptext = Arvutis kasutatava Firefoxi laiendused ja teemad
     .accesskey = i
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Sätted
-           *[other] Eelistused
-        }
-    .tooltiptext = Üldiste, privaatsuse ja turvalisuse sätete muudatused
-    .accesskey = e
 
 ## The device name controls.
 
@@ -880,14 +781,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Salvestatud kasutajakontod…
     .accesskey = l
-forms-master-pw-use =
-    .label = Kasutatakse ülemparooli
-    .accesskey = m
 forms-master-pw-change =
     .label = Muuda ülemparooli…
     .accesskey = p
-
-forms-master-pw-fips-title = Sa oled FIPS-režiimis. See eeldab, et sinu ülemparool ei oleks tühi.
 
 forms-master-pw-fips-desc = Parooli muutmine nurjus
 
@@ -993,10 +889,6 @@ sitedata-clear =
 
 sitedata-settings =
     .label = Halda andmeid…
-    .accesskey = H
-
-sitedata-cookies-permissions =
-    .label = Halda õigusi…
     .accesskey = H
 
 ## Privacy Section - Address Bar
@@ -1150,12 +1042,6 @@ permissions-addon-exceptions =
     .label = Erandid…
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = Hõlpsusteenustel ei lubata sinu brauserile ligi pääseda
-    .accesskey = H
-
-permissions-a11y-privacy-link = Rohkem teavet
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name }i andmete kogumine ja kasutamine
@@ -1179,11 +1065,6 @@ addon-recommendations-link = Rohkem teavet
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Selle kompileerimise konfiguratsiooniga on andmete raporteerimine keelatud
-
-collection-backlogged-crash-reports =
-    .label = { -brand-short-name }il lubatakse saatmata vearaporteid saata
-    .accesskey = s
-collection-backlogged-crash-reports-link = Rohkem teavet
 
 ## Privacy Section - Security
 ##
@@ -1211,16 +1092,6 @@ security-block-uncommon-software =
 
 certs-header = Sertifikaadid
 
-certs-personal-label = Kui server nõuab kasutaja isiklikku sertifikaati, siis
-
-certs-select-auto-option =
-    .label = valitakse üks automaatselt
-    .accesskey = v
-
-certs-select-ask-option =
-    .label = küsitakse iga kord
-    .accesskey = k
-
 certs-enable-ocsp =
     .label = Sertifikaatide valideeruvust kontrollitakse OCSP abil
     .accesskey = e
@@ -1232,34 +1103,6 @@ certs-view =
 certs-devices =
     .label = Turvaseadmed…
     .accesskey = T
-
-space-alert-learn-more-button =
-    .label = Rohkem teavet
-    .accesskey = R
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Ava sätted
-           *[other] Ava eelistused
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] v
-           *[other] v
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name }il saab salvestuspind otsa. Saidi sisu võidakse kuvada ebakorrektselt. Saidi salvestatud andmeid on võimalik kustutada, avades Sätted > Privaatsus ja turvalisus > Küpsised ja saidi andmed.
-       *[other] { -brand-short-name }il saab salvestuspind otsa. Saidi sisu võidakse kuvada ebakorrektselt. Saidi salvestatud andmeid on võimalik kustutada, avades Eelistused > Privaatsus ja turvalisus > Küpsised ja saidi andmed.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = Olgu, sain aru
-    .accesskey = O
-
-space-alert-under-5gb-message = { -brand-short-name }il saab salvestuspind otsa. Saidi sisu võidakse kuvada ebakorrektselt. Vaata “Rohkem teavet”, et optimeerida oma salvestuspinna kasutust parema kogemuse saamiseks.
 
 ## Privacy Section - HTTPS-Only
 

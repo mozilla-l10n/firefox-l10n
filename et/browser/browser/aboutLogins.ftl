@@ -7,20 +7,12 @@ about-logins-page-title = Kasutajatunnused ja paroolid
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Võta oma paroolid kõikjale kaasa
-login-app-promo-subtitle = Hangi tasuta äpp { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Hangi see Google Play poest
-login-app-promo-apple =
-    .alt = Laadi alla App Store'ist
-
 login-filter =
     .placeholder = Otsi kasutajakontosid
 
 create-login-button = Loo uus kasutajakonto
 
 fxaccounts-sign-in-text = Tee paroolid kättesaadavaks ka oma teistes seadmetes
-fxaccounts-sign-in-button = Logi { -sync-brand-short-name }i sisse
 fxaccounts-avatar-button =
     .title = Halda kontot
 
@@ -39,8 +31,6 @@ menu-menuitem-preferences =
        *[other] Eelistused
     }
 about-logins-menu-menuitem-help = Abi
-menu-menuitem-android-app = { -lockwise-brand-short-name } Androidile
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } iPhone'ile ja iPadile
 
 ## Login List
 
@@ -71,13 +61,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Otsid oma salvestatud kasutajakontosid? Seadista { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-in = Sünkrooniseeritud kasutajakontosid ei leitud.
 login-intro-description = Kui salvestasid oma kasutajakontod teises seadmes olevasse { -brand-product-name }i, siis nii saad need ka siia:
-login-intro-instruction-fxa = Loo { -fxaccount-brand-name } või logi sisse seadmes, kus salvestatud kasutajakontod on
-login-intro-instruction-fxa-settings = Veendu, et { -sync-brand-short-name }i sätetes oleks Kasutajakontod ees linnuke
-about-logins-intro-instruction-help = Rohkema teabe saamiseks külasta <a data-l10n-name="help-link">{ -lockwise-brand-short-name }'i tugikeskkonda</a>
 about-logins-intro-import = Kui sinu kasutajakontod on salvestatud teise brauserisse, siis saad need <a data-l10n-name="import-link">importida { -lockwise-brand-short-name }'i</a>
 
 about-logins-intro-import2 = Kui sinu kasutajakontod on salvestatud mujale kui { -brand-product-name }i, siis saad need <a data-l10n-name="import-browser-link">importida teisest brauserist</a> või <a data-l10n-name="import-file-link">failist</a>
@@ -136,8 +121,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copy the saved passwo
 
 ## Master Password notification
 
-master-password-notification-message = Salvestatud kasutajatunnuste ja paroolide nägemiseks sisesta ülemparool
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Kasutajakontode eksportimiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
 # This message can be seen when attempting to export a password in about:logins
@@ -152,22 +135,6 @@ master-password-reload-button =
     .accesskey = L
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Soovid salvestatud kasutajakontosid kasutada kõikjal, kus kasutad { -brand-product-name }i? Mine { -sync-brand-short-name }i sätetesse ja märgi ära Kasutajakontod.
-       *[other] Soovid salvestatud kasutajakontosid kasutada kõikjal, kus kasutad { -brand-product-name }i? Mine { -sync-brand-short-name }i eelistustesse ja märgi ära Kasutajakontod.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Vaata { -sync-brand-short-name }i sätteid
-           *[other] Vaata { -sync-brand-short-name }i eelistusi
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Rohkem ei küsita
-    .accesskey = R
 
 ## Dialogs
 

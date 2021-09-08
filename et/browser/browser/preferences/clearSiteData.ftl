@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Kustutamisel tuleb veebilehtede pildid ja andmed uuesti laadida
 
-clear-site-data-cancel =
-    .label = Loobu
-    .accesskey = L
-
-clear-site-data-clear =
-    .label = Kustuta
-    .accesskey = u
-
 clear-site-data-dialog =
     .buttonlabelaccept = Kustuta
     .buttonaccesskeyaccept = u

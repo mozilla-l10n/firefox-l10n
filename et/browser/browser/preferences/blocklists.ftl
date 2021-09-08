@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Nimekiri
 
-blocklist-button-cancel =
-    .label = Loobu
-    .accesskey = L
-
-blocklist-button-ok =
-    .label = Salvesta muudatused
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Salvesta muudatused
     .buttonaccesskeyaccept = S

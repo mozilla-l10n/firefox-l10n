@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Prindi...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Printimise eelvaade">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Printimise sätted...">
-<!ENTITY printSetupCmd.accesskey "r">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Kustuta kiri">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "H">
 <!ENTITY compactVersion.label "Kompaktne vaade">
 <!ENTITY compactVersion.accesskey "p">
-<!ENTITY folderPaneBar.label "Kaustade paneeli tööriistariba">
-<!ENTITY folderPaneBar.accesskey "p">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortimine">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Aadressiraamat">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Lisad">
-<!ENTITY addons.accesskey "d">
-<!ENTITY addonPrefs.label "Lisa sätted">
-<!ENTITY addonPrefs.accesskey "ä">
-<!ENTITY addonPrefsUnix.label "Lisa eelistused">
-<!ENTITY addonPrefsUnix.accesskey "e">
 <!ENTITY addonNoPrefs.label "Lisal puuduvad sätted.">
 <!ENTITY activitymanager.label "Tegevuste haldur">
 <!ENTITY activitymanager.accesskey "v">
@@ -520,8 +508,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Debugi lisasid">
 <!ENTITY debugAddonsCmd.accesskey "D">
-<!ENTITY tabsDebugCmd.label "Content Frame Debugger">
-<!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Vigade konsool">
 <!ENTITY errorConsoleCmd.accesskey "i">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -545,15 +531,11 @@
 <!ENTITY backButton1.label "Tagasi">
 <!ENTITY goForwardButton1.label "Edasi">
 <!ENTITY deleteItem.title "Kustuta">
-<!ENTITY deleteButton.label "Kustuta">
-<!ENTITY undeleteButton.label "Taasta">
 <!ENTITY markButton.label "Märgista">
 <!ENTITY printButton.label "Prindi">
 <!ENTITY stopButton.label "Peata">
 <!ENTITY throbberItem.title "Aktiivsuse indikaator">
 <!ENTITY junkItem.title "Rämpspost">
-<!ENTITY junkButton.label "Rämpspost">
-<!ENTITY notJunkButton.label "Pole rämpspost">
 <!ENTITY addressBookButton.label "Aadressiraamat">
 <!ENTITY chatButton.label "Kiirsuhtlus">
 <!ENTITY glodaSearch.title "Üldotsing">
@@ -585,19 +567,14 @@
 <!ENTITY previousMsgButton.tooltip "Kuva eelmist kirja">
 <!ENTITY goForwardButton.tooltip "Mine ühe kirja võrra edasi">
 <!ENTITY goBackButton.tooltip "Mine ühe kirja võrra tagasi">
-<!ENTITY deleteButton.tooltip "Kustuta valitud kiri või kaust">
-<!ENTITY undeleteButton.tooltip "Taasta valitud kiri">
 <!ENTITY markButton.tooltip "Märgi kiri">
 <!ENTITY printButton.tooltip "Prindi valitud kiri">
 <!ENTITY stopButton.tooltip "Katkesta andmeedastus">
-<!ENTITY junkButton.tooltip "Märgi valitud kirjad rämpspostiks">
-<!ENTITY notJunkButton.tooltip "Eemalda sellelt kirjalt rämpsposti märge">
 <!ENTITY addressBookButton.tooltip "Ava aadressiraamat">
 <!ENTITY chatButton.tooltip "Kuva kiirsuhtluse kaarti">
 <!ENTITY tagButton.tooltip "Sildista kirju">
 <!ENTITY compactButton.tooltip "Eemalda kustutatud kirjad valitud kaustast">
 <!ENTITY appmenuButton1.tooltip "Kuva rakenduse &brandShortName; menüüd">
-<!ENTITY addonsButton.tooltip "Halda oma lisasid">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Edasta lihttekstina">

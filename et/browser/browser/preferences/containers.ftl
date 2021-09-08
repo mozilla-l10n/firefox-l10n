@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Uue konteineri lisamine
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Konteineri eelistused - { $name }
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Ikoon
 containers-color-label = Värv
     .accesskey = V
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Valmis
-    .accesskey = a
 
 containers-dialog =
     .buttonlabelaccept = Valmis

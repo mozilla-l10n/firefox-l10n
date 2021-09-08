@@ -17,13 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Vali kõik kaardid
     .accesskey = k
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [one] Võta kaardi sulgemine tagasi
-           *[other] Võta kaartide sulgemine tagasi
-        }
-    .accesskey = V
 
 toolbar-context-menu-manage-extension =
     .label = Halda laiendust
@@ -44,9 +37,6 @@ toolbar-context-menu-report-extension =
 # access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Liiguta nurgatagusesse menüüsse
-    .accesskey = r
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Peidetakse tööriistaribalt automaatselt
     .accesskey = r
 toolbar-context-menu-remove-from-toolbar =
     .label = Eemalda tööriistaribalt

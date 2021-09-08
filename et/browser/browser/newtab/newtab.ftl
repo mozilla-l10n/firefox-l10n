@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Otsi
     .aria-label = Otsi
 
-newtab-search-box-search-the-web-text = Otsi veebist
-
 newtab-search-box-search-the-web-input =
     .placeholder = Otsi veebist
     .title = Otsi veebist

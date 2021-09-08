@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Seriifideta
 
-font-size-label =
-    .value = Suurus:
-    .accesskey = u
-
 font-size-monospace-label =
     .value = Suurus:
     .accesskey = r

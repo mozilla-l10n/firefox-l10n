@@ -19,10 +19,6 @@
 <!ENTITY savePageCmd.label "Salvesta kui…">
 <!ENTITY savePageCmd.accesskey "S">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Lehekülje sätted…">
-<!ENTITY pageSetupCmd.accesskey "L">
-<!ENTITY printPreviewCmd.label "Lehekülje eelvaade">
-<!ENTITY printPreviewCmd.accesskey "e">
 <!ENTITY printCmd.label "Prindi…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">

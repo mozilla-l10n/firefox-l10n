@@ -53,8 +53,6 @@ policy-DisableForgetButton = Prevent access to the Forget button.
 
 policy-DisableFormHistory = Don’t remember search and form history.
 
-policy-DisableMasterPasswordCreation = If true, a master password can’t be created.
-
 policy-DisablePocket = Disable the feature to save webpages to Pocket.
 
 policy-DisablePrivateBrowsing = Disable Private Browsing.

@@ -112,9 +112,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Redigeerimine
     .accesskey = R
-menu-edit-find-on =
-    .label = Otsi sellelt lehelt...
-    .accesskey = s
 menu-edit-find-again =
     .label = Otsi uuesti
     .accesskey = u
@@ -130,9 +127,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Tööriistaribad
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = Kohanda...
-    .accesskey = o
 menu-view-sidebar =
     .label = Külgriba
     .accesskey = K
@@ -163,9 +157,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Veebilehe baasstiil
     .accesskey = b
-menu-view-charset =
-    .label = Teksti kodeering
-    .accesskey = o
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -214,10 +205,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Järjehoidjad
     .accesskey = J
-menu-bookmarks-show-all =
-    .label = Kuva kõiki järjehoidjaid
-menu-bookmark-this-page =
-    .label = Lisa see veebileht järjehoidjatesse
 menu-bookmark-edit =
     .label = Muuda seda järjehoidjat
 menu-bookmarks-all-tabs =
@@ -237,41 +224,18 @@ menu-tools =
 menu-tools-downloads =
     .label = Allalaadimised
     .accesskey = A
-menu-tools-addons =
-    .label = Lisad
-    .accesskey = L
-menu-tools-fxa-sign-in =
-    .label = Logi { -brand-product-name }i sisse…
-    .accesskey = L
-menu-tools-turn-on-sync =
-    .label = Lülita { -sync-brand-short-name } sisse…
-    .accesskey = t
 menu-tools-sync-now =
     .label = Sünkroniseeri kohe
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = Ühenda { -brand-product-name } uuesti…
     .accesskey = h
-menu-tools-web-developer =
-    .label = Veebiarendajale
-    .accesskey = b
 menu-tools-page-source =
     .label = Veebilehe lähtekood
     .accesskey = l
 menu-tools-page-info =
     .label = Veebilehe info
     .accesskey = i
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Sätted
-           *[other] Eelistused
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] E
-        }
 menu-tools-layout-debugger =
     .label = Layout Debugger
     .accesskey = L
@@ -306,29 +270,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Abi
     .accesskey = b
-menu-help-product =
-    .label = { -brand-shorter-name }i käsiraamat
-    .accesskey = k
-menu-help-show-tour =
-    .label = { -brand-shorter-name }i ringkäik
-    .accesskey = r
-menu-help-keyboard-shortcuts =
-    .label = Kiirklahvid
-    .accesskey = i
-menu-help-troubleshooting-info =
-    .label = Probleemide lahendamise teave
-    .accesskey = P
 menu-help-report-site-issue =
     .label = Anna teada saidil olevast veast…
 menu-help-feedback-page =
     .label = Anna tagasisidet…
     .accesskey = A
-menu-help-safe-mode-without-addons =
-    .label = Taaskäivita koos lisade keelamisega…
-    .accesskey = T
-menu-help-safe-mode-with-addons =
-    .label = Taaskäivita koos lisade lubamisega
-    .accesskey = T
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

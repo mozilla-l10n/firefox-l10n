@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Lisade haldur
-
 addons-page-title = Lisade haldur
 
 search-header =
@@ -34,61 +31,11 @@ help-button = Lisade kasutajatugi
 sidebar-help-button-title =
     .title = Lisade kasutajatugi
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name }i sätted
-       *[other] { -brand-short-name }i eelistused
-    }
-
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name }i sätted
-           *[other] { -brand-short-name }i eelistused
-        }
-
 show-unsigned-extensions-button =
     .label = Mõnda laiendust polnud võimalik verifitseerida
 
 show-all-extensions-button =
     .label = Kuva kõiki laiendusi
-
-cmd-show-details =
-    .label = Kuva rohkem teavet
-    .accesskey = K
-
-cmd-find-updates =
-    .label = Leia uuendusi
-    .accesskey = L
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Sätted
-           *[other] Eelistused
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] t
-           *[other] E
-        }
-
-cmd-enable-theme =
-    .label = Kasuta teemat
-    .accesskey = K
-
-cmd-disable-theme =
-    .label = Lõpeta teema kasutamine
-    .accesskey = p
-
-cmd-install-addon =
-    .label = Paigalda
-    .accesskey = P
-
-cmd-contribute =
-    .label = Aita kaasa
-    .accesskey = i
-    .tooltiptext = Panusta selle lisa arendusse
 
 detail-version =
     .label = Versioon
@@ -382,8 +329,6 @@ dictionary-disabled-heading = Keelatud
 
 locale-enabled-heading = Lubatud
 locale-disabled-heading = Keelatud
-
-ask-to-activate-button = Aktiveerimiseks küsitakse luba
 
 always-activate-button = Alati aktiivne
 never-activate-button = Mitte kunagi aktiivne

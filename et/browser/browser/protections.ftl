@@ -46,9 +46,6 @@ lockwise-title = Lõpp paroolide unustamisele
 lockwise-header-content = { -lockwise-brand-name } salvestab paroolid turvaliselt sinu brauseris.
 lockwise-header-content-logged-in = Salvesta ja sünkroniseeri oma paroolid turvaliselt kõigisse oma seadmetesse.
 
-turn-on-sync = Lülita { -sync-brand-short-name } sisse…
-    .title = Ava sünkroniseerimise sätted
-
 monitor-title = Hoia end kursis andmeleketega
 monitor-link = Kuidas see töötab?
 monitor-header-content-no-account = Kontrolli { -monitor-brand-name }i, et näha, kas sinu andmed leiduvad mõnes teadaolevas andmelekkes ja saa hoiatusi uute lekete kohta.

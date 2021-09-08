@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Eemalda kõik saidid
     .accesskey = k
 
-permissions-button-cancel =
-    .label = Loobu
-    .accesskey = L
-
-permissions-button-ok =
-    .label = Salvesta muudatused
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Salvesta muudatused
     .buttonaccesskeyaccept = S

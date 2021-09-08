@@ -6,9 +6,6 @@ password-quality-meter = Parooli kvaliteedihinnang
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Ülemparooli muutmine
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Turvaseade: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Uue parooli kinnitus:
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Peaparooli nullimine
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Lähtesta
-reset-password-text = Ülemparooli lähtestamisel unustatakse kõik sinu salvestatud veebi ja e-posti paroolid, vormide andmed, isiklikud sertifikaadid ja privaatvõtmed. Kas oled kindel, et soovid ülemparooli lähtestada?
 
 ## Downloading cert dialog
 
