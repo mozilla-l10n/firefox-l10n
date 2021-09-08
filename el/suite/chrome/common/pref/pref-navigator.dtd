@@ -34,6 +34,8 @@
 <!ENTITY siteIcons.label                "Εικονίδια ιστοτόπων">
 <!ENTITY useSiteIcons.label             "Εμφάνιση εικονιδίων ιστοτόπων">
 <!ENTITY useSiteIcons.accesskey         "ι">
+<!ENTITY useFavIcons.label              "Χρήση εικονιδίου διακομιστή όταν η σελίδα δεν ορίζει κάποιο εικονίδιο">
+<!ENTITY useFavIcons.accesskey          "Χ">
 
 <!ENTITY homePageIntro.label            "Μετάβαση σε αυτήν την ομάδα σελίδων με κλικ στο κουμπί «Αρχική σελίδα»:">
 <!ENTITY useCurrent.label               "Χρήση τρέχουσας σελίδας">

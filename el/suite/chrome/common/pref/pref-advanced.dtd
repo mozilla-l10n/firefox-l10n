@@ -9,6 +9,21 @@
 <!ENTITY prefCheckDefaultClient.label     "Έλεγχος ρυθμίσεων προεπιλεγμένης εφαρμογής κατά την εκκίνησης">
 <!ENTITY prefCheckDefaultClient.accesskey "Έ">
 
+<!ENTITY defaultClientFor.description     "Ορισμός του &brandShortName; ως προεπιλογής για:">
+<!ENTITY setDefaultBrowser.label          "Περιήγηση">
+<!ENTITY setDefaultBrowser.accesskey      "Π">
+<!ENTITY setDefaultMail.label             "Αλληλογραφία">
+<!ENTITY setDefaultMail.accesskey         "Α">
+<!ENTITY setDefaultNews.label             "Συζητήσεις">
+<!ENTITY setDefaultNews.accesskey         "Σ">
+<!ENTITY setDefaultFeed.label             "Ροές">
+<!ENTITY setDefaultFeed.accesskey         "Ρ">
+<!ENTITY useInternalSettings.description  "Χρήση του &brandShortName; για ταχυδρομείο &amp; ομάδες συζητήσεων κατά το άνοιγμα συνδέσμων για:">
+<!ENTITY useInternalMail.label            "Αλληλογραφία (mailto:)">
+<!ENTITY useInternalMail.accesskey        "γ">
+<!ENTITY useInternalNews.label            "Συζητήσεις (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "ζ">
+
 <!ENTITY printing.label                   "Εκτύπωση">
 <!ENTITY useNativePrintDialog.label       "Χρήση εγγενούς διαλόγου εκτύπωσης (όπου υποστηρίζεται)">
 <!ENTITY useNativePrintDialog.accesskey   "Χ">
