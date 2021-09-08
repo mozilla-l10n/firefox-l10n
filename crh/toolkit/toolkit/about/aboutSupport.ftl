@@ -13,11 +13,6 @@ crashes-id = Maruza Kimligi
 crashes-send-date = Teslim Etilgen
 crashes-all-reports = Episi Çöküş Maruzaları
 crashes-no-config = Bu uyğulama çöküş maruzalarını köstermek üzre ayarlanğan degildir.
-extensions-title = Uzantılar
-extensions-name = İsim
-extensions-enabled = Qabilleştirilgen
-extensions-version = Sürüm
-extensions-id = Kimlik
 support-addons-name = İsim
 support-addons-version = Sürüm
 support-addons-id = Kimlik
@@ -99,8 +94,6 @@ sandbox-sys-call-tid = YK (TID)
 sandbox-sys-call-proc-type = Süreç Türü
 sandbox-sys-call-number = Sistem Çağırışı
 sandbox-sys-call-args = Argumentler
-safe-mode-title = Emin Tarznı Deñe
-restart-in-safe-mode-label = Eklentiler Ğayrıfaalleştirilgen Keliş Kene Başlat…
 
 ## Media titles
 
@@ -237,19 +230,12 @@ webgl2-renderer = WebGL 2 Sürüci Qılıcısı
 webgl2-version = WebGL 2 Sürüci Sürümi
 webgl2-driver-extensions = WebGL 2 Sürüci Uzantıları
 webgl2-extensions = WebGL 2 Uzantıları
-blocklisted-bug = Malüm meselelerden dolayı bloklistelengen
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = illet { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Bloklistelengen; muvaffaqiyetsizlik kodu { $failureCode }
 
 d3d11layers-crash-guard = D3D11 Bileşikleyici
-d3d11video-crash-guard = D3D11 Video Dekodlayıcı
-d3d9video-crash-guard = D3D9 Video Dekodlayıcı
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Soñraki Kene Başlatma üzerine Sıfırla
@@ -286,14 +272,6 @@ launcher-process-status-unknown = Namalüm status
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Qullanıcı tarafından qabilleştirilgen
-multi-process-status-1 = Ğıyaben qabilleştirilgen
-multi-process-status-2 = Naqabilleştirilgen
-multi-process-status-4 = İrişilebilirlik aletleri tarafından naqabilleştirilgen
-multi-process-status-6 = Desteklenmegen metin kirdisi tarafından naqabilleştirilgen
-multi-process-status-7 = Eklentiler tarafından naqabilleştirilgen
-multi-process-status-8 = Cebren naqabilleştirilgen
-multi-process-status-unknown = Namalüm status
 
 async-pan-zoom = Eşzamansız Taydır/Miqyasla
 apz-none = yoq

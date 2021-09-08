@@ -6,9 +6,6 @@ password-quality-meter = Parola kalite ölçümü
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Ana Parolayı Değiştir
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Güvenlik Aygıtları: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Yeni parola (tekrar):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Ana Parolayı Sıfırla
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Sıfırla
-reset-password-text = Eğer ana parolanızı sıfırlarsanız, İnternet ve E-Posta parolanız, Form verileriniz, kişisel sertifiklarını ve özel Anahtarlarınız kaybolur.  Ana parolanızı sıfırlamak istediğinizden emin misiniz?
 
 ## Downloading cert dialog
 

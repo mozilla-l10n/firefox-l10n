@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Temizle">
 
-<!ENTITY fillLoginMenu.label "İçeri İmzalanışnı Toldur">
-<!ENTITY fillLoginMenu.accesskey "d">
-<!ENTITY fillPasswordMenu.label "Sır-sözni Toldur">
-<!ENTITY fillPasswordMenu.accesskey "d">
-<!ENTITY fillUsernameMenu.label "Qullanıcı Adını Toldur">
-<!ENTITY fillUsernameMenu.accesskey "d">
-<!ENTITY noLoginSuggestions.label "(İçeri İmzalanış Telqinleri Yoq)">
-<!ENTITY viewSavedLogins.label "Saqlanğan İçeri İmzalanışlarnı Köster">

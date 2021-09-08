@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Bir Ekran Körüntisini Al
-
-screenshots-my-shots-button = Körüntilerim
-
 screenshots-instructions = Bir mıntaqanı saylamaq içün saifede süyrekleñiz yaki çertiñiz. Vazgeçmek içün ESC basıñız.
 screenshots-cancel-button = Vazgeç
 screenshots-save-visible-button = Körünirni saqla

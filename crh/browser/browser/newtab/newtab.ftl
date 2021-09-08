@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Qıdır
     .aria-label = Qıdır
 
-newtab-search-box-search-the-web-text = Ağ'da qıdır
-
 newtab-search-box-search-the-web-input =
     .placeholder = Ağ'da qıdır
     .title = Ağ'da qıdır

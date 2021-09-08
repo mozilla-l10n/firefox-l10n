@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Qadimiy Muhteva içün Metin Kodlandırması
-fonts-languages-fallback-desc = Bu metin kodlandırması, kodlandırmasını beyan etmege çuvallağan qadimiy muhteva içün qullanılır.
-
-fonts-languages-fallback-label = Metin Kodlandırması Ricatı
-    .accesskey = R
-
-fonts-languages-fallback-name-auto =
-    .label = Cari Mahal içün Ög-belgileme
-fonts-languages-fallback-name-arabic =
-    .label = Arapça
-fonts-languages-fallback-name-baltic =
-    .label = Baltıq
-fonts-languages-fallback-name-ceiso =
-    .label = Merkeziy Avropaiy, İSO
-fonts-languages-fallback-name-cewindows =
-    .label = Merkeziy Avropaiy, Mikrosoft
-fonts-languages-fallback-name-simplified =
-    .label = Çince, Basitleştirilgen
-fonts-languages-fallback-name-traditional =
-    .label = Çince, Ananeviy
-fonts-languages-fallback-name-cyrillic =
-    .label = Kiril
-fonts-languages-fallback-name-greek =
-    .label = Yunanca
-fonts-languages-fallback-name-hebrew =
-    .label = İbraniyce
-fonts-languages-fallback-name-japanese =
-    .label = Yaponca
-fonts-languages-fallback-name-korean =
-    .label = Korece
-fonts-languages-fallback-name-thai =
-    .label = Tayca
-fonts-languages-fallback-name-turkish =
-    .label = Türkçe
-fonts-languages-fallback-name-vietnamese =
-    .label = Vietnamca
-fonts-languages-fallback-name-other =
-    .label = Diger (Ğarbiy Avropaiy dahil)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Eklentiler İdarecisi
-
 addons-page-title = Eklentiler İdarecisi
 
 search-header =
@@ -34,61 +31,11 @@ help-button = Eklentiler Destegi
 sidebar-help-button-title =
     .title = Eklentiler Destegi
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } Seçenekleri
-       *[other] { -brand-short-name } Tercihleri
-    }
-
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } Seçenekleri
-           *[other] { -brand-short-name } Tercihleri
-        }
-
 show-unsigned-extensions-button =
     .label = Bazı uzantılar doğrulanamadı
 
 show-all-extensions-button =
     .label = Episi uzantılarnı köster
-
-cmd-show-details =
-    .label = Daa Çoq Malümatnı Köster
-    .accesskey = K
-
-cmd-find-updates =
-    .label = Yañartmalarnı Tap
-    .accesskey = T
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] İhtiyariyat
-           *[other] Tercihler
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] h
-           *[other] T
-        }
-
-cmd-enable-theme =
-    .label = Temanı Kiy
-    .accesskey = T
-
-cmd-disable-theme =
-    .label = Tema Kiyüvni Toqtat
-    .accesskey = T
-
-cmd-install-addon =
-    .label = Qur
-    .accesskey = Q
-
-cmd-contribute =
-    .label = İsse qoş
-    .accesskey = i
-    .tooltiptext = Bu eklentiniñ inkişafına isse qoş
 
 detail-version =
     .label = Sürüm

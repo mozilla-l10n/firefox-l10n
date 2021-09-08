@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Saytlarnıñ Episini Çetleştir
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Vazgeç
-    .accesskey = z
-
-permissions-button-ok =
-    .label = Deñişikliklerni Saqla
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Deñişikliklerni Saqla
     .buttonaccesskeyaccept = S

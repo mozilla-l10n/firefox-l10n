@@ -11,10 +11,6 @@
 <!ENTITY castingButton.castingLabel "Ekranğa Tök">
 <!ENTITY closedCaption.off "Qapalı">
 
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Gürlük sürgüsi">
-
 <!ENTITY error.aborted "Video yüklenmesi toqtatıldı.">
 <!ENTITY error.network "Bir şebeke hatasından dolayı video oynatımından vazgeçildi.">
 <!ENTITY error.decode "Dosye ifsat etilgen olğanından video oynatılalmay.">

@@ -39,11 +39,6 @@ connection-proxy-http-port = Liman
 connection-proxy-ssl-port = Liman
     .accesskey = i
 
-connection-proxy-ftp = FTP Proksisi
-    .accesskey = F
-connection-proxy-ftp-port = Liman
-    .accesskey = m
-
 connection-proxy-socks = SOCKS Qonaqbayı
     .accesskey = C
 connection-proxy-socks-port = Liman

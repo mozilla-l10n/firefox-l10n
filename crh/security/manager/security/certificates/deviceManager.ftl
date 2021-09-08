@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Seri Numarası
 
-fips-nonempty-password-required = FIPS modusu, bütün güvenlik ayarlamaları için bir ana parola ihtiyaç duyar. Gerekli parolayı yerleştirin ve FIPS modusu etkinleştirmek için tekrar deneyin.
-
 unable-to-toggle-fips = Emniyet cihazı içün FIPS tarzı deñiştirilalmay. Bu uyğulamadan çıqıp onı kene başlatmañız tevsiye etile.
 load-pk11-module-file-picker-title = Yüklenecek bir PKCS#11 cihazı sürücisini saylañız
 

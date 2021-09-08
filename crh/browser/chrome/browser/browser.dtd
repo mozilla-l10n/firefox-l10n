@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Menüni aç">
-
 <!ENTITY navbarOverflow.label                "Daa çoq alet…">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "İlmekni Tüyre">
-<!ENTITY  unpinTab.label                     "İlmekni Tüyrelmegen Yap">
 
 <!ENTITY  listAllTabs.label      "İlmeklerniñ episini tiz">
 
@@ -25,44 +15,11 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Dosyeni Aç…">
 <!ENTITY printCmd.label "Bastır…">
 
-<!ENTITY taskManagerCmd.label "Uhde İdareçisi">
-
 <!ENTITY menubarCmd.label "Menü Çubuğı">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY personalbarCmd.label "Saife-imleri Alet Çubuğı">
-<!ENTITY personalbarCmd.accesskey "a">
-<!ENTITY bookmarksToolbarItem.label "Saife-imleri Alet Çubuğı Unsurları">
 
 <!ENTITY fullScreenCmd.label "Tam Ekran">
 
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "şimdi tam-ekrandır">
-<!ENTITY fullscreenWarning.generic.label "Bu vesiqa şimdi tam-ekrandır">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Tam-Ekrandan Çıq (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Tam-Ekrandan Çıq (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "ibreñizni muraqabe ete. Kontrolni keri almaq içün Esc tuşuna basıñız.">
-<!ENTITY pointerlockWarning.generic.label "Bu vesiqa ibreñizni muraqabe ete. Kontrolni keri almaq içün Esc tuşuna basıñız.">
-
-<!ENTITY showAllBookmarks2.label "Saife-imleriniñ Episini Köster">
-<!ENTITY recentBookmarks.label "Demin İmlengen">
-<!ENTITY bookmarksToolbarChevron.tooltip "Daa çoq saife-imi köster">
 
 <!ENTITY printButton.label            "Bastır">
 <!ENTITY printButton.tooltip          "Bu saifeni bastır">
@@ -74,28 +31,12 @@ can reach it easily. -->
 <!ENTITY homeButton.label             "Ev">
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Ev Saifesi">
 
-<!ENTITY bookmarksButton.label          "Saife-imleri">
-
-<!ENTITY bookmarksSubview.label             "Saife-imleri">
-<!ENTITY bookmarksMenuButton2.label         "Saife-imleri Menüsi">
-<!ENTITY bookmarksMenuButton.other.label    "Diger Saifeimleri">
-<!ENTITY bookmarksMenuButton.mobile.label   "Mobil Saifeimleri">
-<!ENTITY viewBookmarksSidebar2.label        "Saifeimleri Alet Çubuğını Köster">
-<!ENTITY hideBookmarksSidebar.label         "Saife-imleri Yan-çubuğını Gizle">
-<!ENTITY viewBookmarksToolbar.label         "Saife-imleri Alet Çubuğını Köster">
-<!ENTITY hideBookmarksToolbar.label         "Saife-imleri Alet-çubuğını Gizle">
-<!ENTITY searchBookmarks.label              "Saife-imlerini Qıdır">
-<!ENTITY bookmarkingTools.label             "Saife-imleme Aletleri">
-<!ENTITY addBookmarksMenu.label             "Alet Çubuğına Saife-imleri Menüsini Ekle">
-<!ENTITY removeBookmarksMenu.label          "Alet Çubuğından Saife-imleri Menüsini Çetleştir">
-
 <!ENTITY historyButton.label            "Keçmiş">
 
 <!ENTITY downloads.label              "Endirmeler">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Endirmeler">
-<!ENTITY addons.label                 "Eklentiler">
 
 <!ENTITY webDeveloperMenu.label       "Ağ Keliştiricisi">
 
@@ -111,27 +52,11 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "Keçmiş">
 
-<!ENTITY historyUndoMenu.label "Demi Qapatılğan İlmekler">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Demi Qapatılğan Pencereler">
-
-<!ENTITY appMenuHistory.showAll.label "Bütün Keçmişni Köster">
-
-<!ENTITY appMenuHistory.clearRecent.label "Deminki Keçmişni Temizle…">
-<!ENTITY appMenuHistory.restoreSession.label "Evvelki Oturımnı Keri Tikle">
-<!ENTITY appMenuHistory.viewSidebar.label "Keçmiş Yançubuğını Köster">
-<!ENTITY appMenuHistory.recentHistory.label "Yaqın Keçmiş">
-
 <!ENTITY appMenuHelp.label "Yardım">
-
-<!ENTITY appMenuRemoteTabs.label "Aynılaştırılğan İlmekler">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Açıq ilmekler yoq">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Daa Çoq Köster">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Bu cihazdan daa çoq ilmek köster">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -146,11 +71,7 @@ can reach it easily. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Diger cihazlardan ilmekleriñizni mında köresiñiz kile?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync Tercihlerini Aç">
 <!ENTITY appMenuRemoteTabs.unverified.label "Esabıñız doğrulanmağa muhtac.">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Cihazlarnı İdare Et…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Aynılaştırılğan İlmekler Yan-çubuğını Köster">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Başqa bir Cihaznı Bağla">
-
-<!ENTITY appMenuRecentHighlights.label "Yaqınlardaki Yüksek-ışıtmalar">
 
 <!ENTITY customizeMenu.addToToolbar.label "Alet Çubuğına Ekle">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -162,8 +83,6 @@ can reach it easily. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "l">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Taşqın Menüsine Tüyreme">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "m">
-<!ENTITY customizeMenu.removeFromToolbar.label "Alet Çubuğından Çetleştir">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "Ç">
 <!ENTITY customizeMenu.addMoreItems.label "Daa Çoq Unsur Ekle…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "E">
 
@@ -181,13 +100,6 @@ can reach it easily. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "i">
 
-<!ENTITY pageAction.copyLink.label    "İlişimni Kopiyala">
-
-<!ENTITY saveToPocketCmd.label        "Saifeni Pocket’ke Saqla">
-<!ENTITY pocketMenuitem.label         "Pocket Listesini Köster">
-
-<!ENTITY emailPageCmd.label           "İlişimni E-poçtala…">
-
 <!-- Media (video/audio) controls -->
 
 <!-- LOCALIZATION NOTE :
@@ -199,13 +111,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Miqyasla">
 
 <!ENTITY sidebarCloseButton.tooltip     "Yan çubuqnı qapat">
-
-<!ENTITY quitApplicationCmdWin2.label       "Çıq">
-<!ENTITY quitApplicationCmdWin2.accesskey   "Ç">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; kezicisinden çıq">
-<!ENTITY quitApplicationCmd.label       "Terk Et">
-<!ENTITY quitApplicationCmd.accesskey   "k">
-<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; tatbiqini terk et">
 
 <!ENTITY allowPopups.accesskey "P">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -227,27 +132,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Kezici ilmekleri">
 
 
-<!ENTITY syncBrand.shortName.label    "Sync (Aynılaştır)">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "Avto-gizle">
-
-
 <!ENTITY uiTour.infoPanel.close "Qapat">
 
 <!ENTITY panicButton.thankyou.msg1                "Deminki keçmişiñiz temizlengendir.">
 <!ENTITY panicButton.thankyou.msg2                "Emin kezinüv!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Teşekkürler!">
 
-<!ENTITY updateAvailable.panelUI.label "&brandShorterName; yañartmasını endir">
-
-<!ENTITY updateManual.panelUI.label "&brandShorterName; uyğulamasınıñ yañı bir kopiyasını endiriñiz">
-
-<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; yañartılsın dep kene başlat">
-
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar Aynılaştırıla…">
-
-<!ENTITY pageAction.shareUrl.label "Üleş">
-<!ENTITY pageAction.shareMore.label "Daa çoq…">
 
 <!ENTITY libraryButton.tooltip "Keçmiş, saqlanğan saife-imleri ve daa fazlasını köster">
 

@@ -32,12 +32,6 @@ serviceworker-worker-debug = Hata ayıkla
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Güncelleme: <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = Kaynak
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = Durum
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -47,24 +41,4 @@ serviceworker-worker-status-running = Çalışıyor
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Durduruldu
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Burada denetlemek istediğiniz Service Worker’ı önce kaydetmelisiniz. <a>Daha fazla bilgi alın</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = Geçerli sayfada bir service worker olması gerekiyorsa aşağıdakileri deneyebilirsiniz
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = Konsoldaki hatalara bakın. <a>Konsolu aç</a>
-
-# Suggestion to use the debugger to investigate why a service worker is not registered.
-# Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Service Worker kaydınızı adım adım denetleyerek aykırılıkları arayın. <a>Hata ayıklayıcıyı aç</a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Diğer alan adlarındaki Service Worker’ları denetleyin. <a>about:debugging’i aç</a>
 

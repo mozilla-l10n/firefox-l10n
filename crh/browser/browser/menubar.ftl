@@ -107,9 +107,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Tarir
     .accesskey = T
-menu-edit-find-on =
-    .label = Bu Saifede Tap…
-    .accesskey = T
 menu-edit-find-again =
     .label = Yañıdan Tap
     .accesskey = d
@@ -125,9 +122,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Alet Çubuqları
     .accesskey = A
-menu-view-customize-toolbar =
-    .label = Şahsiyleştir…
-    .accesskey = L
 menu-view-sidebar =
     .label = Yan Çubuq
     .accesskey = n
@@ -158,9 +152,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Temel Saife Uslûbı
     .accesskey = T
-menu-view-charset =
-    .label = Metin Kodlandırması
-    .accesskey = K
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -209,10 +200,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Saife-imleri
     .accesskey = S
-menu-bookmarks-show-all =
-    .label = Saife-imleriniñ Episini Köster
-menu-bookmark-this-page =
-    .label = Bu Saifeni İmle
 menu-bookmark-edit =
     .label = Bu Saifeimini Tarir Et
 menu-bookmarks-all-tabs =
@@ -232,32 +219,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Endirmeler
     .accesskey = d
-menu-tools-addons =
-    .label = Eklentiler
-    .accesskey = E
 menu-tools-sync-now =
     .label = Şimdi Aynılaştır
     .accesskey = A
-menu-tools-web-developer =
-    .label = Ağ Keliştiricisi
-    .accesskey = K
 menu-tools-page-source =
     .label = Saife Menbası
     .accesskey = e
 menu-tools-page-info =
     .label = Saife Malümatı
     .accesskey = M
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] İhtiyariyat
-           *[other] Tercihler
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] t
-           *[other] T
-        }
 menu-tools-layout-debugger =
     .label = Serim İlletsizleştiricisi
     .accesskey = S
@@ -292,28 +262,10 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Yardım
     .accesskey = Y
-menu-help-product =
-    .label = { -brand-shorter-name } Yardımı
-    .accesskey = Y
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Turu
-    .accesskey = T
-menu-help-keyboard-shortcuts =
-    .label = Klavye Qısqayolları
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Arıza Qıdıruv Malümatı
-    .accesskey = A
 menu-help-report-site-issue =
     .label = Sayt Mes'elesini Maruzala…
 menu-help-feedback-page =
     .label = Keri Beslemeni Teslim Et…
-    .accesskey = K
-menu-help-safe-mode-without-addons =
-    .label = Eklentiler Ğayrı Faalleştirilgen Keliş Kene Başlat…
-    .accesskey = B
-menu-help-safe-mode-with-addons =
-    .label = Eklentiler Qabilleştirilgen Keliş Kene Başlat
     .accesskey = K
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from

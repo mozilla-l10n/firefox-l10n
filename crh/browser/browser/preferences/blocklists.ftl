@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Liste
 
-blocklist-button-cancel =
-    .label = Vazgeç
-    .accesskey = V
-
-blocklist-button-ok =
-    .label = Deñişikliklerni Saqla
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Deñişikliklerni Saqla
     .buttonaccesskeyaccept = S

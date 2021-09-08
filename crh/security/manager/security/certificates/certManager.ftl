@@ -19,44 +19,7 @@ certmgr-tab-ca =
 
 certmgr-mine = Bu teşkilâtlardan sizni kimliklendirgen şeadetnameleriñiz bar
 certmgr-people = Bu kişilerni kimliklendirgen dosyelengen şeadetnameleriñiz bar
-certmgr-servers = Bu sunucılarnı kimliklendirgen dosyelengen şeadetnameleriñiz bar
 certmgr-ca = Bu şeadetname salahiyetlerini kimliklendirgen dosyelengen şeadetnameleriñiz bar
-
-certmgr-detail-general-tab-title =
-    .label = Genel
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Ayrıntılar
-    .accesskey = A
-
-certmgr-pending-label =
-    .value = Al-azırda şeadetname doğrulana…
-
-certmgr-subject-label = Onaylanan
-
-certmgr-issuer-label = Düzenleyen
-
-certmgr-period-of-validity = Keçerlilik Devri
-
-certmgr-fingerprints = Parmak izleri
-
-certmgr-cert-detail =
-    .title = Sertifika Ayrıntıları
-    .buttonlabelaccept = Qapat
-    .buttonaccesskeyaccept = Q
-
-certmgr-cert-detail-commonname = Genel İsimler (CN)
-
-certmgr-cert-detail-org = Kurumlar
-
-certmgr-cert-detail-orgunit = Kurumsal Birimler
-
-certmgr-cert-detail-serial-number = Seri Numarası
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 Parmaq-izi
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 Parmak izi
 
 certmgr-edit-ca-cert =
     .title = CA Sertifika Güvenlik Ayarlarını düzenle
@@ -86,12 +49,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Güvenlik Aygıtları
 
-certmgr-begins-on = Başlağanı Tarih
-
 certmgr-begins-label =
     .label = Başlağanı Tarih
-
-certmgr-expires-on = Bitiş tarihi
 
 certmgr-expires-label =
     .label = Bitiş tarihi
@@ -133,18 +92,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = İçe aktar
     .accesskey = a
-
-certmgr-details =
-    .value = Sertifika Alanları
-    .accesskey = S
-
-certmgr-fields =
-    .value = Alan değeri
-    .accesskey = D
-
-certmgr-hierarchy =
-    .value = Şeadetname Hiyerarşisi
-    .accesskey = H
 
 certmgr-add-exception =
     .label = İstisna Ekle…
@@ -208,12 +155,6 @@ delete-user-cert-confirm = Bu sertifikayı silmek istediğinizden emin misiniz?
 delete-user-cert-impact = Kendi sertifikanızı silerseniz, kendi kendinizi kimlik doğrulamada bunu qullanamazsınız.
 
 
-delete-ssl-cert-title =
-    .title = Sunucı Şeadetnamesi İstisnalarını Sil
-delete-ssl-cert-confirm = Bu web saifesiniñ sertifikasını silmek istediğinizden emin misiniz?
-delete-ssl-cert-impact = Eğer bir sunucınıñ sertifikasını silerseniz, bu İnternet Saifesini tekrar ziyaret ettiğinizde bu sertifikayı kabul edip etmediğinizi tekrar sorar.
-
-
 delete-ca-cert-title =
     .title = ŞS Şeadetnamelerini Sil yaki Olarğa İtimat Etme
 delete-ca-cert-confirm = Bu Şeadetnameleme Salâhiyetiniñ şeadetnamelerini silmege rica etken olasıñız. Yapı-içi şeadetnameler içün bütün itimat çetleştirilecek ki, bunıñ da tesiri aynıdır. Silmege yaki itimat etmemege istegeniñizden eminsiñizmi?
@@ -233,45 +174,6 @@ cert-with-serial =
     .value = Aşağıdaki seri numaralı şeadetname: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Şeadetname Seyrettiricisi: “{ $certName }”
-
-not-present =
-    .value = <Sertifika Parçası değil>
-
-# Cert verification
-cert-verified = Bu sertifika şu amaçlar için doğrulandı:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL İstemci Onay Belgesi
-
-verify-ssl-server =
-    .value = SSL Sunucı Onay Belgesi
-
-verify-ssl-ca =
-    .value = SSL Belge Yetkilisi
-
-verify-email-signer =
-    .value = E-Posta İmzalayıcı Onay Belgesi
-
-verify-email-recip =
-    .value = E-Posta Alıcı Onay Belgesi
-
-# Cert verification
-cert-not-verified-cert-revoked = Bu sertifika hükümsüz olduğu için kontrol edilemedi.
-cert-not-verified-cert-expired = Süresi dolduğu için bu sertifika kontrol edilemedi.
-cert-not-verified-cert-not-trusted = Güvenilir olmadığı için Sertifika denetimi yapılamadı.
-cert-not-verified-issuer-not-trusted = Yayınlayana itibar edilmediği için bu sertifika denetimi edilemedi.
-cert-not-verified-issuer-unknown = Yayınlayan belirsiz olduğu için sertifika denetimi yapılamadı.
-cert-not-verified-ca-invalid = CA Sertifikası geçersiz olduğu için bu sertifika kontrol edilemedi.
-cert-not-verified_algorithm-disabled = Şeadetname doğrulanamadı, çünki emniyetli olmağanından dolayı ğayrıqabilleştirilgen bir imza algoritması qullanılaraq imzalandı.
-cert-not-verified-unknown = Bu sertifika bilinmeyen sebeplerden dolayı kontrol edilemedi.
 
 ## Used to show whether an override is temporary or permanent
 

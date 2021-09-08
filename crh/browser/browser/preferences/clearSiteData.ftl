@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Ağ-saytlarınıñ suret ve verilerni kene yüklemesi şart olacaq
 
-clear-site-data-cancel =
-    .label = Vazgeç
-    .accesskey = a
-
-clear-site-data-clear =
-    .label = Temizle
-    .accesskey = T
-
 clear-site-data-dialog =
     .buttonlabelaccept = Temizle
     .buttonaccesskeyaccept = T

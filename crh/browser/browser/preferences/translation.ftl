@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Saytlarnıñ Episini Çetleştir
     .accesskey = i
 
-translation-button-close =
-    .label = Qapat
-    .accesskey = Q
-
 translation-dialog =
     .buttonlabelaccept = Qapat
     .buttonaccesskeyaccept = Q

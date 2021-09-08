@@ -5,31 +5,9 @@
 places-open =
     .label = Aç
     .accesskey = A
-places-open-tab =
-    .label = Yañı Bir İlmekte Aç
-    .accesskey = i
 places-open-all-in-tabs =
     .label = Episini İlmeklerde Aç
     .accesskey = e
-places-open-window =
-    .label = Yañı Bir Pencerede Aç
-    .accesskey = Y
-places-open-private-window =
-    .label = Yañı bir Hususiy Pencerede Aç
-    .accesskey = H
-
-places-new-bookmark =
-    .label = Yañı Saife-imi…
-    .accesskey = s
-places-new-folder-contextmenu =
-    .label = Yañı Cilbent…
-    .accesskey = t
-places-new-folder =
-    .label = Yañı Cilbent…
-    .accesskey = t
-places-new-separator =
-    .label = Yañı Ayırğıç
-    .accesskey = y
 
 places-view =
     .label = Körünim
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = İsim boyunca Sırala
     .accesskey = r
-places-properties =
-    .label = Hasiyetler
-    .accesskey = H
 

@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Bir saife keri bar
-    .aria-label = Keri
-    .accesskey = K
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Bir saife ileri bar
-    .aria-label = İleri
-    .accesskey = l
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = Saifeni Şöyle Saqla…
     .accesskey = F
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = İlişimni Yañı Hususiy Pencerede Aç
     .accesskey = H
 
-main-context-menu-bookmark-this-link =
-    .label = Bu İlişimni İmle
-    .accesskey = B
-
 main-context-menu-save-link =
     .label = İlişimni Şöyle Saqla…
     .accesskey = q
@@ -185,10 +156,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = E-poçta Adresini Kopiyala
     .accesskey = e
-
-main-context-menu-copy-link =
-    .label = İlişim Qonumını Kopiyala
-    .accesskey = K
 
 ## Media (video/audio) controls
 ##
@@ -213,32 +180,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Davuşlandır
     .accesskey = D
-
-main-context-menu-media-play-speed =
-    .label = Oynatma Sür'atı
-    .accesskey = S
-
-main-context-menu-media-play-speed-slow =
-    .label = Yavaş (0.5×)
-    .accesskey = Y
-
-main-context-menu-media-play-speed-normal =
-    .label = Normal
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = Çabuq (1.25×)
-    .accesskey = a
-
-main-context-menu-media-play-speed-faster =
-    .label = Daa çabuq (1.5×)
-    .accesskey = D
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Külkünçli (2×)
-    .accesskey = K
 
 main-context-menu-media-loop =
     .label = İlik
@@ -269,28 +210,8 @@ main-context-menu-image-reload =
     .label = Suretni Kene Yükle
     .accesskey = l
 
-main-context-menu-image-view =
-    .label = Suretke Baq
-    .accesskey = r
-
-main-context-menu-video-view =
-    .label = Videoğa Baq
-    .accesskey = V
-
 main-context-menu-image-copy =
     .label = Suretni Kopiyala
-    .accesskey = K
-
-main-context-menu-image-copy-location =
-    .label = Suret Qonumını Kopiyala
-    .accesskey = m
-
-main-context-menu-video-copy-location =
-    .label = Video Qonumını Kopiyala
-    .accesskey = K
-
-main-context-menu-audio-copy-location =
-    .label = Davuş Qonumını Kopiyala
     .accesskey = K
 
 main-context-menu-image-save-as =
@@ -300,10 +221,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Suretni E-poçtala…
     .accesskey = S
-
-main-context-menu-image-set-as-background =
-    .label = Masaüstü Arqazemini Olaraq Tesbit Et…
-    .accesskey = T
 
 main-context-menu-image-info =
     .label = Suret Malümatını Köster
@@ -320,10 +237,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Davuşnı Şöyle Saqla…
     .accesskey = S
-
-main-context-menu-video-image-save-as =
-    .label = Şipşaq Körüntini Şöyle Saqla…
-    .accesskey = K
 
 main-context-menu-video-email =
     .label = Videonı E-poçtala…
@@ -348,10 +261,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Saifeni Cihazğa Yiber
     .accesskey = n
-
-main-context-menu-view-background-image =
-    .label = Arqazemin Suretini Köster
-    .accesskey = z
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -416,10 +325,6 @@ main-context-menu-view-page-source =
     .label = Saife Menbasını Köster
     .accesskey = e
 
-main-context-menu-view-page-info =
-    .label = Saife Malümatını Köster
-    .accesskey = M
-
 main-context-menu-bidi-switch-text =
     .label = Metin Yönelişini Almaştır
     .accesskey = M
@@ -428,13 +333,10 @@ main-context-menu-bidi-switch-page =
     .label = Saife Yönelişini Almaştır
     .accesskey = Y
 
-main-context-menu-inspect-element =
-    .label = Unsurnı Teftiş Et
-    .accesskey = T
-
 main-context-menu-inspect-a11y-properties =
     .label = İrişilebilirlik Hasiyetlerini Teftiş Et
 
 main-context-menu-eme-learn-more =
     .label = DRM aqqında daa çoq ögren…
     .accesskey = D
+

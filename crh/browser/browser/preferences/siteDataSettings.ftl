@@ -27,14 +27,6 @@ site-data-remove-selected =
     .label = Saylanğannı Çetleştir
     .accesskey = r
 
-site-data-button-cancel =
-    .label = Vazgeç
-    .accesskey = z
-
-site-data-button-save =
-    .label = Deñişikliklerni Saqla
-    .accesskey = S
-
 site-data-settings-dialog =
     .buttonlabelaccept = Deñişikliklerni Saqla
     .buttonaccesskeyaccept = S

@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Er zaman
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Seçenekler
-       *[other] Tercihler
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Seçeneklerde qıdır
-           *[other] Tercihlerde qıdır
-        }
-
 pane-general-title = Umumiy
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +24,6 @@ category-search =
 pane-privacy-title = Hususiyat ve Emniyet
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = { -brand-short-name } Destegi
 addons-button-label = Eklentiler ve Temalar
@@ -79,21 +53,9 @@ restart-later = Soñra kene başlat
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Bir uzantı, <img data-l10n-name="icon"/> { $name }, ev saifeñizni muraqabe ete.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Bir uzantı, <img data-l10n-name="icon"/> { $name }, Yañı İlmek saifeñizni muraqabe ete.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Bu ayarnı bir eklenti, <img data-l10n-name="icon"/> { $name }, muraqabe ete.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Bir eklenti, <img data-l10n-name="icon"/> { $name }, ögbelgilengen qıdırma motorıñıznı tesbit etkendir.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -118,26 +80,11 @@ extension-controlled-enable = Eklentini qabilleştirmek içün <img data-l10n-na
 
 search-results-header = Qıdırma Neticeleri
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Afu etiñiz! Seçenekler'de “<span data-l10n-name="query"></span>” içün neticeler yoq.
-       *[other] Afu etiñiz! Tercihler'de “<span data-l10n-name="query"></span>” içün neticeler yoq.
-    }
-
 search-results-help-link = Yardım kerekmi? <a data-l10n-name="url">{ -brand-short-name } Destegi</a>’ni ziyaret etiñiz.
 
 ## General Section
 
 startup-header = Başlanğıç
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = { -brand-short-name } ve Firefox’nıñ aynı zamanda çalışmasına izin ber
-use-firefox-sync = Qarane: Bu, ayrı profillerni qullanır. Aralarında verilerni aynılaştırmaq içün { -sync-brand-short-name } qullanıñız.
-get-started-not-logged-in = { -sync-brand-short-name } uyğulamasına içeri imzalan…
-get-started-configured = { -sync-brand-short-name } tercihlerini aç
 
 always-check-default =
     .label = Ögbelgilengen kezicimniñ { -brand-short-name } olıp olmağanını er zaman teşker
@@ -177,10 +124,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Müteaddit ilmekniñ açıluvı { -brand-short-name } uyğulamasını belki yavaşlatsa meni tenbile
     .accesskey = k
-
-switch-links-to-new-tabs =
-    .label = Bir ilişimni yañı bir ilmekte açqanımda derhal oña almaş
-    .accesskey = B
 
 show-tabs-in-taskbar =
     .label = İlmek ögbaqışlarını Windows vazife çubuğında köster
@@ -339,11 +282,6 @@ applications-manage-app =
     .label = Uyğulama Tafsilâtı…
 applications-always-ask =
     .label = Er zaman sora
-applications-type-pdf = Taşınabilir Vesiqa Formatı (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -614,8 +552,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 
-search-one-click-header = Tek-çertme Qıdırma Motorları
-
 search-one-click-desc = Bir anahtar kelimeni kirsetmege başlağanıñızda adres çubuğınıñ ve qıdırma çubuğınıñ altında körünecek alternativ qıdırma motorlarını saylañız.
 
 search-choose-engine-column =
@@ -648,9 +584,6 @@ containers-add-button =
     .label = Yañı Konteyner Ekle
     .accesskey = e
 
-containers-preferences-button =
-    .label = Tercihler
-
 containers-remove-button =
     .label = Çetleştir
 
@@ -661,7 +594,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Ağ’ıñıznı Yanıñızda Alıñız
-sync-signedout-description = Saifeimleriñizni, keçmişiñizni, ilmekleriñizni, eklentileriñizni ve tercihleriñizni episi cihazlarıñız arqalı aynılaştırıñız.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -735,15 +667,6 @@ sync-engine-addons =
     .tooltiptext = Masaüstü Firefox eklentileri ve temaları
     .accesskey = E
 
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Seçenekler
-           *[other] Tercihler
-        }
-    .tooltiptext = Değiştirdiğiniz Genel, Gizlilik ve Güvenlik ayarları
-    .accesskey = T
-
 ## The device name controls.
 
 sync-device-name-header = Cihaz adı
@@ -785,14 +708,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Saqlanğan İçeri-imzalanışlar…
     .accesskey = S
-forms-master-pw-use =
-    .label = Usta sır-söz qullan
-    .accesskey = n
 forms-master-pw-change =
     .label = Usta Sır-sözni Deñiştir…
     .accesskey = d
-
-forms-master-pw-fips-title = Al-azırda FIPS tarzındasıñız. FIPS, boş olmağan bir Usta Sır-sözni kerektire.
 
 forms-master-pw-fips-desc = Sır-sözni Deñiştirüv Oñmadı
 
@@ -895,10 +813,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Verilerni İdare Et…
     .accesskey = V
-
-sitedata-cookies-permissions =
-    .label = Ruhsetlerni idare et…
-    .accesskey = R
 
 ## Privacy Section - Address Bar
 
@@ -1016,12 +930,6 @@ permissions-addon-exceptions =
     .label = İstisnalar…
     .accesskey = n
 
-permissions-a11y-privacy-checkbox =
-    .label = İrişilebilirlik hızmetleriniñ kezicime irişmesini öñle
-    .accesskey = E
-
-permissions-a11y-privacy-link = Daha çoq ögren
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Veriler Toplaması ve Qullanımı
@@ -1045,11 +953,6 @@ addon-recommendations-link = Daha çoq ögren
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
-
-collection-backlogged-crash-reports =
-    .label = { -brand-short-name } içün arqa-kütüklengen çöküş maruzalarını adıñızğa yibermege caiz olsun
-    .accesskey = ö
-collection-backlogged-crash-reports-link = Daha çoq ögren
 
 ## Privacy Section - Security
 ##
@@ -1077,16 +980,6 @@ security-block-uncommon-software =
 
 certs-header = Şeadetnameler
 
-certs-personal-label = Bir sunucı şahsiy şeadetnamemni istegeninde
-
-certs-select-auto-option =
-    .label = Birini öz-özünden sayla
-    .accesskey = B
-
-certs-select-ask-option =
-    .label = Er seferinde maña sora
-    .accesskey = e
-
 certs-enable-ocsp =
     .label = Şeadetnamelerniñ keçerliligini teyit etmek içün OCSP cevapçı sunucılarını istifsar et
     .accesskey = d
@@ -1098,34 +991,6 @@ certs-view =
 certs-devices =
     .label = Emniyet Cihazları…
     .accesskey = C
-
-space-alert-learn-more-button =
-    .label = Daa Çoq Ögren
-    .accesskey = r
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Seçeneklerni Aç
-           *[other] Tercihlerni Aç
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] A
-           *[other] A
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } disk fezası tükene. Ağ-saytı muhtevaları münasip körüntilenmeybilir. Mağazlanğan verilerni İhtiyariyat > Hususiyat ve Emniyet > Çörekler ve Sayt Verileri'nden temizleybilirsiñiz.
-       *[other] { -brand-short-name } disk fezası tükene. Ağ-saytı muhtevaları münasip körüntilenmeybilir. Mağazlanğan verilerni Tercihler > Hususiyat ve Emniyet > Çörekler ve Sayt Verileri'nden temizleybilirsiñiz.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = Tamam, Qaptım
-    .accesskey = T
-
-space-alert-under-5gb-message = { -brand-short-name } tarafından qulllanılabilgen disk fezası bitmek üzre. Daa eyi bir kezinti deñeyimi içün disk qullanımıñıznı optimalleştirmege isteseñiz “Daha Çoq Ögren”ni ziyaret etiñiz.
 
 ## Privacy Section - HTTPS-Only
 

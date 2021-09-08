@@ -49,8 +49,6 @@ policy-DisableForgetButton = Unut düğmesine erişimi engelle.
 
 policy-DisableFormHistory = Arama ve form geçmişini hatırlama.
 
-policy-DisableMasterPasswordCreation = true ise ana parola oluşturulamaz.
-
 policy-DisablePocket = Web sayfalarını Pocket'a kaydetme özelliğini devre dışı bırak.
 
 policy-DisablePrivateBrowsing = Gizli gezintiyi devre dışı bırak.

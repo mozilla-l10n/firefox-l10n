@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Ekran Körüntisi Davranışı
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Ekran körüntisi tüyreme-tahtasına
-options-screenshot-clipboard-tooltip =
-    .title = Ekran körüntisini doğrudan tüyreme-tahtasına saqlar
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Kamera qapatıcı davuşını oynat
 options-screenshot-audio-tooltip =
