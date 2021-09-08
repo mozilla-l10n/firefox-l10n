@@ -6,9 +6,6 @@ password-quality-meter = Kvalitetsmåling av passord
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Endre hovudpassord
-
 change-device-password-window =
     .title = Endre passord
 
@@ -20,10 +17,6 @@ change-password-new = Nytt passord:
 change-password-reenter = Nytt passord (igjen):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Still tilbake hovudpassord
-    .style = width: 40em
 
 pippki-failed-pw-change = Klarte ikkje å endre passord.
 pippki-incorrect-pw = Du skreiv ikkje inn rett gjeldande passord. Prøv igjen.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Still tilbake
-reset-password-text = Dersom du stiller tilbake hovudpassordet, vil alle nett- og e-post-passord, skjemadata, personlege sertifikat og private nøklar som er lagra gå tapt. Vil du stille tilbake hovudpassordet?
 
 reset-primary-password-text = Dersom du stiller tilbake hovudpassordet vil alle lagra nettside- og e-postpassord, personlege sertifikat og private nøklar gå tapt. Er du sikker på at du vil tilbakestille hovudpassordet?
 

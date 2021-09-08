@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Signer denne meldinga digitalt">
 <!ENTITY menu_securitySign.accesskey "S">
 
-<!ENTITY menu_securityAttachMyKey.label "Legg ved den offentlege nøkkelen min">
-<!ENTITY menu_securityAttachMyKey.accesskey "o">
-
 <!ENTITY menu_securityTech.label "Krypteringsteknologi">
 <!ENTITY menu_securityTech.accesskey "t">
 

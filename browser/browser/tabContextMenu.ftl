@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Bokmerk fane
     .accesskey = B
-reopen-in-container =
-    .label = Opne på nytt i behaldar
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Opne i ny innhaldsfane
     .accesskey = O
@@ -69,25 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Lat att fleire faner
     .accesskey = f
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Angre attlating av fane
-           *[other] Angre attlating av faner
-        }
-    .accesskey = A
-close-tab =
-    .label = Lat att fane
-    .accesskey = n
-close-tabs =
-    .label = Lat att faner
-    .accesskey = t
-move-tabs =
-    .label = Flytt faner
-    .accesskey = t
-move-tab =
-    .label = Flytt fane
-    .accesskey = t
 tab-context-share-url =
     .label = Del
     .accesskey = D
@@ -125,6 +103,7 @@ tab-context-move-tabs =
            *[other] Flytt faner
         }
     .accesskey = F
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

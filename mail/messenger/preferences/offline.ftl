@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Automatisk følg oppdaga status på tilkopling
     .accesskey = d
 
-startup-label = Manell tilstand ved oppstart:
-
 status-radio-remember =
     .label = Hugs førre tilkoplings-status
     .accesskey = H

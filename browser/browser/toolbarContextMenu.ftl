@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Vel alle faner
     .accesskey = V
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Angre attlating av faner
-           *[other] Angre attlating av faner
-        }
-    .accesskey = A
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fest til overflytsmenyen
     .accesskey = F
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Gøym automatisk i verktøylinja
-    .accesskey = a
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Gøym knapp når han er tom
     .accesskey = G

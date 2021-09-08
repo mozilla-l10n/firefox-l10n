@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Lat att">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "L">
-<!ENTITY printSetupCmd.label                            "Utskriftsformat …">
-<!ENTITY printSetupCmd.accesskey                        "m">
-<!ENTITY printPreviewContactCmd.label                   "Førehandsvising av kort">
-<!ENTITY printPreviewContactCmd.accesskey               "r">
-<!ENTITY printPreviewAddressBook.label                  "Førehandsvising av adressebok">
-<!ENTITY printPreviewAddressBook.accesskey              "F">
 <!ENTITY printContactCmd.label                          "Skriv ut kontakt…">
 <!ENTITY printContactCmd.accesskey                      "S">
 <!ENTITY printContactCmd.key                            "P">
@@ -108,10 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "m">
 <!ENTITY exportCmd.label                                "Eksporter …">
 <!ENTITY exportCmd.accesskey                            "k">
-<!ENTITY preferencesCmd2.label                          "Innstillingar">
-<!ENTITY preferencesCmd2.accesskey                      "I">
-<!ENTITY preferencesCmdUnix.label                       "Innstillingar …">
-<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Ny kontakt">

@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Serifflaus skrift
 
-font-size-label =
-    .value = Storleik:
-    .accesskey = r
-
 font-size-proportional-label =
     .value = Storleik:
     .accesskey = e
