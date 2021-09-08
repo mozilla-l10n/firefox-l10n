@@ -86,9 +86,6 @@ no-proxy-label =
 
 no-proxy-example = Näide: .mozilla.org, .net.nz, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = localhosti, 127.0.0.1 ja ::1 peale suunduvaid ühendusi ei suunata kunagi läbi puhverserveri.
-
 proxy-password-prompt =
     .label = Salvestatud paroolide korral autentimist ei küsita
     .accesskey = r

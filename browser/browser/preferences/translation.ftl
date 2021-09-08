@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Eemalda kõik saidid
     .accesskey = k
 
-translation-button-close =
-    .label = Sulge
-    .accesskey = u
-
 translation-dialog =
     .buttonlabelaccept = Sulge
     .buttonaccesskeyaccept = u

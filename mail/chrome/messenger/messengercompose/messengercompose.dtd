@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Uus">
 <!ENTITY newMenu.accesskey "U">
 <!ENTITY newMessage.label "Kiri">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "K">
 <!ENTITY newContact.label "Aadressiraamatu kontakt...">
 <!ENTITY newContact.accesskey "d">
 <!ENTITY attachMenu.label "Lisamine">
 <!ENTITY attachMenu.accesskey "L">
-<!ENTITY attachFileCmd.label "Fail(id)...">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Fail(id) kasutades teenust">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Veebileht...">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Saada hiljem">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "h">
-<!ENTITY printSetupCmd.label "Printimise sätted...">
-<!ENTITY printSetupCmd.accesskey "r">
-<!ENTITY printPreviewCmd.label "Lehekülje eelvaade">
-<!ENTITY printPreviewCmd.accesskey "e">
 <!ENTITY printCmd.label "Prindi...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Muuda manuste järjestust…">
 <!ENTITY reorderAttachmentsCmd.accesskey "j">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Manuste paneel">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "M">
 <!ENTITY selectAllCmd.accesskey "i">
 <!ENTITY findBarCmd.label "Otsi…">
 <!ENTITY findBarCmd.accesskey "O">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Muuda manuste järjestust">
-<!ENTITY moveAttachmentTopPanelBtn.label "Liiguta esimeseks">
-<!ENTITY moveAttachmentUpPanelBtn.label "Liiguta üles">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Liiguta koos">
-<!ENTITY moveAttachmentDownPanelBtn.label "Liiguta alla">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Liiguta viimaseks">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Kontode sätted">
 <!ENTITY accountManagerCmd2.accesskey "K">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
-<!ENTITY preferencesCmd2.label "Valikud">
-<!ENTITY preferencesCmd2.accesskey "V">
-<!ENTITY preferencesCmdUnix.label "Eelistused">
-<!ENTITY preferencesCmdUnix.accesskey "E">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "M">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Saada">
 <!ENTITY quoteButton.label "Tsiteeri">
 <!ENTITY addressButton.label "Kontaktid">
-<!ENTITY attachButton.label "Lisa">
 <!ENTITY spellingButton.label "Õigekiri">
 <!ENTITY saveButton.label "Salvesta">
 <!ENTITY printButton.label "Prindi">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Saada kiri hiljem">
 <!ENTITY quoteButton.tooltip "Tsiteeri eelnevat kirja">
 <!ENTITY addressButton.tooltip "Vali kirja saaja aadressiraamatust">
-<!ENTITY attachButton.tooltip2 "Lisa manus">
 <!ENTITY spellingButton.tooltip "Kontrolli valiku või terve kirja õigekirja">
 <!ENTITY saveButton.tooltip "Salvesta see kiri">
 <!ENTITY cutButton.tooltip              "Lõika">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Muud tüüpi aadressiväljad">
 <!ENTITY fromAddr2.label "Saatja">
 <!ENTITY fromAddr.accesskey "j">
-<!ENTITY toAddr2.label "Saaja">
-<!ENTITY ccAddr2.label "Koopia">
-<!ENTITY bccAddr2.label "Pimekoopia">
 <!ENTITY replyAddr2.label "Vastamise aadress">
 <!ENTITY newsgroupsAddr2.label "Uudistegrupp">
 <!ENTITY followupAddr2.label "Järg postitusele">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "õ">
 <!ENTITY selectAll.label "Vali kõik">
 <!ENTITY selectAll.accesskey "l">
-<!ENTITY attachFile.label "Lisa fail(id)...">
-<!ENTITY attachFile.accesskey "i">
 <!ENTITY attachCloud.label "Lisa fail(id) kasutades teenust…">
 <!ENTITY attachCloud.accesskey "k">
 <!ENTITY convertCloud.label "Liiguta pilve või pilvest tavaliseks manuseks…">

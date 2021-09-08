@@ -19,44 +19,7 @@ certmgr-tab-ca =
 
 certmgr-mine = Sul on sind tuvastavaid sertifikaate järgnevatelt asutustelt
 certmgr-people = Sul on järgnevaid inimesi tuvastavaid sertifikaate
-certmgr-servers = Sul on järgnevaid servereid tuvastavaid sertifikaate
 certmgr-ca = Sul on järgnevaid sertifitseerimiskeskusi tuvastavaid sertifikaate
-
-certmgr-detail-general-tab-title =
-    .label = Üldine
-    .accesskey = l
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Üksikasjad
-    .accesskey = k
-
-certmgr-pending-label =
-    .value = Sertifikaadi verifitseerimine...
-
-certmgr-subject-label = Omanik
-
-certmgr-issuer-label = Väljaandja
-
-certmgr-period-of-validity = Kehtivusaeg
-
-certmgr-fingerprints = Sõrmejälg
-
-certmgr-cert-detail =
-    .title = Sertifikaadi üksikasjad
-    .buttonlabelaccept = Sulge
-    .buttonaccesskeyaccept = S
-
-certmgr-cert-detail-commonname = Üldnimi (CN)
-
-certmgr-cert-detail-org = Asutus (O)
-
-certmgr-cert-detail-orgunit = Allüksus (OU)
-
-certmgr-cert-detail-serial-number = Seerianumber
-
-certmgr-cert-detail-sha-256-fingerprint = SHA256-sõrmejälg
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1-sõrmejälg
 
 certmgr-edit-ca-cert =
     .title = SK sertifikaadi usaldusväärsuse sätete redigeerimine
@@ -86,12 +49,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Turvaseade
 
-certmgr-begins-on = Kehtiv alates
-
 certmgr-begins-label =
     .label = Kehtiv alates
-
-certmgr-expires-on = Kehtiv kuni
 
 certmgr-expires-label =
     .label = Kehtiv kuni
@@ -133,18 +92,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Impordi...
     .accesskey = I
-
-certmgr-details =
-    .value = Sertifikaadi väljad
-    .accesskey = f
-
-certmgr-fields =
-    .value = Välja väärtus
-    .accesskey = j
-
-certmgr-hierarchy =
-    .value = Sertifikaadipuu
-    .accesskey = p
 
 certmgr-add-exception =
     .label = Lisa erand...
@@ -208,12 +155,6 @@ delete-user-cert-confirm = Kas oled kindel, et soovid neid sertifikaate kustutad
 delete-user-cert-impact = Kui kustutad mõne enda sertifikaadi, ei ole sul võimalik end sellega enam tuvastada.
 
 
-delete-ssl-cert-title =
-    .title = Serveri sertifikaadi erandite kustutamine
-delete-ssl-cert-confirm = Kas oled kindel, et soovid kustutada need serveri erandid?
-delete-ssl-cert-impact = Serveri erandi kustutamisega taastad selle serveri jaoks tavalised turvakontrollid ning serverilt nõutakse taas valideeruvat sertifikaati.
-
-
 delete-ca-cert-title =
     .title = SK sertifikaadi kustutamine või usaldusväärsuse eemaldamine
 delete-ca-cert-confirm = Oled avaldanud soovi kustutada need SK sertifikaadid. Sisseehitatud sertifikaatidelt eemaldatakse kogu nende usaldusväärsus, mis annab sama efekti. Kas oled kindel, et soovid kustutamise või usaldusväärsuse eemaldamisega jätkata?
@@ -233,45 +174,6 @@ cert-with-serial =
     .value = Järgneva seerianumbriga sertifikaat: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Serdivaatur: “{ $certName }”
-
-not-present =
-    .value = <Pole sertifikaadi osa>
-
-# Cert verification
-cert-verified = Sertifikaat verifitseeriti järgnevateks otstarveteks:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL-i kliendi sertifikaat
-
-verify-ssl-server =
-    .value = SSL-i serveri sertifikaat
-
-verify-ssl-ca =
-    .value = SSL-i sertifitseerimiskeskus
-
-verify-email-signer =
-    .value = E-kirja signeerija sertifikaat
-
-verify-email-recip =
-    .value = E-kirja saaja sertifikaat
-
-# Cert verification
-cert-not-verified-cert-revoked = Sertifikaati pole võimalik verifitseerida, kuna see on tühistatud.
-cert-not-verified-cert-expired = Sertifikaati pole võimalik verifitseerida, kuna see on aegunud.
-cert-not-verified-cert-not-trusted = Sertifikaati pole võimalik verifitseerida, kuna see pole usaldusväärne.
-cert-not-verified-issuer-not-trusted = Sertifikaati pole võimalik verifitseerida, kuna selle väljaandja pole usaldusväärne.
-cert-not-verified-issuer-unknown = Sertifikaati pole võimalik verifitseerida, kuna selle väljaandja on tundmatu.
-cert-not-verified-ca-invalid = Sertifikaati pole võimalik verifitseerida, kuna SK sertifikaat on vigane.
-cert-not-verified_algorithm-disabled = Sertifikaati pole võimalik verifitseerida, kuna see signeeriti sellise signeerimisalgoritmi abil, mis on algoritmi ebaturvalisuse tõttu keelatud.
-cert-not-verified-unknown = Sertifikaati pole teadmata põhjusel võimalik verifitseerida.
 
 ## Used to show whether an override is temporary or permanent
 

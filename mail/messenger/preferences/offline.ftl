@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Järgitakse automaatselt tuvastatud võrgurežiimi
     .accesskey = J
 
-startup-label = Käivitamisel kasutatav käsitsi määratud olek:
-
 status-radio-remember =
     .label = kasutatakse eelnenud võrgurežiimi olekut
     .accesskey = u

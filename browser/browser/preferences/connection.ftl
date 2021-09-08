@@ -39,11 +39,6 @@ connection-proxy-http-port = Port
 connection-proxy-ssl-port = Port
     .accesskey = o
 
-connection-proxy-ftp = FTP-puhverserver
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = t
-
 connection-proxy-socks = SOCKS masin
     .accesskey = C
 connection-proxy-socks-port = Port
@@ -59,9 +54,6 @@ connection-proxy-noproxy = Erandid
     .accesskey = n
 
 connection-proxy-noproxy-desc = Näide: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = localhosti, 127.0.0.1 ja ::1 peale suunduvaid ühendusi ei suunata kunagi läbi puhverserveri.
 
 connection-proxy-autotype =
     .label = Puhverserveri automaatse häälestuse URL

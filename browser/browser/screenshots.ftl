@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Tee ekraanipilt
-
-screenshots-my-shots-button = Minu pildid
-
 screenshots-instructions = Ala valimiseks klõpsa või lohista lehel. Tühistamiseks vajuta ESC.
 screenshots-cancel-button = Tühista
 screenshots-save-visible-button = Salvesta nähtav
@@ -36,8 +32,6 @@ screenshots-login-error-details = Ekraanipildi salvestamine ebaõnnestus { -scre
 
 screenshots-unshootable-page-error-title = Sellest lehest ei saa ekraanipilti teha.
 screenshots-unshootable-page-error-details = Tegemist pole standardse veebilehega, seetõttu ei saa sellest ekraanipilti teha.
-
-screenshots-self-screenshot-error-title = { -screenshots-brand-name } lehest ei saa ekraanipilti teha!
 
 screenshots-empty-selection-error-title = Valik on liiga väike
 

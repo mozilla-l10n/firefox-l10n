@@ -13,7 +13,6 @@
 <!ENTITY subscribeFeeds.label         "Halda tellimusi">
 
 <!ENTITY chat.label                   "Kiirsuhtlus">
-<!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "Kontod">
 <!ENTITY subscribeImapFolders.label   "Halda kaustade tellimusi">

@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey                "S">
 <!ENTITY deleteCmd.label                  "Kustuta">
 <!ENTITY deleteCmd.accesskey              "K">
-<!ENTITY preferencesCmd2.label            "Valikud">
-<!ENTITY preferencesCmd2.accesskey        "V">
-<!ENTITY preferencesCmdUnix.label         "Eelistused">
-<!ENTITY preferencesCmdUnix.accesskey     "E">
 
 <!ENTITY viewMenu.label                   "Vaade">
 <!ENTITY viewMenu.accesskey               "V">

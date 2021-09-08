@@ -41,9 +41,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Lisa kaart järjehoidjatesse
     .accesskey = j
-reopen-in-container =
-    .label = Taasava konteineris
-    .accesskey = o
 move-to-start =
     .label = Liiguta algusesse
     .accesskey = a
@@ -56,25 +53,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Sulge mitu kaarti
     .accesskey = m
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [one] Võta kaardi sulgemine tagasi
-           *[other] Võta kaartide sulgemine tagasi
-        }
-    .accesskey = V
-close-tab =
-    .label = Sulge kaart
-    .accesskey = S
-close-tabs =
-    .label = Sulge kaardid
-    .accesskey = S
-move-tabs =
-    .label = Liiguta kaarte
-    .accesskey = i
-move-tab =
-    .label = Liiguta kaarti
-    .accesskey = i
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -93,6 +71,7 @@ tab-context-move-tabs =
            *[other] Liiguta kaarte
         }
     .accesskey = L
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

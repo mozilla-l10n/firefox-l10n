@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Kustuta valitud
     .accesskey = K
 
-site-data-button-cancel =
-    .label = Loobu
-    .accesskey = L
-
-site-data-button-save =
-    .label = Salvesta muudatused
-    .accesskey = S
-
 site-data-settings-dialog =
     .buttonlabelaccept = Salvesta muudatused
     .buttonaccesskeyaccept = S

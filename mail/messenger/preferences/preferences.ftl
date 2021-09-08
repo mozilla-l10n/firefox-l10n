@@ -6,13 +6,6 @@
 close-button =
     .aria-label = Sulge
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Valikud
-           *[other] Eelistused
-        }
-
 pane-general-title = Üldine
 category-general =
     .tooltiptext = { pane-general-title }
@@ -108,8 +101,6 @@ update-in-progress-ok-button = &Loobu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jätka
 
-addons-button = Laiendused ja teemad
-
 ## OS Authentication dialog
 
 
@@ -170,10 +161,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Kohanda...
     .accesskey = K
-
-tray-icon-label =
-    .label = Kuvatakse süsteemisalve ikooni
-    .accesskey = v
 
 mail-custom-sound-label =
     .label = kasutatakse järgnevat helifaili
@@ -360,9 +347,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Värv:
     .accesskey = V
-
-search-input =
-    .placeholder = Otsi
 
 type-column-label =
     .label = Sisu tüüp
@@ -651,16 +635,6 @@ passwords-button =
     .label = Salvestatud paroolid…
     .accesskey = S
 
-master-password-description = Kui ülemparool on määratud, kaitseb see sinu paroole, kuid sa pead sisestama selle seansi alguses.
-
-master-password-label =
-    .label = Kasutatakse ülemparooli
-    .accesskey = K
-
-master-password-button =
-    .label = Muuda ülemparooli…
-    .accesskey = M
-
 
 junk-description = Määra oma vaikimisi rämpsposti sätted. Kontopõhiseid rämpsposti sätteid saab häälestada konto sätetes.
 
@@ -827,10 +801,6 @@ no-preview-description = See teema pole korrektne või pole praegu saadaval (kee
 chat-variant-label =
     .value = Variant:
     .accesskey = V
-
-chat-header-label =
-    .label = Kuva päist
-    .accesskey = K
 
 ## Preferences UI Search Results
 

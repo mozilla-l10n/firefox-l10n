@@ -5,31 +5,9 @@
 places-open =
     .label = Ava
     .accesskey = A
-places-open-tab =
-    .label = Ava uuel kaardil
-    .accesskey = u
 places-open-all-in-tabs =
     .label = Ava kõik kaartidel
     .accesskey = k
-places-open-window =
-    .label = Ava uues aknas
-    .accesskey = v
-places-open-private-window =
-    .label = Ava uues privaatses aknas
-    .accesskey = p
-
-places-new-bookmark =
-    .label = Uus järjehoidja…
-    .accesskey = j
-places-new-folder-contextmenu =
-    .label = Uus kaust…
-    .accesskey = t
-places-new-folder =
-    .label = Uus kaust…
-    .accesskey = k
-places-new-separator =
-    .label = Uus eraldaja
-    .accesskey = d
 
 places-view =
     .label = Näita
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Sordi nime järgi
     .accesskey = r
-places-properties =
-    .label = Omadused
-    .accesskey = O
 

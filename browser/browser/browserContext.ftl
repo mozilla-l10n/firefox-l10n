@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Tagasi üks leht
-    .aria-label = Tagasi
-    .accesskey = T
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Edasi üks leht
-    .aria-label = Edasi
-    .accesskey = E
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = Salvesta veebileht kui…
     .accesskey = a
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = Ava link uues privaatses aknas
     .accesskey = k
 
-main-context-menu-bookmark-this-link =
-    .label = Lisa see link järjehoidjatesse
-    .accesskey = n
-
 main-context-menu-save-link =
     .label = Salvesta link kui…
     .accesskey = k
@@ -185,10 +156,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Kopeeri e-posti aadress
     .accesskey = i
-
-main-context-menu-copy-link =
-    .label = Kopeeri lingi aadress
-    .accesskey = o
 
 ## Media (video/audio) controls
 ##
@@ -213,32 +180,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Võta summutamine maha
     .accesskey = m
-
-main-context-menu-media-play-speed =
-    .label = Esitamise kiirus
-    .accesskey = k
-
-main-context-menu-media-play-speed-slow =
-    .label = Aegluubis (0.5×)
-    .accesskey = g
-
-main-context-menu-media-play-speed-normal =
-    .label = Tavaline
-    .accesskey = T
-
-main-context-menu-media-play-speed-fast =
-    .label = Kiirendatud (1.25×)
-    .accesskey = i
-
-main-context-menu-media-play-speed-faster =
-    .label = Veel rohkem kiirendatud (1.5×)
-    .accesskey = e
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Naeruväärselt kiire (2×)
-    .accesskey = N
 
 main-context-menu-media-loop =
     .label = Kordamine
@@ -265,39 +206,13 @@ main-context-menu-media-video-leave-fullscreen =
     .label = Välju täisekraanirežiimist
     .accesskey = t
 
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Pilt-pildis
-    .accesskey = P
-
 main-context-menu-image-reload =
     .label = Laadi pilt uuesti
     .accesskey = L
 
-main-context-menu-image-view =
-    .label = Vaata pilti
-    .accesskey = t
-
-main-context-menu-video-view =
-    .label = Vaata videot
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = Kopeeri pilt
     .accesskey = e
-
-main-context-menu-image-copy-location =
-    .label = Kopeeri pildi aadress
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Kopeeri video aadress
-    .accesskey = e
-
-main-context-menu-audio-copy-location =
-    .label = Kopeeri audio aadress
-    .accesskey = p
 
 main-context-menu-image-save-as =
     .label = Salvesta pilt kui…
@@ -306,10 +221,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Saada pilt e-postiga…
     .accesskey = d
-
-main-context-menu-image-set-as-background =
-    .label = Määra taustapildiks…
-    .accesskey = M
 
 main-context-menu-image-info =
     .label = Vaata pildi teavet
@@ -325,10 +236,6 @@ main-context-menu-video-save-as =
 
 main-context-menu-audio-save-as =
     .label = Salvesta audio kui…
-    .accesskey = a
-
-main-context-menu-video-image-save-as =
-    .label = Salvesta hetkvõte kui…
     .accesskey = a
 
 main-context-menu-video-email =
@@ -354,10 +261,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Saada leht seadmesse
     .accesskey = h
-
-main-context-menu-view-background-image =
-    .label = Vaata taustapilti
-    .accesskey = s
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -422,10 +325,6 @@ main-context-menu-view-page-source =
     .label = Vaata veebilehe lähtekoodi
     .accesskey = t
 
-main-context-menu-view-page-info =
-    .label = Vaata veebilehe teavet
-    .accesskey = i
-
 main-context-menu-bidi-switch-text =
     .label = Muuda teksti suunda
     .accesskey = d
@@ -434,13 +333,10 @@ main-context-menu-bidi-switch-page =
     .label = Muuda lehe suunda
     .accesskey = h
 
-main-context-menu-inspect-element =
-    .label = Inspekteeri elementi
-    .accesskey = n
-
 main-context-menu-inspect-a11y-properties =
     .label = Inspect Accessibility Properties
 
 main-context-menu-eme-learn-more =
     .label = Rohkem teavet DRMi kohta…
     .accesskey = D
+

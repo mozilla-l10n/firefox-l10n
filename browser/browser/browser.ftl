@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (privaatne veebilehitsemine)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (privaatne veebilehitsemine)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (privaatne veebilehitsemine)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (privaatne veebilehitsemine)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -109,6 +111,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Sisesta vähem, leia rohkem: otsi otsingumootoriga { $engineName } otse oma aadressiribalt.
 urlbar-search-tips-redirect-2 = Alusta oma otsingut aadressiribalt, et näha soovitusi otsingumootorilt { $engineName } ning oma lehitsemise ajaloost.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Kiiremaks otsimiseks vali see otsetee.
@@ -145,10 +148,12 @@ urlbar-midi-blocked =
     .tooltiptext = Oled sellel lehel keelanud ligipääsu MIDIle.
 urlbar-install-blocked =
     .tooltiptext = Oled sellel lehel keelanud lisade paigaldamise.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Muuda seda järjehoidjat ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -156,12 +161,8 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
-page-action-add-to-urlbar =
-    .label = Lisa aadressiribale
 page-action-manage-extension =
     .label = Halda laiendust…
-page-action-remove-from-urlbar =
-    .label = Eemalda aadressiribalt
 page-action-remove-extension =
     .label = Eemalda laiendus
 
@@ -179,12 +180,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Seekord soorita otsing järgneva otsingumootoriga:
-# This string won't wrap, so if the translated string is longer,
-# consider translating it as if it said only "Search Settings".
-search-one-offs-change-settings-button =
-    .label = Muuda otsingu sätteid
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Otsingu sätete muutmine
+
 search-one-offs-context-open-new-tab =
     .label = Soorita otsing uuel kaardil
     .accesskey = S
@@ -194,12 +193,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Määra privaatsete akende vaikeotsingumootoriks
     .accesskey = M
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -236,8 +237,7 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Lisamisel kuvatakse seda dialoogi
     .accesskey = d
-bookmark-panel-done-button =
-    .label = Sobib
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -264,8 +264,7 @@ identity-passive-loaded = Mõned selle lehe osad on ebaturvalised (nt pildid).
 identity-active-loaded = Kaitse sellel lehel on keelatud.
 identity-weak-encryption = See leht kasutab nõrka krüpteeringut.
 identity-insecure-login-forms = Sellele lehele sisestatavad kasutajakonto andmed võivad ohus olla.
-identity-permissions =
-    .value = Õigused
+
 identity-https-only-connection-upgraded = (uuendati HTTPSile)
 identity-https-only-label = Ainult HTTPS-režiim
 identity-https-only-dropdown-on =
@@ -274,8 +273,8 @@ identity-https-only-dropdown-off =
     .label = väljas
 identity-https-only-dropdown-off-temporarily =
     .label = ajutiselt väljas
+
 identity-permissions-reload-hint = Muudatuste rakendumiseks pead võib-olla lehe uuesti laadima.
-identity-permissions-empty = Sellele saidile pole tagatud ühtki eriõigust.
 identity-clear-site-data =
     .label = Kustuta küpsised ja saidi andmed…
 identity-connection-not-secure-security-view = Ühendus selle saidiga pole turvaline.
@@ -326,12 +325,6 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = Jagatav kaamera:
-    .accesskey = J
-popup-select-microphone =
-    .value = Jagatav mikrofon:
-    .accesskey = m
 popup-all-windows-shared = Jagatakse kõiki nähtavaid aknaid sinu ekraanil.
 
 ## WebRTC window or screen share tab switch warning
@@ -342,31 +335,29 @@ popup-all-windows-shared = Jagatakse kõiki nähtavaid aknaid sinu ekraanil.
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = Otsi või sisesta aadress
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Otsi või sisesta aadress
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Veebilehitseja on kaugjuhtimisel
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Otsi otsingumootoriga { $name } või sisesta veebiaadress
+
 urlbar-permissions-granted =
     .tooltiptext = Sa oled taganud sellele saidile täiendavaid õigusi.
 urlbar-switch-to-tab =
     .value = Lülitu kaardile:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Laiendus:
+
 urlbar-go-button =
     .tooltiptext = Mine aadressiribal olevale aadressile
 urlbar-page-action-button =
     .tooltiptext = Lehe toimingud
-urlbar-pocket-button =
-    .tooltiptext = Salvesta { -pocket-brand-name }isse
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -394,9 +385,12 @@ urlbar-result-action-visit = Külasta
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = Sait <span data-l10n-name="domain">{ $domain }</span> on nüüd täisekraanirežiimis
 fullscreen-warning-no-domain = See dokument on nüüd täisekraanirežiimis
+
+
 fullscreen-exit-button = Välju täisekraanirežiimist (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Välju täisekraanirežiimist (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -442,6 +436,7 @@ bookmarks-tools =
     .label = Järjehoidjate tööriistad
 bookmarks-bookmark-edit-panel =
     .label = Muuda seda järjehoidjat
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -478,6 +473,7 @@ save-to-pocket-button =
 more-menu-go-offline =
     .label = Tööta võrguta
     .accesskey = T
+
 toolbar-overflow-customize-button =
     .label = Kohanda tööriistariba…
     .accesskey = K
@@ -506,6 +502,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Luba hüpikaknad aadressilt { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Bloki hüpikaknad aadressilt { $uriHost }
     .accesskey = p
@@ -515,6 +512,7 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Seda teadet ei näidata, kui hüpikaknad blokitakse
     .accesskey = d
+
 picture-in-picture-hide-toggle =
     .label = Peida pilt-pildis lüliti
     .accesskey = p

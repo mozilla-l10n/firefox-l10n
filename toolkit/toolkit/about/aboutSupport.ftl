@@ -13,11 +13,6 @@ crashes-id = Raporti ID
 crashes-send-date = Saatmise aeg
 crashes-all-reports = Kõik vearaportid
 crashes-no-config = See rakendus pole häälestatud vearaporteid kuvama.
-extensions-title = Laiendused
-extensions-name = Nimi
-extensions-enabled = Lubatud
-extensions-version = Versioon
-extensions-id = ID
 support-addons-name = Nimi
 support-addons-version = Versioon
 support-addons-id = ID
@@ -116,8 +111,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Protsessi tüüp
 sandbox-sys-call-number = Süsteemikutse
 sandbox-sys-call-args = Argumendid
-safe-mode-title = Proovi ohutut režiimi
-restart-in-safe-mode-label = Taaskäivita koos lisade keelamisega…
 
 ## Media titles
 
@@ -258,19 +251,12 @@ webgl2-renderer = WebGL 2 renderdaja
 webgl2-version = WebGL 2 draiveri versioon
 webgl2-driver-extensions = WebGL 2 draiveri laiendused
 webgl2-extensions = WebGL 2 laiendused
-blocklisted-bug = Teadaolevate vigade tõttu blokitud
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = vearaport number { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Teadaoleva vea tõttu blokitud; veakood: { $failureCode }
 
 d3d11layers-crash-guard = D3D11 komposiitor
-d3d11video-crash-guard = D3D11 video dekodeerija
-d3d9video-crash-guard = D3D9 video dekodeerija
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Lähtesta järgmisel taaskäivitusel
@@ -308,14 +294,6 @@ launcher-process-status-unknown = tundmatu olek
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = lubatud kasutaja poolt
-multi-process-status-1 = vaikimisi lubatud
-multi-process-status-2 = keelatud
-multi-process-status-4 = keelatud hõlbustustööriistade poolt
-multi-process-status-6 = keelatud toetuseta teksti sisestamise tõttu
-multi-process-status-7 = keelatud lisade poolt
-multi-process-status-8 = keelatud jõuga
-multi-process-status-unknown = tundmatu olek
 
 async-pan-zoom = Asünkroonne suurendamine
 apz-none = puudub

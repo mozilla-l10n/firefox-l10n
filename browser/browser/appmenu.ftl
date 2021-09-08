@@ -6,8 +6,6 @@
 ## App Menu
 
 appmenuitem-protection-dashboard-title = Kaitsete koondpaneel
-appmenuitem-customize-mode =
-    .label = Kohanda...
 
 ## Zoom Controls
 
@@ -31,29 +29,28 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Sünkroniseeri kohe
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Kuva kõiki
-    .tooltiptext = Kuva kõiki selle seadme kaarte
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Avatud kaarte pole
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Teistes seadmetes avatud kaartide nägemiseks lülita sisse kaartide sünkroniseerimine.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Soovid näha teistes seadmetes avatud kaarte?
+
 appmenu-remote-tabs-connectdevice =
     .label = Ühenda teine seade
 appmenu-remote-tabs-welcome = Vaata teistes seadmetes avatud kaartide nimekirja.
 appmenu-remote-tabs-unverified = Sinu konto vajab kinnitamist.
+
 appmenuitem-save-page =
     .label = Salvesta veebileht kui…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Mis on uut?
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -106,3 +103,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Tegumihaldur
+

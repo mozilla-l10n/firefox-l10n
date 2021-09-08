@@ -11,13 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "A">
 <!ENTITY aboutProduct2.label "&brandShorterName;i teave">
 <!ENTITY aboutProduct2.accesskey "t">
-<!ENTITY helpTroubleshootingInfo.label     "Probleemide lahendamise teave">
-<!ENTITY helpTroubleshootingInfo.accesskey "P">
-<!ENTITY helpSafeMode.label     "Taaskäivita koos lisade keelamisega…">
-<!ENTITY helpSafeMode.accesskey "T">
 
-<!ENTITY helpSafeMode.stop.label     "Taaskäivita koos lisade lubamisega">
-<!ENTITY helpSafeMode.stop.accesskey "T">
 <!ENTITY productHelp.label "&brandShortName;i käsiraamat">
 <!ENTITY productHelp.accesskey "k">
 <!ENTITY productHelp.commandkey "VK_F1">
