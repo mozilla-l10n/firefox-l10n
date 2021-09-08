@@ -16,7 +16,3 @@ translation-sites-button-remove-all =
     .label = Stoó ntii sitio
     .accesskey = S
 
-translation-button-close =
-    .label = Kasi
-    .accesskey = K
-

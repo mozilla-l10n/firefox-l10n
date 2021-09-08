@@ -6,28 +6,6 @@ do-not-track-learn-more = Skua'a kuakaa
 do-not-track-option-always =
     .label = Ntikiì
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Preferencias
-       *[other] Preferencias
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 18.5em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Nduku nu opciones
-           *[other] Ndane'e nu configuraciones
-        }
-
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -43,10 +21,6 @@ category-search =
 pane-privacy-title = Ña i'í tsi ña kunka vaa
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = { -brand-short-name }Soporte
 
@@ -75,18 +49,6 @@ restart-later = Ndakitsa nunu ka
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = In extensión, <img data-l10n-name="icon"/> { $name }, Chachuin página nu kitsau.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = In extensión, <img data-l10n-name="icon"/> { $name }, chichuin página xikua  tsaà .
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Iin extensión, <img data-l10n-name="icon"/> { $name }, tsikunkai tana ña ndukuku.
-
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Iin extensión, <img data-l10n-name="icon"/> { $name }, tsiniñui xikua.
@@ -102,9 +64,6 @@ search-results-header = Nduku resultados
 ## General Section
 
 startup-header = Xina
-
-get-started-not-logged-in = Kitsa nu { -sync-brand-short-name }…
-get-started-configured = Kuna preferencias ña { -sync-brand-short-name }
 
 tabs-group-header = Xikua
 
@@ -402,13 +361,9 @@ permissions-addon-exceptions =
     .label = Excepciones…
     .accesskey = e
 
-permissions-a11y-privacy-link = Kavi
-
 ## Privacy Section - Data Collection
 
 collection-health-report-link = Kavi
-
-collection-backlogged-crash-reports-link = Kavi
 
 ## Privacy Section - Security
 ##

@@ -9,11 +9,3 @@ clear-site-data-window =
 clear-site-data-close-key =
     .key = w
 
-clear-site-data-cancel =
-    .label = Kunchatu
-    .accesskey = k
-
-clear-site-data-clear =
-    .label = Stòo
-    .accesskey = s
-

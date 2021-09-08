@@ -5,12 +5,6 @@
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -18,12 +12,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -58,9 +46,6 @@ toolbar-button-stop-reload =
 ## Firefox Account Button
 
 ## Save Page
-
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
@@ -102,32 +87,6 @@ main-context-menu-media-unmute =
     .label = Kuchaa soo n'dusu
     .accesskey = m
 
-main-context-menu-media-play-speed =
-    .label = Kitsa vichi
-    .accesskey = d
-
-main-context-menu-media-play-speed-slow =
-    .label = Kue (0.5 ×)
-    .accesskey = S
-
-main-context-menu-media-play-speed-normal =
-    .label = Normal
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = Vichi (1.25×)
-    .accesskey = F
-
-main-context-menu-media-play-speed-faster =
-    .label = Tsaa (1.25×)
-    .accesskey = a
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Vichi nchua (2×)
-    .accesskey = L
-
 main-context-menu-media-loop =
     .label = Kitsa tuku
     .accesskey = L
@@ -137,14 +96,6 @@ main-context-menu-media-loop =
 
 
 ##
-
-main-context-menu-image-view =
-    .label = Kunchee ña ndatavana
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = Kunchee video
-    .accesskey = I
 
 main-context-menu-image-copy =
     .label = Ndatava tutu

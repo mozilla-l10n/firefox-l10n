@@ -109,40 +109,6 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-label = Chika see tutu nchicavau
-    .accesskey = C
-
-fonts-languages-fallback-name-arabic =
-    .label = Árabe
-fonts-languages-fallback-name-baltic =
-    .label = Báltico
-fonts-languages-fallback-name-ceiso =
-    .label = Centroeuropeo, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Centroeuropeo, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Chino Simplificado
-fonts-languages-fallback-name-traditional =
-    .label = Chino Tradicional
-fonts-languages-fallback-name-cyrillic =
-    .label = Cirílico
-fonts-languages-fallback-name-greek =
-    .label = Griego
-fonts-languages-fallback-name-hebrew =
-    .label = Hebreo
-fonts-languages-fallback-name-japanese =
-    .label = Japones
-fonts-languages-fallback-name-korean =
-    .label = Koreano
-fonts-languages-fallback-name-thai =
-    .label = Tailandés
-fonts-languages-fallback-name-turkish =
-    .label = Turco
-fonts-languages-fallback-name-vietnamese =
-    .label = Vietnamita
-fonts-languages-fallback-name-other =
-    .label = Inka(incl. europeano occidental)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

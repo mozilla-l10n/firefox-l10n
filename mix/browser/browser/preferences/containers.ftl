@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Chika iin contenedor tsaa
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } Nixi kunu kontenedor
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -36,10 +31,6 @@ containers-icon-label = Ícono
 containers-color-label = Color
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Va'a
-    .accesskey = V
 
 containers-color-blue =
     .label = Nchaa

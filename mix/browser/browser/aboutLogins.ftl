@@ -7,19 +7,12 @@ about-logins-page-title = Kitsa tsi cha sivu
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Kuná tu'un see nchi tsiku
-login-app-promo-android =
-    .alt = Ndanii nu Google Play
-login-app-promo-apple =
-    .alt = Snuu nu App Store
-
 login-filter =
     .placeholder = Nduku nixi kitsana
 
 create-login-button = Saa nixi kitsau
 
 fxaccounts-sign-in-text = Nduku contraseñaku takua kuachu'un inka dispositivo
-fxaccounts-sign-in-button = Kitsa nu { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Administrar Kuenta
 
@@ -33,8 +26,6 @@ menu-menuitem-preferences =
        *[other] Preferencias
     }
 about-logins-menu-menuitem-help = Chinchee
-menu-menuitem-android-app = { -lockwise-brand-short-name } Kuachu'un tsi Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } Cuachu'un tsi iPhone cha iPad
 
 ## Login List
 
@@ -95,14 +86,6 @@ master-password-reload-button =
     .accesskey = K
 
 ## Password Sync notification
-
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Kunchee ña inka vaá { -sync-brand-short-name }
-           *[other] Kunchee ña inka vaá { -sync-brand-short-name }
-        }
-    .accesskey = K
 
 ## Dialogs
 

@@ -95,9 +95,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Sama
     .accesskey = E
-menu-edit-find-on =
-    .label = Nduku nu página yo…
-    .accesskey = N
 menu-edit-find-again =
     .label = Ndasaa nduku
     .accesskey = R
@@ -113,9 +110,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Herramienta
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = Ntasai nixi kunu…
-    .accesskey = C
 menu-view-sidebar =
     .label = Barra lateral
     .accesskey = l
@@ -146,9 +140,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Básico
     .accesskey = B
-menu-view-charset =
-    .label = Codificación de texto
-    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -190,8 +181,6 @@ menu-history-hidden-tabs =
 menu-bookmarks-menu =
     .label = Markadores
     .accesskey = M
-menu-bookmarks-show-all =
-    .label = Sna'a ntii markador
 menu-bookmarks-all-tabs =
     .label = Chika xikua nuna...
 menu-bookmarks-toolbar =
@@ -209,35 +198,18 @@ menu-tools =
 menu-tools-downloads =
     .label = Snuù
     .accesskey = D
-menu-tools-addons =
-    .label = Komplementos
-    .accesskey = A
 menu-tools-sync-now =
     .label = Chita'an vichi
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = Ndachita'a tsi { -brand-product-name }
     .accesskey = N
-menu-tools-web-developer =
-    .label = Kue ña sa'à
-    .accesskey = W
 menu-tools-page-source =
     .label = Código fuente de esta página
     .accesskey = o
 menu-tools-page-info =
     .label = Tu'un tsa página yo
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opción
-           *[other] Preferencias
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = Nda saa diseño
     .accesskey = L
@@ -269,9 +241,3 @@ menu-window-menu =
 menu-help =
     .label = Chinchee
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } Chinchee
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Kunchee
-    .accesskey = o

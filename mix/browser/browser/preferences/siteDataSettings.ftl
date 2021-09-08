@@ -14,14 +14,6 @@ site-data-remove-selected =
     .label = Stoó ña ni katsu
     .accesskey = S
 
-site-data-button-cancel =
-    .label = Kunchatu
-    .accesskey = k
-
-site-data-button-save =
-    .label = Chika va'a ña sau
-    .accesskey = c
-
 site-data-remove-all =
     .label = Stòo ntia
     .accesskey = S

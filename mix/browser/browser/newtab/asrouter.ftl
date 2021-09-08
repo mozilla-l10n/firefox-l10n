@@ -6,7 +6,6 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Extensión ña ku kuncheu
-cfr-doorhanger-pintab-heading = Saa ña ño'o: sti'in xikua
 
 
 
@@ -19,8 +18,6 @@ cfr-doorhanger-extension-cancel-button = VIchi nkuu
     .accesskey = N
 
 cfr-doorhanger-extension-ok-button = Chika Vichi
-    .accesskey = C
-cfr-doorhanger-pintab-ok-button = Chika xikua yo
     .accesskey = C
 
 cfr-doorhanger-extension-learn-more-link = Skua'a kuakaa…
@@ -56,9 +53,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-animation-pause = Kunchatu
-cfr-doorhanger-pintab-animation-resume = Kitsa
-
 
 ## Firefox Accounts Message
 
@@ -76,14 +70,6 @@ cfr-whatsnew-button =
     .label = Nchi yee ña tsaa
     .tooltiptext = Nchi yee ña tsaa
 
-cfr-whatsnew-panel-header = Nchi yee ña tsaa
-
-cfr-whatsnew-tracking-blocked-link-text = Ku ncheé tutu
-
-cfr-whatsnew-lockwise-backup-title = Chika vaá tu'un se'e ku
-
-cfr-whatsnew-lockwise-take-link-text = Snuú aplicación
-
 ## Search Bar
 
 ## Picture-in-Picture
@@ -94,26 +80,14 @@ cfr-whatsnew-lockwise-take-link-text = Snuú aplicación
 
 ## Bookmark Sync
 
-cfr-doorhanger-sync-bookmarks-ok-button = Ndatu'un { -sync-brand-short-name }
-    .accesskey = T
-
 ## Login Sync
-
-cfr-doorhanger-sync-logins-ok-button = Ndatu'un { -sync-brand-short-name }
-    .accesskey = A
 
 ## Send Tab
 
 
 ## Firefox Send
 
-cfr-doorhanger-firefox-send-ok-button = Kuachu'un { -send-brand-name }
-    .accesskey = K
-
 ## Social Tracking Protection
-
-cfr-doorhanger-socialtracking-close-button = Kasi
-    .accesskey = K
 
 ## Enhanced Tracking Protection Milestones
 
@@ -136,4 +110,10 @@ cfr-doorhanger-socialtracking-close-button = Kasi
 ## Fission Experiment Message
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

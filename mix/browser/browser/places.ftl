@@ -5,7 +5,4 @@
 places-open =
     .label = Kuna
     .accesskey = O
-places-open-window =
-    .label = Kunàa nu inka nu sachuun tsàa
-    .accesskey = N
 

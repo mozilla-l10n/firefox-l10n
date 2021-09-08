@@ -25,11 +25,6 @@ connection-proxy-http-port = Puerto
 connection-proxy-ssl-port = Puerto
     .accesskey = P
 
-connection-proxy-ftp = Proxy FTP
-    .accesskey = F
-connection-proxy-ftp-port = Puerto
-    .accesskey = P
-
 connection-proxy-socks = Servidor SOCKS
     .accesskey = C
 connection-proxy-socks-port = Puerto

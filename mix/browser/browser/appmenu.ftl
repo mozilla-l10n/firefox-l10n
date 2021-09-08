@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Ntasai nixi kunu…
-
 ## Zoom Controls
 
 appmenuitem-new-window =
@@ -23,9 +20,6 @@ appmenuitem-zoom-reduce =
     .label = Saa luu
 
 ## Firefox Account toolbar button and Sync panel in App menu.
-
-fxa-toolbar-sync-now =
-    .label = Chita'an vichi
 
 ## What's New panel in App menu.
 

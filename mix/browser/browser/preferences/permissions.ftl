@@ -30,14 +30,6 @@ permissions-remove =
     .label = Stoo pagina web
     .accesskey = R
 
-permissions-button-cancel =
-    .label = Kunchatu
-    .accesskey = c
-
-permissions-button-ok =
-    .label = Chika vaà ña ndasamu
-    .accesskey = C
-
 permissions-searchbox =
     .placeholder = Nduku Sitio Web
 

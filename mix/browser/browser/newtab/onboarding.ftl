@@ -12,12 +12,13 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-learn-more = Skua'a kuaka
-onboarding-button-label-get-started = Kitsaà
-
 ## Welcome modal dialog strings
 
 ### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
 
@@ -25,24 +26,13 @@ onboarding-button-label-get-started = Kitsaà
 
 onboarding-welcome-header = Kukueni { -brand-short-name }
 
-onboarding-join-form-email =
-    .placeholder = Chaa Korreoku
-onboarding-join-form-continue = Inka
-
 onboarding-start-browsing-button-label = Kitsaà Ntuku
 
 ## Welcome full page string
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-header = Kuan tsi { -brand-product-name } meu
-
-onboarding-sync-form-input =
-    .placeholder = Korreo
-
 ## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Chaa korreoku
 
 
 ## These are individual benefit messages shown with an image, title and
@@ -56,17 +46,6 @@ onboarding-sync-form-header = Chaa korreoku
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-tracking-protection-button2 = Nixi Kuachu'un ña
-
-onboarding-firefox-send-button = Kunchee { -send-brand-name }
-
-onboarding-mobile-phone-title = Nduku { -brand-product-name } kaa ndusuku
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Snuu navegador móvil
-
-onboarding-pocket-anywhere-button = Kunchee { -pocket-brand-name }
-
 
 ## Message strings belonging to the Return to AMO flow
 
@@ -74,12 +53,7 @@ onboarding-pocket-anywhere-button = Kunchee { -pocket-brand-name }
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+## Multistage onboarding strings (about:welcome pages)
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -96,4 +70,11 @@ onboarding-pocket-anywhere-button = Kunchee { -pocket-brand-name }
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 

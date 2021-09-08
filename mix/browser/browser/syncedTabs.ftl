@@ -23,4 +23,3 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-sync-now =
     .label = Chita'an vichi
     .accesskey = S
-fxa-sign-in = Kitsa tsi { -sync-brand-short-name }

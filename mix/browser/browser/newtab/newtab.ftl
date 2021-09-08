@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Nduku
     .aria-label = Nduku
 
-newtab-search-box-search-the-web-text = Nduku nu Web
-
 newtab-search-box-search-the-web-input =
     .placeholder = Nduku nu Web
     .title = Nduku nu Web
