@@ -827,7 +827,7 @@
      items are "This folder", "B", and "C". This is the equivalent of the
      "File here" option for the move to/copy to widget.
   -->
-<!ENTITY columnPicker.thisFolder.label "Αυτό τον φάκελο">
+<!ENTITY columnPicker.thisFolder.label "Αυτόν τον φάκελο">
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Αναπαραγωγή">
