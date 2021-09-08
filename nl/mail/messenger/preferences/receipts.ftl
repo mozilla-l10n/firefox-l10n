@@ -4,48 +4,35 @@
 
 receipts-dialog-window =
     .title = Leesbevestigingen
-
 return-receipt-checkbox =
     .label = Altijd een leesbevestiging vragen bij het verzenden van berichten
-    .acceskey = t
-
+    .accesskey = t
 receipt-arrive-label = Als een leesbevestiging binnenkomt:
-
 receipt-leave-radio =
     .label = Deze in mijn Postvak IN laten staan
-    .acceskey = l
-
+    .accesskey = l
 receipt-move-radio =
     .label = Deze naar mijn map ‘Verzonden’ verplaatsen
-    .acceskey = v
-
+    .accesskey = V
 receipt-request-label = Als ik een verzoek voor een leesbevestiging ontvang:
-
 receipt-return-never-radio =
     .label = Nooit een leesbevestiging sturen
-    .acceskey = s
-
+    .accesskey = s
 receipt-return-some-radio =
     .label = Leesbevestigingen bij sommige berichten toestaan
-    .acceskey = o
-
+    .accesskey = o
 receipt-not-to-cc =
     .value = Als ik niet in de Aan of Cc van het bericht sta:
-    .acceskey = n
-
+    .accesskey = n
 receipt-send-never-label =
     .label = Nooit verzenden
-
 receipt-send-always-label =
     .label = Altijd verzenden
-
 receipt-send-ask-label =
     .label = Mij vragen
-
 sender-outside-domain =
     .value = Als de afzender zich buiten mijn domein bevindt:
-    .acceskey = b
-
+    .accesskey = b
 other-cases-label =
     .value = In alle andere gevallen:
-    .acceskey = a
+    .accesskey = a
