@@ -4,7 +4,9 @@
 
 sidebar-menu-bookmarks =
     .label = Amatshwayo weencwadi
+
 sidebar-menu-history =
     .label = Umlando
+
 sidebar-close-button =
     .tooltiptext = Vala ifasidere

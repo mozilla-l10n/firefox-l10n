@@ -11,27 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Iimphathi mandla
 
-certmgr-subject-label = Ikhitjhelwe U
-
-certmgr-issuer-label = Ikhitjhwe Ngu
-
-certmgr-fingerprints = Ukugadangiswa kwemino
-
-certmgr-cert-detail =
-    .title = Imininingwana Yesitifikeyiti
-    .buttonlabelaccept = Close
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = Ibizo elijwayelekileko (CN)
-
-certmgr-cert-detail-org = Ihlangano (O)
-
-certmgr-cert-detail-orgunit = Ikoro yehlangano (OU)
-
-certmgr-cert-detail-serial-number = Inomboro Yesiriyali
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 Umgadangiso wemino
-
 certmgr-edit-ca-cert =
     .title = Lungisa ijamo lesitifikeyiti se trust yeCA
     .style = width: 48em;
@@ -54,8 +33,6 @@ certmgr-cert-name =
 certmgr-token-name =
     .label = Iisisetjenziswa sokuvikela
 
-certmgr-expires-on = Siphela Mhlaka
-
 certmgr-expires-label =
     .label = Siphela Mhlaka
 
@@ -64,14 +41,6 @@ certmgr-email =
 
 certmgr-serial =
     .label = Inomboro Yesiriyeli
-
-certmgr-details =
-    .value = Certificate Fields
-    .accesskey = F
-
-certmgr-fields =
-    .value = Field Value
-    .accesskey = V
 
 pk11-bad-password = Inomboro yokungena etloliweko ayikalungi.
 pkcs12-decode-err = Ihlulekile ukususa ikhowudi yefayili.  Alikakheki ngendlela yePKCS#12, lonakelel namkha inomboro yokungena oyifakileko ayikalungi.
@@ -111,37 +80,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = Uqinisile bona ufuna ukusula iintifikhethi zeposo zabantwaba?
 
 ## Cert Viewer
-
-not-present =
-    .value = <Akusiyo Incenye Yesitifikhethi>
-
-# Cert verification
-cert-verified = Isitifikhethi lesi siqinisekiselwe ukusebenza okulandelako:
-
-# Add usage
-verify-ssl-client =
-    .value = Isitifikhethi sekhasimende seSSL
-
-verify-ssl-server =
-    .value = Isitifikhethi Somsebenzi seSSL
-
-verify-ssl-ca =
-    .value = Isiphathimandla Sesitifikhethi Sokuphatha seSSL
-
-verify-email-signer =
-    .value = Isitifikhethi Sosayina i-email
-
-verify-email-recip =
-    .value = Isitifikhethi Sowamukela i-email
-
-# Cert verification
-cert-not-verified-cert-revoked = Akwazeki ukuqinisekisa isitifikhethi lesi ngombana sisusiwe.
-cert-not-verified-cert-expired = Akwazeki ukuqinisekisa isitifikhethi lesi ngombana siphelelwe sikhathi.
-cert-not-verified-cert-not-trusted = Akwazeki ukuqinisekisa isitifikhethi lesi ngombana asithembeki.
-cert-not-verified-issuer-not-trusted = Akwazeki ukuqinisekisa isitifikhethi lesi ngombana osikhiphileko akathembeki.
-cert-not-verified-issuer-unknown = Akwazeki ukuqinisekisa isitifikhethi lesi ngombana osikhiphileko akaziwa.
-cert-not-verified-ca-invalid = Akwazeki ukuqinisekisa isitifikhethi lesi ngombana isitifikhethi se CA asisebenzi.
-cert-not-verified-unknown = Akwazeki ukuqinisekisa isitifikhethi lesi ngezizathu ezingaziwa.
 
 ## Used to show whether an override is temporary or permanent
 

@@ -19,8 +19,6 @@
 <!ENTITY redoCmd.accesskey "b">
 <!ENTITY deleteCmd.label "Cima">
 <!ENTITY deleteCmd.accesskey "c">
-<!ENTITY preferencesCmdUnix.label "Ukukhetha">
-<!ENTITY preferencesCmdUnix.accesskey "u">
 
 <!ENTITY viewMenu.label "Bona">
 <!ENTITY viewMenu.accesskey "b">

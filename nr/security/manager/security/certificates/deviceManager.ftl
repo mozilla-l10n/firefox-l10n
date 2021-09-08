@@ -101,8 +101,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Inomboro yesiriyali
 
-fips-nonempty-password-required = Umhlobo weFIPS udinga ukuhlelwa kwenomboro Yokungena Elawulako mayelana nesisetjenziswa esinye nesinye sesivikelo. Sibawa uhlele inomboro yokungena ngaphambili kobana uzame ukusebenzisa umhlbo weFIPS.
-
 add-module-failure = Akukghoneki ukwengezelela imojuli
 del-module-warning = Uqinisile bona ufuna ukusula ivikelweli semojuli?
 del-module-error = Akukghoneki ukusula imojuli

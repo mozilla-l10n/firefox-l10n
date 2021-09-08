@@ -12,10 +12,6 @@
 <!ENTITY openFileCmd.label "Vula Ifayili...">
 <!ENTITY printCmd.label "Gadangisa...">
 
-<!ENTITY personalbarCmd.label "Isivalo sethulusi lamatshwayo weencwadi">
-<!ENTITY personalbarCmd.accesskey "I">
-<!ENTITY bookmarksToolbarItem.label "Iinhlokwana zesivalo samathulusi wamatshwayo weencadi">
-
 <!ENTITY fullScreenCmd.label "Umpheme opheleleko">
 
 
@@ -29,12 +25,9 @@
 
 <!ENTITY homeButton.label "Ikhaya">
 
-<!ENTITY bookmarksButton.label "Amatshwayo weencwadi">
-
 <!ENTITY historyButton.label "Umlando">
 
 <!ENTITY downloads.label "Khuphela">
-<!ENTITY addons.label "Add-ons">
 
 <!ENTITY newNavigatorCmd.label "Ifasidere elitjha">
 
@@ -45,7 +38,6 @@
 
 <!ENTITY historyMenu.label "History">
 
-<!ENTITY historyUndoMenu.label "Recently Closed Tabs">
 <!-- XXX places only -->
 
 <!-- XXX remove above if places sticks -->
@@ -83,9 +75,6 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY sidebarCloseButton.tooltip "Vala ifasidere">
-
-<!ENTITY quitApplicationCmd.label "Phuma">
-<!ENTITY quitApplicationCmd.accesskey "P">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but

@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Jayeza...
-
 ## Zoom Controls
 
 appmenuitem-new-window =

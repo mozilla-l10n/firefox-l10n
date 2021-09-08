@@ -23,10 +23,6 @@
 <!ENTITY closeCmd.label "Vala">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Ikhasi Ukwakha...">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewAddressBook.label "Gadangisa Incwadi Yekhali Ebonisa Ngaphambili">
-<!ENTITY printPreviewAddressBook.accesskey "G">
 <!ENTITY printAddressBook.label "Gadangisa incwadi yeemphande...">
 <!ENTITY printAddressBook.accesskey "G">
 
@@ -72,8 +68,6 @@
 <!ENTITY importCmd.accesskey "L">
 <!ENTITY exportCmd.label "Khiphela ngaphandle...">
 <!ENTITY exportCmd.accesskey "K">
-<!ENTITY preferencesCmdUnix.label "Okukhethako">
-<!ENTITY preferencesCmdUnix.accesskey "o">
 <!-- Help Menu -->
 
 <!-- Address Book Toolbar and Context Menus -->  
