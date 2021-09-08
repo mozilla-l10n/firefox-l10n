@@ -29,12 +29,6 @@
 <!ENTITY closeCmd.label                                 "Sluit">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "S">
-<!ENTITY printSetupCmd.label                            "Bladsyopstelling…">
-<!ENTITY printSetupCmd.accesskey                        "o">
-<!ENTITY printPreviewContactCmd.label                   "Drukvoorskou kennis">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "Drukvoorskou van adresboek">
-<!ENTITY printPreviewAddressBook.accesskey              "b">
 <!ENTITY printContactCmd.label                          "Druk kennis…">
 <!ENTITY printContactCmd.accesskey                      "D">
 <!ENTITY printContactCmd.key                            "P">
@@ -108,8 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY exportCmd.accesskey                            "U">
 
 
-<!ENTITY preferencesCmdUnix.label                       "Voorkeure">
-<!ENTITY preferencesCmdUnix.accesskey                   "k">
 <!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label                         "Nuwe kennis">

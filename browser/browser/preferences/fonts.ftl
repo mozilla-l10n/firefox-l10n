@@ -89,42 +89,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Teksenkodering vir ou inhoud
-fonts-languages-fallback-desc = Dié teksenkodering word gebruik vir ou inhoud wat nié 'n enkodering verklaar nie.
-
-fonts-languages-fallback-name-auto =
-    .label = Verstek vir huidige lokaliteitinstelling
-fonts-languages-fallback-name-arabic =
-    .label = Arabies
-fonts-languages-fallback-name-baltic =
-    .label = Balties
-fonts-languages-fallback-name-ceiso =
-    .label = Sentraal-Europees, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Sentraal-Europees, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Sjinees, vereenvoudig
-fonts-languages-fallback-name-traditional =
-    .label = Sjinees, tradisioneel
-fonts-languages-fallback-name-cyrillic =
-    .label = Cyrillies
-fonts-languages-fallback-name-greek =
-    .label = Grieks
-fonts-languages-fallback-name-hebrew =
-    .label = Hebreeus
-fonts-languages-fallback-name-japanese =
-    .label = Japannees
-fonts-languages-fallback-name-korean =
-    .label = Koreaans
-fonts-languages-fallback-name-thai =
-    .label = Thai
-fonts-languages-fallback-name-turkish =
-    .label = Turks
-fonts-languages-fallback-name-vietnamese =
-    .label = Viëtnamees
-fonts-languages-fallback-name-other =
-    .label = Ander (insluitend Wes-Europees)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

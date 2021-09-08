@@ -5,7 +5,6 @@
 synced-tabs-sidebar-title = Gesinkroniseerde oortjies
 synced-tabs-sidebar-noclients-subtitle = Lus om oortjies van ander toestelle hier te sien?
 synced-tabs-sidebar-notabs = Geen oop oortjies nie
-synced-tabs-sidebar-openprefs = Open { -sync-brand-short-name }-voorkeure
 synced-tabs-sidebar-tabsnotsyncing = Skakel oortjiesinkronisering aan om 'n lys oortjies van ander toestelle te sien.
 synced-tabs-context-open =
     .label = Open
@@ -34,4 +33,3 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Sinkroniseer nou
     .accesskey = S
-fxa-sign-in = Meld aan by { -sync-brand-short-name }

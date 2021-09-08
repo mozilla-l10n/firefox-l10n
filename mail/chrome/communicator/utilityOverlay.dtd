@@ -20,9 +20,6 @@
 <!ENTITY deleteCmd.accesskey        "S">
 
 
-<!ENTITY preferencesCmdUnix.label       "Voorkeure">
-<!ENTITY preferencesCmdUnix.accesskey     "k">
-
 <!ENTITY viewMenu.label          "Bekyk">
 <!ENTITY viewMenu.accesskey        "B">
 <!ENTITY viewToolbarsMenu.label        "Nutsbalke">

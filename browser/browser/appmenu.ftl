@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Doelmaak…
-
 ## Zoom Controls
 
 appmenuitem-new-tab =
@@ -26,19 +23,16 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Sinkroniseer nou
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Wys almal
-    .tooltiptext = Wys alle oortjies van dié toestel
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Geen oop oortjies nie
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Skakel oortjiesinkronisering aan om 'n lys oortjies op ander toestelle te sien.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Lus om oortjies van ander toestelle hier te sien?
+
 appmenuitem-save-page =
     .label = Stoor bladsy as…
 

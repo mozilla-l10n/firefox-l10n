@@ -17,42 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Owerhede
 
-certmgr-detail-general-tab-title =
-    .label = Algemeen
-    .accesskey = A
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Besonderhede
-    .accesskey = B
-
-certmgr-pending-label =
-    .value = Verifieer tans sertifikaat…
-
-certmgr-subject-label = Uitgereik aan
-
-certmgr-issuer-label = Uitgereik deur
-
-certmgr-period-of-validity = Geldige periode
-
-certmgr-fingerprints = Vingerafdrukke
-
-certmgr-cert-detail =
-    .title = Sertifikaatbesonderhede
-    .buttonlabelaccept = Sluit
-    .buttonaccesskeyaccept = S
-
-certmgr-cert-detail-commonname = Gebruiklike naam (CN)
-
-certmgr-cert-detail-org = Organisasie (O)
-
-certmgr-cert-detail-orgunit = Organisasie-eenheid (OU)
-
-certmgr-cert-detail-serial-number = Reeksnommer
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256-vingerafdruk
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1-vingerafdruk
-
 certmgr-edit-ca-cert =
     .title = Redigeer SO-sertifikaatvertroueopstelling
     .style = width: 48em;
@@ -81,12 +45,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Sekuriteitstoestel
 
-certmgr-begins-on = Begin op
-
 certmgr-begins-label =
     .label = Begin op
-
-certmgr-expires-on = Verval op
 
 certmgr-expires-label =
     .label = Verval op
@@ -128,18 +88,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Invoer…
     .accesskey = n
-
-certmgr-details =
-    .value = Sertifikaatvelde
-    .accesskey = v
-
-certmgr-fields =
-    .value = Veldwaarde
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = Sertifikaathiërargie
-    .accesskey = h
 
 certmgr-add-exception =
     .label = Voeg uitsondering by…
@@ -203,12 +151,6 @@ delete-user-cert-confirm = Wil u definitief hierdie sertifikate skrap?
 delete-user-cert-impact = As u een van u eie sertifikate skrap, kan u dit nie meer gebruik om uself te identifiseer nie.
 
 
-delete-ssl-cert-title =
-    .title = Skrap bedienersertifikaat-uitsonderings
-delete-ssl-cert-confirm = Wil u definitief hierdie bedieneruitsonderings skrap?
-delete-ssl-cert-impact = Indien u 'n bedieneruitsondering skrap, sal dit die gewone sekuriteitstoetse vir daardie bediener teruglaai en vereis dat dit 'n geldige sertifikaat gebruik.
-
-
 delete-ca-cert-title =
     .title = Skrap of wantrou nie meer SO-sertifikate
 delete-ca-cert-confirm = U het versoek dat hierdie SO-sertifikate geskrap word. Vir ingeboude sertifikate sal alle vertroue verwyder word, wat dieselfde uitwerking het. Wil u definitief skrap of wantrou?
@@ -228,45 +170,6 @@ cert-with-serial =
     .value = Sertifikaat met reeksnommer: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Sertifikaatkyker: “{ $certName }”
-
-not-present =
-    .value = <Nie deel van sertifikaat nie>
-
-# Cert verification
-cert-verified = Hierdie sertifikaat is vir die volgende gebruike gestaaf:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL-kliëntsertifikaat
-
-verify-ssl-server =
-    .value = SSL-bedienersertifikaat
-
-verify-ssl-ca =
-    .value = SSL-sertifikaatowerheid
-
-verify-email-signer =
-    .value = E-posondertekenaar-sertifikaat
-
-verify-email-recip =
-    .value = E-posontvanger-sertifikaat
-
-# Cert verification
-cert-not-verified-cert-revoked = Die sertifikaat kon nie gestaaf word nie omdat dit opgehef is.
-cert-not-verified-cert-expired = Die sertifikaat kon nie gestaaf word nie omdat dit verval het.
-cert-not-verified-cert-not-trusted = Die sertifikaat kon nie gestaaf word nie omdat dit nie vertrou word nie.
-cert-not-verified-issuer-not-trusted = Die sertifikaat kon nie gestaaf word nie omdat die uitreiker nie vertrou word nie.
-cert-not-verified-issuer-unknown = Die sertifikaat kon nie gestaaf word nie omdat die uitreiker onbekend is.
-cert-not-verified-ca-invalid = Die sertifikaat kon nie gestaaf word nie omdat die SO-sertifikaat ongeldig is.
-cert-not-verified_algorithm-disabled = Kon nie dié sertifikaat verifieer nie omdat dit geteken is met 'n handtekeningalgoritme wat gedeaktiveer is omdat dit nie veilig is nie.
-cert-not-verified-unknown = Die sertifikaat kon om onbekende redes nie gestaaf word nie.
 
 ## Used to show whether an override is temporary or permanent
 

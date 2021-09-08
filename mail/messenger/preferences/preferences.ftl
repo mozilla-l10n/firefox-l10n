@@ -3,13 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opsies
-           *[other] Voorkeure
-        }
-
 pane-compose-title = Opstelling
 category-compose =
     .tooltiptext = Opstelling
@@ -153,9 +146,6 @@ bigger-size-item =
     .label = Groter
 smaller-size-item =
     .label = Kleiner
-
-search-input =
-    .placeholder = Soek
 
 type-column-label =
     .label = Inhoudsoort
@@ -351,16 +341,6 @@ passwords-description = { -brand-short-name } kan wagwoorde vir al jou rekeninge
 passwords-button =
     .label = Gestoorde wagwoorde…
     .accesskey = G
-
-master-password-description = 'n Meesterwagwoord beskerm al u wagwoorde, maar u moet dit een keer per sessie intik.
-
-master-password-label =
-    .label = Gebruik 'n meesterwagwoord
-    .accesskey = G
-
-master-password-button =
-    .label = Wysig meesterwagwoord…
-    .accesskey = W
 
 
 junk-description = Verstel die verstek gemorspos-opstelling. Rekeningspesifieke gemorspos-opstelling kan gedoen word by die rekeningopstelling.

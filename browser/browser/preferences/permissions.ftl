@@ -20,14 +20,6 @@ permissions-allow =
 permissions-status =
     .label = Status
 
-permissions-button-cancel =
-    .label = Kanselleer
-    .accesskey = K
-
-permissions-button-ok =
-    .label = Stoor veranderinge
-    .accesskey = S
-
 permissions-capabilities-allow =
     .label = Laat toe
 permissions-capabilities-block =

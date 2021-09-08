@@ -5,31 +5,9 @@
 places-open =
     .label = Open
     .accesskey = O
-places-open-tab =
-    .label = Open in nuwe oortjie
-    .accesskey = n
 places-open-all-in-tabs =
     .label = Open almal in oortjies
     .accesskey = O
-places-open-window =
-    .label = Open in nuwe venster
-    .accesskey = n
-places-open-private-window =
-    .label = Open in nuwe private venster
-    .accesskey = p
-
-places-new-bookmark =
-    .label = Nuwe boekmerk…
-    .accesskey = b
-places-new-folder-contextmenu =
-    .label = Nuwe vouer…
-    .accesskey = o
-places-new-folder =
-    .label = Nuwe vouer…
-    .accesskey = o
-places-new-separator =
-    .label = Nuwe skeier
-    .accesskey = s
 
 places-view =
     .label = Bekyk
@@ -56,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Rangskik volgens naam
     .accesskey = R
-places-properties =
-    .label = Eienskappe
-    .accesskey = k
 
