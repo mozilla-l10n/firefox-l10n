@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = 모든 탭 선택
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] 닫은 탭 다시 열기
-           *[other] 닫은 탭 다시 열기
-        }
-    .accesskey = U
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = 더보기 메뉴에 고정
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = 도구 모음에서 자동 숨김
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = 비어있을 때 버튼 숨기기
     .accesskey = H

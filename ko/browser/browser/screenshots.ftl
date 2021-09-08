@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = 스크린샷 찍기
-
-screenshots-my-shots-button = 내 스크린샷
-
 screenshot-toolbarbutton =
     .label = 스크린샷
     .tooltiptext = 스크린샷 찍기
@@ -40,8 +36,6 @@ screenshots-login-error-details = { -screenshots-brand-name } 서비스에 문�
 
 screenshots-unshootable-page-error-title = 이 페이지는 스크린샷을 찍을 수 없습니다.
 screenshots-unshootable-page-error-details = 표준 웹 페이지가 아니므로 스크린샷을 찍을 수 없습니다.
-
-screenshots-self-screenshot-error-title = { -screenshots-brand-name } 페이지는 스크린샷을 찍을 수 없습니다!
 
 screenshots-empty-selection-error-title = 선택 영역이 너무 작음
 

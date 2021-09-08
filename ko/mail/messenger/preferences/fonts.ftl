@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = 산세리프
 
-font-size-label =
-    .value = 크기:
-    .accesskey = e
-
 font-size-proportional-label =
     .value = 크기:
     .accesskey = e

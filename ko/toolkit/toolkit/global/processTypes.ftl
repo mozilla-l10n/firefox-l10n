@@ -9,8 +9,6 @@
 
 process-type-web = 웹 콘텐츠
 
-process-type-browser = 메인
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = 권한 있는 About

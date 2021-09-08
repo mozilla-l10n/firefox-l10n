@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "디지털 서명">
 <!ENTITY menu_securitySign.accesskey "M">
 
-<!ENTITY menu_securityAttachMyKey.label "내 공개 키 첨부">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "암호화 기술">
 <!ENTITY menu_securityTech.accesskey "T">
 

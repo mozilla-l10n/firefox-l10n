@@ -5,13 +5,6 @@
 close-button =
     .aria-label = 닫기
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] 설정
-           *[other] 환경설정
-        }
-
 category-list =
     .aria-label = 분류
 
@@ -132,20 +125,9 @@ update-in-progress-ok-button = 취소
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 계속
 
-addons-button = 확장기능과 테마
-
 account-button = 계정 설정
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = 기본 비밀번호를 만들려면 Windows 로그인 자격 증명을 입력하세요. 이렇게 하면 계정의 보안을 보호할 수 있습니다.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = 기본 비밀번호 만들기
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = 기본 비밀번호를 만들려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
@@ -220,10 +202,6 @@ animated-alert-label =
 customize-alert-label =
     .label = 사용자 정의…
     .accesskey = C
-
-tray-icon-label =
-    .label = 트레이 아이콘 보이기
-    .accesskey = t
 
 mail-system-sound-label =
     .label = 새 메일에 대한 기본 시스템 소리
@@ -413,9 +391,6 @@ smaller-size-item =
 quoted-text-color =
     .label = 색상:
     .accesskey = o
-
-search-input =
-    .placeholder = 검색하기
 
 type-column-label =
     .label = 콘텐츠 형식
@@ -704,16 +679,6 @@ passwords-button =
     .label = 저장된 암호 목록…
     .accesskey = S
 
-master-password-description = 기본 비밀번호는 모든 일반 비밀번호를 보호합니다. 프로그램 시작할 때 다시 입력해야 합니다.
-
-master-password-label =
-    .label = 기본 비밀번호 사용
-    .accesskey = U
-
-master-password-button =
-    .label = 기본 비밀번호 변경…
-    .accesskey = C
-
 
 primary-password-description = 기본 비밀번호는 모든 비밀번호를 보호하지만 세션마다 한번씩 입력해야 합니다.
 
@@ -894,26 +859,6 @@ no-preview-description = 현재 테마가 유효하지 않거나 사용할 수 �
 chat-variant-label =
     .value = 다른 형태:
     .accesskey = V
-
-chat-header-label =
-    .label = 헤더 보기
-    .accesskey = H
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] 설정에서 찾기
-           *[other] 설정에서 찾기
-        }
 
 ## Preferences UI Search Results
 

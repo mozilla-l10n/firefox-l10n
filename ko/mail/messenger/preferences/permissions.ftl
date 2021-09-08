@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = 예외
     .style = width: 36em;
 
-window-close-key =
-    .key = w
-
 permission-preferences-close-window =
     .key = w
 

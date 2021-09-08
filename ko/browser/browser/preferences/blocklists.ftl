@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = 목록
 
-blocklist-button-cancel =
-    .label = 취소
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = 변경 내용 저장
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = 변경 내용 저장
     .buttonaccesskeyaccept = S

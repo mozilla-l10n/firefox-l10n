@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY deleteCmd.label          "삭제">
 <!ENTITY deleteCmd.accesskey        "d">
-<!ENTITY preferencesCmd2.label "설정…">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "설정">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY customizeCmd.label "사용자 설정">
 <!ENTITY customizeCmd.accesskey "t">

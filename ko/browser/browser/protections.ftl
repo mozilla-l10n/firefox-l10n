@@ -97,9 +97,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = 작동 방식
 
-turn-on-sync = { -sync-brand-short-name } 켜기…
-    .title = Sync 설정으로 가기
-
 monitor-title = 데이터 유출에 주의하세요
 monitor-link = 작동 방식
 monitor-header-content-no-account = { -monitor-brand-name }를 확인하여 사용자가 알려진 데이터 유출 사건의 피해자인지 확인하고 새로운 유출에 대한 알림을 받습니다.

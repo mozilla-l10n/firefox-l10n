@@ -118,10 +118,6 @@ openpgp-key-send-key =
     .label = 이메일을 통해 공개 키 보내기
     .accesskey = S
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = 공개 키를 클립 보드로 복사
-    .accesskey = C
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -145,8 +141,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = 파일로 키 내보내기
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = 공개 키를 클립 보드로 복사
 
 openpgp-key-man-ctx-copy =
     .label = 복사
@@ -294,14 +288,6 @@ openpgp-description =
        *[other] Thunderbird가 <b>{ $identity }</ b>와 연결된 OpenPGP 키 { $count }개를 찾았습니다.
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] OpenPGP 프로토콜을 사용할 수 있는 유효한 키 선택
-       *[other] 키 ID <b>{ $key }</b> 현재 구성 사용
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = 현재 구성은 만료 된 <b>{ $key }</b> 키를 사용합니다.
 
@@ -327,14 +313,8 @@ openpgp-radio-none-desc = 이 ID에 OpenPGP를 사용하지 마세요.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = 만료일: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = 키가 6 개월 이내에 만료됨
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = 만료일: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = 키 만료
 
 openpgp-key-expand-section =
     .tooltiptext = 자세한 정보
@@ -652,7 +632,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     줄 바꿈을 { $width } 자로 설정했습니다. 올바른 암호화 또는 서명을 위해 이 값은 68 이상이어야 합니다.
     지금 줄 바꿈을 68 자로 변경 하시겠습니까?
-sending-hidden-rcpt = BCC (숨은 참조) 수신자는 암호화 된 메시지를 보낼 때 사용할 수 없습니다. 이 암호화 된 메시지를 보내려면 BCC 수신자를 제거하거나 CC 필드로 이동하십시오.
 sending-news =
     암호화 된 보내기 작업이 중단되었습니다.
     뉴스 그룹 수신자가 있으므로 이 메시지를 암호화 할 수 없습니다. 암호화하지 않고 메시지를 다시 보내십시오.
@@ -712,9 +691,6 @@ enig-info = OpenPGP 정보
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = 재시도
 dlg-button-skip = 건너뛰기
-
-# Strings used in enigmailCommon.js
-enig-error = OpenPGP 오류
 
 enig-alert-title =
     .title = OpenPGP 경고

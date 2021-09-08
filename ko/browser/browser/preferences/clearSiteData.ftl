@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = 웹 사이트에서 이미지와 데이터를 다시 로드해야 함
 
-clear-site-data-cancel =
-    .label = 취소
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = 지우기
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = 지우기
     .buttonaccesskeyaccept = l
