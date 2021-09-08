@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Kôdna stranica
-    .accesskey = c
-
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -16,6 +12,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Postavke
     .accesskey = P
+
 menu-addons-and-themes =
     .label = Dodaci i teme
     .accesskey = a
@@ -25,9 +22,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Način rada za rješavanje problema…
     .accesskey = T
+
 menu-help-exit-troubleshoot-mode =
     .label = Isključi način rada za rješavanje problema
     .accesskey = o
+
 menu-help-more-troubleshooting-info =
     .label = Više informacija za rješavanje problema
     .accesskey = m
@@ -58,12 +57,18 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Zbijenost
     .accesskey = Z
+
 mail-uidensity-compact =
     .label = Kompaktno
     .accesskey = K
+
 mail-uidensity-normal =
     .label = Normalno
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Za dodir
     .accesskey = Z
+
+## File
+

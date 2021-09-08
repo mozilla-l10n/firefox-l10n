@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Ukloni odabrano
     .accesskey = r
 
-site-data-button-cancel =
-    .label = Odustani
-    .accesskey = O
-
-site-data-button-save =
-    .label = Spremi izmjene
-    .accesskey = S
-
 site-data-settings-dialog =
     .buttonlabelaccept = Spremi izmjene
     .buttonaccesskeyaccept = S

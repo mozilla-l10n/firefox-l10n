@@ -59,8 +59,6 @@ policy-DisableForgetButton = Spriječite pristup tipki za brisanje povijesti pre
 
 policy-DisableFormHistory = Nemoj pamtiti povijest pretraživanja i obrazaca.
 
-policy-DisableMasterPasswordCreation = Ukoliko je točno, korisnik neće moći stvoriti glavnu lozinku.
-
 policy-DisablePrimaryPasswordCreation = Ukoliko je točno, neće biti moguće postaviti primarnu lozinku.
 
 policy-DisablePasswordReveal = Nemoj dozvoliti prikaz spremljenih lozinki.
@@ -134,8 +132,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Vrati se na staro pona
 policy-LocalFileLinks = Omogućite određenim web stranicama poveznice na lokalne datoteke.
 
 policy-ManagedBookmarks = Konfigurira popis zabilješki kojima upravlja administrator, a koje korisnik ne može mijenjati.
-
-policy-MasterPassword = Zahtijevaj ili spriječi upotrebu glavne lozinke.
 
 policy-ManualAppUpdateOnly = Dopusti samo ručno aktualiziranje i ne obavještavaj korisnika o novim verzijama.
 

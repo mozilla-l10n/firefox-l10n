@@ -147,8 +147,6 @@ about-webrtc-aec-logging-off-state-msg = snimljene log datoteke je moguće prona
 
 ##
 
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
@@ -158,6 +156,8 @@ about-webrtc-jitter-label = Jitter { $jitter }
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+
+##
 
 ##
 

@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Zabilježi karticu
     .accesskey = b
-reopen-in-container =
-    .label = Ponovo otvori u kontejneru
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Otvori u novoj kontejnerskoj kartici
     .accesskey = e
@@ -69,27 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Zatvori višestruke kartice
     .accesskey = t
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Poništi zatvaranje kartice
-            [one] Poništi zatvaranje kartice
-            [few] Poništi zatvaranje kartice
-           *[other] Poništi zatvaranje kartica
-        }
-    .accesskey = n
-close-tab =
-    .label = Zatvori karticu
-    .accesskey = c
-close-tabs =
-    .label = Zatvori kartice
-    .accesskey = Z
-move-tabs =
-    .label = Pomakni kartice
-    .accesskey = m
-move-tab =
-    .label = Pomakni karticu
-    .accesskey = m
 tab-context-share-url =
     .label = Podijeli
     .accesskey = h
@@ -135,6 +111,7 @@ tab-context-move-tabs =
            *[other] Premjesti kartice
         }
     .accesskey = m
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

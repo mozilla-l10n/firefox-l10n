@@ -4,8 +4,10 @@
 
 import-ab-csv-window =
     .title = Uvoz adresara iz tekstualne datoteke
+
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Pregled uvoza podataka za zapis { $recordNumber }
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Uvoz
     .buttonaccesskeyaccept = U

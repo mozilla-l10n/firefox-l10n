@@ -28,16 +28,6 @@ serviceworker-worker-unregister = Odjavi
 serviceworker-worker-debug = Otklanjanje grešaka
     .title = Otklanjanje grešaka je moguće samo za pokrenute radne procese
 
-# Text for the debug link displayed for an already started Service Worker, when we
-# are in multi e10s mode, which effectively disables this link.
-serviceworker-worker-debug-forbidden = Otklanjanje grešaka
-    .title = Otklanjanje grešaka je moguće samo ako su višestruki e10 onemogućeni
-
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start2 = Pokreni
-    .title = Pokretanje radnih procesa je moguće samo ako su višestruki e10 onemogućeni
-
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Pregledaj
@@ -50,12 +40,6 @@ serviceworker-worker-start3 = Pokreni
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Aktualizirano <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = Izvor
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = Stanje
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -66,35 +50,11 @@ serviceworker-worker-status-running = Pokrenuto
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Zaustavljeno
 
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Radni proces moraš ovdje registrirati kako bi ga pregledao/la. <a>Saznaj više</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = Ako bi trenutačna stranica trebala imati radni proces, pokušaj sljedeće
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = Nađi greške pomoću konzole. <a>Otvori konzolu</a>
-
-# Suggestion to use the debugger to investigate why a service worker is not registered.
-# Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Pregledaj registraciju radnog procesa i nađi iznimke. <a>Otvori uklanjanje grešaka</a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Pregledaj radne procese drugih domena. <a>Otvori about:debugging</a>
-
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Saznaj više
 
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest aplikacije
-
-# Header for the Manifest page when there's no manifest to inspect
-# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = Ovdje moraš dodati Manifest web aplikacije kako bi je ovdje pregledao/la. <a>Saznaj više</a>
 
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro-link = Saznaj kako dodati manifest

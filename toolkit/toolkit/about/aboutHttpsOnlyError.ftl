@@ -2,16 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-httpsonly-insecure-title = Sigurna veza nije dostupna
-
-# Variables:
-#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-insecure-explanation-unavailable = Pregledavate u načinu rada "samo HTTPS", a sigurna HTTPS verzija <em> { $websiteUrl } </em> nije dostupna.
-about-httpsonly-insecure-explanation-reasons = Web-stranica najvjerojatnije ne podržava HTTPS, ali moguće je i da napadač blokira HTTPS verziju.
-about-httpsonly-insecure-explanation-exception = Iako je sigurnosni rizik nizak, ako odlučite posjetiti HTTP verziju web-stranice, ne biste trebali unositi osjetljive podatke, poput lozinki, e-pošte ili podataka o kreditnoj kartici.
-
-about-httpsonly-button-make-exception = Prihvati rizik i nastavi na stranicu
-
 about-httpsonly-title-alert = Upozorenje za način rada "samo HTTPS"
 about-httpsonly-title-connection-not-available = Sigurna veza nije dostupna
 

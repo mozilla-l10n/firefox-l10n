@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Spremi stranicu kao…">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Postavke stranice…">
-<!ENTITY pageSetupCmd.accesskey "t">
-<!ENTITY printPreviewCmd.label "Pregled ispisa">
-<!ENTITY printPreviewCmd.accesskey "i">
 <!ENTITY printCmd.label "Ispis…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
