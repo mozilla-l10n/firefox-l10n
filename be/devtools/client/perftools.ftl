@@ -97,8 +97,6 @@ perftools-thread-img-decoder =
     .title = Патокі дэкадавання відарысаў
 perftools-thread-dns-resolver =
     .title = У гэтым патоку адбываецца вызначэнне DNS
-perftools-thread-js-helper =
-    .title = Фонавая праца JS-рухавіка, напрыклад, кампіляцыя па-за асноўным патокам
 
 perftools-thread-task-controller =
     .title = Патокi пула патокаў TaskController

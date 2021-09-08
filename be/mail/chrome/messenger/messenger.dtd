@@ -83,10 +83,6 @@
 <!ENTITY printCmd.label "Друкаваць…">
 <!ENTITY printCmd.accesskey "Д">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Перадпрагляд друку">
-<!ENTITY printPreviewCmd.accesskey "г">
-<!ENTITY printSetupCmd.label "Уладкаваць старонку…">
-<!ENTITY printSetupCmd.accesskey "у">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Выдаліць ліст">
@@ -166,8 +162,6 @@
 <!ENTITY recentFolders.accesskey "я">
 <!ENTITY compactVersion.label "Шчыльная праява">
 <!ENTITY compactVersion.accesskey "Ш">
-<!ENTITY folderPaneBar.label "Панэль прылад папак">
-<!ENTITY folderPaneBar.accesskey "П">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Размеркаваць па">
@@ -455,12 +449,6 @@
 <!ENTITY addressBookCmd.label "Адрасная кніга">
 <!ENTITY addressBookCmd.accesskey "а">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Дадаткі">
-<!ENTITY addons.accesskey "д">
-<!ENTITY addonPrefs.label "Налады дадатка">
-<!ENTITY addonPrefs.accesskey "Н">
-<!ENTITY addonPrefsUnix.label "Перавагі дадатка">
-<!ENTITY addonPrefsUnix.accesskey "П">
 <!ENTITY addonNoPrefs.label "Не знойдзены налады дадатку.">
 <!ENTITY activitymanager.label "Кіраўнік дзейнасці">
 <!ENTITY activitymanager.accesskey "д">
@@ -507,8 +495,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Адладка дадаткаў">
 <!ENTITY debugAddonsCmd.accesskey "А">
-<!ENTITY tabsDebugCmd.label "Адладчык фрэйма змесціва">
-<!ENTITY tabsDebugCmd.accesskey "з">
 <!ENTITY errorConsoleCmd.label "Кансоль памылак">
 <!ENTITY errorConsoleCmd.accesskey "п">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -532,15 +518,11 @@
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Наперад">
 <!ENTITY deleteItem.title "Выдаліць">
-<!ENTITY deleteButton.label "Выдаліць">
-<!ENTITY undeleteButton.label "Адмяніць выдаленне">
 <!ENTITY markButton.label "Пазначыць">
 <!ENTITY printButton.label "Друкаваць">
 <!ENTITY stopButton.label "Спыніць">
 <!ENTITY throbberItem.title "Паказнік дзейнасці">
 <!ENTITY junkItem.title "Лухта">
-<!ENTITY junkButton.label "Лухта">
-<!ENTITY notJunkButton.label "Не лухта">
 <!ENTITY addressBookButton.label "Адрасная кніга">
 <!ENTITY chatButton.label "Гутарка">
 <!ENTITY glodaSearch.title "Агульны пошук">
@@ -571,13 +553,9 @@
 <!ENTITY previousMsgButton.tooltip "Перайсці да папаярэдняга ліста">
 <!ENTITY goForwardButton.tooltip "Перамясціцца да наступнага ліста">
 <!ENTITY goBackButton.tooltip "Перамясціцца да папярэдняга ліста">
-<!ENTITY deleteButton.tooltip "Выдаліць вылучаны ліст ці папку">
-<!ENTITY undeleteButton.tooltip "Адмяніць выдаленне вылучанага ліста">
 <!ENTITY markButton.tooltip "Пазначыць лісты">
 <!ENTITY printButton.tooltip "Надрукаваць гэты ліст">
 <!ENTITY stopButton.tooltip "Прыпыніць цяперашні перанос">
-<!ENTITY junkButton.tooltip "Пазначыць вылучаныя лісты як лухту">
-<!ENTITY notJunkButton.tooltip "Пазначыць вылучаныя лісты як не лухту">
 <!ENTITY addressBookButton.tooltip "Перайсці ў адрасную кнігу">
 <!ENTITY chatButton.tooltip "Паказаць устаўку гутаркі">
 <!ENTITY tagButton.tooltip "Меткі лістоў">

@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey "В">
 <!ENTITY deleteCmd.label "Выдаліць">
 <!ENTITY deleteCmd.accesskey "д">
-<!ENTITY preferencesCmd2.label "Наладжванні">
-<!ENTITY preferencesCmd2.accesskey "Н">
-<!ENTITY preferencesCmdUnix.label "Перавагі">
-<!ENTITY preferencesCmdUnix.accesskey "П">
 
 <!ENTITY viewMenu.label "Прагляд">
 <!ENTITY viewMenu.accesskey "г">

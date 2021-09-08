@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Зрабіць здымак экрана
-
-screenshots-my-shots-button = Мае здымкі
-
 screenshot-toolbarbutton =
     .label = Здымак экрана
     .tooltiptext = Зрабіць здымак экрана
@@ -40,8 +36,6 @@ screenshots-login-error-details = Нам не ўдалося захаваць в
 
 screenshots-unshootable-page-error-title = Мы не можам зрабіць скрыншот гэтай старонкі.
 screenshots-unshootable-page-error-details = Гэта не стандартная вэб-старонка, таму вы не можаце зрабіць яе скрыншот.
-
-screenshots-self-screenshot-error-title = Вы не можаце зрабіць здымак старонкі { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Абраная вобласць занадта малая
 

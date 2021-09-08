@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Злучыць іншую прыладу
     .style = width: 32em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Калі вы яшчэ гэтага не зрабілі, усталюйце <a data-l10n-name="connect-another-device">Firefox на сваю мабільную прыладу</a>.
-
-fxa-qrcode-heading-phase2 = 2. Затым ўвайдзіце ў { -sync-brand-short-name }, або на Android-прыладзе скануйце код злучэння з налад { -sync-brand-short-name }.
-
 fxa-qrcode-heading-step1 = 1. Калі вы яшчэ гэтага не зрабілі, усталюйце <a data-l10n-name="connect-another-device">Firefox на сваю мабільную прыладу</a>.
 
 fxa-qrcode-heading-step2 = 2. Адкрыйце Firefox на мабільнай прыладзе.

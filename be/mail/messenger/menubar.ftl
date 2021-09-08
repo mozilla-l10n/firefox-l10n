@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Кадаванне тэксту
-    .accesskey = К
-
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -16,6 +12,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Перавагі
     .accesskey = П
+
 menu-addons-and-themes =
     .label = Дадаткі і тэмы
     .accesskey = Д
@@ -25,9 +22,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Рэжым вырашэння праблем…
     .accesskey = Р
+
 menu-help-exit-troubleshoot-mode =
     .label = Выключыць рэжым вырашэння праблем
     .accesskey = В
+
 menu-help-more-troubleshooting-info =
     .label = Больш звесткі пра вырашэнне праблемаў
     .accesskey = Б
@@ -58,12 +57,18 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Шчыльнасць
     .accesskey = Ш
+
 mail-uidensity-compact =
     .label = Ушчыльную
     .accesskey = У
+
 mail-uidensity-normal =
     .label = Нармалёва
     .accesskey = Н
+
 mail-uidensity-touch =
     .label = Датычны рэжым
     .accesskey = Д
+
+## File
+

@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-safe-mode-window =
-    .title = Бяспечны рэжым { -brand-short-name }
-    .style = max-width: 400px
-start-safe-mode =
-    .label = Запуск у бяспечным рэжыме
-
 troubleshoot-mode-window =
     .title = Адкрыць { -brand-short-name } у рэжыме вырашэння праблем?
     .style = max-width: 400px
@@ -15,9 +9,6 @@ start-troubleshoot-mode =
     .label = Адкрыць
 refresh-profile =
     .label = Ачысціць { -brand-short-name }
-safe-mode-description = Бяспечны рэжым – адмысловы рэжым { -brand-short-name }, які выкарыстоўваецца для вырашэння праблемаў.
-safe-mode-description-details = Вашы дадаткі і адмысловыя налады будуць часова адключаны, і функцыі { -brand-short-name } могуць працаваць не так, як зараз.
-refresh-profile-instead = Яшчэ вы можаце прапусціць пошук рашэння і паспрабаваць ачысціць { -brand-short-name }.
 troubleshoot-mode-description = Выкарыстоўвайце гэты спецыяльны рэжым { -brand-short-name } для дыягностыкі праблем. Вашы пашырэнні і налады будуць часова адключаны.
 skip-troubleshoot-refresh-profile = Яшчэ вы можаце прапусціць пошук рашэння і замест ачысціць { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes.

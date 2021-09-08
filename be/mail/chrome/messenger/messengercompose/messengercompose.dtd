@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Новы">
 <!ENTITY newMenu.accesskey "н">
 <!ENTITY newMessage.label "Ліст">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "л">
 <!ENTITY newContact.label "Сувязь з адраснай кнігі…">
 <!ENTITY newContact.accesskey "С">
 <!ENTITY attachMenu.label "Далучыць">
 <!ENTITY attachMenu.accesskey "л">
-<!ENTITY attachFileCmd.label "Файл(ы)…">
-<!ENTITY attachFileCmd.accesskey "Ф">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Старонку Сеціва…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Даслаць пазней">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "П">
-<!ENTITY printSetupCmd.label "Уладкаваць старонку…">
-<!ENTITY printSetupCmd.accesskey "л">
-<!ENTITY printPreviewCmd.label "Перадпрагляд друку">
-<!ENTITY printPreviewCmd.accesskey "д">
 <!ENTITY printCmd.label "Друкаваць…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "Д">
@@ -100,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Перапарадкаваць укладанні">
-<!ENTITY moveAttachmentTopPanelBtn.label "Перайсці да пачатку">
-<!ENTITY moveAttachmentUpPanelBtn.label "Перамясціць уверх">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Перамясціць разам">
-<!ENTITY moveAttachmentDownPanelBtn.label "Перамясціць уніз">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Перамясціць у канец">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -201,10 +188,6 @@
 <!ENTITY accountManagerCmd2.label "Наладжванні рахунку">
 <!ENTITY accountManagerCmd2.accesskey "Н">
 <!ENTITY accountManagerCmdUnix2.accesskey "Н">
-<!ENTITY preferencesCmd2.label "Наладжванні">
-<!ENTITY preferencesCmd2.accesskey "Н">
-<!ENTITY preferencesCmdUnix.label "Перавагі">
-<!ENTITY preferencesCmdUnix.accesskey "П">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -217,7 +200,6 @@
 <!ENTITY sendButton.label "Даслаць">
 <!ENTITY quoteButton.label "Вытрымка">
 <!ENTITY addressButton.label "Адрас">
-<!ENTITY attachButton.label "Далучыць">
 <!ENTITY spellingButton.label "Праверка правапісу">
 <!ENTITY saveButton.label "Захаваць">
 <!ENTITY printButton.label "Друкаваць">
@@ -287,8 +269,6 @@
 <!ENTITY reorderAttachments.accesskey "а">
 <!ENTITY selectAll.label "Вылучыць усё">
 <!ENTITY selectAll.accesskey "У">
-<!ENTITY attachFile.label "Далучыць файл(ы)…">
-<!ENTITY attachFile.accesskey "Ф">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Ператварыць у…">

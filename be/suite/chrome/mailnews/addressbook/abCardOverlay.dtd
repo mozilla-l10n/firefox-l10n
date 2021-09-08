@@ -114,7 +114,6 @@
 
 <!ENTITY Photo.tab "Здымак">
 <!ENTITY Photo.accesskey "д">
-<!ENTITY PhotoDesc.label "Узяць адзін з наступных:">
 <!ENTITY GenericPhoto.label "Агульны здымак">
 <!ENTITY GenericPhoto.accesskey "А">
 <!ENTITY DefaultPhoto.label "Змоўчны">

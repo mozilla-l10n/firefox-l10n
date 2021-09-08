@@ -14,10 +14,10 @@
 <!ENTITY useSmoothScroll.label "Ужываць плаўнае пракручванне">
 <!ENTITY useSmoothScroll.accesskey "ж">
 
-<!ENTITY siteSpecific.label "Памятаць узроўні павялічэння для пляцовак">
-<!ENTITY siteSpecific.accesskey "у">
 <!ENTITY textZoomOnly.label "Павялічваць тэкст, а не старонкі цалкам">
 <!ENTITY textZoomOnly.accesskey "в">
+<!ENTITY siteSpecific.label "Памятаць узроўні павялічэння для пляцовак">
+<!ENTITY siteSpecific.accesskey "у">
 <!ENTITY enableAutomaticImageResizing.label "Сціскаць вялікія выявы да памераў акна азіральніка">
 <!ENTITY enableAutomaticImageResizing.accesskey "ц">
 

@@ -38,10 +38,6 @@
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "П">
 
-<!ENTITY editRewrapCmd.label "Перазагінаць">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "г">
-
 <!ENTITY accountManagerCmd.label "Наладжванні рахунку Пошты і Навінакупаў…">
 <!ENTITY accountManagerCmd.accesskey "П">
 
@@ -96,6 +92,7 @@
 <!ENTITY fileHereMenu.label "Пакласці тут">
 
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!ENTITY sendButton.label "Даслаць">
 <!ENTITY addressButton.label "Адрас">
 <!ENTITY attachButton.label "Далучыць">
@@ -103,6 +100,7 @@
 <!ENTITY saveButton.label "Захаваць">
 <!ENTITY stopButton.label "Спыніць">
 
+<!--tooltips-->
 <!--tooltips-->
 <!ENTITY addressBar.tooltip "Адрасная паліца">
 <!ENTITY formatToolbar.tooltip "Паліца прылад фарматавання">

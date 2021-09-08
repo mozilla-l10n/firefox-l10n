@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Спіс
 
-blocklist-button-cancel =
-    .label = Скасаваць
-    .accesskey = С
-
-blocklist-button-ok =
-    .label = Захаваць змены
-    .accesskey = З
-
 blocklist-dialog =
     .buttonlabelaccept = Захаваць змены
     .buttonaccesskeyaccept = З
