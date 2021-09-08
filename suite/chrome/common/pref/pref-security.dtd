@@ -38,3 +38,5 @@
 <!ENTITY blockWebForgeries.label          "Bloquear sites avaliados como fraudulentos (roubo de dados)">
 <!ENTITY blockWebForgeries.accesskey      "r">
 
+<!ENTITY blockAutoRefresh.label           "Avisar quando sites tentarem redirecionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.accesskey       "A">

@@ -29,7 +29,6 @@
 <!ENTITY maxZoom.label                          "até">
 <!ENTITY maxZoom.accesskey                      "o">
 <!ENTITY percent.label                          "&#37;">
-
 <!ENTITY defaultZoom.label                      "Zoom padrão">
 <!ENTITY defaultZoom.accesskey                  "d">
 
@@ -38,6 +37,7 @@
 <!ENTITY siteSpecific.label                     "Lembrar níveis de zoom com base no site">
 <!ENTITY siteSpecific.accesskey                 "m">
 <!ENTITY showZoomStatusPanel.label              "Mostrar controles de zoom na barra de status">
+<!ENTITY showZoomStatusPanel.accesskey          "S">
 <!ENTITY enableAutomaticImageResizing.label     "Redimensionar imagens para caber na janela">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 
