@@ -19,44 +19,7 @@ certmgr-tab-ca =
 
 certmgr-mine = Skilríki frá stofnunum sem auðkenna þig
 certmgr-people = Skilríki sem auðkenna þetta fólk
-certmgr-servers = Skilríki sem auðkenna þessi vefsvæði
 certmgr-ca = Skilríki sem auðkenna þessar vottunarstöðvar
-
-certmgr-detail-general-tab-title =
-    .label = Almennt
-    .accesskey = A
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Nánar
-    .accesskey = N
-
-certmgr-pending-label =
-    .value = Er að sannvotta skilríki…
-
-certmgr-subject-label = Gefið út fyrir
-
-certmgr-issuer-label = Gefið út af
-
-certmgr-period-of-validity = Tímabil í gildi
-
-certmgr-fingerprints = Fingraför
-
-certmgr-cert-detail =
-    .title = Nánar um skilríki
-    .buttonlabelaccept = Loka
-    .buttonaccesskeyaccept = L
-
-certmgr-cert-detail-commonname = Almennt nafn (CN)
-
-certmgr-cert-detail-org = Stofnun (O)
-
-certmgr-cert-detail-orgunit = Stofnunareining (OU)
-
-certmgr-cert-detail-serial-number = Raðnúmer
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 fingrafar
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 fingrafar
 
 certmgr-edit-ca-cert =
     .title = Breyta stillingum CA skilríkja trausts
@@ -86,12 +49,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Öryggistæki
 
-certmgr-begins-on = Byrjar þann
-
 certmgr-begins-label =
     .label = Byrjar þann
-
-certmgr-expires-on = Rennur út
 
 certmgr-expires-label =
     .label = Rennur út
@@ -133,18 +92,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Flytja inn…
     .accesskey = i
-
-certmgr-details =
-    .value = Skilríkjasvæði
-    .accesskey = S
-
-certmgr-fields =
-    .value = Gildi
-    .accesskey = G
-
-certmgr-hierarchy =
-    .value = Stigskipting skilríkja
-    .accesskey = S
 
 certmgr-add-exception =
     .label = Bæta við undantekningu…
@@ -208,12 +155,6 @@ delete-user-cert-confirm = Ertu viss um að þú viljir eyða þessum skilríkju
 delete-user-cert-impact = Ef þú eyðir þínum eigin skilríkjum geturðu ekki lengur notað þau til að auðkenna sjálfan þig.
 
 
-delete-ssl-cert-title =
-    .title = Eyða skilríkja undantekningum netþjóna
-delete-ssl-cert-confirm = Ertu viss um að viljir eyða þessum undantekningum netþjóns?
-delete-ssl-cert-impact = EF þú eyðir undantekningu netþjóns, gerirðu aftur virkar venjulegar öryggisaðgerðir sem athuga netþjóna og gera kröfur um gilt skilríki.
-
-
 delete-ca-cert-title =
     .title = Eyða eða vantreysta CA skilríkjum
 delete-ca-cert-confirm = Þú hefur valið að eyða CA skilríkjum. Ef þetta er innbyggð skilríki mun allt traust verða fjarlægt, sem hefur sömu áhrif. Ertu viss um að þú viljir eyða eða vantreysta?
@@ -233,45 +174,6 @@ cert-with-serial =
     .value = Skilríki með raðnúmer: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Skilríkjaskoðari: “{ $certName }”
-
-not-present =
-    .value = <Ekki hluti af skilríki>
-
-# Cert verification
-cert-verified = Þetta skilríki hefur verið sannreynt fyrir eftirfarandi notkun:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL biðlaraskírteini
-
-verify-ssl-server =
-    .value = SSL netþjónsskírteini
-
-verify-ssl-ca =
-    .value = SSL Vottunarstöð skilríkja
-
-verify-email-signer =
-    .value = Póst skilríki
-
-verify-email-recip =
-    .value = Skilríki póstviðtakanda
-
-# Cert verification
-cert-not-verified-cert-revoked = Get ekki sannreynt þetta skilríki vegna þess að það hefur verið afturkallað.
-cert-not-verified-cert-expired = Get ekki sannreynt þetta skilríki vegna þess að það er útrunnið.
-cert-not-verified-cert-not-trusted = Get ekki sannreynt þetta skilríki vegna þess að því er ekki treystandi.
-cert-not-verified-issuer-not-trusted = Get ekki sannreynt þetta skilríki vegna þess útgefanda er ekki treystandi.
-cert-not-verified-issuer-unknown = Get ekki sannreynt þetta skilríki vegna þess að útgefandi er óþekktur.
-cert-not-verified-ca-invalid = Get ekki sannreynt þetta skilríki vegna þess að CA skilríki er óleyfilegt.
-cert-not-verified_algorithm-disabled = Gat ekki sannreynt þetta skilríki vegna þess að það var undirritað með undirskriftar algrími sem er ekki lengur virkt vegna þess að algrímið er ekki öruggt.
-cert-not-verified-unknown = Get ekki sannreynt þetta skilríki vegna óþekktra ástæðna.
 
 ## Used to show whether an override is temporary or permanent
 

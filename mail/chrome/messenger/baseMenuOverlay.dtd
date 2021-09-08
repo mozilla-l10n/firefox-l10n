@@ -9,8 +9,4 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Hjálp">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY helpTroubleshootingInfo.label "Upplýsingar fyrir úrræðaleit">
-<!ENTITY helpTroubleshootingInfo.accesskey "t">
-<!ENTITY helpSafeMode.label "Endurræsa með viðbætur óvirkar…">
-<!ENTITY helpSafeMode.accesskey "r">
 

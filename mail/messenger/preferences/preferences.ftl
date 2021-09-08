@@ -3,13 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Valkostir
-           *[other] Valkostir
-        }
-
 pane-compose-title = Samsetning
 category-compose =
     .tooltiptext = Samsetning
@@ -76,10 +69,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Sérsníða…
     .accesskey = S
-
-tray-icon-label =
-    .label = Sýna sem táknmynd í bakka
-    .accesskey = t
 
 mail-custom-sound-label =
     .label = Nota hljóðskrá
@@ -250,9 +239,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Litur:
     .accesskey = L
-
-search-input =
-    .placeholder = Leita
 
 type-column-label =
     .label = Efnistegund
@@ -519,16 +505,6 @@ passwords-description = { -brand-short-name } getur munað öll þín lykilorð 
 passwords-button =
     .label = Vistuð lykilorð…
     .accesskey = V
-
-master-password-description = Aðallykilorð verndar öll önnur lykilorð en þú verður að slá það inn í hverri vafralotu.
-
-master-password-label =
-    .label = Nota aðallykilorð
-    .accesskey = N
-
-master-password-button =
-    .label = Breyta aðallykilorði…
-    .accesskey = B
 
 
 junk-description = Stilla sjálfgefnar ruslpóstsstillingar. Stillingar fyrir ruslpóst fyrir ákveðinn reikning er hægt að stilla í stillingum reiknings.

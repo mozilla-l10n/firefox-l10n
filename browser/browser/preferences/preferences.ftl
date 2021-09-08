@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Alltaf
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Valkostir
-       *[other] Valkostir
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Leita í stillingum
-           *[other] Leita í stillingum
-        }
-
 managed-notice = Vafra þínum er stjórnað af skipulagsheild þinni.
 
 pane-general-title = Almennt
@@ -48,10 +26,6 @@ category-search =
 pane-privacy-title = Friðhelgi og öruggi
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = { -brand-short-name } Stuðningur
 addons-button-label = Viðbætur & þemu
@@ -81,21 +55,9 @@ restart-later = Endurræsa seinna
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Viðbót, <img data-l10n-name="icon"/> { $name }, stjórnar þinni heimasíðu.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Viðbót, <img data-l10n-name="icon"/> { $name }, stjórnar nýju flipa síðunni þinni.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Viðbót, <img data-l10n-name="icon"/> { $name }, stjórnar þessari stillingu.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Viðbót, <img data-l10n-name="icon"/> { $name }, hefur breytt sjálfgefinni leitarvél.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -120,26 +82,11 @@ extension-controlled-enable = Til að virkja viðbót farðu þá í <img data-l
 
 search-results-header = Leitarniðurstöður
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Því miður! Engar niðurstöður eru til fyrir stillingar fyrir “<span data-l10n-name="query"></span>”.
-       *[other] Því miður! Engar niðurstöður eru til fyrir stillingar fyrir “<span data-l10n-name="query"></span>”.
-    }
-
 search-results-help-link = Vantar þig hjálp? Kíktu á <a data-l10n-name="url">{ -brand-short-name } hjálp</a>
 
 ## General Section
 
 startup-header = Ræsing
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Leyfa { -brand-short-name } og Firefox að keyra á sama tíma
-use-firefox-sync = Ábending: Þetta notar aðskilda reikninga. Notaðu { -sync-brand-short-name } til að deila gögnum á milli þeirra.
-get-started-not-logged-in = Skráðu þig inn í { -sync-brand-short-name }…
-get-started-configured = Opna { -sync-brand-short-name } stillingar
 
 always-check-default =
     .label = Alltaf athuga hvort { -brand-short-name } sé sjálfgefin vafri
@@ -179,10 +126,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Vara við ef opnun á mörgum flipum gæti hægt á { -brand-short-name }
     .accesskey = o
-
-switch-links-to-new-tabs =
-    .label = Þegar ég opna tengil í nýjum flipa, skipta strax yfir á hann
-    .accesskey = s
 
 show-tabs-in-taskbar =
     .label = Sýna flipasýnishorn í Windows verkslánni
@@ -341,11 +284,6 @@ applications-manage-app =
     .label = Forritsupplýsingar…
 applications-always-ask =
     .label = Spyrja alltaf
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -418,8 +356,6 @@ update-application-warning-cross-user-setting = Þessi stilling mun eiga við al
 update-application-use-service =
     .label = Nota bakgrunnsþjónustu til að setja inn uppfærslur
     .accesskey = b
-
-update-setting-write-failure-title = Ekki tókst að vista uppfærða valkosti
 
 update-in-progress-title = Uppfærsla í vinnslu
 
@@ -628,8 +564,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = Leitarábendingar verða ekki sýndar í staðsetningarslá þar sem þú hefur stillt { -brand-short-name } þannig að hann muni ekki neina leitarsögu.
 
-search-one-click-header = Leitarvélar með einum smelli
-
 search-one-click-desc = Veldu auka leitarvélar sem birtast hér fyrir neðan staðsetningarslá og leitarslá þegar þú byrjar að slá inn lykilorð.
 
 search-choose-engine-column =
@@ -662,9 +596,6 @@ containers-add-button =
     .label = Bæta við nýjum innihaldsflipa
     .accesskey = a
 
-containers-preferences-button =
-    .label = Stillingar
-
 containers-remove-button =
     .label = Fjarlægja
 
@@ -675,7 +606,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Taktu vefinn með þér
-sync-signedout-description = Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingará milli allra þinna tækja.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -749,15 +679,6 @@ sync-engine-addons =
     .tooltiptext = Viðbætur og þema fyrir Firefox á borðtölvu
     .accesskey = æ
 
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Stillingar
-           *[other] Valkostir
-        }
-    .tooltiptext = Almennt, friðhelgi, og öryggistillingar sem þú hefur breytt
-    .accesskey = s
-
 ## The device name controls.
 
 sync-device-name-header = Tækjanafn
@@ -803,14 +724,9 @@ forms-generate-passwords =
 forms-saved-logins =
     .label = Vistaðar innskráningar…
     .accesskey = V
-forms-master-pw-use =
-    .label = Nota aðallykilorð
-    .accesskey = o
 forms-master-pw-change =
     .label = Breyta aðallykilorði…
     .accesskey = B
-
-forms-master-pw-fips-title = Þú ert núna í FIPS ham. FIPS má ekki hafa tómt aðallykilorð.
 
 forms-master-pw-fips-desc = Gat ekki breytt lykilorði
 
@@ -913,10 +829,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Sýsla með gögn…
     .accesskey = M
-
-sitedata-cookies-permissions =
-    .label = Stjórna heimildum
-    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -1051,12 +963,6 @@ permissions-addon-exceptions =
     .label = Undanþágur…
     .accesskey = U
 
-permissions-a11y-privacy-checkbox =
-    .label = Koma í veg fyrir að aðgengis þjónustur geti skoðað vafra
-    .accesskey = a
-
-permissions-a11y-privacy-link = Fræðast meira
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Gagnasöfnun og notkun
@@ -1080,11 +986,6 @@ addon-recommendations-link = Fræðast meira
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Gagna skýrsla er óvirk í þessari útgáfu
-
-collection-backlogged-crash-reports =
-    .label = Leyfa { -brand-short-name } að senda hrunskýrslu í bakgrunni í þínu nafni
-    .accesskey = ð
-collection-backlogged-crash-reports-link = Fræðast meira
 
 ## Privacy Section - Security
 ##
@@ -1112,16 +1013,6 @@ security-block-uncommon-software =
 
 certs-header = Skilríki
 
-certs-personal-label = Þegar netþjónn biður um mitt skilríki
-
-certs-select-auto-option =
-    .label = Velja eitt sjálfvirkt
-    .accesskey = s
-
-certs-select-ask-option =
-    .label = Spyrja í hvert skipti
-    .accesskey = S
-
 certs-enable-ocsp =
     .label = Senda fyrirspurn á OCSP þjóna til að staðfesta hvort núverandi skírteini séu gild
     .accesskey = S
@@ -1133,34 +1024,6 @@ certs-view =
 certs-devices =
     .label = Öryggistæki…
     .accesskey = y
-
-space-alert-learn-more-button =
-    .label = Fræðast meira
-    .accesskey = F
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Opna stillingar
-           *[other] Opna stillingar
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } er verða búið með diskaplássið. Hugsanlega birtist innihald vefsvæði ekki rétt. Þú getur hreinsað vistuð gögn í Valkostir > Friðhelgi og Öruggi > Smákökur og gögn vefsvæðis.
-       *[other] { -brand-short-name } er verða búið með diskaplássið. Hugsanlega birtist innihald vefsvæðis ekki rétt. Þú getur hreinsað vistuð gögn í Valkostir > Friðhelgi og Öruggi > Smákökur og gögn vefsvæðis.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = Í lagi, ég skil
-    .accesskey = l
-
-space-alert-under-5gb-message = { -brand-short-name } er verða búið með diskaplássið. Hugsanlega birtist innihald vefsvæði ekki rétt. Kíktu á “Fræðast meira” til að lagfæra disk notkun til að vafra betur.
 
 ## Privacy Section - HTTPS-Only
 

@@ -110,9 +110,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Breyta
     .accesskey = e
-menu-edit-find-on =
-    .label = Leita á síðu…
-    .accesskey = t
 menu-edit-find-again =
     .label = Leita aftur
     .accesskey = u
@@ -128,9 +125,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Verkfæraslár
     .accesskey = V
-menu-view-customize-toolbar =
-    .label = Sérsníða…
-    .accesskey = S
 menu-view-sidebar =
     .label = Hliðslá
     .accesskey = H
@@ -161,9 +155,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Almennur síðustíll
     .accesskey = A
-menu-view-charset =
-    .label = Stafatafla
-    .accesskey = f
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -212,10 +203,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Bókamerki
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = Sýna öll bókamerki
-menu-bookmark-this-page =
-    .label = Setja síðu í bókamerki
 menu-bookmark-edit =
     .label = Breyta bókamerki
 menu-bookmarks-all-tabs =
@@ -235,32 +222,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Niðurhal
     .accesskey = N
-menu-tools-addons =
-    .label = Viðbætur
-    .accesskey = i
 menu-tools-sync-now =
     .label = Samstilla núna
     .accesskey = S
-menu-tools-web-developer =
-    .label = Vefforritari
-    .accesskey = f
 menu-tools-page-source =
     .label = Frumkóði síðu
     .accesskey = k
 menu-tools-page-info =
     .label = Upplýsingar síðu
     .accesskey = U
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Valkostir
-           *[other] Valkostir
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] V
-           *[other] V
-        }
 menu-tools-layout-debugger =
     .label = Útlits aflúsari
     .accesskey = L
@@ -295,29 +265,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hjálp
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } Hjálp
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Skoðunarferð
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = Flýtilyklar
-    .accesskey = k
-menu-help-troubleshooting-info =
-    .label = Upplýsingar fyrir úrræðaleit
-    .accesskey = t
 menu-help-report-site-issue =
     .label = Tilkynna vandamál á vefsvæði…
 menu-help-feedback-page =
     .label = Senda álit…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = Endurræsa með viðbætur óvirkar…
-    .accesskey = r
-menu-help-safe-mode-with-addons =
-    .label = Endurræsa með viðbætur virkar
-    .accesskey = r
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

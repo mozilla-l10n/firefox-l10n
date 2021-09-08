@@ -43,9 +43,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Bókamerkja flipa
     .accesskey = B
-reopen-in-container =
-    .label = Opna aftur í innihaldsflipa
-    .accesskey = e
 move-to-start =
     .label = Færa á byrjun
     .accesskey = S
@@ -55,18 +52,6 @@ move-to-end =
 move-to-new-window =
     .label = Færa yfir í nýjan glugga
     .accesskey = g
-close-tab =
-    .label = Loka flipa
-    .accesskey = L
-close-tabs =
-    .label = Loka flipum
-    .accesskey = S
-move-tabs =
-    .label = Færa flipa
-    .accesskey = v
-move-tab =
-    .label = Færa flipa
-    .accesskey = v
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

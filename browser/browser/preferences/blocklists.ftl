@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Listi
 
-blocklist-button-cancel =
-    .label = Hætta við
-    .accesskey = H
-
-blocklist-button-ok =
-    .label = Vista breytingar
-    .accesskey = s
-
 blocklist-dialog =
     .buttonlabelaccept = Vista breytingar
     .buttonaccesskeyaccept = s

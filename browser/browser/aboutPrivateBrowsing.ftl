@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Opna huliðsglugga
 about-private-browsing-search-placeholder = Leita á vefnum
 about-private-browsing-info-title = Þú ert í huliðsglugga
 about-private-browsing-info-myths = Algengar mýtur um huliðsleit
-about-private-browsing =
-    .title = Leita á vefnum
 about-private-browsing-not-private = Þú ert ekki í huliðsglugga.
 about-private-browsing-info-description = { -brand-short-name } hreinsar leitar- og vafraferilinn þinn þegar þú lokar forritinu eða lokar öllum einkaflipum og gluggum. Þó að þetta sé ekki nafnlaust gagnvart vefsíðum eða þjónustuveitu þinni, gerir það auðveldara að halda því sem þú gerir á netinu hulið gagnvart einkaaðilum sem nota þessa tölvu.
 

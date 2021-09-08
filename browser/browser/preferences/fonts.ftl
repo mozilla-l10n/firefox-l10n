@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Stafakóðun fyrir gamlar síður
-fonts-languages-fallback-desc = Þessi stafakóðun er notuð fyrir gamlar síður sem senda ekki hvaða stafakóðun er notuð.
-
-fonts-languages-fallback-label = Sjálfgefið og stafakóðun
-    .accesskey = s
-
-fonts-languages-fallback-name-auto =
-    .label = Sjálfgefið fyrir núverandi tungumál
-fonts-languages-fallback-name-arabic =
-    .label = Arabíska
-fonts-languages-fallback-name-baltic =
-    .label = Baltneskt
-fonts-languages-fallback-name-ceiso =
-    .label = Mið-Evrópa, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Mið-Evrópa, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Kínverska, einfölduð
-fonts-languages-fallback-name-traditional =
-    .label = Kínverska, hefðbundin
-fonts-languages-fallback-name-cyrillic =
-    .label = Kýrillískt
-fonts-languages-fallback-name-greek =
-    .label = Gríska
-fonts-languages-fallback-name-hebrew =
-    .label = Hebreska
-fonts-languages-fallback-name-japanese =
-    .label = Japanska
-fonts-languages-fallback-name-korean =
-    .label = Kóreska
-fonts-languages-fallback-name-thai =
-    .label = Tælenska
-fonts-languages-fallback-name-turkish =
-    .label = Tyrkneska
-fonts-languages-fallback-name-vietnamese =
-    .label = Víetnamska
-fonts-languages-fallback-name-other =
-    .label = Annað (með Vestur-Evrópu)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

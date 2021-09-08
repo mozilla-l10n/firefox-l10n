@@ -5,7 +5,6 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Tillögur að viðbótum
-cfr-doorhanger-pintab-heading = Prófaðu þetta: Festa flipa
 
 ##
 
@@ -17,8 +16,6 @@ cfr-doorhanger-extension-cancel-button = Ekki núna
 
 cfr-doorhanger-extension-ok-button = Bæta við núna
     .accesskey = B
-cfr-doorhanger-pintab-ok-button = Festa þennan flipa
-    .accesskey = F
 
 cfr-doorhanger-extension-manage-settings-button = Sýsla með ábendingastillingar
     .accesskey = s
@@ -58,12 +55,6 @@ cfr-doorhanger-extension-total-users =
     }
 
 ## These messages are steps on how to use the feature and are shown together.
-
-cfr-doorhanger-pintab-step1 = <b>Hægri smella á</ b> á flipann sem þú vilt festa.
-cfr-doorhanger-pintab-step2 = Veldu <b>Festa flipa</ b> í valmyndinni.
-
-cfr-doorhanger-pintab-animation-pause = Setja í bið
-cfr-doorhanger-pintab-animation-resume = Halda áfram
 
 
 ## Firefox Accounts Message
@@ -118,4 +109,10 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Fission Experiment Message
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

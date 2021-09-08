@@ -79,10 +79,6 @@
 <!ENTITY printCmd.label "Prenta…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Prentskoðun">
-<!ENTITY printPreviewCmd.accesskey "ð">
-<!ENTITY printSetupCmd.label "Uppsetning síðu…">
-<!ENTITY printSetupCmd.accesskey "U">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Eyða pósti">
@@ -162,8 +158,6 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Þjöppuð sýn">
 <!ENTITY compactVersion.accesskey "Þ">
-<!ENTITY folderPaneBar.label "Möppu flipa tækjaslá">
-<!ENTITY folderPaneBar.accesskey "f">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Raða eftir">
@@ -448,8 +442,6 @@
 <!ENTITY addressBookCmd.label "Nafnaskrá">
 <!ENTITY addressBookCmd.accesskey "N">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Viðbætur">
-<!ENTITY addons.accesskey "b">
 <!ENTITY activitymanager.label "Yfirlit aðgerða">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY imAccountsStatus.label "Staða spjalls">
@@ -493,8 +485,6 @@
 <!ENTITY devToolboxCmd.label "Forritunarverkfæri">
 <!ENTITY devToolboxCmd.accesskey "t">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY tabsDebugCmd.label "Content Frame Debugger">
-<!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Villugluggi">
 <!ENTITY errorConsoleCmd.accesskey "g">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -518,15 +508,11 @@
 <!ENTITY backButton1.label "Til baka">
 <!ENTITY goForwardButton1.label "Áfram">
 <!ENTITY deleteItem.title "Eyða">
-<!ENTITY deleteButton.label "Eyða">
-<!ENTITY undeleteButton.label "Afturkalla eyðingu">
 <!ENTITY markButton.label "Merkja">
 <!ENTITY printButton.label "Prenta">
 <!ENTITY stopButton.label "Stöðva">
 <!ENTITY throbberItem.title "Virknimælir">
 <!ENTITY junkItem.title "Ruslpóstur">
-<!ENTITY junkButton.label "Ruslpóstur">
-<!ENTITY notJunkButton.label "Ekki ruslpóstur">
 <!ENTITY addressBookButton.label "Nafnaskrá">
 <!ENTITY chatButton.label "Spjall">
 <!ENTITY glodaSearch.title "Víðtæk leit">
@@ -557,13 +543,9 @@
 <!ENTITY previousMsgButton.tooltip "Fara á fyrri skilaboð">
 <!ENTITY goForwardButton.tooltip "Áfram um einn póst">
 <!ENTITY goBackButton.tooltip "Til baka um einn póst">
-<!ENTITY deleteButton.tooltip "Eyða völdum pósti eða möppu">
-<!ENTITY undeleteButton.tooltip "Endurheimta valdan póst">
 <!ENTITY markButton.tooltip "Merkja póst">
 <!ENTITY printButton.tooltip "Prenta þennan póst">
 <!ENTITY stopButton.tooltip "Stöðva núverandi sendingu">
-<!ENTITY junkButton.tooltip "Merkja valinn póst sem ruslpóst">
-<!ENTITY notJunkButton.tooltip "Merkja valinn póst sem ekki ruslpóstur">
 <!ENTITY addressBookButton.tooltip "Fara í nafnaskrá">
 <!ENTITY chatButton.tooltip "Sýna spjallflipann">
 <!ENTITY tagButton.tooltip "Flokka póst">

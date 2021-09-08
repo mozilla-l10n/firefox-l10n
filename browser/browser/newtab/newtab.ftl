@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Leita
     .aria-label = Leita
 
-newtab-search-box-search-the-web-text = Leita á vefnum
-
 newtab-search-box-search-the-web-input =
     .placeholder = Leita á vefnum
     .title = Leita á vefnum

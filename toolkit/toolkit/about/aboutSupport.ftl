@@ -10,11 +10,6 @@ crashes-id = Skýrslu auðkenni
 crashes-send-date = Sent
 crashes-all-reports = Allar hrunskýrslur
 crashes-no-config = Ekki er búið að stilla þetta forrit til að birta hrunskýrslur.
-extensions-title = Viðbætur
-extensions-name = Nafn
-extensions-enabled = Virk
-extensions-version = Útgáfa
-extensions-id = Auðkenni
 support-addons-name = Nafn
 support-addons-version = Útgáfa
 support-addons-id = Auðkenni
@@ -102,8 +97,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tegund ferlis
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Breytur
-safe-mode-title = Prófaðu öryggisham
-restart-in-safe-mode-label = Endurræsa með viðbætur óvirkar…
 
 ## Media titles
 
@@ -240,19 +233,12 @@ webgl2-renderer = WebGL 2 myndrekill
 webgl2-version = WebGL 2 útgáfa rekils
 webgl2-driver-extensions = WebGL 2 reklaviðbætur
 webgl2-extensions = WebGL 2 viðbætur
-blocklisted-bug = Á svörtum lista vegna þekktra vandamál
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = villa { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Á svörtum lista; villukóði { $failureCode }
 
 d3d11layers-crash-guard = D3D11 Compositor
-d3d11video-crash-guard = D3D11 Vídeó afkóðari
-d3d9video-crash-guard = D3D9 Vídeó afkóðari
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Endurstilla í næstu endurræsingu
@@ -290,14 +276,6 @@ launcher-process-status-unknown = Óþekkt staða
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Virkjað af notanda
-multi-process-status-1 = Sjálfgefið virkjað
-multi-process-status-2 = Óvirkt
-multi-process-status-4 = Gert óvirkt af auðveldað aðgengi
-multi-process-status-6 = Gert óvirkt vegna texta inntaks sem er ekki með stuðning
-multi-process-status-7 = Gert óvirkt af viðbótum
-multi-process-status-8 = Gert óvirkt með valdi
-multi-process-status-unknown = Óþekkt staða
 
 async-pan-zoom = Ósamstillt Færa/Þysja
 apz-none = ekkert

@@ -27,14 +27,6 @@ site-data-remove-selected =
     .label = Fjarlægja valið
     .accesskey = r
 
-site-data-button-cancel =
-    .label = Hætta við
-    .accesskey = H
-
-site-data-button-save =
-    .label = Vista breytingar
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = Vista breytingar
     .buttonaccesskeyaccept = a

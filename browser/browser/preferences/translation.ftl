@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Fjarlægja öll vefsvæði
     .accesskey = i
 
-translation-button-close =
-    .label = Loka
-    .accesskey = L
-
 translation-dialog =
     .buttonlabelaccept = Loka
     .buttonaccesskeyaccept = L

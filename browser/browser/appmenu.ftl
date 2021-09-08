@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Sérsníða…
-
 ## Zoom Controls
 
 appmenuitem-new-tab =
@@ -26,22 +23,20 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Samstilla núna
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Sýna allt
-    .tooltiptext = Sýna alla flipa frá þessu tæki
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Engir opnir flipar
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Kveiktu á samstillingu flipa til að skoða lista af flipum frá öðrum tækjum.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Viltu sjá hérna þína flipa frá öðrum tækjum?
+
 appmenu-remote-tabs-connectdevice =
     .label = Tengja annað tæki
 appmenu-remote-tabs-unverified = Nauðsynlegt er að staðfesta reikning.
+
 appmenuitem-save-page =
     .label = Vista síðu sem…
 
@@ -94,3 +89,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Verkefnisstjóri
+

@@ -29,12 +29,6 @@
 <!ENTITY closeCmd.label "Loka">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "Uppsetning síðu…">
-<!ENTITY printSetupCmd.accesskey "U">
-<!ENTITY printPreviewContactCmd.label "Prentskoða tengilið">
-<!ENTITY printPreviewContactCmd.accesskey "t">
-<!ENTITY printPreviewAddressBook.label "Prentskoða nafnaskrá">
-<!ENTITY printPreviewAddressBook.accesskey "ð">
 <!ENTITY printContactCmd.label "Prenta tengilið…">
 <!ENTITY printContactCmd.accesskey "P">
 <!ENTITY printContactCmd.key "P">
@@ -108,10 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey "i">
 <!ENTITY exportCmd.label "Flytja út…">
 <!ENTITY exportCmd.accesskey "t">
-<!ENTITY preferencesCmd2.label "Valkostir">
-<!ENTITY preferencesCmd2.accesskey "o">
-<!ENTITY preferencesCmdUnix.label "Valkostir">
-<!ENTITY preferencesCmdUnix.accesskey "V">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label "Nýr tengiliður">

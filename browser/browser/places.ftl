@@ -5,31 +5,9 @@
 places-open =
     .label = Opna
     .accesskey = O
-places-open-tab =
-    .label = Opna í nýjum flipa
-    .accesskey = f
 places-open-all-in-tabs =
     .label = Opna allt í flipum
     .accesskey = O
-places-open-window =
-    .label = Opna í nýjum glugga
-    .accesskey = n
-places-open-private-window =
-    .label = Opna í nýjum huliðsglugga
-    .accesskey = p
-
-places-new-bookmark =
-    .label = Nýtt bókamerki…
-    .accesskey = b
-places-new-folder-contextmenu =
-    .label = Ný mappa…
-    .accesskey = m
-places-new-folder =
-    .label = Ný mappa…
-    .accesskey = m
-places-new-separator =
-    .label = Nýr aðgreinir
-    .accesskey = g
 
 places-view =
     .label = Skoða
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Raða eftir nafni
     .accesskey = r
-places-properties =
-    .label = Eiginleikar
-    .accesskey = i
 
