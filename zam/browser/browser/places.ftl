@@ -5,13 +5,6 @@
 places-open =
     .label = Xhal la
     .accesskey = X
-places-open-tab =
-    .label = mb-šàlɁ lô kùb
-    .accesskey = b
-
-places-new-bookmark =
-    .label = Toob kue lo ko do lash na...
-    .accesskey = T
 
 places-view =
     .label = N-wíɁ

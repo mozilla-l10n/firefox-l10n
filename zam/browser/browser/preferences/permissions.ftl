@@ -20,10 +20,6 @@ permissions-allow =
 permissions-status =
     .label = Xha duy
 
-permissions-button-cancel =
-    .label = B-láɁ=y
-    .accesskey = l
-
 permissions-capabilities-allow =
     .label = Lay
 permissions-capabilities-block =

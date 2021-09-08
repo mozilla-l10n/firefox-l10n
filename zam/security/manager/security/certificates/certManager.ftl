@@ -11,16 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-servers =
     .label = Servers
 
-certmgr-detail-general-tab-title =
-    .label = Xha niey
-    .accesskey = X
-
-certmgr-fingerprints = Fingerprints
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 Fingerprint
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 Fingerprint
-
 certmgr-cert-server =
     .label = Server
 
@@ -59,8 +49,6 @@ file-browse-pkcs12-spec = PKCS12 yêtz
 
 ## Cert Viewer
 
-not-present =
-    .value = <Not Part Of Certificate>
 
 ## Used to show whether an override is temporary or permanent
 

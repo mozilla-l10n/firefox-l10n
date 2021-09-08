@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Kuan tak kel xhin
-       *[other] Koo lash luu
-    }
-
 pane-general-title = Ree ta koo taak niel
 category-general =
     .tooltiptext = { pane-general-title }
@@ -112,11 +106,6 @@ applications-use-other =
 
 applications-manage-app =
     .label = Xha mud nak kue...
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")

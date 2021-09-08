@@ -104,9 +104,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Tùs kùe
     .accesskey = e
-menu-edit-find-on =
-    .label = GòzăɁl lô ré...
-    .accesskey = F
 menu-edit-find-again =
     .label = GòzăɁl nâl
     .accesskey = g
@@ -122,9 +119,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Koo tak lii chel
     .accesskey = K
-menu-view-customize-toolbar =
-    .label = Tùs kùe...
-    .accesskey = e
 menu-view-sidebar =
     .label = Yaa
     .accesskey = Y
@@ -189,10 +183,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Ndó~làz=ná
     .accesskey = N
-menu-bookmarks-show-all =
-    .label = Mb-lòɁ ré tá kó ndó~làz=ná
-menu-bookmark-this-page =
-    .label = Tób kùe loo ndó~làz=ná
 menu-bookmark-edit =
     .label = Tùs kùe Ndó~làz=ná
 menu-bookmarks-all-tabs =
@@ -210,32 +200,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Koo blaal
     .accesskey = K
-menu-tools-addons =
-    .label = Koo kub taak toob luu loo firefox
-    .accesskey = K
 menu-tools-sync-now =
     .label = Sincronizar ahora
     .accesskey = S
-menu-tools-web-developer =
-    .label = Xha koo dee thus kue kue Web
-    .accesskey = W
 menu-tools-page-source =
     .label = Güi xha mud na thus kue kue
     .accesskey = i
 menu-tools-page-info =
     .label = Choo thus kue kue
     .accesskey = C
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Koo tak lii chel
-           *[other] Koo lash luu
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] K
-           *[other] l
-        }
 
 ## Window Menu
 
@@ -266,24 +239,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Taa diif yall
     .accesskey = l
-menu-help-product =
-    .label = { -brand-shorter-name } Help
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Tour
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = eyboard Shortcuts
-    .accesskey = e
-menu-help-troubleshooting-info =
-    .label = Guii xha mud thus kue liy
-    .accesskey = G
 menu-help-feedback-page =
     .label = Taal diif dizh
     .accesskey = h
-menu-help-safe-mode-without-addons =
-    .label = Bí~rè là kíy...
-    .accesskey = B
-menu-help-safe-mode-with-addons =
-    .label = Bí~rè là kíy ner tob ko kub
-    .accesskey = B

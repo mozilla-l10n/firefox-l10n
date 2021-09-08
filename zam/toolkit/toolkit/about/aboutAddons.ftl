@@ -5,22 +5,6 @@
 search-header-shortcut =
     .key = f
 
-cmd-find-updates =
-    .label = GòzăɁl ko kùb
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Kuan lash luu lil
-           *[other] Koo lash luu
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] K
-           *[other] K
-        }
-
 detail-home-value =
     .value = { detail-home.label }
 

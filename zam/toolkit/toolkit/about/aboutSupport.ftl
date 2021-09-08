@@ -9,11 +9,6 @@ crashes-title = Né re ko na re-xhínta
 crashes-id = Kúan mxhac
 crashes-send-date = Ndâ-lá
 crashes-all-reports = Né ré tá ko na snín tá
-extensions-title = Extensión
-extensions-name = Xha mud leel
-extensions-enabled = Ngò~tòb kìy
-extensions-version = Versión
-extensions-id = ID
 support-addons-name = Xha mud leel
 support-addons-version = Versión
 support-addons-id = ID
@@ -56,7 +51,6 @@ sandbox-sys-call-index = #
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-number = Syscall
-restart-in-safe-mode-label = Bí~rè là kíy...
 
 ## Media titles
 
@@ -122,16 +116,10 @@ webgl2-driver-extensions = WebGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
 
 # Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber }
-
-# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocklisted; failure code { $failureCode }
 
 d3d11layers-crash-guard = D3D11 Composito
-d3d11video-crash-guard = D3D11 Video Decoder
-d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Bí~rè là kíy
@@ -149,8 +137,6 @@ sandbox-proc-type-media-plugin = yíb ná media
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-2 = Naá dób kíy
-multi-process-status-unknown = Ngyéntá
 
 async-pan-zoom = Encuadro/zoom asíncrono
 apz-none = Yent tí

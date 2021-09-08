@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Tùs kùe...
-
 ## Zoom Controls
 
 appmenuitem-new-window =
@@ -28,8 +25,6 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Sincronizar ahora
 appmenuitem-save-page =
     .label = Loo xhog kue
 

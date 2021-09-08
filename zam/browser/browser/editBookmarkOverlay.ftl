@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-bookmark-overlay-name =
-    .value = Chó lélù:
-    .accesskey = l
-
-bookmark-overlay-location =
-    .value = Paa dul:
-    .accesskey = u
-
 bookmark-overlay-choose =
     .label = Mxhen na...
 
@@ -22,8 +14,4 @@ bookmark-overlay-tags-expander =
     .tooltiptext = Mb-lòɁ ré tá
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Kás~lô
-
-bookmark-overlay-keyword =
-    .value = Taa diif dizh:
-    .accesskey = T
 
