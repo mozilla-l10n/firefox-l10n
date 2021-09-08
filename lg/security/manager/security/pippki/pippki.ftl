@@ -6,9 +6,6 @@ password-quality-meter = Akasumulizo ekipimo ekyomuwendo
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Kyusa Akasumulizo ka Masita
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Kya byakwerinda: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Akasumulizo akapya (nddamu):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Ddamu oteegeke Akasumulizo nga kamasita
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Ddamu otegeke
-reset-password-text = Bwona kyusa akasumulizoko ka masita, byona byoteresee ku muko ne akasumulizo ka i-mayilu, fomu ya wiino, santifikati mubuntu, ne akasumulizo kenenyini kaza kwerabirwa. Okakasa oyagala ku kyusa akasmulizo ka masita ko?
 
 ## Downloading cert dialog
 

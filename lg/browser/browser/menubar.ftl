@@ -84,9 +84,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Longoosa
     .accesskey = L
-menu-edit-find-on =
-    .label = Nonya mu Muko Guno…
-    .accesskey = N
 menu-edit-find-again =
     .label = Nonya n'atte
     .accesskey = t
@@ -102,9 +99,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Akabawo kebikozesebwa
     .accesskey = A
-menu-view-customize-toolbar =
-    .label = Kifuule ky'oyagala…
-    .accesskey = K
 menu-view-sidebar =
     .label = Olusangiro lw'emabbali
     .accesskey = o
@@ -169,8 +163,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Obulambe
     .accesskey = O
-menu-bookmarks-show-all =
-    .label = Laga Obulambe Bwonna
 menu-bookmark-edit =
     .label = Longoosa Akalambe Kano
 menu-bookmarks-all-tabs =
@@ -186,32 +178,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Ebiwanulwa
     .accesskey = E
-menu-tools-addons =
-    .label = Ebigattibwako
-    .accesskey = E
 menu-tools-sync-now =
     .label = Kwanaganya kati
     .accesskey = K
-menu-tools-web-developer =
-    .label = Omuzimbi w'emitimbagano
-    .accesskey = O
 menu-tools-page-source =
     .label = Ensibuko y'Omuko
     .accesskey = n
 menu-tools-page-info =
     .label = Ebikwata ku'muko
     .accesskey = b
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Ebilondebwaako
-           *[other] Ebyerobozebwa
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] E
-           *[other] z
-        }
 
 ## Window Menu
 
@@ -242,12 +217,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Obuyambi
     .accesskey = O
-menu-help-troubleshooting-info =
-    .label = Amawulire ku kugonjoola obuzibu
-    .accesskey = A
 menu-help-feedback-page =
     .label = Waayo endowooza yo…
     .accesskey = W
-menu-help-safe-mode-without-addons =
-    .label = Tandika kompyuta buto nga ojjeko Ebyokwongerako…
-    .accesskey = T

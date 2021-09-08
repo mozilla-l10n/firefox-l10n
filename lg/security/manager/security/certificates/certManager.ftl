@@ -17,38 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Obunyiza
 
-certmgr-detail-general-tab-title =
-    .label = Byonaa
-    .accesskey = B
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Obukakafuu
-    .accesskey = O
-
-certmgr-pending-label =
-    .value = Kakano ttegezza santifikate…
-
-certmgr-subject-label = Kiwerwa Ku
-
-certmgr-issuer-label = Kiwerwa Na
-
-certmgr-fingerprints = Obulabe
-
-certmgr-cert-detail =
-    .title = Obukakafuu bwa Santifikati
-    .buttonlabelaccept = Ggalawo
-    .buttonaccesskeyaccept = G
-
-certmgr-cert-detail-commonname = Erinya eri Wona (CN)
-
-certmgr-cert-detail-org = Ekitogole (O)
-
-certmgr-cert-detail-orgunit = Uniti ye Ekitogole (OU)
-
-certmgr-cert-detail-serial-number = Seriyo Ennukuta
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 Obulabe
-
 certmgr-edit-ca-cert =
     .title = Kyusa enteeka ya satifikati eyekyika kya CA
     .style = width: 48em;
@@ -76,8 +44,6 @@ certmgr-override-lifetime =
 
 certmgr-token-name =
     .label = Security Device
-
-certmgr-expires-on = Expires On
 
 certmgr-expires-label =
     .label = Expires On
@@ -119,14 +85,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Okujja ebweru…
     .accesskey = k
-
-certmgr-details =
-    .value = Ebbifuu bye santifikate
-    .accesskey = E
-
-certmgr-fields =
-    .value = Omuweddo gwe kifuu
-    .accesskey = O
 
 certmgr-add-exception =
     .label = Ggataa Okundawo…
@@ -190,12 +148,6 @@ delete-user-cert-confirm = Okakasa oyagala ku sangula santifikati zino?
 delete-user-cert-impact = Bwosangula emu ku santifikati zo, tojjakunddamu kujjikozesako kwogerako.
 
 
-delete-ssl-cert-title =
-    .title = Sangula Santifikati Ezijako Kompyuta efunga zinazo
-delete-ssl-cert-confirm = Okakasa oyagala ku sangula kompyuta ezifunga zinazo zino ebijawo?
-delete-ssl-cert-impact = Bwo sangula kompyuta efunga zinazo ebijawo, onddiza obwekumi obubaddeko ebikebera kulwa kompyuta efunga zinazo ne kyittaga ekozesa ya santifikati etegerekekwa.
-
-
 delete-ca-cert-title =
     .title = Sangula oba Jjamu satifiketi eza CA
 delete-ca-cert-confirm = Osabye okujjawo zino satifiketi eza CA. Ku satifiketi eza zimbibwa munda obwesige bwona bujakuvawo, ekyikosa mu ngeri yemu. Okakasa oyagala okujjawo oba okujjamu obwesige?
@@ -208,37 +160,6 @@ delete-email-cert-confirm = Okakasa oyagala ku sangula santifikati i-mayilu za b
 delete-email-cert-impact = Bwosangula satifikati ya i-mayilu yo muntu, ojjakuba to kyasindika i-mayilu ekyakalanyi ku muntu oyo.
 
 ## Cert Viewer
-
-not-present =
-    .value = <Sikitundu ku Satifikati>
-
-# Cert verification
-cert-verified = Satifikate eno ekirizirwa ku enkola endirira:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL Satifikati ya Omukozesa
-
-verify-ssl-server =
-    .value = SSL Satifikati ye Ngabizi
-
-verify-ssl-ca =
-    .value = SSL Obunyiza bwa Satifikati
-
-verify-email-signer =
-    .value = Satifikati Ekkiriza Nannyini wa imeyiru
-
-verify-email-recip =
-    .value = Satifikati Eyaniriza Imeyiru
-
-# Cert verification
-cert-not-verified-cert-revoked = Ttenyiza ku kiriza satifikati eno kubaga ebandde ekozesibwa.
-cert-not-verified-cert-expired = Ttenyiza ku kiriza satifikati eno kubaga kibandde enanku ziwendeko.
-cert-not-verified-cert-not-trusted = Ttenyiza ku kiriza satifikati eno kubanga ttekakasirwa.
-cert-not-verified-issuer-not-trusted = Ttenyiza ku kiriza satifikati eno kubanga omuwereza ttemukakasee.
-cert-not-verified-issuer-unknown = Ttenyiza ku kiriza satifikati eno kubanga omuwereza ttategendedwa.
-cert-not-verified-ca-invalid = Ttenyiza ku kiriza satifikati eno kubanga satifikati ya CA ttetufuu.
-cert-not-verified-unknown = Ttenyiza ku kiriza satifikati eno kurwe songa ezitategerekanyi.
 
 ## Used to show whether an override is temporary or permanent
 

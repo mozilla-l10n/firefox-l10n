@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Omukulu w'ebyongerwako
-
 addons-page-title = Omukulu w'ebyongerwako
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = Yiga ebisingawo ku byongerwako
-
-cmd-show-details =
-    .label = Laga Ebisingakawo
-    .accesskey = a
-
-cmd-find-updates =
-    .label = Zuula Ebitusaganya
-    .accesskey = Z
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Ebyokulondako
-           *[other] Ebyokweroboza
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] E
-           *[other] b
-        }
-
-cmd-enable-theme =
-    .label = Mulamwa gwa kuggwereera
-    .accesskey = M
-
-cmd-disable-theme =
-    .label = LekerawoMulamwa gwa ku ggwereera
-    .accesskey = M
-
-cmd-install-addon =
-    .label = Tekamu
-    .accesskey = T
-
-cmd-contribute =
-    .label = waayo
-    .accesskey = w
-    .tooltiptext = Waayo ku kulaakulanya kw'ekyokwongerako kino
 
 detail-version =
     .label = Enkola

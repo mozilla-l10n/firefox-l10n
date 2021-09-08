@@ -6,10 +6,6 @@ page-title = Ebikwata ku kugonjoola obuzibu
 page-subtitle = Omuko gunno gulina ebiwandiko ebyo'omugaso byo yinza okwetaga bwoba ogezako okujjawo obuzibu obuguddwo. Bwoba ononoonya ebyokudamu eri emitaawana ejjabulijo ku { -brand-short-name }, keberako ku <a data-l10n-name="support-link">muko ogwo'obuyambi</a>.
 
 crashes-id = Alipoota ya ID
-extensions-title = Ebigaziya
-extensions-name = Erinnya
-extensions-enabled = Kisobozisa
-extensions-version = Enkola
 support-addons-name = Erinnya
 support-addons-version = Enkola
 app-basics-title = Ebyangu ku plogulaamu

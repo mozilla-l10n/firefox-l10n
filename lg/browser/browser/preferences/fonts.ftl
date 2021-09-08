@@ -101,37 +101,6 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-name-arabic =
-    .label = Luwarabu
-fonts-languages-fallback-name-baltic =
-    .label = Baltic
-fonts-languages-fallback-name-ceiso =
-    .label = Wakati we Bulaya, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Wakati we Bulaya, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Luchayina, Lwanguyizibwa
-fonts-languages-fallback-name-traditional =
-    .label = Luchayina, Olwekika
-fonts-languages-fallback-name-cyrillic =
-    .label = Cyrillic
-fonts-languages-fallback-name-greek =
-    .label = Luguriki
-fonts-languages-fallback-name-hebrew =
-    .label = Luhiburu
-fonts-languages-fallback-name-japanese =
-    .label = Lujapani
-fonts-languages-fallback-name-korean =
-    .label = Lukoreya
-fonts-languages-fallback-name-thai =
-    .label = Luthayi
-fonts-languages-fallback-name-turkish =
-    .label = LuTurk
-fonts-languages-fallback-name-vietnamese =
-    .label = Oluveetinaamu
-fonts-languages-fallback-name-other =
-    .label = Lulala (nabe'Bulaya e'Bugwa Njuba)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

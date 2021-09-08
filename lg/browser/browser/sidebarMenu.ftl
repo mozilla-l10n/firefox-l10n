@@ -4,5 +4,6 @@
 
 sidebar-menu-bookmarks =
     .label = Obulambe
+
 sidebar-close-button =
     .tooltiptext = Ggalawo akabaawo kebbali

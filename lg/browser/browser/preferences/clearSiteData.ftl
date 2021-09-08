@@ -51,11 +51,3 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Oja kwetaga okudamu ogulewo ebifananyi n'ebintu
 
-clear-site-data-cancel =
-    .label = Sazamu
-    .accesskey = S
-
-clear-site-data-clear =
-    .label = Sangula
-    .accesskey = C
-

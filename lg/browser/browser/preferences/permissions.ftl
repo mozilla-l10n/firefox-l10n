@@ -31,14 +31,6 @@ permissions-remove-all =
     .label = Jjamu Entimbe zzona
     .accesskey = R
 
-permissions-button-cancel =
-    .label = Sazaamu
-    .accesskey = S
-
-permissions-button-ok =
-    .label = Teleka By'okyusiza
-    .accesskey = T
-
 permissions-searchbox =
     .placeholder = Nnonya ku Lutimbe
 

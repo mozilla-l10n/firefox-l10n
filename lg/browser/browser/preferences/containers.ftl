@@ -10,10 +10,6 @@ containers-color-label = Langi
     .accesskey = L
     .style = { -containers-labels-style }
 
-containers-button-done =
-    .label = Mazze
-    .accesskey = M
-
 containers-color-blue =
     .label = Blue
 containers-color-turquoise =
