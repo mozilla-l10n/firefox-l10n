@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Премахване на всички страници
     .accesskey = в
 
-permissions-button-cancel =
-    .label = Отказ
-    .accesskey = О
-
-permissions-button-ok =
-    .label = Запазване
-    .accesskey = З
-
 permission-dialog =
     .buttonlabelaccept = Запазване
     .buttonaccesskeyaccept = З

@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Как работи
 
-turn-on-sync = Включване на { -sync-brand-short-name }…
-    .title = Отваря настройките на синхронизиране
-
 monitor-title = Получавайте известия при кражба на данни
 monitor-link = Как работи
 monitor-header-content-no-account = Проверете { -monitor-brand-name }, за да видите дали сте били жертва на кражба на данни и получете известие за нови нарушения.

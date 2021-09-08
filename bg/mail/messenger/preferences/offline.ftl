@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Автоматично продължаване, ако е открита връзка с мрежата
     .accesskey = ж
 
-startup-label = Ръчно установяване на състояние при стартиране:
-
 offline-preference-startup-label = Ръчно установяване на състояние при стартиране:
 
 status-radio-remember =

@@ -58,8 +58,6 @@ printui-options = Настройки
 printui-headers-footers-checkbox = Печат на горни и долни колонтитули
 printui-backgrounds-checkbox = Печат фонови изображения
 
-printui-selection-checkbox = Отпечатване само на избраното
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

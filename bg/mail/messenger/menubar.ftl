@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Кодиране на текста
-    .accesskey = К
-
 ## Tools Menu
 
 
@@ -22,4 +18,6 @@ menu-view-charset =
 
 
 ## View / Layout
+
+## File
 

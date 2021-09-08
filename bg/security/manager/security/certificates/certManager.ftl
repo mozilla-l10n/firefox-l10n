@@ -23,44 +23,7 @@ certmgr-tab-ca =
 certmgr-mine = Имате сертификати от тези организации, които ви идентифицират
 certmgr-remembered = Тези сертификати се използват, за да ви идентифицират пред уеб сайтове
 certmgr-people = Имате сертификати, които идентифицират следните хора
-certmgr-servers = Имате сертификати, които идентифицират следните сървъри
 certmgr-ca = Имате сертификати, които идентифицират следните удостоверители на сертификати
-
-certmgr-detail-general-tab-title =
-    .label = Основни
-    .accesskey = О
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Подробности
-    .accesskey = П
-
-certmgr-pending-label =
-    .value = Проверяване на сертификат…
-
-certmgr-subject-label = Издаден на
-
-certmgr-issuer-label = Издаден от
-
-certmgr-period-of-validity = Период на валидност
-
-certmgr-fingerprints = Отпечатъци
-
-certmgr-cert-detail =
-    .title = Подробности на сертификат
-    .buttonlabelaccept = Затваряне
-    .buttonaccesskeyaccept = З
-
-certmgr-cert-detail-commonname = Име (CN)
-
-certmgr-cert-detail-org = Организация (О)
-
-certmgr-cert-detail-orgunit = Организационно подразделение (OU)
-
-certmgr-cert-detail-serial-number = Сериен номер
-
-certmgr-cert-detail-sha-256-fingerprint = Отпечатък SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Отпечатък SHA1
 
 certmgr-edit-ca-cert =
     .title = Редактиране на настройките за доверие в сертификат на CA
@@ -93,12 +56,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Устройство по безопасността
 
-certmgr-begins-on = Започва на
-
 certmgr-begins-label =
     .label = Започва на
-
-certmgr-expires-on = Изтича на
 
 certmgr-expires-label =
     .label = Изтича на
@@ -140,18 +99,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Внасяне…
     .accesskey = В
-
-certmgr-details =
-    .value = Полета на сертификата
-    .accesskey = П
-
-certmgr-fields =
-    .value = Стойност на полето
-    .accesskey = С
-
-certmgr-hierarchy =
-    .value = Йерархия на сертификата
-    .accesskey = е
 
 certmgr-add-exception =
     .label = Добавяне на изключение…
@@ -215,12 +162,6 @@ delete-user-cert-confirm = Сигурни ли сте, че искате да и
 delete-user-cert-impact = Ако изтриете някой от вашите сертификати, няма да може да го използвате, за да се идентифицирате.
 
 
-delete-ssl-cert-title =
-    .title = Изтриване на изключенията за сървърски сертификати
-delete-ssl-cert-confirm = Сигурни ли сте, че искате да изтриете тези изключения?
-delete-ssl-cert-impact = Ако изтриете изключение за сървър, възстановявате проверките по безопасността за този сървър и изискването за валиден сертификат.
-
-
 delete-ca-cert-title =
     .title = Изтриване или премахване на доверие от сертификати на CA
 delete-ca-cert-confirm = Поискахте да изтриете тези сертификати на CA. При вградените сертификати цялото доверие ще бъде премахнато, което има същият ефект. Сигурни ли сте, че искате да изтриете или премахнете доверието?
@@ -240,45 +181,6 @@ cert-with-serial =
     .value = Сертификат със сериен номер: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Преглед на сертификат: „{ $certName }“
-
-not-present =
-    .value = <Не е част от сертификат>
-
-# Cert verification
-cert-verified = Този сертификат е потвърден за следните цели:
-
-# Add usage
-verify-ssl-client =
-    .value = Сертификат на SSL клиент
-
-verify-ssl-server =
-    .value = Сертификат на SSL сървър
-
-verify-ssl-ca =
-    .value = Удостоверител на сертификат за SSL
-
-verify-email-signer =
-    .value = Сертификат на подписващия е-поща
-
-verify-email-recip =
-    .value = Сертификат на получаващия е-поща
-
-# Cert verification
-cert-not-verified-cert-revoked = Сертификатът не е приет, защото е анулиран.
-cert-not-verified-cert-expired = Сертификатът не е приет, защото е с изтекъл срок на валидност.
-cert-not-verified-cert-not-trusted = Сертификатът не е приет, защото не е доверен.
-cert-not-verified-issuer-not-trusted = Сертификатът не е приет, защото издателят не е доверен.
-cert-not-verified-issuer-unknown = Сертификатът не е приет, защото издателят е неизвестен.
-cert-not-verified-ca-invalid = Сертификатът не е приет, защото сертификатът на неговия CA е невалиден.
-cert-not-verified_algorithm-disabled = Сертификатът не може да се провери, защото е подписан с алгоритъм за подписване, който е деактивиран, защото не е безопасен.
-cert-not-verified-unknown = Сертификатът не е приет по неизвестни причини.
 
 ## Used to show whether an override is temporary or permanent
 

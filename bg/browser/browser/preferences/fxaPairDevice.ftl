@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Добавяне на устройство
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Ако все още не сте, инсталирайте <a data-l10n-name="connect-another-device">Firefox на мобилно устройство</a>.
-
-fxa-qrcode-heading-phase2 = 2. След това влезте в { -sync-brand-short-name } или на Android сканирайте сдвояващия код през настройките на { -sync-brand-short-name } на устройството.
-
 fxa-qrcode-heading-step1 = 1. Ако все още не сте, инсталирайте <a data-l10n-name="connect-another-device">Firefox на мобилно устройство</a>.
 
 fxa-qrcode-heading-step2 = 2. Отворете Firefox на вашето мобилно устройство.

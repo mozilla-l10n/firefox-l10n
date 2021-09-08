@@ -17,13 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Избиране на всички раздели
     .accesskey = и
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [one] Отваряне на затворен раздел
-           *[other] Отваряне на затворени раздели
-        }
-    .accesskey = в
 
 toolbar-context-menu-manage-extension =
     .label = Управление на добавката
@@ -45,9 +38,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Преместване в допълнителното меню
     .accesskey = д
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Автоматично скриване от лентата
-    .accesskey = А
 toolbar-context-menu-remove-from-toolbar =
     .label = Премахване от лентата с инструменти
     .accesskey = П

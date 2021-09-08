@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Винаги
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Настройки
-       *[other] Настройки
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Търсене в настройките
-           *[other] Търсене в настройките
-        }
-
 settings-page-title = Настройки
 
 # This is used to determine the width of the search field in about:preferences,
@@ -65,10 +43,6 @@ category-search =
 pane-privacy-title = Поверителност и защита
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 pane-sync-title3 = Sync
 category-sync3 =
@@ -112,21 +86,9 @@ restart-later = Рестартиране по-късно
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Разширението „<img data-l10n-name="icon"/> { $name }“ управлява началната страница.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Разширението „<img data-l10n-name="icon"/> { $name }“ управлява страницата за нов раздел.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Разширението „<img data-l10n-name="icon"/> { $name }“ управлява настройката.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Разширението „<img data-l10n-name="icon"/> { $name }“ е задало стандартната търсеща машина.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -152,13 +114,6 @@ extension-controlled-enable = Отворете <img data-l10n-name="addons-icon"
 search-results-header = Резултати
 
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Съжаляваме! В настройките няма резултати за „<span data-l10n-name="query"></span>“.
-       *[other] Съжаляваме! В настройките няма резултати за „<span data-l10n-name="query"></span>“.
-    }
-
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Съжаляваме! В настройките няма резултати за „<span data-l10n-name="query"></span>“.
 
 search-results-help-link = Имате нужда от помощ? Посетете <a data-l10n-name="url">поддръжката за { -brand-short-name }</a>
@@ -166,14 +121,6 @@ search-results-help-link = Имате нужда от помощ? Посетет
 ## General Section
 
 startup-header = Начална страница
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Разрешаване на { -brand-short-name } и Firefox да работят едновременно
-use-firefox-sync = Съвет: Ще бъдат използвани отделни профили. Използвайте { -sync-brand-short-name }, за да споделяте данни между тях.
-get-started-not-logged-in = Вписване в { -sync-brand-short-name }…
-get-started-configured = Настройки на { -sync-brand-short-name }
 
 always-check-default =
     .label = Проверяване дали { -brand-short-name } е стандартният четец
@@ -213,10 +160,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Предупреждаване, ако отваряне на няколко раздела може да забави { -brand-short-name }
     .accesskey = а
-
-switch-links-to-new-tabs =
-    .label = При отваряне на препратка в раздел той става активен
-    .accesskey = н
 
 show-tabs-in-taskbar =
     .label = Преглед на разделите в лентата със задачите на Windows
@@ -401,11 +344,6 @@ applications-manage-app =
     .label = Подробности за приложение…
 applications-always-ask =
     .label = Винаги да пита
-applications-type-pdf = Преносим формат за документи (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -490,19 +428,6 @@ update-application-warning-cross-user-setting = Тази настройка ще
 update-application-use-service =
     .label = Използване на услуга във фонов режим за инсталиране на обновявания
     .accesskey = у
-
-update-setting-write-failure-title = Грешка при запазване на настройките за обновяване
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    Поради възникнала грешка { -brand-short-name } не запази промяната.
-    
-    Обърнете внимание, че задаването на тази настройка за обновяване изисква права за запис във файла по-долу. Вие или системен администратор може да успеете да разрешите проблема, като предоставите на групата потребители пълни права над файла.
-    
-    Във файлa „{ $path }“ не може да бъде записвано.
 
 update-setting-write-failure-title2 = Грешка при запазване на настройки
 
@@ -757,13 +682,9 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Показване на предложенията за търсене при поверително разглеждане
 
-suggestions-addressbar-settings-generic = Промяна на настройките за други предложения в адресната лента
-
 suggestions-addressbar-settings-generic2 = Промяна на настройките за други предложения в адресната лента
 
 search-suggestions-cant-show = Предложения при търсене в резултатите на адресната лента няма да бъдат показвани, защото { -brand-short-name } е настроен да не запазва историята на разглеждане.
-
-search-one-click-header = Търсене с едно щракване
 
 search-one-click-header2 = Преки пътища за търсене
 
@@ -798,13 +719,6 @@ search-keyword-warning-bookmark = Избрали сте дума, която в�
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Към настройките
-           *[other] Към настройките
-        }
-
 containers-back-button2 =
     .aria-label = Към настройките
 containers-header = Изолирани раздели
@@ -816,9 +730,6 @@ containers-new-tab-check =
     .label = Избиране на изолатор за всеки нов раздел
     .accesskey = р
 
-containers-preferences-button =
-    .label = Настройки
-
 containers-settings-button =
     .label = Настройки
 containers-remove-button =
@@ -828,11 +739,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Вземете Мрежата със себе си
-sync-signedout-description = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
-
-sync-signedout-account-signin2 =
-    .label = Вписване в { -sync-brand-short-name }…
-    .accesskey = и
 
 sync-signedout-description2 = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
 
@@ -883,12 +789,6 @@ prefs-syncing-on = Синхронизиране: ВКЛЮЧЕНО
 
 prefs-syncing-off = Синхронизиране: ИЗКЛЮЧЕНО
 
-prefs-sync-setup =
-    .label = Настройка на { -sync-brand-short-name }…
-    .accesskey = н
-
-prefs-sync-offer-setup-label = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
-
 prefs-sync-turn-on-syncing =
     .label = Включване синхронизиране
     .accesskey = с
@@ -911,11 +811,6 @@ sync-currently-syncing-logins-passwords = Регистрации и пароли
 sync-currently-syncing-addresses = Адреси
 sync-currently-syncing-creditcards = Банкови карти
 sync-currently-syncing-addons = Добавки
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Настройки
-       *[other] Настройки
-    }
 
 sync-currently-syncing-settings = Настройки
 
@@ -965,15 +860,6 @@ sync-engine-addons =
     .label = Добавки
     .tooltiptext = Разширения и теми за настолния Firefox
     .accesskey = в
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Настройки
-           *[other] Настройки
-        }
-    .tooltiptext = Променени настройки
-    .accesskey = Н
 
 sync-engine-settings =
     .label = Настройки
@@ -1030,9 +916,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Запазени регистрации…
     .accesskey = р
-forms-master-pw-use =
-    .label = Използване на главна парола
-    .accesskey = г
 forms-primary-pw-use =
     .label = Използване на главна парола
     .accesskey = п
@@ -1044,7 +927,6 @@ forms-master-pw-change =
     .label = Промяна на главна парола…
     .accesskey = л
 
-forms-master-pw-fips-title = В момента е активен режим FIPS. Той изисква попълнена главна парола.
 forms-primary-pw-change =
     .label = Промяна на главна парола…
     .accesskey = П
@@ -1053,12 +935,6 @@ forms-primary-pw-fips-title = В момента сте в режим на FIPS. 
 forms-master-pw-fips-desc = Грешка при промяна на паролата
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = създаде главна парола
 
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
@@ -1167,10 +1043,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Управление на данни…
     .accesskey = у
-
-sitedata-cookies-permissions =
-    .label = Управление на права…
-    .accesskey = п
 
 sitedata-cookies-exceptions =
     .label = Изключения…
@@ -1343,12 +1215,6 @@ permissions-addon-exceptions =
     .label = Изключения…
     .accesskey = И
 
-permissions-a11y-privacy-checkbox =
-    .label = Забраняване на достъпа до четеца на услуги за достъпност
-    .accesskey = б
-
-permissions-a11y-privacy-link = Научете повече
-
 ## Privacy Section - Data Collection
 
 collection-header = Събиране и използване на данни от { -brand-short-name }
@@ -1376,11 +1242,6 @@ addon-recommendations-link = Научете повече
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Докладването да данни е изключено за тази конфигурация на изданието
 
-collection-backlogged-crash-reports =
-    .label = Разрешаване на { -brand-short-name } да изпраща от ваше име предишни доклади за срив
-    .accesskey = и
-collection-backlogged-crash-reports-link = Научете повече
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1407,16 +1268,6 @@ security-block-uncommon-software =
 
 certs-header = Сертификати
 
-certs-personal-label = Когато сървър поиска личния ви сертификат
-
-certs-select-auto-option =
-    .label = Автоматично избиране на някой
-    .accesskey = а
-
-certs-select-ask-option =
-    .label = Питане всеки път
-    .accesskey = п
-
 certs-enable-ocsp =
     .label = Заявка към сървър OCSP responder за потвърждаване валидността на сертификатите
     .accesskey = З
@@ -1428,34 +1279,6 @@ certs-view =
 certs-devices =
     .label = Устройства по безопасността…
     .accesskey = у
-
-space-alert-learn-more-button =
-    .label = Научете повече
-    .accesskey = н
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Настройки
-           *[other] Настройки
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] н
-           *[other] н
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] Дисковото пространство достъпно за { -brand-short-name } е на свършване. Съдържанието на страницата може да не се показва правилно. Може да изчистите текущите данни от Настройки > Поверителност и защита > Бисквитки и данни на страници.
-       *[other] Дисковото пространство достъпно за { -brand-short-name } е на свършване. Съдържанието на страницата може да не се показва правилно. Може да изчистите текущите данни от Настройки > Поверителност и защита > Бисквитки и данни на страници.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = Добре
-    .accesskey = д
-
-space-alert-under-5gb-message = Дисковото пространство достъпно за { -brand-short-name } е на свършване. Съдържанието на страницата може да не се показва правилно. За да оптимално използване на дисковото пространство при сърфиране посетете „Научете повече“.
 
 space-alert-over-5gb-settings-button =
     .label = Към Настройки

@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "П">
 <!ENTITY deleteCmd.label          "Изтриване">
 <!ENTITY deleteCmd.accesskey        "т">
-<!ENTITY preferencesCmd2.label "Настройки">
-<!ENTITY preferencesCmd2.accesskey "Н">
-<!ENTITY preferencesCmdUnix.label       "Настройки">
-<!ENTITY preferencesCmdUnix.accesskey     "Н">
 
 <!ENTITY customizeCmd.label "Външен вид">
 <!ENTITY customizeCmd.accesskey "в">

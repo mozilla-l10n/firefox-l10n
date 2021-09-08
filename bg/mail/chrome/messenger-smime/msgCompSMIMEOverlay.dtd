@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Цифрово подписване на писмото">
 <!ENTITY menu_securitySign.accesskey "Ц">
 
-<!ENTITY menu_securityAttachMyKey.label "Прикачане на публичния ми ключ">
-<!ENTITY menu_securityAttachMyKey.accesskey "п">
-
 <!ENTITY menu_securityTech.label "Технология на шифроване">
 <!ENTITY menu_securityTech.accesskey "т">
 

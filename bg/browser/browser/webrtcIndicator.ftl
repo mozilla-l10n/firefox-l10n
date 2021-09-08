@@ -16,10 +16,6 @@ webrtc-sharing-window = Споделяте друг прозорец на при
 webrtc-sharing-browser-window = Споделяте { -brand-short-name }.
 webrtc-sharing-screen = Споделяте целия си екран
 webrtc-stop-sharing-button = Спиране на споделянето
-webrtc-microphone-button =
-    .title = Споделяте своя микрофон. Натиснете за настройка на споделянето.
-webrtc-camera-button =
-    .title = Споделяте своята камера. Натиснете за настройка на споделянето.
 webrtc-minimize =
     .title = Минимизиране на индикатора
 

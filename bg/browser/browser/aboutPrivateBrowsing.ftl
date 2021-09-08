@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Отваряне на повер
 about-private-browsing-search-placeholder = Търсене в интернет
 about-private-browsing-info-title = Вие сте в поверителен прозорец
 about-private-browsing-info-myths = Разпространени легенди относно поверителното разглеждане
-about-private-browsing =
-    .title = Търсене в интернет
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
