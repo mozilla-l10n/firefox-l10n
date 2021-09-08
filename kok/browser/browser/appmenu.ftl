@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = थारायात...
-
 ## Zoom Controls
 
 appmenuitem-new-window =
@@ -21,9 +18,6 @@ appmenuitem-fullscreen =
     .label = पुराय स्क्रीन
 
 ## Firefox Account toolbar button and Sync panel in App menu.
-
-fxa-toolbar-sync-now =
-    .label = आतां सिंक्रोनायझ करचें
 
 appmenuitem-save-page =
     .label = म्हण पानाची जतनाय करात...

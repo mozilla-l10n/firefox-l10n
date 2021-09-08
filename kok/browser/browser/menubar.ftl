@@ -102,9 +102,6 @@ menu-file-go-offline =
 menu-edit =
     .label = संपादन
     .accesskey = E
-menu-edit-find-on =
-    .label = ह्या पानन सोदात...
-    .accesskey = F
 menu-edit-find-again =
     .label = परतून सोदात
     .accesskey = g
@@ -120,9 +117,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = उपकरण पट्ट्यो
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = थारायात...
-    .accesskey = C
 menu-view-sidebar =
     .label = कुशीचीपट्टी
     .accesskey = e
@@ -195,10 +189,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = बुकमार्क
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = सगळे बूकमार्क दाखोवचे
-menu-bookmark-this-page =
-    .label = ह्या पानाक बूकमार्क करचें
 menu-bookmark-edit =
     .label = हो बूकमार्क संपादीत करचो
 menu-bookmarks-all-tabs =
@@ -214,32 +204,15 @@ menu-tools =
 menu-tools-downloads =
     .label = उतरावन
     .accesskey = D
-menu-tools-addons =
-    .label = जोडात
-    .accesskey = A
 menu-tools-sync-now =
     .label = आतां सिंक्रोनायझ करचें
     .accesskey = स
-menu-tools-web-developer =
-    .label = वॅब डॅवलॉपर
-    .accesskey = व
 menu-tools-page-source =
     .label = पान स्त्रोत
     .accesskey = o
 menu-tools-page-info =
     .label = पान म्हायती
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] पर्याय
-           *[other] प्राधन्या
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -270,15 +243,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = मदत
     .accesskey = H
-menu-help-keyboard-shortcuts =
-    .label = कीबोर्ड शॉर्टकट्स
-    .accesskey = क
-menu-help-troubleshooting-info =
-    .label = ट्रबलशूटींग माहिती
-    .accesskey = ट
 menu-help-feedback-page =
     .label = प्रतिक्रिया दिवची…
     .accesskey = प
-menu-help-safe-mode-without-addons =
-    .label = असक्रिय ऍड-ऑन्सां सयत सुरवात करची…
-    .accesskey = अ

@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,9 +48,6 @@ main-context-menu-page-save =
     .label = म्हण पानाची जतनाय करात...
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -81,10 +66,6 @@ main-context-menu-open-link-new-private-window =
     .label = नव्या खाजगी विंडोन जोडणी उगडात
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = हें लिंक बूकमार्क करचें
-    .accesskey = ल
-
 main-context-menu-save-link =
     .label = म्हण जोडीची जतनाय करात...
     .accesskey = k
@@ -100,10 +81,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = ईमेल नामो प्रत करात
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = जोडणी  थळ प्रत करात
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -154,29 +131,9 @@ main-context-menu-image-reload =
     .label = प्रतिमा परत लोड करची
     .accesskey = प
 
-main-context-menu-image-view =
-    .label = प्रतिमा पळयात
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = व्हिडिओ दृश्य करचो
-    .accesskey = श
-
 main-context-menu-image-copy =
     .label = प्रतिमा प्रत करात
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = प्रतामां  थळ प्रत करात
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = व्हिडिओचें थळ नक्ल करचें
-    .accesskey = क
-
-main-context-menu-audio-copy-location =
-    .label = ऑडिओचें थळ नक्कल करचें
-    .accesskey = क
 
 main-context-menu-image-save-as =
     .label = म्हण प्रतिमेची जतनाय करात...
@@ -185,10 +142,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = ईमेल प्रतिमा...
     .accesskey = g
-
-main-context-menu-image-set-as-background =
-    .label = डेस्कटॉप फांटभूंय  म्हण थारायात...
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = प्रतिमा माहिती दृश्य करची
@@ -206,10 +159,6 @@ main-context-menu-audio-save-as =
     .label = ऑडिओ असो सांबाळचो...
     .accesskey = ब
 
-main-context-menu-video-image-save-as =
-    .label = म्हण स्नेपशॉट जतनाय करात...
-    .accesskey = S
-
 main-context-menu-video-email =
     .label = ईमेल दृक...
     .accesskey = a
@@ -225,10 +174,6 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = हो प्लगईन लिपयात
     .accesskey = H
-
-main-context-menu-view-background-image =
-    .label = फांटभूंय प्रतिमा पळयात
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -288,10 +233,6 @@ main-context-menu-view-page-source =
     .label = पान स्त्रोत पळयात
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = पान म्हायती  पळयात
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = मजकूर दिशा बदलात
     .accesskey = w
@@ -300,10 +241,7 @@ main-context-menu-bidi-switch-page =
     .label = बदलात पान दिशा
     .accesskey = D
 
-main-context-menu-inspect-element =
-    .label = घटक तपासात
-    .accesskey = Q
-
 main-context-menu-eme-learn-more =
     .label = DRM विशीं अदिक शिकात…
     .accesskey = D
+

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = अँड-ऑन वेवस्थापक
-
 addons-page-title = अँड-ऑन वेवस्थापक
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = अँड-ऑनाविशीं आनीक शिका
-
-cmd-show-details =
-    .label = आनी आनीक म्हायती दाखयात
-    .accesskey = S
-
-cmd-find-updates =
-    .label = सुदार सोदात
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] पर्याय
-           *[other] प्राधान्या
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = आनी थीम नेसात
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = रावात आनी थीम नेसप
-    .accesskey = W
-
-cmd-install-addon =
-    .label = आनी स्थापीत करप
-    .accesskey = I
-
-cmd-contribute =
-    .label = आनी योगदान दियात
-    .accesskey = C
-    .tooltiptext = ह्या अँड-ऑनाच्या विकासाखातीर योगदान दियात
 
 detail-version =
     .label = आवृत्ती

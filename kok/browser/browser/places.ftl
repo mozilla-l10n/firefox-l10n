@@ -5,28 +5,9 @@
 places-open =
     .label = उगडात
     .accesskey = उ
-places-open-tab =
-    .label = नव्या टॅबांत उगडात
-    .accesskey = w
 places-open-all-in-tabs =
     .label = सगळ्या टॅबांत उगडात
     .accesskey = O
-places-open-window =
-    .label = नव्या विंडोंत उगडात
-    .accesskey = N
-
-places-new-bookmark =
-    .label = नवीन बुकमार्क...
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = नवो फोल्डर…
-    .accesskey = F
-places-new-folder =
-    .label = नवो फोल्डर…
-    .accesskey = o
-places-new-separator =
-    .label = नवीन विभाजक
-    .accesskey = S
 
 places-view =
     .label = पळयात
@@ -53,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = नावान वर्गीकरण
     .accesskey = r
-places-properties =
-    .label = वैशिश्ट्यां
-    .accesskey = i
 

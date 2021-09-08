@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] पर्याय
-       *[other] प्राधान्य
-    }
-
 pane-general-title = सर्वसादारण
 category-general =
     .tooltiptext = { pane-general-title }
@@ -45,12 +39,6 @@ should-restart-title = { -brand-short-name } परतून सुरू कर
 ## General Section
 
 startup-header = सुरवेक
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = { -brand-short-name } आणि फायरफॉक्साक एकाच वेळार चलपाक दियात
-use-firefox-sync = टीप: ही वेगळी प्रोफायला वापरता. तांचेभीतर डेटा वाटपाक सिंक वापरात.
 
 is-default = { -brand-short-name } तुमचो सद्याचो मूळ ब्रावजर
 is-not-default = { -brand-short-name } हे तुमचे मुळावे ब्रावजर न्ही
@@ -144,11 +132,6 @@ applications-manage-app =
     .label = ऍप्लिकेशनाचे तपशील...
 applications-always-ask =
     .label = सदांच विचारचें
-applications-type-pdf = पोर्टेबल डॉक्युमेंट फॉर्मेट (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -323,14 +306,9 @@ forms-exceptions =
     .label = अपवाद...
     .accesskey = व
 
-forms-master-pw-use =
-    .label = प्रधान गुप्त शब्द वापरात
-    .accesskey = U
 forms-master-pw-change =
     .label = प्रधान गुप्त शब्द बदलात...
     .accesskey = M
-
-forms-master-pw-fips-title = तुमी सद्या FIPS स्थितीन आसात. FIPS क बगर-रिकामो मास्टर पासवर्ड जाय.
 
 forms-master-pw-fips-desc = गुप्तशब्द  बदलप असफळ
 

@@ -20,10 +20,6 @@ permissions-allow =
 permissions-status =
     .label = स्थिती
 
-permissions-button-cancel =
-    .label = रद्द करात
-    .accesskey = र
-
 permissions-capabilities-allow =
     .label = अनुमती दियात
 permissions-capabilities-block =

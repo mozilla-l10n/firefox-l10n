@@ -28,7 +28,3 @@ translation-sites-button-remove-all =
     .label = सगळ्यो सायटी काडात&
     .accesskey = i
 
-translation-button-close =
-    .label = बंद
-    .accesskey = C
-
