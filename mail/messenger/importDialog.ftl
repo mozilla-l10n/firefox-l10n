@@ -4,18 +4,27 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
+
 # Description of the import module
 thunderbird-import-description = Uvozite pošto iz Thunderbirdove mape s profilom.
+
 import-from-thunderbird-zip =
     .label = Thunderbird (izvožena varnostna kopija profila; datoteka .zip, manjša od 2&nbsp;GB)
     .accesskey = Z
+
 import-from-thunderbird-dir =
     .label = Thunderbird (mapa s profilom)
     .accesskey = T
+
 import-select-profile-zip = Izberite stisnjeno mapo s profilom
+
 import-select-profile-dir = Izberite mapo s profilom
+
 zip-file-too-big-title = Datoteka .zip je prevelika
+
 zip-file-too-big-message = Izbrana datoteka .zip je večje od 2&nbsp;GB. Namesto uvoza jo ekstrahirajte, nato pa uvozite ekstrahirano mapo.
+
 wizardpage-failed =
     .label = Uvoz neuspešen
+
 wizardpage-failed-message = Uvoz je nepričakovano spodletel. Več podatkov je morda na voljo v konzoli napak.

@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Dodaj zavihek med zaznamke
     .accesskey = D
-reopen-in-container =
-    .label = Ponovno odpri v vsebniku
-    .accesskey = v
 tab-context-open-in-new-container-tab =
     .label = Odpri v novem zavihku vsebnika
     .accesskey = O
@@ -69,28 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Zapri več zavihkov
     .accesskey = č
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Ponovno odpri zavihek
-            [one] Ponovno odpri zavihek
-            [two] Ponovno odpri zavihka
-            [few] Ponovno odpri zavihke
-           *[other] Ponovno odpri zavihke
-        }
-    .accesskey = h
-close-tab =
-    .label = Zapri zavihek
-    .accesskey = Z
-close-tabs =
-    .label = Zapri zavihke
-    .accesskey = Z
-move-tabs =
-    .label = Premakni zavihke
-    .accesskey = k
-move-tab =
-    .label = Premakni zavihek
-    .accesskey = k
 tab-context-share-url =
     .label = Deli
     .accesskey = D
@@ -139,6 +114,7 @@ tab-context-move-tabs =
            *[other] Premakni zavihke
         }
     .accesskey = m
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

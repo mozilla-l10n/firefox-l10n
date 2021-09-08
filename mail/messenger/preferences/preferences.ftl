@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Zapri
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Možnosti
-           *[other] Nastavitve
-        }
-
 preferences-doc-title = Nastavitve
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Opusti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nadaljuj
 
-addons-button = Razširitve in teme
-
 account-button = Nastavitve računa
 open-addons-sidebar-button = Dodatki in teme
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Če želite ustvariti glavno geslo, vnesite svoje podatke za prijavo v sistem Windows. To pomaga zaščititi varnost vaših računov.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = ustvari glavno geslo
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Če želite ustvariti glavno geslo, vnesite svoje podatke za prijavo v sistem Windows. To pomaga zaščititi varnost vaših računov.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Prilagodi …
     .accesskey = a
-
-tray-icon-label =
-    .label = prikaži ikono sistemske vrstice
-    .accesskey = n
 
 biff-use-system-alert =
     .label = Uporabi sistemsko obvestilo
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Barva:
     .accesskey = a
-
-search-input =
-    .placeholder = Išči
 
 search-handler-table =
     .placeholder = Filtriraj vrste vsebine in dejanja
@@ -723,16 +698,6 @@ passwords-button =
     .label = Shranjena gesla …
     .accesskey = S
 
-master-password-description = Glavno geslo varuje vsa vaša gesla, vendar ga morate vnesti vsaj enkrat na sejo.
-
-master-password-label =
-    .label = Uporabi glavno geslo
-    .accesskey = U
-
-master-password-button =
-    .label = Nastavi glavno geslo …
-    .accesskey = N
-
 
 primary-password-description = Glavno geslo varuje vsa vaša gesla, vendar ga morate vnesti vsaj enkrat na sejo.
 
@@ -913,26 +878,6 @@ no-preview-description = Ta tema ni veljavna ali trenutno ni na voljo (onemogoč
 chat-variant-label =
     .value = Inačica:
     .accesskey = I
-
-chat-header-label =
-    .label = Prikaži glavo
-    .accesskey = g
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Najdi v možnostih
-           *[other] Najdi v nastavitvah
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

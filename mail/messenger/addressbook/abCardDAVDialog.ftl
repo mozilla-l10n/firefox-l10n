@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Nadaljuj
     .buttonaccesskeyaccept = N
 
-carddav-experimental-warning = Podpora za imenike CardDAV je poskusna in lahko poškoduje vaše podatke. Uporabljajte na lastno odgovornost.
-
-carddav-provider-label =
-    .value = Ponudnik CardDAV:
-    .accesskey = P
-
-carddav-provider-option-other = Drug ponudnik …
-
-carddav-url-label =
-    .value = URL CardDAV:
-    .accesskey = V
-
 carddav-username-label =
     .value = Uporabniško ime:
     .accesskey = U
-carddav-username-input =
-    .placeholder = vi@example.com
-
-carddav-password-label =
-    .value = Geslo:
-    .accesskey = G
-carddav-password-input =
-    .placeholder = Geslo
-
-carddav-remember-password =
-    .label = Zapomni si geslo
-    .accesskey = Z
 
 carddav-location-label =
     .value = Naslov:

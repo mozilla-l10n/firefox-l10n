@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "U">
 <!ENTITY deleteCmd.label          "Izbriši">
 <!ENTITY deleteCmd.accesskey        "b">
-<!ENTITY preferencesCmd2.label "Možnosti">
-<!ENTITY preferencesCmd2.accesskey "M">
-<!ENTITY preferencesCmdUnix.label       "Nastavitve">
-<!ENTITY preferencesCmdUnix.accesskey     "N">
 
 <!ENTITY customizeCmd.label "Prilagodi">
 <!ENTITY customizeCmd.accesskey "l">

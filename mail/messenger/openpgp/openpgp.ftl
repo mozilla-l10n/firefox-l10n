@@ -103,10 +103,6 @@ openpgp-key-send-key =
     .label = Pošlji javni ključ po e-pošti
     .accesskey = P
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Kopiraj javne ključe na odložišče
-    .accesskey = K
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -139,8 +135,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Izvozi ključe v datoteko
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Kopiraj javne ključe na odložišče
 
 openpgp-key-man-ctx-copy =
     .label = Kopiraj
@@ -318,14 +312,8 @@ openpgp-radio-none-desc = Ne uporabljaj OpenPGP za to identiteto.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Datum preteka: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Ključ bo pretekel čez manj kot 6 mesecev
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Pretekel: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Veljavnost ključa je pretekla
 
 openpgp-key-expand-section =
     .tooltiptext = Več informacij
@@ -508,9 +496,6 @@ enig-info = Informacija OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Poskusi znova
 dlg-button-skip = Pre&skoči
-
-# Strings used in enigmailCommon.js
-enig-error = Napaka OpenPGP
 
 enig-alert-title =
     .title = Opozorilo OpenPGP

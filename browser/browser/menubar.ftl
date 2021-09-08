@@ -38,16 +38,20 @@ menu-quit =
             [windows] h
            *[other] I
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Izhod iz { -brand-shorter-name }a
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Izhod iz { -brand-shorter-name }a
+
 menu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Uredi
     .accesskey = U
-menu-edit-find-on =
-    .label = Najdi na tej strani …
-    .accesskey = D
 menu-edit-find-in-page =
     .label = Najdi na strani …
     .accesskey = d
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Orodne vrstice
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = Prilagodi …
-    .accesskey = P
 menu-view-customize-toolbar2 =
     .label = Prilagodi orodno vrstico …
     .accesskey = P
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Osnovni slog strani
     .accesskey = o
-menu-view-charset =
-    .label = Kodiranje znakov
-    .accesskey = K
 menu-view-repair-text-encoding =
     .label = Popravi kodiranje besedila
     .accesskey = r
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Ponovno odpri vsa okna
 menu-bookmarks-menu =
     .label = Zaznamki
     .accesskey = Z
-menu-bookmarks-show-all =
-    .label = Prikaži vse zaznamke
-menu-bookmark-this-page =
-    .label = Dodaj stran med zaznamke
 menu-bookmarks-manage =
     .label = Upravljanje zaznamkov
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Prenosi
     .accesskey = P
-menu-tools-addons =
-    .label = Dodatki
-    .accesskey = D
-menu-tools-fxa-sign-in =
-    .label = Prijava v { -brand-product-name } …
-    .accesskey = j
-menu-tools-turn-on-sync =
-    .label = Vklopi { -sync-brand-short-name } …
-    .accesskey = V
 menu-tools-addons-and-themes =
     .label = Dodatki in teme
     .accesskey = D
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Ponovno poveži { -brand-product-name } …
     .accesskey = n
-menu-tools-web-developer =
-    .label = Spletni razvoj
-    .accesskey = S
 menu-tools-browser-tools =
     .label = Orodja brskalnika
     .accesskey = O
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Podatki o strani
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Možnosti
-           *[other] Nastavitve
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] M
-           *[other] n
-        }
 menu-settings =
     .label = Nastavitve
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Pomoč
     .accesskey = M
-menu-help-product =
-    .label = Pomoč za { -brand-shorter-name }
-    .accesskey = m
-menu-help-show-tour =
-    .label = Predstavitev { -brand-shorter-name }a
-    .accesskey = e
-menu-help-import-from-another-browser =
-    .label = Uvozi iz drugega brskalnika …
-    .accesskey = U
-menu-help-keyboard-shortcuts =
-    .label = Bližnjice tipk
-    .accesskey = B
-menu-help-troubleshooting-info =
-    .label = Odpravljanje težav
-    .accesskey = R
 menu-get-help =
     .label = Pomoč
     .accesskey = P
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Povratne informacije …
     .accesskey = v
-menu-help-safe-mode-without-addons =
-    .label = Ponovno zaženi z onemogočenimi dodatki …
-    .accesskey = n
-menu-help-safe-mode-with-addons =
-    .label = Ponovno zaženi z omogočenimi dodatki
-    .accesskey = n
 menu-help-enter-troubleshoot-mode2 =
     .label = Način za odpravljanje težav …
     .accesskey = r

@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Prstni odtisi ključev OTR s prejšnjih šifriranih pogovorov.
 
-finger-screenName =
-    .label = Stik
-
 finger-verified =
     .label = Preverjenost
 finger-fingerprint =

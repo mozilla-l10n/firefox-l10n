@@ -6,9 +6,6 @@ password-quality-meter = Merilnik kakovosti gesla
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Spreminjanje glavnega gesla
-
 change-device-password-window =
     .title = Spremeni geslo
 
@@ -20,10 +17,6 @@ change-password-new = Novo geslo:
 change-password-reenter = Novo geslo (ponovno):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Ponastavitev glavnega gesla
-    .style = width: 40em
 
 pippki-failed-pw-change = Gesla ni bilo mogoče spremeniti.
 pippki-incorrect-pw = Vneseno geslo je napačno. Poskusite znova.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Ponastavi
-reset-password-text = Če ponastavite glavno geslo, bodo vsi vaši osebni podatki pozabljeni (shranjena spletna in e-poštna gesla, podatki o obrazcih, osebna digitalna potrdila in zasebni ključi). Ste prepričani, da želite ponastaviti svoje glavno geslo?
 
 reset-primary-password-text = Če ponastavite glavno geslo, bodo vsi vaši osebni podatki pozabljeni (shranjena spletna in e-poštna gesla, osebna digitalna potrdila in zasebni ključi). Ste prepričani, da želite ponastaviti svoje glavno geslo?
 

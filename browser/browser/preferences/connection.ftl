@@ -35,9 +35,6 @@ connection-proxy-http = Posrednik HTTP
     .accesskey = H
 connection-proxy-http-port = Vrata
     .accesskey = v
-connection-proxy-http-sharing =
-    .label = Uporabi ta posrednik tudi za FTP in HTTPS
-    .accesskey = U
 
 connection-proxy-https-sharing =
     .label = Uporabi ta posrednik tudi za HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = Posrednik HTTPS
     .accesskey = T
 connection-proxy-ssl-port = Vrata
     .accesskey = a
-
-connection-proxy-ftp = Posrednik FTP
-    .accesskey = F
-connection-proxy-ftp-port = Vrata
-    .accesskey = r
 
 connection-proxy-socks = Gostitelj SOCKS
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Brez posrednika za
     .accesskey = B
 
 connection-proxy-noproxy-desc = Primer: .mozilla.org, .net.nz
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Povezave na localhost, 127.0.0.1 in ::1 niso nikoli usmerjene preko posrednika.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Povezave na localhost, 127.0.0.1/8, in ::1 niso nikoli usmerjene preko posrednika.

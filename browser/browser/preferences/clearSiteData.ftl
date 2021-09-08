@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Strani bodo morale ponovno naložiti slike in podatke
 
-clear-site-data-cancel =
-    .label = Prekliči
-    .accesskey = k
-
-clear-site-data-clear =
-    .label = Počisti
-    .accesskey = č
-
 clear-site-data-dialog =
     .buttonlabelaccept = Počisti
     .buttonaccesskeyaccept = č

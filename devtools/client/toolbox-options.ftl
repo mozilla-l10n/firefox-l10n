@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Posnetki zaslona
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Shrani v odložišče
-options-screenshot-clipboard-tooltip =
-    .title = Shrani posnetek zaslona v odložišče
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Predvajaj zvok zaslonke kamere
 options-screenshot-audio-tooltip =

@@ -5,6 +5,7 @@
 compact-dialog-window =
     .title = Strni mape
     .style = width: 50em;
+
 compact-dialog =
     .buttonlabelaccept = Strni zdaj
     .buttonaccesskeyaccept = S
@@ -12,6 +13,8 @@ compact-dialog =
     .buttonaccesskeycancel = p
     .buttonlabelextra1 = Več o tem …
     .buttonaccesskeyextra1 = V
+
 compact-dialog-never-ask-checkbox =
     .label = V prihodnje samodejno strnjuj mape
     .accesskey = m
+

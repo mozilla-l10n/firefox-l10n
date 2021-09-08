@@ -3,12 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label     "Zavračaj pojavna okna s tega spletnega mesta">
-<!ENTITY popupWindowRejectCmd.accesskey "v">
-<!ENTITY popupWindowAllowCmd.label      "Dovoli pojavna okna s tega spletnega mesta">
-<!ENTITY popupWindowAllowCmd.accesskey  "v">
-
-<!-- Context Menu -->
 <!ENTITY openLinkCmdInTab.label       "Odpri povezavo v novem zavihku">
 <!ENTITY openLinkCmdInTab.accesskey   "z">
 <!ENTITY openLinkCmd.label            "Odpri povezavo v novem oknu">

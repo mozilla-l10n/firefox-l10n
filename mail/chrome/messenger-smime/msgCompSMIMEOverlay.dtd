@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Digitalno podpiši to sporočilo">
 <!ENTITY menu_securitySign.accesskey "D">
 
-<!ENTITY menu_securityAttachMyKey.label "Priloži moj javni ključ">
-<!ENTITY menu_securityAttachMyKey.accesskey "P">
-
 <!ENTITY menu_securityTech.label "Tehnologija šifriranja">
 <!ENTITY menu_securityTech.accesskey "T">
 

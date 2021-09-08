@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Samodejno zaznavaj, ali je povezava vzpostavljena
     .accesskey = m
 
-startup-label = Ročno stanje ob zagonu:
-
 offline-preference-startup-label = Ročno stanje ob zagonu:
 
 status-radio-remember =

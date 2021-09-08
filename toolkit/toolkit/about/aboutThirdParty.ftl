@@ -10,9 +10,6 @@ third-party-intro =
     { -brand-short-name }. Za modul tretjega ponudnika velja vsak modul,
     ki ga ni podpisal Microsoft ali { -vendor-short-name }.
 
-third-party-header-module-list = Seznam modulov
-third-party-header-loading-events = Nalaganje dogodkov
-
 third-party-message-empty = Ni zaznanih modulov drugih ponudnikov.
 
 third-party-detail-version = Različica datoteke
