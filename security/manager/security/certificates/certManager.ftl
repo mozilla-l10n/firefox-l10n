@@ -11,27 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Amagunya
 
-certmgr-subject-label = Sikhishelwe U-
-
-certmgr-issuer-label = Sikhishwe Ngu-
-
-certmgr-fingerprints = Izigxivizo zeminwe
-
-certmgr-cert-detail =
-    .title = Imininingwane Yesitifiketi
-    .buttonlabelaccept = Vala
-    .buttonaccesskeyaccept = V
-
-certmgr-cert-detail-commonname = Igama Elivamile (CN)
-
-certmgr-cert-detail-org = Inhlangano (O)
-
-certmgr-cert-detail-orgunit = Ingxenye Yenhlangano (OU)
-
-certmgr-cert-detail-serial-number = Inombolo Yaso
-
-certmgr-cert-detail-sha-1-fingerprint = Isigxivizo somunwe SHA1
-
 certmgr-edit-ca-cert =
     .title = Lungisa ukuhlelwa kokwethembeka kwesitifiketi se-CA
     .style = width: 48em;
@@ -53,8 +32,6 @@ certmgr-cert-server =
 
 certmgr-token-name =
     .label = Ithuluzi Lokulondeka
-
-certmgr-expires-on = Siphelelwa Yisikhathi Mhlaka
 
 certmgr-expires-label =
     .label = Siphelelwa Yisikhathi Mhlaka
@@ -111,37 +88,6 @@ delete-email-cert-confirm = Uyaqiniseka yini ukuthi ufuna ukuzicisha lezi zitifi
 delete-email-cert-impact = Uma ucisha isitifiketi se-imeyili, ngeke usakwazi ukuthumela i-imeyili enombhalo ocashile kulabo bantu.
 
 ## Cert Viewer
-
-not-present =
-    .value = <Akuyona Ingxenye Yesitifiketi>
-
-# Cert verification
-cert-verified = Lesi sitifiketi siye sahlolelwa loku kusetshenziswa okulandelayo:
-
-# Add usage
-verify-ssl-client =
-    .value = Isitifiketi Somthengi se-SSL
-
-verify-ssl-server =
-    .value = Isitifiketi Seseva se-SSL
-
-verify-ssl-ca =
-    .value = Igunya Lesitifiketi seSSL
-
-verify-email-signer =
-    .value = Isitifiketi Sokusayina I-imeyili
-
-verify-email-recip =
-    .value = Isitifiketi Sokwamukela I-imeyili
-
-# Cert verification
-cert-not-verified-cert-revoked = Ngeke isiqinisekise lesi sitifiketi ngoba siye sahoxiswa.
-cert-not-verified-cert-expired = Ngeke isiqinisekise lesi sitifiketi ngoba asethenjwa.
-cert-not-verified-cert-not-trusted = Ngeke isiqinisekise lesi sitifiketi ngoba sesiphelelwe isikhathi.
-cert-not-verified-issuer-not-trusted = Ngeke isiqinisekise lesi sitifiketi ngoba osikhiphile akethenjwa.
-cert-not-verified-issuer-unknown = Ngeke isiqinisekise lesi sitifiketi ngoba osikhiphile akaziwa.
-cert-not-verified-ca-invalid = Ngeke isiqinisekise lesi sitifiketi ngoba isitifiketi se-CA asisebenzi.
-cert-not-verified-unknown = Ngeke isiqinisekise lesi sitifiketi ngenxa yezizathu ezingaziwa.
 
 ## Used to show whether an override is temporary or permanent
 

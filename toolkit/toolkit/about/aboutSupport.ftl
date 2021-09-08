@@ -5,10 +5,6 @@
 page-title = Imininingwane yokuxazululwa kwezinkinga
 page-subtitle = Leli khasi liqukethe ulwazi olunzima olungahle lukusize umauzama ukuxazulula inkinga. Uma ufuna izimpendulo zemibuzo ejwayelekile mayelana ne-{ -brand-short-name }, hlola i-<a data-l10n-name="support-link">support web site</a>.
 
-extensions-title = Izithasiselo
-extensions-name = Igama
-extensions-enabled = Kwenziwe kwasebenza
-extensions-version = Inguqulo
 support-addons-name = Igama
 support-addons-version = Inguqulo
 app-basics-title = Okujwayelekile kohlelo lokusebenza

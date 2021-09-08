@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Izinketho
-       *[other] Okuthandwayo
-    }
-
 pane-general-title = Okuvamile
 category-general =
     .tooltiptext = { pane-general-title }
@@ -129,11 +123,6 @@ applications-manage-app =
     .label = Imininingwane yohlelo lokusebenza…
 applications-always-ask =
     .label = Buza njalo
-applications-type-pdf = I-Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -291,14 +280,9 @@ forms-exceptions =
     .label = Okuhlukile…
     .accesskey = k
 
-forms-master-pw-use =
-    .label = Sebenzisa iphasiwedi yokungena ephethe
-    .accesskey = S
 forms-master-pw-change =
     .label = Shintsha iphasiwedi yokungena ephethe…
     .accesskey = e
-
-forms-master-pw-fips-title = Njengamanje usebenza nge-FIPS. I-FIPS idinga Igama Lokungena Eliphethe elinotho.
 
 forms-master-pw-fips-desc = Ukushintsha Igama Lokungena Kuhlulekile
 

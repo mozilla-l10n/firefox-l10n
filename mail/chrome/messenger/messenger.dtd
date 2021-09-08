@@ -35,10 +35,6 @@
 <!ENTITY printCmd.label "Printa...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Umbono Wokuzoprintwa">
-<!ENTITY printPreviewCmd.accesskey "u">
-<!ENTITY printSetupCmd.label "Ukuhlelwa Kwekhasi...">
-<!ENTITY printSetupCmd.accesskey "k">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Cima Umyalezo">
@@ -321,8 +317,6 @@
 <!ENTITY messengerCmd.accesskey "i">
 <!ENTITY addressBookCmd.label "Incwadi yamakheli">
 <!ENTITY addressBookCmd.accesskey "i">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "d">
 <!ENTITY filtersApply.label "Sebenzisa Izisefo Eziku-folda">
 <!ENTITY filtersApply.accesskey "S">
 <!-- Help Menu -->
@@ -346,13 +340,10 @@
 <!ENTITY fileButton.label "Ifayela">
 <!ENTITY nextButton.label "Okulandelayo">
 <!ENTITY previousButton.label "Okwandulelayo">
-<!ENTITY deleteButton.label "Cisha">
 <!ENTITY markButton.label "Phawula">
 <!ENTITY printButton.label "Printa">
 <!ENTITY stopButton.label "Misa">
 <!ENTITY throbberItem.title "Isikhomba-msebenzi">
-<!ENTITY junkButton.label "Umyalezo ongenanzuzo">
-<!ENTITY notJunkButton.label "Akulona Iposi Elingenanzuzo">
 <!ENTITY addressBookButton.label "Incwadi yamakheli">
 <!ENTITY searchItem.title "Ukufuna Okusheshayo">
 <!ENTITY mailViewsToolbarItem.title "Izinhlobonhlobo Zeposi">
@@ -372,12 +363,9 @@
 <!ENTITY previousButton.tooltip "Dlulela emlayezweni owandulelayo ongakafundwa">
 <!ENTITY goForwardButton.tooltip "Go forward one message">
 <!ENTITY goBackButton.tooltip "Go back one message">
-<!ENTITY deleteButton.tooltip "Cima umyalezo okhethiwe noma I-folder">
 <!ENTITY markButton.tooltip "Phawula imiyalezo">
 <!ENTITY printButton.tooltip "Printa lomyalezo">
 <!ENTITY stopButton.tooltip "Misa lokudluliswa okwenzekayo">
-<!ENTITY junkButton.tooltip "Phawula imiyalezo ekhethiwe ngokuthi engenanzuzo">
-<!ENTITY notJunkButton.tooltip "Phawula imiyalezo ekhethiwe ngokuthi ayiyona engenanzuzo">
 <!ENTITY addressBookButton.tooltip "Iya encwadini yamakheli">
 <!ENTITY tagButton.tooltip "Tag messages">
 <!-- Tags Menu Popup -->

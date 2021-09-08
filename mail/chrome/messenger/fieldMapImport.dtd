@@ -2,10 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "Incwadi Yamakheli Yokuthumela">
-
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
-<!ENTITY fieldMapImport.recordNumber "Ukwaziswa okuthunyelwe okuzogcinwa kuRekhodi: ">
 <!ENTITY fieldMapImport.next.accesskey "u">
 <!ENTITY fieldMapImport.previous.accesskey "w">
 <!ENTITY fieldMapImport.text "Sebenzisa inkinobho yokuya phezulu naphansi ukuze uqondanise izincwadi zamakheli ezingakwesobunxele nokwaziswa okuqondile okuzothunyelwa okungakwesokudla. Ungaziphawuli izinto ongafuni ukuzithumela.">

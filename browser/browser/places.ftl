@@ -5,28 +5,9 @@
 places-open =
     .label = Vula
     .accesskey = V
-places-open-tab =
-    .label = Vula kumaki elisha
-    .accesskey = m
 places-open-all-in-tabs =
     .label = Vula konke kumamaki
     .accesskey = m
-places-open-window =
-    .label = Vula efasiteleni elisha
-    .accesskey = e
-
-places-new-bookmark =
-    .label = Uphawu lokubekisa olusha…
-    .accesskey = l
-places-new-folder-contextmenu =
-    .label = Ifolda entsha…
-    .accesskey = f
-places-new-folder =
-    .label = Ifolda entsha…
-    .accesskey = n
-places-new-separator =
-    .label = Isehlukanisi esisha
-    .accesskey = h
 
 places-view =
     .label = Bheka
@@ -53,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Hlunga ngegama
     .accesskey = r
-places-properties =
-    .label = Izici
-    .accesskey = i
 

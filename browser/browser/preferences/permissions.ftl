@@ -20,10 +20,6 @@ permissions-allow =
 permissions-status =
     .label = Isimo
 
-permissions-button-cancel =
-    .label = Khansela
-    .accesskey = K
-
 permissions-capabilities-allow =
     .label = Vumela
 permissions-capabilities-block =
