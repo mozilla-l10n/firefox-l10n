@@ -101,8 +101,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Nimero Iranga
 
-fips-nonempty-password-required = Uburyo bwa FIPS busaba ko ugira Ijambobanga Ngenga rigenewe buri apareyi y'umutekano. Usabwe gushyiraho ijambobanga mbere yo kugerageza gukoresha uburyo bwa FIPS.
-
 add-module-failure = Ntibishobotse kwongeraho igice cya porogaramu
 del-module-warning = Nibyo koko urifuza gusiba igice cya porogaramu gishinzwe umutekano?
 del-module-error = Ntishobotse gusiba igice cya porogaramu

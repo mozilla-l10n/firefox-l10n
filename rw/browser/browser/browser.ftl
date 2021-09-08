@@ -104,6 +104,7 @@ urlbar-go-button =
 
 bookmarks-sidebar-content =
     .aria-label = Utumenyetso
+
 bookmarks-toolbar-menu =
     .label = Umwanyabikoresho w'Utumenyetso
 bookmarks-toolbar-placeholder =
@@ -150,6 +151,7 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = Gutuma Ibyirambura Bikoreshwa kuri { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Guhagarika Ibyirambura kuri { $uriHost }
     .accesskey = p
@@ -159,3 +161,4 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Kuterekana ubu butumwa iyo ibyirambura byahagaritswe
     .accesskey = D
+
