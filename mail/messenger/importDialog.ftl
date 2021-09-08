@@ -9,3 +9,4 @@ thunderbird-import-name = Thunderbird
 thunderbird-import-description = Nhập thư từ thư mục hồ sơ Thunderbird.
 
 import-select-profile-zip = Chọn một thư mục hồ sơ đã nén
+

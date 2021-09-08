@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Xóa tất cả các trang
     .accesskey = i
 
-translation-button-close =
-    .label = Đóng
-    .accesskey = C
-
 translation-dialog =
     .buttonlabelaccept = Đóng
     .buttonaccesskeyaccept = C

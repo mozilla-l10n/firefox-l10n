@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Sẽ yêu cầu trang web tải lại ảnh và dữ liệu
 
-clear-site-data-cancel =
-    .label = Hủy bỏ
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Xóa
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = Xóa
     .buttonaccesskeyaccept = l

@@ -308,6 +308,8 @@ exchange-dialog-confirm-button = Đăng nhập
 
 exchange-dialog-cancel-button = Huỷ bỏ
 
+## Dismiss account creation dialog
+
 ## Alert dialogs
 
 account-setup-creation-error-title = Lỗi khi tạo tài khoản

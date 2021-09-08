@@ -10,9 +10,6 @@ third-party-intro =
     { -brand-short-name } của bạn. Bất kỳ moudle nào không được Microsoft hoặc
     { -vendor-short-name } ký được coi là một moudle của bên thứ ba.
 
-third-party-header-module-list = Danh sách moudle
-third-party-header-loading-events = Đang tải sự kiện
-
 third-party-message-empty = Không có moudle của bên thứ ba nào được phát hiện.
 third-party-message-no-duration = Không được ghi lại
 

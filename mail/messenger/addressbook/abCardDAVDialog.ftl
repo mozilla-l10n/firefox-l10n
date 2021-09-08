@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Tiếp tục
     .buttonaccesskeyaccept = C
 
-carddav-experimental-warning = Hỗ trợ sổ địa chỉ CardDAV đang thử nghiệm và có thể làm hỏng vĩnh viễn dữ liệu của bạn. Chỉ sử dụng khi bạn biết rõ nguy cơ.
-
-carddav-provider-label =
-    .value = Nhà cung cấp CardDAV:
-    .accesskey = P
-
-carddav-provider-option-other = Nhà cung cấp khác…
-
-carddav-url-label =
-    .value = URL CardDAV:
-    .accesskey = V
-
 carddav-username-label =
     .value = Tên đăng nhập:
     .accesskey = U
-carddav-username-input =
-    .placeholder = you@example.com
-
-carddav-password-label =
-    .value = Mật khẩu:
-    .accesskey = w
-carddav-password-input =
-    .placeholder = Mật khẩu
-
-carddav-remember-password =
-    .label = Ghi nhớ mật khẩu
-    .accesskey = m
 
 carddav-location-label =
     .value = Địa chỉ:

@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-bookmark-overlay-name =
-    .value = Tên:
-    .accesskey = n
-
-bookmark-overlay-location =
-    .value = Địa chỉ:
-    .accesskey = a
-
-bookmark-overlay-folder =
-    .value = Thư mục:
-
 bookmark-overlay-name-2 =
     .value = Tên
     .accesskey = N
@@ -39,10 +28,6 @@ bookmark-overlay-new-folder-button =
     .label = Thư mục mới
     .accesskey = i
 
-bookmark-overlay-tags =
-    .value = Nhãn:
-    .accesskey = h
-
 bookmark-overlay-tags-2 =
     .value = Nhãn
     .accesskey = T
@@ -54,10 +39,6 @@ bookmark-overlay-tags-expander =
     .tooltiptext = Hiện tất cả các nhãn
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Ẩn
-
-bookmark-overlay-keyword =
-    .value = Từ khóa
-    .accesskey = k
 
 bookmark-overlay-keyword-2 =
     .value = Từ khóa

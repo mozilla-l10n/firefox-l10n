@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Quản lí tiện ích
-
 addons-page-title = Quản lí tiện ích
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Hỗ trợ tiện ích
 sidebar-help-button-title =
     .title = Hỗ trợ tiện ích
 
-preferences =
-    { PLATFORM() ->
-        [windows] Tùy chọn { -brand-short-name }
-       *[other] Tùy chỉnh { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Tùy chọn { -brand-short-name }
-           *[other] Tùy chỉnh { -brand-short-name }
-        }
-
 addons-settings-button = Cài đặt { -brand-short-name }
 sidebar-settings-button-title =
     .title = Cài đặt { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Hiện tất cả các tiện ích
-
-cmd-show-details =
-    .label = Hiện thêm thông tin
-    .accesskey = S
-
-cmd-find-updates =
-    .label = Tìm bản cập nhật
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Tùy chọn
-           *[other] Tùy chỉnh
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Sử dụng chủ đề
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = Dừng sử dụng chủ đề
-    .accesskey = W
-
-cmd-install-addon =
-    .label = Cài đặt
-    .accesskey = I
-
-cmd-contribute =
-    .label = Đóng góp
-    .accesskey = C
-    .tooltiptext = Đóng góp vào sự phát triển của tiện ích này
 
 detail-version =
     .label = Phiên bản
@@ -401,8 +349,6 @@ dictionary-disabled-heading = Đã tắt
 
 locale-enabled-heading = Đã bật
 locale-disabled-heading = Đã tắt
-
-ask-to-activate-button = Hỏi trước khi kích hoạt
 
 always-activate-button = Luôn kích hoạt
 never-activate-button = Không bao giờ kích hoạt

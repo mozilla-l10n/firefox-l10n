@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Thêm ngăn chứa mới
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Tùy chọn ngăn chứa { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Biểu tượng
 containers-color-label = Màu
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Xong
-    .accesskey = X
 
 containers-dialog =
     .buttonlabelaccept = Xong

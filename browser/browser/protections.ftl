@@ -97,9 +97,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Nó hoạt động như thế nào
 
-turn-on-sync = Bật { -sync-brand-short-name }…
-    .title = Đi đến tùy chọn đồng bộ hóa
-
 monitor-title = Xem các rò rỉ dữ liệu
 monitor-link = Nó hoạt động như thế nào
 monitor-header-content-no-account = Kiểm tra tại { -monitor-brand-name } để xem bạn có phải là một phần của rò rỉ dữ liệu hay không và nhận thông báo về các rò rỉ mới.

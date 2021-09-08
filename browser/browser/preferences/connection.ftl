@@ -35,9 +35,6 @@ connection-proxy-http = Proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Cổng
     .accesskey = C
-connection-proxy-http-sharing =
-    .label = Đồng thời sử dụng proxy này cho FTP và HTTPS
-    .accesskey = s
 
 connection-proxy-https-sharing =
     .label = Đồng thời sử dụng proxy này cho HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS Proxy
     .accesskey = H
 connection-proxy-ssl-port = Cổng
     .accesskey = :
-
-connection-proxy-ftp = Proxy FTP
-    .accesskey = F
-connection-proxy-ftp-port = Cổng
-    .accesskey = n
 
 connection-proxy-socks = Máy chủ SOCKS
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Không dùng proxy cho
     .accesskey = n
 
 connection-proxy-noproxy-desc = Ví dụ: .mozilla.org, .edu.vn, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Các kết nối với localhost, 127.0.0.1 và ::1 không bao giờ đi qua máy chủ proxy.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Kết nối đến localhost, 127.0.0.1/8, và ::1 không bao giờ dùng proxy.

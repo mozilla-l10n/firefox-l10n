@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Tự động theo dõi trạng thái trực tuyến được phát hiện
     .accesskey = d
 
-startup-label = Trạng thái thủ công khi khởi động:
-
 offline-preference-startup-label = Trạng thái thủ công khi khởi động:
 
 status-radio-remember =

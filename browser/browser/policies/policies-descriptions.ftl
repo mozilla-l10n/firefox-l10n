@@ -65,8 +65,6 @@ policy-DisableForgetButton = Chặn truy cập vào nút Quên.
 
 policy-DisableFormHistory = Không lưu lịch sử tìm kiếm và biểu mẫu.
 
-policy-DisableMasterPasswordCreation = Nếu đúng, không thể tạo mật khẩu chính.
-
 policy-DisablePrimaryPasswordCreation = Nếu đúng, không thể tạo mật khẩu chính.
 
 policy-DisablePasswordReveal = Không cho phép mật khẩu được tiết lộ trong thông tin đăng nhập đã lưu.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Hoàn nguyên hành vi
 policy-LocalFileLinks = Cho phép các trang web cụ thể để liên kết đến các tập tin cục bộ.
 
 policy-ManagedBookmarks = Định cấu hình danh sách các dấu trang do quản trị viên quản lý mà người dùng không thể thay đổi.
-
-policy-MasterPassword = Yêu cầu hoặc ngăn chặn sử dụng mật khẩu chính.
 
 policy-ManualAppUpdateOnly = Chỉ cho phép cập nhật thủ công và không thông báo cho người dùng về các bản cập nhật.
 

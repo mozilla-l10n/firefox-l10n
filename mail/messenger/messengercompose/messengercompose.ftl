@@ -6,9 +6,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = Xóa trường { $type }
-
-#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -88,18 +85,6 @@ attachment-bucket-count =
         }
     .accesskey = m
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext =
-        { $count ->
-            [1] { $count } đính kèm
-           *[other] { $count } đính kèm
-        }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 expand-attachment-pane-tooltip =
     .tooltiptext = Hiển thị ngăn đính kèm ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
@@ -126,7 +111,10 @@ button-return-receipt =
     .label = Biên nhận
     .tooltiptext = Yêu cầu biên nhận trả lại cho thư này
 
+# Encryption
+
 # Addressing Area
+
 
 ## Notifications
 

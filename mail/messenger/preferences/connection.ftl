@@ -101,9 +101,6 @@ no-proxy-label =
 
 no-proxy-example = Ví dụ: .mozilla.org, .net.nz, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = Các kết nối với localhost, 127.0.0.1 và :: 1 không bao giờ được ủy quyền.
-
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Kết nối đến localhost, 127.0.0.1/8, và ::1 không bao giờ dùng proxy.
 

@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Xóa tất cả các trang web
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Hủy bỏ
-    .accesskey = H
-
-permissions-button-ok =
-    .label = Lưu thay đổi
-    .accesskey = L
-
 permission-dialog =
     .buttonlabelaccept = Lưu thay đổi
     .buttonaccesskeyaccept = L
