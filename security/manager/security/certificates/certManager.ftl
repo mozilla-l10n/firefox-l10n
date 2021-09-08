@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Mae gennych dystysgrifau gan y cyrff hyn sy'n eich adnabod chi
 certmgr-remembered = Mae'r tystysgrifau hyn yn cael eu defnyddio i'ch adnabod chi ar wefannau
 certmgr-people = Mae gennych dystysgrifau ar ffeil sy'n adnabod y bobl hyn
-certmgr-servers = Mae gennych dystysgrifau ar ffeil sy'n adnabod y bobl hyn
 certmgr-server = Mae'r cofnodion hyn yn nodi eithriadau gwall tystysgrif gweinydd
 certmgr-ca = Mae gennych dystysgrifau ar ffeil sy'n adnabod yr awdurdodau tystysgrif
-
-certmgr-detail-general-tab-title =
-    .label = Cyffredinol
-    .accesskey = C
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Manylion
-    .accesskey = M
-
-certmgr-pending-label =
-    .value = Wrthi'n dilysu'r dystysgrif…
-
-certmgr-subject-label = Dynodwyd i
-
-certmgr-issuer-label = Cyhoeddwyd gan
-
-certmgr-period-of-validity = Cyfnod Dilysrwydd
-
-certmgr-fingerprints = Olion Bysedd
-
-certmgr-cert-detail =
-    .title = Manylion Tystysgrif
-    .buttonlabelaccept = Cau
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = Enw Cyffredin (CN)
-
-certmgr-cert-detail-org = Corff (O)
-
-certmgr-cert-detail-orgunit = Uned Corff (OU)
-
-certmgr-cert-detail-serial-number = Rhif Cyfresol
-
-certmgr-cert-detail-sha-256-fingerprint = Ôl bys SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Ôl bys SHA1
 
 certmgr-edit-ca-cert =
     .title = Golygu gosodiadau ymddiried tystysgrif CA
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Dyfais Diogelwch
 
-certmgr-begins-on = Cychwyn ar
-
 certmgr-begins-label =
     .label = Cychwyn ar
-
-certmgr-expires-on = Daw i ben ar
 
 certmgr-expires-label =
     .label = Daw i ben ar
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Mewnforio…
     .accesskey = M
-
-certmgr-details =
-    .value = Meysydd Tystysgrif
-    .accesskey = T
-
-certmgr-fields =
-    .value = Gwerth Maes
-    .accesskey = G
-
-certmgr-hierarchy =
-    .value = Hierarchaeth Tystysgrifau
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Ychwanegu Eithriad…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Ydych chi'n siŵr eich bod eisiau dileu'r tystysgrifa
 delete-user-cert-impact = Os byddwch yn dileu un o'ch tystysgrifau eich hun, nid oes modd ei ddefnyddio i adnabod eich hun.
 
 
-delete-ssl-cert-title =
-    .title = Dileu Eithriadau Tystysgrif Gweinydd
-delete-ssl-cert-confirm = Ydych chi'n siŵr eich bod eisiau dileu eithriadau'r gweinydd?
-delete-ssl-cert-impact = Os ydych yn dileu eithriad gweinydd, gallwch adfer gwirio diogelwch y gweinydd a disgwyl iddo ddefnyddio tystysgrif ddilys.
-
-
 delete-ssl-override-title =
     .title = Dileu Eithriad Tystysgrif Gweinydd
 delete-ssl-override-confirm = Ydych chi'n siŵr eich bod eisiau dileu eithriadau'r gweinydd?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Tystysgrif gyda rhif cyfresol : { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Darllenwr Tystysgrif: “{ $certName }”
-
-not-present =
-    .value = <Nid yw'n Rhan o'r Dystysgrif>
-
-# Cert verification
-cert-verified = Nid yw'r dystysgrif wedi cael ei gwirio ar gyfer y defnydd canlynol:
-
-# Add usage
-verify-ssl-client =
-    .value = Tystysgrif Cleient SSL
-
-verify-ssl-server =
-    .value = Tystysgrif Gwasanaethwr SSL
-
-verify-ssl-ca =
-    .value = Awdurdod Tystysgrif SSL
-
-verify-email-signer =
-    .value = Tystysgrif Llofnodwr E-bost
-
-verify-email-recip =
-    .value = Tystysgrif Derbynnydd E-bost
-
-# Cert verification
-cert-not-verified-cert-revoked = Nid oedd modd gwirio'r dystysgrif am ei bod wedi ei diddymu.
-cert-not-verified-cert-expired = Methu gwirio'r dystysgrif am ei bod wedi dod i ben.
-cert-not-verified-cert-not-trusted = Does dim modd gwirio'r dystysgrif am nad oes modd ymddiried ynddi.
-cert-not-verified-issuer-not-trusted = Does dim modd gwirio'r dystysgrif am nad oes modd ymddiried yn y cyhoeddwr.
-cert-not-verified-issuer-unknown = Nid oedd modd gwirio'r dystysgrif am fod y cyhoeddwr yn anhysbys.
-cert-not-verified-ca-invalid = Methu gwirio'r dystysgrif oherwydd bod tystysgrif yr awdurdod tystysgrifo yn annilys.
-cert-not-verified_algorithm-disabled = Nid oes modd dilysu'r dystysgrif gan ei fod wedi ei lofnodi gan ddefnyddio algorithm llofnod sydd wedi ei analluogi am nad yw'r algorithm yn anniogel.
-cert-not-verified-unknown = Nid oedd modd gwirio'r dystysgrif am resymau anhysbys.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Anfonwyd dim tystysgrif cleient

@@ -62,8 +62,6 @@ printui-options = Dewisiadau
 printui-headers-footers-checkbox = Argraffu penynnau a throedynnau
 printui-backgrounds-checkbox = Argraffu cefndiroedd
 
-printui-selection-checkbox = Argraffu'r dewis yn unig
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

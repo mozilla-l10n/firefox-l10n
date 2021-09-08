@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Amgodiad Nod ar gyfer Hen Gynnwys
-fonts-languages-fallback-desc = Mae'r amgodiad nod hwn yn cael ei defnyddio ar gyfer hen gynnwys nad yw'n datgan ei amgodiad.
-
-fonts-languages-fallback-label = Amgodiad Testun Eilradd
-    .accesskey = E
-
-fonts-languages-fallback-name-auto =
-    .label = Y Rhagosodedig ar gyfer y Locale Cyfredol
-fonts-languages-fallback-name-arabic =
-    .label = Arabaidd
-fonts-languages-fallback-name-baltic =
-    .label = Baltig
-fonts-languages-fallback-name-ceiso =
-    .label = Canol Ewropeaidd, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Canol Ewrop, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Tsieineeg Symledig
-fonts-languages-fallback-name-traditional =
-    .label = Tsieinëeg Traddodiadol
-fonts-languages-fallback-name-cyrillic =
-    .label = Cyrilig
-fonts-languages-fallback-name-greek =
-    .label = Groeg
-fonts-languages-fallback-name-hebrew =
-    .label = Hebraeg
-fonts-languages-fallback-name-japanese =
-    .label = Japanëeg
-fonts-languages-fallback-name-korean =
-    .label = Corëeg
-fonts-languages-fallback-name-thai =
-    .label = Thai
-fonts-languages-fallback-name-turkish =
-    .label = Twrcaidd
-fonts-languages-fallback-name-vietnamese =
-    .label = Fietnameg
-fonts-languages-fallback-name-other =
-    .label = Eraill (gan gynnwys Gorllewin Ewrop)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Cymryd Llun Sgrin Screenshot
-
-screenshots-my-shots-button = Fy Lluniau Sgrin
-
 screenshot-toolbarbutton =
     .label = Ciplun
     .tooltiptext = Cymryd ciplun
@@ -40,8 +36,6 @@ screenshots-login-error-details = Nid oedd modd i ni gadw eich llun gan fod yna 
 
 screenshots-unshootable-page-error-title = Nid oes modd tynnu llun sgrin o'r dudalen.
 screenshots-unshootable-page-error-details = Nid yw hwn yn dudalen Gwe safonol, felly does dim modd tynnu llun sgrin ohono.
-
-screenshots-self-screenshot-error-title = Nid oes modd cymryd llun o dudalen lluniau sgrin { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Mae eich dewis yn rhy fach
 

@@ -98,8 +98,6 @@ perftools-thread-img-decoder =
     .title = Trywyddion datgodio delwedd
 perftools-thread-dns-resolver =
     .title = Mae datrysiad DNS yn digwydd ar y trywydd hwn
-perftools-thread-js-helper =
-    .title = Gwaith cefndir injan JS fel crynhoadau oddi ar y prif drywydd
 
 perftools-thread-task-controller =
     .title = Edafedd pwll edafedd TaskController

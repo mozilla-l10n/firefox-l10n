@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Dilyn y cyflwr ar-lein canfuwyd, yn awtomatig
     .accesskey = c
 
-startup-label = Cyflwr â llaw wrth gychwyn:
-
 offline-preference-startup-label = Cyflwr â llaw wrth gychwyn:
 
 status-radio-remember =

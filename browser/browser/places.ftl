@@ -5,9 +5,6 @@
 places-open =
     .label = Agor
     .accesskey = A
-places-open-tab =
-    .label = Agor mewn Tab Newydd
-    .accesskey = w
 places-open-in-tab =
     .label = Agor mewn Tab Newydd
     .accesskey = A
@@ -17,30 +14,13 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Agor pob Tab
     .accesskey = T
-places-open-window =
-    .label = Agor mewn Ffenestr Newydd
-    .accesskey = N
-places-open-private-window =
-    .label = Agor mewn Ffenestr Breifat Newydd
-    .accesskey = F
-places-new-bookmark =
-    .label = Nod Tudalen Newydd…
-    .accesskey = N
-places-new-folder-contextmenu =
-    .label = Ffolder Newydd…
-    .accesskey = F
-places-new-folder =
-    .label = Ffolder Newydd…
-    .accesskey = F
-places-new-separator =
-    .label = Ymwahanydd Newydd
-    .accesskey = Y
 places-open-in-window =
     .label = Agor mewn Ffenestr Newydd
     .accesskey = N
 places-open-in-private-window =
     .label = Agor mewn Ffenestr Breifat Newydd
     .accesskey = B
+
 places-add-bookmark =
     .label = Ychwanegu Nod Tudalen…
     .accesskey = N
@@ -53,6 +33,7 @@ places-add-folder =
 places-add-separator =
     .label = Ychwanegu Ymwahanydd
     .accesskey = Y
+
 places-view =
     .label = Golwg
     .accesskey = w
@@ -71,19 +52,18 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Yn ôl Dyddiad a Gwefan
     .accesskey = Y
+
 places-history-search =
     .placeholder = Hanes chwilio
 places-bookmarks-search =
     .placeholder = Chwilio'r nodau tudalen
+
 places-delete-domain-data =
     .label = Anghofio'r Wefan Hon
     .accesskey = W
 places-sortby-name =
     .label = Trefnu yn Ôl Enw
     .accesskey = r
-places-properties =
-    .label = Priodweddau
-    .accesskey = P
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Golygu Nod Tudalen…
@@ -106,6 +86,7 @@ places-remove-folder =
            *[other] Tynnu Ffolderi
         }
     .accesskey = F
+
 places-edit-folder2 =
     .label = Golygu Ffolder …
     .accesskey = G
@@ -121,15 +102,18 @@ places-delete-folder =
            *[other] Dileu Ffolder
         }
     .accesskey = D
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Nodau Tudalen wedi'u rheoli
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Is-ffolder
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Nodau Tudalen Eraill
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -144,6 +128,7 @@ places-remove-bookmark =
            *[other] Tynnu Nodau Tudalen
         }
     .accesskey = T
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -158,11 +143,15 @@ places-delete-bookmark =
            *[other] Dileu Nod Tudalen
         }
     .accesskey = D
+
 places-manage-bookmarks =
     .label = Rheoli Nodau Tudalen
     .accesskey = R
+
 places-forget-about-this-site-confirmation-title = Anghofio'r wefan hon
+
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Bydd y weithred hon yn dileu'r holl ddata sy'n gysylltiedig â { $hostOrBaseDomain } gan gynnwys hanes, cyfrineiriau, cwcis, storfa a dewisiadau cynnwys. Ydych chi'n siŵr eich bod chi am barhau?
+
 places-forget-about-this-site-forget = Anghofio

@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Rhestr
 
-blocklist-button-cancel =
-    .label = Diddymu
-    .accesskey = D
-
-blocklist-button-ok =
-    .label = Cadw Newidiadau
-    .accesskey = N
-
 blocklist-dialog =
     .buttonlabelaccept = Cadw Newidiadau
     .buttonaccesskeyaccept = N

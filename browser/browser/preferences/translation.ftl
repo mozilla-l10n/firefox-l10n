@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Tynnu Pob Gwefan
     .accesskey = G
 
-translation-button-close =
-    .label = Cau
-    .accesskey = C
-
 translation-dialog =
     .buttonlabelaccept = Cau
     .buttonaccesskeyaccept = C

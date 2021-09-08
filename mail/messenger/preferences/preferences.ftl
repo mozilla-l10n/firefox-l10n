@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Cau
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Dewisiadau
-           *[other] Dewisiadau
-        }
-
 preferences-doc-title = Dewisiadau
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Dileu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Parhau
 
-addons-button = Estyniadau a Themâu
-
 account-button = Gosodiadau'r Cyfrif
 open-addons-sidebar-button = Ychwanegion a Themâu
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = I greu Prif Gyfrinair, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = creu Prif Gyfrinair
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = I greu Prif Gyfrinair, nodwch fanylion eich mewngofnodi Windows. Mae hyn yn helpu i ddiogelu eich cyfrifon.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Cyfaddasu…
     .accesskey = C
-
-tray-icon-label =
-    .label = Dangos eicon cilfach
-    .accesskey = c
 
 biff-use-system-alert =
     .label = Defnyddio hysbysiadau'r system
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Lliw:
     .accesskey = L
-
-search-input =
-    .placeholder = Chwilio
 
 search-handler-table =
     .placeholder = Hidlo mathau a gweithredoedd cynnwys
@@ -723,16 +698,6 @@ passwords-button =
     .label = Cyfrineiriau sydd wedi'u cadw…
     .accesskey = C
 
-master-password-description = Mae Prif Gyfrinair yn diogelu eich holl gyfrineiriau, ond mae'n rhaid i chi ei roi unwaith bob sesiwn.
-
-master-password-label =
-    .label = Defnyddio prif gyfrinair
-    .accesskey = p
-
-master-password-button =
-    .label = Newid y Prif Gyfrinair…
-    .accesskey = N
-
 
 primary-password-description = Mae Prif Gyfrinair yn diogelu eich holl gyfrineiriau, ond rhaid i chi ei osod unwaith y sesiwn.
 
@@ -913,26 +878,6 @@ no-preview-description = Nid yw'r thema yma'n ddilys nac ar gael ar hyn o bryd (
 chat-variant-label =
     .value = Amrywiad:
     .accesskey = A
-
-chat-header-label =
-    .label = Dangos Pennyn
-    .accesskey = P
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Canfod yn Dewisiadau
-           *[other] Canfod yn Dewisiadau
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

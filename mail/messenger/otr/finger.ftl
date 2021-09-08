@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Bysprintiau allweddol OTR o sgyrsiau amgryptiedig blaenorol o'r pen-i-ben.
 
-finger-screenName =
-    .label = Cyswllt
-
 finger-screen-name =
     .label = Cyswllt
 finger-verified =

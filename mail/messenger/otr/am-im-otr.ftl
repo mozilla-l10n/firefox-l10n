@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = Gosodiadau OTR
 otr-log =
     .label = Cynnwys negeseuon wedi'u hamgryptio OTR mewn cofnodion sgwrsio
-otr-requireEncryption =
-    .label = Angen amgryptio pen-i-ben ar gyfer sgyrsiau un i un
-otr-verifyNudge =
-    .label = Atgoffa bob tro i wirio cyswllt heb ei wirio
-
-otr-notYetAvailable = ddim ar gael eto
 
 otr-require-encryption =
     .label = Angen amgryptio o'r dechrau i'r diwedd ar gyfer sgyrsiau un i un

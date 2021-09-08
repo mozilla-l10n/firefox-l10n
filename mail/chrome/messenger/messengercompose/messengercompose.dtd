@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Newydd">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Neges">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "e">
 <!ENTITY newContact.label "Cysylltiad Llyfr Cyfeiriadau…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Atodi">
 <!ENTITY attachMenu.accesskey "A">
-<!ENTITY attachFileCmd.label "Ffeil(iau)…">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Tudalen Gwe…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Anfon yn Diweddarach">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "D">
-<!ENTITY printSetupCmd.label "Gosodiad Tudalen…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Rhagolwg Argraffu">
-<!ENTITY printPreviewCmd.accesskey "R">
 <!ENTITY printCmd.label "Argraffu…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "A">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Aildrefnu Atodiadau…">
 <!ENTITY reorderAttachmentsCmd.accesskey "A">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Paen Atodiad">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "A">
 <!ENTITY selectAllCmd.accesskey "D">
 <!ENTITY findBarCmd.label "Canfod…">
 <!ENTITY findBarCmd.accesskey "f">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Aildrefnu Atodiadau">
-<!ENTITY moveAttachmentTopPanelBtn.label "Symud i'r Brig">
-<!ENTITY moveAttachmentUpPanelBtn.label "Symud i Fyny">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Symud gyda'i gilydd">
-<!ENTITY moveAttachmentDownPanelBtn.label "Symud i Lawr">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Symud i'r Gwaelod">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Gosodiadau'r Cyfrif">
 <!ENTITY accountManagerCmd2.accesskey "C">
 <!ENTITY accountManagerCmdUnix2.accesskey "C">
-<!ENTITY preferencesCmd2.label "Dewisiadau">
-<!ENTITY preferencesCmd2.accesskey "D">
-<!ENTITY preferencesCmdUnix.label "Dewisiadau">
-<!ENTITY preferencesCmdUnix.accesskey "e">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Anfon">
 <!ENTITY quoteButton.label "Dyfynnu">
 <!ENTITY addressButton.label "Cysylltiadau">
-<!ENTITY attachButton.label "Atodi">
 <!ENTITY spellingButton.label "Sillafu">
 <!ENTITY saveButton.label "Cadw">
 <!ENTITY printButton.label "Argraffu">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Anfonwch y neges yn ddiweddarach">
 <!ENTITY quoteButton.tooltip "Dyfynnu'r neges flaenorol">
 <!ENTITY addressButton.tooltip "Dewis derbynnydd o'r Llyfr Cyfeiriadau">
-<!ENTITY attachButton.tooltip2 "Ychwanegu atodiad">
 <!ENTITY spellingButton.tooltip "Gwirio sillafu adran neu neges gyfan">
 <!ENTITY saveButton.tooltip "Cadw'r neges">
 <!ENTITY cutButton.tooltip              "Torri">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Mathau eraill o feysydd cyfeiriad">
 <!ENTITY fromAddr2.label "Oddi wrth">
 <!ENTITY fromAddr.accesskey "O">
-<!ENTITY toAddr2.label "At">
-<!ENTITY ccAddr2.label "Cc">
-<!ENTITY bccAddr2.label "Bcc">
 <!ENTITY replyAddr2.label "Ateb i">
 <!ENTITY newsgroupsAddr2.label "Grŵp Newyddion">
 <!ENTITY followupAddr2.label "Dilyn i">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "T">
 <!ENTITY selectAll.label "Dewis Popeth">
 <!ENTITY selectAll.accesskey "D">
-<!ENTITY attachFile.label "Atodi Ffeil(iau)…">
-<!ENTITY attachFile.accesskey "F">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Trosi i…">

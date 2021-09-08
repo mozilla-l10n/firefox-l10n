@@ -10,9 +10,6 @@ third-party-intro =
     Mae unrhyw fodiwl sydd heb ei lofnodi gan Microsoft neu { -vendor-short-name } 
     yn cael ei ystyried yn fodiwl trydydd parti.
 
-third-party-header-module-list = Rhestr modiwlau
-third-party-header-loading-events = Yn llwytho digwyddiadau
-
 third-party-message-empty = Heb ganfod unrhyw fodiwlau trydydd parti.
 third-party-message-no-duration = Heb ei recordio
 

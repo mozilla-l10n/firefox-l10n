@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Rhif Cyfresol
 
-fips-nonempty-password-required = Mae modd FIPS yn gofyn i chi gael Prif Gyfrinair wedi ei osod ar gyfer pob dyfais diogelwch. Rhowch gyfrinair cyn ceisio cychwyn modd FIPS.
-
 fips-nonempty-primary-password-required = Mae modd FIPS yn gofyn i chi gael Prif Gyfrinair wedi ei osod ar gyfer pob dyfais diogelwch. Rhowch gyfrinair cyn ceisio cychwyn modd FIPS.
 unable-to-toggle-fips = Methu newid modd FIPS ar gyfer y ddyfais diogelwch. Argymhellir eich bod yn gadael y rhaglen a'i hailgychwyn.
 load-pk11-module-file-picker-title = Dewis gyrrwr dyfais PKCS#11 i'w lwytho

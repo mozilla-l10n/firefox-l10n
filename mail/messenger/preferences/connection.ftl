@@ -97,9 +97,6 @@ no-proxy-label =
 
 no-proxy-example = Esiampl: .mozilla.org, .net.nz, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = Nid yw cysylltiadau i localhost, 127.0.0.1, a ::1 byth yn cael eu dirprwyo.
-
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Nid yw cysylltiadau â localhost, 127.0.0.1/8, a ::1 byth yn cael eu dirprwyo.
 

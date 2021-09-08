@@ -9,8 +9,6 @@
 
 process-type-web = Cynnwys Gwe
 
-process-type-browser = Prif
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = About Breintiedig

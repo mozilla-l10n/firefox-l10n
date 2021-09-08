@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Sans Serif
 
-font-size-label =
-    .value = Maint:
-    .accesskey = e
-
 font-size-proportional-label =
     .value = Maint:
     .accesskey = M

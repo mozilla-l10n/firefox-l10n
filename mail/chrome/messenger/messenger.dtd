@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Argraffu…">
 <!ENTITY printCmd.accesskey "A">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Rhagolwg Argraffu">
-<!ENTITY printPreviewCmd.accesskey "R">
-<!ENTITY printSetupCmd.label "Gosodiad Tudalen…">
-<!ENTITY printSetupCmd.accesskey "o">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Dileu Neges">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "D">
 <!ENTITY compactVersion.label "Golwg Cryno">
 <!ENTITY compactVersion.accesskey "G">
-<!ENTITY folderPaneBar.label "Bar Offer Paen Ffolder">
-<!ENTITY folderPaneBar.accesskey "B">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Trefnu yn ôl">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Llyfr Cyfeiriadau">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Ychwanegion">
-<!ENTITY addons.accesskey "a">
-<!ENTITY addonPrefs.label "Dewisiadau Ychwanegion">
-<!ENTITY addonPrefs.accesskey "Y">
-<!ENTITY addonPrefsUnix.label "Dewisiadau Ychwanegion">
-<!ENTITY addonPrefsUnix.accesskey "D">
 <!ENTITY addonNoPrefs.label "Heb ganfod gosodiadau Ychwanegion.">
 <!ENTITY activitymanager.label "Rheolwr Gweithgaredd">
 <!ENTITY activitymanager.accesskey "R">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Ychwanegion Dadfygio">
 <!ENTITY debugAddonsCmd.accesskey "Y">
-<!ENTITY tabsDebugCmd.label "Dadfygiwr Cynnwys Ffrâm">
-<!ENTITY tabsDebugCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.label "Consol Gwall">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Nôl">
 <!ENTITY goForwardButton1.label "Ymlaen">
 <!ENTITY deleteItem.title "Dileu">
-<!ENTITY deleteButton.label "Dileu">
-<!ENTITY undeleteButton.label "Dad-ddileu">
 <!ENTITY markButton.label "Marcio">
 <!ENTITY printButton.label "Argraffu">
 <!ENTITY stopButton.label "Atal">
 <!ENTITY throbberItem.title "Dangosydd Gweithgaredd">
 <!ENTITY junkItem.title "Sbam">
-<!ENTITY junkButton.label "Sbam">
-<!ENTITY notJunkButton.label "Nid Sbam">
 <!ENTITY addressBookButton.label "Llyfr Cyfeiriadau">
 <!ENTITY chatButton.label "Sgwrsio">
 <!ENTITY glodaSearch.title "Chwilio Eang">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Symud i'r neges flaenorol">
 <!ENTITY goForwardButton.tooltip "Mynd ymlaen un neges">
 <!ENTITY goBackButton.tooltip "Mynd nôl un neges">
-<!ENTITY deleteButton.tooltip "Dileu'r neges neu'r ffolder">
-<!ENTITY undeleteButton.tooltip "Dad-ddileu'r neges">
 <!ENTITY markButton.tooltip "Marcio negeseuon">
 <!ENTITY printButton.tooltip "Argraffu'r neges">
 <!ENTITY stopButton.tooltip "Atal y trosglwyddiad cyfredol">
-<!ENTITY junkButton.tooltip "Marcio'r neges fel sbam">
-<!ENTITY notJunkButton.tooltip "Marcio'r neges fel nid sbam">
 <!ENTITY addressBookButton.tooltip "Mynd i'r llyfr cyfeiriadau">
 <!ENTITY chatButton.tooltip "Dangos y tab Sgwrsio">
 <!ENTITY tagButton.tooltip "Tagio negeseuon">
 <!ENTITY compactButton.tooltip "Tynnu negeseuon wedi'u dileu o'r ffolder">
 <!ENTITY appmenuButton1.tooltip "Dangos Dewislen &brandShortName;">
-<!ENTITY addonsButton.tooltip "Rheoli eich ychwanegion">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Anfon Ymlaen fel Mewnlin">
