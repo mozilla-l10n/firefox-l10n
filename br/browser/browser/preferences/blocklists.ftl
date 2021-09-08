@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Roll
 
-blocklist-button-cancel =
-    .label = Nullañ
-    .accesskey = N
-
-blocklist-button-ok =
-    .label = Enrollañ ar c'hemmoù
-    .accesskey = E
-
 blocklist-dialog =
     .buttonlabelaccept = Enrollañ ar c'hemmoù
     .buttonaccesskeyaccept = E

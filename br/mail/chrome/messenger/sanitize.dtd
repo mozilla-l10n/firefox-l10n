@@ -22,9 +22,6 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 
-<!ENTITY detailsProgressiveDisclosure.label     "Munudoù">
-<!ENTITY detailsProgressiveDisclosure.accesskey "u">
-
 
 <!ENTITY itemHistory.label                 "Roll istor ar merdeiñ">
 <!ENTITY itemHistory.accesskey             "R">

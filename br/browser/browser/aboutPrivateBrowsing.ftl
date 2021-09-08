@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Digeriñ ur prenestr merdeiñ pr
 about-private-browsing-search-placeholder = Klask er web
 about-private-browsing-info-title = En ur prenestr merdeiñ prevez emaoc’h
 about-private-browsing-info-myths = Mojennoù a vez alies diwar-benn ar merdeiñ prevez
-about-private-browsing =
-    .title = Klask er web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

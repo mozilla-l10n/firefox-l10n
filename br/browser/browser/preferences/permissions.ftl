@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Lemel kuit an holl lec'hiennoù
     .accesskey = h
 
-permissions-button-cancel =
-    .label = Nullañ
-    .accesskey = N
-
-permissions-button-ok =
-    .label = Enrollañ ar c'hemmoù
-    .accesskey = E
-
 permission-dialog =
     .buttonlabelaccept = Enrollañ ar c'hemmoù
     .buttonaccesskeyaccept = E

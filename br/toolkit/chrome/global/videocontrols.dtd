@@ -10,9 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Kuitaat ar mod skramm a-bezh">
 <!ENTITY castingButton.castingLabel "Skignañ war ar skramm">
 <!ENTITY closedCaption.off "Diweredekaet">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Riklell ampled">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->

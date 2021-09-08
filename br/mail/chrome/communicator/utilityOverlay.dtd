@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "r">
 <!ENTITY deleteCmd.label          "Dilemel">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY preferencesCmd2.label "Dibarzhioù…">
-<!ENTITY preferencesCmd2.accesskey "D">
-<!ENTITY preferencesCmdUnix.label       "Gwellvezioù">
-<!ENTITY preferencesCmdUnix.accesskey     "w">
 
 <!ENTITY customizeCmd.label "Personelaat">
 <!ENTITY customizeCmd.accesskey "t">

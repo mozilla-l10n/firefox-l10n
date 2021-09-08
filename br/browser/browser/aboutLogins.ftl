@@ -7,17 +7,12 @@ about-logins-page-title = Titouroù kennaskañ
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Kemerit ho kerioù-tremen e pep lec’h
-login-app-promo-subtitle = Tapit an arload { -lockwise-brand-name } digoust
-login-app-promo-android =
-    .alt = Tapit anezhañ war Google Play
-login-app-promo-apple =
-    .alt = Pellgargit anezhañ war an App Store
 login-filter =
     .placeholder = Klask titouroù kennaskañ
+
 create-login-button = Krouiñ un titour nevez
+
 fxaccounts-sign-in-text = Adkavit ho kerioù-tremen war ho trevnadoù all
-fxaccounts-sign-in-button = Kennaskit da { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Kennaskañ evit goubredañ
 fxaccounts-avatar-button =
     .title = Merañ ar gont
@@ -37,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Gwellvezioù
     }
 about-logins-menu-menuitem-help = Skoazell
-menu-menuitem-android-app = { -lockwise-brand-short-name } evit Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } evit iPhone hag iPad
 
 ## Login List
 
@@ -72,13 +65,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Klask a rit ho titouroù kennaskañ? Arventennit { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out2 = Klask a rit war-lec'h ho titouroù kennaskañ enrollet? Gweredekait Sync pe enporzhit anezho.
 about-logins-login-intro-heading-logged-in = N'eus bet kavet titour kennaskañ ebet.
 login-intro-description = M’ho peus enrollet ho titouroù kennaskañ { -brand-product-name } war un trevnad all, setu penaos kaout anezho amañ:
-login-intro-instruction-fxa = Krouit pe kennaskit d’ho { -fxaccount-brand-name } war an trevnad lec’h m’eo enrollet ho titouroù kennaskañ
-login-intro-instruction-fxa-settings = Gwiriekait ho peus diuzet ar boestoù kevaskañ Kennaskañ e arventennoù { -sync-brand-short-name }
-about-logins-intro-instruction-help = Kit war <a data-l10n-name="help-link">skoazell { -lockwise-brand-short-name }</a> evit kaout sikour
 login-intro-instructions-fxa = Krouit ur gont { -fxaccount-brand-name } pe kennaskit war un trevnad e-lec'h m'emañ ho titouroù kennaskañ enrollet.
 login-intro-instructions-fxa-settings = Mont betek Arventennoù > Sync > Gweredekaat ar goubredañ… Dibabit an titouroù kennaskañ.
 login-intro-instructions-fxa-help = Gweladennit skor <a data-l10n-name="help-link">{ -lockwise-brand-short-name }</a> evit kaout sikour.
@@ -124,11 +113,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Evit kemmañ ho titouroù k
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = cheñch an anaouder enrollet
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Evit gwelout ho ker-tremen, enankit ho titouroù kennaskañ Windows. Skoazellañ a ra da wareziñ ho kontoù.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = diskouez ar ger-tremen enrollet
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Evit eilañ ho ker-tremen, enankit ho titouroù kennaskañ Windows. Skoazellañ a ra da wareziñ ho kontoù.
 # This message can be seen when attempting to copy a password in about:logins
@@ -137,7 +128,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = eilañ ar ger-tremen 
 
 ## Master Password notification
 
-master-password-notification-message = Enankit ho ker-tremen mestr evit gwelout an titouroù kennaskañ enrollet
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Evit ezporzhiañ ho titouroù kennaskañ, enankit ho titouroù Windows. Sikour a ra da wareziñ diogelroez ho kontoù.
 # This message can be seen when attempting to export a password in about:logins
@@ -153,30 +143,16 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Fellout a ra deoc’h kaout ho titouroù kennaskañ e pep lec’h ma arverit { -brand-product-name }? Kit e-barzh dibarzhioù { -sync-brand-short-name } ha diuzit ar voest kevaskañ Titouroù kennaskañ.
-       *[other] Fellout a ra deoc’h kaout ho titouroù kennaskañ e pep lec’h ma arverit { -brand-product-name }? Kit e-barzh gwellvezioù { -sync-brand-short-name } ha diuzit ar voest kevaskañ Titouroù kennaskañ.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Dibarzhioù { -sync-brand-short-name }
-           *[other] Gwellvezioù { -sync-brand-short-name }
-        }
-    .accesskey = o
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Na c’houlennit en-dro
-    .accesskey = N
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Nullañ
 confirmation-dialog-dismiss-button =
     .title = Nullañ
+
 about-logins-confirm-remove-dialog-title = Dilemel an titour kennaskañ-mañ?
 confirm-delete-dialog-message = N'haller ket dizober kement-se.
 about-logins-confirm-remove-dialog-confirm-button = Dilemel
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Dilemel
@@ -186,6 +162,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [many] Dilemel pep tra
        *[other] Dilemel pep tra
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ya, dilemel an titour kennaskañ-mañ
@@ -195,6 +172,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [many] Ya, dilemel an titouroù kennaskañ-mañ
        *[other] Ya, dilemel an titouroù kennaskañ-mañ
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Dilemel { $count } titour kennaskañ?
@@ -203,11 +181,14 @@ about-logins-confirm-remove-all-dialog-title =
         [many] Dilemel { $count } a ditouroù kennaskañ?
        *[other] Dilemel { $count } titour kennaskañ?
     }
+
 about-logins-confirm-export-dialog-title = Ezporzhiañ an titouroù kennaskañ
 about-logins-confirm-export-dialog-message = Enrollet e vo ar gerioù-tremen dindan ur stumm lennus (sk: g3rTremenF4ll) neuze e c’hallo bezañ lennet gant an holl a c’hall digeriñ ar restr ezporzhiet.
 about-logins-confirm-export-dialog-confirm-button = Ezporzhiañ…
+
 about-logins-alert-import-title = Echu eo gant an enporzhiañ
 about-logins-alert-import-message = Gwelout an diverrañ enporzhiañ berraet
+
 confirm-discard-changes-dialog-title = Dilezel ar c’hemmoù n’int ket bet enrollet?
 confirm-discard-changes-dialog-message = An holl c’hemmoù n’int ket bet enrollet a vo kollet.
 confirm-discard-changes-dialog-confirm-button = Dilezel
@@ -238,6 +219,7 @@ about-logins-vulnerable-alert-learn-more-link = Gouzout hiroc’h
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Un enankad evit { $loginTitle } gant an anv arveriad-mañ a zo dioutañ endeo. <a data-l10n-name="duplicate-link">Mont d’an enankad?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Degouezhet ez eus bet ur fazi en ur glask enrollañ ar ger-tremen-mañ
 
@@ -290,6 +272,7 @@ about-logins-import-dialog-items-added =
         [many] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Titouroù kennaskañ nevez ouzhpennet:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Fazioù:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ket enporzhiet)</span>
@@ -299,6 +282,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Fazioù:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ket enporzhiet)</span>
     }
 about-logins-import-dialog-done = Graet
+
 about-logins-import-dialog-error-title = Fazi enporzhiañ
 about-logins-import-dialog-error-conflicting-values-title = Tabut war un titour kennaskañ gant meur a dalvoud
 about-logins-import-dialog-error-conflicting-values-description = Da skouer: meur a anv arveriad, ger-tremen, URL, hag all. evit un titour kennaskañ
@@ -312,8 +296,10 @@ about-logins-import-dialog-error-no-logins-imported = N'eus bet enporzhiet titou
 about-logins-import-dialog-error-learn-more = Gouzout hiroc’h
 about-logins-import-dialog-error-try-import-again = Klaskit enporzhiañ en-dro...
 about-logins-import-dialog-error-cancel = Nullañ
+
 about-logins-import-report-title = Diverradenn an enporzhiadur
 about-logins-import-report-description = Titouroù kennaskañ enporzhiet e { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

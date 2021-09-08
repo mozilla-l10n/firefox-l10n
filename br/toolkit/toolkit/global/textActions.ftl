@@ -50,3 +50,4 @@ text-action-select-all-shortcut =
 
 text-action-spell-no-suggestions =
     .label = Kinnig reizhskrivañ ebet
+

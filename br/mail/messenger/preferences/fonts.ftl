@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Hep Serif
 
-font-size-label =
-    .value = Ment :
-    .accesskey = e
-
 font-size-monospace-label =
     .value = Ment :
     .accesskey = n

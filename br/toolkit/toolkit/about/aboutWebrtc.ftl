@@ -144,8 +144,6 @@ about-webrtc-aec-logging-off-state-msg = Restroù kerzhlevr euvret a c'hall beza
 
 ##
 
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
@@ -165,4 +163,6 @@ about-webrtc-trickle-caption-msg = An emstriverien gorrek (a zegouezh goude ar r
 
 ##
 
+
+##
 

@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Nemedennoù
     .style = width: 45em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = Chomlec'h al lec'hienn :
     .accesskey = C

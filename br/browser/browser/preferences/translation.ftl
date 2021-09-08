@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Lemel an holl lec'hiennoù
     .accesskey = l
 
-translation-button-close =
-    .label = Serriñ
-    .accesskey = S
-
 translation-dialog =
     .buttonlabelaccept = Serriñ
     .buttonaccesskeyaccept = S

@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Nevez">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Kemennadenn">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "K">
 <!ENTITY newContact.label "Darempred ar c'harned chomlec'hioù…">
 <!ENTITY newContact.accesskey "c">
 <!ENTITY attachMenu.label "Kenstagañ">
 <!ENTITY attachMenu.accesskey "s">
-<!ENTITY attachFileCmd.label "Restr(où)…">
-<!ENTITY attachFileCmd.accesskey "R">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Pajenn Internet …">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Kas diwezhatoc'h">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "a">
-<!ENTITY printSetupCmd.label "Pajennaozañ…">
-<!ENTITY printSetupCmd.accesskey "P">
-<!ENTITY printPreviewCmd.label "Alberz ar moullañ">
-<!ENTITY printPreviewCmd.accesskey "A">
 <!ENTITY printCmd.label "Moullañ…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "M">
@@ -82,11 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Adurzhiañ ar c'henstagadurioù…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Penel ar c'henstagadurioù">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
-<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY findBarCmd.label "Klask…">
 <!ENTITY findBarCmd.accesskey "K">
@@ -105,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Adurzhiañ ar c'henstagadurioù">
-<!ENTITY moveAttachmentTopPanelBtn.label "Dilec'hiañ d'ar c'hrec'h">
-<!ENTITY moveAttachmentUpPanelBtn.label "Davet ar c'hrec'h">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Dilerc'hiañ pep-tra">
-<!ENTITY moveAttachmentDownPanelBtn.label "Kas en traoñ">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Dilec'hiañ d'an traoñ">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -207,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Arventennoù ar c'hontoù">
 <!ENTITY accountManagerCmd2.accesskey "c">
 <!ENTITY accountManagerCmdUnix2.accesskey "c">
-<!ENTITY preferencesCmd2.label "Dibarzhioù…">
-<!ENTITY preferencesCmd2.accesskey "D">
-<!ENTITY preferencesCmdUnix.label "Gwellvezioù">
-<!ENTITY preferencesCmdUnix.accesskey "w">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -223,7 +201,6 @@
 <!ENTITY sendButton.label "Kas">
 <!ENTITY quoteButton.label "Menegiñ">
 <!ENTITY addressButton.label "Darempredoù">
-<!ENTITY attachButton.label "Kenstagañ">
 <!ENTITY spellingButton.label "Reizhskrivañ">
 <!ENTITY saveButton.label "Enrollañ">
 <!ENTITY printButton.label "Moullañ">
@@ -233,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Kas ar gemennadenn-mañ diwezhatoc'h">
 <!ENTITY quoteButton.tooltip "Menegiñ ar gemennadenn gent">
 <!ENTITY addressButton.tooltip "Diuzañ un degemerer diwar ar c'harned chomlec'hioù">
-<!ENTITY attachButton.tooltip2 "Ouzhpennañ ur stagadenn">
 <!ENTITY spellingButton.tooltip "Gwiriañ reizhskrivañ an diuzad pe ar gemennadenn a-bezh">
 <!ENTITY saveButton.tooltip "Enrollañ ar gemennadenn-mañ">
 <!ENTITY cutButton.tooltip              "Troc'hañ">
@@ -298,8 +274,6 @@
 <!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Diuz pep tra">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Kenstagañ restr(où)…">
-<!ENTITY attachFile.accesskey "r">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Amdreiñ…">

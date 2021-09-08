@@ -57,8 +57,6 @@ policy-DisableForgetButton = Diweredekaat an afell evit dilemel ar roadennoù.
 
 policy-DisableFormHistory = Chom hep derc'hel soñj eus ar roll istor klask ha furmskridoù.
 
-policy-DisableMasterPasswordCreation = M’eo gwir e vo tu krouiñ ur ger-tremen mestr.
-
 policy-DisablePrimaryPasswordCreation = M’eo gwir e vo tu krouiñ ur ger-tremen pennañ.
 
 policy-DisablePasswordReveal = Na aotren ar gerioù-tremen da vezañ diskouezet en titouroù kennaskañ enrollet.

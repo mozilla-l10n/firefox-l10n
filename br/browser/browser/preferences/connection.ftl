@@ -35,9 +35,6 @@ connection-proxy-http = Proksi HTTP
     .accesskey = H
 connection-proxy-http-port = Porzh
     .accesskey = p
-connection-proxy-http-sharing =
-    .label = Arverañ ar proksi-mañ evit an FTP hag an HTTP ivez
-    .accesskey = A
 
 connection-proxy-https-sharing =
     .label = Implijout ivez ar proksi-mañ evit HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = Proksi HTTPS
     .accesskey = P
 connection-proxy-ssl-port = Porzh
     .accesskey = o
-
-connection-proxy-ftp = Proksi FTP
-    .accesskey = F
-connection-proxy-ftp-port = Porzh
-    .accesskey = r
 
 connection-proxy-socks = Ostiz SOCKS
     .accesskey = O
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Proksi ebet evit
     .accesskey = e
 
 connection-proxy-noproxy-desc = Skouer: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = N'eo morse lakaet ar c'hennaskoù da localhost, 127.0.0.1, ha ::1 a-dreñv ur proksi.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Ne vez morse lakaet ar c’hennaskoù da localhost, 127.0.0.1/8, ha ::1 a-dreñv ur proksi.

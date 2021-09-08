@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Mont d’ar bajennad kent
-    .aria-label = Kent
-    .accesskey = K
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Mont d’ar bajennad war-lerc’h
-    .aria-label = War-lerc’h
-    .accesskey = W
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -116,9 +94,6 @@ main-context-menu-page-save =
     .label = Enrollañ ar bajenn evel…
     .accesskey = b
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -179,10 +154,6 @@ main-context-menu-open-link-new-private-window =
     .label = Digeriñ an ere e-barzh ur prenestr merdeiñ prevez nevez
     .accesskey = m
 
-main-context-menu-bookmark-this-link =
-    .label = Lakaat ur sined war an ere
-    .accesskey = L
-
 main-context-menu-bookmark-link =
     .label = Lakaat an ere-mañ er sinedoù
     .accesskey = L
@@ -207,10 +178,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Eilañ ar chomlec'h postel
     .accesskey = p
-
-main-context-menu-copy-link =
-    .label = Eilañ lec'hiadur an ere
-    .accesskey = l
 
 main-context-menu-copy-link-simple =
     .label = Eilañ an ere
@@ -239,32 +206,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Heglev
     .accesskey = H
-
-main-context-menu-media-play-speed =
-    .label = Tizh lenn
-    .accesskey = l
-
-main-context-menu-media-play-speed-slow =
-    .label = Gorrek (0.5×)
-    .accesskey = G
-
-main-context-menu-media-play-speed-normal =
-    .label = Reizh
-    .accesskey = R
-
-main-context-menu-media-play-speed-fast =
-    .label = Herrek (1.25×)
-    .accesskey = H
-
-main-context-menu-media-play-speed-faster =
-    .label = Herrekoc'h (1.5×)
-    .accesskey = e
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Tizh divuzul (2×)
-    .accesskey = d
 
 main-context-menu-media-play-speed-2 =
     .label = Tizhder
@@ -312,12 +253,6 @@ main-context-menu-media-video-leave-fullscreen =
 
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Skeudenn-ouzh-skeudenn
-    .accesskey = S
-
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
     .label = Gwelout er mod skeudenn-ouzh-skeudenn
     .accesskey = G
@@ -325,14 +260,6 @@ main-context-menu-media-watch-pip =
 main-context-menu-image-reload =
     .label = Adkargañ ar skeudenn
     .accesskey = r
-
-main-context-menu-image-view =
-    .label = Gwelout ar skeudenn
-    .accesskey = s
-
-main-context-menu-video-view =
-    .label = Gwelout ar video
-    .accesskey = i
 
 main-context-menu-image-view-new-tab =
     .label = Digeriñ ar skeudenn en un ivinell nevez
@@ -345,18 +272,6 @@ main-context-menu-video-view-new-tab =
 main-context-menu-image-copy =
     .label = Eilañ ar skeudenn
     .accesskey = r
-
-main-context-menu-image-copy-location =
-    .label = Eilañ lec'hiadur ar skeudenn
-    .accesskey = k
-
-main-context-menu-video-copy-location =
-    .label = Eilañ lec'hiadur ar video
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Eilañ lec'hiadur ar restr aodio
-    .accesskey = E
 
 main-context-menu-image-copy-link =
     .label = Eilañ ere ar skeudenn
@@ -378,10 +293,6 @@ main-context-menu-image-email =
     .label = Kas ar skeudenn dre bostel…
     .accesskey = K
 
-main-context-menu-image-set-as-background =
-    .label = Arventennañ evel Drekleur ar burev…
-    .accesskey = l
-
 main-context-menu-image-set-image-as-background =
     .label = Lakaat ar skeudenn da zrekleur ar vurev…
     .accesskey = z
@@ -401,10 +312,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Enrollañ ar restr klevet evel…
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = Enrollañ an dapadenn-skramm evel…
-    .accesskey = n
 
 main-context-menu-video-take-snapshot =
     .label = Kemer un dapadenn...
@@ -433,14 +340,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Kas ar bajenn d’an trevnad
     .accesskey = t
-
-main-context-menu-view-background-image =
-    .label = Gwelout ar skeudenn drekleur
-    .accesskey = d
-
-main-context-menu-generate-new-password =
-    .label = Arverañ ur ger-tremen azganet…
-    .accesskey = A
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -532,10 +431,6 @@ main-context-menu-view-page-source =
     .label = Gwelout tarzh ar bajennad
     .accesskey = t
 
-main-context-menu-view-page-info =
-    .label = Gwelout stlennoù ar bajennad
-    .accesskey = t
-
 main-context-menu-bidi-switch-text =
     .label = Kemmañ tuadur an destenn
     .accesskey = d
@@ -543,10 +438,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Kemmañ tu ar bajenn
     .accesskey = b
-
-main-context-menu-inspect-element =
-    .label = Ensellout an elfenn
-    .accesskey = E
 
 main-context-menu-inspect =
     .label = Ensellout
@@ -558,3 +449,4 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Gouzout hiroc'h diwar-benn an DRM...
     .accesskey = D
+

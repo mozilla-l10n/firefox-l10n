@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Bonegañ an arouezennoù evit an endalc'hadoù diamzeret
-fonts-languages-fallback-desc = Arveret eo bonegañ an arouezennoù-mañ evit an endalc'hadoù diamzeret na zisklerint ket o bonegañ.
-
-fonts-languages-fallback-label = Bonegañ an destenn dre ziouer
-    .accesskey = B
-
-fonts-languages-fallback-name-auto =
-    .label = Diouer evit ar yezh vremanel
-fonts-languages-fallback-name-arabic =
-    .label = Arabeg
-fonts-languages-fallback-name-baltic =
-    .label = Balteg
-fonts-languages-fallback-name-ceiso =
-    .label = Kreiz Europa, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Kreiz Europa, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Sinaeg, eeunaet
-fonts-languages-fallback-name-traditional =
-    .label = Sinaeg, hengounel
-fonts-languages-fallback-name-cyrillic =
-    .label = Kirillek
-fonts-languages-fallback-name-greek =
-    .label = Gresianeg
-fonts-languages-fallback-name-hebrew =
-    .label = Hebraeg
-fonts-languages-fallback-name-japanese =
-    .label = Japaneg
-fonts-languages-fallback-name-korean =
-    .label = Koreaneg
-fonts-languages-fallback-name-thai =
-    .label = Thaieg
-fonts-languages-fallback-name-turkish =
-    .label = Turkeg
-fonts-languages-fallback-name-vietnamese =
-    .label = Vietnameg
-fonts-languages-fallback-name-other =
-    .label = All (Kornôg Europa e-barzh)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

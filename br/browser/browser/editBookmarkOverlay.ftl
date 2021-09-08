@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-bookmark-overlay-name =
-    .value = Anv:
-    .accesskey = n
-
-bookmark-overlay-location =
-    .value = Lec'hiadur:
-    .accesskey = L
-
-bookmark-overlay-folder =
-    .value = Teuliad:
-
 bookmark-overlay-name-2 =
     .value = Anv
     .accesskey = A
@@ -39,10 +28,6 @@ bookmark-overlay-new-folder-button =
     .label = Ouzhpennañ un teuliad
     .accesskey = O
 
-bookmark-overlay-tags =
-    .value = Ivinelloù:
-    .accesskey = I
-
 bookmark-overlay-tags-2 =
     .value = Tikedennoù
     .accesskey = T
@@ -54,10 +39,6 @@ bookmark-overlay-tags-expander =
     .tooltiptext = Diskouez an holl skritelligoù
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Kuzhat
-
-bookmark-overlay-keyword =
-    .value = Ger alc'hwez:
-    .accesskey = r
 
 bookmark-overlay-keyword-2 =
     .value = Ger-alc'hwez

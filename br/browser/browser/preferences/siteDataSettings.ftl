@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Dilemel ar re ziuzet
     .accesskey = D
 
-site-data-button-cancel =
-    .label = Nullañ
-    .accesskey = N
-
-site-data-button-save =
-    .label = Enrollañ ar c'hemmoù
-    .accesskey = E
-
 site-data-settings-dialog =
     .buttonlabelaccept = Enrollañ ar c'hemmoù
     .buttonaccesskeyaccept = E

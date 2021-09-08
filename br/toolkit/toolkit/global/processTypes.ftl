@@ -9,8 +9,6 @@
 
 process-type-web = Endalc'had Web
 
-process-type-browser = Pennañ
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Pajennoù "A-zivout" brientekaet

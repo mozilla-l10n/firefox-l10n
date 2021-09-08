@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Serriñ
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Dibarzhioù
-           *[other] Gwellvezioù
-        }
-
 category-general =
     .tooltiptext = { pane-general-title }
 
@@ -62,8 +55,6 @@ update-in-progress-ok-button = &Dilezel
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kenderc'hel
-
-addons-button = Askouezhioù & Neuzioù
 
 ## OS Authentication dialog
 
@@ -125,10 +116,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Personelaat…
     .accesskey = P
-
-tray-icon-label =
-    .label = Diskouez un arlun er varrenn rebuziñ
-    .accesskey = a
 
 mail-custom-sound-label =
     .label = Ober gant ar restr son da heul
@@ -315,9 +302,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Liv :
     .accesskey = L
-
-search-input =
-    .placeholder = Klask
 
 type-column-label =
     .label = Rizh an endalc'h
@@ -596,16 +580,6 @@ passwords-button =
     .label = Gerioù-tremen enrollet…
     .accesskey = e
 
-master-password-description = Pa vez implijet anezhañ e tiwall ar ger-tremen mestr ho holl kerioù-tremen - met ret eo deoc'h e reiñ ur wech dre estez.
-
-master-password-label =
-    .label = Implijout ur ger-tremen mestr
-    .accesskey = I
-
-master-password-button =
-    .label = Kemmañ ar ger-tremen mestr…
-    .accesskey = K
-
 
 junk-description = Kefluniañ arventennoù ar posteloù lastez dre ziouer. Kefluniet e vez ur gont evit ar posteloù lastez e Arventennoù ar gont.
 
@@ -772,10 +746,6 @@ no-preview-description = N'eo ket mat an tem-mañ pe dihegerz emañ evit ar mare
 chat-variant-label =
     .value = Variezon:
     .accesskey = V
-
-chat-header-label =
-    .label = Diskouez talbenn
-    .accesskey = H
 
 ## Preferences UI Search Results
 

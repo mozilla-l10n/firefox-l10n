@@ -17,17 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Diuzañ an holl ivinelloù
     .accesskey = h
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Dizober serriñ ivinelloù
-            [one] Dizober serriñ ivinelloù
-            [two] Dizober serriñ ivinelloù
-            [few] Dizober serriñ ivinelloù
-            [many] Dizober serriñ ivinelloù
-           *[other] Dizober serriñ ivinelloù
-        }
-    .accesskey = D
 
 toolbar-context-menu-manage-extension =
     .label = Merañ an askouezh
@@ -49,9 +38,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Spilhennañ d'al lañser dic'hlann
     .accesskey = S
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Kuzhat ar varrenn ostilhoù ent emgefreek
-    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Lemel diouzh ar varrenn ostilhoù
     .accesskey = o

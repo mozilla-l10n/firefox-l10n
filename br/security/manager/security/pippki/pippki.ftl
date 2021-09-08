@@ -6,9 +6,6 @@ password-quality-meter = Perzhded ar ger-tremen
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Kemmañ ar ger-tremen mestr
-
 change-device-password-window =
     .title = Kemmañ ar ger-tremen
 
@@ -20,10 +17,6 @@ change-password-new = Ger-tremen nevez:
 change-password-reenter = Ger-tremen nevez (c'hoazh):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Adderaouekaat ger-tremen mestr
-    .style = width: 40em
 
 pippki-failed-pw-change = N’haller ket kemmañ ar ger-tremen.
 pippki-incorrect-pw = N’ho peus ket enanket ar ger-tremen reizh. Klaskit en-dro mar plij.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Adderaouekaat
-reset-password-text = Mar adderaouekait ho ker-tremen mestr e vo ankouaet ho kerioù-tremen evit internet, ho posteloù, ho roadennoù furmskridoù, ho testenioù personel hag hoc'h alc'hwezioù prevez. Fellout a ra deoc'h dilemel ho ker-tremen mestr?
 
 reset-primary-password-text = Mar adderaouekait ho ker-tremen pennañ e vo ankouaet ho kerioù-tremen evit internet, ho posteloù, ho testenioù personel hag hoc’h alc’hwezioù prevez. Fellout a ra deoc’h dilemel ho ker-tremen pennañ?
 

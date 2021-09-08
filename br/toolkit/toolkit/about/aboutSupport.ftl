@@ -10,11 +10,6 @@ crashes-id = Naoudi an danevell
 crashes-send-date = Kaset
 crashes-all-reports = An holl zanevelloù sac'hadenn
 crashes-no-config = N'eo ket bet kefluniet an arload-mañ evit skrammañ danevelloù sac'hadenn.
-extensions-title = Askouezhioù
-extensions-name = Anv
-extensions-enabled = Gweredekaet
-extensions-version = Handelv
-extensions-id = Naoudi
 support-addons-name = Anv
 support-addons-version = Handelv
 support-addons-id = Naoudi
@@ -111,8 +106,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Doare argerzh
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguzennoù
-safe-mode-title = Klask ar mod diarvar
-restart-in-safe-mode-label = Adloc'hañ gant an askouezhioù diweredekaet…
 
 ## Media titles
 
@@ -267,19 +260,12 @@ webgl2-renderer = Deouezer WebGL 2 Driver
 webgl2-version = Handelv WebGL 2 Driver
 webgl2-driver-extensions = Askouezhioù WebGL 2 Driver
 webgl2-extensions = Askouezhioù WebGL 2
-blocklisted-bug = Er roll stanket abalamour da gudennoù anavezet
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = beug { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Er roll stanket; boneg c'hwitadenn { $failureCode }
 
 d3d11layers-crash-guard = Kenaozer D3D11
-d3d11video-crash-guard = Ezvoneger Video D3D11
-d3d9video-crash-guard = Ezvoneger Video D3D9
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Adderaouekaat en adloc'hañ a zeu
@@ -317,14 +303,6 @@ launcher-process-status-unknown = Stad dianav
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Gweredekaet gant an arveriad
-multi-process-status-1 = Gweredekaet dre ziouer
-multi-process-status-2 = Diweredekaet
-multi-process-status-4 = Diweredekaet gant an ostilhoù haezadusted
-multi-process-status-6 = Diweredekaet gant an enankad destenn anskor
-multi-process-status-7 = Diweredekaet gant an askouezhioù
-multi-process-status-8 = Rediet da ziweredekaat
-multi-process-status-unknown = Stad dianav
 
 async-pan-zoom = Zoum ec'houbred
 apz-none = netra

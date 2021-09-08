@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Serriñ">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "S">
-<!ENTITY printSetupCmd.label                            "Pajennaozañ…">
-<!ENTITY printSetupCmd.accesskey                        "P">
-<!ENTITY printPreviewContactCmd.label                   "Alberz moullañ an darempred">
-<!ENTITY printPreviewContactCmd.accesskey               "b">
-<!ENTITY printPreviewAddressBook.label                  "Alberz moullañ ar c'harned posteloù">
-<!ENTITY printPreviewAddressBook.accesskey              "m">
 <!ENTITY printContactCmd.label                          "Moullañ un darempred">
 <!ENTITY printContactCmd.accesskey                      "p">
 <!ENTITY printContactCmd.key                            "P">
@@ -108,10 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "n">
 <!ENTITY exportCmd.label                                "Ezporzhiañ…">
 <!ENTITY exportCmd.accesskey                            "z">
-<!ENTITY preferencesCmd2.label                          "Dibarzhioù…">
-<!ENTITY preferencesCmd2.accesskey                      "D">
-<!ENTITY preferencesCmdUnix.label                       "Gwellvezioù">
-<!ENTITY preferencesCmdUnix.accesskey                   "w">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Darempred nevez">

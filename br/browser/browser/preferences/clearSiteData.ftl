@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Lakaat a raio al lec'hiennoù da adkargañ o skeudennoù ha roadennoù
 
-clear-site-data-cancel =
-    .label = Nullañ
-    .accesskey = N
-
-clear-site-data-clear =
-    .label = Skarzhañ
-    .accesskey = S
-
 clear-site-data-dialog =
     .buttonlabelaccept = Skarzhañ
     .buttonaccesskeyaccept = S

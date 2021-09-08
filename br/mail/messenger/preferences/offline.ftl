@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Heuliañ ar stadoù enlinenn dinoet ent emgefreek
     .accesskey = d
 
-startup-label = Stad dre zorn e-pad an deraouiñ :
-
 status-radio-remember =
     .label = Derc'hel soñj eus ar stad enlinenn
     .accesskey = r

@@ -5,9 +5,6 @@
 places-open =
     .label = Digeriñ
     .accesskey = g
-places-open-tab =
-    .label = Digeriñ e-barzh un ivinell nevez
-    .accesskey = g
 places-open-in-tab =
     .label = Digeriñ e-barzh un ivinell nevez
     .accesskey = n
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Digeriñ an holl anezho e ivinelloù
     .accesskey = o
-places-open-window =
-    .label = Digeriñ e-barzh ur prenestr nevez
-    .accesskey = n
-places-open-private-window =
-    .label = Digeriñ e-barzh ur prenestr merdeiñ prevez nevez
-    .accesskey = m
-
-places-new-bookmark =
-    .label = Sined nevez…
-    .accesskey = n
-places-new-folder-contextmenu =
-    .label = Teuliad nevez…
-    .accesskey = N
-places-new-folder =
-    .label = Teuliad nevez…
-    .accesskey = u
-places-new-separator =
-    .label = Disranner nevez
-    .accesskey = s
 
 places-open-in-window =
     .label = Digeriñ e-barzh ur prenestr nevez
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Rummañ dre anv
     .accesskey = r
-places-properties =
-    .label = Perzhioù
-    .accesskey = i
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -141,3 +116,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Merañ ar sinedoù
     .accesskey = M
+

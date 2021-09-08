@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Ouzhpennañ un endalc'her nevez
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Gwellvezioù Endalc'her { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Arlun
 containers-color-label = Liv
     .accesskey = i
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Mat eo
-    .accesskey = M
 
 containers-dialog =
     .buttonlabelaccept = Mat eo

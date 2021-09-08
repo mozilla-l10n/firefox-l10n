@@ -89,9 +89,6 @@ lockwise-app-links = { -lockwise-brand-name } evit <a data-l10n-name="lockwise-a
 
 lockwise-how-it-works-link = Penaos ez a en-dro
 
-turn-on-sync = Gweredekaat { -sync-brand-short-name }…
-    .title = Mont d'ar gwellvezioù goubredañ
-
 monitor-title = Diwallit diouzh ar fuadurioù roadennoù
 monitor-link = Penaos ec'h a en-dro
 monitor-header-content-no-account = Gwiriekait { -monitor-brand-name } evit gwelout mard oc'h bet tizhet gant ur fuadur roadennoù, ha resevit galvoù-diwall a-zivout fuadurioù nevez.

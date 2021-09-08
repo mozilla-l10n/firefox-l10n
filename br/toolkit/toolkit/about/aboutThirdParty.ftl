@@ -10,9 +10,6 @@ third-party-intro =
     { -brand-short-name }. Pep mollad ha n'eo ket bet sinet gant Microsoft pe
     { -vendor-short-name } a vez graet trede-mollad anezhañ.
 
-third-party-header-module-list = Listenn ar molladoù
-third-party-header-loading-events = O kargañ an darvoudoù
-
 third-party-message-empty = Tamm trede-mollad ebet a zo bet kavet.
 third-party-message-no-duration = N'eo ket enrollet
 

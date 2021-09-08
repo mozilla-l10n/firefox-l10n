@@ -19,44 +19,7 @@ certmgr-tab-ca =
 
 certmgr-mine = Testenioù hoc'h eus a-berzh an aozadurioù-mañ oc'h anaout ac'hanoc'h
 certmgr-people = Testenioù ho peus diwar-benn an dud da-heul
-certmgr-servers = Testenioù ho peus diwar-benn an dafariadoù da-heul
 certmgr-ca = Testenioù hoc'h eus er restr oc'h anaout an aotrouniezh testeniañ-mañ
-
-certmgr-detail-general-tab-title =
-    .label = Hollek
-    .accesskey = H
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Munudoù
-    .accesskey = d
-
-certmgr-pending-label =
-    .value = O wiriañ an testeni bremañ…
-
-certmgr-subject-label = Skignet davit
-
-certmgr-issuer-label = Skignet gant
-
-certmgr-period-of-validity = Marevezh talvoudegezh
-
-certmgr-fingerprints = Roudoù biz
-
-certmgr-cert-detail =
-    .title = Munudoù an testeni
-    .buttonlabelaccept = Serriñ
-    .buttonaccesskeyaccept = r
-
-certmgr-cert-detail-commonname = Anv boutin (AB)
-
-certmgr-cert-detail-org = Aozadur (A)
-
-certmgr-cert-detail-orgunit = Unvez aozadurel (UA)
-
-certmgr-cert-detail-serial-number = Steudriñv
-
-certmgr-cert-detail-sha-256-fingerprint = Roudoù biz SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Roudoù biz SHA1
 
 certmgr-edit-ca-cert =
     .title = Embann arventennoù testenioù a fiziañs an aotrouniezh testeniañ
@@ -89,12 +52,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Trevnad diogelroez
 
-certmgr-begins-on = Kregiñ a ra d'an/ar
-
 certmgr-begins-label =
     .label = Kregiñ a ra d'an/ar
-
-certmgr-expires-on = Diamzeret e vo d'an/ar
 
 certmgr-expires-label =
     .label = Diamzeret e vo d'an/ar
@@ -136,18 +95,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Enporzhiañ…
     .accesskey = n
-
-certmgr-details =
-    .value = Maeziennoù testeni
-    .accesskey = n
-
-certmgr-fields =
-    .value = Gwerzh ar vaezienn
-    .accesskey = v
-
-certmgr-hierarchy =
-    .value = Urzhaz an testenioù
-    .accesskey = U
 
 certmgr-add-exception =
     .label = Ouzhpennañ un nemedenn…
@@ -211,12 +158,6 @@ delete-user-cert-confirm = Fellout a ra deoc'h dilemel an testenioù-mañ?
 delete-user-cert-impact = Mar bez dilamet ho testenioù deoc'h ne c'hallot ket mui o arverañ evit hennadiñ ac'hanoc'h.
 
 
-delete-ssl-cert-title =
-    .title = Dilemel nemedennoù testenioù an dafariad
-delete-ssl-cert-confirm = Ha fellout a ra deoc'h dilemel an nemedennoù evit an dafariad-mañ?
-delete-ssl-cert-impact = Mar bez dilamet un nemedenn dafariad e vo assavet ganeoc'h ar gwiriadurioù boaz evit an dafariad-mañ ha goulenn a ra e vo arveret un testeni talvoudek gantañ.
-
-
 delete-ssl-override-title =
     .title = Dilemel nemedennoù testenioù an dafariad
 delete-ssl-override-confirm = Ha fellout a ra deoc’h dilemel an nemedenn evit an dafariad-mañ?
@@ -241,45 +182,6 @@ cert-with-serial =
     .value = Testeni gant steudriñv: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Skrammer testeni: “{ $certName }”
-
-not-present =
-    .value = <N'emañ ket war an testeni>
-
-# Cert verification
-cert-verified = Gwiriet eo bet an testeni-mañ evit an arverioù da heul:
-
-# Add usage
-verify-ssl-client =
-    .value = Testeni Arval dre SSL
-
-verify-ssl-server =
-    .value = Testeni dafariad SSL
-
-verify-ssl-ca =
-    .value = Aotrouniezh testeniañ SSL
-
-verify-email-signer =
-    .value = Testeni sinour ar postel
-
-verify-email-recip =
-    .value = Testeni degemerour ar postel
-
-# Cert verification
-cert-not-verified-cert-revoked = Ne oa ket evit gwiriañ an testeni-mañ rak tennet kuit eo bet.
-cert-not-verified-cert-expired = Ne oa ket evit gwiriañ an testeni-mañ rak diamzeret eo.
-cert-not-verified-cert-not-trusted = Ne oa ket evit gwiriañ an testeni-mañ rak n'eus fiziañs ebet ennañ.
-cert-not-verified-issuer-not-trusted = N'hall ket gwiriañ an testeni-mañ rak n'eus fiziañs ebet er skigner.
-cert-not-verified-issuer-unknown = Ne oa ket evit gwiriañ an testeni-mañ rak dianav e oa ar skigner.
-cert-not-verified-ca-invalid = Ne oa ket evit gwiriañ an testeni-mañ rak didalvoudek eo testeni an aotrouniezh testeniañ.
-cert-not-verified_algorithm-disabled = Ne oa ket evit gwiriañ an testeni-mañ rak sinet eo bet gant un treol sinañ a zo bet diweredekaet rak an treol-mañ n'eo ket diogel.
-cert-not-verified-unknown = Ne oa ket evit gwiriañ an testeni-mañ rak meur a abeg dianav.
 
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (N’eo ket gwaredet)

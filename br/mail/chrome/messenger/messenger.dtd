@@ -87,10 +87,6 @@
 <!ENTITY printCmd.label "Moullañ…">
 <!ENTITY printCmd.accesskey "M">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Alberz moullañ">
-<!ENTITY printPreviewCmd.accesskey "A">
-<!ENTITY printSetupCmd.label "Pajennaozañ…">
-<!ENTITY printSetupCmd.accesskey "a">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Dilemel ar gemennadenn">
@@ -170,8 +166,6 @@
 <!ENTITY recentFolders.accesskey "v">
 <!ENTITY compactVersion.label "Gwel fetis">
 <!ENTITY compactVersion.accesskey "f">
-<!ENTITY folderPaneBar.label "Barrenn ostilhoù penel an teuliadoù">
-<!ENTITY folderPaneBar.accesskey "B">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Rummañ dre">
@@ -464,12 +458,6 @@
 <!ENTITY addressBookCmd.label "Karned chomlec'hioù">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Askouezhioù">
-<!ENTITY addons.accesskey "A">
-<!ENTITY addonPrefs.label "Ouzhpennañ dibarzhioù">
-<!ENTITY addonPrefs.accesskey "O">
-<!ENTITY addonPrefsUnix.label "Arventennoù ar molladoù">
-<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "N'eus bet kavet gwellvezioù mollad ebet.">
 <!ENTITY activitymanager.label "Oberiantiz">
 <!ENTITY activitymanager.accesskey "O">
@@ -516,8 +504,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Diveugañ an askouezhioù">
 <!ENTITY debugAddonsCmd.accesskey "A">
-<!ENTITY tabsDebugCmd.label "Diveuger frammad endalc'had">
-<!ENTITY tabsDebugCmd.accesskey "f">
 <!ENTITY errorConsoleCmd.label "Penel ar fazioù">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -541,15 +527,11 @@
 <!ENTITY backButton1.label "Kent">
 <!ENTITY goForwardButton1.label "War-lerc'h">
 <!ENTITY deleteItem.title "Dilemel">
-<!ENTITY deleteButton.label "Dilemel">
-<!ENTITY undeleteButton.label "Dizilemel">
 <!ENTITY markButton.label "Merk">
 <!ENTITY printButton.label "Moullañ">
 <!ENTITY stopButton.label "Paouez">
 <!ENTITY throbberItem.title "Meneger oberiantiz">
 <!ENTITY junkItem.title "Lastez">
-<!ENTITY junkButton.label "Lastez">
-<!ENTITY notJunkButton.label "Prizius">
 <!ENTITY addressBookButton.label "Chomlec'hioù">
 <!ENTITY chatButton.label "Postelerezh prim">
 <!ENTITY glodaSearch.title "Klask hollek">
@@ -581,19 +563,14 @@
 <!ENTITY previousMsgButton.tooltip "Mont d'ar gemennadenn kent">
 <!ENTITY goForwardButton.tooltip "Mont d'ar gemennadenn war-lerc'h">
 <!ENTITY goBackButton.tooltip "Mont d'ar gemennadenn gent">
-<!ENTITY deleteButton.tooltip "Dilemel ar gemennadenn pe an teuliad diuzet">
-<!ENTITY undeleteButton.tooltip "Adsevel ar gemennadenn diuzet">
 <!ENTITY markButton.tooltip "Merkañ kemennadennoù">
 <!ENTITY printButton.tooltip "Moullañ ar gemennadenn-mañ">
 <!ENTITY stopButton.tooltip "Paouez gant an treuzkas bremanel">
-<!ENTITY junkButton.tooltip "Merkañ ar gemennadenn diuzet evel lastez">
-<!ENTITY notJunkButton.tooltip "Merkañ ar gemennadenn diuzet evel 'Prizius'">
 <!ENTITY addressBookButton.tooltip "Mont d'ar c'harned chomlec'hioù">
 <!ENTITY chatButton.tooltip "Diskouez an ivinell postelerezh prim">
 <!ENTITY tagButton.tooltip "Merkañ kemennadennoù">
 <!ENTITY compactButton.tooltip "Lemel ar c'hemennadennoù dilamet diouzh an teuliad diuzet">
 <!ENTITY appmenuButton1.tooltip "Diskouez al lañser &brandShortName;">
-<!ENTITY addonsButton.tooltip "Merañ hoc'h askouezhioù">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Treuzkas evel testenn enkorfet">
