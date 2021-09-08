@@ -32,19 +32,11 @@ connection-proxy-http = HTTP Proxy
     .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = p
-connection-proxy-http-sharing =
-    .label = Ni'i proxy nuu FTP ji HTTPS
-    .accesskey = S
 
 connection-proxy-https = HTTP Proxy
     .accesskey = H
 connection-proxy-ssl-port = Port
     .accesskey = o
-
-connection-proxy-ftp = FTP Proxy
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = r
 
 connection-proxy-socks = SOCKS Host
     .accesskey = C
@@ -61,9 +53,6 @@ connection-proxy-noproxy = Nko proxy nuu
     .accesskey = N
 
 connection-proxy-noproxy-desc = Kua: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Da conexiones nuu localhost, 127.0.0.1 ji ::1 ni'in ichi chu'un nuu proxy.
 
 connection-proxy-autotype =
     .label = URL de configuración automática de proxy

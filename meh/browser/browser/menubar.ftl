@@ -114,9 +114,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Natee
     .accesskey = N
-menu-edit-find-on =
-    .label = Nánuku nuu ya´a
-    .accesskey = N
 menu-edit-find-in-page =
     .label = Nánuku nu página…
     .accesskey = F
@@ -135,9 +132,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Barra herramientas
     .accesskey = B
-menu-view-customize-toolbar =
-    .label = Sá´á vii
-    .accesskey = S
 menu-view-customize-toolbar2 =
     .label = Sá´á vii barra ka̱a̱...
     .accesskey = C
@@ -174,9 +168,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Básico
     .accesskey = B
-menu-view-charset =
-    .label = Codificación de texto
-    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -228,10 +219,6 @@ menu-history-reopen-all-windows = Na síne kuaíyo da ventana
 menu-bookmarks-menu =
     .label = A ta´a ini noo´o
     .accesskey = A
-menu-bookmarks-show-all =
-    .label = Xituvi kuaiyo a ta´a ini noo´o
-menu-bookmark-this-page =
-    .label = Tee página ya´a nuu a ta´an ini noo´o
 menu-bookmark-edit =
     .label = Sama a ta´an ini noo´o ya´a
 menu-bookmarks-all-tabs =
@@ -251,15 +238,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Da nxinú
     .accesskey = D
-menu-tools-addons =
-    .label = Ka̱a̱ chunta´an
-    .accesskey = C
-menu-tools-fxa-sign-in =
-    .label = Kajie'e sesión { -brand-product-name }…
-    .accesskey = j
-menu-tools-turn-on-sync =
-    .label = Activar { -sync-brand-short-name }...
-    .accesskey = n
 menu-tools-fxa-sign-in2 =
     .label = Kajie´e sesión
     .accesskey = i
@@ -272,9 +250,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Nakɨvu tuku { -brand-product-name }...
     .accesskey = N
-menu-tools-web-developer =
-    .label = Ñivɨ sa´a Web
-    .accesskey = Ñ
 menu-tools-browser-tools =
     .label = Da ka̱a̱ ka̱a̱ nánuku
     .accesskey = B
@@ -284,17 +259,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Tu´un jie´e nuu ya´a
     .accesskey = T
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Kaji
-           *[other] Preferencias
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] f
-        }
 menu-settings =
     .label = Ke´i
     .accesskey =
@@ -327,21 +291,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Chinei
     .accesskey = C
-menu-help-product =
-    .label = { -brand-shorter-name } Chinei
-    .accesskey = C
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Tour
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = Nake'ema ji inka ka̱a̱ nánuku
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = Sa´a ñama Ka̱a̱ tee
-    .accesskey = S
-menu-help-troubleshooting-info =
-    .label = Tu'un saa kuvi nasa'anu ya'a de ntivu
-    .accesskey = T
 menu-get-help =
     .label = Nánuku chineída noo´o
     .accesskey = H
@@ -350,12 +299,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Chu'un ichí a jíaníninu...
     .accesskey = C
-menu-help-safe-mode-without-addons =
-    .label = Nakaji´e ji da nachisó-kúmani na´va...
-    .accesskey = N
-menu-help-safe-mode-with-addons =
-    .label = Nakaji´e ji da nachisó-kúmani na´va...
-    .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

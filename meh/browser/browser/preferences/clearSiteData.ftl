@@ -47,14 +47,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Nejika da nuu web nachu´un tuku tutu natava ji datos
 
-clear-site-data-cancel =
-    .label = Nkuvi-ka
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Sno
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = Sno
     .buttonaccesskeyaccept = l

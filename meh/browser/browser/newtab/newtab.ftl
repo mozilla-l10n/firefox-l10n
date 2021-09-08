@@ -15,7 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Nánuku
     .aria-label = Nánuku
-newtab-search-box-search-the-web-text = Nánuku nuu Web
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Nánuku ji { $engine } a xíín chu'un iin nuu
@@ -30,10 +30,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Nánuku a xíín chu´un iin nuu
     .title = Nánuku a xíín chu´un iin nuu
     .aria-label = Nánuku a xíín chu´un iin nuu
+
 newtab-search-box-search-the-web-input =
     .placeholder = Nánuku nuu Web
     .title = Nánuku nuu Web
     .aria-label = Nánuku nuu Web
+
 newtab-search-box-input =
     .placeholder = Nánuku nuu Web
     .aria-label = Nánuku nuu Web
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Natee acceso ñama
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Chu´un iin título
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tee iin URL
 newtab-topsites-url-validation = Nejika chu´unu iin URL vatu
+
 newtab-topsites-image-url-label = URL tutu nátava personalizada
 newtab-topsites-use-image-link = Ni´i iin tutu nátva personalizada…
 newtab-topsites-image-validation = Ntu nkuvi síne tutu natava. Nachu´un inka URL
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = Patrocinado
 newtab-menu-section-tooltip =
     .title = Síne menu
     .aria-label = Síne menu
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Xita
     .aria-label = Xita
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -151,10 +157,12 @@ newtab-label-removed-bookmark = Iin a ta´a ini noo´o nxita
 newtab-label-recommended = Tendencias
 newtab-label-saved = Chuva´a nuu { -pocket-brand-name }
 newtab-label-download = Nxinuu
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Patrocinado
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -193,6 +201,7 @@ newtab-section-header-pocket = A kachi { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Kajie´e nánuku, je xine´e ani da tutu vii, tutu nátava káná ji da inka nuu nnánukunu.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -234,9 +243,4 @@ newtab-custom-sponsored-sites = Da acceso íyo patrocinado
 newtab-custom-pocket-sponsored = Da historias patrocinadas
 newtab-custom-recent-title = Da a skuata nsá´á
 newtab-custom-close-button = Nakasɨ
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Snippets
 newtab-custom-settings = Tetiñu kue´e da kei´i

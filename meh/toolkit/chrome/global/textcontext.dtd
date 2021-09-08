@@ -9,6 +9,3 @@
 
 <!ENTITY searchTextBox.clear.label "Sno">
 
-<!ENTITY fillLoginMenu.accesskey      "R">
-<!ENTITY fillPasswordMenu.accesskey   "l">
-<!ENTITY fillUsernameMenu.accesskey   "R">

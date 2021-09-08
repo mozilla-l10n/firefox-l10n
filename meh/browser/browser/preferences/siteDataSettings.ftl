@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Xita da nkaji
     .accesskey = X
 
-site-data-button-cancel =
-    .label = Nkuvi-ka
-    .accesskey = N
-
-site-data-button-save =
-    .label = Chuva´a nsama
-    .accesskey = C
-
 site-data-settings-dialog =
     .buttonlabelaccept = Chuva´a nsama
     .buttonaccesskeyaccept = C

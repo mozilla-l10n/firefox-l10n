@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Sna kuaiyo nuu Web
     .accesskey = S
 
-permissions-button-cancel =
-    .label = Nkuvi-ka
-    .accesskey = N
-
-permissions-button-ok =
-    .label = Chuva´a nsama
-    .accesskey = C
-
 permission-dialog =
     .buttonlabelaccept = Chuva´a nsama
     .buttonaccesskeyaccept = C

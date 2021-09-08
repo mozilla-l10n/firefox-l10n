@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Síne menu">
-
 <!ENTITY navbarOverflow.label                "Kue'eka ka̱a̱...">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Chiso sukua">
-<!ENTITY  unpinTab.label                     "Xita sukua">
 
 <!ENTITY  listAllTabs.label      "Kutuvi kuaiyo pestañas">
 
@@ -25,73 +15,25 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Síne archivo…">
 <!ENTITY printCmd.label "Nátava…">
 
-<!ENTITY taskManagerCmd.label "Tetiñu da tareas">
-
 <!ENTITY menubarCmd.label "Barra de Menú">
 <!ENTITY menubarCmd.accesskey "M">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Navegación">
-<!ENTITY personalbarCmd.label "A ta´a ini noo´o">
-<!ENTITY personalbarCmd.accesskey "B">
-<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
-include the word "toolbar" or such, because screen readers already know that
-this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbar.accessibleLabel "A ta´a ini noo´o">
-<!ENTITY bookmarksToolbarItem.label "Nantiñu da barra marcadores">
 
 <!ENTITY fullScreenCmd.label "Pantalla ka'nu">
 
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings2.label "Da nu ke'i &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "Chu´un inka ka̱a̱…">
-<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Kajie'e sesión &brandProductName;">
-<!ENTITY fxa.menu.firefoxServices.label "Servicios de &brandProductName;">
-<!ENTITY fxa.menu.account.label "Cuenta">
-<!ENTITY fxa.menu.settings.label "Ke´i">
-<!ENTITY fxa.menu.accountSettings.label "Da nu ke'i cuenta">
-<!ENTITY fxa.menu.manageAccount2.label "Tetiñu cuenta">
-<!ENTITY fxa.menu.signOut.label "Kasɨ sesión…">
-<!ENTITY fxa.menu.setupSync.label "Ke´í &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "ntañu'u kuvi pantalla ka'nu">
-<!ENTITY fullscreenWarning.generic.label "Tutu ya'a ntañu'u íyo nu pantalla ka'nu">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Kene nuu pantalla ka'nu (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Kene nuu pantalla ka'nu (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-<!ENTITY showAllBookmarks2.label "Xituvi kuaiyo a ta´a ini noo´o">
-<!ENTITY recentBookmarks.label "A ta´a ini noo´o skuata ntee">
-<!ENTITY bookmarksToolbarChevron.tooltip "Xituvi kuaiyo a ta´a ini noo´o">
 
 <!ENTITY printButton.label            "Nátava">
 <!ENTITY printButton.tooltip          "Natava página ya´a">
@@ -102,28 +44,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY homeButton.label             "Nuu kajie´e">
 <!ENTITY homeButton.defaultPage.tooltip "Página nu kajie´e &brandShortName;">
 
-<!ENTITY bookmarksButton.label          "A ta´a ini noo´o">
-
-<!ENTITY bookmarksSubview.label             "A ta´a ini noo´o">
-<!ENTITY bookmarksMenuButton2.label         "A ta´a ini noo´o Menu">
-<!ENTITY bookmarksMenuButton.other.label    "Inka a ta´a ini noo´o">
-<!ENTITY bookmarksMenuButton.mobile.label   "A ta´a ini noo´o móviles">
-<!ENTITY viewBookmarksSidebar2.label        "Síne barra kuá´á marcadores">
-<!ENTITY hideBookmarksSidebar.label         "Chiyu'u barra kuá´á marcadores">
-<!ENTITY viewBookmarksToolbar.label         "Kune'ya barra a ta´a ini noo´o">
-<!ENTITY hideBookmarksToolbar.label         "Chiyu'u barra a ta´a ini noo´o">
-<!ENTITY searchBookmarks.label              "Nánuku a ta´a ini noo´o">
-<!ENTITY bookmarkingTools.label             "Da ka̱a̱ ta'a ini noo'o">
-<!ENTITY addBookmarksMenu.label             "Tee menú ta'an ini noo'o nu barra ka̱a̱">
-<!ENTITY removeBookmarksMenu.label          "Xita menú ta'an ini noo'o nu barra ka̱a̱">
-
 <!ENTITY historyButton.label            "Sɨ´ɨ">
 
 <!ENTITY downloads.label              "Da nxinú">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Da nxinú">
-<!ENTITY addons.label                 "Ka̱a̱ chunta´an">
 
 <!ENTITY webDeveloperMenu.label       "Ñivɨ sa´a Web">
 
@@ -140,28 +66,11 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY historyMenu.label "Sɨ´ɨ">
 
-<!ENTITY historyUndoMenu.label "Pestañas nnakasɨ ntañu´u">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Pestañas nnakasɨ ntañu´u">
-
-<!ENTITY appMenuHistory.showAll.label "Tuvi kuaiyo sɨ´ɨ">
-
-<!ENTITY appMenuHistory.clearRecent.label "Xinó a nnánukunu ntañu´u…">
-<!ENTITY appMenuHistory.restoreSession.label "Nate tuku sesión yata">
-<!ENTITY appMenuHistory.viewSidebar.label "Kune'ya barra historial">
-<!ENTITY appMenuHistory.hideSidebar.label "Chiyu'u barra kuá´á historial">
-<!ENTITY appMenuHistory.recentHistory.label "Da nnánuku vitan">
-
 <!ENTITY appMenuHelp.label "Chinei">
-
-<!ENTITY appMenuRemoteTabs.label "Da sukua íyo sincronizadas">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ntu nune pestañas">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Xituvi kue'eka">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Xituvi kue'eka sukua nuu ka̱a̱ ya'a">
@@ -178,11 +87,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Síne prefrencias Sync">
 <!ENTITY appMenuRemoteTabs.welcome.label "Kune´ya iin lista da pestañas da inka dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Cuenta noo´o nejika koo verificada.">
-<!ENTITY appMenuRemoteTabs.signintosync.label "Kajie'e sesión ji &syncBrand.shortName.label;...">
-<!ENTITY appMenuRemoteTabs.turnonsync.label "Tee &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Tetiñu da ka̱a̱…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Kune'ya sukua sincronizadas nu barra kuá´á">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "Chiyu´u barra kuá´á da sukua íyo sincronizadas">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Chu´un inka ka̱a̱">
 
 
@@ -196,8 +100,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Desanclar nu menú desbordamiento">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "Xita da barra ka̱a̱">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "Q">
 <!ENTITY customizeMenu.addMoreItems.label "Tee kue'eka elementos…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
@@ -215,25 +117,9 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "p">
 
-<!ENTITY pageAction.copyLink.label    "Tɨɨn enlacae">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY saveToPocketCmd.label        "Chuva´a página nuu Pocket">
-<!ENTITY pocketMenuitem.label         "Kune'ya lista Pocket">
-
-<!ENTITY emailPageCmd.label           "Chu´un íchi enlace...">
-
 <!ENTITY fullZoom.label                 "Naja ka'nu">
 
 <!ENTITY sidebarCloseButton.tooltip     "Kasɨ barra kuá´á">
-
-<!ENTITY quitApplicationCmdWin2.label       "Kene">
-<!ENTITY quitApplicationCmdWin2.accesskey   "S">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Kene &brandShorterName;">
-<!ENTITY quitApplicationCmd.label       "Kene">
-<!ENTITY quitApplicationCmd.accesskey   "S">
-<!ENTITY quitApplicationCmdMac2.label   "Kene &brandShorterName;">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -251,8 +137,6 @@ this container is a toolbar. This avoids double-speaking. -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Da sukua ka̱a̱ nánuku">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
-
 
 
 <!ENTITY uiTour.infoPanel.close "Nakasɨ">
@@ -261,15 +145,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY panicButton.thankyou.msg2                "¡Kaka je kumidani noo'o!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Kuta'vi!">
 
-<!ENTITY updateAvailable.panelUI.label "Xinuu a jíía &brandShorterName;">
-<!ENTITY updateManual.panelUI.label "Xinuu iin copia jíía &brandShorterName;">
-<!ENTITY updateUnsupported.panelUI.label "Nkuvi sá'ánu kue´e actualizaciones">
-<!ENTITY updateRestart.panelUI.label2 "Nakajie´e sa chu'un a jíía &brandShorterName;.">
-
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizado da ka̱a̱…">
-
-<!ENTITY pageAction.shareUrl.label "Kua´a">
-<!ENTITY pageAction.shareMore.label "Kue'eka…">
 
 <!ENTITY libraryButton.tooltip "Kune'ya historial, a ta'an ini noo'o je kue'eka">
 

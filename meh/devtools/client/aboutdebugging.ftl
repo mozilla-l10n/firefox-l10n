@@ -57,10 +57,6 @@ about-debugging-sidebar-item-connect-button-connection-failed = Ntu nkuvi kivɨ
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = Nnɨ´ɨ netu nuu conexión
 
-# Temporary text displayed in sidebar items representing remote runtimes after
-# successfully connecting to them. Temporary UI, do not localize.
-about-debugging-sidebar-item-connected-label = Yi'ɨ
-
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.

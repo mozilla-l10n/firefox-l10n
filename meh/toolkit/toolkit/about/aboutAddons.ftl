@@ -8,30 +8,6 @@ search-header-shortcut =
 list-empty-button =
     .label = Ka´vi kue´eka jie´e ka̱a̱ chunta´an
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } Kaji
-       *[other] { -brand-short-name } Preferencias
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } Kaji
-           *[other] { -brand-short-name } Preferencias
-        }
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Kaji
-           *[other] Preferencias
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
 detail-home-value =
     .value = { detail-home.label }
 

@@ -46,9 +46,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Tee sukua nuu marcadores...
     .accesskey = B
-reopen-in-container =
-    .label = Síne tuku ji contenedor
-    .accesskey = e
 move-to-start =
     .label = Skana nuu kajie´e
     .accesskey = S
@@ -61,25 +58,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Nakasɨ kuaiyo da sukua
     .accesskey = M
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Tanɨ nakasɨ sukua
-           *[other] Tanɨ nakasɨ da sukua
-        }
-    .accesskey = U
-close-tab =
-    .label = Nakasɨ pestaña
-    .accesskey = n
-close-tabs =
-    .label = Nakasɨ pestañas
-    .accesskey = S
-move-tabs =
-    .label = Skana pestañas
-    .accesskey = v
-move-tab =
-    .label = Skana pestaña
-    .accesskey = v
 tab-context-share-url =
     .label = Kua´a
     .accesskey = h
@@ -103,3 +81,4 @@ tab-context-move-tabs =
            *[other] Skana sukua
         }
     .accesskey = v
+

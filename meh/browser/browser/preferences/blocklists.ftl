@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Listas
 
-blocklist-button-cancel =
-    .label = Nkuvi-ka
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = Chuva´a nsama
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Chuva´a nsama
     .buttonaccesskeyaccept = S

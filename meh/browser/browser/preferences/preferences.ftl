@@ -6,28 +6,6 @@ do-not-track-learn-more = Ka´vi kue´eka
 do-not-track-option-always =
     .label = Ntaka ichi
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Kaji
-       *[other] Preferencias
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Nani´i nuu opciones
-           *[other] Nani´i nuu  configuraciones
-        }
-
 settings-page-title = Da nu ke´i
 
 managed-notice = Vetiñunu tetiñu ka̱a̱ nánuku.
@@ -50,10 +28,6 @@ category-search =
 pane-privacy-title = Privacidad ji seguridad
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 pane-sync-title3 = Sync
 category-sync3 =
@@ -97,14 +71,6 @@ restart-later = Nakajie'e inka ichi
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Iin ka̱a̱, <img data-l10n-name="icon"/> { $name }, ni'i página inicio noo'o.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Iin na'a ka̱a̱, <img data-l10n-name="icon"/> { $name }, ni'i página sukua jíía.
-
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = Iin na´á ka̱a̱, <img data-l10n-name="icon"/> { $name }, tetiñu configuración noo´o.
@@ -112,10 +78,6 @@ extension-controlled-password-saving = Iin na´á ka̱a̱, <img data-l10n-name="
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Iin ka̱a̱, <img data-l10n-name="icon"/> { $name }, ke'i configuración noo´o.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Iin na'a ka̱a̱, <img data-l10n-name="icon"/> { $name }, nkino kua ka̱a̱ nánuku xinañu'u
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -133,25 +95,11 @@ extension-controlled-proxy-config = Iin na'a ka̱a̱, <img data-l10n-name="icon"
 
 search-results-header = Nánuku resultados
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] ¡Kuna'vini! Ntu íyo tu'un nuu kaji <span data-l10n-name="query">“<span data-l10n-name="query">.
-       *[other] ¡Kuna'vini! Ntu íyo tu'un nuu preferencias <span data-l10n-name="query">“<span data-l10n-name="query">.
-    }
-
 search-results-help-link = ¿Nukunu chineiani noo´o? Kune´ya <a data-l10n-name="url">Nuu chinei{ -brand-short-name }</a>
 
 ## General Section
 
 startup-header = Nuu kajie´e
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Kua´a { -brand-short-name } jíí Firefox kunu ínu
-get-started-not-logged-in = Kajie´e sesión { -sync-brand-short-name }
-get-started-configured = Síne da preferencias de { -sync-brand-short-name }
 
 is-default = { -brand-short-name } kuvi ka̱a̱ nánuku xinañu'u
 is-not-default = { -brand-short-name } ntu kuvi ka̱a̱ nánuku xinañu'u
@@ -336,11 +284,6 @@ applications-manage-app =
     .label = Detalles ka̱a̱...
 applications-always-ask =
     .label = Ntaka ichi katu´un
-applications-type-pdf = Formato de Documento Portátil (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -646,10 +589,6 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Xituvi sugerencias nánuku nuu da ventana yu'u
 
-suggestions-addressbar-settings-generic = Sama preferencias nuu sugerencias ka̱a̱ nánuku
-
-search-one-click-header = Da nánuku ji iin clic
-
 search-one-click-header2 = Atajos nánuku
 
 search-choose-engine-column =
@@ -677,13 +616,6 @@ search-keyword-warning-title = Tu'un clave íyo inu
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Niko nuu kaji
-           *[other] Niko nuu preferencias
-        }
-
 containers-header = Pestañas contenedoras
 containers-add-button =
     .label = Tee iin contenedor jíía
@@ -692,9 +624,6 @@ containers-add-button =
 containers-new-tab-check =
     .label = Kaji iin contenedor nu ntaka pestaña
     .accesskey = S
-
-containers-preferences-button =
-    .label = Preferencias
 
 containers-settings-button =
     .label = Ke´i
@@ -705,11 +634,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Kua´an Web ji noo´o
-sync-signedout-description = Naxi´ña a ta´a ini noo´o, historial, da su̱ku̱a, contraseñas, ka̱a̱ chunta´an ji preferencias nuu kuaíyo da ka̱a̱ noo'o.
-
-sync-signedout-account-signin2 =
-    .label = Kajie´e sesión { -sync-brand-short-name }…
-    .accesskey = i
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -754,12 +678,6 @@ prefs-syncing-on = Sincronización: ACTIVADA
 
 prefs-syncing-off = Sincronización: DESACTIVADA
 
-prefs-sync-setup =
-    .label = Ke´i { -sync-brand-short-name }…
-    .accesskey = S
-
-prefs-sync-offer-setup-label = Naxi´ña a ta´a ini noo´o, historial, pestañas, contraseñas, ka̱a̱ chunta´an ji preferencias nuu kuaíyo ka̱a̱.
-
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ntañu´u
     .accesskeynotsyncing = N
@@ -774,11 +692,6 @@ sync-currently-syncing-logins-passwords = Da nuu kajie´e sesión ji contraseña
 sync-currently-syncing-addresses = Da nuu
 sync-currently-syncing-creditcards = Da tutu crédito
 sync-currently-syncing-addons = Ka̱a̱ chunta´an
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Da nuu kaji
-       *[other] Preferencias
-    }
 
 sync-currently-syncing-settings = Da nu ke´i
 
@@ -828,15 +741,6 @@ sync-engine-addons =
     .label = Ka̱a̱ chunta´an
     .tooltiptext = Ka̱a̱ chunta´an Firefox escritorio
     .accesskey = K
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Nuu kaji
-           *[other] Preferencias
-        }
-    .tooltiptext = Nuu ke'i ntaka, privacidad ji seguridad nsamanu
-    .accesskey = S
 
 ## The device name controls.
 
@@ -888,9 +792,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Nuu kajie´e sesión nchuva´a
     .accesskey = L
-forms-master-pw-use =
-    .label = Ni´i contraseña maestra
-    .accesskey = m
 forms-primary-pw-use =
     .label = Ni´i contraseña primaria
     .accesskey = U
@@ -902,7 +803,6 @@ forms-master-pw-change =
     .label = Sama...
     .accesskey = m
 
-forms-master-pw-fips-title = Ntañu'u yɨ'ɨnu ji FIPS. FIPS jiniñu'u iin contraseña maestra ntu vacia.
 forms-primary-pw-change =
     .label = Sama contraseña primaria
     .accesskey = P
@@ -915,12 +815,6 @@ forms-primary-pw-fips-title = Ntañu'u yɨ'ɨnu ji FIPS. FIPS jiniñu'u iin cont
 forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = Sá´á iin contraseña maestra
 
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
@@ -1021,10 +915,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Tetiñu datos...
     .accesskey = T
-
-sitedata-cookies-permissions =
-    .label = Tetiñu da permisos
-    .accesskey = p
 
 sitedata-cookies-exceptions =
     .label = Tetiñu da excepciones...
@@ -1172,12 +1062,6 @@ permissions-addon-exceptions =
     .label = Excepciones…
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = Kachi sa da servicios accesibilidad kivɨ nu ka̱a̱ nánuku
-    .accesskey = a
-
-permissions-a11y-privacy-link = Ka´vi kue´eka
-
 ## Privacy Section - Data Collection
 
 collection-privacy-notice = Tu´un xitu a nejika kumio
@@ -1189,8 +1073,6 @@ collection-health-report-link = Ka´vi kue´eka
 collection-studies-link = Kune'ya da estudio { -brand-short-name }
 
 addon-recommendations-link = Ka´vi kue´eka
-
-collection-backlogged-crash-reports-link = Ka´vi kue´eka
 
 ## Privacy Section - Security
 ##
@@ -1216,16 +1098,6 @@ security-block-uncommon-software =
 
 certs-header = Certificados
 
-certs-personal-label = Sa íyo iin servidor jikan certificado personal
-
-certs-select-auto-option =
-    .label = Kaji iin automáticamente
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Kakama ntaka ichí
-    .accesskey = A
-
 certs-view =
     .label = Kune´ya certificados…
     .accesskey = C
@@ -1233,26 +1105,6 @@ certs-view =
 certs-devices =
     .label = Ka̱a̱ seguridad...
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = Ka´vi kue´eka
-    .accesskey = K
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Sine prefrencias
-           *[other] Sine prefrencias
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-under-5gb-ok-button =
-    .label = OK, vatu!
-    .accesskey = K
 
 ## Privacy Section - HTTPS-Only
 

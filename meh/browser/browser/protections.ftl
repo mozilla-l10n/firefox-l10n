@@ -67,9 +67,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Naja satiñu
 
-turn-on-sync = Activar { -sync-brand-short-name }...
-    .title = Kua'a nuu preferencias sincronización
-
 monitor-title = Kumi nkene fugas da datos
 monitor-link = Naja satiñu
 monitor-sign-up-link = Chu'un sivɨnɨ sa kachi de íyo alertas da filtraciones
