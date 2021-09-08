@@ -11,35 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Ditaolo
 
-certmgr-detail-general-tab-title =
-    .label = Kakaretšo
-    .accesskey = K
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Dintlha
-    .accesskey = D
-
-certmgr-subject-label = Ntšheditšwe Go
-
-certmgr-issuer-label = Ntšhitšwe Ke
-
-certmgr-fingerprints = Kgatišo ya menwana
-
-certmgr-cert-detail =
-    .title = Tshedimošo ya Setifikheiti
-    .buttonlabelaccept = Tswalela
-    .buttonaccesskeyaccept = s
-
-certmgr-cert-detail-commonname = Leina la Setlwaedi (CN)
-
-certmgr-cert-detail-org = Mokgahlo (O)
-
-certmgr-cert-detail-orgunit = Lekala la Mokgahlo (OU)
-
-certmgr-cert-detail-serial-number = Nomoro ya Seriale
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 Kgatišomonwana
-
 certmgr-edit-ca-cert =
     .title = Rulaganya dipeakanyo tša tshepho ya setifikheiti sa CA
     .style = width: 48em;
@@ -61,8 +32,6 @@ certmgr-cert-server =
 
 certmgr-token-name =
     .label = Setlabela sa Tšhireletšo
-
-certmgr-expires-on = E felelwa ke nako Ka
 
 certmgr-expires-label =
     .label = E felelwa ke nako Ka
@@ -92,14 +61,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Amogela
     .accesskey = m
-
-certmgr-details =
-    .value = Mafelo a setifikeiti
-    .accesskey = f
-
-certmgr-fields =
-    .value = Boleng bja lefelo
-    .accesskey = B
 
 certmgr-add-exception =
     .label = Oketša tše sa akaretšwego…
@@ -147,37 +108,6 @@ delete-email-cert-confirm = E ka ba o na le bonnete bja gore o nyaka go phumola 
 delete-email-cert-impact = Ge o ka phumola setifikheiti sa e-poso, o ka se sa kgona go romela e-poso ye e enkripthilwego go batho bao.
 
 ## Cert Viewer
-
-not-present =
-    .value = <E sego karolo ya Setifikheiti>
-
-# Cert verification
-cert-verified = Setifikheiti se se kgonthišeditšwe mešomo ye e latelago:
-
-# Add usage
-verify-ssl-client =
-    .value = Setifikeiti sa moreki sa SSL
-
-verify-ssl-server =
-    .value = Setifikeiti sa seabi sa SSL
-
-verify-ssl-ca =
-    .value = Bolaodi bja setifikeiti bja SSL
-
-verify-email-signer =
-    .value = Setifikeiti sa mosaeni wa imeile
-
-verify-email-recip =
-    .value = Setifikeiti sa moamogedi wa imeile
-
-# Cert verification
-cert-not-verified-cert-revoked = Paletšwe ke go kgonthišiša setifikheiti se ka baka la gore se gomišitšwe.
-cert-not-verified-cert-expired = Paletšwe ke go kgonthišiša setifikheiti se ka baka la gore se feletšwe ke nako.
-cert-not-verified-cert-not-trusted = Paletšwe ke go kgonthišiša setifikheiti se ka baka la gore se sa tshephiwe.
-cert-not-verified-issuer-not-trusted = Paletšwe ke go kgonthišiša setifikheiti se ka baka la gore mohlagiši wa sona a sa tshepšhe.
-cert-not-verified-issuer-unknown = Paletšwe ke go kgonthišiša setifikheiti se ka baka la gore mohlagiši wa sona a sa tsebje.
-cert-not-verified-ca-invalid = Paletšwe ke go kgonthišiša setifikheihi se ka baka la gore CA setifikheiti ga se ya makgonthe.
-cert-not-verified-unknown = Paletšwe ke go kgonthišiša setifikheiti se ka mabaka ao a sa tsebjego.
 
 ## Used to show whether an override is temporary or permanent
 

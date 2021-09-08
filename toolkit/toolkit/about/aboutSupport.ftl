@@ -5,10 +5,6 @@
 page-title = Tshedimošo ya go rarolla mathata
 page-subtitle = Letlakala le le na le tshedimošo ya setegniki yeo e ka bago le mohola ge o leka go rarolla bothata. Ge e ba o nyaka dikarabo tša dipotšišo tše tlwaelegilego ka ga { -brand-short-name }, lebelela wepesaete ya rena ya  <a data-l10n-name="support-link"> ya thekgo</a>.
 
-extensions-title = Dikoketšo
-extensions-name = Leina
-extensions-enabled = Kgontšha
-extensions-version = Tokollo
 support-addons-name = Leina
 support-addons-version = Tokollo
 app-basics-title = Metheo ya tirišo

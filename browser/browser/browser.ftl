@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Go praosa ga praebete)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Go praosa ga praebete)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Go praosa ga praebete)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Go praosa ga praebete)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -109,13 +111,6 @@ browser-window-minimize-button =
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = Khamera ya go abelana:
-    .accesskey = K
-popup-select-microphone =
-    .value = Maekrofounu wa go abelana:
-    .accesskey = M
-
 ## WebRTC window or screen share tab switch warning
 
 
@@ -124,12 +119,12 @@ popup-select-microphone =
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = Nyaka goba o tsenye aterese
 urlbar-placeholder =
     .placeholder = Nyaka goba o tsenye aterese
+
 urlbar-switch-to-tab =
     .value = Fetogela go thepo:
+
 urlbar-go-button =
     .tooltiptext = Eya atereseng go para ya lefelo
 
@@ -161,6 +156,7 @@ bookmarks-search =
     .label = Nyaka dipukutshwayo
 bookmarks-bookmark-edit-panel =
     .label = Lokiša pukutshwayo ye
+
 bookmarks-toolbar-menu =
     .label = Thulupaa ya dipukutshwayo
 bookmarks-toolbar-placeholder =
@@ -207,6 +203,7 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = Dumelela dirunyi tša { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Thibela dirunyi tša { $uriHost }
     .accesskey = p
@@ -216,3 +213,4 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = O se ke wa laetša molaetša wo ge dirunyi di thibetšwe
     .accesskey = D
+

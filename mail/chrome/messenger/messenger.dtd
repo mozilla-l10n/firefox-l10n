@@ -35,10 +35,6 @@
 <!ENTITY printCmd.label "Gatiša...">
 <!ENTITY printCmd.accesskey "G">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Ponelo pele ya Kgatišo">
-<!ENTITY printPreviewCmd.accesskey "n">
-<!ENTITY printSetupCmd.label "Peakanyo ya Letlakala...">
-<!ENTITY printSetupCmd.accesskey "k">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Phumula Molaetša">
@@ -321,8 +317,6 @@
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY addressBookCmd.label "Puku ya Diterese">
 <!ENTITY addressBookCmd.accesskey "d">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "d">
 <!ENTITY filtersApply.label "Šomiša Difilthara go Foltara">
 <!ENTITY filtersApply.accesskey "Š">
 <!-- Help Menu -->
@@ -346,13 +340,10 @@
 <!ENTITY fileButton.label "Faele">
 <!ENTITY nextButton.label "Latelago">
 <!ENTITY previousButton.label "Fetilego">
-<!ENTITY deleteButton.label "Phumula">
 <!ENTITY markButton.label "Maraka">
 <!ENTITY printButton.label "Gatiša">
 <!ENTITY stopButton.label "Emiša">
 <!ENTITY throbberItem.title "Tshwaetšo ya Modiro">
-<!ENTITY junkButton.label "Dilahlwa">
-<!ENTITY notJunkButton.label "Ga se Dilahlwa">
 <!ENTITY addressBookButton.label "Puku ya Diaterese">
 <!ENTITY searchItem.title "Quick Search">
 <!ENTITY mailViewsToolbarItem.title "Mail Views">
@@ -372,12 +363,9 @@
 <!ENTITY previousButton.tooltip "Šuthela go molaetša o sa balwago wa go feta">
 <!ENTITY goForwardButton.tooltip "Go forward one message">
 <!ENTITY goBackButton.tooltip "Go back one message">
-<!ENTITY deleteButton.tooltip "Phumula moaletša wo o kgethilwego goba foltara">
 <!ENTITY markButton.tooltip "Maraka melaetša">
 <!ENTITY printButton.tooltip "Gatiša molaetša wo">
 <!ENTITY stopButton.tooltip "Emiša phetišetšo ya gabjale">
-<!ENTITY junkButton.tooltip "Maraka melaetša ye e kgethilwego bjalo ka dilahlwa">
-<!ENTITY notJunkButton.tooltip "Maraka melaetša ye e kgethilwego e sego bjalo ka dilahlwa">
 <!ENTITY addressBookButton.tooltip "E ya go puku ya diaterese">
 <!ENTITY tagButton.tooltip "Tag messages">
 <!-- Tags Menu Popup -->

@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Dikgetho
-       *[other] Dikganyogo
-    }
-
 pane-general-title = Kakaretšo
 category-general =
     .tooltiptext = { pane-general-title }
@@ -130,11 +124,6 @@ applications-manage-app =
     .label = Dintlha tša tirišo…
 applications-always-ask =
     .label = Botšiša ka mehla
-applications-type-pdf = Fomate ya Tokumente e Swaregago (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -292,14 +281,9 @@ forms-exceptions =
     .label = Tše sa akaretšwego…
     .accesskey = e
 
-forms-master-pw-use =
-    .label = Diriša lentšuphetišo le legolo
-    .accesskey = D
 forms-master-pw-change =
     .label = Fetoša lentšuphetišo le legolo…
     .accesskey = l
-
-forms-master-pw-fips-title = Gabjale o mo go mokgwa wa FIPS. FIPS e nyaka lentšuphetišo la masta leo e sego la go se be le selo.
 
 forms-master-pw-fips-desc = Go fetolwa ga lentšuphetišo go paletšwe
 

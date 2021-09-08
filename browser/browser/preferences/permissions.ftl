@@ -20,10 +20,6 @@ permissions-allow =
 permissions-status =
     .label = Boemo
 
-permissions-button-cancel =
-    .label = Khansela
-    .accesskey = K
-
 permissions-capabilities-allow =
     .label = Dumelela
 permissions-capabilities-block =

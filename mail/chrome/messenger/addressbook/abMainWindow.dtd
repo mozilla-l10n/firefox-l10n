@@ -23,10 +23,6 @@
 <!ENTITY closeCmd.label "Tswalela">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "t">
-<!ENTITY printSetupCmd.label "Peakanyoya Letlakala...">
-<!ENTITY printSetupCmd.accesskey "y">
-<!ENTITY printPreviewAddressBook.label "Puku ya Aterese ya Tebelelo pele ga Kgatišo">
-<!ENTITY printPreviewAddressBook.accesskey "P">
 <!ENTITY printAddressBook.label "Gatiša Puku ya Diaterese...">
 <!ENTITY printAddressBook.accesskey "P">
 
@@ -72,8 +68,6 @@
 <!ENTITY importCmd.accesskey "A">
 <!ENTITY exportCmd.label "Romelantle...">
 <!ENTITY exportCmd.accesskey "R">
-<!ENTITY preferencesCmdUnix.label "Ditlhaolo">
-<!ENTITY preferencesCmdUnix.accesskey "o">
 <!-- Help Menu -->
 
 <!-- Address Book Toolbar and Context Menus -->  

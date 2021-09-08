@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Molaodi wa ditlaleletši
-
 addons-page-title = Molaodi wa ditlaleletši
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = Ithute mo gontši ka ditlaleletši
-
-cmd-show-details =
-    .label = Laetša tshedimošo e oketšegilego
-    .accesskey = L
-
-cmd-find-updates =
-    .label = Hwetša dikaonafatšo
-    .accesskey = H
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Dikgetho
-           *[other] Dikganyogo
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] o
-           *[other] D
-        }
-
-cmd-enable-theme =
-    .label = Sehlogo sa go apara
-    .accesskey = a
-
-cmd-disable-theme =
-    .label = Emiša sehlogo sa go lapa
-    .accesskey = h
-
-cmd-install-addon =
-    .label = Lokela
-    .accesskey = o
-
-cmd-contribute =
-    .label = Tsenya letsogo
-    .accesskey = s
-    .tooltiptext = Tsenya letsogo go tšwetšopele ya setlaleletši se
 
 detail-version =
     .label = Kgatišo
