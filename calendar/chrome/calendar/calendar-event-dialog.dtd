@@ -37,21 +37,16 @@
 <!ENTITY event.attendees.notify.accesskey            "π">
 <!ENTITY event.attendees.notifyundisclosed.label     "Χωριστή πρόσκληση ανά συμμετέχοντα">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "Χ">
-<!ENTITY event.attendees.notifyundisclosed.tooltip   "Αυτή η επιλογή αποστέλλει μία πρόσκληση με ηλεκτρονικό ταχυδρομείο ανά συμμετέχοντα. Κάθε πρόσκληση περιέχει μόνο τον αποδέκτη συμμετέχοντα, έτσι ώστε οι ταυτότητες των άλλων συμμετεχόντων να μην αποκαλύπτονται.">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Αυτή η επιλογή αποστέλλει μια πρόσκληση μέσω email ανά συμμετέχοντα. Κάθε πρόσκληση περιέχει μόνο τον αποδέκτη συμμετέχοντα, έτσι ώστε να μην αποκαλύπτονται οι ταυτότητες των υπολοίπων.">
 <!ENTITY event.attendees.disallowcounter.label       "Απαγόρευση αντιπροτάσεων">
 <!ENTITY event.attendees.disallowcounter.accesskey   "α">
 <!ENTITY event.attendees.disallowcounter.tooltip     "Υποδηλώνει αν θα δέχεστε αντιπροτάσεις">
-
-<!-- Keyboard Shortcuts -->
-<!ENTITY event.dialog.new.event.key2              "I">
-<!ENTITY event.dialog.new.task.key2               "D">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.message.key2            "N">
 <!ENTITY event.dialog.close.key                   "W">
 <!ENTITY event.dialog.save.key                    "S">
 <!ENTITY event.dialog.saveandclose.key            "L">
-<!ENTITY event.dialog.print.key                   "P">
 <!ENTITY event.dialog.undo.key                    "Z">
 <!ENTITY event.dialog.redo.key                    "Y">
 <!ENTITY event.dialog.cut.key                     "X">
@@ -93,10 +88,6 @@
 
 <!ENTITY  event.menu.item.delete.label                    "Διαγραφή…">
 <!ENTITY  event.menu.item.delete.accesskey                "Δ">
-<!ENTITY  event.menu.item.page.setup.label                "Διαμόρφωση σελίδας">
-<!ENTITY  event.menu.item.page.setup.accesskey            "μ">
-<!ENTITY  event.menu.item.print.label                     "Εκτύπωση">
-<!ENTITY  event.menu.item.print.accesskey                 "Ε">
 
 <!ENTITY  event.menu.edit.label                           "Επεξεργασία">
 <!ENTITY  event.menu.edit.accesskey                       "Ε">
@@ -121,8 +112,6 @@
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "Γ">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Προσαρμογή…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "Π">
-<!ENTITY  event.menu.view.showlink.label                  "Εμφάνιση σχετικού συνδέσμου">
-<!ENTITY  event.menu.view.showlink.accesskey              "Ε">
 
 <!ENTITY  event.menu.options.label                            "Επιλογές">
 <!ENTITY  event.menu.options.accesskey                        "λ">
