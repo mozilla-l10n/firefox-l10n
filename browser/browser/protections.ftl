@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ
 
-turn-on-sync = { -sync-brand-short-name } ਚਾਲੂ ਕਰੋ…
-    .title = ਸਿੰਕ ਪਸੰਦਾਂ ‘ਤੇ ਜਾਓ
-
 monitor-title = ਡਾਟੇ ‘ਚ ਸੰਨ੍ਹ ਲੱਗਣ ਦੀ ਖੋਜ ਕਰੋ
 monitor-link = ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ
 monitor-header-content-no-account = { -monitor-brand-name } ਨਾਲ ਪਤਾ ਕਰੋ ਕਿ ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਜਾਣੇ-ਪਛਾਣੇ ਡਾਟਾ ਸੰਨ੍ਹ ਦਾ ਹਿੱਸਾ ਹੋ ਅਤੇ ਨਵੇਂ ਲੱਗੇ ਸੰਨ੍ਹਾਂ ਬਾਰੇ ਖ਼ਬਰਦਾਰ ਵੀ ਰਹੋ।

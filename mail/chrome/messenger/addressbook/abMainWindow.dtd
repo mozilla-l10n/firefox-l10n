@@ -27,12 +27,6 @@
 <!ENTITY closeCmd.label                                 "ਬੰਦ ਕਰੋ">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "c">
-<!ENTITY printSetupCmd.label                            "ਪੇਜ਼ ਸੈੱਟਅੱਪ…">
-<!ENTITY printSetupCmd.accesskey                        "u">
-<!ENTITY printPreviewContactCmd.label                   "ਸੰਪਰਕ ਪਰਿੰਟ ਝਲਕ">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "ਐਡਰੈੱਸ ਬੁੱਕ ਪਰਿੰਟ ਝਲਕ">
-<!ENTITY printPreviewAddressBook.accesskey              "B">
 <!ENTITY printContactCmd.label                          "ਸੰਪਰਕ ਪਰਿੰਟ ਕਰੋ…">
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "P">
@@ -97,8 +91,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "ਐਕਸਪੋਰਟ…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmdUnix.label                       "ਮੇਰੀ ਪਸੰਦ">
-<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newContactButton.label                         "ਨਵਾਂ ਸੰਪਰਕ">

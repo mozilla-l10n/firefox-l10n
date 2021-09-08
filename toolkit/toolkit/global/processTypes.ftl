@@ -9,8 +9,6 @@
 
 process-type-web = ਵੈੱਬ ਸਮੱਗਰੀ
 
-process-type-browser = ਮੁੱਖ
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = ਇਸ ਬਾਰੇ ਰਿਆਇਤ

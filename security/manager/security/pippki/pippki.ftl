@@ -6,9 +6,6 @@ password-quality-meter = ਪਾਸਵਰਡ ਕੁਆਲਟੀ ਮੀਟਰ
 
 ## Change Password dialog
 
-change-password-window =
-    .title = ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ
-
 change-device-password-window =
     .title = ਪਾਸਵਰਡ ਬਦਲੋ
 
@@ -20,10 +17,6 @@ change-password-new = ਨਵਾਂ ਪਾਸਵਰਡ:
 change-password-reenter = ਨਵਾਂ ਪਾਸਵਰਡ (ਮੁੜ):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰੋ
-    .style = width: 40em
 
 pippki-failed-pw-change = ਪਾਸਵਰਡ ਬਦਲਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।
 pippki-incorrect-pw = ਤੁਸੀਂ ਆਪਣਾ ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਠੀਕ ਨਹੀਂ ਭਰਿਆ ਹੈ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = ਮੁੜ-ਲੋਡ ਕਰੋ
-reset-password-text = ਜੇਕਰ ਤੁਸੀਂ ਆਪਣੇ ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਤਾਂ, ਤੁਹਾਡੇ ਸਭ ਸੰਭਾਲੇ ਵੈੱਬ ਤੇ ਈ-ਮੇਲ ਪਾਸਵਰਡ, ਫਾਰਮ ਡਾਟਾ, ਨਿੱਜੀ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਨਿੱਜੀ ਕੁੰਜੀਆਂ ਭੁਲਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ। ਕੀ ਤੁਸੀਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੋ?
 
 reset-primary-password-text = ਜੇਕਰ ਤੁਸੀਂ ਆਪਣਾ ਮੁੱਖ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਤਾਂ, ਤੁਹਾਡੇ ਸਭ ਸੰਭਾਲੇ ਵੈੱਬ ਤੇ ਈ-ਮੇਲ ਪਾਸਵਰਡ, ਫਾਰਮ ਡਾਟਾ, ਨਿੱਜੀ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਨਿੱਜੀ ਕੁੰਜੀਆਂ ਭੁਲਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ। ਕੀ ਤੁਸੀਂ ਮੁੱਖ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੋ?
 

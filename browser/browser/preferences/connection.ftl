@@ -35,9 +35,6 @@ connection-proxy-http = HTTP ਪਰਾਕਸੀ
     .accesskey = x
 connection-proxy-http-port = ਪੋਰਟ
     .accesskey = p
-connection-proxy-http-sharing =
-    .label = ਇਹੀ ਪਰਾਕਸੀ FTP ਅਤੇ HTTPS ਲਈ ਵੀ ਵਰਤੋ
-    .accesskey = s
 
 connection-proxy-https-sharing =
     .label = ਇਹੀ ਪਰਾਕਸੀ HTTPS ਲਈ ਵੀ ਵਰਤੋਂ
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS ਪਰਾਕਸੀ
     .accesskey = H
 connection-proxy-ssl-port = ਪੋਰਟ
     .accesskey = o
-
-connection-proxy-ftp = FTP ਪਰਾਕਸੀ
-    .accesskey = F
-connection-proxy-ftp-port = ਪੋਰਟ
-    .accesskey = r
 
 connection-proxy-socks = SOCKS ਹੋਸਟ
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = ਇਸ ਲਈ ਕੋਈ ਪਰਾਕਸੀ ਨਹੀ�
     .accesskey = n
 
 connection-proxy-noproxy-desc = ਜਿਵੇਂ: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = ਲੋਕਲਹੋਸਟ, 127.0.0.1, ਅਤੇ :: 1 ਨਾਲ ਕਨੈਕਸ਼ਨ ਕਦੇ ਵੀ ਪਰਾਕਸੀ ਨਹੀਂ ਹੁੰਦੇ।
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = localhost, 127.0.0.1/8 ਅਤੇ ::1 ਲਈ ਕਨੈਕਸ਼ਨ ਕਦੇ ਪਰਾਕਸੀ ਨਹੀਂ ਹੁੰਦੇ ਹਨ।

@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = ਬੁੱਕਮਾਰਕ
+
 sidebar-menu-history =
     .label = ਅਤੀਤ
+
 sidebar-menu-synced-tabs =
     .label = ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ
+
 sidebar-menu-close =
     .label = ਬਾਹੀ ਨੂੰ ਬੰਦ ਕਰੋ
+
 sidebar-close-button =
     .tooltiptext = ਸਾਇਡ-ਬਾਰ ਨੂੰ ਬੰਦ ਕਰੋ

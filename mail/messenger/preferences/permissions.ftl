@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Exceptions
     .style = width: 36em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = Address of web site:
     .accesskey = d

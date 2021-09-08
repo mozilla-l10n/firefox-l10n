@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = ਸਕਰੀਨ-ਸ਼ਾਟ ਲਵੋ
-
-screenshots-my-shots-button = ਮੇਰੇ ਸ਼ਾਟ
-
 screenshot-toolbarbutton =
     .label = ਸਕਰੀਨਸ਼ਾਟ
     .tooltiptext = ਸਕਰੀਨਸ਼ਾਟ ਲਵੋ
@@ -40,8 +36,6 @@ screenshots-login-error-details = { -screenshots-brand-name } ਸੇਵਾ ਨ�
 
 screenshots-unshootable-page-error-title = ਅਸੀਂ ਇਸ ਸਫੇ ਦਾ ਸਕਰੀਨਸ਼ਾਟ ਨਹੀਂ ਲੈ ਸਕਦੇ।
 screenshots-unshootable-page-error-details = ਇਹ ਸਟੈਂਡਰਡ ਵੈੱਬ ਸਫ਼ਾ ਨਹੀਂ ਹੈ, ਇਸਕਰਕੇ ਤੁਸੀਂ ਇਸ ਦਾ ਸਕਰੀਨਸ਼ਾਟ ਨਹੀਂ ਲੈ ਸਕਦੇ ਹੋ।
-
-screenshots-self-screenshot-error-title = ਤੁਸੀਂ { -screenshots-brand-name } ਸਫ਼ੇ ਦੀ ਤਸਵੀਰ ਨਹੀਂ ਖਿੱਚ ਸਕਦੇ ਹੋ!
 
 screenshots-empty-selection-error-title = ਤੁਹਾਡੀ ਚੋਣ ਬਹੁਤ ਛੋਟੀ ਹੈ
 

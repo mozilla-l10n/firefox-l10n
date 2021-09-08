@@ -19,8 +19,6 @@
 <!ENTITY redoCmd.accesskey          "r">
 <!ENTITY deleteCmd.label          "ਹਟਾਓ">
 <!ENTITY deleteCmd.accesskey        "d">
-<!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY viewMenu.label          "ਵੇਖੋ">
 <!ENTITY viewMenu.accesskey        "v">

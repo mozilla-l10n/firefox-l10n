@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "ਸਾਫ਼ ਕਰੋ">
 
-<!ENTITY fillLoginMenu.label          "ਲਾਗਇਨ ਭਰੋ">
-<!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "ਪਾਸਵਰਡ ਭਰੋ">
-<!ENTITY fillPasswordMenu.accesskey   "F">
-<!ENTITY fillUsernameMenu.label       "ਵਰਤੋਂਕਾਰ-ਨਾਂ ਭਰੋ">
-<!ENTITY fillUsernameMenu.accesskey   "F">
-<!ENTITY noLoginSuggestions.label     "(ਕੋਈ ਲਾਗਇਨ ਸੁਝਾਅ ਨਹੀਂ)">
-<!ENTITY viewSavedLogins.label        "ਸੰਭਾਲੇ ਲਾਗਇਨ ਵੇਖੋ">

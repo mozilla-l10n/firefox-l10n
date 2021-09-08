@@ -5,11 +5,6 @@
 containers-window-new =
     .title = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } ਕਨਟੇਨਰ ਤਰਜੀਹਾਂ
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = ਆਈਕਾਨ
 containers-color-label = ਰੰਗ
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = ਹੋ ਗਿਆ
-    .accesskey = D
 
 containers-dialog =
     .buttonlabelaccept = ਹੋ ਗਿਆ

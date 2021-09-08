@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = ਸਾਰੀਆਂ ਟੈਬਾਂ ਚੁਣੋ
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] ਬੰਦ ਕੀਤੀ ਟੈਬ ਵਾਪਸ ਲਵੋ
-            [one] ਬੰਦ ਕੀਤੀ ਟੈਬ ਵਾਪਸ ਲਵੋ
-           *[other] ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ ਵਾਪਸ ਲਵੋ
-        }
-    .accesskey = U
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -57,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = ਓਵਰਫਲੋ ਮੇਨੂ 'ਚ ਟੰਗੋ
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = ਟੂਲ-ਪੱਟੀ ਨੂੰ ਆਪੇ-ਲੁਕਾਵੋ
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = ਜਦੋਂ ਖਾਲੀ ਹੋਵੇ ਤਾਂ ਬਟਨ ਓਹਲੇ ਕਰੋ
     .accesskey = H

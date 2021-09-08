@@ -9,8 +9,4 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "ਮੱਦਦ">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY helpTroubleshootingInfo.label     "ਸਮੱਸਿਆ ਹੱਲ">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpSafeMode.label     "Restart with Add-ons Disabled…">
-<!ENTITY helpSafeMode.accesskey "R">
 
