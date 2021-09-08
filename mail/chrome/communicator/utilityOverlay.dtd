@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY deleteCmd.label          "Suprimeix">
 <!ENTITY deleteCmd.accesskey        "u">
-<!ENTITY preferencesCmd2.label "Opcions">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "Preferències">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY customizeCmd.label "Personalitza">
 <!ENTITY customizeCmd.accesskey "t">

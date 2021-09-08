@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Tanca">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "c">
-<!ENTITY printSetupCmd.label                            "Configuració de la pàgina…">
-<!ENTITY printSetupCmd.accesskey                        "g">
-<!ENTITY printPreviewContactCmd.label                   "Exemple d'impressió del contacte">
-<!ENTITY printPreviewContactCmd.accesskey               "t">
-<!ENTITY printPreviewAddressBook.label                  "Exemple d'impressió de la llibreta d'adreces">
-<!ENTITY printPreviewAddressBook.accesskey              "b">
 <!ENTITY printContactCmd.label                          "Imprimeix el contacte…">
 <!ENTITY printContactCmd.accesskey                      "p">
 <!ENTITY printContactCmd.key                            "P">
@@ -109,10 +103,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exporta…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                          "Opcions">
-<!ENTITY preferencesCmd2.accesskey                      "O">
-<!ENTITY preferencesCmdUnix.label                       "Preferències">
-<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Crea un contacte">

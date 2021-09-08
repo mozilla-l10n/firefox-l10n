@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "j">
 <!ENTITY aboutProduct2.label "Quant al &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "Q">
-<!ENTITY helpTroubleshootingInfo.label     "Informació de resolució de problemes">
-<!ENTITY helpTroubleshootingInfo.accesskey "r">
-<!ENTITY helpSafeMode.label     "Reinicia amb els complements inhabilitats…">
-<!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY helpSafeMode.stop.label     "Reinicia amb els complements habilitats">
-<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Ajuda del &brandShortName;">
 <!ENTITY productHelp.accesskey "A">
 <!ENTITY productHelp.commandkey "VK_F1">

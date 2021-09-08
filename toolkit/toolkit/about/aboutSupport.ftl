@@ -10,11 +10,6 @@ crashes-id = Identificador de l'informe
 crashes-send-date = Data d'enviament
 crashes-all-reports = Tots els informes de fallada
 crashes-no-config = Aquesta aplicació no està configurada per visualitzar els informes de fallada.
-extensions-title = Extensions
-extensions-name = Nom
-extensions-enabled = Habilitada
-extensions-version = Versió
-extensions-id = ID
 support-addons-title = Complements
 support-addons-name = Nom
 support-addons-type = Tipus
@@ -129,8 +124,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tipus de procés
 sandbox-sys-call-number = Crida del sistema
 sandbox-sys-call-args = Arguments
-safe-mode-title = Proveu el mode segur
-restart-in-safe-mode-label = Reinicia amb els complements inhabilitats…
 
 restart-in-troubleshoot-mode-label = Mode de resolució de problemes…
 clear-startup-cache-title = Proveu d'esborrar la memòria cau d'inici
@@ -181,20 +174,6 @@ intl-regional-prefs = Preferències regionals
 remote-debugging-url = URL
 
 ##
-
-support-third-party-modules-title = Mòduls de tercers
-support-third-party-modules-module = Fitxer de mòdul
-support-third-party-modules-version = Versió del fitxer
-support-third-party-modules-vendor = Informació del proveïdor
-support-third-party-modules-status = Estat
-support-third-party-modules-status-loaded = Carregat
-support-third-party-modules-status-blocked = Blocat
-support-third-party-modules-status-redirected = Redirigit
-support-third-party-modules-no-value = (Cap valor)
-support-third-party-modules-button-open =
-    .title = Obre la ubicació del fitxer…
-support-third-party-modules-folder-icon =
-    .title = Obre la ubicació del fitxer…
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -282,19 +261,12 @@ gpu-driver-date = Data del controlador
 gpu-active = Activa
 webgl1-extensions = Extensions WebGL 1
 webgl2-extensions = Extensions WebGL 2
-blocklisted-bug = És a la llista de bloquejos per problemes coneguts
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = error { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = És a la llista de bloquejos; codi d'error { $failureCode }
 
 d3d11layers-crash-guard = Compositor D3D11
-d3d11video-crash-guard = Descodificador de vídeo D3D11
-d3d9video-crash-guard = Descodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Reinicialitza als valors per defecte en el proper reinici
@@ -324,14 +296,6 @@ launcher-process-status-unknown = Estat desconegut
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Activat per l'usuari
-multi-process-status-1 = Activat per defecte
-multi-process-status-2 = Desactivat
-multi-process-status-4 = Inhabilitat per les eines d'accessibilitat
-multi-process-status-6 = Inhabilitat perquè l'entrada de text és incompatible
-multi-process-status-7 = Inhabilitat per part dels complements
-multi-process-status-8 = Inhabilitat de forma forçada
-multi-process-status-unknown = Estat desconegut
 
 # Variables
 # $fissionWindows (integer) - Number of remote windows

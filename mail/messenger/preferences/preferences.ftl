@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Tanca
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opcions
-           *[other] Preferències
-        }
-
 preferences-doc-title = Preferències
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Descarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
-addons-button = Extensions i temes
-
 account-button = Paràmetres del compte
 open-addons-sidebar-button = Complements i temes
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Per crear una contrasenya mestra, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = crear una contrasenya mestra
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Per crear una contrasenya principal, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Personalitza…
     .accesskey = a
-
-tray-icon-label =
-    .label = Mostra una icona de safata
-    .accesskey = t
 
 biff-use-system-alert =
     .label = Utilitza la notificació del sistema
@@ -425,9 +403,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Color:
     .accesskey = o
-
-search-input =
-    .placeholder = Cerca
 
 search-handler-table =
     .placeholder = Filtra tipus de contingut i accions
@@ -719,16 +694,6 @@ passwords-button =
     .label = Contrasenyes desades…
     .accesskey = d
 
-master-password-description = Una vegada definida, la contrasenya mestra protegeix totes les vostres contrasenyes - però heu d'introduir-la una vegada per cada sessió.
-
-master-password-label =
-    .label = Utilitza una contrasenya mestra
-    .accesskey = m
-
-master-password-button =
-    .label = Canvia la contrasenya mestra…
-    .accesskey = C
-
 
 primary-password-description = Una vegada definida, la contrasenya principal protegeix totes les vostres contrasenyes, però heu d'introduir-la una vegada per cada sessió.
 
@@ -909,26 +874,6 @@ no-preview-description = Aquest tema no és vàlid o actualment no està disponi
 chat-variant-label =
     .value = Variant:
     .accesskey = V
-
-chat-header-label =
-    .label = Mostra la capçalera
-    .accesskey = M
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Cerca en les opcions
-           *[other] Cerca en les preferències
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

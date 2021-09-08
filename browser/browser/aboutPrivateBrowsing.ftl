@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Obre una finestra privada
 about-private-browsing-search-placeholder = Cerca al web
 about-private-browsing-info-title = Esteu en una finestra privada
 about-private-browsing-info-myths = Mites comuns sobre la navegació privada
-about-private-browsing =
-    .title = Cerca al web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = Preferències del { -brand-short-name }
 
 open-addons-sidebar-button = Complements i temes
+

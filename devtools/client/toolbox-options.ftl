@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Comportament de la captura de pantalla
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Captura de pantalla al porta-retalls
-options-screenshot-clipboard-tooltip =
-    .title = Desa la captura de pantalla directament al porta-retalls
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Reprodueix un so d'obturador de càmera
 options-screenshot-audio-tooltip =

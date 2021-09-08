@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Teniu certificats d'aquestes organitzacions que us identifiquen
 certmgr-remembered = Aquests certificats s'utilitzen per identificar-vos en els llocs web
 certmgr-people = Teniu certificats al fitxer que identifiquen aquesta gent
-certmgr-servers = Teniu certificats al fitxer que identifiquen aquests servidors
 certmgr-server = Aquestes entrades identifiquen les excepcions d'error de certificats de servidor
 certmgr-ca = Teniu certificats al fitxer que identifiquen aquestes entitats certificadores
-
-certmgr-detail-general-tab-title =
-    .label = General
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Detalls
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = S'està verificant el certificat…
-
-certmgr-subject-label = Emès a nom de
-
-certmgr-issuer-label = Emès per
-
-certmgr-period-of-validity = Període de validesa
-
-certmgr-fingerprints = Empremtes digitals
-
-certmgr-cert-detail =
-    .title = Detall del certificat
-    .buttonlabelaccept = Tanca
-    .buttonaccesskeyaccept = c
-
-certmgr-cert-detail-commonname = Nom comú (CN)
-
-certmgr-cert-detail-org = Organització (O)
-
-certmgr-cert-detail-orgunit = Unitat organitzativa (OU)
-
-certmgr-cert-detail-serial-number = Número de sèrie
-
-certmgr-cert-detail-sha-256-fingerprint = Empremta digital SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Empremta digital SHA1
 
 certmgr-edit-ca-cert =
     .title = Edita els paràmetres de confiança del certificat de la CA
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Dispositiu de seguretat
 
-certmgr-begins-on = Data d'inici
-
 certmgr-begins-label =
     .label = Data d'inici
-
-certmgr-expires-on = Data de venciment
 
 certmgr-expires-label =
     .label = Data de venciment
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Importa…
     .accesskey = m
-
-certmgr-details =
-    .value = Camps del certificat
-    .accesskey = f
-
-certmgr-fields =
-    .value = Valor del camp
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = Jerarquia de certificats
-    .accesskey = J
 
 certmgr-add-exception =
     .label = Afegeix una excepció…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Esteu segur que voleu suprimir aquests certificats?
 delete-user-cert-impact = Si suprimiu un dels propis certificats, no podreu utilitzar-lo més per identificar-vos.
 
 
-delete-ssl-cert-title =
-    .title = Suprimeix les excepcions de certificats de servidor
-delete-ssl-cert-confirm = Esteu segur que voleu suprimir aquestes excepcions de servidor?
-delete-ssl-cert-impact = Si suprimiu una excepció de servidor, es restauraran les comprovacions de seguretat habituals per al servidor i us caldrà utilitzar un certificat vàlid.
-
-
 delete-ssl-override-title =
     .title = Suprimeix l'excepció de certificats de servidor
 delete-ssl-override-confirm = Segur que voleu suprimir aquesta excepció de servidor?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Certificat amb número de sèrie: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Visualitzador de certificats: «{ $certName }»
-
-not-present =
-    .value = <No forma part del certificat>
-
-# Cert verification
-cert-verified = S'ha verificat el certificat per als usos següents:
-
-# Add usage
-verify-ssl-client =
-    .value = Certificat de client SSL
-
-verify-ssl-server =
-    .value = Certificat de servidor SSL
-
-verify-ssl-ca =
-    .value = Entitat certificadora SSL
-
-verify-email-signer =
-    .value = Certificat de signatura de correu electrònic
-
-verify-email-recip =
-    .value = Certificat de destinatari de correu electrònic
-
-# Cert verification
-cert-not-verified-cert-revoked = No s'ha pogut comprovar el certificat perquè ha estat revocat.
-cert-not-verified-cert-expired = No s'ha pogut comprovar el certificat perquè ha vençut.
-cert-not-verified-cert-not-trusted = No s'ha pogut comprovar el certificat perquè no s'hi confia.
-cert-not-verified-issuer-not-trusted = No s'ha pogut comprovar el certificat perquè no es confia en l'emissor.
-cert-not-verified-issuer-unknown = No s'ha pogut comprovar el certificat perquè l'emissor és desconegut.
-cert-not-verified-ca-invalid = No s'ha pogut comprovar el certificat perquè el certificat de la CA no és vàlid.
-cert-not-verified_algorithm-disabled = No s'ha pogut verificar el certificat perquè ha estat signat amb un algorisme de signatura que va ser inhabilitat per no ser segur.
-cert-not-verified-unknown = No s'ha pogut comprovar el certificat per raons desconegudes.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = No enviïs cap certificat de client
