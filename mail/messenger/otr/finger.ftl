@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = OTR hatz-marka gakoa aurreko muturretik muturrera zifratutako elkarrizketena.
 
-finger-screenName =
-    .label = Kontaktua
-
 finger-screen-name =
     .label = Kontaktua
 finger-verified =

@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Gehitu edukiontzi berria
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = '{ $name }' edukiontziaren hobespenak
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Ikonoa
 containers-color-label = Kolorea
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Eginda
-    .accesskey = E
 
 containers-dialog =
     .buttonlabelaccept = Eginda

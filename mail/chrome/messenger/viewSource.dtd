@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Gorde orria honela…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Prestatu orria…">
-<!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Inprimatzeko aurrebista">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Inprimatu…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">

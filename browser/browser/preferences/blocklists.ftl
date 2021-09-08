@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Zerrenda
 
-blocklist-button-cancel =
-    .label = Utzi
-    .accesskey = U
-
-blocklist-button-ok =
-    .label = Gorde aldaketak
-    .accesskey = G
-
 blocklist-dialog =
     .buttonlabelaccept = Gorde aldaketak
     .buttonaccesskeyaccept = G

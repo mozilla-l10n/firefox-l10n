@@ -58,8 +58,6 @@ printui-options = Aukerak
 printui-headers-footers-checkbox = Inprimatu goiburu eta oinak
 printui-backgrounds-checkbox = Inprimatu atzeko planoa
 
-printui-selection-checkbox = Inprimatu hautapena soilik
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

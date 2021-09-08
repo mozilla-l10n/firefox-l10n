@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Automatikoki jarraitu atzemandako lineako egoera
     .accesskey = a
 
-startup-label = Eskuzko egoera abiatzean:
-
 offline-preference-startup-label = Eskuzko egoera abiatzean:
 
 status-radio-remember =

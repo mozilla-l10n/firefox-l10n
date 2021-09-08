@@ -28,16 +28,6 @@ serviceworker-worker-unregister = Kendu erregistroa
 serviceworker-worker-debug = Araztu
     .title = Exekutatzen ari diren zerbitzu-langileak araztu daitezke soilik
 
-# Text for the debug link displayed for an already started Service Worker, when we
-# are in multi e10s mode, which effectively disables this link.
-serviceworker-worker-debug-forbidden = Araztu
-    .title = e10s desgaituta dagoenean soilik araz daitezke zerbitzu-langileak
-
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start2 = Hasi
-    .title = e10s desgaituta dagoenean soilik has daitezke zerbitzu-langileak
-
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Ikuskatu
@@ -50,12 +40,6 @@ serviceworker-worker-start3 = Hasi
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Eguneratuta <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = Iturburua
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = Egoera
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -65,26 +49,6 @@ serviceworker-worker-status-running = Exekutatzen
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Geldituta
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Zerbitzu-langilea erregistratu behar duzu hemen ikuskatu ahal izateko. <a>Argibide gehiago</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = Uneko orriak zerbitzu-langilea izan beharko balu, hona hemen saia ditzakezun zenbait gauza
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = Begiratu kontsolan errorerik dagoen. <a>Ireki kontsola</a>
-
-# Suggestion to use the debugger to investigate why a service worker is not registered.
-# Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Begiratu urratsez urrats zerbitzu-langilearen erregistro-fasea eta begiratu salbuespenik dagoen. <a>Ireki araztailea</a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Ikustatu beste domeinuetako zerbitzu-langileak. <a>Ireki about:debugging</a>
 
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = Ez da zerbitzu-langilerik aurkitu
@@ -103,10 +67,6 @@ serviceworker-empty-suggestions-aboutdebugging2 = Ikusi beste domeinuetako zerbi
 
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Aplikazioaren manifestua
-
-# Header for the Manifest page when there's no manifest to inspect
-# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = Aplikazioaren manifestu-fitxategia gehitu behar duzu hemen ikuskatu ahal izateko. <a>Argibide gehiago</a>
 
 # Header for the Manifest page when there's no manifest to inspect
 manifest-empty-intro2 = Ez da web aplikazioaren manifesturik antzeman

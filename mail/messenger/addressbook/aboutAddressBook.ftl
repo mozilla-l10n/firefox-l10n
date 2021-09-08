@@ -20,6 +20,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Helbide-liburu guztiak
+
 about-addressbook-books-context-properties =
     .label = Propietateak
 about-addressbook-books-context-synchronize =
@@ -30,6 +31,7 @@ about-addressbook-books-context-delete =
     .label = Ezabatu
 about-addressbook-books-context-remove =
     .label = Kendu
+
 about-addressbook-confirm-delete-book-title = Ezabatu helbide-liburua
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -47,14 +49,17 @@ about-addressbook-search =
     .placeholder = Bilatu { $name }
 about-addressbook-search-all =
     .placeholder = Bilatu helbide-liburu guztiak
+
 about-addressbook-sort-button =
     .title = Aldatu zerrenda ordena
+
 about-addressbook-name-format-display =
     .label = Bistaratzeko izena
 about-addressbook-name-format-firstlast =
     .label = Izena, abizena
 about-addressbook-name-format-lastfirst =
     .label = Abizena, izena
+
 about-addressbook-sort-name-ascending =
     .label = Ordenatu izenaz (A > Z)
 about-addressbook-sort-name-descending =
@@ -63,8 +68,10 @@ about-addressbook-sort-email-ascending =
     .label = Ordenatu Eposta helbideaz (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ordenatu Eposta helbideaz (Z > A)
+
 about-addressbook-cards-context-write =
     .label = Idatzi
+
 about-addressbook-confirm-delete-mixed-title = Ezabatu kontaktuak eta posta-zerrendak
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -121,6 +128,7 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Editatu
 about-addressbook-cancel-edit-contact-button = Utzi
 about-addressbook-save-edit-contact-button = Gorde
+
 about-addressbook-details-email-addresses-header = Helbide elektronikoak
 about-addressbook-details-phone-numbers-header = Telefono zenbakiak
 about-addressbook-details-home-address-header = Etxeko helbidea

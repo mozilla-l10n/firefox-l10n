@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Serie-zenbakia:
 
-fips-nonempty-password-required = FIPS moduak zuk pasahitz nagusi bat ezartzea beharrezkoa du. Mesedez, FIPS modua abiarazi baino lehen pasahitza ezarri.
-
 fips-nonempty-primary-password-required = FIPS moduak eskatzen du segurtasun gailu bakoitzeko pasahitz nagusia izatea. Ezarri pasahitza FIPS modua gaitzen saiatu aurretik.
 unable-to-toggle-fips = Ezin izan da segurtasun-gailuaren FIPS modua aldatu. Aplikazio honetatik irten eta berrabiaratzea gomendatzen da.
 load-pk11-module-file-picker-title = Aukeratu kargatu beharreko PKCS#11 gailuaren kontrolatzailea

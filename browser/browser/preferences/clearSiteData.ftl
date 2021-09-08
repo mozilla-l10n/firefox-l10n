@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Webguneetako irudi eta datuak berriro kargatzea eskatzen du
 
-clear-site-data-cancel =
-    .label = Utzi
-    .accesskey = U
-
-clear-site-data-clear =
-    .label = Garbitu
-    .accesskey = G
-
 clear-site-data-dialog =
     .buttonlabelaccept = Garbitu
     .buttonaccesskeyaccept = G

@@ -10,11 +10,6 @@ crashes-id = Txostenaren IDa
 crashes-send-date = Noiz bidalia
 crashes-all-reports = Hutsegite-txosten guztiak
 crashes-no-config = Aplikazioa ez da konfiguratu hutsegite-txostenak bistaratzeko.
-extensions-title = Hedapenak
-extensions-name = Izena
-extensions-enabled = Gaituta
-extensions-version = Bertsioa
-extensions-id = ID
 support-addons-title = Gehigarriak
 support-addons-name = Izena
 support-addons-type = Mota
@@ -129,8 +124,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Prozesu mota
 sandbox-sys-call-number = Sistema-deia
 sandbox-sys-call-args = Argumentuak
-safe-mode-title = Probatu modu segurua
-restart-in-safe-mode-label = Berrabiarazi gehigarriak desgaituta…
 
 troubleshoot-mode-title = Diagnostikatu arazoak
 restart-in-troubleshoot-mode-label = Arazoak konpontzeko modua…
@@ -188,37 +181,6 @@ remote-debugging-accepting-connections = Konexioak onartzen
 remote-debugging-url = URLa
 
 ##
-
-support-third-party-modules-title = Hirugarrenen moduluak
-support-third-party-modules-module = Modulu-fitxategia
-support-third-party-modules-version = Fitxategiaren bertsioa
-support-third-party-modules-vendor = Hornitzailearen informazioa
-support-third-party-modules-occurrence = Gertaerak
-support-third-party-modules-process = Prozesu mota eta IDa
-support-third-party-modules-thread = Haria
-support-third-party-modules-base = Imagebase helbidea
-support-third-party-modules-uptime = Prozesuaren jardun-denbora (ms)
-support-third-party-modules-duration = Kargatzearen iraupena (ms)
-support-third-party-modules-status = Egoera
-support-third-party-modules-status-loaded = Kargatuta
-support-third-party-modules-status-blocked = Blokeatuta
-support-third-party-modules-status-redirected = Berbideratuta
-support-third-party-modules-empty = Ez da hirugarrenen modulurik kargatu.
-support-third-party-modules-no-value = (Baliorik ez)
-support-third-party-modules-button-open =
-    .title = Ireki fitxategi-kokalekua…
-support-third-party-modules-expand =
-    .title = Erakutsi informazio xehatua
-support-third-party-modules-collapse =
-    .title = Tolestu informazio xehatua
-support-third-party-modules-unsigned-icon =
-    .title = Modulu hau ez dago sinatuta
-support-third-party-modules-folder-icon =
-    .title = Ireki fitxategi-kokalekua…
-support-third-party-modules-down-icon =
-    .title = Erakutsi informazio xehatua
-support-third-party-modules-up-icon =
-    .title = Tolestu informazio xehatua
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -314,11 +276,6 @@ webgl2-renderer = WebGL 2 kontrolatzailearen errendatzailea
 webgl2-version = WebGL 2 kontrolatzailearen bertsioa
 webgl2-driver-extensions = WebGL 2 kontrolatzailearen hedapenak
 webgl2-extensions = WebGL 2 hedapenak
-blocklisted-bug = Arazo ezagunengatik zerrenda beltzean
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = { $bugNumber }. buga
 
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
@@ -329,8 +286,6 @@ support-blocklisted-bug = Zerrenda beltzean arazo ezagunak direla-eta: <a data-l
 unknown-failure = Zerrenda beltzean; { $failureCode } hutsegite-kodea
 
 d3d11layers-crash-guard = D3D11 konposatzailea
-d3d11video-crash-guard = D3D11 bideo-deskodetzailea
-d3d9video-crash-guard = D3D9 bideo-deskodetzailea
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX bideo-deskodetzailea
 
@@ -375,14 +330,6 @@ launcher-process-status-unknown = Egoera ezezaguna
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Erabiltzaileak gaituta
-multi-process-status-1 = Lehenespenez gaituta
-multi-process-status-2 = Desgaituta
-multi-process-status-4 = Erabilgarritasun-tresnek desgaituta
-multi-process-status-6 = Onartzen ez den testu-sarrerak desgaituta
-multi-process-status-7 = Gehigarriek desgaituta
-multi-process-status-8 = Behartuta desgaituta
-multi-process-status-unknown = Egoera ezezaguna
 
 # Variables
 # $fissionWindows (integer) - Number of remote windows

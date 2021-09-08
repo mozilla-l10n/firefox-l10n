@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR ezarpenak
 otr-log =
     .label = Gehitu OTR zifratutako mezuak elkarrizketen egunkarian
-otr-requireEncryption =
-    .label = Muturretik muturrerako zifraketa behar da banakako elkarrizketetarako
-otr-verifyNudge =
-    .label = Beti gogorarazi egiaztatzea egiaztatu gabeko kontaktuak
-
-otr-notYetAvailable = oraindik ez dago erabilgarri
 
 otr-require-encryption =
     .label = Muturretik muturrerako zifraketa behar da banakako elkarrizketetarako

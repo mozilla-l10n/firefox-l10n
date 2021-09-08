@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = { -brand-short-name } hobespenak
 
 open-addons-sidebar-button = Gehigarriak eta itxurak
+

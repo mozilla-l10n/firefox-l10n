@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Inprimatu…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Inprimatzeko aurrebista">
-<!ENTITY printPreviewCmd.accesskey "b">
-<!ENTITY printSetupCmd.label "Prestatu orria…">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Ezabatu mezua">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "r">
 <!ENTITY compactVersion.label "Ikuspegi trinkoa">
 <!ENTITY compactVersion.accesskey "n">
-<!ENTITY folderPaneBar.label "Karpeten panelaren tresna-barra">
-<!ENTITY folderPaneBar.accesskey "K">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sailkapen irizpidea">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Helbide-liburua">
 <!ENTITY addressBookCmd.accesskey "H">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Gehigarriak">
-<!ENTITY addons.accesskey "G">
-<!ENTITY addonPrefs.label "Gehigarri aukerak">
-<!ENTITY addonPrefs.accesskey "a">
-<!ENTITY addonPrefsUnix.label "Gehigarri hobespenak">
-<!ENTITY addonPrefsUnix.accesskey "o">
 <!ENTITY addonNoPrefs.label "Ez da aurkitu gehigarri ezarpenik.">
 <!ENTITY activitymanager.label "Jarduera-kudeatzailea">
 <!ENTITY activitymanager.accesskey "a">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Araztu gehigarriak">
 <!ENTITY debugAddonsCmd.accesskey "r">
-<!ENTITY tabsDebugCmd.label "Edukien marko araztailea">
-<!ENTITY tabsDebugCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.label "Errore-kontsola">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Atzera">
 <!ENTITY goForwardButton1.label "Aurrera">
 <!ENTITY deleteItem.title "Ezabatu">
-<!ENTITY deleteButton.label "Ezabatu">
-<!ENTITY undeleteButton.label "Desezabatu">
 <!ENTITY markButton.label "Markatu">
 <!ENTITY printButton.label "Inprimatu">
 <!ENTITY stopButton.label "Gelditu">
 <!ENTITY throbberItem.title "Jarduera-adierazlea">
 <!ENTITY junkItem.title "Zaborra">
-<!ENTITY junkButton.label "Zaborra">
-<!ENTITY notJunkButton.label "Ez da zaborra">
 <!ENTITY addressBookButton.label "Helbide-liburua">
 <!ENTITY chatButton.label "Txata">
 <!ENTITY glodaSearch.title "Bilaketa orokorra">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Joan aurreko mezura">
 <!ENTITY goForwardButton.tooltip "Joan mezu bat aurrera">
 <!ENTITY goBackButton.tooltip "Joan mezu bat atzera">
-<!ENTITY deleteButton.tooltip "Ezabatu hautatutako mezua edo karpeta">
-<!ENTITY undeleteButton.tooltip "Desezabatu hautatutako mezua">
 <!ENTITY markButton.tooltip "Markatu mezuak">
 <!ENTITY printButton.tooltip "Inprimatu mezu hau">
 <!ENTITY stopButton.tooltip "Gelditu uneko transferentzia">
-<!ENTITY junkButton.tooltip "Markatu aukeratutako mezuak zabor gisa">
-<!ENTITY notJunkButton.tooltip "Markatu aukeratutako mezuak ez zabor gisa">
 <!ENTITY addressBookButton.tooltip "Joan helbide-liburura">
 <!ENTITY chatButton.tooltip "Erakutsi txataren fitxa">
 <!ENTITY tagButton.tooltip "Etiketatu mezuak">
 <!ENTITY compactButton.tooltip "Kendu ezabatutako mezuak hautatutako karpetatik">
 <!ENTITY appmenuButton1.tooltip "Bistaratu &brandShortName; menua">
-<!ENTITY addonsButton.tooltip "Kudeatu zure gehigarriak">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Birbidali barnean">

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Gehigarrien kudeatzailea
-
 addons-page-title = Gehigarrien kudeatzailea
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Gehigarrien laguntza
 sidebar-help-button-title =
     .title = Gehigarrien laguntza
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } aukerak
-       *[other] { -brand-short-name } hobespenak
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } aukerak
-           *[other] { -brand-short-name } hobespenak
-        }
-
 addons-settings-button = { -brand-short-name } ezarpenak
 sidebar-settings-button-title =
     .title = { -brand-short-name } ezarpenak
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Erakutsi gehigarri guztiak
-
-cmd-show-details =
-    .label = Erakutsi informazio gehiago
-    .accesskey = E
-
-cmd-find-updates =
-    .label = Bilatu eguneraketak
-    .accesskey = B
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Aukerak
-           *[other] Hobespenak
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] A
-           *[other] H
-        }
-
-cmd-enable-theme =
-    .label = Jantzi itxura
-    .accesskey = J
-
-cmd-disable-theme =
-    .label = Erantzi itxura
-    .accesskey = E
-
-cmd-install-addon =
-    .label = Instalatu
-    .accesskey = I
-
-cmd-contribute =
-    .label = Lagundu
-    .accesskey = L
-    .tooltiptext = Lagundu gehigarri honen garapenean
 
 detail-version =
     .label = Bertsioa
@@ -389,8 +337,6 @@ dictionary-disabled-heading = Desgaituta
 
 locale-enabled-heading = Gaituta
 locale-disabled-heading = Desgaituta
-
-ask-to-activate-button = Galdetu aktibatzea
 
 always-activate-button = Aktibatu beti
 never-activate-button = Ez aktibatu inoiz

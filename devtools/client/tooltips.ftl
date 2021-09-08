@@ -40,8 +40,6 @@ inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</stro
 
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan <strong>overflow:hidden</strong> ez dagoelako ezarrita.
 
-inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> propietateak ez du eraginik elementu honetan bere <strong>outline-style</strong> balioa <strong>auto</strong> edo <strong>none</strong> delako.
-
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> propietateak ez du eraginik barneko taula-elementuetan.
 
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> propietateak ez du eraginik barneko taula-elementuetan, gelaxketan salbu.
@@ -83,8 +81,6 @@ inactive-text-overflow-when-no-overflow-fix = Saiatu <strong>overflow:hidden</st
 inactive-css-not-for-internal-table-elements-fix = Saiatu bere <strong>display</strong> propietatea <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> edo <strong>table-footer-group</strong> ez den beste balio batera ezartzen. { learn-more }
 
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Saiatu bere <strong>display</strong> propietatea <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> edo <strong>table-footer-group</strong> ez den beste balio batera ezartzen. { learn-more }
-
-inactive-outline-radius-when-outline-style-auto-or-none-fix = Saiatu bere <strong>outline-style</strong> propietatea <strong>auto</strong> edo <strong>none</strong> ez den beste balio batera ezartzen. { learn-more }
 
 inactive-css-not-table-fix = Saiatu gehitzen <strong>display:table</strong> edo <strong>display:inline-table</strong>. { learn-more }
 

@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Hautatu fitxa guztiak
     .accesskey = z
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Desegin fitxa ixtea
-            [one] Desegin fitxa ixtea
-           *[other] Desegin fitxak ixtea
-        }
-    .accesskey = D
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -57,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Ainguratu gainezkatzearen menuan
     .accesskey = A
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Ezkutatu automatikoki tresna-barran
-    .accesskey = z
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Ezkutatu botoia hutsik dagoenean
     .accesskey = E
