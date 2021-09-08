@@ -429,7 +429,7 @@
 <!ENTITY markAsJunkCmd.label "Ως ανεπιθύμητο">
 <!ENTITY markAsJunkCmd.accesskey "ν">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Ως μη ανεπιθύμητο">
+<!ENTITY markAsNotJunkCmd.label "Ως επιθυμητό">
 <!ENTITY markAsNotJunkCmd.accesskey "θ">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Έλεγχος για ανεπιθύμητα email">
