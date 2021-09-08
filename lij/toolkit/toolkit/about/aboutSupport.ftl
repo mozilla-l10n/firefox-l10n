@@ -10,11 +10,6 @@ crashes-id = ID segnalaçion
 crashes-send-date = Mandâ
 crashes-all-reports = Tutte e segnalaçioin
 crashes-no-config = St'aplicaçion a no l'é configurâ pe mostrâ e segnalaçioin de cianto anòmalo.
-extensions-title = Estenscioin
-extensions-name = Nomme
-extensions-enabled = Abilitou
-extensions-version = Verscion
-extensions-id = ID
 support-addons-name = Nomme
 support-addons-version = Verscion
 support-addons-id = ID
@@ -97,8 +92,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tipo de processo
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argomenti
-safe-mode-title = Preuva o mòddo seguo
-restart-in-safe-mode-label = Arvi torna co-i conponenti azonti dizativæ…
 
 ## Media titles
 
@@ -234,19 +227,12 @@ webgl2-renderer = Renderer WebGL2
 webgl2-version = Verscion do driver WebGL 2
 webgl2-driver-extensions = Estençion do driver WebGL 2
 webgl2-extensions = Estenscioin WebGL 2
-blocklisted-bug = Blocòu pe motivi nòtti
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bagon { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocòu; Còdice d'erô { $failureCode }
 
 d3d11layers-crash-guard = Conpositô D3D11
-d3d11video-crash-guard = Decodificatô video D3D11
-d3d9video-crash-guard = Decodificatô video D3D9
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Reinpòsta a-a proscima avertua
@@ -281,14 +267,6 @@ launcher-process-status-unknown = Stato no conosciuo
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Abilitou da l'utente
-multi-process-status-1 = Abilitou predefinio
-multi-process-status-2 = Dizabilitou
-multi-process-status-4 = Dizabilitou da-i strumenti de acesibilitæ
-multi-process-status-6 = Dizabilitou pe testo d'ingresso no soportou
-multi-process-status-7 = Dizabilitou da-i conponenti azonti
-multi-process-status-8 = Dizabilitou con fòrsa
-multi-process-status-unknown = Stato no conosciuo
 
 async-pan-zoom = Panoramica/zoom ascincroni (APZ)
 apz-none = nisciun

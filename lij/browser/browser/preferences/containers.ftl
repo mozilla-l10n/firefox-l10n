@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Azonzi neuvo contegnitô
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Preferense do Contegnitô { $name }
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Icöna
 containers-color-label = Cô
     .accesskey = C
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Fæto
-    .accesskey = F
 
 containers-dialog =
     .buttonlabelaccept = Fæto

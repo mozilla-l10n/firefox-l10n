@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Scancella tutti i sciti
     .accesskey = u
 
-translation-button-close =
-    .label = Særa
-    .accesskey = r
-
 translation-dialog =
     .buttonlabelaccept = Særa
     .buttonaccesskeyaccept = r

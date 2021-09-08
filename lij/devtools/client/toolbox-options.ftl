@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Conportamento de-e föto do schermo
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Föto do schermo inti aponti
-options-screenshot-clipboard-tooltip =
-    .title = Sarva e föto do schermo diretamente inti aponti
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Fanni o son da machina fòtografica
 options-screenshot-audio-tooltip =

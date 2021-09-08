@@ -6,7 +6,6 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Estenscioin consegiæ
-cfr-doorhanger-pintab-heading = Prova quésto: aponta sto feuggio
 
 ##
 
@@ -17,8 +16,6 @@ cfr-doorhanger-extension-cancel-button = Òua no
     .accesskey = O
 
 cfr-doorhanger-extension-ok-button = Azonzi òua
-    .accesskey = A
-cfr-doorhanger-pintab-ok-button = Aponta sto feuggio
     .accesskey = A
 
 cfr-doorhanger-extension-manage-settings-button = Gestisci inpostaçioin consegiæ
@@ -58,16 +55,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } utenti
     }
 
-cfr-doorhanger-pintab-description = Acedi façilmente a-i sciti ciù uzæ.  Tegni i sciti averti inte 'n feuggio (anche dòppo 'n re-inandio).
-
 ## These messages are steps on how to use the feature and are shown together.
-
-cfr-doorhanger-pintab-step1 = <b>Sciacca drito</b> in sciô feuggio quade t'eu amugiâ.
-cfr-doorhanger-pintab-step2 = Seleçionn-a <b>Aponta sto feuggio</b> da-o menû.
-cfr-doorhanger-pintab-step3 = Se o scito o l'à 'n agiornamento ti vediæ 'n balin bleu in sciô feuggio apontou.
-
-cfr-doorhanger-pintab-animation-pause = Pösa
-cfr-doorhanger-pintab-animation-resume = Repiggia
 
 
 ## Firefox Accounts Message
@@ -89,53 +77,27 @@ cfr-whatsnew-button =
     .label = Cöse gh'é de neuvo
     .tooltiptext = Cöse gh'é de neuvo
 
-cfr-whatsnew-panel-header = Cöse gh'é de neuvo
-
 cfr-whatsnew-release-notes-link-text = Lezi e nòtte de version
-
-cfr-whatsnew-lockwise-take-link-text = Scarega l'app
 
 ## Search Bar
 
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-cta = Atre informaçioin
-
 ## Permission Prompt
-
-cfr-whatsnew-permission-prompt-cta = Atre informaçioin
 
 ## Fingerprinter Counter
 
 
 ## Bookmark Sync
 
-cfr-doorhanger-sync-bookmarks-ok-button = Ativa { -sync-brand-short-name }
-    .accesskey = t
-
 ## Login Sync
-
-cfr-doorhanger-sync-logins-ok-button = Ativa { -sync-brand-short-name }
-    .accesskey = A
 
 ## Send Tab
 
-cfr-doorhanger-send-tab-header = Lezilo donde t'eu
-cfr-doorhanger-send-tab-recipe-header = Pòrtite sta riçetta in cuxinn-a
-
 ## Firefox Send
 
-cfr-doorhanger-firefox-send-ok-button = Preuva { -send-brand-name }
-    .accesskey = P
-
 ## Social Tracking Protection
-
-cfr-doorhanger-socialtracking-ok-button = Amia e proteçioin
-    .accesskey = p
-cfr-doorhanger-socialtracking-close-button = Særa
-    .accesskey = S
-cfr-doorhanger-socialtracking-heading = { -brand-short-name } o l'à inpedio a 'na ræ sociale de traciate
 
 ## Enhanced Tracking Protection Milestones
 
@@ -170,4 +132,10 @@ cfr-doorhanger-milestone-close-button = Særa
 ## Fission Experiment Message
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

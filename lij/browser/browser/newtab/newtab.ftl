@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Çerca
     .aria-label = Çerca
 
-newtab-search-box-search-the-web-text = Çerca inta Ræ
-
 newtab-search-box-search-the-web-input =
     .placeholder = Çerca inta Ræ
     .title = Çerca inta Ræ

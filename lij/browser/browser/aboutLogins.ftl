@@ -7,19 +7,11 @@ about-logins-page-title = Login e Poule segrete
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Portite e poule segrete con ti dapertutto
-login-app-promo-subtitle = Instalite l'app de badda { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Piggitelo in sce Google Play
-login-app-promo-apple =
-    .alt = Descarega da l'App Store
-
 login-filter =
     .placeholder = Çerca inti login
 
 create-login-button = Crea neuvo login
 
-fxaccounts-sign-in-button = Intra in { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Acedi a sync
 fxaccounts-avatar-button =
     .title = Gestisci conto
@@ -39,8 +31,6 @@ menu-menuitem-preferences =
        *[other] Inpostaçioin
     }
 about-logins-menu-menuitem-help = Agiutto
-menu-menuitem-android-app = { -lockwise-brand-short-name } pe Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } pe iPhone e iPad
 
 ## Login List
 
@@ -68,8 +58,6 @@ about-logins-list-item-vulnerable-password-icon =
     .title = Poula segreta vulnerabile
 
 ## Introduction screen
-
-login-intro-heading = TI çerchi e poule segrete sarvæ? Configura { -sync-brand-short-name }.
 
 ## Login
 
@@ -114,8 +102,6 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = mostra e poule segr
 
 ## Master Password notification
 
-master-password-notification-message = Scrivi a teu poula segreta prinçipâ pe amiâ i login e poule segrete sarvæ
-
 ## Primary Password notification
 
 master-password-reload-button =
@@ -123,17 +109,6 @@ master-password-reload-button =
     .accesskey = I
 
 ## Password Sync notification
-
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Arvi e inpostaçioin de { -sync-brand-short-name }
-           *[other] Arvi e preferense de { -sync-brand-short-name }
-        }
-    .accesskey = A
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = No domandalo ciù
-    .accesskey = N
 
 ## Dialogs
 

@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Elenco
 
-blocklist-button-cancel =
-    .label = Anulla
-    .accesskey = A
-
-blocklist-button-ok =
-    .label = Sarva modifiche
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Sarva modifiche
     .buttonaccesskeyaccept = S

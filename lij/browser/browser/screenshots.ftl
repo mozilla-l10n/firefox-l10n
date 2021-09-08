@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Fanni 'na föto do schermo
-
-screenshots-my-shots-button = E mæ föto do schermo
-
 screenshots-instructions = Rebela ò sciacca in sciâ pagina pe seleçionâ 'na region. Sciacca ESC pe anulâ.
 screenshots-cancel-button = Anulla
 screenshots-save-visible-button = Sarva o vixibile
@@ -33,8 +29,6 @@ screenshots-login-error-details = No poemmo sarvâ a teu inmagine perché gh'é 
 
 screenshots-unshootable-page-error-title = No poemmo fâ 'na föto do schermo de sta pagina.
 screenshots-unshootable-page-error-details = Sta chi a no l'é 'na pagina Web standard, coscì no peu faghe 'na föto do schermo.
-
-screenshots-self-screenshot-error-title = No ti peu fâ 'na föto do schermo a 'na pagina de { -screenshots-brand-name }!
 
 screenshots-generic-error-title = Ahime mi! { -screenshots-brand-name } o s'é ciantou.
 screenshots-generic-error-details = Niatri no emmo ben acapio cöse l'é sucesso. Ti peu miga preuvâ co-ina pagina dispægia?

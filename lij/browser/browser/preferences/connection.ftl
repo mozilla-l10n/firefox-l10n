@@ -39,11 +39,6 @@ connection-proxy-http-port = Pòrta
 connection-proxy-ssl-port = Pòrta
     .accesskey = o
 
-connection-proxy-ftp = Proxy FTP
-    .accesskey = F
-connection-proxy-ftp-port = Pòrta
-    .accesskey = r
-
 connection-proxy-socks = Host SOCKS
     .accesskey = C
 connection-proxy-socks-port = Pòrta

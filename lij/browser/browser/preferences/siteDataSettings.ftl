@@ -27,14 +27,6 @@ site-data-remove-selected =
     .label = Scancella seleçionæ
     .accesskey = r
 
-site-data-button-cancel =
-    .label = Anulla
-    .accesskey = A
-
-site-data-button-save =
-    .label = Sarva cangiamenti
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = Sarva cangiamenti
     .buttonaccesskeyaccept = a

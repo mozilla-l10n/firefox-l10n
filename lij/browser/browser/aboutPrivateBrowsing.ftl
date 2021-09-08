@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Arvi 'n barcon privòu
 about-private-browsing-search-placeholder = Çerca inta Ræ
 about-private-browsing-info-title = Ti ê inte 'n barcon privòu
 about-private-browsing-info-myths = Miti comuin in sciâ navegaçion privâ
-about-private-browsing =
-    .title = Çerca inta Ræ
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

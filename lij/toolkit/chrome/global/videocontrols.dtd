@@ -10,9 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Sciòrti dò-u mòddo a tutto schermo">
 <!ENTITY castingButton.castingLabel "Manda a schermo">
 <!ENTITY closedCaption.off "Asmòrta">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Bara do volume">
 
 <!ENTITY error.aborted "Caregamento do video fermou.">
 <!ENTITY error.network "Riproduçion video fermâ a caoza de 'n'erô da ræ.">

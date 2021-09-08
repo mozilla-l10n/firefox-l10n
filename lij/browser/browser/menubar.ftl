@@ -110,9 +110,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Cangia
     .accesskey = C
-menu-edit-find-on =
-    .label = Treuva…
-    .accesskey = T
 menu-edit-find-again =
     .label = Treuva pròscimo
     .accesskey = T
@@ -128,9 +125,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Bare
     .accesskey = B
-menu-view-customize-toolbar =
-    .label = Personalizza…
-    .accesskey = P
 menu-view-sidebar =
     .label = Bara de scianco
     .accesskey = e
@@ -161,9 +155,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Stile de baze da pagina
     .accesskey = b
-menu-view-charset =
-    .label = Codifica do testo
-    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -212,10 +203,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Segnalibbri
     .accesskey = b
-menu-bookmarks-show-all =
-    .label = Fanni vedde tutti i segnalibbri
-menu-bookmark-this-page =
-    .label = Azonzi questa pagina a-i segnalibbri
 menu-bookmark-edit =
     .label = Cangia segnalibbro
 menu-bookmarks-all-tabs =
@@ -235,38 +222,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Descaregamenti
     .accesskey = D
-menu-tools-addons =
-    .label = Conponenti azonti
-    .accesskey = a
-menu-tools-fxa-sign-in =
-    .label = Acedi a { -brand-product-name }…
-    .accesskey = A
-menu-tools-turn-on-sync =
-    .label = Ativa { -sync-brand-short-name }…
-    .accesskey = A
 menu-tools-sync-now =
     .label = Scincronizza òua
     .accesskey = S
-menu-tools-web-developer =
-    .label = Svilupatô web
-    .accesskey = W
 menu-tools-page-source =
     .label = Sorgente da Pagina
     .accesskey = o
 menu-tools-page-info =
     .label = Informaçioin da pagina
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Inpostaçioin
-           *[other] Preferense
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] o
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = Aspeto do Debugger
     .accesskey = A
@@ -301,32 +265,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Agiutto
     .accesskey = A
-menu-help-product =
-    .label = Guidda de { -brand-shorter-name }
-    .accesskey = G
-menu-help-show-tour =
-    .label = Vixita guidâ de { -brand-shorter-name }
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = Inportâ da 'n atro navegatô…
-    .accesskey = d
-menu-help-keyboard-shortcuts =
-    .label = Scorsaieu da tastea
-    .accesskey = S
-menu-help-troubleshooting-info =
-    .label = Informaçioin in sciâ soluçion di problemi
-    .accesskey = I
 menu-help-report-site-issue =
     .label = Denonçia Problema do Scito…
 menu-help-feedback-page =
     .label = Manda comento…
     .accesskey = M
-menu-help-safe-mode-without-addons =
-    .label = Arvi torna co-i conponenti azonti dizabilitæ
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = Arvi torna co-i conponente azonti ativæ
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
