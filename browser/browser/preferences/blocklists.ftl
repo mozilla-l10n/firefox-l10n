@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Doggol
 
-blocklist-button-cancel =
-    .label = Haaytu
-    .accesskey = H
-
-blocklist-button-ok =
-    .label = Danndu bayle
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Danndu bayle
     .buttonaccesskeyaccept = S

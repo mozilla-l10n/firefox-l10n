@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Rutto hello wooto
-    .aria-label = Rutto
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Yah yeeso hello wooto
-    .aria-label = Yeeso
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = Danndu Hello e Innde…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = Uddit Jokkol e Henorde Suuriinde Hesere
     .accesskey = H
 
-main-context-menu-bookmark-this-link =
-    .label = Maantoro Ngol Jokkol
-    .accesskey = J
-
 main-context-menu-save-link =
     .label = Danndu Jokkol e Innde…
     .accesskey = k
@@ -185,10 +156,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Natto Ñiiɓirde Iimeel
     .accesskey = I
-
-main-context-menu-copy-link =
-    .label = Natto Nokkuure Jokkol
-    .accesskey = u
 
 ## Media (video/audio) controls
 ##
@@ -213,32 +180,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Ittu muumɗinal
     .accesskey = I
-
-main-context-menu-media-play-speed =
-    .label = Muumaa Taro
-    .accesskey = u
-
-main-context-menu-media-play-speed-slow =
-    .label = Leewɗo (0.5×)
-    .accesskey = L
-
-main-context-menu-media-play-speed-normal =
-    .label = Aadoraa
-    .accesskey = A
-
-main-context-menu-media-play-speed-fast =
-    .label = Jaawɗo (1.25×)
-    .accesskey = J
-
-main-context-menu-media-play-speed-faster =
-    .label = Ɓurɗo yaawde (1.5×)
-    .accesskey = a
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Kawjuɗo (2×)
-    .accesskey = K
 
 main-context-menu-media-loop =
     .label = Jirlol
@@ -265,39 +206,13 @@ main-context-menu-media-video-leave-fullscreen =
     .label = Yaltu Njaajeendi Yaynirde
     .accesskey = a
 
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Natal-nder-Natal
-    .accesskey = u
-
 main-context-menu-image-reload =
     .label = Loowtu Natal
     .accesskey = L
 
-main-context-menu-image-view =
-    .label = Hollu Natal
-    .accesskey = N
-
-main-context-menu-video-view =
-    .label = Hollu Widewoo
-    .accesskey = o
-
 main-context-menu-image-copy =
     .label = Natto Natal
     .accesskey = o
-
-main-context-menu-image-copy-location =
-    .label = Natto Nokkuure Natal
-    .accesskey = a
-
-main-context-menu-video-copy-location =
-    .label = Natto Nokkuure Widewoo
-    .accesskey = a
-
-main-context-menu-audio-copy-location =
-    .label = Natto Nokkuure Ojoo
-    .accesskey = a
 
 main-context-menu-image-save-as =
     .label = Danndu Natal e innde…
@@ -306,10 +221,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Neldu Natal e Iimeel…
     .accesskey = N
-
-main-context-menu-image-set-as-background =
-    .label = Waɗtu Ngal Cakkital Biro…
-    .accesskey = W
 
 main-context-menu-image-info =
     .label = Hollu Humpito Natal
@@ -326,10 +237,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Danndu Ojoo e Innde…
     .accesskey = O
-
-main-context-menu-video-image-save-as =
-    .label = Danndu Tummbitol e Innde…
-    .accesskey = D
 
 main-context-menu-video-email =
     .label = Neldu Widewoo e Iimeel…
@@ -354,14 +261,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Neldu Hello to Kaɓirgol
     .accesskey = K
-
-main-context-menu-view-background-image =
-    .label = Hollu Natal Cakkital
-    .accesskey = u
-
-main-context-menu-generate-new-password =
-    .label = Huutoro finnde yeñtinaande…
-    .accesskey = G
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -426,10 +325,6 @@ main-context-menu-view-page-source =
     .label = Hollu Ɗaɗi Hello
     .accesskey = H
 
-main-context-menu-view-page-info =
-    .label = Hollu Humpito Hello
-    .accesskey = H
-
 main-context-menu-bidi-switch-text =
     .label = Waylu Tiindol Binndi
     .accesskey = a
@@ -438,13 +333,10 @@ main-context-menu-bidi-switch-page =
     .label = Waylu Tiindol Hello
     .accesskey = T
 
-main-context-menu-inspect-element =
-    .label = Ƴeewto Geɗel
-    .accesskey = Q
-
 main-context-menu-inspect-a11y-properties =
     .label = Yuurnito sifaaji keɓagol
 
 main-context-menu-eme-learn-more =
     .label = Ɓeydu humpito baɗte DRM…
     .accesskey = D
+

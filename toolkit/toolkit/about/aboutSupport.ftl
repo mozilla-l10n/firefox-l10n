@@ -10,11 +10,6 @@ crashes-id = ID Jaŋtol
 crashes-send-date = Neldaaɗe
 crashes-all-reports = Jaŋte Kooke Fof
 crashes-no-config = Ngal jaaɓnirgal feewniraaka ngam hollude jaŋte kooke.
-extensions-title = Timmitte
-extensions-name = Innde
-extensions-enabled = Daaƴtaaɗo
-extensions-version = Yamre
-extensions-id = ID
 support-addons-name = Innde
 support-addons-version = Yamre
 support-addons-id = ID
@@ -88,8 +83,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Sifaa silsil
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Bannanɗe
-safe-mode-title = Eto Mbayka Hoolno
-restart-in-safe-mode-label = Hurmitin tawa Ɓeyditte ena Ndaaƴaa…
 
 ## Media titles
 
@@ -221,19 +214,12 @@ webgl2-renderer = Renderer pilot WebGL 2
 webgl2-version = Yamre Pilot WebGL 2
 webgl2-driver-extensions = Jokke pilot WebGL 2
 webgl2-extensions = Jokke WebGL 2
-blocklisted-bug = Ɓeydaama e doggol falo ngam caɗe majjaaɗe
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = buggere { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Ɓeydaama e doggol falo: dokkol { $failureCode }
 
 d3d11layers-crash-guard = D3D11 Compositor
-d3d11video-crash-guard = Dokkitorde Widewoo D3D11
-d3d9video-crash-guard = Dokkitorde Widewoo D3D9
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Waklit tuma kurmal garowal
@@ -260,14 +246,6 @@ sandbox-proc-type-media-plugin = jokkel mejaa
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Kuutoro hurmini
-multi-process-status-1 = Kurmal goowangal
-multi-process-status-2 = Daaƴaama
-multi-process-status-4 = Daaƴi ko kuutorɗe weeɓitaare
-multi-process-status-6 = Daaƴi ko naatnal binndi ngal jaɓaaka
-multi-process-status-7 = Daaƴi ko ɓeyditte
-multi-process-status-8 = Daaƴiraa ko alaa e sago
-multi-process-status-unknown = Ngonka anndaaka
 
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = ndiga

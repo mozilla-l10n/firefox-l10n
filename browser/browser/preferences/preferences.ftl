@@ -7,28 +7,6 @@ do-not-track-learn-more = Ɓeydu humpito
 do-not-track-option-always =
     .label = Sahaa kala
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Cuɓe
-       *[other] Cuɓoraaɗe
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Yiylo e Cuɓe
-           *[other] Yiylo e Cuɓoraaɗe
-        }
-
 pane-general-title = Kuuɓal
 category-general =
     .tooltiptext = { pane-general-title }
@@ -44,10 +22,6 @@ category-search =
 pane-privacy-title = Suturo & Kisal
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = Wallitorde { -brand-short-name }
 addons-button-label = Jokke & Kettule
@@ -77,21 +51,9 @@ restart-later = Hurmitin so Ɓooyii
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Timmitere, <img data-l10n-name="icon"/> { $name }, nana ɗowa hello jaɓɓorgo maa.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Timmitere, <img data-l10n-name="icon"/> { $name }, nana ɗowa hello Tabbere maa Hesere.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Jokkel, <img data-l10n-name="icon"/>{ $name }, jogii ndee ñaawirde
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Timmitere, <img data-l10n-name="icon"/> { $name }, teeltiima masiŋ maa njiilaw goowaaɗo.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -116,26 +78,11 @@ extension-controlled-enable = Ngam hurminde timmitere ndee yah to <img data-l10n
 
 search-results-header = Njaltudi Njiilawu
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Ay haame! Hay batte yaltaani e cuɓanɗe ngam “<span data-l10n-name="query"></span>”.
-       *[other] Ay haame! Alaa njaltudi woodi nder cuɓe wonande "<span data-l10n-name="query"></span>".
-    }
-
 search-results-help-link = Aɗa sokli ballal? Yillo <a data-l10n-name="url">{ -brand-short-name } Wallitorde</a>
 
 ## General Section
 
 startup-header = Kurmital
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Yamir { -brand-short-name } e Firefox yoo kurmu kañje ɗiɗi kala
-use-firefox-sync = Ƴoƴel: Ɗuum huutorto ko keftinirɗe ceertuɗe. Huutoro { -sync-brand-short-name } ngam lollinde keɓe hakkunde majje.
-get-started-not-logged-in = Seŋo to { -sync-brand-short-name }…
-get-started-configured = Uddit Cuɓoraaɗe { -sync-brand-short-name }
 
 always-check-default =
     .label = Ƴeewto sahaa kala so { -brand-short-name } ko wanngorde maa woowaande
@@ -175,10 +122,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Reentin am so udditgol tabbe keewɗe ena keɓori leeltinde { -brand-short-name }
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = So mi udditii jokkol e tabbere hesere, naat e mayre ɗoon e ɗoon
-    .accesskey = m
 
 show-tabs-in-taskbar =
     .label = Hollir jiytinde ɗee e palal golle Windows
@@ -340,11 +283,6 @@ applications-manage-app =
     .label = Humpito Jaaɓnirgal…
 applications-always-ask =
     .label = Naamno sahaa kala
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -431,8 +369,6 @@ update-application-warning-cross-user-setting = Ngol teeltol maa jammine e konte
 update-application-use-service =
     .label = Huutoro carwol cakkitol ngam aafde kesɗitine
     .accesskey = c
-
-update-setting-write-failure-title = Juumre e danndugol cuɓoraaɗe kesɗitine
 
 update-in-progress-message = Aɗa yiɗiɗ { -brand-short-name } jokka e ɗee kesɗitine?
 
@@ -643,8 +579,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = Basiye njiilaw kolliroytaake e njaltudi palal nokkuure sabu ko a teeltiiɗo { -brand-short-name } yoo waas siiftorde aslol.
 
-search-one-click-header = Yiylorde nde dobannde wootere
-
 search-one-click-desc = Suɓo jiylorɗe goɗɗe gonɗe les palal ñiiɓirɗe ngal e palal yiylorde so a fuɗɗiima naatnude helmere yiylorde.
 
 search-choose-engine-column =
@@ -672,13 +606,6 @@ search-keyword-warning-bookmark = A suɓiima helmere yiylorde wonnde e huutoreed
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Rutto e Cuɓe
-           *[other] Rutto e Cuɓoraaɗe
-        }
-
 containers-header = Tabbe Mooftirɗe
 containers-add-button =
     .label = Ɓeydu Mooftiree Hesere
@@ -687,9 +614,6 @@ containers-add-button =
 containers-new-tab-check =
     .label = Suɓo mooftirde ngam tabbere hesere kala
     .accesskey = S
-
-containers-preferences-button =
-    .label = Cuɓaaɗe
 
 containers-remove-button =
     .label = Momtu
@@ -701,11 +625,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Nawor Geesa Maa
-sync-signedout-description = Sanngoɗin maantore maa, aslol, tabbe, finndeeji, ɓeyditte e cuɓoraade e kaɓirɗi maa fof.
-
-sync-signedout-account-signin2 =
-    .label = Seŋo e { -sync-brand-short-name }…
-    .accesskey = e
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -749,10 +668,6 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
-prefs-sync-setup =
-    .label = Teelto { -sync-brand-short-name }…
-    .accesskey = T
-
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = Maantore
@@ -762,11 +677,6 @@ sync-currently-syncing-logins-passwords = Ceŋorɗe e pinle
 sync-currently-syncing-addresses = Ñiiɓirɗe
 sync-currently-syncing-creditcards = Karte banke
 sync-currently-syncing-addons = Ɓeyditte
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Cuɓe
-       *[other] Cuɓoraaɗe
-    }
 
 sync-change-options =
     .label = Waylu…
@@ -806,15 +716,6 @@ sync-engine-addons =
     .label = Ɓeyditte
     .tooltiptext = Timmitte kam e ciŋkooje wonande ordinateer
     .accesskey = Ɓ
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Cuɓe
-           *[other] Cuɓoraaɗe
-        }
-    .tooltiptext = Teelte Kuuɓɗe Suturo kam e Kisal ɗe mbayluɗaa
-    .accesskey = e
 
 ## The device name controls.
 
@@ -859,14 +760,9 @@ forms-breach-alerts-learn-more-link = Ɓeydu humpito
 forms-saved-logins =
     .label = Ceŋorɗe Danndaaɗe…
     .accesskey = D
-forms-master-pw-use =
-    .label = Huutoro finnde baabaare
-    .accesskey = o
 forms-master-pw-change =
     .label = Waylu Finnde Baabaare…
     .accesskey = B
-
-forms-master-pw-fips-title = Ngon-ɗaa ɗoo ko e mbayka FIPS. Mbayka FIPS ena naamnii Finnde Baabaare nde ɓolɗaani.
 
 forms-master-pw-fips-desc = Baylugol Finnde Woorii
 
@@ -1043,12 +939,6 @@ permissions-addon-exceptions =
     .label = Paltooje…
     .accesskey = P
 
-permissions-a11y-privacy-checkbox =
-    .label = Haɗ carwooje weeɓitaare yettaade wanngorde maa
-    .accesskey = c
-
-permissions-a11y-privacy-link = Ɓeydu humpito
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Roɓindo e Kuutoragol Keɓe
@@ -1068,11 +958,6 @@ collection-studies-link = Yiy jaŋdeeji { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ciimti keɓe ko daaƴaaɗi wonande kaa ngonka mahngo
-
-collection-backlogged-crash-reports =
-    .label = Yamir { -brand-short-name } yo neldu jaŋte kooke leeltuɗe e innde maa
-    .accesskey = c
-collection-backlogged-crash-reports-link = Jokku taro
 
 ## Privacy Section - Security
 ##
@@ -1100,16 +985,6 @@ security-block-uncommon-software =
 
 certs-header = Seedamfaaji
 
-certs-personal-label = So sarworde ɗaɓɓii seedamfaagu maa keeriingu:
-
-certs-select-auto-option =
-    .label = Labo gootal e jaajol
-    .accesskey = D
-
-certs-select-ask-option =
-    .label = Naamno mo e sahaa kala
-    .accesskey = Y
-
 certs-enable-ocsp =
     .label = Ɗaɓɓitere jaaborɗe carworɗe OCSP ena teeŋtina moƴƴugol seedamfaaje
     .accesskey = Ɗ
@@ -1121,34 +996,6 @@ certs-view =
 certs-devices =
     .label = kaɓirɗi Kisal…
     .accesskey = k
-
-space-alert-learn-more-button =
-    .label = Jokku taro
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Uddit cuɓtorɗe
-           *[other] Uddit Cuɓe
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] U
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } ina ŋakkiraa boowal mbeɗu. Loowdi lowre geese ndii waawaa feeñirde no feewi. Aɗa waawi momtude keɓe daɗndaaɗe nder Cuɓe> Sirlu e Kisal> Kuukiiji e keɓe lowre.
-       *[other] { -brand-short-name } ina ŋakkiraa boowal mbeɗu. Loowdi lowre geese ndii waawaa feeñirde no feewi. Aɗa waawi momtude keɓe daɗndaaɗe nder Ɓurɗine> Sirlu e Kisal> Kuukiiji e keɓe lowre.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = OK, Heɓ ɗum
-    .accesskey = K
-
-space-alert-under-5gb-message = { -brand-short-name } ina ŋakkiraa boowal mbeɗu. Loowdi lowre ndee waawaa hollireede no feewiri. Yillo "Ɓeydude Humpito" ngam ittinde kuutoragol mbeɗu maa ngam humpito moƴƴo banngagol.
 
 ## Privacy Section - HTTPS-Only
 

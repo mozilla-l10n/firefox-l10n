@@ -39,11 +39,6 @@ connection-proxy-http-port = Seŋorde
 connection-proxy-ssl-port = Seŋorde
     .accesskey = o
 
-connection-proxy-ftp = FTP poroksi
-    .accesskey = F
-connection-proxy-ftp-port = Seŋorde
-    .accesskey = r
-
 connection-proxy-socks = SOCKS Host
     .accesskey = C
 connection-proxy-socks-port = Seŋorde

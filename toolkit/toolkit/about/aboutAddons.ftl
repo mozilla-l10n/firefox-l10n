@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Topitorde Ɓeyditte
-
 addons-page-title = Topitorde Ɓeyditte
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Hollu timmitte fof
-
-cmd-show-details =
-    .label = Hollir Humpito Ɓeydoro
-    .accesskey = H
-
-cmd-find-updates =
-    .label = Yiylo Kesɗitine
-    .accesskey = Y
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Cuɓe
-           *[other] Cuɓoraaɗe
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] C
-           *[other] C
-        }
-
-cmd-enable-theme =
-    .label = Jammin Siŋkoore
-    .accesskey = J
-
-cmd-disable-theme =
-    .label = Dartin Jammingol Siŋkoore
-    .accesskey = J
-
-cmd-install-addon =
-    .label = Aaf
-    .accesskey = A
-
-cmd-contribute =
-    .label = Addu ballal
-    .accesskey = A
-    .tooltiptext = Wallit e totagol ngal ɓeydital
 
 detail-version =
     .label = Yamre

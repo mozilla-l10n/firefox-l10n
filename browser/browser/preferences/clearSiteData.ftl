@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Maa naamnoyo lowe geese ngam loowtude nate e keɓe
 
-clear-site-data-cancel =
-    .label = Haaytu
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Momtu
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = Momtu
     .buttonaccesskeyaccept = l
