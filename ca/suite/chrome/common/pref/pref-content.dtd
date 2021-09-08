@@ -15,10 +15,10 @@
 <!ENTITY useSmoothScroll.label                  "Utilitza el desplaçament suau">
 <!ENTITY useSmoothScroll.accesskey              "U">
 
-<!ENTITY siteSpecific.label                     "Recorda els nivells de zoom de cada lloc web">
-<!ENTITY siteSpecific.accesskey                 "m">
 <!ENTITY textZoomOnly.label                     "Augmenta o redueix només el text en comptes de tota la pàgina">
 <!ENTITY textZoomOnly.accesskey                 "x">
+<!ENTITY siteSpecific.label                     "Recorda els nivells de zoom de cada lloc web">
+<!ENTITY siteSpecific.accesskey                 "m">
 <!ENTITY enableAutomaticImageResizing.label     "Redimensiona les imatges grans per tal que s'encabeixin a la finestra del navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 

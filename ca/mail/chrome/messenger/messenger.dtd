@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Exemple d'impressió">
-<!ENTITY printPreviewCmd.accesskey "l">
-<!ENTITY printSetupCmd.label "Configuració de la pàgina…">
-<!ENTITY printSetupCmd.accesskey "g">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Suprimeix el missatge">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Visualització compacta">
 <!ENTITY compactVersion.accesskey "V">
-<!ENTITY folderPaneBar.label "Barra d'eines de la subfinestra de carpetes">
-<!ENTITY folderPaneBar.accesskey "f">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordena">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Llibreta d'adreces">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Complements">
-<!ENTITY addons.accesskey "m">
-<!ENTITY addonPrefs.label "Opcions del complement">
-<!ENTITY addonPrefs.accesskey "O">
-<!ENTITY addonPrefsUnix.label "Preferències del complement">
-<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "No s'ha trobat cap paràmetre per al complement. ">
 <!ENTITY activitymanager.label "Gestor d'activitat">
 <!ENTITY activitymanager.accesskey "a">
@@ -520,8 +508,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Depura els complements">
 <!ENTITY debugAddonsCmd.accesskey "a">
-<!ENTITY tabsDebugCmd.label "Depurador de marc de contingut">
-<!ENTITY tabsDebugCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Consola d'errors">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -545,15 +531,11 @@
 <!ENTITY backButton1.label "Enrere">
 <!ENTITY goForwardButton1.label "Endavant">
 <!ENTITY deleteItem.title "Suprimeix">
-<!ENTITY deleteButton.label "Suprimeix">
-<!ENTITY undeleteButton.label "Desfés la supressió">
 <!ENTITY markButton.label "Marca">
 <!ENTITY printButton.label "Imprimeix">
 <!ENTITY stopButton.label "Atura">
 <!ENTITY throbberItem.title "Indicador d'activitat">
 <!ENTITY junkItem.title "Correu brossa">
-<!ENTITY junkButton.label "Correu brossa">
-<!ENTITY notJunkButton.label "No és correu brossa">
 <!ENTITY addressBookButton.label "Llibreta d'adreces">
 <!ENTITY chatButton.label "Xat">
 <!ENTITY glodaSearch.title "Cerca global">
@@ -585,19 +567,14 @@
 <!ENTITY previousMsgButton.tooltip "Vés al missatge anterior">
 <!ENTITY goForwardButton.tooltip "Vés endavant un missatge">
 <!ENTITY goBackButton.tooltip "Vés enrere un missatge">
-<!ENTITY deleteButton.tooltip "Suprimeix el missatge o carpeta seleccionada">
-<!ENTITY undeleteButton.tooltip "Recupera el missatge suprimit seleccionat">
 <!ENTITY markButton.tooltip "Marca els missatges">
 <!ENTITY printButton.tooltip "Imprimeix aquest missatge">
 <!ENTITY stopButton.tooltip "Atura la transferència actual">
-<!ENTITY junkButton.tooltip "Marca els missatges seleccionats com a correu brossa">
-<!ENTITY notJunkButton.tooltip "Marca els missatges seleccionats com a correu legítim">
 <!ENTITY addressBookButton.tooltip "Vés a la llibreta d'adreces">
 <!ENTITY chatButton.tooltip "Mostra la pestanya de xat">
 <!ENTITY tagButton.tooltip "Etiqueta els missatges">
 <!ENTITY compactButton.tooltip "Treu els missatges suprimits de la carpeta seleccionada">
 <!ENTITY appmenuButton1.tooltip "Mostra el menú del &brandShortName;">
-<!ENTITY addonsButton.tooltip "Gestiona els complements">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Reenvia en el cos del missatge">

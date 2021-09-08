@@ -19,10 +19,6 @@
 <!ENTITY savePageCmd.label "Anomena i desa la pàgina…">
 <!ENTITY savePageCmd.accesskey "s">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Configuració de la pàgina…">
-<!ENTITY pageSetupCmd.accesskey "g">
-<!ENTITY printPreviewCmd.label "Exemple d'impressió">
-<!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "P">

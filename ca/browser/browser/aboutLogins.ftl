@@ -7,20 +7,12 @@ about-logins-page-title = Inicis de sessió i contrasenyes
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Accediu a les vostres contrasenyes des de qualsevol lloc
-login-app-promo-subtitle = Instal·leu l'aplicació { -lockwise-brand-name } gratuïta
-login-app-promo-android =
-    .alt = Disponible a Google Play
-login-app-promo-apple =
-    .alt = Baixeu-lo de l'App Store
-
 login-filter =
     .placeholder = Cerca els inicis de sessió
 
 create-login-button = Crea un inici de sessió
 
 fxaccounts-sign-in-text = Accediu a les contrasenyes en tots els vostres dispositius
-fxaccounts-sign-in-button = Inicia la sessió al { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Inicia la sessió per sincronitzar
 fxaccounts-avatar-button =
     .title = Gestiona el compte
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Preferències
     }
 about-logins-menu-menuitem-help = Ajuda
-menu-menuitem-android-app = { -lockwise-brand-short-name } per a l'Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } per a l'iPhone i iPad
 
 ## Login List
 
@@ -72,14 +62,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Esteu cercant els inicis de sessió que heu desat? Configureu el { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = Cerqueu els vostres inicis de sessió desats? Activeu la sincronització o importeu-los.
 about-logins-login-intro-heading-logged-in = No s'ha trobat cap inici de sessió sincronitzat.
 login-intro-description = Si heu desat els vostres inicis de sessió en el { -brand-product-name } des d'un altre dispositiu, aquesta és la manera de tenir-los també aquí:
-login-intro-instruction-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu desats els vostres inicis de sessió
-login-intro-instruction-fxa-settings = Assegureu-vos que heu seleccionat la casella de selecció Inicis de sessió en els paràmetres del { -sync-brand-short-name }
-about-logins-intro-instruction-help = Visiteu l'<a data-l10n-name="help-link">assistència del { -lockwise-brand-short-name }</a> per obtenir més ajuda
 login-intro-instructions-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu desats els vostres inicis de sessió.
 login-intro-instructions-fxa-settings = Aneu a Paràmetres > Sync > Activa la sincronització... Marqueu la casella de selecció «Inicis de sessió i contrasenyes».
 login-intro-instructions-fxa-help = Visiteu l'<a data-l10n-name="help-link">assistència del { -lockwise-brand-short-name }</a> per obtenir més ajuda.
@@ -141,8 +126,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copiar la contrasenya
 
 ## Master Password notification
 
-master-password-notification-message = Introduïu la contrasenya mestra per veure els inicis de sessió i les contrasenyes desats
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Per exportar els inicis de sessió, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to export a password in about:logins
@@ -157,22 +140,6 @@ master-password-reload-button =
     .accesskey = I
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Voleu accedir als vostres inicis de sessió arreu on utilitzeu el { -brand-product-name }? Aneu a les Opcions del { -sync-brand-short-name } i marqueu la casella de selecció Inicis de sessió.
-       *[other] Voleu accedir als vostres inicis de sessió arreu on utilitzeu el { -brand-product-name }? Aneu a les Preferències del { -sync-brand-short-name } i marqueu la casella de selecció Inicis de sessió.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Vés a les Opcions del { -sync-brand-short-name }
-           *[other] Vés a les Preferències del { -sync-brand-short-name }
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = No m'ho tornis a demanar
-    .accesskey = N
 
 ## Dialogs
 

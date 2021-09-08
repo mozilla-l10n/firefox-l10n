@@ -9,9 +9,6 @@ newtab-page-title = Pestanya nova
 newtab-settings-button =
     .title = Personalitzeu la pàgina de pestanya nova
 
-newtab-personalize-button-label = Personalitza
-    .title = Personalitza la pestanya nova
-    .aria-label = Personalitza la pestanya nova
 newtab-personalize-icon-label =
     .title = Personalitza la pestanya nova
     .aria-label = Personalitza la pestanya nova
@@ -24,8 +21,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Cerca
     .aria-label = Cerca
-
-newtab-search-box-search-the-web-text = Cerca al web
 
 # Variables
 #  $engine (String): the name of the user's default search engine
@@ -265,10 +260,4 @@ newtab-custom-recent-title = Activitat recent
 newtab-custom-recent-subtitle = Una selecció de llocs i continguts recents
 newtab-custom-close-button = Tanca
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Retalls
-newtab-custom-snippets-subtitle = Consells i novetats de { -vendor-short-name } i del { -brand-product-name }
 newtab-custom-settings = Gestiona més paràmetres

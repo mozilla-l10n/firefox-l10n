@@ -6,9 +6,6 @@ password-quality-meter = Avaluador de qualitat de la contrasenya
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Canvia la contrasenya mestra
-
 change-device-password-window =
     .title = Canvia la contrasenya
 
@@ -20,10 +17,6 @@ change-password-new = Contrasenya nova:
 change-password-reenter = Contrasenya nova (un altre cop):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Reinicia la contrasenya mestra
-    .style = width: 40em
 
 pippki-failed-pw-change = No s'ha pogut canviar la contrasenya.
 pippki-incorrect-pw = No heu introduït la contrasenya actual correcta. Torneu-ho a provar.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Reinicia
-reset-password-text = Si reinicieu la vostra contrasenya mestra, totes les vostres contrasenyes de web i de correu electrònic, les dades dels formularis, els certificats personals i les claus privades emmagatzemades es perdran. Esteu segur que voleu reiniciar la vostra contrasenya mestra?
 
 reset-primary-password-text = Si reinicieu la vostra contrasenya principal, totes les vostres contrasenyes de web i de correu electrònic, els certificats personals i les claus privades emmagatzemades es perdran. Esteu segur que voleu reiniciar la vostra contrasenya principal?
 

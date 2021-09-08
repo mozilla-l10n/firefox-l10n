@@ -6,9 +6,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = Elimina el camp { $type }
-
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Elimina el camp { $type }
 
@@ -99,19 +96,6 @@ attachment-bucket-count =
         }
     .accesskey = n
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext =
-        { $count ->
-            [1] { $count } adjunció
-            [one] { $count } adjunció
-           *[other] { $count } adjuncions
-        }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 expand-attachment-pane-tooltip =
     .tooltiptext = Mostra la subfinestra d'adjuncions ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
@@ -144,6 +128,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Confirmació de recepció
     .tooltiptext = Sol·licita una confirmació de recepció per a aquest missatge
+
+# Encryption
 
 # Addressing Area
 
@@ -188,6 +174,7 @@ bcc-compose-show-address-row-label =
 
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = Els { $count } destinataris dels camps «A» i «Cc» veuran la identitat els uns dels altres. Si no voleu que els destinataris es vegin mútuament, utilitzeu «Cco».
+
 
 many-public-recipients-bcc =
     .label = Utilitza CCo

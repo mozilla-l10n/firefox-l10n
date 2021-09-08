@@ -14,7 +14,6 @@
 <!ENTITY alwaysClear.accesskey            "q">
 
 <!ENTITY askBeforeClear.label             "Demana-m'ho abans de netejar les dades privades">
-<!ENTITY askBeforeClear.accesskey         "D">
 
 <!ENTITY clearDataSettings.label          "Quan demani al &brandShortName; les meves dades privades, hauria d'esborrar:">
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):

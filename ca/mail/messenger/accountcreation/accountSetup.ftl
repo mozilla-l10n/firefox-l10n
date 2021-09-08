@@ -287,6 +287,8 @@ exchange-dialog-confirm-button = Inicia la sessió
 
 exchange-dialog-cancel-button = Cancel·la
 
+## Dismiss account creation dialog
+
 ## Alert dialogs
 
 account-setup-creation-error-title = Error en crear el compte

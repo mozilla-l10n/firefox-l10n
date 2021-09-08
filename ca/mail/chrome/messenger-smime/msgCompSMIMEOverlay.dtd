@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Signa digitalment">
 <!ENTITY menu_securitySign.accesskey "S">
 
-<!ENTITY menu_securityAttachMyKey.label "Adjunta la meva clau pública">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "Tecnologia de xifratge">
 <!ENTITY menu_securityTech.accesskey "T">
 

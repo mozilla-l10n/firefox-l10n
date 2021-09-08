@@ -6,7 +6,6 @@
      the quick filter bar.
      -->
 
-<!ENTITY quickFilterBar.qfbShowFilterBar.label "Filtre ràpid">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.

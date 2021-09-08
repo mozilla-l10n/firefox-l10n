@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Nou">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Missatge">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Contacte de la llibreta d'adreces…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Adjunta">
 <!ENTITY attachMenu.accesskey "j">
-<!ENTITY attachFileCmd.label "Fitxers…">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Pàgina web…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Envia'l més tard">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "l">
-<!ENTITY printSetupCmd.label "Configuració de la pàgina…">
-<!ENTITY printSetupCmd.accesskey "g">
-<!ENTITY printPreviewCmd.label "Exemple d'impressió">
-<!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Imprimeix…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Reordena les adjuncions…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Subfinestra d'adjuncions">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "a">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY findBarCmd.label "Cerca…">
 <!ENTITY findBarCmd.accesskey "C">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Reordena les adjuncions">
-<!ENTITY moveAttachmentTopPanelBtn.label "Mou al capdamunt">
-<!ENTITY moveAttachmentUpPanelBtn.label "Puja">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Mou conjuntament">
-<!ENTITY moveAttachmentDownPanelBtn.label "Baixa">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Mou al capdavall">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Paràmetres del compte">
 <!ENTITY accountManagerCmd2.accesskey "P">
 <!ENTITY accountManagerCmdUnix2.accesskey "P">
-<!ENTITY preferencesCmd2.label "Opcions">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Preferències">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Envia">
 <!ENTITY quoteButton.label "Cita">
 <!ENTITY addressButton.label "Contactes">
-<!ENTITY attachButton.label "Adjunta">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Desa">
 <!ENTITY printButton.label "Imprimeix">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Envia aquest missatge més tard">
 <!ENTITY quoteButton.tooltip "Cita el missatge anterior">
 <!ENTITY addressButton.tooltip "Seleccioneu un destinatari d'una Llibreta d'adreces">
-<!ENTITY attachButton.tooltip2 "Afegeix una adjunció">
 <!ENTITY spellingButton.tooltip "Comprova l'ortografia de la selecció o del missatge sencer">
 <!ENTITY saveButton.tooltip "Desa aquest missatge">
 <!ENTITY cutButton.tooltip              "Retalla">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Altres tipus de camps d'adreçament">
 <!ENTITY fromAddr2.label "De">
 <!ENTITY fromAddr.accesskey "D">
-<!ENTITY toAddr2.label "A">
-<!ENTITY ccAddr2.label "Cc">
-<!ENTITY bccAddr2.label "Cco">
 <!ENTITY replyAddr2.label "Respon a">
 <!ENTITY newsgroupsAddr2.label "Grup de discussió">
 <!ENTITY followupAddr2.label "Seguiment a">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "t">
 <!ENTITY selectAll.label "Selecciona-ho tot">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Adjunta fitxers…">
-<!ENTITY attachFile.accesskey "f">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Converteix a…">

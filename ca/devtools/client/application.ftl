@@ -28,16 +28,6 @@ serviceworker-worker-unregister = Suprimeix el registre
 serviceworker-worker-debug = Depura
     .title = Només es poden depurar els processos de treball de servei que s'estiguin executant
 
-# Text for the debug link displayed for an already started Service Worker, when we
-# are in multi e10s mode, which effectively disables this link.
-serviceworker-worker-debug-forbidden = Depura
-    .title = Només es poden depurar els processos de treball de servei si el «multi e10s» està desactivat
-
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start2 = Inicia
-    .title = Només es poden iniciar els processos de treball de servei si el «multi e10s» està desactivat
-
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Inspecciona
@@ -50,12 +40,6 @@ serviceworker-worker-start3 = Inicia
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Darrera actualització: <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = Font
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = Estat
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -65,22 +49,6 @@ serviceworker-worker-status-running = S'està executant
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Aturat
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Heu de registrar un procés de treball de servei per inspeccionar-lo aquí. <a>Més informació</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = Si la pàgina actual hauria de tenir un procés de treball de servei, aquí hi ha algunes coses que podeu provar
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = Cerqueu errors a la consola. <a>Obre la consola</a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Inspeccioneu processos de treball de servei d'altres dominis. <a>Obre about:debugging</a>
 
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = No s'ha trobat cap procés de treball de servei

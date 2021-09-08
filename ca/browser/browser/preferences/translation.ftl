@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Elimina tots els llocs
     .accesskey = t
 
-translation-button-close =
-    .label = Tanca
-    .accesskey = T
-
 translation-dialog =
     .buttonlabelaccept = Tanca
     .buttonaccesskeyaccept = T

@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Gestor de processos
+
 # The Actions column
 about-processes-column-action =
     .title = Accions
