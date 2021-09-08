@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = ওয়েবসাইট সমূহকে, ইমেজ এবং ডেটা পুনরায় লোড করতে হবে
 
-clear-site-data-cancel =
-    .label = বাতিল
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = পরিষ্কার
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = পরিষ্কার
     .buttonaccesskeyaccept = l

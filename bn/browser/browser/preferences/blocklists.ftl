@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = তালিকা
 
-blocklist-button-cancel =
-    .label = বাতিল
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = পরিবর্তন সংরক্ষণ করুন
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = পরিবর্তন সংরক্ষণ করুন
     .buttonaccesskeyaccept = S

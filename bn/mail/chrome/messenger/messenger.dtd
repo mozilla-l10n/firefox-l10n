@@ -54,10 +54,6 @@
 <!ENTITY printCmd.label "মুদ্রণ… (P)">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "মুদ্রণের প্রাকদর্শন (v)">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "পৃষ্ঠার সেটআপ… (u)">
-<!ENTITY printSetupCmd.accesskey "u">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "বার্তা মুছে ফেলা (D)">
@@ -390,8 +386,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookCmd.label "ঠিকানা বই (B)">
 <!ENTITY addressBookCmd.accesskey "B">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "অ্যাড-অন (A)">
-<!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "কার্যক্রম ব্যবস্থাপক (A)">
 <!ENTITY activitymanager.accesskey "A">
 <!ENTITY savedFiles.label "ক্ষেত্র সংরক্ষণ (l)">
@@ -425,14 +419,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "পূর্ববর্তী">
 <!ENTITY backButton1.label "পেছনে">
 <!ENTITY goForwardButton1.label "সামনে">
-<!ENTITY deleteButton.label "মুছে দিন">
-<!ENTITY undeleteButton.label "ফিরিয়ে আনুন">
 <!ENTITY markButton.label "চিহ্নিত করুন">
 <!ENTITY printButton.label "মুদ্রণ">
 <!ENTITY stopButton.label "থামুন">
 <!ENTITY throbberItem.title "কার্যক্রম নির্দেশকারক">
-<!ENTITY junkButton.label "অপ্রয়োজনীয়">
-<!ENTITY notJunkButton.label "অপ্রয়োজনীয় নয়">
 <!ENTITY addressBookButton.label "ঠিকানা বই">
 <!ENTITY glodaSearch.title "সার্বজনীন অনুসন্ধান">
 <!ENTITY searchItem.title "দ্রুত অনুসন্ধান">
@@ -457,13 +447,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.tooltip "পূর্ববর্তী অপঠিত বার্তায় যাওয়া হবে">
 <!ENTITY goForwardButton.tooltip "পরের বার্তাটি পড়ুন">
 <!ENTITY goBackButton.tooltip "আগের বার্তাটি পড়ুন">
-<!ENTITY deleteButton.tooltip "নির্বাচিত বার্তা বা ফোল্ডার মুছে ফেলুন">
-<!ENTITY undeleteButton.tooltip "নির্বাচিত বার্তা ফিরিয়ে আনুন">
 <!ENTITY markButton.tooltip "বার্তা চিহ্নিত করুন">
 <!ENTITY printButton.tooltip "এই বার্তাটি মুদ্রণ করা হবে">
 <!ENTITY stopButton.tooltip "বর্তমান স্থানান্তর বন্ধ করা হবে">
-<!ENTITY junkButton.tooltip "নির্বাচিত বার্তা অপ্রয়োজনীয় হিসেবে চিহ্নিত করুন">
-<!ENTITY notJunkButton.tooltip "নির্বাচিত বার্তা অপ্রয়োজনীয় নয় হিসেবে চিহ্নিত করুন">
 <!ENTITY addressBookButton.tooltip "ঠিকানা বইয়ে যান">
 <!ENTITY tagButton.tooltip "বার্তা ট্যাগ করুন">
 <!ENTITY compactButton.tooltip "নির্বাচিত ফোল্ডার থেকে মুছে ফেলা বার্তা সরিয়ে ফেলুন">

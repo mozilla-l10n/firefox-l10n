@@ -19,43 +19,6 @@ certmgr-tab-ca =
 
 certmgr-mine = উল্লেখিত প্রতিষ্ঠানগুলি থেকে সনাক্তকারী সার্টিফিকেট বিদ্যমান
 certmgr-people = উল্লেখিত ব্যক্তিদের সনাক্ত করতে ব্যবহৃত সার্টিফিকেট আপনার ফাইলে বিদ্যমান
-certmgr-servers = নিম্নলিখিত সার্ভারগুলির সনাক্ত করতে ব্যবহৃত সার্টিফিকেট ফাইলে বিদ্যমান
-
-certmgr-detail-general-tab-title =
-    .label = সাধারণ (G)
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = বিবরণ (D)
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = বর্তমানে সার্টিফিকেট পরীক্ষা করা হচ্ছে…
-
-certmgr-subject-label = যার প্রতি ইস্যুকৃত
-
-certmgr-issuer-label = যার দ্বারা ইস্যুকৃত
-
-certmgr-period-of-validity = বৈধতার সময়কাল।
-
-certmgr-fingerprints = ফিঙ্গারপ্রিন্ট
-
-certmgr-cert-detail =
-    .title = সার্টিফিকেটের বিবরণ
-    .buttonlabelaccept = বন্ধ
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = সাধারণ নাম (CN)
-
-certmgr-cert-detail-org = সংস্থা (O)
-
-certmgr-cert-detail-orgunit = সংস্থার ইউনিট (OU)
-
-certmgr-cert-detail-serial-number = ক্রমিক সংখ্যা
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 ফিঙ্গারপ্রিন্ট
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 ফিঙ্গারপ্রিন্ট
 
 certmgr-edit-ca-cert =
     .title = CA সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদনা
@@ -85,12 +48,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = নিরাপত্তা ডিভাইস
 
-certmgr-begins-on = শুরু হবে
-
 certmgr-begins-label =
     .label = শুরু হবে
-
-certmgr-expires-on = মেয়াদোত্তীর্ণ তারিখ
 
 certmgr-expires-label =
     .label = মেয়াদোত্তীর্ণ তারিখ
@@ -132,18 +91,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = ইমপোর্ট…(m)
     .accesskey = m
-
-certmgr-details =
-    .value = সার্টিফিকেটের ক্ষেত্র (F)
-    .accesskey = F
-
-certmgr-fields =
-    .value = ক্ষেত্রের মান (V)
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = সার্টিফিকেটের অনুক্রম
-    .accesskey = H
 
 certmgr-add-exception =
     .label = ব্যতিক্রম যোগ…
@@ -207,12 +154,6 @@ delete-user-cert-confirm = আপনি কি নিশ্চিতরূপে
 delete-user-cert-impact = আপনার কোনো নিজস্ব সার্টিফিকেট মুছে ফেলা হলে, পরিচয় প্রমাণের জন্য আপনি তা পুনরায় ব্যবহার করতে সক্ষম হবেন না।
 
 
-delete-ssl-cert-title =
-    .title = সার্ভার সার্টিফিকেটের ব্যতিক্রম মুছে ফেলুন
-delete-ssl-cert-confirm = আপনি কি নিশ্চিতরূপে সার্ভারের এই ব্যতিক্রমগুলি মুছে ফেলতে ইচ্ছুক?
-delete-ssl-cert-impact = সার্ভার সংক্রান্ত ব্যতিক্রম মুছে ফেলা হলে, সংশ্লিষ্ট সার্ভারের জন্য নিরাপত্তামূলক পরীক্ষা করা হবে ও একটি কার্যকর সার্টিফিকেটের ব্যবহার আবশ্যক হবে।
-
-
 delete-ca-cert-title =
     .title = CA সার্টিফিকেট অপসারণ অথবা অবিশ্বস্ত
 delete-ca-cert-confirm = এই CA সার্টিফিকেটটি অপসারণের জন্য অনুরোধ করেছেন। বিল্ট-ইন সার্টিফিকেটের জন্য সব বিশ্বস্ত অপসারিত হবে, যেটির ও কিনা একই প্রভাব আছে। অপসারণ অথবা অবিশ্বস্ত করতে আপনি কি নিশ্চিত?
@@ -232,45 +173,6 @@ cert-with-serial =
     .value = সিরিয়াল নম্বর সহ সার্টিফিকেট: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = সার্টিফিকেট প্রদর্শক:“{ $certName }”
-
-not-present =
-    .value = <সার্টিফিকেটের অংশ নয়>
-
-# Cert verification
-cert-verified = এই সার্টিফিকেটটি নিম্নলিখিত ব্যবহারের জন্য পরীক্ষিত হয়েছে:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL ক্লায়েন্ট সার্টিফিকেট
-
-verify-ssl-server =
-    .value = SSL সার্ভার সার্টিফিকেট
-
-verify-ssl-ca =
-    .value = SSL সার্টিফিকেট কর্তৃপক্ষ
-
-verify-email-signer =
-    .value = ইমেইল স্বাক্ষরকারী সার্টিফিকেট
-
-verify-email-recip =
-    .value = ইমেইল গ্রহণকারী সার্টিফিকেট
-
-# Cert verification
-cert-not-verified-cert-revoked = সার্টিফিকেট প্রত্যাখ্যান হওয়ার দরুন এটি পরীক্ষা করা সম্ভব হয়নি।
-cert-not-verified-cert-expired = মেয়াদ পূর্ণ হওয়ার দরুন এই সার্টিফিকেটটি পরীক্ষা করা যায়নি।
-cert-not-verified-cert-not-trusted = বিশ্বস্ত না হওয়ার দরুন এই সার্টিফিকেটটি পরীক্ষা করা যায়নি।
-cert-not-verified-issuer-not-trusted = প্রকাশকারী বিশ্বস্ত না হওয়ার দরুন এই সার্টিফিকেটটি পরীক্ষা করা সম্ভব হয়নি।
-cert-not-verified-issuer-unknown = প্রকাশকারী পরিচিত না হওয়ার দরুন এই সার্টিফিকেটটি পরীক্ষা করা সম্ভব হয়নি।
-cert-not-verified-ca-invalid = CA সার্টিফিকেট কার্যকর না হওয়ার দরুন এই সার্টিফিকেটটি পরীক্ষা করা সম্ভব হয়নি।
-cert-not-verified_algorithm-disabled = সনদ পত্রটি যাচাই করা গেল না কারন এটি যে স্বাক্ষর সমাধান পদ্ধতি (অ্যালগরিদিম) ব্যবহার করে স্বাক্ষরিত হয়েছে তা নিষ্ক্রিয় করা আছে কারন সমাধান পদ্ধতি (অ্যালগরিদিম) টি নিরাপদ নয়।
-cert-not-verified-unknown = অজানা কারনে এই সার্টিফিকেট পরীক্ষা করা যায়নি।
 
 ## Used to show whether an override is temporary or permanent
 

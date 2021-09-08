@@ -20,8 +20,6 @@
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY deleteCmd.label "মুছে ফেলা (D)">
 <!ENTITY deleteCmd.accesskey "D">
-<!ENTITY preferencesCmdUnix.label "পছন্দসমূহ (n)">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!ENTITY viewMenu.label "প্রদর্শন (V)">
 <!ENTITY viewMenu.accesskey "V">
