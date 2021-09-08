@@ -47,8 +47,6 @@ policy-DisableFirefoxScreenshots = Firefox स्क्रीनशॉट सु
 
 policy-DisableFormHistory = शोध व फॉर्म इतिहास साठवून ठेवू नका
 
-policy-DisableMasterPasswordCreation = खरे असल्यास, मास्टर पासवर्ड तयार करणे शक्य नाही.
-
 policy-DisablePocket = संकेतस्थळे Pocket मध्ये साठवणे निष्क्रिय करा.
 
 policy-DisablePrivateBrowsing = खाजगी ब्राऊझिंग निष्क्रिय करा.

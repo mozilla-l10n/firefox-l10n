@@ -6,9 +6,6 @@ password-quality-meter = पासवर्ड गुणांक मापक
 
 ## Change Password dialog
 
-change-password-window =
-    .title = मुख्य पासवर्ड बदला
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = सुरक्षा साधन: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = नवीन पासवर्ड(पुन्हा)
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = मुख्य पासवर्ड शब्द पुनःस्थापित करा
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = पुनःस्थापित करा
-reset-password-text = मुख्य पासवर्ड शब्द पुनःस्थापित केल्यास, आपले सर्व संचयीत वेब व ई-मेल पासवर्ड, फॉर्म माहिती, व्यक्तिगत प्रमाणपत्रे, व व्यक्तिगत कळ लक्षात ठेवल्या जाणार नाही. आपणास मुख्य पासवर्ड नक्की पुनःस्थापित करायचे?
 
 ## Downloading cert dialog
 

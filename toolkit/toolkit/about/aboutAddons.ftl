@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = ॲड-ऑन्स् व्यवस्थापक
-
 addons-page-title = ॲड-ऑन्स् व्यवस्थापक
 
 search-header-shortcut =
@@ -25,61 +22,11 @@ list-empty-find-updates =
 list-empty-button =
     .label = ॲड-ऑन्स् विषयी अधिक शिका
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } पर्याय
-       *[other] { -brand-short-name } पसंती
-    }
-
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } पर्याय
-           *[other] { -brand-short-name } पसंती
-        }
-
 show-unsigned-extensions-button =
     .label = काही एक्सटेंशन पडताळले जाऊ शकले नाहीत
 
 show-all-extensions-button =
     .label = सर्व एक्सटेंशन दर्शवा
-
-cmd-show-details =
-    .label = आणखी माहिती दाखवा
-    .accesskey = S
-
-cmd-find-updates =
-    .label = सुधारणा शोधा
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] पर्याय
-           *[other] प्राधान्यक्रम
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = दृष्य कल्पना लागू करा
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = दृष्य कल्पना लागू करू नका
-    .accesskey = W
-
-cmd-install-addon =
-    .label = इंस्टॉल करा
-    .accesskey = I
-
-cmd-contribute =
-    .label = योगदान करा
-    .accesskey = C
-    .tooltiptext = या ॲड-ऑनच्या विकासकरीता योगदान करा
 
 detail-version =
     .label = आवृत्ती
@@ -277,8 +224,6 @@ enable-addon-button = सक्रिय
 details-addon-button = तपशील
 release-notes-addon-button = प्रकाशन टीपा
 permissions-addon-button = परवानग्या
-
-ask-to-activate-button = सक्रिय करण्यास विचारा
 
 always-activate-button = नेहमी सक्रिय करा
 never-activate-button = कधीही सक्रिय करू नका

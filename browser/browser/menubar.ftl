@@ -112,9 +112,6 @@ menu-file-go-offline =
 menu-edit =
     .label = संपादित करा
     .accesskey = E
-menu-edit-find-on =
-    .label = या पृष्ठात शोधा…
-    .accesskey = F
 menu-edit-find-again =
     .label = पुन्हा शोधा
     .accesskey = g
@@ -130,9 +127,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = साधनपट्ट्या
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = मनपसंत करा…
-    .accesskey = C
 menu-view-sidebar =
     .label = बाजूचीपट्टी
     .accesskey = e
@@ -163,9 +157,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = मूळ पृष्ठ शैली
     .accesskey = B
-menu-view-charset =
-    .label = मजकूर एन्कोडिंग
-    .accesskey = ए
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -214,10 +205,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = वाचनखुणा
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = सर्व वाचणखूणा दाखवा
-menu-bookmark-this-page =
-    .label = या पृष्ठास वाचनखूण लावा
 menu-bookmark-edit =
     .label = ही वाचनखूण संपादीत करा
 menu-bookmarks-all-tabs =
@@ -237,32 +224,15 @@ menu-tools =
 menu-tools-downloads =
     .label = डाउनलोड्स
     .accesskey = D
-menu-tools-addons =
-    .label = ॲड-ऑन्स्
-    .accesskey = A
 menu-tools-sync-now =
     .label = आत्ता सिंक करा
     .accesskey = S
-menu-tools-web-developer =
-    .label = वेब डेव्हलपर
-    .accesskey = W
 menu-tools-page-source =
     .label = पृष्ठाचे स्रोत
     .accesskey = o
 menu-tools-page-info =
     .label = पृष्ठाची माहिती
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] पर्याय
-           *[other] प्राधान्यता
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = लेआऊट डिबगर
     .accesskey = L
@@ -297,29 +267,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = मदत
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } मदत
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } फेरफटका
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = किबोर्ड शार्टकट्स
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = त्रुटीनिवारण माहिती
-    .accesskey = T
 menu-help-report-site-issue =
     .label = साईटची त्रुटी दाखल करा…
 menu-help-feedback-page =
     .label = अभिप्राय सादर करा…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = ॲड-ऑन्स् बंद असल्यावर पुनः सुरू करा…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = ॲड-ऑन्स् सक्रीय असल्यावर पुनः सुरू करा
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

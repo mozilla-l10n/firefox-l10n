@@ -7,28 +7,6 @@ do-not-track-learn-more = अधिक जाणा
 do-not-track-option-always =
     .label = नेहमी
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] पर्याय
-       *[other] प्राधान्यक्रम
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] पर्यायांमध्ये शोधा
-           *[other] प्राधान्यतांमध्ये शोधा
-        }
-
 managed-notice = आपला ब्राउझर आपल्या संस्थेद्वारे व्यवस्थापित केला जात आहे.
 
 pane-general-title = सर्वसाधारण
@@ -46,10 +24,6 @@ category-search =
 pane-privacy-title = गोपनीयता आणि सुरक्षा
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = { -brand-short-name } मदत केंद्र
 addons-button-label = विस्तार आणि थीम
@@ -79,18 +53,6 @@ restart-later = नंतर पुनःसुरु करा
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = एक विस्तार, <img data-l10n-name="icon"/> { $name }, आपले मुख्य पृष्ठ नियंत्रित करत आहे.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = एक विस्तारण, <img data-l10n-name="icon"/> { $name }, आपले नवीन टॅब पृष्ठ संचालित करत आहे.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = एक एक्स्टेंशन, <img data-l10n-name="icon"/> { $name }, ने आपले शोध इंजिन सेट केले आहे.
-
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = एक विस्तार, <img data-l10n-name="icon"/> { $name } ला, कंटेनर टॅबची आवश्यकता आहे.
@@ -110,26 +72,11 @@ extension-controlled-enable = एक्स्टेंशन कार्या�
 
 search-results-header = शोध परिणाम
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] माफ करा! “<span data-l10n-name="query"></span>” च्या पर्यायासाठी कोणतेही परिणाम नाहीत.
-       *[other] माफ करा! “<span data-l10n-name="query"></span>” च्या प्राधान्यतेसाठी कोणतेही परिणाम नाहीत.
-    }
-
 search-results-help-link = मदत हवी आहे? भेट द्या <a data-l10n-name="url">{ -brand-short-name } मदत</a>
 
 ## General Section
 
 startup-header = प्रारंभीकरण
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = { -brand-short-name } आणि Firefox एकाच वेळी चालविण्याची परवानगी द्यावी
-use-firefox-sync = टीप: हे स्वतंत्र प्रोफाइल वापते. त्यांच्या दरम्यान डाटा शेअर करण्यासाठी { -sync-brand-short-name } वापरा.
-get-started-not-logged-in = { -sync-brand-short-name } मध्ये साईन इन करा...
-get-started-configured = { -sync-brand-short-name } प्राधान्यता उघडा
 
 always-check-default =
     .label = नेहमी { -brand-short-name } पूर्वनिर्धारित ब्राउझर आहे याची खात्री करा
@@ -169,10 +116,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = एकापेक्षा जास्त टॅब उघडताना मला सावध करा कारण त्यामुळे { -brand-short-name } हळु होऊ शकते
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = नवीन टॅबमध्ये लिंक उघडल्यावर, लगेच त्याकडे जा
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = पटलाच्या कार्यपट्टीत टॅब पूर्वावलोकन दाखवा
@@ -331,11 +274,6 @@ applications-manage-app =
     .label = अनुप्रयोग तपशील…
 applications-always-ask =
     .label = नेहमी विचारा
-applications-type-pdf = पोर्टेबल डॉक्युमेंट फॉरमॅट (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -411,8 +349,6 @@ update-application-manual =
 update-application-use-service =
     .label = सुधारणा इंस्टॉल करण्यासाठी पार्श्वभूमी सर्व्हिस्चा वापर करा
     .accesskey = b
-
-update-setting-write-failure-title = अद्यतन प्राधान्ये जतन करताना त्रुटी
 
 update-in-progress-title = अद्यतन प्रगतीपथावर
 
@@ -623,8 +559,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = आपल्या शोध सूचना लोकेशन बारवर दिसणार नाही कारण आपण इतिहास लक्षात न ठेवण्यासाठी { -brand-short-name } हे संयोजित केले आहे
 
-search-one-click-header = एक-क्लिक शोध इंजिन
-
 search-one-click-desc = जेव्हा आपण मूळशब्द प्रविष्ट करण्यास सुरू करता तेव्हा पत्ता पट्टी आणि शोध पट्टीच्या खाली दिसणारे पर्यायी शोध इंजिन्स निवडा.
 
 search-choose-engine-column =
@@ -657,9 +591,6 @@ containers-add-button =
     .label = नवीन कंटेनर जोडा
     .accesskey = A
 
-containers-preferences-button =
-    .label = प्राधान्यक्रम
-
 containers-remove-button =
     .label = काढून टाका
 
@@ -670,7 +601,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = आपला वेब आपल्याबरोबर घेऊन चला
-sync-signedout-description = आपल्या सर्व साधणांकरीता आपल्या वाचनखूणा, इतिहास, टॅब, पासवर्ड, ॲड-ऑन्स्, आणि प्राधान्ये समक्रमित करा.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -728,11 +658,6 @@ sync-currently-syncing-logins-passwords = लॉगिन आणि पासव
 sync-currently-syncing-addresses = पत्ते
 sync-currently-syncing-creditcards = क्रेडिट कार्ड
 sync-currently-syncing-addons = ॲड-ऑन
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] पर्याय
-       *[other] प्राधान्यक्रम
-    }
 
 sync-change-options =
     .label = बदला…
@@ -772,15 +697,6 @@ sync-engine-addons =
     .label = ॲड-ऑन्स्
     .tooltiptext = Firefox डेस्कटॉप साठी थीम आणि एक्स्टेंशन
     .accesskey = A
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] पर्याय
-           *[other] पसंती
-        }
-    .tooltiptext = आपण बदललेले साधारण, सुरक्षा आणि गोपनीयता सेटिंग
-    .accesskey = s
 
 ## The device name controls.
 
@@ -827,14 +743,9 @@ forms-breach-alerts-learn-more-link = अधिक जाणा
 forms-saved-logins =
     .label = साठवलेले लॉगइन्स…
     .accesskey = L
-forms-master-pw-use =
-    .label = मास्टर पासवर्डचा वापर करा
-    .accesskey = U
 forms-master-pw-change =
     .label = मास्टर पासवर्ड बदलवा…
     .accesskey = M
-
-forms-master-pw-fips-title = आपण सध्या एफआयपीएस् (FIPS) स्थितीमध्ये आहात. एफआयपीएस् (FIPS) साठी रिकामे मुख्य पासवर्ड चालणार नाही.
 
 forms-master-pw-fips-desc = पासवर्ड बदल अयशस्वी
 
@@ -924,10 +835,6 @@ sitedata-clear =
 sitedata-settings =
     .label = डेटा व्यवस्थापित करा...
     .accesskey = M
-
-sitedata-cookies-permissions =
-    .label = परवानग्या व्यवस्थापित करा ...
-    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -1075,12 +982,6 @@ permissions-addon-exceptions =
     .label = अपवाद…
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = सुलभता सेवांना आपल्या ब्राउझरमध्ये प्रवेश करण्यापासून प्रतिबंधित करा
-    .accesskey = a
-
-permissions-a11y-privacy-link = अधिक जाणा
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } माहिती संग्रह आणि वापर
@@ -1104,11 +1005,6 @@ addon-recommendations-link = अधिक जाणा
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे
-
-collection-backlogged-crash-reports =
-    .label = आपल्यावतीने { -brand-short-name } ला बॅकलॉग क्रॅश अहवाल पाठवण्याची परवानगी दया
-    .accesskey = c
-collection-backlogged-crash-reports-link = अधिक जाणा
 
 ## Privacy Section - Security
 ##
@@ -1136,16 +1032,6 @@ security-block-uncommon-software =
 
 certs-header = प्रमाणपत्र
 
-certs-personal-label = जेव्हा सर्व्हर वैयक्तिक प्रमाणपत्रा करीता विनंती करतो
-
-certs-select-auto-option =
-    .label = आपोआप निवडा
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = मला प्रत्येक वेळी विचारा
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = क्वेरी OCSP रेसपाँडर सध्याच्या प्रमाणपत्रांची वैधताची खात्री करते
     .accesskey = Q
@@ -1157,28 +1043,6 @@ certs-view =
 certs-devices =
     .label = सुरक्षा साधने
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = अधिक जाणा
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] पर्याय उघडा
-           *[other] प्राधान्यता उघडा
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-under-5gb-ok-button =
-    .label = ठीक आहे, समजले
-    .accesskey = K
-
-space-alert-under-5gb-message = { -brand-short-name } ला डिस्क वरील जागा कमी पडत आहे. वेबसाईट चा मजकूर कदाचित व्यवस्थित दिसणार नाही. सुधारित ब्राऊझिंग अनुभवासाठी डिस्क चा वापर सुधारण्यासाठी "आणखी जाणा" वर भेट द्या.
 
 ## Privacy Section - HTTPS-Only
 

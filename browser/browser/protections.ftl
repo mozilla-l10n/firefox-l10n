@@ -23,9 +23,6 @@ cryptominer-tab-title = क्रिप्टोमाइनर
   
 lockwise-title = पुन्हा कधीही पासवर्ड विसरू नका
 
-turn-on-sync = { -sync-brand-short-name } चालू करा…
-    .title = सिंक प्राधान्यतावर जा
-
 monitor-title = माहिती उल्लंघनावर लक्ष ठेवा.
 monitor-link = हे कसे कार्य करते
 auto-scan = आज स्वयंचलितपणे स्कॅन केले
