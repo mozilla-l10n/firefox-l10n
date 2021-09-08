@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,9 +48,6 @@ main-context-menu-page-save =
     .label = Маннык бигэргэт...
     .accesskey = р
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -81,10 +66,6 @@ main-context-menu-open-link-new-private-window =
     .label = Саҥа бүөмнээн көрүү түннүгэр арый
     .accesskey = т
 
-main-context-menu-bookmark-this-link =
-    .label = Бу сигэни бэлиэтээ
-    .accesskey = с
-
 main-context-menu-save-link =
     .label = Сигэни маннык бигэргэт…
     .accesskey = б
@@ -100,10 +81,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Email-ы төгүллээ
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = Сигэни төгүлээ
-    .accesskey = г
 
 ## Media (video/audio) controls
 ##
@@ -154,29 +131,9 @@ main-context-menu-image-reload =
     .label = Ойууну хос киллэр
     .accesskey = О
 
-main-context-menu-image-view =
-    .label = Ойууну арыйыы
-    .accesskey = О
-
-main-context-menu-video-view =
-    .label = Видеону арый
-    .accesskey = н
-
 main-context-menu-image-copy =
     .label = Ойууну хатылаа
     .accesskey = т
-
-main-context-menu-image-copy-location =
-    .label = Ойууга сигэни хатылаа
-    .accesskey = г
-
-main-context-menu-video-copy-location =
-    .label = Видеоҕа сигэни төгүллээ
-    .accesskey = г
-
-main-context-menu-audio-copy-location =
-    .label = Аудиоҕа сигэни төгүллээ
-    .accesskey = г
 
 main-context-menu-image-save-as =
     .label = Ойууну маннык бигэргэт…
@@ -185,10 +142,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Ойууну эл. почтанан …
     .accesskey = н
-
-main-context-menu-image-set-as-background =
-    .label = Остуол ойуута гын…
-    .accesskey = О
 
 main-context-menu-image-info =
     .label = Ойуу туһунан
@@ -202,10 +155,6 @@ main-context-menu-audio-save-as =
     .label = Аудиону маннык бигэргэт…
     .accesskey = м
 
-main-context-menu-video-image-save-as =
-    .label = Каадыры маннык хааллар...
-    .accesskey = х
-
 main-context-menu-video-email =
     .label = Email видео…
     .accesskey = a
@@ -217,10 +166,6 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Бу плагины кистээ
     .accesskey = г
-
-main-context-menu-view-background-image =
-    .label = Кэтэх ойууну арый
-    .accesskey = ы
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -280,10 +225,6 @@ main-context-menu-view-page-source =
     .label = Сирэй исходнига
     .accesskey = С
 
-main-context-menu-view-page-info =
-    .label = Сирэй туһунан
-    .accesskey = т
-
 main-context-menu-bidi-switch-text =
     .label = Тиэкис хайысхатын уларыт
     .accesskey = х
@@ -291,8 +232,4 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Сирэйгэ тиэкис хайысхатын уларыт
     .accesskey = х
-
-main-context-menu-inspect-element =
-    .label = Элэмиэни чинчий
-    .accesskey = Q
 

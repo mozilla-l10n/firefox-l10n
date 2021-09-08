@@ -5,28 +5,9 @@
 places-open =
     .label = Арый
     .accesskey = А
-places-open-tab =
-    .label = Саҥа кыбытыкка арый
-    .accesskey = к
 places-open-all-in-tabs =
     .label = Барытын кыбытыктарга арый
     .accesskey = к
-places-open-window =
-    .label = Саҥа түннүккэ арый
-    .accesskey = т
-
-places-new-bookmark =
-    .label = Саҥа бэлиэ...
-    .accesskey = б
-places-new-folder-contextmenu =
-    .label = Саҥа паапка…
-    .accesskey = F
-places-new-folder =
-    .label = Саҥа паапка…
-    .accesskey = а
-places-new-separator =
-    .label = Саҥа быыс
-    .accesskey = б
 
 places-view =
     .label = Көстүүтэ
@@ -53,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Аатынан наардаа
     .accesskey = r
-places-properties =
-    .label = Уратылар
-    .accesskey = р
 

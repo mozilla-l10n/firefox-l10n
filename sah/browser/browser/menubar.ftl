@@ -95,9 +95,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Уларытыы
     .accesskey = У
-menu-edit-find-on =
-    .label = Бу сирэйтэн бул...
-    .accesskey = Б
 menu-edit-find-again =
     .label = Хат көрдөө
     .accesskey = к
@@ -112,9 +109,6 @@ menu-view =
     .accesskey = К
 menu-view-toolbars-menu =
     .label = Тэриллэр
-    .accesskey = Т
-menu-view-customize-toolbar =
-    .label = Туруорууларын чопчулаа…
     .accesskey = Т
 menu-view-sidebar =
     .label = Ойоҕос панель
@@ -180,8 +174,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Бэлиэлэр
     .accesskey = Б
-menu-bookmarks-show-all =
-    .label = Бэлиэтэммити барытын көрдөр
 menu-bookmark-edit =
     .label = Бэлиэни уларытыы
 menu-bookmarks-all-tabs =
@@ -197,14 +189,8 @@ menu-tools =
 menu-tools-downloads =
     .label = Хачайдааһыннар
     .accesskey = Х
-menu-tools-addons =
-    .label = Эбиискэлэр
-    .accesskey = Э
 menu-tools-sync-now =
     .label = Синхроннаа
-    .accesskey = С
-menu-tools-web-developer =
-    .label = Ситим сир оҥорооччу
     .accesskey = С
 menu-tools-page-source =
     .label = Сирэй исходнига
@@ -212,17 +198,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Сирэй туһунан
     .accesskey = т
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Туруоруулар
-           *[other] Туруоруулар
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Т
-           *[other] Т
-        }
 
 ## Window Menu
 
@@ -253,21 +228,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Көмө
     .accesskey = К
-menu-help-product =
-    .label = { -brand-shorter-name } Көмө
-    .accesskey = К
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Көмө
-    .accesskey = К
-menu-help-keyboard-shortcuts =
-    .label = Кылгас клавиатура
-    .accesskey = К
-menu-help-troubleshooting-info =
-    .label = Кыһалҕаны быһаарар туһунан
-    .accesskey = К
 menu-help-feedback-page =
     .label = Бэйэҥ санааҕын ыыт…
     .accesskey = Б
-menu-help-safe-mode-without-addons =
-    .label = Эбиилэрин арааран баран хат холбоо…
-    .accesskey = х

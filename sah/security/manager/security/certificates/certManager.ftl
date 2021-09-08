@@ -5,14 +5,6 @@
 certmgr-tab-servers =
     .label = Сиэрбэрдэр
 
-certmgr-detail-general-tab-title =
-    .label = Сүрүн
-    .accesskey = С
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Сиһилии
-    .accesskey = С
-
 certmgr-email =
     .label = Email аадырыһа
 

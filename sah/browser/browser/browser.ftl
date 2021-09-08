@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Саһан көрөөһүн)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Саһан көрөөһүн)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Саһан көрөөһүн)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Саһан көрөөһүн)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -65,6 +67,7 @@ browser-main-window-title = { -brand-full-name }
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Бу бэлиэни уларытыы ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -117,13 +120,6 @@ browser-window-minimize-button =
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = Каамераны холбооһун:
-    .accesskey = К
-popup-select-microphone =
-    .value = Микрофону холбооһун:
-    .accesskey = М
-
 ## WebRTC window or screen share tab switch warning
 
 
@@ -132,12 +128,12 @@ popup-select-microphone =
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = Көрдөт эбэтэр аадырыһы ук
 urlbar-placeholder =
     .placeholder = Көрдөт эбэтэр аадырыһы ук
+
 urlbar-switch-to-tab =
     .value = Кыбытыгы арый:
+
 urlbar-go-button =
     .tooltiptext = Аадырыс устуруокатын аадырыһыгар киир
 
@@ -167,6 +163,7 @@ bookmarks-sidebar-content =
     .aria-label = Бэлиэлэр
 bookmarks-bookmark-edit-panel =
     .label = Бэлиэни уларытыы
+
 bookmarks-toolbar-menu =
     .label = Бэлиэтиир үстүрүмүөн
 bookmarks-toolbar-placeholder =
@@ -213,6 +210,7 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = { $uriHost } ойон тахсар түннүктэрин көҥүллээ
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost } ойон тахсар түннүктэрин боп
     .accesskey = p
@@ -222,3 +220,4 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ойон тахсар түннүгү боборго бу сэрэтиини көрдөрүмэ
     .accesskey = D
+

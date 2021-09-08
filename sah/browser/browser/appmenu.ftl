@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Туруорууларын чопчулаа…
-
 ## Zoom Controls
 
 appmenuitem-new-window =
@@ -21,9 +18,6 @@ appmenuitem-fullscreen =
     .label = Толору экраан
 
 ## Firefox Account toolbar button and Sync panel in App menu.
-
-fxa-toolbar-sync-now =
-    .label = Синхроннаа
 
 appmenuitem-save-page =
     .label = Маннык бигэргэт...

@@ -5,4 +5,3 @@
 synced-tabs-context-sync-now =
     .label = Синхроннаа
     .accesskey = С
-fxa-sign-in = Киир уонна { -sync-brand-short-name }

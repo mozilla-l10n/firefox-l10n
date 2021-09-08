@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Эбиискэлэри салайыы
-
 addons-page-title = Эбиискэлэри салайыы
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = Эбиискэ туһунан сиһилии
-
-cmd-show-details =
-    .label = Сиһилии
-    .accesskey = С
-
-cmd-find-updates =
-    .label = Саҥардыылары бул
-    .accesskey = С
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Туруоруулар
-           *[other] Туруоруулар
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Т
-           *[other] Т
-        }
-
-cmd-enable-theme =
-    .label = Тиэмэни тутун
-    .accesskey = Т
-
-cmd-disable-theme =
-    .label = Бу тиэмэни уонна туттума
-    .accesskey = т
-
-cmd-install-addon =
-    .label = Туруор
-    .accesskey = Т
-
-cmd-contribute =
-    .label = Кыттыс
-    .accesskey = К
-    .tooltiptext = Бу эбиискэни тупсарарга кыттыс
 
 detail-version =
     .label = Барыл

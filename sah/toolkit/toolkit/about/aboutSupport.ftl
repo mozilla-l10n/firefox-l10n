@@ -5,10 +5,6 @@
 page-title = Кыһалҕаны быһаарар туһунан
 page-subtitle = Бу сирэйгэ техническэй информация бэриллэр, ону туһанан кыһалҕаҕын быһаарыаххын сөп. { -brand-short-name } програаммаҕа куруук көстөр кыһалҕаҕа хоруй ылыаххын баҕарар буоллаххына биһиги <a data-l10n-name="support-link">өйүүр ситим-сирбитигэр</a> киир.
 
-extensions-title = Кэҥэтиилэр
-extensions-name = Аата
-extensions-enabled = Холбоммут
-extensions-version = Барыл
 support-addons-name = Аата
 support-addons-version = Барыл
 app-basics-title = Приложение туһунан
