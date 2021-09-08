@@ -34,6 +34,8 @@
 <!ENTITY siteIcons.label                "Ícones de sites">
 <!ENTITY useSiteIcons.label             "Exibir ícones de sites">
 <!ENTITY useSiteIcons.accesskey         "x">
+<!ENTITY useFavIcons.label              "Tentar usar o favicon do servidor quando a página não define um ícone">
+<!ENTITY useFavIcons.accesskey          "T">
 
 <!ENTITY homePageIntro.label            "O comando Página Inicial abre esta página ou grupo de páginas.">
 <!ENTITY useCurrent.label               "Usar a página atual">

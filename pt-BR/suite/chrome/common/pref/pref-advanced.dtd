@@ -9,14 +9,18 @@
 <!ENTITY prefCheckDefaultClient.label     "Verificar configurações de aplicativos padrão ao iniciar">
 <!ENTITY prefCheckDefaultClient.accesskey "s">
 
+<!ENTITY defaultClientFor.description     "Definir o &brandShortName; como aplicativo padrão para:">
 <!ENTITY setDefaultBrowser.label          "Navegador">
 <!ENTITY setDefaultBrowser.accesskey      "v">
 <!ENTITY setDefaultMail.label             "Email">
 <!ENTITY setDefaultMail.accesskey         "E">
 <!ENTITY setDefaultNews.label             "Notícias">
 <!ENTITY setDefaultNews.accesskey         "N">
+<!ENTITY useInternalSettings.description  "Usar email e grupos de notícias do &brandShortName; ao abrir no navegador links de:">
 <!ENTITY useInternalMail.label            "Email (mailto:)">
 <!ENTITY useInternalMail.accesskey        "a">
+<!ENTITY useInternalNews.label            "Servidor de notícias (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.accesskey        "e">
 
 <!ENTITY printing.label                   "Imprimindo">
 <!ENTITY useNativePrintDialog.label       "Usar diálogo de impressão nativo (onde for aceito)">
