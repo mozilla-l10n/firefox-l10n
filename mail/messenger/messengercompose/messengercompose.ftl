@@ -6,9 +6,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = Уклоните { $type } поље
-
-#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -74,27 +71,16 @@ attachment-bucket-count =
         }
     .accesskey = г
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext =
-        { $count ->
-            [1] Један прилог
-            [one] { $count } прилог
-            [few] { $count } прилога
-           *[other] { $count } прилога
-        }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 # Reorder Attachment Panel
 
 button-return-receipt =
     .label = Потврда
     .tooltiptext = Враћа потврду о пријему ове поруке
 
+# Encryption
+
 # Addressing Area
+
 
 ## Notifications
 

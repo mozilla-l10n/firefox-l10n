@@ -111,9 +111,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Како функционише
 
-turn-on-sync = Укључи { -sync-brand-short-name }…
-    .title = Отворите подешавања синхронизације
-
 monitor-title = Припазите на цурење података
 monitor-link = Како функционише
 monitor-header-content-no-account = Помоћу { -monitor-brand-name(case: "gen") } проверите да ли су ваши подаци процурили у јавност и будите обавештени о новим цурењима.

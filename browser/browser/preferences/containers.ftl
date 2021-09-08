@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Додавање контејнера
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Подешавања контејнера „{ $name }”
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Икона
 containers-color-label = Боја
     .accesskey = Б
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Готово
-    .accesskey = Г
 
 containers-dialog =
     .buttonlabelaccept = Готово

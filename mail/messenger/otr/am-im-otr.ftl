@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR подешавања
 otr-log =
     .label = Укључи OTR шифроване поруке у записницима разговора
-otr-requireEncryption =
-    .label = Захтевај шифровање с краја на крај за један-на-један разговоре
-otr-verifyNudge =
-    .label = Увек ме подсети да потврдим непроверени контакт
-
-otr-notYetAvailable = још није доступно
 
 otr-require-encryption-info =
     Када захтевате шифровање с краја на крај, поруке у један-на-један разговорима

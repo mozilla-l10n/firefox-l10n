@@ -19,9 +19,6 @@ auth-your-fp-value = Ваш отисак, { $own_name }:
 auth-their-fp-value = Отисак саговорника { $their_name }:
 
 auth-help = Потврђивање идентитета контакта помаже одржавању приватности разговора тиме што се трећој страни отежава да прислушкује или мења садржај разговора.
-auth-helpTitle = Помоћ за потврђивање
-
-auth-questionReceived = Ваш саговорник је поставио следеће питање:
 
 auth-yes =
     .label = Да
@@ -30,19 +27,6 @@ auth-no =
     .label = Не
 
 auth-verified = Овај отисак је заиста исправан.
-
-auth-manualVerification = Ручна провера отиска
-auth-questionAndAnswer = Питање и одговор
-auth-sharedSecret = Дељена тајна
-
-auth-manualVerification-label =
-    .label = { auth-manualVerification }
-
-auth-questionAndAnswer-label =
-    .label = { auth-questionAndAnswer }
-
-auth-sharedSecret-label =
-    .label = { auth-sharedSecret }
 
 auth-how = На који начин желите потврдити идентитет контакта?
 

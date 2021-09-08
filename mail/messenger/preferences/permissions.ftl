@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Изузеци
     .style = width: 45em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = Адреса веб странице:
     .accesskey = д

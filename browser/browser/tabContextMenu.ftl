@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Обележи картицу
     .accesskey = б
-reopen-in-container =
-    .label = Поново отвори у контејнеру
-    .accesskey = П
 tab-context-open-in-new-container-tab =
     .label = Отвори на новој картици у контејнеру
     .accesskey = т
@@ -69,27 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Затвори више картица
     .accesskey = ш
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Врати затворену картицу
-            [one] Врати затворену картицу
-            [few] Врати затворене картице
-           *[other] Врати затворених картица
-        }
-    .accesskey = р
-close-tab =
-    .label = Затвори картицу
-    .accesskey = а
-close-tabs =
-    .label = Затвори картице
-    .accesskey = З
-move-tabs =
-    .label = Премести картице
-    .accesskey = П
-move-tab =
-    .label = Помери картицу
-    .accesskey = м
 tab-context-share-url =
     .label = Дели…
     .accesskey = е
@@ -129,6 +105,7 @@ tab-context-move-tabs =
            *[other] Премести картице
         }
     .accesskey = П
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

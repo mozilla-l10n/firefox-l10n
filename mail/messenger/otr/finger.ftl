@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Отисци OTR кључева из претходних разговора шифрованих с краја на крај.
 
-finger-screenName =
-    .label = Контакт
-
 finger-verified =
     .label = Стање потврде
 finger-fingerprint =

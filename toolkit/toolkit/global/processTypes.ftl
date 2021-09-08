@@ -9,8 +9,6 @@
 
 process-type-web = Веб садржај
 
-process-type-browser = Главни
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = О привилегијама

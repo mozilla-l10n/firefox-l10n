@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Затвори
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Опције
-           *[other] Поставке
-        }
-
 preferences-doc-title = Поставке
 
 pane-general-title = Опште
@@ -117,18 +110,10 @@ update-in-progress-ok-button = &Одбаци
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Настави
 
-addons-button = Проширења и теме
-
 account-button = Подешавања налога
 open-addons-sidebar-button = Додаци и теме
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = направи главну лозинку
 
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
@@ -190,10 +175,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Прилагоди…
     .accesskey = д
-
-tray-icon-label =
-    .label = Прикажи иконицу у системској касети
-    .accesskey = т
 
 mail-custom-sound-label =
     .label = Користи следећу звучну датотеку
@@ -380,9 +361,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Боја:
     .accesskey = о
-
-search-input =
-    .placeholder = Претрага
 
 type-column-label =
     .label = Врста садржаја
@@ -671,16 +649,6 @@ passwords-button =
     .label = Сачуване лозинке…
     .accesskey = С
 
-master-password-description = Главна лозинка може заштити све ваше лозинке али је морате уносити једном по сесији.
-
-master-password-label =
-    .label = Користи главну лозинку
-    .accesskey = р
-
-master-password-button =
-    .label = Промени главну лозинку…
-    .accesskey = м
-
 
 junk-description = Поставите ваша подразумевана подешавања непожељне поште. Специфична подешавања за сваки налог понаособ можете поставити у подешавањима тог налога.
 
@@ -847,10 +815,6 @@ no-preview-description = Ова тема није исправна или ниј
 chat-variant-label =
     .value = Варијанта:
     .accesskey = В
-
-chat-header-label =
-    .label = Прикажи заглавље
-    .accesskey = г
 
 ## Preferences UI Search Results
 

@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Безсерифни
 
-font-size-label =
-    .value = Величина:
-    .accesskey = е
-
 font-size-monospace-label =
     .value = Величина:
     .accesskey = т

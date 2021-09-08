@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Обриши">
 
-<!ENTITY fillLoginMenu.label          "Попуни пријаву">
-<!ENTITY fillLoginMenu.accesskey      "П">
-<!ENTITY fillPasswordMenu.label       "Попуни лозинку">
-<!ENTITY fillPasswordMenu.accesskey   "П">
-<!ENTITY fillUsernameMenu.label       "Попуни корисничко име">
-<!ENTITY fillUsernameMenu.accesskey   "П">
-<!ENTITY noLoginSuggestions.label     "(нема предлога пријаве)">
-<!ENTITY viewSavedLogins.label        "Прикажи сачуване пријаве">

@@ -38,6 +38,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Величина бафера:
+
 perftools-devtools-interval-label = Интервал:
 perftools-devtools-threads-label = Нити:
 perftools-devtools-settings-label = Подешавања

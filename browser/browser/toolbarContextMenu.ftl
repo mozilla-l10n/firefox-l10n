@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Изабери све картице
     .accesskey = И
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Врати затворену картицу
-           *[other] Врати затворене картице
-        }
-    .accesskey = р
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Закачи на додатни мени
     .accesskey = З
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Аутоматски сакриј на траци са алаткама
-    .accesskey = А
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Сакриј дугме када је листа празна
     .accesskey = С

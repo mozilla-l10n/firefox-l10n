@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Повезивање другог уређаја
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Ако већ нисте, инсталирајте <a data-l10n-name="connect-another-device">Firefox на мобилном уређају</a>.
-
-fxa-qrcode-heading-phase2 = 2. Онда се пријавите на { -sync-brand-short-name }, или скенирајте код упаривања на Андроид уређају унутар { -sync-brand-short-name } поставки.
-
 fxa-qrcode-heading-step1 = 1. Ако већ нисте, инсталирајте <a data-l10n-name="connect-another-device">Firefox на мобилном уређају</a>.
 
 fxa-qrcode-heading-step2 = 2. Отворите Firefox на свом мобилном уређају.

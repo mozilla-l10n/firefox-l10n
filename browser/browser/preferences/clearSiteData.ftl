@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Довешће до поновног учитавања слика и података на веб сајтовима
 
-clear-site-data-cancel =
-    .label = Откажи
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Обриши
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = Обриши
     .buttonaccesskeyaccept = l
