@@ -11,8 +11,6 @@
 
 <!ENTITY importFromNothing.label        "Na ion-phortaich rud sam bith">
 <!ENTITY importFromNothing.accesskey    "d">
-<!ENTITY importFromThunderbird.label     "Thunderbird">
-<!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 no nas ùire">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOutlook.label        "Outlook">

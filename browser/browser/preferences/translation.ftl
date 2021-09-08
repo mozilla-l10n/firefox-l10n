@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Thoir air falbh a h-uile làrach
     .accesskey = e
 
-translation-button-close =
-    .label = Dùin
-    .accesskey = D
-
 translation-dialog =
     .buttonlabelaccept = Dùin
     .buttonaccesskeyaccept = D

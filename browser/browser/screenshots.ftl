@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Tog glacadh-sgrìn
-
-screenshots-my-shots-button = Na glacaidhean agam
-
 screenshot-toolbarbutton =
     .label = Glacadh-sgrìn
     .tooltiptext = Tog glacadh-sgrìn
@@ -40,8 +36,6 @@ screenshots-login-error-details = Cha b’ urrainn dhuinn an glacadh agad a shà
 
 screenshots-unshootable-page-error-title = Chan urrainn dhuinn glacadh-sgrìn a dhèanamh dhen duilleag seo.
 screenshots-unshootable-page-error-details = Chan eil duilleag-lìn àbhaisteach a tha seo ’s chan urrainn dhut glacadh-sgrìn a dhèanamh dheth.
-
-screenshots-self-screenshot-error-title = Chan urrainn dhut glacadh a thogail dhen duilleag { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Tha na thagh thu ro bheag
 

@@ -9,9 +9,6 @@ newtab-page-title = Taba ùr
 newtab-settings-button =
     .title = Gnàthaich duilleag nan tabaichean ùra agad
 
-newtab-personalize-button-label = Gnàthaich
-    .title = Gnàthaich an taba ùr
-    .aria-label = Gnàthaich an taba ùr
 newtab-personalize-icon-label =
     .title = Gnàthaich an taba ùr
     .aria-label = Gnàthaich an taba ùr
@@ -24,8 +21,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Lorg
     .aria-label = Lorg
-
-newtab-search-box-search-the-web-text = Lorg air an lìon
 
 # Variables
 #  $engine (String): the name of the user's default search engine
@@ -267,10 +262,4 @@ newtab-custom-recent-title = Gnìomhachd o chionn goirid
 newtab-custom-recent-subtitle = Roghainn de làraichean is susbaint faisg ort
 newtab-custom-close-button = Dùin
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Snippets
-newtab-custom-snippets-subtitle = Gliocasan is naidheachdan o { -vendor-short-name } is { -brand-product-name }
 newtab-custom-settings = Stiùirich barrachd roghainnean

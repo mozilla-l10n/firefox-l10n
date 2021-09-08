@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-bookmark-overlay-name =
-    .value = Ainm:
-    .accesskey = n
-
-bookmark-overlay-location =
-    .value = Seòladh:
-    .accesskey = l
-
-bookmark-overlay-folder =
-    .value = Pasgan:
-
 bookmark-overlay-name-2 =
     .value = Ainm
     .accesskey = n
@@ -39,10 +28,6 @@ bookmark-overlay-new-folder-button =
     .label = Pasgan ùr
     .accesskey = s
 
-bookmark-overlay-tags =
-    .value = Tagaichean:
-    .accesskey = T
-
 bookmark-overlay-tags-2 =
     .value = Tagaichean
     .accesskey = T
@@ -54,10 +39,6 @@ bookmark-overlay-tags-expander =
     .tooltiptext = Seall a h-uile taga
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Cuir am falach
-
-bookmark-overlay-keyword =
-    .value = Facal-luirg:
-    .accesskey = F
 
 bookmark-overlay-keyword-2 =
     .value = Facal-luirg

@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Ceangail uidheam eile ris
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Mur an do rinn thu seo mu thràth, stàlaich <a data-l10n-name="connect-another-device">Firefox air an uidheam mobile agad</a>.
-
-fxa-qrcode-heading-phase2 = 2. Clàraich a-steach gu { -sync-brand-short-name } an uairsin no, air Android, sganaich an còd paidhreachaidh o bhroinn roghainnean { -sync-brand-short-name }.
-
 fxa-qrcode-heading-step1 = 1. Mur an do rinn thu sin cheana, stàlaich <a data-l10n-name="connect-another-device">Firefox air an uidheam mobile agad</a>.
 
 fxa-qrcode-heading-step2 = 2. Fosgail Firefox air an uidheam mobile agad.

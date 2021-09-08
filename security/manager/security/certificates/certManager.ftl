@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Tha teisteanasan agad a bheir aithne ort fhèin o na buidhnean seo
 certmgr-remembered = Thèid na teisteasan seo a chleachdadh ach an aithnich làraichean-lìn thu
 certmgr-people = Tha teisteanasan agad a bheir aithne air na daoine a leanas
-certmgr-servers = Tha teisteanasan agad a bheir aithne air na frithealaichean a leanas
 certmgr-server = Aithnichidh na h-innteartan seo eisgeachdan air mearachdan teisteanasan fhrithealaichean
 certmgr-ca = Tha teisteanasan agad a bheir aithne air na h-ùghdarrasan teisteanachaidh a leanas
-
-certmgr-detail-general-tab-title =
-    .label = Coitcheann
-    .accesskey = C
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Mion-fhiosrachadh
-    .accesskey = d
-
-certmgr-pending-label =
-    .value = A' dearbhadh an teisteanas an-dràsta fhèin…
-
-certmgr-subject-label = Air fhoillseachadh do
-
-certmgr-issuer-label = Air fhoillseachadh le
-
-certmgr-period-of-validity = Dè cho fad 's a bhios e dligheach
-
-certmgr-fingerprints = Lorgan-meur
-
-certmgr-cert-detail =
-    .title = Mion-fhiosrachadh an teisteanais
-    .buttonlabelaccept = Dùin
-    .buttonaccesskeyaccept = D
-
-certmgr-cert-detail-commonname = Ainm Coitcheann (Common Name, CN)
-
-certmgr-cert-detail-org = Buidheann (Organisation, O)
-
-certmgr-cert-detail-orgunit = Aonad na buidhne (Organisational Unit, OU)
-
-certmgr-cert-detail-serial-number = Àireamh shreathach
-
-certmgr-cert-detail-sha-256-fingerprint = Lorg-meur SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Lorg-meur SHA1
 
 certmgr-edit-ca-cert =
     .title = Deasaich roghainnean earbsa de theisteanasan nan ùghdarrasan teisteanachaidh
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Uidheam tèarainteachd
 
-certmgr-begins-on = Tòisichidh e
-
 certmgr-begins-label =
     .label = Tòisichidh e
-
-certmgr-expires-on = Falbhaidh an ùine air
 
 certmgr-expires-label =
     .label = Falbhaidh an ùine air
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Ion-phortaich…
     .accesskey = I
-
-certmgr-details =
-    .value = Raointean teisteanais
-    .accesskey = R
-
-certmgr-fields =
-    .value = Luach raoin
-    .accesskey = L
-
-certmgr-hierarchy =
-    .value = Rangachd an teisteanais
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Cuir eisgeachd ris…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = A bheil thu cinnteach gu bheil thu airson na teistean
 delete-user-cert-impact = Ma sguabas tu às aon dhe na teisteanasan agad fhèin, chan urrainn dhut aithne a thoirt ort fhèin tuilleadh.
 
 
-delete-ssl-cert-title =
-    .title = Sguab às eisgeachdan teisteanasan nam frithealaichean
-delete-ssl-cert-confirm = A bheil thu cinnteach gu bheil thu airson na h-eisgeachdan frithealaiche seo a sguabadh às?
-delete-ssl-cert-impact = Ma sguabas tu às eisgeachd frithealaiche, aisigidh thu na sgrùdaidhean tèarainteachd àbhaisteach airson an fhrithealaiche sin agus bidh thu ag iarraidh teisteanas dligheach uaidhe.
-
-
 delete-ssl-override-title =
     .title = Sguab às eisgeachd teisteanas an fhrithealaiche
 delete-ssl-override-confirm = A bheil thu cinnteach gu bheil thu airson eisgeachd an fhrithealaiche seo a sguabadh às?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Teisteanas leis an àireamh shreathach: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Sealladair teisteanais: “{ $certName }”
-
-not-present =
-    .value = <Chan eil e 'na phàirt dhen teisteanas>
-
-# Cert verification
-cert-verified = Chaidh an teisteanas seo a dhearbhadh a chum na leanas:
-
-# Add usage
-verify-ssl-client =
-    .value = Teisteanas cliant SSL
-
-verify-ssl-server =
-    .value = Teisteanas frithealaiche SSL
-
-verify-ssl-ca =
-    .value = Ùghdarras teisteanachaidh SSL
-
-verify-email-signer =
-    .value = Teisteanas soidhniche puist-dhealain
-
-verify-email-recip =
-    .value = Teisteanas faightear puist-dhealain
-
-# Cert verification
-cert-not-verified-cert-revoked = Cha do ghabh an teisteanas seo a dhearbhadh a chionn 's gun deach a chùl-ghairm.
-cert-not-verified-cert-expired = Cha do ghabh an teisteanas seo a dhearbhadh a chionn 's gun do dh'fhalbh an ùine air.
-cert-not-verified-cert-not-trusted = Cha do ghabh an teisteanas seo a dhearbhadh a chionn 's nach eil earbsa ann.
-cert-not-verified-issuer-not-trusted = Cha do ghabh an teisteanas seo a dhearbhadh a chionn 's nach eil earbsa san fhoillsichear.
-cert-not-verified-issuer-unknown = Cha do ghabh an teisteanas seo a dhearbhadh a chionn 's gu bheil am foillsichear neo-aithnichte.
-cert-not-verified-ca-invalid = Cha do ghabh an teisteanas seo a dhearbhadh a chionn 's gu bheil teisteanas an ùghdarrais theisteanachaidh mì-dhligheach.
-cert-not-verified_algorithm-disabled = Cha do ghabh an teisteanas seo a dhearbhadh a chionn 's gun deach a shoidhneadh le algairim soidhnidh a chaidh a chur à comas a chionn 's nach eil an algairim tèarainte.
-cert-not-verified-unknown = Cha do ghabh an teisteanas seo a dhearbhadh ach chan eil fhios carson.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Na cuir teisteanas cliant

@@ -5,9 +5,6 @@
 places-open =
     .label = Fosgail
     .accesskey = o
-places-open-tab =
-    .label = Fosgail ann an taba ùr
-    .accesskey = F
 places-open-in-tab =
     .label = Fosgail ann an taba ùr
     .accesskey = t
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Fosgail gach duilleag ann an taba
     .accesskey = o
-places-open-window =
-    .label = Fosgail ann an uinneag ùr
-    .accesskey = n
-places-open-private-window =
-    .label = Fosgail ann an uinneag phrìobhaideach ùr
-    .accesskey = p
-
-places-new-bookmark =
-    .label = Comharra-lìn ùr…
-    .accesskey = C
-places-new-folder-contextmenu =
-    .label = Pasgan ùr…
-    .accesskey = P
-places-new-folder =
-    .label = Pasgan ùr…
-    .accesskey = P
-places-new-separator =
-    .label = Sgaradair ùr
-    .accesskey = r
 
 places-open-in-window =
     .label = Fosgail ann an uinneag ùr
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Seòrsaich a-rèir ainm
     .accesskey = r
-places-properties =
-    .label = Roghainnean
-    .accesskey = i
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -139,3 +114,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Stiùirich na comharran-lìn
     .accesskey = m
+

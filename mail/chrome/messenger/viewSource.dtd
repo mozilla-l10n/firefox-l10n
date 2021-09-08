@@ -19,10 +19,6 @@
 <!ENTITY savePageCmd.label "Sàbhail an duilleag mar...">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Suidheachadh na duilleige...">
-<!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Ro-shealladh clò-bhualaidh">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Clò-bhuail...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">

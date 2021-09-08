@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Clò-bhuail…">
 <!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Ro-shealladh clò-bhualaidh">
-<!ENTITY printPreviewCmd.accesskey "R">
-<!ENTITY printSetupCmd.label "Suidheachadh na duilleige">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Sguab às an teachdaireachd">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "r">
 <!ENTITY compactVersion.label "Sealladh dùmhail">
 <!ENTITY compactVersion.accesskey "S">
-<!ENTITY folderPaneBar.label "Bàr-inneal leòsan nam pasgan">
-<!ENTITY folderPaneBar.accesskey "B">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Seòrsaich a-rèir">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Leabhar nan seòladh">
 <!ENTITY addressBookCmd.accesskey "b">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Tuilleadain">
-<!ENTITY addons.accesskey "a">
-<!ENTITY addonPrefs.label "Roghainnean nan leudachan">
-<!ENTITY addonPrefs.accesskey "O">
-<!ENTITY addonPrefsUnix.label "Roghainnean nan leudachan">
-<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Cha deach roghainnean leudachan a lorg.">
 <!ENTITY activitymanager.label "Manaidsear gnìomhachd">
 <!ENTITY activitymanager.accesskey "M">
@@ -520,8 +508,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Dì-bhugaich na tuilleadain">
 <!ENTITY debugAddonsCmd.accesskey "a">
-<!ENTITY tabsDebugCmd.label "Dì-bhugadair frèam na susbaint">
-<!ENTITY tabsDebugCmd.accesskey "D">
 <!ENTITY errorConsoleCmd.label "Consoil nam mearachd">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -545,15 +531,11 @@
 <!ENTITY backButton1.label "Air ais">
 <!ENTITY goForwardButton1.label "Air adhart">
 <!ENTITY deleteItem.title "Sguab às">
-<!ENTITY deleteButton.label "Sguab às">
-<!ENTITY undeleteButton.label "Neo-dhèan an sguabadh às">
 <!ENTITY markButton.label "Cuir comharra">
 <!ENTITY printButton.label "Clò-bhuail">
 <!ENTITY stopButton.label "Sguir dheth">
 <!ENTITY throbberItem.title "Tosgair gnìomhachd">
 <!ENTITY junkItem.title "Truilleis">
-<!ENTITY junkButton.label "Truilleis">
-<!ENTITY notJunkButton.label "Post còir">
 <!ENTITY addressBookButton.label "Leabhar nan seòladh">
 <!ENTITY chatButton.label "Cabadaich">
 <!ENTITY glodaSearch.title "Lorg uile-choitcheann">
@@ -585,19 +567,14 @@
 <!ENTITY previousMsgButton.tooltip "Gluais dhan teachdaireachd roimhe">
 <!ENTITY goForwardButton.tooltip "Aon teachdaireachd air adhart">
 <!ENTITY goBackButton.tooltip "Aon teachdaireachd air ais">
-<!ENTITY deleteButton.tooltip "Sguab às an teachdaireachd no am pasgan a thagh thu">
-<!ENTITY undeleteButton.tooltip "Neo-dhèan sguabadh às na teachdaireachd a thagh thu">
 <!ENTITY markButton.tooltip "Cuir comharra air na teachdaireachdan">
 <!ENTITY printButton.tooltip "Clò-bhuail an teachdaireachd seo">
 <!ENTITY stopButton.tooltip "Sguir dhen tar-aiseag làithreach">
-<!ENTITY junkButton.tooltip "Cuir comharra gur e truilleis a tha anns na teachdaireachdan a thagh thu">
-<!ENTITY notJunkButton.tooltip "Cuir comharra gur e post còir a tha anns na teachdaireachdan a thagh thu">
 <!ENTITY addressBookButton.tooltip "Rach do leabhar nan seòladh">
 <!ENTITY chatButton.tooltip "Seall taba na cabadaich">
 <!ENTITY tagButton.tooltip "Cuir taga ris na teachdaireachdan">
 <!ENTITY compactButton.tooltip "Thoir air falbh na teachdaireachdan a chaidh an sguabadh às on phasgan a thagh thu">
 <!ENTITY appmenuButton1.tooltip "Seall clàr-taice &brandShortName;">
-<!ENTITY addonsButton.tooltip "Stiùirich na tuilleadain agad">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Sìn air adhart am broinn na loidhne">

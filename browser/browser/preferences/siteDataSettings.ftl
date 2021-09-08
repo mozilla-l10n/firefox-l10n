@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Thoir air falbh na thagh mi
     .accesskey = r
 
-site-data-button-cancel =
-    .label = Sguir dheth
-    .accesskey = S
-
-site-data-button-save =
-    .label = Sàbhail na h-atharraichean
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = Sàbhail na h-atharraichean
     .buttonaccesskeyaccept = a

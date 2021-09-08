@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Fosgail an clàr-taice">
-
 <!ENTITY navbarOverflow.label                "Barrachd innealan…">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Prìnich an taba">
-<!ENTITY  unpinTab.label                     "Neo-phrìnich an taba">
 
 <!ENTITY  listAllTabs.label      "Liostaich gach taba">
 
@@ -25,78 +15,27 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Fosgail faidhle…">
 <!ENTITY printCmd.label "Clò-bhuail…">
 
-<!ENTITY taskManagerCmd.label "Manaidsear nan saothair">
-
 <!ENTITY menubarCmd.label "Bàr a' chlàir-thaice">
 <!ENTITY menubarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Seòladaireachd">
-<!ENTITY personalbarCmd.label "Bàr nan comharran-lìn">
-<!ENTITY personalbarCmd.accesskey "B">
-<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
-include the word "toolbar" or such, because screen readers already know that
-this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbar.accessibleLabel "Comharran-lìn">
-<!ENTITY bookmarksToolbarItem.label "Rudan air bàr nan comharran-lìn">
 
 <!ENTITY fullScreenCmd.label "Làn-sgrìn">
 
 <!ENTITY pictureInPictureHideToggle.label "Falaich toglachadh dealbh am broinn deilbh">
 <!ENTITY pictureInPictureHideToggle.accesskey "h">
 
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings2.label "Roghainnean &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "Ceangail uidheam eile ris…">
-<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Clàraich a-steach gu &brandProductName;">
-<!ENTITY fxa.menu.turnOnSync.label "Cuir air &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.firefoxServices.label "Seirbheisean &brandProductName;">
-<!ENTITY fxa.menu.account.label "Cunntas">
-<!ENTITY fxa.menu.settings.label "Roghainnean">
-<!ENTITY fxa.menu.accountSettings.label "Roghainnean a’ chunntais">
-<!ENTITY fxa.menu.manageAccount2.label "Stiùirich an cunntas">
-<!ENTITY fxa.menu.signOut.label "Clàraich a-mach…">
-<!ENTITY fxa.menu.setupSync.label "Suidhich &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 <!ENTITY fxa.service.sendTab.description "Cuir taba sa bhad gu uidheam sam bith sa bheil thu air do chlàradh a-steach.">
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "’na làn-sgrìn a-nis">
-<!ENTITY fullscreenWarning.generic.label "Tha an sgrìobhainn seo ’na làn-sgrìn a-nis">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Fàg an làn-sgrìn (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Fàg an làn-sgrìn (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "Tha smachd aig">
-<!ENTITY pointerlockWarning.afterDomain.label "air an tomhaire agad. Brùth Esc airson an smachd a thilleadh dhut fhèin.">
-<!ENTITY pointerlockWarning.generic.label "Tha smachd aig an sgrìobhainn seo air an tomhaire agad. Brùth Esc airson an smachd a thilleadh dhut fhèin.">
-
-<!ENTITY showAllBookmarks2.label "Seall a h-uile comharra-lìn">
-<!ENTITY recentBookmarks.label "Comharran-lìn a rinn thu o chionn goirid">
-<!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh chomharran-lìn">
 
 <!ENTITY printButton.label            "Clò-bhuail">
 <!ENTITY printButton.tooltip          "Clò-bhuail an duilleag seo">
@@ -107,28 +46,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY homeButton.label             "Dhachaigh">
 <!ENTITY homeButton.defaultPage.tooltip "Duilleag-dhachaigh &brandShortName;">
 
-<!ENTITY bookmarksButton.label          "Comharran-lìn">
-
-<!ENTITY bookmarksSubview.label             "Comharran-lìn">
-<!ENTITY bookmarksMenuButton2.label         "Clàr-taice nan comharra-lìn">
-<!ENTITY bookmarksMenuButton.other.label    "Comharran-lìn eile">
-<!ENTITY bookmarksMenuButton.mobile.label   "Comharran-lìn mobile">
-<!ENTITY viewBookmarksSidebar2.label        "Seall bàr-taoibh nan comharra-lìn">
-<!ENTITY hideBookmarksSidebar.label         "Falaich bàr-taoibh nan comharra-lìn">
-<!ENTITY viewBookmarksToolbar.label         "Seall bàr nan comharran-lìn">
-<!ENTITY hideBookmarksToolbar.label         "Falaich bàr-inneal nan comharran-lìn">
-<!ENTITY searchBookmarks.label              "Lorg sna comharran-lìn">
-<!ENTITY bookmarkingTools.label             "Innealan nan comharra-lìn">
-<!ENTITY addBookmarksMenu.label             "Cuir clàr-taice nan comharran-lìn ris a’ bhàr-inneal">
-<!ENTITY removeBookmarksMenu.label          "Thoir air falbh clàr-taice nan comharran-lìn on bhàr-inneal">
-
 <!ENTITY historyButton.label            "Eachdraidh">
 
 <!ENTITY downloads.label              "Luchdaidhean a-nuas">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Luchdaidhean a-nuas">
-<!ENTITY addons.label                 "Tuilleadain">
 
 <!ENTITY webDeveloperMenu.label       "Leasaichear-lìn">
 
@@ -145,28 +68,11 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY historyMenu.label "Eachdraidh">
 
-<!ENTITY historyUndoMenu.label "Tabaichean a dhùin thu o chionn goirid">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Uinneagan a dhùin thu o chionn goirid">
-
-<!ENTITY appMenuHistory.showAll.label "Seall an eachdraidh gu lèir">
-
-<!ENTITY appMenuHistory.clearRecent.label "Glan an eachdraidh faisg ort…">
-<!ENTITY appMenuHistory.restoreSession.label "Aisig an seisean roimhe seo">
-<!ENTITY appMenuHistory.viewSidebar.label "Seall bàr-taoibh na h-eachdraidh">
-<!ENTITY appMenuHistory.hideSidebar.label "Falaich bàr-taoibh na h-eachdraidh">
-<!ENTITY appMenuHistory.recentHistory.label "An eachdraidh faisg ort">
-
 <!ENTITY appMenuHelp.label "Cobhair">
-
-<!ENTITY appMenuRemoteTabs.label "Tabaichean sioncronaichte">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Chan eil taba fosgailte">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Seall an corr…">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Seall barrachd thabaichean on uidheam seo">
@@ -184,14 +90,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Fosgail roghainnean an t-sioncronachaidh">
 <!ENTITY appMenuRemoteTabs.welcome.label "Seall liosta nan tabaichean a tha agad air uidheaman eile.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tha an cunntas agad feumach air dearbhadh.">
-<!ENTITY appMenuRemoteTabs.signintosync.label "Clàraich a-steach gu &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.turnonsync.label "Cuir air &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Stiùirich na h-uidheaman…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Seall bàr-taoibh nan tabaichean sioncronaichte">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "Falaich bàr-taoibh nan tabaichean sioncronaichte">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Ceangail uidheam eile ris">
-
-<!ENTITY appMenuRecentHighlights.label "Sàr-roghainn o chionn goirid">
 
 <!ENTITY customizeMenu.addToToolbar.label "Cuir ris a' bhàr-inneal">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -203,8 +102,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "u">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Dì-phrìnich on chlàr-taice taosgaidh">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "D">
-<!ENTITY customizeMenu.removeFromToolbar.label "Thoir air falbh on bhàr-inneal">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Cuir barrachd rudan ris…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
 
@@ -222,25 +119,9 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 
-<!ENTITY pageAction.copyLink.label    "Dèan lethbhreac dhen cheangal">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY saveToPocketCmd.label        "Sàbhail an duilleag ann am Pocket">
-<!ENTITY pocketMenuitem.label         "Seall liosta Pocket">
-
-<!ENTITY emailPageCmd.label           "Cuir an dealbh air a' phost-d…">
-
 <!ENTITY fullZoom.label                 "Sùm">
 
 <!ENTITY sidebarCloseButton.tooltip     "Dùin am bàr-taoibh">
-
-<!ENTITY quitApplicationCmdWin2.label       "Fàg an-seo">
-<!ENTITY quitApplicationCmdWin2.accesskey   "F">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Fàg &brandShorterName;">
-<!ENTITY quitApplicationCmd.label       "Fàg an-seo">
-<!ENTITY quitApplicationCmd.accesskey   "F">
-<!ENTITY quitApplicationCmdMac2.label   "Fàg &brandShorterName;">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -260,10 +141,6 @@ this container is a toolbar. This avoids double-speaking. -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Tabaichean a' bhrabhsair">
 
-<!ENTITY syncBrand.shortName.label    "Sioncronachadh">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "Fèin-fhalaich">
-
 
 <!ENTITY uiTour.infoPanel.close "Dùin">
 
@@ -271,15 +148,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY panicButton.thankyou.msg2                "Brabhsadh sàbhailte!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Mòran taing!">
 
-<!ENTITY updateAvailable.panelUI.label "Luchdaich a-nuas ùrachadh &brandShorterName;">
-<!ENTITY updateManual.panelUI.label "Luchdaich a-nuas lethbhreac ùr de &brandShorterName;">
-<!ENTITY updateUnsupported.panelUI.label "Chan urrainn dhut barrachd ùrachaidhean a dhèanamh">
-<!ENTITY updateRestart.panelUI.label2 "Dèan ath-thòiseachadh airson &brandShorterName; ùrachadh">
-
 <!ENTITY sendToDevice.syncNotReady.label "A’ sioncronachadh nan uidheam...">
-
-<!ENTITY pageAction.shareUrl.label "Co-roinn">
-<!ENTITY pageAction.shareMore.label "Barrachd…">
 
 <!ENTITY libraryButton.tooltip "Seall air an eachdraidh, comharran-lìn a shàbhail thu ’s mòran a bharrachd">
 

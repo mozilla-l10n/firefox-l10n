@@ -8,7 +8,10 @@
 
 # Reorder Attachment Panel
 
+# Encryption
+
 # Addressing Area
+
 
 ## Notifications
 

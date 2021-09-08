@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Lean ris an staid air loidhne a chaidh a mhothachadh dha
     .accesskey = d
 
-startup-label = Staid de làimh aig àm tòiseachaidh:
-
 offline-preference-startup-label = Staid de làimh aig àm tòiseachaidh:
 
 status-radio-remember =

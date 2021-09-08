@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Còdachadh teacsa airson susbaint dhìleabach
-fonts-languages-fallback-desc = Thèid an còdachadh teacsa seo a chleachdadh airson susbaint dhìleabach nach eil a’ cur an cèill dè còdachadh a chleachdas e.
-
-fonts-languages-fallback-label = Còdachadh teacsa fallback
-    .accesskey = T
-
-fonts-languages-fallback-name-auto =
-    .label = A' bhun-roghainn airson an sgeama ionadail làithrich
-fonts-languages-fallback-name-arabic =
-    .label = Arabais
-fonts-languages-fallback-name-baltic =
-    .label = Baltach
-fonts-languages-fallback-name-ceiso =
-    .label = Meadhan-Eòrpach, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Meadhan-Eòrpach, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Sìnis shimplichte
-fonts-languages-fallback-name-traditional =
-    .label = Sìnis thradaiseanta
-fonts-languages-fallback-name-cyrillic =
-    .label = Cirilis
-fonts-languages-fallback-name-greek =
-    .label = Greugais
-fonts-languages-fallback-name-hebrew =
-    .label = Eabhra
-fonts-languages-fallback-name-japanese =
-    .label = Seapanais
-fonts-languages-fallback-name-korean =
-    .label = Coirèanais
-fonts-languages-fallback-name-thai =
-    .label = Tàidh
-fonts-languages-fallback-name-turkish =
-    .label = Turcais
-fonts-languages-fallback-name-vietnamese =
-    .label = Bhiet-Namais
-fonts-languages-fallback-name-other =
-    .label = Eile (a' gabhail a-steach feadhainn na Roinn-Eòrpa an Iar)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

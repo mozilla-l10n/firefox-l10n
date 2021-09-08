@@ -6,9 +6,6 @@ password-quality-meter = Tomhas càileachd an fhacail-fhaire
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Atharraich am prìomh fhacal-faire
-
 change-device-password-window =
     .title = Atharraich am facal-faire
 
@@ -20,10 +17,6 @@ change-password-new = Am facal-faire ùr:
 change-password-reenter = Am faca-faire ùr (a-rithist):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Falamhaich am prìomh fhacal-faire
-    .style = width: 40em
 
 pippki-failed-pw-change = Cha b’ urrainn dhuinn am facal-faire atharrachadh.
 pippki-incorrect-pw = Cha do chuir thu a-steach am facal-faire làithreach ceart. Feuch ris a-rithist.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 44em
 reset-password-button-label =
     .label = Ath-shuidhich
-reset-password-text = Ma dh'fhalmhaicheas tu am prìomh fhacal-faire, thèid gach facal-faire airson làraichean-lìn is puist-dhealain, dàta fhoirmichean, teisteanasan pearsanta is iuchraichean prìobhaideach air chall. A bheil thu cinnteach gu bheil thu airson am prìomh fhacal-faire agad aiseag?
 
 reset-primary-password-text = Ma dh’fhalamhaicheas tu am prìomh fhacal-faire, thèid gach facal-faire airson làraichean-lìn is puist-dhealain, teisteanasan pearsanta is iuchraichean prìobhaideach air chall. A bheil thu cinnteach gu bheil thu airson am prìomh fhacal-faire agad ath-shuidheachadh?
 

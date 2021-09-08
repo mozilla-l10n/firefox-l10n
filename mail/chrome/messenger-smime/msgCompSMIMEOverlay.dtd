@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Cuir soighneadh digiteach ris an teachdaireachd seo">
 <!ENTITY menu_securitySign.accesskey "m">
 
-<!ENTITY menu_securityAttachMyKey.label "Ceangail an iuchair phoblach agam ris">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "Teicneolas crioptachaidh">
 <!ENTITY menu_securityTech.accesskey "T">
 

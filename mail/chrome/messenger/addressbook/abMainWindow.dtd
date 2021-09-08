@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Dùin">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "D">
-<!ENTITY printSetupCmd.label                            "Suidheachadh na duilleige…">
-<!ENTITY printSetupCmd.accesskey                        "u">
-<!ENTITY printPreviewContactCmd.label                   "Ro-shealladh clò-bhualaidh de charaid">
-<!ENTITY printPreviewContactCmd.accesskey               "R">
-<!ENTITY printPreviewAddressBook.label                  "Ro-shealladh clò-bhualaidh de leabhar nan seòladh">
-<!ENTITY printPreviewAddressBook.accesskey              "b">
 <!ENTITY printContactCmd.label                          "Clò-bhuail neach-aithne…">
 <!ENTITY printContactCmd.accesskey                      "C">
 <!ENTITY printContactCmd.key                            "P">
@@ -111,10 +105,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Às-phortaich…">
 <!ENTITY exportCmd.accesskey                            "s">
-<!ENTITY preferencesCmd2.label                          "Roghainnean">
-<!ENTITY preferencesCmd2.accesskey                      "o">
-<!ENTITY preferencesCmdUnix.label                       "Roghainnean">
-<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Neach-aithne ùr">
