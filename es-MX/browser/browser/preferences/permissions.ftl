@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Eliminar todos los sitios web
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Cancelar
-    .accesskey = C
-
-permissions-button-ok =
-    .label = Guardar cambios
-    .accesskey = G
-
 permission-dialog =
     .buttonlabelaccept = Guardar cambios
     .buttonaccesskeyaccept = G

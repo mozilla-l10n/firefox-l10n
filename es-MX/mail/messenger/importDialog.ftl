@@ -4,3 +4,4 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
+

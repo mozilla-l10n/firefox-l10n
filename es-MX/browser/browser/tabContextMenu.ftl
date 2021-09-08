@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Agregar pestaña a marcadores
     .accesskey = B
-reopen-in-container =
-    .label = Reabrir en Contenedor
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Abrir en nueva pestaña contenedora
     .accesskey = e
@@ -69,25 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Cerrar varias pestañas
     .accesskey = M
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Deshacer cerrar pestaña
-           *[other] Deshacer cerrar pestañas
-        }
-    .accesskey = U
-close-tab =
-    .label = Cerrar pestaña
-    .accesskey = C
-close-tabs =
-    .label = Cerrar pestañas
-    .accesskey = S
-move-tabs =
-    .label = Mover pestañas
-    .accesskey = v
-move-tab =
-    .label = Mover pestaña
-    .accesskey = v
 tab-context-share-url =
     .label = Compartir
     .accesskey = h
@@ -129,6 +107,7 @@ tab-context-move-tabs =
            *[other] Mover pestañas
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

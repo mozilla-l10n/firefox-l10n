@@ -4,7 +4,10 @@
 
 chat-joining-chat-icon2 =
     .alt = Uniéndose al chat
+
 chat-participant-administrator-role-icon2 =
     .alt = Administrador
+
 chat-participant-moderator-role-icon2 =
     .alt = Moderador
+

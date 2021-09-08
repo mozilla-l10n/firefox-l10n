@@ -6,10 +6,9 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = Eliminar el campo { $type }
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Eliminar el campo { $type }
+
 pill-action-edit =
     .label = Editar dirección
     .accesskey = E
@@ -22,12 +21,16 @@ toggle-attachment-pane-key = M
 # Reorder Attachment Panel
 
 
+# Encryption
+
 # Addressing Area
 
 to-compose-address-row-label =
     .value = Para
+
 cc-compose-address-row-label =
     .value = Cc
+
 
 ## Notifications
 

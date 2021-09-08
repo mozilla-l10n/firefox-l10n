@@ -6,9 +6,6 @@ password-quality-meter = Medidor de calidad de la contraseña
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Cambiar contraseña maestra
-
 change-device-password-window =
     .title = Cambiar contraseña
 
@@ -20,10 +17,6 @@ change-password-new = Nueva contraseña:
 change-password-reenter = Nueva contraseña (confirmar):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Restablecer la contraseña maestra
-    .style = width: 40em
 
 pippki-failed-pw-change = No fue posible cambiar la contraseña
 pippki-incorrect-pw = No ingresaste correctamente la contraseña principal. Por favor, vuelve a intentarlo.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Restablecer
-reset-password-text = Si restableces tu contraseña maestra, se borrarán las contraseñas web y de correo electrónico, los datos de formularios, certificados personales y claves privadas. ¿Realmente quieres restablecer tu contraseña maestra?
 
 reset-primary-password-text = Si restableces tu contraseña primaria, se olvidarán todas las contraseñas de webs, correo electrónico, certificados personales y llaves privadas almacenadas. ¿Estás seguro de que quieres restablecer tu contraseña primaria?
 

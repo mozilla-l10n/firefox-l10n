@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seleccionar todas las pestañas
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Deshacer cerrar pestaña
-           *[other] Deshacer cerrar pestañas
-        }
-    .accesskey = U
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -57,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Anclar al menú de desbordamiento
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Autoocultar en la barra de herramientas
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Ocultar botón cuando está vacío
     .accesskey = O
