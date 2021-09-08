@@ -20,8 +20,6 @@
 <!ENTITY redoCmd.accesskey "р">
 <!ENTITY deleteCmd.label "Избриши">
 <!ENTITY deleteCmd.accesskey "з">
-<!ENTITY preferencesCmdUnix.label "Преференции">
-<!ENTITY preferencesCmdUnix.accesskey "П">
 
 <!ENTITY viewMenu.label "Поглед">
 <!ENTITY viewMenu.accesskey "г">

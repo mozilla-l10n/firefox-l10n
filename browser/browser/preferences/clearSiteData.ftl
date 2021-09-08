@@ -35,11 +35,3 @@ clear-site-data-cache-empty =
     .label = Кеширани мрежни содржини
     .accesskey = е
 
-clear-site-data-cancel =
-    .label = Откажи
-    .accesskey = О
-
-clear-site-data-clear =
-    .label = Исчисти
-    .accesskey = И
-

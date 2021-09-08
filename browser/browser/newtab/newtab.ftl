@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Барај
     .aria-label = Барај
 
-newtab-search-box-search-the-web-text = Пребарајте на Интернет
-
 newtab-search-box-search-the-web-input =
     .placeholder = Пребарајте на Интернет
     .title = Пребарајте на Интернет

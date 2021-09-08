@@ -12,8 +12,6 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-get-started = Вовед
-
 ## Welcome modal dialog strings
 
 
@@ -22,33 +20,18 @@ onboarding-button-label-get-started = Вовед
 ### widowed word, so test on various window sizes if you also want this.
 
 
+### UI strings for the MR1 onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
 ## Welcome page strings
-
-onboarding-welcome-learn-more = Дознајте повеќе за придобивките.
-onboarding-welcome-form-header = Започнете овде
-
-onboarding-join-form-email =
-    .placeholder = Внесете е-пошта
-onboarding-join-form-continue = Продолжи
-
-onboarding-cards-dismiss =
-    .title = Откажи
-    .aria-label = Откажи
 
 ## Welcome full page string
 
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-form-input =
-    .placeholder = Е-пошта
-
-onboarding-sync-form-continue-button = Продолжи
-onboarding-sync-form-skip-login-button = Прескокнете го овој чекор
-
 ## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Внесете ја вашата е-пошта
 
 
 ## These are individual benefit messages shown with an image, title and
@@ -62,12 +45,6 @@ onboarding-sync-form-header = Внесете ја вашата е-пошта
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-tracking-protection-title2 = Заштита од следење
-onboarding-tracking-protection-button2 = Како работи
-
-onboarding-data-sync-title = Земете ги вашите поставки со вас
-onboarding-data-sync-button2 = Најавете се во { -sync-brand-short-name }
-
 ## Message strings belonging to the Return to AMO flow
 
 
@@ -77,14 +54,7 @@ onboarding-data-sync-button2 = Најавете се во { -sync-brand-short-na
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
 
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
-
+## Multistage onboarding strings (about:welcome pages)
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -101,4 +71,13 @@ onboarding-data-sync-button2 = Најавете се во { -sync-brand-short-na
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
+
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+
 

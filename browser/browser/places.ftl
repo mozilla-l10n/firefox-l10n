@@ -5,31 +5,9 @@
 places-open =
     .label = Отвори
     .accesskey = О
-places-open-tab =
-    .label = Отвори во ново јазиче
-    .accesskey = в
 places-open-all-in-tabs =
     .label = Отвори во јазичиња
     .accesskey = т
-places-open-window =
-    .label = Отвори во нов прозорец
-    .accesskey = н
-places-open-private-window =
-    .label = Отвори во нов приватен прозорец
-    .accesskey = П
-
-places-new-bookmark =
-    .label = Нов обележувач
-    .accesskey = б
-places-new-folder-contextmenu =
-    .label = Нова папка
-    .accesskey = о
-places-new-folder =
-    .label = Нова папка
-    .accesskey = о
-places-new-separator =
-    .label = Нов одделувач
-    .accesskey = д
 
 places-view =
     .label = Поглед
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Подреди по име
     .accesskey = р
-places-properties =
-    .label = Својства
-    .accesskey = ј
 

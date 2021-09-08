@@ -24,7 +24,3 @@ translation-sites-button-remove-all =
     .label = Отстрани ги сите мрежни места
     .accesskey = а
 
-translation-button-close =
-    .label = Затвори
-    .accesskey = З
-

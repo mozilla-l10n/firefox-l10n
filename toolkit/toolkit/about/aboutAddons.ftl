@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Менаџер за додатоци
-
 addons-page-title = Менаџер за додатоци
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Прикажи ги сите додатоци
-
-cmd-show-details =
-    .label = Прикажи информации
-    .accesskey = П
-
-cmd-find-updates =
-    .label = Најди надградби
-    .accesskey = Н
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Опции
-           *[other] Поставки
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] О
-           *[other] р
-        }
-
-cmd-enable-theme =
-    .label = Користи тема
-    .accesskey = т
-
-cmd-disable-theme =
-    .label = Престани да користиш тема
-    .accesskey = т
-
-cmd-install-addon =
-    .label = Инсталирај
-    .accesskey = И
-
-cmd-contribute =
-    .label = Придонеси
-    .accesskey = П
-    .tooltiptext = Придонеси за развојот на овој додаток
 
 detail-version =
     .label = Верзија

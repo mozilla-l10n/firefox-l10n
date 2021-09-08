@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Опции
-       *[other] Поставки
-    }
-
 pane-general-title = Централа
 category-general =
     .tooltiptext = { pane-general-title }
@@ -51,11 +45,6 @@ cancel-no-restart-button = Откажи
 ## General Section
 
 startup-header = Стартување
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Дозволи { -brand-short-name } и Firefox да работат во исто време
 
 is-default = { -brand-short-name } е вашиот основен прелистувач
 is-not-default = { -brand-short-name } не е вашиот основен прелистувач
@@ -166,11 +155,6 @@ applications-manage-app =
     .label = Детали за програмата…
 applications-always-ask =
     .label = Секогаш прашај
-applications-type-pdf = Формат за преносн документи (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -303,8 +287,6 @@ search-suggestions-option =
 
 search-suggestions-cant-show = Предлог-пребарувањата нема да се прикажуваат во резултатите во адресната лента бидејќи { -brand-short-name } е прилагоден никогаш да не ја снима историјата на прелистување.
 
-search-one-click-header = Пребарувачи на еден клик
-
 search-one-click-desc = Изберете ги алтернативните пребарувачи кои се прикажуваат под лентата за адреси и пребарување при внес на нов клучен збор.
 
 search-choose-engine-column =
@@ -336,9 +318,6 @@ containers-header = Контејнерски јазичиња
 containers-add-button =
     .label = Додај нов контејнер
     .accesskey = А
-
-containers-preferences-button =
-    .label = Поставки
 
 containers-remove-button =
     .label = Избриши
@@ -395,14 +374,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Снимени најави …
     .accesskey = L
-forms-master-pw-use =
-    .label = Користи главна лозинка
-    .accesskey = о
 forms-master-pw-change =
     .label = Промени ја главната лозинка…
     .accesskey = г
-
-forms-master-pw-fips-title = Моментално сте во FIPS режим. FIPS бара главна лозинка која не е празна.
 
 forms-master-pw-fips-desc = Промената на лозинката не успеа
 
@@ -474,8 +448,6 @@ permissions-addon-exceptions =
 collection-privacy-notice = Белешка за приватност
 
 collection-health-report-link = Дознај повеќе
-
-collection-backlogged-crash-reports-link = Дознај повеќе
 
 ## Privacy Section - Security
 ##

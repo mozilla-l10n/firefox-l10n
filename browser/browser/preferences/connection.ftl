@@ -29,9 +29,6 @@ connection-proxy-http-port = Порта
 connection-proxy-ssl-port = Порта
     .accesskey = о
 
-connection-proxy-ftp-port = Порта
-    .accesskey = р
-
 connection-proxy-socks-port = Порта
     .accesskey = т
 
