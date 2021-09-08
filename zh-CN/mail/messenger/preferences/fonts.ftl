@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = 无衬线字体
 
-font-size-label =
-    .value = 字号：
-    .accesskey = e
-
 font-size-proportional-label =
     .value = 字号：
     .accesskey = e

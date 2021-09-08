@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = 截图
-
-screenshots-my-shots-button = 我的截图
-
 screenshot-toolbarbutton =
     .label = 截图
     .tooltiptext = 一键截图
@@ -40,8 +36,6 @@ screenshots-login-error-details = { -screenshots-brand-name } 服务遇到问题
 
 screenshots-unshootable-page-error-title = 我们无法截图此页面。
 screenshots-unshootable-page-error-details = 这不是一个标准的网页，所以无法截图。
-
-screenshots-self-screenshot-error-title = 您不能截取 { -screenshots-brand-name } 的页面！
 
 screenshots-empty-selection-error-title = 您选择的范围太小
 

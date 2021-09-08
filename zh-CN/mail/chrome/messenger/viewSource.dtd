@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "另存页面为…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "页面设置…">
-<!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "打印预览">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "打印…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">

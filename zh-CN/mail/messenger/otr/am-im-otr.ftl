@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR 设置
 otr-log =
     .label = 在对话日志中包含加密过的 OTR 消息
-otr-requireEncryption =
-    .label = 要求私人对话中进行端到端加密
-otr-verifyNudge =
-    .label = 始终提醒我验证未验证的联系人
-
-otr-notYetAvailable = 尚不可用
 
 otr-require-encryption =
     .label = 要求私人对话中进行端到端加密

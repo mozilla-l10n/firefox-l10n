@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = 自动使用检测到的联机状态
     .accesskey = d
 
-startup-label = 启动时手动指定状态：
-
 offline-preference-startup-label = 启动时手动指定状态：
 
 status-radio-remember =

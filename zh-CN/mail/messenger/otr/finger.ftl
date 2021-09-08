@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = 来自先前的端到端加密对话的 OTR 密钥指纹。
 
-finger-screenName =
-    .label = 联系人
-
 finger-screen-name =
     .label = 联系人
 finger-verified =

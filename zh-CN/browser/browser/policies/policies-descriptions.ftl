@@ -65,8 +65,6 @@ policy-DisableForgetButton = 阻止使用“忘记”功能。
 
 policy-DisableFormHistory = 不要记住搜索和表单的历史记录。
 
-policy-DisableMasterPasswordCreation = 若为 true，将无法创建主密码。
-
 policy-DisablePrimaryPasswordCreation = 若为 true，将无法创建主密码。
 
 policy-DisablePasswordReveal = 阻止密码在列表中明文显示
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = 对指定的网站恢�
 policy-LocalFileLinks = 允许特定网站链接到本地文件。
 
 policy-ManagedBookmarks = 配置由管理员控制的书签列表，用户无法更改。
-
-policy-MasterPassword = 要求或禁止使用主密码。
 
 policy-ManualAppUpdateOnly = 只允许手动更新，并且不通知用户有可用更新。
 

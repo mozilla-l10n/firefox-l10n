@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "对此消息数字签名">
 <!ENTITY menu_securitySign.accesskey "M">
 
-<!ENTITY menu_securityAttachMyKey.label "附上我的公钥">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "加密技术">
 <!ENTITY menu_securityTech.accesskey "T">
 

@@ -7,9 +7,6 @@ third-party-section-title = { -brand-short-name } 中的第三方模块列表
 
 third-party-intro = 此页面显示注入到您 { -brand-short-name } 的第三方程序模块。任何未经 Microsoft 或 { -vendor-short-name } 签名的模块均会被视为第三方模块。
 
-third-party-header-module-list = 模块列表
-third-party-header-loading-events = 正在加载事件
-
 third-party-message-empty = 未检测到任何第三方模块。
 third-party-message-no-duration = 未记录
 

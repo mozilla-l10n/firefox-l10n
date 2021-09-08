@@ -35,9 +35,6 @@ connection-proxy-http = HTTP 代理
     .accesskey = x
 connection-proxy-http-port = 端口
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = 也将此代理用于 FTP 和 HTTPS
-    .accesskey = s
 
 connection-proxy-https-sharing =
     .label = 也将此代理用于 HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS Proxy
     .accesskey = H
 connection-proxy-ssl-port = 端口
     .accesskey = o
-
-connection-proxy-ftp = FTP 代理
-    .accesskey = F
-connection-proxy-ftp-port = 端口
-    .accesskey = r
 
 connection-proxy-socks = SOCKS 主机
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = 不使用代理
     .accesskey = n
 
 connection-proxy-noproxy-desc = 例如：.mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = 与 localhost、127.0.0.1 和 ::1 的连接永不经过代理。
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = 与 localhost、127.0.0.1/8 和 ::1 的连接永不经过代理。

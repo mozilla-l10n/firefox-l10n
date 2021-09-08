@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = 选择所有标签页
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] 恢复关闭的标签页
-           *[other] 恢复关闭的标签页
-        }
-    .accesskey = U
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = 隐藏到折叠菜单
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = 于工具栏自动隐去
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = 空闲时隐藏按钮
     .accesskey = H

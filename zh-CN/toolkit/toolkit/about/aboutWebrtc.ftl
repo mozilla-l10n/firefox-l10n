@@ -197,8 +197,6 @@ about-webrtc-aec-logging-off-state-msg = 捕捉到的日志文件在这里: { $p
 
 ##
 
-##
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -252,6 +250,8 @@ about-webrtc-sdp-set-at-timestamp-remote = 已将 远程 SDP 时间戳设为 { N
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = 时间戳 { NUMBER($timestamp, useGrouping: "false") }（+ { $relative-timestamp } 毫秒）
+
+##
 
 ##
 

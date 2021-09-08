@@ -66,11 +66,6 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = 截图行为
 
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = 截图到剪贴板
-options-screenshot-clipboard-tooltip =
-    .title = 直接将截图保存到剪贴板
-
-# Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = 截图仅保存到剪贴板
 options-screenshot-clipboard-tooltip2 =
     .title = 直接将截图保存到剪贴板

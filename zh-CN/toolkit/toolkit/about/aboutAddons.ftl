@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = 附加组件管理器
-
 addons-page-title = 附加组件管理器
 
 search-header =
@@ -35,18 +32,6 @@ help-button = 附加组件帮助
 sidebar-help-button-title =
     .title = 附加组件帮助
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } 选项
-       *[other] { -brand-short-name } 首选项
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } 选项
-           *[other] { -brand-short-name } 首选项
-        }
-
 addons-settings-button = { -brand-short-name } 设置
 sidebar-settings-button-title =
     .title = { -brand-short-name } 设置
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = 显示所有扩展
-
-cmd-show-details =
-    .label = 显示详细信息
-    .accesskey = S
-
-cmd-find-updates =
-    .label = 查找更新
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] 选项
-           *[other] 首选项
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = 使用主题
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = 停用主题
-    .accesskey = W
-
-cmd-install-addon =
-    .label = 安装
-    .accesskey = I
-
-cmd-contribute =
-    .label = 捐助
-    .accesskey = C
-    .tooltiptext = 捐助此附加组件的开发
 
 detail-version =
     .label = 版本
@@ -390,8 +338,6 @@ dictionary-disabled-heading = 已禁用
 
 locale-enabled-heading = 已启用
 locale-disabled-heading = 已禁用
-
-ask-to-activate-button = 需要时询问
 
 always-activate-button = 一律激活
 never-activate-button = 永不激活
