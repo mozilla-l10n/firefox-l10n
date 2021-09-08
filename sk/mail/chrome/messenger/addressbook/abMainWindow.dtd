@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Zavrieť okno">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "Z">
-<!ENTITY printSetupCmd.label                            "Nastavenie tlače…">
-<!ENTITY printSetupCmd.accesskey                        "a">
-<!ENTITY printPreviewContactCmd.label                   "Ukážka pred tlačou kontaktu">
-<!ENTITY printPreviewContactCmd.accesskey               "U">
-<!ENTITY printPreviewAddressBook.label                  "Ukážka pred tlačou adresára">
-<!ENTITY printPreviewAddressBook.accesskey              "e">
 <!ENTITY printContactCmd.label                          "Tlačiť kontakt…">
 <!ENTITY printContactCmd.accesskey                      "T">
 <!ENTITY printContactCmd.key                            "P">
@@ -111,10 +105,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exportovať…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                          "Možnosti">
-<!ENTITY preferencesCmd2.accesskey                      "M">
-<!ENTITY preferencesCmdUnix.label                       "Možnosti">
-<!ENTITY preferencesCmdUnix.accesskey                   "M">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Nový kontakt">

@@ -33,10 +33,11 @@
 <!ENTITY defaultZoom.label                      "Predvolená veľkosť">
 <!ENTITY defaultZoom.accesskey                  "d">
 
-<!ENTITY siteSpecific.label                     "Pamätať si nastavenie lupy pre každú stránku zvlášť">
-<!ENTITY siteSpecific.accesskey                 "n">
 <!ENTITY textZoomOnly.label                     "Meniť veľkosť textu namiesto celého obsahu stránok">
 <!ENTITY textZoomOnly.accesskey                 "e">
+<!ENTITY siteSpecific.label                     "Pamätať si nastavenie lupy pre každú stránku zvlášť">
+<!ENTITY siteSpecific.accesskey                 "n">
+<!ENTITY showZoomStatusPanel.label              "Zobraziť nastavenie priblíženia v stavovom riadku">
 <!ENTITY enableAutomaticImageResizing.label     "Meniť veľkosť veľkých obrázkov na veľkosť okna">
 <!ENTITY enableAutomaticImageResizing.accesskey "M">
 
@@ -45,4 +46,3 @@
 <!ENTITY blockAutoRefresh.label                 "Upozorniť, ak sa webová stránka pokúša o presmerovanie alebo obnovenie">
 <!ENTITY blockAutoRefresh.accesskey             "U">
 
-<!ENTITY showZoomStatusPanel.label              "Zobraziť nastavenie priblíženia v stavovom riadku">

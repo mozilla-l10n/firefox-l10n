@@ -2,16 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-refresh-profile-dialog =
-    .title = Obnovenie prehliadača { -brand-short-name }
-
 refresh-profile-dialog-title = Obnoviť { -brand-short-name } na pôvodné nastavenia?
 refresh-profile-dialog-button =
     .label = Obnoviť { -brand-short-name }
-refresh-profile-description = Začatím odznova opravíte problémy a obnovíte výkonnosť prehliadača.
-refresh-profile-description-details = Týmto:
-refresh-profile-remove = odstránite vaše doplnky a prispôsobenia
-refresh-profile-restore = obnovíte nastavenia prehliadača na ich predvolené hodnoty
 refresh-profile-dialog-description = Začnite znova a opravte problémy s výkonom. Týmto odstránite svoje rozšírenia a prispôsobenia. Neprídete o dôležité informácie, ako sú záložky a heslá.
 refresh-profile = Poupratuje si { -brand-short-name }
 refresh-profile-button = Obnoviť { -brand-short-name }…

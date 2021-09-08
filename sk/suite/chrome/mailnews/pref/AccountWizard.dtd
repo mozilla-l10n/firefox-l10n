@@ -17,9 +17,6 @@
 <!ENTITY accountTypeMail.accesskey "P">
 <!ENTITY accountTypeNews.label "Diskusný účet">
 <!ENTITY accountTypeNews.accesskey "D">
-<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
-<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
-<!ENTITY accountTypeMovemail.accesskey "U">
 
 <!-- Entities for Identity page -->
 

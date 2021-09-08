@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = Nastavenia aplikácie { -brand-short-name }
 
 open-addons-sidebar-button = Doplnky a témy
+

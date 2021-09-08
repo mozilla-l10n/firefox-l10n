@@ -17,7 +17,6 @@
     no longer used but we might bring it back later
 -->
 <!ENTITY askBeforeClear.label             "Pred odstránením súkromných údajov sa vždy opýtať">
-<!ENTITY askBeforeClear.accesskey         "o">
 
 <!ENTITY clearDataSettings.label          "Pri odstraňovaní súkromných údajov programu &brandShortName; odstrániť:">
 

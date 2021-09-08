@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Správca doplnkov
-
 addons-page-title = Správca doplnkov
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Podpora pre doplnky
 sidebar-help-button-title =
     .title = Podpora pre doplnky
 
-preferences =
-    { PLATFORM() ->
-        [windows] Možnosti aplikácie { -brand-short-name }
-       *[other] Možnosti aplikácie { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Možnosti aplikácie { -brand-short-name }
-           *[other] Možnosti aplikácie { -brand-short-name }
-        }
-
 addons-settings-button = Nastavenia { -brand-short-name }u
 sidebar-settings-button-title =
     .title = Nastavenia { -brand-short-name }u
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Zobraziť všetky rozšírenia
-
-cmd-show-details =
-    .label = Zobraziť ďalšie informácie
-    .accesskey = Z
-
-cmd-find-updates =
-    .label = Vyhľadať aktualizácie
-    .accesskey = h
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Možnosti
-           *[other] Možnosti
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] M
-           *[other] M
-        }
-
-cmd-enable-theme =
-    .label = Použiť tému
-    .accesskey = m
-
-cmd-disable-theme =
-    .label = Zrušiť tému
-    .accesskey = m
-
-cmd-install-addon =
-    .label = Nainštalovať
-    .accesskey = N
-
-cmd-contribute =
-    .label = Prispieť
-    .accesskey = r
-    .tooltiptext = Prispieť na vývoj tohto doplnku
 
 detail-version =
     .label = Verzia
@@ -402,8 +350,6 @@ dictionary-disabled-heading = Zakázané slovníky
 
 locale-enabled-heading = Povolené jazyky
 locale-disabled-heading = Zakázané jazyky
-
-ask-to-activate-button = Vyžiadať aktivovanie
 
 always-activate-button = Vždy aktivovať
 never-activate-button = Nikdy neaktivovať

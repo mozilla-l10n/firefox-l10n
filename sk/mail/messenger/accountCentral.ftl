@@ -55,9 +55,6 @@ import-label = Importovať
 
 about-paragraph = Thunderbird je dôležitý open source a multiplatformový e-mailový klient s funkciou kalendára, ktorý je zadarmo pre osobné použitie i pre firmy. Chceme, aby ostal bezpečný a neustále sa zlepšoval. Príspevok nám umožní najať vývojárov, zaplatiť za infraštruktúru a pomôže nám rozvíjať sa.
 
-about-paragraph-2 = <b>Thunderbird je financovaný používateľmi, ako ste vy! Ak máte radi Thunderbird, zvážte poskytnutie príspevku. </b> Najlepším spôsobom, ako zaistiť, že Thunderbird ostane k dispozícii, je
-about-donation = poskytnutie príspevku
-
 about-paragraph-consider-donation = <b>Thunderbird je financovaný používateľmi ako ste vy! Ak sa vám Thunderbird páči, zvážte poskytnutie príspevku.</b> Najlepším spôsobom, ako sa môžete uistiť, že Thunderbird ostane dostupný aj naďalej je <a data-l10n-name="donation-link">poskytnutie príspevku.</a>
 
 explore-link = Spoznajte funkcie

@@ -19,9 +19,6 @@ auth-your-fp-value = Odtlačok prsta pre vás, { $own_name }:
 auth-their-fp-value = Odtlačok prsta pre { $their_name }:
 
 auth-help = Overenie totožnosti kontaktu pomáha zabezpečiť, aby bola konverzácia skutočne súkromná, čo tretej strane veľmi sťažuje odpočúvanie alebo manipuláciu s ňou.
-auth-helpTitle = Pomoc s overením
-
-auth-questionReceived = Toto je otázka, ktorú vám položil váš kontakt:
 
 auth-help-title = Pomoc s overením
 
@@ -34,21 +31,6 @@ auth-no =
     .label = Nie
 
 auth-verified = Overil som, že ide v skutočnosti o správny odtlačok prsta.
-
-auth-manualVerification = Manuálne overenie odtlačku prsta
-auth-questionAndAnswer = Otázka a odpoveď
-auth-sharedSecret = Zdieľané tajomstvo
-
-auth-manualVerification-label =
-    .label = { auth-manualVerification }
-
-auth-questionAndAnswer-label =
-    .label = { auth-questionAndAnswer }
-
-auth-sharedSecret-label =
-    .label = { auth-sharedSecret }
-
-auth-manualInstruction = Kontaktujte svojho zamýšľaného partnera pre konverzáciu prostredníctvom iného overeného kanála, napríklad e-mailovou správou šifrovanou pomocou OpenPGP alebo cez telefón. Mali by ste si navzájom povedať svoje odtlačky prstov (odtlačok prsta je kontrolný súčet, ktorý identifikuje šifrovací kľúč). Ak sa odtlačok prsta zhoduje, mali by ste v dialógovom okne nižšie uviesť, že ste odtlačok prsta overili.
 
 auth-manual-verification = Manuálne overenie odtlačku prsta
 auth-question-and-answer = Otázka a odpoveď
@@ -66,10 +48,6 @@ auth-shared-secret-label =
 auth-manual-instruction = Kontaktujte svojho zamýšľaného partnera pre konverzáciu prostredníctvom iného overeného kanála, napríklad e-mailovou správou šifrovanou pomocou OpenPGP alebo cez telefón. Mali by ste si navzájom povedať svoje odtlačky prstov (odtlačok prsta je kontrolný súčet, ktorý identifikuje šifrovací kľúč). Ak sa odtlačok prsta zhoduje, mali by ste v dialógovom okne nižšie uviesť, že ste odtlačok prsta overili.
 
 auth-how = Ako chcete overiť totožnosť svojho kontaktu?
-
-auth-qaInstruction = Popremýšľajte o otázke, na ktorú viete odpoveď iba vy a váš kontakt. Zadajte otázku a odpoveď a potom počkajte, kým odpoveď zadá váš kontakt. Ak sa odpovede nezhodujú, komunikačný kanál, ktorý používate, môže byť pod dohľadom.
-
-auth-secretInstruction = Popremýšľajte o tajomstve, na ktoré poznáte iba vy a váš kontakt. Na výmenu tajomstva nepoužívajte rovnaké pripojenie na internet. Zadajte tajomstvo a potom počkajte, kým ho zadá váš kontakt. Ak sa tajomstvá nezhodujú, komunikačný kanál, ktorý používate, môže byť pod dohľadom.
 
 auth-qa-instruction = Popremýšľajte o otázke, na ktorú viete odpoveď iba vy a váš kontakt. Zadajte otázku a odpoveď a potom počkajte, kým odpoveď zadá váš kontakt. Ak sa odpovede nezhodujú, komunikačný kanál, ktorý používate, môže byť pod dohľadom.
 

@@ -9,8 +9,6 @@
 
 process-type-web = Webový obsah
 
-process-type-browser = Hlavný
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Privilegované about stránky

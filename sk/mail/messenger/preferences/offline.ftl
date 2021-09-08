@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Automaticky použiť zistený stav online/offline
     .accesskey = m
 
-startup-label = Pri štarte použiť režim:
-
 offline-preference-startup-label = Pri štarte použiť režim:
 
 status-radio-remember =

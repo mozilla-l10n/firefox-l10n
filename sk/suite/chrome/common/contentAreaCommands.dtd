@@ -3,12 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label     "Zakázať vyskakovacie okná z tejto stránky">
-<!ENTITY popupWindowRejectCmd.accesskey "k">
-<!ENTITY popupWindowAllowCmd.label      "Povoliť vyskakovacie okná z tejto stránky">
-<!ENTITY popupWindowAllowCmd.accesskey  "k">
-
-<!-- Context Menu -->
 <!ENTITY openLinkCmdInTab.label       "Otvoriť odkaz na novej karte">
 <!ENTITY openLinkCmdInTab.accesskey   "k">
 <!ENTITY openLinkCmd.label            "Otvoriť odkaz v novom okne">

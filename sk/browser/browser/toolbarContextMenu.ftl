@@ -20,15 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Vybrať všetky karty
     .accesskey = V
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Obnoviť zatvorenú kartu
-            [one] Obnoviť zatvorenú kartu
-            [few] Obnoviť zatvorené karty
-           *[other] Obnoviť zatvorené karty
-        }
-    .accesskey = b
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -60,9 +51,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Pripnúť do rozširujúcej ponuky
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Automaticky skryť v paneli nástrojov
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Skryť, ak je zoznam prázdny
     .accesskey = z

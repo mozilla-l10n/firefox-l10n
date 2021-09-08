@@ -9,9 +9,6 @@ third-party-intro =
     Táto stránka zobrazuje moduly tretích strán, ktoré boli vložené do vašej inštalácie { -brand-short-name(case: "gen") }. Za modul tretej strany sa považuje akýkoľvek modul, ktorý nie je podpísaný spoločnosťou Microsoft alebo 
     { -vendor-short-name }.
 
-third-party-header-module-list = Zoznam modulov
-third-party-header-loading-events = Načítavajú sa udalosti
-
 third-party-message-empty = Neboli zistené žiadne moduly tretích strán.
 third-party-message-no-duration = Nezaznamenaná
 

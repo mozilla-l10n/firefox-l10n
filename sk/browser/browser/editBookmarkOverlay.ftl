@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-bookmark-overlay-name =
-    .value = Názov:
-    .accesskey = N
-
-bookmark-overlay-location =
-    .value = Adresa:
-    .accesskey = A
-
-bookmark-overlay-folder =
-    .value = Priečinok:
-
 bookmark-overlay-name-2 =
     .value = Názov
     .accesskey = N
@@ -39,10 +28,6 @@ bookmark-overlay-new-folder-button =
     .label = Nový priečinok
     .accesskey = o
 
-bookmark-overlay-tags =
-    .value = Značky:
-    .accesskey = Z
-
 bookmark-overlay-tags-2 =
     .value = Značky
     .accesskey = Z
@@ -54,10 +39,6 @@ bookmark-overlay-tags-expander =
     .tooltiptext = Zobrazí všetky značky
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Skryť
-
-bookmark-overlay-keyword =
-    .value = Kľúčové slovo:
-    .accesskey = K
 
 bookmark-overlay-keyword-2 =
     .value = Kľúčové slovo

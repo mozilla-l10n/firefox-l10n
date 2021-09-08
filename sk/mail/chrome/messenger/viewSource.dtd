@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Uložiť stránku ako…">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Nastavenie tlače…">
-<!ENTITY pageSetupCmd.accesskey "v">
-<!ENTITY printPreviewCmd.label "Ukážka pred tlačou">
-<!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printCmd.label "Tlačiť…">
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.commandkey "P">
