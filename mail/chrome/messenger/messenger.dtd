@@ -59,10 +59,6 @@
 <!ENTITY printCmd.label "چاپ…">
 <!ENTITY printCmd.accesskey "چ">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "پیش‌نمای چاپ">
-<!ENTITY printPreviewCmd.accesskey "پ">
-<!ENTITY printSetupCmd.label "تنظیم صفحه…">
-<!ENTITY printSetupCmd.accesskey "ت">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Delete Message">
@@ -366,8 +362,6 @@
 <!ENTITY messengerCmd.accesskey "M">
 <!ENTITY addressBookCmd.label "Address Book">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY addons.label "افزودنی‌ها">
-<!ENTITY addons.accesskey "ا">
 <!ENTITY activitymanager.label "Activity Manager">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY imAccountsStatus.label "وضعیت گفت‌وگو">
@@ -413,13 +407,9 @@
 <!ENTITY previousButton.label "قبلی">
 <!ENTITY backButton1.label "عقب">
 <!ENTITY goForwardButton1.label "جلو">
-<!ENTITY deleteButton.label "حذف">
-<!ENTITY undeleteButton.label "Undelete">
 <!ENTITY markButton.label "Mark">
 <!ENTITY printButton.label "چاپ">
 <!ENTITY throbberItem.title "شاخص فعالیت">
-<!ENTITY junkButton.label "Junk">
-<!ENTITY notJunkButton.label "Not Junk">
 <!ENTITY addressBookButton.label "Address Book">
 <!ENTITY chatButton.label "گفت‌وگو">
 <!ENTITY glodaSearch.title "Global Search">
@@ -443,13 +433,9 @@
 <!ENTITY previousButton.tooltip "Move to the previous unread message">
 <!ENTITY goForwardButton.tooltip "Go forward one message">
 <!ENTITY goBackButton.tooltip "Go back one message">
-<!ENTITY deleteButton.tooltip "Delete selected message or folder">
-<!ENTITY undeleteButton.tooltip "Undelete selected message">
 <!ENTITY markButton.tooltip "Mark messages">
 <!ENTITY printButton.tooltip "Print this message">
 <!ENTITY stopButton.tooltip "Stop the current transfer">
-<!ENTITY junkButton.tooltip "Mark the selected messages as junk">
-<!ENTITY notJunkButton.tooltip "Mark the selected messages as not junk">
 <!ENTITY addressBookButton.tooltip "Go to the address book">
 <!ENTITY chatButton.tooltip "نمایش سربرگ گفت‌وگو">
 <!ENTITY tagButton.tooltip "Tag messages">

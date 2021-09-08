@@ -35,9 +35,6 @@ connection-proxy-http = پروکسی HTTP
     .accesskey = x
 connection-proxy-http-port = درگاه
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = از این پروکسی برای FTP و HTTPS نیز استفاده شود
-    .accesskey = s
 
 connection-proxy-https-sharing =
     .label = از این پروکسی برای HTTPS نیز استفاده شود
@@ -47,11 +44,6 @@ connection-proxy-https = پروکسی HTTPS
     .accesskey = H
 connection-proxy-ssl-port = درگاه
     .accesskey = o
-
-connection-proxy-ftp = پروکسی FTP
-    .accesskey = F
-connection-proxy-ftp-port = درگاه
-    .accesskey = r
 
 connection-proxy-socks = کارگزار SOCKS
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = بدون پروکسی برای
     .accesskey = n
 
 connection-proxy-noproxy-desc = مثال: ‎.mozilla.org،‏ ‎.net.zv، ‏‬‪192.168.1.0/24‬
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = ارتباط با localhost، 127.0.0.1، و ::1 هیچوقت پروکسی نمی‌شوند.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = اتصال‌ها به localhost ، 127.0.0.1/8 و ::1 هرگز پراکسی نمی‌شوند.

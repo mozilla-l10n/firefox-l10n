@@ -3,13 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] گزینه‌ها
-           *[other] ترجیحات
-        }
-
 pane-compose-title = Composition
 category-compose =
     .tooltiptext = Composition
@@ -144,9 +137,6 @@ bigger-size-item =
     .label = Bigger
 smaller-size-item =
     .label = Smaller
-
-search-input =
-    .placeholder = جست‌وجو
 
 choose-folder-label =
     .label =

@@ -19,44 +19,7 @@ certmgr-tab-ca =
 
 certmgr-mine = شما گواهینامه‌ هایی از شرکت هایی دارید که شما هویت شما را میشناسند
 certmgr-people = شما گواهینامه ای روی این پرونده دارید که این افراد را می شناسد
-certmgr-servers = شما گواهینامه هایی روی این پرونده دارید که سرو‌رها را میشناسد
 certmgr-ca = شما گواهینامه هایی روی این پرونده دارید که مسئولین این گواهینامه‌ها را میشناسد
-
-certmgr-detail-general-tab-title =
-    .label = عمومی
-    .accesskey = ع
-
-certmgr-detail-pretty-print-tab-title =
-    .label = جزئیات
-    .accesskey = ج
-
-certmgr-pending-label =
-    .value = در حال تأیید گواهی‌ها…
-
-certmgr-subject-label = صادر شده برای
-
-certmgr-issuer-label = صادر شده توسط
-
-certmgr-period-of-validity = مدت اعتبار
-
-certmgr-fingerprints = اثر انگشت
-
-certmgr-cert-detail =
-    .title = جزئیات گواهی
-    .buttonlabelaccept = بستن
-    .buttonaccesskeyaccept = س
-
-certmgr-cert-detail-commonname = نام معمول (CN)
-
-certmgr-cert-detail-org = سازمان (O)
-
-certmgr-cert-detail-orgunit = واحد سازمانی (OU)
-
-certmgr-cert-detail-serial-number = شمارهٔ سریال
-
-certmgr-cert-detail-sha-256-fingerprint = اثر انگشت SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = اثر انگشت SHA1
 
 certmgr-edit-ca-cert =
     .title = ویرایش تنظیمات اعتماد به مرجع صدور گواهی
@@ -86,12 +49,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = دستگاه امنیتی
 
-certmgr-begins-on = آغاز می شود در
-
 certmgr-begins-label =
     .label = آغاز می شود در
-
-certmgr-expires-on = تاریخ انقضا
 
 certmgr-expires-label =
     .label = تاریخ انقضا
@@ -133,18 +92,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = وارد کردن…
     .accesskey = و
-
-certmgr-details =
-    .value = فیلدهای گواهی
-    .accesskey = ف
-
-certmgr-fields =
-    .value = مقدار فیلد
-    .accesskey = م
-
-certmgr-hierarchy =
-    .value = سلسه‌مراتب گواهی‌ها
-    .accesskey = H
 
 certmgr-add-exception =
     .label = افزودن استثنا…
@@ -208,12 +155,6 @@ delete-user-cert-confirm = آیا مطمئنید که می‌خواهید این
 delete-user-cert-impact = اگر یکی از گواهی‌های خودتان را حذف کنید، دیگر نمی‌توانید برای تأیید هویت خودتان از آن استفاده کنید.
 
 
-delete-ssl-cert-title =
-    .title = حذف استثناء گواهی کارگزار
-delete-ssl-cert-confirm = آیا از حذف این استثناهای کارگزار اطمینان دارید؟
-delete-ssl-cert-impact = اگر استثناء یک کارگزار را حذف کنید، بررسی‌های معمول امنیتی برای آن کارگزار از سر گرفته خواهد شد، و باید از یک گواهی معتبر استفاده نماید.
-
-
 delete-ca-cert-title =
     .title = حذف یا سلب اعتماد از گواهی یک مرجع صدور
 delete-ca-cert-confirm = شما درخواست حذف این گواهی‌ها را کرده‌اید. گواهی‌های از پیش موجود مورد عدم اعتماد قرار می‌گیرند که همان اثر را دارد.  آیا از حذف یا عدم اعتماد به این گواهی‌ها اطمینان دارید؟
@@ -233,45 +174,6 @@ cert-with-serial =
     .value = گواهینامه با شماره سریال: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = نمایش دهنده گواهینامه:“{ $certName }”
-
-not-present =
-    .value = <جزء گواهی نیست>
-
-# Cert verification
-cert-verified = این گواهی اعتبارسنجی شده و استفاده از آن برای مقاصد زیر تأیید می‌شود:
-
-# Add usage
-verify-ssl-client =
-    .value = گواهی کارگیر SSL
-
-verify-ssl-server =
-    .value = گواهی کارگزار SSL
-
-verify-ssl-ca =
-    .value = اعتبار گواهی SSL
-
-verify-email-signer =
-    .value = گواهی امضا کنندهٔ پست الکترونیک
-
-verify-email-recip =
-    .value = گواهی دریافت کنندهٔ پست الکترونیک
-
-# Cert verification
-cert-not-verified-cert-revoked = نمی‌توان اعتبار این گواهی را سنجید چون ملغی شده است.
-cert-not-verified-cert-expired = نمی‌توان اعتبار این گواهی را سنجید چون منقضی شده است.
-cert-not-verified-cert-not-trusted = نمی‌توان اعتبار این گواهی را سنجید چون مورد اعتماد نیست.
-cert-not-verified-issuer-not-trusted = نمی‌توان اعتبار این گواهی را سنجید چون صادر کنندهٔ آن مورد اعتماد نیست.
-cert-not-verified-issuer-unknown = نمی‌توان اعتبار این گواهی را سنجید چون صادر کنندهٔ آن نامعلوم است.
-cert-not-verified-ca-invalid = نمی‌توان اعتبار این گواهی را سنجید چون مرجع صدور آن نامعتبر است.
-cert-not-verified_algorithm-disabled = این گواهینامه به دلیل‌ امضا شدن توسط الگوریتمی که به دلیل امن نبودن غیر فعال شده است غیرقابل اطمینان می‌باشد.
-cert-not-verified-unknown = به دلایل نامعلوم نمی‌توان اعتبار این گواهی را سنجید.
 
 ## Used to show whether an override is temporary or permanent
 

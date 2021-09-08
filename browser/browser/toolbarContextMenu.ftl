@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = انتخاب همه‌ی زبانه‌ها
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] برگرداندن زبانهٔ بسته شده
-           *[other] برگرداندن زبانه‌های بسته شده
-        }
-    .accesskey = ب
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = سنجاق کردن به منو شناور
     .accesskey = س
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = مخفی کردن خودکار در نوارابزار
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = مخفی کردن دکمه هنگام خالی بودن
     .accesskey = م

@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = حذف همه سایت‌ها
     .accesskey = ه
 
-translation-button-close =
-    .label = بستن‌
-    .accesskey = ب
-
 translation-dialog =
     .buttonlabelaccept = بستن‌
     .buttonaccesskeyaccept = ب

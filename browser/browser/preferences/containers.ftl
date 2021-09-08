@@ -5,11 +5,6 @@
 containers-window-new =
     .title = افزودن حامل جدید
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name }ترجیحات حامل
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = شمایل
 containers-color-label = رنگ
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = انجام شد
-    .accesskey = ا
 
 containers-dialog =
     .buttonlabelaccept = انجام شد

@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = نشانک‌گذاری زبانه
     .accesskey = B
-reopen-in-container =
-    .label = باز کردن دوباره در محفظه
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = باز کردن در محفظهٔ جدید
     .accesskey = ک
@@ -69,25 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = بستن چندین زبانه
     .accesskey = M
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] برگرداندن زبانه بسته شده
-           *[other] برگرداندن زبانه‌های بسته شده
-        }
-    .accesskey = U
-close-tab =
-    .label = بستن زبانه
-    .accesskey = ب
-close-tabs =
-    .label = بستن زبانه‌ها
-    .accesskey = S
-move-tabs =
-    .label = انتقال زبانه‌ها
-    .accesskey = v
-move-tab =
-    .label = انتقال زبانه
-    .accesskey = v
 tab-context-share-url =
     .label = همرسانی
     .accesskey = h
@@ -125,6 +103,7 @@ tab-context-move-tabs =
            *[other] جابجایی زبانه‌ها
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

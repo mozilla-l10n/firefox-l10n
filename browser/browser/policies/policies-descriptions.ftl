@@ -45,8 +45,6 @@ policy-DisableForgetButton = دسترسی به دکمه فراموش کردن ر
 
 policy-DisableFormHistory = جستجو وتاریخچه فرم را به خاطر نسپار.
 
-policy-DisableMasterPasswordCreation = اگر درست باشد، گذرواژه اصلی نمی‌تواند ایجاد شود.
-
 policy-DisablePocket = ویژگی ذخیره کردن صفحات وب در Pocket را غیرفعال کن.
 
 policy-DisablePrivateBrowsing = مرور ناشناس را غیرفعال کن.

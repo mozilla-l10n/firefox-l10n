@@ -28,12 +28,6 @@
 <!ENTITY closeCmd.label                                 "بستن">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "ب">
-<!ENTITY printSetupCmd.label                            "تنظیم صفحه…">
-<!ENTITY printSetupCmd.accesskey                        "ت">
-<!ENTITY printPreviewContactCmd.label                   "پیش‌نمایش چاپ مخاطب">
-<!ENTITY printPreviewContactCmd.accesskey               "پ">
-<!ENTITY printPreviewAddressBook.label                  "Print Preview Address Book">
-<!ENTITY printPreviewAddressBook.accesskey              "B">
 <!ENTITY printContactCmd.label                          "چاپ مخاطب...">
 <!ENTITY printContactCmd.accesskey                      "چ">
 <!ENTITY printContactCmd.key                            "P">
@@ -96,10 +90,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "و">
 <!ENTITY exportCmd.label                                "صادر کردن…">
 <!ENTITY exportCmd.accesskey                            "ص">
-<!ENTITY preferencesCmd2.label                          "گزینه‌ها">
-<!ENTITY preferencesCmd2.accesskey                      "گ">
-<!ENTITY preferencesCmdUnix.label                       "ترجیحات">
-<!ENTITY preferencesCmdUnix.accesskey                   "ت">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "مخاطب جدید">
