@@ -72,6 +72,7 @@ cfr-doorhanger-pintab-animation-resume = Давом додан
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Хатбаракҳои худро дар куҷое, ки набошед, ҳамоҳанг кунед.
+cfr-doorhanger-bookmark-fxa-body = Бозёфти олӣ! Акнун дар дастгоҳҳои мобилии худ бе ин хатбарак намонед. Бо { -fxaccount-brand-name } оғоз кунед.
 cfr-doorhanger-bookmark-fxa-link-text = Хатбаракҳо ҳозир ҳамоҳанг карда шаванд…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Тугмаи «Пӯшидан»
@@ -80,6 +81,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Тамошокунӣ бе пайгирӣ
+cfr-protections-panel-body = Маълумоти худро бо худ нигоҳ доред. { -brand-short-name } шуморо аз бисёр васоити пайгирие, ки фаъолияти шуморо дар онлайн пайгирӣ мекунанд, муҳофизат менамояд.
 cfr-protections-panel-link-text = Маълумоти бештар
 
 ## What's New toolbar button and panel
@@ -92,6 +94,7 @@ cfr-whatsnew-button =
     .tooltiptext = Чӣ нав аст
 cfr-whatsnew-panel-header = Чӣ нав аст
 cfr-whatsnew-release-notes-link-text = Қайдҳои бароришро хонед
+cfr-whatsnew-fx70-title = Акнун { -brand-short-name } барои махфияти шумо сахттар мубориза мекунад
 cfr-whatsnew-tracking-protect-title = Худро аз васоити пайгирӣ муҳофизат намоед
 cfr-whatsnew-tracking-protect-link-text = Намоиш додани гузориши ман
 # This string is displayed before a large numeral that indicates the total
