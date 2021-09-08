@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = 自動使用偵測到的連線狀態
     .accesskey = d
 
-startup-label = 啟動時手動指定狀態:
-
 offline-preference-startup-label = 啟動時手動指定狀態:
 
 status-radio-remember =

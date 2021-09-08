@@ -90,8 +90,6 @@ perftools-thread-img-decoder =
     .title = 圖片解碼執行緒
 perftools-thread-dns-resolver =
     .title = DNS 解析會發生在此執行緒
-perftools-thread-js-helper =
-    .title = JS 引擎的背景工作，例如非主執行緒編譯（off-main-thread compile）
 
 perftools-thread-task-controller =
     .title = TaskController 執行緒池當中的執行緒

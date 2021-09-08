@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = 書籤
+
 sidebar-menu-history =
     .label = 歷史
+
 sidebar-menu-synced-tabs =
     .label = 同步的分頁
+
 sidebar-menu-close =
     .label = 關閉側邊欄
+
 sidebar-close-button =
     .tooltiptext = 關閉側邊欄

@@ -35,9 +35,6 @@ connection-proxy-http = HTTP Proxy
     .accesskey = x
 connection-proxy-http-port = 埠
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = 也針對 FTP 與 HTTPS 連線使用此代理伺服器
-    .accesskey = s
 
 connection-proxy-https-sharing =
     .label = 也針對 HTTPS 連線使用此代理伺服器
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS Proxy
     .accesskey = H
 connection-proxy-ssl-port = 埠
     .accesskey = o
-
-connection-proxy-ftp = FTP Proxy
-    .accesskey = F
-connection-proxy-ftp-port = 埠
-    .accesskey = r
 
 connection-proxy-socks = SOCKS 主機
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = 直接連線
     .accesskey = n
 
 connection-proxy-noproxy-desc = 範例: .mozilla.org, .net.tw, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = 與 localhost、127.0.0.1 與 ::1 的連線永遠不會經過代理伺服器。
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = 與 localhost、127.0.0.1/8 與 ::1 的連線永遠不會經過代理伺服器。

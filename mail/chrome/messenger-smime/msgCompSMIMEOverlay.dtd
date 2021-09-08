@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "對此郵件加上數位簽章">
 <!ENTITY menu_securitySign.accesskey "M">
 
-<!ENTITY menu_securityAttachMyKey.label "附加我的公鑰">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "加密技術">
 <!ENTITY menu_securityTech.accesskey "T">
 

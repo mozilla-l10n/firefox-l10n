@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = 移除所有網站
     .accesskey = e
 
-permissions-button-cancel =
-    .label = 取消
-    .accesskey = C
-
-permissions-button-ok =
-    .label = 儲存變更
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = 儲存變更
     .buttonaccesskeyaccept = S

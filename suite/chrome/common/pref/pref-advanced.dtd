@@ -5,11 +5,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title              "進階">
 
-<!ENTITY systemPref.caption               "系統設定">
-<!ENTITY systemPrefCheck.label            "使用系統的設定">
-<!ENTITY systemPrefCheck.accesskey        "U">
-<!ENTITY systemPref.desc                  "勾選此項以使用系統設定取代 &brandShortName; 的設定">
-
 <!ENTITY prefCheckDefault.caption         "系統整合">
 <!ENTITY prefCheckDefaultClient.label     "檢查啟動時的預設應用程式設定">
 <!ENTITY prefCheckDefaultClient.accesskey "C">

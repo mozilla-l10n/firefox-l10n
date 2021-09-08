@@ -5,13 +5,6 @@
 close-button =
     .aria-label = 關閉
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] 選項
-           *[other] 偏好設定
-        }
-
 preferences-doc-title = 偏好設定
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = 捨棄 (&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 繼續 (&C)
 
-addons-button = 擴充套件與佈景主題
-
 account-button = 帳號設定
 open-addons-sidebar-button = 附加元件與佈景主題
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = 請在下方輸入您的 Windows 登入帳號密碼才能建立主控密碼。這個動作是為了保護您的登入資訊安全。
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = 建立主控密碼
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = 請在下方輸入您的 Windows 登入帳號密碼才能建立主控密碼。這個動作是為了保護您的登入資訊安全。
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = 自訂…
     .accesskey = C
-
-tray-icon-label =
-    .label = 顯示工具列圖示
-    .accesskey = t
 
 biff-use-system-alert =
     .label = 使用系統通知
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = 色彩:
     .accesskey = o
-
-search-input =
-    .placeholder = 搜尋
 
 search-handler-table =
     .placeholder = 篩選內容類型與動作
@@ -723,16 +698,6 @@ passwords-button =
     .label = 已存密碼…
     .accesskey = S
 
-master-password-description = 主控密碼可以保護您的密碼，但您每個作業階段時都必須輸入它一次。
-
-master-password-label =
-    .label = 使用主控密碼
-    .accesskey = U
-
-master-password-button =
-    .label = 變更主控密碼…
-    .accesskey = c
-
 
 primary-password-description = 主控密碼可以保護您的密碼，但在每次使用瀏覽器時都必須輸入一次。
 
@@ -913,26 +878,6 @@ no-preview-description = 此佈景主題無效，或無法使用（停用了附�
 chat-variant-label =
     .value = 設計風格:
     .accesskey = V
-
-chat-header-label =
-    .label = 顯示標題
-    .accesskey = H
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] 搜尋選項
-           *[other] 搜尋偏好設定
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

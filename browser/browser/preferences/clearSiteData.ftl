@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = 將重新載入網站的圖片與資料
 
-clear-site-data-cancel =
-    .label = 取消
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = 清除
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = 清除
     .buttonaccesskeyaccept = l

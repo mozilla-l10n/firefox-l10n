@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = 選擇所有分頁
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] 復原已關閉分頁
-           *[other] 復原已關閉分頁
-        }
-    .accesskey = U
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = 釘選到收藏選單
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = 於工具列自動隱藏
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = 無內容時隱藏按鈕
     .accesskey = H
