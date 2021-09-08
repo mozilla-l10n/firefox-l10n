@@ -85,7 +85,7 @@ downloads-cmd-clear-list =
     .accesskey = κ
 downloads-cmd-clear-downloads =
     .label = Απαλοιφή λήψεων
-    .accesskey = θ
+    .accesskey = λ
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Αποδοχή λήψης
