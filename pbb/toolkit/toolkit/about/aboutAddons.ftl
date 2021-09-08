@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Jxkaan kãajãwa'ja's
-
 addons-page-title = Jxkaan kãajãwa'ja's
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Nuyjxujanxisa's jxuka kthẽgun
-
-cmd-show-details =
-    .label = Kthẽgun jweiçxaa pta'sxna
-    .accesskey = K
-
-cmd-find-updates =
-    .label = & Yu'pthẽwa'ja's pakwen
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Kuh jwed
-           *[other] Txhitxwa'j
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] K
-           *[other] T
-        }
-
-cmd-enable-theme =
-    .label = Kseelpihna puutxwe'wen
-    .accesskey = K
-
-cmd-disable-theme =
-    .label = Nvxithna & kçxhaçxhan vxisna
-    .accesskey = W
-
-cmd-install-addon =
-    .label = Çxkitxãna
-    .accesskey = Ç
-
-cmd-contribute =
-    .label = & Pu'çxna
-    .accesskey = C
-    .tooltiptext = Pu'çxya txãa kãjanxisa's pheu'nu'khan
 
 detail-version =
     .label = Yu'pthẽhn fxiy fxiy kthẽgun

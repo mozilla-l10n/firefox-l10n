@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,9 +48,6 @@ main-context-menu-page-save =
     .label = Ma'h jxawnah…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -81,10 +66,6 @@ main-context-menu-open-link-new-private-window =
     .label = Phanden çxhunden ki'ki'n teeçx & u'sesa's
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = Txipupnxisatx jxukhnxisatx kãjana
-    .accesskey = j
-
 main-context-menu-save-link =
     .label = Na'we jxukhnxitx jxawna…
     .accesskey = k
@@ -100,10 +81,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Kapsxidun pisanxi web-te jxu'ju fxi'nxi.
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = Psidna txãa dxijas jxukhna
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -154,29 +131,9 @@ main-context-menu-image-reload =
     .label = Pisanxi's ktusehn
     .accesskey = P
 
-main-context-menu-image-view =
-    .label = Thegn pisanxi's
-    .accesskey = p
-
-main-context-menu-video-view =
-    .label = Kẽsehn kutxihnxi's thegn
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = Kapsxidun piisanxi's
     .accesskey = K
-
-main-context-menu-image-copy-location =
-    .label = Kapsxidu pisanxi dxi'ha's
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Kapsxidu pisanxi dxi'ha's
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Kapsxidu pisanxi dxi'ha's
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = Na'we pisanxitx jxawna…
@@ -185,10 +142,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Pisanxi's kahna…
     .accesskey = P
-
-main-context-menu-image-set-as-background =
-    .label = Txa'we txikhenaw dxijuy txtee fxi'jhnxisanaw
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = Txãa pisanxi's ta'sxçx thegn
@@ -206,10 +159,6 @@ main-context-menu-audio-save-as =
     .label = Jxawna na'wẽ kapnasa's thegnxisa…
     .accesskey = n
 
-main-context-menu-video-image-save-as =
-    .label = Jxawna kanasajnh uwenxi's txawena…
-    .accesskey = S
-
 main-context-menu-video-email =
     .label = Kẽsehn kutxihnxi's kahna…
     .accesskey = a
@@ -225,10 +174,6 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Paçte na's Kãjãya'
     .accesskey = H
-
-main-context-menu-view-background-image =
-    .label = Dxijuy pisanxi's thegn
-    .accesskey = D
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -288,10 +233,6 @@ main-context-menu-view-page-source =
     .label = Thegna paçte dxijuy txãa thegnxisa's
     .accesskey = T
 
-main-context-menu-view-page-info =
-    .label = Ta'sxnxi's thegn& txãa paynxite
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = Nxu'pthena dxijanxisa txtee paynxi's
     .accesskey = d
@@ -300,10 +241,7 @@ main-context-menu-bidi-switch-page =
     .label = Nxu'pthena dxijanxi's vxite kaskhewũjhnxi's
     .accesskey = d
 
-main-context-menu-inspect-element =
-    .label = Kãjanxisatx pakwen
-    .accesskey = I
-
 main-context-menu-eme-learn-more =
     .label = Na's wejxiçxa mbiyawe txtee DRM…
     .accesskey = D
+

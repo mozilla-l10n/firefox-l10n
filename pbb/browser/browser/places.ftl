@@ -5,31 +5,9 @@
 places-open =
     .label = Phaden
     .accesskey = P
-places-open-tab =
-    .label = Phaden vxite u'sesa's
-    .accesskey = u
 places-open-all-in-tabs =
     .label = Jxuka kaskhewujnxite çehk phaden
     .accesskey = J
-places-open-window =
-    .label = Phaden vxite vxitx le'çxkwes
-    .accesskey = P
-places-open-private-window =
-    .label = Paçte vxitx le'çxkwes phaden
-    .accesskey = P
-
-places-new-bookmark =
-    .label = U'se txi'pnxisa…
-    .accesskey = U
-places-new-folder-contextmenu =
-    .label = U'se eç jxawnxisa…
-    .accesskey = F
-places-new-folder =
-    .label = U'se eç jxawnxisa…
-    .accesskey = U
-places-new-separator =
-    .label = U'se txudesa
-    .accesskey = U
 
 places-view =
     .label = Thegna
@@ -56,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Yase isa phewuhn
     .accesskey = r
-places-properties =
-    .label = Petxjĩçekh
-    .accesskey = P
 

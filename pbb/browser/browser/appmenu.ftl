@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Pekxkĩiçxaa
-
 ## Zoom Controls
 
 appmenuitem-new-window =
@@ -22,12 +19,12 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Ãçxh kãjãdan
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Phadenxii meeta
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Phewujnxisa ki'tanxi ũsa' na' thegya ewuna yasetxih vxite vxisnxijuy.
+
 appmenuitem-save-page =
     .label = Ma'h jxawnah…
 

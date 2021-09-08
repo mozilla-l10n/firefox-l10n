@@ -7,8 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY appmenu.tooltip                     "Eça's pha'ndena">
-
 <!ENTITY navbarOverflow.label                "Jwee vxiswa'j...">
 
 <!-- Tab context menu -->
@@ -18,8 +16,6 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
-<!ENTITY  pinTab.label                       "Txundenxitx thegna">
 
 
 
@@ -36,9 +32,6 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Pheu'nxisa's txe &amp; khukhna">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY personalbarCmd.label "Pheu'çx mjinxi's txi'khnxisa' txe txi'pupnxa'çxa">
-<!ENTITY personalbarCmd.accesskey "P">
-<!ENTITY bookmarksToolbarItem.label "Mjiçx kaja'nxisa txi'pupnxita'">
 
 <!ENTITY fullScreenCmd.label "Jxuka the'gnxisa">
 
@@ -49,30 +42,15 @@ can reach it easily. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "Ãçx jxukate theguna'w">
-<!ENTITY fullscreenWarning.generic.label "Naa eç pejxinxi' ãçxa'h jxukate ũsa'">
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
-<!ENTITY exitDOMFullscreen.button "Kasehn txãa jxuka thegnxisate (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Kasehn txãa jxuka thegnxisate (Esc)">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
-
-<!ENTITY showAllBookmarks2.label "Kthẽgun jxuka ki'pnxisatx">
-
-
-
-<!ENTITY bookmarksToolbarChevron.tooltip "Txi'pupnxitxi wejx thegna">
 
 
 
@@ -93,13 +71,6 @@ can reach it easily. -->
 
 <!ENTITY homeButton.label             "takhna">
 
-<!ENTITY bookmarksButton.label          "Ki'phwa'ja's">
-
-
-<!ENTITY viewBookmarksSidebar2.label        "&amp;Pheu'çx mjinxi's txi'khnxisa' txe txi'pupnxa'çxa">
-
-<!ENTITY viewBookmarksToolbar.label         "&amp;Pheu'çx mjinxi's txi'khnxisa' txe txi'pupnxa'çxa">
-
 
 
 
@@ -112,7 +83,6 @@ can reach it easily. -->
 <!ENTITY historyButton.label            "Fxihjçxa txi'khnxisah">
 
 <!ENTITY downloads.label              "Spakxna">
-<!ENTITY addons.label                 "Kãjãnxisa">
 
 <!ENTITY webDeveloperMenu.label       "Walan ujnxisa web">
 
@@ -131,18 +101,6 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "Yaçka fxi'hjnxi's">
 
-<!ENTITY historyUndoMenu.label "Çxhunden aphna u'se u'kasa's">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Çxhunden aphna u'se u'kasa's vxitx le'çxkwes">
-
-<!ENTITY appMenuHistory.showAll.label "Jxuka ta'sxn yaçkah fxi'jhnxi's">
-
-<!ENTITY appMenuHistory.clearRecent.label "Khukhna u'se fxi'hjnxi's…">
-<!ENTITY appMenuHistory.restoreSession.label "Sweete' phewu'nxi yaçka phakhenxitx">
-<!ENTITY appMenuHistory.viewSidebar.label "Na's thegna paneltewe'sxa's yaçka txikhnxi's">
-
-
-<!ENTITY appMenuRemoteTabs.label "Ja'da txunden">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -160,8 +118,6 @@ can reach it easily. -->
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 
-<!ENTITY appMenuRemoteTabs.sidebar.label "Phadenxisa phewujna ũ'sta txãa pesath kũjhjwedtxih">
-
 <!ENTITY customizeMenu.addToToolbar.label "Mover vxisnxi's takhya'.">
 <!ENTITY customizeMenu.addToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
@@ -173,8 +129,6 @@ can reach it easily. -->
 
 
 
-<!ENTITY customizeMenu.removeFromToolbar.label "Khũkhna vxisnxi's takhya'">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Wejxiçxa kãjan…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "W">
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -236,8 +190,6 @@ can reach it easily. -->
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
 
-<!ENTITY emailPageCmd.label           "Jxukhnxi's kahn…">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -268,14 +220,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Isanxii's">
 
 <!ENTITY sidebarCloseButton.tooltip     "Apna panel pesathwe'sxa's">
-
-
-<!ENTITY quitApplicationCmdWin2.label       "Kase'n">
-<!ENTITY quitApplicationCmdWin2.accesskey   "K">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Kasen &brandShorterName;">
-<!ENTITY quitApplicationCmd.label       "Kase'h">
-<!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "Kasen &brandShorterName;">
 
 
 <!ENTITY allowPopups.accesskey "p">
@@ -316,9 +260,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-<!ENTITY syncBrand.shortName.label    "Sync">
 
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):

@@ -4,7 +4,6 @@
 
 synced-tabs-sidebar-title = Ja'da txunden
 synced-tabs-sidebar-notabs = Phadenxii meeta
-synced-tabs-sidebar-openprefs = Wejx wẽdxnxisatx phaden txtee { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Phewujnxisa ki'tanxi ũsa' na' thegya ewuna yasetxih vxite vxisnxijuy.
 synced-tabs-context-open-in-new-window =
     .label = Phanden çxhunden ki'ki'n teeçx & u'sesa's
@@ -18,4 +17,3 @@ synced-tabs-context-bookmark-single-tab =
 synced-tabs-context-sync-now =
     .label = Ãçxh kãjãdan
     .accesskey = S
-fxa-sign-in = U'kan takhna { -sync-brand-short-name }

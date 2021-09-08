@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Khũkhna">
 
-<!ENTITY fillLoginMenu.label          "Nuyuutan takhna pakhena">
-<!ENTITY fillLoginMenu.accesskey      "N">
-<!ENTITY fillPasswordMenu.label       "Nuyuutan çxhukte ji'phunxi's">
-<!ENTITY fillPasswordMenu.accesskey   "N">
-<!ENTITY fillUsernameMenu.label       "Txãajx yase's nuyuutan ">
-<!ENTITY fillUsernameMenu.accesskey   "T">
-<!ENTITY noLoginSuggestions.label     "(Pta'sxmee ũsthu u'kan takhnxiju)">
-<!ENTITY viewSavedLogins.label        "Thẽgya' takhna pkhakhen jxawa'ja's ">

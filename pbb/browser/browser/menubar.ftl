@@ -104,9 +104,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Fxi'hj
     .accesskey = E
-menu-edit-find-on =
-    .label = Ayte pakwena…
-    .accesskey = A
 menu-edit-find-again =
     .label = & Ki'h pehnan pakwen
     .accesskey = g
@@ -122,9 +119,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Vxisnxi's & takhya'
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = Pekxkĩiçxaa
-    .accesskey = P
 menu-view-sidebar =
     .label = Pesathtewe'sx
     .accesskey = P
@@ -201,10 +195,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Ki'phwa'ja's
     .accesskey = K
-menu-bookmarks-show-all =
-    .label = Kthẽgun jxuka ki'pnxisatx
-menu-bookmark-this-page =
-    .label = Kãjãhn na's txhuden ki'phwa'ja's.
 menu-bookmark-edit =
     .label = Ki'phni kase'k
 menu-bookmarks-all-tabs =
@@ -220,32 +210,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Spakxna
     .accesskey = S
-menu-tools-addons =
-    .label = Kãjãnxisa
-    .accesskey = K
 menu-tools-sync-now =
     .label = Ãçxh kãjãdan
     .accesskey = S
-menu-tools-web-developer =
-    .label = Walan ujnxisa web
-    .accesskey = w
 menu-tools-page-source =
     .label = Txu'ndedenxi & paynxi's kutxi'jnxi
     .accesskey = o
 menu-tools-page-info =
     .label = Paynxi's ta'sxsa
     .accesskey = P
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Vxite
-           *[other] Wejx vxisnxisa
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] V
-           *[other] W
-        }
 
 ## Window Menu
 
@@ -276,24 +249,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Pu'çxwajas
     .accesskey = P
-menu-help-product =
-    .label = Pu'çxna txte { -brand-shorter-name }
-    .accesskey = P
-menu-help-show-tour =
-    .label = Kasejçx u'jnxisa txkãa { -brand-shorter-name }
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = Fxijnxi's txte aphsã
-    .accesskey = F
-menu-help-troubleshooting-info =
-    .label = Ptasxisxwah na' yu'wes pheu'jxa
-    .accesskey = P
 menu-help-feedback-page =
     .label = Yatxnxi's kahwa'
     .accesskey = Y
-menu-help-safe-mode-without-addons =
-    .label = Kãjanxisa'nxakh pu'txna fxiçxa'nxisanxakhjxa…
-    .accesskey = K
-menu-help-safe-mode-with-addons =
-    .label = Kçxãçxa'nxisanxakhjxa ta'khna kajãnxinxakh
-    .accesskey = K
