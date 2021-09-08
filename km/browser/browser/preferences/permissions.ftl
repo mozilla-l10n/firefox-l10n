@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = លុប​គេហទំព័រ​ទាំងអស់
     .accesskey = e
 
-permissions-button-cancel =
-    .label = បោះបង់
-    .accesskey = C
-
-permissions-button-ok =
-    .label = រក្សាទុក​ការ​ផ្លាស់ប្ដូរ
-    .accesskey = S
-
 permissions-searchbox =
     .placeholder = ស្វែងរក​គេហទំព័រ
 

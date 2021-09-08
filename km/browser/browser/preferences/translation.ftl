@@ -35,7 +35,3 @@ translation-sites-button-remove-all =
     .label = លុប​តំបន់​បណ្ដាញ​ទាំងអស់​ចេញ
     .accesskey = i
 
-translation-button-close =
-    .label = បិទ
-    .accesskey = C
-

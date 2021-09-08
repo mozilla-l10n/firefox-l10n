@@ -10,11 +10,6 @@ crashes-id = លេខ​សម្គាល់​របាយការណ៍
 crashes-send-date = បាន​ដាក់​ស្នើ
 crashes-all-reports = របាយការណ៍​ការ​គាំង​ទាំងអស់
 crashes-no-config = កម្មវិធី​នេះ​មិន​ទាន់​បាន​កំណត់​រចនាសម្ព័ន្ធ​ដើម្បី​បង្ហាញ​របាយការណ៍​ការ​គាំ​ទេ។
-extensions-title = ផ្នែក​បន្ថែម
-extensions-name = ឈ្មោះ
-extensions-enabled = បាន​អនុញ្ញាត
-extensions-version = កំណែ
-extensions-id = លេខ​សម្គាល់
 support-addons-name = ឈ្មោះ
 support-addons-version = កំណែ
 support-addons-id = លេខ​សម្គាល់
@@ -54,8 +49,6 @@ library-version-title = កំណែ​បណ្ណាល័យ
 copy-text-to-clipboard-label = ចម្លង​អត្ថបទ​ទៅ​ក្ដារ​តម្បៀត​ខ្ទាស់
 copy-raw-data-to-clipboard-label = ចម្លង​ទិន្នន័យ​ដើម​ទៅ​ក្ដារ​តម្បៀត​ខ្ទាស់
 sandbox-title = Sandbox
-safe-mode-title = សាកល្បង​របៀប​សុវត្ថិភាព
-restart-in-safe-mode-label = ចាប់ផ្ដើម​ឡើងវិញ​ដោយ​បិទ​កម្មវិធី​បន្ថែម...
 
 ## Media titles
 

@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = បើក​បង្អួច�
 about-private-browsing-search-placeholder = ស្វែងរក​ទំព័រ​បណ្ដាញ
 about-private-browsing-info-title = អ្នក​កំពុង​ស្ថិត​នៅ​​ផ្ទាំង​ឯកជន​
 about-private-browsing-info-myths = ប្រវត្តិ​ទូទៅ​អំពី​ការរុករក​ឯកជន
-about-private-browsing =
-    .title = ស្វែងរក​ទំព័រ​បណ្ដាញ
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

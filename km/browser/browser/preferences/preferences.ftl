@@ -7,28 +7,6 @@ do-not-track-learn-more = ស្វែងយល់​បន្ថែម
 do-not-track-option-always =
     .label = ជានិច្ច
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] ជម្រើស
-       *[other] ចំណូលចិត្ត
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] រកនៅក្នុងជម្រើស
-           *[other] រកនៅក្នុងចំណូលចិត្ត
-        }
-
 pane-general-title = ទូទៅ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -73,18 +51,6 @@ restart-later = ចាប់ផ្ដើម​ឡើងវិញ​នៅ​ព�
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } កំពុងគ្រប់គ្រងទំព័រដើមរបស់អ្នក។
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } កំពុងគ្រប់គ្រងទំព័រផ្ទាំងថ្មីរបស់អ្នក។
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } បានកំណត់ម៉ាស៊ីនស្វែងរកលំនាំដើមរបស់អ្នក។
-
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } ត្រូវការផ្ទាំងឧបករណ៍ផ្ទុក។
@@ -108,26 +74,11 @@ extension-controlled-enable = ដើម្បីអនុញ្ញាតផ្�
 
 search-results-header = លទ្ធផល​ស្វែងរក
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] សុំទោស! មិន​មាន​លទ្ធផល​នៅ​ក្នុង​ជម្រើស​សម្រាប់ “<span data-l10n-name="query"></span>” ទេ។
-       *[other] សុំទោស! មិន​មាន​លទ្ធផល​នៅ​ក្នុង​ចំណូលចិត្ត​សម្រាប់ “<span data-l10n-name="query"></span>” ទេ។
-    }
-
 search-results-help-link = ត្រូវការជំនួយទេ? មើល<a data-l10n-name="url">ផ្នែកជំនួយរបស់ { -brand-short-name }</a>
 
 ## General Section
 
 startup-header = ចាប់ផ្ដើម​ឡើង
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = អនុញ្ញាត​ឲ្យ { -brand-short-name } និង Firefox ដំណើរការ​ក្នុង​ពេល​ដូចគ្នា
-use-firefox-sync = ព័ត៌មាន​ជំនួយ៖ វា​ប្រើ​ប្រាស់​​កម្រង​ព័ត៌មាន​​ដោយឡែក។ ប្រើប្រាស់ { -sync-brand-short-name } ដើម្បី​ចែករំលែក​ទិន្នន័យ​រវាង​​កម្រងព័ត៌មាន​ទាំងនេះ។
-get-started-not-logged-in = ចូល { -sync-brand-short-name } ...
-get-started-configured = បើក​ចំណូលចិត្ត { -sync-brand-short-name }
 
 always-check-default =
     .label = ពិនិត្យជានិច្ច ថា { -brand-short-name } ជា​កម្មវិធី​អ៊ីនធឺណិត​លំនាំដើម
@@ -164,10 +115,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = ព្រមាន​អ្នក​ពេល​បើក​ផ្ទាំង​ច្រើន អាច​ធ្វើឲ្យ { -brand-short-name } យឺត
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = ពេល​អ្នក​បើក​តំណ​ក្នុង​ផ្ទាំង​ថ្មី ប្ដូរ​ទៅ​វា​ភ្លាមៗ
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = បង្ហាញ​​ការ​មើល​ផ្ទាំង​ជាមុន​នៅ​ក្នុង​របារ​ភារកិច្ច​របស់​វីនដូ
@@ -310,11 +257,6 @@ applications-manage-app =
     .label = សេចក្ដី​លម្អិត​អំពី​កម្មវិធី…
 applications-always-ask =
     .label = សួរ​ជានិច្ច
-applications-type-pdf = ទ្រង់ទ្រាយ​ឯកសារ​ចល័ត (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -574,8 +516,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = សំណើ​ស្វែងរក​នឹង​​មិន​បង្ហាញ​នៅ​ក្នុង​លទ្ធផល​របារ​ទីតាំង​​ទេ ព្រោះ​អ្នក​បាន​កំណត់​រចនាសម្ព័ន្ធ { -brand-short-name } មិន​ដែល​ឲ្យ​ចងចាំ​ប្រវត្តិ។
 
-search-one-click-header = ម៉ាស៊ីន​ស្វែងរក​ចុច​តែ​ម្ដង
-
 search-one-click-desc = ជ្រើសរើស​ម៉ាស៊ីន​ស្វែងរក​ជំនួស​ដែល​បង្ហាញ​នៅ​ខាងក្រោម​របារអាសយដ្ឋាន និង​របារស្វែងរក​នៅ​ពេល​អ្នក​ចាប់ផ្តើម​បញ្ចូល​ពាក្យគន្លឹះ។
 
 search-choose-engine-column =
@@ -608,9 +548,6 @@ containers-add-button =
     .label = បន្ថែម​ប្រអប់​ផ្ទុក​ថ្មី
     .accesskey = A
 
-containers-preferences-button =
-    .label = ចំណូលចិត្ត
-
 containers-remove-button =
     .label = លុប​ចេញ
 
@@ -621,7 +558,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = យក​បណ្ដាញ​របស់​អ្នក​ជាមួយ​អ្នក
-sync-signedout-description = ធ្វើ​សម​កាល​កម្ម​ចំណាំ​ ប្រវត្តិ ផ្ទាំង ពាក្យ​សម្ងាត់​ កម្មវិធី​ផ្នែក​បន្ថែម​ និង​ចំណូល​ចិត្ត​របស់​អ្នក​ ចំពោះ​គ្រប់​ឧបករណ៍​របស់​អ្នក។​
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -695,15 +631,6 @@ sync-engine-addons =
     .tooltiptext = ផ្នែកបន្ថែមនិងរចនាប័ទ្មសម្រាប់ Firefox ផ្ទៃតុ
     .accesskey = ក
 
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] ជម្រើស
-           *[other] ចំណូលចិត្ត
-        }
-    .tooltiptext = ការកំណត់ទូទៅ, ភាពឯកជន និងសុវត្ថិភាពដែលអ្នកបានប្តូរ
-    .accesskey = s
-
 ## The device name controls.
 
 sync-device-name-header = ឈ្មោះ​ឧបករណ៍
@@ -739,14 +666,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = ការ​ចូល​ដែល​បាន​រក្សាទុក...
     .accesskey = L
-forms-master-pw-use =
-    .label = ប្រើ​ពាក្យ​សម្ងាត់​មេ
-    .accesskey = U
 forms-master-pw-change =
     .label = ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់​មេ…
     .accesskey = M
-
-forms-master-pw-fips-title = បច្ចុប្បន្ន​នេះ អ្នក​ស្ថិត​នៅក្នុង​របៀប FIPS ។ FIPS ទាមទារ​ពាក្យសម្ងាត់​មេ​ដែល​មិន​ទទេ​ ។
 
 forms-master-pw-fips-desc = បាន​បរាជ័យ​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
 
@@ -916,12 +838,6 @@ permissions-addon-exceptions =
     .label = ករណី​លើកលែង…
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = រារាំងសេវាកម្មភាពងាយស្រួលចូល​ប្រើ​មិនឲ្យចូលប្រើកម្មវិធីរុករក​អ៊ីនធឺណិត​របស់អ្នក
-    .accesskey = a
-
-permissions-a11y-privacy-link = ស្វែងយល់​បន្ថែម
-
 ## Privacy Section - Data Collection
 
 collection-header = ការប្រមូល និងការប្រើប្រាស់ទិន្នន័យ { -brand-short-name }
@@ -937,11 +853,6 @@ collection-health-report-link = ស្វែងយល់​​បន្ថែម
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ការ​រាយការណ៍​ទិន្នន័យ​ត្រូវ​បាន​បិទ​សម្រាប់​ការ​កំណត់​រចនាសម្ព័ន្ធ​កំណែ​នេះ
-
-collection-backlogged-crash-reports =
-    .label = អនុញ្ញាត​ឲ្យ { -brand-short-name } ផ្ញើ​របាយការណ៍​ភាព​ជាប់​គាំង​ដែល​បាន​បម្រុង​ជំនួសអ្នក
-    .accesskey = ភ
-collection-backlogged-crash-reports-link = ស្វែងយល់​​បន្ថែម
 
 ## Privacy Section - Security
 ##
@@ -969,16 +880,6 @@ security-block-uncommon-software =
 
 certs-header = វិញ្ញាបនបត្រ
 
-certs-personal-label = នៅ​ពេល​ម៉ាស៊ីន​មេ​ស្នើ​សុំ​វិញ្ញាបនបត្រ​ផ្ទាល់ខ្លួន​របស់​អ្នក
-
-certs-select-auto-option =
-    .label = ជ្រើសរើស​​វិញ្ញាបនបត្រ​ដោយ​ស្វ័យប្រវត្តិ
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = សួរ​អ្នក​រាល់លើក
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = ម៉ាស៊ីន​មេ​កម្មវិធី​ឆ្លើយតប OCSP ត្រូវ​បញ្ជាក់​ភាព​ត្រឹមត្រូវ​នៃ​វិញ្ញាបនបត្រ​បច្ចុប្បន្ន
     .accesskey = Q
@@ -990,28 +891,6 @@ certs-view =
 certs-devices =
     .label = ឧបករណ៍​សុវត្ថិភាព…
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = ស្វែងយល់​បន្ថែម
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] បើក​ជម្រើស
-           *[other] បើក​ចំណូលចិត្ត
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-under-5gb-ok-button =
-    .label = យល់​ហើយ
-    .accesskey = K
-
-space-alert-under-5gb-message = { -brand-short-name } កំពុង​អស់​ទំហំ​ផ្ទុក​ទំនេរ។ មាតិកា​គេហទំព័រ​​អាច​មិន​បង្ហាញ​បាន​ត្រឹមត្រូវ។ ចូល​មើល “ស្វែងយល់​បន្ថែម” ដើម្បី​ធ្វើ​ឲ្យ​ការ​ប្រើប្រាស់​ថាស​របស់​អ្នកប្រសើរ​ឡើង​សម្រាប់​បទពិសោធន៍​រកមើល​​ប្រសើរ​ជាង​មុន។
 
 ## Privacy Section - HTTPS-Only
 

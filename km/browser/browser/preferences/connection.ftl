@@ -39,11 +39,6 @@ connection-proxy-http-port = ច្រក
 connection-proxy-ssl-port = ច្រក
     .accesskey = o
 
-connection-proxy-ftp = ប្រូកស៊ី FTP
-    .accesskey = F
-connection-proxy-ftp-port = ច្រក
-    .accesskey = r
-
 connection-proxy-socks = ​ម៉ាស៊ីន SOCKS
     .accesskey = C
 connection-proxy-socks-port = ច្រក

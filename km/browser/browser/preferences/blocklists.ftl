@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = បញ្ជី
 
-blocklist-button-cancel =
-    .label = បោះបង់
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = រក្សាទុក​ការ​ផ្លាស់ប្ដូរ
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = រក្សាទុក​ការ​ផ្លាស់ប្ដូរ
     .buttonaccesskeyaccept = S

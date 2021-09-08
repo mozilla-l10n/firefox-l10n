@@ -53,8 +53,6 @@ policy-DisableForgetButton = រារាំង​ការ​ចូល​ប្
 
 policy-DisableFormHistory = មិន​ចងចាំ​ប្រវត្តិ​ស្វែងរក និង​សំណុំ​បែបបទ
 
-policy-DisableMasterPasswordCreation = ប្រសិន​បើ​ពិត​ពាក្យ​សម្ងាត់​មេ​មិន​អាច​បង្កើត​បានទេ។
-
 policy-DisablePrimaryPasswordCreation = ប្រសិនបើ​ពិត នោះពាក្យសម្ងាត់​ចម្បង​មិនអាចត្រូវបានបង្កើតទេ។
 
 policy-DisablePasswordReveal = កុំអនុញ្ញាតឱ្យបង្ហាញពាក្យសម្ងាត់នៅក្នុងការចូលដែលបានរក្សាទុក។

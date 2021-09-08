@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = អនុវត្ត​តាម​សភាព​មាន​អ៊ីនធឺណិត​ដែល​បាន​រក​ឃើញ​ដោយ​ស្វ័យប្រវត្តិ
     .accesskey = d
 
-startup-label = សភាព​សៀវភៅ​ដៃ​ពេល​ចាប់ផ្ដើម៖
-
 status-radio-remember =
     .label = Remember previous online state
     .accesskey = R
