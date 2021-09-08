@@ -36,10 +36,6 @@
 <!ENTITY printCmd.label "Pirinta...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Pirinta leswi voniweke">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Ndzulamiso wa pheji...">
-<!ENTITY printSetupCmd.accesskey "h">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Sula hungu">
@@ -322,8 +318,6 @@
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY addressBookCmd.label "Buku ya tiadirese">
 <!ENTITY addressBookCmd.accesskey "b">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "d">
 <!ENTITY filtersApply.label "Tirhisa tifilithara eka tifolidara">
 <!ENTITY filtersApply.accesskey "T">
 <!-- Help Menu -->
@@ -347,13 +341,10 @@
 <!ENTITY fileButton.label "Fayili">
 <!ENTITY nextButton.label "Leswi landzelaka">
 <!ENTITY previousButton.label "Leswi nga hundza">
-<!ENTITY deleteButton.label "Sula">
 <!ENTITY markButton.label "Maraka">
 <!ENTITY printButton.label "Pirinta">
 <!ENTITY stopButton.label "Yima">
 <!ENTITY throbberItem.title "Xikomba-nghingiriko">
-<!ENTITY junkButton.label "Junki">
-<!ENTITY notJunkButton.label "Ku hava junki">
 <!ENTITY addressBookButton.label "Buku ya tiadirese">
 <!ENTITY searchItem.title "Quick Search">
 <!ENTITY mailViewsToolbarItem.title "Mail Views">
@@ -373,12 +364,9 @@
 <!ENTITY previousButton.tooltip "Yana eka hungu leri nga hundza leri nga hlayiwangiki">
 <!ENTITY goForwardButton.tooltip "Go forward one message">
 <!ENTITY goBackButton.tooltip "Go back one message">
-<!ENTITY deleteButton.tooltip "Sula hungu leri hlawuriweke kumbe folidara">
 <!ENTITY markButton.tooltip "Maraka mahungu">
 <!ENTITY printButton.tooltip "Pirinta hungu leri">
 <!ENTITY stopButton.tooltip "Yimisa ku hundzisela ka sweswi">
-<!ENTITY junkButton.tooltip "Maraka mahungu lama hlawuriweke tani hi junki">
-<!ENTITY notJunkButton.tooltip "Maraka mahungu lama hlawuriweke tani hi junki">
 <!ENTITY addressBookButton.tooltip "Yana eka buku ya tiadirese">
 <!ENTITY tagButton.tooltip "Tag messages">
 <!-- Tags Menu Popup -->

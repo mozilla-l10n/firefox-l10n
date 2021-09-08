@@ -101,8 +101,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Nomboro ya Siriyele
 
-fips-nonempty-password-required = Modi wa FIPS wu lava leswaku u va na Phasiwedinkulu leyi lulamiseriweke xitirho xin'wana na xin'wana xa nhlayiseko. Lulamisa phasiwedi u nga si ringeta ku tirhisa modi wa FIPS.
-
 add-module-failure = A swi koteki ku engetela modlulu
 del-module-warning = U na ntiyiso leswaku u lava ku sula nhlayiseko wa modlulu?
 del-module-error = A swi koteki ku sula modlulu

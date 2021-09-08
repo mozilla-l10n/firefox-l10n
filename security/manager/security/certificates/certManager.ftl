@@ -11,27 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Valawuri
 
-certmgr-subject-label = Xi nyikiwile
-
-certmgr-issuer-label = Xi nyikiwile hi
-
-certmgr-fingerprints = Nkandziyiso wa tintiho
-
-certmgr-cert-detail =
-    .title = Vuxokoxoko bya xitifiketi
-    .buttonlabelaccept = Close
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = Vito ra ntolovelo (CN)
-
-certmgr-cert-detail-org = Nhlangano (O)
-
-certmgr-cert-detail-orgunit = Yuniti ya Nhlangano (OU)
-
-certmgr-cert-detail-serial-number = Nomboro ya siriyele
-
-certmgr-cert-detail-sha-1-fingerprint = Nkandziyiso wa tintiho wa SHA1
-
 certmgr-edit-ca-cert =
     .title = Hlela malulamisele ya xitifiketi xa CA
     .style = width: 48em;
@@ -54,8 +33,6 @@ certmgr-cert-name =
 certmgr-token-name =
     .label = Xitirhisiwa xa vuhlayiseke
 
-certmgr-expires-on = Xi hela rini
-
 certmgr-expires-label =
     .label = Xi hela rini
 
@@ -64,14 +41,6 @@ certmgr-email =
 
 certmgr-serial =
     .label = Nomboro ya siriyele
-
-certmgr-details =
-    .value = Certificate Fields
-    .accesskey = F
-
-certmgr-fields =
-    .value = Field Value
-    .accesskey = V
 
 pk11-bad-password = Phasiwedi leyi nghenisiweke yi hoxekile.
 pkcs12-decode-err = A swi kotekangi ku dikhoda fayili.  Yi nga va yi nga ri eka xivumbeko xa PKCS #12, yi onhakile kumbe u nghenisile phasiwedi yo hoxeka.
@@ -111,37 +80,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = U na ntiyiso leswaku u lava ku sula switifiketi swa Imeyili swa vanhu lava?
 
 ## Cert Viewer
-
-not-present =
-    .value = <A hi xiphemu xa xitifiketi>
-
-# Cert verification
-cert-verified = Xitifiketi lexi xi tiyisisiwile ku tirhisiwa hi tindlela leti landzelaka:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL Xitifiketi xa mutirhisi
-
-verify-ssl-server =
-    .value = SSL xitifiketi xa sevha
-
-verify-ssl-ca =
-    .value = SSL Mpfumelelo wa xitifiketi
-
-verify-email-signer =
-    .value = Xitifiketi xo sayina xa imeyili
-
-verify-email-recip =
-    .value = Xitifiketi xo amukela xa imeyili
-
-# Cert verification
-cert-not-verified-cert-revoked = A swi kotekangi ku tiyisisa xitifiketi lexi hikuva xi thlelerisiwile endzhaku.
-cert-not-verified-cert-expired = A swi kotekangi ku tiyisisa xitifiketi lexi hikuva xi hundzeriwile hi nkarhi.
-cert-not-verified-cert-not-trusted = A swi kotekangi ku tiyisisa xitifiketi lexi hikuva a xi tshembiwi.
-cert-not-verified-issuer-not-trusted = A swi kotekangi ku tiyisisa xitifiketi lexi hikuva mutirhisi a nga tshembiwi.
-cert-not-verified-issuer-unknown = A swi kotekangi ku tiyisisa xitifiketi lexi hikuva mutirhisi a nga tiviwi.
-cert-not-verified-ca-invalid = A swi kotekangi ku tiyisisa xitifiketi lexi hikuva xitifiketi xa CA a hi xa ntiyiso.
-cert-not-verified-unknown = A swi kotekangi ku tiyisisa xitifiketi lexi hikwalaho ka swivangelo swo ka swi nga tiveki.
 
 ## Used to show whether an override is temporary or permanent
 

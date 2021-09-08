@@ -19,8 +19,6 @@
 <!ENTITY redoCmd.accesskey "e">
 <!ENTITY deleteCmd.label "Sula">
 <!ENTITY deleteCmd.accesskey "s">
-<!ENTITY preferencesCmdUnix.label "Minhlawulo">
-<!ENTITY preferencesCmdUnix.accesskey "w">
 
 <!ENTITY viewMenu.label "Languta">
 <!ENTITY viewMenu.accesskey "l">

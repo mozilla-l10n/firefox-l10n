@@ -12,10 +12,6 @@
 <!ENTITY openFileCmd.label "Pfula Fayili...">
 <!ENTITY printCmd.label "Pirinta...">
 
-<!ENTITY personalbarCmd.label "Xo secha timakara ta buku">
-<!ENTITY personalbarCmd.accesskey "X">
-<!ENTITY bookmarksToolbarItem.label "Xo secha tiayitheme ta timakara ta buku">
-
 <!ENTITY fullScreenCmd.label "Xikirini xo helela">
 
 
@@ -29,12 +25,9 @@
 
 <!ENTITY homeButton.label "Ekaya">
 
-<!ENTITY bookmarksButton.label "Timakara ta buku">
-
 <!ENTITY historyButton.label "Matimu">
 
 <!ENTITY downloads.label "Panga nakambe">
-<!ENTITY addons.label "Add-ons">
 
 <!ENTITY newNavigatorCmd.label "Fasitere Rintshwa">
 
@@ -45,7 +38,6 @@
 
 <!ENTITY historyMenu.label "History">
 
-<!ENTITY historyUndoMenu.label "Recently Closed Tabs">
 <!-- XXX places only -->
 
 <!-- XXX remove above if places sticks -->
@@ -83,9 +75,6 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY sidebarCloseButton.tooltip "Pfala bara ya le thlelo">
-
-<!ENTITY quitApplicationCmd.label "Huma">
-<!ENTITY quitApplicationCmd.accesskey "H">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
