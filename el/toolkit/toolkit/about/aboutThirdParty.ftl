@@ -10,9 +10,6 @@ third-party-intro =
     { -brand-short-name } σας. Κάθε μονάδα που δεν έχει υπογραφεί από τη Microsoft ή
     τη { -vendor-short-name } θεωρείται μονάδα τρίτου μέρους.
 
-third-party-header-module-list = Λίστα λειτουργικών μονάδων
-third-party-header-loading-events = Συμβάντα φόρτωσης
-
 third-party-message-empty = Δεν εντοπίστηκαν λειτουργικές μονάδες τρίτων.
 third-party-message-no-duration = Δεν έχει καταγραφεί
 

@@ -9,8 +9,6 @@
 
 process-type-web = Διαδικτυακό περιεχόμενο
 
-process-type-browser = Κύριο
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Προνομιακή σελίδα About

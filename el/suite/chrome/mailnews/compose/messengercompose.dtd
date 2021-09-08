@@ -48,11 +48,6 @@
 <!ENTITY sendLaterCmd.accesskey "γ">
 
 <!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "Aναδίπλωση">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "δ">
-
-<!-- Edit menu items -->
 <!ENTITY accountManagerCmd.label "Ρυθμίσεις λογαριασμού αλληλογραφίας &amp; ομάδων συζήτησης…">
 <!ENTITY accountManagerCmd.accesskey "θ">
 

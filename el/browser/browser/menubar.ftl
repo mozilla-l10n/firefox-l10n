@@ -38,16 +38,20 @@ menu-quit =
             [windows] ξ
            *[other] ξ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Έξοδος από το { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Έξοδος από το { -brand-shorter-name }
+
 menu-about =
     .label = Σχετικά με το { -brand-shorter-name }
     .accesskey = τ
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Επεξεργασία
     .accesskey = Ε
-menu-edit-find-on =
-    .label = Εύρεση στη σελίδα…
-    .accesskey = ρ
 menu-edit-find-in-page =
     .label = Εύρεση στη σελίδα…
     .accesskey = Ε
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Γραμμές εργαλείων
     .accesskey = ρ
-menu-view-customize-toolbar =
-    .label = Προσαρμογή…
-    .accesskey = Π
 menu-view-customize-toolbar2 =
     .label = Προσαρμογή γραμμής εργαλείων…
     .accesskey = Π
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Βασική μορφοποίηση σελίδας
     .accesskey = Β
-menu-view-charset =
-    .label = Κωδικοποίηση κειμένου
-    .accesskey = κ
 menu-view-repair-text-encoding =
     .label = Επιδιόρθωση κωδικοποίησης κειμένου
     .accesskey = δ
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Επαναφορά όλων των παραθ�
 menu-bookmarks-menu =
     .label = Σελιδοδείκτες
     .accesskey = Σ
-menu-bookmarks-show-all =
-    .label = Εμφάνιση όλων των σελιδοδεικτών
-menu-bookmark-this-page =
-    .label = Δημιουργία σελιδοδείκτη
 menu-bookmarks-manage =
     .label = Διαχείριση σελιδοδεικτών
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Λήψεις
     .accesskey = ψ
-menu-tools-addons =
-    .label = Πρόσθετα
-    .accesskey = θ
-menu-tools-fxa-sign-in =
-    .label = Σύνδεση στο { -brand-product-name }…
-    .accesskey = δ
-menu-tools-turn-on-sync =
-    .label = Ενεργοποίηση { -sync-brand-short-name }…
-    .accesskey = ρ
 menu-tools-addons-and-themes =
     .label = Πρόσθετα και θέματα
     .accesskey = Π
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Επανασύνδεση στο { -brand-product-name }…
     .accesskey = Ε
-menu-tools-web-developer =
-    .label = Ανάπτυξη web
-    .accesskey = Α
 menu-tools-browser-tools =
     .label = Εργαλεία προγράμματος περιήγησης
     .accesskey = ρ
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Πληροφορίες σελίδας
     .accesskey = λ
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Επιλογές
-           *[other] Προτιμήσεις
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Ε
-           *[other] μ
-        }
 menu-settings =
     .label = Ρυθμίσεις
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Βοήθεια
     .accesskey = Β
-menu-help-product =
-    .label = Βοήθεια για το { -brand-shorter-name }
-    .accesskey = Β
-menu-help-show-tour =
-    .label = Ξενάγηση στο { -brand-shorter-name }
-    .accesskey = Ξ
-menu-help-import-from-another-browser =
-    .label = Εισαγωγή από άλλο φυλλομετρητή…
-    .accesskey = Ε
-menu-help-keyboard-shortcuts =
-    .label = Συντομεύσεις πληκτρολογίου
-    .accesskey = υ
-menu-help-troubleshooting-info =
-    .label = Πληροφορίες επίλυσης προβλημάτων
-    .accesskey = Π
 menu-get-help =
     .label = Λήψη βοήθειας
     .accesskey = Λ
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Υποβολή σχολίων…
     .accesskey = λ
-menu-help-safe-mode-without-addons =
-    .label = Επανεκκίνηση με ανενεργά πρόσθετα…
-    .accesskey = π
-menu-help-safe-mode-with-addons =
-    .label = Επανεκκίνηση με ενεργά πρόσθετα
-    .accesskey = π
 menu-help-enter-troubleshoot-mode2 =
     .label = Λειτουργία επίλυσης προβλημάτων…
     .accesskey = Λ

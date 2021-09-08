@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Προσθήκη σελιδοδείκτη
     .accesskey = Π
-reopen-in-container =
-    .label = Άνοιγμα ξανά σε θεματική καρτέλα
-    .accesskey = ξ
 tab-context-open-in-new-container-tab =
     .label = Άνοιγμα σε νέα θεματική καρτέλα
     .accesskey = ι
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Κλείσιμο πολλαπλών καρτελών
     .accesskey = π
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Αναίρεση κλεισίματος καρτέλας
-            [one] Αναίρεση κλεισίματος καρτέλας
-           *[other] Αναίρεση κλεισίματος καρτελών
-        }
-    .accesskey = Α
-close-tab =
-    .label = Κλείσιμο καρτέλας
-    .accesskey = Κ
-close-tabs =
-    .label = Κλείσιμο καρτελών
-    .accesskey = ν
-move-tabs =
-    .label = Μετακίνηση καρτελών
-    .accesskey = ν
-move-tab =
-    .label = Μετακίνηση καρτέλας
-    .accesskey = ν
 tab-context-share-url =
     .label = Κοινή χρήση
     .accesskey = χ
@@ -126,6 +103,7 @@ tab-context-move-tabs =
            *[other] Μετακίνηση καρτελών
         }
     .accesskey = τ
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

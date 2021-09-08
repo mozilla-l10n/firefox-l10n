@@ -19,10 +19,6 @@
 <!ENTITY savePageCmd.label "Αποθήκευση σελίδας ως…">
 <!ENTITY savePageCmd.accesskey "Α">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Διαμόρφωση σελίδας…">
-<!ENTITY pageSetupCmd.accesskey "δ">
-<!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
-<!ENTITY printPreviewCmd.accesskey "π">
 <!ENTITY printCmd.label "Εκτύπωση…">
 <!ENTITY printCmd.accesskey "Ε">
 <!ENTITY printCmd.commandkey "P">

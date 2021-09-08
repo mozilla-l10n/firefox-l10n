@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Νέο">
 <!ENTITY newMenu.accesskey "Ν">
 <!ENTITY newMessage.label "Μήνυμα">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "Μ">
 <!ENTITY newContact.label "Επαφή ευρετηρίου…">
 <!ENTITY newContact.accesskey "Ε">
 <!ENTITY attachMenu.label "Επισύναψη">
 <!ENTITY attachMenu.accesskey "ψ">
-<!ENTITY attachFileCmd.label "Αρχεία…">
-<!ENTITY attachFileCmd.accesskey "Α">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "FileLink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Ιστοσελίδα…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Αποστολή αργότερα">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "γ">
-<!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας…">
-<!ENTITY printSetupCmd.accesskey "φ">
-<!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
-<!ENTITY printPreviewCmd.accesskey "ρ">
 <!ENTITY printCmd.label "Εκτύπωση…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "Ε">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Αναδιάταξη συνημμένων…">
 <!ENTITY reorderAttachmentsCmd.accesskey "δ">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Πίνακας συνημμένων">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "μ">
 <!ENTITY selectAllCmd.accesskey "λ">
 <!ENTITY findBarCmd.label "Εύρεση…">
 <!ENTITY findBarCmd.accesskey "Ε">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Αναδιάταξη συνημμένων">
-<!ENTITY moveAttachmentTopPanelBtn.label "Μετακίνηση στο πάνω μέρος">
-<!ENTITY moveAttachmentUpPanelBtn.label "Μετακίνηση πάνω">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Μετακίνηση μαζί">
-<!ENTITY moveAttachmentDownPanelBtn.label "Μετακίνηση κάτω">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Μετακίνηση στο κάτω μέρος">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Ρυθμίσεις λογαριασμού">
 <!ENTITY accountManagerCmd2.accesskey "θ">
 <!ENTITY accountManagerCmdUnix2.accesskey "μ">
-<!ENTITY preferencesCmd2.label "Επιλογές">
-<!ENTITY preferencesCmd2.accesskey "λ">
-<!ENTITY preferencesCmdUnix.label "Προτιμήσεις">
-<!ENTITY preferencesCmdUnix.accesskey "ρ">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Αποστολή">
 <!ENTITY quoteButton.label "Παράθεση">
 <!ENTITY addressButton.label "Επαφές">
-<!ENTITY attachButton.label "Επισύναψη">
 <!ENTITY spellingButton.label "Ορθογραφία">
 <!ENTITY saveButton.label "Αποθήκευση">
 <!ENTITY printButton.label "Εκτύπωση">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Αποστολή μηνύματος αργότερα">
 <!ENTITY quoteButton.tooltip "Παράθεση προηγούμενου μηνύματος">
 <!ENTITY addressButton.tooltip "Επιλογή παραλήπτη από ευρετήριο">
-<!ENTITY attachButton.tooltip2 "Προσθήκη ενός συνημμένου αρχείου">
 <!ENTITY spellingButton.tooltip "Ορθογραφικός έλεγχος επιλογής ή ολόκληρου μηνύματος">
 <!ENTITY saveButton.tooltip "Αποθήκευση του μηνύματος">
 <!ENTITY cutButton.tooltip              "Αποκοπή">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Άλλοι τύποι πεδίων διευθυνσιοδότησης">
 <!ENTITY fromAddr2.label "Από">
 <!ENTITY fromAddr.accesskey "π">
-<!ENTITY toAddr2.label "Προς">
-<!ENTITY ccAddr2.label "Κοιν.">
-<!ENTITY bccAddr2.label "Κρυφή κοιν.">
 <!ENTITY replyAddr2.label "Απάντηση προς">
 <!ENTITY newsgroupsAddr2.label "Ομάδα συζητήσεων">
 <!ENTITY followupAddr2.label "Σε συνέχεια του">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "ρ">
 <!ENTITY selectAll.label "Επιλογή όλων">
 <!ENTITY selectAll.accesskey "λ">
-<!ENTITY attachFile.label "Επισύναψη αρχείων…">
-<!ENTITY attachFile.accesskey "σ">
 <!ENTITY attachCloud.label "FileLink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Μετατροπή σε…">

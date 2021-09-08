@@ -5,65 +5,77 @@
 permissions-window =
     .title = Εξαιρέσεις
     .style = width: 47em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Διεύθυνση ιστοτόπου
     .accesskey = ι
+
 permissions-block =
     .label = Φραγή
     .accesskey = Φ
+
 permissions-session =
     .label = Αποδοχή για τη συνεδρία
     .accesskey = σ
+
 permissions-allow =
     .label = Αποδοχή
     .accesskey = Α
+
 permissions-button-off =
     .label = Απενεργοποίηση
     .accesskey = ν
+
 permissions-button-off-temporarily =
     .label = Προσωρινή απενεργοποίηση
     .accesskey = α
+
 permissions-site-name =
     .label = Ιστότοπος
+
 permissions-status =
     .label = Κατάσταση
+
 permissions-remove =
     .label = Αφαίρεση ιστοτόπου
     .accesskey = φ
+
 permissions-remove-all =
     .label = Αφαίρεση όλων των ιστοτόπων
     .accesskey = λ
-permissions-button-cancel =
-    .label = Ακύρωση
-    .accesskey = Κ
-permissions-button-ok =
-    .label = Αποθήκευση αλλαγών
-    .accesskey = Π
+
 permission-dialog =
     .buttonlabelaccept = Αποθήκευση αλλαγών
     .buttonaccesskeyaccept = Π
+
 permissions-autoplay-menu = Προεπιλογή για κάθε ιστότοπο:
+
 permissions-searchbox =
     .placeholder = Αναζήτηση ιστοτόπου
+
 permissions-capabilities-autoplay-allow =
     .label = Αποδοχή ήχου και βίντεο
 permissions-capabilities-autoplay-block =
     .label = Φραγή ήχου
 permissions-capabilities-autoplay-blockall =
     .label = Φραγή ήχου και βίντεο
+
 permissions-capabilities-allow =
     .label = Αποδοχή
 permissions-capabilities-block =
     .label = Φραγή
 permissions-capabilities-prompt =
     .label = Ερώτηση πάντα
+
 permissions-capabilities-listitem-allow =
     .value = Αποδοχή
 permissions-capabilities-listitem-block =
     .value = Φραγή
 permissions-capabilities-listitem-allow-session =
     .value = Αποδοχή για τη συνεδρία
+
 permissions-capabilities-listitem-off =
     .value = Ανενεργό
 permissions-capabilities-listitem-off-temporarily =

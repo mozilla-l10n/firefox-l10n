@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Εκτύπωση…">
 <!ENTITY printCmd.accesskey "Ε">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
-<!ENTITY printPreviewCmd.accesskey "π">
-<!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας…">
-<!ENTITY printSetupCmd.accesskey "μ">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Διαγραφή μηνύματος">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "ρ">
 <!ENTITY compactVersion.label "Συμπτυγμένη όψη">
 <!ENTITY compactVersion.accesskey "Σ">
-<!ENTITY folderPaneBar.label "Γραμμή εργαλείων προβολής φακέλων">
-<!ENTITY folderPaneBar.accesskey "φ">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ταξινόμηση κατά">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Ευρετήριο">
 <!ENTITY addressBookCmd.accesskey "ρ">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Πρόσθετα">
-<!ENTITY addons.accesskey "θ">
-<!ENTITY addonPrefs.label "Επιλογές προσθέτου">
-<!ENTITY addonPrefs.accesskey "Ε">
-<!ENTITY addonPrefsUnix.label "Προτιμήσεις προσθέτου">
-<!ENTITY addonPrefsUnix.accesskey "Π">
 <!ENTITY addonNoPrefs.label "Δεν βρέθηκαν ρυθμίσεις προσθέτου.">
 <!ENTITY activitymanager.label "Διαχείριση δραστηριότητας">
 <!ENTITY activitymanager.accesskey "χ">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Έλεγχος σφαλμάτων προσθέτων">
 <!ENTITY debugAddonsCmd.accesskey "Α">
-<!ENTITY tabsDebugCmd.label "Έλεγχος σφαλμάτων πλαισίου περιεχομένου">
-<!ENTITY tabsDebugCmd.accesskey "Π">
 <!ENTITY errorConsoleCmd.label "Κονσόλα σφαλμάτων">
 <!ENTITY errorConsoleCmd.accesskey "ν">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Πίσω">
 <!ENTITY goForwardButton1.label "Μπροστά">
 <!ENTITY deleteItem.title "Διαγραφή">
-<!ENTITY deleteButton.label "Διαγραφή">
-<!ENTITY undeleteButton.label "Ακύρωση διαγραφής">
 <!ENTITY markButton.label "Επισήμανση">
 <!ENTITY printButton.label "Εκτύπωση">
 <!ENTITY stopButton.label "Διακοπή">
 <!ENTITY throbberItem.title "Επισήμανση ενέργειας">
 <!ENTITY junkItem.title "Ανεπιθύμητα">
-<!ENTITY junkButton.label "Ανεπιθύμητο">
-<!ENTITY notJunkButton.label "Επιθυμητά">
 <!ENTITY addressBookButton.label "Ευρετήριο">
 <!ENTITY chatButton.label "Συνομιλία">
 <!ENTITY glodaSearch.title "Καθολική αναζήτηση">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Μετάβαση στο προηγούμενο μήνυμα">
 <!ENTITY goForwardButton.tooltip "Μετάβαση μπροστά ένα μήνυμα">
 <!ENTITY goBackButton.tooltip "Μετάβαση πίσω κατά ένα μήνυμα">
-<!ENTITY deleteButton.tooltip "Διαγραφή επιλεγμένου μηνύματος ή φακέλου">
-<!ENTITY undeleteButton.tooltip "Ακύρωση διαγραφής επιλεγμένου μηνύματος">
 <!ENTITY markButton.tooltip "Επισήμανση μηνυμάτων">
 <!ENTITY printButton.tooltip "Εκτύπωση μηνύματος">
 <!ENTITY stopButton.tooltip "Διακοπή της τρέχουσας μεταφοράς">
-<!ENTITY junkButton.tooltip "Επισήμανση επιλεγμένων μηνυμάτων ως ανεπιθύμητων">
-<!ENTITY notJunkButton.tooltip "Επισήμανση επιλεγμένων μηνυμάτων ως επιθυμητών">
 <!ENTITY addressBookButton.tooltip "Μετάβαση στο ευρετήριο διευθύνσεων">
 <!ENTITY chatButton.tooltip "Εμφάνιση καρτέλας «Συνομιλία»">
 <!ENTITY tagButton.tooltip "Ετικέτα σε μηνύματα">
 <!ENTITY compactButton.tooltip "Αφαίρεση διαγραμμένων μηνυμάτων από τον επιλεγμένο φάκελο">
 <!ENTITY appmenuButton1.tooltip "Προβολή του μενού του &brandShortName;">
-<!ENTITY addonsButton.tooltip "Διαχείριση των προσθέτων σας">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Προώθηση ως κείμενο στο σώμα">
