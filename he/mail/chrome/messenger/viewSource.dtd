@@ -19,10 +19,6 @@
 <!ENTITY savePageCmd.label "שמירת העמוד בשם…">
 <!ENTITY savePageCmd.accesskey "ב">
 <!ENTITY savePageCmd.commandkey "ש">
-<!ENTITY pageSetupCmd.label "הגדרת עמוד…">
-<!ENTITY pageSetupCmd.accesskey "ג">
-<!ENTITY printPreviewCmd.label "תצוגה לפני הדפסה">
-<!ENTITY printPreviewCmd.accesskey "פ">
 <!ENTITY printCmd.label "הדפסה…">
 <!ENTITY printCmd.accesskey "ד">
 <!ENTITY printCmd.commandkey "ד">

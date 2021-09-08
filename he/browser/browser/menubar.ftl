@@ -38,16 +38,20 @@ menu-quit =
             [windows] צ
            *[other] צ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = יציאה מ־{ -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = יציאה מ־{ -brand-shorter-name }
+
 menu-about =
     .label = על אודות { -brand-shorter-name }
     .accesskey = א
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = עריכה
     .accesskey = ע
-menu-edit-find-on =
-    .label = חיפוש בדף זה…
-    .accesskey = ח
 menu-edit-find-in-page =
     .label = חיפוש בדף…
     .accesskey = ח
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = סרגלי כלים
     .accesskey = ם
-menu-view-customize-toolbar =
-    .label = התאמה אישית…
-    .accesskey = ה
 menu-view-customize-toolbar2 =
     .label = התאמה אישית של סרגל הכלים…
     .accesskey = ה
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = סגנון דף בסיסי
     .accesskey = ס
-menu-view-charset =
-    .label = קידוד טקסט
-    .accesskey = ק
 menu-view-repair-text-encoding =
     .label = תיקון קידוד טקסט
     .accesskey = ק
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = פתיחת כל החלונות מחדש
 menu-bookmarks-menu =
     .label = סימניות
     .accesskey = ס
-menu-bookmarks-show-all =
-    .label = הצגת כל הסימניות
-menu-bookmark-this-page =
-    .label = יצירת סימנייה לדף זה
 menu-bookmarks-manage =
     .label = ניהול סימניות
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = הורדות
     .accesskey = ד
-menu-tools-addons =
-    .label = תוספות
-    .accesskey = ת
-menu-tools-fxa-sign-in =
-    .label = כניסה אל { -brand-product-name }…
-    .accesskey = כ
-menu-tools-turn-on-sync =
-    .label = הפעלת { -sync-brand-short-name }…
-    .accesskey = ה
 menu-tools-addons-and-themes =
     .label = תוספות וערכות נושא
     .accesskey = ת
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = התחברות מחדש ל־{ -brand-product-name }…
     .accesskey = ת
-menu-tools-web-developer =
-    .label = כלי פיתוח
-    .accesskey = כ
 menu-tools-browser-tools =
     .label = כלי דפדפן
     .accesskey = כ
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = מידע על הדף
     .accesskey = מ
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] אפשרויות
-           *[other] העדפות
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] א
-           *[other] ד
-        }
 menu-settings =
     .label = הגדרות
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = עזרה
     .accesskey = ז
-menu-help-product =
-    .label = עזרה עבור { -brand-shorter-name }
-    .accesskey = ע
-menu-help-show-tour =
-    .label = סיור ב־{ -brand-shorter-name }
-    .accesskey = ס
-menu-help-import-from-another-browser =
-    .label = ייבוא מדפדפן אחר…
-    .accesskey = י
-menu-help-keyboard-shortcuts =
-    .label = קיצורי מקלדת
-    .accesskey = ק
-menu-help-troubleshooting-info =
-    .label = מידע לפתרון בעיות
-    .accesskey = מ
 menu-get-help =
     .label = קבלת עזרה
     .accesskey = ע
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = שליחת משוב…
     .accesskey = ש
-menu-help-safe-mode-without-addons =
-    .label = הפעלה מחדש עם תוספות מנוטרלות…
-    .accesskey = מ
-menu-help-safe-mode-with-addons =
-    .label = הפעלה מחדש עם תוספות פעילות
-    .accesskey = ח
 menu-help-enter-troubleshoot-mode2 =
     .label = מצב לפתרון בעיות…
     .accesskey = פ

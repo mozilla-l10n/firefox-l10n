@@ -6,9 +6,6 @@ password-quality-meter = מד איכות ססמה
 
 ## Change Password dialog
 
-change-password-window =
-    .title = שינוי ססמה ראשית
-
 change-device-password-window =
     .title = שינוי ססמה
 
@@ -20,10 +17,6 @@ change-password-new = ססמה חדשה:
 change-password-reenter = ססמה חדשה (שוב):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = איפוס ססמה ראשית
-    .style = width: 40em
 
 pippki-failed-pw-change = לא ניתן לשנות את הססמה.
 pippki-incorrect-pw = לא הכנסת את הססמה הנוכחית הנכונה. נא לנסות שוב.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = איפוס
-reset-password-text = אם הססמה הראשית שלך תאופס, כל הססמאות לאתרים ולדוא״ל, נתוני טפסים, האישורים האישיים והמפתחות הפרטיים המאוחסנים ישכחו. האם ברצונך לאפס את הססמה הראשית שלך?
 
 reset-primary-password-text = אם הססמה הראשית שלך תאופס, כל הססמאות לאתרים ולדוא״ל, נתוני טפסים, האישורים האישיים והמפתחות הפרטיים המאוחסנים ישכחו. האם ברצונך לאפס את הססמה הראשית שלך?
 

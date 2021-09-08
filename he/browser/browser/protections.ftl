@@ -100,9 +100,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = איך זה עובד
 
-turn-on-sync = הפעלת { -sync-brand-short-name }…
-    .title = מעבר להעדפות סנכרון
-
 monitor-title = קבלת התרעות על דליפות נתונים
 monitor-link = איך זה עובד
 monitor-header-content-no-account = ניתן לבדוק את { -monitor-brand-name } כדי לראות אם היית חלק מדליפת נתונים מוכרת, ולקבל התרעות לגבי דליפות חדשות.

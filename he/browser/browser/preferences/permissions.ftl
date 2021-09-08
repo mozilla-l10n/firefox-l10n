@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = הסרת כל האתרים
     .accesskey = ס
 
-permissions-button-cancel =
-    .label = ביטול
-    .accesskey = ב
-
-permissions-button-ok =
-    .label = שמירת שינויים
-    .accesskey = ש
-
 permission-dialog =
     .buttonlabelaccept = שמירת שינויים
     .buttonaccesskeyaccept = ש

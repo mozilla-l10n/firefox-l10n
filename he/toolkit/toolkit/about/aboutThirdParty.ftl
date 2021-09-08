@@ -7,9 +7,6 @@ third-party-section-title = רשימת מודולים מצד־שלישי ב־{ -
 
 third-party-intro = דף זה מציג מודולים מצד־שלישי המוזרקים אל תוך ה־{ -brand-short-name } שלך. כל מודול שאינו חתום על־ידי Microsoft או { -vendor-short-name } נחשב להיות מודול מצד־שלישי.
 
-third-party-header-module-list = רשימת מודולים
-third-party-header-loading-events = בטעינת אירועים
-
 third-party-message-empty = לא אותרו מודולים מצד־שלישי.
 third-party-message-no-duration = לא תועד
 

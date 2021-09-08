@@ -9,8 +9,6 @@
 
 process-type-web = תוכן אינטרנט
 
-process-type-browser = ראשי
-
 process-type-extension = הרחבה
 
 # process used to open file:// URLs

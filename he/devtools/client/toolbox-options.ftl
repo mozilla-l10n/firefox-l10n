@@ -66,11 +66,6 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = התנהגות צילום המסך
 
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = צילום מסך ללוח העריכה
-options-screenshot-clipboard-tooltip =
-    .title = שמירת צילום המסך ישירות ללוח העריכה
-
-# Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = צילום מסך ללוח העריכה בלבד
 options-screenshot-clipboard-tooltip2 =
     .title = שמירת צילום המסך ישירות ללוח

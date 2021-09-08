@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = צילום מסך
-
-screenshots-my-shots-button = צילומי המסך שלי
-
 screenshot-toolbarbutton =
     .label = צילום מסך
     .tooltiptext = לקיחת צילום מסך
@@ -40,8 +36,6 @@ screenshots-login-error-details = אין אפשרות לשמור את צילום
 
 screenshots-unshootable-page-error-title = לא ניתן לצלם דף זה.
 screenshots-unshootable-page-error-details = דף זה אינו דף אינטרנט תקני, ולכן לא ניתן היה לצלם אותו.
-
-screenshots-self-screenshot-error-title = לא ניתן לצלם את הדף של { -screenshots-brand-name } עצמו!
 
 screenshots-empty-selection-error-title = הבחירה שלך קטנה מידי
 

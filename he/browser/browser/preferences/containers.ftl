@@ -5,11 +5,6 @@
 containers-window-new =
     .title = הוספת מגירה חדשה
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = העדפות המגירה { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = סמל
 containers-color-label = צבע
     .accesskey = צ
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = סיום
-    .accesskey = ס
 
 containers-dialog =
     .buttonlabelaccept = סיום

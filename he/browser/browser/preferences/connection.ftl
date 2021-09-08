@@ -35,9 +35,6 @@ connection-proxy-http = שרת מתווך HTTP‏
     .accesskey = H
 connection-proxy-http-port = שער
     .accesskey = ש
-connection-proxy-http-sharing =
-    .label = שימוש בשרת מתווך זה גם עבור FTP ו־HTTPS
-    .accesskey = ש
 
 connection-proxy-https-sharing =
     .label = שימוש בשרת מתווך זה גם עבור HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = שרת מתווך HTTPS
     .accesskey = S
 connection-proxy-ssl-port = שער
     .accesskey = ע
-
-connection-proxy-ftp = שרת מתווך FTP
-    .accesskey = F
-connection-proxy-ftp-port = שער
-    .accesskey = ר
 
 connection-proxy-socks = שרת מארח SOCKS
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = אין צורך בשרת מתווך עבור
     .accesskey = ב
 
 connection-proxy-noproxy-desc = דוגמה: mozilla.org.,‏ net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = חיבורים אל localhost,‏ 127.0.0.1 ואל ‎::1 לעולם לא יועברו דרך מתווך.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = חיבורים אל localhost,‏ 127.0.0.1/8 ואל ‎::1 לעולם לא יועברו דרך מתווך.

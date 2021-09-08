@@ -28,9 +28,6 @@ column-heading-password =
 import =
     .label = ייבוא…
     .accesskey = י
-close-button =
-    .label = סגירה
-    .accesskey = ס
 
 show-passwords =
     .label = הצגת ססמאות

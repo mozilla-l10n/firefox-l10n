@@ -29,12 +29,6 @@
 <!ENTITY closeCmd.label                                 "סגירה">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "c">
-<!ENTITY printSetupCmd.label                            "הגדרת עמוד…">
-<!ENTITY printSetupCmd.accesskey                        "ג">
-<!ENTITY printPreviewContactCmd.label                   "תצוגה לפני הדפסה של איש הקשר">
-<!ENTITY printPreviewContactCmd.accesskey               "ה">
-<!ENTITY printPreviewAddressBook.label                  "הצג לפני הדפסה את פנקס הכתובות">
-<!ENTITY printPreviewAddressBook.accesskey              "צ">
 <!ENTITY printContactCmd.label                          "הדפס פרטי איש קשר…">
 <!ENTITY printContactCmd.accesskey                      "ד">
 <!ENTITY printContactCmd.key                            "P">
@@ -107,10 +101,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "ב">
 <!ENTITY exportCmd.label                                "יצוא…">
 <!ENTITY exportCmd.accesskey                            "צ">
-<!ENTITY preferencesCmd2.label                          "אפשרויות">
-<!ENTITY preferencesCmd2.accesskey                      "א">
-<!ENTITY preferencesCmdUnix.label                       "העדפות">
-<!ENTITY preferencesCmdUnix.accesskey                   "ע">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "איש קשר חדש">

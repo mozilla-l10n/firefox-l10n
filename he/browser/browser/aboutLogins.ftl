@@ -7,17 +7,12 @@ about-logins-page-title = כניסות וססמאות
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = לקחת את הססמאות שלך לכל מקום
-login-app-promo-subtitle = הורדת היישומון { -lockwise-brand-name } בחינם
-login-app-promo-android =
-    .alt = הורדה מ־Google Play
-login-app-promo-apple =
-    .alt = הורדה מה־App Store
 login-filter =
     .placeholder = חיפוש כניסות
+
 create-login-button = יצירת כניסה חדשה
+
 fxaccounts-sign-in-text = קבלת הססמאות שלך במכשירים האחרים שלך
-fxaccounts-sign-in-button = כניסה ל־{ -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = כניסה כדי לסנכרן
 fxaccounts-avatar-button =
     .title = ניהול חשבון
@@ -37,8 +32,6 @@ menu-menuitem-preferences =
        *[other] העדפות
     }
 about-logins-menu-menuitem-help = עזרה
-menu-menuitem-android-app = ‏{ -lockwise-brand-short-name } עבור Android
-menu-menuitem-iphone-app = ‏{ -lockwise-brand-short-name } עבור iPhone ו־iPad
 
 ## Login List
 
@@ -68,6 +61,7 @@ about-logins-list-item-breach-icon =
     .title = אתר שנפרץ
 about-logins-list-item-vulnerable-password-icon =
     .title = ססמה פגיעה
+
 about-logins-list-section-breach = אתרים שנפרצו
 about-logins-list-section-vulnerable = ססמאות פגיעות
 about-logins-list-section-nothing = אין התראה
@@ -80,7 +74,6 @@ about-logins-list-section-week = 7 הימים האחרונים
 about-logins-login-intro-heading-logged-out2 = תהית איפה הכניסות השמורות שלך? ניתן לסנכרן או לייבא אותם.
 about-logins-login-intro-heading-logged-in = לא נמצאו כניסות מסונכרנות.
 login-intro-description = אם שמרת את הכניסות שלך ל־{ -brand-product-name } במכשיר אחר, כך ניתן לקבל אותן כאן:
-about-logins-intro-instruction-help = ניתן לבקר <a data-l10n-name="help-link">בתמיכה של { -lockwise-brand-short-name }</a> לעזרה נוספת
 login-intro-instructions-fxa = יש ליצור חשבון או להתחבר ל{ -fxaccount-brand-name(case: "the") } שלך במכשיר שבו שמורות הכניסות שלך.
 login-intro-instructions-fxa-settings = יש לעבור להגדרות > סנכרון > הפעלת סנכרון… > יש לבחור בתיבת הסימון של כניסות וססמאות.
 login-intro-instructions-fxa-help = ניתן לבקר <a data-l10n-name="help-link">בתמיכה של { -lockwise-brand-short-name }</a> לעזרה נוספת.
@@ -126,11 +119,13 @@ about-logins-edit-login-os-auth-dialog-message-win = כדי לערוך את הכ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = לערוך את הכניסה השמורה
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = כדי להציג את הססמה שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = להציג את הססמה השמורה
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = כדי להעתיק את הססמה שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 # This message can be seen when attempting to copy a password in about:logins
@@ -139,7 +134,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = להעתיק את ה�
 
 ## Master Password notification
 
-master-password-notification-message = נא להכניס את הססמה הראשית שלך כדי לצפות בכניסות וססמאות.
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = כדי לייצא את הכניסות שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 # This message can be seen when attempting to export a password in about:logins
@@ -155,42 +149,30 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] רוצה את הכניסות שלך בכל מקום בו יש לך את { -brand-product-name }? יש לעבור לאפשרויות { -sync-brand-short-name } ולסמן את תיבת הסימון של 'כניסות'.
-       *[other] רוצה את הכניסות שלך בכל מקום בו יש לך את { -brand-product-name }? יש לעבור להעדפות { -sync-brand-short-name } ולסמן את תיבת הסימון של 'כניסות'.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] פתיחת אפשרויות { -sync-brand-short-name }
-           *[other] פתיחת העדפות { -sync-brand-short-name }
-        }
-    .accesskey = פ
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = לא לשאול אותי שוב
-    .accesskey = ל
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = ביטול
 confirmation-dialog-dismiss-button =
     .title = ביטול
+
 about-logins-confirm-remove-dialog-title = להסיר כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 about-logins-confirm-remove-dialog-confirm-button = הסרה
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] הסרה
         [one] הסרה
        *[other] הסרת הכל
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] כן, להסיר כניסה זו
         [one] כן, להסיר כניסה זו
        *[other] כן, להסיר כניסות אלו
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] להסיר כניסה אחת?
@@ -202,6 +184,7 @@ about-logins-confirm-remove-all-dialog-message =
         [one] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } ואת כל ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
        *[other] פעולה זו תסיר את הכניסות ששמרת ב־{ -brand-short-name } ואת כל ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] להסיר כניסה אחת מכל המכשירים?
@@ -213,11 +196,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
        *[other] פעולה זו תסיר את כל הכניסות ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
     }
+
 about-logins-confirm-export-dialog-title = ייצוא כניסות וססמאות
 about-logins-confirm-export-dialog-message = הססמאות שלך יישמרו כטקסט קריא (למשל BadP@ssw0rd) כך שכל מי שיכול לפתוח את הקובץ המיוצא, יוכל גם לצפות בו.
 about-logins-confirm-export-dialog-confirm-button = ייצוא…
+
 about-logins-alert-import-title = הייבוא הושלם
 about-logins-alert-import-message = הצגת סיכום מפורט על הייבוא
+
 confirm-discard-changes-dialog-title = האם להתעלם מהשינויים שלא נשמרו?
 confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו יאבדו.
 confirm-discard-changes-dialog-confirm-button = התעלמות
@@ -248,6 +234,7 @@ about-logins-vulnerable-alert-learn-more-link = מידע נוסף
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = כבר קיימת רשומה עבור { $loginTitle } עם שם המשתמש הזה. <a data-l10n-name="duplicate-link">לעבור לרשומה הקיימת?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = אירעה שגיאה במהלך הניסיון לשמור ססמה זו.
 
@@ -297,11 +284,13 @@ about-logins-import-dialog-items-added =
         [one] <span>כניסות חדשות שנוספו:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>כניסות חדשות שנוספו:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>כניסות קיימות שעודכנו:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>כניסות קיימות שעודכנו:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>כניסות כפולות שנמצאו:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(לא יובאו)</span>
@@ -313,6 +302,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>שגיאות:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(לא יובאו)</span>
     }
 about-logins-import-dialog-done = סיום
+
 about-logins-import-dialog-error-title = שגיאה בייבוא
 about-logins-import-dialog-error-conflicting-values-title = ערכים סותרים מרובים עבור כניסה אחת
 about-logins-import-dialog-error-conflicting-values-description = לדוגמה: מספר שמות משתמשים, ססמאות, כתובות וכו' עבור כניסה אחת.
@@ -326,8 +316,10 @@ about-logins-import-dialog-error-no-logins-imported = לא יובאו כניסו
 about-logins-import-dialog-error-learn-more = מידע נוסף
 about-logins-import-dialog-error-try-import-again = ניסיון ייבוא חוזר…
 about-logins-import-dialog-error-cancel = ביטול
+
 about-logins-import-report-title = סיכום הייבוא
 about-logins-import-report-description = כניסות וססמאות יובאו אל { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = יאלץ אתרים לטעון מחדש תמונות ונתונים
 
-clear-site-data-cancel =
-    .label = ביטול
-    .accesskey = ב
-
-clear-site-data-clear =
-    .label = ניקוי
-    .accesskey = נ
-
 clear-site-data-dialog =
     .buttonlabelaccept = ניקוי
     .buttonaccesskeyaccept = נ
