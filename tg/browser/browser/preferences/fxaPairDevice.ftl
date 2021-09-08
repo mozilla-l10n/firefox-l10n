@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Пайваст кардани дастгоҳи дигар
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. <a data-l10n-name="connect-another-device">Firefox-ро дар дастгоҳи мобилии худ насб кунед</a>, агар онро ҳануз насб накарда бошед.
-
-fxa-qrcode-heading-phase2 = 2. Пас ба { -sync-brand-short-name } ворид шавед, ё дар Android рамзи ҷуфтсозиро аз дохили танзимоти { -sync-brand-short-name } сканер кунед.
-
 fxa-qrcode-heading-step1 = 1. <a data-l10n-name="connect-another-device">Firefox-ро дар дастгоҳи мобилии худ насб кунед</a>, агар онро ҳануз насб накарда бошед.
 
 fxa-qrcode-heading-step2 = 2. Firefox-ро дар дастгоҳои мобилии худ кушоед.

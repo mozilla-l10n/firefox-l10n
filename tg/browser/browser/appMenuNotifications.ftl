@@ -2,41 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-appmenu-update-available =
-    .label = Навсозии нави { -brand-shorter-name } дастрас аст.
-    .buttonlabel = Боргирӣ кардани навсозӣ
-    .buttonaccesskey = Б
-    .secondarybuttonlabel = Ҳоло не
-    .secondarybuttonaccesskey = Н
-appmenu-update-available-message = Барои баланд бардоштани суръат ва сатҳи махфият { -brand-shorter-name }-и худро навсозӣ кунед.
-appmenu-update-manual =
-    .label = { -brand-shorter-name } ба версия нав навсозӣ карда намешавад.
-    .buttonlabel = Боргирӣ кардани { -brand-shorter-name }
-    .buttonaccesskey = Б
-    .secondarybuttonlabel = Ҳоло не
-    .secondarybuttonaccesskey = Н
-appmenu-update-manual-message = Нусхаи навтарини { -brand-shorter-name }-ро боргирӣ намоед ва мо ба шумо барои насби он кумак мерасонем.
-appmenu-update-whats-new =
-    .value = Бинед, ки чӣ нав аст.
-appmenu-update-unsupported =
-    .label = { -brand-shorter-name } ба версия нав навсозӣ карда намешавад.
-    .buttonlabel = Маълумоти бештар
-    .buttonaccesskey = М
-    .secondarybuttonlabel = Пӯшидан
-    .secondarybuttonaccesskey = П
-appmenu-update-unsupported-message = Версия навтарини { -brand-shorter-name } дар низоми шумо дастгирӣ намешавад.
-appmenu-update-restart =
-    .label = Барои навсозӣ кардани { -brand-shorter-name } бозоғозӣ кунед.
-    .buttonlabel = Аз нав оғоз ва барқарор кардан
-    .buttonaccesskey = А
-    .secondarybuttonlabel = Ҳоло не
-    .secondarybuttonaccesskey = Н
-appmenu-update-restart-message = Пас аз бозоғозии тезкор, { -brand-shorter-name } ҳамаи варақаҳо ва равзанаҳои кушодашудаеро, ки дар реҷаи тамошокунии махфӣ намебошанд, барқарор мекунад.
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Хуб, фаҳмидам
-    .buttonaccesskey = Х
-appmenu-addon-post-install-message = Бо зеркунии <image data-l10n-name='addon-install-icon'></image> дар менюи <image data-l10n-name='addon-menu-icon'></image> ҷузъҳои иловагии худро идора намоед.
-
 appmenu-update-available2 =
     .label = Навсозӣ дастрас аст
     .buttonlabel = Боргирӣ кардан
@@ -81,19 +46,6 @@ appmenu-addon-post-install-incognito-checkbox =
     .label = Иҷозат додани иҷрокунии васеъшавӣ дар равзанаи махфӣ
     .accesskey = A
     
-appmenu-new-tab-controlled =
-    .label = Варақаи нави шумо тағйир ёфт.
-    .buttonlabel = Нигоҳ доштани тағйирот
-    .buttonaccesskey = Н
-    .secondarybuttonlabel = Ғайрифаъол кардани васеъшавӣ
-    .secondarybuttonaccesskey = Ғ
-appmenu-homepage-controlled =
-    .label = Саҳифаи асосии шумо тағйир ёфт.
-    .buttonlabel = Нигоҳ доштани тағйирот
-    .buttonaccesskey = Н
-    .secondarybuttonlabel = Ғайрифаъол кардани васеъшавӣ
-    .secondarybuttonaccesskey = Ғ
-
 appmenu-new-tab-controlled-changes =
     .label = Варақаи нави шумо тағйир ёфт.
     .buttonlabel = Нигоҳ доштани тағйирот

@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Пок кардан">
 
-<!ENTITY fillLoginMenu.label          "Воридшавиро пур кунед">
-<!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "Ниҳонвожаро пур кунед">
-<!ENTITY fillPasswordMenu.accesskey   "F">
-<!ENTITY fillUsernameMenu.label       "Номи корбарро пур кунед">
-<!ENTITY fillUsernameMenu.accesskey   "F">
-<!ENTITY noLoginSuggestions.label     "(Ягон пешниҳоди воридшавӣ нест)">
-<!ENTITY viewSavedLogins.label        "Дидани воридшавиҳои нигоҳдошташуда">

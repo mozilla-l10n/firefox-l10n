@@ -58,8 +58,6 @@ printui-options = Имконот
 printui-headers-footers-checkbox = Чоп кардани унвонҳо ва поварақҳо
 printui-backgrounds-checkbox = Чоп кардани заминаҳо
 
-printui-selection-checkbox = Чоп кардани танҳо минтақаи интихобшуда
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

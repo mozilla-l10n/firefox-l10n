@@ -13,3 +13,4 @@ sidebar-menu-synced-tabs =
 
 sidebar-menu-close =
     .label = Пӯшидани навори ҷонибӣ
+

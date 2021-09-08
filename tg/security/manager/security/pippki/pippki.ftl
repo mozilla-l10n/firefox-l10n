@@ -5,17 +5,10 @@
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Тағйир додани ниҳонвожаи хусусӣ…
-
 change-password-new = Ниҳонвожаи нав:
 change-password-reenter = Ниҳонвожаи нав (такроран):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Аз нав танзим кардани ниҳонвожаи хусусӣ
-    .style = width: 40em
 
 pippki-failed-pw-change = Ниҳонвожа тағйир дода намешавад.
 

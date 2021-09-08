@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Нусха бардоштан
     .accesskey = Н
+
 select-all =
     .key = A
 menu-select-all =
     .label = Ҳамаро интихоб кардан
     .accesskey = Ҳ
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = Умумӣ
     .accesskey = У
@@ -37,6 +41,7 @@ general-meta-name =
     .label = Ном
 general-meta-content =
     .label = Муҳтаво
+
 media-tab =
     .label = Расона
     .accesskey = Р
@@ -64,11 +69,13 @@ media-save-as =
 media-save-image-as =
     .label = Нигоҳ доштан ҳамчун…
     .accesskey = Н
+
 perm-tab =
     .label = Иҷозатҳо
     .accesskey = И
 permissions-for =
     .value = Иҷозатҳо барои:
+
 security-tab =
     .label = Амният
     .accesskey = А
@@ -87,14 +94,17 @@ security-view-identity-validity =
     .value = Анҷоми муҳлат:
 security-view-privacy =
     .value = Махфият ва таърих
+
 security-view-privacy-clearsitedata =
     .label = Пок кардани кукиҳо ва иттилооти сомона
     .accesskey = П
+
 security-view-privacy-viewpasswords =
     .label = Дидани ниҳонвожаҳои нигоҳдошташуда
     .accesskey = Д
 security-view-technical =
     .value = Тафсилоти техникӣ
+
 help-button =
     .label = Кумак
 
@@ -106,6 +116,7 @@ help-button =
 
 security-site-data-cookies = Ҳа, кукиҳо ва { $value } { $unit } иттилооти сомона
 security-site-data-only = Ҳа, { $value } { $unit } иттилооти сомона
+
 security-site-data-cookies-only = Ҳа, кукиҳо
 security-site-data-no = Не
 
@@ -129,6 +140,7 @@ media-video = Видео
 media-audio = Аудио
 saved-passwords-yes = Ҳа
 saved-passwords-no = Не
+
 no-page-title =
     .value = Саҳифаи беном:
 general-quirks-mode =
@@ -139,6 +151,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Истифодаи пешфарз
 security-no-visits = Не
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -149,6 +162,7 @@ security-visits-number =
         [one] Ҳа, 1 маротиба
        *[other] Ҳа, { $visits } маротиба
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -159,23 +173,27 @@ properties-general-size =
             [one] { $kb } КБ ({ $bytes } байт)
            *[other] { $kb } КБ ({ $bytes } байт)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Тасвири { $type }
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }пикс. × { $dimy }пикс.
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } КБ
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -183,6 +201,7 @@ media-file-size = { $size } КБ
 media-block-image =
     .label = Манъ кардани тасвирҳо аз { $website }
     .accesskey = М
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

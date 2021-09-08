@@ -9,14 +9,6 @@ blocklist-window =
 blocklist-treehead-list =
     .label = Рӯйхат
 
-blocklist-button-cancel =
-    .label = Бекор кардан
-    .accesskey = Б
-
-blocklist-button-ok =
-    .label = Нигоҳ доштани тағйирот
-    .accesskey = Н
-
 blocklist-dialog =
     .buttonlabelaccept = Нигоҳ доштани тағйирот
     .buttonaccesskeyaccept = Н

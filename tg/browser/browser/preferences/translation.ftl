@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Тоза кардани ҳамаи сомонаҳо
     .accesskey = Т
 
-translation-button-close =
-    .label = Пӯшидан
-    .accesskey = П
-
 translation-dialog =
     .buttonlabelaccept = Пӯшидан
     .buttonaccesskeyaccept = П

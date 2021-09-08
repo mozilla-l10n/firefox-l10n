@@ -5,10 +5,13 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Анҷом додани танзими ҳисоб
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Ҳисоб пайваст нашуд
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Фиристодан ба ҳамаи дастгоҳҳо
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Идоракунии дастгоҳҳо…

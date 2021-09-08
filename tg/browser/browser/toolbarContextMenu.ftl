@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Интихоб кардани ҳамаи варақаҳо
     .accesskey = И
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Барқарори варақаи пӯшидашуда
-            [one] Барқарори варақаҳои пӯшидашуда
-           *[other] Б
-        }
-    .accesskey = Б
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Васл кардан ба менюи васеъшуда
     .accesskey = В
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Пинҳоншавии худкор дар навори абзорҳо
-    .accesskey = П
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Агар холӣ бошад, тугмаро пинҳон кунед
     .accesskey = А

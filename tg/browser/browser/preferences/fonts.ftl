@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Рамзгузории матн барои саҳифаҳои сомонаҳои куҳна
-fonts-languages-fallback-desc = Рамзгузории матни ҷорӣ дар саҳифаҳои сомонаҳои куҳнае, ки наметавонанд рамзгузории худро муайян кунанд, истифода мешавад.
-
-fonts-languages-fallback-label = Рамзгузории эҳтиётӣ барои матн
-    .accesskey = Р
-
-fonts-languages-fallback-name-auto =
-    .label = Пешфарз барои забони ҷорӣ
-fonts-languages-fallback-name-arabic =
-    .label = Арабӣ
-fonts-languages-fallback-name-baltic =
-    .label = Балтикӣ
-fonts-languages-fallback-name-ceiso =
-    .label = Аврупоии марказӣ, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Аврупоии марказӣ, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Хитоӣ, оддӣ
-fonts-languages-fallback-name-traditional =
-    .label = Хитоӣ, анъанавӣ
-fonts-languages-fallback-name-cyrillic =
-    .label = Кириллӣ
-fonts-languages-fallback-name-greek =
-    .label = Юнонӣ
-fonts-languages-fallback-name-hebrew =
-    .label = Яҳудӣ
-fonts-languages-fallback-name-japanese =
-    .label = Ҷопонӣ
-fonts-languages-fallback-name-korean =
-    .label = Кореягӣ
-fonts-languages-fallback-name-thai =
-    .label = Тайӣ
-fonts-languages-fallback-name-turkish =
-    .label = Туркӣ
-fonts-languages-fallback-name-vietnamese =
-    .label = Ветнамӣ
-fonts-languages-fallback-name-other =
-    .label = Дигар (аз ҷумла аврупоии ғарбӣ)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

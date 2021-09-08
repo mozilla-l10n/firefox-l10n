@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Кушодани меню">
-
 <!ENTITY navbarOverflow.label                "Абзорҳои бештар…">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Васл кардани варақа">
-<!ENTITY  unpinTab.label                     "Ҷудо кардани варақа">
 
 <!ENTITY  listAllTabs.label      "Рӯйхати ҳамаи варақаҳо">
 
@@ -25,19 +15,11 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Кушодани файл…">
 <!ENTITY printCmd.label "Чоп кардан ...">
 
-<!ENTITY taskManagerCmd.label "Мудири вазифаҳо">
-
 <!ENTITY menubarCmd.label "Навори меню">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Паймоиш">
-<!ENTITY personalbarCmd.label "Навори хатбаракҳо">
-<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
-include the word "toolbar" or such, because screen readers already know that
-this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbar.accessibleLabel "Хатбаракҳо">
-<!ENTITY bookmarksToolbarItem.label "Унсурҳои навори хатбаракҳо">
 
 <!ENTITY fullScreenCmd.label "Экрани пурра">
 
@@ -45,22 +27,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings2.label "Танзимоти &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "Пайваст кардани дастгоҳи дигар…">
-<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Ворид шудан ба &brandProductName;">
-<!ENTITY fxa.menu.turnOnSync.label "Фаъол кардани &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.firefoxServices.label "Хидматҳои &brandProductName;">
-<!ENTITY fxa.menu.account.label "Ҳисоб">
-<!ENTITY fxa.menu.settings.label "Танзимот">
-<!ENTITY fxa.menu.accountSettings.label "Танзимоти ҳисоб">
-<!ENTITY fxa.menu.manageAccount2.label "Идоракунии ҳисоб">
-<!ENTITY fxa.menu.signOut.label "Баромад…">
-<!ENTITY fxa.menu.setupSync.label "Танзим кардани &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -71,21 +38,11 @@ this container is a toolbar. This avoids double-speaking. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Баромад аз экрани пурра (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Баромад аз экрани пурра (esc)">
-
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
-<!ENTITY showAllBookmarks2.label "Намоиш додани ҳамаи хатбаракҳо">
-<!ENTITY recentBookmarks.label "Хатбаракҳои охирин">
-<!ENTITY bookmarksToolbarChevron.tooltip "Намоиш додани хатбаракҳои дигар">
 
 <!ENTITY printButton.label            "Чоп кардан">
 <!ENTITY printButton.tooltip          "Чоп кардани саҳифаи ҷорӣ">
@@ -96,28 +53,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY homeButton.label             "Саҳифаи асосӣ">
 <!ENTITY homeButton.defaultPage.tooltip "Саҳифаи асосии &brandShortName;">
 
-<!ENTITY bookmarksButton.label          "Хатбаракҳо">
-
-<!ENTITY bookmarksSubview.label             "Хатбаракҳо">
-<!ENTITY bookmarksMenuButton2.label         "Менюи хатбаракҳо">
-<!ENTITY bookmarksMenuButton.other.label    "Хатбаракҳои дигар">
-<!ENTITY bookmarksMenuButton.mobile.label   "Хатбаракҳои мобилӣ">
-<!ENTITY viewBookmarksSidebar2.label        "Намоиш додани навори ҷонибии хатбаракҳо">
-<!ENTITY hideBookmarksSidebar.label         "Пинҳон кардани навори ҷонибии хатбаракҳо">
-<!ENTITY viewBookmarksToolbar.label         "Намоиш додани навори хатбаракҳо">
-<!ENTITY hideBookmarksToolbar.label         "Пинҳон кардани навори хатбаракҳо">
-<!ENTITY searchBookmarks.label              "Ҷустуҷӯи хатбаракҳо">
-<!ENTITY bookmarkingTools.label             "Воситаҳои хатбаракҳо">
-<!ENTITY addBookmarksMenu.label             "Илова кардани менюи хатбаракҳо ба навори абзорҳо">
-<!ENTITY removeBookmarksMenu.label          "Тоза кардани менюи хатбаракҳо аз навори абзорҳо">
-
 <!ENTITY historyButton.label            "Таърих">
 
 <!ENTITY downloads.label              "Боргириҳо">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Боргириҳо">
-<!ENTITY addons.label                 "Ҷузъҳои иловагӣ">
 
 <!ENTITY webDeveloperMenu.label       "Барномарезии сомонаҳо">
 
@@ -133,27 +74,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Таърих">
-<!ENTITY historyUndoMenu.label "Варақаҳои ба наздикӣ пӯшидашуда">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Равзанаҳои ба наздикӣ пӯшидашуда">
-
-<!ENTITY appMenuHistory.showAll.label "Намоиш додани таърихи пурра">
-<!ENTITY appMenuHistory.clearRecent.label "Пок кардани таърихи охирин…">
-<!ENTITY appMenuHistory.restoreSession.label "Барқарор кардани ҷаласаи қаблӣ">
-<!ENTITY appMenuHistory.viewSidebar.label "Намоиш додани навори ҷонибии таърих">
-<!ENTITY appMenuHistory.hideSidebar.label "Пинҳон кардани навори ҷонибии таърих">
-<!ENTITY appMenuHistory.recentHistory.label "Таърихи охирин">
 
 <!ENTITY appMenuHelp.label "Кумак">
-
-<!ENTITY appMenuRemoteTabs.label "Варақаҳои ҳамоҳангшуда">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ягон варақаи кушодашуда нест">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Бештар нишон диҳед">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Намоиш додани варақаҳои бештар аз ин дастгоҳ">
@@ -169,11 +95,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Мохоҳед, ки варақаҳоро аз дастгоҳҳои дигар дар ин ҷо бинед?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Кушодани хусусиятҳои ҳамоҳангсозӣ">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ҳисоби шумо бояд тасдиқ карда шавад.">
-<!ENTITY appMenuRemoteTabs.signintosync.label "Ба &syncBrand.shortName.label; ворид шавед…">
-<!ENTITY appMenuRemoteTabs.turnonsync.label "Фаъол кардани &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Идоракунии дастгоҳҳо…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Намоиш додани навори ҷонибии варақаҳои ҳамоҳангшуда">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "Пинҳон кардани навори ҷонибии варақаҳои ҳамоҳангшуда">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Пайваст кардани дастгоҳи дигар">
 
 
@@ -184,8 +105,6 @@ this container is a toolbar. This avoids double-speaking. -->
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Илова кардан ба менюи васеъшуда">
-<!ENTITY customizeMenu.removeFromToolbar.label "Тоза кардан аз навори абзорҳо">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Илова кардани ҷузъҳои бештар…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
@@ -203,19 +122,8 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
-<!ENTITY pageAction.copyLink.label    "Нусха бардоштани пайванд">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY saveToPocketCmd.label        "Нигоҳ доштани саҳифа ба «Pocket»">
-
-<!ENTITY emailPageCmd.label           "Ирсоли пайванд тавассути почта…">
-
 <!ENTITY fullZoom.label                 "Танзими андоза">
 
-
-<!ENTITY quitApplicationCmdWin2.label       "Баромад">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Баромад аз &brandShorterName;">
 
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -231,19 +139,10 @@ this container is a toolbar. This avoids double-speaking. -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Варақаҳои браузер">
 
-<!ENTITY syncBrand.shortName.label    "Ҳамоҳангсозӣ">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "Ба таври худкор пинҳон карда шавад">
-
 
 
 <!ENTITY panicButton.thankyou.msg1                "Таърихи охирини шумо тоза карда шуд.">
 
-<!ENTITY updateAvailable.panelUI.label "Боргирӣ кардани навсозии &brandShorterName;">
-
-
-<!ENTITY pageAction.shareUrl.label "Мубодила кардан">
-<!ENTITY pageAction.shareMore.label "Бештар…">
 
 <!ENTITY libraryButton.tooltip "Намоиш додани таърих, хатбаракҳои нигоҳдошташуда ва ғайра">
 

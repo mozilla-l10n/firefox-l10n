@@ -11,7 +11,6 @@ app-basics-show-update-history = Намоиши таърихи навсозиҳ�
 app-basics-binary = Файли дуии барнома
 app-basics-location-service-key-google = Калиди хидмати ҷойгиршавии Google
 app-basics-key-mozilla = Калиди хидмати ҷойгиршавии Mozilla
-restart-in-safe-mode-label = Аз нав оғоз кардани барнома бо ҷузъҳои иловагии ғайрифаъолшуда…
 
 ## Media titles
 
@@ -40,6 +39,7 @@ crashes-time-minutes =
         [one] { $minutes } дақиқа пеш
        *[other] { $minutes } дақиқа пеш
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -47,6 +47,7 @@ crashes-time-hours =
         [one] { $hours } соат пеш
        *[other] { $hours } соат пеш
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -67,13 +68,13 @@ virtual-monitor-disp = Экрани монитори маҷозӣ
 ## not found.
 
 glcontext-crash-guard = OpenGL
+
 launcher-process-status-unknown = Вазъияти номаълум
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-7 = Аз тарафи ҷузъҳои иловагӣ ғайрифаъол карда шудааст
-multi-process-status-unknown = Вазъияти номаълум
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Илова кардани дарбаргирандаи нав
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Хусусиятҳои дарбаргирандаи { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Нишона
 containers-color-label = Ранг
     .accesskey = Р
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Тайёр
-    .accesskey = Т
 
 containers-dialog =
     .buttonlabelaccept = Тайёр

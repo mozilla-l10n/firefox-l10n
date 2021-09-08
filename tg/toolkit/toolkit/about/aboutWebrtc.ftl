@@ -39,6 +39,7 @@ about-webrtc-sdp-history-heading = Таърихи SDP
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Интихоб шуд
+
 about-webrtc-save-page-label = Нигоҳ доштани саҳифа
 about-webrtc-stats-clear = Пок кардани таърих
 

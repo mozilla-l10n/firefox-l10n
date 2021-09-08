@@ -4,8 +4,10 @@
 
 profile-selection-button-accept =
     .label = Оғоз кардани { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Баромад
+
 profile-selection-delete-button =
     .label = Нест кардани профил…
     .accesskey = Н

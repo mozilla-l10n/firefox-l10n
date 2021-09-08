@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Гузоштани хатбарак
     .accesskey = Г
-reopen-in-container =
-    .label = Аз нав кушодан дар дарбаргиранда
-    .accesskey = А
 tab-context-open-in-new-container-tab =
     .label = Кушодан дар варақаи нави дарбаргиранда
     .accesskey = К
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Пӯшидани якчанд варақ
     .accesskey = П
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Барқарори варақаи пӯшидашуда
-            [one] Барқарори варақаҳои пӯшидашуда
-           *[other] Б
-        }
-    .accesskey = Б
-close-tab =
-    .label = Пӯшидани варақа
-    .accesskey = П
-close-tabs =
-    .label = Пӯшидани варақаҳо
-    .accesskey = П
-move-tabs =
-    .label = Ҷойгиркунии варақаҳо
-    .accesskey = Ҷ
-move-tab =
-    .label = Ҷойгиркунии варақа
-    .accesskey = Ҷ
 tab-context-share-url =
     .label = Мубодила кардан
     .accesskey = М
@@ -129,3 +106,4 @@ tab-context-move-tabs =
            *[other] Ҷ
         }
     .accesskey = Ҷ
+

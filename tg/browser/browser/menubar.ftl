@@ -38,16 +38,20 @@ menu-quit =
             [windows] Б
            *[other] Х
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Хомӯш кардани { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Аз { -brand-shorter-name } баромадан
+
 menu-about =
     .label = Дар бораи { -brand-shorter-name }
     .accesskey = Д
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Таҳрир кардан
     .accesskey = Т
-menu-edit-find-on =
-    .label = Ҷустуҷӯ дар ин саҳифа…
-    .accesskey = Ҷ
 menu-edit-find-in-page =
     .label = Ҷустуҷӯ дар саҳифа…
     .accesskey = Ҷ
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Наворҳои абзорҳо
     .accesskey = Н
-menu-view-customize-toolbar =
-    .label = Фармоишдиҳӣ…
-    .accesskey = Ф
 menu-view-customize-toolbar2 =
     .label = Танзимоти навори абзорҳо…
     .accesskey = Т
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Услуби асосии саҳифа
     .accesskey = У
-menu-view-charset =
-    .label = Рамзгузории матн
-    .accesskey = Р
 menu-view-repair-text-encoding =
     .label = Ислоҳкунии рамзгузории матн
     .accesskey = И
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Аз нав кушодани ҳамаи рав
 menu-bookmarks-menu =
     .label = Хатбаракҳо
     .accesskey = Х
-menu-bookmarks-show-all =
-    .label = Намоиш додани ҳамаи хатбаракҳо
-menu-bookmark-this-page =
-    .label = Гузоштани хатбарак барои ин саҳифа
 menu-bookmarks-manage =
     .label = Идоракунии хатбаракҳо
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Боргириҳо
     .accesskey = Б
-menu-tools-addons =
-    .label = Ҷузъҳои иловагӣ
-    .accesskey = Ҷ
-menu-tools-fxa-sign-in =
-    .label = Ворид шудан ба { -brand-product-name }…
-    .accesskey = В
-menu-tools-turn-on-sync =
-    .label = Фаъол кардани { -sync-brand-short-name }…
-    .accesskey = Ф
 menu-tools-addons-and-themes =
     .label = Ҷузъҳои иловагӣ ва мавзӯъҳо
     .accesskey = Ҷ
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Аз нав пайваст шудан ба { -brand-product-name }…
     .accesskey = А
-menu-tools-web-developer =
-    .label = Барномарезии сомонаҳо
-    .accesskey = Б
 menu-tools-browser-tools =
     .label = Абзорҳои браузер
     .accesskey = А
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Маълумот дар бораи саҳифа
     .accesskey = М
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Имконот
-           *[other] Хусусиятҳо
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] И
-           *[other] Х
-        }
 menu-settings =
     .label = Танзимот
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Кумак
     .accesskey = К
-menu-help-product =
-    .label = Кумаки { -brand-shorter-name }
-    .accesskey = К
-menu-help-show-tour =
-    .label = Пешнамоиши { -brand-shorter-name }
-    .accesskey = П
-menu-help-import-from-another-browser =
-    .label = Аз браузери дигар ворид кардан…
-    .accesskey = А
-menu-help-keyboard-shortcuts =
-    .label = Миёнбурҳои клавиатура
-    .accesskey = М
-menu-help-troubleshooting-info =
-    .label = Маълумот барои ислоҳи нуқсонҳо
-    .accesskey = М
 menu-get-help =
     .label = Гирифтани кумак
     .accesskey = Г
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Ирсоли изҳори назар…
     .accesskey = И
-menu-help-safe-mode-without-addons =
-    .label = Аз нав оғоз кардани барнома бо ҷузъи иловагии ғайрифаъолшуда…
-    .accesskey = А
-menu-help-safe-mode-with-addons =
-    .label = Аз нав оғоз кардани барнома бо ҷузъи иловагии фаъолшуда
-    .accesskey = А
 menu-help-enter-troubleshoot-mode2 =
     .label = Реҷаи ислоҳи нуқсонҳо…
     .accesskey = Р

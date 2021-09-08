@@ -11,11 +11,17 @@
 ## in the documentation section in about:policies.
 
 policy-CertificatesDescription = Гувоҳиномаҳоро илова кунед ё гувоҳиномаҳои дарунсохтро истифода баред.
+
 policy-DisablePrivateBrowsing = Тамошокунии махфиро ғайрифаъол мекунад.
+
 policy-DisableTelemetry = Санҷиши дурдаст (телеметрия)-ро хомӯш мекунад.
+
 policy-DNSOverHTTPS = Танзим кардани DNS тавассути HTTPS.
+
 policy-ExtensionSettings = Ҳамаи тарафҳои насбкунии васеъшавиро идора мекунад.
+
 policy-FirefoxHome = Танзим кардани саҳифаи асосии Firefox.
+
 policy-HardwareAcceleration = Дар ҳолати «false» суръатафзои сахтафзор хомӯш карда мешавад.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -24,10 +30,17 @@ policy-HardwareAcceleration = Дар ҳолати «false» суръатафзо
 ##
 
 policy-NewTabPage = Саҳифаи варақаи навро фаъол ё ғайрифаъол мекунад.
+
 policy-PictureInPicture = Реҷаи «Расм-дар-расм»-ро фаъол ё хомӯш мекунад.
+
 policy-Proxy = Хусусиятҳои проксиро танзим мекунад.
+
 policy-SearchSuggestEnabled = Пешниҳодҳои ҷустуҷӯро фаъол ё ғайрифаъол мекунад.
+
 policy-ShowHomeButton = Намоиш додани тугмаи «Асосӣ» дар навори абзорҳо.
+
 policy-SSLVersionMax = Версия ҳадди аксари SSL-ро танзим мекунад.
+
 policy-SSLVersionMin = Версия ҳадди аққали SSL-ро танзим мекунад.
+
 policy-Windows10SSO = Иҷозат додани воридшавии ягонаи Windows барои ҳисобҳои Microsoft, корӣ ва мактабӣ.

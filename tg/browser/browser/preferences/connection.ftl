@@ -35,18 +35,10 @@ connection-proxy-http = Прокси HTTP
     .accesskey = П
 connection-proxy-http-port = Порт
     .accesskey = П
-connection-proxy-http-sharing =
-    .label = Инчунин проксии ҷорӣ барои FTP ва HTTPS истифода бурда шавад
-    .accesskey = И
 
 connection-proxy-https = Прокси HTTPS
     .accesskey = П
 connection-proxy-ssl-port = Порт
-    .accesskey = П
-
-connection-proxy-ftp = Прокси FTP
-    .accesskey = П
-connection-proxy-ftp-port = Порт
     .accesskey = П
 
 connection-proxy-socks = Мизбони SOCKS
@@ -64,9 +56,6 @@ connection-proxy-noproxy = Прокси барои зерин истифода �
     .accesskey = П
 
 connection-proxy-noproxy-desc = Барои мисол: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Пайвастҳо ба шабакаи localhost, 127.0.0.1, ва ::1 ҳеҷ гоҳ бояд аз прокси истифода бурда нашаванд.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Пайвастҳо ба шабакаи localhost, 127.0.0.1/8, ва ::1 ҳеҷ гоҳ бояд аз прокси истифода бурда нашаванд.
