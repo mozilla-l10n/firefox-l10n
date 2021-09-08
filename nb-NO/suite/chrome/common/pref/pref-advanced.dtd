@@ -5,11 +5,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title              "Avansert">
 
-<!ENTITY systemPref.caption               "Systeminnstillinger">
-<!ENTITY systemPrefCheck.label            "Bruk innstillinger fra systemet">
-<!ENTITY systemPrefCheck.accesskey        "s">
-<!ENTITY systemPref.desc                  "Velg denne boksen for å arve innstillinger fra systemet. Systeminnstillinger vil overstyre &brandShortName;-innstillinger">
-
 <!ENTITY prefCheckDefault.caption         "Systemintegrasjon">
 <!ENTITY prefCheckDefaultClient.label     "Kontroller standardprogram-innstillinger ved oppstart">
 <!ENTITY prefCheckDefaultClient.accesskey "K">

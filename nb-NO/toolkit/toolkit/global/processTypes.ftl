@@ -9,8 +9,6 @@
 
 process-type-web = Nettinnhold
 
-process-type-browser = Hoved
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Priviligerte About-sider

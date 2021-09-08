@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Ny">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Melding">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Kontakt …">
 <!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Legg ved">
 <!ENTITY attachMenu.accesskey "v">
-<!ENTITY attachFileCmd.label "Filer …">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Nettside …">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Send senere">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Utskriftsformat">
-<!ENTITY printSetupCmd.accesskey "o">
-<!ENTITY printPreviewCmd.label "Forhåndsvisning">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "u">
@@ -82,11 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Omorganiser vedlegg…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Vedleggspanel">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
-<!ENTITY toggleAttachmentPaneCmd.accesskey "g">
 <!ENTITY selectAllCmd.accesskey "M">
 <!ENTITY findBarCmd.label "Finn …">
 <!ENTITY findBarCmd.accesskey "F">
@@ -105,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Omorganiser vedlegg">
-<!ENTITY moveAttachmentTopPanelBtn.label "Flytt til toppen">
-<!ENTITY moveAttachmentUpPanelBtn.label "Flytt opp">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Flytt sammen">
-<!ENTITY moveAttachmentDownPanelBtn.label "Flytt ned">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Flytt til bunnen">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -207,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Kontoinnstillinger">
 <!ENTITY accountManagerCmd2.accesskey "K">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
-<!ENTITY preferencesCmd2.label "Innstillinger">
-<!ENTITY preferencesCmd2.accesskey "I">
-<!ENTITY preferencesCmdUnix.label "Innstillinger">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -223,7 +201,6 @@
 <!ENTITY sendButton.label "Send">
 <!ENTITY quoteButton.label "Siter">
 <!ENTITY addressButton.label "Adresser">
-<!ENTITY attachButton.label "Legg ved">
 <!ENTITY spellingButton.label "Staving">
 <!ENTITY saveButton.label "Lagre">
 <!ENTITY printButton.label "Skriv ut">
@@ -233,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Send meldingen senere">
 <!ENTITY quoteButton.tooltip "Siter forrige melding">
 <!ENTITY addressButton.tooltip "Velg mottaker fra en adressebok">
-<!ENTITY attachButton.tooltip2 "Legg til et vedlegg">
 <!ENTITY spellingButton.tooltip "Kontroller staving av merket tekst eller hele meldingen">
 <!ENTITY saveButton.tooltip "Lagre meldingen">
 <!ENTITY cutButton.tooltip              "Klipp ut">
@@ -248,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Andre typer adressefelt">
 <!ENTITY fromAddr2.label "Fra">
 <!ENTITY fromAddr.accesskey "a">
-<!ENTITY toAddr2.label "Til">
-<!ENTITY ccAddr2.label "Kopi">
-<!ENTITY bccAddr2.label "Blindkopi">
 <!ENTITY replyAddr2.label "Svar-til">
 <!ENTITY newsgroupsAddr2.label "Temagruppe">
 <!ENTITY followupAddr2.label "Oppfølging-til">
@@ -309,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Merk alt">
 <!ENTITY selectAll.accesskey "M">
-<!ENTITY attachFile.label "Legg ved filer …">
-<!ENTITY attachFile.accesskey "L">
 <!ENTITY attachCloud.label "Filelink …">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Konverter til …">

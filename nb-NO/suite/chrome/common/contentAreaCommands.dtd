@@ -2,12 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label     "Avslå sprettoppvinduer fra dette nettstedet">
-<!ENTITY popupWindowRejectCmd.accesskey "o">
-<!ENTITY popupWindowAllowCmd.label      "Tillat sprettoppvinduer fra dette nettstedet">
-<!ENTITY popupWindowAllowCmd.accesskey  "o">
-
 <!ENTITY openLinkCmdInTab.label       "Åpne lenke i ny fane">
 <!ENTITY openLinkCmdInTab.accesskey   "p">
 <!ENTITY openLinkCmd.label            "Åpne lenke i nytt vindu">

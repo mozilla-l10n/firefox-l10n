@@ -94,9 +94,6 @@ no-proxy-label =
 
 no-proxy-example = Eksempel: .mozilla.org, .net.nz, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = Tilkoblinger til localhost, 127.0.0.1 og ::1 er aldri koblet til via proxy.
-
 proxy-password-prompt =
     .label = Ikke be om autentisering hvis passordet er lagret
     .accesskey = i

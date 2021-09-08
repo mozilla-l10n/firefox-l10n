@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Lukk
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Innstillinger
-           *[other] Innstillinger
-        }
-
 category-list =
     .aria-label = Kategorier
 
@@ -132,20 +125,9 @@ update-in-progress-ok-button = &Avvis
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsett
 
-addons-button = Utvidelser og temaer
-
 account-button = Kontoinnstillinger
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å opprette et hovedpassord. Dette vil gjøre kontoene dine tryggere.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = opprette et hovedpassord
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å opprette et hovedpassord. Dette vil gjøre kontoene dine tryggere.
@@ -220,10 +202,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Avansert …
     .accesskey = e
-
-tray-icon-label =
-    .label = Vis et ikon i systemstatusfeltet
-    .accesskey = t
 
 mail-system-sound-label =
     .label = Standard systemlyd for ny e-post
@@ -413,9 +391,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Farge:
     .accesskey = F
-
-search-input =
-    .placeholder = Søk
 
 type-column-label =
     .label = Innholdstype
@@ -704,16 +679,6 @@ passwords-button =
     .label = Lagrede passord …
     .accesskey = L
 
-master-password-description = Du kan bruke et hovedpassord for å beskytte alle passordene, men da må du skrive inn passordet en gang for hver programøkt.
-
-master-password-label =
-    .label = Bruk et hovedpassord
-    .accesskey = B
-
-master-password-button =
-    .label = Endre hovedpassord …
-    .accesskey = E
-
 
 primary-password-description = Du kan bruke et hovedpassord for å beskytte alle passordene, men da må du skrive inn passordet en gang for hver programøkt.
 
@@ -894,26 +859,6 @@ no-preview-description = Dette temaet er ikke gyldig eller er for øyeblikket ut
 chat-variant-label =
     .value = Variant:
     .accesskey = V
-
-chat-header-label =
-    .label = Vis overskrift
-    .accesskey = o
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Søk i innstillinger
-           *[other] Søk i innstillinger
-        }
 
 ## Preferences UI Search Results
 

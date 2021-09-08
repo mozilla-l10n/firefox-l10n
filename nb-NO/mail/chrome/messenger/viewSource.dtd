@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Lagre side som…">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Utskriftsformat…">
-<!ENTITY pageSetupCmd.accesskey "U">
-<!ENTITY printPreviewCmd.label "Forhåndsvis side">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Skriv ut…">
 <!ENTITY printCmd.accesskey "k">
 <!ENTITY printCmd.commandkey "P">

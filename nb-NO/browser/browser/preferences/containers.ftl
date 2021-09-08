@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Legg til ny beholder
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Beholderinstillinger for { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Ikon
 containers-color-label = Farge
     .accesskey = a
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Ferdig
-    .accesskey = d
 
 containers-dialog =
     .buttonlabelaccept = Ferdig

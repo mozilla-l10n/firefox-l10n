@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY aboutProduct2.label "Om &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "O">
-<!ENTITY helpTroubleshootingInfo.label     "Feilsøking">
-<!ENTITY helpTroubleshootingInfo.accesskey "F">
-<!ENTITY helpSafeMode.label     "Start på nytt uten utvidelser …">
-<!ENTITY helpSafeMode.accesskey "S">
-<!ENTITY helpSafeMode.stop.label     "Start på nytt med utvidelser påslått">
-<!ENTITY helpSafeMode.stop.accesskey "r">
 <!ENTITY productHelp.label "Hjelp for &brandShortName;">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">

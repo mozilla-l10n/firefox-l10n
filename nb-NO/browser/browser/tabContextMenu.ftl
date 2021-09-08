@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Bokmerk fane
     .accesskey = B
-reopen-in-container =
-    .label = Åpne på nytt i innholdsfane
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Åpne i ny innholdsfane
     .accesskey = e
@@ -69,25 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Lukk flere faner
     .accesskey = f
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Angre lukking av fane
-           *[other] Angre lukking av faner
-        }
-    .accesskey = A
-close-tab =
-    .label = Lukk fane
-    .accesskey = k
-close-tabs =
-    .label = Lukk faner
-    .accesskey = k
-move-tabs =
-    .label = Flytt faner
-    .accesskey = y
-move-tab =
-    .label = Flytt fane
-    .accesskey = y
 tab-context-share-url =
     .label = Del
     .accesskey = D
@@ -125,6 +103,7 @@ tab-context-move-tabs =
            *[other] Flytt faner
         }
     .accesskey = F
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Tekstkoding
-    .accesskey = e
-
 ## Tools Menu
 
 ## Help Menu
@@ -43,4 +39,6 @@ toolbar-undelete-button =
 ## View
 
 ## View / Layout
+
+## File
 

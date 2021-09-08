@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Tilleggsbehandler
-
 addons-page-title = Tilleggsbehandler
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Brukerstøtte for utvidelser
 sidebar-help-button-title =
     .title = Brukerstøtte for utvidelser
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name }-innstillinger
-       *[other] { -brand-short-name }-innstillinger
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name }-innstillinger
-           *[other] { -brand-short-name }-innstillinger
-        }
-
 addons-settings-button = { -brand-short-name }-innstillinger
 sidebar-settings-button-title =
     .title = { -brand-short-name }-innstillinger
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Vis alle utvidelser
-
-cmd-show-details =
-    .label = Vis detaljer
-    .accesskey = V
-
-cmd-find-updates =
-    .label = Søk etter oppdateringer
-    .accesskey = S
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Innstillinger
-           *[other] Innstillinger
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] I
-        }
-
-cmd-enable-theme =
-    .label = Bruk tema
-    .accesskey = B
-
-cmd-disable-theme =
-    .label = Slutt å bruke tema
-    .accesskey = b
-
-cmd-install-addon =
-    .label = Installer
-    .accesskey = I
-
-cmd-contribute =
-    .label = Bidra
-    .accesskey = B
-    .tooltiptext = Bidra til utviklingen av denne utvidelsen
 
 detail-version =
     .label = Versjon
@@ -401,8 +349,6 @@ dictionary-disabled-heading = Avslått
 
 locale-enabled-heading = Påslått
 locale-disabled-heading = Avslått
-
-ask-to-activate-button = Spør om aktivering
 
 always-activate-button = Aktiver alltid
 never-activate-button = Aktiver aldri

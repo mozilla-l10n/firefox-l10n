@@ -38,16 +38,20 @@ menu-quit =
             [windows] t
            *[other] t
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Avslutt { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Avslutt { -brand-shorter-name }
+
 menu-about =
     .label = Om { -brand-shorter-name }
     .accesskey = O
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Rediger
     .accesskey = R
-menu-edit-find-on =
-    .label = Søk på denne siden …
-    .accesskey = S
 menu-edit-find-in-page =
     .label = Søk på siden …
     .accesskey = S
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Verktøylinjer
     .accesskey = V
-menu-view-customize-toolbar =
-    .label = Tilpass …
-    .accesskey = T
 menu-view-customize-toolbar2 =
     .label = Tilpass verktøylinje …
     .accesskey = T
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Vanlig
     .accesskey = V
-menu-view-charset =
-    .label = Tekstkoding
-    .accesskey = T
 menu-view-repair-text-encoding =
     .label = Reparer tekstkoding
     .accesskey = e
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Åpne alle vinduer på nytt
 menu-bookmarks-menu =
     .label = Bokmerker
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = Vis alle bokmerker
-menu-bookmark-this-page =
-    .label = Bokmerk denne siden
 menu-bookmarks-manage =
     .label = Behandle bokmerker
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Nedlastinger
     .accesskey = N
-menu-tools-addons =
-    .label = Tillegg
-    .accesskey = T
-menu-tools-fxa-sign-in =
-    .label = Logg inn på { -brand-product-name }…
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = Slå på { -sync-brand-short-name }…
-    .accesskey = S
 menu-tools-addons-and-themes =
     .label = Tillegg og temaer
     .accesskey = T
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Koble til { -brand-product-name } på nytt…
     .accesskey = K
-menu-tools-web-developer =
-    .label = Nettsideutvikling
-    .accesskey = t
 menu-tools-browser-tools =
     .label = Nettleserverktøy
     .accesskey = N
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Sideinformasjon
     .accesskey = d
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Innstillinger
-           *[other] Innstillinger
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] I
-        }
 menu-settings =
     .label = Innstillinger
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hjelp
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } Hjelp
-    .accesskey = H
-menu-help-show-tour =
-    .label = Omvisning i { -brand-shorter-name }
-    .accesskey = m
-menu-help-import-from-another-browser =
-    .label = Importer fra en annen nettleser…
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = Tastatursnarveier
-    .accesskey = T
-menu-help-troubleshooting-info =
-    .label = Feilsøking
-    .accesskey = F
 menu-get-help =
     .label = Få hjelp
     .accesskey = F
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Gi tilbakemelding …
     .accesskey = G
-menu-help-safe-mode-without-addons =
-    .label = Start på nytt med utvidelser avslått …
-    .accesskey = r
-menu-help-safe-mode-with-addons =
-    .label = Start på nytt med utvidelser påslått
-    .accesskey = S
 menu-help-enter-troubleshoot-mode2 =
     .label = Feilsøkingsmodus…
     .accesskey = F

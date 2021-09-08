@@ -53,9 +53,6 @@ import-label = Importer
 
 about-paragraph = Thunderbird er den ledende plattformuavhengige e-post- og kalenderklienten basert på åpen kildekode, gratis for bedrifter og personlig bruk. Vi ønsker at den skal forbli sikker og bli enda bedre. En donasjon vil tillate oss å ansette utviklere, betale for infrastruktur, og fortsette å forbedre.
 
-about-paragraph-2 = <b>Thunderbird er finansiert av brukere som deg! Hvis du liker Thunderbird, kan du vurdere å gi en donasjon. /b> Den beste måten for deg å sikre at Thunderbird forblir tilgjengelig er å
-about-donation = gi en donasjon
-
 about-paragraph-consider-donation = <b>Thunderbird er finansiert av brukere som deg! Om du liker Thunderbird, vurder å donere.</b> Den beste måten å sikre at Thunderbird fremdeles er tilgjengelig er å <a data-l10n-name="donation-link">donere</a>.
 
 explore-link = Utforsk funksjoner
