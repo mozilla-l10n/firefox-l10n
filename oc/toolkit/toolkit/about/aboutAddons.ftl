@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Gestionari de moduls complementaris
-
 addons-page-title = Gestionari de moduls complementaris
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Assisténcia dels moduls
 sidebar-help-button-title =
     .title = Assisténcia dels moduls
 
-preferences =
-    { PLATFORM() ->
-        [windows] Opcions { -brand-short-name }
-       *[other] Preferéncias { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opcions { -brand-short-name }
-           *[other] Preferéncias { -brand-short-name }
-        }
-
 addons-settings-button = Paramètres de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Paramètres de { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Afichar totas las transicions
-
-cmd-show-details =
-    .label = Afichar mai d'entresenhas
-    .accesskey = f
-
-cmd-find-updates =
-    .label = Recercar de mesas a jorn
-    .accesskey = R
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opcions
-           *[other] Preferéncias
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] r
-        }
-
-cmd-enable-theme =
-    .label = Aplicar lo tèma
-    .accesskey = A
-
-cmd-disable-theme =
-    .label = Levar lo tèma
-    .accesskey = e
-
-cmd-install-addon =
-    .label = Installar
-    .accesskey = I
-
-cmd-contribute =
-    .label = Contribuir
-    .accesskey = C
-    .tooltiptext = Contribuir al desvolopament d'aqueste modul complementari
 
 detail-version =
     .label = Version
@@ -403,8 +351,6 @@ dictionary-disabled-heading = Desactivats
 
 locale-enabled-heading = Activadas
 locale-disabled-heading = Desactivadas
-
-ask-to-activate-button = Demandar per activar
 
 always-activate-button = Totjorn activar
 never-activate-button = Activar pas jamai

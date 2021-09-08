@@ -29,12 +29,6 @@
 <!ENTITY closeCmd.label                                 "Tampar">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "F">
-<!ENTITY printSetupCmd.label                            "Mesa en pagina…">
-<!ENTITY printSetupCmd.accesskey                        "M">
-<!ENTITY printPreviewContactCmd.label                   "Apercebut de la ficha abans estampatge">
-<!ENTITY printPreviewContactCmd.accesskey               "d">
-<!ENTITY printPreviewAddressBook.label                  "Apercebut del quasernet d'adreças abans estampatge">
-<!ENTITY printPreviewAddressBook.accesskey              "u">
 <!ENTITY printContactCmd.label                          "Estampar la ficha del contacte…">
 <!ENTITY printContactCmd.accesskey                      "p">
 <!ENTITY printContactCmd.key                            "P">
@@ -88,8 +82,6 @@
 <!ENTITY importCmd.accesskey                            "i">
 <!ENTITY exportCmd.label				"Exportar…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmdUnix.label                       "Preferéncias">
-<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Contacte novèl">

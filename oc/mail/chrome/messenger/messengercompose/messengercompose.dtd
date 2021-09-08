@@ -11,15 +11,11 @@
 <!ENTITY newMenu.label "Novèl">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Messatge">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Contacte del quarnet d'adresses…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Joindre">
 <!ENTITY attachMenu.accesskey "J">
-<!ENTITY attachFileCmd.label "Fichier(s)…">
-<!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Page Web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -45,8 +41,6 @@
 <!ENTITY sendLaterCmd.label "Envoyer plus tard">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "l">
-<!ENTITY printSetupCmd.label "Mise en page…">
-<!ENTITY printSetupCmd.accesskey "M">
 <!ENTITY printCmd.label "Imprimer">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
@@ -154,9 +148,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Carnet d'adresses">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.key "B">
-<!ENTITY preferencesCmdUnix.label       "Préférences">
-<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+<!ENTITY addressBookCmd.key "B"> 
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -169,7 +161,6 @@
 <!ENTITY sendButton.label "Envoyer">
 <!ENTITY quoteButton.label "Citer">
 <!ENTITY addressButton.label "Contacts">
-<!ENTITY attachButton.label "Joindre">
 <!ENTITY spellingButton.label "Orthographe">
 <!ENTITY saveButton.label "Enregistrer">
 
@@ -232,8 +223,6 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Tout sélectionner">
 <!ENTITY selectAll.accesskey "t">
-<!ENTITY attachFile.label "Joindre fichier(s)…">
-<!ENTITY attachFile.accesskey "f">
 <!ENTITY attachPage.label "Joindre page Web…">
 <!ENTITY attachPage.accesskey "W">
 

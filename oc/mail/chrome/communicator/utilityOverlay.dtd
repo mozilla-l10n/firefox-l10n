@@ -19,8 +19,6 @@
 <!ENTITY redoCmd.accesskey		"R">
 <!ENTITY deleteCmd.label		"Escafar">
 <!ENTITY deleteCmd.accesskey		"E">
-<!ENTITY preferencesCmdUnix.label	"Preferéncias">
-<!ENTITY preferencesCmdUnix.accesskey	"n">
 
 <!ENTITY viewMenu.label		"Afichatge">
 <!ENTITY viewMenu.accesskey		"A">

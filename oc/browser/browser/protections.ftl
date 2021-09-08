@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Cossí fonciona
 
-turn-on-sync = Activar { -sync-brand-short-name }…
-    .title = Anar a las preferéncias
-
 monitor-title = Gardatz un uèlh sus las pèrdas de donadas
 monitor-link = Cossí fonciona
 monitor-header-content-no-account = Consultatz { -monitor-brand-name } per verificar s’una pèrda de donadas vos concernís e per recebre d’alèrtas en cas de nòvas pèrdas.

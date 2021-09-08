@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Apondre l’onglet als marcapaginas
     .accesskey = m
-reopen-in-container =
-    .label = Tornar dobrir dins un onglet isolat
-    .accesskey = d
 tab-context-open-in-new-container-tab =
     .label = Dobrir dins un onglet isolat
     .accesskey = D
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Tampar mantun onglet
     .accesskey = T
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Anullar la tampadura d’onglets
-            [one] Anullar la tampadura de l’onglet
-           *[other] Anullar la tampadura dels onglet
-        }
-    .accesskey = A
-close-tab =
-    .label = Tampar l'onglet
-    .accesskey = T
-close-tabs =
-    .label = Tampar los onglets
-    .accesskey = T
-move-tabs =
-    .label = Desplaçar los onglets
-    .accesskey = p
-move-tab =
-    .label = Desplaçar l’onglet
-    .accesskey = p
 tab-context-share-url =
     .label = Partejar
     .accesskey = P
@@ -130,6 +107,7 @@ tab-context-move-tabs =
            *[other] Desplaçar los onglets
         }
     .accesskey = D
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

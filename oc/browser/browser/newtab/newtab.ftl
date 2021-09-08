@@ -8,9 +8,6 @@
 newtab-page-title = Onglet novèl
 newtab-settings-button =
     .title = Personalizar la pagina Onglet novèl
-newtab-personalize-button-label = Personalizar
-    .title = Personalizacion de la pagina onglet novèl
-    .aria-label = Personalizacion de la pagina onglet novèl
 newtab-personalize-icon-label =
     .title = Personalizacion de la pagina onglet novèl
     .aria-label = Personalizacion de la pagina onglet novèl
@@ -23,7 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Recercar
     .aria-label = Recercar
-newtab-search-box-search-the-web-text = Recèrca sul web
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Recercar amb { $engine } o picar una adreça
@@ -38,10 +35,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Picar un tèrme de recercar o una adreça
     .title = Picar un tèrme de recercar o una adreça
     .aria-label = Picar un tèrme de recercar o una adreça
+
 newtab-search-box-search-the-web-input =
     .placeholder = Recèrca sul web
     .title = Recèrca sul web
     .aria-label = Recèrca sul web
+
 newtab-search-box-text = Recercar sul web
 newtab-search-box-input =
     .placeholder = Recercar sul web
@@ -57,10 +56,12 @@ newtab-topsites-edit-shortcut-header = Modificar acorchi
 newtab-topsites-title-label = Títol
 newtab-topsites-title-input =
     .placeholder = Picar un títol
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Picar o pegar una URL
 newtab-topsites-url-validation = Una URLvalida es requesida
+
 newtab-topsites-image-url-label = URL de l'imatge personalizat
 newtab-topsites-use-image-link = Utilizar un imatge personalizat…
 newtab-topsites-image-validation = L’imatge a pas capitat de se cargar. Ensajatz una URL diferenta.
@@ -89,10 +90,12 @@ newtab-topsite-sponsored = Esponsorizat
 newtab-menu-section-tooltip =
     .title = Dobrir lo menú
     .aria-label = Dobrir lo menú
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Suprimir
     .aria-label = Suprimir
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -161,10 +164,12 @@ newtab-label-removed-bookmark = Marcapaginas suprimit
 newtab-label-recommended = Tendéncia
 newtab-label-saved = Pagina enregistrada dins { -pocket-brand-name }
 newtab-label-download = Telecargat
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Pairinejat
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -203,6 +208,7 @@ newtab-section-header-pocket = Recomandat per { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Començatz de navegar e aquí vos mostrarem los melhors articles, vidèos e autras paginas qu’avètz visitadas o apondudas als marcapaginas.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -248,10 +254,4 @@ newtab-custom-pocket-sponsored = Istòrias pairinejadas
 newtab-custom-recent-title = Activitat recenta
 newtab-custom-recent-subtitle = Una seleccion de sites e contenguts recents
 newtab-custom-close-button = Tampar
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Nòtas cortas
-newtab-custom-snippets-subtitle = Astúcias e novetats de { -vendor-short-name } e { -brand-product-name }
 newtab-custom-settings = Gerir mai de paramètres

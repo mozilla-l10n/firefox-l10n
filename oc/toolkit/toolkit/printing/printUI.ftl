@@ -58,8 +58,6 @@ printui-options = Opcions
 printui-headers-footers-checkbox = Imprimir las entèstas e los pès de pagina
 printui-backgrounds-checkbox = Imprimir los rèireplans
 
-printui-selection-checkbox = Sonque imprimir la seleccion
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

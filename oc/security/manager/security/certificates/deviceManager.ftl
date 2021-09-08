@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Numèro de seria
 
-fips-nonempty-password-required = Lo mòde FIPS exigís qu'ajatz definit un senhal principal per cada periferic de seguretat. Definissètz lo senhal principal abans d'activar lo mòde FIPS.
-
 fips-nonempty-primary-password-required = Lo mòde FIPS exigís qu'ajatz definit un senhal principal per cada periferic de seguretat. Definissètz lo senhal principal abans d'activar lo mòde FIPS.
 unable-to-toggle-fips = Impossible de modificar lo mode FIPS pel periferic de seguretat. Vos recomandam de quitar e de reaviar aquesta aplicacion.
 load-pk11-module-file-picker-title = Causir un pilòt de periferic PKCS#11 de cargar

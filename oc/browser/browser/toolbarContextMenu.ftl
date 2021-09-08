@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seleccionar totes los onglets
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Anullar la tampadura d’onglets
-            [one] Anullar la tampadura de l’onglet
-           *[other] Anullar la tampadura dels onglets
-        }
-    .accesskey = A
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Penjar al menú de desbordament
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Amagar automaticament dins la barra d’aisinas
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Rescondre lo boton quand i a pas res
     .accesskey = R

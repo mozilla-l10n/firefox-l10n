@@ -41,7 +41,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Talha del tap :
+
 perftools-custom-threads-label = Apondre de fils d’execucion personalizats per nom :
+
 perftools-devtools-interval-label = Interval :
 perftools-devtools-threads-label = Fils d’execucion :
 perftools-devtools-settings-label = Paramètres
@@ -100,6 +102,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Ignorar las seleccion al dessús e enregistrar totes los fils
+
 perftools-tools-threads-input-label =
     .title = Aquestes noms de fil d’execucion son una lista separada per de virgulas utilizada per activar lo perfilatge dels fils dins lo perfilador. Lo nom fa sonque mestièr d’una correspondéncia parciala del nom del fil d’inclure. Es sensible als espacis.
 
@@ -108,7 +111,9 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Novetat</b> { -profiler-brand-name } es ara integ{ -profiler-brand-name }rat a las aisinas de desvolopaire. <a>Ne saber mai</a> a prepaus d’aquesta aisina novèla.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Per una durada limitada, avètz accès al panèl original de performanças via <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Tampar lo messatge d’acuèlh

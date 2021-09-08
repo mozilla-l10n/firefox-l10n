@@ -35,9 +35,6 @@ connection-proxy-http = Servidor mandatari HTTP
     .accesskey = H
 connection-proxy-http-port = Pòrt
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Utilizar tanben aqueste servidor mandatari pel FTP e HTTPS
-    .accesskey = s
 
 connection-proxy-https-sharing =
     .label = Utilizar tanben aqueste servidor mandatari pel HTTPS
@@ -46,11 +43,6 @@ connection-proxy-https-sharing =
 connection-proxy-https = Servidor mandatari HTTPS
     .accesskey = H
 connection-proxy-ssl-port = Pòrt
-    .accesskey = P
-
-connection-proxy-ftp = Servidor mandatari FTP
-    .accesskey = F
-connection-proxy-ftp-port = Pòrt
     .accesskey = P
 
 connection-proxy-socks = Òste SOCKS
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Cap de servidor mandatari per
     .accesskey = p
 
 connection-proxy-noproxy-desc = Exemple : .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Las connexion a localhost, 127.0.0.1 e ::1 passan pas jamai per un servidor mandatari.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Las connecions a localhors, 127.0.0.1/8, e ::1 passan pas jamai pel servidor mandatari.
