@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Número de sèrie
 
-fips-nonempty-password-required = El mode FIPS requereix que tingueu una contrasenya mestra definida per a cada dispositiu de seguretat. Definiu la contrasenya abans d'habilitar el mode FIPS.
-
 fips-nonempty-primary-password-required = El mode FIPS requereix que tingueu una contrasenya principal definida per a cada dispositiu de seguretat. Definiu la contrasenya abans d'habilitar el mode FIPS.
 unable-to-toggle-fips = No s'ha pogut canviar el mode FIPS del dispositiu de seguretat. Es recomana que eixiu i reinicieu l'aplicació.
 load-pk11-module-file-picker-title = Trieu un controlador de dispositiu PKCS#11 per carregar

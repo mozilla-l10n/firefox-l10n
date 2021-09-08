@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Codificació del text per al contingut antic
-fonts-languages-fallback-desc = Esta codificació del text s'utilitza per al contingut antic que no declara la seua codificació.
-
-fonts-languages-fallback-label = Codificació del text alternativa
-    .accesskey = t
-
-fonts-languages-fallback-name-auto =
-    .label = Valor per defecte de la llengua actual
-fonts-languages-fallback-name-arabic =
-    .label = Àrab
-fonts-languages-fallback-name-baltic =
-    .label = Bàltic
-fonts-languages-fallback-name-ceiso =
-    .label = Centreeuropeu, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Centreeuropeu, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Xinés simplificat
-fonts-languages-fallback-name-traditional =
-    .label = Xinés tradicional
-fonts-languages-fallback-name-cyrillic =
-    .label = Ciríl·lic
-fonts-languages-fallback-name-greek =
-    .label = Grec
-fonts-languages-fallback-name-hebrew =
-    .label = Hebreu
-fonts-languages-fallback-name-japanese =
-    .label = Japonés
-fonts-languages-fallback-name-korean =
-    .label = Coreà
-fonts-languages-fallback-name-thai =
-    .label = Tailandés
-fonts-languages-fallback-name-turkish =
-    .label = Turc
-fonts-languages-fallback-name-vietnamese =
-    .label = Vietnamita
-fonts-languages-fallback-name-other =
-    .label = Altres (inclou l'europeu occidental)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

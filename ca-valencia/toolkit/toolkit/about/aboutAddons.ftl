@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Gestor de complements
-
 addons-page-title = Gestor de complements
 
 search-header =
@@ -33,60 +30,11 @@ help-button = Assistència per als complements
 sidebar-help-button-title =
     .title = Assistència per als complements
 
-preferences =
-    { PLATFORM() ->
-        [windows] Opcions del { -brand-short-name }
-       *[other] Preferències del { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opcions del { -brand-short-name }
-           *[other] Preferències del { -brand-short-name }
-        }
-
 show-unsigned-extensions-button =
     .label = No s'han pogut verificar algunes extensions
 
 show-all-extensions-button =
     .label = Mostra totes les extensions
-
-cmd-show-details =
-    .label = Mostra més informació
-    .accesskey = s
-
-cmd-find-updates =
-    .label = Cerca actualitzacions
-    .accesskey = C
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opcions
-           *[other] Preferències
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Emprova't el tema
-    .accesskey = v
-
-cmd-disable-theme =
-    .label = Deixa el tema
-    .accesskey = x
-
-cmd-install-addon =
-    .label = Instal·la
-    .accesskey = I
-
-cmd-contribute =
-    .label = Col·labora-hi
-    .accesskey = C
-    .tooltiptext = Col·labora en el desenvolupament del complement
 
 detail-version =
     .label = Versió
@@ -387,8 +335,6 @@ dictionary-disabled-heading = Desactivats
 
 locale-enabled-heading = Activat
 locale-disabled-heading = Desactivats
-
-ask-to-activate-button = Demana si vull activar-lo
 
 always-activate-button = Activa'l sempre
 never-activate-button = No l'activis mai

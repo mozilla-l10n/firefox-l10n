@@ -48,9 +48,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Afig la pestanya a les adreces d'interés
     .accesskey = A
-reopen-in-container =
-    .label = Torna a obrir en un contenidor
-    .accesskey = e
 move-to-start =
     .label = Mou al principi
     .accesskey = p
@@ -63,25 +60,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Tanca diverses pestanyes
     .accesskey = a
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Desfés el tancament de la pestanya
-           *[other] Desfés el tancament de les pestanyes
-        }
-    .accesskey = f
-close-tab =
-    .label = Tanca la pestanya
-    .accesskey = c
-close-tabs =
-    .label = Tanca les pestanyes
-    .accesskey = c
-move-tabs =
-    .label = Mou les pestanyes
-    .accesskey = u
-move-tab =
-    .label = Mou la pestanya
-    .accesskey = u
 tab-context-share-url =
     .label = Comparteix
     .accesskey = x
@@ -112,6 +90,7 @@ tab-context-move-tabs =
            *[other] Mou les pestanyes
         }
     .accesskey = M
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

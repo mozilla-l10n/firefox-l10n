@@ -17,13 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Selecciona totes les pestanyes
     .accesskey = t
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Desfés el tancament de la pestanya
-           *[other] Desfés el tancament de les pestanyes
-        }
-    .accesskey = f
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -53,9 +46,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fixa al menú d'eines addicionals (»)
     .accesskey = F
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Amaga automàticament en la barra d'eines
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Amaga el botó quan la llista siga buida
     .accesskey = A

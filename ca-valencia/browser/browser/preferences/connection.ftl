@@ -35,19 +35,11 @@ connection-proxy-http = Servidor intermediari d'HTTP
     .accesskey = H
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Utilitza també este servidor intermediari per a FTP i HTTPS
-    .accesskey = s
 
 connection-proxy-https = Servidor intermediari d'HTTPS
     .accesskey = H
 connection-proxy-ssl-port = Port
     .accesskey = o
-
-connection-proxy-ftp = Servidor intermediari d'FTP
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = r
 
 connection-proxy-socks = Ordinador central SOCKS
     .accesskey = K
@@ -64,9 +56,6 @@ connection-proxy-noproxy = Sense servidor intermediari per a
     .accesskey = n
 
 connection-proxy-noproxy-desc = Exemple: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = No s'utilitza mail cap servidor intermediari per a les connexions a localhost, 127.0.0.1 i ::1.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = No s'utilitza mail cap servidor intermediari per a les connexions a localhost, 127.0.0.1/8 i ::1.

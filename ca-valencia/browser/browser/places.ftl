@@ -5,9 +5,6 @@
 places-open =
     .label = Obri
     .accesskey = O
-places-open-tab =
-    .label = Obri en una pestanya nova
-    .accesskey = t
 places-open-in-tab =
     .label = Obri en una pestanya nova
     .accesskey = v
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Obri-ho tot en pestanyes
     .accesskey = O
-places-open-window =
-    .label = Obri en una finestra nova
-    .accesskey = n
-places-open-private-window =
-    .label = Obri en una finestra privada nova
-    .accesskey = p
-
-places-new-bookmark =
-    .label = Afig una adreça d'interés…
-    .accesskey = d
-places-new-folder-contextmenu =
-    .label = Crea una carpeta…
-    .accesskey = e
-places-new-folder =
-    .label = Crea una carpeta…
-    .accesskey = e
-places-new-separator =
-    .label = Afig un separador
-    .accesskey = s
 
 places-open-in-window =
     .label = Obri en una finestra nova
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Ordena per nom
     .accesskey = r
-places-properties =
-    .label = Propietats
-    .accesskey = i
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -123,3 +98,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Gestiona les adreces d'interés
     .accesskey = G
+

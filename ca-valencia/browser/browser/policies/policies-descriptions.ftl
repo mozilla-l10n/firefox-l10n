@@ -59,8 +59,6 @@ policy-DisableForgetButton = Evita l'accés al botó Oblida.
 
 policy-DisableFormHistory = No recorda l'historial de cerca ni de formularis.
 
-policy-DisableMasterPasswordCreation = Si és cert, no es pot crear una contrasenya mestra.
-
 policy-DisablePrimaryPasswordCreation = Si és cert, no es pot crear una contrasenya principal.
 
 policy-DisablePasswordReveal = No permet mostrar les contrasenyes dels inicis de sessió guardats.
@@ -134,8 +132,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Torna al comportament 
 policy-LocalFileLinks = Permetre que llocs web específics enllacin a fitxers locals.
 
 policy-ManagedBookmarks = Configura una llista d'adreces d'interés gestionada per un administrador que l'usuari no pot canviar.
-
-policy-MasterPassword = Requerir o impedir l'ús d'una contrasenya mestra.
 
 policy-ManualAppUpdateOnly = Permet només les actualitzacions manuals i sense notificar l'usuari.
 

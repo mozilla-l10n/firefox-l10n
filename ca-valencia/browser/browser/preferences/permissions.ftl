@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Elimina tots els llocs web
     .accesskey = E
 
-permissions-button-cancel =
-    .label = Cancel·la
-    .accesskey = C
-
-permissions-button-ok =
-    .label = Guarda els canvis
-    .accesskey = s
-
 permission-dialog =
     .buttonlabelaccept = Guarda els canvis
     .buttonaccesskeyaccept = s
