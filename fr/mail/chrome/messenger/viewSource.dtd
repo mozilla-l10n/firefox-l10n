@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Enregistrer sous…">
 <!ENTITY savePageCmd.accesskey "s">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Mise en page…">
-<!ENTITY pageSetupCmd.accesskey "M">
-<!ENTITY printPreviewCmd.label "Aperçu avant impression">
-<!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printCmd.label "Imprimer…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "P">

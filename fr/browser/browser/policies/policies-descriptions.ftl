@@ -65,8 +65,6 @@ policy-DisableForgetButton = Empêcher l’accès au bouton d’effacement des d
 
 policy-DisableFormHistory = Désactiver la conservation de l’historique des recherches et des formulaires.
 
-policy-DisableMasterPasswordCreation = Si activé, il sera impossible de créer un mot de passe principal.
-
 policy-DisablePrimaryPasswordCreation = Si la valeur est sur true, la création d’un mot de passe principal est impossible.
 
 policy-DisablePasswordReveal = Ne pas permettre de révéler les mots de passe dans les identifiants enregistrés.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revenir au comportemen
 policy-LocalFileLinks = Autoriser des sites précis à utiliser des liens vers des fichiers locaux.
 
 policy-ManagedBookmarks = Configurer une liste de marque-pages gérés par un administrateur qui ne peut pas être modifiée par l’utilisateur.
-
-policy-MasterPassword = Exiger ou empêcher l’utilisation d’un mot de passe principal.
 
 policy-ManualAppUpdateOnly = Autoriser uniquement les mises à jour manuelles et ne pas informer l’utilisateur ou l’utilisatrice de la disponibilité de mises à jour.
 

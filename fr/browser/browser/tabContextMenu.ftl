@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Ajouter l’onglet aux marque-pages
     .accesskey = M
-reopen-in-container =
-    .label = Rouvrir dans un onglet conteneur
-    .accesskey = O
 tab-context-open-in-new-container-tab =
     .label = Ouvrir dans un nouvel onglet conteneur
     .accesskey = e
@@ -69,25 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Fermer plusieurs onglets
     .accesskey = l
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [one] Annuler la fermeture de l’onglet
-           *[other] Annuler la fermeture des onglets
-        }
-    .accesskey = n
-close-tab =
-    .label = Fermer l’onglet
-    .accesskey = F
-close-tabs =
-    .label = Fermer les onglets
-    .accesskey = S
-move-tabs =
-    .label = Déplacer les onglets
-    .accesskey = D
-move-tab =
-    .label = Déplacer l’onglet
-    .accesskey = D
 tab-context-share-url =
     .label = Partager
     .accesskey = P
@@ -127,6 +105,7 @@ tab-context-move-tabs =
            *[other] Déplacer les onglets
         }
     .accesskey = c
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

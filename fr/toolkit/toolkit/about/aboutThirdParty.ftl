@@ -7,9 +7,6 @@ third-party-section-title = Liste des modules tiers dans { -brand-short-name }
 
 third-party-intro = Cette page affiche les modules tiers qui ont été injectés dans votre { -brand-short-name }. Tout module qui n’est pas signé par Microsoft ou { -vendor-short-name } est considéré comme un module tiers.
 
-third-party-header-module-list = Liste des modules
-third-party-header-loading-events = Chargement des évènements
-
 third-party-message-empty = Aucun module tiers n’a été détecté.
 third-party-message-no-duration = Non enregistré
 

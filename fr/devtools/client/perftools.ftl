@@ -39,7 +39,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Taille du tampon :
+
 perftools-custom-threads-label = Ajouter des threads personnalisés par nom :
+
 perftools-devtools-interval-label = Intervalle :
 perftools-devtools-threads-label = Threads :
 perftools-devtools-settings-label = Paramètres
@@ -98,6 +100,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Ignorer les sélections ci-dessus et enregistrer tous les fils enregistrés
+
 perftools-tools-threads-input-label =
     .title = Ces noms de fil d’exécution sont une liste séparée par des virgules utilisée pour activer le profilage des fils dans le profileur. Le nom ne doit correspondre que partiellement au nom du fil à inclure. Il est sensible aux espaces.
 
@@ -106,7 +109,9 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nouveau</b> : le { -profiler-brand-name } est à présent intégré dans les outils de développement. <a>En savoir plus</a> sur ce nouvel outil puissant.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Pour une durée limitée, vous pouvez accéder au panneau de performances d’origine via <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Fermer le message d’intégration

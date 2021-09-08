@@ -11,8 +11,6 @@
 <!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "Préférences">
 <!ENTITY prefWindow.size "width: 122ch; height: 44em;">
-<!ENTITY prefWindowMac.size "width: 70em; height: 44em;">
-<!ENTITY prefWindowWin.size "width: 144ch; height: 43em;">
 <!ENTITY prefWindowMac2.size "width: 70em; height: 41em;">
 <!ENTITY prefWindowWin2.size "width: 125ch; height: 44em;">
 <!ENTITY categoryHeader "Catégorie">

@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Signer numériquement ce message">
 <!ENTITY menu_securitySign.accesskey "S">
 
-<!ENTITY menu_securityAttachMyKey.label "Joindre ma clé publique">
-<!ENTITY menu_securityAttachMyKey.accesskey "a">
-
 <!ENTITY menu_securityTech.label "Technologie de chiffrement">
 <!ENTITY menu_securityTech.accesskey "T">
 

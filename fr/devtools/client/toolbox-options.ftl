@@ -66,11 +66,6 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = Comportement pour les captures d’écran
 
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Enregistrer dans le presse-papiers
-options-screenshot-clipboard-tooltip =
-    .title = Enregistrer directement la capture d’écran dans le presse-papiers
-
-# Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Capturer vers le presse-papiers uniquement
 options-screenshot-clipboard-tooltip2 =
     .title = Enregistre directement la capture d’écran dans le presse-papiers

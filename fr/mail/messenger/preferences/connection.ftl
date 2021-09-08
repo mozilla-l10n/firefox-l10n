@@ -97,9 +97,6 @@ no-proxy-label =
 
 no-proxy-example = Exemples : .mozilla.org, .asso.org, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = Les connexions à localhost, 127.0.0.1 ou ::1 ne passent jamais par un proxy.
-
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Les connexions à localhost, 127.0.0.1/8 ou ::1 ne passent jamais par un proxy.
 

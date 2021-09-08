@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Fermer
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Options
-           *[other] Préférences
-        }
-
 preferences-doc-title = Préférences
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Abandonner
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuer
 
-addons-button = Extensions et thèmes
-
 account-button = Paramètres des comptes
 open-addons-sidebar-button = Modules complémentaires et thèmes
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Pour créer un mot de passe principal, saisissez vos informations de connexion Windows. Cela contribue à protéger la sécurité de vos comptes.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = créer un mot de passe principal
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Pour créer un mot de passe principal, saisissez vos informations de connexion Windows. Cela contribue à protéger la sécurité de vos comptes.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Personnaliser…
     .accesskey = P
-
-tray-icon-label =
-    .label = Afficher une icône dans la barre de notification
-    .accesskey = e
 
 biff-use-system-alert =
     .label = Utiliser la notification système
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Couleur :
     .accesskey = o
-
-search-input =
-    .placeholder = Rechercher
 
 search-handler-table =
     .placeholder = Filtrer les types de contenu et les actions
@@ -723,16 +698,6 @@ passwords-button =
     .label = Mots de passe enregistrés…
     .accesskey = M
 
-master-password-description = Un mot de passe principal protège tous vos mots de passe, mais il faut le saisir une fois par session.
-
-master-password-label =
-    .label = Utiliser un mot de passe principal
-    .accesskey = U
-
-master-password-button =
-    .label = Gérer le mot de passe principal…
-    .accesskey = G
-
 
 primary-password-description = Un mot de passe principal protège tous vos mots de passe, mais il faut le saisir une fois par session.
 
@@ -913,26 +878,6 @@ no-preview-description = Ce thème n’est plus valide ou est indisponible (modu
 chat-variant-label =
     .value = Variante :
     .accesskey = V
-
-chat-header-label =
-    .label = Afficher l’en-tête
-    .accesskey = E
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 19em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Rechercher dans les options
-           *[other] Rechercher dans les préférences
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

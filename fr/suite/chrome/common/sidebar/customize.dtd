@@ -4,12 +4,6 @@
 
 <!-- extracted from ./customize.xul -->
 
-<!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "Personnalisation de la barre latérale">
-<!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Les panneaux de la barre latérale :">
-<!ENTITY sidebar.customize.current.accesskey    "t">
-
 <!ENTITY sidebar.customize.title                "Personnaliser la barre latérale">
 <!ENTITY sidebar.customize.current2.label       "Onglets dans la barre latérale :">
 <!ENTITY sidebar.customize.current2.accesskey   "t">

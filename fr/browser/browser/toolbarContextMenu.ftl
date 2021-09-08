@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Sélectionner tous les onglets
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [one] Annuler la fermeture de l’onglet
-           *[other] Annuler la fermeture des onglets
-        }
-    .accesskey = n
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -57,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Épingler au menu de dépassement
     .accesskey = n
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Masquer automatiquement dans la barre d’outils
-    .accesskey = M
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Masquer le bouton lorsque la liste est vide
     .accesskey = v

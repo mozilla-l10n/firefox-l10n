@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = Paramètres OTR
 otr-log =
     .label = Inclure les messages chiffrés OTR dans les historiques de conversation
-otr-requireEncryption =
-    .label = Exiger un chiffrement de bout en bout pour les conversations en tête-à-tête
-otr-verifyNudge =
-    .label = Toujours me rappeler de vérifier un contact non vérifié
-
-otr-notYetAvailable = pas encore disponible
 
 otr-require-encryption =
     .label = Exiger un chiffrement de bout en bout pour les conversations en tête-à-tête
