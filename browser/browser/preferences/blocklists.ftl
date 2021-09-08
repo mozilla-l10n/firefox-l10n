@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Lijst
 
-blocklist-button-cancel =
-    .label = Annuleren
-    .accesskey = A
-
-blocklist-button-ok =
-    .label = Wijzigingen opslaan
-    .accesskey = W
-
 blocklist-dialog =
     .buttonlabelaccept = Wijzigingen opslaan
     .buttonaccesskeyaccept = W

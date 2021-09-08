@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Alle websites verwijderen
     .accesskey = A
 
-permissions-button-cancel =
-    .label = Annuleren
-    .accesskey = n
-
-permissions-button-ok =
-    .label = Wijzigingen opslaan
-    .accesskey = s
-
 permission-dialog =
     .buttonlabelaccept = Wijzigingen opslaan
     .buttonaccesskeyaccept = s

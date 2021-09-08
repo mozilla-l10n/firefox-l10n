@@ -4,12 +4,6 @@
 
 <!-- extracted from ./customize.xul -->
 
-<!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "&sidebarName; aanpassen">
-<!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Tabbladen in &sidebarName;:">
-<!ENTITY sidebar.customize.current.accesskey    "T">
-
 <!ENTITY sidebar.customize.title                "Zijbalk aanpassen">
 <!ENTITY sidebar.customize.current2.label       "Tabbladen in zijbalk:">
 <!ENTITY sidebar.customize.current2.accesskey   "T">

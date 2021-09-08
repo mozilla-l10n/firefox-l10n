@@ -6,9 +6,6 @@ password-quality-meter = Wachtwoordkwaliteitsmeter
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Hoofdwachtwoord wijzigen
-
 change-device-password-window =
     .title = Wachtwoord wijzigen
 
@@ -20,10 +17,6 @@ change-password-new = Nieuw wachtwoord:
 change-password-reenter = Nieuw wachtwoord (nogmaals):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Hoofdwachtwoord herinitialiseren
-    .style = width: 40em
 
 pippki-failed-pw-change = Kan hoofdwachtwoord niet wijzigen.
 pippki-incorrect-pw = U hebt niet het juiste huidige hoofdwachtwoord ingevoerd. Probeer het opnieuw.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Herinitialiseren
-reset-password-text = Als u uw hoofdwachtwoord opnieuw instelt, zullen al uw opgeslagen web- en e-mailwachtwoorden, formuliergegevens, persoonlijke certificaten en privésleutels worden vergeten. Weet u zeker dat u uw hoofdwachtwoord wilt herinitialiseren?
 
 reset-primary-password-text = Als u uw hoofdwachtwoord opnieuw instelt, zullen al uw opgeslagen web- en e-mailwachtwoorden, persoonlijke certificaten en privésleutels worden vergeten. Weet u zeker dat u uw hoofdwachtwoord wilt herinitialiseren?
 

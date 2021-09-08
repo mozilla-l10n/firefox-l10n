@@ -97,8 +97,6 @@ perftools-thread-img-decoder =
     .title = Afbeeldingsontsleutelingsthreads
 perftools-thread-dns-resolver =
     .title = Op deze thread vindt DNS-omzetting plaats
-perftools-thread-js-helper =
-    .title = Achtergrondwerk van de JS-engine, zoals off-main-threadcompilaties
 
 perftools-thread-task-controller =
     .title = TaskController-threadpoolthreads

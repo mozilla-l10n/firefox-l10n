@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Sluiten
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opties
-           *[other] Voorkeuren
-        }
-
 preferences-doc-title = Voorkeuren
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Verwerpen
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Doorgaan
 
-addons-button = Extensies & Thema’s
-
 account-button = Accountinstellingen
 open-addons-sidebar-button = Add-ons en thema’s
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om een hoofdwachtwoord in te stellen. Hierdoor wordt de beveiliging van uw accounts beschermd.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = een hoofdwachtwoord aan te maken
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om een hoofdwachtwoord in te stellen. Hierdoor wordt de beveiliging van uw accounts beschermd.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Aanpassen…
     .accesskey = A
-
-tray-icon-label =
-    .label = Een systeemvakpictogram tonen
-    .accesskey = t
 
 biff-use-system-alert =
     .label = De systeemmelding gebruiken
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Kleur:
     .accesskey = u
-
-search-input =
-    .placeholder = Zoeken
 
 search-handler-table =
     .placeholder = Inhoudstypen en acties filteren
@@ -723,16 +698,6 @@ passwords-button =
     .label = Opgeslagen wachtwoorden…
     .accesskey = O
 
-master-password-description = Een hoofdwachtwoord beveiligt al uw wachtwoorden, maar u moet het eens per sessie invoeren.
-
-master-password-label =
-    .label = Een hoofdwachtwoord gebruiken
-    .accesskey = h
-
-master-password-button =
-    .label = Hoofdwachtwoord wijzigen…
-    .accesskey = w
-
 
 primary-password-description = Een hoofdwachtwoord beveiligt al uw wachtwoorden, maar u moet het eens per sessie invoeren.
 
@@ -913,26 +878,6 @@ no-preview-description = Dit thema is ongeldig of momenteel niet beschikbaar (ui
 chat-variant-label =
     .value = Variant:
     .accesskey = V
-
-chat-header-label =
-    .label = Kop tonen
-    .accesskey = K
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] In Opties zoeken
-           *[other] In Voorkeuren zoeken
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

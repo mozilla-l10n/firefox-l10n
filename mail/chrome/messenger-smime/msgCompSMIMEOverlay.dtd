@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Dit bericht digitaal ondertekenen">
 <!ENTITY menu_securitySign.accesskey "o">
 
-<!ENTITY menu_securityAttachMyKey.label "Mijn publieke sleutel toevoegen">
-<!ENTITY menu_securityAttachMyKey.accesskey "V">
-
 <!ENTITY menu_securityTech.label "Encryptietechnologie">
 <!ENTITY menu_securityTech.accesskey "E">
 

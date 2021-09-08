@@ -65,8 +65,6 @@ policy-DisableForgetButton = Toegang tot de knop Vergeten voorkomen.
 
 policy-DisableFormHistory = Geen zoek- en formuliergeschiedenis onthouden.
 
-policy-DisableMasterPasswordCreation = Wanneer true, kan geen hoofdwachtwoord worden aangemaakt.
-
 policy-DisablePrimaryPasswordCreation = Wanneer true, kan geen hoofdwachtwoord worden aangemaakt.
 
 policy-DisablePasswordReveal = Niet toestaan dat wachtwoorden worden onthuld in opgeslagen aanmeldingen.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Op specifieke websites
 policy-LocalFileLinks = Specifieke websites toestaan te koppelen naar lokale bestanden.
 
 policy-ManagedBookmarks = Configureert een lijst met bladwijzers die wordt beheerd door een beheerder en die niet door de gebruiker kan worden gewijzigd.
-
-policy-MasterPassword = Een hoofdwachtwoord vereisen of voorkomen.
 
 policy-ManualAppUpdateOnly = Alleen handmatige updates toestaan en de gebruiker niet over updates informeren.
 

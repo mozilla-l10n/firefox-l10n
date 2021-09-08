@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Add-onbeheerder
-
 addons-page-title = Add-onbeheerder
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Add-on-ondersteuning
 sidebar-help-button-title =
     .title = Add-on-ondersteuning
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name }-opties
-       *[other] { -brand-short-name }-voorkeuren
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name }-opties
-           *[other] { -brand-short-name }-voorkeuren
-        }
-
 addons-settings-button = { -brand-short-name }-instellingen
 sidebar-settings-button-title =
     .title = { -brand-short-name }-instellingen
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Alle extensies tonen
-
-cmd-show-details =
-    .label = Meer informatie tonen
-    .accesskey = M
-
-cmd-find-updates =
-    .label = Updates zoeken
-    .accesskey = z
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opties
-           *[other] Voorkeuren
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] V
-        }
-
-cmd-enable-theme =
-    .label = Thema gebruiken
-    .accesskey = T
-
-cmd-disable-theme =
-    .label = Gebruik van thema stoppen
-    .accesskey = t
-
-cmd-install-addon =
-    .label = Installeren
-    .accesskey = I
-
-cmd-contribute =
-    .label = Bijdragen
-    .accesskey = r
-    .tooltiptext = Bijdragen aan de ontwikkeling van deze add-on
 
 detail-version =
     .label = Versie
@@ -405,8 +353,6 @@ dictionary-disabled-heading = Uitgeschakeld
 
 locale-enabled-heading = Ingeschakeld
 locale-disabled-heading = Uitgeschakeld
-
-ask-to-activate-button = Vragen om te activeren
 
 always-activate-button = Altijd activeren
 never-activate-button = Nooit activeren

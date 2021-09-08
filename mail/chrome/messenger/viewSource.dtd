@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Pagina opslaan als…">
 <!ENTITY savePageCmd.accesskey "l">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Pagina-instellingen…">
-<!ENTITY pageSetupCmd.accesskey "I">
-<!ENTITY printPreviewCmd.label "Afdrukvoorbeeld">
-<!ENTITY printPreviewCmd.accesskey "V">
 <!ENTITY printCmd.label "Afdrukken…">
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.commandkey "P">

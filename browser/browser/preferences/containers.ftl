@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Nieuwe container toevoegen
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Voorkeuren van container { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Pictogram
 containers-color-label = Kleur
     .accesskey = K
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Gereed
-    .accesskey = G
 
 containers-dialog =
     .buttonlabelaccept = Gereed

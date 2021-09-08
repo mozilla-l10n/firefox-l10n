@@ -5,11 +5,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title              "Geavanceerd">
 
-<!ENTITY systemPref.caption               "Systeemvoorkeuren">
-<!ENTITY systemPrefCheck.label            "Voorkeuren van systeem gebruiken">
-<!ENTITY systemPrefCheck.accesskey        "V">
-<!ENTITY systemPref.desc                  "Met deze optie neemt &brandShortName; voorkeuren van het systeem over. Deze systeeminstellingen hebben voorrang op de voorkeuren van &brandShortName;.">
-
 <!ENTITY prefCheckDefault.caption         "Systeemintegratie">
 <!ENTITY prefCheckDefaultClient.label     "Instellingen van standaardtoepassingen controleren bij het opstarten">
 <!ENTITY prefCheckDefaultClient.accesskey "s">

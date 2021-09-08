@@ -10,9 +10,6 @@ third-party-intro =
     zijn ingebouwd. Elke module die niet door Microsoft of { -vendor-short-name }
     is ondertekend wordt beschouwd als module van derden.
 
-third-party-header-module-list = Modulelijst
-third-party-header-loading-events = Gebeurtenissen laden
-
 third-party-message-empty = Er zijn geen modules van derden gedetecteerd.
 third-party-message-no-duration = Niet opgenomen
 
