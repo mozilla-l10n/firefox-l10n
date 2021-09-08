@@ -9,8 +9,6 @@
 
 process-type-web = Веб-содержимое
 
-process-type-browser = Основной
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Привилегированная страница About

@@ -12,16 +12,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = При соединении с { $hostname } произошла ошибка. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Код ошибки: { $error }
+
 psmerr-ssl-disabled = Не удалось установить защищённое соединение, так как была отключена поддержка протокола SSL.
 psmerr-ssl2-disabled = Не удалось установить защищённое соединение, так как сайт использует устаревшую, незащищённую версию протокола SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Вы получили недействительный сертификат. Обратитесь к администратору сервера или отправьте сообщение по электронной почте тому, от кого вы получили этот сертификат, и сообщите следующую информацию:
     
     Этот сертификат содержит тот же серийный номер, что и один из других сертификатов, выданных тем же центром сертификации. Пожалуйста, получите новый сертификат с уникальным номером.
+
 ssl-error-export-only-server = Не удалось установить защищённое соединение. Узел не поддерживает шифрование высокой стойкости.
 ssl-error-us-only-server = Не удалось установить защищённое соединение. Узел требует использования неподдерживаемого шифрования высокой стойкости.
 ssl-error-no-cypher-overlap = Установка защищённого соединения с этим узлом не удалась: отсутствуют общие алгоритм(ы) шифрования.

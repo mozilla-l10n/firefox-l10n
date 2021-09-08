@@ -5,11 +5,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title              "Дополнительно">
 
-<!ENTITY systemPref.caption               "Системные настройки">
-<!ENTITY systemPrefCheck.label            "Использовать настройки системы">
-<!ENTITY systemPrefCheck.accesskey        "с">
-<!ENTITY systemPref.desc                  "С этой опцией, &brandShortName; будет использовать системные настройки. Эти системные настройки будут перекрывать параметры &brandShortName;.">
-
 <!ENTITY prefCheckDefault.caption         "Интеграция с системой">
 <!ENTITY prefCheckDefaultClient.label     "Проверять при запуске параметры приложений по умолчанию">
 <!ENTITY prefCheckDefaultClient.accesskey "в">

@@ -33,10 +33,11 @@
 <!ENTITY defaultZoom.label                      "Масштаб по умолчанию">
 <!ENTITY defaultZoom.accesskey                  "м">
 
-<!ENTITY siteSpecific.label                     "Запоминать масштаб для каждого сайта">
-<!ENTITY siteSpecific.accesskey                 "п">
 <!ENTITY textZoomOnly.label                     "Масштабировать только текст (не страницу целиком)">
 <!ENTITY textZoomOnly.accesskey                 "в">
+<!ENTITY siteSpecific.label                     "Запоминать масштаб для каждого сайта">
+<!ENTITY siteSpecific.accesskey                 "п">
+<!ENTITY showZoomStatusPanel.label              "Показывать управление масштабом в строке состояния">
 <!ENTITY enableAutomaticImageResizing.label     "Использовать автоматическое изменение размера изображений">
 <!ENTITY enableAutomaticImageResizing.accesskey "з">
 
@@ -45,4 +46,3 @@
 <!ENTITY blockAutoRefresh.label                 "Предупреждать при попытке веб-сайтов перенаправить или перезагрузить страницу">
 <!ENTITY blockAutoRefresh.accesskey             "ж">
 
-<!ENTITY showZoomStatusPanel.label              "Показывать управление масштабом в строке состояния">

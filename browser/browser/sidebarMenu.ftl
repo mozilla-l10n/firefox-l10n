@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = Закладки
+
 sidebar-menu-history =
     .label = Журнал
+
 sidebar-menu-synced-tabs =
     .label = Облачные вкладки
+
 sidebar-menu-close =
     .label = Закрыть боковую панель
+
 sidebar-close-button =
     .tooltiptext = Закрыть боковую панель

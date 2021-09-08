@@ -59,8 +59,6 @@ printui-options = Настройки
 printui-headers-footers-checkbox = Печатать колонтитулы
 printui-backgrounds-checkbox = Печатать фон
 
-printui-selection-checkbox = Печатать только выделенную область
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

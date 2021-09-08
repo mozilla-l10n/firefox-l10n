@@ -61,7 +61,6 @@
 <!ENTITY itemSessions.label               "Сессии аутентификации">
 <!ENTITY itemSessions.accesskey           "с">
 
-<!ENTITY sanitizeButton.label            "Удалить личные данные">
 <!ENTITY itemSessionsS.accesskey          "ф">
 
 <!ENTITY itemSitePreferences.label        "Настройки сайтов">

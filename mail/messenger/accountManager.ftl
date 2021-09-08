@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = Настройки { -brand-short-name }
 
 open-addons-sidebar-button = Дополнения и темы
+

@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Отпечатки ключей OTR от предыдущих разговоров со сквозным шифрованием.
 
-finger-screenName =
-    .label = Контакт
-
 finger-screen-name =
     .label = Контакт
 finger-verified =
