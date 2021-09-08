@@ -35,7 +35,3 @@ translation-sites-button-remove-all =
     .label = All Internetsitten ewechhuelen
     .accesskey = i
 
-translation-button-close =
-    .label = Zoumaachen
-    .accesskey = C
-

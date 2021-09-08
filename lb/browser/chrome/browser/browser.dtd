@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Menü opmaachen">
-
 <!ENTITY navbarOverflow.label                "Méi Handwierksgeschir…">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Tab uspéngelen">
-<!ENTITY  unpinTab.label                     "Tab ewechspéngelen">
 
 <!ENTITY  listAllTabs.label      "All Tabs oplëschten">
 
@@ -27,40 +17,9 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Menüleescht">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY personalbarCmd.label "Lieszeechensymbolleescht">
-<!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Lieszeechensymbolleeschtelementer">
 
 <!ENTITY fullScreenCmd.label "Vollbild">
 
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "ass elo am Vollbildmodus">
-<!ENTITY fullscreenWarning.generic.label "Dëst Dokument ass elo am Vollbildmodus">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Vollbild zoumaachen (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Vollbild zoumaachen (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "kontrolléiert de Maus. Esc drécken fir d'Kontroll z'iwwerhuelen.">
-<!ENTITY pointerlockWarning.generic.label "Dëst Dokument huet d'Kontroll iwwert d'Maus. Dréck Esc fir d'Kontroll z'iwwerhuelen.">
-
-<!ENTITY showAllBookmarks2.label "All Lieszeeche weisen">
-<!ENTITY recentBookmarks.label "Rezent Lieszeechen">
-<!ENTITY bookmarksToolbarChevron.tooltip "Méi Lieszeeche weisen">
 
 <!ENTITY printButton.label            "Drécken">
 <!ENTITY printButton.tooltip          "Dës Säit drécken">
@@ -72,17 +31,7 @@ can reach it easily. -->
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Heem">
 
-<!ENTITY bookmarksButton.label          "Lieszeechen">
-
-<!ENTITY bookmarksSubview.label             "Lieszeechen">
-<!ENTITY bookmarksMenuButton2.label         "Lieszeeche Menü">
-<!ENTITY bookmarksMenuButton.other.label    "Aner Lieszeechen">
-<!ENTITY bookmarksMenuButton.mobile.label   "Mobil Lieszeechen">
-<!ENTITY searchBookmarks.label              "An de Lieszeeche sichen">
-
 <!ENTITY historyButton.label            "Historique">
-
-<!ENTITY addons.label                 "Add-ons">
 
 
 <!ENTITY newNavigatorCmd.label        "Nei Fënster">
@@ -94,22 +43,11 @@ can reach it easily. -->
 
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
-<!ENTITY historyUndoMenu.label "Rezent zougemaach Tabs">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Rezent zougemaach Fënsteren">
-
-<!ENTITY appMenuHistory.restoreSession.label "Vireg Sessioun restauréieren">
-
 <!ENTITY appMenuHelp.label "Hëllef">
-
-<!ENTITY appMenuRemoteTabs.label "Synchroniséiert Tabs">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Keng oppen Tabs">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Méi weisen">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Méi Tabs vun dësem Apparat weisen">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -119,7 +57,6 @@ can reach it easily. -->
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Synchronisatiounsastellungen opmaachen">
 <!ENTITY appMenuRemoteTabs.unverified.label "Äre Benotzerkont muss iwwerpréift ginn.">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Apparate geréieren…">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Aneren Apparat verbannen">
 
 
@@ -131,7 +68,6 @@ can reach it easily. -->
      items into this menu permanently (pinned). -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Méi Elementer dobäisetzen…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
@@ -151,10 +87,6 @@ can reach it easily. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
-<!ENTITY pageAction.copyLink.label    "Link kopéieren">
-
-<!ENTITY emailPageCmd.label           "Link mailen…">
-
 <!-- Media (video/audio) controls -->
 
 <!-- LOCALIZATION NOTE :
@@ -166,11 +98,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- + is above this key on many keyboards -->
 
 <!ENTITY fullZoom.label                 "Zoom">
-
-
-<!ENTITY quitApplicationCmdWin2.label       "Zoumaachen">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; zoumaachen">
-<!ENTITY quitApplicationCmd.label       "Verloossen">
 
 
 <!-- On Windows we use the term "Options" to describe settings, but

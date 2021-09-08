@@ -90,16 +90,10 @@ menu-edit =
 menu-view =
     .label = Usiicht
     .accesskey = V
-menu-view-customize-toolbar =
-    .label = Upassen…
-    .accesskey = C
 menu-view-bookmarks =
     .label = Lieszeechen
 menu-view-history-button =
     .label = Historique
-menu-view-charset =
-    .label = Textkodéierung
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -136,10 +130,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Lieszeechen
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = All Lieszeeche weisen
-menu-bookmark-this-page =
-    .label = E Lieszeechen fir des Säit dobäisetzen
 menu-bookmark-edit =
     .label = Dëst Lieszeechen änneren
 menu-bookmarks-all-tabs =
@@ -156,9 +146,6 @@ menu-bookmarks-mobile =
 menu-tools =
     .label = Extras
     .accesskey = T
-menu-tools-addons =
-    .label = Add-ons
-    .accesskey = A
 menu-tools-sync-now =
     .label = Elo synchroniséieren
     .accesskey = S
@@ -168,17 +155,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Säiteninformatiounen
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Optiounen
-           *[other] Astellungen
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = Layout Debugger
     .accesskey = L
@@ -212,24 +188,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hëllef
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } Hëllef
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Tour
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = Tastekombinatiounen
-    .accesskey = T
-menu-help-troubleshooting-info =
-    .label = Informatiounen zur Feelerbehiewung
-    .accesskey = f
 menu-help-feedback-page =
     .label = Feedback schécken…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = Ouni Add-ons nei starten...
-    .accesskey = A
-menu-help-safe-mode-with-addons =
-    .label = Mat Add-ons nei starten
-    .accesskey = O

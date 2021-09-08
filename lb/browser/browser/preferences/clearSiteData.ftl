@@ -15,11 +15,3 @@ clear-site-data-cookies-info = Du kéins beim Läschen aus Websäiten ausgeloggt
 
 clear-site-data-cache-info = D'Websäite mussen Biller an Donnéeën nei lueden
 
-clear-site-data-cancel =
-    .label = Ofbriechen
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Läschen
-    .accesskey = l
-

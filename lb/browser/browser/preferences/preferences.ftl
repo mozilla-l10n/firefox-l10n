@@ -7,28 +7,6 @@ do-not-track-learn-more = Fir méi ze wëssen
 do-not-track-option-always =
     .label = Ëmmer
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Astellungen
-       *[other] Astellungen
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] An den Optioune fannen
-           *[other] An den Astellunge fannen
-        }
-
 pane-general-title = Allgemeng
 category-general =
     .tooltiptext = { pane-general-title }
@@ -72,18 +50,6 @@ restart-later = Méi spéit nei starten
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = D'Erweiderung <img data-l10n-name="icon"/> { $name } kontrolléiert Deng Startsäit.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = D'Erweiderung <img data-l10n-name="icon"/> { $name } kontrolléiert Deng Startsäit mam neien Tab.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = D'Erweiderung <img data-l10n-name="icon"/> { $name } huet Deng Standard-Sichmaschinn definéiert.
-
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = D'Erweiderung <img data-l10n-name="icon"/> { $name } brauch Container Tabs.
@@ -103,26 +69,11 @@ extension-controlled-enable = Fir d'Erweiderung z'aktivéieren géi op <img data
 
 search-results-header = Sichresultater
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Sorry, keng Resultater an den Optiounen fir “<span data-l10n-name="query"></span>”.
-       *[other] Sorry, keng Resultater an den Astellunge fir “<span data-l10n-name="query"></span>”.
-    }
-
 search-results-help-link = Brauchs Du Hëllef? Besich de <a data-l10n-name="url">{ -brand-short-name } Support</a>
 
 ## General Section
 
 startup-header = Start
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Gläichzäiteg Ausféierung vun { -brand-short-name } a Firefox erlaben
-use-firefox-sync = Tipp: dëst benotzt separat Profiller. Benotz { -sync-brand-short-name } fir Donnéeën ënnerteneen ze deelen.
-get-started-not-logged-in = Bei { -sync-brand-short-name } umellen...
-get-started-configured = { -sync-brand-short-name }-Astellungen opmaachen
 
 always-check-default =
     .label = Ëmmer nokucken ob { -brand-short-name } de Standard-Browser ass
@@ -159,10 +110,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Warne wann d'Opmaachen vun méi Tabs de { -brand-short-name } méi lues kéint maachen
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = Wanns Du en neie Link op mëss, direkt dohi wiesselen
-    .accesskey = h
 
 browser-containers-learn-more = Fir méi ze wëssen
 
@@ -256,10 +203,6 @@ applications-use-app =
 
 applications-always-ask =
     .label = Ëmmer froen
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -479,13 +422,9 @@ permissions-microphone = Mikro
 permissions-notification = Notifikatiounen
 permissions-notification-link = Fir méi ze wëssen
 
-permissions-a11y-privacy-link = Fir méi ze wëssen
-
 ## Privacy Section - Data Collection
 
 collection-health-report-link = Fir méi ze wëssen
-
-collection-backlogged-crash-reports-link = Fir méi ze wëssen
 
 ## Privacy Section - Security
 ##
@@ -497,10 +436,6 @@ security-header = Sécherheet
 security-enable-safe-browsing-link = Fir méi ze wëssen
 
 ## Privacy Section - Certificates
-
-certs-select-ask-option =
-    .label = Ëmmer froen
-    .accesskey = A
 
 ## Privacy Section - HTTPS-Only
 

@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Eng Säit zréckgoen
-    .aria-label = Zréck
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Eng Säit no vir goen
-    .aria-label = Virun
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = Säit späicheren ënner…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-change =
@@ -141,10 +116,6 @@ main-context-menu-open-link-new-private-window =
     .label = Link an enger neier privater Fënster opmaachen
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = E Lieszeechen fir des Säit dobäisetzen
-    .accesskey = L
-
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -163,28 +134,6 @@ main-context-menu-bookmark-this-link =
 
 
 ##
-
-main-context-menu-media-play-speed-slow =
-    .label = Lues (×0.5)
-    .accesskey = S
-
-main-context-menu-media-play-speed-normal =
-    .label = Normal
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = Séier (×1.25)
-    .accesskey = F
-
-main-context-menu-media-play-speed-faster =
-    .label = Méi séier (×1.5)
-    .accesskey = a
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Ganz séier (×2)
-    .accesskey = L
 
 main-context-menu-media-loop =
     .label = Endlosschläif
@@ -208,14 +157,6 @@ main-context-menu-image-reload =
     .label = Bild nei lueden
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = Bild weisen
-    .accesskey = I
-
-main-context-menu-image-set-as-background =
-    .label = Als Hannergrondbild astellen…
-    .accesskey = S
-
 main-context-menu-image-info =
     .label = Informatioune vum Bild weisen
     .accesskey = f
@@ -223,10 +164,6 @@ main-context-menu-image-info =
 main-context-menu-send-to-device =
     .label = Säit op en Apparat schécken
     .accesskey = n
-
-main-context-menu-view-background-image =
-    .label = Hannergrondbild weisen
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -246,12 +183,4 @@ main-context-menu-frame-bookmark =
 main-context-menu-view-page-source =
     .label = Quellcode vun der Säit weisen
     .accesskey = V
-
-main-context-menu-view-page-info =
-    .label = Informatioune vun der Säit weisen
-    .accesskey = I
-
-main-context-menu-inspect-element =
-    .label = Element inspizéieren
-    .accesskey = Q
 

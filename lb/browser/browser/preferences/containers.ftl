@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Neie Container bäisetzen
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } Container Astellungen
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Ikon
 containers-color-label = Fuerw
     .accesskey = F
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Fäerdeg
-    .accesskey = D
 
 containers-color-blue =
     .label = Blo

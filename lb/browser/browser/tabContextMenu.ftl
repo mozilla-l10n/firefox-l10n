@@ -24,10 +24,6 @@ move-to-new-window =
     .label = An eng nei Fënster réckelen
     .accesskey = W
 
-close-tab =
-    .label = Tab zoumaachen
-    .accesskey = c
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 

@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = All Internetsitte läschen
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Ofbriechen
-    .accesskey = C
-
-permissions-button-ok =
-    .label = Ännerunge späicheren
-    .accesskey = S
-
 permissions-searchbox =
     .placeholder = Internetsite sichen
 

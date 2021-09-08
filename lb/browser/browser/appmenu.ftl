@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Upassen…
-
 ## Zoom Controls
 
 appmenuitem-new-tab =
@@ -26,17 +23,13 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Elo synchroniséieren
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = All weisen
-    .tooltiptext = All Tabs vun dësem Apparat weisen
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Keng oppen Tabs
+
 appmenu-remote-tabs-connectdevice =
     .label = Aneren Apparat verbannen
 appmenu-remote-tabs-unverified = Äre Benotzerkont muss iwwerpréift ginn.
+
 appmenuitem-save-page =
     .label = Säit späicheren ënner…
 

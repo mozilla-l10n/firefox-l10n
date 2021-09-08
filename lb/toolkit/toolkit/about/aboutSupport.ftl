@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-extensions-title = Erweiderungen
-extensions-name = Numm
-extensions-enabled = Aktivéiert
-extensions-version = Versioun
 support-addons-name = Numm
 support-addons-version = Versioun
 security-software-type = Typ
@@ -73,7 +69,6 @@ sandbox-proc-type-content = Inhalt
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-unknown = Onbekannte Status
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

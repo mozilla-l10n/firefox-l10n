@@ -6,4 +6,3 @@ synced-tabs-sidebar-unverified = Äre Benotzerkont muss iwwerpréift ginn.
 synced-tabs-context-sync-now =
     .label = Elo synchroniséieren
     .accesskey = S
-fxa-sign-in = Bei { -sync-brand-short-name } umellen

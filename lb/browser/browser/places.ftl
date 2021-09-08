@@ -5,9 +5,6 @@
 places-open =
     .label = Opmaachen
     .accesskey = O
-places-open-window =
-    .label = An enger neier Fënster opmaachen
-    .accesskey = N
 
 places-by-date =
     .label = No Datum
