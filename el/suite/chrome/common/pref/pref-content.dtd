@@ -29,7 +29,6 @@
 <!ENTITY maxZoom.label                          "έως">
 <!ENTITY maxZoom.accesskey                      "ω">
 <!ENTITY percent.label                          "&#37;">
-
 <!ENTITY defaultZoom.label                      "Προεπιλεγμένο ζουμ">
 <!ENTITY defaultZoom.accesskey                  "Π">
 
@@ -38,6 +37,7 @@
 <!ENTITY siteSpecific.label                     "Αποθήκευση επιπέδων ζουμ για κάθε ιστοσελίδα">
 <!ENTITY siteSpecific.accesskey                 "μ">
 <!ENTITY showZoomStatusPanel.label              "Εμφάνιση κουμπιών ζουμ στη γραμμή κατάστασης">
+<!ENTITY showZoomStatusPanel.accesskey          "ζ">
 <!ENTITY enableAutomaticImageResizing.label     "Προσαρμογή μεγέθους μεγάλων εικόνων στο παράθυρο προγράμματος περιήγησης">
 <!ENTITY enableAutomaticImageResizing.accesskey "Π">
 
