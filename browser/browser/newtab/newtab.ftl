@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = खोज
     .aria-label = खोज
 
-newtab-search-box-search-the-web-text = वेब पर खोजू
-
 newtab-search-box-search-the-web-input =
     .placeholder = वेब पर खोजू
     .title = वेब पर खोजू

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = सहयुक्ति प्रबंधक
-
 addons-page-title = सहयुक्ति प्रबंधक
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = सभ विस्तार देखाबू
-
-cmd-show-details =
-    .label = बेसी  सूचना देखाउ
-    .accesskey = S
-
-cmd-find-updates =
-    .label = अद्यतन ताकू
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] विकल्प
-           *[other] वरीयता
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = प्रसंग पहनें
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = प्रसंग पहिरनाइ बन्न करू
-    .accesskey = W
-
-cmd-install-addon =
-    .label = संस्थापित  करू
-    .accesskey = I
-
-cmd-contribute =
-    .label = योगदान करू
-    .accesskey = C
-    .tooltiptext = ई सहयुक्ति क विकासमे अपन योगदान दिअ
 
 detail-version =
     .label = संस्करण

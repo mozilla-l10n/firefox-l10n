@@ -10,11 +10,6 @@ crashes-id = Report ID
 crashes-send-date = सौंपल
 crashes-all-reports = सभ क्रैश रिपोर्टर
 crashes-no-config = इ अनुप्रयोगक क्रैश रिपोट देखाबैमे विन्यस्त कएल गेल अछि.
-extensions-title = विस्तार
-extensions-name = नाम
-extensions-enabled = सक्रिय
-extensions-version = संस्करण
-extensions-id = ID
 support-addons-name = नाम
 support-addons-version = संस्करण
 support-addons-id = ID
@@ -53,8 +48,6 @@ library-version-title = लाइब्रेरी संस्करण
 copy-text-to-clipboard-label = सभक क्लिपबोर्ड मे नकल लिअ
 copy-raw-data-to-clipboard-label = कच्चा डाटा क्लिपबोर्ड मे नकल लिअ
 sandbox-title = सैंडबक्सा
-safe-mode-title = सुरक्षित मोड मे कोसिस करू
-restart-in-safe-mode-label = निष्क्रिय सहयुक्तिक सँग फेर आरंभ करू ...
 
 ## Media titles
 

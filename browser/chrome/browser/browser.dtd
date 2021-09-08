@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "मेनू खोलू">
-
 <!ENTITY navbarOverflow.label                "बेसी अओजार…">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "टैब पिन करें (P)">
-<!ENTITY  unpinTab.label                     "टैबक पिन निकालू">
 
 <!ENTITY  listAllTabs.label      "सभटा टैब सूचीबद्ध करू">
 
@@ -27,38 +17,9 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "मेन्यू पट्टी">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY personalbarCmd.label "पुस्तकचिह्नित अओजारपट्टी">
-<!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "अओजारपट्टी मद पुस्तकचिह्नित करैता अछि">
 
 <!ENTITY fullScreenCmd.label "पूर्ण स्क्रीन">
 
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "आब पूर्ण पटल अछि">
-<!ENTITY fullscreenWarning.generic.label "इ दस्तावेज आब पूर्ण पटल अछि ">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "पूर्ण पटल स बाहर आउ">
-<!ENTITY exitDOMFullscreenMac.button "पूर्ण पटल स बाहर आउ (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "अपन सूचक पर नियंत्रण अछि. नियंत्रण फिनु सँ वापस आनै कलेल Esc बटन दाबू.">
-
-<!ENTITY showAllBookmarks2.label "सभटा पुस्तकचिह्न केँ देखाउ">
-<!ENTITY bookmarksToolbarChevron.tooltip "बेसी पुस्तकचिह्न देखाउ">
 
 <!ENTITY printButton.label            "छापू">
 <!ENTITY printButton.tooltip          "ई पृष्ठ छापू">
@@ -68,15 +29,9 @@ can reach it easily. -->
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "घर">
 
-<!ENTITY bookmarksButton.label          "पुस्तकचिह्न">
-
-<!ENTITY viewBookmarksSidebar2.label        "पुस्तकचिह्न अओजारपट्टी देखू">
-<!ENTITY viewBookmarksToolbar.label         "पुस्तकचिह्न अओजारपट्टी देखू">
-
 <!ENTITY historyButton.label            "इतिहास">
 
 <!ENTITY downloads.label              "डाउनलोड">
-<!ENTITY addons.label                 "सहयुक्ति">
 
 <!ENTITY webDeveloperMenu.label       "वेब डेवलेपर">
 
@@ -88,16 +43,6 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label       "वरीयता">
 
 <!ENTITY historyMenu.label "इतिहास">
-
-<!ENTITY historyUndoMenu.label "हाल मे बंद टैब">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "हाल मे बंद विंडो">
-
-<!ENTITY appMenuHistory.showAll.label "सभटा इतिहास देखाउ">
-
-<!ENTITY appMenuHistory.clearRecent.label "हालक इतिहास साफ करू…">
-<!ENTITY appMenuHistory.restoreSession.label "पछिला सत्र फेर बहाल करू">
-<!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाज़ूपट्टी देखाबू">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -115,8 +60,6 @@ can reach it easily. -->
 
 <!ENTITY customizeMenu.addToToolbar.label "अओज़ार पट्टी मे जोड़ू (A)">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.removeFromToolbar.label "अओजारपट्टी सँ निकालू (R)">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "बेसी वस्तु जोड़ू ... (A)">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
@@ -134,8 +77,6 @@ can reach it easily. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
-<!ENTITY emailPageCmd.label           "कड़ी ईमेल करू (E)…">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
@@ -150,13 +91,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "पैघ-छोट करू">
 
 <!ENTITY sidebarCloseButton.tooltip     "बाजू पट्टी बन्न करू">
-
-<!ENTITY quitApplicationCmdWin2.label       "बाहर">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; स बाहर">
-<!ENTITY quitApplicationCmd.label       "बाहर जाउ">
-<!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; स बाहर जाउ">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -193,8 +127,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      mutually exclusive -->
 
 
-
-<!ENTITY syncBrand.shortName.label    "Sync">
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->

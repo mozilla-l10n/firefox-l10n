@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = एकगोट पृष्ठ पाछाँ जाउ
-    .aria-label = पाछाँ
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = एक पृष्ठ आगाँ जाउ
-    .aria-label = अग्रेषित करू
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = पृष्ठ एहिना सहेजू…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -133,10 +108,6 @@ main-context-menu-open-link-new-private-window =
     .label = नव निज विंडो मे कड़ी खोलू (P)
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = ई कड़ी पुस्तकचिह्नित करू
-    .accesskey = L
-
 main-context-menu-save-link =
     .label = कड़ी एहिना सहेजू…
     .accesskey = k
@@ -153,10 +124,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = ईमेल पता क नकल लिअ'
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = कड़ी स्थानक नकल लिअ'
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -207,29 +174,9 @@ main-context-menu-image-reload =
     .label = छवि फेर लोड करू
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = छवि देखू
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = वीडियो देखू
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = छविक नकल लिअ'
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = छवि स्थानक नकल लिअ'
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = वीडियो स्थानक नकल लिअ'
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = आडियो स्थानक नकल लिअ'
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = छवि एहिना सहेजू…
@@ -238,10 +185,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = छवि ईमेल करू (g)…
     .accesskey = g
-
-main-context-menu-image-set-as-background =
-    .label = बतौर डेस्कटॉप पृष्ठभूमि सेट करू…
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = छवि सूचना देखू
@@ -258,10 +201,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = एहिना आडियो सहेजू…
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = चित्र एहिना सहेजू…
-    .accesskey = S
 
 main-context-menu-video-email =
     .label = वीडियो ईमेल करें (a)…
@@ -282,10 +221,6 @@ main-context-menu-plugin-hide =
 main-context-menu-send-to-device =
     .label = डिवाइस मे पृष्ठ पठाबू
     .accesskey = n
-
-main-context-menu-view-background-image =
-    .label = पृष्ठभूमि छवि देखू
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -350,10 +285,6 @@ main-context-menu-view-page-source =
     .label = पृष्ठ स्रोत देखू
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = पृष्ठ  सूचना देखू
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = पाठ दिशा बदलू
     .accesskey = w
@@ -362,10 +293,7 @@ main-context-menu-bidi-switch-page =
     .label = पृष्ठ दिशा बदलू
     .accesskey = D
 
-main-context-menu-inspect-element =
-    .label = तत्व जाँचू
-    .accesskey = Q
-
 main-context-menu-eme-learn-more =
     .label = DRM केर संबंध मे बेसी जानू…
     .accesskey = D
+

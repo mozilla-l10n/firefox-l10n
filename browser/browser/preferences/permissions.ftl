@@ -24,14 +24,6 @@ permissions-allow =
 permissions-status =
     .label = स्थिति
 
-permissions-button-cancel =
-    .label = रद्द करू
-    .accesskey = C
-
-permissions-button-ok =
-    .label = परिवर्तन सहेजू
-    .accesskey = प
-
 permissions-capabilities-allow =
     .label = अनुमति दिअ
 permissions-capabilities-block =
