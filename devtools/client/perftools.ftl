@@ -97,8 +97,6 @@ perftools-thread-img-decoder =
     .title = Fíos da descodificación de imaxe
 perftools-thread-dns-resolver =
     .title = Neste fío sucede a resolución de DNS
-perftools-thread-js-helper =
-    .title = Traballo en segundo plano do motor de JS, como as compilacións fóra-do-fío-principal
 
 ##
 

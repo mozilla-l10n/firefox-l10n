@@ -13,7 +13,6 @@
 <!ENTITY subscribeFeeds.label         "Xestionar subscricións">
 
 <!ENTITY chat.label                   "Mensaxería instantánea">
-<!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "Contas">
 <!ENTITY subscribeImapFolders.label   "Xestión de subscricións a cartafoles">

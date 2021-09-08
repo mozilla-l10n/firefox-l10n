@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Propiedades">
 
 <!ENTITY generalInfo.label                       "Información xeral">
-<!ENTITY folderCharsetFallback2.label            "Codificación de texto alternativa:">
-<!ENTITY folderCharsetFallback2.accesskey        "e">
-<!ENTITY folderCharsetEnforce2.label             "Aplicar a codificación a todas as mensaxes do cartafol (ignóranse as preferencias de codificación de texto de mensaxes individuais, así como a detección automática)">
-<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruír índice do ficheiro resumo">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar o cartafol">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">

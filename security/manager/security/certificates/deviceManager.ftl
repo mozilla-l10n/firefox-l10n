@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Número de serie
 
-fips-nonempty-password-required = O modo FIPS requier que dispoña dun contrasinal principal para cada dispositivo de seguranza. Estabeleza o contrasinal antes de tentar activar este modo.
-
 fips-nonempty-primary-password-required = O modo FIPS require que teña un contrasinal principal definido para cada dispositivo de seguridade. Por favor, configure o contrasinal antes de tentar habilitar o modo FIPS.
 unable-to-toggle-fips = Non é posíbel cambiar o modo FIPS para o dispositivo de seguranza. Recomendase que saia e reinicie este aplicativo.
 load-pk11-module-file-picker-title = Escolla un controlador de dispositivo PKCS#11 para cargar

@@ -35,19 +35,11 @@ connection-proxy-http = Proxy HTTP
     .accesskey = y
 connection-proxy-http-port = Porto
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Utilizar este proxy tamén para FTP e HTTPS
-    .accesskey = U
 
 connection-proxy-https = Proxy de HTTPS
     .accesskey = H
 connection-proxy-ssl-port = Porto
     .accesskey = o
-
-connection-proxy-ftp = Proxy FTP
-    .accesskey = F
-connection-proxy-ftp-port = Porto
-    .accesskey = r
 
 connection-proxy-socks = Servidor SOCKS
     .accesskey = C
@@ -64,9 +56,6 @@ connection-proxy-noproxy = Sen proxy para
     .accesskey = n
 
 connection-proxy-noproxy-desc = Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = As conexións a localhost, 127.0.0.1 e :: 1 nunca se pasan por un proxy.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = As conexións ao servidor local, 127.0.0.1/8, e ::1 nunca son intermediadas.

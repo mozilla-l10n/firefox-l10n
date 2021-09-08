@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Asinar dixitalmente esta mensaxe">
 <!ENTITY menu_securitySign.accesskey "A">
 
-<!ENTITY menu_securityAttachMyKey.label "Anexar a miña clave pública">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "Tecnoloxía de cifraxe">
 <!ENTITY menu_securityTech.accesskey "T">
 

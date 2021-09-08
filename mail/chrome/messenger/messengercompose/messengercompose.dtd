@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Novo">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Mensaxe">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Contacto da axenda de enderezos…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Anexar">
 <!ENTITY attachMenu.accesskey "x">
-<!ENTITY attachFileCmd.label "Ficheiro(s)…">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Páxina web…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Enviar máis tarde">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "m">
-<!ENTITY printSetupCmd.label "Configuración da páxina…">
-<!ENTITY printSetupCmd.accesskey "C">
-<!ENTITY printPreviewCmd.label "Previsualizar">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "I">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Reordenar anexos…">
 <!ENTITY reorderAttachmentsCmd.accesskey "x">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Panel de anexos">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "x">
 <!ENTITY selectAllCmd.accesskey "S">
 <!ENTITY findBarCmd.label "Localizar…">
 <!ENTITY findBarCmd.accesskey "z">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Reordenar anexos">
-<!ENTITY moveAttachmentTopPanelBtn.label "Mover ao principio">
-<!ENTITY moveAttachmentUpPanelBtn.label "Subir">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Mover xuntos">
-<!ENTITY moveAttachmentDownPanelBtn.label "Baixar">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Mover ao final">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Configuración da conta">
 <!ENTITY accountManagerCmd2.accesskey "g">
 <!ENTITY accountManagerCmdUnix2.accesskey "g">
-<!ENTITY preferencesCmd2.label "Opcións">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Preferencias">
-<!ENTITY preferencesCmdUnix.accesskey "f">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Enviar">
 <!ENTITY quoteButton.label "Citar">
 <!ENTITY addressButton.label "Contactos">
-<!ENTITY attachButton.label "Anexar">
 <!ENTITY spellingButton.label "Ortografía">
 <!ENTITY saveButton.label "Gardar">
 <!ENTITY printButton.label "Imprimir">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Enviar esta mensaxe máis tarde">
 <!ENTITY quoteButton.tooltip "Citar a mensaxe anterior">
 <!ENTITY addressButton.tooltip "Seleccionar un destinatario dunha axenda de enderezos">
-<!ENTITY attachButton.tooltip2 "Engade un anexo">
 <!ENTITY spellingButton.tooltip "Verificación ortográfica da selección ou da mensaxe completa">
 <!ENTITY saveButton.tooltip "Gardar esta mensaxe">
 <!ENTITY cutButton.tooltip              "Cortar">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Outros tipos de campos de enderezo">
 <!ENTITY fromAddr2.label "De">
 <!ENTITY fromAddr.accesskey "e">
-<!ENTITY toAddr2.label "Para">
-<!ENTITY ccAddr2.label "Cc">
-<!ENTITY bccAddr2.label "Cco">
 <!ENTITY replyAddr2.label "Responder a">
 <!ENTITY newsgroupsAddr2.label "Grupo de novas">
 <!ENTITY followupAddr2.label "Seguimento a">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "t">
 <!ENTITY selectAll.label "Seleccionar todo">
 <!ENTITY selectAll.accesskey "t">
-<!ENTITY attachFile.label "Anexar ficheiro(s)…">
-<!ENTITY attachFile.accesskey "x">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Converter a…">

@@ -9,9 +9,6 @@ newtab-page-title = Nova lapela
 newtab-settings-button =
     .title = Personalice a páxina de nova lapela
 
-newtab-personalize-button-label = Personalizar
-    .title = personalizar lapela nova
-    .aria-label = personalizar lapela nova
 newtab-personalize-icon-label =
     .title = personalizar lapela nova
     .aria-label = personalizar lapela nova
@@ -24,8 +21,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Buscar
     .aria-label = Buscar
-
-newtab-search-box-search-the-web-text = Buscar na Web
 
 # Variables
 #  $engine (String): the name of the user's default search engine
@@ -265,10 +260,4 @@ newtab-custom-recent-title = Actividade recente
 newtab-custom-recent-subtitle = Unha selección de sitios e contido recentes
 newtab-custom-close-button = Pechar
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Fragmentos
-newtab-custom-snippets-subtitle = Consellos e novas de { -vendor-short-name } e { -brand-product-name }
 newtab-custom-settings = Xestionar máis axustes

@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Retirar seleccionados
     .accesskey = R
 
-site-data-button-cancel =
-    .label = Cancelar
-    .accesskey = C
-
-site-data-button-save =
-    .label = Gardar cambios
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = Gardar cambios
     .buttonaccesskeyaccept = a

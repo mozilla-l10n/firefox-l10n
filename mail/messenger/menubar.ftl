@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Codificación do texto
-    .accesskey = c
-
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -16,6 +12,7 @@ menu-view-charset =
 menu-tools-preferences =
     .label = Preferencias
     .accesskey = P
+
 menu-addons-and-themes =
     .label = Complementos e temas
     .accesskey = a
@@ -25,9 +22,11 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Modo de resolución de problemas…
     .accesskey = M
+
 menu-help-exit-troubleshoot-mode =
     .label = Desactivar o modo de resolución de problemas
     .accesskey = D
+
 menu-help-more-troubleshooting-info =
     .label = Máis información para solucionar problemas
     .accesskey = i
@@ -58,12 +57,18 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Densidade
     .accesskey = D
+
 mail-uidensity-compact =
     .label = Compactar
     .accesskey = C
+
 mail-uidensity-normal =
     .label = Normal
     .accesskey = N
+
 mail-uidensity-touch =
     .label = Táctil
     .accesskey = T
+
+## File
+

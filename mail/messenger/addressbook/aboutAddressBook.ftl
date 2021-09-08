@@ -20,6 +20,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Todas as axendas de enderezos
+
 about-addressbook-books-context-properties =
     .label = Propiedades
 about-addressbook-books-context-synchronize =
@@ -30,6 +31,7 @@ about-addressbook-books-context-delete =
     .label = Eliminar
 about-addressbook-books-context-remove =
     .label = Retirar
+
 about-addressbook-confirm-delete-book-title = Eliminar a axenda de enderezos
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -47,14 +49,17 @@ about-addressbook-search =
     .placeholder = Buscar { $name }
 about-addressbook-search-all =
     .placeholder = Busca en todas as axendas de enderezos
+
 about-addressbook-sort-button =
     .title = Alterar a orde da lista
+
 about-addressbook-name-format-display =
     .label = Amosar o nome
 about-addressbook-name-format-firstlast =
     .label = O primeiro de último
 about-addressbook-name-format-lastfirst =
     .label = Último, primeiro
+
 about-addressbook-sort-name-ascending =
     .label = Ordenar por nome (A > Z)
 about-addressbook-sort-name-descending =
@@ -63,8 +68,10 @@ about-addressbook-sort-email-ascending =
     .label = Ordenar por enderezo de correo electrónico (A > Z)
 about-addressbook-sort-email-descending =
     .label = Ordenar por enderezo de correo electrónico (Z > A)
+
 about-addressbook-cards-context-write =
     .label = Escribir
+
 about-addressbook-confirm-delete-mixed-title = Eliminar os contactos e as listas
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -121,6 +128,7 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Modificar
 about-addressbook-cancel-edit-contact-button = Cancelar
 about-addressbook-save-edit-contact-button = Gardar
+
 about-addressbook-details-email-addresses-header = Enderezos de correo electrónico
 about-addressbook-details-phone-numbers-header = Números de teléfono
 about-addressbook-details-home-address-header = Enderezo particular
