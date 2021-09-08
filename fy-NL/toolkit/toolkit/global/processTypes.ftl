@@ -9,8 +9,6 @@
 
 process-type-web = Webynhâld
 
-process-type-browser = Haad
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Oer Mei privileezjes

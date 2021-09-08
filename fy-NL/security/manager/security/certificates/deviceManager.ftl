@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Searjenûmer
 
-fips-nonempty-password-required = FIPS-modus fereasket dat jo in haadwachtwurd ynsteld hawwe foar elk befeiligingsapparaat. Stel it wachtwurd yn foardat jo FIPS-modus probearje yn te skeakeljen.
-
 fips-nonempty-primary-password-required = FIPS-modus fereasket dat jo in haadwachtwurd ynsteld hawwe foar elk befeiligingsapparaat. Stel it wachtwurd yn foardat jo FIPS-modus probearje yn te skeakeljen.
 unable-to-toggle-fips = Net yn steat om de FIPS-modus te wizigjen foar it feilichheidsapparaat. It wurdt oanrekommandearre dat jo ôfslute en dizze applikaasje opnij starte.
 load-pk11-module-file-picker-title = Kies in PKCS #11-apparaatstjoerprogramma om te laden

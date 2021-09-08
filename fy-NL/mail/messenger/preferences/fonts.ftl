@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Skreefleas
 
-font-size-label =
-    .value = Grutte
-    .accesskey = G
-
 font-size-proportional-label =
     .value = Grutte
     .accesskey = e

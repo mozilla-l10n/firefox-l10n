@@ -11,13 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY aboutProduct2.label "Oer &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "O">
-<!ENTITY helpTroubleshootingInfo.label     "Probleemoplossende ynformaasje">
-<!ENTITY helpTroubleshootingInfo.accesskey "P">
-<!ENTITY helpSafeMode.label     "Opnij starte mei útskeakele add-ons…">
-<!ENTITY helpSafeMode.accesskey "r">
 
-<!ENTITY helpSafeMode.stop.label     "Opnij starte mei ynskeakele add-ons">
-<!ENTITY helpSafeMode.stop.accesskey "O">
 <!ENTITY productHelp.label "&brandShortName; Help">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">

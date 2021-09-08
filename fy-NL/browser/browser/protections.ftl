@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Hoe't it wurket
 
-turn-on-sync = { -sync-brand-short-name } ynskeakelje…
-    .title = Nei syngronisaasjefoarkarren
-
 monitor-title = Let op datalekken
 monitor-link = Hoe't it wurket
 monitor-header-content-no-account = Sjoch op { -monitor-brand-name } om te sjen oft jo troffen binne troch in bekend datalek en ûntfang warskôgingen oer nije datalekken.

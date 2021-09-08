@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Automatysk detektearre onlinetastân folgje
     .accesskey = A
 
-startup-label = Hânmjittige tastân by it opstarten:
-
 offline-preference-startup-label = Hânmjittige tastân by it opstarten:
 
 status-radio-remember =

@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Nije kontener tafoegje
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } kontenerfoarkarren
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Piktogram
 containers-color-label = Kleur
     .accesskey = e
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Dien
-    .accesskey = D
 
 containers-dialog =
     .buttonlabelaccept = Dien

@@ -5,19 +5,26 @@
 dock-options-window-dialog =
     .title = Programmasymboalopsjes
     .style = width: 35em;
+
 dock-options-show-badge =
     .label = Badge-piktogram toane
     .accesskey = p
+
 bounce-system-dock-icon =
     .label = It programmasymboal animearje as in nij berjocht binnenkomt
     .accesskey = i
+
 dock-icon-legend = Programmasymboalspjild
+
 dock-icon-show-label =
     .value = Programmasymboal markearje mei:
+
 count-unread-messages-radio =
     .label = Oantal net-lêzen berjochten
     .accesskey = a
+
 count-new-messages-radio =
     .label = Oantal nije berjochten
     .accesskey = n
+
 notification-settings-info = Jo kinne de badge útskeakelje fia it paniel Berjochtjouwing yn Systeemfoarkarren.

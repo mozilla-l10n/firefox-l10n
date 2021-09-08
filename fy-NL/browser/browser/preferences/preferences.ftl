@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Altyd
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Opsjes
-       *[other] Opsjes
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Fyn yn Opsjes
-           *[other] Fyn yn Foarkarren
-        }
-
 settings-page-title = Ynstellingen
 
 # This is used to determine the width of the search field in about:preferences,
@@ -65,10 +43,6 @@ category-search =
 pane-privacy-title = Privacy & Befeiliging
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 pane-sync-title3 = Syngronisaasje
 category-sync3 =
@@ -113,14 +87,6 @@ restart-later = Letter opnij starte
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = In útwreiding, <img data-l10n-name="icon"/> { $name }, beheart jo startside.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = In útwreiding, <img data-l10n-name="icon"/> { $name }, beheart jo Nij-ljepblêd-side.
-
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = In útwreiding, <img data-l10n-name="icon"/> { $name }, hat behear oer dizze ynstelling.
@@ -128,10 +94,6 @@ extension-controlled-password-saving = In útwreiding, <img data-l10n-name="icon
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = In útwreiding, <img data-l10n-name="icon"/> { $name }, hat behear oer dizze ynstelling.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = In útwreiding, <img data-l10n-name="icon"/> { $name }, hat jo standertsykmasine ynsteld.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -157,13 +119,6 @@ extension-controlled-enable = Gean nei <img data-l10n-name="addons-icon"/> Add-o
 search-results-header = Sykresultaten
 
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Sorry! Der binne gjin resultaten yn Opsjes foar ‘<span data-l10n-name="query"></span>’.
-       *[other] Sorry! Der binne gjin resultaten yn Foarkarren foar ‘<span data-l10n-name="query"></span>’.
-    }
-
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Sorry! Der binne gjin resultaten yn Ynstellingen foar ‘<span data-l10n-name="query"></span>’.
 
 search-results-help-link = Help nedich? Besykje <a data-l10n-name="url">{ -brand-short-name }-stipe</a>
@@ -171,14 +126,6 @@ search-results-help-link = Help nedich? Besykje <a data-l10n-name="url">{ -brand
 ## General Section
 
 startup-header = Opstarte
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Tagelyk útfieren fan { -brand-short-name } en Firefox tastean
-use-firefox-sync = Tip: Dit brûkt ferskillende profilen. Brûk { -sync-brand-short-name } om gegevens dêrtusken te dielen.
-get-started-not-logged-in = Oanmelde by { -sync-brand-short-name } …
-get-started-configured = { -sync-brand-short-name }-foarkarren iepenje
 
 always-check-default =
     .label = Altyd kontrolearje oft { -brand-short-name } de standertbrowser is
@@ -218,10 +165,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = My warskôgje as it iepenjen fan mear ljepblêden { -brand-short-name } fertrage kin
     .accesskey = w
-
-switch-links-to-new-tabs =
-    .label = As ik in keppeling iepenje yn in nij ljepblêd, der daliks nei ta gean
-    .accesskey = d
 
 switch-to-new-tabs =
     .label = As jo in keppeling, ôfbylding of media iepenje yn in nij ljepblêd, der daliks nei ta gean
@@ -412,11 +355,6 @@ applications-manage-app =
     .label = Applikaasjedetails…
 applications-always-ask =
     .label = Altyd freegje
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -506,17 +444,6 @@ update-application-warning-cross-user-setting = Dizze ynstelling is fan tapassin
 update-application-use-service =
     .label = Brûk in eftergrûntsjinst om fernijingen te ynstallearjen
     .accesskey = a
-
-update-setting-write-failure-title = Flater by bewarjen fernijingsfoarkarren
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    { -brand-short-name } hat in flater oantroffen en hat dizze wiziging net bewarre. Merk op dat foar it ynstellen fan dizze fernijingsfoarkar skriuwrjochten foar ûndersteand bestân nedich binne. Jo of jo systeembehearder kin dizze flater oplosse troch de groep ‘Gebruikers’ folsleine tagong ta dit bestân te jaan.
-    
-    Koe net skriuwe nei bestân: { $path }
 
 update-setting-write-failure-title2 = Flater by bewarjen fernijingsfoarkarren
 
@@ -771,13 +698,9 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Syksuggestjes werjaan yn priveefinsters
 
-suggestions-addressbar-settings-generic = Foarkarren foar oare adresbalksuggestjes wizigje
-
 suggestions-addressbar-settings-generic2 = Ynstellingen foar oare adresbalksuggestjs wizigje
 
 search-suggestions-cant-show = Sykfoarstellen wurde net yn lokaasjebalkresultaten toand, omdat jo { -brand-short-name } konfigurearre hawwe om nea skiednis te ûnthâlden.
-
-search-one-click-header = Ien-klik-sykmasinen
 
 search-one-click-header2 = Fluchkeppelingen sykje
 
@@ -812,13 +735,6 @@ search-keyword-warning-bookmark = Jo hawwe in kaaiwurd keazen dat op dit stuit y
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Tebek nei Opsjes
-           *[other] Tebek nei Foarkarren
-        }
-
 containers-back-button2 =
     .aria-label = Tebek nei Ynstellingen
 containers-header = Kontenerljepblêden
@@ -830,9 +746,6 @@ containers-new-tab-check =
     .label = Selektearje in kontener foar elk nij ljepblêd
     .accesskey = S
 
-containers-preferences-button =
-    .label = Foarkarren
-
 containers-settings-button =
     .label = Ynstellingen
 containers-remove-button =
@@ -842,11 +755,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Nim jo web mei jo mei
-sync-signedout-description = Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.
-
-sync-signedout-account-signin2 =
-    .label = Oanmelde by { -sync-brand-short-name }…
-    .accesskey = O
 
 sync-signedout-description2 = Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en ynstellingen op al jo apparaten.
 
@@ -897,12 +805,6 @@ prefs-syncing-on = Syngronisaasje: OAN
 
 prefs-syncing-off = Syngronisaasje: ÚT
 
-prefs-sync-setup =
-    .label = { -sync-brand-short-name } ynstelle…
-    .accesskey = y
-
-prefs-sync-offer-setup-label = Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.
-
 prefs-sync-turn-on-syncing =
     .label = Syngronisaasje ynskeakelje…
     .accesskey = S
@@ -925,11 +827,6 @@ sync-currently-syncing-logins-passwords = Oanmeldingen en wachtwurden
 sync-currently-syncing-addresses = Adressen
 sync-currently-syncing-creditcards = Creditcards
 sync-currently-syncing-addons = Add-ons
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Foarkarren
-       *[other] Foarkarren
-    }
 
 sync-currently-syncing-settings = Ynstellingen
 
@@ -979,15 +876,6 @@ sync-engine-addons =
     .label = Add-ons
     .tooltiptext = Utwreidingen en tema's foar Firefox foar desktop
     .accesskey = A
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Opsjes
-           *[other] Foarkarren
-        }
-    .tooltiptext = Algemiene, privacy- en feilichheidsynstellingen dy't jo wizige hawwe
-    .accesskey = F
 
 sync-engine-settings =
     .label = Ynstellingen
@@ -1044,9 +932,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Bewarre oanmeldingen…
     .accesskey = m
-forms-master-pw-use =
-    .label = In haadwachtwurd brûke
-    .accesskey = I
 forms-primary-pw-use =
     .label = In haadwachtwurd brûke
     .accesskey = h
@@ -1058,7 +943,6 @@ forms-master-pw-change =
     .label = Haadwachtwurd wizigje
     .accesskey = a
 
-forms-master-pw-fips-title = Jo binne no yn FIPS-modus. FIPS fereasket dat it haadwachtwurd net leech is.
 forms-primary-pw-change =
     .label = Haadwachtwurd wizigje…
     .accesskey = H
@@ -1076,15 +960,6 @@ forms-windows-sso-learn-more-link = Mear ynfo
 forms-windows-sso-desc = Accounts beheare yn jo apparaatynstellingen
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Fier jo oanmeldgegevens foar Windows yn om in haadwachtwurd yn te stellen. Hjirtroch wurdt de befeiliging fan jo accounts beskerme.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = haadwachtwurd oanmeitsje
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Fier jo oanmeldgegevens foar Windows yn om in haadwachtwurd yn te stellen. Hjirtroch wurdt de befeiliging fan jo accounts beskerme.
@@ -1202,10 +1077,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Gegevens beheare…
     .accesskey = G
-
-sitedata-cookies-permissions =
-    .label = Tastimmingen beheare…
-    .accesskey = T
 
 sitedata-cookies-exceptions =
     .label = Utsûnderingen beheare…
@@ -1393,12 +1264,6 @@ permissions-addon-exceptions =
     .label = Utsûnderingen…
     .accesskey = U
 
-permissions-a11y-privacy-checkbox =
-    .label = Tagong ta jo browser troch tagonklikheidstsjinsten opkeare
-    .accesskey = a
-
-permissions-a11y-privacy-link = Mear ynfo
-
 ## Privacy Section - Data Collection
 
 collection-header = Gegevenssamling en gebrûk fan { -brand-short-name }
@@ -1425,11 +1290,6 @@ addon-recommendations-link = Mear ynfo
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Gegevensrapporten binne foar dizze build-konfiguraasje útskeakele
-
-collection-backlogged-crash-reports =
-    .label = { -brand-short-name } tastean om út jo namme jo efterstallige ûngelokrapporten te ferstjoeren
-    .accesskey = r
-collection-backlogged-crash-reports-link = Mear ynfo
 
 collection-backlogged-crash-reports-with-link = { -brand-short-name } tastean om út jo namme efterstallige ûngelokrapporten te ferstjoeren. <a data-l10n-name="crash-reports-link">Mear ynfo</a>
     .accesskey = r
@@ -1460,16 +1320,6 @@ security-block-uncommon-software =
 
 certs-header = Sertifikaten
 
-certs-personal-label = Wannear in server om jo persoanlike sertifikaat freget
-
-certs-select-auto-option =
-    .label = Automatysk ien selektearje
-    .accesskey = A
-
-certs-select-ask-option =
-    .label = My elke kear freegje
-    .accesskey = M
-
 certs-enable-ocsp =
     .label = Freegje OCSP-responderservers om de aktuele faliditeit fan sertifikaten te befêstigjen
     .accesskey = F
@@ -1481,34 +1331,6 @@ certs-view =
 certs-devices =
     .label = Feilichheidsapparaten…
     .accesskey = F
-
-space-alert-learn-more-button =
-    .label = Mear ynfo
-    .accesskey = M
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Opsjes iepenje
-           *[other] Foarkarren iepenje
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] F
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } hat hast gjin skiifromte mear. Ynhâld fan websites wurdt mooglik net goed werjûn. Jo kinne bewarre gegevens wiskje yn Opsjes > Privacy & Befeiliging > Cookies en websitegegevens.
-       *[other] { -brand-short-name } hat hast gjin skiifromte mear. Ynhâld fan websites wurdt mooglik net goed werjûn. Jo kinne bewarre gegevens wiskje yn Foarkarren > Privacy & Befeiliging > Cookies en websitegegevens.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = Ok, begrepen
-    .accesskey = k
-
-space-alert-under-5gb-message = { -brand-short-name } hat hast gjin skiifromte mear. Ynhâld fan websites wurdt mooglik net goed werjûn. Besykje ‘Mear ynfo’ om jo skiifgebrûk te optimalisearjen foar bettere prestaasjes.
 
 space-alert-over-5gb-settings-button =
     .label = Ynstellingen iepenje

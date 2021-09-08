@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Side bewarje as…">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "B">
-<!ENTITY pageSetupCmd.label "Side-ynstellingen…">
-<!ENTITY pageSetupCmd.accesskey "e">
-<!ENTITY printPreviewCmd.label "Ofdrukfoarbyld">
-<!ENTITY printPreviewCmd.accesskey "O">
 <!ENTITY printCmd.label "Ofdrukke…">
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.commandkey "P">

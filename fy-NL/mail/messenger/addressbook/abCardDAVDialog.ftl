@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Trochgean
     .buttonaccesskeyaccept = T
 
-carddav-experimental-warning = Stipe foar CardDAV-adresboeken is eksperiminteel en kin jo gegevens bliuwend skansearje. Gebrûk op eigen risiko.
-
-carddav-provider-label =
-    .value = CardDAV-provider:
-    .accesskey = p
-
-carddav-provider-option-other = Oare provider…
-
-carddav-url-label =
-    .value = CardDAV-URL:
-    .accesskey = U
-
 carddav-username-label =
     .value = Brûkersnamme:
     .accesskey = B
-carddav-username-input =
-    .placeholder = email@example.com
-
-carddav-password-label =
-    .value = Wachtwurd:
-    .accesskey = W
-carddav-password-input =
-    .placeholder = Wachtwurd
-
-carddav-remember-password =
-    .label = Wachtwurd ûnthâlde
-    .accesskey = a
 
 carddav-location-label =
     .value = Lokaasje:

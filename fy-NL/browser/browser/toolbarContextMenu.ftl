@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Alle ljepblêden selektearje
     .accesskey = A
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Ljepblêd slute ûngedien meitsje
-            [one] Ljepblêd slute ûngedien meitsje
-           *[other] Ljepblêden slute ûngedien meitsje
-        }
-    .accesskey = u
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fêstmeitsje oan oerrinmenu
     .accesskey = a
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Automatysk ferstopje yn arkbalke
-    .accesskey = u
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Knop ferstopje wannear leech
     .accesskey = f

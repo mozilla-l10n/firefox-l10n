@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Alle websites fuortsmite
     .accesskey = s
 
-permissions-button-cancel =
-    .label = Annulearje
-    .accesskey = n
-
-permissions-button-ok =
-    .label = Wizigingen bewarje
-    .accesskey = i
-
 permission-dialog =
     .buttonlabelaccept = Wizigingen bewarje
     .buttonaccesskeyaccept = i

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Add-onbehearder
-
 addons-page-title = Add-onbehearder
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Add-on-stipe
 sidebar-help-button-title =
     .title = Add-on-stipe
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name }-opsjes
-       *[other] { -brand-short-name }-foarkarren
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name }-opsjes
-           *[other] { -brand-short-name }-foarkarren
-        }
-
 addons-settings-button = { -brand-short-name }-ynstellingen
 sidebar-settings-button-title =
     .title = { -brand-short-name }-ynstellingen
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Alle útwreidingen toane
-
-cmd-show-details =
-    .label = Mear ynformaasje toane
-    .accesskey = M
-
-cmd-find-updates =
-    .label = Fernijingen sykje
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opsjes
-           *[other] Foarkarren
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] F
-        }
-
-cmd-enable-theme =
-    .label = Brûk tema
-    .accesskey = B
-
-cmd-disable-theme =
-    .label = Brûk tema net mear
-    .accesskey = B
-
-cmd-install-addon =
-    .label = Ynstallearje
-    .accesskey = Y
-
-cmd-contribute =
-    .label = Bydrage
-    .accesskey = B
-    .tooltiptext = Bydrage oan de ûntwikkeling fan dizze add-on
 
 detail-version =
     .label = Ferzje
@@ -401,8 +349,6 @@ dictionary-disabled-heading = Utskeakele
 
 locale-enabled-heading = Ynskeakele
 locale-disabled-heading = Utskeakele
-
-ask-to-activate-button = Freegje om te aktivearjen
 
 always-activate-button = Altyd aktivearje
 never-activate-button = Nea aktivearje

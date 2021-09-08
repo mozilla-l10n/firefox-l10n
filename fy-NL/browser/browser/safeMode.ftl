@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-safe-mode-window =
-    .title = { -brand-short-name } feilige modus
-    .style = max-width: 400px
-start-safe-mode =
-    .label = Yn feilige modus starte
-
 troubleshoot-mode-window =
     .title = { -brand-short-name } yn probleemoplossingsmodus iepenje?
     .style = max-width: 400px
@@ -15,9 +9,6 @@ start-troubleshoot-mode =
     .label = Iepenje
 refresh-profile =
     .label = { -brand-short-name } opfrisse
-safe-mode-description = Feilige modus is in spesjale modus fan { -brand-short-name } om problemen te ûndersykjen.
-safe-mode-description-details = Jo add-ons en oanpaste ynstellingen sille tydlik útskeakele wurde, en funksjes fan { -brand-short-name } wurkje mooglik net sa as se dat no dogge.
-refresh-profile-instead = As jo probleemoplossing oerslaan wolle, kinne jo probearje { -brand-short-name } op te frissen.
 troubleshoot-mode-description = Brûk dizze spesjale modus fan { -brand-short-name } om problemen te analysearjen. Jo útwreidingen en oanpassingen sille tydlik útskeakele wurde.
 skip-troubleshoot-refresh-profile = jo kinne probleemoplossing ek oerslaan en { -brand-short-name } yn stee hjirfan opfrisse.
 # Shown on the safe mode dialog after multiple startup crashes.

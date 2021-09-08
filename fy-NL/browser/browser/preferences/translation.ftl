@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Alle websites fuortsmite
     .accesskey = i
 
-translation-button-close =
-    .label = Slute
-    .accesskey = S
-
 translation-dialog =
     .buttonlabelaccept = Slute
     .buttonaccesskeyaccept = S

@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "n">
 <!ENTITY deleteCmd.label          "Fuortsmite">
 <!ENTITY deleteCmd.accesskey        "F">
-<!ENTITY preferencesCmd2.label "Opsjes">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "Foarkarren">
-<!ENTITY preferencesCmdUnix.accesskey     "k">
 
 <!ENTITY customizeCmd.label "Oanpasse">
 <!ENTITY customizeCmd.accesskey "p">

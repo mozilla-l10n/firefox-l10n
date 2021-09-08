@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Berjocht digitaal ûndertekenje">
 <!ENTITY menu_securitySign.accesskey "d">
 
-<!ENTITY menu_securityAttachMyKey.label "Foegje myn iepenbiere kaai ta">
-<!ENTITY menu_securityAttachMyKey.accesskey "F">
-
 <!ENTITY menu_securityTech.label "Fersiferingstechnology">
 <!ENTITY menu_securityTech.accesskey "t">
 

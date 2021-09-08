@@ -19,9 +19,6 @@ auth-your-fp-value = Fingerôfdruk foar jo, { $own_name }:
 auth-their-fp-value = Fingerôfdruk foar { $their_name }:
 
 auth-help = Troch de identiteit fan in kontaktpersoan te ferifiearjen, soargje jo derfoar dat it petear echt privee is, wêrtroch it foar in tredde hiel swier is om it petear ôf te lústerjen of te manipulearjen.
-auth-helpTitle = Help by ferifikaasje
-
-auth-questionReceived = Dizze fraach wurdt troch jo kontakt steld:
 
 auth-help-title = Help by ferifikaasje
 
@@ -34,21 +31,6 @@ auth-no =
     .label = Nee
 
 auth-verified = Ik haw ferifiearre dat dit yndie de korrekte fingerôfdruk is.
-
-auth-manualVerification = Hânmjittige fingerôfdrukferifikaasje
-auth-questionAndAnswer = Fraach en antwurd
-auth-sharedSecret = Dield geheim
-
-auth-manualVerification-label =
-    .label = { auth-manualVerification }
-
-auth-questionAndAnswer-label =
-    .label = { auth-questionAndAnswer }
-
-auth-sharedSecret-label =
-    .label = { auth-sharedSecret }
-
-auth-manualInstruction = Nim kontakt op mei jo bedoele petearpartner fia in oar feilich kanaal, lykas in mei OpenPGP ûndertekene e-mailberjocht of telefoanysk. Jo moatte jo fingerôfdrukken diele. (In fingerôfdruk is in checksum dy't in kodearringskaai identifisearret.) As de fingerôfdruk oerienkomt, jou dan yn it ûndersteande dialoochfinster oan dat jo de fingerôfdruk ferifiearre hawwe.
 
 auth-manual-verification = Hânmjittige fingerôfdrukferifikaasje
 auth-question-and-answer = Fraach en antwurd
@@ -66,10 +48,6 @@ auth-shared-secret-label =
 auth-manual-instruction = Nim kontakt op mei jo bedoele petearpartner fia in oar feilich kanaal, lykas in mei OpenPGP ûndertekene e-mailberjocht of telefoanysk. Jo moatte jo fingerôfdrukken diele. (In fingerôfdruk is in checksum dy't in kodearringskaai identifisearret.) As de fingerôfdruk oerienkomt, jou dan yn it ûndersteande dialoochfinster oan dat jo de fingerôfdruk ferifiearre hawwe.
 
 auth-how = Hoe wolle jo de identiteit fan jo kontakt ferifiearje?
-
-auth-qaInstruction = Betink in fraach wêrfan it antwurd allinnich by jo en jo kontakt bekend is. Fier de fraach en it antwurd yn en wachtsje oant jo kontaktpersoan it antwurd ynfiert. As de antwurden net oerienkomme, wurdt it kommunikaasjekanaal dat jo brûkt mooglik ôflústere.
-
-auth-secretInstruction = Betink in geheim dat allinnich jo en jo kontaktpersoan kenne. Brûk net deselde ynternetferbining om it geheim út te wikseljen. Fier it geheim yn en wachtsje oant jo kontaktpersoan it ynfiert. As de geheimen net oerienkomme, wurdt it kommunikaasjekanaal dat ko brûke mooglik ôflústere.
 
 auth-qa-instruction = Betink in fraach wêrfan it antwurd allinnich by jo en jo kontakt bekend is. Fier de fraach en it antwurd yn en wachtsje oant jo kontaktpersoan it antwurd ynfiert. As de antwurden net oerienkomme, wurdt it kommunikaasjekanaal dat jo brûkt mooglik ôflústere.
 

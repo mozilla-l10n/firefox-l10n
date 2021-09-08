@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Tekstkodearring foar Legacy-ynhâld
-fonts-languages-fallback-desc = Dizze tekstkodearring wurdt brûkt foar legacy-ynhâld dy't gjin eigen kodearring oanjaan kin.
-
-fonts-languages-fallback-label = Tebekfaltekstkodearring
-    .accesskey = T
-
-fonts-languages-fallback-name-auto =
-    .label = Standert foar aktuele lânynstelling
-fonts-languages-fallback-name-arabic =
-    .label = Arabysk
-fonts-languages-fallback-name-baltic =
-    .label = Baltysk
-fonts-languages-fallback-name-ceiso =
-    .label = Sintraal-Europeesk, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Sintraal-Europeesk, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Sineesk, ferienfâldicht
-fonts-languages-fallback-name-traditional =
-    .label = Sineesk, tradisjoneel
-fonts-languages-fallback-name-cyrillic =
-    .label = Syrillysk
-fonts-languages-fallback-name-greek =
-    .label = Gryksk
-fonts-languages-fallback-name-hebrew =
-    .label = Hebriuwsk
-fonts-languages-fallback-name-japanese =
-    .label = Japansk
-fonts-languages-fallback-name-korean =
-    .label = Koreaansk
-fonts-languages-fallback-name-thai =
-    .label = Thais
-fonts-languages-fallback-name-turkish =
-    .label = Turksk
-fonts-languages-fallback-name-vietnamese =
-    .label = Vietnameesk
-fonts-languages-fallback-name-other =
-    .label = Oars (ynkl. West-Europeesk)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

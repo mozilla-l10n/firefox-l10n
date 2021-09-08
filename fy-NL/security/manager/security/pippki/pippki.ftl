@@ -6,9 +6,6 @@ password-quality-meter = Wachtwurdkwaliteitsmeter
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Haadwachtwurd wizigje
-
 change-device-password-window =
     .title = Wachtwurd wizigje
 
@@ -20,10 +17,6 @@ change-password-new = Nij wachtwurd:
 change-password-reenter = Nij wachtwurd (opnij):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Haadwachtwurd opnij inisjalisearje
-    .style = width: 40em
 
 pippki-failed-pw-change = Kin haadwachtwurd net wizigje.
 pippki-incorrect-pw = Jo ha net it korrekte haadwachtwurd ynfierd. Probearje it opnij.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Opnij inisjalisearje
-reset-password-text = As jo jo haadwachtwurd opnij ynstelle sille, al jo bewarre web- en e-mailwachtwurden, formuliergegevens, persoanlijke sertifikaten en privee-kaaien fergetten wurde. Binne jo wis dat jo jo haadwachtwurd opnij inisjalisearje wolle?
 
 reset-primary-password-text = As jo jo haadwachtwurd opnij ynstelle sille, al jo bewarre web- en e-mailwachtwurden, persoanlijke sertifikaten en priveekaaien fergetten wurde. Binne jo wis dat jo jo haadwachtwurd opnij inisjalisearje wolle?
 

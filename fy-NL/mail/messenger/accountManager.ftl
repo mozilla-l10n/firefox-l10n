@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = { -brand-short-name }-foarkarren
 
 open-addons-sidebar-button = Add-ons en tema’s
+

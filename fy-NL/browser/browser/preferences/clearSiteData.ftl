@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Dit fereasket dat websites ôfbyldingen en gegevens opnij lade
 
-clear-site-data-cancel =
-    .label = Annulearje
-    .accesskey = A
-
-clear-site-data-clear =
-    .label = Wiskje
-    .accesskey = i
-
 clear-site-data-dialog =
     .buttonlabelaccept = Wiskje
     .buttonaccesskeyaccept = i
