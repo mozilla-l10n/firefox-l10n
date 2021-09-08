@@ -40,8 +40,6 @@ inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</stro
 
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені <strong>overflow:hidden</strong> орнатылмаған.
 
-inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені оның <strong>outline-style</strong> қасиеті <strong>auto</strong> немесе <strong>none</strong> етіп орнатылған.
-
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> кесте ішкі элементтеріне әсер етпейді.
 
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> кесте ұяшықтарынан басқа ішкі кесте элементтеріне әсер етпейді.
@@ -83,8 +81,6 @@ inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> �
 inactive-css-not-for-internal-table-elements-fix = Оның <strong>display</strong> қасиетін келесі мәндерден басқа мәнге орнатып көріңіз: <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, немесе <strong>table-footer-group</strong>. { learn-more }
 
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Оның <strong>display</strong> қасиетін келесі мәндерден басқа мәнге орнатып көріңіз: <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, немесе <strong>table-footer-group</strong>. { learn-more }
-
-inactive-outline-radius-when-outline-style-auto-or-none-fix = Оның <strong>outline-style</strong> қасиетін келесі мәндерден басқа мәнге орнатып көріңіз: <strong>auto</strong> немесе <strong>none</strong>. { learn-more }
 
 inactive-css-not-table-fix = <strong>display:table</strong> немесе <strong>display:inline-table</strong> қосып көріңіз. { learn-more }
 

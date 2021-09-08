@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Баспаға шығару…">
 <!ENTITY printCmd.accesskey "ш">
 <!ENTITY printCmd.key "п">
-<!ENTITY printPreviewCmd.label "Алдын-ала қарау">
-<!ENTITY printPreviewCmd.accesskey "А">
-<!ENTITY printSetupCmd.label "Парақ баптаулары…">
-<!ENTITY printSetupCmd.accesskey "П">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Хабарламаны өшіру">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "о">
 <!ENTITY compactVersion.label "Ықшам көрініс">
 <!ENTITY compactVersion.accesskey "Ы">
-<!ENTITY folderPaneBar.label "Бума панелінің саймандар панелі">
-<!ENTITY folderPaneBar.accesskey "Б">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Бойынша сұрыптау">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Адрестік кітапша">
 <!ENTITY addressBookCmd.accesskey "к">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Қосымшалар">
-<!ENTITY addons.accesskey "с">
-<!ENTITY addonPrefs.label "Қосымшаның баптаулары">
-<!ENTITY addonPrefs.accesskey "о">
-<!ENTITY addonPrefsUnix.label "Қосымшаның баптаулары">
-<!ENTITY addonPrefsUnix.accesskey "о">
 <!ENTITY addonNoPrefs.label "Қосымшаның баптаулары табылмады.">
 <!ENTITY activitymanager.label "Белсенділік басқарушысы">
 <!ENTITY activitymanager.accesskey "д">
@@ -520,8 +508,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Қосымшаларды жөндеу">
 <!ENTITY debugAddonsCmd.accesskey "а">
-<!ENTITY tabsDebugCmd.label "Құраманың фреймі жөндеуіші">
-<!ENTITY tabsDebugCmd.accesskey "а">
 <!ENTITY errorConsoleCmd.label "Қателер консолі">
 <!ENTITY errorConsoleCmd.accesskey "к">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -545,15 +531,11 @@
 <!ENTITY backButton1.label "Артқа">
 <!ENTITY goForwardButton1.label "Қайта бағдарлау">
 <!ENTITY deleteItem.title "Өшіру">
-<!ENTITY deleteButton.label "Өшіру">
-<!ENTITY undeleteButton.label "Өшірілгенді қалпына келтіру">
 <!ENTITY markButton.label "Белгілеу">
 <!ENTITY printButton.label "Баспаға шығару">
 <!ENTITY stopButton.label "Тоқтату">
 <!ENTITY throbberItem.title "Активтілік айқындағышы">
 <!ENTITY junkItem.title "Спам">
-<!ENTITY junkButton.label "Спам">
-<!ENTITY notJunkButton.label "Спам емес">
 <!ENTITY addressBookButton.label "Адрестік кітапша">
 <!ENTITY chatButton.label "Чат">
 <!ENTITY glodaSearch.title "Глобалды іздеу">
@@ -585,19 +567,14 @@
 <!ENTITY previousMsgButton.tooltip "Алдыңғы хабарламаға өту">
 <!ENTITY goForwardButton.tooltip "Бір хабарламаға алға өту">
 <!ENTITY goBackButton.tooltip "Бір хабарламаға артқа өту">
-<!ENTITY deleteButton.tooltip "Таңдалған хабарламаны немесе буманы өшіру">
-<!ENTITY undeleteButton.tooltip "Таңдалған хабарламаның өшіруін болдырмау">
 <!ENTITY markButton.tooltip "Хабарламаларды белгілеу">
 <!ENTITY printButton.tooltip "Ағымдағы хабарламаны баспаға шығару">
 <!ENTITY stopButton.tooltip "Ағымдағы тасымалдауды тоқтату">
-<!ENTITY junkButton.tooltip "Таңдалған хабарламаларды спам ретінде белгілеу">
-<!ENTITY notJunkButton.tooltip "Таңдалған хабарламаларды спам емес ретінде белгілеу">
 <!ENTITY addressBookButton.tooltip "Адрестік кітапшаға өту">
 <!ENTITY chatButton.tooltip "Чат бетін көрсету">
 <!ENTITY tagButton.tooltip "Хабарламаларға тег қою">
 <!ENTITY compactButton.tooltip "Таңдалған бумадан өшірілген хабарламаларды жою">
 <!ENTITY appmenuButton1.tooltip "&brandShortName; мәзірін көрсету">
-<!ENTITY addonsButton.tooltip "Қосымшаларды басқару">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Хабарлама ішінде қайта бағдарлау">

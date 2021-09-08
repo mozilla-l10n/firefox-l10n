@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Жабу
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Баптаулар
-           *[other] Баптаулар
-        }
-
 category-list =
     .aria-label = Санаттар
 
@@ -132,20 +125,9 @@ update-in-progress-ok-button = Тай&дыру
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = Жалға&стыру
 
-addons-button = Кеңейтулер және темалар
-
 account-button = Тіркелгі баптаулары
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Басты парольді жасау үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = басты парольді жасау
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Басты парольді жасау үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
@@ -220,10 +202,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Баптау…
     .accesskey = а
-
-tray-icon-label =
-    .label = Трей таңбашасын көрсету
-    .accesskey = Т
 
 mail-system-sound-label =
     .label = Жаңа хат үшін жүйенің негізгі дыбысы
@@ -413,9 +391,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Түс:
     .accesskey = с
-
-search-input =
-    .placeholder = Іздеу
 
 type-column-label =
     .label = Құрама түрі
@@ -704,16 +679,6 @@ passwords-button =
     .label = Сақталған парольдер…
     .accesskey = р
 
-master-password-description = Басты пароль сіздің барлық парльдеріңізді қорғайды, бірақ, сізге оны сессияда бір рет енгізу керек.
-
-master-password-label =
-    .label = Мастер-парольді қолдану
-    .accesskey = М
-
-master-password-button =
-    .label = Мастер-парольді өзгерту…
-    .accesskey = т
-
 
 primary-password-description = Басты пароль сіздің барлық парльдеріңізді қорғайды, бірақ, сізге оны сессияда бір рет енгізу керек.
 
@@ -894,26 +859,6 @@ no-preview-description = Бұл тема жарамсыз немесе ағым�
 chat-variant-label =
     .value = Нұсқасы:
     .accesskey = с
-
-chat-header-label =
-    .label = Тақырыптаманы көрсету
-    .accesskey = т
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Баптаулардан табу
-           *[other] Баптаулардан табу
-        }
 
 ## Preferences UI Search Results
 

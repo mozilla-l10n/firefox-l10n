@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Жалғастыру
     .buttonaccesskeyaccept = с
 
-carddav-experimental-warning = CardDAV адрестік кітапшаларын қолдау мүмкіндігі сынамалы түрде және деректеріңізді зақымдауы мүмкін. Өз тәуекеліңізге қолданыңыз.
-
-carddav-provider-label =
-    .value = CardDAV провайдері:
-    .accesskey = п
-
-carddav-provider-option-other = Басқа провайдер…
-
-carddav-url-label =
-    .value = CardDAV URL адресі:
-    .accesskey = д
-
 carddav-username-label =
     .value = Пайдаланушы аты:
     .accesskey = й
-carddav-username-input =
-    .placeholder = you@example.com
-
-carddav-password-label =
-    .value = Пароль:
-    .accesskey = р
-carddav-password-input =
-    .placeholder = Пароль
-
-carddav-remember-password =
-    .label = Парольді есте сақтау
-    .accesskey = т
 
 carddav-loading = Баптауларды іздеу…
 carddav-connection-error = Байланысты орнату сәтсіз аяқталды.

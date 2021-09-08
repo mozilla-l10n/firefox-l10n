@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Барлық сайттарды өшіру
     .accesskey = й
 
-translation-button-close =
-    .label = Жабу
-    .accesskey = Ж
-
 translation-dialog =
     .buttonlabelaccept = Жабу
     .buttonaccesskeyaccept = Ж

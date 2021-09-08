@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Тізім
 
-blocklist-button-cancel =
-    .label = Бас тарту
-    .accesskey = а
-
-blocklist-button-ok =
-    .label = Өзгерістерді сақтау
-    .accesskey = с
-
 blocklist-dialog =
     .buttonlabelaccept = Өзгерістерді сақтау
     .buttonaccesskeyaccept = с

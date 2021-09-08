@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "К">
 <!ENTITY aboutProduct2.label "&brandShorterName; туралы">
 <!ENTITY aboutProduct2.accesskey "а">
-<!ENTITY helpTroubleshootingInfo.label     "Техникалық ақпарат">
-<!ENTITY helpTroubleshootingInfo.accesskey "а">
-<!ENTITY helpSafeMode.label     "Сөндірілген қосымшалармен қайта қосу…">
-<!ENTITY helpSafeMode.accesskey "р">
-<!ENTITY helpSafeMode.stop.label     "Сөндірілген қосымшалармен қайта қосу">
-<!ENTITY helpSafeMode.stop.accesskey "р">
 <!ENTITY productHelp.label "&brandShortName; көмегі">
 <!ENTITY productHelp.accesskey "м">
 <!ENTITY productHelp.commandkey "VK_F1">

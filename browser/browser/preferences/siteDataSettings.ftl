@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Таңдалғанды өшіру
     .accesskey = р
 
-site-data-button-cancel =
-    .label = Бас тарту
-    .accesskey = а
-
-site-data-button-save =
-    .label = Өзгерістерді сақтау
-    .accesskey = с
-
 site-data-settings-dialog =
     .buttonlabelaccept = Өзгерістерді сақтау
     .buttonaccesskeyaccept = с

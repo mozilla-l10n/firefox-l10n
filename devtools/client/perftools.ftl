@@ -97,8 +97,6 @@ perftools-thread-img-decoder =
     .title = Суреттерді декодтау ағындары
 perftools-thread-dns-resolver =
     .title = DNS шешуі бұл ағында орын алады
-perftools-thread-js-helper =
-    .title = JS қозғалтқышының фондық жұмысы, мысалы, басты ағыннан тыс компиляция
 
 ##
 

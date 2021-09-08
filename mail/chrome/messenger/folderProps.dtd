@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Қасиеттері">
 
 <!ENTITY generalInfo.label                       "Жалпы мәлімет">
-<!ENTITY folderCharsetFallback2.label            "Қосалқы мәтін кодталуы:">
-<!ENTITY folderCharsetFallback2.accesskey        "т">
-<!ENTITY folderCharsetEnforce2.label             "Бумадағы барлық хабарламалар үшін кодтауды іске асыру (хабарламалардың жеке кодталу баптаулары және автоанықтауды елемейміз)">
-<!ENTITY folderCharsetEnforce2.accesskey         "а">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Қорытынды файл индексін қайта құрастыру">
 <!ENTITY folderRebuildSummaryFile2.label         "Буманы жөндеу">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "н">

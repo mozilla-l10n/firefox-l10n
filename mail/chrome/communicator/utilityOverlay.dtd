@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "й">
 <!ENTITY deleteCmd.label          "Өшіру">
 <!ENTITY deleteCmd.accesskey        "ш">
-<!ENTITY preferencesCmd2.label "Опциялар">
-<!ENTITY preferencesCmd2.accesskey "О">
-<!ENTITY preferencesCmdUnix.label       "Параметрлер">
-<!ENTITY preferencesCmdUnix.accesskey     "м">
 
 <!ENTITY customizeCmd.label "Баптау">
 <!ENTITY customizeCmd.accesskey "т">

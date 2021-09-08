@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Осыдан бөлек
     .style = width: 55em;
 
-window-close-key =
-    .key = w
-
 permission-preferences-close-window =
     .key = w
 

@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Жабу">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "Ж">
-<!ENTITY printSetupCmd.label                            "Парақ баптаулары…">
-<!ENTITY printSetupCmd.accesskey                        "П">
-<!ENTITY printPreviewContactCmd.label                   "Контактты баспа алдында алдын-ала қарау">
-<!ENTITY printPreviewContactCmd.accesskey               "а">
-<!ENTITY printPreviewAddressBook.label                  "Адрестік кітапшаны баспа алдында алдын-ала қарау">
-<!ENTITY printPreviewAddressBook.accesskey              "к">
 <!ENTITY printContactCmd.label                          "Контактты баспаға шығару…">
 <!ENTITY printContactCmd.accesskey                      "п">
 <!ENTITY printContactCmd.key                            "P">
@@ -108,10 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "И">
 <!ENTITY exportCmd.label                                "Экспорттау…">
 <!ENTITY exportCmd.accesskey                            "Э">
-<!ENTITY preferencesCmd2.label                          "Опциялар">
-<!ENTITY preferencesCmd2.accesskey                      "О">
-<!ENTITY preferencesCmdUnix.label                       "Параметрлер">
-<!ENTITY preferencesCmdUnix.accesskey                   "м">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Жаңа контакт">
