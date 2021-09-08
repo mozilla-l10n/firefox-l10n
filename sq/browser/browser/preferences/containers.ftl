@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Shtoni Kontejner të Ri
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Parapëlqime Kontejneri { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Ikonë
 containers-color-label = Ngjyrë
     .accesskey = N
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = U bë
-    .accesskey = U
 
 containers-dialog =
     .buttonlabelaccept = U bë

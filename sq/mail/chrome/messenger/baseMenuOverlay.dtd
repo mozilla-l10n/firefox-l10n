@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "N">
 <!ENTITY aboutProduct2.label "Mbi &brandShorterName;-in">
 <!ENTITY aboutProduct2.accesskey "M">
-<!ENTITY helpTroubleshootingInfo.label     "Të dhëna Diagnostikimi">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpSafeMode.label     "Riniseni me Shtesat të Çaktivizuara…">
-<!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY helpSafeMode.stop.label     "Rinise me Shtesat të Aktivizuara">
-<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Ndihmë mbi &brandShortName;-in">
 <!ENTITY productHelp.accesskey "N">
 <!ENTITY productHelp.commandkey "VK_F1">

@@ -287,6 +287,8 @@ exchange-dialog-confirm-button = Kredenciale Hyrjesh
 
 exchange-dialog-cancel-button = Anuloje
 
+## Dismiss account creation dialog
+
 ## Alert dialogs
 
 account-setup-creation-error-title = Gabim në Krijim Llogarie

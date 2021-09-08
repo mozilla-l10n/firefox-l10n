@@ -6,9 +6,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = Hiqe fushën { $type }
-
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Hiqe fushën { $type }
 
@@ -98,19 +95,6 @@ attachment-bucket-count =
         }
     .accesskey = B
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext =
-        { $count ->
-            [1] { $count } Bashkëngjitje
-            [one] { $count } Bashkëngjitje
-           *[other] { $count } Bashkëngjitje
-        }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 expand-attachment-pane-tooltip =
     .tooltiptext = Shfaqni kuadrat bashkëngjitjesh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
@@ -143,6 +127,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Dëftesë
     .tooltiptext = Kërko një dëftesë kthimi për këtë mesazh
+
+# Encryption
 
 # Addressing Area
 
@@ -187,6 +173,7 @@ bcc-compose-show-address-row-label =
 
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = { $count } marrësit te fushat Për dhe Cc do të shohin adresën e njëri-tjetrit. Nxjerrjen zbuluar të marrësve mund të shmangni duke përdorur fushën Bcc.
+
 
 many-public-recipients-bcc =
     .label = Më mirë përdor Bcc

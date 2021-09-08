@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Do të kërkojë që sajtet të ringarkojnë figura dhe të dhëna
 
-clear-site-data-cancel =
-    .label = Anuloje
-    .accesskey = A
-
-clear-site-data-clear =
-    .label = Spastroje
-    .accesskey = S
-
 clear-site-data-dialog =
     .buttonlabelaccept = Spastroje
     .buttonaccesskeyaccept = S

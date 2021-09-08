@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.accesskey "y">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Paraparje e Shtypjes">
-<!ENTITY printPreviewCmd.accesskey "a">
-<!ENTITY printSetupCmd.label "Rregullim Faqeje…">
-<!ENTITY printSetupCmd.accesskey "l">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Fshije Mesazhin">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "f">
 <!ENTITY compactVersion.label "Parje e Ngjeshur">
 <!ENTITY compactVersion.accesskey "P">
-<!ENTITY folderPaneBar.label "Panel Kuadrati Dosjesh">
-<!ENTITY folderPaneBar.accesskey "D">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Renditi sipas">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Libër Adresash">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Shtesa">
-<!ENTITY addons.accesskey "S">
-<!ENTITY addonPrefs.label "Mundësi Shtese">
-<!ENTITY addonPrefs.accesskey "M">
-<!ENTITY addonPrefsUnix.label "Parapëlqime Për Shtesën">
-<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "S&apos;u gjetën rregullime shtese.">
 <!ENTITY activitymanager.label "Përgjegjës Veprimtarie">
 <!ENTITY activitymanager.accesskey "P">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Diagnostikoni Shtesa">
 <!ENTITY debugAddonsCmd.accesskey "D">
-<!ENTITY tabsDebugCmd.label "Diagnostikues Lënde Kuadri">
-<!ENTITY tabsDebugCmd.accesskey "L">
 <!ENTITY errorConsoleCmd.label "Konsol Gabimesh">
 <!ENTITY errorConsoleCmd.accesskey "K">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Mbrapsht">
 <!ENTITY goForwardButton1.label "Përpara">
 <!ENTITY deleteItem.title "Fshirje">
-<!ENTITY deleteButton.label "Fshije">
-<!ENTITY undeleteButton.label "Çfshije">
 <!ENTITY markButton.label "Shënoje">
 <!ENTITY printButton.label "Shtype">
 <!ENTITY stopButton.label "Ndale">
 <!ENTITY throbberItem.title "Tregues Veprimtarie">
 <!ENTITY junkItem.title "E pavlerë">
-<!ENTITY junkButton.label "E pavlerë">
-<!ENTITY notJunkButton.label "Jo e Pavlerë">
 <!ENTITY addressBookButton.label "Libër Adresash">
 <!ENTITY chatButton.label "Fjalosje">
 <!ENTITY glodaSearch.title "Kërkim Global">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Kaloni te mesazhi i mëparshëm">
 <!ENTITY goForwardButton.tooltip "Kaloni një mesazh para">
 <!ENTITY goBackButton.tooltip "Kaloni një mesazh prapa">
-<!ENTITY deleteButton.tooltip "Fshini mesazhet ose dosjet e përzgjedhur">
-<!ENTITY undeleteButton.tooltip "Shfshijeni mesazhin e përzgjedhur">
 <!ENTITY markButton.tooltip "Shënoni mesazhe">
 <!ENTITY printButton.tooltip "Shtypeni këtë mesazh">
 <!ENTITY stopButton.tooltip "Ndalni shpërnguljen e tanishme">
-<!ENTITY junkButton.tooltip "Mesazhet e përzgjedhur shënoji si të pavlera">
-<!ENTITY notJunkButton.tooltip "Mesazheve të përzgjedhur hiqua shënimin si të pavlera">
 <!ENTITY addressBookButton.tooltip "Shkoni te libri i adresave">
 <!ENTITY chatButton.tooltip "Shfaq skedën e Fjalosjeve">
 <!ENTITY tagButton.tooltip "Etiketoni mesazhe">
 <!ENTITY compactButton.tooltip "Hiqini mesazhet e fshirë prej dosjes së përzgjedhur">
 <!ENTITY appmenuButton1.tooltip "Shfaq Menunë e &brandShortName;-it">
-<!ENTITY addonsButton.tooltip "Administroni shtesat tuaja">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Përcille Brendazi">

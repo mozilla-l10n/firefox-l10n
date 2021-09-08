@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Sjellje e Fotove të Ekranit
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Foto ekrani në të papastër
-options-screenshot-clipboard-tooltip =
-    .title = E ruan foton e ekranit drejt e në të papastër
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Prodho tingull shkrepjeje të kamerës
 options-screenshot-audio-tooltip =

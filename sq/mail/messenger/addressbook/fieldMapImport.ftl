@@ -4,8 +4,10 @@
 
 import-ab-csv-window =
     .title = Importo Libër Adresash prej Kartele Tekst
+
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Paraparje e importimit të të dhënave për zërin { $recordNumber }
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Importoje
     .buttonaccesskeyaccept = I

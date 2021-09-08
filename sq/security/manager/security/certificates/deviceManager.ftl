@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Numër Serial
 
-fips-nonempty-password-required = Mënyra FIPS kërkon që të keni të caktuar një Fjalëkalim të Përgjithshëm për çdo pajisje sigurie. Ju lutemi, caktoni fjalëkalimin para se të aktivizoni mënyrën FIPS.
-
 fips-nonempty-primary-password-required = Mënyra FIPS kërkon që të keni të caktuar një Fjalëkalim të Përgjithshëm për çdo pajisje sigurie. Ju lutemi, caktoni fjalëkalimin para se të aktivizoni mënyrën FIPS.
 unable-to-toggle-fips = S’arrihet të këmbehet mënyra FIPS për pajisjen e sigurisë. Këshillohet ta mbyllni dhe ta rinisni aplikacionin.
 load-pk11-module-file-picker-title = Zgjidhni për ngarkim një përudhës pajisjeje PKCS#11

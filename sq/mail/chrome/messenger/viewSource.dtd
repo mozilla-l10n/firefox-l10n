@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Ruajeni Faqen Si…">
 <!ENTITY savePageCmd.accesskey "R">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Rregullim Faqeje…">
-<!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Paraparje e Shtypjes">
-<!ENTITY printPreviewCmd.accesskey "P">
 <!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.accesskey "y">
 <!ENTITY printCmd.commandkey "P">

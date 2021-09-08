@@ -7,20 +7,12 @@ about-logins-page-title = Kredenciale Hyrjesh & Fjalëkalime
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Merrini fjalëkalimet tuaja kudo
-login-app-promo-subtitle = Merrni aplikacionin { -lockwise-brand-name } falas
-login-app-promo-android =
-    .alt = Merreni te Google Play
-login-app-promo-apple =
-    .alt = Shkarkojeni nga App Store
-
 login-filter =
     .placeholder = Kërkoni te Kredenciale Hyrjesh
 
 create-login-button = Krijoni Kredenciale të Reja Hyrjeje
 
 fxaccounts-sign-in-text = Merrini fjalëkalimet tuaj në pajisjet tuaja të tjera
-fxaccounts-sign-in-button = Hyni te { -sync-brand-short-name }-u
 fxaccounts-sign-in-sync-button = Për njëkohësime, bëni hyrjen
 fxaccounts-avatar-button =
     .title = Administroni llogari
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Parapëlqime
     }
 about-logins-menu-menuitem-help = Ndihmë
-menu-menuitem-android-app = { -lockwise-brand-short-name } për Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } për iPhone dhe iPad
 
 ## Login List
 
@@ -72,14 +62,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Po shihni për kredenciale hyrjesh tuajat të ruajtura? Ujdisni { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = Po kërkoni për kredencialet tuaj të ruajtur të hyrjeve? Aktivizoni njëkohësimin, që të importohen.
 about-logins-login-intro-heading-logged-in = S’u gjetën kredenciale të njëkohësuar hyrjesh.
 login-intro-description = Nëse ruajtët kredenciale tuajat hyrjesh te { -brand-product-name } në një pajisje tjetër, ja se si t’i merrni këtu:
-login-intro-instruction-fxa = Krijoni ose hyni te  { -fxaccount-brand-name } e juaj te pajisja ku janë ruajtur kredencialet tuaja të hyrjeve
-login-intro-instruction-fxa-settings = Sigurohuni se keni përzgjedhur kutizën Kredenciale Hyrjeshte Rregullime { -sync-brand-short-name }
-about-logins-intro-instruction-help = Për më tepër ndihmë, vizitoni <a data-l10n-name="help-link">Asistencë { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa = Krijoni ose hyni te  { -fxaccount-brand-name } juaja te pajisja ku janë ruajtur kredencialet tuaja të hyrjeve
 login-intro-instructions-fxa-settings = Kaloni te Rregullime > Njëkohësim > Aktivizoni njëkohësim… Përzgjidhni kutizën Kredenciale Hyrjesh dhe fjalëkalime.
 login-intro-instructions-fxa-help = Për më tepër ndihmë, vizitoni <a data-l10n-name="help-link">Asistencë { -lockwise-brand-short-name }</a>.
@@ -141,8 +126,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = që të kopjohet fjal
 
 ## Master Password notification
 
-master-password-notification-message = Që të shihni kredenciale hyrjesh të ruajtura, ju lutemi, jepni fjalëkalimin tuaj të përgjithshëm
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Që të eksportoni kredencialet tuaja të hyrjes, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
 # This message can be seen when attempting to export a password in about:logins
@@ -157,22 +140,6 @@ master-password-reload-button =
     .accesskey = H
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] I doni kredencialet tuaja të hyrjeve kudo që përdorni { -brand-product-name }? Kaloni te Mundësitë tuaja për { -sync-brand-short-name } dhe përzgjidhni kutizën Kredenciale Hyrjesh.
-       *[other] I doni kredencialet tuaja të hyrjeve kudo që përdorni { -brand-product-name }? Kaloni te Parapëlqimet tuaja për { -sync-brand-short-name } dhe përzgjidhni kutizën Kredenciale Hyrjesh.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Vizitoni Mundësi { -sync-brand-short-name }
-           *[other] Vizitoni Parapëlqime { -sync-brand-short-name }
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Mos më pyet më
-    .accesskey = M
 
 ## Dialogs
 

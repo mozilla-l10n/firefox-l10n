@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Bëni një Foto
-
-screenshots-my-shots-button = Shkrepjet e Mia
-
 screenshot-toolbarbutton =
     .label = Foto ekrani
     .tooltiptext = Bëni një foto ekrani
@@ -40,8 +36,6 @@ screenshots-login-error-details = S’e ruajtëm dot foton tuaj, ngaqë pati nj�
 
 screenshots-unshootable-page-error-title = S’bëjmë dot foto të kësaj faqeje.
 screenshots-unshootable-page-error-details = Kjo s’është një faqe Web standarde, ndaj s’mund të bëni një foto ekrani të saj.
-
-screenshots-self-screenshot-error-title = S’mund të bëni foto të një faqeje të { -screenshots-brand-name }-it!
 
 screenshots-empty-selection-error-title = Përzgjedhja juaj është shumë e vogël
 

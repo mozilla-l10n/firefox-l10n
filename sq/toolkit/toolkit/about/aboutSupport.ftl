@@ -13,11 +13,6 @@ crashes-id = ID Njoftimi
 crashes-send-date = Parashtruar më
 crashes-all-reports = Krejt Njoftimet e Vithisjeve
 crashes-no-config = Ky aplikacion nuk është formësuar për shfaqje njoftimesh vithisjeje.
-extensions-title = Zgjerime
-extensions-name = Emër
-extensions-enabled = I aktivizuar
-extensions-version = Version
-extensions-id = ID
 support-addons-title = Shtesa
 support-addons-name = Emër
 support-addons-type = Lloj
@@ -129,8 +124,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Lloj Procesi
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumente
-safe-mode-title = Provoni Mënyrën e Parrezik
-restart-in-safe-mode-label = Riniseni me Shtesat të Çaktivizuara…
 
 troubleshoot-mode-title = Diagnostikoni probleme
 restart-in-troubleshoot-mode-label = Mënyrë Diagnostikim…
@@ -188,37 +181,6 @@ remote-debugging-accepting-connections = Me Pranim Lidhjesh
 remote-debugging-url = URL
 
 ##
-
-support-third-party-modules-title = Module Palësh të Treta
-support-third-party-modules-module = Kartelë Moduli
-support-third-party-modules-version = Version Kartele
-support-third-party-modules-vendor = Të dhëna Tregtuesi
-support-third-party-modules-occurrence = Përsëritje
-support-third-party-modules-process = Lloj & ID Procesi
-support-third-party-modules-thread = Rrjedhë
-support-third-party-modules-base = Adresë Imagebase
-support-third-party-modules-uptime = Kohë Në Punë e Procesit (ms)
-support-third-party-modules-duration = Kohëzgjatje Ngarkese (ms)
-support-third-party-modules-status = Gjendje
-support-third-party-modules-status-loaded = I ngarkuar
-support-third-party-modules-status-blocked = I bllokuar
-support-third-party-modules-status-redirected = I ridrejtuar
-support-third-party-modules-empty = S’u ngarkuan module palësh të treta.
-support-third-party-modules-no-value = (S’ka vlerë)
-support-third-party-modules-button-open =
-    .title = Hapni vendndodhje kartele…
-support-third-party-modules-expand =
-    .title = Shfaq të dhëna të hollësishme
-support-third-party-modules-collapse =
-    .title = Tkurri të dhënat e hollësishme
-support-third-party-modules-unsigned-icon =
-    .title = Ky modul s’është i nënshkruar
-support-third-party-modules-folder-icon =
-    .title = Hapni vendndodhje kartele…
-support-third-party-modules-down-icon =
-    .title = Shfaq të dhëna të hollësishme
-support-third-party-modules-up-icon =
-    .title = Tkurri të dhënat e hollësishme
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -314,11 +276,6 @@ webgl2-renderer = Vizatues WebGL2
 webgl2-version = Version Përudhësi WebGL 2
 webgl2-driver-extensions = Zgjerime Përudhësi WebGL 2
 webgl2-extensions = Zgjerime WebGL 2
-blocklisted-bug = Vënë në listë të zezë, për shkak problemesh të njohura
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = e meta { $bugNumber }
 
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
@@ -329,8 +286,6 @@ support-blocklisted-bug = Shtuar në listë bllokimesh për shkak çështjesh t�
 unknown-failure = Vënë në listë të zezë, kod dështimi { $failureCode }
 
 d3d11layers-crash-guard = Hartues D3D11
-d3d11video-crash-guard = Shkodues Videosh D3D11
-d3d9video-crash-guard = Shkodues Videosh D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Shkodues Videosh WMF VPX
 
@@ -372,14 +327,6 @@ launcher-process-status-unknown = Gjendje e panjohur
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Aktivizuar nga përdoruesi
-multi-process-status-1 = Aktivizuar si parazgjedhje
-multi-process-status-2 = I çaktivizuar
-multi-process-status-4 = Çaktivizuar nga mjetet e përdorshmërisë
-multi-process-status-6 = Çaktivizuar për shkak futje teksti të pambuluar
-multi-process-status-7 = Çaktivizuar nga shtesat
-multi-process-status-8 = Çaktivizuar forcërisht
-multi-process-status-unknown = Gjendje e panjohur
 
 # Variables
 # $fissionWindows (integer) - Number of remote windows

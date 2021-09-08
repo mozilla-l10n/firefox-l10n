@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Hapni Dritare Private
 about-private-browsing-search-placeholder = Kërkoni në Web
 about-private-browsing-info-title = Gjendeni në Dritare Private
 about-private-browsing-info-myths = Mite të rëndomtë mbi shfletimin privat
-about-private-browsing =
-    .title = Kërkoni në Web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

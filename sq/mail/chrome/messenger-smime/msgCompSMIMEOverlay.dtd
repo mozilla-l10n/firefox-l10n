@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Nënshkruaje Numerikisht Këtë Mesazh">
 <!ENTITY menu_securitySign.accesskey "N">
 
-<!ENTITY menu_securityAttachMyKey.label "Bashkëngjit Kyçin Tim Publik">
-<!ENTITY menu_securityAttachMyKey.accesskey "a">
-
 <!ENTITY menu_securityTech.label "Teknologji Fshehtëzimi">
 <!ENTITY menu_securityTech.accesskey "T">
 

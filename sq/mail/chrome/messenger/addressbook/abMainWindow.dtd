@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Mbylleni">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "M">
-<!ENTITY printSetupCmd.label                            "Rregullim Faqeje…">
-<!ENTITY printSetupCmd.accesskey                        "R">
-<!ENTITY printPreviewContactCmd.label                   "Paraparje Shtypjeje Kontakti">
-<!ENTITY printPreviewContactCmd.accesskey               "a">
-<!ENTITY printPreviewAddressBook.label                  "Paraparje Shtypje Libri Adresash">
-<!ENTITY printPreviewAddressBook.accesskey              "L">
 <!ENTITY printContactCmd.label                          "Shtypni Kontakt…">
 <!ENTITY printContactCmd.accesskey                      "y">
 <!ENTITY printContactCmd.key                            "P">
@@ -111,10 +105,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Eksportoni…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                          "Mundësi">
-<!ENTITY preferencesCmd2.accesskey                      "M">
-<!ENTITY preferencesCmdUnix.label                       "Parapëlqime">
-<!ENTITY preferencesCmdUnix.accesskey                   "a">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Kontakt i Ri">

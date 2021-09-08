@@ -40,8 +40,6 @@ inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</stro
 
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë <strong>overflow:hidden</strong> s’është caktuar.
 
-inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë <strong>outline-style</strong> i tij është <strong>auto</strong> ose <strong>none</strong>.
-
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> s’ka efekt mbi elementë të brendshëm të tabelës.
 
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> s’ka efekt në elementë të brendshëm të tabelës, hiq kuti tabele.
@@ -83,8 +81,6 @@ inactive-text-overflow-when-no-overflow-fix = Provoni të shtoni <strong>overflo
 inactive-css-not-for-internal-table-elements-fix = Provoni të vini vetinë e tij <strong>display</strong> si diçka tjetër nga <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ose <strong>table-footer-group</strong>. { learn-more }
 
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Provoni të vini vetinë e tij <strong>display</strong> si diçka tjetër nga <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ose <strong>table-footer-group</strong>. { learn-more }
-
-inactive-outline-radius-when-outline-style-auto-or-none-fix = Provoni të vini vetinë e tij <strong>outline-style</strong> si diçka tjetër nga <strong>auto</strong> ose <strong>none</strong>. { learn-more }
 
 inactive-css-not-table-fix = Provoni të shtoni <strong>display:table</strong> ose <strong>display:inline-table</strong>. { learn-more }
 

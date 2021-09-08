@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = Parapëlqime { -brand-short-name }-i
 
 open-addons-sidebar-button = Shtesa dhe Tema
+

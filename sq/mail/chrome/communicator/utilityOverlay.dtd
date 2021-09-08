@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY deleteCmd.label          "Fshije">
 <!ENTITY deleteCmd.accesskey        "F">
-<!ENTITY preferencesCmd2.label "Mundësi">
-<!ENTITY preferencesCmd2.accesskey "M">
-<!ENTITY preferencesCmdUnix.label       "Parapëlqime">
-<!ENTITY preferencesCmdUnix.accesskey     "a">
 
 <!ENTITY customizeCmd.label "Përshtateni">
 <!ENTITY customizeCmd.accesskey "t">

@@ -5,9 +5,6 @@
 places-open =
     .label = Hape
     .accesskey = H
-places-open-tab =
-    .label = Hape në Skedë të Re
-    .accesskey = S
 places-open-in-tab =
     .label = Hape në Skedë të Re
     .accesskey = R
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Hapi Krejt në Skeda
     .accesskey = T
-places-open-window =
-    .label = Hape në Dritare të Re
-    .accesskey = D
-places-open-private-window =
-    .label = Hape në Dritare të Re Private
-    .accesskey = P
-
-places-new-bookmark =
-    .label = Faqerojtës i Ri…
-    .accesskey = q
-places-new-folder-contextmenu =
-    .label = Dosje e Re…
-    .accesskey = O
-places-new-folder =
-    .label = Dosje e Re…
-    .accesskey = D
-places-new-separator =
-    .label = Ndarës i Ri
-    .accesskey = s
 
 places-open-in-window =
     .label = Hape në Dritare të Re
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Renditi Sipas Emrash
     .accesskey = r
-places-properties =
-    .label = Veti
-    .accesskey = V
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -134,3 +109,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Administroni Faqerojtës
     .accesskey = A
+

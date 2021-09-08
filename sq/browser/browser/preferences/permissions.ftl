@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Hiqi Krejt Sajtet
     .accesskey = k
 
-permissions-button-cancel =
-    .label = Anuloje
-    .accesskey = A
-
-permissions-button-ok =
-    .label = Ruaji Ndryshimet
-    .accesskey = R
-
 permission-dialog =
     .buttonlabelaccept = Ruaji Ndryshimet
     .buttonaccesskeyaccept = R

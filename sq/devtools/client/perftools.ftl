@@ -83,8 +83,6 @@ perftools-thread-img-decoder =
     .title = Rrjedha shkodimi figurash
 perftools-thread-dns-resolver =
     .title = Ftillimi DNS ndodh në këtë rrjedhë
-perftools-thread-js-helper =
-    .title = Punë në prapaskenë mekanizmi JS, bie fjala përpilime off-main-thread
 
 ##
 

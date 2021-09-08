@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Shkoni mbrapsht një faqe
-    .aria-label = Mbrapsht
-    .accesskey = M
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Shkoni para një faqe
-    .aria-label = Para
-    .accesskey = P
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -116,9 +94,6 @@ main-context-menu-page-save =
     .label = Ruajeni Faqen Si…
     .accesskey = S
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -179,10 +154,6 @@ main-context-menu-open-link-new-private-window =
     .label = Hape Lidhjen në Dritare të Re Private
     .accesskey = V
 
-main-context-menu-bookmark-this-link =
-    .label = Faqeruaje Këtë Lidhje
-    .accesskey = L
-
 main-context-menu-bookmark-link =
     .label = Faqeruani Lidhjen
     .accesskey = F
@@ -207,10 +178,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Kopjo Adresë Email
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = Kopjo Vendndodhje Lidhjeje
-    .accesskey = K
 
 main-context-menu-copy-link-simple =
     .label = Kopjoji Lidhjen
@@ -239,32 +206,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Me Zë
     .accesskey = z
-
-main-context-menu-media-play-speed =
-    .label = Shpejtësi Loje
-    .accesskey = e
-
-main-context-menu-media-play-speed-slow =
-    .label = Ngadalë (0.5×)
-    .accesskey = a
-
-main-context-menu-media-play-speed-normal =
-    .label = Normale
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = Shpejt (1.25×)
-    .accesskey = S
-
-main-context-menu-media-play-speed-faster =
-    .label = Më shpejt (1.5×)
-    .accesskey = ë
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Marramendëse (2×)
-    .accesskey = M
 
 main-context-menu-media-play-speed-2 =
     .label = Shpejtësi
@@ -312,12 +253,6 @@ main-context-menu-media-video-leave-fullscreen =
 
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Picture-in-Picture
-    .accesskey = u
-
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
     .label = Shiheni nën mënyrën Picture-in-Picture
     .accesskey = u
@@ -325,14 +260,6 @@ main-context-menu-media-watch-pip =
 main-context-menu-image-reload =
     .label = Ringarkoje Figurën
     .accesskey = R
-
-main-context-menu-image-view =
-    .label = Shiheni Figurën
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = Shiheni Videon
-    .accesskey = S
 
 main-context-menu-image-view-new-tab =
     .label = Hape Figurën në Skedë të Re
@@ -345,18 +272,6 @@ main-context-menu-video-view-new-tab =
 main-context-menu-image-copy =
     .label = Kopjo Figurën
     .accesskey = K
-
-main-context-menu-image-copy-location =
-    .label = Kopjo Vendndodhje Figure
-    .accesskey = P
-
-main-context-menu-video-copy-location =
-    .label = Kopjo Vendndodhje Videoje
-    .accesskey = k
-
-main-context-menu-audio-copy-location =
-    .label = Kopjo Vendndodhje Audioje
-    .accesskey = k
 
 main-context-menu-image-copy-link =
     .label = Kopjo Lidhje Figure
@@ -378,10 +293,6 @@ main-context-menu-image-email =
     .label = Dërgoni Figurë me Email…
     .accesskey = g
 
-main-context-menu-image-set-as-background =
-    .label = Vëreni Si Sfond Desktopi…
-    .accesskey = S
-
 main-context-menu-image-set-image-as-background =
     .label = Vëreni Figurën si Sfond Desktopi…
     .accesskey = V
@@ -401,10 +312,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Ruajeni Audion Si…
     .accesskey = u
-
-main-context-menu-video-image-save-as =
-    .label = Ruajeni Foton Si…
-    .accesskey = R
 
 main-context-menu-video-take-snapshot =
     .label = Bëni Fotografim…
@@ -433,14 +340,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Dërgoje Faqen te Pajisje
     .accesskey = P
-
-main-context-menu-view-background-image =
-    .label = Shihni Figurë Sfondi
-    .accesskey = i
-
-main-context-menu-generate-new-password =
-    .label = Përdorni Fjalëkalimin e Prodhuar…
-    .accesskey = o
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -532,10 +431,6 @@ main-context-menu-view-page-source =
     .label = Shihni Burim Faqeje
     .accesskey = u
 
-main-context-menu-view-page-info =
-    .label = Shihni të Dhëna Faqeje
-    .accesskey = D
-
 main-context-menu-bidi-switch-text =
     .label = Këmbe Drejtim Teksti
     .accesskey = T
@@ -543,10 +438,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Këmbe Drejtim Faqeje
     .accesskey = F
-
-main-context-menu-inspect-element =
-    .label = Shqyrtoje Elementin
-    .accesskey = E
 
 main-context-menu-inspect =
     .label = Shqyrtoje
@@ -558,3 +449,4 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Mësoni më tepër rreth DRM-s…
     .accesskey = D
+

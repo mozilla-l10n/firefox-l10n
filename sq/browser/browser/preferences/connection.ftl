@@ -35,19 +35,11 @@ connection-proxy-http = Ndërmjetës HTTP
     .accesskey = H
 connection-proxy-http-port = Portë
     .accesskey = o
-connection-proxy-http-sharing =
-    .label = Këtë ndërmjetës përdore edhe për FTP dhe HTTPS
-    .accesskey = K
 
 connection-proxy-https = Ndërmjetës HTTPS
     .accesskey = S
 connection-proxy-ssl-port = Portë
     .accesskey = r
-
-connection-proxy-ftp = Ndërmjetës FTP
-    .accesskey = F
-connection-proxy-ftp-port = Portë
-    .accesskey = t
 
 connection-proxy-socks = Strehë SOCKS
     .accesskey = C
@@ -64,9 +56,6 @@ connection-proxy-noproxy = Pa ndërmjetës për
     .accesskey = a
 
 connection-proxy-noproxy-desc = Shembull: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Lidhjet me localhost, 127.0.0.1, dhe ::1 nuk kalohen kurrë përmes ndërmjetësi.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Lidhjet te localhost, 127.0.0.1/8, dhe ::1 s’kalojnë kurrë përmes ndërmjetësi.

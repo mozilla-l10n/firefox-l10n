@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Si funksionon
 
-turn-on-sync = Aktivizoni { -sync-brand-short-name }…
-    .title = Shkoni te parapëlqimet rreth njëkohësimit
-
 monitor-title = Shihni për cenime të dhënash
 monitor-link = Si funksionon
 monitor-header-content-no-account = Kontrolloni me { -monitor-brand-name } që të shihni nëse keni qenë prekur nga një cenim i ditur të dhënash, dhe merrni sinjalizime mbi cenime të reja.

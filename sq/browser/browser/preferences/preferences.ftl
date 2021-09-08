@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Përherë
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Mundësi
-       *[other] Parapëlqime
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Gjeni te Mundësitë
-           *[other] Gjeni te Parapëlqimet
-        }
-
 settings-page-title = Rregullime
 
 # This is used to determine the width of the search field in about:preferences,
@@ -65,10 +43,6 @@ category-search =
 pane-privacy-title = Privatësi & Siguri
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 pane-sync-title3 = Sync
 category-sync3 =
@@ -113,14 +87,6 @@ restart-later = Riniseni Më Vonë
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Faqen tuaj hyrëse e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Faqen tuaj Skedë e Re e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
-
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = Këtë rregullim e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
@@ -128,10 +94,6 @@ extension-controlled-password-saving = Këtë rregullim e kontrollon një zgjeri
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Këtë rregullim e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Motorin tuaj parazgjedhje për kërkime e ka caktuar një zgjerim, <img data-l10n-name="icon"/> { $name }.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -157,13 +119,6 @@ extension-controlled-enable = Që të aktivizoni zgjerimin, shkoni te Shtesa <im
 search-results-header = Përfundime Kërkimi
 
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Na ndjeni! S’ka përfundime te Mundësitë për “<span data-l10n-name="query"></span>”.
-       *[other] Na ndjeni! S’ka përfundime te Parapëlqimet për “<span data-l10n-name="query"></span>”.
-    }
-
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Na ndjeni! Te Rregullimet s’ka përfundime për “<span data-l10n-name="query"></span>”.
 
 search-results-help-link = Ju duhet ndihmë? Vizitoni <a data-l10n-name="url">Asistencë { -brand-short-name }</a>
@@ -171,14 +126,6 @@ search-results-help-link = Ju duhet ndihmë? Vizitoni <a data-l10n-name="url">As
 ## General Section
 
 startup-header = Nisje
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Lejojeni { -brand-short-name }-in dhe Firefox-in të xhirojnë në të njëjtën kohë
-use-firefox-sync = Ndihmëz: Kjo përdor profile ndaras. Për ndarje të dhënash mes tyre përdorni { -sync-brand-short-name }-n.
-get-started-not-logged-in = Hyni te { -sync-brand-short-name }-u…
-get-started-configured = Hap parapëlqimet mbi { -sync-brand-short-name }
 
 always-check-default =
     .label = Kontrollo përherë për të parë nëse { -brand-short-name }-i është shfletuesi parazgjedhje
@@ -218,10 +165,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Sinjalizo kur hapja e shumë skedave njëherësh do të mund të ngadalësonte { -brand-short-name }-in
     .accesskey = z
-
-switch-links-to-new-tabs =
-    .label = Kur një lidhje hapet si një skedë të re, kalo në të menjëherë
-    .accesskey = K
 
 switch-to-new-tabs =
     .label = Kur hapni një lidhje, figurë ose media si një skedë të re, kalo në të menjëherë
@@ -410,11 +353,6 @@ applications-manage-app =
     .label = Hollësi Aplikacioni…
 applications-always-ask =
     .label = Pyetmë përherë
-applications-type-pdf = Format Dokumentesh të Mbartshëm (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -504,17 +442,6 @@ update-application-warning-cross-user-setting = Ky rregullim do të zbatohet mbi
 update-application-use-service =
     .label = Për instalim përditësimesh përdor një shërbim në prapaskenë
     .accesskey = P
-
-update-setting-write-failure-title = Gabim në ruajtje parapëlqimesh Përditësimi
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    { -brand-short-name }-i hasi një gabim dhe s’e ruajti këtë ndryshim. Kini parasysh se caktimi i këtij parapëlqimi mbi përditësimet lyp leje për shkrim te kartela më poshtë. Ju, ose një përgjegjës sistemi mund të jeni në gjendje ta zgjidhni gabimin duke i akorduar grupit Përdorues kontroll të plotë të kësaj kartele.
-    
-    S’u shkrua dot në kartelë: { $path }
 
 update-setting-write-failure-title2 = Gabim në ruajtje rregullimesh Përditësimi
 
@@ -769,13 +696,9 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Shfaq sugjerime kërkimesh në Dritare Private
 
-suggestions-addressbar-settings-generic = Ndryshoni parapëlqime për sugjerimet të tjera shtylle adresash
-
 suggestions-addressbar-settings-generic2 = Ndryshoni rregullime për sugjerime të tjera shtylle adresash
 
 search-suggestions-cant-show = Sugjerimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
-
-search-one-click-header = Motorë kërkimesh me një klikim
 
 search-one-click-header2 = Kërko për Shkurtore
 
@@ -810,13 +733,6 @@ search-keyword-warning-bookmark = Zgjodhët një fjalëkyç që hëpërhë po p�
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Mbrapsht te Mundësitë
-           *[other] Mbrapsht te Parapëlqimet
-        }
-
 containers-back-button2 =
     .aria-label = Mbrapsht te Rregullimet
 containers-header = Skeda Kontejneri
@@ -828,9 +744,6 @@ containers-new-tab-check =
     .label = Përzgjidhni një kontejner për çdo skedë të re
     .accesskey = P
 
-containers-preferences-button =
-    .label = Parapëlqime
-
 containers-settings-button =
     .label = Rregullime
 containers-remove-button =
@@ -840,11 +753,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Merreni Web-in me vete
-sync-signedout-description = Njëkohësoni nëpër krejt pajisjet tuaja faqerojtësit, historikun e shfletimeve, skedat, fjalëkalimet, shtesat dhe parapëlqimet tuaja.
-
-sync-signedout-account-signin2 =
-    .label = Hyni te { -sync-brand-short-name }-u…
-    .accesskey = H
 
 sync-signedout-description2 = Njëkohësoni faqerojtësit tuaj, skedat, fjalëkalimet, shtesa dhe rregullime nga krejt pajisjet tuaja.
 
@@ -895,12 +803,6 @@ prefs-syncing-on = Njëkohësim: ON
 
 prefs-syncing-off = Njëkohësim: OFF
 
-prefs-sync-setup =
-    .label = Ujdisni { -sync-brand-short-name }…
-    .accesskey = U
-
-prefs-sync-offer-setup-label = Njëkohësoni nëpër krejt pajisjet tuaja faqerojtësit, historikun e shfletimeve, skedat, fjalëkalimet, shtesat dhe parapëlqimet tuaja.
-
 prefs-sync-turn-on-syncing =
     .label = Aktivizoni njëkohësimin…
     .accesskey = A
@@ -923,11 +825,6 @@ sync-currently-syncing-logins-passwords = Kredenciale hyrjesh dhe fjalëkalime
 sync-currently-syncing-addresses = Adresa
 sync-currently-syncing-creditcards = Karta krediti
 sync-currently-syncing-addons = Shtesa
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Mundësi
-       *[other] Parapëlqime
-    }
 
 sync-currently-syncing-settings = Rregullime
 
@@ -977,15 +874,6 @@ sync-engine-addons =
     .label = Shtesat e Mia
     .tooltiptext = Zgjerime dhe tema për Firefox Desktop
     .accesskey = t
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Mundësi
-           *[other] Parapëlqime
-        }
-    .tooltiptext = Të dhëna të Përgjithshme, Privatësie dhe Sigurie që i keni ndryshuar ju
-    .accesskey = P
 
 sync-engine-settings =
     .label = Rregullime
@@ -1042,9 +930,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Kredenciale Hyrjeje të Ruajtura…
     .accesskey = K
-forms-master-pw-use =
-    .label = Përdor fjalëkalim të përgjithshëm
-    .accesskey = o
 forms-primary-pw-use =
     .label = Përdorni një Fjalëkalim të Përgjithshëm
     .accesskey = P
@@ -1056,7 +941,6 @@ forms-master-pw-change =
     .label = Ndryshoni Fjalëkalimin e Përgjithshëm…
     .accesskey = F
 
-forms-master-pw-fips-title = Gjendeni nën mënyrën FIPS. FIPS lyp një Fjalëkalim të Përgjithshëm jo të zbrazët.
 forms-primary-pw-change =
     .label = Ndryshoni Fjalëkalimin e Përgjithshëm…
     .accesskey = N
@@ -1069,15 +953,6 @@ forms-primary-pw-fips-title = Gjendeni nën mënyrën FIPS. FIPS lyp një Fjalë
 forms-master-pw-fips-desc = Ndryshimi i Fjalëkalimit Dështoi
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Që të krijoni një Fjalëkalim të Përgjithshëm, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = të krijojë një Fjalëkalim të Përgjithshëm
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Që të krijoni një Fjalëkalim të Përgjithshëm, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
@@ -1194,10 +1069,6 @@ sitedata-clear =
 
 sitedata-settings =
     .label = Administroni Të dhëna…
-    .accesskey = A
-
-sitedata-cookies-permissions =
-    .label = Administroni Lejet
     .accesskey = A
 
 sitedata-cookies-exceptions =
@@ -1379,12 +1250,6 @@ permissions-addon-exceptions =
     .label = Përjashtime…
     .accesskey = a
 
-permissions-a11y-privacy-checkbox =
-    .label = Parandaloni shërbime përdorshmërie të hyjnë në shfletuesin tuaj
-    .accesskey = P
-
-permissions-a11y-privacy-link = Mësoni më tepër
-
 ## Privacy Section - Data Collection
 
 collection-header = Grumbullim dhe Përdorim të Dhënash nga { -brand-short-name }-i
@@ -1411,11 +1276,6 @@ addon-recommendations-link = Mësoni më tepër
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Raportimi i të dhënave është i çaktivizuar për këtë formësim montimi
-
-collection-backlogged-crash-reports =
-    .label = Lejojeni { -brand-short-name }-in të dërgojë njoftime të dikurshme vithisjesh në emrin tuaj
-    .accesskey = L
-collection-backlogged-crash-reports-link = Mësoni Më Tepër
 
 collection-backlogged-crash-reports-with-link = Lejojeni { -brand-short-name }-in të dërgojë raporte vithisjesh të mëparshme në emrin tuaj <a data-l10n-name="crash-reports-link">Mësoni më tepër</a>
     .accesskey = c
@@ -1446,16 +1306,6 @@ security-block-uncommon-software =
 
 certs-header = Dëshmi
 
-certs-personal-label = Kur një shërbyes kërkon dëshminë tuaj personale
-
-certs-select-auto-option =
-    .label = Përzgjidh një vetvetiu
-    .accesskey = z
-
-certs-select-ask-option =
-    .label = Pyetmë çdo herë
-    .accesskey = y
-
 certs-enable-ocsp =
     .label = Kërkojuni shërbyesve me përgjigje OCSP të ripohojnë vlefshmërinë e tanishme të dëshmive
     .accesskey = K
@@ -1467,34 +1317,6 @@ certs-view =
 certs-devices =
     .label = Pajisje Sigurie…
     .accesskey = P
-
-space-alert-learn-more-button =
-    .label = Mësoni Më Tepër
-    .accesskey = M
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Hap Mundësitë
-           *[other] Hap Parapëlqimet
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] H
-           *[other] H
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] Po mbaron hapësira e diskut për { -brand-short-name }-in. Lënda e sajtit mund të mos shfaqet si duhet. Të dhëna të depozituara mund të hiqni qafe që nga Mundësi > Privatësi & Siguri > Cookies dhe Të dhëna Sajtesh.
-       *[other] Po mbaron hapësira e diskut për { -brand-short-name }-in. Lënda e sajtit mund të mos shfaqet si duhet. Të dhëna të depozituara mund të hiqni qafe që nga Parapëlqime > Privatësi & Siguri > Cookies dhe Të dhëna Sajtesh.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = OK, e mora vesh
-    .accesskey = O
-
-space-alert-under-5gb-message = Po mbaron hapësira e diskut për { -brand-short-name }. Lënda e sajtit mund të mos shfaqet si duhet. Vizitoni “Mësoni Më Tepër” që të optimizoni përdorimin tuaj të diskut oër shfletim më të mirë.
 
 space-alert-over-5gb-settings-button =
     .label = Hap Rregullimet
