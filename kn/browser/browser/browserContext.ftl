@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = ಒಂದು ಪುಟ ಹಿಂದಕ್ಕೆ ಹೋಗು
-    .aria-label = ಹಿಂದೆ
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = ಒಂದು ಪುಟ ಮುಂದಕ್ಕೆ ಹೋಗು
-    .aria-label = ಮುಂದೆ
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = ಈ ಪುಟವನ್ನು ಹೀಗೆ ಉಳಿಸು...
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = ಹೊಸ Private ಕಿಟಕಿಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = ಈ ಕೊಂಡಿಯನ್ನು ಪುಟಗುರುತು ಮಾಡು
-    .accesskey = L
-
 main-context-menu-save-link =
     .label = ಕೊಂಡಿಯನ್ನು ಹೀಗೆ ಉಳಿಸು...
     .accesskey = k
@@ -181,10 +152,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = ಇಮೈಲ್ ವಿಳಾಸವನ್ನು ಕಾಪಿ ಮಾಡು
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = ತಾಣದ ವಿಳಾಸವನ್ನು (ಲಿಂಕ್ ಲೋಕೇಶನ್) ಪ್ರತಿ ಮಾಡು
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -209,32 +176,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = ಮೂಕವಾಗಿಸಬೇಡ
     .accesskey = m
-
-main-context-menu-media-play-speed =
-    .label = ಚಾಲನೆಯ ವೇಗ
-    .accesskey = d
-
-main-context-menu-media-play-speed-slow =
-    .label = ನಿಧಾನ (0.5×)
-    .accesskey = S
-
-main-context-menu-media-play-speed-normal =
-    .label = ಸಾಮಾನ್ಯ
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = ವೇಗ (1.25×)
-    .accesskey = F
-
-main-context-menu-media-play-speed-faster =
-    .label = ವೇಗವಾಗಿ (1.5×)
-    .accesskey = a
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = ಅತ್ಯಂತ ವೇಗ (2×)
-    .accesskey = L
 
 main-context-menu-media-loop =
     .label = ಲೂಪ್
@@ -265,29 +206,9 @@ main-context-menu-image-reload =
     .label = ಚಿತ್ರವನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡು
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = ಚಿತ್ರವನ್ನು ನೋಡು
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = ವೀಡಿಯೋ ಅನ್ನು ನೋಡಿ
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = ಚಿತ್ರವನ್ನು ಕಾಪಿ ಮಾಡು
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = ಚಿತ್ರದ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = ವೀಡಿಯೋ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = ಆಡಿಯೋ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = ಚಿತ್ರವನ್ನು ಹೀಗೆ ಉಳಿಸು...
@@ -296,10 +217,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = ಚಿತ್ರವನ್ನು ಇಮೈಲ್ ಮಾಡಿ…
     .accesskey = g
-
-main-context-menu-image-set-as-background =
-    .label = ಗಣಕತೆರೆಯ ಹಿನ್ನಲೆಯಾಗಿ ಹೊಂದಿಸು...
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = ಚಿತ್ರದ ಮಾಹಿತಿಯನ್ನು ನೋಡು
@@ -316,10 +233,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = ಆಡಿಯೋ ಅನ್ನು ಹೀಗೆ ಉಳಿಸು…
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = ಸ್ನ್ಯಾಪ್‌ಶಾಟ್ ಅನ್ನು ಹೀಗೆ ಉಳಿಸು…
-    .accesskey = S
 
 main-context-menu-video-email =
     .label = ವೀಡಿಯೊವನ್ನು ಇಮೈಲ್ ಮಾಡಿ…
@@ -340,10 +253,6 @@ main-context-menu-plugin-hide =
 main-context-menu-send-to-device =
     .label = ಪುಟವನ್ನು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸು
     .accesskey = D
-
-main-context-menu-view-background-image =
-    .label = ಹಿನ್ನಲೆಯ ಚಿತ್ರವನ್ನು ನೋಡು
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -408,10 +317,6 @@ main-context-menu-view-page-source =
     .label = ಪುಟದ ಮೂಲವನ್ನು ನೋಡು
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = ಪುಟದ ಮಾಹಿತಿಯನ್ನು ನೋಡು
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = ಪಠ್ಯದ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸು
     .accesskey = w
@@ -420,10 +325,7 @@ main-context-menu-bidi-switch-page =
     .label = ಪುಟದ ದಿಕ್ಕನ್ನು ಬದಲಾಯಿಸು
     .accesskey = D
 
-main-context-menu-inspect-element =
-    .label = ಪರೀಕ್ಷಕ ಘಟಕ
-    .accesskey = Q
-
 main-context-menu-eme-learn-more =
     .label = ಹೆಚ್ಚು ಕಲಿಯಿರಿ DRM ಬಗ್ಗೆ…
     .accesskey = D
+

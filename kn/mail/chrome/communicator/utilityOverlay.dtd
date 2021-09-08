@@ -18,10 +18,6 @@
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY deleteCmd.label          "ಅಳಿಸು(D)">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY preferencesCmd2.label "ಆಯ್ಕೆಗಳು">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "ಆದ್ಯತೆಗಳು">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY viewMenu.label          "ನೋಟ(V)">
 <!ENTITY viewMenu.accesskey        "V">

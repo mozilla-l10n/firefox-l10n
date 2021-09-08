@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "ಅಳಿಸು">
 
-<!ENTITY fillLoginMenu.label          "ಲಾಗಿನ್ ಭರ್ತಿ ಮಾಡಿ">
-<!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "ಗುಪ್ತಪದವನ್ನು ಭರ್ತಿ ಮಾಡಿ">
-<!ENTITY fillPasswordMenu.accesskey   "F">
-<!ENTITY fillUsernameMenu.label       "ಬಳಕೆದಾರನ ಹೆಸರನ್ನು ಭರ್ತಿ ಮಾಡಿ">
-<!ENTITY fillUsernameMenu.accesskey   "F">
-<!ENTITY noLoginSuggestions.label     "(ಯಾವುದೆ ಲಾಗಿನ್ ಸಲಹೆಗಳಿಲ್ಲ)">
-<!ENTITY viewSavedLogins.label        "ಉಳಿಸಿದ ಲಾಗಿನ್‌ಗಳನ್ನು ನೋಡು">

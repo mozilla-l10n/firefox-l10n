@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = ಪಟ್ಟಿ
 
-blocklist-button-cancel =
-    .label = ರದ್ದುಗೊಳಿಸು
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸು
-    .accesskey = S
-
 
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.

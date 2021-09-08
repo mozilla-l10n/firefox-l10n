@@ -5,31 +5,9 @@
 places-open =
     .label = ತೆರೆ
     .accesskey = O
-places-open-tab =
-    .label = ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ
-    .accesskey = w
 places-open-all-in-tabs =
     .label = ಎಲ್ಲಾ ಹಾಳೆಗಳಲ್ಲೂ ತೆರೆ
     .accesskey = O
-places-open-window =
-    .label = ಹೊಸ ವಿಂಡೋದಲ್ಲಿ ತೆರೆ
-    .accesskey = N
-places-open-private-window =
-    .label = ಹೊಸ Private ಕಿಟಕಿಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ
-    .accesskey = P
-
-places-new-bookmark =
-    .label = ಹೊಸ ಬುಕ್‌ಮಾರ್ಕ್…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = ಹೊಸ ಕಡತಕೋಶ…
-    .accesskey = F
-places-new-folder =
-    .label = ಹೊಸ ಕಡತಕೋಶ…
-    .accesskey = o
-places-new-separator =
-    .label = ಹೊಸ ವಿಭಜಕ
-    .accesskey = S
 
 places-view =
     .label = ನೋಟ
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = ಹೆಸರಿನಿಂದ ವಿಂಗಡಿಸು
     .accesskey = r
-places-properties =
-    .label = ಗುಣಲಕ್ಷಣಗಳು
-    .accesskey = i
 

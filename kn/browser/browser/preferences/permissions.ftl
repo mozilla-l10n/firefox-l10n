@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = ಎಲ್ಲಾ ಜಾಲತಾಣಗಳನ್ನು ತೆಗೆದು ಹಾಕು
     .accesskey = e
 
-permissions-button-cancel =
-    .label = ರದ್ದುಮಾಡು
-    .accesskey = C
-
-permissions-button-ok =
-    .label = ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸು
-    .accesskey = S
-
 permissions-searchbox =
     .placeholder = ಜಾಲತಾಣವನ್ನು ಹುಡುಕು
 

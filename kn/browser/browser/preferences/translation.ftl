@@ -35,7 +35,3 @@ translation-sites-button-remove-all =
     .label = ಎಲ್ಲಾ ತಾಣವನ್ನು ತೆಗೆದು ಹಾಕು
     .accesskey = i
 
-translation-button-close =
-    .label = ಮುಚ್ಚು
-    .accesskey = C
-

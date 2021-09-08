@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = ಹುಡುಕು
     .aria-label = ಹುಡುಕು
 
-newtab-search-box-search-the-web-text = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
-
 newtab-search-box-search-the-web-input =
     .placeholder = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
     .title = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ

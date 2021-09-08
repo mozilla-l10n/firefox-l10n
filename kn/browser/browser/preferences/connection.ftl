@@ -37,11 +37,6 @@ connection-proxy-http-port = ಪೋರ್ಟ್
 connection-proxy-ssl-port = ಪೋರ್ಟ್
     .accesskey = o
 
-connection-proxy-ftp = FTP ಪ್ರಾಕ್ಸಿ
-    .accesskey = F
-connection-proxy-ftp-port = ಪೋರ್ಟ್
-    .accesskey = r
-
 connection-proxy-socks = SOCKS ಅತಿಥೇಯ
     .accesskey = C
 connection-proxy-socks-port = ಪೋರ್ಟ್
