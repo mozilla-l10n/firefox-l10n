@@ -94,9 +94,6 @@ no-proxy-label =
 
 no-proxy-example = Piemēram: .mozilla.org, .net.nz, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = Savienojumi ar localhost, 127.0.0.1 un :: 1 nekad neiet caur starpnieku.
-
 proxy-password-prompt =
     .label = Ja ir saglabāta parole, nejautāt autentifikāciju
     .accesskey = i

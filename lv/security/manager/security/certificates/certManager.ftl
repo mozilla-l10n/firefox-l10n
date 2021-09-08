@@ -19,44 +19,7 @@ certmgr-tab-ca =
 
 certmgr-mine = Jums ir jūs identificējoši sertifikāti no šīm organizācijām
 certmgr-people = Jums failā ir šos cilvēkus identificējoši sertifikāti
-certmgr-servers = Jums failā ir šos serverus identificējoši sertifikāti
 certmgr-ca = Jums failā ir šīs sertificēšanas autoritātes identificējoši sertifikāti
-
-certmgr-detail-general-tab-title =
-    .label = Vispārīgi
-    .accesskey = V
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Detaļas
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Šobrīd pārbauda sertifikātu...
-
-certmgr-subject-label = Izdots
-
-certmgr-issuer-label = Izdevējs
-
-certmgr-period-of-validity = Derīguma termiņš
-
-certmgr-fingerprints = Pirkstu nospiedumi
-
-certmgr-cert-detail =
-    .title = Sertifikāta detaļas
-    .buttonlabelaccept = Aizvērt
-    .buttonaccesskeyaccept = z
-
-certmgr-cert-detail-commonname = Nosaukums (CN)
-
-certmgr-cert-detail-org = Organizācija (O)
-
-certmgr-cert-detail-orgunit = Organizatoriska vienība (OU)
-
-certmgr-cert-detail-serial-number = Sērijas numurs
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 pirkstu nospiedums
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 pirkstu nospiedums
 
 certmgr-edit-ca-cert =
     .title = Rediģēt CA sertifikātu uzticamības iestatījumus
@@ -86,12 +49,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Drošības ierīce
 
-certmgr-begins-on = Sākas
-
 certmgr-begins-label =
     .label = Sākas
-
-certmgr-expires-on = Derīgs līdz
 
 certmgr-expires-label =
     .label = Derīgs līdz
@@ -133,18 +92,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Importēt…
     .accesskey = I
-
-certmgr-details =
-    .value = Sertifikātu lauki
-    .accesskey = l
-
-certmgr-fields =
-    .value = Lauka vērtība
-    .accesskey = v
-
-certmgr-hierarchy =
-    .value = &Sertifikātu hierarhija
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Pievienot izņēmumu…
@@ -208,12 +155,6 @@ delete-user-cert-confirm = Vai esat pārliecināts, ka vēlaties dzēst šos ser
 delete-user-cert-impact = Ja izdzēsīsiet vienu no saviem sertifikātiem, vairs nevarēsiet to izmantot sevis identificēšanai tīmeklī.
 
 
-delete-ssl-cert-title =
-    .title = Dzēst serveru sertifikātu izņēmumus
-delete-ssl-cert-confirm = Vai esat pārliecināts, ka vēlaties dzēst šos serveru izņēmumus?
-delete-ssl-cert-impact = Ja izdzēsīsiet servera izņēmumu, šim serverim tiks atjaunotas parastās drošības pārbaudes un tam būs nepieciešams derīgs sertifikāts.
-
-
 delete-ca-cert-title =
     .title = Dzēst CA sertifikātus
 delete-ca-cert-confirm = Jūs esat izvēlējies dzēst CA sertifikātus. Iebūvētajiem sertifikātiem visa uzticamība tiks noņemta. Vai esat pārliecināts, ka vēlaties dzēst šos CA sertifikātus?
@@ -233,45 +174,6 @@ cert-with-serial =
     .value = Sertifikāts ar sērijas numurs: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Sertifikātu skatītājs: “{ $certName }”
-
-not-present =
-    .value = <Nav daļa no sertifikāta>
-
-# Cert verification
-cert-verified = Šis sertifikāts ir apstiprināts šādiem mērķiem:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL klienta sertifikāts
-
-verify-ssl-server =
-    .value = SSL servera sertifikāts
-
-verify-ssl-ca =
-    .value = SSL sertifikāta autoritāte
-
-verify-email-signer =
-    .value = Epasta parakstītāja sertifikāts
-
-verify-email-recip =
-    .value = Epasta saņēmēja sertifikāts
-
-# Cert verification
-cert-not-verified-cert-revoked = Nevar apstiprināt šo sertifikātu, jo tas ir anulēts.
-cert-not-verified-cert-expired = Nevar apstiprināt šo sertifikātu, jo tam beidzās derīguma laiks.
-cert-not-verified-cert-not-trusted = Nevar apstiprināt šo sertifikātu, jo tas nav uzticams.
-cert-not-verified-issuer-not-trusted = Nevar apstiprināt šo sertifikātu, jo tā izdevējs nav uzticams.
-cert-not-verified-issuer-unknown = Nevar apstiprināt šo sertifikātu, jo tā izdevējs nav zināms.
-cert-not-verified-ca-invalid = Nevar apstiprināt šo sertifikātu, jo tā CA sertifikāts ir nederīgs.
-cert-not-verified_algorithm-disabled = Nevar pārbaudīt šo sertifikātu, jo tas ir parakstīts ar paraksta algoritmu, kas drošības apsvērumu dēļ netiek izmantots.
-cert-not-verified-unknown = Nevar apstiprināt šo sertifikātu nezināmu iemeslu dēļ.
 
 ## Used to show whether an override is temporary or permanent
 

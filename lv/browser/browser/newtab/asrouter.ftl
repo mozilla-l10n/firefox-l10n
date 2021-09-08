@@ -72,26 +72,7 @@ cfr-whatsnew-button =
     .label = Kas jauns?
     .tooltiptext = Kas jauns?
 
-cfr-whatsnew-panel-header = Kas jauns?
-
 cfr-whatsnew-release-notes-link-text = Izlasiet laidiena piezīmes
-
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $blockedCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-tracking-blocked-title =
-    { $blockedCount ->
-        [zero] Bloķēts izsekotājs
-        [one] Bloķēti izsekotāji
-       *[other] Bloķēti izsekotāji
-    }
-cfr-whatsnew-tracking-blocked-link-text = Aplūkot ziņojumu
-
-cfr-whatsnew-lockwise-backup-title = Dublējiet savas paroles
-cfr-whatsnew-lockwise-backup-body = Tagad ģenerējiet drošas paroles, kurām varat piekļūt visur, kur pierakstāties.
-cfr-whatsnew-lockwise-backup-link-text = Ieslēdziet dublēšanu
-
-cfr-whatsnew-lockwise-take-title = Paņemiet paroles sev līdz
 
 ## Search Bar
 
@@ -145,4 +126,10 @@ cfr-whatsnew-lockwise-take-title = Paņemiet paroles sev līdz
 ## Fission Experiment Message
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

@@ -7,28 +7,6 @@ do-not-track-learn-more = Uzzināt vairāk
 do-not-track-option-always =
     .label = Vienmēr
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Iestatījumi
-       *[other] Iestatījumi
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Meklēt iestatījumos
-           *[other] Meklēt iestatījumos
-        }
-
 pane-general-title = Galvenie
 category-general =
     .tooltiptext = { pane-general-title }
@@ -73,21 +51,9 @@ restart-later = Pārstartēt vēlāk
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Paplašinājums <img data-l10n-name="icon"/> { $name } kontrolē jūsu mājas lapu.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Paplašinājums <img data-l10n-name="icon"/> { $name } kontrolē jūsu jaunas cilnes lapu.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Šo iestatījumu kontrolē paplašinājums <img data-l10n-name = "icon" /> { $name }.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Paplašinājums <img data-l10n-name="icon"/> { $name } ir nomainījis noklusēto meklētāju.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -112,26 +78,11 @@ extension-controlled-enable = Lai aktivētu paplašinājumu, ejiet uz <img data-
 
 search-results-header = Meklēšanas rezultāti
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Diemžēl meklējot Iestatījumu “<span data-l10n-name="query"></span>” nekas netika atrasts.
-       *[other] Diemžēl meklējot Iestatījumu “<span data-l10n-name="query"></span>” nekas netika atrasts.
-    }
-
 search-results-help-link = Vajadzīga palīdzība? Apmeklējiet <a data-l10n-name="url">{ -brand-short-name } atbalsts</a>
 
 ## General Section
 
 startup-header = Palaišana
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Ļaut { -brand-short-name } un Firefox darboties vienlaicīgi
-use-firefox-sync = Padoms: Šis izmanto atsevišķu profilu. Izmantojiet { -sync-brand-short-name }, lai apmainītos ar datiem, starp šiem profiliem.
-get-started-not-logged-in = Pierakstīties { -sync-brand-short-name }…
-get-started-configured = Atvērt { -sync-brand-short-name } iestatījumus
 
 always-check-default =
     .label = Vienmēr pārbaudīt vai { -brand-short-name } ir noklusētais pārlūks
@@ -168,10 +119,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Brīdināt, kad vairāku ciļņu atvēršana varētu sabremzēt { -brand-short-name }
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = Kad es atveru saiti jaunā cilnē, pārslēgties uz šo cilni
-    .accesskey = c
 
 show-tabs-in-taskbar =
     .label = Rādīt cilņu bildītes Windows palodzē
@@ -333,11 +280,6 @@ applications-manage-app =
     .label = Programmas iestatījumi...
 applications-always-ask =
     .label = Vienmēr jautāt
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -605,8 +547,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
 
-search-one-click-header = Viena klikšķa meklētāji
-
 search-one-click-desc = Izvēlieties papildu meklētāju, kas parādīsies adrešu joslā un meklēšanas joslā, kad sāksiet rakstīt.
 
 search-choose-engine-column =
@@ -639,9 +579,6 @@ containers-add-button =
     .label = Pievienot jaunu konteineru
     .accesskey = A
 
-containers-preferences-button =
-    .label = Iestatījumi
-
 containers-remove-button =
     .label = Noņemt
 
@@ -652,7 +589,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Paņem tīmekli sev līdz
-sync-signedout-description = Sinhronizējiet vēsturi, grāmatzīmes, paroles, papildinājumus un iestatījumus visās jūsu izmantotajās ierīcēs.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -726,15 +662,6 @@ sync-engine-addons =
     .tooltiptext = Firefox datoru versijas paplašinājumi un tēmas
     .accesskey = a
 
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Iestatījumi
-           *[other] Iestatījumus
-        }
-    .tooltiptext = Izmainītie iestatījumi, privātums un drošība
-    .accesskey = s
-
 ## The device name controls.
 
 sync-device-name-header = Ierīces nosaukums
@@ -774,14 +701,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Saglabātās paroles…
     .accesskey = l
-forms-master-pw-use =
-    .label = Izmantot galveno paroli
-    .accesskey = m
 forms-master-pw-change =
     .label = Nomainīt galveno paroli...
     .accesskey = m
-
-forms-master-pw-fips-title = Šobrīd jūs esat FIPS režīmā. FIPS nepieļauj tukšu galveno paroli.
 
 forms-master-pw-fips-desc = Paroles maiņa neizdevās
 
@@ -874,10 +796,6 @@ sitedata-clear =
 
 sitedata-settings =
     .label = Pārvaldīt datus…
-    .accesskey = P
-
-sitedata-cookies-permissions =
-    .label = Pārvaldīt atļaujas...
     .accesskey = P
 
 ## Privacy Section - Address Bar
@@ -979,12 +897,6 @@ permissions-addon-exceptions =
     .label = Izņēmumi...
     .accesskey = I
 
-permissions-a11y-privacy-checkbox =
-    .label = Neļaut pieejamības rīkiem piekļūt pārlūkam
-    .accesskey = p
-
-permissions-a11y-privacy-link = Uzzināt vairāk
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } datu vākšana un izmantošana
@@ -1004,11 +916,6 @@ collection-studies-link = Aplūkot { -brand-short-name } pētījumus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datu ziņošana ir atspējota šajā būvējuma konfigurācija
-
-collection-backlogged-crash-reports =
-    .label = Atļaut { -brand-short-name } sūtīt uzkrātos avāriju ziņojumus jūsu vārdā
-    .accesskey = t
-collection-backlogged-crash-reports-link = Uzzināt vairāk
 
 ## Privacy Section - Security
 ##
@@ -1036,16 +943,6 @@ security-block-uncommon-software =
 
 certs-header = Sertifikāti
 
-certs-personal-label = Kad serveris pieprasa manu personīgo sertifikātu
-
-certs-select-auto-option =
-    .label = Izvēlēties automātiski
-    .accesskey = V
-
-certs-select-ask-option =
-    .label = Katru reizi jautāt man
-    .accesskey = J
-
 certs-enable-ocsp =
     .label = Vaicāt OCSP atbildes serveriem, lai pārbaudītu pašreizējo sertifikātu derīgumu
     .accesskey = V
@@ -1057,34 +954,6 @@ certs-view =
 certs-devices =
     .label = Drošības ierīces…
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = Uzzināt vairāk
-    .accesskey = U
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Atvērt iestatījumus
-           *[other] Atvērt iestatījumus
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] R
-           *[other] t
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } beidzas brīvā vieta. Mājas lapu dati var neattēloties korekti. Saglabātos datus varat notīrīt Iestatījumi > Privātums un drošība > Sīkdatnes un kešatmiņa.
-       *[other] { -brand-short-name } beidzas brīvā vieta. Mājas lapu dati var neattēloties korekti. Saglabātos datus varat notīrīt Iestatījumi > Privātums un drošība > Sīkdatnes un kešatmiņa.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = Labi, sapratu
-    .accesskey = L
-
-space-alert-under-5gb-message = { -brand-short-name } nepietiek vietas diskā. Lapu saturs var tikt nekorekti attēlots. Apmeklējiet “Uzzināt vairāk”, lai optimizētu diska izmantošanu.
 
 ## Privacy Section - HTTPS-Only
 

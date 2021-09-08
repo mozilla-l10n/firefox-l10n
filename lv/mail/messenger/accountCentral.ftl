@@ -53,9 +53,6 @@ import-label = Importēt
 
 about-paragraph = Thunderbird ir vadošais atvērtā pirmkoda, starpplatformu epasta un kalendāra klients, ko var bez maksas lietot gan personīgi, gan uzņēmējdarbībā. Mēs vēlamies, lai tas ir drošs un kļūst vēl labāks. Ziedojums ļaus mums pieņemt darbā izstrādātājus, maksāt par infrastruktūru un turpināt attīstīties.
 
-about-paragraph-2 = <b> Thunderbird finansē tādi lietotāji kā jūs! Ja jums patīk Thunderbird, lūdzu, apsveriet iespēju ziedot. </b> Labākais veids, kā nodrošināt Thunderbird pastāvēšanu ir:
-about-donation = veikt ziedojumu
-
 about-paragraph-consider-donation = <strong>Thunderbird finansē tādi paši lietotāji kā jūs! Ja jums patīk Thunderbird, lūdzu, apsveriet iespēju ziedot.</strong> Labākais veids, kā nodrošināt Thunderbird pastāvēšanu, ir <a class="more" href="%(donate)s">ziedošana</a>.
 
 explore-link = Izpētiet iespējas

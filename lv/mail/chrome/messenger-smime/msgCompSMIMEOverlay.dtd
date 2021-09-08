@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Digitāli parakstīt šo vēstuli">
 <!ENTITY menu_securitySign.accesskey "P">
 
-<!ENTITY menu_securityAttachMyKey.label "Pievienot jūsu publisko atslēgu">
-<!ENTITY menu_securityAttachMyKey.accesskey "P">
-
 <!ENTITY menu_securityTech.label "Šifrēšanas tehnoloģija">
 <!ENTITY menu_securityTech.accesskey "T">
 

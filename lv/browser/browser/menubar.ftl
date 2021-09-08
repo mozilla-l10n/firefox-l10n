@@ -107,9 +107,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Rediģēt
     .accesskey = e
-menu-edit-find-on =
-    .label = Atrast šajā lapā…
-    .accesskey = A
 menu-edit-find-again =
     .label = Meklēt vēlreiz
     .accesskey = k
@@ -125,9 +122,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Rīkjoslas
     .accesskey = l
-menu-view-customize-toolbar =
-    .label = Pielāgot…
-    .accesskey = P
 menu-view-sidebar =
     .label = Sānu josla
     .accesskey = a
@@ -158,9 +152,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Lapas pamata stils
     .accesskey = m
-menu-view-charset =
-    .label = Teksta kodējums
-    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -209,10 +200,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Grāmatzīmes
     .accesskey = G
-menu-bookmarks-show-all =
-    .label = Rādīt visas grāmatzīmes
-menu-bookmark-this-page =
-    .label = Saglabāt šo lapu grāmatzīmēs
 menu-bookmark-edit =
     .label = Rediģēt šo grāmatzīmi
 menu-bookmarks-all-tabs =
@@ -232,32 +219,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Lejupielādes
     .accesskey = d
-menu-tools-addons =
-    .label = Papildinājumi
-    .accesskey = a
 menu-tools-sync-now =
     .label = Sinhronizēt
     .accesskey = S
-menu-tools-web-developer =
-    .label = Izstrādātāju rīki
-    .accesskey = T
 menu-tools-page-source =
     .label = Lapas pirmkods
     .accesskey = o
 menu-tools-page-info =
     .label = Informācija par lapu
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Iestatījumi
-           *[other] Iestatījumi
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] m
-           *[other] m
-        }
 menu-tools-layout-debugger =
     .label = Izkārtojuma atkļūdotājs
     .accesskey = I
@@ -292,29 +262,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Palīdzība
     .accesskey = P
-menu-help-product =
-    .label = { -brand-shorter-name } palīdzība
-    .accesskey = l
-menu-help-show-tour =
-    .label = { -brand-shorter-name } ekskursija
-    .accesskey = r
-menu-help-keyboard-shortcuts =
-    .label = Taustiņu kombinācijas
-    .accesskey = k
-menu-help-troubleshooting-info =
-    .label = Problēmu novēršanas informācija
-    .accesskey = P
 menu-help-report-site-issue =
     .label = Ziņot par problēmu ar lapu…
 menu-help-feedback-page =
     .label = Nosūtīt atsauksmi…
     .accesskey = s
-menu-help-safe-mode-without-addons =
-    .label = Pārstartēt ar deaktivētiem papildinājumiem…
-    .accesskey = r
-menu-help-safe-mode-with-addons =
-    .label = Pārstartēt ar aktivētiem papildinājumiem
-    .accesskey = r
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

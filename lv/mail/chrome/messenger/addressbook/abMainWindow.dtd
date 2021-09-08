@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Aizvērt">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "A">
-<!ENTITY printSetupCmd.label                            "Lapas iestatījumi…">
-<!ENTITY printSetupCmd.accesskey                        "L">
-<!ENTITY printPreviewContactCmd.label                   "Kontakta drukas priekšskatījums">
-<!ENTITY printPreviewContactCmd.accesskey               "K">
-<!ENTITY printPreviewAddressBook.label                  "Adrešu grāmatas drukas priekšskatījums">
-<!ENTITY printPreviewAddressBook.accesskey              "A">
 <!ENTITY printContactCmd.label                          "Drukāt kontaktu…">
 <!ENTITY printContactCmd.accesskey                      "D">
 <!ENTITY printContactCmd.key                            "P">
@@ -108,10 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Eksportēt...">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                          "Iestatījumi">
-<!ENTITY preferencesCmd2.accesskey                      "s">
-<!ENTITY preferencesCmdUnix.label                       "Iestatījumi">
-<!ENTITY preferencesCmdUnix.accesskey                   "s">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Jauns kontakts">

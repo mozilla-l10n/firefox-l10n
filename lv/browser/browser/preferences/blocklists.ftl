@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Saraksts
 
-blocklist-button-cancel =
-    .label = Atcelt
-    .accesskey = c
-
-blocklist-button-ok =
-    .label = Saglabāt izmaiņas
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Saglabāt izmaiņas
     .buttonaccesskeyaccept = S

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Papildinājumu pārvaldnieks
-
 addons-page-title = Papildinājumu pārvaldnieks
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Rādīt visus papildinājumus
-
-cmd-show-details =
-    .label = Rādīt papildus informāciju
-    .accesskey = p
-
-cmd-find-updates =
-    .label = Meklēt atjauninājumus
-    .accesskey = M
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Iestatījumi
-           *[other] Iestatījumi
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] I
-        }
-
-cmd-enable-theme =
-    .label = Izmantot šo tēmu
-    .accesskey = I
-
-cmd-disable-theme =
-    .label = Neizmantot šo tēmu
-    .accesskey = N
-
-cmd-install-addon =
-    .label = Instalēt
-    .accesskey = I
-
-cmd-contribute =
-    .label = Atbalstīt
-    .accesskey = A
-    .tooltiptext = Atbalstīt šī papildinājuma izstrādi
 
 detail-version =
     .label = Versija

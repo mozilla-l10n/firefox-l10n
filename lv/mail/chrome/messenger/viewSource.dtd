@@ -19,10 +19,6 @@
 <!ENTITY savePageCmd.label "Saglabāt lapu kā…">
 <!ENTITY savePageCmd.accesskey "k">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Lapas iestatījumi…">
-<!ENTITY pageSetupCmd.accesskey "i">
-<!ENTITY printPreviewCmd.label "Drukas priekšskats">
-<!ENTITY printPreviewCmd.accesskey "D">
 <!ENTITY printCmd.label "Drukāt…">
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.commandkey "P">

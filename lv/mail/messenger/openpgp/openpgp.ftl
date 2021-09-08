@@ -118,10 +118,6 @@ openpgp-key-send-key =
     .label = Sūtīt publisko atslēgu pa epastu
     .accesskey = S
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Kopēt publisko atslēgu(-as) uz starpliktuvi
-    .accesskey = K
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -151,8 +147,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Eksportēt atslēgas failā
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Kopēt publiskās atslēgas uz starpliktuvi
 
 openpgp-key-man-ctx-copy =
     .label = Kopēt
@@ -307,14 +301,6 @@ openpgp-description =
        *[other] Thunderbird atrada { $count } ar <b>{ $identity }</b> saistītas personīgās OpenPGP atslēgas
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Lai ieslēgtu OpenGPG protokolu, izvēlieties derīgu atslēgu
-       *[other] Jūsu pašreizējos iestatījumos tiek izmantots atslēgas ID <b>{ $key }</b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Jūsu pašreizējos iestatījumos tiek izmantota atslēga <b>{ $key }</b>, kurai ir beidzies derīgums.
 
@@ -340,14 +326,8 @@ openpgp-radio-none-desc = Neizmantot OpenPGP šai identitātei.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Derīgums: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Atslēgas derīgums ir mazāks nekā 6 mēneši
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Nederīga no: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Atslēgas derīgums beidzies
 
 openpgp-key-expand-section =
     .tooltiptext = Papildu informācija
@@ -667,7 +647,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Jūs esat iestatījis rindu aplaušana pie { $width } rakstzīmēm. Lai pareizi šifrētu un/vai parakstītu, šai vērtībai jābūt vismaz 68.
     Vai vēlaties mainīt rindu aplaušanu uz 68 rakstzīmēm?
-sending-hidden-rcpt = Sūtot šifrētu vēstuli, slēptās kopijas adresātus nevar izmantot. Lai nosūtītu šo šifrēto vēstuli, noņemiet slēpto kopiju adresātus vai pārvietojiet tos uz kopiju lauku.
 sending-news =
     Šifrētā sūtīšanas darbība ir pārtraukta.
     Šo vēstuli nevar šifrēt, jo tai ir ziņu grupas adresāti. Lūdzu, nosūtiet vēstuli vēlreiz bez šifrēšanas.
@@ -727,9 +706,6 @@ enig-info = OpenPGP informācija
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Atkārtot
 dlg-button-skip = &Izlaist
-
-# Strings used in enigmailCommon.js
-enig-error = OpenPGP kļūda
 
 enig-alert-title =
     .title = OpenPGP brīdinājums

@@ -6,9 +6,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = Noņemt { $type } lauku
-
-#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -56,27 +53,16 @@ attachment-bucket-count =
         }
     .accesskey = p
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext =
-        { $count ->
-            [1] { $count } pielikums
-            [zero] { $count } pielikums
-            [one] { $count } pielikumi
-           *[other] { $count } pielikumi
-        }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 # Reorder Attachment Panel
 
 button-return-receipt =
     .label = Ziņa
     .tooltiptext = Pieprasīt saņemšanas apliecinājuma ziņu
 
+# Encryption
+
 # Addressing Area
+
 
 ## Notifications
 

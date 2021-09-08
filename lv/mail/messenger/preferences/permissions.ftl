@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Izņēmumi
     .style = width: 45em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = Vietnes adrese:
     .accesskey = V

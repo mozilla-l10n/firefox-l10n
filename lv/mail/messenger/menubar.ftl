@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Teksta kodējums
-    .accesskey = k
-
 ## Tools Menu
 
 ## Help Menu
@@ -31,4 +27,6 @@ toolbar-undelete-button =
 ## View
 
 ## View / Layout
+
+## File
 

@@ -5,31 +5,9 @@
 places-open =
     .label = Atvērt
     .accesskey = A
-places-open-tab =
-    .label = Atvērt jaunā cilnē
-    .accesskey = u
 places-open-all-in-tabs =
     .label = Atvērt visas cilnēs
     .accesskey = A
-places-open-window =
-    .label = Atvērt jaunā logā
-    .accesskey = n
-places-open-private-window =
-    .label = Atvērt saiti jaunā privātajā logā
-    .accesskey = p
-
-places-new-bookmark =
-    .label = Jauna grāmatzīme...
-    .accesskey = g
-places-new-folder-contextmenu =
-    .label = Jauna mape...
-    .accesskey = m
-places-new-folder =
-    .label = Jauna mape...
-    .accesskey = m
-places-new-separator =
-    .label = Jauns atdalītājs
-    .accesskey = s
 
 places-view =
     .label = Skats
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Kārtot pēc nosaukuma
     .accesskey = r
-places-properties =
-    .label = Īpašības
-    .accesskey = p
 

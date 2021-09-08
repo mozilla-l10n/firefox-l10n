@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Pielāgot…
-
 ## Zoom Controls
 
 appmenuitem-new-tab =
@@ -26,22 +23,20 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Sinhronizēt
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Rādīt visu
-    .tooltiptext = Rādīt visas cilnes no šīs ierīces
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nav atvērto cilņu
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ieslēdziet cilņu sinhronizāciju, lai redzētu cilnes no citām ierīcēm.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Gribat redzēt cilnes no citām savām ierīcēm?
+
 appmenu-remote-tabs-connectdevice =
     .label = Savienot citu ierīci
 appmenu-remote-tabs-unverified = Jūsu kontam nepieciešams apstiprinājums.
+
 appmenuitem-save-page =
     .label = Saglabāt lapu kā…
 
@@ -95,3 +90,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Uzdevumu pārvaldnieks
+

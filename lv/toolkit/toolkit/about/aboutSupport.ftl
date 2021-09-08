@@ -10,11 +10,6 @@ crashes-id = Ziņojuma ID
 crashes-send-date = Nosūtīts
 crashes-all-reports = Visi avārijas ziņojumi
 crashes-no-config = Šī aplikācija nav nokonfigurēta avārijas ziņojumu attēlošanai.
-extensions-title = Papildinājumi
-extensions-name = Nosaukums
-extensions-enabled = Ieslēgts
-extensions-version = Versija
-extensions-id = ID
 support-addons-name = Nosaukums
 support-addons-version = Versija
 support-addons-id = ID
@@ -95,8 +90,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Procesa tipa
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenti
-safe-mode-title = Izmēģini drošo režīmu
-restart-in-safe-mode-label = Pārstartēt ar deaktivētiem papildinājumiem…
 
 ## Media titles
 
@@ -234,19 +227,12 @@ webgl2-renderer = WebGL2 Renderer
 webgl2-version = WebGL 2 draivera versija
 webgl2-driver-extensions = WebGL 2 draivera paplašinājumi
 webgl2-extensions = WebGL 2 paplašinājumi
-blocklisted-bug = Bloķēts zināmu kļūdu dēļ
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = kļūda { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Bloķēts; kļūdas kods { $failureCode }
 
 d3d11layers-crash-guard = D3D11 kompozitors
-d3d11video-crash-guard = D3D11 Video dekoderis
-d3d9video-crash-guard = D3D11 Video dekoderis
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Atjaunot nākamajā pārstartēšanā
@@ -276,14 +262,6 @@ sandbox-proc-type-media-plugin = multivides spraudnis
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Lietotāja aktivēts
-multi-process-status-1 = Aktivēts pēc noklusējuma
-multi-process-status-2 = Deaktivēts
-multi-process-status-4 = Pieejamības rīku deaktivēts
-multi-process-status-6 = Deaktivēts neatbalstīta teksta ievades dēļ
-multi-process-status-7 = Papildinājumu deaktivēts
-multi-process-status-8 = Deaktivēts piespiedu kārtā
-multi-process-status-unknown = Nezināms statuss
 
 async-pan-zoom = Asinhronā pietuvināšana/palielināšana
 apz-none = nav
