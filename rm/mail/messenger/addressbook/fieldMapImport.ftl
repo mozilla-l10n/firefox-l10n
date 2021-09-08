@@ -4,8 +4,10 @@
 
 import-ab-csv-window =
     .title = Importar in cudeschet d'adressas ord ina datoteca da text
+
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Prevista da l'import da las datas per l'endataziun { $recordNumber }
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Importar
     .buttonaccesskeyaccept = I

@@ -58,8 +58,6 @@ printui-options = Opziuns
 printui-headers-footers-checkbox = Stampar ils chaus-pagina ed ils pes-pagina
 printui-backgrounds-checkbox = Stampar ils funds davos
 
-printui-selection-checkbox = Mo stampar la selecziun
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

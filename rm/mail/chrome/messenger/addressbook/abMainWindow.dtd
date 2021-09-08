@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Serrar">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "S">
-<!ENTITY printSetupCmd.label                            "Organisar la pagina…">
-<!ENTITY printSetupCmd.accesskey                        "O">
-<!ENTITY printPreviewContactCmd.label                   "Prevista da stampa: Contact">
-<!ENTITY printPreviewContactCmd.accesskey               "P">
-<!ENTITY printPreviewAddressBook.label                  "Prevista da stampa: Cudeschet d'adressas">
-<!ENTITY printPreviewAddressBook.accesskey              "P">
 <!ENTITY printContactCmd.label                          "Stampar il contact…">
 <!ENTITY printContactCmd.accesskey                      "A">
 <!ENTITY printContactCmd.key                            "P">
@@ -111,10 +105,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exportar…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                          "Preferenzas">
-<!ENTITY preferencesCmd2.accesskey                      "p">
-<!ENTITY preferencesCmdUnix.label                       "Preferenzas">
-<!ENTITY preferencesCmdUnix.accesskey                   "p">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Nov contact">

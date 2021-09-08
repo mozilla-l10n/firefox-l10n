@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Utilisar automaticamain il status identifitgà
     .accesskey = d
 
-startup-label = Inditgar manualmain durant l'aviar:
-
 offline-preference-startup-label = Inditgar manualmain durant l'aviar:
 
 status-radio-remember =

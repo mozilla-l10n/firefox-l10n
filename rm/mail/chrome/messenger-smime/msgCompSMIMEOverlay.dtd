@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Suttascriver digitalmain quest messadi">
 <!ENTITY menu_securitySign.accesskey "M">
 
-<!ENTITY menu_securityAttachMyKey.label "Agiuntar mia clav publica">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "Tecnologia da criptadi">
 <!ENTITY menu_securityTech.accesskey "T">
 

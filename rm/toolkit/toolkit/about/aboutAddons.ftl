@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Administraziun dals supplements
-
 addons-page-title = Administraziun dals supplements
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Agid cun supplements
 sidebar-help-button-title =
     .title = Agid cun supplements
 
-preferences =
-    { PLATFORM() ->
-        [windows] Preferenzas da { -brand-short-name }
-       *[other] Preferenzas da { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Preferenzas da { -brand-short-name }
-           *[other] Preferenzas da { -brand-short-name }
-        }
-
 addons-settings-button = Parameters da { -brand-short-name }
 sidebar-settings-button-title =
     .title = Parameters da { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Mussar tut las extensiuns
-
-cmd-show-details =
-    .label = Mussar ulteriuras infurmaziuns
-    .accesskey = M
-
-cmd-find-updates =
-    .label = Tschertgar actualisaziuns
-    .accesskey = T
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Preferenzas
-           *[other] Preferenzas
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] P
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Montar il design
-    .accesskey = M
-
-cmd-disable-theme =
-    .label = Demontar il design
-    .accesskey = D
-
-cmd-install-addon =
-    .label = Installar
-    .accesskey = I
-
-cmd-contribute =
-    .label = Contribuir
-    .accesskey = C
-    .tooltiptext = Contribuir al svilup da quest supplement
 
 detail-version =
     .label = Versiun
@@ -400,8 +348,6 @@ dictionary-disabled-heading = Deactivà
 
 locale-enabled-heading = Activà
 locale-disabled-heading = Deactivà
-
-ask-to-activate-button = Dumandar per activar
 
 always-activate-button = Adina activar
 never-activate-button = Mai activar

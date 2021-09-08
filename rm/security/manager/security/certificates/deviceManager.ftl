@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Numer da seria
 
-fips-nonempty-password-required = Il modus FIPS utilisescha in pled-clav universal per mintga modul da criptografia. Definescha per plaschair il pled-clav, avant che empruvar d'activar il modus FIPS.
-
 fips-nonempty-primary-password-required = Il modus FIPS pretenda in pled-clav universal per mintga apparat da segirezza. Definescha per plaschair il pled-clav avant che empruvar d'activar il modus FIPS.
 unable-to-toggle-fips = Impussibel da midar il modus FIPS da quest modul da criptografia. Igl è recumandà da terminar e reaviar questa applicaziun.
 load-pk11-module-file-picker-title = Tscherner in driver per l'indriz PKCS#11 per chargiar

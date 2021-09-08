@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Ti has certificats da questas organisaziuns che identifitgeschan tai
 certmgr-remembered = Quests certificats vegnan utilisads per t'identifitgar visavi websites
 certmgr-people = Ti has certificats memorisads che identifitgeschan questas persunas
-certmgr-servers = Ti has certificats memorisads che identifitgeschan quests servers
 certmgr-server = Questas endataziuns identifitgeschan las excepziuns da las errurs da certificats da servers
 certmgr-ca = Ti has certificats memorisads che identifitgeschan quests posts da certificaziun
-
-certmgr-detail-general-tab-title =
-    .label = General
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Detagls
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Il certificat vegn actualmain verifitgà…
-
-certmgr-subject-label = Emess per
-
-certmgr-issuer-label = Emess da
-
-certmgr-period-of-validity = Perioda da validitad
-
-certmgr-fingerprints = Improntas dal det
-
-certmgr-cert-detail =
-    .title = Detagl dal certificat
-    .buttonlabelaccept = Serrar
-    .buttonaccesskeyaccept = S
-
-certmgr-cert-detail-commonname = Num general (CN)
-
-certmgr-cert-detail-org = Organisaziun (O)
-
-certmgr-cert-detail-orgunit = Unitad d'organisaziun (OU)
-
-certmgr-cert-detail-serial-number = Numer da seria
-
-certmgr-cert-detail-sha-256-fingerprint = Impronta dal det SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Impronta dal det SHA1
 
 certmgr-edit-ca-cert =
     .title = Modifitgar ils parameters da fidanza en certificats CA
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Modul da criptografia
 
-certmgr-begins-on = Cumenza ils
-
 certmgr-begins-label =
     .label = Cumenza ils
-
-certmgr-expires-on = Scada ils
 
 certmgr-expires-label =
     .label = Scada ils
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Importar…
     .accesskey = I
-
-certmgr-details =
-    .value = Layout dal certificat
-    .accesskey = L
-
-certmgr-fields =
-    .value = Valur dal champ
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = Ierarchia da certificats
-    .accesskey = e
 
 certmgr-add-exception =
     .label = Agiuntar in'excepziun…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Duain quests certificats propi vegnir stizzads?
 delete-user-cert-impact = Sche ti stizzas in da tes agens certificats, na pos ti betg pli utilisar quel per t'identifitgar.
 
 
-delete-ssl-cert-title =
-    .title = Stizzar las reglas d'excepziun per il certificat da servers
-delete-ssl-cert-confirm = Duain questas reglas d'excepziun da server propi vegnir stizzadas?
-delete-ssl-cert-impact = Sche ti stizzas ina regla d'excepziun da server, vegnan las controllas da segirezza normalas restauradas per quest server ed el sto mussar in certificat valid.
-
-
 delete-ssl-override-title =
     .title = Stizzar l'excepziun dal certificat da server
 delete-ssl-override-confirm = Vuls ti propi stizzar questa excepziun dal certificat da server?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Certificat cun il numer da seria: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Vista dal certificat: «{ $certName }»
-
-not-present =
-    .value = <nagina part dal certificat>
-
-# Cert verification
-cert-verified = Quest certificat è vegnì verifitgà per las suandantas utilisaziuns:
-
-# Add usage
-verify-ssl-client =
-    .value = Certificat da client SSL
-
-verify-ssl-server =
-    .value = Certificat da server SSL
-
-verify-ssl-ca =
-    .value = Post da certificaziun SSL
-
-verify-email-signer =
-    .value = Certificat da firmatari dad e-mail
-
-verify-email-recip =
-    .value = Certificat dal destinatur dad e-mail
-
-# Cert verification
-cert-not-verified-cert-revoked = Impussibel da verifitgar quest certificat, perquai ch'el è vegnì revocà.
-cert-not-verified-cert-expired = Impussibel da verifitgar quest certificat, perquai ch'el è scrudà.
-cert-not-verified-cert-not-trusted = Impussibel da verifitgar quest certificat, perquai ch'i na vegn betg fidà ad el.
-cert-not-verified-issuer-not-trusted = Impussibel da verifitgar quest certificat, perquai ch'i vegn betg fidà a l'emettur.
-cert-not-verified-issuer-unknown = Impussibel da verifitgar quest certificat, perquai che l'emettur è nunenconuschent.
-cert-not-verified-ca-invalid = Impussibel da verifitgar quest certificat, perquai ch'il certificat CA è nunvalid.
-cert-not-verified_algorithm-disabled = Impussibel da verifitgar quest certificat perquai ch'el è vegnì suttascrit cun in algoritmus da suttascriver ch'è vegnì deactivà perquai che quest algoritmus n'è betg segir.
-cert-not-verified-unknown = Impussibel da verifitgar quest certificat per motivs nunenconuschents.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Na trametter nagin certificat da client

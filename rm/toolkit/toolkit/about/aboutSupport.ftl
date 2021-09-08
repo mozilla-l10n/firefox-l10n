@@ -7,16 +7,12 @@ page-subtitle =
     Questa pagina cuntegna infurmaziuns tecnicas che pudessan esser nizzaivlas,
     sche ti emprovas da schliar in problem. Sche ti tschertgas respostas a dumondas
     frequentas davart { -brand-short-name }, visita per plaschair nossa <a data-l10n-name="support-link">pagina d'agid</a>.
+
 crashes-title = Annunzias da collaps
 crashes-id = ID dal rapport
 crashes-send-date = Tramess
 crashes-all-reports = Tut ils rapports da collaps
 crashes-no-config = Questa applicaziun n'è betg configurada per mussar rapports da collaps.
-extensions-title = Extensiuns
-extensions-name = Num
-extensions-enabled = Activà
-extensions-version = Versiun
-extensions-id = ID
 support-addons-title = Supplements
 support-addons-name = Num
 support-addons-type = Tip
@@ -133,8 +129,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tip da process
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
-safe-mode-title = Empruvar il modus segirà
-restart-in-safe-mode-label = Reaviar cun supplements deactivads…
 troubleshoot-mode-title = Analisar problems
 restart-in-troubleshoot-mode-label = Modus per schliar problems…
 clear-startup-cache-title = Emprova da svidar il cache da l'aviar
@@ -192,36 +186,6 @@ remote-debugging-url = URL
 
 ##
 
-support-third-party-modules-title = Moduls da terzas partidas
-support-third-party-modules-module = Datoteca dal modul
-support-third-party-modules-version = Versiun da la datoteca
-support-third-party-modules-vendor = Infurmaziuns dal vendider
-support-third-party-modules-occurrence = Occurrenzas
-support-third-party-modules-process = Tip da process & ID
-support-third-party-modules-thread = Thread
-support-third-party-modules-base = Adressa imagebase
-support-third-party-modules-uptime = Temp d'activitad dal process (ms)
-support-third-party-modules-duration = Temp per chargiar (ms)
-support-third-party-modules-status = Status
-support-third-party-modules-status-loaded = Chargià
-support-third-party-modules-status-blocked = Bloccà
-support-third-party-modules-status-redirected = Renvià
-support-third-party-modules-empty = Na chargià nagin modul da terzas partidas.
-support-third-party-modules-no-value = (nagina valur)
-support-third-party-modules-button-open =
-    .title = Avrir l'ordinatur da la datoteca…
-support-third-party-modules-expand =
-    .title = Mussar infurmaziuns detagliadas
-support-third-party-modules-collapse =
-    .title = Reducir las infurmaziuns detagliadas
-support-third-party-modules-unsigned-icon =
-    .title = Quest modul n'è betg signà
-support-third-party-modules-folder-icon =
-    .title = Avrir l'ordinatur da la datoteca…
-support-third-party-modules-down-icon =
-    .title = Mussar infurmaziuns detagliadas
-support-third-party-modules-up-icon =
-    .title = Reducir las infurmaziuns detagliadas
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -229,6 +193,7 @@ report-crash-for-days =
         [one] Annunzias da collaps da l'ultim di
        *[other] Annunzias da collaps dals ultims { $days } dis
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -236,6 +201,7 @@ crashes-time-minutes =
         [one] Avant { $minutes } minuta
        *[other] Avant { $minutes } minutas
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -243,6 +209,7 @@ crashes-time-hours =
         [one] Avant { $hours } ura
        *[other] Avant { $hours } uras
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -250,6 +217,7 @@ crashes-time-days =
         [one] Avant { $days } di
        *[other] Avant { $days } dis
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -257,6 +225,7 @@ pending-reports =
         [one] Tut ils rapports da collaps (inclus { $reports } collaps pendent en la perioda definida)
        *[other] Tut ils rapports da collaps (inclus { $reports } collaps pendents en la perioda definida)
     }
+
 raw-data-copied = Copià las datas bruttas en l'archiv provisoric
 text-copied = Copià il text en l'archiv provisoric
 
@@ -269,9 +238,11 @@ blocked-mismatched-version = Bloccà causa indicaziuns divergentas areguard la v
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloccà per tia versiun dal driver da grafica. Emprova dad actualisar tes driver a la versiun { $driverVersion } u pli nov.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parameters da ClearType
+
 compositing = Compositing
 hardware-h264 = Decodaziun H264 cun hardware
 main-thread-no-omtc = thread principal, nagin OMTC
@@ -286,6 +257,7 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Chattà
 missing = Betg chattà
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descripziun
@@ -308,21 +280,19 @@ webgl2-renderer = Driver WebGL 2 - Visualisader
 webgl2-version = Driver WebGL 2 - Versiun
 webgl2-driver-extensions = Driver WebGL 2 - Extensiuns
 webgl2-extensions = WebGL 2 - Extensiuns
-blocklisted-bug = Sin la glista naira pervia da problems enconuschents
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Bloccà pervia da sbagls enconuschents: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Sin la glista naira; numer da sbagl { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Compositor
-d3d11video-crash-guard = Decodader da video D3D11
-d3d9video-crash-guard = Decodader da video D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video Decoder
+
 reset-on-next-restart = Redefinir cun reaviar la proxima giada
 gpu-process-kill-button = Terminar il process da la GPU
 gpu-device-reset = Reinizialisaziun da l'apparat
@@ -332,8 +302,10 @@ content-uses-tiling = Utilisescha plattinas (cuntegn)
 off-main-thread-paint-enabled = Activà painting ordaifer il thread principal
 off-main-thread-paint-worker-count = Dumber da workers da painting ordaifer il thread principal
 target-frame-rate = Finamira per frequenza da maletgs
+
 min-lib-versions = Versiun minimala spetgada
 loaded-lib-versions = Versiun utilisada
+
 has-seccomp-bpf = Seccomp-BPF (Filtrar cloms dal sistem)
 has-seccomp-tsync = Sincronisaziun Seccomp Thread
 has-user-namespaces = Spazis da num da l'utilisader
@@ -347,27 +319,22 @@ sandbox-proc-type-content = cuntegn
 sandbox-proc-type-file = cuntegn da la datoteca
 sandbox-proc-type-media-plugin = plugin per medias
 sandbox-proc-type-data-decoder = decoder da datas
+
 startup-cache-title = Cache da l'aviar
 startup-cache-disk-cache-path = Ordinatur dal cache sin il disc dir
 startup-cache-ignore-disk-cache = Ignorar il cache sin il disc dir
 startup-cache-found-disk-cache-on-init = Chattà il cache sin il disc durant l'inizialisaziun
 startup-cache-wrote-to-disk-cache = Scrit en il cache dal disc
+
 launcher-process-status-0 = Activà
 launcher-process-status-1 = Deactivà pervia dad errurs
 launcher-process-status-2 = Deactivà cun forza
 launcher-process-status-unknown = Status nunenconuschent
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Activà da l'utilisader
-multi-process-status-1 = Activà tenor standard
-multi-process-status-2 = Deactivà
-multi-process-status-4 = Deactivà dals agids d'access
-multi-process-status-6 = Deactivà dad ina metoda incumpatibla d'endatar text
-multi-process-status-7 = Deactivà da supplements
-multi-process-status-8 = Deactivà cun forza
-multi-process-status-unknown = Status nunenconuschent
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -383,6 +350,7 @@ fission-status-enabled-by-user-pref = Activà da l'utilisader
 fission-status-disabled-by-user-pref = Deactivà da l'utilisader
 fission-status-disabled-by-e10s-other = E10s deactivà
 fission-status-enabled-by-rollout = Activà da l'installaziun en fasas
+
 async-pan-zoom = Zoom asincron
 apz-none = nagin
 wheel-enabled = input da la rodina activà
@@ -419,6 +387,7 @@ support-remote-experiments-title = Experiments a distanza
 support-remote-experiments-name = Num
 support-remote-experiments-branch = Branch d'experiments
 support-remote-experiments-see-about-studies = Consultar <a data-l10n-name="support-about-studies-link">about:studies</a> per ulteriuras infurmaziuns, p.ex. co deactivar singuls experiments u impedir che { -brand-short-name } exequeschia en l'avegnir tals experiments.
+
 support-remote-features-title = Funcziunalitads a distanza
 support-remote-features-name = Num
 support-remote-features-status = Status

@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Improntas da clavs OTR dad anteriuras conversaziuns criptadas da fin-a-fin
 
-finger-screenName =
-    .label = Contact
-
 finger-screen-name =
     .label = Contact
 finger-verified =

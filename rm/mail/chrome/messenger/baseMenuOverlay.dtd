@@ -11,13 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "A">
 <!ENTITY aboutProduct2.label "Davart &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "D">
-<!ENTITY helpTroubleshootingInfo.label     "Infurmaziuns per schliar problems">
-<!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY helpSafeMode.label     "Reaviar e deactivar ils supplements…">
-<!ENTITY helpSafeMode.accesskey "R">
 
-<!ENTITY helpSafeMode.stop.label     "Reaviar cun supplements activads">
-<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Agid da &brandShortName;">
 <!ENTITY productHelp.accesskey "A">
 <!ENTITY productHelp.commandkey "VK_F1">

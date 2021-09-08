@@ -54,9 +54,6 @@ import-label = Importar
 
 about-paragraph = Thunderbird è il pli impurtant program open-source dad e-mail e chalender per pliras plattafurmas – gratuit per l'utilisaziun privata ed en fatschentas. Nus vulain che Thunderbird restia segir e daventia anc meglier. Ina donaziun ans permetta dad emploiar sviluppaders, pajar l'infrastructura e perfecziunar il program.
 
-about-paragraph-2 = <b>Thunderbird vegn finanzià dad utilisaders sco tai! Sche Thunderbird ta plascha, considerescha da far ina donaziun.</b> La meglra pussaivladad per tai da garantir che Thunderbird stettia era a disposiziun en futur è da
-about-donation = far ina donaziun
-
 about-paragraph-consider-donation = <strong>Thunderbird vegn finanzià grazia ad utilisaders sco ti! Sche Thunderbird ta plascha, considerescha per plaschair da far ina donaziun.</strong> Sche ti vuls far la segira che Thunderbird existia vinavant, <a class="more" href="%(donate)s">fa ina donaziun</a>.
 
 explore-link = Scuvrir las funcziuns

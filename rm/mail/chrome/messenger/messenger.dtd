@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Stampar…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "P">
-<!ENTITY printPreviewCmd.label "Prevista da stampa">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Organisar la pagina…">
-<!ENTITY printSetupCmd.accesskey "g">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Stizzar il messadi">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "L">
 <!ENTITY compactVersion.label "Vista cumpacta">
 <!ENTITY compactVersion.accesskey "C">
-<!ENTITY folderPaneBar.label "Trav d'utensils da la panela d'ordinaturs">
-<!ENTITY folderPaneBar.accesskey "e">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Zavrar tenor">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Cudeschet d'adressas">
 <!ENTITY addressBookCmd.accesskey "C">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Supplements">
-<!ENTITY addons.accesskey "S">
-<!ENTITY addonPrefs.label "Preferenzas dals supplements">
-<!ENTITY addonPrefs.accesskey "P">
-<!ENTITY addonPrefsUnix.label "Preferenzas dals supplements">
-<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Chattà naginas preferenzas da supplements.">
 <!ENTITY activitymanager.label "Activitads">
 <!ENTITY activitymanager.accesskey "v">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Debugar ils supplements">
 <!ENTITY debugAddonsCmd.accesskey "a">
-<!ENTITY tabsDebugCmd.label "Debugadi per il rom da cuntegn">
-<!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Consola d'errurs">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Enavos">
 <!ENTITY goForwardButton1.label "Enavant">
 <!ENTITY deleteItem.title "Stizzar">
-<!ENTITY deleteButton.label "Stizzar">
-<!ENTITY undeleteButton.label "Restaurar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Stampar">
 <!ENTITY stopButton.label "Fermar">
 <!ENTITY throbberItem.title "Indicaziun da l'activitad">
 <!ENTITY junkItem.title "Nungiavischà">
-<!ENTITY junkButton.label "Nungiavischà">
-<!ENTITY notJunkButton.label "Betg nungiavischà">
 <!ENTITY addressBookButton.label "Cudeschet d'adressas">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Tschertga globala">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Ir al messadi precedent">
 <!ENTITY goForwardButton.tooltip "Ir al proxim messadi">
 <!ENTITY goBackButton.tooltip "Ir al messadi precedent">
-<!ENTITY deleteButton.tooltip "Stizzar il messadi u l'ordinatur tschernì">
-<!ENTITY undeleteButton.tooltip "Restaurar il messadi tschernì">
 <!ENTITY markButton.tooltip "Marcar il(s) messadi(s)">
 <!ENTITY printButton.tooltip "Stampar quest messadi">
 <!ENTITY stopButton.tooltip "Fermar la transmissiun actuala">
-<!ENTITY junkButton.tooltip "Marcar ils messadis tschernids sco nungiavischads">
-<!ENTITY notJunkButton.tooltip "Betg pli marcar ils messadis tschernids sco nungiavischads">
 <!ENTITY addressBookButton.tooltip "Avrir il cudeschet d'adressas">
 <!ENTITY chatButton.tooltip "Mussar il tab da chat">
 <!ENTITY tagButton.tooltip "(De)etichettar ils messadis">
 <!ENTITY compactButton.tooltip "Eliminar definitivamain ils messadis stizzads da l'ordinatur tschernì">
 <!ENTITY appmenuButton1.tooltip "Mussar il menu da &brandShortName;">
-<!ENTITY addonsButton.tooltip "Administrar ils supplements">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Trametter vinavant integrà">

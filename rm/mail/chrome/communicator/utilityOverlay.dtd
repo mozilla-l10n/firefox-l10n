@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "s">
 <!ENTITY deleteCmd.label          "Stizzar">
 <!ENTITY deleteCmd.accesskey        "S">
-<!ENTITY preferencesCmd2.label "Preferenzas">
-<!ENTITY preferencesCmd2.accesskey "e">
-<!ENTITY preferencesCmdUnix.label       "Preferenzas">
-<!ENTITY preferencesCmdUnix.accesskey     "e">
 
 <!ENTITY customizeCmd.label "Persunalisar">
 <!ENTITY customizeCmd.accesskey "l">

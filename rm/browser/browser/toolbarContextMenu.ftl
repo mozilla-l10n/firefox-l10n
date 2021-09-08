@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Tscherner tut ils tabs
     .accesskey = s
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Restaurar tabs serrads
-            [one] Restaurar il tab serrà
-           *[other] Restaurar ils tabs serrads
-        }
-    .accesskey = u
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -57,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fixar en il menu extra
     .accesskey = F
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Zuppentar automaticamain en la trav d'utensils
-    .accesskey = a
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Zuppentar il buttun sche vid
     .accesskey = Z

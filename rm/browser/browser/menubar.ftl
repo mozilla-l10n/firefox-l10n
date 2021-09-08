@@ -38,16 +38,20 @@ menu-quit =
             [windows] T
            *[other] T
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Terminar { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Terminar { -brand-shorter-name }
+
 menu-about =
     .label = Davart { -brand-shorter-name }
     .accesskey = D
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Modifitgar
     .accesskey = M
-menu-edit-find-on =
-    .label = Tschertgar en la pagina
-    .accesskey = s
 menu-edit-find-in-page =
     .label = Tschertgar en la pagina…
     .accesskey = T
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Travs da simbols
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = Persunalisar…
-    .accesskey = a
 menu-view-customize-toolbar2 =
     .label = Persunalisar la trav d'utensils…
     .accesskey = P
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Stil da standard
     .accesskey = S
-menu-view-charset =
-    .label = Codaziun dal text
-    .accesskey = C
 menu-view-repair-text-encoding =
     .label = Reparar la codaziun dal text
     .accesskey = c
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Reavrir tut las fanestras
 menu-bookmarks-menu =
     .label = Segnapagina
     .accesskey = S
-menu-bookmarks-show-all =
-    .label = Mussar tut ils segnapaginas
-menu-bookmark-this-page =
-    .label = Agiuntar in segnapagina…
 menu-bookmarks-manage =
     .label = Administrar ils segnapaginas
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Telechargiadas
     .accesskey = D
-menu-tools-addons =
-    .label = Supplements
-    .accesskey = S
-menu-tools-fxa-sign-in =
-    .label = S'annunziar tar { -brand-product-name }…
-    .accesskey = z
-menu-tools-turn-on-sync =
-    .label = Activar { -sync-brand-short-name }…
-    .accesskey = v
 menu-tools-addons-and-themes =
     .label = Supplements e designs
     .accesskey = S
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Reconnectar cun { -brand-product-name }…
     .accesskey = R
-menu-tools-web-developer =
-    .label = Sviluppaders dal web
-    .accesskey = w
 menu-tools-browser-tools =
     .label = Utensils dal navigatur
     .accesskey = U
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Infurmaziuns davart la pagina
     .accesskey = s
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Preferenzas
-           *[other] Preferenzas
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] e
-           *[other] e
-        }
 menu-settings =
     .label = Parameters
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Agid
     .accesskey = A
-menu-help-product =
-    .label = Agid da { -brand-shorter-name }
-    .accesskey = d
-menu-help-show-tour =
-    .label = Tura da { -brand-shorter-name }
-    .accesskey = u
-menu-help-import-from-another-browser =
-    .label = Importar dad in auter navigatur…
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = Scursanidas da tastas
-    .accesskey = c
-menu-help-troubleshooting-info =
-    .label = Infurmaziuns per schliar problems
-    .accesskey = p
 menu-get-help =
     .label = Ir per agid
     .accesskey = I
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Trametter in resun…
     .accesskey = s
-menu-help-safe-mode-without-addons =
-    .label = Reaviar e deactivar ils supplements…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = Reaviar ed activar ils supplements
-    .accesskey = R
 menu-help-enter-troubleshoot-mode2 =
     .label = Modus per schliar problems…
     .accesskey = M

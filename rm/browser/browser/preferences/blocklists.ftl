@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Glista
 
-blocklist-button-cancel =
-    .label = Interrumper
-    .accesskey = I
-
-blocklist-button-ok =
-    .label = Memorisar las midadas
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Memorisar las midadas
     .buttonaccesskeyaccept = S

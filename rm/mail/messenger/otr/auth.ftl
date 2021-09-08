@@ -19,9 +19,6 @@ auth-your-fp-value = Tia impronta, { $own_name }:
 auth-their-fp-value = L'impronta da { $their_name }:
 
 auth-help = Verifitgar l'identitad dad in contact gida a garantir che la conversaziun è propi privata. Uschia èsi fitg grev per ina terza partida da spiunar u da manipular la conversaziun.
-auth-helpTitle = Agid per la verificaziun
-
-auth-questionReceived = Quai è la dumonda fatga da tes contact:
 
 auth-help-title = Agid per la verificaziun
 
@@ -34,21 +31,6 @@ auth-no =
     .label = Na
 
 auth-verified = Jau hai verifitgà ch'i sa tracta da la dretga impronta.
-
-auth-manualVerification = Verificaziun manuala da l'impronta.
-auth-questionAndAnswer = Dumonda e resposta
-auth-sharedSecret = Secret cundividì
-
-auth-manualVerification-label =
-    .label = { auth-manualVerification }
-
-auth-questionAndAnswer-label =
-    .label = { auth-questionAndAnswer }
-
-auth-sharedSecret-label =
-    .label = { auth-sharedSecret }
-
-auth-manualInstruction = Contactescha la persuna che duai far part a la conversaziun via in auter chanal autentifitgà, per exempel via e-mail signà cun OpenPGP u per telefon. Barattai lura vossas improntas. (Ina impronta è ina summa da controlla - «checksum» - che identifitgescha ina clav da criptadi.) Sche las improntas correspundan, inditgescha en il dialog sutvart che ti has verifitgà l'impronta.
 
 auth-manual-verification = Verificaziun manuala da l'impronta
 auth-question-and-answer = Dumonda e resposta
@@ -66,10 +48,6 @@ auth-shared-secret-label =
 auth-manual-instruction = Contactescha la persuna che duai far part a la conversaziun via in auter chanal autentifitgà, per exempel via e-mail signà cun OpenPGP u per telefon. Barattai lura vossas improntas. (Ina impronta è ina summa da controlla - «checksum» - che identifitgescha ina clav da criptadi.) Sche las improntas correspundan, inditgescha en il dialog sutvart che ti has verifitgà l'impronta.
 
 auth-how = Co vuls ti verifitgar l'identitad da tes contact?
-
-auth-qaInstruction = Pensa ad ina dumonda che mo ti e tes contact pudais respunder. Endatescha la dumonda e la resposta, spetga lura enfin che tes contact ha endatà la resposta. Sche las respostas na correspundan betg, vegn il chanal da communicaziun che vus utilisais eventualmain surveglià.
-
-auth-secretInstruction = Pensa ad in secret che mo ti e tes contact enconuschais. N'utilisescha betg la medema connexiun d'internet per discurrer davart il secret. Endatescha il secret e spetga lura enfin che tes contact al ha endatà. Sch'ils secrets na correspundan betg, vegn il chanal da communicaziun che vus utilisais eventualmain surveglià.
 
 auth-qa-instruction = Pensa ad ina dumonda che mo ti e tes contact pudais respunder. Endatescha la dumonda e la resposta, spetga lura enfin che tes contact ha endatà la resposta. Sche las respostas na correspundan betg, vegn il chanal da communicaziun che vus utilisais eventualmain surveglià.
 

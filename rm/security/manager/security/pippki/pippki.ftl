@@ -6,9 +6,6 @@ password-quality-meter = Valitaziun da la qualitad dal pled-clav
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Midar il pled-clav universal
-
 change-device-password-window =
     .title = Midar il pled-clav
 
@@ -20,10 +17,6 @@ change-password-new = Pled-clav nov:
 change-password-reenter = Pled-clav nov (repeter):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Redefinir il pled-clav universal
-    .style = width: 40em
 
 pippki-failed-pw-change = Impussibel da midar il pled-clav.
 pippki-incorrect-pw = Ti n'has betg endatà il dretg pled-clav actual. Emprova anc ina giada.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 50em
 reset-password-button-label =
     .label = Redefinir
-reset-password-text = Sche tes pled-clav universal vegn redefinì, perdas ti tut tes pleds-clav memorisads da web e dad e-mail, tias datas da formulars, tes certificats persunals e tias clavs privatas. Vuls ti tuttina redefinir tes pled-clav universal?
 
 reset-primary-password-text = Sche tes pled-clav universal vegn redefinì, perdas ti tut tes pleds-clav memorisads da web e dad e-mail, tes certificats persunals e tias clavs privatas. Vuls ti propi redefinir tes pled-clav universal?
 

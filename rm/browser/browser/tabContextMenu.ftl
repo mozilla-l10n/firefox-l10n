@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Agiuntar in segnapagina per il tab
     .accesskey = A
-reopen-in-container =
-    .label = Avrir anc ina giada en in container
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Avrir en in nov tab da container
     .accesskey = e
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Serrar plirs tabs
     .accesskey = r
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Restaurar tabs serrads
-            [one] Restaurar il tab serrà
-           *[other] Restaurar ils tabs serrads
-        }
-    .accesskey = u
-close-tab =
-    .label = Serrar il tab
-    .accesskey = r
-close-tabs =
-    .label = Serrar ils tabs
-    .accesskey = S
-move-tabs =
-    .label = Spustar ils tabs
-    .accesskey = p
-move-tab =
-    .label = Spustar il tab
-    .accesskey = p
 tab-context-share-url =
     .label = Cundivider
     .accesskey = u
@@ -128,6 +105,7 @@ tab-context-move-tabs =
            *[other] Spustar ils tabs
         }
     .accesskey = p
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

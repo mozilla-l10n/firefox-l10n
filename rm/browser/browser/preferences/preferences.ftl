@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Adina
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Preferenzas
-       *[other] Preferenzas
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 16.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Tschertgar en las preferenzas
-           *[other] Tschertgar en las preferenzas
-        }
-
 settings-page-title = Parameters
 
 # This is used to determine the width of the search field in about:preferences,
@@ -65,10 +43,6 @@ category-search =
 pane-privacy-title = Sfera privata & segirezza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 pane-sync-title3 = Sincronisaziun
 category-sync3 =
@@ -113,14 +87,6 @@ restart-later = Reaviar pli tard
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Ina extensiun, <img data-l10n-name="icon"/> { $name }, administrescha tia pagina da partenza.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Ina extensiun, <img data-l10n-name="icon"/> { $name }, administrescha la pagina da partenza da novs tabs.
-
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = Ina extensiun, <img data-l10n-name="icon"/> { $name }, controllescha quest parameter.
@@ -128,10 +94,6 @@ extension-controlled-password-saving = Ina extensiun, <img data-l10n-name="icon"
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Ina extensiun, <img data-l10n-name="icon"/> { $name } administrescha quest parameter.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = In supplement, <img data-l10n-name="icon"/> { $name }, ha definì tia maschina da tschertgar da standard.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -157,13 +119,6 @@ extension-controlled-enable = Per activar il supplement, va a <img data-l10n-nam
 search-results-header = Resultats da tschertga
 
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Perstgisa! Impussibel da chattar «<span data-l10n-name="query"></span>» en las preferenzas.
-       *[other] Perstgisa! Impussibel da chattar «<span data-l10n-name="query"></span>» en las preferenzas.
-    }
-
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Perstgisa! Impussibel da chattar «<span data-l10n-name="query"></span>» en ils parameters.
 
 search-results-help-link = Dovras agid? Consultescha las paginas <a data-l10n-name="url">{ -brand-short-name }d'agid</a>
@@ -171,14 +126,6 @@ search-results-help-link = Dovras agid? Consultescha las paginas <a data-l10n-na
 ## General Section
 
 startup-header = Aviar
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Permetter che { -brand-short-name } e Firefox èn activs a medem temp
-use-firefox-sync = Tip: Quai funcziunescha cun profils separads. Utilisescha { -sync-brand-short-name } per sincronisar las datas tranter quels.
-get-started-not-logged-in = S'annunziar tar { -sync-brand-short-name }…
-get-started-configured = Avrir las preferenzas da { -sync-brand-short-name }
 
 always-check-default =
     .label = Adina controllar sche { -brand-short-name } è il navigatur da standard
@@ -218,10 +165,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Avertir, sche { -brand-short-name } vegniss retardà cun avrir plirs tabs
     .accesskey = s
-
-switch-links-to-new-tabs =
-    .label = Midar directamain a la pagina sch'ina colliaziun vegn averta en in nov tab
-    .accesskey = t
 
 switch-to-new-tabs =
     .label = Cura ch'ina colliaziun, in maletg u ina media vegn averta en in nov tab, midar directamain al tab
@@ -412,11 +355,6 @@ applications-manage-app =
     .label = Detagls davart l'applicaziun…
 applications-always-ask =
     .label = Dumandar mintga giada
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -506,17 +444,6 @@ update-application-warning-cross-user-setting = Quest parameter pertutga tut ils
 update-application-use-service =
     .label = Utilisar in servetsch per installar actualisaziuns senza interrupziun
     .accesskey = r
-
-update-setting-write-failure-title = Errur cun memorisar preferenzas per actualisaziuns
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    { -brand-short-name } è fruntà sin in problem e n'ha betg memorisà questa midada. Igl è necessari da pudair scriver en la datoteca sutvart per pudair definir quest parameter dad actualisaziuns. Eventualmain pos ti u l'administratur dal sistem schliar il problem cun permetter a la gruppa d'utilisaders l'access cumplain a questa datoteca.
-    
-    Impussibel da scriver en la datoteca: { $path }
 
 update-setting-write-failure-title2 = Errur cun memorisar ils parameters per actualisaziuns
 
@@ -771,13 +698,9 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Mussar propostas da tschertga en fanestras privatas
 
-suggestions-addressbar-settings-generic = Midar las preferenzas per avair autras propostas en la trav d'adressas
-
 suggestions-addressbar-settings-generic2 = Midar ils parameters per avair autras propostas en la trav d'adressas
 
 search-suggestions-cant-show = Propostas da tschertgar na vegnan betg mussadas en la trav d'adressas perquai che ti has configurà { -brand-short-name } uschia che la cronologia na vegn betg memorisada.
-
-search-one-click-header = Maschinas da tschertgar cun-in-clic
 
 search-one-click-header2 = Scursanidas per la tschertga
 
@@ -812,13 +735,6 @@ search-keyword-warning-bookmark = Ti has tschernì in pled magic che vegn gia ut
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Turnar a las preferenzas
-           *[other] Turnar a las preferenzas
-        }
-
 containers-back-button2 =
     .aria-label = Turnar als parameters
 containers-header = Tabs da container
@@ -830,9 +746,6 @@ containers-new-tab-check =
     .label = Tscherna in container per mintga nov tab
     .accesskey = T
 
-containers-preferences-button =
-    .label = Preferenzas
-
 containers-settings-button =
     .label = Parameters
 containers-remove-button =
@@ -842,11 +755,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Prenda tes web cun tai
-sync-signedout-description = Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tias preferenzas cun tut tes apparats.
-
-sync-signedout-account-signin2 =
-    .label = S'annunziar tar { -sync-brand-short-name }…
-    .accesskey = t
 
 sync-signedout-description2 = Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tes parameters cun tut tes apparats.
 
@@ -897,12 +805,6 @@ prefs-syncing-on = Sincronisaziun: ACTIVADA
 
 prefs-syncing-off = Sincronisaziun: DEACTIVADA
 
-prefs-sync-setup =
-    .label = Configurar { -sync-brand-short-name }…
-    .accesskey = C
-
-prefs-sync-offer-setup-label = Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tias preferenzas cun tut tes apparats.
-
 prefs-sync-turn-on-syncing =
     .label = Activar la sincronisaziun…
     .accesskey = s
@@ -925,11 +827,6 @@ sync-currently-syncing-logins-passwords = Infurmaziuns d'annunzia e pleds-clav
 sync-currently-syncing-addresses = Adressas
 sync-currently-syncing-creditcards = Cartas da credit
 sync-currently-syncing-addons = Supplements
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Preferenzas
-       *[other] Preferenzas
-    }
 
 sync-currently-syncing-settings = Parameters
 
@@ -979,15 +876,6 @@ sync-engine-addons =
     .label = ils supplements
     .tooltiptext = Supplements e designs per Firefox per computers
     .accesskey = S
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Preferenzas
-           *[other] las preferenzas
-        }
-    .tooltiptext = Preferenzas generalas, da la protecziun da datas e da segirezza che ti has midà
-    .accesskey = a
 
 sync-engine-settings =
     .label = Parameters
@@ -1044,9 +932,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Infurmaziuns d'annunzia memorisadas…
     .accesskey = n
-forms-master-pw-use =
-    .label = Utilisar in pled-clav universal
-    .accesskey = u
 forms-primary-pw-use =
     .label = Utilisar in pled-clav universal
     .accesskey = U
@@ -1058,7 +943,6 @@ forms-master-pw-change =
     .label = Midar il pled-clav universal…
     .accesskey = d
 
-forms-master-pw-fips-title = Ti es actualmain en il modus FIPS. FIPS pretenda in pled-clav universal.
 forms-primary-pw-change =
     .label = Midar il pled-clav universal…
     .accesskey = p
@@ -1076,15 +960,6 @@ forms-windows-sso-learn-more-link = Ulteriuras infurmaziuns
 forms-windows-sso-desc = Administrar ils contos en ils parameters da tes apparat
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Per crear in pled-clav universal, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = crear in pled-clav universal
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Per crear in pled-clav universal, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
@@ -1202,10 +1077,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Administrar las datas…
     .accesskey = m
-
-sitedata-cookies-permissions =
-    .label = Administrar las permissiuns…
-    .accesskey = p
 
 sitedata-cookies-exceptions =
     .label = Administrar las excepziuns…
@@ -1393,12 +1264,6 @@ permissions-addon-exceptions =
     .label = Excepziuns…
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = Impedir che servetschs d'accessabilitad accedian a tes navigatur
-    .accesskey = a
-
-permissions-a11y-privacy-link = Ulteriuras infurmaziuns
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name }: Collecziun ed utilisaziun da datas
@@ -1425,11 +1290,6 @@ addon-recommendations-link = Ulteriuras infurmaziuns
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Rapports da datas èn deactivads per questa configuraziun da compilaziun
-
-collection-backlogged-crash-reports =
-    .label = Permetter a { -brand-short-name } da trametter automaticamain rapports da collaps anc betg tramess
-    .accesskey = c
-collection-backlogged-crash-reports-link = Ulteriuras infurmaziuns
 
 collection-backlogged-crash-reports-with-link = Permetter a { -brand-short-name } da trametter tes rapports da collaps che spetgan <a data-l10n-name="crash-reports-link">Ulteriuras infurmaziuns</a>
     .accesskey = c
@@ -1460,16 +1320,6 @@ security-block-uncommon-software =
 
 certs-header = Certificats
 
-certs-personal-label = Sch'in server dumonda tes certificat da segirezza persunal
-
-certs-select-auto-option =
-    .label = Tscherner automaticamain in
-    .accesskey = T
-
-certs-select-ask-option =
-    .label = Dumandar mintga giada
-    .accesskey = D
-
 certs-enable-ocsp =
     .label = Laschar confermar la validitad da certificats entras dumandar servers da OCSP
     .accesskey = c
@@ -1481,34 +1331,6 @@ certs-view =
 certs-devices =
     .label = Apparats da segirezza…
     .accesskey = p
-
-space-alert-learn-more-button =
-    .label = Ulteriuras infurmaziuns
-    .accesskey = U
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Avrir las preferenzas
-           *[other] Avrir las preferenzas
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] A
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] La capacitad da memorisar da { -brand-short-name } è prest exausta. Il cuntegn da websites na vegn eventualmain betg visualisà endretg. Ti pos stizzar datas memorisadas en Preferenzas > Protecziun da datas & segirezza > Cookies e datas da websites.
-       *[other] La capacitad da memorisar da { -brand-short-name } è prest exausta. Il cuntegn da websites na vegn eventualmain betg visualisà endretg. Ti pos stizzar datas memorisadas en Preferenzas > Protecziun da datas & segirezza > Cookies e datas da websites.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = OK, chapì
-    .accesskey = K
-
-space-alert-under-5gb-message = La memoria da { -brand-short-name } è prest plaina. Il cuntegn da websites na vegn forsa betg pli visualisà correctamain. Clicca sin «Ulteriuras infurmaziuns» per optimar l'utilisaziun da la memoria e per meglierar la prestaziun durant navigar.
 
 space-alert-over-5gb-settings-button =
     .label = Avrir ils parameters

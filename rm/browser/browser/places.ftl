@@ -5,9 +5,6 @@
 places-open =
     .label = Avrir
     .accesskey = A
-places-open-tab =
-    .label = Avrir en in nov tab
-    .accesskey = t
 places-open-in-tab =
     .label = Avrir en in nov tab
     .accesskey = v
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Avrir tuts en tabs
     .accesskey = A
-places-open-window =
-    .label = Avrir en ina nova fanestra
-    .accesskey = f
-places-open-private-window =
-    .label = Avrir en ina nova fanestra privata
-    .accesskey = P
-
-places-new-bookmark =
-    .label = Nov segnapagina…
-    .accesskey = N
-places-new-folder-contextmenu =
-    .label = Nov ordinatur…
-    .accesskey = O
-places-new-folder =
-    .label = Nov ordinatur…
-    .accesskey = o
-places-new-separator =
-    .label = Nova lingia da separaziun
-    .accesskey = N
 
 places-open-in-window =
     .label = Avrir en ina nova fanestra
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Zavrar tenor num
     .accesskey = r
-places-properties =
-    .label = Caracteristicas
-    .accesskey = C
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -133,3 +108,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Administrar ils segnapaginas
     .accesskey = m
+

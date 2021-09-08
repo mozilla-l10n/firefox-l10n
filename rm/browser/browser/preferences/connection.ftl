@@ -35,9 +35,6 @@ connection-proxy-http = Proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Era utilisar quest proxy per FTP e HTTPS
-    .accesskey = r
 
 connection-proxy-https-sharing =
     .label = Era utilisar quest proxy per HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = Proxy HTTPS
     .accesskey = H
 connection-proxy-ssl-port = Port
     .accesskey = o
-
-connection-proxy-ftp = Proxy FTP
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = r
 
 connection-proxy-socks = Server SOCKS
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Nagin proxy per
     .accesskey = N
 
 connection-proxy-noproxy-desc = Exempel: .mozilla.org, .giuru.ch, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Las connexiuns cun localhost, 127.0.0.1 ed ::1 n'utiliseschan mai in proxy.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Las connexiuns cun localhost, 127.0.0.1/8 ed ::1 n'utiliseschan mai in proxy.

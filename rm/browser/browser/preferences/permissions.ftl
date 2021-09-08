@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Allontanar tut las websites
     .accesskey = t
 
-permissions-button-cancel =
-    .label = Interrumper
-    .accesskey = r
-
-permissions-button-ok =
-    .label = Memorisar las midadas
-    .accesskey = M
-
 permission-dialog =
     .buttonlabelaccept = Memorisar las midadas
     .buttonaccesskeyaccept = M
