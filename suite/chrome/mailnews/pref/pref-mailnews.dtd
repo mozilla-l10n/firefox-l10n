@@ -10,6 +10,8 @@
 <!ENTITY preserveThreading.accesskey      "p">
 <!ENTITY loadInBackground.label           "Mudar para novas abas quando forem abertas">
 <!ENTITY loadInBackground.accesskey       "M">
+<!ENTITY mailDoubleClick.label            "Dê um duplo-clique em uma mensagem">
+<!ENTITY mailDoubleClick.accesskey        "d">
 <!ENTITY mailBiffOnNewWindow.label        "Só verificar se há novos emails após abrir email e grupos de notícias">
 <!ENTITY mailBiffOnNewWindow.accesskey    "o">
 
