@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "U">
 <!ENTITY deleteCmd.label          "Hapus">
 <!ENTITY deleteCmd.accesskey        "H">
-<!ENTITY preferencesCmd2.label "Opsi">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "Pengaturan">
-<!ENTITY preferencesCmdUnix.accesskey     "P">
 
 <!ENTITY customizeCmd.label "Ubahsuai">
 <!ENTITY customizeCmd.accesskey "t">

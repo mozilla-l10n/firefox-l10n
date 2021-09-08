@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Tutup
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Pengaturan
-           *[other] Pengaturan
-        }
-
 preferences-doc-title = Preferensi
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Hapus Perubahan
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lanjutkan
 
-addons-button = Ekstensi & Tema
-
 account-button = Pengaturan Akun
 open-addons-sidebar-button = Pengaya dan Tema
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Untuk membuat Sandi Utama, masukkan kredensial info masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = membuat Sandi Utama
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Untuk membuatSandi Utama, masukkan kredensial masuk Windows Anda. Ini membantu melindungi keamanan akun Anda.
@@ -219,10 +201,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Pengaturan…
     .accesskey = P
-
-tray-icon-label =
-    .label = Tampilkan ikon baki
-    .accesskey = t
 
 biff-use-system-alert =
     .label = Gunakan notifikasi sistem
@@ -421,9 +399,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Warna:
     .accesskey = o
-
-search-input =
-    .placeholder = Cari
 
 search-handler-table =
     .placeholder = Filter tipe dan tindakan konten
@@ -715,16 +690,6 @@ passwords-button =
     .label = Sandi Tersimpan…
     .accesskey = a
 
-master-password-description = Jika diatur Sandi Utama melindungi semua sandi Anda - tetapi Anda harus mengetikkannya sekali dalam satu sesi.
-
-master-password-label =
-    .label = Gunakan Sandi Utama
-    .accesskey = m
-
-master-password-button =
-    .label = Ubah Sandi Utama…
-    .accesskey = S
-
 
 primary-password-description = Sandi Utama melindungi semua kata sandi Anda, tetapi Anda harus memasukkannya sekali tiap sesi.
 
@@ -905,26 +870,6 @@ no-preview-description = Tema ini tidak valid atau saat ini tidak tersedia (peng
 chat-variant-label =
     .value = Varian:
     .accesskey = V
-
-chat-header-label =
-    .label = Tampilkan Tajuk
-    .accesskey = H
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Temukan di Opsi
-           *[other] Temukan di Preferensi
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

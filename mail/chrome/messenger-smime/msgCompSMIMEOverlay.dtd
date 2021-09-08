@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Tandatangani Pesan Ini Secara Dijital">
 <!ENTITY menu_securitySign.accesskey "d">
 
-<!ENTITY menu_securityAttachMyKey.label "Lampirkan Kunci Publik Saya">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "Teknologi Enkripsi">
 <!ENTITY menu_securityTech.accesskey "T">
 

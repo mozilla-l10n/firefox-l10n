@@ -6,9 +6,6 @@ password-quality-meter = Ukuran kualitas sandi
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Ubah Sandi Utama
-
 change-device-password-window =
     .title = Ubah Sandi
 
@@ -20,10 +17,6 @@ change-password-new = Sandi baru:
 change-password-reenter = Sandi baru (ulangi):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Setel Ulang Sandi Utama
-    .style = width: 40em
 
 pippki-failed-pw-change = Gagal mengubah sandi.
 pippki-incorrect-pw = Anda tidak memasukkan sandi dengan benar. Silakan coba lagi.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Setel Ulang
-reset-password-text = Jika Anda menyetel ulang sandi utama, semua sandi web dan email, data form, sertifikat pribadi, dan kunci pribadi akan hilang. Yakin akan menyetel ulang sandi utama?
 
 reset-primary-password-text = Jika Anda menyetel ulang sandi utama, semua sandi web dan email, data form, sertifikat pribadi, dan kunci pribadi akan hilang. Yakin akan menyetel ulang Sandi Utama?
 

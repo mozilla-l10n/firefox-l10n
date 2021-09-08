@@ -97,9 +97,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Cara kerjanya
 
-turn-on-sync = Aktifkan { -sync-brand-short-name }
-    .title = Buka pengaturan sinkronisasi
-
 monitor-title = Hati-hati terhadap kebocoran data
 monitor-link = Cara kerja
 monitor-header-content-no-account = Periksa { -monitor-brand-name } untuk melihat apakah Anda terkena dampak pembobolan data, dan dapatkan peringatan tentang pembobolan terbaru.

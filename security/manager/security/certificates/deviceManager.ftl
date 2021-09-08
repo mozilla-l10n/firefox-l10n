@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Nomor Seri
 
-fips-nonempty-password-required = Mode FIPS mewajibkan Anda untuk memiliki Sandi Utama yang digunakan untuk tiap perangkat keamanan. Silakan aktifkan sandi sebelum mengaktifkan mode FIPS.
-
 fips-nonempty-primary-password-required = Mode FIPS mewajibkan Anda untuk memiliki Sandi Utama yang digunakan untuk tiap perangkat keamanan. Silakan aktifkan sandi sebelum mengaktifkan mode FIPS.
 unable-to-toggle-fips = Gagal mengubah mode FIPS pada perangkat keamanan. Anda disarankan untuk keluar dan memulai ulang aplikasi ini.
 load-pk11-module-file-picker-title = Pilih penggerak peranti PKCS#11 untuk memuat

@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Hapus Semua Situs Web
     .accesskey = a
 
-permissions-button-cancel =
-    .label = Batal
-    .accesskey = B
-
-permissions-button-ok =
-    .label = Simpan Perubahan
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Simpan Perubahan
     .buttonaccesskeyaccept = S

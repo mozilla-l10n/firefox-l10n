@@ -94,9 +94,6 @@ no-proxy-label =
 
 no-proxy-example = Contoh: .mozilla.org, .net.id, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = Koneksi ke localhost, 127.0.0.1, dan ::1 tidak pernah diproksi.
-
 proxy-password-prompt =
     .label = Jangan tanyakan otentikasi jika sandinya disimpan
     .accesskey = i

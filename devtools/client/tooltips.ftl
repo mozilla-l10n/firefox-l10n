@@ -40,8 +40,6 @@ inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</stro
 
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena <strong>overflow:hidden</strong> tidak diatur.
 
-inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena nilai <strong>outline-style</strong> adalah <strong>auto</strong> atau <strong>none</strong>.
-
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> tidak berpengaruh pada elemen tabel internal.
 
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> tidak berpengaruh pada elemen tabel internal kecuali sel tabel.
@@ -83,8 +81,6 @@ inactive-text-overflow-when-no-overflow-fix = Coba tambahkan <strong>overflow:hi
 inactive-css-not-for-internal-table-elements-fix = Cobalah menyetel properti <strong>display</strong>-nya ke nilai lain selain <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, atau <strong>tabel-footer-group</strong>. { learn-more }
 
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Cobalah menyetel properti <strong>display</strong>-nya ke nilai lain selain <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, atau <strong>tabel-footer-group</strong>. { learn-more }
-
-inactive-outline-radius-when-outline-style-auto-or-none-fix = Cobalah menyetel properti <strong>outline-style</strong>-nya ke sesuatu selain <strong>auto</strong> atau <strong>none</strong>. { learn-more }
 
 inactive-css-not-table-fix = Coba tambahkan <strong>display:table</strong> atau <strong>display:inline-table</strong>. { learn-more }
 

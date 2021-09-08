@@ -15,11 +15,6 @@ view-fingerprint-button =
 otr-settings-title = Pengaturan OTR
 otr-log =
     .label = Sertakan pesan terenkripsi OTR dalam log percakapan
-otr-requireEncryption =
-    .label = Memerlukan enkripsi ujung-ke-ujung untuk percakapan satu-lawan-satu
-otr-verifyNudge =
-    .label = Selalu ingatkan saya untuk memverifikasi kontak yang tidak diverifikasi
-otr-notYetAvailable = belum tersedia
 otr-require-encryption =
     .label = Persyaratkan enkripsi ujung ke ujung untuk percakapan satu lawan satu
 otr-require-encryption-info =
@@ -28,4 +23,6 @@ otr-require-encryption-info =
     tidak akan ditampilkan sebagai bagian dari percakapan reguler, dan tidak dicatat.
 otr-verify-nudge =
     .label = Selalu ingatkan saya untuk memverifikasi kontak yang belum diverifikasi
+
 otr-not-yet-available = belum tersedia
+

@@ -10,11 +10,6 @@ crashes-id = ID Laporan
 crashes-send-date = Dikirim
 crashes-all-reports = Semua Laporan Kerusakan
 crashes-no-config = Aplikasi ini tidak dikonfigurasikan untuk menampilkan laporan kerusakan.
-extensions-title = Ekstensi
-extensions-name = Nama
-extensions-enabled = Aktif
-extensions-version = Versi
-extensions-id = ID
 support-addons-title = Pengaya
 support-addons-name = Nama
 support-addons-type = Tipe
@@ -129,8 +124,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Jenis Proses
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumen
-safe-mode-title = Coba Mode Aman
-restart-in-safe-mode-label = Mulai Ulang dengan Pengaya Dinonaktifkan…
 
 troubleshoot-mode-title = Diagnosis masalah
 restart-in-troubleshoot-mode-label = Mode Pemecahan Masalah…
@@ -188,37 +181,6 @@ remote-debugging-accepting-connections = Menerima Koneksi
 remote-debugging-url = URL
 
 ##
-
-support-third-party-modules-title = Modul Pihak Ketiga
-support-third-party-modules-module = Berkas Modul
-support-third-party-modules-version = Versi File
-support-third-party-modules-vendor = Info Vendor
-support-third-party-modules-occurrence = Kejadian
-support-third-party-modules-process = ID & Jenis Proses
-support-third-party-modules-thread = Thread
-support-third-party-modules-base = Alamat Imagebase
-support-third-party-modules-uptime = Waktu Operasi Proses (md)
-support-third-party-modules-duration = Durasi Pemuatan (md)
-support-third-party-modules-status = Status
-support-third-party-modules-status-loaded = Dimuat
-support-third-party-modules-status-blocked = Diblokir
-support-third-party-modules-status-redirected = Diarahkan ulang
-support-third-party-modules-empty = Tidak ada modul pihak ketiga yang dimuat.
-support-third-party-modules-no-value = (Tidak ada nilai)
-support-third-party-modules-button-open =
-    .title = Buka lokasi berkas…
-support-third-party-modules-expand =
-    .title = Tampilkan informasi rinci
-support-third-party-modules-collapse =
-    .title = Ciutkan informasi rinci
-support-third-party-modules-unsigned-icon =
-    .title = Modul ini tidak ditandatangani
-support-third-party-modules-folder-icon =
-    .title = Buka lokasi berkas…
-support-third-party-modules-down-icon =
-    .title = Tampilkan informasi rinci
-support-third-party-modules-up-icon =
-    .title = Ciutkan informasi rinci
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -294,11 +256,6 @@ webgl2-renderer = Perender WebGL2
 webgl2-version = Versi Penggerak WebGL 2
 webgl2-driver-extensions = Ekstensi Penggerak WebGL 2
 webgl2-extensions = Ekstensi WebGL 2
-blocklisted-bug = Dicekal karena alasan yang diketahui
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber }
 
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
@@ -309,8 +266,6 @@ support-blocklisted-bug = Dicekal karena masalah yang diketahui: <a data-l10n-na
 unknown-failure = Dicekal: kode kegagalan { $failureCode }
 
 d3d11layers-crash-guard = Compositor D3D11
-d3d11video-crash-guard = Pendekode Video D3D11
-d3d9video-crash-guard = Pendekode Video D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video Decoder
 
@@ -356,14 +311,6 @@ launcher-process-status-unknown = Status tak diketahui
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Diaktifkan pengguna
-multi-process-status-1 = Diaktifkan secara baku
-multi-process-status-2 = Dinonaktifkan
-multi-process-status-4 = Dinonaktifkan oleh alat aksesibilitas
-multi-process-status-6 = Dinonaktifkan oleh masukan teks yang tidak didukung
-multi-process-status-7 = Dinonaktifkan oleh pengaya
-multi-process-status-8 = Dinonaktifkan secara paksa
-multi-process-status-unknown = Status tak diketahui
 
 # Variables
 # $fissionWindows (integer) - Number of remote windows

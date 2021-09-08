@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Hapus yang Dipilih
     .accesskey = H
 
-site-data-button-cancel =
-    .label = Batal
-    .accesskey = B
-
-site-data-button-save =
-    .label = Simpan Perubahan
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = Simpan Perubahan
     .buttonaccesskeyaccept = a

@@ -57,8 +57,6 @@ printui-options = Opsi
 printui-headers-footers-checkbox = Cetak kepala dan kaki
 printui-backgrounds-checkbox = Cetak latar
 
-printui-selection-checkbox = Hanya cetak yang dipilih
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

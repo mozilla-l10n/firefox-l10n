@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Buka Jendela Pribadi
 about-private-browsing-search-placeholder = Cari di Web
 about-private-browsing-info-title = Anda berada di Jendela Pribadi
 about-private-browsing-info-myths = Mitos umum tentang penjelajahan pribadi
-about-private-browsing =
-    .title = Cari di Web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

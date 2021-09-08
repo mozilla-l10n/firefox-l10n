@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Markahi Tab
     .accesskey = m
-reopen-in-container =
-    .label = Buka ulang di Kontainer
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Buka di Tab Kontainer Baru
     .accesskey = T
@@ -69,25 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Tutup Banyak Tab
     .accesskey = T
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Urungkan Menutup Tab
-           *[other] Urungkan Menutup Tab
-        }
-    .accesskey = U
-close-tab =
-    .label = Tutup Tab
-    .accesskey = u
-close-tabs =
-    .label = Tutup Tab
-    .accesskey = T
-move-tabs =
-    .label = Pindahkan Tab
-    .accesskey = p
-move-tab =
-    .label = Pindahkan Tab
-    .accesskey = p
 tab-context-share-url =
     .label = Bagikan
     .accesskey = B
@@ -118,6 +96,7 @@ tab-context-move-tabs =
            *[other] Pindahkan Tab
         }
     .accesskey = P
+
 tab-context-send-tabs-to-device =
     .label = Kirim Tab ke { $tabCount } Peranti
     .accesskey = k

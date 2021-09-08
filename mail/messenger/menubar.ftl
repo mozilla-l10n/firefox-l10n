@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Pengodean Teks
-    .accesskey = g
-
 ## Tools Menu
 
 ## Help Menu
@@ -18,4 +14,6 @@ menu-view-charset =
 ## View
 
 ## View / Layout
+
+## File
 

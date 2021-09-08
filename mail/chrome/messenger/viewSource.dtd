@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Simpan Laman Sebagai…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Tata Laman...">
-<!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Pratinjau Cetak">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Cetak…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">
