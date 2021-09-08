@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = තිර දර්ශනයක් ලබා ගන්න
-
 screenshots-cancel-button = අවලංගු කරන්න
 screenshots-save-visible-button = පෙනෙන දෑ සුරකින්න
 screenshots-save-page-button = මුළු පිටුවම සුරකින්න

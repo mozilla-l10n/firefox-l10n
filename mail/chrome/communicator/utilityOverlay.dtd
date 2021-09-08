@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY deleteCmd.label          "මකන්න">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY preferencesCmd2.label "විකල්ප">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "මනාපයන්">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY viewMenu.label          "දසුන්">
 <!ENTITY viewMenu.accesskey        "V">

@@ -35,7 +35,3 @@ translation-sites-button-remove-all =
     .label = සියළු අඩවි ඉවත් කරන්න
     .accesskey = i
 
-translation-button-close =
-    .label = වසන්න
-    .accesskey = C
-

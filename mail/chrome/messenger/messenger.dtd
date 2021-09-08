@@ -72,10 +72,6 @@
 <!ENTITY printCmd.label "මුද්‍රණය...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "මුද්‍රණ පෙරදැක්ම">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "පිටු සැකසුම...">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "ලිපිය මකන්න">
@@ -424,8 +420,6 @@
 <!ENTITY addressBookCmd.label "ලිපින පොත">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "ඇඩෝන (Add-ons)">
-<!ENTITY addons.accesskey "d">
 <!ENTITY activitymanager.label "ක්‍රියාකාරීත්ව සටහන">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY imAccountsStatus.label "චැට් හි තත්ත්වය">
@@ -475,15 +469,11 @@
 <!ENTITY backButton1.label "පසුපසට">
 <!ENTITY goForwardButton1.label "ඉදිරියට">
 <!ENTITY deleteItem.title "මකන්න">
-<!ENTITY deleteButton.label "මකන්න">
-<!ENTITY undeleteButton.label "අමකන්න (Undelete)">
 <!ENTITY markButton.label "සළකුණු කරන්න">
 <!ENTITY printButton.label "මුද්‍රණය">
 <!ENTITY stopButton.label "නවතන්න">
 <!ENTITY throbberItem.title "ක්‍රියාකාරීත්ව දර්ශකය">
 <!ENTITY junkItem.title "නිසරු ලිපි">
-<!ENTITY junkButton.label "නිසරු ලිපි">
-<!ENTITY notJunkButton.label "නිසරු සේ නොගැනෙන ලිපි">
 <!ENTITY addressBookButton.label "ලිපින පොත">
 <!ENTITY chatButton.label "චැට්">
 <!ENTITY glodaSearch.title "පොදු (Global) සෙවුම Search">
@@ -512,13 +502,9 @@
 <!ENTITY previousMsgButton.tooltip "පෙර ලිපියට">
 <!ENTITY goForwardButton.tooltip "ඉදිරි ලිපියට">
 <!ENTITY goBackButton.tooltip "පෙර ලිපියට">
-<!ENTITY deleteButton.tooltip "තෝරාගත් ලිපි හෝ ෆෝල්ඩර මැකීමට">
-<!ENTITY undeleteButton.tooltip "තෝරාගත් ලිපි අ-මැකීමට (Undelete)">
 <!ENTITY markButton.tooltip "ලිපි සළකුණු කිරීමට">
 <!ENTITY printButton.tooltip "ලිපිය මුද්‍රණය කිරීමට">
 <!ENTITY stopButton.tooltip "ලිපි යැවීම/ලබාගැනීම නතර කිරීමට">
-<!ENTITY junkButton.tooltip "තෝරාගත් ලිපි නිසරු සේ සළකුණු කිරීමට">
-<!ENTITY notJunkButton.tooltip "තෝරාගත් ලිපි නිසරු ‍නොවන සේ සළකුණු කිරීමට">
 <!ENTITY addressBookButton.tooltip "ලිපින පොතට යොමුවීමට">
 <!ENTITY chatButton.tooltip "චැට් ටැබය පෙන්වන්න">
 <!ENTITY tagButton.tooltip "ටැග් ලිපි">

@@ -5,31 +5,9 @@
 places-open =
     .label = විවෘත කරන්න
     .accesskey = O
-places-open-tab =
-    .label = නව ටැබයක විවෘත කරන්න
-    .accesskey = w
 places-open-all-in-tabs =
     .label = සියල්ල ටැබ තුළ විවෘත කරන්න
     .accesskey = O
-places-open-window =
-    .label = නව කවුළුවක විවෘත කරන්න
-    .accesskey = N
-places-open-private-window =
-    .label = නව පුද්ගලික කවුළුවක විවෘත කරන්න
-    .accesskey = P
-
-places-new-bookmark =
-    .label = නව පිටු සලකුණ…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = නව බහලුම…
-    .accesskey = F
-places-new-folder =
-    .label = නව බහලුම…
-    .accesskey = o
-places-new-separator =
-    .label = නව වෙන්කරණය
-    .accesskey = S
 
 places-view =
     .label = දසුන්
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = නම අනුව පෙළ ගැසු
     .accesskey = r
-places-properties =
-    .label = වත්කම්
-    .accesskey = i
 

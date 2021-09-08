@@ -10,9 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "පූර්ණ තිරයෙන් ඉවත්වන්න">
 <!ENTITY castingButton.castingLabel "තිරයේ විකාශය කරන්න">
 <!ENTITY closedCaption.off "අක්‍රිය">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "හඬ ස්ලයිඩරය">
 
 <!ENTITY error.aborted "වීඩියෝ පූරණය නැවතිණි.">
 <!ENTITY error.network "Video playback aborted due to a network error.">

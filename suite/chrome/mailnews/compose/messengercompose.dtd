@@ -12,6 +12,8 @@
 <!ENTITY attachments.label "Attachments:">
 <!ENTITY attachments.accesskey "c">
 
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
 <!-- menu items:  the . means that the menu item isn't implemented yet -->  
 <!ENTITY saveCmd.label "Save">
 <!ENTITY saveCmd.accesskey "s">
@@ -38,11 +40,6 @@
 <!ENTITY sendLaterCmd.label "Send Later">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-
-<!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "Rewrap">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "w">
 
 <!ENTITY accountManagerCmd.label "Mail &amp; Newsgroups Account Settings…">
 <!ENTITY accountManagerCmd.accesskey "m">

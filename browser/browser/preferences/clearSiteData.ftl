@@ -51,11 +51,3 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = ජාල අඩවි විසින් පින්තූර හා දත්ත යළි පූර්ණයක් අවශ්‍ය විය හැක
 
-clear-site-data-cancel =
-    .label = අවලංගු කරන්න
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = පිරිසිදු
-    .accesskey = l
-

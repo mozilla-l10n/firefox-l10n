@@ -35,10 +35,6 @@ containers-color-label = වර්ණය
     .accesskey = o
     .style = { -containers-labels-style }
 
-containers-button-done =
-    .label = නිම කරන ලදි
-    .accesskey = D
-
 containers-color-blue =
     .label = නිල්
 containers-color-turquoise =

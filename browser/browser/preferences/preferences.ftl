@@ -7,12 +7,6 @@ do-not-track-learn-more = තවත් දැනගන්න
 do-not-track-option-always =
     .label = සැමවිටම
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] විකල්ප
-       *[other] මනාපයන්
-    }
-
 pane-general-title = සාමාන්‍ය
 category-general =
     .tooltiptext = { pane-general-title }
@@ -57,21 +51,9 @@ restart-later = පසුව යළි අරඹන්න
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = <img data-l10n-name="icon"/>{ $name }, නමැති දිගුවක් ඔබේ මුල් පිටුව පාලනය කරයි.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = <img data-l10n-name="icon"/>{ $name }, නමාති දිගුව ඔබගේ නව ටැබ පිටුව පාලනය කරයි.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = <img data-l10n-name="icon"/>{ $name }, නමැති දිගුව මෙම සැකසුම පාලනය කරයි.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = <img data-l10n-name="icon"/>{ $name }, නමැති දිගුව ඔබගේ පෙරනිමි සෙවුම් එළවුම පිහිටුවා ඇත.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -96,26 +78,11 @@ extension-controlled-enable = මෙම දිගුව සක්‍රීය �
 
 search-results-header = සෙවුම් ප්‍රථිපල
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] සමාවන්න! විකල්ප තුළ <span data-l10n-name="query"></span>  සඳහා ප්‍රථිපල නොමැත.
-       *[other] සමාවන්න! අභිප්‍රේත තුළ <span data-l10n-name="query"></span>  සඳහා ප්‍රථිපල නොමැත.
-    }
-
 search-results-help-link = උදව් ඇවැසිද? <a data-l10n-name="url">{ -brand-short-name }සහාය</a> වෙත පිවිසෙන්න
 
 ## General Section
 
 startup-header = ආරම්භය
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = { -brand-short-name } හා Firefox එකම මොහොතේ ධාවනය වීමට ඉඩ දෙන්න
-use-firefox-sync = ඉඟිය: මෙය වෙන් වූ පැතිකඩ භාවිත කරයි. ඒවා අතර දත්ත බෙදාගැනීමට { -sync-brand-short-name } භාවිත කරන්න.
-get-started-not-logged-in = { -sync-brand-short-name } වෙත පිවිසෙන්න…
-get-started-configured = { -sync-brand-short-name } අභිප්‍රේත විවෘත කරන්න
 
 always-check-default =
     .label = සැමවිටම { -brand-short-name } ඔබේ පෙරනිමි ගවේශකයද බව පිරික්සන්න
@@ -155,10 +122,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = බහු ටැබ විවෘත කිරීමේදී { -brand-short-name } මන්දගාමීවීමේ හැකියාවක් ඇති බවට ඔබට අනතුරු අඟවයි;
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = ඔබ සබැඳියක් නව් ටැබයක විවෘත කිරීමේදී ක්‍ෂණිකව එයට යොමුවන්න
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = ටැබ් පෙරදසුන් වින්ඩෝස් ටාස්ක්බාරය (Windows taskbar) තුළ පෙන්වන්න
@@ -281,11 +244,6 @@ applications-manage-app =
     .label = යෙදුම් විස්තර…
 applications-always-ask =
     .label = නිතර අසන්න
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -507,8 +465,6 @@ search-show-suggestions-url-bar-option =
     .label = සෙවුම් යෝජනා ලිපින තීරුවේ පෙන්වන්න
     .accesskey = I
 
-search-one-click-header = ඒක-ක්ලික් සෙවුම් එළවුම්
-
 search-choose-engine-column =
     .label = සෙචුම් එළවුම
 search-choose-keyword-column =
@@ -538,9 +494,6 @@ containers-header = බහාලුම් ටැබ
 containers-add-button =
     .label = නව බහාලුමක් එක් කරන්න
     .accesskey = A
-
-containers-preferences-button =
-    .label = අභිප්‍රේත
 
 containers-remove-button =
     .label = ඉවත් කරන්න
@@ -651,14 +604,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = සුරැකි පිවිසුම්…
     .accesskey = L
-forms-master-pw-use =
-    .label = ප්‍රධාන රහස්පදය භාවිතා කරන්න
-    .accesskey = U
 forms-master-pw-change =
     .label = ප්‍රධාන රහස්පදය වෙනස්කරන්න...
     .accesskey = M
-
-forms-master-pw-fips-title = You are currently in FIPS mode. FIPS requires a non-empty Master Password.
 
 forms-master-pw-fips-desc = රහස්පදය වෙනස් කිරීම අසාර්තකයි
 
@@ -713,10 +661,6 @@ sitedata-clear =
 sitedata-settings =
     .label = දත්ත කළමනාකරණය කරන්න...
     .accesskey = M
-
-sitedata-cookies-permissions =
-    .label = බලතල කළමනාකරණය...
-    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -807,8 +751,6 @@ permissions-addon-exceptions =
     .label = හැරදැමීම්...
     .accesskey = E
 
-permissions-a11y-privacy-link = තවත් දැනගන්න
-
 ## Privacy Section - Data Collection
 
 collection-privacy-notice = පෞද්ගලිකත්ව දැනුම්දීම
@@ -816,8 +758,6 @@ collection-privacy-notice = පෞද්ගලිකත්ව දැනුම්
 collection-health-report-link = තවත් දැනගන්න
 
 addon-recommendations-link = තවත් දැනගන්න
-
-collection-backlogged-crash-reports-link = තවත් දැනගන්න
 
 ## Privacy Section - Security
 ##
@@ -840,16 +780,6 @@ security-block-uncommon-software =
 
 certs-header = සහතික
 
-certs-personal-label = සේවාදායකයක් වෙතින් ඔබේ පුද්ගලික සහතික ඉල්ලාසිටින විට
-
-certs-select-auto-option =
-    .label = එකක් ස්වයංක්‍රීයව තෝරන්න
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = සැමවිටම ඔබෙන් විමසන්න
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = සහතිකයන්හි වත්මන් වලංගුභාවය තහවුරු කිරීම සඳහා OCSP ප්‍රතිචාර සේවාදායක විමසන්න
     .accesskey = Q
@@ -861,26 +791,6 @@ certs-view =
 certs-devices =
     .label = ආරක්ෂක උපාංග…
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = තවත් දැනගන්න
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] විකල්ප විවෘත කරන්න
-           *[other] අභිප්‍රේත විවෘත කරන්න
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-under-5gb-ok-button =
-    .label = හරි, පැහැදිලියි
-    .accesskey = K
 
 ## Privacy Section - HTTPS-Only
 

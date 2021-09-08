@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = පිටුවක් පසුපසට
-    .aria-label = ආපසු
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = පිටුවක් ඉදිරියට
-    .aria-label = ඉදිරියට
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = පිටුව සුරකින්න...
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = නව පුද්ගලික කවුළුවක විවෘත කරන්න
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = මෙම පුරුක පිටු සලකුණු කරන්න
-    .accesskey = L
-
 main-context-menu-save-link =
     .label = සබැඳුම සුරකින අයුර...
     .accesskey = k
@@ -181,10 +152,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = විද්‍යුත් තැපැල් ලිපිනය පිටපත් කරන්න
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = පුරුකේ ස්ථානය පිටපත් කරන්න
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -209,32 +176,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = නිහඬ නොකරන්න
     .accesskey = m
-
-main-context-menu-media-play-speed =
-    .label = වාදන වේගය
-    .accesskey = d
-
-main-context-menu-media-play-speed-slow =
-    .label = සෙමින් (0.5×)
-    .accesskey = S
-
-main-context-menu-media-play-speed-normal =
-    .label = සාමාන්‍ය
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = වේගවත් (1.25×)
-    .accesskey = F
-
-main-context-menu-media-play-speed-faster =
-    .label = වඩා වේගවත් (1.5×)
-    .accesskey = a
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Ludicrous (2×)
-    .accesskey = L
 
 main-context-menu-media-loop =
     .label = ලූපය
@@ -265,29 +206,9 @@ main-context-menu-image-reload =
     .label = පිතුර යළි පූරණය
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = රූපය පෙන්වන්න
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = දෘශ්‍ය දර්ශනය
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = රූපය පිටපත් කරන්න
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = රූපයෙ ස්ථානය පිටපත් කරන්න
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = දෘශ්‍ය පිහිටුම පිටපත් කරන්න
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = ශ්‍රව්‍ය පිහිටුම පිටපත් කරන්න
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = රූපය සුරකින අයුර...
@@ -296,10 +217,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = රූපය ඊමේල් කරන්න...
     .accesskey = g
-
-main-context-menu-image-set-as-background =
-    .label = තිරයේ පසුබිමසේ සකසන්න...
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = රූපයේ තොරතුරු පෙන්වන්න
@@ -316,10 +233,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = ශ්‍රව්‍ය සුරකින අයුර…
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = ඡායාරූපය සුරකින්නේ මෙලෙස…
-    .accesskey = S
 
 main-context-menu-video-email =
     .label = වීඩියෝ ඊමේල් කරන්න...
@@ -340,10 +253,6 @@ main-context-menu-plugin-hide =
 main-context-menu-send-to-device =
     .label = පිටුව උපාංගයට යවන්න
     .accesskey = D
-
-main-context-menu-view-background-image =
-    .label = පසුබිමේ රූපය පෙන්වන්න
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -408,10 +317,6 @@ main-context-menu-view-page-source =
     .label = පිටුවේ මූලය ‌පෙන්වන්න
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = පිටුවේ තොරතුරු පෙන්වන්න
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = පෙළ දිශාව හරවන්න
     .accesskey = w
@@ -420,10 +325,7 @@ main-context-menu-bidi-switch-page =
     .label = පිටු දිශාව හරවන්න
     .accesskey = D
 
-main-context-menu-inspect-element =
-    .label = මෙම අංගය පරීක්ෂා කරන්න
-    .accesskey = Q
-
 main-context-menu-eme-learn-more =
     .label = DRM පිළිබඳ වැඩිදුර දැනගන්න...
     .accesskey = D
+

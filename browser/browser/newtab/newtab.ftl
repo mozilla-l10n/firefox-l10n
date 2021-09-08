@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = සොයන්න
     .aria-label = සොයන්න
 
-newtab-search-box-search-the-web-text = ජාලය තුළ සොයන්න
-
 newtab-search-box-search-the-web-input =
     .placeholder = ජාලය තුළ සොයන්න
     .title = ජාලය තුළ සොයන්න

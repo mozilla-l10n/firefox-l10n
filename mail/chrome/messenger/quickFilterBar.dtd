@@ -2,17 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
-     This is the base of the empty text for the text search box.  We replace
-     #1 with the contents of the appropriate
-     quickFilterBar.textbox.emptyText.keyLabel.* value for the platform.
-     The goal is to convey to the user that typing in the box will filter
-     the messages and that there is a hotkey they can press to get to the
-     box faster.
-     -->
-<!ENTITY quickFilterBar.qfbShowFilterBar.label
-         "ක්ෂණික පෙරහන">
-
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.

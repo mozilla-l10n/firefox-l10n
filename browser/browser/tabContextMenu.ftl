@@ -33,13 +33,6 @@ move-to-new-window =
     .label = නව කවුළුවකට යන්න
     .accesskey = W
 
-close-tab =
-    .label = ටැබය වසන්න
-    .accesskey = C
-close-tabs =
-    .label = ටැබ් වසන්න
-    .accesskey = S
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
