@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = OTR atslēgas pirkstu nospiedumi no iepriekšējām tiešās saziņas šifrētām sarunām.
 
-finger-screenName =
-    .label = Kontakts
-
 finger-verified =
     .label = Pārbaudes statuss
 finger-fingerprint =

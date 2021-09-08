@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "t">
 <!ENTITY deleteCmd.label          "Dzēst">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY preferencesCmd2.label "Iestatījumi">
-<!ENTITY preferencesCmd2.accesskey "I">
-<!ENTITY preferencesCmdUnix.label       "Iestatījumi">
-<!ENTITY preferencesCmdUnix.accesskey     "I">
 <!ENTITY customizeCmd.label "Pielāgot">
 <!ENTITY customizeCmd.accesskey "P">
 

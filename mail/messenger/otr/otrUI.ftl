@@ -8,16 +8,13 @@ auth-label = Pārbaudīt kontaktpersonas identitāti
 reauth-label = Pārbaudīt kontaktpersonas identitāti
 
 auth-cancel = Atcelt
-auth-cancelAccessKey = A
 
 auth-error = Pārbaudot kontaktpersonas identitāti, radās kļūda.
 auth-success = Jūsu kontaktpersonas identitāte ir veiksmīgi pārbaudīta.
-auth-successThem = Jūsu kontaktpersona ir veiksmīgi pārbaudījusi jūsu identitāti. Arī jūs varat pārbaudīt tās identitāti, uzdodot savu jautājumu.
 auth-fail = Neizdevās pārbaudīt jūsu kontaktpersonas identitāti.
 auth-waiting = Gaida uz kontaktpersonu, lai pabeigtu pārbaudi…
 
 finger-verify = Pārbaudīt
-finger-verify-accessKey = P
 
 # Do not translate 'OTR' (name of an encryption protocol)
 buddycontextmenu-label = Pievienot OTR pirkstu nospiedumu
@@ -32,17 +29,11 @@ alert-refresh = Mēģinu atsvaidzināt šifrētu sarunu ar { $name }.
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-alert-gone_insecure = Šifrētā saruna ar { $name } ir beigusies.
-
-# Variables:
-#   $name (String) - the screen name of a chat contact person
 finger-unseen = { $name } identitāte vēl nav pārbaudīta. Nejauša noklausīšanās nav iespējama, taču ar zināmu piepūli kāds varētu klausīties. Novērsiet novērošanu, pārbaudot šī kontakta identitāti.
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-seen = { $name } sazinās ar jums no neatpazīta datora. Nejauša noklausīšanās nav iespējama, taču ar zināmu piepūli kāds varētu klausīties. Novērsiet novērošanu, pārbaudot šī kontakta identitāti.
-
-state-not_private = Pašreizējā saruna nav privāta.
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
@@ -55,8 +46,6 @@ state-private = { $name } identitāte ir pārbaudīta. Pašreizējā saruna ir �
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-finished = { $name } ir beidzis šifrēto sarunu ar jums; jums vajadzētu darīt to pašu.
-
-state-not_private-label = Nedroša
 
 state-unverified-label = Nepārbaudīta
 state-private-label = Privāta
@@ -77,7 +66,6 @@ afterauth-unverified = { $name } identitāte nav pārbaudīta.
 verify-title = Pārbaudiet jūsu kontaktpersonas identitāti
 error-title = Kļūda
 success-title = Tiešās saziņas šifrēšana
-successThem-title = Pārbaudiet jūsu kontaktpersonas identitāti
 fail-title = Neizdevās pārbaudīt
 waiting-title = Pārbaudes pieprasījums nosūtīts
 

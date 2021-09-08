@@ -47,8 +47,6 @@ policy-DisableForgetButton = Liedz pieeju Aizmirst pogai.
 
 policy-DisableFormHistory = Neatceras meklēšanu un formu vēsturi.
 
-policy-DisableMasterPasswordCreation = Ja iestatīts, nevar iestatīt galveno paroli.
-
 policy-DisablePocket = Deaktivē iespēju saglabāt lapas Pocket.
 
 policy-DisablePrivateBrowsing = Deaktivē privāto pārūkošanu.

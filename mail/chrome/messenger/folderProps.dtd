@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Īpašības">
 
 <!ENTITY generalInfo.label                       "Galvenā informācija">
-<!ENTITY folderCharsetFallback2.label            "Atkāpšanās teksta kodējums:">
-<!ENTITY folderCharsetFallback2.accesskey        "A">
-<!ENTITY folderCharsetEnforce2.label             "Lietot kodējumu visām mapē esošajām vēstulēm (tiks ignorēti atsevišķu vēstuļu teksta kodējumi un automātiskā kodējuma noteikšana)">
-<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Pārbūvēt kopsavilkuma failu rādītāju">
 <!ENTITY folderRebuildSummaryFile2.label         "Salabot mapi">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">

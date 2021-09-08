@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Jauns">
 <!ENTITY newMenu.accesskey "J">
 <!ENTITY newMessage.label "Vēstule">
-<!ENTITY newMessage.key "V">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "V">
 <!ENTITY newContact.label "Adrešu grāmatas kontakts...">
 <!ENTITY newContact.accesskey "g">
 <!ENTITY attachMenu.label "Pievienot">
 <!ENTITY attachMenu.accesskey "P">
-<!ENTITY attachFileCmd.label "Fails(-i)…">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Failsaite">
 <!ENTITY attachCloudCmd.accesskey "s">
 <!ENTITY attachPageCmd.label "Tīmekļa lapa…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Sūtīt vēlāk">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Lapas iestatījumi…">
-<!ENTITY printSetupCmd.accesskey "i">
-<!ENTITY printPreviewCmd.label "Drukas priekšskats">
-<!ENTITY printPreviewCmd.accesskey "D">
 <!ENTITY printCmd.label "Drukāt…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "D">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Pārkārtot pielikumus…">
 <!ENTITY reorderAttachmentsCmd.accesskey "r">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Pielikumu rūts">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "r">
 <!ENTITY selectAllCmd.accesskey "v">
 <!ENTITY findBarCmd.label "Meklēt…">
 <!ENTITY findBarCmd.accesskey "M">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Pārkārtot pielikumus">
-<!ENTITY moveAttachmentTopPanelBtn.label "Pārvietot augšā">
-<!ENTITY moveAttachmentUpPanelBtn.label "Pārvietot augšup">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Pārvietot kopā">
-<!ENTITY moveAttachmentDownPanelBtn.label "Pārvietot lejup">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Pārvietot apakšā">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Konta iestatījumi">
 <!ENTITY accountManagerCmd2.accesskey "K">
 <!ENTITY accountManagerCmdUnix2.accesskey "K">
-<!ENTITY preferencesCmd2.label "Iestatījumi">
-<!ENTITY preferencesCmd2.accesskey "I">
-<!ENTITY preferencesCmdUnix.label "Iestatījumi">
-<!ENTITY preferencesCmdUnix.accesskey "I">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Sūtīt">
 <!ENTITY quoteButton.label "Citēt">
 <!ENTITY addressButton.label "Kontakti">
-<!ENTITY attachButton.label "Pievienot">
 <!ENTITY spellingButton.label "Pareizrakstība">
 <!ENTITY saveButton.label "Saglabāt">
 <!ENTITY printButton.label "Drukāt">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Sūtīt šo vēstuli vēlāk">
 <!ENTITY quoteButton.tooltip "Citēt iepriekšējo vēstuli">
 <!ENTITY addressButton.tooltip "Izvēlieties adresātu no adrešu grāmatas">
-<!ENTITY attachButton.tooltip2 "Pievienot pielikumu">
 <!ENTITY spellingButton.tooltip "Pārbaudīt atlases vai visas vēstules pareizrakstību">
 <!ENTITY saveButton.tooltip "Saglabāt šo vēstuli">
 <!ENTITY cutButton.tooltip              "Izgriezt">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Citi adresācijas lauku veidi">
 <!ENTITY fromAddr2.label "No">
 <!ENTITY fromAddr.accesskey "N">
-<!ENTITY toAddr2.label "Uz">
-<!ENTITY ccAddr2.label "Kopija">
-<!ENTITY bccAddr2.label "Slēpta kopija">
 <!ENTITY replyAddr2.label "Atbildēt uz">
 <!ENTITY newsgroupsAddr2.label "Ziņu grupa">
 <!ENTITY followupAddr2.label "Sekot">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Atlasīt visus">
 <!ENTITY selectAll.accesskey "v">
-<!ENTITY attachFile.label "Pievienot failu(-us)…">
-<!ENTITY attachFile.accesskey "f">
 <!ENTITY attachCloud.label "Failsaite…">
 <!ENTITY attachCloud.accesskey "s">
 <!ENTITY convertCloud.label "Pārveidot uz…">

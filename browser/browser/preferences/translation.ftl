@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Aizvākt visas lapas
     .accesskey = i
 
-translation-button-close =
-    .label = Aizvērt
-    .accesskey = A
-
 translation-dialog =
     .buttonlabelaccept = Aizvērt
     .buttonaccesskeyaccept = A

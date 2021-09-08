@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Privātā pārlūkošana)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Privātā pārlūkošana)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Privātā pārlūkošana)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Privātā pārlūkošana)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -122,10 +124,12 @@ urlbar-canvas-blocked =
     .tooltiptext = Šīs lapas canvas datu ieguve ir bloķēta.
 urlbar-midi-blocked =
     .tooltiptext = MIDI izmantošana šajā lapā ir bloķēta.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Rediģēt šo grāmatzīmi ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -133,12 +137,8 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
-page-action-add-to-urlbar =
-    .label = Pievienot adreses joslai
 page-action-manage-extension =
     .label = Pārvaldīt paplašinājumu…
-page-action-remove-from-urlbar =
-    .label = Novākt no adreses joslas
 
 ## Auto-hide Context Menu
 
@@ -151,18 +151,16 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string won't wrap, so if the translated string is longer,
-# consider translating it as if it said only "Search Settings".
-search-one-offs-change-settings-button =
-    .label = Mainīt meklēšanas iestatījumus
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Mainīt meklēšanas iestatījumus
+
 search-one-offs-context-open-new-tab =
     .label = Meklēt jaunā cilnē
     .accesskey = c
 search-one-offs-context-set-as-default =
     .label = Iestatīt par noklusēto meklētāju
     .accesskey = n
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -194,8 +192,7 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Rādīt redaktoru, saglabājot
     .accesskey = S
-bookmark-panel-done-button =
-    .label = Gatavs
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -212,8 +209,8 @@ identity-passive-loaded = Šīs lapas daļas (piemēram attēli) nav drošas.
 identity-active-loaded = Nedrošu elementu aizsardzība ir deaktivēta.
 identity-weak-encryption = Šī lapa izmanto vāju šifrēšanu.
 identity-insecure-login-forms = Dati, ko ievadīsiet šajā lapā nav aizsargāti un var tikt pārtverti.
+
 identity-permissions-reload-hint = Lai redzētu izmaiņas iespējams būs nepieciešama lapas pārlāde.
-identity-permissions-empty = Šai lapai nav piešķirtas nekādas īpašas atļaujas.
 identity-clear-site-data =
     .label = Notīrīt sīkdatnes un lapu datus…
 identity-remove-cert-exception =
@@ -260,12 +257,6 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = Izvēlies kameru:
-    .accesskey = k
-popup-select-microphone =
-    .value = Izvēlies mikrofonu:
-    .accesskey = m
 popup-all-windows-shared = Visi uz ekrāna redzamie logi tiks koplietoti.
 
 ## WebRTC window or screen share tab switch warning
@@ -276,23 +267,23 @@ popup-all-windows-shared = Visi uz ekrāna redzamie logi tiks koplietoti.
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
-urlbar-remote-control-notification-anchor =
-    .tooltiptext = Pārlūks tiek attālināti kontrolēts
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Meklēt ar { $name } vai ievadiet mājas lapas adresi
+
 urlbar-switch-to-tab =
     .value = Pārslēgties uz cilni:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Paplašinājums:
+
 urlbar-go-button =
     .tooltiptext = Pāriet uz adresi, kas redzama vietas joslā
 urlbar-page-action-button =
@@ -324,9 +315,12 @@ urlbar-result-action-visit = Apmeklēt
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ir pa visu ekrānu
 fullscreen-warning-no-domain = Šis dokuments ir pa visu ekrānu
+
+
 fullscreen-exit-button = Iziet no pilnā ekrāna (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Iziet no pilnā ekrāna (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -372,6 +366,7 @@ bookmarks-tools =
     .label = Grāmatzīmju rīki
 bookmarks-bookmark-edit-panel =
     .label = Rediģēt šo grāmatzīmi
+
 bookmarks-toolbar-menu =
     .label = Grāmatzīmju rīkjosla
 bookmarks-toolbar-placeholder =
@@ -398,6 +393,7 @@ library-bookmarks-menu =
 more-menu-go-offline =
     .label = Strādāt nesaistē
     .accesskey = r
+
 toolbar-overflow-customize-button =
     .label = Pielāgot rīkjoslu…
     .accesskey = P
@@ -426,6 +422,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Pieņemt jaunos logus no { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Bloķēt jaunos logus no { $uriHost }
     .accesskey = p
@@ -435,3 +432,4 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Nerādīt šo paziņojumu, bloķējot jaunos logus
     .accesskey = D
+

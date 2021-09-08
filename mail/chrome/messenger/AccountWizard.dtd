@@ -17,9 +17,6 @@
 <!ENTITY accountTypeMail.accesskey "E">
 <!ENTITY accountTypeNews.label "Ziņu grupas konts">
 <!ENTITY accountTypeNews.accesskey "Z">
-<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
-<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
-<!ENTITY accountTypeMovemail.accesskey "U">
 
 <!-- Entities for Identity page -->
 

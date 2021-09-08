@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Lapām būs vēlreiz jāielādē attēli un dati
 
-clear-site-data-cancel =
-    .label = Atcelt
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Notīrīt
-    .accesskey = t
-
 clear-site-data-dialog =
     .buttonlabelaccept = Notīrīt
     .buttonaccesskeyaccept = t

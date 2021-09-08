@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Sans Serif
 
-font-size-label =
-    .value = Izmērs:
-    .accesskey = i
-
 font-size-monospace-label =
     .value = Izmērs:
     .accesskey = i

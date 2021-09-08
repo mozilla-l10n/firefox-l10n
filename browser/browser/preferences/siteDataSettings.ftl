@@ -27,14 +27,6 @@ site-data-remove-selected =
     .label = Izņemt izvēlēto
     .accesskey = I
 
-site-data-button-cancel =
-    .label = Atcelt
-    .accesskey = C
-
-site-data-button-save =
-    .label = Saglabāt izmaiņas
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = Saglabāt izmaiņas
     .buttonaccesskeyaccept = a

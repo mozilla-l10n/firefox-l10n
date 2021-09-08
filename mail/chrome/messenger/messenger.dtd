@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Drukāt...">
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Drukas priekšskats">
-<!ENTITY printPreviewCmd.accesskey "D">
-<!ENTITY printSetupCmd.label "Lapas iestatījumi…">
-<!ENTITY printSetupCmd.accesskey "L">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Dzēst vēstuli">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Kompakts skats">
 <!ENTITY compactVersion.accesskey "K">
-<!ENTITY folderPaneBar.label "Mapju rūts rīkjosla">
-<!ENTITY folderPaneBar.accesskey "M">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Kārtot pēc">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Adrešu grāmata">
 <!ENTITY addressBookCmd.accesskey "g">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Papildinājumi">
-<!ENTITY addons.accesskey "P">
-<!ENTITY addonPrefs.label "Papildinājumu iespējas">
-<!ENTITY addonPrefs.accesskey "i">
-<!ENTITY addonPrefsUnix.label "Papildinājumu iestatījumi">
-<!ENTITY addonPrefsUnix.accesskey "i">
 <!ENTITY addonNoPrefs.label "Papildinājumu iestatījumi nav atrasti.">
 <!ENTITY activitymanager.label "Darbību pārvaldnieks">
 <!ENTITY activitymanager.accesskey "D">
@@ -520,8 +508,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Atkļūdot papildinājumus">
 <!ENTITY debugAddonsCmd.accesskey "A">
-<!ENTITY tabsDebugCmd.label "Satura rāmja atkļūdotājs">
-<!ENTITY tabsDebugCmd.accesskey "S">
 <!ENTITY errorConsoleCmd.label "Kļūdu konsole">
 <!ENTITY errorConsoleCmd.accesskey "K">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -545,15 +531,11 @@
 <!ENTITY backButton1.label "Atpakaļ">
 <!ENTITY goForwardButton1.label "Uz priekšu">
 <!ENTITY deleteItem.title "Dzēst">
-<!ENTITY deleteButton.label "Dzēst">
-<!ENTITY undeleteButton.label "Atdzēst">
 <!ENTITY markButton.label "Atzīmēt">
 <!ENTITY printButton.label "Drukāt">
 <!ENTITY stopButton.label "Apturēt">
 <!ENTITY throbberItem.title "Darbību rādītājs">
 <!ENTITY junkItem.title "Draza">
-<!ENTITY junkButton.label "Draza">
-<!ENTITY notJunkButton.label "Nedraza">
 <!ENTITY addressBookButton.label "Adrešu grāmata">
 <!ENTITY chatButton.label "Tērzēšana">
 <!ENTITY glodaSearch.title "Globālā meklēšana">
@@ -585,19 +567,14 @@
 <!ENTITY previousMsgButton.tooltip "Pāriet uz iepriekšējo vēstuli">
 <!ENTITY goForwardButton.tooltip "Doties vienu vēstuli uz priekšu">
 <!ENTITY goBackButton.tooltip "Doties vienu vēstuli atpakaļ">
-<!ENTITY deleteButton.tooltip "Dzēst atlasīto vēstuli vai mapi">
-<!ENTITY undeleteButton.tooltip "Atsaukt atlasītās vēstules dzēšanu">
 <!ENTITY markButton.tooltip "Atzīmēt vēstules">
 <!ENTITY printButton.tooltip "Drukāt šo vēstuli">
 <!ENTITY stopButton.tooltip "Pārtraukt pašreizējo pārsūtīšanu">
-<!ENTITY junkButton.tooltip "Atzīmēt atlasītās vēstules kā drazu">
-<!ENTITY notJunkButton.tooltip "Atzīmēt atlasītās vēstules kā nedrazu">
 <!ENTITY addressBookButton.tooltip "Doties uz adrešu grāmatu">
 <!ENTITY chatButton.tooltip "Rādīt Tērzēšana cilni">
 <!ENTITY tagButton.tooltip "Birkot vēstules">
 <!ENTITY compactButton.tooltip "Noņemt dzēstās vēstules no atlasītās mapes">
 <!ENTITY appmenuButton1.tooltip "Parādīt &brandShortName; izvēlni">
-<!ENTITY addonsButton.tooltip "Pārvaldīt papildinājumus">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Pārsūtīt iekļauti">

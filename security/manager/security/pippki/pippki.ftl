@@ -6,9 +6,6 @@ password-quality-meter = Paroles kvalitātes mērītājs
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Mainīt galveno paroli
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Drošības ierīce: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Jaunā parole (vēlreiz):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Atstatīt galveno paroli
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Atstatīt
-reset-password-text = Ja atstatīsiet galveno paroli, tiks aizmirstas visas saglabātās tīmekļa un e-pasta paroles, formu dati, personīgie sertifikāti un privātās atslēgas.  Vai esat pārliecināts, ka vēlaties atstatīt galveno paroli?
 
 ## Downloading cert dialog
 

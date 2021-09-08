@@ -7,20 +7,12 @@ about-logins-page-title = Lietotājvārdi un paroles
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Paņemiet paroles sev līdz
-login-app-promo-subtitle = Iegūstiet bezmaksas { -lockwise-brand-name } lietotni
-login-app-promo-android =
-    .alt = Iegūstiet to no Google Play
-login-app-promo-apple =
-    .alt = Lejupielādējiet no App Store
-
 login-filter =
     .placeholder = Meklēt lietotājvārdus
 
 create-login-button = Izveidot jaunu pieteikšanos
 
 fxaccounts-sign-in-text = Iegūstiet savas paroles citās ierīcēs
-fxaccounts-sign-in-button = Pierakstīties { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Pārvaldīt kontu
 
@@ -39,8 +31,6 @@ menu-menuitem-preferences =
        *[other] Izvēles
     }
 about-logins-menu-menuitem-help = Palīdzība
-menu-menuitem-android-app = { -lockwise-brand-short-name } priekš Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } priekš iPhone un iPad
 
 ## Login List
 
@@ -71,8 +61,6 @@ about-logins-list-item-vulnerable-password-icon =
     .title = Neaizsargāta parole
 
 ## Introduction screen
-
-login-intro-heading = Vai meklējat savus saglabātos pieteikumvārdus? Iestatiet { -sync-brand-short-name }.
 
 ## Login
 

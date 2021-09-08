@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Atvērt izvēlni">
-
 <!ENTITY navbarOverflow.label                "Citi rīki…">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Pielīmēt cilni">
-<!ENTITY  unpinTab.label                     "Atbrīvot cilni">
 
 <!ENTITY  listAllTabs.label      "Visu ciļņu saraksts">
 
@@ -25,44 +15,11 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Atvērt failu…">
 <!ENTITY printCmd.label "Drukāt…">
 
-<!ENTITY taskManagerCmd.label "Uzdevumu pārvaldnieks">
-
 <!ENTITY menubarCmd.label "Izvēlne">
 <!ENTITY menubarCmd.accesskey "I">
-<!ENTITY personalbarCmd.label "Grāmatzīmju rīkjosla">
-<!ENTITY personalbarCmd.accesskey "G">
-<!ENTITY bookmarksToolbarItem.label "Grāmatzīmju rīkjoslas elementi">
 
 <!ENTITY fullScreenCmd.label "Pa visu ekrānu">
 
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "ir pa visu ekrānu">
-<!ENTITY fullscreenWarning.generic.label "Šis dokuments ir pa visu ekrānu">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Iziet no pilnā ekrāna (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Iziet no pilnā ekrāna (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "kontrolē kursoru. Nospiediet taustiņu Esc, lai atgūtu kontroli.">
-<!ENTITY pointerlockWarning.generic.label "Šis dokuments kontrolē kursoru. Nospiediet taustiņu Esc, lai atgūtu kontroli.">
-
-<!ENTITY showAllBookmarks2.label "Rādīt visas grāmatzīmes">
-<!ENTITY recentBookmarks.label "Nesen saglabātās">
-<!ENTITY bookmarksToolbarChevron.tooltip "Rādīt vairāk grāmatzīmju">
 
 <!ENTITY printButton.label            "Drukāt">
 <!ENTITY printButton.tooltip          "Drukāt šo lapu">
@@ -74,28 +31,12 @@ can reach it easily. -->
 <!ENTITY homeButton.label             "Sākumlapa">
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; sākumlapa">
 
-<!ENTITY bookmarksButton.label          "Grāmatzīmes">
-
-<!ENTITY bookmarksSubview.label             "Grāmatzīmes">
-<!ENTITY bookmarksMenuButton2.label         "Grāmatzīmju izvēlne">
-<!ENTITY bookmarksMenuButton.other.label    "Citas grāmatzīmes">
-<!ENTITY bookmarksMenuButton.mobile.label   "Mobilās grāmatzīmes">
-<!ENTITY viewBookmarksSidebar2.label        "Atvērt grāmatzīmes sānjoslā">
-<!ENTITY hideBookmarksSidebar.label         "Paslēpt grāmatzīmju sānjoslu">
-<!ENTITY viewBookmarksToolbar.label         "Attēlo grāmatzīmes sānu joslā">
-<!ENTITY hideBookmarksToolbar.label         "Paslēpt grāmatzīmju sānjoslu">
-<!ENTITY searchBookmarks.label              "Meklēt grāmatzīmes">
-<!ENTITY bookmarkingTools.label             "Grāmatzīmju rīki">
-<!ENTITY addBookmarksMenu.label             "Pievienot grāmatzīmju izvēlni rīkjoslai">
-<!ENTITY removeBookmarksMenu.label          "Aizvākt grāmatzīmju izvēlni no rīkjoslas">
-
 <!ENTITY historyButton.label            "Vēsture">
 
 <!ENTITY downloads.label              "Lejupielādes">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Lejupielādes">
-<!ENTITY addons.label                 "Papildinājumi">
 
 <!ENTITY webDeveloperMenu.label       "Izstrādātāju rīki">
 
@@ -111,27 +52,11 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "Vēsture">
 
-<!ENTITY historyUndoMenu.label "Nesen aizvērtās cilnes">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Nesen aizvērtie logi">
-
-<!ENTITY appMenuHistory.showAll.label "Parādīt visu vēsturi">
-
-<!ENTITY appMenuHistory.clearRecent.label "Dzēst neseno vēsturi…">
-<!ENTITY appMenuHistory.restoreSession.label "Atjaunot iepriekšējo sesiju">
-<!ENTITY appMenuHistory.viewSidebar.label "Rādīt vēstures sānjoslu">
-<!ENTITY appMenuHistory.recentHistory.label "Nesenā vēsture">
-
 <!ENTITY appMenuHelp.label "Palīdzība">
-
-<!ENTITY appMenuRemoteTabs.label "Sinhronizētās cilnes">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nav atvērto cilņu">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Rādīt vairāk">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Rādīt vairāk cilnes no šīs ierīces">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -146,11 +71,7 @@ can reach it easily. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Gribat redzēt cilnes no citām savām ierīcēm?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Atvērt Sync iestatījumus">
 <!ENTITY appMenuRemoteTabs.unverified.label "Jūsu kontam nepieciešams apstiprinājums.">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Pārvaldīt ierīces…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Rādīt sinhronizēto cilņu sānu joslu">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Savienot citu ierīci">
-
-<!ENTITY appMenuRecentHighlights.label "Nesenie jaunumi">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pievienot rīkjoslai">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -162,8 +83,6 @@ can reach it easily. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Atslēgt no izvēlnes">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "Aizvākt no rīkjoslas">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Pievienot citas lietas…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
 
@@ -181,10 +100,6 @@ can reach it easily. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "c">
 
-<!ENTITY pageAction.copyLink.label    "Kopēt saiti">
-
-<!ENTITY emailPageCmd.label           "Nosūtīt saiti…">
-
 <!-- Media (video/audio) controls -->
 
 <!-- LOCALIZATION NOTE :
@@ -196,13 +111,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Mērogs">
 
 <!ENTITY sidebarCloseButton.tooltip     "Aizvērt sānu joslu">
-
-<!ENTITY quitApplicationCmdWin2.label       "Iziet">
-<!ENTITY quitApplicationCmdWin2.accesskey   "z">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Aizvērt &brandShorterName;">
-<!ENTITY quitApplicationCmd.label       "Iziet">
-<!ENTITY quitApplicationCmd.accesskey   "e">
-<!ENTITY quitApplicationCmdMac2.label   "Iziet no &brandShorterName;">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -224,27 +132,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Pārlūka cilnes">
 
 
-<!ENTITY syncBrand.shortName.label    "Sinhronizēt">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "Auto slēpšana">
-
-
 <!ENTITY uiTour.infoPanel.close "Aizvērt">
 
 <!ENTITY panicButton.thankyou.msg1                "Jūsu nesenā vēsture ir notīrīta.">
 <!ENTITY panicButton.thankyou.msg2                "Sērfojiet droši!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Paldies!">
 
-<!ENTITY updateAvailable.panelUI.label "Lejupielādē &brandShorterName; atjauninājumu">
-
-<!ENTITY updateManual.panelUI.label "Lejupielādējiet jaunu &brandShorterName; versiju">
-
-<!ENTITY updateRestart.panelUI.label2 "Pārstartēt &brandShorterName;, lai atjauninātu">
-
 <!ENTITY sendToDevice.syncNotReady.label "Sinhronizē ierīces…">
-
-<!ENTITY pageAction.shareUrl.label "Dalīties">
-<!ENTITY pageAction.shareMore.label "Vairāk…">
 
 <!ENTITY libraryButton.tooltip "Skatīt vēsturi, saglabātās grāmatzīmes un daudz ko citu">
 

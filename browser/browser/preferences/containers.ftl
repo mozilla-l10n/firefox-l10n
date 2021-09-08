@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Pievienot jaunu konteineru
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } konteinera iestatījumi
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Ikona
 containers-color-label = Krāsa
     .accesskey = r
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Gatavs
-    .accesskey = G
 
 containers-dialog =
     .buttonlabelaccept = Gatavs

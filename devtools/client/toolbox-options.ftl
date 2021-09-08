@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Ekrānattēla uzvedība
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Ekrānattēls uz starpliktuvi
-options-screenshot-clipboard-tooltip =
-    .title = Saglabā ekrānattēlu starpliktuvē (datora atmiņā)
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Atskaņot fotografēšanas skaņu
 options-screenshot-audio-tooltip =

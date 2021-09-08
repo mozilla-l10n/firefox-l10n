@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Sērijas numurs
 
-fips-nonempty-password-required = FIPS režīms pieprasa, ka katrai drošības ierīcei ir iestatīta galvenā parole. Pirms ieslēgt FIPS režīmu, lūdzu, iestatiet paroli.
-
 unable-to-toggle-fips = Nevar pārslēgt FIPS režīmu drošības ierīcei. Iesakām aizvērt un pārstartēt programmu.
 load-pk11-module-file-picker-title = Izvēlieties ielādējamo PKCS#11 ierīci
 

@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Turpināt
     .buttonaccesskeyaccept = T
 
-carddav-experimental-warning = CardDAV adrešu grāmatas atbalsts ir eksperimentāls un var neatgriezeniski sabojāt jūsu datus. Izmantojiet uz savu risku.
-
-carddav-provider-label =
-    .value = CardDAV sniedzējs:
-    .accesskey = P
-
-carddav-provider-option-other = Cits sniedzējs…
-
-carddav-url-label =
-    .value = CardDAV URL:
-    .accesskey = U
-
 carddav-username-label =
     .value = Lietotājvārds:
     .accesskey = L
-carddav-username-input =
-    .placeholder = jus@piemers.lv
-
-carddav-password-label =
-    .value = Parole:
-    .accesskey = p
-carddav-password-input =
-    .placeholder = Parole
-
-carddav-remember-password =
-    .label = Atcerēties paroli
-    .accesskey = a
 
 carddav-loading = Meklēju iestatījumus…
 carddav-connection-error = Neizdevās savienoties.

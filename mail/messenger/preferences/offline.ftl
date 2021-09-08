@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Automātiski sekot vai parādās tiešsaiste
     .accesskey = A
 
-startup-label = Manuāls stāvoklis, startējot:
-
 status-radio-remember =
     .label = Atcerēties iepriekšējo tiešsaistes stāvokli
     .accesskey = t

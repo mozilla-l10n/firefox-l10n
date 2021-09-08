@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Aizvērt
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opcijas
-           *[other] Iestatījumi
-        }
-
 category-list =
     .aria-label = Kategorijas
 
@@ -132,20 +125,9 @@ update-in-progress-ok-button = &Izmest
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Turpināt
 
-addons-button = Paplašinājumi un tēmas
-
 account-button = Konta iestatījumi
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Lai izveidotu galveno paroli, ievadiet Windows pieteikšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = Izveidot galveno paroli
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Lai izveidotu galveno paroli, ievadiet Windows pieteikšanās akreditācijas datus. Tas palīdz aizsargāt jūsu kontu drošību.
@@ -216,10 +198,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Pielāgot…
     .accesskey = P
-
-tray-icon-label =
-    .label = Rādīt paplātes ikonu
-    .accesskey = p
 
 mail-system-sound-label =
     .label = Jauna pasta noklusētā sistēmas skaņa
@@ -409,9 +387,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Krāsa:
     .accesskey = K
-
-search-input =
-    .placeholder = Meklēt
 
 type-column-label =
     .label = Satura veids
@@ -700,16 +675,6 @@ passwords-button =
     .label = Saglabātās paroles…
     .accesskey = S
 
-master-password-description = Galvenā parole aizsargā visas jūsu paroles, bet sesijas laikā tā jāievada tikai vienreiz.
-
-master-password-label =
-    .label = Lietot galveno paroli
-    .accesskey = L
-
-master-password-button =
-    .label = Mainīt galveno paroli…
-    .accesskey = M
-
 
 primary-password-description = Galvenā parole aizsargā visas jūsu paroles, bet sesijas laikā tā jāievada tikai vienreiz.
 
@@ -890,26 +855,6 @@ no-preview-description = Šī tēma nav derīga vai pašlaik nav pieejama (atsp�
 chat-variant-label =
     .value = Variants:
     .accesskey = V
-
-chat-header-label =
-    .label = Rādīt galveni
-    .accesskey = g
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Meklēt iespējās
-           *[other] Meklēt iespējās
-        }
 
 ## Preferences UI Search Results
 

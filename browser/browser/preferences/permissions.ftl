@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Aizvākt visas lapas
     .accesskey = k
 
-permissions-button-cancel =
-    .label = Atcelt
-    .accesskey = c
-
-permissions-button-ok =
-    .label = Saglabāt izmaiņas
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Saglabāt izmaiņas
     .buttonaccesskeyaccept = S

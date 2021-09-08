@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Meklēt
     .aria-label = Meklēt
 
-newtab-search-box-search-the-web-text = Meklēt internetā
-
 newtab-search-box-search-the-web-input =
     .placeholder = Meklēt internetā
     .title = Meklēt internetā
