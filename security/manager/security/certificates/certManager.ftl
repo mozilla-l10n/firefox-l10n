@@ -11,22 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Beng ba Dithata
 
-certmgr-subject-label = Rebotswe Go
-
-certmgr-issuer-label = Rebotswe Ke
-
-certmgr-fingerprints = Dikgatiso tsa menwana
-
-certmgr-cert-detail-commonname = Leina le le Tlwaelegileng (CN)
-
-certmgr-cert-detail-org = Setlamo (O)
-
-certmgr-cert-detail-orgunit = Yuniti ya Setlamo (OU)
-
-certmgr-cert-detail-serial-number = Palopopo
-
-certmgr-cert-detail-sha-1-fingerprint = Kgatiso ya monwana ya SHA1
-
 certmgr-edit-ca-cert =
     .title = Tseleganya boalo jwa boikanyego jwa setifikeiti sa CA
     .style = width: 48em;
@@ -45,8 +29,6 @@ certmgr-cert-name =
 
 certmgr-token-name =
     .label = Sediriswa sa Pabalesego
-
-certmgr-expires-on = Khutla go dira ka La
 
 certmgr-expires-label =
     .label = Khutla go dira ka La
@@ -98,38 +80,6 @@ delete-email-cert-confirm = A o totobetse gore o batla go phimola ditifikeiti ts
 delete-email-cert-impact = Fa o phimola setifikeiti sa poso ya eleketoroniki, o ka seke wa tlhola o kgona go romelela batho bao poso ya eleketoroniki e e sireleditsweng.
 
 ## Cert Viewer
-
-not-present =
-    .value = <Ga se Karolo ya Setifikeiti>
-
-# Cert verification
-cert-verified = Setifikeiti seno se tlhomamiseditswe go dirisediwa tse di latelang:
-
-# Add usage
-verify-ssl-client =
-    .value = Setifikeiti sa Sedirelwa sa SSL
-
-verify-ssl-server =
-    .value = Setifikeiti sa Sefara ya SSL
-
-verify-ssl-ca =
-    .value = Tetla ya Setifikeiti sa SSL
-
-verify-email-signer =
-    .value = Setifikeiti sa mosaeni wa Imeile
-
-verify-email-recip =
-    .value = Setifikeiti sa Moamogedi sa Imeile
-
-# Cert verification
-cert-not-verified-cert-revoked = Ga e a kgona go tlhomamisa setifikeiti seno gonne se gogetswe morago.
-cert-not-verified-cert-expired = Ga e a kgona go tlhomamisa setifikeiti seno gonne se feletswe ke nako.
-cert-not-verified-cert-not-trusted = Ga e a kgona go tlhomamisa setifikeiti seno gonne ga se ikanyege.
-cert-not-verified-issuer-not-trusted = Ga e a kgona go tlhomamisa setifikeiti seno gonne morebodi ga a ikanyege.
-cert-not-verified-issuer-unknown = Ga e a kgona go tlhomamisa setifikeiti seno gonne morebodi ga a itsiwe.
-cert-not-verified-ca-invalid = Ga e a kgona go tlhomamisa setifikeiti seno gonne setifikeiti sa CA ga se sa boammaaruri.
-cert-not-verified_algorithm-disabled = Ga e a kgona go tlhotlhomisa setifikeiti se ka gore se saenilwe go dirisiwa tshaeno ya bothatatharabololo jo bo kganetsweng go dira ka ntata ya gore bothatatharabololo jo ga bo a sireletsega.
-cert-not-verified-unknown = Ga e a kgona go tlhomamisa setifikeiti seno ka ntlha ya mabaka a a sa itsiweng.
 
 ## Used to show whether an override is temporary or permanent
 

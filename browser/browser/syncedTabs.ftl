@@ -5,4 +5,3 @@
 synced-tabs-context-sync-now =
     .label = Rulaganya ka tsamaisano gone Jaana
     .accesskey = R
-fxa-sign-in = Tsena tirong mo { -sync-brand-short-name }

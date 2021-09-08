@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Patlo ya Poraefete)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Patlo ya Poraefete)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Patlo ya Poraefete)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Patlo ya Poraefete)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -81,6 +83,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tseleganya letshwaotsebe le ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -100,10 +103,6 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string won't wrap, so if the translated string is longer,
-# consider translating it as if it said only "Search Settings".
-search-one-offs-change-settings-button =
-    .label = Fetola Dithulaganyo tsa Patlo
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -128,6 +127,7 @@ identity-active-blocked = { -brand-short-name } e kgoreleditse dikarolo tsa tseb
 identity-passive-loaded = Dikarolo tsa tsebe e ga di a sireletsega (jaaka ditshwantsho).
 identity-active-loaded = O thibetse go dira ga tshireletso mo tsebeng e.
 identity-weak-encryption = Tsebe eno e dirisa mokgwatshireletso o bokoa.
+
 identity-description-insecure = Kgolagano ya gago mo saete eno ga e poraefete. Tshedimosetso e o e romelang e ka lebiwa ke batho ba bangwe (jaaka dikhunololamoraba, melaetsa, dikaratamolato, le tse dingwe.).
 identity-description-weak-cipher-intro = Kgolagano ya gago mo saete eno e dirisa mokgwatshireletso o bokoa gape ga e poraefete.
 identity-description-weak-cipher-risk = Batho bangwe ba kgona go leba tshedimosetso ya gago kgotsa go fetola tiro - tsamaiso ya webosaete.
@@ -168,12 +168,6 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = Sekapa-ditshwantsho se se ka abiwang:
-    .accesskey = S
-popup-select-microphone =
-    .value = Sekapamodumo se se ka abelanwang:
-    .accesskey = S
 popup-all-windows-shared = Windows tse di bonagalang tsotlhe mo sekerini sa gago di tla abelanwa.
 
 ## WebRTC window or screen share tab switch warning
@@ -184,12 +178,12 @@ popup-all-windows-shared = Windows tse di bonagalang tsotlhe mo sekerini sa gago
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = Batla kgotsa tsenya aterese
 urlbar-placeholder =
     .placeholder = Batla kgotsa tsenya aterese
+
 urlbar-switch-to-tab =
     .value = Fetolela ko thebeng:
+
 urlbar-go-button =
     .tooltiptext = Ya ko atereseng e mo Bara ya lefelo
 
@@ -217,6 +211,8 @@ urlbar-result-action-search-w-engine = Batla ka: { $engine }
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ga jaana e mo sekerini se se tletseng
 fullscreen-warning-no-domain = Tokumente e, e mo sekerini se se tletseng
+
+
 fullscreen-exit-button = Tswaya mo sekerini se se tletseng (Tswaya)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tswaya mo sekerini se se tletseng (tswaya)
@@ -232,6 +228,7 @@ bookmarks-sidebar-content =
     .aria-label = Matshwaotsebe
 bookmarks-bookmark-edit-panel =
     .label = Tseleganya letshwaotsebe le
+
 bookmarks-toolbar-menu =
     .label = Bara ya Didirisiwa Matshwaotsebe
 bookmarks-toolbar-placeholder =
@@ -281,6 +278,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Letlelela ditlhagelelo tsa { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Thibela ditlhagelelo tsa { $uriHost }
     .accesskey = p
@@ -290,3 +288,4 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Se bontshe molaetsa o fa ditlhagelelo di thibetswe
     .accesskey = D
+

@@ -7,8 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY appmenu.tooltip                     "Bula menu">
-
 <!ENTITY navbarOverflow.label                "Didirisiwa tse dintsi...">
 
 <!-- Tab context menu -->
@@ -18,9 +16,6 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
-<!ENTITY  pinTab.label                       "Gokelela Thebe">
-<!ENTITY  unpinTab.label                     "Gokolola Thebe">
 
 
 
@@ -35,9 +30,6 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Bara ya Menu">
 <!ENTITY menubarCmd.accesskey "B">
-<!ENTITY personalbarCmd.label "Bara ya Didirisiwa Matshwaotsebe">
-<!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Bara ya Didirisiwa Matshwaotsebe le Dilwana">
 
 <!ENTITY fullScreenCmd.label "Sekerini se se Tletseng">
 
@@ -48,30 +40,15 @@ can reach it easily. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "ga jaana e mo sekerini se se tletseng">
-<!ENTITY fullscreenWarning.generic.label "Tokumente e, e mo sekerini se se tletseng">
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
-<!ENTITY exitDOMFullscreen.button "Tswaya mo sekerini se se tletseng (Tswaya)">
-<!ENTITY exitDOMFullscreenMac.button "Tswaya mo sekerini se se tletseng (tswaya)">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
-
-<!ENTITY showAllBookmarks2.label "Supa Matshwaotsebe Otlhe">
-
-
-
-<!ENTITY bookmarksToolbarChevron.tooltip "Supa matshwaotsebe a le mantsi">
 
 
 
@@ -92,13 +69,6 @@ can reach it easily. -->
 
 <!ENTITY homeButton.label             "Gae">
 
-<!ENTITY bookmarksButton.label          "Matshwaotsebe">
-
-
-<!ENTITY viewBookmarksSidebar2.label        "&amp;Leba Matshwaotsebe a Barathoko">
-
-<!ENTITY viewBookmarksToolbar.label         "&amp;Leba Matshwaotsebe a Bara ya didiriswa">
-
 
 
 
@@ -111,7 +81,6 @@ can reach it easily. -->
 <!ENTITY historyButton.label            "Tiragalo tse di fetileng">
 
 <!ENTITY downloads.label              "Dikopololo">
-<!ENTITY addons.label                 "Dioketswa">
 
 <!ENTITY webDeveloperMenu.label       "Mmopi wa Webo">
 
@@ -130,18 +99,6 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "Tiragalo Tse di Fetileng">
 
-<!ENTITY historyUndoMenu.label "Dithebe tse di tswetsweng Bosheng">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Windows tse di Tswetsweng Bosheng">
-
-<!ENTITY appMenuHistory.showAll.label "Supa Ditiragalo tse di fitileng tsotlhe">
-
-<!ENTITY appMenuHistory.clearRecent.label "Phimola Ditiragalo tsa ga jaana...">
-<!ENTITY appMenuHistory.restoreSession.label "Busetsa botlameladikopanelwa jo bo fetileng">
-<!ENTITY appMenuHistory.viewSidebar.label "Barathoko ya Tebo ya Ditiragalo tse di difetileng">
-
-
-<!ENTITY appMenuRemoteTabs.label "Rulaganya ka tsamaisano Dithebe">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -174,8 +131,6 @@ can reach it easily. -->
 
 
 
-<!ENTITY customizeMenu.removeFromToolbar.label "Tlosa mo Bara ya didirisiwa">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "T">
 <!ENTITY customizeMenu.addMoreItems.label "Tsenya Dilwana tse dintsi...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "T">
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -241,8 +196,6 @@ can reach it easily. -->
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
 
-<!ENTITY emailPageCmd.label           "Kgokagano ya Imeile...">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -273,14 +226,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Laola bogolo">
 
 <!ENTITY sidebarCloseButton.tooltip     "Tswala Barathoko">
-
-
-<!ENTITY quitApplicationCmdWin2.label       "Tswaya">
-<!ENTITY quitApplicationCmdWin2.accesskey   "s">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Tswaya &brandShorterName;">
-<!ENTITY quitApplicationCmd.label       "Tlogela">
-<!ENTITY quitApplicationCmd.accesskey   "T">
-<!ENTITY quitApplicationCmdMac2.label   "Tlogela &brandShorterName;">
 
 
 <!ENTITY allowPopups.accesskey "p">
@@ -339,9 +284,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-<!ENTITY syncBrand.shortName.label    "Rulaganya ka tsamaisano">
 
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):

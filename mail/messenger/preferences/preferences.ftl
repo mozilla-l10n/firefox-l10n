@@ -3,13 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Diitlhophelwa
-           *[other] Preferences
-        }
-
 pane-compose-title = Tlhamo
 category-compose =
     .tooltiptext = Tlhamo
@@ -54,10 +47,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Customize…
     .accesskey = C
-
-tray-icon-label =
-    .label = Show a tray icon
-    .accesskey = t
 
 mail-custom-sound-label =
     .label = Use the following sound file

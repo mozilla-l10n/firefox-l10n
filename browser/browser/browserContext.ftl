@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,9 +48,6 @@ main-context-menu-page-save =
     .label = Boloka Tsebe Jaaka…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -81,10 +66,6 @@ main-context-menu-open-link-new-private-window =
     .label = Bula Kgokagano mo Window e Ntšha ya Poraefete
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = Tshwayatsebe Kgokagano e
-    .accesskey = K
-
 main-context-menu-save-link =
     .label = Boloka Kgokagano Jaaka…
     .accesskey = k
@@ -100,10 +81,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Kopolola Imeile Aterese
     .accesskey = I
-
-main-context-menu-copy-link =
-    .label = Kopolola Kgokagano ya Lefelo
-    .accesskey = e
 
 ## Media (video/audio) controls
 ##
@@ -154,28 +131,8 @@ main-context-menu-image-reload =
     .label = Tsenya sešwa Setshwantsho
     .accesskey = T
 
-main-context-menu-image-view =
-    .label = Leba Setshwantsho
-    .accesskey = S
-
-main-context-menu-video-view =
-    .label = Leba Bidio
-    .accesskey = e
-
 main-context-menu-image-copy =
     .label = Kopolola Setshwantsho
-    .accesskey = o
-
-main-context-menu-image-copy-location =
-    .label = Kopolola Lefelo la Setshwantsho
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Kopolola Lefelo la Bidio
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Kopolola Lefelo la Modumo
     .accesskey = o
 
 main-context-menu-image-save-as =
@@ -185,10 +142,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Imeile Setshwantsho
     .accesskey = n
-
-main-context-menu-image-set-as-background =
-    .label = Tlhoma Jaaka Lemorago la Teseketopo…
-    .accesskey = T
 
 main-context-menu-image-info =
     .label = Leba Tshedimosetso ya Tsebe
@@ -206,10 +159,6 @@ main-context-menu-audio-save-as =
     .label = Boloka Modumo Jaaka...
     .accesskey = l
 
-main-context-menu-video-image-save-as =
-    .label = Boloka Setshwantshotsepamo Jaaka...
-    .accesskey = B
-
 main-context-menu-video-email =
     .label = Imeile Bidio...
     .accesskey = e
@@ -225,10 +174,6 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Fitlha kgokelo e
     .accesskey = H
-
-main-context-menu-view-background-image =
-    .label = Leba Setshwantsho sa Lemorago
-    .accesskey = L
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -288,10 +233,6 @@ main-context-menu-view-page-source =
     .label = Leba Motswedi wa Tsebe
     .accesskey = L
 
-main-context-menu-view-page-info =
-    .label = Leba Tshedimosetso ya Tsebe
-    .accesskey = T
-
 main-context-menu-bidi-switch-text =
     .label = Fetola Peomannong ya Dikwalwa
     .accesskey = e
@@ -300,10 +241,7 @@ main-context-menu-bidi-switch-page =
     .label = Fetola Ntlha Peomannong
     .accesskey = P
 
-main-context-menu-inspect-element =
-    .label = Tlhatlhoba Tlhakakaelo
-    .accesskey = Q
-
 main-context-menu-eme-learn-more =
     .label = Ithute thata ka DRM...
     .accesskey = D
+

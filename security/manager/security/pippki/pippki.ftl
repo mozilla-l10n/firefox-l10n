@@ -6,24 +6,16 @@ password-quality-meter = Tekanyetso ya boleng jwa khunololamoraba
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Fetola Khunololamoraba e Kgolo
-
 change-password-old = Khunololamoraba ya ga jaana:
 change-password-new = Khunololamoraba e ntšhwa:
 change-password-reenter = Khunololamoraba e ntšhwa (gape):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Tlhoma Khunololamoraba e Kgolo sešwa
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Tlhoma sešwa
-reset-password-text = Fa o tlhoma khunololamoraba ya gago e kgolo sešwa, dikhunololamoraba tsa gago tsotlhe tse di bolokilweng tsa inthanete le poso ya eleketoroniki, tshedimosetso ya diforomo, ditifikeiti tsa sebele, le dinotlolo tsa poraefete di tla lebalwa. A o totobetse gore o batla go tlhoma khunololamoraba ya gago e kgolo sešwa?
 
 ## Downloading cert dialog
 

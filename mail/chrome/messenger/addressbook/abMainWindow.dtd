@@ -29,12 +29,6 @@
 <!ENTITY closeCmd.label                                 "Tswala">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "T">
-<!ENTITY printSetupCmd.label                            "Boalo jwa Tsebe...">
-<!ENTITY printSetupCmd.accesskey                        "a">
-<!ENTITY printPreviewContactCmd.label                   "Print Preview Contact">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "Gatisa Buka ya Diaterese ya Tebopele">
-<!ENTITY printPreviewAddressBook.accesskey              "B">
 <!ENTITY printContactCmd.label                          "Print Contact…">
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "P">
@@ -99,10 +93,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "T">
 <!ENTITY exportCmd.label                                "Romelantle...">
 <!ENTITY exportCmd.accesskey                            "R">
-<!ENTITY preferencesCmd2.label                          "Options">
-<!ENTITY preferencesCmd2.accesskey                      "O">
-<!ENTITY preferencesCmdUnix.label                       "Diratwabogolo">
-<!ENTITY preferencesCmdUnix.accesskey                   "b">
 <!-- Address Book Toolbar and Context Menus -->  
 
 <!ENTITY newContactButton.label                         "New Contact">
