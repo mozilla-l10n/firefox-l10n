@@ -26,6 +26,7 @@ about-processes-file-process = Files ({ $pid })
 about-processes-privilegedabout-process = Aboot pages ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-socket-process = Netwark ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -47,6 +48,7 @@ about-processes-web-isolated-process = { $origin } ({ $pid })
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Threid id: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).

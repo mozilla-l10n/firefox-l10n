@@ -35,9 +35,6 @@ connection-proxy-http = HTTP Proxy
     .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Yaise this proxy for FTP and HTTPS forby
-    .accesskey = s
 
 connection-proxy-https-sharing =
     .label = Yaise this proxy for FTP and HTTPS forby
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS Proxy
     .accesskey = H
 connection-proxy-ssl-port = Port
     .accesskey = o
-
-connection-proxy-ftp = FTP Proxy
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = r
 
 connection-proxy-socks = SOCKS Host
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Nae proxy fur
     .accesskey = N
 
 connection-proxy-noproxy-desc = Exemple: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Connections tae localhost, 127.0.0.1, and ::1 are nivver proxied.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Connections tae localhost, 127.0.0.1/8, and ::1 are nivver proxied.

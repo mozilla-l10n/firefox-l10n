@@ -42,10 +42,12 @@ about-webrtc-sdp-heading = SDP
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominatit
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selectit
+
 about-webrtc-save-page-label = Save Page
 about-webrtc-stats-clear = Dicht Historie
 about-webrtc-log-clear = Dicht Log

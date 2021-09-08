@@ -58,8 +58,6 @@ printui-options = Options
 printui-headers-footers-checkbox = Prent heiders and dowp-enders
 printui-backgrounds-checkbox = Prent backgrunds
 
-printui-selection-checkbox = Prent walin anely
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

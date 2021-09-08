@@ -38,16 +38,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Quit { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Ootgang fae { -brand-shorter-name }
+
 menu-about =
     .label = Aboot { -brand-shorter-name }
     .accesskey = A
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Edit
     .accesskey = E
-menu-edit-find-on =
-    .label = Airt-oot in This Page...
-    .accesskey = A
 menu-edit-find-in-page =
     .label = Airt-oot in Page...
     .accesskey = A
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Toolbaurs
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = Mak yer ain…
-    .accesskey = M
 menu-view-customize-toolbar2 =
     .label = Mak Toolbaur Yer Ain…
     .accesskey = Y
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Staunart Page Style
     .accesskey = S
-menu-view-charset =
-    .label = Text Encodin
-    .accesskey = c
 menu-view-repair-text-encoding =
     .label = Pit Richt Text Encodin
     .accesskey = c
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Reopen Aw Windaes
 menu-bookmarks-menu =
     .label = Buikmerks
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = Kythe Aw Buikmerks
-menu-bookmark-this-page =
-    .label = Buikmerk This Page
 menu-bookmarks-manage =
     .label = Manage Buikmerks
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Doonloads
     .accesskey = D
-menu-tools-addons =
-    .label = Eik-ons
-    .accesskey = E
-menu-tools-fxa-sign-in =
-    .label = Sign In Tae { -brand-product-name }…
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = Turn on { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Eik-ons and Themes
     .accesskey = E
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Reconnect tae { -brand-product-name }…
     .accesskey = R
-menu-tools-web-developer =
-    .label = Wab Forderer
-    .accesskey = W
 menu-tools-browser-tools =
     .label = Wab-Stravaiger Tools
     .accesskey = B
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Page Info
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Options
-           *[other] Preferences
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-settings =
     .label = Settins
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hauners
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } Hauners
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Daunder
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = Inbring fae Anither Wab-Stravaiger
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = Keybuird Shortcuts
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Fankle-fixin Information
-    .accesskey = T
 menu-get-help =
     .label = Get Hauners
     .accesskey = H
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Gie Feedback…
     .accesskey = G
-menu-help-safe-mode-without-addons =
-    .label = Restert Wi Eik-ons Disabled…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = Restert Wi Eik-ons Enabled
-    .accesskey = R
 menu-help-enter-troubleshoot-mode2 =
     .label = Fankle-fixin Mode…
     .accesskey = M

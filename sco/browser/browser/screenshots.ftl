@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Tak a Screenshot
-
-screenshots-my-shots-button = Ma Shots
-
 screenshot-toolbarbutton =
     .label = Screenshot
     .tooltiptext = Tak a screenshot
@@ -40,8 +36,6 @@ screenshots-login-error-details = We couldnae save yer shot acause there's a pro
 
 screenshots-unshootable-page-error-title = We cannae screenshot this page.
 screenshots-unshootable-page-error-details = This isnae a staunart Wab page, sae ye cannae tak a screenshot o it.
-
-screenshots-self-screenshot-error-title = Ye cannae tak a shot o a { -screenshots-brand-name } page!
 
 screenshots-empty-selection-error-title = Yer selection is ower wee
 

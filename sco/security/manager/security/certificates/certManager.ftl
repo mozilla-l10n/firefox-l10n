@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Ye hae certificates fae these organisations that identify ye
 certmgr-remembered = These certificates are yaised fur tae identify ye tae wabsites
 certmgr-people = Ye hae certificates on file that identify these fowk
-certmgr-servers = Ye hae certificates on file that identify these servers
 certmgr-server = These inpits identify server certificate mishanter exceptions
 certmgr-ca = Ye hae certificates on file that identify these certificate authorities
-
-certmgr-detail-general-tab-title =
-    .label = General
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Details
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Trystmakkin certificate the noo…
-
-certmgr-subject-label = Issued Tae
-
-certmgr-issuer-label = Issued By
-
-certmgr-period-of-validity = Speal o Suithfestness
-
-certmgr-fingerprints = Fingirprents
-
-certmgr-cert-detail =
-    .title = Certificate Parteeculars
-    .buttonlabelaccept = Sneck
-    .buttonaccesskeyaccept = S
-
-certmgr-cert-detail-commonname = Common Nemme (CN)
-
-certmgr-cert-detail-org = Organisation (O)
-
-certmgr-cert-detail-orgunit = Organisational Unit (OU)
-
-certmgr-cert-detail-serial-number = Serial Nummer
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 Fingirprent
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 Fingirprent
 
 certmgr-edit-ca-cert =
     .title = Chynge CA certificate trust settins
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Siccarness Device
 
-certmgr-begins-on = Sterts On
-
 certmgr-begins-label =
     .label = Sterts On
-
-certmgr-expires-on = Feenishes On
 
 certmgr-expires-label =
     .label = Feenishes On
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Inbring…
     .accesskey = b
-
-certmgr-details =
-    .value = Certificate Fields
-    .accesskey = F
-
-certmgr-fields =
-    .value = Field Vailue
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = Certificate Hierarchy
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Eik On Exception…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Are ye shair ye're wantin tae dicht these certificate
 delete-user-cert-impact = If ye dicht yin o yer ain certificates, ye cannae yaise it tae identify yersel onie mair.
 
 
-delete-ssl-cert-title =
-    .title = Dicht Server Certificate Exceptions
-delete-ssl-cert-confirm = Are you sure ye're wantin tae dicht these server exceptions?
-delete-ssl-cert-impact = If ye dicht a server exception, ye restore the ordinar siccarness checks fur thon server and require it tae yaise a suithfest certificate.
-
-
 delete-ssl-override-title =
     .title = Dicht Server Certificate Exception
 delete-ssl-override-confirm = Are you sure ye're wantin tae dicht this server exception?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Certificate wi serial nummer: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Certificate Viewer: “{ $certName }”
-
-not-present =
-    .value = <No Pairt O Certificate>
-
-# Cert verification
-cert-verified = This certificate has been trystmakkit fur the follaein yaises:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL Client Certificate
-
-verify-ssl-server =
-    .value = SSL Server Certificate
-
-verify-ssl-ca =
-    .value = SSL Certificate Authority
-
-verify-email-signer =
-    .value = Email Signer Certificate
-
-verify-email-recip =
-    .value = Email Recipient Certificate
-
-# Cert verification
-cert-not-verified-cert-revoked = Couldnae trystmak this certificate acause it's been makkit no suithfest.
-cert-not-verified-cert-expired = Couldnae trystmak this certificate acause it's oot o date.
-cert-not-verified-cert-not-trusted = Couldnae trystmak this certicate acause it isnae trustit.
-cert-not-verified-issuer-not-trusted = Couldnae trystmak this certicate acause the issuer isnae trustit.
-cert-not-verified-issuer-unknown = Couldnae trystmak this certicate acause the issuer is unkent.
-cert-not-verified-ca-invalid = Couldnae trystmak this certicate acause the CA certificate isnae suithfest.
-cert-not-verified_algorithm-disabled = Couldnae trystmak this certificate acause it wis signed yaisin a signature algorithm that wis disabled acause that algorithm isnae siccar.
-cert-not-verified-unknown = Couldnae trystmak this certificate for unkent reasons.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Send nae client certificate

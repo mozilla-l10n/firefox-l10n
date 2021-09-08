@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-safe-mode-window =
-    .title = { -brand-short-name } Sauf Mode
-    .style = max-width: 400px
-start-safe-mode =
-    .label = Stert in Sauf Mode
-
 troubleshoot-mode-window =
     .title = Open { -brand-short-name } in Fankle-fixin Mode?
     .style = max-width: 400px
@@ -15,9 +9,6 @@ start-troubleshoot-mode =
     .label = Open
 refresh-profile =
     .label = Refresh { -brand-short-name }
-safe-mode-description = Sauf Mode is a by-ordinar mode o { -brand-short-name } that can be yaised tae fankle-fix problems.
-safe-mode-description-details = Yer eik-ons and custom settins will be disabled fur noo, and { -brand-short-name } featurs micht no wirk the wey they ordinar dae.
-refresh-profile-instead = Forby, ye can jouk fankle-fixin and try refreshin { -brand-short-name }.
 troubleshoot-mode-description = Yaise this by-ordinar mode o { -brand-short-name } tae wirk oot whit's wrang. Yer extensions and customisations will be disabled fur noo.
 skip-troubleshoot-refresh-profile = Forby, ye can jouk fankle-fixin and refresh { -brand-short-name }, insteid.
 # Shown on the safe mode dialog after multiple startup crashes.

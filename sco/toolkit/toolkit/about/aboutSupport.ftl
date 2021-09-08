@@ -4,16 +4,12 @@
 
 page-title = Fankle-fixin Information
 page-subtitle = This page conteens technical information that micht be yaisefu whan yer ettlin at solvin a problem. Gin yer luikin fur answers tae common speirins aboot { -brand-short-name }, hae a glisk at oor <a data-l10n-name="support-link">support website</a>.
+
 crashes-title = Crash Reports
 crashes-id = Report ID
 crashes-send-date = Submittit
 crashes-all-reports = Aw Crash Reports
 crashes-no-config = This application hasnae been confeegurt fur tae kythe crash reports.
-extensions-title = Extensions
-extensions-name = Nemme
-extensions-enabled = Enabled
-extensions-version = Version
-extensions-id = ID
 support-addons-title = Eik-ons
 support-addons-name = Nemme
 support-addons-type = Type
@@ -130,8 +126,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Process Type
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Airguments
-safe-mode-title = Try Sauf Mode
-restart-in-safe-mode-label = Restert Wi Eik-ons Disabled…
 troubleshoot-mode-title = Diagnose issues
 restart-in-troubleshoot-mode-label = Fankle-fixin Mode…
 clear-startup-cache-title = Try dichtin the stertup cache
@@ -189,36 +183,6 @@ remote-debugging-url = URL
 
 ##
 
-support-third-party-modules-title = Third-Pairty Modules
-support-third-party-modules-module = Module File
-support-third-party-modules-version = File Version
-support-third-party-modules-vendor = Dealer Info
-support-third-party-modules-occurrence = Occurrence
-support-third-party-modules-process = Process Type & ID
-support-third-party-modules-thread = Threid
-support-third-party-modules-base = Imagebase Address
-support-third-party-modules-uptime = Process Uptime (ms)
-support-third-party-modules-duration = Loadin Duration (ms)
-support-third-party-modules-status = Status
-support-third-party-modules-status-loaded = Loadit
-support-third-party-modules-status-blocked = Blockit
-support-third-party-modules-status-redirected = Redirectit
-support-third-party-modules-empty = Nae third-pairty modules wir loadit.
-support-third-party-modules-no-value = (Nae vailue)
-support-third-party-modules-button-open =
-    .title = Open file airtin…
-support-third-party-modules-expand =
-    .title = Kythe detailed information
-support-third-party-modules-collapse =
-    .title = In-fauld detailed information
-support-third-party-modules-unsigned-icon =
-    .title = This module isnae signed
-support-third-party-modules-folder-icon =
-    .title = Open file airtin…
-support-third-party-modules-down-icon =
-    .title = Kythe detailed information
-support-third-party-modules-up-icon =
-    .title = In-fauld detailed information
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -226,6 +190,7 @@ report-crash-for-days =
         [one] Crash Reports fur the Past { $days } Day
        *[other] Crash Reports fur the Past { $days } Days
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -233,6 +198,7 @@ crashes-time-minutes =
         [one] { $minutes } meenit syne
        *[other] { $minutes } meenits syne
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -240,6 +206,7 @@ crashes-time-hours =
         [one] { $hours } oors syne
        *[other] { $hours } oors syne
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -247,6 +214,7 @@ crashes-time-days =
         [one] { $days } day syne
        *[other] { $days } days syne
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -254,6 +222,7 @@ pending-reports =
         [one] Aw Crash Reports (includin { $reports } pendin crash in the gien time range)
        *[other] Aw Crash Reports (includin { $reports } pendin crashes in the gien time range)
     }
+
 raw-data-copied = Raw data copied tae clipbuird
 text-copied = Text copied tae clipbuird
 
@@ -266,9 +235,11 @@ blocked-mismatched-version = Blockit fur yer graphics driver version mismatch at
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blockit fur yer graphics driver version. Try updatin yer graphics driver tae version { $driverVersion } or newer.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Parameters
+
 compositing = Compositin
 hardware-h264 = Haurdware H264 Decodin
 main-thread-no-omtc = main threid, nae OMTC
@@ -283,6 +254,7 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Fund
 missing = Missin
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Description
@@ -305,21 +277,19 @@ webgl2-renderer = WabGL 2 Driver Renderer
 webgl2-version = WabGL 2 Driver Version
 webgl2-driver-extensions = WabGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
-blocklisted-bug = Blocklistit due tae kent issues
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Blocklistit due tae kent issues: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocklistit; failure code { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Compositor
-d3d11video-crash-guard = D3D11 Video Decoder
-d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video Decoder
+
 reset-on-next-restart = Reset on Neist Restert
 gpu-process-kill-button = Stap GPU Process
 gpu-device-reset = Device Reset
@@ -329,8 +299,10 @@ content-uses-tiling = Yaises Tilin (Content)
 off-main-thread-paint-enabled = Aff Main Threid Pentin Enabled
 off-main-thread-paint-worker-count = Aff Main Threid Pentin Wirker Coont
 target-frame-rate = Target Frame Rate
+
 min-lib-versions = Expectit minimum version
 loaded-lib-versions = Version in yaise
+
 has-seccomp-bpf = Seccomp-BPF (System Caw Filterin)
 has-seccomp-tsync = Seccomp Threid Synchronization
 has-user-namespaces = Yaiser Nemmespaces
@@ -344,27 +316,22 @@ sandbox-proc-type-content = content
 sandbox-proc-type-file = file content
 sandbox-proc-type-media-plugin = media plugin
 sandbox-proc-type-data-decoder = data decoder
+
 startup-cache-title = Stertup Cache
 startup-cache-disk-cache-path = Disk Cache Path
 startup-cache-ignore-disk-cache = Dinnae Tak Tent O Disk Cache
 startup-cache-found-disk-cache-on-init = Fund Disk Cache on Init
 startup-cache-wrote-to-disk-cache = Scrievit tae Disk Cache
+
 launcher-process-status-0 = Enabled
 launcher-process-status-1 = Disabled due tae failure
 launcher-process-status-2 = Disabled wi force
 launcher-process-status-unknown = Unkent status
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Enabled by yaiser
-multi-process-status-1 = Enabled as staunart
-multi-process-status-2 = Disabled
-multi-process-status-4 = Disabled by accessibility tools
-multi-process-status-6 = Disabled by unsupportit text input
-multi-process-status-7 = Disabled by eik-ons
-multi-process-status-8 = Disabled wi force
-multi-process-status-unknown = Unkent status
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -380,6 +347,7 @@ fission-status-enabled-by-user-pref = Enabled by yaiser
 fission-status-disabled-by-user-pref = Disabled by yaiser
 fission-status-disabled-by-e10s-other = E10s disabled
 fission-status-enabled-by-rollout = Enabled by phased roll-oot
+
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = nane
 wheel-enabled = wheel inpit enabled
@@ -416,6 +384,7 @@ support-remote-experiments-title = Remote Experiments
 support-remote-experiments-name = Nemme
 support-remote-experiments-branch = Experiment Brainch
 support-remote-experiments-see-about-studies = See <a data-l10n-name="support-about-studies-link">about:studies</a> fur mair information, includin hoo tae disable individual experiments or tae disable { -brand-short-name } fae runnin this sort o experiment in the future.
+
 support-remote-features-title = Remote Featurs
 support-remote-features-name = Nemme
 support-remote-features-status = Status

@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Dicht">
 
-<!ENTITY fillLoginMenu.label          "Fill Login">
-<!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "Fill Passwird">
-<!ENTITY fillPasswordMenu.accesskey   "F">
-<!ENTITY fillUsernameMenu.label       "Fill Yaiser Nemme">
-<!ENTITY fillUsernameMenu.accesskey   "F">
-<!ENTITY noLoginSuggestions.label     "(Nae Login Suggestions)">
-<!ENTITY viewSavedLogins.label        "View Saved Logins">

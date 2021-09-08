@@ -65,8 +65,6 @@ policy-DisableForgetButton = Stap ingang tae the Tyne button.
 
 policy-DisableFormHistory = Dinnae mind o airt-oot and form historie.
 
-policy-DisableMasterPasswordCreation = Gin true, a maister passwird cannae be makkit.
-
 policy-DisablePrimaryPasswordCreation = Gin true, a Primary Passwird cannae be makkit.
 
 policy-DisablePasswordReveal = Dinnae alloo passwirds tae be kythed in saved logins.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Chynge back tae bygane
 policy-LocalFileLinks = Alloo specific wabsites tae link tae local files.
 
 policy-ManagedBookmarks = Confeegurs a list o buikmerks managed by an admeenistrator that cannae be chynged by the yaiser.
-
-policy-MasterPassword = Require or prevent yaisin a maister passwird.
 
 policy-ManualAppUpdateOnly = Alloo manual updates anely and dinnae lat the yaiser ken aboot updates.
 

@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Remuive Aw Sites
     .accesskey = i
 
-translation-button-close =
-    .label = Sneck
-    .accesskey = c
-
 translation-dialog =
     .buttonlabelaccept = Sneck
     .buttonaccesskeyaccept = C

@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Remuive Aw Wabsites
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Stap
-    .accesskey = S
-
-permissions-button-ok =
-    .label = Save Chynges
-    .accesskey = C
-
 permission-dialog =
     .buttonlabelaccept = Save Chynges
     .buttonaccesskeyaccept = C

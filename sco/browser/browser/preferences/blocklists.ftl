@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = List
 
-blocklist-button-cancel =
-    .label = Stap
-    .accesskey = S
-
-blocklist-button-ok =
-    .label = Save Chynges
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Save Chynges
     .buttonaccesskeyaccept = S

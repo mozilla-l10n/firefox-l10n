@@ -7,7 +7,6 @@
 
 cfr-doorhanger-extension-heading = Recommendit Extension
 cfr-doorhanger-feature-heading = Recommendit Featur
-cfr-doorhanger-pintab-heading = Gie This a Shot: Peen Tab
 
 ##
 
@@ -19,8 +18,6 @@ cfr-doorhanger-extension-cancel-button = No Jist Noo
 
 cfr-doorhanger-extension-ok-button = Eik On Noo
     .accesskey = E
-cfr-doorhanger-pintab-ok-button = Peen This Tab
-    .accesskey = P
 
 cfr-doorhanger-extension-manage-settings-button = Manage Recommendation Settins
     .accesskey = M
@@ -68,16 +65,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } yaisers
     }
 
-cfr-doorhanger-pintab-description = Gang straicht tae yer maist-yaised sites. Keep sites open in a tab (even when ye restert).
-
 ## These messages are steps on how to use the feature and are shown together.
-
-cfr-doorhanger-pintab-step1 = <b>Richt-click</b> on the tab ye're wantin fur tae peen.
-cfr-doorhanger-pintab-step2 = Wale <b>Peen Tab</b> fae the menu.
-cfr-doorhanger-pintab-step3 = Gin the site has an update ye'll see a blue dot on yer peened tab.
-
-cfr-doorhanger-pintab-animation-pause = Pause
-cfr-doorhanger-pintab-animation-resume = Resume
 
 
 ## Firefox Accounts Message
@@ -105,132 +93,29 @@ cfr-whatsnew-button =
     .label = Whit's New
     .tooltiptext = Whit's New
 
-cfr-whatsnew-panel-header = Whit's New
-
 cfr-whatsnew-release-notes-link-text = Read the roll-oot notes
-
-cfr-whatsnew-fx70-title = { -brand-short-name } noo fechts aw the mair for yer privacy.
-cfr-whatsnew-fx70-body =
-    The latest update eiks-on tae the Trackin Bieldin featur and maks it
-    even easier tae mak siccar passwirds for ilka site.
-
-cfr-whatsnew-tracking-protect-title = Bield yersel fae trackers
-cfr-whatsnew-tracking-protect-body =
-    { -brand-short-name } blocks a guid wheen o common social and cross-site trackers that
-    follae whit ye're daein online.
-cfr-whatsnew-tracking-protect-link-text = View Yer Report
-
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $blockedCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-tracking-blocked-title =
-    { $blockedCount ->
-        [one] Tracker blockit
-       *[other] Trackers blockit
-    }
-cfr-whatsnew-tracking-blocked-subtitle = Syne { DATETIME($earliestDate, month: "long", year: "numeric") }
-cfr-whatsnew-tracking-blocked-link-text = View Report
-
-cfr-whatsnew-lockwise-backup-title = Back up yer passwirds
-cfr-whatsnew-lockwise-backup-body = Noo mak siccar passwirds ye can get ingang tae oniewhaur ye sign in.
-cfr-whatsnew-lockwise-backup-link-text = Turn on backups
-
-cfr-whatsnew-lockwise-take-title = Tak yer passwirds wi ye
-cfr-whatsnew-lockwise-take-body =
-    The { -lockwise-brand-short-name } mobile app lats ye hae siccar ingang tae yer
-    backed up passwirds fae oniewhaur.
-cfr-whatsnew-lockwise-take-link-text = Get the app
 
 ## Search Bar
 
-cfr-whatsnew-searchbar-title = Type less, airt-oot mair wi the address baur
-cfr-whatsnew-searchbar-body-topsites = Noo, jist wale the address baur, and a box will kythe itsel wi links tae yer tap sites.
-
 ## Search bar
-
-cfr-whatsnew-searchbar-icon-alt-text = Magnifyin gless icon
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-header = Watch videos while ye're stravaigin
-cfr-whatsnew-pip-body = Pictur-in-pictur planks yer video intae a floatin windae sae's ye can watch while wirkin in ither tabs.
-cfr-whatsnew-pip-cta = Lairn mair
-
 ## Permission Prompt
-
-cfr-whatsnew-permission-prompt-header = No as monie scunnersome site lowp-ups
-cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } noo blocks sites fae automatically speirin tae send ye lowp-up messages.
-cfr-whatsnew-permission-prompt-cta = Lairn mair
 
 ## Fingerprinter Counter
 
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $fingerprinterCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-fingerprinter-counter-header =
-    { $fingerprinterCount ->
-        [one] Fingirprenter blockit
-       *[other] Fingirprenters blockit
-    }
-cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blocks a guid wheen o fingirprenters that sleekitly gaither information aboot yer device and ongauns fur tae mak an advertisin profile o ye.
-
-# Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = Fingirprenters
-cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } can block fingirprenters that sleekitly gaither information aboot yer device and ongauns tae mak an advertisin profile o ye.
-
 ## Bookmark Sync
-
-cfr-doorhanger-sync-bookmarks-header = Get this buikmerk on yer phone
-cfr-doorhanger-sync-bookmarks-body = Tak yer buikmerks, passwirds, historie and mair oniewhaur ye're signed intae { -brand-product-name }.
-cfr-doorhanger-sync-bookmarks-ok-button = Turn on { -sync-brand-short-name }
-    .accesskey = T
 
 ## Login Sync
 
-cfr-doorhanger-sync-logins-header = Nivver Loss a Passwird Again
-cfr-doorhanger-sync-logins-body = Store and sync yer passwirds siccar tae aw yer devices.
-cfr-doorhanger-sync-logins-ok-button = Turn on { -sync-brand-short-name }
-    .accesskey = T
-
 ## Send Tab
-
-cfr-doorhanger-send-tab-header = Read this on the muive
-cfr-doorhanger-send-tab-recipe-header = Tak this recipe tae the kitchen
-cfr-doorhanger-send-tab-body = Send Tab lats ye share this link wi nae fankles tae yer phone or oniewhaur ye're signed in tae { -brand-product-name }.
-cfr-doorhanger-send-tab-ok-button = Try Send Tab
-    .accesskey = T
 
 ## Firefox Send
 
-cfr-doorhanger-firefox-send-header = Share this PDF siccar
-cfr-doorhanger-firefox-send-body = Keep yer sensitive documents sauf fae keekin een wi end-tae-end encryption that disappears when ye're duin.
-cfr-doorhanger-firefox-send-ok-button = Try { -send-brand-name }
-    .accesskey = T
-
 ## Social Tracking Protection
 
-cfr-doorhanger-socialtracking-ok-button = See Bieldins
-    .accesskey = B
-cfr-doorhanger-socialtracking-close-button = Sneck
-    .accesskey = C
-cfr-doorhanger-socialtracking-dont-show-again = Dinnae kythe messages like this oniemair
-    .accesskey = D
-cfr-doorhanger-socialtracking-heading = { -brand-short-name } stapped a social netwark fae trackin ye here
-cfr-doorhanger-socialtracking-description = Yer privacy maitters. { -brand-short-name } noo blocks common social media trackers, pittin leemits on how muckle data they can gaither aboot whit ye're daein online.
-cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blockit a fingirprenter on this page
-cfr-doorhanger-fingerprinters-description = Yer privacy maitters. { -brand-short-name } noo blocks fingirprenters, which gaither bitties o information kenmerks aboot yer device fur tae track ye.
-cfr-doorhanger-cryptominers-heading = { -brand-short-name } blockit a cryptohowker on this page
-cfr-doorhanger-cryptominers-description = Yer privacy maitters. { -brand-short-name } noo blocks cryptohowkers, which yaise yer system's computin pouer fur tae howk oot digital siller.
-
 ## Enhanced Tracking Protection Milestones
-
-# Variables:
-#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
-cfr-doorhanger-milestone-heading =
-    { $blockedCount ->
-       *[other] { -brand-short-name } blockit ower <b>{ $blockedCount }</b> trackers syne { $date }!
-    }
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
@@ -247,33 +132,13 @@ cfr-doorhanger-milestone-ok-button = See Aw
 
 ## Lockwise message
 
-cfr-whatsnew-lockwise-header = Mak siccar passwirds nae bather
-cfr-whatsnew-lockwise-body = It's no easy tae come up wi wan-aff, siccar passwirds for ilka accoont. When makkin a passwird, wale the passwird field fur tae yaise a siccar, generatit passwird fae { -brand-shorter-name }.
-cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } icon
-
 ## Vulnerable Passwords message
-
-cfr-whatsnew-passwords-header = Get alerts aboot passwirds that arenae siccar
-cfr-whatsnew-passwords-body = Hackers ken fowk yaise the same passwirds ower and ower. Gin ye've yaised the same passwird on a wheen o sites, and ane o thae sites wis in a data breach, ye'll see an alert in { -lockwise-brand-short-name } tae chynge yer passwird on thae sites.
-cfr-whatsnew-passwords-icon-alt = Passwird no siccar key icon
 
 ## Picture-in-Picture fullscreen message
 
-cfr-whatsnew-pip-fullscreen-header = Tak pictur-in-pictur hale-screen
-cfr-whatsnew-pip-fullscreen-body = When ye plank a video intae a floatin windae, ye can noo double-click on thon windae fur tae gang hale-screen.
-cfr-whatsnew-pip-fullscreen-icon-alt = Pictur-in-pictur icon
-
 ## Protections Dashboard message
 
-cfr-whatsnew-protections-header = Bieldins at a scance
-cfr-whatsnew-protections-body = The Bieldins Dashbuird includes summary reports aboot data breaches and passwird management. Ye can noo track how monie breaches ye've sortit, and see gin onie o yer saved passwirds micht hae been makkit no siccar in a data breach.
-cfr-whatsnew-protections-cta-link = View Bieldins Dashbuird
-cfr-whatsnew-protections-icon-alt = Shield icon
-
 ## Better PDF message
-
-cfr-whatsnew-better-pdf-header = Better PDF experience
-cfr-whatsnew-better-pdf-body = PDF documents noo open straicht intae { -brand-short-name }, keepin yer warkflow whaur ye can easy rax it.
 
 cfr-doorhanger-milestone-close-button = Sneck
     .accesskey = C
@@ -317,3 +182,10 @@ cfr-doorhanger-video-support-body = Videos on this site micht no wirk richt on t
 cfr-doorhanger-video-support-header = Update { -brand-short-name } fur tae pley video
 cfr-doorhanger-video-support-primary-button = Update Noo
     .accesskey = U
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+

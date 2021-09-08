@@ -13,4 +13,5 @@
 ##  $url: the url of script specification and current worker.
 
 push-end-point-result = <strong>Push Endpynt:</strong> { $name }
+
 waiting = Waitin...

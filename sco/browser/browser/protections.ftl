@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = How it wirks
 
-turn-on-sync = Turn on { -sync-brand-short-name }…
-    .title = Gang tae sync preferences
-
 monitor-title = Look oot fur data breaches
 monitor-link = How it wirks
 monitor-header-content-no-account = Check { -monitor-brand-name } fur tae see gin ye’ve been pairt o a kent data breach, and get alerts aboot new breaches.

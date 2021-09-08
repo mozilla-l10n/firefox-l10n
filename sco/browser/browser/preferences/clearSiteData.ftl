@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Will need wabsites tae load images and data aince mair
 
-clear-site-data-cancel =
-    .label = Stap
-    .accesskey = S
-
-clear-site-data-clear =
-    .label = Dicht
-    .accesskey = D
-
 clear-site-data-dialog =
     .buttonlabelaccept = Dicht
     .buttonaccesskeyaccept = D

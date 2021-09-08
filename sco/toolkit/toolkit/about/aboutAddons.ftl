@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Eik-ons Manager
-
 addons-page-title = Eik-ons Manager
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Eik-ons Hauners
 sidebar-help-button-title =
     .title = Eik-ons Hauners
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } Options
-       *[other] { -brand-short-name } Preferences
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } Options
-           *[other] { -brand-short-name } Preferences
-        }
-
 addons-settings-button = { -brand-short-name } Settins
 sidebar-settings-button-title =
     .title = { -brand-short-name } Settins
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Kythe aw extensions
-
-cmd-show-details =
-    .label = Kythe Mair Information
-    .accesskey = K
-
-cmd-find-updates =
-    .label = Airt-oot Updates
-    .accesskey = A
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Options
-           *[other] Preferences
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Weir Theme
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = Stap Weirin Theme
-    .accesskey = W
-
-cmd-install-addon =
-    .label = Instaw
-    .accesskey = I
-
-cmd-contribute =
-    .label = Contreebute
-    .accesskey = C
-    .tooltiptext = Contreebute tae the forderin o this eik-on
 
 detail-version =
     .label = Version
@@ -405,8 +353,6 @@ dictionary-disabled-heading = Disabled
 
 locale-enabled-heading = Enabled
 locale-disabled-heading = Disabled
-
-ask-to-activate-button = Speir tae Activate
 
 always-activate-button = Ayeweys Activate
 never-activate-button = Nivver Activate

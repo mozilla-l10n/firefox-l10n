@@ -6,9 +6,6 @@ password-quality-meter = Passwird quality meter
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Chynge Maister Passwird
-
 change-device-password-window =
     .title = Chynge Passwird
 
@@ -20,10 +17,6 @@ change-password-new = New passwird:
 change-password-reenter = New passwird (again):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Reset Maister Passwird
-    .style = width: 40em
 
 pippki-failed-pw-change = No able tae chynge passwird.
 pippki-incorrect-pw = Ye didnae inpit whit's the richt passwird the noo. Gie it anither shot.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Reset
-reset-password-text = If ye reset yer maister passwird, aw yer stored wab and e-mail passwirds, form data, personal certificates, and private keys will be forgotten. Are ye shair ye're wantin tae reset yer maister passwird?
 
 reset-primary-password-text = If ye reset yer Primary Passwird, aw yer stored wab and e-mail passwirds,personal certificates, and private keys will be forgotten. Are ye shair ye're wantin tae reset yer Primary Passwird?
 

@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Connect Anither Device
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Gin ye hivnae awready, instaw <a data-l10n-name="connect-another-device">Firefox on yer mobile device</a>.
-
-fxa-qrcode-heading-phase2 = 2. Then sign in tae { -sync-brand-short-name }, or on Android scan the pairin code fae ben the { -sync-brand-short-name } settins.
-
 fxa-qrcode-heading-step1 = 1. Gin ye hivnae awready, instaw <a data-l10n-name="connect-another-device">Firefox on yer mobile device</a>.
 
 fxa-qrcode-heading-step2 = 2. Open Firefox on yer mobile device.

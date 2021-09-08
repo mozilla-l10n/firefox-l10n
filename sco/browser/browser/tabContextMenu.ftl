@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Buikmerk Tab
     .accesskey = B
-reopen-in-container =
-    .label = Reopen in Conteener
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Open in New Conteener Tab
     .accesskey = e
@@ -69,25 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Sneck Multiple Tabs
     .accesskey = M
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Undae Sneck Tab
-           *[other] Undae Sneck Tabs
-        }
-    .accesskey = U
-close-tab =
-    .label = Sneck Tab
-    .accesskey = c
-close-tabs =
-    .label = Sneck Tabs
-    .accesskey = S
-move-tabs =
-    .label = Muive Tabs
-    .accesskey = v
-move-tab =
-    .label = Muive Tab
-    .accesskey = v
 tab-context-share-url =
     .label = Share
     .accesskey = h
@@ -126,6 +104,7 @@ tab-context-move-tabs =
            *[other] Muive Tabs
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
