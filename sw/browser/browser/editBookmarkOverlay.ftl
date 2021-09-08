@@ -2,17 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-bookmark-overlay-name =
-    .value = Jina:
-    .accesskey = J
-
-bookmark-overlay-location =
-    .value = Mahali:
-    .accesskey = M
-
-bookmark-overlay-folder =
-    .value = Kabrasha:
-
 bookmark-overlay-choose =
     .label = Chagua…
 
@@ -25,10 +14,6 @@ bookmark-overlay-new-folder-button =
     .label = Kabrasha Mpya
     .accesskey = p
 
-bookmark-overlay-tags =
-    .value = Lebo:
-    .accesskey = L
-
 bookmark-overlay-tags-empty-description =
     .placeholder = Tenganisha lebo kwa koma
 
@@ -36,8 +21,4 @@ bookmark-overlay-tags-expander =
     .tooltiptext = Onyesha lebo zote
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Ficha
-
-bookmark-overlay-keyword =
-    .value = Nenomsingi:
-    .accesskey = N
 

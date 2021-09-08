@@ -8,14 +8,6 @@
 
 <!-- Tab context menu -->
 
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Pini Kichupo">
-<!ENTITY  unpinTab.label                     "Banua Kichupo">
-
 <!ENTITY  listAllTabs.label      "Orodhesha vichupo vyote">
 
 <!ENTITY tabCmd.label "Kichupo Kipya">
@@ -27,30 +19,10 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Pau Menyu">
 <!ENTITY menubarCmd.accesskey "P">
-<!ENTITY personalbarCmd.label "Mwamba zana wa Alamisho">
-<!ENTITY personalbarCmd.accesskey "M">
-<!ENTITY bookmarksToolbarItem.label "Vipengee vya Mwamba zana wa Alamisho">
 
 <!ENTITY fullScreenCmd.label "Skrini Nzima">
 
 
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-<!ENTITY showAllBookmarks2.label "Onyesha Alamisho Zote">
-<!ENTITY bookmarksToolbarChevron.tooltip "Onyesha alamisho zaidi">
 
 <!ENTITY printButton.label            "Chapisha">
 <!ENTITY printButton.tooltip          "Chapisha ukurasa huu">
@@ -67,13 +39,7 @@ when there are no windows but Firefox is still running. -->
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Nyumbani">
 
-<!ENTITY bookmarksButton.label          "Vialamisho">
-
-<!ENTITY bookmarksSubview.label             "Alamisho">
-<!ENTITY viewBookmarksToolbar.label         "Tazama Mwambaa zana wa Alamisho">
-
 <!ENTITY downloads.label              "Upakuzi">
-<!ENTITY addons.label                 "Vifaa vya nyongeza">
 
 <!ENTITY webDeveloperMenu.label       "Mtengenezaji wa Wavuti">
 
@@ -88,10 +54,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Historia">
-
-<!ENTITY historyUndoMenu.label "Vichupo Vilivyofungwa Hivi Karibuni">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Dirisha Zilizofungwa Hivi Karibuni">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -114,7 +76,6 @@ when there are no windows but Firefox is still running. -->
      items into this menu permanently (pinned). -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -144,8 +105,6 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "K">
 
-<!ENTITY emailPageCmd.label           "Kiungo cha Barua pepe…">
-
 <!-- Media (video/audio) controls -->
 
 <!-- LOCALIZATION NOTE :
@@ -157,11 +116,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Kuza">
 
 <!ENTITY sidebarCloseButton.tooltip     "Funga mwambaa wa upande">
-
-<!ENTITY quitApplicationCmdWin2.label       "Aga">
-<!ENTITY quitApplicationCmdWin2.accesskey   "g">
-<!ENTITY quitApplicationCmd.label       "Ondoka">
-<!ENTITY quitApplicationCmd.accesskey   "O">
 
 
 <!ENTITY allowPopups.accesskey "p">
@@ -202,8 +156,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      mutually exclusive -->
 
 
-
-<!ENTITY syncBrand.shortName.label    "Ulandanishi">
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->

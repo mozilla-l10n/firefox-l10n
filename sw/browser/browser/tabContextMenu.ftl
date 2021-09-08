@@ -18,10 +18,6 @@ move-to-new-window =
     .label = Hamisha kwa Dirisha Mpya
     .accesskey = M
 
-close-tab =
-    .label = Funga Kichupo
-    .accesskey = F
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 

@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-certmgr-detail-pretty-print-tab-title =
-    .label = Imininingwane
-    .accesskey = I
-
-certmgr-cert-detail-org = Shirika (O)
-
 certmgr-token-name =
     .label = Kifaa cha Usalama
 
@@ -46,28 +40,9 @@ exception-mgr-cert-location-url =
 ## For Deleting Certificates
 
 
-delete-ssl-cert-confirm = Unahakika unataka kufuta yasiyojilikana ya seva hii?
-
-
 delete-email-cert-confirm = Uyaqiniseka yini ukuthi ufuna ukuzicisha lezi zitifiketi zezingosi zewebhu?
 
 ## Cert Viewer
-
-# Add usage
-verify-ssl-client =
-    .value = Cheti cha Mteja cha SSL
-
-verify-ssl-server =
-    .value = Cheti cha Seva ya SSL
-
-verify-ssl-ca =
-    .value = Mmlaka ya Cheti cha SSL
-
-verify-email-signer =
-    .value = Cheti cha Saini cha Barua Pepe
-
-verify-email-recip =
-    .value = Cheti cha Mpokeaji Barua Pepe
 
 ## Used to show whether an override is temporary or permanent
 

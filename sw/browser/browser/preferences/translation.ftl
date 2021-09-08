@@ -5,7 +5,3 @@
 translation-languages-column =
     .label = Lugha
 
-translation-button-close =
-    .label = Funga
-    .accesskey = F
-

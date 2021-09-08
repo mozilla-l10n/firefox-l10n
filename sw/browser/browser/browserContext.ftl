@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,9 +48,6 @@ main-context-menu-page-save =
     .label = Hifadhi Ukurasa Kama…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -81,10 +66,6 @@ main-context-menu-open-link-new-private-window =
     .label = Fungua Kiungo katika Window Mpya ya Kibinafsi
     .accesskey = K
 
-main-context-menu-bookmark-this-link =
-    .label = Alamisha Kiungo Hiki
-    .accesskey = H
-
 main-context-menu-save-link =
     .label = Hifadhi Kiungo Kama…
     .accesskey = n
@@ -100,10 +81,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Nakili Anwani ya Baruapepe
     .accesskey = A
-
-main-context-menu-copy-link =
-    .label = Nakili Mahali pa Kiungo
-    .accesskey = u
 
 ## Media (video/audio) controls
 ##
@@ -154,29 +131,9 @@ main-context-menu-image-reload =
     .label = Pakia tena Picha
     .accesskey = P
 
-main-context-menu-image-view =
-    .label = Angalia Picha
-    .accesskey = P
-
-main-context-menu-video-view =
-    .label = Angalia Video
-    .accesskey = n
-
 main-context-menu-image-copy =
     .label = Nakili Taswira
     .accesskey = l
-
-main-context-menu-image-copy-location =
-    .label = Nakili Mahali pa Taswira
-    .accesskey = k
-
-main-context-menu-video-copy-location =
-    .label = Nakili Mahali pa Video
-    .accesskey = k
-
-main-context-menu-audio-copy-location =
-    .label = Nakili Mahali pa Sauti
-    .accesskey = k
 
 main-context-menu-image-save-as =
     .label = Hifadhi Taswira Kama…
@@ -185,10 +142,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Taswira ya Barua pepe…
     .accesskey = w
-
-main-context-menu-image-set-as-background =
-    .label = Seti Kama Mandharinyuma ya Eneo kazi…
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = Angalia maelezo ya Picha
@@ -202,10 +155,6 @@ main-context-menu-audio-save-as =
     .label = Hifadhi Sauti Kama…
     .accesskey = d
 
-main-context-menu-video-image-save-as =
-    .label = Hifadhi Picha iliyopigwa haraka Kama…
-    .accesskey = H
-
 main-context-menu-video-email =
     .label = Video ya Barua pepe…
     .accesskey = a
@@ -217,10 +166,6 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Ficha programu jalizi hii
     .accesskey = F
-
-main-context-menu-view-background-image =
-    .label = Angalia Picha ya Mandharinyuma
-    .accesskey = l
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -280,10 +225,6 @@ main-context-menu-view-page-source =
     .label = Angalia Chanzo cha Ukurasa
     .accesskey = A
 
-main-context-menu-view-page-info =
-    .label = Angalia Maelezo ya Ukurasa
-    .accesskey = U
-
 main-context-menu-bidi-switch-text =
     .label = Badilisha Upande wa Matini
     .accesskey = d
@@ -291,8 +232,4 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Badilisha Upande wa Ukurasa
     .accesskey = U
-
-main-context-menu-inspect-element =
-    .label = Kagua Elementi
-    .accesskey = Q
 

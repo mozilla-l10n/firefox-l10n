@@ -5,6 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } inatumia cheti batili cha usalama
+
 cert-error-trust-unknown-issuer-intro = Mtu anaweza kuwa anajaribu kuiga tovuti na haufai kuendelea.
 
 ## Messages used for certificate error titles

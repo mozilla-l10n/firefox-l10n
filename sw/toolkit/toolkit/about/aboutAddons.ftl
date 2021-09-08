@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Msimamizi Kifaa cha Nyongeza
-
 addons-page-title = Msimamizi Kifaa cha Nyongeza
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = Jifunze zaidi kuhusu vifaa vya nyongeza
-
-cmd-show-details =
-    .label = Onyesha Maelezo Zaidi
-    .accesskey = O
-
-cmd-find-updates =
-    .label = Pata Visasaisho
-    .accesskey = P
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Chaguo
-           *[other] Mapendeleo
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] C
-           *[other] M
-        }
-
-cmd-enable-theme =
-    .label = Vaa Mandhari
-    .accesskey = V
-
-cmd-disable-theme =
-    .label = Simamisha Kuvaa Mandhari
-    .accesskey = K
-
-cmd-install-addon =
-    .label = Sakinisha
-    .accesskey = S
-
-cmd-contribute =
-    .label = Changia
-    .accesskey = C
-    .tooltiptext = Changia kwa maeneleo ya kifaa hiki cha nyongeza
 
 detail-version =
     .label = Toleo

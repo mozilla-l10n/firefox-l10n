@@ -7,10 +7,6 @@ page-subtitle = Ukurasa huu una maelezo ya kiufundi ambayo yanaweza kutumiwa wak
 
 crashes-id = Kitambulishi Ripoti
 crashes-send-date = Imewasilishwa
-extensions-title = Viendelezi
-extensions-name = Jina
-extensions-enabled = Imewezeshwa
-extensions-version = Toleo
 support-addons-name = Jina
 support-addons-version = Toleo
 app-basics-title = Misingi ya Programu

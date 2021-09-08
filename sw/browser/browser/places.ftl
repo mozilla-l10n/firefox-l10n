@@ -5,28 +5,9 @@
 places-open =
     .label = Fungua
     .accesskey = F
-places-open-tab =
-    .label = Fungua katika Kichupo Kipya
-    .accesskey = c
 places-open-all-in-tabs =
     .label = Fungua Zote kwa vichupo
     .accesskey = F
-places-open-window =
-    .label = Fungua katika Dirisha Mpya
-    .accesskey = D
-
-places-new-bookmark =
-    .label = Alamisho Mpya…
-    .accesskey = M
-places-new-folder-contextmenu =
-    .label = Kabrasha Mpya…
-    .accesskey = F
-places-new-folder =
-    .label = Kabrasha Mpya…
-    .accesskey = p
-places-new-separator =
-    .label = Kitenganishi Kipya
-    .accesskey = K
 
 places-view =
     .label = Onyesha
@@ -53,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Panga Kwa Jina
     .accesskey = r
-places-properties =
-    .label = Sifa
-    .accesskey = f
 

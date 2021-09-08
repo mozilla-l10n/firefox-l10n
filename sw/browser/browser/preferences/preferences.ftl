@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Machaguo
-       *[other] Mapendeleo
-    }
-
 pane-general-title = Ya kawaida
 category-general =
     .tooltiptext = { pane-general-title }
@@ -129,11 +123,6 @@ applications-manage-app =
     .label = Maelezo Kamili ya Programu Tumizi…
 applications-always-ask =
     .label = Uliza kila mara
-applications-type-pdf = Mtindo wa Waraka Salama (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -291,14 +280,9 @@ forms-exceptions =
     .label = Mambo ya pekee…
     .accesskey = m
 
-forms-master-pw-use =
-    .label = Tumia neno kuu la siri
-    .accesskey = T
 forms-master-pw-change =
     .label = Badilisha Jina Kuu la nywila…
     .accesskey = J
-
-forms-master-pw-fips-title = Kwa sasa upo kwenye modi ya FIPS. Inahitaji Neno la Siri Kuu lisilo tupu.
 
 forms-master-pw-fips-desc = Ubadilishaji wa Neno la Siri Umeshindwa
 

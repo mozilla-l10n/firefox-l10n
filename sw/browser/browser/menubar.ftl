@@ -88,9 +88,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Hariri
     .accesskey = H
-menu-edit-find-on =
-    .label = Tafuta kwenye Ukurasa Huu…
-    .accesskey = T
 menu-edit-find-again =
     .label = Tafuta Tena
     .accesskey = n
@@ -106,9 +103,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Mwambaa zana
     .accesskey = M
-menu-view-customize-toolbar =
-    .label = Geuza kukufaa…
-    .accesskey = G
 menu-view-sidebar =
     .label = Mwambaa upande
     .accesskey = u
@@ -173,8 +167,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Vialamisho
     .accesskey = V
-menu-bookmarks-show-all =
-    .label = Onyesha Alamisho Zote
 menu-bookmark-edit =
     .label = Hariri Alamisho Hili
 menu-bookmarks-all-tabs =
@@ -190,32 +182,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Upakuzi
     .accesskey = U
-menu-tools-addons =
-    .label = Vifaa vya nyongeza
-    .accesskey = V
 menu-tools-sync-now =
     .label = Sync Sasa
     .accesskey = S
-menu-tools-web-developer =
-    .label = Mtengenezaji wa Wavuti
-    .accesskey = M
 menu-tools-page-source =
     .label = Ukurasa na Chanzo
     .accesskey = n
 menu-tools-page-info =
     .label = Ukurasa Maelezo
     .accesskey = M
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Chaguo
-           *[other] Mapendeleo
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] C
-           *[other] l
-        }
 
 ## Window Menu
 
@@ -247,20 +222,8 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Msaada
     .accesskey = M
-menu-help-product =
-    .label = { -brand-shorter-name } Help
-    .accesskey = H
-menu-help-keyboard-shortcuts =
-    .label = Njiamkato za Kibodi
-    .accesskey = N
-menu-help-troubleshooting-info =
-    .label = Kusuluhisha Maelezo
-    .accesskey = K
 menu-help-report-site-issue =
     .label = Ripoti suala la tovuti…
 menu-help-feedback-page =
     .label = Wasilisha Maoni…
     .accesskey = W
-menu-help-safe-mode-without-addons =
-    .label = Anzisha tena na Vifaa vya Nyongeza Vilivyolemazwa…
-    .accesskey = A
