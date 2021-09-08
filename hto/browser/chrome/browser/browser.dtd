@@ -105,10 +105,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
@@ -119,8 +116,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
-<!ENTITY pointerlockWarning.beforeDomain.label "">
 
 
 
@@ -151,13 +146,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Táɨnia">
 
-<!ENTITY bookmarksButton.label          "Rɨgɨnoga">
-
-
-
-
-<!ENTITY viewBookmarksToolbar.label         "Rɨgɨnoga rádozɨ">
-
 
 
 
@@ -172,7 +160,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY downloads.label              "Yúnua">
-<!ENTITY addons.label                 "Jɨaɨe">
 
 <!ENTITY webDeveloperMenu.label       "Web fɨnorɨma">
 
@@ -191,21 +178,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Jagaɨ">
 
-<!ENTITY historyUndoMenu.label "Kómo ɨ́baika úitɨraɨ">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Kómo ɨ́baika éroraifo">
 
 
-<!ENTITY appMenuHistory.showAll.label "Nána jagaɨ éroita">
-
-<!ENTITY appMenuHistory.clearRecent.label "Kómue jagaɨ dono...">
-
-<!ENTITY appMenuHistory.viewSidebar.label "Jagaɨ radozi ákata">
-
-
-
-
-<!ENTITY appMenuRemoteTabs.label "Dáamakɨ úitɨraɨ">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -310,13 +284,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY emailPageCmd.label           "óre zótaka...">
-
-
-
-
-
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -352,14 +319,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoom.label                 "Dɨeze">
 
-
-
-<!ENTITY quitApplicationCmdWin2.label       "Jino jaide">
-<!ENTITY quitApplicationCmdWin2.accesskey   "J">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Jino jaide íedo &brandShorterName;">
-<!ENTITY quitApplicationCmd.label       "Jáiri">
-<!ENTITY quitApplicationCmd.accesskey   "J">
-<!ENTITY quitApplicationCmdMac2.label   "Jáiri íedo &brandShorterName;">
 
 
 <!ENTITY allowPopups.accesskey "p">
@@ -423,10 +382,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-<!ENTITY syncBrand.shortName.label    "Dáamakɨ">
 
 
 

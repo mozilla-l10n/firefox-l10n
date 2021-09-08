@@ -20,14 +20,6 @@ permissions-allow =
 permissions-status =
     .label = Táɨnia
 
-permissions-button-cancel =
-    .label = Fúita
-    .accesskey = F
-
-permissions-button-ok =
-    .label = Fɨebiya ñúe jóne
-    .accesskey = F
-
 permissions-capabilities-allow =
     .label = Jɨɨ
 permissions-capabilities-block =

@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Nɨzeye
-       *[other] Kúe gaɨga
-    }
-
 pane-general-title = Nána
 category-general =
     .tooltiptext = { pane-general-title }
@@ -41,12 +35,6 @@ restart-later = Úire abɨdo taineye
 ## General Section
 
 startup-header = Táɨnia
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Ɨ́fotari { -brand-short-name } Firefox dánomo aizɨ́ri
-use-firefox-sync = Yetarafue: Náama mamekɨ jɨaɨno jone. { -sync-brand-short-name } jóne ráfúe fekayena áfemakɨmo.
 
 is-default = { -brand-short-name } ó makara ja beno íte
 is-not-default = { -brand-short-name } ó makara ja beno íte
@@ -128,11 +116,6 @@ applications-manage-app =
     .label = Ráanɨ rafúe...
 applications-always-ask =
     .label = Jɨkánori
-applications-type-pdf = Éroika bíe Portable Document Format(PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -229,8 +212,6 @@ choose-bookmark =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-description = Dáamakɨ jone rigɨnua, jagaɨ, úitɨraɨ, fakara íemei ó gaɨga ráa ó jóriaɨmo.
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -287,9 +268,6 @@ forms-exceptions =
 forms-saved-logins =
     .label = Taɨnede yuamo ñúe jonega…
     .accesskey = T
-forms-master-pw-use =
-    .label = Bíemo fakadote yofueraɨma jóne
-    .accesskey = y
 forms-master-pw-change =
     .label = Jɨaɨe jóne...
     .accesskey = j

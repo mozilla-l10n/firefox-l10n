@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Kúe dama íena…
-
 ## Zoom Controls
 
 appmenuitem-new-window =
@@ -20,10 +17,9 @@ appmenuitem-new-private-window =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Bírui dáamakɨ
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Túide úitɨraɨ íñede
+
 appmenuitem-save-page =
     .label = Jóne bénomo...
 

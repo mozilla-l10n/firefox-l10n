@@ -5,14 +5,6 @@
 show-all-extensions-button =
     .label = Nana árera ákatari
 
-cmd-show-details =
-    .label = Jamano ráfue íte
-    .accesskey = J
-
-cmd-install-addon =
-    .label = Jónete
-    .accesskey = J
-
 detail-home-value =
     .value = { detail-home.label }
 

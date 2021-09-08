@@ -45,10 +45,6 @@ urlbar-translated-notification-anchor =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string won't wrap, so if the translated string is longer,
-# consider translating it as if it said only "Search Settings".
-search-one-offs-change-settings-button =
-    .label = Jenóyena jɨaɨena jóne
 search-one-offs-context-open-new-tab =
     .label = Kómue úitɨraɨ jéno
     .accesskey = ú
@@ -67,6 +63,7 @@ search-one-offs-context-open-new-tab =
 ## Identity Panel
 
 identity-passive-loaded = Bíe rábe afenedo ñúe íñede (jána izoi).
+
 identity-learn-more =
     .value = Aiyo onóde
 identity-enable-mixed-content-blocking =
@@ -93,13 +90,6 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = Jóreño óra fekáyena:
-    .accesskey = J
-popup-select-microphone =
-    .value = Fekayena úriraiya:
-    .accesskey = F
-
 ## WebRTC window or screen share tab switch warning
 
 
@@ -108,10 +98,9 @@ popup-select-microphone =
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = Jéno íe kúeno bíe íyano
 urlbar-placeholder =
     .placeholder = Jéno íe kúeno bíe íyano
+
 urlbar-switch-to-tab =
     .value = Jɨaɨe úitɨraɨ jóne:
 

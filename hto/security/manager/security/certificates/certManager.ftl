@@ -16,12 +16,6 @@
 
 ## Cert Viewer
 
-# Add usage
-verify-ssl-client =
-    .value = Komɨnɨ ñuera rabw SSL
-
-verify-ssl-server =
-    .value = Ñúe rábe taɨjɨraɨma íe SSL
 
 ## Used to show whether an override is temporary or permanent
 

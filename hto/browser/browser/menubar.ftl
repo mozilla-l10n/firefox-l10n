@@ -66,9 +66,6 @@ menu-file-email-link =
 menu-edit =
     .label = Abɨdo Fɨnode
     .accesskey = A
-menu-edit-find-on =
-    .label = Rabemo& jéno bíe íyano...
-    .accesskey = F
 menu-edit-find-again =
     .label = Ábɨdo jéno
     .accesskey = j
@@ -81,9 +78,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Jófo tajɨyena ránɨɨ
     .accesskey = r
-menu-view-customize-toolbar =
-    .label = Kúe dama íena…
-    .accesskey = K
 menu-view-sidebar =
     .label = Úieko rádozi
     .accesskey = r
@@ -148,26 +142,9 @@ menu-tools =
 menu-tools-downloads =
     .label = Yúnua
     .accesskey = Y
-menu-tools-addons =
-    .label = Jɨaɨe
-    .accesskey = J
 menu-tools-sync-now =
     .label = Bírui dáamakɨ
     .accesskey = B
-menu-tools-web-developer =
-    .label = Web fɨnorɨma
-    .accesskey = W
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Nɨzede
-           *[other] Kúe gaɨga
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] g
-        }
 
 ## Window Menu
 

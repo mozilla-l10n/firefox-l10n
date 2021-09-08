@@ -8,11 +8,6 @@ crashes-title = Fɨgóñede ráfue
 crashes-id = Ráfue ID
 crashes-send-date = Óreka
 crashes-all-reports = Nana yóga ráfue fɨgoñede
-extensions-title = Árera
-extensions-name = Mamékɨ
-extensions-enabled = Bónode
-extensions-version = Yoga rafue
-extensions-id = ID
 support-addons-name = Mamékɨ
 support-addons-version = Yoga rafue
 support-addons-id = ID
@@ -38,8 +33,6 @@ a11y-force-disabled = Jáinide izoide
 library-version-title = Yoga rafue íe rábeniko íyano.
 copy-text-to-clipboard-label = Rabéniko fákari bíe rabe jonéra jóne
 copy-raw-data-to-clipboard-label = Rabéniko fákari íte rabemo jonéra jóne
-safe-mode-title = Fáka dɨne ñúera
-restart-in-safe-mode-label = Ábɨdo taɨne jɨaɨmakɨ ráa dɨga...
 
 ## Media titles
 
@@ -108,10 +101,6 @@ has-privileged-user-namespaces = Mámekɨ náama íyano ñúe fɨnoye
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Ábɨdo jónega náama íena
-multi-process-status-1 = Ábɨdo jónega dɨnomo
-multi-process-status-2 = Duitaga
-multi-process-status-unknown = Itɨkaɨ ónoñega
 
 apz-none = Íñede
 wheel-enabled = Náze miñɨe já bónoka
