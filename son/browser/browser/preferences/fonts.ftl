@@ -89,42 +89,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Harfu hawyan gundekuna žeena se
-fonts-languages-fallback-desc = Harfu hawyanoo woo ga tee gundekuna žeena se kaŋ mongo ka nda hawaroo har.
-
-fonts-languages-fallback-name-auto =
-    .label = Tilasu sohõ nungu se
-fonts-languages-fallback-name-arabic =
-    .label = Laaraw
-fonts-languages-fallback-name-baltic =
-    .label = Balti
-fonts-languages-fallback-name-ceiso =
-    .label = Eropu gam (ISO)
-fonts-languages-fallback-name-cewindows =
-    .label = Eropu gam, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Šin faalante
-fonts-languages-fallback-name-traditional =
-    .label = Šin lasal
-fonts-languages-fallback-name-cyrillic =
-    .label = Siril
-fonts-languages-fallback-name-greek =
-    .label = Gereki
-fonts-languages-fallback-name-hebrew =
-    .label = Ebere
-fonts-languages-fallback-name-japanese =
-    .label = Žaapoŋ
-fonts-languages-fallback-name-korean =
-    .label = Koore
-fonts-languages-fallback-name-thai =
-    .label = Taayi
-fonts-languages-fallback-name-turkish =
-    .label = Turki
-fonts-languages-fallback-name-vietnamese =
-    .label = Wiyetinam
-fonts-languages-fallback-name-other =
-    .label = Tana (nda Eropu dangay)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

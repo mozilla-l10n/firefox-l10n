@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Suubarey
-       *[other] Ibaayey
-    }
-
 pane-general-title = Yamma
 category-general =
     .tooltiptext = { pane-general-title }
@@ -55,14 +49,6 @@ search-results-header = Ceeci duurawey
 
 startup-header = Tunandi
 
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Naŋ { -brand-short-name } nda Firefox ma dira cere bande
-use-firefox-sync = Dabari: Woo ga goy nda alhaali fayanteyaŋ. Goy nda { -sync-brand-short-name } ka bayhayey žemni gamey ra.
-get-started-not-logged-in = Huru { -sync-brand-short-name } ra…
-get-started-configured = { -sync-brand-short-name } ibaayey feeri
-
 always-check-default =
     .label = Guna waati kul wala { -brand-short-name } ti war tilasu ceecikaa
     .accesskey = w
@@ -83,10 +69,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = War yaamar waati kaŋ kanji booboyaŋ ga feera, nd'i ga { -brand-short-name } gayandi
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = Waati kaŋ ay ga dobu feeri kanji taaga ra, bere a ga dogoo ra
-    .accesskey = t
 
 show-tabs-in-taskbar =
     .label = Moo-daaru kanji cebe Windows goymaaboŋ ra
@@ -217,11 +199,6 @@ applications-manage-app =
     .label = Porogaram šilbayhayey…
 applications-always-ask =
     .label = Hãa waati kul
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -364,8 +341,6 @@ search-suggestions-option =
 
 search-suggestions-cant-show = Ceeci honnandiyaney ši cebe gorodoo zuu hunyaney ra zama war na { -brand-short-name } hanse a ma ši honga taariki kul.
 
-search-one-click-header = Cee-foo naaguyan ceecijinawey
-
 search-choose-engine-column =
     .label = Ceecijinay
 search-choose-keyword-column =
@@ -404,7 +379,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = War internetoo kanbe war bande
-sync-signedout-description = War doo-šilbawey, taariki, kanji, šennikufaley, tontoney nda ibaayey hangandi cere war jinawey kul ga.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -478,14 +452,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Huruyan maa gaabuntey…
     .accesskey = m
-forms-master-pw-use =
-    .label = Takaddaɲaa šennikufal goyandi
-    .accesskey = g
 forms-master-pw-change =
     .label = Takaddaɲaa šennikufal barmay
     .accesskey = T
-
-forms-master-pw-fips-title = Sohõda war goo FIPS yaayi ra. FIPS ga takaddaɲaa šennikufal kaŋ ši koonu waažibandi.
 
 forms-master-pw-fips-desc = Šennikufal mana hin ka barmay mana
 
@@ -599,16 +568,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Tabatiyan-tiirawey
-
-certs-personal-label = Waati kaŋ feršikaw n'ay boŋ tabatiyan-tiiraa wiri
-
-certs-select-auto-option =
-    .label = Affoo suuba boŋse
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Hãa waati foo kul
-    .accesskey = A
 
 certs-enable-ocsp =
     .label = Hayyan OCSP zaabi feršikey ka sohõda tabatandi tiira booriyanoo cimandi.

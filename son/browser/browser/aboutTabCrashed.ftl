@@ -10,7 +10,5 @@ crashed-request-help-message = Kaŋyan bayrandey g'ir gaa ka šendawey maate nda
 crashed-request-report-title = Kanjoo woo bayrandi
 crashed-comment =
     .placeholder = Daarayaŋ tonton (daarawey ga hin ka diyandi)
-crashed-email-placeholder = War bataga aderesoo dam ne
-crashed-email-me = Bataga tee yane nd' alhabar tontoni bangay
 crashed-report-sent = Kaŋyan bayrandi n' ka sanbandi ka ben; foofo nda war faabaa ka { -brand-short-name } boryandi ka tonton!
 crashed-request-auto-submit-title = Bandafaari kanjey bayrandi

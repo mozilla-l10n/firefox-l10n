@@ -7,8 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY appmenu.tooltip                     "Šilbayboŋ feeri">
-
 <!ENTITY navbarOverflow.label                "Goyjinay tontoney…">
 
 <!-- Tab context menu -->
@@ -19,9 +17,6 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Kanji koli">
-<!ENTITY  unpinTab.label                     "Nor loku bukandi">
-
 <!ENTITY  listAllTabs.label      "Kanjey kul šeedandi">
 
 <!ENTITY tabCmd.label "Kanji taaga">
@@ -30,9 +25,6 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Šilbayboŋ žeeri">
 <!ENTITY menubarCmd.accesskey "r">
-<!ENTITY personalbarCmd.label "Doo-šilbawey goyjinay žeeri">
-<!ENTITY personalbarCmd.accesskey "D">
-<!ENTITY bookmarksToolbarItem.label "Doo-šilbawey goyjinay žeeri hayiizey">
 
 <!ENTITY fullScreenCmd.label "Dijikul">
 
@@ -43,28 +35,16 @@ can reach it easily. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "dijikul cebeyan sohõ">
-<!ENTITY fullscreenWarning.generic.label "Takaddaa woo ga cebe dijikul ga sohõ">
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
-<!ENTITY exitDOMFullscreen.button "Fatta dijikul ra (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Fatta dijikul ra (esc)">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "ga war cebejiyoo juwal. Esc naagu ka juwaloo taa koyne.">
-<!ENTITY pointerlockWarning.generic.label "Takaddaa woo ga war cebejiyoo juwal. Esc naagu ka juwaloo taa koyne.">
-
-<!ENTITY showAllBookmarks2.label "Doo-šilbawey kul cebe">
-<!ENTITY recentBookmarks.label "Kokor doo-šilbantey">
-<!ENTITY bookmarksToolbarChevron.tooltip "Doo-šilbay tontoney cebe">
 
 <!ENTITY printButton.label            "Kar">
 <!ENTITY printButton.tooltip          "Moɲoo woo kar">
@@ -75,14 +55,6 @@ can reach it easily. -->
 
 <!ENTITY homeButton.label             "Šintin">
 
-<!ENTITY bookmarksButton.label          "Doo-šilbawey">
-
-<!ENTITY bookmarksMenuButton.other.label "Doo-šilbay taaney">
-<!ENTITY bookmarksMenuButton.mobile.label "Doo-šilbay dirantey">
-<!ENTITY viewBookmarksSidebar2.label        "Doo-šilbawey goyjinay zuu">
-<!ENTITY viewBookmarksToolbar.label         "Doo-šilbawey goyjinay žeeri">
-<!ENTITY searchBookmarks.label              "Doo-šilbawey ceeci">
-
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -90,7 +62,6 @@ can reach it easily. -->
 <!ENTITY historyButton.label            "Taariki">
 
 <!ENTITY downloads.label              "Zumandiyaney">
-<!ENTITY addons.label                 "Tontoney">
 
 <!ENTITY webDeveloperMenu.label       "Tataaru cinakaw">
 
@@ -105,26 +76,11 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "Taariki">
 
-<!ENTITY historyUndoMenu.label "Kanjey kaŋ kokor ka daaba">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Zanfun kokor daabantey">
-
-<!ENTITY appMenuHistory.showAll.label "Taarikoo kul cebe">
-
-<!ENTITY appMenuHistory.clearRecent.label "Taariki kokorantaa tuusu…">
-<!ENTITY appMenuHistory.restoreSession.label "Goywaati bisantaa yeeti">
-<!ENTITY appMenuHistory.viewSidebar.label "Taariki ceraw zuu cebe">
-
 <!ENTITY appMenuHelp.label "Faaba">
-
-<!ENTITY appMenuRemoteTabs.label "Kanji hangantey">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Kanji kul ši feeri">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Cebe ka tonton">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Kanji taney cebe jinaa woo ga">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -134,8 +90,6 @@ can reach it easily. -->
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Kanji hangandiyan tunandi ka dii kanjey maašeede jinay taney ga.">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ga boona ka dii war jinay taney kanjey ne wala?">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Goyey juwal…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Kanji hangantey ceraw-zuwoo guna">
 
 <!ENTITY customizeMenu.addToToolbar.label "Goyjinay zuu tonton">
 <!ENTITY customizeMenu.addToToolbar.accesskey "o">
@@ -148,8 +102,6 @@ can reach it easily. -->
 
 
 
-<!ENTITY customizeMenu.removeFromToolbar.label "Kaataray goyjinay zuu ra">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Hayizeyaŋ tonton…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -209,8 +161,6 @@ can reach it easily. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "k">
 
-<!ENTITY emailPageCmd.label           "Bataga dobu…">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -227,14 +177,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Bebbeerandi">
 
 <!ENTITY sidebarCloseButton.tooltip     "Ceraw-zuu daabu">
-
-
-<!ENTITY quitApplicationCmdWin2.label       "Fatta">
-<!ENTITY quitApplicationCmdWin2.accesskey   "F">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Fatta &brandShorterName; ra">
-<!ENTITY quitApplicationCmd.label       "Fatta">
-<!ENTITY quitApplicationCmd.accesskey   "F">
-<!ENTITY quitApplicationCmdMac2.label   "Fatta &brandShorterName; ra">
 
 
 <!ENTITY allowPopups.accesskey "p">
@@ -266,9 +208,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
-
-
-<!ENTITY syncBrand.shortName.label    "Sync">
 
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
@@ -311,10 +250,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "War taariki koraa n' ka tuusandi.">
 <!ENTITY panicButton.thankyou.msg2                "Ceeciyan saajante!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Foo nda goy!">
-
-<!ENTITY updateAvailable.panelUI.label "&brandShorterName; taagandiroo zumandi">
-
-<!ENTITY updateManual.panelUI.label "&brandShorterName; dumi teji foo zumandi">
 
 
 

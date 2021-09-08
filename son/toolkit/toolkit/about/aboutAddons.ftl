@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Tontoney juwalkaa
-
 addons-page-title = Tontoney juwalkaa
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Dobuyaney kul cebe
-
-cmd-show-details =
-    .label = Alhabar cebe ka tonton
-    .accesskey = c
-
-cmd-find-updates =
-    .label = Taagandirey ceeci
-    .accesskey = T
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Suubarey
-           *[other] Ibaayey
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] b
-        }
-
-cmd-enable-theme =
-    .label = Bankaaray furari
-    .accesskey = B
-
-cmd-disable-theme =
-    .label = Bankaaray furari kayandi
-    .accesskey = B
-
-cmd-install-addon =
-    .label = Sinji
-    .accesskey = S
-
-cmd-contribute =
-    .label = Kanbuzaamay
-    .accesskey = K
-    .tooltiptext = Kanbuzaamay tontonoo woo cineyanoo še
 
 detail-version =
     .label = Dumi

@@ -5,7 +5,6 @@
 synced-tabs-sidebar-title = Kanji hangantey
 synced-tabs-sidebar-noclients-subtitle = Mar ga boona ka dii war jinay taney kanjey ne?
 synced-tabs-sidebar-notabs = Kanji feerante kul šii
-synced-tabs-sidebar-openprefs = { -sync-brand-short-name } ibaayey feeri
 synced-tabs-sidebar-tabsnotsyncing = Kanji hangandiyan tunandi ka dii kanjey maašeede jinay taney ga.
 synced-tabs-context-open =
     .label = Feeri
@@ -34,4 +33,3 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Sync sohõ
     .accesskey = S
-fxa-sign-in = Huru { -sync-brand-short-name } ra

@@ -6,9 +6,6 @@ password-quality-meter = Šennikufal hennari meetar
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Takaddaɲaa šennikufal barmay
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Saajaw jinay: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Šennikufal taaga (koyme):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Takaddaɲaa šennikufal yeeri
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Yeeti
-reset-password-text = Nda war na war takaddaɲaa šennikufaloo yeeri, war tataaru nungu nda bataga šennikufaley kul, war takari bayhayey, boŋše tabatiyan-tiirawey nda sutura kufaley kul ga dere. Alhakiika war ga baa ka war takaddaɲaa šennikufaloo yeeri?
 
 ## Downloading cert dialog
 

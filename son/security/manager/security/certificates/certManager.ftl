@@ -17,42 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Hiney
 
-certmgr-detail-general-tab-title =
-    .label = Hankul
-    .accesskey = H
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Šilbayhayey
-    .accesskey = b
-
-certmgr-pending-label =
-    .value = Goo ma tabatiyan-tiiraa koroši sohõda…
-
-certmgr-subject-label = Wallafi woo še
-
-certmgr-issuer-label = Woo n'a wallafi
-
-certmgr-period-of-validity = Booriyan waati
-
-certmgr-fingerprints = Kabežeerey
-
-certmgr-cert-detail =
-    .title = Tabatiyan-tiira šilbayhayey
-    .buttonlabelaccept = Daabu
-    .buttonaccesskeyaccept = D
-
-certmgr-cert-detail-commonname = Hankul maa (CN)
-
-certmgr-cert-detail-org = Goykonda (O)
-
-certmgr-cert-detail-orgunit = Goykonda izefoo (OU)
-
-certmgr-cert-detail-serial-number = Fannu lanba
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 kabežeeri
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 kabežeeri
-
 certmgr-edit-ca-cert =
     .title = Tabatiyan-tiira hini naanay kayandiyaney fasal
     .style = width: 48em;
@@ -81,12 +45,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Saajaw jinay
 
-certmgr-begins-on = Šintin hane
-
 certmgr-begins-label =
     .label = Šintin hane
-
-certmgr-expires-on = Waati ben han
 
 certmgr-expires-label =
     .label = Waati ben han
@@ -128,18 +88,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Cendi ka dam…
     .accesskey = C
-
-certmgr-details =
-    .value = Tabatiyan-tiira faarey
-    .accesskey = f
-
-certmgr-fields =
-    .value = Faari alkadar
-    .accesskey = a
-
-certmgr-hierarchy =
-    .value = Tabatiyan-tiira kanandi
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Hasaraw tonton…
@@ -203,12 +151,6 @@ delete-user-cert-confirm = Alhakiika war ga baa ka feršikaw tabatiyan-tiira has
 delete-user-cert-impact = Nda war na war tabatiyan-tiirawey affoo tuusu, war ši ye ka hin k'a ka war boŋ tammaasa.
 
 
-delete-ssl-cert-title =
-    .title = Feršikaw tabatiyan-tiira hasarawey tuusu
-delete-ssl-cert-confirm = Alhakiika war ga baa ka feršikaa hasarawey wey tuusu?
-delete-ssl-cert-impact = Nda war na feršikaa hasaraa tuusu, war ga doonay saajaw korošiyaney yeeri feršikaa din še nda woo ga tabatiyan-tiira boryo waažibandi.
-
-
 delete-ca-cert-title =
     .title = Tabatiyan-tiira hiney tuusu wal'i fay
 delete-ca-cert-confirm = War ceeci ka tabatiyan-tiira hini tiirawey wey tuusu. Naanay ka hun kunahere tabatiyan-tiirawey kul ga, woo kaŋ ga haya follokaa tee. Alhakiika war ga baa k'a tuusu wala ka fay?
@@ -228,45 +170,6 @@ cert-with-serial =
     .value = Tabatiyan-tiira nda fannu lanba: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Tabatiyan-tiira gunakaw: “{ $certName }”
-
-not-present =
-    .value = <Manti tabatiyan-tiiraa jere>
-
-# Cert verification
-cert-verified = Tabatiyan-tiiraa woo korosandi goyey wey se:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL daykaw tabatiyan-tiira
-
-verify-ssl-server =
-    .value = SSL feršikaw tabatiyan-tiira
-
-verify-ssl-ca =
-    .value = SSL tabatiyan-tiira hini
-
-verify-email-signer =
-    .value = Bataga šilbaykaw tabatiyan-tiira
-
-verify-email-recip =
-    .value = Bataga duukaw tabatiyan-tiira
-
-# Cert verification
-cert-not-verified-cert-revoked = Mana hin ka tabatiyan-tiiraa woo koroši zama a n' ka dogandi.
-cert-not-verified-cert-expired = Mana hin ka tabatiyan-tiiraa woo koroši zama nga waatoo ka ben.
-cert-not-verified-cert-not-trusted = Mana hin ka tabatiyan-tiiraa woo koroši zama naanay ši a ga.
-cert-not-verified-issuer-not-trusted = Mana hin ka tabatiyan-tiiraa woo koroši zama naanay ši kaataraykaa ga.
-cert-not-verified-issuer-unknown = Mana hin ka tabatiyan-tiiraa woo koroši zama kaataraykaa ši bayandi.
-cert-not-verified-ca-invalid = Mana hin ka tabatiyan-tiiraa woo koroši zama nga tabatiyan-tiira hini tabatiyan-tiiraa ši boori.
-cert-not-verified_algorithm-disabled = Mana hin ka tabatiyan-tiiraa woo zama a ma šilbandi nda kabu laasaabu kaŋ kayandi zama kabu laasaaboo manti saajante.
-cert-not-verified-unknown = Mana hin ka tabatiyan-tiiraa woo koroši dalil šibayante se.
 
 ## Used to show whether an override is temporary or permanent
 

@@ -24,14 +24,6 @@ permissions-allow =
 permissions-status =
     .label = Assariya
 
-permissions-button-cancel =
-    .label = Naŋ
-    .accesskey = N
-
-permissions-button-ok =
-    .label = Barmawey gaabu
-    .accesskey = g
-
 permissions-capabilities-allow =
     .label = Noo fondo
 permissions-capabilities-block =

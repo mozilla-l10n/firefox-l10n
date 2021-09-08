@@ -10,11 +10,6 @@ crashes-id = Bayrandi boŋtammaasa
 crashes-send-date = Sanba han
 crashes-all-reports = Kaŋyan bayrandikey kul
 crashes-no-config = Porogaramoo mana hansandi to kaŋyan bayrandey cebe.
-extensions-title = Dobuyaney
-extensions-name = Maa
-extensions-enabled = Tunante
-extensions-version = Dumi
-extensions-id = ID
 support-addons-name = Maa
 support-addons-version = Dumi
 support-addons-id = ID
@@ -82,8 +77,6 @@ sandbox-sys-call-index = #
 sandbox-sys-call-age = A ga too kayna
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
-safe-mode-title = Saajaw alhaali šii
-restart-in-safe-mode-label = Tunandi taaga nda tontoni kayantey…
 
 ## Media titles
 
@@ -180,19 +173,12 @@ gpu-ram = RAM
 gpu-driver-version = Jinay dirandikaw dumi
 gpu-driver-date = Jinay dirandikaw han
 gpu-active = Dirante
-blocklisted-bug = Gagayandi mise bayanteyaŋ se
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = laybu { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Gagayante; kayyan ašariya { $failureCode }
 
 d3d11layers-crash-guard = D3D11 teekaw
-d3d11video-crash-guard = D3D11 widewo feerandikaw
-d3d9video-crash-guard = D3D9 widewo feerandikaw
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Yeeti hiino tunandiyanoo ga
@@ -213,14 +199,6 @@ content-sandbox-level = Gundekuna koyjineyan Sandbox dimma
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Goykaa k'a tunandi
-multi-process-status-1 = Kaŋ tunandi nda tilasu
-multi-process-status-2 = Kayante
-multi-process-status-4 = Duwandiyan goyjinawey k'a kayandi
-multi-process-status-6 = Hantum damhaya bila nda faaba k'a kayandi
-multi-process-status-7 = Tontoney k'a kayandi
-multi-process-status-8 = A kay nda gaabi
-multi-process-status-unknown = Alhaali šibayante
 
 async-pan-zoom = Waani-waani bii tuti nda cendiyan
 apz-none = baffoo

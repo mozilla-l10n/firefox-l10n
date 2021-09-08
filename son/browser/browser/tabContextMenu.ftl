@@ -21,10 +21,6 @@ move-to-new-window =
     .label = Ganandi zanfun taagaa ra
     .accesskey = z
 
-close-tab =
-    .label = Kanjoo daabu
-    .accesskey = d
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 

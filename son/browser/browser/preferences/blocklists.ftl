@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Maašeede
 
-blocklist-button-cancel =
-    .label = Naŋ
-    .accesskey = N
-
-blocklist-button-ok =
-    .label = Barmawey gaabu
-    .accesskey = g
-
 
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.

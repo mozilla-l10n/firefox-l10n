@@ -28,7 +28,3 @@ translation-sites-button-remove-all =
     .label = Nungey kul kaa
     .accesskey = u
 
-translation-button-close =
-    .label = Daabu
-    .accesskey = D
-

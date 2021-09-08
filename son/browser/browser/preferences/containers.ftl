@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Sun taaga tonton
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } sun ibaayey
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -27,10 +22,6 @@ containers-window-close =
 
 containers-name-text =
     .placeholder = Sun maa dam
-
-containers-button-done =
-    .label = A ben
-    .accesskey = b
 
 containers-color-blue =
     .label = Bula

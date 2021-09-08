@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Tuusu">
 
-<!ENTITY fillLoginMenu.label          "Huruyan maa dam">
-<!ENTITY fillLoginMenu.accesskey      "d">
-<!ENTITY fillPasswordMenu.label       "Šennikufal dam">
-<!ENTITY fillPasswordMenu.accesskey   "d">
-<!ENTITY fillUsernameMenu.label       "Goykaw maa dam">
-<!ENTITY fillUsernameMenu.accesskey   "d">
-<!ENTITY noLoginSuggestions.label     "(Huruyan maa honnandiyan kul šii)">
-<!ENTITY viewSavedLogins.label        "Huruyan maa gaabuntey guna">

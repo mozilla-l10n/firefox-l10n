@@ -107,9 +107,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Fasal
     .accesskey = F
-menu-edit-find-on =
-    .label = Moɲoo woo ceeci…
-    .accesskey = e
 menu-edit-find-again =
     .label = Ceeci koyne
     .accesskey = k
@@ -125,9 +122,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Goyjinay žeerey
     .accesskey = G
-menu-view-customize-toolbar =
-    .label = Hanse war boŋ se…
-    .accesskey = H
 menu-view-sidebar =
     .label = Cerawžeeri
     .accesskey = C
@@ -158,9 +152,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Moo fasal faala
     .accesskey = f
-menu-view-charset =
-    .label = Hantum harfu-hawyan
-    .accesskey = a
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -207,10 +198,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Doo-šilbawey
     .accesskey = b
-menu-bookmarks-show-all =
-    .label = Doo-šilbawey kul cebe
-menu-bookmark-this-page =
-    .label = Moɲoo woo šilbay
 menu-bookmark-edit =
     .label = Doo-šilbaa woo fasal
 menu-bookmarks-all-tabs =
@@ -230,32 +217,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Zumandiyaney
     .accesskey = Z
-menu-tools-addons =
-    .label = Tontoney
-    .accesskey = T
 menu-tools-sync-now =
     .label = Sync sohõ
     .accesskey = S
-menu-tools-web-developer =
-    .label = Tataaru cinakaw
-    .accesskey = T
 menu-tools-page-source =
     .label = Moo aššil
     .accesskey = a
 menu-tools-page-info =
     .label = Moo alhabar
     .accesskey = a
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Suubarey
-           *[other] Ibaayey
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] I
-        }
 
 ## Window Menu
 
@@ -286,27 +256,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Faaba
     .accesskey = F
-menu-help-product =
-    .label = { -brand-shorter-name } faaba
-    .accesskey = f
-menu-help-show-tour =
-    .label = { -brand-shorter-name } wanga
-    .accesskey = w
-menu-help-keyboard-shortcuts =
-    .label = Walha dunbandiyaney
-    .accesskey = W
-menu-help-troubleshooting-info =
-    .label = Karkahattayan alhabar
-    .accesskey = K
 menu-help-feedback-page =
     .label = Furari sanba…
     .accesskey = s
-menu-help-safe-mode-without-addons =
-    .label = Tunandi taaga kaŋ tontoney kayandi…
-    .accesskey = u
-menu-help-safe-mode-with-addons =
-    .label = Tunandi taaga kaŋ tontoney ga kayandi
-    .accesskey = u
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
