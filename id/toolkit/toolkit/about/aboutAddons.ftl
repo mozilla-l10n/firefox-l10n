@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Pengelola Pengaya
-
 addons-page-title = Pengelola Pengaya
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Dukungan Pengaya
 sidebar-help-button-title =
     .title = Dukungan Pengaya
 
-preferences =
-    { PLATFORM() ->
-        [windows] Opsi { -brand-short-name }
-       *[other] Preferensi { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opsi { -brand-short-name }
-           *[other] Preferensi { -brand-short-name }
-        }
-
 addons-settings-button = Pengaturan { -brand-short-name }
 sidebar-settings-button-title =
     .title = Pengaturan { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Tampilkan semua ekstensi
-
-cmd-show-details =
-    .label = Tampilkan Informasi Lebih Lanjut
-    .accesskey = i
-
-cmd-find-updates =
-    .label = Temukan Versi Baru
-    .accesskey = B
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Pengaturan
-           *[other] Pengaturan
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] P
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Gunakan Tema
-    .accesskey = G
-
-cmd-disable-theme =
-    .label = Berhenti Menggunakan Tema
-    .accesskey = B
-
-cmd-install-addon =
-    .label = Pasang
-    .accesskey = P
-
-cmd-contribute =
-    .label = Berkontribusi
-    .accesskey = k
-    .tooltiptext = Ikut berkontribusi pengembangan pengaya ini
 
 detail-version =
     .label = Versi
@@ -397,8 +345,6 @@ dictionary-disabled-heading = Nonaktif
 
 locale-enabled-heading = Aktif
 locale-disabled-heading = Nonaktif
-
-ask-to-activate-button = Minta untuk Mengaktifkan
 
 always-activate-button = Selalu Aktif
 never-activate-button = Jangan Pernah Aktifkan

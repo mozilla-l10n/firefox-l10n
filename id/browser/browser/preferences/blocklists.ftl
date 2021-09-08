@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Daftar
 
-blocklist-button-cancel =
-    .label = Batal
-    .accesskey = B
-
-blocklist-button-ok =
-    .label = Simpan Perubahan
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Simpan Perubahan
     .buttonaccesskeyaccept = S

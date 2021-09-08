@@ -53,9 +53,6 @@ import-label = Impor
 
 about-paragraph = Thunderbird adalah klien surel dan kalender lintas platform sumber terbuka, yang gratis digunakan untuk bisnis dan penggunaan pribadi. Kami ingin tetap aman dan menjadi lebih baik. Donasi akan memungkinkan kami untuk mempekerjakan pengembang, membayar infrastruktur, dan terus melakukan peningkatan.
 
-about-paragraph-2 = <b>Thunderbird didanai oleh pengguna seperti Anda! Jika Anda menyukai Thunderbird, silakan pertimbangkan untuk memberikan donasi.</b> Cara terbaik untuk memastikan Thunderbird tetap tersedia adalah dengan
-about-donation = berdonasi
-
 about-paragraph-consider-donation = <b>Thunderbird didanai oleh pengguna seperti Anda! Jika Anda menyukai Thunderbird, silakan pertimbangkan untuk memberikan donasi.</b> Cara terbaik untuk memastikan Thunderbird tetap tersedia adalah dengan <a data-l10n-name="donation-link"> berdonasi </a>.
 
 explore-link = Jelajahi Fitur

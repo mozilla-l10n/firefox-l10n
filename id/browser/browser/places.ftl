@@ -5,9 +5,6 @@
 places-open =
     .label = Buka
     .accesskey = B
-places-open-tab =
-    .label = Buka di Tab Baru
-    .accesskey = T
 places-open-in-tab =
     .label = Buka di Tab Baru
     .accesskey = T
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Buka Semua di Tab
     .accesskey = m
-places-open-window =
-    .label = Buka di Jendela Baru
-    .accesskey = J
-places-open-private-window =
-    .label = Buka Tautan di Jendela Penjelajahan Pribadi Baru
-    .accesskey = P
-
-places-new-bookmark =
-    .label = Markah Baru…
-    .accesskey = M
-places-new-folder-contextmenu =
-    .label = Folder Baru…
-    .accesskey = F
-places-new-folder =
-    .label = Folder Baru…
-    .accesskey = F
-places-new-separator =
-    .label = Garis Pemisah Baru
-    .accesskey = G
 
 places-open-in-window =
     .label = Buka di Jendela Baru
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Urut Berdasar Nama
     .accesskey = r
-places-properties =
-    .label = Properti
-    .accesskey = i
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -133,3 +108,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Kelola Markah
     .accesskey = K
+

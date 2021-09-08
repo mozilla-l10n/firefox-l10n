@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Sidik jari kunci OTR dari percakapan terenkripsi ujung-ke-ujung sebelumnya.
 
-finger-screenName =
-    .label = Kontak
-
 finger-verified =
     .label = Status Verifikasi
 finger-fingerprint =

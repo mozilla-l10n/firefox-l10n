@@ -9,9 +9,6 @@ newtab-page-title = Tab Baru
 newtab-settings-button =
     .title = Ubahsuai laman Tab Baru Anda
 
-newtab-personalize-button-label = Personalisasikan
-    .title = Personalisasikan tab baru
-    .aria-label = Personalisasikan tab baru
 newtab-personalize-icon-label =
     .title = Personalisasikan tab baru
     .aria-label = Personalisasikan tab baru
@@ -24,8 +21,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Cari
     .aria-label = Cari
-
-newtab-search-box-search-the-web-text = Cari di Web
 
 # Variables
 #  $engine (String): the name of the user's default search engine
@@ -260,10 +255,4 @@ newtab-custom-recent-title = Aktivitas terbaru
 newtab-custom-recent-subtitle = Pilihan situs dan konten terbaru
 newtab-custom-close-button = Tutup
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Cuplikan
-newtab-custom-snippets-subtitle = Kiat dan berita dari { -vendor-short-name } dan { -brand-product-name }
 newtab-custom-settings = Kelola pengaturan lainnya

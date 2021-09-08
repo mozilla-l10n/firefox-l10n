@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Buat Tangkapan Layar
-
-screenshots-my-shots-button = Tangkapan Saya
-
 screenshot-toolbarbutton =
     .label = Tangkapan Layar
     .tooltiptext = Ambil Tangkapan Layar
@@ -40,8 +36,6 @@ screenshots-login-error-details = Kami tidak dapat menyimpan gambar Anda karena 
 
 screenshots-unshootable-page-error-title = Kami tidak dapat menangkap layar laman ini.
 screenshots-unshootable-page-error-details = Ini bukan laman Web yang standar, sehingga Anda tidak dapat membuat tangkapan dari layar ini.
-
-screenshots-self-screenshot-error-title = Anda tidak dapat merekam gambar dari laman { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Seleksi Anda terlalu kecil
 

@@ -7,20 +7,12 @@ about-logins-page-title = Info Masuk dan Kata Sandi
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Bawa kata sandi Anda ke mana saja
-login-app-promo-subtitle = Dapatkan aplikasi gratis { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Dapatkan di Google Play
-login-app-promo-apple =
-    .alt = Unduh di App Store
-
 login-filter =
     .placeholder = Cari Info Masuk
 
 create-login-button = Buat Info Masuk Baru
 
 fxaccounts-sign-in-text = Dapatkan kata sandi Anda di perangkat lain
-fxaccounts-sign-in-button = Masuk ke { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Masuk untuk sinkronisasi
 fxaccounts-avatar-button =
     .title = Kelola akun
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Pengaturan
     }
 about-logins-menu-menuitem-help = Bantuan
-menu-menuitem-android-app = { -lockwise-brand-short-name } untuk Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } untuk iPhone dan iPad
 
 ## Login List
 
@@ -71,14 +61,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Mencari info masuk Anda yang tersimpan? Siapkan { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = Mencari info masuk Anda yang simpan? Aktifkan sinkronisasi atau mengimpornya.
 about-logins-login-intro-heading-logged-in = Info masuk yang disinkronkan tidak ditemukan.
 login-intro-description = Jika Anda menyimpan info masuk Anda di { -brand-product-name } pada perangkat lain, berikut cara mendapatkannya di sini:
-login-intro-instruction-fxa = Buat atau masuk ke { -fxaccount-brand-name } Anda pada perangkat tempat info masuk Anda tersimpan
-login-intro-instruction-fxa-settings = Pastikan Anda telah memilih kotak centang Info Masuk pada Pengaturan { -sync-brand-short-name }
-about-logins-intro-instruction-help = Kunjungi <a data-l10n-name="help-link">Bantuan { -lockwise-brand-short-name }</a> untuk bantuan lebih lanjut
 login-intro-instructions-fxa = Buat atau masuk ke { -fxaccount-brand-name } Anda pada perangkat tempat info masuk Anda tersimpan
 login-intro-instructions-fxa-settings = Buka Pengaturan > Sinkronisasi > Aktifkan sinkronisasi… Centang Info masuk dan sandi.
 login-intro-instructions-fxa-help = Kunjungi <a data-l10n-name="help-link">Bantuan { -lockwise-brand-short-name }</a> untuk bantuan lebih lanjut.
@@ -140,8 +125,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = menyalin kata sandi t
 
 ## Master Password notification
 
-master-password-notification-message = Masukkan kata sandi utama Anda untuk melihat info masuk dan kata sandi yang disimpan
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Untuk mengekspor info masuk Anda, silakan masukkan kredensial info masuk Windows Anda. Ini akan membantu mengamankan akun Anda.
 # This message can be seen when attempting to export a password in about:logins
@@ -156,22 +139,6 @@ master-password-reload-button =
     .accesskey = M
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Ingin mendapatkan info masuk Anda di mana saja menggunakan { -brand-product-name }? Buka Pengaturan { -sync-brand-short-name } dan pilih kotak centang Info Masuk.
-       *[other] Ingin mendapatkan info masuk Anda di mana saja menggunakan { -brand-product-name }? Buka Pengaturan { -sync-brand-short-name } dan pilih kotak centang Info Masuk.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Kunjungi Pengaturan { -sync-brand-short-name }
-           *[other] Kunjungi Pengaturan { -sync-brand-short-name }
-        }
-    .accesskey = K
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Jangan tanyakan lagi
-    .accesskey = J
 
 ## Dialogs
 

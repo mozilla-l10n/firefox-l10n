@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Secara otomatis mengikuti keadaan daring yang terdeteksi
     .accesskey = d
 
-startup-label = Status manual saat memulai:
-
 status-radio-remember =
     .label = Ingat Status Mode Daring Sebelumnya
     .accesskey = I

@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Selalu
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Pengaturan
-       *[other] Pengaturan
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Temukan di Pengaturan
-           *[other] Temukan di Pengaturan
-        }
-
 settings-page-title = Pengaturan
 
 # This is used to determine the width of the search field in about:preferences,
@@ -65,10 +43,6 @@ category-search =
 pane-privacy-title = Privasi & Keamanan
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 pane-sync-title3 = Sinkronisasi
 category-sync3 =
@@ -113,14 +87,6 @@ restart-later = Mulai Ulang Nanti
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Ekstensi <img data-l10n-name="icon"/> { $name } mengendalikan laman beranda Anda.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Ekstensi <img data-l10n-name="icon"/> { $name } mengendalikan laman Tab Baru Anda.
-
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = Ekstensi <img data-l10n-name="icon"/> { $name } mengendalikan setelan ini.
@@ -128,10 +94,6 @@ extension-controlled-password-saving = Ekstensi <img data-l10n-name="icon"/> { $
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Sebuah ekstensi bernama <img data-l10n-name="icon"/> { $name } mengendalikan setelan ini.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Ekstensi <img data-l10n-name="icon"/> { $name } telah menyetel mesin pencari baku Anda.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -157,13 +119,6 @@ extension-controlled-enable = Untuk mengaktifkan ekstensi buka Pengaya <img data
 search-results-header = Hasil Pencarian
 
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Maaf! Tidak ada hasil di Preferensi untuk “<span data-l10n-name="query"></span>”.
-       *[other] Maaf! Tidak ada hasil di Preferensi untuk “<span data-l10n-name="query"></span>”.
-    }
-
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Maaf! Tidak ada hasil di Pengaturan untuk “<span data-l10n-name="query"></span>”.
 
 search-results-help-link = Butuh bantuan? Kunjungi <a data-l10n-name="url">Dukungan { -brand-short-name }</a>
@@ -171,14 +126,6 @@ search-results-help-link = Butuh bantuan? Kunjungi <a data-l10n-name="url">Dukun
 ## General Section
 
 startup-header = Memulai
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Izinkan { -brand-short-name } dan Firefox untuk dijalankan pada saat yang bersamaan
-use-firefox-sync = Kiat: Fitur ini menggunakan data profil yang berbeda. Gunakan fitur { -sync-brand-short-name } untuk berbagi data antar-profil tersebut.
-get-started-not-logged-in = Masuk ke { -sync-brand-short-name }…
-get-started-configured = Buka preferensi { -sync-brand-short-name }
 
 always-check-default =
     .label = Selalu periksa apakah { -brand-short-name } adalah peramban baku Anda
@@ -218,10 +165,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Ingatkan bahwa ketika membuka banyak tab mungkin akan memperlambat { -brand-short-name }
     .accesskey = l
-
-switch-links-to-new-tabs =
-    .label = Saat membuka tautan di sebuah tab baru, langsung pindah ke tab tersebut
-    .accesskey = h
 
 switch-to-new-tabs =
     .label = Saat Anda membuka suatu tautan, gambar, atau media di tab baru, seketika beralih ke sana
@@ -398,11 +341,6 @@ applications-manage-app =
     .label = Detail Aplikasi…
 applications-always-ask =
     .label = Tanyakan selalu
-applications-type-pdf = Format Dokumen Portabel (Portable Document Format - PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -492,17 +430,6 @@ update-application-warning-cross-user-setting = Pengaturan ini akan berlaku untu
 update-application-use-service =
     .label = Gunakan layanan latar belakang untuk memasang pemutakhiran
     .accesskey = l
-
-update-setting-write-failure-title = Gagal menyimpan preferensi Pemutakhiran
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    { -brand-short-name } mengalami kesalahan dan tidak menyimpan perubahan ini. Perhatikan bahwa pengaturan preferensi pembaruan ini memerlukan izin untuk menulis ke file di bawah ini. Anda atau administrator sistem mungkin dapat menyelesaikan kesalahan dengan memberikan kontrol penuh grup Pengguna ke file ini.
-    
-    Tidak dapat menulis ke file: { $path }
 
 update-setting-write-failure-title2 = Gagal menyimpan pengaturan Pemutakhiran
 
@@ -753,13 +680,9 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Tampilkan saran pencarian di Jendela Pribadi
 
-suggestions-addressbar-settings-generic = Ubah preferensi untuk saran bilah alamat lainnya
-
 suggestions-addressbar-settings-generic2 = Ubah pengaturan untuk saran bilah alamat lainnya
 
 search-suggestions-cant-show = Saran pencarian tidak akan ditampilkan di hasil bilah lokasi karena Anda telah mengatur { -brand-short-name } agar tidak mengingat riwayat.
-
-search-one-click-header = Mesin pencari sekali klik
 
 search-one-click-header2 = Pintasan Pencarian
 
@@ -794,13 +717,6 @@ search-keyword-warning-bookmark = Anda telah memilih kata kunci yang sama dengan
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Kembali ke Pengaturan
-           *[other] Kembali ke Pengaturan
-        }
-
 containers-back-button2 =
     .aria-label = Kembali ke Pengaturan
 containers-header = Tab Kontainer
@@ -812,9 +728,6 @@ containers-new-tab-check =
     .label = Pilih kontainer untuk setiap tab baru
     .accesskey = k
 
-containers-preferences-button =
-    .label = Pengaturan
-
 containers-settings-button =
     .label = Pengaturan
 containers-remove-button =
@@ -824,11 +737,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Bawalah Web bersama Anda
-sync-signedout-description = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan pengaturan di berbagai peranti Anda.
-
-sync-signedout-account-signin2 =
-    .label = Masuk ke { -sync-brand-short-name }…
-    .accesskey = M
 
 sync-signedout-description2 = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan pengaturan di berbagai perangkat Anda.
 
@@ -879,12 +787,6 @@ prefs-syncing-on = Sinkronisasi: AKTIF
 
 prefs-syncing-off = Sinkronisasi: NONAKTIF
 
-prefs-sync-setup =
-    .label = Siapkan { -sync-brand-short-name }…
-    .accesskey = S
-
-prefs-sync-offer-setup-label = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan preferensi di semua perangkat Anda.
-
 prefs-sync-turn-on-syncing =
     .label = Aktifkan sinkronisasi…
     .accesskey = A
@@ -907,11 +809,6 @@ sync-currently-syncing-logins-passwords = Info masuk dan sandi
 sync-currently-syncing-addresses = Alamat
 sync-currently-syncing-creditcards = Kartu kredit
 sync-currently-syncing-addons = Pengaya
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Pengaturan
-       *[other] Preferensi
-    }
 
 sync-currently-syncing-settings = Pengaturan
 
@@ -961,15 +858,6 @@ sync-engine-addons =
     .label = Pengaya
     .tooltiptext = Ekstensi dan tema untuk Firefox desktop
     .accesskey = y
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Pengaturan
-           *[other] Pengaturan
-        }
-    .tooltiptext = Setelan Umum, Privasi, dan Keamanan yang Anda ubah
-    .accesskey = P
 
 sync-engine-settings =
     .label = Pengaturan
@@ -1026,9 +914,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Info Masuk Tersimpan…
     .accesskey = I
-forms-master-pw-use =
-    .label = Gunakan sandi utama
-    .accesskey = m
 forms-primary-pw-use =
     .label = Gunakan Sandi Utama
     .accesskey = S
@@ -1040,7 +925,6 @@ forms-master-pw-change =
     .label = Ubah Sandi Utama…
     .accesskey = U
 
-forms-master-pw-fips-title = Anda sedang dalam mode FIPS. Mode ini mewajibkan Sandi Utama harus diisi.
 forms-primary-pw-change =
     .label = Ubah Sandi Utama…
     .accesskey = U
@@ -1053,15 +937,6 @@ forms-primary-pw-fips-title = Anda sedang dalam mode FIPS. Mode ini mewajibkan S
 forms-master-pw-fips-desc = Sandi Gagal Diubah
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Untuk membuat Kata Sandi Utama, masukkan kredensial info masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = membuat Kata Sandi Utama.
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Untuk membuat Sandi Utama, masukkan kredensial info masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
@@ -1178,10 +1053,6 @@ sitedata-clear =
 
 sitedata-settings =
     .label = Kelola Data
-    .accesskey = K
-
-sitedata-cookies-permissions =
-    .label = Kelola Izin…
     .accesskey = K
 
 sitedata-cookies-exceptions =
@@ -1363,12 +1234,6 @@ permissions-addon-exceptions =
     .label = Pengecualian…
     .accesskey = P
 
-permissions-a11y-privacy-checkbox =
-    .label = Cegah layanan aksesibilitas dari mengakses peramban Anda
-    .accesskey = a
-
-permissions-a11y-privacy-link = Pelajari lebih lanjut
-
 ## Privacy Section - Data Collection
 
 collection-header = Pengumpulan dan Penggunaan Data { -brand-short-name }
@@ -1395,11 +1260,6 @@ addon-recommendations-link = Pelajari lebih lanjut
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Pelaporan data dinonaktifkan untuk konfigurasi build ini
-
-collection-backlogged-crash-reports =
-    .label = Izinkan { -brand-short-name } mengirim tumpukan laporan kerusakan atas nama Anda
-    .accesskey = r
-collection-backlogged-crash-reports-link = Pelajari Lebih Lanjut
 
 collection-backlogged-crash-reports-with-link = Izinkan { -brand-short-name } mengirim laporan kerusakan sebelumnya atas nama Anda <a data-l10n-name="crash-reports-link">Pelajari lebih lanjut</a>
     .accesskey = l
@@ -1430,16 +1290,6 @@ security-block-uncommon-software =
 
 certs-header = Sertifikat
 
-certs-personal-label = Saat server meminta sertifikat pribadi Anda
-
-certs-select-auto-option =
-    .label = Pilih satu secara otomatis
-    .accesskey = s
-
-certs-select-ask-option =
-    .label = Tanyakan setiap saat
-    .accesskey = T
-
 certs-enable-ocsp =
     .label = Kueri server penjawab OCSP untuk mengonfirmasikan validitas sertifikat
     .accesskey = v
@@ -1451,34 +1301,6 @@ certs-view =
 certs-devices =
     .label = Peranti Keamanan…
     .accesskey = P
-
-space-alert-learn-more-button =
-    .label = Pelajari Lebih Lanjut
-    .accesskey = P
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Buka Pengaturan
-           *[other] Buka Pengaturan
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] B
-           *[other] B
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } kehabisan ruang disk. Konten situs web mungkin tidak dapat tampil secara tepat. Anda dapat membersihkan data tersimpan dalam Pengaturan > Privasi & Keamanan > Kuki dan Data Situs.
-       *[other] { -brand-short-name } kehabisan ruang disk. Konten situs web mungkin tidak dapat tampil secara tepat. Anda dapat membersihkan data tersimpan dalam Pengaturan > Privasi & Keamanan > Kuki dan Data Situs.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = Oke, Beres
-    .accesskey = K
-
-space-alert-under-5gb-message = { -brand-short-name } kehabisan ruang disk. Konten situs barangkali tidak dapat ditampilkan dengan tepat. Kunjungi “Pelajari Lebih Lanjut” untuk mengoptimalkan penggunaan disk Anda untuk pengalaman penjelajahan yang lebih baik.
 
 space-alert-over-5gb-settings-button =
     .label = Buka Pengaturan

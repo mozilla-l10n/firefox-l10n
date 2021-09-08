@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Pilih Semua Tab
     .accesskey = a
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Urungkan Menutup Tab
-           *[other] Urungkan Menutup Tab
-        }
-    .accesskey = U
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Letakkan di Menu Luapan
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Sembunyi-Otomatis di Bilah Alat
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Sembunyikan Tombol Jika Kosong
     .accesskey = K

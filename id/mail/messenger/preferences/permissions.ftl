@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Pengecualian
     .style = width: 45em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = Alamat situs web:
     .accesskey = A

@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Hapus Semua Situs
     .accesskey = H
 
-translation-button-close =
-    .label = Tutup
-    .accesskey = T
-
 translation-dialog =
     .buttonlabelaccept = Tutup
     .buttonaccesskeyaccept = T

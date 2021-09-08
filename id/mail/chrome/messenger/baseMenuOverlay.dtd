@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "n">
 <!ENTITY aboutProduct2.label "Tentang &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "A">
-<!ENTITY helpTroubleshootingInfo.label     "Informasi Pemecahan Masalah…">
-<!ENTITY helpTroubleshootingInfo.accesskey "m">
-<!ENTITY helpSafeMode.label     "Mulai Ulang dengan Pengaya Dinonaktifkan…">
-<!ENTITY helpSafeMode.accesskey "n">
-<!ENTITY helpSafeMode.stop.label     "Mulai Ulang dengan Pengaya Diaktifkan">
-<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Bantuan &brandShortName;">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">

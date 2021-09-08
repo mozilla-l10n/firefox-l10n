@@ -35,9 +35,6 @@ connection-proxy-http = Proksi HTTP
     .accesskey = k
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Gunakan proksi ini untuk FTP dan HTTPS
-    .accesskey = F
 
 connection-proxy-https-sharing =
     .label = Juga gunakan proksi ini untuk HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = Proksi HTTPS
     .accesskey = S
 connection-proxy-ssl-port = Port
     .accesskey = o
-
-connection-proxy-ftp = Proksi FTP
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = r
 
 connection-proxy-socks = Host SOCKS
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Tanpa Proksi untuk
     .accesskey = t
 
 connection-proxy-noproxy-desc = Contoh: .mozilla.org, .net.id, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Koneksi ke localhost, 127.0.0.1, dan :: 1 tidak pernah diproksi.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Koneksi ke localhost, 127.0.0.1/8, dan ::1 tidak pernah diproksi.

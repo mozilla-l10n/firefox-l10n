@@ -65,8 +65,6 @@ policy-DisableForgetButton = Cegah akses ke tombol Lupakan.
 
 policy-DisableFormHistory = Jangan ingat riwayat pencarian dan formulir.
 
-policy-DisableMasterPasswordCreation = Jika ya, sandi utama tidak bisa dibuat.
-
 policy-DisablePrimaryPasswordCreation = Jika ya, Sandi Utama tidak bisa dibuat.
 
 policy-DisablePasswordReveal = Jangan izinkan untuk menampilkan kata sandi dalam info masuk tersimpan.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Kembalikan ke perilaku
 policy-LocalFileLinks = Izinkan situs web tertentu untuk bertaut dengan berkas lokal.
 
 policy-ManagedBookmarks = Mengonfigurasi daftar markah yang dikelola oleh administrator yang tidak dapat diubah oleh pengguna.
-
-policy-MasterPassword = Membutuhkan atau mencegah penggunaan kata sandi utama.
 
 policy-ManualAppUpdateOnly = Izinkan pembaruan manual saja dan jangan beri tahu pengguna tentang pembaruan.
 

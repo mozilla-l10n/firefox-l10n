@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Akan mengharuskan situs web untuk memuat ulang gambar dan data
 
-clear-site-data-cancel =
-    .label = Batal
-    .accesskey = B
-
-clear-site-data-clear =
-    .label = Hapus
-    .accesskey = H
-
 clear-site-data-dialog =
     .buttonlabelaccept = Hapus
     .buttonaccesskeyaccept = H
