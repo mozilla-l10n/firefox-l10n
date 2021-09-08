@@ -6,9 +6,6 @@ password-quality-meter = गुड़किल्ली गुणवत्ता
 
 ## Change Password dialog
 
-change-password-window =
-    .title = मुख्य गुड़किल्ली बदलू
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = सुरक्षा युक्ति: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = नव गुड़किल्ली (फेर):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = मुख्य गुड़किल्ली फेर सेट  करू
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = फेर सेट  करू
-reset-password-text = जँ अहाँ मुख्य गुड़किल्ली फेर सेट कएने छी, अहाँक सभटा जमा वेब आओर इमेल गुड़किल्ली, आँकड़ा, निज प्रमाणपत्र, औऱ निज कुँजी विस्मृत हो जएताह. की अहाँ अपन मुख्य गुड़किल्ली सेट फेर कएनाइ केँ सुनिश्चित अछि?
 
 ## Downloading cert dialog
 

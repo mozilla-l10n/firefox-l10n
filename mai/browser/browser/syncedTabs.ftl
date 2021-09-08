@@ -5,4 +5,3 @@
 synced-tabs-context-sync-now =
     .label = आब तुल्यकालित करू
     .accesskey = S
-fxa-sign-in = { -sync-brand-short-name } मे साइन इन करू

@@ -104,9 +104,6 @@ menu-file-go-offline =
 menu-edit =
     .label = संपादन
     .accesskey = E
-menu-edit-find-on =
-    .label = ई पृष्ठ मे ताकू…
-    .accesskey = F
 menu-edit-find-again =
     .label = फेर ताकू
     .accesskey = g
@@ -122,9 +119,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = अओजारपट्टी
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = मनपसिन्न बनाउ…
-    .accesskey = C
 menu-view-sidebar =
     .label = बाज़ू पट्टी
     .accesskey = e
@@ -153,9 +147,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = मौलिक पृष्ठ शैली
     .accesskey = B
-menu-view-charset =
-    .label = पाठ एनकोडिंग
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -200,10 +191,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = पुस्तकचिह्न (B)
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = सभटा पुस्तकचिह्न केँ देखाउ
-menu-bookmark-this-page =
-    .label = ई पृष्ठ पुस्तकचिह्नित करू
 menu-bookmark-edit =
     .label = ई पुस्तकचिह्न संपादित करू
 menu-bookmarks-all-tabs =
@@ -223,32 +210,15 @@ menu-tools =
 menu-tools-downloads =
     .label = डाउनलोड
     .accesskey = D
-menu-tools-addons =
-    .label = सहयुक्ति
-    .accesskey = A
 menu-tools-sync-now =
     .label = आब तुल्यकालित करू
     .accesskey = S
-menu-tools-web-developer =
-    .label = वेब डेवलेपर
-    .accesskey = W
 menu-tools-page-source =
     .label = पृष्ठ स्रोत
     .accesskey = o
 menu-tools-page-info =
     .label = पृष्ठ सूचना
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] विकल्प
-           *[other] वरीयता
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -279,24 +249,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = मदति
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } मददि
-    .accesskey = म
-menu-help-show-tour =
-    .label = { -brand-shorter-name } यात्रा
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = कुँजीपटल शार्टकट
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = विघ्ननिवारण सूचना
-    .accesskey = T
 menu-help-feedback-page =
     .label = प्रतिक्रिया दिअ…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = सहयुक्तिक सँग फेर आरंभ  कएनाइ  निष्क्रिय…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = ऐड-ऑन सक्षम केर सँग फेर आरंभ करू
-    .accesskey = R

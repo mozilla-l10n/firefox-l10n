@@ -8,14 +8,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = सूची
 
-blocklist-button-cancel =
-    .label = रद्द करू
-    .accesskey = र
-
-blocklist-button-ok =
-    .label = परिवर्तन सहेजू
-    .accesskey = प
-
 
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.

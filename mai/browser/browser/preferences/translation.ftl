@@ -28,7 +28,3 @@ translation-sites-button-remove-all =
     .label = सभटा साइट हटाउ
     .accesskey = i
 
-translation-button-close =
-    .label = बन्न करु (C)
-    .accesskey = C
-

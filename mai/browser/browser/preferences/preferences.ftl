@@ -7,12 +7,6 @@ do-not-track-learn-more = बेसी जानू
 do-not-track-option-always =
     .label = हरदम
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] विकल्प
-       *[other] वरीयता
-    }
-
 pane-general-title = सामान्य
 category-general =
     .tooltiptext = { pane-general-title }
@@ -58,12 +52,6 @@ restart-later = कनि काल मे फेर सँ शुरू कर�
 ## General Section
 
 startup-header = आरंभन
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = { -brand-short-name } आओर फ़ायरफ़ॉक्स केँ एक्के समय मे चलबाक लेल स्वीकारू
-use-firefox-sync = संकेत: ई अलग प्रोफाइलक उपयोग करैत अछि. हुनकर बीच आँकड़ा साझा करए कलेल { -sync-brand-short-name } क उपयोग करू.
 
 is-default = { -brand-short-name } अखन अहाँक तयशुदा ब्राउजर अछि
 is-not-default = { -brand-short-name } अखन अहाँक तयशुदा ब्राउजर अछि
@@ -157,11 +145,6 @@ applications-manage-app =
     .label = अनुप्रयोग विवरण…
 applications-always-ask =
     .label = हरदम पूछू
-applications-type-pdf = पोर्टेबल दस्ताबेज फोर्मेट (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -342,8 +325,6 @@ search-keyword-warning-bookmark = अहाँ एकटाटा बीजश�
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-description = अपन सभ उपकरण पर अपन बुकमार्क, इतिहास, टैब, पासवर्ड, ऐड-ऑन, आओर वरीयताकेँ तुल्यकालित करू.
-
 ## Sync Section - Signed in
 
 
@@ -390,14 +371,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = सहेजल लॉगिन…
     .accesskey = L
-forms-master-pw-use =
-    .label = मुख्य गुड़किल्ली क' प्रयोग  करू
-    .accesskey = U
 forms-master-pw-change =
     .label = मुख्य गुड़किल्ली बदलू…
     .accesskey = M
-
-forms-master-pw-fips-title = अहाँ अखन FIPS मोड मे अछि . FIPS कलेल गैर रिक्त मुख्य गुड़किल्ली चाही.
 
 forms-master-pw-fips-desc = गुड़किल्ली बदलनाइ विफल
 

@@ -45,11 +45,3 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = वेबसाइट केँ छवि तथा डेटा पुनः लोड करए के आवश्यकता हाएत
 
-clear-site-data-cancel =
-    .label = कैंसिल
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = साफ करू
-    .accesskey = l
-
