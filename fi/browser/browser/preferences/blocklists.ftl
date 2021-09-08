@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Lista
 
-blocklist-button-cancel =
-    .label = Peruuta
-    .accesskey = P
-
-blocklist-button-ok =
-    .label = Tallenna muutokset
-    .accesskey = T
-
 blocklist-dialog =
     .buttonlabelaccept = Tallenna muutokset
     .buttonaccesskeyaccept = T

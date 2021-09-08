@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Poista kaikki sivustot
     .accesskey = k
 
-permissions-button-cancel =
-    .label = Peruuta
-    .accesskey = P
-
-permissions-button-ok =
-    .label = Tallenna muutokset
-    .accesskey = T
-
 permission-dialog =
     .buttonlabelaccept = Tallenna muutokset
     .buttonaccesskeyaccept = T

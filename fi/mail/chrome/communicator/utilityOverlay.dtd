@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "T">
 <!ENTITY deleteCmd.label          "Poista">
 <!ENTITY deleteCmd.accesskey        "o">
-<!ENTITY preferencesCmd2.label "Asetukset">
-<!ENTITY preferencesCmd2.accesskey "A">
-<!ENTITY preferencesCmdUnix.label       "Asetukset">
-<!ENTITY preferencesCmdUnix.accesskey     "A">
 
 <!ENTITY customizeCmd.label "Mukauta">
 <!ENTITY customizeCmd.accesskey "m">

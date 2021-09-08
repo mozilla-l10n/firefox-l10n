@@ -97,9 +97,6 @@ no-proxy-label =
 
 no-proxy-example = Esimerkiksi: 192.168.1.0/24, .mozilla.org, .fi
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = Yhteyksiä kohteisiin localhost, 127.0.0.1 ja ::1 ei koskaan ohjata välityspalvelimen kautta.
-
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Yhteyksiä kohteisiin localhost, 127.0.0.1/8 ja ::1 ei koskaan ohjata välityspalvelimen kautta.
 

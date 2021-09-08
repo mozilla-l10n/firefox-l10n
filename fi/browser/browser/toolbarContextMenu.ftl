@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Valitse kaikki välilehdet
     .accesskey = a
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Kumoa välilehden sulkeminen
-           *[other] Kumoa välilehtien sulkeminen
-        }
-    .accesskey = u
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Kiinnitä ylivuotovalikkoon
     .accesskey = y
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Piilota automaattisesti työkalupalkkiin
-    .accesskey = a
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Piilota painike, kun latauslista on tyhjä
     .accesskey = i

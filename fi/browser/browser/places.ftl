@@ -5,9 +5,6 @@
 places-open =
     .label = Avaa
     .accesskey = A
-places-open-tab =
-    .label = Avaa uuteen välilehteen
-    .accesskey = u
 places-open-in-tab =
     .label = Avaa uuteen välilehteen
     .accesskey = u
@@ -17,30 +14,13 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Avaa välilehtiin
     .accesskey = A
-places-open-window =
-    .label = Avaa uuteen ikkunaan
-    .accesskey = v
-places-open-private-window =
-    .label = Avaa uuteen yksityiseen ikkunaan
-    .accesskey = y
-places-new-bookmark =
-    .label = Uusi kirjanmerkki…
-    .accesskey = U
-places-new-folder-contextmenu =
-    .label = Uusi kansio…
-    .accesskey = s
-places-new-folder =
-    .label = Uusi kansio…
-    .accesskey = s
-places-new-separator =
-    .label = Uusi erotin
-    .accesskey = e
 places-open-in-window =
     .label = Avaa uuteen ikkunaan
     .accesskey = v
 places-open-in-private-window =
     .label = Avaa uuteen yksityiseen ikkunaan
     .accesskey = y
+
 places-add-bookmark =
     .label = Lisää kirjanmerkki…
     .accesskey = r
@@ -53,6 +33,7 @@ places-add-folder =
 places-add-separator =
     .label = Lisää erotin
     .accesskey = e
+
 places-view =
     .label = Näytä
     .accesskey = N
@@ -71,19 +52,18 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Päivämäärän ja sivuston mukaan
     .accesskey = j
+
 places-history-search =
     .placeholder = Etsi historiasta
 places-bookmarks-search =
     .placeholder = Etsi kirjanmerkeistä
+
 places-delete-domain-data =
     .label = Unohda tämä sivusto
     .accesskey = U
 places-sortby-name =
     .label = Lajittele nimen mukaan
     .accesskey = L
-places-properties =
-    .label = Ominaisuudet
-    .accesskey = O
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Muokkaa kirjanmerkkiä…
@@ -101,18 +81,22 @@ places-remove-folder =
            *[other] Poista kansiot
         }
     .accesskey = o
+
 places-edit-folder2 =
     .label = Muokkaa kansiota…
     .accesskey = M
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Hallinnoidut kirjanmerkit
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Alikansio
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Muut kirjanmerkit
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -122,8 +106,11 @@ places-remove-bookmark =
            *[other] Poista kirjanmerkit
         }
     .accesskey = o
+
 places-manage-bookmarks =
     .label = Järjestele kirjanmerkkejä
     .accesskey = J
+
 places-forget-about-this-site-confirmation-title = Sivuston unohtaminen
+
 places-forget-about-this-site-forget = Unohda

@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Lisää uusi eristystila
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name }-eristystilan asetukset
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Kuvake
 containers-color-label = Väri
     .accesskey = r
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Valmis
-    .accesskey = V
 
 containers-dialog =
     .buttonlabelaccept = Valmis

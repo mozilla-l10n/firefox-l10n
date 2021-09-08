@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Tulosta…">
 <!ENTITY printCmd.accesskey "o">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">
-<!ENTITY printPreviewCmd.accesskey "k">
-<!ENTITY printSetupCmd.label "Sivun asetukset…">
-<!ENTITY printSetupCmd.accesskey "e">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Poista viesti">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "u">
 <!ENTITY compactVersion.label "Tiivis näkkymä">
 <!ENTITY compactVersion.accesskey "T">
-<!ENTITY folderPaneBar.label "Kansiopaneelin työkalupalkki">
-<!ENTITY folderPaneBar.accesskey "p">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Järjestelyperuste">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Osoitekirja">
 <!ENTITY addressBookCmd.accesskey "O">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Lisäosat">
-<!ENTITY addons.accesskey "o">
-<!ENTITY addonPrefs.label "Lisäosan asetukset">
-<!ENTITY addonPrefs.accesskey "L">
-<!ENTITY addonPrefsUnix.label "Lisäosan asetukset">
-<!ENTITY addonPrefsUnix.accesskey "L">
 <!ENTITY addonNoPrefs.label "Lisäosan asetuksia ei löytynyt.">
 <!ENTITY activitymanager.label "Toimintojen hallinta">
 <!ENTITY activitymanager.accesskey "h">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "y">
 <!ENTITY debugAddonsCmd.label "Virheenkorjaa lisäosia">
 <!ENTITY debugAddonsCmd.accesskey "l">
-<!ENTITY tabsDebugCmd.label "Sisältökehyksen virheenkorjaus">
-<!ENTITY tabsDebugCmd.accesskey "k">
 <!ENTITY errorConsoleCmd.label "Virhekonsoli">
 <!ENTITY errorConsoleCmd.accesskey "V">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Siirry edelliseen">
 <!ENTITY goForwardButton1.label "Siirry seuraavaan">
 <!ENTITY deleteItem.title "Poista">
-<!ENTITY deleteButton.label "Poista">
-<!ENTITY undeleteButton.label "Peru poistaminen">
 <!ENTITY markButton.label "Merkitse">
 <!ENTITY printButton.label "Tulosta">
 <!ENTITY stopButton.label "Pysäytä">
 <!ENTITY throbberItem.title "Toimintaindikaattori">
 <!ENTITY junkItem.title "Roskapostiksi">
-<!ENTITY junkButton.label "Roskapostiksi">
-<!ENTITY notJunkButton.label "Ei roskapostia">
 <!ENTITY addressBookButton.label "Osoitekirja">
 <!ENTITY chatButton.label "Keskustele">
 <!ENTITY glodaSearch.title "Yleishaku">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Siirry edelliseen viestiin">
 <!ENTITY goForwardButton.tooltip "Siirry seuraavaan viestiin">
 <!ENTITY goBackButton.tooltip "Siirry edelliseen viestiin">
-<!ENTITY deleteButton.tooltip "Poista valittu viesti tai kansio">
-<!ENTITY undeleteButton.tooltip "Peru valitun viestin poistaminen">
 <!ENTITY markButton.tooltip "Merkitse viestit">
 <!ENTITY printButton.tooltip "Tulosta viesti">
 <!ENTITY stopButton.tooltip "Keskeytä lataus">
-<!ENTITY junkButton.tooltip "Merkitse valitut viestit roskapostiksi">
-<!ENTITY notJunkButton.tooltip "Merkitse valitut viestit Ei roskapostiksi">
 <!ENTITY addressBookButton.tooltip "Siirry osoitekirjaan">
 <!ENTITY chatButton.tooltip "Näytä keskustelu-välilehti">
 <!ENTITY tagButton.tooltip "Aseta viesteihin tunnuksia">
 <!ENTITY compactButton.tooltip "Poista poistettu viesti valitusta kansiosta">
 <!ENTITY appmenuButton1.tooltip "Avaa &brandShortName;-valikko">
-<!ENTITY addonsButton.tooltip "Hallinnoi lisäosia">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Välitä rungossa">

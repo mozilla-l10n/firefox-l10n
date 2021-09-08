@@ -33,10 +33,11 @@
 <!ENTITY defaultZoom.label                      "Oletussuurennus">
 <!ENTITY defaultZoom.accesskey                  "O">
 
-<!ENTITY siteSpecific.label                     "Muista sivunsuurennustasot sivustokohtaisesti">
-<!ENTITY siteSpecific.accesskey                 "u">
 <!ENTITY textZoomOnly.label                     "Muuta vain tekstin kokoa">
 <!ENTITY textZoomOnly.accesskey                 "M">
+<!ENTITY siteSpecific.label                     "Muista sivunsuurennustasot sivustokohtaisesti">
+<!ENTITY siteSpecific.accesskey                 "u">
+<!ENTITY showZoomStatusPanel.label              "Näytä skaalaussäätimet tilarivillä">
 <!ENTITY enableAutomaticImageResizing.label     "Skaalaa suuret kuvat mahtumaan selainikkunaan">
 <!ENTITY enableAutomaticImageResizing.accesskey "S">
 
@@ -45,4 +46,3 @@
 <!ENTITY blockAutoRefresh.label                 "Varoita, jos sivusto yrittää päivittää sivua tai uudelleenohjata toiselle sivulle">
 <!ENTITY blockAutoRefresh.accesskey             "a">
 
-<!ENTITY showZoomStatusPanel.label              "Näytä skaalaussäätimet tilarivillä">

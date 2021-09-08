@@ -47,11 +47,6 @@
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "m">
 
-<!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "Rivitä uudelleen">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "R">
-
 <!ENTITY accountManagerCmd.label "Tilien asetukset…">
 <!ENTITY accountManagerCmd.accesskey "u">
 

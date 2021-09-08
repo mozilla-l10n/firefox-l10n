@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Sarjanumero
 
-fips-nonempty-password-required = FIPS-tila vaatii, että jokaiselle turvalaitteelle on asetettu pääsalasana. Aseta salasana ennen kuin yrität ottaa FIPS-tilaa käyttöön.
-
 fips-nonempty-primary-password-required = FIPS-tila vaatii, että jokaiselle turvalaitteelle on asetettu pääsalasana. Aseta salasana ennen kuin yrität ottaa FIPS-tilaa käyttöön.
 unable-to-toggle-fips = FIPS-tilan vaihto turvalaitteelle ei onnistu. On suositeltavaa sulkea ja käynnistää tämä ohjelma uudelleen.
 load-pk11-module-file-picker-title = Valitse ladattava PKCS#11-laiteajuri

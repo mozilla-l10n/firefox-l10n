@@ -65,8 +65,6 @@ policy-DisableForgetButton = Estä pääsy Unohda-painikkeeseen.
 
 policy-DisableFormHistory = Älä tallenna haku- ja lomakehistoriaa.
 
-policy-DisableMasterPasswordCreation = Jos tosi, pääsalasanaa ei voi luoda.
-
 policy-DisablePrimaryPasswordCreation = Jos tosi, pääsalasanaa ei voi luoda.
 
 policy-DisablePasswordReveal = Älä salli salasanojen paljastamista tallennetuissa kirjautumistiedoissa.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Palaa vanhaan SameSite
 policy-LocalFileLinks = Salli tiettyjen sivustojen linkittää paikallisiin tiedostoihin.
 
 policy-ManagedBookmarks = Määrittää listan järjestelmänvalvojan hallinnoimista kirjanmerkeistä, joita käyttäjä ei voi muuttaa.
-
-policy-MasterPassword = Vaadi tai estä pääsalasanan käyttö.
 
 policy-ManualAppUpdateOnly = Salli vain manuaaliset päivitykset, älä ilmoita käyttäjälle päivityksistä.
 

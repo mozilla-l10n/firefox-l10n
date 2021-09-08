@@ -5,11 +5,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title              "Lisäasetukset">
 
-<!ENTITY systemPref.caption               "Järjestelmän asetukset">
-<!ENTITY systemPrefCheck.label            "Käytä järjestelmän omia asetuksia">
-<!ENTITY systemPrefCheck.accesskey        "K">
-<!ENTITY systemPref.desc                  "Jos valitset tämän, &brandShortName; hakee asetuksensa järjestelmältä. Näitä järjestelmäasetuksia noudatetaan mieluummin kuin &brandShortName;n omia asetuksia.">
-
 <!ENTITY prefCheckDefault.caption         "Järjestelmäintegraatio">
 <!ENTITY prefCheckDefaultClient.label     "Tarkista oletussovellusten asetukset käynnistyksen yhteydessä">
 <!ENTITY prefCheckDefaultClient.accesskey "T">

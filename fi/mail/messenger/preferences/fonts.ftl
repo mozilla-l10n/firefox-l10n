@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Pääteviivaton
 
-font-size-label =
-    .value = Koko:
-    .accesskey = K
-
 font-size-proportional-label =
     .value = Koko:
     .accesskey = K
