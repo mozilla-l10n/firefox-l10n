@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Tamah Kontèner Barô
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } Prèfèrènsi Kontèner
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Ikon
 containers-color-label = Wareuna
     .accesskey = W
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Seuleusoe
-    .accesskey = K
 
 containers-color-blue =
     .label = Beulawu

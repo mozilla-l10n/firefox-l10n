@@ -12,4 +12,3 @@ synced-tabs-context-open-in-new-tab =
 synced-tabs-context-copy =
     .label = Salèn
     .accesskey = C
-fxa-sign-in = Tamöng u { -sync-brand-short-name }

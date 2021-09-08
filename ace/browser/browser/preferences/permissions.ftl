@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Sampôh Ban Mandum Situihwèb
     .accesskey = a
 
-permissions-button-cancel =
-    .label = Bateuë
-    .accesskey = B
-
-permissions-button-ok =
-    .label = Keubah nyang Teu-ubah
-    .accesskey = K
-
 permissions-searchbox =
     .placeholder = Mita Situihwèb
 

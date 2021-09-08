@@ -27,14 +27,6 @@ site-data-remove-selected =
     .label = Sampoh Teupileh
     .accesskey = u
 
-site-data-button-cancel =
-    .label = Bateuë
-    .accesskey = B
-
-site-data-button-save =
-    .label = Keubah Peubah
-    .accesskey = a
-
 site-data-remove-all =
     .label = Sampoh Bandum
     .accesskey = a

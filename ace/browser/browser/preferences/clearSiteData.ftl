@@ -51,11 +51,3 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Situs wèb peureulèe geupeuhah ulang gamba ngön data
 
-clear-site-data-cancel =
-    .label = Bateuë
-    .accesskey = B
-
-clear-site-data-clear =
-    .label = Peusoh
-    .accesskey = S
-

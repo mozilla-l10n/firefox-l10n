@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Mita
     .aria-label = Mita
 
-newtab-search-box-search-the-web-text = Mita Web
-
 newtab-search-box-search-the-web-input =
     .placeholder = Mita Web
     .title = Mita Web

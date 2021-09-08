@@ -39,11 +39,6 @@ connection-proxy-http-port = Port
 connection-proxy-ssl-port = Port
     .accesskey = o
 
-connection-proxy-ftp = Proksi FTP
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = r
-
 connection-proxy-socks = Host SOCKS
     .accesskey = C
 connection-proxy-socks-port = Port

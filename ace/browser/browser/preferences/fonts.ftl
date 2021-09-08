@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Enkoding teunuléh keu Legacy Content
-fonts-languages-fallback-desc = Enkoding teunuléh nyoë teungui keu peuwaréh konten nyang gagai geupeunyata enkoding jih.
-
-fonts-languages-fallback-label = Encoding teunuléh fallback
-    .accesskey = E
-
-fonts-languages-fallback-name-auto =
-    .label = Baku keu Peulokalan Jinoë
-fonts-languages-fallback-name-arabic =
-    .label = Arab
-fonts-languages-fallback-name-baltic =
-    .label = Baltik
-fonts-languages-fallback-name-ceiso =
-    .label = Iërupa Teungoh, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Iërupa Teungoh, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Ceuna, Diseuderhana
-fonts-languages-fallback-name-traditional =
-    .label = Ceuna, Tradisiyonal
-fonts-languages-fallback-name-cyrillic =
-    .label = Sirilik
-fonts-languages-fallback-name-greek =
-    .label = Yunani
-fonts-languages-fallback-name-hebrew =
-    .label = Ibrani
-fonts-languages-fallback-name-japanese =
-    .label = Jeupun
-fonts-languages-fallback-name-korean =
-    .label = Korèa
-fonts-languages-fallback-name-thai =
-    .label = Thai
-fonts-languages-fallback-name-turkish =
-    .label = Turuki
-fonts-languages-fallback-name-vietnamese =
-    .label = Viètnam
-fonts-languages-fallback-name-other =
-    .label = Laén (rôh syit Western European)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

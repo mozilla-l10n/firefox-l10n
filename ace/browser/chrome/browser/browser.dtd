@@ -5,8 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Peuhah menu">
-
 <!ENTITY navbarOverflow.label                "Peukakah laén…">
 
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
@@ -15,14 +13,6 @@ a tab (i.e. it is a verb, not adjective). -->
 These items have the same accesskey but will never be visible at the same time. -->
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Peukeumat Tab">
-<!ENTITY  unpinTab.label                     "Pinah Tab">
 
 <!ENTITY  listAllTabs.label      "Peudapeuta ban dum tab">
 
@@ -37,9 +27,6 @@ in "Search through tabs". -->
 
 <!ENTITY menubarCmd.label "Menu Bar">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY personalbarCmd.label "Bar Alat Peutanda">
-<!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Beunda Bar Alat Peutanda">
 
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
@@ -54,28 +41,6 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY fullScreenCmd.label "Layeue Peunoh">
 
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "jinoe nakeuh layeue peunoh">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Teubiet Layeue Peunoh (ESC)">
-<!ENTITY exitDOMFullscreenMac.button "Teubiet Peunoh Layeu (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
 
 
 
@@ -86,19 +51,12 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY homeButton.label             "Ônkeuë">
 <!ENTITY homeButton.defaultPage.tooltip "Ônkeuë &brandShortName;">
 
-<!ENTITY bookmarksButton.label          "Peutanda">
-
-<!ENTITY bookmarksSubview.label             "Peutanda">
-<!ENTITY bookmarksMenuButton2.label         "Menu Peutanda">
-<!ENTITY bookmarksMenuButton.other.label    "Peutanda Laén">
-
 <!ENTITY historyButton.label            "Riwayat">
 
 <!ENTITY downloads.label              "Beureukaih teukeubah">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Beureukaih teukeubah">
-<!ENTITY addons.label                 "Peungaya">
 
 
 <!ENTITY newNavigatorCmd.label        "Tingkap Barô">
@@ -111,16 +69,11 @@ same accesskey but will never be visible at the same time. -->
 
 <!ENTITY historyMenu.label "Riwayat">
 
-<!ENTITY appMenuHistory.restoreSession.label "Peuriwang Sesi Seugolomjih">
-
 <!ENTITY appMenuHelp.label "Beunatu">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Hana teuhah tabs">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Peuleumah Leubeh">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Peuleumah Ban Mandum">
@@ -138,7 +91,6 @@ same accesskey but will never be visible at the same time. -->
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -157,8 +109,6 @@ same accesskey but will never be visible at the same time. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
-<!ENTITY pageAction.copyLink.label    "Salèn Peunawôt">
-
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 
@@ -170,12 +120,6 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
-<!ENTITY quitApplicationCmdWin2.label       "Teubiët">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Teubiët &brandShorterName;">
-<!ENTITY quitApplicationCmd.label       "Teubiët">
-<!ENTITY quitApplicationCmd.accesskey   "Q">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -207,9 +151,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 
 
-<!ENTITY syncBrand.shortName.label    "Sync">
-
-
 
 
 
@@ -224,8 +165,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY uiTour.infoPanel.close "Tôp">
 
 <!ENTITY panicButton.thankyou.buttonlabel         "Teurimông geunaséh!">
-
-<!ENTITY updateRestart.panelUI.label2 "Peu-udép keulayi untôk seubarô  &brandShorterName;">
 
 
 

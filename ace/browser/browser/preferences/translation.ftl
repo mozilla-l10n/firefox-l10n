@@ -35,7 +35,3 @@ translation-sites-button-remove-all =
     .label = Sampôh Bandum Situs
     .accesskey = i
 
-translation-button-close =
-    .label = Tôp
-    .accesskey = T
-

@@ -7,28 +7,6 @@ do-not-track-learn-more = Meurunoë lom
 do-not-track-option-always =
     .label = Sabé
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Atô
-       *[other] Atô
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Mita bak Piléhan
-           *[other] Mita bak Preferen
-        }
-
 pane-general-title = Umom
 category-general =
     .tooltiptext = { pane-general-title }
@@ -73,18 +51,6 @@ restart-later = Peuhah Keulayi Euntreuk
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Sabôh èkstènsi, <img data-l10n-name="icon"/>, meujaga keudroëneuh hômpèg (ônkeuë).
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Sabôh èkstènsi, <img data-l10n-name="icon"/>, meujaga keudroëneuh ôn Tab Barô.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Sabôh èkstènsi, <img data-l10n-name="icon"/>, kalheuëh meuatô keuroëneuh meusén seumeutot (search engine) nyang default.
-
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Sabôh èkstènsi, <img data-l10n-name="icon"/>, peureulèë Tab Kontèner.
@@ -104,26 +70,11 @@ extension-controlled-enable = Untôk peu-udép èktènsi, neucok  <img data-l10n
 
 search-results-header = Hasé Mita
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Meu'ah, hana hasé bak Piléhan keu<span data-l10n-name="query"></span>".
-       *[other] Meu'ah, hana hasé bak Piléhan keu "<span data-l10n-name="query"></span>".
-    }
-
 search-results-help-link = Peureulèë tulông? Saweuë Dukôngan <a data-l10n-name="url">{ -brand-short-name }</a>
 
 ## General Section
 
 startup-header = Peuphôn
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Peu-idin { -brand-short-name } teuhah Firefox deungon watèë nyang meusigo
-use-firefox-sync = Tip: Nyoe meungui profil keudroe droe. Neungui { -sync-brand-short-name }  keu share data lam kawan nyan
-get-started-not-logged-in = Tamöng u { -sync-brand-short-name }...
-get-started-configured = Peuhah piléhan { -sync-brand-short-name }
 
 always-check-default =
     .label = Parèksa sabé peuë { -brand-short-name } nakeuh browser baku
@@ -160,10 +111,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Peuingat droen watéi lë meubuka tab wab jeut meulék { -brand-short-name }
     .accesskey = P
-
-switch-links-to-new-tabs =
-    .label = Watéi neupeuhah sabôh link nibak tab barô, gantoe laju beusigra
-    .accesskey = W
 
 show-tabs-in-taskbar =
     .label = Peu dëuh tab preview bak taskbar windows
@@ -300,10 +247,6 @@ applications-action-save =
 
 applications-always-ask =
     .label = Tanyoeng sabe
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -551,8 +494,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = Saran mita hana geupeudeuih lam hasé kutak teumpat keureuna droeneuh ka neuatô { -brand-short-name } mangat bèk jiingat riwayat
 
-search-one-click-header = Meusén Mita Sigo-Teugön
-
 search-one-click-desc = Piléh meusén mita geunantoe nyang leumah di yup kutak alamat ngön kutak mita watèe neumulai peutamong narit gunci
 
 search-choose-engine-column =
@@ -585,9 +526,6 @@ containers-add-button =
     .label = Tamah Kontainer Barô
     .accesskey = T
 
-containers-preferences-button =
-    .label = Atô
-
 containers-remove-button =
     .label = Sampoh
 
@@ -595,7 +533,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Cok Web Droen Sajan Droen
-sync-signedout-description = Peuakô bookmark droen, riwayat, tab, lageuem rahsia, add-on, ngön preferensi antara mandum peukakah droen.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -666,15 +603,6 @@ sync-engine-addons =
     .tooltiptext = Ekstensi ngön tema keu desktop Firefox
     .accesskey = y
 
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Peuniléh
-           *[other] Atô
-        }
-    .tooltiptext = Atô Umom, Jaga Rasia, ngön Keuamanan nyang neugantoe
-    .accesskey = A
-
 ## The device name controls.
 
 sync-device-name-header = Nan Peukakah
@@ -708,9 +636,6 @@ forms-exceptions =
 forms-saved-logins =
     .label = Info Tamong Teukeubah...
     .accesskey = I
-forms-master-pw-use =
-    .label = Ngui lageuëm rayeuk
-    .accesskey = U
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -877,12 +802,6 @@ permissions-addon-exceptions =
     .label = Keucuwali...
     .accesskey = K
 
-permissions-a11y-privacy-checkbox =
-    .label = Tham service aksessibilitas nibak ji limeuh browser droen
-    .accesskey = T
-
-permissions-a11y-privacy-link = Meurunoë lom
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Cok Data dan Ngui
@@ -902,11 +821,6 @@ collection-studies-link = Kalön kajian { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lapuran data meupeulèn keu build konfigurasi nyoe
-
-collection-backlogged-crash-reports =
-    .label = Peuidin { -brand-short-name } i kirém lapuran crash backlogged meunyô neu
-    .accesskey = P
-collection-backlogged-crash-reports-link = Meurunoë lom
 
 ## Privacy Section - Security
 ##
@@ -933,16 +847,6 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Seureutipikat
-
-certs-personal-label = Watée awak hirö jilakée seurtipikat personal
-
-certs-select-auto-option =
-    .label = Piléh saboh seucara otomatis
-    .accesskey = P
-
-certs-select-ask-option =
-    .label = Tanyöng tiëp watèë
-    .accesskey = e
 
 certs-enable-ocsp =
     .label = Beureukah teunanyông  OCSP peurespon keu peuhirö - peuhirö mangat ji konfirmasi validitas jinoe nibak seurtipikat

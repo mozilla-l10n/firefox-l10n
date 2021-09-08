@@ -29,16 +29,9 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Peutanda Tab...
     .accesskey = k
-reopen-in-container =
-    .label = Peuhah Keulayi lam Kontainer
-    .accesskey = e
 move-to-new-window =
     .label = Pinah u Tingkap Barô
     .accesskey = W
-
-close-tab =
-    .label = Tôp Tab
-    .accesskey = c
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
