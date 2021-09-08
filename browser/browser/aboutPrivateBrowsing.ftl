@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = ଏକ ବ୍ୟକ୍ତିଗ�
 about-private-browsing-search-placeholder = ୱେବରେ ଖୋଜନ୍ତୁ
 about-private-browsing-info-title = ଆପଣ ଏକ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋରେ ଅଛନ୍ତି
 about-private-browsing-info-myths = ବ୍ୟାକ୍ତିଗତ ବ୍ରାଉଜିଂ ସମ୍ପର୍କରେ କିଛି ଭୁଲ ଧାରଣା
-about-private-browsing =
-    .title = ୱେବରେ ଖୋଜନ୍ତୁ
 about-private-browsing-not-private = ଆପଣ ବର୍ତ୍ତମାନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋରେ ନାହାନ୍ତି।
 
 # This string is the title for the banner for search engine selection

@@ -110,9 +110,6 @@ menu-file-go-offline =
 menu-edit =
     .label = ସମ୍ପାଦନ କରନ୍ତୁ
     .accesskey = E
-menu-edit-find-on =
-    .label = ଏହି ପୃଷ୍ଠାରେ ଖୋଜନ୍ତୁ…
-    .accesskey = F
 menu-edit-find-again =
     .label = ପୁଣିଥରେ ଖୋଜନ୍ତୁ
     .accesskey = g
@@ -128,9 +125,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = ସାଧନପଟି
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ…
-    .accesskey = C
 menu-view-sidebar =
     .label = ପାର୍ଶ୍ୱ ପଟି
     .accesskey = e
@@ -161,9 +155,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = ମୌଳିକ ପୃଷ୍ଠା ଶୈଳୀ
     .accesskey = B
-menu-view-charset =
-    .label = ଲେଖା ଏନକୋଡ଼ିଂ:
-    .accesskey = ସି
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -212,10 +203,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = ସମସ୍ତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ
-menu-bookmark-this-page =
-    .label = ଏହି ପୃଷ୍ଠାକୁ ଚିହ୍ନିତ କରନ୍ତୁ
 menu-bookmark-edit =
     .label = ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ
 menu-bookmarks-all-tabs =
@@ -235,41 +222,18 @@ menu-tools =
 menu-tools-downloads =
     .label = ଆହରଣଗୁଡ଼ିକ
     .accesskey = D
-menu-tools-addons =
-    .label = ଏଡ଼-ଅନଗୁଡ଼ିକୁ
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = { -brand-product-name }ରେ ସାଇନ ଇନ କରନ୍ତୁ
-    .accesskey = ଜି
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name }କୁ ଚାଲୁ କରନ୍ତୁ
-    .accesskey = ନ
 menu-tools-sync-now =
     .label = ବର୍ତ୍ତମାନ ସନ୍ତୁଳନ କରନ୍ତୁ
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name } ସହିତ ପୁଣି ସଂଯୋଗ କରନ୍ତୁ…
     .accesskey = ର
-menu-tools-web-developer =
-    .label = ୱେବ ବିକାଶକ
-    .accesskey = W
 menu-tools-page-source =
     .label = ପୃଷ୍ଠା ଉତ୍ସ
     .accesskey = o
 menu-tools-page-info =
     .label = ପୃଷ୍ଠା ସୂଚନା
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ବିକଳ୍ପଗୁଡ଼ିକ
-           *[other] ପସନ୍ଦ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = ଲେଆଉଟ ଡିବଗର
     .accesskey = ଲ
@@ -303,24 +267,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = ସହାୟତା
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } ସହଯୋଗ
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } ଜାଣିବା
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = କିବୋର୍ଡ ସକ୍ଷିପ୍ତପଥ (K)
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = ତ୍ରୁଟିନିବାରଣ ସୂଚନା
-    .accesskey = T
 menu-help-feedback-page =
     .label = ମତାମତ ଦାଖଲ କରନ୍ତୁ…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = ଏଡ-ଅନଗୁଡ଼ିକୁ ନିଷ୍କ୍ରିୟ କରି ପୁନଃଚାଳନ କରନ୍ତୁ…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = ଏଡ-ଅନଗୁଡ଼ିକୁ ସକ୍ରିୟ କରି ପୁନଃଚାଳନ କରନ୍ତୁ
-    .accesskey = ର

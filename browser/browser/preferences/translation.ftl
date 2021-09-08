@@ -28,7 +28,3 @@ translation-sites-button-remove-all =
     .label = ସମସ୍ତ ସାଇଟଗୁଡ଼ିକୁ ହଟାନ୍ତୁ
     .accesskey = i
 
-translation-button-close =
-    .label = ବନ୍ଦକରନ୍ତୁ
-    .accesskey = C
-
