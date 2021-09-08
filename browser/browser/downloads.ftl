@@ -22,7 +22,7 @@ downloads-panel-list =
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
 downloads-panel-items =
-    .style = width: 45em
+    .style = width: 40em
 downloads-cmd-pause =
     .label = Pause
     .accesskey = P
