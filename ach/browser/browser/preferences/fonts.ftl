@@ -113,42 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Kit ma kicoyo kwede pi gin manonge iye ma loko ne tek
-fonts-languages-fallback-desc = Kit ma kicoyo kwede man kitiyo kwede pi gin manonge iye ma loko tek ma pe otucco cocce.
-
-fonts-languages-fallback-name-auto =
-    .label = Makwongo pi kabedo ma kombedi
-fonts-languages-fallback-name-arabic =
-    .label = Arabic
-fonts-languages-fallback-name-baltic =
-    .label = Baltic
-fonts-languages-fallback-name-ceiso =
-    .label = Central European, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Central European, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Chinese, Simplified
-fonts-languages-fallback-name-traditional =
-    .label = Chinese, Traditional
-fonts-languages-fallback-name-cyrillic =
-    .label = Cyrillic
-fonts-languages-fallback-name-greek =
-    .label = Greek
-fonts-languages-fallback-name-hebrew =
-    .label = Hebrew
-fonts-languages-fallback-name-japanese =
-    .label = Japanese
-fonts-languages-fallback-name-korean =
-    .label = Korean
-fonts-languages-fallback-name-thai =
-    .label = Thai
-fonts-languages-fallback-name-turkish =
-    .label = Turkish
-fonts-languages-fallback-name-vietnamese =
-    .label = Vietnamese
-fonts-languages-fallback-name-other =
-    .label = Mukene (incl. Western European)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

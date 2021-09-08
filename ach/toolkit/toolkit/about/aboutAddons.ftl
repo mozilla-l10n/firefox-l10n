@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Lalo med-ikome
-
 addons-page-title = Lalo med-ikome
 
 search-header =
@@ -39,43 +36,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Nyut lamed weng
-
-cmd-show-details =
-    .label = Nyut Ngec Mukene
-    .accesskey = N
-
-cmd-find-updates =
-    .label = Nong ngec manyen
-    .accesskey = N
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Gin ayera
-           *[other] Ter
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] G
-           *[other] T
-        }
-
-cmd-enable-theme =
-    .label = Gin me aloka iye ma laol jo
-    .accesskey = G
-
-cmd-disable-theme =
-    .label = Juk Gin me aloka iye ma laol jo
-    .accesskey = G
-
-cmd-install-addon =
-    .label = Keti
-    .accesskey = K
-
-cmd-contribute =
-    .label = Jogi
-    .accesskey = J
-    .tooltiptext = Mi bot pi yubo med-ikome man
 
 detail-version =
     .label = Kite

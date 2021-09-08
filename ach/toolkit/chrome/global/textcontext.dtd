@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Jwa">
 
-<!ENTITY fillLoginMenu.label          "Pong dony iye">
-<!ENTITY fillLoginMenu.accesskey      "P">
-<!ENTITY fillPasswordMenu.label       "Pong mung me donyo">
-<!ENTITY fillPasswordMenu.accesskey   "P">
-<!ENTITY fillUsernameMenu.label       "Pong Nying me tic">
-<!ENTITY fillUsernameMenu.accesskey   "P">
-<!ENTITY noLoginSuggestions.label     "(Tam amia me Nukta peke)">
-<!ENTITY viewSavedLogins.label        "Nen donyo iyie ma kigwoko">

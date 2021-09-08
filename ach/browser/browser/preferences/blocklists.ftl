@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Jami
 
-blocklist-button-cancel =
-    .label = Juki
-    .accesskey = J
-
-blocklist-button-ok =
-    .label = Gwok alokaloka
-    .accesskey = G
-
 blocklist-dialog =
     .buttonlabelaccept = Gwok alokaloka
     .buttonaccesskeyaccept = G

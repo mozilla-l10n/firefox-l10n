@@ -110,9 +110,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Yub
     .accesskey = Y
-menu-edit-find-on =
-    .label = Nong i pot buk man…
-    .accesskey = N
 menu-edit-find-again =
     .label = Nong doki
     .accesskey = o
@@ -128,9 +125,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Gintic
     .accesskey = G
-menu-view-customize-toolbar =
-    .label = Yiki…
-    .accesskey = Y
 menu-view-sidebar =
     .label = Gintic ma i nget
     .accesskey = n
@@ -164,9 +158,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Kit pot buk ma dong tidi
     .accesskey = K
-menu-view-charset =
-    .label = Loko coc i kod
-    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -215,10 +206,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Alama buk
     .accesskey = A
-menu-bookmarks-show-all =
-    .label = Nyut alamabuk weng
-menu-bookmark-this-page =
-    .label = Ket alama buk i pot buk man
 menu-bookmark-edit =
     .label = Yub alama buk man
 menu-bookmarks-all-tabs =
@@ -238,41 +225,18 @@ menu-tools =
 menu-tools-downloads =
     .label = Gam
     .accesskey = G
-menu-tools-addons =
-    .label = Med-ikome
-    .accesskey = M
-menu-tools-fxa-sign-in =
-    .label = Dony iyie { -brand-product-name }…
-    .accesskey = n
-menu-tools-turn-on-sync =
-    .label = Cak { -sync-brand-short-name }…
-    .accesskey = a
 menu-tools-sync-now =
     .label = Rib Kombedi
     .accesskey = R
 menu-tools-fxa-re-auth =
     .label = Nwo kube ki { -brand-product-name }…
     .accesskey = N
-menu-tools-web-developer =
-    .label = Layub Kakube
-    .accesskey = L
 menu-tools-page-source =
     .label = Kama pot buk nonge iye
     .accesskey = k
 menu-tools-page-info =
     .label = Ngec me pot buk
     .accesskey = N
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Gin ayera
-           *[other] Ma imaro
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] G
-           *[other] r
-        }
 
 ## Window Menu
 
@@ -304,31 +268,10 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Kony
     .accesskey = K
-menu-help-product =
-    .label = Kony me { -brand-shorter-name }
-    .accesskey = K
-menu-help-show-tour =
-    .label = Wot me { -brand-shorter-name }
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = Kel ki i Layeny Mukene…
-    .accesskey = K
-menu-help-keyboard-shortcuts =
-    .label = Yo macego me kadiyo coc
-    .accesskey = k
-menu-help-troubleshooting-info =
-    .label = Ngec me yubu bal
-    .accesskey = N
 menu-help-report-site-issue =
     .label = Mi ripot ikom peko me kakube…
 menu-help-feedback-page =
     .label = Cwal adwogi ne…
-    .accesskey = C
-menu-help-safe-mode-without-addons =
-    .label = Cak odoco ki med-ikome gi ma kijuko woko…
-    .accesskey = C
-menu-help-safe-mode-with-addons =
-    .label = Cak odoco kun nongo kicako med-ikome
     .accesskey = C
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.

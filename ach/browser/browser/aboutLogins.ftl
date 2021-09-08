@@ -7,20 +7,12 @@ about-logins-page-title = Donyo iyie ki Mung me donyo
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Wot ki mung me donyo mamegi ka mo keken
-login-app-promo-subtitle = Nong purugram me { -lockwise-brand-name } ma tye me nono
-login-app-promo-android =
-    .alt = Nong i Google Play
-login-app-promo-apple =
-    .alt = Gam ki i App Store
-
 login-filter =
     .placeholder = Yeny Donyo iyie
 
 create-login-button = Cwe Donyo iyie manyen
 
 fxaccounts-sign-in-text = Nong mung me donyo mamegi i nyonyo ni mukene
-fxaccounts-sign-in-button = Dony iyie { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Lo akaunt
 
@@ -39,8 +31,6 @@ menu-menuitem-preferences =
        *[other] Ter
     }
 about-logins-menu-menuitem-help = Kony
-menu-menuitem-android-app = { -lockwise-brand-short-name } pi Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } pi iPhone ki iPad
 
 ## Login List
 
@@ -67,11 +57,7 @@ login-list-item-subtitle-missing-username = (nying me tic pe)
 
 ## Introduction screen
 
-login-intro-heading = Itye ka yenyo donyo iyie mamegi ma igwoko? Ter { -sync-brand-short-name }.
-
 login-intro-description = Kacce igwoko donyo iyie mamegi i { -brand-product-name } i nyonyo mukene, man aye kit ma itwero nongo gi kany:
-login-intro-instruction-fxa = Cwe onyo dony iyie { -fxaccount-brand-name } mamegi i nyonyo ma kigwoko iyie donyo iyie mamegi.
-about-logins-intro-instruction-help = Lim <a data-l10n-name="help-link">{ -lockwise-brand-short-name } pi Kony</a> mapol
 login-intro-instructions-fxa-help = Lim <a data-l10n-name="help-link">{ -lockwise-brand-short-name } pi Kony</a> mapol
 about-logins-intro-import = Kacce kigwoko donyo iyie mamgei ii layeny mukene, itwero <a data-l10n-name="import-link">kelo gi ki woko ii { -lockwise-brand-short-name }</a>
 
@@ -128,10 +114,6 @@ master-password-reload-button =
     .accesskey = D
 
 ## Password Sync notification
-
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Pe i penya doki
-    .accesskey = P
 
 ## Dialogs
 

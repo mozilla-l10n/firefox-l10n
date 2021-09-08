@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Dok cen pot buk acel
-    .aria-label = Cen
-    .accesskey = C
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Cit anyim pot buk acel
-    .aria-label = Anyim
-    .accesskey = A
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = Gwok pot buk calo…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = Yab kakube i dirica manyen me mung
     .accesskey = m
 
-main-context-menu-bookmark-this-link =
-    .label = Ket alama buk i kakube man
-    .accesskey = k
-
 main-context-menu-save-link =
     .label = Gwok kakube calo…
     .accesskey = e
@@ -185,10 +156,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Lok kanonge me email
     .accesskey = k
-
-main-context-menu-copy-link =
-    .label = Lok kabedo me kakube
-    .accesskey = e
 
 ## Media (video/audio) controls
 ##
@@ -213,28 +180,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Yab dwone
     .accesskey = d
-
-main-context-menu-media-play-speed =
-    .label = Dwiro me Tuko
-    .accesskey = T
-
-main-context-menu-media-play-speed-slow =
-    .label = Mot (0.5×)
-    .accesskey = M
-
-main-context-menu-media-play-speed-fast =
-    .label = Oyot (1.25×)
-    .accesskey = O
-
-main-context-menu-media-play-speed-faster =
-    .label = Oyot adada (1.5×)
-    .accesskey = O
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Dwiro ne dong gwa (2×)
-    .accesskey = D
 
 main-context-menu-media-loop =
     .label = Lworre
@@ -265,29 +210,9 @@ main-context-menu-image-reload =
     .label = Nwo cano cal
     .accesskey = N
 
-main-context-menu-image-view =
-    .label = Nen Cal
-    .accesskey = C
-
-main-context-menu-video-view =
-    .label = Nen Vidio
-    .accesskey = e
-
 main-context-menu-image-copy =
     .label = Lok cal
     .accesskey = k
-
-main-context-menu-image-copy-location =
-    .label = Lok kabedo me cal
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Lok kabedo me vidio
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Lok kabedo me dwon
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = Gwok cal calo…
@@ -296,10 +221,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Cwal cal…
     .accesskey = l
-
-main-context-menu-image-set-as-background =
-    .label = Ket calo cal me nge wang kompiuta…
-    .accesskey = K
 
 main-context-menu-image-info =
     .label = Nen ngec me cal
@@ -316,10 +237,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Gwok dwon calo…
     .accesskey = o
-
-main-context-menu-video-image-save-as =
-    .label = Gwok cal calo…
-    .accesskey = G
 
 main-context-menu-video-email =
     .label = Cwal vidio…
@@ -344,10 +261,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Cwal Potbuk i Nyonyo
     .accesskey = o
-
-main-context-menu-view-background-image =
-    .label = Nen cal me ngeye
-    .accesskey = n
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -412,10 +325,6 @@ main-context-menu-view-page-source =
     .label = Nen kama pot buk nonge iye
     .accesskey = N
 
-main-context-menu-view-page-info =
-    .label = Nen ngec me pot buk
-    .accesskey = n
-
 main-context-menu-bidi-switch-text =
     .label = Lok tung coc
     .accesskey = o
@@ -424,10 +333,7 @@ main-context-menu-bidi-switch-page =
     .label = Lok tung pot buk
     .accesskey = u
 
-main-context-menu-inspect-element =
-    .label = Ngiyo gin ma i but
-    .accesskey = Q
-
 main-context-menu-eme-learn-more =
     .label = Nong ngec mapol ikom DRM…
     .accesskey = D
+

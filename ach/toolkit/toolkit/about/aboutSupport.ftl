@@ -10,11 +10,6 @@ crashes-id = Cwal ngec me ID
 crashes-send-date = Kicwalo
 crashes-all-reports = Ripot me poto weng
 crashes-no-config = Purugram man pe kicano me yaro ripot me poto.
-extensions-title = Lamed
-extensions-name = Nying
-extensions-enabled = Matyero
-extensions-version = Cik
-extensions-id = ID
 support-addons-name = Nying
 support-addons-version = Cik
 support-addons-id = ID
@@ -75,8 +70,6 @@ sandbox-sys-call-index = #
 sandbox-sys-call-age = Ceken angec
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
-safe-mode-title = Tem kit maber
-restart-in-safe-mode-label = Cak odoco ma nongo kijuko med-ikome…
 
 ## Media titles
 
@@ -176,18 +169,11 @@ gpu-ram = RAM
 gpu-driver-version = Cik pa Deribwa
 gpu-driver-date = Nino dwe pa Deribwa
 gpu-active = Tye katic
-blocklisted-bug = Kigengo pi peki ma ki ngeyo
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bal { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Kigengo woko; kod me poto { $failureCode }
 
-d3d11video-crash-guard = Lagony Vidio D3D11
-d3d9video-crash-guard = Lagony Vidio D3D9
 glcontext-crash-guard = OpenGL
 
 min-lib-versions = Cik me gwoko cik mamite
@@ -205,14 +191,6 @@ sandbox-proc-type-content = jami
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Latic kwede aye ocako
-multi-process-status-1 = Kicako calo makwongo
-multi-process-status-2 = Kijuko woko
-multi-process-status-4 = Jami tic me kit me nongo aye ojuko
-multi-process-status-6 = Coc ma pe kicwako aye ojuko
-multi-process-status-7 = Med-ikome aye ojuko
-multi-process-status-8 = Ki juko tektek
-multi-process-status-unknown = Tye ne pe ngene
 
 async-pan-zoom = Pan/Zoom mape time la kacel
 apz-none = pe tye

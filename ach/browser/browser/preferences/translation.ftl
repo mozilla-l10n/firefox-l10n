@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Kwany kakube weng
     .accesskey = a
 
-translation-button-close =
-    .label = Lor
-    .accesskey = L
-
 translation-dialog =
     .buttonlabelaccept = Lor
     .buttonaccesskeyaccept = L

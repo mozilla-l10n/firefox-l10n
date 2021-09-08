@@ -5,31 +5,9 @@
 places-open =
     .label = Yab
     .accesskey = Y
-places-open-tab =
-    .label = Yab i dirica matidi manyen
-    .accesskey = a
 places-open-all-in-tabs =
     .label = Yab weng i dirica matino
     .accesskey = Y
-places-open-window =
-    .label = Yab i dirica Manyen
-    .accesskey = M
-places-open-private-window =
-    .label = Yab i dirica manyen me mung
-    .accesskey = m
-
-places-new-bookmark =
-    .label = Alama me buk manyen…
-    .accesskey = b
-places-new-folder-contextmenu =
-    .label = Boc Manyen…
-    .accesskey = F
-places-new-folder =
-    .label = Boc Manyen…
-    .accesskey = n
-places-new-separator =
-    .label = Lapok kine Manyen
-    .accesskey = L
 
 places-view =
     .label = Nen
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Yek ki nying
     .accesskey = r
-places-properties =
-    .label = Jami me tic
-    .accesskey = i
 

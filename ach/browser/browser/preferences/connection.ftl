@@ -39,11 +39,6 @@ connection-proxy-http-port = Bur
 connection-proxy-ssl-port = Bur
     .accesskey = o
 
-connection-proxy-ftp = Proxy me FTP
-    .accesskey = F
-connection-proxy-ftp-port = Bur
-    .accesskey = r
-
 connection-proxy-socks = Lami kube me SOCKS
     .accesskey = C
 connection-proxy-socks-port = Bur

@@ -6,9 +6,6 @@ password-quality-meter = Mita me kit mung me donyo
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Lok mung me donyo madit
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Nyonyo me Gwoko kuc: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Mung me donyo manyen (doki):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Ter mung me donyo Madit
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Ter nitit
-reset-password-text = Ka i tero mung me donyo mamegi madit nitit, web megi weng ma kigwoko ki mung me e-mail, ket waraga me tic pari, ki wic bi wil ki lagony pa dano. I moko ada ni imito tero mung me donyo madit nitit?
 
 ## Downloading cert dialog
 

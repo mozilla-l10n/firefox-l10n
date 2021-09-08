@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Med lamak jami manyen
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Ter me lamak jami pa { $name }
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Cal
 containers-color-label = Rangi
     .accesskey = a
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Otum
-    .accesskey = O
 
 containers-dialog =
     .buttonlabelaccept = Otum

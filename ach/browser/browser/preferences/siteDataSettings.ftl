@@ -23,14 +23,6 @@ site-data-remove-selected =
     .label = Kwany ma kiyero
     .accesskey = K
 
-site-data-button-cancel =
-    .label = Juki
-    .accesskey = J
-
-site-data-button-save =
-    .label = Gwok alokaloka
-    .accesskey = o
-
 site-data-settings-dialog =
     .buttonlabelaccept = Gwok alokaloka
     .buttonaccesskeyaccept = o

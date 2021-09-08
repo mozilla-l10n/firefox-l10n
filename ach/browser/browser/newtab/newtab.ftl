@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Yeny
     .aria-label = Yeny
 
-newtab-search-box-search-the-web-text = Yeny kakube
-
 newtab-search-box-search-the-web-input =
     .placeholder = Yeny kakube
     .title = Yeny kakube

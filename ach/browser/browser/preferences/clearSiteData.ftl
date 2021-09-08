@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Bimite ki kakube ma nwoyo cano cal ki data
 
-clear-site-data-cancel =
-    .label = Juki
-    .accesskey = K
-
-clear-site-data-clear =
-    .label = Jwa
-    .accesskey = j
-
 clear-site-data-dialog =
     .buttonlabelaccept = Jwa
     .buttonaccesskeyaccept = j

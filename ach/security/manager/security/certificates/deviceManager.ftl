@@ -105,8 +105,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Nying Namba
 
-fips-nonempty-password-required = Kit FTPS mito ni ibed ki mung me donyo Madit pi nyonyo me gwoko kuc acelacel. Tim ber ter mung me donyo mapwod pe itemo me miyo kit tic me FIPS.
-
 unable-to-toggle-fips = Pe romo loko kit FIPS pi nyonyo me gwoko kuc. Kimoko ni i wek gi i cak tic man me acel.
 
 add-module-failure = Pe romo medo dul

@@ -19,44 +19,7 @@ certmgr-tab-ca =
 
 certmgr-mine = I tye ki catibiket ma aa kibot dul magi ma nyutu in kikome
 certmgr-people = I tye ki catibiket i pwail ma nyutu jo magi kikome
-certmgr-servers = I tye ki catibiket i pwail ma nyutu lupok tic magi kikome
 certmgr-ca = I tye ki catibiket i pwail ma nyutu lumi catibiket magi kikome
-
-certmgr-detail-general-tab-title =
-    .label = Weng
-    .accesskey = W
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Lok kore kikore
-    .accesskey = L
-
-certmgr-pending-label =
-    .value = Kombedi tye ka moko waraga…
-
-certmgr-subject-label = Kimino Bot
-
-certmgr-issuer-label = Ngat ma omino en Aye
-
-certmgr-period-of-validity = Kare me ticce
-
-certmgr-fingerprints = Keto cing
-
-certmgr-cert-detail =
-    .title = Lok me waraga kore kikore
-    .buttonlabelaccept = Lo
-    .buttonaccesskeyaccept = L
-
-certmgr-cert-detail-commonname = Nying manonge bot lwak (CN)
-
-certmgr-cert-detail-org = Dul (O)
-
-certmgr-cert-detail-orgunit = Yunit me dul (OU)
-
-certmgr-cert-detail-serial-number = Nying Namba
-
-certmgr-cert-detail-sha-256-fingerprint = Keto cing me SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Keto cing me SHA1
 
 certmgr-edit-ca-cert =
     .title = Yub CA tero gen me waraga
@@ -86,12 +49,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Nyonyo me Gwoko tic
 
-certmgr-begins-on = Cake ikom
-
 certmgr-begins-label =
     .label = Cake ikom
-
-certmgr-expires-on = Kare ne kato Inino
 
 certmgr-expires-label =
     .label = Kare ne kato Inino
@@ -133,18 +92,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Kel ki woko…
     .accesskey = e
-
-certmgr-details =
-    .value = Di bar me Waraga
-    .accesskey = W
-
-certmgr-fields =
-    .value = Wel Di bar
-    .accesskey = D
-
-certmgr-hierarchy =
-    .value = Rwom me Catibiket
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Med Weko…
@@ -208,12 +155,6 @@ delete-user-cert-confirm = I moko ada ni i mito kwanyo woko waraga magi?
 delete-user-cert-impact = Ka i kwanyo woko waraga ni kikome, pe iromo tic kwede me nyute keni.
 
 
-delete-ssl-cert-title =
-    .title = Kwany woko Waraga pa Lapok tic
-delete-ssl-cert-confirm = I moko ada ni imito kwanyo woko lapok tic magi?
-delete-ssl-cert-impact = Ka i kwanyo lapok tic, dong roto gwoko kuc calo kare weng pi lapok tic ki i mito tiyo ki waraga ma tiyo.
-
-
 delete-ca-cert-title =
     .title = Kwany onyo Pe i gen Waraga me CA
 delete-ca-cert-confirm = I lego woko waraga me CA man. Pi waraga gen weng bi kwanye woko, ma tye ki gin matime. I moko ada ni imito kwanyo onyo pe i geno?
@@ -233,45 +174,6 @@ cert-with-serial =
     .value = Catibiket ma ciral namba ne: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Lanen Catibiket: “{ $certName }”
-
-not-present =
-    .value = <Pe Dul kom Waraga>
-
-# Cert verification
-cert-verified = Waraga man kimoko pi tic magi:
-
-# Add usage
-verify-ssl-client =
-    .value = Waraga pa Latic me SSL
-
-verify-ssl-server =
-    .value = Waraga pa Lapok tic me SSL
-
-verify-ssl-ca =
-    .value = Twero me Waraga me SSL
-
-verify-email-signer =
-    .value = Cwal Email pa Waraga me Laket capa cing
-
-verify-email-recip =
-    .value = Cwal Waraga pa Lagam Email
-
-# Cert verification
-cert-not-verified-cert-revoked = Pe i romo moko waraga man pien kiloyo woko.
-cert-not-verified-cert-expired = Pe i romo moko waraga man pien kare ne otum.
-cert-not-verified-cert-not-trusted = Pe i romo moko waraga man pien pe gene.
-cert-not-verified-issuer-not-trusted = Pe i romo moko waraga man pien lami ne pe gene.
-cert-not-verified-issuer-unknown = Pe i romo moko waraga man pien lami ne pe ngene.
-cert-not-verified-ca-invalid = Pe i romo moko waraga man pien waraga me CA pe tiyo.
-cert-not-verified_algorithm-disabled = Pe onongo twero moko ada pa waraga man pien ki keto cing iye ki yo me keto cing ma kijuko woko pien yo ne peke ki ber bedo.
-cert-not-verified-unknown = Pe i romo moko waraga man pi te lok mape ngene.
 
 ## Used to show whether an override is temporary or permanent
 

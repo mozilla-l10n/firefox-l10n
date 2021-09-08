@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Kwany kakube weng
     .accesskey = w
 
-permissions-button-cancel =
-    .label = Juki
-    .accesskey = J
-
-permissions-button-ok =
-    .label = Gwok alokaloka
-    .accesskey = G
-
 permission-dialog =
     .buttonlabelaccept = Gwok alokaloka
     .buttonaccesskeyaccept = G

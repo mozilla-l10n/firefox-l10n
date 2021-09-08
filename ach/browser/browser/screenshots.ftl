@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Mak cal me wang kio
-
-screenshots-my-shots-button = Cal Na
-
 screenshots-instructions = Ywar onyo dii ii potbuk me yero bute. Dii ESC me juko.
 screenshots-cancel-button = Juki
 screenshots-save-visible-button = Gwok ma nen
@@ -34,8 +30,6 @@ screenshots-login-error-details = Pe onongo wa twero gwoko cal mamegi pien peko 
 
 screenshots-unshootable-page-error-title = Pe watwero mako cal me wang kio me potbuk man.
 screenshots-unshootable-page-error-details = Man pe obedo Kakube me rwom, pi meno pe watwero mako cal me wang kio ne.
-
-screenshots-self-screenshot-error-title = Pe itwero mako cal me potbuk pa { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Yer mamegi tidi tutwal
 
