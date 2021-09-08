@@ -81,8 +81,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Inombolo Yaso
 
-fips-nonempty-password-required = Ukuba ku-FIPS kudinga ukuba ube neGama Lokungena Eliphethe elihleliwe entweni ngayinye yokuvikela. Sicela uhlela igama lokungena ngaphambi kokuba uyenze isebenze ku-FIPS.
-
 add-module-failure = Ayikwazi ukwenezela imojuli
 del-module-warning = Uyaqiniseka yini ukuthi ufuna ukuyicisha le mojuli yokuvikela?
 del-module-error = Ayikwazi ukucisha le mojuli

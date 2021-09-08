@@ -16,9 +16,6 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Phina ithebhu">
-<!ENTITY  unpinTab.label                     "Khipha ithebhu">
-
 
 
 
@@ -35,10 +32,6 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Ibha yohlu lokukhona">
 <!ENTITY menubarCmd.accesskey "y">
-
-<!ENTITY personalbarCmd.label "Ibha yamathuluzi ezimpawu zokubekisa">
-<!ENTITY personalbarCmd.accesskey "I">
-<!ENTITY bookmarksToolbarItem.label "Izinto zebha yamathuluzi okuphawula">
 
 
 
@@ -60,10 +53,7 @@ when there are no windows but Firefox is still running. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
@@ -72,16 +62,6 @@ when there are no windows but Firefox is still running. -->
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
-
-<!ENTITY showAllBookmarks2.label "Bonisa wonke amaphawu wokubekisa">
-
-
-
-<!ENTITY bookmarksToolbarChevron.tooltip "Bonisa ukuphawulwa kokubonisa okungaphezulu">
 
 
 
@@ -118,14 +98,6 @@ when there are no windows but Firefox is still running. -->
 <!-- Toolbar items -->
 
 
-<!ENTITY bookmarksButton.label          "Izimpawu zokubekisa">
-
-
-
-
-<!ENTITY viewBookmarksToolbar.label         "Buka ibha yamathuluzi wezimpawu zokubekisa">
-
-
 
 
 
@@ -135,8 +107,6 @@ when there are no windows but Firefox is still running. -->
   -  shortcut keys on Linux. -->
 
 <!ENTITY downloads.label              "Ukwaziswa okuthathwe kwafakwa">
-
-<!ENTITY addons.label                 "Nokungezwayo">
 
 <!ENTITY webDeveloperMenu.label       "Umthuthukisi wewebhu">
 
@@ -155,10 +125,6 @@ when there are no windows but Firefox is still running. -->
 
 
 <!ENTITY historyMenu.label "Umlando">
-
-<!ENTITY historyUndoMenu.label "Omaki abasanda ukuvalwa">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Amafasitela asanda kuvalwa">
 
 
 
@@ -278,9 +244,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openLinkCmdInTab.accesskey   "e">
 
 
-<!ENTITY emailPageCmd.label           "Imeyila isixhumanisi…">
-
-
 
 
 <!-- Media (video/audio) controls -->
@@ -313,13 +276,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Lwiza">
 
 <!ENTITY sidebarCloseButton.tooltip     "Vala ibha yasohlangothini">
-
-
-<!ENTITY quitApplicationCmdWin2.label       "Phuma">
-<!ENTITY quitApplicationCmdWin2.accesskey   "h">
-
-<!ENTITY quitApplicationCmd.label       "Yeka">
-<!ENTITY quitApplicationCmd.accesskey   "Y">
 
 
 
@@ -396,16 +352,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
-
-
-
-
-
-<!ENTITY syncBrand.shortName.label    "Sync">
 
 
 

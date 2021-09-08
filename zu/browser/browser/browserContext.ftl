@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,9 +48,6 @@ main-context-menu-page-save =
     .label = Gcina ikhasi ngokuthi…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -81,10 +66,6 @@ main-context-menu-open-link-new-private-window =
     .label = Vula isixhumanisi efasiteleni elisha
     .accesskey = e
 
-main-context-menu-bookmark-this-link =
-    .label = Phawula lolu xhumo
-    .accesskey = x
-
 main-context-menu-save-link =
     .label = Gcina uxhumo ngokuthi…
     .accesskey = x
@@ -100,10 +81,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Kopisha ikheli le-imeyili
     .accesskey = i
-
-main-context-menu-copy-link =
-    .label = Kopisha indawo yesixhumanisi
-    .accesskey = K
 
 ## Media (video/audio) controls
 ##
@@ -154,29 +131,9 @@ main-context-menu-image-reload =
     .label = Phinda ulayishe uhlaka
     .accesskey = P
 
-main-context-menu-image-view =
-    .label = Bheka isithombe
-    .accesskey = i
-
-main-context-menu-video-view =
-    .label = Buka ividiyo
-    .accesskey = B
-
 main-context-menu-image-copy =
     .label = Kopisha isithombe
     .accesskey = i
-
-main-context-menu-image-copy-location =
-    .label = Kopisha indawo yesithombe
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Kopisha indawo yevidiyo
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Kopisha indawo yomsindo
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = Gcina isithombe ngokuthi…
@@ -186,10 +143,6 @@ main-context-menu-image-email =
     .label = Imeyila isithombe…
     .accesskey = m
 
-main-context-menu-image-set-as-background =
-    .label = Kwenze kube isithombe sangemuva sesikrini…
-    .accesskey = K
-
 main-context-menu-image-info =
     .label = Bheka imininingwane yekhasi
     .accesskey = y
@@ -197,10 +150,6 @@ main-context-menu-image-info =
 main-context-menu-audio-save-as =
     .label = Gcina umsindo njenge…
     .accesskey = i
-
-main-context-menu-video-image-save-as =
-    .label = Gcina isithombe njenge...
-    .accesskey = G
 
 main-context-menu-video-email =
     .label = Imeyila ividiyo…
@@ -213,10 +162,6 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Fihla le plugin
     .accesskey = F
-
-main-context-menu-view-background-image =
-    .label = Bheka isithombe esingemuva
-    .accesskey = k
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -276,10 +221,6 @@ main-context-menu-view-page-source =
     .label = Bheka umthombo wekhasi
     .accesskey = B
 
-main-context-menu-view-page-info =
-    .label = Bheka imininingwane yekhasi
-    .accesskey = i
-
 main-context-menu-bidi-switch-text =
     .label = Shintsha indlela yombhalo
     .accesskey = h
@@ -287,8 +228,4 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Shintsha indlela yekhasi
     .accesskey = d
-
-main-context-menu-inspect-element =
-    .label = Ngamela i-elementi
-    .accesskey = Q
 

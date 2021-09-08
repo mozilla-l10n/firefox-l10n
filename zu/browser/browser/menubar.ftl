@@ -88,9 +88,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Hlela
     .accesskey = H
-menu-edit-find-on =
-    .label = Thola kuleli khasi…
-    .accesskey = T
 menu-edit-find-again =
     .label = Phinda uthole
     .accesskey = t
@@ -106,9 +103,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Amabha wamathuluzi
     .accesskey = A
-menu-view-customize-toolbar =
-    .label = Yenza ngokwezifiso…
-    .accesskey = Y
 menu-view-sidebar =
     .label = Ibha esohlangothini
     .accesskey = e
@@ -173,8 +167,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Izimpawu zokubekisa
     .accesskey = I
-menu-bookmarks-show-all =
-    .label = Bonisa wonke amaphawu wokubekisa
 menu-bookmark-edit =
     .label = Hlela lolu phawu lokubekisa
 menu-bookmarks-all-tabs =
@@ -190,32 +182,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Ukwaziswa okuthathwe kwafakwa
     .accesskey = U
-menu-tools-addons =
-    .label = Nokungezwayo
-    .accesskey = N
 menu-tools-sync-now =
     .label = Sync manje
     .accesskey = S
-menu-tools-web-developer =
-    .label = Umthuthukisi wewebhu
-    .accesskey = w
 menu-tools-page-source =
     .label = Umthombo wekhasi
     .accesskey = e
 menu-tools-page-info =
     .label = Ukwaziswa kwekhasi
     .accesskey = k
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Izinketho
-           *[other] Okuthandwayo
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] w
-        }
 
 ## Window Menu
 
@@ -246,12 +221,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Usizo
     .accesskey = U
-menu-help-troubleshooting-info =
-    .label = Imininingwane yokufuna isisombululo senkinga
-    .accesskey = I
 menu-help-feedback-page =
     .label = Thumela impendulo…
     .accesskey = T
-menu-help-safe-mode-without-addons =
-    .label = Qala kabusha ngokungafakwa okungeziwe kukhutshaziwe…
-    .accesskey = Q

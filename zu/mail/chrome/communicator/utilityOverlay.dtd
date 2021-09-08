@@ -18,8 +18,6 @@
 <!ENTITY redoCmd.accesskey "b">
 <!ENTITY deleteCmd.label "Cisha">
 <!ENTITY deleteCmd.accesskey "c">
-<!ENTITY preferencesCmdUnix.label "Okuthandwayo">
-<!ENTITY preferencesCmdUnix.accesskey "w">
 
 <!ENTITY viewMenu.label "Bheka">
 <!ENTITY viewMenu.accesskey "b">

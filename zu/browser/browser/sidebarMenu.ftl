@@ -4,5 +4,6 @@
 
 sidebar-menu-bookmarks =
     .label = Izimpawu zokubekisa
+
 sidebar-close-button =
     .tooltiptext = Vala ibha yasohlangothini

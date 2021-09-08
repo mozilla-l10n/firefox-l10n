@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Umphathi wokungezwayo
-
 addons-page-title = Umphathi wokungezwayo
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = Funda kabanzi ngokungezwayo
-
-cmd-show-details =
-    .label = Bonisa ulwazi olubanzi
-    .accesskey = B
-
-cmd-find-updates =
-    .label = Thola ukuvuselela
-    .accesskey = T
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Izinketho
-           *[other] Okuthandwayo
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] O
-        }
-
-cmd-enable-theme =
-    .label = Indikimba yokugqoka
-    .accesskey = I
-
-cmd-disable-theme =
-    .label = Misa ukugqokwa kwendikimba
-    .accesskey = u
-
-cmd-install-addon =
-    .label = Faka
-    .accesskey = F
-
-cmd-contribute =
-    .label = Bamba iqhaza
-    .accesskey = B
-    .tooltiptext = Bamba iqhaza ekukukhuleni kwalokho okwengezwayo
 
 detail-version =
     .label = Inguqulo
