@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Az OTR-kulcs ujjlenyomatai a korábbi, végpontok között titkosított beszélgetésekből.
 
-finger-screenName =
-    .label = Partner
-
 finger-screen-name =
     .label = Kapcsolat
 finger-verified =

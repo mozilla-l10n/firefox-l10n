@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Minden weboldal eltávolítása
     .accesskey = M
 
-permissions-button-cancel =
-    .label = Mégse
-    .accesskey = M
-
-permissions-button-ok =
-    .label = Változtatások mentése
-    .accesskey = V
-
 permission-dialog =
     .buttonlabelaccept = Változtatások mentése
     .buttonaccesskeyaccept = V

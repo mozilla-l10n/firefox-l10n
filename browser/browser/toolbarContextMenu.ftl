@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Összes lap kiválasztása
     .accesskey = e
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Lapbezárás visszavonása
-            [one] Lapbezárás visszavonása
-           *[other] Lapbezárások visszavonása
-        }
-    .accesskey = v
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Rögzítés a túlcsorduló menühöz
     .accesskey = R
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Automatikus elrejtés az eszköztárban
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Gomb elrejtése, ha üres
     .accesskey = G

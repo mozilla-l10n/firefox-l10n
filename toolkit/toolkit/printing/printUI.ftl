@@ -58,8 +58,6 @@ printui-options = Beállítások
 printui-headers-footers-checkbox = Fejlécek és láblécek nyomtatása
 printui-backgrounds-checkbox = Hátterek nyomtatása
 
-printui-selection-checkbox = Csak a kijelölés nyomtatása
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

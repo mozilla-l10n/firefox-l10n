@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Lap könyvjelzőzése
     .accesskey = k
-reopen-in-container =
-    .label = Újranyitás konténerben
-    .accesskey = j
 tab-context-open-in-new-container-tab =
     .label = Megnyitás új konténerlapban
     .accesskey = e
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Több lap bezárása
     .accesskey = T
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Lapbezárás visszavonása
-            [one] Lapbezárás visszavonása
-           *[other] Lapbezárások visszavonása
-        }
-    .accesskey = L
-close-tab =
-    .label = Lap bezárása
-    .accesskey = b
-close-tabs =
-    .label = Lapok bezárása
-    .accesskey = z
-move-tabs =
-    .label = Lapok áthelyezése
-    .accesskey = h
-move-tab =
-    .label = Lap áthelyezése
-    .accesskey = h
 tab-context-share-url =
     .label = Megosztás
     .accesskey = M
@@ -130,6 +107,7 @@ tab-context-move-tabs =
            *[other] Lapok áthelyezése
         }
     .accesskey = h
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

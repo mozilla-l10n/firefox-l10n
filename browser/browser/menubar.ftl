@@ -38,16 +38,20 @@ menu-quit =
             [windows] K
            *[other] K
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Kilépés a { -brand-shorter-name }ból
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Kilépés a { -brand-shorter-name }ból
+
 menu-about =
     .label = A { -brand-shorter-name } névjegye
     .accesskey = A
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Szerkesztés
     .accesskey = z
-menu-edit-find-on =
-    .label = Keresés ezen az oldalon…
-    .accesskey = e
 menu-edit-find-in-page =
     .label = Keresés az oldalon…
     .accesskey = K
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Eszköztárak
     .accesskey = E
-menu-view-customize-toolbar =
-    .label = Testreszabás…
-    .accesskey = T
 menu-view-customize-toolbar2 =
     .label = Eszköztár testreszabása…
     .accesskey = t
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Alap oldalstílus
     .accesskey = A
-menu-view-charset =
-    .label = Szövegkódolás
-    .accesskey = d
 menu-view-repair-text-encoding =
     .label = Szövegkódolás javítása
     .accesskey = k
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Összes ablak újranyitása
 menu-bookmarks-menu =
     .label = Könyvjelzők
     .accesskey = K
-menu-bookmarks-show-all =
-    .label = Minden könyvjelző megjelenítése
-menu-bookmark-this-page =
-    .label = Oldal hozzáadása a könyvjelzőkhöz
 menu-bookmarks-manage =
     .label = Könyvjelzők kezelése
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Letöltések
     .accesskey = L
-menu-tools-addons =
-    .label = Kiegészítők
-    .accesskey = t
-menu-tools-fxa-sign-in =
-    .label = Bejelentkezés a { -brand-product-name }ba…
-    .accesskey = B
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } bekapcsolása…
-    .accesskey = b
 menu-tools-addons-and-themes =
     .label = Kiegészítők és témák
     .accesskey = K
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Újrakapcsolódás a { -brand-product-name }hoz…
     .accesskey = j
-menu-tools-web-developer =
-    .label = Webfejlesztő
-    .accesskey = W
 menu-tools-browser-tools =
     .label = Böngészőeszközök
     .accesskey = B
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Oldal adatai
     .accesskey = O
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Beállítások
-           *[other] Beállítások
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] e
-           *[other] e
-        }
 menu-settings =
     .label = Beállítások
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Súgó
     .accesskey = S
-menu-help-product =
-    .label = { -brand-shorter-name } súgó
-    .accesskey = s
-menu-help-show-tour =
-    .label = { -brand-shorter-name } bemutató
-    .accesskey = u
-menu-help-import-from-another-browser =
-    .label = Importálás egy másik böngészőből…
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = Gyorsbillentyűk
-    .accesskey = G
-menu-help-troubleshooting-info =
-    .label = Hibakeresési információ
-    .accesskey = H
 menu-get-help =
     .label = Segítség kérése
     .accesskey = S
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Visszajelzés beküldése…
     .accesskey = V
-menu-help-safe-mode-without-addons =
-    .label = Újraindítás letiltott kiegészítőkkel…
-    .accesskey = r
-menu-help-safe-mode-with-addons =
-    .label = Újraindítás engedélyezett kiegészítőkkel
-    .accesskey = r
 menu-help-enter-troubleshoot-mode2 =
     .label = Hibaelhárítási mód…
     .accesskey = m

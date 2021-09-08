@@ -97,8 +97,6 @@ perftools-thread-img-decoder =
     .title = Képdekódoló szálak
 perftools-thread-dns-resolver =
     .title = A DNS-feloldás ezen a szálon történik
-perftools-thread-js-helper =
-    .title = A JS motor háttérben futó feladatai, mint a főszálon kívüli fordítások
 
 perftools-thread-task-controller =
     .title = TaskController thread pool szálak

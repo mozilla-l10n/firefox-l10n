@@ -5,11 +5,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title              "Speciális">
 
-<!ENTITY systemPref.caption               "Rendszerbeállítások">
-<!ENTITY systemPrefCheck.label            "Rendszerbeállítások használata">
-<!ENTITY systemPrefCheck.accesskey        "R">
-<!ENTITY systemPref.desc                  "Ha bejelöli ezt a négyzetet, akkor a &brandShortName; rendszerbeállításokat használja. A rendszerbeállítások felülbírálják a &brandShortName; beállításait.">
-
 <!ENTITY prefCheckDefault.caption         "Rendszer alapbeállításai">
 <!ENTITY prefCheckDefaultClient.label     "Alapértelmezett programok beállításának ellenőrzése induláskor">
 <!ENTITY prefCheckDefaultClient.accesskey "A">

@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "r">
 <!ENTITY deleteCmd.label          "Törlés">
 <!ENTITY deleteCmd.accesskey        "s">
-<!ENTITY preferencesCmd2.label "Beállítások">
-<!ENTITY preferencesCmd2.accesskey "B">
-<!ENTITY preferencesCmdUnix.label       "Beállítások">
-<!ENTITY preferencesCmdUnix.accesskey     "B">
 
 <!ENTITY customizeCmd.label "Testreszabás">
 <!ENTITY customizeCmd.accesskey "T">

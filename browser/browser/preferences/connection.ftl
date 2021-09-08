@@ -35,9 +35,6 @@ connection-proxy-http = HTTP-proxy
     .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Használja ezt a proxyt FTP és HTTPS esetén is
-    .accesskey = p
 
 connection-proxy-https-sharing =
     .label = Használja ezt a proxyt HTTPS esetén is
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS-proxy
     .accesskey = H
 connection-proxy-ssl-port = Port
     .accesskey = o
-
-connection-proxy-ftp = FTP-proxy
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = r
 
 connection-proxy-socks = SOCKS gép
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Nincs proxy a következőhöz
     .accesskey = v
 
 connection-proxy-noproxy-desc = Példa: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = A localhost, a 127.0.0.1 és a ::1 sosem kerül proxyzásra.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = A localhost, a 127.0.0.1/8, és a ::1 felé nyitott kapcsolatok sosem kerülnek proxyzásra.

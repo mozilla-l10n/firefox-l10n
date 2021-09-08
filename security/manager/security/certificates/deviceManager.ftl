@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Sorozatszám
 
-fips-nonempty-password-required = A FIPS-módhoz szükséges, hogy minden adatvédelmi eszközhöz legyen mesterjelszó beállítva. Állítsa be a jelszót a FIPS-mód engedélyezése előtt.
-
 fips-nonempty-primary-password-required = A FIPS-módhoz szükséges, hogy minden adatvédelmi eszközhöz legyen elsődleges jelszó beállítva. Állítsa be a jelszót a FIPS-mód engedélyezése előtt.
 unable-to-toggle-fips = Nem sikerült módosítani a biztonsági eszköz FIPS-módját. Javasoljuk, hogy lépjen ki az alkalmazásból, és indítsa újra.
 load-pk11-module-file-picker-title = Válassza ki a betöltendő PKCS#11 eszközillesztőt

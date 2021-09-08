@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Talpatlan
 
-font-size-label =
-    .value = Méret:
-    .accesskey = M
-
 font-size-proportional-label =
     .value = Méret:
     .accesskey = e

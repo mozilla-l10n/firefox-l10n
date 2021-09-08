@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Mindig
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Beállítások
-       *[other] Beállítások
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Keresés a beállításokban
-           *[other] Keresés a beállításokban
-        }
-
 settings-page-title = Beállítások
 
 # This is used to determine the width of the search field in about:preferences,
@@ -65,10 +43,6 @@ category-search =
 pane-privacy-title = Adatvédelem és biztonság
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 pane-sync-title3 = Szinkronizálás
 category-sync3 =
@@ -113,14 +87,6 @@ restart-later = Újraindítás később
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Egy kiegészítő, a(z) <img data-l10n-name="icon"/> { $name }, vezérli a kezdőoldalt.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Egy kiegészítő, a(z) <img data-l10n-name="icon"/> { $name }, vezérli az Új lap oldalt.
-
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = Egy kiegészítő, a(z) <img data-l10n-name="icon"/>{ $name }, vezérli ezt a beállítást.
@@ -128,10 +94,6 @@ extension-controlled-password-saving = Egy kiegészítő, a(z) <img data-l10n-na
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Egy kiegészítő, a(z) <img data-l10n-name="icon"/> { $name } vezérli ezt a beállítást.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Egy kiegészítő, a(z) <img data-l10n-name="icon"/> { $name }, beállította az alapértelmezett keresőszolgáltatást.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -157,13 +119,6 @@ extension-controlled-enable = A kiegészítő engedélyezéséhez ugorjon a <img
 search-results-header = Találatok
 
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Elnézését, nincs találat a Beállítások közt erre: „<span data-l10n-name="query"></span>”.
-       *[other] Elnézését, nincs találat a Beállítások közt erre: „<span data-l10n-name="query"></span>”.
-    }
-
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Elnézését, nincs találat a Beállítások közt erre: „<span data-l10n-name="query"></span>”.
 
 search-results-help-link = Segítségre van szüksége? Látogasson el ide: <a data-l10n-name="url">{ -brand-short-name } támogatás</a>
@@ -171,14 +126,6 @@ search-results-help-link = Segítségre van szüksége? Látogasson el ide: <a d
 ## General Section
 
 startup-header = Indítás
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = A { -brand-short-name } és a Firefox futhat egyszerre
-use-firefox-sync = Tipp: Ez külön profilokat használ. A { -sync-brand-short-name } segítségével adatokat oszthat meg közöttük.
-get-started-not-logged-in = Bejelentkezés a { -sync-brand-short-name }be
-get-started-configured = A { -sync-brand-short-name } beállításainak megnyitása
 
 always-check-default =
     .label = Mindig ellenőrizze, hogy a { -brand-short-name }-e az alapértelmezett böngésző
@@ -218,10 +165,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Figyelmeztetés, hogy több lap megnyitása lelassíthatja a { -brand-short-name } programot
     .accesskey = F
-
-switch-links-to-new-tabs =
-    .label = Hivatkozás új lapon való megnyitásakor átváltás rá azonnal
-    .accesskey = H
 
 switch-to-new-tabs =
     .label = Hivatkozás, kép vagy média új lapon való megnyitásakor átváltás rá azonnal
@@ -412,11 +355,6 @@ applications-manage-app =
     .label = Alkalmazás részletei…
 applications-always-ask =
     .label = Rákérdezés mindig
-applications-type-pdf = Hordozható dokumentumformátum (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -506,17 +444,6 @@ update-application-warning-cross-user-setting = Ez a beállítás érvényes az 
 update-application-use-service =
     .label = Háttérben futó szolgáltatás intézze a frissítést
     .accesskey = H
-
-update-setting-write-failure-title = Hiba történt a Frissítési beállításainak mentésekor
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    A { -brand-short-name } hibát észlelt, és nem mentette ezt a változtatást. Ne feledje, hogy ezen frissítési beállítás megadásához írási engedély szükségesen a lenti fájlon. Ön vagy a rendszergazdája megoldhatja a hibát azzal, hogy a Felhasználók csoportnak teljes jogosultságot ad a fájlhoz.
-    
-    Nem sikerült a fájlba írni: { $path }
 
 update-setting-write-failure-title2 = Hiba történt a Frissítési beállítások mentésekor
 
@@ -771,13 +698,9 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Keresési javaslatok megjelenítése a privát ablakokban
 
-suggestions-addressbar-settings-generic = Címsávjavaslatok beállításainak módosítása
-
 suggestions-addressbar-settings-generic2 = Címsávjavaslatok beállításainak módosítása
 
 search-suggestions-cant-show = A keresési javaslatok nem jelennek meg a címsáv találatai között, mert a { -brand-short-name } nem jegyzi meg az előzményeket.
-
-search-one-click-header = Egy kattintásos keresőszolgáltatások
 
 search-one-click-header2 = Keresési gyorsparancsok
 
@@ -812,13 +735,6 @@ search-keyword-warning-bookmark = Olyan kulcsszót választott, amelyet jelenleg
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Vissza a Beállításokhoz
-           *[other] Vissza a Beállításokhoz
-        }
-
 containers-back-button2 =
     .aria-label = Vissza a Beállításokhoz
 containers-header = Konténer lapok
@@ -830,9 +746,6 @@ containers-new-tab-check =
     .label = Konténer kiválasztása minden új laphoz
     .accesskey = K
 
-containers-preferences-button =
-    .label = Beállítások
-
 containers-settings-button =
     .label = Beállítások
 containers-remove-button =
@@ -842,11 +755,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Vigye magával a webet
-sync-signedout-description = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
-
-sync-signedout-account-signin2 =
-    .label = Bejelentkezés a { -sync-brand-short-name }be…
-    .accesskey = j
 
 sync-signedout-description2 = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
 
@@ -897,12 +805,6 @@ prefs-syncing-on = Szinkronizálás: BE
 
 prefs-syncing-off = Szinkronizálás: KI
 
-prefs-sync-setup =
-    .label = { -sync-brand-short-name } beállítása…
-    .accesskey = S
-
-prefs-sync-offer-setup-label = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
-
 prefs-sync-turn-on-syncing =
     .label = Szinkronizálás bekapcsolása…
     .accesskey = S
@@ -925,11 +827,6 @@ sync-currently-syncing-logins-passwords = Bejelentkezések és jelszavak
 sync-currently-syncing-addresses = Címek
 sync-currently-syncing-creditcards = Bankkártyák
 sync-currently-syncing-addons = Kiegészítők
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Beállítások
-       *[other] Beállítások
-    }
 
 sync-currently-syncing-settings = Beállítások
 
@@ -979,15 +876,6 @@ sync-engine-addons =
     .label = Kiegészítők
     .tooltiptext = Kiegészítők és témák az asztali Firefoxhoz
     .accesskey = K
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Beállítások
-           *[other] Beállítások
-        }
-    .tooltiptext = Módosított általános, adatvédelmi és biztonsági beállítások
-    .accesskey = B
 
 sync-engine-settings =
     .label = Beállítások
@@ -1044,9 +932,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Mentett bejelentkezések…
     .accesskey = t
-forms-master-pw-use =
-    .label = Mesterjelszó használata
-    .accesskey = M
 forms-primary-pw-use =
     .label = Elsődleges jelszó használata
     .accesskey = E
@@ -1058,7 +943,6 @@ forms-master-pw-change =
     .label = Mesterjelszó megváltoztatása…
     .accesskey = z
 
-forms-master-pw-fips-title = Jelenleg FIPS-módban van. A FIPS-hez kötelező nem üres mesterjelszót megadni.
 forms-primary-pw-change =
     .label = Elsődleges jelszó megváltoztatása…
     .accesskey = m
@@ -1076,15 +960,6 @@ forms-windows-sso-learn-more-link = További tudnivalók
 forms-windows-sso-desc = Fiókok kezelése az eszközbeállításokban
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Mesterjelszó létrehozásához írja be a Windows bejelentkezési hitelesítő adatait. Ez elősegíti a fiókjai biztonságának védelmét.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = mesterjelszót hozzon létre
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Elsődleges jelszó létrehozásához írja be a Windows bejelentkezési hitelesítő adatait. Ez elősegíti a fiókjai biztonságának védelmét.
@@ -1202,10 +1077,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Adatok kezelése…
     .accesskey = A
-
-sitedata-cookies-permissions =
-    .label = Engedélyek kezelése…
-    .accesskey = E
 
 sitedata-cookies-exceptions =
     .label = Kivételek kezelése…
@@ -1393,12 +1264,6 @@ permissions-addon-exceptions =
     .label = Kivételek…
     .accesskey = K
 
-permissions-a11y-privacy-checkbox =
-    .label = Az akadálymentesítési szolgáltatások ne férjenek hozzá a böngészőhöz
-    .accesskey = a
-
-permissions-a11y-privacy-link = További tudnivalók
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } adatgyűjtés és felhasználás
@@ -1425,11 +1290,6 @@ addon-recommendations-link = További tudnivalók
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Az adatjelentést letiltották ehhez a binárishoz
-
-collection-backlogged-crash-reports =
-    .label = A { -brand-short-name } a háttérben küldhet összeomlási jelentéseket az Ön nevében
-    .accesskey = j
-collection-backlogged-crash-reports-link = További tudnivalók
 
 collection-backlogged-crash-reports-with-link = Engedélyezés, hogy a { -brand-short-name } elküldje az elmaradt összeomlás-jelentéseket az Ön nevében <a data-l10n-name="crash-reports-link">További tudnivalók</a>
     .accesskey = o
@@ -1460,16 +1320,6 @@ security-block-uncommon-software =
 
 certs-header = Tanúsítványok
 
-certs-personal-label = Ha a kiszolgáló elkéri a személyes tanúsítványt
-
-certs-select-auto-option =
-    .label = Automatikus választás
-    .accesskey = A
-
-certs-select-ask-option =
-    .label = Megerősítés minden alkalommal
-    .accesskey = M
-
 certs-enable-ocsp =
     .label = Az OCSP válaszoló kiszolgálók lekérdezése a tanúsítványok érvényességének megerősítéséhez
     .accesskey = C
@@ -1481,34 +1331,6 @@ certs-view =
 certs-devices =
     .label = Adatvédelmi eszközök…
     .accesskey = e
-
-space-alert-learn-more-button =
-    .label = További tudnivalók
-    .accesskey = T
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Beállítások megnyitása
-           *[other] Beállítások megnyitása
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] m
-           *[other] m
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] A { -brand-short-name } kezd kifogyni a lemezhelyből. A weboldalak tartalma nem feltétlenül jelenik meg helyesen. Az oldalak tárolt adatait a Beállítások > Adatvédelem és biztonság > Sütik és oldaladatok alatt törölheti.
-       *[other] A { -brand-short-name } kezd kifogyni a lemezhelyből. A weboldalak tartalma nem feltétlenül jelenik meg helyesen. Az oldalak tárolt adatait a Beállítások > Adatvédelem és biztonság > Sütik és oldaladatok alatt törölheti.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = Rendben, értem
-    .accesskey = R
-
-space-alert-under-5gb-message = A { -brand-short-name } kezd kifogyni a lemezhelyből. A weboldalak tartalma nem feltétlenül jelenik meg helyesen. A lemezhasználat optimalizálásával a böngészés simábbá tehető, olvassa el a „További tudnivalókat”.
 
 space-alert-over-5gb-settings-button =
     .label = Beállítások megnyitása

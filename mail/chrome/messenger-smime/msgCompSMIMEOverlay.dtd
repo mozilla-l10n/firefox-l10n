@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Üzenet digitális aláírása">
 <!ENTITY menu_securitySign.accesskey "d">
 
-<!ENTITY menu_securityAttachMyKey.label "Saját nyilvános kulcs mellékelése">
-<!ENTITY menu_securityAttachMyKey.accesskey "m">
-
 <!ENTITY menu_securityTech.label "Titkosítási technológia">
 <!ENTITY menu_securityTech.accesskey "T">
 

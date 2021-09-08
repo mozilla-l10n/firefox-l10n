@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Kiegészítőkezelő
-
 addons-page-title = Kiegészítőkezelő
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Kiegészítő támogatás
 sidebar-help-button-title =
     .title = Kiegészítő támogatás
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } beállítások
-       *[other] { -brand-short-name } beállítások
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } beállítások
-           *[other] { -brand-short-name } beállítások
-        }
-
 addons-settings-button = { -brand-short-name } Beállítások
 sidebar-settings-button-title =
     .title = { -brand-short-name } Beállítások
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Minden kiegészítő megjelenítése
-
-cmd-show-details =
-    .label = További adatok megjelenítése
-    .accesskey = T
-
-cmd-find-updates =
-    .label = Frissítések keresése
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Beállítások
-           *[other] Beállítások
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] B
-           *[other] B
-        }
-
-cmd-enable-theme =
-    .label = Téma alkalmazása
-    .accesskey = T
-
-cmd-disable-theme =
-    .label = Téma levétele
-    .accesskey = l
-
-cmd-install-addon =
-    .label = Telepítés
-    .accesskey = T
-
-cmd-contribute =
-    .label = Támogatás
-    .accesskey = T
-    .tooltiptext = A kiegészítő fejlesztésének támogatása
 
 detail-version =
     .label = Verzió
@@ -403,8 +351,6 @@ dictionary-disabled-heading = Tiltva
 
 locale-enabled-heading = Engedélyezve
 locale-disabled-heading = Tiltva
-
-ask-to-activate-button = Aktiválás kérésre
 
 always-activate-button = Mindig aktiválja
 never-activate-button = Soha ne aktiválja

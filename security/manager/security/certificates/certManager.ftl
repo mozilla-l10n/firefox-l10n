@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = A következő szervezetektől vannak Önt azonosító tanúsítványok
 certmgr-remembered = Ezekkel a tanúsítványokkal azonosítja magát a webhelyek felé
 certmgr-people = A következő embereket lehet azonosítani a meglevő tanúsítványokkal
-certmgr-servers = A következő kiszolgálókat lehet azonosítani a meglevő tanúsítványokkal
 certmgr-server = Ezek a bejegyzések kiszolgálói tanúsítványhiba kivételeket azonosítanak
 certmgr-ca = A következő hitelesítésszolgáltatókat lehet azonosítani a meglevő tanúsítványokkal
-
-certmgr-detail-general-tab-title =
-    .label = Általános
-    .accesskey = l
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Részletek
-    .accesskey = R
-
-certmgr-pending-label =
-    .value = Tanúsítvány ellenőrzése folyamatban…
-
-certmgr-subject-label = Tulajdonos
-
-certmgr-issuer-label = Kibocsátó
-
-certmgr-period-of-validity = Érvényesség időtartama
-
-certmgr-fingerprints = Ujjlenyomatok
-
-certmgr-cert-detail =
-    .title = Tanúsítvány részletek
-    .buttonlabelaccept = Bezárás
-    .buttonaccesskeyaccept = B
-
-certmgr-cert-detail-commonname = Általános név (CN)
-
-certmgr-cert-detail-org = Szervezet (O)
-
-certmgr-cert-detail-orgunit = Szervezeti egység (OU)
-
-certmgr-cert-detail-serial-number = Sorozatszám
-
-certmgr-cert-detail-sha-256-fingerprint = SHA256-ujjlenyomat
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1-ujjlenyomat
 
 certmgr-edit-ca-cert =
     .title = Hitelesítésszolgáltató tanúsítványa megbízhatóságának beállítása
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Adatvédelmi eszköz
 
-certmgr-begins-on = Érvényesség kezdete
-
 certmgr-begins-label =
     .label = Érvényesség kezdete
-
-certmgr-expires-on = Lejárat dátuma
 
 certmgr-expires-label =
     .label = Lejárat dátuma
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Importálás…
     .accesskey = I
-
-certmgr-details =
-    .value = Tanúsítványmezők
-    .accesskey = a
-
-certmgr-fields =
-    .value = Mezőérték
-    .accesskey = e
-
-certmgr-hierarchy =
-    .value = Tanúsítványhierarchia
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Kivétel hozzáadása…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Biztosan törölni akarja ezeket a tanúsítványokat
 delete-user-cert-impact = Ha valamely saját tanúsítványodat törli, akkor többé nem használhatja saját maga azonosítására.
 
 
-delete-ssl-cert-title =
-    .title = Kiszolgáló-kivételek törlése
-delete-ssl-cert-confirm = Biztosan törölni akarja ezeket a kiszolgáló-kivételeket?
-delete-ssl-cert-impact = A kiszolgáló-kivétel törlésével a kiszolgálóra visszaállnak az eredeti biztonsági ellenőrzések, és kötelező lesz az érvényes tanúsítvány használata.
-
-
 delete-ssl-override-title =
     .title = Kiszolgálói tanúsítvány kivételek törlése
 delete-ssl-override-confirm = Biztos, hogy törli ezeket a kiszolgáló-kivételeket?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Tanúsítvány ezen sorozatszámmal: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Tanúsítványmegjelenítő: „{ $certName }”
-
-not-present =
-    .value = <Nem része a tanúsítványnak>
-
-# Cert verification
-cert-verified = A tanúsítvány a következőkre lett ellenőrizve:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL ügyféltanúsítvány
-
-verify-ssl-server =
-    .value = SSL kiszolgáló-tanúsítvány
-
-verify-ssl-ca =
-    .value = SSL hitelesítésszolgáltató
-
-verify-email-signer =
-    .value = E-mail aláíró tanúsítvány
-
-verify-email-recip =
-    .value = E-mail címzett tanúsítvány
-
-# Cert verification
-cert-not-verified-cert-revoked = Nem sikerült ellenőrizni a tanúsítványt, mert vissza lett vonva.
-cert-not-verified-cert-expired = Nem sikerült ellenőrizni a tanúsítványt, mert lejárt.
-cert-not-verified-cert-not-trusted = Nem sikerült ellenőrizni a tanúsítványt, mert nem megbízható.
-cert-not-verified-issuer-not-trusted = Nem sikerült ellenőrizni a tanúsítványt, mert a kibocsátója nem megbízható.
-cert-not-verified-issuer-unknown = Nem sikerült ellenőrizni a tanúsítványt, mert a kibocsátója ismeretlen.
-cert-not-verified-ca-invalid = Nem sikerült ellenőrizni a tanúsítványt, mert a CA-tanúsítvány érvénytelen.
-cert-not-verified_algorithm-disabled = A tanúsítvány nem ellenőrizhető, mert a megbízhatatlansága miatt letiltott aláírási algoritmussal írták alá.
-cert-not-verified-unknown = A tanúsítvány ismeretlen okból ellenőrizhetetlen.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Ne küldjön ügyféltanúsítványt

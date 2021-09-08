@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Bezárás
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Beállítások
-           *[other] Beállítások
-        }
-
 preferences-doc-title = Beállítások
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Elvetés
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Folytatás
 
-addons-button = Kiegészítők és témák
-
 account-button = Fiókbeállítások
 open-addons-sidebar-button = Kiegészítők és témák
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Mesterjelszó létrehozásához írja be a Windows bejelentkezési hitelesítő adatait. Ez elősegíti a fiókjai biztonságának védelmét.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = mesterjelszót hozzon létre
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Elsődleges jelszó létrehozásához írja be a Windows bejelentkezési hitelesítő adatait. Ez elősegíti a fiókjai biztonságának védelmét.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Testreszabás…
     .accesskey = T
-
-tray-icon-label =
-    .label = Tálcaikon megjelenítése
-    .accesskey = t
 
 biff-use-system-alert =
     .label = Rendszerértesítés használata
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Szín:
     .accesskey = z
-
-search-input =
-    .placeholder = Keresés
 
 search-handler-table =
     .placeholder = Tartalomtípusok és műveletek szűrése
@@ -723,16 +698,6 @@ passwords-button =
     .label = Mentett jelszavak…
     .accesskey = e
 
-master-password-description = A mesterjelszó az összes jelszót védi. Minden munkamenet során egyszer meg kell adni.
-
-master-password-label =
-    .label = Mesterjelszó használata
-    .accesskey = M
-
-master-password-button =
-    .label = Mesterjelszó megváltoztatása…
-    .accesskey = z
-
 
 primary-password-description = Az elsődleges jelszó az összes jelszót védi. Minden munkamenet során egyszer meg kell adni.
 
@@ -913,26 +878,6 @@ no-preview-description = Ez a téma nem érvényes, vagy jelenleg nem érhető e
 chat-variant-label =
     .value = Változat:
     .accesskey = V
-
-chat-header-label =
-    .label = Fejléc megjelenítése
-    .accesskey = F
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Keresés a Beállításokban
-           *[other] Keresés a Beállításokban
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

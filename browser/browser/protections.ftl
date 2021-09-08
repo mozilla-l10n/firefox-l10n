@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Hogyan működik
 
-turn-on-sync = { -sync-brand-short-name } bekapcsolása…
-    .title = Ugrás a szinkronizálási beállításokhoz
-
 monitor-title = Legyen résen az adatsértések miatt.
 monitor-link = Hogyan működik
 monitor-header-content-no-account = Ellenőrizze a { -monitor-brand-name } oldalt, és nézze meg, hogy szerepelt-e valamilyen ismert adatsértésben, és kapjon értesítést az új adatsértésekről.
