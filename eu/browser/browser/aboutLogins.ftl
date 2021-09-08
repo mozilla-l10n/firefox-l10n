@@ -7,17 +7,12 @@ about-logins-page-title = Saio-hasierak eta pasahitzak
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Eraman pasahitzak edonora
-login-app-promo-subtitle = Eskuratu doako { -lockwise-brand-name } aplikazioa
-login-app-promo-android =
-    .alt = Eskuratu Google Play-n
-login-app-promo-apple =
-    .alt = Deskargatu App Store-an
 login-filter =
     .placeholder = Bilatu saio-hasierak
+
 create-login-button = Sortu saio-hasiera berria
+
 fxaccounts-sign-in-text = Eskuratu zure pasahitzak zure beste gailuetan
-fxaccounts-sign-in-button = Hasi saioa { -sync-brand-short-name }(e)n
 fxaccounts-sign-in-sync-button = Hasi saioa sinkronizatzeko
 fxaccounts-avatar-button =
     .title = Kudeatu kontua
@@ -37,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Hobespenak
     }
 about-logins-menu-menuitem-help = Laguntza
-menu-menuitem-android-app = Androiderako { -lockwise-brand-short-name }
-menu-menuitem-iphone-app = iPhone ta iPad-erako { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -68,6 +61,7 @@ about-logins-list-item-breach-icon =
     .title = Datu-urratzea izandako webgunea
 about-logins-list-item-vulnerable-password-icon =
     .title = Pasahitz ahula
+
 about-logins-list-section-breach = Datu-urratzea izandako webguneak
 about-logins-list-section-vulnerable = Pasahitz ahulak
 about-logins-list-section-nothing = Alertarik ez
@@ -77,13 +71,9 @@ about-logins-list-section-week = Azken 7 egunak
 
 ## Introduction screen
 
-login-intro-heading = Gordetako saio-hasieren bila? Konfiguratu { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out2 = Gordetako saio-hasieren bila? Aktibatu sinkronizazioa edo inporta itzazu.
 about-logins-login-intro-heading-logged-in = Ez da sinkronizatuta saio-hasierarik aurkitu.
 login-intro-description = Saio-hasierarik gorde baduzu beste gailu bateko { -brand-product-name }(e)n, jarraian dituzu hauek hemen eskuratzeko urratsak:
-login-intro-instruction-fxa = Sortu edo hasi saioa zure { -fxaccount-brand-name(kasua: "n") } saio-hasierak gordeta dituzun gailuan
-login-intro-instruction-fxa-settings = Ziurtatu 'Saio-hasierak' kontrol-laukia hautatu duzula { -sync-brand-short-name } ezarpenetan
-about-logins-intro-instruction-help = Laguntza jasotzeko, bisitatu <a data-l10n-name="help-link">{ -lockwise-brand-short-name } laguntza</a>
 login-intro-instructions-fxa = Sortu edo hasi saioa zure { -fxaccount-brand-name(kasua: "n") } saio-hasierak gordeta dituzun gailuan
 login-intro-instructions-fxa-settings = Zoaz Ezarpenak > Sinkronizazioa > Gaitu sinkronizazioa… menu-aukerara eta hautatu 'Saio-hasierak eta pasahitzak' kontrol-laukia.
 login-intro-instructions-fxa-help = Laguntza jasotzeko, bisitatu <a data-l10n-name="help-link">{ -lockwise-brand-short-name } laguntza</a>.
@@ -129,11 +119,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Zure saio-hasiera editatzek
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editatu gordetako saio-hasiera
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Zure pasahitza ikusteko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = agerrarazi gordetako pasahitza
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Zure pasahitza kopiatzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
 # This message can be seen when attempting to copy a password in about:logins
@@ -142,7 +134,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = kopiatu gordetako pas
 
 ## Master Password notification
 
-master-password-notification-message = Idatzi zure pasahitz nagusia gordetako saio-hasiera eta pasahitzak ikusteko
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Zure saio-hasierak esportatzeko, idatzi Windowseko zure saio-hasiera kredentzialak. Zure kontuen segurtasuna babesten laguntzen du honek.
 # This message can be seen when attempting to export a password in about:logins
@@ -158,42 +149,30 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] { -brand-product-name } erabiltzen duzun toki orotan izan nahi dituzu zure saio-hasierak? Zoaz zure { -sync-brand-short-name } aukeretara eta hautatu 'Saio-hasierak' kontrol-laukia.
-       *[other] { -brand-product-name } erabiltzen duzun toki orotan izan nahi dituzu zure saio-hasierak? Zoaz zure { -sync-brand-short-name } hobespenetara eta hautatu 'Saio-hasierak' kontrol-laukia.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Bisitatu { -sync-brand-short-name } aukerak
-           *[other] Bisitatu { -sync-brand-short-name } hobespenak
-        }
-    .accesskey = B
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Ez galdetu berriz
-    .accesskey = z
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Utzi
 confirmation-dialog-dismiss-button =
     .title = Utzi
+
 about-logins-confirm-remove-dialog-title = Kendu saio-hasiera hau?
 confirm-delete-dialog-message = Ekintza hau ezin da desegin.
 about-logins-confirm-remove-dialog-confirm-button = Kendu
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Kendu
         [one] Kendu
        *[other] Kendu denak
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Bai, kendu saio-hasiera hau
         [one] Bai, kendu saio-hasiera hau
        *[other] Bai, kendu saio-hasiera hauek
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Kendu saio-hasiera bat?
@@ -204,6 +183,7 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Honek { -brand-short-name }(e)n gorde duzun saio-hasiera eta hemen agertzen den edozein urratze-alerta kenduko ditu. Ekintza hau ezin da desegin.
        *[other] Honek { -brand-short-name }(e)n gorde dituzun saio-hasierak eta hemen agertzen den edozein urratze-alerta kenduko ditu. Ekintza hau ezin da desegin.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Kendu saio-hasiera gailu guztietatik?
@@ -214,11 +194,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Honekin, { -brand-short-name }(e)n gordetako saio-hasiera { -fxaccount-brand-name } bidez sinkronizatutako gailu guztietatik kenduko da. Hemen agertzen diren urratzeen inguruko abisuak ere kenduko ditu honek. Ekintza hau ezingo duzu desegin.
        *[other] Honekin, { -brand-short-name }(e)n gordetako saio-hasiera guztiak { -fxaccount-brand-name(kasua: "0") } bidez sinkronizatutako gailu guztietatik kenduko da. Hemen agertzen diren urratzeen inguruko abisuak ere kenduko ditu honek. Ekintza hau ezingo duzu desegin.
     }
+
 about-logins-confirm-export-dialog-title = Esportatu saio-hasierak eta pasahitzak
 about-logins-confirm-export-dialog-message = Zure pasahitzak testu irakurgarri modura gordeko dira (adib. P@sahitz3skas4) beraz esportatutako fitxategia ireki dezakeen orok ikusi ahal izango ditu.
 about-logins-confirm-export-dialog-confirm-button = Esportatu…
+
 about-logins-alert-import-title = Inportazioa burutu da
 about-logins-alert-import-message = Ikusi inportazioaren laburpen xehetua
+
 confirm-discard-changes-dialog-title = Baztertu gorde gabeko aldaketak?
 confirm-discard-changes-dialog-message = Gorde gabeko aldaketa guztiak galdu egingo dira.
 confirm-discard-changes-dialog-confirm-button = Baztertu
@@ -249,6 +232,7 @@ about-logins-vulnerable-alert-learn-more-link = Argibide gehiago
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Erabiltzaile-izen hori duen sarrera bat badago lehendik ere { $loginTitle } webgunerako. <a data-l10n-name="duplicate-link">Sarrera horretara joan?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Errorea gertatu da pasahitz hau gordetzen saiatzean.
 
@@ -297,11 +281,13 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Saio-hasiera berriak gehituta:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Lehendik dauden saio-hasierak eguneratuta:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Lehendik dauden saio-hasierak eguneratuta:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Bikoiztutako saio-hasierak aurkitu dira:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ez dira inportatu)</span>
@@ -311,6 +297,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Erroreak:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ez dira inportatu)</span>
     }
 about-logins-import-dialog-done = Eginda
+
 about-logins-import-dialog-error-title = Inportazio-errorea
 about-logins-import-dialog-error-conflicting-values-title = Gatazkan dauden hainbat balio saio-hasiera baterako
 about-logins-import-dialog-error-conflicting-values-description = Adibidez: saio-hasiera baterako hainbat erabiltzaile-izen, pasahitz, URL, etab.
@@ -324,8 +311,10 @@ about-logins-import-dialog-error-no-logins-imported = Ez da saio-hasierarik inpo
 about-logins-import-dialog-error-learn-more = Argibide gehiago
 about-logins-import-dialog-error-try-import-again = Saiatu berriz inportatzen…
 about-logins-import-dialog-error-cancel = Utzi
+
 about-logins-import-report-title = Inportazioaren laburpena
 about-logins-import-report-description = Saio-hasiera eta pasahitzak { -brand-short-name }(e)ra inportatu dira.
+
 #
 # Variables:
 #  $number (number) - The number of the row

@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Kendu hautatutakoak
     .accesskey = K
 
-site-data-button-cancel =
-    .label = Utzi
-    .accesskey = U
-
-site-data-button-save =
-    .label = Gorde aldaketak
-    .accesskey = G
-
 site-data-settings-dialog =
     .buttonlabelaccept = Gorde aldaketak
     .buttonaccesskeyaccept = G

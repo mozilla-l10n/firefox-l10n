@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Zu identifikatzen zaituzten erakunde hauen ziurtagiriak dituzu artxibatuta
 certmgr-remembered = Ziurtagiri hauek webguneetan zu identifikatzeko erabiltzen dira
 certmgr-people = Pertsona hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta
-certmgr-servers = Zerbitzari hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta
 certmgr-server = Sarrera hauek zerbitzariko ziurtagirien errore-salbuespenak identifikatzen dituzte
 certmgr-ca = Autoritate ziurtagiri-emaile hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta
-
-certmgr-detail-general-tab-title =
-    .label = Orokorra
-    .accesskey = O
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Xehetasunak
-    .accesskey = X
-
-certmgr-pending-label =
-    .value = Ziurtagiria egiaztatzen…
-
-certmgr-subject-label = Honi emana:
-
-certmgr-issuer-label = Jaulkitzailea:
-
-certmgr-period-of-validity = Balio-epea
-
-certmgr-fingerprints = Hatz-markak
-
-certmgr-cert-detail =
-    .title = Ziurtagiriaren xehetasunak
-    .buttonlabelaccept = Itxi
-    .buttonaccesskeyaccept = x
-
-certmgr-cert-detail-commonname = Izen Arrunta (IA)
-
-certmgr-cert-detail-org = Erakundea (E)
-
-certmgr-cert-detail-orgunit = Erakunde saila (ES)
-
-certmgr-cert-detail-serial-number = Serie-zenbakia:
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 hatzmarka
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 hatzmarka
 
 certmgr-edit-ca-cert =
     .title = Editatu AZ ziurtagiriaren fidagarritasun-ezarpenak
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Segurtasun-gailua
 
-certmgr-begins-on = Hasiera-data
-
 certmgr-begins-label =
     .label = Hasiera-data
-
-certmgr-expires-on = Iraungitze-data
 
 certmgr-expires-label =
     .label = Iraungitze-data
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Inportatu…
     .accesskey = n
-
-certmgr-details =
-    .value = Ziurtagiri-eremuak
-    .accesskey = m
-
-certmgr-fields =
-    .value = Eremuaren balioa
-    .accesskey = i
-
-certmgr-hierarchy =
-    .value = Ziurtagiri-hierarkia
-    .accesskey = h
 
 certmgr-add-exception =
     .label = Gehitu salbuespena…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Ziur zaude ziurtagiri hauek ezabatu nahi dituzula?
 delete-user-cert-impact = Zure ziurtagirietako bat ezabatzen baduzu, ezin izango duzu gero zeure burua identifikatzeko erabili.
 
 
-delete-ssl-cert-title =
-    .title = Ezabatu zerbitzari ziurtagiri salbuespenak
-delete-ssl-cert-confirm = Ziur zaude zerbitzari salbuespen hauek ezabatu nahi dituzula?
-delete-ssl-cert-impact = Zerbitzari salbuespena ezabatzen baduzu, gune honentza segurtasun egiaztapen arrunak berregingo dira eta baliozko ziurtagiri bat erabiltzea behar da.
-
-
 delete-ssl-override-title =
     .title = Ezabatu zerbitzariko ziurtagiri-salbuespena
 delete-ssl-override-confirm = Ziur zaude zerbitzariko salbuespen hau ezabatu nahi duzula?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Serie-zenbakidun ziurtagiria: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Ziurtagirien ikustailea: "{ $certName }"
-
-not-present =
-    .value = <Ez da ziurtagiriaren zatia>
-
-# Cert verification
-cert-verified = Ziurtagiri hau ondorengo erabileretarako egiaztatu da:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL bezeroaren ziurtagiria
-
-verify-ssl-server =
-    .value = SSL zerbitzariaren ziurtagiria
-
-verify-ssl-ca =
-    .value = SSL ziurtagiri-autoritatea
-
-verify-email-signer =
-    .value = Posta elektroniko sinatzailearen ziurtagiria
-
-verify-email-recip =
-    .value = Posta elektroniko hartzailearen ziurtagiria
-
-# Cert verification
-cert-not-verified-cert-revoked = Ezin izan da ziurtagiri hau egiaztatu, errebokatua izan delako.
-cert-not-verified-cert-expired = Ezin izan da ziurtagiri hau egiaztatu, iraungi egin delako.
-cert-not-verified-cert-not-trusted = Ezin izan da ziurtagiri hau egiaztatu, ez duelako fidagarritasunik.
-cert-not-verified-issuer-not-trusted = Ezin izan da ziurtagiri hau egiaztatu, jaulkitzaileak ez duelako fidagarritasunik.
-cert-not-verified-issuer-unknown = Ezin izan da ziurtagiri hau egiaztatu, jaulkitzailea ezezaguna delako.
-cert-not-verified-ca-invalid = Ezin izan da ziurtagiri hau egiaztatu, AZ ziurtagiria baliozkoa ez delako.
-cert-not-verified_algorithm-disabled = Ezin izan da ziurtagiri hau egiaztatu segurua ez izateagatik desgaituta dagoen algoritmo batekin sinatuta dagoelako.
-cert-not-verified-unknown = Ezin izan da ziurtagiri hau egiaztatu, ezagutzen ez diren arrazoiengatik.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Ez bidali bezero-ziurtagiririk

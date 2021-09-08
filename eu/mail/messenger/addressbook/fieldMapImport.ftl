@@ -4,8 +4,10 @@
 
 import-ab-csv-window =
     .title = Inportatu helbide-liburua testu fitxategitik
+
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = { $recordNumber } erregistroaren datu inportazioaren aurrebista.
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Inportatu
     .buttonaccesskeyaccept = I

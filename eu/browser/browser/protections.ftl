@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Nola dabilen
 
-turn-on-sync = Aktibatu { -sync-brand-short-name }…
-    .title = Joan sinkronizatzeko hobespenetara
-
 monitor-title = Erne ibili datuen inguruko urratzeekin
 monitor-link = Nola dabilen
 monitor-header-content-no-account = Egiaztatu { -monitor-brand-name } ezaguna den datu-urratze batekin zerikusirik izan duzun ikusteko eta urratze berriei buruzko abisuak jasotzeko.

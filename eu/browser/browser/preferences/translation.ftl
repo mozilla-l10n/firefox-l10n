@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Kendu gune guztiak
     .accesskey = g
 
-translation-button-close =
-    .label = Itxi
-    .accesskey = I
-
 translation-dialog =
     .buttonlabelaccept = Itxi
     .buttonaccesskeyaccept = I

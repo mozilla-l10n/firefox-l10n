@@ -63,8 +63,6 @@ policy-DisableForgetButton = Eragotzi 'Ahaztu' botoirako sarbidea.
 
 policy-DisableFormHistory = Ez gogoratu bilaketa- eta inprimaki-historia.
 
-policy-DisableMasterPasswordCreation = Ezarrita badago, ezingo da pasahitz nagusia sortu.
-
 policy-DisablePrimaryPasswordCreation = Ezarrita badago, ezingo da pasahitz nagusia sortu.
 
 policy-DisablePasswordReveal = Ez baimendu gordetako saio-hasieretan pasahitzak agerraraztea.
@@ -138,8 +136,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Leheneratu SameSite po
 policy-LocalFileLinks = Baimendu gune zehatzei fitxategi lokalen loturak egitea.
 
 policy-ManagedBookmarks = Administratzaileak kudeatutako eta erabiltzaileak aldatu ezin duen laster-marken zerrenda konfiguratzen du.
-
-policy-MasterPassword = Behartu edo eragotzi pasahitz nagusia erabiltzea.
 
 policy-ManualAppUpdateOnly = Baimendu eskuzko eguneraketak soilik eta ez jakinarazi erabiltzailea eguneratzeei buruz.
 

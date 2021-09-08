@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Itxi
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Aukerak
-           *[other] Hobespenak
-        }
-
 preferences-doc-title = Hobespenak
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Baztertu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jarraitu
 
-addons-button = Hedapenak eta Gaiak
-
 account-button = Kontu-ezarpenak
 open-addons-sidebar-button = Gehigarriak eta itxurak
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Pasahitz nagusi bat sortzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = sortu pasahitz nagusia
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Pasahitz nagusi bat sortzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Pertsonalizatu…
     .accesskey = P
-
-tray-icon-label =
-    .label = Erakutsi erretiluko ikonoa
-    .accesskey = r
 
 biff-use-system-alert =
     .label = Erabili sistema jakinarazpenak
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Kolorea:
     .accesskey = o
-
-search-input =
-    .placeholder = Bilatu
 
 search-handler-table =
     .placeholder = Iragazi eduki mota eta ekintzak
@@ -723,16 +698,6 @@ passwords-button =
     .label = Gordetako pasahitzak…
     .accesskey = G
 
-master-password-description = Pasahitz nagusiak zure pasahitz guztiak babesten ditu, baina saio bakoitzeko behin sartu behar duzu.
-
-master-password-label =
-    .label = Erabili pasahitz nagusia
-    .accesskey = n
-
-master-password-button =
-    .label = Aldatu pasahitz nagusia…
-    .accesskey = A
-
 
 primary-password-description = Pasahitz nagusiak zure pasahitz guztiak babesten ditu, baina saio bakoitzeko behin sartu behar duzu.
 
@@ -913,26 +878,6 @@ no-preview-description = Gai hau ez da baliokoa edo une honetan ez dago erabilga
 chat-variant-label =
     .value = Aldaerak:
     .accesskey = A
-
-chat-header-label =
-    .label = Erakutsi goiburua
-    .accesskey = g
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Bilatu aukeretan
-           *[other] Bilatu hobespenetan
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

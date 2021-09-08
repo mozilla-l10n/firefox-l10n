@@ -2,16 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-httpsonly-insecure-title = Konexio segurua ez dago erabilgarri
-
-# Variables:
-#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-insecure-explanation-unavailable = HTTPS-Only moduan ari zara nabigatzen eta ez dago erabilgarri <em>{ $websiteUrl }</em> webgunearen HTTPS bertsio segururik.
-about-httpsonly-insecure-explanation-reasons = Ziurrenik webguneak ez du HTTPS onartzen baina bestalde baliteke erasotzaile bat HTTPS bertsioa blokeatzen aritzea.
-about-httpsonly-insecure-explanation-exception = Segurtasun-arriskua baxua den arren, webgunearen HTTP bertsioa bisitatzea erabakitzen baduzu, ez zenuke kontuzko informaziorik sartu behar, hala nola pasahitzak, helbide elektronikoak edo kreditu-txartelen xehetasunak.
-
-about-httpsonly-button-make-exception = Onartu arriskua eta jarraitu gunera
-
 about-httpsonly-title-alert = HTTPS-Only moduko abisua
 about-httpsonly-title-connection-not-available = Konexio segurua ez dago erabilgarri
 

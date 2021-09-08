@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Sinatu digitalki mezu hau">
 <!ENTITY menu_securitySign.accesskey "S">
 
-<!ENTITY menu_securityAttachMyKey.label "Erantsi nire giltza publikoa">
-<!ENTITY menu_securityAttachMyKey.accesskey "E">
-
 <!ENTITY menu_securityTech.label "Zifratze teknologia">
 <!ENTITY menu_securityTech.accesskey "t">
 

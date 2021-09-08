@@ -49,9 +49,6 @@ import-label = Inportatu
 
 about-paragraph = Thunderbird da kode irekiko posta eta egutegi bezero plataforma-anitz bakarra, dohakoa negoziorako nahiz erabilera pertsonalerako. Seguru mantendu eta are hobe bilaka dadin nahi dugu. Dohaintzak garatzaileak kontratatzea ahalbidetzen digu, azpiegiturak ordaindu eta hobetzen jarraitu.
 
-about-paragraph-2 = <b>Thunderbird zu bezalako erabiltzaileek babestua dago! Thunderbird gogoko baduzu pentsa ezazu dohaintza bat egitean.</b>Thunderbird eskuragarri mantenduko dela ziurtatzea nahi izanez gero
-about-donation = egin dohaintza
-
 about-paragraph-consider-donation = <b> Thunderbird zu bezalako erabiltzaileek diruz mantendua dago! Thunderbird gogoko baduzu, mesedez izan gogoan ekarpen bat egin dezakezula.</b> Biderik onena Thunderbirden etorkizuna ziurtatzeko <a data-l10n-name="donation-link"> ekarpena</a> egitea da.
 
 explore-link = Eginbideak esploratu

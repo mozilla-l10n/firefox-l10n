@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Pantaila-argazkiaren portaera
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Pantaila-argazkia arbelera
-options-screenshot-clipboard-tooltip =
-    .title = Pantaila-argazkia zuzenean arbelean gordetzen du
-
 options-screenshot-clipboard-tooltip2 =
     .title = Pantaila-argazkia zuzenean arbelean gordetzen du
 

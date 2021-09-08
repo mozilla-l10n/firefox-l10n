@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Legatu-edukiarentzat karaktere-kodeketa
-fonts-languages-fallback-desc = Testu-kodeketa hau kodeketa deklaratzen ez duen legatu-edukiarentzat erabiltzen da.
-
-fonts-languages-fallback-label = Testu-kodeketa lehenetsia
-    .accesskey = T
-
-fonts-languages-fallback-name-auto =
-    .label = Uneko hizkuntzaren lehenetsia
-fonts-languages-fallback-name-arabic =
-    .label = Arabiarra
-fonts-languages-fallback-name-baltic =
-    .label = Baltikokoa
-fonts-languages-fallback-name-ceiso =
-    .label = Europa erdialdekoa, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Europa erdialdekoa, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Txinatar soildua
-fonts-languages-fallback-name-traditional =
-    .label = Txinatar tradizionala
-fonts-languages-fallback-name-cyrillic =
-    .label = Zirilikoa
-fonts-languages-fallback-name-greek =
-    .label = Grekoa
-fonts-languages-fallback-name-hebrew =
-    .label = Hebrearra
-fonts-languages-fallback-name-japanese =
-    .label = Japoniarra
-fonts-languages-fallback-name-korean =
-    .label = Korearra
-fonts-languages-fallback-name-thai =
-    .label = Thailandiarra
-fonts-languages-fallback-name-turkish =
-    .label = Turkiarra
-fonts-languages-fallback-name-vietnamese =
-    .label = Vietnamdarra
-fonts-languages-fallback-name-other =
-    .label = Bestelakoa (Europa mendebaldekoak barne)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

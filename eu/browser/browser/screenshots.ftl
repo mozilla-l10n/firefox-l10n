@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Hartu pantaila-argazkia
-
-screenshots-my-shots-button = Nire argazkiak
-
 screenshot-toolbarbutton =
     .label = Pantaila-argazkia
     .tooltiptext = Hartu pantaila-argazkia
@@ -40,8 +36,6 @@ screenshots-login-error-details = Ezin izan dugu zure argazkia gorde { -screensh
 
 screenshots-unshootable-page-error-title = Ezin dugu orri honen pantaila-argazkia hartu.
 screenshots-unshootable-page-error-details = Hau ez da web orri arrunt bat eta beraz, ezin duzu bere pantaila-argazkirik hartu.
-
-screenshots-self-screenshot-error-title = Ezin duzu { -screenshots-brand-name }-eko orri baten pantaila-argazkirik hartu!
 
 screenshots-empty-selection-error-title = Zure hautapena txikiegia da
 
