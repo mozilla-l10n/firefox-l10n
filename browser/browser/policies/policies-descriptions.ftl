@@ -65,8 +65,6 @@ policy-DisableForgetButton = Zugriff auf "Vergessen"-Schaltfläche verhindern
 
 policy-DisableFormHistory = Formular- und Suchchronik nicht speichern
 
-policy-DisableMasterPasswordCreation = Master-Passwort kann nicht erstellt werden, falls true
-
 policy-DisablePrimaryPasswordCreation = Hauptpasswort kann nicht erstellt werden, falls true
 
 policy-DisablePasswordReveal = Option zur Klartextanzeige von Passwörtern in gespeicherten Zugangsdaten deaktivieren
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Veraltetes Cookie-Verh
 policy-LocalFileLinks = Festgelegten Websites Zugriff auf lokale Dateien erlauben
 
 policy-ManagedBookmarks = Eine Liste von Lesezeichen festlegen, die von einem Administrator verwaltet wird und vom Benutzer nicht geändert werden kann.
-
-policy-MasterPassword = Benutzung eines Master-Passworts erfordern oder verhindern
 
 policy-ManualAppUpdateOnly = Nur manuelle Updates erlauben und den Benutzer nicht über Updates benachrichtigen.
 

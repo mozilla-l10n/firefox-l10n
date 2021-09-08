@@ -9,8 +9,6 @@
 
 process-type-web = Webinhalt
 
-process-type-browser = Haupt
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = about-Seite mit zusätzlichen Rechten

@@ -9,3 +9,4 @@ thunderbird-import-name = Thunderbird
 thunderbird-import-description = Nachrichten aus einem Thunderbird-Profilordner importieren
 
 import-select-profile-zip = Datei mit komprimiertem Profilordner auswählen
+

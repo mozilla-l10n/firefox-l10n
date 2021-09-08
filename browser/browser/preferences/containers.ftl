@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Neue Umgebung hinzufügen
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Einstellungen für Umgebung "{ $name }"
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Symbol:
 containers-color-label = Farbe:
     .accesskey = F
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Fertig
-    .accesskey = e
 
 containers-dialog =
     .buttonlabelaccept = Fertig

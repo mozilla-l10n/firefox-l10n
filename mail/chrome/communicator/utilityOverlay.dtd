@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey					"W">
 <!ENTITY deleteCmd.label					"Löschen">
 <!ENTITY deleteCmd.accesskey				"L">
-<!ENTITY preferencesCmd2.label "Einstellungen">
-<!ENTITY preferencesCmd2.accesskey "E">
-<!ENTITY preferencesCmdUnix.label       "Einstellungen">
-<!ENTITY preferencesCmdUnix.accesskey     "E">
 
 <!ENTITY customizeCmd.label "Anpassen">
 <!ENTITY customizeCmd.accesskey "A">

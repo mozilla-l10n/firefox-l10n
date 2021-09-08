@@ -2,12 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label     "Pop-up-Fenster von dieser Website ablehnen">
-<!ENTITY popupWindowRejectCmd.accesskey "P">
-<!ENTITY popupWindowAllowCmd.label      "Pop-up-Fenster von dieser Website erlauben">
-<!ENTITY popupWindowAllowCmd.accesskey  "P">
-
 <!ENTITY openLinkCmdInTab.label       "Link in neuem Tab öffnen">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Link in neuem Fenster öffnen">

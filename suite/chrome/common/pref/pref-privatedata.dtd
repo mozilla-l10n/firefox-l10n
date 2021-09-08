@@ -14,7 +14,6 @@
 <!ENTITY alwaysClear.accesskey            "D">
 
 <!ENTITY askBeforeClear.label             "Vor dem Löschen von privaten Daten nachfragen">
-<!ENTITY askBeforeClear.accesskey         "V">
 
 <!ENTITY clearDataSettings.label          "Wenn SeaMonkey angewiesen wird, private Daten zu löschen, folgende Daten entfernen:">
 

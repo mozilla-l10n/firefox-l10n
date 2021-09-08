@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Add-ons-Verwaltung
-
 addons-page-title = Add-ons-Verwaltung
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Hilfe für Add-ons
 sidebar-help-button-title =
     .title = Hilfe für Add-ons
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } - Einstellungen
-       *[other] { -brand-short-name } - Einstellungen
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } - Einstellungen
-           *[other] { -brand-short-name } - Einstellungen
-        }
-
 addons-settings-button = { -brand-short-name } - Einstellungen
 sidebar-settings-button-title =
     .title = { -brand-short-name } - Einstellungen
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Alle Erweiterungen anzeigen
-
-cmd-show-details =
-    .label = Weitere Informationen anzeigen
-    .accesskey = W
-
-cmd-find-updates =
-    .label = Updates suchen
-    .accesskey = U
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Einstellungen
-           *[other] Einstellungen
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] E
-           *[other] E
-        }
-
-cmd-enable-theme =
-    .label = Theme anlegen
-    .accesskey = T
-
-cmd-disable-theme =
-    .label = Theme ablegen
-    .accesskey = T
-
-cmd-install-addon =
-    .label = Installieren
-    .accesskey = I
-
-cmd-contribute =
-    .label = Beitragen
-    .accesskey = a
-    .tooltiptext = Zur Entwicklung dieses Add-ons beitragen
 
 detail-version =
     .label = Version
@@ -401,8 +349,6 @@ dictionary-disabled-heading = Deaktiviert
 
 locale-enabled-heading = Aktiviert
 locale-disabled-heading = Deaktiviert
-
-ask-to-activate-button = Nachfragen, ob aktiviert werden soll
 
 always-activate-button = Immer aktivieren
 never-activate-button = Nie aktivieren

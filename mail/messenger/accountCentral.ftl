@@ -52,9 +52,6 @@ import-label = Importieren
 
 about-paragraph = Thunderbird ist die führende quelloffene, plattformübergreifende Anwendung für E-Mail und Kalender und sowohl für private als auch für geschäftliche Nutzung kostenlos. Wir wollen uns weiterhin um die Sicherheit des Programms kümmern und es auch im Allgemeinen verbessern. Eine Spende ermöglicht uns die Anstellung von Entwicklern, das Bezahlen von Kosten für Infrastruktur wie z.B. Server und zukünftige Verbesserungen.
 
-about-paragraph-2 = <b>Thunderbird wird durch Benutzer wie Sie finanziert! Falls Thunderbird Ihnen gefällt, dann denken Sie bitte über ein Spende nach.</b> Der beste Weg, um das Fortbestehen von Thunderbird zu unterstützen, ist über
-about-donation = eine Spende
-
 about-paragraph-consider-donation = <b>Thunderbird wird durch Benutzer wie Sie finanziert! Falls Thunderbird Ihnen gefällt, dann denken Sie bitte über ein Spende nach.</b> Der beste Weg, um das Fortbestehen von Thunderbird zu unterstützen, ist über <a data-l10n-name="donation-link">eine Spende</a>.
 
 explore-link = Funktionen kennenlernen

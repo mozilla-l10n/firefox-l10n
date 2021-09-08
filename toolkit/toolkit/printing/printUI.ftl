@@ -58,8 +58,6 @@ printui-options = Einstellungen
 printui-headers-footers-checkbox = Kopf- und Fußzeilen drucken
 printui-backgrounds-checkbox = Hintergrund drucken
 
-printui-selection-checkbox = Nur Auswahl drucken
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
