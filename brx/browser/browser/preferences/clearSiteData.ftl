@@ -27,11 +27,3 @@ clear-site-data-cookies-empty =
     .label = कुकिज आरो साइट दाटा
     .accesskey = S
 
-clear-site-data-cancel =
-    .label = नेवसि
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = खोमोर
-    .accesskey = I
-

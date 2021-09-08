@@ -10,11 +10,6 @@ crashes-id = रिपर्ट ID
 crashes-send-date = गथायबाय
 crashes-all-reports = गासै क्रेस रिपर्ट
 crashes-no-config = क्रेस रिपर्टखौ दिन्थिफुंनो थाखाय बे एप्लिकेसनखौ बाइजोमहर दायाखै।
-extensions-title = बारायनायफोर
-extensions-name = मुं
-extensions-enabled = मावथि खालामबाय
-extensions-version = लिरस्लायनाय
-extensions-id = ID
 support-addons-name = मुं
 support-addons-version = लिरस्लायनाय
 support-addons-id = ID
@@ -175,8 +170,6 @@ launcher-process-status-unknown = मिथिमोनै थाखोमान
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-2 = लोरबां जाबाय
-multi-process-status-unknown = मिथिमोनै थाखोमान
 
 apz-none = मोनसेबो नङा
 

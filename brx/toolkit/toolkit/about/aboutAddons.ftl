@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Add-ons मेनेजार
-
 addons-page-title = Add-ons मेनेजार
 
 search-header =
@@ -28,43 +25,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = add-ons नि सोमोन्दै गोबां सोलों
-
-cmd-show-details =
-    .label = गोबां फोरमायथिहोग्राखौ दिन्थि
-    .accesskey = S
-
-cmd-find-updates =
-    .label = आपडेटफोरखौ नागिरना दिहुन
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] उफ्रा
-           *[other] पसन्द
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = वेयार थिम
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = वेयारिं थिमखौ थाथ' हो
-    .accesskey = W
-
-cmd-install-addon =
-    .label = इनष्टल खालाम
-    .accesskey = I
-
-cmd-contribute =
-    .label = बिहोमा हो
-    .accesskey = C
-    .tooltiptext = बे add-on नि जौगाखांनायाव बिहोमा हो
 
 detail-version =
     .label = लिरस्लायनाय
@@ -257,8 +217,6 @@ dictionary-disabled-heading = लोरबां जाबाय
 
 locale-enabled-heading = मावथि खालामबाय
 locale-disabled-heading = लोरबां जाबाय
-
-ask-to-activate-button = मावथि खालामनो सों
 
 always-activate-button = अरायबो मावथि खालाम
 never-activate-button = माब्लाबाबो मावथि खालामनो नाङा

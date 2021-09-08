@@ -5,31 +5,9 @@
 places-open =
     .label = खेव
     .accesskey = O
-places-open-tab =
-    .label = मोनसे गोदान टेबआव खेव
-    .accesskey = w
 places-open-all-in-tabs =
     .label = गासैखौबो टेबाव खेव
     .accesskey = O
-places-open-window =
-    .label = मोनसे गोदान उइन्ड'आव खेव
-    .accesskey = N
-places-open-private-window =
-    .label = मोनसे गोदान प्राइभेट उइन्ड'खौ खेव
-    .accesskey = P
-
-places-new-bookmark =
-    .label = गोदान बुकमार्क...
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = गोदान फल्डार...
-    .accesskey = F
-places-new-folder =
-    .label = गोदान फल्डार...
-    .accesskey = o
-places-new-separator =
-    .label = गोदान बोखावग्रा
-    .accesskey = S
 
 places-view =
     .label = नुथाय
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = मुं मथे थख' साजाय
     .accesskey = r
-places-properties =
-    .label = आखुथायफोर
-    .accesskey = i
 

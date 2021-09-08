@@ -106,9 +106,6 @@ menu-file-go-offline =
 menu-edit =
     .label = सुजुनाय
     .accesskey = E
-menu-edit-find-on =
-    .label = बे बिलाइआव नागिरना दिहुन...
-    .accesskey = F
 menu-edit-find-again =
     .label = फिन नायगिरना दिहुन
     .accesskey = g
@@ -124,9 +121,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = टुलबारफोर
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = गावनि गोसोबादि माव...
-    .accesskey = C
 menu-view-sidebar =
     .label = साइडबार
     .accesskey = e
@@ -157,9 +151,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = गुदि बिलाइनि आदब
     .accesskey = B
-menu-view-charset =
-    .label = फराय बिजाब एनक'डिं
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -208,10 +199,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = बुकमार्क
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = गासै बुकमार्कखौ दिन्थि
-menu-bookmark-this-page =
-    .label = बे बिलाइखौ बुकमार्क हो...
 menu-bookmark-edit =
     .label = बे बुकमार्कखौ सुजु
 menu-bookmarks-all-tabs =
@@ -231,38 +218,15 @@ menu-tools =
 menu-tools-downloads =
     .label = डाउनल'डफोर
     .accesskey = D
-menu-tools-addons =
-    .label = Add-ons
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = { -brand-product-name } आव साइन-इन खालाम...
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } जागाय...
-    .accesskey = n
 menu-tools-sync-now =
     .label = दानो सिनक खालाम
     .accesskey = S
-menu-tools-web-developer =
-    .label = वेब जौगाखांहोग्रा
-    .accesskey = W
 menu-tools-page-source =
     .label = बिलाइ फुंखा
     .accesskey = o
 menu-tools-page-info =
     .label = बिलाइनि मोनथिहोनाय
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] उफ्रा
-           *[other] पसन्दफोर
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = लेआउट डेबागार
     .accesskey = L
@@ -297,27 +261,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = मदद
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } मदद नांगौ
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } दावबायनाय
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = गाहाय सोदोब शर्टकाट
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = जेंना बोस्रांनाय फोरमायथिहोग्रा
-    .accesskey = T
 menu-help-feedback-page =
     .label = फिनथाइखौ गथाय...
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = लोरबां खालामनाय Add-ons जों जागाय
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = मावथि खालामनाय Add-ons जों जागाय
-    .accesskey = R
 menu-help-not-deceptive =
     .label = बे जायगाया गाजि् जानाय नंआ
     .accesskey = ज

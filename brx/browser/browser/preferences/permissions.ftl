@@ -34,14 +34,6 @@ permissions-remove-all =
     .label = गासैबो वेबसाइत खौ बोखार
     .accesskey = e
 
-permissions-button-cancel =
-    .label = नेवसि
-    .accesskey = C
-
-permissions-button-ok =
-    .label = सोलायनायफोर थिना दोन
-    .accesskey = S
-
 permissions-searchbox =
     .placeholder = वेबसाइट नागिर
 

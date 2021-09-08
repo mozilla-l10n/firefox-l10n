@@ -31,4 +31,3 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = दानो सिनक खालाम
     .accesskey = S
-fxa-sign-in = { -sync-brand-short-name } आव साइन-इन खालाम

@@ -23,11 +23,6 @@ connection-proxy-http-port = पर्ट
 connection-proxy-ssl-port = पर्ट
     .accesskey = o
 
-connection-proxy-ftp = FTP प्रक्सि
-    .accesskey = F
-connection-proxy-ftp-port = पर्ट
-    .accesskey = r
-
 connection-proxy-socks = SOCKS हस्ट
     .accesskey = C
 connection-proxy-socks-port = पर्ट

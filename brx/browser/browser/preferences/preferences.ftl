@@ -6,12 +6,6 @@ do-not-track-learn-more = गोबां सोलों
 do-not-track-option-always =
     .label = जेब्लायबो
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] उफ्राफोर
-       *[other] पसन्दफोर
-    }
-
 pane-general-title = सरासनस्रा
 category-general =
     .tooltiptext = { pane-general-title }
@@ -27,10 +21,6 @@ category-search =
 pane-privacy-title = गुमुरथि आरो रैखाथि
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = { -brand-short-name } सापोर्ट
 
@@ -69,14 +59,6 @@ search-results-help-link = हेफाजाब नांगौ ? <a data-l10n-
 ## General Section
 
 startup-header = जागायजेन्नाइ
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = एखे समावनो सालायनो { -brand-short-name } आरो फायारफक्सखौ गनायथि हो
-use-firefox-sync = इंगित: बेयो आलादा प्रफाइलखौ बाहायो। बेफोरनि गेजेराव डाटाखौ शेयार खालामनो { -sync-brand-short-name } बाहाय।
-get-started-not-logged-in = { -sync-brand-short-name } आव साइन-इन खालाम...
-get-started-configured = पसन्दफोर { -sync-brand-short-name } खेव
 
 is-default = { -brand-short-name } आ दासान्दि नोंथांनि डिफल्ट ब्राउजार
 is-not-default = { -brand-short-name } आ नोंथांनि डिफल्ट ब्राउजार नङा
@@ -205,11 +187,6 @@ applications-manage-app =
     .label = एप्लिकेसननि गुवारै...
 applications-always-ask =
     .label = अरायबो सों
-applications-type-pdf = पर्टेबल् डकुमेन्ट फरमेट (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -426,9 +403,6 @@ containers-add-button =
     .label = गोदान खनथेनार दाजाबदेर
     .accesskey = A
 
-containers-preferences-button =
-    .label = पसन्दफोर
-
 containers-remove-button =
     .label = बोखार
 
@@ -503,14 +477,9 @@ forms-breach-alerts-learn-more-link = गोबां सोलों
 forms-saved-logins =
     .label = थिना दोनखानाय लगिनफोर...
     .accesskey = L
-forms-master-pw-use =
-    .label = मोनसे मास्थार बारग'सोदोब बाहाय
-    .accesskey = ब
 forms-master-pw-change =
     .label = मा्स्थार बारग'सोदोबखौ सोलाय...
     .accesskey = म
-
-forms-master-pw-fips-title = नोंथाङा दासान्दि FIPS म'डआव दं। FIPS नो मोनसे लांदां-नङै मास्टार पासवार्ड नांगौ।
 
 forms-master-pw-fips-desc = पासवर्ड सोलायनाया फेलें जाबाय
 
@@ -660,8 +629,6 @@ permissions-addon-exceptions =
     .label = Exceptions…
     .accesskey = E
 
-permissions-a11y-privacy-link = गोबां सोलों
-
 ## Privacy Section - Data Collection
 
 collection-privacy-notice = गुमुरथि मिथिसारहोनाय
@@ -669,8 +636,6 @@ collection-privacy-notice = गुमुरथि मिथिसारहोन
 collection-health-report-link = गोबां सोलों
 
 addon-recommendations-link = गोबां सोलों
-
-collection-backlogged-crash-reports-link = गोबां सोलों
 
 ## Privacy Section - Security
 ##
@@ -692,26 +657,6 @@ certs-enable-ocsp =
 certs-view =
     .label = चार्टिफिकेटखौ नाय...
     .accesskey = C
-
-space-alert-learn-more-button =
-    .label = गोबां सोलों
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] उफ्राफोर खेव
-           *[other] पसन्दफोर खेव
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-under-5gb-ok-button =
-    .label = OK, मिथिबाइ
-    .accesskey = K
 
 ## Privacy Section - HTTPS-Only
 

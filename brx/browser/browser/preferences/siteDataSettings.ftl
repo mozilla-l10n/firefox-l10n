@@ -28,14 +28,6 @@ site-data-remove-selected =
     .label = सायखोनायखौ बोखार
     .accesskey = R
 
-site-data-button-cancel =
-    .label = नेवसि
-    .accesskey = C
-
-site-data-button-save =
-    .label = सोलायनायफोर थिना दोन
-    .accesskey = a
-
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

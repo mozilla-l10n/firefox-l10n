@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "मेनु खेव">
-
 <!ENTITY navbarOverflow.label                "गोबां टुल...">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "पिन टेब">
-<!ENTITY  unpinTab.label                     "टेबखौ आनपिन खालाम">
 
 <!ENTITY  listAllTabs.label      "गासै टेबखौ लिस्ट खालाम">
 
@@ -25,21 +15,12 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "फाइलखौ खेव...">
 <!ENTITY printCmd.label "साफाय...( P)">
 
-<!ENTITY taskManagerCmd.label "टास्क मेनेजार">
-
 <!ENTITY menubarCmd.label "मेनु बार">
 <!ENTITY menubarCmd.accesskey "M">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "नेभिगेसन">
-<!ENTITY personalbarCmd.label "बुकमार्क टुलबार">
-<!ENTITY personalbarCmd.accesskey "B">
-<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
-include the word "toolbar" or such, because screen readers already know that
-this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbar.accessibleLabel "बुकमार्क">
-<!ENTITY bookmarksToolbarItem.label "बुकमार्क टुलबार आइटेमफोर">
 
 <!ENTITY fullScreenCmd.label "आबुं स्क्रिन">
 
@@ -52,39 +33,10 @@ this container is a toolbar. This avoids double-speaking. -->
 
  <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
-
-<!ENTITY fxa.menu.account.label "एकाउन्ट">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "आबुं स्क्रिन निफ्राय ओंखार लां (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "आबुं स्क्रिन निफ्राय ओंखार लां (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-<!ENTITY showAllBookmarks2.label "गासै बुकमार्कखौ दिन्थि">
-<!ENTITY bookmarksToolbarChevron.tooltip "गोबां बुकमार्कखौ दिन्थि">
 
 <!ENTITY printButton.label            "साफाय">
 <!ENTITY printButton.tooltip          "बे बिलाइखौ साफाय">
@@ -98,23 +50,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "ह'म">
 
-<!ENTITY bookmarksButton.label          "बुकमार्क">
-
-<!ENTITY bookmarksSubview.label             "बुकमाकॅफोर">
-<!ENTITY bookmarksMenuButton2.label         "बुकमार्कफोरनि मेनु">
-<!ENTITY bookmarksMenuButton.other.label    "गुबुन बुकमाकॅफोर">
-<!ENTITY bookmarksMenuButton.mobile.label   "मबाइल बुकमार्कफोर">
-<!ENTITY viewBookmarksSidebar2.label        "बुकमार्क साइडबारखौ नाय">
-<!ENTITY viewBookmarksToolbar.label         "बुकमार्क टुलबारखौ नाइ">
-<!ENTITY searchBookmarks.label              "बुकमार्कफोरखौ नागिर">
-
 <!ENTITY historyButton.label            "जारिमिन">
 
 <!ENTITY downloads.label              "डाउनल'डफोर">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "दावनल'दफोर">
-<!ENTITY addons.label                 "Add-ons">
 
 <!ENTITY webDeveloperMenu.label       "वेब जौगाखांहोग्रा">
 
@@ -131,25 +72,11 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY historyMenu.label "जारिमिन">
 
-<!ENTITY historyUndoMenu.label "बावैसो बन्द खालामनाय टेबफोर">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "दाबावैसो बन्द खालामनाय उइन्ड'स">
-
-<!ENTITY appMenuHistory.showAll.label "गासै जारिमिनखौ दिनथि">
-
-<!ENTITY appMenuHistory.clearRecent.label "दानि जारिमिनखौ खोमोर...">
-<!ENTITY appMenuHistory.restoreSession.label "आवगयनि जथुम्माखौ लाबोफिन">
-<!ENTITY appMenuHistory.viewSidebar.label "जारिमिन साइडबारखौ नाय">
-<!ENTITY appMenuHistory.recentHistory.label "दानि जारिमिन">
-
 <!ENTITY appMenuHelp.label "मदद">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "गोबां दिन्थि">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "गासैबो दिन्थि">
@@ -159,8 +86,6 @@ this container is a toolbar. This avoids double-speaking. -->
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 
-<!ENTITY appMenuRecentHighlights.label "दानि हाइलाइटफोर">
-
 <!ENTITY customizeMenu.addToToolbar.label "टुलबारजों दाजाबदेर">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
@@ -169,8 +94,6 @@ this container is a toolbar. This avoids double-speaking. -->
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "टुलबार निफ्राय बोखार">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "गोबां आइटेम दाजाबदेर...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
@@ -193,10 +116,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
-<!ENTITY pageAction.copyLink.label    "लिंक कपि खालाम">
-
-<!ENTITY emailPageCmd.label           "इ-मेइल लिंक...">
-
 <!-- Media (video/audio) controls -->
 
 <!-- LOCALIZATION NOTE :
@@ -208,12 +127,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "जुम खालाम">
 
 <!ENTITY sidebarCloseButton.tooltip     "साइड बारखौ बन्द खालाम">
-
-<!ENTITY quitApplicationCmdWin2.label       "ओंखार लां">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; ओंखार लां">
-<!ENTITY quitApplicationCmd.label       "नागार">
-<!ENTITY quitApplicationCmd.accesskey   "Q">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -253,9 +166,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
 
-<!ENTITY syncBrand.shortName.label    "सिनक">
-
-
 
 
 
@@ -265,9 +175,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "रैखाथि ब्राउजिं!">
 <!ENTITY panicButton.thankyou.buttonlabel         "साबायखर!">
 
-
-
-<!ENTITY pageAction.shareMore.label "गोबां…">
 
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to

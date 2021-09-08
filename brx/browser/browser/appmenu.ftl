@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = गावनि गोसोबादि माव...
-
 ## Zoom Controls
 
 appmenuitem-new-tab =
@@ -30,8 +27,6 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = दानो सिनक खालाम
 appmenuitem-save-page =
     .label = ..बादि बिलाइखौ थिना दोन...
 
@@ -80,3 +75,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = टास्क मेनेजार
+

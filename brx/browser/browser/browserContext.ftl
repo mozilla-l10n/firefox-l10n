@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = मोनसे पेस उनफिन
-    .aria-label = उनथिं
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = मोनसे पेज बारहो
-    .aria-label = दावगा हो
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = ..बादि बिलाइखौ थिना दोन...
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = लिंकखौ गोदान प्राइभेट उइन्ड'आव खेव
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = बे लिंकखौ बुकमार्क हो
-    .accesskey = L
-
 main-context-menu-save-link =
     .label = बादि लिंकखौ थिना दोन...
     .accesskey = k
@@ -181,10 +152,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = इ-मेइल थंखौ कपि खालाम
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = लिंक जायगाखौ कपि खालाम
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -209,10 +176,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = सोदोबगोनां खालाम
     .accesskey = m
-
-main-context-menu-media-play-speed-slow =
-    .label = लासै (0.5x)
-    .accesskey = S
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -239,29 +202,9 @@ main-context-menu-image-reload =
     .label = मुसुखाखौ फिन ल'ड खालाम
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = मुसुखाखौ नाय
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = भिडिअखौ नाइ
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = मुसुखाखौ कपि खालाम
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = मुसुखा जायगाखौ कपि खालाम
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = भिडिअनि जायगाखौ कपि खालाम
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = अडिअनि जायगाखौ कपि खालाम
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = बादि मुसुखाखौ थिना दोन...
@@ -270,10 +213,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = इ-मेइल मुसुखा...
     .accesskey = g
-
-main-context-menu-image-set-as-background =
-    .label = डेस्कटप सावगारिनि उनथिं थानाय बादि फज...
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = मुसुखा फोरमायथिहोग्राखौ नाइ
@@ -291,10 +230,6 @@ main-context-menu-audio-save-as =
     .label = बादि अडिअखौ थिना दोन...
     .accesskey = v
 
-main-context-menu-video-image-save-as =
-    .label = बादि स्नेपसटखौ थिना दोन...
-    .accesskey = S
-
 main-context-menu-video-email =
     .label = इ-मेइल भिडिअ'...
     .accesskey = a
@@ -310,10 +245,6 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = बे प्लागिनखौ दोनखोमा
     .accesskey = H
-
-main-context-menu-view-background-image =
-    .label = सावगारिनि उनथिं थानाय मुसुखाखौ नाय
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -374,10 +305,6 @@ main-context-menu-view-page-source =
     .label = बिलाइ फुंखाखौ नाय
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = बिलाइनि मोनथिहोनायखौ नाय
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = फराय बिजाब बिथिंखौ चुइछ खालाम
     .accesskey = w
@@ -385,8 +312,4 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = बिलाइनि दिकाव थां
     .accesskey = D
-
-main-context-menu-inspect-element =
-    .label = गुदिमुवाखौ नायदिं
-    .accesskey = Q
 

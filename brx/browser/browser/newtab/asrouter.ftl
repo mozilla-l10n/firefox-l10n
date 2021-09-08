@@ -15,8 +15,6 @@ cfr-doorhanger-extension-cancel-button = दानो नङा
 
 cfr-doorhanger-extension-ok-button = दानो दाजाबदेर
     .accesskey = A
-cfr-doorhanger-pintab-ok-button = बे टेबखौ पिन खालाम
-    .accesskey = P
 
 cfr-doorhanger-extension-learn-more-link = गोबां सोलों
 
@@ -47,12 +45,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = पिन खालामनो थाखाय टेब आव<b>आगदा क्लिक</b> खालाम।
-cfr-doorhanger-pintab-step2 = <b>पिन टेब</b> खौ मेनु निफ्राय सायख।
-
-cfr-doorhanger-pintab-animation-pause = थाद' हो
-cfr-doorhanger-pintab-animation-resume = फिन जागाय
-
 
 ## Firefox Accounts Message
 
@@ -71,26 +63,6 @@ cfr-whatsnew-button =
     .label = मा गोदान
     .tooltiptext = मा गोदान
 
-cfr-whatsnew-panel-header = मा गोदान
-
-cfr-whatsnew-tracking-protect-link-text = नोंथांनि रिपर्ट खौ नाय
-
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $blockedCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-tracking-blocked-title =
-    { $blockedCount ->
-        [one] ट्रेकार खौ ब्लोक खालामबाय
-       *[other] ट्रेकार फोरखौ ब्लोक खालामबाय
-    }
-cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } निफ्रायनो
-cfr-whatsnew-tracking-blocked-link-text = रिपर्ट खौ नाय
-
-cfr-whatsnew-lockwise-backup-link-text = बेकआपफोरखौ अन खालाम
-
-cfr-whatsnew-lockwise-take-title = नोंथांनि पासवोर्दखौ निजिजौं लां
-cfr-whatsnew-lockwise-take-link-text = आपखौ ला
-
 ## Search Bar
 
 ## Picture-in-Picture
@@ -104,29 +76,13 @@ cfr-whatsnew-lockwise-take-link-text = आपखौ ला
 
 ## Bookmark Sync
 
-cfr-doorhanger-sync-bookmarks-header = बे बुकमार्क खौ फन आव ला
-cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } अन खालाम
-    .accesskey = T
-
 ## Login Sync
-
-cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } अन खालाम
-    .accesskey = T
 
 ## Send Tab
 
-cfr-doorhanger-send-tab-ok-button = दैथायहोग्रा टेबखौ नाजा
-    .accesskey = T
-
 ## Firefox Send
 
-cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } नाजा
-    .accesskey = T
-
 ## Social Tracking Protection
-
-cfr-doorhanger-socialtracking-close-button = बन्द खालाम
-    .accesskey = C
 
 ## Enhanced Tracking Protection Milestones
 
@@ -149,4 +105,10 @@ cfr-doorhanger-socialtracking-close-button = बन्द खालाम
 ## Fission Experiment Message
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

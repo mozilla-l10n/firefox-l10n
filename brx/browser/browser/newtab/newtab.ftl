@@ -14,8 +14,6 @@ newtab-search-box-search-button =
     .title = नागिर
     .aria-label = नागिर
 
-newtab-search-box-search-the-web-text = वेबौ नागिर
-
 newtab-search-box-search-the-web-input =
     .placeholder = वेबौ नागिर
     .title = वेबौ नागिर

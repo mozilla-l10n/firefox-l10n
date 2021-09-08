@@ -41,25 +41,9 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = टेबखौ बुकमार्क हो
     .accesskey = B
-reopen-in-container =
-    .label = खनथेनार आव फिन खेव
-    .accesskey = e
 move-to-new-window =
     .label = गोदान उइन्ड'याव थां
     .accesskey = W
-
-close-tab =
-    .label = टेबखौ बन्द खालाम
-    .accesskey = C
-close-tabs =
-    .label = टेबफोरखौ बन्द खालाम
-    .accesskey = S
-move-tabs =
-    .label = टेबफोरखौ लां
-    .accesskey = v
-move-tab =
-    .label = टेबखौ लां
-    .accesskey = v
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
