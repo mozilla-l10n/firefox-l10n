@@ -28,7 +28,3 @@ translation-sites-button-remove-all =
     .label = Shenxisa zonke iisayithi
     .accesskey = i
 
-translation-button-close =
-    .label = Vala
-    .accesskey = V
-

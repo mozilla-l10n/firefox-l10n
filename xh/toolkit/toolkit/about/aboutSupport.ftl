@@ -10,11 +10,6 @@ crashes-id = Isazisi sengxelo
 crashes-send-date = Ithunyelwe
 crashes-all-reports = Zonke iingxelo zokonakala
 crashes-no-config = Le aplikeyishini ayilungiselelwanga ukubonisa iingxelo zokonakala.
-extensions-title = Izandiso
-extensions-name = Igama
-extensions-enabled = Ezivunyelweyo
-extensions-version = Uguqulelo
-extensions-id = ID
 support-addons-name = Igama
 support-addons-version = Uguqulelo
 support-addons-id = ID
@@ -73,8 +68,6 @@ library-version-title = Iinguqulelo zelayibhrari
 copy-text-to-clipboard-label = Khuphela umbhalo kwiklipbhodi
 copy-raw-data-to-clipboard-label = Khuphela iingcombolo ezingahlelwanga kwiklipbhodi
 sandbox-title = Ibhokisi yesanti
-safe-mode-title = Zama iMo yokuSebenza eKhuselekileyo
-restart-in-safe-mode-label = Qalisa kwakhona izongezelelo zenziwe azasebenza…
 
 ## Media titles
 
@@ -171,19 +164,12 @@ gpu-ram = i-RAM
 gpu-driver-version = Inguqulelo yedrayiva
 gpu-driver-date = Umhla wedrayiva
 gpu-active = Esebenzayo
-blocklisted-bug = Ibhlokiwe ngenxa yemiba eyaziwayo
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = ibhagi { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Ibhlokiwe, ikhowudi yokusilela { $failureCode }
 
 d3d11layers-crash-guard = D3D11 Umyili
-d3d11video-crash-guard = I-D3D11 Video Decoder
-d3d9video-crash-guard = I-D3D9 Video Decoder
 glcontext-crash-guard = I-OpenGL
 
 reset-on-next-restart = Seta kwakhona Xa Uphinda Uqala
@@ -204,14 +190,6 @@ content-sandbox-level = Umlinganiselo weNkqubo yeSiqulatho yeBhokisi yeSanti
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Ivulwe ngumsebenzisi
-multi-process-status-1 = Ivulwe ngokuzenzekelayo
-multi-process-status-2 = Yenziwe ukuba ingasebenzi
-multi-process-status-4 = Iyekiswe zizixhobo zofikelelo
-multi-process-status-6 = Iyekiswe lufakelo lweteksti engaxhaswayo
-multi-process-status-7 = Iyekiswe zizongezelelo
-multi-process-status-8 = Iyekiswe ngenkani
-multi-process-status-unknown = Imo engaziwayo
 
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = nakanye

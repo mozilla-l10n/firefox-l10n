@@ -24,14 +24,6 @@ permissions-allow =
 permissions-status =
     .label = Isimo
 
-permissions-button-cancel =
-    .label = Rhoxisa
-    .accesskey = R
-
-permissions-button-ok =
-    .label = Gcina Iinguqu
-    .accesskey = G
-
 permissions-capabilities-allow =
     .label = Vumela
 permissions-capabilities-block =

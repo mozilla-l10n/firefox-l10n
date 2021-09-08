@@ -5,7 +5,6 @@
 synced-tabs-sidebar-title = Iithebhu Ezingqamanisiweyo
 synced-tabs-sidebar-noclients-subtitle = Ufuna ukubona iithebhu ezivela kwezinye izixhobo apha?
 synced-tabs-sidebar-notabs = Azikho iithebhu ezivuliweyo
-synced-tabs-sidebar-openprefs = Vula i-{ -sync-brand-short-name } iiPriferensi
 synced-tabs-sidebar-tabsnotsyncing = Layita ungqamaniso lwethebhu ukuze ujonge uludwe lweethebhu kwezinye izixhobo zakho.
 synced-tabs-context-open =
     .label = Vula
@@ -34,4 +33,3 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Ngqamanisa ngoku
     .accesskey = N
-fxa-sign-in = Ngena { -sync-brand-short-name }

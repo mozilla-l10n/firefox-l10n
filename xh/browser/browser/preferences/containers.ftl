@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Yongeza iKhonteyina eNtsha
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Ukhetho lweKhonteyina { $name }
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -24,10 +19,6 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
-containers-button-done =
-    .label = Igqibile
-    .accesskey = I
 
 containers-color-blue =
     .label = eBlue

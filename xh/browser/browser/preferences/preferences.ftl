@@ -7,12 +7,6 @@ do-not-track-learn-more = Funda ngakumbi
 do-not-track-option-always =
     .label = Qho
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Ekunokukhethwa kuko
-       *[other] Izikhethwa
-    }
-
 pane-general-title = Jikelele
 category-general =
     .tooltiptext = { pane-general-title }
@@ -56,24 +50,9 @@ restart-later = Qalisa ngokutsha Kamva
 
 search-results-header = IZiphumo zoKhangelo
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Uxolo! Azikho iziphumo kuKhetho lwe- “<span data-l10n-name="query"></span>”.
-       *[other] Uxolo! Azikho iziphumo kwiiPrifrensi ze-“<span data-l10n-name="query"></span>”.
-    }
-
 ## General Section
 
 startup-header = Qalisa
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Vumela i-{ -brand-short-name } kunye ne-Firefox ukuba zisebenze ngaxeshanye
-use-firefox-sync = Ingcebiso: Le isebenzisa iiprofayile eyahlukeneyo. Sebenzisa ungqamaniso ukwabelana ngenkcukacha phakathi kwazo.
-get-started-not-logged-in = Sayina ungene kwi-{ -sync-brand-short-name }…
-get-started-configured = Vula iipriferensi ze-{ -sync-brand-short-name }
 
 always-check-default =
     .label = Khangela qho ukuba i-{ -brand-short-name } iyibhrawuza yakho esisiseko
@@ -95,10 +74,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Ndikulumkise xa uvula iithebhu ezininzi ezingacothisa i-{ -brand-short-name }
     .accesskey = c
-
-switch-links-to-new-tabs =
-    .label = Xa uvula ikhonkco kwilinki entsha, tshintshela kuyo ngokukhawuleza
-    .accesskey = a
 
 show-tabs-in-taskbar =
     .label = Bonisa umbono wangaphambili wethebhu kwithaskhbha ye-Windows
@@ -242,11 +217,6 @@ applications-manage-app =
     .label = IiNkcukacha zeAplikheshini…
 applications-always-ask =
     .label = Soloko ucela
-applications-type-pdf = Ifomathi yoxwebhu oluphathekayo (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -403,8 +373,6 @@ search-suggestions-option =
 
 search-suggestions-cant-show = Amacebiso okukhangela akayi kuboniswa kwiziphumo zebha yendawo ngenxa yokuba uyile i-{ -brand-short-name } ukuba ingaze iyikhumbule imbali.
 
-search-one-click-header = IiNjini zokuKhangela Ezicofwa Kanye
-
 search-choose-engine-column =
     .label = Iinjini zokukhangela
 search-choose-keyword-column =
@@ -440,7 +408,6 @@ containers-add-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Phatha iWebhu Yakho Apho Ukhoyo
-sync-signedout-description = Ngqamanisa iibhukmakhi zakho, iimbali, iithebhu, iiphaswedi, ezongezelelwayo, kunye neepreferensi kuzo zonke izixhobo zakho.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -514,14 +481,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Ezigciniweyo Logini…
     .accesskey = L
-forms-master-pw-use =
-    .label = Sebenzisa iphaswedi eyimasta
-    .accesskey = S
 forms-master-pw-change =
     .label = Guqula iPhaswedi eyiMasta…
     .accesskey = P
-
-forms-master-pw-fips-title = Kungokunje ukwimo ye-FIPS. I-FIPS ifuna iPhaswedi yeMasta engekho ze.
 
 forms-master-pw-fips-desc = Ukuguqulwa Kwegama Lokugqithisa Akuphumelelanga
 
@@ -619,8 +581,6 @@ collection-health-report-link = Funda okungakumbi
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ukuxelwa kwedatha kuyekisiwe ngenxa yolu lwakheko
 
-collection-backlogged-crash-reports-link = Funda okungakumbi
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -644,41 +604,9 @@ security-block-uncommon-software =
 
 certs-header = Izatifikethi
 
-certs-personal-label = Xa iseva icela isatifikethi sakho
-
-certs-select-auto-option =
-    .label = Khetha esinye ngokuzenzekela
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Iyakubuza ngawo onke amaxesha
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = Buza iiseva zomphenduli ze-OCSP ukuqinisekisa ukugqibelela kwangoku kwezatifikethi
     .accesskey = B
-
-space-alert-learn-more-button =
-    .label = Funda Okungakumbi
-    .accesskey = F
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Vula Ukhetho
-           *[other] Vula iiPriferensi
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] V
-           *[other] V
-        }
-
-space-alert-under-5gb-ok-button =
-    .label = Kulungile. Ndiyifumene
-    .accesskey = l
-
-space-alert-under-5gb-message = I-{ -brand-short-name } iphelelwa yindawo kwidiski. Iziqulatho zewebhsayithi zinokungabonisi kakuhle. Tyelela ethi “Funda Okungakumbi” ukuze u-optimayize ukusebenzisa kwakho idiski ukuze ubhrawze kakuhle.
 
 ## Privacy Section - HTTPS-Only
 

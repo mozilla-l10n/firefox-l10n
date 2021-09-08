@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Okutsha">
 <!ENTITY newMenu.accesskey "O">
 <!ENTITY newMessage.label "Umyalezo">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "U">
 <!ENTITY newContact.label "Address Book Contact…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Qhoboshela">
 <!ENTITY attachMenu.accesskey "b">
-<!ENTITY attachFileCmd.label "Iifayili...">
-<!ENTITY attachFileCmd.accesskey "I">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Ikhasi Lothungelwano...">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Thumela Emva kwexesha">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "Ukumiselwa Kwekhasi...">
-<!ENTITY printSetupCmd.accesskey "s">
-<!ENTITY printPreviewCmd.label "Print Preview">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Shicilela...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "S">
@@ -177,10 +168,6 @@
 <!ENTITY accountManagerCmd2.label "Account Settings">
 <!ENTITY accountManagerCmd2.accesskey "S">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
-<!ENTITY preferencesCmd2.label "Options">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Izikhethwa">
-<!ENTITY preferencesCmdUnix.accesskey "t">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
@@ -193,7 +180,6 @@
 <!ENTITY sendButton.label "Thumela">
 <!ENTITY quoteButton.label "Caphula">
 <!ENTITY addressButton.label "Ekuqhagamshelwana nabo">
-<!ENTITY attachButton.label "Qhoboshela">
 <!ENTITY spellingButton.label "Upelo">
 <!ENTITY saveButton.label "Gcina">
 <!ENTITY printButton.label "Print">
@@ -263,8 +249,6 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Khetha Konke">
 <!ENTITY selectAll.accesskey "K">
-<!ENTITY attachFile.label "Qhoboshela Iifayili...">
-<!ENTITY attachFile.accesskey "I">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Convert to…">

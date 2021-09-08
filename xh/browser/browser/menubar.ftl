@@ -107,9 +107,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Hlela
     .accesskey = H
-menu-edit-find-on =
-    .label = Fumana kweli phepha…
-    .accesskey = F
 menu-edit-find-again =
     .label = Fumana kwakhona
     .accesskey = k
@@ -125,9 +122,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Iithulbha
     .accesskey = I
-menu-view-customize-toolbar =
-    .label = Lungiselela…
-    .accesskey = L
 menu-view-sidebar =
     .label = Ibha yasecaleni
     .accesskey = i
@@ -158,9 +152,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Isimbo sephepha esisisiseko
     .accesskey = e
-menu-view-charset =
-    .label = Umbhalo Onekhowudi
-    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -207,10 +198,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Iibhukhmakhi
     .accesskey = I
-menu-bookmarks-show-all =
-    .label = Bonisa zonke iibhukhmakhi
-menu-bookmark-this-page =
-    .label = Faka ibhukhmakhi kweli khasi
 menu-bookmark-edit =
     .label = Hlela Le Bhukhmakhi
 menu-bookmarks-all-tabs =
@@ -230,32 +217,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Okukhutshelwayo
     .accesskey = O
-menu-tools-addons =
-    .label = zongezelelo
-    .accesskey = z
 menu-tools-sync-now =
     .label = Ngqamanisa ngoku
     .accesskey = N
-menu-tools-web-developer =
-    .label = Umphuhlisi-webhu
-    .accesskey = U
 menu-tools-page-source =
     .label = Umthombo wephepha
     .accesskey = m
 menu-tools-page-info =
     .label = Inkcazelo yephepha
     .accesskey = y
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Ekunokukhethwa kuko
-           *[other] Iipriferensi
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] E
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -286,27 +256,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Uncedo
     .accesskey = U
-menu-help-product =
-    .label = I-{ -brand-shorter-name } uncedo
-    .accesskey = u
-menu-help-show-tour =
-    .label = I-{ -brand-shorter-name } Ukhenketho
-    .accesskey = k
-menu-help-keyboard-shortcuts =
-    .label = Izinqumleli zekhibhodi
-    .accesskey = I
-menu-help-troubleshooting-info =
-    .label = Inkcazelo yesisombululi-ngxaki
-    .accesskey = I
 menu-help-feedback-page =
     .label = Thumela ingxelo…
     .accesskey = T
-menu-help-safe-mode-without-addons =
-    .label = Qalisa kwakhona izongezelelo ziqhwalelisiwe…
-    .accesskey = Q
-menu-help-safe-mode-with-addons =
-    .label = Qalisa kwakhona izongezelelo ziqhwalelisiwe…
-    .accesskey = Q
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

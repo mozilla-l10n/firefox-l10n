@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = Iibhukhmakhi
+
 sidebar-menu-history =
     .label = Imbali
+
 sidebar-menu-synced-tabs =
     .label = Iithebhu Ezingqamanisiweyo
+
 sidebar-menu-close =
     .label = Vala iBha eseCaleni
+
 sidebar-close-button =
     .tooltiptext = Vala ibha esecaleni

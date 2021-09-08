@@ -89,42 +89,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Ukufaka Ikhowudi kuMabinzana ngeNjongo yokuQulethweyo okuDluliswayo
-fonts-languages-fallback-desc = Oku kufaka ikhowudi kumbhalo kusetyenziselwa okuluqulethweyo okoyisakalyo ukubhengeza ukufakwa kako ikhowudi.
-
-fonts-languages-fallback-name-auto =
-    .label = Esisiseko yeNdawo okuyo Ngoku
-fonts-languages-fallback-name-arabic =
-    .label = NgokwesiArab
-fonts-languages-fallback-name-baltic =
-    .label = i-Baltic
-fonts-languages-fallback-name-ceiso =
-    .label = EyoMbindi Yurophu, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = EyoMbindi Yurophu, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = IsiTshayina Esenziwe Lula
-fonts-languages-fallback-name-traditional =
-    .label = IsiTshayina, esomthonyama
-fonts-languages-fallback-name-cyrillic =
-    .label = NgokwesiCyrillic
-fonts-languages-fallback-name-greek =
-    .label = IsiGrike
-fonts-languages-fallback-name-hebrew =
-    .label = IsiHebhere
-fonts-languages-fallback-name-japanese =
-    .label = NgokwesiJaphane
-fonts-languages-fallback-name-korean =
-    .label = NgokwesiKorea
-fonts-languages-fallback-name-thai =
-    .label = NgokwesiThai
-fonts-languages-fallback-name-turkish =
-    .label = i-Turkish
-fonts-languages-fallback-name-vietnamese =
-    .label = IsiVietnamese
-fonts-languages-fallback-name-other =
-    .label = Olunye (oluquki. EyeNtshona Yurophu)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
