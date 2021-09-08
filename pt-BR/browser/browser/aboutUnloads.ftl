@@ -6,4 +6,21 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = Descarregamento de abas
 about-unloads-intro-1 = O { -brand-short-name } tem um recurso que descarrega abas automaticamente para evitar que o aplicativo trave devido a memória insuficiente quando a memória disponível no sistema estiver baixa. A próxima aba a ser descarregada é escolhida com base em vários atributos. Esta página mostra como o { -brand-short-name } prioriza abas e qual aba é descarregada quando o descarregamento de abas é acionado.
+about-unloads-intro-2 = As abas existentes são exibidas na tabela abaixo na mesma ordem usada pelo { -brand-short-name } para escolher a próxima aba a ser descarregada. IDs de processos são exibidos em <strong>negrito</strong> quando estão hospedando o frame superior da aba e em <em>itálico</em> quando o processo é compartilhado por várias abas. Você pode acionar manualmente o descarregamento de abas clicando no botão <em>Descarregar</em> abaixo.
+about-unloads-last-updated = Última atualização: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-button-unload = Descarregar
+    .title = Descarregar aba com maior prioridade
+about-unloads-no-unloadable-tab = Não há abas a ser descarregadas.
+about-unloads-column-priority = Prioridade
+about-unloads-column-host = Servidor
+about-unloads-column-last-accessed = Último acesso
+about-unloads-column-memory = Memória
+    .title = Uso estimado de memória da aba
+about-unloads-column-processes = IDs de processos
+    .title = IDs dos processos encarregados pelo conteúdo da aba
+about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
+about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
+about-unloads-memory-in-mb-tooltip =
+    .title = { NUMBER($mem, maxFractionalUnits: 2) } MB
