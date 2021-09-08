@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Close
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Options
-           *[other] Preferences
-        }
-
 preferences-doc-title = Preferences
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Discard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
 
-addons-button = Extensions & Themes
-
 account-button = Account Settings
 open-addons-sidebar-button = Add-ons and Themes
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = To create a Master Password, enter your Windows login credentials. This helps protect the security of your accounts.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = create a Master Password
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = To create a Primary Password, enter your Windows login credentials. This helps protect the security of your accounts.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Customise…
     .accesskey = C
-
-tray-icon-label =
-    .label = Show a tray icon
-    .accesskey = t
 
 biff-use-system-alert =
     .label = Use the system notification
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Colour:
     .accesskey = o
-
-search-input =
-    .placeholder = Search
 
 search-handler-table =
     .placeholder = Filter content types and actions
@@ -723,16 +698,6 @@ passwords-button =
     .label = Saved Passwords…
     .accesskey = S
 
-master-password-description = A Master Password protects all your passwords, but you must enter it once per session.
-
-master-password-label =
-    .label = Use a master password
-    .accesskey = U
-
-master-password-button =
-    .label = Change Master Password…
-    .accesskey = C
-
 
 primary-password-description = A Primary Password protects all your passwords, but you must enter it once per session.
 
@@ -913,26 +878,6 @@ no-preview-description = This theme is not valid or is currently unavailable (di
 chat-variant-label =
     .value = Variant:
     .accesskey = V
-
-chat-header-label =
-    .label = Show Header
-    .accesskey = H
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Find in Options
-           *[other] Find in Preferences
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

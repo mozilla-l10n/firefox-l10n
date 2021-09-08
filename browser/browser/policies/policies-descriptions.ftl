@@ -65,8 +65,6 @@ policy-DisableForgetButton = Prevent access to the Forget button.
 
 policy-DisableFormHistory = Don’t remember search and form history.
 
-policy-DisableMasterPasswordCreation = If true, a master password can’t be created.
-
 policy-DisablePrimaryPasswordCreation = If true, a Primary Password can’t be created.
 
 policy-DisablePasswordReveal = Do not allow passwords to be revealed in saved logins.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revert to legacy SameS
 policy-LocalFileLinks = Allow specific web sites to link to local files.
 
 policy-ManagedBookmarks = Configures a list of bookmarks managed by an administrator that cannot be changed by the user.
-
-policy-MasterPassword = Require or prevent using a master password.
 
 policy-ManualAppUpdateOnly = Allow manual updates only and do not notify the user about updates.
 

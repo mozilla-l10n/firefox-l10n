@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Automatically follow detected online state
     .accesskey = d
 
-startup-label = Manual state when starting up:
-
 offline-preference-startup-label = Manual state when starting up:
 
 status-radio-remember =
