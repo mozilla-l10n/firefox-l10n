@@ -17,38 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Òrgan werifikacje
 
-certmgr-detail-general-tab-title =
-    .label = Òglowé
-    .accesskey = g
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Detale
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Dérëje werifikacjô certifikatu…
-
-certmgr-subject-label = Wëstôwiony dlô
-
-certmgr-issuer-label = Wëstôwióny przez
-
-certmgr-fingerprints = Òdtłok palca
-
-certmgr-cert-detail =
-    .title = Detale certifikatu
-    .buttonlabelaccept = Zamkni
-    .buttonaccesskeyaccept = Z
-
-certmgr-cert-detail-commonname = Zwëczajné miono (CN)
-
-certmgr-cert-detail-org = Òrganizacjô (O)
-
-certmgr-cert-detail-orgunit = Jednostka òrganizacje (OU)
-
-certmgr-cert-detail-serial-number = Numer seriowi
-
-certmgr-cert-detail-sha-1-fingerprint = Òbcësk palca SHA1
-
 certmgr-edit-ca-cert =
     .title = Editëje nastawë wiarë Òrganu Certifikacje (CA)
     .style = width: 48em;
@@ -76,8 +44,6 @@ certmgr-override-lifetime =
 
 certmgr-token-name =
     .label = Zabezpieczającé ùrządzenié
-
-certmgr-expires-on = Kùńczi sã
 
 certmgr-expires-label =
     .label = Kùńczi sã
@@ -119,14 +85,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Impòrtëjë…
     .accesskey = m
-
-certmgr-details =
-    .value = Pòla detali
-    .accesskey = P
-
-certmgr-fields =
-    .value = Wôrtnota pòlów
-    .accesskey = W
 
 certmgr-add-exception =
     .label = Dodôj wëjimk…
@@ -190,12 +148,6 @@ delete-user-cert-confirm = Jes gwës że chcesz rëmnąc ne certifikatë?
 delete-user-cert-impact = Jeżlë rëmniesz jeden ze swòjich certifikatów, nie bãdzesz móg pòcwierdzëc swòji juwernotë.
 
 
-delete-ssl-cert-title =
-    .title = Rëmôj wëjimczi certifikatów serwera
-delete-ssl-cert-confirm = Jes gwës że chcesz rëmnąc ne wëjimczi serwera?
-delete-ssl-cert-impact = Żlë rëmniesz wëjimczi serwera, doprowadzysz nazôd zwëczajné ùstawë bezpiekù negò serwera, w tim ùżiwk wôżnëch certifikatów.
-
-
 delete-ca-cert-title =
     .title = Rëmôj abò nie dowierzôj certifikatóm CA
 delete-ca-cert-confirm = Próbùjesz rëmnąc certifikatë CA. Dowierzanié wbùdowónëch certifikatów bãdze copniãti co mô nen sóm rezultat. Jes gwës że chcesz rëmnąc czë niedowierzac?
@@ -208,38 +160,6 @@ delete-email-cert-confirm = Jes gwës że chcesz rëmnąc e-mailowé certifikat�
 delete-email-cert-impact = Żlë rëmniesz e-mailowé certifikatë brëkòwnika, wicy nie bãdzesz mógł sélac zaszifrowónëch wiadłów do negò brëkòwnika.
 
 ## Cert Viewer
-
-not-present =
-    .value = <Nie je dzélã certifikatu>
-
-# Cert verification
-cert-verified = Nen certifikat je zwerifikòwóny dlô nôslédnych brëkòwników:
-
-# Add usage
-verify-ssl-client =
-    .value = Certifikat klienta SSL
-
-verify-ssl-server =
-    .value = Certifikat serwera SSL
-
-verify-ssl-ca =
-    .value = SSL òrgana certifikacëji (CA)
-
-verify-email-signer =
-    .value = E-mailowi certifikat pòdpisu
-
-verify-email-recip =
-    .value = E-mailowi certifikat òdbiorcy
-
-# Cert verification
-cert-not-verified-cert-revoked = Ni mòże zwerifikòwac negò certifikatu kò òn je copniãti.
-cert-not-verified-cert-expired = Ni mòże zwerifikòwac negò certifikatu kò òn ùtracôł ju wôżnotã.
-cert-not-verified-cert-not-trusted = Ni mòże zwerifikòwac negò certifikatu kò òn je niedowierzóny.
-cert-not-verified-issuer-not-trusted = Ni mòże zwerifikòwac negò certifikatu kò jegò wëdôwôcz je niedowierzóny.
-cert-not-verified-issuer-unknown = Ni mòże zwerifikòwac negò certifikatu kò jegò wëdôwôcz je nieznóny.
-cert-not-verified-ca-invalid = Ni mòże zwerifikòwac negò certifikatu kò CA certifikat je niewôżny.
-cert-not-verified_algorithm-disabled = Werifikacjô certifikatu nie darziła sã - òn béł pòpdpisóny przez niewôżny algòritm, chtëren nie je bezpieczny.
-cert-not-verified-unknown = Je jiwer z werifikacją negò certifikatu.
 
 ## Used to show whether an override is temporary or permanent
 

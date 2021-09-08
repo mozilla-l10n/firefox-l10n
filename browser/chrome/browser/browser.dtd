@@ -33,9 +33,6 @@ can reach it easily. -->
 
 <!-- Tab context menu -->
 
-<!ENTITY pinTab.label "Przëwôrnié jakno kôrtã aplikacje">
-<!ENTITY unpinTab.label "Òdhôkni kôrtã">
-
 <!ENTITY  listAllTabs.label      "Lësta wszëtczich kôrtów">
 
 <!ENTITY tabCmd.label "Nowô kôrta">
@@ -44,15 +41,9 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Lëstew menu">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY personalbarCmd.label "Lëstew załóżków">
-<!ENTITY personalbarCmd.accesskey "z">
-<!ENTITY bookmarksToolbarItem.label "Elementë lëstwë załóżków">
 
 <!ENTITY fullScreenCmd.label "Fùlekranowi trib">
 
-
-<!ENTITY showAllBookmarks2.label "Wëskrzëni wszëtczé załóżczi">
-<!ENTITY bookmarksToolbarChevron.tooltip "Wëskrzëni wicy załóżków">
 
 <!ENTITY printButton.label            "Drëkùjë">
 <!ENTITY printButton.tooltip          "Drëkùjë tã stronã">
@@ -62,14 +53,9 @@ can reach it easily. -->
 
 <!ENTITY homeButton.label             "Domôcô strona">
 
-<!ENTITY bookmarksButton.label          "Załóżczi">
-
-<!ENTITY viewBookmarksToolbar.label         "Òbaczë lëstwã nôrzãdłów załóżków">
-
 <!ENTITY historyButton.label            "Historiô">
 
 <!ENTITY downloads.label              "Zladënczi">
-<!ENTITY addons.label                 "Dodôwczi">
 
 <!ENTITY webDeveloperMenu.label       "Deweloper">
 
@@ -97,18 +83,12 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "Historiô">
 
-<!ENTITY historyUndoMenu.label "Slédno zamkłé kôrtë">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Slédno zamkłé òkna">
-
 
 <!ENTITY openLinkCmdInTab.accesskey   "Ò">
 
 
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-
-<!ENTITY emailPageCmd.label "Sélôj lënk e-mailã…">
 
 <!-- labels are set dynamically, see browser.properties -->
 
@@ -123,10 +103,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoom.label                 "Zwikszë">
 
-<!ENTITY sidebarCloseButton.tooltip     "Zamkni bòcznã lëstew">
-
-<!ENTITY quitApplicationCmd.label       "Zakùńczë"> 
-<!ENTITY quitApplicationCmd.accesskey "W">  
+<!ENTITY sidebarCloseButton.tooltip     "Zamkni bòcznã lëstew">  
 <!ENTITY allowPopups.accesskey "w">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -145,7 +122,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended aùtomatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Kôrtë przezérnika">
-
-<!ENTITY syncBrand.shortName.label    "Sync">
 
 

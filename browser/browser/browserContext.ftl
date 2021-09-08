@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Biéj jedną stronã nazôd
-    .aria-label = Nazôd
-    .accesskey = N
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Biéj jedną stronã do przódkù
-    .aria-label = Do przódkù
-    .accesskey = P
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = Zapiszë stronã jakno…
     .accesskey = s
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -133,10 +108,6 @@ main-context-menu-open-link-new-private-window =
     .label = Òtemkni lënka w nowim priwatnym òknie
     .accesskey = l
 
-main-context-menu-bookmark-this-link =
-    .label = Dodôj załóżkã dlô tegò lënka
-    .accesskey = a
-
 main-context-menu-save-link =
     .label = Zapiszë lënk jakno…
     .accesskey = s
@@ -153,10 +124,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Kòpérëjë adres e-mailowi
     .accesskey = e
-
-main-context-menu-copy-link =
-    .label = Kòpérëjë adres lënka
-    .accesskey = K
 
 ## Media (video/audio) controls
 ##
@@ -207,29 +174,9 @@ main-context-menu-image-reload =
     .label = Zladëjë òbrôzk znowa
     .accesskey = Z
 
-main-context-menu-image-view =
-    .label = Wëskrzëni òbrôzk
-    .accesskey = W
-
-main-context-menu-video-view =
-    .label = Wëskrzëni wideò
-    .accesskey = k
-
 main-context-menu-image-copy =
     .label = Kòpérëjë òbrôzk
     .accesskey = r
-
-main-context-menu-image-copy-location =
-    .label = Kòpérëjë adres òbrôzka
-    .accesskey = b
-
-main-context-menu-video-copy-location =
-    .label = Kòpérëjë adres wideò
-    .accesskey = é
-
-main-context-menu-audio-copy-location =
-    .label = Kòpérëjë adres zwãkù
-    .accesskey = ù
 
 main-context-menu-image-save-as =
     .label = Zapiszë òbrôzk jakno…
@@ -238,10 +185,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Sélôj òbrôzk e-mailã…
     .accesskey = а
-
-main-context-menu-image-set-as-background =
-    .label = Ùsôdzë jakno tapetã…
-    .accesskey = t
 
 main-context-menu-image-info =
     .label = Wëskrzëni wëdowiédzã ò òbrôzkù
@@ -259,10 +202,6 @@ main-context-menu-audio-save-as =
     .label = Zapiszë zwãk jakno…
     .accesskey = s
 
-main-context-menu-video-image-save-as =
-    .label = Zapiszë òbrôzk jakno…
-    .accesskey = k
-
 main-context-menu-video-email =
     .label = Sélôj wideò e-mailã…
     .accesskey = w
@@ -278,10 +217,6 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Zatacë dodôwk
     .accesskey = d
-
-main-context-menu-view-background-image =
-    .label = Wëskrzëni òbrôzk spódka
-    .accesskey = ò
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -342,10 +277,6 @@ main-context-menu-view-page-source =
     .label = Wëskrzëni zdrój stronë
     .accesskey = ë
 
-main-context-menu-view-page-info =
-    .label = Wëskrzëni wëdowiédzã ò stronie
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = Zmieni czerënk tekstu
     .accesskey = t
@@ -353,8 +284,4 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Zmieni czerënk stronë
     .accesskey = s
-
-main-context-menu-inspect-element =
-    .label = Sprôwdzë Element
-    .accesskey = E
 

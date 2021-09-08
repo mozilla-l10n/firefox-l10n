@@ -8,11 +8,6 @@ page-subtitle =
     rozwiązac problemë. Żlë szëkôcz òdpowiescë dlô tipicznëch pëtaniów
     ò { -brand-short-name }. Sprôwdzë naszą <a data-l10n-name="support-link"> stronë wspiarcô</a>.
 
-extensions-title = Roszerzenia
-extensions-name = Miono
-extensions-enabled = Włączoné
-extensions-version = Wersjô
-extensions-id = Numer ID
 support-addons-name = Miono
 support-addons-version = Wersjô
 support-addons-id = Numer ID
