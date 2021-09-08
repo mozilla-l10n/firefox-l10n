@@ -8,8 +8,14 @@
 <!ENTITY confirmMove.accesskey            "C">
 <!ENTITY preserveThreading.label          "排序訊息時保留討論串結構">
 <!ENTITY preserveThreading.accesskey      "v">
+<!ENTITY mailAutoHide.label               "只開啟一個分頁時自動隱藏郵件分頁列">
+<!ENTITY mailAutoHide.accesskey           "b">
 <!ENTITY loadInBackground.label           "開啟分頁後，自動切換到新分頁">
 <!ENTITY loadInBackground.accesskey       "t">
+<!ENTITY mailOpenTabsFor.label            "在下列情形開啟至分頁而非新視窗:">
+<!ENTITY mailMiddleClick.accesskey        "M">
+<!ENTITY mailMiddleClickMac.accesskey     "M">
+<!ENTITY mailDoubleClick.accesskey        "k">
 <!ENTITY mailBiffOnNewWindow.label        "只在開啟郵件與新聞群組後檢查新郵件">
 <!ENTITY mailBiffOnNewWindow.accesskey    "O">
 

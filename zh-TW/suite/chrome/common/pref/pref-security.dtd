@@ -38,3 +38,5 @@
 <!ENTITY blockWebForgeries.label          "封鎖被回報有詐騙內容 (釣魚) 的網站">
 <!ENTITY blockWebForgeries.accesskey      "P">
 
+<!ENTITY blockAutoRefresh.label           "當網站試圖重新導向或重新載入頁面時警告">
+<!ENTITY blockAutoRefresh.accesskey       "a">
