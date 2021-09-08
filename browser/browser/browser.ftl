@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Priveesneupe)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Priveesneupe)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Priveesneupe)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Priveesneupe)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -115,7 +113,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Type minder, fyn mear: Sykje nei { $engineName } streekrjocht fan jo adresbalke út.
 urlbar-search-tips-redirect-2 = Begjin yn de adresbalke mei sykjen om suggestjes fan { $engineName } en jo browserskiednis te sjen.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Selektearje dizze fluchkeppeling om flugger te finen wat jo nedich hawwe.
@@ -152,12 +149,10 @@ urlbar-midi-blocked =
     .tooltiptext = Jo hawwe MIDI foar dizze website blokkearre.
 urlbar-install-blocked =
     .tooltiptext = Jo hawwe ynstallaasje fan add-ons foar dizze website blokkearre.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Dizze blêdwizer bewurkje ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -184,10 +179,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Diskear sykje mei:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sykynstellingen wizigje
-
 search-one-offs-context-open-new-tab =
     .label = Sykje yn Nij ljepblêd
     .accesskey = N
@@ -197,14 +190,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = As standertsykmasine foar priveefinsters ynstelle
     .accesskey = p
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -253,7 +244,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = e
 bookmark-panel-save-button =
     .label = Bewarje
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -281,7 +271,6 @@ identity-passive-loaded = Underdielen fan dizze side binne net befeilige (lykas 
 identity-active-loaded = Jo hawwe befeiliging op dizze side útskeakele.
 identity-weak-encryption = Dizze side brûkt swakke befeiliging.
 identity-insecure-login-forms = Ynfierde oanmeldingen op dizze side soene oernommen wurde kinne.
-
 identity-https-only-connection-upgraded = (opwurdearre nei HTTPS)
 identity-https-only-label = Allinnich-HTTPS-modus
 identity-https-only-dropdown-on =
@@ -293,11 +282,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Skeakelje Allinnich-HTTPS foar dizze website yn as jo wolle dat { -brand-short-name } wannear mooglik de ferbining opwurdearret.
 identity-https-only-info-turn-off2 = As de website net liket te wurkje, dan kinne jo probearje de Allinnich-HTTPS-modus foar dizze website út te skeakeljen en de side te fernijen mei it ûnfeilige HTTP.
 identity-https-only-info-no-upgrade = Kin HTTP-ferbining net fernije.
-
 identity-permissions-storage-access-header = Cross-sitecookies
 identity-permissions-storage-access-hint = Dizze partijen kinne wylst jo besite oan dizze website cross-sitecookies en websitegegevens brûke.
 identity-permissions-storage-access-learn-more = Mear ynfo
-
 identity-permissions-reload-hint = It is mooglik dat jo de side opnij lade moatte om de wizigingen aktyf te meitsjen.
 identity-clear-site-data =
     .label = Cookies en websitegegevens wiskje…
@@ -361,14 +348,12 @@ browser-tab-mute =
         [one] LJEPBLÊD DÔVJE
        *[other] { $count } LJEPBLÊDEN DÔVJE
     }
-
 browser-tab-unmute =
     { $count ->
         [1] LJEPBLÊD DÔVJE STOPJE
         [one] LJEPBLÊD DÔVJE STOPJE
        *[other] { $count } LJEPBLÊDEN DÔVJE STOPJE
     }
-
 browser-tab-unblock =
     { $count ->
         [1] LJEPBLÊD ÔFSPYLJE
@@ -381,7 +366,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Blêdwizers ymportearje…
     .tooltiptext = Blêdwizers út in oare browser nei { -brand-short-name } ymportearje.
-
 bookmarks-toolbar-empty-message = Pleats foar snelle tagong jo blêdwizers hjir op de blêdwizerarkbalke. <a data-l10n-name="manage-bookmarks">Blêdwizers beheare…</a>
 
 ## WebRTC Pop-up notifications
@@ -399,15 +383,12 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Lûdsprekkers
 popup-all-windows-shared = Alle sichtbere finsters op jo skerm sille dield wurde.
-
 popup-screen-sharing-block =
     .label = Blokkearje
     .accesskey = B
-
 popup-screen-sharing-always-block =
     .label = Altyd blokkearje
     .accesskey = t
-
 popup-mute-notifications-checkbox = Websitemeldingen dôvje wylst dielen
 
 ## WebRTC window or screen share tab switch warning
@@ -429,7 +410,6 @@ enable-devtools-popup-description = Iepenje earst DevTools yn it menu Webûntwik
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Fier in sykterm of adres yn
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -438,7 +418,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Sykje op it web
     .aria-label = Sykje mei { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -447,27 +426,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Fier syktermen yn
     .aria-label = Sykje op { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Fier syktermen yn
     .aria-label = Sykje yn blêdwizers
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Fier syktermen yn
     .aria-label = Sykje yn skiednis
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Fier syktermen yn
     .aria-label = Sykje yn ljepblêden
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Fier sykterm foar { $name } of adres yn
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -477,11 +451,9 @@ urlbar-permissions-granted =
     .tooltiptext = Jo hawwe dizze website oanfoljende spesjale tastimmingen jûn.
 urlbar-switch-to-tab =
     .value = Wikselje nei ljepblêd:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Utwreiding:
-
 urlbar-go-button =
     .tooltiptext = It adres yn de lokaasjebalke iepenje
 urlbar-page-action-button =
@@ -548,7 +520,6 @@ urlbar-result-action-search-tabs = Ljepblêden trochsykje
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use title case.
 # Variables
@@ -563,12 +534,9 @@ urlbar-group-search-suggestions =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> brûkt no it folsleine skerm
 fullscreen-warning-no-domain = Dit dokumint brûkt no it folsleine skerm
-
-
 fullscreen-exit-button = Folslein skerm ferlitte (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Folslein skerm ferlitte (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -578,7 +546,6 @@ pointerlock-warning-no-domain = Dit dokumint hat de kontrôle oer jo oanwizer. D
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>In part fan dizze side is ferûngelokke.</strong> Tsjinje in rapport yn om { -brand-product-name } te ynformearjen oer dit probleem en it rapper oplost te krijen.
-
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
@@ -634,7 +601,6 @@ bookmarks-tools =
     .label = Blêdwizerark
 bookmarks-bookmark-edit-panel =
     .label = Dizze blêdwizer bewurkje
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -648,7 +614,6 @@ bookmarks-toolbar-placeholder =
     .title = Blêdwizerarkbalke-ûnderdiel
 bookmarks-toolbar-placeholder-button =
     .label = Blêdwizerarkbalke-ûnderdiel
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Blêdwizer foar aktuele ljepblêd meitsje
@@ -679,7 +644,6 @@ repair-text-encoding-button =
 toolbar-addons-themes-button =
     .label = Add-ons en tema’s
     .tooltiptext = Jo add-ons en tema’s beheare ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
@@ -695,7 +659,6 @@ toolbar-settings-button =
 more-menu-go-offline =
     .label = Offline wurkje
     .accesskey = w
-
 toolbar-overflow-customize-button =
     .label = Arkbalke wizigje…
     .accesskey = A
@@ -740,7 +703,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Pop-upfinsters fan { $uriHost } tastean
     .accesskey = P
-
 popups-infobar-block =
     .label = Pop-upfinsters fan { $uriHost } blokkearje
     .accesskey = P
@@ -750,7 +712,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Dit berjocht net toane as pop-upfinsters blokkearre wurde
     .accesskey = b
-
+edit-popup-settings =
+    .label = Pop-upynstellingen beheare…
+    .accesskey = b
 picture-in-picture-hide-toggle =
     .label = Ofbylding-yn-ôfbylding-skeakeler ferstopje
     .accesskey = O

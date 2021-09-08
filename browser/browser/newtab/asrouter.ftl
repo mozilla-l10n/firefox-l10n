@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Oanrekommandearre funksje
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Wêrom sjoch ik dit
-
 cfr-doorhanger-extension-cancel-button = No net
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = No tafoegje
     .accesskey = t
-
 cfr-doorhanger-extension-manage-settings-button = Ynstellingen foar oanrekommandaasjes beheare
     .accesskey = o
-
 cfr-doorhanger-extension-never-show-recommendation = Dizze oanrekommandaasje net toane
     .accesskey = D
-
 cfr-doorhanger-extension-learn-more-link = Mear ynfo
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = troch { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Oanrekommandaasje
 cfr-doorhanger-extension-notification2 = Oanrekommandaasje
     .tooltiptext = Oanrekommandaasje foar útwreiding
     .a11y-announcement = Oanrekommandaasje foar útwreiding beskikber
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Oanrekommandaasje
@@ -65,9 +57,6 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } brûkers
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Syngronisearje jo blêdwizers oeral.
@@ -88,32 +77,10 @@ cfr-protections-panel-link-text = Mear ynfo
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nije funksje:
-
 cfr-whatsnew-button =
     .label = Wat is der nij
     .tooltiptext = Wat is der nij
-
 cfr-whatsnew-release-notes-link-text = Utjefteopmerkingen lêze
-
-## Search Bar
-
-## Search bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
@@ -127,25 +94,8 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Alles besjen
     .accesskey = A
-
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 cfr-doorhanger-milestone-close-button = Slute
     .accesskey = S
-
-## What’s New Panel Content for Firefox 76
-## Protections Dashboard message
 
 ## DOH Message
 
@@ -165,18 +115,6 @@ cfr-doorhanger-fission-primary-button = OK, begrepen
 cfr-doorhanger-fission-secondary-button = Mear ynfo
     .accesskey = M
 
-## What's new: Cookies message
-
-## What's new: Media controls message
-
-## What's new: Search shortcuts
-
-## What's new: Cookies protection
-
-## What's new: Better bookmarking
-
-## What's new: Cross-site cookie tracking
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Fideo’s op dizze website wurde mooglik yn dizze ferzje fan { -brand-short-name } net korrekt ôfspile. Wurkje { -brand-short-name } no by foar folsleine fideo-stipe.
@@ -190,3 +128,8 @@ cfr-doorhanger-video-support-primary-button = No bywurkje
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-header = It liket derop dat jo iepenbiere wifi brûke
+spotlight-public-wifi-vpn-primary-button = Bliuw privee mei { -mozilla-vpn-brand-name }
+    .accesskey = B
+spotlight-public-wifi-vpn-link = No net
+    .accesskey = N
