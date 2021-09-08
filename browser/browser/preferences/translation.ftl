@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Fjern alle nettsted
     .accesskey = r
 
-translation-button-close =
-    .label = Lukk
-    .accesskey = L
-
 translation-dialog =
     .buttonlabelaccept = Lukk
     .buttonaccesskeyaccept = u

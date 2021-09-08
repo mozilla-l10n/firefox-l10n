@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Forhåndsvis side">
-<!ENTITY printPreviewCmd.accesskey "F">
-<!ENTITY printSetupCmd.label "Utskriftsformat …">
-<!ENTITY printSetupCmd.accesskey "o">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Slett melding">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Kompakt visning">
 <!ENTITY compactVersion.accesskey "K">
-<!ENTITY folderPaneBar.label "Mappevisningsverktøylinje">
-<!ENTITY folderPaneBar.accesskey "M">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sorter etter">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Adressebok">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Utvidelser">
-<!ENTITY addons.accesskey "U">
-<!ENTITY addonPrefs.label "Innstillinger for utvidelse">
-<!ENTITY addonPrefs.accesskey "o">
-<!ENTITY addonPrefsUnix.label "Innstillinger for utvidelse">
-<!ENTITY addonPrefsUnix.accesskey "o">
 <!ENTITY addonNoPrefs.label "Ingen innstillinger for utvidelse funnet.">
 <!ENTITY activitymanager.label "Aktiviteter">
 <!ENTITY activitymanager.accesskey "v">
@@ -520,8 +508,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Feilsøk utvidelser">
 <!ENTITY debugAddonsCmd.accesskey "F">
-<!ENTITY tabsDebugCmd.label "Feilsøking for innholdsramme">
-<!ENTITY tabsDebugCmd.accesskey "i">
 <!ENTITY errorConsoleCmd.label "Feilmeldinger">
 <!ENTITY errorConsoleCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -545,15 +531,11 @@
 <!ENTITY backButton1.label "Tilbake">
 <!ENTITY goForwardButton1.label "Frem">
 <!ENTITY deleteItem.title "Slett">
-<!ENTITY deleteButton.label "Slett">
-<!ENTITY undeleteButton.label "Angre sletting">
 <!ENTITY markButton.label "Merk">
 <!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY throbberItem.title "Aktivitetsindikator">
 <!ENTITY junkItem.title "Søppel">
-<!ENTITY junkButton.label "Uønsket">
-<!ENTITY notJunkButton.label "Ønsket">
 <!ENTITY addressBookButton.label "Adressebok">
 <!ENTITY chatButton.label "Nettprat">
 <!ENTITY glodaSearch.title "Globalt søk">
@@ -585,19 +567,14 @@
 <!ENTITY previousMsgButton.tooltip "Gå til forrige melding">
 <!ENTITY goForwardButton.tooltip "Gå frem en melding">
 <!ENTITY goBackButton.tooltip "Gå tilbake en melding">
-<!ENTITY deleteButton.tooltip "Slett valgt melding eller mappe">
-<!ENTITY undeleteButton.tooltip "Angre sletting av melding">
 <!ENTITY markButton.tooltip "Merk meldinger">
 <!ENTITY printButton.tooltip "Skriv ut denne meldingen">
 <!ENTITY stopButton.tooltip "Stopp denne overføringen">
-<!ENTITY junkButton.tooltip "Merk de valgte meldingene som uønskede">
-<!ENTITY notJunkButton.tooltip "Merk valgt melding som ønskede">
 <!ENTITY addressBookButton.tooltip "Åpne adresseboken">
 <!ENTITY chatButton.tooltip "Vis nettprat-fanen">
 <!ENTITY tagButton.tooltip "Merk melding">
 <!ENTITY compactButton.tooltip "Fjern slettede meldinger fra valgt mappe">
 <!ENTITY appmenuButton1.tooltip "Viser &brandShortName;-menyen">
-<!ENTITY addonsButton.tooltip "Behandle dine utvidelser">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Videresend innbundet">

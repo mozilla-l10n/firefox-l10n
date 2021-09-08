@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Automatisk følg oppdaget tilkoblingstilstand
     .accesskey = A
 
-startup-label = Manuell tilstand ved oppstart:
-
 offline-preference-startup-label = Manuell tilstand ved oppstart:
 
 status-radio-remember =

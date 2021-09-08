@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR-innstillinger
 otr-log =
     .label = Inkluder OTR-krypterte meldinger i samtalelogger
-otr-requireEncryption =
-    .label = Krev ende-til-ende-kryptering for en-til-en-samtaler
-otr-verifyNudge =
-    .label = Påminn meg alltid på å bekrefte en ubekreftet kontakt
-
-otr-notYetAvailable = ikke tilgjengelig enda
 
 otr-require-encryption-info =
     Når du krever ende-til-ende-kryptering, vil meldinger i en-til-en-samtaler

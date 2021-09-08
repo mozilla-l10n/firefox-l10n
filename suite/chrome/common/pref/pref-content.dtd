@@ -33,10 +33,11 @@
 <!ENTITY defaultZoom.label                      "Standardskalering">
 <!ENTITY defaultZoom.accesskey                  "S">
 
-<!ENTITY siteSpecific.label                     "Husk zoom-nivåer for hvert nettsted">
-<!ENTITY siteSpecific.accesskey                 "H">
 <!ENTITY textZoomOnly.label                     "Forstørr/forminsk tekst istedenfor hele nettsider">
 <!ENTITY textZoomOnly.accesskey                 "o">
+<!ENTITY siteSpecific.label                     "Husk zoom-nivåer for hvert nettsted">
+<!ENTITY siteSpecific.accesskey                 "H">
+<!ENTITY showZoomStatusPanel.label              "Vis skaleringskontroller i statuslinjen">
 <!ENTITY enableAutomaticImageResizing.label     "Forandre størrelse på store bilder til å passe i nettleservinduet">
 <!ENTITY enableAutomaticImageResizing.accesskey "F">
 
@@ -45,4 +46,3 @@
 <!ENTITY blockAutoRefresh.label                 "Advar når nettsider forsøker å omdirigere eller laste siden på nytt">
 <!ENTITY blockAutoRefresh.accesskey             "d">
 
-<!ENTITY showZoomStatusPanel.label              "Vis skaleringskontroller i statuslinjen">

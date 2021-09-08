@@ -65,8 +65,6 @@ policy-DisableForgetButton = Forhindre tilgang til knappen Glem.
 
 policy-DisableFormHistory = Ikke lagre søke- og skjemahistorikk.
 
-policy-DisableMasterPasswordCreation = Om aktiv, kan ikke et hovedpassord lages.
-
 policy-DisablePrimaryPasswordCreation = Om aktiv, kan ikke et hovedpassord lages.
 
 policy-DisablePasswordReveal = Ikke la passord bli avslørt for lagrede innlogginger.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Gå tilbake til foreld
 policy-LocalFileLinks = Tillat at bestemte nettsteder kobler til lokale filer.
 
 policy-ManagedBookmarks = Konfigurerer en liste over bokmerker som administreres av en administrator og som ikke kan endres av brukeren.
-
-policy-MasterPassword = Krev eller forhindre bruk av hovedpassord.
 
 policy-ManualAppUpdateOnly = Tillat kun manuelle oppdateringer og gi ikke brukeren varsel om oppdateringer.
 

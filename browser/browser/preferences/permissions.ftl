@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Fjern alle nettsteder
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Avbryt
-    .accesskey = A
-
-permissions-button-ok =
-    .label = Lagre endringer
-    .accesskey = L
-
 permission-dialog =
     .buttonlabelaccept = Lagre endringer
     .buttonaccesskeyaccept = L

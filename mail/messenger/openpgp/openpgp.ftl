@@ -118,10 +118,6 @@ openpgp-key-send-key =
     .label = Send offentlig nøkkel via e-post
     .accesskey = S
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Kopier offentlige nøkler til utklippstavlen
-    .accesskey = K
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -148,8 +144,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Eksporter nøkler til fil
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Kopier offentlige nøkler til utklippstavlen
 
 openpgp-key-man-ctx-copy =
     .label = Kopier
@@ -301,14 +295,6 @@ openpgp-description =
        *[other] Thunderbird fant { $count } personlige OpenPGP-nøkler assosierte med <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Velg en gyldig nøkkel for å aktivere OpenPGP-protokollen.
-       *[other] Din nåværende konfigurasjon bruker nøkkel-ID <b>{ $key }</b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Din nåværende konfigurasjon bruker nøkkelen <b>{ $key }</b>, som er utløpt.
 
@@ -334,14 +320,8 @@ openpgp-radio-none-desc = Ikke bruk OpenPGP for denne identiteten.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Utløper den: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Nøkkelen utløper om mindre enn 6 måneder
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Utløpt den: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Nøkkel utløpt
 
 openpgp-key-expand-section =
     .tooltiptext = Mer informasjon
@@ -659,7 +639,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Du har satt linjeskift til { $width } tegn. For riktig kryptering og/eller signering, må denne verdien være minst 68.
     Ønsker du å endre linjeskiftet til 68 tegn nå?
-sending-hidden-rcpt = BCC-mottakere (blindkopi) kan ikke brukes når du sender en kryptert melding. For å sende denne krypterte meldingen, fjern enten BCC-mottakerne eller flytt dem til CC-feltet.
 sending-news =
     Kryptert sendingsoperasjon avbrutt.
     Denne meldingen kan ikke krypteres fordi det er mottakere av temagrupper. Send meldingen på nytt uten kryptering.
@@ -719,9 +698,6 @@ enig-info = OpenPGP-informasjon
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Prøv igjen
 dlg-button-skip = &Hopp over
-
-# Strings used in enigmailCommon.js
-enig-error = OpenPGP-feil
 
 enig-alert-title =
     .title = OpenPGP-varsel
