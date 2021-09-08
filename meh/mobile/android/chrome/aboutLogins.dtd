@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-   %brandDTD;
-<!ENTITY aboutLogins.title                       "Nuu kajie´e sesión">
-<!ENTITY aboutLogins.update                      "Actualizar">
-<!ENTITY aboutLogins.emptyLoginText              "Kumi va´a daa nuu kajie´e sesión-nu">
-<!ENTITY aboutLogins.emptyLoginHint              "Nuu kajie´e sesión jii credenciales a chuva´a-nu ni´inu &brandShortName; ya´a kutuvi-jí.">
