@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Presi…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Antaŭvidi presadon">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Agordi paĝon…">
-<!ENTITY printSetupCmd.accesskey "d">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Forigi mesaĝon">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "s">
 <!ENTITY compactVersion.label "Kompakta vido">
 <!ENTITY compactVersion.accesskey "K">
-<!ENTITY folderPaneBar.label "Strio ĉe panelo de mesaĝujoj">
-<!ENTITY folderPaneBar.accesskey "d">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordigi laŭ">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Adresaro">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Aldonaĵoj">
-<!ENTITY addons.accesskey "j">
-<!ENTITY addonPrefs.label "Preferoj de aldonaĵo">
-<!ENTITY addonPrefs.accesskey "P">
-<!ENTITY addonPrefsUnix.label "Preferoj de aldonaĵo">
-<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Neniu aldonaĵo por agordi.">
 <!ENTITY activitymanager.label "Aktiveca kontrolilo">
 <!ENTITY activitymanager.accesskey "k">
@@ -520,8 +508,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Senerarigi aldonaĵojn">
 <!ENTITY debugAddonsCmd.accesskey "a">
-<!ENTITY tabsDebugCmd.label "Senerarigi langetojn">
-<!ENTITY tabsDebugCmd.accesskey "l">
 <!ENTITY errorConsoleCmd.label "Konzolo de eraroj">
 <!ENTITY errorConsoleCmd.accesskey "K">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -545,15 +531,11 @@
 <!ENTITY backButton1.label "Reen">
 <!ENTITY goForwardButton1.label "Pluen">
 <!ENTITY deleteItem.title "Forigi">
-<!ENTITY deleteButton.label "Forigi">
-<!ENTITY undeleteButton.label "Malforigi">
 <!ENTITY markButton.label "Marki">
 <!ENTITY printButton.label "Presi">
 <!ENTITY stopButton.label "Haltigi">
 <!ENTITY throbberItem.title "Aktiveca indikilo">
 <!ENTITY junkItem.title "Trudmesaĝo">
-<!ENTITY junkButton.label "Trudmesaĝo">
-<!ENTITY notJunkButton.label "Dezirata">
 <!ENTITY addressBookButton.label "Adresaro">
 <!ENTITY chatButton.label "Tujmesaĝilo">
 <!ENTITY glodaSearch.title "Serĉi">
@@ -585,19 +567,14 @@
 <!ENTITY previousMsgButton.tooltip "Iri al la antaŭa mesaĝo">
 <!ENTITY goForwardButton.tooltip "Iri pluen je unu mesaĝo">
 <!ENTITY goBackButton.tooltip "Iri reen je unu mesaĝo">
-<!ENTITY deleteButton.tooltip "Forigi la elektitan mesaĝ(uj)on">
-<!ENTITY undeleteButton.tooltip "Malforigi la elektitan mesaĝon">
 <!ENTITY markButton.tooltip "Marki mesaĝon">
 <!ENTITY printButton.tooltip "Presi mesaĝon">
 <!ENTITY stopButton.tooltip "Ĉesigi la nunan transsendon">
-<!ENTITY junkButton.tooltip "Marki la elektitan mesaĝon kiel nedeziratan">
-<!ENTITY notJunkButton.tooltip "Marki la elektitan mesaĝon kiel deziratan">
 <!ENTITY addressBookButton.tooltip "Montri adresaron">
 <!ENTITY chatButton.tooltip "Montri tujmesaĝilon">
 <!ENTITY tagButton.tooltip "Marki mesaĝon per etikedo">
 <!ENTITY compactButton.tooltip "Neinversigeble forigi forigitajn mesaĝojn el la elektita mesaĝujo">
 <!ENTITY appmenuButton1.tooltip "Montri menuon de la programo &brandShortName;">
-<!ENTITY addonsButton.tooltip "Administri aldonaĵojn">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Plusendi kiel tekston">

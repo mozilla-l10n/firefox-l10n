@@ -6,9 +6,6 @@ password-quality-meter = Mezurilo de pasvorta kvalito
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Ŝanĝi ĉefan pasvorton
-
 change-device-password-window =
     .title = Ŝanĝi pasvorton
 
@@ -20,10 +17,6 @@ change-password-new = Nova pasvorto:
 change-password-reenter = Nova pasvorto (denove):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Nuligi ĉefan pasvorton
-    .style = width: 40em
 
 pippki-failed-pw-change = Ne eblas ŝanĝi la ĉefan pasvorton.
 pippki-incorrect-pw = Vi ne tajpis la ĝustan (nunan) ĉefan pasvorton. Bonvolu klopodi denove.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Rekomenci
-reset-password-text = Se vi nuligas vian ĉefan pasvorton ĉiuj viaj konservitaj TTTaj kaj retpoŝtaj pasvortoj estos forgesitaj, kune kun via formulara informo, personaj atestiloj kaj privataj ŝlosiloj. Ĉu vi certe volas nuligi vian ĉefan pasvorton?
 
 reset-primary-password-text = Se vi nuligas vian ĉefan pasvorton ĉiuj viaj konservitaj TTTaj kaj retpoŝtaj pasvortoj estos forgesitaj, kune kun via formulara informo, personaj atestiloj kaj privataj ŝlosiloj. Ĉu vi certe volas nuligi vian ĉefan pasvorton?
 

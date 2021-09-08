@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Aldoni novan ingon
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Preferoj por ingoj de { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Emblemo
 containers-color-label = Koloro
     .accesskey = K
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Farita
-    .accesskey = F
 
 containers-dialog =
     .buttonlabelaccept = Farita

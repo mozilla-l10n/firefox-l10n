@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Funkciado
 
-turn-on-sync = Ŝalti { -sync-brand-short-name }…
-    .title = Iri al la preferoj de spegulado
-
 monitor-title = Estu atenta je datumfuĝoj
 monitor-link = Kiel funkcias tio
 monitor-header-content-no-account = Kontrolu { -monitor-brand-name } por vidi ĉu vi estis viktimo de konata datumfuĝo kaj ricevu atentigojn pri novaj datumfuĝoj.

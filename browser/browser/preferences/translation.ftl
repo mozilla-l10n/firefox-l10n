@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Forigi ĉiujn retejojn
     .accesskey = e
 
-translation-button-close =
-    .label = Fermi
-    .accesskey = F
-
 translation-dialog =
     .buttonlabelaccept = Fermi
     .buttonaccesskeyaccept = F

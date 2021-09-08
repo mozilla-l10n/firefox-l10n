@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Malfermi privatan fenestron
 about-private-browsing-search-placeholder = Serĉi en la teksaĵo
 about-private-browsing-info-title = Vi estas en privata fenestro
 about-private-browsing-info-myths = Oftaj mitoj pri privata retumo
-about-private-browsing =
-    .title = Serĉi en la teksaĵo
 about-private-browsing-search-btn =
     .title = Serĉi en la reto
 # Variables
@@ -23,12 +21,16 @@ about-private-browsing-handoff-text = Serĉi per { $engine } aŭ tajpi adreson
 about-private-browsing-handoff-text-no-engine = Serĉi aŭ tajpi adreson
 about-private-browsing-not-private = Vi ne estas nun en privata fenestro.
 about-private-browsing-info-description = { -brand-short-name } forviŝos vian serĉan kaj retuman historion kiam vi finas la programon aŭ fermas ĉiujn langetojn kaj fenestrojn en privata retumo. Kvankam tio ĉi ne igas vin anonima por retejoj aŭ via reta provizanto, ĝi faciligas la taskon kaŝi vian retumon de aliaj uzantoj en la sama komputilo.
+
 about-private-browsing-need-more-privacy = Ĉu vi bezonas pli da privateco?
 about-private-browsing-turn-on-vpn = Provu { -mozilla-vpn-brand-name }
+
 about-private-browsing-info-description-simplified = { -brand-short-name } viŝos vian serĉan kaj retuman historion kiam vi fermos ĉiujn privatajn fenestrojn, sed tio ne igas vin anonima.
 about-private-browsing-learn-more-link = Pli da informo
+
 about-private-browsing-hide-activity = Kaŝu viajn agojn kaj pozicion, kie ajn vi retumas
 about-private-browsing-prominent-cta = Protektu vian privatecon per { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

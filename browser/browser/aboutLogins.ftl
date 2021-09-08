@@ -7,17 +7,12 @@ about-logins-page-title = Legitimiloj kaj pasvortoj
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Kunportu viajn pasvortojn ĉien
-login-app-promo-subtitle = Ricevu senpage la programon { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Ricevu ĝin en Google Play
-login-app-promo-apple =
-    .alt = Elŝuti el la App Store
 login-filter =
     .placeholder = Serĉi en legitimiloj
+
 create-login-button = Krei novan legitimilon
+
 fxaccounts-sign-in-text = Spegulu viajn pasvortojn en viaj aliaj aparatoj
-fxaccounts-sign-in-button = Komenci seancon en { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Komenci seancon por speguli
 fxaccounts-avatar-button =
     .title = Administri konton
@@ -37,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Preferoj
     }
 about-logins-menu-menuitem-help = Helpo
-menu-menuitem-android-app = { -lockwise-brand-short-name } por Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } por iPhone kaj iPad
 
 ## Login List
 
@@ -68,6 +61,7 @@ about-logins-list-item-breach-icon =
     .title = Retejo kun datumfuĝo
 about-logins-list-item-vulnerable-password-icon =
     .title = Sendefenda pasvorto
+
 about-logins-list-section-breach = Retejoj kun datumfuĝo
 about-logins-list-section-vulnerable = Atakeblaj pasvortoj
 about-logins-list-section-nothing = Neniu atentigo
@@ -77,13 +71,9 @@ about-logins-list-section-week = Lastaj 7 tagoj
 
 ## Introduction screen
 
-login-intro-heading = Ĉu vi serĉas viajn konservitajn legitimilojn? Agordu { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out2 = Ĉu vi serĉas viajn konservitajn legitimilojn? Ŝaltu speguladon aŭ enportu ilin.
 about-logins-login-intro-heading-logged-in = Neniu spegulita legitimilo trovita.
 login-intro-description = Se vi konservis viajn legitimilojn en { -brand-product-name } en alia aparato, vi povas havi ilin ankaŭ ĉi tie jene:
-login-intro-instruction-fxa = Krei konton aŭ komencu seancon en { -fxaccount-brand-name } en la aparato, kie la legitimiloj estas konservitaj
-login-intro-instruction-fxa-settings = Certu esti elektinta la markobutonon Legitimiloj en la agordoj de { -sync-brand-short-name }
-about-logins-intro-instruction-help = Vizitu <a data-l10n-name="help-link">helpo pri { -lockwise-brand-short-name }</a> por pli da informo
 login-intro-instructions-fxa = Krei konton aŭ komencu seancon en { -fxaccount-brand-name } en la aparato, kie la legitimiloj estas konservitaj
 login-intro-instructions-fxa-settings = Iru al Agordoj->Spegulado->Ŝalti speguladon… Elektu la markobutonon "Legitimiloj kaj pasvortoj".
 login-intro-instructions-fxa-help = Vizitu <a data-l10n-name="help-link">helpo pri { -lockwise-brand-short-name }</a> por pli da informo.
@@ -129,11 +119,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Por redakti viajn legitimil
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifi la konservitan legitimilon
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Por vidi vian pasvorton vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = malkaŝi la konservitan pasvorton
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Por kopii vian pasvorton vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to copy a password in about:logins
@@ -142,7 +134,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = kopii la konservitan 
 
 ## Master Password notification
 
-master-password-notification-message = Bonvolu tajpi vian ĉefan pasvorton por vidi konservitajn legitimilojn kaj pasvortojn
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Por elporti viajn legitimilojn, tajpu la akdreditilojn  de Windows. Tio helpas protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to export a password in about:logins
@@ -158,42 +149,30 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Ĉu vi volas ĉiam havi viajn legitimilojn, ĉie kie vi uzas { -brand-product-name }? Iru al la preferoj de { -sync-brand-short-name } kaj elektu la markobutonon Legitimiloj.
-       *[other] Ĉu vi volas ĉiam havi viajn legitimilojn, ĉie kie vi uzas { -brand-product-name }? Iru al la preferoj de { -sync-brand-short-name } kaj elektu la markobutonon Legitimiloj.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Vizitu la preferojn de { -sync-brand-short-name }
-           *[other] Vizitu la preferojn de { -sync-brand-short-name }
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Ne demandi denove
-    .accesskey = N
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Nuligi
 confirmation-dialog-dismiss-button =
     .title = Nuligi
+
 about-logins-confirm-remove-dialog-title = Ĉu forigi tiun ĉi legitimilon?
 confirm-delete-dialog-message = Tiu ĉi ago ne estas malfarebla.
 about-logins-confirm-remove-dialog-confirm-button = Forigi
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Forigi
         [one] Forigi
        *[other] Forigi ĉiujn
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Jes, forigi tiun ĉi legitimilon
         [one] Jes, forigi tiun ĉi legitimilon
        *[other] Jes, forigi tiujn ĉi legitimilojn
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Ĉu forigi tiun ĉi legitimilon?
@@ -204,6 +183,7 @@ about-logins-confirm-remove-all-dialog-message =
         [1] Tio ĉi forigos la legitimilon konservitan de vi en { -brand-short-name } kaj ĉiujn datumfuĝajn atentigojn, kiuj aperas ĉi tie. Tiu ĉi ago ne estas malfarebla.
        *[other] Tio ĉi forigos la legitimilojn konservitajn de vi en { -brand-short-name } kaj ĉiujn datumfuĝajn atentigojn, kiuj aperas ĉi tie. Tiu ĉi ago ne estas malfarebla.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Ĉu forigi { $count } legitimilon el ĉiuj aparatoj?
@@ -214,11 +194,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Tio ĉi forigos la legitimilon konservitan de vi en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via { -fxaccount-brand-name }. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
        *[other] Tio ĉi forigos la legitimilojn konservitajn de vi en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via { -fxaccount-brand-name }. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
     }
+
 about-logins-confirm-export-dialog-title = Elporti legitimilojn kaj pasvortojn
 about-logins-confirm-export-dialog-message = Viaj pasvortoj estos konservitaj kiel legebla teksto (ekzemple: Aĉ@pasvorto) tiel ke iu ajn kun aliro al la dosiero povos vidi ilin.
 about-logins-confirm-export-dialog-confirm-button = Elporti…
+
 about-logins-alert-import-title = Enportado finita
 about-logins-alert-import-message = Vidi detalan raporton pri enportado
+
 confirm-discard-changes-dialog-title = Ĉu ignori nekonservitajn ŝanĝojn?
 confirm-discard-changes-dialog-message = Ĉiuj nekonservitaj ŝanĝoj estos perditaj.
 confirm-discard-changes-dialog-confirm-button = Ignori
@@ -249,6 +232,7 @@ about-logins-vulnerable-alert-learn-more-link = Pli da informo
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Jam ekzistas elemento por { $loginTitle } kun tiu nomo de uzanto. <a data-l10n-name="duplicate-link">Ĉu iri al la ekzistanta elemento?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Eraro okazis dum konservo de tiu ĉi pasvorto.
 
@@ -297,10 +281,12 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Novaj legitimiloj aldonitaj:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Jamaj legitimiloj ĝisdatigitaj:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Duobligita legitimilo trovita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportita)</span>
@@ -312,6 +298,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Eraroj:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportitaj)</span>
     }
 about-logins-import-dialog-done = Farita
+
 about-logins-import-dialog-error-title = Enporta eraro
 about-logins-import-dialog-error-conflicting-values-title = Pluraj malkonsentaj valoroj por legitimilo
 about-logins-import-dialog-error-conflicting-values-description = Ekzemple: pluraj nomoj de uzanto, pasvortoj, retadresojn, ktp. por legitimilo.
@@ -325,8 +312,10 @@ about-logins-import-dialog-error-no-logins-imported = Neniu legitimilo estis enp
 about-logins-import-dialog-error-learn-more = Pli da informo
 about-logins-import-dialog-error-try-import-again = Klopodu enporti denove…
 about-logins-import-dialog-error-cancel = Nuligi
+
 about-logins-import-report-title = Resumo pri enporto
 about-logins-import-report-description = Akreditiloj kaj pasvortoj enportitaj en { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

@@ -7,9 +7,6 @@ third-party-section-title = Listo de moduloj de aliaj en { -brand-short-name }
 
 third-party-intro = Tiu ĉi paĝo montras la modulojn de aliaj, kiuj estis injektitaj en via { -brand-short-name }. Moduloj de aliaj estas tiuj, kiuj ne estas subskribitaj de Microsoft aŭ de { -vendor-short-name }.
 
-third-party-header-module-list = Listo de moduloj
-third-party-header-loading-events = Ŝargado de eventoj
-
 third-party-message-empty = Neniu modulo de aliaj estis trovita.
 third-party-message-no-duration = Ne registrita
 

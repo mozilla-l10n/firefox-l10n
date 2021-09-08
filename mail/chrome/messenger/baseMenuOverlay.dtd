@@ -11,10 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "H">
 <!ENTITY aboutProduct2.label "Pri &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "P">
-<!ENTITY helpTroubleshootingInfo.label     "Informoj por solvi problemojn">
-<!ENTITY helpTroubleshootingInfo.accesskey "s">
-<!ENTITY helpSafeMode.label     "Restartigi kun malaktivigitaj aldonaĵoj…">
-<!ENTITY helpSafeMode.accesskey "R">
 
 <!ENTITY productHelp.label "Helpo por &brandShortName;">
 <!ENTITY productHelp.accesskey "H">

@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Elekti ĉiujn langetojn
     .accesskey = E
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Malfari fermadon de langeto
-            [one] Malfari fermadon de langeto
-           *[other] Malfari fermadon de langetoj
-        }
-    .accesskey = M
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -57,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Alpingli al ekstra menuo
     .accesskey = p
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Aŭtomate kaŝi en ilaro
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Kaŝi butonon se la listo malplenas
     .accesskey = K
