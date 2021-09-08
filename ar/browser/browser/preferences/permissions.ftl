@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = احذف كل مواقع الوِب
     .accesskey = ذ
 
-permissions-button-cancel =
-    .label = ألغِ
-    .accesskey = ل
-
-permissions-button-ok =
-    .label = احفظ التغييرات
-    .accesskey = ح
-
 permission-dialog =
     .buttonlabelaccept = احفظ التغييرات
     .buttonaccesskeyaccept = ح

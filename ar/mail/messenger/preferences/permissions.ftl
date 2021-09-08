@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = الاستثناءات
     .style = width: 45em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = عنوان الموقع:
     .accesskey = و

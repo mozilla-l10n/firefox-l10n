@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = دائمًا
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] الخيارات
-       *[other] التفضيلات
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] ابحث في الخيارات
-           *[other] ابحث في التفضيلات
-        }
-
 settings-page-title = الإعدادات
 
 # This is used to determine the width of the search field in about:preferences,
@@ -65,10 +43,6 @@ category-search =
 pane-privacy-title = الخصوصية و الأمان
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 pane-sync-title3 = المزامنة
 category-sync3 =
@@ -113,14 +87,6 @@ restart-later = أعِد التشغيل لاحقًا
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = يتحكم أحد الامتدادات (<img data-l10n-name="icon"/> { $name }) في صفحتك الرئيسية.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = يتحكم أحد الامتدادات (<img data-l10n-name="icon"/> { $name }) في صفحة اللسان الجديد.
-
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = يتحكم أحد الامتدادات (<img data-l10n-name="icon"/> { $name }) في هذا الإعداد.
@@ -128,10 +94,6 @@ extension-controlled-password-saving = يتحكم أحد الامتدادات (<
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = يتحكّم الامتداد <img data-l10n-name="icon"/> { $name } بهذا الإعداد.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = ضبط أحد الامتدادات (<img data-l10n-name="icon"/> { $name }) محرك البحث المبدئي.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -157,13 +119,6 @@ extension-controlled-enable = لتفعيل الامتداد انتقل إلى <i
 search-results-header = نتائج البحث
 
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] للأسف لا نتائج في الخيارات عن ”<span data-l10n-name="query"></span>“.
-       *[other] للأسف لا نتائج في التفضيلات عن ”<span data-l10n-name="query"></span>“.
-    }
-
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = للأسف لا نتائج في الإعدادات عن ”<span data-l10n-name="query"></span>“.
 
 search-results-help-link = أتحتاج للمساعدة؟ زُر <a data-l10n-name="url">دعم { -brand-short-name }</a>
@@ -171,14 +126,6 @@ search-results-help-link = أتحتاج للمساعدة؟ زُر <a data-l10n-n
 ## General Section
 
 startup-header = البدء
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = اسمح بتشغيل { -brand-short-name } و Firefox في نفس الوقت
-use-firefox-sync = فائدة: يستخدم هذا ملفات إعدادات مستقلة. استخدم { -sync-brand-short-name } لمشاركة البيانات بينهما.
-get-started-not-logged-in = لِج إلى { -sync-brand-short-name }…
-get-started-configured = افتح تفضيلات { -sync-brand-short-name }
 
 always-check-default =
     .label = تحقق دائمًا من كون { -brand-short-name } متصفّحك المبدئي
@@ -218,10 +165,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = نبّهني عند فتح عدة ألسنة أن هذا قد يبطئ { -brand-short-name }
     .accesskey = ف
-
-switch-links-to-new-tabs =
-    .label = عند فتح رابط في لسان جديد، انتقل إليه مباشرة
-    .accesskey = ط
 
 show-tabs-in-taskbar =
     .label = أظهِر معاينات للألسنة في شريط مهام ويندوز
@@ -415,11 +358,6 @@ applications-manage-app =
     .label = تفاصيل التطبيق…
 applications-always-ask =
     .label = اسأل دائمًا
-applications-type-pdf = صيغة المستندات المحمولة (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -509,17 +447,6 @@ update-application-warning-cross-user-setting = سيُطبّق هذا الإعد
 update-application-use-service =
     .label = استخدم خدمة تعمل في الخلفية لتنصيب التحديثات
     .accesskey = خ
-
-update-setting-write-failure-title = حدث عُطل أثناء تحديث التفضيلات
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    واجه { -brand-short-name } عُطلًا ولم يحفظ هذا التغيير. كي تضبط تفضيل التحديث هذا سيكون عليك تقديم تصريحك للكتابة في الملف أدناه. يمكنك أنت أو يمكن لمدير النظام أن يحلّ هذا العُطل بمنح مجموعة ”المستخدمين/Users“ التصريح الكامل للتحكّم بهذا الملف.
-    
-    تعذّرت الكتابة في الملف: { $path }
 
 update-setting-write-failure-title2 = حدث عُطل أثناء تحديث الإعدادات
 
@@ -778,13 +705,9 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = اعرض اقتراحات البحث في النوافذ الخاصة
 
-suggestions-addressbar-settings-generic = غيّر تفضيلات اقتراحات شريط العنوان
-
 suggestions-addressbar-settings-generic2 = غيّر إعدادات اقتراحات شريط العنوان
 
 search-suggestions-cant-show = لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت { -brand-short-name } على ألّا يتذكر التأريخ.
-
-search-one-click-header = محركات البحث بنقرة واحدة
 
 search-one-click-header2 = اختصارات البحث
 
@@ -819,13 +742,6 @@ search-keyword-warning-bookmark = لقد اخترت كلمة مفتاحية تس
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] عُد إلى الخيارات
-           *[other] عُد إلى التفضيلات
-        }
-
 containers-back-button2 =
     .aria-label = عُد إلى الإعدادات
 containers-header = الألسنة الحاوية
@@ -837,9 +753,6 @@ containers-new-tab-check =
     .label = اختر حاويًا لكلّ لسان جديد
     .accesskey = خ
 
-containers-preferences-button =
-    .label = التفضيلات
-
 containers-settings-button =
     .label = الإعدادات
 containers-remove-button =
@@ -849,11 +762,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = خُذ الوِب معك
-sync-signedout-description = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و التفضيلات بين كل أجهزتك.
-
-sync-signedout-account-signin2 =
-    .label = لِج إلى { -sync-brand-short-name }…
-    .accesskey = ل
 
 sync-signedout-description2 = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و الإعدادات بين كل أجهزتك.
 
@@ -904,12 +812,6 @@ prefs-syncing-on = المزامنة: مفعلة
 
 prefs-syncing-off = المزامنة: معطلة
 
-prefs-sync-setup =
-    .label = اضبط { -sync-brand-short-name }…
-    .accesskey = ض
-
-prefs-sync-offer-setup-label = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و التفضيلات بين كل أجهزتك.
-
 prefs-sync-turn-on-syncing =
     .label = فعّل المزامنة…
     .accesskey = ف
@@ -932,11 +834,6 @@ sync-currently-syncing-logins-passwords = جلسات الولوج وكلمات �
 sync-currently-syncing-addresses = العناوين
 sync-currently-syncing-creditcards = بطاقات الائتمان
 sync-currently-syncing-addons = الإضافات
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] الخيارات
-       *[other] التفضيلات
-    }
 
 sync-currently-syncing-settings = الإعدادات
 
@@ -985,15 +882,6 @@ sync-engine-creditcards =
 sync-engine-addons =
     .label = الإضافات
     .tooltiptext = امتدادات و سمات لنسخة سطح المكتب من فَيَرفُكس
-    .accesskey = ت
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] الخيارات
-           *[other] التفضيلات
-        }
-    .tooltiptext = الإعدادات العامة، و إعدادات الخصوصية و الأمن التي غيرتها
     .accesskey = ت
 
 sync-engine-settings =
@@ -1051,9 +939,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = جلسات الولوج المحفوظة…
     .accesskey = ح
-forms-master-pw-use =
-    .label = استخدم كلمة سر رئيسيّة
-    .accesskey = خ
 forms-primary-pw-use =
     .label = استعمل كلمة سر رئيسيّة
     .accesskey = س
@@ -1065,7 +950,6 @@ forms-master-pw-change =
     .label = غيّر كلمة السر الرئيسيّة…
     .accesskey = ر
 
-forms-master-pw-fips-title = أنت حاليًّا في وضع FIPS. يتطلّب FIPS كلمة سر غير فارغة.
 forms-primary-pw-change =
     .label = غيّر كلمة السر الرئيسيّة…
     .accesskey = غ
@@ -1078,15 +962,6 @@ forms-primary-pw-fips-title = أنت حاليًّا في وضع FIPS. يتطلّ
 forms-master-pw-fips-desc = فشل تغيير كلمة السر
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = أدخِل معلومات ولوج وِندوز لتصنع كلمة سر رئيسية. يساعد هذا الأمر على حماية أمن حساباتك.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = إنشاء كلمة سر رئيسية
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = أدخِل معلومات ولوج وِندوز لتصنع كلمة سر رئيسية. يساعد هذا الأمر على حماية أمن حساباتك.
@@ -1204,10 +1079,6 @@ sitedata-clear =
 sitedata-settings =
     .label = أدِر البيانات…
     .accesskey = د
-
-sitedata-cookies-permissions =
-    .label = أدِر التصاريح
-    .accesskey = ص
 
 sitedata-cookies-exceptions =
     .label = أدِر الاستثناءات…
@@ -1382,12 +1253,6 @@ permissions-addon-exceptions =
     .label = الاستثناءات…
     .accesskey = ث
 
-permissions-a11y-privacy-checkbox =
-    .label = امنع خدمات الإتاحة من الوصول إلى حاسوبك
-    .accesskey = ت
-
-permissions-a11y-privacy-link = اطّلع على المزيد
-
 ## Privacy Section - Data Collection
 
 collection-header = جمع { -brand-short-name } للبيانات و استخدامها
@@ -1415,11 +1280,6 @@ addon-recommendations-link = اطّلع على المزيد
 # or builds with no Telemetry support available.
 collection-health-report-disabled = الإبلاغ عن البيانات معطّل في إعدادات البناء
 
-collection-backlogged-crash-reports =
-    .label = اسمح بأن يُرسل { -brand-short-name } بلاغات الانهيار المعلقة نيابة عنك
-    .accesskey = ع
-collection-backlogged-crash-reports-link = اطّلع على المزيد
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1446,16 +1306,6 @@ security-block-uncommon-software =
 
 certs-header = الشّهادات
 
-certs-personal-label = عندما يطلب خادوم شهادتي الشخصيّة
-
-certs-select-auto-option =
-    .label = حدد واحدة آليّا
-    .accesskey = ح
-
-certs-select-ask-option =
-    .label = اسألني كلّ مرّة
-    .accesskey = س
-
 certs-enable-ocsp =
     .label = استعلم من خواديم مستجيبي OCSP عن الصلاحية الحالية للشهادات
     .accesskey = س
@@ -1467,34 +1317,6 @@ certs-view =
 certs-devices =
     .label = أجهزة الأمن…
     .accesskey = ج
-
-space-alert-learn-more-button =
-    .label = اطّلع على المزيد
-    .accesskey = ط
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] افتح الخيارات
-           *[other] افتح التفضيلات
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ف
-           *[other] ف
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] مساحة القرص قاربت على النفاذ من { -brand-short-name }. قد لا يُعرض محتوى المواقع كما ينبغي. يمكنك مسح البيانات المحفوظة من ”الخيارات ← الخصوصية والأمان ← بيانات المواقع“.
-       *[other] مساحة القرص قاربت على النفاذ من { -brand-short-name }. قد لا يُعرض محتوى المواقع كما ينبغي. يمكنك مسح البيانات المحفوظة من ”التفضيلات ← الخصوصية والأمان ← بيانات المواقع“.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = حسنًا، فهمت
-    .accesskey = ح
-
-space-alert-under-5gb-message = مساحة القرص قاربت على النفاذ من { -brand-short-name }. قد لا يُعرض محتوى المواقع كما ينبغي. انتقل إلى ”اطّلع على المزيد“ لتحسين استخدام القرص لتصفح أحسن.
 
 space-alert-over-5gb-settings-button =
     .label = افتح الإعدادات

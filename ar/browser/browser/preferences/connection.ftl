@@ -35,19 +35,11 @@ connection-proxy-http = وسيط HTTP
     .accesskey = س
 connection-proxy-http-port = المنفذ
     .accesskey = م
-connection-proxy-http-sharing =
-    .label = استعمل هذا الوسيط لبروتوكولات FTP وHTTPS أيضًا
-    .accesskey = ك
 
 connection-proxy-https = وسيط HTTPS
     .accesskey = ط
 connection-proxy-ssl-port = المنفذ
     .accesskey = ن
-
-connection-proxy-ftp = وسيط FTP
-    .accesskey = و
-connection-proxy-ftp-port = المنفذ
-    .accesskey = ف
 
 connection-proxy-socks = مستضيف SOCKS
     .accesskey = ض
@@ -64,9 +56,6 @@ connection-proxy-noproxy = لا وسيط ل‍
     .accesskey = ل
 
 connection-proxy-noproxy-desc = مثلًا: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = ما من وسيط يقع بين اتصالك مع localhost و 127.0.0.1 و ‎::1 .
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = ما من وسيط يقع بين اتصالك مع localhost و 127.0.0.1/8 و ‎::1 .

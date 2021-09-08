@@ -5,9 +5,6 @@
 places-open =
     .label = افتح
     .accesskey = ف
-places-open-tab =
-    .label = افتح في لسان جديد
-    .accesskey = ل
 places-open-in-tab =
     .label = افتح في لسان جديد
     .accesskey = س
@@ -16,25 +13,6 @@ places-open-all-bookmarks =
     .accesskey = ف
 places-open-all-in-tabs =
     .label = افتح الكل في ألسنة
-    .accesskey = ف
-places-open-window =
-    .label = افتح في نافذة جديدة
-    .accesskey = ج
-places-open-private-window =
-    .label = افتح في نافذة خاصة جديدة
-    .accesskey = خ
-
-places-new-bookmark =
-    .label = علامة جديدة…
-    .accesskey = ع
-places-new-folder-contextmenu =
-    .label = مجلد جديد…
-    .accesskey = م
-places-new-folder =
-    .label = مجلد جديد…
-    .accesskey = ج
-places-new-separator =
-    .label = فاصل جديد
     .accesskey = ف
 
 places-open-in-window =
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = رتّب بالاسم
     .accesskey = ر
-places-properties =
-    .label = الخصائص
-    .accesskey = خ
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -131,3 +106,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = أدِر العلامات
     .accesskey = د
+

@@ -90,10 +90,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = غير مذيّل
 
-font-size-label =
-    .value = الحجم:
-    .accesskey = ح
-
 font-size-monospace-label =
     .value = الحجم:
     .accesskey = م

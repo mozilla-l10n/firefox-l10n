@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = خذ لقطة شاشة
-
-screenshots-my-shots-button = لقطاتي
-
 screenshot-toolbarbutton =
     .label = لقطة شاشة
     .tooltiptext = خُذ لقطة شاشة
@@ -40,8 +36,6 @@ screenshots-login-error-details = تعذّر حفظ لقطتك لعُطل في �
 
 screenshots-unshootable-page-error-title = تعذّر أخذ لقطة شاشة لهذه الصفحة.
 screenshots-unshootable-page-error-details = ليست هذه صفحة وِب قياسية، لذا لا يمكنك أخذ لقطة لها.
-
-screenshots-self-screenshot-error-title = لا يمكننا أخذ لقطة لصفحة من صفحات { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = التحديد صغير جدا
 

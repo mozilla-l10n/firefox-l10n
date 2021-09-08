@@ -5,11 +5,6 @@
 containers-window-new =
     .title = أضف حاوية جديدة
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = تفضيلات الحاوية { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = الأيقونة
 containers-color-label = اللون
     .accesskey = ل
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = تم
-    .accesskey = ت
 
 containers-dialog =
     .buttonlabelaccept = تم
