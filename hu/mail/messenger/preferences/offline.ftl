@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = A felismert online állapot követése automatikusan
     .accesskey = f
 
-startup-label = Kézi állapot indításkor:
-
 offline-preference-startup-label = Kézi állapot indításkor:
 
 status-radio-remember =

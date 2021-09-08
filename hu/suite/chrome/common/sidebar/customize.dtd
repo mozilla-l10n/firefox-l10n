@@ -4,12 +4,6 @@
 
 <!-- extracted from ./customize.xul -->
 
-<!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "Az Oldalsáv (&sidebarName;) testreszabása">
-<!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Panellapok az Oldalsávon (&sidebarName;):">
-<!ENTITY sidebar.customize.current.accesskey    "T">
-
 <!ENTITY sidebar.customize.title                "Az Oldalsáv testreszabása">
 <!ENTITY sidebar.customize.current2.label       "Lapok az oldalsávban:">
 <!ENTITY sidebar.customize.current2.accesskey   "T">

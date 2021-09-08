@@ -129,10 +129,6 @@ openpgp-key-send-key =
     .label = Nyilvános kulcs küldése e-mailben
     .accesskey = k
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Nyilvános kulcs vágólapra másolása
-    .accesskey = m
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -159,8 +155,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Kulcsok exportálása fájlba
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Nyilvános kulcsok vágólapra másolása
 
 openpgp-key-man-ctx-copy =
     .label = Másolás
@@ -312,15 +306,6 @@ openpgp-description =
        *[other] A Thunderbird { $count } személyes OpenPGP-kulcsot köt a következőhöz: <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Válasszon érvényes kulcsot az OpenPGP-protokoll használatához.
-        [one] A jelenlegi konfiguráció a(z) <b>{ $key }</b> kulcsazonosítót használja.
-       *[other] A jelenlegi konfiguráció a(z) <b>{ $key }</b> kulcsazonosítót használja.
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = A jelenlegi konfiguráció a(z) <b>{ $key }</b> kulcsazonosítót használja.
 
@@ -353,14 +338,8 @@ openpgp-radio-key-not-found = Ez a kulcs nem található. Ha használná, akkor 
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Lejár: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = A kulcs kevesebb, mint 6 hónap alatt jár le
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Lejárt: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = A kulcs lejárt
 
 openpgp-key-expires-within-6-months-icon =
     .title = A kulcs kevesebb, mint 6 hónap múlva lejár
@@ -684,7 +663,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     { $width } karakteresre állította a sortördelést. A helyes titkosításhoz és aláíráshoz ennek az értéknek legalább 68-nak kell lennie.
     68 karakteresre állítja a sortördelést?
-sending-hidden-rcpt = A BCC (titkos másolat) címzettek nem használhatók titkosított üzenetek küldésekor. Titkosított üzenet küldéséhez távolítsa el a BCC címzetteket, vagy helyezze át azokat a CC mezőbe.
 sending-news =
     A titkosított küldési művelet megszakítva.
     Ezt az üzenetet nem lehet titkosítani, mert vannak hírcsoport-címzettek. Küldje el újra az üzenetet titkosítás nélkül.
@@ -751,9 +729,6 @@ enig-info = OpenPGP információ
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = Új&ra
 dlg-button-skip = &Kihagyás
-
-# Strings used in enigmailCommon.js
-enig-error = OpenPGP hiba
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

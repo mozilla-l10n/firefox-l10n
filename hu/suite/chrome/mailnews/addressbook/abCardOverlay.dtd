@@ -142,7 +142,6 @@
 
 <!ENTITY Photo.tab                      "Fotó">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Válasszon a következők közül:">
 <!ENTITY GenericPhoto.label             "Általános fotó">
 <!ENTITY GenericPhoto.accesskey         "l">
 <!ENTITY DefaultPhoto.label             "Alapértelmezett">

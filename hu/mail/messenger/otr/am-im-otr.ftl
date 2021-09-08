@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR-beállítások
 otr-log =
     .label = Vegye fel az OTR-titkosított üzeneteket a beszélgetési naplókba
-otr-requireEncryption =
-    .label = Végpontok közötti titkosítás megkövetelése a négyszemközti beszélgetésekhez
-otr-verifyNudge =
-    .label = Mindig emlékeztessen az ellenőrizetlen partnerek ellenőrzésére
-
-otr-notYetAvailable = még nem érhető el
 
 otr-require-encryption =
     .label = Végpontok közötti titkosítás megkövetelése a négyszemközti beszélgetésekhez

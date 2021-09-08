@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Képernyőkép készítése
-
-screenshots-my-shots-button = Az Ön képei
-
 screenshot-toolbarbutton =
     .label = Képernyőkép
     .tooltiptext = Képernyőkép készítése
@@ -40,8 +36,6 @@ screenshots-login-error-details = Nem tudtuk elmenteni a képét, mert probléma
 
 screenshots-unshootable-page-error-title = Nem lehet képet készíteni erről a lapról.
 screenshots-unshootable-page-error-details = Ez egy nem szabványos weblap, így nem készíthet róla képernyőképet.
-
-screenshots-self-screenshot-error-title = Nem készíthet képet a { -screenshots-brand-name } oldalról!
 
 screenshots-empty-selection-error-title = A kijelölés túl kicsi
 

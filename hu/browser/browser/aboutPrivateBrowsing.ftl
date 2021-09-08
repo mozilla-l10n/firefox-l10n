@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Privát ablak megnyitása
 about-private-browsing-search-placeholder = Keresés a weben
 about-private-browsing-info-title = Jelenleg privát ablakban van
 about-private-browsing-info-myths = Gyakori tévhitek a privát böngészésről
-about-private-browsing =
-    .title = Keresés a weben
 about-private-browsing-search-btn =
     .title = Keresés a weben
 # Variables
@@ -23,12 +21,16 @@ about-private-browsing-handoff-text = Keressen a(z) { $engine } keresővel vagy 
 about-private-browsing-handoff-text-no-engine = Keressen, vagy adjon meg címet
 about-private-browsing-not-private = Jelenleg nem privát ablakot használ.
 about-private-browsing-info-description = A { -brand-short-name } törli a keresési és böngészési előzményeit, ha kilép az alkalmazásból, vagy bezárja az összes privát böngészési lapot és ablakot. Ugyan ez nem teszi névtelenné a weboldalak vagy a szolgáltatója felé, könnyebbé teszi, hogy bizalmasan kezelje az online tevékenységét, és más ne tudjon róla, aki ezt a számítógépet használja.
+
 about-private-browsing-need-more-privacy = Több adatvédelemre van szüksége?
 about-private-browsing-turn-on-vpn = Próbálja ki a { -mozilla-vpn-brand-name }-t
+
 about-private-browsing-info-description-simplified = A { -brand-short-name } törli a keresési és böngészési előzményeket, amikor bezárja az összes privát ablakot, de ez nem teszi névtelenné.
 about-private-browsing-learn-more-link = További tudnivalók
+
 about-private-browsing-hide-activity = Rejtse el tevékenységét és tartózkodási helyét, bárhol is böngésszen
 about-private-browsing-prominent-cta = Maradjon privát a { -mozilla-vpn-brand-name } használatával
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

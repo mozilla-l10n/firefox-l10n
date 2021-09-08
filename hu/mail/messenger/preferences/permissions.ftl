@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Kivételek
     .style = width: 45em;
 
-window-close-key =
-    .key = w
-
 permission-preferences-close-window =
     .key = w
 

@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Új konténer hozzáadása
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } konténer beállításai
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Ikon
 containers-color-label = Szín
     .accesskey = z
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Kész
-    .accesskey = K
 
 containers-dialog =
     .buttonlabelaccept = Kész

@@ -8,9 +8,6 @@
 newtab-page-title = Új lap
 newtab-settings-button =
     .title = Az Új lap oldal személyre szabása
-newtab-personalize-button-label = Testreszabás
-    .title = Új lap testreszabása
-    .aria-label = Új lap testreszabása
 newtab-personalize-icon-label =
     .title = Új lap testreszabása
     .aria-label = Új lap testreszabása
@@ -23,7 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Keresés
     .aria-label = Keresés
-newtab-search-box-search-the-web-text = Keresés a weben
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Keressen a(z) { $engine } keresővel vagy adjon meg egy címet
@@ -38,10 +35,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Keressen, vagy adjon meg címet
     .title = Keressen, vagy adjon meg címet
     .aria-label = Keressen, vagy adjon meg címet
+
 newtab-search-box-search-the-web-input =
     .placeholder = Keresés a weben
     .title = Keresés a weben
     .aria-label = Keresés a weben
+
 newtab-search-box-text = Keresés a weben
 newtab-search-box-input =
     .placeholder = Keresés a weben
@@ -57,10 +56,12 @@ newtab-topsites-edit-shortcut-header = Gyorskereső szerkesztése
 newtab-topsites-title-label = Cím
 newtab-topsites-title-input =
     .placeholder = Cím megadása
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Írjon vagy illesszen be egy URL-t
 newtab-topsites-url-validation = Érvényes URL szükséges
+
 newtab-topsites-image-url-label = Egyéni kép URL
 newtab-topsites-use-image-link = Egyéni kép használata…
 newtab-topsites-image-validation = A kép betöltése nem sikerült. Próbáljon meg egy másik URL-t.
@@ -89,10 +90,12 @@ newtab-topsite-sponsored = Szponzorált
 newtab-menu-section-tooltip =
     .title = Menü megnyitása
     .aria-label = Menü megnyitása
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Eltávolítás
     .aria-label = Eltávolítás
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -165,10 +168,12 @@ newtab-label-removed-bookmark = Könyvjelző törölve
 newtab-label-recommended = Népszerű
 newtab-label-saved = Mentve a { -pocket-brand-name }be
 newtab-label-download = Letöltve
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Szponzorált
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -207,6 +212,7 @@ newtab-section-header-pocket = A(z) { $provider } ajánlásával
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Kezdjen el böngészni, és itt fognak megjelenni azok a nagyszerű cikkek, videók és más lapok, amelyeket nemrég meglátogatott vagy könyvjelzőzött.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -252,10 +258,4 @@ newtab-custom-pocket-sponsored = Szponzorált történetek
 newtab-custom-recent-title = Legutóbbi tevékenység
 newtab-custom-recent-subtitle = Válogatás a legutóbbi webhelyekből és tartalmakból
 newtab-custom-close-button = Bezárás
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Töredékek
-newtab-custom-snippets-subtitle = Tippek és hírek a { -vendor-short-name } és a { -brand-product-name } felől
 newtab-custom-settings = További beállítások kezelése

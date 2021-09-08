@@ -19,10 +19,6 @@
 <!ENTITY savePageCmd.label "Oldal mentése…">
 <!ENTITY savePageCmd.accesskey "m">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Oldalbeállítás…">
-<!ENTITY pageSetupCmd.accesskey "b">
-<!ENTITY printPreviewCmd.label "Nyomtatási kép">
-<!ENTITY printPreviewCmd.accesskey "k">
 <!ENTITY printCmd.label "Nyomtatás…">
 <!ENTITY printCmd.accesskey "o">
 <!ENTITY printCmd.commandkey "P">

@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = { -brand-short-name } beállítások
 
 open-addons-sidebar-button = Kiegészítők és témák
+

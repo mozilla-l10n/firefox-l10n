@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Minden webhely eltávolítása
     .accesskey = d
 
-translation-button-close =
-    .label = Bezárás
-    .accesskey = B
-
 translation-dialog =
     .buttonlabelaccept = Bezárás
     .buttonaccesskeyaccept = B

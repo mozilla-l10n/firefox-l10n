@@ -11,9 +11,6 @@ third-party-intro =
     Microsoft vagy a { -vendor-short-name } írt alá, harmadik féltől
     származónak számít.
 
-third-party-header-module-list = Modullista
-third-party-header-loading-events = Események betöltése
-
 third-party-message-empty = Nem észlelhetők harmadik féltől származó modulok.
 third-party-message-no-duration = Nincs rögzítve
 

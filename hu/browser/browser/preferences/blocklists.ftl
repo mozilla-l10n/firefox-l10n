@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Listázás
 
-blocklist-button-cancel =
-    .label = Mégse
-    .accesskey = M
-
-blocklist-button-ok =
-    .label = Változtatások mentése
-    .accesskey = V
-
 blocklist-dialog =
     .buttonlabelaccept = Változtatások mentése
     .buttonaccesskeyaccept = V

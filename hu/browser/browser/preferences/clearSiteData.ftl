@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = A weboldalaknak újra kell majd tölteniük a képeket és az adatokat
 
-clear-site-data-cancel =
-    .label = Mégse
-    .accesskey = M
-
-clear-site-data-clear =
-    .label = Törlés
-    .accesskey = T
-
 clear-site-data-dialog =
     .buttonlabelaccept = Törlés
     .buttonaccesskeyaccept = T
