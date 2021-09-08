@@ -5,28 +5,9 @@
 places-open =
     .label = Bula
     .accesskey = l
-places-open-tab =
-    .label = Bula go thepo e mpsha
-    .accesskey = m
 places-open-all-in-tabs =
     .label = Bula tšohle ka dithepo
     .accesskey = l
-places-open-window =
-    .label = Bula go lefasetere le leswa
-    .accesskey = e
-
-places-new-bookmark =
-    .label = Pukutshwayo e mpsha…
-    .accesskey = P
-places-new-folder-contextmenu =
-    .label = Foltara e mpsha…
-    .accesskey = F
-places-new-folder =
-    .label = Foltara e mpsha…
-    .accesskey = o
-places-new-separator =
-    .label = Sekgaoganyi se seswa
-    .accesskey = S
 
 places-view =
     .label = Tebelelo
@@ -53,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Hlopha ka leina
     .accesskey = r
-places-properties =
-    .label = Dipharologantšho
-    .accesskey = i
 

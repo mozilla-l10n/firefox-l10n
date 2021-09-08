@@ -101,8 +101,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Nomoro ya tlhatlamano
 
-fips-nonempty-password-required = Mokgwa wa FIPS o nyaka gore o be le Lentšuphetitšo la Motheo leo le beakanyeditšwego bakeng sa setlabakelo se sengwe le se sengwe sa tšhireletšo. Ka kgopelo beakanya lentšuphetetšo pele o ka palediša mokgwa wa FIPS.
-
 add-module-failure = Ga le kgone go lokela motšule
 del-module-warning = Naa o na le bonnete bja gore o nyaka go phumula motšule wo wa tšhireletšo?
 del-module-error = Ga le kgone go phumula motšule

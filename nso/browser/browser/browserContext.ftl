@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,9 +48,6 @@ main-context-menu-page-save =
     .label = Boloka letlakala e le…
     .accesskey = e
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -81,10 +66,6 @@ main-context-menu-open-link-new-private-window =
     .label = Bula lomaganyo go lefasetere le leswa la praebete
     .accesskey = p
 
-main-context-menu-bookmark-this-link =
-    .label = Pukuswaya lomaganyo ye
-    .accesskey = l
-
 main-context-menu-save-link =
     .label = Boloka lomaganyo e le…
     .accesskey = n
@@ -100,10 +81,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Kopiša aterese ya imeile
     .accesskey = a
-
-main-context-menu-copy-link =
-    .label = Kopiša lefelo la lomaganyo
-    .accesskey = e
 
 ## Media (video/audio) controls
 ##
@@ -154,29 +131,9 @@ main-context-menu-image-reload =
     .label = Hlahlela foreime gape
     .accesskey = H
 
-main-context-menu-image-view =
-    .label = Lebelela seswantšho
-    .accesskey = s
-
-main-context-menu-video-view =
-    .label = Lebelela bidio
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = Kopiša seswantšho
     .accesskey = a
-
-main-context-menu-image-copy-location =
-    .label = Kopiša lefelo la seswantšho
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Kopiša lefelo la seswantšho
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Kopiša lefelo la setheeletšwa
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = Boloka seswantšho e le…
@@ -186,10 +143,6 @@ main-context-menu-image-email =
     .label = Seswantšho sa imeile...
     .accesskey = o
 
-main-context-menu-image-set-as-background =
-    .label = Beakanya e le bokamorago bja tesekethopo…
-    .accesskey = B
-
 main-context-menu-image-info =
     .label = Lebelela tshedimošo ya seswantšho
     .accesskey = t
@@ -197,10 +150,6 @@ main-context-menu-image-info =
 main-context-menu-audio-save-as =
     .label = Boloka setheeletšwa e le…
     .accesskey = o
-
-main-context-menu-video-image-save-as =
-    .label = Boloka seswantšho e le...
-    .accesskey = B
 
 main-context-menu-video-email =
     .label = Bidio ya imeile...
@@ -213,10 +162,6 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Fihla tsebišo-koketšo ye
     .accesskey = h
-
-main-context-menu-view-background-image =
-    .label = Lebelela seswantšho sa ka morago
-    .accesskey = e
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -276,10 +221,6 @@ main-context-menu-view-page-source =
     .label = Lebelela mothopo wa letlakala
     .accesskey = L
 
-main-context-menu-view-page-info =
-    .label = Lebelela tshedimošo ya letlakala
-    .accesskey = t
-
 main-context-menu-bidi-switch-text =
     .label = Switšha tšhupetšo ya sengwalwa
     .accesskey = w
@@ -287,8 +228,4 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Switšha moo letlakala le lebilego
     .accesskey = e
-
-main-context-menu-inspect-element =
-    .label = Setho sa go hlahloba
-    .accesskey = Q
 

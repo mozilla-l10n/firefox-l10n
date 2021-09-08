@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Tlwaelanya…
-
 ## Zoom Controls
 
 appmenuitem-new-window =
@@ -24,8 +21,6 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Nyalantšha gona bjale
 appmenuitem-save-page =
     .label = Boloka letlakala e le…
 

@@ -84,9 +84,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Lokiša
     .accesskey = L
-menu-edit-find-on =
-    .label = Hwetša mo letlakaleng le…
-    .accesskey = H
 menu-edit-find-again =
     .label = Hwetša gape
     .accesskey = a
@@ -102,9 +99,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Dithulupaa
     .accesskey = D
-menu-view-customize-toolbar =
-    .label = Tlwaelanya…
-    .accesskey = T
 menu-view-sidebar =
     .label = Para ya ka thoko
     .accesskey = r
@@ -169,8 +163,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Dipukutshwayo
     .accesskey = k
-menu-bookmarks-show-all =
-    .label = Laetša dipukutshwayo tšohle
 menu-bookmark-edit =
     .label = Lokiša pukutshwayo ye
 menu-bookmarks-all-tabs =
@@ -186,32 +178,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Ditaollo
     .accesskey = D
-menu-tools-addons =
-    .label = Dikoketšo
-    .accesskey = D
 menu-tools-sync-now =
     .label = Nyalantšha gona bjale
     .accesskey = a
-menu-tools-web-developer =
-    .label = Mohlabollodi wa wepe
-    .accesskey = w
 menu-tools-page-source =
     .label = Mothopo wa letlakala
     .accesskey = o
 menu-tools-page-info =
     .label = Tshedimošo ya letlakala
     .accesskey = T
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Dikgetho
-           *[other] Dikganyogo
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] D
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -242,12 +217,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Thušo
     .accesskey = T
-menu-help-troubleshooting-info =
-    .label = Tshedimošo ya go rarolla mathata
-    .accesskey = t
 menu-help-feedback-page =
     .label = Iša dipoelo…
     .accesskey = I
-menu-help-safe-mode-without-addons =
-    .label = Thoma ka leswa o šitišitše ditlaleletši…
-    .accesskey = T

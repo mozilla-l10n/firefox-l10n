@@ -15,10 +15,6 @@ move-to-new-window =
     .label = Šuthela go lefasetere le leswa
     .accesskey = w
 
-close-tab =
-    .label = Tswalela thepo
-    .accesskey = T
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 

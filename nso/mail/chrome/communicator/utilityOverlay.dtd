@@ -18,8 +18,6 @@
 <!ENTITY redoCmd.accesskey "d">
 <!ENTITY deleteCmd.label "Phumula">
 <!ENTITY deleteCmd.accesskey "p">
-<!ENTITY preferencesCmdUnix.label "Dipharologantšho">
-<!ENTITY preferencesCmdUnix.accesskey "l">
 
 <!ENTITY viewMenu.label "Lebelela">
 <!ENTITY viewMenu.accesskey "l">
