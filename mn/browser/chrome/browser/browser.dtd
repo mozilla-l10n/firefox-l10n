@@ -49,14 +49,6 @@ when there are no windows but Firefox is still running. -->
 
 
 
-<!ENTITY personalbarCmd.label "Хаягийн Багажит самбар">
-<!ENTITY personalbarCmd.accesskey "м">
-<!ENTITY bookmarksToolbarItem.label "Хаягийн багажит самбарын зүйлс">
-
-
-
-
-
 
 
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -81,10 +73,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
@@ -95,14 +84,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
-
-
-
-<!ENTITY bookmarksToolbarChevron.tooltip "Нэмэлт хаягнуудыг харуул">
 
 
 
@@ -147,19 +128,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY searchBookmarks.label              "Хадгалсан хаяганд хайх">
-
-
-
-
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
 
 <!ENTITY downloads.label              "Татаж авсан файлууд">
-
-<!ENTITY addons.label                 "Нэмэгдлүүд">
 
 
 
@@ -182,10 +156,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY historyMenu.label "Түүх">
-
-<!ENTITY historyUndoMenu.label "Сүүлд хаагдсан самбарууд">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Сүүлд хаагдсан самбарууд">
 
 
 
@@ -334,14 +304,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY fullZoom.label                 "Харуулах хэмжээ">
-
-
-
-<!ENTITY quitApplicationCmdWin2.label       "Гарах">
-<!ENTITY quitApplicationCmdWin2.accesskey   "Г">
-
-<!ENTITY quitApplicationCmd.label       "Гарах">
-<!ENTITY quitApplicationCmd.accesskey   "Г">
 
 
 

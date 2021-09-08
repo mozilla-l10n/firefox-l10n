@@ -6,9 +6,6 @@ password-quality-meter = Нууц үгийн чанарын хэмжүүр
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Мастер нууц үгийг соль
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Нууцлалын төхөөрөмж: { $tokenName }
@@ -17,10 +14,6 @@ change-password-new = Шинэ нууц үг:
 change-password-reenter = Шинэ нууц үг (дахиад):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Мастер Нууц үгийг дахин сэргээх
-    .style = width: 40em
 
 ## Reset Primary Password dialog
 

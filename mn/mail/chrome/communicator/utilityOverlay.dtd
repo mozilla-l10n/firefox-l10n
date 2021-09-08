@@ -19,9 +19,6 @@
 <!ENTITY redoCmd.accesskey					"д">  
 <!ENTITY deleteCmd.label					"Устга">  
 <!ENTITY deleteCmd.accesskey				"у">  
-<!ENTITY preferencesCmdUnix.label       "Тохируулга">
-<!ENTITY preferencesCmdUnix.accesskey     "и"> 
-
 <!ENTITY viewMenu.label					"Харагдац"> 
 <!ENTITY viewMenu.accesskey				"ц"> 
 <!ENTITY viewToolbarsMenu.label				"Харуул/Нуу"> 
