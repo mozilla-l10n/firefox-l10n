@@ -79,10 +79,6 @@
 <!ENTITY printCmd.label "Gatisa...">
 <!ENTITY printCmd.accesskey "G">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Tebopele ya Kgatiso">
-<!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printSetupCmd.label "Boalo jwa Tsebe...">
-<!ENTITY printSetupCmd.accesskey "b">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Phimola Molaetsa">
@@ -444,8 +440,6 @@
 <!ENTITY addressBookCmd.label "Buka ya Diaterese">
 <!ENTITY addressBookCmd.accesskey "B">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "Activity Manager">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Chat status">
@@ -503,15 +497,11 @@
 <!ENTITY backButton1.label "Back">
 <!ENTITY goForwardButton1.label "Forward">
 <!ENTITY deleteItem.title "Delete">
-<!ENTITY deleteButton.label "Phimola">
-<!ENTITY undeleteButton.label "Undelete">
 <!ENTITY markButton.label "Tshwaya">
 <!ENTITY printButton.label "Gatisa">
 <!ENTITY stopButton.label "Emisa">
 <!ENTITY throbberItem.title "Sesupi sa Tiragalo">
 <!ENTITY junkItem.title "Junk">
-<!ENTITY junkButton.label "Matlakala">
-<!ENTITY notJunkButton.label "E seng Matlakala">
 <!ENTITY addressBookButton.label "Buka ya Diaterese">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Global Search">
@@ -542,13 +532,9 @@
 <!ENTITY previousMsgButton.tooltip "Move to the previous message">
 <!ENTITY goForwardButton.tooltip "Go forward one message">
 <!ENTITY goBackButton.tooltip "Go back one message">
-<!ENTITY deleteButton.tooltip "Phimola molaetsa gongwe setsholadifaele se se tlhophilweng">
-<!ENTITY undeleteButton.tooltip "Undelete selected message">
 <!ENTITY markButton.tooltip "Tshwaya melaetsa">
 <!ENTITY printButton.tooltip "Gatisa molaetsa ono">
 <!ENTITY stopButton.tooltip "Emisa phetiso ya ga jaana">
-<!ENTITY junkButton.tooltip "Tshwaya melaetsa e e tlhophilweng jaaka matlakala">
-<!ENTITY notJunkButton.tooltip "Tshwaya melaetsa e e tlhophilweng jaaka e e seng matlakala">
 <!ENTITY addressBookButton.tooltip "Tsamaela kwa bukeng ya diaterese">
 <!ENTITY chatButton.tooltip "Show the Chat tab">
 <!ENTITY tagButton.tooltip "Tag messages">

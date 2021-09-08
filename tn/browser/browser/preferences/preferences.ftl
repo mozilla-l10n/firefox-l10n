@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Diitlhophelwa
-       *[other] Diratwabogolo
-    }
-
 pane-general-title = Ka kakaretso
 category-general =
     .tooltiptext = { pane-general-title }
@@ -44,12 +38,6 @@ should-restart-title = Simolola { -brand-short-name } sešwa
 ## General Section
 
 startup-header = Tshimololosešwa
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Letlelela { -brand-short-name } le Firefox go dira ka nako e le nngwe
-use-firefox-sync = Tlhababotlhale: Se se dirisa diporofaele tse di kgaoganeng. Dirisa thulaganyo ka tsamaiso go aba tshedimosetso fa gare ga tsone.
 
 is-default = { -brand-short-name } ga jaana ke sebatli sebatli sa gago sa thulaganyetsoruri
 is-not-default = { -brand-short-name } ga se sebatli sa gago sa thulaganyetsoruri
@@ -122,10 +110,6 @@ applications-action-save =
     .label = Boloka Faele
 
 applications-select-helper = Tlhopha Serweboleta sa Mothusi
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -259,8 +243,6 @@ sync-signedin-unverified = { $email } ga e a netefadiwa.
 
 
 ## Privacy Section - Logins and Passwords
-
-forms-master-pw-fips-title = Ga jaana o mo mokgweng wa FIPS. FIPS e tlhoka Khunololamoraba e Kgolo e e seng lolea.
 
 forms-master-pw-fips-desc = Phetolo ya Khunololamoraba e retetse
 

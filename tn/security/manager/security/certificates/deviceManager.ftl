@@ -69,8 +69,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Palopopo
 
-fips-nonempty-password-required = Mokgwa wa FIPS o tlhoka gore o tlhome Khunololamoraba e Kgolo ya sediriswa sengwe le sengwe sa pabalesego. Tsweetswee tlhoma khunololamoraba pele ga o ka leka go kgontsha mokgwa wa FIPS.
-
 add-module-failure = Ga e kgone go tsenya mmojule
 del-module-warning = A o totobetse gore o batla go phimola mmojule ono wa pabalesego?
 del-module-error = Ga e kgone go phimola mmojule

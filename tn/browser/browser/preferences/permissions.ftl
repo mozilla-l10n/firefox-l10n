@@ -8,10 +8,6 @@ permissions-close-key =
 permissions-status =
     .label = Maemo
 
-permissions-button-cancel =
-    .label = Khansela
-    .accesskey = K
-
 permissions-capabilities-allow =
     .label = Letlelela
 permissions-capabilities-block =

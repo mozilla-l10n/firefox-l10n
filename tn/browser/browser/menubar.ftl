@@ -104,9 +104,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Tseleganya
     .accesskey = T
-menu-edit-find-on =
-    .label = Batla mo Tsebeng e…
-    .accesskey = B
 menu-edit-find-again =
     .label = Batla Gape
     .accesskey = a
@@ -122,9 +119,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Dibara tsa Didiriswa
     .accesskey = D
-menu-view-customize-toolbar =
-    .label = tshwanedisa...
-    .accesskey = t
 menu-view-sidebar =
     .label = Barathoko
     .accesskey = B
@@ -197,10 +191,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Matshwaotsebe
     .accesskey = M
-menu-bookmarks-show-all =
-    .label = Supa Matshwaotsebe Otlhe
-menu-bookmark-this-page =
-    .label = Tshwaya Tsebe e
 menu-bookmark-edit =
     .label = Tseleganya letshwaotsebe le
 menu-bookmarks-all-tabs =
@@ -216,32 +206,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Dikopololo
     .accesskey = D
-menu-tools-addons =
-    .label = Dioketswa
-    .accesskey = D
 menu-tools-sync-now =
     .label = Rulaganya ka tsamaisano gone Jaana
     .accesskey = R
-menu-tools-web-developer =
-    .label = Mmopi wa Webo
-    .accesskey = M
 menu-tools-page-source =
     .label = Motswedi wa Tsebe
     .accesskey = o
 menu-tools-page-info =
     .label = Tshedimosetso ya Tsebe
     .accesskey = T
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Ditlhophelwa
-           *[other] Diratwabogolo
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] D
-           *[other] D
-        }
 
 ## Window Menu
 
@@ -272,24 +245,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Thuso
     .accesskey = T
-menu-help-product =
-    .label = { -brand-shorter-name } Thuso
-    .accesskey = T
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Tsaya Loeto
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = Keyboard Ditlhabanyetso
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Tharabololobothata ya Tshedimosetso
-    .accesskey = T
 menu-help-feedback-page =
     .label = Romela tshwaelo ka maitemogelo...
     .accesskey = R
-menu-help-safe-mode-without-addons =
-    .label = Simolodisa gape ka di oketswa di Thibetswe go dira
-    .accesskey = S
-menu-help-safe-mode-with-addons =
-    .label = Simolola sešwa ka dioketswa di kgontshitswe
-    .accesskey = S
