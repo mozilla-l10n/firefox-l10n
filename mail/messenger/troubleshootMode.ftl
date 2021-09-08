@@ -5,3 +5,4 @@
 troubleshoot-mode-disable-addons =
     .label = Deshabilitar todos los complementos
     .accesskey = D
+

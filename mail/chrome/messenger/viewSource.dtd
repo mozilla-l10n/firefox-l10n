@@ -19,10 +19,6 @@
 <!ENTITY savePageCmd.label "Guardar página como…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Ajuste de página…">
-<!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Vista previa">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">

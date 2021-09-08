@@ -6,4 +6,6 @@
 ## Message Header Encryption Button
 
 message-header-show-security-info-key = S
+
 openpgp-openpgp = OpenPGP
+

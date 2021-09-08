@@ -5,6 +5,7 @@
 compact-dialog-window =
     .title = Compactar carpetas
     .style = width: 50em;
+
 compact-dialog =
     .buttonlabelaccept = Compactar ahora
     .buttonaccesskeyaccept = C
@@ -12,3 +13,4 @@ compact-dialog =
     .buttonaccesskeycancel = R
     .buttonlabelextra1 = Saber más…
     .buttonaccesskeyextra1 = L
+

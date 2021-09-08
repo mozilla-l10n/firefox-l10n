@@ -4,19 +4,24 @@
 
 account-central-title = Bienvenido a { -brand-full-name }
 account-settings = Configuraciones de la cuenta
+
 about-title = Acerca de { -brand-full-name }
 resources-title = Recursos
+
 release-notes =
     .title = Acerca de { -brand-full-name }
+
 calendar-label = Calendario
     .aria-label = Crear un nuevo calendario
+
 addressbook-label = Libreta de direcciones
     .aria-label = Crear una nueva libreta de direcciones
-about-donation = hacer una donación
+
 explore-link = Explorar características
 support-link = Soporte
 involved-link = Involúcrate
 developer-link = Documentación para desarrolladores
+
 read = Leer mensajes
 compose = Escribir un nuevo mensaje
 search = Buscar mensajes

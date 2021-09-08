@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Seguir automáticamente el estado de conexión detectado
     .accesskey = d
 
-startup-label = Estado manual al iniciar:
-
 offline-preference-startup-label = Estado manual al iniciar:
 
 status-radio-remember =
