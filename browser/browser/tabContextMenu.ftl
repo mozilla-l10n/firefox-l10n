@@ -41,9 +41,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = বুকমার্ক ট্যাব
     .accesskey = B
-reopen-in-container =
-    .label = কনটেইনার পুনরায় খুলুন
-    .accesskey = e
 move-to-start =
     .label = শুরুতে যাও
     .accesskey = S
@@ -53,18 +50,6 @@ move-to-end =
 move-to-new-window =
     .label = নতুন উইন্ডোতে স্থানান্তর W
     .accesskey = W
-close-tab =
-    .label = ট্যাব বন্ধ C
-    .accesskey = C
-close-tabs =
-    .label = ট্যাব বন্ধ করুন
-    .accesskey = S
-move-tabs =
-    .label = ট্যাব স্থানান্তর
-    .accesskey = v
-move-tab =
-    .label = ট্যাব স্থানান্তর
-    .accesskey = v
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

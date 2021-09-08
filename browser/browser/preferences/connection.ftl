@@ -39,11 +39,6 @@ connection-proxy-http-port = পোর্ট
 connection-proxy-ssl-port = পোর্ট
     .accesskey = o
 
-connection-proxy-ftp = FTP প্রক্সি
-    .accesskey = F
-connection-proxy-ftp-port = পোর্ট
-    .accesskey = r
-
 connection-proxy-socks = SOCKS হোস্ট
     .accesskey = C
 connection-proxy-socks-port = পোর্ট

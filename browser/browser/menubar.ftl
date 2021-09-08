@@ -107,9 +107,6 @@ menu-file-go-offline =
 menu-edit =
     .label = সম্পাদনা
     .accesskey = E
-menu-edit-find-on =
-    .label = এই পাতায় অনুসন্ধান…
-    .accesskey = F
 menu-edit-find-again =
     .label = পুনরায় খুঁজুন
     .accesskey = g
@@ -125,9 +122,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = টুলবার
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = নিজের পছন্দানুযায়ী নির্বাচন…
-    .accesskey = C
 menu-view-sidebar =
     .label = সাইডবার
     .accesskey = e
@@ -158,9 +152,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = মৌলিক পাতাশৈলী
     .accesskey = B
-menu-view-charset =
-    .label = টেক্সট এনকোডিং
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -209,10 +200,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = বুকমার্ক
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = সব বুকমার্ক প্রদর্শন
-menu-bookmark-this-page =
-    .label = এই পাতা বুকমার্ক করুন
 menu-bookmark-edit =
     .label = বুকমার্ক সম্পাদনা
 menu-bookmarks-all-tabs =
@@ -232,32 +219,15 @@ menu-tools =
 menu-tools-downloads =
     .label = ডাউনলোড
     .accesskey = D
-menu-tools-addons =
-    .label = অ্যাড-অন
-    .accesskey = A
 menu-tools-sync-now =
     .label = এখন সিঙ্ক
     .accesskey = S
-menu-tools-web-developer =
-    .label = ওয়েব ডেভেলপার
-    .accesskey = W
 menu-tools-page-source =
     .label = পাতার সোর্স
     .accesskey = o
 menu-tools-page-info =
     .label = পাতার সংক্রান্ত তথ্য
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] অপশন
-           *[other] পছন্দসমূহ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = লেআইট ডিবাগার
     .accesskey = L
@@ -292,29 +262,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = সহায়তা
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } সহায়তা
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } ট্যুর
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = কীবোর্ড শর্টকাট
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = সমাধান করার তথ্য
-    .accesskey = T
 menu-help-report-site-issue =
     .label = সাইটের সমস্যা রিপোর্ট করুন…
 menu-help-feedback-page =
     .label = মন্তব্য প্রদান…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = নিস্ক্রিয় অ্যাড-অনসহ পুনরায় শুরু…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = অ্যাড-অন সক্রিয় করে পুনরায় চালু করুন
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

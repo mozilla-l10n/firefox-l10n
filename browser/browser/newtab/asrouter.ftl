@@ -5,7 +5,6 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = প্রস্তাবিত এক্সটেনশান
-cfr-doorhanger-pintab-heading = এটি ব্যবহার করে দেখুন: ট্যাব পিন করুন
 
 ##
 
@@ -17,8 +16,6 @@ cfr-doorhanger-extension-cancel-button = এখন না
 
 cfr-doorhanger-extension-ok-button = এখন যোগ করুন
     .accesskey = A
-cfr-doorhanger-pintab-ok-button = এই ট্যাব পিন করুন
-    .accesskey = P
 
 cfr-doorhanger-extension-manage-settings-button = সুপারিশ সেটিংস ব্যবস্থাপনা করুন
     .accesskey = M
@@ -58,9 +55,6 @@ cfr-doorhanger-extension-total-users =
     }
 
 ## These messages are steps on how to use the feature and are shown together.
-
-cfr-doorhanger-pintab-animation-pause = বিরতি
-cfr-doorhanger-pintab-animation-resume = পুনরায় শুরু
 
 
 ## Firefox Accounts Message
@@ -108,4 +102,10 @@ cfr-doorhanger-pintab-animation-resume = পুনরায় শুরু
 ## Fission Experiment Message
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 
