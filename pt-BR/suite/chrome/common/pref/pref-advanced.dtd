@@ -9,6 +9,15 @@
 <!ENTITY prefCheckDefaultClient.label     "Verificar configurações de aplicativos padrão ao iniciar">
 <!ENTITY prefCheckDefaultClient.accesskey "s">
 
+<!ENTITY setDefaultBrowser.label          "Navegador">
+<!ENTITY setDefaultBrowser.accesskey      "v">
+<!ENTITY setDefaultMail.label             "Email">
+<!ENTITY setDefaultMail.accesskey         "E">
+<!ENTITY setDefaultNews.label             "Notícias">
+<!ENTITY setDefaultNews.accesskey         "N">
+<!ENTITY useInternalMail.label            "Email (mailto:)">
+<!ENTITY useInternalMail.accesskey        "a">
+
 <!ENTITY printing.label                   "Imprimindo">
 <!ENTITY useNativePrintDialog.label       "Usar diálogo de impressão nativo (onde for aceito)">
 <!ENTITY useNativePrintDialog.accesskey   "U">

@@ -13,3 +13,5 @@
 <!ENTITY  resetpassword.text                     "Se remover a senha mestra, todas as suas senhas de sites e email, dados de formulários, certificados pessoais e chaves privadas serão perdidas.">
 <!ENTITY  resetpassword.button                   "Excluir…">
 <!ENTITY  resetpassword.accesskey                "x">
+<!ENTITY  resetpassword2.button                  "Redefinir senha">
+<!ENTITY  resetpassword2.accesskey               "s">

@@ -31,6 +31,10 @@
 <!ENTITY restoreDeferred.label          "Apenas restaurar abas quando eu precisar delas">
 <!ENTITY restoreDeferred.accesskey      "A">
 
+<!ENTITY siteIcons.label                "Ícones de sites">
+<!ENTITY useSiteIcons.label             "Exibir ícones de sites">
+<!ENTITY useSiteIcons.accesskey         "x">
+
 <!ENTITY homePageIntro.label            "O comando Página Inicial abre esta página ou grupo de páginas.">
 <!ENTITY useCurrent.label               "Usar a página atual">
 <!ENTITY useCurrent.accesskey           "n">
