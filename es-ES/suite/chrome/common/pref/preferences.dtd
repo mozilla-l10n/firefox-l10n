@@ -10,8 +10,6 @@
 
 <!ENTITY prefWindow.title "Preferencias">
 <!ENTITY prefWindow.size "width: 116ch; height: 44em;">
-<!ENTITY prefWindowMac.size "width: 65em; height: 41em;">
-<!ENTITY prefWindowWin.size "width: 137ch; height: 43em;">
 <!ENTITY prefWindowMac2.size "width: 72em; height: 41em;">
 <!ENTITY prefWindowWin2.size "width: 137ch; height: 44em;">
 <!ENTITY categoryHeader "Categoría">

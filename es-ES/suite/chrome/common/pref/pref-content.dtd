@@ -29,10 +29,11 @@
 <!ENTITY defaultZoom.label "Ampliación por defecto">
 <!ENTITY defaultZoom.accesskey "d">
 
-<!ENTITY siteSpecific.label "Recordar los niveles de ampliación para cada sitio">
-<!ENTITY siteSpecific.accesskey "d">
 <!ENTITY textZoomOnly.label "Escalar sólo el texto en lugar de la página completa">
 <!ENTITY textZoomOnly.accesskey "s">
+<!ENTITY siteSpecific.label "Recordar los niveles de ampliación para cada sitio">
+<!ENTITY siteSpecific.accesskey "d">
+<!ENTITY showZoomStatusPanel.label "Mostrar controles de tamaño en la barra de estado">
 <!ENTITY enableAutomaticImageResizing.label "Reajustar imágenes grandes a la ventana del navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 
@@ -41,4 +42,3 @@
 <!ENTITY blockAutoRefresh.label "Advertirme cuando los sitios web intenten redirigir o recargar la página">
 <!ENTITY blockAutoRefresh.accesskey "A">
 
-<!ENTITY showZoomStatusPanel.label "Mostrar controles de tamaño en la barra de estado">

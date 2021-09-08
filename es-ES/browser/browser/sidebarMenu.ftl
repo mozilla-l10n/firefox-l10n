@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = Marcadores
+
 sidebar-menu-history =
     .label = Historial
+
 sidebar-menu-synced-tabs =
     .label = Pestañas sincronizadas
+
 sidebar-menu-close =
     .label = Cerrar panel lateral
+
 sidebar-close-button =
     .tooltiptext = Cerrar panel lateral

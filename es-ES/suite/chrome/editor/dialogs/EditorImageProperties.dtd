@@ -24,6 +24,7 @@
 <!ENTITY previewBox.label "Vista preliminar">
 
 <!-- These controls are in the Dimensions tab panel -->
+<!-- These controls are in the Dimensions tab panel -->
 <!ENTITY actualSize.label "Tamaño real:">
 <!ENTITY actualSizeRadio.label "Tamaño real">
 <!ENTITY actualSizeRadio.accessKey "A">

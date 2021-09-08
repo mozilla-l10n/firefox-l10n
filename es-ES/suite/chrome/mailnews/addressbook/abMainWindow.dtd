@@ -90,6 +90,7 @@
 <!ENTITY dirTreeHeader.label "Libretas de direcciones">
 
 <!-- Card Summary Pane -->
+<!-- Card Summary Pane -->
 <!ENTITY contact.heading "Contacto">
 <!ENTITY home.heading "Casa">
 <!ENTITY other.heading "Otros">
@@ -103,5 +104,6 @@
 
 <!ENTITY statusText.label "">
 
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY hideSwapFnLnUI "true">

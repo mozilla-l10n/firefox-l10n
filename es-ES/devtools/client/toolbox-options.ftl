@@ -66,11 +66,6 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = Comportamiento de pantalla
 
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Captura de pantalla al portapapeles
-options-screenshot-clipboard-tooltip =
-    .title = Guardar la captura de pantalla directamente en el portapapeles
-
-# Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Captura de pantalla solo al portapapeles
 options-screenshot-clipboard-tooltip2 =
     .title = Guarda la captura de pantalla directamente en el portapapeles

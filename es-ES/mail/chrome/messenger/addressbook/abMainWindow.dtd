@@ -29,12 +29,6 @@
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
-<!ENTITY printSetupCmd.label "Configurar página…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewContactCmd.label "Vista preliminar del contacto">
-<!ENTITY printPreviewContactCmd.accesskey "V">
-<!ENTITY printPreviewAddressBook.label "Vista preliminar de la libreta de direcciones">
-<!ENTITY printPreviewAddressBook.accesskey "B">
 <!ENTITY printContactCmd.label "Imprimir contacto…">
 <!ENTITY printContactCmd.accesskey "P">
 <!ENTITY printContactCmd.key "P">
@@ -101,10 +95,6 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Exportar…">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmd2.label "Opciones">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Preferencias">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!ENTITY newContactButton.label "Nuevo contacto">
 <!ENTITY newContactButton.accesskey "C">

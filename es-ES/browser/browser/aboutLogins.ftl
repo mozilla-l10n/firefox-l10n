@@ -7,17 +7,12 @@ about-logins-page-title = Inicios de sesión y contraseñas
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Llévese siempre sus contraseñas consigo
-login-app-promo-subtitle = Obtenga la aplicación gratuita { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Descargar en Google Play
-login-app-promo-apple =
-    .alt = Descargar en App Store
 login-filter =
     .placeholder = Buscar inicios de sesión
+
 create-login-button = Crear nuevo inicio de sesión
+
 fxaccounts-sign-in-text = Acceda a sus contraseñas en todos sus dispositivos
-fxaccounts-sign-in-button = Inicia sesión en { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Inicie sesión para sincronizar
 fxaccounts-avatar-button =
     .title = Administrar cuenta
@@ -37,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Preferencias
     }
 about-logins-menu-menuitem-help = Ayuda
-menu-menuitem-android-app = { -lockwise-brand-short-name } para Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } para iPhone y iPad
 
 ## Login List
 
@@ -68,6 +61,7 @@ about-logins-list-item-breach-icon =
     .title = Sitio web vulnerado
 about-logins-list-item-vulnerable-password-icon =
     .title = Contraseña vulnerable
+
 about-logins-list-section-breach = Sitios web vulnerados
 about-logins-list-section-vulnerable = Contraseñas vulnerables
 about-logins-list-section-nothing = Sin alertas
@@ -77,13 +71,9 @@ about-logins-list-section-week = Últimos 7 días
 
 ## Introduction screen
 
-login-intro-heading = ¿Busca sus inicios de sesión guardados? Configure { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out2 = ¿Busca sus inicios de sesión guardados? Active Sync o impórtelos.
 about-logins-login-intro-heading-logged-in = No se han encontrado credenciales sincronizadas.
 login-intro-description = Si guardó sus inicios de sesión en { -brand-product-name } en un dispositivo diferente, éstos son los pasos a seguir para tenerlos aquí también:
-login-intro-instruction-fxa = Cree o inicie sesión en su { -fxaccount-brand-name } en el dispositivo donde se guardan sus inicios de sesión
-login-intro-instruction-fxa-settings = Asegúrese de haber seleccionado la casilla de Inicios de sesión en los ajustes de { -sync-brand-short-name }
-about-logins-intro-instruction-help = Consulte la <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Ayuda </a> para obtener más información
 login-intro-instructions-fxa = Cree o inicie sesión en su { -fxaccount-brand-name } en el dispositivo donde se guardan sus inicios de sesión.
 login-intro-instructions-fxa-settings = Ir a Ajustes > Sync > Activar la sincronización… Seleccionar la casilla Inicios de sesión y contraseñas.
 login-intro-instructions-fxa-help = Consulte la <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Ayuda </a> para obtener más información.
@@ -129,11 +119,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Para editar su inicio de se
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar el inicio de sesión guardado
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Para ver su contraseña, introduzca sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mostrar la contraseña guardada
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Para copiar su contraseña, introduzca sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
 # This message can be seen when attempting to copy a password in about:logins
@@ -142,7 +134,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copiar la contraseña
 
 ## Master Password notification
 
-master-password-notification-message = Por favor, introduzca su contraseña maestra para ver los nombres de usuario y contraseñas guardadas.
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Para exportar sus inicios de sesión, introduzca sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
 # This message can be seen when attempting to export a password in about:logins
@@ -158,42 +149,30 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] ¿Quiere ver sus inicios de sesión en todas partes donde usa { -brand-product-name }? Abra Opciones de { -sync-brand-short-name } y seleccione la casilla de verificación Inicios de sesión.
-       *[other] ¿Quiere ver sus inicios de sesión en todas partes donde usa { -brand-product-name }? Abra Preferencias de { -sync-brand-short-name } y seleccione la casilla de verificación Inicios de sesión.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Consulte las opciones de { -sync-brand-short-name }
-           *[other] Consulte las preferencias de { -sync-brand-short-name }
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = No volver a preguntar
-    .accesskey = N
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
+
 about-logins-confirm-remove-dialog-title = ¿Eliminar este inicio de sesión?
 confirm-delete-dialog-message = Esta acción no se puede deshacer.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Eliminar
         [one] Eliminar
        *[other] Eliminar todos
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Sí, eliminar este inicio de sesión
         [one] Sí, eliminar este inicio de sesión
        *[other] Sí, eliminar estos inicios de sesión
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] ¿Eliminar { $count } credencial?
@@ -205,6 +184,7 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Esto eliminará el inicio de sesión que guardó con { -brand-short-name } y cualquier alerta de filtración que aparezca aquí. No podrá deshacer esta acción.
        *[other] Esto eliminará los inicios de sesión que guardó con { -brand-short-name } y cualquier alerta de filtración que aparezca aquí. No podrá deshacer esta acción.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] ¿Eliminar { $count } inicio de sesión de todos los dispositivos?
@@ -216,11 +196,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Esto eliminará el inicio de sesión que guardó en { -brand-short-name } en todos los dispositivos sincronizados con su { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrá deshacer esta acción.
        *[other] Esto eliminará todos los inicios de sesión que guardó en { -brand-short-name } en todos los dispositivos sincronizados con su { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrá deshacer esta acción.
     }
+
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión y contraseñas
 about-logins-confirm-export-dialog-message = Sus contraseñas se guardarán como texto legible (por ejemplo, BadP@ssw0rd) por lo que cualquiera que pueda abrir el archivo exportado podrá verlas.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+
 about-logins-alert-import-title = Importación completa
 about-logins-alert-import-message = Ver resumen detallado de la importación
+
 confirm-discard-changes-dialog-title = ¿Descartar cambios no guardados?
 confirm-discard-changes-dialog-message = Todos los cambios no guardados se perderán.
 confirm-discard-changes-dialog-confirm-button = Descartar
@@ -251,6 +234,7 @@ about-logins-vulnerable-alert-learn-more-link = Saber más
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ya hay una entrada para { $loginTitle } con ese nombre de usuario. <a data-l10n-name="duplicate-link"> ¿Quiere ir a esa entrada? </a>
+
 # This is a generic error message.
 about-logins-error-message-default = Se produjo un error al intentar guardar la contraseña.
 
@@ -300,11 +284,13 @@ about-logins-import-dialog-items-added =
         [one] <span>Nuevo inicio de sesión añadido:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Nuevos inicios de sesión añadidos:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Inicio de sesión actualizado:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Inicios de sesión actualizados:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Se han encontrado inicios de sesión duplicados:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
@@ -316,6 +302,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
     }
 about-logins-import-dialog-done = Hecho
+
 about-logins-import-dialog-error-title = Error de importación
 about-logins-import-dialog-error-conflicting-values-title = Múltiples valores en conflicto para un inicio de sesión
 about-logins-import-dialog-error-conflicting-values-description = Por ejemplo: múltiples nombres de usuario, contraseñas, URLs, etc. para un solo inicio de sesión.
@@ -329,8 +316,10 @@ about-logins-import-dialog-error-no-logins-imported = No se importaron inicios d
 about-logins-import-dialog-error-learn-more = Saber más
 about-logins-import-dialog-error-try-import-again = Intente importar de nuevo…
 about-logins-import-dialog-error-cancel = Cancelar
+
 about-logins-import-report-title = Resumen de importación
 about-logins-import-report-description = Inicios de sesión y contraseñas importados a { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

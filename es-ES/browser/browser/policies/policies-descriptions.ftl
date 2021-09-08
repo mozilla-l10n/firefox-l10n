@@ -65,8 +65,6 @@ policy-DisableForgetButton = Impedir el acceso al botón Olvidar.
 
 policy-DisableFormHistory = No recordar el historial de búsqueda y formularios.
 
-policy-DisableMasterPasswordCreation = Si se activa, no se puede crear una contraseña maestra.
-
 policy-DisablePrimaryPasswordCreation = Si es cierto, no se puede crear una contraseña maestra
 
 policy-DisablePasswordReveal = No permitir que se vean las contraseñas en las credenciales guardadas.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Volver al comportamien
 policy-LocalFileLinks = Permitir a sitios web concretos enlazar a archivos locales.
 
 policy-ManagedBookmarks = Configura una lista de marcadores administrada por un administrador que el usuario no puede cambiar.
-
-policy-MasterPassword = Requerir o evitar el uso de una contraseña maestra.
 
 policy-ManualAppUpdateOnly = Permitir solo actualizaciones manuales y no notificar al usuario acerca de actualizaciones.
 

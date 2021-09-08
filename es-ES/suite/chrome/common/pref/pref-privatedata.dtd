@@ -11,7 +11,6 @@
 <!ENTITY alwaysClear.accesskey "L">
 
 <!ENTITY askBeforeClear.label "Preguntarme antes de limpiar datos privados">
-<!ENTITY askBeforeClear.accesskey "P">
 
 <!ENTITY clearDataSettings.label "Cuando le pida a &brandShortName; limpiar mis datos privados, debería borrar:">
 
