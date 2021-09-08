@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Tomar una captura de pantalla
-
-screenshots-my-shots-button = Mis capturas
-
 screenshot-toolbarbutton =
     .label = Captura de pantalla
     .tooltiptext = Tomar una captura de pantalla
@@ -40,8 +36,6 @@ screenshots-login-error-details = No pudimos guardar tu captura porque hay un pr
 
 screenshots-unshootable-page-error-title = No podemos capturar esta página.
 screenshots-unshootable-page-error-details = Esta no es una página Web estándar, por lo que no puedes tomar una captura de ella.
-
-screenshots-self-screenshot-error-title = ¡No puedes tomar una captura de una página de { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Tu selección es muy pequeña
 

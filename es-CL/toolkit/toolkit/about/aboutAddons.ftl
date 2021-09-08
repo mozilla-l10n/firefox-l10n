@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Administrador de complementos
-
 addons-page-title = Administrador de complementos
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Soporte para complementos
 sidebar-help-button-title =
     .title = Soporte para complementos
 
-preferences =
-    { PLATFORM() ->
-        [windows] Opciones de { -brand-short-name }
-       *[other] Preferencias de { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opciones de { -brand-short-name }
-           *[other] Preferencias de { -brand-short-name }
-        }
-
 addons-settings-button = Ajustes de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Ajustes de { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Mostrar todas las extensiones
-
-cmd-show-details =
-    .label = Mostrar más información
-    .accesskey = s
-
-cmd-find-updates =
-    .label = Buscar actualizaciones
-    .accesskey = B
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opciones
-           *[other] Preferencias
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Usar tema
-    .accesskey = U
-
-cmd-disable-theme =
-    .label = Dejar de usar tema
-    .accesskey = u
-
-cmd-install-addon =
-    .label = Instalar
-    .accesskey = I
-
-cmd-contribute =
-    .label = Contribuir
-    .accesskey = C
-    .tooltiptext = Contribuir al desarrollo de este complemento
 
 detail-version =
     .label = Versión
@@ -389,8 +337,6 @@ dictionary-disabled-heading = Desactivado
 
 locale-enabled-heading = Activado
 locale-disabled-heading = Desactivado
-
-ask-to-activate-button = Preguntar para activar
 
 always-activate-button = Siempre activar
 never-activate-button = Nunca activar

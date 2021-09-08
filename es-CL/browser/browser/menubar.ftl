@@ -38,16 +38,20 @@ menu-quit =
             [windows] s
            *[other] S
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Salir de { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Salir de { -brand-shorter-name }
+
 menu-about =
     .label = Acerca de { -brand-shorter-name }
     .accesskey = A
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Editar
     .accesskey = E
-menu-edit-find-on =
-    .label = Buscar en esta página…
-    .accesskey = B
 menu-edit-find-in-page =
     .label = Buscar en la página…
     .accesskey = F
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Barras de herramientas
     .accesskey = t
-menu-view-customize-toolbar =
-    .label = Personalizar…
-    .accesskey = P
 menu-view-customize-toolbar2 =
     .label = Personalizar barra de herramientas…
     .accesskey = C
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Estilo básico de página
     .accesskey = b
-menu-view-charset =
-    .label = Codificación del texto
-    .accesskey = c
 menu-view-repair-text-encoding =
     .label = Reparar codificación de texto
     .accesskey = c
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Reabrir todas las ventanas
 menu-bookmarks-menu =
     .label = Marcadores
     .accesskey = M
-menu-bookmarks-show-all =
-    .label = Mostrar todos los marcadores
-menu-bookmark-this-page =
-    .label = Guardar esta página en marcadores
 menu-bookmarks-manage =
     .label = Gestionar marcadores
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Descargas
     .accesskey = D
-menu-tools-addons =
-    .label = Complementos
-    .accesskey = o
-menu-tools-fxa-sign-in =
-    .label = Conectarse a { -brand-product-name }…
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = Activar { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Complementos y temas
     .accesskey = A
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Reconectar a { -brand-product-name }…
     .accesskey = R
-menu-tools-web-developer =
-    .label = Desarrollador web
-    .accesskey = w
 menu-tools-browser-tools =
     .label = Herramientas del navegador
     .accesskey = B
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Información de la página
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opciones
-           *[other] Preferencias
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-settings =
     .label = Ajustes
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Ayuda
     .accesskey = H
-menu-help-product =
-    .label = Ayuda de { -brand-shorter-name }
-    .accesskey = H
-menu-help-show-tour =
-    .label = Tour de { -brand-shorter-name }
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = Importar desde otro navegador…
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = Atajos del teclado
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Información para resolver problemas
-    .accesskey = T
 menu-get-help =
     .label = Obtener ayuda
     .accesskey = H
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Enviar comentarios…
     .accesskey = s
-menu-help-safe-mode-without-addons =
-    .label = Reiniciar con los complementos deshabilitados…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = Reiniciar con los complementos habilitados…
-    .accesskey = R
 menu-help-enter-troubleshoot-mode2 =
     .label = Modo de resolución de problemas…
     .accesskey = M
