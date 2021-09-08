@@ -9,8 +9,4 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Cabhair">
 <!ENTITY helpMenuWin.accesskey "h">
-<!ENTITY helpTroubleshootingInfo.label     "Fabhtcheartú">
-<!ENTITY helpTroubleshootingInfo.accesskey "t">
-<!ENTITY helpSafeMode.label     "Atosaigh gan aon bhreiseáin…">
-<!ENTITY helpSafeMode.accesskey "A">
 

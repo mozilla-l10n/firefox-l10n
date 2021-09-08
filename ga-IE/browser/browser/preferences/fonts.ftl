@@ -110,42 +110,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Ionchódú Carachtar le haghaidh Ábhair Oidhreachta
-fonts-languages-fallback-desc = Úsáidtear an t-ionchódú carachtar le haghaidh ábhair oidhreachta nuair nach bhfuil a ionchódú fógartha.
-
-fonts-languages-fallback-name-auto =
-    .label = Réamhshocrú don Teanga Reatha
-fonts-languages-fallback-name-arabic =
-    .label = Arabach
-fonts-languages-fallback-name-baltic =
-    .label = Baltach
-fonts-languages-fallback-name-ceiso =
-    .label = Lár-Eorpach, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Lár-Eorpach, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Síneach, Simplithe
-fonts-languages-fallback-name-traditional =
-    .label = Síneach Traidisiúnta
-fonts-languages-fallback-name-cyrillic =
-    .label = Coireallach
-fonts-languages-fallback-name-greek =
-    .label = Gréagach
-fonts-languages-fallback-name-hebrew =
-    .label = Eabhrach
-fonts-languages-fallback-name-japanese =
-    .label = Seapánach
-fonts-languages-fallback-name-korean =
-    .label = Cóiréach
-fonts-languages-fallback-name-thai =
-    .label = Téalannach
-fonts-languages-fallback-name-turkish =
-    .label = Turcach
-fonts-languages-fallback-name-vietnamese =
-    .label = Vítneamais
-fonts-languages-fallback-name-other =
-    .label = Eile (Iarthar na hEorpa san áireamh)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

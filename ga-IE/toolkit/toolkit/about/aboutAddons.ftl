@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Bainisteoir na mBreiseán
-
 addons-page-title = Bainisteoir na mBreiseán
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Taispeáin na heisínteachtaí go léir
-
-cmd-show-details =
-    .label = Taispeáin Tuilleadh Eolais
-    .accesskey = T
-
-cmd-find-updates =
-    .label = Aimsigh Nuashonruithe
-    .accesskey = A
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Roghanna
-           *[other] Sainroghanna
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] R
-           *[other] S
-        }
-
-cmd-enable-theme =
-    .label = Úsáid an téama
-    .accesskey = t
-
-cmd-disable-theme =
-    .label = Ná húsáid an téama a thuilleadh
-    .accesskey = N
-
-cmd-install-addon =
-    .label = Suiteáil
-    .accesskey = S
-
-cmd-contribute =
-    .label = Glac Páirt
-    .accesskey = c
-    .tooltiptext = Glac páirt i bhforbairt an bhreiseáin seo
 
 detail-version =
     .label = Leagan

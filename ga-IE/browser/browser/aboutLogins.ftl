@@ -11,20 +11,12 @@ about-logins-page-title = Focail Fhaire
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Bíodh do chuid focal faire leat gach uile áit
-login-app-promo-subtitle = Faigh an aip { -lockwise-brand-name } saor in aisce
-login-app-promo-android =
-    .alt = Faigh ar Google Play é
-login-app-promo-apple =
-    .alt = Íoslódáil ón App Store
-
 login-filter =
     .placeholder = Cuardaigh Focal Faire
 
 create-login-button = Cruthaigh Logáil Isteach Nua
 
 fxaccounts-sign-in-text = Faigh do chuid focal faire ar ghléasanna eile
-fxaccounts-sign-in-button = Logáil isteach i { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Bainistigh an cuntas
 
@@ -38,8 +30,6 @@ menu-menuitem-preferences =
        *[other] Sainroghanna
     }
 about-logins-menu-menuitem-help = Cabhair
-menu-menuitem-android-app = { -lockwise-brand-short-name } ar Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } ar iPhone agus ar iPad
 
 ## Login List
 
@@ -103,10 +93,6 @@ master-password-reload-button =
     .accesskey = L
 
 ## Password Sync notification
-
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Ná fiafraigh díom arís
-    .accesskey = f
 
 ## Dialogs
 

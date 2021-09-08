@@ -17,42 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Údaráis
 
-certmgr-detail-general-tab-title =
-    .label = Ginearálta
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Sonraí
-    .accesskey = S
-
-certmgr-pending-label =
-    .value = Tá an teastas á fhíorú faoi láthair…
-
-certmgr-subject-label = Eisithe Go
-
-certmgr-issuer-label = Eisithe Ag
-
-certmgr-period-of-validity = Tréimhse Bhailíochta
-
-certmgr-fingerprints = Méarloirg
-
-certmgr-cert-detail =
-    .title = Sonraí an teastais
-    .buttonlabelaccept = Dún
-    .buttonaccesskeyaccept = D
-
-certmgr-cert-detail-commonname = Ainm Coiteann (Common Name, CN)
-
-certmgr-cert-detail-org = Eagras (Organization, O)
-
-certmgr-cert-detail-orgunit = Aonad an Eagrais (Organizational Unit, OU)
-
-certmgr-cert-detail-serial-number = Sraithuimhir
-
-certmgr-cert-detail-sha-256-fingerprint = Méarlorg SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Méarlorg SHA1
-
 certmgr-edit-ca-cert =
     .title = Cuir socruithe muiníne do theastais na nÚdarás Deimhniúcháin in eagar
     .style = width: 48em;
@@ -81,12 +45,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Gléas Slándála
 
-certmgr-begins-on = Le tosú
-
 certmgr-begins-label =
     .label = Le tosú
-
-certmgr-expires-on = Le síothlú
 
 certmgr-expires-label =
     .label = Le síothlú
@@ -128,18 +88,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Iompórtáil…
     .accesskey = m
-
-certmgr-details =
-    .value = Réimsí Teastais
-    .accesskey = R
-
-certmgr-fields =
-    .value = Luach Réimse
-    .accesskey = L
-
-certmgr-hierarchy =
-    .value = Ordlathas na dTeastas
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Cuir Eisceacht Leis…
@@ -203,12 +151,6 @@ delete-user-cert-confirm = An bhfuil tú cinnte gur mian leat na teastais seo a 
 delete-user-cert-impact = Má scriosann tú ceann de do theastais féin, ní féidir é a úsáid níos mó chun tú féin a chur in aithne.
 
 
-delete-ssl-cert-title =
-    .title = Scrios Eisceachtaí Teastais na bhFreastalaithe
-delete-ssl-cert-confirm = An bhfuil tú cinnte gur mian leat na heisceachtaí freastalaí seo a scriosadh?
-delete-ssl-cert-impact = Má scriosann tú eisceacht freastalaí, cuirtear an ghnáthsheiceáil slándála i bhfeidhm arís don fhreastalaí sin agus beidh teastas bailí de dhíth uaidh.
-
-
 delete-ca-cert-title =
     .title = Scrios nó bí mímhuiníneach as teastais ó údaráis deimhniúcháin
 delete-ca-cert-confirm = D'iarr tú na teastais seo ó údaráis deimhniúcháin a scrios. I gcás na dteastas inmheánacha, beifear mímhuiníneach ar fad astu, leis an éifeacht chéanna. An bhfuil tú cinnte go dteastaíonn uait iad a scrios nó bheith mímhuiníneach astu?
@@ -228,45 +170,6 @@ cert-with-serial =
     .value = Teastas le sraithuimhir: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Amharcán Teastais: “{ $certName }”
-
-not-present =
-    .value = <Ní ina chuid den Teastas>
-
-# Cert verification
-cert-verified = Tá an teastas seo fíoraithe do na húsáidí seo a leanas:
-
-# Add usage
-verify-ssl-client =
-    .value = Teastas cliaint SSL
-
-verify-ssl-server =
-    .value = Teastas freastalaí SSL
-
-verify-ssl-ca =
-    .value = Údarás Deimhniúcháin SSL
-
-verify-email-signer =
-    .value = Teastas sínitheora ríomhphoist
-
-verify-email-recip =
-    .value = Teastas faighteora ríomhphoist
-
-# Cert verification
-cert-not-verified-cert-revoked = Ní féidir an teastas seo a fhíorú toisc gur cealaíodh é.
-cert-not-verified-cert-expired = Ní féidir an teastas seo a fhíorú toisc go bhfuil sé as feidhm.
-cert-not-verified-cert-not-trusted = Ní féidir an teastas seo a fhíorú toisc nach gcuirtear muinín ann.
-cert-not-verified-issuer-not-trusted = Ní féidir an teastas seo a fhíorú toisc nach gcuirtear muinín san eisitheoir.
-cert-not-verified-issuer-unknown = Ní féidir an teastas seo a fhíorú toisc nach fios cé a d'eisigh é.
-cert-not-verified-ca-invalid = Ní féidir an teastas seo a fhíorú toisc go bhfuil teastas an Údaráis Deimhniúcháin neamhbhailí.
-cert-not-verified_algorithm-disabled = Ní féidir an teastas seo a fhíorú toisc gur síníodh é le halgartam a bhí díchumasaithe toisc nach bhfuil sé slán.
-cert-not-verified-unknown = Ní féidir an teastas seo a fhíorú, ach ní fios cén fáth.
 
 ## Used to show whether an override is temporary or permanent
 

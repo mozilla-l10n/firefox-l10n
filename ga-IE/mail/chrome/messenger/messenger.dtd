@@ -81,10 +81,6 @@
 <!ENTITY printCmd.label "Priontáil…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Réamhamharc Priontála">
-<!ENTITY printPreviewCmd.accesskey "R">
-<!ENTITY printSetupCmd.label "Socrú Leathanaigh…">
-<!ENTITY printSetupCmd.accesskey "L">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Scrios Teachtaireacht">
@@ -164,8 +160,6 @@
 <!ENTITY recentFolders.accesskey "L">
 <!ENTITY compactVersion.label "Dlúthamharc">
 <!ENTITY compactVersion.accesskey "D">
-<!ENTITY folderPaneBar.label "Barra Uirlisí Phána na bhFillteán">
-<!ENTITY folderPaneBar.accesskey "F">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sórtáil de réir">
@@ -450,8 +444,6 @@
 <!ENTITY addressBookCmd.label "Leabhar Seoltaí">
 <!ENTITY addressBookCmd.accesskey "b">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Breiseáin">
-<!ENTITY addons.accesskey "B">
 <!ENTITY activitymanager.label "Bainisteoir Gníomhaíochta">
 <!ENTITY activitymanager.accesskey "m">
 <!ENTITY imAccountsStatus.label "Stádas comhrá">
@@ -495,8 +487,6 @@
 <!ENTITY devToolboxCmd.label "Bosca Uirlisí d'Fhorbróirí">
 <!ENTITY devToolboxCmd.accesskey "b">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY tabsDebugCmd.label "Dífhabhtóir Fráma Ábhair">
-<!ENTITY tabsDebugCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.label "Consól Earráide">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -525,15 +515,11 @@
 <!ENTITY backButton1.label "Siar">
 <!ENTITY goForwardButton1.label "Ar Aghaidh">
 <!ENTITY deleteItem.title "Scrios">
-<!ENTITY deleteButton.label "Scrios">
-<!ENTITY undeleteButton.label "Díscrios">
 <!ENTITY markButton.label "Marcáil">
 <!ENTITY printButton.label "Priontáil">
 <!ENTITY stopButton.label "Stad">
 <!ENTITY throbberItem.title "Táscaire Gníomhaíochta">
 <!ENTITY junkItem.title "Dramhphost">
-<!ENTITY junkButton.label "Dramhphost">
-<!ENTITY notJunkButton.label "Post Ceart">
 <!ENTITY addressBookButton.label "Leabhar Seoltaí">
 <!ENTITY chatButton.label "Comhrá">
 <!ENTITY glodaSearch.title "Cuardach Cuimsitheach">
@@ -564,13 +550,9 @@
 <!ENTITY previousMsgButton.tooltip "Téigh go dtí an teachtaireacht roimhe seo">
 <!ENTITY goForwardButton.tooltip "An chéad teachtaireacht eile">
 <!ENTITY goBackButton.tooltip "An teachtaireacht roimhe seo">
-<!ENTITY deleteButton.tooltip "Scrios an teachtaireacht nó fillteán roghnaithe">
-<!ENTITY undeleteButton.tooltip "Díscrios an teachtaireacht roghnaithe">
 <!ENTITY markButton.tooltip "Marcáil teachtaireachtaí">
 <!ENTITY printButton.tooltip "Priontáil an teachtaireacht seo">
 <!ENTITY stopButton.tooltip "Stop an traschur reatha">
-<!ENTITY junkButton.tooltip "Marcáil na teachtaireachtaí roghnaithe mar dhramhphost">
-<!ENTITY notJunkButton.tooltip "Marcáil na teachtaireachtaí roghnaithe mar phost ceart">
 <!ENTITY addressBookButton.tooltip "Téigh go dtí an leabhar seoltaí">
 <!ENTITY chatButton.tooltip "Taispeáin an cluaisín Comhrá">
 <!ENTITY tagButton.tooltip "Clibeáil Teachtaireachtaí">

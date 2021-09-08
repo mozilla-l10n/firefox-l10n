@@ -30,14 +30,6 @@ permissions-site-name =
 permissions-status =
     .label = Stádas
 
-permissions-button-cancel =
-    .label = Cealaigh
-    .accesskey = C
-
-permissions-button-ok =
-    .label = Sábháil na hAthruithe
-    .accesskey = S
-
 permissions-capabilities-allow =
     .label = Ceadaigh
 permissions-capabilities-block =

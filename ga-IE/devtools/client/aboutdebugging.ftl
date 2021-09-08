@@ -18,10 +18,6 @@ about-debugging-sidebar-item-connect-button = Ceangail
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = Ag ceangal…
 
-# Temporary text displayed in sidebar items representing remote runtimes after
-# successfully connecting to them. Temporary UI, do not localize.
-about-debugging-sidebar-item-connected-label = Ceangailte
-
 # Setup Page strings
 
 # Title of the heading Connect section of the Setup page.

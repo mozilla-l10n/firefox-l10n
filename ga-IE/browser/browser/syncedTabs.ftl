@@ -5,7 +5,6 @@
 synced-tabs-sidebar-title = Cluaisíní Sioncronaithe
 synced-tabs-sidebar-noclients-subtitle = Ar mhaith leat cluaisíní ó ghléasanna eile a fheiceáil anseo?
 synced-tabs-sidebar-notabs = Níl aon chluaisín ar oscailt
-synced-tabs-sidebar-openprefs = Oscail Sainroghanna { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Las sioncronú cluaisíní chun liosta cluaisíní ó do ghléasanna eile a fheiceáil.
 synced-tabs-context-open =
     .label = Oscail
@@ -34,4 +33,3 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Sioncronaigh Anois
     .accesskey = S
-fxa-sign-in = Logáil isteach i { -sync-brand-short-name }

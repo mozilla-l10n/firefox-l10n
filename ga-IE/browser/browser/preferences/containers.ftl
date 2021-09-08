@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Coimeádán Nua
     .style = width: 50em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Sainroghanna don Choimeádán { $name }
-    .style = width: 50em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Deilbhín
 containers-color-label = Dath
     .accesskey = h
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Críochnaithe
-    .accesskey = C
 
 containers-color-blue =
     .label = Gorm

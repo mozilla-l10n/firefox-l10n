@@ -35,7 +35,3 @@ translation-sites-button-remove-all =
     .label = Bain Gach Suíomh
     .accesskey = i
 
-translation-button-close =
-    .label = Dún
-    .accesskey = D
-

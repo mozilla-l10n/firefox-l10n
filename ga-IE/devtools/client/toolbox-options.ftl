@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Láimhseáil Seatanna den Scáileán
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Cóipeáil sa ghearrthaisce
-options-screenshot-clipboard-tooltip =
-    .title = Sábhálfar seat den scáileán go díreach sa ghearrthaisce
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Seinn fuaim an chomhla
 options-screenshot-audio-tooltip =

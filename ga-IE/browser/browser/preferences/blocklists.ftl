@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Liosta
 
-blocklist-button-cancel =
-    .label = Cealaigh
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = Sábháil na hAthruithe
-    .accesskey = S
-
 
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.

@@ -109,9 +109,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Eagar
     .accesskey = E
-menu-edit-find-on =
-    .label = Aimsigh sa Leathanach Seo…
-    .accesskey = A
 menu-edit-find-again =
     .label = Aimsigh Arís
     .accesskey = m
@@ -127,9 +124,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Barraí Uirlisí
     .accesskey = U
-menu-view-customize-toolbar =
-    .label = Saincheap…
-    .accesskey = c
 menu-view-sidebar =
     .label = Barra Taoibh
     .accesskey = T
@@ -160,9 +154,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Stíl Leathanaigh Bhunúsach
     .accesskey = B
-menu-view-charset =
-    .label = Ionchódú Téacs
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -209,10 +200,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Leabharmharcanna
     .accesskey = L
-menu-bookmarks-show-all =
-    .label = Taispeáin Gach Leabharmharc
-menu-bookmark-this-page =
-    .label = Cruthaigh Leabharmharc don Leathanach Seo
 menu-bookmark-edit =
     .label = Cuir an Leabharmharc Seo in Eagar
 menu-bookmarks-all-tabs =
@@ -232,32 +219,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Íoslódálacha
     .accesskey = l
-menu-tools-addons =
-    .label = Breiseáin
-    .accesskey = B
 menu-tools-sync-now =
     .label = Sioncronaigh Anois
     .accesskey = S
-menu-tools-web-developer =
-    .label = Forbróir Gréasáin
-    .accesskey = F
 menu-tools-page-source =
     .label = Foinse an Leathanaigh
     .accesskey = F
 menu-tools-page-info =
     .label = Eolas Leathanaigh
     .accesskey = s
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Roghanna
-           *[other] Sainroghanna
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] o
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -289,29 +259,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Cabhair
     .accesskey = h
-menu-help-product =
-    .label = Cabhair { -brand-shorter-name }
-    .accesskey = C
-menu-help-show-tour =
-    .label = Turas ar { -brand-shorter-name }
-    .accesskey = u
-menu-help-keyboard-shortcuts =
-    .label = Aicearraí Méarchláir
-    .accesskey = A
-menu-help-troubleshooting-info =
-    .label = Fabhtcheartú
-    .accesskey = t
 menu-help-report-site-issue =
     .label = Tuairiscigh Fadhb le Suíomh…
 menu-help-feedback-page =
     .label = Seol Aiseolas Chugainn…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = Atosaigh gan aon bhreiseáin…
-    .accesskey = A
-menu-help-safe-mode-with-addons =
-    .label = Atosaigh leis na Breiseáin ar siúl…
-    .accesskey = A
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

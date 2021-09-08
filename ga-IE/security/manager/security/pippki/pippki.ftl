@@ -6,9 +6,6 @@ password-quality-meter = Tomhais ar cháilíocht fhocail faire
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Athraigh an Príomhfhocal Faire
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Gléas Slándála: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Focal Faire Nua (Arís):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Bánaigh an Príomhfhocal Faire
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Bánaigh
-reset-password-text = Má bhánaíonn tú do Phríomhfhocal Faire, caillfear na focail faire ríomhphoist agus Gréasáin a stóráil tú, na sonraí ó fhoirmeacha, do theastais phearsanta, agus d'eochracha príobháideacha. An bhfuil tú cinnte gur mian leat do Phríomhfhocal Faire a bhánú?
 
 ## Downloading cert dialog
 

@@ -7,15 +7,11 @@
 
 cfr-doorhanger-extension-heading = Eisínteacht Mholta
 cfr-doorhanger-feature-heading = Gné Mholta
-cfr-doorhanger-pintab-heading = Bain triail as seo: Cluaisín a Phionnáil
 
 ##
 
 cfr-doorhanger-extension-cancel-button = Níl Anois
     .accesskey = N
-
-cfr-doorhanger-pintab-ok-button = Pionnáil an Cluaisín Seo
-    .accesskey = P
 
 cfr-doorhanger-extension-never-show-recommendation = Ná taispeáin an moladh seo dom
     .accesskey = t
@@ -59,9 +55,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-animation-pause = Cuir ar Sos
-cfr-doorhanger-pintab-animation-resume = Atosaigh
-
 
 ## Firefox Accounts Message
 
@@ -81,88 +74,28 @@ cfr-whatsnew-button =
     .label = Gnéithe Nua
     .tooltiptext = Gnéithe Nua
 
-cfr-whatsnew-panel-header = Gnéithe Nua
-
 cfr-whatsnew-release-notes-link-text = Léigh na nótaí eisiúna
-
-cfr-whatsnew-tracking-blocked-subtitle = Ó { DATETIME($earliestDate, month: "long", year: "numeric") }
-
-cfr-whatsnew-lockwise-backup-link-text = Cuir cúltacaí ar siúl
-
-cfr-whatsnew-lockwise-take-title = Beir do chuid focal faire leat
-cfr-whatsnew-lockwise-take-link-text = Faigh an aip
 
 ## Search Bar
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-header = Breathnaigh ar fhíseáin le linn brabhsála
-cfr-whatsnew-pip-cta = Tuilleadh eolais
-
 ## Permission Prompt
-
-cfr-whatsnew-permission-prompt-cta = Tuilleadh eolais
 
 ## Fingerprinter Counter
 
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $fingerprinterCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-fingerprinter-counter-header =
-    { $fingerprinterCount ->
-        [one] Cuireadh cosc ar mhéarlorgaire amháin
-        [two] Cuireadh cosc ar mhéarlorgairí
-        [few] Cuireadh cosc ar mhéarlorgairí
-        [many] Cuireadh cosc ar mhéarlorgairí
-       *[other] Cuireadh cosc ar mhéarlorgairí
-    }
-
-# Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = Méarlorgairí
-
 ## Bookmark Sync
 
-cfr-doorhanger-sync-bookmarks-header = Faigh an leabharmharc ar d'fhón
-cfr-doorhanger-sync-bookmarks-ok-button = Cuir { -sync-brand-short-name } ar siúl
-    .accesskey = C
-
 ## Login Sync
-
-cfr-doorhanger-sync-logins-header = Ná caill focal faire arís
-cfr-doorhanger-sync-logins-ok-button = Cuir { -sync-brand-short-name } ar siúl
-    .accesskey = C
 
 ## Send Tab
 
 
 ## Firefox Send
 
-cfr-doorhanger-firefox-send-ok-button = Bain triail as { -send-brand-name }
-    .accesskey = t
-
 ## Social Tracking Protection
 
-cfr-doorhanger-socialtracking-close-button = Dún
-    .accesskey = D
-cfr-doorhanger-socialtracking-dont-show-again = Ná taispeáin teachtaireachtaí cosúil leis seo dom arís
-    .accesskey = N
-cfr-doorhanger-socialtracking-heading = Chuir { -brand-short-name } cosc ar líonra sóisialta a bhí ag iarraidh thú a lorg
-cfr-doorhanger-fingerprinters-heading = Chuir { -brand-short-name } cosc ar mhéarlorgaire ar an leathanach seo
-cfr-doorhanger-cryptominers-heading = Chuir { -brand-short-name } cosc ar chriptimhianadóir ar an leathanach seo
-
 ## Enhanced Tracking Protection Milestones
-
-# Variables:
-#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
-cfr-doorhanger-milestone-heading =
-    { $blockedCount ->
-        [one] Níos mó ná <b>{ $blockedCount }</b> lorgaire coiscthe ag { -brand-short-name } ó { $date }!
-        [two] Níos mó ná <b>{ $blockedCount }</b> lorgaire coiscthe ag { -brand-short-name } ó { $date }!
-        [few] Níos mó ná <b>{ $blockedCount }</b> lorgaire coiscthe ag { -brand-short-name } ó { $date }!
-        [many] Níos mó ná <b>{ $blockedCount }</b> lorgaire coiscthe ag { -brand-short-name } ó { $date }!
-       *[other] Níos mó ná <b>{ $blockedCount }</b> lorgaire coiscthe ag { -brand-short-name } ó { $date }!
-    }
 
 cfr-doorhanger-milestone-ok-button = Féach Uile
     .accesskey = F
@@ -186,4 +119,10 @@ cfr-doorhanger-milestone-ok-button = Féach Uile
 ## Fission Experiment Message
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

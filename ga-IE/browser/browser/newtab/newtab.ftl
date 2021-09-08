@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Cuardach
     .aria-label = Cuardach
 
-newtab-search-box-search-the-web-text = Cuardaigh an Gréasán
-
 newtab-search-box-search-the-web-input =
     .placeholder = Cuardaigh an Gréasán
     .title = Cuardaigh an Gréasán

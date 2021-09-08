@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Nua">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Teachtaireacht">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "T">
 <!ENTITY newContact.label "Teagmháil Leabhair Seoltaí…">
 <!ENTITY newContact.accesskey "T">
 <!ENTITY attachMenu.label "Iatán">
 <!ENTITY attachMenu.accesskey "n">
-<!ENTITY attachFileCmd.label "Comha(i)d…">
-<!ENTITY attachFileCmd.accesskey "C">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Leathanach Gréasáin…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Seol Níos Déanaí">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "l">
-<!ENTITY printSetupCmd.label "Socrú Leathanaigh…">
-<!ENTITY printSetupCmd.accesskey "L">
-<!ENTITY printPreviewCmd.label "Réamhamharc Priontála">
-<!ENTITY printPreviewCmd.accesskey "R">
 <!ENTITY printCmd.label "Priontáil…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
@@ -179,10 +170,6 @@
 <!ENTITY accountManagerCmd2.label "Socruithe an Chuntais">
 <!ENTITY accountManagerCmd2.accesskey "S">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
-<!ENTITY preferencesCmd2.label "Roghanna">
-<!ENTITY preferencesCmd2.accesskey "o">
-<!ENTITY preferencesCmdUnix.label "Sainroghanna">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
@@ -195,7 +182,6 @@
 <!ENTITY sendButton.label "Seol">
 <!ENTITY quoteButton.label "Luaigh">
 <!ENTITY addressButton.label "Teagmhálaithe">
-<!ENTITY attachButton.label "Ceangail">
 <!ENTITY spellingButton.label "Litriú">
 <!ENTITY saveButton.label "Sábháil">
 <!ENTITY printButton.label "Priontáil">
@@ -265,8 +251,6 @@
 <!ENTITY renameAttachment.accesskey "A">
 <!ENTITY selectAll.label "Roghnaigh Uile">
 <!ENTITY selectAll.accesskey "U">
-<!ENTITY attachFile.label "Cuir comha(i)d faoi iamh…">
-<!ENTITY attachFile.accesskey "f">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Tiontaigh go…">

@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Glac Gabháil Scáileáin
-
-screenshots-my-shots-button = Mo Chuid Gabhálacha
-
 screenshots-instructions = Tarraing nó cliceáil ar an leathanach chun réigiún a roghnú. Brúigh ESC le cealú.
 screenshots-cancel-button = Cealaigh
 screenshots-save-visible-button = Sábháil an réigiún infheicthe
@@ -30,8 +26,6 @@ screenshots-login-error-details = Níorbh fhéidir linn an ghabháil scáileáin
 
 screenshots-unshootable-page-error-title = Ní féidir linn gabháil scáileáin a ghlacadh ar an leathanach seo.
 screenshots-unshootable-page-error-details = Ní féidir gabháil scáileáin a ghlacadh toisc nach gnáthleathanach Gréasáin é seo.
-
-screenshots-self-screenshot-error-title = Ní féidir leat gabháil scáileáin a ghlacadh ar leathanach { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Roghnaigh tú réigiún róbheag
 

@@ -10,11 +10,6 @@ crashes-id = Aitheantas na Tuairisce
 crashes-send-date = Seolta
 crashes-all-reports = Gach Tuairisc Tuairteála
 crashes-no-config = Ní raibh an feidhmchlár seo cumraithe le tuairiscí tuairteála a thaispeáint.
-extensions-title = Eisínteachtaí
-extensions-name = Ainm
-extensions-enabled = Cumasaithe
-extensions-version = Leagan
-extensions-id = Aitheantas
 support-addons-name = Ainm
 support-addons-version = Leagan
 support-addons-id = Aitheantas
@@ -87,8 +82,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Cineál an Phróisis
 sandbox-sys-call-number = Glao ar an gcóras
 sandbox-sys-call-args = Argóintí
-safe-mode-title = Bain triail as an Mód Slán
-restart-in-safe-mode-label = Atosaigh gan aon bhreiseáin…
 
 ## Media titles
 
@@ -213,19 +206,12 @@ webgl2-renderer = Rindreálaí an Tiománaí WebGL 2
 webgl2-version = Leagan an Tiománaí WebGL 2
 webgl2-driver-extensions = Eisínteachtaí an Tiománaí WebGL 2
 webgl2-extensions = Eisínteachtaí WebGL 2
-blocklisted-bug = Ar an liosta blocála mar gheall ar fhadhbanna atá ar eolas
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = fabht { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Ar an liosta blocála; cód teipthe { $failureCode }
 
 d3d11layers-crash-guard = Eagraí D3D11
-d3d11video-crash-guard = Díchódóir Físe D3D11
-d3d9video-crash-guard = Díchódóir Físe D3D9
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Athshocrú ar an chéad atosú eile
@@ -250,14 +236,6 @@ sandbox-proc-type-media-plugin = forlíontán meáin
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Chumasaigh úsáideoir é seo
-multi-process-status-1 = Cumasaithe mar réamhshocrú
-multi-process-status-2 = Díchumasaithe
-multi-process-status-4 = Dhíchumasaithe trí uirlisí rochtana
-multi-process-status-6 = Díchumasaithe de bharr ionchur téacs gan tacaíocht
-multi-process-status-7 = Díchumasaithe trí bhreiseáin
-multi-process-status-8 = Díchumasaithe le lámh láidir
-multi-process-status-unknown = Stádas anaithnid
 
 async-pan-zoom = Peanáil/Zúmáil Aisioncronach
 apz-none = faic
