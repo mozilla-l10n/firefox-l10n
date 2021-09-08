@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Fjern alle websteder
     .accesskey = a
 
-permissions-button-cancel =
-    .label = Fortryd
-    .accesskey = o
-
-permissions-button-ok =
-    .label = Gem ændringer
-    .accesskey = G
-
 permission-dialog =
     .buttonlabelaccept = Gem ændringer
     .buttonaccesskeyaccept = G

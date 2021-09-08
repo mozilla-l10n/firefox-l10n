@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Bogmærk faneblad
     .accesskey = B
-reopen-in-container =
-    .label = Åbn igen i Kontekst
-    .accesskey = o
 tab-context-open-in-new-container-tab =
     .label = Åbn i nyt kontekst-faneblad
     .accesskey = t
@@ -69,25 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Luk flere faneblade
     .accesskey = a
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Fortryd lukning af faneblad
-           *[other] Fortryd lukning af faneblade
-        }
-    .accesskey = r
-close-tab =
-    .label = Luk faneblad
-    .accesskey = u
-close-tabs =
-    .label = Luk faneblade
-    .accesskey = u
-move-tabs =
-    .label = Flyt faneblade
-    .accesskey = y
-move-tab =
-    .label = Flyt faneblad
-    .accesskey = y
 tab-context-share-url =
     .label = Del
     .accesskey = D
@@ -129,6 +107,7 @@ tab-context-move-tabs =
            *[other] Flyt faneblade
         }
     .accesskey = y
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

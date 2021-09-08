@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Tvinger websteder til at genindlæse billeder og data
 
-clear-site-data-cancel =
-    .label = Fortryd
-    .accesskey = F
-
-clear-site-data-clear =
-    .label = Ryd
-    .accesskey = R
-
 clear-site-data-dialog =
     .buttonlabelaccept = Ryd
     .buttonaccesskeyaccept = R

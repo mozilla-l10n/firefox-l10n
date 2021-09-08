@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Serienummer
 
-fips-nonempty-password-required = FIPS-tilstand kræver at der er angivet en hovedadgangskode for hver sikkerhedsenhed. Opret en adgangskode før du skifter til FIPS-tilstand.
-
 fips-nonempty-primary-password-required = FIPS-tilstand kræver, at du har sat en hovedadgangskode for hvert sikkerhedsmodul. Opret en adgangskode, før du forsøger at aktivere FIPS-tilstand.
 unable-to-toggle-fips = Kunne ikke skifte FIPS-tilstand med sikkerhedsenheden. Det anbefales at du afslutter og genstarter dette program.
 load-pk11-module-file-picker-title = Vælg en PKCS#11-enhedsdriver der skal indlæses

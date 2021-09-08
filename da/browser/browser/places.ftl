@@ -5,9 +5,6 @@
 places-open =
     .label = Åbn
     .accesskey = Å
-places-open-tab =
-    .label = Åbn i et nyt faneblad
-    .accesskey = f
 places-open-in-tab =
     .label = Åbn i nyt faneblad
     .accesskey = f
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Åbn alle i faneblade
     .accesskey = a
-places-open-window =
-    .label = Åbn i et nyt vindue
-    .accesskey = v
-places-open-private-window =
-    .label = Åbn i et nyt privat vindue
-    .accesskey = n
-
-places-new-bookmark =
-    .label = Nyt bogmærke…
-    .accesskey = b
-places-new-folder-contextmenu =
-    .label = Ny mappe…
-    .accesskey = m
-places-new-folder =
-    .label = Ny mappe…
-    .accesskey = a
-places-new-separator =
-    .label = Ny separator
-    .accesskey = p
 
 places-open-in-window =
     .label = Åbn i nyt vindue
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Sorter efter navn
     .accesskey = r
-places-properties =
-    .label = Egenskaber
-    .accesskey = E
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -134,3 +109,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Håndter bogmærker
     .accesskey = g
+

@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "G">
 <!ENTITY deleteCmd.label          "Slet">
 <!ENTITY deleteCmd.accesskey        "S">
-<!ENTITY preferencesCmd2.label "Indstillinger">
-<!ENTITY preferencesCmd2.accesskey "I">
-<!ENTITY preferencesCmdUnix.label       "Indstillinger">
-<!ENTITY preferencesCmdUnix.accesskey     "I">
 
 <!ENTITY customizeCmd.label "Tilpas">
 <!ENTITY customizeCmd.accesskey "T">

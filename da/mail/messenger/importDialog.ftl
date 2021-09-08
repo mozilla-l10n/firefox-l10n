@@ -4,6 +4,9 @@
 
 # Short name of the import module
 thunderbird-import-name = Thunderbird
+
 # Description of the import module
 thunderbird-import-description = Importer mail fra en Thunderbird-profilmappe.
+
 import-select-profile-zip = Vælg en zip-komprimeret profilmappe
+

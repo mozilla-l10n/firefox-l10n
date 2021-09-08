@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Gem side som…">
 <!ENTITY savePageCmd.accesskey "e">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Sideopsætning…">
-<!ENTITY pageSetupCmd.accesskey "O">
-<!ENTITY printPreviewCmd.label "Vis udskrift">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Udskriv…">
 <!ENTITY printCmd.accesskey "U">
 <!ENTITY printCmd.commandkey "P">

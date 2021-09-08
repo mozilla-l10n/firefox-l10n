@@ -19,9 +19,6 @@ auth-your-fp-value = Fingeraftryk for dig, { $own_name }:
 auth-their-fp-value = Fingeraftryk for { $their_name }
 
 auth-help = Når du bekræfter en kontakts identitet, hjælper du med at sikre, at samtalen virkelig er privat, hvilket gør det meget vanskeligt for en tredjepart at lytte med på eller manipulere samtalen.
-auth-helpTitle = Hjælp til bekræftelse
-
-auth-questionReceived = Her er det spørgsmål, som din kontakt stiller:
 
 auth-help-title = Hjælp til bekræftelse
 
@@ -34,21 +31,6 @@ auth-no =
     .label = Nej
 
 auth-verified = Jeg har bekræftet, at dette er det rigtige fingeraftryk.
-
-auth-manualVerification = Manuel bekræftelse af fingeraftryk
-auth-questionAndAnswer = Spørgsmål og svar
-auth-sharedSecret = Delt hemmelighed
-
-auth-manualVerification-label =
-    .label = { auth-manualVerification }
-
-auth-questionAndAnswer-label =
-    .label = { auth-questionAndAnswer }
-
-auth-sharedSecret-label =
-    .label = { auth-sharedSecret }
-
-auth-manualInstruction = Kontakt din påtænkte samtalepartner via en anden godkendt kanal, fx en OpenPGP-underskrevet mail eller over telefonen. Du skal fortælle hinanden jeres fingeraftryk (et fingeraftryk er en kontrolsum, der identificerer en krypteringsnøgle). Hvis fingeraftrykket stemmer overens, skal du markere herunder, at du har verificeret fingeraftrykket.
 
 auth-manual-verification = Manuel bekræftelse af fingeraftryk
 auth-question-and-answer = Spørgsmål og svar
@@ -66,10 +48,6 @@ auth-shared-secret-label =
 auth-manual-instruction = Kontakt din påtænkte samtalepartner via en anden godkendt kanal, fx en OpenPGP-underskrevet mail eller over telefonen. Du skal fortælle hinanden jeres fingeraftryk (et fingeraftryk er en kontrolsum, der identificerer en krypteringsnøgle). Hvis fingeraftrykket stemmer overens, skal du markere herunder, at du har verificeret fingeraftrykket.
 
 auth-how = Hvordan vil du bekræfte din kontakts identitet?
-
-auth-qaInstruction = Tænk på et spørgsmål, som kun dig og din kontakt kender svaret på. Indtast spørgsmålet og svaret, og vent derefter på, at din kontakt indtaster svaret. Hvis svarene ikke stemmer overens, kan den kommunikationskanal, du bruger, være overvåget.
-
-auth-secretInstruction = Tænk på en hemmelighed, kun du og din kontakt kender til. Brug ikke den samme internetforbindelse til at udveksle hemmeligheden. Indtast hemmeligheden, og vent derefter på din kontakt indtaster den. Hvis hemmelighederne ikke stemmer overens, kan den kommunikationskanal, du bruger, være overvåget.
 
 auth-qa-instruction = Tænk på et spørgsmål, som kun dig og din kontakt kender svaret på. Indtast spørgsmålet og svaret, og vent derefter på, at din kontakt indtaster svaret. Hvis svarene ikke stemmer overens, kan den kommunikationskanal, du bruger, være overvåget.
 
