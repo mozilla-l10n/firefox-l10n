@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = OTR-fingerôfdrukken fan eardere end-to-end-fersifere petearen.
 
-finger-screenName =
-    .label = Kontakt
-
 finger-screen-name =
     .label = Kontakt
 finger-verified =

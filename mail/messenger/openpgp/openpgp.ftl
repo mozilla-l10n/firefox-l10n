@@ -129,10 +129,6 @@ openpgp-key-send-key =
     .label = Iepenbiere kaai fia e-mail ferstjoere
     .accesskey = f
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Iepenbiere kaai(en) nei klamboerd kopiearje
-    .accesskey = k
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -159,8 +155,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Kaaien nei bestân eksportearje
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Iepenbiere kaaien nei klamboerd kopiearje
 
 openpgp-key-man-ctx-copy =
     .label = Kopiearje
@@ -312,15 +306,6 @@ openpgp-description =
        *[other] Thunderbird hat { $count } persoanlike OpenPGP-kaaien fûn dy't keppele binne oan <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Selektearje in jildige kaai om it OpenPGP-protokol yn te skeakeljen.
-        [one] Jo aktuele konfiguraasje brûkt kaai-ID <b>{ $key }</b>
-       *[other] Jo aktuele konfiguraasje brûkt kaai-ID <b>{ $key }</b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Jo aktuele konfiguraasje brûkt kaai-ID <b>{ $key }</b>
 
@@ -353,14 +338,8 @@ openpgp-radio-key-not-found = Dizze kaai koe net fûn wurde! As jo it brûke wol
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Ferrint op: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Kaai ferrint oer minder as 6 moannen
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Ferrûn op: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Kaai ferrûn
 
 openpgp-key-expires-within-6-months-icon =
     .title = Kaai ferrint oer minder as 6 moannen
@@ -684,7 +663,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Jo hawwe rigelôfbrekking ynsteld op { $width } tekens. Foar in korrekte fersifering en/of ûndertekening moat dizze wearde op syn minst 68 wêze.
     Wolle jo de rigelôfbrekking no wizigje yn 68 tekens?
-sending-hidden-rcpt = Bcc-ûntfangers (bline kopy) kinne net brûkt wurde by it ferstjoeren fan in fersifere berjocht. Smyt de bcc-ûntfangers fuort of ferpleats se nei it cc-fjild om dit fersifere berjocht te ferstjoeren.
 sending-news =
     Fersifere ferstjoerbewurking ôfbrutsen.
     Dit berjocht kin net fersifere wurde omdat de ûntfangers nijsgroepen befetsje. Ferstjoer it berjocht opnij sûnder fersifering.
@@ -751,9 +729,6 @@ enig-info = OpenPGP-ynformaasje
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Opnij probearje
 dlg-button-skip = Oer&slaan
-
-# Strings used in enigmailCommon.js
-enig-error = OpenPGP-flater
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

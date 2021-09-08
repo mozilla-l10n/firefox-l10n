@@ -10,9 +10,6 @@ third-party-intro =
     ynboud binne. Elke module dy't net troch Microsoft of { -vendor-short-name }
     ûndertekene is, wurdt beskôge as module fan tredden.
 
-third-party-header-module-list = Modulelist
-third-party-header-loading-events = Barrens lade
-
 third-party-message-empty = Der binne gjin modulen fan tredden detektearre.
 third-party-message-no-duration = Net opnommen
 

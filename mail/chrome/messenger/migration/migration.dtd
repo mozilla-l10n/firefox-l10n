@@ -11,8 +11,6 @@
 
 <!ENTITY importFromNothing.label        "Neat ymportearje">
 <!ENTITY importFromNothing.accesskey    "t">
-<!ENTITY importFromThunderbird.label     "Thunderbird">
-<!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 of letter">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOutlook.label        "Outlook">

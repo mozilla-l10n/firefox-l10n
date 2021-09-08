@@ -5,9 +5,6 @@
 places-open =
     .label = Iepenje
     .accesskey = I
-places-open-tab =
-    .label = Iepenje yn in nij ljepblêd
-    .accesskey = l
 places-open-in-tab =
     .label = Iepenje yn nij ljepblêd
     .accesskey = n
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Alle iepenje yn ljepblêden
     .accesskey = a
-places-open-window =
-    .label = Iepenje yn in nij finster
-    .accesskey = f
-places-open-private-window =
-    .label = Iepenje yn in nij priveefinster
-    .accesskey = p
-
-places-new-bookmark =
-    .label = Nije blêdwizer…
-    .accesskey = b
-places-new-folder-contextmenu =
-    .label = Nije map…
-    .accesskey = m
-places-new-folder =
-    .label = Nije map…
-    .accesskey = m
-places-new-separator =
-    .label = Nij skiedingsteken
-    .accesskey = s
 
 places-open-in-window =
     .label = Iepenje yn nij finster
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Sortearje op namme
     .accesskey = S
-places-properties =
-    .label = Eigenskippen
-    .accesskey = E
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -135,3 +110,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Blêdwizers beheare
     .accesskey = b
+

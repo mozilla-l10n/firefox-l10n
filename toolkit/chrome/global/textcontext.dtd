@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Wiskje">
 
-<!ENTITY fillLoginMenu.label          "Oanmelding ynfolje">
-<!ENTITY fillLoginMenu.accesskey      "y">
-<!ENTITY fillPasswordMenu.label       "Wachtwurd ynfolje">
-<!ENTITY fillPasswordMenu.accesskey   "y">
-<!ENTITY fillUsernameMenu.label       "Brûkersnamme ynfolje">
-<!ENTITY fillUsernameMenu.accesskey   "y">
-<!ENTITY noLoginSuggestions.label     "(Gjin oanmeldingssuggestjes)">
-<!ENTITY viewSavedLogins.label        "Bewarre oanmeldingen werjaan">

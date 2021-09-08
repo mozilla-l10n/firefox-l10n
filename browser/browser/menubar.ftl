@@ -38,16 +38,20 @@ menu-quit =
             [windows] O
            *[other] O
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } ôfslute
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } ôfslute
+
 menu-about =
     .label = Oer { -brand-shorter-name }
     .accesskey = O
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Bewurkje
     .accesskey = W
-menu-edit-find-on =
-    .label = Sykje op dizze side…
-    .accesskey = S
 menu-edit-find-in-page =
     .label = Sykje op side…
     .accesskey = S
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Arkbalken
     .accesskey = A
-menu-view-customize-toolbar =
-    .label = Oanpasse…
-    .accesskey = O
 menu-view-customize-toolbar2 =
     .label = Arkbalke oanpasse…
     .accesskey = p
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Basisstyl
     .accesskey = B
-menu-view-charset =
-    .label = Tekenkodearring
-    .accesskey = T
 menu-view-repair-text-encoding =
     .label = Tekstkodearring reparearje
     .accesskey = r
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Alle finsters opnij iepenje
 menu-bookmarks-menu =
     .label = Blêdwizers
     .accesskey = D
-menu-bookmarks-show-all =
-    .label = Alle blêdwizers toane
-menu-bookmark-this-page =
-    .label = Blêdwizer foar dizze side meitsje
 menu-bookmarks-manage =
     .label = Blêdwizers beheare
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Downloads
     .accesskey = D
-menu-tools-addons =
-    .label = Add-ons
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = Oanmelde by { -brand-product-name }…
-    .accesskey = m
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } ynskeakelje…
-    .accesskey = y
 menu-tools-addons-and-themes =
     .label = Add-ons en tema’s
     .accesskey = A
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Opnij ferbine mei { -brand-product-name }…
     .accesskey = O
-menu-tools-web-developer =
-    .label = Webûntwikkeler
-    .accesskey = W
 menu-tools-browser-tools =
     .label = Browserhelpmiddelen
     .accesskey = B
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Side-ynfo
     .accesskey = f
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opsjes
-           *[other] Foarkarren…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] F
-        }
 menu-settings =
     .label = Ynstellingen
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Help
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } Help
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name }-toer
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = Ymportearje fan in oare browser út…
-    .accesskey = Y
-menu-help-keyboard-shortcuts =
-    .label = Fluchtoetsen
-    .accesskey = t
-menu-help-troubleshooting-info =
-    .label = Probleemoplossingsynformaasje
-    .accesskey = P
 menu-get-help =
     .label = Help krije
     .accesskey = H
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Feedback ferstjoere…
     .accesskey = f
-menu-help-safe-mode-without-addons =
-    .label = Werstart mei útskeakele add-ons…
-    .accesskey = W
-menu-help-safe-mode-with-addons =
-    .label = Opnij starte mei ynskeakele add-ons
-    .accesskey = r
 menu-help-enter-troubleshoot-mode2 =
     .label = Probleemoplossingsmodus…
     .accesskey = u

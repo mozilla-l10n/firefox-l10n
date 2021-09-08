@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR-ynstellingen
 otr-log =
     .label = OTR-fersifere berjochten yn petearlochboeken opnimme
-otr-requireEncryption =
-    .label = End-to-end-fersifering foar ien-op-ien-petearen fereaskje
-otr-verifyNudge =
-    .label = My altyd in omtinken stjoere om in net-ferifiearre kontakt te ferifiearjen
-
-otr-notYetAvailable = noch net beskikber
 
 otr-require-encryption =
     .label = End-to-end-fersifering foar ien-op-ien-petearen fereaskje

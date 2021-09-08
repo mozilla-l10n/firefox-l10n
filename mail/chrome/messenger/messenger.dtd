@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Ofdrukke…">
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Ofdrukfoarbyld">
-<!ENTITY printPreviewCmd.accesskey "f">
-<!ENTITY printSetupCmd.label "Sideynstellingen…">
-<!ENTITY printSetupCmd.accesskey "y">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Berjocht fuortsmite">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Kompakt byld">
 <!ENTITY compactVersion.accesskey "K">
-<!ENTITY folderPaneBar.label "Mappenfinsterarkbalke">
-<!ENTITY folderPaneBar.accesskey "M">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortearje op">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "b">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "A">
-<!ENTITY addonPrefs.label "Add-onopsjes">
-<!ENTITY addonPrefs.accesskey "A">
-<!ENTITY addonPrefsUnix.label "Add-onfoarkarren">
-<!ENTITY addonPrefsUnix.accesskey "f">
 <!ENTITY addonNoPrefs.label "Gjin add-onynstellingen fûn.">
 <!ENTITY activitymanager.label "Aktiviteitebehearder">
 <!ENTITY activitymanager.accesskey "a">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Add-ons debugge">
 <!ENTITY debugAddonsCmd.accesskey "A">
-<!ENTITY tabsDebugCmd.label "Frame-ynhâlds-debugger">
-<!ENTITY tabsDebugCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.label "Flaterkonsole">
 <!ENTITY errorConsoleCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Tebek">
 <!ENTITY goForwardButton1.label "Foarút">
 <!ENTITY deleteItem.title "Fuortsmite">
-<!ENTITY deleteButton.label "Fuortsmite">
-<!ENTITY undeleteButton.label "Tebeksette">
 <!ENTITY markButton.label "Markearje">
 <!ENTITY printButton.label "Ofdrukke">
 <!ENTITY stopButton.label "Ophâlde">
 <!ENTITY throbberItem.title "Aktiviteitsyndikator">
 <!ENTITY junkItem.title "Net-winske">
-<!ENTITY junkButton.label "Net-winske">
-<!ENTITY notJunkButton.label "Winske">
 <!ENTITY addressBookButton.label "Adresboek">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Globaal sykje">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Nei it foarige berjocht gean">
 <!ENTITY goForwardButton.tooltip "Ien berjocht foarút gean">
 <!ENTITY goBackButton.tooltip "Ien berjocht tebek gean">
-<!ENTITY deleteButton.tooltip "Selektearre berjocht of map fuortsmite">
-<!ENTITY undeleteButton.tooltip "Selektearre berjocht tebeksette">
 <!ENTITY markButton.tooltip "Berjochten markearje">
 <!ENTITY printButton.tooltip "Dit berjocht ôfdrukke">
 <!ENTITY stopButton.tooltip "Aktuele ferbining ferbrekke">
-<!ENTITY junkButton.tooltip "Selektearre berjochten as net-winske markearje">
-<!ENTITY notJunkButton.tooltip "Selektearre berjochten as net-winske markearje">
 <!ENTITY addressBookButton.tooltip "Adresboek iepenje">
 <!ENTITY chatButton.tooltip "Chatljepblêd toane">
 <!ENTITY tagButton.tooltip "Berjocht labelje">
 <!ENTITY compactButton.tooltip "Fuortsmiten berjochten út de selektearre map definityf fuortsmite">
 <!ENTITY appmenuButton1.tooltip "It &brandShortName;-menu toane">
-<!ENTITY addonsButton.tooltip "Jo add-ons beheare">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Trochstjoere yn berjocht">

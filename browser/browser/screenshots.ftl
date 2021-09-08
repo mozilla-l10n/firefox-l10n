@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Skermôfdruk meitsje
-
-screenshots-my-shots-button = Myn skermôfdrukken
-
 screenshot-toolbarbutton =
     .label = Skermôfdruk
     .tooltiptext = In skermôfdruk meitsje
@@ -40,8 +36,6 @@ screenshots-login-error-details = Wy koene jo skermôfdruk net bewarje, omdat de
 
 screenshots-unshootable-page-error-title = It is net mooglik in skermôfdruk fan dizze side te meitsjen.
 screenshots-unshootable-page-error-details = Dit is net in standert webside, dus jo kinne der net in skermôfdruk fan meitsje.
-
-screenshots-self-screenshot-error-title = Jo kinne net in skermôfdruk meitsje fan in { -screenshots-brand-name }-side!
 
 screenshots-empty-selection-error-title = Jo seleksje is te lyts
 

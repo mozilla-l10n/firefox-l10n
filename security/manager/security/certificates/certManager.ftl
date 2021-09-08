@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Jo hawwe sertifikaten fan dizze organisaasjes, dy't jo identifisearje
 certmgr-remembered = Dizze sertifikaten wurde brûkt om jo by websites te identifisearjen
 certmgr-people = Jo hawwe sertifikaten argivearre dy't dizze persoanen identifisearje
-certmgr-servers = Jo hawwe sertifikaten argivearre dy't dizze servers identifisearje
 certmgr-server = Dizze fermeldingen identifisearje útsûnderingen op serversertifikaatflaters
 certmgr-ca = Jo hawwe sertifikaten argivearre dy't dizze sertifikaatautoriteiten identifisearje
-
-certmgr-detail-general-tab-title =
-    .label = Algemien
-    .accesskey = A
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Details
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = No sertifikaat oan it ferifiearjen…
-
-certmgr-subject-label = Utjûn oan
-
-certmgr-issuer-label = Utjûn troch
-
-certmgr-period-of-validity = Perioade fan jildichheid
-
-certmgr-fingerprints = Fingerôfdrukken
-
-certmgr-cert-detail =
-    .title = Detail fan sertifikaat
-    .buttonlabelaccept = Slute
-    .buttonaccesskeyaccept = S
-
-certmgr-cert-detail-commonname = Algemiene namme (CN)
-
-certmgr-cert-detail-org = Organisaasje (O)
-
-certmgr-cert-detail-orgunit = Organisatoaryske Ienheid (OU)
-
-certmgr-cert-detail-serial-number = Searjenûmer
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256-fingerôfdruk
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1-fingerôfdruk
 
 certmgr-edit-ca-cert =
     .title = CA-sertifikaat-fertrouwensynstellingen bewurkje
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Befeiligingsapparaat
 
-certmgr-begins-on = Start op
-
 certmgr-begins-label =
     .label = Start op
-
-certmgr-expires-on = Ferrint op
 
 certmgr-expires-label =
     .label = Ferrint op
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Ymportearje…
     .accesskey = Y
-
-certmgr-details =
-    .value = Sertifikaatfjilden
-    .accesskey = e
-
-certmgr-fields =
-    .value = Fjildwearde
-    .accesskey = w
-
-certmgr-hierarchy =
-    .value = Sertifikaathierargy
-    .accesskey = h
 
 certmgr-add-exception =
     .label = Utsûndering tafoegje…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Binne jo wis dat jo dizze sertifikaten fuortsmite wol
 delete-user-cert-impact = As jo ien fan jo eigen sertifikaten fuortsmite, kinne jo it net langer brûke om josels mei te ydentifisearjen.
 
 
-delete-ssl-cert-title =
-    .title = Server Sertifikaat Utsûnderingen fuortsmite
-delete-ssl-cert-confirm = Binne jo wis dat jo dizze serverútsûnderingen fuortsmite wolle?
-delete-ssl-cert-impact = As jo in serversertifikaatútsûndering fuortsmite, bringe jo de gebrûklike feilichheidskontrôles werom foar dizze website en is in falide sertifikaat nedich.
-
-
 delete-ssl-override-title =
     .title = Serversertifikaatútsûndering fuortsmite
 delete-ssl-override-confirm = Binne jo wis dat jo dizze serverútsûndering fuortsmite wolle?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Sertifikaat mei searjenûmer: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Sertifikaatwerjefte: ‘{ $certName }’
-
-not-present =
-    .value = <Gjin ûnderdiel fan it sertifikaat>
-
-# Cert verification
-cert-verified = Dit sertifikaat is ferifiearre foar de folgjende soarten gebrûk
-
-# Add usage
-verify-ssl-client =
-    .value = SSL-klientsertifikaat
-
-verify-ssl-server =
-    .value = SSL-serversertifikaat
-
-verify-ssl-ca =
-    .value = SSL-sertifikaatautoriteit
-
-verify-email-signer =
-    .value = E-mail ûndertekenaarsertifikaat
-
-verify-email-recip =
-    .value = E-mail ûntfangersertifikaat
-
-# Cert verification
-cert-not-verified-cert-revoked = Dit sertifikaat koe net ferifiearre wurde, omdat it werroppen is.
-cert-not-verified-cert-expired = Dit sertifikaat koe net ferifiearre wurde, omdat it ferrûn is.
-cert-not-verified-cert-not-trusted = Dit sertifikaat koe net ferifiearre wurde, omdat it net fertroud wurd.
-cert-not-verified-issuer-not-trusted = Dit sertifikaat koe net ferifiearre wurde, omdat de útjouwer net fertroud wurd.
-cert-not-verified-issuer-unknown = Dit sertifikaat koe net ferifiearre wurde, omdat de útjouwer net bekend is.
-cert-not-verified-ca-invalid = Dit sertifikaat koe net ferifiearre wurde, omdat it CA-sertifikaat net jildich is.
-cert-not-verified_algorithm-disabled = Koe dit sertifikaat net ferifiearje, omdat it signearre is mei in signatueralgoritme dat útskeakele is, omdat dat algoritme net feilich is.
-cert-not-verified-unknown = Dit sertifikaat koe om ûnbekende redenen net ferifiearre wurde.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Gjin clientsertifikaat ferstjoere
