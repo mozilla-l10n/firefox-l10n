@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Faigh amach an staid ar líne go huathoibríoch
     .accesskey = d
 
-startup-label = Staid de láimh ag am tosaithe:
-
 status-radio-remember =
     .label = Úsáid an staid ar líne roimhe seo
     .accesskey = r

@@ -3,13 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Roghanna
-           *[other] Sainroghanna
-        }
-
 pane-compose-title = Cumadh
 category-compose =
     .tooltiptext = Cumadh
@@ -76,10 +69,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Saincheap…
     .accesskey = c
-
-tray-icon-label =
-    .label = Taispeáin deilbhín sa tráidire
-    .accesskey = t
 
 mail-custom-sound-label =
     .label = Úsáid an comhad fuaime seo
@@ -262,9 +251,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Dath:
     .accesskey = t
-
-search-input =
-    .placeholder = Cuardaigh
 
 type-column-label =
     .label = Cineál Ábhair
@@ -531,16 +517,6 @@ passwords-description = Is féidir le { -brand-short-name } focail fhaire do chu
 passwords-button =
     .label = Focail Fhaire Sábháilte…
     .accesskey = S
-
-master-password-description = Cosnaíonn Príomhfhocal Faire do chuid focal faire go léir, ach beidh ort é a chur isteach uair amháin sa seisiún.
-
-master-password-label =
-    .label = Úsáid príomhfhocal faire
-    .accesskey = p
-
-master-password-button =
-    .label = Athraigh an Príomhfhocal Faire…
-    .accesskey = c
 
 
 junk-description = Socraigh na réamhshocruithe dramhphoist. Téigh go Socruithe an Chuntais chun socruithe dramhphoist do chuntas áirithe a chumrú.

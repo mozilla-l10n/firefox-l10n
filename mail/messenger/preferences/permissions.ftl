@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Eisceachtaí
     .style = width: 45em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = Seoladh an tsuímh Ghréasáin:
     .accesskey = G

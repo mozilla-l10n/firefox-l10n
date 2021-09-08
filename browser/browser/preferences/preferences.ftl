@@ -7,12 +7,6 @@ do-not-track-learn-more = Tuilleadh eolais
 do-not-track-option-always =
     .label = I gCónaí
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Roghanna
-       *[other] Sainroghanna
-    }
-
 pane-general-title = Ginearálta
 category-general =
     .tooltiptext = { pane-general-title }
@@ -28,10 +22,6 @@ category-search =
 pane-privacy-title = Príobháideachas agus Slándáil
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = Tacaíocht { -brand-short-name }
 addons-button-label = Eisínteachtaí agus Téamaí
@@ -66,24 +56,9 @@ restart-later = Atosaigh Ar Ball
 
 search-results-header = Torthaí an Chuardaigh
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Ár leithscéal! Níl aon torthaí i Roghanna ar “<span data-l10n-name="query"></span>”.
-       *[other] Ár leithscéal! Níl aon torthaí i Sainroghanna ar “<span data-l10n-name="query"></span>”.
-    }
-
 ## General Section
 
 startup-header = Tosú
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Lig do { -brand-short-name } agus Firefox a bheith ar siúl san am céanna
-use-firefox-sync = Leid: Úsáideann sé seo dhá phróifíl ar leith. Úsáid { -sync-brand-short-name } le sonraí a chomhroinnt eatarthu.
-get-started-not-logged-in = Logáil isteach i { -sync-brand-short-name }…
-get-started-configured = Oscail sainroghanna { -sync-brand-short-name }
 
 always-check-default =
     .label = Seiceáil i gcónaí an é { -brand-short-name } an brabhsálaí réamhshocraithe
@@ -113,10 +88,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Tabhair rabhadh dom má tá baol ann go mbeidh { -brand-short-name } níos moille tar éis cluaisíní a oscailt
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = Tar éis dom nasc a oscailt i gcluaisín nua, athraigh chuige láithreach
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = Taispeáin réamhamharc ar chluaisíní sa tascbharra Windows
@@ -279,11 +250,6 @@ applications-manage-app =
     .label = Mionsonraí Feidhmchláir…
 applications-always-ask =
     .label = Fiafraigh díom i gcónaí
-applications-type-pdf = Formáid Doiciméad Iniompartha (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -488,8 +454,6 @@ search-show-suggestions-url-bar-option =
 
 search-suggestions-cant-show = Ní thaispeánfar moltaí cuardaigh sa mbarra suímh toisc go ndúirt tú le { -brand-short-name } gan do stair bhrabhsála a mheabhrú.
 
-search-one-click-header = Innill Chuardaigh Aonchlic
-
 search-one-click-desc = Roghnaigh innill chuardaigh mhalartacha le taispeáint faoin bharra suímh agus faoin bharra cuardaigh nuair a thosaíonn tú ag clóscríobh.
 
 search-choose-engine-column =
@@ -522,9 +486,6 @@ containers-add-button =
     .label = Coimeádán Nua
     .accesskey = C
 
-containers-preferences-button =
-    .label = Sainroghanna
-
 containers-remove-button =
     .label = Bain
 
@@ -535,7 +496,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Beir do Ghréasán féin leat
-sync-signedout-description = Siocrónaigh do chuid leabharmharcanna, stair, cluaisíní, focail fhaire, breiseáin, agus sainroghanna ar do ghléasanna go léir.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -623,14 +583,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Focail fhaire a sábháladh…
     .accesskey = f
-forms-master-pw-use =
-    .label = Úsáid príomhfhocal faire
-    .accesskey = p
 forms-master-pw-change =
     .label = Athraigh an Príomhfhocal Faire…
     .accesskey = P
-
-forms-master-pw-fips-title = Tá tú i mód FIPS faoi láthair. Tá Príomhfhocal Faire neamhfholamh ag teastáil ó FIPS.
 
 forms-master-pw-fips-desc = Theip ar athrú an fhocail faire.
 
@@ -777,8 +732,6 @@ permissions-addon-exceptions =
     .label = Eisceachtaí…
     .accesskey = E
 
-permissions-a11y-privacy-link = Tuilleadh eolais
-
 ## Privacy Section - Data Collection
 
 collection-header = Bailiúchán agus Úsáid Sonraí { -brand-short-name }
@@ -793,8 +746,6 @@ addon-recommendations-link = Tuilleadh eolais
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Díchumasaíodh tuairisciú sonraí don chumraíocht leagain seo
-
-collection-backlogged-crash-reports-link = Tuilleadh eolais
 
 ## Privacy Section - Security
 ##
@@ -820,16 +771,6 @@ security-block-uncommon-software =
 
 certs-header = Teastais
 
-certs-personal-label = Nuair atá freastalaí ag iarraidh mo theastas pearsanta
-
-certs-select-auto-option =
-    .label = Roghnaigh go huathoibríoch
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Fiafraigh díom i gcónaí
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = Iarr ar fhreastalaí freagróra OCSP bailíocht teastais a dheimhniú
     .accesskey = O
@@ -841,28 +782,6 @@ certs-view =
 certs-devices =
     .label = Gléasanna Slándála…
     .accesskey = d
-
-space-alert-learn-more-button =
-    .label = Tuilleadh Eolais
-    .accesskey = T
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Oscail na Roghanna
-           *[other] Oscail na Sainroghanna
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-under-5gb-ok-button =
-    .label = OK, Tuigim
-    .accesskey = K
-
-space-alert-under-5gb-message = Níl mórán spáis fágtha ar an diosca ag { -brand-short-name }. Seans nach dtaispeánfar ábhar mar is ceart sa bhrabhsálaí. Cliceáil “Tuilleadh Eolais” le foghlaim conas an úsáid is fearr a bhaint as an diosca.
 
 ## Privacy Section - HTTPS-Only
 

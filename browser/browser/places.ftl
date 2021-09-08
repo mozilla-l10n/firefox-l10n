@@ -5,31 +5,9 @@
 places-open =
     .label = Oscail
     .accesskey = O
-places-open-tab =
-    .label = Oscail i gCluaisín Nua
-    .accesskey = C
 places-open-all-in-tabs =
     .label = Oscail gach rud i gcluaisíní
     .accesskey = O
-places-open-window =
-    .label = Oscail i bhFuinneog Nua
-    .accesskey = N
-places-open-private-window =
-    .label = Oscail i bhFuinneog Nua Phríobháideach
-    .accesskey = P
-
-places-new-bookmark =
-    .label = Leabharmharc Nua…
-    .accesskey = L
-places-new-folder-contextmenu =
-    .label = Fillteán Nua…
-    .accesskey = F
-places-new-folder =
-    .label = Fillteán Nua…
-    .accesskey = F
-places-new-separator =
-    .label = Deighilteoir Nua
-    .accesskey = D
 
 places-view =
     .label = Amharc
@@ -56,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Sórtáil de réir Ainm
     .accesskey = r
-places-properties =
-    .label = Airíonna
-    .accesskey = i
 

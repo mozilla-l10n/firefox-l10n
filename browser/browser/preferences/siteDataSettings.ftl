@@ -25,14 +25,6 @@ site-data-remove-selected =
     .label = Bain na Cinn Roghnaithe
     .accesskey = R
 
-site-data-button-cancel =
-    .label = Cealaigh
-    .accesskey = C
-
-site-data-button-save =
-    .label = Sábháil na hAthruithe
-    .accesskey = a
-
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

@@ -21,10 +21,6 @@ move-to-new-window =
     .label = Bog go Fuinneog Nua
     .accesskey = N
 
-close-tab =
-    .label = Dún Cluaisín
-    .accesskey = D
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
