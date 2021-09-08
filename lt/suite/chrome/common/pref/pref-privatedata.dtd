@@ -14,7 +14,6 @@
 <!ENTITY alwaysClear.accesskey            "V">
 
 <!ENTITY askBeforeClear.label             "Įspėti prieš šalinant privačius duomenis">
-<!ENTITY askBeforeClear.accesskey         "p">
 
 <!ENTITY clearDataSettings.label          "Liepus programai „&brandShortName;“ pašalinti privačius duomenis, reikia išvalyti:">
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):

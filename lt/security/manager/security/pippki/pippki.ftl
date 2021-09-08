@@ -6,9 +6,6 @@ password-quality-meter = Slaptažodžio kokybės matavimas
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Pagrindinio slaptažodžio pakeitimas
-
 change-device-password-window =
     .title = Keisti slaptažodį
 
@@ -20,10 +17,6 @@ change-password-new = Naujas slaptažodis:
 change-password-reenter = Naujas slaptažodis (pakartoti):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Pagrindinio slaptažodžio atšaukimas
-    .style = width: 40em
 
 pippki-failed-pw-change = Nepavyko pakeisti slaptažodžio.
 pippki-incorrect-pw = Neteisingai surinkote dabartinį slaptažodį. Bandykite dar kartą.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Atšaukti
-reset-password-text = Jei atšauksite pagrindinį slaptažodį, prarasite visus įrašytus svetainių ir el. pašto dėžučių slaptažodžius, formų duomenis, liudijimus ir asmeninius raktus. Ar atšaukti?
 
 reset-primary-password-text = Jei atšauksite pagrindinį slaptažodį, prarasite visus įrašytus svetainių ir el. pašto dėžučių slaptažodžius, liudijimus ir asmeninius raktus. Ar atšaukti?
 

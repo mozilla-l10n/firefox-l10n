@@ -3,11 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Context Menu -->
 
-<!ENTITY popupWindowRejectCmd.label     "Neatverti iškylančiųjų langų iš šios svetainės">
-<!ENTITY popupWindowRejectCmd.accesskey "N">
-<!ENTITY popupWindowAllowCmd.label      "Leisti atverti iškylančiuosius langus iš šios svetainės">
-<!ENTITY popupWindowAllowCmd.accesskey  "L">
-
 <!ENTITY openLinkCmdInTab.label       "Atverti saitą naujoje kortelėje">
 <!ENTITY openLinkCmdInTab.accesskey   "v">
 <!ENTITY openLinkCmd.label            "Atverti saitą naujame lange">

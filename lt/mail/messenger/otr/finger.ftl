@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = OTR raktų „pirštų atspaudai“ iš ankstesnių abipusiai užšifruotų pokalbių.
 
-finger-screenName =
-    .label = Adresatas
-
 finger-screen-name =
     .label = Kontaktas
 finger-verified =

@@ -66,11 +66,6 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = Ekrano nuotraukų nuostatos
 
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Įrašyti į iškarpinę
-options-screenshot-clipboard-tooltip =
-    .title = Įrašo ekrano nuotrauką tiesiai į kompiuterio iškarpinę
-
-# Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Įrašyti nuotrauką tik į iškarpinę
 options-screenshot-clipboard-tooltip2 =
     .title = Įrašo ekrano nuotrauką tiesiai į kompiuterio iškarpinę

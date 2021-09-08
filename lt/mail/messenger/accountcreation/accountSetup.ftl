@@ -245,6 +245,8 @@ account-setup-insecure-server-checkbox = Aš suprantu pavojus
 
 exchange-dialog-cancel-button = Atšaukti
 
+## Dismiss account creation dialog
+
 ## Alert dialogs
 
 account-setup-creation-error-title = Klaida kuriant paskyrą

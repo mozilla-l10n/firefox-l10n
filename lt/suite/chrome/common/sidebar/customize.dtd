@@ -6,11 +6,6 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
 
 
-<!ENTITY sidebar.customize.title.label          "Parankinės tvarkymas">
-<!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Esamos kortelės:">
-<!ENTITY sidebar.customize.current.accesskey    "E">
-
 <!ENTITY sidebar.customize.customize.label      "Tvarkyti kortelę…">
 <!ENTITY sidebar.customize.customize.accesskey  "T">
 <!ENTITY sidebar.customize.remove.label         "Pašalinti">

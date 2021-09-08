@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Be užraitų
 
-font-size-label =
-    .value = Dydis:
-    .accesskey = D
-
 font-size-proportional-label =
     .value = Dydis:
     .accesskey = d

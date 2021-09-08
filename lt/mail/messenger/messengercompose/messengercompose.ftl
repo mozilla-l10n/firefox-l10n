@@ -6,9 +6,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = Pašalinti lauką { $type }
-
-#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -94,20 +91,6 @@ attachment-bucket-count =
         }
     .accesskey = m
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext =
-        { $count ->
-            [1] { $count } priedai
-            [one] { $count }priedas
-            [few] { $count }priedai
-           *[other] { $count } priedų
-        }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 expand-attachment-pane-tooltip =
     .tooltiptext = Rodyti priedų polangį ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
@@ -142,6 +125,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Patvirtinimas
     .tooltiptext = Paprašyti pristatymo patvirtinimo šiam pranešimui
+
+# Encryption
 
 # Addressing Area
 
@@ -186,6 +171,7 @@ bcc-compose-show-address-row-label =
 
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = { $count } gavėjai iš „To“ ir „Cc“ gali matyti vienas kito adresą. Jei norite to išvengti, naudokite nematomas kopijas (Bcc).
+
 
 many-public-recipients-bcc =
     .label = Vietoj to naudoti nematomas kopijas (BCC)

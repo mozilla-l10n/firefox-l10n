@@ -43,10 +43,6 @@
 <!ENTITY sendLaterCmd.accesskey "v">
 <!-- Edit menu items -->
 
-<!ENTITY editRewrapCmd.label "Laužyti iš naujo">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "n">
-
 <!ENTITY accountManagerCmd.label "Paskyrų nuostatos…">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!-- View menu items -->

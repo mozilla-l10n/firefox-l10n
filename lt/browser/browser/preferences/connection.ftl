@@ -35,9 +35,6 @@ connection-proxy-http = HTTP įgaliotasis serveris
     .accesskey = g
 connection-proxy-http-port = Prievadas
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Taip pat naudoti šį serverį jungiantis per FTP ir HTTPS
-    .accesskey = s
 
 connection-proxy-https-sharing =
     .label = Taip pat naudoti šį serverį jungiantis per HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS įgaliotasis serveris
     .accesskey = H
 connection-proxy-ssl-port = Prievadas
     .accesskey = i
-
-connection-proxy-ftp = FTP įgaliotasis serveris
-    .accesskey = F
-connection-proxy-ftp-port = Prievadas
-    .accesskey = e
 
 connection-proxy-socks = SOCKS kompiuteris
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Tiesiogiai jungtis prie
     .accesskey = t
 
 connection-proxy-noproxy-desc = Pavyzdys: .mozilla.org, .lrs.lt, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Prisijungimai prie localhost, 127.0.0.1, ir ::1 niekada neina per įgaliotąjį serverį.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Prisijungimai prie localhost, 127.0.0.1/8, ir ::1 niekada neina per įgaliotąjį serverį.

@@ -9,8 +9,6 @@
 
 process-type-web = Saityno turinys
 
-process-type-browser = Pagrindinis
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Privilegijuotas „about“

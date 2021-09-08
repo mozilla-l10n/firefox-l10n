@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Simbolių koduotė
-    .accesskey = S
-
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -69,3 +65,6 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Lietimui
     .accesskey = L
+
+## File
+

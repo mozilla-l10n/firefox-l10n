@@ -105,9 +105,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Kaip tai veikia
 
-turn-on-sync = Įjungti „{ -sync-brand-short-name }“…
-    .title = Eiti į sinchronizavimo nuostatas
-
 monitor-title = Būkite informuoti apie duomenų pažeidimus
 monitor-link = Kaip tai veikia
 monitor-header-content-no-account = „{ -monitor-brand-name }“ pateikia informaciją apie tai, ar jūsų duomenys yra patekę tarp nutekėjusių, ir gali pranešti apie naujus pažeidimus.

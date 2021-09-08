@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Svetainėms reikės iš naujo įkelti paveikslus ir duomenis
 
-clear-site-data-cancel =
-    .label = Atsisakyti
-    .accesskey = A
-
-clear-site-data-clear =
-    .label = Išvalyti
-    .accesskey = v
-
 clear-site-data-dialog =
     .buttonlabelaccept = Išvalyti
     .buttonaccesskeyaccept = v
