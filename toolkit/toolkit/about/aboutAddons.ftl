@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Priedų tvarkytuvė
-
 addons-page-title = Priedų tvarkytuvė
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Priedų pagalba
 sidebar-help-button-title =
     .title = Priedų pagalba
 
-preferences =
-    { PLATFORM() ->
-        [windows] „{ -brand-short-name }“ nuostatos
-       *[other] „{ -brand-short-name }“ nuostatos
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] „{ -brand-short-name }“ nuostatos
-           *[other] „{ -brand-short-name }“ nuostatos
-        }
-
 addons-settings-button = „{ -brand-short-name }“ nuostatos
 sidebar-settings-button-title =
     .title = „{ -brand-short-name }“ nuostatos
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Rodyti visus plėtinius
-
-cmd-show-details =
-    .label = Išsamiau
-    .accesskey = I
-
-cmd-find-updates =
-    .label = Rasti naujinimų
-    .accesskey = R
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Nuostatos
-           *[other] Nuostatos
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] N
-        }
-
-cmd-enable-theme =
-    .label = Naudoti apvalkalą
-    .accesskey = N
-
-cmd-disable-theme =
-    .label = Nebenaudoti apvalkalo
-    .accesskey = N
-
-cmd-install-addon =
-    .label = Įdiegti
-    .accesskey = d
-
-cmd-contribute =
-    .label = Paremti
-    .accesskey = P
-    .tooltiptext = Paremti šio priedo kūrimą
 
 detail-version =
     .label = Laida
@@ -403,8 +351,6 @@ dictionary-disabled-heading = Išjungtas
 
 locale-enabled-heading = Įjungta
 locale-disabled-heading = Išjungta
-
-ask-to-activate-button = Klausti prieš aktyvinant
 
 always-activate-button = Visada aktyvinti
 never-activate-button = Niekada neaktyvinti

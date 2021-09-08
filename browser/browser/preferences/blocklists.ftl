@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Sąrašas
 
-blocklist-button-cancel =
-    .label = Atsisakyti
-    .accesskey = A
-
-blocklist-button-ok =
-    .label = Įrašyti pakeitimus
-    .accesskey = r
-
 blocklist-dialog =
     .buttonlabelaccept = Įrašyti pakeitimus
     .buttonaccesskeyaccept = r

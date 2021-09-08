@@ -10,9 +10,6 @@ third-party-intro =
     „{ -brand-short-name }“. Bet koks modulis, nepatvirtintas „Microsoft“ arba
      „{ -vendor-short-name }“, yra laikomas trečiosios šalies moduliu.
 
-third-party-header-module-list = Modulių sąrašas
-third-party-header-loading-events = Įkeliami įvykiai
-
 third-party-message-empty = Nėra trečiųjų šalių modulių.
 third-party-message-no-duration = Neįrašyta
 

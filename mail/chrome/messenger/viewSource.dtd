@@ -19,10 +19,6 @@
 <!ENTITY savePageCmd.label "Įrašyti tinklalapį kaip…">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Puslapio nustatymai…">
-<!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Spaudinio peržiūra">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Spausdinti…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "P">

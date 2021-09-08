@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = Adresynas
+
 sidebar-menu-history =
     .label = Žurnalas
+
 sidebar-menu-synced-tabs =
     .label = Sinchronizuotos kortelės
+
 sidebar-menu-close =
     .label = Užverti parankinę
+
 sidebar-close-button =
     .tooltiptext = Užverti parankinę

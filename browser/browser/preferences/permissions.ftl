@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Pašalinti visas svetaines
     .accesskey = v
 
-permissions-button-cancel =
-    .label = Atsisakyti
-    .accesskey = A
-
-permissions-button-ok =
-    .label = Įrašyti pakeitimus
-    .accesskey = r
-
 permission-dialog =
     .buttonlabelaccept = Įrašyti pakeitimus
     .buttonaccesskeyaccept = r

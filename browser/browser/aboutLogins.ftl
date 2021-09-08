@@ -7,17 +7,12 @@ about-logins-page-title = Prisijungimai ir slaptažodžiai
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Turėkite savo slaptažodžius visur
-login-app-promo-subtitle = Naudokite nemokamą programą „{ -lockwise-brand-name }“
-login-app-promo-android =
-    .alt = Parsisiųskite iš „Google Play“
-login-app-promo-apple =
-    .alt = Parsisiųskite iš „App Store“
 login-filter =
     .placeholder = Ieškoti prisijungimų
+
 create-login-button = Sukurti naują prisijungimą
+
 fxaccounts-sign-in-text = Turėkite savo slaptažodžius ir kituose įrenginiuose
-fxaccounts-sign-in-button = Prisijungti prie „{ -sync-brand-short-name }“
 fxaccounts-sign-in-sync-button = Prisijungti sinchronizavimui
 fxaccounts-avatar-button =
     .title = Tvarkyti paskyrą
@@ -37,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Nuostatos
     }
 about-logins-menu-menuitem-help = Žinynas
-menu-menuitem-android-app = „{ -lockwise-brand-short-name }“, skirta „Android“
-menu-menuitem-iphone-app = „{ -lockwise-brand-short-name }“, skirta „iPhone“ ir „iPad“
 
 ## Login List
 
@@ -70,13 +63,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Ieškote įrašytų prisijungimų? Naudokite „{ -sync-brand-short-name }“.
 about-logins-login-intro-heading-logged-out2 = Ieškote įrašytų prisijungimų? Įjunkite sinchronizavimą arba importuokite juos.
 about-logins-login-intro-heading-logged-in = Nerasta sinchronizuotų prisijungimų.
 login-intro-description = Jeigu esate įrašę prisijungimus į „{ -brand-product-name }“ kitame įrenginyje, juos galite turėti čia:
-login-intro-instruction-fxa = Susikurkite arba prisijunkite prie savo „{ -fxaccount-brand-name }“ paskyros tame įrenginyje, kur yra prisijungimai.
-login-intro-instruction-fxa-settings = Įsitikinkite, kad „{ -sync-brand-short-name }“ nuostatose pažymėjote langelį „Prisijungimai“.
-about-logins-intro-instruction-help = Aplankę <a data-l10n-name="help-link">„{ -lockwise-brand-short-name }“ žinyną</a>, rasite daugiau informacijos
 login-intro-instructions-fxa = Susikurkite arba prisijunkite prie savo „{ -fxaccount-brand-name }“ paskyros tame įrenginyje, kur yra prisijungimai.
 login-intro-instructions-fxa-settings = Eikite į „Nuostatos“ > „Sinchronizavimas“ > „Įjungti sinchronizavimą…“ Pažymėkite „Prisijungimai ir slaptažodžiai“ pasirinkimą.
 login-intro-instructions-fxa-help = Aplankę <a data-l10n-name="help-link">„{ -lockwise-brand-short-name }“ žinyną</a>, rasite daugiau informacijos.
@@ -122,11 +111,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Norėdami keisti savo prisi
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = redaguoti įrašytą prisijungimą
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Norėdami peržiūrėti savo slaptažodį, įveskite savo „Windows“ prisijungimo duomenis. Tai padeda apsaugoti jūsų paskyras.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = parodyti įrašytą slaptažodį
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Norėdami nukopijuoti savo slaptažodį, įveskite savo „Windows“ prisijungimo duomenis. Tai padeda apsaugoti jūsų paskyras.
 # This message can be seen when attempting to copy a password in about:logins
@@ -135,7 +126,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = nukopijuoti įrašyt�
 
 ## Master Password notification
 
-master-password-notification-message = Įveskite pagrindinį slaptažodį, norėdami peržiūrėti įrašytus prisijungimus ir slaptažodžius
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Norėdami eksportuoti savo prisijungimus, įveskite savo „Windows“ prisijungimo duomenis. Tai padeda apsaugoti jūsų paskyras.
 # This message can be seen when attempting to export a password in about:logins
@@ -151,30 +141,16 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Norite turėti savo prisijungimus visur, kur naudojate { -brand-product-name }? Eikite į „{ -sync-brand-short-name }“ nuostatas ir pažymėkite langelį „Prisijungimai“.
-       *[other] Norite turėti savo prisijungimus visur, kur naudojate { -brand-product-name }? Eikite į „{ -sync-brand-short-name }“ nuostatas ir pažymėkite langelį „Prisijungimai“.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Aplankyti „{ -sync-brand-short-name }“ nuostatas
-           *[other] Aplankyti „{ -sync-brand-short-name }“ nuostatas
-        }
-    .accesskey = A
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Daugiau neklausti
-    .accesskey = D
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Atsisakyti
 confirmation-dialog-dismiss-button =
     .title = Atsisakyti
+
 about-logins-confirm-remove-dialog-title = Pašalinti šį prisijungimą?
 confirm-delete-dialog-message = Atlikus šį veiksmą, jo atšaukti neįmanoma.
 about-logins-confirm-remove-dialog-confirm-button = Pašalinti
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Pašalinti
@@ -182,6 +158,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Pašalinti visus
        *[other] Pašalinti visus
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Taip, pašalinti šį prisijungimą
@@ -189,6 +166,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Taip, pašalinti šiuos prisijungimus
        *[other] Taip, pašalinti šiuos prisijungimus
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Pašalinti { $count } prisijungimą?
@@ -202,6 +180,7 @@ about-logins-confirm-remove-all-dialog-message =
         [few] Bus pašalinti į „{ -brand-short-name }“ įrašyti prisijungimai, ir visi čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
        *[other] Bus pašalinti į „{ -brand-short-name }“ įrašytas prisijungimai, ir visi čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Pašalinti { $count } prisijungimą iš visų įrenginių?
@@ -215,11 +194,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Bus pašalinti į „{ -brand-short-name }“ įrašyti prisijungimai, iš visų su „{ -fxaccount-brand-name }“ paskyra susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
        *[other] Bus pašalinti į „{ -brand-short-name }“ įrašyti prisijungimai, iš visų su „{ -fxaccount-brand-name }“ paskyra susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
     }
+
 about-logins-confirm-export-dialog-title = Eksportuoti prisijungimus ir slaptažodžius
 about-logins-confirm-export-dialog-message = Jūsų slaptažodžiai bus įrašyti kaip perskaitomas tekstas (pvz., BlogasSl@ptaz0dis), tad bet kas galintis atverti eksportuotą failą galės juos peržiūrėti.
 about-logins-confirm-export-dialog-confirm-button = Eksportuoti…
+
 about-logins-alert-import-title = Importas baigtas
 about-logins-alert-import-message = Rodyti išsamią importo suvestinę
+
 confirm-discard-changes-dialog-title = Atmesti neįrašytus pakeitimus?
 confirm-discard-changes-dialog-message = Visi neįrašyti pakeitimai bus prarasti.
 confirm-discard-changes-dialog-confirm-button = Atmesti
@@ -250,6 +232,7 @@ about-logins-vulnerable-alert-learn-more-link = Sužinoti daugiau
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Jau yra { $loginTitle } įrašas su tokiu naudotojo vardu. <a data-l10n-name="duplicate-link">Parodyti esamą įrašą?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Bandant įrašyti šį slaptažodį įvyko klaida.
 
@@ -300,12 +283,14 @@ about-logins-import-dialog-items-added =
         [few] <span>Pridėti nauji prisijungimai:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Pridėta naujų prisijungimų:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Atnaujintas esamas prisijungimas:</span> <span data-l10n-name="count">{ $count }</span>
         [few] <span>Atnaujinti esami prisijungimai:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Atnaujinta esamų prisijungimų:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Rastas pasikartojantis prisijungimas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportuota)</span>
@@ -319,6 +304,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Klaidų:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportuota)</span>
     }
 about-logins-import-dialog-done = Atlikta
+
 about-logins-import-dialog-error-title = Importavimo klaida
 about-logins-import-dialog-error-conflicting-values-title = Kelios nederančios vieno prisijungimo reikšmės
 about-logins-import-dialog-error-conflicting-values-description = Pavyzdžiui: keli prisijungimo vardai, slaptažodžiai, URL adresai, ir t.t., tam pačiam prisijungimui.
@@ -332,8 +318,10 @@ about-logins-import-dialog-error-no-logins-imported = Neimportuoti jokie prisiju
 about-logins-import-dialog-error-learn-more = Sužinoti daugiau
 about-logins-import-dialog-error-try-import-again = Bandyti importuoti iš naujo…
 about-logins-import-dialog-error-cancel = Atsisakyti
+
 about-logins-import-report-title = Importo suvestinė
 about-logins-import-report-description = Į „{ -brand-short-name }“ importuoti prisijungimai ir slaptažodžiai.
+
 #
 # Variables:
 #  $number (number) - The number of the row

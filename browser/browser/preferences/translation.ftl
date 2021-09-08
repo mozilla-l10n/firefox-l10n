@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Pašalinti visas svetaines
     .accesskey = v
 
-translation-button-close =
-    .label = Užverti
-    .accesskey = U
-
 translation-dialog =
     .buttonlabelaccept = Užverti
     .buttonaccesskeyaccept = U

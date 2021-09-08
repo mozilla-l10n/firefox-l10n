@@ -118,10 +118,6 @@ openpgp-key-send-key =
     .label = Siųsti viešą raktą el. paštu
     .accesskey = s
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Kopijuoti viešąjį (-ius) raktą (-us) į mainų sritį
-    .accesskey = K
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -151,8 +147,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Eksportuoti raktus į failą
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Kopijuoti viešuosius raktus į mainų sritį
 
 openpgp-key-man-ctx-copy =
     .label = Kopijuoti
@@ -308,16 +302,6 @@ openpgp-description =
        *[other] „Thunderbird“ rado { $count } asmeninių „OpenPGP“ raktus, susietų su <b> { $identity } </b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Norėdami naudoti „OpenPGP“, nurodykite tinkamą raktą.
-        [one] Dabartinėje konfigūracijoje naudojamo rakto ID: <b> { $key } </b>
-        [few] Dabartinėje konfigūracijoje naudojamų raktų ID: <b> { $key } </b>
-       *[other] Dabartinėje konfigūracijoje naudojamų raktų ID: <b> { $key } </b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Dabartinėje konfigūracijoje naudojamas raktas <b> { $key } </b>, kurio galiojimo laikas baigėsi.
 
@@ -345,14 +329,8 @@ openpgp-radio-key-not-found = Šio rakto rasti nepavyko! Jei norite jį naudoti,
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Galiojimas baigiasi: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Raktas baigs galioti mažiau nei po 6 mėnesių
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Negalioja nuo: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Raktas nebegalioja
 
 openpgp-key-expand-section =
     .tooltiptext = Daugiau informacijos
@@ -669,7 +647,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Jūs nustatėte { $width } simbolių eilutęs ilgį. Norint teisingai užšifruoti ir (arba) pasirašyti, šis ilgis turi būti bent 68.
     Ar norite pakeisti eilučių ilgį į 68 simbolius?
-sending-hidden-rcpt = Nematomos kopijos (BCC) gavėjams užšifruotas pranešimas negali būti siunčiamas. Norėdami išsiųsti šį užšifruotą pranešimą, pašalinkite nematomų kopijų gavėjus arba perkelkite juos į lauką „Kopija“.
 sending-news =
     Šifruota siuntimo operacija nutraukta.
     Šio pranešimo negalima užšifruoti, nes jį gaus ir naujienų grupės. Išsiųskite pranešimą iš naujo, be šifravimo.
@@ -729,9 +706,6 @@ enig-info = „OpenPGP“ informacija
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = Kartoti
 dlg-button-skip = &Praleisti
-
-# Strings used in enigmailCommon.js
-enig-error = „OpenPGP“ klaida
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

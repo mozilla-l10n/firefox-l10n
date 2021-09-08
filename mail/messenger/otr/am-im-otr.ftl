@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR nuostatos
 otr-log =
     .label = Įtraukite OTR užšifruotus pranešimus į pokalbių žurnalus
-otr-requireEncryption =
-    .label = Reikalauti abipusiai šifruoti tiesioginius privačius pokalbius
-otr-verifyNudge =
-    .label = Visada priminkite man patvirtinti nepatikrintą kontaktą
-
-otr-notYetAvailable = kol kas nepasiekiamas
 
 otr-require-encryption =
     .label = Tiesioginiai privatūs pokalbiai turi būti abipusiai šifruoti

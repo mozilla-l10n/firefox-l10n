@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Pridėti naują sudėtinį rodinį
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Sudėtinio rodinio „{ $name }“ nuostatos
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Piktograma
 containers-color-label = Spalva
     .accesskey = v
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Atlikta
-    .accesskey = A
 
 containers-dialog =
     .buttonlabelaccept = Atlikta

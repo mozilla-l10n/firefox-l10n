@@ -5,9 +5,6 @@
 places-open =
     .label = Atverti
     .accesskey = A
-places-open-tab =
-    .label = Atverti naujoje kortelėje
-    .accesskey = o
 places-open-in-tab =
     .label = Atverti naujoje kortelėje
     .accesskey = j
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Atverti kortelėse
     .accesskey = A
-places-open-window =
-    .label = Atverti naujame lange
-    .accesskey = l
-places-open-private-window =
-    .label = Atverti naujame privačiojo naršymo lange
-    .accesskey = p
-
-places-new-bookmark =
-    .label = Naujas adresas…
-    .accesskey = N
-places-new-folder-contextmenu =
-    .label = Naujas aplankas…
-    .accesskey = a
-places-new-folder =
-    .label = Naujas aplankas…
-    .accesskey = l
-places-new-separator =
-    .label = Naujas skirtukas
-    .accesskey = s
 
 places-open-in-window =
     .label = Atverti naujame lange
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Rikiuoti pagal pavadinimą
     .accesskey = R
-places-properties =
-    .label = Savybės
-    .accesskey = S
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -137,3 +112,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Tvarkyti adresyną
     .accesskey = T
+

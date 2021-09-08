@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "s">
 <!ENTITY deleteCmd.label          "Pašalinti">
 <!ENTITY deleteCmd.accesskey        "š">
-<!ENTITY preferencesCmd2.label "Nuostatos">
-<!ENTITY preferencesCmd2.accesskey "N">
-<!ENTITY preferencesCmdUnix.label       "Nuostatos">
-<!ENTITY preferencesCmdUnix.accesskey     "N">
 
 <!ENTITY customizeCmd.label "Tinkinimas">
 <!ENTITY customizeCmd.accesskey "t">

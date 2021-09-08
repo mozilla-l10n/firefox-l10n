@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = „{ -brand-short-name }“ nuostatos
 
 open-addons-sidebar-button = Priedai ir grafiniai apvalkalai
+

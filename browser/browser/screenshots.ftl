@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Padaryti ekrano nuotrauką
-
-screenshots-my-shots-button = Mano nuotraukos
-
 screenshot-toolbarbutton =
     .label = Ekrano nuotrauka
     .tooltiptext = Padaryti ekrano nuotrauką
@@ -40,8 +36,6 @@ screenshots-login-error-details = Mums nepavyko įrašyti jūsų nuotraukos, nes
 
 screenshots-unshootable-page-error-title = Mums nepavyko nufotografuoti šio tinklalapio.
 screenshots-unshootable-page-error-details = Tai nėra įprastas tinklalapis, tad negalite padaryti jo nuotraukos.
-
-screenshots-self-screenshot-error-title = Negalite padaryti „{ -screenshots-brand-name }“ tinklalapio nuotraukos!
 
 screenshots-empty-selection-error-title = Jūsų pasirinkimas yra per mažas
 

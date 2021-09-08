@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "Ž">
 <!ENTITY aboutProduct2.label "Apie „&brandShorterName;“">
 <!ENTITY aboutProduct2.accesskey "A">
-<!ENTITY helpTroubleshootingInfo.label     "Informacija problemų sprendimui">
-<!ENTITY helpTroubleshootingInfo.accesskey "s">
-<!ENTITY helpSafeMode.label     "Perleisti programą, išjungus priedus…">
-<!ENTITY helpSafeMode.accesskey "r">
-<!ENTITY helpSafeMode.stop.label     "Perleisti programą su įjungtais priedais">
-<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "„&brandShortName;“ žinynas">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">

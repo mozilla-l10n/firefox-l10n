@@ -119,7 +119,6 @@
 
 <!ENTITY Photo.tab                      "Nuotrauka">
 <!ENTITY Photo.accesskey                "N">
-<!ENTITY PhotoDesc.label                "Pasirinkite:">
 <!ENTITY GenericPhoto.label             "Įtaisytasis atvaizdas">
 <!ENTITY GenericPhoto.accesskey         "v">
 <!ENTITY DefaultPhoto.label             "Numatytasis">

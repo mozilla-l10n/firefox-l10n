@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Automatiškai taikyti surastą ryšio būseną
     .accesskey = t
 
-startup-label = Būsena darbo pradžioje:
-
 offline-preference-startup-label = Būsena darbo pradžioje:
 
 status-radio-remember =

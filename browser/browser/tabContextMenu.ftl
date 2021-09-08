@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Įrašyti kortelę į adresyną
     .accesskey = r
-reopen-in-container =
-    .label = Atverti iš naujo sudėtiniame rodinyje
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Atverti naujoje sudėtinėje kortelėje
     .accesskey = e
@@ -69,27 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Užverti keletą kortelių
     .accesskey = v
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Atšaukti kortelės užvėrimą
-            [one] Atšaukti kortelės užvėrimą
-            [few] Atšaukti kortelių užvėrimus
-           *[other] Atšaukti kortelių užvėrimus
-        }
-    .accesskey = A
-close-tab =
-    .label = Užverti kortelę
-    .accesskey = U
-close-tabs =
-    .label = Užverti korteles
-    .accesskey = e
-move-tabs =
-    .label = Perkelti korteles
-    .accesskey = t
-move-tab =
-    .label = Perkelti kortelę
-    .accesskey = t
 tab-context-share-url =
     .label = Dalintis
     .accesskey = i
@@ -135,6 +111,7 @@ tab-context-move-tabs =
            *[other] Perkelti kortelių
         }
     .accesskey = k
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

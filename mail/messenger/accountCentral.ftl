@@ -49,9 +49,6 @@ import-label = Importuoti
 
 about-paragraph = „Thunderbird“ – tai pirmaujanti daugiaplatformė laisvoji elektroninio pašto ir kalendoriaus programa, nemokama tiek verslui, tiek asmeniniam naudojimui. Mes norime, kad ji ir toliau išliktų saugi ir taptų dar geresnė. Jūsų parama mums padės pasamdyti programuotojų, padengti infrastruktūros išlaikymo kaštus ir toliau tobulėti.
 
-about-paragraph-2 = <b> „Thunderbird“ finansuoja tokie vartotojai kaip jūs! Jei jums patinka „Thunderbird“, apsvarstykite galimybę paaukoti. </b> Geriausi būdas užtikrinti, kad „Thunderbird“ liks prieinama, yra:
-about-donation = paaukoti
-
 about-paragraph-consider-donation = <b>„Thunderbird“ išsilaiko naudotojų – tokių kaip jūs – dėka! Jeigu „Thunderbird“ jums patinka, gal sutiktumėte šią programą paremti?</b> Geriausias būdas užtikrinti tolesnį „Thunderbird“ gyvavimą – <a data-l10n-name="donation-link"> paaukoti</a>.
 
 explore-link = Savybės

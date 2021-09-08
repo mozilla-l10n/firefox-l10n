@@ -5,11 +5,6 @@
 
 <!ENTITY pref.advanced.title              "Kitkas">
 
-<!ENTITY systemPref.caption               "Sistemos nuostatos">
-<!ENTITY systemPrefCheck.label            "Naudoti operacinės sistemos nuostatas">
-<!ENTITY systemPrefCheck.accesskey        "N">
-<!ENTITY systemPref.desc                  "Pažymėkite šią parinkti, jei norite, kad būtų naudojamos nuostatos, parinktos operacinėje sistemoje. Tokiu atveju sistemos nuostatos nustelbs „&brandShortName;“ nuostatas">
-
 <!ENTITY prefCheckDefault.caption         "Sistemos numatytosios nuostatos">
 <!ENTITY prefCheckDefaultClient.label     "Paleidžiant programą tikrinti, ar ji yra numatytoji">
 <!ENTITY prefCheckDefaultClient.accesskey "P">

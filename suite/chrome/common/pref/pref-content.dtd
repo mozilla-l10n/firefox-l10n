@@ -28,10 +28,10 @@
 
 
 
-<!ENTITY siteSpecific.label                     "Atskirai įsiminti skirtingoms svetainėms taikomus mastelius">
-<!ENTITY siteSpecific.accesskey                 "t">
 <!ENTITY textZoomOnly.label                     "Nekeisti svetainės mastelio, keisti tik teksto dydį">
 <!ENTITY textZoomOnly.accesskey                 "k">
+<!ENTITY siteSpecific.label                     "Atskirai įsiminti skirtingoms svetainėms taikomus mastelius">
+<!ENTITY siteSpecific.accesskey                 "t">
 <!ENTITY enableAutomaticImageResizing.label     "Sumažinti didelių paveikslų dydį, kad tilptų naršyklės lange">
 <!ENTITY enableAutomaticImageResizing.accesskey "m">
 

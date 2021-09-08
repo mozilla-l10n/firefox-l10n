@@ -20,15 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Pasirinkti visas korteles
     .accesskey = P
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Atšaukti kortelės užvėrimą
-            [one] Atšaukti kortelės užvėrimą
-            [few] Atšaukti kortelių užvėrimus
-           *[other] Atšaukti kortelių užvėrimus
-        }
-    .accesskey = t
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -60,9 +51,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Įsegti į perpildymo meniu
     .accesskey = s
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Priemonių juostoje slėpti automatiškai
-    .accesskey = a
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Slėpti mygtuką, kai tuščia
     .accesskey = S

@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Užverti
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Nuostatos
-           *[other] Nuostatos
-        }
-
 preferences-doc-title = Nuostatos
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Atsisakyti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tęsti
 
-addons-button = Priedai ir grafiniai apvalkalai
-
 account-button = Paskyros nuostatos
 open-addons-sidebar-button = Priedai ir grafiniai apvalkalai
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Norėdami sukurti pagrindinį slaptažodį, įveskite savo „Windows“ prisijungimo duomenis. Tai padeda apsaugoti jūsų paskyras.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = sukurti pagrindinį slaptažodį
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Norėdami sukurti pagrindinį slaptažodį, įveskite savo „Windows“ prisijungimo duomenis. Tai padeda apsaugoti jūsų paskyras.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Kitkas…
     .accesskey = K
-
-tray-icon-label =
-    .label = Rodyti piktogramą pranešimų srityje
-    .accesskey = t
 
 biff-use-system-alert =
     .label = Naudoti sistemos pranešimus
@@ -425,9 +403,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Citatų spalva:
     .accesskey = C
-
-search-input =
-    .placeholder = Ieškoti
 
 search-handler-table =
     .placeholder = Filtruoti pagal turinio tipus ir veiksmus
@@ -719,16 +694,6 @@ passwords-button =
     .label = Įrašyti slaptažodžiai…
     .accesskey = s
 
-master-password-description = Pagrindinis slaptažodis apsaugos visus slaptažodžius. Jis turi būti pateikiamas programai kartą per seansą.
-
-master-password-label =
-    .label = Naudoti pagrindinį slaptažodį
-    .accesskey = N
-
-master-password-button =
-    .label = Pakeisti pagrindinį slaptažodį…
-    .accesskey = k
-
 
 primary-password-description = Pagrindinis slaptažodis apsaugo visus slaptažodžius, bet jį turite įvesti kaskart paleidus programą.
 
@@ -909,26 +874,6 @@ no-preview-description = Ši tema netinkama arba šiuo metu nepasiekiama (išjun
 chat-variant-label =
     .value = Variantas:
     .accesskey = V
-
-chat-header-label =
-    .label = Rodyti antraštę
-    .accesskey = H
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] ieškoti nuostatose
-           *[other] ieškoti nuostatose
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

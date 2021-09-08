@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Pasirašyti skaitmeniškai">
 <!ENTITY menu_securitySign.accesskey "k">
 
-<!ENTITY menu_securityAttachMyKey.label "Pridėti mano viešą raktą">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "Šifravimo technologija">
 <!ENTITY menu_securityTech.accesskey "T">
 

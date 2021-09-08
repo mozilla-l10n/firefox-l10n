@@ -65,8 +65,6 @@ policy-DisableForgetButton = Blokuoti prieigą prie mygtuką „Pamiršti“.
 
 policy-DisableFormHistory = Neįsiminti įvestų paieškos ir formų laukų reikšmių.
 
-policy-DisableMasterPasswordCreation = Jei „true“, negalima sukurti pagrindinio slaptažodžio.
-
 policy-DisablePrimaryPasswordCreation = Jei „true“, negalima sukurti pagrindinio slaptažodžio.
 
 policy-DisablePasswordReveal = Neleisti parodyti slaptažodžių įrašytuose prisijungimuose.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Grįžti prie pasenusi
 policy-LocalFileLinks = Leisti konkrečioms svetainėms susieti vietinius failus.
 
 policy-ManagedBookmarks = Nustato administratoriaus tvarkomą adresyną, kurio naudotojas negali keisti.
-
-policy-MasterPassword = Reikalauti arba neleisti naudoti pagrindinio slaptažodžio.
 
 policy-ManualAppUpdateOnly = Leisti naujinti tik rankiniu būdų, ir nepranešti apie esamus naujinimus.
 
