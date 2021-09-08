@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowtitle.label              "Εξαιρέσεις">
-<!ENTITY treehead.sitename.label        "Ιστοσελίδα">
+<!ENTITY treehead.sitename.label        "Ιστότοπος">
 <!ENTITY treehead.status.label          "Κατάσταση">
-<!ENTITY remove.label                   "Αφαίρεση ιστοσελίδας">
+<!ENTITY remove.label                   "Αφαίρεση ιστοτόπου">
 <!ENTITY remove.accesskey               "Α">
-<!ENTITY removeall.label                "Αφαίρεση όλων των ιστοσελίδων">
+<!ENTITY removeall.label                "Αφαίρεση όλων των ιστοτόπων">
 <!ENTITY removeall.accesskey            "φ">
-<!ENTITY address.label                  "Διεύθυνση ιστοσελίδας:">
+<!ENTITY address.label                  "Διεύθυνση ιστοτόπου:">
 <!ENTITY address.accesskey              "δ">
 <!ENTITY block.label                    "Φραγή">
 <!ENTITY block.accesskey                "Φ">

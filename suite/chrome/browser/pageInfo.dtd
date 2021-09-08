@@ -93,9 +93,9 @@
 <!ENTITY  securityView.unknown   "Άγνωστο">
 
 
-<!ENTITY  securityView.identity.header   "Ταυτότητα ιστοσελίδας">
+<!ENTITY  securityView.identity.header   "Ταυτότητα ιστοτόπου">
 <!ENTITY  securityView.identity.owner    "Ιδιοκτήτης:">
-<!ENTITY  securityView.identity.domain   "Ιστοσελίδα:">
+<!ENTITY  securityView.identity.domain   "Ιστότοπος:">
 <!ENTITY  securityView.identity.verifier "Επαληθεύτηκε από:">
 <!ENTITY  securityView.identity.validity "Λήγει στις:">
 
