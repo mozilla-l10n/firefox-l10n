@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Link Toolbar Title -->
-<!ENTITY linkToolbar.label "Γραμμή πλοήγησης ιστοσελίδας">
+<!ENTITY linkToolbar.label "Γραμμή πλοήγησης ιστοτόπου">
 <!ENTITY linkToolbar.accesskey "μ">
-<!ENTITY linkToolbar.tooltip "Γραμμή πλοήγησης ιστοσελίδας">
+<!ENTITY linkToolbar.tooltip "Γραμμή πλοήγησης ιστοτόπου">
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "Εμφάνιση πάντα">

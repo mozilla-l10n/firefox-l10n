@@ -74,7 +74,7 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Τέλος">
 
-<!ENTITY popupIcon.tooltiptext      "Αποδοχή αναδυόμενων παραθύρων ιστοσελίδας">
+<!ENTITY popupIcon.tooltiptext      "Άρση φραγής αναδυόμενων παραθύρων ιστοτόπου">
 
 <!ENTITY viewSecurityInfo.label      "Προβολή πληροφοριών ασφάλειας">
 <!ENTITY viewSecurityInfo.accesskey  "α">

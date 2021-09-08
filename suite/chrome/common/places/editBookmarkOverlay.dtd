@@ -8,7 +8,7 @@
 <!ENTITY editBookmarkOverlay.location.accesskey              "Τ">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Διεύθυνση ροής:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "Δ">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Διεύθυνση ιστοσελίδας:">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Διεύθυνση ιστοτόπου:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "ι">
 <!ENTITY editBookmarkOverlay.folder.label                    "Φάκελος:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Προβολή όλων των φακέλων σελιδοδεικτών">
