@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Screenshot Behavior
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Ekranattāls iz storpliktuvi
-options-screenshot-clipboard-tooltip =
-    .title = Sagloboj ekranattālu storpliktuvē (datora atmiņā)
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Play camera shutter sound
 options-screenshot-audio-tooltip =

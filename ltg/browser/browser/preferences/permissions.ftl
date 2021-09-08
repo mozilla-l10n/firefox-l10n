@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Aizvuokt vysys lopys
     .accesskey = k
 
-permissions-button-cancel =
-    .label = Atceļt
-    .accesskey = c
-
-permissions-button-ok =
-    .label = Saglobuot izmaiņis
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Saglobuot izmaiņis
     .buttonaccesskeyaccept = S

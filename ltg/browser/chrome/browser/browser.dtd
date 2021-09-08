@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Attaiseit izvēlni/izvielni">
-
 <!ENTITY navbarOverflow.label                "Cyti reiki…">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Pīleimeit cilni">
-<!ENTITY  unpinTab.label                     "Atbreivuot cilni">
 
 <!ENTITY  listAllTabs.label      "Vysu ciļņu saroksts">
 
@@ -27,40 +17,9 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Izvielne">
 <!ENTITY menubarCmd.accesskey "I">
-<!ENTITY personalbarCmd.label "Gruomotzeimju reikjūsla">
-<!ENTITY personalbarCmd.accesskey "G">
-<!ENTITY bookmarksToolbarItem.label "Gruomotzeimju reikjūslys elementi">
 
 <!ENTITY fullScreenCmd.label "Pa vysu ekranu">
 
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "ir pa vysu ekranu">
-<!ENTITY fullscreenWarning.generic.label "Itys dokuments ir pa vysu ekranu">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Izīt nu pynlekrana (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Izīt nu pynlekrana (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "kontrolej kursoru. Damīdz tausteņi Esc, kab porjimtu kontroli.">
-<!ENTITY pointerlockWarning.generic.label "Itys dokuments kontrolej kursoru. Damīdz tausteņi Esc, kab porjimtu kontroli.">
-
-<!ENTITY showAllBookmarks2.label "Ruodeit vysys gruomotzeimes">
-<!ENTITY recentBookmarks.label "Naseņ saglobuotuos">
-<!ENTITY bookmarksToolbarChevron.tooltip "Ruodeit vairuok gruomotzeimju">
 
 <!ENTITY printButton.label            "Drukōt">
 <!ENTITY printButton.tooltip          "Drukōt itū lopu">
@@ -73,28 +32,12 @@ can reach it easily. -->
 
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; sōkuma lopa">
 
-<!ENTITY bookmarksButton.label          "Gruomotzeimes">
-
-<!ENTITY bookmarksSubview.label             "Gruomotzeimes">
-<!ENTITY bookmarksMenuButton2.label         "Gruomotzeimju izvielne">
-<!ENTITY bookmarksMenuButton.other.label    "Cytys gruomotzeimes">
-<!ENTITY bookmarksMenuButton.mobile.label   "Mobiluos gruomotzeimes">
-<!ENTITY viewBookmarksSidebar2.label        "Attaiseit gruomotzeimes suonjūslā">
-<!ENTITY hideBookmarksSidebar.label         "Paslēpt gruomotzeimju suonjūsla">
-<!ENTITY viewBookmarksToolbar.label         "Attāloj gruomotzeimes suonu juslā">
-<!ENTITY hideBookmarksToolbar.label         "Paslēpt gruomotzeimju suonjūsla">
-<!ENTITY searchBookmarks.label              "Mekleit gruomotzeimes">
-<!ENTITY bookmarkingTools.label             "Gruomotzeimju reiki">
-<!ENTITY addBookmarksMenu.label             "Pīvīnuot gruomotzeimju izvēlni/izvielni reikjūslai">
-<!ENTITY removeBookmarksMenu.label          "Aizvuokt gruomotzeimju izvēlni/izvielni nu reikjūslys">
-
 <!ENTITY historyButton.label            "Viesture">
 
 <!ENTITY downloads.label              "Lejupīluodes">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Lejupīluodes">
-<!ENTITY addons.label                 "Papyldynuojumi">
 
 <!ENTITY webDeveloperMenu.label       "Izstrōdōtōju reiki">
 
@@ -110,27 +53,11 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "Viesture">
 
-<!ENTITY historyUndoMenu.label "Naseņ aiztaiseituos cilnes">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Naseņ aiztaiseitī lūgi">
-
-<!ENTITY appMenuHistory.showAll.label "Paruodeit vysu viesturi">
-
-<!ENTITY appMenuHistory.clearRecent.label "Dzēst nasenū viesturi…">
-<!ENTITY appMenuHistory.restoreSession.label "Atjaunōt īprīkšejū seseju">
-<!ENTITY appMenuHistory.viewSidebar.label "Ruodeit viestures suonjūsla">
-<!ENTITY appMenuHistory.recentHistory.label "Nasenuo viesture">
-
 <!ENTITY appMenuHelp.label "Paleidzeiba">
-
-<!ENTITY appMenuRemoteTabs.label "Sinhronizeituos cilnes">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nav attaisietu cilņu">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Ruodeit vairuok">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Ruodeit vairuok cilnes nu ituos īrīces">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -145,11 +72,7 @@ can reach it easily. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Grybot redzeit cilnes nu cytom sovom īreičom?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Attaiseit sinhronizacejis īstatiejumus">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tovam kontam jōbyun apstyprynōtam.">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Puorvaļdeit īrīces…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Rōdēt sinhronizeitū cilņu sōnu jūslu">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Daslēgt cytu īreici">
-
-<!ENTITY appMenuRecentHighlights.label "Svaigi jaunumi">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pīvīnuot reikjūslai">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -161,8 +84,6 @@ can reach it easily. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Atslēgt nu izvēlnes/izvielnes">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "Aizvuokt nu reikjūslys">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Pīvīnuot cytys lītys…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "P">
 
@@ -180,10 +101,6 @@ can reach it easily. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "c">
 
-<!ENTITY pageAction.copyLink.label    "Kopēt saiti">
-
-<!ENTITY emailPageCmd.label           "Nūsyuteit saiti…">
-
 <!-- Media (video/audio) controls -->
 
 <!-- LOCALIZATION NOTE :
@@ -195,13 +112,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Mārūgs">
 
 <!ENTITY sidebarCloseButton.tooltip     "Aiztaiseit suonu jūslu">
-
-<!ENTITY quitApplicationCmdWin2.label       "Izīt">
-<!ENTITY quitApplicationCmdWin2.accesskey   "z">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Aiztaiseit &brandShorterName;">
-<!ENTITY quitApplicationCmd.label       "Izīt">
-<!ENTITY quitApplicationCmd.accesskey   "I">
-<!ENTITY quitApplicationCmdMac2.label   "Izīt nu &brandShorterName;">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -223,28 +133,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Puorlūka cilnes">
 
 
-<!ENTITY syncBrand.shortName.label    "Sinhronizeit">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "Auto-hide">
-
-
 <!ENTITY uiTour.infoPanel.close "Aiztaiseit">
 
 <!ENTITY panicButton.thankyou.msg1                "Your recent history is cleared.">
 <!ENTITY panicButton.thankyou.msg2                "Safe browsing!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Paļdis!">
 
-<!ENTITY updateAvailable.panelUI.label "Lejupīluodē &brandShorterName; atjaunynuojumu">
-
-<!ENTITY updateManual.panelUI.label "Lejupīluodejit jaunu &brandShorterName; verseju">
-
-<!ENTITY updateRestart.panelUI.label2 "Puorstarteit &brandShorterName;, kab atjaunynuotu">
-
 <!ENTITY sendToDevice.syncNotReady.label "Syncing Devices…">
-
-<!ENTITY pageAction.shareUrl.label "Daleitīs">
-
-<!ENTITY pageAction.shareMore.label "Vaira…">
 
 <!ENTITY libraryButton.tooltip "Skateitīs viesturi, saglobōtōs grōmotzeimes i daudz kū cytu">
 

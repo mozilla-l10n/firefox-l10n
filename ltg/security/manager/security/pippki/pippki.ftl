@@ -6,9 +6,6 @@ password-quality-meter = Paroles kvalitates mierietuojs
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Maineit golvonū paroli
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Drūseibys īrīce: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Jaunō parole (vēļreiz):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Atstateit golvonū paroli
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Atstateit
-reset-password-text = Nui atstateisit golvonū paroli, tiks aizamierst vysys saglobuotuos šķārsteikla i e-posta paroles, formu dati, personeigī sertifikati i privatuos atslāgi.  Voi asot puorlīcynuots, ka vālotīs atstateit golvonū paroli?
 
 ## Downloading cert dialog
 

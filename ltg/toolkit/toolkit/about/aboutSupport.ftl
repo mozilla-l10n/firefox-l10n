@@ -10,11 +10,6 @@ crashes-id = Ziņuojuma ID
 crashes-send-date = Nūsyuteits
 crashes-all-reports = Vysi avarejis ziņuojumi
 crashes-no-config = Itei aplikaceja nav nūkonfigureita avarejis ziņuojumu attāluošonai.
-extensions-title = Papyldynuojumi
-extensions-name = Nūsaukums
-extensions-enabled = Īslāgts
-extensions-version = Verseja
-extensions-id = ID
 support-addons-name = Nūsaukums
 support-addons-version = Verseja
 support-addons-id = ID
@@ -95,8 +90,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Process Type
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenti
-safe-mode-title = Try Safe Mode
-restart-in-safe-mode-label = Puorstarteit ar deaktiveitim papyldynuojumym…
 
 ## Media titles
 
@@ -234,19 +227,12 @@ webgl2-renderer = WebGL2 Renderer
 webgl2-version = WebGL 2 draivera verseja
 webgl2-driver-extensions = WebGL 2 draivera palošynuojumi
 webgl2-extensions = WebGL 2 palošynuojumi
-blocklisted-bug = Blocklisted due to known issues
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = klaida { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blokeits; klaidys kods { $failureCode }
 
 d3d11layers-crash-guard = D3D11 Compositor
-d3d11video-crash-guard = D3D11 Video Decoder
-d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Reset on Next Restart
@@ -276,14 +262,6 @@ sandbox-proc-type-media-plugin = multivides spraudnis
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Lītuotuoja aktivāts
-multi-process-status-1 = Aktivāts piec nūklusiejuma
-multi-process-status-2 = Deaktiveits
-multi-process-status-4 = Disabled by accessibility tools
-multi-process-status-6 = Deaktiveits naatbaļsteita teksta īvodes dieļ
-multi-process-status-7 = Papyldynuojumu deaktiveits
-multi-process-status-8 = Deaktiveits pīspīdu kuortā
-multi-process-status-unknown = Nazynuoms statuss
 
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = nav

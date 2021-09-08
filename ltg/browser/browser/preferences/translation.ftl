@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Aizvuokt vysys lopys
     .accesskey = i
 
-translation-button-close =
-    .label = Aiztaiseit
-    .accesskey = A
-
 translation-dialog =
     .buttonlabelaccept = Aiztaiseit
     .buttonaccesskeyaccept = A

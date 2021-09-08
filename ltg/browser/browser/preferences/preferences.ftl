@@ -7,28 +7,6 @@ do-not-track-learn-more = Uzzynojit vairuok
 do-not-track-option-always =
     .label = Vīnmār
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Īstatiejumi
-       *[other] Īstatiejumi
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Mekleit īstatiejumūs
-           *[other] Mekleit īstatiejumūs
-        }
-
 pane-general-title = Golvonī
 category-general =
     .tooltiptext = { pane-general-title }
@@ -72,18 +50,6 @@ restart-later = Puorstarteit vāluok
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Paplašinojums <img data-l10n-name="icon"/> { $name }, kontrolej tovu sōkuma lopu.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Paplašinojums <img data-l10n-name="icon"/> { $name }, kontrolej tovas jaunōs cilnes lopu.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Paplašinojums <img data-l10n-name="icon"/> { $name } ir nūmaineiejs nūkluseitū mekleitōji.
-
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Paplašinojumam <img data-l10n-name="icon"/> { $name } vajag skreines cilnes.
@@ -103,26 +69,11 @@ extension-controlled-enable = Kab aktivātu paplašinojumu, vaicoj <img data-l10
 
 search-results-header = Mekliešonys rezultati
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Dīmžāl meklejūt Īstatiejumu “<span data-l10n-name="query"></span>” nikas natyka atrosts.
-       *[other] Dīmžāl meklejūt Īstatiejumu “<span data-l10n-name="query"></span>” nikas natyka atrosts.
-    }
-
 search-results-help-link = Vajadzeiga paleidzeiba? Ej uz <a data-l10n-name="url">{ -brand-short-name } Tehniskais atbolsts</a>
 
 ## General Section
 
 startup-header = Palaišona
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Ļaut { -brand-short-name } i Firefox dorbuotīs vīnlaiceigi
-use-firefox-sync = Padūms: Izmontoj atseviškus profilus. Izmontoj { -sync-brand-short-name }, kab apsamaineitu ar datim itū profilu storpā.
-get-started-not-logged-in = Pīraksteitīs { -sync-brand-short-name }…
-get-started-configured = Attaiseit { -sync-brand-short-name } īstatiejumus
 
 always-check-default =
     .label = Vīnmār puorbaudeit voi { -brand-short-name } ir nūkluseitais puorlūks
@@ -159,10 +110,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Breidynuot, kod vairuoku ciļņu attaiseišona varātu sabremzeit { -brand-short-name }
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = Kod es attaisu saiti jaunā cilnē, pōrīt iz itū cilni
-    .accesskey = c
 
 show-tabs-in-taskbar =
     .label = Ruodeit ciļņu bildeitis Windows palūdzī
@@ -321,11 +268,6 @@ applications-manage-app =
     .label = Programys īstatiejumi...
 applications-always-ask =
     .label = Vīnmār vaicuot
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -585,8 +527,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
 
-search-one-click-header = One-Click Search Engines
-
 search-one-click-desc = Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.
 
 search-choose-engine-column =
@@ -619,9 +559,6 @@ containers-add-button =
     .label = Pīvīnōt jaunu skreini
     .accesskey = A
 
-containers-preferences-button =
-    .label = Īstatiejumi
-
 containers-remove-button =
     .label = Nūjimt
 
@@ -632,7 +569,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Take Your Web With You
-sync-signedout-description = Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -706,15 +642,6 @@ sync-engine-addons =
     .tooltiptext = Paplašinojumi un tēmas Firefox datora versejai
     .accesskey = a
 
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Īstatiejumi
-           *[other] Īstatiejumus
-        }
-    .tooltiptext = Tevis izmaineitī īstatiejumi: kūpejī, privātums un drūšeiba
-    .accesskey = s
-
 ## The device name controls.
 
 sync-device-name-header = Īrīces nūsaukums
@@ -750,14 +677,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Saglobuotuos paroles…
     .accesskey = l
-forms-master-pw-use =
-    .label = Izmantuot golvonū paroli
-    .accesskey = m
 forms-master-pw-change =
     .label = Nūmaineit golvonū paroli...
     .accesskey = m
-
-forms-master-pw-fips-title = Itūbreid jius asot FIPS režymā. FIPS napīļauj tukšu golvonū paroli.
 
 forms-master-pw-fips-desc = Paroles maiņa naizadeve
 
@@ -923,12 +845,6 @@ permissions-addon-exceptions =
     .label = Izjāmumi...
     .accesskey = I
 
-permissions-a11y-privacy-checkbox =
-    .label = Prevent accessibility services from accessing your browser
-    .accesskey = a
-
-permissions-a11y-privacy-link = Uzzynojit vairuok
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } datu vuokšona i izmontuošona
@@ -948,11 +864,6 @@ collection-studies-link = Apsavērt { -brand-short-name } pietejumus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
-
-collection-backlogged-crash-reports =
-    .label = Ļaut { -brand-short-name } tovā vōrdā syuteit sakrōtūs avarejis ziņojumus
-    .accesskey = t
-collection-backlogged-crash-reports-link = Uzzynojit vairuok
 
 ## Privacy Section - Security
 ##
@@ -980,16 +891,6 @@ security-block-uncommon-software =
 
 certs-header = Sertifikati
 
-certs-personal-label = Kod serveris pīprosa munu personeigū sertifikatu
-
-certs-select-auto-option =
-    .label = Izavieleit automatiski
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Kotru reizi vaicuot maņ
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
@@ -1001,34 +902,6 @@ certs-view =
 certs-devices =
     .label = Drūseibys īrīces…
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = Uzzynojit vairuok
-    .accesskey = U
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Attaiseit īstatiejumus
-           *[other] Attaiseit īstatiejumus
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] R
-           *[other] t
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } napīteik vītys diskā. Lopu saturs var tikt nakorekti attālōts. Tu vari dzēst saglobōtū lopu datus Īstatiejumi > Privātums un drūšeiba > Seikdatnes un lopu dati.
-       *[other] { -brand-short-name } napīteik vītys diskā. Lopu saturs var tikt nakorekti attālōts. Tu vari dzēst saglobōtū lopu datus Īstatiejumi > Privātums un drūšeiba > Seikdatnes un lopu dati.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = OK, Got it
-    .accesskey = L
-
-space-alert-under-5gb-message = { -brand-short-name } is running out of disk space. Website contents may not display properly. Visit “Learn More” to optimize your disk usage for better browsing experience.
 
 ## Privacy Section - HTTPS-Only
 

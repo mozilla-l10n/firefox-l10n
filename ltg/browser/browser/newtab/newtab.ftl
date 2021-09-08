@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Mekleit
     .aria-label = Mekleit
 
-newtab-search-box-search-the-web-text = Mekleit teiklā
-
 newtab-search-box-search-the-web-input =
     .placeholder = Mekleit teiklā
     .title = Mekleit teiklā

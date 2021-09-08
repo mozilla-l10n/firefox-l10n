@@ -19,44 +19,7 @@ certmgr-tab-ca =
 
 certmgr-mine = Jiusim ir jius identificiejūši sertifikati nu itom organizacejom
 certmgr-people = Jiusim failā ir itūs cylvākus identificiejūši sertifikati
-certmgr-servers = Jiusim failā ir itūs serverus identificiejūši sertifikati
 certmgr-ca = Jiusim failā ir ituos sertificiešonuos autoritatis identificiejūši sertifikati
-
-certmgr-detail-general-tab-title =
-    .label = Vyspuoreigi
-    .accesskey = V
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Detalis
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Itūbreid puorbauda sertifikatu...
-
-certmgr-subject-label = Izdūts
-
-certmgr-issuer-label = Izdeviejs
-
-certmgr-period-of-validity = Dereiguma termeņš
-
-certmgr-fingerprints = Pierstu nūspīdumi
-
-certmgr-cert-detail =
-    .title = Sertifikata detalis
-    .buttonlabelaccept = Aiztaiseit
-    .buttonaccesskeyaccept = z
-
-certmgr-cert-detail-commonname = Nūsaukums (CN)
-
-certmgr-cert-detail-org = Organizaceja (O)
-
-certmgr-cert-detail-orgunit = Organizatoriska vīneiba (OU)
-
-certmgr-cert-detail-serial-number = Serejis numurs
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 pierstu nūspīdums
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 pierstu nūspīdums
 
 certmgr-edit-ca-cert =
     .title = Redigeit CA sertifikatu uztycameibys īstatiejumus
@@ -86,12 +49,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Drūseibys īrīce
 
-certmgr-begins-on = Suokās
-
 certmgr-begins-label =
     .label = Suokās
-
-certmgr-expires-on = Dereigs leidz
 
 certmgr-expires-label =
     .label = Dereigs leidz
@@ -133,18 +92,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Importeit…
     .accesskey = I
-
-certmgr-details =
-    .value = Sertifikatu lauki
-    .accesskey = l
-
-certmgr-fields =
-    .value = Lauka vierteiba
-    .accesskey = v
-
-certmgr-hierarchy =
-    .value = &Sertifikatu hierarheja
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Pīvīnuot izjiemumu…
@@ -208,12 +155,6 @@ delete-user-cert-confirm = Voi asot puorlīcynuots, ka vālotīs dzēst itūs se
 delete-user-cert-impact = Nui izdziessit vīnu no sovim sertifikatym, vairs navareisit to izmantuot sevis identificiešonai šķārsteiklā.
 
 
-delete-ssl-cert-title =
-    .title = Dzēst serveru sertifikatu izjiemumus
-delete-ssl-cert-confirm = Voi asot puorlīcynuots, ka vālotīs dzēst itūs serveru izjiemumus?
-delete-ssl-cert-impact = Nui izdziessit servera izjiemumu, itam serverim tiks atjaunuotys parostuos drūseibys puorbaudes i tam byus napīcīšams dereigs sertifikats.
-
-
 delete-ca-cert-title =
     .title = Dzēst CA sertifikatus
 delete-ca-cert-confirm = Jius asot izavielieji dzēst CA sertifikatus. Ībyuveitajim sertifikatym vysa uztycameiba tiks nūjimta. Voi asot puorlīcynuots, ka vālotīs dzēst itūs CA sertifikatus?
@@ -233,45 +174,6 @@ cert-with-serial =
     .value = Sertifikats ar serejis numurs: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Sertifikatu skateituojs: “{ $certName }”
-
-not-present =
-    .value = <Nav daļa no sertifikāta>
-
-# Cert verification
-cert-verified = Itys sertifikats ir apstyprynuots itaidim mierkim:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL klienta sertifikats
-
-verify-ssl-server =
-    .value = SSL servera sertifikats
-
-verify-ssl-ca =
-    .value = SSL sertifikata autoritate
-
-verify-email-signer =
-    .value = Eposta paroksteituoja sertifikats
-
-verify-email-recip =
-    .value = Eposta sajiemieja sertifikats
-
-# Cert verification
-cert-not-verified-cert-revoked = Navar apstyprynuot itū sertifikatu, kam tys ir anulāts.
-cert-not-verified-cert-expired = Navar apstyprynuot itū sertifikatu, kam tam beidzuos dereiguma laiks.
-cert-not-verified-cert-not-trusted = Navar apstyprynuot itū sertifikatu, kam tys nav uztycams.
-cert-not-verified-issuer-not-trusted = Navar apstyprynuot itū sertifikatu, kam tei izdeviejs nav uztycams.
-cert-not-verified-issuer-unknown = Navar apstyprynuot itū sertifikatu, kam tei izdeviejs nav zynoms.
-cert-not-verified-ca-invalid = Navar apstyprynuot itū sertifikatu, kam tei CA sertifikats ir nadereigs.
-cert-not-verified_algorithm-disabled = Navar puorbaudeit itū sertifikatu, kam tys ir paraksteits ar paroksta algoritmu, kas drūseibys apsvārumu dieļ natīk izmontuots.
-cert-not-verified-unknown = Navar apstyprynuot itū sertifikatu nazynuomu īmeslu dieļ.
 
 ## Used to show whether an override is temporary or permanent
 

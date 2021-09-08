@@ -110,9 +110,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Redigeit
     .accesskey = e
-menu-edit-find-on =
-    .label = Atrast itymā lopā…
-    .accesskey = A
 menu-edit-find-again =
     .label = Mekleit vēļreiz
     .accesskey = k
@@ -128,9 +125,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Reikjūslys
     .accesskey = l
-menu-view-customize-toolbar =
-    .label = Pīlāgōt…
-    .accesskey = P
 menu-view-sidebar =
     .label = Suonu jūsla
     .accesskey = a
@@ -161,9 +155,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Lopys pamota stils
     .accesskey = m
-menu-view-charset =
-    .label = Teksta kodiejums
-    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -212,10 +203,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Gruomotzeimes
     .accesskey = G
-menu-bookmarks-show-all =
-    .label = Ruodeit vysys gruomotzeimes
-menu-bookmark-this-page =
-    .label = Saglobuot itū lopu gruomotzeimēs
 menu-bookmark-edit =
     .label = Redigeit itū gruomotzeimi
 menu-bookmarks-all-tabs =
@@ -235,41 +222,18 @@ menu-tools =
 menu-tools-downloads =
     .label = Lejupīluodes
     .accesskey = d
-menu-tools-addons =
-    .label = Papyldynuojumi
-    .accesskey = a
-menu-tools-fxa-sign-in =
-    .label = Pīzasacēt { -brand-product-name }…
-    .accesskey = P
-menu-tools-turn-on-sync =
-    .label = Īslēgt { -sync-brand-short-name }…
-    .accesskey = s
 menu-tools-sync-now =
     .label = Sinhronizeit
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = Pīzaslēgt par jaunu pi { -brand-product-name }…
     .accesskey = z
-menu-tools-web-developer =
-    .label = Izstrōdōtōju reiki
-    .accesskey = t
 menu-tools-page-source =
     .label = Lopys pyrmskods
     .accesskey = o
 menu-tools-page-info =
     .label = Informaceja par lopu
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Īstatiejumi
-           *[other] Īstatiejumi
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] m
-           *[other] m
-        }
 menu-tools-layout-debugger =
     .label = Maketa atklaidōtōjs
     .accesskey = M
@@ -304,29 +268,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Paleidzeiba
     .accesskey = P
-menu-help-product =
-    .label = { -brand-shorter-name } paleidzeiba
-    .accesskey = l
-menu-help-show-tour =
-    .label = { -brand-shorter-name } Tour
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = Tausteņu kombinacejis
-    .accesskey = k
-menu-help-troubleshooting-info =
-    .label = Problemu nūvieršonys informaceja
-    .accesskey = P
 menu-help-report-site-issue =
     .label = Ziņuot par problemu ar lopu…
 menu-help-feedback-page =
     .label = Nūsyuteit atsauksmi…
     .accesskey = s
-menu-help-safe-mode-without-addons =
-    .label = Puorstarteit ar deaktiveitim papyldynuojumym…
-    .accesskey = r
-menu-help-safe-mode-with-addons =
-    .label = Puorstarteit ar deaktiveitim papyldynuojumym
-    .accesskey = r
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

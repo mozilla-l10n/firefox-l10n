@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Papyldynuojumu puorvaļdnīks
-
 addons-page-title = Papyldynuojumu puorvaļdnīks
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Ruodeit vysus papyldynuojums
-
-cmd-show-details =
-    .label = Ruodeit papyldus informaceju
-    .accesskey = p
-
-cmd-find-updates =
-    .label = Mekleit atjaunynuojumus
-    .accesskey = M
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Īstatiejumi
-           *[other] Īstatiejumi
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Ī
-           *[other] Ī
-        }
-
-cmd-enable-theme =
-    .label = Izmantuot itū temu
-    .accesskey = I
-
-cmd-disable-theme =
-    .label = Naizmantuot itū temu
-    .accesskey = N
-
-cmd-install-addon =
-    .label = Instaleit
-    .accesskey = I
-
-cmd-contribute =
-    .label = Pabaļsteit
-    .accesskey = P
-    .tooltiptext = Pabaļsteit itei papyldynuojuma izstruodi
 
 detail-version =
     .label = Verseja

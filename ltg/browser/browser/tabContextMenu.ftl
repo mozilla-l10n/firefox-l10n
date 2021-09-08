@@ -29,16 +29,9 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Saglobōt cilnes grōmotzeimēs…
     .accesskey = g
-reopen-in-container =
-    .label = Atdareit skreinē
-    .accesskey = t
 move-to-new-window =
     .label = Puorīt iz jaunu lūgu
     .accesskey = P
-
-close-tab =
-    .label = Aiztaiseit cilni
-    .accesskey = c
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

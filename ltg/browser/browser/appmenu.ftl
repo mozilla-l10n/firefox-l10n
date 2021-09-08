@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Pīlāgōt…
-
 ## Zoom Controls
 
 appmenuitem-new-tab =
@@ -26,22 +23,20 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Sinhronizeit
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Ruodeit vysu
-    .tooltiptext = Ruodeit vysys cilnes nu ituos īrīces
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nav attaisietu cilņu
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Īslēdz cilņu sinhronizaceji, kab radzātu cilnes nu cytom īreicem.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Grybot redzeit cilnes nu cytom sovom īreičom?
+
 appmenu-remote-tabs-connectdevice =
     .label = Daslēgt cytu īreici
 appmenu-remote-tabs-unverified = Tovam kontam jōbyun apstyprynōtam.
+
 appmenuitem-save-page =
     .label = Saglobōt lopu kai…
 

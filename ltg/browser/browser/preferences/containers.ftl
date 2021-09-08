@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Pīvīnōt jaunu skreini
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } skreines īstatiejumi
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Ikona
 containers-color-label = Kruosa
     .accesskey = r
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Gotovs
-    .accesskey = G
 
 containers-dialog =
     .buttonlabelaccept = Gotovs

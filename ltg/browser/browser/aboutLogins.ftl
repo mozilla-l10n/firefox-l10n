@@ -11,20 +11,12 @@ about-logins-page-title = Lītōtōjvōrdi un paroles
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Pajam paroles leidza vysur
-login-app-promo-subtitle = Sajem bezmoksys { -lockwise-brand-name } aplikaceji
-login-app-promo-android =
-    .alt = Nūlōdej nu Google Play
-login-app-promo-apple =
-    .alt = Nūlōdej nu App Store
-
 login-filter =
     .placeholder = Mekleit pīejis datus
 
 create-login-button = Izveidōt jaunu pīeju
 
 fxaccounts-sign-in-text = Daboj pīeju sovom parolem iz cytom īreicem
-fxaccounts-sign-in-button = Īzalūgōt { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Puorvaļdeit kontu
 
@@ -38,8 +30,6 @@ menu-menuitem-preferences =
        *[other] Īstatiejumi
     }
 about-logins-menu-menuitem-help = Paleidzeiba
-menu-menuitem-android-app = { -lockwise-brand-short-name } deļ Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } deļ iPhone un iPad
 
 ## Login List
 
@@ -67,12 +57,7 @@ about-logins-list-item-breach-icon =
 
 ## Introduction screen
 
-login-intro-heading = Vaicoj saglobōtūs pīejas datus? Īstoti { -sync-brand-short-name }.
-
 login-intro-description = Ja tu saglobōji sovus pīejas datus { -brand-product-name } cytā īreicē, tod itai var dabōt pi jīm pīeji ite:
-login-intro-instruction-fxa = Izveidoj voi īej sovā { -fxaccount-brand-name } uz īreices, kur saglobōti tovi pīejas dati
-login-intro-instruction-fxa-settings = Porzalīcynoj, ka esi īstatiejs aktivu īrokstu "Lītōtōjvōrdi" { -sync-brand-short-name } īstatejumūs
-about-logins-intro-instruction-help = Ej iz <a data-l10n-name="help-link">{ -lockwise-brand-short-name } atbolstu</a>, kab sajimt paleidzeibu
 
 ## Login
 
@@ -104,8 +89,6 @@ login-item-time-used = Lītots pādejū reizi: { DATETIME($timeUsed, day: "numer
 
 ## Master Password notification
 
-master-password-notification-message = Lyudzu, īvodi sovu golvanū paroli, kab radzēt saglobōtūs pīejas datus
-
 ## Primary Password notification
 
 master-password-reload-button =
@@ -113,19 +96,6 @@ master-password-reload-button =
     .accesskey = P
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Gribi tikt pi pīejas datim vysur, kur lītoj { -brand-product-name }? Ej iz { -sync-brand-short-name } īstatejumim un atzeimej ķeksi pi Lītōtōjvōrdim.
-       *[other] Gribi tikt pi pīejas datim vysur, kur lītoj { -brand-product-name }? Ej iz { -sync-brand-short-name } īstatejumim un atzeimej ķeksi pi Lītōtōjvōrdim.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Īt uz { -sync-brand-short-name } īstatiejumim
-           *[other] Īt uz { -sync-brand-short-name } īstatiejumim
-        }
-    .accesskey = t
 
 ## Dialogs
 

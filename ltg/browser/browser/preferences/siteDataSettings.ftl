@@ -27,14 +27,6 @@ site-data-remove-selected =
     .label = Izjimt izavalātū
     .accesskey = I
 
-site-data-button-cancel =
-    .label = Atceļt
-    .accesskey = c
-
-site-data-button-save =
-    .label = Saglobuot izmaiņis
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = Saglobuot izmaiņis
     .buttonaccesskeyaccept = a

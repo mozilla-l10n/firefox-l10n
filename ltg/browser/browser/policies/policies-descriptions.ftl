@@ -49,8 +49,6 @@ policy-DisableForgetButton = Aizlīgt pīeju Aisamierst pūgai.
 
 policy-DisableFormHistory = Natgōdōt mekliešonys i formu viesturi
 
-policy-DisableMasterPasswordCreation = Ka tai, golvanū paroli navar izveidot.
-
 policy-DisablePocket = Atslēgt īspieju saglobōt puslopys Pocket.
 
 policy-DisablePrivateBrowsing = Atslēgt privatū porlyukōšonu

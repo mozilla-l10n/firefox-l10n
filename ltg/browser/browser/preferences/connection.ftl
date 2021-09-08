@@ -39,11 +39,6 @@ connection-proxy-http-port = Ports
 connection-proxy-ssl-port = Ports
     .accesskey = o
 
-connection-proxy-ftp = FTP storpnīkserveris
-    .accesskey = F
-connection-proxy-ftp-port = Ports
-    .accesskey = r
-
 connection-proxy-socks = SOCKS resursdators
     .accesskey = C
 connection-proxy-socks-port = Ports

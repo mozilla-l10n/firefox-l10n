@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Saroksts
 
-blocklist-button-cancel =
-    .label = Atceļt
-    .accesskey = c
-
-blocklist-button-ok =
-    .label = Saglobuot izmaiņis
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Saglobuot izmaiņis
     .buttonaccesskeyaccept = S
