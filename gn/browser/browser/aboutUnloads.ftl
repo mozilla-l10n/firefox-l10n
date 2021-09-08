@@ -6,12 +6,15 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
+about-unloads-page-title = Emboguejy tendayke
 about-unloads-button-unload = Mboguejy
     .title = Emboguejy tendayke pya’eterei
 about-unloads-no-unloadable-tab = Ndaipóri tendayke emboguejykuaáva.
 about-unloads-column-priority = Peteĩháva
 about-unloads-column-host = Tendaygua
 about-unloads-column-last-accessed = Jeike Paháva
+about-unloads-column-memory = Mandu’arenda
+    .title = Tendayk mandu’arenda jepuru
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
 about-unloads-memory-in-mb-tooltip =
