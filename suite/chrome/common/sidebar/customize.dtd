@@ -4,12 +4,6 @@
 
 <!-- extracted from ./customize.xul -->
 
-<!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "Muokkaa &sidebarName;a">
-<!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "&sidebarName;ssa olevat välilehdet:">
-<!ENTITY sidebar.customize.current.accesskey    "t">
-
 <!ENTITY sidebar.customize.title                "Muokkaa Sivupaneelia">
 <!ENTITY sidebar.customize.current2.label       "Sivupaneelissa olevat välilehdet:">
 <!ENTITY sidebar.customize.current2.accesskey   "t">

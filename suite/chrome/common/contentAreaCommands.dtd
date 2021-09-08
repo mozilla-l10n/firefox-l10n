@@ -2,12 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label     "Estä tämän sivuston ponnahdusikkunat">
-<!ENTITY popupWindowRejectCmd.accesskey "E">
-<!ENTITY popupWindowAllowCmd.label      "Salli tämän sivuston ponnahdusikkunat">
-<!ENTITY popupWindowAllowCmd.accesskey  "S">
-
 <!ENTITY openLinkCmdInTab.label       "Avaa uuteen välilehteen">
 <!ENTITY openLinkCmdInTab.accesskey   "v">
 <!ENTITY openLinkCmd.label            "Avaa uuteen ikkunaan">

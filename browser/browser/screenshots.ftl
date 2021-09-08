@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Ota kuvakaappaus
-
-screenshots-my-shots-button = Omat kaappaukset
-
 screenshot-toolbarbutton =
     .label = Kuvakaappaus
     .tooltiptext = Ota kuvakaappaus
@@ -40,8 +36,6 @@ screenshots-login-error-details = Emme pystyneet tallentamaan kuvaasi, koska { -
 
 screenshots-unshootable-page-error-title = Tästä sivusta ei voi ottaa kuvaa.
 screenshots-unshootable-page-error-details = Tämä ei ole tavallinen verkkosivu, joten et voi ottaa kuvaa siitä.
-
-screenshots-self-screenshot-error-title = Et voi ottaa kuvaa { -screenshots-brand-name } -sivusta!
 
 screenshots-empty-selection-error-title = Valinta on liian pieni
 

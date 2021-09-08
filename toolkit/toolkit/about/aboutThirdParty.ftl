@@ -10,9 +10,6 @@ third-party-intro =
     { -brand-short-name }iin. Mikä tahansa moduuli, joka ei ole Microsoftin tai
     { -vendor-short-name }n allekirjoittama, mielletään kolmannen osapuolen moduuliksi.
 
-third-party-header-module-list = Moduulilista
-third-party-header-loading-events = Ladataan tapahtumia
-
 third-party-message-empty = Kolmansien osapuolten moduuleja ei havaittu.
 third-party-message-no-duration = Ei nauhoitettu
 

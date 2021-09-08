@@ -9,8 +9,6 @@
 
 process-type-web = Verkkosisältö
 
-process-type-browser = Pääprosessi
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Etuoikeutettu about-sivu

@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR-asetukset
 otr-log =
     .label = Sisällytä OTR-salatut viestit keskustelulokeihin
-otr-requireEncryption =
-    .label = Vaadi päästä päähän -salaus kahdenvälisille keskusteluille
-otr-verifyNudge =
-    .label = Muistuta minua aina varmistamaan varmistamaton yhteyshenkilö
-
-otr-notYetAvailable = ei vielä saatavilla
 
 otr-require-encryption =
     .label = Vaadi päästä päähän -salaus kahdenvälisille keskusteluille

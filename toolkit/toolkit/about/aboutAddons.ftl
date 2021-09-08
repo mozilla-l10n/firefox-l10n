@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Lisäosien hallinta
-
 addons-page-title = Lisäosien hallinta
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Lisäosien tuki
 sidebar-help-button-title =
     .title = Lisäosien tuki
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name }-asetukset
-       *[other] { -brand-short-name }-asetukset
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name }-asetukset
-           *[other] { -brand-short-name }-asetukset
-        }
-
 addons-settings-button = { -brand-short-name }-asetukset
 sidebar-settings-button-title =
     .title = { -brand-short-name }-asetukset
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Näytä kaikki laajennukset
-
-cmd-show-details =
-    .label = Näytä lisätietoja
-    .accesskey = N
-
-cmd-find-updates =
-    .label = Hae päivityksiä
-    .accesskey = H
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Asetukset
-           *[other] Asetukset
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] A
-           *[other] A
-        }
-
-cmd-enable-theme =
-    .label = Käytä teemaa
-    .accesskey = t
-
-cmd-disable-theme =
-    .label = Lopeta teeman käyttö
-    .accesskey = l
-
-cmd-install-addon =
-    .label = Asenna
-    .accesskey = A
-
-cmd-contribute =
-    .label = Auta
-    .accesskey = A
-    .tooltiptext = Auta lisäosan kehitystyössä
 
 detail-version =
     .label = Versio
@@ -395,8 +343,6 @@ dictionary-disabled-heading = Ei käytössä
 
 locale-enabled-heading = Käytössä
 locale-disabled-heading = Ei käytössä
-
-ask-to-activate-button = Kysy aktivointia
 
 always-activate-button = Aktivoi aina
 never-activate-button = Älä koskaan aktivoi

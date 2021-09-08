@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Vaatii sivustot lataamaan kuvat ja tiedot uudestaan
 
-clear-site-data-cancel =
-    .label = Peruuta
-    .accesskey = P
-
-clear-site-data-clear =
-    .label = Tyhjennä
-    .accesskey = T
-
 clear-site-data-dialog =
     .buttonlabelaccept = Tyhjennä
     .buttonaccesskeyaccept = T

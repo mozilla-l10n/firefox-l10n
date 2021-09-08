@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Kuinka se toimii
 
-turn-on-sync = Ota { -sync-brand-short-name } käyttöön…
-    .title = Siirry synkronointiasetuksiin
-
 monitor-title = Ota tietovuodot tarkkailuun
 monitor-link = Kuinka se toimii
 monitor-header-content-no-account = Tutustu { -monitor-brand-name }iin nähdäksesi onko tietojasi paljastunut tunnetuissa tietovuodoissa, ja vastaanota hälytys jos tietojasi paljastuu uusissa vuodoissa.

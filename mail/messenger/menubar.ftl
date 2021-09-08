@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Tekstin merkistö
-    .accesskey = T
-
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -69,3 +65,6 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Kosketus
     .accesskey = k
+
+## File
+

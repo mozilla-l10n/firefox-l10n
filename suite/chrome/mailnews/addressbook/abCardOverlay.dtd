@@ -142,7 +142,6 @@
 
 <!ENTITY Photo.tab                      "Kuva">
 <!ENTITY Photo.accesskey                "V">
-<!ENTITY PhotoDesc.label                "Valitse jokin seuraavista:">
 <!ENTITY GenericPhoto.label             "Geneerinen valokuva">
 <!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY DefaultPhoto.label             "Oletus">

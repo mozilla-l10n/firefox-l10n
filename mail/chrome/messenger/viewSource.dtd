@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Tallenna sivu nimellä…">
 <!ENTITY savePageCmd.accesskey "S">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Sivun asetukset…">
-<!ENTITY pageSetupCmd.accesskey "e">
-<!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">
-<!ENTITY printPreviewCmd.accesskey "k">
 <!ENTITY printCmd.label "Tulosta…">
 <!ENTITY printCmd.accesskey "o">
 <!ENTITY printCmd.commandkey "P">

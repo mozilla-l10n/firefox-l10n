@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Poista kaikki sivustot
     .accesskey = a
 
-translation-button-close =
-    .label = Sulje
-    .accesskey = S
-
 translation-dialog =
     .buttonlabelaccept = Sulje
     .buttonaccesskeyaccept = S

@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Valitse tila automaattisesti tunnistetun tilan mukaan
     .accesskey = V
 
-startup-label = Kysy käynnistettäessä tilaa:
-
 offline-preference-startup-label = Manuaalinen tila käynnistettäessä:
 
 status-radio-remember =

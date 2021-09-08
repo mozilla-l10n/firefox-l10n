@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Poikkeukset
     .style = width: 36em;
 
-window-close-key =
-    .key = w
-
 permission-preferences-close-window =
     .key = w
 

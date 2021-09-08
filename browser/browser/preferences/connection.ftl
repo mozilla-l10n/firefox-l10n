@@ -35,9 +35,6 @@ connection-proxy-http = HTTP-välityspalvelin
     .accesskey = H
 connection-proxy-http-port = Portti
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Käytä tätä välityspalvelinta myös FTP:lle ja HTTPS:lle
-    .accesskey = ä
 
 connection-proxy-https-sharing =
     .label = Käytä tätä välityspalvelinta myös HTTPS:lle
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS-välityspalvelin
     .accesskey = H
 connection-proxy-ssl-port = Portti
     .accesskey = r
-
-connection-proxy-ftp = FTP-välityspalvelin
-    .accesskey = F
-connection-proxy-ftp-port = Portti
-    .accesskey = t
 
 connection-proxy-socks = SOCKS-palvelin
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Ei välitystä osoitteille
     .accesskey = v
 
 connection-proxy-noproxy-desc = Esimerkiksi: 192.168.1.0/24, .mozilla.org, .fi
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Yhteyksiä osoitteisiin localhost, 127.0.0.1 ja ::1 ei koskaan ohjata välityspalvelimen kautta.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Yhteyksiä kohteisiin localhost, 127.0.0.1/8 ja ::1 ei koskaan ohjata välityspalvelimen kautta.

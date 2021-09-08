@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Allekirjoita tämä viesti digitaalisesti">
 <!ENTITY menu_securitySign.accesskey "A">
 
-<!ENTITY menu_securityAttachMyKey.label "Liitä oma julkinen avain">
-<!ENTITY menu_securityAttachMyKey.accesskey "L">
-
 <!ENTITY menu_securityTech.label "Salaustekniikka">
 <!ENTITY menu_securityTech.accesskey "T">
 

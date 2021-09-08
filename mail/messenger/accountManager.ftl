@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = { -brand-short-name } asetukset
 
 open-addons-sidebar-button = Lisäosat ja teemat
+

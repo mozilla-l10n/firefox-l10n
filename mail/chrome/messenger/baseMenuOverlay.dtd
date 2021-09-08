@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "O">
 <!ENTITY aboutProduct2.label "Tietoja - &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "T">
-<!ENTITY helpTroubleshootingInfo.label     "Tietoja ongelmatilanteisiin">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpSafeMode.label     "Käynnistä uudelleen ilman lisäosia…">
-<!ENTITY helpSafeMode.accesskey "K">
-<!ENTITY helpSafeMode.stop.label     "Käynnistä uudelleen lisäosat käytössä">
-<!ENTITY helpSafeMode.stop.accesskey "K">
 <!ENTITY productHelp.label "&brandShortName;-ohje">
 <!ENTITY productHelp.accesskey "O">
 <!ENTITY productHelp.commandkey "VK_F1">

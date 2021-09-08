@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Uusi">
 <!ENTITY newMenu.accesskey "U">
 <!ENTITY newMessage.label "Viesti">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "V">
 <!ENTITY newContact.label "Yhteystieto…">
 <!ENTITY newContact.accesskey "Y">
 <!ENTITY attachMenu.label "Liitä">
 <!ENTITY attachMenu.accesskey "L">
-<!ENTITY attachFileCmd.label "Tiedostot…">
-<!ENTITY attachFileCmd.accesskey "T">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Linkitä tiedosto">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Verkkosivu…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Lähetä myöhemmin">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "h">
-<!ENTITY printSetupCmd.label "Sivun asetukset…">
-<!ENTITY printSetupCmd.accesskey "e">
-<!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">
-<!ENTITY printPreviewCmd.accesskey "T">
 <!ENTITY printCmd.label "Tulosta…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "o">
@@ -82,11 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Järjestä liitteet…">
 <!ENTITY reorderAttachmentsCmd.accesskey "J">
 <!ENTITY reorderAttachmentsCmd.key "j">
-<!ENTITY toggleAttachmentPaneCmd.label "Liitteet-paneeli">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
-<!ENTITY toggleAttachmentPaneCmd.accesskey "L">
 <!ENTITY selectAllCmd.accesskey "V">
 <!ENTITY findBarCmd.label "Etsi…">
 <!ENTITY findBarCmd.accesskey "E">
@@ -105,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Järjestä liitteet">
-<!ENTITY moveAttachmentTopPanelBtn.label "Siirrä ylimmäksi">
-<!ENTITY moveAttachmentUpPanelBtn.label "Siirrä ylöspäin">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Siirrä yhteen">
-<!ENTITY moveAttachmentDownPanelBtn.label "Siirrä alaspäin">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Siirrä alimmaksi">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -207,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Tilien asetukset">
 <!ENTITY accountManagerCmd2.accesskey "s">
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
-<!ENTITY preferencesCmd2.label "Asetukset">
-<!ENTITY preferencesCmd2.accesskey "A">
-<!ENTITY preferencesCmdUnix.label "Asetukset">
-<!ENTITY preferencesCmdUnix.accesskey "A">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -223,7 +201,6 @@
 <!ENTITY sendButton.label "Lähetä">
 <!ENTITY quoteButton.label "Lainaa">
 <!ENTITY addressButton.label "Yhteystiedot">
-<!ENTITY attachButton.label "Liitä">
 <!ENTITY spellingButton.label "Oikoluku">
 <!ENTITY saveButton.label "Tallenna">
 <!ENTITY printButton.label "Tulosta">
@@ -233,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Lähetä tämä viesti myöhemmin">
 <!ENTITY quoteButton.tooltip "Lainaa edellistä viestiä">
 <!ENTITY addressButton.tooltip "Valitse vastaanottaja osoitekirjasta">
-<!ENTITY attachButton.tooltip2 "Lisää liite">
 <!ENTITY spellingButton.tooltip "Oikolue valinta tai koko viesti">
 <!ENTITY saveButton.tooltip "Tallenna tämä viesti">
 <!ENTITY cutButton.tooltip              "Leikkaa">
@@ -248,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Muun tyyppiset osoitekentät">
 <!ENTITY fromAddr2.label "Lähettäjä">
 <!ENTITY fromAddr.accesskey "h">
-<!ENTITY toAddr2.label "Vastaanottaja">
-<!ENTITY ccAddr2.label "Kopio">
-<!ENTITY bccAddr2.label "Piilokopio">
 <!ENTITY replyAddr2.label "Vastausosoite">
 <!ENTITY newsgroupsAddr2.label "Keskusteluryhmä">
 <!ENTITY followupAddr2.label "Vastausryhmä">
@@ -309,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "k">
 <!ENTITY selectAll.label "Valitse kaikki">
 <!ENTITY selectAll.accesskey "V">
-<!ENTITY attachFile.label "Liitä tiedostot…">
-<!ENTITY attachFile.accesskey "L">
 <!ENTITY attachCloud.label "Linkitetty liitetiedosto…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Muunna muotoon…">
