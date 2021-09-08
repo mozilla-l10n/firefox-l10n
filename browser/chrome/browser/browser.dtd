@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "பட்டியைத் திற">
-
 <!ENTITY navbarOverflow.label                "இதர கருவிகள்...">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "இட முனையில் சேர்">
-<!ENTITY  unpinTab.label                     "முனையிலிருந்து நீக்கு">
 
 <!ENTITY  listAllTabs.label      "அனைத்து கீற்றுகளையும் பட்டியலிடு">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
@@ -30,9 +20,6 @@ in "Search through tabs". -->
 
 <!ENTITY menubarCmd.label "பட்டி பட்டை">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY personalbarCmd.label "புத்தகக்குறி கருவிப்பட்டை">
-<!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "புத்தகக்குறிகள் கருவிப்பட்டை உருப்படிகள்">
 
 <!ENTITY fullScreenCmd.label "முழுத்திரை">
 
@@ -52,37 +39,10 @@ in "Search through tabs". -->
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 
- <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "தற்பொழுது முழுத்திரையில்">
-<!ENTITY fullscreenWarning.generic.label "இவ்வாணம் தற்பொழுது முழுத்திரையில் உள்ளது">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "முழுத்திரையிலிருந்து வெளியேறுக (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "முழுத்திரையிலிருந்து வெளியேறுக (Esc)">
-
-<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+ <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
 
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "உங்கள் சுட்டியைக் கட்டுப்படுத்துகிறது. கட்டுப்பாட்டை எடுக்க Esc விசையை அழுத்தவும்.">
-<!ENTITY pointerlockWarning.generic.label "இந்த ஆவணம் உங்கள் சுட்டியைக் கட்டுப்பாட்டில் வைத்திருக்கிறது. கட்டுப்பாட்டைத் திரும்ப எடுக்க Esc விசையை அழுத்தவும்.">
-
-<!ENTITY showAllBookmarks2.label "அனைத்தையும் காண்பி">
-<!ENTITY recentBookmarks.label "சமீபத்திய புத்தகக்குறிகள்">
-<!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் காண்பி">
 
 <!ENTITY printButton.label            "அச்சிடு">
 <!ENTITY printButton.tooltip          "இந்தப் பக்கத்தை அச்சிடு">
@@ -94,28 +54,12 @@ in "Search through tabs". -->
 <!ENTITY homeButton.label             "இல்லம்">
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; அகப்பக்கம்">
 
-<!ENTITY bookmarksButton.label          "புத்தகக்குறிகள்">
-
-<!ENTITY bookmarksSubview.label             "புத்தகக்குறிகள்">
-<!ENTITY bookmarksMenuButton2.label         "புத்தகக்குறிகள் பட்டி">
-<!ENTITY bookmarksMenuButton.other.label    "பிற புத்தகக்குறிகள்">
-<!ENTITY bookmarksMenuButton.mobile.label   "கைகப்பேசி புத்தகக்குறிகள்">
-<!ENTITY viewBookmarksSidebar2.label        "புத்தகக்குறிகள் பக்கப்பட்டையைக் காட்டு">
-<!ENTITY hideBookmarksSidebar.label         "புத்தகக்குறிகள் பக்கப்பட்டையை மறை">
-<!ENTITY viewBookmarksToolbar.label         "புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டு">
-<!ENTITY hideBookmarksToolbar.label         "புத்தகக்குறிகள் கருவிப்பட்டையை மறை">
-<!ENTITY searchBookmarks.label              "புத்தகக்குறிகளைத் தேடு">
-<!ENTITY bookmarkingTools.label             "புத்தக்குறியிடும் கருவிகள்">
-<!ENTITY addBookmarksMenu.label             "புத்தகக்குறி பட்டியைக் கருவிப்பட்டையில் சேர்க்கவும்">
-<!ENTITY removeBookmarksMenu.label          "கருவிப்பட்டையிலிருந்து புத்தகக்குறிகள் பட்டியை நீக்கவும்">
-
 <!ENTITY historyButton.label            "வரலாறு">
 
 <!ENTITY downloads.label              "பதிவிறக்கங்கள்">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "பதிவிறக்கங்கள்">
-<!ENTITY addons.label                 "துணை நிரல்கள்">
 
 <!ENTITY webDeveloperMenu.label       "உருவாக்குநர் கருவிகள்">
 
@@ -131,27 +75,11 @@ in "Search through tabs". -->
 
 <!ENTITY historyMenu.label "வரலாறு">
 
-<!ENTITY historyUndoMenu.label "சமீபத்தில் மூடப்பட்ட கீற்றுகள்">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "சமீபத்தில் மூடப்பட்ட சாளரங்கள்">
-
-<!ENTITY appMenuHistory.showAll.label "அனைத்தையும் காண்பி">
-
-<!ENTITY appMenuHistory.clearRecent.label "சமீபத்திய வரலாற்றைத் துடை...">
-<!ENTITY appMenuHistory.restoreSession.label "முந்தைய அமர்வுக்கு மீட்டமை">
-<!ENTITY appMenuHistory.viewSidebar.label "வரலாறுப் பக்கப்பட்டையை பார்க்க">
-<!ENTITY appMenuHistory.recentHistory.label "சமீபத்திய வரலாறு">
-
 <!ENTITY appMenuHelp.label "உதவி">
-
-<!ENTITY appMenuRemoteTabs.label "ஒத்திசைத்த கீற்றுகள்">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "திறந்த கீற்றுகள் இல்லை">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "மேலும் காட்டு">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "இந்தச் சாதனத்திலிருந்து கீற்றுகளைக் காண்பி">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -166,11 +94,7 @@ in "Search through tabs". -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "மற்ற கருவிகளிலிருந்து உங்கள் கீற்றுகளை இங்குப் பார்க்க விருப்பமா?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "ஒத்திசைவு முன்னுரிமைகளைத் திற">
 <!ENTITY appMenuRemoteTabs.unverified.label "உங்கள் கணக்கு சரிபார்க்கப்பட வேண்டும்.">
-<!ENTITY appMenuRemoteTabs.managedevices.label "சாதனங்களை நிர்வகி...">
-<!ENTITY appMenuRemoteTabs.sidebar.label "ஒத்திசைத்த கீற்றுகள் பக்கப்பட்டையைப் பார்">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "மற்றொரு சாதனத்தை இணை">
-
-<!ENTITY appMenuRecentHighlights.label "அண்மைய மிளிர்ப்புகள்">
 
 <!ENTITY customizeMenu.addToToolbar.label "கருவிப்பட்டியில் சேர்க்க">
 <!ENTITY customizeMenu.addToToolbar.accesskey "க">
@@ -182,8 +106,6 @@ in "Search through tabs". -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "மேலோட்ட பட்டியலிருந்து இருந்து நீக்கவும்">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "கருவிப்பட்டையிலிருந்து நீக்கு">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "ந">
 <!ENTITY customizeMenu.addMoreItems.label "மேலும் உருப்பிடிகளை சேர்க்க...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "ச">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
@@ -208,12 +130,8 @@ in "Search through tabs". -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
-<!ENTITY pageAction.copyLink.label    "தொடுப்பை நகலெடுக்கவும்">
-
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
-
-<!ENTITY emailPageCmd.label           "மின்னஞ்சல் இணைப்பு ...">
 
 <!-- Media (video/audio) controls -->
 
@@ -226,13 +144,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "பெரியதாக்கு">
 
 <!ENTITY sidebarCloseButton.tooltip     "பக்கப்பட்டையை மூடு">
-
-<!ENTITY quitApplicationCmdWin2.label       "வெளியேறு">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; உலாவியை விட்டு வெளியேறு">
-<!ENTITY quitApplicationCmd.label       "வெளியேறு">
-<!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; விட்டு வெளியேறு">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -269,10 +180,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "உலாவி கீற்றுகள்">
 
-<!ENTITY syncBrand.shortName.label    "ஒத்திசை">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "தானாக மறை">
-
 
 
 
@@ -300,13 +207,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "பாதுகாப்பான உலவல்!">
 <!ENTITY panicButton.thankyou.buttonlabel         "நன்றி!">
 
-<!ENTITY updateAvailable.panelUI.label "புதிய &brandShorterName; உலாவியை பதிவிறக்கு">
-<!ENTITY updateManual.panelUI.label "&brandShorterName; உலாவியின் புதிய பதிப்பை பதிவிறக்கவும்">
-<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; உலாவியை புதுப்பிக்க மீள்துவக்கு">
-
 <!ENTITY sendToDevice.syncNotReady.label "சாதனங்களை ஒத்திசைக்கிறது...">
-
-<!ENTITY pageAction.shareUrl.label "பகிர்">
 
 <!ENTITY libraryButton.tooltip "வரலாறு, சேமித்த புத்தகக்குறிகள், மற்றும் பலவற்றைப் பார்">
 

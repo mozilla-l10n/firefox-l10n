@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = அனைத்து தளங்களையும் நீக்கு
     .accesskey = e
 
-permissions-button-cancel =
-    .label = இரத்து
-    .accesskey = C
-
-permissions-button-ok =
-    .label = மாற்றங்களைச் சேமிக்கவும்
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = மாற்றங்களைச் சேமிக்கவும்
     .buttonaccesskeyaccept = S

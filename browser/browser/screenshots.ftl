@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = ஒரு திரைப்பிடிப்பு செய்
-
-screenshots-my-shots-button = எனது திரைகள்
-
 screenshots-instructions = பக்கத்தில் இழுத்தோ (அ) சொடுக்கியோ ஒரு பகுதியைத் தேர்வுச்செய்க. இரத்து செய்ய ESC விசையை அழுத்தவும்.
 screenshots-cancel-button = இரத்து
 screenshots-save-visible-button = பார்ப்பதைச் சேமி
@@ -32,8 +28,6 @@ screenshots-login-error-details = பயர்பாஃசின் திரை
 
 screenshots-unshootable-page-error-title = இப்பக்கத்தை திரைப்பிடிப்பு செய்ய முடியாது.
 screenshots-unshootable-page-error-details = இது ஒரு இணையத்தளம் போன்று தெரிவில்லை, எனவே உங்களால் திரைப்பிடிப்பு எடுக்க முடியாது.
-
-screenshots-self-screenshot-error-title = { -screenshots-brand-name } பக்கத்தை உங்களால் திரைப்பிடிப்பு செய்ய முடியாது!
 
 screenshots-empty-selection-error-title = உங்களின் தேர்வு மிகச் சிறியது
 

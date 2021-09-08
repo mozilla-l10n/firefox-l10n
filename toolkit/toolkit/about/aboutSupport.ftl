@@ -10,11 +10,6 @@ crashes-id = அறிக்கை ID
 crashes-send-date = சமர்பிக்கப்பட்டது
 crashes-all-reports = அனைத்து செயலிழப்பு அறிக்கைகள்
 crashes-no-config = இந்த நிரல் சிதைவு அறிக்கைகளை காண்பிக்க கட்டமைப்பு செய்யப்படவில்லை.
-extensions-title = நீட்சிகள்
-extensions-name = பெயர்
-extensions-enabled = செயல்படுத்தப்பட்டது
-extensions-version = பதிப்பு
-extensions-id = ID
 support-addons-name = பெயர்
 support-addons-version = பதிப்பு
 support-addons-id = ID
@@ -87,8 +82,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = செயல்பாடு வகை
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = தருமதிப்புகள்
-safe-mode-title = பாதுகாப்பு முறைமையை முயற்சி
-restart-in-safe-mode-label = நீட்சிகளை நீக்கிவிட்டு மீள் துவக்கு.
 
 ## Media titles
 
@@ -219,19 +212,12 @@ webgl2-renderer = WebGL 2 இயக்கி வரைவு
 webgl2-version = WebGL 2 இயக்கி பதிப்பு
 webgl2-driver-extensions = WebGL 2 இயக்கி நீட்சிகள்
 webgl2-extensions = WebGL 2 நீட்சிகள்
-blocklisted-bug = தெரிந்தக் காரணங்களுக்காக தடுக்கப்படடது
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = வழு { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = தடுக்கப்பட்டது; தோல்விக்கன குறியீடு { $failureCode }
 
 d3d11layers-crash-guard = D3D11 தொகுப்பி
-d3d11video-crash-guard = D3D11 காணொளி குறியவிழி
-d3d9video-crash-guard = D3D9 காணொளி குறியவிழி
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = அடுத்த மீள்துவக்கத்தில் மீட்டமை
@@ -257,14 +243,6 @@ sandbox-proc-type-media-plugin = ஊடகம் செருகி
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = பயனாளரால் செயலிடப்பட்டது
-multi-process-status-1 = முன்னிருப்பில் செயலிலுள்ளது
-multi-process-status-2 = முடக்கப்பட்டது
-multi-process-status-4 = அணுகுத்திறன் கருவிகளால் முடக்கப்பட்டது
-multi-process-status-6 = ஆதரிக்கப்படாத உரை உள்ளீடல் முடக்கப்பட்டது
-multi-process-status-7 = நீட்சிகளால் முடக்கப்பட்டது
-multi-process-status-8 = அதிரடியாக முடக்கப்பட்டது
-multi-process-status-unknown = அறியாத நிலை
 
 async-pan-zoom = ஒத்திசையா Pan/Zoom
 apz-none = ஒன்றுமில்லை

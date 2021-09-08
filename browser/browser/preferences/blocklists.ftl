@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = பட்டியல்
 
-blocklist-button-cancel =
-    .label = இரத்து
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = மாற்றங்களைச் சேமிக்கவும்
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = மாற்றங்களைச் சேமிக்கவும்
     .buttonaccesskeyaccept = S

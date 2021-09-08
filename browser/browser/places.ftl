@@ -5,31 +5,9 @@
 places-open =
     .label = திற
     .accesskey = O
-places-open-tab =
-    .label = ஒரு புதிய கீற்றில் திறக்கவும்
-    .accesskey = w
 places-open-all-in-tabs =
     .label = அனைத்தையும் கீற்றுகளாகத் திற
     .accesskey = O
-places-open-window =
-    .label = ஒரு புதிய சாளரத்தில் திறக்கவும்
-    .accesskey = N
-places-open-private-window =
-    .label = புதிய கமுக்க சாளரத்தில் திறக்கவும்
-    .accesskey = P
-
-places-new-bookmark =
-    .label = புதிய புத்தகக்குறி…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = புதிய அடைவு…
-    .accesskey = F
-places-new-folder =
-    .label = புதிய அடைவு…
-    .accesskey = o
-places-new-separator =
-    .label = புதிய பிரிப்பி
-    .accesskey = S
 
 places-view =
     .label = பார்வை
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = பெயரால் அடுக்கவும்
     .accesskey = r
-places-properties =
-    .label = தன்மைகள்
-    .accesskey = i
 

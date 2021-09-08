@@ -7,28 +7,6 @@ do-not-track-learn-more = மேலும் அறிய
 do-not-track-option-always =
     .label = எப்போதும்
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] தேர்வுகள்
-       *[other] முன்னுரிமைகள்
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 16.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] தேர்வுகளில் கண்டுபிடி
-           *[other] முன்னுரிமைகளில் கண்டுபிடி
-        }
-
 pane-general-title = பொது
 category-general =
     .tooltiptext = { pane-general-title }
@@ -72,18 +50,6 @@ restart-later = பின்னர் மீட்துவக்கு
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = உங்களின் அகப்பக்கத்தை ஒரு, <img data-l10n-name="icon"/> { $name }, நீட்டிப்பு கட்டுப்படுத்துகிறது.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = உங்களின் புதிய கீற்றுப் பக்கத்தை ஒரு, <img data-l10n-name="icon"/> { $name }, நீட்டிப்பு கட்டுப்படுத்துகிறது.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = <img data-l10n-name="icon"/> { $name }, நீட்சியானது தங்களது புதிய இயல்புநிலை தேடு பொறியை அமைத்துள்ளது.
-
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name }, நீட்சிக்கு கலன் கீற்றுகள் தேவைப்படுகிறது.
@@ -103,26 +69,11 @@ extension-controlled-enable = <img data-l10n-name="menu-icon"/> பட்டி�
 
 search-results-header = தேடலின் முடிவுகள்
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] மன்னிக்கவும்! தேர்வுகளில் "<span data-l10n-name="query"></span>" சொல்லிற்கான முடிவுகள் எதுமில்லை.
-       *[other] மன்னிக்கவும்! முன்னுரிமைகளில் "<span data-l10n-name="query"></span>" சொல்லிற்கான முடிவுகள் ஏதுமில்லை.
-    }
-
 search-results-help-link = உதவி தேவையா? <a data-l10n-name="url">{ -brand-short-name } ஆதரவு</a> பார்வையிடவும்
 
 ## General Section
 
 startup-header = துவக்கம்
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = பயர்பாக்ஸ்சும் { -brand-short-name } ம் ஒரே நேரத்தில் இயங்க அனுமதி
-use-firefox-sync = குறிப்பு: தனித்தனி சுயவிவரங்களைப் பயன்படுத்துகிறது. அவைகளுக்கிடையே தரவை பகிர { -sync-brand-short-name } பயன்படுத்தவும்.
-get-started-not-logged-in = { -sync-brand-short-name } உள்நுழைக…
-get-started-configured = { -sync-brand-short-name } முன்னுரிமைகளைத் திற
 
 always-check-default =
     .label = துவக்கத்தில் { -brand-short-name } முன்னிருப்பு உலாவியாக இருக்கிறதா என்று எப்போதும் சரி பார்
@@ -159,10 +110,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = பல கீற்றுகளைத் திறக்கும் போது { -brand-short-name } மெதுவாகும் என்பதை எச்சரி
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = நான் ஒரு தொடுப்பைப் புதிய கீற்றில் திறக்கும்போது, உடனே அதற்கு மாறவும்
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = Windows பணிப்பட்டையில் கீற்றுகளின் முன்பார்வைகளை காட்டு
@@ -319,11 +266,6 @@ applications-manage-app =
     .label = பயன்பாட்டு விவரங்கள்…
 applications-always-ask =
     .label = எப்போதும் கேள
-applications-type-pdf = போர்ட்டபிள் டாக்குமன்ட் ஃபார்மேட் (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -394,8 +336,6 @@ update-application-manual =
 update-application-use-service =
     .label = புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்தவும்
     .accesskey = b
-
-update-setting-write-failure-title = புதுப்பிப்பு விருப்பங்களைச் சேமிப்பதில் பிழை
 
 update-in-progress-title = புதுப்பிப்பு செயலிலுள்ளது
 
@@ -589,8 +529,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = தேடல் பரிந்துரைகள் இடப்பட்டையில் காட்டப்படாது ஏனெனில் நீங்கள் { -brand-short-name } என்பதை வரலாற்றில் நினைவு கொள்ளாமல் இருக்கும்படி கட்டமைத்துள்ளீர்கள்.
 
-search-one-click-header = ஒரு சொடுக்கு தேடுபொறிகள்
-
 search-one-click-desc = நீங்கள் உள்ளிட துவங்கும்போது, இடப்பட்டை மற்றும் தேடுபட்டையின் அடியில் இடம்பெறும் மாற்று தேடுபொறியைத் தேர்ந்தெடுக
 
 search-choose-engine-column =
@@ -623,9 +561,6 @@ containers-add-button =
     .label = புதிய கலன்களைச் சேர்
     .accesskey = A
 
-containers-preferences-button =
-    .label = முன்னுரிமைகள்
-
 containers-remove-button =
     .label = நீக்கு
 
@@ -633,7 +568,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = இணைத்தை உங்களுடன் வைத்திருங்கள்
-sync-signedout-description = புத்தகக்குறிகள், வரலாறு, கீற்றுகள், கடவுச்சொற்கள், துணை நிரல்கள், மற்றும் முன்னுரிமைகளை எல்லா கருவிகளிலும் ஒத்திசை.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -704,15 +638,6 @@ sync-engine-addons =
     .tooltiptext = பணித்திரை பயர்பாக்சிற்கான நீட்சிகள் மற்றும் தீம்கள்
     .accesskey = க
 
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] விருப்பங்கள்
-           *[other] விருப்பங்கள்
-        }
-    .tooltiptext = நீங்கள் மாற்றியுள்ள பொதுவான, தனியுரிமை மற்றும் பாதுகாப்பு அமைப்புகள்
-    .accesskey = s
-
 ## The device name controls.
 
 sync-device-name-header = கருவியின் பெயர்
@@ -746,17 +671,12 @@ forms-exceptions =
 forms-saved-logins =
     .label = சேமிக்கப்பட்ட புகுபதிகைகள்...
     .accesskey = L
-forms-master-pw-use =
-    .label = ஒரு முதன்மை கடவுச்சொல்லை பயன்படுத்தவும்
-    .accesskey = U
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = முதன்மை கடவுச்சொல்லை மாற்றவும்...
     .accesskey = M
-
-forms-master-pw-fips-title = நீங்கள் தற்போது FIPS முறையில் இருக்கிறீர்கள். FIPS க்கு ஒரு வெற்றில்லாத முதன்மை கடவுச்சொல் தேவைப்படுகிறது.
 
 forms-master-pw-fips-desc = கடவுச்சொல்லை மாற்ற முடியவில்லை
 
@@ -926,12 +846,6 @@ permissions-addon-exceptions =
     .label = விதிவிலக்குகள்…
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = அணுகல்தன்மை சேவைகள் உங்கள் உலாவியை அணுகவதிலிருந்தும் தடுக்கவும்
-    .accesskey = a
-
-permissions-a11y-privacy-link = மேலும் அறிய
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } தரவுத் திரட்டும் பயனளவும்
@@ -953,11 +867,6 @@ addon-recommendations-link = மேலும் அறிக
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது
-
-collection-backlogged-crash-reports =
-    .label = { -brand-short-name } உங்கள் சார்பாக பின்புல சிதைவு அறிக்கையை அனுப்ப அனுமதி
-    .accesskey = c
-collection-backlogged-crash-reports-link = மேலும் அறிய
 
 ## Privacy Section - Security
 ##
@@ -985,16 +894,6 @@ security-block-uncommon-software =
 
 certs-header = சான்றிதழ்கள்
 
-certs-personal-label = ஒரு சேவையகம் உங்கள் தனிப்பட்ட சான்றிதழைக் கேட்டால்
-
-certs-select-auto-option =
-    .label = தானாக ஒன்றைத் தேர்ந்தெடு
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = ஒவ்வொரு முறையும் உங்களைக் கேட்கவும்
-    .accesskey = அ
-
 certs-enable-ocsp =
     .label = சான்றிதழ்களின் செல்லுபடி நிலையை உறுதிப்படுத்துவதற்காக OCSP பதிலளிப்பு சேவையகங்களிடம் வினவு
     .accesskey = Q
@@ -1006,28 +905,6 @@ certs-view =
 certs-devices =
     .label = பாதுகாப்பு சாதனங்கள்…
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = மேலும் அறிய
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] விருப்பங்களைத் திற
-           *[other] முன்னுரிமைகளைத் திற
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-under-5gb-ok-button =
-    .label = சரி, கிடைத்துவிட்டது
-    .accesskey = K
-
-space-alert-under-5gb-message = { -brand-short-name } வட்டில் காலி இடமில்லை. இணையத்தள உள்ளடக்கங்கள் சரியாகத் தோன்றாது. “மேலும் அறிய” தொடுப்பு மூலம் உங்கள் வட்டின் பயனளவை மேம்படுத்தி உலாவல் அனுபதித்தைக் கூட்டுங்கள்.
 
 ## Privacy Section - HTTPS-Only
 

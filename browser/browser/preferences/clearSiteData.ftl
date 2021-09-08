@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = இணையத்தளங்கள் படங்களையும் தரவுகளையும் மீட்டிறக்க வேண்டி இருக்கும்
 
-clear-site-data-cancel =
-    .label = ரத்து
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = துடை
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = துடை
     .buttonaccesskeyaccept = l

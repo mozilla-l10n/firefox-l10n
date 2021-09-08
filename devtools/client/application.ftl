@@ -32,12 +32,6 @@ serviceworker-worker-debug = வழுநீக்கு
 # display the last update time of the service worker script.
 serviceworker-worker-updated = <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time> புதுப்பிக்கப்பட்டது
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = மூலம்
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = நிலைப்பாடு
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -47,24 +41,4 @@ serviceworker-worker-status-running = இயக்கத்தில்
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = நிறுத்தப்பட்டது
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = இங்கு ஆய்வை மேற்கொள்ள நீங்கள் சேவையாளராகப் பதிந்திருக்க வேண்டும். <a>மேலும் காண்ன</a> 
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = தற்போதைய பக்கத்தில் சேவையாட்கள் இருப்பின், நீங்கள் முயற்சிப்பதற்குச் சில செயல்கள் உள்ளன.
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = முனையத்தில் காணப்படும் தவறுகளைக் கண்டறிக. <a>முனையத்தைத் திற</a>
-
-# Suggestion to use the debugger to investigate why a service worker is not registered.
-# Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = உங்கள் சேவையாள் பதிவை அடுத்து விதிவிலக்குகளைக் கண்டறிக. <a>வழுநீக்கியைத் திற</a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = மற்ற பிரிவு சேவையாட்களை ஆராய்க.<a> about:debugging திறக்கவும்</a>
 

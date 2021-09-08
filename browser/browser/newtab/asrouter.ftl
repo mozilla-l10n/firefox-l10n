@@ -59,9 +59,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-animation-pause = இடைநிறுத்து
-cfr-doorhanger-pintab-animation-resume = தொடரவும்
-
 
 ## Firefox Accounts Message
 
@@ -79,8 +76,6 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 cfr-whatsnew-button =
     .label = புதியவை என்ன
     .tooltiptext = புதியவைகள்
-
-cfr-whatsnew-panel-header = புதியவை என்ன
 
 ## Search Bar
 
@@ -124,4 +119,10 @@ cfr-whatsnew-panel-header = புதியவை என்ன
 ## Fission Experiment Message
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

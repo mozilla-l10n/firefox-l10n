@@ -25,14 +25,6 @@ site-data-remove-selected =
     .label = தேர்ந்ததை நீக்குக
     .accesskey = R
 
-site-data-button-cancel =
-    .label = இரத்து
-    .accesskey = C
-
-site-data-button-save =
-    .label = மாற்றங்களைச் சேமி
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = மாற்றங்களைச் சேமி
     .buttonaccesskeyaccept = a
