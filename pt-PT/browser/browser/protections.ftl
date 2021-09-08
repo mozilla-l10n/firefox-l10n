@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Como é que funciona
 
-turn-on-sync = Ligar { -sync-brand-short-name }…
-    .title = Ir para as preferências de sincronização
-
 monitor-title = Procurar por violações de dados
 monitor-link = Como funciona
 monitor-header-content-no-account = Aceda ao { -monitor-brand-name } para confirmar se fez parte de uma violação de dados conhecida e para obter alertas sobre novas violações de dados.

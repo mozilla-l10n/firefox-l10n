@@ -118,10 +118,6 @@ openpgp-key-send-key =
     .label = Enviar chave pública por e-mail
     .accesskey = v
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Copiar chave(s) pública(s) para a área de transferência
-    .accesskey = C
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -148,8 +144,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportar chaves para um ficheiro
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Copiar chaves públicas para a área de transferência
 
 openpgp-key-man-ctx-copy =
     .label = Copiar
@@ -301,14 +295,6 @@ openpgp-description =
        *[other] O Thunderbird encontrou { $count } chaves OpenPGP pessoais associadas a <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Selecione uma chave válida para ativar o protocolo OpenPGP.
-       *[other] A sua configuração atual utiliza a chave com o ID <b>{ $key }</b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = A sua configuração atual utiliza a chave <b>{ $key }</b>, que expirou.
 
@@ -334,14 +320,8 @@ openpgp-radio-none-desc = Não utilizar o OpenPGP para esta identidade.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Expira a: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = A chave expira em menos de 6 meses
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Expirou a: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Chave expirada
 
 openpgp-key-expand-section =
     .tooltiptext = Mais informação
@@ -659,7 +639,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Você definiu a quebra de linha para { $width } caracteres. Para uma correta encriptação e/ou assinatura, este valor deve ser de, pelo menos, 68.
     Deseja alterar a quebra de linha para 68 caracteres agora?
-sending-hidden-rcpt = Não podem ser utilizados destinatários BCC (cópia oculta) ao enviar uma mensagem encriptada. Para enviar esta mensagem encriptada, remova os destinatários BCC ou mova os mesmos para o campo CC.
 sending-news =
     A operação de envio encriptado foi cancelada.
     Esta mensagem não pode ser encriptada porque existem destinatários de grupos de notícias. Reenvie a mensagem sem encriptação.
@@ -719,9 +698,6 @@ enig-info = Informação OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Repetir
 dlg-button-skip = &Ignorar
-
-# Strings used in enigmailCommon.js
-enig-error = Erro de OpenPGP
 
 enig-alert-title =
     .title = Alerta do OpenPGP

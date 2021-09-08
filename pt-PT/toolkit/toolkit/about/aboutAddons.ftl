@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Gestor de extras
-
 addons-page-title = Gestor de extras
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Apoio dos extras
 sidebar-help-button-title =
     .title = Apoio dos extras
 
-preferences =
-    { PLATFORM() ->
-        [windows] Opções do { -brand-short-name }
-       *[other] Preferências do { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opções do { -brand-short-name }
-           *[other] Preferências do { -brand-short-name }
-        }
-
 addons-settings-button = Definições do { -brand-short-name }
 sidebar-settings-button-title =
     .title = Definições do { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Mostrar todas as extensões
-
-cmd-show-details =
-    .label = Mostrar mais informação
-    .accesskey = s
-
-cmd-find-updates =
-    .label = Procurar atualizações
-    .accesskey = P
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opções
-           *[other] Preferências
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Ativar tema
-    .accesskey = t
-
-cmd-disable-theme =
-    .label = Desativar tema
-    .accesskey = v
-
-cmd-install-addon =
-    .label = Instalar
-    .accesskey = I
-
-cmd-contribute =
-    .label = Colaborar
-    .accesskey = C
-    .tooltiptext = Participar no desenvolvimento deste extra
 
 detail-version =
     .label = Versão
@@ -401,8 +349,6 @@ dictionary-disabled-heading = Desativado
 
 locale-enabled-heading = Ativada
 locale-disabled-heading = Desativada
-
-ask-to-activate-button = Solicitar ativação
 
 always-activate-button = Ativar sempre
 never-activate-button = Nunca ativar

@@ -95,8 +95,6 @@ perftools-thread-img-decoder =
     .title = Threads de descodificação de imagem
 perftools-thread-dns-resolver =
     .title = A resolução de DNS acontece nesta thread
-perftools-thread-js-helper =
-    .title = O trabalho de fundo do motor de JS tais como compilações fora da thread principal
 
 perftools-thread-task-controller =
     .title = Threads do conjunto de threads do TaskController

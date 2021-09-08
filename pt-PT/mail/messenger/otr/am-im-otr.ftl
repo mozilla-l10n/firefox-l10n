@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = Definições OTR
 otr-log =
     .label = Incluir mensagens OTR encriptadas nos registos de conversação
-otr-requireEncryption =
-    .label = Exigir encriptação ponto a ponto para conversas individuais
-otr-verifyNudge =
-    .label = Lembrar-me sempre para confirmar um contacto não-verificado
-
-otr-notYetAvailable = ainda não disponível
 
 otr-require-encryption-info =
     Ao exigir encriptação ponto a ponto, as mensagens em conversas de um para um

@@ -6,9 +6,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = Remover o campo { $type }
-
-#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -90,19 +87,6 @@ attachment-bucket-count =
         }
     .accesskey = x
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext =
-        { $count ->
-            [1] { $count } anexo
-            [one] { $count } anexo
-           *[other] { $count } anexos
-        }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 expand-attachment-pane-tooltip =
     .tooltiptext = Mostrar o painel de anexos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
@@ -136,7 +120,10 @@ button-return-receipt =
     .label = Recibo
     .tooltiptext = Solicitar um recibo de leitura para esta mensagem
 
+# Encryption
+
 # Addressing Area
+
 
 many-public-recipients-bcc =
     .label = Utilize o Bcc

@@ -142,7 +142,6 @@
 
 <!ENTITY Photo.tab                      "Fotografia">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Obter uma das seguintes:">
 <!ENTITY GenericPhoto.label             "Fotografia genérica">
 <!ENTITY GenericPhoto.accesskey         "g">
 <!ENTITY DefaultPhoto.label             "Predefinida">

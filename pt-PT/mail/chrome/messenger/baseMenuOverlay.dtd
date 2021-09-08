@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "A">
 <!ENTITY aboutProduct2.label "Sobre &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "S">
-<!ENTITY helpTroubleshootingInfo.label     "Informação de suporte">
-<!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY helpSafeMode.label     "Reiniciar com os extras desativados…">
-<!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY helpSafeMode.stop.label     "Reiniciar com os extras ativados">
-<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Ajuda do &brandShortName;">
 <!ENTITY productHelp.accesskey "j">
 <!ENTITY productHelp.commandkey "VK_F1">
