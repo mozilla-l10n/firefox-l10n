@@ -5,8 +5,10 @@
 printui-title = ᱪᱷᱟᱯᱟ
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = ᱞᱮᱠᱟ ᱥᱟᱺᱪᱟᱣ
+
 printui-page-range-all = ᱡᱷᱚᱛᱚ
 printui-page-range-label = ᱥᱟᱦᱴᱟ ᱠᱚ
+
 # Section title for the number of copies to print
 printui-copies-label = ᱱᱚᱠᱚᱞ ᱠᱚ
 
@@ -18,8 +20,10 @@ printui-copies-label = ᱱᱚᱠᱚᱞ ᱠᱚ
 ##
 
 printui-color-mode-color = ᱨᱚᱝ
+
 printui-margins-custom-top = ᱪᱮᱛᱟᱱ
 printui-margins-custom-bottom = ᱞᱟᱛᱟᱨ
+
 printui-primary-button-save = ᱥᱟᱺᱪᱟᱣ
 printui-close-button = ᱵᱚᱸᱫᱽ
 

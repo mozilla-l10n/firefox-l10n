@@ -5,28 +5,9 @@
 places-open =
     .label = झिच्
     .accesskey = O
-places-open-tab =
-    .label = मित् नावा टेब रे झिज मे
-    .accesskey = w
 places-open-all-in-tabs =
     .label = टेब रे जोतो  झिज मे
     .accesskey = O
-places-open-window =
-    .label = मित् नावा विंडो रे झिज मे .
-    .accesskey = N
-
-places-new-bookmark =
-    .label = नावा पुथी चिनहा़…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = नावा पोटोम …
-    .accesskey = F
-places-new-folder =
-    .label = नावा पोटोम …
-    .accesskey = o
-places-new-separator =
-    .label = नावा भेगार होचो
-    .accesskey = S
 
 places-view =
     .label = ञेल मे
@@ -53,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = ञुतुम दाराय ते झिज  मे
     .accesskey = r
-places-properties =
-    .label = गुन को
-    .accesskey = i
 

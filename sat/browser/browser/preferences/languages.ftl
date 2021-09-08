@@ -4,20 +4,26 @@
 
 languages-close-key =
     .key = w
+
 languages-customize-moveup =
     .label = चेतान सेद साहा
     .accesskey = U
+
 languages-customize-movedown =
     .label = लातार चालाव
     .accesskey = D
+
 languages-customize-remove =
     .label = ओचोक्
     .accesskey = R
+
 languages-customize-select-language =
     .placeholder = सेलेद ला़गित् मित् पा़रसी बाछाव मे…
+
 languages-customize-add =
     .label = सेलेद मे
     .accesskey = A
+
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -30,6 +36,8 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+
 browser-languages-window =
     .title = { -brand-short-name } ᱯᱟᱹᱥᱤ ᱥᱟᱡᱟᱣ ᱠᱚ
     .style = width: 40em
+

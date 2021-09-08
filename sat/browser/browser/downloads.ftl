@@ -23,20 +23,24 @@ downloads-cmd-cancel =
     .tooltiptext = ᱵᱟᱹᱰᱨᱟᱹ
 downloads-cmd-cancel-panel =
     .aria-label = ᱵᱟᱹᱰᱨᱟᱹ
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = ᱢᱮᱱᱟᱜ ᱯᱚᱴᱚᱢ ᱧᱮᱞ ᱢᱮ
     .accesskey = ᱢ
+
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = ᱧᱟᱢᱤᱡ ᱨᱮ ᱩᱫᱩᱜ
     .accesskey = ᱧ
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] ᱧᱟᱢᱤᱡ ᱨᱮ ᱩᱫᱩᱜ
            *[other] ᱢᱮᱱᱟᱜ ᱯᱚᱴᱚᱢ ᱡᱷᱤᱡᱽ ᱢᱮ
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -49,6 +53,7 @@ downloads-cmd-show-description =
             [macos] ᱢᱮᱱᱟᱜ ᱯᱚᱴᱚᱢ ᱧᱮᱞ ᱢᱮ
            *[other] ᱢᱮᱱᱟᱜ ᱯᱚᱴᱚᱢ ᱧᱮᱞ ᱢᱮ
         }
+
 downloads-cmd-retry =
     .tooltiptext = ᱫᱚᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩ
 downloads-cmd-retry-panel =
@@ -81,19 +86,23 @@ downloads-cmd-clear-downloads =
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = ᱚᱛᱩᱨ ᱟᱲᱜᱩ ᱵᱟᱹᱰᱨᱟᱹᱭ ᱢᱮ
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = ᱡᱷᱚᱛᱚ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .accesskey = ᱫ
+
 downloads-clear-downloads-button =
     .label = ᱰᱟᱩᱱᱞᱚᱰ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
     .tooltiptext = ᱯᱷᱟᱨᱪᱟ ᱯᱩᱨᱟᱹᱶ ᱮᱱᱟ , ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ ᱵᱟᱹᱰᱨᱟᱹ ᱟᱨ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = ᱡᱟᱦᱟᱺ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱦᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾

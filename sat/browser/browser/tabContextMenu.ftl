@@ -21,10 +21,6 @@ move-to-new-window =
     .label = नावा विंडो रे चालाव
     .accesskey = W
 
-close-tab =
-    .label = टैव बोनदोय मे
-    .accesskey = C
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 

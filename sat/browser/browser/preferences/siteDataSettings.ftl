@@ -5,12 +5,6 @@
 
 ## Settings
 
-site-data-button-cancel =
-    .label = ᱵᱟᱹᱰᱨᱟᱹ
-    .accesskey = ᱵ
-site-data-button-save =
-    .label = ᱵᱚᱫᱚᱞ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
-    .accesskey = ᱥ
 site-data-settings-dialog =
     .buttonlabelaccept = ᱵᱚᱫᱚᱞ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
     .buttonaccesskeyaccept = ᱥ

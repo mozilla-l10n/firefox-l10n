@@ -38,13 +38,16 @@ menu-quit =
             [windows] ᱚ
            *[other] ᱛ
         }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } ᱪᱟᱞᱟᱜ ᱢᱮ
+
 menu-about =
     .label = { -brand-shorter-name } ᱵᱟᱵᱚᱛ
     .accesskey = ᱵ
@@ -110,9 +113,6 @@ menu-file-go-offline =
 menu-edit =
     .label = ᱥᱟᱯᱲᱟᱣ
     .accesskey = ᱥ
-menu-edit-find-on =
-    .label = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱧᱟᱢ...
-    .accesskey = ᱱ
 menu-edit-find-in-page =
     .label = ᱥᱟᱠᱟᱢ ᱨᱮ ᱯᱟᱱᱛᱮ ᱢᱮ
     .accesskey = ᱥ
@@ -131,9 +131,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = ᱴᱩᱞ ᱵᱟᱨ ᱞᱚ (ᱴᱩ)
     .accesskey = ᱴ
-menu-view-customize-toolbar =
-    .label = ᱠᱩᱥᱤᱭᱟᱜ ᱛᱮᱭᱟᱨ
-    .accesskey = ᱠ
 menu-view-customize-toolbar2 =
     .label = ᱴᱩᱞᱵᱟᱨ ᱠᱚᱥᱴᱚᱢᱟᱭᱤᱡᱽ ᱢᱮ…
     .accesskey = ᱴ
@@ -170,9 +167,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = ᱢᱩᱞ ᱥᱟᱦᱴᱟ ᱦᱩᱱᱟᱹᱨ
     .accesskey = ᱢ
-menu-view-charset =
-    .label = ᱚᱞ ᱮᱱᱠᱚᱰᱤᱝ
-    .accesskey = ᱚ
 menu-view-repair-text-encoding =
     .label = ᱚᱞ ᱮᱱᱠᱚᱰᱤᱝ ᱥᱟᱡᱟᱣ ᱢᱮ
     .accesskey = ᱚ
@@ -222,10 +216,6 @@ menu-history-reopen-all-windows = ᱡᱚᱛᱚ ᱣᱤᱱᱰᱚᱡᱽ ᱠᱚ ᱫ�
 menu-bookmarks-menu =
     .label = ᱵᱩᱠᱢᱟᱨᱠ
     .accesskey = ᱵ
-menu-bookmarks-show-all =
-    .label = ᱡᱷᱚᱛᱚ ᱵᱩᱠᱢᱟᱨᱠ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
-menu-bookmark-this-page =
-    .label = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱵᱩᱩᱠᱢᱟᱨᱠ ᱢᱮ
 menu-bookmark-edit =
     .label = ᱱᱚᱶᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
 menu-bookmarks-all-tabs =
@@ -236,32 +226,15 @@ menu-bookmarks-all-tabs =
 menu-tools-downloads =
     .label = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
     .accesskey = ᱰ
-menu-tools-addons =
-    .label = ᱮᱰ-ᱟᱸᱱᱥ
-    .accesskey = ᱮ
 menu-tools-sync-now =
     .label = ᱱᱤᱛᱚᱜ ᱥᱤᱝᱠ ᱢᱮ
     .accesskey = ᱱ
-menu-tools-web-developer =
-    .label = ᱣᱮᱵᱽ ᱞᱟᱦᱟ ᱦᱚᱪᱚᱭᱤᱡ
-    .accesskey = ᱣ
 menu-tools-page-source =
     .label = ᱥᱟᱦᱴᱟ ᱥᱨᱚᱛ
     .accesskey = ᱥ
 menu-tools-page-info =
     .label = ᱥᱟᱦᱨᱟ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
     .accesskey = ᱥ
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ᱚᱯᱥᱚᱱ
-           *[other] ᱠᱩᱥᱤᱭᱟᱜ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ᱚ
-           *[other] ᱠ
-        }
 menu-settings =
     .label = ᱥᱟᱡᱟᱣ ᱠᱚ
     .accesskey =
@@ -288,15 +261,6 @@ menu-window-bring-all-to-front =
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.
 
-menu-help-keyboard-shortcuts =
-    .label = ᱠᱟᱹᱴᱷᱤ ᱵᱚᱰ ᱠᱟᱴᱚ ᱛᱮᱭᱟᱨ
-    .accesskey = ᱠ
-menu-help-troubleshooting-info =
-    .label = ᱫᱤᱜᱫᱷᱟᱹ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ
-    .accesskey = ᱫ
 menu-help-feedback-page =
     .label = ᱯᱷᱤᱰᱵᱮᱠ ᱡᱚᱢᱟᱭ ᱢᱮ…
     .accesskey = ᱯ
-menu-help-safe-mode-without-addons =
-    .label = ᱮᱰᱼᱟᱸᱱᱥ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱛᱨᱭᱟᱨ ᱥᱟᱶ ᱫᱚᱦᱲᱟᱹ ᱮᱦᱚᱵ…
-    .accesskey = ᱮ

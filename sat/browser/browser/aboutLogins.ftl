@@ -7,17 +7,12 @@ about-logins-page-title = ᱵᱚᱞᱚᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱲ ᱥᱟ�
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱡᱟᱦᱟᱸ ᱨᱮᱜᱮ ᱤᱫᱤ ᱛᱟᱢ
-login-app-promo-subtitle = ᱟᱢᱟᱜ ᱯᱷᱨᱤ ᱮᱯᱯ { -lockwise-brand-name } ᱧᱟᱢ ᱢᱮ
-login-app-promo-android =
-    .alt = Google Play ᱨᱮ ᱧᱟᱢ ᱢᱮ
-login-app-promo-apple =
-    .alt = App Store ᱨᱮ ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ
 login-filter =
     .placeholder = ᱞᱚᱜᱤᱱ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+
 create-login-button = ᱱᱟᱶᱟ ᱞᱚᱜᱤᱱ ᱛᱮᱭᱟᱨ ᱢᱮ
+
 fxaccounts-sign-in-text = ᱵᱷᱮᱜᱟᱨ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱧᱟᱢ ᱛᱟᱢ
-fxaccounts-sign-in-button = { -sync-brand-short-name } ᱞᱟᱹᱜᱤᱫ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
 fxaccounts-sign-in-sync-button = ᱛᱷᱟᱨ ᱞᱟᱹᱜᱤᱛ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ
 fxaccounts-avatar-button =
     .title = ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
@@ -37,8 +32,6 @@ menu-menuitem-preferences =
        *[other] ᱠᱩᱥᱤᱠᱚ
     }
 about-logins-menu-menuitem-help = ᱜᱚᱲᱚ
-menu-menuitem-android-app = ᱮᱱᱰᱨᱚᱭᱮᱰ ᱞᱟᱹᱜᱤᱫ { -lockwise-brand-short-name }
-menu-menuitem-iphone-app = iPhone ᱟᱨ iPad ᱞᱟᱹᱜᱤᱫ { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -69,6 +62,7 @@ about-logins-list-item-breach-icon =
     .title = ᱵᱽᱨᱤᱪ ᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ
 about-logins-list-item-vulnerable-password-icon =
     .title = ᱣᱟᱹᱞᱱᱟᱹᱨᱮᱵᱟᱹᱞ ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ
+
 about-logins-list-section-breach = ᱵᱽᱨᱤᱪ ᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ
 about-logins-list-section-vulnerable = ᱣᱟᱹᱞᱱᱟᱹᱨᱮᱵᱟᱹᱞ ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ ᱠᱚ
 about-logins-list-section-nothing = ᱪᱮᱫ ᱟᱹᱞᱟᱹᱴ ᱵᱟᱹᱱᱩᱜᱼᱟ
@@ -78,13 +72,9 @@ about-logins-list-section-week = 7 ᱫᱤᱱ ᱢᱟᱲᱟᱝ
 
 ## Introduction screen
 
-login-intro-heading = ᱥᱟᱺᱪᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱯᱟᱱᱛᱮ ᱟᱢ? ᱥᱮᱴ ᱢᱮ { -sync-brand-short-name } ᱾
 about-logins-login-intro-heading-logged-out2 = ᱥᱟᱺᱪᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱯᱟᱱᱛᱮ ᱟᱢ? ᱟᱹᱜᱩᱭ ᱞᱟᱹᱜᱤᱫ ᱥᱭᱝᱠ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾
 about-logins-login-intro-heading-logged-in = ᱥᱭᱝᱠ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ ᱾
 login-intro-description = ᱟᱢ ᱡᱩᱫᱤ ᱵᱷᱮᱜᱟᱨ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ { -brand-product-name } ᱨᱮ ᱥᱟᱺᱪᱟᱣ ᱟᱠᱟᱫᱟᱢ ᱢᱮᱱᱠᱷᱟᱱ, ᱱᱚᱰᱮ ᱧᱮᱞ ᱢᱮ ᱪᱮᱞᱠᱟ ᱠᱚ ᱟᱹᱜᱩ ᱪᱷᱚᱭᱟ:
-login-intro-instruction-fxa = ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱᱟ { -fxaccount-brand-name } ᱨᱮ ᱛᱮᱭᱟᱨ ᱟᱨ ᱵᱟᱝ ᱥᱩᱦᱤ ᱮᱢ ᱠᱟᱜ ᱢᱮ
-login-intro-instruction-fxa-settings = ᱢᱚᱱᱮ ᱠᱟᱜ ᱢᱮ { -sync-brand-short-name } ᱥᱟᱡᱟᱣ ᱠᱚᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱪᱮᱠᱵᱚᱠᱥ ᱪᱤᱱᱦᱟᱹ ᱟᱠᱟᱫᱟᱢ ᱢᱮᱱᱛᱮ
-about-logins-intro-instruction-help = <a data-l10n-name="help-link">{ -lockwise-brand-short-name }ᱪᱟᱞᱟᱜ ᱢᱮ, ᱥᱟᱹᱯᱚᱴ ᱞᱟᱹᱜᱤᱫ</a> ᱟᱨᱦᱚᱸ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ ᱾
 login-intro-instructions-fxa-help = <a data-l10n-name="help-link">{ -lockwise-brand-short-name }ᱪᱟᱞᱟᱜ ᱢᱮ, ᱥᱟᱹᱯᱚᱴ ᱞᱟᱹᱜᱤᱫ</a> ᱟᱨᱦᱚᱸ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ ᱾
 
 ## Login
@@ -123,16 +113,17 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ ᱱᱚᱠᱚᱞ ᱢᱮ
 
 ## Master Password notification
 
-master-password-notification-message = ᱟᱢᱟᱜ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱫᱮᱠᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱢᱟᱥᱴᱚᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱫᱮᱨ ᱛᱟᱢ
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱞᱚᱜᱤᱱ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
@@ -146,29 +137,22 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] { -sync-brand-short-name } ᱚᱯᱥᱚᱱ ᱪᱟᱞᱟᱜ ᱢᱮ
-           *[other] { -sync-brand-short-name } ᱠᱩᱥᱤ ᱴᱷᱮᱱ ᱪᱟᱞᱟᱜ ᱢᱮ
-        }
-    .accesskey = ᱷ
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = ᱫᱩᱦᱲᱟᱹ ᱟᱞᱚᱢ ᱠᱩᱞᱤᱧᱟ
-    .accesskey = ᱫ
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
 confirmation-dialog-dismiss-button =
     .title = ᱵᱟᱹᱰᱨᱟᱹ
+
 about-logins-confirm-remove-dialog-title = ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ?
 confirm-delete-dialog-message = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱥᱟᱹᱛ ᱵᱟᱝ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 about-logins-confirm-remove-dialog-confirm-button = ᱚᱪᱚᱜᱽ ᱢᱮ
+
 about-logins-confirm-export-dialog-title = ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
 about-logins-confirm-export-dialog-confirm-button = ᱵᱟᱦᱨᱮ ᱠᱩᱞ ᱢᱮ…
+
 about-logins-alert-import-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
 about-logins-alert-import-message = ᱠᱷᱟᱴᱚ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱵᱚᱛ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+
 confirm-discard-changes-dialog-title = ᱵᱟᱝ ᱥᱟᱺᱪᱟᱣ ᱵᱚᱫᱚᱞ ᱠᱚ ᱵᱟᱹᱨᱜᱤᱞ ᱜᱤᱰᱤ ᱟᱢ ᱢᱮ?
 confirm-discard-changes-dialog-message = ᱡᱷᱚᱛᱚ ᱵᱟᱝ ᱥᱟᱺᱪᱟᱣ ᱵᱚᱫᱚᱞ ᱠᱚ ᱟᱫᱚᱜ ᱛᱟᱢᱟ ᱾
 confirm-discard-changes-dialog-confirm-button = ᱵᱟᱹᱨᱜᱤᱞ
@@ -234,12 +218,15 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
+
 about-logins-import-dialog-done = ᱦᱩᱭᱮᱱᱟ
+
 about-logins-import-dialog-error-title = ᱟᱹᱜᱩ ᱵᱷᱩᱞ
 about-logins-import-dialog-error-file-format-title = ᱨᱮᱫ ᱯᱷᱚᱨᱢᱟᱴ ᱤᱥᱩ
 about-logins-import-dialog-error-file-permission-title = ᱨᱮᱫ ᱯᱟᱲᱦᱟᱣ ᱵᱟᱝ ᱜᱟᱱᱚᱜ ᱠᱟᱱᱟ
 about-logins-import-dialog-error-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 about-logins-import-dialog-error-cancel = ᱵᱟᱹᱰᱨᱟᱹ
+
 about-logins-import-report-row-description-added = ᱱᱟᱶᱟ ᱵᱚᱞᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 about-logins-import-report-row-description-error = ᱵᱷᱩᱞ: ᱟᱫ ᱡᱟᱭᱜᱟ
 

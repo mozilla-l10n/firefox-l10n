@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = एड-ऑनस बेबोसतायिच्
-
 addons-page-title = एड-ऑनस बेबोसतायिच्
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = खोंजा-आदेर बाबोत् बाड़ती चेद मे
-
-cmd-show-details =
-    .label = ढेर ला़य सोदोर को उदुग मे
-    .accesskey = S
-
-cmd-find-updates =
-    .label = हा़लिया़क् बाछाव
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] आपनार मोने तेयाक् को
-           *[other] कुसियाक् को
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = उनुयहा़र होडोक्
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = उनुयहा़र होरोक् तिंगु
-    .accesskey = W
-
-cmd-install-addon =
-    .label = बोहाल मे
-    .accesskey = I
-
-cmd-contribute =
-    .label = एनेम
-    .accesskey = C
-    .tooltiptext = नोवा एड-ऑन रेयाक् लाहा़नती रे एनेम
 
 detail-version =
     .label = बार्सान

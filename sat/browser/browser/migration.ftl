@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = ᱣᱤᱡᱟᱹᱲ ᱟᱹᱜᱩ
+
 import-from =
     { PLATFORM() ->
         [windows] ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱟᱹᱜᱩ, ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ, ᱦᱤᱛᱟᱹᱞ, ᱫᱚᱱᱚᱝ ᱥᱟᱵᱟᱫ ᱠᱚ ᱟᱨ ᱮᱴᱟᱜ ᱰᱟᱴᱟ ᱠᱷᱚᱱ:
        *[other] ᱠᱩᱥᱤᱭᱟᱜ ᱠᱚ ᱟᱹᱜᱩ, ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ, ᱦᱤᱛᱟᱹᱞ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
     }
+
 import-from-bookmarks = ᱠᱷᱚᱱ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱟᱹᱜᱩ:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -25,20 +27,31 @@ import-from-chrome =
 import-from-firefox =
     .label = Firefox
     .accesskey = ᱯ
+
 no-migration-sources = ᱡᱟᱦᱱᱟᱜ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱵᱟᱝ ᱚᱠᱟ ᱨᱮ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱢᱮᱱᱟᱜ ᱟ ᱦᱤᱛᱟᱹᱞ ᱟᱨ ᱵᱟᱝ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱰᱟᱴᱟ ᱵᱟᱭ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+
 import-items-page-title = ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱡᱱᱤᱥ ᱠᱚ
+
 import-items-description = ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱚᱞᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱟᱹᱜᱩᱭ ᱞᱟᱹᱜᱤᱫ:
+
 import-migrating-page-title = ᱟᱹᱜᱩᱭᱮᱫ ᱟ…
+
 import-migrating-description = ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱫᱚ ᱱᱤᱛᱚᱜ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ…
+
 import-select-profile-page-title = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+
 import-select-profile-description = ᱱᱚᱶᱟ ᱯᱨᱚᱯᱷᱟᱩᱤᱞ ᱠᱚ ᱫᱚ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱧᱟᱢᱚᱜᱼᱟ ᱠᱷᱚᱱ:
+
 import-done-page-title = ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
+
 import-done-description = ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱮᱥ ᱞᱮᱠᱟᱛᱮ ᱟᱹᱜᱩ ᱠᱮᱱ ᱛᱟᱦᱮᱸᱱᱟ:
+
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = ᱠᱷᱚᱱ { $source }
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-edge-beta = Microsoft Edge Beta
@@ -50,6 +63,7 @@ source-name-chrome-dev = Google Chrome Dev
 source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
 source-name-360se = 360 Secure Browser
+
 imported-safari-reading-list = ᱯᱟᱲᱦᱟᱣ ᱥᱩᱪᱤ  (Safari ᱠᱷᱚᱱ)
 
 ## Browser data types
@@ -70,6 +84,7 @@ browser-data-cookies-checkbox =
     .label = ᱠᱩᱠᱤ ᱠᱚ
 browser-data-cookies-label =
     .value = ᱠᱩᱠᱤᱡᱠᱚ
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -82,6 +97,7 @@ browser-data-history-label =
             [firefox] ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
            *[other] ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ
         }
+
 browser-data-session-checkbox =
     .label = ᱣᱤᱱᱰᱚ ᱟᱨ ᱴᱮᱵᱥ ᱠᱚ
 browser-data-session-label =

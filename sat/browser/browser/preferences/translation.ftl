@@ -28,7 +28,3 @@ translation-sites-button-remove-all =
     .label = जोतो साइट को ओचोग में .
     .accesskey = i
 
-translation-button-close =
-    .label = बोंद मे
-    .accesskey = C
-

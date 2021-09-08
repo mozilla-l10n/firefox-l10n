@@ -10,6 +10,7 @@
 
 cfr-doorhanger-extension-cancel-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
     .accesskey = ᱱ
+
 cfr-doorhanger-extension-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Add-on statistics
@@ -35,11 +36,7 @@ cfr-protections-panel-link-text = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-cta = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 ## Permission Prompt
-
-cfr-whatsnew-permission-prompt-cta = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Fingerprinter Counter
 
@@ -70,9 +67,6 @@ cfr-whatsnew-permission-prompt-cta = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## Vulnerable Passwords message
 
-cfr-whatsnew-passwords-header = ᱣᱟᱹᱞᱱᱟᱹᱨᱮᱵᱟᱹᱞ ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ ᱵᱟᱵᱚᱛ ᱠᱷᱚᱵᱚᱨ ᱧᱟᱢ ᱢᱮ
-cfr-whatsnew-passwords-icon-alt = ᱣᱟᱹᱞᱱᱟᱹᱨᱮᱵᱟᱹᱞ ᱫᱟᱱᱟᱝᱥᱟᱵᱟᱫ ᱪᱟᱹᱵᱤ ᱟᱭᱠᱚᱱ
-
 ## Picture-in-Picture fullscreen message
 
 
@@ -91,4 +85,10 @@ cfr-doorhanger-fission-secondary-button = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
     .accesskey = ᱥ
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

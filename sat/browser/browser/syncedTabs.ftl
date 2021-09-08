@@ -5,4 +5,3 @@
 synced-tabs-context-sync-now =
     .label = नित् मित् ओकतो
     .accesskey = S
-fxa-sign-in = { -sync-brand-short-name }रे साइन  रे.

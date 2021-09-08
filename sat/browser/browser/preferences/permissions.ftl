@@ -4,24 +4,27 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = आकोट
     .accesskey = B
+
 permissions-session =
     .label = का़मी ओकतो ला़गित् बाताव एम
     .accesskey = S
+
 permissions-allow =
     .label = बाताव एम
     .accesskey = A
+
 permissions-status =
     .label = दोसा
-permissions-button-cancel =
-    .label = ᱵᱟᱹᱰᱨᱟᱹ
-    .accesskey = ᱵ
+
 permissions-capabilities-allow =
     .label = बाताव एम
 permissions-capabilities-block =
     .label = आकोट
+
 permissions-capabilities-listitem-allow =
     .value = बाताव एम
 permissions-capabilities-listitem-block =

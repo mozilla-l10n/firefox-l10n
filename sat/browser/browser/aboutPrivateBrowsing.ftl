@@ -6,8 +6,6 @@ privatebrowsingpage-open-private-window-label = ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ 
     .accesskey = ᱨ
 about-private-browsing-search-placeholder = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 about-private-browsing-info-title = ᱟᱢ ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱨᱮ ᱢᱮᱱᱟᱢᱼᱟ
-about-private-browsing =
-    .title = ᱣᱮᱵ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 about-private-browsing-search-btn =
     .title = ᱣᱮᱵ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 # Variables
@@ -21,3 +19,4 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
 about-private-browsing-handoff-text-no-engine = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
 about-private-browsing-not-private = ᱟᱢ ᱫᱚ ᱱᱤᱛᱚᱜ ᱢᱤᱫ ᱱᱤᱡᱮᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱵᱟᱹᱱᱩᱜ ᱢᱮᱭᱟ ᱾
+

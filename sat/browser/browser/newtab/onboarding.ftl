@@ -12,8 +12,6 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
-
 ## Welcome modal dialog strings
 
 
@@ -64,10 +62,13 @@ onboarding-button-label-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 onboarding-multistage-theme-primary-button-label2 = ᱦᱩᱭᱮᱱᱟ
 onboarding-multistage-theme-secondary-button-label = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = ᱟᱡ ᱛᱮ
+
 onboarding-multistage-theme-label-light = ᱢᱟᱨᱥᱟᱞ
 onboarding-multistage-theme-label-dark = ᱧᱩᱛ
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ᱮᱱᱤᱢᱮᱥᱚᱱ ᱠᱚ ᱵᱚᱸᱫ ᱢᱮ
 
