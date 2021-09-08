@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Përzgjidhi Krejt Skedat
     .accesskey = P
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Zhbëje Mbylljen e Skedës
-            [one] Zhbëje Mbylljen e Skedës
-           *[other] Zhbëje Mbylljen e Skedave
-        }
-    .accesskey = Z
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fiksoje te Menuja Më Tepër Mjete
     .accesskey = F
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Vetëfshihe në Panel
-    .accesskey = V
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Fshihe Butonin, Kur Është e Zbrazët
     .accesskey = F

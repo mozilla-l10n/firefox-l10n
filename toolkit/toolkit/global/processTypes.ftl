@@ -9,8 +9,6 @@
 
 process-type-web = Lëndë Web
 
-process-type-browser = Kryesorja
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Rreth e Privilegjuar

@@ -97,9 +97,6 @@ no-proxy-label =
 
 no-proxy-example = Shembull: .mozilla.org, .net.nz, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = Lidhjet me localhost, 127.0.0.1, dhe ::1 nuk kalohen kurrë përmes ndërmjetësi.
-
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Lidhjet te localhost, 127.0.0.1/8, dhe ::1 s’kalojnë kurrë përmes ndërmjetësi.
 

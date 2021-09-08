@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Faqeruaje Skedën
     .accesskey = q
-reopen-in-container =
-    .label = Rihape në Kontejner
-    .accesskey = h
 tab-context-open-in-new-container-tab =
     .label = Hape në Skedë të Re Kontejneri
     .accesskey = a
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Mbyll Skeda të Shumta
     .accesskey = u
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Zhbëje Mbylljen e Skedës
-            [one] Zhbëje Mbylljen e Skedës
-           *[other] Zhbëje Mbylljen e Skedave
-        }
-    .accesskey = Z
-close-tab =
-    .label = Mbylleni Skedën
-    .accesskey = M
-close-tabs =
-    .label = Mbylli Skedat
-    .accesskey = S
-move-tabs =
-    .label = Lëvizni Skeda
-    .accesskey = v
-move-tab =
-    .label = Lëvizeni Skedën
-    .accesskey = v
 tab-context-share-url =
     .label = Ndajeni me të tjerët
     .accesskey = N
@@ -122,6 +99,7 @@ tab-context-move-tabs =
            *[other] Lëvizni Skeda
         }
     .accesskey = L
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

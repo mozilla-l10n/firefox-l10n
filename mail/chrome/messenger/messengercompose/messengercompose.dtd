@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "E re">
 <!ENTITY newMenu.accesskey "E">
 <!ENTITY newMessage.label "Mesazh">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "e">
 <!ENTITY newContact.label "Kontakt Nga Libër Adresash…">
 <!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Bashkëngjitni">
 <!ENTITY attachMenu.accesskey "B">
-<!ENTITY attachFileCmd.label "Kartelë(a)…">
-<!ENTITY attachFileCmd.accesskey "K">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Faqe Web…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Dërgoje Më Vonë">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "V">
-<!ENTITY printSetupCmd.label "Rregullim Faqeje…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Paraparje e Shtypjes">
-<!ENTITY printPreviewCmd.accesskey "a">
 <!ENTITY printCmd.label "Shtypni…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "S">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Rirenditni Bashkëngjitjet…">
 <!ENTITY reorderAttachmentsCmd.accesskey "e">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Kuadrat Bashkëngjitjesh">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "n">
 <!ENTITY selectAllCmd.accesskey "K">
 <!ENTITY findBarCmd.label "Gjeni…">
 <!ENTITY findBarCmd.accesskey "G">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Rirenditni Bashkëngjitje">
-<!ENTITY moveAttachmentTopPanelBtn.label "Shpjere në Krye">
-<!ENTITY moveAttachmentUpPanelBtn.label "Ngrije">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Lëvizi bashkë">
-<!ENTITY moveAttachmentDownPanelBtn.label "Ule">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Shpjere në Fund">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Rregullime Llogarish">
 <!ENTITY accountManagerCmd2.accesskey "R">
 <!ENTITY accountManagerCmdUnix2.accesskey "R">
-<!ENTITY preferencesCmd2.label "Mundësi">
-<!ENTITY preferencesCmd2.accesskey "u">
-<!ENTITY preferencesCmdUnix.label "Parapëlqime">
-<!ENTITY preferencesCmdUnix.accesskey "a">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "M">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Dërgoje">
 <!ENTITY quoteButton.label "Citoje">
 <!ENTITY addressButton.label "Kontakte">
-<!ENTITY attachButton.label "Bashkëngjitni">
 <!ENTITY spellingButton.label "Drejtshkrim">
 <!ENTITY saveButton.label "Ruaje">
 <!ENTITY printButton.label "Shtypni">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Dërgojeni këtë mesazh më vonë">
 <!ENTITY quoteButton.tooltip "Citoni mesazhin e mëparshëm">
 <!ENTITY addressButton.tooltip "Përzgjidhni marrës prej një Libri Adresash">
-<!ENTITY attachButton.tooltip2 "Shtoni një bashkëngjitje">
 <!ENTITY spellingButton.tooltip "Kontrolloni drejtshkrimin e përzgjedhjes ose të krejt mesazhit">
 <!ENTITY saveButton.tooltip "Ruajeni këtë mesazh">
 <!ENTITY cutButton.tooltip              "Prijeni">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Lloje të tjerë fushash adrese">
 <!ENTITY fromAddr2.label "Nga">
 <!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr2.label "Për">
-<!ENTITY ccAddr2.label "Cc">
-<!ENTITY bccAddr2.label "Bcc">
 <!ENTITY replyAddr2.label "Përgjigj-Iu">
 <!ENTITY newsgroupsAddr2.label "Grup Lajmesh">
 <!ENTITY followupAddr2.label "Vazhdimi-Te">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "i">
 <!ENTITY selectAll.label "Përzgjidhe Krejt">
 <!ENTITY selectAll.accesskey "T">
-<!ENTITY attachFile.label "Bashkëngjitni Kartelë(a)…">
-<!ENTITY attachFile.accesskey "a">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "F">
 <!ENTITY convertCloud.label "Shndërrojeni në…">

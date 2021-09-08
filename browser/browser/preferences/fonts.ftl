@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Kodim Teksti për Lëndë të Dikurshme
-fonts-languages-fallback-desc = Ky kodim teksti përdoret për lëndë të dikurshme për të cilën nuk ka kodim të deklaruar.
-
-fonts-languages-fallback-label = Kodim Teksti Kur S’deklarohet
-    .accesskey = K
-
-fonts-languages-fallback-name-auto =
-    .label = Parazgjedhje për Vendoren e Tanishme
-fonts-languages-fallback-name-arabic =
-    .label = Arabe
-fonts-languages-fallback-name-baltic =
-    .label = Baltike
-fonts-languages-fallback-name-ceiso =
-    .label = Europiane Qendrore, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Europiane Qendrore, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Kineze, Të thjeshtuara
-fonts-languages-fallback-name-traditional =
-    .label = Kineze, Tradicionale
-fonts-languages-fallback-name-cyrillic =
-    .label = Cirilike
-fonts-languages-fallback-name-greek =
-    .label = Greke
-fonts-languages-fallback-name-hebrew =
-    .label = Hebraike
-fonts-languages-fallback-name-japanese =
-    .label = Japoneze
-fonts-languages-fallback-name-korean =
-    .label = Koreane
-fonts-languages-fallback-name-thai =
-    .label = Tajlandeze
-fonts-languages-fallback-name-turkish =
-    .label = Turke
-fonts-languages-fallback-name-vietnamese =
-    .label = Vietnameze
-fonts-languages-fallback-name-other =
-    .label = Të tjera (përfshi Europiane Perëndimore)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

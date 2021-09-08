@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Përgjegjësi i Shtesave
-
 addons-page-title = Përgjegjësi i Shtesave
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Asistencë Shtesash
 sidebar-help-button-title =
     .title = Asistencë Shtesash
 
-preferences =
-    { PLATFORM() ->
-        [windows] Mundësi { -brand-short-name }-i
-       *[other] Parapëlqime { -brand-short-name }-i
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Mundësi { -brand-short-name }-i
-           *[other] Parapëlqime { -brand-short-name }-i
-        }
-
 addons-settings-button = Rregullime { -brand-short-name }
 sidebar-settings-button-title =
     .title = Rregullime { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Shfaqi krejt zgjerimet
-
-cmd-show-details =
-    .label = Shfaq Më Tepër të Dhëna
-    .accesskey = S
-
-cmd-find-updates =
-    .label = Gjeni Përditësime
-    .accesskey = G
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Mundësi
-           *[other] Parapëlqime
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] M
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Vishja Temën
-    .accesskey = V
-
-cmd-disable-theme =
-    .label = Hiqja Temën
-    .accesskey = H
-
-cmd-install-addon =
-    .label = Instaloje
-    .accesskey = I
-
-cmd-contribute =
-    .label = Kontribuoni
-    .accesskey = K
-    .tooltiptext = Kontribuoni në zhvillimin e kësaj shtese
 
 detail-version =
     .label = Version
@@ -399,8 +347,6 @@ dictionary-disabled-heading = I çaktivizuar
 
 locale-enabled-heading = E aktivizuar
 locale-disabled-heading = E çaktivizuar
-
-ask-to-activate-button = Pyet për Aktivizim
 
 always-activate-button = Aktivizoje Përherë
 never-activate-button = Mos e Aktivizo Kurrë

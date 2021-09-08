@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Ndiq vetvetiu gjendjen e zbuluar për në linjë ose jashtë saj
     .accesskey = N
 
-startup-label = Gjendje dorazi gjatë nisjes:
-
 offline-preference-startup-label = Gjendje dorazi gjatë nisjes:
 
 status-radio-remember =

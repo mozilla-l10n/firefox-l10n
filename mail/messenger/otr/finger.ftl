@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Shenja gishtash OTR prej bisedash të mëparshme të fshehtëzuara skaj-më-skaj.
 
-finger-screenName =
-    .label = Kontakt
-
 finger-screen-name =
     .label = Kontakt
 finger-verified =

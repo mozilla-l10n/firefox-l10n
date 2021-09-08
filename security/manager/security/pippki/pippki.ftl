@@ -6,9 +6,6 @@ password-quality-meter = Matës cilësie fjalëkalimesh
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Ndryshoni Fjalëkalimin e Përgjithshëm
-
 change-device-password-window =
     .title = Ndryshoni Fjalëkalimin
 
@@ -20,10 +17,6 @@ change-password-new = Fjalëkalimi i ri:
 change-password-reenter = Fjalëkalimi i ri (sërish):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Ricaktoni Fjalëkalimin e Përgjithshëm
-    .style = width: 40em
 
 pippki-failed-pw-change = S’arrihet të ndryshohet fjalëkalimi.
 pippki-incorrect-pw = S’dhatë fjalëkalimin e saktë të tanishëm. Ju lutemi, riprovoni.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Riktheje te parazgjedhjet
-reset-password-text = Nëse ricaktoni fjalëkalimin tuaj të përgjithshëm, tërë fjalëkalimet tuaj të ruajtur për web dhe email, të dhëna formularësh, dëshmi vetjake, dhe kyçe private do të harrohen. Jeni i sigurt se doni të ricaktoni fjalëkalimin tuaj të përgjithshëm?
 
 reset-primary-password-text = Nëse ricaktoni Fjalëkalimin tuaj të Përgjithshëm, tërë fjalëkalimet tuaj të ruajtur për web dhe email, dëshmi vetjake, dhe kyçe privatë, do të harrohen. Jeni i sigurt se doni të ricaktoni Fjalëkalimin tuaj të Përgjithshëm?
 

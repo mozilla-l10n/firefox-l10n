@@ -65,8 +65,6 @@ policy-DisableForgetButton = Pengoni përdorimin e butoni Harroje.
 
 policy-DisableFormHistory = Mos mba mend historik kërkimesh dhe plotësimi formularësh.
 
-policy-DisableMasterPasswordCreation = Nëse caktohet <em>true</e>, s’mund të krijohet fjalëkalim i përgjithshëm.
-
 policy-DisablePrimaryPasswordCreation = Në qoftë <em>true</em>, s’mund të krijohet një Fjalëkalim i Përgjithshëm.
 
 policy-DisablePasswordReveal = Mos lejo të shfaqen fjalëkalime te kredenciale hyrjesh të ruajtura.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Rikthe sjelljen e diku
 policy-LocalFileLinks = Lejo sajte specifikë të krijojnë lidhje te kartela vendore.
 
 policy-ManagedBookmarks = Formëson një listë faqerojtësish të administruar nga një përgjegjës, e cila s’mund të ndryshohet nga përdoruesi.
-
-policy-MasterPassword = Kërko doemos ose pengo përdorimin e një fjalëkalimi të përgjithshëm.
 
 policy-ManualAppUpdateOnly = Lejo vetëm përditësime dorazi dhe mos i njofto përdoruesit rreth përditësimesh.
 

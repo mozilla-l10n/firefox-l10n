@@ -49,9 +49,6 @@ import-label = Importo
 
 about-paragraph = Thunderbird-i është klienti udhëheqës për email dhe kalendar, me burim të hapët, ndërplatformësh, i lirë për përdorim personal apo nga biznesi. Dëshirojmë të mbetet i sigurt dhe të bëhet edhe më i mirë. Dhurimet do të na lejojnë të punësojmë programues, të paguajmë për infrastrukturën, dhe të vazhdojmë ta përmirësojmë.
 
-about-paragraph-2 = <b>Thunderbird-i financohet nga përdorues si ju! Nëse ju pëlqen Thunderbird-i, ju lutemi, shihni mundësinë e bërjes së një dhurimi.</b> Rruga më e mirë për ju që të bëni të mundur që Thunderbird-i të jetë i passhëm është të
-about-donation = bëni një dhurim
-
 about-paragraph-consider-donation = <b>Thunderbird-i financohet nga përdorues si ju! Nëse Thunderbird-i ju pëlqen, ju lutemi, shihni mundësinë e bërjes së një dhurimi.</b> Rruga më e mirë për ju që të siguroni ruajtjen e ofrimit të Thunderbird-it është <a data-l10n-name="donation-link">bërja e një dhurimi.</a>
 
 explore-link = Eksploroni Veçori

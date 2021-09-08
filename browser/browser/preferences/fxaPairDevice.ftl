@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Lidhni Tjetër Pajisje
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Nëse s’e keni bërë ende, instaloni <a data-l10n-name="connect-another-device">Firefox-in në pajisjen tuaj celulare</a>.
-
-fxa-qrcode-heading-phase2 = 2. Mandej bëni hyrjen te { -sync-brand-short-name }, ose, që nga Android, skanoni kodin e çiftimit që prej rregullimeve të { -sync-brand-short-name }.
-
 fxa-qrcode-heading-step1 = 1. Nëse s’e keni bërë tashmë, instaloni <a data-l10n-name="connect-another-device">Firefox-in në pajisjen tuaj celulare</a>.
 
 fxa-qrcode-heading-step2 = 2. Hapeni Firefox-in në pajisjen tuaj celulare.

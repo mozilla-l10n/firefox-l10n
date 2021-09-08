@@ -20,6 +20,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Krejt Librat e Adresave
+
 about-addressbook-books-context-properties =
     .label = Veti
 about-addressbook-books-context-synchronize =
@@ -30,6 +31,7 @@ about-addressbook-books-context-delete =
     .label = Fshije
 about-addressbook-books-context-remove =
     .label = Hiqe
+
 about-addressbook-confirm-delete-book-title = Fshini Libër Adresash
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -47,14 +49,17 @@ about-addressbook-search =
     .placeholder = Kërko për { $name }
 about-addressbook-search-all =
     .placeholder = Kërko në krejt librat e adresave
+
 about-addressbook-sort-button =
     .title = Ndryshoni renditjen e listës
+
 about-addressbook-name-format-display =
     .label = Emër i Shfaqur
 about-addressbook-name-format-firstlast =
     .label = Emër Mbiemër
 about-addressbook-name-format-lastfirst =
     .label = Mbiemër, Emër
+
 about-addressbook-sort-name-ascending =
     .label = Renditi sipas emrash (A > Z)
 about-addressbook-sort-name-descending =
@@ -63,6 +68,7 @@ about-addressbook-sort-email-ascending =
     .label = Renditi sipas adresash email (A > Z)
 about-addressbook-sort-email-descending =
     .label = Renditi sipas adresash email (Z > A)
+
 about-addressbook-confirm-delete-mixed-title = Fshini Kontakte dhe Lista
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -119,6 +125,7 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Përpunoni
 about-addressbook-cancel-edit-contact-button = Anuloje
 about-addressbook-save-edit-contact-button = Ruaje
+
 about-addressbook-details-email-addresses-header = Adresa Email
 about-addressbook-details-phone-numbers-header = Numra Telefonash
 about-addressbook-details-home-address-header = Adresë Shtëpie

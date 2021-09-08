@@ -11,9 +11,8 @@ appmenuitem-update-banner3 =
     .label-update-manual = Përditësim gati — shkarkojeni që tani
     .label-update-unsupported = S’arrihet të përditësohet — mospërputhje sistemi
     .label-update-restart = Përditësim gati — riniseni tani
+
 appmenuitem-protection-dashboard-title = Pult Mbrojtjesh
-appmenuitem-customize-mode =
-    .label = Përshtateni…
 
 ## Zoom Controls
 
@@ -45,6 +44,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Mbyll Menu Aplikacioni
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,31 +61,31 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Njëkohësohu Tani
 appmenu-remote-tabs-sign-into-sync =
     .label = Hyni në Sync…
 appmenu-remote-tabs-turn-on-sync =
     .label = Aktivizoni Sync-un…
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Shfaqini Krejt
-    .tooltiptext = Shfaqni krejt skedat nga kjo pajisje
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Shfaq Më Tepër Skeda
     .tooltiptext = Shfaqni më tepër skeda nga kjo pajisje
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = S'ka skeda të hapura
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Aktivizoni njëkohësim skedash që të shihni një listë skedash nga pajisje tuajat të tjera.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Doni të shihni këtu skedat tuaja nga pajisje të tjera?
+
 appmenu-remote-tabs-connectdevice =
     .label = Lidhni Tjetër Pajisje
 appmenu-remote-tabs-welcome = Shihni një listë skedash nga pajisje tuajat të tjera.
 appmenu-remote-tabs-unverified = Llogaria juaj duhet verifikuar.
+
 appmenuitem-fxa-toolbar-sync-now2 = Njëkohësoji Tani
 appmenuitem-fxa-manage-account = Administroni Llogari
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -99,12 +99,14 @@ appmenu-fxa-signed-in-label = Hyni
 appmenu-fxa-setup-sync =
     .label = Aktivizoni Sync-un…
 appmenu-fxa-show-more-tabs = Shfaq Më Tepër Skeda
+
 appmenuitem-save-page =
     .label = Ruajeni Faqen Si…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ç’ka të Re
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -117,33 +119,47 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Shfaq më tepër informacion
+
 profiler-popup-description-title =
     .value = Regjistro, analizo, jep
+
 profiler-popup-description = Bashkëpunoni në probleme funksionimi, duke publikuar profile për t’i ndarë me ekipin tuaj.
+
 profiler-popup-learn-more = Mësoni më tepër
+
 profiler-popup-settings =
     .value = Rregullime
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Përpunoni Rregullime…
+
 profiler-popup-disabled = Profilizuesi aktualisht është i çaktivizuar, sipas gjasave për shkak të një dritareje Shfletimi Privat të hapur.
+
 profiler-popup-recording-screen = Po regjistron…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Vetjake
+
 profiler-popup-start-recording-button =
     .label = Fillo Regjistrimin
+
 profiler-popup-discard-button =
     .label = Hidhe tej
+
 profiler-popup-capture-button =
     .label = Regjistroje
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -211,6 +227,7 @@ appmenu-customizetoolbar =
     .label = Përshtateni Panelin…
 appmenu-taskmanager =
     .label = Përgjegjës Punësh
+
 appmenu-developer-tools-subheader = Mjete Shfletuesi
 appmenu-developer-tools-extensions =
     .label = Zgjerime për Zhvillues

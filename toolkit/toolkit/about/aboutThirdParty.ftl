@@ -10,9 +10,6 @@ third-party-intro =
     juaj. Çfarëdo moduli që s’është nënshkruar nga Microsoft-i ose { -vendor-short-name }
     konsiderohet si modul pale të tretë.
 
-third-party-header-module-list = Listë modulesh
-third-party-header-loading-events = Akte ngarkimi
-
 third-party-message-empty = S’u pikasën module palësh të treta
 third-party-message-no-duration = E paregjistruar
 

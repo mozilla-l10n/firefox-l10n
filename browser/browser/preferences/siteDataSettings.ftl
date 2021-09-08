@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Hiq të Përzgjedhurën
     .accesskey = H
 
-site-data-button-cancel =
-    .label = Anuloje
-    .accesskey = A
-
-site-data-button-save =
-    .label = Ruaji Ndryshimet
-    .accesskey = R
-
 site-data-settings-dialog =
     .buttonlabelaccept = Ruaji Ndryshimet
     .buttonaccesskeyaccept = R

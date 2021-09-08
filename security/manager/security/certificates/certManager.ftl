@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Dëshmi që ju identifikojnë keni prej këtyre enteve
 certmgr-remembered = Këto dëshmi përdoren për t’ju identifikuar në sajte
 certmgr-people = Keni të ruajtura dëshmi që identifikojnë këta persona
-certmgr-servers = Keni të ruajtura dëshmi që identifikojnë këta shërbyes
 certmgr-server = Këto zëra identifikojnë përjashtime gabimesh dëshmish shërbyesi
 certmgr-ca = Keni të ruajtura dëshmi që identifikojnë këta autoritete dëshmish
-
-certmgr-detail-general-tab-title =
-    .label = Të përgjithshme
-    .accesskey = T
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Hollësi
-    .accesskey = H
-
-certmgr-pending-label =
-    .value = Po verifikohet dëshmia…
-
-certmgr-subject-label = Lëshuar Për
-
-certmgr-issuer-label = Lëshuar Nga
-
-certmgr-period-of-validity = Periudhë Vlefshmërie
-
-certmgr-fingerprints = Shenja gishtash
-
-certmgr-cert-detail =
-    .title = Hollësi Dëshmie
-    .buttonlabelaccept = Mbylleni
-    .buttonaccesskeyaccept = M
-
-certmgr-cert-detail-commonname = Emër i Rëndomtë (ER)
-
-certmgr-cert-detail-org = Ent (E)
-
-certmgr-cert-detail-orgunit = Njësi Organizative (OU)
-
-certmgr-cert-detail-serial-number = Numër Serial
-
-certmgr-cert-detail-sha-256-fingerprint = Shenja gishtash SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Shenja gishtash SHA1
 
 certmgr-edit-ca-cert =
     .title = Përpunoni rregullime besueshmërie dëshmish AD-sh
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Pajisje Sigurie
 
-certmgr-begins-on = Fillon Më
-
 certmgr-begins-label =
     .label = Fillon Më
-
-certmgr-expires-on = Skadon Më
 
 certmgr-expires-label =
     .label = Skadon Më
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Importoni…
     .accesskey = I
-
-certmgr-details =
-    .value = Fusha Dëshmie
-    .accesskey = F
-
-certmgr-fields =
-    .value = Vlerë Fushe
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = Hierarki Dëshmish
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Shtoni Përjashtim…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Jeni i sigurt se doni të fshihen këto dëshmi?
 delete-user-cert-impact = Nëse fshini një nga dëshmitë tuaja vetjake, nuk mund ta përdorni më për identifikimin e vetvetes.
 
 
-delete-ssl-cert-title =
-    .title = Fshi Përjashtime Dëshmish Shërbyesi
-delete-ssl-cert-confirm = Jeni i sigurt që doni të fshihen këto përjashtime shërbyesi?
-delete-ssl-cert-impact = Nëse fshini një përjashtim shërbyesi, riktheni kështu kontrollet e zakonshëm të sigurisë për atë shërbyes dhe e shtrëngoni të përdorë një dëshmi të vlefshme.
-
-
 delete-ssl-override-title =
     .title = Fshi Përjashtim Dëshmish Shërbyesi
 delete-ssl-override-confirm = Jeni i sigurt se doni të fshihet ky përjashtim shërbyesi?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Dëshmia me numër serial: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Shfaqës Dëshmish: “{ $certName }”
-
-not-present =
-    .value = <Jo Pjesë Dëshmie>
-
-# Cert verification
-cert-verified = Kjo dëshmi është verifikuar për përdorimet vijuese:
-
-# Add usage
-verify-ssl-client =
-    .value = Dëshmi Klienti SSL
-
-verify-ssl-server =
-    .value = Dëshmi Shërbyesi SSL
-
-verify-ssl-ca =
-    .value = Autoritet Dëshmish SSL
-
-verify-email-signer =
-    .value = Dëshmi Nënshkruesi Email
-
-verify-email-recip =
-    .value = Dëshmi Marrësi Email
-
-# Cert verification
-cert-not-verified-cert-revoked = S’verifikoi dot këtë dëshmi, sepse është shfuqizuar.
-cert-not-verified-cert-expired = S’verifikoi dot këtë dëshmi, sepse ka skaduar.
-cert-not-verified-cert-not-trusted = S’verifikoi dot këtë dëshmi, sepse nuk është besuar.
-cert-not-verified-issuer-not-trusted = S’verifikoi dot këtë dëshmi, sepse nuk është besuar lëshuesi.
-cert-not-verified-issuer-unknown = S’verifikoi dot këtë dëshmi, sepse lëshuesi është i panjohur.
-cert-not-verified-ca-invalid = S’verifikoi dot këtë dëshmi, sepse dëshmia e AD-ve është e pavlefshme.
-cert-not-verified_algorithm-disabled = Kjo dëshmi nuk u verifikua dot, ngaqë qe nënshkruar duke përdorur një algoritëm nënshkrimesh i cili është i çaktivizuar, pasi nuk është algoritëm i sigurt.
-cert-not-verified-unknown = Për arsye të panjohura, s’verifikoi dot këtë dëshmi.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Mos dërgo dëshmi klienti

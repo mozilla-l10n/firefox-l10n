@@ -8,19 +8,16 @@ auth-label = Verifikoni identitetin e kontaktit tuaj
 reauth-label = Riverifikoni identitetin e kontaktit tuaj
 
 auth-cancel = Anuloje
-auth-cancelAccessKey = A
 
 auth-cancel-access-key = A
 
 auth-error = Ndodhi një gabim teksa po verifikohej identiteti i kontaktit tuaj.
 auth-success = Verifikimi i identitetit të kontaktit tuaj u plotësua me sukses.
-auth-successThem = Kontakti juaj ka verifikuar me sukses identitetin tuaj. Mund të doni të verifikoni identitetin e tij edhe duke iu përgjigjur pyetjes tuaj.
 auth-success-them = Kontakti juaj ka verifikuar me sukses identitetin tuaj. Mund të doni të verifikoni identitetin e tij edhe duke iu përgjigjur pyetjes tuaj.
 auth-fail = S’u arrit të verifikohej identiteti i kontaktit tuaj.
 auth-waiting = Po pritet që kontakti të plotësojë verifikimin…
 
 finger-verify = Verifikoje
-finger-verify-accessKey = V
 
 finger-verify-access-key = V
 
@@ -37,10 +34,6 @@ alert-refresh = Po provohet të rifreskohet një bisedë e fshehtëzuar me { $na
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-alert-gone_insecure = Biseda e fshehtëzuar me { $name } përfundoi.
-
-# Variables:
-#   $name (String) - the screen name of a chat contact person
 alert-gone-insecure = Biseda e fshehtëzuar me { $name } përfundoi.
 
 # Variables:
@@ -50,8 +43,6 @@ finger-unseen = Identiteti i { $name }s’është verifikuar ende. Përgjimi ras
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-seen = { $name }po lidhet me ju nga një kompjuter jo i njohur. Përgjimi rastësor s’është i mundur, por me ca përpjekje dikush mund të arrinte të përgjonte. Parandaloni survejimin, duke verifikuar identitetin e këtij kontakti.
-
-state-not_private = Biseda e tanishme s’është private.
 
 state-not-private = Biseda e tanishme s’është private.
 
@@ -66,8 +57,6 @@ state-private = Identiteti i { $name } është verifikuar. Biseda e tanishme ës
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-finished = { $name }e ka përfunduar bisedën e fshehtëzuar me ju; po këtë duhet të bëni edhe ju.
-
-state-not_private-label = E pasigurt
 
 state-not-private-label = E pasigurt
 state-unverified-label = E paverifikuar
@@ -89,7 +78,6 @@ afterauth-unverified = Identiteti i { $name } s’është verifikuar.
 verify-title = Verifikoni identitetin e kontaktit tuaj
 error-title = Gabim
 success-title = Fshehtëzim Skaj-Më-Skaj
-successThem-title = Verifikoni identitetin e kontaktit tuaj
 success-them-title = Verifikoni identitetin e kontaktit tuaj
 fail-title = S’arrihet të verifikohet
 waiting-title = U dërgua kërkesë verifikimi

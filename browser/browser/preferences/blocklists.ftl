@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Listë
 
-blocklist-button-cancel =
-    .label = Anuloje
-    .accesskey = A
-
-blocklist-button-ok =
-    .label = Ruaji Ndryshimet
-    .accesskey = R
-
 blocklist-dialog =
     .buttonlabelaccept = Ruaji Ndryshimet
     .buttonaccesskeyaccept = R

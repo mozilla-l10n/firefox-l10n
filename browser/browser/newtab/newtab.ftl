@@ -9,9 +9,6 @@ newtab-page-title = Skedë e Re
 newtab-settings-button =
     .title = Personalizoni faqen tuaj Skedë e Re
 
-newtab-personalize-button-label = Personalizojeni
-    .title = Personalizoni skedën e re
-    .aria-label = Personalizoni skedën e re
 newtab-personalize-icon-label =
     .title = Personalizoni skedën e re
     .aria-label = Personalizoni skedën e re
@@ -24,8 +21,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Kërko
     .aria-label = Kërko
-
-newtab-search-box-search-the-web-text = Kërkoni në Web
 
 # Variables
 #  $engine (String): the name of the user's default search engine
@@ -261,10 +256,4 @@ newtab-custom-recent-title = Veprimtari së fundi
 newtab-custom-recent-subtitle = Një përzgjedhje sajtesh dhe lënde së fundi
 newtab-custom-close-button = Mbylle
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Copëza
-newtab-custom-snippets-subtitle = Ndihmëza dhe lajme nga { -vendor-short-name } dhe { -brand-product-name }
 newtab-custom-settings = Administroni më tepër rregullime

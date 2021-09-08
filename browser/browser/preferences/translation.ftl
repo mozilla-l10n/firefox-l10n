@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Hiqi Krejt Sajtet
     .accesskey = i
 
-translation-button-close =
-    .label = Mbylleni
-    .accesskey = M
-
 translation-dialog =
     .buttonlabelaccept = Mbylleni
     .buttonaccesskeyaccept = M
