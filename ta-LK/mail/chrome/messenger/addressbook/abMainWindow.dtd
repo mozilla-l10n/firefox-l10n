@@ -30,12 +30,6 @@
 <!ENTITY closeCmd.label "மூடு">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
-<!ENTITY printSetupCmd.label "பக்க அமைப்பு...">
-<!ENTITY printSetupCmd.accesskey "U">
-<!ENTITY printPreviewContactCmd.label                   "அச்சு முன்காட்சித் தொடர்பு">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label "முகவரிப் புத்தகத்தை முன்நோக்கு">
-<!ENTITY printPreviewAddressBook.accesskey "B">
 <!ENTITY printContactCmd.label                          "தொடர்பை அச்சிடுக…">
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "P">
@@ -91,8 +85,6 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "ஏற்றுமதி...">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmdUnix.label "விருப்பத்தெரிவுகள்">
-<!ENTITY preferencesCmdUnix.accesskey "N">
 
 
 <!-- Address Book Toolbar and Context Menus --> 

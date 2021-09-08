@@ -20,8 +20,6 @@
 <!ENTITY redoCmd.accesskey "r">
 <!ENTITY deleteCmd.label "நீக்கு">
 <!ENTITY deleteCmd.accesskey "d">
-<!ENTITY preferencesCmdUnix.label "விருப்பத்தெரிவுகள்">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!ENTITY viewMenu.label "நோக்கு">
 <!ENTITY viewMenu.accesskey "v">

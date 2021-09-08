@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (பிரத்தியேக உலாவல்)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (பிரத்தியேக உலாவல்)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (பிரத்தியேக உலாவல்)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (பிரத்தியேக உலாவல்)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -109,13 +111,6 @@ browser-window-minimize-button =
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = பகிர வேண்டிய கேமரா:
-    .accesskey = C
-popup-select-microphone =
-    .value = பகிர வேண்டிய ஒலிவாங்கி:
-    .accesskey = M
-
 ## WebRTC window or screen share tab switch warning
 
 
@@ -124,12 +119,12 @@ popup-select-microphone =
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = முகவரியைத் தேடவும் அல்லது உள்ளிடவும்
 urlbar-placeholder =
     .placeholder = முகவரியைத் தேடவும் அல்லது உள்ளிடவும்
+
 urlbar-switch-to-tab =
     .value = தத்தலுக்கு மாற்றுக:
+
 urlbar-go-button =
     .tooltiptext = இடப் பட்டையிலுள்ள முகவரிக்குச் செல்லவும்
 
@@ -159,6 +154,7 @@ bookmarks-sidebar-content =
     .aria-label = புத்தகக்குறிகள்
 bookmarks-bookmark-edit-panel =
     .label = இந்தப் புத்தகக்குறியைச் செவ்வையாக்குக
+
 bookmarks-toolbar-menu =
     .label = புத்தகக்குறிகளின் கருவிப்பட்டை
 bookmarks-toolbar-placeholder =
@@ -205,6 +201,7 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = { $uriHost } இற்கான முன்னெழும் சாளரங்களை அனுமதிக்க
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost } இற்கான முன்னெழும் சாளரங்களைத் தடைசெய்க
     .accesskey = p
@@ -214,3 +211,4 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = முன்னெழும் சாளரங்கள் தடைசெய்யப்பட்டிருக்கும்போது இந்த செய்தியைக் காட்டதே.
     .accesskey = D
+

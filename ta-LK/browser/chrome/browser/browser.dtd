@@ -22,9 +22,6 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "தத்தலைச் சேர்">
-<!ENTITY  unpinTab.label                     "தத்தலை நீக்குக">
-
 
 
 
@@ -38,12 +35,6 @@ displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "கோப்பினைத் திறக்க…">
 <!ENTITY printCmd.label "அச்சிடுக…">
-
-
-
-<!ENTITY personalbarCmd.label "புத்தகக்குறிகளின் கருவிப்பட்டை">
-<!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "புத்தகக்குறிகள் கருவிப்பட்டை உருப்படிகள்">
 
 
 
@@ -65,10 +56,7 @@ when there are no windows but Firefox is still running. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
@@ -77,16 +65,6 @@ when there are no windows but Firefox is still running. -->
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
-
-<!ENTITY showAllBookmarks2.label "அனைத்துப் புத்தகக்குறிகளையும் காட்டுக">
-
-
-
-<!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் புத்தகக்குறிகளைக் காட்டுக">
 
 
 
@@ -123,14 +101,6 @@ when there are no windows but Firefox is still running. -->
 <!-- Toolbar items -->
 
 
-<!ENTITY bookmarksButton.label          "புத்தகக்குறிகள்">
-
-
-
-
-<!ENTITY viewBookmarksToolbar.label         "புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டுக">
-
-
 
 
 
@@ -139,8 +109,6 @@ when there are no windows but Firefox is still running. -->
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
-
-<!ENTITY addons.label                 "செருகல்கள்">
 
 <!ENTITY webDeveloperMenu.label       "இணையத்தள அபிவிருத்தியாளர்">
 
@@ -160,10 +128,6 @@ when there are no windows but Firefox is still running. -->
 
 
 <!ENTITY historyMenu.label "வரலாறு">
-
-<!ENTITY historyUndoMenu.label "சமீபத்தில் மூடப்பட்ட தத்தல்கள்">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "சமீபத்தில் மூடப்பட்ட சாளரங்கள்">
 
 
 
@@ -283,9 +247,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
 
-<!ENTITY emailPageCmd.label           "மின்னஞ்சல் இணைப்பு ...">
-
-
 
 
 <!-- Media (video/audio) controls -->
@@ -325,13 +286,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "பெரியதாக்கு">
 
 <!ENTITY sidebarCloseButton.tooltip     "பக்கப்பட்டையை மூடு">
-
-
-<!ENTITY quitApplicationCmdWin2.label       "Exit">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
-
-<!ENTITY quitApplicationCmd.label       "வெளியேறு">
-<!ENTITY quitApplicationCmd.accesskey   "Q">
 
 
 
@@ -404,24 +358,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY syncBrand.shortName.label    "ஒத்திசை">
 
 
 

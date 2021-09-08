@@ -17,8 +17,3 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY helpTroubleshootingInfo.label "Troubleshooting தகவல்கள்">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpSafeMode.label "Add-ons செயலற்றதாக மீளத் தொடங்குக…">
-<!ENTITY helpSafeMode.accesskey "R">
-

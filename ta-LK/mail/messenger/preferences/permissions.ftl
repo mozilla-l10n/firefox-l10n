@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = விதிவிலக்குகள்
     .style = width: 36em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = இணையத்தளத்தின் முகவரி:
     .accesskey = d
