@@ -84,9 +84,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Sesa
     .accesskey = e
-menu-edit-find-on =
-    .label = Hu wɔ Krataafa Yi Mu…
-    .accesskey = H
 menu-edit-find-again =
     .label = Hu Bio
     .accesskey = B
@@ -102,9 +99,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Ntuulbaa
     .accesskey = t
-menu-view-customize-toolbar =
-    .label = Kɔstɔmaez…
-    .accesskey = K
 menu-view-sidebar =
     .label = Nkyɛn-baa
     .accesskey = y
@@ -177,8 +171,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Mbukmaak
     .accesskey = b
-menu-bookmarks-show-all =
-    .label = Kyerɛ mbukmaake nyinara
 menu-bookmark-edit =
     .label = Sesa Bukmaak Yi
 menu-bookmarks-all-tabs =
@@ -194,32 +186,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Ntwe
     .accesskey = t
-menu-tools-addons =
-    .label = Nkaho
-    .accesskey = a
 menu-tools-sync-now =
     .label = Synk seisei ara
     .accesskey = S
-menu-tools-web-developer =
-    .label = Wɛb sɔftwɛɛ kyerɛwfo
-    .accesskey = W
 menu-tools-page-source =
     .label = Krataafa Ne Firii
     .accesskey = r
 menu-tools-page-info =
     .label = Krataafa Ho Info
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Ɔphyɛn…
-           *[other] Apɛde-nhyehyɛ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Ɔ
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -250,15 +225,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Mboa
     .accesskey = M
-menu-help-keyboard-shortcuts =
-    .label = Kibɔd kwantia
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Hawyi ho infɔmehyɛn
-    .accesskey = H
 menu-help-feedback-page =
     .label = Sabmet wo fiidbak…
-    .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = Sanhyɛase a woedum nkaho no…
     .accesskey = S

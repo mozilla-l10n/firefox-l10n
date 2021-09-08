@@ -20,10 +20,6 @@ permissions-allow =
 permissions-status =
     .label = Tebea
 
-permissions-button-cancel =
-    .label = Twa-mu
-    .accesskey = w
-
 permissions-capabilities-allow =
     .label = Ma kwan
 permissions-capabilities-block =

@@ -6,10 +6,6 @@ page-title = Hawyi ho infɔmehyɛn
 page-subtitle = Krataafa yi wɔ infɔmehyɛn bi a ebɛhia sɛwo pɛsɛ wo siesie ɔhaw bi a. Sɛ wopɛ nyiano ma nsɛmbisa bi a ɛfa { -brand-short-name } ho a, hwɛ yɛ mmoa seat yi <a data-l10n-name="support-link"> </a>.
 
 crashes-id = Bɔ ahyɛnsode ho amane
-extensions-title = Ntrɛtrɛmu
-extensions-name = Din
-extensions-enabled = Ekenyan
-extensions-version = Vɛɛhyen
 support-addons-name = Din
 support-addons-version = Vɛɛhyen
 app-basics-title = Aplekehyɛn mfitiase

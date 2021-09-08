@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,9 +48,6 @@ main-context-menu-page-save =
     .label = Sie Krataafa Sɛ…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -81,10 +66,6 @@ main-context-menu-open-link-new-private-window =
     .label = Bue link wɔ tokura praevet foforo ma wo nko ara mu
     .accesskey = p
 
-main-context-menu-bookmark-this-link =
-    .label = Bukmaake Link Yi
-    .accesskey = L
-
 main-context-menu-save-link =
     .label = Sie Link Sɛ…
     .accesskey = k
@@ -99,10 +80,6 @@ main-context-menu-save-link =
 
 main-context-menu-copy-email =
     .label = Fa emel adrɛs
-    .accesskey = e
-
-main-context-menu-copy-link =
-    .label = Fa link lokehyɛn
     .accesskey = e
 
 ## Media (video/audio) controls
@@ -154,28 +131,8 @@ main-context-menu-image-reload =
     .label = San Lood Mfonin
     .accesskey = S
 
-main-context-menu-image-view =
-    .label = Hwɛ Mfonin
-    .accesskey = i
-
-main-context-menu-video-view =
-    .label = Hwɛ Video
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = Fa Mfonin
-    .accesskey = a
-
-main-context-menu-image-copy-location =
-    .label = Fa Mfonin no Lokehyɛn
-    .accesskey = a
-
-main-context-menu-video-copy-location =
-    .label = Fa Video no Lokehyɛn
-    .accesskey = a
-
-main-context-menu-audio-copy-location =
-    .label = Fa Ɔdio no Lokehyɛn
     .accesskey = a
 
 main-context-menu-image-save-as =
@@ -185,10 +142,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Emel mfonin…
     .accesskey = f
-
-main-context-menu-image-set-as-background =
-    .label = Hyɛ No Ekyiri Mfonin…
-    .accesskey = H
 
 main-context-menu-image-info =
     .label = Hwɛ Mfonin ho nsɛm
@@ -202,10 +155,6 @@ main-context-menu-audio-save-as =
     .label = Sie Audio Sɛ…
     .accesskey = i
 
-main-context-menu-video-image-save-as =
-    .label = Sie snaphyɔt sɛ…
-    .accesskey = S
-
 main-context-menu-video-email =
     .label = Emel video…
     .accesskey = m
@@ -217,10 +166,6 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Suma plagin yi
     .accesskey = S
-
-main-context-menu-view-background-image =
-    .label = Hwɛ Ekyiri Mfonin
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -280,10 +225,6 @@ main-context-menu-view-page-source =
     .label = Hwɛ KrataaFa ne Fibea
     .accesskey = H
 
-main-context-menu-view-page-info =
-    .label = Hwɛ Krataafa Info
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = Dane kwan a tɛkst fa so
     .accesskey = w
@@ -291,8 +232,4 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Dane kwan a krataafa fa so
     .accesskey = w
-
-main-context-menu-inspect-element =
-    .label = Inspɛkt ɛlɛmɛnt
-    .accesskey = Q
 

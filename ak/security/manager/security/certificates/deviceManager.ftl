@@ -98,8 +98,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Serial Number
 
-fips-nonempty-password-required = FIPS modi eyagala nga oyina Akasumulizo akakulu akatekerwawo kurwo ebyokwereinda ebintu. Kale tekawoakasumulizo nga tonagezeko ku sobozisa FIPS modi.
-
 add-module-failure = Nntumi mmfa mɔdul nnka ho
 del-module-warning = Are you sure you want to delete this security module?
 del-module-error = Nntumi mmpepa mɔdul

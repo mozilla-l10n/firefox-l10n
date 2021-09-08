@@ -6,9 +6,6 @@ password-quality-meter = Ehintasɛmfua anoɔden esusufo
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Sesa Ehintasɛmfua Panin
-
 change-password-new = Akasumulizo akapya:
 change-password-reenter = Akasumulizo akapya (nddamu):
 
@@ -18,7 +15,6 @@ change-password-reenter = Akasumulizo akapya (nddamu):
 
 reset-password-button-label =
     .label = Hyehyɛ-bio
-reset-password-text = Bwona kyusa akasumulizoko ka masita, byona byoteresee ku muko ne akasumulizo ka i-mayilu, fomu ya wiino, santifikati mubuntu, ne akasumulizo kenenyini kaza kwerabirwa. Okakasa oyagala ku kyusa akasmulizo ka masita ko?
 
 ## Downloading cert dialog
 

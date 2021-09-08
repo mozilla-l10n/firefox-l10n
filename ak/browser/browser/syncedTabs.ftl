@@ -5,4 +5,3 @@
 synced-tabs-context-sync-now =
     .label = Synk seisei ara
     .accesskey = S
-fxa-sign-in = Kɔ { -sync-brand-short-name } mu

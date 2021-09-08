@@ -18,10 +18,6 @@ move-to-new-window =
     .label = Soa-kɔ tokura foforo so
     .accesskey = f
 
-close-tab =
-    .label = To Tab No Mu
-    .accesskey = o
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 

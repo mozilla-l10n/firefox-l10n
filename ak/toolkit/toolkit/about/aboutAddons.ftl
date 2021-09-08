@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Nkaho Hwɛsofo
-
 addons-page-title = Nkaho Hwɛsofo
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = Sua ndeɛma bio fa nkaho ho
-
-cmd-show-details =
-    .label = Kyerɛ infɔmehyɛn bio a wɔka ho
-    .accesskey = K
-
-cmd-find-updates =
-    .label = Hu Ntoso
-    .accesskey = H
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Nɔphyɛn
-           *[other] Apɛde
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] p
-        }
-
-cmd-enable-theme =
-    .label = Hyɛ tiim
-    .accesskey = H
-
-cmd-disable-theme =
-    .label = Gyae tiim hyɛ
-    .accesskey = h
-
-cmd-install-addon =
-    .label = instɔɔle
-    .accesskey = i
-
-cmd-contribute =
-    .label = Kyɛn wo nsa fa boa
-    .accesskey = K
-    .tooltiptext = Kyɛn wo nsa fa boa kaho yi ne mpontu
 
 detail-version =
     .label = vɛɛhyen

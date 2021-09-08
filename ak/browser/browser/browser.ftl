@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Brawsen A Ɛyɛ Praevet)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Brawsen A Ɛyɛ Praevet)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Brawsen A Ɛyɛ Praevet)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Brawsen A Ɛyɛ Praevet)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -111,13 +113,6 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = Mfonin-fidie a wo pɛ sɛ wo kyɛ:
-    .accesskey = f
-popup-select-microphone =
-    .value = Kasamu a wo pɛ sɛ wo kyɛ:
-    .accesskey = K
-
 ## WebRTC window or screen share tab switch warning
 
 
@@ -126,12 +121,12 @@ popup-select-microphone =
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = Hwehwɛ anaaso kyerɛw adrɛs
 urlbar-placeholder =
     .placeholder = Hwehwɛ anaaso kyerɛw adrɛs
+
 urlbar-switch-to-tab =
     .value = Swekye kɔ tab:
+
 urlbar-go-button =
     .tooltiptext = Kɔ adrɛs a ɛwɔ Lokehyɛn Baa no mu
 
@@ -163,6 +158,7 @@ bookmarks-search =
     .label = Hwewhɛ Mbukmaak
 bookmarks-bookmark-edit-panel =
     .label = Sesa Bukmaak Yi
+
 bookmarks-toolbar-menu =
     .label = TuulBaa A Wɔde Sie Mbukmaak
 bookmarks-toolbar-placeholder =
@@ -211,6 +207,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Tie mpɔpap ma { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Siw mpɔpap ano kwan ma { $uriHost }
     .accesskey = p
@@ -220,3 +217,4 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ɛnnkyerɛ nkrato yi bio sɛ wɔsiw mpɔpap ano kwan a
     .accesskey = D
+

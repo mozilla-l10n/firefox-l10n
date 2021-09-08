@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Nɔphyɛn
-       *[other] Apɛde-nhyehyɛ
-    }
-
 pane-general-title = Gyɛnɛral
 category-general =
     .tooltiptext = { pane-general-title }
@@ -130,11 +124,6 @@ applications-manage-app =
     .label = Aplekehyen nhunumu…
 applications-always-ask =
     .label = Bisa bere biara
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -292,14 +281,9 @@ forms-exceptions =
     .label = Ngyegye…
     .accesskey = g
 
-forms-master-pw-use =
-    .label = Fa ehintasɛmfua panin di dwuma
-    .accesskey = F
 forms-master-pw-change =
     .label = Sesa Ehintasɛmfua Panin…
     .accesskey = m
-
-forms-master-pw-fips-title = Sesei no wowɔ FIPS tebea mu. FIPS hia Ehintasɛmfua Titiriw a ano yɛ den.
 
 forms-master-pw-fips-desc = Ehintasɛmfua nsakrae dii nkugu
 

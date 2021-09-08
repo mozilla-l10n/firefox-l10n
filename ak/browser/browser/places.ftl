@@ -5,28 +5,9 @@
 places-open =
     .label = Bue
     .accesskey = B
-places-open-tab =
-    .label = Bue wɔ Tab Foforo mu
-    .accesskey = f
 places-open-all-in-tabs =
     .label = Bue No Nyinara wɔ Ntab mu
     .accesskey = o
-places-open-window =
-    .label = Bue wɔ Tokuro Foforo mu
-    .accesskey = o
-
-places-new-bookmark =
-    .label = Bukmaak Foforo…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = Folda Foforo…
-    .accesskey = F
-places-new-folder =
-    .label = Folda Foforo…
-    .accesskey = o
-places-new-separator =
-    .label = Akyɛmude Foforo
-    .accesskey = k
 
 places-view =
     .label = Hwɛ
@@ -53,7 +34,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Fa Din Hyehyɛ
     .accesskey = r
-places-properties =
-    .label = Ho-nsɛm
-    .accesskey = s
 
