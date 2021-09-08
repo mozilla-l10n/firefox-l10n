@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Xossalari">
 
 <!ENTITY generalInfo.label                       "Umumiy ma’lumot">
-<!ENTITY folderCharsetFallback2.label            "Matnni shifrlashdan qochish:">
-<!ENTITY folderCharsetFallback2.accesskey        "E">
-<!ENTITY folderCharsetEnforce2.label             "Jild ichidagi barcha xabarlarni shifrlashni qo‘llash (individual xabar matnini shifrlash sozlamalari va avto aniqlash e’tiborsiz qoldiriladi)">
-<!ENTITY folderCharsetEnforce2.accesskey         "q">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Xulosa fayli indeksini qayta tuzish">
 <!ENTITY folderRebuildSummaryFile2.label         "Tuzatish jildi">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "T">

@@ -35,7 +35,3 @@ translation-sites-button-remove-all =
     .label = Barcha saytlarni olib tashlash
     .accesskey = i
 
-translation-button-close =
-    .label = Yopish
-    .accesskey = Y
-

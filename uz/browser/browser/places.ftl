@@ -5,31 +5,9 @@
 places-open =
     .label = Ochish
     .accesskey = O
-places-open-tab =
-    .label = Yangi varaqda ochish
-    .accesskey = n
 places-open-all-in-tabs =
     .label = Barchasini varaqlarda ochish
     .accesskey = o
-places-open-window =
-    .label = Yangi oynada ochish
-    .accesskey = Y
-places-open-private-window =
-    .label = Linkni yangi maxfiy oynada ochish
-    .accesskey = m
-
-places-new-bookmark =
-    .label = Yangi xatchoʻp
-    .accesskey = x
-places-new-folder-contextmenu =
-    .label = Yangi jild
-    .accesskey = F
-places-new-folder =
-    .label = Yangi jild
-    .accesskey = j
-places-new-separator =
-    .label = Yangi ajratgich
-    .accesskey = a
 
 places-view =
     .label = Koʻrinishi
@@ -60,8 +38,5 @@ places-delete-domain-data =
     .accesskey = u
 places-sortby-name =
     .label = Nomi boʻyicha saralash
-    .accesskey = r
-places-properties =
-    .label = Xossalari
     .accesskey = r
 

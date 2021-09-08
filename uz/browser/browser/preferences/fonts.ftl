@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Legacy Content uchun matnni kodlash usuli
-fonts-languages-fallback-desc = Ushbu kodlash kodlash usuli noma’lum bo‘lgan holatlar uchun ishlatiladi.
-
-fonts-languages-fallback-label = Matnni muqobil kodlash
-    .accesskey = m
-
-fonts-languages-fallback-name-auto =
-    .label = Joriy til uchun standart
-fonts-languages-fallback-name-arabic =
-    .label = Arabcha
-fonts-languages-fallback-name-baltic =
-    .label = Boltiqbo‘yi
-fonts-languages-fallback-name-ceiso =
-    .label = Markaziy Yevropa ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Markaziy Yevropacha, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Soddalashtirilgan xitoycha
-fonts-languages-fallback-name-traditional =
-    .label = Xitoycha, anʼanaviy
-fonts-languages-fallback-name-cyrillic =
-    .label = Kirilcha
-fonts-languages-fallback-name-greek =
-    .label = Grekcha
-fonts-languages-fallback-name-hebrew =
-    .label = Yahudiycha
-fonts-languages-fallback-name-japanese =
-    .label = Yaponcha
-fonts-languages-fallback-name-korean =
-    .label = Koreyscha
-fonts-languages-fallback-name-thai =
-    .label = Taycha
-fonts-languages-fallback-name-turkish =
-    .label = Turkcha
-fonts-languages-fallback-name-vietnamese =
-    .label = Vetnamcha
-fonts-languages-fallback-name-other =
-    .label = Boshqa (birga. Sharqiy Yevropacha)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

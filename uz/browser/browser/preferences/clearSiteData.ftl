@@ -51,11 +51,3 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Saytlardan rasm va ma’lumotlarni qayta yuklash so‘raladi
 
-clear-site-data-cancel =
-    .label = Bekor qilish
-    .accesskey = B
-
-clear-site-data-clear =
-    .label = Tozalash
-    .accesskey = T
-

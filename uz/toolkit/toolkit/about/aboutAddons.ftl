@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Qoʻshimcha dasturlar boshqaruvchisi
-
 addons-page-title = Qoʻshimcha dasturlar boshqaruvchisi
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Barcha kengaytmalarni ko‘rsatish
-
-cmd-show-details =
-    .label = Koʻproq ma`lumotlarni koʻrsatish
-    .accesskey = k
-
-cmd-find-updates =
-    .label = Yangilanishlarni topish
-    .accesskey = t
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Moslamalar
-           *[other] Moslamalar
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] M
-           *[other] M
-        }
-
-cmd-enable-theme =
-    .label = Mavzu oʻrnatish
-    .accesskey = o
-
-cmd-disable-theme =
-    .label = Mavzu oʻrnatishni toʻxtatish
-    .accesskey = t
-
-cmd-install-addon =
-    .label = Oʻrnatish
-    .accesskey = O
-
-cmd-contribute =
-    .label = Hissa qoʻshish
-    .accesskey = H
-    .tooltiptext = Ushbu qoʻshimcha dasturni rivojlantirishga hissa qoʻshish
 
 detail-version =
     .label = Versiyasi

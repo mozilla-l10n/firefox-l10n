@@ -10,11 +10,6 @@ crashes-id = Hisobot xos raqami
 crashes-send-date = Jo‘natildi
 crashes-all-reports = Barcha nosozlik ma’lumotlari
 crashes-no-config = Ushbu ilova dastur nosozlik ma’lumotlarini ko‘rsatish uchun moslanmagan.
-extensions-title = Kengaytmalar
-extensions-name = Nomi
-extensions-enabled = Yoqib qo‘yilgan
-extensions-version = Versiyasi
-extensions-id = ID
 support-addons-name = Nomi
 support-addons-version = Versiyasi
 support-addons-id = ID
@@ -67,8 +62,6 @@ library-version-title = Kutubxona versiyasi
 copy-text-to-clipboard-label = Matndan nusxa olish
 copy-raw-data-to-clipboard-label = Manba ma’lumotlarni vaqtinchalik xotiraga nusxa olish
 sandbox-title = Sandbox
-safe-mode-title = Xavfsizlik usulida urinib ko‘ring
-restart-in-safe-mode-label = Qo‘sh. dasturlarni o‘chirib ishga tushirish
 
 ## Media titles
 
@@ -165,19 +158,12 @@ gpu-ram = RAM
 gpu-driver-version = Drayver versiyasi
 gpu-driver-date = Drayver sanasi
 gpu-active = Aktiv
-blocklisted-bug = Ma’lum sabablarga ko‘ra blok ro‘yxatiga qo‘shildi
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = nosozlik: { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blok ro‘yxatiga qo‘shildi; xatolik kodi: { $failureCode }
 
 d3d11layers-crash-guard = D3D11 Compositor
-d3d11video-crash-guard = D3D11 Video Decoder
-d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Keyingi ishga tushishda tiklash
@@ -196,14 +182,6 @@ can-sandbox-media = Media plugin Sandbokslash
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Foydalanuvchi yoqib qo‘ygan
-multi-process-status-1 = Standart sozlamalar bo‘yicha yoqib qo‘yilgan
-multi-process-status-2 = O‘chirib qo‘yilgan
-multi-process-status-4 = Maxsus imkoniyatlar asboblari tomonidan o‘chirib qo‘yilgan
-multi-process-status-6 = Mos kelmaydigan matn kiritilganligi uchun o‘chirib qo‘yigan
-multi-process-status-7 = Qo‘shimcha dasturlar tomonidan o‘chirib qo‘yilgan
-multi-process-status-8 = Majburiy o‘chirib qo‘yildi
-multi-process-status-unknown = Noma’lum holat
 
 async-pan-zoom = Asinxronlanadigan Nov/Mastshab
 apz-none = yo‘q

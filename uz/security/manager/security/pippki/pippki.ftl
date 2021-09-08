@@ -6,9 +6,6 @@ password-quality-meter = Parolning mustahkamlik darajasi
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Parol ustasini oʻzgartirish
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Xavfsiz qurilma: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Yangi parol (yana):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Parol ustasini tiklash
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Tiklash
-reset-password-text = Agar parol ustasini tiklasangiz, barcha internetdagi va e-pochta mazillaringiz, to‘ldirish shakllari ma’lumotlari, shaxsiy sertifikatlar va maxfiy kalitlaringiz parollari unutiladi. Parol ustasini tiklashni xohlashingizga ishonchingiz komilmi?
 
 ## Downloading cert dialog
 

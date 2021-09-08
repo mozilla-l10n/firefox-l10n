@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Maxfiy oynani ochish
 about-private-browsing-search-placeholder = Internetdan izlash
 about-private-browsing-info-title = Siz maxfiy oynadasiz
 about-private-browsing-info-myths = Maxfiy koʻrish haqida tarqalgan afsonalar
-about-private-browsing =
-    .title = Internetdan izlash
 about-private-browsing-not-private = Siz hozirda maxfiy oynada emassiz.
 about-private-browsing-info-description = Ilovadan chiqsangiz yoki Maxfiy koʻrish oynalarini yopsangiz, qidiruv va ochilgan saytlar tarixini { -brand-short-name } tozalab tashlaydi. Bu sizni sayt va internet provayderingiz uchun anonim qila olmaydi, lekin bu kompyuterdan foydalanuvchi insonlardan brauzeridagi faoliyatingizni yashirishda yordam beradi.
 

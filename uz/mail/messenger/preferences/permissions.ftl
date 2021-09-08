@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Istisnolar
     .style = width: 45em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = Vebsayt manzili:
     .accesskey = m

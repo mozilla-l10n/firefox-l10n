@@ -18,10 +18,6 @@
 <!ENTITY redoCmd.accesskey          "q">
 <!ENTITY deleteCmd.label          "O‘chirish">
 <!ENTITY deleteCmd.accesskey        "O">
-<!ENTITY preferencesCmd2.label "Tanlamalar">
-<!ENTITY preferencesCmd2.accesskey "T">
-<!ENTITY preferencesCmdUnix.label       "Parametrlar">
-<!ENTITY preferencesCmdUnix.accesskey     "m">
 
 <!ENTITY viewMenu.label          "Ko‘rinishi">
 <!ENTITY viewMenu.accesskey        "K">

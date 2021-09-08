@@ -110,9 +110,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Tahrirlash
     .accesskey = T
-menu-edit-find-on =
-    .label = Sahifadan topish
-    .accesskey = t
 menu-edit-find-again =
     .label = Yana topish
     .accesskey = p
@@ -128,9 +125,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Asboblar paneli
     .accesskey = A
-menu-view-customize-toolbar =
-    .label = Moslash…
-    .accesskey = M
 menu-view-sidebar =
     .label = Yon panel
     .accesskey = e
@@ -164,9 +158,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Asosiy sahifa uslubi
     .accesskey = A
-menu-view-charset =
-    .label = Matnni kodlash usuli:
-    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -215,10 +206,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Xatcho‘plar
     .accesskey = X
-menu-bookmarks-show-all =
-    .label = Barcha xatcho‘plarni ko‘rsatish
-menu-bookmark-this-page =
-    .label = Sahifani xatcho‘plarga qo‘shish
 menu-bookmark-edit =
     .label = Ushbu xatcho‘pni o‘zgartirish
 menu-bookmarks-all-tabs =
@@ -238,41 +225,18 @@ menu-tools =
 menu-tools-downloads =
     .label = Yuklab olishlar
     .accesskey = Y
-menu-tools-addons =
-    .label = Qo‘shimcha dasturlar
-    .accesskey = Q
-menu-tools-fxa-sign-in =
-    .label = { -brand-product-name } hisobiga kirish…
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name }ni yoqish
-    .accesskey = y
 menu-tools-sync-now =
     .label = Hozir sinxronlash
     .accesskey = s
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name }ga qayta ulanmoqda…
     .accesskey = R
-menu-tools-web-developer =
-    .label = Veb dasturchi
-    .accesskey = V
 menu-tools-page-source =
     .label = Sahifa manbasi
     .accesskey = a
 menu-tools-page-info =
     .label = Sahifa haqida ma’lumot
     .accesskey = u
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Moslamalar
-           *[other] Parametrlar
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] M
-           *[other] m
-        }
 menu-tools-layout-debugger =
     .label = Maket sozlagich
     .accesskey = L
@@ -307,32 +271,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Yordam
     .accesskey = Y
-menu-help-product =
-    .label = { -brand-shorter-name } yordami
-    .accesskey = y
-menu-help-show-tour =
-    .label = { -brand-shorter-name }ga sayohat
-    .accesskey = s
-menu-help-import-from-another-browser =
-    .label = Boshqa brauzerdan import
-    .accesskey = i
-menu-help-keyboard-shortcuts =
-    .label = Tugmalar birikmasi
-    .accesskey = T
-menu-help-troubleshooting-info =
-    .label = Nosozlik ma’lumoti
-    .accesskey = N
 menu-help-report-site-issue =
     .label = Saytdagi muammo haqida xabar berish
 menu-help-feedback-page =
     .label = Mulohaza bildirish
     .accesskey = b
-menu-help-safe-mode-without-addons =
-    .label = Qo‘sh. dasturlarni o‘chirib, qayta ishga tushirish
-    .accesskey = q
-menu-help-safe-mode-with-addons =
-    .label = Qo‘sh. dasturlarni yoqib, qayta ishga tushirish
-    .accesskey = q
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

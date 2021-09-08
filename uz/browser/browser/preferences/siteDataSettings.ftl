@@ -25,14 +25,6 @@ site-data-remove-selected =
     .label = Tanlanganni o‘chirish
     .accesskey = o
 
-site-data-button-cancel =
-    .label = Bekor qilish
-    .accesskey = B
-
-site-data-button-save =
-    .label = O‘zgarishlarni saqlash
-    .accesskey = s
-
 ## Removing
 
 site-data-removing-header = Kuki va sayt ma’lumotlari olib tashlanmoqda

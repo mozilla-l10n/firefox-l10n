@@ -17,42 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Tasdiqdan oʻtkazishlar
 
-certmgr-detail-general-tab-title =
-    .label = Umumiy
-    .accesskey = U
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Tafsilotlar
-    .accesskey = T
-
-certmgr-pending-label =
-    .value = Hozirda sertifikat tasdiqlanmoqda…
-
-certmgr-subject-label = Ushbuga tegishli:
-
-certmgr-issuer-label = Muallifi:
-
-certmgr-period-of-validity = Yaroqlilik muddati
-
-certmgr-fingerprints = Barmoq izlari
-
-certmgr-cert-detail =
-    .title = Sertifikat tafsilotlari
-    .buttonlabelaccept = Yopish
-    .buttonaccesskeyaccept = Y
-
-certmgr-cert-detail-commonname = Umumiy nom (CN)
-
-certmgr-cert-detail-org = Tashkilot (O)
-
-certmgr-cert-detail-orgunit = Tashkilot qismi (OU)
-
-certmgr-cert-detail-serial-number = Serial raqami
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 barmoq izi
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 barmoq izi
-
 certmgr-edit-ca-cert =
     .title = CA sertifikati ishonch sozlamalarini oʻzgartirish
     .style = width: 48em;
@@ -81,12 +45,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Qurilma xavfsizligi
 
-certmgr-begins-on = Boshlanishi:
-
 certmgr-begins-label =
     .label = Boshlanishi:
-
-certmgr-expires-on = Tugashi:
 
 certmgr-expires-label =
     .label = Tugashi:
@@ -128,18 +88,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Import qilish…
     .accesskey = I
-
-certmgr-details =
-    .value = Sertifikat maydonchalari
-    .accesskey = m
-
-certmgr-fields =
-    .value = Qiymat maydoni
-    .accesskey = Q
-
-certmgr-hierarchy =
-    .value = Sertifikat iyerarxiyasi
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Istisno qoʻshish…
@@ -203,12 +151,6 @@ delete-user-cert-confirm = Ushbu sertifikatlarni o‘chirmoqchi ekanligingizga i
 delete-user-cert-impact = Shaxsiy sertifikatlaringizdan birini o'chirib yuborsangiz, o‘zingizni tasdiqdan o‘tkazishdan foydalana olmay qolasiz.
 
 
-delete-ssl-cert-title =
-    .title = Server sertifikati istisnolarini o‘chirish
-delete-ssl-cert-confirm = Ushbu server istisnolarini oʻchirmoqchi ekanligingizga ishonchingiz komilmi?
-delete-ssl-cert-impact = Agar server istisnosini oʻchirsangiz, ushbu server uchun odatdagi xavfsizlik tekshiruvlarini ham tiklaysiz va undan foydalanish yaroqli sertifikatni talab qiladi.
-
-
 delete-ca-cert-title =
     .title = CA sertifikatlarni o‘chirish yoki ishonishni to‘xtatish
 delete-ca-cert-confirm = Sizdan ushbu CA sertifikatlarni o‘chirish so‘raldi. Ichki sertifikatlar uchun xuddi shunday effekt bor barcha ishonchlar o‘chiriladi. O‘chirmoqchi ekanligingizga yoki ishonchni olib tashlashni xohlashingizga ishonchingiz komilmi?
@@ -221,38 +163,6 @@ delete-email-cert-confirm = Ushbu odamlarning e-pochta sertifikatlarini o‘chir
 delete-email-cert-impact = Agar shaxsning e-pochta sertifikatini o‘chsangiz, siz ushbu shaxsga kodlangan xatni jo‘nata olmaysiz.
 
 ## Cert Viewer
-
-not-present =
-    .value = <Sertifikat qismi emas>
-
-# Cert verification
-cert-verified = Ushbu sertifikat quyidagi foydalanuvchilar uchun tekshirilgan:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL mijoz sertifikati
-
-verify-ssl-server =
-    .value = SSL server sertifikati
-
-verify-ssl-ca =
-    .value = SSL tasdiqdan oʻtkazish sertifikati
-
-verify-email-signer =
-    .value = E-pochtaga kirish sertifikati
-
-verify-email-recip =
-    .value = E-pochta qabul qilish sertifikati
-
-# Cert verification
-cert-not-verified-cert-revoked = Ushbu sertifikat tekshirilmadi, chunki u bekor qilingan.
-cert-not-verified-cert-expired = Ushbu sertifikat tekshirilmadi, chunki u eskirgan.
-cert-not-verified-cert-not-trusted = Ushbu sertifikat tekshirilmadi, chunki u ishonchli emas.
-cert-not-verified-issuer-not-trusted = Ushbu sertifikat tekshirilmadi, chunki sertifikat beruvchisi ishonchli emas.
-cert-not-verified-issuer-unknown = Ushbu sertifikat tekshirilmadi, chunki sertifikat beruvchisi noma`lum.
-cert-not-verified-ca-invalid = Ushbu sertifikat tekshirilmadi, chunki CA sertifikati - xato.
-cert-not-verified_algorithm-disabled = Ushbu sertifikat tekshirilmadi, chunki  xavfsiz boʻlmagan algoritmdan foydalanib yozilgan imzo boʻlganligi uchun oʻchirib qoʻyilgan.
-cert-not-verified-unknown = Noma`lum sabablarga koʻra ushbu sertifikat tekshirilmadi.
 
 ## Used to show whether an override is temporary or permanent
 

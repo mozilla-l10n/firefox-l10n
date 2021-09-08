@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Skrinshot olish
-
-screenshots-my-shots-button = Men olgan skrinshotlar
-
 screenshots-instructions = Hududni belgilash uchun kerakli hududni tanlang va bosing. Chiqish uchun “ESC” tugmasidan foydalaning.
 screenshots-cancel-button = Bekor qilish
 screenshots-save-visible-button = Ko‘rinadiganini saqlash
@@ -34,8 +30,6 @@ screenshots-login-error-details = Olingan rasmni saqlay olmaymiz, chunki Firefox
 
 screenshots-unshootable-page-error-title = Bu sahifani rasmga tushira olmaymiz.
 screenshots-unshootable-page-error-details = Bu sahifa standart sahifa emas, shuning uchun uni rasmga tushira olmaymiz.
-
-screenshots-self-screenshot-error-title = Firefox Screenshot sahifasini rasmga tushirish mumkin emas!
 
 screenshots-empty-selection-error-title = Tanlangan hudud juda kichik
 

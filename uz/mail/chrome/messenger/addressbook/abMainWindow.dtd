@@ -29,12 +29,6 @@
 <!ENTITY closeCmd.label                                 "Yopish">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "Y">
-<!ENTITY printSetupCmd.label                            "Sahifani sozlash…">
-<!ENTITY printSetupCmd.accesskey                        "s">
-<!ENTITY printPreviewContactCmd.label                   "Kontaktni chop qilishni ko‘rish">
-<!ENTITY printPreviewContactCmd.accesskey               "n">
-<!ENTITY printPreviewAddressBook.label                  "Manzil kitobini chop qilishni ko‘rish">
-<!ENTITY printPreviewAddressBook.accesskey              "k">
 <!ENTITY printContactCmd.label                          "Kontaktni chop qilish…">
 <!ENTITY printContactCmd.accesskey                      "p">
 <!ENTITY printContactCmd.key                            "P">
@@ -107,10 +101,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Eksport…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                          "Tanlamalar">
-<!ENTITY preferencesCmd2.accesskey                      "T">
-<!ENTITY preferencesCmdUnix.label                       "Parametrlar">
-<!ENTITY preferencesCmdUnix.accesskey                   "m">
 <!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label                         "Yangi kontakt">

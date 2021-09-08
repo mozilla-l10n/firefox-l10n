@@ -7,20 +7,12 @@ about-logins-page-title = Login va parollar
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Parollaringizdan istalgan joyda foydalaning
-login-app-promo-subtitle = { -lockwise-brand-name } ilovasini bepul yuklab oling
-login-app-promo-android =
-    .alt = Google Play orqali yuklab olish mumkin
-login-app-promo-apple =
-    .alt = App Store orqali yuklab olish mumkin
-
 login-filter =
     .placeholder = Loginlarni qidirish
 
 create-login-button = Yangi login yaratish
 
 fxaccounts-sign-in-text = Boshqa qurilmalardagi parollaringizdan foydalaning
-fxaccounts-sign-in-button = { -sync-brand-short-name } hisobiga kiring
 fxaccounts-avatar-button =
     .title = Hisobni boshqarish
 
@@ -36,8 +28,6 @@ menu-menuitem-preferences =
        *[other] Parametrlar
     }
 about-logins-menu-menuitem-help = Yordam
-menu-menuitem-android-app = Android uchun { -lockwise-brand-short-name }
-menu-menuitem-iphone-app = iPhone va iPad uchun { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -68,13 +58,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Saqlangan parollaringizni qidiryapsizmi? { -sync-brand-short-name }ni sozlang.
-
 about-logins-login-intro-heading-logged-in = Sinxronlangan loginlar topilmadi
 login-intro-description = Loginlaringizni boshqa qurilmadagi { -brand-product-name } brauzeriga saqlagan boʻlsangiz, ularni olish haqida bu yerdan maʼlumot olish mumkin:
-login-intro-instruction-fxa = Yangi hisob yarating yoki loginlaringiz saqlangan qurilmadagi { -fxaccount-brand-name } hisobiga kiring
-login-intro-instruction-fxa-settings = { -sync-brand-short-name } sozlamalaridagi Loginlar maydonchasiga belgi qoʻyishingiz lozim
-about-logins-intro-instruction-help = Yana yordam olish uchun <a data-l10n-name="help-link">{ -lockwise-brand-short-name }Yordam</a> sahifasini oching
 about-logins-intro-import = Loginlaringiz boshqa brauzerga saqlangan boʻlsa, ularni <a data-l10n-name="import-link">import qilishingiz mumkin { -lockwise-brand-short-name }</a>
 
 ## Login
@@ -124,8 +109,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = saqlangan paroldan nu
 
 ## Master Password notification
 
-master-password-notification-message = Saqlangan login va parollarni koʻrish uchun parol ustasiga kiring
-
 ## Primary Password notification
 
 master-password-reload-button =
@@ -133,22 +116,6 @@ master-password-reload-button =
     .accesskey = K
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] { -brand-product-name } brauzeridan xohlagan joyingizda loginlaringizga kirishni xohlaysizmi? { -sync-brand-short-name } parametriga kiring va Loginlar maydonchasiga belgi qoʻying.
-       *[other] { -brand-product-name } brauzeridan xohlagan joyingizda loginlaringizga kirishni xohlaysizmi? { -sync-brand-short-name } parametriga kiring va Loginlar maydonchasiga belgi qoʻying.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] { -sync-brand-short-name } parametrlariga kiring
-           *[other] { -sync-brand-short-name } parametrlariga kiring
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Yana soʻralmasin
-    .accesskey = s
 
 ## Dialogs
 

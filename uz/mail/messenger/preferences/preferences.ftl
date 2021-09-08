@@ -3,13 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Tanlamalar
-           *[other] Parametrlar
-        }
-
 pane-compose-title = Yozish
 category-compose =
     .tooltiptext = Yozish
@@ -63,10 +56,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Qulaylashtirish…
     .accesskey = Q
-
-tray-icon-label =
-    .label = Patni nishonchasini ko‘rsatish
-    .accesskey = P
 
 mail-custom-sound-label =
     .label = Quyidagi tovush faylidan foydalanilsin
@@ -237,9 +226,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Rangi:
     .accesskey = R
-
-search-input =
-    .placeholder = Izlash
 
 type-column-label =
     .label = Tarkib turi
@@ -486,16 +472,6 @@ passwords-description = { -brand-short-name } barcha hisoblaringiz uchun parolla
 passwords-button =
     .label = Saqlangan parollar…
     .accesskey = S
-
-master-password-description = Parol ustasi barcha parollaringizni himoya qiladi, lekin har bir seansda bir marta kiritishingiz kerak.
-
-master-password-label =
-    .label = Parol ustasidan foydalanish
-    .accesskey = f
-
-master-password-button =
-    .label = Parol ustasini o‘zgartirish…
-    .accesskey = o
 
 
 junk-description = Asosiy spam sozlamalarini o‘rnating. Hisobda ko‘rsatilgan xatlarni spamga qo‘shish sozlamalarini Hisob sozlamalarida moslash mumkin.

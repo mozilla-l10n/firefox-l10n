@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Tozalash">
 
-<!ENTITY fillLoginMenu.label          "Taxallusni kiritish">
-<!ENTITY fillLoginMenu.accesskey      "k">
-<!ENTITY fillPasswordMenu.label       "Parolni kiritish">
-<!ENTITY fillPasswordMenu.accesskey   "k">
-<!ENTITY fillUsernameMenu.label       "Foydalanuvchi nomini kiritish">
-<!ENTITY fillUsernameMenu.accesskey   "k">
-<!ENTITY noLoginSuggestions.label     "(Taxallus tavsiyalari yo‘q)">
-<!ENTITY viewSavedLogins.label        "Saqlangan taxalluslarni ko‘rish">

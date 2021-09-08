@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Bir sahifa orqaga qaytish
-    .aria-label = Orqaga
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Bir sahifa oldinga oʻtish
-    .aria-label = Oldinga
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = Sahifani saqlash…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = Havolani yangi maxfiy oynada ochish
     .accesskey = m
 
-main-context-menu-bookmark-this-link =
-    .label = Havolani xatcho‘plarga qo‘shish
-    .accesskey = H
-
 main-context-menu-save-link =
     .label = Havolani saqlash…
     .accesskey = k
@@ -185,10 +156,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Email manzilidan nusxa olish
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = Havoladan nusxa olish
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -213,32 +180,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Tovushni yoqish
     .accesskey = y
-
-main-context-menu-media-play-speed =
-    .label = Ijro etish tezligi
-    .accesskey = I
-
-main-context-menu-media-play-speed-slow =
-    .label = Sekin (0.5×)
-    .accesskey = S
-
-main-context-menu-media-play-speed-normal =
-    .label = Meʼyorda
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = Tez (1.25×)
-    .accesskey = T
-
-main-context-menu-media-play-speed-faster =
-    .label = Tezroq (1.5×)
-    .accesskey = T
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Kulguli tezlik (2×)
-    .accesskey = K
 
 main-context-menu-media-loop =
     .label = Takrorlash
@@ -265,39 +206,13 @@ main-context-menu-media-video-leave-fullscreen =
     .label = Butun ekrandan chiqish
     .accesskey = u
 
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Rasm ichida rasm
-    .accesskey = u
-
 main-context-menu-image-reload =
     .label = Rasmni qayta yuklash
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = Rasmni ko‘rish
-    .accesskey = i
-
-main-context-menu-video-view =
-    .label = Videoni koʻrish
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = Rasmdan nusxa olish
     .accesskey = u
-
-main-context-menu-image-copy-location =
-    .label = Rasm manzilidan nusxa olish
-    .accesskey = z
-
-main-context-menu-video-copy-location =
-    .label = Video manzildan nusxa olish
-    .accesskey = l
-
-main-context-menu-audio-copy-location =
-    .label = Audio manzildan nusxa olish
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = Rasmni saqlash…
@@ -306,10 +221,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Rasmni emaildan joʻnatish…
     .accesskey = m
-
-main-context-menu-image-set-as-background =
-    .label = Ish stoli orqa foni sifatida o‘rnatish
-    .accesskey = s
 
 main-context-menu-image-info =
     .label = Rasm maʼlumotini koʻrish
@@ -326,10 +237,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Audioni saqlash…
     .accesskey = o
-
-main-context-menu-video-image-save-as =
-    .label = Olingan rasmni saqlash
-    .accesskey = s
 
 main-context-menu-video-email =
     .label = Videoni emaildan joʻnatish
@@ -354,14 +261,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Sahifani qurilmaga joʻnatish
     .accesskey = q
-
-main-context-menu-view-background-image =
-    .label = Orqa fon rasmini koʻrish
-    .accesskey = r
-
-main-context-menu-generate-new-password =
-    .label = Yaratilgan paroldan foydalanish
-    .accesskey = Y
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -426,10 +325,6 @@ main-context-menu-view-page-source =
     .label = Sahifa manba kodi
     .accesskey = k
 
-main-context-menu-view-page-info =
-    .label = Sahifa haqida maʼlumot
-    .accesskey = l
-
 main-context-menu-bidi-switch-text =
     .label = Matn yoʻnalishini almashtirish
     .accesskey = a
@@ -438,13 +333,10 @@ main-context-menu-bidi-switch-page =
     .label = Sahifa yoʻnalishini almashtirish
     .accesskey = y
 
-main-context-menu-inspect-element =
-    .label = Elementni kuzatish
-    .accesskey = Q
-
 main-context-menu-inspect-a11y-properties =
     .label = Qulaylik xossalarini kuzatish
 
 main-context-menu-eme-learn-more =
     .label = DRM haqida batafsil…
     .accesskey = D
+

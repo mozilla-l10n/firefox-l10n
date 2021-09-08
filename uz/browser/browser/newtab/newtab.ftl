@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Qidiruv
     .aria-label = Qidiruv
 
-newtab-search-box-search-the-web-text = Internetdan izlash
-
 newtab-search-box-search-the-web-input =
     .placeholder = Internetdan izlash
     .title = Internetdan izlash

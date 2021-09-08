@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Onlayn holatda xabarlar aniqlanishi avtomatik kuzatilsin
     .accesskey = a
 
-startup-label = Ishga tushganda qo‘lbola holati:
-
 status-radio-remember =
     .label = Oldingi onlayn holatini eslab qolish
     .accesskey = e

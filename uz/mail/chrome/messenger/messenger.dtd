@@ -81,10 +81,6 @@
 <!ENTITY printCmd.label "Chop qilish…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Chop qilishni ko‘rish">
-<!ENTITY printPreviewCmd.accesskey "n">
-<!ENTITY printSetupCmd.label "Sahifani moslash…">
-<!ENTITY printSetupCmd.accesskey "l">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Xabarni o‘chirish">
@@ -164,8 +160,6 @@
 <!ENTITY recentFolders.accesskey "S">
 <!ENTITY compactVersion.label "Ixcham ko‘rinish">
 <!ENTITY compactVersion.accesskey "I">
-<!ENTITY folderPaneBar.label "Jild yon oynasi asboblar paneli">
-<!ENTITY folderPaneBar.accesskey "J">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Saralash">
@@ -450,8 +444,6 @@
 <!ENTITY addressBookCmd.label "Manzillar daftari">
 <!ENTITY addressBookCmd.accesskey "d">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Qo‘shimcha dasturlar">
-<!ENTITY addons.accesskey "Q">
 <!ENTITY activitymanager.label "Faoliyat menejeri">
 <!ENTITY activitymanager.accesskey "F">
 <!ENTITY imAccountsStatus.label "Chat holati">
@@ -495,8 +487,6 @@
 <!ENTITY devToolboxCmd.label "Das&amp;turchi asboblari paneli">
 <!ENTITY devToolboxCmd.accesskey "a">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY tabsDebugCmd.label "Freym tuzatkichi tarkibi">
-<!ENTITY tabsDebugCmd.accesskey "t">
 <!ENTITY errorConsoleCmd.label "Xato terminali">
 <!ENTITY errorConsoleCmd.accesskey "t">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -525,15 +515,11 @@
 <!ENTITY backButton1.label "Orqaga">
 <!ENTITY goForwardButton1.label "Oldinga">
 <!ENTITY deleteItem.title "O‘chirish">
-<!ENTITY deleteButton.label "O‘chirish">
-<!ENTITY undeleteButton.label "O‘chirilmasin">
 <!ENTITY markButton.label "Belgilash">
 <!ENTITY printButton.label "Chop qilish">
 <!ENTITY stopButton.label "To‘xtatish">
 <!ENTITY throbberItem.title "Faoliyat indikatori">
 <!ENTITY junkItem.title "Spam">
-<!ENTITY junkButton.label "Spam">
-<!ENTITY notJunkButton.label "Spam emas">
 <!ENTITY addressBookButton.label "Manzillar daftari">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Xalqaro qidiruv">
@@ -564,13 +550,9 @@
 <!ENTITY previousMsgButton.tooltip "Oldingi xabarga o‘tish">
 <!ENTITY goForwardButton.tooltip "Bitta oldingi xabarga o‘tish">
 <!ENTITY goBackButton.tooltip "Bitta keyingi xabarga o‘tish">
-<!ENTITY deleteButton.tooltip "Tanlangan xabar yoki jildni o‘chirish">
-<!ENTITY undeleteButton.tooltip "Tanlangan xabar o‘chirilmasin">
 <!ENTITY markButton.tooltip "Xabarlarni belgilash">
 <!ENTITY printButton.tooltip "Bu xabarni chop qilish">
 <!ENTITY stopButton.tooltip "Joriy o‘tkazishni to‘xtatish">
-<!ENTITY junkButton.tooltip "Tanlangan xabarlarni spam sifatida belgilash">
-<!ENTITY notJunkButton.tooltip "Tanlangan xabarlarni spam emas sifatida belgilash">
 <!ENTITY addressBookButton.tooltip "Manzil kitobiga o‘tish">
 <!ENTITY chatButton.tooltip "Chat ichki oynasini ko‘rsatish">
 <!ENTITY tagButton.tooltip "Xabarlarni teglash">

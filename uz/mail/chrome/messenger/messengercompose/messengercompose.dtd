@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Yangi">
 <!ENTITY newMenu.accesskey "Y">
 <!ENTITY newMessage.label "Xabar">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "X">
 <!ENTITY newContact.label "Manzil kitobidagi kontakt…">
 <!ENTITY newContact.accesskey "k">
 <!ENTITY attachMenu.label "Biriktirish">
 <!ENTITY attachMenu.accesskey "B">
-<!ENTITY attachFileCmd.label "Fayl(lar)…">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Veb sahifa…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Keyinroq joʻnatish">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "K">
-<!ENTITY printSetupCmd.label "Sahifani sozlash…">
-<!ENTITY printSetupCmd.accesskey "s">
-<!ENTITY printPreviewCmd.label "Chop qilishni ko‘rish">
-<!ENTITY printPreviewCmd.accesskey "n">
 <!ENTITY printCmd.label "Chop qilish…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
@@ -179,10 +170,6 @@
 <!ENTITY accountManagerCmd2.label "Hisob sozlamalari">
 <!ENTITY accountManagerCmd2.accesskey "s">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
-<!ENTITY preferencesCmd2.label "Tanlamalar">
-<!ENTITY preferencesCmd2.accesskey "T">
-<!ENTITY preferencesCmdUnix.label "Parametrlar">
-<!ENTITY preferencesCmdUnix.accesskey "m">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
@@ -195,7 +182,6 @@
 <!ENTITY sendButton.label "Jo‘natish">
 <!ENTITY quoteButton.label "Iqtibos">
 <!ENTITY addressButton.label "Kontaktlar">
-<!ENTITY attachButton.label "Biriktirish">
 <!ENTITY spellingButton.label "Imloni tekshirish">
 <!ENTITY saveButton.label "Saqlash">
 <!ENTITY printButton.label "Chop qilish">
@@ -265,8 +251,6 @@
 <!ENTITY renameAttachment.accesskey "N">
 <!ENTITY selectAll.label "Barchasini tanlash">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Fayl(lar)ni biriktirish…">
-<!ENTITY attachFile.accesskey "F">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "O‘girish:">

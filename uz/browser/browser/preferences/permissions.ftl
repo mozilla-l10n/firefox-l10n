@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Barcha saytlarni olib tashlash
     .accesskey = B
 
-permissions-button-cancel =
-    .label = Bekor qilish
-    .accesskey = B
-
-permissions-button-ok =
-    .label = O‘zgarishlarni saqlash
-    .accesskey = s
-
 permissions-searchbox =
     .placeholder = Saytdan izlash
 
