@@ -9,7 +9,6 @@ unread-messages-os-tooltip =
         [one] 1 μη αναγνωσμένο μήνυμα
        *[other] { $count } μη αναγνωσμένα μηνύματα
     }
-
 about-rights-notification-text = Το { -brand-short-name } είναι δωρεάν λογισμικό ανοικτού κώδικα, που δημιουργήθηκε από μια κοινότητα χιλιάδων ατόμων από όλο τον κόσμο.
 
 ## Content tabs
@@ -26,11 +25,9 @@ content-tab-security-broken-icon =
 addons-and-themes-toolbarbutton =
     .label = Πρόσθετα και θέματα
     .tooltiptext = Διαχείριση των προσθέτων σας
-
 quick-filter-toolbarbutton =
     .label = Γρήγορο φιλτράρισμα
     .tooltiptext = Φιλτράρισμα μηνυμάτων
-
 redirect-msg-button =
     .label = Ανακατεύθυνση
     .tooltiptext = Ανακατεύθυνση επιλεγμένου μηνύματος
@@ -40,10 +37,8 @@ redirect-msg-button =
 folder-pane-toolbar =
     .toolbarname = Γραμμή περιοχής φακέλων
     .accesskey = Γ
-
 folder-pane-toolbar-options-button =
     .tooltiptext = Επιλογές προβολής φακέλων
-
 folder-pane-header-label = Φάκελοι
 
 ## Folder Toolbar Header Popup
@@ -51,27 +46,21 @@ folder-pane-header-label = Φάκελοι
 folder-toolbar-hide-toolbar-toolbarbutton =
     .label = Απόκρυψη γραμμής εργαλείων
     .accesskey = Α
-
 show-all-folders-label =
     .label = Όλοι οι φάκελοι
     .accesskey = Ό
-
 show-unread-folders-label =
     .label = Μη αναγνωσμένοι φάκελοι
     .accesskey = Μ
-
 show-favorite-folders-label =
     .label = Αγαπημένοι φάκελοι
     .accesskey = π
-
 show-smart-folders-label =
     .label = Ενοποιημένοι φάκελοι
     .accesskey = Ε
-
 show-recent-folders-label =
     .label = Πρόσφατοι φάκελοι
     .accesskey = Π
-
 folder-toolbar-toggle-folder-compact-view =
     .label = Συμπτυγμένη προβολή
     .accesskey = Σ
@@ -88,19 +77,14 @@ redirect-msg-menuitem =
 # and consolidated everything with Preferences.
 appmenu-preferences =
     .label = Προτιμήσεις
-
 appmenu-addons-and-themes =
     .label = Πρόσθετα και θέματα
-
 appmenu-help-enter-troubleshoot-mode =
     .label = Λειτουργία επίλυσης προβλημάτων…
-
 appmenu-help-exit-troubleshoot-mode =
     .label = Απενεργοποίηση λειτουργίας επίλυσης προβλημάτων
-
 appmenu-help-more-troubleshooting-info =
     .label = Πληροφορίες επίλυσης προβλημάτων
-
 appmenu-redirect-msg =
     .label = Ανακατεύθυνση
 
@@ -127,7 +111,6 @@ toolbar-context-menu-remove-extension =
 
 message-header-address-in-address-book-icon =
     .alt = Η διεύθυνση βρίσκεται στο ευρετήριο
-
 message-header-address-not-in-address-book-icon =
     .alt = Η διεύθυνση δεν βρίσκεται στο ευρετήριο
 
@@ -138,11 +121,9 @@ message-header-address-not-in-address-book-icon =
 addon-removal-title = Αφαίρεση του { $name };
 addon-removal-confirmation-button = Αφαίρεση
 addon-removal-confirmation-message = Αφαίρεση του { $name }, των ρυθμίσεων και των δεδομένων του από το { -brand-short-name };
-
 caret-browsing-prompt-title = Περιήγηση με κέρσορα
 caret-browsing-prompt-text = Πατώντας το F7 (απ)ενεργοποιείται η περιήγηση με κέρσορα. Αυτή η λειτουργία τοποθετεί έναν κινούμενο κέρσορα σε ορισμένο περιεχόμενο και σας επιτρέπει να επιλέγετε κείμενο με το πληκτρολόγιο. Θέλετε να ενεργοποιήσετε τη λειτουργία;
 caret-browsing-prompt-check-text = Να μην γίνει ξανά ερώτηση.
-
 repair-text-encoding-button =
     .label = Επιδιόρθωση κωδικοποίησης κειμένου
     .tooltiptext = Υπόθεση σωστής κωδικοποίησης κειμένου από το περιεχόμενο του μηνύματος
@@ -150,5 +131,5 @@ repair-text-encoding-button =
 ## no-reply handling
 
 no-reply-title = Δεν υποστηρίζεται απάντηση
-no-reply-message = Η διεύθυνση απάντησης ({ $email }) δεν φαίνεται να είναι ελεγχόμενη. Τα μηνύματα σε αυτή τη διεύθυνση πιθανότατα δεν θα διαβαστούν από κανέναν.
+no-reply-message = Η διεύθυνση απάντησης ({ $email }) δεν φαίνεται να είναι εποπτεύεται. Τα μηνύματα σε αυτήν τη διεύθυνση πιθανότατα δεν θα διαβαστούν από κανέναν.
 no-reply-reply-anyway-button = Απάντηση ούτως ή άλλως

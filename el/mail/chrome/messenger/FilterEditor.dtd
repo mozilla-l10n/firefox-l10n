@@ -8,7 +8,7 @@
 <!ENTITY filterName.accesskey "ν">
 
 <!ENTITY junk.label "Ανεπιθύμητα">
-<!ENTITY notJunk.label "Επιθυμητή αλληλογραφία">
+<!ENTITY notJunk.label "Επιθυμητά">
 
 <!ENTITY lowestPriorityCmd.label "Κατώτατη">
 <!ENTITY lowPriorityCmd.label "Χαμηλή">
@@ -44,8 +44,8 @@
 <!ENTITY markMessageUnread.label "Επισήμανση ως μη αναγνωσμένο">
 <!ENTITY markMessageStarred.label "Προσθήκη αστεριού">
 <!ENTITY setPriority.label "Ορισμός προτεραιότητας σε">
-<!ENTITY addTag.label "Ετικέτα στο μήνυμα">
-<!ENTITY setJunkScore.label "Ορισμός κατάστασης ανεπιθύμητου σε">
+<!ENTITY addTag.label "Προσθήκη ετικέτας στο μήνυμα">
+<!ENTITY setJunkScore.label "Ορισμός κατάστασης σε">
 <!ENTITY deleteMessage.label "Διαγραφή μηνύματος">
 <!ENTITY deleteFromPOP.label "Διαγραφή από διακομιστή POP">
 <!ENTITY fetchFromPOP.label "Λήψη από διακομιστή POP">
