@@ -17,42 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = අධිකාරීන්
 
-certmgr-detail-general-tab-title =
-    .label = පොදු
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = විස්තර
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = සහතිකය පිරික්සා බලමින්…
-
-certmgr-subject-label = ලබන්නා
-
-certmgr-issuer-label = නිකුත් කරන්නා
-
-certmgr-period-of-validity = වලංගු කාලය
-
-certmgr-fingerprints = ඇඟිලි සළකුණු
-
-certmgr-cert-detail =
-    .title = සහතිකයේ තොරතුරු
-    .buttonlabelaccept = වසන්න
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = පොදු නාමය (CN)
-
-certmgr-cert-detail-org = සංවිධානය
-
-certmgr-cert-detail-orgunit = සංවිධානාත්මක ඒකකය (OU)
-
-certmgr-cert-detail-serial-number = අනු ක්‍රමාංකය
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256ඇඟිලි සළකුණ
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 ඇඟිලි සළකුණ
-
 certmgr-edit-ca-cert =
     .title = CA සහතික විශ්වාස සිටුවම් සකසන්න
     .style = width: 48em;
@@ -81,12 +45,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = ආරක්ෂණ උපාංගය
 
-certmgr-begins-on = අරඹන්නේ
-
 certmgr-begins-label =
     .label = අරඹන්නේ
-
-certmgr-expires-on = අවලංගු වන දිනය
 
 certmgr-expires-label =
     .label = අවලංගු වන දිනය
@@ -128,18 +88,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = ආයාත…
     .accesskey = m
-
-certmgr-details =
-    .value = සහතිකයේ ක්‍ෂේත්‍ර
-    .accesskey = F
-
-certmgr-fields =
-    .value = ක්‍ෂේත්‍ර අගය
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = සහතික ධූරාවලිය
-    .accesskey = H
 
 certmgr-add-exception =
     .label = හැරදැමීමක් එක් කරන්න…
@@ -203,12 +151,6 @@ delete-user-cert-confirm = මෙම සහතික මැකීමට අව�
 delete-user-cert-impact = ඔබ ඔබගේම සහතිකයක් මැකුවහොත්, ඔබේ අනන්‍යතාවය දැක්වීමට තවදුරටත් එය භාවිතා කළ නොහැකි ය.
 
 
-delete-ssl-cert-title =
-    .title = සේවාදායක සහතික හැරදැමීම් මකන්න
-delete-ssl-cert-confirm = ඔබට විශ්වාසද? ඔබට මෙම සේවාදායක හැරදැමීම් මැකීමට අවශ්‍යද?
-delete-ssl-cert-impact = If you delete a server exception, you restore the usual security checks for that server and require it uses a valid certificate.
-
-
 delete-ca-cert-title =
     .title = Delete or Distrust CA Certificates
 delete-ca-cert-confirm = You have requested to delete these CA certificates. For built-in certificates all trust will be removed, which has the same effect. Are you sure you want to delete or distrust?
@@ -221,38 +163,6 @@ delete-email-cert-confirm = මෙම පුද්ගලයින්ගේ ව�
 delete-email-cert-impact = ඔබ කිසිවෙකුගේ විද්‍යුත් තැපැල් සහතිකයක් මැකුවහොත් එම පුද්ගලයාට කිසිවිටෙක සංකේතාංකනය කළ විද්‍යෘත් තැපැලක් යැවිය නොහැක.
 
 ## Cert Viewer
-
-not-present =
-    .value = <සහතිකයේ කොටසක් නොවේ>
-
-# Cert verification
-cert-verified = මෙම සහතිකය පහත දැක්වෙන පරිශීලකයන් සඳහා සත්‍යාපනය කර ඇත:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL සේවාලභි සහතිකය
-
-verify-ssl-server =
-    .value = SSL සේවාදායක සහතිකය
-
-verify-ssl-ca =
-    .value = SSL සහතික අධිකාරිය
-
-verify-email-signer =
-    .value = ඊ-තැපැල් අත්සන් සහතිකය
-
-verify-email-recip =
-    .value = ඊ-තැපැල් ලබන්නාගේ සහතිකය
-
-# Cert verification
-cert-not-verified-cert-revoked = සහතිකය අවලංගුවු බැවින් මෙම සහතිකය සත්‍යාපනය කළ නොහැකි විය.
-cert-not-verified-cert-expired = සහතිකය කල්ඉක්මවු බැවින් මෙම සහතිකය සත්‍යාපනය කළ නොහැකි විය.
-cert-not-verified-cert-not-trusted = සහතිකය සැකසහිත බැවින් මෙම සහතිකය සත්‍යාපනය කළ නොහැකි විය.
-cert-not-verified-issuer-not-trusted = නිකුත් කරන්නා සැකසහිත බැවින් මෙම සහතිකය සත්‍යාපනය කළ නොහැකි විය.
-cert-not-verified-issuer-unknown = නිකුත් කරන්නා නොදන්නා බැවින් මෙම සහතිකය සත්‍යාපනය කළ නොහැකි විය.
-cert-not-verified-ca-invalid = CA සහතිකය සාවද්‍ය බැවින් මෙම සහතිකය සත්‍යාපනය කළ නොහැකි විය.
-cert-not-verified_algorithm-disabled = ආරක්ශාකාරී නොවන බැවින් අක්‍රීය කළ ඇල්ගොරිතමයක් භාවිතයෙන් සන් කර ඇති නිසා මෙම සහතිකය තහවුරු කළ නොහැක.
-cert-not-verified-unknown = නොදන්නා හේතුවක් මත මෙම සහතිකය සත්‍යාපනය කළ නොහැකි විය.
 
 ## Used to show whether an override is temporary or permanent
 

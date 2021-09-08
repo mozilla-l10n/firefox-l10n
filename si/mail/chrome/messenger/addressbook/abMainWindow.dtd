@@ -27,12 +27,6 @@
 <!ENTITY closeCmd.label                                 "වසන්න">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "c">
-<!ENTITY printSetupCmd.label                            "පිටු සකසන්න...">
-<!ENTITY printSetupCmd.accesskey                        "u">
-<!ENTITY printPreviewContactCmd.label                   "සබඳතා මුද්‍රණ පෙර දැක්ම">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "ලිපින පොතේ මුද්‍රණ පෙර දැක්ම">
-<!ENTITY printPreviewAddressBook.accesskey              "B">
 <!ENTITY printContactCmd.label                          "සබඳතාව මුද්‍රණය…">
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "P">
@@ -95,8 +89,6 @@
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "නිර්යාත...">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmdUnix.label                       "මනාපයන්">
-<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newContactButton.label                         "නව සබඳතාවක්">

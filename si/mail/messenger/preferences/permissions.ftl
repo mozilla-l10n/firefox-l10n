@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = හැරදැමීම්
     .style = width: 36em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = වෙබ් අඩවි ලිපිනය:
     .accesskey = d

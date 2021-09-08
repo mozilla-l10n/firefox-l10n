@@ -12,11 +12,13 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-get-started = අරඹන්න
-
 ## Welcome modal dialog strings
 
 ### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
 
@@ -26,25 +28,11 @@ onboarding-welcome-header = { -brand-short-name } වෙත සාදරයෙ�
 
 onboarding-start-browsing-button-label = ගවේෂණය අරඹන්න
 
-onboarding-cards-dismiss =
-    .title = ඉවත් කරන්න
-    .aria-label = ඉවත් කරන්න
-
 ## Welcome full page string
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-learn-more-link = Firefox ගිණුම් ගැන වැඩි දුර දැනගන්න
-
-onboarding-sync-form-input =
-    .placeholder = විද්‍යුත් තැපෑල
-
-onboarding-sync-form-continue-button = ඉදිරියට
-onboarding-sync-form-skip-login-button = මෙම පියවර මගහරින්න
-
 ## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = ඔබගේ විද්‍යුත් තැපැල් ලිපිනය ඇතුලත් කරන්න
 
 
 ## These are individual benefit messages shown with an image, title and
@@ -61,19 +49,11 @@ onboarding-sync-form-header = ඔබගේ විද්‍යුත් තැප
 
 ## Message strings belonging to the Return to AMO flow
 
-return-to-amo-extension-button = දිගුව එක් කරන්න
-return-to-amo-get-started-button = { -brand-short-name } සමඟ ආරම්භ කරන්න.
-
 ## Custom Return To AMO onboarding strings
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+## Multistage onboarding strings (about:welcome pages)
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -90,4 +70,11 @@ return-to-amo-get-started-button = { -brand-short-name } සමඟ ආරම්�
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 

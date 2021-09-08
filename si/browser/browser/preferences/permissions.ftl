@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = සියලුම ජාල අඩවි ඉවත් කරන්න
     .accesskey = e
 
-permissions-button-cancel =
-    .label = අවලංගු කරන්න
-    .accesskey = C
-
-permissions-button-ok =
-    .label = වෙනස්කම් සුරකින්න
-    .accesskey = S
-
 permissions-searchbox =
     .placeholder = වෙබ් අඩවිය සොයන්න
 

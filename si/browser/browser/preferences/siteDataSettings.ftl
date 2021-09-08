@@ -20,14 +20,6 @@ site-data-remove-selected =
     .label = තෝරාගත් එක ඉවත් කරන්න
     .accesskey = r
 
-site-data-button-cancel =
-    .label = වලක්වන්න
-    .accesskey = C
-
-site-data-button-save =
-    .label = වෙනස්කම් සුරකින්න
-    .accesskey = a
-
 site-data-remove-all =
     .label = සියල්ල ඉවත් කරන්න
     .accesskey = e

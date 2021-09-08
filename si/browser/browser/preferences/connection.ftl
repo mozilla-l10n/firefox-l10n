@@ -37,11 +37,6 @@ connection-proxy-http-port = පේනුව
 connection-proxy-ssl-port = පේනුව
     .accesskey = o
 
-connection-proxy-ftp = FTP ප්‍රොක්සි
-    .accesskey = F
-connection-proxy-ftp-port = පේනුව
-    .accesskey = r
-
 connection-proxy-socks = SOCKS Host
     .accesskey = C
 connection-proxy-socks-port = පේනුව

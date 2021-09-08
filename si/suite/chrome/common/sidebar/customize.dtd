@@ -4,12 +4,6 @@
 
 <!-- extracted from ./customize.xul -->
 
-<!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "Customize &sidebarName;">
-<!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Tabs in &sidebarName;:">
-<!ENTITY sidebar.customize.current.accesskey    "T">
-
 <!ENTITY sidebar.customize.customize.label      "Customize Tab…">
 <!ENTITY sidebar.customize.customize.accesskey  "C">
 <!ENTITY sidebar.customize.remove.label         "Remove">

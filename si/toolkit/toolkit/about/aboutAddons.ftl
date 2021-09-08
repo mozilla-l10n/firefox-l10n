@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = ඇඩෝන කළමනාකරු
-
 addons-page-title = ඇඩෝන කළමනාකරු
 
 search-header =
@@ -34,61 +31,11 @@ help-button = ඇඩෝන සහාය
 sidebar-help-button-title =
     .title = ඇඩෝන සහාය
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } විකල්ප
-       *[other] { -brand-short-name } අභිප්‍රේත
-    }
-
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } විකල්ප
-           *[other] { -brand-short-name } අභිප්‍රේත
-        }
-
 show-unsigned-extensions-button =
     .label = ඇතැම් දිගු තහවුරු කළ නොහැක
 
 show-all-extensions-button =
     .label = සියළු දිගු පෙන්වන්න
-
-cmd-show-details =
-    .label = තවත් තොරතුරු පෙන්වන්න
-    .accesskey = S
-
-cmd-find-updates =
-    .label = යාවත්කාලීන සොයන්න
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] විකල්ප
-           *[other] මනාපයන්
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = තේමාව දමන්න
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = තේමාව දැමීම නවතන්න
-    .accesskey = W
-
-cmd-install-addon =
-    .label = ස්ථාපනය කරන්න
-    .accesskey = I
-
-cmd-contribute =
-    .label = දායකවන්න
-    .accesskey = C
-    .tooltiptext = මෙම ඇඩෝනයේ සංවර්ධනය වෙනුවෙන් දායකවන්න
 
 detail-version =
     .label = න්කුතුව

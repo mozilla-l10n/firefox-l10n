@@ -13,11 +13,6 @@ crashes-id = වාර්තා අංකය
 crashes-send-date = පළකළ
 crashes-all-reports = සියළු බිදවැටුම් වාර්තා
 crashes-no-config = මෙම යෙදුම බිඳවැටුම් වාර්ථා පෙන්වීමට සකසා නොමැත.
-extensions-title = දිගුකිරීම්
-extensions-name = නම
-extensions-enabled = බලැති (Enabled)
-extensions-version = නිකුතුව
-extensions-id = ID
 support-addons-name = නම
 support-addons-version = නිකුතුව
 support-addons-id = ID
@@ -84,8 +79,6 @@ sandbox-title = සෑන්ඩ්බොක්ස්
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-args = තර්ක
-safe-mode-title = ආරක්ෂිත ප්‍රකාරය උත්සහ කරන්න
-restart-in-safe-mode-label = ඇඩෝන අක්‍රීය කර යළි ආරම්භ කරන්න…
 
 ## Media titles
 
@@ -220,14 +213,6 @@ launcher-process-status-unknown = නොදන්නා තත්වයකි
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = පරිශීලක විසින් සක්‍රීය කළ
-multi-process-status-1 = පෙරනිමියෙන් සක්‍රීය කළ
-multi-process-status-2 = අක්‍රීය කළ
-multi-process-status-4 = පිවිසුම්කාරක මෙවලම් මගින් අක්‍රීය කළ
-multi-process-status-6 = සහය නොදක්වන පෙළ ආදානයක් නිසා අක්‍රීය කර ඇත
-multi-process-status-7 = ඇඩෝන මගින් අක්‍රීය කර ඇත
-multi-process-status-8 = බලාත්මකව අක්‍රීය කර ඇත
-multi-process-status-unknown = නොදන්නා තත්ත්වයකි
 
 async-pan-zoom = අසමමුහූර්තක Pan/Zoom
 apz-none = නොමැත

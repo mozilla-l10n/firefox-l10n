@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "නව">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "ලිපියක්">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "ලිපින පොතේ සබඳතාවක්...">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "ඇමුණුම්">
 <!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "ගොනු(ව)...">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "ගොනුඈඳුම">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "වෙබ් පිටුවක්...">
@@ -48,8 +43,6 @@
 <!ENTITY sendLaterCmd.label "පසුව යවන්න">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "පිටු සැකසුම...">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "මුද්‍රණය...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
@@ -164,9 +157,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "ලිපින පොත">
 <!ENTITY addressBookCmd.accesskey "A">
-<!ENTITY addressBookCmd.key "B">
-<!ENTITY preferencesCmdUnix.label       "මනාපයන්">
-<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+<!ENTITY addressBookCmd.key "B"> 
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "M">
@@ -179,7 +170,6 @@
 <!ENTITY sendButton.label "යවන්න">
 <!ENTITY quoteButton.label "උපුටා දක්වන්න">
 <!ENTITY addressButton.label "සබඳතා">
-<!ENTITY attachButton.label "ඇමුණුම්">
 <!ENTITY spellingButton.label "අක්ෂර වින්‍යාසය">
 <!ENTITY saveButton.label "සුරකින්න">
 
@@ -247,8 +237,6 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "සියල්ල තෝරන්න">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "ගොනු(ව) අමුණන්න...">
-<!ENTITY attachFile.accesskey "F">
 <!ENTITY attachCloud.label "ගොනුඈඳුම…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "මෙයට හරවන්න…">

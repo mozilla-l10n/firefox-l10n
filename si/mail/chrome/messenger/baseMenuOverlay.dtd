@@ -11,8 +11,3 @@
 <!ENTITY helpMenuWin.accesskey "H">
 
 
-<!ENTITY helpTroubleshootingInfo.label "සදොස් සෙවීමේ තොරතුරු">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpSafeMode.label "ඇඩෝන අබල (Disable) කර යළි-අරඹන්න…">
-<!ENTITY helpSafeMode.accesskey "R">
-

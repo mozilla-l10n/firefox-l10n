@@ -107,9 +107,6 @@ menu-file-go-offline =
 menu-edit =
     .label = සැකසුම්
     .accesskey = E
-menu-edit-find-on =
-    .label = මේ පිටුවේ සොයන්න...
-    .accesskey = F
 menu-edit-find-again =
     .label = ඊළඟ ගැලපුම සොයන්න
     .accesskey = g
@@ -125,9 +122,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = මෙවලම් තීරු
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = රිසිකරණය...
-    .accesskey = C
 menu-view-sidebar =
     .label = පැති තීරුව
     .accesskey = e
@@ -158,9 +152,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = මූලික පිටු මෝස්තරය
     .accesskey = B
-menu-view-charset =
-    .label = පෙළ සංකේතනය
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -209,10 +200,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = පිටු සලකුණු
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = සියළු පිටුසලකුණු පෙන්වන්න…
-menu-bookmark-this-page =
-    .label = මෙම පිටුව සලකුණු කරගන්න
 menu-bookmark-edit =
     .label = මෙම පිටු සලකුණ සකසන්න
 menu-bookmarks-all-tabs =
@@ -232,32 +219,15 @@ menu-tools =
 menu-tools-downloads =
     .label = බාගැනිම්
     .accesskey = D
-menu-tools-addons =
-    .label = ඇඩෝන
-    .accesskey = A
 menu-tools-sync-now =
     .label = දැන් සම්මුහුර්ත කරන්න
     .accesskey = S
-menu-tools-web-developer =
-    .label = වෙබ් සංවර්ධකයා
-    .accesskey = W
 menu-tools-page-source =
     .label = පිටුවේ මූලය
     .accesskey = o
 menu-tools-page-info =
     .label = පිටුවේ තොරතුරු
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] විකල්ප...
-           *[other] අභිප්‍රේත
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -289,29 +259,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = උදව්
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } උදව්
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } සංචාරය
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = යතුරු පුවරු කෙටිමං
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = දෝෂ සෙවීමේ තොරතුරු
-    .accesskey = T
 menu-help-report-site-issue =
     .label = අඩවියේ දෝශය වාර්ථා කරන්න…
 menu-help-feedback-page =
     .label = ප්‍රතිචාරය යවන්න…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = ඇඩෝන දුබල කර යළි-අරඹන්න…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = සක්‍රීය කළ ඇඩෝන සමඟ යළි අරඹන්න
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
