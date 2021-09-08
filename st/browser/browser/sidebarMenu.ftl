@@ -4,7 +4,9 @@
 
 sidebar-menu-bookmarks =
     .label = Ditshwayabuka
+
 sidebar-menu-history =
     .label = Histori
+
 sidebar-close-button =
     .tooltiptext = Kwala mola o lehlakoreng

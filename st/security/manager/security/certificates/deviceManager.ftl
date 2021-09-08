@@ -101,8 +101,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Nomoro ya Seriale
 
-fips-nonempty-password-required = Mokgwa wa FIPS o hloka hore o be le Phasewete e Kgolo e setilweng bakeng sa sesebediswa sa setifikeiti sa tshireletseho ka seng. Ka kopo seta phasewete pele o leka ho bulela mokgwa wa FIPS.
-
 add-module-failure = Ha e kgone ho eketsa mojule
 del-module-warning = Na o tiile o batla ho phumula mojule oo wa tshireletseho?
 del-module-error = Ha e kgone ho phumula mojule

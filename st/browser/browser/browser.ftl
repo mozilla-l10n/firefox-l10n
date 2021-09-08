@@ -106,6 +106,7 @@ urlbar-go-button =
 
 bookmarks-sidebar-content =
     .aria-label = Ditshwayabuka
+
 bookmarks-toolbar-menu =
     .label = Thulebara ya Ditshwayabuka
 bookmarks-toolbar-placeholder =
@@ -152,6 +153,7 @@ more-menu-go-offline =
 popups-infobar-allow =
     .label = Dumella di-popup tsa { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Thibela di-popup tsa { $uriHost }
     .accesskey = p
@@ -161,3 +163,4 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Se bontshe molaetsa ona ha di-popup di thibetswe
     .accesskey = D
+

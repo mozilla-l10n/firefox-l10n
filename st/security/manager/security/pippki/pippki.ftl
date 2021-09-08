@@ -6,9 +6,6 @@ password-quality-meter = Mitara ya boleng ba phasewete
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Fetola Phasewete e Kgolo
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Sesebediswa sa Tshireletseho: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Phasewete e ntjha (hape):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Seta botjha Phasewete e Kgolo
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Seta botjha
-reset-password-text = Haeba o seta botjha phasewete e kgolo ya hao, diphasewete tsohle tsa hao tsa webe le imeile, data ya foromo, disetifikeiti tsa hao, le dinotlolo tsa poraefete di tla lebalwa. Na o tiile o batla ho seta botjha phasewete e kgolo ya hao?
 
 ## Downloading cert dialog
 

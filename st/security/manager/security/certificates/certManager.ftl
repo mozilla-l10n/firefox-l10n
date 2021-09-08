@@ -11,27 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Bolaodi
 
-certmgr-subject-label = Se Fanwe Ho
-
-certmgr-issuer-label = Se Fanwe Ke
-
-certmgr-fingerprints = Kgatisomenwana
-
-certmgr-cert-detail =
-    .title = Dintlha ka Setifikeiti
-    .buttonlabelaccept = Close
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = Lebitso le Tlwaelehileng (CN)
-
-certmgr-cert-detail-org = Mokgatlo (O)
-
-certmgr-cert-detail-orgunit = Yuniti ya Mokgatlo (OU)
-
-certmgr-cert-detail-serial-number = Nomoro ya Seriale
-
-certmgr-cert-detail-sha-1-fingerprint = Kgatisomonwana ya SHA1
-
 certmgr-edit-ca-cert =
     .title = Edita Disetwa tsa setifikeiti sa CA se tshwetjwang
     .style = width: 48em;
@@ -54,8 +33,6 @@ certmgr-cert-name =
 certmgr-token-name =
     .label = Sesebediswa sa Tshireletseho
 
-certmgr-expires-on = E fela ka La
-
 certmgr-expires-label =
     .label = E fela ka La
 
@@ -64,14 +41,6 @@ certmgr-email =
 
 certmgr-serial =
     .label = Nomoro ya Seriale
-
-certmgr-details =
-    .value = Certificate Fields
-    .accesskey = F
-
-certmgr-fields =
-    .value = Field Value
-    .accesskey = V
 
 pk11-bad-password = Phasewete e kentsweng e fosahetse.
 pkcs12-decode-err = E hlolehile ho dekhouta faele.  Lebaka e lokela ho ba le leng dipakeng tsa hore ha se ya fomate ya PKCS #12, e senyehile, kapa phasewete eo o e kentseng e fosahetse.
@@ -111,37 +80,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = Na o na le bonnete ba hore o batla ho phumula disetifikeiti tsa imeile tsa batho baa?
 
 ## Cert Viewer
-
-not-present =
-    .value = <Ha se Karolo Ya Setifiketi>
-
-# Cert verification
-cert-verified = Setifikeiti sena ha se a hlahlobiswa bakeng sa ditshebediso tse latelang:
-
-# Add usage
-verify-ssl-client =
-    .value = Setifikeiti sa SSL sa Tlelaente
-
-verify-ssl-server =
-    .value = Setifikeiti sa Seva ya SSL
-
-verify-ssl-ca =
-    .value = Taolo ya Setifikeiti sa SSL
-
-verify-email-signer =
-    .value = Setifikeiti sa Sesaeni sa Imeile
-
-verify-email-recip =
-    .value = Setifikeiti sa Moamohedi wa Imeile
-
-# Cert verification
-cert-not-verified-cert-revoked = Setifikeiti sena ha se a kgona ho tiisetswa hobane se hlakotswe.
-cert-not-verified-cert-expired = Setifikeiti sena ha se a kgona ho tiisetswa hobane se feletswe ke nako.
-cert-not-verified-cert-not-trusted = Setifikeiti sena ha se a kgona ho tiisetswa hobane ha se tshetjwe.
-cert-not-verified-issuer-not-trusted = Setifikeiti sena ha se a kgona ho tiisetswa hobane mofani ha a tshetjwe.
-cert-not-verified-issuer-unknown = Setifikeiti sena ha se a kgona ho tiisetswa hobane mofani ha a tsejwe.
-cert-not-verified-ca-invalid = Setifikeiti sena ha se a kgona ho tiisetswa hobane setifikeiti sa CA se fosahetse.
-cert-not-verified-unknown = Setifikeiti sena ha se a kgona ho tiisetswa ka mabaka a sa tsejweng.
 
 ## Used to show whether an override is temporary or permanent
 
