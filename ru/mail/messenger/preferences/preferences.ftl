@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Закрыть
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Настройки
-           *[other] Настройки
-        }
-
 preferences-doc-title = Настройки
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Отменить
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продолжить
 
-addons-button = Расширения и темы
-
 account-button = Параметры учётной записи
 open-addons-sidebar-button = Дополнения и темы
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Чтобы создать мастер-пароль, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = создать мастер-пароль
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Чтобы создать мастер-пароль, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Настроить…
     .accesskey = и
-
-tray-icon-label =
-    .label = Показать значок в трее
-    .accesskey = о
 
 biff-use-system-alert =
     .label = Использовать системные уведомления
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Цвет:
     .accesskey = в
-
-search-input =
-    .placeholder = Поиск
 
 search-handler-table =
     .placeholder = Фильтр типов контента и действий
@@ -723,16 +698,6 @@ passwords-button =
     .label = Сохранённые пароли…
     .accesskey = х
 
-master-password-description = Мастер-пароль защищает все ваши пароли, но вам нужно будет вводить его один раз в сессию.
-
-master-password-label =
-    .label = Использовать мастер-пароль
-    .accesskey = о
-
-master-password-button =
-    .label = Сменить мастер-пароль…
-    .accesskey = е
-
 
 primary-password-description = Мастер-пароль защищает все ваши пароли, но вам нужно будет вводить его один раз в сессию.
 
@@ -913,26 +878,6 @@ no-preview-description = Эта тема повреждена или в наст
 chat-variant-label =
     .value = Вариант:
     .accesskey = а
-
-chat-header-label =
-    .label = Отображать заголовок
-    .accesskey = ж
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Найти в Настройках
-           *[other] Найти в Настройках
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

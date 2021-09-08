@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Сохранить страницу как…">
 <!ENTITY savePageCmd.accesskey "х">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Параметры страницы…">
-<!ENTITY pageSetupCmd.accesskey "м">
-<!ENTITY printPreviewCmd.label "Предварительный просмотр">
-<!ENTITY printPreviewCmd.accesskey "е">
 <!ENTITY printCmd.label "Печать…">
 <!ENTITY printCmd.accesskey "ч">
 <!ENTITY printCmd.commandkey "P">

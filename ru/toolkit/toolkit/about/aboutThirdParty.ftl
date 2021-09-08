@@ -7,9 +7,6 @@ third-party-section-title = Список сторонних модулей в { 
 
 third-party-intro = На этой странице отображены сторонние модули, которые были внедрены в ваш { -brand-short-name }. Любой модуль, не подписанный Microsoft или { -vendor-short-name }, считается сторонним.
 
-third-party-header-module-list = Список модулей
-third-party-header-loading-events = Загрузка событий
-
 third-party-message-empty = Сторонних модулей не обнаружено.
 third-party-message-no-duration = Не записано
 

@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Подключить другое устройство
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Установите <a data-l10n-name="connect-another-device">Firefox на ваше мобильное устройство</a>, если вы ещё этого не сделали.
-
-fxa-qrcode-heading-phase2 = 2. Войдите в { -sync-brand-short-name(case: "accusative") }, или на Android отсканируйте код сопряжения из параметров { -sync-brand-short-name(case: "genitive") }.
-
 fxa-qrcode-heading-step1 = 1. Установите <a data-l10n-name="connect-another-device">Firefox на ваше мобильное устройство</a>, если вы ещё этого не сделали.
 
 fxa-qrcode-heading-step2 = 2. Откройте Firefox на вашем мобильном устройстве.

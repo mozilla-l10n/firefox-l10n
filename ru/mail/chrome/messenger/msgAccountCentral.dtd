@@ -13,7 +13,6 @@
 <!ENTITY subscribeFeeds.label         "Управление подписками">
 
 <!ENTITY chat.label                   "Чат">
-<!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "Учётные записи">
 <!ENTITY subscribeImapFolders.label   "Управление подписками на папки">

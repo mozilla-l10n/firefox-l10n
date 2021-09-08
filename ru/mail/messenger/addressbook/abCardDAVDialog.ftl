@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Продолжить
     .buttonaccesskeyaccept = ж
 
-carddav-experimental-warning = Поддержка адресной книги CardDAV является экспериментальной и может навсегда повредить ваши данные. Используйте на свой страх и риск.
-
-carddav-provider-label =
-    .value = Провайдер CardDAV:
-    .accesskey = й
-
-carddav-provider-option-other = Другой провайдер…
-
-carddav-url-label =
-    .value = URL CardDAV:
-    .accesskey = V
-
 carddav-username-label =
     .value = Имя пользователя:
     .accesskey = я
-carddav-username-input =
-    .placeholder = email@test.ru
-
-carddav-password-label =
-    .value = Пароль:
-    .accesskey = а
-carddav-password-input =
-    .placeholder = Пароль
-
-carddav-remember-password =
-    .label = Запомнить пароль
-    .accesskey = п
 
 carddav-location-label =
     .value = Адрес:

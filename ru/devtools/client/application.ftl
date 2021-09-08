@@ -28,16 +28,6 @@ serviceworker-worker-unregister = Отменить регистрацию
 serviceworker-worker-debug = Отладить
     .title = Только запущенные service workers могут быть отлажены
 
-# Text for the debug link displayed for an already started Service Worker, when we
-# are in multi e10s mode, which effectively disables this link.
-serviceworker-worker-debug-forbidden = Отладить
-    .title = Вы можете отлаживать service workers только при отключённой multi e10s
-
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start2 = Запустить
-    .title = Вы можете запускать service workers только при отключённой multi e10s
-
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Исследовать
@@ -50,12 +40,6 @@ serviceworker-worker-start3 = Запустить
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Обновлён <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = Источник
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = Состояние
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -65,26 +49,6 @@ serviceworker-worker-status-running = Выполняется
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Остановлен
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Вам нужно зарегистрировать Service Worker, чтобы исследовать его здесь. <a>Подробнее</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = Если на текущей странице должен быть service worker, то попробуйте следующее
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = Поищите ошибки в Консоли. <a>Открыть Консоль</a>
-
-# Suggestion to use the debugger to investigate why a service worker is not registered.
-# Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Пройдите по шагам процедуру регистрации cвоего Service Worker и поищите исключения. <a>Открыть Отладчик</a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Исследуйте Service Worker'ы с других доменов. <a>Открыть about:debugging</a>
 
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = Service worker'ов не найдено
@@ -103,10 +67,6 @@ serviceworker-empty-suggestions-aboutdebugging2 = Просмотр service worke
 
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Манифест приложения
-
-# Header for the Manifest page when there's no manifest to inspect
-# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = Вам необходимо добавить манифест веб-приложения, чтобы исследовать его здесь. <a>Подробнее</a>
 
 # Header for the Manifest page when there's no manifest to inspect
 manifest-empty-intro2 = Манифест веб-приложения не обнаружен

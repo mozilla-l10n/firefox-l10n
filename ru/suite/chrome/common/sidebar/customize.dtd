@@ -4,12 +4,6 @@
 
 <!-- extracted from ./customize.xul -->
 
-<!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "Настройка «&sidebarName;»">
-<!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Разделы в «&sidebarName;»:">
-<!ENTITY sidebar.customize.current.accesskey    "з">
-
 <!ENTITY sidebar.customize.title                "Настроить боковую панель">
 <!ENTITY sidebar.customize.current2.label       "Разделы на боковой панели:">
 <!ENTITY sidebar.customize.current2.accesskey   "ы">

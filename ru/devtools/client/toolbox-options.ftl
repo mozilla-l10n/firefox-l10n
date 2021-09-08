@@ -66,11 +66,6 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = Настройки снятия скриншотов
 
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Копировать скриншот в буфер обмена
-options-screenshot-clipboard-tooltip =
-    .title = Копировать скриншот прямо в буфер обмена
-
-# Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Скриншот только в буфер обмена
 options-screenshot-clipboard-tooltip2 =
     .title = Сохранять скриншот прямо в буфер обмена

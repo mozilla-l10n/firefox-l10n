@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = У вас хранятся сертификаты от следующих организаций, служащие для вашей идентификации
 certmgr-remembered = Эти сертификаты используются для идентификации вас на веб-сайтах
 certmgr-people = У вас хранятся сертификаты, служащие для идентификации следующих лиц
-certmgr-servers = У вас хранятся сертификаты, служащие для идентификации следующих серверов
 certmgr-server = В этих записях перечислены исключения для ошибок серверных сертификатов
 certmgr-ca = У вас хранятся сертификаты, служащие для идентификации следующих центров сертификации
-
-certmgr-detail-general-tab-title =
-    .label = Основное
-    .accesskey = О
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Подробности
-    .accesskey = П
-
-certmgr-pending-label =
-    .value = Идёт проверка сертификата…
-
-certmgr-subject-label = Кому выдан
-
-certmgr-issuer-label = Кем выдан
-
-certmgr-period-of-validity = Срок действия
-
-certmgr-fingerprints = Отпечатки
-
-certmgr-cert-detail =
-    .title = Информация о сертификате
-    .buttonlabelaccept = Закрыть
-    .buttonaccesskeyaccept = а
-
-certmgr-cert-detail-commonname = Общее имя (CN)
-
-certmgr-cert-detail-org = Организация (O)
-
-certmgr-cert-detail-orgunit = Подразделение (OU)
-
-certmgr-cert-detail-serial-number = Серийный номер
-
-certmgr-cert-detail-sha-256-fingerprint = Отпечаток SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Отпечаток SHA1
 
 certmgr-edit-ca-cert =
     .title = Изменение степени доверия сертификату CA
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Устройство защиты
 
-certmgr-begins-on = Действителен с
-
 certmgr-begins-label =
     .label = Действителен с
-
-certmgr-expires-on = Действителен по
 
 certmgr-expires-label =
     .label = Действителен по
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Импортировать…
     .accesskey = м
-
-certmgr-details =
-    .value = Поля сертификатов
-    .accesskey = я
-
-certmgr-fields =
-    .value = Значение поля
-    .accesskey = ч
-
-certmgr-hierarchy =
-    .value = Иерархия сертификатов
-    .accesskey = х
 
 certmgr-add-exception =
     .label = Добавить исключение…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Вы уверены, что хотите удалит
 delete-user-cert-impact = После удаления одного из собственных сертификатов, вы больше не сможете использовать его для своей идентификации.
 
 
-delete-ssl-cert-title =
-    .title = Удаление исключений для сертификата сервера
-delete-ssl-cert-confirm = Вы уверены, что хотите удалить исключения для данного сервера?
-delete-ssl-cert-impact = Если вы удалите исключение для сервера, вы восстановите для данного сервера обычные проверки безопасности и потребуете от него использования действительного сертификата.
-
-
 delete-ssl-override-title =
     .title = Удаление исключения для сертификата сервера
 delete-ssl-override-confirm = Вы уверены, что хотите удалить исключение для данного сервера?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Сертификат с серийным номером: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Просмотр сертификата: «{ $certName }»
-
-not-present =
-    .value = <Не является частью сертификата>
-
-# Cert verification
-cert-verified = Данный сертификат был верифицирован для следующих назначений:
-
-# Add usage
-verify-ssl-client =
-    .value = Сертификат клиента SSL
-
-verify-ssl-server =
-    .value = Сертификат сервера SSL
-
-verify-ssl-ca =
-    .value = Центр сертификации SSL
-
-verify-email-signer =
-    .value = Сертификат электронной почты
-
-verify-email-recip =
-    .value = Сертификат адресата электронной почты
-
-# Cert verification
-cert-not-verified-cert-revoked = Верификация сертификата не удалась — он был отозван.
-cert-not-verified-cert-expired = Верификация сертификата не удалась — срок его действия истёк.
-cert-not-verified-cert-not-trusted = Верификация сертификата не удалась — к нему нет доверия.
-cert-not-verified-issuer-not-trusted = Верификация сертификата не удалась — выдавшая его сторона ненадежна.
-cert-not-verified-issuer-unknown = Верификация сертификата не удалась — выдавшая его сторона неизвестна.
-cert-not-verified-ca-invalid = Верификация сертификата не удалась — сертификат центра недействителен.
-cert-not-verified_algorithm-disabled = Верификация сертификата не удалась — он был подписан с использованием алгоритма подписи, который был отключён, так как алгоритм небезопасен.
-cert-not-verified-unknown = Верификация сертификата не удалась по неизвестным причинам.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Не отправлять сертификат клиента

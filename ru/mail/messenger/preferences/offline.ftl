@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Автоматически выбирать обнаруженное состояние подключения
     .accesskey = м
 
-startup-label = Ручной выбор состояния при запуске:
-
 offline-preference-startup-label = Ручной выбор состояния при запуске:
 
 status-radio-remember =
