@@ -18,10 +18,6 @@ site-data-remove-selected =
     .label = Garar la sèlèccion
     .accesskey = G
 
-site-data-button-cancel =
-    .label = Anular
-    .accesskey = A
-
 site-data-remove-all =
     .label = Tot garar
     .accesskey = T

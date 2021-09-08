@@ -5,12 +5,6 @@
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -18,12 +12,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -59,9 +47,6 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 
@@ -74,10 +59,6 @@ toolbar-button-page-save =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
-main-context-menu-copy-link =
-    .label = Copiar la localisacion du lim
-    .accesskey = a
-
 ## Media (video/audio) controls
 ##
 ## The accesskey for "Play" and "Pause" are the
@@ -89,10 +70,6 @@ main-context-menu-media-play =
     .accesskey = M
 
 ##
-
-main-context-menu-media-play-speed-normal =
-    .label = Normâl
-    .accesskey = N
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.

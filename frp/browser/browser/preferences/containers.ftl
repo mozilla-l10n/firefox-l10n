@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Apondre un novél contenòr
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Prèfèrences du contenòr { $name }
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Icona
 containers-color-label = Colòr
     .accesskey = C
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Fèt
-    .accesskey = F
 
 containers-color-blue =
     .label = Blu

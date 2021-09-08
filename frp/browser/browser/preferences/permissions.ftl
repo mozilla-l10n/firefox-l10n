@@ -31,10 +31,6 @@ permissions-remove-all =
     .label = Garar tuis los malyajos
     .accesskey = G
 
-permissions-button-cancel =
-    .label = Anular
-    .accesskey = A
-
 permissions-capabilities-allow =
     .label = Pèrmetre
 permissions-capabilities-block =

@@ -134,12 +134,6 @@ bookmark-this-page-shortcut =
 full-zoom-reduce-shortcut =
     .key = -
 
-# If in keyboard layouts popular for your locale you need to use the shift key
-# to access the original shortcuts, the following shortcuts can be used.
-# Otherwise their values should remain empty.
-full-zoom-reduce-shortcut-alt =
-    .key = { "" }
-
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
 

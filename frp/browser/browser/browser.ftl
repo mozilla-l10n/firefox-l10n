@@ -68,9 +68,6 @@ urlbar-plugins-notification-anchor =
 
 ## Page Action Context Menu
 
-page-action-remove-from-urlbar =
-    .label = Garar de la barra d’adrèce
-
 ## Page Action menu
 
 ## Auto-hide Context Menu
@@ -91,9 +88,6 @@ full-screen-autohide =
 
 
 ## Bookmark Panel
-
-bookmark-panel-done-button =
-    .label = Fèt
 
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
@@ -142,6 +136,8 @@ identity-remove-cert-exception =
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 
+## Labels shown above groups of urlbar results
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -189,4 +185,11 @@ bookmarks-toolbar-menu =
 
 
 ## Remote / Synced tabs
+
+##
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+##
 

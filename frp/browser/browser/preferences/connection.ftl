@@ -39,11 +39,6 @@ connection-proxy-http-port = Pòrt
 connection-proxy-ssl-port = Pòrt
     .accesskey = r
 
-connection-proxy-ftp = Sèrvòr mitan FTP
-    .accesskey = F
-connection-proxy-ftp-port = Pòrt
-    .accesskey = t
-
 connection-proxy-socks = Hôto SOCKS
     .accesskey = C
 connection-proxy-socks-port = Pòrt

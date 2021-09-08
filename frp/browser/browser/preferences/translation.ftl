@@ -24,7 +24,3 @@ translation-sites-button-remove-all =
     .label = Garar tuis los malyajos
     .accesskey = t
 
-translation-button-close =
-    .label = Sarrar
-    .accesskey = S
-

@@ -39,10 +39,6 @@ menu-file-print =
 
 ## View Menu
 
-menu-view-charset =
-    .label = Codâjo du tèxto
-    .accesskey = c
-
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
@@ -90,24 +86,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Ede
     .accesskey = E
-menu-help-product =
-    .label = Ede de { -brand-shorter-name }
-    .accesskey = E
-menu-help-show-tour =
-    .label = Visita de { -brand-shorter-name }
-    .accesskey = V
-menu-help-keyboard-shortcuts =
-    .label = Racorsa de claviér
-    .accesskey = R
-menu-help-troubleshooting-info =
-    .label = Enformacions de dèpanajo
-    .accesskey = E
 menu-help-feedback-page =
     .label = Balyér vo‛tr’opinion…
     .accesskey = B
-menu-help-safe-mode-without-addons =
-    .label = Renrayér aglètons dèsacitvâs…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = Renrayér aglètons acitvâs…
-    .accesskey = R

@@ -98,34 +98,3 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-name-arabic =
-    .label = Arabo
-fonts-languages-fallback-name-baltic =
-    .label = Baltico
-fonts-languages-fallback-name-ceiso =
-    .label = Eropa centrala, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Eropa centrala, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Ch·inès simplifiâ
-fonts-languages-fallback-name-traditional =
-    .label = Ch·inès tradicionèl
-fonts-languages-fallback-name-cyrillic =
-    .label = Cirilico
-fonts-languages-fallback-name-greek =
-    .label = Grèco
-fonts-languages-fallback-name-hebrew =
-    .label = Èbròs
-fonts-languages-fallback-name-japanese =
-    .label = J·aponès
-fonts-languages-fallback-name-korean =
-    .label = Corèyen
-fonts-languages-fallback-name-thai =
-    .label = Taylandès
-fonts-languages-fallback-name-turkish =
-    .label = Turco
-fonts-languages-fallback-name-vietnamese =
-    .label = Viètnamien
-fonts-languages-fallback-name-other =
-    .label = Âtros (inclus d’Eropa du cuchient)
-
