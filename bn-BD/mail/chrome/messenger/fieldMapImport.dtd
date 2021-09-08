@@ -2,10 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "ঠিকানা বই ইমপোর্ট">
-
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
-<!ENTITY fieldMapImport.recordNumber "রেকর্ডের জন্য ইমপোর্টকৃত ডাটা:">
 <!ENTITY fieldMapImport.next.label "পরর্বর্তী (N)">
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.label "পূর্ববর্তী (P)">

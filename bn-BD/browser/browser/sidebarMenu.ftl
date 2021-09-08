@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = বুকমার্ক
+
 sidebar-menu-history =
     .label = ইতিহাস
+
 sidebar-menu-synced-tabs =
     .label = সিঙ্ককৃত ট্যাব
+
 sidebar-menu-close =
     .label = সাইডবার বন্ধ করুন
+
 sidebar-close-button =
     .tooltiptext = সাইডবার বন্ধ করুন

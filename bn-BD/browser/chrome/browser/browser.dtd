@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "মেনু খুলুন">
-
 <!ENTITY navbarOverflow.label                "আরও টুল…">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "পিন ট্যাব">
-<!ENTITY  unpinTab.label                     "ট্যাব আনপিন b">
 
 <!ENTITY  listAllTabs.label      "সব ট্যাবের তালিকা">
 
@@ -25,44 +15,11 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "ফাইল খুলুন…">
 <!ENTITY printCmd.label "মুদ্রণ…">
 
-<!ENTITY taskManagerCmd.label "কাজ ব্যবস্থাপক">
-
 <!ENTITY menubarCmd.label "মেনু বার M">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY personalbarCmd.label "বুকমার্ক টুলবার B">
-<!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "বুকমার্ক টুলবারের আইটেম">
 
 <!ENTITY fullScreenCmd.label "পূর্ণ পর্দাজুড়ে প্রদর্শন">
 
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "এখন পূর্ণ পর্দায় রয়েছে">
-<!ENTITY fullscreenWarning.generic.label "এই ডকুমেন্ট এখন পূর্ণ পর্দায় রয়েছে">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "পূর্ণ পর্দা বন্ধ করুন (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "পূর্ণ পর্দা বন্ধ করুন (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "আপনার পয়েন্টারের নিয়ন্ত্রণ রয়েছে। পুনরায় নিয়ন্ত্রণ নিতে Esc চাপুন।">
-<!ENTITY pointerlockWarning.generic.label "এই নথিতে পয়েন্টারের নিয়ন্ত্রণ রয়েছে। পুনরায় নিয়ন্ত্রণ নিতে Esc চাপুন।">
-
-<!ENTITY showAllBookmarks2.label "সব বুকমার্ক প্রদর্শন">
-<!ENTITY recentBookmarks.label "সম্প্রতি বুকমার্ক করা">
-<!ENTITY bookmarksToolbarChevron.tooltip "আরও বুকমার্ক প্রদর্শন">
 
 <!ENTITY printButton.label            "মুদ্রণ">
 <!ENTITY printButton.tooltip          "এই পাতা মুদ্রণ">
@@ -74,28 +31,12 @@ can reach it easily. -->
 <!ENTITY homeButton.label             "নীড়">
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; নীড় পাতা">
 
-<!ENTITY bookmarksButton.label          "বুকমার্ক">
-
-<!ENTITY bookmarksSubview.label             "বুকমার্ক">
-<!ENTITY bookmarksMenuButton2.label         "বুকমার্ক মেনু">
-<!ENTITY bookmarksMenuButton.other.label    "অন্যান্য বুকমার্ক">
-<!ENTITY bookmarksMenuButton.mobile.label   "মোবাইলের বুকমার্ক">
-<!ENTITY viewBookmarksSidebar2.label        "বুকমার্ক সাইডবার প্রদর্শন">
-<!ENTITY hideBookmarksSidebar.label         "বুকমার্ক সাইডবার লুকাও">
-<!ENTITY viewBookmarksToolbar.label         "বুকমার্ক টুলবার প্রদর্শন">
-<!ENTITY hideBookmarksToolbar.label         "বুকমার্ক টুলবার লুকাও">
-<!ENTITY searchBookmarks.label              "বুকমার্ক অনুসন্ধান">
-<!ENTITY bookmarkingTools.label             "বুকমার্ক টুলসমূহ">
-<!ENTITY addBookmarksMenu.label             "টুলবারে বুকমার্ক মেনু যোগ করুন">
-<!ENTITY removeBookmarksMenu.label          "টুলবার থেকে বুকমার্ক মেনু অপসারণ">
-
 <!ENTITY historyButton.label            "ইতিহাস">
 
 <!ENTITY downloads.label              "ডাউনলোড">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "ডাউনলোড">
-<!ENTITY addons.label                 "অ্যাড-অন">
 
 <!ENTITY webDeveloperMenu.label       "ওয়েব ডেভেলপার">
 
@@ -111,27 +52,11 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "ইতিহাস">
 
-<!ENTITY historyUndoMenu.label "সম্প্রতি বন্ধ করা ট্যাব">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "সম্প্রতি বন্ধ করা উইন্ডো">
-
-<!ENTITY appMenuHistory.showAll.label "সব ইতিহাস প্রদর্শন">
-
-<!ENTITY appMenuHistory.clearRecent.label "সাম্প্রতিক ইতিহাস অপসারণ…">
-<!ENTITY appMenuHistory.restoreSession.label "পূর্ববর্তী সেশন পুনরুদ্ধার">
-<!ENTITY appMenuHistory.viewSidebar.label "ইতিহাস সাইডবার প্রদর্শন">
-<!ENTITY appMenuHistory.recentHistory.label "সাম্প্রতিক ইতিহাস">
-
 <!ENTITY appMenuHelp.label "সাহায্য">
-
-<!ENTITY appMenuRemoteTabs.label "সিঙ্ককৃত ট্যাব">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "কোন ট্যাব খোলা নেই">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "আরও দেখাও">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "এই ডিভাইস থেকে আরও ট্যাব দেখাও">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -146,11 +71,7 @@ can reach it easily. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "আপনি কি আপনার অন্যান্য ডিভাইসের ট্যাবসমূহ এখানে দেখতে চান?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "সিঙ্ক পছন্দসমূহ খুলুন">
 <!ENTITY appMenuRemoteTabs.unverified.label "আপনার অ্যাকাউন্ট যাচাই করা প্রয়োজন।">
-<!ENTITY appMenuRemoteTabs.managedevices.label "ডিভাইস ব্যবস্থাপনা…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "সিঙ্ককৃত ট্যাবগুলো সাইডবারে দেখুন">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "অন্য ডিভাইস সংযুক্ত করুন">
-
-<!ENTITY appMenuRecentHighlights.label "বর্তমান হাইলাইট">
 
 <!ENTITY customizeMenu.addToToolbar.label "টুলবারে যোগ করুন">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -162,8 +83,6 @@ can reach it easily. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "ওভারফ্লো মেনু হতে আনপিন করুন">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "টুলবার থেকে সরিয়ে ফেলুন R">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "আরও আইটেম যোগ করুন…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
@@ -181,13 +100,6 @@ can reach it easily. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
-<!ENTITY pageAction.copyLink.label    "লিঙ্ক অনুলিপি">
-
-<!ENTITY saveToPocketCmd.label        "Pocket এ পাতাটি সংরক্ষণ করুন">
-<!ENTITY pocketMenuitem.label         "Pocket তালিকা দেখুন">
-
-<!ENTITY emailPageCmd.label           "লিঙ্ক ইমেইল করুন... E">
-
 <!-- Media (video/audio) controls -->
 
 <!-- LOCALIZATION NOTE :
@@ -199,13 +111,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "বড় আকারে প্রদর্শন">
 
 <!ENTITY sidebarCloseButton.tooltip     "সাইডবার বন্ধ করুন">
-
-<!ENTITY quitApplicationCmdWin2.label       "প্রস্থান">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; থেকে প্রস্থান">
-<!ENTITY quitApplicationCmd.label       "প্রস্থান">
-<!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; থেকে প্রস্থান">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -228,27 +133,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "ব্রাউজার ট্যাব">
 
 
-<!ENTITY syncBrand.shortName.label    "সিঙ্ক">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "স্বয়ঙ্ক্রিয়-আড়াল">
-
-
 <!ENTITY uiTour.infoPanel.close "বন্ধ">
 
 <!ENTITY panicButton.thankyou.msg1                "আপনার সাম্প্রতিক ইতিহাস অপসারণ করা হয়েছে।">
 <!ENTITY panicButton.thankyou.msg2                "নিরাপদ ব্রাউজিং!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ধন্যবাদ!">
 
-<!ENTITY updateAvailable.panelUI.label "&brandShorterName; হালনাগাদ ডাউনলোড">
-
-<!ENTITY updateManual.panelUI.label "একটি নতুন &brandShorterName; কপি ডাউনলোড করুন">
-
-<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; হালনাগাদ করতে রিস্টার্ট করুন">
-
 <!ENTITY sendToDevice.syncNotReady.label "ডিভাইস সিঙ্ক হচ্ছে…">
-
-<!ENTITY pageAction.shareUrl.label "শেয়ার">
-<!ENTITY pageAction.shareMore.label "আরও...">
 
 <!ENTITY libraryButton.tooltip "ইতিহাস, সংরক্ষিত বুকমার্ক এবং আরও অনেক কিছু দেখুন">
 

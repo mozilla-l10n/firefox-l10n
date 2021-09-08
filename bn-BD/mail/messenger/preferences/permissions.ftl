@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = এক্সেপশন
     .style = width: 36em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = ওয়েব সাইটের ঠিকানা (d):
     .accesskey = d

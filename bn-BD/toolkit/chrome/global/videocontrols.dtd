@@ -11,10 +11,6 @@
 <!ENTITY castingButton.castingLabel "স্ক্রিনে কাস্ট করুন">
 <!ENTITY closedCaption.off "বন্ধ">
 
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "ভলিউম স্লাইডার">
-
 <!ENTITY error.aborted "ভিডিও লোড করা বন্ধ হয়েছে।">
 <!ENTITY error.network "একটি নেটওয়ার্ক ত্রুটির কারণে ভিডিও প্লেব্যাক বাতিল হয়েছে।">
 <!ENTITY error.decode "ভিডিও চালানো যায়নি কারণ ফাইলটি বিকৃত হয়েছে।">

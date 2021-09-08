@@ -157,9 +157,6 @@ bigger-size-item =
 smaller-size-item =
     .label = অপেক্ষাকৃত ছোট
 
-search-input =
-    .placeholder = অনুসন্ধান
-
 type-column-label =
     .label = বিষয়বস্তুর ধরন (T)
     .accesskey = T
@@ -306,16 +303,6 @@ passwords-description = সকল অ্যাকাউন্টের পাস
 passwords-button =
     .label = সংরক্ষিত পাসওয়ার্ড… (S)
     .accesskey = S
-
-master-password-description = মাস্টার পাসওয়ার্ড আপনার সকল পাসওয়ার্ড সুরক্ষিত রাখে, কিন্তু প্রতিটি সেশনে তা কমপক্ষে একবার প্রবেশ করাতে হবে।
-
-master-password-label =
-    .label = মাস্টার পাসওয়ার্ড ব্যবহার করুন (U)
-    .accesskey = U
-
-master-password-button =
-    .label = মাস্টার পাসওয়ার্ড পরিবর্তন... (C)
-    .accesskey = C
 
 
 junk-description = আপনার ডিফল্ট অপ্রয়োজনীয় মেইলের সেটিং নির্ধারণ করুন। অ্যাকাউন্ট অনুযায়ী অপ্রয়োজনীয় মেইলের বৈশিষ্ট্য নির্ধারণ করতে  অ্যাকাউন্ট সেটিং এ যান।
