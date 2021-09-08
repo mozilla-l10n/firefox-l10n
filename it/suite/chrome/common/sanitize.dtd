@@ -37,6 +37,5 @@
 <!ENTITY itemSessions.label              "Sessioni con autenticazione">
 <!ENTITY itemSessions.accesskey          "S">
 
-<!ENTITY sanitizeButton.label            "Svuota dati personali ora">
 <!ENTITY itemSessionsS.accesskey         "a">
 

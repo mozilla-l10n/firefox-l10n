@@ -39,8 +39,6 @@ about-debugging-sidebar-item-connect-button-connection-not-responding = Connessi
 
 about-debugging-sidebar-item-connect-button-connection-timeout = Connessione fuori tempo massimo
 
-about-debugging-sidebar-item-connected-label = Connesso
-
 about-debugging-sidebar-runtime-item-waiting-for-browser = In attesa del browser…
 
 about-debugging-sidebar-runtime-item-unplugged = Disconnesso

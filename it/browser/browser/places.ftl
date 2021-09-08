@@ -6,9 +6,6 @@ places-open =
     .label = Apri
     .accesskey = A
 
-places-open-tab =
-    .label = Apri in nuova scheda
-    .accesskey = h
 places-open-in-tab =
     .label = Apri in nuova scheda
     .accesskey = h
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
     .accesskey = u
 places-open-all-in-tabs =
     .label = Apri tutti in schede
-    .accesskey = u
-places-open-window =
-    .label = Apri in nuova finestra
-    .accesskey = f
-places-open-private-window =
-    .label = Apri in nuova finestra anonima
-    .accesskey = m
-
-places-new-bookmark =
-    .label = Nuovo segnalibro…
-    .accesskey = b
-places-new-folder-contextmenu =
-    .label = Nuova cartella…
-    .accesskey = N
-places-new-folder =
-    .label = Nuova cartella…
-    .accesskey = N
-places-new-separator =
-    .label = Nuovo separatore
     .accesskey = u
 
 places-open-in-window =
@@ -88,9 +66,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Ordina per nome
     .accesskey = O
-places-properties =
-    .label = Proprietà
-    .accesskey = P
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -102,9 +77,6 @@ places-edit-generic =
 places-edit-folder =
   .label = Rinomina cartella…
   .accesskey = e
-places-edit-folder2 =
-  .label = Modifica cartella…
-  .accesskey = M
 places-remove-folder =
   .label =
       { $count ->
@@ -112,6 +84,10 @@ places-remove-folder =
          *[other] Rimuovi cartelle
       }
   .accesskey = v
+
+places-edit-folder2 =
+  .label = Modifica cartella…
+  .accesskey = M
 places-delete-folder =
   .label =
       { $count ->
@@ -140,6 +116,7 @@ places-remove-bookmark =
          *[other] Elimina segnalibri
       }
     .accesskey = E
+
 places-delete-bookmark =
     .label =
       { $count ->

@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Passa automaticamente alla modalità in linea
     .accesskey = S
 
-startup-label = Impostazione manuale all’avvio:
-
 offline-preference-startup-label = Impostazione manuale all’avvio:
 
 status-radio-remember =

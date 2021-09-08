@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Opzioni per l’acquisizione di schermate
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Salva negli appunti
-options-screenshot-clipboard-tooltip =
-    .title = Salva la schermata direttamente negli appunti
-
 options-screenshot-clipboard-only-label = Salva solo negli appunti
 options-screenshot-clipboard-tooltip2 =
     .title = Salva la schermata direttamente negli appunti

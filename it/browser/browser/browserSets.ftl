@@ -145,16 +145,6 @@ picture-in-picture-toggle-shortcut-alt =
 bookmark-this-page-shortcut =
     .key = d
 
-# Verify what shortcut for that operation
-# are recommended by the Human Interface Guidelines
-# of each platform for your locale.
-bookmark-show-all-shortcut =
-    .key =
-        { PLATFORM() ->
-            [linux] o
-           *[other] b
-        }
-
 bookmark-show-library-shortcut =
     .key = o
 
@@ -176,12 +166,6 @@ bookmark-show-toolbar-shortcut =
 
 full-zoom-reduce-shortcut =
     .key = -
-
-# If in keyboard layouts popular for your locale you need to use the shift key
-# to access the original shortcuts, the following shortcuts can be used.
-# Otherwise their values should remain empty.
-full-zoom-reduce-shortcut-alt =
-    .key = { "" }
 
 full-zoom-reduce-shortcut-alt-a =
     .key = _

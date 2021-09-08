@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDownloads.title "File salvati">
-<!ENTITY aboutDownloads.empty "Nessun file salvato">
 <!ENTITY cmd.show.label "Apri cartella">
 <!ENTITY cmd.show.accesskey "c">
 <!ENTITY cmd.showMac.label "Mostra nel Finder">

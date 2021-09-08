@@ -11,20 +11,12 @@ about-logins-page-title = Credenziali e password
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Porta le tue password sempre con te
-login-app-promo-subtitle = Installa l’app gratuita { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Scarica da Google Play
-login-app-promo-apple =
-    .alt = Scarica da App Store
-
 login-filter =
     .placeholder = Cerca nelle credenziali
 
 create-login-button = Inserisci nuove credenziali
 
 fxaccounts-sign-in-text = Ritrova le tue password su tutti i tuoi dispositivi
-fxaccounts-sign-in-button = Accedi a { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Accedi per sincronizzare
 fxaccounts-avatar-button =
     .title = Gestisci account
@@ -44,8 +36,6 @@ menu-menuitem-preferences =
        *[other] Preferenze
     }
 about-logins-menu-menuitem-help = Supporto
-menu-menuitem-android-app = { -lockwise-brand-short-name } per Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } per iPhone e iPad
 
 ## Login List
 
@@ -71,6 +61,7 @@ about-logins-list-item-breach-icon =
     .title = Sito web coinvolto in violazioni di dati
 about-logins-list-item-vulnerable-password-icon =
   .title = Password vulnerabile
+
 about-logins-list-section-breach = Siti con violazioni
 about-logins-list-section-vulnerable = Password vulnerabili
 about-logins-list-section-nothing = Nessun avviso
@@ -80,14 +71,9 @@ about-logins-list-section-week = Ultimi 7 giorni
 
 ## Introduction screen
 
-login-intro-heading = Stai cercando le credenziali che hai salvato? Configura { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = Stai cercando le credenziali che hai salvato? Attiva la sincronizzazione o importale.
 about-logins-login-intro-heading-logged-in = Credenziali sincronizzate non trovate.
 login-intro-description = Se le credenziali sono salvate in { -brand-product-name } su un altro dispositivo, ecco come renderle disponibili qui:
-login-intro-instruction-fxa = Accedi o crea un { -fxaccount-brand-name } sul dispositivo dove sono salvate le credenziali
-login-intro-instruction-fxa-settings = Assicurati che la casella “Credenziali” sia selezionata nelle impostazioni di { -sync-brand-short-name }
-about-logins-intro-instruction-help = Visita il <a data-l10n-name="help-link">supporto per { -lockwise-brand-short-name }</a> per ulteriori informazioni
 login-intro-instructions-fxa = Accedi o crea un { -fxaccount-brand-name } sul dispositivo dove sono salvate le credenziali.
 login-intro-instructions-fxa-settings = Apri Impostazioni > Sincronizzazione > Attiva sincronizzazione… e seleziona la casella Credenziali e password.
 login-intro-instructions-fxa-help = Visita il <a data-l10n-name="help-link">supporto per { -lockwise-brand-short-name }</a> per ulteriori informazioni.
@@ -149,8 +135,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copiare la password s
 
 ## Master Password notification
 
-master-password-notification-message = Inserire la password principale per visualizzare le credenziali e le password salvate
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Per esportare le credenziali salvate, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
 # This message can be seen when attempting to export a password in about:logins
@@ -165,22 +149,6 @@ master-password-reload-button =
     .accesskey = A
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Vuoi avere a disposizione le tue credenziali ovunque utilizzi { -brand-product-name }? Apri le opzioni di { -sync-brand-short-name } e seleziona la voce “Credenziali”.
-       *[other] Vuoi avere a disposizione le tue credenziali ovunque utilizzi { -brand-product-name }? Apri le preferenze di { -sync-brand-short-name } e seleziona la voce “Credenziali”.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Apri le opzioni di { -sync-brand-short-name }
-           *[other] Apri le preferenze di { -sync-brand-short-name }
-        }
-    .accesskey = A
-about-logins-enable-password-sync-dont-ask-again-button =
-  .label = Non chiedere nuovamente
-  .accesskey = N
 
 ## Dialogs
 

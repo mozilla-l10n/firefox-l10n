@@ -10,11 +10,6 @@ crashes-id = ID segnalazione
 crashes-send-date = Inviata
 crashes-all-reports = Tutte le segnalazioni
 crashes-no-config = Questa applicazione non è stata configurata per visualizzare le segnalazioni di arresto anomalo.
-extensions-title = Estensioni
-extensions-name = Nome
-extensions-enabled = Attiva
-extensions-version = Versione
-extensions-id = ID
 support-addons-title = Componenti aggiuntivi
 support-addons-name = Nome
 support-addons-type = Tipo
@@ -118,8 +113,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tipo processo
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argomenti
-safe-mode-title = Prova la modalità provvisoria
-restart-in-safe-mode-label = Riavvia disattivando i componenti aggiuntivi…
 
 troubleshoot-mode-title = Identifica e risolvi problemi
 restart-in-troubleshoot-mode-label = Modalità risoluzione problemi…
@@ -271,11 +264,6 @@ webgl2-renderer = Renderer driver WebGL 2
 webgl2-version = Versione driver WebGL 2
 webgl2-driver-extensions = Estensioni driver WebGL 2
 webgl2-extensions = Estensioni WebGL 2
-blocklisted-bug = Bloccato per problemi noti
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber }
 
 support-blocklisted-bug = Bloccato per problemi noti: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
 
@@ -284,8 +272,6 @@ support-blocklisted-bug = Bloccato per problemi noti: <a data-l10n-name="bug-lin
 unknown-failure = Bloccato: codice non funzionante { $failureCode }
 
 d3d11layers-crash-guard = D3D11 - Compositore
-d3d11video-crash-guard = D3D11 - Decoder video
-d3d9video-crash-guard = D3D9 - Decoder video
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX - Decoder video
 
@@ -331,14 +317,6 @@ launcher-process-status-unknown = Stato sconosciuto
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Attivato manualmente
-multi-process-status-1 = Attivato automaticamente
-multi-process-status-2 = Disattivato
-multi-process-status-4 = Disattivato a causa degli strumenti di accessibilità
-multi-process-status-6 = Disattivato per mancanza supporto inserimento testo
-multi-process-status-7 = Disattivato da componenti aggiuntivi
-multi-process-status-8 = Disattivato in modo forzato
-multi-process-status-unknown = Stato sconosciuto
 
 # Variables
 # $fissionWindows (integer) - Number of remote windows

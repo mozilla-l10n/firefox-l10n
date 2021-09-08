@@ -48,11 +48,6 @@
 <!ENTITY sendLaterCmd.accesskey "t">
 
 <!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "Manda a capo">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "M">
-
-<!-- Edit menu items -->
 <!ENTITY accountManagerCmd.label "Configurazione account…">
 <!ENTITY accountManagerCmd.accesskey "n">
 

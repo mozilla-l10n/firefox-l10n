@@ -64,8 +64,6 @@ policy-DisableForgetButton = Impedisci accesso al pulsante “Dimentica”.
 
 policy-DisableFormHistory = Non conservare la cronologia delle ricerche e dei moduli.
 
-policy-DisableMasterPasswordCreation = Se impostato a “true” non è possibile impostare una password principale.
-
 policy-DisablePrimaryPasswordCreation = Se impostato a “true” non è possibile impostare una password principale.
 
 policy-DisablePasswordReveal = Non permettere di mostrare le password nelle credenziali salvate.
@@ -133,8 +131,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Ripristina nei siti sp
 policy-LocalFileLinks = Consenti a determinati siti web di usare link a file locali.
 
 policy-ManagedBookmarks = Configura un elenco di segnalibri gestiti da un amministratore e non modificabili dall’utente.
-
-policy-MasterPassword = Richiedi o impedisci l’utilizzo di una password principale.
 
 policy-ManualAppUpdateOnly = Consenti solo aggiornamenti manuali e non segnalare all’utente la disponibilità di aggiornamenti.
 

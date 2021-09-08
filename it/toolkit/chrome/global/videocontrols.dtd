@@ -13,7 +13,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Esci da schermo intero">
 <!ENTITY castingButton.castingLabel "Trasmetti a schermo">
 <!ENTITY closedCaption.off "Disattivati">
-<!ENTITY volumeScrubber.label "Dispositivo di scorrimento volume">
 
 <!ENTITY pictureInPicture.label "Picture-in-Picture">
 

@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Seleziona tutte le schede
     .accesskey = u
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Riapri scheda chiusa
-           *[other] Riapri schede chiuse
-        }
-    .accesskey = a
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Aggiungi al menu extra
     .accesskey = x
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Nascondi automaticamente nella barra degli strumenti
-    .accesskey = N
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Nascondi pulsante quando vuoto
     .accesskey = N

@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Senza grazie
 
-font-size-label =
-    .value = Dim.:
-    .accesskey = e
-
 font-size-proportional-label =
     .value = Dimensione:
     .accesskey = D
