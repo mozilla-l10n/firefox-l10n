@@ -69,7 +69,7 @@ policy-ManualAppUpdateOnly = Permitir solo actualizaciones manuales y no notific
 policy-NetworkPrediction = Habilitar o deshabilitar la predicción de red (búsqueda previa de DNS).
 policy-OfferToSaveLogins = Imponer la configuración para permitir que { -brand-short-name } ofrezca recordar inicios de sesión y contraseñas guardadas. Se aceptan valores verdaderos y falsos.
 policy-OfferToSaveLoginsDefault = Establecer el valor predeterminado para permitir que { -brand-short-name } ofrezca recordar inicios de sesión y contraseñas guardados. Se aceptan valores verdaderos y falsos.
-policy-OverrideFirstRunPage = Anular la página de inicio. Establezca la política de página en blanco si quiere deshabilitar la página de inicio.
+policy-OverrideFirstRunPage = Anular la página de la primera ejecución. Establecer esta política en blanco si desea deshabilitar la página de la primera ejecución.
 policy-OverridePostUpdatePage = Anular la página "Novedades" posterior a la actualización. Establezca la política de página en blanco si quiere deshabilitar la página posterior a la actualización.
 policy-PasswordManagerEnabled = Habilitar guardar contraseñas en el administrador de contraseñas.
 # PDF.js and PDF should not be translated
