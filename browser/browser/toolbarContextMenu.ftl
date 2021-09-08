@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Selecionar todos os separadores
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Reabrir separador fechado
-            [one] Reabrir separador fechado
-           *[other] Reabrir separadores fechados
-        }
-    .accesskey = b
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Afixar ao menu de excesso
     .accesskey = A
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Ocultar automaticamente na barra de ferramentas
-    .accesskey = a
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Ocultar botão quando vazio
     .accesskey = z

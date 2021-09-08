@@ -29,6 +29,8 @@ account-setup-tab-title = Configuração da conta
 
 ## Warning Exchange confirmation dialog
 
+## Dismiss account creation dialog
+
 ## Alert dialogs
 
 ## Addon installation section
