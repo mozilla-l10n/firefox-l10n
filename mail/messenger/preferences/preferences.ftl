@@ -241,16 +241,6 @@ passwords-button =
     .label = Senhals enregistrats…
     .accesskey = o
 
-master-password-description = Un senhal principal protegís totes vòstres senhal, mas o cal picar un còp per sesilha.
-
-master-password-label =
-    .label = Utilizar un senhal principal
-    .accesskey = U
-
-master-password-button =
-    .label = Modificar lo senhal principal…
-    .accesskey = M
-
 
 junk-description = Definir los paramètres per defaut dels indesirables. Los paramètres pels indesirables pròpris a cada compte se pòdon configurar dins lo menut  « Paramètres dels comptes… ».
 

@@ -52,10 +52,6 @@
 <!ENTITY printCmd.label "Estampar">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Apercebut abans estampatge">
-<!ENTITY printPreviewCmd.accesskey "u">
-<!ENTITY printSetupCmd.label "Mesa en pagina…">
-<!ENTITY printSetupCmd.accesskey "g">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Suprimir lo messatge">
@@ -369,8 +365,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY addressBookCmd.label "Quasernet d'adreças">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Moduls complementaris">
-<!ENTITY addons.accesskey "c">
 <!ENTITY activitymanager.label "Activitats">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY filtersApply.label "Aplicar los filtres sul dorsièr">
@@ -398,14 +392,10 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY previousButton.label "Precedent">
 <!ENTITY backButton1.label "Recuolar">
 <!ENTITY goForwardButton1.label "Avançar">
-<!ENTITY deleteButton.label "Suprimir">
-<!ENTITY undeleteButton.label "Restablir">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Estampar">
 <!ENTITY stopButton.label "Stop">
 <!ENTITY throbberItem.title "Indicator d'activitat">
-<!ENTITY junkButton.label "Indesirable">
-<!ENTITY notJunkButton.label "Acceptable">
 <!ENTITY addressBookButton.label "Adreças">
 <!ENTITY glodaSearch.title "Recèrca globala">
 <!ENTITY searchItem.title "Recèrca rapida">
@@ -428,13 +418,9 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY previousButton.tooltip "Anar al messatge pas legit precedent">
 <!ENTITY goForwardButton.tooltip "Avançar d'un messatge">
 <!ENTITY goBackButton.tooltip "Recuolar d'un messatge">
-<!ENTITY deleteButton.tooltip "Suprimir lo messatge o lo dorsièr seleccionat">
-<!ENTITY undeleteButton.tooltip "Restablir lo messatge seleccionat">
 <!ENTITY markButton.tooltip "Marcar los messatges">
 <!ENTITY printButton.tooltip "Estampar aqueste messatge">
 <!ENTITY stopButton.tooltip "Arrestar lo transferiment corrent">
-<!ENTITY junkButton.tooltip "Marcar los messatges seleccionats coma indesirables">
-<!ENTITY notJunkButton.tooltip "Marcar los messatges seleccionats coma acceptables">
 <!ENTITY addressBookButton.tooltip "Dobrir lo quasernet d'adreças">
 <!ENTITY tagButton.tooltip "Etiquetar los messatges">
 <!ENTITY compactButton.tooltip "Levar los messatges suprimits del dorsièr seleccionat">
