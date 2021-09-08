@@ -22,13 +22,6 @@ managed-notice = Դիտարկիչ քո կառավարի ի կազմակերպո�
 
 ## Preferences UI Search Results
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Աւա՜ղ, յընտրանս չիք արդիւնք ի “<span data-l10n-name="query"></span>”:
-       *[other] Աւա՜ղ, ի կարգաւորմունս չիք արդիւնք ի “<span data-l10n-name="query"></span>”։
-    }
-
 ## General Section
 
 

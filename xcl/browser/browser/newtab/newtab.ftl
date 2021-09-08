@@ -5,9 +5,6 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
-newtab-personalize-button-label = Անհատականացնել
-    .title = Անհատականացնել նոր ներդիրը
-    .aria-label = Անհատականացնել նոր ներդիրը
 newtab-personalize-icon-label =
     .title = Անհատականացնել նոր ներդիրը
     .aria-label = Անհատականացնել նոր ներդիրը
