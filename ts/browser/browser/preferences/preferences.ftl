@@ -75,10 +75,6 @@ applications-file-ending = Fayili { $extension }
 applications-select-helper = Hlawula Apulikhexini ya Mupfuni
 
 # Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
-
-# Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
@@ -190,8 +186,6 @@ use-current-pages =
 ## Privacy Section - Forms
 
 ## Privacy Section - Logins and Passwords
-
-forms-master-pw-fips-title = U le ka modi wa FIPS sweswi. FIPS yi lava Phasiwedinkulu leyi nga na swin'wana.
 
 forms-master-pw-fips-desc = Ku cinca phasiwedi swi tsandzile
 

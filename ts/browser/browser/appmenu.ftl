@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Toloveta...
-
 ## Zoom Controls
 
 appmenuitem-new-window =

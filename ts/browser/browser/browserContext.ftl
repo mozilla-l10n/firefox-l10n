@@ -5,17 +5,6 @@
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Thlelela endhaku pheji rin'we
-    .aria-label = Endzhaku
-    .accesskey = E
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -35,17 +24,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Yana emahlweni pheji rin'we
-    .aria-label = Emahlweni
-    .accesskey = E
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -106,9 +84,6 @@ main-context-menu-page-save =
     .label = Hlayisa pheji tani hi...
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link-new-tab =
@@ -136,10 +111,6 @@ main-context-menu-copy-email =
     .label = Kopa adirese ya imeyili
     .accesskey = K
 
-main-context-menu-copy-link =
-    .label = Kopa ndhawu ya linki
-    .accesskey = K
-
 ## Media (video/audio) controls
 ##
 ## The accesskey for "Play" and "Pause" are the
@@ -156,29 +127,13 @@ main-context-menu-copy-link =
 
 ##
 
-main-context-menu-image-view =
-    .label = Languta xifaniso
-    .accesskey = L
-
 main-context-menu-image-copy =
     .label = Kopa xifaniso
-    .accesskey = k
-
-main-context-menu-image-copy-location =
-    .label = Kopa ndhawu ya xifaniso
     .accesskey = k
 
 main-context-menu-image-save-as =
     .label = Hlayisa xifaniso tani hi...
     .accesskey = h
-
-main-context-menu-image-set-as-background =
-    .label = Veka tani hi Xitandzhaku xa Desikithopo...
-    .accesskey = V
-
-main-context-menu-view-background-image =
-    .label = Lnguta xifaniso xa xitandzhaku
-    .accesskey = n
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -230,10 +185,6 @@ main-context-menu-view-selection-source =
 main-context-menu-view-page-source =
     .label = Languta pheji leri u ri lavaka
     .accesskey = L
-
-main-context-menu-view-page-info =
-    .label = Languta pheji na mahungu
-    .accesskey = M
 
 main-context-menu-bidi-switch-text =
     .label = Cinca fambele ra tsalwa

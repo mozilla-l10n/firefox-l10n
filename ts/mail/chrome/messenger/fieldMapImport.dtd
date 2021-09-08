@@ -39,10 +39,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "Buku ya tiadirese leyi amukeriweke">
-
 <!ENTITY fieldMapImport.size "vuanami: 40em; vuleji: 30em;">
-<!ENTITY fieldMapImport.recordNumber "Datha leyi amukeriweke yo rhekhodiwa: ">
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "Yana ehenhla na le hansi ku pimanisa timbala ta buku ya tiadirese eximatsini na datha leyi nga yona yi amukeriwaka exineneni. Susa tiayitheme leti u faneleke u nga ti amukeli.">
