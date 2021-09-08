@@ -38,9 +38,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = တက်ဗ်ကို စာမှတ်အဖြစ်ထားပါ
     .accesskey = B
-reopen-in-container =
-    .label = ကွန်တိန်နာထဲတွင် ပြန်ဖွင့်ပါ
-    .accesskey = e
 move-to-start =
     .label = အစသို့သွားပါ
     .accesskey = S
@@ -50,13 +47,6 @@ move-to-end =
 move-to-new-window =
     .label = ဝင်းဒိုးအသစ်ဆီသို့ ရွှေ့ပါ
     .accesskey = W
-
-close-tab =
-    .label = တပ်ဗ်ကို ပိတ်ရန်
-    .accesskey = C
-close-tabs =
-    .label = တပ်ဗ်များကို ပိတ်ရန်
-    .accesskey = S
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

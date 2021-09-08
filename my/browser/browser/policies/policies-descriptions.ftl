@@ -43,8 +43,6 @@ policy-DisableForgetButton = မေ့ပျောက်ခလုပ်ကို
 
 policy-DisableFormHistory = ရှာဖွေမှု ဖြည့်စွက်မှု သမိုင်းများကို မမှတ်ထားပါ
 
-policy-DisableMasterPasswordCreation = ဒါမှန်တယ်ဆိုပါက မာစတာစကားဝှက်ကို မဖန်တီးနိုင်ပါ
-
 policy-DisablePrivateBrowsing = သီးသန့်ရှာဖွေမှုကို ပိတ်ပါ
 
 policy-DisableSystemAddonUpdate = ဘရောက်ဇာကို စနစ်အက်အွန်းများကို ထည့်သွင်းခြင်းနှင့် မွမ်းမံခြင်းများမှ တားဆီးပါ

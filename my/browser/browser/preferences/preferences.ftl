@@ -7,28 +7,6 @@ do-not-track-learn-more = ဆက်လက် လေ့လာပါ
 do-not-track-option-always =
     .label = အမြဲတမ်း
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] ရွေးစရာများ
-       *[other] နှစ်သက်ရာ အပြင်အဆင်များ
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] ရွေးစရာများထဲမှ ရှာပါ
-           *[other] နှစ်သက်ရာအပြင်အဆင်များထဲမှ ရှာပါ
-        }
-
 pane-general-title = အထွေထွေ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -73,18 +51,6 @@ restart-later = နောက်မှ ပြန်ဖွင့်ပါ
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = ပေါင်းထည့်ဆော့ဖ်ဝဲ <img data-l10n-name="icon"/>{ $name } သည် အဖွင့်စာမျက်နှာကို ထိန်းချုပ်နေသည်။
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = ပေါင်းထည့်ဆောဖ့်ဝဲ <img data-l10n-name="icon"/>{ $name } သည် တပ်ဗ်အသစ်တွင် ဖွင့်ထားသော စာမျက်နှာကို ထိန်းချုပ်နေသည်။
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = ပေါင်းထည့်ဆော့ဖ်ဝဲ <img data-l10n-name="icon"/>{ $name } သည် မူသေရှာဖွေရေးယန္တရားကို သတ်မှတ်ထားသည်။
-
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = ပေါင်းထည့်ဆော့ဖ်ဝဲ <img data-l10n-name="icon"/>{ $name } သည် ကွန်တန်နာတပ်ဗ်ကို လိုအပ်သည်။
@@ -104,26 +70,11 @@ extension-controlled-enable = ပေါင်းထည့်ဆော့ဖ်�
 
 search-results-header = ရှာဖွေမှု ရလဒ်များ
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] ဝမ်းနည်းပါတယ်။ အပြင်အဆင်များထဲတွင် “<span data-l10n-name="query"></span>” အတွက် ရလဒ်များ မရှိပါ။
-       *[other] ဝမ်းနည်းပါတယ်။ နှစ်သက်ရာအပြင်အဆင်များထဲတွင် “<span data-l10n-name="query"></span>” အတွက် ရလဒ်များ မရှိပါ။
-    }
-
 search-results-help-link = အကူအညီ လိုပါသလား။ <a data-l10n-name="url">{ -brand-short-name } အထောက်အပံ့</a> တွင် ကြည့်ရှုပါ
 
 ## General Section
 
 startup-header = စတင်ခြင်း
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = { -brand-short-name } နှင့် Firefox တို့ကို တစ်ချိန်တည်းတွင် လုပ်ငန်းဆောင်ရွက်ခွင့် ပြုပါ
-use-firefox-sync = အရိပ်အမြွက်၊ မတူညီသည့် ပရိုဖိုင်းများကို အသုံးပြုပါသည်။ ထိုပရိုဖိုင်းများကြား အချက်အလက်မျှဝေရန် { -sync-brand-short-name } ကို အသုံးပြုပါ။
-get-started-not-logged-in = { -sync-brand-short-name } သို့ ဝင်ပါ…
-get-started-configured = { -sync-brand-short-name } ၏ အပြင်အဆင်များကို ဖွင့်ပါ
 
 always-check-default =
     .label = { -brand-short-name } သည် ပုံသေဘရောင်ဇာ ဟုတ်/မဟုတ် အမြဲစစ်ဆေးပါ
@@ -163,10 +114,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = { -brand-short-name } အား နှေးသွားစေမည် တပ်ဗ်အများကြီးအား ဖွင့်ပါ ကသတိပေးပါ
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = တပ်ဗ်တစ်ခုဖြင့် လင်ခ့်တစ်ခုအား ဖွင့်ပါ ၎င်းဆီသိုချက်ခြင်းပြောင်းပါ
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = ဝင်းဒိုး တက်စ်ဘားတွင် တပ်ဗ်အကြိုမြင်ကွင်းကို ပြပါ
@@ -311,11 +258,6 @@ applications-manage-app =
     .label = အက်ပလီကေ:ရှင်းအသေးစိတ်...
 applications-always-ask =
     .label = အမြဲမေးပါ
-applications-type-pdf = သယ်ယူရလွယ်ကူသော စာတမ်းပုံစံ (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -567,8 +509,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = ရှာဖွေရေးဘားတွင် ရှာဖွေမှု အကြံပြုချက်များကို ပြသမည်မဟုတ်ပါ။ မှတ်တမ်းများ မှတ်မထားရန် { -brand-short-name } ကို သတ်မှတ်ထားသောကြောင့် ဖြစ်သည်။
 
-search-one-click-header = ကလစ် တစ်ချက်နှိပ် ရှာဖွေရေးယန္တရားများ
-
 search-one-click-desc = ပြောင်းလဲအသုံးပြုလိုသော ရှာဖွေရေးယန္တရားကို ရွေးချယ်ပါ။ ရှာဖွေလိုသောစာလုံးကို ရိုက်နှိပ်သောအခါ ၎င်းသည် လိပ်စာဘားတန်းနှင့် ရှာဖွေရေးဘားတန်းတို့ အောက်တွင် ပေါ်လာမည်။
 
 search-choose-engine-column =
@@ -601,9 +541,6 @@ containers-add-button =
     .label = ကွန်တိန်နာအသစ်ထပ်ထည့်ပါ
     .accesskey = A
 
-containers-preferences-button =
-    .label = အပြင်အဆင်များ
-
 containers-remove-button =
     .label = ဖယ်ရှားပါ
 
@@ -611,7 +548,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = ဝဘ်ကို သင့်နဲ့အတူ ခေါ်ဆောင်သွားပါ
-sync-signedout-description = သင့်ကိရိယာအားလုံးရှိ စာမှတ်များ၊ မှတ်တမ်း၊ စာမျက်နှာများ၊ စကားဝှက်များ၊ အတ်အွန်များနှင့် အပြင်အဆင်များကို တစ်ပြေးညီဖြစ်စေပါ။
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -652,11 +588,6 @@ sync-sign-in =
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = စာမှတ်များ
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] ရွေးချယ်စရာများ
-       *[other] အပြင်အဆင်များ
-    }
 
 sync-change-options =
     .label = ပြောင်းလဲရန်
@@ -691,15 +622,6 @@ sync-engine-addons =
     .label = အတ်အွန်များ
     .tooltiptext = Firefox ဒက်စတော့အတွက် ပေါင်းထည့်ဆော့ဖ်ဝဲများနှင့် အခင်းအကျင်းများ
     .accesskey = A
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] ရွေးချယ်မှုများ
-           *[other] နှစ်သက်ရာ အပြင်အဆင်များ
-        }
-    .tooltiptext = ပြောင်းလဲထားသော အထွေထွေ၊ကိုယ်ရေးကိုယ်တာနှင့် လုံခြုံမှုအပြင်အဆင်များ
-    .accesskey = s
 
 ## The device name controls.
 
@@ -740,17 +662,12 @@ forms-exceptions =
 forms-saved-logins =
     .label = သိမ်းထားသည့် ဝင်ရောက်မှု အချက်အလက်များ…
     .accesskey = L
-forms-master-pw-use =
-    .label = အဓိကစကားဝှက်တစ်ခု အသုံးပြုပါ
-    .accesskey = U
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = အဓိကစကားဝှက်ကို ပြောင်းလဲရန်…
     .accesskey = M
-
-forms-master-pw-fips-title = လတ်တလော FIPS အသွင်အတွင်း ရှိသည်။ FIPSသည် ‌ဗလာမဖြစ်သော ပင်မစကားဝှက်တစ်ခု လိုအပ်နေသည်။
 
 forms-master-pw-fips-desc = စကားဝှက်ပြောင်းလဲမှု မအောင်မြင်ပါ
 
@@ -949,8 +866,6 @@ permissions-addon-exceptions =
     .label = ခြွင်းချက်များ...
     .accesskey = E
 
-permissions-a11y-privacy-link = ပိုမိုလေ့လာရန်
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } ချက်လက်စုစည်းမှုနှင့်အသုံးပြုမှု
@@ -971,11 +886,6 @@ addon-recommendations-link = ပိုမိုလေ့လာရန်
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = တည်ဆောက်မှုဆိုင်ရာ ယခုအပြင်အဆင်အတွက် အချက်အလက်အစီရင်ခံခြင်းကို ပိတ်ထားသည်
-
-collection-backlogged-crash-reports =
-    .label = မတင်ပို့ရသေးသော ပျက်စီးမှုအစီရင်ခံစာများကို ကိုယ်စားပေးပို့ရန် { -brand-short-name } ကို ခွင့်ပေးပါ။
-    .accesskey = c
-collection-backlogged-crash-reports-link = ပိုမိုလေ့လာရန်
 
 ## Privacy Section - Security
 ##
@@ -1003,16 +913,6 @@ security-block-uncommon-software =
 
 certs-header = အသိအမှတ်ပြုလက်မှတ်များ
 
-certs-personal-label = ဆာဗာမှ သင့်ကိုယ်ရေးထောက်ခံချက် တောင်းဆိုလာပါက
-
-certs-select-auto-option =
-    .label = တစ်ခုကို အလိုအလျောက် ရွေးပါ
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = အကြိမ်တိုင်း မေးပါ
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = လက်ရှိအထောက်အထားများ၏ ခိုင်လုံမှုကို အတည်ပြုရန် OSCP responder servers များကို ဆွဲထုတ်ပါ Q
     .accesskey = Q
@@ -1024,34 +924,6 @@ certs-view =
 certs-devices =
     .label = လုံခြုံရေး ကိရိယာများ...
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = ပိုမိုလေ့လာရန်
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] အပြင်အဆင်များကို ဖွင့်ပါ
-           *[other] နှစ်သက်ရာအပြင်အဆင်များကို ဖွင့်ပါ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } ကို အသုံးပြုရန် နေရာလွတ်မရှိတော့ပါ။ ဝဘ်ဆိုက်ရှိ အကြောင်းအရာများကို ကောင်းမွန်စွာ ပြသနိုင်မည် မဟုတ်ပါ။ သိမ်းဆည်းထားသည့် ဝဘ်ဆိုက်အချက်အလက်များကို အပြင်အဆင်များ > ကိုယ်ရေးကာကွယ်မှုနှင့် လုံခြုံမှု > ဝဘ်ဆိုက်ဒေတာ တွင် ရှင်းလင်းနိုင်သည်။
-       *[other] { -brand-short-name } ကို အသုံးပြုရန် နေရာလွတ်မရှိတော့ပါ။ ဝဘ်ဆိုက်ရှိ အကြောင်းအရာများကို ကောင်းမွန်စွာ ပြသနိုင်မည် မဟုတ်ပါ။ သိမ်းဆည်းထားသည့် ဝဘ်ဆိုက်အချက်အလက်များကို အပြင်အဆင်များ > ကိုယ်ရေးကာကွယ်မှုနှင့် လုံခြုံမှု > ဝဘ်ဆိုက်ဒေတာ တွင် ရှင်းလင်းနိုင်သည်။
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = ကောင်းပြီ၊ ရပါပြီ
-    .accesskey = K
-
-space-alert-under-5gb-message = { -brand-short-name } ကို အသုံးပြုရန် နေရာလွတ်မရှိတော့ပါ။ ဝဘ်ဆိုက်ရှိအကြောင်းအရာများကို ကောင်းမွန်စွာ ပြသနိုင်မည် မဟုတ်ပါ။ ပိုမိုကောင်းမွန်သော အင်တာနက်ကြည့်ရှုမှု ရရှိရန်အတွက် နေရာလွတ်အသုံးပြုမှုကို ပိုမိုကျစ်လစ်ကောင်းမွန်စေရန် “ပိုမိုလေ့လာရန်” သို့ သွားရောက်ကြည့်ရှုပါ။
 
 ## Privacy Section - HTTPS-Only
 

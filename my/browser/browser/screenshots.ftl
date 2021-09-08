@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = မျက်နှာပြင်ပုံရိပ် ဖမ်းယူပါ
-
-screenshots-my-shots-button = ရိုက်ကူးထားသော ပုံများ
-
 screenshots-instructions = နယ်ပယ်ရွေးရန်စာမျက်နှာကို ဆွဲတင်သို့မဟုတ်ကလစ်နှိပ်ပါ. မလုပ်ဆောင်လိုလှျင်ESC နှိပ်ပါ
 screenshots-cancel-button = မဆောင်ရွက်တော့ပါ
 screenshots-save-visible-button = မြင်ရသည်များကို သိမ်းပါ
@@ -36,8 +32,6 @@ screenshots-login-error-details = သင်ဖမ်းယူခဲ့သော 
 
 screenshots-unshootable-page-error-title = ဒီစာမျက်နှာ၏ မျက်နှာပြင်ပုံရိပ်ကို မရိုက်ကူးနိုင်ပါ။
 screenshots-unshootable-page-error-details = ယခုဝဘ်စာမျက်နှာသည် စံနှင့်ကိုက်ညီသော ဝဘ်စာမျက်နှာ မဟုတ်ပါ။ ထို့ကြောင့် မျက်နှာပြင်ပုံဖမ်းခြင်း ပြုလုပ်နိုင်မည် မဟုတ်ပါ။
-
-screenshots-self-screenshot-error-title = သင် { -screenshots-brand-name } စာမျက်နှာကို ပုံရိပ်ဖမ်းယူခြင်းမပြုလုပ်နိုင်ပါ။
 
 screenshots-empty-selection-error-title = သင့်ရွေးချယ်မှု အရမ်းသေးလွန်းပါသည်
 

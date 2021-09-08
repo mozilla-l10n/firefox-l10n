@@ -25,14 +25,6 @@ site-data-remove-selected =
     .label = ရွေးထားသည့်အရာများကို ဖယ်ရှားပါ
     .accesskey = r
 
-site-data-button-cancel =
-    .label = မလုပ်ဆောင်တော့ပါ
-    .accesskey = C
-
-site-data-button-save =
-    .label = ပြောင်းလဲမှုများကို သိမ်းပါ
-    .accesskey = a
-
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

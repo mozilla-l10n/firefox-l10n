@@ -35,7 +35,3 @@ translation-sites-button-remove-all =
     .label = ဝဘ်ဆိုက်အားလုံးကို ဖျက်ရန်
     .accesskey = i
 
-translation-button-close =
-    .label = Cပိတ်ပါ
-    .accesskey = C
-

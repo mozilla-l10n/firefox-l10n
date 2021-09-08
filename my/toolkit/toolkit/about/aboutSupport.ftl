@@ -10,11 +10,6 @@ crashes-id = ထုတ်ပြန်ချက် ID
 crashes-send-date = တင်သွင်းခဲ့သောအချိန်
 crashes-all-reports = အပျက်အစီး အစီရင်ခံစာများ
 crashes-no-config = ယခု အက်ပလီကေးရှင်းသည် အပျက်အစီး အစီရင်ခံစာများအား​ ပြရန် စီမံမထားပါ
-extensions-title = တိုးချဲ့ချက်များ
-extensions-name = အမည်
-extensions-enabled = ဖွင့်ထားတယ်
-extensions-version = မူအဆင့်
-extensions-id = အိုင်ဒီ
 support-addons-name = အမည်
 support-addons-version = မူအဆင့်
 support-addons-id = အိုင်ဒီ
@@ -86,8 +81,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = လုပ်ငန်းစဉ် အမျိုးအစား
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
-safe-mode-title = လုံခြုံရေးသုံးပုံစံ အားသုံးကြည့်မည်
-restart-in-safe-mode-label = ထပ်ပေါင်းဆော့ဝဲများ ပိတ်ပြီး ပြန်စမည်...
 
 ## Media titles
 
@@ -177,19 +170,12 @@ webgl2-renderer = WebGL2 ပံ့ပိုးသူ
 webgl2-version = WebGL 2 စက်သုံးဗားရှင်း
 webgl2-driver-extensions = WebGL 2 စက်သုံးချဲ့ သုံးဆော့ဝဲများ
 webgl2-extensions = WebGL 2 ချဲ့သုံးဆော့ဝဲများ
-blocklisted-bug = ဖြစ်တတ်သည့်ပြဿနာများရှိသောကြောင့် ပိတ်ပင်စာရင်းထဲ ထည့်ထားသည်
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = အမှား { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ပိတ်ပင်စာရင်းထဲ ထည့်ထားသည်။; အမှားကုဒ် { $failureCode }
 
 d3d11layers-crash-guard = D3D11 Compositor
-d3d11video-crash-guard = D3D11 Video Decoder
-d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = နောက်တစ်ကြိမ်ဖွင့်သည့်အချိန်တွင် တန်ဖိုးများကို မူလအတိုင်း ပြန်သတ်မှတ်ပါ
@@ -212,14 +198,6 @@ sandbox-proc-type-media-plugin = မီဒီယာ ပလက်ဂ်အင်
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = အသုံးပြုသူက ဖွင့်ထားသည်
-multi-process-status-1 = မူလကတည်းက ဖွင့်ထားသည်
-multi-process-status-2 = ပိတ်ထားသည်
-multi-process-status-4 = သုံးစွဲနိုင်စွမ်းတန်ဆာပလာများက ပိတ်ထားသည်
-multi-process-status-6 = ပေးမရိုက်သည့်စာများပါဝင်နေသောကြောင့် ပိတ်ထားသည်
-multi-process-status-7 = အတ်အွန်များက ပိတ်ထားသည်
-multi-process-status-8 = အတင်းအကျပ် ပိတ်ထားသည်
-multi-process-status-unknown = မသိနိုင်သော အခြေအနေ
 
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = မရွေးပါ

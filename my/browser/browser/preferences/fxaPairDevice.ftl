@@ -6,8 +6,6 @@ fxa-pair-device-dialog =
     .title = အခြားကိရိယာကို ချိတ်ဆက်ရန်
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = ၁။ မီးမြေခွေးကိုသင့်မိုဘိုင်းမှာမသွင်းရသေးလျှင် <a data-l10n-name="connect-another-device">မီးမြေခွေးကိုအခုဘဲသွင်းလိုက်ပါ</a>။
-
 fxa-qrcode-error-title = ချိတ်ဆက်မှုမအောင်မြင်ပါ။
 
 fxa-qrcode-error-body = ထပ်ကြိုးစားကြည့်ပါ။

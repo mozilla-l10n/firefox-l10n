@@ -6,9 +6,6 @@ password-quality-meter = စကားဝှက် အရည်အသွေးပ
 
 ## Change Password dialog
 
-change-password-window =
-    .title = ပင်ရင်း စကားဝှက်ကို ပြောင်းလဲပါ
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = လုံခြုံရေး ကိရိယာ: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = စကားဝှက် အသစ် (ပြန်ရ
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = ပင်မ စကားဝှက်ကို ပြန်ချိန်ပါ
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = ပြန်ချိန်တယ်
-reset-password-text = သင့်ရဲ့ ပင်မ စကားဝှက်ကို သင်ပြန်ချိန်ထားရင်၊ သင့်ရဲ့ ကွန်ရက်နဲ့ အီးမေးလ် စကားဝှက်များ၊ ဖြည့်စွတ် ပုံစံ၊ တကိုယ်ရေ လက်မှတ်များနဲ့၊ သီးသန့် သော့ချက်များ အားလုံးကို မေ့ပျောက်ခံရလိမ့်မယ်။ သင့်ရဲ့ ပင်မ စကားဝှက်ကို ပြန်ချိန်ဖို့ သေချာသလား။
 
 ## Downloading cert dialog
 

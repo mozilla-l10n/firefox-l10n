@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Add-ons Manager
-
 addons-page-title = Add-ons Manager
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = နောက်တွဲ ပရိုဂရမ်အားလုံးကို ပြပါ
-
-cmd-show-details =
-    .label = အချက်အလက်များထပ်ပြပါ။
-    .accesskey = S
-
-cmd-find-updates =
-    .label = အဆင့်မြှင့်တင်မှူများကိုရှာပါ။
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ရွေးစရာများ
-           *[other] ဦးစားပေး အချက်များ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = ဒီဇိုင်းပုံစံအားပြောင်းမည်။
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = အထူးအပြင်အဆင်တပ်ဆင်ထားခြင်းအားရပ်မည်
-    .accesskey = W
-
-cmd-install-addon =
-    .label = တပ်ဆင်ပါ
-    .accesskey = I
-
-cmd-contribute =
-    .label = ပူးပေါင်း ပါ၀င် ဆောင်ရွက်ခြင်း
-    .accesskey = ပ
-    .tooltiptext = ယခု အက်အွန်ထုတ်လုပ်မှုတွင် ကူညီပါ၀င်ဆောင်ရွက်ခြင်း
 
 detail-version =
     .label = မူအဆင့်

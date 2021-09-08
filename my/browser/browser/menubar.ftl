@@ -110,9 +110,6 @@ menu-file-go-offline =
 menu-edit =
     .label = တည်းဖြတ်
     .accesskey = E
-menu-edit-find-on =
-    .label = ဒီစာမျက်နှာတွင် ရှာပါ…
-    .accesskey = F
 menu-edit-find-again =
     .label = ထပ် ရှာပါ
     .accesskey = g
@@ -128,9 +125,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = ကိရိယာအတန်းများ
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = စိတ်ကြိုက်ပြင်ဆင်ရန်…
-    .accesskey = C
 menu-view-sidebar =
     .label = ဘေးတန်း
     .accesskey = e
@@ -164,9 +158,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = အခြေခံ စာမျက်နှာ ပုံစံ
     .accesskey = B
-menu-view-charset =
-    .label = စာသားသိမ်းဆည်းမှုစနစ်
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -215,10 +206,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = စာမှတ်များ
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = မှတ်သားချက်များအားလုံးကို ပြသပါ
-menu-bookmark-this-page =
-    .label = ဒီစာမျက်နှာကို မှတ်သားပါ
 menu-bookmark-edit =
     .label = ဒီစာမှတ်ကို ပြင်ဆင်မည်
 menu-bookmarks-all-tabs =
@@ -238,41 +225,18 @@ menu-tools =
 menu-tools-downloads =
     .label = ဆွဲချချက်များ
     .accesskey = D
-menu-tools-addons =
-    .label = အတ်အွန်များ
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = { -brand-product-name } သို့ ဝင်ရန်…
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } ကို ဖွင့်ရန်…
-    .accesskey = n
 menu-tools-sync-now =
     .label = ယခုပင် Sync ကို အသုံးပြုပါ
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name } ကို ထပ်မံချိဆ်ဆက်ရန်…
     .accesskey = R
-menu-tools-web-developer =
-    .label = ဝဘ်ဆိုက် ဖန်တီးသူ
-    .accesskey = ဝ
 menu-tools-page-source =
     .label = စာမျက်နှာရင်းမြစ်ကုဒ်
     .accesskey = o
 menu-tools-page-info =
     .label = စာမျက်နှာအချက်အလက်
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ရွေးစရာများ
-           *[other] နှစ်သက်ရာအပြင်အဆင်များ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = Layout Debugger
     .accesskey = L
@@ -306,30 +270,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = အကူအညီ
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } အကူအညီ
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } အလည်အပတ်
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = အခြား ဘရောင်ဇာ မှ တင်သွင်းရန်...
-    .accesskey = l
-menu-help-keyboard-shortcuts =
-    .label = ကီးဘုတ်အမြန်သုံးခလုတ်များ
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = အခက်အခဲဆိုင်ရာ ဖြေရှင်းခြင်းနည်းလမ်းများ
-    .accesskey = T
 menu-help-feedback-page =
     .label = အကြုံပြုချက်ကို ပေးပို့ရန်…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = အတ်အွန်များကို ပိတ်ပြီး ပြန်စပါ…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = အတ်အွန်များဖွင့်ပြီး ပြန်စတင်ပါ
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

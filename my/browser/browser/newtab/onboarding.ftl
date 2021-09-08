@@ -12,11 +12,13 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-get-started = စတင်ပါ
-
 ## Welcome modal dialog strings
 
 ### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
 
@@ -26,26 +28,11 @@ onboarding-welcome-header = { -brand-short-name } မှကြိုဆိုပ
 
 onboarding-start-browsing-button-label = ရှာဖွေမှုစမည်
 
-onboarding-cards-dismiss =
-    .title = ပိတ်လိုက်ပါ
-    .aria-label = ပိတ်လိုက်ပါ
-
 ## Welcome full page string
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-header = { -brand-product-name } ကို သင်နှင့်အတူ ခေါ်ဆောင်ပါ
-onboarding-sync-welcome-learn-more-link = Firefox အကောင့်များအကြောင်း ပိုမိုလေ့လာရန်
-
-onboarding-sync-form-input =
-    .placeholder = အီးမေးလ်
-
-onboarding-sync-form-continue-button = ဆက်၍
-onboarding-sync-form-skip-login-button = ဒီအဆင့်ကို ကျော်ပါ
-
 ## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = သင့်အီးမေလ်းအားထည့်ပါ
 
 
 ## These are individual benefit messages shown with an image, title and
@@ -62,26 +49,11 @@ onboarding-sync-form-header = သင့်အီးမေလ်းအားထ�
 
 ## Message strings belonging to the Return to AMO flow
 
-return-to-amo-sub-header = အကောင်းဆုံးဘဲ၊ { -brand-short-name } သင်ရသွားပြီ
-
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = အခုဘဲ <icon></icon><b>{ $addon-name }</b> ကိုသင့်အတွက်ရယူလိုက်ပါ။
-return-to-amo-extension-button = အိတ်စတန်းရှင်းထည့်ပါ
-return-to-amo-get-started-button = { -brand-short-name } နှင့်စတင်လိုက်ကြရအောင်
-
 ## Custom Return To AMO onboarding strings
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+## Multistage onboarding strings (about:welcome pages)
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -98,4 +70,11 @@ return-to-amo-get-started-button = { -brand-short-name } နှင့်စတ�
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 

@@ -4,3 +4,4 @@
 
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = ကိရိယာများအားလုံးသို့ ပို့ပါ
+

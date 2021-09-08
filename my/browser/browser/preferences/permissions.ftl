@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = ဝဘ်ဆိုက်အားလုံးကို ဖယ်ရှားပါ
     .accesskey = e
 
-permissions-button-cancel =
-    .label = မဆောင်ရွက်တော့ပါ C
-    .accesskey = C
-
-permissions-button-ok =
-    .label = ပြောင်းလဲမှုများကို သိမ်းပါ S
-    .accesskey = S
-
 permissions-searchbox =
     .placeholder = ဝဘ်ဆိုက်ကို ရှာဖွေရန်
 

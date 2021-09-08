@@ -5,31 +5,9 @@
 places-open =
     .label = ဖွင့်ပါ
     .accesskey = O
-places-open-tab =
-    .label = စာအမှတ် အသစ်တခုမှာ ဖွင့်ပါ
-    .accesskey = w
 places-open-all-in-tabs =
     .label = အားလုံးကို စာအမှတ်များနဲ့ ဖွင့်ပါ
     .accesskey = O
-places-open-window =
-    .label = ၀င်းဒိုးအသစ် တခုမှာ ဖွင့်ပါ
-    .accesskey = N
-places-open-private-window =
-    .label = သီးသန့် ဝင်းဒိုးအသစ်ထဲတွင် ဖွင့်ပါ။ P
-    .accesskey = P
-
-places-new-bookmark =
-    .label = စာမှတ်အသစ်…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = ဖိုင်တွဲ အသစ်
-    .accesskey = F
-places-new-folder =
-    .label = ဖိုင်တွဲ အသစ်
-    .accesskey = o
-places-new-separator =
-    .label = ပုဒ်ခွဲ အသစ်
-    .accesskey = S
 
 places-view =
     .label = ရှုမြင်ချက်
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = အမည်အလိုက် မျိုးတူစုပါ
     .accesskey = r
-places-properties =
-    .label = ဂုဏ်အင်္ဂါရပ်များ
-    .accesskey = i
 

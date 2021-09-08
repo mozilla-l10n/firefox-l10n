@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = ရှာ
     .aria-label = ရှာ
 
-newtab-search-box-search-the-web-text = ဝဘ်တွင် ရှာဖွေပါ
-
 newtab-search-box-search-the-web-input =
     .placeholder = ဝဘ်တွင် ရှာဖွေပါ
     .title = ဝဘ်တွင် ရှာဖွေပါ

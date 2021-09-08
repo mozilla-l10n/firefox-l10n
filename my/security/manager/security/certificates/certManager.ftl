@@ -17,42 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = အာဏာပိုင်များ
 
-certmgr-detail-general-tab-title =
-    .label = Gအထွေထွေ
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Dအသေးစိတ်
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = လောလောဆယ် အတည်ပြုနေတဲ့ လက်မှတ်...
-
-certmgr-subject-label = ထုတ်ပြန်တဲ့နေရာ
-
-certmgr-issuer-label = ထုတ်ပြန်တဲ့ ပုဂ္ဂိုလ်
-
-certmgr-period-of-validity = တရားဝင်သော ကာလအပိုင်းအခြား
-
-certmgr-fingerprints = လက်ဗွေများ
-
-certmgr-cert-detail =
-    .title = လက်မှတ် အသေးစိတ်
-    .buttonlabelaccept = Cပိတ်
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = သုံးနေကျ အမည် (CN)
-
-certmgr-cert-detail-org = အဖွဲ့အစည်း (O)
-
-certmgr-cert-detail-orgunit = ​အဖွဲ့အစည်းဆိုင်ရာ ယူနစ် (OU)
-
-certmgr-cert-detail-serial-number = အစဉ်လိုက် အမှတ်စဉ်
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 လက်ဗွေ
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 လက်ဗွေ
-
 certmgr-edit-ca-cert =
     .title = CA လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ
     .style = width: 48em;
@@ -81,12 +45,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = လုံခြုံရေး ကိရိယာ
 
-certmgr-begins-on = စသည့်နေ့
-
 certmgr-begins-label =
     .label = စသည့်နေ့
-
-certmgr-expires-on = သက်တန်းကုန်တဲ့ နေ့စွဲ
 
 certmgr-expires-label =
     .label = သက်တန်းကုန်တဲ့ နေ့စွဲ
@@ -128,18 +88,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Import...
     .accesskey = m
-
-certmgr-details =
-    .value = Certificate Fields
-    .accesskey = F
-
-certmgr-fields =
-    .value = Field Value
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = အထောက်အထားများ အဆင့်ဆင့်
-    .accesskey = H
 
 certmgr-add-exception =
     .label = xချွင်းချက်ထည့်...
@@ -203,12 +151,6 @@ delete-user-cert-confirm = ဒီလက်မှတ်များကို သ�
 delete-user-cert-impact = သင့်ကိုယ်တိုင် လက်မှတ်များထဲက တခုကို သင်ပယ်ဖျက်တာနဲ့၊ သင့်ကိုသင် ​ဖေါ်ထုတ်ဖို့ ၄င်းကို သင်သုံးစွဲတော့မှာ မဟုတ်ဘူး။
 
 
-delete-ssl-cert-title =
-    .title = ဆာဗာ၏ အထောက်အထားလက်မှတ် ခြွင်းချက်များကို ဖျက်ရန်
-delete-ssl-cert-confirm = ဒီဆာဗာ ချွင်းချက်များကို သင်တကယ် ပယ်ဖျက်လိုသလား။
-delete-ssl-cert-impact = ဆာဗာ ချွင်းချက်တခုကို သင်ပယ်ဖျက်လိုက်ရင်၊ အဲဒီ ​ဆာဗာအတွက် ပုံမှန် လုံခြုံရေး စစ်ဆေးမှုများကို ပြန်ထားပြီး ၄င်းက မှန်ကန်တဲ့ လက်မှတ်တခုကို သုံးစွဲဖို့ လိုအပ်တယ်။
-
-
 delete-ca-cert-title =
     .title = CA အသိအမှတ်ပြုလက်မှတ်အား ဖျက်ပါ(သို့)ပုံဖျက်ပါ
 delete-ca-cert-confirm = CAအသိအမှတ်ပြုလက်မှတ်အားဖျက်ပစ်ရန်သင်တောင်းဆိုခဲ့ပါသည်။မူရင်းအသိအမှတ်ပြုလက်မှတ်များထဲမှ သက်ရောက်မှူ တူညီသောယုံကြည်မှူအားလုံးကိုဖျက်ပစ်မည်ဖြစ်သည်။သင်ဖျက်မည်မှာသေချာပြီလား?
@@ -228,45 +170,6 @@ cert-with-serial =
     .value = အမှတ်စဉ်ဖြင့် လက်မှတ် - { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = လက်မှတ်ကြည့်သူ - “{ $certName }”
-
-not-present =
-    .value = <လက်မှတ်ရဲ့ အစိတ်အပိုင်း မဟုတ်ဘူး>
-
-# Cert verification
-cert-verified = ​အောက်ပါ သုံးစွဲမှုများအတွက် ဒီလက်မှတ်ကို အတည်ပြုထားတယ်:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL သုံးစွဲသူ လက်မှတ်
-
-verify-ssl-server =
-    .value = SSL ဆာဗာ လက်မှတ်
-
-verify-ssl-ca =
-    .value = SSL လက်မှတ် အခွင့်အာဏာ
-
-verify-email-signer =
-    .value = အီးမေးသက်သေခံသူလက်မှတ်
-
-verify-email-recip =
-    .value = အီးမေးလ် ​လက်ခံသူ လက်မှတ်
-
-# Cert verification
-cert-not-verified-cert-revoked = ဒီလက်မှတ်ကို ပြန်ရုပ်သိမ်းထားတဲ့ အတွက် အတည်မပြုနိုင်ဘူး။
-cert-not-verified-cert-expired = ဒီလက်မှတ်ကို သက်တမ်း ကုန်သွားတဲ့အတွက် အတည်မပြုနိုင်ဘူး။
-cert-not-verified-cert-not-trusted = ဒီလက်မှတ်ကို စိတ်မချတဲ့အတွက် အတည်မပြုနိုင်ဘူး။
-cert-not-verified-issuer-not-trusted = ဒီလက်မှတ်ဟာ ထုတ်ပြန်သူကို စိတ်မချတဲ့အတွက် အတည်မပြုနိုင်ဘူး။
-cert-not-verified-issuer-unknown = ဒီလက်မှတ်ဟာ သက်တမ်း ကုန်သွားတဲ့အတွက် အတည်မပြုနိုင်ဘူး။
-cert-not-verified-ca-invalid = ဒီလက်မှတ်ကို CA လက်မှတ် မမှန်ကန်တဲ့အတွက် အတည်မပြုနိုင်ဘူး။
-cert-not-verified_algorithm-disabled = Could not verify this certificate because it was signed using a signature algorithm that was disabled because that algorithm is not secure.
-cert-not-verified-unknown = ဒီလက်မှတ်ကို မသိရတဲ့ အကြောင်းများကြောင့် အတည်မပြုနိုင်ဘူး။
 
 ## Used to show whether an override is temporary or permanent
 

@@ -51,11 +51,3 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = ပုံနှင့် စာများကို ပြရန် ဝဘ်ဆိုက်များကို ပြန်ဖွင့်ရန် လိုအပ်သည်
 
-clear-site-data-cancel =
-    .label = ပယ်​ဖျက်ပါ
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = ရှင်းလင်းပါ
-    .accesskey = l
-

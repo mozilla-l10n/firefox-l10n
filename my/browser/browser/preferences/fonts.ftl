@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = စနစ်ဟောင်းဖြင့်ဖန်တီထားသည့် အကြောင်းအရာများအတွက် စာသား သိမ်းဆည်းမှုစနစ်
-fonts-languages-fallback-desc = စနစ်ဟောင်းဖြင့် ဖန်တီးထားသည့် အကြောင်းအရာများသည် ၄င်းတို့၏ စာသားသိမ်းဆည်းမှုစနစ်ကို မဖော်ပြနိုင်လျှင် ယခု စာသားသိမ်းဆည်းမှုစနစ်ကို အသုံးပြုမည်။
-
-fonts-languages-fallback-label = အရန်စာသားသိမ်းဆည်းမှုစနစ်
-    .accesskey = T
-
-fonts-languages-fallback-name-auto =
-    .label = ပုံသေအသုံးပြုသော ဘာသာစကား
-fonts-languages-fallback-name-arabic =
-    .label = အာရဗီအက္ခရာဆိုင်ရာ
-fonts-languages-fallback-name-baltic =
-    .label = ဘော်လ်တစ်အက္ခရာများဆိုင်ရာ
-fonts-languages-fallback-name-ceiso =
-    .label = ဥရောပ အလယ်‌ပိုင်း ISO
-fonts-languages-fallback-name-cewindows =
-    .label = ဥရောပအလယ်ပိုင်း, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = တရုတ်အက္ခရာဆိုင်ရာ၊ ရိုးရှင်း
-fonts-languages-fallback-name-traditional =
-    .label = တရုတ်အက္ခရာဆိုင်ရာ၊ ရိုးရာ
-fonts-languages-fallback-name-cyrillic =
-    .label = ဆိုင်ရီလစ်ဆိုင်ရာ
-fonts-languages-fallback-name-greek =
-    .label = ဂရိအက္ခရာဆိုင်ရာ
-fonts-languages-fallback-name-hebrew =
-    .label = ဟီးဘရူးအက္ခရာဆိုင်ရာ
-fonts-languages-fallback-name-japanese =
-    .label = ဂျပန်အက္ခရာဆိုင်ရာ
-fonts-languages-fallback-name-korean =
-    .label = ကိုရီးယားအက္ခရာဆိုင်ရာ
-fonts-languages-fallback-name-thai =
-    .label = ထိုင်းအက္ခရာဆိုင်ရာ
-fonts-languages-fallback-name-turkish =
-    .label = တူရကီအက္ခရာဆိုင်ရာ
-fonts-languages-fallback-name-vietnamese =
-    .label = ဗီယက်နမ်အက္ခရာဆိုင်ရာ
-fonts-languages-fallback-name-other =
-    .label = အခြား (အနောက်ဥရောပ အပါအဝင်)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

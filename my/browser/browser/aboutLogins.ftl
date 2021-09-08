@@ -7,20 +7,12 @@ about-logins-page-title = အကောင့်ဝင်ရောက်မှု
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = နေရာတိုင်း မှာ သင်၏ စကားဝှက် ကို ယူလိုက်ပါ
-login-app-promo-subtitle = { -lockwise-brand-name } အပလီကေးရှင်းကို အခမဲ့ ရယူလိုက်ပါ
-login-app-promo-android =
-    .alt = Google Play မှ ရယူရန်
-login-app-promo-apple =
-    .alt = App Store မှ ဆွဲယူရန်
-
 login-filter =
     .placeholder = လော့ဂ်အင် များ ရှာရန်
 
 create-login-button = လော့ဂ်အင် အသစ် ဖန်တီးရန်
 
 fxaccounts-sign-in-text = သင် ၏ အခြား ကိရိယာ များမှ စကားဝှက်ကိုရယူပါ
-fxaccounts-sign-in-button = { -sync-brand-short-name } သို့ လက်မှတ်ထိုးဝင်ပါ
 fxaccounts-avatar-button =
     .title = အကောင့် စီမံရေးရာ
 
@@ -38,8 +30,6 @@ menu-menuitem-preferences =
        *[other] အပြင်အဆင်များ
     }
 about-logins-menu-menuitem-help = အကူအညီ
-menu-menuitem-android-app = Android အတွက် { -lockwise-brand-short-name }
-menu-menuitem-iphone-app = iPhone နှင့် iPad တို့ အတွက် { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -69,13 +59,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = သိမ်းထားတဲ့ လော့အင်တွေ ရှာနေပါသလား? { -sync-brand-short-name } ကို စတင်လိုက်ပါ။
-
 about-logins-login-intro-heading-logged-in = ထပ်တူပွားထားသည့် လော့အင်များ မတွေ့ပါ။
 login-intro-description = အကယ်၍ သင် သည် အခြားစက်ကိရိယာ ၏ { -brand-product-name } တွင် လော့အင်များ သိမ်းထားလျှင် ၎င်း တို့ကို ဤနေရာသို့ မည်သို့ ရောက်အောင် ယူရမည်ကို ဤတွင် ရှု့း
-login-intro-instruction-fxa = သင် လော့အင်များ သိမ်းထားသော ကိရိယာပေါ်က { -fxaccount-brand-name } တွင် သင့်အကောင့်ကို တည်ဆောက်  ခြင်း သို့မဟုတ် ဝင်ရောက်ပါ
-login-intro-instruction-fxa-settings = { -sync-brand-short-name } ဆက်တင် ရှိ လော့အင်များ ကို အမှန်ချစ် ရွေ;ပြီးတာ သေခြာပါစေ
-about-logins-intro-instruction-help = အကူအညီ ထပ်မံလိုအပ်ပါက <a data-l10n-name="help-link"> { -lockwise-brand-short-name } ပံ့ပိုးမှု </a> ကိုသွားကြည့်ပါ။
 
 ## Login
 
@@ -125,8 +110,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = သိမ်းဆည
 
 ## Master Password notification
 
-master-password-notification-message = သိမ်းဆည်းထားသည့် လော့အင် နှင့် စကားဝှက်များ ကြည့်ရန် အဓိက စကားဝှက် ကိုရိုက်ထည့်ပါ
-
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = သိမ်းဆည်းထားသောဝင်ရောက်မှုများ နှင့် စကားဝှက်များကို ထုတ်ပို့ရန်
@@ -138,19 +121,6 @@ master-password-reload-button =
     .accesskey = လ
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] သင် { -brand-product-name } ကို နေရာစုံမှာ သုံးလိုသလား? သင့်{ -sync-brand-short-name } ရွေးချယ်စရာများ က လော့အင်များ ကို အမှန်ခြစ်ပါ။
-       *[other] သင် { -brand-product-name } ကို နေရာစုံမှာ သုံးလိုသလား? သင့်{ -sync-brand-short-name } ရဲ့ အပြင်အဆင် က လော့အင်များ ကို အမှန်ခြစ်ပါ။
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] { -sync-brand-short-name } ၏ ရွေးချယ်စရာများ သို့သွား
-           *[other] { -sync-brand-short-name } ၏ အပြင်အဆင်များ သို့ သွား
-        }
-    .accesskey = သ
 
 ## Dialogs
 
