@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Va riquir que los sitios web vuelvan cargar les imáxenes y los datos
 
-clear-site-data-cancel =
-    .label = Encaboxar
-    .accesskey = E
-
-clear-site-data-clear =
-    .label = Llimpiar
-    .accesskey = L
-
 clear-site-data-dialog =
     .buttonlabelaccept = Llimpiar
     .buttonaccesskeyaccept = L

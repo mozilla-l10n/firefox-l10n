@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Quitar tolos sitios
     .accesskey = i
 
-translation-button-close =
-    .label = Zarrar
-    .accesskey = Z
-
 translation-dialog =
     .buttonlabelaccept = Zarrar
     .buttonaccesskeyaccept = Z

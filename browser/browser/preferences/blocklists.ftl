@@ -5,20 +5,19 @@
 blocklist-window =
     .title = Llistes de bloqueos
     .style = width: 50em
+
 blocklist-description = Escueyi la llista que { -brand-short-name } usa pa bloquiar los rastrexadores en llinia. Les llistes fórneles <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
+
 blocklist-treehead-list =
     .label = Llista
-blocklist-button-cancel =
-    .label = Encaboxar
-    .accesskey = E
-blocklist-button-ok =
-    .label = Guardar los cambeos
-    .accesskey = G
+
 blocklist-dialog =
     .buttonlabelaccept = Guardar los cambeos
     .buttonaccesskeyaccept = G
+
+
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -27,6 +26,7 @@ blocklist-dialog =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+
 blocklist-item-moz-std-listName = Llista de bloqueos de nivel 1 (aconséyase).
 blocklist-item-moz-std-description = Permite dalgunos rastrexadores pa que s'estropien menos sitios web.
 blocklist-item-moz-full-listName = Llista de bloqueos de nivel 2.

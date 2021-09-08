@@ -8,15 +8,20 @@
 ##
 
 process-type-web = Conteníu web
+
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Páxines «about» privilexaes
+
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Conteníu privilexáu de Mozilla
+
 process-type-extension = Estensión
+
 # process used to open file:// URLs
 process-type-file = Ficheru llocal
+
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Conteníu web aislláu
@@ -27,9 +32,11 @@ process-type-webisolated = Conteníu web aislláu
 
 process-type-default = Principal
 process-type-tab = Llingüeta
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+
 # process used to perform network operations
 process-type-socket = Ralura
 

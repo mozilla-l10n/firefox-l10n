@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Nuevu">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Mensaxe">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Contautu de la llibreta de direiciones…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Axuntar">
 <!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "Ficheru(os)…">
-<!ENTITY attachFileCmd.accesskey "r">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "FileLink">
 <!ENTITY attachCloudCmd.accesskey "n">
 <!ENTITY attachPageCmd.label "Axuntar páxina web…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Unviar más sero">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "s">
-<!ENTITY printSetupCmd.label "Configurar páxina…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Vista preliminar">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Imprentar…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
@@ -179,10 +170,6 @@
 <!ENTITY accountManagerCmd2.label "Configuración de cuenta">
 <!ENTITY accountManagerCmd2.accesskey "C">
 <!ENTITY accountManagerCmdUnix2.accesskey "C">
-<!ENTITY preferencesCmd2.label "Opciones">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Preferencies">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -195,7 +182,6 @@
 <!ENTITY sendButton.label "Unviar">
 <!ENTITY quoteButton.label "Citar">
 <!ENTITY addressButton.label "Contautos">
-<!ENTITY attachButton.label "Axuntar">
 <!ENTITY spellingButton.label "Ortografía">
 <!ENTITY saveButton.label "Guardar">
 <!ENTITY printButton.label "Imprentar">
@@ -263,8 +249,6 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Esbillar too">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "Axuntar ficheru(os)…">
-<!ENTITY attachFile.accesskey "x">
 <!ENTITY attachCloud.label "FileLink…">
 <!ENTITY attachCloud.accesskey "n">
 <!ENTITY convertCloud.label "Convertir a…">

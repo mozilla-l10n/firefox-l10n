@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Propiedaes">
 
 <!ENTITY generalInfo.label                       "Información xeneral">
-<!ENTITY folderCharsetFallback2.label            "Codificación secudaria de testu:">
-<!ENTITY folderCharsetFallback2.accesskey        "C">
-<!ENTITY folderCharsetEnforce2.label             "Aplicar codificación a tolos mensaxes na carpeta (inoraránse los axustes de codificación de testu de mensaxes individuales y l'auto-deteición)">
-<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruyir el ficheru índiz resume">
 <!ENTITY folderRebuildSummaryFile2.label         "Iguar carpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "I">

@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Quitar lo esbillao
     .accesskey = Q
 
-site-data-button-cancel =
-    .label = Encaboxar
-    .accesskey = E
-
-site-data-button-save =
-    .label = Guardar los cambeos
-    .accesskey = G
-
 site-data-settings-dialog =
     .buttonlabelaccept = Guardar los cambeos
     .buttonaccesskeyaccept = G

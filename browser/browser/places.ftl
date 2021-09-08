@@ -5,9 +5,6 @@
 places-open =
     .label = Abrir
     .accesskey = A
-places-open-tab =
-    .label = Abrir nuna llingüeta nueva
-    .accesskey = t
 places-open-in-tab =
     .label = Abrir nuna llingüeta nueva
     .accesskey = l
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Abrir too en llingüetes
     .accesskey = o
-places-open-window =
-    .label = Abrir nuna ventana nueva
-    .accesskey = n
-places-open-private-window =
-    .label = Abrir nuna ventanta privada nueva
-    .accesskey = P
-
-places-new-bookmark =
-    .label = Marcador nuevu…
-    .accesskey = n
-places-new-folder-contextmenu =
-    .label = Carpeta nueva…
-    .accesskey = C
-places-new-folder =
-    .label = Carpeta nueva…
-    .accesskey = u
-places-new-separator =
-    .label = Separtador nuevu
-    .accesskey = v
 
 places-open-in-window =
     .label = Abrir nuna ventana nueva
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Ordenar pol nome
     .accesskey = r
-places-properties =
-    .label = Propiedaes
-    .accesskey = i
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -132,3 +107,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Xestionar los marcadores
     .accesskey = X
+

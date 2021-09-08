@@ -79,10 +79,6 @@
 <!ENTITY printCmd.label "Imprentar…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Vista preliminar">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Configurar páxina…">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Desaniciar mensaxe">
@@ -162,7 +158,6 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Vista compauta">
 <!ENTITY compactVersion.accesskey "C">
-<!ENTITY folderPaneBar.label "Barra de ferramientes del panel de carpetes">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
@@ -447,8 +442,6 @@
 <!ENTITY addressBookCmd.label "Llibreta de direiciones">
 <!ENTITY addressBookCmd.accesskey "L">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Complementos">
-<!ENTITY addons.accesskey "m">
 <!ENTITY activitymanager.label "Alministrador d'actividá">
 <!ENTITY activitymanager.accesskey "A">
 <!ENTITY imAccountsStatus.label "Estáu de chat">
@@ -492,7 +485,6 @@
 <!ENTITY devToolboxCmd.label "Caxa de ferramientes de desendolcador">
 <!ENTITY devToolboxCmd.accesskey "C">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Consola d'errores">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -516,15 +508,11 @@
 <!ENTITY backButton1.label "Retroceder">
 <!ENTITY goForwardButton1.label "Avanzar">
 <!ENTITY deleteItem.title "Desaniciar">
-<!ENTITY deleteButton.label "Desaniciar">
-<!ENTITY undeleteButton.label "Recuperar">
 <!ENTITY markButton.label "Conseñar">
 <!ENTITY printButton.label "Imprentar">
 <!ENTITY stopButton.label "Detener">
 <!ENTITY throbberItem.title "Indicador d'actividá">
 <!ENTITY junkItem.title "Puxarra">
-<!ENTITY junkButton.label "Puxarra">
-<!ENTITY notJunkButton.label "Llexítimu">
 <!ENTITY addressBookButton.label "Direiciones">
 <!ENTITY chatButton.label "Charrar">
 <!ENTITY glodaSearch.title "Gueta global">
@@ -555,13 +543,9 @@
 <!ENTITY previousMsgButton.tooltip "Movese al mensaxe anterior">
 <!ENTITY goForwardButton.tooltip "Dir al mensaxe siguiente">
 <!ENTITY goBackButton.tooltip "Dir al mensaxe anterior">
-<!ENTITY deleteButton.tooltip "Desaniciar el mensaxe o la carpeta esbillaos">
-<!ENTITY undeleteButton.tooltip "Recuperar mensaxe esbilláu">
 <!ENTITY markButton.tooltip "Conseñar mensaxes">
 <!ENTITY printButton.tooltip "Imprentar esti mensaxe">
 <!ENTITY stopButton.tooltip "Detener la tresferencia actual">
-<!ENTITY junkButton.tooltip "Conseñar los mensaxes esbillaos como non deseaos">
-<!ENTITY notJunkButton.tooltip "Conseñar los mensaxes esbillaos como corréu normal">
 <!ENTITY addressBookButton.tooltip "Dir a la llibreta de direiciones">
 <!ENTITY chatButton.tooltip "Amosar la llingüeta de chat">
 <!ENTITY tagButton.tooltip "Etiquetar mensaxes">

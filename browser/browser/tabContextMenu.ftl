@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Amestar la llingüeta a Marcadores
     .accesskey = M
-reopen-in-container =
-    .label = Volver abrir nun contenedor
-    .accesskey = r
 tab-context-open-in-new-container-tab =
     .label = Abrir nuna llingüeta de contenedor nueva
     .accesskey = e
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Zarrar delles llingüetes
     .accesskey = d
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Desfacer el zarru de la llingüeta
-            [one] Desfacer el zarru de la llingüeta
-           *[other] Desfacer el zarru de les llingüetes
-        }
-    .accesskey = D
-close-tab =
-    .label = Zarrar la llingüeta
-    .accesskey = Z
-close-tabs =
-    .label = Zarrar les llingüetes
-    .accesskey = g
-move-tabs =
-    .label = Mover les llingüetes
-    .accesskey = v
-move-tab =
-    .label = Mover la llingüeta
-    .accesskey = v
 tab-context-share-url =
     .label = Compartir
     .accesskey = C
@@ -122,3 +99,4 @@ tab-context-move-tabs =
            *[other] Mover les llingüetes
         }
     .accesskey = v
+

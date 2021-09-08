@@ -2,16 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-httpsonly-insecure-title = La conexón segura nun ta disponible
-
-# Variables:
-#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-insecure-explanation-unavailable = Tas restolando nel mou de namás HTTPS y la versión HTTPS de <em>{ $websiteUrl }</em> nun ta disponible.
-about-httpsonly-insecure-explanation-reasons = Ye probable que'l sitiu web nun sofite HTTPS mas tamién ye posible qu'un atacador tea bloquiando la versión HTTPS.
-about-httpsonly-insecure-explanation-exception = Magar que'l riesgu de seguranza ye baxu, si decides visitar la versión HTTP del sitiu web, nun habríes introducir nenguna información confidencial como contraseñes, correos o tarxetes de creitu.
-
-about-httpsonly-button-make-exception = Aceptar el riesgu y siguir col sitiu.
-
 about-httpsonly-title-alert = Alerta del mou de namás HTTPS
 about-httpsonly-title-connection-not-available = La conexón segura nun ta disponible
 

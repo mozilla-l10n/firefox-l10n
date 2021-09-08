@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Xestor de complementos
-
 addons-page-title = Xestor de complementos
 
 list-empty-get-extensions-message = Consigui estensiones y estilos en <a data-l10n-name="get-extensions">{ $domain }</a>
@@ -25,18 +22,6 @@ help-button = Sofitu pa los complementos
 sidebar-help-button-title =
     .title = Sofitu pa los complementos
 
-preferences =
-    { PLATFORM() ->
-        [windows] Opciones de { -brand-short-name }
-       *[other] Preferencies de { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opciones de { -brand-short-name }
-           *[other] Preferencies de { -brand-short-name }
-        }
-
 addons-settings-button = Axustes de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Axustes de { -brand-short-name }
@@ -46,31 +31,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Amosar toles estensiones
-
-cmd-show-details =
-    .label = Amosar más información
-    .accesskey = A
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opciones
-           *[other] Preferencies
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-install-addon =
-    .label = Instalar
-    .accesskey = I
-
-cmd-contribute =
-    .label = Collaborar
-    .accesskey = C
-    .tooltiptext = Collabora col desendolcu d'esti complementu
 
 detail-version =
     .label = Versión
