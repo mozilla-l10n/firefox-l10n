@@ -11,20 +11,12 @@ about-logins-page-title = લોગિન્સ અને પાસવર્ડ�
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = તમારા પાસવર્ડ્સને દરેક જગ્યાએ લઇ  જાઓ
-login-app-promo-subtitle = મફત { -lockwise-brand-name } એપ્લિકેશન મેળવો
-login-app-promo-android =
-    .alt = તેને ગૂગલ પ્લે પર મેળવો
-login-app-promo-apple =
-    .alt = એપ સ્ટોર પર ડાઉનલોડ કરો
-
 login-filter =
     .placeholder = લોગિન્સ શોધો
 
 create-login-button = નવું લોગિન બનાવો
 
 fxaccounts-sign-in-text = તમારા પાસવર્ડ્સ તમારા અન્ય ઉપકરણો પર મેળવો
-fxaccounts-sign-in-button = { -sync-brand-short-name } પર સાઇન ઇન કરો
 fxaccounts-avatar-button =
     .title = એકાઉન્ટ મેનેજ કરો
 
@@ -38,8 +30,6 @@ menu-menuitem-preferences =
        *[other] પસંદગીઓ
     }
 about-logins-menu-menuitem-help = મદદ કરો
-menu-menuitem-android-app = { -lockwise-brand-short-name } એન્ડ્રોઇડ માટે
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } આઇફોન અને આઈપેડ માટે
 
 ## Login List
 
@@ -70,13 +60,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = તમારા સાચવેલા લોગિન્સ શોધી રહ્યાં છો? { -sync-brand-short-name }  સેટ કરો.
-
 about-logins-login-intro-heading-logged-in = કોઈ સમન્વયિત લોગિન્સ મળ્યાં નથી.
 login-intro-description = જો તમે તમારા લોગિન્સને કોઈ અલગ ડિવાઇસ { -brand-product-name } પર સાચવ્યાં છે, તો અહીં તેમને કેવી રીતે મેળવવા તે અહીં છે:
-login-intro-instruction-fxa = જ્યાં તમારા લોગિન્સ સચવાયા છે ત્યાં ડિવાઇસ પર તમારું { -fxaccount-brand-name } બનાવો અથવા સાઇન ઇન કરો
-login-intro-instruction-fxa-settings = સુનિશ્ચિત કરો કે તમે { -sync-brand-short-name } સેટિંગ્સમાં લોગિન્સ ચેકબોક્સ પસંદ કર્યું છે
-about-logins-intro-instruction-help = વધુ સહાય માટે <a data-l10n-name="help-link"> { -lockwise-brand-short-name }સપોર્ટ</a> ની મુલાકાત લો
 
 ## Login
 
@@ -120,8 +105,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = સાચવેલા
 
 ## Master Password notification
 
-master-password-notification-message = સાચવેલ લોગિન્સ અને પાસવર્ડો જોવા માટે કૃપા કરીને તમારો મુખ્ય પાસવર્ડ દાખલ કરો
-
 ## Primary Password notification
 
 master-password-reload-button =
@@ -129,15 +112,6 @@ master-password-reload-button =
     .accesskey = L
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] તમે જ્યાં પણ { -brand-product-name } નો ઉપયોગ કરો છો ત્યાં તમારા લોગિન્સ જોઈએ છે? તમારા { -sync-brand-short-name } વિકલ્પો પર જાઓ અને લોગિન્સ ચેકબોક્સ પસંદ કરો.
-       *[other] તમે જ્યાં પણ { -brand-product-name } નો ઉપયોગ કરો છો ત્યાં તમારા લોગિન્સ જોઈએ છે? તમારી { -sync-brand-short-name } પસંદગીઓ પર જાઓ અને લોગિન્સ ચેકબોક્સ પસંદ કરો.
-    }
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = મને ફરીથી પૂછશો નહીં
-    .accesskey = D
 
 ## Dialogs
 

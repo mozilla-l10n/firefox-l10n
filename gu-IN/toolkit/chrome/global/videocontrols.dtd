@@ -11,10 +11,6 @@
 <!ENTITY castingButton.castingLabel "સ્ક્રીનમાં કાસ્ટ કરો">
 <!ENTITY closedCaption.off "બંધ કરો">
 
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "અવાજ સ્લાઇડર">
-
 <!ENTITY error.aborted "વીડિયો લાવવાનું અટક્યું.">
 <!ENTITY error.network "નેટવર્ક ક્ષતિને કારણે વીડિયો ચલાવવાનું અડધેથી બંધ કરવામાં આવ્યું.">
 <!ENTITY error.decode "વીડિયો ચલાવી શકતા નથી કારણ કે ફાઇલ બગડેલી છે.">

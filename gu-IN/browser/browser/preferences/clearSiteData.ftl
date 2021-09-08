@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = વેબસાઇટ્સને છબીઓ અને ડેટા ફરીથી લોડ કરવાની જરૂર પડશે
 
-clear-site-data-cancel =
-    .label = રદ કરો
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = સાફ કરો
-    .accesskey = I
-
 clear-site-data-dialog =
     .buttonlabelaccept = સાફ કરો
     .buttonaccesskeyaccept = I

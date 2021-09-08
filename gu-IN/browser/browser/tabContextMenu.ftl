@@ -41,9 +41,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = ટૅબને બુકમાર્ક કરો
     .accesskey = B
-reopen-in-container =
-    .label = કન્ટેઈનર માં ફરીથી ખોલો
-    .accesskey = e
 move-to-start =
     .label = શરુ કરવાં માટે લઇ જાઓ
     .accesskey = S
@@ -53,18 +50,6 @@ move-to-end =
 move-to-new-window =
     .label = નવી વિન્ડોમાં ખસેડો
     .accesskey = W
-close-tab =
-    .label = ટૅબને બંધ કરો
-    .accesskey = C
-close-tabs =
-    .label = ટૅબ્સ બંધ કરો
-    .accesskey = S
-move-tabs =
-    .label = ટૅબ્સને ખસેડો
-    .accesskey = v
-move-tab =
-    .label = ટૅબને ખસેડો
-    .accesskey = v
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

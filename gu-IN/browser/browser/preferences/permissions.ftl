@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = બધી વેબસાઇટ્સને દૂર કરો
     .accesskey = e
 
-permissions-button-cancel =
-    .label = રદ કરો
-    .accesskey = C
-
-permissions-button-ok =
-    .label = પરિવર્તનો સાચવો
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = પરિવર્તનો સાચવો
     .buttonaccesskeyaccept = S

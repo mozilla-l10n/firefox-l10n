@@ -110,9 +110,6 @@ menu-file-go-offline =
 menu-edit =
     .label = ફેરફાર
     .accesskey = E
-menu-edit-find-on =
-    .label = આ પાનાંમાં શોધો...
-    .accesskey = F
 menu-edit-find-again =
     .label = ફરી શોધો
     .accesskey = g
@@ -128,9 +125,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = સાધનપટ્ટીઓ
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = વૈવિધ્યપૂર્ણ બનાવો...
-    .accesskey = C
 menu-view-sidebar =
     .label = બાજુપટ્ટી
     .accesskey = e
@@ -161,9 +155,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = મૂળભૂત પાનાં શૈલી
     .accesskey = B
-menu-view-charset =
-    .label = લખાણ એનકોડીંગ
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -212,10 +203,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = બુકમાર્ક્સ
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = બધા બુકમાર્ક્સને બતાવો
-menu-bookmark-this-page =
-    .label = આ પાનાંને બુકમાર્ક કરો
 menu-bookmark-edit =
     .label = આ બુકમાર્કમાં ફેરફાર કરો
 menu-bookmarks-all-tabs =
@@ -235,32 +222,15 @@ menu-tools =
 menu-tools-downloads =
     .label = ડાઉનલોડ
     .accesskey = D
-menu-tools-addons =
-    .label = એડ-ઓન
-    .accesskey = A
 menu-tools-sync-now =
     .label = હમણાં સમન્વયિત કરો
     .accesskey = S
-menu-tools-web-developer =
-    .label = વેબ ડેવલપર
-    .accesskey = W
 menu-tools-page-source =
     .label = પાનાં સ્રોત
     .accesskey = o
 menu-tools-page-info =
     .label = પાનાં જાણકારી
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] વિકલ્પો
-           *[other] પસંદગીઓ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = લેઆઉટ ડિબગર
     .accesskey = L
@@ -295,29 +265,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = મદદ
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } મદત
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } શોધ
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = કીબોર્ડ શૉર્ટકટ્સ
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = મુશ્કેલીનિવારણ જાણકારી
-    .accesskey = T
 menu-help-report-site-issue =
     .label = સાઇટ સમસ્યાનો અહેવાલ આપો…
 menu-help-feedback-page =
     .label = પ્રતિસાદને ઉમેરો…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = નિષ્ક્રિય થયેલ ઍડ-ઑન સાથે પુન:શરૂ કરો…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = અડ-ઓન્સ સક્ષમ કારી અને પુનઃ પ્રારંભ કરો
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
