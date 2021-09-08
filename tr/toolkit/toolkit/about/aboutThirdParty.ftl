@@ -10,9 +10,6 @@ third-party-intro =
     gösterir. Microsoft veya { -vendor-short-name } tarafından imzalanmamış
     herhangi bir modül, üçüncü taraf modül olarak kabul edilir.
 
-third-party-header-module-list = Modül listesi
-third-party-header-loading-events = Olaylar yükleniyor
-
 third-party-message-empty = Hiçbir üçüncü taraf modülü algılanmadı.
 third-party-message-no-duration = Kaydedilmedi
 

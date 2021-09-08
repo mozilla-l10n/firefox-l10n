@@ -118,7 +118,6 @@
 
 <!ENTITY Photo.tab "Resim">
 <!ENTITY Photo.accesskey "i">
-<!ENTITY PhotoDesc.label "Aşağıdakilerden birini seçin:">
 <!ENTITY GenericPhoto.label "Genel resim">
 <!ENTITY GenericPhoto.accesskey "G">
 <!ENTITY DefaultPhoto.label "Öntanımlı">

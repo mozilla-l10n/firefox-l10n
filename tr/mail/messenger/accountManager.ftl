@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = { -brand-short-name } tercihleri
 
 open-addons-sidebar-button = Eklentiler ve Temalar
+

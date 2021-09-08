@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Bağlı olup olunmadığını kendiliğinden izle
     .accesskey = z
 
-startup-label = Başlangıçta bu şekilde ayarla:
-
 offline-preference-startup-label = Başlangıçta bu şekilde ayarla:
 
 status-radio-remember =

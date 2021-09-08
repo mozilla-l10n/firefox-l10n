@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Başka bir cihaz bağla
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = Firefox’u hâlâ mobil cihazınıza yüklemediyseniz <a data-l10n-name="connect-another-device">şimdi yükleyin</a>.
-
-fxa-qrcode-heading-phase2 = Ardından { -sync-brand-short-name }’e giriş yapın veya Android kullanıyorsanız { -sync-brand-short-name } ayarlarına girip eşleştirme kodunu tarayın.
-
 fxa-qrcode-heading-step1 = 1. Firefox’u henüz mobil cihazınıza yüklemediyseniz <a data-l10n-name="connect-another-device">şimdi yükleyin</a>.
 
 fxa-qrcode-heading-step2 = 2. Mobil cihazınızda Firefox’u açın.

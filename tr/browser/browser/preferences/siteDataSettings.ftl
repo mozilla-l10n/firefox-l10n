@@ -7,10 +7,13 @@
 
 site-data-settings-window =
     .title = Çerezleri ve Site Verilerini Yönet
+
 site-data-settings-description = Aşağıdaki web siteleri bilgisayarınızda ve çerez ve site verisi depoluyor. { -brand-short-name } kalıcı depolama yapan web sitelerinin verilerini siz silene dek saklar, geçici depolama yapan web sitelerinin verilerini ise yer ihtiyacı olduğunda siler.
+
 site-data-search-textbox =
     .placeholder = Web sitelerinde ara
     .accesskey = W
+
 site-data-column-host =
     .label = Site
 site-data-column-cookies =
@@ -19,20 +22,18 @@ site-data-column-storage =
     .label = Depolama
 site-data-column-last-used =
     .label = Son kullanım
+
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (yerel dosya)
+
 site-data-remove-selected =
     .label = Seçilenleri sil
     .accesskey = S
-site-data-button-cancel =
-    .label = Vazgeç
-    .accesskey = z
-site-data-button-save =
-    .label = Değişiklikleri kaydet
-    .accesskey = a
+
 site-data-settings-dialog =
     .buttonlabelaccept = Değişiklikleri kaydet
     .buttonaccesskeyaccept = a
+
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
@@ -40,9 +41,11 @@ site-storage-usage =
     .value = { $value } { $unit }
 site-storage-persistent =
     .value = { site-storage-usage.value } (Kalıcı)
+
 site-data-remove-all =
     .label = Hepsini sil
     .accesskey = e
+
 site-data-remove-shown =
     .label = Görünenlerin hepsini sil
     .accesskey = e
@@ -52,9 +55,13 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Sil
+
 site-data-removing-header = Çerezler ve site verileri siliniyor
+
 site-data-removing-desc = Çerezleri ve site verilerini silerseniz bazı sitelerdeki oturumlarınız kapanabilir. Bu değişiklikleri yapmak istediğinizden emin misiniz?
+
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Çerezleri ve site verilerini silmek, web sitelerinden çıkış yapmanıza neden olabilir. <strong>{ $baseDomain }</strong> çerezlerini ve site verilerini silmek istediğinizden emin misiniz?
+
 site-data-removing-table = Aşağıdaki web sitelerine ait çerezler ve site verileri silinecektir.

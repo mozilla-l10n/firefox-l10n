@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Tüm siteleri sil
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Vazgeç
-    .accesskey = a
-
-permissions-button-ok =
-    .label = Değişiklikleri kaydet
-    .accesskey = D
-
 permission-dialog =
     .buttonlabelaccept = Değişiklikleri kaydet
     .buttonaccesskeyaccept = D

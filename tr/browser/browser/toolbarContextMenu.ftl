@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Tüm sekmeleri seç
     .accesskey = ü
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Kapatılan sekmeyi aç
-            [one] Kapatılan sekmeyi aç
-           *[other] Kapatılan sekmeleri aç
-        }
-    .accesskey = l
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -57,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Adres çubuğu menüsüne sabitle
     .accesskey = s
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Araç çubuğunda kendiliğinden gizle
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Boşsa düğmeyi gizle
     .accesskey = B

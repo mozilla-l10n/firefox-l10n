@@ -8,19 +8,16 @@ auth-label = Kişinin kimliğini doğrula
 reauth-label = Kişinin kimliğini yeniden doğrula
 
 auth-cancel = İptal
-auth-cancelAccessKey = İ
 
 auth-cancel-access-key = V
 
 auth-error = Kişinin kimliği doğrulanırken bir hata oluştu.
 auth-success = Kişinin kimliğinin doğrulanması başarıyla tamamlandı.
-auth-successThem = Karşı taraf kimliğinizi başarıyla doğruladı. Siz de kendi sorunuzu sorarak karşı tarafın kimliğini doğrulamak isteyebilirsiniz.
 auth-success-them = Karşı taraf kimliğinizi başarıyla doğruladı. Siz de kendi sorunuzu sorarak karşı tarafın kimliğini doğrulamak isteyebilirsiniz.
 auth-fail = Kişinin kimliği doğrulanamadı.
 auth-waiting = Kişinin doğrulamayı tamamlaması bekleniyor…
 
 finger-verify = Doğrula
-finger-verify-accessKey = D
 
 finger-verify-access-key = D
 
@@ -37,10 +34,6 @@ alert-refresh = { $name } adlı kişiyle şifrelenmiş görüşme yenileniyor.
 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-alert-gone_insecure = { $name } adlı kişiyle şifrelenmiş görüşme sona erdi.
-
-# Variables:
-#   $name (String) - the screen name of a chat contact person
 alert-gone-insecure = { $name } adlı kişiyle şifrelenmiş görüşme sona erdi.
 
 # Variables:
@@ -50,8 +43,6 @@ finger-unseen = { $name } adlı kişinin kimliği henüz doğrulanmadı. Sırada
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-seen = { $name } tanınmayan bir bilgisayardan sizinle iletişim kuruyor. Sıradan gizli dinleme mümkün değildir ama biraz çaba sarf eden biri dinliyor olabilir. Bu kişinin kimliğini doğrulayarak gizli dinlemeyi önleyebilirsiniz.
-
-state-not_private = Bu görüşme gizli değil.
 
 state-not-private = Bu görüşme gizli değil.
 
@@ -66,8 +57,6 @@ state-private = { $name } kişisinin kimliği doğrulandı. Geçerli görüşme 
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-finished = { $name } sizinle şifrelenmiş görüşmeyi sonlandırdı. Siz de aynısını yapmalısınız.
-
-state-not_private-label = Güvensiz
 
 state-not-private-label = Güvensiz
 state-unverified-label = Doğrulanmamış
@@ -89,7 +78,6 @@ afterauth-unverified = { $name } kişisinin kimliği doğrulanmadı.
 verify-title = Kişinin kimliğini doğrula
 error-title = Hata
 success-title = Uçtan Uca Şifreleme
-successThem-title = Kişinin kimliğini doğrula
 success-them-title = Kişinin kimliğini doğrula
 fail-title = Doğrulanamıyor
 waiting-title = Doğrulama isteği gönderildi

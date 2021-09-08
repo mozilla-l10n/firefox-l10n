@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Devam et
     .buttonaccesskeyaccept = D
 
-carddav-experimental-warning = CardDAV adres defteri desteği deneyseldir ve verilerinize kalıcı zarar verebilir. Kullanmak sizin sorumluluğunuzdadır.
-
-carddav-provider-label =
-    .value = CardDAV sağlayıcısı:
-    .accesskey = s
-
-carddav-provider-option-other = Başka sağlayıcı…
-
-carddav-url-label =
-    .value = CardDAV adresi:
-    .accesskey = V
-
 carddav-username-label =
     .value = Kullanıcı adı:
     .accesskey = K
-carddav-username-input =
-    .placeholder = kullanici@example.com
-
-carddav-password-label =
-    .value = Parola:
-    .accesskey = o
-carddav-password-input =
-    .placeholder = Parola
-
-carddav-remember-password =
-    .label = Parolayı hatırla
-    .accesskey = h
 
 carddav-location-label =
     .value = Konum:

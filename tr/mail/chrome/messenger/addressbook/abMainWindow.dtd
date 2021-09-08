@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Kapat">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "K">
-<!ENTITY printSetupCmd.label                            "Sayfa düzeni…">
-<!ENTITY printSetupCmd.accesskey                        "z">
-<!ENTITY printPreviewContactCmd.label                   "Kişi yazdırma ön izleme">
-<!ENTITY printPreviewContactCmd.accesskey               "K">
-<!ENTITY printPreviewAddressBook.label                  "Adres defteri yazdırma ön izlemesi">
-<!ENTITY printPreviewAddressBook.accesskey              "r">
 <!ENTITY printContactCmd.label                          "Kişiyi yazdır…">
 <!ENTITY printContactCmd.accesskey                      "i">
 <!ENTITY printContactCmd.key                            "P">
@@ -111,10 +105,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "t">
 <!ENTITY exportCmd.label                                "Dışa aktar…">
 <!ENTITY exportCmd.accesskey                            "a">
-<!ENTITY preferencesCmd2.label                          "Seçenekler">
-<!ENTITY preferencesCmd2.accesskey                      "S">
-<!ENTITY preferencesCmdUnix.label                       "Tercihler">
-<!ENTITY preferencesCmdUnix.accesskey                   "c">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Yeni kişi">

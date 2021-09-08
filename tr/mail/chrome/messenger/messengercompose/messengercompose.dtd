@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Yeni">
 <!ENTITY newMenu.accesskey "n">
 <!ENTITY newMessage.label "İleti">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "e">
 <!ENTITY newContact.label "Adres defteri kişisi…">
 <!ENTITY newContact.accesskey "A">
 <!ENTITY attachMenu.label "Ekle">
 <!ENTITY attachMenu.accesskey "E">
-<!ENTITY attachFileCmd.label "Dosya…">
-<!ENTITY attachFileCmd.accesskey "o">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "l">
 <!ENTITY attachPageCmd.label "Web sayfası…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Daha sonra gönder">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "a">
-<!ENTITY printSetupCmd.label "Sayfa düzeni…">
-<!ENTITY printSetupCmd.accesskey "y">
-<!ENTITY printPreviewCmd.label "Yazdırma ön izleme">
-<!ENTITY printPreviewCmd.accesskey "Y">
 <!ENTITY printCmd.label "Yazdır…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "r">
@@ -82,11 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Eklerin sırasını değiştir…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Ek bölmesi">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
-<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
 <!ENTITY selectAllCmd.accesskey "e">
 <!ENTITY findBarCmd.label "Bul…">
 <!ENTITY findBarCmd.accesskey "B">
@@ -105,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Eklerin sırasını değiştir">
-<!ENTITY moveAttachmentTopPanelBtn.label "Üste taşı">
-<!ENTITY moveAttachmentUpPanelBtn.label "Yukarı taşı">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Birlikte taşı">
-<!ENTITY moveAttachmentDownPanelBtn.label "Aşağı taşı">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Alta taşı">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -207,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Hesap ayarları">
 <!ENTITY accountManagerCmd2.accesskey "A">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
-<!ENTITY preferencesCmd2.label "Seçenekler">
-<!ENTITY preferencesCmd2.accesskey "S">
-<!ENTITY preferencesCmdUnix.label "Tercihler">
-<!ENTITY preferencesCmdUnix.accesskey "c">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -223,7 +201,6 @@
 <!ENTITY sendButton.label "Gönder">
 <!ENTITY quoteButton.label "Alıntıla">
 <!ENTITY addressButton.label "Kişiler">
-<!ENTITY attachButton.label "Ekle">
 <!ENTITY spellingButton.label "Yazım denetimi">
 <!ENTITY saveButton.label "Kaydet">
 <!ENTITY printButton.label "Yazdır">
@@ -233,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Bu iletiyi daha sonra gönder">
 <!ENTITY quoteButton.tooltip "Önceki iletiden alıntı yap">
 <!ENTITY addressButton.tooltip "Adres Defteri'nden alıcı seç">
-<!ENTITY attachButton.tooltip2 "Dosya ekle">
 <!ENTITY spellingButton.tooltip "Seçimin veya tüm iletinin yazımını denetle">
 <!ENTITY saveButton.tooltip "Bu iletiyi kaydet">
 <!ENTITY cutButton.tooltip              "Kes">
@@ -248,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Diğer adres alanı türleri">
 <!ENTITY fromAddr2.label "Kimden">
 <!ENTITY fromAddr.accesskey "m">
-<!ENTITY toAddr2.label "Kime">
-<!ENTITY ccAddr2.label "Cc">
-<!ENTITY bccAddr2.label "Bcc">
 <!ENTITY replyAddr2.label "Reply-To">
 <!ENTITY newsgroupsAddr2.label "Haber grubu">
 <!ENTITY followupAddr2.label "Followup-To">
@@ -309,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "m">
 <!ENTITY selectAll.label "Tümünü seç">
 <!ENTITY selectAll.accesskey "e">
-<!ENTITY attachFile.label "Dosya ekle…">
-<!ENTITY attachFile.accesskey "D">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "l">
 <!ENTITY convertCloud.label "Dönüştür…">

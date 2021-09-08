@@ -38,16 +38,20 @@ menu-quit =
             [windows] k
            *[other] k
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } uygulamasından çık
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } tarayıcısından çık
+
 menu-about =
     .label = { -brand-shorter-name } hakkında
     .accesskey = h
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Düzen
     .accesskey = z
-menu-edit-find-on =
-    .label = Bu sayfada bul…
-    .accesskey = s
 menu-edit-find-in-page =
     .label = Sayfada bul…
     .accesskey = b
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Araç çubukları
     .accesskey = A
-menu-view-customize-toolbar =
-    .label = Özelleştir…
-    .accesskey = Ö
 menu-view-customize-toolbar2 =
     .label = Araç çubuğunu özelleştir…
     .accesskey = z
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Temel sayfa stili
     .accesskey = T
-menu-view-charset =
-    .label = Metin kodlaması
-    .accesskey = k
 menu-view-repair-text-encoding =
     .label = Metin kodlamasını onar
     .accesskey = M
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Tüm pencereleri yeniden aç
 menu-bookmarks-menu =
     .label = Yer imleri
     .accesskey = Y
-menu-bookmarks-show-all =
-    .label = Tüm yer imlerini göster
-menu-bookmark-this-page =
-    .label = Bu sayfayı yer imlerine ekle
 menu-bookmarks-manage =
     .label = Yer imlerini yönet
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = İndirilenler
     .accesskey = d
-menu-tools-addons =
-    .label = Eklentiler
-    .accesskey = E
-menu-tools-fxa-sign-in =
-    .label = { -brand-product-name }’a giriş yap…
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name }’i etkinleştir…
-    .accesskey = n
 menu-tools-addons-and-themes =
     .label = Eklentiler ve temalar
     .accesskey = a
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name }’a yeniden bağlan…
     .accesskey = b
-menu-tools-web-developer =
-    .label = Web geliştirici
-    .accesskey = W
 menu-tools-browser-tools =
     .label = Tarayıcı araçları
     .accesskey = T
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Sayfa bilgileri
     .accesskey = b
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Seçenekler
-           *[other] Tercihler
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] T
-        }
 menu-settings =
     .label = Ayarlar
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Yardım
     .accesskey = r
-menu-help-product =
-    .label = { -brand-shorter-name } yardımı
-    .accesskey = m
-menu-help-show-tour =
-    .label = { -brand-shorter-name } turu
-    .accesskey = u
-menu-help-import-from-another-browser =
-    .label = Başka bir tarayıcıdan içe aktar…
-    .accesskey = B
-menu-help-keyboard-shortcuts =
-    .label = Klavye kısayolları
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Sorun giderme bilgileri
-    .accesskey = b
 menu-get-help =
     .label = Yardım al
     .accesskey = Y
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Geri bildirim gönder…
     .accesskey = G
-menu-help-safe-mode-without-addons =
-    .label = Eklentileri devre dışı bırakıp başlat…
-    .accesskey = E
-menu-help-safe-mode-with-addons =
-    .label = Eklentileri etkinleştirip yeniden başlat
-    .accesskey = E
 menu-help-enter-troubleshoot-mode2 =
     .label = Sorun giderme modu…
     .accesskey = o

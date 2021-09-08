@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Bu iletiye sayısal imza ekle">
 <!ENTITY menu_securitySign.accesskey "u">
 
-<!ENTITY menu_securityAttachMyKey.label "Ortak anahtarımı ekle">
-<!ENTITY menu_securityAttachMyKey.accesskey "O">
-
 <!ENTITY menu_securityTech.label "Şifreleme teknolojisi">
 <!ENTITY menu_securityTech.accesskey "T">
 

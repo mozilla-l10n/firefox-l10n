@@ -19,9 +19,6 @@ auth-your-fp-value = { $own_name } için parmak izi:
 auth-their-fp-value = { $their_name } için parmak izi:
 
 auth-help = Bir kişinin kimliğini doğrulamak, görüşmenin gerçekten özel olmasını sağlar ve üçüncü bir kişinin konuşmayı gizlice dinlemesini veya manipüle etmesini çok zorlaştırır.
-auth-helpTitle = Doğrulama yardımı
-
-auth-questionReceived = Karşı tarafın sorduğu soru:
 
 auth-help-title = Doğrulama yardımı
 
@@ -34,21 +31,6 @@ auth-no =
     .label = Hayır
 
 auth-verified = Bunun gerçekten doğru parmak izi olduğunu doğruladım.
-
-auth-manualVerification = Elle parmak izi doğrulaması
-auth-questionAndAnswer = Soru ve cevap
-auth-sharedSecret = Ortak sır
-
-auth-manualVerification-label =
-    .label = { auth-manualVerification }
-
-auth-questionAndAnswer-label =
-    .label = { auth-questionAndAnswer }
-
-auth-sharedSecret-label =
-    .label = { auth-sharedSecret }
-
-auth-manualInstruction = Yazışmak istediğiniz kişiyle başka bir kanaldan (örn. OpenPGP imzalı e-posta veya telefon) iletişim kurun. Birbirinize parmak izlerinizi söyleyin. (Parmak izi, şifreleme anahtarını tanımlayan bir sağlama toplamıdır.) Parmak izleri eşleşirse aşağıdaki iletişim kutusuna parmak izini doğruladığınızı belirtin.
 
 auth-manual-verification = Elle parmak izi doğrulaması
 auth-question-and-answer = Soru ve cevap
@@ -66,10 +48,6 @@ auth-shared-secret-label =
 auth-manual-instruction = Yazışmak istediğiniz kişiyle başka bir kanaldan (örn. OpenPGP imzalı e-posta veya telefon) iletişim kurun. Birbirinize parmak izlerinizi söyleyin. (Parmak izi, şifreleme anahtarını tanımlayan bir sağlama toplamıdır.) Parmak izleri eşleşirse aşağıdaki iletişim kutusuna parmak izini doğruladığınızı belirtin.
 
 auth-how = Kişinin kimliğini nasıl doğrulamak istersiniz?
-
-auth-qaInstruction = Cevabını sadece sizin ve karşı tarafın bildiği bir soru düşünün. Soruyu ve cevabını girin, ardından karşı tarafın da cevabı girmesini bekleyin. Cevaplar eşleşmezse kullandığınız iletişim kanalı gözetim altında olabilir.
-
-auth-secretInstruction = Yalnızca sizin ve karşı tarafın bildiği bir sır düşünün. Sırrınızı internet üzerinden paylaşmayın. Sırrı yazın, ardından karşı tarafından da yazmasını bekleyin. Sırlar uyuşmuyorsa kullandığınız iletişim kanalı gözetim altında olabilir.
 
 auth-qa-instruction = Cevabını sadece sizin ve karşı tarafın bildiği bir soru düşünün. Soruyu ve cevabını girin, ardından karşı tarafın da cevabı girmesini bekleyin. Cevaplar eşleşmezse kullandığınız iletişim kanalı gözetim altında olabilir.
 
