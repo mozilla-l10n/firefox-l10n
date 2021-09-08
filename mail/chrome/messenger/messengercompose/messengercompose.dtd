@@ -181,7 +181,7 @@
 <!ENTITY tasksMenu.label "Εργαλεία">
 <!ENTITY tasksMenu.accesskey "γ">
 <!ENTITY messengerCmd.label "Ταχυδρομείο &amp; ομάδες συζητήσεων">
-<!ENTITY messengerCmd.accesskey "γ">
+<!ENTITY messengerCmd.accesskey "χ">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Ευρετήριο">
 <!ENTITY addressBookCmd.accesskey "ρ">
