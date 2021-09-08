@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Eliminar todos los sitios
     .accesskey = i
 
-translation-button-close =
-    .label = Cerrar
-    .accesskey = C
-
 translation-dialog =
     .buttonlabelaccept = Cerrar
     .buttonaccesskeyaccept = C

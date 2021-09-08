@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Vista previa">
-<!ENTITY printPreviewCmd.accesskey "V">
-<!ENTITY printSetupCmd.label "Configurar página…">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Borrar mensaje">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Vista compacta">
 <!ENTITY compactVersion.accesskey "c">
-<!ENTITY folderPaneBar.label "Barra de vista de tareas">
-<!ENTITY folderPaneBar.accesskey "t">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Libreta de direcciones">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Complementos">
-<!ENTITY addons.accesskey "C">
-<!ENTITY addonPrefs.label "Opciones de complementos">
-<!ENTITY addonPrefs.accesskey "O">
-<!ENTITY addonPrefsUnix.label "Preferencias de complementos">
-<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "No se encuentra la configuración de los complementos.">
 <!ENTITY activitymanager.label "Administrador de actividades">
 <!ENTITY activitymanager.accesskey "a">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Depurar los Complementos">
 <!ENTITY debugAddonsCmd.accesskey "A">
-<!ENTITY tabsDebugCmd.label "Depurador de contenido de marco">
-<!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "n">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Atrás">
 <!ENTITY goForwardButton1.label "Adelante">
 <!ENTITY deleteItem.title "Borrar">
-<!ENTITY deleteButton.label "Borrar">
-<!ENTITY undeleteButton.label "Recuperar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Detener">
 <!ENTITY throbberItem.title "Indicador de actividad">
 <!ENTITY junkItem.title "Basura">
-<!ENTITY junkButton.label "Basura">
-<!ENTITY notJunkButton.label "No es basura">
 <!ENTITY addressBookButton.label "Libreta de direcciones">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Búsqueda global">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Ir al mensaje anterior">
 <!ENTITY goForwardButton.tooltip "Avanzar un mensaje">
 <!ENTITY goBackButton.tooltip "Retroceder un mensaje">
-<!ENTITY deleteButton.tooltip "Borrar el mensaje o la carpeta seleccionados">
-<!ENTITY undeleteButton.tooltip "Recuperar el mensaje borrado seleccionado">
 <!ENTITY markButton.tooltip "Marcar mensajes">
 <!ENTITY printButton.tooltip "Imprimir este mensaje">
 <!ENTITY stopButton.tooltip "Detener la transferencia actual">
-<!ENTITY junkButton.tooltip "Marcar los mensajes seleccionados como correo basura">
-<!ENTITY notJunkButton.tooltip "Marcar los mensajes seleccionados como correo normal">
 <!ENTITY addressBookButton.tooltip "Ir a la libreta de direcciones">
 <!ENTITY chatButton.tooltip "Mostrar la pestaña de chat">
 <!ENTITY tagButton.tooltip "Etiquetar mensajes">
 <!ENTITY compactButton.tooltip "Eliminar mensajes borrados de la carpeta actual">
 <!ENTITY appmenuButton1.tooltip "Mostrar el menú de &brandShortName;">
-<!ENTITY addonsButton.tooltip "Administrar complementos">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Reenviar incorporado">

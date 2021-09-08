@@ -4,12 +4,6 @@
 
 <!-- extracted from ./customize.xul -->
 
-<!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "Personalizar &sidebarName;">
-<!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Pestañas en &sidebarName;:">
-<!ENTITY sidebar.customize.current.accesskey    "t">
-
 <!ENTITY sidebar.customize.title                "Personalizar barra lateral">
 <!ENTITY sidebar.customize.current2.label       "Pestañas en la barra lateral:">
 <!ENTITY sidebar.customize.current2.accesskey   "T">

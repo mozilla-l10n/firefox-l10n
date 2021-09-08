@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Huellas digitales de clave OTR de conversaciones cifradas de punta a punta anteriores.
 
-finger-screenName =
-    .label = Contacto
-
 finger-screen-name =
     .label = Contacto
 finger-verified =

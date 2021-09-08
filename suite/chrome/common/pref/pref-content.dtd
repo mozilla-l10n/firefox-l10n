@@ -33,10 +33,11 @@
 <!ENTITY defaultZoom.label                      "Zoom predeterminado">
 <!ENTITY defaultZoom.accesskey                  "D">
 
-<!ENTITY siteSpecific.label                     "Recordar niveles de zoom para cada sitio">
-<!ENTITY siteSpecific.accesskey                 "m">
 <!ENTITY textZoomOnly.label                     "Hacer zoom sólo en el texto en lugar de la página completa">
 <!ENTITY textZoomOnly.accesskey                 "z">
+<!ENTITY siteSpecific.label                     "Recordar niveles de zoom para cada sitio">
+<!ENTITY siteSpecific.accesskey                 "m">
+<!ENTITY showZoomStatusPanel.label              "Mostrar los controles de zoom en la barra de estado">
 <!ENTITY enableAutomaticImageResizing.label     "Redimensionar las imágenes grandes para que quepan en la ventana del navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 
@@ -45,4 +46,3 @@
 <!ENTITY blockAutoRefresh.label                 "Avisarme cuando sitios web traten de redirigir o recargar la página">
 <!ENTITY blockAutoRefresh.accesskey             "v">
 
-<!ENTITY showZoomStatusPanel.label              "Mostrar los controles de zoom en la barra de estado">
