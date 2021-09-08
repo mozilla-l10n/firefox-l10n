@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Cerca
     .aria-label = Cerca
 
-newtab-search-box-search-the-web-text = Cerca nnâ riti
-
 newtab-search-box-search-the-web-input =
     .placeholder = Cerca nnâ riti
     .title = Cerca nnâ riti

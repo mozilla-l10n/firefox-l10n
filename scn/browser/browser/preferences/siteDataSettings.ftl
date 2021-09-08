@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Cancella silizziunatu
     .accesskey = s
 
-site-data-button-cancel =
-    .label = Sfai
-    .accesskey = S
-
-site-data-button-save =
-    .label = Sarba canciamenti
-    .accesskey = S
-
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

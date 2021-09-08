@@ -95,9 +95,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Cancia
     .accesskey = C
-menu-edit-find-on =
-    .label = Cerca nna sta pàggina…
-    .accesskey = C
 menu-edit-find-again =
     .label = Cerca arrè
     .accesskey = r
@@ -113,9 +110,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Sbarri dî strumenti
     .accesskey = s
-menu-view-customize-toolbar =
-    .label = Pirsunalizza…
-    .accesskey = P
 menu-view-sidebar =
     .label = Sbarra di ciancu
     .accesskey = c
@@ -149,9 +143,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Stili di basi
     .accesskey = b
-menu-view-charset =
-    .label = Cudìfica dû testu
-    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -200,10 +191,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Nzingalibbri
     .accesskey = N
-menu-bookmarks-show-all =
-    .label = Mustra tutti i nzingalibbri
-menu-bookmark-this-page =
-    .label = Agghiunci sta pàggina ê nzingalibbri
 menu-bookmark-edit =
     .label = Cancia stu nzingalibbru
 menu-bookmarks-all-tabs =
@@ -223,41 +210,18 @@ menu-tools =
 menu-tools-downloads =
     .label = Scarricamenti
     .accesskey = S
-menu-tools-addons =
-    .label = Agghiuncitini
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = Trasi nne { -brand-product-name }…
-    .accesskey = T
-menu-tools-turn-on-sync =
-    .label = Attiva { -sync-brand-short-name }
-    .accesskey = A
 menu-tools-sync-now =
     .label = Sincrunizza ora
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = Ricullègati a { -brand-product-name }
     .accesskey = R
-menu-tools-web-developer =
-    .label = Diviluppaturi Web
-    .accesskey = D
 menu-tools-page-source =
     .label = Còdici dâ pàggina
     .accesskey = d
 menu-tools-page-info =
     .label = Nfurmazziuna dâ pàggina
     .accesskey = N
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Uzziuni
-           *[other] Prifirenzi
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] U
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -289,27 +253,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Ajutu
     .accesskey = A
-menu-help-product =
-    .label = Ajutu di { -brand-shorter-name }
-    .accesskey = A
-menu-help-show-tour =
-    .label = Vìsita cunnuciuta di { -brand-shorter-name }
-    .accesskey = V
-menu-help-keyboard-shortcuts =
-    .label = Accurzi dâ tastera
-    .accesskey = s
-menu-help-troubleshooting-info =
-    .label = Nfurmazziuna p'arrisòrbiri prubblemi
-    .accesskey = p
 menu-help-feedback-page =
     .label = Manna riscontru…
     .accesskey = r
-menu-help-safe-mode-without-addons =
-    .label = Riabbìa cu l'agghiuncitini disabbilitati…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = Riabbìa cu l'agghiuncitini abbilitati
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

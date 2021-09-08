@@ -49,9 +49,6 @@ lockwise-title = Nun ti scurdari cchiù nuḍḍa chiavi
 lockwise-header-content = { -lockwise-brand-name } sarba 'n sicurizza i to chiavi nnô to navigaturi.
 lockwise-header-content-logged-in = Sarba i to chiavi 'n manera sicura e sincrunìzzali cu tutti i to dispusitivi.
 
-turn-on-sync = Attiva { -sync-brand-short-name }…
-    .title = Vai nnê prifirenzi di sincrunizzazziuni
-
 monitor-title = Stai accura ê viulazziuna dî dati
 monitor-link = Comu funziona
 monitor-header-content-no-account = Cuntrolla { -monitor-brand-name } pi vìdiri si avisti quarchi viulazziuni dî dati, e nfòrmati supra ê novi viulazziuna.

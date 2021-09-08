@@ -41,28 +41,12 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Agghiunci scheda ê nzingalibbri
     .accesskey = A
-reopen-in-container =
-    .label = Rapi arrè nna un cuntinituri
-    .accesskey = c
 move-to-end =
     .label = Movi â fini
     .accesskey = f
 move-to-new-window =
     .label = Movi nta na finestra nova
     .accesskey = f
-
-close-tab =
-    .label = Chiuji scheda
-    .accesskey = C
-close-tabs =
-    .label = Chiuji schedi
-    .accesskey = s
-move-tabs =
-    .label = Movi schedi
-    .accesskey = v
-move-tab =
-    .label = Movi scheda
-    .accesskey = v
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Cudìfica testu pi cuntinutu datatu
-fonts-languages-fallback-desc = Sta cudìfica testu veni usata pû cuntinutu datatu ca nun arrinesci a cumunicari a so cudìfica.
-
-fonts-languages-fallback-label = Cudìfica testu di riserba
-    .accesskey = T
-
-fonts-languages-fallback-name-auto =
-    .label = Pridifinutu pi stu computer
-fonts-languages-fallback-name-arabic =
-    .label = Àrabbu
-fonts-languages-fallback-name-baltic =
-    .label = Bàrticu
-fonts-languages-fallback-name-ceiso =
-    .label = Europa Cintrali, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Europa Cintrali, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Cinisi simplificatu
-fonts-languages-fallback-name-traditional =
-    .label = Cinisi, Tradizziunali
-fonts-languages-fallback-name-cyrillic =
-    .label = Cirìllicu
-fonts-languages-fallback-name-greek =
-    .label = Grecu
-fonts-languages-fallback-name-hebrew =
-    .label = Àbbraicu
-fonts-languages-fallback-name-japanese =
-    .label = Giappunisi
-fonts-languages-fallback-name-korean =
-    .label = Curianu
-fonts-languages-fallback-name-thai =
-    .label = Tai
-fonts-languages-fallback-name-turkish =
-    .label = Turcu
-fonts-languages-fallback-name-vietnamese =
-    .label = Vitnamisi
-fonts-languages-fallback-name-other =
-    .label = Autru (nchiusu Europa Uccidintali)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

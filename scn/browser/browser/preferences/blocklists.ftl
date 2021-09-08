@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Lista
 
-blocklist-button-cancel =
-    .label = Sfai
-    .accesskey = S
-
-blocklist-button-ok =
-    .label = Sarba canciamenti
-    .accesskey = S
-
 
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.

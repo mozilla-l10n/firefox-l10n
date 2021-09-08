@@ -5,17 +5,6 @@
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Vai na pàggina nn'arrè
-    .aria-label = Nn'arrè
-    .accesskey = a
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -35,17 +24,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Vai avanti di na pàggina
-    .aria-label = Avanti
-    .accesskey = A
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -106,9 +84,6 @@ main-context-menu-page-save =
     .label = Sarba pàggina comu…
     .accesskey = c
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -155,10 +130,6 @@ main-context-menu-open-link-new-private-window =
     .label = Rapi a lijami nta na finestra privata nova
     .accesskey = a
 
-main-context-menu-bookmark-this-link =
-    .label = Agghiunci sta lijami ê nzingalibbri
-    .accesskey = z
-
 main-context-menu-save-link =
     .label = Sarba a lijami comu…
     .accesskey = j
@@ -178,10 +149,6 @@ main-context-menu-save-link-to-pocket =
 
 main-context-menu-copy-email =
     .label = Copia u nnirizzu e-mail
-    .accesskey = C
-
-main-context-menu-copy-link =
-    .label = Copia a lijami
     .accesskey = C
 
 ## Media (video/audio) controls
@@ -208,28 +175,6 @@ main-context-menu-media-unmute =
     .label = Sona
     .accesskey = S
 
-main-context-menu-media-play-speed-slow =
-    .label = Adaciu (0.5×)
-    .accesskey = A
-
-main-context-menu-media-play-speed-normal =
-    .label = Nurmali
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = Lesta (1.25×)
-    .accesskey = L
-
-main-context-menu-media-play-speed-faster =
-    .label = Cchiù lesta (1.5×)
-    .accesskey = C
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Senza lìmiti (2×)
-    .accesskey = S
-
 main-context-menu-media-loop =
     .label = Ripeti
     .accesskey = R
@@ -240,31 +185,9 @@ main-context-menu-media-loop =
 
 ##
 
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Mmàggini-nnâ-Mmàggini
-    .accesskey = M
-
 main-context-menu-image-reload =
     .label = Càrrica arrè mmàggini
     .accesskey = m
-
-main-context-menu-image-view =
-    .label = Talìa mmàggini
-    .accesskey = m
-
-main-context-menu-image-copy-location =
-    .label = Copia nnirizzu dâ mmàggini
-    .accesskey = m
-
-main-context-menu-video-copy-location =
-    .label = Copia nnirizzu dû vidiu
-    .accesskey = v
-
-main-context-menu-audio-copy-location =
-    .label = Copia nnirizzu dû sonu
-    .accesskey = s
 
 main-context-menu-image-save-as =
     .label = Sarba a mmàggini comu…
@@ -341,10 +264,7 @@ main-context-menu-view-page-source =
     .label = Talìa u còdici dâ pàggina
     .accesskey = p
 
-main-context-menu-view-page-info =
-    .label = Nfurmazziuna dâ pàggina
-    .accesskey = N
-
 main-context-menu-eme-learn-more =
     .label = Cchiù nfurmazziuna supra ô DRM…
     .accesskey = D
+

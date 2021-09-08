@@ -53,8 +53,6 @@ policy-DisableForgetButton = Mpidisci l'accessu ô buttuni Scorda.
 
 policy-DisableFormHistory = Nun ricurdari a cronuluggìa di ricerca e dî mòduli.
 
-policy-DisableMasterPasswordCreation = Si è veru, nun si po criari na palora d'accessu p'amministraturi.
-
 policy-DisablePasswordReveal = Nun pirmèttiri di mustrari i chiavi nnê cridinziali sarbati.
 
 policy-DisablePocket = Disabbìlita a pussibbilità di sarbari pàggini nne Pocket.

@@ -11,20 +11,12 @@ about-logins-page-title = Accessi e chiavi
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Pòrtati i chiavi unn'è-è
-login-app-promo-subtitle = Nzìtati l'appricazziuni { -lockwise-brand-name } a gratis
-login-app-promo-android =
-    .alt = Dispunìbbili nne Google Play
-login-app-promo-apple =
-    .alt = Scàrrica di l'App Store
-
 login-filter =
     .placeholder = Cerca nnê cridinziali
 
 create-login-button = Crea nova cridinziali
 
 fxaccounts-sign-in-text = Vidi i to chiavi nna tutti i to dispusitivi
-fxaccounts-sign-in-button = Trasi nne { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Gistisci cuntu
 
@@ -38,8 +30,6 @@ menu-menuitem-preferences =
        *[other] Prifirenzi
     }
 about-logins-menu-menuitem-help = Ajutu
-menu-menuitem-android-app = { -lockwise-brand-short-name } pi Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } pi iPhone e iPad
 
 ## Login List
 
@@ -66,13 +56,8 @@ about-logins-list-item-breach-icon =
 
 ## Introduction screen
 
-login-intro-heading = Stai circannu i to cridinziali sarbati? Cunfijura { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-in = Nuḍḍa cridinziali sincrunizzata truvata.
 login-intro-description = Si sarbasti i to cridinziali nne { -brand-product-name } nta n'autru dispusitivu, i po' ricupirari accussì:
-login-intro-instruction-fxa = Crea o trasi nne { -fxaccount-brand-name } nnô dispusitivu unni sunnu sarbati i cridinziali
-login-intro-instruction-fxa-settings = Cuntrolla chi cci mittisti a spunta nne Cridinziali nnê mpustazziuna di { -sync-brand-short-name }
-about-logins-intro-instruction-help = Vìsita u <a data-l10n-name="help-link">supportu di { -lockwise-brand-short-name }</a> p'aviri cchiù assai nfurmazziuna
 about-logins-intro-import = Si i to cridinziali sunnu sarbati nta n'autru navigaturi, i po' <a data-l10n-name="import-link">mpurtari nne { -lockwise-brand-short-name }</a>
 
 ## Login
@@ -108,8 +93,6 @@ login-item-time-used = Ùrtimu usu: { DATETIME($timeUsed, day: "numeric", month:
 
 ## Master Password notification
 
-master-password-notification-message = Pi favuri metti a to chiavi mastra pi vìdiri i cridinziali e i chiavi sarbati
-
 ## Primary Password notification
 
 master-password-reload-button =
@@ -117,22 +100,6 @@ master-password-reload-button =
     .accesskey = T
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Vo' aviri i cridinziali dispunìbbili quannu usi { -brand-product-name }? Vai nnî prifirenzi di { -sync-brand-short-name } e silizziuna a spunta “Cridinziali”.
-       *[other] Vo' aviri i cridinziali dispunìbbili quannu usi { -brand-product-name }? Vai nnî prifirenzi di { -sync-brand-short-name } e silizziuna a spunta “Cridinziali”.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Rapi i prifirenzi di { -sync-brand-short-name }
-           *[other] Rapi i prifirenzi di { -sync-brand-short-name }
-        }
-    .accesskey = p
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Nun m'addumannari cchiù
-    .accesskey = N
 
 ## Dialogs
 

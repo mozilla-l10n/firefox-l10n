@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Sempri
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Uzziuna
-       *[other] Prifirenzi
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Trova nnall'uzziuna
-           *[other] Trova nnê prifirenzi
-        }
-
 managed-notice = U to navigaturi è gistutu dâ to urganizzazziuni.
 
 pane-general-title = Ginirali
@@ -48,10 +26,6 @@ category-search =
 pane-privacy-title = Privatizza e sicurizza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 help-button-label = Supportu di { -brand-short-name }
 addons-button-label = Stinziuna e temi
@@ -81,21 +55,9 @@ restart-later = Riabbìa doppu
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = A stinziuni <img data-l10n-name="icon"/> { $name } cuntrolla a to pàggina mastra.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = A stinziuni <img data-l10n-name="icon"/> { $name } cuntrolla a to pàggina Nova scheda.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = A stinziuni <img data-l10n-name="icon"/> { $name } cuntrolla sta mpustazziuni.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = A stinziuni <img data-l10n-name="icon"/> { $name } mpustò u to muturi di ricerca pridifinutu.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -120,26 +82,11 @@ extension-controlled-enable = P'abbilitari a stinziuni vai nne <img data-l10n-na
 
 search-results-header = Risurtati dâ ricerca
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Ni dispiaci! Nun cci sunnu risurtati pi “<span data-l10n-name="query"></span>” nnê prifirenzi.
-       *[other] Ni dispiaci! Nun cci sunnu risurtati pi “<span data-l10n-name="query"></span>” nnê prifirenzi.
-    }
-
 search-results-help-link = Ti serbi ajutu? Vìsita u situ pû <a data-l10n-name="url">supportu di { -brand-short-name }</a>
 
 ## General Section
 
 startup-header = Abbìu
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = 0Pirmetti a { -brand-short-name } e Firefox di firrijari nnô stissu mumentu
-use-firefox-sync = Cunzigghiu: chistu usa prufili spartuti. Usa { -sync-brand-short-name } pi spàrtiri dati ntra di iḍḍi.
-get-started-not-logged-in = Trasi nne { -sync-brand-short-name }…
-get-started-configured = Rapi i prifirenzi di { -sync-brand-short-name }
 
 always-check-default =
     .label = Cuntrolla sempri si { -brand-short-name } è u to navigaturi pridifinutu
@@ -179,10 +126,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Abbìsami quannu ràpiri cchiù schedi po rallintari { -brand-short-name }
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = Quannu rapi na lijami nna na scheda nova, passa sùbbitu a chiḍḍa
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = Mustra antiprima dâ scheda nnâ barra di l'appricazziuna di Windows
@@ -354,11 +297,6 @@ applications-manage-app =
     .label = Minutagghi appricazziuni…
 applications-always-ask =
     .label = Addumanna sempri
-applications-type-pdf = PDF (Furmatu di Ducumentu Purtàbbili)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -436,17 +374,6 @@ update-application-warning-cross-user-setting = Sta mpustazziuni s'appreca a tut
 update-application-use-service =
     .label = Usa un sirbizzu di suttafunnu pi nzitari l'attualizzazziuna
     .accesskey = b
-
-update-setting-write-failure-title = Erruri sarbannu i prifirenzi
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    Cci fu n'erruri e { -brand-short-name } nun sarbò stu canciamentu. Teni 'n cuntu chi sarbari sta prifirenza abbisogna dû pirmisu di scrìviri nnô pricu scrittu appressu. Avissi a èssiri pussìbbili currèggiri st'erruri dànnuci ô gruppu Utenti u cuntrollu tutali supra a stu pricu.
-    
-    Mpussìbbili scrìviri nnô pricu: { $path }
 
 update-in-progress-title = Staju attualizzannu
 
@@ -672,8 +599,6 @@ search-show-suggestions-private-windows =
 
 search-suggestions-cant-show = I suggirimenti di ricerca nun vennu mustrati nnê risurtati dâ barra dû nnirizzu picchì cunfijurasti { -brand-short-name } pi nun sarbari mai a cronuluggìa.
 
-search-one-click-header = Muturi di ricerca c'un clic sulu
-
 search-one-click-desc = Scegghi i mutura di ricerca artirnativi ca cumparìscinu sutta â barra dû nnirizzu e â barra di ricerca quannu accuminci a mèttiri na palora-chiavi.
 
 search-choose-engine-column =
@@ -701,20 +626,10 @@ search-keyword-warning-bookmark = Scigghisti na palora-chiavi ca a stu mumentu v
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Nn'arrè ê Prifirenzi
-           *[other] Nn'arrè ê Prifirenzi
-        }
-
 containers-header = Schedi cuntinituri
 containers-add-button =
     .label = Agghiunci un cuntinituri novu
     .accesskey = A
-
-containers-preferences-button =
-    .label = Prifirenzi
 
 containers-remove-button =
     .label = Leva
@@ -726,11 +641,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Pòrtati appressu a to Riti
-sync-signedout-description = Sincrunizza i to nzingalibbri, a cronuluggìa, i schedi, i chiavi, l'agghiuncitini e i prifirenzi nna tutti i to dispusitivi.
-
-sync-signedout-account-signin2 =
-    .label = Trasi nne { -sync-brand-short-name }…
-    .accesskey = T
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -778,12 +688,6 @@ prefs-syncing-on = Sincrunizzazziuni: AḌḌUMATA
 
 prefs-syncing-off = Sincrunizzazziuni: ASTUTATA
 
-prefs-sync-setup =
-    .label = Mposta { -sync-brand-short-name }…
-    .accesskey = M
-
-prefs-sync-offer-setup-label = Sincrunizza i to nzingalibbri, a cronuluggìa, i schedi, i chiavi, l'agghiuncitini e i prifirenzi nna tutti i to dispusitivi.
-
 prefs-sync-now =
     .labelnotsyncing = Sincrunizza ora
     .accesskeynotsyncing = S
@@ -800,11 +704,6 @@ sync-currently-syncing-logins-passwords = Accessi e chiavi
 sync-currently-syncing-addresses = Nnirizzi
 sync-currently-syncing-creditcards = Carti di crèditu
 sync-currently-syncing-addons = Agghiuncitini
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Prifirenzi
-       *[other] Prifirenzi
-    }
 
 sync-change-options =
     .label = Cancia…
@@ -852,15 +751,6 @@ sync-engine-addons =
     .label = Agghiuncitini
     .tooltiptext = Stinziuna e temi pi Firefox nnâ virsiuni scrivanìa
     .accesskey = A
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Uzziuna
-           *[other] Prifirenzi
-        }
-    .tooltiptext = Mpustazziuna ginirali, di privatizza e di sicurizza ca canciasti
-    .accesskey = s
 
 ## The device name controls.
 
@@ -915,14 +805,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Cridinziali sarbati…
     .accesskey = C
-forms-master-pw-use =
-    .label = Usa na chiavi mastra
-    .accesskey = U
 forms-master-pw-change =
     .label = Cancia chiavi mastra…
     .accesskey = m
-
-forms-master-pw-fips-title = Accamora sì 'n mudalità FIPS. FIPS abbisogna di na chiavi mastra mpustata.
 
 forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
 
@@ -1029,10 +914,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Gistisci dati…
     .accesskey = G
-
-sitedata-cookies-permissions =
-    .label = Gistisci pirmisi…
-    .accesskey = p
 
 ## Privacy Section - Address Bar
 
@@ -1189,12 +1070,6 @@ permissions-addon-exceptions =
     .label = Eccizziuna…
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = Mpidisci ê sirbizza d'accissibbilità d'accèdiri ô to navigaturi
-    .accesskey = a
-
-permissions-a11y-privacy-link = Cchiù nfurmazziuna
-
 ## Privacy Section - Data Collection
 
 collection-header = Cullizziuni e usu di dati di { -brand-short-name }
@@ -1222,11 +1097,6 @@ addon-recommendations-link = Cchiù nfurmazziuna
 # or builds with no Telemetry support available.
 collection-health-report-disabled = A signalazziuni di dati è disabbilitata nnâ cunfijurazziuni di sta virsiuni
 
-collection-backlogged-crash-reports =
-    .label = Pirmetti a { -brand-short-name } di mannari signalazziuna di ntirruzziuni arritrati a nomu to
-    .accesskey = s
-collection-backlogged-crash-reports-link = Cchiù nfurmazziuna
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1253,16 +1123,6 @@ security-block-uncommon-software =
 
 certs-header = Cirtificati
 
-certs-personal-label = Quannu un sirburi dumanna u to cirtificatu pirsunali
-
-certs-select-auto-option =
-    .label = Scègghinni unu autumaticamenti
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Addumanna ogni vota
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = Addumànnaci e sirbura rispunnituri OCSP di cunfirmari si i cirtificati sunnu vàliti
     .accesskey = A
@@ -1274,34 +1134,6 @@ certs-view =
 certs-devices =
     .label = Dispusitivi di sicurizza…
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = Cchiù nfurmazziuna
-    .accesskey = C
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Rapi prifirenzi
-           *[other] Rapi prifirenzi
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] p
-           *[other] p
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } sta finennu u spazziu nnô discu. I cuntinuti di siti si putìssiru vìdiri mali. Po' cancillari i dati sarbati nne Uzziuna > Privatizza e sicurizza > Cookie e dati dî siti.
-       *[other] { -brand-short-name } sta finennu u spazziu nnô discu. I cuntinuti di siti si putìssiru vìdiri mali. Po' cancillari i dati sarbati nne Prifirenzi > Privatizza e sicurizza > Cookie e dati dî siti.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = D'accordu
-    .accesskey = D
-
-space-alert-under-5gb-message = { -brand-short-name } sta finennu u spazziu nnô discu. I cuntinuti dî siti si putìssiru vìdiri mali. Vìsita “Cchiù nfurmazziuna” p'uttimizzari l'usu dû discu pi na megghiu spirienza di navigazziuni.
 
 ## Privacy Section - HTTPS-Only
 

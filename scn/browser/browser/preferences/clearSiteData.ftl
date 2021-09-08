@@ -51,11 +51,3 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Cci sarà bisognu ca i siti ricàrricanu mmàggini e dati
 
-clear-site-data-cancel =
-    .label = Sfai
-    .accesskey = S
-
-clear-site-data-clear =
-    .label = Cancella
-    .accesskey = C
-

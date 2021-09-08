@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Leva tutti i siti
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Sfai
-    .accesskey = S
-
-permissions-button-ok =
-    .label = Sarba i canciamenti
-    .accesskey = S
-
 permissions-autoplay-menu = Pridifinutu pi tutti i siti:
 
 permissions-searchbox =

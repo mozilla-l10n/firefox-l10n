@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Agghiunci un cuntinituri novu
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Prifirenzi cuntinituri { $name }
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Cona
 containers-color-label = Culuri
     .accesskey = C
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Fattu
-    .accesskey = F
 
 containers-color-blue =
     .label = Blu

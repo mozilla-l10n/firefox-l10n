@@ -10,11 +10,6 @@ crashes-id = ID signalazziuni
 crashes-send-date = Mannata
 crashes-all-reports = Tutti i signalazziuna
 crashes-no-config = St'appricazziuni nun fu cunfijurata pi mustrari i signalazziuna di bloccu anòmalu.
-extensions-title = Stinziuna
-extensions-name = Nomu
-extensions-enabled = Abbilitata
-extensions-version = Virsiuni
-extensions-id = ID
 support-addons-name = Nomu
 support-addons-version = Virsiuni
 support-addons-id = ID
@@ -45,7 +40,6 @@ app-basics-update-dir =
     }
 app-basics-update-history = Cronuluggìa attualizzazziuna
 library-version-title = Virsiuna libbrirìi
-restart-in-safe-mode-label = Riabbìa cu l'agghiuncitini disabbilitati…
 
 ## Media titles
 
