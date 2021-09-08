@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Оди една страница назад
-    .aria-label = Назад
-    .accesskey = Б
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -29,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -74,9 +57,6 @@ main-context-menu-page-save =
     .label = Сними страница како…
     .accesskey = к
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -99,10 +79,6 @@ main-context-menu-open-link-new-private-window =
     .label = Отвори нов приватен прозорец
     .accesskey = п
 
-main-context-menu-bookmark-this-link =
-    .label = Обележи ја оваа врска
-    .accesskey = б
-
 main-context-menu-save-link =
     .label = Сними ја врската како…
     .accesskey = С
@@ -119,10 +95,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Копирај ја адресата за е-пошта
     .accesskey = е
-
-main-context-menu-copy-link =
-    .label = Копирај ја локацијата на врската
-    .accesskey = К
 
 ## Media (video/audio) controls
 ##
@@ -147,32 +119,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Пушти звук
     .accesskey = m
-
-main-context-menu-media-play-speed =
-    .label = Брзина на репродуцирање
-    .accesskey = б
-
-main-context-menu-media-play-speed-slow =
-    .label = Бавна (0.5×)
-    .accesskey = Б
-
-main-context-menu-media-play-speed-normal =
-    .label = Нормална
-    .accesskey = Н
-
-main-context-menu-media-play-speed-fast =
-    .label = Брза (1.25×)
-    .accesskey = Б
-
-main-context-menu-media-play-speed-faster =
-    .label = Побрза (1.5×)
-    .accesskey = п
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Смешна (2×)
-    .accesskey = С
 
 main-context-menu-media-loop =
     .label = Повторувај
@@ -199,39 +145,13 @@ main-context-menu-media-video-leave-fullscreen =
     .label = Исклучи цел екран
     .accesskey = у
 
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Слика во слика
-    .accesskey = с
-
 main-context-menu-image-reload =
     .label = Превчитај ја сликата
     .accesskey = р
 
-main-context-menu-image-view =
-    .label = Прикажи ја сликата
-    .accesskey = ж
-
-main-context-menu-video-view =
-    .label = Прикажи го видеото
-    .accesskey = и
-
 main-context-menu-image-copy =
     .label = Копирај ја сликата
     .accesskey = и
-
-main-context-menu-image-copy-location =
-    .label = Копирај ја локацијата на сликата
-    .accesskey = о
-
-main-context-menu-video-copy-location =
-    .label = Копирај ја локацијата на звукот
-    .accesskey = о
-
-main-context-menu-audio-copy-location =
-    .label = Копирај ја локацијата на аудиото
-    .accesskey = о
 
 main-context-menu-image-save-as =
     .label = Сними ја сликата како…
@@ -240,10 +160,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Испрати слика…
     .accesskey = а
-
-main-context-menu-image-set-as-background =
-    .label = Постави како позадина на работната површина…
-    .accesskey = с
 
 main-context-menu-image-info =
     .label = Прикажи информации за сликата
@@ -260,10 +176,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Сними го аудиото како…
     .accesskey = н
-
-main-context-menu-video-image-save-as =
-    .label = Сними ја сликата како...
-    .accesskey = С
 
 main-context-menu-video-email =
     .label = Испрати видео…
@@ -284,10 +196,6 @@ main-context-menu-plugin-hide =
 main-context-menu-send-to-device =
     .label = Испрати страница на уред
     .accesskey = и
-
-main-context-menu-view-background-image =
-    .label = Прикажи ја позадинската слика
-    .accesskey = ж
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -352,10 +260,6 @@ main-context-menu-view-page-source =
     .label = Прикажи код на страница
     .accesskey = д
 
-main-context-menu-view-page-info =
-    .label = Прикажи ги информациите за страницата
-    .accesskey = и
-
 main-context-menu-bidi-switch-text =
     .label = Промени ја насоката на текстот
     .accesskey = р
@@ -364,10 +268,7 @@ main-context-menu-bidi-switch-page =
     .label = Промени ја насоката на страницата
     .accesskey = о
 
-main-context-menu-inspect-element =
-    .label = Истражи го елементот
-    .accesskey = е
-
 main-context-menu-eme-learn-more =
     .label = Дознајте повеќе за DRM…
     .accesskey = Д
+

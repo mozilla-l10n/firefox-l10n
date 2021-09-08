@@ -11,13 +11,9 @@
 <!ENTITY newMenu.label "Нова">
 <!ENTITY newMenu.accesskey "Н">
 <!ENTITY newMessage.label "Порака">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "П">
 <!ENTITY attachMenu.label "Приложи">
 <!ENTITY attachMenu.accesskey "л">
-<!ENTITY attachFileCmd.label "Датотеки…">
-<!ENTITY attachFileCmd.accesskey "а">
 <!ENTITY attachPageCmd.label "Мрежна страница…">
 <!ENTITY attachPageCmd.accesskey "М">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -43,8 +39,6 @@
 <!ENTITY sendLaterCmd.label "Испрати подоцна">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "д">
-<!ENTITY printSetupCmd.label "Поставување на страницата…">
-<!ENTITY printSetupCmd.accesskey "у">
 <!ENTITY printCmd.label "Печати…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "П">
@@ -140,8 +134,6 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адресар">
 <!ENTITY addressBookCmd.accesskey "А">
-<!ENTITY preferencesCmdUnix.label "Преференции">
-<!ENTITY preferencesCmdUnix.accesskey "ф">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
@@ -156,7 +148,6 @@
 <!ENTITY sendButton.label "Испрати">
 <!ENTITY quoteButton.label "Цитирај">
 <!ENTITY addressButton.label "Контакти">
-<!ENTITY attachButton.label "Приложи">
 <!ENTITY spellingButton.label "Правопис">
 <!ENTITY saveButton.label "Сними">
 <!-- Mail Toolbar Tooltips -->
@@ -218,8 +209,6 @@
 <!ENTITY delete.accesskey "з">
 <!ENTITY selectAll.label "Избери сè">
 <!ENTITY selectAll.accesskey "с">
-<!ENTITY attachFile.label "Приложи датотеки…">
-<!ENTITY attachFile.accesskey "д">
 <!ENTITY attachPage.label "Приложи мрежна страница…">
 <!ENTITY attachPage.accesskey "в">
 <!-- Title for the address picker panel -->

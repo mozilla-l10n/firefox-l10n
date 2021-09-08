@@ -7,20 +7,12 @@ about-logins-page-title = Најави и лозинки
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Понесете ги вашите лозинки насекаде
-login-app-promo-subtitle = Преземете ја бесплатната { -lockwise-brand-name } апликација
-login-app-promo-android =
-    .alt = Преземи го од Google Play
-login-app-promo-apple =
-    .alt = Преземете од App Store
-
 login-filter =
     .placeholder = Пребарај најави
 
 create-login-button = Креирај нова најава
 
 fxaccounts-sign-in-text = Добијте ги вашите лозинки на други уреди
-fxaccounts-sign-in-button = Најавете се на { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Пријавете се за синхронизација
 fxaccounts-avatar-button =
     .title = Уреди ја сметката
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Поставки
     }
 about-logins-menu-menuitem-help = Помош
-menu-menuitem-android-app = { -lockwise-brand-short-name } за Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } за iPhone и iPad
 
 ## Login List
 
@@ -72,14 +62,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Барате зачувани најавувања? Поставете { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = Барате зачувани најавувања? Вклучете ја синхронизацијата или увезете ги.
 about-logins-login-intro-heading-logged-in = Не се пронајдени синхронизирани најавувања.
 login-intro-description = Ако ги зачувавте најавувањата на { -brand-product-name } на друг уред, еве како да ги добиете тука:
-login-intro-instruction-fxa = Создадете или најавете се на вашиот { -fxaccount-brand-name } на уредот каде што се зачувани најавувањата
-login-intro-instruction-fxa-settings = Проверете дали сте го избрале полето за избор „Пријави се“ во Поставки за { -sync-brand-short-name }
-about-logins-intro-instruction-help = Посетете ја <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Поддршка </a> за повеќе помош
 login-intro-instructions-fxa = Создадете или најавете се на вашето име { -fxaccount-brand-name } на уредот каде што се зачувуваат вашите најавувања.
 login-intro-instructions-fxa-settings = Одете во Поставки> Синхронизација> Вклучете ја синхронизацијата… Изберете го полето за избор Најави и лозинки.
 login-intro-instructions-fxa-help = Посетете ја <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Поддршка </a> за повеќе помош.
@@ -142,14 +127,6 @@ master-password-reload-button =
     .accesskey = Н
 
 ## Password Sync notification
-
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Посетете { -sync-brand-short-name } Опции
-           *[other] Посетете { -sync-brand-short-name } Преференции
-        }
-    .accesskey = П
 
 ## Dialogs
 

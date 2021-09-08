@@ -18,8 +18,6 @@ cfr-doorhanger-extension-cancel-button = Не сега
 
 cfr-doorhanger-extension-ok-button = Додади Сега
     .accesskey = Д
-cfr-doorhanger-pintab-ok-button = Закачете го ова јазиче
-    .accesskey = П
 
 cfr-doorhanger-extension-manage-settings-button = Управувајте со поставките за препораките
     .accesskey = У
@@ -57,9 +55,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-animation-pause = Паузирај
-cfr-doorhanger-pintab-animation-resume = Продолжи
-
 
 ## Firefox Accounts Message
 
@@ -83,16 +78,6 @@ cfr-whatsnew-button =
     .label = Што е ново
     .tooltiptext = Што е ново
 
-cfr-whatsnew-panel-header = Што е ново
-
-cfr-whatsnew-tracking-blocked-link-text = Преглед на извештајот
-
-cfr-whatsnew-lockwise-backup-title = Направете резервна копија на вашите лозинки
-cfr-whatsnew-lockwise-backup-link-text = Вклучете резервни копии
-
-cfr-whatsnew-lockwise-take-title = Понесете ги вашите лозинки со вас
-cfr-whatsnew-lockwise-take-link-text = Преземете ја апликацијата
-
 ## Search Bar
 
 
@@ -101,11 +86,7 @@ cfr-whatsnew-lockwise-take-link-text = Преземете ја апликаци�
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-cta = Дознајте повеќе
-
 ## Permission Prompt
-
-cfr-whatsnew-permission-prompt-cta = Дознајте повеќе
 
 ## Fingerprinter Counter
 
@@ -123,9 +104,6 @@ cfr-whatsnew-permission-prompt-cta = Дознајте повеќе
 
 
 ## Social Tracking Protection
-
-cfr-doorhanger-socialtracking-close-button = Затвори
-    .accesskey = З
 
 ## Enhanced Tracking Protection Milestones
 
@@ -176,4 +154,10 @@ cfr-doorhanger-socialtracking-close-button = Затвори
 ## What's new: Cross-site cookie tracking
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

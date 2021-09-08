@@ -35,14 +35,6 @@ permissions-remove-all =
     .label = Отстрани ги сите мрежни места
     .accesskey = с
 
-permissions-button-cancel =
-    .label = Откажи
-    .accesskey = О
-
-permissions-button-ok =
-    .label = Зачувај промени
-    .accesskey = З
-
 permissions-capabilities-allow =
     .label = Дозволи
 permissions-capabilities-block =

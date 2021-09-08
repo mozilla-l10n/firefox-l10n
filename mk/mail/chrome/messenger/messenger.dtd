@@ -45,10 +45,6 @@
 <!ENTITY printCmd.label "Печати…">
 <!ENTITY printCmd.accesskey "П">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Преглед за печатење">
-<!ENTITY printPreviewCmd.accesskey "г">
-<!ENTITY printSetupCmd.label "Поставување на страницата…">
-<!ENTITY printSetupCmd.accesskey "ц">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Избриши ја пораката">
@@ -333,8 +329,6 @@
 <!ENTITY messengerCmd.accesskey "П">
 <!ENTITY addressBookCmd.label "Адресар">
 <!ENTITY addressBookCmd.accesskey "А">
-<!ENTITY addons.label "Додатоци">
-<!ENTITY addons.accesskey "Д">
 <!ENTITY filtersApply.label "Примени ги филтрите на папката">
 <!ENTITY filtersApply.accesskey "р">
 <!-- Help Menu -->
@@ -360,13 +354,10 @@
 <!ENTITY previousButton.label "Претходна">
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Следна">
-<!ENTITY deleteButton.label "Избриши">
 <!ENTITY markButton.label "Означи">
 <!ENTITY printButton.label "Печати">
 <!ENTITY stopButton.label "Стоп">
 <!ENTITY throbberItem.title "Индикатор за активност">
-<!ENTITY junkButton.label "Отпад">
-<!ENTITY notJunkButton.label "Не е отпад">
 <!ENTITY addressBookButton.label "Адресар">
 <!ENTITY searchItem.title "Брзо пребарување">
 <!ENTITY mailViewsToolbarItem.title "Погледи за пошта">
@@ -386,12 +377,9 @@
 <!ENTITY previousButton.tooltip "Оди до претходната непрочитана порака">
 <!ENTITY goForwardButton.tooltip "Оди една порака напред">
 <!ENTITY goBackButton.tooltip "Оди една порака назад">
-<!ENTITY deleteButton.tooltip "Ја брише избраната порака или папка">
 <!ENTITY markButton.tooltip "Ги означува пораките">
 <!ENTITY printButton.tooltip "Ја печати оваа порака">
 <!ENTITY stopButton.tooltip "Го стопира тековниот трансфер">
-<!ENTITY junkButton.tooltip "Ги означува избраните пораки како отпад">
-<!ENTITY notJunkButton.tooltip "Ги означува избраните пораки како неотпадни">
 <!ENTITY addressBookButton.tooltip "Одите во адресарот">
 <!ENTITY tagButton.tooltip "Означете ги пораките">
 <!-- Tags Menu Popup -->

@@ -5,8 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Отвори мени">
-
 <!ENTITY navbarOverflow.label                "Повеќе алатки...">
 
 
@@ -19,14 +17,6 @@ but will never be visible at the same time. -->
 
 <!-- Tab context menu -->
 
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Закачи јазиче">
-<!ENTITY  unpinTab.label                     "Откачи јазиче">
-
 <!ENTITY  listAllTabs.label      "Прикажи ги сите јазичиња">
 
 <!ENTITY tabCmd.label "Ново јазиче">
@@ -35,9 +25,6 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Мени">
 <!ENTITY menubarCmd.accesskey "М">
-<!ENTITY personalbarCmd.label "Алатник со обележувачи">
-<!ENTITY personalbarCmd.accesskey "б">
-<!ENTITY bookmarksToolbarItem.label "Ставки во алатникот со обележувачи">
 
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -48,34 +35,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY fullScreenCmd.label "На цел екран">
 
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "сега се прикажува на цел екран">
-<!ENTITY fullscreenWarning.generic.label "Овој документ сега се прикажува на цел екран">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Излези од приказ на цел екран (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Излези од приказ на цел екран (Esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "го контролира вашиот покажувач. Притиснете Esc за да ја преземете контролата.">
-<!ENTITY pointerlockWarning.generic.label "Овој документ ви ја презема контролата врз покажувачот. Притиснете Esc за да си ја вратите.">
-
-<!ENTITY showAllBookmarks2.label "Прикажи ги сите обележувачи">
-<!ENTITY recentBookmarks.label "Неодамна обележани">
-<!ENTITY bookmarksToolbarChevron.tooltip "Покажува уште обележувачи">
-
 <!ENTITY printButton.label            "Печати">
 <!ENTITY printButton.tooltip          "Ја печати оваа страница">
 
@@ -85,28 +44,12 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Дома">
 
-<!ENTITY bookmarksButton.label          "Обележувачи">
-
-<!ENTITY bookmarksSubview.label             "Обележувачи">
-<!ENTITY bookmarksMenuButton2.label         "Мени за обележувачи">
-<!ENTITY bookmarksMenuButton.other.label    "Други обележувачи">
-<!ENTITY bookmarksMenuButton.mobile.label   "Мобилни обележувачи">
-<!ENTITY viewBookmarksSidebar2.label        "Прикажи странична лента со обележувачи">
-<!ENTITY hideBookmarksSidebar.label         "Скриј странична лента со обележувачи">
-<!ENTITY viewBookmarksToolbar.label         "Прикажи алатник со обележувачи">
-<!ENTITY hideBookmarksToolbar.label         "Скриј алатник со обележувачи">
-<!ENTITY searchBookmarks.label              "Барај во обележувачите">
-<!ENTITY bookmarkingTools.label             "Алатки за обележување">
-<!ENTITY addBookmarksMenu.label             "Додај мени за обележувачи во алатник">
-<!ENTITY removeBookmarksMenu.label          "Отстрани мени за обележувачи од алатник">
-
 <!ENTITY historyButton.label            "Историја">
 
 <!ENTITY downloads.label              "Преземања">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Преземања">
-<!ENTITY addons.label                 "Додатоци">
 
 <!ENTITY webDeveloperMenu.label       "Web Developer">
 
@@ -123,27 +66,11 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY historyMenu.label "Историја">
 
-<!ENTITY historyUndoMenu.label "Скоро-затворени јазичиња">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Скоро-затворени прозорци">
-
-<!ENTITY appMenuHistory.showAll.label "Прикажи ја сета историја">
-
-<!ENTITY appMenuHistory.clearRecent.label "Исчисти ја скорешната историја…">
-<!ENTITY appMenuHistory.restoreSession.label "Врати претходна сесија">
-<!ENTITY appMenuHistory.viewSidebar.label "Прикажи странична лента со историја">
-<!ENTITY appMenuHistory.recentHistory.label "Скорешна историја на прелистување">
-
 <!ENTITY appMenuHelp.label "Помош">
-
-<!ENTITY appMenuRemoteTabs.label "Синхронизирани јазичиња">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Нема отворени јазичиња">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Прикажи повеќе">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Прикажи уште јазичиња од овој уред">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -156,10 +83,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Сакате да ги видите вашите јазичиња од други уреди овде?">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Менаџирај уреди…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Прикажи синхронизирани јазичиња во странична лента">
-
-<!ENTITY appMenuRecentHighlights.label "Скорешни интереси">
 
 <!ENTITY customizeMenu.addToToolbar.label "Додај во алатник">
 <!ENTITY customizeMenu.addToToolbar.accesskey "А">
@@ -171,8 +94,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "Д">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Откачи од дополнително мени">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "О">
-<!ENTITY customizeMenu.removeFromToolbar.label "Отстрани од алатник">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "О">
 <!ENTITY customizeMenu.addMoreItems.label "Додај повеќе елементи…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Д">
 
@@ -191,10 +112,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "ј">
 
-<!ENTITY pageAction.copyLink.label    "Копирај врска">
-
-<!ENTITY emailPageCmd.label           "Испрати линк…">
-
 <!-- Media (video/audio) controls -->
 
 <!-- LOCALIZATION NOTE :
@@ -206,13 +123,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Приказ">
 
 <!ENTITY sidebarCloseButton.tooltip     "Ја затвора страничната лента">
-
-<!ENTITY quitApplicationCmdWin2.label       "Излез">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Излези од &brandShorterName;">
-<!ENTITY quitApplicationCmd.label       "Излези">
-<!ENTITY quitApplicationCmd.accesskey   "з">
-<!ENTITY quitApplicationCmdMac2.label   "Излези од &brandShorterName;">
 
 <!ENTITY allowPopups.accesskey "с">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -236,11 +146,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Browser tabs">
-
-
-<!ENTITY syncBrand.shortName.label    "Sync">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "Криј автоматски">
 
 
 
@@ -288,12 +193,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "Вашата скорешна историја на прелистување е избришана.">
 <!ENTITY panicButton.thankyou.msg2                "Безбедно прелистување!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Ви благодариме!">
-
-<!ENTITY updateAvailable.panelUI.label "Преземи надградба за &brandShorterName;">
-
-<!ENTITY updateManual.panelUI.label "Преземете свежа копија на &brandShorterName;">
-
-<!ENTITY updateRestart.panelUI.label2 "Рестартирај за надградба на &brandShorterName;">
 
 
 

@@ -23,10 +23,6 @@
 <!ENTITY closeCmd.label "Затвори">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "т">
-<!ENTITY printSetupCmd.label "Поставување на страницата…">
-<!ENTITY printSetupCmd.accesskey "у">
-<!ENTITY printPreviewAddressBook.label "Преглед за печатење на адресарот">
-<!ENTITY printPreviewAddressBook.accesskey "д">
 <!ENTITY printAddressBook.label "Печати го адресарот…">
 <!ENTITY printAddressBook.accesskey "а">
 
@@ -72,8 +68,6 @@
 <!ENTITY importCmd.accesskey "и">
 <!ENTITY exportCmd.label "Извези…">
 <!ENTITY exportCmd.accesskey "е">
-<!ENTITY preferencesCmdUnix.label "Преференции">
-<!ENTITY preferencesCmdUnix.accesskey "ф">
 <!-- Help Menu -->
 
 <!-- Address Book Toolbar and Context Menus -->  

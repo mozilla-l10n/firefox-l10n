@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Додај нов контејнер
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Поставки на контејнерот { $name }
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Икона
 containers-color-label = Боја
     .accesskey = Б
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Готово
-    .accesskey = Д
 
 containers-color-blue =
     .label = Сина

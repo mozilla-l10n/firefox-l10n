@@ -5,7 +5,6 @@
 synced-tabs-sidebar-title = Синхронизирани јазичиња
 synced-tabs-sidebar-noclients-subtitle = Сакате да ги видите вашите јазичиња од други уреди овде?
 synced-tabs-sidebar-notabs = Нема отворени јазичиња
-synced-tabs-sidebar-openprefs = Отвори поставки на { -sync-brand-short-name }
 synced-tabs-sidebar-tabsnotsyncing = Вклучете синхронизација на јазичиња за да видите листа на јазичиња од вашите други уреди.
 synced-tabs-sidebar-search =
     .placeholder = Пребарај синхронизирани јазичиња
@@ -36,4 +35,3 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Синхронизирај сега
     .accesskey = С
-fxa-sign-in = Најавете се на { -sync-brand-short-name }

@@ -6,9 +6,6 @@ password-quality-meter = Мерач на квалитетот на лозинк�
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Менување на главната лозинка
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Безбедносен уред: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Нова лозинка (повторно):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Ресетирање на главната лозинка
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Ресетирај
-reset-password-text = Ако ја ресетирате главната лозинка сите ваши снимени лозикни, податоци за обрасци, сертификати и приватни клучеви ќе бидат загубени. Сигурно сакате да ја ресетирате главната лозинка?
 
 ## Downloading cert dialog
 
