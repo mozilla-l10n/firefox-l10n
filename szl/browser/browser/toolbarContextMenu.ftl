@@ -20,15 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Ôbier wszyskie karty
     .accesskey = O
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Wrōć zawarte karty
-            [one] Wrōć zawarto karta
-            [few] Wrōć zawarte karty
-           *[many] Wrōć zawarte karty
-        }
-    .accesskey = W
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -60,9 +51,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Przipnij do rozszyrzanego myni
     .accesskey = r
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Autōmatycznie skrywej w posku z noczyniami
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Skryj knefel, jak nic niy ma
     .accesskey = S

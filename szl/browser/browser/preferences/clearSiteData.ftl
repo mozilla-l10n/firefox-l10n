@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Strōny bydōm musieć jeszcze roz zaladować ôbrozki i dane
 
-clear-site-data-cancel =
-    .label = Pociep
-    .accesskey = P
-
-clear-site-data-clear =
-    .label = Wypucuj
-    .accesskey = J
-
 clear-site-data-dialog =
     .buttonlabelaccept = Wypucuj
     .buttonaccesskeyaccept = J

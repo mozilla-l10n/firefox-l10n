@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Mosz certyfikaty ôd takich ôrganizacyjōw, co cie idyntyfikujōm
 certmgr-remembered = Te certyfikaty sōm używane, coby cie idyntyfikować na strōnach
 certmgr-people = Mosz certyfikaty, co idyntyfikujōm te ôsoby
-certmgr-servers = Mosz certyfikaty, co idyntyfikujōm te serwery
 certmgr-server = Te wkludzynia idyntyfikujōm wyjōntki felerōw certyfikatōw serwera
 certmgr-ca = Mosz certyfikaty, co idyntyfikujōm te regiyrōnki
-
-certmgr-detail-general-tab-title =
-    .label = Ôgōlne
-    .accesskey = O
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Detajle
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Certyfikat je prawie weryfikowany…
-
-certmgr-subject-label = Wystawiōny do
-
-certmgr-issuer-label = Wystawiōny ôd
-
-certmgr-period-of-validity = Czas płatności
-
-certmgr-fingerprints = Ôdciski
-
-certmgr-cert-detail =
-    .title = Detajle certyfikatu
-    .buttonlabelaccept = Zawrzij
-    .buttonaccesskeyaccept = Z
-
-certmgr-cert-detail-commonname = Ôgōlne miano (CN)
-
-certmgr-cert-detail-org = Ôrganizacyjo (O)
-
-certmgr-cert-detail-orgunit = Jednostka ôrganizacyje (OU)
-
-certmgr-cert-detail-serial-number = Nōmer seryje
-
-certmgr-cert-detail-sha-256-fingerprint = Ôdcisk SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Ôdcisk SHA1
 
 certmgr-edit-ca-cert =
     .title = Edytuj sztalōnki wierzynio certyfikatu CA
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Maszina bezpieczyństwa
 
-certmgr-begins-on = Zaczyno sie
-
 certmgr-begins-label =
     .label = Zaczyno sie
-
-certmgr-expires-on = Przedownio sie:
 
 certmgr-expires-label =
     .label = Przedownio sie:
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Importuj…
     .accesskey = m
-
-certmgr-details =
-    .value = Pola certyfikatu
-    .accesskey = P
-
-certmgr-fields =
-    .value = Wert pola
-    .accesskey = W
-
-certmgr-hierarchy =
-    .value = Hierarchijo certyfikatu
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Przidej wyjōntek…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Na zicher chcesz skasować te certyfikaty?
 delete-user-cert-impact = Jak skasujesz swoje certyfikaty, to niy pōdzie ich używać do idyntyfikacyje.
 
 
-delete-ssl-cert-title =
-    .title = Skasuj wyjōntki do certyfikatu serwera
-delete-ssl-cert-confirm = Na zicher chcesz skasować te wyjōntki do certyfikatu serwera?
-delete-ssl-cert-impact = Jak skasujesz wyjōntek do certyfikatu serwera, to wrōcisz ajnfachowe procedury bezpieczyństwa do tego serwera i prośba, coby używoł dobrego certyfikatu.
-
-
 delete-ssl-override-title =
     .title = Skasuj wyjōntek certyfikatu serwera
 delete-ssl-override-confirm = Na zicher chcesz skasować wyjōntek do tego serwera?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Certyfikat z nōmerym seryje: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Podglōnd na certyfikat: “{ $certName }”
-
-not-present =
-    .value = <niy ma tajlōm certyfikatu>
-
-# Cert verification
-cert-verified = Tyn certyfikat je zweryfikowany do takigo użycio:
-
-# Add usage
-verify-ssl-client =
-    .value = Certyfikat SSL klijynta
-
-verify-ssl-server =
-    .value = Certyfikat SSL serwera
-
-verify-ssl-ca =
-    .value = Regiyrōnek certyfikacyje SSL
-
-verify-email-signer =
-    .value = Certyfikat do podpisowanio emaila
-
-verify-email-recip =
-    .value = Certyfikat do przijmujōncego email
-
-# Cert verification
-cert-not-verified-cert-revoked = Niy szło zweryfikować tego certyfikatu, bo je ôdkozany.
-cert-not-verified-cert-expired = Niy szło zweryfikować tego certyfikatu, bo sie przedowniōł.
-cert-not-verified-cert-not-trusted = Niy szło zweryfikować tego certyfikatu, bo mu niy wierzisz.
-cert-not-verified-issuer-not-trusted = Niy szło zweryfikować tego certyfikatu, bo niy wierzisz jego wystowcy.
-cert-not-verified-issuer-unknown = Niy szło zweryfikować tego certyfikatu, bo jego wystowca niy ma poznany.
-cert-not-verified-ca-invalid = Niy szło zweryfikować tego certyfikatu, bo certyfikat CA niy ma dobry.
-cert-not-verified_algorithm-disabled = Niy szło zweryfikować tego certyfikatu, bo bōł podpisany algorytmym, co bōł zaszperowany, bo niy ma bezpieczny.
-cert-not-verified-unknown = Niy szło zweryfikować tego certyfikatu z niypoznanyj prziczyny.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Niy posyłej żodnego certyfikatu klijynta

@@ -6,9 +6,6 @@ password-quality-meter = Meter jakości hasła
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Zmiyń głōwne hasło
-
 change-device-password-window =
     .title = Zmiyń hasło
 
@@ -20,10 +17,6 @@ change-password-new = Nowe hasło:
 change-password-reenter = Nowe hasło (jeszcze roz):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Wynuluj głōwne hasło
-    .style = width: 40em
 
 pippki-failed-pw-change = Niy idzie zmiynić hasła.
 pippki-incorrect-pw = Niy było wkludzōne dobre hasło. Sprōbuj jeszcze roz.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Wynuluj
-reset-password-text = Jak wynulujesz swoje głōwne hasło, to przepōmnōm sie wszyskie poschraniane hasła, dane formularōw, ôsobiste certyfikaty i prywatne klucze. Na zicher chcesz wynulować swoje głōwne hasło?
 
 reset-primary-password-text = Jak wynulujesz swoje głōwne hasło, to przepōmnōm sie wszyskie poschraniane hasła, dane formularōw, ôsobiste certyfikaty i prywatne klucze. Na zicher chcesz wynulować swoje głōwne hasło?
 

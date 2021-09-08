@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Wykoz
 
-blocklist-button-cancel =
-    .label = Pociep
-    .accesskey = P
-
-blocklist-button-ok =
-    .label = Spamiyntej zmiany
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Spamiyntej zmiany
     .buttonaccesskeyaccept = S

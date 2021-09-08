@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Wyciep ôbrane
     .accesskey = W
 
-site-data-button-cancel =
-    .label = Pociep
-    .accesskey = P
-
-site-data-button-save =
-    .label = Spamiyntej zmiany
-    .accesskey = S
-
 site-data-settings-dialog =
     .buttonlabelaccept = Spamiyntej zmiany
     .buttonaccesskeyaccept = S

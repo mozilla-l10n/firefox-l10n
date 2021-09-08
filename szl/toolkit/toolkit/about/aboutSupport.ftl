@@ -14,11 +14,6 @@ crashes-id = ID zgłoszynio
 crashes-send-date = Posłane
 crashes-all-reports = Wszyskie raporty z awaryje
 crashes-no-config = Ta aplikacyjo niy była nastawiōno, coby pokazować raporty z awaryje.
-extensions-title = Rozszyrzynia
-extensions-name = Miano
-extensions-enabled = Załōnczōne
-extensions-version = Wersyjo
-extensions-id = ID
 support-addons-title = Rozszyrzynia
 support-addons-name = Miano
 support-addons-type = Typ
@@ -129,8 +124,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Typ procesu
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Parametry
-safe-mode-title = Sprōbuj trybu bezpieczyństwa
-restart-in-safe-mode-label = Resztartuj z wyłōnczōnymi rozszyrzyniami…
 
 clear-startup-cache-title = Sprōbuj wypucować podrynczno pamiyńć sztartowanio
 clear-startup-cache-label = Wypucuj podrynczno pamiyńć sztartowanio…
@@ -284,11 +277,6 @@ webgl2-renderer = Renderer sterownika WebGL 2
 webgl2-version = Wersyjo sterownika WebGL 2
 webgl2-driver-extensions = Rozszyrzynia sterownika WebGL 2
 webgl2-extensions = Rozszyrzynia WebGL 2
-blocklisted-bug = Zaszperowane skuli poznanych problymōw
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber }
 
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
@@ -299,8 +287,6 @@ support-blocklisted-bug = Zaszperowane skuli poznanych problymōw: <a data-l10n-
 unknown-failure = Zaszperowane; kod felera { $failureCode }
 
 d3d11layers-crash-guard = D3D11 Compositor
-d3d11video-crash-guard = D3D11 Video dekoder
-d3d9video-crash-guard = D3D9 Video dekoder
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX Video dekoder
 
@@ -345,14 +331,6 @@ launcher-process-status-unknown = Niypoznany status
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Załōnczōny ôd używocza
-multi-process-status-1 = Bazowo załōnczōny
-multi-process-status-2 = Zastawiuny
-multi-process-status-4 = Zastawiōne ôd noczyń dostympu
-multi-process-status-6 = Zastawiōne skuli niyôbsugowanego wkludzanio tekstu
-multi-process-status-7 = Zastawiōne skuli rozszyrzyń
-multi-process-status-8 = Zastawiōny skuli przikazu
-multi-process-status-unknown = Niypoznany status
 
 async-pan-zoom = Asynchrōniczno panorama/zwiynkszanie
 apz-none = żodne

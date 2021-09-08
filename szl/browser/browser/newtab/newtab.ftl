@@ -9,9 +9,6 @@ newtab-page-title = Nowo karta
 newtab-settings-button =
     .title = Napasuj strōna nowyj karty
 
-newtab-personalize-button-label = Napasuj
-    .title = Napasuj nowo karta
-    .aria-label = Napasuj nowo karta
 newtab-personalize-icon-label =
     .title = Napasuj nowo karta
     .aria-label = Napasuj nowo karta
@@ -22,8 +19,6 @@ newtab-personalize-icon-label =
 newtab-search-box-search-button =
     .title = Szukej
     .aria-label = Szukej
-
-newtab-search-box-search-the-web-text = Szukej w internecie
 
 # Variables
 #  $engine (String): the name of the user's default search engine
@@ -260,10 +255,4 @@ newtab-custom-recent-title = Niydowno aktywność
 newtab-custom-recent-subtitle = Wybōr z niydownych strōn i zawartości
 newtab-custom-close-button = Zawrzij
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Krōtkie informacyje
-newtab-custom-snippets-subtitle = Dorady i nowiny ze { -vendor-short-name } a aplikacyje { -brand-product-name }
 newtab-custom-settings = Inksze nasztalowania

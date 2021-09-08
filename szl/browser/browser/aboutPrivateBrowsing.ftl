@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Ôtwōrz prywatne ôkno
 about-private-browsing-search-placeholder = Szukej w internecie
 about-private-browsing-info-title = Je żeś we prywatnym ôknie
 about-private-browsing-info-myths = Czynste mity ô prywatnym przeglōndaniu
-about-private-browsing =
-    .title = Szukej w internecie
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

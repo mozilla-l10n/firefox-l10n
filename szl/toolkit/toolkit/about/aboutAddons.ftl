@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Regiyrowanie rozszyrzyniami
-
 addons-page-title = Regiyrowanie rozszyrzyniami
 
 search-header =
@@ -33,60 +30,11 @@ help-button = Pōmoc do rozszyrzyń
 sidebar-help-button-title =
     .title = Pōmoc do rozszyrzyń
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } - Ôpcyje
-       *[other] { -brand-short-name } - Preferyncyje
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } - Ôpcyje
-           *[other] { -brand-short-name } - Preferyncyje
-        }
-
 show-unsigned-extensions-button =
     .label = Niykerych rozszyrzyń niy szło zweryfikować
 
 show-all-extensions-button =
     .label = Pokoż wszyskie rozszyrzynia
-
-cmd-show-details =
-    .label = Pokoż wiyncyj informacyji
-    .accesskey = P
-
-cmd-find-updates =
-    .label = Znodź aktualizacyje
-    .accesskey = Z
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Ôpcyje
-           *[other] Preferyncyje
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Użyj motywu
-    .accesskey = U
-
-cmd-disable-theme =
-    .label = Przestōń używać motywu
-    .accesskey = U
-
-cmd-install-addon =
-    .label = Instaluj
-    .accesskey = I
-
-cmd-contribute =
-    .label = Spōmōż
-    .accesskey = S
-    .tooltiptext = Spōmōż robota nad tym rozszyrzyniym
 
 detail-version =
     .label = Wersyjo
@@ -392,8 +340,6 @@ dictionary-disabled-heading = Zastawiōne
 
 locale-enabled-heading = Załōnczōne
 locale-disabled-heading = Zastawiōne
-
-ask-to-activate-button = Pytej sie, jeźli idzie aktywować
 
 always-activate-button = Zawdy aktywuj
 never-activate-button = Nigdy niy aktywuj

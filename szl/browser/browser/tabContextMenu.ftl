@@ -48,9 +48,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Przidej karta do zokłodek
     .accesskey = Z
-reopen-in-container =
-    .label = Ôdewrzij w kōntynerowyj karcie
-    .accesskey = e
 move-to-start =
     .label = Przeniyś na poczōntek
     .accesskey = C
@@ -63,27 +60,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Ôbier mocka kart
     .accesskey = M
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Wrōć zawarte karty
-            [one] Wrōć zawarto karta
-            [few] Wrōć zawarte karty
-           *[many] Wrōć zawarte karty
-        }
-    .accesskey = W
-close-tab =
-    .label = Zawrzij karta
-    .accesskey = Z
-close-tabs =
-    .label = Zawrzij karty
-    .accesskey = Z
-move-tabs =
-    .label = Przeniyś karty
-    .accesskey = n
-move-tab =
-    .label = Przeniyś karta
-    .accesskey = n
 tab-context-share-url =
     .label = Udostympnij
     .accesskey = U
@@ -111,6 +87,7 @@ tab-context-move-tabs =
            *[many] Przeniyś karty
         }
     .accesskey = P
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

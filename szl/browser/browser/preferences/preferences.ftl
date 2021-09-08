@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Dycki
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Ôpcyje
-       *[other] Preferyncyje
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Znojdź we ôpcyjach
-           *[other] Znojdź we preferyncyjach
-        }
-
 settings-page-title = Sztalōnki
 
 # This is used to determine the width of the search field in about:preferences,
@@ -65,10 +43,6 @@ category-search =
 pane-privacy-title = Prywatność i bezpieczyństwo
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 pane-sync-title3 = Synchrōnizacyjo
 category-sync3 =
@@ -113,14 +87,6 @@ restart-later = Resztartuj niyskorzij
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Rozszyrzynie <img data-l10n-name="icon"/> { $name } kōntroluje twoja dōmowo strōna.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Rozszyrzynie <img data-l10n-name="icon"/> { $name } kōntroluje strōna twojij nowyj karty.
-
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = Rozszyrzynie <img data-l10n-name="icon"/> { $name } kōntroluje te nasztalowanie.
@@ -128,10 +94,6 @@ extension-controlled-password-saving = Rozszyrzynie <img data-l10n-name="icon"/>
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Rozszyrzynie <img data-l10n-name="icon"/> { $name } kōntroluje te nasztalowanie.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Rozszyrzynie <img data-l10n-name="icon"/> { $name } nasztalowało nowo bazowo wyszukowarka.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -157,13 +119,6 @@ extension-controlled-enable = Coby załōnczyć rozszyrzynie, ôdewrzij <img dat
 search-results-header = Wyniki szukanio
 
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Do szukanio “<span data-l10n-name="query"></span>” niy ma żodnych wynikōw we ôpcyjach
-       *[other] Do szukanio “<span data-l10n-name="query"></span>” niy ma żodnych wynikōw w Preferyncyjach
-    }
-
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Do szukanio “<span data-l10n-name="query"></span>” niy ma żodnych wynikōw we sztalōnkach.
 
 search-results-help-link = Potrzebujesz pōmocy? Nawiydź <a data-l10n-name="url">Spōmożka aplikacyje { -brand-short-name }</a>
@@ -171,14 +126,6 @@ search-results-help-link = Potrzebujesz pōmocy? Nawiydź <a data-l10n-name="url
 ## General Section
 
 startup-header = Sztartowanie
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Przizwōl, coby { -brand-short-name } i Firefox fungowały w jednym czasie
-use-firefox-sync = Dorada: Byd€m użyte ôsobnie profile. { -sync-brand-short-name } poradzi udostympniać dane miyndzy nimi.
-get-started-not-logged-in = Wloguj sie do { -sync-brand-short-name(case: "gen") }…
-get-started-configured = Ôdewrzij nasztalowania { -sync-brand-short-name(case: "gen") }
 
 always-check-default =
     .label = Zawdy badej, jeźli { -brand-short-name } to je twoja bazowo przeglōndarka
@@ -218,10 +165,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Dej znać, jak ôtwarcie mocki kart może spōmalić { -brand-short-name }
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = Jak ôtwiyrosz link w nowyj karcie, to zaroz sie na nia przełōncz
-    .accesskey = k
 
 switch-to-new-tabs =
     .label = Jak ôtwiyrosz link, ôbroz abo jakie media, to zaroz sie na nia przełōncz
@@ -413,11 +356,6 @@ applications-manage-app =
     .label = Detajle aplikacyje…
 applications-always-ask =
     .label = Zawdy sie pytej
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -507,17 +445,6 @@ update-application-warning-cross-user-setting = Te nasztalowanie bydzie wkludzō
 update-application-use-service =
     .label = Używej usugi, co funguje na zadku, coby zainsztalować aktualizacyje
     .accesskey = z
-
-update-setting-write-failure-title = Feler przi spamiyntywaniu preferyncyji aktualizacyji
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    { -brand-short-name } trefiōł na feler i niy spamiyntoł tyj zmiany. Nasztalowanie tyj prefyryncyji aktualizacyji potrzebuje zgody na zapisowanie do zbioru sam niżyj. Abo ty, abo administatōr systymu możno poradzicie rozwiōnzać tyn feler, jak docie pōłno kōntrola nad tym zbiorym grupie "Użytkowniki". 
-    
-    Niy szło zapisać do zbioru: { $path }
 
 update-setting-write-failure-title2 = Feler przi spamiyntywaniu sztalōnkōw aktualizacyji
 
@@ -775,13 +702,9 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Pokazuj dorady szukanio we prywatnych ôknach
 
-suggestions-addressbar-settings-generic = Zmiyń preferyncyje doradōw we posku adresy
-
 suggestions-addressbar-settings-generic2 = Zmiyń sztalōnki doradōw we posku adresy
 
 search-suggestions-cant-show = Dorady szukanio niy bydōm sie pokazować we posku z adresōm, bo mosz nasztalowane, coby { -brand-short-name } niy spamiyntowoł historyji.
-
-search-one-click-header = Wyszukowarki z jednym klikniyńciym
 
 search-one-click-header2 = Skrōty szukanio
 
@@ -816,13 +739,6 @@ search-keyword-warning-bookmark = Ôbranego kluczowego słowa używo teroz zokł
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Nazod do Ôpcyjōw
-           *[other] Nazod do Preferyncyjōw
-        }
-
 containers-back-button2 =
     .aria-label = Nazod do sztalōnkōw
 containers-header = Kōntynerowe karty
@@ -834,9 +750,6 @@ containers-new-tab-check =
     .label = Ôbier kōntyner do kożdyj nowyj karty
     .accesskey = O
 
-containers-preferences-button =
-    .label = Preferyncyje
-
 containers-settings-button =
     .label = Sztalōnki
 containers-remove-button =
@@ -846,11 +759,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Bier swōj nec ze sobōm
-sync-signedout-description = Synchrōnizuj swoje zokłodki, historyjo, karty, hasła, rozszyrzynia i preferyncyje na wszyskich swojich maszinach.
-
-sync-signedout-account-signin2 =
-    .label = Wloguj sie do { -sync-brand-short-name(case: "gen") }…
-    .accesskey = i
 
 sync-signedout-description2 = Synchrōnizuj swoje zokłodki, historyjo, karty, hasła, rozszyrzynia i sztalōnki na wszyskich swojich maszinach.
 
@@ -901,12 +809,6 @@ prefs-syncing-on = Synchrōnizowanie załōnczōne
 
 prefs-syncing-off = Synchrōnizowanie wyłōnczōne
 
-prefs-sync-setup =
-    .label = Sztaluj { -sync-brand-short-name(case: "acc") }…
-    .accesskey = S
-
-prefs-sync-offer-setup-label = Synchrōnizuj swoje zokłodki, historyjo, karty, hasła, rozszyrzynia i preferyncyje na wszyskich swojich maszinach.
-
 prefs-sync-turn-on-syncing =
     .label = Załōncz synchronizacyjo…
     .accesskey = s
@@ -929,11 +831,6 @@ sync-currently-syncing-logins-passwords = Dane logowanio i hasła
 sync-currently-syncing-addresses = Adresy
 sync-currently-syncing-creditcards = Kredytowe karty
 sync-currently-syncing-addons = Rozszyrzynia
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Ôpcyje
-       *[other] Preferyncyje
-    }
 
 sync-currently-syncing-settings = Sztalōnki
 
@@ -983,15 +880,6 @@ sync-engine-addons =
     .label = Rozszyrzynia
     .tooltiptext = Rozszyrzynia i motywy do Firefoxa na kōmputer
     .accesskey = R
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Ôpcyje
-           *[other] Preferyncyje
-        }
-    .tooltiptext = Spamiyntane nasztalowania: ôgōlne, prywatności, bezpieczyństwa
-    .accesskey = s
 
 sync-engine-settings =
     .label = Sztalōnki
@@ -1048,9 +936,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Spamiyntane dane logowanio…
     .accesskey = L
-forms-master-pw-use =
-    .label = Używej głōwnego hasła
-    .accesskey = U
 forms-primary-pw-use =
     .label = Użyj głōwnego hasła
     .accesskey = U
@@ -1062,7 +947,6 @@ forms-master-pw-change =
     .label = Zmiyń głōwne hasło…
     .accesskey = G
 
-forms-master-pw-fips-title = Jeżeś prawie w trybie FIPS, co potrzebuje niyprōżnego głōwnego hasła.
 forms-primary-pw-change =
     .label = Zmiyń głōwne hasło…
     .accesskey = Z
@@ -1075,15 +959,6 @@ forms-primary-pw-fips-title = Jeżeś prawie w trybie FIPS, co potrzebuje niypr�
 forms-master-pw-fips-desc = Zmiana hasła sie niy podarziła
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Żeby zrychtować głōwne hasło, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = Zrychtuj głōwne hasło
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Żeby zrychtować głōwne hasło, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
@@ -1201,10 +1076,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Regiyruj danymi…
     .accesskey = M
-
-sitedata-cookies-permissions =
-    .label = Regiyruj zgodami…
-    .accesskey = Z
 
 sitedata-cookies-exceptions =
     .label = Regiyruj wyjōntkami…
@@ -1385,12 +1256,6 @@ permissions-addon-exceptions =
     .label = Wyjōntki…
     .accesskey = W
 
-permissions-a11y-privacy-checkbox =
-    .label = Niy dowej dostympowym usugōm dostympu do tyj przeglōndarki
-    .accesskey = d
-
-permissions-a11y-privacy-link = Przewiydz sie wiyncyj
-
 ## Privacy Section - Data Collection
 
 collection-header = Zbiyranie i używanie danych bez { -brand-short-name }
@@ -1417,11 +1282,6 @@ addon-recommendations-link = Przewiydz sie wiyncyj
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Posyłanie danych je zastawione przi tyj kōnfiguracyji
-
-collection-backlogged-crash-reports =
-    .label = Zgoda, coby { -brand-short-name } posyłoł za ciebie nazbiyrane raporty ô awaryjach
-    .accesskey = a
-collection-backlogged-crash-reports-link = Przewiydz sie wiyncyj
 
 collection-backlogged-crash-reports-with-link = Przizwōl, coby { -brand-short-name } posyłoł nazbiyrane raporty z awaryjōw za ciebie <a data-l10n-name="crash-reports-link">Przewiydz sie wiyncyj</a>
     .accesskey = c
@@ -1452,16 +1312,6 @@ security-block-uncommon-software =
 
 certs-header = Certyfikaty
 
-certs-personal-label = Jak serwer pyto sie ô twōj ôsobisty certyfikat
-
-certs-select-auto-option =
-    .label = Ôbier jedyn autōmatycznie
-    .accesskey = O
-
-certs-select-ask-option =
-    .label = Kożdy roz sie pytej
-    .accesskey = K
-
 certs-enable-ocsp =
     .label = Pytej serwery OCSP, coby przituplowały aktualno płatność certyfikatu
     .accesskey = P
@@ -1473,34 +1323,6 @@ certs-view =
 certs-devices =
     .label = Masziny bezpieczyństwa…
     .accesskey = M
-
-space-alert-learn-more-button =
-    .label = Przewiydz sie wiyncyj
-    .accesskey = P
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Ôdewrzij ôpcyje
-           *[other] Ôdewrzij Preferyncyje
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] Aplikacyji { -brand-short-name } kōńczy sie plac na dysku. Zawartość strōny może sie niy pokazować dobrze. Możesz skasować zebrane dane we Ôpcyje > Prywatność i bezpieczyństwo > Cookies i dane strōn.
-       *[other] Aplikacyji { -brand-short-name } kōńczy sie plac na dysku. Zawartość strōny może sie niy pokazować dobrze. Możesz skasować zebrane dane we Preferyncyje > Prywatność i bezpieczyństwo > Cookies i dane strōn.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = OK
-    .accesskey = K
-
-space-alert-under-5gb-message = Aplikacyji { -brand-short-name } kōńczy sie plac na dysku. Zawartość strōny może sie niy pokazować dobrze. Wejrzij na "Przewiydz sie wiyncyj", coby zoptymalizować użycie tego dysku i snadnij przeglōndać nec.
 
 space-alert-over-5gb-settings-button =
     .label = Ôdewrzij sztalōnki

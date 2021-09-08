@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Ôdewrzij myni">
-
 <!ENTITY navbarOverflow.label                "Wiyncyj noczyń…">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Przipnij karta">
-<!ENTITY  unpinTab.label                     "Ôdepnij karta">
 
 <!ENTITY  listAllTabs.label      "Wykoz wszyskich kart">
 
@@ -25,75 +15,24 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Ôdewrzij zbiōr…">
 <!ENTITY printCmd.label "Durkuj…">
 
-<!ENTITY taskManagerCmd.label "Mynedżer zadań">
-
 <!ENTITY menubarCmd.label "Posek myni">
 <!ENTITY menubarCmd.accesskey "M">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Nawigacyjo">
-<!ENTITY personalbarCmd.label "Posek z zokłodkami">
-<!ENTITY personalbarCmd.accesskey "Z">
-<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
-include the word "toolbar" or such, because screen readers already know that
-this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbar.accessibleLabel "Zokłodki">
-<!ENTITY bookmarksToolbarItem.label "Elymynta ze poska z zokłodkami">
 
 <!ENTITY fullScreenCmd.label "Cołki ekran">
 
 <!ENTITY pictureInPictureHideToggle.label "Skryj szalter ôbrazu we ôbrozie">
 <!ENTITY pictureInPictureHideToggle.accesskey "S">
 
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings2.label "Nasztalowania usugi &syncBrand.shortName.label;…">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "Połōncz inkszo maszina…">
-<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Wloguj do aplikacyje &brandProductName;">
-<!ENTITY fxa.menu.turnOnSync.label "Załōncz usuga &syncBrand.shortName.label;…">
-<!ENTITY fxa.menu.firefoxServices.label "Usugi aplikacyje &brandProductName;">
-<!ENTITY fxa.menu.account.label "Kōnto">
-<!ENTITY fxa.menu.settings.label "Nasztalowania">
-<!ENTITY fxa.menu.accountSettings.label "Nasztalowania kōnta">
-<!ENTITY fxa.menu.manageAccount2.label "Regiyruj kōntym">
-<!ENTITY fxa.menu.signOut.label "Wyloguj sie…">
-<!ENTITY fxa.menu.setupSync.label "Nastow usuga &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 <!ENTITY fxa.service.sendTab.description "Posyłej karta na kożdo maszina, na keryj sie wlogujesz.">
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "teroz je w trybie cołkigo ekranu">
-<!ENTITY fullscreenWarning.generic.label "Tyn dokumynt je pokozany w trybie cołkigo ekranu">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Wylyź z trybu cołkigo ekranu (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Wylyź z trybu cołkigo ekranu (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "kōntroluje twōj kursor. Coby cofnōnć ta kōntrola, prziciś Esc.">
-<!ENTITY pointerlockWarning.generic.label "Tyn dokumynt kōntroluje twōj kursor. Coby cofnōnć ta kōntrola, prziciś Esc.">
-
-<!ENTITY showAllBookmarks2.label "Pokoż wszyskie zokłodki">
-<!ENTITY recentBookmarks.label "Niydowno przidane">
-<!ENTITY bookmarksToolbarChevron.tooltip "Pokoż wiyncyj zokłodek">
 
 <!ENTITY printButton.label            "Durkuj">
 <!ENTITY printButton.tooltip          "Durkuj ta strōna">
@@ -104,28 +43,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY homeButton.label             "Dōmowo strōna">
 <!ENTITY homeButton.defaultPage.tooltip "Dōmowo strōna &brandShortName;">
 
-<!ENTITY bookmarksButton.label          "Zokłodki">
-
-<!ENTITY bookmarksSubview.label             "Zokłodki">
-<!ENTITY bookmarksMenuButton2.label         "Myni zokłodek">
-<!ENTITY bookmarksMenuButton.other.label    "Inksze zokłodki">
-<!ENTITY bookmarksMenuButton.mobile.label   "Zokłodki z mobilnioka">
-<!ENTITY viewBookmarksSidebar2.label        "Pokoż posek ze zokłodkami na rancie">
-<!ENTITY hideBookmarksSidebar.label         "Skryj posek ze zokłodkami na rancie">
-<!ENTITY viewBookmarksToolbar.label         "Pokoż posek ze zokłodkami">
-<!ENTITY hideBookmarksToolbar.label         "Skryj posek ze zokłodkami">
-<!ENTITY searchBookmarks.label              "Szukej we zokłodkach">
-<!ENTITY bookmarkingTools.label             "Noczynia przidowanio do zokłodek">
-<!ENTITY addBookmarksMenu.label             "Przidej myni zokłodek do poska z noczyniami">
-<!ENTITY removeBookmarksMenu.label          "Wyciep myni zokłodek z poska z noczyniami">
-
 <!ENTITY historyButton.label            "Historyjo">
 
 <!ENTITY downloads.label              "Pobiyranie">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Pobrania">
-<!ENTITY addons.label                 "Rozszyrzynia">
 
 <!ENTITY webDeveloperMenu.label       "Do deweloperōw">
 
@@ -142,28 +65,11 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY historyMenu.label "Historyjo">
 
-<!ENTITY historyUndoMenu.label "Niydowno zawarte karty">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Niydowno zawarte ôkna">
-
-<!ENTITY appMenuHistory.showAll.label "Pokoż cołko historyjo">
-
-<!ENTITY appMenuHistory.clearRecent.label "Wypucuj niydowno historyjo…">
-<!ENTITY appMenuHistory.restoreSession.label "Wrōć ôstatnio sesyjo">
-<!ENTITY appMenuHistory.viewSidebar.label "Pokoż posek ze historyjōm na rancie">
-<!ENTITY appMenuHistory.hideSidebar.label "Skryj posek ze historyjōm na rancie">
-<!ENTITY appMenuHistory.recentHistory.label "Niydowno historyjo">
-
 <!ENTITY appMenuHelp.label "Pōmoc">
-
-<!ENTITY appMenuRemoteTabs.label "Synchrōnizowane karty">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Niy ma żodnych ôtwartych kart">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Pokoż wiyncyj">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Pokoż wiyncyj kart z tyj masziny">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -179,14 +85,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ôdewrzij preferyncyje synchrōnizacyje">
 <!ENTITY appMenuRemoteTabs.welcome.label "Pokoż wykoz kart z inkszych maszin.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Trza zweryfikować twoje kōnto.">
-<!ENTITY appMenuRemoteTabs.signintosync.label "Wloguj sie do &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.turnonsync.label "Załōncz usuga &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Regiyruj maszinami…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Pokoż posek ze synchrōnizowanymi kartami na rancie">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "Skryj posek ze synchrōnizowanymi kartami na rancie">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Połōncz inkszo maszina">
-
-<!ENTITY appMenuRecentHighlights.label "Niydowne szumne">
 
 <!ENTITY customizeMenu.addToToolbar.label "Przidej do poska z noczyniami">
 <!ENTITY customizeMenu.addToToolbar.accesskey "P">
@@ -198,8 +97,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ôdepnij ôd rozszyrzanego myni">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "o">
-<!ENTITY customizeMenu.removeFromToolbar.label "Wyciep ze poska z noczyniami">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "W">
 <!ENTITY customizeMenu.addMoreItems.label "Przidej wiyncyj elymyntōw…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "E">
 
@@ -217,28 +114,9 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "l">
 
-<!ENTITY pageAction.copyLink.label    "Kopiuj link">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY saveToPocketCmd.label        "Spamiyntej strōna w usudze Pocket">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY pocketMenuitem.label         "Wykoz usugi Pocket">
-
-<!ENTITY emailPageCmd.label           "Poślij link emailym…">
-
 <!ENTITY fullZoom.label                 "Srogość strōny">
 
 <!ENTITY sidebarCloseButton.tooltip     "Zawrzij posek na rancie">
-
-<!ENTITY quitApplicationCmdWin2.label       "Skōńcz">
-<!ENTITY quitApplicationCmdWin2.accesskey   "s">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Skōńcz &brandShorterName;">
-<!ENTITY quitApplicationCmd.label       "Skōńcz">
-<!ENTITY quitApplicationCmd.accesskey   "s">
-<!ENTITY quitApplicationCmdMac2.label   "Skōńcz &brandShorterName;">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -258,10 +136,6 @@ this container is a toolbar. This avoids double-speaking. -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Karty przeglōndarki">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "Autōmatycznie skrywej">
-
 
 <!ENTITY uiTour.infoPanel.close "Zawrzij">
 
@@ -269,15 +143,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY panicButton.thankyou.msg2                "Bezpiecznego przeglōndanio!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Dziynkujymy!">
 
-<!ENTITY updateAvailable.panelUI.label "Pobier aktualizacyjo aplikacyje &brandShorterName;">
-<!ENTITY updateManual.panelUI.label "Pobier nowo wersyjo aplikacyje &brandShorterName;">
-<!ENTITY updateUnsupported.panelUI.label "Dalsze aktualizacyje niy sōm dostympne">
-<!ENTITY updateRestart.panelUI.label2 "Zresztartuj, żeby zaktualizować aplikacyjo &brandShorterName;">
-
 <!ENTITY sendToDevice.syncNotReady.label "Synchrōnizacyjo maszin…">
-
-<!ENTITY pageAction.shareUrl.label "Udostympnij">
-<!ENTITY pageAction.shareMore.label "Wiyncyj…">
 
 <!ENTITY libraryButton.tooltip "Pokoż historyjo, spamiyntane zokłodki i inksze">
 

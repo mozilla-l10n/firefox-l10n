@@ -65,8 +65,6 @@ policy-DisableForgetButton = Zakazowanie dostympu do knefla "Przepōmnij".
 
 policy-DisableFormHistory = Wyłōnczanie spamiyntowanio historyje szukanio i formularōw.
 
-policy-DisableMasterPasswordCreation = Jak to je aktywne, to niy idzie zrychtować głōwnego hasła.
-
 policy-DisablePrimaryPasswordCreation = Jak to je aktywne, to niy idzie zrychtować głōwnego hasła.
 
 policy-DisablePasswordReveal = Zakazowanie pokazowanio haseł we spamiyntanych danych logowanio.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Nostowio przedowniōne
 policy-LocalFileLinks = Zgoda, coby niykere strōny linkowały do lokalnych zbiorōw.
 
 policy-ManagedBookmarks = Sztaluje wykoz z zokłodkami regiyrowanymi ôd administratora, kerych używocz niy poradzi zmiyniać.
-
-policy-MasterPassword = Żōndanie abo zakoz używanio głōwnego hasła.
 
 policy-ManualAppUpdateOnly = Przizwolej ino na rynczne aktualizacyje i niy dowej użytkownikowi znać ô aktualizacyjach.
 

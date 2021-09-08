@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Wyciep wszyskie strōny
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Pociep
-    .accesskey = P
-
-permissions-button-ok =
-    .label = Spamiyntej zmiany
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Spamiyntej zmiany
     .buttonaccesskeyaccept = S

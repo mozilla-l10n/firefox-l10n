@@ -7,20 +7,12 @@ about-logins-page-title = Dane logowanio
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Weź swoje hasła wszyńdzie
-login-app-promo-subtitle = Ściōng darmowo aplikacyjo { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Ściōng z Google Play
-login-app-promo-apple =
-    .alt = Ściōng ze App Store
-
 login-filter =
     .placeholder = Szukej danych logowanio
 
 create-login-button = Stwōrz nowe dane logowanio
 
 fxaccounts-sign-in-text = Używej swojich haseł na inkszych maszinach
-fxaccounts-sign-in-button = Wloguj sie do { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Wloguj sie do synchrōnizacyje
 fxaccounts-avatar-button =
     .title = Zarzōndzej kōntym
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Preferyncyje
     }
 about-logins-menu-menuitem-help = Pōmoc
-menu-menuitem-android-app = { -lockwise-brand-short-name } na Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } na iPhone i iPad
 
 ## Login List
 
@@ -73,14 +63,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Szukosz swojich spamiyntanych danych logowanio? Nastaluj { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = Szukosz za spamiyntanymi danymi logowanio? Załōncz synchrōnizacyjo abo je importnij.
 about-logins-login-intro-heading-logged-in = Niy szło znojś żodnych danych logowanio.
 login-intro-description = Jeźli dane logowanio do aplikacyje { -brand-product-name } były spamiyntane na inkszyj maszinie, idzie je ściōngnōńć takōm metodōm:
-login-intro-instruction-fxa = Zaregistruj abo zaloguj sie do { -fxaccount-brand-name } na maszinie, co na nij sōm spamiyntane dane logowanio
-login-intro-instruction-fxa-settings = Wejzdrzij, żeby ôpcyjo „dane logowanio” była zaznaczōno we sztelōnkach aplikacyje { -sync-brand-short-name }
-about-logins-intro-instruction-help = Nawiydź <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Sparcie</a> po wiyncyj pōmocy
 login-intro-instructions-fxa = Zaregistruj abo zaloguj sie do { -fxaccount-brand-name } na maszinie, co na nij sōm spamiyntane dane logowanio
 login-intro-instructions-fxa-settings = Idź do > Sztalōnki > Synchrōnizacyjo > Załōncz synchrōnizacyjo… Ôbier ôkynko danych logowanio i hasłōw.
 login-intro-instructions-fxa-help = Nawiydź <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Sparcie</a> po wiyncyj pōmocy.
@@ -142,8 +127,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = skopiować spamiyntan
 
 ## Master Password notification
 
-master-password-notification-message = Wkludź swoje głōwne hasło, żeby ôbejzdrzeć spamiyntane loginy i hasła
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Żeby eksportować swoje loginy, wkludź swoje dane logowanio Windows. To suży chrōniyniu twojich kōnt.
 # This message can be seen when attempting to export a password in about:logins
@@ -158,22 +141,6 @@ master-password-reload-button =
     .accesskey = l
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Chcesz swoje hasła wszyńdzie kaj używosz aplikacyje { -brand-product-name }? Ôtwōrz preferyncyje { -sync-brand-short-name(case: "gen") } i ôznocz ôpcyjo „Dane logowanio”.
-       *[other] Chcesz swoje hasła wszyńdzie kaj używosz aplikacyje { -brand-product-name }? Ôtwōrz preferyncyje { -sync-brand-short-name(case: "gen") } i ôznocz ôpcyjo „Dane logowanio”.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Ôtwōrz ôpcyje { -sync-brand-short-name(case: "gen", capitalization: "lower") }
-           *[other] Ôtwōrz preferyncyje { -sync-brand-short-name(case: "gen", capitalization: "lower") }
-        }
-    .accesskey = O
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Niy pytej wiyncyj
-    .accesskey = N
 
 ## Dialogs
 

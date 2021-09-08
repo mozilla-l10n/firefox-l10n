@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Wyciep wszyskie strōny
     .accesskey = s
 
-translation-button-close =
-    .label = Zawrzij
-    .accesskey = Z
-
 translation-dialog =
     .buttonlabelaccept = Zawrzij
     .buttonaccesskeyaccept = Z

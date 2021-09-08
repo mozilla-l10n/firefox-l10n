@@ -10,9 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Wylyź z trybu cołkigo ekranu">
 <!ENTITY castingButton.castingLabel "Dej na ekran">
 <!ENTITY closedCaption.off "Wyłōnczōne">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Regulatōr głośności">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->

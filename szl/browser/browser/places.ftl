@@ -5,9 +5,6 @@
 places-open =
     .label = Ôdewrzij
     .accesskey = O
-places-open-tab =
-    .label = Ôdewrzij w nowyj karcie
-    .accesskey = w
 places-open-in-tab =
     .label = Ôdewrzij w nowyj karcie
     .accesskey = w
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Ôdewrzij wszyskie w kartach
     .accesskey = O
-places-open-window =
-    .label = Ôdewrzij w nowym ôknie
-    .accesskey = N
-places-open-private-window =
-    .label = Ôdewrzij w nowym prywatnym ôknie
-    .accesskey = P
-
-places-new-bookmark =
-    .label = Nowo zokłodka…
-    .accesskey = Z
-places-new-folder-contextmenu =
-    .label = Nowy katalog…
-    .accesskey = K
-places-new-folder =
-    .label = Nowy katalog…
-    .accesskey = K
-places-new-separator =
-    .label = Nowy separatōr
-    .accesskey = S
 
 places-open-in-window =
     .label = Ôdewrzij w nowym ôknie
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Sortuj podug miana
     .accesskey = m
-places-properties =
-    .label = Włosności
-    .accesskey = i
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -137,3 +112,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Regiyruj zokłodkami
     .accesskey = R
+

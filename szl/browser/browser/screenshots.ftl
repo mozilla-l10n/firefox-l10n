@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Zrōb ôbroz ekranu
-
-screenshots-my-shots-button = Moje ôbrazy ekranu
-
 screenshot-toolbarbutton =
     .label = Ôbroz ekranu
     .tooltiptext = Chyć ôbroz ekranu
@@ -40,8 +36,6 @@ screenshots-login-error-details = Niy idzie spamiyntać twojigo ôbrazu ekranu s
 
 screenshots-unshootable-page-error-title = Niy idzie chycić ôbrazu ekranu tyj strōny.
 screenshots-unshootable-page-error-details = To niy ma ańfachowo strōna, tōż niy idzie chycić jeji ôbrazu ekranu.
-
-screenshots-self-screenshot-error-title = Niy idzie chycić ôbrazu ekranu strōny { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Ôbrany kōnsek je za mały
 

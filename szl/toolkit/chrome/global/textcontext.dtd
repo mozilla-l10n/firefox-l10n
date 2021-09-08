@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Wypucuj">
 
-<!ENTITY fillLoginMenu.label          "Wraź dane logowanio">
-<!ENTITY fillLoginMenu.accesskey      "W">
-<!ENTITY fillPasswordMenu.label       "Wraź hasło">
-<!ENTITY fillPasswordMenu.accesskey   "W">
-<!ENTITY fillUsernameMenu.label       "Wraź miano używocza">
-<!ENTITY fillUsernameMenu.accesskey   "W">
-<!ENTITY noLoginSuggestions.label     "(Żodnych doradōw danych logowanio)">
-<!ENTITY viewSavedLogins.label        "Pokoż spamiyntane dane logowanio">
