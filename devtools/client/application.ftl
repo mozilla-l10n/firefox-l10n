@@ -32,12 +32,6 @@ serviceworker-worker-debug = ડિબગ કરો
 # display the last update time of the service worker script.
 serviceworker-worker-updated = સુધારેલું <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = સ્ત્રોત
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = સ્થિતિ
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -47,24 +41,4 @@ serviceworker-worker-status-running = ચાલી રહ્યું છે
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = બંધ કરી દીધું
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = અહીં તેની તપાસ કરવા માટે તમારે Service Worker ને નોંધણી કરાવવાની જરૂર છે. <a>વધુ શીખો</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = જો વર્તમાન પૃષ્ઠ પાસે એક સેવા કાર્યકર હોવું જોઈએ, તો અહીં કેટલીક વસ્તુઓ છે જે તમે પ્રયાસ કરી શકો છો
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = કન્સોલમાં ભૂલો માટે જુઓ <a> કન્સોલ ખોલો </a>
-
-# Suggestion to use the debugger to investigate why a service worker is not registered.
-# Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = તમારા સેવા કાર્યકર્તા નોંધણી દ્વારા પગલું અને અપવાદો જુઓ. <a> ડીબગર ખોલો </a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = અન્ય ડોમેન્સમાંથી સેવા કામદારોનું નિરીક્ષણ કરો <a> આના વિશે ખોલો: ડિબગીંગ </a>
 

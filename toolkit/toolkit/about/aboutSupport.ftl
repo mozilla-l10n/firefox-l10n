@@ -10,11 +10,6 @@ crashes-id = અહેવાલ ઓળખ
 crashes-send-date = જમા થયેલ
 crashes-all-reports = બધા ભંગાણ અહેવાલો
 crashes-no-config = આ કાર્યક્રમ ભંગાણ અહેવાલો દર્શાવવા માટે રૂપરેખાંકિત થયેલ નથી.
-extensions-title = એક્સટેન્શનો
-extensions-name = નામ
-extensions-enabled = સક્રિય થયેલ
-extensions-version = આવૃત્તિ
-extensions-id = ID
 support-addons-name = નામ
 support-addons-version = આવૃત્તિ
 support-addons-id = ID
@@ -102,8 +97,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = પ્રક્રિયા પ્રકાર
 sandbox-sys-call-number = સિસકૉલ
 sandbox-sys-call-args = દલીલો
-safe-mode-title = સુરક્ષિત મોડ અજમાવો
-restart-in-safe-mode-label = નિષ્ક્રિય થયેલ ઍડ-ઑન સાથે પુન:શરૂ કરો…
 
 ## Media titles
 
@@ -240,19 +233,12 @@ webgl2-renderer = WebGL 2 ડ્રાઈવર રેન્ડરર
 webgl2-version = WebGL 2 ડ્રાઈવર સંસ્કરણ
 webgl2-driver-extensions = WebGL 2 ડ્રાઈવર એક્સ્ટેન્શન્સ
 webgl2-extensions = WebGL 2 એક્સ્ટેન્શન્સ
-blocklisted-bug = જાણીતા મુદ્દાઓના કારણે અવરોધિત સૂચિ માં છે
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = ભૂલ { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = અવરોધિત સૂચિ કરેલ; નિષ્ફળતા કોડ { $failureCode }
 
 d3d11layers-crash-guard = D3D11 કંપોઝિટર
-d3d11video-crash-guard = D3D11 વિડીયો ડિકોડર
-d3d9video-crash-guard = D3D9 વિડીયો ડીકોડર
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = આગલું પુનઃપ્રારંભ કરો પર ફરીથી સેટ કરો
@@ -290,14 +276,6 @@ launcher-process-status-unknown = અજ્ઞાત સ્થિતિ
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = વપરાશકર્તા દ્વારા સક્ષમ
-multi-process-status-1 = મૂળભૂત દ્વારા સક્ષમ
-multi-process-status-2 = અક્ષમ
-multi-process-status-4 = ઍક્સેસિબિલિટી ટૂલ્સ દ્વારા અક્ષમ કરેલ
-multi-process-status-6 = અસમર્થિત ટેક્સ્ટ ઇનપુટ દ્વારા અક્ષમ કરેલ
-multi-process-status-7 = એડ-ઑન્સ દ્વારા અક્ષમ
-multi-process-status-8 = બળજબરીથી અક્ષમ
-multi-process-status-unknown = અજ્ઞાત સ્થિતિ
 
 async-pan-zoom = અસુમેળ પૈન/Zoom
 apz-none = કંઈ નહીં

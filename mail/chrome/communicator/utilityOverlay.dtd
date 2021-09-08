@@ -18,9 +18,6 @@
 <!ENTITY redoCmd.accesskey					"r">  
 <!ENTITY deleteCmd.label					"કાઢી નાંખો">  
 <!ENTITY deleteCmd.accesskey				"d">  
-<!ENTITY preferencesCmdUnix.label       "પસંદગીઓ">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
-
 <!ENTITY viewMenu.label					"જુઓ"> 
 <!ENTITY viewMenu.accesskey				"v"> 
 <!ENTITY viewToolbarsMenu.label				"સાધનપટ્ટીઓ"> 

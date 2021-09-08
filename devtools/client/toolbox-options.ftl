@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = સ્ક્રીનશૉટ વર્તન
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = ક્લિપબોર્ડ પર સ્ક્રીનશૉટ
-options-screenshot-clipboard-tooltip =
-    .title = ક્લિપબોર્ડ પર સીધા જ સ્ક્રીનશૉટ સાચવે છે
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = કેમેરા શટર અવાજ ચલાવો
 options-screenshot-audio-tooltip =

@@ -45,10 +45,6 @@
 <!ENTITY printCmd.label "છાપો...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "છાપન પૂર્વદર્શન">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "પાનાં સુયોજન...">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "સંદેશો કાઢી નાંખો">
@@ -332,8 +328,6 @@
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY addressBookCmd.label "સરનામા પુસ્તિકા">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addons.label "એડ-ઓન">
-<!ENTITY addons.accesskey "d">
 <!ENTITY filtersApply.label "ફોલ્ડર પર ગાળકો ચલાવો">
 <!ENTITY filtersApply.accesskey "R">
 
@@ -356,13 +350,10 @@
 <!ENTITY previousButton.label "પાછળ">
 <!ENTITY backButton1.label "પાછળ જાવ">
 <!ENTITY goForwardButton1.label "આગળ જાવ">
-<!ENTITY deleteButton.label "કાઢી નાંખો">
 <!ENTITY markButton.label "ચિહ્નિત કરો">
 <!ENTITY printButton.label "છાપો">
 <!ENTITY stopButton.label "અટકાવો">
 <!ENTITY throbberItem.title "ક્રિયા સૂચક">
-<!ENTITY junkButton.label "બગડેલ">
-<!ENTITY notJunkButton.label "બગડેલ નથી">
 <!ENTITY addressBookButton.label "સરનામા પુસ્તિકા">
 <!ENTITY searchItem.title "ઝડપી શોધ">
 <!ENTITY mailViewsToolbarItem.title "મેલ દૃશ્યો">
@@ -382,12 +373,9 @@
 <!ENTITY previousButton.tooltip "પાછળના નહિં વંચાયેલ સંદેશા પર ખસો">
 <!ENTITY goForwardButton.tooltip "એક સંદેશો આગળ જાવ">
 <!ENTITY goBackButton.tooltip "એક સંદેશો પાછળ જાવ">
-<!ENTITY deleteButton.tooltip "પસંદ કરેલ સંદેશો અથવા ફોલ્ડર કાઢી નાંખો">
 <!ENTITY markButton.tooltip "સંદેશાઓ ચિહ્નિત કરો">
 <!ENTITY printButton.tooltip "આ સંદેશો છાપો">
 <!ENTITY stopButton.tooltip "વર્તમાન પરિવહન અટકાવો">
-<!ENTITY junkButton.tooltip "પસંદ કરેલ સંદેશાઓને બગડેલ તરીકે ચિહ્નિત કરો">
-<!ENTITY notJunkButton.tooltip "પસંદ કરેલ સંદેશાઓને બગડેલ નથી એમ ચિહ્નિત કરો">
 <!ENTITY addressBookButton.tooltip "સરનામા પુસ્તિકા પર જાવ">
 <!ENTITY tagButton.tooltip "સંદેશાઓ ટેગ કરો">
 

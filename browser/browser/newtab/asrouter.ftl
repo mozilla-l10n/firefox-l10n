@@ -7,7 +7,6 @@
 
 cfr-doorhanger-extension-heading = ભલામણ કરેલ એક્સ્ટેંશન
 cfr-doorhanger-feature-heading = ભલામણ લક્ષણ
-cfr-doorhanger-pintab-heading = આને અજમાવો: ટૅબ પિન કરો
 
 ##
 
@@ -19,8 +18,6 @@ cfr-doorhanger-extension-cancel-button = હમણાં નહિ
 
 cfr-doorhanger-extension-ok-button = હમણાંજ ઉમેરો
     .accesskey = A
-cfr-doorhanger-pintab-ok-button = આ ટેબ પિન કરો
-    .accesskey = P
 
 cfr-doorhanger-extension-manage-settings-button = ભલામણ સેટિંગ્સ મેનેજ કરો
     .accesskey = M
@@ -68,16 +65,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } વપરાશકર્તાઓ
     }
 
-cfr-doorhanger-pintab-description = તમારી સૌથી વધુ ઉપયોગમાં લેવાતી સાઇટ્સની સરળ ઍક્સેસ મેળવો. સાઇટ્સને ટેબમાં ખોલો (તમે ફરીથી શરૂ કરો ત્યારે પણ).
-
 ## These messages are steps on how to use the feature and are shown together.
-
-cfr-doorhanger-pintab-step1 = તમે જે ટૅબને પિન કરવા માંગો છો તેના પર <b>જમણી ક્લિક કરો.</b>
-cfr-doorhanger-pintab-step2 = મેનૂમાંથી <b>પિન ટૅબ</ b> પસંદ કરો.
-cfr-doorhanger-pintab-step3 = જો સાઇટમાં એક અપડેટ હોય તો તમને તમારા પિન કરેલા ટેબ પર વાદળી બિંદુ દેખાશે.
-
-cfr-doorhanger-pintab-animation-pause = અટકાવો
-cfr-doorhanger-pintab-animation-resume = ફરી શરૂ કરો
 
 
 ## Firefox Accounts Message
@@ -103,24 +91,6 @@ cfr-badge-reader-label-newfeature = નવી સુવિધા:
 cfr-whatsnew-button =
     .label = નવું શું છે
     .tooltiptext = નવું શું છે
-
-cfr-whatsnew-panel-header = નવું શું છે
-
-cfr-whatsnew-tracking-protect-title = પોતાને ટ્રેકર્સથી બચાવો
-cfr-whatsnew-tracking-protect-link-text = તમારો અહેવાલ જુઓ
-
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $blockedCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-tracking-blocked-title =
-    { $blockedCount ->
-        [one] ટ્રેકર્સ અવરોધિત
-       *[other] ટ્રેકર્સ અવરોધિત
-    }
-cfr-whatsnew-tracking-blocked-link-text = અહેવાલ જુઓ
-
-cfr-whatsnew-lockwise-backup-title = તમારા પાસવર્ડ્સનો બેક અપ લો
-cfr-whatsnew-lockwise-backup-link-text = બેકઅપ ચાલુ કરો
 
 ## Search Bar
 
@@ -178,4 +148,10 @@ cfr-whatsnew-lockwise-backup-link-text = બેકઅપ ચાલુ કરો
 ## Fission Experiment Message
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

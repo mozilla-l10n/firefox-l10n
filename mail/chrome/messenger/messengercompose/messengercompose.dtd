@@ -11,13 +11,9 @@
 <!ENTITY newMenu.label "નવો">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "સંદેશો">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY attachMenu.label "જોડો">
 <!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "ફાઈલો...">
-<!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "વેબ પાનું...">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -43,8 +39,6 @@
 <!ENTITY sendLaterCmd.label "પછી મોકલો">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "પાના સુયોજન...">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "છાપો...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P"> 
@@ -138,9 +132,7 @@
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "સરનામા પુસ્તિકા">
-<!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY preferencesCmdUnix.label       "પસંદગીઓ">
-<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+<!ENTITY addressBookCmd.accesskey "a"> 
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -153,7 +145,6 @@
 <!ENTITY sendButton.label "મોકલો">
 <!ENTITY quoteButton.label "અવતરણ">
 <!ENTITY addressButton.label "સંપર્કો">
-<!ENTITY attachButton.label "જોડો">
 <!ENTITY spellingButton.label "જોડણી">
 <!ENTITY saveButton.label "સંગ્રહો">
 
@@ -215,8 +206,6 @@
 <!ENTITY delete.accesskey "D">
 <!ENTITY selectAll.label "બધું પસંદ કરો">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "ફાઈલો જોડો...">
-<!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "વેબ પાનું જોડો...">
 <!ENTITY attachPage.accesskey "W">
 

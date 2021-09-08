@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = ઍડ-ઓન સંચાલક
-
 addons-page-title = ઍડ-ઓન સંચાલક
 
 search-header =
@@ -34,61 +31,11 @@ help-button = ઍડ-ઓન્સ આધાર
 sidebar-help-button-title =
     .title = ઍડ-ઓન્સ આધાર
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } વિકલ્પો
-       *[other] { -brand-short-name } પસંદગીઓ
-    }
-
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } વિકલ્પો
-           *[other] { -brand-short-name } પસંદગીઓ
-        }
-
 show-unsigned-extensions-button =
     .label = કેટલાક એક્સ્ટેન્શન્સની ચકાસણી કરી શકાઈ નથી
 
 show-all-extensions-button =
     .label = બધા એક્સ્ટેન્શન્સ બતાવો
-
-cmd-show-details =
-    .label = વધારે જાણકારીને બતાવો
-    .accesskey = S
-
-cmd-find-updates =
-    .label = સુધારાઓ શોધો
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] વિકલ્પો
-           *[other] પસંદગીઓ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = થીમને પહેરો
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = થીમને પહેરવાનું બંધ કરો
-    .accesskey = W
-
-cmd-install-addon =
-    .label = સ્થાપિત કરો
-    .accesskey = I
-
-cmd-contribute =
-    .label = ફાળો આપો
-    .accesskey = C
-    .tooltiptext = આ ઍડ-ઓનનાં વિકાસ માટે ફાળો આપો
 
 detail-version =
     .label = આવૃત્તિ

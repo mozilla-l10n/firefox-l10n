@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = બુકમાર્ક્સ
+
 sidebar-menu-history =
     .label = ઇતિહાસ
+
 sidebar-menu-synced-tabs =
     .label = સમન્વિત કરેલા ટૅબ્સ
+
 sidebar-menu-close =
     .label = સાઇડબાર બંધ કરો
+
 sidebar-close-button =
     .tooltiptext = બાજુપટ્ટી બંધ કરો

@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = બધી સાઇટ દૂર કરો
     .accesskey = i
 
-translation-button-close =
-    .label = બંધ કરો
-    .accesskey = C
-
 translation-dialog =
     .buttonlabelaccept = બંધ કરો
     .buttonaccesskeyaccept = C
