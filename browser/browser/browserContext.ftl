@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = সর্বশেষ পূর্ববর্তী পৃষ্ঠায় প্রত্যাবর্তন করুন
-    .aria-label = পূর্ববর্তী
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = প্রদর্শিত পৃষ্ঠার অনুক্রম অনুযায়ী, পরবর্তী পৃষ্ঠায় এগিয়ে চলুন
-    .aria-label = পরবর্তী
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = নতুন নামে পৃষ্ঠা সংরক্ষণ করুন…
     .accesskey = p
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = নতুন প্রাইভেট উইন্ডোর মধ্যে লিঙ্ক প্রদর্শন করা হবে
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = চিহ্নিত লিঙ্ক বুকমার্ক করুন
-    .accesskey = L
-
 main-context-menu-save-link =
     .label = নতুন নামে লিঙ্ক সংরক্ষণ করুন…
     .accesskey = ন
@@ -181,10 +152,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = ই-মেইল ঠিকানা কপি করুন
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = লিঙ্কের দ্বারা চিহ্নিত অবস্থান কপি করুন
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -209,32 +176,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = সরব
     .accesskey = স
-
-main-context-menu-media-play-speed =
-    .label = চলার গতি
-    .accesskey = d
-
-main-context-menu-media-play-speed-slow =
-    .label = ধীরে (0.5×)
-    .accesskey = S
-
-main-context-menu-media-play-speed-normal =
-    .label = স্বাভাবিক
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = দ্রুত (1.25×)
-    .accesskey = F
-
-main-context-menu-media-play-speed-faster =
-    .label = দ্রুততর (1.5×)
-    .accesskey = a
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = হাস্যকর (2×)
-    .accesskey = L
 
 main-context-menu-media-loop =
     .label = লুপ
@@ -265,29 +206,9 @@ main-context-menu-image-reload =
     .label = ছবি নতুন করে প্রদর্শন করা হবে
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = ছবি প্রদর্শন
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = ভিডিও দেখুন
-    .accesskey = ভ
-
 main-context-menu-image-copy =
     .label = ছবি কপি করুন
     .accesskey = ছ
-
-main-context-menu-image-copy-location =
-    .label = ছবির অবস্থান কপি করুন
-    .accesskey = ছ
-
-main-context-menu-video-copy-location =
-    .label = ভিডিও-র অবস্থান কপি করুন
-    .accesskey = ভ
-
-main-context-menu-audio-copy-location =
-    .label = অডিও-র অবস্থান কপি করুন
-    .accesskey = অ
 
 main-context-menu-image-save-as =
     .label = নতুন নামে ছবি সংরক্ষণ করুন…
@@ -296,10 +217,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = ছবি ই-মেইল করুন…
     .accesskey = ছ
-
-main-context-menu-image-set-as-background =
-    .label = ডেস্কটপের পটভূমি রূপে নির্ধারণ করুন…
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = ছবি সংক্রান্ত তথ্য দেখুন
@@ -316,10 +233,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = নতুন রূপে অডিও সংরক্ষণ করুন…
     .accesskey = ন
-
-main-context-menu-video-image-save-as =
-    .label = নতুন রূপে স্ন্যাপ-শট সংরক্ষণ করুন…
-    .accesskey = S
 
 main-context-menu-video-email =
     .label = ভিডিও ই-মেইল করুন…
@@ -340,10 +253,6 @@ main-context-menu-plugin-hide =
 main-context-menu-send-to-device =
     .label = পেজ থেকে Device-এ পাঠান
     .accesskey = D
-
-main-context-menu-view-background-image =
-    .label = পটভূমির ছবি প্রদর্শন
-    .accesskey = প
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -408,10 +317,6 @@ main-context-menu-view-page-source =
     .label = পৃষ্ঠার উৎস প্রদর্শন
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = পৃষ্ঠা সংক্রান্ত তথ্য পড়ুন
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = লেখনির দিশা পরিবর্তন করুন
     .accesskey = ল
@@ -420,13 +325,10 @@ main-context-menu-bidi-switch-page =
     .label = পৃষ্ঠার দিশা পরিবর্তন করুন
     .accesskey = D
 
-main-context-menu-inspect-element =
-    .label = সামগ্রী নিরীক্ষণ করুন
-    .accesskey = Q
-
 main-context-menu-inspect-a11y-properties =
     .label = অ্যাক্সেসযোগ্য বৈশিষ্ট্যাবলী পরিদর্শন করুন
 
 main-context-menu-eme-learn-more =
     .label = DRM সম্পর্কে আরও জানুন...
     .accesskey = D
+

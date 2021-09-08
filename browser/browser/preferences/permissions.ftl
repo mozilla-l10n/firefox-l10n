@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = সমস্ত ওয়েবসাইটগুলি মুছে ফেলুন
     .accesskey = e
 
-permissions-button-cancel =
-    .label = বাতিল
-    .accesskey = C
-
-permissions-button-ok =
-    .label = পরিবর্তন সংরক্ষণ করুন
-    .accesskey = S
-
 permissions-searchbox =
     .placeholder = ওয়েবসাইটের অনুসন্ধান করুন
 

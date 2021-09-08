@@ -23,10 +23,6 @@
 <!ENTITY closeCmd.label                                 "Close">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "c">
-<!ENTITY printSetupCmd.label                            "Page Setup...">
-<!ENTITY printSetupCmd.accesskey                        "u">
-<!ENTITY printPreviewAddressBook.label                  "Print Preview Address Book">
-<!ENTITY printPreviewAddressBook.accesskey              "B">
 <!ENTITY printAddressBook.label                         "Print Address Book...">
 <!ENTITY printAddressBook.accesskey                     "A">
 
@@ -70,9 +66,7 @@
 <!ENTITY importCmd.label                                "Import...">
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Export...">
-<!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmdUnix.label                       "Preferences">
-<!ENTITY preferencesCmdUnix.accesskey                   "n"> 
+<!ENTITY exportCmd.accesskey                            "E"> 
 
 <!ENTITY newlistButton.label                            "New List">
 <!ENTITY newlistButton.accesskey                        "L">

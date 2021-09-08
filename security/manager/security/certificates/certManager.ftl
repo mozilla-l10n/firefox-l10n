@@ -17,42 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = কর্তৃপক্ষ (অথোরিটি)
 
-certmgr-detail-general-tab-title =
-    .label = সাধারণ
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = বিবরণ
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = বর্তমানে চিহ্নিত সার্টিফিকেট পরীক্ষা করা হচ্ছে…
-
-certmgr-subject-label = প্রাপক
-
-certmgr-issuer-label = প্রকাশক
-
-certmgr-period-of-validity = বৈধতার সময়কাল
-
-certmgr-fingerprints = ফিঙ্গারপ্রিন্ট
-
-certmgr-cert-detail =
-    .title = সার্টিফিকেটের বিবরণ
-    .buttonlabelaccept = বন্ধ
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = সাধারণ নাম (CN)
-
-certmgr-cert-detail-org = প্রতিষ্ঠান (O)
-
-certmgr-cert-detail-orgunit = প্রাতিষ্ঠানিক একক (OU)
-
-certmgr-cert-detail-serial-number = ক্রমিক সংখ্যা
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 ফিঙ্গারপ্রিন্ট
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 ফিঙ্গারপ্রিন্ট
-
 certmgr-edit-ca-cert =
     .title = CA সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদন করুন
     .style = width: 48em;
@@ -81,12 +45,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = নিরাপত্তা ডিভাইস
 
-certmgr-begins-on = আরম্ভ হল
-
 certmgr-begins-label =
     .label = আরম্ভ হল
-
-certmgr-expires-on = মেয়াদ পূরণের তারিখ
 
 certmgr-expires-label =
     .label = মেয়াদ পূরণের তারিখ
@@ -128,18 +88,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = ইম্পোর্ট করুন…
     .accesskey = ই
-
-certmgr-details =
-    .value = সার্টিফিকেটের ক্ষেত্র
-    .accesskey = F
-
-certmgr-fields =
-    .value = ক্ষেত্রের মান
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = সার্টিফিকেটের অনুক্রম
-    .accesskey = H
 
 certmgr-add-exception =
     .label = ব্যতিক্রম যোগ করুন…
@@ -203,12 +151,6 @@ delete-user-cert-confirm = আপনি কি নিশ্চিতরূপে
 delete-user-cert-impact = আপনার কোনো নিজস্ব সার্টিফিকেট মুছে ফেলা হলে, পরিচয় প্রমাণের জন্য আপনি তা পুনরায় ব্যবহার করতে সক্ষম হবেন না।
 
 
-delete-ssl-cert-title =
-    .title = সার্ভার সার্টিফিকেটের ব্যতিক্রম মুছে ফেলুন
-delete-ssl-cert-confirm = আপনি কি নিশ্চিতরূপে সার্ভারের এই ব্যতিক্রমগুলি মুছে ফেলতে ইচ্ছুক?
-delete-ssl-cert-impact = সার্ভার সংক্রান্ত ব্যতিক্রম মুছে ফেলা হলে, সংশ্লিষ্ট সার্ভারের জন্য নিরাপত্তামূলক পরীক্ষা করা হবে ও একটি বৈধ সার্টিফিকেটের ব্যবহার আবশ্যক হবে।
-
-
 delete-ca-cert-title =
     .title = CA সার্টিফিকেট মুছে ফেলুন অথবা অবিশ্বস্ত রূপে ধার্য করুন
 delete-ca-cert-confirm = চিহ্নিত CA সার্টিফিকেটগুলি আপনি মুছে ফেলার অনুরোধ জানিয়েছেন। বিল্ট-ইন সার্টিফিকেটের ক্ষেত্রে সর্বধরনের বিশ্বস্ততা মুছে ফেলা হলে সমতূল্য প্রভাব সৃষ্টি হবে। আপনি কি নিশ্চিতরূপে মুছে ফেলতে অথবা অবিশ্বস্ত রূপে ধার্য করতে ইচ্ছুক?
@@ -228,38 +170,6 @@ cert-with-serial =
     .value = সিরিয়াল নম্বরের সাথে সার্টিফিকেট: { $serialNumber }
 
 ## Cert Viewer
-
-not-present =
-    .value = <সার্টিফিকেটের অংশ নয়>
-
-# Cert verification
-cert-verified = এই সার্টিফিকেটটি নিম্নলিখিত কর্মের জন্য পরীক্ষিত হয়েছে:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL ক্লায়েন্ট সার্টিফিকেট
-
-verify-ssl-server =
-    .value = SSL সার্ভার সার্টিফিকেট
-
-verify-ssl-ca =
-    .value = SSL সার্টিফিকেট অথোরিটি
-
-verify-email-signer =
-    .value = ই-মেইল স্বাক্ষরকারী সার্টিফিকেট
-
-verify-email-recip =
-    .value = ই-মেইল গ্রহণকারী সার্টিফিকেট
-
-# Cert verification
-cert-not-verified-cert-revoked = সার্টিফিকেট প্রত্যাখ্যান হওয়ার দরুন এটি পরীক্ষা করা সম্ভব হয়নি।
-cert-not-verified-cert-expired = মেয়াদ পূর্ণ হওয়ার দরুন এই সার্টিফিকেটটি পরীক্ষা করা যায়নি।
-cert-not-verified-cert-not-trusted = বিশ্বস্ত না হওয়ার দরুন এই সার্টিফিকেটটি পরীক্ষা করা যায়নি।
-cert-not-verified-issuer-not-trusted = প্রকাশকারী বিশ্বস্ত না হওয়ার দরুন এই সার্টিফিকেটটি পরীক্ষা করা সম্ভব হয়নি।
-cert-not-verified-issuer-unknown = প্রকাশকারী পরিচিত না হওয়ার দরুন এই সার্টিফিকেটটি পরীক্ষা করা সম্ভব হয়নি।
-cert-not-verified-ca-invalid = CA সার্টিফিকেট বৈধ না হওয়ার দরুন এই সার্টিফিকেটটি পরীক্ষা করা সম্ভব হয়নি।
-cert-not-verified_algorithm-disabled = এই সার্টিফিকেটটি স্বাক্ষর করার জন্য ব্যবহৃত অ্যালগোরিদমটি নিরাপদ না হওয়ায় সেটি নিষ্ক্রিয় করার ফলে এই সার্টিফিকেটটি যাচাই করা যায়নি
-cert-not-verified-unknown = অজানা কারণের দরুন এই সার্টিফিকেট পরীক্ষা করা যায়নি।
 
 ## Used to show whether an override is temporary or permanent
 

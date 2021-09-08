@@ -5,11 +5,6 @@
 containers-window-new =
     .title = নতুন কন্টেইনার যোগ করুন
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } কন্টেইনার পছন্দ
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = আইকন
 containers-color-label = রঙ
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = হয়ে গেছে
-    .accesskey = D
 
 containers-color-blue =
     .label = নীল

@@ -35,7 +35,3 @@ translation-sites-button-remove-all =
     .label = সমস্ত সাইটগুলি মুছে ফেলুন
     .accesskey = ই
 
-translation-button-close =
-    .label = বন্ধ করুন
-    .accesskey = C
-

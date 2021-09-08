@@ -27,14 +27,6 @@ site-data-remove-selected =
     .label = নির্বাচন করা অপসরণ করুন
     .accesskey = r
 
-site-data-button-cancel =
-    .label = বাতিল
-    .accesskey = C
-
-site-data-button-save =
-    .label = পরিবর্তন সংরক্ষণ করুন
-    .accesskey = a
-
 site-data-remove-all =
     .label = সব অপসারণ করুন
     .accesskey = e
