@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = ਸਾਰੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਹਟਾਓ
     .accesskey = e
 
-permissions-button-cancel =
-    .label = ਰੱਦ ਕਰੋ
-    .accesskey = C
-
-permissions-button-ok =
-    .label = ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ
     .buttonaccesskeyaccept = S

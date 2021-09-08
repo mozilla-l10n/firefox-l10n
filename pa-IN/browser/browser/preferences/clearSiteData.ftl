@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਚਿੱਤਰ ਤੇ ਡਾਟਾ ਮੁੜ-ਲੋਡ ਕਰ ਦੀ ਲੋੜ ਹੋਵੇਗੀ
 
-clear-site-data-cancel =
-    .label = ਰੱਦ ਕਰੋ
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = ਸਾਫ਼ ਕਰੋ
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = ਸਾਫ਼ ਕਰੋ
     .buttonaccesskeyaccept = l

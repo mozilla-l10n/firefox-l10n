@@ -23,11 +23,6 @@
 # The heading
 options-screenshot-label = ਸਕਰੀਨਸ਼ਾਟ ਰਵੱਈਆ
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = ਸਕਰੀਨਸ਼ਾਟ ਕਲਿੱਪਬੋਰਡ 'ਚ ਲਿਆ
-options-screenshot-clipboard-tooltip =
-    .title = ਸਕਰੀਨਸ਼ਾਟ ਨੂੰ ਸਿੱਧੇ ਕਲਿੱਪਬੋਰਡ 'ਚ ਸੰਭਾਲਦਾ ਹੈ
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = ਕੈਮਰਾ ਸ਼ਟਰ ਆਵਾਜ਼ ਚਲਾਓ
 options-screenshot-audio-tooltip =

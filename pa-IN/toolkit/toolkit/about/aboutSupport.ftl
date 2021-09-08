@@ -13,11 +13,6 @@ crashes-id = ਰਿਪੋਰਟ ID
 crashes-send-date = ਭੇਜੀਆਂ
 crashes-all-reports = ਸਭ ਕਰੈਸ਼ ਰਿਪੋਰਟ
 crashes-no-config = ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਵਿਖਾਉਣ ਲਈ ਹਾਲੇ ਸੰਰਚਿਤ ਨਹੀਂ ਹੈ।
-extensions-title = ਇਕਸਟੈਨਸ਼ਨ
-extensions-name = ਨਾਂ
-extensions-enabled = ਚਾਲੂ ਹੈ
-extensions-version = ਵਰਜ਼ਨ
-extensions-id = ID
 support-addons-title = ਐਡ-ਆਨ
 support-addons-name = ਨਾਂ
 support-addons-type = ਕਿਸਮ
@@ -132,8 +127,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Process Type
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
-safe-mode-title = ਸੁਰੱਖਿਅਤ ਮੋਡ ਵਰਤ ਕੇ ਦੇਖੋ
-restart-in-safe-mode-label = …ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 
 troubleshoot-mode-title = ਮਸਲਿਆਂ ਦੀ ਪੜਤਾਲ ਕਰੋ
 restart-in-troubleshoot-mode-label = ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਢੰਗ…
@@ -191,37 +184,6 @@ remote-debugging-accepting-connections = ਮਨਜ਼ੂਰ ਕੀਤੇ ਕਨੈ�
 remote-debugging-url = URL
 
 ##
-
-support-third-party-modules-title = ਤੀਜੀ ਧਿਰ ਮੋਡੀਊਲ
-support-third-party-modules-module = ਮੋਡੀਊਲ ਫਾਇਲ
-support-third-party-modules-version = ਫਾਇਲ ਦਾ ਵਰਜ਼ਨ
-support-third-party-modules-vendor = ਵੇਂਡਰ ਦੀ ਜਾਣਕਾਰੀ
-support-third-party-modules-occurrence = ਮੌਜੂਦਗੀ
-support-third-party-modules-process = ਪ੍ਰੋਸੈਸ ਦੀ ਕਿਸਮ ਤੇ ਆਈਡੀ
-support-third-party-modules-thread = ਥਰਿੱਡ
-support-third-party-modules-base = ਚਿੱਤਰ-ਬੇਸ ਸਿਰਨਾਵਾਂ
-support-third-party-modules-uptime = ਪਰੋਸੈਸ ਅੱਪਟਾਈਮ (ਮਿਲੀਸਕਿੰਟ)
-support-third-party-modules-duration = ਲੋਡਿੰਗ ਅੰਤਰਾਲ (ਮਿਲੀਸਕਿੰਟ)
-support-third-party-modules-status = ਹਾਲਤ
-support-third-party-modules-status-loaded = ਲੋਡ ਕੀਤਾ
-support-third-party-modules-status-blocked = ਪਾਬੰਦੀ ਲਾਇਆ
-support-third-party-modules-status-redirected = ਰਿ-ਡਾਇਰੈਕਟ
-support-third-party-modules-empty = ਕੋਈ ਵੀ ਸੁਤੰਤਰ ਧਿਰ ਦਾ ਮੋਡੀਊਲੋਡ ਲੋਡ  ਨਹੀਂ ਕੀਤਾ ਗਿਆ।
-support-third-party-modules-no-value = (ਕੋਈ ਮੁੱਲ ਨਹੀਂ)
-support-third-party-modules-button-open =
-    .title = …ਫਾਇਲ ਟਿਕਾਣੇ ਨੂੰ ਖੋਲ੍ਹੋ
-support-third-party-modules-expand =
-    .title = ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ ਵੇਖਾਓ
-support-third-party-modules-collapse =
-    .title = ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ ਨੂੰ ਸਮੇਟੋ
-support-third-party-modules-unsigned-icon =
-    .title = ਇਹ ਮੋਡੀਊਲ ਸਾਈਨ ਨਹੀਂ ਹੈ
-support-third-party-modules-folder-icon =
-    .title = …ਫਾਇਲ ਟਿਕਾਣੇ ਨੂੰ ਖੋਲ੍ਹੋ
-support-third-party-modules-down-icon =
-    .title = ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ ਵੇਖਾਓ
-support-third-party-modules-up-icon =
-    .title = ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ ਨੂੰ ਸਮੇਟੋ
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -317,11 +279,6 @@ webgl2-renderer = WebGL2 ਰੈਂਡਰਰ
 webgl2-version = WebGL 2 Driver Version
 webgl2-driver-extensions = WebGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
-blocklisted-bug = ਜਾਣੀਆਂ ਹੋਈਆਂ ਸਮੱਸਿਆਵਾਂ ਕਰਕੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = ਬੱਗ { $bugNumber }
 
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
@@ -332,8 +289,6 @@ support-blocklisted-bug = ਜਾਣੇ-ਪਛਾਣੇ ਮਸਲਿਆਂ ਕਰ
 unknown-failure = ਪਾਬੰਦੀਸ਼ੁਦਾ; ਅਸਫ਼ਲਤਾ ਕੋਡ { $failureCode }
 
 d3d11layers-crash-guard = D3D11 ਕੰਪੋਜ਼ਿਟਰ
-d3d11video-crash-guard = D3D11 ਵੀਡੀਓ ਡੀਕੋਡਰ
-d3d9video-crash-guard = D3D9 ਵੀਡੀਓ ਡੀਕੋਡਰ
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX ਵੀਡਿਓ ਡੀਕੋਡਰ
 
@@ -378,14 +333,6 @@ launcher-process-status-unknown = ਅਣਪਛਾਤੀ ਹਾਲਤ
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = ਵਰਤੋਂਕਾਰ ਵਲੋਂ ਸਮਰੱਥ ਕੀਤਾ
-multi-process-status-1 = ਮੂਲ ਰੂਪ ਵਿੱਚ ਸਮਰੱਥ ਕੀਤਾ
-multi-process-status-2 = ਅਸਮਰੱਥ ਕੀਤਾ
-multi-process-status-4 = ਅਸੈਸਬਿਲਟੀ ਟੂਲਾਂ ਵਲੋਂ ਅਸਮਰੱਥ ਕੀਤਾ
-multi-process-status-6 = ਗ਼ੈਰ-ਸਹਾਇਕ ਟੈਕਸਟ ਇਨਪੁਟ ਵਲੋਂ ਅਸਮਰੱਥ ਕੀਤਾ
-multi-process-status-7 = ਐਡ-ਆਨ ਵਲੋਂ ਅਸਮਰੱਥ ਕੀਤਾ
-multi-process-status-8 = ਧੱਕੇ ਨਾਲ ਅਸਮਰੱਥ ਕੀਤਾ
-multi-process-status-unknown = ਅਣਜਾਣ ਹਾਲਤ
 
 # Variables
 # $fissionWindows (integer) - Number of remote windows

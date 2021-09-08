@@ -38,16 +38,20 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } ਤੋਂ ਬਾਹਰ
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } ਤੋਂ ਬਾਹਰ
+
 menu-about =
     .label = { -brand-shorter-name } ਬਾਰੇ
     .accesskey = A
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = ਸੋਧੋ
     .accesskey = E
-menu-edit-find-on =
-    .label = …ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਲੱਭੋ
-    .accesskey = F
 menu-edit-find-in-page =
     .label = …ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ
     .accesskey = F
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = ਟੂਲਬਾਰ
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = …ਪਸੰਦ
-    .accesskey = C
 menu-view-customize-toolbar2 =
     .label = …ਟੂਲਬਾਰ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
     .accesskey = C
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = ਡਿਫਾਲਟ ਸਫ਼ੇ ਦਾ ਸਟਾਇਲ
     .accesskey = b
-menu-view-charset =
-    .label = ਟੈਕਸਟ ਇੰਕੋਡਿੰਗ
-    .accesskey = c
 menu-view-repair-text-encoding =
     .label = ਲਿਖਤ ਇੰਕੋਡਿੰਗ ਰਿਪੇਅਰ ਕਰੋ
     .accesskey = c
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = ਸਾਰੀਆਂ ਵਿੰਡੋ ਨੂੰ �
 menu-bookmarks-menu =
     .label = ਬੁੱਕਮਾਰਕ
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = ਸਭ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ
-menu-bookmark-this-page =
-    .label = ਇਹ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
 menu-bookmarks-manage =
     .label = ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = ਡਾਊਨਲੋਡ
     .accesskey = D
-menu-tools-addons =
-    .label = ਐਡ-ਆਨ
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = …{ -brand-product-name } ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = …{ -sync-brand-short-name } ਚਾਲੂ ਕਰੋ
-    .accesskey = n
 menu-tools-addons-and-themes =
     .label = ਐਡ-ਆਨ ਤੇ ਥੀਮ
     .accesskey = A
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = …{ -brand-product-name } ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕਰੋ
     .accesskey = R
-menu-tools-web-developer =
-    .label = ਵੈੱਬ ਡਿਵੈਲਪਰ
-    .accesskey = W
 menu-tools-browser-tools =
     .label = ਬਰਾਊਜ਼ਰ ਟੂਲ
     .accesskey = B
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = ਸਫ਼ੇ ਦੀ ਜਾਣਕਾਰੀ
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ਚੋਣਾਂ
-           *[other] ਮੇਰੀ ਪਸੰਦ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-settings =
     .label = ਸੈਟਿੰਗਾਂ
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = ਮਦਦ
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } ਮਦਦ
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } ਟੂਰ
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = …ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਦਰਾਮਦ ਕਰੋ
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
-    .accesskey = T
 menu-get-help =
     .label = ਮਦਦ ਲਵੋ
     .accesskey = H
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = …ਸੁਝਾਅ ਭੇਜੋ
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = …ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = ਐਡ-ਆਨ ਸਮਰੱਥ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
-    .accesskey = R
 menu-help-enter-troubleshoot-mode2 =
     .label = ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਢੰਗ…
     .accesskey = M

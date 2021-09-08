@@ -5,9 +5,6 @@
 places-open =
     .label = ਖੋਲ੍ਹੋ
     .accesskey = O
-places-open-tab =
-    .label = ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ
-    .accesskey = w
 places-open-in-tab =
     .label = ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ
     .accesskey = w
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = ਸਭ ਨੂੰ ਟੈਬਾਂ 'ਚ ਖੋਲ੍ਹੋ
     .accesskey = O
-places-open-window =
-    .label = ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ
-    .accesskey = N
-places-open-private-window =
-    .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ 'ਚ ਖੋਲ੍ਹੋ
-    .accesskey = P
-
-places-new-bookmark =
-    .label = …ਨਵਾਂ ਬੁੱਕਮਾਰਕ
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = …ਨਵਾਂ ਫੋਲਡਰ
-    .accesskey = F
-places-new-folder =
-    .label = …ਨਵਾਂ ਫੋਲਡਰ
-    .accesskey = o
-places-new-separator =
-    .label = ਨਵਾਂ ਵੱਖਰੇਵਾਂ
-    .accesskey = S
 
 places-open-in-window =
     .label = ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = ਨਾਂ ਨਾਲ ਲੜੀਬੱਧ
     .accesskey = r
-places-properties =
-    .label = ਵਿਸ਼ੇਸ਼ਤਾ
-    .accesskey = i
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -133,3 +108,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = ਬੁੱਕਮਾਰਕਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
     .accesskey = M
+

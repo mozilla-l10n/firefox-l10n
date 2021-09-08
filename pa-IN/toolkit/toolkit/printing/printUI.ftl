@@ -58,8 +58,6 @@ printui-options = ਚੋਣਾਂ
 printui-headers-footers-checkbox = ਸਿਰਲੇਖ ਅਤੇ ਫੁੱਟਰ ਨੂੰ ਪਰਿੰਟ ਕਰੋ
 printui-backgrounds-checkbox = ਬੈਕਗਰਾਊਂਡ ਪਰਿੰਟ ਕਰੋ
 
-printui-selection-checkbox = ਚੋਣ ਨੂੰ ਹੀ ਛਾਪੋ
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

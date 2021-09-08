@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "ਨਵਾਂ">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "ਸੁਨੇਹਾ">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "ਐਡਰੈੱਸ ਬੁੱਕ ਸੰਪਰਕ…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "ਅਟੈਚ">
 <!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "ਫਾਇਲ…">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "ਵੈੱਬ ਪੇਜ਼…">
@@ -48,8 +43,6 @@
 <!ENTITY sendLaterCmd.label "ਬਾਅਦ 'ਚ ਭੇਜੋ">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "ਪੇਜ਼ ਸੈੱਟਅੱਪ…">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "ਪਰਿੰਟ ਕਰੋ…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
@@ -164,9 +157,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "ਐਡਰੈੱਸ ਬੁੱਕ">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.key "B">
-<!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
-<!ENTITY preferencesCmdUnix.accesskey   "n"> 
+<!ENTITY addressBookCmd.key "B"> 
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -179,7 +170,6 @@
 <!ENTITY sendButton.label "ਭੇਜੋ">
 <!ENTITY quoteButton.label "ਹਵਾਲਾ">
 <!ENTITY addressButton.label "ਸੰਪਰਕ">
-<!ENTITY attachButton.label "ਅਟੈਚ">
 <!ENTITY spellingButton.label "ਸਪੈਲਿੰਗ">
 <!ENTITY saveButton.label "ਸੰਭਾਲੋ">
 
@@ -245,8 +235,6 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "ਸਭ ਚੁਣੋ">
 <!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "ਫਾਇਲਾਂ ਅਟੈਚ…">
-<!ENTITY attachFile.accesskey "F">
 <!ENTITY attachCloud.label "ਫਾਇਲ ਲਿੰਕ…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "…ਵਿੱਚ ਬਦਲੋ">

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = ਫੌਂਟ
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = ਇਸ ਲਈ ਫੌਂਟ
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = ਅਰਬੀ
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = ਅਨੁਪਾਤੀ
     .accesskey = P
+
 fonts-default-serif =
     .label = ਸੈਰਿਫ
 fonts-default-sans-serif =
     .label = ਬਿਨਾਂ ਸੈਰਿਫ
+
 fonts-proportional-size = ਆਕਾਰ
     .accesskey = z
+
 fonts-serif = ਸੈਰਿਫ਼
     .accesskey = S
+
 fonts-sans-serif = ਬਿਨਾਂ-ਸੈਰਿਫ
     .accesskey = n
+
 fonts-monospace = ਮੋਨੋਸਪੇਸ
     .accesskey = M
+
 fonts-monospace-size = ਆਕਾਰ
     .accesskey = e
+
 fonts-minsize = ਘੱਟੋ ਘੱਟ ਅੱਖਰ ਆਕਾਰ
     .accesskey = o
+
 fonts-minsize-none =
     .label = ਕੋਈ ਨਹੀਂ
+
 fonts-allow-own =
     .label = ਸਫ਼ਿਆਂ ਨੂੰ, ਉੱਪਰ ਕੀਤੀ ਤੁਹਾਡੀ ਚੋਣ ਦੀ ਬਜਾਏ ਆਪਣੇ ਖੁਦ ਦੇ ਅੱਖਰ ਚੁਣਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਉ
     .accesskey = A
@@ -102,42 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = ਪੁਰਾਤਨ ਸਮੱਗਰੀ ਲਈ ਅੱਖਰ ਇੰਕੋਡਿੰਗ
-fonts-languages-fallback-desc = ਇਹ ਅੱਖਰ ਇੰਕੋਡਿੰਗ ਨੂੰ ਪੁਰਾਤਨ ਸਮੱਗਰੀ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ, ਜੋ ਕਿ ਇੰਕੋਡਿੰਗ ਦੱਸਣ ਲਈ ਫੇਲ੍ਹ ਹੁੰਦੀ ਹੈ।
-fonts-languages-fallback-label = ਪਰਤਵੀਂ ਲਿਖਤ ਇੰਕੋਡਿੰਗ
-    .accesskey = T
-fonts-languages-fallback-name-auto =
-    .label = ਮੌਜੂਦਾ ਲੋਕੇਲ ਲਈ ਮੂਲ
-fonts-languages-fallback-name-arabic =
-    .label = ਅਰਬੀ
-fonts-languages-fallback-name-baltic =
-    .label = ਬਾਲਟਿਕ
-fonts-languages-fallback-name-ceiso =
-    .label = ਕੇਂਦਰੀ ਯੂਰਪ, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = ਕੇਂਦਰੀ ਯੂਰਪ, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = ਚੀਨੀ, ਸਰਲ
-fonts-languages-fallback-name-traditional =
-    .label = ਚੀਨੀ, ਰਵਾਇਤੀ
-fonts-languages-fallback-name-cyrillic =
-    .label = ਸਿਰਲਿਕ
-fonts-languages-fallback-name-greek =
-    .label = ਗਰੀਕ
-fonts-languages-fallback-name-hebrew =
-    .label = ਹੀਬਰੂ
-fonts-languages-fallback-name-japanese =
-    .label = ਜਪਾਨੀ
-fonts-languages-fallback-name-korean =
-    .label = ਕੋਰੀਆਈ
-fonts-languages-fallback-name-thai =
-    .label = ਥਾਈ
-fonts-languages-fallback-name-turkish =
-    .label = ਤੁਰਕ
-fonts-languages-fallback-name-vietnamese =
-    .label = ਵੀਅਤਨਾਮੀ
-fonts-languages-fallback-name-other =
-    .label = ਹੋਰ (ਪੱਛਮੀ ਯੂਰਪੀ ਸਮੇਤ)
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

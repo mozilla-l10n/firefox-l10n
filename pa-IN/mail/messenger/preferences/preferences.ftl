@@ -186,9 +186,6 @@ bigger-size-item =
 smaller-size-item =
     .label = Smaller
 
-search-input =
-    .placeholder = Search
-
 type-column-label =
     .label = Content Type
     .accesskey = T
@@ -391,16 +388,6 @@ passwords-description = { -brand-short-name } can remember passwords for all of 
 passwords-button =
     .label = Saved Passwords…
     .accesskey = S
-
-master-password-description = A Master Password protects all your passwords, but you must enter it once per session.
-
-master-password-label =
-    .label = Use a master password
-    .accesskey = U
-
-master-password-button =
-    .label = Change Master Password…
-    .accesskey = C
 
 
 junk-description = Set your default junk mail settings. Account-specific junk mail settings can be configured in Account Settings.

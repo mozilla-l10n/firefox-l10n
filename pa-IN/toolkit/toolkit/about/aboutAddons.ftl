@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = ਐਡ-ਆਨ ਮੈਨੇਜਰ
-
 addons-page-title = ਐਡ-ਆਨ ਮੈਨੇਜਰ
 
 search-header =
@@ -35,18 +32,6 @@ help-button = ਐਡ-ਆਨ ਸਹਿਯੋਗ
 sidebar-help-button-title =
     .title = ਐਡ-ਆਨ ਸਹਿਯੋਗ
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } ਚੋਣਾਂ
-       *[other] { -brand-short-name } ਪਸੰਦਾਂ
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } ਚੋਣਾਂ
-           *[other] { -brand-short-name } ਪਸੰਦਾਂ
-        }
-
 addons-settings-button = { -brand-short-name } ਸੈਟਿੰਗਾਂ
 sidebar-settings-button-title =
     .title = { -brand-short-name } ਸੈਟਿੰਗਾਂ
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = ਸਭ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਿਖਾਉ
-
-cmd-show-details =
-    .label = ਹੋਰ ਜਾਣਕਾਰੀ ਵੇਖੋ
-    .accesskey = S
-
-cmd-find-updates =
-    .label = ਅੱਪਡੇਟ ਲੱਭੋ
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ਚੋਣਾਂ
-           *[other] ਮੇਰੀ ਪਸੰਦ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = ਥੀਮ ਲਾਓ
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = ਥੀਮ ਲਾਉਣ ਤੋਂ ਰੋਕੋ
-    .accesskey = W
-
-cmd-install-addon =
-    .label = ਇੰਸਟਾਲ
-    .accesskey = I
-
-cmd-contribute =
-    .label = ਯੋਗਦਾਨ
-    .accesskey = C
-    .tooltiptext = ਇਹ ਐਡ-ਆਨ ਦੇ ਡਿਵੈਲਪਮੈਂਟ ਲਈ ਯੋਗਦਾਨ ਪਾਓ
 
 detail-version =
     .label = ਵਰਜ਼ਨ
@@ -397,8 +345,6 @@ dictionary-disabled-heading = ਅਸਮਰੱਥ ਹੈ
 
 locale-enabled-heading = ਸਮਰੱਥ ਹੈ
 locale-disabled-heading = ਅਸਮਰੱਥ ਹੈ
-
-ask-to-activate-button = ਸਰਗਰਮ ਕਰਨ ਲਈ ਪੁੱਛੋ
 
 always-activate-button = ਹਮੇਸ਼ਾ ਸਰਗਰਮ ਕਰੋ
 never-activate-button = ਕਦੇ ਸਰਗਰਮ ਨਾ ਕਰੋ
