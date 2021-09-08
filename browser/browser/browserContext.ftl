@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Ir una pachina enta zaga
-    .aria-label = Enta zaga
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Ir una pachina enta debant
-    .aria-label = Enta debant
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = Alzar a pachina como…
     .accesskey = d
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = Ubrir o vinclo en una nueva finestra privada
     .accesskey = p
 
-main-context-menu-bookmark-this-link =
-    .label = Adhibir iste vinclo a os marcapachinas
-    .accesskey = l
-
 main-context-menu-save-link =
     .label = Alzar o vinclo como…
     .accesskey = n
@@ -185,10 +156,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Copiar l'adreza de correu electronico
     .accesskey = e
-
-main-context-menu-copy-link =
-    .label = Copiar l'adreza d'o vinclo
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -213,32 +180,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Con son
     .accesskey = s
-
-main-context-menu-media-play-speed =
-    .label = Velocidat de reproducción
-    .accesskey = d
-
-main-context-menu-media-play-speed-slow =
-    .label = Aspacio (0.5×)
-    .accesskey = A
-
-main-context-menu-media-play-speed-normal =
-    .label = Normal
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = Rapido (1.25×)
-    .accesskey = R
-
-main-context-menu-media-play-speed-faster =
-    .label = Mas rapido (1.5×)
-    .accesskey = M
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Velocidat absoluta (2×)
-    .accesskey = a
 
 main-context-menu-media-loop =
     .label = Bucle
@@ -265,39 +206,13 @@ main-context-menu-media-video-leave-fullscreen =
     .label = Salir d'a pantalla completa
     .accesskey = p
 
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Video incrustau
-    .accesskey = u
-
 main-context-menu-image-reload =
     .label = Recargar a imachen
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = Veyer a imachen
-    .accesskey = i
-
-main-context-menu-video-view =
-    .label = Veyer o video
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = Copiar a imachen
     .accesskey = C
-
-main-context-menu-image-copy-location =
-    .label = Copiar l'adreza d'a imachen
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Copiar l'adreza d'o vídeo
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Copiar l'adreza de l'audio
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = Alzar a imachen como…
@@ -306,10 +221,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Ninvía la imachen por correu…
     .accesskey = a
-
-main-context-menu-image-set-as-background =
-    .label = Establir como fundo d'escritorio…
-    .accesskey = s
 
 main-context-menu-image-info =
     .label = Veyer a información d'a imachen
@@ -326,10 +237,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Alzar l'audio como…
     .accesskey = a
-
-main-context-menu-video-image-save-as =
-    .label = Alzar la captura como…
-    .accesskey = z
 
 main-context-menu-video-email =
     .label = Ninviar o video por correu…
@@ -354,14 +261,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Ninviar la pachina ta lo dispositivo
     .accesskey = d
-
-main-context-menu-view-background-image =
-    .label = Veyer a imachen de fundo
-    .accesskey = f
-
-main-context-menu-generate-new-password =
-    .label = Usar la clau generada…
-    .accesskey = g
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -426,10 +325,6 @@ main-context-menu-view-page-source =
     .label = Veyer codigo fuent d'a pachina
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = Veyer a información d'a pachina
-    .accesskey = i
-
 main-context-menu-bidi-switch-text =
     .label = Cambiar o sentiu d'o texto
     .accesskey = b
@@ -438,13 +333,10 @@ main-context-menu-bidi-switch-page =
     .label = Cambiar o sentiu d'a pachina
     .accesskey = d
 
-main-context-menu-inspect-element =
-    .label = Inspeccionar elemento
-    .accesskey = l
-
 main-context-menu-inspect-a11y-properties =
     .label = Examinar las propiedatz d'accesibilidat
 
 main-context-menu-eme-learn-more =
     .label = Amortar o proceso web
     .accesskey = A
+

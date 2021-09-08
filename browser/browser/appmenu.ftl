@@ -6,8 +6,6 @@
 ## App Menu
 
 appmenuitem-protection-dashboard-title = Taulero de proteccions
-appmenuitem-customize-mode =
-    .label = Personalizar…
 
 ## Zoom Controls
 
@@ -31,29 +29,28 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Sincronizar agora
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Amostrar-lo tot
-    .tooltiptext = Amostrar totas las pestanyas d'iste dispositivo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = No i hai garra pestanya ubierta
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Activar la sincronización de pestanyas pa veyer una lista de pestanyas dende os atros dispositivos.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Quiere veyer aquí las pestanyas d'os atros dispositivos?
+
 appmenu-remote-tabs-connectdevice =
     .label = Connectar belatro dispositivo
 appmenu-remote-tabs-welcome = Veyer una lista d'as pestanyas d'os atros dispositivos.
 appmenu-remote-tabs-unverified = Fa falta verificar lo tuyo conto.
+
 appmenuitem-save-page =
     .label = Alzar a pachina como…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novedatz
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -106,3 +103,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Chestor de quefers
+

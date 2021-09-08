@@ -6,9 +6,6 @@ password-quality-meter = Mesurador de calidat d'a clau
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Cambiar a clau mayestra
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de seguranza: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Clau nueva (unatra vegada):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Restablir a clau mayestra
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Restablir
-reset-password-text = Si restableix a suya clau mayestra, todas as claus de web y de correu electronico, os datos d'os formularios, os certificaus personals y as claves privadas almagazenaus serán ixuplidaus. Ye seguro que quiere restablir a suya clau mayestra?
 
 ## Downloading cert dialog
 

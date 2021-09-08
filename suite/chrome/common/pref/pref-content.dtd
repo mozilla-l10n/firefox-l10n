@@ -15,10 +15,10 @@
 <!ENTITY useSmoothScroll.label                  "Usar desplazamiento suau">
 <!ENTITY useSmoothScroll.accesskey              "U">
 
-<!ENTITY siteSpecific.label                     "Recordar os rans d'ampliación ta cada puesto">
-<!ENTITY siteSpecific.accesskey                 "d">
 <!ENTITY textZoomOnly.label                     "Yscalar solament o texto en cuenta d'a pachina completa">
 <!ENTITY textZoomOnly.accesskey                 "s">
+<!ENTITY siteSpecific.label                     "Recordar os rans d'ampliación ta cada puesto">
+<!ENTITY siteSpecific.accesskey                 "d">
 <!ENTITY enableAutomaticImageResizing.label     "Reajustar imachens grans a la finestra d'o navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 

@@ -112,9 +112,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Editar
     .accesskey = E
-menu-edit-find-on =
-    .label = Trobar en esta pachina…
-    .accesskey = T
 menu-edit-find-again =
     .label = Tornar a mirar
     .accesskey = o
@@ -130,9 +127,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Barras de ferramientas
     .accesskey = t
-menu-view-customize-toolbar =
-    .label = Personalizar…
-    .accesskey = P
 menu-view-sidebar =
     .label = Panel lateral
     .accesskey = e
@@ -166,9 +160,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Estilo de pachina basico
     .accesskey = b
-menu-view-charset =
-    .label = Codificación d'o texto
-    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -217,10 +208,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Marcapachinas
     .accesskey = c
-menu-bookmarks-show-all =
-    .label = Amostrar totz os marcapachinas
-menu-bookmark-this-page =
-    .label = Marcar ista pachina con marcapachinas
 menu-bookmark-edit =
     .label = Editar iste marcapachinas
 menu-bookmarks-all-tabs =
@@ -240,41 +227,18 @@ menu-tools =
 menu-tools-downloads =
     .label = Descargas
     .accesskey = D
-menu-tools-addons =
-    .label = Complementos
-    .accesskey = C
-menu-tools-fxa-sign-in =
-    .label = Iniciar sesión en { -brand-product-name }
-    .accesskey = n
-menu-tools-turn-on-sync =
-    .label = Enchegar { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-sync-now =
     .label = Sincronizar agora
     .accesskey = z
 menu-tools-fxa-re-auth =
     .label = Reconnectar a { -brand-product-name }…
     .accesskey = R
-menu-tools-web-developer =
-    .label = Desembolicador web
-    .accesskey = w
 menu-tools-page-source =
     .label = Codigo fuent d'a pachina
     .accesskey = o
 menu-tools-page-info =
     .label = Información d'a pachina
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opcions
-           *[other] Preferencias
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = Depurador de disenyo
     .accesskey = L
@@ -309,32 +273,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Aduya
     .accesskey = u
-menu-help-product =
-    .label = Aduya d'o { -brand-shorter-name }
-    .accesskey = A
-menu-help-show-tour =
-    .label = Vesita guiada por { -brand-shorter-name }
-    .accesskey = s
-menu-help-import-from-another-browser =
-    .label = Importar dende belatro navegador…
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = Alcorces de teclau
-    .accesskey = t
-menu-help-troubleshooting-info =
-    .label = Información pa solucionar problemas
-    .accesskey = f
 menu-help-report-site-issue =
     .label = Reportar un problema con o puesto…
 menu-help-feedback-page =
     .label = Ninviar una opinión…
     .accesskey = v
-menu-help-safe-mode-without-addons =
-    .label = Reiniciar con os complementos desactivaus…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = Reiniciar con os complementos activaus
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

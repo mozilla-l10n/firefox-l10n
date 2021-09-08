@@ -14,7 +14,6 @@
 <!ENTITY alwaysClear.accesskey            "w">
 
 <!ENTITY askBeforeClear.label             "Ask me before clearing private data">
-<!ENTITY askBeforeClear.accesskey         "k">
 
 <!ENTITY clearDataSettings.label          "When I ask &brandShortName; to clear my private data, it should erase:">
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):

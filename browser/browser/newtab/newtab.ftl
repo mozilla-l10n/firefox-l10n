@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Mirar
     .aria-label = Mirar
 
-newtab-search-box-search-the-web-text = Mirar en o Web
-
 newtab-search-box-search-the-web-input =
     .placeholder = Mirar en o Web
     .title = Mirar en o Web

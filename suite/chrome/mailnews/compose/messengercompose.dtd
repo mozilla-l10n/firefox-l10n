@@ -43,10 +43,6 @@
 <!ENTITY sendLaterCmd.accesskey "t">
 <!-- Edit menu items -->
 
-<!ENTITY editRewrapCmd.label "Reajuste de linia">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "j">
-
 <!ENTITY accountManagerCmd.label "Mail &amp; Newsgroups Account Settings…">
 <!ENTITY accountManagerCmd.accesskey "m">
 <!-- View menu items -->

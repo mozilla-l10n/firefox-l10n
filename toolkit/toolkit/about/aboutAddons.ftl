@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Chestor de complementos
-
 addons-page-title = Chestor de complementos
 
 search-header =
@@ -34,61 +31,11 @@ help-button = Asistencia d'os complementos
 sidebar-help-button-title =
     .title = Asistencia d'os complementos
 
-preferences =
-    { PLATFORM() ->
-        [windows] Opcions de { -brand-short-name }
-       *[other] Preferencias de { -brand-short-name }
-    }
-
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opcions de { -brand-short-name }
-           *[other] Preferencias de { -brand-short-name }
-        }
-
 show-unsigned-extensions-button =
     .label = No s'ha puesto verificar bellas extensions
 
 show-all-extensions-button =
     .label = Amostrar todas as extensions
-
-cmd-show-details =
-    .label = Amostrar mas información
-    .accesskey = A
-
-cmd-find-updates =
-    .label = Mirar actualizacions
-    .accesskey = M
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opcions
-           *[other] Preferencias
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Emplegar o tema
-    .accesskey = m
-
-cmd-disable-theme =
-    .label = Deixar d'emplegar o tema
-    .accesskey = p
-
-cmd-install-addon =
-    .label = Instalar
-    .accesskey = I
-
-cmd-contribute =
-    .label = Colaborar-ie
-    .accesskey = C
-    .tooltiptext = Colaborar en o desembolique d'iste complemento
 
 detail-version =
     .label = Versión

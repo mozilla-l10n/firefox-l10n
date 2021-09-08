@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = Marcapachinas
+
 sidebar-menu-history =
     .label = Historial
+
 sidebar-menu-synced-tabs =
     .label = Pestanyas sincronizadas
+
 sidebar-menu-close =
     .label = Zarrar la barra lateral
+
 sidebar-close-button =
     .tooltiptext = Zarrar a barra lateral

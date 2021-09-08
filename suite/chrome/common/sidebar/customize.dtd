@@ -6,11 +6,6 @@
 <!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
 
 
-<!ENTITY sidebar.customize.title.label          "Personalizar &sidebarName;">
-<!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Pestañas en &sidebarName;:">
-<!ENTITY sidebar.customize.current.accesskey    "t">
-
 <!ENTITY sidebar.customize.customize.label      "Personalizar pestanya…">
 <!ENTITY sidebar.customize.customize.accesskey  "n">
 <!ENTITY sidebar.customize.remove.label         "Eliminar">
