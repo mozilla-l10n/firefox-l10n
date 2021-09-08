@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Pokračovat
     .buttonaccesskeyaccept = P
 
-carddav-experimental-warning = Podpora složek kontaktů CardDAV je experimentální a může trvale poškodit vaše data. Jejich používání je na vlastní nebezpečí.
-
-carddav-provider-label =
-    .value = Poskytovatel CardDAV:
-    .accesskey = P
-
-carddav-provider-option-other = Další poskytovatel…
-
-carddav-url-label =
-    .value = URL adresa CardDAV:
-    .accesskey = V
-
 carddav-username-label =
     .value = Uživatelské jméno:
     .accesskey = U
-carddav-username-input =
-    .placeholder = vase-adresa@example.com
-
-carddav-password-label =
-    .value = Heslo:
-    .accesskey = H
-carddav-password-input =
-    .placeholder = Heslo
-
-carddav-remember-password =
-    .label = Pamatovat si heslo
-    .accesskey = m
 
 carddav-location-label =
     .value = Adresa:

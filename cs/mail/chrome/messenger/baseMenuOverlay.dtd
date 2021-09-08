@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "v">
 <!ENTITY aboutProduct2.label "O aplikaci &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "O">
-<!ENTITY helpTroubleshootingInfo.label     "Technické informace">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpSafeMode.label     "Restartovat se zakázanými doplňky…">
-<!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY helpSafeMode.stop.label     "Restartovat s povolenými doplňky">
-<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Nápověda aplikace &brandShortName;">
 <!ENTITY productHelp.accesskey "N">
 <!ENTITY productHelp.commandkey "VK_F1">

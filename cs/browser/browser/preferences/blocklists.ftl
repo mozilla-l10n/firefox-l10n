@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Úroveň
 
-blocklist-button-cancel =
-    .label = Zrušit
-    .accesskey = Z
-
-blocklist-button-ok =
-    .label = Uložit změny
-    .accesskey = U
-
 blocklist-dialog =
     .buttonlabelaccept = Uložit změny
     .buttonaccesskeyaccept = U

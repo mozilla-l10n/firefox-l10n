@@ -11,3 +11,4 @@ open-preferences-sidebar-button =
     }
 
 open-addons-sidebar-button = Doplňky a vzhledy
+

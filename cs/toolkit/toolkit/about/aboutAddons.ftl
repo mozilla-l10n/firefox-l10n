@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Správce doplňků
-
 addons-page-title = Správce doplňků
 
 search-header =
@@ -35,28 +32,6 @@ help-button = Nápověda
 sidebar-help-button-title =
     .title = Nápověda
 
-preferences =
-    { PLATFORM() ->
-        [windows] Možnosti
-       *[other] Předvolby
-    } { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Možnosti
-           *[other] Předvolby
-        } { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "gen") }
-            [feminine] { -brand-short-name(case: "gen") }
-            [neuter] { -brand-short-name(case: "gen") }
-           *[other] aplikace
-        }
-
 addons-settings-button =
     Nastavení { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -78,43 +53,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Zobrazit všechna rozšíření
-
-cmd-show-details =
-    .label = Zobrazit více informací
-    .accesskey = v
-
-cmd-find-updates =
-    .label = Aktualizovat
-    .accesskey = A
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Možnosti
-           *[other] Předvolby
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] M
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Použít motiv vzhledu
-    .accesskey = m
-
-cmd-disable-theme =
-    .label = Nepoužívat motiv vzhledu
-    .accesskey = m
-
-cmd-install-addon =
-    .label = Instalovat
-    .accesskey = I
-
-cmd-contribute =
-    .label = Přispět
-    .accesskey = s
-    .tooltiptext = Zobrazí informace jak přispět na vývoj doplňku
 
 detail-version =
     .label = Verze
@@ -450,8 +388,6 @@ dictionary-disabled-heading = Zakázané slovníky
 
 locale-enabled-heading = Povolené jazyky
 locale-disabled-heading = Zakázané jazyky
-
-ask-to-activate-button = Spustit na vyžádání
 
 always-activate-button = Vždy spustit
 never-activate-button = Nespouštět

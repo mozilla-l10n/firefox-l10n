@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Znaková sada textu
-    .accesskey = s
-
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -73,3 +69,6 @@ mail-uidensity-normal =
 mail-uidensity-touch =
     .label = Pro dotyk
     .accesskey = t
+
+## File
+

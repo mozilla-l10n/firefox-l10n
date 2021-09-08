@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Elektronicky podepsat zprávu">
 <!ENTITY menu_securitySign.accesskey "E">
 
-<!ENTITY menu_securityAttachMyKey.label "Přiložit můj veřejný klíč">
-<!ENTITY menu_securityAttachMyKey.accesskey "P">
-
 <!ENTITY menu_securityTech.label "Technologie šifrování">
 <!ENTITY menu_securityTech.accesskey "T">
 

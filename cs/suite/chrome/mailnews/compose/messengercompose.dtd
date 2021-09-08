@@ -48,11 +48,6 @@
 <!ENTITY sendLaterCmd.accesskey "P">
 
 <!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "Zalomit">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "i">
-
-<!-- Edit menu items -->
 <!ENTITY accountManagerCmd.label "Nastavení účtu…">
 <!ENTITY accountManagerCmd.accesskey "t">
 

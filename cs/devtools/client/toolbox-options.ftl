@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Chování snímku obrazovky
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Snímek obrazovky do schránky
-options-screenshot-clipboard-tooltip =
-    .title = Uloží snímek obrazovky přímo do schránky
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Přehrát zvuk spouště fotoaparátu
 options-screenshot-audio-tooltip =

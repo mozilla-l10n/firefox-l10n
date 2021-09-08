@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Sériové číslo
 
-fips-nonempty-password-required = Režim FIPS vyžaduje, abyste měli nastavené hlavní heslo pro každé bezpečnostní zařízení. Prosím nastavte jej před povolením režimu FIPS.
-
 fips-nonempty-primary-password-required = Režim FIPS vyžaduje, abyste měli nastavené hlavní heslo pro každé bezpečnostní zařízení. Prosím nastavte jej před povolením režimu FIPS.
 unable-to-toggle-fips = Změna režimu FIPS pro bezpečnostní zařízení se nezdařila. Doporučujeme restartovat aplikaci.
 load-pk11-module-file-picker-title = Vyberte ovladač PKCS#11 zařízení k načtení

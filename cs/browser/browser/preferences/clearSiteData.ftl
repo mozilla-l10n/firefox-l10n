@@ -57,14 +57,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Po vymazání bude potřeba znovu načíst obrázky a data z webových stránek
 
-clear-site-data-cancel =
-    .label = Zrušit
-    .accesskey = Z
-
-clear-site-data-clear =
-    .label = Vymazat
-    .accesskey = V
-
 clear-site-data-dialog =
     .buttonlabelaccept = Vymazat
     .buttonaccesskeyaccept = V

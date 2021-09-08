@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Tyto certifikáty od následujících organizací slouží k vaší osobní identifikaci
 certmgr-remembered = Tyto certifikáty slouží k vaší identifikaci na webových stránkách
 certmgr-people = Tyto certifikáty jsou dostupné pro identifikaci následujících lidí
-certmgr-servers = Tyto certifikáty jsou dostupné pro identifikaci následujících serverů
 certmgr-server = Tento seznam obsahuje výjimky pro chyby serverových certifikátů
 certmgr-ca = Tyto certifikáty jsou dostupné pro identifikaci certifikačních autorit
-
-certmgr-detail-general-tab-title =
-    .label = Obecné
-    .accesskey = O
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Podrobnosti
-    .accesskey = d
-
-certmgr-pending-label =
-    .value = Probíhá ověřování certifikátu…
-
-certmgr-subject-label = Vydáno pro
-
-certmgr-issuer-label = Vydal
-
-certmgr-period-of-validity = Doba platnosti
-
-certmgr-fingerprints = Otisky
-
-certmgr-cert-detail =
-    .title = Podrobnosti certifikátu
-    .buttonlabelaccept = Zavřít
-    .buttonaccesskeyaccept = Z
-
-certmgr-cert-detail-commonname = Obecné jméno (CN)
-
-certmgr-cert-detail-org = Organizace (O)
-
-certmgr-cert-detail-orgunit = Jednotka organizace (OU)
-
-certmgr-cert-detail-serial-number = Sériové číslo
-
-certmgr-cert-detail-sha-256-fingerprint = Otisk SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Otisk SHA1
 
 certmgr-edit-ca-cert =
     .title = Upravit nastavení důvěryhodnosti CA
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Bezpečnostní zařízení
 
-certmgr-begins-on = Vydáno dne
-
 certmgr-begins-label =
     .label = Vydáno dne
-
-certmgr-expires-on = Platný do
 
 certmgr-expires-label =
     .label = Platný do
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Importovat…
     .accesskey = m
-
-certmgr-details =
-    .value = Položky certifikátu
-    .accesskey = c
-
-certmgr-fields =
-    .value = Hodnota
-    .accesskey = n
-
-certmgr-hierarchy =
-    .value = Hierarchie certifikátů
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Přidat výjimku…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Opravdu chcete tyto certifikáty smazat?
 delete-user-cert-impact = Pokud smažete jeden ze svých vlastních certifikátů, nebudete moci dále prokazovat svoji identitu.
 
 
-delete-ssl-cert-title =
-    .title = Smazání výjimek pro certifikáty serverů
-delete-ssl-cert-confirm = Opravdu chcete smazat výjimky pro tyto servery?
-delete-ssl-cert-impact = Pokud odstraníte výjimku, obnovíte pro daný server obvyklé bezpečnostní kontroly a vyžadování platného certifikátu.
-
-
 delete-ssl-override-title =
     .title = Smazání výjimky pro certifikát serveru
 delete-ssl-override-confirm = Opravdu chcete smazat výjimku pro tento server?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Certifikát se sériovým číslem: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Prohlížeč certifikátů: „{ $certName }“
-
-not-present =
-    .value = <není součástí certifikátu>
-
-# Cert verification
-cert-verified = Tento certifikát byl ověřen pro následující použití:
-
-# Add usage
-verify-ssl-client =
-    .value = Certifikát SSL klienta
-
-verify-ssl-server =
-    .value = Certifikát SSL serveru
-
-verify-ssl-ca =
-    .value = Certifikační autorita SSL
-
-verify-email-signer =
-    .value = Certifikát pro podepsání e-mailu
-
-verify-email-recip =
-    .value = Certifikát příjemce e-mailu
-
-# Cert verification
-cert-not-verified-cert-revoked = Certifikát nemohl být ověřen, protože byl zneplatněn.
-cert-not-verified-cert-expired = Certifikát nemohl být ověřen, protože jeho platnost už vypršela.
-cert-not-verified-cert-not-trusted = Certifikát nemohl být ověřen, protože není důvěryhodný.
-cert-not-verified-issuer-not-trusted = Certifikát nemohl být ověřen, protože vydavatel není důvěryhodný.
-cert-not-verified-issuer-unknown = Certifikát nemohl být ověřen, protože jeho vydavatel není znám.
-cert-not-verified-ca-invalid = Certifikát nemohl být ověřen, protože certifikát CA je neplatný.
-cert-not-verified_algorithm-disabled = Certifikát nemohl být ověřen, protože byl podepsán algoritmem, který je z bezpečnostních důvodů zakázán.
-cert-not-verified-unknown = Certifikát nemohl být z neznámého důvodu ověřen.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Neposílat klientský certifikát

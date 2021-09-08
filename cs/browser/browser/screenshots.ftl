@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Pořídit snímek stránky
-
-screenshots-my-shots-button = Mé snímky
-
 screenshot-toolbarbutton =
     .label = Snímek obrazovky
     .tooltiptext = Pořídí snímek obrazovky
@@ -40,8 +36,6 @@ screenshots-login-error-details = Nemohli jsme uložit váš snímek, protože d
 
 screenshots-unshootable-page-error-title = Snímek této stránky nelze pořídit.
 screenshots-unshootable-page-error-details = Toto není běžná webová stránka, a proto z ní nelze pořizovat žádné snímky.
-
-screenshots-self-screenshot-error-title = Nelze pořizovat snímek stránky { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Vybraná oblast je moc malá
 

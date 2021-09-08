@@ -28,10 +28,6 @@ webrtc-sharing-browser-window =
     }.
 webrtc-sharing-screen = Sdílíte celou vaši obrazovku.
 webrtc-stop-sharing-button = Ukončit sdílení
-webrtc-microphone-button =
-    .title = Váš mikrofon je sdílen. Pro úpravu sdílení klepněte.
-webrtc-camera-button =
-    .title = Vaše kamera je sdílena. Pro úpravu sdílení klepněte.
 webrtc-microphone-unmuted =
     .title = Vypnout mikrofon
 webrtc-microphone-muted =

@@ -20,15 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Vybrat všechny panely
     .accesskey = a
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Obnovit zavřený panel
-            [one] Obnovit zavřený panel
-            [few] Obnovit zavřené panely
-           *[other] Obnovit zavřené panely
-        }
-    .accesskey = t
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -60,9 +51,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Přesunout do rozšiřující nabídky
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Automaticky skrývat
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Skrýt, pokud je prázdné
     .accesskey = p

@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Odebrat všechny servery
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Zrušit
-    .accesskey = Z
-
-permissions-button-ok =
-    .label = Uložit změny
-    .accesskey = U
-
 permission-dialog =
     .buttonlabelaccept = Uložit změny
     .buttonaccesskeyaccept = U
