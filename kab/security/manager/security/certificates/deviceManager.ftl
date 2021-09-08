@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Uṭṭun n umazrar
 
-fips-nonempty-password-required = Askar FIPS isra d aken ad tesbaduḍ awal uffir agejdan i yal ibenk n tɣellist. Ma ulac aɣilif, sbadu awal uffir agejdan send ad tremdeḍ askar FIPS.
-
 fips-nonempty-primary-password-required = Askar FIPS yesra ad tesbaduḍ awal uffir agejdan i yal ibenk n tɣellist. Ma ulac aɣilif, sbadu awal uffir send ad tremdeḍ askar FIPS.
 unable-to-toggle-fips = Asnifel n uskar FIPS i yibenk n tɣellist d awezɣi. Ihul limmer ad teffɣeḍ, sakin ad talseḍ asenker i usnas-agi.
 load-pk11-module-file-picker-title = Fren anuḍaf n ibenk PKCS#11 atsaliḍ

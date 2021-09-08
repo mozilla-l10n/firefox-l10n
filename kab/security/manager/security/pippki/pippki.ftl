@@ -6,9 +6,6 @@ password-quality-meter = Asɣel n tɣaṛa n wawal uffir
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Sbadu awal uffir agejdan
-
 change-device-password-window =
     .title = Beddel awal uffir
 
@@ -20,10 +17,6 @@ change-password-new = Awal uffir amaynut
 change-password-reenter = Sentem Awal uffir
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Ales awennez n wawal uffir agejdan
-    .style = width: 40em
 
 pippki-failed-pw-change = Ur yezmir ara ad isnifel awal uffir.
 pippki-incorrect-pw = Ur t-sekcemḍ ara awal uffir amiran ameɣtu. Ma ulac aɣilif, ɛreḍ tikelt nniḍen.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Sfeḍ
-reset-password-text = Ma tsefḍeḍ awal-ik uffir agejdan, akk awallen uffiren n web neɣ n imaylen, ifecka n tferkitin, iselkinen udmawanen, tisura tusligin ad ttwattun. Tebɣiḍ ad tekseḍ awal uffir agejdan?
 
 reset-primary-password-text = Ma tsefḍeḍ awal-ik·im uffir agejdan, akk awallen uffiren n web d wid n yimaylen, iselkinen udmawanen d tsura tusligin ad ttwattun. Tebɣiḍ s tidet ad twennzeḍ awal-ik·im uffir agejdan?
 

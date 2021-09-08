@@ -4,8 +4,10 @@
 
 import-ab-csv-window =
     .title = Kter amedlis n tansiwin seg ufaylu n uḍris
+
 #   $recordNumber (Number) - The current record number of the preview data.
 import-ab-csv-preview-record-number = Taskant n yifeska yettwaktaren i usekles n { $recordNumber }
+
 import-ab-csv-dialog =
     .buttonlabelaccept = Kter
     .buttonaccesskeyaccept = K

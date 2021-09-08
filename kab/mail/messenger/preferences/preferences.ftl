@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Mdel
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Iɣewwaṛen
-           *[other] Ismenyifen
-        }
-
 preferences-doc-title = Ismenyifen
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Anef
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
 
-addons-button = Isiɣzaf & Isental
-
 account-button = Iɣewwaṛen n umiḍan
 open-addons-sidebar-button = Izegrar d yisental
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Akken ad ternuḍ awal-inek uffir agejdan, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = Rnu awal uffir agejdan
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Akken ad ternuḍ awal-inek·inem uffir agejdan, sekcem inekcam-inek·inem n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek·inem.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Sagen…
     .accesskey = S
-
-tray-icon-label =
-    .label = Sken tignit n ufeggag n unagraw
-    .accesskey = n
 
 biff-use-system-alert =
     .label = Seqdec alɣu n unagraw
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Ini:
     .accesskey = n
-
-search-input =
-    .placeholder = Nadi
 
 search-handler-table =
     .placeholder = Sizdeg anawen d tigawin n ugbur
@@ -723,16 +698,6 @@ passwords-button =
     .label = Awalen uffiren iţwakelsen…
     .accesskey = w
 
-master-password-description = Awal uffir agejdan ad immesten akk awalen-ik uffiren, acukan issefk ad tsekcmeḍ yiwen i yal tiɣimit.
-
-master-password-label =
-    .label = Seqdec awal uffir agejdan
-    .accesskey = S
-
-master-password-button =
-    .label = Snifel awal uffir agejdan…
-    .accesskey = S
-
 
 primary-password-description = Awal uffir agejdan ad yeḥrez akk awalen-ik·im uffiren, maca yessefk ad t-teskecmeḍ yiwet tikkelt i yal tiɣimit.
 
@@ -913,26 +878,6 @@ no-preview-description = Asentel-agi mačči d ameɣtu neɣ ulac-it akka tura (a
 chat-variant-label =
     .value = Talmest:
     .accesskey = V
-
-chat-header-label =
-    .label = Sken-d aqeṛṛu
-    .accesskey = H
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 19em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Af-d deg textiṛiyin
-           *[other] Af-d deg yismenyafen
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

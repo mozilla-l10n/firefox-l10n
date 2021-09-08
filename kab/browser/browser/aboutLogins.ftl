@@ -7,17 +7,12 @@ about-logins-page-title = Inekcam & wawalen uffiren
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Awi awalen-ik/um uffiren anda teddiḍ
-login-app-promo-subtitle = Zdem asnas n baṭel { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Yella di Google Play
-login-app-promo-apple =
-    .alt = Sader si App Store
 login-filter =
     .placeholder = Nadi inekcam
+
 create-login-button = Rnu anekcum amaynut
+
 fxaccounts-sign-in-text = Kcem ɣer wawalen-ik uffiren ɣef yibenkan-nniḍen
-fxaccounts-sign-in-button = Qqen ɣer { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Kcem akken ad yemtawi
 fxaccounts-avatar-button =
     .title = Sefrek amiḍan
@@ -37,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Ismenyifen
     }
 about-logins-menu-menuitem-help = Tallalt
-menu-menuitem-android-app = { -lockwise-brand-short-name } i Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } i iPhone akked iPad
 
 ## Login List
 
@@ -68,6 +61,7 @@ about-logins-list-item-breach-icon =
     .title = Asmel i tḥuza trewla n yisefka
 about-logins-list-item-vulnerable-password-icon =
     .title = Awal uffir ur iǧhid ara
+
 about-logins-list-section-breach = Ismal i tḥuza trewla n yisefka
 about-logins-list-section-vulnerable = Awalen uffiren ur ǧhiden ara
 about-logins-list-section-nothing = Ulac alɣu
@@ -77,13 +71,9 @@ about-logins-list-section-week = 7 wussan ineggura
 
 ## Introduction screen
 
-login-intro-heading = Tettnadiḍ inekcam-ik yettwaskelsen? Swel { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out2 = Tettnadiḍ ɣef yinekcam-ik·im yettwaskelsen? Rmed amtawi neɣ kter-iten-id.
 about-logins-login-intro-heading-logged-in = Ulac inekcam yemtawin i yettwafen.
 login-intro-description = Ma teskelseḍ inekcam-ik deg { -brand-product-name } ɣef ddeqs n yibenkan, a-t-an amek ara tkecmeḍ ɣur-sen.
-login-intro-instruction-fxa = Rnu neɣ qqen ɣer { -fxaccount-brand-name } inek ɣef yibenk anida ttwaskelsen yinekcam-ik.
-login-intro-instruction-fxa-settings = Ḍmed d akken trecmeḍ inekcam-ik deg yiɣewwaṛen n { -sync-brand-short-name }.
-about-logins-intro-instruction-help = Rzu ɣer <a data-l10n-name="help-link"> tallelt n { -lockwise-brand-short-name }</a> i wugar n yisallen.
 login-intro-instructions-fxa = Rnu neɣ qqen ɣer { -fxaccount-brand-name } inek·inem ɣef yibenk anida ttwaskelsen yinekcam-ik·im.
 login-intro-instructions-fxa-settings = Ddu ɣer yiɣewwaren > Rmed amtawi… Ṛcem tibewwaḍin n yinekcam akked wawalen uffiren
 login-intro-instructions-fxa-help = Rzu ɣer <a data-l10n-name="help-link">{ -lockwise-brand-short-name } tallalt</a> i wugar n yisallen.
@@ -129,11 +119,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Akken ad tbeddleḍ anekcam
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ẓreg isem n useqdac yettwaskelsen
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Akken ad twaliḍ awal-inek uffir, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = beggen-d awal-inek uffir yettwaskelsen
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Akken ad d-tneɣleḍ awal-inek uffir, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad iεiwen deg ummesten n tɣellist n yimiḍanen-inek.
 # This message can be seen when attempting to copy a password in about:logins
@@ -142,7 +134,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = Nɣel awal-inek uffir
 
 ## Master Password notification
 
-master-password-notification-message = Ma ulac aɣilif, sekcem awal uffir agejdan akken ad twaliḍ inekcam d wawalen uffiren yettwaskelsen
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Akken ad tketreḍ inekcam-inek/inem, sekcem anekcum-inek/inem n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
 # This message can be seen when attempting to export a password in about:logins
@@ -158,42 +149,30 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Tebɣiḍ ad tkecmeḍ ɣer yinekcam-ik sekra wanida i tesseqdaceḍ { -brand-product-name } ? Ddu ɣer yiɣewwaṛen n { -sync-brand-short-name } sakin ṛcem taxxamt inekcam.
-       *[other] Tebɣiḍ ad tkecmeḍ ɣer yinekcam-ik sekra wanida i tesseqdaceḍ { -brand-product-name } ? Ddu ɣer yiɣewwaṛen n { -sync-brand-short-name } sakin ṛcem taxxamt inekcam.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Rzu ɣer yiɣewwaṛen n  { -sync-brand-short-name }
-           *[other] Rzu ɣer yismenyifen n  { -sync-brand-short-name }
-        }
-    .accesskey = C
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Ur yi-d-ssutur ara tikkelt-nniḍen
-    .accesskey = U
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Sefsex
 confirmation-dialog-dismiss-button =
     .title = Sefsex
+
 about-logins-confirm-remove-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
 about-logins-confirm-remove-dialog-confirm-button = Kkes
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Kkes
         [one] Kkes
        *[other] Kkes kullec
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ih, kkes inekcam-a
         [one] Ih, kkes inekcam-a
        *[other] Ih, kkes inekcamen-a
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Kkes anekcum { $count }?
@@ -205,6 +184,7 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Aya ad yekkes anekcum i teskelseḍ deg { -brand-short-name } akked yal alɣu ɣef trewla n yisefka ara d-ibanen da. Ur tettizmireḍ ara ad tesfesxeḍ tigawt-a.
        *[other] Aya ad yekkes inekcumen i teskelseḍ deg { -brand-short-name } akked yal alɣu ɣef trewla n yisefka ara d-ibanen da. Ur tettizmireḍ ara ad tesfesxeḍ tigawt-a.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Kkes anekcum { $count } seg meṛṛa ibenkan?
@@ -216,11 +196,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Aya ad yekkes anekcum i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akkaed { -fxaccount-brand-name }-inek·inem. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
        *[other] Aya ad yekkes inekcumen i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akkaed { -fxaccount-brand-name }-inek·inem. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
     }
+
 about-logins-confirm-export-dialog-title = Sifeḍ inekcam d wawalen uffiren
 about-logins-confirm-export-dialog-message = Awalen-inek uffiren ad ttwaskelsen am uḍris ara d-ibanen i tɣuri (d amedya, BadP@ssw0rd) akken yal amdan ara yeldin afaylu i yettusifḍen ad yizmir ad t-iwali.
 about-logins-confirm-export-dialog-confirm-button = Kter…
+
 about-logins-alert-import-title = Aktar yemmed
 about-logins-alert-import-message = Sken agzul leqqayen n uktar
+
 confirm-discard-changes-dialog-title = Sefsex isenfal-agi?
 confirm-discard-changes-dialog-message = Akk isnifal ur nettwakles ara ad ttwaksen.
 confirm-discard-changes-dialog-confirm-button = Kkes
@@ -251,6 +234,7 @@ about-logins-vulnerable-alert-learn-more-link = Issin ugar
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Anekcum i { $loginTitle } s yisem-a yella yakan.<a data-l10n-name="duplicate-link"> Ddu ɣer unekcum yellan?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Teḍra-d tuccḍa deg uɛraḍ n usekles n wawal-a uffir.
 
@@ -299,10 +283,12 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Ttwarnan inekcumen imaynuten:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Ttuleqqmen inekcumen yellan:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Ttwafen inekcumen yellan sin iberdan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
@@ -312,6 +298,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Tuccḍiwin </span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ur d-yettukter ara)</span>
     }
 about-logins-import-dialog-done = Immed
+
 about-logins-import-dialog-error-title = Tuccḍa deg uktar
 about-logins-import-dialog-error-conflicting-values-title = Aṭas n wazalen mgirradent ɣef yiwen n unekcum
 about-logins-import-dialog-error-conflicting-values-description = D amedya: aṭas n yismawen n yiseqdacen, awalen uffiren, URLs, atg. i yiwen n unekcum.
@@ -325,8 +312,10 @@ about-logins-import-dialog-error-no-logins-imported = Ulac iɣmisen i d-yettwakt
 about-logins-import-dialog-error-learn-more = Issin ugar
 about-logins-import-dialog-error-try-import-again = Ɛreḍ aktar tikkelt-nniḍen…
 about-logins-import-dialog-error-cancel = Sefsex
+
 about-logins-import-report-title = Agzul n uktar
 about-logins-import-report-description = Inekcam d wawalen uffiren ttwaketren ɣer { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

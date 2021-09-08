@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Ṭṭef agdil
-
-screenshots-my-shots-button = Tuṭṭfiwin-iw
-
 screenshot-toolbarbutton =
     .label = Agdil
     .tooltiptext = Tuṭṭfa n ugdil
@@ -40,8 +36,6 @@ screenshots-login-error-details = UR nseklas ara tuṭṭfa-ik acku yella ugur a
 
 screenshots-unshootable-page-error-title = Ur nezmir ara ad neṭṭef agdil n usebter-agi.
 screenshots-unshootable-page-error-details = Mačči d asebter Web am iyaḍ, ur tizmireḍ ara ad s-teṭṭfeḍ agdil.
-
-screenshots-self-screenshot-error-title = Ur tezmireḍ ar ad teṭṭfeḍ agdil n usebter { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Tafrant inek wezzil-t aṭas
 

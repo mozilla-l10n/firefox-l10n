@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Timeẓliyin">
 
 <!ENTITY generalInfo.label                       "Talɣut tamatut">
-<!ENTITY folderCharsetFallback2.label            "Asettengel n uḍris n ufran aneggaru:">
-<!ENTITY folderCharsetFallback2.accesskey        "t">
-<!ENTITY folderCharsetEnforce2.label             "Snes asettengel i yeznan imeṛṛa deg ukaram (iɣewwaṛe n usettengel n  yiwen n yizen akked tifin tawurmant ad ttwazeglen)">
-<!ENTITY folderCharsetEnforce2.accesskey         "n">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Bnu tikelt nniḍen amatar n ufaylu n ugzul">
 <!ENTITY folderRebuildSummaryFile2.label         "Seggem akaram">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "g">

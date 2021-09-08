@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Siggez…">
 <!ENTITY printCmd.accesskey "g">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Siggez taskant">
-<!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printSetupCmd.label "Aswel n usebter...">
-<!ENTITY printSetupCmd.accesskey "b">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Kkes izen">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "e">
 <!ENTITY compactVersion.label "Timeẓri yessden">
 <!ENTITY compactVersion.accesskey "T">
-<!ENTITY folderPaneBar.label "Afeggag n ugalis n ukaram">
-<!ENTITY folderPaneBar.accesskey "r">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Smizzwer s:">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Imedlis n tensa">
 <!ENTITY addressBookCmd.accesskey "m">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Izegrar imernan">
-<!ENTITY addons.accesskey "z">
-<!ENTITY addonPrefs.label "Iγewwaṛen n uzegrir">
-<!ENTITY addonPrefs.accesskey "U">
-<!ENTITY addonPrefsUnix.label "Ismenyifen n uzegrir">
-<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Ulac iγewwaṛen n izegrar ittwafen.">
 <!ENTITY activitymanager.label "Amsefrak n urmud">
 <!ENTITY activitymanager.accesskey "r">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Izegrar n tseɣtit">
 <!ENTITY debugAddonsCmd.accesskey "A">
-<!ENTITY tabsDebugCmd.label "Tamseɣtayt n ukatar n ugbur">
-<!ENTITY tabsDebugCmd.accesskey "b">
 <!ENTITY errorConsoleCmd.label "Tadiwent n tuccḍa">
 <!ENTITY errorConsoleCmd.accesskey "d">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "ɣer deffir">
 <!ENTITY goForwardButton1.label "Ɣer zdat">
 <!ENTITY deleteItem.title "Kkes">
-<!ENTITY deleteButton.label "Kkes">
-<!ENTITY undeleteButton.label "Sefsex tukksa">
 <!ENTITY markButton.label "Cṛeḍ">
 <!ENTITY printButton.label "Siggez">
 <!ENTITY stopButton.label "Rken">
 <!ENTITY throbberItem.title "anamal n wermud">
 <!ENTITY junkItem.title "Aspam">
-<!ENTITY junkButton.label "Aspam">
-<!ENTITY notJunkButton.label "Mačči d aspam">
 <!ENTITY addressBookButton.label "Imedlis n tensa">
 <!ENTITY chatButton.label "Adiwenni usrid">
 <!ENTITY glodaSearch.title "Anadi amatu">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Senkez ɣeṛ yizen azewwar">
 <!ENTITY goForwardButton.tooltip "Ddu ɣeṛ zdat s yiwen n yizen">
 <!ENTITY goBackButton.tooltip "Uɣal ɣeṛ deffir s yiwen n yizen">
-<!ENTITY deleteButton.tooltip "Kkes izen neɣ akaram ifernen">
-<!ENTITY undeleteButton.tooltip "Sefsex tukksa n yizen ifernen">
 <!ENTITY markButton.tooltip "Cṛeḍ iznan">
 <!ENTITY printButton.tooltip "Siggez izen-agi">
 <!ENTITY stopButton.tooltip "Seḥbes asiweḍ amiran">
-<!ENTITY junkButton.tooltip "Creḍ iznan yettwafernen am uspam">
-<!ENTITY notJunkButton.tooltip "Creḍ iznan yettwafernen mačči d aspam">
 <!ENTITY addressBookButton.tooltip "Ddu ɣeṛ imedlis n tensa">
 <!ENTITY chatButton.tooltip "Sken iccer n udiwenni usrid">
 <!ENTITY tagButton.tooltip "Rnu tabzimt i yiznan">
 <!ENTITY compactButton.tooltip "Kkes iznan ittwaksen seg ukaram ifernen">
 <!ENTITY appmenuButton1.tooltip "Sken umuɣ n &brandShortName;">
-<!ENTITY addonsButton.tooltip "Sefrek izegrar-ik">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Welleḥ deg umnaḍ">

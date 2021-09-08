@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Kkes akk ismal
     .accesskey = k
 
-translation-button-close =
-    .label = Mdel
-    .accesskey = M
-
 translation-dialog =
     .buttonlabelaccept = Mdel
     .buttonaccesskeyaccept = M

@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Asettengel n uḍris i ugbur aqbuṛ
-fonts-languages-fallback-desc = Asettengel-a n uḍris ittuseqdec i ugbur aqbuṛ ur d-nettammal ara asettengel-ines.
-
-fonts-languages-fallback-label = Asettengel n uḍris n ufran aneggaru
-    .accesskey = M
-
-fonts-languages-fallback-name-auto =
-    .label = Azal amezwer i tutlayt tadigant
-fonts-languages-fallback-name-arabic =
-    .label = Taɛrabt
-fonts-languages-fallback-name-baltic =
-    .label = Tabalṭikt
-fonts-languages-fallback-name-ceiso =
-    .label = Uṛup alemmas, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Uṛup alemmas, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Tacinit, taḥerfit
-fonts-languages-fallback-name-traditional =
-    .label = Tacinit, tamensayt
-fonts-languages-fallback-name-cyrillic =
-    .label = Tasirilikt
-fonts-languages-fallback-name-greek =
-    .label = Tagrigit
-fonts-languages-fallback-name-hebrew =
-    .label = Taɛebranit
-fonts-languages-fallback-name-japanese =
-    .label = Tajapunit
-fonts-languages-fallback-name-korean =
-    .label = Takurit
-fonts-languages-fallback-name-thai =
-    .label = Taṭaylant
-fonts-languages-fallback-name-turkish =
-    .label = Taṭurkit
-fonts-languages-fallback-name-vietnamese =
-    .label = Tavyiṭnamit
-fonts-languages-fallback-name-other =
-    .label = Ayen-nniḍen (Yedda Uṛup n umalu)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

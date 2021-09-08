@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Ad yisru ismal web akken ad id-isali tugniwin akked isefka
 
-clear-site-data-cancel =
-    .label = Sefsex
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Sfeḍ
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = Sfeḍ
     .buttonaccesskeyaccept = l

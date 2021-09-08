@@ -66,11 +66,6 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = Tikli n tuṭṭfa n ugdil
 
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Si tuṭṭfa n ugdil ɣer "ɣef afus"
-options-screenshot-clipboard-tooltip =
-    .title = Ad isekles tuṭṭfa n ugdil s srid ɣer "ɣef afus"
-
-# Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Seg tuṭṭfa n ugdil ɣer ɣef wafus kan
 options-screenshot-clipboard-tooltip2 =
     .title = Isseklas tuṭṭfa n ugdil srid ɣer ɣefwafus

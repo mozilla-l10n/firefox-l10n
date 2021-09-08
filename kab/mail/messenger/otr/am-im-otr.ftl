@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = Iɣewwaren OTR
 otr-log =
     .label = Rnu iznan iwgelhnen OTR deg yiɣmisen n udiwenni
-otr-requireEncryption =
-    .label = Creḍ awgelhen seg yixef ɣer yixef i yidiwenniyen gar sin
-otr-verifyNudge =
-    .label = Smektay-iyi-d yal tikkelt ɣef usenqed n unermas ur nettwasenqed ara
-
-otr-notYetAvailable = Ulac akka tura
 
 otr-require-encryption =
     .label = Creḍ awgelhen seg yixef ɣer yixef i yidiwenniyen gar sin

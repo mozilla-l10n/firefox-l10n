@@ -65,8 +65,6 @@ policy-DisableForgetButton = Sewḥel anekcum ɣer tqeffalt n usfaḍ n isefka.
 
 policy-DisableFormHistory = Ur ḥerrez ara azray n unadi d tferkit.
 
-policy-DisableMasterPasswordCreation = Ma irmed, awal uffir agejdan ur yezmir ara ad yettwarnu.
-
 policy-DisablePrimaryPasswordCreation = Ma ayagi d tidet, awal uffir agejdan ur yezmir ara ad yettwarnu.
 
 policy-DisablePasswordReveal = Ur ttaǧǧa ara awalen uffiren ad d-banen deg yinekcam yettwaskelsen.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Uɣal ɣer tikli taqdi
 policy-LocalFileLinks = Sireg ismal usdiden i useqdec n yiseɣqan ɣer yifuyla idiganen.
 
 policy-ManagedBookmarks = Swel tabdart n tecraḍ n yisebtar yettusefraken sɣur anedbal ur nezmir ara ad ttusneflen sɣur aseqdac.
-
-policy-MasterPassword = Creḍ neɣ sewḥel aseqdec n wawal uffir agejdan.
 
 policy-ManualAppUpdateOnly = Mudd kan tisirag i yileqman s ufus, ur ttalɣu ara aseqdac ɣef yileqman.
 

@@ -10,9 +10,6 @@ third-party-intro =
     { -brand-short-name } inek·inem. Yal azegrir ur nettuzmel ara sɣur Microsoft neɣ
     { -vendor-short-name } yettuneḥsab d azegrir n wis kraḍ.
 
-third-party-header-module-list = Tabdart n yizegrar
-third-party-header-loading-events = Asali n tedyanin
-
 third-party-message-empty = Ulac izegrar n wis kraḍ ttwafen.
 third-party-message-no-duration = Ur yettwasekles ara
 

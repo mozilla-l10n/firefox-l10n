@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Sekles asebter di...">
 <!ENTITY savePageCmd.accesskey "B">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Tarusi n isebtar…">
-<!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Taskant send asiggez">
-<!ENTITY printPreviewCmd.accesskey "k">
 <!ENTITY printCmd.label "Siggez…">
 <!ENTITY printCmd.accesskey "G">
 <!ENTITY printCmd.commandkey "G">

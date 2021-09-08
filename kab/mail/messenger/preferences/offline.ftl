@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Ḍfeṛ s wudem awurman addad s srid i yettwafen
     .accesskey = d
 
-startup-label = Addad s ufus di tnekra:
-
 offline-preference-startup-label = Addad s ufus di tnekra:
 
 status-radio-remember =

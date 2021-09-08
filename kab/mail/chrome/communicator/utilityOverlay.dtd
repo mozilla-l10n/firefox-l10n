@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "E">
 <!ENTITY deleteCmd.label          "Kkes">
 <!ENTITY deleteCmd.accesskey        "K">
-<!ENTITY preferencesCmd2.label "Iɣewwaṛen">
-<!ENTITY preferencesCmd2.accesskey "w">
-<!ENTITY preferencesCmdUnix.label       "Ismenyifen">
-<!ENTITY preferencesCmdUnix.accesskey     "s">
 
 <!ENTITY customizeCmd.label "Sagen">
 <!ENTITY customizeCmd.accesskey "t">

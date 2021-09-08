@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Rnu amagbar-nniḍen
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Ismenyifen n umagbar { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Tignit
 containers-color-label = Initen
     .accesskey = w
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Immed
-    .accesskey = m
 
 containers-dialog =
     .buttonlabelaccept = Immed

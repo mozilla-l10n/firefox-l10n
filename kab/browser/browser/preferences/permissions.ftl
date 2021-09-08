@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Kkes akk ismal web
     .accesskey = w
 
-permissions-button-cancel =
-    .label = Sefsex
-    .accesskey = S
-
-permissions-button-ok =
-    .label = Sekles asnifel
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Sekles asnifel
     .buttonaccesskeyaccept = S

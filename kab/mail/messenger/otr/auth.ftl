@@ -19,9 +19,6 @@ auth-your-fp-value = Adsil umḍin i kečč/kemm, { $own_name }:
 auth-their-fp-value = Adsil umḍin i { $their_name }:
 
 auth-help = Asenqed n timagit n unermas yettεawan ad tḍemneḍ adiwenni ad yili s tidet d uslig, ayen i isiwεiṛen i wis tlata ad yeḍfer neɣ ad yesxuntec adiwenni.
-auth-helpTitle = Tallalt n usenqed
-
-auth-questionReceived = D wagi i d asteqsi i d-yettunefken sɣur anermis-inek(inem):
 
 auth-help-title = Tallalt n usenqed
 
@@ -34,21 +31,6 @@ auth-no =
     .label = Uhu
 
 auth-verified = Sneqdeɣ akken iwata belli wagi d udsil umḍin ameɣtu.
-
-auth-manualVerification = Asenqed s ufus n udsil umḍin
-auth-questionAndAnswer = Asteqsi d tririt
-auth-sharedSecret = Tabaḍnit tettwabḍa
-
-auth-manualVerification-label =
-    .label = { auth-manualVerification }
-
-auth-questionAndAnswer-label =
-    .label = { auth-questionAndAnswer }
-
-auth-sharedSecret-label =
-    .label = { auth-sharedSecret }
-
-auth-manualInstruction = Nermes bab n udiwenni i d-teɛniḍ seg ubadu-nniḍen yettussetben  am yiznan yettuzemlen OpenPGP neɣ am tilifun. Ilaq ad temyinim idsilen-nwen umḍinen. (Adsil umḍin d taqrumma n yisenqaden i d-yebadun tasarut n uwgelhen.) Ma yella adsil umḍin yemṣada, ilaq-ak·am ad tesbegneḍ deg udiwenni ddaw, tesneqdeḍ adsil umḍin.
 
 auth-manual-verification = Asenqed s ufus n udsil umḍin
 auth-question-and-answer = Asteqsi d tririt
@@ -66,8 +48,6 @@ auth-shared-secret-label =
 auth-manual-instruction = Nermes bab n udiwenni i d-teɛniḍ seg ubadu-nniḍen yettussetben  am yiznan yettuzemlen OpenPGP neɣ am tilifun. Ilaq ad temyinim idsilen-nwen umḍinen. (Adsil umḍin d taqrumma n yisenqaden i d-yebadun tasarut n uwgelhen.) Ma yella adsil umḍin yemṣada, ilaq-ak·am ad tesbegneḍ deg udiwenni ddaw, tesneqdeḍ adsil umḍin.
 
 auth-how = Amek i tebɣiḍ ad tesneqdeḍ timagit n unermas-inek/inem?
-
-auth-qaInstruction = Xemmem ɣer usteqsi iwumi tiririt ad tt-yissin kan unermas-ik/im d kečč/kemm. Sekcem asteqsi d tririt-i, syen ṛǧu anermas-ik/im ad isekcem tiririt. Ma yella tiririyin ur mṣadant ara, yezmer lḥal abadu n teywalt i tseqdaceḍ ha-t-an yettuεass.
 
 auth-qa-instruction = Xemmem ɣer usteqsi iwumi tiririt ad tt-yissin kan unermas-ik/im d kečč/kemm. Sekcem asteqsi d tririt-i, syen ṛǧu anermas-ik/im ad isekcem tiririt. Ma yella tiririyin ur mṣadant ara, yezmer lḥal abadu n teywalt i tseqdaceḍ ha-t-an yettuεass.
 

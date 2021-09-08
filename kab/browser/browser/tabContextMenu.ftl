@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Iccer n tecraḍ n yisebtar
     .accesskey = C
-reopen-in-container =
-    .label = Ldi-d tikelt-nneḍen amagbar
-    .accesskey = d
 tab-context-open-in-new-container-tab =
     .label = Ldi deg yiccer n umagbar amaynut
     .accesskey = i
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Mdel aṭas n waccaren
     .accesskey = M
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Sefsex amdal n yiccer
-            [one] Sefsex amdal n yiccer
-           *[other] Sefsex amdal n waccaren
-        }
-    .accesskey = U
-close-tab =
-    .label = Mdel iccer
-    .accesskey = M
-close-tabs =
-    .label = Mdel Iccaren
-    .accesskey = M
-move-tabs =
-    .label = Senkez iccaren
-    .accesskey = n
-move-tab =
-    .label = Senkez iccer
-    .accesskey = n
 tab-context-share-url =
     .label = Bḍu
     .accesskey = B
@@ -130,6 +107,7 @@ tab-context-move-tabs =
            *[other] Senkez iccaren
         }
     .accesskey = S
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

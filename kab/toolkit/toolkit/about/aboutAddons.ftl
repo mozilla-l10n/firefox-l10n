@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Ldi amsefrak n izegrar
-
 addons-page-title = Ldi amsefrak n izegrar
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Tallelt izegrar
 sidebar-help-button-title =
     .title = Tallelt izegrar
 
-preferences =
-    { PLATFORM() ->
-        [windows] Iɣewwaren n { -brand-short-name }
-       *[other] Ismenyifen n { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Iɣewwaren n { -brand-short-name }
-           *[other] Ismenyifen n { -brand-short-name }
-        }
-
 addons-settings-button = Iɣewwaren n { -brand-short-name }
 sidebar-settings-button-title =
     .title = Iɣewwaren n { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Sken akk iseɣzaf
-
-cmd-show-details =
-    .label = Sken ugar n telɣut
-    .accesskey = S
-
-cmd-find-updates =
-    .label = Nadi ileqman
-    .accesskey = N
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Iγewwaṛen
-           *[other] Ismenyifen
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] I
-        }
-
-cmd-enable-theme =
-    .label = Snes asentel
-    .accesskey = S
-
-cmd-disable-theme =
-    .label = Kkes asentel
-    .accesskey = K
-
-cmd-install-addon =
-    .label = Sebded
-    .accesskey = S
-
-cmd-contribute =
-    .label = Ţekki
-    .accesskey = k
-    .tooltiptext = Ţekki di tneflit n uzegrir
 
 detail-version =
     .label = Lqem
@@ -396,8 +344,6 @@ dictionary-disabled-heading = Arurmid
 
 locale-enabled-heading = Irmed
 locale-disabled-heading = Arurmid
-
-ask-to-activate-button = Suter armed
 
 always-activate-button = Rmed yal tikelt
 never-activate-button = weṛǧin ad yermed

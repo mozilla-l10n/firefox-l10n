@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = Ismenyifen n { -brand-short-name }
 
 open-addons-sidebar-button = Izegrar d yisental
+

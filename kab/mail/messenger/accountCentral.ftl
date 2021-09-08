@@ -51,9 +51,6 @@ about-paragraph =
     Thunderbird d amsaɣ agejdan n uɣbalu yeldin d anagraw  
     usgit n yimayl d uwitay. Nebɣa ad yeqqim d aɣelsan daɣen ad igerrez ugar. Tawsa ad aɣ-tɛawen akken ad nessexdem isneflayen, ad nxelleṣ tamṣukt tanaddawt, ad nernu ad nennerni.
 
-about-paragraph-2 = <b> Thunderbird yemmug-d sɣur imseqdacen am kečč! Ma tḥemleḍ Thunderbird, ttxil xemmem ad d-tmuddeḍ tawsa. </b> Abrid yufraren iwakken ad tḍemneḍ tilin n Thunderbird d
-about-donation = Mudd tawsa
-
 about-paragraph-consider-donation = <b>Thunderbird bnan-t iseqdacen am kečč! Ma tḥemleḍ Thunderbird, ma ulac aɣilif wali ma tzemreḍ ad muddeḍ tawsa. </b>Abrid ifazen akken ad yili Thunderbird d imezgi d <a data-l10n-name="donation-link"> amuddu n tawsa.</a>
 
 explore-link = Snirem timahilin

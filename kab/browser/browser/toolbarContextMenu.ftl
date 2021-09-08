@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Fren akk accaren
     .accesskey = F
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Sefsex amdal n yiccer
-            [one] Sefsex amdal n yiccer
-           *[other] Sefsex amdal n waccaren
-        }
-    .accesskey = U
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Senṭeḍ deg wumuɣ n tfuli
     .accesskey = R
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Tufra twurmant deg ufeggag n ifecka
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Ffer taqeffalt mi ara yili d ilem
     .accesskey = F

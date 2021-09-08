@@ -5,6 +5,7 @@
 compact-dialog-window =
     .title = Ssed ikaramen
     .style = width: 50em;
+
 compact-dialog =
     .buttonlabelaccept = Ssed tura
     .buttonaccesskeyaccept = S
@@ -12,6 +13,8 @@ compact-dialog =
     .buttonaccesskeycancel = S
     .buttonlabelextra1 = Issin ugar…
     .buttonaccesskeyextra1 = I
+
 compact-dialog-never-ask-checkbox =
     .label = Ssed ikaramen s wudem awurman sya ɣer sdat
     .accesskey = a
+

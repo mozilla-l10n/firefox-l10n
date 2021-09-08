@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Amaynut">
 <!ENTITY newMenu.accesskey "m">
 <!ENTITY newMessage.label "Izen">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "I">
 <!ENTITY newContact.label "Anermis n imedlis n tensa…">
 <!ENTITY newContact.accesskey "n">
 <!ENTITY attachMenu.label "Rnu taceqquf">
 <!ENTITY attachMenu.accesskey "q">
-<!ENTITY attachFileCmd.label "Afaylu(i-a)…">
-<!ENTITY attachFileCmd.accesskey "A">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Aseɣwen n ufaylu">
 <!ENTITY attachCloudCmd.accesskey "f">
 <!ENTITY attachPageCmd.label "Asebter web…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Azen ticki">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "c">
-<!ENTITY printSetupCmd.label "Asbadu n usebter…">
-<!ENTITY printSetupCmd.accesskey "b">
-<!ENTITY printPreviewCmd.label "Wali send asiggez">
-<!ENTITY printPreviewCmd.accesskey "g">
 <!ENTITY printCmd.label "Siggez…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "S">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Ales asmizzwer n ifuyla yeddan…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Agalis n yifuyla yeddan">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "f">
 <!ENTITY selectAllCmd.accesskey "I">
 <!ENTITY findBarCmd.label "Nadi…">
 <!ENTITY findBarCmd.accesskey "N">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Smizwer imeddayen">
-<!ENTITY moveAttachmentTopPanelBtn.label "Senkez s afella">
-<!ENTITY moveAttachmentUpPanelBtn.label "Ali">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Senkez akk">
-<!ENTITY moveAttachmentDownPanelBtn.label "Ader">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Senkez s adda">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Amiḍan d iɣewwaṛen">
 <!ENTITY accountManagerCmd2.accesskey "w">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
-<!ENTITY preferencesCmd2.label "Iɣewwaṛen">
-<!ENTITY preferencesCmd2.accesskey "w">
-<!ENTITY preferencesCmdUnix.label "Ismenyifen">
-<!ENTITY preferencesCmdUnix.accesskey "s">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Azen">
 <!ENTITY quoteButton.label "Amur">
 <!ENTITY addressButton.label "Inermisen">
-<!ENTITY attachButton.label "Seddu afaylu">
 <!ENTITY spellingButton.label "Taɣdira">
 <!ENTITY saveButton.label "Kles">
 <!ENTITY printButton.label "Siggez">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Azen izen-agi ticki">
 <!ENTITY quoteButton.tooltip "Bder-d izen yezrin">
 <!ENTITY addressButton.tooltip "Fren aɣerwaḍ seg imedlis n tensa">
-<!ENTITY attachButton.tooltip2 "Rnu afaylu">
 <!ENTITY spellingButton.tooltip "Seɣti taɣdira n ufran neɣ izen imeṛṛa">
 <!ENTITY saveButton.tooltip "Sekles izen-agi">
 <!ENTITY cutButton.tooltip              "Gzem">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Anawen-nniḍen n wurtan n tansiwin">
 <!ENTITY fromAddr2.label "Seg">
 <!ENTITY fromAddr.accesskey "S">
-<!ENTITY toAddr2.label "I">
-<!ENTITY ccAddr2.label "Anɣ.I">
-<!ENTITY bccAddr2.label "Anɣ.Uff.I">
 <!ENTITY replyAddr2.label "Err-i">
 <!ENTITY newsgroupsAddr2.label "Agraw n yisallen">
 <!ENTITY followupAddr2.label "Seḍfer-I">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "d">
 <!ENTITY selectAll.label "Fren Imaṛṛa">
 <!ENTITY selectAll.accesskey "I">
-<!ENTITY attachFile.label "Seddu afaylu (i-a)…">
-<!ENTITY attachFile.accesskey "F">
 <!ENTITY attachCloud.label "Aseɣwen n ufaylu…">
 <!ENTITY attachCloud.accesskey "f">
 <!ENTITY convertCloud.label "Selket ɣer…">

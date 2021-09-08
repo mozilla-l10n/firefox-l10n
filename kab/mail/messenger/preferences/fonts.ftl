@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Sans-serif
 
-font-size-label =
-    .value = Teɣzi:
-    .accesskey = e
-
 font-size-proportional-label =
     .value = Teɣzi:
     .accesskey = e

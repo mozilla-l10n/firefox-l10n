@@ -14,9 +14,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Ffeɣ seg uskar n ugdil ačuran">
 <!ENTITY castingButton.castingLabel "Zuzer ɣef ugdil">
 <!ENTITY closedCaption.off "Yensa">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Tigri n ubleɣ">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->

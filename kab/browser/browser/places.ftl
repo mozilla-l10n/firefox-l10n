@@ -5,9 +5,6 @@
 places-open =
     .label = Ldi
     .accesskey = L
-places-open-tab =
-    .label = Ldi ɣef iccer amaynut
-    .accesskey = c
 places-open-in-tab =
     .label = Ldi ɣef yiccer amaynut
     .accesskey = y
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Ldi merra ɣef yIccaren
     .accesskey = m
-places-open-window =
-    .label = Ldi deg usfaylu amaynut
-    .accesskey = y
-places-open-private-window =
-    .label = Ldi ɣef usfaylu uslig amaynut
-    .accesskey = L
-
-places-new-bookmark =
-    .label = Tacreṭ n uqebtar tamaynut…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = Akaram Amaynut...
-    .accesskey = F
-places-new-folder =
-    .label = Akaram Amaynut...
-    .accesskey = m
-places-new-separator =
-    .label = Anabraz amaynut
-    .accesskey = b
 
 places-open-in-window =
     .label = Ldi deg usfaylu amaynut
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Smizzwer s yisem
     .accesskey = r
-places-properties =
-    .label = Taɣaṛa
-    .accesskey = ṛ
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -135,3 +110,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Sefrek ticraḍ n yisebtar
     .accesskey = S
+

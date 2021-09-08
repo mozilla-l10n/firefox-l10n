@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Tabdart
 
-blocklist-button-cancel =
-    .label = Sefsex
-    .accesskey = S
-
-blocklist-button-ok =
-    .label = Sekles asnifel
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Sekles asnifel
     .buttonaccesskeyaccept = S

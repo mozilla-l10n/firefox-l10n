@@ -9,8 +9,6 @@
 
 process-type-web = Agbur Web
 
-process-type-browser = Agejdan
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Asebter Ɣef yezwer

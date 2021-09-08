@@ -58,8 +58,6 @@ printui-options = Iɣewwaren
 printui-headers-footers-checkbox = Siggez iqerra d yiḍarren n usebter
 printui-backgrounds-checkbox = Siggez agilal
 
-printui-selection-checkbox = Siggez kan tafrant
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

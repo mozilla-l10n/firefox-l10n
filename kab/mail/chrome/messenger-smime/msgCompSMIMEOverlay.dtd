@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Zmel s wudem umḍin izen-agi">
 <!ENTITY menu_securitySign.accesskey "z">
 
-<!ENTITY menu_securityAttachMyKey.label "Seddu tasarut-iw tazayazt">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "Tatiknulujit n uwgelhen">
 <!ENTITY menu_securityTech.accesskey "T">
 

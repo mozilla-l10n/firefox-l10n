@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "l">
 <!ENTITY aboutProduct2.label "Ɣef &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "A">
-<!ENTITY helpTroubleshootingInfo.label     "Talɣut n usellek">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpSafeMode.label     "Senker tikelt nniḍen s izegrar arurmiden…">
-<!ENTITY helpSafeMode.accesskey "S">
-<!ENTITY helpSafeMode.stop.label     "Ales asenker s yizegrar urmiden">
-<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "&brandShortName; Tallalt">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">

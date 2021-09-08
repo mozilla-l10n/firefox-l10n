@@ -38,7 +38,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Teɣzi n tkatut n uḥraz:
+
 perftools-custom-threads-label = Rnu asqerdec udmawan s yisem:
+
 perftools-devtools-interval-label = Azilal:
 perftools-devtools-threads-label = Asqerdec:
 perftools-devtools-settings-label = Iɣewwaṛen
@@ -97,5 +99,6 @@ perftools-record-all-registered-threads = Zgel afranen-a nnig, teskelseḍ akk i
 ## preferences are true.
 
 perftools-onboarding-message = <b>Amaynut</b>: { -profiler-brand-name } yettwasleɣ tura deg yifecka n tneflit. <a>Issin ugar</a> qef ufecku-a amaynut yelhan.
+
 perftools-onboarding-close-button =
     .aria-label = Mdel izen n uslaɣ
