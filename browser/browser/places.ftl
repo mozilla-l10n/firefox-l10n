@@ -5,31 +5,9 @@
 places-open =
     .label = खोल्नुहोस्
     .accesskey = O
-places-open-tab =
-    .label = नयाँ ट्याबमा खोल्नुहोस्
-    .accesskey = w
 places-open-all-in-tabs =
     .label = सबैलाई ट्याबहरूमा खोल्नुहोस्
     .accesskey = O
-places-open-window =
-    .label = लिङ्कलाई नयाँ सञ्झ्यालमा खोल्नुहोस्
-    .accesskey = N
-places-open-private-window =
-    .label = लिङ्कलाई नयाँ निजी सञ्झ्यालमा खोल्नुहोस्
-    .accesskey = P
-
-places-new-bookmark =
-    .label = नयाँ पुस्तकचिनो…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = नयाँ फोल्डर…
-    .accesskey = F
-places-new-folder =
-    .label = नयाँ फोल्डर…
-    .accesskey = o
-places-new-separator =
-    .label = नयाँ विभाजक
-    .accesskey = S
 
 places-view =
     .label = दृश्य
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = नाम अनुसार क्रमबद्ध गर्नुहोस्
     .accesskey = r
-places-properties =
-    .label = गुणहरू
-    .accesskey = i
 

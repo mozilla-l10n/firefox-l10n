@@ -7,28 +7,6 @@ do-not-track-learn-more = अझै जान्नुहोस्
 do-not-track-option-always =
     .label = सधैँ
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] विकल्पहरू
-       *[other] प्राथमिकताहरू
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] विकल्पहरू मा फेला पार्नुहोस्
-           *[other] प्राथमिकताहरू मा फेला पार्नुहोस्
-        }
-
 pane-general-title = सामान्य
 category-general =
     .tooltiptext = { pane-general-title }
@@ -72,14 +50,6 @@ restart-later = केहि समयपछि पुनःसुरु गर�
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = यो एक्सटेन्सन, <img data-l10n-name="icon"/> { $name }, ले तपाईंको गृहपृष्ठ नियन्त्रण गरिरहेको छ।
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = यो एक्सटेन्सन, <img data-l10n-name="icon"/> { $name }, ले तपाईंको नयाँ ट्याब पेज नियन्त्रण गरिरहेको छ।
-
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = यो एक्सटेन्सन, <img data-l10n-name="icon"/> { $name } , लाई कन्टेनर ट्याबहरू चाहिन्छ ।
@@ -88,26 +58,11 @@ extension-controlled-privacy-containers = यो एक्सटेन्सन,
 
 search-results-header = खोजी परिणामहरू
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] माफ गर्नुहोस्! त्यहाँ “<span data-l10n-name="query"></span>” को लागि विकल्पहरूमा नतिजा छैन ।
-       *[other] माफ गर्नुहोस्! त्यहाँ “<span data-l10n-name="query"></span>” को लागि प्राथमिकताहरूमा नतिजा छैन ।
-    }
-
 search-results-help-link = सहयोग चाहियो? <a data-l10n-name="url">{ -brand-short-name } सहयोग</a> भ्रमण गर्नुहोस्
 
 ## General Section
 
 startup-header = सुरुवात
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = { -brand-short-name } र Firefox एकै समयमा चलाउन अनुमति दिनुहोस्
-use-firefox-sync = सुझाव: यसले अलग प्रोफाइल प्रयोग गर्दछ। तिनीहरू बीच डाटा साझेदारी गर्न { -sync-brand-short-name } प्रयोग गर्नुहोस्।
-get-started-not-logged-in = { -sync-brand-short-name }मा साइन इन गर्नुहोस्…
-get-started-configured = { -sync-brand-short-name } को प्राथमिकताहरू खोल्नुहोस्
 
 always-check-default =
     .label = सधैं { -brand-short-name } आफ्नो पूर्वनिर्धारित ब्राउजर हो भन्ने बारे जाँच गर्नुहोस्
@@ -140,10 +95,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = धेरै ट्याबहरू खोल्दा { -brand-short-name } ढिलो हुन सक्छ भने तपाईँलाई चेतावनी दिनुहोस्
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = जब तपाईँ नयाँ ट्याबमा लिङ्क खोल्नुहुन्छ, तुरुन्तै स्विच गर्नुहोस्
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = सञ्झ्याल कार्यपट्टीमा ट्याबको पूर्वावलोकनहरू देखाउनुहोस्
@@ -295,11 +246,6 @@ applications-manage-app =
     .label = एप्लिकेसन विवरणहरू
 applications-always-ask =
     .label = सधै सोध्नुहोस्
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -546,8 +492,6 @@ search-show-suggestions-url-bar-option =
 
 search-suggestions-cant-show = खोज इतिहास कहिले पनि लोकेसन बारमा देखिदैन किनभने { -brand-short-name } लाई कहिले पनि इतिहास नसम्झनेमा सेट गर्नुभएको छ ।
 
-search-one-click-header = एक-क्लिक खोज इन्जिनहरू
-
 search-one-click-desc = बैकल्पिक खोज इन्जिनहरू चयन गर्नुहोस् जुन तपाईँले खोजशब्दहरू प्रविष्ट गर्न थालेपछि ठेगानापट्टि र खोजीपट्टि को तलपट्टि देखा पर्दछ ।
 
 search-choose-engine-column =
@@ -580,9 +524,6 @@ containers-add-button =
     .label = नयाँ कन्टेनर थप्नुहोस्
     .accesskey = A
 
-containers-preferences-button =
-    .label = प्राथमिकताहरू
-
 containers-remove-button =
     .label = हटाउनुहोस्
 
@@ -593,7 +534,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = तपाईँको वेब अाफुसँगै लैजानुहोस्
-sync-signedout-description = सबै यन्त्रहरूमा आफ्नो पुस्तकचिनो, इतिहास, ट्याबहरू, गोप्यशब्दहरू, एडअनहरू, र प्राथमिकताहरू समक्रमण गर्नुहोस्।
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -671,14 +611,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = सङ्ग्रह गरेको लग-इनहरू…
     .accesskey = L
-forms-master-pw-use =
-    .label = मुल गोप्यशब्द प्रयोग गर्नुहोस्
-    .accesskey = U
 forms-master-pw-change =
     .label = मुल गोप्यशब्द परिवर्तन गर्नुहोस्...
     .accesskey = M
-
-forms-master-pw-fips-title = तपाईँ अहिले FIPS ढाँचामा हुनुहुन्छ। FIPSलाई खाली नभएको मुल गोप्यशब्द चाहिन्छ।
 
 forms-master-pw-fips-desc = गोप्यशब्द परिवर्तन असफल
 
@@ -808,12 +743,6 @@ permissions-addon-exceptions =
     .label = अपवादहरू...
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = पहुँच सेवाहरूलाई तपाईँको ब्राउजरमा पहुँच लिन बाट रोक्नुहोस्
-    .accesskey = a
-
-permissions-a11y-privacy-link = अझै जान्नुहोस्
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } डाटा सङ्कलन र प्रयोग
@@ -829,8 +758,6 @@ collection-health-report-link = अझ जान्नुहोस्
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = यस निर्माण कन्फिगरेसनको लागि डाटा रिपोर्टिङ अक्षम गरिएको छ
-
-collection-backlogged-crash-reports-link = अझ जान्नुहोस्
 
 ## Privacy Section - Security
 ##
@@ -858,16 +785,6 @@ security-block-uncommon-software =
 
 certs-header = प्रमाणपत्रहरू
 
-certs-personal-label = जब एक सर्भर तपाईँको व्यक्तिगत प्रमाणपत्रको लागि अनुरोध गर्छ
-
-certs-select-auto-option =
-    .label = स्वचालित रूपमा एउटा छान्नुहोस्
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = तपाईँलाई हरेक पटक सोध्नुहोस्
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = प्रमाणपत्रको वर्तमान वैधानिकता बारे जान्न OSCP को प्रतिक्रिया दिने सर्भरहरूलाई सोध्नुहोस्
     .accesskey = Q
@@ -879,28 +796,6 @@ certs-view =
 certs-devices =
     .label = सुरक्षा उपकरणहरू…
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = अझै जान्नुहोस्
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] विकल्पहरू खोल्नुहोस्
-           *[other] प्राथमिकताहरू खोल्नुहोस्
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-under-5gb-ok-button =
-    .label = ठीक छ, थाहा पाएँ
-    .accesskey = K
-
-space-alert-under-5gb-message = { -brand-short-name } लाई डिस्क स्पेसको कमि भईरहेको छ । वेबसाइट सामग्रीहरू ठीक नदेखिन सक्छन् । अझै राम्रो ब्राउजिङ्ग अनुभवको लागि डिस्क उपयोग अनुकूलन गर्न “अझै जान्नुहोस्” मा जानुहोस् ।
 
 ## Privacy Section - HTTPS-Only
 

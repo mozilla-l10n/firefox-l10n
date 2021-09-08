@@ -23,10 +23,6 @@
 <!ENTITY closeCmd.label "बन्द गर्नुहोस्">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "c">
-<!ENTITY printSetupCmd.label "पृष्ठ सेटअप...">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewAddressBook.label "ठेगाना पुस्तिका मुद्रण पूर्वावलोकन">
-<!ENTITY printPreviewAddressBook.accesskey "B">
 <!ENTITY printAddressBook.label "ठेगाना पस्तिका मुद्रण गर्नुहोस्...">
 <!ENTITY printAddressBook.accesskey "A">
 
@@ -72,8 +68,6 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "निर्यात गर्नुहोस्...">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmdUnix.label "प्राथमिकता">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 <!-- Help Menu -->
 
 <!-- Address Book Toolbar and Context Menus -->  

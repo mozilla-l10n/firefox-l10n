@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = एडअन प्रबन्धक
-
 addons-page-title = एडअन प्रबन्धक
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = सबै एक्सटेन्सनहरू देखाउनुहोस्
-
-cmd-show-details =
-    .label = थप जानकारी देखाउनुहोस्
-    .accesskey = S
-
-cmd-find-updates =
-    .label = अद्यावधि खोज्नुहोस्
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] विकल्पहरू
-           *[other] प्राथमिकताहरू…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = वियर आवरणहरू
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = वियरिङ आवरणहरू रोक्नुहोस्
-    .accesskey = W
-
-cmd-install-addon =
-    .label = स्थापना गर्नुहोस्
-    .accesskey = I
-
-cmd-contribute =
-    .label = योगदान गर्नुहोस्
-    .accesskey = C
-    .tooltiptext = यो एड-अनको विकासमा योगदान दिनुहोस्
 
 detail-version =
     .label = संस्करण

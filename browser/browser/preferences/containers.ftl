@@ -5,11 +5,6 @@
 containers-window-new =
     .title = नयाँ कन्टेनर थप्नुहोस्
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } कन्टेनर प्राथमिकताहरू
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = प्रतिमा
 containers-color-label = रङ
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = सम्पन्न भयो
-    .accesskey = D
 
 containers-color-blue =
     .label = नीलो
