@@ -35,7 +35,3 @@ translation-sites-button-remove-all =
     .label = എല്ലാ സൈറ്റുകളും നീക്കം ചെയ്യുക
     .accesskey = ക
 
-translation-button-close =
-    .label = അടയ്ക്കുക
-    .accesskey = അ
-

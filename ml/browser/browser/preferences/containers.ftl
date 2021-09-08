@@ -5,11 +5,6 @@
 containers-window-new =
     .title = പുതിയ കണ്ടെയ്നര്‍ ചേര്‍ക്കുക
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } കണ്ടെയ്നര്‍ പ്രഫറന്‍സുകള്‍
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = ഐക്കൺ
 containers-color-label = നിറം
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = ചെയ്തു
-    .accesskey = D
 
 containers-color-blue =
     .label = നീല

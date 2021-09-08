@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = തിരയുക
     .aria-label = തിരയുക
 
-newtab-search-box-search-the-web-text = ഇൻറർനെറ്റിൽ തിരയുക
-
 newtab-search-box-search-the-web-input =
     .placeholder = ഇൻറർനെറ്റിൽ തിരയുക
     .title = ഇൻറർനെറ്റിൽ തിരയുക

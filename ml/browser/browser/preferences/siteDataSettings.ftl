@@ -22,14 +22,6 @@ site-data-remove-selected =
     .label = തിരഞ്ഞെടുത്തവ നീക്കം ചെയ്യുക
     .accesskey = r
 
-site-data-button-cancel =
-    .label = റദ്ദാക്കുക
-    .accesskey = C
-
-site-data-button-save =
-    .label = മാറ്റങ്ങള്‍ സൂക്ഷിക്കുക
-    .accesskey = a
-
 site-data-remove-all =
     .label = എല്ലാം നീക്കം ചെയ്യുക
     .accesskey = e

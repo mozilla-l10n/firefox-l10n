@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = ആഡ്-ഓണ്‍ മാനേജര്‍
-
 addons-page-title = ആഡ്-ഓണ്‍ മാനേജര്‍
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = എല്ലാ എക്സ്റ്റെന്‍ഷനും കാണിക്കുക
-
-cmd-show-details =
-    .label = കൂടുതല്‍ വിവരങ്ങള്‍ കാണിയ്ക്കുക
-    .accesskey = S
-
-cmd-find-updates =
-    .label = പരിഷ്കരണങ്ങള്‍ കണ്ടെത്തുക
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ഐച്ഛികങ്ങള്‍
-           *[other] മുന്‍ഗണനകള്‍
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = ഥീം സ്വീകരിയ്ക്കുക
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = ഥീം ഉപയോഗം നിര്‍ത്തുക
-    .accesskey = W
-
-cmd-install-addon =
-    .label = ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
-    .accesskey = I
-
-cmd-contribute =
-    .label = സംഭാവന ചെയ്യുക
-    .accesskey = C
-    .tooltiptext = ഈ ആഡ്-ഓണിന്റെ പുരോഗതിയ്ക്കായി സംഭാവന ചെയ്യുക
 
 detail-version =
     .label = പതിപ്പു്

@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = സ്ക്രീൻഷോട്ട് എടുക്കുക
-
-screenshots-my-shots-button = എന്റെ ഷോട്ടുകള്‍
-
 screenshots-instructions = ഒരു പ്രദേശം തിരഞ്ഞെടുക്കാൻ താളില്‍ ഡ്രാഗ് ചെയ്യുക അല്ലെങ്കിൽ ക്ലിക്കുചെയ്യുക. റദ്ദാക്കാൻ ESC അമർത്തുക.
 screenshots-cancel-button = റദ്ദാക്കുക
 screenshots-save-visible-button = കാണുന്നതു സംരക്ഷിക്കുക
@@ -36,8 +32,6 @@ screenshots-login-error-details = { -screenshots-brand-name } സേവനത്
 
 screenshots-unshootable-page-error-title = ഈ താളിന്റെ സ്ക്രീൻഷോട്ട് എടുക്കാന്‍ സാധ്യമല്ല.
 screenshots-unshootable-page-error-details = ഇതൊരു സാധാരണ താള്‍ അല്ല, അതിനാൽ അതിന്റെ ഒരു സ്ക്രീൻഷോട്ട് എടുക്കാനാകില്ല.
-
-screenshots-self-screenshot-error-title = സ്ക്രീൻഷോട്ട് താളിന്റെ { -screenshots-brand-name } എടുക്കാന്‍ പറ്റില്ല‌!
 
 screenshots-empty-selection-error-title = നിങ്ങളുടെ തെരഞ്ഞെടുപ്പ് തീരെ ചെറുതാണ്
 

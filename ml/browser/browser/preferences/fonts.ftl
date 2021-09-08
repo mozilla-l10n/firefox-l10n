@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = പരമ്പരാഗത ഉള്ളടക്കത്തിനുള്ള ടെക്സ്റ്റ്‌ എന്‍കോഡിങ്
-fonts-languages-fallback-desc = എൻകോഡിങ് രേഖപ്പെടുത്തിയിട്ടില്ലാത്ത പഴയ ഉള്ളടക്കങ്ങൾക്ക് ഈ എൻകോഡിങ് ഉപയോഗിക്കുന്നു.
-
-fonts-languages-fallback-label = ഫോൾബാക്ക് ടെക്സ്റ്റ് എൻകോഡിംഗ്
-    .accesskey = T
-
-fonts-languages-fallback-name-auto =
-    .label = നിലവിലുള്ള ലോക്കേലിനു് സ്വതവേയുള്ളതു്
-fonts-languages-fallback-name-arabic =
-    .label = അറബിക്‌
-fonts-languages-fallback-name-baltic =
-    .label = ബാള്‍ട്ടിക്ക്‌
-fonts-languages-fallback-name-ceiso =
-    .label = മദ്ധ്യ യൂറോപ്പിയന്‍, ഐഎസ്ഒ
-fonts-languages-fallback-name-cewindows =
-    .label = മദ്ധ്യ യൂറോപ്പിയന്‍, മൈക്രോസോഫ്ട്
-fonts-languages-fallback-name-simplified =
-    .label = ചൈനീസ്, ലളിതമായ
-fonts-languages-fallback-name-traditional =
-    .label = ചൈനീസ്, പരമ്പരാഗത
-fonts-languages-fallback-name-cyrillic =
-    .label = സിറില്ലിക്ക്‌
-fonts-languages-fallback-name-greek =
-    .label = ഗ്രീക്ക്‌
-fonts-languages-fallback-name-hebrew =
-    .label = ഹീബ്രു
-fonts-languages-fallback-name-japanese =
-    .label = ജാപ്പനീസ്‌
-fonts-languages-fallback-name-korean =
-    .label = കൊറിയന്‍
-fonts-languages-fallback-name-thai =
-    .label = തായ്‌
-fonts-languages-fallback-name-turkish =
-    .label = തുര്‍ക്കിഷ്‌
-fonts-languages-fallback-name-vietnamese =
-    .label = വിയറ്റ്നമീസ്‌
-fonts-languages-fallback-name-other =
-    .label = മറ്റുള്ളവ (പടിഞ്ഞാറന്‍ യൂറോപ്പിയന്‍ ഉള്‍പ്പടെ)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = എല്ലാ വെബ്സൈറ്റുകളും നീക്കം ചെയ്യുക
     .accesskey = e
 
-permissions-button-cancel =
-    .label = റദ്ദാക്കുക
-    .accesskey = C
-
-permissions-button-ok =
-    .label = മാറ്റങ്ങള്‍ സൂക്ഷിക്കുക
-    .accesskey = S
-
 permissions-searchbox =
     .placeholder = വെബ്സൈറ്റ് തിരയുക
 

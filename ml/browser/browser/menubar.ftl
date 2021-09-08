@@ -107,9 +107,6 @@ menu-file-go-offline =
 menu-edit =
     .label = ചിട്ടപ്പെടുത്തുക
     .accesskey = E
-menu-edit-find-on =
-    .label = ഈ താളില്‍ കണ്ടെത്തുക
-    .accesskey = F
 menu-edit-find-again =
     .label = വീണ്ടും കണ്ടെത്തുക
     .accesskey = g
@@ -125,9 +122,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = ടൂള്‍ബാറുകള്‍
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = ഇച്ഛാനുസൃതമാക്കുക...
-    .accesskey = C
 menu-view-sidebar =
     .label = സൈഡ് ബാര്‍
     .accesskey = e
@@ -161,9 +155,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = അടിസ്ഥാന താള്‍ ശൈലി
     .accesskey = B
-menu-view-charset =
-    .label = പദാവലിയുടെ എന്‍കോഡിങ്ങ്
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -212,10 +203,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = അടയാളക്കുറിപ്പുകള്‍
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = എല്ലാ അടയാളക്കുറിപ്പുകളും കാണിയ്ക്കുക
-menu-bookmark-this-page =
-    .label = ഈ താള്‍ അടയാളപ്പെടുത്തുക
 menu-bookmark-edit =
     .label = ഈ അടയാളക്കുറിപ്പു് ചിട്ടപ്പെടുത്തുക
 menu-bookmarks-all-tabs =
@@ -235,32 +222,15 @@ menu-tools =
 menu-tools-downloads =
     .label = ഡൌണ്‍ലോഡുകള്‍
     .accesskey = D
-menu-tools-addons =
-    .label = ആഡ്‌-ഓണുകള്‍
-    .accesskey = A
 menu-tools-sync-now =
     .label = ഉടന്‍ സിന്‍ക് ചെയ്യുക
     .accesskey = S
-menu-tools-web-developer =
-    .label = വെബ് ഡവലപ്പര്‍
-    .accesskey = W
 menu-tools-page-source =
     .label = താളിന്റെ സ്രോതസ്സ്‌
     .accesskey = o
 menu-tools-page-info =
     .label = താള്‍ വിവരങ്ങള്‍
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ഐച്ഛികങ്ങള്‍
-           *[other] മുന്‍ഗണനകള്‍
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -292,29 +262,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = സഹായം
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } സഹായം
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } പര്യടനം
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = കീബോര്‍ഡിനുള്ള കുറുക്കുവഴികള്‍
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = ട്രബിള്‍ഷൂട്ടിങിനുള്ള വിവരങ്ങള്‍
-    .accesskey = T
 menu-help-report-site-issue =
     .label = സൈറ്റ് ഇഷ്യു റിപ്പോർട്ട് ചെയ്യുക…
 menu-help-feedback-page =
     .label = അഭിപ്രായം രേഖപ്പെടുത്തുക…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കൂ…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കൂ
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

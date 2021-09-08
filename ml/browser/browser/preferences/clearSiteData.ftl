@@ -51,11 +51,3 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = വെബ്സൈറ്റുകൾ ചിത്രങ്ങളും ഡാറ്റയും വീണ്ടും ലോഡ് ചെയ്യേണ്ടതുണ്ട്
 
-clear-site-data-cancel =
-    .label = റദ്ദാക്കുക
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = വൃത്തിയാക്കുക
-    .accesskey = I
-
