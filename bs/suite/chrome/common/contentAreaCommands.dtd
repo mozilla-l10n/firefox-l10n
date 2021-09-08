@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label     "Odbacite iskočne prozore sa ove web stranice">
-<!ENTITY popupWindowAllowCmd.label      "Dozvolite iskočne prozore sa ove web stranice">
-
 <!ENTITY openLinkCmdInTab.label       "Otvori link u novom tabu">
 <!ENTITY openLinkCmd.label            "Otvori link u novom prozoru">
 <!ENTITY openLinkCmdInPrivateWindow.label     "Otvori link u privatnom prozoru">

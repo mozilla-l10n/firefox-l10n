@@ -16,8 +16,6 @@
 
 <!ENTITY fileMenu.label "Datoteka">
 <!ENTITY savePageCmd.label "Spasi stranicu kao…">
-<!ENTITY pageSetupCmd.label "Postavljanje stranice…">
-<!ENTITY printPreviewCmd.label "Pregled prije štampanja">
 <!ENTITY printCmd.label "Štampaj…">
 <!ENTITY closeCmd.label "Zatvori">
 

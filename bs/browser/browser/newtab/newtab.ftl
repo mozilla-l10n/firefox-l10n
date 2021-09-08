@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Traži
     .aria-label = Traži
 
-newtab-search-box-search-the-web-text = Pretraži web
-
 newtab-search-box-search-the-web-input =
     .placeholder = Pretraži web
     .title = Pretraži web

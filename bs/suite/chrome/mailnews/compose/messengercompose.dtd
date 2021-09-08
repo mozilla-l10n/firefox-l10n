@@ -27,9 +27,6 @@
 <!ENTITY sendLaterCmd.label "Pošalji kasnije">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 
-<!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "Prepakuj">
-
 <!ENTITY accountManagerCmd.label "Postavke računa pošte i interesnih grupa…">
 
 <!-- View menu items -->

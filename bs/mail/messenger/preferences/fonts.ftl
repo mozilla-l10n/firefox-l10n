@@ -90,10 +90,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Sans Serif
 
-font-size-label =
-    .value = Veličina:
-    .accesskey = e
-
 font-size-monospace-label =
     .value = Veličina:
     .accesskey = i

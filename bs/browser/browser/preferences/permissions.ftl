@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Ukloni sve web stranice
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Otkaži
-    .accesskey = O
-
-permissions-button-ok =
-    .label = Spasi promjene
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Spasi promjene
     .buttonaccesskeyaccept = S

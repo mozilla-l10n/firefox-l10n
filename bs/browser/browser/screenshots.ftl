@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Snimi zaslon
-
-screenshots-my-shots-button = Moji snimci
-
 screenshots-instructions = Povucite ili kliknite na stranicu kako biste izabrali područje. Pritisnite ESC za otkazivanje radnje.
 screenshots-cancel-button = Otkaži
 screenshots-save-visible-button = Sačuvaj vidljivo
@@ -34,8 +30,6 @@ screenshots-login-error-details = Nismo uspjeli sačuvati vaš snimak zbog toga 
 
 screenshots-unshootable-page-error-title = Ovu stranicu ne možemo snimiti.
 screenshots-unshootable-page-error-details = Ovo nije standardna web stranica stoga je ne možete snimiti.
-
-screenshots-self-screenshot-error-title = Ne možete snimiti { -screenshots-brand-name } stranicu!
 
 screenshots-empty-selection-error-title = Vaš odabir je premalen
 

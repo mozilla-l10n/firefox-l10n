@@ -19,44 +19,7 @@ certmgr-tab-ca =
 
 certmgr-mine = Imate certifikate od ovih organizacija koji vas identifikuju
 certmgr-people = Imate certifikate na fajlu koji identifikuju ove osobe
-certmgr-servers = Imate certifikate na fajlu koji prepoznaje ove servere
 certmgr-ca = Imate certifikate na fajlu koji identifikuju ove certifikacijske autoritete
-
-certmgr-detail-general-tab-title =
-    .label = Opće
-    .accesskey = O
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Detalji
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Trenutno provjeravanje certifikata…
-
-certmgr-subject-label = Izdano
-
-certmgr-issuer-label = Izdao
-
-certmgr-period-of-validity = Period valjanosti
-
-certmgr-fingerprints = Otisci
-
-certmgr-cert-detail =
-    .title = Detalji certifikata
-    .buttonlabelaccept = Zatvori
-    .buttonaccesskeyaccept = Z
-
-certmgr-cert-detail-commonname = Uobičajeno ime (CN)
-
-certmgr-cert-detail-org = Organizacija (O)
-
-certmgr-cert-detail-orgunit = Organizacijska jedinica (OU)
-
-certmgr-cert-detail-serial-number = Serijski broj
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 otisak
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 otisak
 
 certmgr-edit-ca-cert =
     .title = Uredi postavke povjerenja certifikata
@@ -86,12 +49,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Sigurnosni uređaj
 
-certmgr-begins-on = Počinje na
-
 certmgr-begins-label =
     .label = Počinje na
-
-certmgr-expires-on = Ističe
 
 certmgr-expires-label =
     .label = Ističe
@@ -133,18 +92,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Uvoz…
     .accesskey = U
-
-certmgr-details =
-    .value = Polja certifikata
-    .accesskey = f
-
-certmgr-fields =
-    .value = Vrijednost polja
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = Hijerarhija certifikata
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Dodaj izuzetak…
@@ -208,12 +155,6 @@ delete-user-cert-confirm = Da li ste sigurno da želite obrisati ove certifikate
 delete-user-cert-impact = Ukoliko obrišete neki od vaših certifikata, više ga nećete moći koristiti za vlastitu identifikaciju.
 
 
-delete-ssl-cert-title =
-    .title = Obriši izuzetak o serverskom certifikatu
-delete-ssl-cert-confirm = Da li ste sigurni da želite obrisati ove serverske izuzetke?
-delete-ssl-cert-impact = Ako obrišete serverski izuzetak, vratit ćete uobičajenu sigurnosnu provjeru za ovaj server i zahtjev da koristi važeći certifikat.
-
-
 delete-ca-cert-title =
     .title = Obriši ili ukloni povjerenje CA certifikatima
 delete-ca-cert-confirm = Zatražili ste brisanje ovih CA certifikata. Za predefinisane certifikate povjerljivost će biti uklonjena, što ima isti efekat. Da li ste sigurni da ih želite obrisati ili im želite ukloniti povjerenje?
@@ -233,45 +174,6 @@ cert-with-serial =
     .value = Certifikat sa serijskim brojem: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Preglednik certifikata: “{ $certName }”
-
-not-present =
-    .value = <Nije dio certifikata>
-
-# Cert verification
-cert-verified = Ovaj certifikat je važeći za sljedeće upotrebe:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL certifikat klijenta
-
-verify-ssl-server =
-    .value = SSL certifikat servera
-
-verify-ssl-ca =
-    .value = SSL Certifikacijski Autoritet
-
-verify-email-signer =
-    .value = Certifikat potpisnika email-a
-
-verify-email-recip =
-    .value = Certifikat primaoca email-a
-
-# Cert verification
-cert-not-verified-cert-revoked = Provjera certifikata nije moguća jer je isti opozvan.
-cert-not-verified-cert-expired = Provjera certifikata nije moguća jer je isti istekao.
-cert-not-verified-cert-not-trusted = Provjera certifikata nije moguća jer isti nije od povjerenja.
-cert-not-verified-issuer-not-trusted = Provjera certifikata nije moguća jer izdavač istog nije od povjerenja.
-cert-not-verified-issuer-unknown = Provjera certifikata nije moguća jer izdavač istog nije poznat.
-cert-not-verified-ca-invalid = Provjera certifikata nije moguća jer je CA certifikat nevažeći.
-cert-not-verified_algorithm-disabled = Provjera certifikata nije moguća jer je isti potpisan pomoću algoritma koji je onemogućen jer nije siguran.
-cert-not-verified-unknown = Provjera certifikata nije moguća iz nepoznatih razloga.
 
 ## Used to show whether an override is temporary or permanent
 

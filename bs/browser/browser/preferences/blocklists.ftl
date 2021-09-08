@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Lista
 
-blocklist-button-cancel =
-    .label = Otkaži
-    .accesskey = O
-
-blocklist-button-ok =
-    .label = Spasi promjene
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Spasi promjene
     .buttonaccesskeyaccept = S

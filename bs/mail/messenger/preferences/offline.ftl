@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Automatski prati otkriveno mrežno stanje
     .accesskey = d
 
-startup-label = Ručno stanje prilikom pokretanja:
-
 status-radio-remember =
     .label = Zapamti prethodno stanje rada na mreži
     .accesskey = R

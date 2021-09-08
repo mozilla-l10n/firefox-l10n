@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Upravnik add-onima
-
 addons-page-title = Upravnik add-onima
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Prikaži sve ekstenzije
-
-cmd-show-details =
-    .label = Prikaži više informacija
-    .accesskey = P
-
-cmd-find-updates =
-    .label = Pronađi nadogradnje
-    .accesskey = P
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opcije
-           *[other] Postavke
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Obuci temu
-    .accesskey = O
-
-cmd-disable-theme =
-    .label = Prestani nositi temu
-    .accesskey = P
-
-cmd-install-addon =
-    .label = Instaliraj
-    .accesskey = I
-
-cmd-contribute =
-    .label = Doprinesite
-    .accesskey = D
-    .tooltiptext = Doprinesite razvoju ovog add-ona
 
 detail-version =
     .label = Verzija

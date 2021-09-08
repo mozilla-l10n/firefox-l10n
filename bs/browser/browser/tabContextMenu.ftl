@@ -24,10 +24,6 @@ move-to-new-window =
     .label = Premjesti u novi prozor
     .accesskey = P
 
-close-tab =
-    .label = Zatvori tab
-    .accesskey = Z
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 

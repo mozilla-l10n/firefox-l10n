@@ -24,8 +24,8 @@
 <!ENTITY maxZoom.label                          "do">
 <!ENTITY percent.label                          "&#37;">
 
-<!ENTITY siteSpecific.label                     "Zapamtite nivo uvećanja na osnovu stranice">
 <!ENTITY textZoomOnly.label                     "Uvećajte samo tekst umjesto cijelih stranica">
+<!ENTITY siteSpecific.label                     "Zapamtite nivo uvećanja na osnovu stranice">
 <!ENTITY enableAutomaticImageResizing.label     "Promijenite veličinu slika da odgovaraju prozoru browsera">
 
 <!ENTITY allowHWAccel.label                     "Koristite hardversko ubrzanje kada je dostupno">

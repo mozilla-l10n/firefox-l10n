@@ -7,28 +7,6 @@ do-not-track-learn-more = Saznajte više
 do-not-track-option-always =
     .label = Uvijek
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Opcije
-       *[other] Postavke
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Pronađi u Opcijama
-           *[other] Pronađi u Postavkama
-        }
-
 pane-general-title = Opće
 category-general =
     .tooltiptext = { pane-general-title }
@@ -67,18 +45,6 @@ restart-later = Restartuj kasnije
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Ekstenzija, <img data-l10n-name="icon"/> { $name }, kontroliše vašu početnu stranicu.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Ekstenzija, <img data-l10n-name="icon"/> { $name }, kotroliše vašu stranicu novog taba.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Ekstenzija, <img data-l10n-name="icon"/> { $name }, je podesila vaš glavni pretraživač.
-
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Ekstenzija, <img data-l10n-name="icon"/> { $name }, zahtijeva Container tabove.
@@ -98,26 +64,11 @@ extension-controlled-enable = Da omogućite ekstenziju posjetite <img data-l10n-
 
 search-results-header = Rezultati pretrage
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Žao nam je! Nema rezultata u Opcijama za “<span data-l10n-name="query"></span>”.
-       *[other] Žao nam je! Nema rezultata u Postavkama za “<span data-l10n-name="query"></span>”.
-    }
-
 search-results-help-link = Trebate pomoć? Posjetite <a data-l10n-name="url">{ -brand-short-name } podrška</a>
 
 ## General Section
 
 startup-header = Pokretanje
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Dozvoli da se { -brand-short-name } i Firefox pokreću u isto vrijeme
-use-firefox-sync = Savjet: Ovo koristi odvojene profile. Koristite { -sync-brand-short-name } za dijeljenje podataka između njih.
-get-started-not-logged-in = Prijava u { -sync-brand-short-name }…
-get-started-configured = Otvori { -sync-brand-short-name } postavke
 
 always-check-default =
     .label = Uvijek provjeravaj da li je { -brand-short-name } glavni browser
@@ -154,10 +105,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Upozoriti vas kada otvaranje više tabova može usporiti { -brand-short-name }
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = Kada otvorite link u novom tabu, odmah se prebaciti na njega
-    .accesskey = s
 
 show-tabs-in-taskbar =
     .label = Prikazuj pregled tabova u Windows taskbaru
@@ -312,11 +259,6 @@ applications-manage-app =
     .label = Detalji aplikacije…
 applications-always-ask =
     .label = Uvijek pitaj
-applications-type-pdf = Prenosivi format dokumenata (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -556,8 +498,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = Prijedlozi za pretragu neće biti prikazani u rezultatima lokacijske trake jer ste podesili { -brand-short-name } da ne pamti historiju.
 
-search-one-click-header = Jedan-klik pretraživači
-
 search-one-click-desc = Izaberite alternativne pretraživače koji će se prikazati ispod adresne i trake za pretraživanje kada počnete unositi ključnu riječ.
 
 search-choose-engine-column =
@@ -590,9 +530,6 @@ containers-add-button =
     .label = Dodaj novi Container
     .accesskey = a
 
-containers-preferences-button =
-    .label = Postavke
-
 containers-remove-button =
     .label = Ukloni
 
@@ -600,7 +537,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Ponesite vaš Web sa vama
-sync-signedout-description = Sinhronizujte vaše zabilješke, historiju, tabove, lozinke, add-one, i druge postavke na svim vašim uređajima.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -677,15 +613,6 @@ sync-engine-addons =
     .tooltiptext = Ekstenzije i teme za Firefox desktop
     .accesskey = A
 
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Opcije
-           *[other] Postavke
-        }
-    .tooltiptext = Opće, postavke privatnosti, te sigurnosti koje ste promijenili
-    .accesskey = s
-
 ## The device name controls.
 
 sync-device-name-header = Naziv uređaja
@@ -731,9 +658,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Spašene prijave…
     .accesskey = j
-forms-master-pw-use =
-    .label = Koristi glavnu lozinku…
-    .accesskey = g
 forms-primary-pw-use =
     .label = Koristi primarnu lozinku
     .accesskey = U
@@ -745,7 +669,6 @@ forms-master-pw-change =
     .label = Promijeni glavnu lozinku…
     .accesskey = m
 
-forms-master-pw-fips-title = Trenutno ste u FIPS režimu. FIPS zahtjeva postojanje glavne lozinke.
 forms-primary-pw-change =
     .label = Promijeni Primarnu lozinku…
     .accesskey = P
@@ -901,12 +824,6 @@ permissions-addon-exceptions =
     .label = Izuzeci…
     .accesskey = e
 
-permissions-a11y-privacy-checkbox =
-    .label = Spriječite servise pristupačnosti da pristupe vašem browseru
-    .accesskey = a
-
-permissions-a11y-privacy-link = Saznajte više
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } prikupljanje i upotreba podataka
@@ -926,11 +843,6 @@ collection-studies-link = Prikaži { -brand-short-name } studije
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji s podacima su onemogućeni za ovu konfiguraciju
-
-collection-backlogged-crash-reports =
-    .label = Dozvoli { -brand-short-name }u da šalje pohranjene izvještaje o rušenju u vaše ime
-    .accesskey = š
-collection-backlogged-crash-reports-link = Saznajte više
 
 ## Privacy Section - Security
 ##
@@ -958,16 +870,6 @@ security-block-uncommon-software =
 
 certs-header = Certifikati
 
-certs-personal-label = Kada server zatraži vaš lični certifikat
-
-certs-select-auto-option =
-    .label = Odaberi jedan automatski
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Pitati vas svaki put
-    .accesskey = a
-
 certs-enable-ocsp =
     .label = Upitajte OCSP servere da biste potvrdili validnost certifikata
     .accesskey = U
@@ -979,28 +881,6 @@ certs-view =
 certs-devices =
     .label = Sigurnosni uređaji…
     .accesskey = U
-
-space-alert-learn-more-button =
-    .label = Saznajte više
-    .accesskey = j
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Otvori opcije
-           *[other] Otvori postavke
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-under-5gb-ok-button =
-    .label = OK, razumijem
-    .accesskey = K
-
-space-alert-under-5gb-message = { -brand-short-name }-u ponestaje prostora na disku. Sadržaj web stranica možda neće biti prikazan ispravno. Posjetite “Saznajte više” da optimizujete vašu upotrebu diska za bolje iskustvo surfanja.
 
 ## Privacy Section - HTTPS-Only
 

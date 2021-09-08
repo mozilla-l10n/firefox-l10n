@@ -9,8 +9,4 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Pomoć">
 <!ENTITY helpMenuWin.accesskey "P">
-<!ENTITY helpTroubleshootingInfo.label     "Informacije za rješavanje problema">
-<!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY helpSafeMode.label     "Restartuj s onemogućenim add-onima…">
-<!ENTITY helpSafeMode.accesskey "R">
 

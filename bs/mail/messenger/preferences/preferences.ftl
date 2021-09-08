@@ -6,13 +6,6 @@
 close-button =
     .aria-label = Zatvori
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opcije
-           *[other] Postavke
-        }
-
 pane-compose-title = Sastavljanje
 category-compose =
     .tooltiptext = Sastavljanje
@@ -79,10 +72,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Prilagodi…
     .accesskey = C
-
-tray-icon-label =
-    .label = Prikaži ikonu u sistemskoj traci
-    .accesskey = t
 
 mail-custom-sound-label =
     .label = Koristi sljedeću zvučnu datoteku
@@ -265,9 +254,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Boja:
     .accesskey = o
-
-search-input =
-    .placeholder = Traži
 
 type-column-label =
     .label = Vrsta sadržaja
@@ -535,16 +521,6 @@ passwords-button =
     .label = Sačuvane lozinke…
     .accesskey = S
 
-master-password-description = Glavna lozinka štiti sve vaše lozinke, ali se mora unijeti jednom za svaku prijavu.
-
-master-password-label =
-    .label = Koristi glavnu lozinku
-    .accesskey = u
-
-master-password-button =
-    .label = Promjeni glavnu lozinku…
-    .accesskey = P
-
 
 junk-description = Postavite svoje zadane postavke neželjene pošte. Specifične postavke za pojedini račun se mogu podesiti u postavkama računa.
 
@@ -703,10 +679,6 @@ no-preview-description = Ova tema nije važeća ili trenutno nije dostupna (onem
 chat-variant-label =
     .value = Varijanta:
     .accesskey = V
-
-chat-header-label =
-    .label = Prikaži zaglavlje
-    .accesskey = H
 
 ## Preferences UI Search Results
 

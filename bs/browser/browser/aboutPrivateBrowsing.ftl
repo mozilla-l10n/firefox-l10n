@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Otvori Privatni prozor
 about-private-browsing-search-placeholder = Pretražujte web
 about-private-browsing-info-title = Nalazite se u Privatnom prozoru
 about-private-browsing-info-myths = Uobičajeni mitovi o privatnom surfanju
-about-private-browsing =
-    .title = Pretražujte web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

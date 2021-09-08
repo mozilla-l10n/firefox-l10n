@@ -84,7 +84,6 @@
 <!ENTITY Notes.label                    "Bilješke:">
 
 <!ENTITY Photo.tab                      "Slika">
-<!ENTITY PhotoDesc.label                "Izaberite jedno od sljedećih:">
 <!ENTITY GenericPhoto.label             "Standardna slika">
 <!ENTITY DefaultPhoto.label             "Izvorno">
 <!ENTITY PhotoFile.label                "Na ovom računaru">
