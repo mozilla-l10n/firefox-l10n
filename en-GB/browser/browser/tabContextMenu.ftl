@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Bookmark Tab
     .accesskey = B
-reopen-in-container =
-    .label = Reopen in Container
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Open in New Container Tab
     .accesskey = e
@@ -69,25 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Close Multiple Tabs
     .accesskey = M
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Undo Close Tab
-           *[other] Undo Close Tabs
-        }
-    .accesskey = U
-close-tab =
-    .label = Close Tab
-    .accesskey = C
-close-tabs =
-    .label = Close Tabs
-    .accesskey = s
-move-tabs =
-    .label = Move Tabs
-    .accesskey = v
-move-tab =
-    .label = Move Tab
-    .accesskey = v
 tab-context-share-url =
     .label = Share
     .accesskey = h
@@ -125,6 +103,7 @@ tab-context-move-tabs =
            *[other] Move Tabs
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

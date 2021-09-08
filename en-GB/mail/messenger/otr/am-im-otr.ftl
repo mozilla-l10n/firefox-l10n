@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR Settings
 otr-log =
     .label = Include OTR encrypted messages in conversation logs
-otr-requireEncryption =
-    .label = Require end-to-end encryption for one-to-one conversations
-otr-verifyNudge =
-    .label = Always remind me to verify an unverified contact
-
-otr-notYetAvailable = not yet available
 
 otr-require-encryption =
     .label = Require end-to-end encryption for one-to-one conversations

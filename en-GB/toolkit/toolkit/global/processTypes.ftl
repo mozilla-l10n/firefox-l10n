@@ -9,8 +9,6 @@
 
 process-type-web = Web Content
 
-process-type-browser = Main
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Privileged About

@@ -5,9 +5,6 @@
 places-open =
     .label = Open
     .accesskey = O
-places-open-tab =
-    .label = Open in a New Tab
-    .accesskey = w
 places-open-in-tab =
     .label = Open in New Tab
     .accesskey = w
@@ -17,30 +14,13 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Open All in Tabs
     .accesskey = O
-places-open-window =
-    .label = Open in a New Window
-    .accesskey = N
-places-open-private-window =
-    .label = Open in a New Private Window
-    .accesskey = P
-places-new-bookmark =
-    .label = New Bookmark…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = New Folder…
-    .accesskey = F
-places-new-folder =
-    .label = New Folder…
-    .accesskey = o
-places-new-separator =
-    .label = New Separator
-    .accesskey = S
 places-open-in-window =
     .label = Open in New Window
     .accesskey = N
 places-open-in-private-window =
     .label = Open in New Private Window
     .accesskey = P
+
 places-add-bookmark =
     .label = Add Bookmark…
     .accesskey = B
@@ -53,6 +33,7 @@ places-add-folder =
 places-add-separator =
     .label = Add Separator
     .accesskey = S
+
 places-view =
     .label = View
     .accesskey = w
@@ -71,19 +52,18 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = By Date and Site
     .accesskey = t
+
 places-history-search =
     .placeholder = Search history
 places-bookmarks-search =
     .placeholder = Search bookmarks
+
 places-delete-domain-data =
     .label = Forget About This Site
     .accesskey = F
 places-sortby-name =
     .label = Sort By Name
     .accesskey = r
-places-properties =
-    .label = Properties
-    .accesskey = i
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Edit Bookmark…
@@ -101,6 +81,7 @@ places-remove-folder =
            *[other] Remove Folders
         }
     .accesskey = m
+
 places-edit-folder2 =
     .label = Edit Folder…
     .accesskey = i
@@ -111,15 +92,18 @@ places-delete-folder =
            *[other] Delete Folders
         }
     .accesskey = D
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Managed bookmarks
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subfolder
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Other Bookmarks
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -129,6 +113,7 @@ places-remove-bookmark =
            *[other] Remove Bookmarks
         }
     .accesskey = e
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -138,11 +123,15 @@ places-delete-bookmark =
            *[other] Delete Bookmarks
         }
     .accesskey = D
+
 places-manage-bookmarks =
     .label = Manage Bookmarks
     .accesskey = M
+
 places-forget-about-this-site-confirmation-title = Forgetting about this site
+
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = This action will remove all data related to { $hostOrBaseDomain } including history, passwords, cookies, cache and content preferences. Are you sure you want to proceed?
+
 places-forget-about-this-site-forget = Forget

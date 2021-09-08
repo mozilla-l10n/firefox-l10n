@@ -8,9 +8,6 @@
 newtab-page-title = New Tab
 newtab-settings-button =
     .title = Customise your New Tab page
-newtab-personalize-button-label = Personalise
-    .title = Personalise new tab
-    .aria-label = Personalise new tab
 newtab-personalize-icon-label =
     .title = Personalise new tab
     .aria-label = Personalise new tab
@@ -23,7 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Search
     .aria-label = Search
-newtab-search-box-search-the-web-text = Search the Web
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Search with { $engine } or enter address
@@ -38,10 +35,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Search or enter address
     .title = Search or enter address
     .aria-label = Search or enter address
+
 newtab-search-box-search-the-web-input =
     .placeholder = Search the Web
     .title = Search the Web
     .aria-label = Search the Web
+
 newtab-search-box-text = Search the web
 newtab-search-box-input =
     .placeholder = Search the web
@@ -57,10 +56,12 @@ newtab-topsites-edit-shortcut-header = Edit Shortcut
 newtab-topsites-title-label = Title
 newtab-topsites-title-input =
     .placeholder = Enter a title
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Type or paste a URL
 newtab-topsites-url-validation = Valid URL required
+
 newtab-topsites-image-url-label = Custom Image URL
 newtab-topsites-use-image-link = Use a custom image…
 newtab-topsites-image-validation = Image failed to load. Try a different URL.
@@ -89,10 +90,12 @@ newtab-topsite-sponsored = Sponsored
 newtab-menu-section-tooltip =
     .title = Open menu
     .aria-label = Open menu
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Remove
     .aria-label = Remove
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -165,10 +168,12 @@ newtab-label-removed-bookmark = Bookmark removed
 newtab-label-recommended = Trending
 newtab-label-saved = Saved to { -pocket-brand-name }
 newtab-label-download = Downloaded
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsored
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -207,6 +212,7 @@ newtab-section-header-pocket = Recommended by { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Start browsing, and we’ll show some of the great articles, videos, and other pages you’ve recently visited or bookmarked here.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -252,10 +258,4 @@ newtab-custom-pocket-sponsored = Sponsored stories
 newtab-custom-recent-title = Recent activity
 newtab-custom-recent-subtitle = A selection of recent sites and content
 newtab-custom-close-button = Close
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Snippets
-newtab-custom-snippets-subtitle = Tips and news from { -vendor-short-name } and { -brand-product-name }
 newtab-custom-settings = Manage more settings

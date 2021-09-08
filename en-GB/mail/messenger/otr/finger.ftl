@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = OTR key fingerprints from previous end-to-end encrypted conversations.
 
-finger-screenName =
-    .label = Contact
-
 finger-screen-name =
     .label = Contact
 finger-verified =
