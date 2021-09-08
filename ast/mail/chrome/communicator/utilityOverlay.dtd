@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY deleteCmd.label "Desaniciar">
 <!ENTITY deleteCmd.accesskey "n">
-<!ENTITY preferencesCmd2.label "Opciones">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Preferencies">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">

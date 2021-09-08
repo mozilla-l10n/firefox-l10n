@@ -9,9 +9,6 @@ newtab-page-title = Llingüeta nueva
 newtab-settings-button =
     .title = Personalizar la páxina «Llingüeta nueva»
 
-newtab-personalize-button-label = Personalizar
-    .title = Personaliza «Llingüeta nueva»
-    .aria-label = Personalizar «Llingüeta nueva»
 newtab-personalize-icon-label =
     .title = Personaliza «Llingüeta nueva»
     .aria-label = Personalizar «Llingüeta nueva»
@@ -184,10 +181,4 @@ newtab-custom-recent-title = Actividá recién
 newtab-custom-recent-subtitle = Una esbilla de los sitios y el conteníu recién
 newtab-custom-close-button = Zarrar
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Cachos d'información
-newtab-custom-snippets-subtitle = Conseyos y noticies de { -vendor-short-name } y { -brand-product-name }
 newtab-custom-settings = Xestionar más axustes

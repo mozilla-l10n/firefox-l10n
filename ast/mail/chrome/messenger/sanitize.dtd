@@ -15,9 +15,6 @@
 <!ENTITY clearTimeDuration.everything "Too">
 <!ENTITY clearTimeDuration.suffix "">
 
-<!ENTITY detailsProgressiveDisclosure.label "Detalles">
-<!ENTITY detailsProgressiveDisclosure.accesskey "D">
-
 
 <!ENTITY itemHistory.label "Historial de navegación">
 <!ENTITY itemHistory.accesskey "H">

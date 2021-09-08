@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Abrir el menú">
-
 <!ENTITY navbarOverflow.label                "Más ferramientes…">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Fixar la llingüeta">
-<!ENTITY  unpinTab.label                     "Lliberar la llingüeta">
 
 <!ENTITY  listAllTabs.label      "Llistar toles llingüetes">
 
@@ -25,21 +15,12 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Abrir un ficheru…">
 <!ENTITY printCmd.label "Imprentar…">
 
-<!ENTITY taskManagerCmd.label "Xestor de xeres">
-
 <!ENTITY menubarCmd.label "Barra de menús">
 <!ENTITY menubarCmd.accesskey "m">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Navegación">
-<!ENTITY personalbarCmd.label "Barra de los marcadores">
-<!ENTITY personalbarCmd.accesskey "B">
-<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
-include the word "toolbar" or such, because screen readers already know that
-this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbar.accessibleLabel "Marcadores">
-<!ENTITY bookmarksToolbarItem.label "Elementos de la barra de los marcadores">
 
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 
@@ -47,45 +28,14 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings2.label "Axustes de &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar otru preséu…">
-<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Aniciar sesión en &brandProductName;">
-<!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.firefoxServices.label "Servicios de &brandProductName;">
-<!ENTITY fxa.menu.account.label "Cuenta">
-<!ENTITY fxa.menu.settings.label "Axustes">
-<!ENTITY fxa.menu.accountSettings.label "Axustes de la cuenta">
-<!ENTITY fxa.menu.manageAccount2.label "Xestionar la cuenta">
-<!ENTITY fxa.menu.signOut.label "Zarrar sesión…">
-<!ENTITY fxa.menu.setupSync.label "Configurar &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "tien el control del punteru. Primi Esc pa recuperalu.">
-<!ENTITY pointerlockWarning.generic.label "Esti documentu tien el control del punteru. Primi Esc pa recuperalu.">
 
 
 <!ENTITY printButton.label            "Imprentar">
@@ -96,19 +46,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY homeButton.label             "Aniciu">
 <!ENTITY homeButton.defaultPage.tooltip "Páxina d'aniciu de &brandShortName;">
 
-<!ENTITY bookmarksButton.label          "Marcadores">
-
-<!ENTITY bookmarksMenuButton.other.label    "Otros marcadores">
-<!ENTITY bookmarksMenuButton.mobile.label   "Marcadores del móvil">
-<!ENTITY searchBookmarks.label              "Buscar nos marcadores">
-
 <!ENTITY historyButton.label            "Historial">
 
 <!ENTITY downloads.label              "Descargues">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Descargues">
-<!ENTITY addons.label                 "Complementos">
 
 <!ENTITY webDeveloperMenu.label       "Desendolcador web">
 
@@ -125,26 +68,11 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY historyMenu.label "Historial">
 
-<!ENTITY historyUndoMenu.label "Llingüetes zarraes apocayá">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Ventanes zarraes apocayá">
-
-<!ENTITY appMenuHistory.showAll.label "Amosar tol historial">
-
-<!ENTITY appMenuHistory.clearRecent.label "Llimpiar l'historial recién…">
-<!ENTITY appMenuHistory.restoreSession.label "Restaurar la sesión anterior">
-<!ENTITY appMenuHistory.recentHistory.label "Historial recién">
-
 <!ENTITY appMenuHelp.label "Ayuda">
-
-<!ENTITY appMenuRemoteTabs.label "Llingüetes sincronizaes">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nun hai llingüetes abiertes">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Amosar más">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
@@ -156,13 +84,7 @@ this container is a toolbar. This avoids double-speaking. -->
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Quies ver equí les llingüetes d'otros preseos de to?">
 <!ENTITY appMenuRemoteTabs.welcome.label "Ve una llista de les llingüetes d'otros preseos de to.">
-<!ENTITY appMenuRemoteTabs.signintosync.label "Aniciar sesión en &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Xestionar los preseos…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Ver la barra llateral de les llingüetes sincronizaes">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "Anubrir la barra llateral de les llingüetes sincronizaes">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar otru preséu">
-
-<!ENTITY appMenuRecentHighlights.label "Destacóse de recién">
 
 <!ENTITY customizeMenu.addToToolbar.label "Amestar a la barra de ferramientes">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -188,16 +110,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 
-<!ENTITY emailPageCmd.label           "Unviar l'enllaz per corréu…">
-
 <!ENTITY fullZoom.label                 "Zoom">
 
 <!ENTITY sidebarCloseButton.tooltip     "Zarrar el panel llateral">
-
-<!ENTITY quitApplicationCmdWin2.label       "Colar">
-<!ENTITY quitApplicationCmdWin2.accesskey   "c">
-<!ENTITY quitApplicationCmd.label       "Colar">
-<!ENTITY quitApplicationCmd.accesskey   "C">
 
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -212,21 +127,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
-<!ENTITY syncBrand.shortName.label    "Sync">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "Anubrir automáticamente">
-
 
 
 <!ENTITY panicButton.thankyou.msg1                "L'historial recién ta llimpiu">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Gracies!">
 
-<!ENTITY updateUnsupported.panelUI.label "Yá nun pues anovar más nesti sistema">
-<!ENTITY updateRestart.panelUI.label2 "Reaniciar p'anovar &brandShorterName;">
-
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando los preseos…">
-
-<!ENTITY pageAction.shareMore.label "Más…">
 
 <!ENTITY libraryButton.tooltip "Mira l'historial, los marcadores guardaos y más coses">
 

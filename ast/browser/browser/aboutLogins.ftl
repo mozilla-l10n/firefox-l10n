@@ -7,17 +7,12 @@ about-logins-page-title = Cuentes y contraseñes
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Lleva les contraseñes contigo
-login-app-promo-subtitle = Consigui { -lockwise-brand-name } de baldre
-login-app-promo-android =
-    .alt = Baxar en Google Play
-login-app-promo-apple =
-    .alt = Baxar n'App Store
 login-filter =
     .placeholder = Buscar cuentes
+
 create-login-button = Crear una cuenta
+
 fxaccounts-sign-in-text = Consigui les tos contraseñes n'otros preseos
-fxaccounts-sign-in-button = Aniciar sesión en { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Aniciar sesión pa sincronizar
 fxaccounts-avatar-button =
     .title = Xestionar la cuenta
@@ -37,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Preferencies
     }
 about-logins-menu-menuitem-help = Ayuda
-menu-menuitem-android-app = { -lockwise-brand-short-name } p'Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } pa iPhone y iPad
 
 ## Login List
 
@@ -69,13 +62,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = ¿Busques les cuentes guardaes? Configura { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out2 = ¿Busques les tos cuentes guardaes? Activa la sincronización pa importales.
 about-logins-login-intro-heading-logged-in = Nun s'atoparon cuentes sincronizaes.
 login-intro-description = Si guardesti les cuentes nel { -brand-product-name } d'otru preséu, esti ye'l mou de tenelos equí:
-login-intro-instruction-fxa = Crea una { -fxaccount-brand-name } o anicia sesión nel preséu onde se guarden les tos cuentes
-login-intro-instruction-fxa-settings = Asegúrate de que marquesti'l caxellu «Cuentes» nos axustes de { -sync-brand-short-name }
-about-logins-intro-instruction-help = Visita'l <a data-l10n-name="help-link">Sofitu de { -lockwise-brand-short-name }</a> pa más ayuda
 login-intro-instructions-fxa = Crea una { -fxaccount-brand-name } o anicia sesión nel preséu onde se guarden les tos cuentes
 login-intro-instructions-fxa-settings = Vete p'Axustes > Sync > Activar la sincronización… Marca'l caxellu «Cuentes y contraseñes».
 login-intro-instructions-fxa-help = Visita'l <a data-l10n-name="help-link">Sofitu de { -lockwise-brand-short-name }</a> pa más ayuda.
@@ -121,11 +110,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Pa editar l'aniciu de sesi�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar la cuenta guardada
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pa ver la contraseña, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = desvelar la contraseña guardada
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pa copiar la contraseña, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
 # This message can be seen when attempting to copy a password in about:logins
@@ -134,7 +125,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copiar la contraseña
 
 ## Master Password notification
 
-master-password-notification-message = Introduz la contraseña maestra pa ver les cuentes y contraseñes guardaes
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pa esportar les cuentes, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
 # This message can be seen when attempting to export a password in about:logins
@@ -150,42 +140,30 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] ¿Quies tener les tos cuentes onde uses { -brand-product-name }? Vete a les opciones de { -sync-brand-short-name } y marca'l caxellu «Cuentes».
-       *[other] ¿Quies tener les tos cuentes onde uses { -brand-product-name }? Vete a les preferencies de { -sync-brand-short-name } y marca'l caxellu «Cuentes».
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Dir a les opciones de { -sync-brand-short-name }
-           *[other] Dir a les preferencies de { -sync-brand-short-name }
-        }
-    .accesskey = D
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Nun m'entrugar más
-    .accesskey = N
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Encaboxar
 confirmation-dialog-dismiss-button =
     .title = Encaboxar
+
 about-logins-confirm-remove-dialog-title = ¿Quitar esta cuenta?
 confirm-delete-dialog-message = Esta aición nun pue desfacese.
 about-logins-confirm-remove-dialog-confirm-button = Quitar
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Quitar
         [one] Quitar
        *[other] Quitar too
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Sí, quitar esta cuenta
         [one] Sí, quitar esta cuenta
        *[other] Sí, quitar estes cuentes
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] ¿Quitar { $count } cuenta?
@@ -197,6 +175,7 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Esto va quitar la cuenta que guardares en { -brand-short-name } y cualesquier alerta d'arrampuñamientu qu'apaeza equí. Nun vas ser a desfacer esta aición.
        *[other] Esto va quitar les cuentes que guardares en { -brand-short-name } y cualesquier alerta d'arrampuñamientu qu'apaeza equí. Nun vas ser a desfacer esta aición.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] ¿Quitar { $count } cuenta de tolos preseos?
@@ -208,11 +187,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Esto va quitar la cuenta que guardares nel { -brand-short-name } de tolos preseos sincronizaos cola to { -fxaccount-brand-name }. Tamién va quitar les alertes d'arrampuñamientu qu'apaezan equí. Nun vas ser a desfacer esta aición.
        *[other] Esto va quitar les cuentes que guardares nel { -brand-short-name } de tolos preseos sincronizaos cola to { -fxaccount-brand-name }. Tamién va quitar les alertes d'arrampuñamientu qu'apaezan equí. Nun vas ser a desfacer esta aición.
     }
+
 about-logins-confirm-export-dialog-title = Esportación de cuentes y contraseñes
 about-logins-confirm-export-dialog-message = Les contraseñes van guardase como testu lleíble (por exemplu: C0ntR4s4ñ4M4l4), polo que tol mundu va poder abrir el ficheru esportáu y veles.
 about-logins-confirm-export-dialog-confirm-button = Esportar…
+
 about-logins-alert-import-title = Completóse la importación
 about-logins-alert-import-message = Mira'l sumariu detalláu de la importación
+
 confirm-discard-changes-dialog-title = ¿Escartar los cambeos ensin guardar?
 confirm-discard-changes-dialog-message = Van perdese tolos cambeos ensin guardar.
 confirm-discard-changes-dialog-confirm-button = Escartar
@@ -243,6 +225,7 @@ about-logins-vulnerable-alert-learn-more-link = Lleer más
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Yá esiste una entrada pa «{ $loginTitle }» con esi nome d'usuariu. <a data-l10n-name="duplicate-link">¿Dir a la entrada esistente?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Asocedió un fallu al tentar de guardar esta contraseña.
 
@@ -292,11 +275,13 @@ about-logins-import-dialog-items-added =
         [one] <span>Cuentes amestaes:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Cuentes amestaes:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Cuentes anovaes:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Cuentes anovaes:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Cuentes duplicaes:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importó)</span>
@@ -308,6 +293,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Fallos:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nun s'importaron)</span>
     }
 about-logins-import-dialog-done = Fecho
+
 about-logins-import-dialog-error-title = Fallu de la importación
 about-logins-import-dialog-error-conflicting-values-title = Una cuenta tien dellos valores en conflictu
 about-logins-import-dialog-error-conflicting-values-description = Por exemplu: nomes d'usuariu, contraseñes o URL múltiples pa una cuenta.
@@ -320,8 +306,10 @@ about-logins-import-dialog-error-unable-to-read-description = Asegúrate de qu'e
 about-logins-import-dialog-error-no-logins-imported = Nun s'importó nenguna cuenta
 about-logins-import-dialog-error-learn-more = Lleer más
 about-logins-import-dialog-error-cancel = Encaboxar
+
 about-logins-import-report-title = Sumariu de la importación
 about-logins-import-report-description = Cuentes y contraseñes importaes a { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

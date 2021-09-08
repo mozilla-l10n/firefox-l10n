@@ -83,10 +83,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Sans Serif
 
-font-size-label =
-    .value = Tamañu:
-    .accesskey = u
-
 font-size-monospace-label =
     .value = Tamañu:
     .accesskey = i

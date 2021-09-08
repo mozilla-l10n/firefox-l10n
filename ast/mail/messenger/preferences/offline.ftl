@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Siguir automáticamente l'estáu deteutáu en llinia
     .accesskey = d
 
-startup-label = Estáu manual al aniciar:
-
 status-radio-remember =
     .label = Recordar l'estáu de conexón anterior
     .accesskey = R

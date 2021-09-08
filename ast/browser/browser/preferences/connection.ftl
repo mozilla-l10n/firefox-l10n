@@ -35,9 +35,6 @@ connection-proxy-http = Proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Puertu
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Usar tamién esti proxy pa FTP y HTTPS
-    .accesskey = t
 
 connection-proxy-https-sharing =
     .label = Usar tamién esti proxy pa HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = Proxy HTTPS
     .accesskey = H
 connection-proxy-ssl-port = Puertu
     .accesskey = u
-
-connection-proxy-ftp = Proxy FTP
-    .accesskey = F
-connection-proxy-ftp-port = Puertu
-    .accesskey = r
 
 connection-proxy-socks = Agospiador SOCKS
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Ensin proxy pa
     .accesskey = E
 
 connection-proxy-noproxy-desc = Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Les conexones a localhost, 127.0.0.1 y ::1 enxamás pasen per un proxy.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Les conexones a localhost, 127.0.0.1/8 y ::1 enxamás pasen per un proxy.

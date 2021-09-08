@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Esceiciones
     .style = width: 36em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = Direición del sitiu web:
     .accesskey = D

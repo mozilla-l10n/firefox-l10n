@@ -3,13 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opciones
-           *[other] Preferencies
-        }
-
 pane-compose-title = Redaición
 category-compose =
     .tooltiptext = Redaición
@@ -59,10 +52,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Personalizar…
     .accesskey = P
-
-tray-icon-label =
-    .label = Amosar un iconu na bandexa
-    .accesskey = a
 
 mail-custom-sound-label =
     .label = Usar el siguiente ficheru de soníu
@@ -233,9 +222,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Color:
     .accesskey = o
-
-search-input =
-    .placeholder = Guetar
 
 type-column-label =
     .label = Triba de conteníu
@@ -446,16 +432,6 @@ passwords-description = { -brand-short-name } pue recordar les contraseñes de t
 
 passwords-button =
     .label = Contraseñes guardaes…
-    .accesskey = C
-
-master-password-description = Una contraseña maestra protexe toles contraseñes, pero tienes d'introducila una vegada por sesión.
-
-master-password-label =
-    .label = Usar una contraseña maestra
-    .accesskey = U
-
-master-password-button =
-    .label = Camudar contraseña maestra…
     .accesskey = C
 
 

@@ -6,8 +6,4 @@
 <!ENTITY helpMenu.accesskey "u">
 <!ENTITY helpMenuWin.label "Ayuda">
 <!ENTITY helpMenuWin.accesskey "u">
-<!ENTITY helpTroubleshootingInfo.label "Información sobre resolución de problemes">
-<!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY helpSafeMode.label "Reaniciar colos complementos desactivaos…">
-<!ENTITY helpSafeMode.accesskey "R">
 

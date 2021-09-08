@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Llimpiar">
 
-<!ENTITY fillLoginMenu.label          "Rellenar la cuenta">
-<!ENTITY fillLoginMenu.accesskey      "R">
-<!ENTITY fillPasswordMenu.label       "Rellenar la contraseña">
-<!ENTITY fillPasswordMenu.accesskey   "R">
-<!ENTITY fillUsernameMenu.label       "Rellenar el nome d'usuariu">
-<!ENTITY fillUsernameMenu.accesskey   "R">
-<!ENTITY noLoginSuggestions.label     "(Nun hai cuentes pa suxerir)">
-<!ENTITY viewSavedLogins.label        "Ver les cuentes guardaes">
