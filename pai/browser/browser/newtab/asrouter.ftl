@@ -33,11 +33,7 @@ cfr-protections-panel-link-text = Terabum ŕpo
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-cta = Terabum ŕpo
-
 ## Permission Prompt
-
-cfr-whatsnew-permission-prompt-cta = Terabum ŕpo
 
 ## Fingerprinter Counter
 
@@ -55,9 +51,6 @@ cfr-whatsnew-permission-prompt-cta = Terabum ŕpo
 
 
 ## Social Tracking Protection
-
-cfr-doorhanger-socialtracking-close-button = Ŕ´amch
-    .accesskey = Ŕ
 
 ## Enhanced Tracking Protection Milestones
 
@@ -84,4 +77,10 @@ cfr-doorhanger-socialtracking-close-button = Ŕ´amch
 ## Fission Experiment Message
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

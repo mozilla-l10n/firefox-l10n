@@ -148,8 +148,6 @@ content-blocking-learn-more = Terabum ŕpo
 
 permissions-notification-link = Terabum ŕpo
 
-permissions-a11y-privacy-link = Terabum ŕpo
-
 ## Privacy Section - Data Collection
 
 collection-health-report-telemetry-disabled-link = Terabum ŕpo
@@ -157,8 +155,6 @@ collection-health-report-telemetry-disabled-link = Terabum ŕpo
 collection-health-report-link = Terabum ŕpo
 
 addon-recommendations-link = Terabum ŕpo
-
-collection-backlogged-crash-reports-link = Terabum ŕpo
 
 ## Privacy Section - Security
 ##
@@ -168,10 +164,6 @@ collection-backlogged-crash-reports-link = Terabum ŕpo
 security-enable-safe-browsing-link = Terabum ŕpo
 
 ## Privacy Section - Certificates
-
-space-alert-learn-more-button =
-    .label = Terabum Ŕpo
-    .accesskey = T
 
 ## Privacy Section - HTTPS-Only
 
