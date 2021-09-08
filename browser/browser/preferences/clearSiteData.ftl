@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Wužaduje sej, zo websydła wobrazy a daty znowa začitaja
 
-clear-site-data-cancel =
-    .label = Přetorhnyć
-    .accesskey = t
-
-clear-site-data-clear =
-    .label = Zhašeć
-    .accesskey = h
-
 clear-site-data-dialog =
     .buttonlabelaccept = Zhašeć
     .buttonaccesskeyaccept = h

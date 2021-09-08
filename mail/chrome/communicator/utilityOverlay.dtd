@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "W">
 <!ENTITY deleteCmd.label          "Wotstronić">
 <!ENTITY deleteCmd.accesskey        "r">
-<!ENTITY preferencesCmd2.label "Nastajenja">
-<!ENTITY preferencesCmd2.accesskey "N">
-<!ENTITY preferencesCmdUnix.label       "Nastajenja">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY customizeCmd.label "Přiměrić">
 <!ENTITY customizeCmd.accesskey "m">

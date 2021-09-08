@@ -20,16 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Wšě rajtarki wubrać
     .accesskey = u
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Začinjeny rajtark wočinić
-            [one] Začinjeny rajtark wočinić
-            [two] Začinjenej rajtarkaj wočinić
-            [few] Začinjene rajtarki wočinić
-           *[other] Začinjene rajtarki wočinić
-        }
-    .accesskey = Z
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -62,9 +52,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = K přeběžkowemu menijej připjeć
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = W symbolowej lajsće awtomatisce schować
-    .accesskey = s
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Tłóčatko schować, hdyž prózdne
     .accesskey = T

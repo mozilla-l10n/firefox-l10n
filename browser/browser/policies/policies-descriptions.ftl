@@ -65,8 +65,6 @@ policy-DisableForgetButton = Přistup na tłóčatko Zabyć zakazać.
 
 policy-DisableFormHistory = Pytansku a formularnu historiju sej njespomjatkować
 
-policy-DisableMasterPasswordCreation = Jeli wěrno, njeda so hłowne hesło wutworić.
-
 policy-DisablePrimaryPasswordCreation = Jeli to trjechi, njeda so hłowne hesło wutworić.
 
 policy-DisablePasswordReveal = Njedowolić, zo so hesła w składowanych přizjewjenjach pokazuja
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Zestarjene zadźeržen
 policy-LocalFileLinks = Wěstym websydłam dowolić, na lokalne dataje wotkazać.
 
 policy-ManagedBookmarks = Konfiguruje lisćinu zapołožkow, kotrež administrator rjaduje a kotrež wužiwar njemóže změnić.
-
-policy-MasterPassword = Hłowne hesło požadać abo jeho wužiwanju zadźěwać
 
 policy-ManualAppUpdateOnly = Jenož manuelne aktualizacije dowolić a wužiwarja wo aktualizacijach njeinformować.
 

@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Wotkrytemu online-statusej awtomatisce slědować
     .accesskey = o
 
-startup-label = Manuelny status při startowanju:
-
 offline-preference-startup-label = Manuelny status při startowanju:
 
 status-radio-remember =

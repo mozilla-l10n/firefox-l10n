@@ -6,9 +6,6 @@ password-quality-meter = Kwalitne měritko hesła
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Hłowne hesło změnić
-
 change-device-password-window =
     .title = Hesło změnić
 
@@ -20,10 +17,6 @@ change-password-new = Nowe hesło:
 change-password-reenter = Nowe hesło (hišće raz):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Hłowne hesło wróćo stajić
-    .style = width: 40em
 
 pippki-failed-pw-change = Njeje móžno, hesło změnić.
 pippki-incorrect-pw = Njejsće prawe hesło zapodał. Prošu spytajće hišće raz.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Wróćo stajić
-reset-password-text = Jeli swoje hłowne hesło wróćo stajiće, zabudu se wšě waše składowane webowe a e-mejlowe hesła, formularne daty, wosobinski certifikata a priwatne kluče. Chceće woprawdźe swoje hłowne hesło wróćo stajić?
 
 reset-primary-password-text = Jeli swoje hłowne hesło wróćo stajiće, zabudu se wšě waše składowane webowe a e-mejlowe hesła, wosobinski certifikata a priwatne kluče. Chceće woprawdźe swoje hłowne hesło wróćo stajić?
 

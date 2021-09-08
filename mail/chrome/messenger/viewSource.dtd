@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Stronu składować jako…">
 <!ENTITY savePageCmd.accesskey "S">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Stronu připrawić…">
-<!ENTITY pageSetupCmd.accesskey "r">
-<!ENTITY printPreviewCmd.label "Ćišćerski přehlad">
-<!ENTITY printPreviewCmd.accesskey "h">
 <!ENTITY printCmd.label "Ćišćeć…">
 <!ENTITY printCmd.accesskey "i">
 <!ENTITY printCmd.commandkey "P">

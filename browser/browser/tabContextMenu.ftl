@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Rajtark jako zapołožku składować
     .accesskey = z
-reopen-in-container =
-    .label = W kontejnerje znowa wočinić
-    .accesskey = k
 tab-context-open-in-new-container-tab =
     .label = W nowym kontejnerowym rajtarku wočinić
     .accesskey = k
@@ -69,28 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Wjacore rajtarki začinić
     .accesskey = W
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] { $tabCount } začinjeny rajtark wočinić
-            [one] { $tabCount } začinjeny rajtark wočinić
-            [two] { $tabCount } začinjenej rajtarkaj wočinić
-            [few] { $tabCount } začinjene rajtarki wočinić
-           *[other] { $tabCount } začinjene rajtarki wočinić
-        }
-    .accesskey = z
-close-tab =
-    .label = Rajtark začinić
-    .accesskey = z
-close-tabs =
-    .label = Rajtarki začinić
-    .accesskey = z
-move-tabs =
-    .label = Rajtarki přesunyć
-    .accesskey = s
-move-tab =
-    .label = Rajtark přesunyć
-    .accesskey = s
 tab-context-share-url =
     .label = Dźělić
     .accesskey = D
@@ -140,6 +115,7 @@ tab-context-move-tabs =
            *[other] { $tabCount } rajtarkow přesunyć
         }
     .accesskey = s
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

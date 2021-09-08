@@ -129,10 +129,6 @@ openpgp-key-send-key =
     .label = Zjawny kluč přez e-mejl pósłać
     .accesskey = m
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Zjawne kluče do mjezyskłada kopěrować
-    .accesskey = m
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -165,8 +161,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Kluče do dataje eksportować
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Zjawne kluče do mjezyskłada kopěrować
 
 openpgp-key-man-ctx-copy =
     .label = Kopěrować
@@ -326,17 +320,6 @@ openpgp-description =
        *[other] Thunderbird ma { $count } wosobinskich OpenPGP-klučow za <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Wubjerće płaćiwy kluč, zo byšće OpenPGP-protokol zmóžnił.
-        [one] Waša aktualna konfiguracija klučowy ID <b>{ $key }</b> wužiwa
-        [two] Waša aktualna konfiguracija klučowej ID <b>{ $key }</b> wužiwa
-        [few] Waša aktualna konfiguracija klučowe ID <b>{ $key }</b> wužiwa
-       *[other] Waša aktualna konfiguracija klučowe ID <b>{ $key }</b> wužiwa
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Waša aktualna konfiguracija klučowe ID <b>{ $key }</b> wužiwa
 
@@ -369,14 +352,8 @@ openpgp-radio-key-not-found = Tutón kluč njeda so namakać! Jeli chceće jón 
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Spadnje: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Kluč za mjenje hač 6 měsacow spadnje
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Je spadnył: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Kluč je spadnył
 
 openpgp-key-expires-within-6-months-icon =
     .title = Kluč za mjenje hač 6 měsacow spadnje
@@ -700,7 +677,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Sće linkowe łamanje pola { $width } znamješkow nastajił. Za korektne zaklučowanje a/abo signowanje, dyrbi tuta hódnota znamjeńša 68 być.
     Chceće nětko linkowe łamanje do 68 znamješkow změnić?
-sending-hidden-rcpt = Přijimarjo schowanych kopijow (BCC) njedadźa so wužiwać, hdyž so zaklučowana powěsć sćele. Zo byšće tutu zaklučowanu powěsć pósłał, wotstrońće pak přijimarjow schowanych kopijow pak přesuńće jich do pola Kopija.
 sending-news =
     Zaklučowane słanje je so přetorhnyło.
     Tuta powěsć njeda so zaklučować, dokelž přijimarjo diskusijneje skupiny njejsu. Prošu sćelće powěsć znowa bjez zaklučowanja.
@@ -767,9 +743,6 @@ enig-info = OpenPGP-informacije
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Hišće raz spytać
 dlg-button-skip = &Přeskočić
-
-# Strings used in enigmailCommon.js
-enig-error = OpenPGP-zmylk
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

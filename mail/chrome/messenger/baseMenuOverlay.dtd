@@ -11,13 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "P">
 <!ENTITY aboutProduct2.label "Wo &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "W">
-<!ENTITY helpTroubleshootingInfo.label     "Informacije wo problemach">
-<!ENTITY helpTroubleshootingInfo.accesskey "I">
-<!ENTITY helpSafeMode.label     "Ze znjemóžnjenymi přidatkami startować…">
-<!ENTITY helpSafeMode.accesskey "Z">
 
-<!ENTITY helpSafeMode.stop.label     "Ze zmóžnjenymi přidatkami znowa startować">
-<!ENTITY helpSafeMode.stop.accesskey "Z">
 <!ENTITY productHelp.label "Pomoc &brandShortName;">
 <!ENTITY productHelp.accesskey "P">
 <!ENTITY productHelp.commandkey "VK_F1">

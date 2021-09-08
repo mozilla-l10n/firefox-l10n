@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Foto wobrazowki činić
-
-screenshots-my-shots-button = Moje fota wobrazowki
-
 screenshot-toolbarbutton =
     .label = Foto wobrazowki
     .tooltiptext = Foto wobrazowki činić
@@ -40,8 +36,6 @@ screenshots-login-error-details = Njemóžachmy swoje foto wobrazowki składowa�
 
 screenshots-unshootable-page-error-title = Foto wobrazowki tuteje strony móžne njeje.
 screenshots-unshootable-page-error-details = To standardna webstrona njeje, tohodla foto wobrazowki wot njeje móžne njeje.
-
-screenshots-self-screenshot-error-title = Njemóžeće wobrazowku strony { -screenshots-brand-name } fotografować!
 
 screenshots-empty-selection-error-title = Waš wuběr je přemały
 

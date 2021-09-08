@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR-nastajenja
 otr-log =
     .label = Zaklučowane OTR-powěsće do rozmołwnych protokolow přiwzać
-otr-requireEncryption =
-    .label = Zaklučowanje wot kónca do kónca za rozmołwy mjez dwěmaj wosobomaj požadać
-otr-verifyNudge =
-    .label = Mje přeco na to dopomnić, njepřepruwowany kontakt přepruwować
-
-otr-notYetAvailable = hišće k dispoziciji njeje
 
 otr-require-encryption =
     .label = Zaklučowanje wot kónca do kónca za rozmołwy mjez jednotliwcami požadać

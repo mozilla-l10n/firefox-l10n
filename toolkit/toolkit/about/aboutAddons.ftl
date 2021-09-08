@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Zrjadowak přidatkow
-
 addons-page-title = Zrjadowak přidatkow
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Pomoc za přidatki
 sidebar-help-button-title =
     .title = Pomoc za přidatki
 
-preferences =
-    { PLATFORM() ->
-        [windows] Nastajenja { -brand-short-name }
-       *[other] Nastajenja { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Nastajenja { -brand-short-name }
-           *[other] Nastajenja { -brand-short-name }
-        }
-
 addons-settings-button = Nastajenja { -brand-short-name }
 sidebar-settings-button-title =
     .title = Nastajenja { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Wšě rozšěrjenja pokazać
-
-cmd-show-details =
-    .label = Dalše informacije pokazać
-    .accesskey = D
-
-cmd-find-updates =
-    .label = Aktualizacije pytać
-    .accesskey = A
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Nastajenja
-           *[other] Nastajenja
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] N
-        }
-
-cmd-enable-theme =
-    .label = Drastu wužiwać
-    .accesskey = D
-
-cmd-disable-theme =
-    .label = Drastu wjace njewužiwać
-    .accesskey = w
-
-cmd-install-addon =
-    .label = Instalować
-    .accesskey = I
-
-cmd-contribute =
-    .label = Přinošować
-    .accesskey = P
-    .tooltiptext = K wuwiću tutoho přidatka přinošować
 
 detail-version =
     .label = Wersija
@@ -395,8 +343,6 @@ dictionary-disabled-heading = Znjemóžnjeny
 
 locale-enabled-heading = Zmóžnjeny
 locale-disabled-heading = Znjemóžnjeny
-
-ask-to-activate-button = Za aktiwizowanje so prašeć
 
 always-activate-button = Přeco aktiwizować
 never-activate-button = Ženje njeaktiwizować

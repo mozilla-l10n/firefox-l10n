@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Nowy kontejner přidać
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Nastajenja kontejnera { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Symbol
 containers-color-label = Barba
     .accesskey = B
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Hotowo
-    .accesskey = H
 
 containers-dialog =
     .buttonlabelaccept = Hotowo
