@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Cemût funzionial?
 
-turn-on-sync = Ative { -sync-brand-short-name }…
-    .title = Va tes preferencis de sincronizazion
-
 monitor-title = Ten di voli lis violazions di dâts
 monitor-link = Cemût funzionial?
 monitor-header-content-no-account = Controle { -monitor-brand-name } par viodi se tu sês stât cjapât dentri di une violazion di dâts e otignî avîs in merit a gnovis violazions.

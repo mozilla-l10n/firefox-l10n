@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Torne indaûr di une pagjine
-    .aria-label = Indaûr
-    .accesskey = D
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Va indenant di une pagjine
-    .aria-label = Indenant
-    .accesskey = I
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -116,9 +94,6 @@ main-context-menu-page-save =
     .label = Salve pagjine come…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -179,10 +154,6 @@ main-context-menu-open-link-new-private-window =
     .label = Vierç colegament intun gnûf barcon privât
     .accesskey = p
 
-main-context-menu-bookmark-this-link =
-    .label = Zonte chest colegament ai segnelibris
-    .accesskey = l
-
 main-context-menu-bookmark-link =
     .label = Zonte colegament ai segnelibris
     .accesskey = b
@@ -207,10 +178,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Copie la direzion di pueste eletroniche
     .accesskey = e
-
-main-context-menu-copy-link =
-    .label = Copie la direzion dal colegament
-    .accesskey = C
 
 main-context-menu-copy-link-simple =
     .label = Copie colegament
@@ -239,32 +206,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Ative l'audio
     .accesskey = a
-
-main-context-menu-media-play-speed =
-    .label = Velocitât di riproduzion
-    .accesskey = V
-
-main-context-menu-media-play-speed-slow =
-    .label = Lente (0.5×)
-    .accesskey = L
-
-main-context-menu-media-play-speed-normal =
-    .label = Normâl
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = Svelte (1.25×)
-    .accesskey = S
-
-main-context-menu-media-play-speed-faster =
-    .label = Plui svelte (1.5×)
-    .accesskey = P
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Imburide (2×)
-    .accesskey = I
 
 main-context-menu-media-play-speed-2 =
     .label = Velocitât
@@ -312,12 +253,6 @@ main-context-menu-media-video-leave-fullscreen =
 
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = Picture-in-Picture
-    .accesskey = u
-
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
     .label = Cjale in modalitât Picture-in-Picture
     .accesskey = u
@@ -325,14 +260,6 @@ main-context-menu-media-watch-pip =
 main-context-menu-image-reload =
     .label = Torne cjame la imagjin
     .accesskey = r
-
-main-context-menu-image-view =
-    .label = Visualize imagjin
-    .accesskey = z
-
-main-context-menu-video-view =
-    .label = Visualize video
-    .accesskey = i
 
 main-context-menu-image-view-new-tab =
     .label = Vierç imagjin intune gnove schede
@@ -344,18 +271,6 @@ main-context-menu-video-view-new-tab =
 
 main-context-menu-image-copy =
     .label = Copie la imagjin
-    .accesskey = o
-
-main-context-menu-image-copy-location =
-    .label = Copie la direzion de imagjin
-    .accesskey = C
-
-main-context-menu-video-copy-location =
-    .label = Copie direzion video
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Copie direzion audio
     .accesskey = o
 
 main-context-menu-image-copy-link =
@@ -378,10 +293,6 @@ main-context-menu-image-email =
     .label = Mande imagjin vie e-mail...
     .accesskey = e
 
-main-context-menu-image-set-as-background =
-    .label = Met come fondâl dal scritori…
-    .accesskey = d
-
 main-context-menu-image-set-image-as-background =
     .label = Met imagjin come fondâl di scritori…
     .accesskey = s
@@ -401,10 +312,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Salve audio come…
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = Salve istantanie come...
-    .accesskey = S
 
 main-context-menu-video-take-snapshot =
     .label = Cature istantanie…
@@ -433,14 +340,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = Mande pagjine a dispositîf
     .accesskey = d
-
-main-context-menu-view-background-image =
-    .label = Visualize la imagjin di fonts
-    .accesskey = f
-
-main-context-menu-generate-new-password =
-    .label = Dopre password gjenerade…
-    .accesskey = g
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -528,10 +427,6 @@ main-context-menu-view-page-source =
     .label = Visualize il codiç sorzint de pagjine
     .accesskey = ç
 
-main-context-menu-view-page-info =
-    .label = Visualize informazions su la pagjine
-    .accesskey = i
-
 main-context-menu-bidi-switch-text =
     .label = Cambie la direzion dal test
     .accesskey = d
@@ -539,10 +434,6 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Cambie la direzion de pagjine
     .accesskey = d
-
-main-context-menu-inspect-element =
-    .label = Ispezione element
-    .accesskey = Q
 
 main-context-menu-inspect =
     .label = Ispezione
@@ -554,3 +445,4 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Plui informazions sui DRM…
     .accesskey = D
+

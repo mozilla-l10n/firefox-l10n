@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Cature une videade
-
-screenshots-my-shots-button = Mês istantaniis
-
 screenshot-toolbarbutton =
     .label = Videade
     .tooltiptext = Cature une videade
@@ -40,8 +36,6 @@ screenshots-login-error-details = No podìn salvâ la tô istantanie par vie che
 
 screenshots-unshootable-page-error-title = No podìn caturâ la videade di cheste pagjine.
 screenshots-unshootable-page-error-details = Cheste no je une pagjine web standard, duncje no tu puedis caturâ une sô videade.
-
-screenshots-self-screenshot-error-title = No tu puedis caturâ une istantanie di une pagjine di { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = La aree di selezion e je masse  piçule
 

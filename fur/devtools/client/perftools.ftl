@@ -97,8 +97,6 @@ perftools-thread-img-decoder =
     .title = Threads pe decodifiche des imagjins
 perftools-thread-dns-resolver =
     .title = La risoluzion dal DNS e ven fate su chest thread
-perftools-thread-js-helper =
-    .title = Il lavôr in sotfont dal motôr JS come lis compilazions fûr dal thread principâl (off-main-thread)
 
 ##
 

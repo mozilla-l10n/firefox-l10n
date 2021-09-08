@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = I sîts web a varan di tornâ a cjariâ lis imagjinis e i dâts
 
-clear-site-data-cancel =
-    .label = Anule
-    .accesskey = A
-
-clear-site-data-clear =
-    .label = Elimine
-    .accesskey = E
-
 clear-site-data-dialog =
     .buttonlabelaccept = Nete
     .buttonaccesskeyaccept = N

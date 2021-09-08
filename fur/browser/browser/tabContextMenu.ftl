@@ -48,9 +48,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Met tai segnelibris la schede
     .accesskey = B
-reopen-in-container =
-    .label = Torne vierç intun contignidôr
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Vierç intune gnove schede contignidôr
     .accesskey = e
@@ -66,26 +63,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Siere multiplis schedis
     .accesskey = M
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Anule il sierâ la schede
-            [one] Anule il sierâ la schede
-           *[other] Anule il sierâ lis schedis
-        }
-    .accesskey = u
-close-tab =
-    .label = Siere schede
-    .accesskey = S
-close-tabs =
-    .label = Siere schedis
-    .accesskey = S
-move-tabs =
-    .label = Sposte schedis
-    .accesskey = o
-move-tab =
-    .label = Sposte schede
-    .accesskey = p
 tab-context-share-url =
     .label = Condivît
     .accesskey = C
@@ -119,6 +96,7 @@ tab-context-move-tabs =
            *[other] Sposte schedis
         }
     .accesskey = h
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

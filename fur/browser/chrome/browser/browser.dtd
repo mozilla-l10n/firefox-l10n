@@ -5,19 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Vierç il menù">
-
 <!ENTITY navbarOverflow.label                "Altris struments…">
 
 <!-- Tab context menu -->
-
-<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
-used as a metaphor for expressing the fact that these tabs are "pinned" to the
-left edge of the tabstrip. Really we just want the string to express the idea
-that this is a lightweight and reversible action that keeps your tab where you
-can reach it easily. -->
-<!ENTITY  pinTab.label                       "Fisse la schede">
-<!ENTITY  unpinTab.label                     "Mole la schede">
 
 <!ENTITY  listAllTabs.label      "Liste dutis lis schedis">
 
@@ -25,78 +15,27 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Vierç file…">
 <!ENTITY printCmd.label "Stampe…">
 
-<!ENTITY taskManagerCmd.label "Gjestôr ativitâts">
-
 <!ENTITY menubarCmd.label "Sbare dai menù">
 <!ENTITY menubarCmd.accesskey "m">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Navigazion">
-<!ENTITY personalbarCmd.label "Sbare dai segnelibris">
-<!ENTITY personalbarCmd.accesskey "B">
-<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
-include the word "toolbar" or such, because screen readers already know that
-this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbar.accessibleLabel "Segnelibris">
-<!ENTITY bookmarksToolbarItem.label "Elements de sbare dai segnelibris">
 
 <!ENTITY fullScreenCmd.label "A plen visôr">
 
 <!ENTITY pictureInPictureHideToggle.label "Plate seletôr pal Picture-in-Picture">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
-<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
-     followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings2.label "Impostazions di &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "Conet un altri dispositîf…">
-<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signin.label "Jentre su &brandProductName;">
-<!ENTITY fxa.menu.turnOnSync.label "Ative &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.firefoxServices.label "Servizis di &brandProductName;">
-<!ENTITY fxa.menu.account.label "Account">
-<!ENTITY fxa.menu.settings.label "Impostazions">
-<!ENTITY fxa.menu.accountSettings.label "Impostazions account">
-<!ENTITY fxa.menu.manageAccount2.label "Gjestìs account">
-<!ENTITY fxa.menu.signOut.label "Disconet…">
-<!ENTITY fxa.menu.setupSync.label "Configure &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 <!ENTITY fxa.service.sendTab.description "Invie une schede daurman a ducj i dispositîfs conetûts al to account.">
-
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "al è cumò a plen visôr">
-<!ENTITY fullscreenWarning.generic.label "Chest document cumò al è a plen visôr">
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
-     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
-     is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Jes dal plen visôr (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Jes dal plen visôr (esc)">
-
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "al à il control dal to pontadôr. Frache Esc par tornâ a cjapâ il control.">
-<!ENTITY pointerlockWarning.generic.label "Chest document al à il control dal to pontadôr. Frache Esc par tornâ a cjapâ il control.">
-
-<!ENTITY showAllBookmarks2.label "Mostre ducj i segnelibris">
-<!ENTITY recentBookmarks.label "Metûts tai segnelibris di resint">
-<!ENTITY bookmarksToolbarChevron.tooltip "Fâs viodi altris segnelibris">
 
 <!ENTITY printButton.label            "Stampe">
 <!ENTITY printButton.tooltip          "Stampe cheste pagjine">
@@ -107,28 +46,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY homeButton.label             "Cjase">
 <!ENTITY homeButton.defaultPage.tooltip "Pagjine iniziâl di &brandShortName;">
 
-<!ENTITY bookmarksButton.label          "Segnelibris">
-
-<!ENTITY bookmarksSubview.label             "Segnelibris">
-<!ENTITY bookmarksMenuButton2.label         "Menù dai segnelibris">
-<!ENTITY bookmarksMenuButton.other.label    "Altris segnelibris">
-<!ENTITY bookmarksMenuButton.mobile.label   "Segnelibris mobii">
-<!ENTITY viewBookmarksSidebar2.label        "Viôt la sbare laterâl dai Segnelibris">
-<!ENTITY hideBookmarksSidebar.label         "Plate la sbare laterâl dai segnelibris">
-<!ENTITY viewBookmarksToolbar.label         "Visualize la sbare dai segnelibris">
-<!ENTITY hideBookmarksToolbar.label         "Plate la sbare dai segnelibris">
-<!ENTITY searchBookmarks.label              "Cîr segnelibris">
-<!ENTITY bookmarkingTools.label             "Imprescj pai segnelibris">
-<!ENTITY addBookmarksMenu.label             "Zonte il menù dai segnelibris te sbare dai struments">
-<!ENTITY removeBookmarksMenu.label          "Gjave menù dai segnelibris de sbare dai struments">
-
 <!ENTITY historyButton.label            "Cronologjie">
 
 <!ENTITY downloads.label              "Discjamâts">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
 <!ENTITY libraryDownloads.label       "Discjamâts">
-<!ENTITY addons.label                 "Zontis">
 
 <!ENTITY webDeveloperMenu.label       "Svilupadôr Web">
 
@@ -145,28 +68,11 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY historyMenu.label "Cronologjie">
 
-<!ENTITY historyUndoMenu.label "Schedis sieradis di resint">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Barcons sierâts di resint">
-
-<!ENTITY appMenuHistory.showAll.label "Visualize dute la cronologjie">
-
-<!ENTITY appMenuHistory.clearRecent.label "Nete la cronologjie resinte...">
-<!ENTITY appMenuHistory.restoreSession.label "Ripristine la session precedente">
-<!ENTITY appMenuHistory.viewSidebar.label "Visualize la sbare laterâl de cronologjie">
-<!ENTITY appMenuHistory.hideSidebar.label "Plate la sbare laterâl de cronologjie">
-<!ENTITY appMenuHistory.recentHistory.label "Cronologjie resinte">
-
 <!ENTITY appMenuHelp.label "Jutori">
-
-<!ENTITY appMenuRemoteTabs.label "Schedis sincronizadis">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nissune schede vierte">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Mostre di plui">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Mostre plui schedis di chest dispositîf">
@@ -184,14 +90,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Vierç lis preferencis di sincronizazion">
 <!ENTITY appMenuRemoteTabs.welcome.label "Visualize une liste di schedis dai tiei altris dispositîfs.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Al è necessari verificâ il to account.">
-<!ENTITY appMenuRemoteTabs.signintosync.label "Jentre su &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.turnonsync.label "Ative &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Gjestìs dispositîfs…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Visualize la sbare laterâl des schedis sincronizadis">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "Plate la sbare laterâl des schedis sincronizadis">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conet un altri dispositîf">
-
-<!ENTITY appMenuRecentHighlights.label "Elements in evidence resints">
 
 <!ENTITY customizeMenu.addToToolbar.label "Zonte ae sbare dai struments">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Z">
@@ -203,8 +102,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Mole dal menù sprolungje">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "O">
-<!ENTITY customizeMenu.removeFromToolbar.label "Gjave de sbare dai struments">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "G">
 <!ENTITY customizeMenu.addMoreItems.label "Zonte plui elements…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Z">
 
@@ -222,25 +119,9 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 
-<!ENTITY pageAction.copyLink.label    "Copie colegament">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-<!ENTITY saveToPocketCmd.label        "Salve pagjine su Pocket">
-<!ENTITY pocketMenuitem.label         "Viôt la liste di Pocket">
-
-<!ENTITY emailPageCmd.label           "Mande colegament vie e-mail...">
-
 <!ENTITY fullZoom.label                 "Ingrandiment">
 
 <!ENTITY sidebarCloseButton.tooltip     "Siere la sbare laterâl">
-
-<!ENTITY quitApplicationCmdWin2.label       "Jes">
-<!ENTITY quitApplicationCmdWin2.accesskey   "J">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Jes di &brandShorterName;">
-<!ENTITY quitApplicationCmd.label       "Jes">
-<!ENTITY quitApplicationCmd.accesskey   "J">
-<!ENTITY quitApplicationCmdMac2.label   "Jes di &brandShorterName;">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -260,10 +141,6 @@ this container is a toolbar. This avoids double-speaking. -->
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Schedis dal navigadôr">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
-
-<!ENTITY customizeMode.autoHideDownloadsButton.label "Plate in automatic">
-
 
 <!ENTITY uiTour.infoPanel.close "Siere">
 
@@ -271,15 +148,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY panicButton.thankyou.msg2                "Navigazion sigure!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Ringraciaments">
 
-<!ENTITY updateAvailable.panelUI.label "Discjarie l'inzornament di &brandShorterName;">
-<!ENTITY updateManual.panelUI.label "Discjarie une gnove copie di &brandShorterName;">
-<!ENTITY updateUnsupported.panelUI.label "No tu puedis eseguî altris inzornaments">
-<!ENTITY updateRestart.panelUI.label2 "Torne invie par inzornâ &brandShorterName;">
-
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizazion dispositîfs…">
-
-<!ENTITY pageAction.shareUrl.label "Condivît">
-<!ENTITY pageAction.shareMore.label "Altri…">
 
 <!ENTITY libraryButton.tooltip "Visualize la cronologjie, i segnelibris salvâts e altri">
 

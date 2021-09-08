@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Gjave ducj i sîts web
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Anule
-    .accesskey = A
-
-permissions-button-ok =
-    .label = Salve modifichis
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Salve modifichis
     .buttonaccesskeyaccept = S

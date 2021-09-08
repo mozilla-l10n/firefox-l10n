@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Compuartament pes caturis di videade
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Salve videade intes notis
-options-screenshot-clipboard-tooltip =
-    .title = Al salve la videade dret intes notis
-
 options-screenshot-clipboard-tooltip2 =
     .title = Al salve la videade dret intes notis
 

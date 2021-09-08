@@ -17,38 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Autoritâts
 
-certmgr-detail-general-tab-title =
-    .label = Gjenerâl
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Detais
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Daûr a verificâ il certificât…
-
-certmgr-subject-label = Dât fûr a
-
-certmgr-issuer-label = Dât fûr di
-
-certmgr-fingerprints = Impronts digjitâi
-
-certmgr-cert-detail =
-    .title = Detais dal certificât
-    .buttonlabelaccept = Siere
-    .buttonaccesskeyaccept = S
-
-certmgr-cert-detail-commonname = Non comun (CN)
-
-certmgr-cert-detail-org = Organizazion (O)
-
-certmgr-cert-detail-orgunit = Unitât de organizazion (OU)
-
-certmgr-cert-detail-serial-number = Numar seriâl
-
-certmgr-cert-detail-sha-1-fingerprint = Impront digjitâl SHA1
-
 certmgr-edit-ca-cert =
     .title = Modifiche impostazions afidabilitât dai certificâts CA
     .style = width: 48em;
@@ -73,8 +41,6 @@ certmgr-override-lifetime =
 
 certmgr-token-name =
     .label = Dispositîf di sigurece
-
-certmgr-expires-on = Al scjât ai
 
 certmgr-expires-label =
     .label = Al scjât ai
@@ -108,14 +74,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Impuarte…
     .accesskey = m
-
-certmgr-details =
-    .value = Cjamps dal certificât
-    .accesskey = C
-
-certmgr-fields =
-    .value = Valôr dal cjamp
-    .accesskey = V
 
 certmgr-add-exception =
     .label = Zonte ecezion…
@@ -174,49 +132,12 @@ delete-user-cert-confirm = Vuelistu eliminâ pardabon chescj certificâts?
 delete-user-cert-impact = Se tu eliminis un dai tiei certificâts, no tu podarâs plui doprâlu par identificâti.
 
 
-delete-ssl-cert-title =
-    .title = Elimine lis ecezions di certificât pal servidôr
-delete-ssl-cert-confirm = Vuelistu eliminâ pardabon chestis ecezions di servidôr?
-delete-ssl-cert-impact = Se tu eliminis une ecezion par un servidôr, tu tornarâs a meti in vore i controi di sigurece normâi par chest sît e al coventarà doprâ un certificât valit.
-
-
 delete-email-cert-title =
     .title = Elimine certificâts di pueste eletroniche
 delete-email-cert-confirm = Vuelistu eliminâ pardabon chescj certificâts di pueste eletroniche di chestis personis?
 delete-email-cert-impact = Se tu eliminis il certificât di pueste eletroniche di une persone, no tu podarâs plui mandâi messaçs cifrâts.
 
 ## Cert Viewer
-
-not-present =
-    .value = <Nol è part dal certificât>
-
-# Cert verification
-cert-verified = Chest certificât al è stât verificât par chescj utents:
-
-# Add usage
-verify-ssl-client =
-    .value = Cerificât client SSL
-
-verify-ssl-server =
-    .value = Certificât servidôr SSL
-
-verify-ssl-ca =
-    .value = Autoritât di certificazion SSL
-
-verify-email-signer =
-    .value = Certificât dal firmatari dal messaç
-
-verify-email-recip =
-    .value = Certificât dal destinatari dal messaç
-
-# Cert verification
-cert-not-verified-cert-revoked = No si à podût verificâ chest certificât parcè che al è stât revocât.
-cert-not-verified-cert-expired = No si à podût verificâ chest certificât parcè che al è scjadût.
-cert-not-verified-cert-not-trusted = No si à podût verificâ chest certificât parcè che nol è fidât.
-cert-not-verified-issuer-not-trusted = No si à podût verificâ chest certificât parcè che l'emitent nol è fidât.
-cert-not-verified-issuer-unknown = No si à podût verificâ chest certificât parcè che il mitent nol è cognossût.
-cert-not-verified-ca-invalid = No si à podût verificâ chest certificât parcè che il certificât CA nol è valit.
-cert-not-verified-unknown = No si à podût verificâ chest certificât e no si sa parcè.
 
 ## Used to show whether an override is temporary or permanent
 

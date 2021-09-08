@@ -2,41 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-appmenu-update-available =
-    .label = Al è disponibil un gnûf inzornament par { -brand-shorter-name }.
-    .buttonlabel = Discjame inzornament
-    .buttonaccesskey = D
-    .secondarybuttonlabel = No cumò
-    .secondarybuttonaccesskey = N
-appmenu-update-available-message = Inzorne { -brand-shorter-name } par otignî la velocitât e la riservatece plui resinte.
-appmenu-update-manual =
-    .label = { -brand-shorter-name } nol pues inzornâsi ae ultime version.
-    .buttonlabel = Discjame { -brand-shorter-name }
-    .buttonaccesskey = D
-    .secondarybuttonlabel = No cumò
-    .secondarybuttonaccesskey = N
-appmenu-update-manual-message = Discjame une gnove copie di { -brand-shorter-name } e ti judarìn a instalâle.
-appmenu-update-whats-new =
-    .value = Viôt lis novitâts!
-appmenu-update-unsupported =
-    .label = { -brand-shorter-name } nol rive a inzornâsi ae ultime version.
-    .buttonlabel = Plui informazions
-    .buttonaccesskey = P
-    .secondarybuttonlabel = Siere
-    .secondarybuttonaccesskey = s
-appmenu-update-unsupported-message = Il to sisteme nol è supuartât de ultime version di { -brand-shorter-name }.
-appmenu-update-restart =
-    .label = Torne invie par inzornâ { -brand-shorter-name }.
-    .buttonlabel = Torne a inviâ e ripristine
-    .buttonaccesskey = R
-    .secondarybuttonlabel = No cumò
-    .secondarybuttonaccesskey = N
-appmenu-update-restart-message = Dopo che si sarà tornât a inviâ, { -brand-shorter-name } al ripristinarà ducj i barcons e lis schedis viertis che no son in modalitât navigazion privade.
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Va ben, capît!
-    .buttonaccesskey = V
-appmenu-addon-post-install-message = Gjestìs lis tôs zontis fasint clic <image data-l10n-name='addon-install-icon'></image> intal menù <image data-l10n-name='addon-menu-icon'></image>.
-
 appmenu-update-available2 =
     .label = Inzornament disponibil
     .buttonlabel = Discjame
@@ -81,19 +46,6 @@ appmenu-addon-post-install-incognito-checkbox =
     .label = Permet a cheste estension di zirâ tai barcons privâts
     .accesskey = P
     
-appmenu-new-tab-controlled =
-    .label = La tô gnove schede e je cambiade.
-    .buttonlabel = Ten lis modifichis
-    .buttonaccesskey = T
-    .secondarybuttonlabel = Disabilite la estension
-    .secondarybuttonaccesskey = D
-appmenu-homepage-controlled =
-    .label = La tô pagjine iniziâl e je cambiade.
-    .buttonlabel = Ten lis modifichis
-    .buttonaccesskey = T
-    .secondarybuttonlabel = Disabilite la estension
-    .secondarybuttonaccesskey = D
-
 appmenu-new-tab-controlled-changes =
     .label = La tô gnove schede e je cambiade.
     .buttonlabel = Ten lis modifichis

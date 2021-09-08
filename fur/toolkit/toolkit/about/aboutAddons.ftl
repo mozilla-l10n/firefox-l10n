@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Gjestôr des zontis
-
 addons-page-title = Gjestôr des zontis
 
 search-header-shortcut =
@@ -18,30 +15,6 @@ list-empty-recent-updates =
 
 list-empty-find-updates =
     .label = Cîr inzornaments
-
-cmd-show-details =
-    .label = Mostre altris informazions
-    .accesskey = s
-
-cmd-find-updates =
-    .label = Cîr inzornaments
-    .accesskey = C
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opzions
-           *[other] Preferencis
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-install-addon =
-    .label = Instale
-    .accesskey = I
 
 detail-version =
     .label = Version

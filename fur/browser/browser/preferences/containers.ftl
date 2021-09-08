@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Zonte un gnûf contignidôr
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Preferencis dal contignidôr { $name }
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Icone
 containers-color-label = Colôr
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Fat
-    .accesskey = F
 
 containers-dialog =
     .buttonlabelaccept = Fat

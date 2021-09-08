@@ -101,8 +101,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Numar seriâl
 
-fips-nonempty-password-required = Il mût FIPS al domande che tu vedis stabilide une password gjenerâl par ogni dispositîf di sigurece. Stabilìs par plasê la password prime di provâ a ativâ il mût FIPS.
-
 add-module-failure = Impussibil zontâ il modul
 del-module-warning = Eliminâ pardabon chest modul di sigurece?
 del-module-error = Impussibil eliminâ il modul

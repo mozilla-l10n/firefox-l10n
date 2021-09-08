@@ -6,11 +6,6 @@ page-title = Informazions pal supuart
 page-subtitle = Cheste pagjine e conten informazions tecnichis che a podin jessi utilis cuant che tu stât cirint di risolvi un probleme. Se tu sês daûr a cirî rispuestis a lis domandis plui frecuentis su { -brand-short-name }, dai une cjalade al nestri <a data-l10n-name="support-link">sît web di supuart</a>.
 
 crashes-id = ID segnalazion
-extensions-title = Estensions
-extensions-name = Non
-extensions-enabled = Ativade
-extensions-version = Version
-extensions-id = ID
 support-addons-name = Non
 support-addons-version = Version
 support-addons-id = ID
@@ -33,8 +28,6 @@ graphics-title = Grafiche
 a11y-title = Acessibilitât
 a11y-activated = Ative
 copy-text-to-clipboard-label = Copie dut tai Aponts
-safe-mode-title = Prove la modalitât sigure
-restart-in-safe-mode-label = Torne a inviâ cu lis Zontis disativadis
 
 ## Media titles
 
@@ -137,19 +130,12 @@ webgl2-renderer = Renderer dal driver WebGL 2
 webgl2-version = Version dal driver WebGL 2
 webgl2-driver-extensions = Estensions dal driver WebGL 2
 webgl2-extensions = Estensions WebGL2
-blocklisted-bug = Inte liste di bloc par causis cognossudis
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Inte liste di bloc; codiç di erôr { $failureCode }
 
 d3d11layers-crash-guard = Composizion D3D11
-d3d11video-crash-guard = Decoder video D3D11
-d3d9video-crash-guard = Decoder video D3D9
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Ripristine al prossim inviament
@@ -170,14 +156,6 @@ sandbox-proc-type-media-plugin = plugin multimediâl
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Abilitât dal utent
-multi-process-status-1 = Abilitât par default
-multi-process-status-2 = Disabilitât
-multi-process-status-4 = Disabilitât dai struments di acessibilitât
-multi-process-status-6 = Disabilitât da input di test no supuartât
-multi-process-status-7 = Disabilitât da zontis
-multi-process-status-8 = Disabilitât par fuarce
-multi-process-status-unknown = Stât scognossût
 
 fission-status-disabled-by-safe-mode = Disativât de modalitât sigure
 

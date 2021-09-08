@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Gjave ducj i sîts
     .accesskey = î
 
-translation-button-close =
-    .label = Siere
-    .accesskey = i
-
 translation-dialog =
     .buttonlabelaccept = Siere
     .buttonaccesskeyaccept = i

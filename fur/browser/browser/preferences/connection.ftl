@@ -35,19 +35,11 @@ connection-proxy-http = Proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Puarte
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Dopre chest proxy ancje par FTP e HTTPS
-    .accesskey = s
 
 connection-proxy-https = Proxy HTTPS
     .accesskey = H
 connection-proxy-ssl-port = Puarte
     .accesskey = u
-
-connection-proxy-ftp = Proxy FTP
-    .accesskey = F
-connection-proxy-ftp-port = Puarte
-    .accesskey = r
 
 connection-proxy-socks = Host SOCKS
     .accesskey = C
@@ -64,9 +56,6 @@ connection-proxy-noproxy = Nissun proxy par
     .accesskey = N
 
 connection-proxy-noproxy-desc = Esempli: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Lis conessions viers localhost, 127.0.0.1 e ::1 no doprin mai il proxy.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Lis conessions viers localhost, 127.0.0.1/8 e ::1 no doprin mai il proxy.

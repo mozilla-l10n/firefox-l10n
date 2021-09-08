@@ -9,9 +9,6 @@ newtab-page-title = Gnove schede
 newtab-settings-button =
     .title = Personalize la pagjine de tô gnove schede
 
-newtab-personalize-button-label = Personalize
-    .title = Personalize gnove schede
-    .aria-label = Personalize gnove schede
 newtab-personalize-icon-label =
     .title = Personalize gnove schede
     .aria-label = Personalize gnove schede
@@ -22,8 +19,6 @@ newtab-personalize-icon-label =
 newtab-search-box-search-button =
     .title = Cîr
     .aria-label = Cîr
-
-newtab-search-box-search-the-web-text = Cîr tal web
 
 newtab-search-box-search-the-web-input =
     .placeholder = Cîr tal Web
@@ -249,10 +244,4 @@ newtab-custom-recent-title = Ativitât resinte
 newtab-custom-recent-subtitle = Une selezion di sîts e contignûts resints
 newtab-custom-close-button = Siere
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Piçulis notis
-newtab-custom-snippets-subtitle = Conseis e notiziis di { -vendor-short-name } e { -brand-product-name }
 newtab-custom-settings = Gjestìs plui impostazions

@@ -40,8 +40,6 @@ inactive-css-position-property-on-unpositioned-box = { $property }</strong> no �
 
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> nol à efiets su chest element viodût che <strong>overflow:hidden</strong> nol è definît.
 
-inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> nol à efiets su chest element parcè che il so <strong>outline-style</strong> al è <strong>auto</strong> o <strong>none</strong>.
-
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> nol à efiets sui elements internis de tabele.
 
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> no à efiets sui elements internis de tabele gjavadis lis celis de tabele.
@@ -83,8 +81,6 @@ inactive-text-overflow-when-no-overflow-fix = Prove a zontâ <strong>overflow:hi
 inactive-css-not-for-internal-table-elements-fix = Prove a configurâ la sô proprietât <strong>display</strong> a alc altri rispiet a <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
 
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Prove a configurâ la sô proprietât <strong>display</strong> a alc altri rispiet a <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
-
-inactive-outline-radius-when-outline-style-auto-or-none-fix = Prove a configurâ la sô proprietât <strong>outline-style</strong> a alc altri rispiet a <strong>auto</strong> o <strong>none</strong>. { learn-more }
 
 inactive-css-not-table-fix = Prove a zontâ <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }
 

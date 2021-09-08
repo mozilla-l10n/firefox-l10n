@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Gjave i selezionâts
     .accesskey = R
 
-site-data-button-cancel =
-    .label = Anule
-    .accesskey = n
-
-site-data-button-save =
-    .label = Salve lis modifichis
-    .accesskey = a
-
 site-data-settings-dialog =
     .buttonlabelaccept = Salve lis modifichis
     .buttonaccesskeyaccept = a

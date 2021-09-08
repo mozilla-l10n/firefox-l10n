@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = Segnelibris
+
 sidebar-menu-history =
     .label = Cronologjie
+
 sidebar-menu-synced-tabs =
     .label = Schedis sincronizadis
+
 sidebar-menu-close =
     .label = Siere la sbare laterâl
+
 sidebar-close-button =
     .tooltiptext = Siere la sbare laterâl

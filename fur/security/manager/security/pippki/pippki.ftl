@@ -6,9 +6,6 @@ password-quality-meter = Nivel di cualitât de password
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Cambie la password gjenerâl
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositîf di sigurece: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Gnove password (torne a fâ):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Ripristine password gjenerâl
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Scancele
-reset-password-text = Se tu ristabilissis la tô password principâl, tu pierdarâs dutis lis passwords dal web e di pueste eletroniche, i dâts dai modui, i certificâts personâi e lis clâfs privadis.  Vuelistu pardabon ristabilî la tô password principâl?
 
 ## Downloading cert dialog
 

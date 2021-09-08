@@ -5,9 +5,6 @@
 places-open =
     .label = Vierç
     .accesskey = V
-places-open-tab =
-    .label = Vierç intune gnove schede
-    .accesskey = l
 places-open-in-tab =
     .label = Vierç intune gnove schede
     .accesskey = w
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Vierç ducj in schedis
     .accesskey = d
-places-open-window =
-    .label = Vierç intun gnûf barcon
-    .accesskey = b
-places-open-private-window =
-    .label = Vierç intun gnûf barcon privât
-    .accesskey = p
-
-places-new-bookmark =
-    .label = Gnûf segnelibri…
-    .accesskey = b
-places-new-folder-contextmenu =
-    .label = Gnove cartele…
-    .accesskey = F
-places-new-folder =
-    .label = Gnove cartele…
-    .accesskey = o
-places-new-separator =
-    .label = Gnûf separadôr
-    .accesskey = s
 
 places-open-in-window =
     .label = Vierç intun gnûf barcon
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Met in ordin par non
     .accesskey = r
-places-properties =
-    .label = Proprietâts
-    .accesskey = i
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -124,3 +99,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Gjestìs segnelibris
     .accesskey = M
+

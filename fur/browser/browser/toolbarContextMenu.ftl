@@ -17,14 +17,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Selezione dutis lis schedis
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Anule il sierâ la schede
-            [one] Anule il sierâ la schede
-           *[other] Anule il sierâ lis schedis
-        }
-    .accesskey = u
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -55,9 +47,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fisse tal menù sprolungje
     .accesskey = F
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Plate in automatic te sbare dai struments
-    .accesskey = a
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Plate il boton cuant che al è vueit
     .accesskey = v

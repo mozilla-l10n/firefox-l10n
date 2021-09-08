@@ -7,20 +7,12 @@ about-logins-page-title = Credenziâls e Passwords
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Puarte lis tôs passwords simpri cun te
-login-app-promo-subtitle = Instale la app gratuite { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Discjariile di Google Play
-login-app-promo-apple =
-    .alt = Discjarie di App Store
-
 login-filter =
     .placeholder = Cîr credenziâls
 
 create-login-button = Cree gnove credenziâl
 
 fxaccounts-sign-in-text = Torne a cjatâ lis tôs passwords sui tiei altris dispositîfs
-fxaccounts-sign-in-button = Jentre su { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Jentre par sincronizâ
 fxaccounts-avatar-button =
     .title = Gjestìs account
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Preferencis
     }
 about-logins-menu-menuitem-help = Jutori
-menu-menuitem-android-app = { -lockwise-brand-short-name } par Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } par iPhone e iPad
 
 ## Login List
 
@@ -72,14 +62,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Stâstu cirint lis tôs credenziâls di acès salvadis? Configure { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = Stâstu cirint lis tôs credenziâls salvadis? Ative la sincronizazion o impuartilis.
 about-logins-login-intro-heading-logged-in = Nissune credenziâl sincronizade cjatade.
 login-intro-description = Se tu âs salvât lis tôs credenziâls su { -brand-product-name } suntun altri dispositîf, chi al spieghe cemût otignîlis achì:
-login-intro-instruction-fxa = Cree o jentre tal to { -fxaccount-brand-name } sul dispositîf dulà che tu âs salvât lis credenziâls
-login-intro-instruction-fxa-settings = Siguriti di vê selezionât la casele di selezion des credenziâls  intes impostazions di { -sync-brand-short-name }
-about-logins-intro-instruction-help = Par vê jutori, visite <a data-l10n-name="help-link"> il supuart di { -lockwise-brand-short-name }</a>
 login-intro-instructions-fxa = Cree o jentre sul to { -fxaccount-brand-name(capitalization: "sentence") } sul dispositîf dulà che tu âs salvadis lis tôs credenziâls.
 login-intro-instructions-fxa-settings = Va su Impostazions > Sincronizazion > Ative la sincronizazion… e selezione la casele Credenziâls e passwords.
 login-intro-instructions-fxa-help = Par vê jutori, visite <a data-l10n-name="help-link"> il supuart di { -lockwise-brand-short-name }</a>.
@@ -141,8 +126,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copiâ la password sa
 
 ## Master Password notification
 
-master-password-notification-message = Par plasê inserìs la tô password principâl par visualizâ lis passwords e lis credenziâls salvadis
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Par espuartâ lis tôs credenziâls, inserìs lis credenziâls di acès di Windows. Chest al jude a protezi la sigurece dai tiei account.
 # This message can be seen when attempting to export a password in about:logins
@@ -157,22 +140,6 @@ master-password-reload-button =
     .accesskey = J
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Desideristu vê a disposizion lis tôs credenziâls dapardut dulà che tu dopris { -brand-product-name }? Va tes opzions dal to { -sync-brand-short-name } e selezione la vôs credenziâls.
-       *[other] Desideristu vê a disposizion lis tôs credenziâls dapardut dulà che tu dopris { -brand-product-name }? Va tes Preferencis dal to { -sync-brand-short-name } e selezione la vôs credenziâls.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Vierç lis opzions di { -sync-brand-short-name }
-           *[other] Vierç lis preferencis di { -sync-brand-short-name }
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = No sta domandâmal plui
-    .accesskey = N
 
 ## Dialogs
 
