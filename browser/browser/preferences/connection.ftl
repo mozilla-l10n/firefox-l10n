@@ -35,9 +35,6 @@ connection-proxy-http = พร็อกซี HTTP
     .accesskey = ก
 connection-proxy-http-port = พอร์ต
     .accesskey = พ
-connection-proxy-http-sharing =
-    .label = ใช้พร็อกซีนี้สำหรับ FTP และ HTTPS ด้วย
-    .accesskey = ด
 
 connection-proxy-https-sharing =
     .label = ใช้พร็อกซีนี้สำหรับ HTTPS ด้วย
@@ -47,11 +44,6 @@ connection-proxy-https = พร็อกซี HTTPS
     .accesskey = พ
 connection-proxy-ssl-port = พอร์ต
     .accesskey = อ
-
-connection-proxy-ftp = พร็อกซี FTP
-    .accesskey = F
-connection-proxy-ftp-port = พอร์ต
-    .accesskey = ร
 
 connection-proxy-socks = โฮสต์ SOCKS
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = ไม่มีพร็อกซีสำหรั�
     .accesskey = ส
 
 connection-proxy-noproxy-desc = ตัวอย่าง: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = การเชื่อมต่อไปยัง localhost, 127.0.0.1, และ ::1 จะไม่ผ่านพร็อกซี
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = การเชื่อมต่อไปยัง localhost, 127.0.0.1/8, และ ::1 จะไม่ผ่านพร็อกซี

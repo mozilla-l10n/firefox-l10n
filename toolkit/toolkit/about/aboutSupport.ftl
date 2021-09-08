@@ -4,16 +4,12 @@
 
 page-title = ข้อมูลการแก้ไขปัญหา
 page-subtitle = หน้านี้มีข้อมูลทางเทคนิคที่อาจเป็นประโยชน์เมื่อคุณกำลังพยายามแก้ไขปัญหา หากคุณกำลังมองหาคำตอบสำหรับคำถามที่พบบ่อยเกี่ยวกับ { -brand-short-name } ตรวจสอบ <a data-l10n-name="support-link">เว็บไซต์สนับสนุน</a> ของเรา
+
 crashes-title = รายงานข้อขัดข้อง
 crashes-id = ID รายงาน
 crashes-send-date = ส่งข้อมูลแล้ว
 crashes-all-reports = รายงานข้อขัดข้องทั้งหมด
 crashes-no-config = แอปพลิเคชันนี้ไม่ได้ถูกกำหนดค่าให้แสดงผลรายงานข้อข้อง
-extensions-title = ส่วนขยาย
-extensions-name = ชื่อ
-extensions-enabled = เปิดใช้งานอยู่
-extensions-version = รุ่น
-extensions-id = ID
 support-addons-title = ส่วนเสริม
 support-addons-name = ชื่อ
 support-addons-type = ชนิด
@@ -129,8 +125,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = ชนิดโปรเซส
 sandbox-sys-call-number = การเรียกของระบบ
 sandbox-sys-call-args = อาร์กิวเมนต์
-safe-mode-title = ลองใช้โหมดปลอดภัย
-restart-in-safe-mode-label = เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…
 troubleshoot-mode-title = วินิจฉัยปัญหา
 restart-in-troubleshoot-mode-label = โหมดแก้ไขปัญหา…
 clear-startup-cache-title = ลองล้างแคชเมื่อเริ่มการทำงาน
@@ -188,51 +182,26 @@ remote-debugging-url = URL
 
 ##
 
-support-third-party-modules-title = โมดูลบุคคลที่สาม
-support-third-party-modules-module = ไฟล์โมดูล
-support-third-party-modules-version = รุ่นไฟล์
-support-third-party-modules-vendor = ข้อมูลผู้จำหน่าย
-support-third-party-modules-occurrence = จำนวนเหตุการณ์
-support-third-party-modules-process = ชนิดและ ID โปรเซส
-support-third-party-modules-thread = เธรด
-support-third-party-modules-base = ที่อยู่ Imagebase
-support-third-party-modules-uptime = ระยะเวลาทำงานของกระบวนการ (ms)
-support-third-party-modules-duration = ระยะเวลาในการโหลด (ms)
-support-third-party-modules-status = สถานะ
-support-third-party-modules-status-loaded = โหลดแล้ว
-support-third-party-modules-status-blocked = ถูกปิดกั้น
-support-third-party-modules-status-redirected = ถูกเปลี่ยนเส้นทาง
-support-third-party-modules-empty = ไม่ได้โหลดโมดูลบุคคลที่สามใด
-support-third-party-modules-no-value = (ไม่มีค่า)
-support-third-party-modules-button-open =
-    .title = เปิดตำแหน่งที่ตั้งไฟล์…
-support-third-party-modules-expand =
-    .title = แสดงข้อมูลโดยละเอียด
-support-third-party-modules-collapse =
-    .title = ยุบข้อมูลโดยละเอียด
-support-third-party-modules-unsigned-icon =
-    .title = โมดูลนี้ไม่มีการลงลายเซ็น
-support-third-party-modules-folder-icon =
-    .title = เปิดตำแหน่งที่ตั้งไฟล์…
-support-third-party-modules-down-icon =
-    .title = แสดงข้อมูลโดยละเอียด
-support-third-party-modules-up-icon =
-    .title = ยุบข้อมูลโดยละเอียด
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = รายงานข้อขัดข้องของ { $days } วันที่ผ่านมา
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = { $minutes } นาทีที่แล้ว
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours = { $hours } ชั่วโมงที่แล้ว
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days = { $days } วันที่แล้ว
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = รายงานข้อขัดข้องทั้งหมด (รวม { $reports } ข้อขัดข้องที่ยังไม่ได้รายงานในช่วงเวลาที่กำหนด)
+
 raw-data-copied = คัดลอกข้อมูลดิบไปยังคลิปบอร์ดแล้ว
 text-copied = คัดลอกข้อความไปยังคลิปบอร์ดแล้ว
 
@@ -245,9 +214,11 @@ blocked-mismatched-version = ถูกปิดกั้นจากรุ่น
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = ถูกปิดกั้นจากรุ่นไดรเวอร์กราฟิกของคุณ ลองปรับปรุงไดรเวอร์กราฟิกของคุณเป็นรุ่น { $driverVersion } หรือใหม่กว่า
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = พารามิเตอร์ ClearType
+
 compositing = การจัดองค์ประกอบ
 hardware-h264 = การถอดรหัสฮาร์ดแวร์ H264
 main-thread-no-omtc = เธรดหลัก ไม่มี OMTC
@@ -262,6 +233,7 @@ virtual-monitor-disp = จอแสดงผลเสมือนจริง
 
 found = พบ
 missing = หายไป
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = คำอธิบาย
@@ -284,21 +256,19 @@ webgl2-renderer = ตัวเรนเดอร์ไดรเวอร์ WebG
 webgl2-version = รุ่นไดรเวอร์ WebGL 2
 webgl2-driver-extensions = ส่วนขยายไดรเวอร์ WebGL 2
 webgl2-extensions = ส่วนขยาย WebGL 2
-blocklisted-bug = ถูกเพิ่มในรายการปิดกั้นเนื่องจากปัญหาที่ทราบ
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = ข้อบกพร่อง { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = ถูกเพิ่มในรายการปิดกั้นเนื่องจากมีปัญหาที่ทราบสาเหตุ: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ถูกเพิ่มในรายการปิดกั้นแล้ว; รหัสความล้มเหลว { $failureCode }
+
 d3d11layers-crash-guard = คอมโพสิเตอร์ D3D11
-d3d11video-crash-guard = ตัวถอดรหัสวิดีโอ D3D11
-d3d9video-crash-guard = ตัวถอดรหัสวิดีโอ D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = ตัวถอดรหัสวิดีโอ WMF VPX
+
 reset-on-next-restart = กลับค่าเดิมเมื่อเริ่มการทำงานใหม่ในครั้งถัดไป
 gpu-process-kill-button = สิ้นสุดโปรเซส GPU
 gpu-device-reset = การกลับค่าเดิมของอุปกรณ์
@@ -308,8 +278,10 @@ content-uses-tiling = ใช้ Tiling (เนื้อหา)
 off-main-thread-paint-enabled = เปิดใช้งาน Off Main Thread Painting แล้ว
 off-main-thread-paint-worker-count = จำนวนตัวทำงาน Off Main Thread Painting
 target-frame-rate = อัตราเฟรมเป้าหมาย
+
 min-lib-versions = รุ่นต่ำสุดที่ใช้ได้
 loaded-lib-versions = รุ่นที่ใช้อยู่
+
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = เนมสเปซผู้ใช้
@@ -322,27 +294,22 @@ sandbox-proc-type-content = เนื้อหา
 sandbox-proc-type-file = เนื้อหาไฟล์
 sandbox-proc-type-media-plugin = ปลั๊กอินสื่อ
 sandbox-proc-type-data-decoder = ตัวถอดรหัสข้อมูล
+
 startup-cache-title = แคชเมื่อเริ่มการทำงาน
 startup-cache-disk-cache-path = เส้นทางแคชดิสก์
 startup-cache-ignore-disk-cache = ละเว้นแคชดิสก์
 startup-cache-found-disk-cache-on-init = แคชดิสก์ที่พบเมื่อเตรียมใช้งาน
 startup-cache-wrote-to-disk-cache = ที่เขียนลงในแคชดิสก์
+
 launcher-process-status-0 = เปิดใช้งานอยู่
 launcher-process-status-1 = ถูกปิดใช้งานเนื่องจากความล้มเหลว
 launcher-process-status-2 = ถูกปิดใช้งานโดยการบังคับ
 launcher-process-status-unknown = ไม่ทราบสถานะ
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = เปิดใช้งานอยู่โดยผู้ใช้
-multi-process-status-1 = เปิดใช้งานอยู่โดยค่าเริ่มต้น
-multi-process-status-2 = ปิดใช้งานอยู่
-multi-process-status-4 = ถูกปิดใช้งานโดยเครื่องมือการช่วยการเข้าถึง
-multi-process-status-6 = ถูกปิดใช้งานโดยการรับค่าข้อความที่ไม่รองรับ
-multi-process-status-7 = ถูกปิดใช้งานโดยส่วนเสริม
-multi-process-status-8 = ถูกปิดใช้งานโดยการบังคับ
-multi-process-status-unknown = ไม่ทราบสถานะ
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -357,6 +324,7 @@ fission-status-disabled-by-default = ถูกปิดใช้งานตา�
 fission-status-enabled-by-user-pref = ถูกเปิดใช้งานโดยผู้ใช้
 fission-status-disabled-by-user-pref = ถูกปิดใช้งานโดยผู้ใช้
 fission-status-disabled-by-e10s-other = ปิดใช้งาน E10s แล้ว
+
 async-pan-zoom = การเลื่อน/ซูมแบบอะซิงโครนัส
 apz-none = ไม่มี
 wheel-enabled = เปิดใช้งานการป้อนข้อมูลด้วยล้อแล้ว
@@ -393,6 +361,7 @@ support-remote-experiments-title = คุณลักษณะทดลองร
 support-remote-experiments-name = ชื่อ
 support-remote-experiments-branch = สาขาการทดลอง
 support-remote-experiments-see-about-studies = ดูที่ <a data-l10n-name="support-about-studies-link">about:studies</a> สำหรับข้อมูลเพิ่มเติม รวมถึงวิธีการปิดใช้งานคุณลักษณะทดลองแต่ละอย่าง หรือปิดใช้งานไม่ให้ { -brand-short-name } เรียกใช้คุณลักษณะทดสอบชนิดนี้อีกในอนาคต
+
 support-remote-features-title = คุณลักษณะระยะไกล
 support-remote-features-name = ชื่อ
 support-remote-features-status = สถานะ

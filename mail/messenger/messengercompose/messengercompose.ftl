@@ -6,9 +6,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = เอาช่อง { $type } ออก
-
-#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -56,25 +53,16 @@ attachment-bucket-count =
         }
     .accesskey = น
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext =
-        { $count ->
-            [1] { $count } สิ่งที่แนบมา
-           *[other] { $count } สิ่งที่แนบมา
-        }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 # Reorder Attachment Panel
 
 button-return-receipt =
     .label = การแจ้งเตือน
     .tooltiptext = จำเป็นต้องมีการแจ้งเตือนการเปิดอ่านสำหรับข้อความนี้
 
+# Encryption
+
 # Addressing Area
+
 
 ## Notifications
 

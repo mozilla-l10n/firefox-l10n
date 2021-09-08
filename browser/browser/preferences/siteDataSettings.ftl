@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = เอาที่เลือกออก
     .accesskey = อ
 
-site-data-button-cancel =
-    .label = ยกเลิก
-    .accesskey = ย
-
-site-data-button-save =
-    .label = บันทึกการเปลี่ยนแปลง
-    .accesskey = บ
-
 site-data-settings-dialog =
     .buttonlabelaccept = บันทึกการเปลี่ยนแปลง
     .buttonaccesskeyaccept = บ

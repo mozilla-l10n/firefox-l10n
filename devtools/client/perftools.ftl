@@ -97,8 +97,6 @@ perftools-thread-img-decoder =
     .title = เธรดการถอดรหัสรูปภาพ
 perftools-thread-dns-resolver =
     .title = การแก้ปัญหา DNS เกิดขึ้นในเธรดนี้
-perftools-thread-js-helper =
-    .title = งานเบื้องหลังของโปรแกรม JS เช่น การคอมไพล์นอกเธรดหลัก
 
 ##
 

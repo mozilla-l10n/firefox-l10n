@@ -10,9 +10,6 @@ third-party-intro =
     โมดูลใด ๆ ที่ไม่ได้ลงลายเซ็นโดย Microsoft หรือ
     { -vendor-short-name } ถือเป็นโมดูลของบุคคลที่สาม
 
-third-party-header-module-list = รายการโมดูล
-third-party-header-loading-events = กำลังโหลดกิจกรรม
-
 third-party-message-empty = ไม่พบโมดูลของบุคคลที่สาม
 third-party-message-no-duration = ไม่ได้บันทึก
 

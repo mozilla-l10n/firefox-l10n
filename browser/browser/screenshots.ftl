@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = จับภาพหน้าจอ
-
-screenshots-my-shots-button = ภาพหน้าจอของฉัน
-
 screenshot-toolbarbutton =
     .label = ภาพหน้าจอ
     .tooltiptext = จับภาพหน้าจอ
@@ -40,8 +36,6 @@ screenshots-login-error-details = เราไม่สามารถบัน�
 
 screenshots-unshootable-page-error-title = เราไม่สามารถจับภาพหน้าจอหน้านี้
 screenshots-unshootable-page-error-details = นี่ไม่ใช่หน้าเว็บมาตรฐาน คุณจึงไม่สามารถจับภาพหน้าจอได้
-
-screenshots-self-screenshot-error-title = คุณไม่สามารถจับภาพหน้าจอของหน้า { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = การเลือกของคุณเล็กเกินไป
 

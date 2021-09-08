@@ -5,11 +5,6 @@
 containers-window-new =
     .title = เพิ่มการแยกข้อมูลใหม่
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = ค่ากำหนดการแยกข้อมูล { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = ไอคอน
 containers-color-label = สี
     .accesskey = ส
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = เสร็จสิ้น
-    .accesskey = ร
 
 containers-dialog =
     .buttonlabelaccept = เสร็จสิ้น

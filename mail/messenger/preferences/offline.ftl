@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = ติดตามสถานะออนไลน์ที่ตรวจพบโดยอัตโนมัติ
     .accesskey = ต
 
-startup-label = สถานะที่กำหนดเองเมื่อเริ่มการทำงาน:
-
 status-radio-remember =
     .label = จดจำสถานะออนไลน์ก่อนหน้า
     .accesskey = จ

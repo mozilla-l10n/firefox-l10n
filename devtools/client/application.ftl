@@ -28,16 +28,6 @@ serviceworker-worker-unregister = เลิกลงทะเบียน
 serviceworker-worker-debug = ดีบั๊ก
     .title = สามารถดีบั๊กได้เฉพาะเวิร์กเกอร์บริการที่ทำงานอยู่เท่านั้น
 
-# Text for the debug link displayed for an already started Service Worker, when we
-# are in multi e10s mode, which effectively disables this link.
-serviceworker-worker-debug-forbidden = ดีบั๊ก
-    .title = สามารถดีบั๊กตัวทำงานบริการได้หาก multi e10s ถูกปิดใช้งานอยู่เท่านั้น
-
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start2 = เริ่ม
-    .title = สามารถเริ่มตัวทำงานบริการได้หาก multi e10s ถูกปิดใช้งานอยู่เท่านั้น
-
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = ตรวจสอบ
@@ -50,12 +40,6 @@ serviceworker-worker-start3 = เริ่ม
 # display the last update time of the service worker script.
 serviceworker-worker-updated = อัปเดตเมื่อ <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = แหล่งที่มา
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = สถานะ
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -65,26 +49,6 @@ serviceworker-worker-status-running = กำลังทำงาน
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = หยุดอยู่
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = คุณต้องลงทะเบียนเวิร์กเกอร์บริการเพื่อตรวจสอบที่นี่ <a>เรียนรู้เพิ่มเติม</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = ถ้าหน้าปัจจุบันควรมีเวิร์กเกอร์บริการ ต่อไปนี้คือบางสิ่งที่คุณสามารถลองทำได้
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = มองหาข้อผิดพลาดในคอนโซล <a>เปิดคอนโซล</a>
-
-# Suggestion to use the debugger to investigate why a service worker is not registered.
-# Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = ลงทะเบียนเวิร์กเกอร์บริการของคุณตามขั้นตอนที่กำหนดและมองหาข้อยกเว้น <a>เปิดตัวดีบั๊ก</a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = ตรวจสอบเวิร์กเกอร์บริการจากโดเมนอื่น <a>เปิด about:debugging</a>
 
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = ไม่พบตัวทำงานบริการ
@@ -103,10 +67,6 @@ serviceworker-empty-suggestions-aboutdebugging2 = ดูตัวทำงาน
 
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = ไฟล์กำกับของแอป
-
-# Header for the Manifest page when there's no manifest to inspect
-# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = คุณต้องเพิ่มไฟล์กำกับของแอปพลิเคชันเว็บเพื่อตรวจสอบที่นี่ <a>เรียนรู้เพิ่มเติม</a>
 
 # Header for the Manifest page when there's no manifest to inspect
 manifest-empty-intro2 = ตรวจไม่พบไฟล์กำกับเว็บแอป

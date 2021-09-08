@@ -40,8 +40,6 @@ inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</stro
 
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ไม่มีผลต่อองค์ประกอบนี้เนื่องจากไม่ได้ตั้งค่า <strong>overflow:hidden</strong>
 
-inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> ไม่มีผลต่อองค์ประกอบนี้เนื่องจาก <strong>outline-style</strong> เป็น <strong>auto</strong> or <strong>none</strong>
-
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบตารางภายใน
 
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบตารางภายในยกเว้นเซลล์ตาราง
@@ -83,8 +81,6 @@ inactive-text-overflow-when-no-overflow-fix = ลองเพิ่ม <strong>o
 inactive-css-not-for-internal-table-elements-fix = ลองตั้งค่าคุณสมบัติ <strong>display</strong> เป็นอย่างอื่นนอกจาก <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, หรือ <strong>table-footer-group</strong> { learn-more }
 
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = ลองตั้งค่าคุณสมบัติ <strong>display</strong> เป็นอย่างอื่นนอกจาก <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, หรือ <strong>table-footer-group</strong> { learn-more }
-
-inactive-outline-radius-when-outline-style-auto-or-none-fix = ลองตั้งค่าคุณสมบัติ <strong>outline-style</strong> เป็นอย่างอื่นนอกจาก <strong>auto</strong> หรือ <strong>none</strong> { learn-more }
 
 inactive-css-not-table-fix = ลองเพิ่ม <strong>display:table</strong> หรือ <strong>display:inline-table</strong> { learn-more }
 

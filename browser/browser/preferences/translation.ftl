@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = เอาไซต์ทั้งหมดออก
     .accesskey = ท
 
-translation-button-close =
-    .label = ปิด
-    .accesskey = ป
-
 translation-dialog =
     .buttonlabelaccept = ปิด
     .buttonaccesskeyaccept = ป

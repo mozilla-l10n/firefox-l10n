@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = รหัสอักขระ
-    .accesskey = ร
-
 ## Tools Menu
 
 ## Help Menu
@@ -31,4 +27,6 @@ toolbar-undelete-button =
 ## View
 
 ## View / Layout
+
+## File
 

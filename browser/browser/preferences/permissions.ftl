@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = เอาเว็บไซต์ทั้งหมดออก
     .accesskey = ว
 
-permissions-button-cancel =
-    .label = ยกเลิก
-    .accesskey = ย
-
-permissions-button-ok =
-    .label = บันทึกการเปลี่ยนแปลง
-    .accesskey = บ
-
 permission-dialog =
     .buttonlabelaccept = บันทึกการเปลี่ยนแปลง
     .buttonaccesskeyaccept = บ

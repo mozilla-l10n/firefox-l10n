@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = การตั้งค่า OTR
 otr-log =
     .label = รวมข้อความที่เข้ารหัสแบบ OTR ในรายการบันทึกการสนทนา
-otr-requireEncryption =
-    .label = ต้องการการเข้ารหัสแบบครอบคลุมสำหรับการสนทนาแบบหนึ่งต่อหนึ่ง
-otr-verifyNudge =
-    .label = เตือนฉันให้ตรวจสอบที่อยู่ติดต่อที่ยังไม่ได้รับการตรวจสอบเสมอ
-
-otr-notYetAvailable = ยังไม่มีในตอนนี้
 
 otr-require-encryption-info =
     หากต้องใช้การเข้ารหัสแบบครอบคลุม ข้อความที่อยู่ในการสนทนาแบบหนึ่งต่อหนึ่งจะไม่ถูกส่งนอกจาก

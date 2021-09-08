@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "บันทึกหน้าเป็น…">
 <!ENTITY savePageCmd.accesskey "บ">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
-<!ENTITY pageSetupCmd.accesskey "ต">
-<!ENTITY printPreviewCmd.label "ตัวอย่างก่อนพิมพ์">
-<!ENTITY printPreviewCmd.accesskey "ว">
 <!ENTITY printCmd.label "พิมพ์…">
 <!ENTITY printCmd.accesskey "พ">
 <!ENTITY printCmd.commandkey "P">
