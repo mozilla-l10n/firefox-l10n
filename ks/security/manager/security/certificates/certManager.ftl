@@ -17,42 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = منتظم
 
-certmgr-detail-general-tab-title =
-    .label = عام
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = تفصیلات
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = حالس سرٹئفیكیٹ تصدیق كران
-
-certmgr-subject-label = جئری  كرمئژ
-
-certmgr-issuer-label = سندئ ذریعئ جئری كرمئژ
-
-certmgr-period-of-validity = ویلیڈیٹی ہُند پیرڈ
-
-certmgr-fingerprints = اونگج۪ین ہند نشان
-
-certmgr-cert-detail =
-    .title = سرٹئفیكیٹ وضاحت
-    .buttonlabelaccept = بند
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = عام ناو (CN)
-
-certmgr-cert-detail-org = تنظیم (O)
-
-certmgr-cert-detail-orgunit = مینئنُك  یوینٹ  (OU)
-
-certmgr-cert-detail-serial-number = سیریل نمبر
-
-certmgr-cert-detail-sha-256-fingerprint = اونگج۪ین ہند نشانSHA1
-
-certmgr-cert-detail-sha-1-fingerprint = اونگج۪ین ہند نشانSHA1
-
 certmgr-edit-ca-cert =
     .title = سرٹئفیكیٹ CA بروسئ مند سیٹینگسن كریو ادارت
     .style = width: 48em;
@@ -81,12 +45,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = حفئظتی عالئ
 
-certmgr-begins-on = پیٹھ شروع گژھان
-
 certmgr-begins-label =
     .label = پیٹھ شروع گژھان
-
-certmgr-expires-on = مكل۪ی
 
 certmgr-expires-label =
     .label = مكل۪ی
@@ -128,18 +88,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = درآمد ...
     .accesskey = m
-
-certmgr-details =
-    .value = سرٹئفیكیٹ شعبئ
-    .accesskey = F
-
-certmgr-fields =
-    .value = شعبہ قئمتھ
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = سرٹیفیکیٹ  ہایر آركی
-    .accesskey = H
 
 certmgr-add-exception =
     .label = غئر مومول رلئویو...
@@ -203,12 +151,6 @@ delete-user-cert-confirm = تہئ چھئو یژھان پز پئٹھ یئم سر�
 delete-user-cert-impact = اگر توہیہ ڈیلیٹ کْریو پننیو سرٹیفیکیٹو منز اکھ، توہیہ ہیکیو نْہ وْنئ یہ استعمال کْرتھ پنُن پان پریزناونْہ باپت۔
 
 
-delete-ssl-cert-title =
-    .title = سرور غئر مومول سرٹئفیكیٹ كریو خٲرج
-delete-ssl-cert-confirm = تہئ چھئو یژھان پز پئٹھ یئم سرٹئفیكیٹس   خٲرج كرین؟
-delete-ssl-cert-impact = اگر توہیہ ڈیلیٹ کْریو اکھ سْرور ایکسیپشن، توہیہ چھیو ریسٹور کران عام حفاظتی چک تتھ سْروس باپت تْہ چُھ ضرورت ذِ یہ کرِ استعمال اکھ صحیح سرتیفیکیٹ۔
-
-
 delete-ca-cert-title =
     .title = خٲرچ كریو یا مئ كریو بروسئ CA سرٹیفیكیٹ۪ی
 delete-ca-cert-confirm = توہیہ چُھ درخواست کورمُت ڈیلیٹ کرنْہ باپت یم سی اے سرٹیفیکیٹ۔ بِلٹْہ اِن سرتیفیکیٹن باپت یِیہ تمام بھروس ہٹاونْہ یتھ ذن کونوی اثر چُھ۔ کیاہ توہیہ چھیو پْز پأٹھ یژھان ڈیلیٹ کرُن یا ڈیسٹرسٹْہ کرُن؟
@@ -221,38 +163,6 @@ delete-email-cert-confirm = تہئ چھُوئ یقین تہئ چھئوئ لوْ�
 delete-email-cert-impact = اگر توہیہ ڈیلیٹ کْریو أکس نفر۔ سْنز ایمیل سرٹیفیکیٹ، توہیہ ہیکیو نْہ پتْہ سوزِتھ اینکریپٹیڈ ایمیل تس نفرس۔
 
 ## Cert Viewer
-
-not-present =
-    .value = <سرٹئفیكیٹ ہیوند حصئ چھُنئ>
-
-# Cert verification
-cert-verified = یئ سرٹئفیكیٹ چھئ مولوم كرنئ آمئژ مندر جئ زیل استیمال خٲطرئ
-
-# Add usage
-verify-ssl-client =
-    .value = SSL  كلاینٹ سرٹئفیكیٹ
-
-verify-ssl-server =
-    .value = SSL  سرور سرٹئفیكیٹ
-
-verify-ssl-ca =
-    .value = SSL  سرٹئفیكیٹ تنظیم
-
-verify-email-signer =
-    .value = ای میل دستخت كرئن واج۪ین سرٹئفیكیٹ
-
-verify-email-recip =
-    .value = ای میل رٹن واج۪ین سرٹئفیكیٹ
-
-# Cert verification
-cert-not-verified-cert-revoked = یئ سرٹئفیكیٹ ہیك نئ مولوم كریتھ كیازئ كئ یئ چھئ آمئژ  منسوخ كرنئ
-cert-not-verified-cert-expired = یئ سرٹئفیكیٹ ہیك نئ مولوم كریتھ كیازئ كئ یئ چھئ مكلیمئژ
-cert-not-verified-cert-not-trusted = یئ سرٹئفیكیٹ ہیك نئ مولوم كریتھ كیازئ كئ یئ چھئنئ بروسئ مند
-cert-not-verified-issuer-not-trusted = یئ سرٹئفیكیٹ ہیك نئ مولوم كریتھ كیازئ كئ یئم۪ی سرٹئفیكیٹ ہیوند جئری كرنئن وۄل چھُ نئ بروسئ مند
-cert-not-verified-issuer-unknown = یئ سرٹئفیكیٹ ہیك نئ مولوم كریتھ كیازئ كئ یئم۪ی سرٹئفیكیٹ ہیوند جئری كرنئن وۄل چھُ نئ  زئنكار
-cert-not-verified-ca-invalid = یئ سرٹئفیكیٹ ہیك نئ مولوم كریتھ كیازئ كئ یئم۪ی سرٹئفیكیٹ ہیوند جئری كرنئن وۄل چھُ نئ  زئنكار
-cert-not-verified_algorithm-disabled = ہیوک نْہ تصدیق کْرتھ یتھ سرٹیفیکیٹ کیاز اتھ اوس سایِن کرنْہ آمُت استعمال کْرتھ اکھ دستخط ایلگاردم یوس ڈیسیبْل کرنْہ آمْش أسئ کیازِ سو ایلگاردم أس نْہ محفوظ۔
-cert-not-verified-unknown = ہیك نئ یئ سرٹئفیكیٹ مولوم كریتھ نا مولوم وجوہاتئو كن
 
 ## Used to show whether an override is temporary or permanent
 

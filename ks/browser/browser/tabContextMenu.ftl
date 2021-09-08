@@ -21,10 +21,6 @@ move-to-new-window =
     .label = نئو۪ی وِنڈئ منز پكنٲویو
     .accesskey = W
 
-close-tab =
-    .label = ٹیب كریو بند
-    .accesskey = C
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 

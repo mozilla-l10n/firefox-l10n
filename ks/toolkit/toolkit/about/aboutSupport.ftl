@@ -10,11 +10,6 @@ crashes-id = بیان ID
 crashes-send-date = سبمِٹ کرنْہ آمُت
 crashes-all-reports = تمام كریش بیان
 crashes-no-config = یہ ایپلیکیشن چھ نْہ کنفیگر کرنْہ آمْژ کریش رپورٹ ڈیسپْلے کرنْہ باپت۔
-extensions-title = وسعت
-extensions-name = ناو
-extensions-enabled = قابل مجازكرمت
-extensions-version = ترجمہ
-extensions-id = ID
 support-addons-name = ناو
 support-addons-version = ترجمہ
 support-addons-id = ID
@@ -51,8 +46,6 @@ library-version-title = لایبرَری ترجم
 copy-text-to-clipboard-label = متن کْریو کاپی کْلپ بورڈس کُن
 copy-raw-data-to-clipboard-label = را ڈاٹا کْریو کاپی کْلپ بورڈس کُن
 sandbox-title = سینڈ بوکْس
-safe-mode-title = سیف موڈس کْریو کوشش
-restart-in-safe-mode-label = & تئ دوبارئ كریو شروع  ایڈ آن ڈیسیبْل کْرتھ ...
 
 ## Media titles
 

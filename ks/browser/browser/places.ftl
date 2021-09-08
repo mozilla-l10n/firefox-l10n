@@ -5,31 +5,9 @@
 places-open =
     .label = کھولیو
     .accesskey = ک
-places-open-tab =
-    .label = نئوس ٹیبس منز كھولیو
-    .accesskey = w
 places-open-all-in-tabs =
     .label = سٲری كھولیو ٹیبزن منز
     .accesskey = O
-places-open-window =
-    .label = نئو۪ی وِنڈو منز كھولیو
-    .accesskey = N
-places-open-private-window =
-    .label = اوپْن کْریو أکس نْو پرایوٹ وینڈو منز &
-    .accesskey = P
-
-places-new-bookmark =
-    .label = نئو نشان زَد...
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = نئو فولڈر...
-    .accesskey = F
-places-new-folder =
-    .label = نئو فولڈر...
-    .accesskey = o
-places-new-separator =
-    .label = نئو تئ الگ كرئن وۄل
-    .accesskey = S
 
 places-view =
     .label = وچھیو
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = ناوئ حسابئ ژٲریو
     .accesskey = r
-places-properties =
-    .label = خصوصیات
-    .accesskey = i
 

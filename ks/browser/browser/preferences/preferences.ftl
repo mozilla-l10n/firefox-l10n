@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] آپشنس
-       *[other] ترجیح
-    }
-
 pane-general-title = عام
 category-general =
     .tooltiptext = { pane-general-title }
@@ -45,12 +39,6 @@ should-restart-title = { -brand-short-name }  كریو وئن شروع
 ## General Section
 
 startup-header = شروعات
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = برانڈ شاٹ ناوس تْہ فایر فوکسس دِیو اجازت اِکوٹ رن گژھنس&
-use-firefox-sync = ٹِپ:  یہ چُھ استعمال کران الگ پروفایل۔ استعمال کْریو سینک شییر ڈاٹا کرنْہ باپت تمن منز۔
 
 is-default = برینڈ لكُٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر
 is-not-default = برانڈ شاٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر&
@@ -144,11 +132,6 @@ applications-manage-app =
     .label = عمل تفصیلات
 applications-always-ask =
     .label = ہمیشئ پریژھیو
-applications-type-pdf = پورٹیبل ڈاكیومینٹ فارمیٹ(PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -323,14 +306,9 @@ forms-exceptions =
     .label = غٲر مومول
     .accesskey = x
 
-forms-master-pw-use =
-    .label = ماسٹر خُفیئ لفظ كریو استیمال
-    .accesskey = U
 forms-master-pw-change =
     .label = ماسٹر خُفیئ لفظ بدلٲویو...
     .accesskey = M
-
-forms-master-pw-fips-title = { "  " }موڈس منز چھیو توہیہ وْنکینس۔ اکھ نان۔ایمپٹی ماسٹر پاس وأرڈ چُھ ضرورت اتھFIPS۔ FIPS
 
 forms-master-pw-fips-desc = خفیہ لفظ   تبدیلی گئی ناكام
 

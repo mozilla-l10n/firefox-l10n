@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = ایڈ آن انتظامیئ
-
 addons-page-title = ایڈ آن انتظامیئ
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = ایڈ آنسن متعلق زٲنیو مزید
-
-cmd-show-details =
-    .label = مزید مولومات ہٲویو
-    .accesskey = S
-
-cmd-find-updates =
-    .label = اپڈیٹث ژھٲنڈيو
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] آپشنس
-           *[other] ترجیح
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = تھیم تھٲویو
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = تھیم تھاوَن روٛكٲویو
-    .accesskey = W
-
-cmd-install-addon =
-    .label = اِنسٹال
-    .accesskey = I
-
-cmd-contribute =
-    .label = شركت كریو
-    .accesskey = C
-    .tooltiptext = یم۪ی ایڈ آنچئ  بہبودی منز  كریو  شركت
 
 detail-version =
     .label = ترجمہ

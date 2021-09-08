@@ -7,8 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY appmenu.tooltip                     "اوپْن مینیو">
-
 <!ENTITY navbarOverflow.label                "مزید ٹول ۔ ۔ ۔">
 
 <!-- Tab context menu -->
@@ -18,9 +16,6 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
-<!ENTITY  pinTab.label                       "ٹیب کْریو پِن&amp;">
-<!ENTITY  unpinTab.label                     "ٹیب كریو اَن پِن">
 
 
 
@@ -35,9 +30,6 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "مینیوبار">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY personalbarCmd.label "نشان زد ٹول بار">
-<!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "ٹولبار آیٹمن تھٲویو نشان ">
 
 <!ENTITY fullScreenCmd.label "پورئ پردہ">
 
@@ -49,10 +41,7 @@ can reach it easily. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
@@ -61,16 +50,6 @@ can reach it easily. -->
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
-
-<!ENTITY showAllBookmarks2.label "سٲری نشانزد ہٲویو">
-
-
-
-<!ENTITY bookmarksToolbarChevron.tooltip "مزید نشان زد ہٲویو">
 
 
 
@@ -109,13 +88,6 @@ can reach it easily. -->
 
 <!ENTITY homeButton.label             "ہوم">
 
-<!ENTITY bookmarksButton.label          "نشان زَد">
-
-
-<!ENTITY viewBookmarksSidebar2.label        "ویو کْریو بوک مارْک سایِڈ بار">
-
-<!ENTITY viewBookmarksToolbar.label         "نشان زَد ٹول بار ہٲویو">
-
 
 
 
@@ -128,8 +100,6 @@ can reach it easily. -->
 <!ENTITY historyButton.label            "تٲریخ">
 
 <!ENTITY downloads.label              "ڈاؤن لوڈز">
-
-<!ENTITY addons.label                 "&amp; ایڈ آنس">
 
 <!ENTITY webDeveloperMenu.label       "&amp; ویب بناوان وۄل">
 
@@ -148,16 +118,6 @@ can reach it easily. -->
 
 
 <!ENTITY historyMenu.label "تٲریخ">
-
-<!ENTITY historyUndoMenu.label "حال۪ی بند كرمت ٹیبس">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "حالئی بند كرمت وِنڈوز">
-
-<!ENTITY appMenuHistory.showAll.label "سٲری تٲریخ ہٲویو">
-
-<!ENTITY appMenuHistory.clearRecent.label "حالچ  تعٲریخ كریو صاف">
-<!ENTITY appMenuHistory.restoreSession.label "پتِم سیشن انیو واپس">
-<!ENTITY appMenuHistory.viewSidebar.label "ہسٹری سایِڈ بار کْریو ویو">
 
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -191,8 +151,6 @@ can reach it easily. -->
 
 
 
-<!ENTITY customizeMenu.removeFromToolbar.label "ٹول بار پیٹھ ہٹأیو&amp;">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "مزید آیٹم کْریو جمع۔ ۔ ۔&amp;">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -252,8 +210,6 @@ can reach it easily. -->
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
 
-<!ENTITY emailPageCmd.label           "ٳئمل لینك">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -284,14 +240,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "بڈٲویو">
 
 <!ENTITY sidebarCloseButton.tooltip     "سائڈ بار  كریو بند">
-
-
-<!ENTITY quitApplicationCmdWin2.label       "خٲرج">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "برینڈ  لكُٹ ناو  كریو ایکزِٹ">
-<!ENTITY quitApplicationCmd.label       "مكلٲویو">
-<!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "&amp;برینڈ لكُٹ  ناو كریو خٲرج">
 
 
 <!ENTITY allowPopups.accesskey "p">
@@ -366,9 +314,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-<!ENTITY syncBrand.shortName.label    "سینك">
 
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):

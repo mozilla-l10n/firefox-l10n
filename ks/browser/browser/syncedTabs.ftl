@@ -5,4 +5,3 @@
 synced-tabs-context-sync-now =
     .label = وئن كریو سینك
     .accesskey = S
-fxa-sign-in = { " " }سیٹ اَپ  كریو  { -sync-brand-short-name }…

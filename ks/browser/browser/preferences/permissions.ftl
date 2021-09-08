@@ -20,10 +20,6 @@ permissions-allow =
 permissions-status =
     .label = سٹیٹس
 
-permissions-button-cancel =
-    .label = منسوخ
-    .accesskey = م
-
 permissions-capabilities-allow =
     .label = اجازتھ
 permissions-capabilities-block =

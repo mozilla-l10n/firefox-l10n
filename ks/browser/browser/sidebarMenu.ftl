@@ -4,7 +4,9 @@
 
 sidebar-menu-bookmarks =
     .label = نشان زَد
+
 sidebar-menu-history =
     .label = تٲریخ
+
 sidebar-close-button =
     .tooltiptext = سائڈ بار  كریو بند

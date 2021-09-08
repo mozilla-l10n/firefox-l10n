@@ -19,6 +19,7 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (پوشیدئ براوزِنگ)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (پوشیدئ براوزِنگ)
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -38,6 +39,7 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (پوشیدئ براوزِنگ)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (پوشیدئ براوزِنگ)
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -65,6 +67,7 @@ browser-main-window-title = { -brand-full-name }
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = یہ بوک مارْک کْریو ایڈیٹ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -84,10 +87,6 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string won't wrap, so if the translated string is longer,
-# consider translating it as if it said only "Search Settings".
-search-one-offs-change-settings-button =
-    .label = تبدیل کْریو تلاش سیٹینگ
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -130,12 +129,6 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
-popup-select-camera =
-    .value = کیمرا یوس شییر کرُن چُھ&
-    .accesskey = C
-popup-select-microphone =
-    .value = مایکروفون یوس شییر کرُن چُھ &
-    .accesskey = M
 popup-all-windows-shared = تُہندس سکرینس پیٹھ تمام ظأہر وینڈو یِین شییر کرنْہ
 
 ## WebRTC window or screen share tab switch warning
@@ -146,12 +139,12 @@ popup-all-windows-shared = تُہندس سکرینس پیٹھ تمام ظأہر 
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = تلاش کْریو یا اینٹر کْریو پتاہ
 urlbar-placeholder =
     .placeholder = تلاش کْریو یا اینٹر کْریو پتاہ
+
 urlbar-switch-to-tab =
     .value = ٹیبس منز گژھیو
+
 urlbar-go-button =
     .tooltiptext = جاے بارس منز گژھیو نیبس منز
 
@@ -186,6 +179,7 @@ bookmarks-sidebar-content =
     .aria-label = نشان زَد
 bookmarks-bookmark-edit-panel =
     .label = یئ نشان زَد كریو ایڈيٹ
+
 bookmarks-toolbar-menu =
     .label = نشان زد ٹول بار
 bookmarks-toolbar-placeholder =
@@ -235,6 +229,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } خٲطرئ دیو پاپ اَپسن اجازت
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost } خٲطرئ كریو  پاپ اَپسن بند
     .accesskey = p
@@ -244,3 +239,4 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = یئ شیچھ مئ ہٲویو یل۪ی پاپ اَپس بند گژھَن
     .accesskey = D
+

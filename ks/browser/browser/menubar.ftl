@@ -104,9 +104,6 @@ menu-file-go-offline =
 menu-edit =
     .label = تئ ادارت
     .accesskey = E
-menu-edit-find-on =
-    .label = ییتھ صفحس پیٹھ ژھئنڈیو
-    .accesskey = F
 menu-edit-find-again =
     .label = بیی ژھئڈیو
     .accesskey = g
@@ -122,9 +119,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = ٹول بارز
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = کسٹمائز ۔۔۔
-    .accesskey = C
 menu-view-sidebar =
     .label = سائڈ بار
     .accesskey = e
@@ -197,10 +191,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = نشانئ زد{ " " }
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = سٲری نشانزد ہٲویو
-menu-bookmark-this-page =
-    .label = یتھ صفحس تھٲویو نشان زد
 menu-bookmark-edit =
     .label = یئ نشان زَد كریو ایڈيٹ
 menu-bookmarks-all-tabs =
@@ -216,32 +206,15 @@ menu-tools =
 menu-tools-downloads =
     .label = ڈاؤن لوڈز
     .accesskey = D
-menu-tools-addons =
-    .label = & ایڈ آنس
-    .accesskey = A
 menu-tools-sync-now =
     .label = وئن كریو سینك
     .accesskey = S
-menu-tools-web-developer =
-    .label = & ویب بناوان وۄل
-    .accesskey = W
 menu-tools-page-source =
     .label = صفحہ زریئعئ
     .accesskey = o
 menu-tools-page-info =
     .label = صفحہ  ئچ مولومات
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] آپشنس{ "  " }
-           *[other] ترجیحات
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -272,21 +245,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = مدد
     .accesskey = م
-menu-help-product =
-    .label = { " " }&برانڈ شاٹ ناو؛ مدد
-    .accesskey = م
-menu-help-show-tour =
-    .label = { "  " }ٹوور &برانڈ شاٹ ناو؛{ " " }
-    .accesskey = ب
-menu-help-keyboard-shortcuts =
-    .label = کی بورڈ شاٹ کٹ&
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = & مثلئ ہل كرنچ مولومات
-    .accesskey = T
 menu-help-feedback-page =
     .label = & پنِن راے كریو دٲخل...
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = & تئ دوبارئ كریو شروع ایڈ آنس بند كریتھ...
-    .accesskey = R

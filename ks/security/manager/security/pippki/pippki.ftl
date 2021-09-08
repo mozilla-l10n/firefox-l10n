@@ -6,9 +6,6 @@ password-quality-meter = خوفیا لفظ خصویت میٹر
 
 ## Change Password dialog
 
-change-password-window =
-    .title = ۔ماسٹر خفیہ   لفظ  بدلٲویو
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = حفئظتی عالئ: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = نئو ئ خفیہ لفظ(دوبارہ)
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = &ماسٹر خفیہ   لفظ كریو ری سیٹ
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = ری سیٹ کریو
-reset-password-text = اگر توہیہ ریسیٹ کْریو پنُن ماسٹر پاس وأرڈ، تُہند تمام سِٹور ویب تْہ ایمیل۔پاس وأرڈ، فارم ڈاٹا، ذأتی سرٹیفیکیٹ، تْہ پرایوٹ کی یِین مشراونْہ۔ کیاہ توہیہ چھیو پْز پأٹھ ماسٹر پاس وأرڈ ریسیٹ کرُن یژھان؟
 
 ## Downloading cert dialog
 

@@ -78,39 +78,6 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-name-auto =
-    .label = موجود لوکیل باپت ڈیفالٹْہ
-fonts-languages-fallback-name-arabic =
-    .label = عربی
-fonts-languages-fallback-name-baltic =
-    .label = بالٹِك
-fonts-languages-fallback-name-ceiso =
-    .label = مرکزی یورپی
-fonts-languages-fallback-name-cewindows =
-    .label = مرکزی یورپی، مایکروسافٹْہ
-fonts-languages-fallback-name-simplified =
-    .label = چینی، سادْ
-fonts-languages-fallback-name-traditional =
-    .label = چینی، روایتی
-fonts-languages-fallback-name-cyrillic =
-    .label = سیرلیك
-fonts-languages-fallback-name-greek =
-    .label = یونئنی
-fonts-languages-fallback-name-hebrew =
-    .label = ہیبریو
-fonts-languages-fallback-name-japanese =
-    .label = جاپانی
-fonts-languages-fallback-name-korean =
-    .label = کوریائی
-fonts-languages-fallback-name-thai =
-    .label = تھائی
-fonts-languages-fallback-name-turkish =
-    .label = تركش
-fonts-languages-fallback-name-vietnamese =
-    .label = ویتنمیز
-fonts-languages-fallback-name-other =
-    .label = باقی ( یتھ منز شأمل چھ مغربی یورپین)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
