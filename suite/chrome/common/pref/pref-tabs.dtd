@@ -5,7 +5,7 @@
 <!ENTITY tabHeader.label "分頁瀏覽">
 
 <!ENTITY tabDisplay.label "分頁顯示">
-<!ENTITY autoHide.label "只有一個分頁時自動隱藏分頁工具列">
+<!ENTITY autoHide.label "只開啟一個分頁時自動隱藏分頁列">
 <!ENTITY autoHide.accesskey2 "e">
 <!ENTITY background.label "在背景載入鏈結">
 <!ENTITY background.accesskey "S">
