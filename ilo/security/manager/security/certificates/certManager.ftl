@@ -5,35 +5,6 @@
 certmgr-tab-ca =
     .label = Turay
 
-certmgr-detail-general-tab-title =
-    .label = Sapasap
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Detalie
-    .accesskey = D
-
-certmgr-subject-label = Pagipaayan
-
-certmgr-issuer-label = Mangipaay
-
-certmgr-fingerprints = Lemma
-
-certmgr-cert-detail =
-    .title = Detalie ti Sertipiko
-    .buttonlabelaccept = Close
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = Sapasan a Nagan (CN)
-
-certmgr-cert-detail-org = Bunggoy (O)
-
-certmgr-cert-detail-orgunit = Paset ti Bunggoy (OU)
-
-certmgr-cert-detail-serial-number = Bilang ti Serie
-
-certmgr-cert-detail-sha-1-fingerprint = Lemma ti SHA1
-
 certmgr-edit-ca-cert =
     .title = Baliwan dagiti parametro ti pannakatalek ti sertipiko a CA
     .style = width: 48em;
@@ -49,8 +20,6 @@ certmgr-delete-cert =
 
 certmgr-cert-name =
     .label = Nagan ti Sertipiko
-
-certmgr-expires-on = Panagpapaso
 
 certmgr-expires-label =
     .label = Panagpapaso
@@ -88,14 +57,6 @@ certmgr-backup =
 certmgr-backup-all =
     .label = Itipon Amin...
     .accesskey = k
-
-certmgr-details =
-    .value = Batog ti Sertipiko
-    .accesskey = F
-
-certmgr-fields =
-    .value = Pateg ti Batog
-    .accesskey = V
 
 certmgr-add-exception =
     .label = Inayon ti Laksid...
@@ -150,46 +111,11 @@ delete-user-cert-title =
 delete-user-cert-impact = No buraenyo ti maysa a bukodyo a sertipiko, saanyonto a maaramat dayta tapno makapamigbigan.
 
 
-delete-ssl-cert-title =
-    .title = Buraen ti Laksid ti Sertipiko ti Serbidor
-delete-ssl-cert-impact = No buraenyo ti laksid ti serbidor, isubliyonto ti kadaywan a panangpaneknek iti seguridad kadayta a serbidor ken ipadawatyo nga agaramat ti maaarigan a sertipiko.
-
-
 delete-email-cert-title =
     .title = Borraen ti Sertipiko ti E-Mail
 delete-email-cert-impact = No borraenyo ti sertipiko ti korreo ti sabali, saanyonton a maipatulod ti nakakripta nga e-mail kadaydiay a tao.
 
 ## Cert Viewer
-
-not-present =
-    .value = <Saan a Paset ti Sertipiko>
-
-# Cert verification
-cert-verified = Napatalgedan ti sertipiko agpaay kadagiti sumagsaganad nga aramat:
-
-# Add usage
-verify-ssl-client =
-    .value = Sertipiko ti Kliente a SSL
-
-verify-ssl-server =
-    .value = Sertipiko ti Serbidor a SSL
-
-verify-ssl-ca =
-    .value = Sertipikasion nga Awtoridad ti SSL
-
-verify-email-signer =
-    .value = Sertipiko ti Mampirma iti E-Mail
-
-verify-email-recip =
-    .value = Sertipiko ti Mangawat iti E-mail
-
-# Cert verification
-cert-not-verified-cert-revoked = Saan a napasingkedan daytoy a sertipiko gapu ta nawaswasen.
-cert-not-verified-cert-expired = Saan a napasingkedan daytoy a sertipiko gapu ta nagpason.
-cert-not-verified-cert-not-trusted = Saan a napasingkedan daytoy a sertipiko gapu ta saan a matalkan.
-cert-not-verified-issuer-not-trusted = Saan a mapasingkedan daytoy a sertipiko gapu ta saan a matalkan ti nangiwaras.
-cert-not-verified-issuer-unknown = Saan a napasingkedan daytoy a sertipiko gapu ta saan nga am-ammo ti nangiwaras.
-cert-not-verified-unknown = Saan a napasingkedan daytoy a sertpiko ta awan ti gapgapuna.
 
 ## Used to show whether an override is temporary or permanent
 

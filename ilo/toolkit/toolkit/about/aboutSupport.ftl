@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashes-id = ID ti Danon
-extensions-name = Nagan
-extensions-version = Bersion
 support-addons-name = Nagan
 support-addons-version = Bersion
 app-basics-title = Kangrunaan a Kapanunotan

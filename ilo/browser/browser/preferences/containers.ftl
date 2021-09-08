@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Nayonan ti Baro a Pangikabilan
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Kaykayat ti Pangikabilan ti { $name }
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Ikono
 containers-color-label = Maris
     .accesskey = M
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Nalpas
-    .accesskey = s
 
 containers-color-blue =
     .label = Asul

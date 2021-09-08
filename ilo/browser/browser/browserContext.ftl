@@ -11,12 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -24,12 +18,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -60,18 +48,11 @@ main-context-menu-page-save =
     .label = Save Page As…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
     .label = Ilukat ti Panilpo
     .accesskey = o
-
-main-context-menu-bookmark-this-link =
-    .label = Bookmark This Link
-    .accesskey = L
 
 main-context-menu-save-link =
     .label = Idulin ti Kasilpo kas...
@@ -88,10 +69,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Kopiaen ti Pagtaengan nga E-Mail
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = Kopiaen ti Disso ti Kasilpo
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -127,37 +104,13 @@ main-context-menu-media-video-fullscreen =
     .label = Dagup a Pantalia
     .accesskey = F
 
-main-context-menu-image-view =
-    .label = View Image
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = View Video
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = Kopiaen ti Ladawan
     .accesskey = y
 
-main-context-menu-image-copy-location =
-    .label = Kopiaen ti Disso ti Ladawan
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Kopiaen ti Disso ti Video
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Kopiaen ti Disso ti Audio
-    .accesskey = o
-
 main-context-menu-image-save-as =
     .label = Idulin ti Ladawan kas...
     .accesskey = v
-
-main-context-menu-image-set-as-background =
-    .label = Ituding kas Likod ti Eskritorio
-    .accesskey = s
 
 main-context-menu-image-info =
     .label = Kitaen ti Damag maipapan ti Ladawan
@@ -166,14 +119,6 @@ main-context-menu-image-info =
 main-context-menu-audio-save-as =
     .label = Idulin ti Audio kas...
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = Idulin ti Snapshop a kas...
-    .accesskey = S
-
-main-context-menu-view-background-image =
-    .label = View Background Image
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -236,8 +181,4 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = Sukatan ti Tungo ti Panid
     .accesskey = d
-
-main-context-menu-inspect-element =
-    .label = Sukimaten
-    .accesskey = S
 

@@ -26,9 +26,6 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Barras ti Menu">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY personalbarCmd.label "Barras ti Pannanda">
-<!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Banag iti Barras ti Pannanda">
 
 
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
@@ -43,27 +40,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
-     fullscreenWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring fullscreen.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
-<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
-     pointerlockWarning.afterDomain.label): these two strings are used
-     respectively before and after the domain requiring pointerlock.
-     Localizers can use one of them, or both, to better adapt this
-     sentence to their language. -->
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
-<!ENTITY recentBookmarks.label "Nabiit a Napannanda">
-<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
 
 <!ENTITY printButton.label            "Imaldit">
 <!ENTITY printButton.tooltip          "Imaldit daytoy a panid">
@@ -79,11 +59,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 
 
-<!ENTITY bookmarksButton.label          "Pannanda">
-
-
-<!ENTITY addons.label                 "Add-ons">
-
 <!ENTITY webDeveloperMenu.label       "Web Developer">
 
 
@@ -94,13 +69,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Pagdumdumaan">
 
 <!ENTITY historyMenu.label "Pakasaritaan">
-
-<!ENTITY historyUndoMenu.label "Nairikep itay a Nabiit a Lapayag">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Nairikep itay Nabiit a Tawa">
-
-<!ENTITY appMenuHistory.clearRecent.label "Borraen ti Nabiit a Pakasaritaan">
-<!ENTITY appMenuHistory.recentHistory.label "Nabiit a Pakasaritaan">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -113,8 +81,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-<!ENTITY appMenuRecentHighlights.label "Nabiit a Tampok">
 
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
@@ -171,9 +137,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 
 <!ENTITY sidebarCloseButton.tooltip     "Close sidebar">
-
-<!ENTITY quitApplicationCmdWin2.label       "Exit">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
 
 
 <!ENTITY allowPopups.accesskey "p">

@@ -20,10 +20,6 @@ permissions-allow =
 permissions-status =
     .label = Kasasaad
 
-permissions-button-cancel =
-    .label = Ibabawi
-    .accesskey = C
-
 permissions-capabilities-allow =
     .label = Palubosan
 permissions-capabilities-block =

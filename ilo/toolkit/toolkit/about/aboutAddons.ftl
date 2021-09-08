@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Mangimaton ti Raman
-
 addons-page-title = Mangimaton ti Raman
 
 search-header-shortcut =
@@ -21,26 +18,6 @@ list-empty-recent-updates =
 
 list-empty-find-updates =
     .label = Palutputen ti Pannanarimaan
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opsion
-           *[other] Pagdumdumaan
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Aramaten ti Tema
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = Stop Wearing Theme
-    .accesskey = T
 
 detail-version =
     .label = Bersion

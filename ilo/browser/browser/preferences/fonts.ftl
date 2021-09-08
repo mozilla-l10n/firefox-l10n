@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Panagkodigo ti Text para Tawid a Laon
-fonts-languages-fallback-desc = Daytoy a panagkodigo ket aramaten para tawid a laon a dina ipakaammo ti panagkodigona.
-
-fonts-languages-fallback-label = Pangsabalian a Panagkodigo ti Text
-    .accesskey = x
-
-fonts-languages-fallback-name-auto =
-    .label = Sigud ti Agdama a Lokalidad
-fonts-languages-fallback-name-arabic =
-    .label = Arabiko
-fonts-languages-fallback-name-baltic =
-    .label = Baltiko
-fonts-languages-fallback-name-ceiso =
-    .label = Akintengnga nga Ewropa, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Akintengnga nga Ewropa, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Insik, Pinaababaan
-fonts-languages-fallback-name-traditional =
-    .label = Insik, Nakaisigudan
-fonts-languages-fallback-name-cyrillic =
-    .label = Siriliko
-fonts-languages-fallback-name-greek =
-    .label = Griego
-fonts-languages-fallback-name-hebrew =
-    .label = Hebreo
-fonts-languages-fallback-name-japanese =
-    .label = Hapon
-fonts-languages-fallback-name-korean =
-    .label = Koreano
-fonts-languages-fallback-name-thai =
-    .label = Tailandes
-fonts-languages-fallback-name-turkish =
-    .label = Turko
-fonts-languages-fallback-name-vietnamese =
-    .label = Bietnames
-fonts-languages-fallback-name-other =
-    .label = Sabali (mairaman ti Akinlaud nga Ewropa)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

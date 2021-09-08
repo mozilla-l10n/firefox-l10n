@@ -61,9 +61,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Baliwan
     .accesskey = E
-menu-edit-find-on =
-    .label = Find in This Page…
-    .accesskey = F
 menu-edit-find-again =
     .label = Biroken manen
     .accesskey = g
@@ -139,8 +136,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Pannanda
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = Show All Bookmarks
 menu-bookmark-edit =
     .label = Baliwan Daytoy a Pannanda
 menu-bookmarks-all-tabs =
@@ -153,32 +148,15 @@ menu-bookmarks-toolbar =
 menu-tools =
     .label = Ramit
     .accesskey = t
-menu-tools-addons =
-    .label = Add-ons
-    .accesskey = A
 menu-tools-sync-now =
     .label = Ipatulad Ita
     .accesskey = u
-menu-tools-web-developer =
-    .label = Web Developer
-    .accesskey = W
 menu-tools-page-source =
     .label = Page Source
     .accesskey = o
 menu-tools-page-info =
     .label = Damag ti Panid
     .accesskey = i
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opsion
-           *[other] Pagdumdumaan
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 
 ## Window Menu
 
@@ -209,6 +187,3 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Tulong
     .accesskey = H
-menu-help-safe-mode-without-addons =
-    .label = Restart with Add-ons Disabled…
-    .accesskey = R

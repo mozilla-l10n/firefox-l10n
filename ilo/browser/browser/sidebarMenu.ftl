@@ -4,5 +4,6 @@
 
 sidebar-menu-bookmarks =
     .label = Pannanda
+
 sidebar-close-button =
     .tooltiptext = Close sidebar

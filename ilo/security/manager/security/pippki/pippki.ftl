@@ -11,15 +11,10 @@ change-password-reenter = Baro a Kontrasenias (manen):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Ituding ti Kontrasenias a Maestro
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Reset
-reset-password-text = No baliwanyo ti kontrasenias a maestro, malipatan amin a kontraseniasyo nga nakadulin ti Web ken e-mail, datos ti pormulario, napakni a sertipiko ken napakni a tulbek. Siguradokayo kadi a kayato a baliwan ti kontraseniasyo a maestro?
 
 ## Downloading cert dialog
 

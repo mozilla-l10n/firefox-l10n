@@ -51,11 +51,3 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Naskento a mangikarga manen dagiti sitio iti ladawan ken datos
 
-clear-site-data-cancel =
-    .label = Ibabawi
-    .accesskey = w
-
-clear-site-data-clear =
-    .label = Borraen
-    .accesskey = B
-

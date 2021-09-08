@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Opsion
-       *[other] Pagdumdumaan
-    }
-
 pane-general-title = Sapasap
 category-general =
     .tooltiptext = { pane-general-title }
@@ -89,10 +83,6 @@ applications-select-helper = Pilien ti Mannulong nga Aplikasion
 
 applications-manage-app =
     .label = Detalie ti Aplikasion...
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -213,9 +203,6 @@ forms-exceptions =
     .label = Laksid...
     .accesskey = x
 
-forms-master-pw-use =
-    .label = Aramaten ti Kontrasenias a Maestro
-    .accesskey = U
 forms-master-pw-change =
     .label = Sukatan ti Kontrasenias a Maestro...
     .accesskey = M

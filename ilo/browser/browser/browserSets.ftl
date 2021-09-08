@@ -82,28 +82,12 @@ picture-in-picture-toggle-shortcut-alt =
 bookmark-this-page-shortcut =
     .key = d
 
-# Verify what shortcut for that operation
-# are recommended by the Human Interface Guidelines
-# of each platform for your locale.
-bookmark-show-all-shortcut =
-    .key =
-        { PLATFORM() ->
-            [linux] o
-           *[other] i
-        }
-
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
 ## you can use these alternative items. Otherwise, their values should be empty.
 
 full-zoom-reduce-shortcut =
     .key = -
-
-# If in keyboard layouts popular for your locale you need to use the shift key
-# to access the original shortcuts, the following shortcuts can be used.
-# Otherwise their values should remain empty.
-full-zoom-reduce-shortcut-alt =
-    .key = { "" }
 
 full-zoom-enlarge-shortcut =
     .key = +

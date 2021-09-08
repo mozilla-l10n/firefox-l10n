@@ -18,9 +18,6 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Ipatulad Ita
-
 appmenuitem-save-page =
     .label = Save Page As…
 

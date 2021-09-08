@@ -39,11 +39,6 @@ connection-proxy-http-port = Siwal
 connection-proxy-ssl-port = Siwal
     .accesskey = w
 
-connection-proxy-ftp = proxy ti FTP
-    .accesskey = F
-connection-proxy-ftp-port = Siwal
-    .accesskey = w
-
 connection-proxy-socks = Mamadagus ti SOCKS
     .accesskey = C
 connection-proxy-socks-port = Siwal

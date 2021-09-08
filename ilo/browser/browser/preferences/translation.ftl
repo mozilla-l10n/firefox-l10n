@@ -35,7 +35,3 @@ translation-sites-button-remove-all =
     .label = Ikkaten Amin a Sitio
     .accesskey = S
 
-translation-button-close =
-    .label = Close
-    .accesskey = C
-
