@@ -6,6 +6,6 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
-about-unloads-page-title = Discargamento de scheda
+about-unloads-page-title = Remotion de schedas
 about-unloads-column-priority = Prioritate
 about-unloads-column-host = Hoste
