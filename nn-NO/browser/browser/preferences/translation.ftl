@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Fjern alle nettstadar
     .accesskey = r
 
-translation-button-close =
-    .label = Lat att
-    .accesskey = L
-
 translation-dialog =
     .buttonlabelaccept = Lat att
     .buttonaccesskeyaccept = L

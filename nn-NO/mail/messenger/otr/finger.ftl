@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = OTR-nøkkelfingeravtrykk frå tidlegare ende-til-ende-krypterte samtalar.
 
-finger-screenName =
-    .label = Kontakt
-
 finger-verified =
     .label = Stadfestingsstatus
 finger-fingerprint =

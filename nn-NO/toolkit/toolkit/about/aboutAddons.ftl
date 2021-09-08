@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Handter tillegg
-
 addons-page-title = Handter tillegg
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Brukarstøtte for tillegg
 sidebar-help-button-title =
     .title = Brukarstøtte for tillegg
 
-preferences =
-    { PLATFORM() ->
-        [windows] Innstillingar for { -brand-short-name }
-       *[other] Innstillingar for { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Innstillingar for { -brand-short-name }
-           *[other] Innstillingar for { -brand-short-name }
-        }
-
 addons-settings-button = { -brand-short-name }-innstillingar
 sidebar-settings-button-title =
     .title = { -brand-short-name }-innstillingar
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Vis alle utvidingar
-
-cmd-show-details =
-    .label = Vis meir informasjon
-    .accesskey = V
-
-cmd-find-updates =
-    .label = Sjå etter oppdateringar
-    .accesskey = S
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Innstillingar
-           *[other] Innstillingar
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] I
-        }
-
-cmd-enable-theme =
-    .label = Bruk temaet
-    .accesskey = B
-
-cmd-disable-theme =
-    .label = Slutt å bruke temaet
-    .accesskey = b
-
-cmd-install-addon =
-    .label = Installer
-    .accesskey = I
-
-cmd-contribute =
-    .label = Ver med
-    .accesskey = V
-    .tooltiptext = Bidra til utviklinga av dette tillegget
 
 detail-version =
     .label = Version
@@ -401,8 +349,6 @@ dictionary-disabled-heading = Slått av
 
 locale-enabled-heading = Slått på
 locale-disabled-heading = Slått av
-
-ask-to-activate-button = Spør om aktivering
 
 always-activate-button = Alttid aktiver
 never-activate-button = Aldri aktiver

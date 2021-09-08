@@ -6,9 +6,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = Fjern { $type }-feltet
-
-#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -90,18 +87,6 @@ attachment-bucket-count =
         }
     .accesskey = v
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext =
-        { $count ->
-            [1] { $count } vedlegg
-           *[other] { $count } vedlegg
-        }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 expand-attachment-pane-tooltip =
     .tooltiptext = Vis vedleggspanelet ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
@@ -135,7 +120,10 @@ button-return-receipt =
     .label = Kvittering
     .tooltiptext = Be om returkvittering for denne meldinga
 
+# Encryption
+
 # Addressing Area
+
 
 ## Notifications
 

@@ -41,11 +41,6 @@
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "e">
 
-<!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "Tekstbryting">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "B">
-
 <!ENTITY accountManagerCmd.label "Kontoinstillingar for e-post og nyheitsgrupper…">
 <!ENTITY accountManagerCmd.accesskey "K">
 

@@ -68,6 +68,8 @@ insecure-dialog-confirm-button = Stadfest
 
 exchange-dialog-cancel-button = Avbryt
 
+## Dismiss account creation dialog
+
 ## Alert dialogs
 
 

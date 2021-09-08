@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Krev at nettsider lastar bilde og data på nytt
 
-clear-site-data-cancel =
-    .label = Avbryt
-    .accesskey = A
-
-clear-site-data-clear =
-    .label = Fjern
-    .accesskey = F
-
 clear-site-data-dialog =
     .buttonlabelaccept = Fjern
     .buttonaccesskeyaccept = F

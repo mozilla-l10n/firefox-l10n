@@ -58,8 +58,6 @@ printui-options = Innstillingar
 printui-headers-footers-checkbox = Skriv ut topptekst og botntekst
 printui-backgrounds-checkbox = Skriv ut bakgrunnar
 
-printui-selection-checkbox = Skriv berre ut utvalet
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
