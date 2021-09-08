@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Eisgeachdan
     .style = width: 50em;
 
-window-close-key =
-    .key = w
-
 permission-preferences-close-window =
     .key = w
 

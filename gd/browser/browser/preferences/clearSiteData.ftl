@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Sparraidh seo air làraichean-lìn dealbhan is dàta a luchdadh às ùr
 
-clear-site-data-cancel =
-    .label = Sguir dheth
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Falamhaich
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = Falamhaich
     .buttonaccesskeyaccept = l

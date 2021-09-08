@@ -110,9 +110,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Mar a dh’obraicheas e
 
-turn-on-sync = Cuir { -sync-brand-short-name } air…
-    .title = Tadhail air roghainnean an t-sioncronachaidh
-
 monitor-title = Cùm sùil airson dàta a chaidh a leigeil air èalaidh.
 monitor-link = Mar a dh’obraicheas e
 monitor-header-content-no-account = Thoir sùil air { -monitor-brand-name }feuch an deach dàta agad a leigeil air èalaidh le briseadh a-steach air dàta agus faigh caismeachdan mu brisidhean a-steach ùra.

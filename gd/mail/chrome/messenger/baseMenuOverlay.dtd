@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "h">
 <!ENTITY aboutProduct2.label "Mu &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "A">
-<!ENTITY helpTroubleshootingInfo.label     "Taic le duilgheadasan">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY helpSafeMode.label     "Ath-thòisich leis na tuilleadan air an cur à comas…">
-<!ENTITY helpSafeMode.accesskey "r">
-<!ENTITY helpSafeMode.stop.label     "Ath-thòisich leis na tuilleadan an comas">
-<!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Cobhair &brandShortName;">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">

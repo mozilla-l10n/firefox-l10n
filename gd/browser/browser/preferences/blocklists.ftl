@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Liosta
 
-blocklist-button-cancel =
-    .label = Sguir dheth
-    .accesskey = S
-
-blocklist-button-ok =
-    .label = Sàbhail na h-atharraichean
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Sàbhail na h-atharraichean
     .buttonaccesskeyaccept = S

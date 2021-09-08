@@ -10,9 +10,6 @@ third-party-intro =
     le treas-phàrtaidhean. Tha sinn a’ meas mòideal sam bith nach deach a shoidhneadh
     le Microsoft no { -vendor-short-name } ’na mhòideal treas-phàrtaidh.
 
-third-party-header-module-list = Liosta na mòidealan
-third-party-header-loading-events = Luchdadh thachartasan
-
 third-party-message-empty = Cha do mhothaich sinn do mhòideal treas-phàrtaidh sam bith.
 third-party-message-no-duration = Gun chlàradh
 

@@ -20,16 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Tagh gach taba
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Neo-dhèan dùnadh an taba
-            [one] Neo-dhèan dùnadh nan tabaichean
-            [two] Neo-dhèan dùnadh nan tabaichean
-            [few] Neo-dhèan dùnadh nan tabaichean
-           *[other] Neo-dhèan dùnadh nan tabaichean
-        }
-    .accesskey = N
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -62,9 +52,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Prìnich ris a’ chlàr-taice taosgaidh
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Falaich gu fèin-obrachail air bàr nan inneal
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Falaich am putan nuair a bhios e falamh
     .accesskey = h

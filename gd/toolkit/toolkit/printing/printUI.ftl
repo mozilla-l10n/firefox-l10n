@@ -60,8 +60,6 @@ printui-options = Roghainnean
 printui-headers-footers-checkbox = Clò-bhuail bannan-cinn is -coise
 printui-backgrounds-checkbox = Clò-bhuail na cùlaibhean
 
-printui-selection-checkbox = Na clò-bhuail ach an taghadh
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

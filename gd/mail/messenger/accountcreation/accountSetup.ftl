@@ -40,6 +40,8 @@ ssl-noencryption-option = Gun chrioptachadh
 
 ## Warning Exchange confirmation dialog
 
+## Dismiss account creation dialog
+
 ## Alert dialogs
 
 ## Addon installation section

@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "A">
 <!ENTITY deleteCmd.label          "Sguab às">
 <!ENTITY deleteCmd.accesskey        "S">
-<!ENTITY preferencesCmd2.label "Roghainnean">
-<!ENTITY preferencesCmd2.accesskey "o">
-<!ENTITY preferencesCmdUnix.label       "Roghainnean">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
 <!ENTITY customizeCmd.label "Gnàthaich">
 <!ENTITY customizeCmd.accesskey "t">
 

@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Dèan comharra-lìn dhen taba
     .accesskey = B
-reopen-in-container =
-    .label = Ath-fhosgail san t-soitheach
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Fosgail ann an taba soithich ùr
     .accesskey = F
@@ -69,28 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Dùin iomadh taba
     .accesskey = m
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Neo-dhèan dùnadh an taba
-            [one] Neo-dhèan dùnadh nan tabaichean
-            [two] Neo-dhèan dùnadh nan tabaichean
-            [few] Neo-dhèan dùnadh nan tabaichean
-           *[other] Neo-dhèan dùnadh nan tabaichean
-        }
-    .accesskey = N
-close-tab =
-    .label = Dùin an taba
-    .accesskey = D
-close-tabs =
-    .label = Dùin na tabaichean
-    .accesskey = S
-move-tabs =
-    .label = Gluais na tabaichean
-    .accesskey = v
-move-tab =
-    .label = Gluais an taba
-    .accesskey = v
 tab-context-share-url =
     .label = Co-roinn
     .accesskey = C
@@ -130,6 +105,7 @@ tab-context-move-tabs =
            *[other] Gluais na tabaichean
         }
     .accesskey = G
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
