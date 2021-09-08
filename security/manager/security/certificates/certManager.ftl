@@ -11,22 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Tishayamtsetfo /Emagunya
 
-certmgr-subject-label = Siniketwe Ku
-
-certmgr-issuer-label = Siniketwe Ngu
-
-certmgr-fingerprints = Titfupha
-
-certmgr-cert-detail-commonname = Libito Lelivamile (CN)
-
-certmgr-cert-detail-org = Inhlangano (O)
-
-certmgr-cert-detail-orgunit = Bunye Benhlangano (OU)
-
-certmgr-cert-detail-serial-number = Isiriyali Namba
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 Sitfupha
-
 certmgr-edit-ca-cert =
     .title = Editha tinhelo tesitifiketi Thrasti iCA
     .style = width: 48em;
@@ -45,8 +29,6 @@ certmgr-cert-name =
 
 certmgr-token-name =
     .label = Idivayisi Yekuvikela
-
-certmgr-expires-on = Isipaya Nge
 
 certmgr-expires-label =
     .label = Isipaya Nge
@@ -95,37 +77,6 @@ delete-email-cert-confirm = Ucinisekile ufuna kucisha letitifiketi talabantfu te
 delete-email-cert-impact = Nawucisha sitifiketi se-imeyili, angeke usakhona kutfumela leguculwe ngekufihla kulabo bantfu.
 
 ## Cert Viewer
-
-not-present =
-    .value = <Akusiyo incenye ysitifiketi>
-
-# Cert verification
-cert-verified = Lesitifiketi sicinisekiswe ngalemisebenti lelandzelako:
-
-# Add usage
-verify-ssl-client =
-    .value = Sitifiketi semtsengi SSL
-
-verify-ssl-server =
-    .value = Silulu sesitifiketi SSL
-
-verify-ssl-ca =
-    .value = Sitifiketi semtsetfo SSL
-
-verify-email-signer =
-    .value = Umsayini sitifiketi we-imeyili
-
-verify-email-recip =
-    .value = Sitifiketi salowamukela I-imeyili
-
-# Cert verification
-cert-not-verified-cert-revoked = Kumatima kucinisekisa lesitifiketi ngoba sicishiwe.
-cert-not-verified-cert-expired = Kumatima kucinisekisa lesitifiketi ngoba siphelelwe sikhatsi.
-cert-not-verified-cert-not-trusted = Kumatima kucinisekisa lesitifiketi ngoba asitsenjwa.
-cert-not-verified-issuer-not-trusted = Kumatima kucinisekisa lesitifiketi ngoba losikhiphile akatsembeki.
-cert-not-verified-issuer-unknown = Kumatima kucinisekisa lesitifiketi ngoba losikhiphile akatiwa.
-cert-not-verified-ca-invalid = Asikacinisekiswa lesitifiketi ngoba sitifiketi CA asikho emtsetfweni.
-cert-not-verified-unknown = Asikacinisekiswa lesitifiketi ngetizatfu letingatiwa.
 
 ## Used to show whether an override is temporary or permanent
 

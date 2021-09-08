@@ -36,10 +36,6 @@
 <!ENTITY printCmd.label "Phrinta...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Lunguta iphrinti">
-<!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printSetupCmd.label "Kusethwa kwelipheji...">
-<!ENTITY printSetupCmd.accesskey "t">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Cisha umlayeto">
@@ -322,8 +318,6 @@
 <!ENTITY messengerCmd.accesskey "l">
 <!ENTITY addressBookCmd.label "Incwadzi yemakheli">
 <!ENTITY addressBookCmd.accesskey "i">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "d">
 <!ENTITY filtersApply.label "Hambisa lihluto kumafolda">
 <!ENTITY filtersApply.accesskey "H">
 <!-- Help Menu -->
@@ -347,13 +341,10 @@
 <!ENTITY fileButton.label "Lifayela">
 <!ENTITY nextButton.label "Lokulandzelako">
 <!ENTITY previousButton.label "Kwakucala">
-<!ENTITY deleteButton.label "Cisha">
 <!ENTITY markButton.label "Bekisa">
 <!ENTITY printButton.label "Phrinta">
 <!ENTITY stopButton.label "Mani">
 <!ENTITY throbberItem.title "Umkhombandlela wemnyakato">
-<!ENTITY junkButton.label "Tibi">
-<!ENTITY notJunkButton.label "Akusito tibi">
 <!ENTITY addressBookButton.label "Incwadzi yemakheli">
 <!ENTITY searchItem.title "Quick Search">
 <!ENTITY mailViewsToolbarItem.title "Mail Views">
@@ -373,12 +364,9 @@
 <!ENTITY previousButton.tooltip "Yani kumlayeto lowengcile">
 <!ENTITY goForwardButton.tooltip "Go forward one message">
 <!ENTITY goBackButton.tooltip "Go back one message">
-<!ENTITY deleteButton.tooltip "Cisha imilayeto lephawuliwe nome ifolda">
 <!ENTITY markButton.tooltip "Bekisa imilayeto">
 <!ENTITY printButton.tooltip "Phrinta lomlayeto">
 <!ENTITY stopButton.tooltip "Misa lokutfutfukiswa lokwentekako">
-<!ENTITY junkButton.tooltip "Bekisa umlayeto lophawuliwe njengetibi">
-<!ENTITY notJunkButton.tooltip "Bekisa umlayeto lophawuliwe hhayi njengetibi">
 <!ENTITY addressBookButton.tooltip "Yani encwadzini yemakheli">
 <!ENTITY tagButton.tooltip "Tag messages">
 <!-- Tags Menu Popup -->

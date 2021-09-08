@@ -5,12 +5,6 @@
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -18,12 +12,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -49,9 +37,6 @@ toolbar-button-stop-reload =
 ## Firefox Account Button
 
 ## Save Page
-
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
@@ -95,29 +80,13 @@ main-context-menu-copy-email =
 
 ##
 
-main-context-menu-image-view =
-    .label = Buka Sitfombe
-    .accesskey = S
-
 main-context-menu-image-copy =
     .label = Kopa Sitfombe
     .accesskey = S
 
-main-context-menu-image-copy-location =
-    .label = Kopa Lendzawo Yesitfombe
-    .accesskey = o
-
 main-context-menu-image-save-as =
     .label = Seva Lesitfombe njenge…
     .accesskey = a
-
-main-context-menu-image-set-as-background =
-    .label = Misa njengebuso Bengcondvomshina…
-    .accesskey = M
-
-main-context-menu-view-background-image =
-    .label = Buka Umsuka Wesitfombe
-    .accesskey = U
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -164,10 +133,6 @@ main-context-menu-view-selection-source =
 main-context-menu-view-page-source =
     .label = Buka imvelaphi Yelipheji
     .accesskey = B
-
-main-context-menu-view-page-info =
-    .label = Buka Lwati Lwelipheji
-    .accesskey = L
 
 main-context-menu-bidi-switch-text =
     .label = Jikisa indlela yembhalo

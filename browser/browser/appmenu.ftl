@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Yetateta…
-
 ## Zoom Controls
 
 appmenuitem-new-window =

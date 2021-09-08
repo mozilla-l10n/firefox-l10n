@@ -6,24 +6,16 @@ password-quality-meter = Imitha lengiyo yelibitophawu
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Gucula libitophawu lelikhulu
-
 change-password-old = Libitophawu lanyalo:
 change-password-new = Libitophawu lelisha:
 change-password-reenter = Libitophawu lelisha (futsi):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Hlela libitophawu lelikhulu kabusha
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Hlela kabusha
-reset-password-text = Nawuphindza usetha libitophawu lakho lelikhulu, onkhe emawebhu akho lalondvolotiwe nemabitophawu e-imeyili, emafomu edatha, titifiketi takho ngco, netikhiya tangasense titawukhohlakala. Ucinisekile kutsi ufuna kusetha kabusha libitophawu lakho lelikhulu?
 
 ## Downloading cert dialog
 

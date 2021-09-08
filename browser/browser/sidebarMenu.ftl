@@ -4,5 +4,6 @@
 
 sidebar-menu-bookmarks =
     .label = Tibekiso
+
 sidebar-close-button =
     .tooltiptext = Vala Ibhaceleni
