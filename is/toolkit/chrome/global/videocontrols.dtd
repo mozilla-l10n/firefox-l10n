@@ -10,9 +10,6 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Hætta í fullum skjá">
 <!ENTITY castingButton.castingLabel "Senda á skjá">
 <!ENTITY closedCaption.off "Óvirkt">
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Hljóðstyrksval">
 
 <!ENTITY error.aborted "Myndbandhleðsla stöðvuð.">
 <!ENTITY error.network "Ekki er hægt að spila myndband vegna villu í netkerfi.">

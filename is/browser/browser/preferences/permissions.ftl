@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Fjarlægja öll vefsvæði
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Hætta við
-    .accesskey = H
-
-permissions-button-ok =
-    .label = Vista breytingar
-    .accesskey = V
-
 permission-dialog =
     .buttonlabelaccept = Vista breytingar
     .buttonaccesskeyaccept = V

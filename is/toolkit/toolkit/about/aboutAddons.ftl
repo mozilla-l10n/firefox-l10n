@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Viðbótastjóri
-
 addons-page-title = Viðbótastjóri
 
 search-header =
@@ -34,61 +31,11 @@ help-button = Viðbótastuðningur
 sidebar-help-button-title =
     .title = Viðbótastuðningur
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } Valmynd
-       *[other] { -brand-short-name } Valkostir
-    }
-
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } Valmynd
-           *[other] { -brand-short-name } Valkostir
-        }
-
 show-unsigned-extensions-button =
     .label = Ekki tókst að staðfesta sumar viðbætur
 
 show-all-extensions-button =
     .label = Sýna allar viðbætur
-
-cmd-show-details =
-    .label = Sýna meiri upplýsingar
-    .accesskey = S
-
-cmd-find-updates =
-    .label = Leita að uppfærslum
-    .accesskey = f
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Valkostir
-           *[other] Valkostir
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] o
-           *[other] o
-        }
-
-cmd-enable-theme =
-    .label = Nota þema
-    .accesskey = þ
-
-cmd-disable-theme =
-    .label = Hætta að nota þema
-    .accesskey = þ
-
-cmd-install-addon =
-    .label = Setja upp
-    .accesskey = t
-
-cmd-contribute =
-    .label = Gefa
-    .accesskey = G
-    .tooltiptext = Hjálpa til með þróunina á þessari viðbót
 
 detail-version =
     .label = Útgáfa

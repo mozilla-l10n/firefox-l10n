@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Fylgja sjálfvirkt eftir netstöðu
     .accesskey = ð
 
-startup-label = Handvirk staða þegar ræst er upp:
-
 status-radio-remember =
     .label = Muna síðustu nettengistöðu
     .accesskey = M

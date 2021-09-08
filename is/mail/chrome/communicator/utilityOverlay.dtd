@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey "r">
 <!ENTITY deleteCmd.label "Eyða">
 <!ENTITY deleteCmd.accesskey "E">
-<!ENTITY preferencesCmd2.label "Valkostir">
-<!ENTITY preferencesCmd2.accesskey "o">
-<!ENTITY preferencesCmdUnix.label "Valkostir">
-<!ENTITY preferencesCmdUnix.accesskey "V">
 
 <!ENTITY viewMenu.label "Skoða">
 <!ENTITY viewMenu.accesskey "k">

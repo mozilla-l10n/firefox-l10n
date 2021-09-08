@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Veldur því að vefsvæði þurfa að sækja aftur myndir og gögn
 
-clear-site-data-cancel =
-    .label = Hætta við
-    .accesskey = H
-
-clear-site-data-clear =
-    .label = Hreinsa
-    .accesskey = r
-
 clear-site-data-dialog =
     .buttonlabelaccept = Hreinsa
     .buttonaccesskeyaccept = r

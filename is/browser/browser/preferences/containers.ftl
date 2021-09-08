@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Bæta við nýjum innihaldsflipa
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } stillingar innihaldsflipa
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Táknmynd
 containers-color-label = Litur
     .accesskey = L
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Lokið
-    .accesskey = ð
 
 containers-dialog =
     .buttonlabelaccept = Lokið

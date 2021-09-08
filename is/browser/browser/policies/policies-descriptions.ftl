@@ -51,8 +51,6 @@ policy-DisableForgetButton = Hamla aðgang að Gleyma hnappnum.
 
 policy-DisableFormHistory = Ekki geyma form- og leitarsögu
 
-policy-DisableMasterPasswordCreation = Ef þetta er satt, geturðu ekki búið til aðal lykilorð.
-
 policy-DisablePocket = Slökkva á valkostinum til að geyma vefsíður í Pocket.
 
 policy-DisablePrivateBrowsing = Afvirkja huliðsstillingu

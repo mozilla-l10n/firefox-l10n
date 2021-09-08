@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Undanþágur
     .style = width: 45em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = Vistfang vefsvæðis:
     .accesskey = V
