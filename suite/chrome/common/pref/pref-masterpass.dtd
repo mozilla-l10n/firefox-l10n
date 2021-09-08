@@ -13,3 +13,5 @@
 <!ENTITY  resetpassword.text                     "如果重置主密码，您存储的所有Web和e-mail密码、表单数据、个人证书，以及私钥都将丢失。">
 <!ENTITY  resetpassword.button                   "重置密码">
 <!ENTITY  resetpassword.accesskey                "R">
+<!ENTITY  resetpassword2.button                  "重置密码">
+<!ENTITY  resetpassword2.accesskey               "P">

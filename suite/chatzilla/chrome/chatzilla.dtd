@@ -13,5 +13,7 @@
 
 <!ENTITY Underline.label             "下划线">
 <!ENTITY Bold.label                  "粗体">
+<!ENTITY Reverse.label               "倒放视频">
 <!ENTITY Normal.label                "标准">
 <!ENTITY Color.label                 "颜色">
+<!ENTITY ForeBack.label              "xx=前 yy=后">
