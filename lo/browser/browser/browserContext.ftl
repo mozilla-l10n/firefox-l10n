@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = ກັບໄປຫນຶ່ງຫນ້າ
-    .aria-label = ກັບຄືນ
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = ໄປຫນ້າຖັດໄປ
-    .aria-label = ໄປຂ້າງຫນ້າ
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = ເປີດລິ້ງໃນວິນໂດສ່ວນຕົວໃໝ່
     .accesskey = ສ
 
-main-context-menu-bookmark-this-link =
-    .label = ບຸກມາກລີ້ງນີ້
-    .accesskey = L
-
 main-context-menu-save-link =
     .label = ບັນທຶກລີ້ງນີ້ໄວ້ທີ່...
     .accesskey = k
@@ -181,10 +152,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = ສຳເນົາທີ່ຢູ່ຈົດຫມາຍ
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = ສຳເນົາທີ່ຢູ່ລີ້ງ
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -209,32 +176,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = ເປີດສຽງ
     .accesskey = m
-
-main-context-menu-media-play-speed =
-    .label = ຄວາມໄວໃນການຫຼີ້ນ
-    .accesskey = d
-
-main-context-menu-media-play-speed-slow =
-    .label = ຊ້າ (0.5×)
-    .accesskey = S
-
-main-context-menu-media-play-speed-normal =
-    .label = ປົກກະຕິ
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = ໄວ (1.25×)
-    .accesskey = F
-
-main-context-menu-media-play-speed-faster =
-    .label = ໄວຫລາຍ (1.5×)
-    .accesskey = a
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = ໄວທີ່ສຸດ (2×)
-    .accesskey = L
 
 main-context-menu-media-loop =
     .label = ວົນຮອບ
@@ -265,29 +206,9 @@ main-context-menu-image-reload =
     .label = ໂຫລດຮູບພາບໃຫມ່
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = ເບິ່ງຮູບພາບ
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = ເບິ່ງວີດີໂອ
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = ສຳເນົາຮູບພາບ
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = ສຳເນົາທີ່ຢູ່ຮູບພາບ
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = ສຳເນົາທີ່ຢູ່ວິດີໂອ
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = ສຳເນົາທີ່ຢູ່ຂອງສຽງ
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = ບັນທຶກຮູບພາບນີ້ໄວ້ທີ່...
@@ -296,10 +217,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = ຈົດຫມາຍ ຮູບພາບ...
     .accesskey = g
-
-main-context-menu-image-set-as-background =
-    .label = ກຳນົດເປັນພາບພື້ນຫລັງເດສກ໌ທັອບ…
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = ເບິ່ງຂໍ້ມູນຫນ້າເວັບ
@@ -316,10 +233,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = ບັນທຶກສຽງນີ້ໄວ້ທີ່...
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = ບັນທຶກຮູບທີ່ຖ່າຍໄວ້ທີ່...
-    .accesskey = S
 
 main-context-menu-video-email =
     .label = ຈົດຫມາຍວິດີໂອ...
@@ -340,10 +253,6 @@ main-context-menu-plugin-hide =
 main-context-menu-send-to-device =
     .label = ສົ່ງຫນ້າໄປຫາອຸປະກອນ
     .accesskey = D​
-
-main-context-menu-view-background-image =
-    .label = ເບິ່ງພາບພື້ນຫຼັງ
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -408,10 +317,6 @@ main-context-menu-view-page-source =
     .label = ເບິງແຫລ່ງຂໍ້ມູນຂອງຫນ້ານີ້
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = ເບິ່ງຂໍ້ມູນຫນ້າ
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = ສະລັບທິດທາງຕົວຫນັງສື
     .accesskey = w
@@ -420,13 +325,10 @@ main-context-menu-bidi-switch-page =
     .label = ສະລັບທິດທາງຫນ້າ
     .accesskey = D
 
-main-context-menu-inspect-element =
-    .label = ກວດກາອົງປະກອບ
-    .accesskey = Q
-
 main-context-menu-inspect-a11y-properties =
     .label = ກວດສອບຄຸນສົມບັດການຊ່ວຍການເຂົ້າເຖິງ
 
 main-context-menu-eme-learn-more =
     .label = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ DRM…
     .accesskey = D
+

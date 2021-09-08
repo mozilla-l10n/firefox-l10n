@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = ຕົວຈັດການກັບ Add-ons
-
 addons-page-title = ຕົວຈັດການກັບ Add-ons
 
 search-header-shortcut =
@@ -30,18 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = ສະແດງ extension ທັງຫມົດ
-
-cmd-find-updates =
-    .label = ຊອກຫາການອັບເດດ
-    .accesskey = F
-
-cmd-enable-theme =
-    .label = ໃຊ້ຊຸດປັບແຕ່ງ
-    .accesskey = W
-
-cmd-install-addon =
-    .label = ການຕິດຕັ້ງ
-    .accesskey = I
 
 detail-version =
     .label = ເວີຊັນ

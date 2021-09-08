@@ -12,11 +12,13 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-get-started = ເລີ່ມ​ຕົ້ນ
-
 ## Welcome modal dialog strings
 
 ### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
 
@@ -26,28 +28,11 @@ onboarding-welcome-header = ຍິນດີຕ້ອນຮັບສູ່ { -bra
 
 onboarding-start-browsing-button-label = ເລີ່ມການທ່ອງເວັບ
 
-onboarding-cards-dismiss =
-    .title = ຍົກເລີກ
-    .aria-label = ຍົກເລີກ
-
 ## Welcome full page string
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-header = ເອົາ { -brand-product-name } ໄປກັບທ່ານ
-onboarding-sync-welcome-content = ຮັບບຸກມາກ, ປະຫວັດການໃຊ້ງານ, ລະຫັດຜ່ານ ແລະການຕັ້ງຄ່າອື່ນໆໃນທຸກໆອຸປະກອນຂອງທ່ານ.
-onboarding-sync-welcome-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບບັນຊີ Firefox
-
-onboarding-sync-form-input =
-    .placeholder = ອີເມລ
-
-onboarding-sync-form-continue-button = ສືບຕໍ່
-onboarding-sync-form-skip-login-button = ຂ້າມຂັ້ນຕອນນີ້
-
 ## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = ປ້ອນທີ່ຢູ່ອີເມລຂອງທ່ານ
-onboarding-sync-form-sub-header = ເພື່ອດຳເນີນການຕໍ່ໄປຍັງ { -sync-brand-name }
 
 
 ## These are individual benefit messages shown with an image, title and
@@ -68,12 +53,7 @@ onboarding-sync-form-sub-header = ເພື່ອດຳເນີນການຕ�
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-## Multistage MR1 onboarding strings (MR1 about:welcome pages)
+## Multistage onboarding strings (about:welcome pages)
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -90,4 +70,11 @@ onboarding-sync-form-sub-header = ເພື່ອດຳເນີນການຕ�
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 

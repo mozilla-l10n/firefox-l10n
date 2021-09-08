@@ -51,11 +51,3 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = ຈະຕ້ອງໃຫ້ເວັບໄຊໂຫຼດພາບ ແລະ ຂໍ້ມູນໃໝ່
 
-clear-site-data-cancel =
-    .label = ຍົກເລີກ
-    .accesskey = ຍ
-
-clear-site-data-clear =
-    .label = ລ້າງ
-    .accesskey = ລ
-

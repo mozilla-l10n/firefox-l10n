@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = ການເຂົ້າລະຫັດຂໍ້ຄວາມສຳລັບເນື້ອຫາແບບເກົ່າ
-fonts-languages-fallback-desc = ການເຂົ້າລະຫັດຂໍ້ຄວາມນີ້ຖືກໃຊ້ສຳລັບເນື້ອຫາແບບເກົ່າທີ່ບໍ່ສາມາດປະກາດການເຂົ້າລະຫັດໄດ້.
-
-fonts-languages-fallback-label = ການເຂົ້າລະຫັດຂໍ້ຄວາມທີ່ໃຊ້ສະແດງແທນ
-    .accesskey = T
-
-fonts-languages-fallback-name-auto =
-    .label = ຄ່າເລີ່ມຕົ້ນສຳລັບພາສາຖິ່ນປະຈຸບັນ
-fonts-languages-fallback-name-arabic =
-    .label = ອາຣັບ
-fonts-languages-fallback-name-baltic =
-    .label = ບາລຕິກ
-fonts-languages-fallback-name-ceiso =
-    .label = ເອີລົບກາງ, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = ເອີລົບກາງ, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = ຈີນຕົວຫຍໍ້
-fonts-languages-fallback-name-traditional =
-    .label = ຈີນຕົວເຕັມ
-fonts-languages-fallback-name-cyrillic =
-    .label = ຊີຣິລລິກ
-fonts-languages-fallback-name-greek =
-    .label = ເກ​ຣັກ
-fonts-languages-fallback-name-hebrew =
-    .label = ຢິວ
-fonts-languages-fallback-name-japanese =
-    .label = ຍີ່ປຸ່ນ
-fonts-languages-fallback-name-korean =
-    .label = ເກົາຫຼີ
-fonts-languages-fallback-name-thai =
-    .label = ໄທ
-fonts-languages-fallback-name-turkish =
-    .label = ຕວກກີ
-fonts-languages-fallback-name-vietnamese =
-    .label = ຫວຽດນາມ
-fonts-languages-fallback-name-other =
-    .label = ອື່ນໆ (ລວມທັງເອີລົບຕາເວັນຕົກ)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

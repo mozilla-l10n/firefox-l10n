@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = ລຶບເວັບໄຊທ໌ທັງຫມົດອອກ
     .accesskey = ມ
 
-permissions-button-cancel =
-    .label = ຍົກເລີກ
-    .accesskey = ຍ
-
-permissions-button-ok =
-    .label = ບັນທຶກການປ່ຽນແປງ
-    .accesskey = ບ
-
 permissions-searchbox =
     .placeholder = ຊອກຫາເວັບໄຊທ໌
 

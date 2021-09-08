@@ -27,14 +27,6 @@ site-data-remove-selected =
     .label = ລຶບລາຍການທີ່ເລືອກ
     .accesskey = R
 
-site-data-button-cancel =
-    .label = ຍົກເລີກ
-    .accesskey = C
-
-site-data-button-save =
-    .label = ບັນທຶກການປ່ຽນແປງ
-    .accesskey = a
-
 site-data-remove-all =
     .label = ລຶບທັງໝົດອອກ
     .accesskey = ທ

@@ -107,9 +107,6 @@ menu-file-go-offline =
 menu-edit =
     .label = ແກ້ໄຂ
     .accesskey = E
-menu-edit-find-on =
-    .label = ຄົ້ນຫາໃນຫນ້ານີ້…
-    .accesskey = F
 menu-edit-find-again =
     .label = ຄົ້ນຫາອີກເທື່ອຫນຶ່ງ
     .accesskey = g
@@ -125,9 +122,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = ແຖບເຄືອງມື
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = ປັບແຕ່ງ…
-    .accesskey = C
 menu-view-sidebar =
     .label = ແຖບດ້ານຂ້າງ
     .accesskey = e
@@ -158,9 +152,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = ຮູບແບບຂອງຫນ້າແບບພື້ນຖານ
     .accesskey = B
-menu-view-charset =
-    .label = ລະຫັດຕົວຫນັງສື
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -209,10 +200,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = ບຸກມາກ
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = ສະແດງບຸກມາກທັງຫມົດ
-menu-bookmark-this-page =
-    .label = ບຸກມາກໜ້ານີ້
 menu-bookmark-edit =
     .label = ແກ້ໄຂບຸກມາກນີ້
 menu-bookmarks-all-tabs =
@@ -232,32 +219,15 @@ menu-tools =
 menu-tools-downloads =
     .label = ດາວໂຫລດ
     .accesskey = D
-menu-tools-addons =
-    .label = ໂປຣແກຣມເສີມ
-    .accesskey = A
 menu-tools-sync-now =
     .label = ເລີ່ມການເຊື່ອມຕໍ່ດຽວນີ້
     .accesskey = S
-menu-tools-web-developer =
-    .label = ນັກພັດທະນາເວັບ
-    .accesskey = W
 menu-tools-page-source =
     .label = ທີ່ມາຂອງຫນ້ານີ້
     .accesskey = o
 menu-tools-page-info =
     .label = ຂໍ້ມູນຂອງຫນ້ານີ້
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ຕົວເລືອກ
-           *[other] ການຕັ້ງຄ່າ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = ໂຕດີບັກເຄົ້າໂຄງ
     .accesskey = L
@@ -292,29 +262,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = ວິທີໃຊ້
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name } ຊ່ວຍເຫລືອ
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name } ວິທີໃຊ້
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = ແປ້ນພີມລັດ
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = ຂໍ້ມູນຂອງການແກ້ໄຂບັນຫາ
-    .accesskey = T
 menu-help-report-site-issue =
     .label = ລາຍງານບັນຫາເວັບໄຊທ໌…
 menu-help-feedback-page =
     .label = ສົ່ງຄຳຕຳນິຕິສົມ...
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມປິດໃຊ້ງານໂປຣແກຣມເສີມ…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມເປີດໃຊ້ງານໂປຣແກຣມເສີມ
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

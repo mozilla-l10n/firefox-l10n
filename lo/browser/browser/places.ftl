@@ -5,31 +5,9 @@
 places-open =
     .label = ເປີດ
     .accesskey = O
-places-open-tab =
-    .label = ເປິດໃນແທັບໃຫມ່
-    .accesskey = w
 places-open-all-in-tabs =
     .label = ເປີດທັງຫມົດໃນແທັບ
     .accesskey = O
-places-open-window =
-    .label = ເປີດໃນວິນໂດໃຫມ່
-    .accesskey = N
-places-open-private-window =
-    .label = ເປີດໃນວິນໂດສ່ວນຕົວໃຫມ່
-    .accesskey = P
-
-places-new-bookmark =
-    .label = ບຸກມາກໃຫມ່…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = ໂຟນເດີ…
-    .accesskey = F
-places-new-folder =
-    .label = ໂຟນເດີ…
-    .accesskey = o
-places-new-separator =
-    .label = ຕົວແບ່ງໃຫມ່
-    .accesskey = S
 
 places-view =
     .label = ມູມມອງ
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = ລຽງຕາມຊື່
     .accesskey = r
-places-properties =
-    .label = ຄຸນສົມບັດ
-    .accesskey = i
 

@@ -7,28 +7,6 @@ do-not-track-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 do-not-track-option-always =
     .label = ຕະຫຼອດເວລາ
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] ທາງເລືອກ
-       *[other] ຕັ້ງຄ່າ
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] ຄົ້ນຫາໃນ ທາງເລືອກ
-           *[other] ຄົ້ນຫາໃນ ຕັ້ງຄ່າ
-        }
-
 pane-general-title = ທົ່ວໄປ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -81,9 +59,6 @@ search-results-header = ຜົນການຊອກຫາ
 ## General Section
 
 startup-header = ເລີ່ມເຮັດວຽກ
-
-get-started-not-logged-in = ລົງທະບຽນເຂົ້າສູ່{ -sync-brand-short-name }...
-get-started-configured = ເປີດການຕັ້ງຄ່າ { -sync-brand-short-name }
 
 always-check-default =
     .label = ກວດສອບທຸກຄັ້ງວ່າ { -brand-short-name } ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານຫລືບໍ່
@@ -221,11 +196,6 @@ applications-manage-app =
     .label = ລາຍລະອຽດແອັບພລິເຄຊັ່ນ…
 applications-always-ask =
     .label = ຖາມທຸກຄັ້ງ
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -434,8 +404,6 @@ search-show-suggestions-url-bar-option =
     .label = ສະແດງຜົນການຊອກຫາໃນແທັບທີ່ຢູ່
     .accesskey = l
 
-search-one-click-header = One-Click ເຄື່ອງມືການຊອກຫາ
-
 search-choose-engine-column =
     .label = ເຄື່ອງມືການຊອກຫາ
 search-choose-keyword-column =
@@ -466,9 +434,6 @@ containers-add-button =
     .label = ເພີ່ມການແຍກຂໍ້ມູນໃຫມ່
     .accesskey = A
 
-containers-preferences-button =
-    .label = ຕັ້ງຄ່າ
-
 containers-remove-button =
     .label = ລຶບ
 
@@ -479,7 +444,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = ນຳເອົາເວັບຂອງທ່ານໄປກັບທ່ານ
-sync-signedout-description = ເຊື່ອມຂໍ້ມູນບຸກມາກ, ປະຫວັດການໃຊ້ງານລ່າສຸດ, ແທັບ, ລະຫັດຜ່ານ, ສ່ວນເສີມ, ແລະການຕັ້ງຄ່າຂອງທ່ານໃຫ້ກົງກັນໃນທຸກໆອຸປະກອນ.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -553,15 +517,6 @@ sync-engine-addons =
     .tooltiptext = ສ່ວນເສີມແລະຊຸດຕົກແຕ່ງສຳລັບເດສທອບ Firefox
     .accesskey = A
 
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] ຕົວເລືອກ
-           *[other] ການຕັ້ງຄ່າ
-        }
-    .tooltiptext = ການຄັ້ງຄ່າທົ່ວໄປ, ສ່ວນໂຕ, ແລະຄວາມປອດໄພທີ່ທ່ານໄດ້ປ່ຽນແປງ
-    .accesskey = ຕ
-
 ## The device name controls.
 
 sync-device-name-header = ຊື່ອຸປະກອນ
@@ -597,14 +552,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = ຂໍ້ມູນການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້…
     .accesskey = L
-forms-master-pw-use =
-    .label = ໃຊ້ລະຫັດຜ່ານຫຼັກ
-    .accesskey = U
 forms-master-pw-change =
     .label = ປ່ຽນລະຫັດຜ່ານຫຼັກ
     .accesskey = M
-
-forms-master-pw-fips-title = ຕອນນີ້ທ່ານກຳຫລັງຢູ່ໃນໂຫມດ FIPS. FIPS ຕ້ອງການໃຊ້ລະຫັດຜ່ານຫລັກ.
 
 forms-master-pw-fips-desc = ການປ່ຽນລະຫັດຜ່ານລົ້ມເຫລວ
 
@@ -762,12 +712,6 @@ permissions-addon-exceptions =
     .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = ຍ
 
-permissions-a11y-privacy-checkbox =
-    .label = ປ້ອງກັນບໍ່ໃຫ້ບໍລິການການຊ່ວຍການເຂົ້າເຖິງເຂົ້າເຖິງບຣາວເຊີຂອງທ່ານ
-    .accesskey = a
-
-permissions-a11y-privacy-link = ຮຽນຮູ້ເພີ່ມເຕີມ
-
 ## Privacy Section - Data Collection
 
 collection-header = ການເກັບລວບລວມແລະໃຊ້ຂໍ້ມູນ { -brand-short-name }
@@ -779,8 +723,6 @@ collection-health-report-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ການລາຍງານຂໍ້ມູນຖືກປິດໃຊ້ງານສຳລັບການກຳນົດຄ່າການສ້າງນີ້
-
-collection-backlogged-crash-reports-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 
 ## Privacy Section - Security
 ##
@@ -808,16 +750,6 @@ security-block-uncommon-software =
 
 certs-header = ໃບຮັບຮອງ
 
-certs-personal-label = ເມື່ອເຊີບເວີຂໍໃບຮັບຮອງສ່ວນບຸກຄົນຂອງທ່ານ
-
-certs-select-auto-option =
-    .label = ເລືອກມາອັນຫນຶ່ງໂດຍອັດຕະໂນມັດ
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = ຖາມທ່ານກ່ອນທຸກຄັ້ງ
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = ສືບຄົ້ນເຊີບເວີຕອບກັບ OCSP ເພື່ອຢືນຢັນຄວາມຖືກຕ້ອງຂອງໃບຮັບຮອງປະຈຸບັນ
     .accesskey = Q
@@ -829,34 +761,6 @@ certs-view =
 certs-devices =
     .label = ອຸປະກອນຄວາມປອດໄພ…
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = ຮຽນຮູ້ເພີ່ມເຕີມ
-    .accesskey = ຮ
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] ເປີດຕົວເລືອກ
-           *[other] ເປີດການຕັ້ງຄ່າ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ປ
-           *[other] ປ
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] ພື້ນທີ່ຂອງດີດ { -brand-short-name } ກຳລັງຈະເຕັມ. ເນື້ອຫາເວັບໄຊອາດຈະສະແດງບໍ່ຖືກຕ້ອງ. ທ່ານສາມາດລ້າງຂໍ້ມູນທີ່ຖືກຈັດເກັບໃນ ຕົວເລືອກ > ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມປອດໄພ > ຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊ.
-       *[other] ພື້ນທີ່ຂອງດີດ { -brand-short-name } ກຳລັງຈະເຕັມ. ເນື້ອຫາເວັບໄຊອາດຈະສະແດງບໍ່ຖືກຕ້ອງ. ທ່ານສາມາດລ້າງຂໍ້ມູນທີ່ຖືກຈັດເກັບໃນ ຄ່າກຳນົດ > ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມປອດໄພ > ຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊ.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = ຕົກລົງ, ເຂົ້າໃຈແລ້ວ
-    .accesskey = ຕ
-
-space-alert-under-5gb-message = ພື້ນທີດີດຂອງ { -brand-short-name } ກຳລັງຈະເຕັມ. ເນື້ອຫາເວັບໄຊອາດສະແດງຜົນບໍ່ຖືກຕ້ອງ. ຢ້ຽມຢາມ “ຮຽນຮູ້ເພີ່ມເຕີມ” ເພື່ອເພີ່ມປະສິດທິພາບການໃຊ້ງານດີດຂອງທ່ານສຳລັບປະສົບການທ່ອງເວັບທີ່ດີຂຶ້ນ
 
 ## Privacy Section - HTTPS-Only
 

@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "ລົບລ້າງ">
 
-<!ENTITY fillLoginMenu.label          "ຕື່ມຂໍ້ມູນໃສ່ການລັອກອິນ">
-<!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "ຕື່ມລະຫັດຜ່ານໃສ່">
-<!ENTITY fillPasswordMenu.accesskey   "F">
-<!ENTITY fillUsernameMenu.label       "ຕື່ມຊື່ຜູ້ໃຊ້ໃສ່">
-<!ENTITY fillUsernameMenu.accesskey   "F">
-<!ENTITY noLoginSuggestions.label     "(ບໍ່ມີການລັອກອິນແນະນຳ)">
-<!ENTITY viewSavedLogins.label        "ເບິງການລັອກອິນທີ່ໄດ້ບັນທຶກໄວ້">

@@ -35,7 +35,3 @@ translation-sites-button-remove-all =
     .label = ລຶບເວັບໄຊທ໌ທັງຫມົດອອກ
     .accesskey = ທ
 
-translation-button-close =
-    .label = ປິດ
-    .accesskey = C
-

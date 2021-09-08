@@ -10,11 +10,6 @@ crashes-id = ລາຍງານ ID
 crashes-send-date = ສົ່ງຂໍ້ມູນແລ້ວ
 crashes-all-reports = ລາຍງານຂໍ້ຜິດພາດທັງຫມົດ
 crashes-no-config = ແອັບພລິເຄຊັນນີ້ບໍ່ໄດ້ຮັບການຕັ້ງຄ່າໃຫ້ສະແດງຜົນລາຍງານຂໍ້ຜິດພາດ.
-extensions-title = Extensions
-extensions-name = ຊື່​
-extensions-enabled = ເປີດໃຊ້ງານແລ້ວ
-extensions-version = ລູ້ນ​
-extensions-id = ID
 support-addons-name = ຊື່​
 support-addons-version = ລູ້ນ​
 support-addons-id = ID
@@ -89,8 +84,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = ປະເພດ Process
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
-safe-mode-title = ລອງໃຊ້ໂຫມດປອດໄພ
-restart-in-safe-mode-label = ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມປິດໃຊ້ງານໂປຣແກຣມເສີມ…
 
 ## Media titles
 
@@ -194,19 +187,12 @@ webgl2-renderer = WebGL2 Renderer
 webgl2-version = WebGL 2 ໄດຣ໌ເວີເວີຊັນ
 webgl2-driver-extensions = WebGL 2 ໄດຣ໌ເວີ Extensions
 webgl2-extensions = WebGL 2 Extensions
-blocklisted-bug = Blocklisted ຍ້ອນວ່າໄດ້ຮັບຮູ້ບັນຫານີ້ແລ້ວ.
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = ບັກ { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blocklisted; ລະຫັດຂໍ້ຜິດພາດ { $failureCode }
 
 d3d11layers-crash-guard = D3D11 Compositor
-d3d11video-crash-guard = ຕົວຖອດລະຫັດວິດີໂອ D3D11
-d3d9video-crash-guard = ຕົວຖອດລະຫັດວິດີໂອ D3D9
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = ກັບໄປສູ່ການຕັ້ງຄ່າເດີມໃນການ Restart ຄັ້ງຕໍ່ໄປ
@@ -230,14 +216,6 @@ sandbox-proc-type-media-plugin = ປັກອິນມີເດຍ
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = ຖືກເປີດໃຊ້ງານໂດຍຜູ້ໃຊ້
-multi-process-status-1 = ຖືກເປີດໃຊ້ງານໂດຍຄ່າພື້ນຖານ
-multi-process-status-2 = ຖືກປິດໃຊ້ງານ
-multi-process-status-4 = ຖືກປິດໃຊ້ງານໂດຍເຄື່ອງມືການຊ່ວຍເຂົ້າເຖິງ
-multi-process-status-6 = ຖືກປິດໃຊ້ງານໂດຍການປ້ອນຄ່າຂໍ້ຄວາມທີ່ບໍ່ໄດ້ຮັບການສະຫນັບສະຫນູນ
-multi-process-status-7 = ຖືກປິດໃຊ້ງານໂດຍ Add-ons
-multi-process-status-8 = ຖືກປິດໃຊ້ງານໂດຍ Forcibly
-multi-process-status-unknown = ບໍ່ຮູ້ສະຖານະ
 
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = ບໍ່​ມີ​

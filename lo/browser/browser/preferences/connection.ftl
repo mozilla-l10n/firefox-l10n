@@ -39,11 +39,6 @@ connection-proxy-http-port = ພັອດ
 connection-proxy-ssl-port = ພັອດ
     .accesskey = ພ
 
-connection-proxy-ftp = ພຣັອກຊີ FTP
-    .accesskey = F
-connection-proxy-ftp-port = ພັອດ
-    .accesskey = ອ
-
 connection-proxy-socks = ໂຮສຕ໌ SOCKS
     .accesskey = C
 connection-proxy-socks-port = ພັອດ

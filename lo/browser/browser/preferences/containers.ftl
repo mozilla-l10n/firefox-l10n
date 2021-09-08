@@ -5,11 +5,6 @@
 containers-window-new =
     .title = ເພີ່ມການແຍກຂໍ້ມູນໃຫມ່
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = ການຕັ້ງຄ່າການແຍກຂໍ້ມູນ { $name }
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = ໄອຄອນ
 containers-color-label = ສີ
     .accesskey = ສ
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = ສຳເລັດ
-    .accesskey = ສ
 
 containers-color-blue =
     .label = ສີຟ້າ

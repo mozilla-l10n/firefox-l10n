@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = ຊອກ​ຫາ
     .aria-label = ຊອກ​ຫາ
 
-newtab-search-box-search-the-web-text = ຊອກຫາເວັບ
-
 newtab-search-box-search-the-web-input =
     .placeholder = ຊອກຫາເວັບ
     .title = ຊອກຫາເວັບ

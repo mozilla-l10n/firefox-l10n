@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = ລາຍການ
 
-blocklist-button-cancel =
-    .label = ຍົກເລີກ
-    .accesskey = ຍ
-
-blocklist-button-ok =
-    .label = ບັນທຶກການປ່ຽນແປງ
-    .accesskey = ບ
-
 
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
