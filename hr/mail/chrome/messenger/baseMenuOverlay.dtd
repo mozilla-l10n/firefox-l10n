@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "P">
 <!ENTITY aboutProduct2.label "O &brandShorterName;u">
 <!ENTITY aboutProduct2.accesskey "O">
-<!ENTITY helpTroubleshootingInfo.label     "Rješavanje problema">
-<!ENTITY helpTroubleshootingInfo.accesskey "j">
-<!ENTITY helpSafeMode.label     "Ponovno pokreni s isključenim dodacima…">
-<!ENTITY helpSafeMode.accesskey "r">
-<!ENTITY helpSafeMode.stop.label     "Ponovno pokreni s uključenim dodacima">
-<!ENTITY helpSafeMode.stop.accesskey "r">
 <!ENTITY productHelp.label "&brandShortName; pomoć">
 <!ENTITY productHelp.accesskey "p">
 <!ENTITY productHelp.commandkey "VK_F1">

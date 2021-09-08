@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Zatvori">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "Z">
-<!ENTITY printSetupCmd.label                            "Postavke stranice…">
-<!ENTITY printSetupCmd.accesskey                        "s">
-<!ENTITY printPreviewContactCmd.label                   "Pregled ispisa kontakta">
-<!ENTITY printPreviewContactCmd.accesskey               "i">
-<!ENTITY printPreviewAddressBook.label                  "Pregled ispisa adresara">
-<!ENTITY printPreviewAddressBook.accesskey              "r">
 <!ENTITY printContactCmd.label                          "Ispis kontakta…">
 <!ENTITY printContactCmd.accesskey                      "p">
 <!ENTITY printContactCmd.key                            "P">
@@ -111,10 +105,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "U">
 <!ENTITY exportCmd.label                                "Izvoz…">
 <!ENTITY exportCmd.accesskey                            "I">
-<!ENTITY preferencesCmd2.label                          "Mogućnosti">
-<!ENTITY preferencesCmd2.accesskey                      "M">
-<!ENTITY preferencesCmdUnix.label                       "Mogućnosti">
-<!ENTITY preferencesCmdUnix.accesskey                   "M">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Novi kontakt">

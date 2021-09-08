@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Upravljač dodataka
-
 addons-page-title = Upravljač dodataka
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Podrška za dodatke
 sidebar-help-button-title =
     .title = Podrška za dodatke
 
-preferences =
-    { PLATFORM() ->
-        [windows] Mogućnosti za { -brand-short-name }
-       *[other] Postavke za { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Mogućnosti za { -brand-short-name }
-           *[other] Postavke za { -brand-short-name }
-        }
-
 addons-settings-button = Postavke { -brand-short-name(case: "gen") }
 sidebar-settings-button-title =
     .title = Postavke { -brand-short-name(case: "gen") }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Prikaži sva proširenja
-
-cmd-show-details =
-    .label = Prikaži više informacija
-    .accesskey = f
-
-cmd-find-updates =
-    .label = Pronađi dopune
-    .accesskey = P
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Mogućnosti
-           *[other] Osobitosti
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] M
-           *[other] O
-        }
-
-cmd-enable-theme =
-    .label = Aktiviraj temu
-    .accesskey = k
-
-cmd-disable-theme =
-    .label = Deaktiviraj temu
-    .accesskey = k
-
-cmd-install-addon =
-    .label = Instaliraj
-    .accesskey = I
-
-cmd-contribute =
-    .label = Doprinesite
-    .accesskey = D
-    .tooltiptext = Doprinesite razvoju ovog dodatka
 
 detail-version =
     .label = Verzija
@@ -398,8 +346,6 @@ dictionary-disabled-heading = Onemogućeno
 
 locale-enabled-heading = Aktivirano
 locale-disabled-heading = Onemogućeno
-
-ask-to-activate-button = Pitaj prilikom aktivacije
 
 always-activate-button = Uvijek aktiviraj
 never-activate-button = Ne aktiviraj

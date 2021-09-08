@@ -49,9 +49,6 @@ import-label = Uvoz
 
 about-paragraph = Thunderbird je vodeći program za e-poštu i kalendare, otvorenog koda, dostupan na više platformi, besplatan za poslovno i privatno korištenje. Želimo da ostane siguran i postane još bolji. Donacija će nam omogućiti da zaposlimo programere, platimo za infrastrukturu i nastavimo poboljšavati Thunderbird.
 
-about-paragraph-2 = <b>Thunderbird financiraju korisnici poput tebe! Ako ti se sviđa Thunderbird, molimo te da doniraš.</b>Najbolji način na koji možeš osigurati da Thunderbird ostane dostupan je putem
-about-donation = donacije
-
 about-paragraph-consider-donation = <b>Thunderbird financiraju korisnici poput tebe! Ako ti se sviđa Thunderbird, molimo te da doniraš.</b>Najbolji način na koji možeš osigurati da Thunderbird ostane dostupan je putem <a data-l10n-name="donation-link"> donacije</a>.
 
 explore-link = Istraži funkcije

@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Ukloni sve stranice
     .accesskey = e
 
-translation-button-close =
-    .label = Zatvori
-    .accesskey = Z
-
 translation-dialog =
     .buttonlabelaccept = Zatvori
     .buttonaccesskeyaccept = Z

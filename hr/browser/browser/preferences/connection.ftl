@@ -35,19 +35,11 @@ connection-proxy-http = HTTP Proxy
     .accesskey = H
 connection-proxy-http-port = Port
     .accesskey = U
-connection-proxy-http-sharing =
-    .label = Koristi ovaj proxy i za FTP i HTTPS
-    .accesskey = v
 
 connection-proxy-https = HTTPS proxy
     .accesskey = H
 connection-proxy-ssl-port = Port
     .accesskey = l
-
-connection-proxy-ftp = FTP Proxy
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = a
 
 connection-proxy-socks = SOCKS domaćin
     .accesskey = C
@@ -64,9 +56,6 @@ connection-proxy-noproxy = Bez proxyja za
     .accesskey = z
 
 connection-proxy-noproxy-desc = Primjer: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Veze s localhost, 127.0.0.1 i ::1 nikada nisu preko proxy.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Veze na localhost, 127.0.0.1/8 i :: 1 nikada se ne proksiraju.

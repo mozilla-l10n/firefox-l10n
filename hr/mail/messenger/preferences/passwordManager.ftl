@@ -6,10 +6,6 @@ saved-logins =
     .title = Spremljene prijave
 window-close =
     .key = w
-focus-search-shortcut =
-    .key = f
-focus-search-altshortcut =
-    .key = k
 focus-search-primary-shortcut =
     .key = f
 focus-search-alt-shortcut =
@@ -52,12 +48,10 @@ remove =
 import =
     .label = Uvoz…
     .accesskey = v
-close-button =
-    .label = Zatvori
-    .accesskey = Z
 password-close-button =
     .label = Zatvori
     .accesskey = o
+
 show-passwords =
     .label = Prikaži lozinke
     .accesskey = P
@@ -80,10 +74,12 @@ no-master-password-prompt = Sigurno želiš prikazati svoje lozinke?
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Potvrdi svoj identitet za prikazivanje spremljenih lozinki.
+
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = prikaži spremljene lozinke
+
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }

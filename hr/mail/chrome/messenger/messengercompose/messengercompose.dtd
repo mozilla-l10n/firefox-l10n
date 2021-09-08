@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Nova">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Poruka">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "P">
 <!ENTITY newContact.label "Kontakt…">
 <!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Priloži">
 <!ENTITY attachMenu.accesskey "P">
-<!ENTITY attachFileCmd.label "Datoteke…">
-<!ENTITY attachFileCmd.accesskey "D">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Web stranicu…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Pošalji kasnije">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "a">
-<!ENTITY printSetupCmd.label "Postavke stranice…">
-<!ENTITY printSetupCmd.accesskey "s">
-<!ENTITY printPreviewCmd.label "Pregled ispisa">
-<!ENTITY printPreviewCmd.accesskey "g">
 <!ENTITY printCmd.label "Ispis…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "I">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Presloži privitke…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Okno privitka">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "o">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY findBarCmd.label "Traži…">
 <!ENTITY findBarCmd.accesskey "T">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Presloži privitke">
-<!ENTITY moveAttachmentTopPanelBtn.label "Pomakni na vrh">
-<!ENTITY moveAttachmentUpPanelBtn.label "Pomakni gore">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Pomakni zajedno">
-<!ENTITY moveAttachmentDownPanelBtn.label "Pomakni dolje">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Pomakni na dno">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Postavke računa">
 <!ENTITY accountManagerCmd2.accesskey "o">
 <!ENTITY accountManagerCmdUnix2.accesskey "o">
-<!ENTITY preferencesCmd2.label "Mogućnosti">
-<!ENTITY preferencesCmd2.accesskey "M">
-<!ENTITY preferencesCmdUnix.label "Mogućnosti">
-<!ENTITY preferencesCmdUnix.accesskey "t">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Pošalji">
 <!ENTITY quoteButton.label "Citiraj">
 <!ENTITY addressButton.label "Kontakti">
-<!ENTITY attachButton.label "Priloži">
 <!ENTITY spellingButton.label "Pravopis">
 <!ENTITY saveButton.label "Spremi">
 <!ENTITY printButton.label "Ispiši">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Pošalji poruku kasnije">
 <!ENTITY quoteButton.tooltip "Citiraj prethodnu poruku">
 <!ENTITY addressButton.tooltip "Odaberi primatelja iz adresara">
-<!ENTITY attachButton.tooltip2 "Dodaj privitak">
 <!ENTITY spellingButton.tooltip "Provjeri pravopis odabranog teksta ili cijele poruke">
 <!ENTITY saveButton.tooltip "Spremi ovu poruku">
 <!ENTITY cutButton.tooltip              "Izreži">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Druge vrste polja za adresiranje">
 <!ENTITY fromAddr2.label "Šalje">
 <!ENTITY fromAddr.accesskey "a">
-<!ENTITY toAddr2.label "Prima">
-<!ENTITY ccAddr2.label "Cc">
-<!ENTITY bccAddr2.label "Bcc">
 <!ENTITY replyAddr2.label "Odgovori na">
 <!ENTITY newsgroupsAddr2.label "Interesna grupe">
 <!ENTITY followupAddr2.label "Nastavak - za">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "l">
 <!ENTITY selectAll.label "Odaberi sve">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Priloži datoteke…">
-<!ENTITY attachFile.accesskey "l">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Pretvori u…">

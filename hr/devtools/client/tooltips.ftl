@@ -40,8 +40,6 @@ inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</stro
 
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ne utječe na ovaj element, budući da <strong>overflow:hidden</strong> nije postavljeno.
 
-inactive-outline-radius-when-outline-style-auto-or-none = Svojstvo <strong>{ $property }</strong> nema učinka na ovaj element, jer je svojstvo <strong>outline-style</strong> (stil obrisa) postavljeno na <strong>automatski</strong> ili <strong>bez</strong>.
-
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
@@ -71,8 +69,6 @@ inactive-css-not-display-block-on-floated-fix = Pokušaj ukloniti <strong>float<
 inactive-css-position-property-on-unpositioned-box-fix = Pokušaj postaviti svojstvo <strong>position</strong> na nešto što nije <strong>static</strong>. { learn-more }
 
 inactive-text-overflow-when-no-overflow-fix = Pokušaj dodati <strong>overflow:hidden</strong>. { learn-more }
-
-inactive-outline-radius-when-outline-style-auto-or-none-fix = Pokušaj postaviti svojstvo <strong>outline-style</strong> (stil obrisa) na nešto drugo od <strong>automatski</strong> ili <strong>bez</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

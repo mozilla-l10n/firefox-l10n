@@ -5,6 +5,7 @@
 compact-dialog-window =
     .title = Sažmi mape
     .style = width: 50em;
+
 compact-dialog =
     .buttonlabelaccept = Sažmi sada
     .buttonaccesskeyaccept = S
@@ -12,9 +13,12 @@ compact-dialog =
     .buttonaccesskeycancel = k
     .buttonlabelextra1 = Saznaj više…
     .buttonaccesskeyextra1 = v
+
 # Variables:
 #  $data (String): The amount of space to be freed, formatted byte, MB, GB, etc., based on the size.
 compact-dialog-message = { -brand-short-name } mora redovno održavati datoteke kako bi poboljšao performanse vaših mapa za poštu. Ova radnja će osloboditi { $data } prostora na vašem disku bez brisanja vaših poruka. Kako biste dozvolili { -brand-short-name }u da ovo radi automatski u budućnosti, označite kućicu niže prije nego li odaberete ‘{ compact-dialog.buttonlabelaccept }’.
+
 compact-dialog-never-ask-checkbox =
     .label = Automatski sažmi mape u budućnosti
     .accesskey = A
+

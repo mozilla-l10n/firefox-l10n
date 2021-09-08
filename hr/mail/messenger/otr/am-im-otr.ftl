@@ -15,11 +15,6 @@ view-fingerprint-button =
 otr-settings-title = Postavke neslužbenih poruka
 otr-log =
     .label = Uključi neslužbeno šifrirane poruke u zapis razgovora
-otr-requireEncryption =
-    .label = Zahtijevaj obostrano šifriranje za izravne razgovore
-otr-verifyNudge =
-    .label = Uvijek me podsjeti potvrditi neprovjereni kontakt
-otr-notYetAvailable = Još nije dostupno
 otr-require-encryption =
     .label = Zahtijevaj obostrano šifriranje za izravne razgovore
 otr-require-encryption-info =
@@ -28,4 +23,6 @@ otr-require-encryption-info =
     neće biti prikazane kao dio redovnog razgovora i neće biti zabilježene.
 otr-verify-nudge =
     .label = Uvijek me podsjeti potvrditi neprovjereni kontakt
+
 otr-not-yet-available = Još nije dostupno
+
