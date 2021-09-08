@@ -18,11 +18,12 @@ newtab-personalize-icon-label =
 newtab-search-box-search-button =
     .title = Որոնում
     .aria-label = Որոնում
-newtab-search-box-search-the-web-text = Որոնել առցանց
+
 newtab-search-box-search-the-web-input =
     .placeholder = Որոնել առցանց
     .title = Որոնել առցանց
     .aria-label = Որոնել առցանց
+
 newtab-search-box-input =
     .placeholder = Որոնել առցանց
     .aria-label = Որոնել առցանց
@@ -37,10 +38,12 @@ newtab-topsites-edit-shortcut-header = Խմբագրել դիւրանցումը
 newtab-topsites-title-label = Անուանում
 newtab-topsites-title-input =
     .placeholder = Մուտքագրեք անուանում
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Մուտքագրեք կամ տեղադրեք URL
 newtab-topsites-url-validation = Անհրաժեշտ է վաւեր URL
+
 newtab-topsites-image-url-label = Հարմարեցուած նկարի URL
 newtab-topsites-use-image-link = Աւգտագործել հարմարեցուած նկար…
 newtab-topsites-image-validation = Նկարը չհաջողուեց բեռնել։ Փորձեք այլ URL։
@@ -69,10 +72,12 @@ newtab-topsite-sponsored = Հովանաւորուում է
 newtab-menu-section-tooltip =
     .title = Բացել ցանկը
     .aria-label = Բացել ցանկը
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Հեռացնել
     .aria-label = Հեռացնել
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -141,10 +146,12 @@ newtab-label-removed-bookmark = Էջանիշը հեռացուել է
 newtab-label-recommended = Միտում
 newtab-label-saved = Պահպանուած է { -pocket-brand-name }-ում
 newtab-label-download = Ներբեռնուած է
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource }: Հովանաւորուած
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -183,6 +190,7 @@ newtab-section-header-pocket = Առաջարկուում է { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Սկսէք դիտարկել եւ մենք կը ցուցադրենք որոշ հիանալի յաւդուածներ, տեսանիւթեր եւ այլ էջեր, որ դուք այցելել կամ էջանշել էք վերջերս։
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".

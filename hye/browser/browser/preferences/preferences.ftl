@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Միշտ
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Ընտրանքներ
-       *[other] Նախընտրանքներ
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Գտնել Ընտրանքներում
-           *[other] Գտնել Նախընտրանքներում
-        }
-
 managed-notice = Ձեր դիտարկիչը կառավարում է ձեր կազմակերպութիւնը։
 
 category-list =
@@ -51,10 +29,6 @@ category-search =
 pane-privacy-title = Գաղտնիութիւն եւ անվտանգութիւն
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 pane-experimental-title = { -brand-short-name } Փորձարկումներ
 category-experimental =
@@ -94,14 +68,6 @@ restart-later = Վերամեկնարկել յետոյ
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } ընդլայնումը կառավարում է ձեր տնէջը:
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } ընդլայնումը կառավարում է ձեր նոր ներդիր էջը:
-
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = Ընդլայնում <img data-l10n-name="icon"/> { $name }֊ը կառավարում է այս կարգաւորումը։
@@ -109,10 +75,6 @@ extension-controlled-password-saving = Ընդլայնում <img data-l10n-name=
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = <img data-l10n-name="icon"/>{ $name } ընդլայնումը կառավարում է այս կարգաւորումը:
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } ընդլայնումը կայել է ձեր հիմնական որոնիչը:
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -137,26 +99,11 @@ extension-controlled-enable = Ընդլայնումը միացնելու համա
 
 search-results-header = Որոնման արդիւնքներ
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Արդիւնքներ չկան Ընտրանքներում “<span data-l10n-name="query"></span>”-ի համար:
-       *[other] Կարգաւորումներում այլ արդիւնքներ չկան “<span data-l10n-name="query"></span>”-ի համար:
-    }
-
 search-results-help-link = Աւգնութիւ՞ն է պէտք: Այցելէք <a data-l10n-name="url">{ -brand-short-name } Աջակցում</a>
 
 ## General Section
 
 startup-header = Մեկնարկ
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Թոյլատրել, որ { -brand-short-name }-ը եւ Firefox-ը մեկնարկեն միաժամանակ
-use-firefox-sync = Խորհուրդ․ Աւգտագործում է առանձին հաշիւներ։ Աւգտագործէք { -sync-brand-short-name }-ը տուեալների փոխանակման համար։
-get-started-not-logged-in = Մուտք գործել { -sync-brand-short-name }...
-get-started-configured = Բացել { -sync-brand-short-name }-ի նախընտրանքները
 
 always-check-default =
     .label = Միշտ ստուգել, թե արդեւք { -brand-short-name }-ը ձեր հիմնական դիտարկիչն է
@@ -196,10 +143,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Զգուշացնել, որ մի քանի ներդիրներ բացելիս { -brand-short-name }-ը կարող է դանդաղել:
     .accesskey = դ
-
-switch-links-to-new-tabs =
-    .label = Յղումը նոր ներդիրում բացելիս անմիջապէս անցնել դրան
-    .accesskey = բ
 
 show-tabs-in-taskbar =
     .label = Ցուցադրել ներդիրների նախադիտումը Windows taskbar-ում
@@ -384,11 +327,6 @@ applications-manage-app =
     .label = Ծրագրի մանրամասները...
 applications-always-ask =
     .label = Միշտ հարցնել
-applications-type-pdf = Դյուրակիր փաստաթղթի ձեւաչափ
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -474,17 +412,6 @@ update-application-warning-cross-user-setting = Այս կարգաւորումը 
 update-application-use-service =
     .label = Աւգտագործել խորապատկերի խառայութիւները թարմացումները տեղադրելու համար
     .accesskey = խ
-
-update-setting-write-failure-title = Սխալ է պահպանում թարմացման նախընտրութիւնները
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    { -brand-short-name }-ում խնդիրներ առաջացան, եւ այս փոփոխութիւնը չպահպանուեց: Յիշէք, որ թարմացման այս նախընտրութեան հաստատման համար հարկաւոր է թոյլատրել գրառել ստորեւ նիշքում: Դուք կամ համակարգավարը կարող էք շտկել սխալը, եթե Ագտատերերի խմբին լիարժէք վերահսկողութիւն տաք այս նիշքին:
-    
-    Չհաջողուեց գրել նիշքի վրայ. { $path }
 
 update-in-progress-title = Արդիացուում է
 
@@ -729,11 +656,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Ցույց տալ որոնման առաջարկները մասնաւոր պատուհանում
 
-suggestions-addressbar-settings-generic = Փոխել ընտրանքները այլ հասցէգաւտիների առաջարկների համար
-
 search-suggestions-cant-show = Որոնման առաջարկութիւնները չեն ցուցադրուի գտնման վայրի տողի արդիւնքներում, քանի որ դուք կազմաձեւել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմութիւնը։
-
-search-one-click-header = Մեկ սեղմամբ որոնիչներ
 
 search-one-click-header2 = Որոնել դիւրանցումները
 
@@ -768,13 +691,6 @@ search-keyword-warning-bookmark = Դուք ընտրեցիք հիմնաբառ, ո
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Վերադառնալ ընտրանքներին
-           *[other] Վերադառնալ նախապատուութիւններին
-        }
-
 containers-header = Պարունակ ներդիրներ
 containers-add-button =
     .label = Աւելացնել նոր պարունակ
@@ -784,9 +700,6 @@ containers-new-tab-check =
     .label = Ընտրել դարակ իւրաքանչիւր նոր ներդրի համար
     .accesskey = Ը
 
-containers-preferences-button =
-    .label = Նախընտրութիւններ
-
 containers-remove-button =
     .label = Հեռացնել
 
@@ -794,11 +707,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Ունեցէք ձեր ոստայնը ձեզ հետ
-sync-signedout-description = Համաժամեցրեք Ձեր բոլոր էջանիշերը, պատմութիւնը, ներդիրները, գաղտնաբառերը, յաւելումները եւ կարգաւորումները Ձեր բոլոր սարքերի միջեւ:
-
-sync-signedout-account-signin2 =
-    .label = Մուտք գործել { -sync-brand-short-name }…
-    .accesskey = i
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -843,12 +751,6 @@ prefs-syncing-on = Համաժամեցում։ ՄԻԱՑՈՒԱԾ
 
 prefs-syncing-off = Համաժամեցում։ ԱՆՋԱՏՈՒԱԾ
 
-prefs-sync-setup =
-    .label = Տեղակայել { -sync-brand-short-name }-ը․․․
-    .accesskey = S
-
-prefs-sync-offer-setup-label = Համաժամեցրեք Ձեր բոլոր էջանիշերը, պատմութիւնը, ներդիրները,գաղտնաբառերը, յաւելումները եւ կարգաւորումները Ձեր բոլոր սարքերի միջեւ։
-
 prefs-sync-now =
     .labelnotsyncing = Համաժամեցնել հիմա
     .accesskeynotsyncing = N
@@ -865,11 +767,6 @@ sync-currently-syncing-logins-passwords = Մուտքանուններ եւ գաղ
 sync-currently-syncing-addresses = Հասցեներ
 sync-currently-syncing-creditcards = Վարկային քարտեր
 sync-currently-syncing-addons = Յաւելասարքեր
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Ընտրանքներ
-       *[other] Նախընտրութիւններ
-    }
 
 sync-change-options =
     .label = Փոխել…
@@ -917,15 +814,6 @@ sync-engine-addons =
     .label = Յաւելումները
     .tooltiptext = Ընդլայնումներ եւ ոճեր Firefox-ի համար
     .accesskey = Հ
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Ընտրանքներ
-           *[other] Կարգաւորումները
-        }
-    .tooltiptext = Ընդհանուր, Գաղտնիութիւն եւ Անւտանգութիւն
-    .accesskey = ը
 
 ## The device name controls.
 
@@ -977,9 +865,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Պահուած մուտքանուններ...
     .accesskey = մ
-forms-master-pw-use =
-    .label = Աւգտագործել Հիմնական գաղտնաբառ
-    .accesskey = Օ
 forms-primary-pw-use =
     .label = Աւգտագործէք հիմնական գաղտնաբառ
     .accesskey = Ա
@@ -991,7 +876,6 @@ forms-master-pw-change =
     .label = Փոխել Հիմնական գաղտնաբառը…
     .accesskey = Հ
 
-forms-master-pw-fips-title = Դուք այժմ աւգտագործում էք FIPS եղանակը: FIPS-ը պահանջում է Հիմնական Գաղտնաբառի աւգտագործում:
 forms-primary-pw-change =
     .label = Փոխել Հիմնական գաղտնաբառը
     .accesskey = Հ
@@ -1004,15 +888,6 @@ forms-primary-pw-fips-title = Դուք գտնուում էք FIPS աշխատակ
 forms-master-pw-fips-desc = Գաղտնաբառի Փոփոխութիւնը Չյաջողուեց
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Հիմնական գաղտնաբառ ստեղծելու համար մուտքագրէք Windows֊ի Ձեր տուեալները: Այս ընթացակարգն աւգնում է պահպանել ձեր հաշիւների անվտանգութիւնը:
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = Ստեղծել Հիմնական գաղտնաբառը
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Գլխաւոր գաղտնաբառ ստեղծելու համար գրանցէք Windows֊ի մտից տուեալները։ Սա կաըգնի ապահովել հաշիւների անվտանգութիւնը։
@@ -1130,10 +1005,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Կառավարել տուեալները…
     .accesskey = M
-
-sitedata-cookies-permissions =
-    .label = Կառավարել թոյլատրութիւնները…
-    .accesskey = P
 
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառութիւնները
@@ -1310,12 +1181,6 @@ permissions-addon-exceptions =
     .label = Բացառութիւններ…
     .accesskey = Բ
 
-permissions-a11y-privacy-checkbox =
-    .label = Կանխել մատչելիութեան ծառայութիւնների կողմից Ձեր դիտարկիչի մատչումը
-    .accesskey = a
-
-permissions-a11y-privacy-link = Իմանալ աւելին
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name }-ի տուեալների հաւաքում եւ աւգտագործում
@@ -1343,11 +1208,6 @@ addon-recommendations-link = Իմանալ աւելին
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Տուեալների զեկուցումը անջատուած է կազմաձեւի այս կառուցման համար
 
-collection-backlogged-crash-reports =
-    .label = Թոյլատրե՞լ { -brand-short-name }-ին ուղարկել հետին վթարի զեկույցներ առանց հարցնելու:
-    .accesskey = c
-collection-backlogged-crash-reports-link = Իմանալ աւելին
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1374,16 +1234,6 @@ security-block-uncommon-software =
 
 certs-header = Վկայագրեր
 
-certs-personal-label = Երբ սպասարկիչը հարցնում է Ձեր անձնական վկայագիրը
-
-certs-select-auto-option =
-    .label = Ընտրել ինքնաշխատ
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Ամեն անգամ հարցնել
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = Հարցում OCSP պատասխանիչի սպասարկիչին՝
     .accesskey = Հ
@@ -1395,34 +1245,6 @@ certs-view =
 certs-devices =
     .label = Անվտանգութեան սարքեր...
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = Իմանալ աւելին
-    .accesskey = Ի
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Բացել ընտրանքները
-           *[other] Բացել նախապատուութիւնները
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Բ
-           *[other] Բ
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name }-ում տեղ չկա: Կայքի բովանդակութիւնը նորմալ չի ցուցադրուի: Դուք կարող եք մաքրել կայքերի պահուած տուեալները Կարգաւորումներ > Լրացուցիչ > Կայքի տուեալներում:{ -brand-short-name }
-       *[other] { -brand-short-name }-ում տեղ չկա: Կայքի բովանդակութիւնը նորմալ չի ցուցադրուի: Դուք կարող եք մաքրել կայքերի պահուած տուեալները Կարգաւորումներ > Լրացուցիչ > Կայքի տուեալներում:
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = Լաւ, հասկացա
-    .accesskey = ա
-
-space-alert-under-5gb-message = { -brand-short-name }-ում տեղ չկայ: Կայքի բովանդակութիւնը, հնարաւոր է, նորմալ չի ցուցադրուի: Այցելեք «Իմանալ աւելին»՝ լաւարկելու համար հիշասարքի աւգտագործումը՝ դիտարկումների աւելի լաւ փորձառութեան համար:
 
 ## Privacy Section - HTTPS-Only
 

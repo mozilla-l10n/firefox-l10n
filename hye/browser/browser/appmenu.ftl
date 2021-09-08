@@ -6,8 +6,6 @@
 ## App Menu
 
 appmenuitem-protection-dashboard-title = Գաղտնիութեան վահանակ
-appmenuitem-customize-mode =
-    .label = Յարմարեցնել…
 
 ## Zoom Controls
 
@@ -25,6 +23,7 @@ appmenuitem-more-tools =
     .label = Յաւելեալ գործիքներ
 appmenuitem-help =
     .label = Աւգնութիւն
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -41,29 +40,28 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Համաժամեցնել հիմա
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Ցուցադրել բոլորը
-    .tooltiptext = Ցուցադրել բոլոր ներդիրները այս սարքից
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Չկան բաց ներդիրներ
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Միացրէք ներդիրների համաժամեցումը՝ տեսնելու այլ սարքերից Ձեր ներդիրների ցանկը։
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ցանկանու՞մ եք տեսնել Ձեր այլ սարքերի ներդիրները։
+
 appmenu-remote-tabs-connectdevice =
     .label = Կապակցել այլ սարքի
 appmenu-remote-tabs-welcome = Դիտել Ձեր միւս սարքերի ներդիրների ցուցակը։
 appmenu-remote-tabs-unverified = Ձեր հաշիւը պէտք է ստուգուի։
+
 appmenuitem-save-page =
     .label = Պահպանել էջը որպէս…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ինչն է նոր
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -76,35 +74,49 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Ցուցադրել առաւել շատ տեղեկոյթ
+
 profiler-popup-description-title =
     .value = Ձայնագրել, վերլուծել, կիսուել
+
 profiler-popup-description = Համագործակցէք կատարողականութեան բարձրացման շուրջ՝ հասանելի դարձնելով հաշիւները եւ կիսուելով ձեր խմբի հետ։
+
 profiler-popup-learn-more = Իմանալ աւելին
+
 profiler-popup-settings =
     .value = Կարգաւորումներ
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Խմբագրել կարգաւորումները…
+
 profiler-popup-disabled =
     Յատկագրողն անջատուած է, քանի որ, հաւանաբար, բացուած է 
     Գաղտնի դիտարկման պատուհան։
+
 profiler-popup-recording-screen = Գրանցում…
+
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = յարմարեցուած
+
 profiler-popup-start-recording-button =
     .label = Սկսել գրանցումը
+
 profiler-popup-discard-button =
     .label = Անտեսել
+
 profiler-popup-capture-button =
     .label = Նկարահանել
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -163,6 +175,7 @@ appmenu-customizetoolbar =
     .label = Յարմարեցնել գործեգաւտին…
 appmenu-taskmanager =
     .label = Առաջադրանքների ղեկաւար
+
 appmenu-developer-tools-subheader = Դիտարկչի գործիքներ
 appmenu-developer-tools-extensions =
     .label = Ընդլայնումներ մշակողների համար

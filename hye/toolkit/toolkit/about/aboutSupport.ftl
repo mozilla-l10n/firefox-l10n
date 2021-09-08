@@ -10,11 +10,6 @@ crashes-id = Զեկոյցի նոյնացուցիչ
 crashes-send-date = Ուղարկուած է
 crashes-all-reports = Վթարի բոլոր զեկոյցները
 crashes-no-config = Ծրագիրը կարգաւորուած չէ ցուցադրելու վթարի զեկոյցները:
-extensions-title = Ընդլայնումներ
-extensions-name = Անուն
-extensions-enabled = Միացուած է
-extensions-version = Տարբերակ
-extensions-id = Նոյնացուցիչ
 support-addons-title = Յաւելումներ
 support-addons-name = Անուն
 support-addons-type = Տեսակ
@@ -129,8 +124,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Ընթացքի տեսակը
 sandbox-sys-call-number = Համզանգ
 sandbox-sys-call-args = Փաստարկներ
-safe-mode-title = Փորձել ապահով եղանակը
-restart-in-safe-mode-label = Վերամեկնարկել՝ անջատելով յաւելումները...
 
 clear-startup-cache-title = Փորձէք մաքրել մեկնարկման յիշապահեստը
 clear-startup-cache-label = Մաքրէք մեկնարկման յիշապահեստը…
@@ -184,37 +177,6 @@ remote-debugging-accepting-connections = Ընդունման կապակցումն
 remote-debugging-url = URL
 
 ##
-
-support-third-party-modules-title = Երրորդ կողմի հանգոյցներ
-support-third-party-modules-module = Հանգուցակի նիշը
-support-third-party-modules-version = Նիշի տարբերակը
-support-third-party-modules-vendor = Վաճառողի տեղեկատուութիւն
-support-third-party-modules-occurrence = Դէպք
-support-third-party-modules-process = Գործընթացի տեսակը եւ ID-ն
-support-third-party-modules-thread = Շղթայ
-support-third-party-modules-base = Պատկերի հիմնային բեռնման հասցէն
-support-third-party-modules-uptime = Գործընթացի սարքին վիճակի ժամանակ (մվ)
-support-third-party-modules-duration = Բեռնուում է տեւողութիւնը (մվ)
-support-third-party-modules-status = Կարգավիճակ
-support-third-party-modules-status-loaded = Բեռնուած
-support-third-party-modules-status-blocked = Արգելափակուած
-support-third-party-modules-status-redirected = Վերահասցէաւորուած
-support-third-party-modules-empty = Երրորդ կողմի հանգոյցներ չեն բեռնուել:
-support-third-party-modules-no-value = (Չկայ արժէք)
-support-third-party-modules-button-open =
-    .title = Բացել նիշի տեղադրութիւնը…
-support-third-party-modules-expand =
-    .title = Ցուցադրել մանրամասն տեղեկոյթ
-support-third-party-modules-collapse =
-    .title = Թաքցնել մանրամասն տեղեկոյթը
-support-third-party-modules-unsigned-icon =
-    .title = Այս հանգոյցը ստորագրուած չէ
-support-third-party-modules-folder-icon =
-    .title = Բացել նիշի տեղադրութիւնը…
-support-third-party-modules-down-icon =
-    .title = Ցուցադրել մանրամասն տեղեկոյթ
-support-third-party-modules-up-icon =
-    .title = Թաքցնել մանրամասն տեղեկոյթը
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -310,11 +272,6 @@ webgl2-renderer = WebGL 2 սարքաւարի նյութաւորիչ
 webgl2-version = WebGL 2 սարքաւարի տարբերակ
 webgl2-driver-extensions = WebGL 2 սարքաւարի ընդլայնումներ
 webgl2-extensions = WebGL 2 ընդլայնումներ
-blocklisted-bug = Սեւ ցուցակում՝ յայտնի խնդիրների պատճառով
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = խնդիր { $bugNumber }
 
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
@@ -325,8 +282,6 @@ support-blocklisted-bug = Արգելափակուած է յայտնի խնդիր�
 unknown-failure = Արգելափակուած, ձախողուած կոդ՝ { $failureCode }
 
 d3d11layers-crash-guard = D3D11 կազմակերպիչ
-d3d11video-crash-guard = D3D11 տեսանիւթի ապակոդաւորիչ
-d3d9video-crash-guard = D3D9 տեսանիւթի ապակոդաւորիչ
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX  տեսանիւթի ապակոդաւորիչ
 
@@ -371,14 +326,6 @@ launcher-process-status-unknown = Անյայտ վիճակ
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Միացուած աւգտուողի կողմից
-multi-process-status-1 = Լռելեայն միացուած
-multi-process-status-2 = Անջատուած
-multi-process-status-4 = Անջատուած հասանելիութեան գործիքներով
-multi-process-status-6 = Անջատուած է չաջակցուած գրոյթի ներդրմամբ
-multi-process-status-7 = Անջատուած է յաւելումների կողմից
-multi-process-status-8 = Ստիպողաբար անջատուած
-multi-process-status-unknown = Անյայտ վիճակ
 
 # Variables
 # $fissionWindows (integer) - Number of remote windows

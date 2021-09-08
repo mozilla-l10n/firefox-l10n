@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Գրուածքի կոդաւորումը
-    .accesskey = c
-
 ## Tools Menu
 
 ## Help Menu
@@ -18,4 +14,6 @@ menu-view-charset =
 ## View
 
 ## View / Layout
+
+## File
 

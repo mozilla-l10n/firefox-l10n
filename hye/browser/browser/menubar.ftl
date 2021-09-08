@@ -112,9 +112,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Խմբագրել
     .accesskey = E
-menu-edit-find-on =
-    .label = Որոնել այս էջում…
-    .accesskey = F
 menu-edit-find-again =
     .label = Կրկին որոնել
     .accesskey = g
@@ -130,9 +127,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Գործիքագաւտիներ
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = Յարմարեցնել…
-    .accesskey = C
 menu-view-sidebar =
     .label = Կողային վահանակ
     .accesskey = e
@@ -166,9 +160,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Էջի հիմնական ոճ
     .accesskey = B
-menu-view-charset =
-    .label = Գրոյթի կոդաւորում
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -220,10 +211,6 @@ menu-history-reopen-all-windows = Վերաբացել բոլոր պատուհան
 menu-bookmarks-menu =
     .label = Էջանիշներ
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = Ցուցադրել բոլոր էջանիշները
-menu-bookmark-this-page =
-    .label = Էջանշել այս էջը
 menu-bookmark-edit =
     .label = Խմբագրել այս էջանիշը
 menu-bookmarks-all-tabs =
@@ -243,41 +230,18 @@ menu-tools =
 menu-tools-downloads =
     .label = Ներբեռնումներ
     .accesskey = D
-menu-tools-addons =
-    .label = Հաւելումներ
-    .accesskey = A
-menu-tools-fxa-sign-in =
-    .label = Մուտք գործել { -brand-product-name }…
-    .accesskey = g
-menu-tools-turn-on-sync =
-    .label = Միացնել { -sync-brand-short-name }…
-    .accesskey = n
 menu-tools-sync-now =
     .label = Համաժամեցնել հիմա
     .accesskey = S
 menu-tools-fxa-re-auth =
     .label = Վերակապակցուել { -brand-product-name }…
     .accesskey = R
-menu-tools-web-developer =
-    .label = Վեբ ծրագրավորող
-    .accesskey = W
 menu-tools-page-source =
     .label = Էջի աղբիւր
     .accesskey = o
 menu-tools-page-info =
     .label = Տեղեկութիւն էջի մասին
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Ընտրանքներ
-           *[other] Նախընտրանքներ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Ը
-           *[other] ն
-        }
 menu-tools-layout-debugger =
     .label = Դասաւորութեան վրիպազերծում
     .accesskey = L
@@ -312,21 +276,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Աւգնութիւն
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name }-ի Աւգնութիւն
-    .accesskey = H
-menu-help-show-tour =
-    .label = Շրջայց { -brand-shorter-name }-ի հետ
-    .accesskey = o
-menu-help-import-from-another-browser =
-    .label = Ներմուծում մեկ այլ զննարկչից…
-    .accesskey = I
-menu-help-keyboard-shortcuts =
-    .label = Ստեղնաշարի պիտակներ
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Անսարքութեան տեղեկատուութիւն
-    .accesskey = T
 menu-get-help =
     .label = Ստանալ աւգնութիւն
     .accesskey = ա
@@ -335,12 +284,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Հաստատման արձագանք…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = Վերամեկնարկել՝ անջատելով հաւելումները…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = Վերամեկնարկել՝ միացնելով հաւելումները
-    .accesskey = R
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

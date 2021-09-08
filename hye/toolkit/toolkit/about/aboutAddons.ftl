@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Յաւելումների կառավարում
-
 addons-page-title = Յաւելումների կառավարում
 
 search-header =
@@ -33,60 +30,11 @@ help-button = Յաւելումների սպասարկում
 sidebar-help-button-title =
     .title = Յաւելումների սպասարկում
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } Ընտրանքներ
-       *[other] { -brand-short-name } Նախընտրութիւններ
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } Ընտրանքներ
-           *[other] { -brand-short-name } Նախընտրութիւններ
-        }
-
 show-unsigned-extensions-button =
     .label = Որոշ ընդլայնումներ չեն կարող ստուգուել
 
 show-all-extensions-button =
     .label = Ցուցադրել բոլոր ընդլայնումները
-
-cmd-show-details =
-    .label = Ցուցադրել լրացուցիչ տեղեկութիւն
-    .accesskey = S
-
-cmd-find-updates =
-    .label = Գտնել թարմացումներ
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Ընտրանքներ
-           *[other] Նախընտրանքներ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Աւգտագործել հիմնապատկեր
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = Դադարեցնել հիմնապատկերի աւգտագործումը
-    .accesskey = W
-
-cmd-install-addon =
-    .label = Տեղադրել
-    .accesskey = I
-
-cmd-contribute =
-    .label = Ներդրում
-    .accesskey = C
-    .tooltiptext = Ներդրում կատարել այս յաւելման մշակման համար
 
 detail-version =
     .label = Տարբերակ
@@ -390,8 +338,6 @@ dictionary-disabled-heading = Անջատուած
 
 locale-enabled-heading = Միացուած
 locale-disabled-heading = Անջատուած
-
-ask-to-activate-button = Գործարկման հարցում
 
 always-activate-button = Միշտ գործարկել
 never-activate-button = Երբեք չգործարկել

@@ -5,31 +5,9 @@
 places-open =
     .label = Բացել
     .accesskey = O
-places-open-tab =
-    .label = Բացել նոր ներդիրում
-    .accesskey = w
 places-open-all-in-tabs =
     .label = Բացել բոլորը ներդիրներում
     .accesskey = O
-places-open-window =
-    .label = Բացել նոր պատուհանում
-    .accesskey = N
-places-open-private-window =
-    .label = Բացել նոր անհատական պատուհանում
-    .accesskey = P
-
-places-new-bookmark =
-    .label = Նոր էջանիշ…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = Նոր թղթապանակ…
-    .accesskey = F
-places-new-folder =
-    .label = Նոր թղթապանակ…
-    .accesskey = o
-places-new-separator =
-    .label = Նոր բաժանիչ
-    .accesskey = S
 
 places-view =
     .label = Տեսք
@@ -61,9 +39,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Տեսակաւորել ըստ անունների
     .accesskey = r
-places-properties =
-    .label = Հատկութիւնները
-    .accesskey = i
 
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =

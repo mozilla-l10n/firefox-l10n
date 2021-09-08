@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Ստանալ եկրանի հանոյթը
-
-screenshots-my-shots-button = Իմ պատկերները
-
 screenshots-instructions = Ներբեռնէ՛ք եւ սեղմէ՛ք էջի վրայ՝ ընտրելու տարածքը: Սեղմէ՛ք ESC՝ չեղարկելու համար:
 screenshots-cancel-button = Չեղարկել
 screenshots-save-visible-button = Պահպանէ՛ք տեսանելի
@@ -36,8 +32,6 @@ screenshots-login-error-details = Մենք չենք կարող պահպանել 
 
 screenshots-unshootable-page-error-title = Հնարաւոր չէ ստանալ էկրանի հանոյթը:
 screenshots-unshootable-page-error-details = Սա ստանդարտ կայք էջ չէ, ուստի դուք չեք կարող ստանալ դրա հանոյթը։
-
-screenshots-self-screenshot-error-title = Դուք չէք կարող ստանալ { -screenshots-brand-name }-ի էջի հանոյթը:
 
 screenshots-empty-selection-error-title = Ձեր ընտրութիւնը շատ փոքր է
 

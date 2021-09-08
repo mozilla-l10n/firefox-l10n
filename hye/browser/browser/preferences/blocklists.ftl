@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Ցուցակ
 
-blocklist-button-cancel =
-    .label = Չեղարկել
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = Պահպանել փոփոխութիւնները
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Պահպանել փոփոխութիւնները
     .buttonaccesskeyaccept = S

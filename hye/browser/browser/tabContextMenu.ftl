@@ -48,9 +48,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Էջանշել ներդիրները
     .accesskey = B
-reopen-in-container =
-    .label = Կրկին բացել պարունակում
-    .accesskey = e
 move-to-start =
     .label = Տեղափոխել մեկնարկ
     .accesskey = S
@@ -63,26 +60,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Փակել Բազմաթիւ ներդիրները
     .accesskey = Բ
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Յետարկել Ներդիրների փակելը
-            [one] Յետարկել ներդիրների փակելը
-           *[other] Յետարկել ներդիրների փակելը
-        }
-    .accesskey = Յ
-close-tab =
-    .label = Փակել ներդիրը
-    .accesskey = c
-close-tabs =
-    .label = Փակել ներդիրները
-    .accesskey = S
-move-tabs =
-    .label = Տեղափոխել ներդիրները
-    .accesskey = v
-move-tab =
-    .label = Տեղափոխել ներդիրը
-    .accesskey = v
 tab-context-share-url =
     .label = Համաւգտագործել
     .accesskey = Հ
@@ -108,6 +85,7 @@ tab-context-move-tabs =
            *[other] Տեղափոխել ներդիրները
         }
     .accesskey = լ
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

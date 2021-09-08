@@ -35,19 +35,11 @@ connection-proxy-http = HTTP միջնորդ
     .accesskey = x
 connection-proxy-http-port = Միացք
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Այս միջնորդը աւգտագործեք նաեւ FTP-ի եւ HTTPS-ի համար
-    .accesskey = s
 
 connection-proxy-https = HTTPS միջնորդ
     .accesskey = H
 connection-proxy-ssl-port = Միացք
     .accesskey = o
-
-connection-proxy-ftp = FTP միջնորդ
-    .accesskey = F
-connection-proxy-ftp-port = Միացք
-    .accesskey = r
 
 connection-proxy-socks = SOCKS հանգոյց
     .accesskey = C
@@ -64,9 +56,6 @@ connection-proxy-noproxy = Չկա միջնորդ
     .accesskey = N
 
 connection-proxy-noproxy-desc = Աւրինակ՝ .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Միացումները տեղային հանգոյցին՝ 127.0.0.1-ին եւ ::1-ին, երբեք չեն վստահուում։
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Տեղային խնամորդի կապակցումը, 127.0.0.1/8, եւ ::1 երբեւէ չեն միջնորդաւորուում։

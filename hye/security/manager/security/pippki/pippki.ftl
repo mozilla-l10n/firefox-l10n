@@ -6,9 +6,6 @@ password-quality-meter = Գաղտնաբառի ապահովութիւնը
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Փոխել հիմնական գաղտնաբառը
-
 change-device-password-window =
     .title = Փոխել գաղտնաբառը
 
@@ -20,10 +17,6 @@ change-password-new = Նոր գաղտնաբառը.
 change-password-reenter = Նոր գաղտնաբառ (կրկին):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Վերագործարկել հիմնական գաղտնաբառը
-    .style = width: 40em
 
 pippki-failed-pw-change = Հնարաւոր չէ փոխել գաղտնաբառը:
 pippki-incorrect-pw = Դուք չէք գրել ընթացիկ ճիշդ գաղտնաբառը: Խնդրում ենք փորձել կրկին:
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Վերագործարկել
-reset-password-text = Եթե վերականգնէք հիմնական գաղտնաբառը, ապա բոլոր պահպանուած ցանցային եւ ել-Փոստերի գաղտնաբառերը, ձեւանմուշների տուեալները, անհատական արտոնաթղթերը, անձնական բանալիները կը մոռացուեն: Համո՞զուած էք, որ ցանկանում էք հիմնական գաղտնաբառը վերականգնել:
 
 reset-primary-password-text = Եթե Դուք վերակայել էք Ձեր առաջնային գաղտնաբառը, Ձեր բոլոր ցանցային պահեստները եւ ել.հասցէի գաղտնաբառերը, անհատական վկայագրերը եւ անձնական բանալիները կը մոռացուեն: Համոզուա՞ծ էք, որ ցանկանում էք վերակայել Ձեր առաջնային գաղտնաբառը:
 

@@ -28,16 +28,6 @@ serviceworker-worker-unregister = Չեղարկել գրանցումը
 serviceworker-worker-debug = Վրիպազերծել
     .title = Միայն Սպասարկիչները կարող են վրիպազերծուել
 
-# Text for the debug link displayed for an already started Service Worker, when we
-# are in multi e10s mode, which effectively disables this link.
-serviceworker-worker-debug-forbidden = Վրիպազերծել
-    .title = Կարող է վրիպազերծել միայն Ծառայութիւն Մատուցողներին, եթե multi e 10s-ը անջատուած է։
-
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start2 = Մեկնարկ
-    .title = Կարող է գործարկել միայն Ծառայութիւն Մատուցողներին, եթե multi e10s-ը անջատուած է։
-
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Զննել
@@ -50,12 +40,6 @@ serviceworker-worker-start3 = Մեկնարկել
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Թարմացուած <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = Աղբիւր
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = Վիճակ
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -65,26 +49,6 @@ serviceworker-worker-status-running = Ընթացքի մէջ
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Դադարեցուած
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Պէտք է գրանցել Ծառայութիւն Մատուցողին այստեղ ստուգելու համար։ <a>Իմանալ աւելին</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = Եթե սոյն էջը ունի Սպասարկիչ, փորձէք հետեւեալը
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = Որոնել սխալներ վահանակում։ <a>Բացել վահանակը</a>
-
-# Suggestion to use the debugger to investigate why a service worker is not registered.
-# Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Ստուգէք Ձեր Սպասարկիչի գրանցման քայլերը եւ գտէք բացառութիւնները։<a>֊ը Բացել վրիպազերծիչը</a>։
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Ստուգել Սպասարկիչներին այլ տիրոյթներից։ <a>Բացել about:debugging</a>
 
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = Սպասարկողներ չեն գտնուել
@@ -103,10 +67,6 @@ serviceworker-empty-suggestions-aboutdebugging2 = Դիտել ծառայութե�
 
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest յաւելուած
-
-# Header for the Manifest page when there's no manifest to inspect
-# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = Այստեղ ստուգելու համար պէտք է աւելացնել վեբ յաւելուածի յայտարարագիր։ <a>Իմանալ աւելին</a>
 
 # Header for the Manifest page when there's no manifest to inspect
 manifest-empty-intro2 = Ցանցային ծրագրի յայտարարագիր չի յայտնաբերուել

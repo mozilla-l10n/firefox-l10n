@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Աւելացնել նոր պարունակ
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } պարունակի կարգաւորումներ
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Պատկերակ
 containers-color-label = Գոյն
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Արուած
-    .accesskey = Ա
 
 containers-dialog =
     .buttonlabelaccept = Արուած

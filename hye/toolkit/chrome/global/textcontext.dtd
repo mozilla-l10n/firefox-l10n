@@ -14,11 +14,3 @@
 
 <!ENTITY searchTextBox.clear.label "Մաքրել">
 
-<!ENTITY fillLoginMenu.label          "Լրացնել մուտքը">
-<!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillPasswordMenu.label       "Լրացնել գաղտնաբառը">
-<!ENTITY fillPasswordMenu.accesskey   "F">
-<!ENTITY fillUsernameMenu.label       "Լրացնել աւգտուողի անունը">
-<!ENTITY fillUsernameMenu.accesskey   "F">
-<!ENTITY noLoginSuggestions.label     "(Մուտքի առաջարկներ չկան)">
-<!ENTITY viewSavedLogins.label        "Դիտել պահպանուած մուտքագրումները">

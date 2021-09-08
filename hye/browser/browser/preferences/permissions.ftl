@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Հեռացնել բոլոր կայքերը
     .accesskey = e
 
-permissions-button-cancel =
-    .label = Չեղարկել
-    .accesskey = Չ
-
-permissions-button-ok =
-    .label = Պահել փոփոխութիւնները
-    .accesskey = Պ
-
 permission-dialog =
     .buttonlabelaccept = Պահել փոփոխութիւնները
     .buttonaccesskeyaccept = Պ

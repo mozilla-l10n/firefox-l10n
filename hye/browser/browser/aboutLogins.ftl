@@ -7,20 +7,12 @@ about-logins-page-title = Մուտքանուններ եւ գաղտնաբառեր
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Ունեցէք ձեր գաղտնաբառերն ամենուր ձեզ հետ
-login-app-promo-subtitle = Ձեռք բերել անվճար { -lockwise-brand-name } յաւելուուածը
-login-app-promo-android =
-    .alt = Ձեռք բերել Google Play-ից
-login-app-promo-apple =
-    .alt = Ներբեռնել App Store-ից
-
 login-filter =
     .placeholder = Որոնել մուտքանուններ
 
 create-login-button = Ստեղծել նոր մուտքանուն
 
 fxaccounts-sign-in-text = Դարձրէք Ձեր գաղտնաբառերը հասանելի նաեւ Ձեր միւս սարքերում
-fxaccounts-sign-in-button = Մուտք գործել { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Կառավարել հաշիւը
 
@@ -39,8 +31,6 @@ menu-menuitem-preferences =
        *[other] Նախընտրանքներ
     }
 about-logins-menu-menuitem-help = Աւգնութիւն
-menu-menuitem-android-app = { -lockwise-brand-short-name }-ը Android-ի համար
-menu-menuitem-iphone-app = { -lockwise-brand-short-name }-ը iPhone-ի եւ iPad-ի համար
 
 ## Login List
 
@@ -71,13 +61,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Փնտրո՞ւմ էք Ձեր պահպանած մուտքանունները։ Տեղակայէք { -sync-brand-short-name }-ը։
-
 about-logins-login-intro-heading-logged-in = Համաժամեցուած մուտքանուններ չեն գտնուել։
 login-intro-description = Եթե պահպանել էք Ձեր մուտքանունները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպէս կարող էք ստանալ դրանք․
-login-intro-instruction-fxa = Ստեղծէք կամ մուտք գործէք { -fxaccount-brand-name } այն սարքում, որտեղ Ձեր մուտքանունները պահպանուած են
-login-intro-instruction-fxa-settings = Համոզվէք, որ ընտրել էք Ձեր Մուտքանունների նշատուփը { -sync-brand-short-name }-ի կարգաւորումներում։
-about-logins-intro-instruction-help = Լրացուցիչ օգնութեան համար այցելէք <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Աջակցել</a>։
 about-logins-intro-import = Եթե Ձեր մուտքանուններն այլ զննարկիչում են պահպանուած, դուք կարող էք <a data-l10n-name="import-link">դրանք ներածել { -lockwise-brand-short-name }</a>-ում
 
 about-logins-intro-import2 = Եթե ձեր գրանցումները պահուած են { -brand-product-name }֊ից դուրս, դուք կարող էք <a data-l10n-name="import-browser-link"> ներմուծել այլ դիտարկչից</a> կամ <a data-l10n-name="import-file-link">from a file</a>
@@ -136,8 +121,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = պատճէնել պա
 
 ## Master Password notification
 
-master-password-notification-message = Խնդրում ենք մուտքագրել Ձեր գլխաւոր գաղտնաբառը՝ պահպանուած մուտքերը եւ գաղտնաբառերը դիտելու համար
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Ձեր մուտքանունը խմբագրելու համար գրանցէք Windows մուտքագրման Ձեր տուեալները: Այս ընթացակարգն աւգնում է պահպանել ձեր հաշիւների անվտանգութիւնը:
 # This message can be seen when attempting to export a password in about:logins
@@ -152,22 +135,6 @@ master-password-reload-button =
     .accesskey = L
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Ձեզ պէ՞տք են ձեր գաղտնաբառերն ամենուր, որտեղ աւգտագործում էք{ -brand-product-name }-ը։ Գնացէք Ձեր { -sync-brand-short-name }-ի Ընտրանքներ եւ ընտրէք Մուտքանունների նշատուփը:
-       *[other] Ձեզ պէ՞տք են ձեր գաղտնաբառերն ամենուր, որտեղ աւգտագործում էք{ -brand-product-name }-ը։ Գնացէք Ձեր { -sync-brand-short-name }-ի Նախընտրանքներ եւ ընտրէք Մուտքանունների նշատուփը:
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Այցելէք { -sync-brand-short-name }-ի ընտրանքներ
-           *[other] Այցելէք { -sync-brand-short-name }-ի Նախընտրանքեր
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Այլեւս չհարցնել
-    .accesskey = D
 
 ## Dialogs
 
