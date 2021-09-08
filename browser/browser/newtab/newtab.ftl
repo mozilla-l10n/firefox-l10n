@@ -8,9 +8,6 @@
 newtab-page-title = Новая картка
 newtab-settings-button =
     .title = Наладзіць вашу старонку новай карткі
-newtab-personalize-button-label = Персаналізаваць
-    .title = Персаналізаваць новую картку
-    .aria-label = Персаналізаваць новую картку
 newtab-personalize-icon-label =
     .title = Персаналізаваць новую картку
     .aria-label = Персаналізаваць новую картку
@@ -23,7 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Шукаць
     .aria-label = Шукаць
-newtab-search-box-search-the-web-text = Пошук у Інтэрнэце
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Шукайце ў { $engine } або ўвядзіце адрас
@@ -38,10 +35,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Увядзіце запыт або адрас
     .title = Увядзіце запыт або адрас
     .aria-label = Увядзіце запыт або адрас
+
 newtab-search-box-search-the-web-input =
     .placeholder = Пошук у Інтэрнэце
     .title = Пошук у Інтэрнэце
     .aria-label = Пошук у Інтэрнэце
+
 newtab-search-box-text = Шукаць у Iнтэрнэце
 newtab-search-box-input =
     .placeholder = Пошук у інтэрнэце
@@ -57,10 +56,12 @@ newtab-topsites-edit-shortcut-header = Рэдагаваць цэтлік
 newtab-topsites-title-label = Загаловак
 newtab-topsites-title-input =
     .placeholder = Увядзіце назву
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Увядзіце або ўстаўце URL
 newtab-topsites-url-validation = Патрабуецца сапраўдны URL
+
 newtab-topsites-image-url-label = URL уласнага відарыса
 newtab-topsites-use-image-link = Выкарыстоўваць уласны відарыс…
 newtab-topsites-image-validation = Не ўдалося атрымаць відарыс. Паспрабуйце іншы URL.
@@ -89,10 +90,12 @@ newtab-topsite-sponsored = Спонсарскі
 newtab-menu-section-tooltip =
     .title = Адкрыць меню
     .aria-label = Адкрыць меню
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Выдаліць
     .aria-label = Выдаліць
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -165,10 +168,12 @@ newtab-label-removed-bookmark = Закладка выдалена
 newtab-label-recommended = Тэндэнцыі
 newtab-label-saved = Захавана ў { -pocket-brand-name }
 newtab-label-download = Сцягнута
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Спансаравана
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -207,6 +212,7 @@ newtab-section-header-pocket = Рэкамендавана { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Пачніце агляданне, і мы пакажам вам тут некаторыя з найлепшых артыкулаў, відэаролікаў і іншых старонак, якія вы нядаўна наведалі або дадалі ў закладкі.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -253,10 +259,4 @@ newtab-custom-pocket-sponsored = Артыкулы ад спонсараў
 newtab-custom-recent-title = Апошняя актыўнасць
 newtab-custom-recent-subtitle = Падборка нядаўніх сайтаў і змесціва
 newtab-custom-close-button = Закрыць
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Урыўкі
-newtab-custom-snippets-subtitle = Парады і навіны ад { -vendor-short-name } і { -brand-product-name }
 newtab-custom-settings = Кіраваць дадатковымі наладамі

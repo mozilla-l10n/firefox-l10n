@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Дадаць закладку на картку
     .accesskey = ь
-reopen-in-container =
-    .label = Пераадкрыць у кантэйнеры
-    .accesskey = у
 tab-context-open-in-new-container-tab =
     .label = Адкрыць у новай картцы ў кантэйнеры
     .accesskey = у
@@ -69,27 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Закрыць некалькі картак
     .accesskey = ь
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Адмяніць закрыццё карткі
-            [one] Адмяніць закрыццё карткі
-            [few] Адмяніць закрыццё картак
-           *[many] Адмяніць закрыццё картак
-        }
-    .accesskey = я
-close-tab =
-    .label = Закрыць картку
-    .accesskey = З
-close-tabs =
-    .label = Закрыць карткі
-    .accesskey = З
-move-tabs =
-    .label = Перамясціць карткі
-    .accesskey = м
-move-tab =
-    .label = Перамясціць картку
-    .accesskey = м
 tab-context-share-url =
     .label = Падзяліцца
     .accesskey = П
@@ -135,6 +111,7 @@ tab-context-move-tabs =
            *[many] Перамясціць карткі
         }
     .accesskey = м
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

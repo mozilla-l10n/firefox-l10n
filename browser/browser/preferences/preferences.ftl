@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Заўсёды
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Налады
-       *[other] Налады
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Знайсці ў наладах
-           *[other] Знайсці ў перавагах
-        }
-
 settings-page-title = Налады
 
 # This is used to determine the width of the search field in about:preferences,
@@ -65,10 +43,6 @@ category-search =
 pane-privacy-title = Прыватнасць і Бяспека
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 pane-sync-title3 = Сінхранізацыя
 category-sync3 =
@@ -113,14 +87,6 @@ restart-later = Перазапусціць пазней
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Пашырэнне <img data-l10n-name="icon"/> { $name } кантралюе вашу хатнюю старонку.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Пашырэнне <img data-l10n-name="icon"/> { $name } кантралюе вашу старонку новай карткі.
-
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = Пашырэнне <img data-l10n-name="icon"/> { $name } кантралюе гэты параметр.
@@ -128,10 +94,6 @@ extension-controlled-password-saving = Пашырэнне <img data-l10n-name="i
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Пашырэнне <img data-l10n-name="icon"/> { $name } кантралюе гэты параметр.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Пашырэнне <img data-l10n-name="icon"/> { $name } устанавіла ваш прадвызначаны рухавік пошуку.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -157,13 +119,6 @@ extension-controlled-enable = Каб уключыць пашырэнне, зай
 search-results-header = Вынікі пошуку
 
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Выбачайце! У наладах няма вынікаў для “<span data-l10n-name="query"></span>”.
-       *[other] Выбачайце! У перавагах няма вынікаў для “<span data-l10n-name="query"></span>”.
-    }
-
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Выбачайце! У перавагах няма вынікаў для “<span data-l10n-name="query"></span>”.
 
 search-results-help-link = Патрэбна дапамога? Наведайце <a data-l10n-name="url">Падтрымка { -brand-short-name }</a>
@@ -171,14 +126,6 @@ search-results-help-link = Патрэбна дапамога? Наведайце
 ## General Section
 
 startup-header = Запуск
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Дазволіць { -brand-short-name } і Firefox выконвацца адначасова
-use-firefox-sync = Падказка: для гэтага выкарыстоўваюцца асобныя профілі. Карыстайцеся { -sync-brand-short-name } для абмену дадзенымі паміж імі.
-get-started-not-logged-in = Увайсці ў { -sync-brand-short-name }…
-get-started-configured = Адкрыць налады { -sync-brand-short-name }
 
 always-check-default =
     .label = Заўжды правяраць, ці з'яўляецца { -brand-short-name } прадвызначаным браўзерам
@@ -218,10 +165,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Папярэджваць, калі адкрыццё некалькіх картак можа запаволіць { -brand-short-name }
     .accesskey = в
-
-switch-links-to-new-tabs =
-    .label = Пры адкрыцці спасылкі ў новай картцы адразу пераключацца на яе
-    .accesskey = р
 
 switch-to-new-tabs =
     .label = Пры адкрыцці спасылкі, выявы ці медыя ў новай картцы адразу пераключацца на яе
@@ -415,11 +358,6 @@ applications-manage-app =
     .label = Падрабязнасці пра праграму…
 applications-always-ask =
     .label = Заўсёды пытацца
-applications-type-pdf = Фармат пераноснага дакумента (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -509,17 +447,6 @@ update-application-warning-cross-user-setting = Гэта налада дзейн
 update-application-use-service =
     .label = Выкарыстоўваць фонавую службу для ўсталявання абнаўленняў
     .accesskey = ф
-
-update-setting-write-failure-title = Памылка пры захаванні налад абнаўлення
-
-# Variables:
-#   $path (String) - Path to the configuration file
-# The newlines between the main text and the line containing the path is
-# intentional so the path is easier to identify.
-update-setting-write-failure-message =
-    { -brand-short-name } сутыкнуўся з памылкай і не захаваў гэтую змену. Звярніце ўвагу, што ўстаноўка гэтага параметру абнаўлення патрабуе дазволу на запіс у файл ніжэй. Вы або сістэмны адміністратар можаце мець магчымасць ліквідаваць гэтую памылку, даўшы групе Карыстальнікі поўны кантроль над гэтым файлам.
-    
-    Немагчыма запісаць у файл: { $path }
 
 update-setting-write-failure-title2 = Памылка пры захаванні налад абнаўлення
 
@@ -775,13 +702,9 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Паказваць пошукавыя прапановы ў прыватных вокнах
 
-suggestions-addressbar-settings-generic = Змяніць налады для іншых падказак у адрасным радку
-
 suggestions-addressbar-settings-generic2 = Змяніць налады для іншых падказак у адрасным радку
 
 search-suggestions-cant-show = Пошукавыя прапановы у панэлі адрасу паказвацца не будуць, бо вы наладзілі { -brand-short-name } ніколі не запамінаць гісторыю.
-
-search-one-click-header = Пашукавікі ў адну пстрычку
 
 search-one-click-header2 = Пошукавыя скароты
 
@@ -816,13 +739,6 @@ search-keyword-warning-bookmark = Вы выбралі ключавое слов�
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Вярнуцца да наладаў
-           *[other] Вярнуцца да параметраў
-        }
-
 containers-back-button2 =
     .aria-label = Вярнуцца да наладаў
 containers-header = Карткі кантэйнераў
@@ -834,9 +750,6 @@ containers-new-tab-check =
     .label = Выбіраць кантэйнер для кожнай новай карткі
     .accesskey = ы
 
-containers-preferences-button =
-    .label = Налады
-
 containers-settings-button =
     .label = Налады
 containers-remove-button =
@@ -846,11 +759,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Вазьміце сваё Сеціва з сабой
-sync-signedout-description = Сінхранізуйце свае закладкі, гісторыю, карткі, паролі, дадаткі і налады на ўсіх вашых прыладах.
-
-sync-signedout-account-signin2 =
-    .label = Увайсці ў { -sync-brand-short-name }…
-    .accesskey = ў
 
 sync-signedout-description2 = Сінхранізуйце свае закладкі, гісторыю, карткі, паролі, дадаткі і налады на ўсіх вашых прыладах.
 
@@ -901,12 +809,6 @@ prefs-syncing-on = Сінхранізацыя: УКЛЮЧАНА
 
 prefs-syncing-off = Сінхранізацыя: ВЫКЛЮЧАНА
 
-prefs-sync-setup =
-    .label = Наладзіць { -sync-brand-short-name }...
-    .accesskey = д
-
-prefs-sync-offer-setup-label = Сінхранізуйце свае закладкі, гісторыю, карткі, паролі, дадаткі і налады на ўсіх сваіх прыладах.
-
 prefs-sync-turn-on-syncing =
     .label = Уключыць сінхранізацыю…
     .accesskey = ы
@@ -929,11 +831,6 @@ sync-currently-syncing-logins-passwords = Лагіны і паролі
 sync-currently-syncing-addresses = Адрасы
 sync-currently-syncing-creditcards = Крэдытныя карты
 sync-currently-syncing-addons = Дадаткі
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Налады
-       *[other] Параметры
-    }
 
 sync-currently-syncing-settings = Налады
 
@@ -983,15 +880,6 @@ sync-engine-addons =
     .label = Дадаткі
     .tooltiptext = Пашырэнні і тэмы для настольнага Firefox
     .accesskey = Д
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Налады
-           *[other] Налады
-        }
-    .tooltiptext = Змененыя вамі налады: Агульныя, Прыватнасць і бяспека
-    .accesskey = Н
 
 sync-engine-settings =
     .label = Налады
@@ -1048,9 +936,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Захаваныя лагіны…
     .accesskey = З
-forms-master-pw-use =
-    .label = Ужываць галоўны пароль
-    .accesskey = У
 forms-primary-pw-use =
     .label = Ужываць галоўны пароль
     .accesskey = г
@@ -1062,7 +947,6 @@ forms-master-pw-change =
     .label = Змяніць галоўны пароль…
     .accesskey = З
 
-forms-master-pw-fips-title = Зараз вы ў рэжыме FIPS. Для FIPS патрабуецца не пусты галоўны пароль.
 forms-primary-pw-change =
     .label = Змяніць галоўны пароль…
     .accesskey = З
@@ -1080,15 +964,6 @@ forms-windows-sso-learn-more-link = Падрабязней
 forms-windows-sso-desc = Кіраванне ўліковымі запісамі ў наладах прылады
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Каб стварыць галоўны пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = стварыць галоўны пароль
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Каб стварыць галоўны пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
@@ -1206,10 +1081,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Кіраваць дадзенымі…
     .accesskey = К
-
-sitedata-cookies-permissions =
-    .label = Кіраваць дазволамі...
-    .accesskey = з
 
 sitedata-cookies-exceptions =
     .label = Кіраваць выключэннямі…
@@ -1397,12 +1268,6 @@ permissions-addon-exceptions =
     .label = Выключэнні…
     .accesskey = В
 
-permissions-a11y-privacy-checkbox =
-    .label = Забараніць сэрвісам даступнасці доступ з вашага браўзера
-    .accesskey = а
-
-permissions-a11y-privacy-link = Падрабязней
-
 ## Privacy Section - Data Collection
 
 collection-header = Збор і выкарыстанне звестак { -brand-short-name }
@@ -1429,11 +1294,6 @@ addon-recommendations-link = Падрабязней
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Адпраўка дадзеных адключана для гэтай канфігурацыі зборкі
-
-collection-backlogged-crash-reports =
-    .label = Дазволіць { -brand-short-name } адпраўляць назапашаныя справаздачы аб памылках ад вашага імя
-    .accesskey = а
-collection-backlogged-crash-reports-link = Даведацца больш
 
 collection-backlogged-crash-reports-with-link = Дазволіць { -brand-short-name } адсылаць запісаныя справаздачы аб збоях ад вашага імя <a data-l10n-name="crash-reports-link">Падрабязней</a>
     .accesskey = с
@@ -1464,16 +1324,6 @@ security-block-uncommon-software =
 
 certs-header = Сертыфікаты
 
-certs-personal-label = Калі сервер запытвае ваш асабісты сертыфікат
-
-certs-select-auto-option =
-    .label = Выбіраць аўтаматычна
-    .accesskey = Ы
-
-certs-select-ask-option =
-    .label = Пытацца кожны раз
-    .accesskey = П
-
 certs-enable-ocsp =
     .label = Звяртацца да сервера OCSP за пацверджаннем дзейснасці сертыфікатаў
     .accesskey = З
@@ -1485,34 +1335,6 @@ certs-view =
 certs-devices =
     .label = Прылады бяспекі…
     .accesskey = б
-
-space-alert-learn-more-button =
-    .label = Падрабязней
-    .accesskey = П
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Адкрыць налады
-           *[other] Адкрыць налады
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] А
-           *[other] А
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] У { -brand-short-name } сканчаецца месца на дыску. Змесціва вэб-сайтаў можа адлюстроўвацца няправільна. Вы можаце выдаліць захаваныя дадзеныя ў Налады > Прыватнасць і бяспека > Кукі і дадзеныя сайтаў.
-       *[other] У { -brand-short-name } сканчаецца месца на дыску. Змесціва вэб-сайтаў можа адлюстроўвацца няправільна. Вы можаце выдаліць захаваныя дадзеныя ў Налады > Прыватнасць і бяспека > Кукі і дадзеныя сайтаў.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = OK, зразумела
-    .accesskey = K
-
-space-alert-under-5gb-message = У { -brand-short-name } сканчаецца месца на дыску. Змесціва вэб-сайтаў можа адлюстроўвацца няправільна. Клікніце “Падрабязней”, каб аптымізаваць выкарыстанне вашага дыска для паляпшэння вэб-сёрфінгу.
 
 space-alert-over-5gb-settings-button =
     .label = Адкрыць налады

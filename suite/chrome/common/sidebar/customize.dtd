@@ -4,10 +4,6 @@
 
 <!-- extracted from ./customize.xul -->
 
-<!ENTITY sidebar.customize.title.label "Наладзіць Палічку">
-<!ENTITY sidebar.customize.current.label "Устаўкі на Палічцы:">
-<!ENTITY sidebar.customize.current.accesskey "У">
-
 <!ENTITY sidebar.customize.customize.label "Наладзіць устаўку…">
 <!ENTITY sidebar.customize.customize.accesskey "Н">
 <!ENTITY sidebar.customize.remove.label "Прыняць">

@@ -9,8 +9,4 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Даведка">
 <!ENTITY helpMenuWin.accesskey "Д">
-<!ENTITY helpTroubleshootingInfo.label     "Звесткі для вырашэння праблемаў">
-<!ENTITY helpTroubleshootingInfo.accesskey "З">
-<!ENTITY helpSafeMode.label     "Перазапусціць з забароненымі дадаткамі…">
-<!ENTITY helpSafeMode.accesskey "е">
 

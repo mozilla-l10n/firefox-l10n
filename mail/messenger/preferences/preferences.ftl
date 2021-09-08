@@ -6,13 +6,6 @@
 close-button =
     .aria-label = Закрыць
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Наладжванні
-           *[other] Перавагі
-        }
-
 pane-compose-title = Укладанне
 category-compose =
     .tooltiptext = Укладанне
@@ -62,10 +55,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Наладзіць…
     .accesskey = Н
-
-tray-icon-label =
-    .label = Паказаць значок у латку
-    .accesskey = л
 
 mail-custom-sound-label =
     .label = Карыстацца наступным файлам гуку
@@ -242,9 +231,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Колер:
     .accesskey = К
-
-search-input =
-    .placeholder = Пошук
 
 type-column-label =
     .label = Тып змесціва
@@ -480,16 +466,6 @@ passwords-button =
     .label = Захаваныя паролі…
     .accesskey = З
 
-master-password-description = Галоўны пароль абараняе ўсе вашы паролі - аднак вы мусіце ўвесці яго аднойчы за сэсію.
-
-master-password-label =
-    .label = Ужываць галоўны пароль
-    .accesskey = г
-
-master-password-button =
-    .label = Змяніць галоўны пароль…
-    .accesskey = м
-
 
 junk-description = Прызначэнне змоўчных наладжванняў пошты-лухты. Асаблівыя для рахункаў наладжванні могуць быць вызначаны ў Наладжваннях Рахунку.
 
@@ -628,10 +604,6 @@ no-preview-label = Папярэдні прагляд недаступны
 chat-variant-label =
     .value = Варыянт:
     .accesskey = В
-
-chat-header-label =
-    .label = Паказваць загаловак
-    .accesskey = П
 
 ## Preferences UI Search Results
 

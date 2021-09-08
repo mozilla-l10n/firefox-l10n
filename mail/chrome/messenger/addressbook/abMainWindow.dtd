@@ -29,12 +29,6 @@
 <!ENTITY closeCmd.label                                 "Зачыніць">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "ч">
-<!ENTITY printSetupCmd.label                            "Уладкаваць старонку…">
-<!ENTITY printSetupCmd.accesskey                        "н">
-<!ENTITY printPreviewContactCmd.label                   "Перадпрагляд сувязі">
-<!ENTITY printPreviewContactCmd.accesskey               "г">
-<!ENTITY printPreviewAddressBook.label                  "Перадпрагляд адраснай кнігі">
-<!ENTITY printPreviewAddressBook.accesskey              "К">
 <!ENTITY printContactCmd.label                          "Друкаваць сувязь…">
 <!ENTITY printContactCmd.accesskey                      "Д">
 <!ENTITY printContactCmd.key                            "P">
@@ -107,10 +101,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "І">
 <!ENTITY exportCmd.label                                "Экспарт…">
 <!ENTITY exportCmd.accesskey                            "Э">
-<!ENTITY preferencesCmd2.label                          "Наладжванні">
-<!ENTITY preferencesCmd2.accesskey                      "Н">
-<!ENTITY preferencesCmdUnix.label                       "Перавагі">
-<!ENTITY preferencesCmdUnix.accesskey                   "П">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Новая сувязь">

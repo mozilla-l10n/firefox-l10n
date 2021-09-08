@@ -65,8 +65,6 @@ policy-DisableForgetButton = Прадухіліць доступ да кнопк
 
 policy-DisableFormHistory = Не запамінаць гісторыю пошуку і запаўнення формаў.
 
-policy-DisableMasterPasswordCreation = Значэнне true не дазваляе стварыць галоўны пароль.
-
 policy-DisablePrimaryPasswordCreation = Значэнне true не дазваляе стварыць галоўны пароль.
 
 policy-DisablePasswordReveal = Не дазваляйце паказваць паролі ў захаваных лагінах.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Вярнуцца да 
 policy-LocalFileLinks = Дазволіць пэўным вэб-сайтам спасылацца на лакальныя файлы.
 
 policy-ManagedBookmarks = Наладжвае спіс закладак, якімі кіруе адміністратар, і якія карыстальнік не можа змяніць.
-
-policy-MasterPassword = Патрабаваць або забараняць выкарыстанне галоўнага пароля.
 
 policy-ManualAppUpdateOnly = Дазволіць абнаўленне толькі ўручную і не паведамляць карыстальніку аб абнаўленнях.
 

@@ -9,8 +9,6 @@
 
 process-type-web = Сеціўнае змесціва
 
-process-type-browser = Галоўны
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Прывілеяваны About

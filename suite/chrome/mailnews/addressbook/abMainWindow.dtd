@@ -83,6 +83,7 @@
 <!ENTITY dirTreeHeader.label "Адрасныя кнігі">
 
 <!-- Card Summary Pane -->
+<!-- Card Summary Pane -->
 <!ENTITY contact.heading "Сувязь">
 <!ENTITY home.heading "Пачатак">
 <!ENTITY other.heading "Іншае">
@@ -95,5 +96,6 @@
 
 <!ENTITY statusText.label "">
 
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY hideSwapFnLnUI "false">

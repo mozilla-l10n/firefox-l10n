@@ -14,5 +14,6 @@
 <!ENTITY removeButton.accesskey "д">
 
 <!-- AccountManager.xul -->
+<!-- AccountManager.xul -->
 <!ENTITY accountManager.size "width: 130ch; height: 55em;">
 <!ENTITY accountTree.width "width: 35ch;">

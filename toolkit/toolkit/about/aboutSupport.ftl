@@ -7,16 +7,12 @@ page-subtitle =
     Гэта старонка змяшчае тэхнічныя звесткі, якія могуць быць карыснымі, калі
     спрабуеце вырашыць праблему. Калі вы шукаеце адказы на агульныя пытанні
     пра { -brand-short-name }, наведайце наш <a data-l10n-name="support-link">сайт падтрымкі</a>.
+
 crashes-title = Cправаздачы пра крахі
 crashes-id = Ідэнтыфікатар справаздачы
 crashes-send-date = Пададзена
 crashes-all-reports = Усе справаздачы пра крахі
 crashes-no-config = Гэта праграма не наладжана паказваць справаздачы пра крахі.
-extensions-title = Пашырэнні
-extensions-name = Назва
-extensions-enabled = Задзейнічана
-extensions-version = Версія
-extensions-id = ID
 support-addons-title = Дадаткі
 support-addons-name = Назва
 support-addons-type = Тып
@@ -133,8 +129,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Тып працэсу
 sandbox-sys-call-number = Сістэмны выклік
 sandbox-sys-call-args = Аргументы
-safe-mode-title = Паспрабаваць абаронены рэжым
-restart-in-safe-mode-label = Перазапусціць з адключанымі дадаткамі…
 troubleshoot-mode-title = Дыягнаставаць праблемы
 restart-in-troubleshoot-mode-label = Рэжым вырашэння праблем…
 clear-startup-cache-title = Паспрабаваць ачысціць кэш запуску
@@ -192,36 +186,6 @@ remote-debugging-url = URL
 
 ##
 
-support-third-party-modules-title = Модулі іншых вытворцаў
-support-third-party-modules-module = Файл модуля
-support-third-party-modules-version = Версія файла
-support-third-party-modules-vendor = Інфармацыя пра вытворцу
-support-third-party-modules-occurrence = Копіі
-support-third-party-modules-process = Тып і ідэнтыфікатар працэсу
-support-third-party-modules-thread = Паток
-support-third-party-modules-base = Адрас базавай загрузкі выявы
-support-third-party-modules-uptime = Час працы працэсу (мс)
-support-third-party-modules-duration = Працягласць загрузкі (мс)
-support-third-party-modules-status = Стан
-support-third-party-modules-status-loaded = Загружаны
-support-third-party-modules-status-blocked = Заблакаваны
-support-third-party-modules-status-redirected = Перанакіраваны
-support-third-party-modules-empty = Модулі іншых вытворцаў не загружаны.
-support-third-party-modules-no-value = (Няма значэння)
-support-third-party-modules-button-open =
-    .title = Адкрыць месцазнаходжанне файла…
-support-third-party-modules-expand =
-    .title = Паказаць падрабязную інфармацыю
-support-third-party-modules-collapse =
-    .title = Згарнуць падрабязную інфармацыю
-support-third-party-modules-unsigned-icon =
-    .title = Гэты модуль не падпісаны
-support-third-party-modules-folder-icon =
-    .title = Адкрыць месцазнаходжанне файла…
-support-third-party-modules-down-icon =
-    .title = Паказаць падрабязную інфармацыю
-support-third-party-modules-up-icon =
-    .title = Згарнуць падрабязную інфармацыю
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -230,6 +194,7 @@ report-crash-for-days =
         [few] Справаздачы пра крахі за { $days } апошнія дні
        *[many] Справаздачы пра крахі за { $days } апошніх дзён
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -238,6 +203,7 @@ crashes-time-minutes =
         [few] { $minutes } хвіліны таму
        *[many] { $minutes } хвілінаў таму
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -246,6 +212,7 @@ crashes-time-hours =
         [few] { $hours } гадзіны таму
        *[many] { $hours } гадзінаў таму
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -254,6 +221,7 @@ crashes-time-days =
         [few] { $days } дні таму
        *[many] { $days } дзён таму
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -262,6 +230,7 @@ pending-reports =
         [few] Усе справаздачы пра крахі (уключаючы { $reports } адкладзеныя крахі з дадзеным перыядзе)
        *[many] Усе справаздачы пра крахі (уключаючы { $reports } адкладзеных крахаў у дадзеным перыядзе)
     }
+
 raw-data-copied = Сырыя дадзеныя скапіяваны ў буфер абмену
 text-copied = Тэкст скапіяваны ў буфер абмену
 
@@ -274,9 +243,11 @@ blocked-mismatched-version = Заблакавана з-за несупадзен
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Блакавана для вашай версіі графічнага кіроўцы. Паспрабуйце абнавіць ваш графічны кіровец да версіі { $driverVersion } або навейшай.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Параметры ClearType
+
 compositing = Кампазітынг
 hardware-h264 = Апаратнае дэкадаванне H264
 main-thread-no-omtc = галоўная плынь, без OMTC
@@ -291,6 +262,7 @@ virtual-monitor-disp = Адлюстраванне віртуальнага ма�
 
 found = Знойдзены
 missing = Адсутнічае
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Апісанне
@@ -313,21 +285,19 @@ webgl2-renderer = WebGL 2 - Адлюстравальнік драйвера
 webgl2-version = WebGL 2 - Версія драйвера
 webgl2-driver-extensions = WebGL 2 - Пашырэнні драйвера
 webgl2-extensions = WebGL 2 - Пашырэнні
-blocklisted-bug = У спісе блакавання з-за вядомых праблем
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = праблема { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Заблакавана з-за вядомых праблем: <a data-l10n-name="bug-link">апісанне { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = У спісе блакавання; код памылкі { $failureCode }
+
 d3d11layers-crash-guard = Кампазітар D3D11
-d3d11video-crash-guard = Відэадэкодэр D3D11
-d3d9video-crash-guard = Відэадэкодэр D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Відэадэкодэр WMF VPX
+
 reset-on-next-restart = Скінуць пры наступным перазапуску
 gpu-process-kill-button = Завяршыць GPU працэс
 gpu-device-reset = Скід прылады
@@ -337,8 +307,10 @@ content-uses-tiling = Выкарыстоўвае тайлінг (кантэнт)
 off-main-thread-paint-enabled = Прамалёўванне па-за асноўным патокам уключана
 off-main-thread-paint-worker-count = Колькасць воркераў прамалёўвання па-за асноўным патокам
 target-frame-rate = Мэтавая частата кадраў
+
 min-lib-versions = Чаканая найменшая версія
 loaded-lib-versions = Версія ва ўжытку
+
 has-seccomp-bpf = Seccomp-BPF (Фільтраванне сістэмных выклікаў)
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = Прасторы імён карыстальніка
@@ -352,27 +324,22 @@ sandbox-proc-type-content = змесціва
 sandbox-proc-type-file = змесціва файла
 sandbox-proc-type-media-plugin = медыяплагін
 sandbox-proc-type-data-decoder = дэкодар даных
+
 startup-cache-title = Кэш запуску
 startup-cache-disk-cache-path = Шлях да дыскавага кэшу
 startup-cache-ignore-disk-cache = Ігнараваць дыскавы кэш
 startup-cache-found-disk-cache-on-init = Знойдзены дыскавы кэш пры ініцыялізацыі
 startup-cache-wrote-to-disk-cache = Запісаны ў дыскавы кэш
+
 launcher-process-status-0 = Уключана
 launcher-process-status-1 = Адключана з-за збою
 launcher-process-status-2 = Прымусова адключана
 launcher-process-status-unknown = Невядомы статус
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Уключаны карыстальнікам
-multi-process-status-1 = Прадвызначана - уключаны
-multi-process-status-2 = Выключаны
-multi-process-status-4 = Выключана прыладамі даступнасці
-multi-process-status-6 = Выключана непадтрыманым тэкставым уводам
-multi-process-status-7 = Адключана дадатакамі
-multi-process-status-8 = Прымусова адключаны
-multi-process-status-unknown = Невядомы статус
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -388,6 +355,7 @@ fission-status-enabled-by-user-pref = Уключаны карыстальнік�
 fission-status-disabled-by-user-pref = Адключана карыстальнікам
 fission-status-disabled-by-e10s-other = E10s адключаны
 fission-status-enabled-by-rollout = Уключана паэтапным разгортваннем
+
 async-pan-zoom = Асінхроннае павелічэнне/маштаб
 apz-none = няма
 wheel-enabled = увод колца ўключаны
@@ -424,6 +392,7 @@ support-remote-experiments-title = Аддаленыя эксперыменты
 support-remote-experiments-name = Назва
 support-remote-experiments-branch = Галіна эксперыменту
 support-remote-experiments-see-about-studies = Гл. <a data-l10n-name="support-about-studies-link">about:studies</a> для дадатковай інфармацыі, у тым ліку пра тое, як адключыць асобныя эксперыменты або забараніць { -brand-short-name } запускаць эксперыменты такога тыпу ў будучыні.
+
 support-remote-features-title = Аддаленыя функцыі
 support-remote-features-name = Назва
 support-remote-features-status = Стан

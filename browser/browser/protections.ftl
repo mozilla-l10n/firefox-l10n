@@ -105,9 +105,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Як гэта працуе
 
-turn-on-sync = Уключыць { -sync-brand-short-name }…
-    .title = Перайсці да налад сінхранізацыі
-
 monitor-title = Сачыце за ўцечкамі дадзеных
 monitor-link = Як гэта працуе
 monitor-header-content-no-account = Паспрабуйце { -monitor-brand-name }, каб спраўдзіць, ці не ўцяклі вашы дадзеныя у вядомых узломах, і атрымліваць апавяшчэнні аб новых уцечках.

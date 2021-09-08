@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Выключэнні
     .style = width: 42em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = Адрас пляцоўкі сеціва:
     .accesskey = А

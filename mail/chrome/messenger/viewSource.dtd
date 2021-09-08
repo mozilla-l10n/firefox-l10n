@@ -19,10 +19,6 @@
 <!ENTITY savePageCmd.label "Захаваць старонку як…">
 <!ENTITY savePageCmd.accesskey "я">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Наладзіць старонку…">
-<!ENTITY pageSetupCmd.accesskey "а">
-<!ENTITY printPreviewCmd.label "Перадпрагляд друку">
-<!ENTITY printPreviewCmd.accesskey "е">
 <!ENTITY printCmd.label "Друкаваць…">
 <!ENTITY printCmd.accesskey "Д">
 <!ENTITY printCmd.commandkey "P">

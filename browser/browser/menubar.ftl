@@ -38,16 +38,20 @@ menu-quit =
             [windows] ы
            *[other] В
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Выйсці з { -brand-shorter-name }
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Выйсці з { -brand-shorter-name }
+
 menu-about =
     .label = Пра { -brand-shorter-name }
     .accesskey = П
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Праўка
     .accesskey = р
-menu-edit-find-on =
-    .label = Знайсці на гэтай старонцы…
-    .accesskey = З
 menu-edit-find-in-page =
     .label = Знайсці на старонцы…
     .accesskey = а
@@ -133,9 +134,6 @@ menu-view =
     .accesskey = П
 menu-view-toolbars-menu =
     .label = Паліцы прылад
-    .accesskey = л
-menu-view-customize-toolbar =
-    .label = Уладкаваць…
     .accesskey = л
 menu-view-customize-toolbar2 =
     .label = Уладкаваць паліцы прылад…
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Базавы стыль старонкі
     .accesskey = Б
-menu-view-charset =
-    .label = Кадаванне тэксту
-    .accesskey = к
 menu-view-repair-text-encoding =
     .label = Выправіць кадаванне тэксту
     .accesskey = В
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Перааадкрыць усе вокны
 menu-bookmarks-menu =
     .label = Закладкі
     .accesskey = З
-menu-bookmarks-show-all =
-    .label = Паказаць усе закладкі
-menu-bookmark-this-page =
-    .label = Дадаць закладку на старонку
 menu-bookmarks-manage =
     .label = Кіраванне закладкамі
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Сцягванні
     .accesskey = С
-menu-tools-addons =
-    .label = Дадаткі
-    .accesskey = Д
-menu-tools-fxa-sign-in =
-    .label = Увайсці ў { -brand-product-name }…
-    .accesskey = і
-menu-tools-turn-on-sync =
-    .label = Уключыць { -sync-brand-short-name }…
-    .accesskey = ь
 menu-tools-addons-and-themes =
     .label = Дадаткі і тэмы
     .accesskey = Д
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Перазлучыцца з { -brand-product-name }…
     .accesskey = П
-menu-tools-web-developer =
-    .label = Распрацоўшчык Сеціва
-    .accesskey = Р
 menu-tools-browser-tools =
     .label = Інструменты браўзера
     .accesskey = І
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Звесткі пра старонку
     .accesskey = З
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Налады
-           *[other] Налады
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Н
-           *[other] л
-        }
 menu-settings =
     .label = Налады
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Даведка
     .accesskey = Д
-menu-help-product =
-    .label = Даведка { -brand-shorter-name }
-    .accesskey = Д
-menu-help-show-tour =
-    .label = Знаёмства з { -brand-shorter-name }
-    .accesskey = З
-menu-help-import-from-another-browser =
-    .label = Імпартаваць з іншага браўзера…
-    .accesskey = ш
-menu-help-keyboard-shortcuts =
-    .label = Спалучэнні клавіш
-    .accesskey = К
-menu-help-troubleshooting-info =
-    .label = Звесткі для вырашэння праблемаў
-    .accesskey = З
 menu-get-help =
     .label = Атрымаць дапамогу
     .accesskey = р
@@ -363,12 +316,6 @@ menu-help-report-site-issue =
     .label = Паведаміць аб праблеме з сайтам…
 menu-help-feedback-page =
     .label = Падаць водгук…
-    .accesskey = П
-menu-help-safe-mode-without-addons =
-    .label = Перазапусціць без дадаткаў…
-    .accesskey = П
-menu-help-safe-mode-with-addons =
-    .label = Перазапусціць з дадаткамі
     .accesskey = П
 menu-help-enter-troubleshoot-mode2 =
     .label = Рэжым вырашэння праблем…

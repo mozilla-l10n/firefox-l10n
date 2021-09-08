@@ -7,9 +7,6 @@ third-party-section-title = Спіс старонніх модуляў у { -bra
 
 third-party-intro = На гэтай старонцы паказаны модулі іншых вытворцаў, якія былі дададзены ў ваш { -brand-short-name }. Любы модуль, які не падпісаны Microsoft або { -vendor-short-name }, лічыцца староннім.
 
-third-party-header-module-list = Спіс модуляў
-third-party-header-loading-events = Загрузка падзей
-
 third-party-message-empty = Модулі іншых вытворцаў не выяўлены.
 third-party-message-no-duration = Не запісана
 
