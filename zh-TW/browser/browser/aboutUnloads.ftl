@@ -7,6 +7,7 @@
 ### feature.
 
 about-unloads-page-title = 分頁降載
+about-unloads-intro-1 = { -brand-short-name } 提供自動卸載分頁的功能，來防止應用程式因記憶體不足發生錯誤。此功能會依照多個屬性來決定接下來要卸除哪個分頁。此頁面顯示 { -brand-short-name } 如何排序分頁的優先程度，以及觸發降載時會卸載哪些分頁。
 about-unloads-last-updated = 最後更新於: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = 卸載
     .title = 卸載最高優先權的分頁
