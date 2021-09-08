@@ -117,9 +117,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Sut mae'n gweithio
 
-turn-on-sync = Cychwyn { -sync-brand-short-name }…
-    .title = Mynd i ddewisiadau cydweddu
-
 monitor-title = Bod yn effro i dor-data.
 monitor-link = Sut mae'n gweithio
 monitor-header-content-no-account = Edrychwch ar { -monitor-brand-name } i weld a ydych chi wedi bod yn rhan o dor-data a chael rhybuddion am dor-data newydd.

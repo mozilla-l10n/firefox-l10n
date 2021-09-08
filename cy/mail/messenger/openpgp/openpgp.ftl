@@ -129,10 +129,6 @@ openpgp-key-send-key =
     .label = Anfon Allwedd Gyhoeddus Trwy E-bost
     .accesskey = A
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Copïo Allwedd(i) Cyhoeddus I'r Clipfwrdd
-    .accesskey = C
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -171,8 +167,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Allforio Allweddi i Ffeil
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Copïo Allwedd(i) Cyhoeddus I'r Clipfwrdd
 
 openpgp-key-man-ctx-copy =
     .label = Copïo
@@ -340,19 +334,6 @@ openpgp-description =
        *[other] Mae Thunderbird wedi canfod { $count } allwedd OpenPGP personol sy'n gysylltiedig â <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Dewis allwedd ddilys i alluogi protocol OpenPGP.
-        [zero] Mae eich ffurfweddiad cyfredol yn defnyddio ID allwedd <b>{ $key }</b>
-        [one] Mae eich ffurfweddiad cyfredol yn defnyddio ID allwedd <b>{ $key }</b>
-        [two] Mae eich ffurfweddiad cyfredol yn defnyddio ID allwedd <b>{ $key }</b>
-        [few] Mae eich ffurfweddiad cyfredol yn defnyddio ID allwedd <b>{ $key }</b>
-        [many] Mae eich ffurfweddiad cyfredol yn defnyddio ID allwedd <b>{ $key }</b>
-       *[other] Mae eich ffurfweddiad cyfredol yn defnyddio ID allwedd <b>{ $key }</b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Mae eich ffurfweddiad cyfredol yn defnyddio ID allwedd <b>{ $key }</b>
 
@@ -385,14 +366,8 @@ openpgp-radio-key-not-found = Nid oedd modd canfod yr allwedd hon! Os ydych am e
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Yn dod i ben ar: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Mae'r allwedd yn dod i ben o fewn 6 mis
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Wedi dod i ben ar: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Daeth yr allwedd i ben
 
 openpgp-key-expires-within-6-months-icon =
     .title = Mae'r allwedd yn dod i ben o fewn 6 mis
@@ -716,7 +691,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Rydych chi wedi gosod lapio llinell i nodau { $width }. Ar gyfer amgryptio a/neu lofnodi cywir, mae angen i'r gwerth hwn fod yn 68 o leiaf.
     Ydych chi am newid amlapio llinell i 68 nod nawr?
-sending-hidden-rcpt = Nid oes modd defnyddio derbynwyr BCC (copi dall) wrth anfon neges wedi'i hamgryptio. I anfon y neges amgryptiedig hon, naill ai tynnwch y derbynwyr BCC neu eu symud i'r maes CC.
 sending-news =
     Ataliwyd gweithrediad anfon wedi'i amgryptio.
     Nid oes modd amgryptio'r neges hon oherwydd bod derbynwyr grwpiau newyddion. Ail-anfonwch y neges heb amgryptio.
@@ -783,9 +757,6 @@ enig-info = Manylion OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Ceisio eto
 dlg-button-skip = &Hepgor
-
-# Strings used in enigmailCommon.js
-enig-error = Gwall OpenPGP
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

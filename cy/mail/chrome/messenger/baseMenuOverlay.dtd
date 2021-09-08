@@ -11,13 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "y">
 <!ENTITY aboutProduct2.label "Ynghylch &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "Y">
-<!ENTITY helpTroubleshootingInfo.label     "Gwybodaeth am Ddatrys Problemau">
-<!ENTITY helpTroubleshootingInfo.accesskey "G">
-<!ENTITY helpSafeMode.label     "Ailgychwyn gydag Ychwanegion wedi'u Hanalluogi…">
-<!ENTITY helpSafeMode.accesskey "A">
 
-<!ENTITY helpSafeMode.stop.label     "Ailgychwyn gydag Ychwanegion wedi eu Galluogi">
-<!ENTITY helpSafeMode.stop.accesskey "A">
 <!ENTITY productHelp.label "Cymorth &brandShortName;">
 <!ENTITY productHelp.accesskey "C">
 <!ENTITY productHelp.commandkey "VK_F1">

@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Gosod Nod Tudalen i'r Tab
     .accesskey = N
-reopen-in-container =
-    .label = Ail agor mewn Cynhwysydd
-    .accesskey = A
 tab-context-open-in-new-container-tab =
     .label = Agor Dolen mewn Tab Cynhwysydd Newydd
     .accesskey = A
@@ -69,30 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Cau Tabiau Lluosog
     .accesskey = L
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Dadwneud Cau Tabiau
-            [zero] Dadwneud Cau Tabiau
-            [one] Dadwneud Cau Tab
-            [two] Dadwneud Cau Tabiau
-            [few] Dadwneud Cau Tabiau
-            [many] Dadwneud Cau Tabiau
-           *[other] Dadwneud Cau Tabiau
-        }
-    .accesskey = D
-close-tab =
-    .label = Cau Tab
-    .accesskey = C
-close-tabs =
-    .label = Cau Tabiau
-    .accesskey = T
-move-tabs =
-    .label = Symud Tabiau
-    .accesskey = y
-move-tab =
-    .label = Symud Tab
-    .accesskey = y
 tab-context-share-url =
     .label = Rhannu
     .accesskey = R
@@ -150,6 +123,7 @@ tab-context-move-tabs =
            *[other] Symud Tab
         }
     .accesskey = S
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

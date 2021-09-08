@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "A">
 <!ENTITY deleteCmd.label          "Dileu">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY preferencesCmd2.label "Dewisiadau">
-<!ENTITY preferencesCmd2.accesskey "D">
-<!ENTITY preferencesCmdUnix.label       "Dewisiadau">
-<!ENTITY preferencesCmdUnix.accesskey     "D">
 
 <!ENTITY customizeCmd.label "Cyfaddasu">
 <!ENTITY customizeCmd.accesskey "f">

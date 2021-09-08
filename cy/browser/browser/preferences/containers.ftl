@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Ychwanegu Cynhwysydd Newydd
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Dewisiadau Cynhwysyddion { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Eicon
 containers-color-label = Lliw
     .accesskey = L
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Gorffen
-    .accesskey = G
 
 containers-dialog =
     .buttonlabelaccept = Gorffen

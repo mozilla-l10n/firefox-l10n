@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Rheolwr Ychwanegion
-
 addons-page-title = Rheolwr Ychwanegion
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Cefnogaeth Ychwanegion
 sidebar-help-button-title =
     .title = Cefnogaeth Ychwanegion
 
-preferences =
-    { PLATFORM() ->
-        [windows] Dewisiadau { -brand-short-name }
-       *[other] Dewisiadau { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Dewisiadau { -brand-short-name }
-           *[other] Dewisiadau { -brand-short-name }
-        }
-
 addons-settings-button = Gosodiadau { -brand-short-name }
 sidebar-settings-button-title =
     .title = Gosodiadau { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Dangos pob estyniad
-
-cmd-show-details =
-    .label = Dangos Rhagor o Wybodaeth
-    .accesskey = D
-
-cmd-find-updates =
-    .label = Canfod Diweddariadau
-    .accesskey = C
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Dewisiadau
-           *[other] Dewisiadau
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] D
-           *[other] e
-        }
-
-cmd-enable-theme =
-    .label = Gwisgo Thema
-    .accesskey = w
-
-cmd-disable-theme =
-    .label = Peidio Gwisgo Thema
-    .accesskey = P
-
-cmd-install-addon =
-    .label = Gosod
-    .accesskey = G
-
-cmd-contribute =
-    .label = Cyfrannu
-    .accesskey = C
-    .tooltiptext = Cyfrannu i ddatblygiad yr ychwanegyn
 
 detail-version =
     .label = Fersiwn
@@ -401,8 +349,6 @@ dictionary-disabled-heading = Analluogwyd
 
 locale-enabled-heading = Galluogwyd
 locale-disabled-heading = Analluogwyd
-
-ask-to-activate-button = Gofyn i'w Weithredu
 
 always-activate-button = Gweithredu Bob Tro
 never-activate-button = Byth Gweithredu

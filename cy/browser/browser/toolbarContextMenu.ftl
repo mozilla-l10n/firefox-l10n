@@ -20,18 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Dewis Pob Tab
     .accesskey = D
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Dadwneud Cau Tab
-            [zero] Dadwneud Cau Tabiau
-            [one] Dadwneud Cau Tab
-            [two] Dadwneud Cau Tabiau
-            [few] Dadwneud Cau Tabiau
-            [many] Dadwneud Cau Tabiau
-           *[other] Dadwneud Cau Tabiau
-        }
-    .accesskey = C
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -66,9 +54,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Pinio i'r Ddewislen Ychwanegol
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Awtoguddio yn y Bar Offer
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Cuddio Botwm pan yn Wag
     .accesskey = B

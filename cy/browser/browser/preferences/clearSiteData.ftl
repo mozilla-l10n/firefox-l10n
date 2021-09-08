@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Bydd angen i wefannau ail lwytho delweddau a data
 
-clear-site-data-cancel =
-    .label = Diddymu
-    .accesskey = D
-
-clear-site-data-clear =
-    .label = Clirio
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = Clirio
     .buttonaccesskeyaccept = l

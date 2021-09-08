@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Agor Ffenestr Breifat
 about-private-browsing-search-placeholder = Chwilio'r We
 about-private-browsing-info-title = Rydych mewn Ffenestr Breifat
 about-private-browsing-info-myths = Mythau cyffredin am bori preifat
-about-private-browsing =
-    .title = Chwilio'r We
 about-private-browsing-search-btn =
     .title = Chwilio'r we
 # Variables
@@ -23,12 +21,16 @@ about-private-browsing-handoff-text = Chwilio gyda { $engine } neu roi cyfeiriad
 about-private-browsing-handoff-text-no-engine = Chwilio neu roi cyfeiriad
 about-private-browsing-not-private = Nid ydych mewn ffenestr breifat ar hyn o bryd.
 about-private-browsing-info-description = Mae { -brand-short-name } yn clirio eich hanes chwilio a phori pan fyddwch yn cau'r ap neu'n cau pob tab a ffenestr Pori Preifat. Er nad yw hyn yn eich gwneud yn ddienw i wefannau neu i'ch darparwr gwasanaeth rhyngrwyd, mae'n ei gwneud yn haws i chi gadw'r hyn rydych chi'n ei wneud ar-lein yn breifat rhag unrhyw un arall sy'n defnyddio'r cyfrifiadur hwn.
+
 about-private-browsing-need-more-privacy = Angen mwy o breifatrwydd?
 about-private-browsing-turn-on-vpn = Rhowch gynnig ar { -mozilla-vpn-brand-name }
+
 about-private-browsing-info-description-simplified = Mae { -brand-short-name } yn clirio'ch hanes chwilio a phori pan fyddwch yn cau pob ffenestr breifat, ond nid yw hyn yn eich gwneud chi'n anhysbys.
 about-private-browsing-learn-more-link = Dysgu rhagor
+
 about-private-browsing-hide-activity = Cuddiwch eich gweithgaredd a'ch lleoliad, ym mhobman rydych chi'n pori
 about-private-browsing-prominent-cta = Cadwch yn breifat gyda { -mozilla-vpn-brand-name }
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

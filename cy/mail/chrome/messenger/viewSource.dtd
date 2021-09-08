@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Cadw Tudalen Fel…">
 <!ENTITY savePageCmd.accesskey "C">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Gosodiad Tudalen…">
-<!ENTITY pageSetupCmd.accesskey "G">
-<!ENTITY printPreviewCmd.label "Rhagolwg Argraffu">
-<!ENTITY printPreviewCmd.accesskey "h">
 <!ENTITY printCmd.label "Argraffu…">
 <!ENTITY printCmd.accesskey "A">
 <!ENTITY printCmd.commandkey "P">

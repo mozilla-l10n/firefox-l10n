@@ -20,7 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Chwilio
     .aria-label = Chwilio
-newtab-search-box-search-the-web-text = Chwilio'r We
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Chwilio gyda { $engine } neu roi cyfeiriad
@@ -35,10 +35,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Chwilio neu roi cyfeiriad
     .title = Chwilio neu roi cyfeiriad
     .aria-label = Chwilio neu roi cyfeiriad
+
 newtab-search-box-search-the-web-input =
     .placeholder = Chwilio'r We
     .title = Chwilio'r We
     .aria-label = Chwilio'r We
+
 newtab-search-box-text = Chwilio'r we
 newtab-search-box-input =
     .placeholder = Chwilio'r we
@@ -54,10 +56,12 @@ newtab-topsites-edit-shortcut-header = Golygu Llwybr Byr
 newtab-topsites-title-label = Teitl
 newtab-topsites-title-input =
     .placeholder = Rhoi teitl
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Teipio neu ludo URL
 newtab-topsites-url-validation = Mae angen URL Ddilys
+
 newtab-topsites-image-url-label = URL Delwedd Gyfaddas
 newtab-topsites-use-image-link = Defnyddio delwedd gyfaddas…
 newtab-topsites-image-validation = Methodd y ddelwedd â llwytho. Defnyddiwch URL gwahanol.
@@ -86,10 +90,12 @@ newtab-topsite-sponsored = Noddwyd
 newtab-menu-section-tooltip =
     .title = Agor y ddewislen
     .aria-label = Agor y ddewislen
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Tynnu
     .aria-label = Tynnu
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -163,10 +169,12 @@ newtab-label-removed-bookmark = Wedi Tynnu'r Nod Tudalen
 newtab-label-recommended = Trendio
 newtab-label-saved = Wedi ei gadw i { -pocket-brand-name }
 newtab-label-download = Wedi eu Llwytho i Lawr
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = Noddir gan { $sponsorOrSource }
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -205,6 +213,7 @@ newtab-section-header-pocket = Argymhellwyd gan { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Cychwynnwch bori ac fe ddangoswn rhai erthyglau, fideos a thudalennau eraill difyr rydych wedi ymweld â nhw'n ddiweddar neu wedi gosod nod tudalen arnyn nhw yma.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".

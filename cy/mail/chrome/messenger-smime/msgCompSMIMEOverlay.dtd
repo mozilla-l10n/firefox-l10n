@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Llofnodi'r Neges yn Ddigidol">
 <!ENTITY menu_securitySign.accesskey "L">
 
-<!ENTITY menu_securityAttachMyKey.label "Atodi fy Allwedd Gyhoeddus">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "Technoleg Amgryptio">
 <!ENTITY menu_securityTech.accesskey "T">
 

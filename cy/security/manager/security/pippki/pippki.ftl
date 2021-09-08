@@ -6,9 +6,6 @@ password-quality-meter = Mesurydd ansawdd y cyfrinair
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Newid Prif Gyfrinair
-
 change-device-password-window =
     .title = Newid Cyfrinair
 
@@ -20,10 +17,6 @@ change-password-new = Cyfrinair newydd:
 change-password-reenter = Y cyfrinair newydd (eto):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Ailosod Prif Gyfrinair
-    .style = width: 40em
 
 pippki-failed-pw-change = Methu newid cyfrinair.
 pippki-incorrect-pw = Wedi rhoi cyfrinair anghywir. Ceisiwch eto.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Ailosod
-reset-password-text = Os byddwch yn ailosod eich prif gyfrinair, bydd eich cyfrineiriau gwe ac e-bost, data ffurflen, tystysgrifau personol ac allweddi preifat sydd wedi eu cadw'n cael eu colli. Ydych chi'n siŵr eich bod eisiau ailosod eich prif gyfrinair?
 
 reset-primary-password-text = Os byddwch yn ailosod eich Prif Gyfrinair, bydd eich cyfrineiriau gwe ac e-bost, data ffurflen, tystysgrifau personol ac allweddi preifat sydd wedi eu cadw'n cael eu colli. Ydych chi'n siŵr eich bod eisiau ailosod eich Prif Gyfrinair?
 

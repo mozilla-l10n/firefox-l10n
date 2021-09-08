@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Tynnu Pob Gwefan
     .accesskey = G
 
-permissions-button-cancel =
-    .label = Diddymu
-    .accesskey = D
-
-permissions-button-ok =
-    .label = Cadw Newidiadau
-    .accesskey = N
-
 permission-dialog =
     .buttonlabelaccept = Cadw Newidiadau
     .buttonaccesskeyaccept = N
