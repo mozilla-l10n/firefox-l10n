@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = ଏଡ-ଅନ ପରିଚାଳକ
-
 addons-page-title = ଏଡ-ଅନ ପରିଚାଳକ
 
 search-header-shortcut =
@@ -24,43 +21,6 @@ list-empty-find-updates =
 
 list-empty-button =
     .label = ଏଡ-ଅନଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
-
-cmd-show-details =
-    .label = ଅଧିକ ସୂଚନା ଦର୍ଶାନ୍ତୁ
-    .accesskey = S
-
-cmd-find-updates =
-    .label = ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ବିକଳ୍ପଗୁଡ଼ିକ
-           *[other] ପସନ୍ଦ
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = ପ୍ରସଙ୍ଗ ପ୍ରୟୋଗ କରନ୍ତୁ
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = ପ୍ରସଙ୍ଗ ପ୍ରୟୋଗ କରିବା ବନ୍ଦ କରନ୍ତୁ
-    .accesskey = W
-
-cmd-install-addon =
-    .label = ସ୍ଥାପନ କରନ୍ତୁ
-    .accesskey = I
-
-cmd-contribute =
-    .label = ଯୋଗଦାନ କରନ୍ତୁ
-    .accesskey = C
-    .tooltiptext = ଏହି ଏଡ-ଅନର ବିକାଶରେ ଯୋଗଦାନ କରନ୍ତୁ
 
 detail-version =
     .label = ସଂସ୍କରଣ

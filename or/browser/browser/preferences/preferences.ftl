@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] ବିକଳ୍ପଗୁଡ଼ିକ
-       *[other] ପସନ୍ଦ
-    }
-
 pane-general-title = ସାଧାରଣ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -47,12 +41,6 @@ should-restart-title = { -brand-short-name } କୁ ପୁନଃଚାଳନ କ
 ## General Section
 
 startup-header = ଆରମ୍ଭ
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = { -brand-short-name } ଏବଂ Firefox କୁ ଏକା ସହିତ ଚାଲିବା ପାଇଁ ଅନୁମତି ଦିଅନ୍ତୁ
-use-firefox-sync = ସୂଚନା: ଏହା ପୃଥକ ରୂପରେଖାକୁ ବ୍ୟବହାର କରିଥାଏ । ତଥ୍ୟକୁ ସେଗୁଡ଼ିକ ମଧ୍ୟରେ ସହଭାଗ କରିବା ପାଇଁ { -sync-brand-short-name } ବ୍ୟବହାର କରନ୍ତୁ ।
 
 is-default = { -brand-short-name } ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର ଅଟେ
 is-not-default = { -brand-short-name } ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର ଅଟେ
@@ -146,11 +134,6 @@ applications-manage-app =
     .label = ପ୍ରୟୋଗ ବିବରଣୀ…
 applications-always-ask =
     .label = ସର୍ବଦା ପଚାରନ୍ତୁ
-applications-type-pdf = ବହନୀୟ ଦଲିଲ ସଜ୍ଜିକରଣ ଶୈଳୀ (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -309,14 +292,9 @@ forms-exceptions =
     .label = ବ୍ୟତିକ୍ରମ…
     .accesskey = x
 
-forms-master-pw-use =
-    .label = ଗୋଟିଏ ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତ ବ୍ୟବହାର କରନ୍ତୁ
-    .accesskey = U
 forms-master-pw-change =
     .label = ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ…
     .accesskey = M
-
-forms-master-pw-fips-title = ଆପଣ ବର୍ତ୍ତମାନ FIPS ଅବସ୍ଥାରେ ଅଛନ୍ତି. FIPS ଗୋଟିଏ ଖାଲିନଥିବା ମୁଖ୍ୟ ପ୍ରବେଶ ସଂକେତ ଆବଶ୍ୟକ କରେ.
 
 forms-master-pw-fips-desc = ପ୍ରବେଶ ସଂକେତ ପରିବର୍ତ୍ତନ ବିଫଳ ହେଲା
 

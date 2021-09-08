@@ -81,39 +81,6 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-name-auto =
-    .label = ପ୍ରଚଳିତ ଭାଷା ପାଇଁ ପୂର୍ବନିର୍ଦ୍ଧାରିତ
-fonts-languages-fallback-name-arabic =
-    .label = ଆରାବିକ
-fonts-languages-fallback-name-baltic =
-    .label = ବାଲଟିକ
-fonts-languages-fallback-name-ceiso =
-    .label = ମଧ୍ୟ ୟୁରୋପିଆନ, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = ମଧ୍ୟ ୟୁରୋପିଆନ, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = ଚାଇନିଜ, ସରଳିକୃତ
-fonts-languages-fallback-name-traditional =
-    .label = ଚାଇନିଜ, ପାରମ୍ପରିକ
-fonts-languages-fallback-name-cyrillic =
-    .label = ସିରୀଲିକ
-fonts-languages-fallback-name-greek =
-    .label = ଗ୍ରୀକ
-fonts-languages-fallback-name-hebrew =
-    .label = ହର୍ବ୍ୟୁ
-fonts-languages-fallback-name-japanese =
-    .label = ଜାପାନୀଜ
-fonts-languages-fallback-name-korean =
-    .label = କୋରିୟାନ
-fonts-languages-fallback-name-thai =
-    .label = ଥାଇ
-fonts-languages-fallback-name-turkish =
-    .label = ତୁରକିଶ
-fonts-languages-fallback-name-vietnamese =
-    .label = ଭିଏତନାମୀ
-fonts-languages-fallback-name-other =
-    .label = ଅନ୍ୟାନ୍ୟ (ପଶ୍ଚିମ ୟୁରୋପୀୟକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରି)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

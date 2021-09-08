@@ -11,20 +11,12 @@ about-logins-page-title = ଲଗଇନ ଏବଂ ପାସୱାର୍ଡ଼
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = ଆପଣଙ୍କର ପାସୱାର୍ଡ଼ ସବୁଆଡ଼େ ନିଅନ୍ତୁ
-login-app-promo-subtitle = ମାଗଣା { -lockwise-brand-name } ଆପ ପାଆନ୍ତୁ
-login-app-promo-android =
-    .alt = Google Play ରୁ ପାଆନ୍ତୁ
-login-app-promo-apple =
-    .alt = App Storeରୁ ଡାଉନଲୋଡ଼ କରନ୍ତୁ
-
 login-filter =
     .placeholder = ଖୋଜା ଲଗିନ
 
 create-login-button = ନୂଆ ଲଗଇନ ତିଆରି କରନ୍ତୁ
 
 fxaccounts-sign-in-text = ନିଜର ଉପକରଣରେ ନିଜସ୍ୱ ପାସୱାର୍ଡ଼ ପାଆନ୍ତୁ
-fxaccounts-sign-in-button = { -sync-brand-short-name }ରେ ଲଗ-ଇନ କରନ୍ତୁ
 fxaccounts-avatar-button =
     .title = ଖାତା ପରିଚାଳନା
 
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] ପସନ୍ଦ
     }
 about-logins-menu-menuitem-help = ସହାୟତା
-menu-menuitem-android-app = ଆଣ୍ଡ୍ରୋଏଡ ପାଇଁ { -lockwise-brand-short-name }
-menu-menuitem-iphone-app = ଆଇଫୋନ ଏବଂ ଆଇପ୍ୟାଡ ପାଇଁ { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -72,13 +62,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = ସଂରକ୍ଷିତ ଲଗ ଇନଗୁଡ଼ିକୁ ଖୋଜୁଛନ୍ତି କି? { -sync-brand-short-name }କୁ ସେଟ କରନ୍ତୁ ।
-
 about-logins-login-intro-heading-logged-in = କୌଣସି ସମସାମୟିକ ଲଗ-ଇନ ମିଳିଲା ନାହିଁ
 login-intro-description = ଯଦି ଆପଣ { -brand-product-name } ପାଇଁ ଆପଣଙ୍କର ଲଗ ଇନଗୁଡ଼ିକୁ ଅନ୍ୟ ଏକ ଉପକରଣରେ ସଂରକ୍ଷିତ କରିଛନ୍ତି, ତେବେ ତାହାକୁ କିପରି ଏଠାକୁ ଆଣିବେ ଦେଖନ୍ତୁ:
-login-intro-instruction-fxa = ଯେଉଁଠାରେ ଆପଣଙ୍କର ଲଗଇନ୍ ସେଭ୍ ହୋଇଛି ସେହି ଡିଭାଇସରେ ଆପଣଙ୍କର { -fxaccount-brand-name } ସୃଷ୍ଟି କିମ୍ବା ସାଇନ୍ ଇନ୍ କରନ୍ତୁ
-login-intro-instruction-fxa-settings = ନିଶ୍ଚିତ କରନ୍ତୁ ଯେ ଆପଣ { -sync-brand-short-name } ସେଟିଂସମୂହରେ ଲଗଇନ୍ ଚେକ୍ ବକ୍ସ ଚୟନ କରିଛନ୍ତି
-about-logins-intro-instruction-help = ଅଧିକ ସହାୟତା ପାଇଁ <a data-l10n-name="help-link"> { -lockwise-brand-short-name } ସମର୍ଥନ </a> ପରିଦର୍ଶନ କରନ୍ତୁ
 about-logins-intro-import = ଯଦି ଆପଣଙ୍କର ଲଗଇନ୍ ଅନ୍ୟ ବ୍ରାଉଜରରେ ସେଭ୍ ହୋଇଛି, ଆପଣ <a data-l10n-name="import-link"> ସେଗୁଡିକୁ { -lockwise-brand-short-name } </a> ରେ ଆମଦାନୀ କରିପାରିବେ
 
 ## Login
@@ -134,8 +119,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = ସଞ୍ଚିତ �
 
 ## Master Password notification
 
-master-password-notification-message = ସଞ୍ଚିତ ଲଗଇନ୍ ଏବଂ ପାସୱାର୍ଡ ଦେଖିବା ପାଇଁ ଦୟାକରି ଆପଣଙ୍କର ମୂଖ୍ୟ ପାସୱାର୍ଡ ପ୍ରବେଶ କରନ୍ତୁ
-
 ## Primary Password notification
 
 master-password-reload-button =
@@ -143,22 +126,6 @@ master-password-reload-button =
     .accesskey = ଏଲ
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] ଆପଣ { -brand-product-name } ବ୍ୟବହାର କରୁଥିବା ସବୁ ସ୍ଥାନରେ ଆପଣଙ୍କର ଲଗଇନ୍ ଚାହୁଁଛନ୍ତି କି? ଆପଣଙ୍କର { -sync-brand-short-name } ପସନ୍ଦକୁ ଯାଆନ୍ତୁ ଏବଂ ଲଗଇନ୍ ଚେକ୍ ବକ୍ସ ଚୟନ କରନ୍ତୁ
-       *[other] ଆପଣ { -brand-product-name } ବ୍ୟବହାର କରୁଥିବା ସବୁ ସ୍ଥାନରେ ଆପଣଙ୍କର ଲଗଇନ୍ ଚାହୁଁଛନ୍ତି କି? ଆପଣଙ୍କର { -sync-brand-short-name } ପସନ୍ଦକୁ ଯାଆନ୍ତୁ ଏବଂ ଲଗଇନ୍ ଚେକ୍ ବକ୍ସ ଚୟନ କରନ୍ତୁ
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] { -sync-brand-short-name }ର ବିକଳ୍ପଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ
-           *[other] { -sync-brand-short-name }ର ସାଜସଜ୍ଜା ଦେଖନ୍ତୁ
-        }
-    .accesskey = ଭ
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = ମୋତେ ପୁଣିଥରେ ପଚାରନ୍ତୁ ନାହିଁ
-    .accesskey = ଡ
 
 ## Dialogs
 

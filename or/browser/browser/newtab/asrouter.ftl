@@ -7,7 +7,6 @@
 
 cfr-doorhanger-extension-heading = ଏକଷ୍ଟେନ୍ସନ ସୁପାରିଶ କରନ୍ତୁ
 cfr-doorhanger-feature-heading = ସୁପାରିଶକୃତ ବିଶେଷତା
-cfr-doorhanger-pintab-heading = ଏହାକୁ ଚେଷ୍ଟା କରନ୍ତୁ: ପିନ ଟ୍ୟାବ
 
 
 
@@ -21,8 +20,6 @@ cfr-doorhanger-extension-cancel-button = ବର୍ତ୍ତମାନ ନୁହ�
 
 cfr-doorhanger-extension-ok-button = ବର୍ତ୍ତମାନ ଯୋଡ଼ନ୍ତୁ
     .accesskey = ଏ
-cfr-doorhanger-pintab-ok-button = ଟ୍ୟାବଟିକୁ କଣ୍ଟା ମାରିଦିଅନ୍ତୁ
-    .accesskey = ପି
 
 cfr-doorhanger-extension-manage-settings-button = ସୁପାରିଶ ହୋଇଥିବା ସଜାଣି ପରିଚାଳନା କରନ୍ତୁ
     .accesskey = ମ
@@ -73,9 +70,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-animation-pause = ବିରତି
-cfr-doorhanger-pintab-animation-resume = ପୁନଃ ଚଳନ
-
 
 ## Firefox Accounts Message
 
@@ -99,28 +93,7 @@ cfr-whatsnew-button =
     .label = ନୂଆ କଣ ରହିଛି
     .tooltiptext = ନୂଆ କଣ ରହିଛି
 
-cfr-whatsnew-panel-header = ନୂଆ କଣ ରହିଛି
-
 cfr-whatsnew-release-notes-link-text = ମୁକ୍ତିଲାଭ ଟିପ୍ପଣୀ ପଢ଼ନ୍ତୁ
-
-cfr-whatsnew-tracking-protect-link-text = ଆପଣଙ୍କର ଦଲିଲ ଦେଖନ୍ତୁ
-
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $blockedCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-tracking-blocked-title =
-    { $blockedCount ->
-        [one] ଅନୁସାରଣକାରୀକୁ ରୋକିଦିଆଗଲା
-       *[other] ଅନୁସାରଣକାରୀଙ୍କୁ ରୋକିଦିଆଗଲା
-    }
-cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } ଠାରୁ
-cfr-whatsnew-tracking-blocked-link-text = ଦଲିଲ ଦେଖନ୍ତୁ
-
-cfr-whatsnew-lockwise-backup-title = ପାସୱାର୍ଡ଼ଗୁଡ଼ିକର ଗୋଟିଏ ନକଲ ସଂରକ୍ଷଣ କରନ୍ତୁ
-cfr-whatsnew-lockwise-backup-link-text = ବ୍ୟାକଅପକୁ ଚାଲୁ କରନ୍ତୁ
-
-cfr-whatsnew-lockwise-take-title = ନିଜ ପାସୱାର୍ଡ଼ ନିଜ ସହିତ ନିଅନ୍ତୁ
-cfr-whatsnew-lockwise-take-link-text = ଆପଟି ଅକ୍ତିଆର କରନ୍ତୁ
 
 ## Search Bar
 
@@ -135,29 +108,11 @@ cfr-whatsnew-lockwise-take-link-text = ଆପଟି ଅକ୍ତିଆର କର
 
 ## Login Sync
 
-cfr-doorhanger-sync-logins-header = କଦାପି ପୁଣିଥରେ ପାସୱାର୍ଡ଼ ହଜାନ୍ତୁ ନାହିଁ
-cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name }କୁ ଚାଲୁ କରନ୍ତୁ
-    .accesskey = ଟି
-
 ## Send Tab
-
-cfr-doorhanger-send-tab-header = ଚାଲୁ ଚାଲୁ ପଢ଼ନ୍ତୁ
-cfr-doorhanger-send-tab-recipe-header = ଏହି ପ୍ରଣାଳୀଟିକୁ ରୋଷେଇ ଘରକୁ ନିଅନ୍ତୁ
-cfr-doorhanger-send-tab-ok-button = ପଠାଯିବା ଟ୍ୟାବ ଚେଷ୍ଟା କରନ୍ତୁ
-    .accesskey = ଟି
 
 ## Firefox Send
 
-cfr-doorhanger-firefox-send-header = ସୁରକ୍ଷାର ସହ ପିଡିଏଫ ବଣ୍ଟନ କରନ୍ତୁ
-cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }କୁ ଚେଷ୍ଟା କରନ୍ତୁ
-    .accesskey = ଟ
-
 ## Social Tracking Protection
-
-cfr-doorhanger-socialtracking-ok-button = ସୁରକ୍ଷା ଦେଖନ୍ତୁ
-    .accesskey = ପି
-cfr-doorhanger-socialtracking-close-button = ବନ୍ଦ କରନ୍ତୁ
-    .accesskey = ସି
 
 ## Enhanced Tracking Protection Milestones
 
@@ -183,4 +138,10 @@ cfr-doorhanger-milestone-ok-button = ସବୁ ଦେଖନ୍ତୁ
 ## Fission Experiment Message
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

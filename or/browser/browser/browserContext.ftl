@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = ଗୋଟିଏ ପୃଷ୍ଠା ପଛକୁ ଯାଆନ୍ତୁ
-    .aria-label = ପଛକୁ
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = ଗୋଟିଏ ପୃଷ୍ଠା ଆଗକୁ ଯାଆନ୍ତୁ
-    .aria-label = ଆଗକୁ
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = ପୃଷ୍ଠାକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = ନୂତନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋରେ ଏହି ଲିଙ୍କକୁ ଖୋଲନ୍ତୁ
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = ଏହି ସଂଯୋଗକୁ ଚିହ୍ନିତ କରନ୍ତୁ
-    .accesskey = L
-
 main-context-menu-save-link =
     .label = ସଂଯୋଗକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
     .accesskey = k
@@ -185,10 +156,6 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = ଇମେଲ ଠିକଣାକୁ ନକଲ କରନ୍ତୁ
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = ସଂଯୋଗ ଅବସ୍ଥାନ ନକଲ କରନ୍ତୁ
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -213,32 +180,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = ନିଃଶବ୍ଦ ବାତିଲ କରନ୍ତୁ
     .accesskey = m
-
-main-context-menu-media-play-speed =
-    .label = ଗତିର ବେଗ
-    .accesskey = d
-
-main-context-menu-media-play-speed-slow =
-    .label = ଧୀର (0.5×)
-    .accesskey = S
-
-main-context-menu-media-play-speed-normal =
-    .label = ସାଧାରଣ
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = ତୀବ୍ର (1.25×)
-    .accesskey = F
-
-main-context-menu-media-play-speed-faster =
-    .label = ତୀବ୍ରତର (1.5×)
-    .accesskey = a
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = ତୀବ୍ରତମ (2×)
-    .accesskey = L
 
 main-context-menu-media-loop =
     .label = ଲୁପ
@@ -265,39 +206,13 @@ main-context-menu-media-video-leave-fullscreen =
     .label = ସମ୍ପୂର୍ଣ୍ଣ ପରଦାରୁ ପ୍ରସ୍ଥାନ କରନ୍ତୁ
     .accesskey = u
 
-# This is used when right-clicking on a video in the
-# content area when the Picture-in-Picture feature is enabled.
-main-context-menu-media-pip =
-    .label = ଛବି ମଧ୍ୟରେ ଛବି
-    .accesskey = u
-
 main-context-menu-image-reload =
     .label = ପ୍ରତିଛବି ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = ପ୍ରତିଛବି ଦେଖନ୍ତୁ
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = ଭିଡ଼ିଓ ଦେଖନ୍ତୁ
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = ପ୍ରତିଛବି ନକଲ କରନ୍ତୁ
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = ପ୍ରତିଛବି ଅବସ୍ଥିତି ନକଲ କରନ୍ତୁ
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = ଭିଡ଼ିଓ ସ୍ଥାନକୁ ନକଲ କରନ୍ତୁ
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = ଧ୍ୱନୀ ସ୍ଥାନକୁ ନକଲ କରନ୍ତୁ
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = ପ୍ରତିଛବିକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
@@ -306,10 +221,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = ପ୍ରତିଛବିକୁ ଇମେଲ କରନ୍ତୁ…
     .accesskey = g
-
-main-context-menu-image-set-as-background =
-    .label = ଡେସ୍କଟପ ପୃଷ୍ଠଭୂମି ଆକାରରେ ବିନ୍ୟାସ କରନ୍ତୁ…
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = ପ୍ରତିଛବି ସୂଚନାକୁ ଦେଖନ୍ତୁ
@@ -326,10 +237,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = ଧ୍ୱନୀକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = ଆଶୁଚିତ୍ରକୁ ଏହି ପରି ଭାବରେ ସଂରକ୍ଷଣ କରନ୍ତୁ…
-    .accesskey = S
 
 main-context-menu-video-email =
     .label = ଭିଡିଓକୁ ଇମେଲ କରନ୍ତୁ…
@@ -354,14 +261,6 @@ main-context-menu-save-to-pocket =
 main-context-menu-send-to-device =
     .label = ଉପକରଣ ମଧ୍ଯକୁ ପୃଷ୍ଠାଟି ପଠାନ୍ତୁ
     .accesskey = n
-
-main-context-menu-view-background-image =
-    .label = ପୃଷ୍ଠଭୂମି ପ୍ରତିଛବି ଦେଖନ୍ତୁ
-    .accesskey = w
-
-main-context-menu-generate-new-password =
-    .label = ସାଧାରଣ ପାସୱାର୍ଡ଼ ବ୍ୟବହାର କରନ୍ତୁ …
-    .accesskey = G
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -426,10 +325,6 @@ main-context-menu-view-page-source =
     .label = ପୃଷ୍ଠା ଉତ୍ସ ଦେଖନ୍ତୁ
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = ପୃଷ୍ଠା ସୂଚନା ଦେଖନ୍ତୁ
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = ପାଠ୍ୟ ନିର୍ଦ୍ଦେଶ ବଦଳାନ୍ତୁ
     .accesskey = w
@@ -438,13 +333,10 @@ main-context-menu-bidi-switch-page =
     .label = ପୃଷ୍ଠା ନିର୍ଦ୍ଦେଶ ବଦଳାନ୍ତୁ
     .accesskey = D
 
-main-context-menu-inspect-element =
-    .label = ଉପାଦାନକୁ ନିରୀକ୍ଷଣ କରନ୍ତୁ
-    .accesskey = Q
-
 main-context-menu-inspect-a11y-properties =
     .label = ଅଭିଗମ୍ୟତା ଗୁଣଗୁଡିକ ଯାଞ୍ଚ କରନ୍ତୁ
 
 main-context-menu-eme-learn-more =
     .label = DRM ବିଷୟରେ ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
     .accesskey = D
+

@@ -7,8 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY appmenu.tooltip                     "ତାଲିକା ଖୋଲନ୍ତୁ">
-
 <!ENTITY navbarOverflow.label                "ଅଧିକ ସାଧନଗୁଡ଼ିକ…">
 
 <!-- Tab context menu -->
@@ -18,9 +16,6 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
-<!ENTITY  pinTab.label                       "ଟ୍ୟାବରେ ପିନ ଲଗାନ୍ତୁ">
-<!ENTITY  unpinTab.label                     "ଟ୍ୟାବର ପିନ ଖୋଲନ୍ତୁ">
 
 
 
@@ -35,9 +30,6 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "ତାଲିକା ପଟି">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY personalbarCmd.label "ସାଧନପଟିକୁ ଚିହ୍ନିତ କରନ୍ତୁ">
-<!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "ସାଧନପଟି ବସ୍ତୁଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ">
 
 
 <!ENTITY fullScreenCmd.label "ସମ୍ପୂର୍ଣ୍ଣ ପରଦା">
@@ -50,10 +42,7 @@ can reach it easily. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
@@ -62,16 +51,6 @@ can reach it easily. -->
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
-
-<!ENTITY showAllBookmarks2.label "ସମସ୍ତ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
-
-
-
-<!ENTITY bookmarksToolbarChevron.tooltip "ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ">
 
 
 
@@ -110,12 +89,6 @@ can reach it easily. -->
 
 <!ENTITY homeButton.label             "ମୂଳ ସ୍ଥାନ">
 
-<!ENTITY bookmarksButton.label          "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
-
-
-<!ENTITY viewBookmarksSidebar2.label        "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକର ସାଧନପଟିକୁ ଦେଖନ୍ତୁ">
-<!ENTITY viewBookmarksToolbar.label         "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକର ସାଧନପଟିକୁ ଦେଖନ୍ତୁ">
-
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -124,8 +97,6 @@ can reach it easily. -->
 <!ENTITY historyButton.label            "ପୁରୁଣା ତଥ୍ୟ">
 
 <!ENTITY downloads.label              "ଆହରଣଗୁଡ଼ିକ">
-
-<!ENTITY addons.label                 "ଏଡ଼-ଅନଗୁଡ଼ିକୁ">
 
 <!ENTITY webDeveloperMenu.label       "ୱେବ ବିକାଶକ">
 
@@ -144,16 +115,6 @@ can reach it easily. -->
 
 
 <!ENTITY historyMenu.label "ପୁରୁଣା ତଥ୍ୟ">
-
-<!ENTITY historyUndoMenu.label "ନିକଟରେ ବନ୍ଦ ହୋଇଥିବା ଟ୍ୟାବଗୁଡ଼ିକ">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "ସାମ୍ପ୍ରତିକ ବନ୍ଦ ହୋଇଥିବା ୱିଣ୍ଡୋଗୁଡ଼ିକ">
-
-<!ENTITY appMenuHistory.showAll.label "ସମସ୍ତ ପୁରୁଣା ତଥ୍ୟ ଦର୍ଶାନ୍ତୁ">
-
-<!ENTITY appMenuHistory.clearRecent.label "ନିକଟର ପୁରୁଣା ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ…">
-<!ENTITY appMenuHistory.restoreSession.label "ପୂର୍ବବର୍ତ୍ତୀ ଅଧିବେଶନକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
-<!ENTITY appMenuHistory.viewSidebar.label "ପୁରୁଣାତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ଦେଖନ୍ତୁ">
 
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -187,8 +148,6 @@ can reach it easily. -->
 
 
 
-<!ENTITY customizeMenu.removeFromToolbar.label "ସାଧନପଟିରୁ ବାହାରନ୍ତୁ">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "ଅଧିକ ବସ୍ତୁଗୁଡ଼ିକୁ ଯୋଗ କରନ୍ତୁ…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -254,8 +213,6 @@ can reach it easily. -->
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 
 
-<!ENTITY emailPageCmd.label           "ସଂଯୋଗିକୀକୁ ଇମେଲ କରନ୍ତୁ…">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -286,14 +243,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "ସାନବଡ଼ କରନ୍ତୁ">
 
 <!ENTITY sidebarCloseButton.tooltip     "ପାର୍ଶ୍ୱପଟି ବନ୍ଦକରନ୍ତୁ">
-
-
-<!ENTITY quitApplicationCmdWin2.label       "ପ୍ରସ୍ଥାନ କରନ୍ତୁ">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; ଛାଡ଼ନ୍ତୁ">
-<!ENTITY quitApplicationCmd.label       "ବିଦାୟ ନିଅନ୍ତୁ">
-<!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; ଛାଡ଼ନ୍ତୁ">
 
 
 <!ENTITY allowPopups.accesskey "p">
@@ -368,9 +317,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-<!ENTITY syncBrand.shortName.label    "ସନ୍ତୁଳନ କରନ୍ତୁ">
 
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
