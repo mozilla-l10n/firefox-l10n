@@ -29,7 +29,7 @@
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newAccountCmd.label "Cuenta…">
 <!ENTITY newAccountCmd.accesskey "a">
-<!ENTITY openMessageFileCmd.label "Abrir mensaje guardado…">
+<!ENTITY openMessageFileCmd.label "Abrir archivo…">
 <!ENTITY openMessageFileCmd.accesskey "m">
 <!ENTITY openAttachmentCmd.label "Adjuntos">
 <!ENTITY openAttachmentCmd.accesskey "j">

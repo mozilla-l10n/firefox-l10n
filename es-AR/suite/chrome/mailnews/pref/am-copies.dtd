@@ -33,7 +33,7 @@
 <!ENTITY archiveHierarchyButton.accesskey "a">
 <!ENTITY archivesFolderOn.label "Carpeta &quot;Archivados&quot; en:">
 <!ENTITY archivesFolderOn.accesskey "d">
-<!ENTITY archiveInOtherFolder.label "Otra:">
+<!ENTITY archiveInOtherFolder.label "Otra carpeta:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!ENTITY specialFolders.label "Borradores y plantillas">
 <!ENTITY keepDrafts2.label "Mantener mensajes borrador en:">
@@ -46,5 +46,5 @@
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Carpeta &quot;Plantillas&quot; en">
 <!ENTITY templatesFolderOn.accesskey "n">
-<!ENTITY templateInOtherFolder.label "Otro:">
+<!ENTITY templateInOtherFolder.label "Otra carpeta:">
 <!ENTITY templateInOtherFolder.accesskey "r">
