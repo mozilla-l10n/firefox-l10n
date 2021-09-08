@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = རང་མོས་སྒྲིག་འགོད…
-
 ## Zoom Controls
 
 appmenuitem-new-window =
@@ -24,22 +21,20 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Sync Now
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = ཆ་ཚང་སྟོན་པ
-    .tooltiptext = Show all tabs from this device
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ཁ་ཕྱེས་ཡོད་པའི་ཡན་ལག་ངོས་མེད
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Turn on tab syncing to view a list of tabs from your other devices.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Want to see your tabs from other devices here?
+
 appmenu-remote-tabs-connectdevice =
     .label = Connect Another Device
 appmenu-remote-tabs-unverified = Your account needs to be verified.
+
 appmenuitem-save-page =
     .label = དྲ་ངོས་ཉར་སྟངས…
 
@@ -75,3 +70,4 @@ appmenu-help-feedback-page =
 
 appmenu-taskmanager =
     .label = ལས་འགན་དོ་དམ་པ
+

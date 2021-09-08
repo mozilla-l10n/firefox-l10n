@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = མིང་ཐོ
 
-blocklist-button-cancel =
-    .label = ཕྱིར་འཐེན
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = བཟོ་བཅོས་ཉར་ཚགས
-    .accesskey = S
-
 
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.

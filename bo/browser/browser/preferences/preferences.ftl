@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = རྟག་པར
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] གདམ་ཚན
-       *[other] སྒྲིག་འགོད
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Find in Options
-           *[other] Find in Preferences
-        }
-
 pane-general-title = སྤྱི་ཡོངས
 category-general =
     .tooltiptext = { pane-general-title }
@@ -75,21 +53,9 @@ restart-later = ཡུད་ཙམ་རྗེས་ནས་འགོ་བས�
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = An extension, <img data-l10n-name="icon"/> { $name }, is controlling your home page.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = An extension, <img data-l10n-name="icon"/> { $name }, is controlling your New Tab page.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = An extension, <img data-l10n-name="icon"/> { $name }, is controlling this setting.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = An extension, <img data-l10n-name="icon"/> { $name }, has set your default search engine.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -114,26 +80,11 @@ extension-controlled-enable = To enable the extension go to <img data-l10n-name=
 
 search-results-header = Search Results
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Sorry! There are no results in Options for “<span data-l10n-name="query"></span>”.
-       *[other] Sorry! There are no results in Preferences for “<span data-l10n-name="query"></span>”.
-    }
-
 search-results-help-link = Need help? Visit <a data-l10n-name="url">{ -brand-short-name } Support</a>
 
 ## General Section
 
 startup-header = འགོ་བསྐྱར་འཛུགས
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Allow { -brand-short-name } and Firefox to run at the same time
-use-firefox-sync = Tip: This uses separate profiles. Use { -sync-brand-short-name } to share data between them.
-get-started-not-logged-in = Sign in to { -sync-brand-short-name }…
-get-started-configured = Open { -sync-brand-short-name } preferences
 
 always-check-default =
     .label = དུས་རྟག་ཏུ་{ -brand-short-name }་ནི་སྔོན་སྒྲིག་གི་ལྟ་བྱེད་ཡིན་མིན་ལྟ་ཞིབ་བྱེད
@@ -173,10 +124,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Warn you when opening multiple tabs might slow down { -brand-short-name }
     .accesskey = d
-
-switch-links-to-new-tabs =
-    .label = ཡན་ལག་ངོས་གསར་བ་ཞིག་གི་ནང་དུ་སྦྲེལ་ཐག་ཁ་ཕྱེ་དུས་དེ་མ་ཐག་དེའི་ཐོག་ཏུ་སྒྱུར་བ།
-    .accesskey = h
 
 show-tabs-in-taskbar =
     .label = Show tab previews in the Windows taskbar
@@ -505,8 +452,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
 
-search-one-click-header = One-Click Search Engines
-
 search-one-click-desc = Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.
 
 search-choose-engine-column =
@@ -539,9 +484,6 @@ containers-add-button =
     .label = Add New Container
     .accesskey = A
 
-containers-preferences-button =
-    .label = Preferences
-
 containers-remove-button =
     .label = Remove
 
@@ -552,7 +494,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Take your Web with you
-sync-signedout-description = Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -626,15 +567,6 @@ sync-engine-addons =
     .tooltiptext = Extensions and themes for Firefox desktop
     .accesskey = A
 
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Options
-           *[other] Preferences
-        }
-    .tooltiptext = General, Privacy, and Security settings you’ve changed
-    .accesskey = s
-
 ## The device name controls.
 
 sync-device-name-header = Device Name
@@ -674,9 +606,6 @@ forms-exceptions =
 forms-saved-logins =
     .label = ཉར་ཚགས་བྱས་ཡོད་པའི་ནང་འཇུག…
     .accesskey = L
-forms-master-pw-use =
-    .label = གསང་གྲངས་ཨ་མ་ཞིག་བེད་སྤྱོད
-    .accesskey = U
 forms-master-pw-change =
     .label = གསང་གྲངས་ཨ་མ་བརྗེ་བ…
     .accesskey = M
@@ -778,10 +707,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Manage Data…
     .accesskey = M
-
-sitedata-cookies-permissions =
-    .label = Manage Permissions…
-    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -888,12 +813,6 @@ permissions-addon-exceptions =
     .label = Exceptions…
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = Prevent accessibility services from accessing your browser
-    .accesskey = a
-
-permissions-a11y-privacy-link = Learn more
-
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Data Collection and Use
@@ -917,11 +836,6 @@ addon-recommendations-link = Learn more
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
-
-collection-backlogged-crash-reports =
-    .label = Allow { -brand-short-name } to send backlogged crash reports on your behalf
-    .accesskey = c
-collection-backlogged-crash-reports-link = Learn more
 
 ## Privacy Section - Security
 ##
@@ -949,16 +863,6 @@ security-block-uncommon-software =
 
 certs-header = Certificates
 
-certs-personal-label = When a server requests your personal certificate
-
-certs-select-auto-option =
-    .label = Select one automatically
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Ask you every time
-    .accesskey = A
-
 certs-enable-ocsp =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
@@ -970,34 +874,6 @@ certs-view =
 certs-devices =
     .label = Security Devices…
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = Learn More
-    .accesskey = L
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Open Options
-           *[other] Open Preferences
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } is running out of disk space. Website contents may not display properly. You can clear stored data in Options > Privacy & Security > Cookies and Site Data.
-       *[other] { -brand-short-name } is running out of disk space. Website contents may not display properly. You can clear stored data in Preferences > Privacy & Security > Cookies and Site Data.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = OK, Got it
-    .accesskey = K
-
-space-alert-under-5gb-message = { -brand-short-name } is running out of disk space. Website contents may not display properly. Visit “Learn More” to optimize your disk usage for better browsing experience.
 
 ## Privacy Section - HTTPS-Only
 

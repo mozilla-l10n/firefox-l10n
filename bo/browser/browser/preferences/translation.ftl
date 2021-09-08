@@ -35,7 +35,3 @@ translation-sites-button-remove-all =
     .label = དྲ་ཚིགས་ཡོངས་བསུབ་པ
     .accesskey = i
 
-translation-button-close =
-    .label = ཁ་རྒྱག
-    .accesskey = C
-

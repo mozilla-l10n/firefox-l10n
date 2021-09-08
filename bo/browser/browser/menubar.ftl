@@ -107,9 +107,6 @@ menu-file-go-offline =
 menu-edit =
     .label = རྩོམ་སྒྲིག
     .accesskey = E
-menu-edit-find-on =
-    .label = དྲ་ངོས་འདིའི་ཐོག་ཏུ་འཚོལ་བ…
-    .accesskey = F
 menu-edit-find-again =
     .label = བསྐྱར་དུ་འཚོལ་བ
     .accesskey = g
@@ -125,9 +122,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = ལག་ཆའི་ངོས
     .accesskey = T
-menu-view-customize-toolbar =
-    .label = རང་མོས་སྒྲིག་འགོད…
-    .accesskey = C
 menu-view-sidebar =
     .label = ཟུར་ངོས
     .accesskey = e
@@ -158,9 +152,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Basic Page Style
     .accesskey = b
-menu-view-charset =
-    .label = ཡི་གེའི་ཨང་སྒྲིག
-    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -209,10 +200,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = ཡིག་རྟགས
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = ཡན་ལག་ངོས་ཡོངས་སྟོན་པ
-menu-bookmark-this-page =
-    .label = དྲ་ངོས་འདི་ལ་ཡིག་རྟགས་འཇོག་པ
 menu-bookmark-edit =
     .label = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག
 menu-bookmarks-all-tabs =
@@ -232,32 +219,15 @@ menu-tools =
 menu-tools-downloads =
     .label = ལེན་འཇུག
     .accesskey = D
-menu-tools-addons =
-    .label = ཟུར་སྣོན
-    .accesskey = A
 menu-tools-sync-now =
     .label = Sync Now
     .accesskey = S
-menu-tools-web-developer =
-    .label = དྲ་བ་གསར་སྤེལ་མཁན
-    .accesskey = W
 menu-tools-page-source =
     .label = དྲ་ངོས་ཀྱི་ཁུངས
     .accesskey = o
 menu-tools-page-info =
     .label = དྲ་ངོས་ཀྱི་ཆ་འཕྲིན
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] གདམ་ཚན
-           *[other] སྒྲིག་འགོད
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = Layout Debugger
     .accesskey = L
@@ -292,24 +262,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = རོགས་འདེགས
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name }་ཡི་རོགས་འདེགས
-    .accesskey = H
-menu-help-show-tour =
-    .label = { -brand-shorter-name }་ཡི་ལྟ་སྐོར།
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = མཐེབ་སྒྲོམ་གྱི་མགྱོག་མཐེབ
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = སྐྱོན་སེལ་བྱེད་ཀྱི་ཆ་འཕྲིན
-    .accesskey = T
 menu-help-feedback-page =
     .label = Submit Feedback…
     .accesskey = S
-menu-help-safe-mode-without-addons =
-    .label = ཟུར་སྣོན་ནུས་མེད་བཟོས་ནས་འགོ་བསྐྱར་འཛུགས…
-    .accesskey = R
-menu-help-safe-mode-with-addons =
-    .label = ཟུར་སྣོན་ནུས་ཡོད་བཟོས་ནས་འགོ་བསྐྱར་འཛུགས
-    .accesskey = R

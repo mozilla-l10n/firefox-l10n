@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = དྲ་ཚིགས་ཡོངས་བསུབ་པ
     .accesskey = e
 
-permissions-button-cancel =
-    .label = ཕྱིར་འཐེན
-    .accesskey = C
-
-permissions-button-ok =
-    .label = བཟོ་བཅོས་ཉར་ཚགས
-    .accesskey = S
-
 permissions-searchbox =
     .placeholder = དྲ་ཚིགས་འཚོལ་བ
 

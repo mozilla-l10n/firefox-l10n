@@ -41,9 +41,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = ཡན་ལག་ངོས་ལ་ཡིག་རྟགས་འཇོག་པ
     .accesskey = B
-reopen-in-container =
-    .label = འཇུག་སྣོད་ནང་བསྐྱར་དུ་ཁ་ཕྱེ
-    .accesskey = e
 move-to-start =
     .label = མདུན་ལ་སྤོར་བ
     .accesskey = S
@@ -53,18 +50,6 @@ move-to-end =
 move-to-new-window =
     .label = འཆར་སྒྲོམ་གསར་པའི་ནང་སྤོར་བ
     .accesskey = W
-close-tab =
-    .label = ཡན་ལག་ངོས་ཁ་རྒྱག
-    .accesskey = c
-close-tabs =
-    .label = ཡན་ལག་ངོས་དག་ཁ་རྒྱག
-    .accesskey = S
-move-tabs =
-    .label = ཡན་ལག་ངོས་སྤོར་བ
-    .accesskey = v
-move-tab =
-    .label = ཡན་ལག་ངོས་སྤོར་བ
-    .accesskey = v
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

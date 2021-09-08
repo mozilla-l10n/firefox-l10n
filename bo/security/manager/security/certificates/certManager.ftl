@@ -17,39 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = ལག་ཁྱེར་སྤྲོད་མཁན
 
-certmgr-detail-general-tab-title =
-    .label = སྤྱི་ཡོངས།
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = ཞིབ་ཕྲ།
-    .accesskey = D
-
-certmgr-subject-label = ཐོབ་མཁན།
-
-certmgr-issuer-label = སྟེར་མཁན།
-
-certmgr-period-of-validity = ནུས་ལྡན་གྱི་དུས་ཡུན།
-
-certmgr-fingerprints = འཛུབ་རིས།
-
-certmgr-cert-detail =
-    .title = ལག་ཁྱེར་ཞིབ་ཕྲ།
-    .buttonlabelaccept = ཁ་རྒྱག
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = རྒྱུན་ལྡན་མིང་།༼CN༽
-
-certmgr-cert-detail-org = ལས་ཁུངས༼O༽
-
-certmgr-cert-detail-orgunit = ལས་ཁུངས་ཚན་ཁག༼OU༽
-
-certmgr-cert-detail-serial-number = གྲངས་རྟགས།
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 འཛུབ་རིས།
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 འཛུབ་རིས།
-
 certmgr-edit-ca-cert =
     .title = CA ལག་ཁྱེར་གྱི་ཡིད་རྟོན་སྒྲིག་འགོད་སྒྱུར་བ
     .style = width: 48em;
@@ -78,12 +45,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = ཉེན་སྲུང་སྒྲིག་ཆས།
 
-certmgr-begins-on = འགོ་འཛུགས་དུས།
-
 certmgr-begins-label =
     .label = འགོ་འཛུགས་དུས།
-
-certmgr-expires-on = དུས་ཡོལ་བའི་ཚེས།
 
 certmgr-expires-label =
     .label = དུས་ཡོལ་བའི་ཚེས།
@@ -113,14 +76,6 @@ certmgr-delete-builtin =
 certmgr-restore =
     .label = ནང་འདྲེན་་་
     .accesskey = m
-
-certmgr-details =
-    .value = ལག་ཁྱེར་གྱི་ཁུལ
-    .accesskey = F
-
-certmgr-fields =
-    .value = གནས་ཁོངས་ཀྱི་ཐོབ་གྲངས
-    .accesskey = V
 
 certmgr-add-exception =
     .label = དམིགས་བསལ་ཅན་་་
