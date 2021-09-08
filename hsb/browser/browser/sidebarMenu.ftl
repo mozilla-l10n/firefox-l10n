@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = Zapołožki
+
 sidebar-menu-history =
     .label = Historija
+
 sidebar-menu-synced-tabs =
     .label = Synchronizowane rajtarki
+
 sidebar-menu-close =
     .label = Bóčnicu začinić
+
 sidebar-close-button =
     .tooltiptext = Bóčnicu začinić

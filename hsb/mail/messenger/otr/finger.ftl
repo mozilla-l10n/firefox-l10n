@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Porstowe wotćišće OTR-kluča z předchadnych rozmołwow wot kónca do kónca.
 
-finger-screenName =
-    .label = Kontakt
-
 finger-screen-name =
     .label = Kontakt
 finger-verified =

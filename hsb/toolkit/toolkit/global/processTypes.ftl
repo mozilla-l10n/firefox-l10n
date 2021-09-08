@@ -9,8 +9,6 @@
 
 process-type-web = Webwobsah
 
-process-type-browser = Hłowny
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Priwilegowane strony about

@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Ćišćeć…">
 <!ENTITY printCmd.accesskey "i">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Ćišćerski přehlad">
-<!ENTITY printPreviewCmd.accesskey "h">
-<!ENTITY printSetupCmd.label "Stronu připrawić…">
-<!ENTITY printSetupCmd.accesskey "r">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Powěsć zhašeć">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Kompaktny napohlad">
 <!ENTITY compactVersion.accesskey "K">
-<!ENTITY folderPaneBar.label "Symbolowa lajsta rjadowakoweho wobłuka">
-<!ENTITY folderPaneBar.accesskey "S">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortěrować po">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Adresnik">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Přidatki">
-<!ENTITY addons.accesskey "d">
-<!ENTITY addonPrefs.label "Nastajenja přidatka">
-<!ENTITY addonPrefs.accesskey "N">
-<!ENTITY addonPrefsUnix.label "Nastajenja přidatka">
-<!ENTITY addonPrefsUnix.accesskey "N">
 <!ENTITY addonNoPrefs.label "Nastajenja přidatka njejsu so namakali.">
 <!ENTITY activitymanager.label "Zrjadowak aktiwity">
 <!ENTITY activitymanager.accesskey "Z">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Přidatki za zmylkami přepytować">
 <!ENTITY debugAddonsCmd.accesskey "P">
-<!ENTITY tabsDebugCmd.label "Pytanje za zmylkami za wobsahowy wobłuk">
-<!ENTITY tabsDebugCmd.accesskey "b">
 <!ENTITY errorConsoleCmd.label "Zmylkowa konsola">
 <!ENTITY errorConsoleCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Wróćo">
 <!ENTITY goForwardButton1.label "Dale">
 <!ENTITY deleteItem.title "Zhašeć">
-<!ENTITY deleteButton.label "Zhašeć">
-<!ENTITY undeleteButton.label "Wobnowić">
 <!ENTITY markButton.label "Markěrować">
 <!ENTITY printButton.label "Ćišćeć">
 <!ENTITY stopButton.label "Stój">
 <!ENTITY throbberItem.title "Pokazowar aktiwity">
 <!ENTITY junkItem.title "Čapor">
-<!ENTITY junkButton.label "Čapor">
-<!ENTITY notJunkButton.label "Nječapor">
 <!ENTITY addressBookButton.label "Adresnik">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Globalne pytanje">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "K předchadnej powěsći přesunyć">
 <!ENTITY goForwardButton.tooltip "Wo jednu powěsć doprědka">
 <!ENTITY goBackButton.tooltip "Wo jednu powěsć wróćo">
-<!ENTITY deleteButton.tooltip "Wubranu powěsć abo wubrany rjadowak zhašeć">
-<!ENTITY undeleteButton.tooltip "Wubranu powěsć wobnowić">
 <!ENTITY markButton.tooltip "Powěsće markěrować">
 <!ENTITY printButton.tooltip "Tutu powěsć ćišćeć">
 <!ENTITY stopButton.tooltip "Aktualne přenjesenje zastajić">
-<!ENTITY junkButton.tooltip "Wubrane powěsće jako čapor markěrować">
-<!ENTITY notJunkButton.tooltip "Wubrany powěsće jako nječapor markěrować">
 <!ENTITY addressBookButton.tooltip "K adresnikej">
 <!ENTITY chatButton.tooltip "Chatowy rajtark pokazać">
 <!ENTITY tagButton.tooltip "Powěsće markěrować">
 <!ENTITY compactButton.tooltip "Zhašane powěsće z wubraneho rjadowaka wotstronić">
 <!ENTITY appmenuButton1.tooltip "Meni &brandShortName; zwobraznić">
-<!ENTITY addonsButton.tooltip "Rjadujće swoje přidatki">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Zasadźenu dale sposrědkować">

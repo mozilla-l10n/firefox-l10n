@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Wšě websydła wotstronić
     .accesskey = y
 
-permissions-button-cancel =
-    .label = Přetorhnyć
-    .accesskey = P
-
-permissions-button-ok =
-    .label = Změny składować
-    .accesskey = s
-
 permission-dialog =
     .buttonlabelaccept = Změny składować
     .buttonaccesskeyaccept = s

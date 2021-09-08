@@ -60,8 +60,6 @@ printui-options = Nastajenja
 printui-headers-footers-checkbox = Hłowy a nohi ćišćeć
 printui-backgrounds-checkbox = Pozadki ćišćeć
 
-printui-selection-checkbox = Jenož wuběr ćišćeć
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

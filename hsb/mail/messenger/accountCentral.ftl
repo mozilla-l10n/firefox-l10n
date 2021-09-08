@@ -49,9 +49,6 @@ import-label = Importować
 
 about-paragraph = Thunderbird je nawodny program wotewrjeneho žórła za e-mejl a dźěło z protykami na wjacorych platformach a je darmotny za komercielne a priwatne wužiće. Chcemy, zo wón wěsty wostanje a so samo polěpša. Dar nam zmóžnja, wuwiwarjow přistajić, infrastrukturu płaćić a jón dale polěpšić.
 
-about-paragraph-2 = <b>Thudnerbird so wot wužiwarjow kaž wy financuje! Jeli Thunderbird lubujeće, darće prošu!</b> Najlěpša móžnosć za was, zo by Thunderbird k dispoziciji wostał, je
-about-donation = darić
-
 about-paragraph-consider-donation = <b>Thunderbird so přez dary financuje! Jeli so Thunderbird wam spodobuje, wobkedźbujće dar.</b> Zo byšće zawěsćił, zo Thunderbird dale eksistuje, <a data-l10n-name="donation-link"> darće prošu.</a>
 
 explore-link = Funkcije wuslědźić

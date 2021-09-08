@@ -109,9 +109,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Kak funguje
 
-turn-on-sync = { -sync-brand-short-name } zmóžnić
-    .title = K synchronizowanskim nastajenjam
-
 monitor-title = Rozhladujće so za datowymi dźěrami
 monitor-link = Kak funguje
 monitor-header-content-no-account = Přepruwujće { -monitor-brand-name }, zo byšće zwěsćił, hač sće na znatu datowu dźěru padnył a warnowanja wo nowych dźěrach dóstawaće.

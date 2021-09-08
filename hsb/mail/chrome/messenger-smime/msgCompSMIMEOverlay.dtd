@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Tutu powěsć digitalnje podpisać">
 <!ENTITY menu_securitySign.accesskey "d">
 
-<!ENTITY menu_securityAttachMyKey.label "Mój zjawny kluč připowěsnyć">
-<!ENTITY menu_securityAttachMyKey.accesskey "M">
-
 <!ENTITY menu_securityTech.label "Zaklučowanska technologija">
 <!ENTITY menu_securityTech.accesskey "t">
 

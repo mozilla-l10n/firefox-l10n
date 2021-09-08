@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Nowy">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Powěsć">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "P">
 <!ENTITY newContact.label "Adresnikowy kontakt…">
 <!ENTITY newContact.accesskey "A">
 <!ENTITY attachMenu.label "Připowěsnyć">
 <!ENTITY attachMenu.accesskey "w">
-<!ENTITY attachFileCmd.label "Dataje…">
-<!ENTITY attachFileCmd.accesskey "D">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Webstrona…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Pozdźišo pósłać">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "o">
-<!ENTITY printSetupCmd.label "Stronu připrawić…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Ćišćerski přehlad">
-<!ENTITY printPreviewCmd.accesskey "h">
 <!ENTITY printCmd.label "Ćišćeć…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "i">
@@ -82,11 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Přiwěški přerjadować…">
 <!ENTITY reorderAttachmentsCmd.accesskey "r">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Wobłuk přiwěškow">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
-<!ENTITY toggleAttachmentPaneCmd.accesskey "p">
 <!ENTITY selectAllCmd.accesskey "u">
 <!ENTITY findBarCmd.label "Pytać…">
 <!ENTITY findBarCmd.accesskey "P">
@@ -105,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Přiwěški přerjadować">
-<!ENTITY moveAttachmentTopPanelBtn.label "Do spočatka přesunyć">
-<!ENTITY moveAttachmentUpPanelBtn.label "Horje">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Hromadźe přesunyć">
-<!ENTITY moveAttachmentDownPanelBtn.label "Dele">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Do kónca přesunyć">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -207,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Kontowe nastajenja">
 <!ENTITY accountManagerCmd2.accesskey "K">
 <!ENTITY accountManagerCmdUnix2.accesskey "s">
-<!ENTITY preferencesCmd2.label "Nastajenja">
-<!ENTITY preferencesCmd2.accesskey "N">
-<!ENTITY preferencesCmdUnix.label "Nastajenja">
-<!ENTITY preferencesCmdUnix.accesskey "N">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -223,7 +201,6 @@
 <!ENTITY sendButton.label "Pósłać">
 <!ENTITY quoteButton.label "Citować">
 <!ENTITY addressButton.label "Kontakty">
-<!ENTITY attachButton.label "Připowěsnyć">
 <!ENTITY spellingButton.label "Prawopis">
 <!ENTITY saveButton.label "Składować">
 <!ENTITY printButton.label "Ćišćeć">
@@ -233,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Tutu powěsć pozdźišo pósłać">
 <!ENTITY quoteButton.tooltip "Předchadnu powěsć citować">
 <!ENTITY addressButton.tooltip "Přijimarja z adresnika wubrać">
-<!ENTITY attachButton.tooltip2 "Přiwěšk přidać">
 <!ENTITY spellingButton.tooltip "Prawopis wubraneho teksta abo cyłeje powěsće kontrolować">
 <!ENTITY saveButton.tooltip "Tutu powěsć składować">
 <!ENTITY cutButton.tooltip              "Wutřihać">
@@ -248,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Druhe typy adresowych polow">
 <!ENTITY fromAddr2.label "Wot">
 <!ENTITY fromAddr.accesskey "W">
-<!ENTITY toAddr2.label "Komu">
-<!ENTITY ccAddr2.label "Kopija">
-<!ENTITY bccAddr2.label "Schowana kopija">
 <!ENTITY replyAddr2.label "Wotmołwa na">
 <!ENTITY newsgroupsAddr2.label "Diskusijna skupina">
 <!ENTITY followupAddr2.label "Dale posrědkować do">
@@ -309,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "s">
 <!ENTITY selectAll.label "Wšo wubrać">
 <!ENTITY selectAll.accesskey "u">
-<!ENTITY attachFile.label "Dataje připowěsnyć…">
-<!ENTITY attachFile.accesskey "D">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Konwertować do…">

@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Začinić
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Nastajenja
-           *[other] Nastajenja
-        }
-
 preferences-doc-title = Nastajenja
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Zaćisnyć
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Dale
 
-addons-button = Rozšěrjenja a drasty
-
 account-button = Kontowe nastajenja
 open-addons-sidebar-button = Přidatki a drasty
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće hłowne hesło wutworił. To wěstotu wašich kontow škita.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = hłowne hesło wutworić
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće hłowne hesło wutworił. To wěstotu wašich kontow škita.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Přiměrić…
     .accesskey = i
-
-tray-icon-label =
-    .label = Symbol w žłobiku pokazać
-    .accesskey = S
 
 biff-use-system-alert =
     .label = Systemowu zdźělenku wužiwać
@@ -429,9 +407,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Barba:
     .accesskey = B
-
-search-input =
-    .placeholder = Pytać
 
 search-handler-table =
     .placeholder = Wobsahowe typy a akcije filtrować
@@ -723,16 +698,6 @@ passwords-button =
     .label = Składowane hesła…
     .accesskey = S
 
-master-password-description = Hłowne hesło škita wšě waše hesła, ale dyrbiće jo jedyn raz na posedźenje zapodać.
-
-master-password-label =
-    .label = Hłowne hesło wužiwać
-    .accesskey = H
-
-master-password-button =
-    .label = Hłowne hesło změnić…
-    .accesskey = o
-
 
 primary-password-description = Hłowne hesło škita wšě waše hesła, ale dyrbiće jo jedyn raz na posedźenje zapodać.
 
@@ -913,26 +878,6 @@ no-preview-description = Tuta drasta płaćiwa njeje abo njeje tuchwilu k dispoz
 chat-variant-label =
     .value = Warianta:
     .accesskey = W
-
-chat-header-label =
-    .label = Hłowu pokazać
-    .accesskey = H
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] W nastajenjach pytać
-           *[other] W nastajenjach pytać
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

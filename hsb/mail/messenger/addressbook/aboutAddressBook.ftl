@@ -20,6 +20,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Wšě adresniki
+
 about-addressbook-books-context-properties =
     .label = Kajkosće
 about-addressbook-books-context-synchronize =
@@ -30,6 +31,7 @@ about-addressbook-books-context-delete =
     .label = Zhašeć
 about-addressbook-books-context-remove =
     .label = Wotstronić
+
 about-addressbook-confirm-delete-book-title = Adresnik zhašeć
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -47,14 +49,17 @@ about-addressbook-search =
     .placeholder = { $name } přepytać
 about-addressbook-search-all =
     .placeholder = Wšě adresniki přepytać
+
 about-addressbook-sort-button =
     .title = Lisćinowy porjad změnić
+
 about-addressbook-name-format-display =
     .label = Zwobraznjenske mjeno
 about-addressbook-name-format-firstlast =
     .label = Předmjeno Swójbne mjeno
 about-addressbook-name-format-lastfirst =
     .label = Swójbne mjeno, předmjeno
+
 about-addressbook-sort-name-ascending =
     .label = Po mjenje sortěrować (A > Z)
 about-addressbook-sort-name-descending =
@@ -63,8 +68,10 @@ about-addressbook-sort-email-ascending =
     .label = Po e-mejlowej adresy sortěrować (A > Z)
 about-addressbook-sort-email-descending =
     .label = Po e-mejlowej adresy sortěrować (Z > A)
+
 about-addressbook-cards-context-write =
     .label = Pisać
+
 about-addressbook-confirm-delete-mixed-title = Kontakty a lisćiny zhašeć
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -133,6 +140,7 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Wobdźěłać
 about-addressbook-cancel-edit-contact-button = Přetorhnyć
 about-addressbook-save-edit-contact-button = Składować
+
 about-addressbook-details-email-addresses-header = E-mejlowe adresy
 about-addressbook-details-phone-numbers-header = Telefonowe čisła
 about-addressbook-details-home-address-header = Priwatna adresa

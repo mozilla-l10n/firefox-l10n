@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Wšě sydła wotstronić
     .accesskey = t
 
-translation-button-close =
-    .label = Začinić
-    .accesskey = Z
-
 translation-dialog =
     .buttonlabelaccept = Začinić
     .buttonaccesskeyaccept = Z
