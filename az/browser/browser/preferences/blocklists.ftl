@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Siyahı
 
-blocklist-button-cancel =
-    .label = Ləğv et
-    .accesskey = L
-
-blocklist-button-ok =
-    .label = Dəyişikləri yadda saxla
-    .accesskey = s
-
 blocklist-dialog =
     .buttonlabelaccept = Dəyişikləri yadda saxla
     .buttonaccesskeyaccept = s

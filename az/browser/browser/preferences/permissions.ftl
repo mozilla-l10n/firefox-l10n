@@ -38,14 +38,6 @@ permissions-remove-all =
     .label = Bütün saytları sil
     .accesskey = s
 
-permissions-button-cancel =
-    .label = Ləğv et
-    .accesskey = L
-
-permissions-button-ok =
-    .label = Dəyişiklikləri Yadda Saxla
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = Dəyişiklikləri Yadda Saxla
     .buttonaccesskeyaccept = S

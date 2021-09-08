@@ -11,20 +11,12 @@ about-logins-page-title = Giriş və Parollar
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Parollarınızı yanınızda daşıyın
-login-app-promo-subtitle = Pulsuz { -lockwise-brand-name } tətbiqini əldə et
-login-app-promo-android =
-    .alt = Google Play-dən əldə edin
-login-app-promo-apple =
-    .alt = App Store-dan endirin
-
 login-filter =
     .placeholder = Hesablarda axtar
 
 create-login-button = Yeni hesab yarat
 
 fxaccounts-sign-in-text = Parollarınız bütün cihazlarınızda sizinlə olsunlar
-fxaccounts-sign-in-button = { -sync-brand-short-name } daxil ol
 fxaccounts-avatar-button =
     .title = Hesabı idarə et
 
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Nizamlamalar
     }
 about-logins-menu-menuitem-help = Kömək
-menu-menuitem-android-app = Android üçün { -lockwise-brand-short-name }
-menu-menuitem-iphone-app = iPhone və iPad üçün { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -117,8 +107,6 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = saxlanılmış paro
 about-logins-copy-password-os-auth-dialog-message-macosx = saxlanılmış parolu köçür
 
 ## Master Password notification
-
-master-password-notification-message = Saxlanılmış hesab və parolları görmək üçün lütfən ana parolunuzu daxil edin
 
 ## Primary Password notification
 

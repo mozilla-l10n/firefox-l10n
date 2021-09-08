@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = İrsi Məzmun üçün mətn simvol kodlaşdırması
-fonts-languages-fallback-desc = Bu simvol kodlaşdırması öz kodlaşdırmasını təyin edə bilməyən irsi məzmun üçün işlədilib.
-
-fonts-languages-fallback-label = Alternativ Mətn Kodlaşdırması
-    .accesskey = T
-
-fonts-languages-fallback-name-auto =
-    .label = Mövcud məkan üçün əsas dəyər
-fonts-languages-fallback-name-arabic =
-    .label = Ərəbcə
-fonts-languages-fallback-name-baltic =
-    .label = Baltik
-fonts-languages-fallback-name-ceiso =
-    .label = Orta Avropa, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Orta Avropa, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Çincə, Sadələşdirilmiş
-fonts-languages-fallback-name-traditional =
-    .label = Çincə, Ənənəvi
-fonts-languages-fallback-name-cyrillic =
-    .label = Kiril
-fonts-languages-fallback-name-greek =
-    .label = Yunanca
-fonts-languages-fallback-name-hebrew =
-    .label = İvritcə
-fonts-languages-fallback-name-japanese =
-    .label = Yaponca
-fonts-languages-fallback-name-korean =
-    .label = Koreya dili
-fonts-languages-fallback-name-thai =
-    .label = Tay dili
-fonts-languages-fallback-name-turkish =
-    .label = Türkcə
-fonts-languages-fallback-name-vietnamese =
-    .label = Vyetnamca
-fonts-languages-fallback-name-other =
-    .label = Digər (Qərbi Avropa daxil olmaqla)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Məxfi Pəncərə Aç
 about-private-browsing-search-placeholder = İnternetdə Axtar
 about-private-browsing-info-title = Məxfi Pəncərədəsiniz
 about-private-browsing-info-myths = Məxfi səyahət haqqında olan əfsanələr
-about-private-browsing =
-    .title = İnternetdə Axtar
 about-private-browsing-not-private = Hazırda məxfi pəncərədə deyilsiniz.
 about-private-browsing-info-description = { -brand-short-name } tətbiqdən çıxdığınızda və ya bütün Məxfi Səyahət vərəq və pəncərələrini qapatdığınızda axtarış və səyahət tarixçənizi təmizləyir. Bu sizi saytlar və internet provayderiniz üçün anonim etməsə də, onlayn məlumatlarınızı bu kompüteri işlədən digər şəxslərdən saxlamağınızı asanlaşdırır.
 

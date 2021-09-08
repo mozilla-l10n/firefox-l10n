@@ -9,8 +9,4 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Kömək">
 <!ENTITY helpMenuWin.accesskey "K">
-<!ENTITY helpTroubleshootingInfo.label     "Problemi həll etmə məlumatı">
-<!ENTITY helpTroubleshootingInfo.accesskey "P">
-<!ENTITY helpSafeMode.label     "Əlavələri söndürərək yenidən başlat…">
-<!ENTITY helpSafeMode.accesskey "r">
 

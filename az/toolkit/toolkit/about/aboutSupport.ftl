@@ -10,11 +10,6 @@ crashes-id = Hesabat kimliyi
 crashes-send-date = Göndərilib
 crashes-all-reports = Bütün Çökmə Məlumatları
 crashes-no-config = Bu tətbiqetmə çökmə məlumatlarını göstərmək üçün tənzimlənməyib.
-extensions-title = Uzantılar
-extensions-name = Ad
-extensions-enabled = Aktivdir
-extensions-version = Buraxılış
-extensions-id = ID
 support-addons-name = Ad
 support-addons-version = Buraxılış
 support-addons-id = ID
@@ -96,8 +91,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Prosses növü
 sandbox-sys-call-number = Sistem çağrısı
 sandbox-sys-call-args = Parametrlər
-safe-mode-title = Təhlükəsiz Modu Yoxlayın
-restart-in-safe-mode-label = Əlavələr sönülü olaraq yenidən başlat…
 
 ## Media titles
 
@@ -234,19 +227,12 @@ webgl2-renderer = WebGL2 Vizuallaşdırıcı
 webgl2-version = WebGL 2 Sürücü Buraxılışı
 webgl2-driver-extensions = WebGL 2 Sürücü Əlavəsi
 webgl2-extensions = WebGL 2 Əlavələr
-blocklisted-bug = Bilinən xətalara görə qara siyahıya alındı
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = xəta { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Əngəlləndi; xəta kodu { $failureCode }
 
 d3d11layers-crash-guard = D3D11 Compositor
-d3d11video-crash-guard = D3D11 Video Dekodlayıcı
-d3d9video-crash-guard = D3D9 Video Dekodlayıcı
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Sonrakı yenidən başlatmada sıfırla
@@ -284,14 +270,6 @@ launcher-process-status-unknown = Bilinməyən status
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = İstifadəçi tərəfindən aktivləşdirilib
-multi-process-status-1 = İlkin olaraq aktivləşdirilib
-multi-process-status-2 = Söndürülüb
-multi-process-status-4 = Mümkünlük alətləri tərəfindən söndürülüb
-multi-process-status-6 = Dəstəklənməyən mətn girişi tərəfindən söndürülüb
-multi-process-status-7 = Əlavələr tərəfindən söndürülüb
-multi-process-status-8 = Zorla söndürüldü
-multi-process-status-unknown = Bilinməyən durum
 
 async-pan-zoom = Asinxron Sürüşdür/Yaxınlaşdır
 apz-none = heç biri

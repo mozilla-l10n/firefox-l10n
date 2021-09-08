@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Saytlarda şəkil və məlumatları təkrar yükləməyi tələb edəcək
 
-clear-site-data-cancel =
-    .label = Ləğv et
-    .accesskey = L
-
-clear-site-data-clear =
-    .label = Təmizlə
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = Təmizlə
     .buttonaccesskeyaccept = l

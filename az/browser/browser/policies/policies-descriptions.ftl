@@ -49,8 +49,6 @@ policy-DisableForgetButton = Unut düyməsini işlətmənin qarşısını al.
 
 policy-DisableFormHistory = Axtarış və form keçmişini yadda saxlama.
 
-policy-DisableMasterPasswordCreation = Doğrudursa, ana parol yaradıla bilməyəcək.
-
 policy-DisablePocket = Səhifələri Pocket-ə saxlamaq üçün özəlliyi söndürün.
 
 policy-DisablePrivateBrowsing = Məxfi Səyahəti söndür.

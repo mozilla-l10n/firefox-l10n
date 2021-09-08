@@ -41,9 +41,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Vərəqi əlfəcinlə
     .accesskey = B
-reopen-in-container =
-    .label = Konteynerdə təkrar aç
-    .accesskey = e
 move-to-start =
     .label = Başa qoy
     .accesskey = S
@@ -53,18 +50,6 @@ move-to-end =
 move-to-new-window =
     .label = Yeni pəncərəyə daşı
     .accesskey = p
-close-tab =
-    .label = Vərəqi qapat
-    .accesskey = Q
-close-tabs =
-    .label = Vərəqləri qapat
-    .accesskey = S
-move-tabs =
-    .label = Vərəqlərin yerini dəyişdir
-    .accesskey = v
-move-tab =
-    .label = Vərəqin yerini dəyişdir
-    .accesskey = v
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

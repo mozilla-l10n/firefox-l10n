@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Axtar
     .aria-label = Axtar
 
-newtab-search-box-search-the-web-text = İnternetdə Axtar
-
 newtab-search-box-search-the-web-input =
     .placeholder = İnternetdə Axtar
     .title = İnternetdə Axtar
