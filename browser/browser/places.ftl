@@ -20,7 +20,6 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Abrir en una nueva ventana privada
     .accesskey = p
-
 places-add-bookmark =
     .label = Agregar marcador...
     .accesskey = m
@@ -33,7 +32,6 @@ places-add-folder =
 places-add-separator =
     .label = Agregar separador
     .accesskey = s
-
 places-view =
     .label = Ver
     .accesskey = V
@@ -52,12 +50,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Por Fecha y Sitio
     .accesskey = t
-
 places-history-search =
     .placeholder = Buscar historial
 places-bookmarks-search =
     .placeholder = Buscar marcadores
-
 places-delete-domain-data =
     .label = Olvida a este Sitio
     .accesskey = O
@@ -82,7 +78,6 @@ places-remove-folder =
            *[other] Eliminar carpetas
         }
     .accesskey = m
-
 places-edit-folder2 =
     .label = Editar carpeta…
     .accesskey = i
@@ -94,18 +89,15 @@ places-delete-folder =
            *[other] Eliminar carpetas
         }
     .accesskey = E
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcadores administrados
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subcarpeta
-
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Otros marcadores
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -116,7 +108,6 @@ places-remove-bookmark =
            *[other] Eliminar marcadores
         }
     .accesskey = e
-
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -127,8 +118,7 @@ places-delete-bookmark =
            *[other] Eliminar marcadores
         }
     .accesskey = E
-
 places-manage-bookmarks =
     .label = Administrar marcadores
     .accesskey = M
-
+places-forget-about-this-site-forget = Olvidar
