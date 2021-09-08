@@ -17,12 +17,6 @@
 
 <!-- extracted from ./customize.xul -->
 
-<!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "Personalizare &sidebarName;">
-<!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "File în &sidebarName;:">
-<!ENTITY sidebar.customize.current.accesskey    "F">
-
 <!ENTITY sidebar.customize.customize.label      "Personalizare filă">
 <!ENTITY sidebar.customize.customize.accesskey  "P">
 <!ENTITY sidebar.customize.remove.label         "Eliminați">

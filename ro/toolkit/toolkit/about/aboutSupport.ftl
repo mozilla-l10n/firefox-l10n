@@ -13,11 +13,6 @@ crashes-id = ID-ul raportului
 crashes-send-date = Trimis
 crashes-all-reports = Toate rapoartele de defecțiuni
 crashes-no-config = Această aplicație nu a fost configurată pentru afișarea rapoartelor de defecțiuni.
-extensions-title = Extensii
-extensions-name = Nume
-extensions-enabled = Activat
-extensions-version = Versiune
-extensions-id = ID
 support-addons-title = Suplimente
 support-addons-name = Nume
 support-addons-type = Tip
@@ -129,8 +124,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tipul de proces
 sandbox-sys-call-number = Apel sistem
 sandbox-sys-call-args = Argumente
-safe-mode-title = Încearcă modul sigur
-restart-in-safe-mode-label = Repornește cu suplimentele dezactivate…
 
 troubleshoot-mode-title = Diagnostică problemele
 restart-in-troubleshoot-mode-label = Mod de depanare…
@@ -186,9 +179,6 @@ remote-debugging-accepting-connections = Acceptarea conexiunilor
 remote-debugging-url = URL
 
 ##
-
-support-third-party-modules-title = Module terțe
-support-third-party-modules-no-value = (Nicio valoare)
 
 # Variables
 # $days (Integer) - Number of days of crashes to log
@@ -289,11 +279,6 @@ webgl2-renderer = Renderul driverului WebGL 2
 webgl2-version = Versiunea driverului WebGL 2
 webgl2-driver-extensions = Extensiile driverului WebGL 2
 webgl2-extensions = Extensii WebGL 2
-blocklisted-bug = Pe lista de blocări din cauza unor probleme cunoscute
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = bug { $bugNumber }
 
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
@@ -304,8 +289,6 @@ support-blocklisted-bug = Pus pe lista de blocare din cauza problemelor cunoscut
 unknown-failure = Pus pe lista de blocări; cod de eroare { $failureCode }
 
 d3d11layers-crash-guard = Compozitor D3D11
-d3d11video-crash-guard = Decodor video D3D11
-d3d9video-crash-guard = Decodor video D3D9
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Decodor video WMF VPX
 
@@ -350,14 +333,6 @@ launcher-process-status-unknown = Stare necunoscută
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Activate de utilizator
-multi-process-status-1 = Activate în mod implicit
-multi-process-status-2 = Dezactivate
-multi-process-status-4 = Dezactivate de instrumentele de accesibilitate
-multi-process-status-6 = Dezactivat din cauza introducerii de text neacceptat
-multi-process-status-7 = Dezactivate de suplimente
-multi-process-status-8 = Dezactivate forțat
-multi-process-status-unknown = Stare necunoscută
 
 async-pan-zoom = Panoramare/zoom asincron(ă)
 apz-none = fără

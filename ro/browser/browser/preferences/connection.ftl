@@ -36,19 +36,10 @@ connection-proxy-http = Proxy HTTP
 connection-proxy-http-port = Port
     .accesskey = P
 
-connection-proxy-http-sharing =
-    .label = Folosește acest proxy și pentru FTP și HTTPS
-    .accesskey = s
-
 connection-proxy-https = Proxy HTTPS
     .accesskey = H
 connection-proxy-ssl-port = Port
     .accesskey = o
-
-connection-proxy-ftp = Proxy FTP
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = r
 
 connection-proxy-socks = Gazdă SOCKS
     .accesskey = C
@@ -65,9 +56,6 @@ connection-proxy-noproxy = Fără proxy pentru
     .accesskey = n
 
 connection-proxy-noproxy-desc = Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Conexiunile la localhost, 127.0.0.1 și ::1 nu trec niciodată printr-un proxy.
 
 connection-proxy-autotype =
     .label = URL pentru configurarea automată a proxy-ului

@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Conectează un alt dispozitiv
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Dacă nu ai făcut-o deja, instalează <a data-l10n-name="connect-another-device">Firefox pe dispozitivul tău mobil</a>.
-
-fxa-qrcode-heading-phase2 = 2. Apoi autentifică-te în { -sync-brand-short-name } sau, pe Android, scanează codul de asociere din interiorul setărilor { -sync-brand-short-name }.
-
 fxa-qrcode-heading-step1 = 1. Dacă nu ai făcut-o deja, instalează <a data-l10n-name="connect-another-device">Firefox pe dispozitivul tău mobil</a>.
 
 fxa-qrcode-heading-step2 = 2. Deschide Firefox pe dispozitivul tău mobil.

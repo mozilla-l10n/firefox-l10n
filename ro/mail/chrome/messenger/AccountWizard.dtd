@@ -17,9 +17,6 @@
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Cont pentru grupuri de discuții">
 <!ENTITY accountTypeNews.accesskey "t">
-<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
-<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
-<!ENTITY accountTypeMovemail.accesskey "u">
 
 <!-- Entities for Identity page -->
 

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Manager de suplimente
-
 addons-page-title = Manager de suplimente
 
 search-header =
@@ -33,18 +30,6 @@ help-button = Suport pentru suplimente
 sidebar-help-button-title =
     .title = Suport pentru suplimente
 
-preferences =
-    { PLATFORM() ->
-        [windows] Opțiuni { -brand-short-name }
-       *[other] Preferințe { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opțiuni { -brand-short-name }
-           *[other] Preferințe { -brand-short-name }
-        }
-
 addons-settings-button = Setări { -brand-short-name }
 sidebar-settings-button-title =
     .title = Setări { -brand-short-name }
@@ -54,43 +39,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Afișează toate extensiile
-
-cmd-show-details =
-    .label = Afișează mai multe informații
-    .accesskey = A
-
-cmd-find-updates =
-    .label = Caută actualizări
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opțiuni
-           *[other] Preferințe
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Poartă tema
-    .accesskey = P
-
-cmd-disable-theme =
-    .label = Nu mai purta tema
-    .accesskey = N
-
-cmd-install-addon =
-    .label = Instalează
-    .accesskey = I
-
-cmd-contribute =
-    .label = Contribuie
-    .accesskey = C
-    .tooltiptext = Contribuie la dezvoltarea acestui supliment
 
 detail-version =
     .label = Versiune
@@ -390,8 +338,6 @@ dictionary-disabled-heading = Dezactivate
 
 locale-enabled-heading = Activate
 locale-disabled-heading = Dezactivate
-
-ask-to-activate-button = Întreabă pentru activare
 
 always-activate-button = Activează întotdeauna
 never-activate-button = Nu activa niciodată

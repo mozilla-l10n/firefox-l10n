@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY deleteCmd.label          "Șterge">
 <!ENTITY deleteCmd.accesskey        "g">
-<!ENTITY preferencesCmd2.label "Opțiuni">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "Preferințe">
-<!ENTITY preferencesCmdUnix.accesskey     "e">
 
 <!ENTITY customizeCmd.label "Personalizează">
 <!ENTITY customizeCmd.accesskey "t">

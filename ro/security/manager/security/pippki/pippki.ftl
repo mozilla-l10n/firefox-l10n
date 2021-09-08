@@ -6,9 +6,6 @@ password-quality-meter = Indicatorul de calitate a parolei
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Schimbă parola generală
-
 change-device-password-window =
     .title = Schimbă parola
 
@@ -20,10 +17,6 @@ change-password-new = Parola nouă:
 change-password-reenter = Parola nouă (din nou):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Resetare parolă generală
-    .style = width: 40em
 
 pippki-failed-pw-change = Parola nu a putut fi modificată.
 pippki-incorrect-pw = Nu ai introdus corect parola curentă. Te rugăm să încerci din nou.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Resetează
-reset-password-text = Dacă resetezi parola generală, toate parolele de la site-urile web și conturile de e-mail pe care le-ai memorat, precum și datele formularelor, certificatele personale și cheile private, vor fi pierdute. Sigur vrei să resetezi parola generală?
 
 reset-primary-password-text = Dacă îți resetezi parola primară, toate parolele tale salvate de web și de e-mail, certificatele personale și cheile private vor fi uitate. Sigur vrei să îți resetezi parola primară?
 

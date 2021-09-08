@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Fără serife
 
-font-size-label =
-    .value = Dimensiune:
-    .accesskey = e
-
 font-size-monospace-label =
     .value = Dimensiune:
     .accesskey = i

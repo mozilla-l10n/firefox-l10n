@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Urmărește automat starea online detectată
     .accesskey = d
 
-startup-label = Starea manuală la pornire:
-
 status-radio-remember =
     .label = Memorează starea online precedentă
     .accesskey = r

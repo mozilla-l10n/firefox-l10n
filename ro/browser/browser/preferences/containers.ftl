@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Adaugă un container nou
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Preferințele containerului { $name }
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Pictogramă
 containers-color-label = Culoare
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Terminat
-    .accesskey = D
 
 containers-dialog =
     .buttonlabelaccept = Terminat

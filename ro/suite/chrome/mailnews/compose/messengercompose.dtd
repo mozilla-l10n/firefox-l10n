@@ -59,11 +59,6 @@
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "T">
 
-<!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "Înfășoară rândurile">
-<!ENTITY editRewrapCmd.key "L">
-<!ENTITY editRewrapCmd.accesskey  "n">
-
 <!ENTITY accountManagerCmd.label "Mail &amp; Newsgroups Account Settings…">
 <!ENTITY accountManagerCmd.accesskey "M">
 

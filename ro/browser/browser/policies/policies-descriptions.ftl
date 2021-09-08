@@ -59,8 +59,6 @@ policy-DisableForgetButton = Împiedică accesul la butonul de uitare.
 
 policy-DisableFormHistory = Nu memora istoricul căutărilor și al formularelor.
 
-policy-DisableMasterPasswordCreation = Dacă este activat, nu se poate crea o parolă generală.
-
 policy-DisablePrimaryPasswordCreation = Dacă valoarea este adevărată, nu se poate crea o parolă primară.
 
 policy-DisablePasswordReveal = Nu permite dezvăluirea parolelor din datele de autentificare salvate.
@@ -134,8 +132,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revenire la comportame
 policy-LocalFileLinks = Permite anumitor site-uri web să se lege la fișiere locale.
 
 policy-ManagedBookmarks = Configurează o listă de marcaje gestionate de un administrator care nu poate fi modificată de utilizator.
-
-policy-MasterPassword = Necesită sau împiedică folosirea unei parole generale.
 
 policy-PrimaryPassword = Necesită sau împiedică folosirea unei parole primare.
 

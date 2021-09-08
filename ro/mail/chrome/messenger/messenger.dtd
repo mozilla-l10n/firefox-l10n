@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "P">
-<!ENTITY printPreviewCmd.label "Previzualizează pentru tipărire">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Aranjare în pagină…">
-<!ENTITY printSetupCmd.accesskey "j">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Șterge mesajul">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Mod afișare compact">
 <!ENTITY compactVersion.accesskey "c">
-<!ENTITY folderPaneBar.label "Bară de unelte în panoul de dosare">
-<!ENTITY folderPaneBar.accesskey "F">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortează după">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Agendă de contacte">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Suplimente">
-<!ENTITY addons.accesskey "S">
-<!ENTITY addonPrefs.label "Opțiuni suplimente">
-<!ENTITY addonPrefs.accesskey "O">
-<!ENTITY addonPrefsUnix.label "Preferințe suplimente">
-<!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Nu au fost găsite setările de supliment.">
 <!ENTITY activitymanager.label "Manager de activități">
 <!ENTITY activitymanager.accesskey "a">
@@ -520,8 +508,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Depanează suplimente">
 <!ENTITY debugAddonsCmd.accesskey "a">
-<!ENTITY tabsDebugCmd.label "Depanator cadru de conținut">
-<!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -545,15 +531,11 @@
 <!ENTITY backButton1.label "Înapoi">
 <!ENTITY goForwardButton1.label "Redirecționează">
 <!ENTITY deleteItem.title "Șterge">
-<!ENTITY deleteButton.label "Șterge">
-<!ENTITY undeleteButton.label "Restaurează">
 <!ENTITY markButton.label "Marchează">
 <!ENTITY printButton.label "Tipărește">
 <!ENTITY stopButton.label "Oprește">
 <!ENTITY throbberItem.title "Indicator de activitate">
 <!ENTITY junkItem.title "Nesolicitat">
-<!ENTITY junkButton.label "Nesolicitat">
-<!ENTITY notJunkButton.label "Nu e nesolicitat">
 <!ENTITY addressBookButton.label "Agendă de contacte">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Căutare globală">
@@ -585,19 +567,14 @@
 <!ENTITY previousMsgButton.tooltip "Mergi la mesajul anterior">
 <!ENTITY goForwardButton.tooltip "Înainte cu un mesaj">
 <!ENTITY goBackButton.tooltip "Mergi la mesajul precedent">
-<!ENTITY deleteButton.tooltip "Șterge mesajul sau dosarul selectat">
-<!ENTITY undeleteButton.tooltip "Recuperează mesajul selectat">
 <!ENTITY markButton.tooltip "Marchează mesajele">
 <!ENTITY printButton.tooltip "Tipărește acest mesaj">
 <!ENTITY stopButton.tooltip "Oprește transferul actual">
-<!ENTITY junkButton.tooltip "Marchează mesajul ca nesolicitat">
-<!ENTITY notJunkButton.tooltip "Marchează mesajele selectate ca nefiind nesolicitate">
 <!ENTITY addressBookButton.tooltip "Mergi la agenda de contacte">
 <!ENTITY chatButton.tooltip "Afișează fila pentru chat">
 <!ENTITY tagButton.tooltip "Etichetează mesaje">
 <!ENTITY compactButton.tooltip "Elimină mesajele șterse din dosarul selectat">
 <!ENTITY appmenuButton1.tooltip "Afișează meniul &brandShortName;">
-<!ENTITY addonsButton.tooltip "Gestionează-ți suplimentele">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Redirecționează ca text integrat">

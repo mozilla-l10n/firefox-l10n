@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = Setări OTR
 otr-log =
     .label = Include mesajele criptate OTR în jurnalele de conversații
-otr-requireEncryption =
-    .label = Necesită criptare end-to-end pentru conversații unu-la-unu
-otr-verifyNudge =
-    .label = Amintește-mi întotdeauna să verific un contact neverificat
-
-otr-notYetAvailable = indisponibil încă
 
 otr-require-encryption-info =
     Atunci când necesită criptare end-to-end, mesajele din conversațiile unu-la-unu

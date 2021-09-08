@@ -23,44 +23,7 @@ certmgr-tab-ca =
 certmgr-mine = Ai certificate de la aceste organizații care te identifică
 certmgr-remembered = Aceste certificate sunt folosite pentru a te identifica pe site-urile web
 certmgr-people = Ai stocate certificate care identifică aceste persoane
-certmgr-servers = Ai stocate certificate care identifică aceste servere
 certmgr-ca = Ai stocate certificate care identifică aceste autorități de certificare
-
-certmgr-detail-general-tab-title =
-    .label = General
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Detalii
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Se verifică în prezent certificatul...
-
-certmgr-subject-label = Emis pentru
-
-certmgr-issuer-label = Emis de
-
-certmgr-period-of-validity = Perioada de valabilitate
-
-certmgr-fingerprints = Amprente digitale
-
-certmgr-cert-detail =
-    .title = Detaliile certificatului
-    .buttonlabelaccept = Închide
-    .buttonaccesskeyaccept = c
-
-certmgr-cert-detail-commonname = Nume comun (CN)
-
-certmgr-cert-detail-org = Organizație (O)
-
-certmgr-cert-detail-orgunit = Unitate organizațională (OU)
-
-certmgr-cert-detail-serial-number = Număr de serie
-
-certmgr-cert-detail-sha-256-fingerprint = Amprentă SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Amprentă SHA1
 
 certmgr-edit-ca-cert =
     .title = Editează setările certificatului de încredere AC
@@ -93,12 +56,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Dispozitiv de securitate
 
-certmgr-begins-on = Începe
-
 certmgr-begins-label =
     .label = Începe
-
-certmgr-expires-on = Expiră
 
 certmgr-expires-label =
     .label = Expiră
@@ -140,18 +99,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Importă…
     .accesskey = m
-
-certmgr-details =
-    .value = Câmpurile certificatului
-    .accesskey = f
-
-certmgr-fields =
-    .value = Valoarea câmpului
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = Ierarhia certificatelor
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Adaugă excepție…
@@ -215,12 +162,6 @@ delete-user-cert-confirm = Sigur vrei să ștergi aceste certificate?
 delete-user-cert-impact = Dacă ștergi unul dintre certificatele proprii, nu-l vei mai putea folosi pentru a te identifica.
 
 
-delete-ssl-cert-title =
-    .title = Șterge excepțiile pentru certificatele serverelor
-delete-ssl-cert-confirm = Sigur vrei să ștergi aceste excepții ale serverelor?
-delete-ssl-cert-impact = Dacă ștergi o excepție de server, restaurezi controalele uzuale de securitate pentru acel server și îi impui să folosească un certificat valid.
-
-
 delete-ca-cert-title =
     .title = Șterge sau anulează încrederea certificatelor AC
 delete-ca-cert-confirm = Ai cerut ștergerea acestor certificate AC. Pentru certificatele incluse, toate încrederile acordate vor fi eliminate, lucru ce are același efect. Sigur vrei să ștergi sau să elimini încrederea?
@@ -240,45 +181,6 @@ cert-with-serial =
     .value = Certificatul cu numărul de serie: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Vizualizator de certificate: „{ $certName }”
-
-not-present =
-    .value = <Nu este parte a certificatului>
-
-# Cert verification
-cert-verified = Acest certificat a fost verificat pentru următoarele utilizări:
-
-# Add usage
-verify-ssl-client =
-    .value = Certificat client SSL
-
-verify-ssl-server =
-    .value = Certificat server SSL
-
-verify-ssl-ca =
-    .value = Autoritate de certificare SSL
-
-verify-email-signer =
-    .value = Certificat semnatar e-mail
-
-verify-email-recip =
-    .value = Certificat destinatar e-mail
-
-# Cert verification
-cert-not-verified-cert-revoked = Nu se poate verifica acest certificat deoarece a fost revocat.
-cert-not-verified-cert-expired = Nu se poate verifica acest certificat deoarece a expirat.
-cert-not-verified-cert-not-trusted = Nu se poate verifica acest certificat deoarece nu este acreditat.
-cert-not-verified-issuer-not-trusted = Nu se poate verifica acest certificat deoarece emitentul nu prezintă încredere.
-cert-not-verified-issuer-unknown = Nu se poate verifica acest certificat deoarece emitentul nu e cunoscut.
-cert-not-verified-ca-invalid = Nu se poate verifica acest certificat deoarece certificatul AC este nevalid.
-cert-not-verified_algorithm-disabled = Nu am putut verifica acest certificat pentru că a fost semnat utilizând un algoritm de semnare care a fost dezactivat pentru că algoritmul nu este securizat.
-cert-not-verified-unknown = Nu se poate verifica acest certificat din motive necunoscute.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Nu trimite niciun certificat de client

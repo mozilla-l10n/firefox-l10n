@@ -165,8 +165,6 @@ about-webrtc-aec-logging-off-state-msg = fișierele de jurnal captate se găsesc
 
 ##
 
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
@@ -196,6 +194,8 @@ about-webrtc-sdp-set-at-timestamp-remote = Setează SDP de la distanță la marc
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 #  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
 about-webrtc-sdp-set-timestamp = Marcaj temporal { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
+
+##
 
 ##
 

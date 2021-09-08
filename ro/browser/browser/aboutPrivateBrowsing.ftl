@@ -7,8 +7,6 @@ privatebrowsingpage-open-private-window-label = Deschide o fereastră privată
 about-private-browsing-search-placeholder = Caută pe web
 about-private-browsing-info-title = Ești într-o fereastră privată
 about-private-browsing-info-myths = Mituri comune despre navigarea privată
-about-private-browsing =
-    .title = Caută pe web
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

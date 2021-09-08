@@ -19,9 +19,6 @@ auth-your-fp-value = Amprentă digitală pentru tine, { $own_name }:
 auth-their-fp-value = Amprentă digitală pentru { $their_name }
 
 auth-help = Verificarea identității unui contact ajută la asigurarea confidențialității reale a conversațiilor, ceea ce face foarte dificilă interceptarea sau manipularea conversațiilor de către un terț.
-auth-helpTitle = Ajutor de verificare
-
-auth-questionReceived = Aceasta este întrebarea pusă de contact:
 
 auth-yes =
     .label = Da
@@ -31,26 +28,7 @@ auth-no =
 
 auth-verified = Am verificat că aceasta este de fapt amprenta corectă.
 
-auth-manualVerification = Verificare manuală a amprentelor
-auth-questionAndAnswer = Întrebare și răspuns
-auth-sharedSecret = Secret partajat
-
-auth-manualVerification-label =
-    .label = { auth-manualVerification }
-
-auth-questionAndAnswer-label =
-    .label = { auth-questionAndAnswer }
-
-auth-sharedSecret-label =
-    .label = { auth-sharedSecret }
-
-auth-manualInstruction = Contactează partenerul de conversație intenționat prin intermediul unui alt canal autentificat, cum ar fi un e-mail semnat OpenPGP sau prin telefon. Ar trebui să vă spuneți reciproc amprentele. (Amprenta este o sumă de control care identifică o cheie de criptare.) Dacă amprenta este potrivită, ar trebui să indici în dialogul de mai jos că ai verificat amprenta.
-
 auth-how = Cum ai vrea să verifici identitatea contactului tău?
-
-auth-qaInstruction = Gândește-te la o întrebare la care numai tu și contactului tău știți răspunsul. Introdu întrebarea și răspunde, apoi așteaptă să introducă și contactul tău răspunsul. Dacă răspunsurile nu corespund, canalul de comunicare pe care îl utilizezi poate fi supravegheat.
-
-auth-secretInstruction = Gândește-te la un secret cunoscut numai de tine și contactul tău. Nu folosiți aceeași conexiune la Internet pentru a schimba secretul între voi. Introdu secretul, apoi așteaptă să îl introducă și contactul tău. Dacă secretele nu se potrivesc, canalul de comunicare pe care îl utilizați poate fi supravegheat.
 
 auth-question = Introdu o întrebare:
 

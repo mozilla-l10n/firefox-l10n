@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Site-urile web vor fi nevoite să reîncarce imaginile și datele
 
-clear-site-data-cancel =
-    .label = Renunță
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = Șterge
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = Șterge
     .buttonaccesskeyaccept = l

@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Închide
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Opțiuni
-           *[other] Preferințe
-        }
-
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -129,18 +122,7 @@ update-in-progress-ok-button = E&limină
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = C&ontinuă
 
-addons-button = Extensii și teme
-
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Pentru a crea o parolă generală, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = creează o parolă generală
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Pentru a crea o parolă primară, introdu-ți datele de autentificare pentru Windows. Ajută la protejarea securității conturilor tale.
@@ -215,10 +197,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Personalizează…
     .accesskey = P
-
-tray-icon-label =
-    .label = Afișează o pictogramă în bara de stare
-    .accesskey = p
 
 mail-system-sound-label =
     .label = Sunet de sistem implicit pentru mesaje noi
@@ -408,9 +386,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Culoare:
     .accesskey = l
-
-search-input =
-    .placeholder = Căutare
 
 type-column-label =
     .label = Tip de conținut
@@ -699,16 +674,6 @@ passwords-button =
     .label = Parole salvate…
     .accesskey = s
 
-master-password-description = O parolă generală îți protejează toate parolele, dar trebuie să o introduci la fiecare sesiune nouă deschisă.
-
-master-password-label =
-    .label = Folosește o parolă generală
-    .accesskey = U
-
-master-password-button =
-    .label = Schimbă parola generală…
-    .accesskey = c
-
 
 primary-password-description = O parolă primară îți protejează toate parolele, dar trebuie să o introduci la fiecare sesiune nouă deschisă.
 
@@ -889,26 +854,6 @@ no-preview-description = Această temă nu este validă sau nu este disponibilă
 chat-variant-label =
     .value = Variantă:
     .accesskey = V
-
-chat-header-label =
-    .label = Afișează antetul
-    .accesskey = a
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Caută în Opțiuni
-           *[other] Caută în Preferințe
-        }
 
 ## Preferences UI Search Results
 

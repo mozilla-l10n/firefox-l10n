@@ -20,15 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Selectează toate filele
     .accesskey = S
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Anulează închiderea filelor
-            [one] Anulează închiderea filei
-            [few] Anulează închiderea filelor
-           *[other] Anulează închiderea filelor
-        }
-    .accesskey = U
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -60,9 +51,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Fixează în meniul excedentar
     .accesskey = P
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Ascunde automat în bara de instrumente
-    .accesskey = A
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Ascunde butonul când lista este goală
     .accesskey = H

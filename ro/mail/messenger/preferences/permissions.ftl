@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = Excepții
     .style = width: 45em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = Adresa site-ului web:
     .accesskey = d

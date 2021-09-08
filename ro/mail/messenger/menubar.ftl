@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Codare text
-    .accesskey = c
-
 ## Tools Menu
 
 
@@ -25,4 +21,6 @@ menu-view-repair-text-encoding =
     .accesskey = c
 
 ## View / Layout
+
+## File
 

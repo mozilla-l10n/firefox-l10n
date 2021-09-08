@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Închide">
 <!ENTITY closeCmd.key                                   "w">
 <!ENTITY closeCmd.accesskey                             "h">
-<!ENTITY printSetupCmd.label                            "Aranjare în pagină…">
-<!ENTITY printSetupCmd.accesskey                        "j">
-<!ENTITY printPreviewContactCmd.label                   "Previzualizează tipărirea contactului">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "Previzualizează tipărirea agendei de contacte">
-<!ENTITY printPreviewAddressBook.accesskey              "P">
 <!ENTITY printContactCmd.label                          "Tipărește contactul…">
 <!ENTITY printContactCmd.accesskey                      "T">
 <!ENTITY printContactCmd.key                            "P">
@@ -108,10 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exportă…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                          "Opțiuni">
-<!ENTITY preferencesCmd2.accesskey                      "O">
-<!ENTITY preferencesCmdUnix.label                       "Preferințe">
-<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Contact nou">
