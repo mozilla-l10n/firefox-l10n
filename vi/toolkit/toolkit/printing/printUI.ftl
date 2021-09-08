@@ -57,8 +57,6 @@ printui-options = Tùy chọn
 printui-headers-footers-checkbox = In đầu trang và chân trang
 printui-backgrounds-checkbox = In phần nền
 
-printui-selection-checkbox = Chỉ in phần được chọn
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

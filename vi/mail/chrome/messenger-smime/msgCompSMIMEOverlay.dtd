@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Chữ kí điện tử cho thư này">
 <!ENTITY menu_securitySign.accesskey "C">
 
-<!ENTITY menu_securityAttachMyKey.label "Đính kèm khóa công khai của tôi">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "Công nghệ mã hóa">
 <!ENTITY menu_securityTech.accesskey "T">
 

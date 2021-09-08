@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Danh sách
 
-blocklist-button-cancel =
-    .label = Hủy bỏ
-    .accesskey = H
-
-blocklist-button-ok =
-    .label = Lưu thay đổi
-    .accesskey = L
-
 blocklist-dialog =
     .buttonlabelaccept = Lưu thay đổi
     .buttonaccesskeyaccept = L

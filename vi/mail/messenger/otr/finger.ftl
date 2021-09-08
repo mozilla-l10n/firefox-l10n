@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Dấu vân tay OTR từ các cuộc hội thoại được mã hóa đầu cuối trước đó.
 
-finger-screenName =
-    .label = Liên hệ
-
 finger-screen-name =
     .label = Liên hệ
 finger-verified =

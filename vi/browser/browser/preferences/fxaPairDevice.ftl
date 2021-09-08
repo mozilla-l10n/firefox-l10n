@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Kết nối thiết bị khác
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Cài đặt <a data-l10n-name="connect-another-device">Firefox trên thiết bị di động</a> của bạn nếu chưa có.
-
-fxa-qrcode-heading-phase2 = 2. Sau đó đăng nhập vào { -sync-brand-short-name }, hoặc trên Android quét mã ghép nối bên trong cài đặt { -sync-brand-short-name }.
-
 fxa-qrcode-heading-step1 = 1. Cài đặt <a data-l10n-name="connect-another-device">Firefox trên thiết bị di động</a> nếu bạn chưa có.
 
 fxa-qrcode-heading-step2 = 2. Mở Firefox trên thiết bị di động của bạn.

@@ -38,6 +38,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Kích thước đệm:
+
 perftools-devtools-interval-label = Khoảng thời gian
 perftools-devtools-threads-label = Luồng:
 perftools-devtools-settings-label = Cài đặt
@@ -81,5 +82,7 @@ perftools-thread-render-backend =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Mới</b>: { -profiler-brand-name } hiện được tích hợp vào Công cụ nhà phát triển. <a>Tìm hiểu thêm</a> về công cụ mới mạnh mẽ này.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Trong thời gian giới hạn, bạn có thể truy cập bảng hiệu suất ban đầu qua <a>{ options-context-advanced-settings }</a>)
+

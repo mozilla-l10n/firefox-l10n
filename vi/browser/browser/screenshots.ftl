@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Chụp ảnh màn hình
-
-screenshots-my-shots-button = Các ảnh chụp của tôi
-
 screenshot-toolbarbutton =
     .label = Ảnh chụp màn hình
     .tooltiptext = Tạo một ảnh chụp màn hình
@@ -40,8 +36,6 @@ screenshots-login-error-details = Chúng tôi không thể lưu hình của bạ
 
 screenshots-unshootable-page-error-title = Chúng tôi không thể chụp màn hình trang này.
 screenshots-unshootable-page-error-details = Đây không phải là trang Web bình thường, bạn không thể chụp ảnh màn hình nó.
-
-screenshots-self-screenshot-error-title = Bạn không thể chụp một trang của { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Vùng chọn của bạn quá nhỏ
 

@@ -9,8 +9,6 @@
 
 process-type-web = Nội dung web
 
-process-type-browser = Chính
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Giới thiệu đặc quyền

@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = Cài đặt OTR
 otr-log =
     .label = Bao gồm các tin nhắn được mã hóa OTR trong nhật ký hội thoại
-otr-requireEncryption =
-    .label = Yêu cầu mã hóa đầu cuối cho các cuộc hội thoại một-một
-otr-verifyNudge =
-    .label = Luôn nhắc tôi xác minh một liên hệ chưa được xác minh
-
-otr-notYetAvailable = chưa có sẵn
 
 otr-require-encryption =
     .label = Yêu cầu mã hóa đầu cuối cho các cuộc hội thoại một-một

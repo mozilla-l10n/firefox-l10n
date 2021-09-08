@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = Tùy chỉnh { -brand-short-name }
 
 open-addons-sidebar-button = Tiện ích mở rộng và chủ đề
+

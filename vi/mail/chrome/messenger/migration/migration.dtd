@@ -11,8 +11,6 @@
 
 <!ENTITY importFromNothing.label        "Không nhập gì cả">
 <!ENTITY importFromNothing.accesskey    "K">
-<!ENTITY importFromThunderbird.label     "Thunderbird">
-<!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 trở lên">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOutlook.label        "Outlook">
