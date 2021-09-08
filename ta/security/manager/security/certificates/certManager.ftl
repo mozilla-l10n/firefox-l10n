@@ -17,42 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = அதிகாரம் உள்ளவர்கள்
 
-certmgr-detail-general-tab-title =
-    .label = பொது
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = விவரங்கள்
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = தற்போது சான்றிதழை சரிபார்க்கிறது...
-
-certmgr-subject-label = பெற்றுக்கொண்டவர்
-
-certmgr-issuer-label = வழங்கியவர்
-
-certmgr-period-of-validity = செல்லுபடியாகும் காலம்
-
-certmgr-fingerprints = கைரேகை
-
-certmgr-cert-detail =
-    .title = சான்றிதழ் விளக்கம்
-    .buttonlabelaccept = மூடு
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = பொதுப்பெயர் (CN)
-
-certmgr-cert-detail-org = நிறுவனம் (O)
-
-certmgr-cert-detail-orgunit = நிறுவனத்தின் பகுதி (OU)
-
-certmgr-cert-detail-serial-number = வரிசை எண்
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 கைரேகை
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 கைரேகை
-
 certmgr-edit-ca-cert =
     .title = CA சான்றிதழ் நம்பகத்தன்மை அமைப்பை மாற்று
     .style = width: 48em;
@@ -81,12 +45,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = பாதுகாப்பு சாதனம்
 
-certmgr-begins-on = தொடங்கும் நாள்
-
 certmgr-begins-label =
     .label = தொடங்கும் நாள்
-
-certmgr-expires-on = காலாவதியாகும் நாள்
 
 certmgr-expires-label =
     .label = காலாவதியாகும் நாள்
@@ -128,18 +88,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = இறக்கு...
     .accesskey = m
-
-certmgr-details =
-    .value = சான்றிதழ் புலங்கள்
-    .accesskey = F
-
-certmgr-fields =
-    .value = புல மதிப்புகள்
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = சான்றிதழ் வரிசை
-    .accesskey = H
 
 certmgr-add-exception =
     .label = விதிவிலக்கு சேர்...
@@ -203,12 +151,6 @@ delete-user-cert-confirm = இந்த சான்றிதழ்களை அ
 delete-user-cert-impact = If you delete one of your own certificates,  you can no longer use it to identify yourself.
 
 
-delete-ssl-cert-title =
-    .title = சேவையக சான்றிதழ் விதிவிலக்குகிளை அழி
-delete-ssl-cert-confirm = இந்த சேவையக விதிவிலக்குகளை அழிக்க வேண்டுமா?
-delete-ssl-cert-impact = நீங்கள் சேவையக விதிவிலக்கத்தை நீக்கினால், அந்த சேவையகத்திற்கான வழக்கமான பாதுகாப்பு சோதனைகளை மீட்டமைத்து அது செல்லுபடியான சான்றிதழைப் பயன்படுத்துவதைக் கட்டாயமாக்கவும்.
-
-
 delete-ca-cert-title =
     .title = CA சான்றிதழ்களை அழி
 delete-ca-cert-confirm = இந்த CA சான்றிதழ்களை அழிக்க வேண்டுமா?
@@ -228,45 +170,6 @@ cert-with-serial =
     .value = வரிசை எண் கொண்ட சான்றிதழ்: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = சான்றிதழ் பார்வையாளர்: “{ $certName }”
-
-not-present =
-    .value = <சான்றிதழின் பகுதியல்ல>
-
-# Cert verification
-cert-verified = இந்த சான்றிதழ் பின்வரும் பயன்களுக்காக சரிபார்க்கப்பட்டது:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL கிளையன்ட் சான்றிதழ்
-
-verify-ssl-server =
-    .value = SSL சேவையக சான்றிதழ்
-
-verify-ssl-ca =
-    .value = SSL சான்றிதழ் அங்கீகாரம்
-
-verify-email-signer =
-    .value = மின்னஞ்சல் ஸைனர் சான்றிதழ்
-
-verify-email-recip =
-    .value = மின்னஞ்சல் பெறுநர் சான்றிதழ்
-
-# Cert verification
-cert-not-verified-cert-revoked = இது நீக்கப்பட்டதால் இந்த சான்றிதழை சரிபார்க்க முடியவில்லை.
-cert-not-verified-cert-expired = இது காலாவதியாகிவிட்டதால் இந்த சான்றிதழை சரிபார்க்க முடியவில்லை.
-cert-not-verified-cert-not-trusted = இது நம்பகமில்லாததால் இந்த சான்றிதழை சரிபார்க்க முடியவில்லை.
-cert-not-verified-issuer-not-trusted = வழங்குபவர் நம்பகமில்லாததால் இந்த சான்றிதழை சரிபார்க்க முடியவில்லை.
-cert-not-verified-issuer-unknown = வழங்குபவர் தெரியாததால் இந்த சான்றிதழை சரிபார்க்க முடியவில்லை.
-cert-not-verified-ca-invalid = CA சான்றிதழ் தவறானதால் இந்த சான்றிதழை சரிபார்க்க முடியவில்லை.
-cert-not-verified_algorithm-disabled = இந்த சான்றிதழானது பாதுகாப்பற்றது என்ற காரணத்திற்காக முடக்கப்பட்ட ஒரு கையொப்ப வழிமுறையைப் பயன்படுத்தி கையொப்பமிடப்பட்டுள்ளதால், இந்த சான்றிதழை சரிபார்க்க முடியவில்லை.
-cert-not-verified-unknown = தெரியாத காரணங்களால் இந்த சான்றிதழை சரிபார்க்க முடியவில்லை.
 
 ## Used to show whether an override is temporary or permanent
 

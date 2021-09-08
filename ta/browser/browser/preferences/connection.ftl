@@ -39,11 +39,6 @@ connection-proxy-http-port = முனையம்
 connection-proxy-ssl-port = முனையம்
     .accesskey = o
 
-connection-proxy-ftp = FTP பதிலாள்
-    .accesskey = F
-connection-proxy-ftp-port = முனையம்
-    .accesskey = r
-
 connection-proxy-socks = SOCKS புரவலன்
     .accesskey = C
 connection-proxy-socks-port = முனையம்

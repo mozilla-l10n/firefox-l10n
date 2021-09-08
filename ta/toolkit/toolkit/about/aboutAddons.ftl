@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = கூடுதல் இணைப்பு மேலாளர்
-
 addons-page-title = கூடுதல் இணைப்பு மேலாளர்
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = எல்லா நீட்சிகளையும் காட்டு
-
-cmd-show-details =
-    .label = கூடுதல் தகவலைக் காட்டு
-    .accesskey = S
-
-cmd-find-updates =
-    .label = புதுப்பித்தல்களை தேடு
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] விருப்பங்கள்
-           *[other] விருப்பங்கள்
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = தீம்மை அணிந்து கொள்
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = தீம் அணிவதை நிறுத்து
-    .accesskey = W
-
-cmd-install-addon =
-    .label = நிறுவு
-    .accesskey = I
-
-cmd-contribute =
-    .label = உதவுங்கள்
-    .accesskey = C
-    .tooltiptext = இந்த கூடுதல் இணைப்பை உருவாக்க உதவுங்கள்
 
 detail-version =
     .label = பதிப்பு

@@ -7,17 +7,12 @@ about-logins-page-title = புகுபதிகைககளும் கட�
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = உமது கடவுச்சொற்களை எங்கும் எடுத்துச்செல்க
-login-app-promo-subtitle = இலவசமாக { -lockwise-brand-name } செயிலியைப் பெறுக
-login-app-promo-android =
-    .alt = Google Play இல் பெற
-login-app-promo-apple =
-    .alt = App Store-இல் தரவிறக்குக
 login-filter =
     .placeholder = புகுபதிகைகளைத் தேடு
+
 create-login-button = புதிய புகுபதிகையை உருவாக்கு
+
 fxaccounts-sign-in-text = உங்கள் கடவுச்சொற்களை மற்ற சாதனங்களில் பெறுங்கள்
-fxaccounts-sign-in-button = { -sync-brand-short-name } உள்நுழைக
 fxaccounts-avatar-button =
     .title = கணக்கை நிர்வகி
 
@@ -35,8 +30,6 @@ menu-menuitem-preferences =
        *[other] முன்னுரிமைகள்
     }
 about-logins-menu-menuitem-help = உதவி
-menu-menuitem-android-app = ஆண்ட்ராய்டிற்கான { -lockwise-brand-short-name }
-menu-menuitem-iphone-app = ஐபோன் மற்றம் ஐபேட்டுக்கான { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -63,7 +56,6 @@ login-list-item-subtitle-missing-username = (பயனர் பெயர் இ
 
 ## Introduction screen
 
-login-intro-heading = உங்கள் சேமித்த உள்நுழைவுகளைத் தேடுகிறீர்களா? { -sync-brand-short-name } அமை
 about-logins-login-intro-heading-logged-in = ஒத்திசைக்கப்பட்ட உள்நுழைவுகள் எதுமில்லை.
 
 ## Login
@@ -99,8 +91,6 @@ login-item-time-used = கடைசியாகப் பயனில் இர�
 
 ## Master Password notification
 
-master-password-notification-message = சேமித்த உள்நுழைவுகளையும் கடவுச்சொற்களையும் காண உங்களின் முதன்மை கடவுச்சொல்லை உள்ளிடவும்
-
 ## Primary Password notification
 
 master-password-reload-button =
@@ -109,27 +99,19 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] { -sync-brand-short-name } தேர்வுகளைப் பார்
-           *[other] { -sync-brand-short-name } விருப்பங்களைப் பார்
-        }
-    .accesskey = V
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = மீண்டும் கேட்காதே
-    .accesskey = D
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = இரத்து
 confirmation-dialog-dismiss-button =
     .title = இரத்து
+
 about-logins-confirm-remove-dialog-title = இந்த உள்நுழைவை நீக்கவா?
 confirm-delete-dialog-message = இச்செயலை மீட்க முடியாது.
 about-logins-confirm-remove-dialog-confirm-button = நீக்கு
+
 about-logins-confirm-export-dialog-title = உள்நுழைவுகளையும் கடவுச்சொற்களையும் ஏற்றுமதி செய்
 about-logins-confirm-export-dialog-confirm-button = ஏற்றுமதி...
+
 confirm-discard-changes-dialog-title = சேமிக்காத மாற்றங்களை நிராகரிக்கவா?
 confirm-discard-changes-dialog-message = சேமிக்கப்படாத அனைத்து மாற்றங்களும் இழக்கப்படும்.
 confirm-discard-changes-dialog-confirm-button = நிராகரி

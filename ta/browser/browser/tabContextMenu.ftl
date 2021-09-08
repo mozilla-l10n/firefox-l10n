@@ -29,16 +29,9 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = கீற்றுகளை புத்தகக்குறியிடு…
     .accesskey = k
-reopen-in-container =
-    .label = மீண்டும் கலனில் திற
-    .accesskey = e
 move-to-new-window =
     .label = புதிய சாளரத்திற்கு நகற்று
     .accesskey = W
-
-close-tab =
-    .label = கீற்றை மூடு
-    .accesskey = C
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

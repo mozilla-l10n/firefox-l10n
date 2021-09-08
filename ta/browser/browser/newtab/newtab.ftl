@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = தேடு
     .aria-label = தேடு
 
-newtab-search-box-search-the-web-text = இணையத்தில் தேடு
-
 newtab-search-box-search-the-web-input =
     .placeholder = இணையத்தில் தேடு
     .title = இணையத்தில் தேடு
