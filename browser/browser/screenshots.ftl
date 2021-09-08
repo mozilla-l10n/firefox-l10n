@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Ambil skrinsyot
-
-screenshots-my-shots-button = Syot Saya
-
 screenshots-instructions = Seret atau klik pada halaman untuk memilih kawasan. Tekan ESC untuk batalkan.
 screenshots-cancel-button = Batal
 screenshots-save-visible-button = Simpan yang terpapar
@@ -34,8 +30,6 @@ screenshots-login-error-details = Kami tidak dapat menyimpan skrinsyot anda kera
 
 screenshots-unshootable-page-error-title = Kami tidak boleh skrinsyot halaman ini.
 screenshots-unshootable-page-error-details = Ini bukan halaman Web piawai, jadi anda tidak boleh membuat skrinsyot.
-
-screenshots-self-screenshot-error-title = Anda tidak boleh syot halaman { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Pilihan anda terlalu kecil
 

@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Ikuti keadaan atas talian yang dikesan secara automatik
     .accesskey = d
 
-startup-label = Keadaan manual semasa memulakan:
-
 status-radio-remember =
     .label = Ingati keadaan atas talian terdahulu
     .accesskey = I

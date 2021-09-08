@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Laman web perlu memuatkan semula imej dan data
 
-clear-site-data-cancel =
-    .label = Batal
-    .accesskey = B
-
-clear-site-data-clear =
-    .label = Buang
-    .accesskey = u
-
 clear-site-data-dialog =
     .buttonlabelaccept = Buang
     .buttonaccesskeyaccept = u

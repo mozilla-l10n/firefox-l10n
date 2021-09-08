@@ -107,9 +107,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Edit
     .accesskey = E
-menu-edit-find-on =
-    .label = Cari dalam Halaman Ini…
-    .accesskey = C
 menu-edit-find-again =
     .label = Cari Lagi
     .accesskey = g
@@ -125,9 +122,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Bar alatan
     .accesskey = B
-menu-view-customize-toolbar =
-    .label = Penyesuaian…
-    .accesskey = P
 menu-view-sidebar =
     .label = Bar sisi
     .accesskey = B
@@ -158,9 +152,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Gaya Halaman Asas
     .accesskey = a
-menu-view-charset =
-    .label = Pengekodan Teks
-    .accesskey = n
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -209,10 +200,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Tandabuku
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = Papar Semua Tandabuku
-menu-bookmark-this-page =
-    .label = Tandabuku Halaman Ini
 menu-bookmark-edit =
     .label = Edit Tandabuku Ini
 menu-bookmarks-all-tabs =
@@ -232,32 +219,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Muat turun
     .accesskey = M
-menu-tools-addons =
-    .label = Add-ons
-    .accesskey = A
 menu-tools-sync-now =
     .label = Sync Sekarang
     .accesskey = S
-menu-tools-web-developer =
-    .label = Pembangun Web
-    .accesskey = W
 menu-tools-page-source =
     .label = Sumber Halaman
     .accesskey = u
 menu-tools-page-info =
     .label = Info Halaman
     .accesskey = I
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Pilihan
-           *[other] Keutamaan
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] h
-           *[other] n
-        }
 menu-tools-layout-debugger =
     .label = Penyahpepijat Susun Atur
     .accesskey = S
@@ -292,29 +262,11 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Bantuan
     .accesskey = B
-menu-help-product =
-    .label = Bantuan { -brand-shorter-name }
-    .accesskey = B
-menu-help-show-tour =
-    .label = Teroka { -brand-shorter-name }
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = Pintasan Papan Kekunci
-    .accesskey = K
-menu-help-troubleshooting-info =
-    .label = Maklumat Pencarisilapan
-    .accesskey = P
 menu-help-report-site-issue =
     .label = Laporkan Isu Laman…
 menu-help-feedback-page =
     .label = Hantar Maklum balas…
     .accesskey = H
-menu-help-safe-mode-without-addons =
-    .label = Mula semula dengan Add-ons Dinyahdayakan…
-    .accesskey = M
-menu-help-safe-mode-with-addons =
-    .label = Mula semula dengan Add-ons Didayakan
-    .accesskey = M
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

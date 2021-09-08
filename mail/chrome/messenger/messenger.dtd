@@ -87,10 +87,6 @@
 <!ENTITY printCmd.label "Cetak…">
 <!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Previu Cetakan">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Penetapan Halaman…">
-<!ENTITY printSetupCmd.accesskey "p">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Buang Mesej">
@@ -170,8 +166,6 @@
 <!ENTITY recentFolders.accesskey "T">
 <!ENTITY compactVersion.label "Paparan Padat">
 <!ENTITY compactVersion.accesskey "P">
-<!ENTITY folderPaneBar.label "Bar alatan Anak tetingkap Folder">
-<!ENTITY folderPaneBar.accesskey "F">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Susun mengikut">
@@ -464,12 +458,6 @@
 <!ENTITY addressBookCmd.label "Buku Alamat">
 <!ENTITY addressBookCmd.accesskey "B">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "A">
-<!ENTITY addonPrefs.label "Pilihan Add-on">
-<!ENTITY addonPrefs.accesskey "P">
-<!ENTITY addonPrefsUnix.label "Keutamaan Add-on">
-<!ENTITY addonPrefsUnix.accesskey "K">
 <!ENTITY addonNoPrefs.label "Tiada tetapan Add-on ditemui.">
 <!ENTITY activitymanager.label "Pengurus Aktiviti">
 <!ENTITY activitymanager.accesskey "t">
@@ -516,8 +504,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Add-ons Nyahpepijat">
 <!ENTITY debugAddonsCmd.accesskey "A">
-<!ENTITY tabsDebugCmd.label "Penyahpepijat Bingkai Kandungan">
-<!ENTITY tabsDebugCmd.accesskey "K">
 <!ENTITY errorConsoleCmd.label "Konsol Ralat">
 <!ENTITY errorConsoleCmd.accesskey "R">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -541,15 +527,11 @@
 <!ENTITY backButton1.label "Undur">
 <!ENTITY goForwardButton1.label "Kirim semula">
 <!ENTITY deleteItem.title "Buang">
-<!ENTITY deleteButton.label "Buang">
-<!ENTITY undeleteButton.label "Batalkan membuang">
 <!ENTITY markButton.label "Tandakan">
 <!ENTITY printButton.label "Cetak">
 <!ENTITY stopButton.label "Berhenti">
 <!ENTITY throbberItem.title "Penunjuk Aktiviti">
 <!ENTITY junkItem.title "Mel Remeh">
-<!ENTITY junkButton.label "Mel Remeh">
-<!ENTITY notJunkButton.label "Bukan Mel Remeh">
 <!ENTITY addressBookButton.label "Buku Alamat">
 <!ENTITY chatButton.label "Sembang">
 <!ENTITY glodaSearch.title "Carian Global">
@@ -580,13 +562,9 @@
 <!ENTITY previousMsgButton.tooltip "Pergi ke mesej terdahulu">
 <!ENTITY goForwardButton.tooltip "Langkau satu mesej">
 <!ENTITY goBackButton.tooltip "Undur satu mesej">
-<!ENTITY deleteButton.tooltip "Buang mesej atau folder yang dipilih">
-<!ENTITY undeleteButton.tooltip "Batal buang mesej yang dipilih">
 <!ENTITY markButton.tooltip "Tandakan mesej">
 <!ENTITY printButton.tooltip "Cetak mesej ini">
 <!ENTITY stopButton.tooltip "Hentikan pemindahan semasa">
-<!ENTITY junkButton.tooltip "Tandakan mesej yang dipilih sebagai mel remeh">
-<!ENTITY notJunkButton.tooltip "Tandakan mesej yang dipilih sebagai bukan mel remeh">
 <!ENTITY addressBookButton.tooltip "Pergi ke buku alamat">
 <!ENTITY chatButton.tooltip "Papar tab Sembang">
 <!ENTITY tagButton.tooltip "Tag mesej">

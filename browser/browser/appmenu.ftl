@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Penyesuaian…
-
 ## Zoom Controls
 
 appmenuitem-new-tab =
@@ -26,22 +23,20 @@ appmenuitem-fullscreen =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
-fxa-toolbar-sync-now =
-    .label = Sync Sekarang
-# This is shown after the tabs list if we can show all the remaining tabs by clicking on the button
-appmenu-remote-tabs-showall =
-    .label = Papar Semua
-    .tooltiptext = Papar semua tab dari peranti ini
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Tiada tab terbuka
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Mengaktifkan sync tab untuk papar senarai tab dari peranti anda yang lain.
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Mahu melihat tab anda daripada peranti lain di sini?
+
 appmenu-remote-tabs-connectdevice =
     .label = Sambung Peranti Lain
 appmenu-remote-tabs-unverified = Akaun anda perlu disahkan.
+
 appmenuitem-save-page =
     .label = Simpan Halaman Sebagai…
 
@@ -94,3 +89,4 @@ appmenu-help-not-deceptive =
 
 appmenu-taskmanager =
     .label = Pengurus Tugasan
+

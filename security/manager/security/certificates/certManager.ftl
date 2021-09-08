@@ -19,44 +19,7 @@ certmgr-tab-ca =
 
 certmgr-mine = Anda memiliki sijil daripada organisasi ini yang mengenali anda
 certmgr-people = Anda memiliki sijil fail yang mengenal pasti orang ini
-certmgr-servers = Anda memiliki sijil fail yang mengenal pasti pelayan ini
 certmgr-ca = Anda memiliki sijil fail yang mengenal pasti autoriti sijil ini
-
-certmgr-detail-general-tab-title =
-    .label = Umum
-    .accesskey = u
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Butiran
-    .accesskey = B
-
-certmgr-pending-label =
-    .value = Sijil sedang disahkan...
-
-certmgr-subject-label = Dikeluarkan Untuk
-
-certmgr-issuer-label = Dikeluarkan Oleh
-
-certmgr-period-of-validity = Tempoh Sah
-
-certmgr-fingerprints = Cap jari
-
-certmgr-cert-detail =
-    .title = Perincian Sijil
-    .buttonlabelaccept = Tutup
-    .buttonaccesskeyaccept = T
-
-certmgr-cert-detail-commonname = Nama Biasa (CN)
-
-certmgr-cert-detail-org = Organisasi (0)
-
-certmgr-cert-detail-orgunit = Unit Organisasi (OU)
-
-certmgr-cert-detail-serial-number = Nombor Siri
-
-certmgr-cert-detail-sha-256-fingerprint = Cap jari SHA-256
-
-certmgr-cert-detail-sha-1-fingerprint = Cap jari SHA1
 
 certmgr-edit-ca-cert =
     .title = Edit tetapan sijil CA dipercaya
@@ -86,12 +49,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Peranti Sekuriti
 
-certmgr-begins-on = Bermula Pada
-
 certmgr-begins-label =
     .label = Bermula Pada
-
-certmgr-expires-on = Luput Pada
 
 certmgr-expires-label =
     .label = Luput Pada
@@ -133,18 +92,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Import…
     .accesskey = m
-
-certmgr-details =
-    .value = Sijil Bidang
-    .accesskey = S
-
-certmgr-fields =
-    .value = Bidang Nilai
-    .accesskey = n
-
-certmgr-hierarchy =
-    .value = Hierarki Sijil
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Tambah Pengecualian…
@@ -208,12 +155,6 @@ delete-user-cert-confirm = Adakah anda pasti mahu menghapuskan sijil ini?
 delete-user-cert-impact = Jika anda hapus salah satu daripada sijil anda sendiri, anda tidak lagi dapat menggunakannya untuk memperkenalkan diri.
 
 
-delete-ssl-cert-title =
-    .title = Buang Pengecualian Sijil Pelayan
-delete-ssl-cert-confirm = Adakah anda pasti mahu menghapuskan pengecualian daripada pelayan ini?
-delete-ssl-cert-impact = Jika anda menghapuskan pengecualian pelayan, anda perlu perbaharui pemeriksaan sekuriti untuk pelayar dan perlu menggunakan sijil yang diiktiraf.
-
-
 delete-ca-cert-title =
     .title = Buang atau Tidak Percaya Sijil CA
 delete-ca-cert-confirm = Anda meminta untuk menghapuskan sijil CA berikut. Untuk sijil yang terbina-dalam semua kepercayaan yang disingkirkan, juga menerima akibat yang sama. Anda pasti mahu menghapuskan atau tidak mempercayainya?
@@ -233,45 +174,6 @@ cert-with-serial =
     .value = Sijil dengan nombor siri: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Certificate Viewer: “{ $certName }”
-
-not-present =
-    .value = <Bukan Sebahagian Dari Sijil>
-
-# Cert verification
-cert-verified = Sijil telah disahkan untuk pengguna berikut:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL Sijil Klien
-
-verify-ssl-server =
-    .value = Sijil Pelayan SSL
-
-verify-ssl-ca =
-    .value = SSL Autoriti Sijil
-
-verify-email-signer =
-    .value = E-mel Sijil Penandatangan
-
-verify-email-recip =
-    .value = E-mel Sijil Penerima
-
-# Cert verification
-cert-not-verified-cert-revoked = Tidak dapat mengesahkan sijil ini kerana ianya telah ditarik balik.
-cert-not-verified-cert-expired = Tidak dapat mengesahkan sijil ini kerana ianya telah luput.
-cert-not-verified-cert-not-trusted = Tidak dapat mengesahkan sijil ini kerana ianya tidak dipercayai.
-cert-not-verified-issuer-not-trusted = Tidak dapat mengesahkan sijil ini kerana pengeluar tidak dipercayai.
-cert-not-verified-issuer-unknown = Tidak dapat mengesahkan sijil ini kerana ianya pengeluar tidak diketahui.
-cert-not-verified-ca-invalid = Tidak dapat mengesahkan sijil ini kerana sijil CA tidak sah.
-cert-not-verified_algorithm-disabled = Tidak dapat mengesahkan sijil ini kerana ditandatangi menggunakan algoritma tanda tangan yang telah dinyahdayakan kerana algoritma itu tidak selamat.
-cert-not-verified-unknown = Tidak dapat mengesahkan siil ini kerana sebab yang tidak diketahui.
 
 ## Used to show whether an override is temporary or permanent
 

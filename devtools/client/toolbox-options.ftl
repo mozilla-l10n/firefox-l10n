@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Perilaku Skrinsyot
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Skrinsyot ke klipbod
-options-screenshot-clipboard-tooltip =
-    .title = Simpan skrinsyot terus ke klipbod
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Mainkan bunyi pengatup kamera
 options-screenshot-audio-tooltip =

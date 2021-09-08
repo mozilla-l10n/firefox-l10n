@@ -41,9 +41,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Tab Tandabuku
     .accesskey = T
-reopen-in-container =
-    .label = Buka semula dalam Penyimpan
-    .accesskey = k
 move-to-start =
     .label = Pindah ke Permulaan
     .accesskey = P
@@ -53,18 +50,6 @@ move-to-end =
 move-to-new-window =
     .label = Pindah ke Tetingkap Baru
     .accesskey = T
-close-tab =
-    .label = Tutup Tab
-    .accesskey = b
-close-tabs =
-    .label = Tutup Tab
-    .accesskey = T
-move-tabs =
-    .label = Pindah Tab
-    .accesskey = d
-move-tab =
-    .label = Pindah Tab
-    .accesskey = d
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

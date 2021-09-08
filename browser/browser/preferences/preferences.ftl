@@ -7,28 +7,6 @@ do-not-track-learn-more = Ketahui selanjutnya
 do-not-track-option-always =
     .label = Sentiasa
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Pilihan
-       *[other] Keutamaan
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Cari dalam Pilihan
-           *[other] Cari dalam Keutamaan
-        }
-
 pane-general-title = Umum
 category-general =
     .tooltiptext = { pane-general-title }
@@ -73,21 +51,9 @@ restart-later = Mula semula Kemudian
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = Ekstensi, <img data-l10n-name="icon"/> { $name }, mengawal laman anda.
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = Ekstensi, <img data-l10n-name="icon"/> { $name }, mengawal halaman Tab Baru anda.
-
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Ekstensi, <img data-l10n-name="icon"/> { $name } mengawal tetapan ini.
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Ekstensi, <img data-l10n-name="icon"/> { $name }, telah menetapkan enjin carian piawai anda.
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -112,26 +78,11 @@ extension-controlled-enable = Untuk membolehkan ekstensi pergi ke Add-ons <img d
 
 search-results-header = Hasil Carian
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Maaf! Tiada keputusan dalam Pilihan untuk “<span data-l10n-name="query"></span>”.
-       *[other] Maaf! Tiada keputusan dalam Keutamaan untuk “<span data-l10n-name="query"></span>”.
-    }
-
 search-results-help-link = Perlu bantuan? Lawat <a data-l10n-name="url">Sokongan { -brand-short-name }</a>
 
 ## General Section
 
 startup-header = Permulaan
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Izinkan { -brand-short-name } dan Firefox untuk dilancarkan pada masa yang sama
-use-firefox-sync = Tip: Ciri ini menggunakan profil yang berasingan. Gunakan { -sync-brand-short-name } untuk berkongsi data.
-get-started-not-logged-in = Daftar masuk ke { -sync-brand-short-name }…
-get-started-configured = Buka keutamaan { -sync-brand-short-name }
 
 always-check-default =
     .label = Sentiasa semak samada { -brand-short-name } adalah pelayar piawai anda
@@ -168,10 +119,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Beri amaran apabila membuka berbilang tab yang mungkin memperlahankan { -brand-short-name }
     .accesskey = p
-
-switch-links-to-new-tabs =
-    .label = Apabila membuka pautan dalam tetingkap baru, tukar terus kepadanya
-    .accesskey = A
 
 show-tabs-in-taskbar =
     .label = Papar previu tab dalam Tetingkap bar tugasan
@@ -318,11 +265,6 @@ applications-manage-app =
     .label = Butiran Aplikasi…
 applications-always-ask =
     .label = Sentiasa tanya
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -585,8 +527,6 @@ search-show-suggestions-above-history-option =
 
 search-suggestions-cant-show = Cadangan carian tidak akan dipaparkan dalam keputusan bar lokasi kerana anda telah mengkonfigurasi { -brand-short-name } untuk tidak mengingati sejarah.
 
-search-one-click-header = Enjin carian klik-tunggal
-
 search-one-click-desc = Pilih enjin carian alternatif yang muncul di bawah bar alamat dan bar carian apabila anda mula memasukkan kata kunci.
 
 search-choose-engine-column =
@@ -619,9 +559,6 @@ containers-add-button =
     .label = Tambah Penyimpan Baru
     .accesskey = A
 
-containers-preferences-button =
-    .label = Keutamaan
-
 containers-remove-button =
     .label = Buang
 
@@ -632,7 +569,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Bawa Web dengan anda
-sync-signedout-description = Sync tandabuku, sejarah, tab, kata laluan, add-ons dan pilihan anda pada semua peranti anda.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -706,15 +642,6 @@ sync-engine-addons =
     .tooltiptext = Ekstensi dan tema untuk Firefox desktop
     .accesskey = A
 
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Pilihan
-           *[other] Keutamaan
-        }
-    .tooltiptext = Tetapan Umum, Privasi dan Keselamatan yang anda sudah ubah
-    .accesskey = a
-
 ## The device name controls.
 
 sync-device-name-header = Nama Peranti
@@ -754,14 +681,9 @@ forms-exceptions =
 forms-saved-logins =
     .label = Log masuk Tersimpan…
     .accesskey = L
-forms-master-pw-use =
-    .label = Guna kata laluan induk
-    .accesskey = U
 forms-master-pw-change =
     .label = Tukar Kata laluan Induk…
     .accesskey = T
-
-forms-master-pw-fips-title = Anda kini berada dalam mod FIPS. FIPS memerlukan Kata laluan Induk bukan-kosong.
 
 forms-master-pw-fips-desc = Kata laluan Gagal Ditukar
 
@@ -854,10 +776,6 @@ sitedata-clear =
 
 sitedata-settings =
     .label = Urus Data…
-    .accesskey = U
-
-sitedata-cookies-permissions =
-    .label = Urus Keizinan
     .accesskey = U
 
 ## Privacy Section - Address Bar
@@ -957,12 +875,6 @@ permissions-addon-exceptions =
     .label = Pengecualian…
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = Halang perkhidmatan daripada mengakses pelayar anda
-    .accesskey = a
-
-permissions-a11y-privacy-link = Ketahui selanjutnya
-
 ## Privacy Section - Data Collection
 
 collection-header = Pengumpulan dan penggunaan data { -brand-short-name }
@@ -982,11 +894,6 @@ collection-studies-link = Papar kajian { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi binaan ini
-
-collection-backlogged-crash-reports =
-    .label = Izinkan { -brand-short-name } untuk menghantar backlog laporan ranap bagi pihak anda
-    .accesskey = r
-collection-backlogged-crash-reports-link = Ketahui selanjutnya
 
 ## Privacy Section - Security
 ##
@@ -1014,16 +921,6 @@ security-block-uncommon-software =
 
 certs-header = Sijil
 
-certs-personal-label = Apabila pelayan meminta sijil peribadi anda
-
-certs-select-auto-option =
-    .label = Pilih satu secara automatik
-    .accesskey = P
-
-certs-select-ask-option =
-    .label = Tanya setiap kali
-    .accesskey = T
-
 certs-enable-ocsp =
     .label = Minta penggerak balas pelayan OCSP untuk mengesahkan kesahihan sijil semasa
     .accesskey = T
@@ -1035,34 +932,6 @@ certs-view =
 certs-devices =
     .label = Peranti Keselamatan…
     .accesskey = P
-
-space-alert-learn-more-button =
-    .label = Ketahui Selanjutnya
-    .accesskey = K
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Buka Pilihan
-           *[other] Buka Keutamaan
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] B
-           *[other] B
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } sedang kehabisan ruang cakera. Kandungan laman web mungkin tidak dipaparkan dengan betul. Anda boleh mengosongkan data laman yang disimpan dalam Pilihan > Privasi & Keselamatan > Kuki dan Data Laman.
-       *[other] { -brand-short-name } sedang kehabisan ruang cakera. Kandungan laman web mungkin tidak dipaparkan dengan betul. Anda boleh mengosongkan data laman yang disimpan dalam Keutamaan > Privasi & Keselamatan > Kuki dan Data Laman.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = OK, Faham
-    .accesskey = K
-
-space-alert-under-5gb-message = { -brand-short-name } sedang kehabisan ruang cakera. Kandungan laman web mungkin tidak dipaparkan dengan betul. Lawati "Selanjutnya" untuk mengoptimumkan penggunaan cakera anda untuk pengalaman melayar yang lebih baik.
 
 ## Privacy Section - HTTPS-Only
 

@@ -9,8 +9,4 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Bantuan">
 <!ENTITY helpMenuWin.accesskey "B">
-<!ENTITY helpTroubleshootingInfo.label     "Maklumat Pencarisilapan">
-<!ENTITY helpTroubleshootingInfo.accesskey "P">
-<!ENTITY helpSafeMode.label     "Mula semula dengan Add-ons Dinyahdayakan…">
-<!ENTITY helpSafeMode.accesskey "M">
 

@@ -16,8 +16,6 @@ newtab-search-box-search-button =
     .title = Cari
     .aria-label = Cari
 
-newtab-search-box-search-the-web-text = Cari dalam Web
-
 newtab-search-box-search-the-web-input =
     .placeholder = Cari dalam Web
     .title = Cari dalam Web
