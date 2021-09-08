@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Безсерифен
 
-font-size-label =
-    .value = Големина:
-    .accesskey = з
-
 font-size-proportional-label =
     .value = Големина:
     .accesskey = о

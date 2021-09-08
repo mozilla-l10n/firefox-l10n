@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Нов изолатор
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Настройки на изолатора { $name }
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Пиктограма
 containers-color-label = Цвят
     .accesskey = ц
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Готово
-    .accesskey = Г
 
 containers-dialog =
     .buttonlabelaccept = Готово

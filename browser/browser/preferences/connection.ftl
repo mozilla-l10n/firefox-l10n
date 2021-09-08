@@ -35,9 +35,6 @@ connection-proxy-http = Посредник за HTTP
     .accesskey = р
 connection-proxy-http-port = Порт
     .accesskey = П
-connection-proxy-http-sharing =
-    .label = Използвайте също този мрежов посредник за FTP и HTTPS
-    .accesskey = с
 
 connection-proxy-https-sharing =
     .label = Същия посредник и за HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = Посредник за HTTPS
     .accesskey = H
 connection-proxy-ssl-port = Порт
     .accesskey = о
-
-connection-proxy-ftp = Посредник за FTP
-    .accesskey = и
-connection-proxy-ftp-port = Порт
-    .accesskey = р
 
 connection-proxy-socks = Хост на SOCKS
     .accesskey = с
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Без посредник за
     .accesskey = Б
 
 connection-proxy-noproxy-desc = Например: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Връзките към localhost, 127.0.0.1 и ::1 никога не минават през мрежов посредник.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Връзките към localhost, 127.0.0.1/8 и ::1 никога не минават през мрежов посредник.

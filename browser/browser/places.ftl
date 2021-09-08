@@ -5,9 +5,6 @@
 places-open =
     .label = Отваряне
     .accesskey = О
-places-open-tab =
-    .label = Отваряне в раздел
-    .accesskey = д
 places-open-in-tab =
     .label = Отваряне в раздел
     .accesskey = н
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Отваряне на всички в раздели
     .accesskey = в
-places-open-window =
-    .label = Отваряне в прозорец
-    .accesskey = п
-places-open-private-window =
-    .label = Отваряне в поверителен прозорец
-    .accesskey = п
-
-places-new-bookmark =
-    .label = Нова отметка…
-    .accesskey = о
-places-new-folder-contextmenu =
-    .label = Нова папка…
-    .accesskey = п
-places-new-folder =
-    .label = Нова папка…
-    .accesskey = п
-places-new-separator =
-    .label = Нов разделител
-    .accesskey = р
 
 places-open-in-window =
     .label = Отваряне в прозорец
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Сортиране по име
     .accesskey = с
-places-properties =
-    .label = Свойства
-    .accesskey = С
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -134,3 +109,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Управление на отметки
     .accesskey = У
+

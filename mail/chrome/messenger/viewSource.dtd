@@ -19,10 +19,6 @@
 <!ENTITY savePageCmd.label "Запазване като…">
 <!ENTITY savePageCmd.accesskey "к">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Настройки на отпечатване…">
-<!ENTITY pageSetupCmd.accesskey "Н">
-<!ENTITY printPreviewCmd.label "Преглед преди отпечатване">
-<!ENTITY printPreviewCmd.accesskey "г">
 <!ENTITY printCmd.label "Отпечатване…">
 <!ENTITY printCmd.accesskey "п">
 <!ENTITY printCmd.commandkey "P">

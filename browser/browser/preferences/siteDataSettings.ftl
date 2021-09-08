@@ -30,14 +30,6 @@ site-data-remove-selected =
     .label = Премахване на избраните
     .accesskey = и
 
-site-data-button-cancel =
-    .label = Отказ
-    .accesskey = з
-
-site-data-button-save =
-    .label = Запазване
-    .accesskey = з
-
 site-data-settings-dialog =
     .buttonlabelaccept = Запазване
     .buttonaccesskeyaccept = з

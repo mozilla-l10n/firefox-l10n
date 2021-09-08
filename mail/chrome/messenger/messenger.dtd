@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Печат…">
 <!ENTITY printCmd.accesskey "П">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Преглед преди отпечатване">
-<!ENTITY printPreviewCmd.accesskey "г">
-<!ENTITY printSetupCmd.label "Настройки на отпечатване…">
-<!ENTITY printSetupCmd.accesskey "К">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Изтриване на писмото">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "п">
 <!ENTITY compactVersion.label "Компактен изглед">
 <!ENTITY compactVersion.accesskey "К">
-<!ENTITY folderPaneBar.label "Лента с инструменти за папки">
-<!ENTITY folderPaneBar.accesskey "л">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Подреждане по">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Адресник">
 <!ENTITY addressBookCmd.accesskey "А">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Добавки">
-<!ENTITY addons.accesskey "б">
-<!ENTITY addonPrefs.label "Настройки на добавки">
-<!ENTITY addonPrefs.accesskey "д">
-<!ENTITY addonPrefsUnix.label "Настройки на добавки">
-<!ENTITY addonPrefsUnix.accesskey "д">
 <!ENTITY addonNoPrefs.label "Не са намерени настройки на добавки.">
 <!ENTITY activitymanager.label "Управление на активността">
 <!ENTITY activitymanager.accesskey "в">
@@ -520,8 +508,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Дебъгване на добавки">
 <!ENTITY debugAddonsCmd.accesskey "д">
-<!ENTITY tabsDebugCmd.label "Дебъгер на съдържащата рамка">
-<!ENTITY tabsDebugCmd.accesskey "с">
 <!ENTITY errorConsoleCmd.label "Конзола за грешки">
 <!ENTITY errorConsoleCmd.accesskey "н">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -545,15 +531,11 @@
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Препращане">
 <!ENTITY deleteItem.title "Изтриване">
-<!ENTITY deleteButton.label "Изтриване">
-<!ENTITY undeleteButton.label "Възстановяване">
 <!ENTITY markButton.label "Отбелязване">
 <!ENTITY printButton.label "Отпечатване">
 <!ENTITY stopButton.label "Стоп">
 <!ENTITY throbberItem.title "Индикатор за активност">
 <!ENTITY junkItem.title "Junk">
-<!ENTITY junkButton.label "Нежелана поща">
-<!ENTITY notJunkButton.label "Нежелана поща">
 <!ENTITY addressBookButton.label "Адресник">
 <!ENTITY chatButton.label "Разговори">
 <!ENTITY glodaSearch.title "Всеобщо търсене">
@@ -585,19 +567,14 @@
 <!ENTITY previousMsgButton.tooltip "Назад към предишното непрочетено писмо">
 <!ENTITY goForwardButton.tooltip "Напред едно писмо">
 <!ENTITY goBackButton.tooltip "Назад едно писмо">
-<!ENTITY deleteButton.tooltip "Изтриване на избрано писмо или папка">
-<!ENTITY undeleteButton.tooltip "Възстановяване на изтритите писма">
 <!ENTITY markButton.tooltip "Отбелязване на писмата">
 <!ENTITY printButton.tooltip "Отпечатване на писмото">
 <!ENTITY stopButton.tooltip "Прекратяване на текущия трансфер">
-<!ENTITY junkButton.tooltip "Отбелязване на избраните писма като нежелани">
-<!ENTITY notJunkButton.tooltip "Отбелязване на избраните писма като желани">
 <!ENTITY addressBookButton.tooltip "Отваряне на адресника">
 <!ENTITY chatButton.tooltip "Показване на раздела за разговори">
 <!ENTITY tagButton.tooltip "Поставяне на етикети">
 <!ENTITY compactButton.tooltip "Премахване на изтритите писма от избраната папка">
 <!ENTITY appmenuButton1.tooltip "Показване на менюто на &brandShortName;">
-<!ENTITY addonsButton.tooltip "Управление на добавки">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Препращане като вложено">

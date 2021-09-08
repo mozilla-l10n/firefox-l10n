@@ -6,9 +6,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = Премахва полето { $type }
-
-#   $type (String) - the type of the addressing row
 remove-address-row-button =
     .title = Премахва полето { $type }
 
@@ -96,18 +93,6 @@ attachment-bucket-count =
        *[other] { $count } прикачени файла
     }
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext =
-        { $count ->
-            [one] { $count } прикачен файл
-           *[other] { $count } прикачени файла
-        }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 expand-attachment-pane-tooltip =
     .tooltiptext = Показва лентата с прикачени файлове ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
@@ -140,6 +125,8 @@ move-attachment-last-panel-button =
 button-return-receipt =
     .label = Разписка
     .tooltiptext = Връща потвърждение от получателя, когато отвори писмото, подобно на обратна разписка
+
+# Encryption
 
 # Addressing Area
 
@@ -184,6 +171,7 @@ bcc-compose-show-address-row-label =
 
 #   $count (Number) - the count of addresses in the "To" and "Cc" fields.
 many-public-recipients-info = { $count } получатели в До и Копие ще виждат адресите си. Можете да избегнете разкриване на получателите като вместо това използвате Скрито копие.
+
 
 many-public-recipients-bcc =
     .label = Използване на Скрито копие

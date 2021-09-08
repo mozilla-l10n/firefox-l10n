@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Премахване на всички страници
     .accesskey = р
 
-translation-button-close =
-    .label = Затваряне
-    .accesskey = З
-
 translation-dialog =
     .buttonlabelaccept = Затваряне
     .buttonaccesskeyaccept = З

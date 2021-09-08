@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Затваряне
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Настройки
-           *[other] Настройки
-        }
-
 pane-compose-title = Съставяне
 category-compose =
     .tooltiptext = Съставяне
@@ -95,10 +88,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Нагласяване…
     .accesskey = Н
-
-tray-icon-label =
-    .label = Показване на tray иконка
-    .accesskey = t
 
 mail-custom-sound-label =
     .label = Използване на следния звуков файл
@@ -282,9 +271,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Цвят:
     .accesskey = я
-
-search-input =
-    .placeholder = Търсене
 
 type-column-label =
     .label = Вид съдържание
@@ -555,16 +541,6 @@ passwords-button =
     .label = Запазени пароли…
     .accesskey = З
 
-master-password-description = Главната парола защитава останалите пароли, поради което трябва да да бъде въвеждана само веднъж на сесия.
-
-master-password-label =
-    .label = Използване на главна парола
-    .accesskey = И
-
-master-password-button =
-    .label = Промяна на главна парола…
-    .accesskey = П
-
 
 junk-description = Установете началните настройки за нежеланите писма. Специфичните за всяка регистрация настройки могат да се направят в Настройки на регистрацията.
 
@@ -723,10 +699,6 @@ no-preview-description = Темата е непълна или временно 
 chat-variant-label =
     .value = Вариант:
     .accesskey = В
-
-chat-header-label =
-    .label = Показване на заглавен ред
-    .accesskey = з
 
 ## Preferences UI Search Results
 

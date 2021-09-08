@@ -7,20 +7,12 @@ about-logins-page-title = Регистрации и пароли
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Вземете паролите си навсякъде
-login-app-promo-subtitle = Изтеглете свободното приложение { -lockwise-brand-name }
-login-app-promo-android =
-    .alt = Изтеглете от Google Play
-login-app-promo-apple =
-    .alt = Изтеглете от App Store
-
 login-filter =
     .placeholder = Търсене на регистрация
 
 create-login-button = Нова регистрация
 
 fxaccounts-sign-in-text = Вземете паролите си на всички ваши устройства
-fxaccounts-sign-in-button = Вписване в { -sync-brand-short-name }
 fxaccounts-sign-in-sync-button = Вписване в Sync
 fxaccounts-avatar-button =
     .title = Управление на сметката
@@ -40,8 +32,6 @@ menu-menuitem-preferences =
        *[other] Настройки
     }
 about-logins-menu-menuitem-help = Помощ
-menu-menuitem-android-app = { -lockwise-brand-short-name } за Android
-menu-menuitem-iphone-app = { -lockwise-brand-short-name } за iPhone и iPad
 
 ## Login List
 
@@ -72,14 +62,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
-login-intro-heading = Търсите запазените си данни за вход? Настройте { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out2 = Търсите запазените си регистрации? Включете синхронизирането или ги внесете.
 about-logins-login-intro-heading-logged-in = Не са намерени синхронизирани регистрации.
 login-intro-description = Ако сте запазили данните си за вход в { -brand-product-name } на друго устройство, ето как да ги вземете тук:
-login-intro-instruction-fxa = Създайте или влезте в своята { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
-login-intro-instruction-fxa-settings = Уверете се, че сте отметнали квадратчето за входни данни в настройките на { -sync-brand-short-name }
-about-logins-intro-instruction-help = Посетете <a data-l10n-name="help-link">Поддръжка за { -lockwise-brand-short-name }</a> за повече помощ.
 login-intro-instructions-fxa = Създайте или влезте в своята { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
 login-intro-instructions-fxa-settings = Отидете в "Настройки" > Sync > Включване на синхронизиране… Изберете отметката за регистрации и пароли.
 login-intro-instructions-fxa-help = Посетете <a data-l10n-name="help-link">Поддръжка за { -lockwise-brand-short-name }</a> за повече помощ.
@@ -135,8 +120,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = копира запа
 
 ## Master Password notification
 
-master-password-notification-message = Моля, въведете главната си парола, за да видите запазените входни данни и пароли
-
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = изнасяне на запазени регистрации и пароли
@@ -149,22 +132,6 @@ master-password-reload-button =
     .accesskey = в
 
 ## Password Sync notification
-
-enable-password-sync-notification-message =
-    { PLATFORM() ->
-        [windows] Искате вашите данни за вход навсякъде, където използвате { -brand-product-name }? Отворете настройките на { -sync-brand-short-name } и изберете отметката пред „данни за вход“.
-       *[other] Искате вашите данни за вход навсякъде, където използвате { -brand-product-name }? Отворете настройките на { -sync-brand-short-name } и изберете отметката пред „данни за вход“.
-    }
-enable-password-sync-preferences-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Настройки на { -sync-brand-short-name }
-           *[other] Настройки на { -sync-brand-short-name }
-        }
-    .accesskey = т
-about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Спиране на този въпрос
-    .accesskey = п
 
 ## Dialogs
 

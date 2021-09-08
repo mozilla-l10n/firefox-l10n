@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "щ">
 <!ENTITY aboutProduct2.label "Относно &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "о">
-<!ENTITY helpTroubleshootingInfo.label     "Отстраняване на неизправности">
-<!ENTITY helpTroubleshootingInfo.accesskey "о">
-<!ENTITY helpSafeMode.label     "Рестартиране с изключени добавки…">
-<!ENTITY helpSafeMode.accesskey "Р">
-<!ENTITY helpSafeMode.stop.label     "Рестартиране с включени добавки">
-<!ENTITY helpSafeMode.stop.accesskey "р">
 <!ENTITY productHelp.label "Помощ за &brandShortName;">
 <!ENTITY productHelp.accesskey "п">
 <!ENTITY productHelp.commandkey "VK_F1">

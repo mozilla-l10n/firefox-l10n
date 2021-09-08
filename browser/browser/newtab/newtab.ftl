@@ -9,9 +9,6 @@ newtab-page-title = Нов раздел
 newtab-settings-button =
     .title = Настройки на новия раздел
 
-newtab-personalize-button-label = Приспособяване
-    .title = Приспособяване на новите раздели
-    .aria-label = Приспособяване на новите раздели
 newtab-personalize-icon-label =
     .title = Приспособяване на новите раздели
     .aria-label = Приспособяване на новите раздели
@@ -24,8 +21,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Търсене
     .aria-label = Търсене
-
-newtab-search-box-search-the-web-text = Търсене в интернет
 
 # Variables
 #  $engine (String): the name of the user's default search engine
@@ -266,10 +261,4 @@ newtab-custom-recent-title = Последна активност
 newtab-custom-recent-subtitle = Избрани страници и съдържание
 newtab-custom-close-button = Затваряне
 
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Изрезки
-newtab-custom-snippets-subtitle = Съвети и новини от { -vendor-short-name } и { -brand-product-name }
 newtab-custom-settings = Настройки
