@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-   %brandDTD;
-<!ENTITY aboutLogins.title                       "Takhn ki'h u'kan">
-<!ENTITY aboutLogins.update                      "Yu'pten">
-<!ENTITY aboutLogins.emptyLoginText              "Ji'phun idxa's puphna pkhakhen takhya'. ">
-<!ENTITY aboutLogins.emptyLoginHint              "Takhna pkakhen vxite mjĩini yase's ki'h jxawna vxisna &brandShortName; ayte vxiana. ">
