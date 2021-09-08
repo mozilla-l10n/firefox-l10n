@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Sans Serif
 
-font-size-label =
-    .value = Boyut:
-    .accesskey = B
-
 font-size-proportional-label =
     .value = Boyut:
     .accesskey = B

@@ -43,10 +43,6 @@
 <!ENTITY sendLaterCmd.accesskey "a">
 <!-- Edit menu items -->
 
-<!ENTITY editRewrapCmd.label "Yeniden kaydır">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "e">
-
 <!ENTITY accountManagerCmd.label "Posta ve haber grupları ayarları…">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!-- View menu items -->

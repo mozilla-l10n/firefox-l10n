@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Yazdır…">
 <!ENTITY printCmd.accesskey "r">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Yazdırma ön izleme">
-<!ENTITY printPreviewCmd.accesskey "Y">
-<!ENTITY printSetupCmd.label "Sayfa düzeni…">
-<!ENTITY printSetupCmd.accesskey "a">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "İletiyi sil">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "E">
 <!ENTITY compactVersion.label "Yoğun görünüm">
 <!ENTITY compactVersion.accesskey "Y">
-<!ENTITY folderPaneBar.label "Dizin bölmesi araç çubuğu">
-<!ENTITY folderPaneBar.accesskey "D">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sıralama koşulu">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Adres defteri">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Eklentiler">
-<!ENTITY addons.accesskey "E">
-<!ENTITY addonPrefs.label "Eklenti seçenekleri">
-<!ENTITY addonPrefs.accesskey "E">
-<!ENTITY addonPrefsUnix.label "Eklenti tercihleri">
-<!ENTITY addonPrefsUnix.accesskey "t">
 <!ENTITY addonNoPrefs.label "Hiç eklenti ayarı bulunamadı.">
 <!ENTITY activitymanager.label "Etkinlik yöneticisi">
 <!ENTITY activitymanager.accesskey "Y">
@@ -521,8 +509,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Eklentilerde hata ayıkla">
 <!ENTITY debugAddonsCmd.accesskey "h">
-<!ENTITY tabsDebugCmd.label "İçerik çerçevesi hata ayıklayıcısı">
-<!ENTITY tabsDebugCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.label "Hata konsolu">
 <!ENTITY errorConsoleCmd.accesskey "k">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -546,15 +532,11 @@
 <!ENTITY backButton1.label "Geri">
 <!ENTITY goForwardButton1.label "İleri">
 <!ENTITY deleteItem.title "Sil">
-<!ENTITY deleteButton.label "Sil">
-<!ENTITY undeleteButton.label "Silmeyi geri al">
 <!ENTITY markButton.label "İşaretle">
 <!ENTITY printButton.label "Yazdır">
 <!ENTITY stopButton.label "Durdur">
 <!ENTITY throbberItem.title "Etkinlik göstergesi">
 <!ENTITY junkItem.title "Gereksiz">
-<!ENTITY junkButton.label "Gereksiz">
-<!ENTITY notJunkButton.label "Gereksiz değil">
 <!ENTITY addressBookButton.label "Adres defteri">
 <!ENTITY chatButton.label "Sohbet">
 <!ENTITY glodaSearch.title "Global arama">
@@ -586,19 +568,14 @@
 <!ENTITY previousMsgButton.tooltip "Önceki iletiye git">
 <!ENTITY goForwardButton.tooltip "Bir sonraki iletiye gider">
 <!ENTITY goBackButton.tooltip "Bir önceki iletiye gider">
-<!ENTITY deleteButton.tooltip "Seçilmiş iletiyi veya dizini sil">
-<!ENTITY undeleteButton.tooltip "İşaretlenmiş silinen iletiyi geri al">
 <!ENTITY markButton.tooltip "İletileri işaretle">
 <!ENTITY printButton.tooltip "Bu iletiyi yazdır">
 <!ENTITY stopButton.tooltip "Şu anki aktarımı durdur">
-<!ENTITY junkButton.tooltip "Seçili iletileri gereksiz olarak işaretle">
-<!ENTITY notJunkButton.tooltip "Seçilen iletileri gereksiz değil olarak işaretle">
 <!ENTITY addressBookButton.tooltip "Adres defterine git">
 <!ENTITY chatButton.tooltip "Sohbet sekmesini göster">
 <!ENTITY tagButton.tooltip "İletileri etiketle">
 <!ENTITY compactButton.tooltip "Seçilen dizinden silinmiş iletileri kaldır">
 <!ENTITY appmenuButton1.tooltip "&brandShortName; menüsünü göster">
-<!ENTITY addonsButton.tooltip "Eklentinizi yönetin">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Satır içi olarak ilet">

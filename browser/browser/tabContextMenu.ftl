@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Sekmeyi yer imlerine ekle
     .accesskey = i
-reopen-in-container =
-    .label = Kapsayıcıda yeniden aç
-    .accesskey = K
 tab-context-open-in-new-container-tab =
     .label = Yeni kapsayıcı sekmede aç
     .accesskey = k
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Birden çok sekmeyi kapat
     .accesskey = B
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Kapatılan sekmeyi aç
-            [one] Kapatılan sekmeyi aç
-           *[other] Kapatılan sekmeleri aç
-        }
-    .accesskey = l
-close-tab =
-    .label = Sekmeyi kapat
-    .accesskey = e
-close-tabs =
-    .label = Sekmeleri kapat
-    .accesskey = S
-move-tabs =
-    .label = Sekmeleri taşı
-    .accesskey = t
-move-tab =
-    .label = Sekmeyi taşı
-    .accesskey = t
 tab-context-share-url =
     .label = Paylaş
     .accesskey = P
@@ -130,6 +107,7 @@ tab-context-move-tabs =
            *[other] Sekmeleri taşı
         }
     .accesskey = t
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

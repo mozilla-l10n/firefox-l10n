@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Tüm siteleri kaldır
     .accesskey = i
 
-translation-button-close =
-    .label = Kapat
-    .accesskey = K
-
 translation-dialog =
     .buttonlabelaccept = Kapat
     .buttonaccesskeyaccept = K

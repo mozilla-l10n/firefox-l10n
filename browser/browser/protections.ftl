@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Nasıl çalışır?
 
-turn-on-sync = { -sync-brand-short-name }’i etkinleştir…
-    .title = Eşitleme tercihlerine git
-
 monitor-title = Veri hırsızlıklarından haberiniz olsun
 monitor-link = Nasıl çalışır?
 monitor-header-content-no-account = Bilinen veri ihlallerinde bilgilerinizin çalınıp çalınmadığını öğrenmek ve yeni ihlallerden haberdar olmak için { -monitor-brand-name }’ü ziyaret edin.

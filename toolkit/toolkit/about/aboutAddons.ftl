@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Eklenti Yöneticisi
-
 addons-page-title = Eklenti Yöneticisi
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Eklenti Desteği
 sidebar-help-button-title =
     .title = Eklenti Desteği
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } Seçenekleri
-       *[other] { -brand-short-name } Tercihleri
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } Seçenekleri
-           *[other] { -brand-short-name } Tercihleri
-        }
-
 addons-settings-button = { -brand-short-name } Ayarları
 sidebar-settings-button-title =
     .title = { -brand-short-name } Ayarları
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Tüm uzantıları göster
-
-cmd-show-details =
-    .label = Daha fazla bilgi ver
-    .accesskey = v
-
-cmd-find-updates =
-    .label = Güncellemeleri bul
-    .accesskey = c
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Seçenekler
-           *[other] Tercihler
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] T
-        }
-
-cmd-enable-theme =
-    .label = Tema kullan
-    .accesskey = T
-
-cmd-disable-theme =
-    .label = Tema kullanma
-    .accesskey = e
-
-cmd-install-addon =
-    .label = Kur
-    .accesskey = u
-
-cmd-contribute =
-    .label = Katkıda bulun
-    .accesskey = u
-    .tooltiptext = Bu eklentinin geliştirilmesine katkıda bulun
 
 detail-version =
     .label = Sürüm
@@ -396,8 +344,6 @@ dictionary-disabled-heading = Devre dışı
 
 locale-enabled-heading = Etkin
 locale-disabled-heading = Devre dışı
-
-ask-to-activate-button = Etkinleştirmek için sor
 
 always-activate-button = Her zaman etkinleştir
 never-activate-button = Asla etkinleştirme

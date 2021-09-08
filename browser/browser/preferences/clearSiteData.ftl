@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Web sitelerinin resim ve verileri yeniden yüklemesi gerekir
 
-clear-site-data-cancel =
-    .label = Vazgeç
-    .accesskey = z
-
-clear-site-data-clear =
-    .label = Temizle
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = Temizle
     .buttonaccesskeyaccept = l

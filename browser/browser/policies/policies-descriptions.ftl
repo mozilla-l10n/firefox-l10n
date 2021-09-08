@@ -65,8 +65,6 @@ policy-DisableForgetButton = Unut düğmesine erişimi engelle.
 
 policy-DisableFormHistory = Arama ve form geçmişini hatırlama.
 
-policy-DisableMasterPasswordCreation = true ise ana parola oluşturulamaz.
-
 policy-DisablePrimaryPasswordCreation = True olarak ayarlanırsa ana parola oluşturulamaz.
 
 policy-DisablePasswordReveal = Kayıtlı hesaplardaki parolaların görüntülenmesine izin verme.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Belirtilen sitelerdeki
 policy-LocalFileLinks = Belirli web sitelerinin yerel dosyalara bağlantı vermesine izin ver.
 
 policy-ManagedBookmarks = Yönetici tarafından yönetilen ve kullanıcı tarafından değiştirilemeyen yer imlerinin listesini yapılandır.
-
-policy-MasterPassword = Ana parola kullanılmasını zorunlu tut veya yasakla.
 
 policy-ManualAppUpdateOnly = Yalnızca elle güncellemeye izin ver ve kullanıcıyı güncellemeler hakkında bilgilendirme.
 

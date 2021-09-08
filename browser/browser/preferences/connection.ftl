@@ -35,9 +35,6 @@ connection-proxy-http = HTTP vekil sunucusu
     .accesskey = p
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = FTP ve HTTPS için de bu vekil sunucusunu kullan
-    .accesskey = F
 
 connection-proxy-https-sharing =
     .label = HTTPS için de bu vekil sunucusunu kullan
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS vekil sunucusu
     .accesskey = H
 connection-proxy-ssl-port = Port
     .accesskey = o
-
-connection-proxy-ftp = FTP vekil sunucusu
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = r
 
 connection-proxy-socks = SOCKS sunucusu
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Aşağıdakiler için vekil sunucu kullanılmasın
     .accesskey = A
 
 connection-proxy-noproxy-desc = Örnek: .mozilla.org, .com.tr, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Localhost, 127.0.0.1 ve ::1 ile olan bağlantılar asla vekil sunucudan geçmez.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Localhost, 127.0.0.1/8, ve ::1 ile olan bağlantılar asla vekil sunucudan geçmez.

@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Önceki uçtan uca şifrelenmiş görüşmelerin OTR anahtar parmak izleri.
 
-finger-screenName =
-    .label = Kişi
-
 finger-screen-name =
     .label = Kişi
 finger-verified =

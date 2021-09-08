@@ -9,3 +9,4 @@ compact-dialog =
     .buttonaccesskeycancel = h
     .buttonlabelextra1 = Daha fazla bilgi al…
     .buttonaccesskeyextra1 = a
+

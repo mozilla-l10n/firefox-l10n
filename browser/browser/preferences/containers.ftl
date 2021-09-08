@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Yeni kapsayıcı ekle
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } Kapsayıcısı Tercihleri
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Simge
 containers-color-label = Renk
     .accesskey = R
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Tamam
-    .accesskey = m
 
 containers-dialog =
     .buttonlabelaccept = Tamam

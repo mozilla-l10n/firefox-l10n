@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Kapat
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Seçenekler
-           *[other] Tercihler
-        }
-
 preferences-doc-title = Tercihler
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Vazgeç
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Devam et
 
-addons-button = Uzantılar ve temalar
-
 account-button = Hesap Ayarları
 open-addons-sidebar-button = Eklentiler ve Temalar
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Ana parola oluşturmak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = ana parola oluşturma
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Ana parola oluşturmak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
@@ -223,10 +205,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Özelleştir…
     .accesskey = z
-
-tray-icon-label =
-    .label = Bildirim alanında simge göster
-    .accesskey = a
 
 biff-use-system-alert =
     .label = Sistem bildirimini kullan
@@ -425,9 +403,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Renk:
     .accesskey = n
-
-search-input =
-    .placeholder = Ara
 
 search-handler-table =
     .placeholder = İçerik türlerini ve eylemleri filtrele
@@ -719,16 +694,6 @@ passwords-button =
     .label = Kayıtlı parolalar…
     .accesskey = K
 
-master-password-description = Ana parola bütün parolalarınızı korur. Her oturumda ana parolayı bir kez yazmanız gerekir.
-
-master-password-label =
-    .label = Ana parola kullan
-    .accesskey = A
-
-master-password-button =
-    .label = Ana parolayı değiştir…
-    .accesskey = n
-
 
 primary-password-description = Ana parola bütün parolalarınızı korur. Her oturumda ana parolayı bir kez yazmanız gerekir.
 
@@ -909,26 +874,6 @@ no-preview-description = Bu tema geçersiz veya şu anda kullanılamıyor (devre
 chat-variant-label =
     .value = Varyant:
     .accesskey = V
-
-chat-header-label =
-    .label = Başlığı göster
-    .accesskey = B
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Seçeneklerde ara
-           *[other] Tercihlerde ara
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

@@ -6,9 +6,6 @@ password-quality-meter = Parola kalite ölçümü
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Ana parolayı değiştir
-
 change-device-password-window =
     .title = Parola değiştir
 
@@ -20,10 +17,6 @@ change-password-new = Yeni parola:
 change-password-reenter = Yeni parola (tekrar):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Ana Parolayı Sıfırla
-    .style = width: 40em
 
 pippki-failed-pw-change = Parola değiştirilemedi.
 pippki-incorrect-pw = Mevcut parolanızı doğru şekilde girmediniz. Lütfen tekrar deneyin.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Sıfırla
-reset-password-text = Ana parolanızı sıfırlarsanız tüm kayıtlı web ve e-posta parolalarınız, form verileriniz, kişisel sertifikalarınız ve özel anahtarlarınız silinecektir. Ana parolanızı sıfırlamak istediğinizden emin misiniz?
 
 reset-primary-password-text = Ana parolanızı sıfırlarsanız tüm kayıtlı web ve e-posta parolalarınız, kişisel sertifikalarınız ve özel anahtarlarınız silinecektir. Ana parolanızı sıfırlamak istediğinizden emin misiniz?
 

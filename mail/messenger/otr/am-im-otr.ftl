@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR Ayarları
 otr-log =
     .label = Görüşme günlüklerine OTR şifrelemeli iletileri dahil et
-otr-requireEncryption =
-    .label = Bire bir görüşmeler için uçtan uca şifrelemeyi zorunlu tut
-otr-verifyNudge =
-    .label = Doğrulanmamış kişileri doğrulamamı her zaman hatırlat
-
-otr-notYetAvailable = henüz mevcut değil
 
 otr-require-encryption =
     .label = Bire bir görüşmeler için uçtan uca şifrelemeyi zorunlu tut

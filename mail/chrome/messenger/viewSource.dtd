@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Sayfayı farklı kaydet…">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Sayfa düzeni…">
-<!ENTITY pageSetupCmd.accesskey "f">
-<!ENTITY printPreviewCmd.label "Yazdırma ön izleme">
-<!ENTITY printPreviewCmd.accesskey "z">
 <!ENTITY printCmd.label "Yazdır…">
 <!ENTITY printCmd.accesskey "Y">
 <!ENTITY printCmd.commandkey "P">
