@@ -5,6 +5,4 @@
 privatebrowsingpage-open-private-window-label = Foshil Uinnag Preevaadjagh
     .accesskey = P
 about-private-browsing-search-placeholder = Shir er linney
-about-private-browsing =
-    .title = Shir er linney
 

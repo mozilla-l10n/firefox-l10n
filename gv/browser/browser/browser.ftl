@@ -66,6 +66,8 @@
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+## Labels shown above groups of urlbar results
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -90,4 +92,11 @@
 ## Add-on removal warning
 
 ## Remote / Synced tabs
+
+##
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+##
 
