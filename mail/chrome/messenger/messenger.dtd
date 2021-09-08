@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Tisk…">
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Náhled tisku">
-<!ENTITY printPreviewCmd.accesskey "h">
-<!ENTITY printSetupCmd.label "Vzhled stránky…">
-<!ENTITY printSetupCmd.accesskey "V">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Smazat zprávu">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "P">
 <!ENTITY compactVersion.label "Kompaktní zobrazení">
 <!ENTITY compactVersion.accesskey "K">
-<!ENTITY folderPaneBar.label "Nástroje panelů složek">
-<!ENTITY folderPaneBar.accesskey "a">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Seřadit podle">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Kontakty">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Doplňky">
-<!ENTITY addons.accesskey "D">
-<!ENTITY addonPrefs.label "Nastavení doplňku">
-<!ENTITY addonPrefs.accesskey "o">
-<!ENTITY addonPrefsUnix.label "Předvolby doplňku">
-<!ENTITY addonPrefsUnix.accesskey "o">
 <!ENTITY addonNoPrefs.label "Nebyla nalezena žádná nastavení doplňku.">
 <!ENTITY activitymanager.label "Správce aktivit">
 <!ENTITY activitymanager.accesskey "k">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Ladit doplňky">
 <!ENTITY debugAddonsCmd.accesskey "L">
-<!ENTITY tabsDebugCmd.label "Debugger obsahu rámců">
-<!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Chybová konzole">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Zpět">
 <!ENTITY goForwardButton1.label "Vpřed">
 <!ENTITY deleteItem.title "Smazat">
-<!ENTITY deleteButton.label "Smazat">
-<!ENTITY undeleteButton.label "Obnovit">
 <!ENTITY markButton.label "Označit">
 <!ENTITY printButton.label "Tisk">
 <!ENTITY stopButton.label "Zastavit">
 <!ENTITY throbberItem.title "Indikátor aktivity">
 <!ENTITY junkItem.title "Nevyžádané">
-<!ENTITY junkButton.label "Nevyžádané">
-<!ENTITY notJunkButton.label "Není nevyžádaná">
 <!ENTITY addressBookButton.label "Kontakty">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Globální hledání">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "Přejde na předcházející zprávu">
 <!ENTITY goForwardButton.tooltip "Přejde o jednu zprávu vpřed">
 <!ENTITY goBackButton.tooltip "Přejde o jednu zprávu vzad">
-<!ENTITY deleteButton.tooltip "Smaže označené zprávy nebo složky">
-<!ENTITY undeleteButton.tooltip "Obnoví označenou smazanou zprávu">
 <!ENTITY markButton.tooltip "Označí zprávu">
 <!ENTITY printButton.tooltip "Vytiskne zprávu">
 <!ENTITY stopButton.tooltip "Ukončí probíhající spojení">
-<!ENTITY junkButton.tooltip "Označí vybrané zprávy jako nevyžádané">
-<!ENTITY notJunkButton.tooltip "Označí vybrané zprávy jako běžné">
 <!ENTITY addressBookButton.tooltip "Přejde do Kontaktů">
 <!ENTITY chatButton.tooltip "Zobrazí panel chatu">
 <!ENTITY tagButton.tooltip "Přidá štítek">
 <!ENTITY compactButton.tooltip "Ze zvolené složky odstraní smazané zprávy">
 <!ENTITY appmenuButton1.tooltip "Zobrazí nabídku aplikace &brandShortName;">
-<!ENTITY addonsButton.tooltip "Spravujte své doplňky">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Přeposlat jako vložené">

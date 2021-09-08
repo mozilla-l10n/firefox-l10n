@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Přidat panel do záložek
     .accesskey = P
-reopen-in-container =
-    .label = Otevřít v kontejnerovém panelu
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Otevřít v novém kontejnerovém panelu
     .accesskey = e
@@ -69,27 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Zavřít několik panelů
     .accesskey = k
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Obnovit zavřený panel
-            [one] Obnovit zavřený panel
-            [few] Obnovit zavřené panely
-           *[other] Obnovit zavřené panely
-        }
-    .accesskey = t
-close-tab =
-    .label = Zavřít panel
-    .accesskey = Z
-close-tabs =
-    .label = Zavřít panely
-    .accesskey = Z
-move-tabs =
-    .label = Přesunout panely
-    .accesskey = s
-move-tab =
-    .label = Přesunout panel
-    .accesskey = s
 tab-context-share-url =
     .label = Sdílet
     .accesskey = S
@@ -133,6 +109,7 @@ tab-context-move-tabs =
            *[other] { $tabCount } panelů
         }
     .accesskey = s
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

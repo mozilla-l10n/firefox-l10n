@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = Odebrat všechny servery
     .accesskey = e
 
-translation-button-close =
-    .label = Zavřít
-    .accesskey = Z
-
 translation-dialog =
     .buttonlabelaccept = Zavřít
     .buttonaccesskeyaccept = Z

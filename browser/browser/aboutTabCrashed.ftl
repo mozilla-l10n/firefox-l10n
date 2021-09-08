@@ -19,19 +19,9 @@ crashed-request-help-message =
        *[other] aplikaci { -brand-short-name }
     } dále zlepšovat.
 crashed-request-report-title = Nahlásit tento panel
-crashed-send-report = Odesílat hlášení o pádech automaticky pro opravu podobných problémů.
 crashed-send-report-2 = Odesílat hlášení o pádech automaticky pro opravu podobných problémů
 crashed-comment =
     .placeholder = Přidat komentář (komentáře jsou veřejně dostupné)
-crashed-include-URL =
-    Zahrnout URL adresy stránek, na kterých jste byli v okamžiku pádu { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }.
-crashed-email-placeholder = Zde zadejte svou e-mailovou adresu
-crashed-email-me = Informovat mě e-mailem, až bude k dispozici více informací
 crashed-include-URL-2 =
     Zahrnout URL adresy stránek, na kterých jste byli v okamžiku pádu { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -47,13 +37,6 @@ crashed-report-sent =
        *[other] aplikaci { -brand-short-name }
     } vylepšovat!
 crashed-request-auto-submit-title = Nahlásit panely na pozadí
-crashed-auto-submit-checkbox =
-    Aktualizovat předvolby pro automatické odesílání pádů { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }.
 crashed-auto-submit-checkbox-2 =
     Aktualizovat předvolby pro automatické odesílání pádů { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }

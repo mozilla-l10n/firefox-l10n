@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Připojit další zařízení
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Pokud jste tak ještě neučinili, <a data-l10n-name="connect-another-device">nainstalujte si Firefox na své mobilní zařízení</a>.
-
-fxa-qrcode-heading-phase2 = 2. Následně se přihlaste k { -sync-brand-short-name(case: "dat") }, nebo v Androidu naskenujte párovací kód z nastavení { -sync-brand-short-name(case: "dat") }.
-
 fxa-qrcode-heading-step1 = 1. Pokud jste tak ještě neučinili, <a data-l10n-name="connect-another-device">nainstalujte si Firefox na své mobilní zařízení</a>.
 
 fxa-qrcode-heading-step2 = 2. Otevřete Firefox na svém mobilním zařízení.

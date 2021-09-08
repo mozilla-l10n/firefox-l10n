@@ -129,10 +129,6 @@ openpgp-key-send-key =
     .label = Poslat veřejný klíč e-mailem
     .accesskey = m
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Kopírovat veřejný klíč do schránky
-    .accesskey = K
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -162,8 +158,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportovat klíče do souboru
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Kopírovat veřejné klíče do schránky
 
 openpgp-key-man-ctx-copy =
     .label = Kopírovat
@@ -319,14 +313,6 @@ openpgp-description =
        *[other] Thunderbird našel { $count } osobních klíčů OpenPGP
     } pro <b>{ $identity }</b>
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Pro povolení protokolu OpenPGP vyberte platný klíč.
-       *[other] Vaše současná konfigurace používá klíč s ID <b>{ $key }</b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = Vaše současná konfigurace používá klíč s ID <b>{ $key }</b>
 
@@ -365,14 +351,8 @@ openpgp-radio-key-not-found =
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Datum konce platnosti: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = Platnost klíče skončí za méně než 6 měsíců
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Platnost skončila dne { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Platnost klíče skončila
 
 openpgp-key-expires-within-6-months-icon =
     .title = Platnost klíče skončí za méně než 6 měsíců
@@ -702,7 +682,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Nastavili jste zalamování řádků na { $width } znaků. Pro správné šifrování a podepisování musí být tato hodnota nejméně 68.
     Přejete si nyní změnit zalamování řádků na 68 znaků?
-sending-hidden-rcpt = Při odesílání zašifrované zprávy nelze použít adresáty pro skrytou kopii. Aby mohla být tato zpráva odeslána šifrovaně, buď adresáty pro skrytou kopii odeberte, nebo je přesuňte do pole pro běžnou kopii.
 sending-news =
     Odesílání zašifrované zprávy bylo přerušeno.
     Tato zpráva nemůže být šifrována, protože obsahuje adresáty z diskuzní skupiny. Odešlete prosím zprávu bez šifrování.
@@ -774,9 +753,6 @@ enig-info = Informace - OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Opakovat
 dlg-button-skip = &Přeskočit
-
-# Strings used in enigmailCommon.js
-enig-error = Chyba OpenPGP
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

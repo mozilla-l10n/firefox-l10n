@@ -4,12 +4,6 @@
 
 <!-- extracted from ./customize.xul -->
 
-<!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "Přizpůsobit lištu &sidebarName;">
-<!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Panely v liště &sidebarName;:">
-<!ENTITY sidebar.customize.current.accesskey    "P">
-
 <!ENTITY sidebar.customize.title                "Přizpůsobit postranní lištu">
 <!ENTITY sidebar.customize.current2.label       "Panely v postranní liště:">
 <!ENTITY sidebar.customize.current2.accesskey   "o">

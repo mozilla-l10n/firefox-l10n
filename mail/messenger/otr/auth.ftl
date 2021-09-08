@@ -19,9 +19,6 @@ auth-your-fp-value = Váš otisk ({ $own_name }):
 auth-their-fp-value = Otisk uživatele { $their_name }:
 
 auth-help = Ověření identity kontaktu pomáhá zajistit, že bude konverzace skutečně soukromá, a třetí straně velmi ztíží možnosti odposlechu nebo manipulaci s konverzací.
-auth-helpTitle = Pomoc s ověřením
-
-auth-questionReceived = Toto je otázka, kterou vám položil váš kontakt:
 
 auth-help-title = Pomoc s ověřením
 
@@ -34,21 +31,6 @@ auth-no =
     .label = Ne
 
 auth-verified = Ověřil jsem, že se opravdu jedná o správný otisk.
-
-auth-manualVerification = Ruční ověření otisku
-auth-questionAndAnswer = Otázka a odpověď
-auth-sharedSecret = Sdílené tajemství
-
-auth-manualVerification-label =
-    .label = { auth-manualVerification }
-
-auth-questionAndAnswer-label =
-    .label = { auth-questionAndAnswer }
-
-auth-sharedSecret-label =
-    .label = { auth-sharedSecret }
-
-auth-manualInstruction = Kontaktujte svůj zamýšlený protějšek ke konverzaci prostřednictvím jiného ověřeného kanálu, např. pomocí e-mailu podepsaného pomocí OpenPGP nebo telefonem. Měli byste si navzájem sdělit své otisky. (Otisk je kontrolní součet, který identifikuje šifrovací klíč.) Pokud otisk souhlasí, měli byste v dialogovém okně níže uvést, že jste otisk ověřili.
 
 auth-manual-verification = Ruční ověření otisku
 auth-question-and-answer = Otázka a odpověď
@@ -66,10 +48,6 @@ auth-shared-secret-label =
 auth-manual-instruction = Kontaktujte svůj zamýšlený protějšek ke konverzaci prostřednictvím jiného ověřeného kanálu, např. pomocí e-mailu podepsaného pomocí OpenPGP nebo telefonem. Měli byste si navzájem sdělit své otisky. (Otisk je kontrolní součet, který identifikuje šifrovací klíč.) Pokud otisk souhlasí, měli byste v dialogovém okně níže uvést, že jste otisk ověřili.
 
 auth-how = Jak byste chtěli ověřit identitu svého kontaktu?
-
-auth-qaInstruction = Vymyslete otázku, na kterou znáte odpověď jen vy a váš kontakt. Zadejte otázku i odpověď a poté počkejte, až odpověď zadá i váš kontakt. Pokud se odpovědi neshodují, může být komunikační kanál, který používáte, odposloucháván.
-
-auth-secretInstruction = Vymyslete tajemství, které znáte jen vy a váš kontakt. K výměně tohoto tajemství nepoužívejte stejné připojení k internetu. Zadejte tajemství a počkejte, až ho zadá i váš kontakt. Pokud se tajemství neshodují, může být komunikační kanál, který používáte, odposloucháván.
 
 auth-qa-instruction = Vymyslete otázku, na kterou znáte odpověď jen vy a váš kontakt. Zadejte otázku i odpověď a poté počkejte, až odpověď zadá i váš kontakt. Pokud se odpovědi neshodují, může být komunikační kanál, který používáte, odposloucháván.
 

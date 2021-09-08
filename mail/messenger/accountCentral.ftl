@@ -65,9 +65,6 @@ import-label = Importovat
 
 about-paragraph = Thunderbird je hlavní otevřený a multiplatformní e-mailový klient, který je zdarma pro osobní použití i pro firmy. Chceme, aby zůstal i nadále bezpečný a stále se zlepšoval. I díky vašim příspěvkům máme na platy vývojářů, údržbu infrastruktury a další vylepšování.
 
-about-paragraph-2 = <b>Thunderbird je financován uživateli, jako jste vy! Pokud se vám Thunderbird líbí, zvažte prosím možnost poskytnutí daru.</b> Nejlepší způsob, jak můžete zajistit, aby byl Thunderbird stále k dispozici, je
-about-donation = věnování peněžního daru
-
 about-paragraph-consider-donation = <b>Thunderbird je financován uživateli, jako jste vy! Pokud se vám Thunderbird líbí, zvažte prosím možnost poskytnutí daru.</b> Nejlepší způsob, jak můžete zajistit, aby byl Thunderbird stále k dispozici, je <a data-l10n-name="donation-link">věnování peněžního daru</a>.
 
 explore-link = Prozkoumejte všechny funkce

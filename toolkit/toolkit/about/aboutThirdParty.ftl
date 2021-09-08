@@ -19,9 +19,6 @@ third-party-intro =
        *[other] vaší aplikace { -brand-short-name }
     }. Za modul třetí strany je považovaný každý modul, který není podepsaný Microsoftem nebo { -vendor-short-name(case: "ins") }.
 
-third-party-header-module-list = Seznam modulů
-third-party-header-loading-events = Načítání událostí
-
 third-party-message-empty = Nebyly nalezeny žádné moduly třetích stran.
 third-party-message-no-duration = Nezaznamenáno
 

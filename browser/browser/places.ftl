@@ -5,9 +5,6 @@
 places-open =
     .label = Otevřít
     .accesskey = O
-places-open-tab =
-    .label = Otevřít v novém panelu
-    .accesskey = p
 places-open-in-tab =
     .label = Otevřít v novém panelu
     .accesskey = p
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Otevřít vše v panelech
     .accesskey = p
-places-open-window =
-    .label = Otevřít v novém okně
-    .accesskey = t
-places-open-private-window =
-    .label = Otevřít v novém anonymním okně
-    .accesskey = t
-
-places-new-bookmark =
-    .label = Nová záložka…
-    .accesskey = N
-places-new-folder-contextmenu =
-    .label = Nová složka…
-    .accesskey = s
-places-new-folder =
-    .label = Nová složka…
-    .accesskey = v
-places-new-separator =
-    .label = Nový oddělovač
-    .accesskey = d
 
 places-open-in-window =
     .label = Otevřít v novém okně
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Seřadit podle názvu
     .accesskey = S
-places-properties =
-    .label = Vlastnosti
-    .accesskey = V
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -137,3 +112,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Správa záložek
     .accesskey = S
+

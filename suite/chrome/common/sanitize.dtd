@@ -61,7 +61,6 @@
 <!ENTITY itemSessions.label               "Relace s autentizací">
 <!ENTITY itemSessions.accesskey           "R">
 
-<!ENTITY sanitizeButton.label            "Vymazat důvěrná data">
 <!ENTITY itemSessionsS.accesskey          "u">
 
 <!ENTITY itemSitePreferences.label        "Nastavení pro daný server">

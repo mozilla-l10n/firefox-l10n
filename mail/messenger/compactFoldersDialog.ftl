@@ -5,6 +5,7 @@
 compact-dialog-window =
     .title = Údržba složek
     .style = width: 50em;
+
 compact-dialog =
     .buttonlabelaccept = Provést údržbu
     .buttonaccesskeyaccept = P
@@ -12,6 +13,7 @@ compact-dialog =
     .buttonaccesskeycancel = o
     .buttonlabelextra1 = Zjistit více…
     .buttonaccesskeyextra1 = Z
+
 # Variables:
 #  $data (String): The amount of space to be freed, formatted byte, MB, GB, etc., based on the size.
 compact-dialog-message =
@@ -21,6 +23,8 @@ compact-dialog-message =
         [neuter] { -brand-short-name } v budoucnu dělalo
        *[other] aplikace { -brand-short-name } v budoucnu dělala
     } automaticky bez dotazování, před klepnutím na tlačítko ‘{ compact-dialog.buttonlabelaccept }’ zaškrtněte příslušné políčko níže.
+
 compact-dialog-never-ask-checkbox =
     .label = V budoucnu provádět údržbu složek automaticky
     .accesskey = a
+
