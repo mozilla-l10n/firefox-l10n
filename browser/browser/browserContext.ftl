@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = ഒരു താള്‍ പുറകോട്ട്‌ പോകുക
-    .aria-label = പുറകോട്ട്‌
-    .accesskey = B
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = ഒരു താള്‍ മുന്നോട്ട്‌ പോകുക
-    .aria-label = മുമ്പോട്ട്
-    .accesskey = F
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = താള്‍ ഇങ്ങനെ സൂക്ഷിക്കുക
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link =
@@ -137,10 +112,6 @@ main-context-menu-open-link-new-private-window =
     .label = കണ്ണി പുതിയ സ്വകാര്യ ജാലകത്തില്‍ തുറക്കുക
     .accesskey = ക
 
-main-context-menu-bookmark-this-link =
-    .label = ഈ കണ്ണി അടയാളപ്പെടുത്തുക
-    .accesskey = L
-
 main-context-menu-save-link =
     .label = കണ്ണി ഇങ്ങനെ സൂക്ഷിക്കുക...
     .accesskey = k
@@ -157,10 +128,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = ഇ-മെയില്‍ വിലാസം പകര്‍ത്തുക
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = കണ്ണിയുടെ വിലാസം പകര്‍ത്തുക
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -185,32 +152,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = ശബ്ദം സജ്ജമാക്കുക
     .accesskey = m
-
-main-context-menu-media-play-speed =
-    .label = പ്രവര്‍ത്തന വേഗത
-    .accesskey = ത
-
-main-context-menu-media-play-speed-slow =
-    .label = പതുക്കെ (0.5×)
-    .accesskey = പ
-
-main-context-menu-media-play-speed-normal =
-    .label = സാധാരണ
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = വേഗത്തില്‍ (1.25×)
-    .accesskey = വ
-
-main-context-menu-media-play-speed-faster =
-    .label = വേഗത്തില്‍ (1.5×)
-    .accesskey = ഗ
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = അതിവേഗം (2×)
-    .accesskey = അ
 
 main-context-menu-media-loop =
     .label = ലൂപ്പ്
@@ -241,29 +182,9 @@ main-context-menu-image-reload =
     .label = ഇമേജ് വീണ്ടും ലഭ്യമാക്കുക
     .accesskey = R
 
-main-context-menu-image-view =
-    .label = ചിത്രം കാണുക
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = വീഡിയോ കാണുക
-    .accesskey = i
-
 main-context-menu-image-copy =
     .label = ചിത്രം പകര്‍ത്തുക
     .accesskey = y
-
-main-context-menu-image-copy-location =
-    .label = ചിത്രത്തിന്റെ വിലാസം പകര്‍ത്തുക
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = വീഡിയോ സ്ഥാനം പകര്‍ത്തുക
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = ഓഡിയോ സ്ഥാനം പകര്‍ത്തുക
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = ചിത്രം ഇങ്ങനെ സൂക്ഷിക്കുക...
@@ -272,10 +193,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = ചിത്രം ഈമെയില്‍ അയയ്ക്കുക…
     .accesskey = g
-
-main-context-menu-image-set-as-background =
-    .label = പണിയിട പശ്ചാത്തലമായി സജ്ജമാക്കുക
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = ഇമേജ് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ കാണുക
@@ -292,10 +209,6 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = ഓഡിയോ സൂക്ഷിക്കുക…
     .accesskey = v
-
-main-context-menu-video-image-save-as =
-    .label = സ്നാപ്പ്ഷോട്ട് ഇങ്ങനെ സൂക്ഷിയ്ക്കുക…
-    .accesskey = S
 
 main-context-menu-video-email =
     .label = വീഡിയോ ഈമെയില്‍ അയയ്ക്കുക…
@@ -316,10 +229,6 @@ main-context-menu-plugin-hide =
 main-context-menu-send-to-device =
     .label = ഡിവൈസിലേക്ക് താൾ അയയ്ക്കുക
     .accesskey = എൻ
-
-main-context-menu-view-background-image =
-    .label = പശ്ചാത്തല ചിത്രം കാണുക
-    .accesskey = w
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -384,10 +293,6 @@ main-context-menu-view-page-source =
     .label = താളിന്റെ സ്രോതസ്സ്‌ കാണുക
     .accesskey = V
 
-main-context-menu-view-page-info =
-    .label = താള്‍ വിവരം കാണുക
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = പദാവലിയുടെ ദിശ മാറ്റുക
     .accesskey = w
@@ -396,10 +301,7 @@ main-context-menu-bidi-switch-page =
     .label = താളിന്റെ ദിശ മാറ്റുക
     .accesskey = D
 
-main-context-menu-inspect-element =
-    .label = എലമെന്റ് പരിശോധിയ്ക്കുക
-    .accesskey = Q
-
 main-context-menu-eme-learn-more =
     .label = ഡിആര്‍എമിനെപ്പറ്റി കൂടുതല്‍ അറിയുക…
     .accesskey = D
+

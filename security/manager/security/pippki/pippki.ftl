@@ -6,9 +6,6 @@ password-quality-meter = പാസ്‌വേഡിന്റെ ക്വാള
 
 ## Change Password dialog
 
-change-password-window =
-    .title = പ്രധാന പാസ്‌വേര്‍ഡ്മാറ്റുക
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = സുരക്ഷ ഉപകരണങ്ങള്‍: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = പുതിയ പാസ്‌വേര്‍ഡ് (
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = പ്രധാന പാസ്‌വേര്‍ഡ് വീണ്ടും സജ്ജമാക്കുക
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = പുനക്രമീകരിക്കുക
-reset-password-text = നിങ്ങളുടെ പ്രധാന പാസ്‌വേര്‍ഡ് വീണ്ടും ക്രമികരിച്ചാല്‍, നിങ്ങള്‍ സൂക്ഷിച്ച വെബ് ഈമെയില്‍ പാസ്‌വേര്‍ഡുകള്‍, ഡേറ്റ, സ്വകാര്യ സര്‍ട്ടിഫിക്കേറ്റ്, സ്വകാര്യ കീ എന്നിവയെല്ലാം നഷ്ടമാകുന്നു. നിങ്ങള്‍ക്കു് ഇതു് ചെയ്യണമെന്നു് ഉറപ്പാണോ?
 
 ## Downloading cert dialog
 

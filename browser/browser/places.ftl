@@ -5,31 +5,9 @@
 places-open =
     .label = തുറക്കുക
     .accesskey = O
-places-open-tab =
-    .label = പുതിയ ടാബില്‍ തുറക്കുക
-    .accesskey = w
 places-open-all-in-tabs =
     .label = എല്ലാം ടാബുകളില്‍ തുറക്കുക
     .accesskey = O
-places-open-window =
-    .label = പുതിയ ജാലകത്തില്‍ തുറക്കുക
-    .accesskey = N
-places-open-private-window =
-    .label = കണ്ണി പുതിയ സ്വകാര്യ ജാലകത്തില്‍ തുറക്കുക
-    .accesskey = P
-
-places-new-bookmark =
-    .label = പുതിയ അടയാളക്കുറിപ്പു്…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = പുതിയ ഫോള്‍ഡര്‍…
-    .accesskey = F
-places-new-folder =
-    .label = പുതിയ ഫോള്‍ഡര്‍…
-    .accesskey = o
-places-new-separator =
-    .label = പുതിയ വിടവടയാളം
-    .accesskey = S
 
 places-view =
     .label = കാഴ്ച
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = പേരു് അനുസരിച്ചു് ക്രമത്തിലാക്കുക
     .accesskey = r
-places-properties =
-    .label = ഗുണഗണങ്ങള്‍
-    .accesskey = i
 

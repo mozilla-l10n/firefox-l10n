@@ -7,7 +7,6 @@
 
 cfr-doorhanger-extension-heading = ശുപാർശ ചെയ്യുന്ന വിപുലീകരണം
 cfr-doorhanger-feature-heading = ശുപാർശ ചെയ്യുന്ന സവിശേഷത
-cfr-doorhanger-pintab-heading = ടാബ് പിൻ ചെയ്യുന്നതു പരീക്ഷിക്കുക
 
 ##
 
@@ -19,8 +18,6 @@ cfr-doorhanger-extension-cancel-button = ഇപ്പോൾ വേണ്ട
 
 cfr-doorhanger-extension-ok-button = ഇപ്പോൾ ചേർക്കൂ
     .accesskey = A
-cfr-doorhanger-pintab-ok-button = ഈ ടാബ് പിൻ ചെയ്യുക
-    .accesskey = P
 
 cfr-doorhanger-extension-manage-settings-button = ശുപാർശ ക്രമീകരണം നിയന്ത്രിക്കുക
     .accesskey = M
@@ -61,13 +58,6 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = നിങ്ങൾ പിൻ ചെയ്യാൻ ആഗ്രഹിക്കുന്ന ടാബിൽ <b>റൈറ്റ് ക്ലിക്ക് ചെയ്യുക</b>.
-cfr-doorhanger-pintab-step2 = മെനുവിൽ നിന്നും  <b>പി൯ ടാബ് </b> തിരഞ്ഞെടുക്കുക
-cfr-doorhanger-pintab-step3 = സൈറ്റ്  നവീകരിച്ചിട്ടുണ്ടെന്കിൽ പി൯ ചെയ്ത ടാബിൽ ഒരു നീല പുള്ളി നിങ്ങൾക്  കാണാ൯ സാധിക്കും.
-
-cfr-doorhanger-pintab-animation-pause = താൽക്കാലികമായി നിർത്തുക
-cfr-doorhanger-pintab-animation-resume = തുടരുക
-
 
 ## Firefox Accounts Message
 
@@ -84,45 +74,20 @@ cfr-protections-panel-link-text = കൂടുതല്‍ അറിയുക
 # the notification icon
 cfr-badge-reader-label-newfeature = പുതിയ സവിശേഷത:
 
-cfr-whatsnew-panel-header = പുതിയതെന്താണ്
-
-cfr-whatsnew-tracking-protect-link-text = നിങ്ങളുടെ റിപ്പോർട്ട് കാണുക
-
-cfr-whatsnew-tracking-blocked-link-text = റിപ്പോർട്ട് കാണുക
-
-cfr-whatsnew-lockwise-backup-title = നിങ്ങളുടെ പാസ്‌വേഡുകൾ ബാക്കപ്പ് ചെയ്യുക
-cfr-whatsnew-lockwise-backup-link-text = ബാക്കപ്പുകൾ ഓണാക്കുക
-
-cfr-whatsnew-lockwise-take-title = നിങ്ങളുടെ പാസ്‌വേഡുകൾ നിങ്ങൾക്കൊപ്പം കൊണ്ടുപോകുക
-cfr-whatsnew-lockwise-take-link-text = അപ്ലിക്കേഷൻ നേടുക
-
 ## Search Bar
-
-cfr-whatsnew-searchbar-title = കുറച്ച് ടൈപ്പുചെയ്യുക, വിലാസ ബാർ ഉപയോഗിച്ച് കൂടുതൽ കണ്ടെത്തുക
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-cta = കൂടുതല്‍ അറിയുക
-
 ## Permission Prompt
 
-cfr-whatsnew-permission-prompt-cta = കൂടുതല്‍ അറിയുക
-
 ## Fingerprinter Counter
-
-# Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = വിരലടയാളങ്ങൾ
 
 ## Bookmark Sync
 
 
 ## Login Sync
 
-cfr-doorhanger-sync-logins-header = ഇനി ഒരിക്കലും പാസ്‌വേഡ് നഷ്‌ടപ്പെടുത്തരുത്
-
 ## Send Tab
-
-cfr-doorhanger-send-tab-header = എവിടെയായിരുന്നാലും ഇത് വായിക്കുക
 
 ## Firefox Send
 
@@ -155,4 +120,10 @@ cfr-doorhanger-send-tab-header = എവിടെയായിരുന്നാ�
 ## Fission Experiment Message
 
 ## Full Video Support CFR message
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
 

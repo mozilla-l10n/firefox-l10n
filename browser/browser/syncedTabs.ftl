@@ -5,7 +5,6 @@
 synced-tabs-sidebar-title = സിന്‍ക് ചെയ്ത ടാബുകള്‍
 synced-tabs-sidebar-noclients-subtitle = മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഇവിടെ കാണിക്കണോ?
 synced-tabs-sidebar-notabs = ടാബൊന്നും തുറന്നിരിക്കുന്നില്ല
-synced-tabs-sidebar-openprefs = { -sync-brand-short-name } മുന്‍ഗണനകള്‍ തുറക്കുക
 synced-tabs-sidebar-tabsnotsyncing = മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ
 synced-tabs-sidebar-connect-another-device = മറ്റൊരു ഉപകരണം കണക്റ്റുചെയ്യുക
 synced-tabs-sidebar-search =
@@ -37,4 +36,3 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = ഉടന്‍ സിന്‍ക് ചെയ്യുക
     .accesskey = S
-fxa-sign-in = { -sync-brand-short-name }-ലേക്ക് പ്രവേശിയ്ക്കുക
