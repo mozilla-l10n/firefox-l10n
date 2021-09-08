@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## View Menu
-
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -12,7 +10,6 @@
 menu-tools-preferences =
     .label = Preferências
     .accesskey = P
-
 menu-addons-and-themes =
     .label = Extensões e temas
     .accesskey = E
@@ -22,11 +19,9 @@ menu-addons-and-themes =
 menu-help-enter-troubleshoot-mode =
     .label = Modo de solução de problemas…
     .accesskey = s
-
 menu-help-exit-troubleshoot-mode =
     .label = Desativar modo de solução de problemas
     .accesskey = D
-
 menu-help-more-troubleshooting-info =
     .label = Mais informações para resolver problemas
     .accesskey = M
@@ -57,18 +52,18 @@ menu-view-repair-text-encoding =
 mail-uidensity-label =
     .label = Densidade
     .accesskey = D
-
 mail-uidensity-compact =
     .label = Compacto
     .accesskey = C
-
 mail-uidensity-normal =
     .label = Normal
     .accesskey = N
-
 mail-uidensity-touch =
     .label = Toque
     .accesskey = T
 
 ## File
 
+file-new-newsgroup-account =
+    .label = Conta de grupo de notícias…
+    .accesskey = n
