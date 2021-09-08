@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Elenco
 
-blocklist-button-cancel =
-    .label = Annulla
-    .accesskey = A
-
-blocklist-button-ok =
-    .label = Salva modifiche
-    .accesskey = S
-
 blocklist-dialog =
     .buttonlabelaccept = Salva modifiche
     .buttonaccesskeyaccept = S

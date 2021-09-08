@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Apponi firma digitale">
 <!ENTITY menu_securitySign.accesskey "A">
 
-<!ENTITY menu_securityAttachMyKey.label "Allega la mia chiave pubblica">
-<!ENTITY menu_securityAttachMyKey.accesskey "A">
-
 <!ENTITY menu_securityTech.label "Tecnologia di crittografia">
 <!ENTITY menu_securityTech.accesskey "T">
 

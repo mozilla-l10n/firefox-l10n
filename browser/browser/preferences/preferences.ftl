@@ -9,28 +9,6 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Sempre
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Opzioni
-       *[other] Preferenze
-    }
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 16em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Cerca nelle opzioni
-           *[other] Cerca nelle preferenze
-        }
-
 settings-page-title = Impostazioni
 
 search-input-box2 =
@@ -57,11 +35,6 @@ category-search =
 pane-privacy-title = Privacy e sicurezza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title2 = { -sync-brand-short-name }
-category-sync2 =
-    .tooltiptext = { pane-sync-title2 }
 
 pane-sync-title3 = Sincronizzazione
 category-sync3 =
@@ -106,14 +79,6 @@ restart-later = Riavvia in seguito
 ## Variables:
 ##   $name (String): name of the extension
 
-# This string is shown to notify the user that their home page
-# is being controlled by an extension.
-extension-controlled-homepage-override = La pagina iniziale è attualmente gestita da un’estensione (<img data-l10n-name="icon"/> { $name }).
-
-# This string is shown to notify the user that their new tab page
-# is being controlled by an extension.
-extension-controlled-new-tab-url = La pagina Nuova scheda è attualmente gestita da un’estensione (<img data-l10n-name="icon"/> { $name }).
-
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlled-password-saving = Questa impostazione è attualmente gestita da un’estensione (<img data-l10n-name="icon"/> { $name }).
@@ -121,10 +86,6 @@ extension-controlled-password-saving = Questa impostazione è attualmente gestit
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Questa impostazione è attualmente gestita da un’estensione (<img data-l10n-name="icon"/> { $name }).
-
-# This string is shown to notify the user that the default search engine
-# is being controlled by an extension.
-extension-controlled-default-search = Il motore di ricerca predefinito è attualmente impostato da un’estensione (<img data-l10n-name="icon"/> { $name }).
 
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
@@ -147,13 +108,6 @@ extension-controlled-enable = Per attivare questa estensione aprire Componenti a
 
 search-results-header = Risultati della ricerca
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle opzioni.
-       *[other] Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle preferenze.
-    }
-
 search-results-empty-message2 = Siamo spiacenti, nessun risultato trovato per “<span data-l10n-name="query"></span>” nelle impostazioni.
 
 search-results-help-link = Hai bisogno di aiuto? Visita <a data-l10n-name="url">il sito web di supporto per { -brand-short-name }</a>.
@@ -161,14 +115,6 @@ search-results-help-link = Hai bisogno di aiuto? Visita <a data-l10n-name="url">
 ## General Section
 
 startup-header = Avvio
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Consenti l’esecuzione in contemporanea di { -brand-short-name } e Firefox
-use-firefox-sync = Consiglio: questo comporta l’utilizzo di profili diversi. È possibile appoggiarsi a { -sync-brand-short-name } per la sincronizzazione dei dati.
-get-started-not-logged-in = Accedi a { -sync-brand-short-name }…
-get-started-configured = Apri preferenze di { -sync-brand-short-name }
 
 always-check-default =
     .label = Controlla sempre se { -brand-short-name } è il browser predefinito
@@ -208,10 +154,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Avvisa quando l’apertura contemporanea di più schede potrebbe rallentare { -brand-short-name }
     .accesskey = c
-
-switch-links-to-new-tabs =
-    .label = Porta in primo piano le nuove schede aperte da un link
-    .accesskey = P
 
 switch-to-new-tabs =
     .label = Porta in primo piano la scheda quando si aprono link, immagini o contenuti multimediali in una nuova scheda
@@ -402,11 +344,6 @@ applications-manage-app =
     .label = Dettagli applicazioni…
 applications-always-ask =
     .label = Chiedi sempre
-applications-type-pdf = PDF (Portable Document Format)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -496,13 +433,6 @@ update-application-warning-cross-user-setting = Questa impostazione verrà appli
 update-application-use-service =
     .label = Utilizza un servizio di sistema per installare gli aggiornamenti
     .accesskey = U
-
-update-setting-write-failure-title = Errore durante il salvataggio delle preferenze
-
-update-setting-write-failure-message =
-    Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-
-    Impossibile scrivere il file: { $path }
 
 update-setting-write-failure-title2 = Errore durante il salvataggio delle impostazioni
 
@@ -751,13 +681,9 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Visualizza suggerimenti di ricerca nelle finestre anonime
 
-suggestions-addressbar-settings-generic = Modifica le impostazioni per altri tipi di suggerimenti nella barra degli indirizzi
-
 suggestions-addressbar-settings-generic2 = Modifica le impostazioni per altri tipi di suggerimenti nella barra degli indirizzi
 
 search-suggestions-cant-show = I suggerimenti di ricerca non verranno visualizzati tra i risultati della barra degli indirizzi in quanto { -brand-short-name } è configurato per non salvare la cronologia.
-
-search-one-click-header = Motori di ricerca in un clic
 
 search-one-click-header2 = Scorciatoie di ricerca
 
@@ -792,13 +718,6 @@ search-keyword-warning-bookmark = La parola chiave scelta è già utilizzata da 
 
 ## Containers Section
 
-containers-back-button =
-    .aria-label =
-        { PLATFORM() ->
-            [windows] Torna alle opzioni
-           *[other] Torna alle preferenze
-        }
-
 containers-back-button2 =
     .aria-label = Torna alle impostazioni
 containers-header = Schede contenitore
@@ -809,9 +728,6 @@ containers-add-button =
 containers-new-tab-check =
     .label = Scegli un contenitore per ogni nuova scheda
     .accesskey = c
-
-containers-preferences-button =
-    .label = Preferenze
 
 containers-settings-button =
     .label = Impostazioni
@@ -825,11 +741,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Il tuo Web, sempre con te
-sync-signedout-description = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
-
-sync-signedout-account-signin2 =
-    .label = Accedi a { -sync-brand-short-name }…
-    .accesskey = d
 
 sync-signedout-description2 = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
 
@@ -883,12 +794,6 @@ prefs-syncing-on = Sincronizzazione: ATTIVA
 
 prefs-syncing-off = Sincronizzazione: DISATTIVATA
 
-prefs-sync-setup =
-    .label = Configura { -sync-brand-short-name }…
-    .accesskey = C
-
-prefs-sync-offer-setup-label = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
-
 prefs-sync-turn-on-syncing =
     .label = Attiva sincronizzazione…
     .accesskey = c
@@ -911,11 +816,6 @@ sync-currently-syncing-logins-passwords = Credenziali e password
 sync-currently-syncing-addresses = Indirizzi
 sync-currently-syncing-creditcards = Carte di credito
 sync-currently-syncing-addons = Componenti aggiuntivi
-sync-currently-syncing-prefs =
-    { PLATFORM() ->
-        [windows] Opzioni
-       *[other] Preferenze
-    }
 
 sync-currently-syncing-settings = Impostazioni
 
@@ -965,15 +865,6 @@ sync-engine-addons =
     .label = Componenti aggiuntivi
     .tooltiptext = Estensioni e temi per Firefox desktop
     .accesskey = o
-
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Opzioni
-           *[other] Preferenze
-        }
-    .tooltiptext = Impostazioni modificate nei pannelli “Generale” e “Privacy e sicurezza”
-    .accesskey = z
 
 sync-engine-settings =
     .label = Impostazioni
@@ -1031,9 +922,6 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Credenziali salvate…
     .accesskey = s
-forms-master-pw-use =
-    .label = Utilizza una password principale
-    .accesskey = U
 forms-primary-pw-use =
     .label = Utilizza una password principale
     .accesskey = U
@@ -1042,7 +930,6 @@ forms-master-pw-change =
     .label = Cambia la password principale…
     .accesskey = w
 
-forms-master-pw-fips-title = Si è in modalità FIPS. FIPS richiede che la password principale sia impostata.
 forms-primary-pw-change =
     .label = Cambia la password principale…
     .accesskey = w
@@ -1060,15 +947,6 @@ forms-windows-sso-learn-more-link = Ulteriori informazioni
 forms-windows-sso-desc = Gestisci account nelle impostazioni del dispositivo
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Per creare una password principale, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Firefox is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = creare una password principale
 
 primary-password-os-auth-dialog-message-win = Per creare una password principale, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
 
@@ -1181,10 +1059,6 @@ sitedata-clear =
 sitedata-settings =
     .label = Gestisci dati…
     .accesskey = d
-
-sitedata-cookies-permissions =
-    .label = Gestisci permessi…
-    .accesskey = G
 
 sitedata-cookies-exceptions =
     .label = Gestisci eccezioni…
@@ -1366,12 +1240,6 @@ permissions-addon-exceptions =
     .label = Eccezioni…
     .accesskey = E
 
-permissions-a11y-privacy-checkbox =
-    .label = Impedisci ai servizi di accessibilità di accedere al browser
-    .accesskey = b
-
-permissions-a11y-privacy-link = Ulteriori informazioni
-
 ## Privacy Section - Data Collection
 
 collection-header = Raccolta e utilizzo dati di { -brand-short-name }
@@ -1398,11 +1266,6 @@ addon-recommendations-link = Ulteriori informazioni
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = L’invio dei dati è stato disattivato nella configurazione utilizzata per questa build
-
-collection-backlogged-crash-reports =
-    .label = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso
-    .accesskey = C
-collection-backlogged-crash-reports-link = Ulteriori informazioni
 
 collection-backlogged-crash-reports-with-link = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso <a data-l10n-name="crash-reports-link">Ulteriori informazioni</a>
     .accesskey = C
@@ -1433,16 +1296,6 @@ security-block-uncommon-software =
 
 certs-header = Certificati
 
-certs-personal-label = Quando un sito web richiede il certificato personale
-
-certs-select-auto-option =
-    .label = Selezionane uno automaticamente
-    .accesskey = S
-
-certs-select-ask-option =
-    .label = Chiedi sempre
-    .accesskey = h
-
 certs-enable-ocsp =
     .label = Interroga risponditori OCSP per confermare la validità attuale dei certificati
     .accesskey = P
@@ -1454,34 +1307,6 @@ certs-view =
 certs-devices =
     .label = Dispositivi di sicurezza…
     .accesskey = D
-
-space-alert-learn-more-button =
-    .label = Ulteriori informazioni
-    .accesskey = U
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Apri opzioni
-           *[other] Apri preferenze
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] A
-           *[other] A
-        }
-
-space-alert-over-5gb-message =
-    { PLATFORM() ->
-        [windows] Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi. Il contenuto dei siti web potrebbe non essere visualizzato correttamente. È possibile eliminare i dati salvati dai siti web in Opzioni > Privacy e sicurezza > Cookie e dati dei siti web.
-       *[other] Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi. Il contenuto dei siti web potrebbe non essere visualizzato correttamente. È possibile eliminare i dati salvati dai siti web in Preferenze > Privacy e sicurezza > Cookie e dati dei siti web.
-    }
-
-space-alert-under-5gb-ok-button =
-    .label = OK, ricevuto
-    .accesskey = K
-
-space-alert-under-5gb-message = Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi. Il contenuto dei siti web potrebbe non essere visualizzato correttamente. Visita il link “Ulteriori informazioni” per scoprire come ottimizzare l’utilizzo dello spazio su disco e migliorare l’esperienza di navigazione.
 
 space-alert-over-5gb-settings-button =
     .label = Apri impostazioni

@@ -47,9 +47,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Aggiungi scheda ai segnalibri…
     .accesskey = A
-reopen-in-container =
-    .label = Riapri in contenitore
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = Apri in nuova scheda contenitore
     .accesskey = e
@@ -65,25 +62,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Chiudi più schede
     .accesskey = u
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Riapri scheda chiusa
-           *[other] Riapri schede chiuse
-        }
-    .accesskey = s
-close-tab =
-    .label = Chiudi scheda
-    .accesskey = C
-close-tabs =
-    .label = Chiudi schede
-    .accesskey = C
-move-tabs =
-    .label = Sposta schede
-    .accesskey = S
-move-tab =
-    .label = Sposta scheda
-    .accesskey = S
 tab-context-share-url =
     .label = Condividi
     .accesskey = o
@@ -121,6 +99,7 @@ tab-context-move-tabs =
            *[other] Sposta schede
         }
     .accesskey = S
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

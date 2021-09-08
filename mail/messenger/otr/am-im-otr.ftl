@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = Impostazioni OTR
 otr-log =
     .label = Includi i messaggi crittati OTR nei registri delle conversazioni
-otr-requireEncryption =
-    .label = Richiedi crittografia end-to-end per conversazioni a due
-otr-verifyNudge =
-    .label = Ricordami sempre di verificare un contatto non verificato
-
-otr-notYetAvailable = non ancora disponibile
 
 otr-require-encryption =
     .label = Richiedi crittografia end-to-end per conversazioni a due

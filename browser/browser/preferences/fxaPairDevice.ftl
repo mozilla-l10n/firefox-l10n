@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Connessione dispositivo
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Assicurati di aver installato <a data-l10n-name="connect-another-device">Firefox sul tuo dispositivo mobile</a>.
-
-fxa-qrcode-heading-phase2 = 2. Accedi a { -sync-brand-short-name } oppure effettua la scansione del codice di associazione direttamente dalle impostazioni di { -sync-brand-short-name } su Android.
-
 fxa-qrcode-heading-step1 = 1. Assicurati di aver installato <a data-l10n-name="connect-another-device">Firefox sul tuo dispositivo mobile</a>.
 
 fxa-qrcode-heading-step2 = 2. Apri Firefox sul tuo dispositivo mobile.

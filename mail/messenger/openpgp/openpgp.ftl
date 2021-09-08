@@ -129,10 +129,6 @@ openpgp-key-send-key =
     .label = Invia chiave pubblica via email
     .accesskey = m
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = Copia chiavi pubbliche negli appunti
-    .accesskey = v
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -159,8 +155,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Esporta chiavi su file
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Copia chiavi pubbliche negli appunti
 
 openpgp-key-man-ctx-copy =
     .label = Copia
@@ -312,14 +306,6 @@ openpgp-description =
        *[other] Thunderbird ha trovato { $count } chiavi personali OpenPGP associate a <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] Selezionare una chiave valida per utilizzare il protocollo OpenPGP.
-       *[other] La configurazione attuale utilizza la chiave con ID <b>{ $key }</b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = La configurazione attuale utilizza la chiave con ID <b>{ $key }</b>
 
@@ -352,14 +338,8 @@ openpgp-radio-key-not-found = Non è stato possibile trovare questa chiave. Per 
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Scade il: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = La chiave scadrà tra meno di 6 mesi
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Scaduta il: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = Chiave scaduta
 
 openpgp-key-expires-within-6-months-icon =
     .title = La chiave scadrà tra meno di 6 mesi
@@ -682,7 +662,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Il ritorno a capo è impostato a { $width } caratteri. Per crittare o firmare correttamente, questo valore deve essere di almeno 68 caratteri.
     Impostare il ritorno a capo a 68 caratteri?
-sending-hidden-rcpt = Quando si invia un messaggio crittato non è possibile utilizzare destinatari in Ccn (Copia conoscenza nascosta). Per inviare questo messaggio crittato, rimuovere i destinatari Ccn o spostarli nel campo Cc.
 sending-news =
     Operazione di invio crittato interrotta.
     Questo messaggio non può essere crittato perché sono presenti destinatari di un newsgroup. Si prega di inviare nuovamente il messaggio senza crittografia.
@@ -749,9 +728,6 @@ enig-info = Informazioni OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Riprova
 dlg-button-skip = &Ignora
-
-# Strings used in enigmailCommon.js
-enig-error = Errore OpenPGP
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

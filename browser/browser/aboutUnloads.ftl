@@ -20,6 +20,7 @@ about-unloads-intro-2 =
     quando il processo ospita il frame principale della scheda, in
     <em>corsivo</em> quando il processo è condiviso tra più schede. È possibile
     scaricare manualmente una scheda utilizzando il pulsante <em>Scarica</em>.
+
 about-unloads-last-updated =
     Ultimo aggiornamento: { DATETIME($date,
         year: "numeric", month: "numeric", day: "numeric",
