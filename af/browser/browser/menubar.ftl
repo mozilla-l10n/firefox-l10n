@@ -107,9 +107,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Redigeer
     .accesskey = e
-menu-edit-find-on =
-    .label = Vind op hierdie bladsy…
-    .accesskey = V
 menu-edit-find-again =
     .label = Vind weer
     .accesskey = e
@@ -125,9 +122,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Nutsbalke
     .accesskey = N
-menu-view-customize-toolbar =
-    .label = Doelmaak…
-    .accesskey = D
 menu-view-sidebar =
     .label = Kantbalk
     .accesskey = b
@@ -158,9 +152,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Basiese bladsystyl
     .accesskey = B
-menu-view-charset =
-    .label = Teksenkodering
-    .accesskey = e
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -207,10 +198,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Boekmerke
     .accesskey = B
-menu-bookmarks-show-all =
-    .label = Wys alle boekmerke
-menu-bookmark-this-page =
-    .label = Boekmerk hierdie bladsy
 menu-bookmark-edit =
     .label = Redigeer hierdie boekmerk
 menu-bookmarks-all-tabs =
@@ -228,32 +215,15 @@ menu-tools =
 menu-tools-downloads =
     .label = Afgelaai
     .accesskey = A
-menu-tools-addons =
-    .label = Byvoegings
-    .accesskey = B
 menu-tools-sync-now =
     .label = Sinkroniseer nou
     .accesskey = S
-menu-tools-web-developer =
-    .label = Webontwikkelaar
-    .accesskey = W
 menu-tools-page-source =
     .label = Bladsybron
     .accesskey = r
 menu-tools-page-info =
     .label = Bladsyinfo
     .accesskey = i
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opsies
-           *[other] Voorkeure
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] k
-        }
 
 ## Window Menu
 
@@ -284,27 +254,9 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Hulp
     .accesskey = H
-menu-help-product =
-    .label = { -brand-shorter-name }-hulp
-    .accesskey = h
-menu-help-show-tour =
-    .label = { -brand-shorter-name }-toer
-    .accesskey = o
-menu-help-keyboard-shortcuts =
-    .label = Sleutelbordkortpaaie
-    .accesskey = k
-menu-help-troubleshooting-info =
-    .label = Inligting vir probleemoplossing
-    .accesskey = p
 menu-help-feedback-page =
     .label = Dien terugvoer in…
     .accesskey = D
-menu-help-safe-mode-without-addons =
-    .label = Herbegin met byvoegings gedeaktiveer…
-    .accesskey = H
-menu-help-safe-mode-with-addons =
-    .label = Herbegin met byvoegings geaktiveer
-    .accesskey = r
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

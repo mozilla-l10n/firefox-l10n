@@ -24,7 +24,3 @@ translation-sites-button-remove-all =
     .label = Verwyder alle werwe
     .accesskey = r
 
-translation-button-close =
-    .label = Sluit
-    .accesskey = S
-

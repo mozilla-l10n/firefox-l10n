@@ -18,9 +18,6 @@ connection-proxy-option-auto =
 connection-proxy-http-port = Poort
     .accesskey = P
 
-connection-proxy-ftp-port = Poort
-    .accesskey = r
-
 connection-proxy-socks-port = Poort
     .accesskey = t
 

@@ -11,15 +11,9 @@
 <!ENTITY newMenu.label "Nuwe">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Boodskap">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "o">
 <!ENTITY newContact.label "Adresboek-kennis…">
 <!ENTITY newContact.accesskey "k">
-
-
-<!ENTITY attachFileCmd.label "Lêer(s)…">
-<!ENTITY attachFileCmd.accesskey "L">
 
 
 
@@ -50,10 +44,6 @@
 <!ENTITY sendLaterCmd.label "Versend later">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "l">
-<!ENTITY printSetupCmd.label "Bladsyopstelling…">
-<!ENTITY printSetupCmd.accesskey "o">
-<!ENTITY printPreviewCmd.label "Drukvoorskou">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Druk…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "D">
@@ -181,9 +171,6 @@
 
 
 
-<!ENTITY preferencesCmdUnix.label "Voorkeure">
-<!ENTITY preferencesCmdUnix.accesskey "k">
-
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimeer">
 <!ENTITY bringAllToFront.label "Bring alles na vore">
@@ -194,7 +181,6 @@
 <!ENTITY sendButton.label "Stuur">
 <!ENTITY quoteButton.label "Aanhaal">
 <!ENTITY addressButton.label "Kennisse">
-<!ENTITY attachButton.label "Heg aan">
 <!ENTITY spellingButton.label "Spelling">
 <!ENTITY saveButton.label "Stoor">
 <!ENTITY printButton.label "Druk">
@@ -265,8 +251,6 @@
 <!ENTITY renameAttachment.accesskey "H">
 <!ENTITY selectAll.label "Merk alles">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Heg lêer(s) aan…">
-<!ENTITY attachFile.accesskey "l">
 
 
 

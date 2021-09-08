@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = Boekmerke
+
 sidebar-menu-history =
     .label = Geskiedenis
+
 sidebar-menu-synced-tabs =
     .label = Gesinkroniseerde oortjies
+
 sidebar-menu-close =
     .label = Sluit kantbalk
+
 sidebar-close-button =
     .tooltiptext = Sluit kantbalk

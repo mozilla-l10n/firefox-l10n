@@ -7,8 +7,6 @@
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
-<!ENTITY appmenu.tooltip                     "Wys kieslys">
-
 <!ENTITY navbarOverflow.label                "Meer gereedskap…">
 
 <!-- Tab context menu -->
@@ -19,9 +17,6 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Sluit oortjie vas">
-<!ENTITY  unpinTab.label                     "Trek oortjie los">
-
 <!ENTITY  listAllTabs.label      "Lys alle oortjies">
 
 <!ENTITY tabCmd.label "Nuwe oortjie">
@@ -30,9 +25,6 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Kieslysbalk">
 <!ENTITY menubarCmd.accesskey "K">
-<!ENTITY personalbarCmd.label "Boekmerknutsbalk">
-<!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Boekmerknutsbalk-items">
 
 <!ENTITY fullScreenCmd.label "Volskerm">
 
@@ -43,29 +35,16 @@ can reach it easily. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "beslaan nou die volle skerm">
-<!ENTITY fullscreenWarning.generic.label "Dié dokument beslaan nou die volle skerm">
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
-<!ENTITY exitDOMFullscreen.button "Verlaat volskerm (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Verlaat volskerm (esc)">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "beheer tans die wyser. Druk Esc om beheer terug te kry.">
-<!ENTITY pointerlockWarning.generic.label "Dié dokument beheer tans die wyser. Druk Esc om beheer terug te kry.">
-
-<!ENTITY showAllBookmarks2.label "Wys alle boekmerke">
-<!ENTITY recentBookmarks.label "Onlangs geboekmerk">
-
-<!ENTITY bookmarksToolbarChevron.tooltip "Wys meer boekmerke">
 
 <!ENTITY printButton.label            "Druk">
 <!ENTITY printButton.tooltip          "Druk hierdie bladsy">
@@ -77,14 +56,6 @@ can reach it easily. -->
 
 <!ENTITY homeButton.label             "Tuis">
 
-<!ENTITY bookmarksButton.label          "Boekmerke">
-
-<!ENTITY bookmarksMenuButton.other.label "Ander boekmerke">
-
-<!ENTITY viewBookmarksSidebar2.label        "Wys boekmerkkantbalk">
-<!ENTITY viewBookmarksToolbar.label         "Vertoon boekmerknutsbalk">
-<!ENTITY searchBookmarks.label              "Deursoek boekmerke">
-
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -92,7 +63,6 @@ can reach it easily. -->
 <!ENTITY historyButton.label            "Geskiedenis">
 
 <!ENTITY downloads.label              "Afgelaai">
-<!ENTITY addons.label                 "Byvoegings">
 
 <!ENTITY webDeveloperMenu.label       "Webontwikkelaar">
 
@@ -109,26 +79,11 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "Geskiedenis">
 
-<!ENTITY historyUndoMenu.label "Onlangs gesluite oortjies">
-<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Onlangs gesluite vensters">
-
-<!ENTITY appMenuHistory.showAll.label "Wys hele geskiedenis">
-
-<!ENTITY appMenuHistory.clearRecent.label "Maak onlangse geskiedenis skoon…">
-<!ENTITY appMenuHistory.restoreSession.label "Laai vorige sessie terug">
-<!ENTITY appMenuHistory.viewSidebar.label "Wys geskiedeniskantbalk">
-
 <!ENTITY appMenuHelp.label "Hulp">
-
-<!ENTITY appMenuRemoteTabs.label "Gesinkroniseerde oortjies">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Geen oop oortjies nie">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
-     This is shown after the tabs list if we can display more tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showMore.label "Wys meer">
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Wys meer oortjies van dié toestel">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -138,8 +93,6 @@ can reach it easily. -->
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Skakel oortjiesinkronisering aan om 'n lys oortjies op ander toestelle te sien.">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Lus om oortjies van ander toestelle hier te sien?">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Bestuur toestelle…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Wys kantbalk met gesinkroniseerde oortjies">
 
 <!ENTITY customizeMenu.addToToolbar.label "Voeg by nutsbalk">
 <!ENTITY customizeMenu.addToToolbar.accesskey "V">
@@ -152,8 +105,6 @@ can reach it easily. -->
 
 
 
-<!ENTITY customizeMenu.removeFromToolbar.label "Skrap vanaf nutsbalk">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Voeg meer items by…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "V">
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -213,8 +164,6 @@ can reach it easily. -->
 
 <!ENTITY openLinkCmdInTab.accesskey   "o">
 
-<!ENTITY emailPageCmd.label           "E-pos skakel…">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -231,13 +180,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoem">
 
 <!ENTITY sidebarCloseButton.tooltip     "Sluit kantbalk">
-
-<!ENTITY quitApplicationCmdWin2.label       "Afsluit">
-<!ENTITY quitApplicationCmdWin2.accesskey   "s">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Sluit &brandShorterName; af">
-<!ENTITY quitApplicationCmd.label       "Afsluit">
-<!ENTITY quitApplicationCmd.accesskey   "A">
-<!ENTITY quitApplicationCmdMac2.label   "Sluit &brandShorterName; af">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -270,8 +212,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      mutually exclusive -->
 
 
-<!ENTITY syncBrand.shortName.label    "Sync">
-
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 
@@ -299,12 +239,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "Die onlangse geskiedenis is vergeet.">
 <!ENTITY panicButton.thankyou.msg2                "Blaai veilig!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Dankie!">
-
-<!ENTITY updateAvailable.panelUI.label "Laai &brandShorterName;-bywerking af">
-
-<!ENTITY updateManual.panelUI.label "Laai 'n nuwe kopie van &brandShorterName; af">
-
-<!ENTITY updateRestart.panelUI.label2 "Herbegin om &brandShorterName; by te werk">
 
 
 

@@ -79,10 +79,6 @@
 <!ENTITY printCmd.label "Druk…">
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Drukvoorskou">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Bladsyopstelling…">
-<!ENTITY printSetupCmd.accesskey "o">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Skrap boodskap">
@@ -448,8 +444,6 @@
 <!ENTITY addressBookCmd.label "Adresboek">
 <!ENTITY addressBookCmd.accesskey "b">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Byvoegings">
-<!ENTITY addons.accesskey "B">
 <!ENTITY activitymanager.label "Aktiwiteitbestuurder">
 <!ENTITY activitymanager.accesskey "A">
 
@@ -525,7 +519,6 @@
 <!ENTITY goForwardButton1.label "Vorentoe">
 
 
-<!ENTITY undeleteButton.label "Ontskrap">
 <!ENTITY markButton.label "Merk">
 <!ENTITY printButton.label "Druk">
 <!ENTITY stopButton.label "Stop">
@@ -564,13 +557,9 @@
 
 <!ENTITY goForwardButton.tooltip "Gaan een boodskap vorentoe">
 <!ENTITY goBackButton.tooltip "Gaan een boodskap terug">
-<!ENTITY deleteButton.tooltip "Skrap gemerkte boodskap of vouer">
-<!ENTITY undeleteButton.tooltip "Ontskrap gemerkte boodskap">
 <!ENTITY markButton.tooltip "Merk boodskap">
 <!ENTITY printButton.tooltip "Druk hierdie boodskap">
 <!ENTITY stopButton.tooltip "Staak die huidige oordrag">
-<!ENTITY junkButton.tooltip "Merk die gemerkte boodskappe as gemors">
-<!ENTITY notJunkButton.tooltip "Merk die gemerkte boodskappe as nie gemors nie">
 <!ENTITY addressBookButton.tooltip "Gaan na die adresboek">
 
 <!ENTITY tagButton.tooltip "Merk boodskappe">

@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Byvoegingbestuurder
-
 addons-page-title = Byvoegingbestuurder
 
 search-header-shortcut =
@@ -30,43 +27,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Wys alle uitbreidings
-
-cmd-show-details =
-    .label = Wys meer inligting
-    .accesskey = W
-
-cmd-find-updates =
-    .label = Vind bywerkings
-    .accesskey = V
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Opsies
-           *[other] Voorkeure
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] V
-        }
-
-cmd-enable-theme =
-    .label = Trek tema aan
-    .accesskey = T
-
-cmd-disable-theme =
-    .label = Trek tema uit
-    .accesskey = e
-
-cmd-install-addon =
-    .label = Installeer
-    .accesskey = I
-
-cmd-contribute =
-    .label = Dra by
-    .accesskey = D
-    .tooltiptext = Dra by tot die ontwikkeling van hierdie byvoeging
 
 detail-version =
     .label = Weergawe

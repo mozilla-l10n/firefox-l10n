@@ -21,10 +21,6 @@ move-to-new-window =
     .label = Skuif na nuwe venster
     .accesskey = v
 
-close-tab =
-    .label = Sluit oortjie
-    .accesskey = S
-
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 

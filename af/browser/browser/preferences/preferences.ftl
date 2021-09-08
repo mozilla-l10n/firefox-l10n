@@ -6,12 +6,6 @@ do-not-track-learn-more = Meer inligting
 do-not-track-option-always =
     .label = Altyd
 
-pref-page-title =
-    { PLATFORM() ->
-        [windows] Opsies
-       *[other] Voorkeure
-    }
-
 pane-general-title = Algemeen
 category-general =
     .tooltiptext = { pane-general-title }
@@ -58,24 +52,9 @@ restart-later = Herbegin later
 
 search-results-header = Soekresultate
 
-# `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message =
-    { PLATFORM() ->
-        [windows] Jammer! Daar is geen resultate in Opsies vir “<span data-l10n-name="query"></span>”.
-       *[other] Jammer! Daar is geen resultate in Voorkeure vir “<span data-l10n-name="query"></span>”.
-    }
-
 ## General Section
 
 startup-header = Begin
-
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Laat { -brand-short-name } en Firefox toe om gelyktydig te loop
-use-firefox-sync = Wenk: Dit gebruik aparte profiele. Gebruik { -sync-brand-short-name } om data tussen hulle te deel.
-get-started-not-logged-in = Meld aan by { -sync-brand-short-name }…
-get-started-configured = Open { -sync-brand-short-name }-voorkeure
 
 always-check-default =
     .label = Kontroleer altyd of { -brand-short-name } die verstekblaaier is
@@ -109,10 +88,6 @@ warn-on-close-multiple-tabs =
 warn-on-open-many-tabs =
     .label = Waarsku wanneer klomp oop oortjies dalk { -brand-short-name } kan stadig maak
     .accesskey = W
-
-switch-links-to-new-tabs =
-    .label = Wanneer 'n skakel in 'n nuwe oortjie open, skakel dadelik daarheen oor
-    .accesskey = a
 
 show-tabs-in-taskbar =
     .label = Wys oortjievoorskoue in die Windows-taakbalk
@@ -275,11 +250,6 @@ applications-manage-app =
     .label = Toepassingdetail…
 applications-always-ask =
     .label = Vra altyd
-applications-type-pdf = Portable Document Format (PDF)
-
-# Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
@@ -457,8 +427,6 @@ search-suggestions-option =
 
 search-suggestions-cant-show = Soekvoorstelle sal nie in die liggingbalk gewys word nie omdat { -brand-short-name } opgestel is om nooit geskiedenis te onthou nie.
 
-search-one-click-header = Enkelklik-soekenjins
-
 search-choose-engine-column =
     .label = Soekenjin
 search-choose-keyword-column =
@@ -489,9 +457,6 @@ containers-add-button =
     .label = Voeg nuwe konteks by
     .accesskey = V
 
-containers-preferences-button =
-    .label = Voorkeure
-
 containers-remove-button =
     .label = Verwyder
 
@@ -502,7 +467,6 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Neem die Web saam
-sync-signedout-description = Sinkroniseer boekmerke, geskiedenis, oortjies, wagwoorde, byvoegings en voorkeure oor alle toestelle.
 
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -607,14 +571,9 @@ forms-breach-alerts-learn-more-link = Meer inligting
 forms-saved-logins =
     .label = Gestoorde aanmeldings…
     .accesskey = l
-forms-master-pw-use =
-    .label = Gebruik 'n meesterwagwoord
-    .accesskey = G
 forms-master-pw-change =
     .label = Wysig meesterwagwoord…
     .accesskey = m
-
-forms-master-pw-fips-title = U is tans in FIPS-modus. FIPS vereis 'n nieleë meesterwagwoord.
 
 forms-master-pw-fips-desc = Kon nie wagwoord verander nie
 
@@ -758,8 +717,6 @@ permissions-addon-exceptions =
 
 collection-health-report-link = Meer inligting
 
-collection-backlogged-crash-reports-link = Meer inligting
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -783,39 +740,9 @@ security-block-uncommon-software =
 
 certs-header = Sertifikate
 
-certs-select-auto-option =
-    .label = Kies outomaties een
-    .accesskey = K
-
-certs-select-ask-option =
-    .label = Vra elke keer
-    .accesskey = V
-
 certs-enable-ocsp =
     .label = Bevestig huidige geldigheid van sertifikate deur OCSP-bedieners te vra
     .accesskey = B
-
-space-alert-learn-more-button =
-    .label = Meer inligting
-    .accesskey = M
-
-space-alert-over-5gb-pref-button =
-    .label =
-        { PLATFORM() ->
-            [windows] Open opsies
-           *[other] Open voorkeure
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] O
-        }
-
-space-alert-under-5gb-ok-button =
-    .label = Reg so
-    .accesskey = R
-
-space-alert-under-5gb-message = { -brand-short-name } se hardeskyfplek raak op. Webwerwe vertoon dalk nie reg nie. Besoek gerus “Meer inligting” vir optimale skyfgebruik en 'n beter blaai-ervaring.
 
 ## Privacy Section - HTTPS-Only
 
