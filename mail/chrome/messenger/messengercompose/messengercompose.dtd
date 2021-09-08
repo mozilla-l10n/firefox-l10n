@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Nowy">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newMessage.label "Powěsć">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "w">
 <!ENTITY newContact.label "Adresnikowy kontakt…">
 <!ENTITY newContact.accesskey "A">
 <!ENTITY attachMenu.label "Pśipowjesyś">
 <!ENTITY attachMenu.accesskey "w">
-<!ENTITY attachFileCmd.label "Dataje…">
-<!ENTITY attachFileCmd.accesskey "D">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Webowy bok…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Pózdźej pósłaś">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "z">
-<!ENTITY printSetupCmd.label "Bok pśigótowaś…">
-<!ENTITY printSetupCmd.accesskey "B">
-<!ENTITY printPreviewCmd.label "Śišćarski pśeglěd">
-<!ENTITY printPreviewCmd.accesskey "a">
 <!ENTITY printCmd.label "Śišćaś…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "i">
@@ -82,11 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Pśidanki pśerědowaś…">
 <!ENTITY reorderAttachmentsCmd.accesskey "r">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Pśidankowe wokno">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
-<!ENTITY toggleAttachmentPaneCmd.accesskey "d">
 <!ENTITY selectAllCmd.accesskey "b">
 <!ENTITY findBarCmd.label "Pytaś…">
 <!ENTITY findBarCmd.accesskey "P">
@@ -105,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Pśidanki pśerědowaś">
-<!ENTITY moveAttachmentTopPanelBtn.label "Do zachopjeńka pśesunuś">
-<!ENTITY moveAttachmentUpPanelBtn.label "Górjej">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Gromaźe pśesunuś">
-<!ENTITY moveAttachmentDownPanelBtn.label "Dołoj">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Do kóńca pśesunuś">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -207,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Kontowe nastajenja">
 <!ENTITY accountManagerCmd2.accesskey "K">
 <!ENTITY accountManagerCmdUnix2.accesskey "s">
-<!ENTITY preferencesCmd2.label "Nastajenja">
-<!ENTITY preferencesCmd2.accesskey "N">
-<!ENTITY preferencesCmdUnix.label "Nastajenja">
-<!ENTITY preferencesCmdUnix.accesskey "N">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -223,7 +201,6 @@
 <!ENTITY sendButton.label "Pósłaś">
 <!ENTITY quoteButton.label "Citěrowaś">
 <!ENTITY addressButton.label "Kontakty">
-<!ENTITY attachButton.label "Pśipowjesyś">
 <!ENTITY spellingButton.label "Pšawopis">
 <!ENTITY saveButton.label "Składowaś">
 <!ENTITY printButton.label "Śišćaś">
@@ -233,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Toś tu powěsć pózdźej wótpósłaś">
 <!ENTITY quoteButton.tooltip "Pśedchadnu powěsć citěrowaś">
 <!ENTITY addressButton.tooltip "Dostawarja z adresnika wubraś">
-<!ENTITY attachButton.tooltip2 "Pśidank pśidaś">
 <!ENTITY spellingButton.tooltip "Pšawopis wubranego teksta abo cełeje powěsći kontrolěrowaś">
 <!ENTITY saveButton.tooltip "Toś tu powěsć składowaś">
 <!ENTITY cutButton.tooltip              "Wurězaś">
@@ -248,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Druge typy adresowych pólow">
 <!ENTITY fromAddr2.label "Wót">
 <!ENTITY fromAddr.accesskey "t">
-<!ENTITY toAddr2.label "Komu">
-<!ENTITY ccAddr2.label "Kopija">
-<!ENTITY bccAddr2.label "Schowana kopija">
 <!ENTITY replyAddr2.label "Wótegrono - komu">
 <!ENTITY newsgroupsAddr2.label "Diskusijna kupka">
 <!ENTITY followupAddr2.label "Wótegrono do">
@@ -309,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "k">
 <!ENTITY selectAll.label "Wšo wubraś">
 <!ENTITY selectAll.accesskey "b">
-<!ENTITY attachFile.label "Dataje pśipowjesyś…">
-<!ENTITY attachFile.accesskey "D">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Konwertěrowaś do…">

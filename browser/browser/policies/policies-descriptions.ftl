@@ -65,8 +65,6 @@ policy-DisableForgetButton = Pśistup k tłocaškoju Zabyś zakazaś.
 
 policy-DisableFormHistory = Pytańsku a formularnu historiju se njespomnjeś.
 
-policy-DisableMasterPasswordCreation = Jolic wěrno, njedajo se głowne gronidko napóraś.
-
 policy-DisablePrimaryPasswordCreation = Jolic to trjefijo, njedajo se głowne gronidło napóraś.
 
 policy-DisablePasswordReveal = Njedowóliś, až se gronidła w skłaźonych pśizjawjenjach pokazuju
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Zestarjone zaźaržanj
 policy-LocalFileLinks = Wěstym websedłam dowóliś, na lokalne dataje wótkazaś.
 
 policy-ManagedBookmarks = Konfigurěrujo lisćinu cytańskich znamjenjow, kótarež administrator zastoj a kótarež wužywaŕ njamóžo změniś.
-
-policy-MasterPassword = Głowne gronidło pominaś abo jogo wužywanjeju zajźowaś
 
 policy-ManualAppUpdateOnly = Jano manuelne aktualizacije dowóliś a wužywarja wó aktualizacijach njeinforměrowaś.
 

@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Lisćina
 
-blocklist-button-cancel =
-    .label = Pśetergnuś
-    .accesskey = P
-
-blocklist-button-ok =
-    .label = Změny składowaś
-    .accesskey = s
-
 blocklist-dialog =
     .buttonlabelaccept = Změny składowaś
     .buttonaccesskeyaccept = s

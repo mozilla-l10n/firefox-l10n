@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Rejtarik ako cytańske znamje składowaś
     .accesskey = t
-reopen-in-container =
-    .label = W kontejnerje znowego wócyniś
-    .accesskey = k
 tab-context-open-in-new-container-tab =
     .label = W nowem kontejnerowem rejtariku wócyniś
     .accesskey = k
@@ -69,28 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Někotare rejtariki zacyniś
     .accesskey = N
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] { $tabCount } zacynjony rejtarik wócyniś
-            [one] { $tabCount }  zacynjony rejtarik wócyniś
-            [two] { $tabCount } zacynjonej rejtarika wócyniś
-            [few] { $tabCount } zacynjone rejtariki wócyniś
-           *[other] { $tabCount } zacynjonych rejtarikow wócyniś
-        }
-    .accesskey = z
-close-tab =
-    .label = Rejtarik zacyniś
-    .accesskey = z
-close-tabs =
-    .label = Rejtariki zacyniś
-    .accesskey = z
-move-tabs =
-    .label = Rejtariki pśesunuś
-    .accesskey = s
-move-tab =
-    .label = Rejtarik pśesunuś
-    .accesskey = s
 tab-context-share-url =
     .label = Źěliś
     .accesskey = i
@@ -140,6 +115,7 @@ tab-context-move-tabs =
            *[other] { $tabCount } rejtarikow pśesunuś
         }
     .accesskey = s
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

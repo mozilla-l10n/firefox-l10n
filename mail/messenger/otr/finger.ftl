@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Palcowe wóotśišće OTR-kluca z pjerwjejšnych rozgronow wót kóńca do kóńca.
 
-finger-screenName =
-    .label = Kontakt
-
 finger-screen-name =
     .label = Kontakt
 finger-verified =

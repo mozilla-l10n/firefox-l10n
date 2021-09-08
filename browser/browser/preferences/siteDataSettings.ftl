@@ -7,10 +7,13 @@
 
 site-data-settings-window =
     .title = Cookieje a sedłowe daty zastojaś
+
 site-data-settings-description = Slěujuce websedła cookieje a sedłowe daty na wašom licadle składuju. { -brand-short-name } daty z websedłow z wobstawnym składowanim wobchowujo, daniž je njewulašujośo, a wulašujo daty z websedłow z njewobstawnym składowanim, jolic lichy rum jo trěbny.
+
 site-data-search-textbox =
     .placeholder = Websedła pytaś
     .accesskey = s
+
 site-data-column-host =
     .label = Sedło
 site-data-column-cookies =
@@ -19,20 +22,18 @@ site-data-column-storage =
     .label = Składowak
 site-data-column-last-used =
     .label = Slědny raz wužyty
+
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (lokalna dataja)
+
 site-data-remove-selected =
     .label = Wubrane wótwónoźeś
     .accesskey = u
-site-data-button-cancel =
-    .label = Pśetergnuś
-    .accesskey = P
-site-data-button-save =
-    .label = Změny składowaś
-    .accesskey = s
+
 site-data-settings-dialog =
     .buttonlabelaccept = Změny składowaś
     .buttonaccesskeyaccept = s
+
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
@@ -40,9 +41,11 @@ site-storage-usage =
     .value = { $value } { $unit }
 site-storage-persistent =
     .value = { site-storage-usage.value } (stawny)
+
 site-data-remove-all =
     .label = Wše wótwónoźeś
     .accesskey = t
+
 site-data-remove-shown =
     .label = Wše pokazane wótwónoźeś
     .accesskey = k
@@ -52,9 +55,13 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Wótwónoźeś
+
 site-data-removing-header = Cookieje a sedłowe daty wótwónoźeś
+
 site-data-removing-desc = Jo móžno, až se was wótzjawjaju, gaž cookieje a sedłowe daty wótwónoźujośo. Cośo změny napšawdu pśewjasć?
+
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Gaž cookieje a sedłowe daty wótwónoźujośo, wótzjawijośo se snaź wót websedłow. Cośo napšawdu swóje cookieje a sedłowe daty za <strong>{ $baseDomain }</strong> wótwónoźeś?
+
 site-data-removing-table = Cookieje a sedłowe daty se za slědujuce websedła wótwónoźiju

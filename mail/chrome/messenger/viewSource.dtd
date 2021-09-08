@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Bok składowaś ako…">
 <!ENTITY savePageCmd.accesskey "B">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Bok zarědowaś…">
-<!ENTITY pageSetupCmd.accesskey "r">
-<!ENTITY printPreviewCmd.label "Śišćarski pśeglěd">
-<!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Śišćaś…">
 <!ENTITY printCmd.accesskey "i">
 <!ENTITY printCmd.commandkey "P">

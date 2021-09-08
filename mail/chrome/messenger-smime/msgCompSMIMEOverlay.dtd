@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Toś tu powěsć digitalnje signěrowaś">
 <!ENTITY menu_securitySign.accesskey "s">
 
-<!ENTITY menu_securityAttachMyKey.label "Mój zjawny kluc pśipowjesyś">
-<!ENTITY menu_securityAttachMyKey.accesskey "M">
-
 <!ENTITY menu_securityTech.label "Koděrowańska technologija">
 <!ENTITY menu_securityTech.accesskey "d">
 

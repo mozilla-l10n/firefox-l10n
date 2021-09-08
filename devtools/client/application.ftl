@@ -28,16 +28,6 @@ serviceworker-worker-unregister = Registrěrowanje skóńcyś
 serviceworker-worker-debug = Za zmólkami pytaś
     .title = Jano běžne service workers daju se za zmólkami pśepytaś
 
-# Text for the debug link displayed for an already started Service Worker, when we
-# are in multi e10s mode, which effectively disables this link.
-serviceworker-worker-debug-forbidden = Za zmólkami pytaś
-    .title = Móžo jano service workers za zmólkami pśepytowaś, jolic multiprocesowy e10s jo znjemóžnjony
-
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start2 = Startowaś
-    .title = Móžo jano service workers startowaś, jolic multiporcesowy e10s jo znjemóžnjony
-
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Pśepytowaś
@@ -50,12 +40,6 @@ serviceworker-worker-start3 = Start
 # display the last update time of the service worker script.
 serviceworker-worker-updated = <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time> zaktualizěrowany
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = Žrědło
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = Status
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -65,26 +49,6 @@ serviceworker-worker-status-running = Běžece
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Zastajony
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Musyśo service worker registrěrowaś, aby jen tu pśepytował. <a>Dalšne informacije</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = Jolic aktualny bok ma service worker, móžośo tole wopytaś
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = W konsoli za zmólkami pytaś. <a>Konsolu wócyniś</a>
-
-# Suggestion to use the debugger to investigate why a service worker is not registered.
-# Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Pśeglědujśo swóju registrěrowanje service worker a pytajśo za wuwześami. <a>Pytanje za zmólkami wócyniś</a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Pśepytujśo service workers wót drugich domenow. <a>about:debugging wócyniś</a>
 
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = Žeden service worker namakany.
@@ -103,10 +67,6 @@ serviceworker-empty-suggestions-aboutdebugging2 = Service worker z drugich domen
 
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest nałoženja
-
-# Header for the Manifest page when there's no manifest to inspect
-# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = Musyśo manifest webnałoženja pśidaś, aby jen how pśepytował. <a>Dalšne informacije</a>
 
 # Header for the Manifest page when there's no manifest to inspect
 manifest-empty-intro2 = Žeden manifest webnałoženja namakany

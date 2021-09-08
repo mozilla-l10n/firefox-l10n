@@ -9,8 +9,6 @@
 
 process-type-web = Webwopśimjeśe
 
-process-type-browser = Głowny
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Priwilegěrowane boki about

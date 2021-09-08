@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR-nastajenja
 otr-log =
     .label = Skoděrowane OTR-powěsći do rozgronowych protokolow pśiwześ
-otr-requireEncryption =
-    .label = Koděrowanje wót kóńca do kóńca za rozgrona mjazy dwěma wósoboma pominaś
-otr-verifyNudge =
-    .label = Mě pśecej na to dopomniś, njepśeglědany kontakt pśeglědowaś
-
-otr-notYetAvailable = njejo hyšći k dispoziciji
 
 otr-require-encryption =
     .label = Koděrowanje wót kóńca do kóńca za rozgrona mjazy dwěma wósoboma pominaś

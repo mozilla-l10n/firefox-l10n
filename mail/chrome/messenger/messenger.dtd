@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Śišćaś…">
 <!ENTITY printCmd.accesskey "i">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Śišćarski pśeglěd">
-<!ENTITY printPreviewCmd.accesskey "a">
-<!ENTITY printSetupCmd.label "Bok zarědowaś…">
-<!ENTITY printSetupCmd.accesskey "B">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Powěsć lašowaś">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Kompaktny naglěd">
 <!ENTITY compactVersion.accesskey "K">
-<!ENTITY folderPaneBar.label "Symbolowa rědka zarědnikowego wobcerka">
-<!ENTITY folderPaneBar.accesskey "S">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortěrowaś pó">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Adresnik">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Dodanki">
-<!ENTITY addons.accesskey "D">
-<!ENTITY addonPrefs.label "Nastajenja dodanka">
-<!ENTITY addonPrefs.accesskey "N">
-<!ENTITY addonPrefsUnix.label "Nastajenja dodanka">
-<!ENTITY addonPrefsUnix.accesskey "N">
 <!ENTITY addonNoPrefs.label "Nastajenja dodanka njejsu se namakali.">
 <!ENTITY activitymanager.label "Zastojnik aktiwity">
 <!ENTITY activitymanager.accesskey "Z">
@@ -522,8 +510,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Dodanki za zmólkami pśepytowaś">
 <!ENTITY debugAddonsCmd.accesskey "D">
-<!ENTITY tabsDebugCmd.label "Pytanje za zmólkami za wopśimjeśowy wobłuk">
-<!ENTITY tabsDebugCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Zmólkowa konsola">
 <!ENTITY errorConsoleCmd.accesskey "Z">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -547,15 +533,11 @@
 <!ENTITY backButton1.label "Slědk">
 <!ENTITY goForwardButton1.label "Doprědka">
 <!ENTITY deleteItem.title "Lašowaś">
-<!ENTITY deleteButton.label "Lašowaś">
-<!ENTITY undeleteButton.label "Wótnowiś">
 <!ENTITY markButton.label "Markěrowaś">
 <!ENTITY printButton.label "Śišćaś">
 <!ENTITY stopButton.label "Stoj">
 <!ENTITY throbberItem.title "Indikator aktiwity">
 <!ENTITY junkItem.title "Cajk">
-<!ENTITY junkButton.label "Cajk">
-<!ENTITY notJunkButton.label "Njecajk">
 <!ENTITY addressBookButton.label "Adresnik">
 <!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Globalne pytanje">
@@ -587,19 +569,14 @@
 <!ENTITY previousMsgButton.tooltip "K pjerwjejšnej powěsći pśesunuś">
 <!ENTITY goForwardButton.tooltip "Wó jadnu powěsć doprědka">
 <!ENTITY goBackButton.tooltip "Wó jadnu powěsć slědk">
-<!ENTITY deleteButton.tooltip "Wubranu powěsć abo wubrany zarědnik wulašowaś">
-<!ENTITY undeleteButton.tooltip "Wubranu powěsć wótnowiś">
 <!ENTITY markButton.tooltip "Powěsći markěrowaś">
 <!ENTITY printButton.tooltip "Toś tu powěsć śišćaś">
 <!ENTITY stopButton.tooltip "Aktualne pśenjasenje zastajiś">
-<!ENTITY junkButton.tooltip "Wubrane powěsći ako cajk markěrowaś">
-<!ENTITY notJunkButton.tooltip "Wubrane powěsći ako njecajk markěrowaś">
 <!ENTITY addressBookButton.tooltip "K adresnikoju">
 <!ENTITY chatButton.tooltip "Chatowy rejtarik pokazaś">
 <!ENTITY tagButton.tooltip "Powěsći wóznamjeniś">
 <!ENTITY compactButton.tooltip "Wulašowane powěsći z wubranego zarědnika wótpóraś">
 <!ENTITY appmenuButton1.tooltip "Meni &brandShortName; zwobrazniś">
-<!ENTITY addonsButton.tooltip "Zastojśo swóje dodanki">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Zasajźonu dalej pósrědnis">

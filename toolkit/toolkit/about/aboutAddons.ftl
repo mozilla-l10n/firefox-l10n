@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Zastojnik dodankow
-
 addons-page-title = Zastojnik dodankow
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Pomoc za dodanki
 sidebar-help-button-title =
     .title = Pomoc za dodanki
 
-preferences =
-    { PLATFORM() ->
-        [windows] Nastajenja { -brand-short-name }
-       *[other] Nastajenja { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Nastajenja { -brand-short-name }
-           *[other] Nastajenja { -brand-short-name }
-        }
-
 addons-settings-button = Nastajenja { -brand-short-name }
 sidebar-settings-button-title =
     .title = Nastajenja { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Wšykne rozšyrjenja pokazaś
-
-cmd-show-details =
-    .label = Dalšne informacije pokazaś
-    .accesskey = i
-
-cmd-find-updates =
-    .label = Aktualizacije pytaś
-    .accesskey = A
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Nastajenja
-           *[other] Nastajenja
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] N
-        }
-
-cmd-enable-theme =
-    .label = Drastwu wužywaś
-    .accesskey = r
-
-cmd-disable-theme =
-    .label = Drastwu wěcej njewužywaś
-    .accesskey = w
-
-cmd-install-addon =
-    .label = Instalěrowaś
-    .accesskey = I
-
-cmd-contribute =
-    .label = Pśinosowaś
-    .accesskey = P
-    .tooltiptext = K wuwiśeju toś togo dodanka pśinosowaś
 
 detail-version =
     .label = Wersija
@@ -395,8 +343,6 @@ dictionary-disabled-heading = Znjemóžnjony
 
 locale-enabled-heading = Zmóžnjony
 locale-disabled-heading = Znjemóžnjony
-
-ask-to-activate-button = Za aktiwěrowanje se pšašaś
 
 always-activate-button = Pśecej aktiwěrowaś
 never-activate-button = Nigda njeaktiwěrowaś

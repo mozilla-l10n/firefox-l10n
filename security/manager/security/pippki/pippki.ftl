@@ -6,9 +6,6 @@ password-quality-meter = Měridło kakosći gronidła
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Głowne gronidło změniś
-
 change-device-password-window =
     .title = Gronidło změniś
 
@@ -20,10 +17,6 @@ change-password-new = Nowe gronidło:
 change-password-reenter = Nowe gronidło (hyšći raz):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Głowne gronidło slědk stajiś
-    .style = width: 40em
 
 pippki-failed-pw-change = Njejo móžno, gronidło změniś.
 pippki-incorrect-pw = Njejsćo pšawe gronidło zapódał. Pšosym wopytajśo hyšći raz.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Slědk stajiś
-reset-password-text = Jolic stajiśo swójo głowne gronidło slědk, zgubiju se wšykne waše składowane webowe a e-mailowe gronidła, formularne daty, wósobinske certifikaty a priwatne kluce. Cośo napšawdu swój głowne gronidło slědk stajiś?
 
 reset-primary-password-text = Jolic stajiśo swójo głowne gronidło slědk, zgubiju se wšykne waše składowane webowe a e-mailowe gronidła, wósobinske certifikaty a priwatne kluce. Cośo napšawdu swój głowne gronidło slědk stajiś?
 
