@@ -7,6 +7,20 @@
 ### feature.
 
 about-unloads-page-title = Rajtark wotstronić
+about-unloads-intro-1 =
+    { -brand-short-name } ma funkciju, kotraž rajtarki awtomatisce wotstronja,
+    zo by tomu zadźěwała, zo nałoženje njedosahaceho składa dla spaduje,
+    hdyž skład, kotryž je systemej k dispoziciji, je niski. Přichodny rajtark, kotryž ma so wotstronić so
+    na zakładźe wjacorych atributow wuběra. Tuta strona pokazje, kak
+    { -brand-short-name } prioritu rajtarkow staja a kotry rajtark so wotstroni,
+    hdyž wotstronjenje rajtark so pušći.
+about-unloads-intro-2 =
+    Eksistowace rajtarki so w tabeli deleka w samsnym porjedźe pokazuja, kotryž
+    { -brand-short-name } wužiwa, zo by přichodny rajtark wotstronił. Procesowe ID so
+    <strong>tučnje</strong> pokazuja, hdyž najwyši wobłuk hospoduja
+    a <em>kursiwnje</em>, hdyž proces so mjez rozdźělnymi rajtarkami dźěli.
+    Móžeće rajtark manuelnje pušćić, hdyž na tłóčatko <em>Wotstronić</em>
+    deleka klikaće.
 about-unloads-last-updated = Poslednja aktualizacija: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Wotstronić
     .title = Rajtark z najwyšej prioritu wotstronić
