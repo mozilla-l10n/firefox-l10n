@@ -4,12 +4,6 @@
 
 <!-- extracted from ./customize.xul -->
 
-<!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "Anpassa &sidebarName;">
-<!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Flikar i &sidebarName;:">
-<!ENTITY sidebar.customize.current.accesskey    "F">
-
 <!ENTITY sidebar.customize.title                "Anpassa sidofält">
 <!ENTITY sidebar.customize.current2.label       "Flikar i sidofält:">
 <!ENTITY sidebar.customize.current2.accesskey   "F">

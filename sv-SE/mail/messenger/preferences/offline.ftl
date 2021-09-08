@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Följ automatiskt detekterat uppkopplat tillstånd
     .accesskey = d
 
-startup-label = Manuellt tillstånd vid uppstart:
-
 offline-preference-startup-label = Manuellt tillstånd vid uppstart:
 
 status-radio-remember =

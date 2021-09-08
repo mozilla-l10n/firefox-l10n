@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Kräver att webbplatser laddar om bilder och data
 
-clear-site-data-cancel =
-    .label = Avbryt
-    .accesskey = A
-
-clear-site-data-clear =
-    .label = Rensa
-    .accesskey = R
-
 clear-site-data-dialog =
     .buttonlabelaccept = Rensa
     .buttonaccesskeyaccept = R

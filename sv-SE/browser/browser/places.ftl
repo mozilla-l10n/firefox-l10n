@@ -5,9 +5,6 @@
 places-open =
     .label = Öppna
     .accesskey = Ö
-places-open-tab =
-    .label = Öppna i ny flik
-    .accesskey = n
 places-open-in-tab =
     .label = Öppna i ny flik
     .accesskey = f
@@ -17,30 +14,13 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Öppna alla i flikar
     .accesskey = n
-places-open-window =
-    .label = Öppna i nytt fönster
-    .accesskey = f
-places-open-private-window =
-    .label = Öppna i nytt privat fönster
-    .accesskey = i
-places-new-bookmark =
-    .label = Nytt bokmärke…
-    .accesskey = b
-places-new-folder-contextmenu =
-    .label = Ny mapp…
-    .accesskey = a
-places-new-folder =
-    .label = Ny mapp…
-    .accesskey = N
-places-new-separator =
-    .label = Ny avskiljare
-    .accesskey = v
 places-open-in-window =
     .label = Öppna i nytt fönster
     .accesskey = f
 places-open-in-private-window =
     .label = Öppna i nytt privat fönster
     .accesskey = p
+
 places-add-bookmark =
     .label = Lägg till bokmärke…
     .accesskey = b
@@ -53,6 +33,7 @@ places-add-folder =
 places-add-separator =
     .label = Lägg till avskiljare
     .accesskey = a
+
 places-view =
     .label = Visa
     .accesskey = V
@@ -71,19 +52,18 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Efter datum och plats
     .accesskey = t
+
 places-history-search =
     .placeholder = Sökhistorik
 places-bookmarks-search =
     .placeholder = Sök bokmärken
+
 places-delete-domain-data =
     .label = Ta bort all historik för webbplatsen
     .accesskey = b
 places-sortby-name =
     .label = Ordna efter namn
     .accesskey = d
-places-properties =
-    .label = Egenskaper
-    .accesskey = E
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
     .label = Redigera bokmärke…
@@ -101,6 +81,7 @@ places-remove-folder =
            *[other] Ta bort mappar
         }
     .accesskey = m
+
 places-edit-folder2 =
     .label = Redigera mapp...
     .accesskey = i
@@ -112,15 +93,18 @@ places-delete-folder =
            *[other] Ta bort mappar
         }
     .accesskey = b
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Hanterade bokmärken
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Undermapp
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Andra bokmärken
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
@@ -130,6 +114,7 @@ places-remove-bookmark =
            *[other] Ta bort bokmärken
         }
     .accesskey = T
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -140,11 +125,15 @@ places-delete-bookmark =
            *[other] Ta bort bokmärken
         }
     .accesskey = b
+
 places-manage-bookmarks =
     .label = Hantera bokmärken
     .accesskey = H
+
 places-forget-about-this-site-confirmation-title = Glöm bort den här webbplatsen
+
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-message = Denna åtgärd kommer att ta bort all data som är relaterade till { $hostOrBaseDomain } inklusive historik, lösenord, kakor, cache och innehållspreferenser. Är du säker på att du vill fortsätta?
+
 places-forget-about-this-site-forget = Glöm

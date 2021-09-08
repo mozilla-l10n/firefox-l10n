@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = Inställningar för { -brand-short-name }
 
 open-addons-sidebar-button = Tillägg och teman
+

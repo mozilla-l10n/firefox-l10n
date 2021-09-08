@@ -9,33 +9,9 @@ carddav-dialog =
     .buttonlabelaccept = Fortsätt
     .buttonaccesskeyaccept = F
 
-carddav-experimental-warning = Support för CardDAV-adressbok är experimentellt och kan permanent skada dina data. Använd på egen risk.
-
-carddav-provider-label =
-    .value = CardDAV-leverantör:
-    .accesskey = r
-
-carddav-provider-option-other = Annan leverantör…
-
-carddav-url-label =
-    .value = CardDAV URL:
-    .accesskey = U
-
 carddav-username-label =
     .value = Användarnamn:
     .accesskey = A
-carddav-username-input =
-    .placeholder = ditt_namn@exempel.se
-
-carddav-password-label =
-    .value = Lösenord:
-    .accesskey = L
-carddav-password-input =
-    .placeholder = Lösenord
-
-carddav-remember-password =
-    .label = Kom ihåg lösenord
-    .accesskey = K
 
 carddav-location-label =
     .value = Plats:

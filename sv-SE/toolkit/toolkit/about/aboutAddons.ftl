@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Tilläggshanterare
-
 addons-page-title = Tilläggshanterare
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Support för tillägg
 sidebar-help-button-title =
     .title = Support för tillägg
 
-preferences =
-    { PLATFORM() ->
-        [windows] Inställningar för { -brand-short-name }
-       *[other] Inställningar för { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Inställningar för { -brand-short-name }
-           *[other] Inställningar för { -brand-short-name }
-        }
-
 addons-settings-button = { -brand-short-name }-inställningar
 sidebar-settings-button-title =
     .title = { -brand-short-name }-inställningar
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Visa alla utökningar
-
-cmd-show-details =
-    .label = Visa mer information
-    .accesskey = V
-
-cmd-find-updates =
-    .label = Sök efter uppdateringar
-    .accesskey = S
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Inställningar
-           *[other] Inställningar
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] n
-           *[other] n
-        }
-
-cmd-enable-theme =
-    .label = Använd tema
-    .accesskey = ä
-
-cmd-disable-theme =
-    .label = Sluta använd tema
-    .accesskey = ä
-
-cmd-install-addon =
-    .label = Installera
-    .accesskey = I
-
-cmd-contribute =
-    .label = Bidra
-    .accesskey = B
-    .tooltiptext = Ge ett bidrag till utvecklingen av detta tillägg
 
 detail-version =
     .label = Version
@@ -397,8 +345,6 @@ dictionary-disabled-heading = Inaktiverad
 
 locale-enabled-heading = Aktiverad
 locale-disabled-heading = Inaktiverad
-
-ask-to-activate-button = Fråga om aktivering
 
 always-activate-button = Aktivera alltid
 never-activate-button = Aktivera aldrig

@@ -5,19 +5,26 @@
 dock-options-window-dialog =
     .title = Alternativ för programikon
     .style = width: 35em;
+
 dock-options-show-badge =
     .label = Visa märkesikon
     .accesskey = m
+
 bounce-system-dock-icon =
     .label = Animera programikonen när nytt meddelande kommer
     .accesskey = i
+
 dock-icon-legend = Programikonsmärke
+
 dock-icon-show-label =
     .value = Märk programikon med:
+
 count-unread-messages-radio =
     .label = Antal olästa meddelanden
     .accesskey = o
+
 count-new-messages-radio =
     .label = Antal nya meddelanden
     .accesskey = n
+
 notification-settings-info = Du kan inaktivera märket i aviseringsfältet i systeminställningar.

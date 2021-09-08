@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = Du har certifikat från dessa organisationer som identifierar dig
 certmgr-remembered = Dessa certifikat används för att identifiera dig till webbplatser
 certmgr-people = Du har certifikat lagrade som identifierar dessa personer
-certmgr-servers = Du har certifikat lagrade som identifierar dessa servrar
 certmgr-server = Dessa poster identifierar undantag för servercertifikatfel
 certmgr-ca = Du har certifikat lagrade som identifierar dessa certifikatutfärdare
-
-certmgr-detail-general-tab-title =
-    .label = Allmänt
-    .accesskey = A
-
-certmgr-detail-pretty-print-tab-title =
-    .label = Detaljer
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = Verifierar certifikat…
-
-certmgr-subject-label = Utfärdat till
-
-certmgr-issuer-label = Utfärdat av
-
-certmgr-period-of-validity = Giltighetstid
-
-certmgr-fingerprints = Fingeravtryck
-
-certmgr-cert-detail =
-    .title = Certifikatdetaljer
-    .buttonlabelaccept = Stäng
-    .buttonaccesskeyaccept = ä
-
-certmgr-cert-detail-commonname = Common Name (CN)
-
-certmgr-cert-detail-org = Organisation (O)
-
-certmgr-cert-detail-orgunit = Organisationsenhet (OU)
-
-certmgr-cert-detail-serial-number = Serienummer
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 fingeravtryck
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1-fingeravtryck
 
 certmgr-edit-ca-cert =
     .title = Redigera tillitsinställningarna för CA-certifikat
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = Säkerhetsenhet
 
-certmgr-begins-on = Börjar på
-
 certmgr-begins-label =
     .label = Börjar på
-
-certmgr-expires-on = Förfaller
 
 certmgr-expires-label =
     .label = Förfaller
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = Importera…
     .accesskey = m
-
-certmgr-details =
-    .value = Certifikatfält
-    .accesskey = e
-
-certmgr-fields =
-    .value = Fältvärde
-    .accesskey = F
-
-certmgr-hierarchy =
-    .value = Certifikathierarki
-    .accesskey = H
 
 certmgr-add-exception =
     .label = Lägg till undantag…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = Är du säker på att du vill ta bort dessa certifika
 delete-user-cert-impact = Om du tar bort ett av dina egna certifikat kan du inte längre använda det för att identifiera dig med det.
 
 
-delete-ssl-cert-title =
-    .title = Ta bort undantag för servercertifikat
-delete-ssl-cert-confirm = Är du säker på att du vill ta bort dessa serverundantag?
-delete-ssl-cert-impact = Om du tar bort ett serverundantag återställer du de normala säkerhetskontrollerna för servern och kräver att den använder ett giltigt certifikat.
-
-
 delete-ssl-override-title =
     .title = Ta bort undantag för servercertifikat
 delete-ssl-override-confirm = Är du säker på att du vill ta bort detta serverundantag?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = Certifikat med serienummer: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = Certifikatvisare: “{ $certName }”
-
-not-present =
-    .value = <Ej del av certifikat>
-
-# Cert verification
-cert-verified = Detta certifikat har verifierats för följande tillämpningar:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL-klientcertifikat
-
-verify-ssl-server =
-    .value = SSL-servercertifikat
-
-verify-ssl-ca =
-    .value = SSL-certifikatutfärdare (CA)
-
-verify-email-signer =
-    .value = Signeringscertifikat för e-post
-
-verify-email-recip =
-    .value = Mottagarcertifikat för e-post
-
-# Cert verification
-cert-not-verified-cert-revoked = Kan inte verifiera detta certifikat eftersom det har dragits in.
-cert-not-verified-cert-expired = Kan inte verifiera detta certifikat eftersom det har förfallit.
-cert-not-verified-cert-not-trusted = Det går inte att verifiera detta certifikat eftersom det inte är tillförlitligt.
-cert-not-verified-issuer-not-trusted = Kan inte verifiera detta certifikat eftersom utfärdaren inte är tillförlitlig.
-cert-not-verified-issuer-unknown = Kan inte verifiera detta certifikat eftersom utfärdaren är okänd.
-cert-not-verified-ca-invalid = Kan inte verifiera detta certifikat eftersom CA-certifikatet är ogiltigt.
-cert-not-verified_algorithm-disabled = Kan inte verifiera detta certifikat eftersom det signerades med en signaturalgoritm som är inaktiverad på grund av att den är osäker.
-cert-not-verified-unknown = Kan inte verifiera detta certifikat av okänd anledning.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Skicka inget klientcertifikat

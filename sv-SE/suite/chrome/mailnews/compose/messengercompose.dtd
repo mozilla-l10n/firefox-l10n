@@ -47,11 +47,6 @@
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "k">
 
-<!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "Ombryt">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "y">
-
 <!ENTITY accountManagerCmd.label "Kontoinställningar för E-post &amp; Grupper…">
 <!ENTITY accountManagerCmd.accesskey "ä">
 

@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Signera digitalt">
 <!ENTITY menu_securitySign.accesskey "S">
 
-<!ENTITY menu_securityAttachMyKey.label "Bifoga min offentliga nyckel">
-<!ENTITY menu_securityAttachMyKey.accesskey "B">
-
 <!ENTITY menu_securityTech.label "Krypteringsteknologi">
 <!ENTITY menu_securityTech.accesskey "t">
 

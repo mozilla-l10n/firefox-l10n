@@ -35,9 +35,6 @@ connection-proxy-http = HTTP-proxy
     .accesskey = x
 connection-proxy-http-port = Port
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Använd också denna proxy för FTP och HTTPS
-    .accesskey = A
 
 connection-proxy-https-sharing =
     .label = Använd också denna proxy för HTTPS
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS-proxy
     .accesskey = H
 connection-proxy-ssl-port = Port
     .accesskey = o
-
-connection-proxy-ftp = FTP-proxy
-    .accesskey = F
-connection-proxy-ftp-port = Port
-    .accesskey = r
 
 connection-proxy-socks = SOCKS-värd
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Ingen proxy för
     .accesskey = n
 
 connection-proxy-noproxy-desc = Exempel: .mozilla.org, .sunet.se, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Anslutningar till localhost, 127.0.0.1 och ::1 är aldrig anslutna via en proxy.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Anslutning till localhost 127.0.0.1/8 och ::1 går aldrig via proxy.

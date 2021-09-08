@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Spara sida som…">
 <!ENTITY savePageCmd.accesskey "S">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Utskriftsformat…">
-<!ENTITY pageSetupCmd.accesskey "U">
-<!ENTITY printPreviewCmd.label "Förhandsgranska">
-<!ENTITY printPreviewCmd.accesskey "F">
 <!ENTITY printCmd.label "Skriv ut…">
 <!ENTITY printCmd.accesskey "k">
 <!ENTITY printCmd.commandkey "P">

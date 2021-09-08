@@ -58,8 +58,6 @@ printui-options = Alternativ
 printui-headers-footers-checkbox = Skriv ut sidhuvud och sidfot
 printui-backgrounds-checkbox = Skriv ut bakgrunder
 
-printui-selection-checkbox = Skriv endast ut markering
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

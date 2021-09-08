@@ -5,13 +5,6 @@
 close-button =
     .aria-label = Stäng
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Inställningar
-           *[other] Inställningar
-        }
-
 preferences-doc-title = Inställningar
 
 category-list =
@@ -134,21 +127,10 @@ update-in-progress-ok-button = &Ignorera
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsätt
 
-addons-button = Tillägg & teman
-
 account-button = Kontoinställningar
 open-addons-sidebar-button = Tillägg och teman
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Om du vill skapa ett huvudlösenord anger du dina inloggningsuppgifter för Windows. Detta skyddar dina kontons säkerhet.
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = skapa ett huvudlösenord
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Om du vill skapa ett huvudlösenord anger du dina inloggningsuppgifter för Windows. Detta skyddar dina kontons säkerhet.
@@ -219,10 +201,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Anpassa…
     .accesskey = n
-
-tray-icon-label =
-    .label = Visa en ikon i aktivitetsfältet
-    .accesskey = a
 
 biff-use-system-alert =
     .label = Använd systemavisering
@@ -425,9 +403,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Färg:
     .accesskey = F
-
-search-input =
-    .placeholder = Sök
 
 search-handler-table =
     .placeholder = Filtrera innehållstyper och åtgärder
@@ -719,16 +694,6 @@ passwords-button =
     .label = Sparade lösenord…
     .accesskey = S
 
-master-password-description = Ett huvudlösenord skyddar alla dina lösenord, men du måste ange det en gång per session.
-
-master-password-label =
-    .label = Använd ett huvudlösenord
-    .accesskey = A
-
-master-password-button =
-    .label = Byt huvudlösenord…
-    .accesskey = h
-
 
 primary-password-description = Ett huvudlösenord skyddar alla dina lösenord, men du måste ange det en gång per session.
 
@@ -909,26 +874,6 @@ no-preview-description = Det här temat är inte giltigt eller är för närvara
 chat-variant-label =
     .value = Variant:
     .accesskey = V
-
-chat-header-label =
-    .label = Visa rubrik
-    .accesskey = r
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Sök i inställningar
-           *[other] Sök i inställningar
-        }
 
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

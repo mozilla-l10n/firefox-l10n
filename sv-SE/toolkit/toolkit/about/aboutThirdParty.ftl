@@ -10,9 +10,6 @@ third-party-intro =
     i { -brand-short-name }. Alla moduler som inte är signerade av Microsoft
     eller { -vendor-short-name } anses vara en tredjepartsmodul.
 
-third-party-header-module-list = Modullista
-third-party-header-loading-events = Laddar händelser
-
 third-party-message-empty = Inga tredjepartsmoduler upptäcktes.
 third-party-message-no-duration = Inte inspelad
 

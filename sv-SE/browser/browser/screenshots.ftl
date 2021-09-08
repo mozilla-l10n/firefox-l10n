@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Ta en skärmbild
-
-screenshots-my-shots-button = Mina skärmbilder
-
 screenshot-toolbarbutton =
     .label = Skärmdump
     .tooltiptext = Ta en skärmdump
@@ -40,8 +36,6 @@ screenshots-login-error-details = Vi kunde inte spara din skärmbild eftersom de
 
 screenshots-unshootable-page-error-title = Vi kan inte ta en skärmbild av sidan.
 screenshots-unshootable-page-error-details = Detta är inte en vanlig webbsida, så du kan inte ta en skärmbild av den.
-
-screenshots-self-screenshot-error-title = Du kan inte ta en skärmbild av sidan { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Ditt val är för litet
 

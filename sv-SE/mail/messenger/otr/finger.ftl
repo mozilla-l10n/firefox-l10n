@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = OTR-nyckelfingeravtryck från tidigare end-to-end krypterade konversationer.
 
-finger-screenName =
-    .label = Kontakt
-
 finger-screen-name =
     .label = Kontakt
 finger-verified =

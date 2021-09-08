@@ -65,8 +65,6 @@ policy-DisableForgetButton = Förhindra tillgång till knappen Glöm.
 
 policy-DisableFormHistory = Spara inte sök- och formulärhistorik.
 
-policy-DisableMasterPasswordCreation = Om aktiv, kan inte ett huvudlösenord skapas.
-
 policy-DisablePrimaryPasswordCreation = Om det är sant kan ett huvudlösenord inte skapas.
 
 policy-DisablePasswordReveal = Låt inte lösenord avslöjas i sparade inloggningar.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Återgå till föråld
 policy-LocalFileLinks = Tillåt specifika webbplatser att länka till lokala filer.
 
 policy-ManagedBookmarks = Konfigurerar en lista över bokmärken som hanteras av en administratör som inte kan ändras av användaren.
-
-policy-MasterPassword = Kräv eller förhindra användandet av ett huvudlösenord.
 
 policy-ManualAppUpdateOnly = Tillåt endast manuella uppdateringar och meddela inte användaren om uppdateringar.
 
