@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sanitizeDialog.title "Limpiar datos privados">
-
 <!ENTITY sanitizeDialog.width "45em">
-
 <!ENTITY clearTimeDuration.label "Intervalo de tiempo a limpiar: ">
 <!ENTITY clearTimeDuration.accesskey "I">
 <!ENTITY clearTimeDuration.lastHour "La última hora">
@@ -14,13 +12,9 @@
 <!ENTITY clearTimeDuration.today "Hoy">
 <!ENTITY clearTimeDuration.everything "Todo">
 <!ENTITY clearTimeDuration.suffix "">
-
 <!ENTITY sanitizeSelectedWarning "Se eliminarán todos los elementos seleccionados.">
-
 <!ENTITY sanitizeUndoWarning "Esta acción no puede deshacerse.">
-
 <!ENTITY sanitizeItems.label "Vaciar ahora los siguientes elementos:">
-
 <!ENTITY itemHistory.label "Historial de navegación">
 <!ENTITY itemHistory.accesskey "H">
 <!ENTITY itemHistoryS.accesskey "v">

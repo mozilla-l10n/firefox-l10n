@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabHeader.label "Navegación con pestañas">
-
 <!ENTITY tabDisplay.label "Visualización de pestañas">
 <!ENTITY autoHide.label "Esconder la barra de pestañas cuando sólo haya una abierta">
 <!ENTITY autoHide.accesskey2 "r">
@@ -17,7 +16,6 @@
 <!ENTITY warnOnClose.accesskey "c">
 <!ENTITY relatedAfterCurrent.label "Abrir pestañas relacionadas tras la pestaña actual">
 <!ENTITY relatedAfterCurrent.accesskey "b">
-
 <!ENTITY openTabs.label "Abrir pestañas en vez de ventanas cuando:">
 <!ENTITY middleClick.label "Clic con el botón central, Ctrl+clic o Ctrl+Enter en enlaces en una página web">
 <!ENTITY middleClick.accesskey "n">
@@ -27,7 +25,6 @@
 <!ENTITY urlbar.accesskey "o">
 <!ENTITY urlbarMac.label "⌘+Return en la barra de direcciones">
 <!ENTITY urlbarMac.accesskey "u">
-
 <!ENTITY openManagers.label "Abrir en una pestaña nueva en lugar de en una ventana independiente">
 <!ENTITY openDataManager.label "Administrador de datos">
 <!ENTITY openDataManager.accesskey "d">

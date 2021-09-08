@@ -2,13 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Entities for AccountWizard -->
-
 <!ENTITY windowTitle.label "Asistente de cuentas">
 <!ENTITY accountWizard.size "width: 42em; height: 38em;">
-
-<!-- Entities for Account Type page -->
-
 <!ENTITY accountSetupInfo2.label "Para poder recibir mensajes, primero necesita configurar una cuenta.">
 <!ENTITY accountTypeTitle.label "Configuración de nueva cuenta">
 <!ENTITY accountTypeDesc2.label "Este asistente recopilará la información necesaria para configurar una cuenta. Si no conoce la información solicitada, contacte con el administrador de su sistema o el proveedor de servicios de internet.">
@@ -17,22 +12,14 @@
 <!ENTITY accountTypeMail.accesskey "c">
 <!ENTITY accountTypeNews.label "Cuenta de noticias">
 <!ENTITY accountTypeNews.accesskey "n">
-
-<!-- Entities for Identity page -->
-
 <!ENTITY identityTitle.label "Identidad">
 <!ENTITY identityDesc.label "Cada cuenta tiene una identidad, que es la información que le identifica a usted ante otros cuando reciben sus mensajes.">
-
 <!ENTITY fullnameDesc.label "Introduzca el nombre que quiere que aparezca en el campo &quot;De&quot; al enviar mensajes">
 <!ENTITY fullnameExample.label "(por ejemplo, &quot;José Pérez&quot;).">
 <!ENTITY fullnameLabel.label "Su nombre:">
 <!ENTITY fullnameLabel.accesskey "S">
-
 <!ENTITY emailLabel.label "Dirección de correo electrónico:">
 <!ENTITY emailLabel.accesskey "E">
-
-<!-- Entities for Incoming Server page -->
-
 <!ENTITY incomingTitle.label "Información del servidor entrante">
 <!ENTITY incomingServerTypeDesc.label "Seleccione el tipo de servidor de entrada que está utilizando.">
 <!ENTITY imapType.label "IMAP">
@@ -54,9 +41,6 @@
 <!ENTITY newsServerNameDesc.label "Introduzca el nombre de su servidor de noticias (NNTP) (por ejemplo, &quot;news.ejemplo.net&quot;).">
 <!ENTITY newsServerLabel.label "Servidor de noticias:">
 <!ENTITY newsServerLabel.accesskey "n">
-
-<!-- Entities for Outgoing Server page -->
-
 <!ENTITY outgoingTitle.label "Información del servidor de salida">
 <!ENTITY outgoingServer.description "Introduzca el nombre de su servidor de salida (SMTP) (por ejemplo, &quot;smtp.ejemplo.net&quot;).">
 <!ENTITY outgoingServer.label "Servidor de correo de salida:">
@@ -64,7 +48,6 @@
 <!ENTITY outgoingUsername.description "Introduzca el nombre de usuario saliente facilitado por su proveedor de correo electrónico (normalmente es el mismo que el entrante).">
 <!ENTITY outgoingUsername.label "Nombre de usuario saliente:">
 <!ENTITY outgoingUsername.accesskey "u">
-
 <!ENTITY modifyOutgoing.suffix "Puede modificar las opciones del servidor de salida desde la configuración de cuentas de Correo y noticias.">
 <!ENTITY haveSmtp1.prefix "Su servidor de salida (SMTP) existente, &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;.">
@@ -72,16 +55,10 @@
 <!ENTITY haveSmtp2.suffix3 "&quot;.">
 <!ENTITY haveSmtp3.prefix "Su servidor de salida (SMTP), &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, es idéntico a su servidor de entrada, por lo que se usará su nombre de usuario para acceder a él.">
-
-<!-- Entities for Account name page -->
-
 <!ENTITY accnameTitle.label "Nombre de la cuenta">
 <!ENTITY accnameDesc.label "Introduzca el nombre por el que desea referirse a esta cuenta (por ejemplo, &quot;Cuenta del trabajo&quot;, &quot;Cuenta de casa&quot; o &quot;Cuenta de noticias&quot;).">
 <!ENTITY accnameLabel.label "Nombre de la cuenta:">
 <!ENTITY accnameLabel.accesskey "A">
-
-<!-- Entities for Done (Congratulations) page -->
-
 <!ENTITY completionTitle.label "¡Felicidades!">
 <!ENTITY completionText.label "Compruebe que la información de debajo es correcta.">
 <!ENTITY serverTypePrefix.label "Tipo de servidor de entrada:">

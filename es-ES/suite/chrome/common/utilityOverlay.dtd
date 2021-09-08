@@ -4,9 +4,6 @@
 
 <!ENTITY offlineGoOfflineCmd.label "Trabajar sin conexión">
 <!ENTITY offlineGoOfflineCmd.accesskey "x">
-
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
-
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "a">
 <!ENTITY newMenu.label "Nuevo">
@@ -34,7 +31,6 @@
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "P">
-
 <!ENTITY preferencesCmdMac.label "Preferencias…">
 <!ENTITY preferencesCmdMac.key ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
@@ -50,7 +46,6 @@
 <!ENTITY openHelpCmdMac.accesskey "u">
 <!ENTITY openHelpCmdMac.key "?">
 <!ENTITY openHelpCmdMac.modifiers "accel">
-
 <!ENTITY quitApplicationCmd.label "Salir">
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "S">
@@ -58,7 +53,6 @@
 <!ENTITY quitApplicationCmdMac.accesskey "S">
 <!ENTITY quitApplicationCmdUnix.label "Salir">
 <!ENTITY quitApplicationCmdUnix.accesskey "S">
-
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Deshacer">
@@ -79,7 +73,6 @@
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteGoCmd.label "Pegar y visitar">
 <!ENTITY pasteGoCmd.accesskey "v">
-
 <!ENTITY pasteSearchCmd.label "Pegar y buscar">
 <!ENTITY pasteSearchCmd.accesskey "e">
 <!ENTITY deleteCmd.label "Eliminar">
@@ -114,14 +107,12 @@
 <!ENTITY findTypeLinksCmd.label "Encontrar enlaces a medida que escribe">
 <!ENTITY findTypeLinksCmd.key "'">
 <!ENTITY findTypeLinksCmd.accesskey "o">
-
 <!ENTITY viewMenu.label "Ver">
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Mostrar/Ocultar">
 <!ENTITY viewToolbarsMenu.accesskey "s">
 <!ENTITY showTaskbarCmd.label "Barra de estado">
 <!ENTITY showTaskbarCmd.accesskey "S">
-
 <!ENTITY helpMenu.label "Ayuda">
 <!ENTITY helpMenu.accesskey "u">
 <!ENTITY helpMenuWin.label "Ayuda">
@@ -129,7 +120,6 @@
 <!ENTITY openHelpCmd.label "Contenido de la ayuda">
 <!ENTITY openHelpCmd.accesskey "u">
 <!ENTITY openHelpCmd.key "VK_F1">
-
 <!ENTITY helpTroubleshootingInfo.label "Información sobre resolución de problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey "n">
 <!ENTITY releaseCmd.label "Notas de esta versión">
@@ -142,7 +132,6 @@
 <!ENTITY aboutCmd.accesskey "A">
 <!ENTITY aboutCommPluginsCmd.label "Acerca de los plugins">
 <!ENTITY aboutCommPluginsCmd.accesskey "p">
-
 <!ENTITY direct.label "Conectado (proxy: ninguno)">
 <!ENTITY direct.accesskey "N">
 <!ENTITY manual.label "Conectado (proxy: manual)">
@@ -153,20 +142,15 @@
 <!ENTITY wpad.accesskey "D">
 <!ENTITY system.label "Conectado (Proxy: proxy del sistema)">
 <!ENTITY system.accesskey "S">
-
 <!ENTITY proxy.label "Configuración proxy…">
 <!ENTITY proxy.accesskey "C">
-
 <!ENTITY bidiSwitchTextDirectionItem.label "Cambiar dirección del texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "C">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
-
 <!ENTITY menubarCmd.label "Barra de menú">
 <!ENTITY menubarCmd.accesskey "B">
-
 <!ENTITY customizeToolbarContext.label "Personalizar…">
 <!ENTITY customizeToolbarContext.accesskey "P">
-
 <!ENTITY customizeToolbar.toolbarmode.label "Configuración de esta barra de herramientas">
 <!ENTITY customizeToolbar.toolbarmode.accesskey "n">
 <!ENTITY customizeToolbar.iconsAndText.label "Iconos y texto">
@@ -181,14 +165,11 @@
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "o">
 <!ENTITY customizeToolbar.useDefault.label "Usar valores predeterminados">
 <!ENTITY customizeToolbar.useDefault.accesskey "U">
-
 <!ENTITY allowPopups.accesskey "p">
 <!ENTITY showPopupManager.label "Administrar ventanas emergentes">
 <!ENTITY showPopupManager.accesskey "A">
 <!ENTITY dontShowMessage.label "No mostrar este mensaje cuando se bloqueen ventanas emergentes">
 <!ENTITY dontShowMessage.accesskey "N">
-
 <!ENTITY throbber.title "Icono de aplicación">
 <!ENTITY throbber.tooltip2 "Ir a la página principal de &brandShortName;">
-
 <!ENTITY syncToolbarButton.label "Sync">
