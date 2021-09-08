@@ -13,11 +13,6 @@ crashes-id = ID Laporan
 crashes-send-date = Dihantar
 crashes-all-reports = Semua Laporan Ranap
 crashes-no-config = APlikasi ini tidak dikonfigurkan untuk memaparkan laporan nahas.
-extensions-title = Ekstensi
-extensions-name = Nama
-extensions-enabled = Didayakan
-extensions-version = Versi
-extensions-id = ID
 support-addons-name = Nama
 support-addons-version = Versi
 support-addons-id = ID
@@ -98,8 +93,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Jenis Proses
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
-safe-mode-title = Cuba Mod Selamat
-restart-in-safe-mode-label = Mula semula dengan Add-ons Dinyahdayakan…
 
 ## Media titles
 
@@ -212,19 +205,12 @@ webgl2-renderer = Pemapar WebGL2
 webgl2-version = WebGL 2 Driver Version
 webgl2-driver-extensions = WebGL 2 Driver Extensions
 webgl2-extensions = WebGL 2 Extensions
-blocklisted-bug = Disenarai-sekat oleh sebab isu-isu yang diketahui
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = pepijat { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Disenarai-sekat; kod kegagalan { $failureCode }
 
 d3d11layers-crash-guard = Pengatur huruf D3D11
-d3d11video-crash-guard = D3D11 Dekoder Video
-d3d9video-crash-guard = Penyahkodan Video D3D9
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = Set semula pada Mula semula yang Seterusnya
@@ -254,14 +240,6 @@ sandbox-proc-type-media-plugin = media plugin
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Didayakan oleh pengguna
-multi-process-status-1 = Didayakan mengikut piawai
-multi-process-status-2 = Dinyahdayakan
-multi-process-status-4 = Dinyahdayakan oleh alatan ketercapaian
-multi-process-status-6 = Dinyahdayakan oleh input teks tidak disokong
-multi-process-status-7 = Dinyahdayakan oleh add-ons
-multi-process-status-8 = Dinyahdayakan secara paksa
-multi-process-status-unknown = Status tidak diketahui
 
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = tiada

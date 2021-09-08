@@ -6,13 +6,6 @@
 close-button =
     .aria-label = Tutup
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Pilihan
-           *[other] Keutamaan
-        }
-
 pane-compose-title = Karangan
 category-compose =
     .tooltiptext = Karangan
@@ -31,8 +24,6 @@ manage-messenger-languages-button =
     .accesskey = T
 confirm-messenger-language-change-description = Mula semula { -brand-short-name } untuk melaksanakan perubahan ini
 confirm-messenger-language-change-button = Terap dan Mula semula
-
-addons-button = Ekstensi & Tema
 
 ## OS Authentication dialog
 
@@ -88,10 +79,6 @@ animated-alert-label =
 customize-alert-label =
     .label = Penyesuaian…
     .accesskey = P
-
-tray-icon-label =
-    .label = Papar ikon dulang
-    .accesskey = d
 
 mail-custom-sound-label =
     .label = Gunakan fail bunyian berikut
@@ -275,9 +262,6 @@ smaller-size-item =
 quoted-text-color =
     .label = Warna:
     .accesskey = n
-
-search-input =
-    .placeholder = Cari
 
 type-column-label =
     .label = Jenis Kandungan
@@ -553,16 +537,6 @@ passwords-button =
     .label = Kata laluan Tersimpan…
     .accesskey = K
 
-master-password-description = Kata laluan Induk melindungi semua kata laluan, tapi anda perlu masukkan sekali bagi setiap sesi.
-
-master-password-label =
-    .label = Guna kata laluan induk
-    .accesskey = G
-
-master-password-button =
-    .label = Tukar Kata laluan Induk…
-    .accesskey = T
-
 
 junk-description = Tetapkan tetapan mel remeh piawai. Tetapan Akaun-khusus mel remeh boleh dibuat dalam Tetapan Akaun.
 
@@ -721,10 +695,6 @@ no-preview-description = Tema ini tidak sah atau tidak tersedia masa ini (add-on
 chat-variant-label =
     .value = Varian:
     .accesskey = V
-
-chat-header-label =
-    .label = Papar Pengepala
-    .accesskey = P
 
 ## Preferences UI Search Results
 

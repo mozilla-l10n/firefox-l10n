@@ -30,10 +30,11 @@
 <!ENTITY maxZoom.accesskey                      "a">
 <!ENTITY percent.label                          "&#37;">
 
-<!ENTITY siteSpecific.label                     "Ingat tahap zum berdasarkan setiap laman">
-<!ENTITY siteSpecific.accesskey                 "t">
 <!ENTITY textZoomOnly.label                     "Hanya zum teks, bukan keseluruhan halaman">
 <!ENTITY textZoomOnly.accesskey                 "H">
+<!ENTITY siteSpecific.label                     "Ingat tahap zum berdasarkan setiap laman">
+<!ENTITY siteSpecific.accesskey                 "t">
+<!ENTITY showZoomStatusPanel.label              "Papar kawalan zum dalam bar status">
 <!ENTITY enableAutomaticImageResizing.label     "Saiz semula imej supaya muat mengikut tetingkap pelayar">
 <!ENTITY enableAutomaticImageResizing.accesskey "S">
 
@@ -42,4 +43,3 @@
 <!ENTITY blockAutoRefresh.label                 "Beri amaran apabila laman web cuba untuk mengalih semula atau memuat semula halaman">
 <!ENTITY blockAutoRefresh.accesskey             "B">
 
-<!ENTITY showZoomStatusPanel.label              "Papar kawalan zum dalam bar status">

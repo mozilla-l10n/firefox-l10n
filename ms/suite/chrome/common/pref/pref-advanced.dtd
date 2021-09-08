@@ -5,11 +5,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title              "Lanjutan">
 
-<!ENTITY systemPref.caption               "Keutamaan Sistem">
-<!ENTITY systemPrefCheck.label            "Gunakan Keutamaan Sistem">
-<!ENTITY systemPrefCheck.accesskey        "G">
-<!ENTITY systemPref.desc                  "Dengan pilihan ini, &brandShortName; akan menggunakan keutamaan sistem. Tetapan sistem ini akan menggantikan keutamaan &brandShortName;.">
-
 <!ENTITY prefCheckDefault.caption         "Integrasi Sistem">
 <!ENTITY prefCheckDefaultClient.label     "Semak tetapan aplikasi piawai apabila dimulakan">
 <!ENTITY prefCheckDefaultClient.accesskey "S">

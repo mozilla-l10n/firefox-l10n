@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Pengurus Add-ons
-
 addons-page-title = Pengurus Add-ons
 
 search-header =
@@ -34,61 +31,11 @@ help-button = Sokongan Add-ons
 sidebar-help-button-title =
     .title = Sokongan Add-ons
 
-preferences =
-    { PLATFORM() ->
-        [windows] Pilihan { -brand-short-name }
-       *[other] Keutamaan { -brand-short-name }
-    }
-
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Pilihan { -brand-short-name }
-           *[other] Keutamaan { -brand-short-name }
-        }
-
 show-unsigned-extensions-button =
     .label = Beberapa ekstensi tidak dapat disahkan
 
 show-all-extensions-button =
     .label = Papar semua ekstensi
-
-cmd-show-details =
-    .label = Papar Maklumat Tambahan
-    .accesskey = p
-
-cmd-find-updates =
-    .label = Cari Kemaskini
-    .accesskey = k
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Pilihan
-           *[other] Keutamaan
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] P
-           *[other] K
-        }
-
-cmd-enable-theme =
-    .label = Tema Digunakan
-    .accesskey = i
-
-cmd-disable-theme =
-    .label = Berhenti Menggunakan Tema
-    .accesskey = r
-
-cmd-install-addon =
-    .label = Pasang
-    .accesskey = g
-
-cmd-contribute =
-    .label = Menyumbang
-    .accesskey = a
-    .tooltiptext = Sumbang untuk pembangunan add-on ini
 
 detail-version =
     .label = Versi

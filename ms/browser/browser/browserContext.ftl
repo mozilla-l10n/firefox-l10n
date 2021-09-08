@@ -11,17 +11,6 @@ navbar-tooltip-instruction =
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Undur satu halaman
-    .aria-label = Undur
-    .accesskey = U
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -41,17 +30,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Maju satu halaman
-    .aria-label = Seterusnya
-    .accesskey = S
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -112,9 +90,6 @@ main-context-menu-page-save =
     .label = Simpan Halaman Sebagai…
     .accesskey = S
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-bookmark-add =
@@ -161,10 +136,6 @@ main-context-menu-open-link-new-private-window =
     .label = Buka Pautan dalam Tetingkap Privasi Baru
     .accesskey = P
 
-main-context-menu-bookmark-this-link =
-    .label = Tandabuku Pautan Ini
-    .accesskey = T
-
 main-context-menu-save-link =
     .label = Simpan Pautan Sebagai…
     .accesskey = a
@@ -181,10 +152,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Salin Alamat E-mel
     .accesskey = E
-
-main-context-menu-copy-link =
-    .label = Salin Lokasi Pautan
-    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -209,32 +176,6 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Nyahsenyap
     .accesskey = p
-
-main-context-menu-media-play-speed =
-    .label = Kelajuan Permainan
-    .accesskey = a
-
-main-context-menu-media-play-speed-slow =
-    .label = Perlahan (0.5×)
-    .accesskey = P
-
-main-context-menu-media-play-speed-normal =
-    .label = Normal
-    .accesskey = N
-
-main-context-menu-media-play-speed-fast =
-    .label = Laju (1.25×)
-    .accesskey = L
-
-main-context-menu-media-play-speed-faster =
-    .label = Lebih laju (1.5×)
-    .accesskey = a
-
-# "Ludicrous" is a reference to the movie "Space Balls" and is meant
-# to say that this speed is very fast.
-main-context-menu-media-play-speed-fastest =
-    .label = Amat Laju (2×)
-    .accesskey = L
 
 main-context-menu-media-loop =
     .label = Gelung
@@ -265,29 +206,9 @@ main-context-menu-image-reload =
     .label = Muat Semula Imej
     .accesskey = M
 
-main-context-menu-image-view =
-    .label = Papar Imej
-    .accesskey = I
-
-main-context-menu-video-view =
-    .label = Papar Video
-    .accesskey = V
-
 main-context-menu-image-copy =
     .label = Salin Imej
     .accesskey = n
-
-main-context-menu-image-copy-location =
-    .label = Salin Lokasi Imej
-    .accesskey = o
-
-main-context-menu-video-copy-location =
-    .label = Salin Lokasi Video
-    .accesskey = o
-
-main-context-menu-audio-copy-location =
-    .label = Salin Lokasi Audio
-    .accesskey = o
 
 main-context-menu-image-save-as =
     .label = Simpan Imej Sebagai…
@@ -296,10 +217,6 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = E-mel Imej…
     .accesskey = E
-
-main-context-menu-image-set-as-background =
-    .label = Tetapkan Sebagai Latar Belakang Desktop…
-    .accesskey = S
 
 main-context-menu-image-info =
     .label = Papar Info Imej
@@ -315,10 +232,6 @@ main-context-menu-video-save-as =
 
 main-context-menu-audio-save-as =
     .label = Simpan Audio Sebagai…
-    .accesskey = S
-
-main-context-menu-video-image-save-as =
-    .label = Simpan Snapsyot Sebagai…
     .accesskey = S
 
 main-context-menu-video-email =
@@ -340,10 +253,6 @@ main-context-menu-plugin-hide =
 main-context-menu-send-to-device =
     .label = Hantar Halaman ke Peranti
     .accesskey = P
-
-main-context-menu-view-background-image =
-    .label = Papar Imej Latar belakang
-    .accesskey = g
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -408,10 +317,6 @@ main-context-menu-view-page-source =
     .label = Papar Sumber Halaman
     .accesskey = P
 
-main-context-menu-view-page-info =
-    .label = Papar Info Halaman
-    .accesskey = I
-
 main-context-menu-bidi-switch-text =
     .label = Tukar Hala Teks
     .accesskey = u
@@ -420,13 +325,10 @@ main-context-menu-bidi-switch-page =
     .label = Tukar Hala Halaman
     .accesskey = H
 
-main-context-menu-inspect-element =
-    .label = Periksa Elemen
-    .accesskey = E
-
 main-context-menu-inspect-a11y-properties =
     .label = Periksa Sifat Aksesibiliti
 
 main-context-menu-eme-learn-more =
     .label = Ketahui selanjutnya perihal DRM…
     .accesskey = K
+

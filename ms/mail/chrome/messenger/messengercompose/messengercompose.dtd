@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Baru">
 <!ENTITY newMenu.accesskey "B">
 <!ENTITY newMessage.label "Mesej">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Kenalan Buku Alamat…">
 <!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Lampir">
 <!ENTITY attachMenu.accesskey "r">
-<!ENTITY attachFileCmd.label "Fail…">
-<!ENTITY attachFileCmd.accesskey "F">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Halaman Web…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Hantar Kemudian">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "K">
-<!ENTITY printSetupCmd.label "Penetapan Halaman…">
-<!ENTITY printSetupCmd.accesskey "e">
-<!ENTITY printPreviewCmd.label "Previu Cetakan">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Cetak…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "C">
@@ -82,11 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Susun semula Lampiran…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Anak Tetingkap Lampiran">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
-<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY findBarCmd.label "Cari…">
 <!ENTITY findBarCmd.accesskey "C">
@@ -105,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Susun semula Lampiran">
-<!ENTITY moveAttachmentTopPanelBtn.label "Pindah ke Atas">
-<!ENTITY moveAttachmentUpPanelBtn.label "Pindah Atas">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Pindah bersama">
-<!ENTITY moveAttachmentDownPanelBtn.label "Pindah Bawah">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Pindah ke Bawah">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -207,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Tetapan Akaun">
 <!ENTITY accountManagerCmd2.accesskey "T">
 <!ENTITY accountManagerCmdUnix2.accesskey "T">
-<!ENTITY preferencesCmd2.label "Pilihan">
-<!ENTITY preferencesCmd2.accesskey "P">
-<!ENTITY preferencesCmdUnix.label "Keutamaan">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -223,7 +201,6 @@
 <!ENTITY sendButton.label "Hantar">
 <!ENTITY quoteButton.label "Petikan">
 <!ENTITY addressButton.label "Kenalan">
-<!ENTITY attachButton.label "Lampir">
 <!ENTITY spellingButton.label "Ejaan">
 <!ENTITY saveButton.label "Simpan">
 <!ENTITY printButton.label "Cetak">
@@ -233,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Hantar mesej ini kemudian">
 <!ENTITY quoteButton.tooltip "Petik mesej terdahulu">
 <!ENTITY addressButton.tooltip "Pilih penerima dalam Buku Alamat">
-<!ENTITY attachButton.tooltip2 "Tambah lampiran">
 <!ENTITY spellingButton.tooltip "Semak ejaan pilihan atau seluruh mesej">
 <!ENTITY saveButton.tooltip "Simpan mesej ini">
 <!ENTITY cutButton.tooltip              "Potong">
@@ -298,8 +274,6 @@
 <!ENTITY removeAllAttachments.accesskey "g">
 <!ENTITY selectAll.label "Pilih Semua">
 <!ENTITY selectAll.accesskey "S">
-<!ENTITY attachFile.label "Lampirkan Fail…">
-<!ENTITY attachFile.accesskey "F">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Tukar ke…">

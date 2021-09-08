@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Tambah Penyimpan Baru
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } Keutamaan Penyimpan
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = Ikon
 containers-color-label = Warna
     .accesskey = W
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Siap
-    .accesskey = S
 
 containers-dialog =
     .buttonlabelaccept = Siap

@@ -14,7 +14,6 @@
 <!ENTITY alwaysClear.accesskey            "t">
 
 <!ENTITY askBeforeClear.label             "Tanya saya sebelum membuang data peribadi">
-<!ENTITY askBeforeClear.accesskey         "y">
 
 <!ENTITY clearDataSettings.label          "Apabila diminta membuang data peribadi, &brandShortName; perlu buang:">
 

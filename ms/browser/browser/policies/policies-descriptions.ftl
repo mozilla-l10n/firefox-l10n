@@ -47,8 +47,6 @@ policy-DisableForgetButton = Halang akses ke butang Lupa.
 
 policy-DisableFormHistory = Jangan ingat sejarah carian dan borang.
 
-policy-DisableMasterPasswordCreation = Jika true, kata laluan induk tidak boleh dicipta.
-
 policy-DisablePocket = Nyahdayakan ciri untuk menyimpan laman web ke Pocket.
 
 policy-DisablePrivateBrowsing = Nyahdayakan Pelayaran Peribadi.

@@ -11,10 +11,6 @@
 <!ENTITY castingButton.castingLabel "Tuang pada Skrin">
 <!ENTITY closedCaption.off "Nyahaktif">
 
-<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
-     accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Gelangsar suara">
-
 <!ENTITY error.aborted "Video yang dimuatkan berhenti.">
 <!ENTITY error.network "Video ulangan digugurkan kerana kesalahan rangkaian.">
 <!ENTITY error.decode "Video tidak dapat dimainkan disebabkan fail telah korup.">

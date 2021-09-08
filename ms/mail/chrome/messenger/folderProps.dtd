@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Sifat">
 
 <!ENTITY generalInfo.label                       "Maklumat Umum">
-<!ENTITY folderCharsetFallback2.label            "Pengekodan Teks Unduran:">
-<!ENTITY folderCharsetFallback2.accesskey        "P">
-<!ENTITY folderCharsetEnforce2.label             "Guna pengekodan untuk semua mesej dalam folder (tetapan pengekodan teks mesej individu dan pengesanan auto akan diabaikan)">
-<!ENTITY folderCharsetEnforce2.accesskey         "G">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Bina semula Indeks Fail Ringkasan">
 <!ENTITY folderRebuildSummaryFile2.label         "Pembaikan Folder">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "P">

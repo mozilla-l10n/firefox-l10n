@@ -29,12 +29,6 @@
 <!ENTITY closeCmd.label                                 "Tutup">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "T">
-<!ENTITY printSetupCmd.label                            "Penetapan Halaman…">
-<!ENTITY printSetupCmd.accesskey                        "a">
-<!ENTITY printPreviewContactCmd.label                   "Previu Cetakan Kenalan">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "Previu Cetakan Buku Alamat">
-<!ENTITY printPreviewAddressBook.accesskey              "B">
 <!ENTITY printContactCmd.label                          "Cetak Kenalan…">
 <!ENTITY printContactCmd.accesskey                      "C">
 <!ENTITY printContactCmd.key                            "P">
@@ -107,10 +101,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Eksport…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                          "Pilihan">
-<!ENTITY preferencesCmd2.accesskey                      "P">
-<!ENTITY preferencesCmdUnix.label                       "Keutamaan">
-<!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Kenalan Baru">

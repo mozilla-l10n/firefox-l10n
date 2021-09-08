@@ -6,9 +6,6 @@ password-quality-meter = Meter kualiti kata laluan
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Tukar Katalaluan Induk
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Peranti Sekuriti: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = Kata laluan baru (lagi):
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = Set Semula Katalaluan Induk
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = Set semula
-reset-password-text = Jika anda set semula kata laluan induk, semua kata laluan web dan emel yang tersimpan, data borang, sijil peribadi, dan kunci peribadi akan dilupakan. Adakah anda pasti mahu set semula kata laluan induk anda?
 
 ## Downloading cert dialog
 

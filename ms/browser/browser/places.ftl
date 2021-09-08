@@ -5,31 +5,9 @@
 places-open =
     .label = Buka
     .accesskey = k
-places-open-tab =
-    .label = Buka dalam Tab Baru
-    .accesskey = u
 places-open-all-in-tabs =
     .label = Buka Semua dalam Tab
     .accesskey = k
-places-open-window =
-    .label = Buka dalam Tetingkap Baru
-    .accesskey = B
-places-open-private-window =
-    .label = Buka dalam Tetingkap Peribadi Baru
-    .accesskey = P
-
-places-new-bookmark =
-    .label = Tandabuku Baru…
-    .accesskey = B
-places-new-folder-contextmenu =
-    .label = Folder Baru…
-    .accesskey = F
-places-new-folder =
-    .label = Folder Baru…
-    .accesskey = o
-places-new-separator =
-    .label = Pemisah Baru
-    .accesskey = S
 
 places-view =
     .label = Papar
@@ -61,7 +39,4 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Susun Mengikut Nama
     .accesskey = n
-places-properties =
-    .label = Sifat
-    .accesskey = i
 
