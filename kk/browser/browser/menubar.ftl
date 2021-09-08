@@ -38,16 +38,20 @@ menu-quit =
             [windows] ы
            *[other] Ш
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } жұмысын аяқтау
+
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } жұмысын аяқтау
+
 menu-about =
     .label = { -brand-shorter-name } туралы
     .accesskey = а
@@ -113,9 +117,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Түзету
     .accesskey = Т
-menu-edit-find-on =
-    .label = Осы парақтан іздеу…
-    .accesskey = т
 menu-edit-find-in-page =
     .label = Беттен табу…
     .accesskey = т
@@ -134,9 +135,6 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Құралдар панельдері
     .accesskey = л
-menu-view-customize-toolbar =
-    .label = Баптау…
-    .accesskey = а
 menu-view-customize-toolbar2 =
     .label = Құралдар панелін баптау…
     .accesskey = п
@@ -173,9 +171,6 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Парақтың негізгі стилі
     .accesskey = н
-menu-view-charset =
-    .label = Мәтін кодталуы
-    .accesskey = к
 menu-view-repair-text-encoding =
     .label = Мәтін кодтауын жөндеу
     .accesskey = к
@@ -229,10 +224,6 @@ menu-history-reopen-all-windows = Барлық терезелерді қайта
 menu-bookmarks-menu =
     .label = Бетбелгілер
     .accesskey = Б
-menu-bookmarks-show-all =
-    .label = Барлық бетбелгілерді көрсету
-menu-bookmark-this-page =
-    .label = Бұл бетті бетбелгілерге қосу
 menu-bookmarks-manage =
     .label = Бетбелгілерді басқару
 menu-bookmark-current-tab =
@@ -256,15 +247,6 @@ menu-tools =
 menu-tools-downloads =
     .label = Жүктемелер
     .accesskey = Ж
-menu-tools-addons =
-    .label = Қосымшалар
-    .accesskey = с
-menu-tools-fxa-sign-in =
-    .label = { -brand-product-name } ішіне кіру…
-    .accesskey = к
-menu-tools-turn-on-sync =
-    .label = { -sync-brand-short-name } іске қосу…
-    .accesskey = е
 menu-tools-addons-and-themes =
     .label = Кеңейтулер және темалар
     .accesskey = а
@@ -280,9 +262,6 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = { -brand-product-name } ішіне қайта байланысу…
     .accesskey = й
-menu-tools-web-developer =
-    .label = Веб-әзірлеуші
-    .accesskey = В
 menu-tools-browser-tools =
     .label = Браузер құралдары
     .accesskey = Б
@@ -295,17 +274,6 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Бет ақпараты
     .accesskey = а
-menu-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Опциялар
-           *[other] Параметрлер
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ц
-           *[other] м
-        }
 menu-settings =
     .label = Баптаулар
     .accesskey =
@@ -338,21 +306,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Көмек
     .accesskey = К
-menu-help-product =
-    .label = { -brand-shorter-name } көмегі
-    .accesskey = к
-menu-help-show-tour =
-    .label = { -brand-shorter-name } ішіне cаяхат
-    .accesskey = я
-menu-help-import-from-another-browser =
-    .label = Басқа браузерден импорттау…
-    .accesskey = и
-menu-help-keyboard-shortcuts =
-    .label = Пернетақта жарлықтары
-    .accesskey = е
-menu-help-troubleshooting-info =
-    .label = Техникалық ақпарат
-    .accesskey = а
 menu-get-help =
     .label = Көмек алу
     .accesskey = м
@@ -364,12 +317,6 @@ menu-help-report-site-issue =
 menu-help-feedback-page =
     .label = Кері байланыс хабарламасын жіберу…
     .accesskey = е
-menu-help-safe-mode-without-addons =
-    .label = Сөндірілген қосымшалармен қайта қосу…
-    .accesskey = р
-menu-help-safe-mode-with-addons =
-    .label = Іске қосылған қосымшалармен қайта қосу
-    .accesskey = р
 menu-help-enter-troubleshoot-mode2 =
     .label = Мәселелерді шешу режимі…
     .accesskey = М

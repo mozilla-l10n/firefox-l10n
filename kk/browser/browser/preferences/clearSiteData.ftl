@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Веб-сайттарға суреттер мен деректерді қайта жүктеуге мәжбүр етеді
 
-clear-site-data-cancel =
-    .label = Бас тарту
-    .accesskey = с
-
-clear-site-data-clear =
-    .label = Тазарту
-    .accesskey = з
-
 clear-site-data-dialog =
     .buttonlabelaccept = Тазарту
     .buttonaccesskeyaccept = з

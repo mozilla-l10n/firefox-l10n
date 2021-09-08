@@ -6,9 +6,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = { $type } өрісін өшіру
-
-#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -90,18 +87,6 @@ attachment-bucket-count =
         }
     .accesskey = м
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext =
-        { $count ->
-            [1] { $count } салыным
-           *[other] { $count } салыным
-        }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 expand-attachment-pane-tooltip =
     .tooltiptext = Салынымдар панелін көрсету ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
@@ -133,7 +118,10 @@ button-return-receipt =
     .label = Түбіртек
     .tooltiptext = Бұл хабарлама үшін оқу туралы түбіртегін сұрау
 
+# Encryption
+
 # Addressing Area
+
 
 ## Notifications
 

@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Скриншотты түсіру
-
-screenshots-my-shots-button = Менің скриншоттарым
-
 screenshot-toolbarbutton =
     .label = Скриншот
     .tooltiptext = Скриншотты түсіру
@@ -40,8 +36,6 @@ screenshots-login-error-details = Скриншотыңызды сақтай ал
 
 screenshots-unshootable-page-error-title = Бұл беттің скриншотын түсіре алмаймыз.
 screenshots-unshootable-page-error-details = Бұл қалыпты веб беті емес, сондықтан оның скриншотын түсіру мүмкін емес.
-
-screenshots-self-screenshot-error-title = { -screenshots-brand-name } бетінің скриншотын түсіру мүмкін емес!
 
 screenshots-empty-selection-error-title = Сіздің таңдауыңыз тым кішкентай
 

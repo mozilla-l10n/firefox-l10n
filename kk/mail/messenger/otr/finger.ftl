@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = Алдыңғы өтпелі шифрлеуі бар сөйлесулерден OTR кілт баспалары.
 
-finger-screenName =
-    .label = Контакт
-
 finger-verified =
     .label = Растау қалып-күйі
 finger-fingerprint =

@@ -94,9 +94,6 @@ no-proxy-label =
 
 no-proxy-example = Мысалы: .mozilla.org, .net.nz, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = localhost, 127.0.0.1, және ::1 адрестеріне байланыстар проксиді қолданбайды.
-
 proxy-password-prompt =
     .label = Пароль сақталып тұрса, аутентификацияны сұрамау
     .accesskey = и

@@ -4,16 +4,12 @@
 
 page-title = Мәселелерді шешу ақпараты
 page-subtitle = Бұл парақта мәселелерді шешуде пайдалы бола алатын техникалық ақпарат бар. Егер сіз { -brand-short-name } туралы жалпы сұрақтарға жауапты іздесеңіз, біздің <a data-l10n-name="support-link">қолдау көрсету</a> сайтын шолыңыз.
+
 crashes-title = Құлау туралы хабарлар
 crashes-id = Хабарлама ID
 crashes-send-date = Жіберілген
 crashes-all-reports = Барлық құлау туралы хабарламалары
 crashes-no-config = Бұл қолданба құлау хабарламаларын көрсетуге бапталмаған.
-extensions-title = Кеңейтулер
-extensions-name = Аты
-extensions-enabled = Іске қосулы
-extensions-version = Нұсқасы
-extensions-id = ID
 support-addons-title = Қосымшалар
 support-addons-name = Аты
 support-addons-type = Түрі
@@ -130,8 +126,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Процесс түрі
 sandbox-sys-call-number = Жүйелік шақыру
 sandbox-sys-call-args = Аргументтер
-safe-mode-title = Қауіпсіз режимін қолданып көру
-restart-in-safe-mode-label = Сөндірілген кеңейтулермен қайта қосу…
 troubleshoot-mode-title = Мәселелерді диагностикалау
 restart-in-troubleshoot-mode-label = Жөндеу режимі…
 clear-startup-cache-title = Іске қосылу кэшін тарартып көріңіз
@@ -196,6 +190,7 @@ report-crash-for-days =
         [one] Соңғы { $days } күн үшін құлау хабарламалары
        *[other] Соңғы { $days } күн үшін құлау хабарламалары
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -203,6 +198,7 @@ crashes-time-minutes =
         [one] { $minutes } минут бұрын
        *[other] { $minutes } минут бұрын
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -210,6 +206,7 @@ crashes-time-hours =
         [one] { $hours } сағат бұрын
        *[other] { $hours } сағат бұрын
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -217,6 +214,7 @@ crashes-time-days =
         [one] { $days } күн бұрын
        *[other] { $days } күн бұрын
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -224,6 +222,7 @@ pending-reports =
         [one] Барлық құлау хабарламалары (соның ішінде берілген уақыт аралығындағы әлі жіберілмеген { $reports } құлау)
        *[other] Барлық құлау хабарламалары (соның ішінде берілген уақыт аралығындағы әлі жіберілмеген { $reports } құлау)
     }
+
 raw-data-copied = Өнделмеген мәліметтерді алмасу буферіне көшірілген
 text-copied = Мәтінді алмасу буферіне көшірілген
 
@@ -236,9 +235,11 @@ blocked-mismatched-version = Графикалық драйверіңіздің �
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Графикалық драйверіңіз нұсқасымен блокталған. Драйверіңізді { $driverVersion } не жаңалау нұсқасына дейін жаңартыңыз.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType баптаулары
+
 compositing = Композитинг
 hardware-h264 = Құрылғылық H264 декодтау
 main-thread-no-omtc = басты ағын, OMTC жоқ
@@ -253,6 +254,7 @@ virtual-monitor-disp = Виртуалды монитор экраны
 
 found = Табылған
 missing = Жоқ
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Сипаттамасы
@@ -275,21 +277,19 @@ webgl2-renderer = WebGL 2 драйвер Renderer
 webgl2-version = WebGL 2 драйвер нұсқасы
 webgl2-driver-extensions = WebGL 2 драйвер кеңейтулері
 webgl2-extensions = WebGL 2 кеңейтулері
-blocklisted-bug = Белгілі осалдылықтар салдарынан блоктізімде
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = ақаулық { $bugNumber }
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Белгілі мәселелерге байланысты бұғатталған: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Блоктізіміде; қателік коды { $failureCode }
+
 d3d11layers-crash-guard = D3D11 араластырушысы
-d3d11video-crash-guard = D3D11 видео декодері
-d3d9video-crash-guard = D3D9 видео декодері
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX видео декодері
+
 reset-on-next-restart = Келесі іске қосылған кезде тастау
 gpu-process-kill-button = GPU процесін тоқтату
 gpu-device-reset = Құрылғыны қалпына келтіру
@@ -299,8 +299,10 @@ content-uses-tiling = Тайлинг қолданады (мазмұны)
 off-main-thread-paint-enabled = Басты емес ағында элементтерді суреттеу іске қосылған
 off-main-thread-paint-worker-count = Негізгі ағыннан тыс салатын воркер саны
 target-frame-rate = Кадр/сек мақсат көрсеткіші
+
 min-lib-versions = Күтілген минималды нұсқасы
 loaded-lib-versions = Қолданыстағы нұсқасы
+
 has-seccomp-bpf = Seccomp-BPF (Жүйелік шақыруларды сүзгілеу)
 has-seccomp-tsync = Seccomp ағынының синхрондалуы
 has-user-namespaces = Пайдаланушының аттар кеңістіктері
@@ -313,27 +315,22 @@ sandbox-proc-type-content = құрамасы
 sandbox-proc-type-file = файл құрамасы
 sandbox-proc-type-media-plugin = медиа плагині
 sandbox-proc-type-data-decoder = деректер декодері
+
 startup-cache-title = Іске қосу кэші
 startup-cache-disk-cache-path = Диск кэш жолы
 startup-cache-ignore-disk-cache = Диск кэшін елемеу
 startup-cache-found-disk-cache-on-init = Іске қосылу кезінде диск кэші табылды
 startup-cache-wrote-to-disk-cache = Диск кэшіне жазылды
+
 launcher-process-status-0 = Іске қосулы
 launcher-process-status-1 = Ақаулығы салдарынан сөндірілген
 launcher-process-status-2 = Мәжбүрлі сөндірілген
 launcher-process-status-unknown = Қалып-күйі белгісіз
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = Пайдаланушымен іске қосылған
-multi-process-status-1 = Үнсіз келісім бойынша іске қосылған
-multi-process-status-2 = Сөндірулі
-multi-process-status-4 = Қолжетерлілік құралдарымен сөндірілген
-multi-process-status-6 = Қолдауы жоқ мәтіндік енгізу салдарынан сөндірілген
-multi-process-status-7 = Қосымшалармен сөндірілген
-multi-process-status-8 = Мәжбүрлі түрде сөндірілген
-multi-process-status-unknown = Қалып-күйі белгісіз
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -348,6 +345,7 @@ fission-status-disabled-by-default = Үнсіз келісім бойынша с
 fission-status-enabled-by-user-pref = Пайдаланушымен іске қосылған
 fission-status-disabled-by-user-pref = Пайдаланушымен сөндірілген
 fission-status-disabled-by-e10s-other = E10s сөндірілген
+
 async-pan-zoom = Асинхронды панорамдау/масштабтау
 apz-none = ешнәрсе
 wheel-enabled = тышқан дөңгелегімен енгізу іске қосылған
@@ -384,6 +382,7 @@ support-remote-experiments-title = Қашықтағы тәжірибелер
 support-remote-experiments-name = Аты
 support-remote-experiments-branch = Сынамалы бұтақ
 support-remote-experiments-see-about-studies = Қосымша ақпаратты, соның ішінде жеке-жеке тәжірибелерді сөндіру немесе { -brand-short-name } үшін осындай түрдегі тәжірибелерді болашақта орындамауды қалай іске қосу туралы қосымша ақпаратты <a data-l10n-name="support-about-studies-link">about:studies</a> бөлімінен қараңыз.
+
 support-remote-features-title = Қашықтағы мүмкіндіктер
 support-remote-features-name = Аты
 support-remote-features-status = Қалып-күйі

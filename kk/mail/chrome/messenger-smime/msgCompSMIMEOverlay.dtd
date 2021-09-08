@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Бұл хабарламаға цифрлық қолтаңбаны қосу">
 <!ENTITY menu_securitySign.accesskey "м">
 
-<!ENTITY menu_securityAttachMyKey.label "Менің ашық кілтімді тіркеу">
-<!ENTITY menu_securityAttachMyKey.accesskey "а">
-
 <!ENTITY menu_securityTech.label "Шифрлеу технологиясы">
 <!ENTITY menu_securityTech.accesskey "т">
 

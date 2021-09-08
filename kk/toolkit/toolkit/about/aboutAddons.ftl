@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Қосымшалар басқарушысы
-
 addons-page-title = Қосымшалар басқарушысы
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Қосымшаларды қолдау
 sidebar-help-button-title =
     .title = Қосымшаларды қолдау
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } опциялары
-       *[other] { -brand-short-name } баптаулары
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } опциялары
-           *[other] { -brand-short-name } баптаулары
-        }
-
 addons-settings-button = { -brand-short-name } баптаулары
 sidebar-settings-button-title =
     .title = { -brand-short-name } баптаулары
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Барлық кеңейтулерді көрсету
-
-cmd-show-details =
-    .label = Көбірек ақпаратты көрсету
-    .accesskey = е
-
-cmd-find-updates =
-    .label = Жаңартуларды іздеу
-    .accesskey = а
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Баптаулар
-           *[other] Баптаулар
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Б
-           *[other] р
-        }
-
-cmd-enable-theme =
-    .label = Теманы киіп көру
-    .accesskey = м
-
-cmd-disable-theme =
-    .label = Теманы алып тастау
-    .accesskey = с
-
-cmd-install-addon =
-    .label = Орнату
-    .accesskey = н
-
-cmd-contribute =
-    .label = Үлес қосу
-    .accesskey = с
-    .tooltiptext = Бұл қосымшаны дамытуға үлес қосу
 
 detail-version =
     .label = Нұсқасы
@@ -396,8 +344,6 @@ dictionary-disabled-heading = Сөндірілген
 
 locale-enabled-heading = Іске қосулы
 locale-disabled-heading = Сөндірілген
-
-ask-to-activate-button = Белсендіруді сұрау
 
 always-activate-button = Әрқашан белсендіру
 never-activate-button = Ешқашан белсендірмеу

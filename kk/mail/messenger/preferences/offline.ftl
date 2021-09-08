@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Табылған байланысу күйін автоқолдану
     .accesskey = б
 
-startup-label = Іске қосылғандағы қолмен көрсетілген күйі:
-
 offline-preference-startup-label = Іске қосылғандағы қолмен көрсетілген күйі:
 
 status-radio-remember =

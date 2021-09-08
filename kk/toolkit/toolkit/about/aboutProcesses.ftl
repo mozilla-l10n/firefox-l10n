@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Үрдістер басқарушысы
+
 # The Actions column
 about-processes-column-action =
     .title = Әрекеттер
@@ -37,6 +38,7 @@ about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-rdd-process = Деректер декодтаушы ({ $pid })
 about-processes-socket-process = Желі ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -58,10 +60,12 @@ about-processes-web-large-allocation-process = { $origin } ({ $pid }, үлкен
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Бет: { $name }
 about-processes-preloaded-tab = Алдын-ала жүктелген жаңа бет
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Ішкі фрейм: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.

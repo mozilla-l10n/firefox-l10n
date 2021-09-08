@@ -97,9 +97,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Ол қалай жұмыс істейді
 
-turn-on-sync = { -sync-brand-short-name } іске қосу…
-    .title = Синхрондау баптауларына өту
-
 monitor-title = Деректердің ұрлануын бақылау
 monitor-link = Бұл қалай жұмыс істейді
 monitor-header-content-no-account = Белгілі бір деректердің бұзылуына қатысқаныңызды және жаңа бұзушылықтар туралы ескертулер алу үшін { -monitor-brand-name } тексеріңіз.

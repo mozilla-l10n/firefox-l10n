@@ -6,9 +6,6 @@ password-quality-meter = Пароль сапасы
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Мастер-парольді ауыстыру
-
 change-device-password-window =
     .title = Парольді өзгерту
 
@@ -20,10 +17,6 @@ change-password-new = Жаңа пароль:
 change-password-reenter = Жаңа пароль (қайтадан):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Мастер-парольді тастау
-    .style = width: 40em
 
 pippki-failed-pw-change = Парольді өзгерту мүмкін емес.
 pippki-incorrect-pw = Сіз ағымдағы парольді қате енгіздіңіз. Қайтадан енгізіп көріңіз.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Тастау
-reset-password-text = Мастер-пароліңізді тастасаңыз, сақталған электронды пошта парольдері, жеке сертификаттар және жеке кілттер жоғалып кетеді. Мастер-пароліңізді тастауды шынымен қалайсыз ба?
 
 reset-primary-password-text = Басты пароліңізді тастасаңыз, сақталған электронды пошта парольдері, жеке сертификаттар және жеке кілттер жоғалып кетеді. Басты парольді тастауды шынымен қалайсыз ба?
 

@@ -21,10 +21,6 @@
 <!ENTITY savePageCmd.label "Бетті қалайша сақтау…">
 <!ENTITY savePageCmd.accesskey "а">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Бет баптаулары…">
-<!ENTITY pageSetupCmd.accesskey "п">
-<!ENTITY printPreviewCmd.label "Баспа алдында қарау">
-<!ENTITY printPreviewCmd.accesskey "у">
 <!ENTITY printCmd.label "Баспаға шығару…">
 <!ENTITY printCmd.accesskey "с">
 <!ENTITY printCmd.commandkey "P">

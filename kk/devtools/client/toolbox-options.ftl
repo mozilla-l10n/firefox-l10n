@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Скриншот мінез-құлығы
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Алмасу буферіне скриншотты жасау
-options-screenshot-clipboard-tooltip =
-    .title = Скриншотты тікелей алмасу буферіне сақтайды
-
 options-screenshot-clipboard-tooltip2 =
     .title = Скриншотты тікелей алмасу буферіне сақтайды
 

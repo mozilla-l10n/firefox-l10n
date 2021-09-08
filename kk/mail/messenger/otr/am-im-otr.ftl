@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR баптаулары
 otr-log =
     .label = OTR арқылы шифрленген хабарламаларды сөйлесулер журналдарына қосу
-otr-requireEncryption =
-    .label = Бір-бірімен сөйлесулерде өтпелі шифрлеуді талап ету
-otr-verifyNudge =
-    .label = Расталмаған контактіні растауды әрқашан есіме салу
-
-otr-notYetAvailable = әлі қолжетімсіз
 
 otr-require-encryption-info =
     Шифрлеуді талап еткен кезде, бір-бірімен сөйлесулердегі хабарламалар
