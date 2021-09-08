@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = संकेतस्थळांना प्रतिमा आणि माहिती पुन्हा लोड करावी लागेल
 
-clear-site-data-cancel =
-    .label = रद्द करा
-    .accesskey = C
-
-clear-site-data-clear =
-    .label = नष्ट करा
-    .accesskey = l
-
 clear-site-data-dialog =
     .buttonlabelaccept = नष्ट करा
     .buttonaccesskeyaccept = l

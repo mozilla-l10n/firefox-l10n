@@ -139,8 +139,6 @@ about-webrtc-aec-logging-off-state-msg = कॅप्चर केलेल्�
 
 ##
 
-##
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
@@ -155,4 +153,6 @@ about-webrtc-jitter-label = जीटर { $jitter }
 
 ##
 
+
+##
 

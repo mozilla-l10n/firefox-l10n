@@ -12,14 +12,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = सूची
 
-blocklist-button-cancel =
-    .label = रद्द करा
-    .accesskey = C
-
-blocklist-button-ok =
-    .label = बदल जतन करा
-    .accesskey = ज
-
 blocklist-dialog =
     .buttonlabelaccept = बदल जतन करा
     .buttonaccesskeyaccept = ज

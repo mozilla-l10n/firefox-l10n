@@ -5,11 +5,6 @@
 containers-window-new =
     .title = नवीन कंटेनर जोडा
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } कंटेनर प्राधान्यता
-    .style = width: 45em
 
 containers-window-close =
     .key = w
@@ -39,10 +34,6 @@ containers-icon-label = चिन्ह
 containers-color-label = रंग
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = पूर्ण झाले
-    .accesskey = D
 
 containers-dialog =
     .buttonlabelaccept = पूर्ण झाले

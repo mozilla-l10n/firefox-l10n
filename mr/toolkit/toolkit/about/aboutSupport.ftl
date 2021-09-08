@@ -10,11 +10,6 @@ crashes-id = अहवाल ID
 crashes-send-date = सादर केलेले
 crashes-all-reports = सर्व क्रॅश अहवाल
 crashes-no-config = ह्या ॲप्लिकेशनला क्रॅश अहवाल सादर करण्यास संरचीत केले नाही.
-extensions-title = वाढ
-extensions-name = नाव
-extensions-enabled = समर्थीत
-extensions-version = आवृत्ती
-extensions-id = ID
 support-addons-name = नाव
 support-addons-version = आवृत्ती
 support-addons-id = ID
@@ -95,8 +90,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = प्रोसेस प्रकार
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = बाब
-safe-mode-title = सुरक्षित पद्धत वापरुन बघा
-restart-in-safe-mode-label = ॲड-ऑन्स् निष्क्रिय करुन पुनःसुरू करा…
 
 ## Media titles
 
@@ -230,19 +223,12 @@ webgl2-renderer = WebGL २ ड्राइव्हर रेंडरर
 webgl2-version = WebGL २ ड्राइव्हर आवृत्ती
 webgl2-driver-extensions = WebGL २ ड्राइव्हर विस्तार
 webgl2-extensions = WebGL २ विस्तार
-blocklisted-bug = ज्ञात समस्यांमुळे काळ्या सूचित टाकले आहे
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = बग { $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = काळ्यासूचित; अयशस्वी कोड { $failureCode }
 
 d3d11layers-crash-guard = D3D11 कॉम्पोझिटर
-d3d11video-crash-guard = D3D11 व्हिडिओ डीकोडर
-d3d9video-crash-guard = D3D9 व्हिडिओ डीकोडर
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = पुढच्यावेळी पुन्हा सुरु करताना पूर्वस्थितीत आणा
@@ -272,14 +258,6 @@ launcher-process-status-0 = सक्षम
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = वापरकर्ताद्वारे सक्रीय केले आहे
-multi-process-status-1 = पूर्वनिर्धारितरित्या सक्रीय केले आहे
-multi-process-status-2 = निष्क्रिय केले
-multi-process-status-4 = अॅक्सेसिबिलिटी टूल्स द्वारा निष्क्रीय केले आहे
-multi-process-status-6 = असमर्थीत मजकूर इनपूट द्वारे निष्क्रीय केले आहे
-multi-process-status-7 = ॲड-ऑन्स् ने निष्क्रीय केले आहे
-multi-process-status-8 = जबरदस्तीने निष्क्रीय केले
-multi-process-status-unknown = अपरिचीत स्थिती
 
 async-pan-zoom = असंकालिक पॅन/झूम
 apz-none = काहीच नाही
