@@ -57,14 +57,6 @@ when there are no windows but Firefox is still running. -->
 
 
 
-<!ENTITY personalbarCmd.label "LiIthulusi-bha Letibekiso">
-<!ENTITY personalbarCmd.accesskey "L">
-<!ENTITY bookmarksToolbarItem.label "Emaphuzu Etibekiso Telithulu-bha">
-
-
-
-
-
 
 
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -90,10 +82,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
@@ -104,8 +93,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
-<!ENTITY pointerlockWarning.beforeDomain.label "">
 
 
 
@@ -155,8 +142,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY homeButton.label             "Likhaya">
-
-<!ENTITY bookmarksButton.label          "Tibekiso">
 
 
 
@@ -413,13 +398,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY sidebarCloseButton.tooltip     "Vala Ibhaceleni">
-
-
-<!ENTITY quitApplicationCmdWin2.label       "Phuma">
-<!ENTITY quitApplicationCmdWin2.accesskey   "h">
-
-<!ENTITY quitApplicationCmd.label       "Shiya">
-<!ENTITY quitApplicationCmd.accesskey   "S">
 
 
 

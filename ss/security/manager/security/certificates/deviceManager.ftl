@@ -69,8 +69,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Inombolo kuletilandzelanako
 
-fips-nonempty-password-required = Indlela yaFIPS idzinga ube nelibitophawu lelikhulu lesethwe kundlela ngayinye yekuvikela. Hlela libitophawu ngembi kwekulinga kunika emandl indlela ya FIPS.
-
 add-module-failure = Kumatima kungeta imoduli
 del-module-warning = Ucinisekile ufuna kucisha lemoduli levikelekile?
 del-module-error = Kumatima kucisha imoduli

@@ -54,10 +54,6 @@ applications-file-ending = Lifayela { $extension }
 applications-select-helper = Khetsa kusetjentiswa kwekusita
 
 # Variables:
-#   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
-
-# Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
@@ -147,8 +143,6 @@ browsing-use-smooth-scrolling =
 ## Privacy Section - Forms
 
 ## Privacy Section - Logins and Passwords
-
-forms-master-pw-fips-title = Kwanyalo usesimeni se-FIPS. I-FIPS idzinga libitophawu lelikhulu lelinelutfo.
 
 forms-master-pw-fips-desc = Kwehlulekile kuguculwa kwelibitophawu
 

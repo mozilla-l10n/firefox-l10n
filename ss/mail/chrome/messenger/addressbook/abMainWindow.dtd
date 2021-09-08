@@ -23,10 +23,6 @@
 <!ENTITY closeCmd.label "Vala">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Kuma Lipheji...">
-<!ENTITY printSetupCmd.accesskey "m">
-<!ENTITY printPreviewAddressBook.label "Lunguta iphrinti Yencwadzi Yemakheli">
-<!ENTITY printPreviewAddressBook.accesskey "Y">
 <!ENTITY printAddressBook.label "Printa Incwadzi Yemakheli...">
 <!ENTITY printAddressBook.accesskey "N">
 
@@ -72,8 +68,6 @@
 <!ENTITY importCmd.accesskey "N">
 <!ENTITY exportCmd.label "Tfumela kulelinye live...">
 <!ENTITY exportCmd.accesskey "T">
-<!ENTITY preferencesCmdUnix.label "Lokutsndvwako">
-<!ENTITY preferencesCmdUnix.accesskey "n">
 <!-- Help Menu -->
 
 <!-- Address Book Toolbar and Context Menus -->  

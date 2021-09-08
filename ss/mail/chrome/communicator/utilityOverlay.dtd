@@ -19,8 +19,6 @@
 <!ENTITY redoCmd.accesskey "p">
 <!ENTITY deleteCmd.label "Cisha">
 <!ENTITY deleteCmd.accesskey "c">
-<!ENTITY preferencesCmdUnix.label "Lokunconotwako">
-<!ENTITY preferencesCmdUnix.accesskey "t">
 
 <!ENTITY viewMenu.label "Lunguta">
 <!ENTITY viewMenu.accesskey "l">
