@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Seria numero
 
-fips-nonempty-password-required = La reĝimo FIPS postulas ke vi havu Ĉefan pasvorton por ĉiu sekureca aparato. Bonvolu difini la pasvorton antaŭ ol klopodi aktivigi la reĝimon FIPS.
-
 fips-nonempty-primary-password-required = La reĝimo FIPS postulas ke vi havu ĉefan pasvorton por ĉiu sekureca aparato. Bonvolu difini la pasvorton antaŭ ol klopodi aktivigi la reĝimon FIPS.
 unable-to-toggle-fips = Unable to change the FIPS mode for the security device. It is recommended that you exit and restart this application.
 load-pk11-module-file-picker-title = Elekti ŝargotan PKCS#11 aparatan pelilon

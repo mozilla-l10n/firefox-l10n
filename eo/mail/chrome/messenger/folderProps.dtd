@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Atributoj">
 
 <!ENTITY generalInfo.label                       "Ĝeneralaj informoj">
-<!ENTITY folderCharsetFallback2.label            "Alternativa teksta kodprezento:">
-<!ENTITY folderCharsetFallback2.accesskey        "A">
-<!ENTITY folderCharsetEnforce2.label             "Apliki elektitan kodprezenton por ĉiuj mesaĝoj en la mesaĝujo (ignori individuan kodprezenton difinitan en mesaĝkapo kaj aŭtomatan eltrovon de kodprezento)">
-<!ENTITY folderCharsetEnforce2.accesskey         "p">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Rekonstrui indekson en dosiero de sumigo">
 <!ENTITY folderRebuildSummaryFile2.label         "Ripari mesaĝujon">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">

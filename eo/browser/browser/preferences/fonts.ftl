@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Teksta enkodigo por kaduka enhavo
-fonts-languages-fallback-desc = Tiu ĉi teksta enkodigo estas uzita por kaduka enhavo kiu ne deklaris sian enkodigon.
-
-fonts-languages-fallback-label = Alternativa teksta ekondigo
-    .accesskey = t
-
-fonts-languages-fallback-name-auto =
-    .label = Normo por la nuna lokaĵaro
-fonts-languages-fallback-name-arabic =
-    .label = Araba
-fonts-languages-fallback-name-baltic =
-    .label = Balta
-fonts-languages-fallback-name-ceiso =
-    .label = Mezeŭropa, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = Mezeŭropa, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = Ĉina, simpligita
-fonts-languages-fallback-name-traditional =
-    .label = Ĉina, tradicia
-fonts-languages-fallback-name-cyrillic =
-    .label = Cirila
-fonts-languages-fallback-name-greek =
-    .label = Greka
-fonts-languages-fallback-name-hebrew =
-    .label = Hebrea
-fonts-languages-fallback-name-japanese =
-    .label = Japana
-fonts-languages-fallback-name-korean =
-    .label = Korea
-fonts-languages-fallback-name-thai =
-    .label = Taja
-fonts-languages-fallback-name-turkish =
-    .label = Turka
-fonts-languages-fallback-name-vietnamese =
-    .label = Vjetnama
-fonts-languages-fallback-name-other =
-    .label = Aliaj (kaj Okcidenteŭropa)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

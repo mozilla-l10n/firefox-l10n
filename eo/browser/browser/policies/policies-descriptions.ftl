@@ -65,8 +65,6 @@ policy-DisableForgetButton = Malpermesi aliron al la butono "Forgesi".
 
 policy-DisableFormHistory = Ne memori serĉan kah formularan historion.
 
-policy-DisableMasterPasswordCreation = Se tio estas aktiva, ne eblos krei ĉefan pasvorton.
-
 policy-DisablePrimaryPasswordCreation = Se tio estas aktiva, ne eblos krei ĉefan pasvorton.
 
 policy-DisablePasswordReveal = Ne permesi malkaŝi pasvortojn en konservitaj legitimiloj.
@@ -140,8 +138,6 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Reiri al la tradicia k
 policy-LocalFileLinks = Permesi al kelkaj difinitaj retejoj havi ligilojn al lokaj dosieroj.
 
 policy-ManagedBookmarks = Agordi liston de legosignoj, kiun kreas administrato kaj kiun la uzanto ne povas modifi.
-
-policy-MasterPassword = Postuli aŭ eviti la uzon de ĉefa pasvorto.
 
 policy-ManualAppUpdateOnly = Permesi nur neaŭtomatajn ĝisdatigojn kaj ne sciigi la uzanton pri disponeblaj ĝisdatigoj.
 

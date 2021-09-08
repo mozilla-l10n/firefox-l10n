@@ -29,12 +29,6 @@
 <!ENTITY closeCmd.label                                 "Fermi">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "F">
-<!ENTITY printSetupCmd.label                            "Agordoj pri paĝo…">
-<!ENTITY printSetupCmd.accesskey                        "p">
-<!ENTITY printPreviewContactCmd.label                   "Antaŭvidi presadon de kontakto">
-<!ENTITY printPreviewContactCmd.accesskey               "o">
-<!ENTITY printPreviewAddressBook.label                  "Antaŭvidi presadon de adresaro">
-<!ENTITY printPreviewAddressBook.accesskey              "d">
 <!ENTITY printContactCmd.label                          "Presi kontakton…">
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "P">
@@ -106,10 +100,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "n">
 <!ENTITY exportCmd.label                                "Elporti…">
 <!ENTITY exportCmd.accesskey                            "l">
-<!ENTITY preferencesCmd2.label                          "Elektebloj">
-<!ENTITY preferencesCmd2.accesskey                      "E">
-<!ENTITY preferencesCmdUnix.label                       "Preferoj">
-<!ENTITY preferencesCmdUnix.accesskey                   "P">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Nova kontakto">

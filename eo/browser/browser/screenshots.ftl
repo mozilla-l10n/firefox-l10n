@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Fari ekrankopion
-
-screenshots-my-shots-button = Miaj ekrankopioj
-
 screenshot-toolbarbutton =
     .label = Ekrankopio
     .tooltiptext = Fari ekrankopion
@@ -40,8 +36,6 @@ screenshots-login-error-details = Ni ne povis konservi vian ekrankopion ĉar est
 
 screenshots-unshootable-page-error-title = Ni ne povas fari ekrankopion de tiu ĉi paĝo.
 screenshots-unshootable-page-error-details = Tiu ĉi ne estas norma retpaĝo, do vi ne povas fari ekrankopion de ĝi.
-
-screenshots-self-screenshot-error-title = Vi ne povas fari ekrankopion de paĝo de { -screenshots-brand-name }!
 
 screenshots-empty-selection-error-title = Via elektita areo estas tro eta
 

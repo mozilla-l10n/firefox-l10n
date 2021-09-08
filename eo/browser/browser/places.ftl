@@ -5,9 +5,6 @@
 places-open =
     .label = Malfermi
     .accesskey = M
-places-open-tab =
-    .label = Malfermi en nova langeto
-    .accesskey = n
 places-open-in-tab =
     .label = Malfermi en nova langeto
     .accesskey = M
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Malfermi ĉiujn en langetoj
     .accesskey = M
-places-open-window =
-    .label = Malfermi en nova fenestro
-    .accesskey = F
-places-open-private-window =
-    .label = Malfermi en nova privata fenestro
-    .accesskey = P
-
-places-new-bookmark =
-    .label = Nova legosigno…
-    .accesskey = N
-places-new-folder-contextmenu =
-    .label = Nova dosierujo…
-    .accesskey = M
-places-new-folder =
-    .label = Nova dosierujo…
-    .accesskey = n
-places-new-separator =
-    .label = Nova apartigilo
-    .accesskey = N
 
 places-open-in-window =
     .label = Malfermi en nova fenestro
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Ordigi laŭ nomo
     .accesskey = r
-places-properties =
-    .label = Atributoj
-    .accesskey = o
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -135,3 +110,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Administri legosignojn
     .accesskey = l
+

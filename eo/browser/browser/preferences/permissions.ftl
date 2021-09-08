@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Forigi ĉiujn retejojn
     .accesskey = r
 
-permissions-button-cancel =
-    .label = Nuligi
-    .accesskey = N
-
-permissions-button-ok =
-    .label = Konservi ŝanĝojn
-    .accesskey = K
-
 permission-dialog =
     .buttonlabelaccept = Konservi ŝanĝojn
     .buttonaccesskeyaccept = K

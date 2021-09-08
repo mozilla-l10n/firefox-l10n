@@ -9,8 +9,6 @@
 
 process-type-web = Teksaĵa enhavo
 
-process-type-browser = Ĉefa
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Privilegia informo

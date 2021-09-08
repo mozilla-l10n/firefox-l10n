@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Ciferece subskribi la mesaĝon">
 <!ENTITY menu_securitySign.accesskey "l">
 
-<!ENTITY menu_securityAttachMyKey.label "Aldoni mian publikan ŝlosilon">
-<!ENTITY menu_securityAttachMyKey.accesskey "m">
-
 <!ENTITY menu_securityTech.label "Teĥnologio de ĉifrado">
 <!ENTITY menu_securityTech.accesskey "T">
 

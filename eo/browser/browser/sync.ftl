@@ -2,19 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxa-toolbar-sync-syncing =
-    .label = Spegulado…
-fxa-toolbar-sync-syncing-tabs =
-    .label = Langetoj spegulataj…
-
-sync-disconnect-dialog-title = Ĉu malkonektiĝi de { -sync-brand-short-name }?
-
 fxa-toolbar-sync-syncing2 = Spegulado…
 
 sync-disconnect-dialog-title2 = Ĉu malkonekti?
 sync-disconnect-dialog-body = { -brand-product-name } ne plu spegulos vian konton, sed ĝi ne forigos iun ajn el la retumaj datumoj en tiu ĉi aparato.
-fxa-disconnect-dialog-title = Ĉu malkonektiĝi de { -brand-product-name }?
-fxa-disconnect-dialog-body = { -brand-product-name } malkonektiĝos el via konto, sed ĝi ne forigos iun ajn el la retumaj datumoj en tiu ĉi aparato.
 sync-disconnect-dialog-button = Malkonekti
 
 fxa-signout-dialog2-title = Ĉu fini seancon en { -fxaccount-brand-name }?

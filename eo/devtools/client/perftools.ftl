@@ -35,7 +35,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Grando de bufro:
+
 perftools-custom-threads-label = Aldoni personecigitajn fadenojn, lay nomo:
+
 perftools-devtools-interval-label = Intervalo:
 perftools-devtools-threads-label = Fadenoj:
 perftools-devtools-settings-label = Agordoj
@@ -92,6 +94,7 @@ perftools-thread-task-controller =
 ##
 
 perftools-record-all-registered-threads = Ignori la suprajn eblojn kaj registri ĉiujn registritajn fadenojn
+
 perftools-tools-threads-input-label =
     .title = Tiuj ĉi nomoj de fadenoj estas listo apartigita per komoj, kiu estas uzita por aktivigi la rulanalizon de la fadenoj en la rulanalizilo. La nomo bezonas nur parte kongrui kun la nomo de la fadeno, por esti inkluzivita. Ĝi ne ignoras blankspacojn.
 
@@ -100,7 +103,9 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 perftools-onboarding-message = <b>Nova</b>: { -profiler-brand-name } estas integrita al la iloj por programistoj. Jen <a>pli da informo</a> pri tiu pova nova ilo.
+
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Dum iom da tempo, vi povas ankoraŭ aliri la originalan efikecan panelon ĉi tie <a>{ options-context-advanced-settings }</a>)
+
 perftools-onboarding-close-button =
     .aria-label = Fermi la enkondukan mesaĝon

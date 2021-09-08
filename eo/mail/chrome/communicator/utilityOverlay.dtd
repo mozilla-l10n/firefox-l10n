@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY deleteCmd.label          "Forigi">
 <!ENTITY deleteCmd.accesskey        "F">
-<!ENTITY preferencesCmd2.label "Elektebloj">
-<!ENTITY preferencesCmd2.accesskey "E">
-<!ENTITY preferencesCmdUnix.label       "Preferoj">
-<!ENTITY preferencesCmdUnix.accesskey     "P">
 
 <!ENTITY viewMenu.label          "Vido">
 <!ENTITY viewMenu.accesskey        "V">

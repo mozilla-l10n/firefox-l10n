@@ -66,11 +66,6 @@ options-stylesheet-autocompletion-tooltip =
 options-screenshot-label = Konduto de ekrankopio
 
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Ekrankopio al tondujo
-options-screenshot-clipboard-tooltip =
-    .title = Tio ĉi konservas la ekrankopion rekte en la tondujo
-
-# Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Ekrankopio nur sendita al tondujo
 options-screenshot-clipboard-tooltip2 =
     .title = Tio ĉi konservas la ekrankopion rekte en la tondujo

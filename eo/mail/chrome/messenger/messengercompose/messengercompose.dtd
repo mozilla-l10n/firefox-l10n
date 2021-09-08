@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Krei">
 <!ENTITY newMenu.accesskey "K">
 <!ENTITY newMessage.label "mesaĝon">
-<!ENTITY newMessage.key "m">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "m">
 <!ENTITY newContact.label "kontakton…">
 <!ENTITY newContact.accesskey "k">
 <!ENTITY attachMenu.label "Aldoni">
 <!ENTITY attachMenu.accesskey "A">
-<!ENTITY attachFileCmd.label "dosieron…">
-<!ENTITY attachFileCmd.accesskey "d">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "ligilon al dosiero">
 <!ENTITY attachCloudCmd.accesskey "l">
 <!ENTITY attachPageCmd.label "retpaĝon…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Sendi poste">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "p">
-<!ENTITY printSetupCmd.label "Agordoj pri paĝo">
-<!ENTITY printSetupCmd.accesskey "A">
-<!ENTITY printPreviewCmd.label "Antaŭvidi presadon">
-<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Presi…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Reordigi kunsendaĵojn…">
 <!ENTITY reorderAttachmentsCmd.accesskey "o">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Listo de kunsendaĵoj">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "a">
 <!ENTITY selectAllCmd.accesskey "E">
 <!ENTITY findBarCmd.label "Serĉi…">
 <!ENTITY findBarCmd.accesskey "S">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Reordigi kunsendaĵojn">
-<!ENTITY moveAttachmentTopPanelBtn.label "Movi plej supren">
-<!ENTITY moveAttachmentUpPanelBtn.label "Movi supren">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Movi kune">
-<!ENTITY moveAttachmentDownPanelBtn.label "Movi malsupren">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Movi plej malsupren">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Agordoj pri kontoj">
 <!ENTITY accountManagerCmd2.accesskey "k">
 <!ENTITY accountManagerCmdUnix2.accesskey "k">
-<!ENTITY preferencesCmd2.label "Elektebloj">
-<!ENTITY preferencesCmd2.accesskey "E">
-<!ENTITY preferencesCmdUnix.label "Preferoj">
-<!ENTITY preferencesCmdUnix.accesskey "P">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Sendi">
 <!ENTITY quoteButton.label "Citi">
 <!ENTITY addressButton.label "Kontaktoj">
-<!ENTITY attachButton.label "Kunsendi">
 <!ENTITY spellingButton.label "Literumado">
 <!ENTITY saveButton.label "Konservi">
 <!ENTITY printButton.label "Presi">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Sendi mesaĝon poste">
 <!ENTITY quoteButton.tooltip "Citi la antaŭan mesaĝon">
 <!ENTITY addressButton.tooltip "Elekti ricevonton el adresaro">
-<!ENTITY attachButton.tooltip2 "Aldoni dosieron al mesaĝo">
 <!ENTITY spellingButton.tooltip "Kontroli pri ortografiaj eraroj en la elekto aŭ en la tuta mesaĝo">
 <!ENTITY saveButton.tooltip "Konservi tiun ĉi mesaĝon">
 <!ENTITY cutButton.tooltip              "Eltondi">
@@ -296,8 +275,6 @@
 <!ENTITY removeAllAttachments.accesskey "j">
 <!ENTITY selectAll.label "Elekti ĉiujn">
 <!ENTITY selectAll.accesskey "E">
-<!ENTITY attachFile.label "Kunsendi dosiero(j)n…">
-<!ENTITY attachFile.accesskey "d">
 <!ENTITY attachCloud.label "Ligilo al dosiero…">
 <!ENTITY attachCloud.accesskey "L">
 <!ENTITY convertCloud.label "Konverti al…">

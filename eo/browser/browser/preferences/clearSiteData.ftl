@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Tio postulos al retejo reŝargadon de bildoj kaj datumoj
 
-clear-site-data-cancel =
-    .label = Nuligi
-    .accesskey = N
-
-clear-site-data-clear =
-    .label = Viŝi
-    .accesskey = V
-
 clear-site-data-dialog =
     .buttonlabelaccept = Viŝi
     .buttonaccesskeyaccept = V

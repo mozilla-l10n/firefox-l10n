@@ -20,7 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Serĉi
     .aria-label = Serĉi
-newtab-search-box-search-the-web-text = Serĉi en la teksaĵo
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Serĉi per { $engine } aŭ tajpi adreson
@@ -35,10 +35,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Serĉi aŭ tajpi adreson
     .title = Serĉi aŭ tajpi adreson
     .aria-label = Serĉi aŭ tajpi adreson
+
 newtab-search-box-search-the-web-input =
     .placeholder = Serĉi en la teksaĵo
     .title = Serĉi en la teksaĵo
     .aria-label = Serĉi en la teksaĵo
+
 newtab-search-box-text = Serĉi en la reto
 newtab-search-box-input =
     .placeholder = Serĉi en la reto
@@ -54,10 +56,12 @@ newtab-topsites-edit-shortcut-header = Redakti ŝparvojon
 newtab-topsites-title-label = Titolo
 newtab-topsites-title-input =
     .placeholder = Tajpu titolon
+
 newtab-topsites-url-label = Retadreso
 newtab-topsites-url-input =
     .placeholder = Tajpu aŭ alguu retadreson
 newtab-topsites-url-validation = Valida retadreso estas postulata
+
 newtab-topsites-image-url-label = Personecitiga retadreso de bildo
 newtab-topsites-use-image-link = Uzi personecigitan bildon…
 newtab-topsites-image-validation = Ne eblis ŝargi la bildon. Klopodu alian retadreson.
@@ -86,10 +90,12 @@ newtab-topsite-sponsored = Patronita
 newtab-menu-section-tooltip =
     .title = Malfermi menuon
     .aria-label = Malfermi menuon
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Forigi
     .aria-label = Forigi
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -158,10 +164,12 @@ newtab-label-removed-bookmark = Legosigno forigita
 newtab-label-recommended = Tendencoj
 newtab-label-saved = Konservita en { -pocket-brand-name }
 newtab-label-download = Elŝutita
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Patronita
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -200,6 +208,7 @@ newtab-section-header-pocket = Rekomendita de { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Komencu retumi kaj ĉi tie ni montros al vi kelkajn el la plej bonaj artikoloj, filmetoj kaj aliaj paĝoj, kiujn vi antaŭ nelonge vizits aŭ por kiuj vi aldonis legosignon.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".

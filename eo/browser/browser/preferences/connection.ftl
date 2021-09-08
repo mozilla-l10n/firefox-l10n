@@ -35,9 +35,6 @@ connection-proxy-http = Peranto por HTTP
     .accesskey = H
 connection-proxy-http-port = Pordo
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Uzi tiun ĉi retperanton ankaŭ por FTP kaj HTTPS.
-    .accesskey = U
 
 connection-proxy-https-sharing =
     .label = Uzi tiun ĉi retperanton ankaŭ por HTTPS.
@@ -47,11 +44,6 @@ connection-proxy-https = Retperanto HTTPS
     .accesskey = H
 connection-proxy-ssl-port = Pordo
     .accesskey = o
-
-connection-proxy-ftp = Peranto por FTP
-    .accesskey = F
-connection-proxy-ftp-port = Pordo
-    .accesskey = r
 
 connection-proxy-socks = Servilo SOCKS
     .accesskey = S
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Sen retperanto por
     .accesskey = s
 
 connection-proxy-noproxy-desc = Ekzemplo: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Konektoj kun localhost, 127.0.0.1, kaj ::1 neniam iras tra retperanto.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Konektoj kun localhost, 127.0.0.1/8, kaj ::1 neniam uzas retperanton.

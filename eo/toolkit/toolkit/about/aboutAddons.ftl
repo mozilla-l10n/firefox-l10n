@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Administrilo de aldonaĵoj
-
 addons-page-title = Administrilo de aldonaĵoj
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Helpo pri aldonaĵoj
 sidebar-help-button-title =
     .title = Helpo pri aldonaĵoj
 
-preferences =
-    { PLATFORM() ->
-        [windows] Preferoj de { -brand-short-name }
-       *[other] Preferoj de { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Preferoj de { -brand-short-name }
-           *[other] Preferoj de { -brand-short-name }
-        }
-
 addons-settings-button = Agordoj de { -brand-short-name }
 sidebar-settings-button-title =
     .title = Agordoj de { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Montri ĉiujn etendaĵojn
-
-cmd-show-details =
-    .label = Montri pli da informo
-    .accesskey = M
-
-cmd-find-updates =
-    .label = Serĉi ĝisdatigojn
-    .accesskey = S
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Preferoj
-           *[other] Preferoj
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = Surmeti etoson
-    .accesskey = E
-
-cmd-disable-theme =
-    .label = Demeti etoson
-    .accesskey = E
-
-cmd-install-addon =
-    .label = Instali
-    .accesskey = I
-
-cmd-contribute =
-    .label = Kontribui
-    .accesskey = K
-    .tooltiptext = Kontribui al la disvolvo de tiu ĉi aldonaĵo
 
 detail-version =
     .label = Versio
@@ -389,8 +337,6 @@ dictionary-disabled-heading = Malaktiva
 
 locale-enabled-heading = Aktiva
 locale-disabled-heading = Malaktiva
-
-ask-to-activate-button = Demandi antaŭ ol aktivigi
 
 always-activate-button = Ĉiam aktivigi
 never-activate-button = Neniam aktivigi

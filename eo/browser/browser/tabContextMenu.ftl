@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = Aldoni langeton al legosignoj
     .accesskey = l
-reopen-in-container =
-    .label = Remalfermi en ingo
-    .accesskey = i
 tab-context-open-in-new-container-tab =
     .label = Malfermi en nova inga langeto
     .accesskey = i
@@ -69,26 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Fermi plurajn langetojn
     .accesskey = F
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Malfari fermadon de langetoj
-            [one] Malfari fermadon de langeto
-           *[other] Malfari fermadon de langetoj
-        }
-    .accesskey = M
-close-tab =
-    .label = Fermi langeton
-    .accesskey = o
-close-tabs =
-    .label = Fermi langetojn
-    .accesskey = F
-move-tabs =
-    .label = Movi langetojn
-    .accesskey = M
-move-tab =
-    .label = Movi langeton
-    .accesskey = M
 tab-context-share-url =
     .label = Dividi
     .accesskey = D
@@ -130,6 +107,7 @@ tab-context-move-tabs =
            *[other] Movi langetojn
         }
     .accesskey = M
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
