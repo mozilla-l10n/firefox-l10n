@@ -13,13 +13,10 @@
 <!ENTITY newMessage.label "پیغام">
 
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "پ">
 <!ENTITY newContact.label "Address Book Contact…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Attach">
 <!ENTITY attachMenu.accesskey "t">
-<!ENTITY attachFileCmd.label "File(s)…">
-<!ENTITY attachFileCmd.accesskey "F">
 
 
 
@@ -50,10 +47,6 @@
 <!ENTITY sendLaterCmd.label "Send Later">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "تنظیم صفحه…">
-<!ENTITY printSetupCmd.accesskey "ت">
-<!ENTITY printPreviewCmd.label "پیش‌نمای چاپ">
-<!ENTITY printPreviewCmd.accesskey "پ">
 <!ENTITY printCmd.label "چاپ…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "چ">
@@ -181,8 +174,6 @@
 
 
 
-<!ENTITY preferencesCmdUnix.label "ترجیحات">
-<!ENTITY preferencesCmdUnix.accesskey "ت">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
@@ -195,7 +186,6 @@
 <!ENTITY sendButton.label "Send">
 <!ENTITY quoteButton.label "Quote">
 <!ENTITY addressButton.label "Contacts">
-<!ENTITY attachButton.label "Attach">
 <!ENTITY spellingButton.label "Spelling">
 <!ENTITY saveButton.label "ذخیره">
 <!ENTITY printButton.label "چاپ">
@@ -264,8 +254,6 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "انتخاب همه">
 <!ENTITY selectAll.accesskey "ا">
-<!ENTITY attachFile.label "Attach File(s)…">
-<!ENTITY attachFile.accesskey "F">
 
 
 

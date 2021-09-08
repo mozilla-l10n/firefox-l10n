@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = حذف همه وب‌سایت‌ها
     .accesskey = e
 
-permissions-button-cancel =
-    .label = انصراف
-    .accesskey = ن
-
-permissions-button-ok =
-    .label = ذخیره تغییرات
-    .accesskey = ذ
-
 permission-dialog =
     .buttonlabelaccept = ذخیره تغییرات
     .buttonaccesskeyaccept = ذ

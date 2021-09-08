@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = در هنگام ارسال گزارش خطا‌ رخ داد. لطفا بعدا دوباره تلاش کنید.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = پایگاه اینترنتی درست شد؟ گزارش ارسال کنید
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = معمولی
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = اطلاعات بیشتر در مورد حفاظت پیشرفته در برابر ردیابی
+
 protections-panel-etp-on-header = حفاظت پیشرفته در برابر ردیابی برای این سایت روشن است
 protections-panel-etp-off-header = حفاظت پیشرفته در برابر ردیابی برای این سایت خاموش است
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = سایت کار نمی‌کند؟
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = سایت کار نمی‌کند؟
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = همهٔ ردیاب‌ها�
 ##
 
 protections-panel-no-trackers-found = هیچ ردیابی که برای { -brand-short-name } آشنا باشد در این صفحه شناسایی نشده است.
+
 protections-panel-content-blocking-tracking-protection = محتوای ردیابی
+
 protections-panel-content-blocking-socialblock = ردیاب‌های شبکه‌های اجتماعی
 protections-panel-content-blocking-cryptominers-label = استخراج کننده‌های رمزارزها
 protections-panel-content-blocking-fingerprinters-label = برداشت کنندگان اثر انگشت
@@ -64,12 +70,14 @@ protections-panel-protectionsdashboard-label = تابلوی محافظت‌ها
 
 # The header of the list
 protections-panel-site-not-working-view-header = اگر هر کدام از مشکلات مقابل را دارید، محافظت‌ها را خاموش کنید:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = فیلدهای ورود
 protections-panel-site-not-working-view-issue-list-forms = فرم‌ها
 protections-panel-site-not-working-view-issue-list-payments = پرداخت‌های مالی
 protections-panel-site-not-working-view-issue-list-comments = نظرات
 protections-panel-site-not-working-view-issue-list-videos = ویدئوها
+
 protections-panel-site-not-working-view-send-report = ارسال گزارش
 
 ##
@@ -79,13 +87,16 @@ protections-panel-cryptominers = جمع‌کنندگان ارز دیجیتال �
 protections-panel-fingerprinters = برداشت کنندگان اثر انگشت، تنظیماتِ مرورگر و رایانه شما جمع‌آوری می‌کنند تا نمایه‌ای از شما ایجاد کنند. با استفاده از این اثر انگشت دیجیتالی، آنها می‌توانند شما را در وب‌سایت‌های مختلف ردیابی کنند.
 protections-panel-tracking-content = وب سایت‌ها ممکن است تبلیغات خارجی، فیلم‌ها و سایر محتواها را با کد رهگیری بارگذاری کنند. مسدود کردن محتوای ردیابی می‌تواند به بارگیری سریعتر سایت‌ها کمک کند، اما برخی از دکمه‌ها، فرم‌ها و فیلدهای ورود به سیستم ممکن است کار نکنند.
 protections-panel-social-media-trackers = شبکه‌های اجتماعی ردیاب‌هایی را در وب سایت‌های دیگر قرار می‌دهند تا آنچه را که انجام می‌دهید، مشاهده یا تماشا می‌کنید را دنبال کنند. این کار به این شرکت‌ها اجازه می دهد تا فراتر از آنچه در نمایهٔ شبکهٔ اجتماعی خود به اشتراک می گذارید، درباره شما اطلاعات جمع کنند.
+
 protections-panel-description-shim-allowed = برخی از ردیاب‌های مشخص شده در زیر، به دلیل تعامل شما با آنها در این صفحه تا حدودی رفع انسداد شده‌اند.
 protections-panel-description-shim-allowed-learn-more = بیشتر بدانید
 protections-panel-shim-allowed-indicator =
     .tooltiptext = ردیاب تا حدی مسدود شد
+
 protections-panel-content-blocking-manage-settings =
     .label = مدیریت تنظیمات حفاظتی
     .accesskey = M
+
 protections-panel-content-blocking-breakage-report-view =
     .title = گزارش یک سایت خراب
 protections-panel-content-blocking-breakage-report-view-description = مسدود کردن ردیاب‌های خاص می‌تواند مشکلاتی را در برخی وب سایت‌ها ایجاد کند. گزارش این مشکلات به بهتر شدن { -brand-short-name } برای همه کمک می‌کند. با ارسال این گزارش، نشانی اینترنتی و اطلاعات مربوط به تنظیمات مرورگر شما به موزیلا ارسال می‌شود. <label data-l10n-name="learn-more">بیشتر بدانید</label>

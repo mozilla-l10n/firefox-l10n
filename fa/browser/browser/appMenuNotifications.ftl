@@ -2,40 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-appmenu-update-available =
-    .label = بروزرسانی‌های جدیدی برای { -brand-shorter-name } در دسترس است.
-    .buttonlabel = دریافت بروزرسانی
-    .buttonaccesskey = د
-    .secondarybuttonlabel = اکنون نه
-    .secondarybuttonaccesskey = ا
-appmenu-update-available-message = برای بهترین سرعت و حریم شخصی، { -brand-shorter-name } را به‌روزرسانی کنید.
-appmenu-update-manual =
-    .label = { -brand-shorter-name } نمی‌تواند به نسخه آخر بروز شود.
-    .buttonlabel = دریافت { -brand-shorter-name }
-    .buttonaccesskey = د
-    .secondarybuttonlabel = اکنون نه
-    .secondarybuttonaccesskey = ا
-appmenu-update-manual-message = یک نسخه تازه از { -brand-shorter-name } را دریافت کنید، ما در نصب آن به شما کمک خواهیم کرد.
-appmenu-update-whats-new =
-    .value = دیدن تازه‌ها
-appmenu-update-unsupported =
-    .label = { -brand-shorter-name } نمی‌تواند به آخرین نسخه به‌روزرسانی شود.
-    .buttonlabel = بیشتر بدانید
-    .buttonaccesskey = ش
-    .secondarybuttonlabel = بستن
-    .secondarybuttonaccesskey = ب
-appmenu-update-unsupported-message = آخرین نسخه { -brand-shorter-name } در سیستم شما پشتیبانی نمی‌شود.
-appmenu-update-restart =
-    .label = برای بروزرسانی { -brand-shorter-name } را مجددا راه‌اندازی کنید.
-    .buttonlabel = راه‌اندازی مجدد و بازآوری
-    .buttonaccesskey = ر
-    .secondarybuttonlabel = اکنون نه
-    .secondarybuttonaccesskey = ا
-appmenu-update-restart-message = بعد ازیک راه اندازی مجدد،‌ { -brand-shorter-name } تمامی زبانه‌ها و پنجره‌های باز شما را مجدداً باز می‌کند به جز مواردی که در حالت مرور خصوصی بوده‌اند.
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = باشه، فهمیدم
-    .buttonaccesskey = O
-appmenu-addon-post-install-message = با کلیک بر روی <image data-l10n-name='addon-install-icon'></image> در منو <image data-l10n-name='addon-menu-icon'></image> افزونه‌های خود را مدیریت کنید.
 appmenu-update-available2 =
     .label = بروزرسانی موجود است
     .buttonlabel = دریافت
@@ -71,6 +37,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = هم‌اکنون نه
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = یک بروزرسانی جدید برای { -brand-shorter-name } در دسترس است، اما به دلیل اینکه نسخهٔ دیگری از { -brand-shorter-name } در حال اجراست، نمی‌توان آن را نصب کرد. برای ادامهٔ بروزرسانی آن را ببندید، یا «به هر حال بروزرسانی شود» را انتخاب کنید (نسخهٔ دیگر تا زمانی که آن را مجددا راه‌اندازی کنید ممکن است کار نکند).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = تایید
     .buttonaccesskey = ت
@@ -78,18 +45,7 @@ appmenu-addon-post-install-message3 = افزونه‌ها و تم‌های خو�
 appmenu-addon-post-install-incognito-checkbox =
     .label = به این افزونه اجازه‌ی اجرا در پنجره خصوصی را بده
     .accesskey = ب
-appmenu-new-tab-controlled =
-    .label = زبانه جدید شما دچار تغییر شده است.
-    .buttonlabel = نگه‌داری تغییرات
-    .buttonaccesskey = K
-    .secondarybuttonlabel = غیرفعال کردن افزودنی
-    .secondarybuttonaccesskey = D
-appmenu-homepage-controlled =
-    .label = صفحهٔ خانگی شما تغییر کرده است.
-    .buttonlabel = نگاه داشتن تغییرات
-    .buttonaccesskey = K
-    .secondarybuttonlabel = غیرفعال کردن افزودنی‌ها
-    .secondarybuttonaccesskey = D
+
 appmenu-new-tab-controlled-changes =
     .label = زبانهٔ جدید شما تغیر کرده است.
     .buttonlabel = تغییرات حفظ شوند

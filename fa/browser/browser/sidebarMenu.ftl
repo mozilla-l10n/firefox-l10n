@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = نشانک‌ها
+
 sidebar-menu-history =
     .label = تاریخچه
+
 sidebar-menu-synced-tabs =
     .label = زبانه‌های همگام شده
+
 sidebar-menu-close =
     .label = بستن نوار کناری
+
 sidebar-close-button =
     .tooltiptext = بستن نوار کناری

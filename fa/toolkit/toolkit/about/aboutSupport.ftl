@@ -10,11 +10,6 @@ crashes-id = شناسهٔ گزارش
 crashes-send-date = ثبت شد
 crashes-all-reports = تمام گزارش‌های فروپاشی
 crashes-no-config = این برنامه برای نمایش گزارش‌های فروپاشی پیکربندی نشده است.
-extensions-title = ضمیمه‌ها
-extensions-name = نام
-extensions-enabled = فعال
-extensions-version = نسخه
-extensions-id = شناسه
 support-addons-name = نام
 support-addons-version = نسخه
 support-addons-id = شناسه
@@ -112,8 +107,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = نوع فرآیند
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = آرگومان‌ها
-safe-mode-title = آزمایش حالت امن
-restart-in-safe-mode-label = راه‌اندازی مجدد، همراه با غیرفعال‌سازی افزونه‌ها…
 
 ## Media titles
 
@@ -251,19 +244,12 @@ webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = نسخه راه‌انداز WebGL 2
 webgl2-driver-extensions = افزونه راه‌انداز WebGL 2
 webgl2-extensions = افزونه‌های WebGL 2
-blocklisted-bug = مسدود شده به دلیل مسائل شناخته نشده
-
-# Variables
-# $bugNumber (string) - String of bug number from Bugzilla
-bug-link = باگ{ $bugNumber }
 
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = مسدود شده،‌ کد خطا { $failureCode }
 
 d3d11layers-crash-guard = حروفچین D3D11
-d3d11video-crash-guard = رمزگشا فیلم D3D11
-d3d9video-crash-guard = رمزگشا فیلم D3D9
 glcontext-crash-guard = OpenGL
 
 reset-on-next-restart = تنظیم مجدد بعد از راه اندازی مجدد
@@ -300,14 +286,6 @@ launcher-process-status-unknown = وضعیت نامشخص
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-multi-process-status-0 = فعال‌ ‌شده توسط کاربر
-multi-process-status-1 = فعال شده توسط پیش فرض
-multi-process-status-2 = غیرفعال
-multi-process-status-4 = عیرفعال شده توسط ابزار دسترسی‌پذیری
-multi-process-status-6 = غیرفعال توسط ورودی متن خارج از پشتیبانی
-multi-process-status-7 = غیرفعال شده توسط افزونه
-multi-process-status-8 = در هر شرایطی غیرفعال شود
-multi-process-status-unknown = وضعیت نامشخص
 
 async-pan-zoom = پان/بزرگنمایی ناهمگام
 apz-none = هیچ‌کدام

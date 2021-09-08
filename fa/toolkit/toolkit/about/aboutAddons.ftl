@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = مدیریت افزودنی‌ها
-
 addons-page-title = مدیریت افزودنی‌ها
 
 search-header =
@@ -33,60 +30,11 @@ help-button = پشتیبانی افزونه
 sidebar-help-button-title =
     .title = پشتیبانی افزونه
 
-preferences =
-    { PLATFORM() ->
-        [windows] گزینه ها{ -brand-short-name }
-       *[other] ترجیحات{ -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] گزینه ها{ -brand-short-name }
-           *[other] ترجیحات{ -brand-short-name }
-        }
-
 show-unsigned-extensions-button =
     .label = برخی از توسعه‌ها را نمی‌توان تایید کرد
 
 show-all-extensions-button =
     .label = نمایش تمام توسعه‌ها
-
-cmd-show-details =
-    .label = نمایش اطلاعات بیشتر
-    .accesskey = ط
-
-cmd-find-updates =
-    .label = یافتن بروزرسانی‌ها
-    .accesskey = ب
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] گزینه‌ها
-           *[other] ترجیحات
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] گ
-           *[other] ت
-        }
-
-cmd-enable-theme =
-    .label = استفاده از این تم
-    .accesskey = س
-
-cmd-disable-theme =
-    .label = توقف استفاده از این تم
-    .accesskey = ق
-
-cmd-install-addon =
-    .label = نصب
-    .accesskey = ن
-
-cmd-contribute =
-    .label = مشارکت
-    .accesskey = م
-    .tooltiptext = مشارکت در توسعهٔ این افزودنی
 
 detail-version =
     .label = نسخه
@@ -347,8 +295,6 @@ dictionary-disabled-heading = غیرفعال شد
 
 locale-enabled-heading = فعال شد
 locale-disabled-heading = غیرفعال شد
-
-ask-to-activate-button = برای فعال‌سازی سوال شود
 
 always-activate-button = همیشه فعال باشد
 never-activate-button = هرگز فعال نشود

@@ -6,9 +6,6 @@ password-quality-meter = کیفیت‌سنج گذرواژه
 
 ## Change Password dialog
 
-change-password-window =
-    .title = تغییر گذرواژهٔ اصلی
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = دستگاه امنیتی: { $tokenName }
@@ -18,15 +15,10 @@ change-password-reenter = گذرواژهٔ جدید (دوباره وارد کن�
 
 ## Reset Password dialog
 
-reset-password-window =
-    .title = صفر کردن گذرواژهٔ اصلی
-    .style = width: 40em
-
 ## Reset Primary Password dialog
 
 reset-password-button-label =
     .label = صفر کردن
-reset-password-text = اگر گذرواژهٔ اصلی خود را صفر کنید، همهٔ گذرواژه‌های وبی و پست الکترونیکی، اطلاعات فرم‌ها و گواهی‌های شخصی و کلید‌های خصوصی  ذخیره شدهٔ شما فراموش خواهند شد. آیا مطمئنید که می‌خواهید گذرواژهٔ اصلی خود را صفر کنید؟
 
 ## Downloading cert dialog
 

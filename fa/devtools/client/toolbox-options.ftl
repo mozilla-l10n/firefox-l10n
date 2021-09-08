@@ -65,11 +65,6 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = رفتار تصویر‌گرفتن از صفحه
 
-# Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = تصویر صفحه به clipboard
-options-screenshot-clipboard-tooltip =
-    .title = ذخیره‌سازی تصاویر صفحه مستقیما در clipboard
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = پخش صدای شاتر دوربین
 options-screenshot-audio-tooltip =

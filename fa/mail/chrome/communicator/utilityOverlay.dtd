@@ -18,10 +18,6 @@
 <!ENTITY redoCmd.accesskey          "ز">
 <!ENTITY deleteCmd.label          "حذف">
 <!ENTITY deleteCmd.accesskey        "ح">
-<!ENTITY preferencesCmd2.label "گزینه‌ها">
-<!ENTITY preferencesCmd2.accesskey "گ">
-<!ENTITY preferencesCmdUnix.label       "ترجیحات">
-<!ENTITY preferencesCmdUnix.accesskey     "ت">
 
 <!ENTITY viewMenu.label          "نما">
 <!ENTITY viewMenu.accesskey        "ن">
