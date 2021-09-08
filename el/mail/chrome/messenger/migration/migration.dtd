@@ -10,7 +10,7 @@
 <!ENTITY importSourceNotFound.label     "Δεν βρέθηκε εφαρμογή από την οποία να μπορεί να γίνει εισαγωγή δεδομένων.">
 
 <!ENTITY importFromNothing.label        "Χωρίς εισαγωγή">
-<!ENTITY importFromNothing.accesskey    "τ">
+<!ENTITY importFromNothing.accesskey    "Χ">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 ή μεταγενέστερη">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOutlook.label        "Outlook">

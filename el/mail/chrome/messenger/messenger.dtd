@@ -260,7 +260,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "μ">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Προβολή συνημμένων εντός μηνύματος">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "φ">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "ν">
 
 <!ENTITY pageSourceCmd.label "Κώδικας μηνύματος">
 <!ENTITY pageSourceCmd.accesskey "κ">

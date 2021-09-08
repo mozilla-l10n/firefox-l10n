@@ -97,7 +97,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY tasksMenu.label                                "Εργαλεία">
 <!ENTITY tasksMenu.accesskey                            "γ">
 <!ENTITY messengerCmd.label                             "Ταχυδρομείο &amp; ομάδες συζητήσεων">
-<!ENTITY messengerCmd.accesskey                         "λ">
+<!ENTITY messengerCmd.accesskey                         "χ">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Αναζήτηση διευθύνσεων…">
 <!ENTITY searchAddressesCmd.accesskey                   "ζ">
@@ -132,7 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "π">
 <!ENTITY deleteButton2.label                            "Διαγραφή">
 <!ENTITY deleteButton2.accesskey                        "Δ">
-
 <!ENTITY removeButton.label                             "Αφαίρεση">
 <!ENTITY removeButton.accesskey                         "Α">
 
@@ -147,7 +146,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Αποστολή ενός μηνύματος αλληλογραφίας">
 <!ENTITY newIM.tooltip                                  "Αποστολή ενός άμεσου μηνύματος ή chat">
 <!ENTITY deleteButton2.tooltip                          "Διαγραφή επιλεγμένου αντικειμένου">
-
 <!ENTITY removeButton.tooltip                           "Αφαίρεση του επιλεγμένου ευρετηρίου">
 
 <!-- Search Bar -->
