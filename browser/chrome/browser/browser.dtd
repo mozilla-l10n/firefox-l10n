@@ -55,12 +55,6 @@ when there are no windows but Firefox is still running. -->
 
 
 
-<!ENTITY personalbarCmd.label "Umwanyabikoresho w'Utumenyetso">
-<!ENTITY personalbarCmd.accesskey "b">
-<!ENTITY bookmarksToolbarItem.label "Ibigize Umwanyabikoresho w'Utumenyetso">
-
-
-
 
 
 
@@ -88,10 +82,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
-<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+ <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
@@ -102,8 +93,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
-<!ENTITY pointerlockWarning.beforeDomain.label "">
 
 
 
@@ -146,9 +135,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 
 
-<!ENTITY bookmarksButton.label          "Utumenyetso">
-
-
 
 
 
@@ -166,9 +152,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY downloads.label              "Ibikururwa">
-
-
-<!ENTITY addons.label                 "Imigereka">
 
 
 
@@ -190,7 +173,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Amateka">
 
-<!ENTITY historyUndoMenu.label "Udufishi Twafunze Iyimura">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 
 
@@ -384,14 +366,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-<!ENTITY quitApplicationCmdWin2.label       "Gusohoka">
-<!ENTITY quitApplicationCmdWin2.accesskey   "o">
-
-<!ENTITY quitApplicationCmd.label       "Kuvamo">
-<!ENTITY quitApplicationCmd.accesskey   "v">
 
 
 

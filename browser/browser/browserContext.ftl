@@ -5,12 +5,6 @@
 
 ## Back
 
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 
@@ -18,12 +12,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
@@ -54,9 +42,6 @@ main-context-menu-page-save =
     .label = Kubika Paji Muri...
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link-new-tab =
@@ -83,10 +68,6 @@ main-context-menu-copy-email =
     .label = Gukoporora Aderesi Imeyili
     .accesskey = k
 
-main-context-menu-copy-link =
-    .label = Gukoporora Ahari Ihuza
-    .accesskey = p
-
 ## Media (video/audio) controls
 ##
 ## The accesskey for "Play" and "Pause" are the
@@ -106,29 +87,13 @@ main-context-menu-media-pause =
 
 ##
 
-main-context-menu-image-view =
-    .label = Kureba Ishusho
-    .accesskey = I
-
 main-context-menu-image-copy =
     .label = Gukoporora Ishusho
     .accesskey = r
 
-main-context-menu-image-copy-location =
-    .label = Gukoporora Ahari Ishusho
-    .accesskey = o
-
 main-context-menu-image-save-as =
     .label = Kubika Ishusho Muri...
     .accesskey = b
-
-main-context-menu-image-set-as-background =
-    .label = Ishizweho nk'imbuganyuma y'ibiro...
-    .accesskey = m
-
-main-context-menu-view-background-image =
-    .label = Kureba Ishusho Mbuganyuma
-    .accesskey = y
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -179,10 +144,6 @@ main-context-menu-view-selection-source =
 main-context-menu-view-page-source =
     .label = Kureba Inkomoko ya Paji
     .accesskey = P
-
-main-context-menu-view-page-info =
-    .label = Kureba Amakuru ya Paji
-    .accesskey = y
 
 main-context-menu-bidi-switch-page =
     .label = Guhinduranya Icyerekezo cya Paji

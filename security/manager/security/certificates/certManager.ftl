@@ -11,27 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Abayobozi
 
-certmgr-subject-label = Byahawe
-
-certmgr-issuer-label = Byatanzwe Na
-
-certmgr-fingerprints = Ibikumwe
-
-certmgr-cert-detail =
-    .title = Ibisobanuro by'Icyemezo
-    .buttonlabelaccept = Gufunga
-    .buttonaccesskeyaccept = f
-
-certmgr-cert-detail-commonname = Izina Rusange (CN)
-
-certmgr-cert-detail-org = Umuryango (O)
-
-certmgr-cert-detail-orgunit = Ishami Ricunga (OU)
-
-certmgr-cert-detail-serial-number = Nimero Iranga
-
-certmgr-cert-detail-sha-1-fingerprint = Igikumwe cya SHA1
-
 certmgr-edit-ca-cert =
     .title = Guhindura Amagenamiterere y'Icyizere cy'Icyemezo cya CA
     .style = width: 48em;
@@ -54,8 +33,6 @@ certmgr-cert-name =
 certmgr-token-name =
     .label = Apareyi y'Umutekano
 
-certmgr-expires-on = Agaciro Kayo Kazarangira Ku Wa:
-
 certmgr-expires-label =
     .label = Agaciro Kayo Kazarangira Ku Wa:
 
@@ -64,14 +41,6 @@ certmgr-email =
 
 certmgr-serial =
     .label = Nimero Iranga
-
-certmgr-details =
-    .value = Imyanya y'Icyemezo
-    .accesskey = m
-
-certmgr-fields =
-    .value = Agaciro k'Umwanya
-    .accesskey = c
 
 pk11-bad-password = Ijambobanga  winjije siryo.
 pkcs12-decode-err = Ntibishobotse iyo dosiye. Birashoboka ko itari mu bwoko bwa PKCS #12, cyangwa byapfuye, cyangwa se winjije ijambobanga  ritariryo.
@@ -111,37 +80,6 @@ delete-email-cert-title =
 delete-email-cert-confirm = Urashaka koko gusiba ibyemezo bya imeyili z'aba bantu?
 
 ## Cert Viewer
-
-not-present =
-    .value = <Ntabwo Kiri Mu Bikubiye Mu Cyemezo>
-
-# Cert verification
-cert-verified = Iki cyemezo cyagenzuwe mu gukoreshwa mu buryo bukurikira:
-
-# Add usage
-verify-ssl-client =
-    .value = Uruhusa rw'umukiriya SSL
-
-verify-ssl-server =
-    .value = Uruhusa rwa seriveri SSL
-
-verify-ssl-ca =
-    .value = Ubuyobozi bw'uruhusa SSL
-
-verify-email-signer =
-    .value = Uruhusa rw'ushyiraho umukono kuri imeli
-
-verify-email-recip =
-    .value = Uruhusa rw'uwandikiwe imeli
-
-# Cert verification
-cert-not-verified-cert-revoked = Ntibyashobotse kugenzura iki cyemezo kubera ko cyanzwe.
-cert-not-verified-cert-expired = Ntibyashobotse kugenzura iki cyemezo kubera ko cyarengeje igihe.
-cert-not-verified-cert-not-trusted = Ntibyashobotse kugenzura iki cyemezo kubera ko gitizewe.
-cert-not-verified-issuer-not-trusted = Ntibyashobotse kugenzura iki cyemezo kubera ko uwagitanze atizewe.
-cert-not-verified-issuer-unknown = Ntibyashobotse kugenzura iki cyemezo kubera ko uwagitanze atazwi.
-cert-not-verified-ca-invalid = Ntibyashobotse kugenzura iki cyemezo kubera ko icyemezo cya CA gitemewe.
-cert-not-verified-unknown = Ntibyashobotse kugenzura iki cyemezo kubera impamvu zitazwi.
 
 ## Used to show whether an override is temporary or permanent
 

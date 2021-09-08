@@ -5,9 +5,6 @@
 
 ## App Menu
 
-appmenuitem-customize-mode =
-    .label = Kuboneza...
-
 ## Zoom Controls
 
 appmenuitem-new-window =
