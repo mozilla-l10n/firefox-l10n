@@ -5,11 +5,6 @@
 containers-window-new =
     .title = Tilføj ny kontekst
     .style = width: 33em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = Indstillinger for konteksten { $name }
-    .style = width: 33em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = Ikon
 containers-color-label = Farve
     .accesskey = a
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = Færdig
-    .accesskey = F
 
 containers-dialog =
     .buttonlabelaccept = Færdig

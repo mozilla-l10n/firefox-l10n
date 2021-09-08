@@ -8,9 +8,6 @@
 newtab-page-title = Nyt faneblad
 newtab-settings-button =
     .title = Tilpas siden Nyt faneblad
-newtab-personalize-button-label = Tilpas
-    .title = Tilpas nyt faneblad
-    .aria-label = Tilpas nyt faneblad
 newtab-personalize-icon-label =
     .title = Tilpas nyt faneblad
     .aria-label = Tilpas nyt faneblad
@@ -23,7 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Søg
     .aria-label = Søg
-newtab-search-box-search-the-web-text = Søg på internettet
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Søg med { $engine } eller indtast adresse
@@ -38,10 +35,12 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Søg eller indtast adresse
     .title = Søg eller indtast adresse
     .aria-label = Søg eller indtast adresse
+
 newtab-search-box-search-the-web-input =
     .placeholder = Søg på internettet
     .title = Søg på internettet
     .aria-label = Søg på internettet
+
 newtab-search-box-text = Søg på nettet
 newtab-search-box-input =
     .placeholder = Søg på nettet
@@ -57,10 +56,12 @@ newtab-topsites-edit-shortcut-header = Rediger genvej
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Indtast en titel
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Indtast eller indsæt en URL
 newtab-topsites-url-validation = Gyldig URL påkrævet
+
 newtab-topsites-image-url-label = URL til selvvalgt billede
 newtab-topsites-use-image-link = Brug selvvalgt billede…
 newtab-topsites-image-validation = Kunne ikke indlæse billede. Prøv en anden URL.
@@ -89,10 +90,12 @@ newtab-topsite-sponsored = Sponsoreret
 newtab-menu-section-tooltip =
     .title = Åbn menu
     .aria-label = Åbn menu
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Fjern
     .aria-label = Fjern
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -166,10 +169,12 @@ newtab-label-removed-bookmark = Bogmærke fjernet
 newtab-label-recommended = Populært
 newtab-label-saved = Gemt til { -pocket-brand-name }
 newtab-label-download = Hentet
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsoreret
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -208,6 +213,7 @@ newtab-section-header-pocket = Anbefalet af { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Gå i gang med at browse, så vil vi vise dig nogle af de artikler, videoer og andre sider, du har besøgt eller gemt et bogmærke til for nylig.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -253,10 +259,4 @@ newtab-custom-pocket-sponsored = Sponsorerede historier
 newtab-custom-recent-title = Seneste aktivitet
 newtab-custom-recent-subtitle = Et udvalg af seneste websteder og indhold
 newtab-custom-close-button = Luk
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Notitser
-newtab-custom-snippets-subtitle = Tips og nyheder fra { -vendor-short-name } og { -brand-product-name }
 newtab-custom-settings = Håndter flere indstillinger

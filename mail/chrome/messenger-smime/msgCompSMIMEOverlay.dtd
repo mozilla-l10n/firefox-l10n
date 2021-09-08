@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "Underskriv meddelelsen digitalt">
 <!ENTITY menu_securitySign.accesskey "U">
 
-<!ENTITY menu_securityAttachMyKey.label "Vedhæft min offentlige nøgle">
-<!ENTITY menu_securityAttachMyKey.accesskey "V">
-
 <!ENTITY menu_securityTech.label "Krypteringsteknologi">
 <!ENTITY menu_securityTech.accesskey "T">
 

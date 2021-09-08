@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Liste
 
-blocklist-button-cancel =
-    .label = Fortryd
-    .accesskey = F
-
-blocklist-button-ok =
-    .label = Gem ændringer
-    .accesskey = G
-
 blocklist-dialog =
     .buttonlabelaccept = Gem ændringer
     .buttonaccesskeyaccept = G

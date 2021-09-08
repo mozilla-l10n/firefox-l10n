@@ -7,7 +7,6 @@
 
 cfr-doorhanger-extension-heading = Anbefalet udvidelse
 cfr-doorhanger-feature-heading = Anbefalet udvidelse
-cfr-doorhanger-pintab-heading = Prøv: Fastgør faneblad
 
 ##
 
@@ -19,8 +18,6 @@ cfr-doorhanger-extension-cancel-button = Ikke nu
 
 cfr-doorhanger-extension-ok-button = Tilføj nu
     .accesskey = T
-cfr-doorhanger-pintab-ok-button = Fastgør dette faneblad
-    .accesskey = F
 
 cfr-doorhanger-extension-manage-settings-button = Håndter indstillinger for anbefalinger
     .accesskey = H
@@ -68,16 +65,7 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } brugere
     }
 
-cfr-doorhanger-pintab-description = Få nem adgang til de websteder, du bruger mest. Dine fastgjorte faneblade er der stadig, når du genstarter.
-
 ## These messages are steps on how to use the feature and are shown together.
-
-cfr-doorhanger-pintab-step1 = <b>Højreklik</b> på det faneblad, du vil fastgøre.
-cfr-doorhanger-pintab-step2 = Vælg <b>Fastgør faneblad</b> i menuen.
-cfr-doorhanger-pintab-step3 = En blå prik på det fastgjorte faneblad viser, at webstedet er blevet opdateret.
-
-cfr-doorhanger-pintab-animation-pause = Pause
-cfr-doorhanger-pintab-animation-resume = Fortsæt
 
 
 ## Firefox Accounts Message
@@ -105,132 +93,29 @@ cfr-whatsnew-button =
     .label = Nyheder
     .tooltiptext = Nyheder
 
-cfr-whatsnew-panel-header = Nyheder
-
 cfr-whatsnew-release-notes-link-text = Læs udgivelsesnoterne
-
-cfr-whatsnew-fx70-title = { -brand-short-name } kæmper nu hårdere for din ret til et privatliv
-cfr-whatsnew-fx70-body =
-    Den nyeste version har forbedret funktionen Beskyttelse mod sporing og gør det
-    nemmere end nogensinde før at lave sikre adgangskoder.
-
-cfr-whatsnew-tracking-protect-title = Beskyt dig selv mod at blive sporet på nettet
-cfr-whatsnew-tracking-protect-body =
-    { -brand-short-name } blokerer mange udbredte sporings-teknologier fra sociale netværk
-    og andre virksomheder, der følger med i, hvad du laver på nettet.
-cfr-whatsnew-tracking-protect-link-text = Se din rapport
-
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $blockedCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-tracking-blocked-title =
-    { $blockedCount ->
-        [one] sporings-mekanisme blokeret
-       *[other] sporings-mekanismer blokeret
-    }
-cfr-whatsnew-tracking-blocked-subtitle = siden { DATETIME($earliestDate, month: "long", year: "numeric") }
-cfr-whatsnew-tracking-blocked-link-text = Se rapport
-
-cfr-whatsnew-lockwise-backup-title = Lav backup af dine adgangskoder
-cfr-whatsnew-lockwise-backup-body = Og opret sikre adgangskoder, du har adgang til overalt, hvor du logger ind.
-cfr-whatsnew-lockwise-backup-link-text = Slå backup til
-
-cfr-whatsnew-lockwise-take-title = Tag dine adgangskoder med dig
-cfr-whatsnew-lockwise-take-body =
-    Med apppen { -lockwise-brand-short-name } får du sikker adgang til dine adgangskoder,
-    uanset hvor du er.
-cfr-whatsnew-lockwise-take-link-text = Hent appen
 
 ## Search Bar
 
-cfr-whatsnew-searchbar-title = Skriv mindre, find mere med adressefeltet
-cfr-whatsnew-searchbar-body-topsites = Vælg adressefeltet, og en boks med links til dine mest besøgte websteder vil blive vist.
-
 ## Search bar
-
-cfr-whatsnew-searchbar-icon-alt-text = Forstørrelsesglas-ikon
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-header = Se videoer, mens du browser
-cfr-whatsnew-pip-body = Billede-i-billede viser video i et løsrevet vindue, så du kan se videoer, mens du bruger andre faneblade.
-cfr-whatsnew-pip-cta = Læs mere
-
 ## Permission Prompt
-
-cfr-whatsnew-permission-prompt-header = Færre irriterende pop op-beskeder
-cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } forhindrer nu websteder i automatisk at spørge, om du vil have vist beskeder.
-cfr-whatsnew-permission-prompt-cta = Læs mere
 
 ## Fingerprinter Counter
 
-# This string is displayed before a large numeral that indicates the total
-# number of tracking elements blocked. Don’t add $fingerprinterCount to your
-# localization, because it would result in the number showing twice.
-cfr-whatsnew-fingerprinter-counter-header =
-    { $fingerprinterCount ->
-        [one] Fingerprinter blokeret
-       *[other] Fingerprinters blokeret
-    }
-cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokerer nu mange af de fingerprinters, der i det skjulte indsamler informationer om din enhed og dine handlinger med henblik på at skabe en markedsførings-profil på dig.
-
-# Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
-cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } kan blokere fingerprinters, der i det skjulte indsamler informationer om din enhed og dine handlinger med henblik på at skabe en markedsførings-profil på dig.
-
 ## Bookmark Sync
-
-cfr-doorhanger-sync-bookmarks-header = Få dette bogmærke på din telefon
-cfr-doorhanger-sync-bookmarks-body = Tag dine bogmærker, adgangskoder, din historik og meget mere med dig på alle dine enheder med { -brand-product-name }.
-cfr-doorhanger-sync-bookmarks-ok-button = Aktiver { -sync-brand-short-name }
-    .accesskey = A
 
 ## Login Sync
 
-cfr-doorhanger-sync-logins-header = Mist aldrig en adgangskode igen
-cfr-doorhanger-sync-logins-body = Gem og synkroniser dine adgangskoder sikkert på alle dine enheder.
-cfr-doorhanger-sync-logins-ok-button = Aktiver { -sync-brand-short-name }
-    .accesskey = A
-
 ## Send Tab
-
-cfr-doorhanger-send-tab-header = Læs på farten
-cfr-doorhanger-send-tab-recipe-header = Tag opskriften med ud i køkkenet
-cfr-doorhanger-send-tab-body = Med funktionen Send faneblade kan du hurtigt dele dette link med din telefon eller andre enheder med { -brand-product-name }.
-cfr-doorhanger-send-tab-ok-button = Prøv Send faneblade
-    .accesskey = P
 
 ## Firefox Send
 
-cfr-doorhanger-firefox-send-header = Del denne PDF-fil sikkert
-cfr-doorhanger-firefox-send-body = Hold dine fortrolige dokumenter sikre med stærk kryptering og et link, der automatisk udløber
-cfr-doorhanger-firefox-send-ok-button = Prøv { -send-brand-name }
-    .accesskey = P
-
 ## Social Tracking Protection
 
-cfr-doorhanger-socialtracking-ok-button = Se beskyttelse
-    .accesskey = b
-cfr-doorhanger-socialtracking-close-button = Luk
-    .accesskey = L
-cfr-doorhanger-socialtracking-dont-show-again = Vis mig ikke meddelelser som denne igen
-    .accesskey = V
-cfr-doorhanger-socialtracking-heading = { -brand-short-name } forhindrede et socialt netværk i at spore dig på denne side
-cfr-doorhanger-socialtracking-description = Du har ret til et privatliv. { -brand-short-name } blokerer nu de mest almindelige sporings-teknologier fra sociale medier for at begrænse, hvor meget data de kan indsamle om din adfærd på nettet.
-cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blokerede en fingerprinter på denne side
-cfr-doorhanger-fingerprinters-description = Du har ret til et privatliv. { -brand-short-name } blokerer nu fingerprinters, der indsamler unikke informationer om din enhed for at spore dig.
-cfr-doorhanger-cryptominers-heading = { -brand-short-name } blokerede en cryptominer på denne side
-cfr-doorhanger-cryptominers-description = Du har ret til et privatliv. { -brand-short-name } blokerer nu cryptominers, der bruger dit systems ressourcer til at udvinde digital valuta.
-
 ## Enhanced Tracking Protection Milestones
-
-# Variables:
-#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
-cfr-doorhanger-milestone-heading =
-    { $blockedCount ->
-       *[other] { -brand-short-name } har blokeret flere end <b>{ $blockedCount }</b> sporings-mekanismer siden { $date }!
-    }
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
@@ -247,33 +132,13 @@ cfr-doorhanger-milestone-ok-button = Vis alle
 
 ## Lockwise message
 
-cfr-whatsnew-lockwise-header = Opret nemt sikre adgangskoder
-cfr-whatsnew-lockwise-body = Det er svært at finde på unikke og sikre adgangskoder til alle dine konti. Vælg feltet adgangskode, når du opretter en ny adgangskode. Så opretter { -brand-shorter-name } en sikker adgangskode til dig.
-cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-ikon
-
 ## Vulnerable Passwords message
-
-cfr-whatsnew-passwords-header = Få advarsler om usikre adgangskoder
-cfr-whatsnew-passwords-body = Hackere ved, at folk genbruger deres adgangskoder. Hvis du har den samme adgangskode på flere forskellige websteder, så viser { -lockwise-brand-short-name } dig en advarsel og beder dig om at ændre din adgangskode på disse websteder.
-cfr-whatsnew-passwords-icon-alt = Ikon for usikker adgangskode
 
 ## Picture-in-Picture fullscreen message
 
-cfr-whatsnew-pip-fullscreen-header = Brug billede-i-billede i fuld skærm
-cfr-whatsnew-pip-fullscreen-body = Når du får vist en video i et flydende vindue kan du nu dobbeltklikke på vinduet for at få det vist i fuld skærm.
-cfr-whatsnew-pip-fullscreen-icon-alt = Ikon for billede-i-billede
-
 ## Protections Dashboard message
 
-cfr-whatsnew-protections-header = Overblik over, hvordan du er beskyttet
-cfr-whatsnew-protections-body = Oversigten over beskyttelse inkluderer sammendrag af rapporter om datalæk og håndtering af adgangskoder. Du kan se, hvor mange datalæk du har løst - og om nogle af dine gemte adgangskoder er blevet ramt af et datalæk.
-cfr-whatsnew-protections-cta-link = Se oversigt over beskyttelse
-cfr-whatsnew-protections-icon-alt = Skjold-ikon
-
 ## Better PDF message
-
-cfr-whatsnew-better-pdf-header = Bedre visning af PDF-dokumenter
-cfr-whatsnew-better-pdf-body = PDF-dokumenter åbnes nu direkte i { -brand-short-name }, så du har dem lige ved hånden.
 
 cfr-doorhanger-milestone-close-button = Luk
     .accesskey = L
@@ -317,3 +182,10 @@ cfr-doorhanger-video-support-body = Videoer på dette websted afspilles måske i
 cfr-doorhanger-video-support-header = Opdater { -brand-short-name } for at afspille video
 cfr-doorhanger-video-support-primary-button = Opdater nu
     .accesskey = O
+
+## VPN promotion dialog for public Wi-Fi users
+##
+## If a user is detected to be on a public Wi-Fi network, they are given a
+## bit of info about how to improve their privacy and then offered a button
+## to the Mozilla VPN page and a link to dismiss the dialog.
+

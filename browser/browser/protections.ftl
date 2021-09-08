@@ -101,9 +101,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = Sådan virker det
 
-turn-on-sync = Aktivér { -sync-brand-short-name }…
-    .title = Gå til sync-indstillinger
-
 monitor-title = Hold øje med datalæk
 monitor-link = Sådan virker det
 monitor-header-content-no-account = Brug { -monitor-brand-name } til at se, om dine informationer har været ramt af en datalæk - og få advarsler om nye datalæk.

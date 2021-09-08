@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = Opret forbindelse til en ny enhed
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. Installer <a data-l10n-name="connect-another-device">Firefox på din mobile enhed</a>, hvis du ikke allerede har gjort det.
-
-fxa-qrcode-heading-phase2 = 2. Log ind på { -sync-brand-short-name }. Anvender du Android, kan du skanne parrings-koden i indstillingerne for { -sync-brand-short-name }.
-
 fxa-qrcode-heading-step1 = 1.<a data-l10n-name="connect-another-device">Installer Firefox på din mobile enhed,</a> hvis du ikke allerede har gjort det.
 
 fxa-qrcode-heading-step2 = 2. Åbn Firefox på din mobile enhed.

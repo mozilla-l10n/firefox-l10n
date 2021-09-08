@@ -53,9 +53,6 @@ import-label = Importer
 
 about-paragraph = Thunderbird er det førende platformsuafhængige mail- og kalenderprogram baseret på open source. Programmet er gratis, både til private og virksomheder. Vi ønsker, at Thunderbird fortsat skal være sikker og blive endnu bedre. Et bidrag hjælper os med at ansætte udviklere, betale for den bagvedliggende infrastruktur og med fortsat at forbedre Thunderbird.
 
-about-paragraph-2 = <b>Thunderbird finansieres af brugere som dig! Hvis du kan lide Thunderbird, kan du overveje at donere. </b> Den bedste måde du kan sikre, at Thunderbird fortsat er tilgængelig, er at
-about-donation = give en donation
-
 about-paragraph-consider-donation = <b>Thunderbird er økonomisk støttet af vores brugere. Hvis du er glad for Thunderbird, så hjælp os gerne med et bidrag.</b> Ved at <a data-l10n-name="donation-link">give et bidrag</a> er du med til at sikre, at Thunderbird også bliver udviklet i fremtiden.
 
 explore-link = Udforsk funktioner

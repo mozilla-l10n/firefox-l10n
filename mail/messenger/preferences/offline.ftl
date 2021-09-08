@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Brug automatisk den konstaterede online-tilstand
     .accesskey = B
 
-startup-label = Tilstand ved opstart:
-
 offline-preference-startup-label = Tilstand ved opstart:
 
 status-radio-remember =

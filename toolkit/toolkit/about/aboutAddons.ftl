@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Tilføjelser
-
 addons-page-title = Tilføjelser
 
 search-header =
@@ -35,18 +32,6 @@ help-button = Hjælp til tilføjelser
 sidebar-help-button-title =
     .title = Hjælp til tilføjelser
 
-preferences =
-    { PLATFORM() ->
-        [windows] Indstillinger for { -brand-short-name }
-       *[other] Indstillinger for { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] Indstillinger for { -brand-short-name }
-           *[other] Indstillinger for { -brand-short-name }
-        }
-
 addons-settings-button = { -brand-short-name }-indstillinger
 sidebar-settings-button-title =
     .title = { -brand-short-name }-indstillinger
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Vis alle udvidelser
-
-cmd-show-details =
-    .label = Vis flere detaljer
-    .accesskey = V
-
-cmd-find-updates =
-    .label = Find opdateringer
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] Indstillinger
-           *[other] Indstillinger
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] I
-        }
-
-cmd-enable-theme =
-    .label = Brug tema
-    .accesskey = t
-
-cmd-disable-theme =
-    .label = Stop brug af tema
-    .accesskey = t
-
-cmd-install-addon =
-    .label = Installer
-    .accesskey = I
-
-cmd-contribute =
-    .label = Bidrag
-    .accesskey = B
-    .tooltiptext = Bidrag til udviklingen af denne tilføjelse
 
 detail-version =
     .label = Version
@@ -405,8 +353,6 @@ dictionary-disabled-heading = Deaktiveret
 
 locale-enabled-heading = Aktiveret
 locale-disabled-heading = Deaktiveret
-
-ask-to-activate-button = Spørg om aktivering
 
 always-activate-button = Aktiver altid
 never-activate-button = Aktiver aldrig

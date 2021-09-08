@@ -40,8 +40,6 @@ inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</stro
 
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> har ingen effekt på dette element, fordi <strong>overflow:hidden</strong> ikke er sat.
 
-inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> har ingen effekt på dette element, fordi elementets <strong>outline-style</strong> er <strong>auto</strong> eller <strong>none</strong>.
-
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong>  har ingen effekt på interne tabel-elementer.
 
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> har ingen effekt på interne tabel-elementer, bortset fra tabel-celler.
@@ -83,8 +81,6 @@ inactive-text-overflow-when-no-overflow-fix = Prøv at tilføje <strong>overflow
 inactive-css-not-for-internal-table-elements-fix = Prøv at sætte <strong>display</strong>-egenskaben til noget andet end<strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> eller <strong>table-footer-group</strong>. { learn-more }
 
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Prøv at sætte <strong>display</strong>-egenskaben til noget andet end <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> eller <strong>table-footer-group</strong>. { learn-more }
-
-inactive-outline-radius-when-outline-style-auto-or-none-fix = Prøv at sætte elementets <strong>outline-style</strong> til noget andet end <strong>auto</strong> eller <strong>none</strong>. { learn-more }
 
 inactive-css-not-table-fix = Prøv at tilføje <strong>display:table</strong> eller <strong>display:inline-table</strong>. { learn-more }
 
