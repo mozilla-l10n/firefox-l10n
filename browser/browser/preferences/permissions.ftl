@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = 모든 웹 사이트 삭제
     .accesskey = e
 
-permissions-button-cancel =
-    .label = 취소
-    .accesskey = C
-
-permissions-button-ok =
-    .label = 변경 내용 저장
-    .accesskey = S
-
 permission-dialog =
     .buttonlabelaccept = 변경 내용 저장
     .buttonaccesskeyaccept = S

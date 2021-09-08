@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = 모든 사이트 제거
     .accesskey = i
 
-translation-button-close =
-    .label = 닫기
-    .accesskey = C
-
 translation-dialog =
     .buttonlabelaccept = 닫기
     .buttonaccesskeyaccept = C

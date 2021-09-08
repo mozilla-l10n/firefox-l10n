@@ -97,8 +97,6 @@ perftools-thread-img-decoder =
     .title = 이미지 디코딩 스레드
 perftools-thread-dns-resolver =
     .title = 이 스레드에서 DNS 확인 발생
-perftools-thread-js-helper =
-    .title = 오프 메인 스레드 컴파일과 같은 JS 엔진 백그라운드 작업
 
 perftools-thread-task-controller =
     .title = TaskController 스레드 풀 스레드

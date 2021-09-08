@@ -94,9 +94,6 @@ no-proxy-label =
 
 no-proxy-example = 예: .mozilla.or.kr, .net.nz 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = Localhost나 127.0.0.1, ::1로의 연결은 프록시 되지 않습니다.
-
 proxy-password-prompt =
     .label = 비밀번호가 저장되어 있으면 인증시 묻지 않기
     .accesskey = i

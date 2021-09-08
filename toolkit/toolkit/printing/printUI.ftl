@@ -57,8 +57,6 @@ printui-options = 옵션
 printui-headers-footers-checkbox = 머리글 및 바닥글 인쇄
 printui-backgrounds-checkbox = 배경 인쇄
 
-printui-selection-checkbox = 선택 영역만 인쇄
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

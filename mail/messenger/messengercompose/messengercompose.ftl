@@ -6,9 +6,6 @@
 # Addressing widget
 
 #   $type (String) - the type of the addressing row
-remove-address-row-type = { $type } 필드 삭제
-
-#   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
     { $count ->
@@ -89,18 +86,6 @@ attachment-bucket-count =
         }
     .accesskey = m
 
-#   $count (Number) - the number of attachments in the attachment bucket
-attachments-placeholder-tooltip =
-    .tooltiptext =
-        { $count ->
-            [1] { $count } 첨부파일
-           *[other] { $count } 첨부파일
-        }
-
-#   { attachment-bucket-count.accesskey } - Do not localize this message.
-key-toggle-attachment-pane =
-    .key = { attachment-bucket-count.accesskey }
-
 expand-attachment-pane-tooltip =
     .tooltiptext = 첨부 파일 창 보기 ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 
@@ -132,7 +117,10 @@ button-return-receipt =
     .label = 수신 확인
     .tooltiptext = 이 메시지에 대한 수신 확인을 요청
 
+# Encryption
+
 # Addressing Area
+
 
 ## Notifications
 

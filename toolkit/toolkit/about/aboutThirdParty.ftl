@@ -10,9 +10,6 @@ third-party-intro =
     Microsoft 또는 { -vendor-short-name }에서 서명하지 않은 모듈은 
     제3자 모듈로 간주됩니다.
 
-third-party-header-module-list = 모듈 목록
-third-party-header-loading-events = 로드 이벤트
-
 third-party-message-empty = 제3자 모듈이 감지되지 않았습니다.
 third-party-message-no-duration = 기록 안 됨
 

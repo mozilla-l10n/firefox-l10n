@@ -23,45 +23,8 @@ certmgr-tab-ca =
 certmgr-mine = 사용자를 확인하는 이 기관의 인증서를 가지고 있습니다
 certmgr-remembered = 이 인증서는 웹 사이트에서 사용자를 식별하는 데 사용됩니다.
 certmgr-people = 다음 사람들을 확인하는 파일의 인증서를 가지고 있습니다
-certmgr-servers = 다음 서버들을 확인하는 파일의 인증서를 가지고 있습니다
 certmgr-server = 이 항목은 서버 인증서 오류 예외를 식별합니다.
 certmgr-ca = 다음 인증 권한을 확인하는 파일의 인증서를 가지고 있습니다
-
-certmgr-detail-general-tab-title =
-    .label = 일반
-    .accesskey = G
-
-certmgr-detail-pretty-print-tab-title =
-    .label = 상세 정보
-    .accesskey = D
-
-certmgr-pending-label =
-    .value = 현재 인증서 확인 중…
-
-certmgr-subject-label = 발급 대상
-
-certmgr-issuer-label = 발급자
-
-certmgr-period-of-validity = 유효 기간
-
-certmgr-fingerprints = 지문
-
-certmgr-cert-detail =
-    .title = 인증서 상세 설명
-    .buttonlabelaccept = 닫기
-    .buttonaccesskeyaccept = C
-
-certmgr-cert-detail-commonname = 일반 이름 (CN)
-
-certmgr-cert-detail-org = 조직 (O)
-
-certmgr-cert-detail-orgunit = 조직 단위 (OU)
-
-certmgr-cert-detail-serial-number = 일련 번호
-
-certmgr-cert-detail-sha-256-fingerprint = SHA-256 지문
-
-certmgr-cert-detail-sha-1-fingerprint = SHA1 지문
 
 certmgr-edit-ca-cert =
     .title = CA 인증서 신뢰도 설정 편집
@@ -94,12 +57,8 @@ certmgr-override-lifetime =
 certmgr-token-name =
     .label = 보안 장치
 
-certmgr-begins-on = 시작일
-
 certmgr-begins-label =
     .label = 시작일
-
-certmgr-expires-on = 만료일
 
 certmgr-expires-label =
     .label = 만료일
@@ -141,18 +100,6 @@ certmgr-backup-all =
 certmgr-restore =
     .label = 가져오기…
     .accesskey = m
-
-certmgr-details =
-    .value = 인증서 항목
-    .accesskey = F
-
-certmgr-fields =
-    .value = 항목값
-    .accesskey = V
-
-certmgr-hierarchy =
-    .value = 인증서 계층 구조
-    .accesskey = H
 
 certmgr-add-exception =
     .label = 예외 추가…
@@ -216,12 +163,6 @@ delete-user-cert-confirm = 정말로 이 인증서를 삭제하시겠습니까?
 delete-user-cert-impact = 개인 인증서를 삭제하면 더 이상 사용할 수 없습니다.
 
 
-delete-ssl-cert-title =
-    .title = 서버 인증서 예외 삭제
-delete-ssl-cert-confirm = 다음 서버 예외를 삭제하시겠습니까?
-delete-ssl-cert-impact = 만약 서버 예외를 삭제하면, 해당 서버에 대한 일반적인 보안 확인을 복원하고 유효한 인증서 사용을 요구하게 됩니다.
-
-
 delete-ssl-override-title =
     .title = 서버 인증서 예외 삭제
 delete-ssl-override-confirm = 다음 서버 예외를 삭제하시겠습니까?
@@ -246,45 +187,6 @@ cert-with-serial =
     .value = 일련 번호 인증서: { $serialNumber }
 
 ## Cert Viewer
-
-# Title used for the Certificate Viewer.
-#
-# Variables:
-#   $certificate : a string representative of the certificate being viewed.
-cert-viewer-title =
-    .title = 인증서 뷰어: “{ $certName }”
-
-not-present =
-    .value = <인증서 형식 아님>
-
-# Cert verification
-cert-verified = 아래 용도를 위한 인증서로 확인됨:
-
-# Add usage
-verify-ssl-client =
-    .value = SSL 클라이언트 인증서
-
-verify-ssl-server =
-    .value = SSL 서버 인증서
-
-verify-ssl-ca =
-    .value = SSL 인증 기관
-
-verify-email-signer =
-    .value = 메일 서명자 인증서
-
-verify-email-recip =
-    .value = 메일 수신자 인증서
-
-# Cert verification
-cert-not-verified-cert-revoked = 인증서가 폐기되어 인증서를 확인할 수 없습니다.
-cert-not-verified-cert-expired = 인증서가 만료되어 확인할 수 없습니다.
-cert-not-verified-cert-not-trusted = 신뢰되지 않아 인증서를 확인할 수 없습니다.
-cert-not-verified-issuer-not-trusted = 발급자가 신뢰되지 않아 인증서를 확인할 수 없습니다.
-cert-not-verified-issuer-unknown = 발급자를 알 수 없어 인증서를 확인할 수 없습니다.
-cert-not-verified-ca-invalid = CA 인증서가 유효하지 않아 인증서를 확인할 수 없습니다.
-cert-not-verified_algorithm-disabled = 비활성화된 안전하지 않은 알고리즘을 사용하여 서명되었기 때문에 이 인증서를 확인할 수 없습니다.
-cert-not-verified-unknown = 알 수 없는 이유로 인증서를 확인할 수 없습니다.
 
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = 클라이언트 인증서를 보내지 않음
