@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = Менаџер додатака
-
 addons-page-title = Менаџер додатака
 
 search-header =
@@ -35,22 +32,6 @@ help-button = Помоћ
 sidebar-help-button-title =
     .title = Помоћ
 
-preferences =
-    Подешавања { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] програма { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        Подешавања { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "gen") }
-            [feminine] { -brand-short-name(case: "gen") }
-            [neuter] { -brand-short-name(case: "gen") }
-           *[other] програма { -brand-short-name }
-        }
-
 addons-settings-button =
     Подешавања { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -72,35 +53,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = Прикажи све додатке
-
-cmd-show-details =
-    .label = Прикажи више информација
-    .accesskey = в
-
-cmd-find-updates =
-    .label = Нађи ажурирања
-    .accesskey = Н
-
-cmd-preferences =
-    .label = Подешавања
-    .accesskey = П
-
-cmd-enable-theme =
-    .label = Укључи тему
-    .accesskey = У
-
-cmd-disable-theme =
-    .label = Искључи тему
-    .accesskey = И
-
-cmd-install-addon =
-    .label = Постави
-    .accesskey = П
-
-cmd-contribute =
-    .label = Донирај
-    .accesskey = Д
-    .tooltiptext = Дајте прилог аутору овог додатка
 
 detail-version =
     .label = Верзија
@@ -389,8 +341,6 @@ dictionary-disabled-heading = Онемогућени
 
 locale-enabled-heading = Омогућени
 locale-disabled-heading = Онемогућени
-
-ask-to-activate-button = Питај за активирање
 
 always-activate-button = Увек активирај
 never-activate-button = Никад не активирај

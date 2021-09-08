@@ -94,9 +94,6 @@ no-proxy-label =
 
 no-proxy-example = На пример: .mozilla.org, .net.nz, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = Везе са localhost, 127.0.0.1, и ::1 никада нису преко прокси сервера.
-
 proxy-password-prompt =
     .label = Не питај за идентификацију уколико је лозинка сачувана
     .accesskey = и

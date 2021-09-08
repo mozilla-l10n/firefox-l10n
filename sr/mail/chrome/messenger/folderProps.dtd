@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label           "Својства">
 
 <!ENTITY generalInfo.label                       "Општи подаци">
-<!ENTITY folderCharsetFallback2.label            "Одступно кодирање текста:">
-<!ENTITY folderCharsetFallback2.accesskey        "е">
-<!ENTITY folderCharsetEnforce2.label             "Примени кодирање на све поруке у фасцикли (појединачна подешавања текста порука и самопрепознавање ће бити занемарено)">
-<!ENTITY folderCharsetEnforce2.accesskey         "П">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Изгради садржај резиме датотеке">
 <!ENTITY folderRebuildSummaryFile2.label         "Поправи фасциклу">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "р">

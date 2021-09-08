@@ -11,16 +11,11 @@
 <!ENTITY newMenu.label "Ново">
 <!ENTITY newMenu.accesskey "Н">
 <!ENTITY newMessage.label "Порука">
-<!ENTITY newMessage.key "П">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "П">
 <!ENTITY newContact.label "Контакт у именику…">
 <!ENTITY newContact.accesskey "К">
 <!ENTITY attachMenu.label "Закачи">
 <!ENTITY attachMenu.accesskey "З">
-<!ENTITY attachFileCmd.label "Датотеку…">
-<!ENTITY attachFileCmd.accesskey "Д">
-<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Веб страницу…">
@@ -50,10 +45,6 @@
 <!ENTITY sendLaterCmd.label "Пошаљи касније">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "ј">
-<!ENTITY printSetupCmd.label "Подешавање странице…">
-<!ENTITY printSetupCmd.accesskey "р">
-<!ENTITY printPreviewCmd.label "Преглед пре штампе">
-<!ENTITY printPreviewCmd.accesskey "г">
 <!ENTITY printCmd.label "Штампај…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "т">
@@ -82,8 +73,6 @@
 <!ENTITY reorderAttachmentsCmd.label "Преуреди прилоге…">
 <!ENTITY reorderAttachmentsCmd.accesskey "г">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Површ за прилоге">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "а">
 <!ENTITY selectAllCmd.accesskey "з">
 <!ENTITY findBarCmd.label "Нађи…">
 <!ENTITY findBarCmd.accesskey "Н">
@@ -102,11 +91,7 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Преуреди прилоге">
-<!ENTITY moveAttachmentTopPanelBtn.label "Помери на врх">
-<!ENTITY moveAttachmentUpPanelBtn.label "Помери нагоре">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Помери заједно">
-<!ENTITY moveAttachmentDownPanelBtn.label "Помери надоле">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Помери на дно">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -204,10 +189,6 @@
 <!ENTITY accountManagerCmd2.label "Подешавања налога">
 <!ENTITY accountManagerCmd2.accesskey "н">
 <!ENTITY accountManagerCmdUnix2.accesskey "н">
-<!ENTITY preferencesCmd2.label "Опције">
-<!ENTITY preferencesCmd2.accesskey "О">
-<!ENTITY preferencesCmdUnix.label "Поставке">
-<!ENTITY preferencesCmdUnix.accesskey "к">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -220,7 +201,6 @@
 <!ENTITY sendButton.label "Пошаљи">
 <!ENTITY quoteButton.label "Цитирај">
 <!ENTITY addressButton.label "Контакти">
-<!ENTITY attachButton.label "Закачи">
 <!ENTITY spellingButton.label "Правопис">
 <!ENTITY saveButton.label "Сачувај">
 <!ENTITY printButton.label "Штампај">
@@ -230,7 +210,6 @@
 <!ENTITY sendlaterButton.tooltip "Пошаљи ову поруку касније">
 <!ENTITY quoteButton.tooltip "Цитирај претходну поруку">
 <!ENTITY addressButton.tooltip "Изаберите примаоца из именика">
-<!ENTITY attachButton.tooltip2 "Додај прилог">
 <!ENTITY spellingButton.tooltip "Провери правопис одабраног дела или целе поруке">
 <!ENTITY saveButton.tooltip "Сачувај ову поруку">
 <!ENTITY cutButton.tooltip              "Исеци">
@@ -245,9 +224,6 @@
 <!ENTITY extraRecipients.tooltip "Друге врсте поља за адресирање">
 <!ENTITY fromAddr2.label "Шаље">
 <!ENTITY fromAddr.accesskey "а">
-<!ENTITY toAddr2.label "За">
-<!ENTITY ccAddr2.label "Коп">
-<!ENTITY bccAddr2.label "сКоп">
 <!ENTITY replyAddr2.label "Одговори на">
 <!ENTITY newsgroupsAddr2.label "Интересна група">
 <!ENTITY followupAddr2.label "Настави на">
@@ -306,8 +282,6 @@
 <!ENTITY removeAllAttachments.accesskey "к">
 <!ENTITY selectAll.label "Одабери све">
 <!ENTITY selectAll.accesskey "в">
-<!ENTITY attachFile.label "Закачи датотеке…">
-<!ENTITY attachFile.accesskey "д">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Претвори у…">

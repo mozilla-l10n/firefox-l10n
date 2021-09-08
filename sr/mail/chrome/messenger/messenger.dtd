@@ -89,10 +89,6 @@
 <!ENTITY printCmd.label "Одштампај…">
 <!ENTITY printCmd.accesskey "п">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Преглед пре штампе">
-<!ENTITY printPreviewCmd.accesskey "г">
-<!ENTITY printSetupCmd.label "Подешавање странице…">
-<!ENTITY printSetupCmd.accesskey "ц">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Обриши поруку">
@@ -172,8 +168,6 @@
 <!ENTITY recentFolders.accesskey "к">
 <!ENTITY compactVersion.label "Компактни преглед">
 <!ENTITY compactVersion.accesskey "К">
-<!ENTITY folderPaneBar.label "Трака са алаткама окна фасцикле">
-<!ENTITY folderPaneBar.accesskey "Ф">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Сортирај по">
@@ -468,12 +462,6 @@
 <!ENTITY addressBookCmd.label "Именик">
 <!ENTITY addressBookCmd.accesskey "И">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Додаци">
-<!ENTITY addons.accesskey "Д">
-<!ENTITY addonPrefs.label "Поставке додатка">
-<!ENTITY addonPrefs.accesskey "П">
-<!ENTITY addonPrefsUnix.label "Поставке додатка">
-<!ENTITY addonPrefsUnix.accesskey "П">
 <!ENTITY addonNoPrefs.label "Поставке додатка нису пронађене.">
 <!ENTITY activitymanager.label "Управник активностима">
 <!ENTITY activitymanager.accesskey "в">
@@ -520,8 +508,6 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Поправљај грешке додатака">
 <!ENTITY debugAddonsCmd.accesskey "г">
-<!ENTITY tabsDebugCmd.label "Поправљач грешака кадрова садржаја">
-<!ENTITY tabsDebugCmd.accesskey "г">
 <!ENTITY errorConsoleCmd.label "Конзола са грешкама">
 <!ENTITY errorConsoleCmd.accesskey "г">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -545,15 +531,11 @@
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Проследи">
 <!ENTITY deleteItem.title "Обриши">
-<!ENTITY deleteButton.label "Обриши">
-<!ENTITY undeleteButton.label "Опозови брисање">
 <!ENTITY markButton.label "Обележи">
 <!ENTITY printButton.label "Одштампај">
 <!ENTITY stopButton.label "Заустави">
 <!ENTITY throbberItem.title "Показивач активности">
 <!ENTITY junkItem.title "Непожељно">
-<!ENTITY junkButton.label "Непожељно">
-<!ENTITY notJunkButton.label "Није непожељно">
 <!ENTITY addressBookButton.label "Именик">
 <!ENTITY chatButton.label "Ћаскај">
 <!ENTITY glodaSearch.title "Глобална претрага">
@@ -585,19 +567,14 @@
 <!ENTITY previousMsgButton.tooltip "Иди на претходну поруку">
 <!ENTITY goForwardButton.tooltip "Иди напред за једну поруку">
 <!ENTITY goBackButton.tooltip "Иди назад за једну поруку">
-<!ENTITY deleteButton.tooltip "Обриши изабрану поруку или фасциклу">
-<!ENTITY undeleteButton.tooltip "Опозови брисање изабране поруке">
 <!ENTITY markButton.tooltip "Обележи поруке">
 <!ENTITY printButton.tooltip "Одштампај ову поруку">
 <!ENTITY stopButton.tooltip "Заустави тренутни пренос">
-<!ENTITY junkButton.tooltip "Обележи изабране поруке као непожељне">
-<!ENTITY notJunkButton.tooltip "Уклони обележје непожељне поште са изабраних порука">
 <!ENTITY addressBookButton.tooltip "Иди у именик">
 <!ENTITY chatButton.tooltip "Прикажи језичак ћаскања">
 <!ENTITY tagButton.tooltip "Означи поруке">
 <!ENTITY compactButton.tooltip "Уклони обрисане поруке из изабране фасцикле">
 <!ENTITY appmenuButton1.tooltip "Прикажи мени &brandShortName;-а">
-<!ENTITY addonsButton.tooltip "Управљајте вашим додацима">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Проследи као текст унутар друге поруке">

@@ -113,45 +113,6 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Кодни распоред за застареле веб-странице
-fonts-languages-fallback-desc = Овај кодни распоред се користи за веб-странице које нису навели кодирање.
-
-fonts-languages-fallback-label = Резервни кодни распоред
-    .accesskey = Р
-
-fonts-languages-fallback-name-auto =
-    .label = Подразумевано за овај локал
-fonts-languages-fallback-name-arabic =
-    .label = арапски
-fonts-languages-fallback-name-baltic =
-    .label = балтички
-fonts-languages-fallback-name-ceiso =
-    .label = централноевропски, ISO
-fonts-languages-fallback-name-cewindows =
-    .label = централноевропски, Microsoft
-fonts-languages-fallback-name-simplified =
-    .label = кинески упрошћени
-fonts-languages-fallback-name-traditional =
-    .label = традиционални кинески
-fonts-languages-fallback-name-cyrillic =
-    .label = ћирилица
-fonts-languages-fallback-name-greek =
-    .label = грчки
-fonts-languages-fallback-name-hebrew =
-    .label = хебрејски
-fonts-languages-fallback-name-japanese =
-    .label = јапански
-fonts-languages-fallback-name-korean =
-    .label = корејски
-fonts-languages-fallback-name-thai =
-    .label = тајландски
-fonts-languages-fallback-name-turkish =
-    .label = турски
-fonts-languages-fallback-name-vietnamese =
-    .label = вијетнамски
-fonts-languages-fallback-name-other =
-    .label = други (са западноевропским)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

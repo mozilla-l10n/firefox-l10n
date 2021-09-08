@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = { -brand-short-name } поставке
 
 open-addons-sidebar-button = Додаци и теме
+

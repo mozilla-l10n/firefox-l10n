@@ -5,10 +5,6 @@
 
 ## View Menu
 
-menu-view-charset =
-    .label = Кодирање текста
-    .accesskey = К
-
 ## Tools Menu
 
 # Since v89 we dropped the platforms distinction between Options or Preferences
@@ -30,4 +26,6 @@ menu-addons-and-themes =
 ## View
 
 ## View / Layout
+
+## File
 

@@ -11,12 +11,6 @@
 <!ENTITY helpMenuWin.accesskey "П">
 <!ENTITY aboutProduct2.label "О програму &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "О">
-<!ENTITY helpTroubleshootingInfo.label     "Подаци о решавању проблема">
-<!ENTITY helpTroubleshootingInfo.accesskey "р">
-<!ENTITY helpSafeMode.label     "Поново покрени са искљученим додацима…">
-<!ENTITY helpSafeMode.accesskey "к">
-<!ENTITY helpSafeMode.stop.label     "Поново покрените с омогућеним додацима">
-<!ENTITY helpSafeMode.stop.accesskey "Р">
 <!ENTITY productHelp.label "&brandShortName; помоћ">
 <!ENTITY productHelp.accesskey "П">
 <!ENTITY productHelp.commandkey "VK_F1">

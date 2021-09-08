@@ -46,14 +46,6 @@ permissions-remove-all =
     .label = Уклони све
     .accesskey = с
 
-permissions-button-cancel =
-    .label = Откажи
-    .accesskey = О
-
-permissions-button-ok =
-    .label = Сачувај
-    .accesskey = С
-
 permission-dialog =
     .buttonlabelaccept = Сачувај
     .buttonaccesskeyaccept = С

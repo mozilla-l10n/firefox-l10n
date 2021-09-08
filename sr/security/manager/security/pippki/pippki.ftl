@@ -6,9 +6,6 @@ password-quality-meter = Ниво квалитета лозинке
 
 ## Change Password dialog
 
-change-password-window =
-    .title = Промена главне лозинке
-
 change-device-password-window =
     .title = Промени лозинку
 
@@ -20,10 +17,6 @@ change-password-new = Нова лозинка:
 change-password-reenter = Нова лозинка (још једном):
 
 ## Reset Password dialog
-
-reset-password-window =
-    .title = Ресетуј главну лозинку
-    .style = width: 40em
 
 pippki-failed-pw-change = Није могуће променити лозинку.
 pippki-incorrect-pw = Нисте унели тачну тренутну лозинку. Покушајте поново.
@@ -42,7 +35,6 @@ reset-primary-password-window =
     .style = width: 40em
 reset-password-button-label =
     .label = Ресетуј
-reset-password-text = Ако ресетујете главну лозинку, све сачуване лозинке за интернет и е-пошту, садржаји формулара, лични сертификати и кључеви биће "изгубљени". Да ли заиста желите ресетовати своју главну лозинку?
 
 reset-primary-password-text = Ако ресетујете главну лозинку, изгубиће се све сачуване лозинке са веб страница и е-поште, подаци образаца, лични сертификати и кључеви. Да ли и даље желите да ресетујете главну лозинку?
 

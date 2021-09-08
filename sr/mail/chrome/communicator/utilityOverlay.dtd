@@ -17,10 +17,6 @@
 <!ENTITY redoCmd.accesskey          "о">
 <!ENTITY deleteCmd.label          "Обриши">
 <!ENTITY deleteCmd.accesskey        "б">
-<!ENTITY preferencesCmd2.label "Опције">
-<!ENTITY preferencesCmd2.accesskey "Ц">
-<!ENTITY preferencesCmdUnix.label       "Поставке">
-<!ENTITY preferencesCmdUnix.accesskey     "с">
 
 <!ENTITY customizeCmd.label "Прилагоди">
 <!ENTITY customizeCmd.accesskey "д">
