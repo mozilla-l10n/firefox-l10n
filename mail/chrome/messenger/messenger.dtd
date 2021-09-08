@@ -443,7 +443,7 @@
 <!ENTITY openMessageWindowCmd.label "Abrir mensaje">
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openInConversationCmd.label "Abrir en Conversación">
+<!ENTITY openInConversationCmd.label "Abrir en conversación">
 <!ENTITY openInConversationCmd.accesskey "s">
 <!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Adjuntos">

@@ -19,7 +19,7 @@
 
 <!ENTITY accountAdvancedTitle.label   "Opciones avanzadas">
 <!ENTITY accountAdvancedInfo.label    "Es libre de saltearse este paso si quiere.">
-<!ENTITY accountAdvanced.newMailNotification.label   "Notify on new Mail">
+<!ENTITY accountAdvanced.newMailNotification.label   "Notificar correo nuevo">
 <!ENTITY accountAliasGroupbox.caption "Local Alias">
 <!ENTITY accountAliasField.label      "Alias:">
 <!ENTITY accountAliasInfo.label       "This will only be displayed in your conversations when you talk, remote contacts won't see it.">
