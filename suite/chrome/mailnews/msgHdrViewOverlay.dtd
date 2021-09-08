@@ -21,7 +21,7 @@
 <!ENTITY referencesField.label "Αναφορές: ">
 <!ENTITY messageIdField.label "ID-μηνύματος:">
 <!ENTITY inReplyToField.label "Σε-απάντηση-σε:">
-<!ENTITY originalWebsite.label "Ιστοσελίδα: ">
+<!ENTITY originalWebsite.label "Ιστότοπος: ">
 
 <!ENTITY editMessage.label                 "Επεξεργασία προσχεδίου…">
 <!ENTITY editMessage.accesskey             "π">
