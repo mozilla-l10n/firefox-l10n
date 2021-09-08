@@ -161,7 +161,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY removeButton.tooltip                           "Eliminar la libreta de direcciones seleccionada">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "El nombre o el correo electrónico contienen:">
+<!ENTITY SearchNameOrEmail.label                        "Nombre o correo electrónico">
 <!ENTITY SearchNameOrEmail.accesskey                    "n">
 <!ENTITY advancedButton.tooltip                         "Búsqueda avanzada de direcciones">
 <!ENTITY quickSearchCmd.key                             "k">
