@@ -39,10 +39,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "Letha incwadi yeemphande ngaphakathi">
-
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
-<!ENTITY fieldMapImport.recordNumber "Letha imininingwane itlolwe: ">
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "Sebenzisa Iya Phezulu no Iya Phasi ukufananisa iindawo zeencwadi zamakheli ezingesinceleni uyise kumininingwane elungileko ukobana kulethwe ngaphakathi engakwesokudla. Ungaqalisisi izinto ongafuni ukuletha ngaphakathi.">

@@ -36,10 +36,6 @@
 <!ENTITY printCmd.label "Gadangisa...">
 <!ENTITY printCmd.accesskey "G">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Ukubona Ukugadangisa Ngaphambili">
-<!ENTITY printPreviewCmd.accesskey "u">
-<!ENTITY printSetupCmd.label "Izakhiwo Zamakhasi...">
-<!ENTITY printSetupCmd.accesskey "i">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Cima Umlayezo">
@@ -322,8 +318,6 @@
 <!ENTITY messengerCmd.accesskey "i">
 <!ENTITY addressBookCmd.label "Incwadi Yamakheli">
 <!ENTITY addressBookCmd.accesskey "i">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "d">
 <!ENTITY filtersApply.label "Sebenzisa Iinsefo kumvilobhu">
 <!ENTITY filtersApply.accesskey "S">
 <!-- Help Menu -->
@@ -347,13 +341,10 @@
 <!ENTITY fileButton.label "Ifayili">
 <!ENTITY nextButton.label "Okulandelako">
 <!ENTITY previousButton.label "Okudlulileko">
-<!ENTITY deleteButton.label "Cima">
 <!ENTITY markButton.label "Tshwaya">
 <!ENTITY printButton.label "Gadangisa">
 <!ENTITY stopButton.label "Jama">
 <!ENTITY throbberItem.title "Ikomba Yomsebenzi">
-<!ENTITY junkButton.label "Iinzibi">
-<!ENTITY notJunkButton.label "Okungalahlwa">
 <!ENTITY addressBookButton.label "Incwadi Yamakheli">
 <!ENTITY searchItem.title "Quick Search">
 <!ENTITY mailViewsToolbarItem.title "Mail Views">
@@ -373,12 +364,9 @@
 <!ENTITY previousButton.tooltip "Buyela kumlayezo ongemva ongakafundwa">
 <!ENTITY goForwardButton.tooltip "Go forward one message">
 <!ENTITY goBackButton.tooltip "Go back one message">
-<!ENTITY deleteButton.tooltip "Sula umlayezo okhethiweko namkha imvilobhu">
 <!ENTITY markButton.tooltip "Tshwaya imilayezo">
 <!ENTITY printButton.tooltip "Gadangisa umlayezo lo">
 <!ENTITY stopButton.tooltip "Jamisa idluliso lanje">
-<!ENTITY junkButton.tooltip "Tshwaya imilayezo ekhethiweko njengelahlwako">
-<!ENTITY notJunkButton.tooltip "Tshwaya imilayeso ekhethiweko njengengakalahlwa">
 <!ENTITY addressBookButton.tooltip "Iya encwadini yamakheli">
 <!ENTITY tagButton.tooltip "Tag messages">
 <!-- Tags Menu Popup -->

@@ -11,13 +11,9 @@
 <!ENTITY newMenu.label "Elitjha">
 <!ENTITY newMenu.accesskey "E">
 <!ENTITY newMessage.label "Umlayezo">
-<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "U">
 <!ENTITY attachMenu.label "Namathisela">
 <!ENTITY attachMenu.accesskey "n">
-<!ENTITY attachFileCmd.label "Amafayili...">
-<!ENTITY attachFileCmd.accesskey "A">
 <!ENTITY attachPageCmd.label "Ikhasi leWeb...">
 <!ENTITY attachPageCmd.accesskey "I">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -43,8 +39,6 @@
 <!ENTITY sendLaterCmd.label "Thumela Emva Kwesikhathi">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "T">
-<!ENTITY printSetupCmd.label "Isakhiwo Sekhasi...">
-<!ENTITY printSetupCmd.accesskey "i">
 <!ENTITY printCmd.label "Gadangisa...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "G">
@@ -140,8 +134,6 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Incwadi Yamakheli">
 <!ENTITY addressBookCmd.accesskey "i">
-<!ENTITY preferencesCmdUnix.label "Okukhethako">
-<!ENTITY preferencesCmdUnix.accesskey "o">
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.key "m">
@@ -156,7 +148,6 @@
 <!ENTITY sendButton.label "Thumela">
 <!ENTITY quoteButton.label "Dzubhula">
 <!ENTITY addressButton.label "Ithintano">
-<!ENTITY attachButton.label "Namathisela">
 <!ENTITY spellingButton.label "Ipeledo">
 <!ENTITY saveButton.label "Bulunga">
 <!-- Mail Toolbar Tooltips -->
@@ -218,8 +209,6 @@
 <!ENTITY delete.accesskey "S">
 <!ENTITY selectAll.label "Khetha Koke">
 <!ENTITY selectAll.accesskey "K">
-<!ENTITY attachFile.label "Namathisela Amafayili...">
-<!ENTITY attachFile.accesskey "N">
 <!ENTITY attachPage.label "Namathisela ikhasi leWebhu...">
 <!ENTITY attachPage.accesskey "N">
 <!-- Title for the address picker panel -->

@@ -5,17 +5,6 @@
 
 ## Back
 
-main-context-menu-back =
-    .tooltiptext = Buyela emva ikhasi linye
-    .aria-label = Emva
-    .accesskey = E
-
-navbar-tooltip-back =
-    .value = { main-context-menu-back.tooltiptext }
-
-toolbar-button-back =
-    .label = { main-context-menu-back.aria-label }
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
@@ -35,17 +24,6 @@ toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
-
-main-context-menu-forward =
-    .tooltiptext = Iya phambili ikhasi linye
-    .aria-label = Phambili
-    .accesskey = P
-
-navbar-tooltip-forward =
-    .value = { main-context-menu-forward.tooltiptext }
-
-toolbar-button-forward =
-    .label = { main-context-menu-forward.aria-label }
 
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
@@ -106,9 +84,6 @@ main-context-menu-page-save =
     .label = Yonga ikhasi njenge...
     .accesskey = P
 
-toolbar-button-page-save =
-    .label = { main-context-menu-page-save.label }
-
 ## Simple menu items
 
 main-context-menu-open-link-new-tab =
@@ -136,10 +111,6 @@ main-context-menu-copy-email =
     .label = Kopa isiphande se-Imeyili
     .accesskey = I
 
-main-context-menu-copy-link =
-    .label = Kopa indawo yehlanganiso
-    .accesskey = K
-
 ## Media (video/audio) controls
 ##
 ## The accesskey for "Play" and "Pause" are the
@@ -156,29 +127,13 @@ main-context-menu-copy-link =
 
 ##
 
-main-context-menu-image-view =
-    .label = Bona isithombe
-    .accesskey = I
-
 main-context-menu-image-copy =
     .label = Kopa isithombe
-    .accesskey = k
-
-main-context-menu-image-copy-location =
-    .label = Kopa indawo yesithombe
     .accesskey = k
 
 main-context-menu-image-save-as =
     .label = Yonga isithombe njenge...
     .accesskey = y
-
-main-context-menu-image-set-as-background =
-    .label = Yakha njengemuva le-Desktop...
-    .accesskey = Y
-
-main-context-menu-view-background-image =
-    .label = Bona ingemuva lesithombe
-    .accesskey = b
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
@@ -229,10 +184,6 @@ main-context-menu-view-selection-source =
 
 main-context-menu-view-page-source =
     .label = Bona ikhasi lomthombo
-    .accesskey = B
-
-main-context-menu-view-page-info =
-    .label = Bona ikhasi lemininingwana
     .accesskey = B
 
 main-context-menu-bidi-switch-text =
