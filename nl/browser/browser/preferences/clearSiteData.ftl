@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = Vereist opnieuw laden van afbeeldingen en gegevens door websites
 
-clear-site-data-cancel =
-    .label = Annuleren
-    .accesskey = A
-
-clear-site-data-clear =
-    .label = Wissen
-    .accesskey = s
-
 clear-site-data-dialog =
     .buttonlabelaccept = Wissen
     .buttonaccesskeyaccept = s

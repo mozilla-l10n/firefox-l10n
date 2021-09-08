@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = Schreefloos
 
-font-size-label =
-    .value = Grootte:
-    .accesskey = G
-
 font-size-proportional-label =
     .value = Grootte:
     .accesskey = e

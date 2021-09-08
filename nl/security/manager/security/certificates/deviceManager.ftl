@@ -116,8 +116,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Serienummer
 
-fips-nonempty-password-required = FIPS-modus vereist dat u een hoofdwachtwoord hebt ingesteld voor elk beveiligingsapparaat. Stel het wachtwoord in voordat u FIPS-modus probeert in te schakelen.
-
 fips-nonempty-primary-password-required = FIPS-modus vereist dat u een hoofdwachtwoord hebt ingesteld voor elk beveiligingsapparaat. Stel het wachtwoord in voordat u FIPS-modus probeert in te schakelen.
 unable-to-toggle-fips = Kan de FIPS-modus voor het beveiligingsapparaat niet wijzigen. Het wordt aangeraden deze toepassing af te sluiten en te herstarten.
 load-pk11-module-file-picker-title = Kies een PKCS#11-apparaatstuurprogramma om te laden

@@ -9,8 +9,6 @@ autodetect-online-label =
     .label = Automatisch gedetecteerde onlinetoestand volgen
     .accesskey = A
 
-startup-label = Handmatige toestand bij het opstarten:
-
 offline-preference-startup-label = Handmatige toestand bij het opstarten:
 
 status-radio-remember =

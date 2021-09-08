@@ -8,9 +8,6 @@ otr-finger =
 
 finger-intro = OTR-vingerafdrukken van eerdere end-to-end-versleutelde gesprekken.
 
-finger-screenName =
-    .label = Contact
-
 finger-screen-name =
     .label = Contact
 finger-verified =

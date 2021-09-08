@@ -20,6 +20,7 @@ about-addressbook-toolbar-new-list =
 ## Books
 
 all-address-books = Alle adresboeken
+
 about-addressbook-books-context-properties =
     .label = Eigenschappen
 about-addressbook-books-context-synchronize =
@@ -30,6 +31,7 @@ about-addressbook-books-context-delete =
     .label = Verwijderen
 about-addressbook-books-context-remove =
     .label = Verwijderen
+
 about-addressbook-confirm-delete-book-title = Adresboek verwijderen
 # Variables:
 # $name (String) - Name of the address book to be deleted.
@@ -47,14 +49,17 @@ about-addressbook-search =
     .placeholder = { $name } doorzoeken
 about-addressbook-search-all =
     .placeholder = Alle adresboeken doorzoeken
+
 about-addressbook-sort-button =
     .title = Lijstvolgorde wijzigen
+
 about-addressbook-name-format-display =
     .label = Weergavenaam
 about-addressbook-name-format-firstlast =
     .label = Voornaam Achternaam
 about-addressbook-name-format-lastfirst =
     .label = Achternaam, Voornaam
+
 about-addressbook-sort-name-ascending =
     .label = Sorteren op naam (A > Z)
 about-addressbook-sort-name-descending =
@@ -63,8 +68,10 @@ about-addressbook-sort-email-ascending =
     .label = Sorteren op e-mailadres (A > Z)
 about-addressbook-sort-email-descending =
     .label = Sorteren op e-mailadres (Z > A)
+
 about-addressbook-cards-context-write =
     .label = Opstellen
+
 about-addressbook-confirm-delete-mixed-title = Contacten en lijsten verwijderen
 # Variables:
 # $count (Number) - The number of contacts and lists to be deleted. Always greater than 1.
@@ -121,6 +128,7 @@ about-addressbook-confirm-delete-contacts =
 about-addressbook-begin-edit-contact-button = Bewerken
 about-addressbook-cancel-edit-contact-button = Annuleren
 about-addressbook-save-edit-contact-button = Opslaan
+
 about-addressbook-details-email-addresses-header = E-mailadressen
 about-addressbook-details-phone-numbers-header = Telefoonnummers
 about-addressbook-details-home-address-header = Adres

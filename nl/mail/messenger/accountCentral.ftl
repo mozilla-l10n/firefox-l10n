@@ -49,9 +49,6 @@ import-label = Importeren
 
 about-paragraph = Thunderbird is de leidende opensource, platformonafhankelijke e-mail- en agendaclient, gratis voor zakelijk en persoonlijk gebruik. We willen dat het veilig blijft en zelfs beter wordt. Met een donatie kunnen we ontwikkelaars inhuren, voor infrastructuur betalen en blijven verbeteren.
 
-about-paragraph-2 = <b>Thunderbird wordt gefinancierd door gebruikers als u! Als u van Thunderbird houdt, overweeg dan een donatie.</b> De beste manier om ervoor te zorgen dat Thunderbird beschikbaar blijft, is door
-about-donation = een donatie te doen
-
 about-paragraph-consider-donation = <b>Thunderbird wordt gefinancierd door gebruikers zoals u! Als Thunderbird u bevalt, overweeg dan een donatie.</b> De beste manier om ervoor te zorgen dat Thunderbird beschikbaar blijft, is <a data-l10n-name="donation-link">een donatie doen.</a>
 
 explore-link = Functies verkennen

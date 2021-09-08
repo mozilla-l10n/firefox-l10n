@@ -35,9 +35,6 @@ connection-proxy-http = HTTP-proxy
     .accesskey = x
 connection-proxy-http-port = Poort
     .accesskey = P
-connection-proxy-http-sharing =
-    .label = Deze proxy ook voor FTP en HTTPS gebruiken
-    .accesskey = k
 
 connection-proxy-https-sharing =
     .label = Deze proxy ook voor HTTPS gebruiken
@@ -47,11 +44,6 @@ connection-proxy-https = HTTPS-proxy
     .accesskey = H
 connection-proxy-ssl-port = Poort
     .accesskey = o
-
-connection-proxy-ftp = FTP-proxy
-    .accesskey = F
-connection-proxy-ftp-port = Poort
-    .accesskey = r
 
 connection-proxy-socks = SOCKS-host
     .accesskey = C
@@ -68,9 +60,6 @@ connection-proxy-noproxy = Geen proxy voor
     .accesskey = G
 
 connection-proxy-noproxy-desc = Voorbeeld: .mozilla.org, .net.nz, 192.168.1.0/24
-
-# Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Verbindingen met localhost, 127.0.0.1 en ::1 gaan nooit via een proxy.
 
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Verbindingen met localhost, 127.0.0.1/8 en ::1 gaan nooit via een proxy.

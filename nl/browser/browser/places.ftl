@@ -5,9 +5,6 @@
 places-open =
     .label = Openen
     .accesskey = O
-places-open-tab =
-    .label = Openen in een nieuw tabblad
-    .accesskey = t
 places-open-in-tab =
     .label = Openen in nieuw tabblad
     .accesskey = w
@@ -17,25 +14,6 @@ places-open-all-bookmarks =
 places-open-all-in-tabs =
     .label = Alle openen in tabbladen
     .accesskey = t
-places-open-window =
-    .label = Openen in een nieuw venster
-    .accesskey = v
-places-open-private-window =
-    .label = Openen in een nieuw privévenster
-    .accesskey = r
-
-places-new-bookmark =
-    .label = Nieuwe bladwijzer…
-    .accesskey = b
-places-new-folder-contextmenu =
-    .label = Nieuwe map…
-    .accesskey = m
-places-new-folder =
-    .label = Nieuwe map…
-    .accesskey = m
-places-new-separator =
-    .label = Nieuw scheidingsteken
-    .accesskey = c
 
 places-open-in-window =
     .label = Openen in nieuw venster
@@ -87,9 +65,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Sorteren op naam
     .accesskey = S
-places-properties =
-    .label = Eigenschappen
-    .accesskey = E
 
 # places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
 places-edit-bookmark =
@@ -135,3 +110,4 @@ places-remove-bookmark =
 places-manage-bookmarks =
     .label = Bladwijzers beheren
     .accesskey = b
+

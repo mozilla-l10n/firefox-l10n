@@ -15,12 +15,6 @@ view-fingerprint-button =
 otr-settings-title = OTR-instellingen
 otr-log =
     .label = OTR-versleutelde berichten in gesprekslogboeken opnemen
-otr-requireEncryption =
-    .label = End-to-end-versleuteling voor een-op-een-gesprekken vereisen
-otr-verifyNudge =
-    .label = Mij altijd eraan herinneren een ongeverifieerd contact te verifiëren
-
-otr-notYetAvailable = nog niet beschikbaar
 
 otr-require-encryption =
     .label = End-to-end-versleuteling voor een-op-een-gesprekken vereisen

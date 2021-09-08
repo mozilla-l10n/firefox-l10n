@@ -20,14 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Alle tabbladen selecteren
     .accesskey = b
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] Tabblad sluiten ongedaan maken
-            [one] Tabblad sluiten ongedaan maken
-           *[other] Tabbladen sluiten ongedaan maken
-        }
-    .accesskey = o
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -58,9 +50,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Vastmaken aan overloopmenu
     .accesskey = V
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = Automatisch verbergen in werkbalk
-    .accesskey = u
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Knop verbergen indien leeg
     .accesskey = v

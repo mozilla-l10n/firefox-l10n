@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Een schermafbeelding maken
-
-screenshots-my-shots-button = Mijn afbeeldingen
-
 screenshot-toolbarbutton =
     .label = Schermafbeelding
     .tooltiptext = Een schermafbeelding maken
@@ -40,8 +36,6 @@ screenshots-login-error-details = Uw afbeelding kon niet worden opgeslagen, omda
 
 screenshots-unshootable-page-error-title = Een schermafbeelding van deze pagina is niet mogelijk.
 screenshots-unshootable-page-error-details = Dit is geen standaardwebpagina, dus u kunt er geen schermafbeelding van maken.
-
-screenshots-self-screenshot-error-title = U kunt geen afbeelding van een { -screenshots-brand-name }-pagina maken!
 
 screenshots-empty-selection-error-title = Uw selectie is te klein
 

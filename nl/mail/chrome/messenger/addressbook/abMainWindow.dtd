@@ -31,12 +31,6 @@
 <!ENTITY closeCmd.label                                 "Sluiten">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "S">
-<!ENTITY printSetupCmd.label                            "Pagina-instellingen…">
-<!ENTITY printSetupCmd.accesskey                        "P">
-<!ENTITY printPreviewContactCmd.label                   "Afdrukvoorbeeld van contact">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "Afdrukvoorbeeld van adresboek">
-<!ENTITY printPreviewAddressBook.accesskey              "b">
 <!ENTITY printContactCmd.label                          "Contact afdrukken…">
 <!ENTITY printContactCmd.accesskey                      "d">
 <!ENTITY printContactCmd.key                            "P">
@@ -111,10 +105,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exporteren…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                          "Opties">
-<!ENTITY preferencesCmd2.accesskey                      "O">
-<!ENTITY preferencesCmdUnix.label                       "Voorkeuren">
-<!ENTITY preferencesCmdUnix.accesskey                   "r">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Nieuw contact">
