@@ -129,10 +129,6 @@ openpgp-key-send-key =
     .label = 用郵件寄出公鑰
     .accesskey = S
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = 複製公鑰到剪貼簿
-    .accesskey = C
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -156,8 +152,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = 將金鑰匯出成檔案
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = 複製公鑰到剪貼簿
 
 openpgp-key-man-ctx-copy =
     .label = 複製
@@ -303,14 +297,6 @@ openpgp-description =
        *[other] Thunderbird 找到 { $count } 把 <b>{ $identity }</b> 的 OpenPGP 個人金鑰
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] 請選擇一把有效的金鑰以開啟 OpenPGP 通訊協定。
-       *[other] 您目前設定使用 ID 為 <b>{ $key }</b> 的金鑰
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = 您目前設定使用 ID 為 <b>{ $key }</b> 的金鑰
 
@@ -343,14 +329,8 @@ openpgp-radio-key-not-found = 找不到這把金鑰！若您想要使用這把�
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = 到期於: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = 金鑰將於 6 個月內到期
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = 過期於: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = 金鑰已過期
 
 openpgp-key-expires-within-6-months-icon =
     .title = 金鑰將於 6 個月內到期
@@ -626,7 +606,6 @@ msg-compose-cannot-save-draft = 儲存草稿時發生錯誤
 msg-compose-partially-encrypted-short = 請小心洩露敏感資訊 - 這封郵件僅有部分加密
 quoted-printable-warn = 您選擇使用「quoted-printable」編碼方式來寄出郵件，可能會造成訊息的解密或驗證不正確。您要關閉使用「quoted-printable」編碼方式嗎？
 minimal-line-wrapping = 您將換行長度設為 { $width } 字元。若需正確進行加密或簽署，這個長度必須至少為 68。您要現在將換行長度設為 68 字元嗎？
-sending-hidden-rcpt = 傳送加密訊息時，無法使用密件副本（BCC）收件者。若要傳送這封加密訊息，請移除密件副本收件者，或將他們移到副本（CC）欄位。
 sending-news = 加密傳送操作中斷。因為有新聞群組收件者，無法加密此訊息。請解除加密再重新寄出。
 send-to-news-warning = 警告: 您即將傳送加密的郵件到新聞群組中。由於只有在群組中的所有成員都能夠解密訊息時才能閱讀（也就是說，必須使用群組中的所有成員的金鑰加密訊息），否則這個動作並不合理。請只在您真的知道現在在做什麼的時候才寄出這封信。確定要繼續嗎？
 save-attachment-header = 儲存解密附件
@@ -682,9 +661,6 @@ enig-info = OpenPGP 資訊
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = 重試 (&R)
 dlg-button-skip = 略過 (&S)
-
-# Strings used in enigmailCommon.js
-enig-error = OpenPGP 錯誤
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

@@ -7,9 +7,6 @@ third-party-section-title = { -brand-short-name } 當中的第三方模組清單
 
 third-party-intro = 此頁面顯示插入到您的 { -brand-short-name } 的第三方程式模組。任何未經 Microsoft 或 { -vendor-short-name } 簽署過的模組都會被視為第三方模組。
 
-third-party-header-module-list = 模組清單
-third-party-header-loading-events = 正在載入事件
-
 third-party-message-empty = 未偵測到任何第三方模組。
 third-party-message-no-duration = 未記錄
 

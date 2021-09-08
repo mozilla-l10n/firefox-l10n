@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = 附加元件管理員
-
 addons-page-title = 附加元件管理員
 
 search-header =
@@ -35,18 +32,6 @@ help-button = 附加元件支援
 sidebar-help-button-title =
     .title = 附加元件支援
 
-preferences =
-    { PLATFORM() ->
-        [windows] { -brand-short-name } 選項
-       *[other] { -brand-short-name } 偏好設定
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] { -brand-short-name } 選項
-           *[other] { -brand-short-name } 偏好設定
-        }
-
 addons-settings-button = { -brand-short-name } 選項
 sidebar-settings-button-title =
     .title = { -brand-short-name } 選項
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = 顯示所有擴充套件
-
-cmd-show-details =
-    .label = 顯示更多資訊
-    .accesskey = S
-
-cmd-find-updates =
-    .label = 尋找更新
-    .accesskey = F
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] 選項
-           *[other] 偏好設定
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] O
-           *[other] P
-        }
-
-cmd-enable-theme =
-    .label = 套用佈景主題
-    .accesskey = W
-
-cmd-disable-theme =
-    .label = 停用佈景主題
-    .accesskey = W
-
-cmd-install-addon =
-    .label = 安裝
-    .accesskey = I
-
-cmd-contribute =
-    .label = 贊助
-    .accesskey = C
-    .tooltiptext = 贊助這個元件的開發
 
 detail-version =
     .label = 版本
@@ -388,8 +336,6 @@ dictionary-disabled-heading = 停用
 
 locale-enabled-heading = 啟用
 locale-disabled-heading = 停用
-
-ask-to-activate-button = 啟用時詢問
 
 always-activate-button = 總是啟用
 never-activate-button = 永不啟用

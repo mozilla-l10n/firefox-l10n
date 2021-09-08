@@ -51,9 +51,6 @@ bookmark-selected-tabs =
 bookmark-tab =
     .label = 將分頁加入書籤
     .accesskey = B
-reopen-in-container =
-    .label = 使用容器開啟
-    .accesskey = e
 tab-context-open-in-new-container-tab =
     .label = 用新容器分頁開啟
     .accesskey = e
@@ -69,25 +66,6 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = 關閉多個分頁
     .accesskey = M
-tab-context-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] 復原已關閉分頁
-           *[other] 復原已關閉分頁
-        }
-    .accesskey = U
-close-tab =
-    .label = 關閉分頁
-    .accesskey = c
-close-tabs =
-    .label = 關閉分頁
-    .accesskey = S
-move-tabs =
-    .label = 移動分頁
-    .accesskey = v
-move-tab =
-    .label = 移動分頁
-    .accesskey = v
 tab-context-share-url =
     .label = 分享
     .accesskey = h
@@ -123,6 +101,7 @@ tab-context-move-tabs =
            *[other] 移動分頁
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

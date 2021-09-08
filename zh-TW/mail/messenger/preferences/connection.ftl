@@ -97,9 +97,6 @@ no-proxy-label =
 
 no-proxy-example = 範例: .mozilla.org, .net.tw, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = 與 localhost、127.0.0.1 與 ::1 的連線永遠不會經過代理伺服器。
-
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = 與 localhost、127.0.0.1/8 與 ::1 的連線永遠不會經過代理伺服器。
 

@@ -35,10 +35,6 @@ translation-sites-button-remove-all =
     .label = 移除全部網站
     .accesskey = i
 
-translation-button-close =
-    .label = 關閉
-    .accesskey = C
-
 translation-dialog =
     .buttonlabelaccept = 關閉
     .buttonaccesskeyaccept = C

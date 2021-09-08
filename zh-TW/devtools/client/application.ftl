@@ -28,16 +28,6 @@ serviceworker-worker-unregister = 取消註冊
 serviceworker-worker-debug = 除錯
     .title = 僅能對運作中的 service worker 進行除錯
 
-# Text for the debug link displayed for an already started Service Worker, when we
-# are in multi e10s mode, which effectively disables this link.
-serviceworker-worker-debug-forbidden = 除錯
-    .title = 僅能於停用 multi e10s 時，才能對 service worker 除錯
-
-# Text for the start link displayed for a registered but not running Service Worker.
-# Clicking on the link will attempt to start the service worker.
-serviceworker-worker-start2 = 開始
-    .title = 僅能於停用 multi e10s 時，才能啟動 service worker
-
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = 檢測
@@ -50,12 +40,6 @@ serviceworker-worker-start3 = 開始
 # display the last update time of the service worker script.
 serviceworker-worker-updated = 更新於 <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
-# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
-serviceworker-worker-source = 來源
-
-# Text displayed next to the current status of the service worker.
-serviceworker-worker-status = 狀態
-
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
@@ -65,26 +49,6 @@ serviceworker-worker-status-running = 執行中
 
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = 停止
-
-# Text displayed when no service workers are visible for the current page. Clicking on the
-# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = 您需要先註冊 Service Worker 才可在此檢測。<a>了解更多</a>
-
-# Text displayed when there are no Service Workers to display for the current page,
-# introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = 若目前頁面中應有 Service Worker，以下是您可嘗試的方式
-
-# Suggestion to check for errors in the Console to investigate why a service worker is not
-# registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = 在主控台查看是否有錯誤發生。<a>開啟主控台</a>
-
-# Suggestion to use the debugger to investigate why a service worker is not registered.
-# Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = 註冊您的 Service Worker，查看是否有例外發生。<a>開啟除錯器</a>
-
-# Suggestion to go to about:debugging in order to see Service Workers for all domains.
-# Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = 檢測來自其他網域的 Service Worker。<a>開啟 about:debugging</a>
 
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = 找不到 service worker
@@ -103,10 +67,6 @@ serviceworker-empty-suggestions-aboutdebugging2 = 檢視來自其他網域的 se
 
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = 應用程式 Manifest
-
-# Header for the Manifest page when there's no manifest to inspect
-# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = 您需要先加入 web app Manifest 才可在此檢測。<a>了解更多</a>
 
 # Header for the Manifest page when there's no manifest to inspect
 manifest-empty-intro2 = 未偵測到網頁應用程式的安裝資訊檔

@@ -97,9 +97,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = 原理是什麼
 
-turn-on-sync = 開啟 { -sync-brand-short-name }…
-    .title = 前往同步偏好設定
-
 monitor-title = 檢查是否發生資料外洩事件
 monitor-link = 原理是什麼
 monitor-header-content-no-account = 使用 { -monitor-brand-name } 檢查您是否處於已知的資料外洩事件之中，並在有新事件發生時收到通知。

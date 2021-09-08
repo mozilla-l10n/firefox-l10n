@@ -5,11 +5,6 @@
 containers-window-new =
     .title = 新增容器
     .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update =
-    .title = { $name } 容器偏好設定
-    .style = width: 45em
 
 # Variables
 #   $name (String) - Name of the container
@@ -45,10 +40,6 @@ containers-icon-label = 圖示
 containers-color-label = 色彩
     .accesskey = o
     .style = { -containers-labels-style }
-
-containers-button-done =
-    .label = 完成
-    .accesskey = D
 
 containers-dialog =
     .buttonlabelaccept = 完成

@@ -5,3 +5,4 @@
 open-preferences-sidebar-button = { -brand-short-name } 偏好設定
 
 open-addons-sidebar-button = 附加元件與佈景主題
+

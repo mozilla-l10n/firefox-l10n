@@ -57,8 +57,6 @@ printui-options = 選項
 printui-headers-footers-checkbox = 列印頁首與頁尾
 printui-backgrounds-checkbox = 列印背景
 
-printui-selection-checkbox = 只印選取範圍
-
 ## The "Format" section, select a version of the website to print. Radio
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".

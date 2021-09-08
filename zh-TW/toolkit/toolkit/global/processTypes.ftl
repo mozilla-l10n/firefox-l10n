@@ -9,8 +9,6 @@
 
 process-type-web = 網站內容
 
-process-type-browser = 主要
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = 有權限的關於頁面
