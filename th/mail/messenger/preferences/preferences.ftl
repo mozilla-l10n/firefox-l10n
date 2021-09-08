@@ -5,13 +5,6 @@
 close-button =
     .aria-label = ปิด
 
-preferences-title =
-    .title =
-        { PLATFORM() ->
-            [windows] ตัวเลือก
-           *[other] ค่ากำหนด
-        }
-
 category-list =
     .aria-label = หมวดหมู่
 
@@ -132,20 +125,9 @@ update-in-progress-ok-button = &ละทิ้ง
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
 
-addons-button = ส่วนขยายและชุดตกแต่ง
-
 account-button = การตั้งค่าบัญชี
 
 ## OS Authentication dialog
-
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = หากต้องการสร้างรหัสผ่านหลัก ให้ป้อนข้อมูลประจำตัวการเข้าสู่ระบบ Windows ของคุณ ซึ่งจะช่วยปกป้องความปลอดภัยให้กับบัญชีต่าง ๆ ของคุณ
-
-# This message can be seen by trying to add a Master Password.
-# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
-# and includes subtitle of "Enter password for the user "xxx" to allow this." These
-# notes are only valid for English. Please test in your locale.
-master-password-os-auth-dialog-message-macosx = สร้างรหัสผ่านหลัก
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = หากต้องการสร้างรหัสผ่านหลัก ให้ป้อนข้อมูลประจำตัวการเข้าสู่ระบบ Windows ของคุณ ซึ่งจะช่วยปกป้องความปลอดภัยให้กับบัญชีต่าง ๆ ของคุณ
@@ -220,10 +202,6 @@ animated-alert-label =
 customize-alert-label =
     .label = ปรับแต่ง…
     .accesskey = ป
-
-tray-icon-label =
-    .label = แสดงไอคอนถาด
-    .accesskey = ถ
 
 mail-system-sound-label =
     .label = เสียงระบบเริ่มต้นสำหรับจดหมายใหม่
@@ -413,9 +391,6 @@ smaller-size-item =
 quoted-text-color =
     .label = สี:
     .accesskey = ส
-
-search-input =
-    .placeholder = ค้นหา
 
 type-column-label =
     .label = ชนิดเนื้อหา
@@ -704,16 +679,6 @@ passwords-button =
     .label = รหัสผ่านที่บันทึกไว้…
     .accesskey = ร
 
-master-password-description = รหัสผ่านหลักจะปกป้องรหัสผ่านทั้งหมดของคุณ แต่คุณต้องป้อนเพียงวาระละหนึ่งครั้งเท่านั้น
-
-master-password-label =
-    .label = ใช้รหัสผ่านหลัก
-    .accesskey = ช
-
-master-password-button =
-    .label = เปลี่ยนรหัสผ่านหลัก…
-    .accesskey = เ
-
 
 primary-password-description = รหัสผ่านหลักจะปกป้องรหัสผ่านทั้งหมดของคุณ แต่คุณต้องป้อนเพียงวาระละหนึ่งครั้งเท่านั้น
 
@@ -894,26 +859,6 @@ no-preview-description = ชุดตกแต่งนี้ไม่ถูก�
 chat-variant-label =
     .value = รูปแบบอื่น:
     .accesskey = ป
-
-chat-header-label =
-    .label = แสดงส่วนหัว
-    .accesskey = ง
-
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] ค้นหาในตัวเลือก
-           *[other] ค้นหาในค่ากำหนด
-        }
 
 ## Preferences UI Search Results
 

@@ -51,14 +51,6 @@ clear-site-data-cache-empty =
 
 clear-site-data-cache-info = จะต้องให้เว็บไซต์โหลดภาพและข้อมูลใหม่
 
-clear-site-data-cancel =
-    .label = ยกเลิก
-    .accesskey = ย
-
-clear-site-data-clear =
-    .label = ล้าง
-    .accesskey = ล
-
 clear-site-data-dialog =
     .buttonlabelaccept = ล้าง
     .buttonaccesskeyaccept = ล

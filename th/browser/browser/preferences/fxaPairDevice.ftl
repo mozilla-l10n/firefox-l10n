@@ -6,10 +6,6 @@ fxa-pair-device-dialog =
     .title = เชื่อมต่ออุปกรณ์อื่น
     .style = width: 26em; min-height: 35em;
 
-fxa-qrcode-heading-phase1 = 1. ติดตั้ง <a data-l10n-name="connect-another-device">Firefox บนอุปกรณ์มือถือของคุณ</a>หากคุณยังไม่ได้ติดตั้ง
-
-fxa-qrcode-heading-phase2 = 2. จากนั้นลงชื่อเข้า { -sync-brand-short-name } หรือบน Android ให้สแกนโค้ดการจับคู่จากภายในการตั้งค่า { -sync-brand-short-name }
-
 fxa-qrcode-heading-step1 = 1. ติดตั้ง <a data-l10n-name="connect-another-device">Firefox บนอุปกรณ์มือถือของคุณ</a>หากคุณยังไม่ได้ติดตั้ง
 
 fxa-qrcode-heading-step2 = 2. เปิด Firefox บนอุปกรณ์มือถือของคุณ

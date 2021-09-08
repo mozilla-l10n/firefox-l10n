@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = ที่คั่นหน้า
+
 sidebar-menu-history =
     .label = ประวัติ
+
 sidebar-menu-synced-tabs =
     .label = แท็บที่ซิงค์
+
 sidebar-menu-close =
     .label = ปิดแถบข้าง
+
 sidebar-close-button =
     .tooltiptext = ปิดแถบข้าง

@@ -93,10 +93,6 @@ default-font-serif =
 default-font-sans-serif =
     .label = ไม่มีเชิง
 
-font-size-label =
-    .value = ขนาด:
-    .accesskey = e
-
 font-size-monospace-label =
     .value = ขนาด:
     .accesskey = i

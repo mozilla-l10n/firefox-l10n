@@ -19,9 +19,6 @@ auth-your-fp-value = ลายนิ้วมือสำหรับคุณ {
 auth-their-fp-value = ลายนิ้วมือสำหรับ { $their_name }:
 
 auth-help = การยืนยันตัวตนของผู้ติดต่อช่วยให้มั่นใจได้ว่าการสนทนานั้นเป็นส่วนตัวอย่างแท้จริง ทำให้บุคคลที่สามแอบฟังหรือจัดการกับการสนทนาได้ยากขึ้น
-auth-helpTitle = ความช่วยเหลือในการตรวจสอบ
-
-auth-questionReceived = นี่คือคำถามที่ผู้ติดต่อของคุณถาม:
 
 auth-yes =
     .label = ใช่
@@ -30,19 +27,6 @@ auth-no =
     .label = ไม่
 
 auth-verified = ฉันได้ยืนยันแล้วว่านี่เป็นลายนิ้วมือที่ถูกต้อง
-
-auth-manualVerification = การตรวจสอบลายนิ้วมือด้วยตนเอง
-auth-questionAndAnswer = คำถามและคำตอบ
-auth-sharedSecret = ข้อมูลลับที่ใช้ร่วมกัน
-
-auth-manualVerification-label =
-    .label = { auth-manualVerification }
-
-auth-questionAndAnswer-label =
-    .label = { auth-questionAndAnswer }
-
-auth-sharedSecret-label =
-    .label = { auth-sharedSecret }
 
 auth-how = คุณต้องการยืนยันตัวตนของผู้ติดต่อของคุณอย่างไร?
 

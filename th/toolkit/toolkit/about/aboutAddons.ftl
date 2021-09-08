@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-window =
-    .title = ตัวจัดการส่วนเสริม
-
 addons-page-title = ตัวจัดการส่วนเสริม
 
 search-header =
@@ -35,18 +32,6 @@ help-button = การสนับสนุนของส่วนเสริ
 sidebar-help-button-title =
     .title = การสนับสนุนของส่วนเสริม
 
-preferences =
-    { PLATFORM() ->
-        [windows] ตัวเลือก { -brand-short-name }
-       *[other] ค่ากำหนด { -brand-short-name }
-    }
-sidebar-preferences-button-title =
-    .title =
-        { PLATFORM() ->
-            [windows] ตัวเลือก { -brand-short-name }
-           *[other] ค่ากำหนด { -brand-short-name }
-        }
-
 addons-settings-button = การตั้งค่า { -brand-short-name }
 sidebar-settings-button-title =
     .title = การตั้งค่า { -brand-short-name }
@@ -56,43 +41,6 @@ show-unsigned-extensions-button =
 
 show-all-extensions-button =
     .label = แสดงส่วนขยายทั้งหมด
-
-cmd-show-details =
-    .label = แสดงข้อมูลเพิ่มเติม
-    .accesskey = ส
-
-cmd-find-updates =
-    .label = ค้นหาการอัปเดต
-    .accesskey = น
-
-cmd-preferences =
-    .label =
-        { PLATFORM() ->
-            [windows] ตัวเลือก
-           *[other] ค่ากำหนด
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ต
-           *[other] ค
-        }
-
-cmd-enable-theme =
-    .label = ใช้ชุดตกแต่ง
-    .accesskey = ช
-
-cmd-disable-theme =
-    .label = เลิกใช้ชุดตกแต่ง
-    .accesskey = ช
-
-cmd-install-addon =
-    .label = ติดตั้ง
-    .accesskey = ต
-
-cmd-contribute =
-    .label = มีส่วนร่วม
-    .accesskey = ม
-    .tooltiptext = มีส่วนร่วมกับการพัฒนาส่วนเสริมนี้
 
 detail-version =
     .label = รุ่น
@@ -400,8 +348,6 @@ dictionary-disabled-heading = ถูกปิดใช้งาน
 
 locale-enabled-heading = ถูกเปิดใช้งาน
 locale-disabled-heading = ถูกปิดใช้งาน
-
-ask-to-activate-button = ถามเพื่อเปิดใช้งาน
 
 always-activate-button = เปิดใช้งานเสมอ
 never-activate-button = ไม่เปิดใช้งานเสมอ

@@ -6,9 +6,6 @@ permissions-reminder-window =
     .title = ข้อยกเว้น
     .style = width: 45em;
 
-window-close-key =
-    .key = w
-
 website-address-label =
     .value = ที่อยู่เว็บไซต์:
     .accesskey = ท

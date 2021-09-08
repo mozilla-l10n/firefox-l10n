@@ -18,9 +18,6 @@
 <!ENTITY menu_securitySign.label "ลงลายเซ็นข้อความนี้แบบดิจิทัล">
 <!ENTITY menu_securitySign.accesskey "ล">
 
-<!ENTITY menu_securityAttachMyKey.label "แนบคีย์สาธารณะของฉัน">
-<!ENTITY menu_securityAttachMyKey.accesskey "น">
-
 <!ENTITY menu_securityTech.label "เทคโนโลยีการเข้ารหัส">
 <!ENTITY menu_securityTech.accesskey "ท">
 

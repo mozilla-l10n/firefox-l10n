@@ -118,10 +118,6 @@ openpgp-key-send-key =
     .label = ส่งคีย์สาธารณะผ่านอีเมล
     .accesskey = ง
 
-openpgp-key-man-copy-to-clipbrd =
-    .label = คัดลอกคีย์สาธารณะไปยังคลิปบอร์ด
-    .accesskey = ค
-
 openpgp-key-man-copy-key-ids =
     .label =
         { $count ->
@@ -145,8 +141,6 @@ openpgp-key-man-copy-to-clipboard =
 
 openpgp-key-man-ctx-expor-to-file-label =
     .label = ส่งออกคีย์ไปยังไฟล์
-openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = คัดลอกคีย์สาธารณะไปยังคลิปบอร์ด
 
 openpgp-key-man-ctx-copy =
     .label = คัดลอก
@@ -295,14 +289,6 @@ openpgp-description =
        *[other] Thunderbird พบคีย์ OpenPGP ส่วนตัว { $count } คีย์ที่เชื่อมโยงกับ <b>{ $identity }</b>
     }
 
-#   $count (Number) - the number of configured keys associated with the current identity
-#   $key (String) - the currently selected OpenPGP key
-openpgp-selection-status =
-    { $count ->
-        [0] เลือกคีย์ที่ถูกต้องเพื่อเปิดใช้งานโปรโตคอล OpenPGP
-       *[other] การกำหนดค่าปัจจุบันของคุณใช้ ID คีย์ <b>{ $key }</b>
-    }
-
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-have-key = การกำหนดค่าปัจจุบันของคุณใช้ ID คีย์ <b>{ $key }</b>
 
@@ -335,14 +321,8 @@ openpgp-radio-key-not-found = ไม่พบคีย์นี้! หากค
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = จะหมดอายุใน: { $date }
 
-openpgp-key-expires-image =
-    .tooltiptext = คีย์จะหมดอายุในอีกไม่ถึง 6 เดือน
-
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = หมดอายุแล้วเมื่อ: { $date }
-
-openpgp-key-expired-image =
-    .tooltiptext = คีย์หมดอายุแล้ว
 
 openpgp-key-expires-within-6-months-icon =
     .title = คีย์จะหมดอายุในอีกไม่ถึง 6 เดือน
@@ -667,7 +647,6 @@ quoted-printable-warn =
 minimal-line-wrapping =
     คุณได้ตั้งค่าการตัดบรรทัดเป็น { $width } อักขระ สำหรับการเข้ารหัสที่ถูกต้องและ/หรือการลงลายเซ็น ค่านี้ต้องมีค่าอย่างน้อย 68
     คุณต้องการเปลี่ยนการตัดบรรทัดเป็น 68 อักขระตอนนี้หรือไม่
-sending-hidden-rcpt = ไม่สามารถใช้ผู้รับในช่อง สำเนาลับถึง เมื่อส่งข้อความที่เข้ารหัสได้ หากต้องการส่งข้อความที่ถูกเข้ารหัสนี้ ให้เอาผู้รับในช่อง สำเนาลับถึง ออก หรือย้ายผู้รับเหล่านั้นไปยังช่อง สำเนาถึง
 sending-news =
     การดำเนินการส่งที่ถูกเข้ารหัสถูกยกเลิก
     ไม่สามารถเข้ารหัสข้อความนี้ได้เนื่องจากมีผู้รับกลุ่มข่าว โปรดส่งข้อความใหม่โดยไม่มีการเข้ารหัส
@@ -727,9 +706,6 @@ enig-info = ข้อมูล OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &ลองใหม่
 dlg-button-skip = &ข้าม
-
-# Strings used in enigmailCommon.js
-enig-error = ข้อผิดพลาด OpenPGP
 
 # Strings used in enigmailMsgBox.js
 enig-alert-title =

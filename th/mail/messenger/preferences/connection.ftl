@@ -94,9 +94,6 @@ no-proxy-label =
 
 no-proxy-example = ตัวอย่าง: .mozilla.org, .net.nz, 192.168.1.0/24
 
-# Note: Do not translate localhost, 127.0.0.1 and ::1.
-no-proxy-localhost-label = การเชื่อมต่อไปยัง localhost, 127.0.0.1, และ ::1 จะไม่ผ่านพร็อกซี
-
 proxy-password-prompt =
     .label = ไม่ต้องถามสำหรับการรับรองความถูกต้องหากรหัสผ่านถูกบันทึกไว้
     .accesskey = ถ

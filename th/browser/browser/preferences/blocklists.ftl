@@ -13,14 +13,6 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = รายการ
 
-blocklist-button-cancel =
-    .label = ยกเลิก
-    .accesskey = ย
-
-blocklist-button-ok =
-    .label = บันทึกการเปลี่ยนแปลง
-    .accesskey = บ
-
 blocklist-dialog =
     .buttonlabelaccept = บันทึกการเปลี่ยนแปลง
     .buttonaccesskeyaccept = บ

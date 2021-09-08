@@ -97,9 +97,6 @@ lockwise-scanned-text-no-breached-logins =
     }
 lockwise-how-it-works-link = วิธีการทำงาน
 
-turn-on-sync = เปิด { -sync-brand-short-name }…
-    .title = ไปที่ค่ากำหนดการซิงค์
-
 monitor-title = ให้เราช่วยคอยเฝ้าระวังดูการละเมิดข้อมูล
 monitor-link = วิธีการทำงาน
 monitor-header-content-no-account = ตรวจสอบ { -monitor-brand-name } เพื่อดูว่าคุณเป็นส่วนหนึ่งของการรั่วไหลข้อมูลหรือไม่ และรับการแจ้งเตือนเกี่ยวกับข้อมูลที่รั่วไหลใหม่

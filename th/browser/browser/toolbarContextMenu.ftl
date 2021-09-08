@@ -20,13 +20,6 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = เลือกแท็บทั้งหมด
     .accesskey = ล
-toolbar-context-menu-undo-close-tabs =
-    .label =
-        { $tabCount ->
-            [1] เรียกคืนแท็บที่เพิ่งปิด
-           *[other] เรียกคืนแท็บที่เพิ่งปิด
-        }
-    .accesskey = ร
 
 toolbar-context-menu-reopen-closed-tabs =
     .label =
@@ -56,9 +49,6 @@ toolbar-context-menu-report-extension =
 toolbar-context-menu-pin-to-overflow-menu =
     .label = ปักหมุดไปยังเมนูล้น
     .accesskey = ป
-toolbar-context-menu-auto-hide-downloads-button =
-    .label = ซ่อนอัตโนมัติในแถบเครื่องมือ
-    .accesskey = ซ
 toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = ซ่อนปุ่มเมื่อว่างเปล่า
     .accesskey = ซ
